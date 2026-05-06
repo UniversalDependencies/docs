@@ -29,8 +29,8 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 5	som	som	PRON	HP|-|-|-	PronType=Int,Rel	11	nsubj	11:nsubj|13:nsubj	_
 6	Mexico	Mexico	PROPN	PM|NOM	Case=Nom	7	nsubj:pass	7:nsubj:pass	_
 7	hoppas	hoppas	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	4	acl:relcl	4:acl:relcl	_
-8	så	så	ADV	AB	ExtPos=ADV	11	advcl	11:advcl	_
-9	småningom	småningom	ADV	AB	_	8	fixed	8:fixed	_
+8	så	så	ADV	AB	ExtPos=ADV	11	advcl	11:advcl	ParsemeMWE=1:AdvID
+9	småningom	småningom	ADV	AB	_	8	fixed	8:fixed	ParsemeMWE=1
 10	kunna	kunna	AUX	VB|INF|AKT	VerbForm=Inf|Voice=Act	11	aux	11:aux	_
 11	stå	stå	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	7	ccomp	7:ccomp	_
 12	som	som	SCONJ	KN	_	13	mark	13:mark	_
@@ -55,9 +55,9 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 3	så	så	ADV	AB	_	4	advmod	4:advmod	_
 4	länge	länge	ADV	AB|POS	Degree=Pos	6	advmod	6:advmod	_
 5	sedan	sedan	ADV	AB	_	1	fixed	1:fixed	_
-6	skilde	skilja	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+6	skilde	skilja	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	ParsemeMWE=1:IRV
 7	han	han	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	6	nsubj	6:nsubj|18:nsubj	_
-8	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	6	obj	6:obj	_
+8	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	6	obj	6:obj	ParsemeMWE=1
 9	från	från	ADP	PP	_	10	case	10:case	_
 10	skådespelerskan	skådespelerska	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	6	obl	6:obl:från	SpaceAfter=No
 11	,	,	PUNCT	MID	_	12	punct	12:punct	_
@@ -71,7 +71,7 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 19	efter	efter	ADP	PP	_	22	case	22:case	_
 20	det	den	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing|PronType=Art	22	det	22:det	_
 21	äktenskapliga	äktenskaplig	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	22	amod	22:amod	_
-22	uppbrottet	uppbrott	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	18	obl	18:obl:efter	SpaceAfter=No
+22	uppbrottet	uppbrott	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	18	obl	18:obl:efter	SpaceAfter=No|ParsemeMWE=2:NV.IVPC.full
 23	.	.	PUNCT	MAD	_	6	punct	6:punct	_
 
 ~~~
@@ -87,9 +87,9 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 2	Kerber	Kerber	PROPN	PM|NOM	Case=Nom	3	obl	3:obl:för	_
 3	markerar	markera	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 4	säsongsavslutningen	säsongsavslutning	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	3	nsubj	3:nsubj	_
-5	icke	icke	PART	AB	ExtPos=ADV|Polarity=Neg	3	advmod	3:advmod	_
-6	desto	desto	ADV	AB	_	5	fixed	5:fixed	_
-7	mindre	lite	ADV	AB|KOM	Degree=Cmp	5	fixed	5:fixed	_
+5	icke	icke	PART	AB	ExtPos=ADV|Polarity=Neg	3	advmod	3:advmod	ParsemeMWE=1:AdvID
+6	desto	desto	ADV	AB	_	5	fixed	5:fixed	ParsemeMWE=1
+7	mindre	lite	ADV	AB|KOM	Degree=Cmp	5	fixed	5:fixed	ParsemeMWE=1
 8	slutet	slut	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	3	obj	3:obj	_
 9	på	på	ADP	PP	_	12	case	12:case	_
 10	ett	en	DET	DT|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	12	det	12:det	_

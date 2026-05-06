@@ -39,7 +39,7 @@ The following 2 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	Vakna	vakna	VERB	_	Mood=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
 2	upp	upp	ADV	_	_	1	compound:prt	_	_
 3	,	,	PUNCT	_	_	1	punct	_	_
-4	millenial	millenial	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Typo=Yes	1	vocative	_	CorrectionLabels=O
+4	millenial	millennial	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Typo=Yes	1	vocative	_	CorrectionLabels=O|SurfaceLemma=millenial
 5	!	!	PUNCT	_	_	1	punct	_	_
 
 ~~~

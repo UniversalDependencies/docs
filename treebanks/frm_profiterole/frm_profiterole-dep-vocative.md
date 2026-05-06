@@ -11,7 +11,7 @@ This relation is universal.
 185 nodes (0%) are attached to their parents as `vocative`.
 
 149 instances of `vocative` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.85405405405405.
+Average distance between parent and child is 6.88108108108108.
 
 The following 17 pairs of parts of speech are connected with `vocative`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (131; 71% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (16; 9% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (15; 8% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
@@ -28,8 +28,8 @@ The following 17 pairs of parts of speech are connected with `vocative`: <tt><a 
 4	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_08872
 5	dit	dire1	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_42_08873
 6	Jehan	Jean	PROPN	NOMpro	_	5	nsubj	_	XmlId=w_42_08874
-7	de	de	ADP	PRE	_	6	flat	_	XmlId=w_42_08875
-8	Paris	Paris	PROPN	NOMpro	_	6	flat	_	SpaceAfter=No|XmlId=w_42_08876
+7	de	de	ADP	PRE	_	8	case	_	XmlId=w_42_08875
+8	Paris	Paris	PROPN	NOMpro	_	6	nmod	_	SpaceAfter=No|XmlId=w_42_08876
 9	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_08877
 10	«	«	PUNCT	PONpga	_	13	punct	_	XmlId=w_42_08878
 11	vous	vous	PRON	PROper	PronType=Prs	13	nsubj	_	XmlId=w_42_08879
@@ -76,10 +76,10 @@ The following 17 pairs of parts of speech are connected with `vocative`: <tt><a 
 8	,	,	PUNCT	PONfbl	_	9	punct	_	XmlId=w_jouvencel1_20902
 9	Jouvencel	jouvenceau	PROPN	NOMpro	_	13	vocative	_	SpaceAfter=No|XmlId=w_jouvencel1_20903
 10	,	,	PUNCT	PONfbl	_	9	punct	_	XmlId=w_jouvencel1_20904
-11	ne	ne1	ADV	ADVneg	PronType=Neg	13	advmod	_	XmlId=w_jouvencel1_20905
+11	ne	ne1	ADV	ADVneg	Polarity=Neg	13	advmod	_	XmlId=w_jouvencel1_20905
 12	vous	vous	PRON	PROper	PronType=Prs	13	expl	_	XmlId=w_jouvencel1_20906
 13	hastés	hâter	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_20907
-14	pas	pas1	ADV	ADVneg	PronType=Neg	13	advmod	_	XmlId=w_jouvencel1_20908
+14	pas	pas1	ADV	ADVneg	Polarity=Neg	13	advmod	_	XmlId=w_jouvencel1_20908
 15	;	;	PUNCT	PONfbl	_	13	punct	_	XmlId=w_jouvencel1_20909
 
 ~~~

@@ -24,12 +24,12 @@ The following 133 pairs of parts of speech are connected with `conj`: <tt><a hre
 # visual-style 4 6 conj	color:blue
 1	Anleitung	Anleitung	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 2	zu	zu	ADP	APPR	AdpType=Prep|Case=Dat	4	case	_	_
-3	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	4	det	_	_
+3	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	Kindesmißbrauch	Kindesmißbrauch	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	_
 5	und	und	CCONJ	KON	_	6	cc	_	_
 6	Mord	Mord	NOUN	NN	Gender=Masc|Number=Sing	4	conj	_	_
 7	in	in	ADP	APPR	AdpType=Prep|Case=Dat	9	case	_	_
-8	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	9	det	_	_
+8	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
 9	Internet	Internet	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	_
 
 ~~~
@@ -65,7 +65,7 @@ The following 133 pairs of parts of speech are connected with `conj`: <tt><a hre
 4	investieren	investieren	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	groß	groß	ADJ	ADJD	Degree=Pos|Variant=Short	4	advmod	_	_
 6	in	in	ADP	APPR	AdpType=Prep|Case=Acc	8	case	_	_
-7	drahtloses	drahtlos	ADJ	ADJA	Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
+7	drahtloses	drahtlos	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	amod	_	_
 8	Internet	Internet	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
 
 ~~~

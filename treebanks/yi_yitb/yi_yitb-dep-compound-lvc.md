@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="yi_yitb-dep-compound.html">compound</a></tt>.
 There are also 2 other language-specific subtypes of `compound`: <tt><a href="yi_yitb-dep-compound-prt.html">compound:prt</a></tt>, <tt><a href="yi_yitb-dep-compound-redup.html">compound:redup</a></tt>.
 
-83 nodes (0%) are attached to their parents as `compound:lvc`.
+85 nodes (0%) are attached to their parents as `compound:lvc`.
 
-52 instances of `compound:lvc` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.34939759036145.
+54 instances of `compound:lvc` (64%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.34117647058824.
 
-The following 6 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (47; 57% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> (15; 18% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (11; 13% instances), <tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt>-<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (8; 10% instances), <tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (48; 56% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> (15; 18% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (11; 13% instances), <tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt>-<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (9; 11% instances), <tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

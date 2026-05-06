@@ -22,11 +22,11 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 appos	color:blue
-1	Je	il	PRON	PRP	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	wordform=je
-2	me	se	PRON	PRP	Number=Sing|Person=1|PronType=Prs	3	iobj	_	_
+1	Je	moi	PRON	PRP	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	wordform=je
+2	me	moi	PRON	PRP	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	demande	demander	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	également	également	ADV	RB	_	3	advmod	_	_
-5	si	si	ADP	IN	_	10	mark	_	_
+5	si	si	SCONJ	IN	_	10	mark	_	_
 6	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	Coupe	coupe	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	Proper=True|wordform=coupe
 8	Davis	Davis	PROPN	NNP	Gender=Masc|Number=Sing	7	appos	_	_
@@ -71,12 +71,12 @@ The following 22 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	de	de	ADP	IN	_	6	case	_	_
 6	Lucas	Lucas	PROPN	NNP	Gender=Masc|Number=Sing	3	nmod	_	_
 7	Cranach	Cranach	PROPN	NNP	Gender=Masc|Number=Sing	6	flat:name	_	_
-8	l’	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Proper=True|SpaceAfter=No|wordform=l'
+8	l'	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Proper=True|SpaceAfter=No
 9	Ancien	ancien	NOUN	NN	Gender=Masc|Number=Sing	6	appos	_	Proper=True|wordform=ancien
 10	attirent	attirer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-11	l’	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No|wordform=l'
+11	l'	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	SpaceAfter=No
 12	œil	œil	NOUN	NN	Gender=Masc|Number=Sing	10	obj	_	_
-13	d’	de	ADP	IN	_	15	case	_	SpaceAfter=No|wordform=d'
+13	d'	de	ADP	IN	_	15	case	_	SpaceAfter=No
 14	une	un	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	manière	manière	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
 16	frappante	frappant	ADJ	JJ	Gender=Fem|Number=Sing	15	amod	_	SpaceAfter=No

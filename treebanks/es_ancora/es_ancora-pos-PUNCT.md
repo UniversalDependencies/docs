@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Spanish-AnCora: POS Tags: `PUNCT`
 
 There are 17 `PUNCT` lemmas (0%), 18 `PUNCT` types (0%) and 65625 `PUNCT` tokens (12%).
-Out of 17 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 13 in number of types and 4 in number of tokens.
+Out of 16 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 13 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., ", -, (, ), :, ?, ;, ¿</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>etcétera</em> (<tt><a href="es_ancor
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.058824 (the average of all parts of speech is 1.505808).
+The form / lemma ratio of `PUNCT` is 1.058824 (the average of all parts of speech is 1.510625).
 
 The 1st highest number of forms (2) was observed with the lemma “etcétera”: <em>etc, etcétera</em>.
 
@@ -43,21 +43,19 @@ Examples: <em>,</em>
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="es_ancora-dep-punct.html">punct</a></tt> (65613; 100% instances), <tt><a href="es_ancora-dep-root.html">root</a></tt> (12; 0% instances)
+`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="es_ancora-dep-punct.html">punct</a></tt> (65624; 100% instances), <tt><a href="es_ancora-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 18 different parts of speech: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (30124; 46% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (16377; 25% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (7213; 11% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (5154; 8% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (1854; 3% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (1193; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1007; 2% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (987; 2% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (756; 1% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (306; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (204; 0% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (159; 0% instances), <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> (152; 0% instances), <tt><a href="es_ancora-pos-PART.html">PART</a></tt> (79; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (24; 0% instances), <tt><a href="es_ancora-pos-PUNCT.html">PUNCT</a></tt> (23; 0% instances),  (12; 0% instances), <tt><a href="es_ancora-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (30062; 46% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (16630; 25% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (7248; 11% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (5210; 8% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (1922; 3% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1022; 2% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (981; 1% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (952; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (731; 1% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (248; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (173; 0% instances), <tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> (166; 0% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (154; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (110; 0% instances), <tt><a href="es_ancora-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances),  (1; 0% instances), <tt><a href="es_ancora-pos-X.html">X</a></tt> (1; 0% instances)
 
-65614 (100%) `PUNCT` nodes are leaves.
+65618 (100%) `PUNCT` nodes are leaves.
 
 0 (0%) `PUNCT` nodes have one child.
 
-3 (0%) `PUNCT` nodes have two children.
+7 (0%) `PUNCT` nodes have two children.
 
-8 (0%) `PUNCT` nodes have three or more children.
+The highest child degree of a `PUNCT` node is 2.
 
-The highest child degree of a `PUNCT` node is 7.
+Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="es_ancora-dep-punct.html">punct</a></tt> (14; 100% instances)
 
-Children of `PUNCT` nodes are attached using 2 different relations: <tt><a href="es_ancora-dep-punct.html">punct</a></tt> (23; 68% instances), <tt><a href="es_ancora-dep-conj.html">conj</a></tt> (11; 32% instances)
-
-Children of `PUNCT` nodes belong to 6 different parts of speech: <tt><a href="es_ancora-pos-PUNCT.html">PUNCT</a></tt> (23; 68% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (4; 12% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (3; 9% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 3% instances)
+Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="es_ancora-pos-PUNCT.html">PUNCT</a></tt> (14; 100% instances)
 

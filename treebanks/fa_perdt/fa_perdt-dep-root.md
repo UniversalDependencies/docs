@@ -25,7 +25,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	یعنی	یعنی	INTJ	PSUS	_	13	obl	_	LTranslit=īʿnī|Translit=īʿnī
 2	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	LTranslit=mā|Translit=mā
 3	به	به	ADP	PREP	_	5	case	_	LTranslit=bh|Translit=bh
-4	این	این	DET	PREM_DEMAJ	_	5	det	_	LTranslit=āīn|Translit=āīn
+4	این	این	DET	PREM_DEMAJ	PronType=Dem	5	det	_	LTranslit=āīn|Translit=āīn
 5	ترتیب	ترتیب	NOUN	N_IANM	Number=Sing	13	obl	_	LTranslit=trtīb|Translit=trtīb
 6	فقط	فقط	ADV	ADV_SADV	_	7	advmod	_	LTranslit=fqṭ|Translit=fqṭ
 7	یک	یک	NUM	PRENUM	_	8	nummod	_	LTranslit=īk|Translit=īk
@@ -50,7 +50,7 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 2	واکنش	واکنش	NOUN	N_IANM	Number=Sing	9	nsubj	_	LTranslit=ūāknš|Translit=ūāknš
 3	او	او	PRON	PR_SEPER	Number=Sing|Person=3|PronType=Prs	2	nmod	_	LTranslit=āū|Translit=āū
 4	به	به	ADP	PREP	_	6	case	_	LTranslit=bh|Translit=bh
-5	این	این	DET	PREM_DEMAJ	_	6	det	_	LTranslit=āīn|Translit=āīn
+5	این	این	DET	PREM_DEMAJ	PronType=Dem	6	det	_	LTranslit=āīn|Translit=āīn
 6	عمل	عمل	NOUN	N_IANM	Number=Sing	2	nmod	_	LTranslit=ʿml|Translit=ʿml
 7	من	من	PRON	PR_SEPER	Number=Sing|Person=1|PronType=Prs	6	nmod	_	LTranslit=mn|SpaceAfter=No|Translit=mn
 8	،	،	PUNCT	PUNC	_	7	punct	_	LTranslit=,|Translit=,

@@ -29,12 +29,12 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 5	kardeşim	kardeş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	4	conj	_	SpaceAfter=No
 6	"	"	PUNCT	Punc	_	4	punct	_	_
 7	diyerek	de	VERB	Conv	Aspect=Prog|Polarity=Pos|VerbForm=Conv	10	advcl	_	_
-8	bana	ben	PRON	Pers	Case=Dat|Number=Sing|Person=1|PronType=Prs	10	obl	_	_
+8	bana	ben	PRON	Pers	Case=Dat|Number=Sing|Person=1|PronType=Prs	10	nmod	_	_
 9	ahlaksız	ahlaksız	ADJ	Adj	_	10	amod	_	DerivedFrom=ahlak
 10	teklifte	teklif	NOUN	_	Case=Loc|Number=Sing|Person=3	0	root	_	_
 11	bulunuyor	bulun	VERB	_	Aspect=Imp|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	10	compound	_	SpaceAfter=No
 12	,	,	PUNCT	Comma	_	13	punct	_	_
-13	kimisi	kimi	PRON	Quant	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	37	csubj:outer	_	_
+13	kimisi	kimi	PRON	Quant	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Ind	37	csubj:outer	_	_
 14	ise	i	PART	Topic	_	13	discourse	_	_
 15	"	"	PUNCT	Punc	_	19	punct	_	SpaceAfter=No
 16	sen	sen	PRON	Pers	Case=Nom|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	_
@@ -55,7 +55,7 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 31	yaparak	yap	VERB	Conv	Aspect=Prog|Polarity=Pos|VerbForm=Conv	30	compound	_	_
 32	çevresindekilerle	çevre	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	37	obl	_	_
 33	anlamsız	anlamsız	ADJ	Adj	_	35	amod	_	DerivedFrom=anlam
-34	bir	bir	DET	Indef	_	35	det	_	_
+34	bir	bir	DET	Indef	PronType=Ind	35	det	_	_
 35	kahkaha	kahkaha	NOUN	_	Case=Nom|Number=Sing|Person=3	36	nmod:poss	_	_
 36	yumağı	yumak	NOUN	_	Case=Acc|Number=Sing|Person=3	37	nsubj	_	_
 37	oluşturuyor	oluş	VERB	Ptcp	Aspect=Imp|Polarity=Pos|VerbForm=Part	10	conj	_	_

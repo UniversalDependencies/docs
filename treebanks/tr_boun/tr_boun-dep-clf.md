@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `clf`: <tt><a href="
 3	ve	ve	CCONJ	Conj	_	4	cc	_	_
 4	BOTAŞ	Botaş	PROPN	Abr	Case=Nom|Number=Sing|Person=3	2	conj	_	_
 5	tarafından	taraf	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	obl	_	_
-6	2	2	NUM	ANum	NumType=Card	7	nummod	_	_
+6	2	2	NUM	ANum	NumType=Card	8	nummod	_	_
 7	adet	adet	NOUN	_	Case=Nom|Number=Sing|Person=3	8	clf	_	_
 8	proje	proje	NOUN	_	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
 9	yürütülüyor	yürü	VERB	_	Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|Voice=Cau	0	root	_	SpaceAfter=No
@@ -42,7 +42,7 @@ The following 3 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 clf	color:blue
-1	3	3	NUM	NNum	Case=Nom|Number=Sing|NumType=Card|Person=3	2	nummod	_	_
+1	3	3	NUM	NNum	Case=Nom|Number=Sing|NumType=Card|Person=3	4	nummod	_	_
 2	adet	adet	NOUN	_	Case=Nom|Number=Sing|Person=3	4	clf	_	_
 3	dolmalık	dolmalık	ADJ	Adj	_	4	amod	_	DerivedFrom=dolma
 4	biber	biber	VERB	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
@@ -72,8 +72,8 @@ The following 3 pairs of parts of speech are connected with `clf`: <tt><a href="
 10	,	,	PUNCT	Comma	_	12	punct	_	_
 11	yarım	yarım	ADJ	Adj	_	12	compound	_	_
 12	salatalık	salatalık	NOUN	_	Case=Nom|Number=Sing|Person=3	5	conj	_	_
-13	ve	ve	CCONJ	Conj	_	15	cc	_	_
-14	2	2	NUM	ANum	NumType=Card	15	nummod	_	_
+13	ve	ve	CCONJ	Conj	_	19	cc	_	_
+14	2	2	NUM	ANum	NumType=Card	19	nummod	_	_
 15	dilim	dilim	NOUN	_	Case=Nom|Number=Sing|Person=3	19	clf	_	_
 16	doygun	doygun	ADJ	Adj	_	19	amod	_	_
 17	tam	tam	ADJ	Adj	_	18	amod	_	_

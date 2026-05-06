@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-3590 tokens (15%) have a non-empty value of `VerbForm`.
-705 types (17%) occur at least once with a non-empty value of `VerbForm`.
+3591 tokens (15%) have a non-empty value of `VerbForm`.
+706 types (17%) occur at least once with a non-empty value of `VerbForm`.
 382 lemmas (11%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1890; 8% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1700; 7% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1890; 8% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1700; 7% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -37,7 +37,8 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
   <tr><td><tt><tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>avaient</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>eurent</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ont</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_fqb-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>on</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>a</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="fr_fqb-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>on</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ayant</em></td></tr>
 </table>
 
@@ -70,6 +71,17 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>été</em></td></tr>
   <tr><td><tt><tt><a href="fr_fqb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>étant</em></td></tr>
 </table>
+
+### `ADJ`
+
+1 <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+
+`ADJ` tokens may have the following values of `VerbForm`:
+
+* `Part` (1; 100% of non-empty `VerbForm`): <em>affilé</em>
+* `EMPTY` (1511): <em>quel, quelle, premier, première, américain, grand, Quels, américaine, célèbre, quelles</em>
 
 ## Relations with Agreement in `VerbForm`
 

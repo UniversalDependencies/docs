@@ -119,7 +119,7 @@ The following 14 pairs of parts of speech are connected with `aux`: <tt><a href=
 17	_	_	NOUN	_	_	20	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=1800
 18	_	_	ADP	_	_	17	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 19	_	_	NOUN	_	_	20	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=24091
-20	_	_	NOUN	_	_	23	obl	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=22079
+20	_	_	NOUN	_	_	23	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=22079
 21	_	_	ADP	_	_	20	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=5
 22	_	_	NOUN	_	_	23	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=3|SpaceAfter=No|UI=61523
 23	_	_	NOUN	_	_	25	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=3|SpaceAfter=No|UI=61540

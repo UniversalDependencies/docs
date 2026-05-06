@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Greek-GUD: POS Tags: `PUNCT`
 
-There are 12 `PUNCT` lemmas (0%), 12 `PUNCT` types (0%) and 4389 `PUNCT` tokens (17%).
+There are 12 `PUNCT` lemmas (0%), 12 `PUNCT` types (0%) and 4388 `PUNCT` tokens (17%).
 Out of 17 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 15 in number of types and 1 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, », «, ;, :, “, ”, ', -</em>
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.674712).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.675929).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -34,11 +34,11 @@ The 3rd highest number of forms (1) was observed with the lemma “,”: <em>,</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="el_gud-dep-punct.html">punct</a></tt> (4389; 100% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="el_gud-dep-punct.html">punct</a></tt> (4388; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (3390; 77% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (423; 10% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (154; 4% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (143; 3% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (83; 2% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt> (44; 1% instances), <tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (44; 1% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (31; 1% instances), <tt><a href="el_gud-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="el_gud-pos-X.html">X</a></tt> (19; 0% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="el_gud-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="el_gud-pos-AUX.html">AUX</a></tt> (3; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (3411; 78% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (416; 9% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (155; 4% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (141; 3% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (82; 2% instances), <tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (41; 1% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt> (39; 1% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (31; 1% instances), <tt><a href="el_gud-pos-X.html">X</a></tt> (19; 0% instances), <tt><a href="el_gud-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="el_gud-pos-PART.html">PART</a></tt> (6; 0% instances), <tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="el_gud-pos-AUX.html">AUX</a></tt> (3; 0% instances)
 
-4389 (100%) `PUNCT` nodes are leaves.
+4388 (100%) `PUNCT` nodes are leaves.
 
 The highest child degree of a `PUNCT` node is 0.
 

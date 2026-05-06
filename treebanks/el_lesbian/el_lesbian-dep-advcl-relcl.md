@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="el_lesbian-dep-advcl.html">advcl</a></tt>.
 
-8 nodes (0%) are attached to their parents as `advcl:relcl`.
+10 nodes (0%) are attached to their parents as `advcl:relcl`.
 
-8 instances of `advcl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.125.
+10 instances of `advcl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.1.
 
-The following 2 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (7; 88% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 13% instances).
+The following 2 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (9; 90% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -25,11 +25,11 @@ The following 2 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 1	Δανά	δανά	ADV	_	_	7	advmod	_	_
 2	που	που	ADV	_	PronType=Rel	3	advmod	_	_
 3	ήρτις	έρχουμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl:relcl	_	_
-4	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	cop	_	_
+4	είνι	είμι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 5	σ	σι	ADP	_	_	7	case	_	_
 6	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	_	_
-7	ξουγάλια	ξουγάλια	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	0	root	_	_
-8	.	.	PUNCT	_	_	7	punct	_	_
+7	ξουγάλια	ξουγάλια	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
 
 ~~~
 
@@ -46,8 +46,8 @@ The following 2 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 4	πια	πια	ADV	_	_	3	advmod	_	_
 5	απ’	απού	ADP	_	_	6	case	_	_
 6	τότες	τότις	ADV	_	_	3	obl	_	_
-7	που	που	ADV	_	PronType=Rel	6	advcl:relcl	_	_
-8	...	...	PUNCT	_	_	3	punct	_	_
+7	που	που	ADV	_	PronType=Rel	6	advcl:relcl	_	SpaceAfter=No
+8	...	...	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 ~~~
 

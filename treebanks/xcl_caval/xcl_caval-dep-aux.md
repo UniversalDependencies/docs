@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="xcl_caval-dep-aux-caus.html">aux:caus</a></tt>.
 
-445 nodes (0%) are attached to their parents as `aux`.
+444 nodes (0%) are attached to their parents as `aux`.
 
-339 instances of `aux` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.31910112359551.
+338 instances of `aux` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.31981981981982.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (435; 98% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (435; 98% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt>-<tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

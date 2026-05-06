@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Abs` (70; 40% of non-empty `Degree`): <em>extremo, summa, extrema, maximus, proxima, proximam, proximis, summo, taeterrima, ultima</em>
 * `Cmp` (105; 60% of non-empty `Degree`): <em>amplius, maiore, melior, minus, maior, maiora, maiores, minor, minores, prior</em>
-* `EMPTY` (1956): <em>magna, publicae, publicam, magno, magnum, publica, magnam, prima, mala, p</em>
+* `EMPTY` (1954): <em>magna, publicae, publicam, magno, magnum, publica, magnam, prima, mala, p</em>
 
 <table>
   <tr><th>Paradigm <i>magnus</i></th><th><tt>Cmp</tt></th><th><tt>Abs</tt></th></tr>
@@ -95,7 +95,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>audentior</em>
-* `EMPTY` (5788): <em>habet, inquit, dixit, vidi, coepit, dedit, audivi, fecit, habere, dicere</em>
+* `EMPTY` (5790): <em>habet, inquit, dixit, vidi, coepit, dedit, audivi, fecit, habere, dicere</em>
 
 ## Relations with Agreement in `Degree`
 

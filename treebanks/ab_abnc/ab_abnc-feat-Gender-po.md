@@ -11,16 +11,16 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ab_abnc-feat-Gender.html">Gender</a></tt>, <tt><a href="ab_abnc-feat-Gender-cs.html">Gender[cs]</a></tt>, <tt><a href="ab_abnc-feat-Gender-io.html">Gender[io]</a></tt>, <tt><a href="ab_abnc-feat-Gender-lo.html">Gender[lo]</a></tt>, <tt><a href="ab_abnc-feat-Gender-obj.html">Gender[obj]</a></tt>, <tt><a href="ab_abnc-feat-Gender-po.html">Gender[po]</a></tt>, <tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt>, <tt><a href="ab_abnc-feat-Gender-refl.html">Gender[refl]</a></tt>, <tt><a href="ab_abnc-feat-Gender-ro.html">Gender[ro]</a></tt>, <tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt>.
 
-23 tokens (0%) have a non-empty value of `Gender[po]`.
-22 types (1%) occur at least once with a non-empty value of `Gender[po]`.
-13 lemmas (1%) occur at least once with a non-empty value of `Gender[po]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (23; 0% instances).
+28 tokens (0%) have a non-empty value of `Gender[po]`.
+25 types (0%) occur at least once with a non-empty value of `Gender[po]`.
+14 lemmas (1%) occur at least once with a non-empty value of `Gender[po]`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (28; 0% instances).
 
 ### `VERB`
 
-23 <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Gender[po]`.
+28 <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Gender[po]`.
 
-The most frequent other feature values with which `VERB` and `Gender[po]` co-occurred: <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=Yes</tt> (23; 100%), <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (23; 100%), <tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (23; 100%), <tt><a href="ab_abnc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (23; 100%), <tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (22; 96%), <tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (22; 96%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (22; 96%), <tt><a href="ab_abnc-feat-RelType.html">RelType</a></tt><tt>=EMPTY</tt> (22; 96%), <tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (21; 91%), <tt><a href="ab_abnc-feat-Gender-lo.html">Gender[lo]</a></tt><tt>=EMPTY</tt> (19; 83%).
+The most frequent other feature values with which `VERB` and `Gender[po]` co-occurred: <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=Yes</tt> (28; 100%), <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="ab_abnc-feat-Person-lo.html">Person[lo]</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="ab_abnc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (28; 100%), <tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (27; 96%), <tt><a href="ab_abnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (27; 96%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (27; 96%), <tt><a href="ab_abnc-feat-RelType.html">RelType</a></tt><tt>=EMPTY</tt> (27; 96%), <tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (25; 89%).
 
 `VERB` tokens may have the following values of `Gender[po]`:
 

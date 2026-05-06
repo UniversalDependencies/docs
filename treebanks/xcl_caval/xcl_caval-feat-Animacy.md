@@ -12,31 +12,31 @@ It occurs with 2 different values: `Anim`, `Inan`.
 1103 tokens (1%) have a non-empty value of `Animacy`.
 32 types (0%) occur at least once with a non-empty value of `Animacy`.
 8 lemmas (0%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (928; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (175; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (925; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (178; 0% instances).
 
 ### `PRON`
 
-928 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (9% of all `PRON` tokens) have a non-empty value of `Animacy`.
+925 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (9% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (928; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (928; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (865; 93%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (752; 81%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Nom</tt> (478; 52%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (925; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (925; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (862; 93%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (749; 81%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Nom</tt> (477; 52%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Anim` (488; 53% of non-empty `Animacy`): <em>ոք, ո, ով, ոմանք, ոմն, ումեք, ոյր, ում, ոյք, ուրուք</em>
-* `Inan` (440; 47% of non-empty `Animacy`): <em>ինչ, զինչ, զի, իւիք, իմիք, իմն, իրիք</em>
-* `EMPTY` (9575): <em>նա, որ, նորա, ձեզ, նոսա, նմա, իմ, նոցա, իս, իւր</em>
+* `Inan` (437; 47% of non-empty `Animacy`): <em>ինչ, զինչ, զի, իւիք, իմիք, իրիք, իմն</em>
+* `EMPTY` (9573): <em>նա, որ, նորա, ձեզ, նոսա, նմա, իմ, նոցա, իս, իւր</em>
 
 ### `DET`
 
-175 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Animacy`.
+178 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (175; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (171; 98%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (160; 91%), <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=Spec</tt> (94; 54%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Nom</tt> (93; 53%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (178; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (174; 98%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (163; 92%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=Nom</tt> (95; 53%), <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=Spec</tt> (95; 53%).
 
 `DET` tokens may have the following values of `Animacy`:
 
-* `Anim` (86; 49% of non-empty `Animacy`): <em>ոմն, ոմանք, ոք, ուրումն, ոմանց, ոմանս, ումեմնէ, ումեմն, ումեքէ, ուրուք</em>
-* `Inan` (89; 51% of non-empty `Animacy`): <em>ինչ, իմն, զինչ</em>
-* `EMPTY` (6923): <em>ն, ս, ամենայն, դ, մի, բազում, որ, այս, իւրում, այն</em>
+* `Anim` (86; 48% of non-empty `Animacy`): <em>ոմն, ոմանք, ոք, ուրումն, ոմանց, ոմանս, ումեմնէ, ումեմն, ումեքէ, ուրուք</em>
+* `Inan` (92; 52% of non-empty `Animacy`): <em>ինչ, իմն, զինչ</em>
+* `EMPTY` (6925): <em>ն, ս, ամենայն, դ, մի, բազում, որ, այս, իւրում, այն</em>
 
 ## Relations with Agreement in `Animacy`
 

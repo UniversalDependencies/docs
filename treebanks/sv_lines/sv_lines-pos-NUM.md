@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Swedish-LinES: POS Tags: `NUM`
 
-There are 139 `NUM` lemmas (1%), 148 `NUM` types (1%) and 534 `NUM` tokens (1%).
+There are 139 `NUM` lemmas (1%), 146 `NUM` types (1%) and 531 `NUM` tokens (1%).
 Out of 17 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 14 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>två, tre, ett, fem, sex, fyra, tio, 1, 2, 2000</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="sv_lines-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.064748 (the average of all parts of speech is 1.415505).
+The form / lemma ratio of `NUM` is 1.050360 (the average of all parts of speech is 1.413547).
 
 The 1st highest number of forms (3) was observed with the lemma “25”: <em>25, tjugofem, tjugufem</em>.
 
@@ -61,24 +61,24 @@ The 2nd highest number of forms (3) was observed with the lemma “60”: <em>60
 
 The 3rd highest number of forms (2) was observed with the lemma “1999.07.01”: <em>1999.07.01, _1999.07.01</em>.
 
-`NUM` occurs with 5 features: <tt><a href="sv_lines-feat-Number.html">Number</a></tt> (10; 2% instances), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt> (9; 2% instances), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt> (8; 1% instances), <tt><a href="sv_lines-feat-NumType.html">NumType</a></tt> (3; 1% instances), <tt><a href="sv_lines-feat-Case.html">Case</a></tt> (2; 0% instances)
+`NUM` occurs with 5 features: <tt><a href="sv_lines-feat-Number.html">Number</a></tt> (10; 2% instances), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt> (9; 2% instances), <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt> (8; 2% instances), <tt><a href="sv_lines-feat-NumType.html">NumType</a></tt> (3; 1% instances), <tt><a href="sv_lines-feat-Case.html">Case</a></tt> (2; 0% instances)
 
 `NUM` occurs with 6 feature-value pairs: `Case=Nom`, `Definite=Ind`, `Gender=Com`, `Gender=Neut`, `NumType=Card`, `Number=Sing`
 
 `NUM` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (521 tokens).
+The most frequent feature combination is `_` (518 tokens).
 Examples: <em>två, tre, en, fem, sex, fyra, tio, 1, 2, 2000</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 14 different relations: <tt><a href="sv_lines-dep-nummod.html">nummod</a></tt> (354; 66% instances), <tt><a href="sv_lines-dep-obl.html">obl</a></tt> (55; 10% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (28; 5% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (24; 4% instances), <tt><a href="sv_lines-dep-appos.html">appos</a></tt> (15; 3% instances), <tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt> (15; 3% instances), <tt><a href="sv_lines-dep-root.html">root</a></tt> (15; 3% instances), <tt><a href="sv_lines-dep-obj.html">obj</a></tt> (10; 2% instances), <tt><a href="sv_lines-dep-nmod.html">nmod</a></tt> (6; 1% instances), <tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="sv_lines-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 14 different relations: <tt><a href="sv_lines-dep-nummod.html">nummod</a></tt> (354; 67% instances), <tt><a href="sv_lines-dep-obl.html">obl</a></tt> (53; 10% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (28; 5% instances), <tt><a href="sv_lines-dep-discourse.html">discourse</a></tt> (24; 5% instances), <tt><a href="sv_lines-dep-appos.html">appos</a></tt> (15; 3% instances), <tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt> (15; 3% instances), <tt><a href="sv_lines-dep-root.html">root</a></tt> (15; 3% instances), <tt><a href="sv_lines-dep-obj.html">obj</a></tt> (10; 2% instances), <tt><a href="sv_lines-dep-nmod.html">nmod</a></tt> (5; 1% instances), <tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="sv_lines-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (353; 66% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (91; 17% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (31; 6% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (25; 5% instances),  (15; 3% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (352; 66% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (89; 17% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (31; 6% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (25; 5% instances),  (15; 3% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (1; 0% instances)
 
-330 (62%) `NUM` nodes are leaves.
+331 (62%) `NUM` nodes are leaves.
 
-127 (24%) `NUM` nodes have one child.
+123 (23%) `NUM` nodes have one child.
 
 42 (8%) `NUM` nodes have two children.
 
@@ -86,7 +86,7 @@ Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="sv_l
 
 The highest child degree of a `NUM` node is 7.
 
-Children of `NUM` nodes are attached using 17 different relations: <tt><a href="sv_lines-dep-nmod.html">nmod</a></tt> (85; 24% instances), <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (62; 18% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (46; 13% instances), <tt><a href="sv_lines-dep-case.html">case</a></tt> (42; 12% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (40; 11% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (20; 6% instances), <tt><a href="sv_lines-dep-cop.html">cop</a></tt> (16; 5% instances), <tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt> (14; 4% instances), <tt><a href="sv_lines-dep-det.html">det</a></tt> (8; 2% instances), <tt><a href="sv_lines-dep-mark.html">mark</a></tt> (4; 1% instances), <tt><a href="sv_lines-dep-acl-relcl.html">acl:relcl</a></tt> (3; 1% instances), <tt><a href="sv_lines-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="sv_lines-dep-nummod.html">nummod</a></tt> (3; 1% instances), <tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="sv_lines-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="sv_lines-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="sv_lines-dep-advcl.html">advcl</a></tt> (1; 0% instances)
+Children of `NUM` nodes are attached using 17 different relations: <tt><a href="sv_lines-dep-nmod.html">nmod</a></tt> (84; 24% instances), <tt><a href="sv_lines-dep-punct.html">punct</a></tt> (62; 18% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (43; 12% instances), <tt><a href="sv_lines-dep-case.html">case</a></tt> (42; 12% instances), <tt><a href="sv_lines-dep-advmod.html">advmod</a></tt> (40; 11% instances), <tt><a href="sv_lines-dep-cc.html">cc</a></tt> (20; 6% instances), <tt><a href="sv_lines-dep-cop.html">cop</a></tt> (16; 5% instances), <tt><a href="sv_lines-dep-nsubj.html">nsubj</a></tt> (14; 4% instances), <tt><a href="sv_lines-dep-det.html">det</a></tt> (8; 2% instances), <tt><a href="sv_lines-dep-mark.html">mark</a></tt> (4; 1% instances), <tt><a href="sv_lines-dep-acl-relcl.html">acl:relcl</a></tt> (3; 1% instances), <tt><a href="sv_lines-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="sv_lines-dep-nummod.html">nummod</a></tt> (3; 1% instances), <tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="sv_lines-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="sv_lines-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="sv_lines-dep-advcl.html">advcl</a></tt> (1; 0% instances)
 
-Children of `NUM` nodes belong to 15 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (90; 25% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (62; 18% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (41; 12% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (41; 12% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (31; 9% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (20; 6% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (16; 5% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (14; 4% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (12; 3% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (9; 3% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (1; 0% instances)
+Children of `NUM` nodes belong to 15 different parts of speech: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (86; 25% instances), <tt><a href="sv_lines-pos-PUNCT.html">PUNCT</a></tt> (62; 18% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (41; 12% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (41; 12% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (31; 9% instances), <tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (20; 6% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (16; 5% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (14; 4% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (12; 3% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (9; 3% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="sv_lines-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt> (1; 0% instances)
 

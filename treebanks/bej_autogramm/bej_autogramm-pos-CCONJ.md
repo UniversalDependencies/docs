@@ -11,19 +11,19 @@ Out of 16 observed tags, the rank of `CCONJ` is: 5 in number of lemmas, 15 in nu
 
 The 10 most frequent `CCONJ` lemmas: <em>_</em>
 
-The 10 most frequent `CCONJ` types:  <em>=t, =wa, areː, =jaːt, =aːt, =ajt, =it, =wwa, tara, =aj</em>
+The 10 most frequent `CCONJ` types:  <em>=t, =wa, areː, =jaːt, =aːt, =ajt, =wwa, =it, tara, =aj</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> 2410, <tt><a href="bej_autogramm-pos-PUNCT.html">PUNCT</a></tt> 2363, <tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> 1736, <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> 1719, <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> 819, <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> 766, <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> 594, <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 338, <tt><a href="bej_autogramm-pos-PART.html">PART</a></tt> 321, <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> 284, <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> 191, <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> 149, <tt><a href="bej_autogramm-pos-X.html">X</a></tt> 73, <tt><a href="bej_autogramm-pos-INTJ.html">INTJ</a></tt> 66, <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> 63, <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> 59)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> 2408, <tt><a href="bej_autogramm-pos-PUNCT.html">PUNCT</a></tt> 2363, <tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> 1736, <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> 1719, <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> 821, <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> 767, <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> 585, <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 338, <tt><a href="bej_autogramm-pos-PART.html">PART</a></tt> 321, <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> 288, <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> 192, <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> 149, <tt><a href="bej_autogramm-pos-X.html">X</a></tt> 73, <tt><a href="bej_autogramm-pos-INTJ.html">INTJ</a></tt> 66, <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> 63, <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> 59)
 
-The 10 most frequent ambiguous types:  <em>=t</em> (<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> 383, <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 117, <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> 9), <em>=wa</em> (<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 90, <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> 8), <em>areː</em> (<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 34, <tt><a href="bej_autogramm-pos-PART.html">PART</a></tt> 1), <em>=ajt</em> (<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> 38, <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 15), <em>=it</em> (<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 7), <em>=aj</em> (<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> 4, <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 3), <em>han</em> (<tt><a href="bej_autogramm-pos-PART.html">PART</a></tt> 30, <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>=t</em> (<tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> 384, <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 117, <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> 8), <em>=wa</em> (<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 87, <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> 8), <em>areː</em> (<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 34, <tt><a href="bej_autogramm-pos-PART.html">PART</a></tt> 1), <em>=ajt</em> (<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> 38, <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 15), <em>=it</em> (<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 7), <em>=aj</em> (<tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> 30, <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> 4, <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 3), <em>han</em> (<tt><a href="bej_autogramm-pos-PART.html">PART</a></tt> 30, <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> 2, <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 2)
 
 
 * <em>=t</em>
-  * <tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> 383: <em>oːn ti= ʃaː <b>=t</b> =oːn tamna ti= i̠ːjʔaː gʷʔana /</em>
+  * <tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> 384: <em>oːn ti= ʃaː <b>=t</b> =oːn tamna ti= i̠ːjʔaː gʷʔana /</em>
   * <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 117: <em>ontʔa // bak ʔabkin / w= hi ini =oː =hoːb // ajwa / adi <b>=t</b></em>
-  * <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> 9: <em>takat miskiːn =t areː / ʔarit / mhaj =t / tiːbri <b>=t</b> tiːfi /</em>
+  * <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> 8: <em>takat miskiːn =t areː / ʔarit / mhaj =t / tiːbri <b>=t</b> tiːfi /</em>
 * <em>=wa</em>
-  * <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 90: <em>beːn khoːrʔarab <b>=wa</b> mariː daːjiːni / adi ini //</em>
+  * <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 87: <em>beːn khoːrʔarab <b>=wa</b> mariː daːjiːni / adi ini //</em>
   * <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> 8: <em>ontʔa / kak jʔaːb <b>=wa</b> ?</em>
 * <em>areː</em>
   * <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 34: <em><b>areː</b> uː= dhaj daːjeːb iːwrina /</em>
@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>=t</em> (<tt><a href="bej_autogramm-p
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 12.000000 (the average of all parts of speech is 126.875000).
+The form / lemma ratio of `CCONJ` is 12.000000 (the average of all parts of speech is 127.062500).
 
 The 1st highest number of forms (12) was observed with the lemma “_”: <em>=aj, =ajt, =aːt, =it, =jaːt, =t, =wa, =wwa, areː, han, laːkin, tara</em>.
 
@@ -55,16 +55,22 @@ The 1st highest number of forms (12) was observed with the lemma “_”: <em>=a
 
 `CCONJ` occurs with 3 feature combinations.
 The most frequent feature combination is `_` (334 tokens).
-Examples: <em>=t, =wa, areː, =jaːt, =aːt, =ajt, =it, =wwa, tara, =aj</em>
+Examples: <em>=t, =wa, areː, =jaːt, =aːt, =ajt, =wwa, =it, tara, =aj</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="bej_autogramm-dep-cc.html">cc</a></tt> (338; 100% instances)
+`CCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="bej_autogramm-dep-cc.html">cc</a></tt> (337; 100% instances), <tt><a href="bej_autogramm-dep-dep-conj.html">dep:conj</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (234; 69% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (76; 22% instances), <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (7; 2% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> (6; 2% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 9 different parts of speech: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (234; 69% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (76; 22% instances), <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (9; 3% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (7; 2% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-338 (100%) `CCONJ` nodes are leaves.
+337 (100%) `CCONJ` nodes are leaves.
 
-The highest child degree of a `CCONJ` node is 0.
+1 (0%) `CCONJ` nodes have one child.
+
+The highest child degree of a `CCONJ` node is 1.
+
+Children of `CCONJ` nodes are attached using 1 different relations: <tt><a href="bej_autogramm-dep-punct.html">punct</a></tt> (1; 100% instances)
+
+Children of `CCONJ` nodes belong to 1 different parts of speech: <tt><a href="bej_autogramm-pos-PUNCT.html">PUNCT</a></tt> (1; 100% instances)
 

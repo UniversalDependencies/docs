@@ -22,7 +22,7 @@ The following 19 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 3 iobj	color:blue
-1	Her	her	DET	Det	_	3	det	_	_
+1	Her	her	DET	Det	PronType=Dem	3	det	_	_
 2	duygusal	duygusal	ADJ	Adj	_	3	amod	_	_
 3	yaklaşıma	yaklaşım	NOUN	Noun	Case=Dat|Number=Sing|Person=3	7	iobj	_	SpaceAfter=No
 4	,	,	PUNCT	Punc	_	7	punct	_	_

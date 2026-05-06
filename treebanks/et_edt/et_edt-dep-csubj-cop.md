@@ -30,7 +30,7 @@ The following 19 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 6	et	et	SCONJ	J	_	7	mark	7:mark	_
 7	näevad	nägema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	csubj:cop	4:csubj	Verb=nägema
 8	mind	mina	PRON	P	Case=Par|Number=Sing|Person=1|PronType=Prs	7	obj	7:obj	Arg=nägema_Arg_1
-9	praegu	praegu	ADV	D	_	7	advmod	7:advmod	_
+9	praegu	praegu	ADV	D	_	7	advmod:tmod	7:advmod	_
 10	elusast	elus	ADJ	A	Case=Ela|Degree=Pos|Number=Sing	11	amod	11:amod	_
 11	peast	pea	NOUN	S	Case=Ela|Number=Sing	7	obl	7:obl	SpaceAfter=No
 12	?	?	PUNCT	Z	_	4	punct	4:punct	_
@@ -48,7 +48,7 @@ The following 19 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 2	küsimus	küsimus	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	_
 3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	2:cop	SpaceAfter=No
 4	,	,	PUNCT	Z	_	8	punct	8:punct	_
-5	millest	mis	PRON	P	Case=Ela|Number=Sing|PronType=Int,Rel	8	obl	8:obl	Arg=meenuma_Arg_3
+5	millest	mis	PRON	P	Case=Ela|Number=Sing|PronType=Int,Rel	8	obl:arg	8:obl	Arg=meenuma_Arg_3
 6	need	see	DET	P	Case=Nom|Number=Plur|PronType=Dem	7	det	7:det	_
 7	kirjad	kiri	NOUN	S	Case=Nom|Number=Plur	8	nsubj	8:nsubj	Arg=meenuma_Arg_0
 8	jutustavad	jutustama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj:cop	2:csubj	SpaceAfter=No|Verb=jutustama
@@ -65,7 +65,7 @@ The following 19 pairs of parts of speech are connected with `csubj:cop`: <tt><a
 # visual-style 6 7 csubj:cop	color:blue
 1	“	“	PUNCT	Z	_	6	punct	6:punct	_
 2	Paari	paar	NUM	N	Case=Gen|Number=Sing|NumForm=Word|NumType=Card	3	nummod	3:nummod	_
-3	kuu	kuu	NOUN	S	Case=Gen|Number=Sing	6	obl	6:obl	_
+3	kuu	kuu	NOUN	S	Case=Gen|Number=Sing	6	obl:tmod	6:obl	_
 4	pärast	pärast	ADP	K	AdpType=Post	3	case	3:case	_
 5	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
 6	rohkem	rohkem	ADV	D	_	10	ccomp	10:ccomp	Arg=lubama_Arg_1

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16 nodes (0%) are attached to their parents as `csubj`.
+21 nodes (0%) are attached to their parents as `csubj`.
 
-11 instances of `csubj` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.25.
+16 instances of `csubj` (76%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.57142857142857.
 
-The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (6; 38% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (5; 31% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (2; 13% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (2; 13% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (9; 43% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (7; 33% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (2; 10% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (2; 10% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 5	piedi	piede	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	End=310.64|Intonation=Falling|KID=76-4
 6	e	e	CCONJ	_	_	9	cc	_	Begin=311.545|KID=77-0|Prolonged=Yes
 7	quindi	quindi	CCONJ	_	_	9	advmod	_	KID=77-1
-8	sì	sì	INTJ	_	_	9	discourse	_	KID=77-2
+8	sì	sì	ADV	_	_	9	discourse	_	KID=77-2
 9	prendo	prendere	VERB	_	VerbForm=Ger	2	conj	_	KID=77-3
 10	sempre	sempre	ADV	_	_	9	advmod	_	KID=77-4
 11	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	KID=77-5

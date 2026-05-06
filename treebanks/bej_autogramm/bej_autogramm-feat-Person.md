@@ -22,10 +22,10 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (366; 53% of non-empty `Person`): <em>=heːb, =i, ani, =oːn, aneːb, =oː, =eː, =ji, =uːn, hinin</em>
+* `1` (366; 53% of non-empty `Person`): <em>=heːb, =i, ani, =oːn, aneːb, =oː, =ji, =uːn, hinin, =eː</em>
 * `2` (134; 20% of non-empty `Person`): <em>=hoːk, =oːk, =eːk, baruːk, umbaruːk, =uːk, hoːk, baroːk, =oːkna, barijoːk</em>
 * `3` (186; 27% of non-empty `Person`): <em>=oː, =eː, =joː, =aː, =hi, =jeː, =ijoː, =ihi, =uː, baruː</em>
-* `EMPTY` (133): <em>kna, hoːj, ti=, wi=, naːn, i=, w=, naː, -t, t=</em>
+* `EMPTY` (135): <em>kna, hoːj, ti=, wi=, naːn, i=, naː, w=, -t, ji=</em>
 
 ### `VERB`
 
@@ -38,11 +38,11 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (11; 4% of non-empty `Person`): <em>ʔagar, dannʔi, hagil, hagit, haːra~riw, manri, ʔanbiːk</em>
 * `2` (3; 1% of non-empty `Person`): <em>danri, fanrʔi, ʃanbiːb</em>
 * `3` (299; 96% of non-empty `Person`): <em>eːn, manri, ʔeːja, ʔeːta, dannʔi, ʃanbiːb, ʔeːti, fanrʔi, danri, eːjawna</em>
-* `EMPTY` (2097): <em>indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna, diːtiːt</em>
+* `EMPTY` (2095): <em>indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna, diːtiːt</em>
 
 ### `AUX`
 
-124 <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> tokens (44% of all `AUX` tokens) have a non-empty value of `Person`.
+124 <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> tokens (43% of all `AUX` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="bej_autogramm-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (122; 98%), <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (116; 94%), <tt><a href="bej_autogramm-feat-VerbType.html">VerbType</a></tt><tt>=Cop</tt> (115; 93%), <tt><a href="bej_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (101; 81%).
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 * `1` (16; 13% of non-empty `Person`): <em>=u, =i, =a, ʔeːnaj</em>
 * `2` (8; 6% of non-empty `Person`): <em>=wa</em>
 * `3` (100; 81% of non-empty `Person`): <em>=u, =i, =a, =ju, =jaː, =ji, dannʔi</em>
-* `EMPTY` (160): <em>andi, akajeː, aki, nijad, iki, ihi, ijajna, indi, adi, ba=</em>
+* `EMPTY` (164): <em>andi, akajeː, aki, nijad, iki, ihi, ijajna, indi, adi, ba=</em>
 
 ### `PART`
 

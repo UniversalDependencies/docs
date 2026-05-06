@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="olo_kkpp-pos-VERB.h
 
 201 <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> tokens (78% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (188; 94%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (187; 93%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (174; 87%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (151; 75%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (103; 51%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (188; 94%), <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (188; 94%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (174; 87%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (151; 75%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (103; 51%).
 
 `VERB` tokens may have the following values of `Tense`:
 

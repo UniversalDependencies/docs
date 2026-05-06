@@ -12,18 +12,18 @@ It occurs with 2 different values: `Fem`, `Masc`.
 149539 tokens (45%) have a non-empty value of `Gender`.
 43639 types (79%) occur at least once with a non-empty value of `Gender`.
 17823 lemmas (76%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (87912; 27% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (15821; 5% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (15328; 5% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (12755; 4% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (12154; 4% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (3457; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1900; 1% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (212; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (87912; 27% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (15821; 5% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (15329; 5% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (12755; 4% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (12154; 4% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (3456; 1% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (1900; 1% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (212; 0% instances).
 
 ### `NOUN`
 
 87912 <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (59682; 68%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (59681; 68%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (44166; 50% of non-empty `Gender`): <em>valsts, izglītības, vietā, pasaules, zemes, dzīves, reizi, dienas, mājās, darbības</em>
-* `Masc` (43746; 50% of non-empty `Gender`): <em>gada, laikā, gadā, darba, gadu, eiro, cilvēki, piemēram, laiku, cilvēku</em>
+* `Fem` (44167; 50% of non-empty `Gender`): <em>valsts, izglītības, vietā, pasaules, zemes, dzīves, reizi, dienas, mājās, darbības</em>
+* `Masc` (43745; 50% of non-empty `Gender`): <em>gada, laikā, gadā, darba, gadu, eiro, cilvēki, piemēram, laiku, cilvēku</em>
 * `EMPTY` (862): <em>SIA, pagaidu, papildu, padomju, TV, IKP, km, milzu, AS, DL</em>
 
 <table>
@@ -103,14 +103,14 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `DET`
 
-15328 <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
+15329 <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10348; 68%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8774; 57%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (5519; 36% of non-empty `Gender`): <em>tā, tās, savu, šīs, kuras, šo, to, šī, savas, kurā</em>
-* `Masc` (9809; 64% of non-empty `Gender`): <em>to, tas, tam, visu, kurš, tie, tā, savu, šo, kuri</em>
+* `Masc` (9810; 64% of non-empty `Gender`): <em>to, tas, tam, visu, kurš, tie, tā, savu, šo, kuri</em>
 
 <table>
   <tr><th>Paradigm <i>tas</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -199,14 +199,14 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `PRON`
 
-3457 <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> tokens (33% of all `PRON` tokens) have a non-empty value of `Gender`.
+3456 <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> tokens (33% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (3436; 99%), <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3433; 99%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2722; 79%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1921; 56%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=3</tt> (3435; 99%), <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3433; 99%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2722; 79%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1920; 56%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (1304; 38% of non-empty `Gender`): <em>viņa, viņas, viņai, viņu, viņām, viņā, Tawa, Tām, iā, kura</em>
-* `Masc` (2153; 62% of non-empty `Gender`): <em>viņš, viņi, viņu, viņa, viņam, viņiem, viņus, viņā, pašā, VĪNI</em>
+* `Masc` (2152; 62% of non-empty `Gender`): <em>viņš, viņi, viņu, viņa, viņam, viņiem, viņus, viņā, pašā, VĪNI</em>
 * `EMPTY` (7071): <em>kas, es, ko, man, mēs, tu, mums, mūsu, mani, sevi</em>
 
 <table>
@@ -237,7 +237,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 * `Fem` (728; 38% of non-empty `Gender`): <em>viena, divas, vienu, vienas, vienā, trīs, divām, otru, otras, vienai</em>
 * `Masc` (1172; 62% of non-empty `Gender`): <em>viens, vienu, divi, trīs, diviem, divus, otru, viena, vienā, vienam</em>
-* `EMPTY` (2279): <em>trīs, desmit, 20, 3, 10, 30, 2, 1, 15, 5</em>
+* `EMPTY` (2277): <em>trīs, desmit, 20, 3, 10, 30, 2, 1, 15, 5</em>
 
 <table>
   <tr><th>Paradigm <i>viens</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -282,13 +282,13 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11421; 87%),
-<tt>NOUN --[<tt><a href="lv_lvtb-dep-det.html">det</a></tt>]--> DET</tt> (6725; 92%),
-<tt>NOUN --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> VERB</tt> (3774; 95%),
+<tt>NOUN --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11424; 87%),
+<tt>NOUN --[<tt><a href="lv_lvtb-dep-det.html">det</a></tt>]--> DET</tt> (6732; 92%),
+<tt>NOUN --[<tt><a href="lv_lvtb-dep-amod.html">amod</a></tt>]--> VERB</tt> (3775; 95%),
 <tt>NOUN --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3415; 62%),
 <tt>VERB --[<tt><a href="lv_lvtb-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (1841; 97%),
 <tt>PROPN --[<tt><a href="lv_lvtb-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (1638; 78%),
-<tt>PROPN --[<tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1173; 75%),
+<tt>PROPN --[<tt><a href="lv_lvtb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1174; 75%),
 <tt>ADJ --[<tt><a href="lv_lvtb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (860; 96%),
 <tt>ADJ --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (671; 93%),
 <tt>PROPN --[<tt><a href="lv_lvtb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (642; 71%).

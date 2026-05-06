@@ -11,21 +11,21 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="koi_uh-feat-Number.html">Number</a></tt>, <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="koi_uh-feat-Number-subj.html">Number[subj]</a></tt>.
 
-572 tokens (53%) have a non-empty value of `Number`.
-427 types (74%) occur at least once with a non-empty value of `Number`.
-318 lemmas (70%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (233; 22% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (151; 14% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (101; 9% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (27; 2% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (24; 2% instances), <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (16; 1% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="koi_uh-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+612 tokens (53%) have a non-empty value of `Number`.
+457 types (74%) occur at least once with a non-empty value of `Number`.
+338 lemmas (70%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (245; 21% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (160; 14% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (113; 10% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (30; 3% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (28; 2% instances), <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (16; 1% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="koi_uh-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-233 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Number`.
+245 <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (179; 77%), <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (159; 68%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (159; 68%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (143; 61%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (187; 76%), <tt><a href="koi_uh-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (165; 67%), <tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (165; 67%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (150; 61%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (21; 9% of non-empty `Number`): <em>Томмес, Тшаккесö, аннэзӧ, видзоккез, воннэз, гряддэс, думаэз, звездаэз, квартираэсӧ, ключчез</em>
-* `Sing` (212; 91% of non-empty `Number`): <em>Петя, айӧ, йӧрсӧ, керку, морт, Машакöт, айся, гортас, дорас, луныс</em>
+* `Plur` (23; 9% of non-empty `Number`): <em>Номмес, Томмес, Тшаккесö, аннэзӧ, видзоккез, воннэз, гряддэс, думаэз, звездаэз, квартираэсӧ</em>
+* `Sing` (222; 91% of non-empty `Number`): <em>Петя, айӧ, йӧрсӧ, керку, морт, Машакöт, айся, гортас, дорас, луныс</em>
 * `EMPTY` (9): <em>ордчӧн, баня, дорын, крышави, неделяся, памятяс, середа, ылын</em>
 
 <table>
@@ -35,19 +35,19 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><tt><a href="koi_uh-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>воныс</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `NOUN`. 97% lemmas (141) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 97% lemmas (150) occur only with one value of `Number`.
 
 ### `VERB`
 
-151 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Number`.
+160 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (78% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (144; 95%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (141; 93%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (115; 76%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (96; 64%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (152; 95%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (148; 93%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (120; 75%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (98; 61%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (24; 16% of non-empty `Number`): <em>вайисӧ, вуджим, вуджӧны, иньдӧтчисӧ, кoтӧpтіcӧ, кокаласӧ, кутчисисӧ, кушамисӧ, лэбтіcиcӧ, мунісӧ</em>
-* `Sing` (127; 84% of non-empty `Number`): <em>зэрӧ, быдмис, локтін, босьтіс, вашöтö, велалас, высьтіс, гижис, котӧртіс, краситӧм</em>
-* `EMPTY` (40): <em>вӧтны, керны, адззавлыны, адззыв, аркмы, артав, артась, боньгыныт, бӧрйыны, вöрзьöт</em>
+* `Plur` (29; 18% of non-empty `Number`): <em>вайисӧ, видзлывламö, вильöтöв-керисö, висьö, вовлісьöны, вуджим, вуджӧны, иньдӧтчисӧ, кoтӧpтіcӧ, кокаласӧ</em>
+* `Sing` (131; 82% of non-empty `Number`): <em>зэрӧ, быдмис, локтін, босьтіс, вашöтö, велалас, высьтіс, гижис, котӧртіс, краситӧм</em>
+* `EMPTY` (46): <em>вӧтны, керны, öшöтöмöн, адззавлыны, адззыв, аркмы, артав, артась, боньгыныт, бӧрйыны</em>
 
 <table>
   <tr><th>Paradigm <i>мунны</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -57,23 +57,24 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>мунö</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `VERB`. 92% lemmas (98) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `VERB`. 93% lemmas (106) occur only with one value of `Number`.
 
 ### `PRON`
 
-101 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (93% of all `PRON` tokens) have a non-empty value of `Number`.
+113 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (93% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (86; 85%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (63; 62%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (93; 82%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (70; 62%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (8; 8% of non-empty `Number`): <em>нія, эна, Ми, кыкнаннысӧ, ны, ті</em>
-* `Sing` (93; 92% of non-empty `Number`): <em>сія, ме, тэ, менам, сійӧ, тэнат, Сiя, меным, сылӧ, сылӧн</em>
+* `Plur` (11; 10% of non-empty `Number`): <em>нія, эна, Ми, Мийö, кыкнаннысӧ, миянöс, ны, ті</em>
+* `Sing` (102; 90% of non-empty `Number`): <em>сія, ме, тэ, менам, тэнат, сійӧ, Мый, Сiя, меным, сылӧ</em>
 * `EMPTY` (8): <em>мый, ас, Кытшӧм, быд, этö</em>
 
 <table>
   <tr><th>Paradigm <i>сія</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>сійӧ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>сыкöт</em></td><td></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>сылӧ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>сылӧн, Сылöн</em></td><td></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>сылöн</em></td><td></td></tr>
@@ -81,40 +82,43 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>Сы</em></td><td><em>ны</em></td></tr>
 </table>
 
-### `PROPN`
-
-27 <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="koi_uh-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (19; 70%), <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (17; 63%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17; 63%).
-
-`PROPN` tokens may have the following values of `Number`:
-
-* `Sing` (27; 100% of non-empty `Number`): <em>Петялӧн, Мери, Питер, Парижын, Сэм, Браунӧс, Ворошилов, Джейн, Дёма, Игаузу</em>
-* `EMPTY` (2): <em>Нетулика, Тулика</em>
-
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (17) occur only with one value of `Number`.
-
 ### `AUX`
 
-24 <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> tokens (62% of all `AUX` tokens) have a non-empty value of `Number`.
+30 <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> tokens (67% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (24; 100%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (24; 100%), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (19; 79%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (14; 58%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (13; 54%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (30; 100%), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (25; 83%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (24; 80%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (19; 63%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (16; 53%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (5; 21% of non-empty `Number`): <em>озӧ, эг, эгö, эд</em>
-* `Sing` (19; 79% of non-empty `Number`): <em>оз, эз, вӧлі, эг, верман, коліс, овлӧ, ог, он, эн</em>
+* `Plur` (5; 17% of non-empty `Number`): <em>озӧ, эг, эгö, эд</em>
+* `Sing` (25; 83% of non-empty `Number`): <em>оз, эз, вӧлі, эг, эн, верман, коліс, овлӧ, ог, он</em>
 * `EMPTY` (15): <em>абу, вермы, не, эз, абуöсь, бы, вӧв, овны, позь</em>
 
 <table>
   <tr><th>Paradigm <i>оз</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эг</em></td><td><em>эг, эгö</em></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ог</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эн</em></td><td><em>эд</em></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>он</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>эг</em></td><td><em>эг, эгö</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ог</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эн</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>эн</em></td><td><em>эд</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>он</em></td><td></td></tr>
   <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>эз</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>оз</em></td><td><em>озӧ</em></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>эз</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>оз</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>оз</em></td><td><em>озӧ</em></td></tr>
 </table>
+
+### `PROPN`
+
+28 <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="koi_uh-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (19; 68%), <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (17; 61%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17; 61%).
+
+`PROPN` tokens may have the following values of `Number`:
+
+* `Sing` (28; 100% of non-empty `Number`): <em>Петялӧн, Мери, Питер, Парижын, Сэм, Браунӧс, Ворошилов, Джейн, Дёма, Игаузу</em>
+* `EMPTY` (2): <em>Нетулика, Тулика</em>
+
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (18) occur only with one value of `Number`.
 
 ### `ADP`
 
@@ -175,19 +179,19 @@ The most frequent other feature values with which `ADV` and `Number` co-occurred
 `ADV` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>ӧтикӧ</em>
-* `EMPTY` (93): <em>кыдз, ни, сэсся, кытӧн, кӧр, сё, талун, чожа, эшӧ, дасöтiсь</em>
+* `EMPTY` (101): <em>кыдз, ни, сэсся, кытӧн, кӧр, сё, талун, чожа, эшӧ, дасöтiсь</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (44; 85%),
-<tt>VERB --[<tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (39; 85%),
-<tt>VERB --[<tt><a href="koi_uh-dep-obl.html">obl</a></tt>]--> NOUN</tt> (39; 67%),
-<tt>VERB --[<tt><a href="koi_uh-dep-obj.html">obj</a></tt>]--> NOUN</tt> (27; 63%),
+<tt>VERB --[<tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (46; 82%),
+<tt>VERB --[<tt><a href="koi_uh-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (42; 84%),
+<tt>VERB --[<tt><a href="koi_uh-dep-obl.html">obl</a></tt>]--> NOUN</tt> (39; 65%),
+<tt>VERB --[<tt><a href="koi_uh-dep-obj.html">obj</a></tt>]--> NOUN</tt> (28; 60%),
 <tt>VERB --[<tt><a href="koi_uh-dep-conj.html">conj</a></tt>]--> VERB</tt> (20; 83%),
 <tt>NOUN --[<tt><a href="koi_uh-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (12; 55%),
 <tt>NOUN --[<tt><a href="koi_uh-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (10; 100%),
+<tt>VERB --[<tt><a href="koi_uh-dep-obl.html">obl</a></tt>]--> PRON</tt> (10; 67%),
 <tt>NOUN --[<tt><a href="koi_uh-dep-case.html">case</a></tt>]--> ADP</tt> (9; 69%),
-<tt>VERB --[<tt><a href="koi_uh-dep-obl.html">obl</a></tt>]--> PRON</tt> (8; 62%),
 <tt>NOUN --[<tt><a href="koi_uh-dep-conj.html">conj</a></tt>]--> NOUN</tt> (6; 55%).
 

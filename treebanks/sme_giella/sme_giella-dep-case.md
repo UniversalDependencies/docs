@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-478 nodes (2%) are attached to their parents as `case`.
+480 nodes (2%) are attached to their parents as `case`.
 
-437 instances of `case` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.19037656903766.
+439 instances of `case` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.18958333333333.
 
-The following 6 pairs of parts of speech are connected with `case`: <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (345; 72% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (89; 19% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (24; 5% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt>-<tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (13; 3% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The following 6 pairs of parts of speech are connected with `case`: <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (347; 72% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (89; 19% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (24; 5% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt>-<tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (13; 3% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

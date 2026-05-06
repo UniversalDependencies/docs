@@ -56,8 +56,8 @@ The 3rd highest number of forms (1) was observed with the lemma “го”: <em>
 `PRON` occurs with 22 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`
 
 `PRON` occurs with 49 feature combinations.
-The most frequent feature combination is `_` (15 tokens).
-Examples: <em>се, што, Сето, каде, ја</em>
+The most frequent feature combination is `PronType=Prs|Reflex=Yes` (15 tokens).
+Examples: <em>се, си</em>
 
 
 ## Relations

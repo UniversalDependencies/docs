@@ -8,28 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-51 nodes (0%) are attached to their parents as `fixed`.
+52 nodes (0%) are attached to their parents as `fixed`.
 
-51 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13725490196078.
+52 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.13461538461538.
 
-The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="ka_gnc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (13; 25% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (12; 24% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (6; 12% instances), <tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (6; 12% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (5; 10% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (3; 6% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="ka_gnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ka_gnc-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href="ka_gnc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (14; 27% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (12; 23% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (6; 12% instances), <tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (6; 12% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (5; 10% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (3; 6% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="ka_gnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ka_gnc-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 fixed	color:blue
-1	სოფიმ	სოფი	PROPN	N_Prop_Anthr_FirstName_Erg	Case=Erg|NameType=Prs	3	nsubj	_	LMSeg:სოფი
-2	არ	არ	ADV	Adv_Neg	_	3	advmod:neg	_	LMSeg:არ
-3	იცოდა	ცოდნა	VERB	V_MedPass_Impf_S:3Sg_DO:3	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:ცოდნ[ა]/ც|SpaceAfter=No
-4	,	,	PUNCT	Punct_Comma	_	5	punct	_	LMSeg:,
-5	დათანხმებოდა	დათანხმება	VERB	V_Pass_PluPerf_Pv_S:3Sg_IO:3_NonStand	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Pqp|VerbForm=Fin	3	ccomp	_	LMSeg:და·თანხმებ[ა]/თანხმ
-6	თუ	თუ	CCONJ	Cj_Coord	ExtPos=SCONJ	5	mark	_	LMSeg:თუ
-7	არა	არ	ADV	Adv_Neg_L	_	6	fixed	_	LMSeg:არ|SpaceAfter=No
-8	.	.	PUNCT	Punct_Period	_	3	punct	_	LMSeg:.
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 fixed	color:blue
+1	–	–	PUNCT	Punct_Dash	_	6	punct	_	LMSeg:–
+2	ჩემ	მე	PRON	Pron_Pers_1_Gen_Sg_PP_PP:თვის	Case=Gen|Number=Sing|PronType=Prs	6	obl	_	LMSeg:მე|SpaceAfter=No
+3	თვის	_თვის	ADP	Pp	_	2	case	_	LMSeg:_თვის
+4	მნიშვნელობა	მნიშვნელობა	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	6	obj	_	LMSeg:მნიშვნელობ[ა]
+5	არა	არ	ADV	Adv_Neg_L	_	6	advmod:neg	_	LMSeg:არ
+6	აქვს	ქონა	VERB	V_MedPass_Inv_Pres_LV_S:3Sg_DO:3	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin|Voice=Inv	0	root	_	LMSeg:ქონ[ა]/ქვ|SpaceAfter=No
+7	,	,	PUNCT	Punct_Comma	_	9	punct	_	LMSeg:,
+8	თქვენ	თქვენ	PRON	Pron_Pers_2_Nom_Pl	Case=Nom|Number=Plur|PronType=Prs	9	nsubj	_	LMSeg:თქვენ
+9	ხეიბარი	ხეიბარი	NOUN	N_Hum_Nom_Sg	Animacy=Anim|Case=Nom|Number=Sing	6	advcl	_	LMSeg:ხეიბ[ა]რ·ი
+10	ხართ	ყოფნა	AUX	V_MedPass_Pres_S:2Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=2|Tense=Pres|VerbForm=Fin	9	cop	_	LMSeg:ყოფნ[ა]/არ
+11	თუ	თუ	CCONJ	Cj_Coord	ExtPos=SCONJ	9	mark	_	LMSeg:თუ
+12	არა	არ	ADV	Adv_Neg_L	_	11	fixed	_	LMSeg:არ|SpaceAfter=No
+13	.	.	PUNCT	Punct_Period	_	6	punct	_	LMSeg:.
 
 ~~~
 
@@ -55,7 +60,7 @@ The following 9 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	რა	რა	PRON	Pron_Int_Nonhum_Nom_Att	Case=Nom|ExtPos=ADV	5	advmod	_	LMSeg:რ[ა]
+1	რა	რა	PRON	Pron_Int_Nonhum_Nom_Att	Case=Nom|ExtPos=ADV|PronType=Int	5	advmod	_	LMSeg:რ[ა]
 2	თქმა	თქმა	NOUN	N_VN_Nom_Sg	Case=Nom|Number=Sing|VerbForm=Vnoun	1	fixed	_	LMSeg:თქმ[ა]/თქმ
 3	უნდა	უნდა	AUX	Modal	_	1	fixed	_	LMSeg:უნდა|SpaceAfter=No
 4	,	,	PUNCT	Punct_Comma	_	5	punct	_	LMSeg:,

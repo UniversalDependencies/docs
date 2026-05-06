@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>quod</em> (<tt><a href="la_udante-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.093023 (the average of all parts of speech is 2.130133).
+The form / lemma ratio of `SCONJ` is 1.093023 (the average of all parts of speech is 2.131437).
 
 The 1st highest number of forms (2) was observed with the lemma “ne”: <em>ne, ni</em>.
 
@@ -76,17 +76,17 @@ Examples: <em>ut, quod, cum, quia, quam, tanquam, quemadmodum, quantum, quoniam,
 
 `SCONJ` nodes are attached to their parents using 9 different relations: <tt><a href="la_udante-dep-mark.html">mark</a></tt> (2492; 99% instances), <tt><a href="la_udante-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="la_udante-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1714; 68% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (412; 16% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (202; 8% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (71; 3% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (39; 2% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (23; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (21; 1% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 12 different parts of speech: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (1715; 68% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (412; 16% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (201; 8% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (71; 3% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (39; 2% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (23; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (21; 1% instances), <tt><a href="la_udante-pos-X.html">X</a></tt> (10; 0% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-2331 (93%) `SCONJ` nodes are leaves.
+2332 (93%) `SCONJ` nodes are leaves.
 
-150 (6%) `SCONJ` nodes have one child.
+149 (6%) `SCONJ` nodes have one child.
 
 24 (1%) `SCONJ` nodes have two children.
 
 The highest child degree of a `SCONJ` node is 2.
 
-Children of `SCONJ` nodes are attached using 7 different relations: <tt><a href="la_udante-dep-punct.html">punct</a></tt> (174; 88% instances), <tt><a href="la_udante-dep-cc.html">cc</a></tt> (15; 8% instances), <tt><a href="la_udante-dep-advmod-neg.html">advmod:neg</a></tt> (3; 2% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (3; 2% instances), <tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt> (1; 1% instances), <tt><a href="la_udante-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="la_udante-dep-case.html">case</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes are attached using 7 different relations: <tt><a href="la_udante-dep-punct.html">punct</a></tt> (173; 88% instances), <tt><a href="la_udante-dep-cc.html">cc</a></tt> (15; 8% instances), <tt><a href="la_udante-dep-advmod-neg.html">advmod:neg</a></tt> (3; 2% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (3; 2% instances), <tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt> (1; 1% instances), <tt><a href="la_udante-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="la_udante-dep-case.html">case</a></tt> (1; 1% instances)
 
-Children of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="la_udante-pos-PUNCT.html">PUNCT</a></tt> (174; 88% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (15; 8% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances)
+Children of `SCONJ` nodes belong to 6 different parts of speech: <tt><a href="la_udante-pos-PUNCT.html">PUNCT</a></tt> (173; 88% instances), <tt><a href="la_udante-pos-CCONJ.html">CCONJ</a></tt> (15; 8% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (1; 1% instances)
 

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-3151 tokens (1%) have a non-empty value of `Poss`.
+3492 tokens (1%) have a non-empty value of `Poss`.
 30 types (0%) occur at least once with a non-empty value of `Poss`.
-9 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 1 part-of-speech tags: <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (3151; 1% instances).
+8 lemmas (0%) occur at least once with a non-empty value of `Poss`.
+The feature is used with 1 part-of-speech tags: <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (3492; 1% instances).
 
 ### `PRON`
 
-3151 <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> tokens (16% of all `PRON` tokens) have a non-empty value of `Poss`.
+3492 <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> tokens (16% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3124; 99%), <tt><a href="en_gum-feat-Case.html">Case</a></tt><tt>=Gen</tt> (3105; 99%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2250; 71%), <tt><a href="en_gum-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2044; 65%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="en_gum-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3465; 99%), <tt><a href="en_gum-feat-Case.html">Case</a></tt><tt>=Gen</tt> (3439; 98%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2475; 71%), <tt><a href="en_gum-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2303; 66%).
 
 `PRON` tokens may have the following values of `Poss`:
 
-* `Yes` (3151; 100% of non-empty `Poss`): <em>his, your, my, our, their, its, her, whose, mine, yours</em>
-* `EMPTY` (16830): <em>i, it, you, that, we, they, he, what, this, there</em>
+* `Yes` (3492; 100% of non-empty `Poss`): <em>your, his, my, our, their, its, her, whose, yours, mine</em>
+* `EMPTY` (18481): <em>i, it, you, that, we, they, he, what, this, which</em>
 
 ## Relations with Agreement in `Poss`
 

@@ -8,31 +8,38 @@ udver: '2'
 
 This relation is universal.
 
-84 nodes (0%) are attached to their parents as `iobj`.
+85 nodes (0%) are attached to their parents as `iobj`.
 
-84 instances of `iobj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13095238095238.
+85 instances of `iobj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.12941176470588.
 
-The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (76; 90% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (6; 7% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (77; 91% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (6; 7% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 iobj	color:blue
-1	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	dislocated	_	Entity=(person
-2	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	3	mark	_	_
-3	ⲩⲛⲧ	ⲟⲩⲛⲧⲉ	VERB	EXIST	_	1	acl:relcl	_	_
-4	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
-5	ⲙⲁⲁϫⲉ	ⲙⲁⲁϫⲉ	NOUN	N	_	3	nsubj	_	Entity=(object)
-6	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	3	advmod	_	_
-7	ⲉ	ⲉ	PART	PREP	_	8	mark	_	_
-8	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	Mood=Ind|VerbForm=Inf	3	xcomp	_	Entity=person)
-9	ⲙⲁⲣⲉ	ⲙⲁⲣⲉ	AUX	AJUS	_	11	aux	_	_
-10	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
-11	ⲥⲱⲧⲙ	ⲥⲱⲧⲙ	VERB	V	Mood=Jus|VerbForm=Fin	0	root	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 iobj	color:blue
+1	ⲛ	ⲡ	DET	ART	Definite=Def|Number=Plur|PronType=Art	9	dislocated	_	Entity=(person|Orig=Ⲛ
+2	ⲉⲛⲧ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	5	mark	_	_
+3	ⲁ	ⲁ	AUX	APST	_	5	aux	_	_
+4	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+5	ϩⲩⲡⲟⲙⲓⲛⲉ	ϩⲩⲡⲟⲙⲓⲛⲉ	VERB	V	Foreign=Yes|Mood=Ind|VerbForm=Fin	1	acl:relcl	_	Orig=ϩⲩⲡⲟⲙⲓ̇ⲛⲉ|OrigLang=grc
+6	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	9	advmod	_	OrigLang=grc
+7	ϩⲙ	ϩⲛ	ADP	PREP	_	8	case	_	Orig=ϩ̇ⲙ
+8	ⲡⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	obl	_	Entity=(abstract)person)|Orig=ⲡⲁⲓ̇
+9	ⲟⲩⲛⲧⲁ	ⲟⲩⲛⲧⲉ	VERB	EXIST	_	0	root	_	_
+10	ⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	9	iobj	_	_
+11	ⲙⲙⲁⲩ	ⲙⲙⲁⲩ	ADV	ADV	_	9	advmod	_	Orig=ⲙ̇ⲙⲁⲩ
+12	ⲛ	ⲛ	ADP	PREP	_	14	case	_	_
+13	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	14	det	_	Entity=(abstract
+14	ⲑⲗⲓⲯⲓⲥ	ⲑⲗⲓⲯⲓⲥ	NOUN	N	Foreign=Yes	9	obl	_	Orig=ⲑ̇ⲗⲓ̇ⲯⲓ̇ⲥ|OrigLang=grc
+15	ϩⲛ	ϩⲛ	ADP	PREP	_	17	case	_	Orig=ϩⲛ̇
+16	ⲧ	ⲡ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	Entity=(object|Orig=ⲧ̇
+17	ⲥⲁⲣⲝ	ⲥⲁⲣⲝ	NOUN	N	Foreign=Yes	14	nmod	_	Entity=object)abstract)|Orig=ⲥⲁⲣⲝ̇|OrigLang=grc
+18	·	·	PUNCT	PUNCT	_	9	punct	_	_
 
 ~~~
 

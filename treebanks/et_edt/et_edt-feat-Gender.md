@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (3; 50% of non-empty `Gender`): <em>Conpatronin, jure, rokas</em>
 * `Masc` (3; 50% of non-empty `Gender`): <em>Heil, Sieg, globus</em>
-* `EMPTY` (115693): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `EMPTY` (115674): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
 ### `PROPN`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (2; 100% of non-empty `Gender`): <em>der</em>
-* `EMPTY` (7211): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, nende</em>
+* `EMPTY` (7212): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, nende</em>
 
 ### `PRON`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 `PRON` tokens may have the following values of `Gender`:
 
 * `Neut` (1; 100% of non-empty `Gender`): <em>It</em>
-* `EMPTY` (22800): <em>ta, see, oma, mis, ma, kes, seda, tema, mida, nad</em>
+* `EMPTY` (22797): <em>ta, see, oma, mis, ma, kes, seda, tema, mida, nad</em>
 
 ## Relations with Agreement in `Gender`
 

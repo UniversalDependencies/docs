@@ -6,20 +6,20 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish_English-BUTR: POS Tags: `DET`
 
-There are 10 `DET` lemmas (4%), 10 `DET` types (4%) and 25 `DET` tokens (6%).
+There are 10 `DET` lemmas (4%), 10 `DET` types (3%) and 26 `DET` tokens (6%).
 Out of 14 observed tags, the rank of `DET` is: 7 in number of lemmas, 7 in number of types and 7 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>bir, a, bu, my, all, hangi, hiçbir, o, other, the</em>
 
 The 10 most frequent `DET` types:  <em>bir, a, bu, my, All, Other, hangi, hiçbir, o, the</em>
 
-The 10 most frequent ambiguous lemmas: <em>bir</em> (<tt><a href="qti_butr-pos-DET.html">DET</a></tt> 8, <tt><a href="qti_butr-pos-NUM.html">NUM</a></tt> 1, <tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> 1), <em>bu</em> (<tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> 6, <tt><a href="qti_butr-pos-DET.html">DET</a></tt> 3), <em>o</em> (<tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> 2, <tt><a href="qti_butr-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>bir</em> (<tt><a href="qti_butr-pos-DET.html">DET</a></tt> 9, <tt><a href="qti_butr-pos-NUM.html">NUM</a></tt> 1, <tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> 1), <em>bu</em> (<tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> 6, <tt><a href="qti_butr-pos-DET.html">DET</a></tt> 3), <em>o</em> (<tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> 2, <tt><a href="qti_butr-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="qti_butr-pos-DET.html">DET</a></tt> 7, <tt><a href="qti_butr-pos-NUM.html">NUM</a></tt> 1), <em>bu</em> (<tt><a href="qti_butr-pos-DET.html">DET</a></tt> 3, <tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> 2), <em>o</em> (<tt><a href="qti_butr-pos-DET.html">DET</a></tt> 1, <tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="qti_butr-pos-DET.html">DET</a></tt> 8, <tt><a href="qti_butr-pos-NUM.html">NUM</a></tt> 1), <em>bu</em> (<tt><a href="qti_butr-pos-DET.html">DET</a></tt> 3, <tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> 2), <em>o</em> (<tt><a href="qti_butr-pos-DET.html">DET</a></tt> 1, <tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> 1)
 
 
 * <em>bir</em>
-  * <tt><a href="qti_butr-pos-DET.html">DET</a></tt> 7: <em>Bunun için <b>bir</b> toplantı alabiliriz .</em>
+  * <tt><a href="qti_butr-pos-DET.html">DET</a></tt> 8: <em>Bunun için <b>bir</b> toplantı alabiliriz .</em>
   * <tt><a href="qti_butr-pos-NUM.html">NUM</a></tt> 1: <em>Kafamda kira vermeden yaşayan <b>bir</b> numaralı Kazım Koyuncu şarkısı .</em>
 * <em>bu</em>
   * <tt><a href="qti_butr-pos-DET.html">DET</a></tt> 3: <em>Seems like <b>bu</b> gece burada uyuyacağız .</em>
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="qti_butr-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.152263).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.154982).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
@@ -38,22 +38,22 @@ The 2nd highest number of forms (1) was observed with the lemma “all”: <em>A
 
 The 3rd highest number of forms (1) was observed with the lemma “bir”: <em>bir</em>.
 
-`DET` occurs with 1 features: <tt><a href="qti_butr-feat-ExtPos.html">ExtPos</a></tt> (1; 4% instances)
+`DET` occurs with 3 features: <tt><a href="qti_butr-feat-PronType.html">PronType</a></tt> (26; 100% instances), <tt><a href="qti_butr-feat-Poss.html">Poss</a></tt> (3; 12% instances), <tt><a href="qti_butr-feat-ExtPos.html">ExtPos</a></tt> (1; 4% instances)
 
-`DET` occurs with 1 feature-value pairs: `ExtPos=ADV`
+`DET` occurs with 9 feature-value pairs: `ExtPos=ADV`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Tot`
 
-`DET` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (24 tokens).
-Examples: <em>bir, a, bu, my, Other, hangi, hiçbir, o, the</em>
+`DET` occurs with 7 feature combinations.
+The most frequent feature combination is `PronType=Art` (15 tokens).
+Examples: <em>bir, a, the</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 3 different relations: <tt><a href="qti_butr-dep-det.html">det</a></tt> (23; 92% instances), <tt><a href="qti_butr-dep-advmod.html">advmod</a></tt> (1; 4% instances), <tt><a href="qti_butr-dep-fixed.html">fixed</a></tt> (1; 4% instances)
+`DET` nodes are attached to their parents using 3 different relations: <tt><a href="qti_butr-dep-det.html">det</a></tt> (24; 92% instances), <tt><a href="qti_butr-dep-advmod.html">advmod</a></tt> (1; 4% instances), <tt><a href="qti_butr-dep-fixed.html">fixed</a></tt> (1; 4% instances)
 
-Parents of `DET` nodes belong to 4 different parts of speech: <tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt> (22; 88% instances), <tt><a href="qti_butr-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="qti_butr-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> (1; 4% instances)
+Parents of `DET` nodes belong to 4 different parts of speech: <tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt> (23; 88% instances), <tt><a href="qti_butr-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="qti_butr-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> (1; 4% instances)
 
-24 (96%) `DET` nodes are leaves.
+25 (96%) `DET` nodes are leaves.
 
 0 (0%) `DET` nodes have one child.
 

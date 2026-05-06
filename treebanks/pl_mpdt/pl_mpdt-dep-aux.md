@@ -68,7 +68,7 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5	fgColor:white
 # visual-style 5 6 aux	color:blue
 1	NAd	nad	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	2	case	2:case	Case=Acc|Translit=NAd
-2	oczy	oko	NOUN	subst:du:acc:n	Case=Acc|Gender=Neut|Number=Dual	7	obl:cmpr	7:obl:cmpr	Translit=oczy
+2	oczy	oko	NOUN	subst:du:acc:n	Case=Acc|Gender=Neut|Number=Dual	7	obl:cmp	7:obl:cmp	Translit=oczy
 3	cóż	cóż	PRON	subst:sg:acc:n	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	obj	5:obj	Translit=coż
 4	wżdy	wżdy	ADV	adv	_	5	advmod	5:advmod	Translit=wżdy
 5	stworzono	stworzyć	ADJ	ppasb:sg:nom:n:perf:aff:pos	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	0:root	Translit=stworzono

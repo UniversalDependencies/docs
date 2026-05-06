@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-404 nodes (2%) are attached to their parents as `parataxis`.
+410 nodes (2%) are attached to their parents as `parataxis`.
 
-352 instances of `parataxis` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.31930693069307.
+352 instances of `parataxis` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.4.
 
-The following 27 pairs of parts of speech are connected with `parataxis`: <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (322; 80% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (12; 3% instances), <tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt> (9; 2% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="say_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `parataxis`: <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (324; 79% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (13; 3% instances), <tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt> (9; 2% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="say_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="say_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,15 +24,15 @@ The following 27 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 5 9 parataxis	color:blue
 1	àmáː	àmáː	CCONJ	_	_	5	discourse	_	AlignBegin=32575|AlignEnd=32759|Gloss=but
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=32759|AlignEnd=32942|Gloss=PUNCT
-3	tòː	tòː	PART	_	PartType=Foc	5	discourse	_	AlignBegin=33486|AlignEnd=33708|Gloss=well
-4	á	_	AUX	ø	Aspect=Aor|Number=Sing|Person=3	5	aux	_	AlignBegin=33708|AlignEnd=33930|Gloss=3Sing.Aor
+3	tòː	tòː	PART	_	PartType=Disc	5	discourse	_	AlignBegin=33486|AlignEnd=33708|Gloss=well
+4	á	á	AUX	_	Number=Sing|Person=3|Tense=Pres	5	aux	_	AlignBegin=33708|AlignEnd=33930|Gloss=3Sing.Aor
 5	kamàːtá	kamaːtá	VERB	_	_	0	root	_	AlignBegin=33930|AlignEnd=34152|Gloss=be_proper
 6	dzàŋ	dzàŋ	NOUN	_	_	9	obl	_	AlignBegin=34152|AlignEnd=34374|Gloss=day
 7	làːdì	láːdì	NOUN	_	_	6	compound	_	AlignBegin=34374|AlignEnd=34596|Gloss=sunday
-8	mə̀	_	AUX	[L]	Mood=Sub|Number=Plur|Person=1	9	aux	_	AlignBegin=34817|AlignEnd=35004|Gloss=1Plur.Sub
+8	mə̀	tə̀	AUX	_	Mood=Sub|Number=Plur|Person=1	9	aux	_	AlignBegin=34817|AlignEnd=35004|Gloss=1Plur.Sub
 9	tù	tu	VERB	_	_	5	parataxis	_	AlignBegin=35004|AlignEnd=35191|Gloss=get
 10	lə̂p	lə̂p	NOUN	_	_	9	obj	_	AlignBegin=35191|AlignEnd=35378|Gloss=place
-11	ɬə̀ɣə̀níː	ɬə	VERB	_	Deixis=Remt|ExtPos=NOUN|VerbForm=Vnoun	10	nmod	_	AlignBegin=35378|AlignEnd=35440|Gloss=go-Vnoun.Remt|Result=Yes
+11	ɬə̀ɣə̀níː	ɬə	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	10	compound	_	Accomplished=Yes|AlignBegin=35378|AlignEnd=35440|Gloss=go-Vnoun.Acpl|Raising=Yes
 12	//	//	PUNCT	_	_	5	punct	_	AlignBegin=35565|AlignEnd=35750|Gloss=PUNCT
 
 ~~~
@@ -48,13 +48,13 @@ The following 27 pairs of parts of speech are connected with `parataxis`: <tt><a
 2	də̀n	də̀n	NOUN	_	_	1	obl	_	AlignBegin=51595|AlignEnd=51913|Gloss=compound
 3	máː	máː	ADV	_	_	1	advmod	_	AlignBegin=51913|AlignEnd=52231|Gloss=even
 4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=52231|AlignEnd=52549|Gloss=PUNCT
-5	myáː	_	AUX	yáː	Aspect=Imp|Number=Sing|Person=1	6	aux	_	AlignBegin=52549|AlignEnd=52732|Gloss=1Sing.Imp
+5	myáː	yáː	AUX	_	Aspect=Imp|Number=Sing|Person=1	6	aux	_	AlignBegin=52549|AlignEnd=52732|Gloss=1Sing.Imp
 6	yel	yel	VERB	_	_	8	parataxis	_	AlignBegin=52732|AlignEnd=52915|Gloss=see
-7	nə	_	AUX	nə	_	8	cop	_	AlignBegin=52915|AlignEnd=53098|Gloss=be
+7	nə	nə	AUX	_	_	8	cop	_	AlignBegin=52915|AlignEnd=53098|Copula=Yes|Gloss=be.Ident
 8	lǎː	laː	NOUN	_	Definite=Cons	0	root	_	AlignBegin=53098|AlignEnd=53190|Gloss=work
 9	bàptàk	bàptàk	ADV	_	_	8	advmod	_	AlignBegin=53281|AlignEnd=53464|Gloss=useless|Ideo=Yes
 10	ɓas	ɓas	ADP	_	_	11	case	_	AlignBegin=53464|AlignEnd=53556|Gloss=of
-11	mí	mí	PRON	_	Number=Plur|Person=1|PronType=Prs	8	obl:arg	_	AlignBegin=53556|AlignEnd=53647|Gloss=1Plur.Obj|wordform==mí
+11	mí	mí	PRON	_	Number=Plur|Person=1|PronType=Prs	8	obl:arg	_	AlignBegin=53556|AlignEnd=53647|Gloss=1Plur.Acc|wordform==mí
 12	//	//	PUNCT	_	_	8	punct	_	AlignBegin=53647|AlignEnd=53829|Gloss=PUNCT
 
 ~~~

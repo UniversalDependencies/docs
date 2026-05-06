@@ -7,25 +7,27 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: Features: `PronType`
 
 This feature is universal.
-It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
+It occurs with 8 different values: `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-124 tokens (11%) have a non-empty value of `PronType`.
-59 types (10%) occur at least once with a non-empty value of `PronType`.
-28 lemmas (6%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (109; 10% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="koi_uh-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+136 tokens (12%) have a non-empty value of `PronType`.
+67 types (11%) occur at least once with a non-empty value of `PronType`.
+30 lemmas (6%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (121; 11% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="koi_uh-pos-DET.html">DET</a></tt> (6; 1% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 ### `PRON`
 
-109 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+121 <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (93; 85%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (66; 61%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (102; 84%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (73; 60%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (7; 6% of non-empty `PronType`): <em>эна, этö, этӧ, Эта, этаын</em>
-* `Ind` (5; 5% of non-empty `PronType`): <em>мыйкӧ, Мӧдыс, кинкӧ, ӧтамӧдлӧ</em>
-* `Int` (5; 5% of non-empty `PronType`): <em>Мый, Кытшӧм, кин</em>
-* `Prs` (88; 81% of non-empty `PronType`): <em>сія, ме, тэ, менам, сійӧ, тэнат, Сiя, меным, сылӧ, сылӧн</em>
+* `Ind` (6; 5% of non-empty `PronType`): <em>мыйкӧ, Мӧдыс, кинкӧ, нем, ӧтамӧдлӧ</em>
+* `Int` (7; 6% of non-empty `PronType`): <em>Мый, Кытшӧм, кин</em>
+* `Neg` (1; 1% of non-empty `PronType`): <em>некин</em>
+* `Prs` (95; 79% of non-empty `PronType`): <em>сія, ме, тэ, менам, тэнат, сійӧ, Сiя, меным, нія, сылӧ</em>
+* `Rcp` (1; 1% of non-empty `PronType`): <em>öтамöдныскöт</em>
 * `Rel` (2; 2% of non-empty `PronType`): <em>кӧда, мый</em>
 * `Tot` (2; 2% of non-empty `PronType`): <em>быд, кыкнаннысӧ</em>
 
@@ -35,7 +37,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Мый</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 95% lemmas (20) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 91% lemmas (21) occur only with one value of `PronType`.
 
 ### `ADV`
 
@@ -45,7 +47,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 * `Int` (4; 57% of non-empty `PronType`): <em>Кыдз, кытӧн, кытчӧ</em>
 * `Rel` (3; 43% of non-empty `PronType`): <em>кыдз, кытӧн</em>
-* `EMPTY` (87): <em>ни, сэсся, кӧр, сё, талун, чожа, эшӧ, дасöтiсь, кыдз, кынымкӧ</em>
+* `EMPTY` (95): <em>ни, сэсся, кыдз, кӧр, сё, талун, чожа, эшӧ, дасöтiсь, кынымкӧ</em>
 
 <table>
   <tr><th>Paradigm <i>кыдз</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

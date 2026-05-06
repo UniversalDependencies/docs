@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Plur`, `Ptan`, `Sing`.
 
-7248 tokens (34%) have a non-empty value of `Number`.
+7250 tokens (34%) have a non-empty value of `Number`.
 3452 types (64%) occur at least once with a non-empty value of `Number`.
 3011 lemmas (66%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (4010; 19% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1708; 8% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (790; 4% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (436; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (196; 1% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (91; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (17; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="en_pud-pos-NOUN.html">NOUN</a></tt> (4010; 19% instances), <tt><a href="en_pud-pos-PROPN.html">PROPN</a></tt> (1708; 8% instances), <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> (792; 4% instances), <tt><a href="en_pud-pos-AUX.html">AUX</a></tt> (436; 2% instances), <tt><a href="en_pud-pos-VERB.html">VERB</a></tt> (196; 1% instances), <tt><a href="en_pud-pos-DET.html">DET</a></tt> (91; 0% instances), <tt><a href="en_pud-pos-SYM.html">SYM</a></tt> (17; 0% instances).
 
 ### `NOUN`
 
@@ -50,22 +50,22 @@ The feature is used with 7 part-of-speech tags: <tt><a href="en_pud-pos-NOUN.htm
 
 ### `PRON`
 
-790 <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> tokens (76% of all `PRON` tokens) have a non-empty value of `Number`.
+792 <tt><a href="en_pud-pos-PRON.html">PRON</a></tt> tokens (76% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (722; 91%), <tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (613; 78%), <tt><a href="en_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (540; 68%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (724; 91%), <tt><a href="en_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (614; 78%), <tt><a href="en_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (542; 68%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (189; 24% of non-empty `Number`): <em>their, they, we, them, our, us, those, themselves, these</em>
-* `Sing` (601; 76% of non-empty `Number`): <em>it, he, his, I, her, its, she, this, him, that</em>
-* `EMPTY` (254): <em>which, that, who, there, what, you, whose, your, everyone, everything</em>
+* `Plur` (190; 24% of non-empty `Number`): <em>their, they, we, them, our, us, those, themselves, these, ’s</em>
+* `Sing` (602; 76% of non-empty `Number`): <em>it, he, his, I, her, its, she, this, him, that</em>
+* `EMPTY` (252): <em>which, that, who, there, what, you, whose, your, everyone, everything</em>
 
 <table>
   <tr><th>Paradigm <i>that</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt></tt></td><td><em>that</em></td><td><em>those</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PRON`. 92% lemmas (22) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PRON`. 92% lemmas (23) occur only with one value of `Number`.
 
 ### `AUX`
 

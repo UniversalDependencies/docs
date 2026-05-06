@@ -63,13 +63,7 @@ The 2nd highest number of forms (1) was observed with the lemma “અખિલ�
 
 The 3rd highest number of forms (1) was observed with the lemma “અન્ય”: <em>અન્ય</em>.
 
-`ADJ` occurs with 1 features: <tt><a href="gu_gujtb-feat-Typo.html">Typo</a></tt> (1; 1% instances)
-
-`ADJ` occurs with 1 feature-value pairs: `Typo=Yes`
-
-`ADJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (132 tokens).
-Examples: <em>નાનકડા, નાનકડો, નાની, ભારતીય, અખિલ, રાષ્ટ્રીય, અન્ય, કોઇ, ખૂબ, નાનો</em>
+`ADJ` does not occur with any features.
 
 
 ## Relations

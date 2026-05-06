@@ -23,21 +23,21 @@ The following 1 pairs of parts of speech are connected with `obj:obl`: <tt><a hr
 # visual-style 14	bgColor:blue
 # visual-style 14	fgColor:white
 # visual-style 14 12 obj:obl	color:blue
-1	Ço	_	PRON	PROdem	_	3	obj	_	XmlId=w_AlexisRaM_2773
-2	li	_	PRON	PROper	_	3	iobj	_	XmlId=w_AlexisRaM_2774
-3	deprient	_	VERB	VERcjg	_	0	root	_	SpaceAfter=No|XmlId=w_AlexisRaM_2775
-4	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_AlexisRaM_2776
-5	la	_	DET	DETdef	_	7	det	_	XmlId=w_AlexisRaM_2777
-6	sue	_	ADJ	ADJpos	_	7	amod	_	XmlId=w_AlexisRaM_2778
-7	pïetét	_	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_AlexisRaM_2779
-8	,	_	PUNCT	PONfbl	_	7	punct	_	XmlId=w_AlexisRaM_2780
-9	que	_	SCONJ	CONsub	_	11	mark	_	XmlId=w_AlexisRaM_2781
-10	lur	_	PRON	PROper	_	11	iobj	_	XmlId=w_AlexisRaM_2782
-11	anseinet	_	VERB	VERcjg	_	1	acl	_	XmlId=w_AlexisRaM_2783
-12	ol	_	PRON	PROrel.PROper	_	14	obj:obl	_	XmlId=w_AlexisRaM_2784
-13	poissent	_	AUX	VERcjg	_	14	aux	_	XmlId=w_AlexisRaM_2785
-14	recovrer	_	VERB	VERinf	_	11	ccomp	_	SpaceAfter=No|XmlId=w_AlexisRaM_2786
-15	.	_	PUNCT	PONfrt	_	11	punct	_	XmlId=w_AlexisRaM_2787
+1	Ço	ce1	PRON	PROdem	PronType=Dem	3	obj	_	XmlId=w_AlexisRaM_2773
+2	li	li	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_AlexisRaM_2774
+3	deprient	déprier	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_AlexisRaM_2775
+4	,	,	PUNCT	PONfbl	_	7	punct	_	XmlId=w_AlexisRaM_2776
+5	la	le	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_AlexisRaM_2777
+6	sue	son4	ADJ	ADJpos	Poss=Yes	7	amod	_	XmlId=w_AlexisRaM_2778
+7	pïetét	piété	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_AlexisRaM_2779
+8	,	,	PUNCT	PONfbl	_	7	punct	_	XmlId=w_AlexisRaM_2780
+9	que	que	SCONJ	CONsub	_	11	mark	_	XmlId=w_AlexisRaM_2781
+10	lur	leur1	PRON	PROper	PronType=Prs	11	iobj	_	XmlId=w_AlexisRaM_2782
+11	anseinet	enseigner	VERB	VERcjg	VerbForm=Fin	1	acl	_	XmlId=w_AlexisRaM_2783
+12	ol	où.le	PRON	PROrel.PROper	_	14	obj:obl	_	XmlId=w_AlexisRaM_2784
+13	poissent	pouvoir	AUX	VERcjg	VerbForm=Fin	14	aux	_	XmlId=w_AlexisRaM_2785
+14	recovrer	recouvrer	VERB	VERinf	VerbForm=Inf	11	ccomp	_	SpaceAfter=No|XmlId=w_AlexisRaM_2786
+15	.	.	PUNCT	PONfrt	_	11	punct	_	XmlId=w_AlexisRaM_2787
 
 ~~~
 

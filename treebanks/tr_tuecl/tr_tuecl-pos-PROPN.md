@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.187500 (the average of all parts of speech is 1.501916).
+The form / lemma ratio of `PROPN` is 1.187500 (the average of all parts of speech is 1.503846).
 
 The 1st highest number of forms (3) was observed with the lemma “Peter”: <em>Peter, Peter'den, Peter'in</em>.
 
@@ -42,7 +42,7 @@ Examples: <em>Deniz, Ayşe, Mary, Peter, Brown, Jane, Mayıs, Nisan, Sam, Smith<
 
 `PROPN` nodes are attached to their parents using 10 different relations: <tt><a href="tr_tuecl-dep-nsubj.html">nsubj</a></tt> (67; 73% instances), <tt><a href="tr_tuecl-dep-obl.html">obl</a></tt> (8; 9% instances), <tt><a href="tr_tuecl-dep-nmod-poss.html">nmod:poss</a></tt> (5; 5% instances), <tt><a href="tr_tuecl-dep-conj.html">conj</a></tt> (4; 4% instances), <tt><a href="tr_tuecl-dep-flat.html">flat</a></tt> (2; 2% instances), <tt><a href="tr_tuecl-dep-nmod.html">nmod</a></tt> (2; 2% instances), <tt><a href="tr_tuecl-dep-nsubj-outer.html">nsubj:outer</a></tt> (1; 1% instances), <tt><a href="tr_tuecl-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 1% instances), <tt><a href="tr_tuecl-dep-root.html">root</a></tt> (1; 1% instances), <tt><a href="tr_tuecl-dep-vocative.html">vocative</a></tt> (1; 1% instances)
 
-Parents of `PROPN` nodes belong to 7 different parts of speech: <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt> (60; 65% instances), <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (20; 22% instances), <tt><a href="tr_tuecl-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="tr_tuecl-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="tr_tuecl-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (1; 1% instances),  (1; 1% instances)
+Parents of `PROPN` nodes belong to 6 different parts of speech: <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt> (60; 65% instances), <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (21; 23% instances), <tt><a href="tr_tuecl-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="tr_tuecl-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="tr_tuecl-pos-AUX.html">AUX</a></tt> (2; 2% instances),  (1; 1% instances)
 
 78 (85%) `PROPN` nodes are leaves.
 

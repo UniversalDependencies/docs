@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-81 nodes (2%) are attached to their parents as `mark`.
+330 nodes (2%) are attached to their parents as `mark`.
 
-81 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.17283950617284.
+330 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.26666666666667.
 
-The following 4 pairs of parts of speech are connected with `mark`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-SCONJ.html">SCONJ</a></tt> (70; 86% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-SCONJ.html">SCONJ</a></tt> (9; 11% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-SCONJ.html">SCONJ</a></tt> (275; 83% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-SCONJ.html">SCONJ</a></tt> (17; 5% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-ADP.html">ADP</a></tt> (11; 3% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-SCONJ.html">SCONJ</a></tt> (9; 3% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-ADP.html">ADP</a></tt> (8; 2% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ha_northernautogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="ha_northernautogramm-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ha_northernautogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="ha_northernautogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,12 +23,12 @@ The following 4 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 8	fgColor:white
 # visual-style 8 5 mark	color:blue
 1	tôː	tôː	INTJ	_	_	3	discourse	_	AlignBegin=230680|AlignEnd=230864|Gloss=well
-2	kaː	_	AUX	yaː	Aspect=Perf|Gender=Masc|Person=2	3	aux	_	AlignBegin=230864|AlignEnd=231048|Gloss=2Masc.Perf
-3	san	sanìː	VERB	_	_	0	root	_	AlignBegin=231048|AlignEnd=231232|Gloss=know
+2	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	3	aux	_	AlignBegin=230864|AlignEnd=231048|Gloss=2Masc.Perf
+3	san	san-	VERB	_	_	0	root	_	AlignBegin=231048|AlignEnd=231232|Gloss=know
 4	loːkàcin	loːkàciː	NOUN	_	Definite=Cons|Gender=Masc	3	obj	_	AlignBegin=231232|AlignEnd=231416|Gloss=time.Masc.Cons
 5	dà	dà	SCONJ	_	_	8	mark	_	AlignBegin=231416|AlignEnd=231600|Gloss=REL
 6	Tuːraːwaː	Tuːrai	PROPN	_	Number=Plur	8	nsubj	_	AlignBegin=231600|AlignEnd=231784|Gloss=European.Plur
-7	sun	_	AUX	yaː	Aspect=Perf|Number=Plur|Person=3	8	aux	_	AlignBegin=231784|AlignEnd=231968|Gloss=3Plur.Perf
+7	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	8	aux	_	AlignBegin=231784|AlignEnd=231968|Gloss=3Plur.Perf
 8	shigoː	shig-	VERB	_	_	4	acl:relcl	_	AlignBegin=231968|AlignEnd=232152|Gloss=enter
 9	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=232152|AlignEnd=232340|Gloss=PUNCT
 
@@ -43,8 +43,8 @@ The following 4 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 4 2 mark	color:blue
 1	àbin	àbiː	NOUN	_	Definite=Cons|Gender=Masc	0	root	_	AlignBegin=144705|AlignEnd=144868|Gloss=thing.Masc.Cons
 2	dà	dà	SCONJ	_	_	4	mark	_	AlignBegin=144868|AlignEnd=145031|Gloss=REL
-3	ab	_	AUX	ak	_	4	cop	_	AlignBegin=145031|AlignEnd=145194|Background=Yes|Gloss=Ident.Bkg
-4	bambanciyassù	bambanciyaː	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Number=Plur|Person=3	1	acl:relcl	_	AlignBegin=145194|AlignEnd=145357|Gloss=difference.Fem.Cons.3Plur.Gen|wordform=bambanciyas
+3	ab	neː	AUX	_	_	4	cop	_	AlignBegin=145031|AlignEnd=145194|Copula=Yes|Gloss=Ident.Rel|Relative=Yes
+4	bambanciyassù	bambanciyaː	NOUN	_	Definite=Cons|Gender=Fem	1	acl:relcl	_	AlignBegin=145194|AlignEnd=145357|CaseAf=Gen|Gloss=difference.Fem.Cons-3PlurGen|MSeg=bambanciyas-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|wordform=bambanciyas
 5	dà	dà	ADP	_	_	6	case	_	AlignBegin=145357|AlignEnd=145520|Gloss=with
 6	Hausaːwaː	Hausa	PROPN	_	Number=Plur	4	obl:arg	_	AlignBegin=145520|AlignEnd=145683|Gloss=Hausa.Plur
 7	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=145683|AlignEnd=145843|Gloss=PUNCT
@@ -55,23 +55,20 @@ The following 4 pairs of parts of speech are connected with `mark`: <tt><a href=
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 mark	color:blue
-1	X	X	X	_	_	12	dep	_	AlignBegin=106671|AlignEnd=125068|Gloss=X|Scrap=Yes|wordform=XX
-2	nan	nan	ADV	_	Definite=Def|PronType=Dem	12	advmod	_	AlignBegin=125500|AlignEnd=125801|Gloss=Def
-3	Galmaːwaː	Galmaːwaː	PROPN	_	_	2	appos	_	AlignBegin=125801|AlignEnd=126102|Gloss=Galmaːwaː
-4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=126102|AlignEnd=126403|Gloss=PUNCT
-5	àbin	àbiː	NOUN	_	Definite=Cons|Gender=Masc	12	dislocated	_	AlignBegin=126403|AlignEnd=126704|Gloss=thing.Masc.Cons
-6	dà	dà	SCONJ	_	_	8	mark	_	AlignBegin=126704|AlignEnd=127005|Gloss=REL
-7	an	_	AUX	ak	_	8	cop	_	AlignBegin=127005|AlignEnd=127306|Background=Yes|Gloss=Ident.Bkg
-8	nan	nan	ADV	_	Definite=Def|PronType=Dem	5	acl:relcl	_	AlignBegin=127306|AlignEnd=127607|Gloss=Def
-9	<	<	PUNCT	_	_	5	punct	_	AlignBegin=127607|AlignEnd=127908|Gloss=PUNCT
-10	duy	dukà	DET	_	PronType=Tot	11	det	_	AlignBegin=127908|AlignEnd=128209|Gloss=all
-11	yawanciː	yawanciː	NOUN	_	Definite=Ind	12	nsubj	_	AlignBegin=128209|AlignEnd=128510|Gloss=majority
-12	Baːgayaːwaː	Baːgayaːwaː	PROPN	_	Number=Plur	0	root	_	AlignBegin=128510|AlignEnd=128811|Gloss=Baːgayaːwaː
-13	nàː	_	AUX	neː	_	12	cop	_	AlignBegin=128811|AlignEnd=129112|Gloss=Ident
-14	//	//	PUNCT	_	_	12	punct	_	AlignBegin=129112|AlignEnd=129410|Gloss=PUNCT
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 6 mark	color:blue
+1	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	2	aux	_	AlignBegin=78460|AlignEnd=78695|Gloss=3Fem.Prog
+2	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	0	root	_	AlignBegin=78695|AlignEnd=78930|Gloss=go.Vnoun.Fem
+3	|c	|c	PUNCT	_	_	5	punct	_	AlignBegin=78930|AlignEnd=79165|Gloss=PUNCT
+4	tanàː	nàː	AUX	_	Aspect=Prog|Gender=Fem|Person=3	5	aux	_	AlignBegin=79165|AlignEnd=79400|Gloss=3Fem.Prog
+5	tàhiyàː	tah-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	2	conj	_	AlignBegin=79400|AlignEnd=79635|Gloss=go.Vnoun.Fem
+6	har	har̃	ADP	_	ExtPos=SCONJ	9	mark	_	AlignBegin=79635|AlignEnd=79870|Gloss=until
+7	ruwaː	ruwaː	NOUN	_	Number=Plur	9	nsubj	_	AlignBegin=79870|AlignEnd=80105|Gloss=water.Plur
+8	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	9	aux	_	AlignBegin=80105|AlignEnd=80340|Gloss=3Plur.Perf.Rel|Relative=Yes
+9	haɗèː	haɗ-	VERB	_	_	2	advcl	_	AlignBegin=80340|AlignEnd=80575|Gloss=swallow
+10	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	9	obj	_	AlignBegin=80575|AlignEnd=80810|Gloss=3Fem
+11	//	//	PUNCT	_	_	2	punct	_	AlignBegin=80810|AlignEnd=81048|Gloss=PUNCT
 
 ~~~
 

@@ -39,10 +39,10 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 15	_	_	VERB	_	_	18	acl	_	BBIL=B|BPT=1|LBIL=B|LPOS=3|SpaceAfter=No|UI=13211
 16	_	_	AUX	_	_	15	aux	_	BBIL=I|BPT=2|LBIL=I|LPOS=3|PUDL=する|SpaceAfter=No|UI=48728
 17	_	_	NOUN	_	_	18	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=41326
-18	_	_	NOUN	_	_	21	obl	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=44978
+18	_	_	NOUN	_	_	24	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=44978
 19	_	_	ADP	_	_	18	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 20	_	_	DET	_	_	21	det	_	BBIL=B|BPT=1|LBIL=B|LPOS=27|SpaceAfter=No|UI=34
-21	_	_	NOUN	_	_	24	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=1222
+21	_	_	NOUN	_	_	18	conj	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=1222
 22	_	_	ADP	_	_	21	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 23	_	_	NOUN	_	_	24	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=17429
 24	_	_	NOUN	_	_	26	obj	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=16465

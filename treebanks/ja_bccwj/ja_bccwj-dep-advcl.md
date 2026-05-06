@@ -79,12 +79,12 @@ The following 48 pairs of parts of speech are connected with `advcl`: <tt><a hre
 14	_	_	ADP	_	_	10	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=6|SpaceAfter=No|UI=4
 15	_	_	PUNCT	_	_	10	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=2|SpaceAfter=No|UI=1
 16	_	_	NOUN	_	_	17	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=2138
-17	_	_	NOUN	_	_	22	obl	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=2156
+17	_	_	NOUN	_	_	28	obl	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=2156
 18	_	_	ADP	_	_	17	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 19	_	_	NOUN	_	_	20	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=21018
 20	_	_	NOUN	_	_	22	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=24338
 21	_	_	ADP	_	_	20	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
-22	_	_	NOUN	_	_	28	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=230
+22	_	_	NOUN	_	_	17	conj	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=230
 23	_	_	ADP	_	_	22	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 24	_	_	ADP	_	_	22	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=1|SpaceAfter=No|UI=9
 25	_	_	NOUN	_	_	28	nsubj	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=2185
@@ -106,9 +106,9 @@ The following 48 pairs of parts of speech are connected with `advcl`: <tt><a hre
 2	_	_	NOUN	_	_	25	advcl	_	BBIL=B|BPT=1|LBIL=B|LPOS=41|PUDL=よう|SpaceAfter=No|UI=35
 3	_	_	AUX	_	_	2	cop	_	BBIL=I|BPT=2|LBIL=B|LPOS=8|SpaceAfter=No|UI=21
 4	_	_	PUNCT	_	_	2	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=2|SpaceAfter=No|UI=1
-5	_	_	PROPN	_	_	7	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=43|SpaceAfter=No|UI=594
+5	_	_	PROPN	_	_	10	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=43|SpaceAfter=No|UI=594
 6	_	_	ADP	_	_	5	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
-7	_	_	PROPN	_	_	10	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=43|SpaceAfter=No|UI=366
+7	_	_	PROPN	_	_	5	conj	_	BBIL=B|BPT=1|LBIL=B|LPOS=43|SpaceAfter=No|UI=366
 8	_	_	ADP	_	_	7	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 9	_	_	ADP	_	_	7	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 10	_	_	NOUN	_	_	25	nsubj	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=339

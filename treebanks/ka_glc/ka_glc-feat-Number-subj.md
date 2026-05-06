@@ -13,21 +13,21 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 4927 tokens (8%) have a non-empty value of `Number[subj]`.
 1384 types (9%) occur at least once with a non-empty value of `Number[subj]`.
-658 lemmas (7%) occur at least once with a non-empty value of `Number[subj]`.
+566 lemmas (6%) occur at least once with a non-empty value of `Number[subj]`.
 The feature is used with 2 part-of-speech tags: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (3600; 6% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1327; 2% instances).
 
 ### `VERB`
 
 3600 <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `VERB` and `Number[subj]` co-occurred: <tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3600; 100%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3600; 100%), <tt><a href="ka_glc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3600; 100%), <tt><a href="ka_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3586; 100%), <tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (3455; 96%), <tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (3030; 84%), <tt><a href="ka_glc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2803; 78%), <tt><a href="ka_glc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (1988; 55%), <tt><a href="ka_glc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (1929; 54%).
+The most frequent other feature values with which `VERB` and `Number[subj]` co-occurred: <tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3600; 100%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3600; 100%), <tt><a href="ka_glc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3600; 100%), <tt><a href="ka_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3586; 100%), <tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (3455; 96%), <tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (3030; 84%), <tt><a href="ka_glc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2802; 78%), <tt><a href="ka_glc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (1988; 55%), <tt><a href="ka_glc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (1929; 54%).
 
 `VERB` tokens may have the following values of `Number[subj]`:
 
 
 <table>
   <tr><th>Paradigm <i>სწავლობს</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="ka_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ka_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ka_glc-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>სწავლობდნენ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ka_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ka_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ka_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>სწავლობდნენ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ka_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ka_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>სწავლობენ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ka_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="ka_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>ვსწავლობ</em></td></tr>
   <tr><td><tt><tt><a href="ka_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ka_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ka_glc-feat-Tense.html">Tense</a></tt><tt>=PastPerf</tt></tt></td><td></td><td><em>უსწავლია</em></td></tr>

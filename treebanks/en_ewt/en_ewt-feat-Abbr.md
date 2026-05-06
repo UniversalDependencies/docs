@@ -9,36 +9,36 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-534 tokens (0%) have a non-empty value of `Abbr`.
-152 types (1%) occur at least once with a non-empty value of `Abbr`.
-100 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
-The feature is used with 15 part-of-speech tags: <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (125; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (119; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (84; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (43; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (29; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (27; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (26; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (23; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (22; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (3; 0% instances).
-
-### `PROPN`
-
-125 <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (124; 99%).
-
-`PROPN` tokens may have the following values of `Abbr`:
-
-* `Yes` (125; 100% of non-empty `Abbr`): <em>Sept., Dec., Oct, Oct., feb, Jan, Nov, Nov., Sat., Fri</em>
-* `EMPTY` (16437): <em>bush, US, al, Iraq, enron, Iran, China, states, John, Qaeda</em>
-
-`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (23) occur only with one value of `Abbr`.
+552 tokens (0%) have a non-empty value of `Abbr`.
+165 types (1%) occur at least once with a non-empty value of `Abbr`.
+109 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
+The feature is used with 15 part-of-speech tags: <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (135; 0% instances), <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> (126; 0% instances), <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (84; 0% instances), <tt><a href="en_ewt-pos-ADP.html">ADP</a></tt> (43; 0% instances), <tt><a href="en_ewt-pos-SYM.html">SYM</a></tt> (29; 0% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (27; 0% instances), <tt><a href="en_ewt-pos-PART.html">PART</a></tt> (26; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (23; 0% instances), <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (22; 0% instances), <tt><a href="en_ewt-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (9; 0% instances), <tt><a href="en_ewt-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (3; 0% instances).
 
 ### `NOUN`
 
-119 <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
+135 <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (93; 78%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (95; 70%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (119; 100% of non-empty `Abbr`): <em>etc, etc., mins, No., b, luv, ppl, thanx, yrs, UV</em>
-* `EMPTY` (42965): <em>time, people, service, place, thanks, food, way, year, day, number</em>
+* `Yes` (135; 100% of non-empty `Abbr`): <em>etc, etc., mins, thx, No., b, gtee, luv, ppl, thanx</em>
+* `EMPTY` (42949): <em>time, people, service, place, thanks, food, way, year, day, number</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (24) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (32) occur only with one value of `Abbr`.
+
+### `PROPN`
+
+126 <tt><a href="en_ewt-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (125; 99%).
+
+`PROPN` tokens may have the following values of `Abbr`:
+
+* `Yes` (126; 100% of non-empty `Abbr`): <em>Sept., Dec., Oct, Oct., feb, Jan, Nov, Nov., Sat., Fri</em>
+* `EMPTY` (16436): <em>bush, US, al, Iraq, enron, Iran, China, states, John, Qaeda</em>
+
+`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (24) occur only with one value of `Abbr`.
 
 ### `NUM`
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (22; 100% of non-empty `Abbr`): <em>u, ur, any1, somethin, wht</em>
-* `EMPTY` (23044): <em>i, you, it, they, my, we, that, he, your, me</em>
+* `EMPTY` (23045): <em>i, you, it, they, my, we, that, he, your, me</em>
 
 ### `SCONJ`
 
@@ -146,18 +146,18 @@ The most frequent other feature values with which `AUX` and `Abbr` co-occurred: 
 `CCONJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (6; 100% of non-empty `Abbr`): <em>n, 'n</em>
-* `EMPTY` (8196): <em>and, but, or, &, both, either, nor, plus, yet, neither</em>
+* `EMPTY` (8197): <em>and, but, or, &, both, either, nor, plus, yet, neither</em>
 
 ### `INTJ`
 
-4 <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> tokens (0% of all `INTJ` tokens) have a non-empty value of `Abbr`.
+5 <tt><a href="en_ewt-pos-INTJ.html">INTJ</a></tt> tokens (1% of all `INTJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `INTJ` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `INTJ` and `Abbr` co-occurred: <tt><a href="en_ewt-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5; 100%).
 
 `INTJ` tokens may have the following values of `Abbr`:
 
-* `Yes` (4; 100% of non-empty `Abbr`): <em>pls, wel, plllz</em>
-* `EMPTY` (927): <em>please, yes, well, no, hi, like, ok, lol, hey, oh</em>
+* `Yes` (5; 100% of non-empty `Abbr`): <em>pls, sry, wel, plllz</em>
+* `EMPTY` (926): <em>please, yes, well, no, hi, like, ok, lol, hey, oh</em>
 
 ### `ADJ`
 

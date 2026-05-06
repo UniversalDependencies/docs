@@ -20,7 +20,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="olo_kkpp-pos-VERB.h
 
 194 <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (192; 99%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (187; 96%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (174; 90%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (108; 56%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (192; 99%), <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (188; 97%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (174; 90%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (108; 56%).
 
 `VERB` tokens may have the following values of `Person`:
 

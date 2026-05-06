@@ -8,59 +8,64 @@ udver: '2'
 
 This relation is universal.
 
-737 nodes (8%) are attached to their parents as `case`.
+1709 nodes (9%) are attached to their parents as `case`.
 
-734 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.50067842605156.
+1701 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.60152135751902.
 
-The following 20 pairs of parts of speech are connected with `case`: <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (453; 61% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (105; 14% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (76; 10% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (18; 2% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (17; 2% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (14; 2% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-SYM.html">SYM</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 case	color:blue
-1	sì	sì	INTJ	_	_	3	discourse	_	Begin=84.404|KID=61-0
-2	ma	ma	CCONJ	_	_	3	discourse	_	KID=61-1
-3	roba	roba	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Coconstruct=conj::BOA3017_57_59-10|KID=61-2
-4	da	da	ADP	_	_	5	case	_	KID=61-3
-5	banco	banco	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	End=85.704|KID=61-4
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 case	color:blue
-1	poi	poi	ADV	_	_	6	advmod	_	Begin=44.492|KID=33-0|OverlappingGroup=3
-2	se	se	SCONJ	_	_	4	mark	_	KID=33-1|OverlappingGroup=3
-3	vuoi	volere	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	KID=33-2|OverlappingGroup=3
-4	fare	fare	VERB	_	VerbForm=Inf	6	advcl	_	KID=33-3|OverlappingGroup=3
-5	aperitivo	aperitivo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	KID=33-4
-6	fai	fare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=33-5
-7	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	6	obj	_	End=46.392|KID=33-6
-8	da	da	ADP	_	_	9	case	_	Begin=46.877|KID=35-0
-9	pallotti	Pallotti	PROPN	_	_	6	obl	_	End=47.547|KID=35-1
-
-~~~
+The following 28 pairs of parts of speech are connected with `case`: <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (1150; 67% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (177; 10% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (162; 9% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (39; 2% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (37; 2% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (30; 2% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (29; 2% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (18; 1% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (17; 1% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (13; 1% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="it_kiparlaforest-pos-SYM.html">SYM</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 case	color:blue
-1	ah	ah	INTJ	_	_	5	discourse	_	Begin=402.373|KID=255-0
-2	ma	ma	CCONJ	_	_	5	discourse	_	KID=255-1
-3	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=255-2
-4	per	per	ADP	_	_	5	case	_	KID=255-3
-5	quello	quello	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	End=403.593|KID=255-4|OverlappingGroup=36
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 case	color:blue
+1	dovresti	dovere	AUX	_	Mood=Cnd|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	aux	_	Begin=0.96|KID=0-0
+2	parlar	parlare	VERB	_	VerbForm=Inf	0	root	_	KID=0-1a
+3	mi	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	iobj	_	Clitic=Yes|KID=0-1b
+4	di	di	ADP	_	_	7	case	_	KID=0-2a
+5	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=0-2b
+6	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	7	amod	_	KID=0-3
+7	casa	casa	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	End=2.78|Intonation=Falling|KID=0-4
+8	attuale	attuale	ADJ	_	Number=Sing	7	amod	_	Begin=2.81|End=3.4|Intonation=Falling|KID=1-0
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 case	color:blue
+1	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Begin=57.735|KID=20-0
+2	abito	abitare	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	KID=20-1
+3	a	a	ADP	_	_	4	case	_	KID=20-2
+4	[TOWN_NAME]	@nomepaese	PROPN	_	_	2	obl	_	Anonymized=Yes|KID=20-3
+5	e	e	CCONJ	_	_	13	cc	_	KID=20-4|Prolonged=Yes
+6	a	a	ADP	_	_	7	case	_	KID=20-5
+7	piedi	piede	NOUN	_	Gender=Masc|Number=Plur	13	obl	_	KID=20-6|Prolonged=Yes
+8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=20-7
+9	decina	decina	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	KID=20-8
+10	di	di	ADP	_	_	11	case	_	KID=20-9|Prolonged=Yes
+11	minuti	minuto	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	KID=20-10
+12	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	13	expl	_	Clitic=Yes|KID=20-11
+13	metto	mettere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	conj	_	End=62.86|KID=20-12
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 case	color:blue
+1	con	con	ADP	_	_	2	case	_	KID=3-6
+2	chi	chi	PRON	_	Number=Sing|PronType=Rel	3	obl	_	KID=3-7
+3	vivi	vivo	VERB	_	Gender=Masc|Number=Plur	0	root	_	End=8.61|Intonation=WeaklyRising|KID=3-8
 
 ~~~
 

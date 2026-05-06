@@ -54,7 +54,7 @@ The following 15 pairs of parts of speech are connected with `discourse`: <tt><a
 9	γυνή	γυνή	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	appos	_	Gloss=wife,woman|Ref=GEN_18.9
 10	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	9	nmod:poss	_	Gloss=you,your|Ref=GEN_18.9|SpaceAfter=No
 11	;	;	PUNCT	_	_	12	punct	_	Ref=GEN_18.9
-12	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	14	nsubj:pass	_	Gloss=the;-oh|Ref=GEN_18.9
+12	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	nsubj:pass	_	Gloss=the;-oh|Ref=GEN_18.9
 13	δὲ	δέ	CCONJ	_	_	15	cc	_	Gloss=but,and,however|Ref=GEN_18.9
 14	ἀποκριθεὶς	ἀποκρίνω	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	15	advcl	_	Gloss=to-answer|Ref=GEN_18.9
 15	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-say|Ref=GEN_18.9
@@ -87,7 +87,7 @@ The following 15 pairs of parts of speech are connected with `discourse`: <tt><a
 12	μὴ	μή	ADV	_	Polarity=Neg	13	advmod	_	Gloss=no,not|Ref=GEN_18.3
 13	παρέλθῃς	παρέρχομαι	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	Gloss=to-pass-through|Ref=GEN_18.3
 14	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	Gloss=the|Ref=GEN_18.3
-15	παῖδά	παῖς	NOUN	_	Case=Acc|Gender=Fem,Masc|Number=Sing	13	obj	_	Gloss=child,servant|Ref=GEN_18.3
+15	παῖδά	παῖς	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	obj	_	Gloss=child,servant|Ref=GEN_18.3
 16	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	15	nmod:poss	_	Gloss=you,your|Ref=GEN_18.3|SpaceAfter=No
 17	·	·	PUNCT	_	_	16	punct	_	Ref=GEN_18.3
 

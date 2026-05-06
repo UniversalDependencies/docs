@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="kpv_lattice-pos-ADV
 
 ### `ADV`
 
-93 <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> tokens (11% of all `ADV` tokens) have a non-empty value of `AdvType`.
+93 <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
 The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (89; 96%).
 

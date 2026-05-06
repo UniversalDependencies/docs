@@ -42,12 +42,12 @@ The following 15 pairs of parts of speech are connected with `dislocated`: <tt><
 # visual-style 3	fgColor:white
 # visual-style 3 1 dislocated	color:blue
 1	Vilken	vilken	PRON	HP|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Int	3	dislocated	3:dislocated	_
-2	som	som	PRON	HP|-|-|-	PronType=Rel	3	nsubj	3:nsubj	_
+2	som	som	PRON	HP|-|-|-	PronType=Rel	3	nsubj:pass	3:nsubj:pass	_
 3	väljs	välja	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	7	csubj	7:csubj	_
 4	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	7:cop	_
 5	alltså	alltså	ADV	AB	_	7	advmod	7:advmod	_
 6	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	7	det	7:det	_
-7	avvägning	avvägning	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	0:root	_
+7	avvägning	avvägning	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	0:root	ParsemeMWE=1:NotMWE
 8	mellan	mellan	ADP	PP	_	9	case	9:case	_
 9	tycke	tycke	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	7	nmod	7:nmod:mellan	_
 10	och	och	CCONJ	KN	_	11	cc	11:cc	_
@@ -68,9 +68,9 @@ The following 15 pairs of parts of speech are connected with `dislocated`: <tt><
 3	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
 4	viktigast	viktig	ADJ	JJ|SUV|UTR/NEU|SIN/PLU|IND|NOM	Case=Nom|Definite=Ind|Degree=Sup	10	csubj	10:csubj	_
 5	att	att	PART	IE	_	6	mark	6:mark	_
-6	ta	ta	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	4	advcl	4:advcl:på	_
-7	reda	reda	ADV	PL	_	6	compound:prt	6:compound:prt	_
-8	på	på	ADP	PP	_	6	obl	6:obl:på	_
+6	ta	ta	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	4	advcl	4:advcl:på	ParsemeMWE=1:VID
+7	reda	reda	ADV	PL	_	6	compound:prt	6:compound:prt	ParsemeMWE=1
+8	på	på	ADP	PP	_	6	obl	6:obl:på	ParsemeMWE=1
 9	kan	kunna	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	10:aux	_
 10	skifta	skifta	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	0:root	SpaceAfter=No
 11	.	.	PUNCT	MAD	_	10	punct	10:punct	_

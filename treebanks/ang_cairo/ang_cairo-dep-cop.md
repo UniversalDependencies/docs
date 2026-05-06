@@ -22,12 +22,12 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 cop	color:blue
-1	Min	min	PRON	PRP$	Case=Gen|Number=Sing|Person=1	2	nmod:poss	_	Gloss=my|Hyperlemma=mine|Root=*mīn
+1	Min	min	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	Gloss=my|Hyperlemma=mine|Root=*mīn
 2	fæder	fæder	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Gloss=father|Hyperlemma=father|Root=*ph₂tḗr
 3	is	beon	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Gloss=is|Hyperlemma=be|Root=*h₁ésti
 4	mara	miċel	ADJ	JJR	Degree=Cmp	0	root	_	Gloss=great|Hyperlemma=much|Root=*méǵh₂s
 5	þonne	þonne	ADP	IN	_	6	case	_	Gloss=than|Hyperlemma=than|Root=*só
-6	þin	þīn	PRON	PRP	Case=Gen|Number=Sing|Person=2	4	obl	_	Gloss=yours|Hyperlemma=thine|Root=*þīn|SpaceAfter=No
+6	þin	þīn	PRON	PRP	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	obl	_	Gloss=yours|Hyperlemma=thine|Root=*þīn|SpaceAfter=No
 7	.	.	PUNCT	.	_	4	punct	_	Gloss=.|Hyperlemma=.|Root=_
 
 ~~~
@@ -56,13 +56,13 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 cop	color:blue
-1	Þis	þis	DET	DT	Case=Nom|Gender=Neut|Number=Sing	2	det	_	Gloss=This|Hyperlemma=this|Root=*so
+1	Þis	þis	DET	DT	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	Gloss=This|Hyperlemma=this|Root=*so
 2	ærend-ƿrit	ærende-writ	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	Gloss=letter|Hyperlemma=errand-writ|Root=*wrey
 3	is	beon	AUX	VBZ	Number=Sing	5	cop	_	Gloss=is|Hyperlemma=be|Root=*h₁ésti
 4	fram	fram	ADP	IN	_	5	case	_	Gloss=from|Hyperlemma=from|Root=*prom
 5	Petere	Petrus	PROPN	NNP	Case=Dat|Gender=Masc|Number=Sing	0	root	_	Gloss=Petrus|Hyperlemma=Petrus|Root=pétros
 6	and	and	CCONJ	CC	_	9	cc	_	Gloss=and|Hyperlemma=and|Root=*h₂énti
-7	hit	hit	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3	9	nsubj:pass	_	Gloss=it|Hyperlemma=it|Root=*ḱey
+7	hit	hit	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	nsubj:pass	_	Gloss=it|Hyperlemma=it|Root=*ḱey
 8	ƿæs	ƿesan	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	Gloss=was|Hyperlemma=be|Root=*h₂wes
 9	ȝebroht	bringan	VERB	VBN	VerbForm=Part	5	conj	_	Gloss=brought|Hyperlemma=bring|Root=*bʰrenk
 10	ȝierstan-dæg	ȝierstan-dæg	NOUN	NN	Gender=Masc|Number=Sing	9	obl:unmarked	_	Gloss=yesterday|Hyperlemma=yesterday|Root=*dʰǵʰyésteros|SpaceAfter=No

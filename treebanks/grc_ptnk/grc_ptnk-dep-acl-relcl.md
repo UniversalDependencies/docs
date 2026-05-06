@@ -24,9 +24,9 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 9 11 acl:relcl	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_24.66
 2	διηγήσατο	διηγέομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-describe|Ref=GEN_24.66
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_24.66
-4	παῖς	παῖς	NOUN	_	Case=Nom|Gender=Fem,Masc|Number=Sing	2	nsubj	_	Gloss=child,servant|Ref=GEN_24.66
-5	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_24.66
+3	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_24.66
+4	παῖς	παῖς	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=child,servant|Ref=GEN_24.66
+5	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_24.66
 6	Ἰσαὰκ	Ἰσαάκ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Gloss=Isaac|Ref=GEN_24.66
 7	πάντα	πᾶς	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	9	amod	_	Gloss=all,every|Ref=GEN_24.66
 8	τὰ	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	Gloss=the|Ref=GEN_24.66
@@ -71,7 +71,7 @@ The following 23 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 7	ἐνετείλατο	ἐντέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	4	acl:relcl	_	Gloss=to-command,order|Ref=GEN_7.5
 8	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	7	obj	_	Gloss=he,she,it,-self,same|Ref=GEN_7.5
 9	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Gloss=lord|Ref=GEN_7.5
-10	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the;-oh|Ref=GEN_7.5
+10	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the;-oh|Ref=GEN_7.5
 11	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	appos	_	Gloss=god|Ref=GEN_7.5|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	Ref=GEN_7.5
 

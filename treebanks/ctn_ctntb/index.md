@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.17 release
 The following people have contributed to making this treebank part of UD: Kira Tulchynska, Robert Schikowski, Alena Witzlack-Makarevich.
 
 Repository: [UD_Chintang-CTNTB](https://github.com/UniversalDependencies/UD_Chintang-CTNTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udctn_ctntb217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udctn_ctntb218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -628,7 +628,7 @@ The sentences originate from the examples in the (currently unpublished) _A Gram
 </ul>
 
 <ul>
-  <li>CauRefl
+  <li>CauRfl
     <ul>
       <li>VERB-Fin: khaŋmetnace, Immetnaŋnace, Lapmeʔnacce, Luʔmeʔnace, khumeʔnaʔãce, mɨkseĩkhaŋmeiʔkameiʔ</li>
     </ul>
@@ -644,7 +644,7 @@ The sentences originate from the examples in the (currently unpublished) _A Gram
 </ul>
 
 <ul>
-  <li>Refl
+  <li>Rfl
     <ul>
       <li>VERB-Conv: tomcĩsaŋa, tomgoĩcĩsaŋa</li>
       <li>VERB-Fin: sɨknalɨknancĩyehẽ, Bopnaadhennaʔãce, Kaʔnace, Kɨnadhennaace, ahinaʔacenɨŋ, apamnaceʔ, ateknaʔãce, atɨŋnaʔãce, bhukŋaŋcɨŋ, cinnaʔace</li>

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `ADJ`
 
-There are 27 `ADJ` lemmas (6%), 30 `ADJ` types (5%) and 38 `ADJ` tokens (4%).
+There are 27 `ADJ` lemmas (5%), 30 `ADJ` types (5%) and 38 `ADJ` tokens (3%).
 Out of 15 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 5 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>бур, ыджыт, важ, сьӧд, сэтшӧм, честнӧй, Куим, быльнӧй, бӧрья, веськыт</em>
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.111111 (the average of all parts of speech is 1.250000).
+The form / lemma ratio of `ADJ` is 1.111111 (the average of all parts of speech is 1.260870).
 
 The 1st highest number of forms (2) was observed with the lemma “бур”: <em>бур, буржык</em>.
 

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: Relations: `compound:prt`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="koi_uh-dep-compound.html">compound</a></tt>.
 
 1 nodes (0%) are attached to their parents as `compound:prt`.
 

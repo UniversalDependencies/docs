@@ -22,12 +22,12 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 2 nsubj:pass	color:blue
-1	Alte	alt	ADJ	ADJA	Degree=Pos|Number=Plur	2	amod	_	_
-2	EMails	EMails	NOUN	NN	Case=Nom	8	nsubj:pass	_	_
+1	Alte	alt	ADJ	ADJA	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	EMails	EMails	NOUN	NN	Case=Nom|Number=Plur	8	nsubj:pass	_	_
 3	wurden	werden	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
 4	nicht	nicht	PART	PTKNEG	Polarity=Neg	8	advmod	_	_
 5	von	von	ADP	APPR	AdpType=Prep|Case=Dat	7	case	_	_
-6	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	7	det	_	_
+6	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	Server	Server	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	_
 8	gelöscht	löschen	VERB	VVPP	Aspect=Perf|VerbForm=Part	0	root	_	_
 9	.	.	PUNCT	$.	PunctType=Peri	8	punct	_	_
@@ -66,7 +66,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 4	Somm	Somm	PROPN	NE	_	3	flat:name	_	_
 5	in	in	ADP	APPR	AdpType=Prep|Case=Acc	8	case	_	_
 6	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	8	det	_	_
-7	prekäre	prekär	ADJ	ADJA	Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+7	prekäre	prekär	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
 8	Situation	Situation	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
 9	geraten	geraten	VERB	VVPP	Aspect=Perf|VerbForm=Part	0	root	_	_
 10	.	.	PUNCT	$.	PunctType=Peri	9	punct	_	_

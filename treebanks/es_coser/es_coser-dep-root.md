@@ -11,9 +11,9 @@ This relation is universal.
 539 nodes (7%) are attached to their parents as `root`.
 
 539 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.44897959183673.
+Average distance between parent and child is 4.45269016697588.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (370; 69% instances), -<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (70; 13% instances), -<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (27; 5% instances), -<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (19; 4% instances), -<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (16; 3% instances), -<tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (12; 2% instances), -<tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (11; 2% instances), -<tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), -<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (3; 1% instances), -<tt><a href="es_coser-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (370; 69% instances), -<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (72; 13% instances), -<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (27; 5% instances), -<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (19; 4% instances), -<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (16; 3% instances), -<tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (12; 2% instances), -<tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (11; 2% instances), -<tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), -<tt><a href="es_coser-pos-DET.html">DET</a></tt> (2; 0% instances), -<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,7 +56,7 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
 1	tá	estar	AUX	vmm02s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	Ortho=está
-2	bueno	bueno	ADJ	i	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+2	bueno	buen	ADJ	i	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
 ~~~

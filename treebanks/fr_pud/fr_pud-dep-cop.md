@@ -59,7 +59,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 1 2 cop	color:blue
 1	Qui	qui	PRON	WP	PronType=Int	0	root	_	wordform=qui
 2	sont	être	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
-3	-ils	il	PRON	PRP	Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
+3	-ils	lui	PRON	PRP	Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	_
 4	?	?	PUNCT	.	_	1	punct	_	_
 
 ~~~

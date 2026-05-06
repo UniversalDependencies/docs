@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `DET`
 
 There are 6 `DET` lemmas (1%), 6 `DET` types (1%) and 6 `DET` tokens (1%).
-Out of 15 observed tags, the rank of `DET` is: 11 in number of lemmas, 12 in number of types and 13 in number of tokens.
+Out of 15 observed tags, the rank of `DET` is: 11 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>ас, быд, кык, кынымкӧ, мукӧд, эта</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ас</em> (<tt><a href="koi_uh-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.250000).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.260870).
 
 The 1st highest number of forms (1) was observed with the lemma “ас”: <em>ас</em>.
 

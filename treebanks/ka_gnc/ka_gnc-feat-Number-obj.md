@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ka_gnc-feat-Number.html">Number</a></tt>, <tt><a href="ka_gnc-feat-Number-io.html">Number[io]</a></tt>, <tt><a href="ka_gnc-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="ka_gnc-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt>.
 
-55 tokens (0%) have a non-empty value of `Number[obj]`.
+56 tokens (0%) have a non-empty value of `Number[obj]`.
 51 types (1%) occur at least once with a non-empty value of `Number[obj]`.
 42 lemmas (1%) occur at least once with a non-empty value of `Number[obj]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (55; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (56; 0% instances).
 
 ### `VERB`
 
-55 <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Number[obj]`.
+56 <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Number[obj]`.
 
-The most frequent other feature values with which `VERB` and `Number[obj]` co-occurred: <tt><a href="ka_gnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (55; 100%), <tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (54; 98%), <tt><a href="ka_gnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (47; 85%), <tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (44; 80%), <tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (36; 65%).
+The most frequent other feature values with which `VERB` and `Number[obj]` co-occurred: <tt><a href="ka_gnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (56; 100%), <tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (55; 98%), <tt><a href="ka_gnc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (48; 86%), <tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (45; 80%), <tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (37; 66%).
 
 `VERB` tokens may have the following values of `Number[obj]`:
 

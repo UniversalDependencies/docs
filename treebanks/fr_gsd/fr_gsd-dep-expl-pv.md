@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 # visual-style 4	fgColor:white
 # visual-style 4 3 expl:pv	color:blue
 1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	wordform=la
-2	Selle-en-Luitré	Selle-en-Luitré	PROPN	_	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
+2	Selle-en-Luitré	Selle-en-Luitré	PROPN	_	Gender=Fem|Number=Sing	4	nsubj:pass	_	Exponence[Gender]=Inherent
 3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 4	trouve	trouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Scrap=Yes
 5	à	à	ADP	_	_	6	case	_	_

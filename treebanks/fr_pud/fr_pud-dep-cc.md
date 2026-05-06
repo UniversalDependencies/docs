@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-544 nodes (2%) are attached to their parents as `cc`.
+552 nodes (2%) are attached to their parents as `cc`.
 
-544 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.75367647058824.
+552 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.74094202898551.
 
-The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (209; 38% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (203; 37% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (51; 9% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (45; 8% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (9; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (9; 2% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (213; 39% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (203; 37% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (55; 10% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (45; 8% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (9; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (9; 2% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 3	,	,	PUNCT	,	_	2	punct	_	_
 4	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	pub	pub	NOUN	NN	Gender=Fem|Number=Sing	7	nsubj	_	_
-6	se	se	PRON	PRP	Person=3|PronType=Prs	7	obj	_	_
+6	se	soi	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	7	expl:pass	_	_
 7	termine	terminer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	.	_	7	punct	_	_
 

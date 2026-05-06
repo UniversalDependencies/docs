@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 10	fgColor:white
 # visual-style 10 15 csubj:pass	color:blue
 1	Cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	solution	solution	NOUN	_	Number=Sing	7	nsubj	_	Gender[lex]=Fem
+2	solution	solution	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	Exponence[Gender]=Inherent
 3	n'	ne	ADV	_	Polarity=Neg	7	advmod	_	SpaceAfter=No
 4	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 5	cependant	cependant	ADV	_	_	7	advmod	_	_
@@ -34,12 +34,12 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 10	donné	donner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	7	advcl	_	Tense[denom]=Past
 11	que	que	SCONJ	_	_	15	mark	_	_
 12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
-13	avions	avion	NOUN	_	Number=Plur	15	nsubj:pass	_	Gender[lex]=Masc
+13	avions	avion	NOUN	_	Gender=Masc|Number=Plur	15	nsubj:pass	_	Exponence[Gender]=Inherent
 14	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	_
 15	produits	produire	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	10	csubj:pass	_	Tense[denom]=Past
 16	sur	sur	ADP	_	_	18	case	_	_
 17	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
-18	marché	marché	NOUN	_	Number=Sing	15	obl:mod	_	Gender[lex]=Masc
+18	marché	marché	NOUN	_	Gender=Masc|Number=Sing	15	obl:mod	_	Exponence[Gender]=Inherent
 19	mondial	mondial	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	7	punct	_	_
 
@@ -56,24 +56,24 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	donné	donner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	25	advcl	_	Tense[denom]=Past
 3	que	que	SCONJ	_	_	15	mark	_	_
 4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	durée	durée	NOUN	_	Number=Sing	15	nsubj	_	Gender[lex]=Fem
+5	durée	durée	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	Exponence[Gender]=Inherent
 6	de	de	ADP	_	_	7	case	_	_
-7	vie	vie	NOUN	_	Number=Sing	5	nmod	_	Gender[lex]=Fem
+7	vie	vie	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	Exponence[Gender]=Inherent
 8	de	de	ADP	_	_	10	case	_	_
 9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
-10	avions	avion	NOUN	_	Number=Plur	5	nmod	_	Gender[lex]=Masc
+10	avions	avion	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	Exponence[Gender]=Inherent
 11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 12	approximativement	approximativement	ADV	_	_	15	advmod	_	_
 13	de	de	ADP	_	_	15	case	_	_
-14	trente	trente	NUM	_	NumType=Card	15	nummod	_	Number[lex]=Plur
-15	ans	an	NOUN	_	Number=Plur	2	csubj:pass	_	Gender[lex]=Masc|SpaceAfter=No
+14	trente	trente	NUM	_	Number=Plur|NumType=Card	15	nummod	_	Exponence[Number]=Inherent
+15	ans	an	NOUN	_	Gender=Masc|Number=Plur	2	csubj:pass	_	Exponence[Gender]=Inherent|SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	_
-17	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	18	det	_	Gender[ctxt]=Masc|SpaceAfter=No
-18	effet	effet	NOUN	_	Number=Sing	25	nsubj:caus	_	Gender[lex]=Masc
+17	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Exponence[Gender]=Absent|SpaceAfter=No
+18	effet	effet	NOUN	_	Gender=Masc|Number=Sing	25	nsubj:caus	_	Exponence[Gender]=Inherent
 19	de	de	ADP	_	_	21	case	_	_
 20	ces	ce	DET	_	Number=Plur|PronType=Dem	21	det	_	_
-21	améliorations	amélioration	NOUN	_	Number=Plur	18	nmod	_	Gender[lex]=Fem
-22	techniques	technique	ADJ	_	Number=Plur	21	amod	_	Gender[ctxt]=Fem
+21	améliorations	amélioration	NOUN	_	Gender=Fem|Number=Plur	18	nmod	_	Exponence[Gender]=Inherent
+22	techniques	technique	ADJ	_	Gender=Fem|Number=Plur	21	amod	_	Exponence[Gender]=Absent
 23	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	25	obj	_	_
 24	fait	faire	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux:caus	_	_
 25	attendre	attendre	VERB	_	VerbForm=Inf	0	root	_	Subject=Generic

@@ -45,7 +45,7 @@ The 3rd highest number of forms (1) was observed with the lemma “anstataŭ”:
 
 `ADP` nodes are attached to their parents using 4 different relations: <tt><a href="eo_prago-dep-case.html">case</a></tt> (361; 97% instances), <tt><a href="eo_prago-dep-mark.html">mark</a></tt> (10; 3% instances), <tt><a href="eo_prago-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="eo_prago-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (294; 79% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (45; 12% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (16; 4% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (11; 3% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (2; 1% instances)
+Parents of `ADP` nodes belong to 7 different parts of speech: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (293; 79% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (45; 12% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (16; 4% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (11; 3% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 367 (98%) `ADP` nodes are leaves.
 

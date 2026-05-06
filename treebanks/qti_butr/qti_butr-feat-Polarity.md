@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
-61 tokens (16%) have a non-empty value of `Polarity`.
-55 types (20%) occur at least once with a non-empty value of `Polarity`.
-36 lemmas (15%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> (55; 14% instances), <tt><a href="qti_butr-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="qti_butr-pos-PART.html">PART</a></tt> (2; 1% instances).
+73 tokens (17%) have a non-empty value of `Polarity`.
+66 types (21%) occur at least once with a non-empty value of `Polarity`.
+42 lemmas (16%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 4 part-of-speech tags: <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> (64; 15% instances), <tt><a href="qti_butr-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="qti_butr-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="qti_butr-pos-PART.html">PART</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-55 <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> tokens (74% of all `VERB` tokens) have a non-empty value of `Polarity`.
+64 <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="qti_butr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (46; 84%), <tt><a href="qti_butr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (43; 78%), <tt><a href="qti_butr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (41; 75%), <tt><a href="qti_butr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (33; 60%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="qti_butr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (54; 84%), <tt><a href="qti_butr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (51; 80%), <tt><a href="qti_butr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (47; 73%), <tt><a href="qti_butr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38; 59%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (8; 15% of non-empty `Polarity`): <em>bilmiyorum, değinemiyoruz, düşünmezsen, düşürmedim, istemiyormuş, istemiyorum, olmayız, vermeden</em>
-* `Pos` (47; 85% of non-empty `Polarity`): <em>ettim, geldi, yapmak, Gel, Soggyleşmiş, Yemişsin, alabiliriz, alan, attın, başlasam</em>
-* `EMPTY` (19): <em>go, Depends, Let's, Seems, bitching, coming, deserve, doing, flirting, have</em>
+* `Neg` (9; 14% of non-empty `Polarity`): <em>bilmiyorum, değinemiyoruz, düşünmezsen, düşürmedim, eyleyemiyorum, istemiyormuş, istemiyorum, olmayız, vermeden</em>
+* `Pos` (55; 86% of non-empty `Polarity`): <em>ettim, geldi, yapmak, Gel, Soggyleşmiş, Yemişsin, alabiliriz, alan, attın, başlasam</em>
+* `EMPTY` (20): <em>go, Depends, Let's, Seems, bitching, coming, deserve, doing, flirting, have</em>
 
 <table>
   <tr><th>Paradigm <i>ol</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -34,7 +34,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
   <tr><td><tt><tt><a href="qti_butr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="qti_butr-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="qti_butr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="qti_butr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>olduğunuz</em></td><td></td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `VERB`. 97% lemmas (33) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `VERB`. 92% lemmas (35) occur only with one value of `Polarity`.
 
 ### `AUX`
 
@@ -46,6 +46,16 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>değil, değiliz</em>
 * `EMPTY` (6): <em>mi, doesn't, misin, were, would</em>
+
+### `ADJ`
+
+3 <tt><a href="qti_butr-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `Polarity`.
+
+`ADJ` tokens may have the following values of `Polarity`:
+
+* `Neg` (2; 67% of non-empty `Polarity`): <em>yok</em>
+* `Pos` (1; 33% of non-empty `Polarity`): <em>var</em>
+* `EMPTY` (35): <em>Büyük, Clear, Different, Kaşarlı, acceptable, crazy, emin, eski, fena, fine</em>
 
 ### `PART`
 

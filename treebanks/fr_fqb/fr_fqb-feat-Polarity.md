@@ -23,5 +23,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (51; 100% of non-empty `Polarity`): <em>pas, n', ne, plus, que</em>
-* `EMPTY` (792): <em>où, quand, plus, combien, comment, pourquoi, surtout, aussi, lord, près</em>
+* `EMPTY` (790): <em>où, quand, plus, combien, comment, pourquoi, surtout, aussi, lord, près</em>
 

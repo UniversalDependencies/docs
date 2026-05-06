@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 2 nsubj:caus	color:blue
 1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	conteur	conteur	NOUN	_	Number=Sing	5	nsubj:caus	_	Gender[lex]=Masc
+2	conteur	conteur	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:caus	_	Exponence[Gender]=Inherent
 3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 4	fait	faire	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	5	aux:caus	_	Tense[denom]=Past
 5	jouer	jouer	VERB	_	VerbForm=Inf	0	root	_	Subject=ObjRaising
@@ -41,21 +41,21 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 nsubj:caus	color:blue
-1	Ils	eux	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj:caus	_	_
+1	Ils	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj:caus	_	_
 2	lui	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj:agent	_	_
 3	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 4	fait	faire	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	5	aux:caus	_	Tense[denom]=Past
 5	subir	subir	VERB	_	VerbForm=Inf	0	root	_	_
 6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	_
-7	chocs	choc	NOUN	_	Number=Plur	5	obj	_	Gender[lex]=Masc
-8	électriques	électrique	ADJ	_	Number=Plur	7	amod	_	Gender[ctxt]=Masc
+7	chocs	choc	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	Exponence[Gender]=Inherent
+8	électriques	électrique	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	Exponence[Gender]=Absent
 9	sur	sur	ADP	_	_	11	case	_	_
 10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
-11	parties	partie	NOUN	_	Number=Plur	7	nmod	_	Gender[lex]=Fem
-12	sensibles	sensible	ADJ	_	Number=Plur	11	amod	_	Gender[ctxt]=Fem
+11	parties	partie	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	Exponence[Gender]=Inherent
+12	sensibles	sensible	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	Exponence[Gender]=Absent
 13	de	de	ADP	_	_	15	case	_	_
 14	son	son	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	15	det	_	_
-15	corps	corps	NOUN	_	_	11	nmod	_	Gender[lex]=Masc|Number[ctxt]=Sing|SpaceAfter=No
+15	corps	corps	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 16	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~
@@ -67,22 +67,22 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 nsubj:caus	color:blue
-1	Alfred	Alfred	PROPN	_	Gender=Masc|Number=Sing	4	nsubj:caus	_	_
-2	Sirven	Sirven	PROPN	_	_	1	flat:name	_	Gender[lex]=Unknown
+1	Alfred	Alfred	PROPN	_	Gender=Masc|Number=Sing	4	nsubj:caus	_	Exponence[Gender]=Inherent
+2	Sirven	Sirven	PROPN	_	_	1	flat:name	_	_
 3	fait	faire	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:caus	_	_
 4	payer	payer	VERB	_	VerbForm=Inf	0	root	_	Subject=OblRaising
 5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	partie	partie	NOUN	_	Number=Sing	4	obj	_	Gender[lex]=Fem
+6	partie	partie	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	Exponence[Gender]=Inherent
 7	de	de	ADP	_	_	9	case	_	_
 8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	commission	commission	NOUN	_	Number=Sing	6	nmod	_	Gender[lex]=Fem
+9	commission	commission	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	Exponence[Gender]=Inherent
 10	promise	promettre	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	9	acl	_	Tense[denom]=Past
 11	par	par	ADP	_	_	13	case	_	_
 12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	_
-13	fonds	fonds	NOUN	_	_	4	obl:agent	_	Gender[lex]=Masc|Number[ctxt]=Plur
+13	fonds	fonds	NOUN	_	Gender=Masc|Number=Plur	4	obl:agent	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 14	secrets	secret	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	_
 15	d'	de	ADP	_	_	16	case	_	SpaceAfter=No
-16	Elf	Elf	PROPN	_	_	13	nmod	_	Gender[lex]=Unknown|SpaceAfter=No
+16	Elf	Elf	PROPN	_	_	13	nmod	_	SpaceAfter=No
 17	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

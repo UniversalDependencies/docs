@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (0%) are attached to their parents as `fixed`.
+4 nodes (0%) are attached to their parents as `fixed`.
 
-6 instances of `fixed` (100%) are left-to-right (parent precedes child).
+4 instances of `fixed` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href="olo_kkpp-pos-ADV.html">ADV</a></tt>-<tt><a href="olo_kkpp-pos-ADV.html">ADV</a></tt> (3; 50% instances), <tt><a href="olo_kkpp-pos-ADV.html">ADV</a></tt>-<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (1; 17% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt>-<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (1; 17% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
+The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href="olo_kkpp-pos-ADV.html">ADV</a></tt>-<tt><a href="olo_kkpp-pos-ADV.html">ADV</a></tt> (3; 75% instances), <tt><a href="olo_kkpp-pos-ADV.html">ADV</a></tt>-<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Sen	sen	ADV	ADV	_	6	advmod	_	_
+1	Sen	sen	ADV	ADV	ExtPos=ADV	6	advmod	_	_
 2	ližäkse	ližäkse	ADV	ADV	_	1	fixed	_	_
 3	suuri	suuri	ADJ	ADJ	Case=Nom|Number=Sing	4	amod	_	_
 4	vuitti	vuitti	NOUN	NOUN	Case=Nom|Number=Sing	6	nsubj	_	_
@@ -52,8 +52,8 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	Paiči	paiči	ADV	ADV	_	7	advmod	_	_
-2	sidä	sidä	PRON	PRON	Case=Abe|Number=Plur	1	fixed	_	_
+1	Paiči	paiči	ADV	ADV	ExtPos=ADV	7	advmod	_	_
+2	sidä	sidä	PRON	PRON	Case=Abe|Number=Plur|PronType=Dem	1	fixed	_	_
 3	“	“	PUNCT	PUNCT	_	5	punct	_	SpaceAfter=No
 4	Tverinkarjalazien	Tverinkarjalaine	NOUN	NOUN	Case=Gen|Number=Plur	5	nmod:poss	_	_
 5	ystävät	ystävy	NOUN	NOUN	Case=Nom|Number=Plur	7	nsubj	_	SpaceAfter=No
@@ -66,39 +66,6 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 12	da	da	CCONJ	CCONJ	_	13	cc	_	_
 13	opastuskniigua	opastuskniigu	NOUN	NOUN	Case=Par|Number=Sing	11	conj	_	SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	7	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 20	bgColor:blue
-# visual-style 20	fgColor:white
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 19 20 fixed	color:blue
-1	Ku	ku	SCONJ	SCONJ	_	2	mark	_	_
-2	unohtannet	unohtoa	VERB	X	Mood=Pot|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
-3	tämän	tämä	PRON	PRON	Case=Gen|Number=Sing|PronType=Dem	4	det	_	_
-4	dielon	dielo	NOUN	NOUN	Case=Acc|Number=Sing	2	obj	_	SpaceAfter=No
-5	,	,	PUNCT	PUNCT	_	10	punct	_	_
-6	sit	sit	ADV	ADV	_	10	advmod	_	_
-7	Arbaituksen	Arbaitus	NOUN	NOUN	Case=Gen|Number=Sing	8	nmod:poss	_	_
-8	akku	akku	NOUN	NOUN	Case=Nom|Number=Sing	10	nsubj	_	_
-9	vältämättäh	vältämättäh	ADV	ADV	_	10	advmod	_	_
-10	tulou	tulla	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
-11	da	da	CCONJ	CCONJ	_	12	cc	_	_
-12	prižmiy	prižmie	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	_
-13	sinuu	sinä	PRON	PRON	Case=Par|Number=Sing|Person=2|PronType=Prs	12	obj	_	_
-14	mustoittamah	mustoittua	VERB	VERB	Case=Ill|VerbForm=Inf	12	ccomp	_	Deriv=Ma
-15	semmostu	semmoine	ADJ	ADJ	Case=Par|Number=Sing	16	amod	_	_
-16	arbaitustu	arbaitus	NOUN	NOUN	Case=Par|Number=Sing	14	obj	_	SpaceAfter=No
-17	,	,	PUNCT	PUNCT	_	22	punct	_	_
-18	kudamua	kudai	PRON	PRON	Case=Par|Number=Sing|PronType=Rel	22	obj	_	_
-19	häi	häi	PRON	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	22	nsubj	_	_
-20	iče	iče	PRON	PRON	Case=Nom|Reflex=Yes	19	fixed	_	_
-21	ei	ei	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	22	aux	_	_
-22	musta	mustua	VERB	VERB	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	SpaceAfter=No
-23	.	.	PUNCT	PUNCT	_	22	punct	_	SpaceAfter=No
 
 ~~~
 

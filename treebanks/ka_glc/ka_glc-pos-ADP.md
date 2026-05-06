@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>თან</em> (<tt><a href="ka_glc-p
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 2.062500 (the average of all parts of speech is 1.674782).
+The form / lemma ratio of `ADP` is 2.062500 (the average of all parts of speech is 1.692057).
 
 The 1st highest number of forms (4) was observed with the lemma “გან”: <em>გან, განაც, განვე, განი</em>.
 
@@ -51,7 +51,7 @@ Examples: <em>ში, ზე, თან, შორის, შიც, შუა, 
 
 `ADP` nodes are attached to their parents using 6 different relations: <tt><a href="ka_glc-dep-case.html">case</a></tt> (3451; 100% instances), <tt><a href="ka_glc-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="ka_glc-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="ka_glc-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (2819; 81% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (259; 7% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (246; 7% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (92; 3% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (24; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (2820; 81% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (259; 7% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (246; 7% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (91; 3% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (24; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 3438 (99%) `ADP` nodes are leaves.
 

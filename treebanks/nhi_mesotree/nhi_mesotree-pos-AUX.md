@@ -1,87 +1,93 @@
 ---
 layout: base
-title:  'Statistics of AUX in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of AUX in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: POS Tags: `AUX`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: POS Tags: `AUX`
 
-There are 20 `AUX` lemmas (1%), 40 `AUX` types (2%) and 142 `AUX` tokens (2%).
-Out of 15 observed tags, the rank of `AUX` is: 10 in number of lemmas, 8 in number of types and 11 in number of tokens.
+There are 24 `AUX` lemmas (1%), 67 `AUX` types (1%) and 364 `AUX` tokens (2%).
+Out of 16 observed tags, the rank of `AUX` is: 12 in number of lemmas, 8 in number of types and 12 in number of tokens.
 
-The 10 most frequent `AUX` lemmas: <em>ma, mo, o, katki, pewi, catqui, mach, wili, _, ser</em>
+The 10 most frequent `AUX` lemmas: <em>catqui, ma, uili, o, mo, katki, peua, pewi, oc, mach</em>
 
-The 10 most frequent `AUX` types:  <em>ma, mo, o, katka, pewi, mach, wili, nimi, catca, es</em>
+The 10 most frequent `AUX` types:  <em>catqui, ma, o, mo, uili, isqui, katka, oc, ocatca, uilis</em>
 
-The 10 most frequent ambiguous lemmas: <em>ma</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 32, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 1), <em>o</em> (<tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 17, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 4, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> 1), <em>katki</em> (<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 60, <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 15), <em>pewi</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 12, <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 8), <em>catqui</em> (<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 12, <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 10, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 2), <em>wili</em> (<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 9, <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 6), <em>_</em> (<tt><a href="nhi_itml-pos-X.html">X</a></tt> 13, <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 4, <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1), <em>ser</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 3, <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1), <em>huili</em> (<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 7, <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 2), <em>kisa</em> (<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 11, <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>catqui</em> (<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 143, <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 69, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 3, <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 1), <em>ma</em> (<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 37, <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 2), <em>uili</em> (<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 36, <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 6), <em>o</em> (<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 31, <tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt> 31, <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 4, <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt> 4, <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt> 1), <em>katki</em> (<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 60, <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 15), <em>peua</em> (<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 21, <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 15), <em>pewi</em> (<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 12, <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 8), <em>oc</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 17, <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 9, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 1), <em>mach</em> (<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 7, <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> 1), <em>wili</em> (<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 9, <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 6)
 
-The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 24, <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 14, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3), <em>katka</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 9, <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1), <em>pewi</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 7, <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 2), <em>wili</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 4, <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1), <em>es</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 2, <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1), <em>i</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 2, <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1), <em>peweh</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 2, <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1), <em>ito</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 1, <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1), <em>katej</em> (<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 2, <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 1), <em>namisqueh</em> (<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 1, <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>catqui</em> (<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 84, <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 21), <em>o</em> (<tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt> 31, <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 29, <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> 3), <em>mo</em> (<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 26, <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 1), <em>isqui</em> (<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 11, <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 1), <em>katka</em> (<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 9, <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 1), <em>oc</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 17, <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 4, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 2, <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 1), <em>ocatca</em> (<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 9, <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 6), <em>pewi</em> (<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 7, <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 2), <em>mach</em> (<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 7, <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> 1), <em>opeu</em> (<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 10, <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 6)
 
 
+* <em>catqui</em>
+  * <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 84: <em>In pouitl <b>catqui</b> iixco n atl</em>
+  * <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 21: <em>¿ Ix <b>catqui</b> patli para in totonqui ?</em>
 * <em>o</em>
-  * <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 24: <em>No sé , cualquier cosa okisti witskeh , <b>o</b> sea , cualquier cosa .</em>
-  * <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 14: <em>kinih <b>o</b> katka n tikitl n canadá ?</em>
-  * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 3: <em>Y otiquitiya para inpilhuan <b>o</b> para incal</em>
+  * <tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt> 31: <em>¿ Mo yolcatl tliltic <b>o</b> istac ?</em>
+  * <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 29: <em>¿ Canih <b>o</b> catca Juan Yalua ?</em>
+  * <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> 3: <em>Y otiquitiya para inpilhuan <b>o</b> para incal</em>
+* <em>mo</em>
+  * <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 26: <em>Xicaua <b>mo</b> quisa in miston nican calihtic san tzahtzitoc .</em>
+  * <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 1: <em>Amo catqui <b>mo</b> cocoltzi oyah oquinmohmohtito in tichalomeh .</em>
+* <em>isqui</em>
+  * <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 11: <em>N ocse xiuitl noconeu ya <b>isqui</b> tlacatl</em>
+  * <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 1: <em>Quemanian <b>isqui</b> in toquistl , niualas nimitzonpaleuiqui .</em>
 * <em>katka</em>
-  * <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 9: <em>kinih o <b>katka</b> n tikitl n canadá ?</em>
-  * <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1: <em>Wan kimomohtia n konetl hasta witsi talpan como <b>katka</b> bumak .</em>
+  * <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 9: <em>kinih o <b>katka</b> n tikitl n canadá ?</em>
+  * <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 1: <em>Wan kimomohtia n konetl hasta witsi talpan como <b>katka</b> bumak .</em>
+* <em>oc</em>
+  * <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 17: <em>Axan <b>oc</b> nitlatooctoc</em>
+  * <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 4: <em>¿ Isqui <b>oc</b> se tlamantli ?</em>
+  * <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 2: <em>¿ Cate <b>oc</b> siqui altipeme campa mitotiyan in santiagome ?</em>
+  * <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 1: <em>¿ In tepatani <b>oc</b> tlali in itoca itich in acta ?</em>
+* <em>ocatca</em>
+  * <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 9: <em>Necah pouitl y <b>ocatca</b> ueyi</em>
+  * <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 6: <em>¿ Mochancau <b>ocatca</b> ?</em>
 * <em>pewi</em>
-  * <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 7: <em>Pewi ehkoh wan ya <b>pewi</b> sekinkwatiki .</em>
-  * <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 2: <em>De ejemplo ya otiehkokeh como <b>pewi</b> itich n tres de n febrero de n ilwitl nikah ich n topueblo , de n nikah San Francisco Ixquihuacan .</em>
-* <em>wili</em>
-  * <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 4: <em>Ok sikin okinpalewij , uan kewtok axan yej amo <b>wili</b> mopalewia .</em>
-  * <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1: <em>wan sekilograroa cosas de material de n tehwah tlen sekiniki , <b>wili</b> mochiwas .</em>
-* <em>es</em>
-  * <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 2: <em>kemeh teh , mitsú , igual , otikdecidiroh n tlen tikikuia ika n tlahtolmeh , <b>es</b> igual .</em>
-  * <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1: <em>N ompa ya pewi lo que <b>es</b> sekipewi , sekidesarmaroa n máquina , porque ompa ahora sí kikamakwitok n tixtli , wan tla amo sekikixtilis xokoya .</em>
-* <em>i</em>
-  * <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 2: <em>Inchiya de que ompa amo ohcon ma <b>i</b> .</em>
-  * <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1: <em>Tlen nej ontlasojtlaskia ma <b>i</b> itich nin altipetl , ontlasojtlaskia de ke n altipetl ma mokwipa municipio , ontlasojtlaskia de ke n ojtli ma i pavimentado wan tokniwan ma kpiyakan se kwalli tikitl itich nin altipetl , wan de ke nochi n kokonej ma estudiarokan wan noyiwki ontlasojtlaskia de ke amo ma pinawakan tlajtoskej nawatl .</em>
-* <em>peweh</em>
-  * <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 2: <em>Después kita ya <b>peweh</b> walkisah n tleh chihchikichih ranas .</em>
-  * <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1: <em>Ompa <b>peweh</b> kakeh sonidos ohkon de rana .</em>
-* <em>ito</em>
-  * <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 1: <em>ich n toaltipew mo <b>ito</b> reconocido .</em>
-  * <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1: <em>Osekinikiskiaya amo poliwi , mo kiseguiro , mo moskalteh tlakpak , mo <b>ito</b> reconocido nikah itich n toaltipew nikah San Francisco .</em>
-* <em>katej</em>
-  * <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 2: <em>¿ Xamo <b>katej</b> in yejwan ?</em>
-  * <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 1: <em>Ompa <b>katej</b> talleres de artesaniaj de conchas , ninkej katej itich mar .</em>
-* <em>namisqueh</em>
-  * <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> 1: <em>Namechcuecuechosque ica se molino , uan namechyectlalisqueh ipan mitlatl para <b>namisqueh</b> xitlatztiqueh .</em>
-  * <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> 1: <em>In tlalticpactlacameh namechcuasqueh , uan nochipa <b>namisqueh</b> itich n intlayouilis .</em>
+  * <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 7: <em>Pewi ehkoh wan ya <b>pewi</b> sekinkwatiki .</em>
+  * <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 2: <em>De ejemplo ya otiehkokeh como <b>pewi</b> itich n tres de n febrero de n ilwitl nikah ich n topueblo , de n nikah San Francisco Ixquihuacan .</em>
+* <em>mach</em>
+  * <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 7: <em>Wan kitsahtsilihtok n irana <b>mach</b> kanih kah .</em>
+  * <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Onechtlahtlanih <b>mach</b> tlenoh inniqui</em>
+* <em>opeu</em>
+  * <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 10: <em>Ninin tlapohual <b>opeu</b> yahuiptla .</em>
+  * <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 6: <em>¿ Quemanian <b>opeu</b> tomitzotla ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.000000 (the average of all parts of speech is 1.468205).
+The form / lemma ratio of `AUX` is 2.791667 (the average of all parts of speech is 1.597641).
 
-The 1st highest number of forms (8) was observed with the lemma “catqui”: <em>catca, catcah, ito, namisqueh, nica, nicatca, ticatca, ticatcah</em>.
+The 1st highest number of forms (23) was observed with the lemma “catqui”: <em>cah, catca, catcah, cate, cateh, catqui, i, isqui, ito, namisqueh, nica, nicatca, niisqui, o, ocatca, oisquia, oisquiya, onicatca, otcatca, ticatca, ticatcah, tiisqui, tonisqui</em>.
 
-The 2nd highest number of forms (7) was observed with the lemma “katki”: <em>Okatka, i, iskia, katej, katka, niiski, oiskia</em>.
+The 2nd highest number of forms (9) was observed with the lemma “uili”: <em>Uislis, huili, oniuilic, ouilic, oulic, uili, uilia, uiliah, uilis</em>.
 
-The 3rd highest number of forms (4) was observed with the lemma “pewi”: <em>opeh, peweh, pewi, pewis</em>.
+The 3rd highest number of forms (7) was observed with the lemma “katki”: <em>Okatka, i, iskia, katej, katka, niiski, oiskia</em>.
 
-`AUX` occurs with 4 features: <tt><a href="nhi_itml-feat-Tense.html">Tense</a></tt> (44; 31% instances), <tt><a href="nhi_itml-feat-Aspect.html">Aspect</a></tt> (19; 13% instances), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt> (1; 1% instances), <tt><a href="nhi_itml-feat-Mood.html">Mood</a></tt> (1; 1% instances)
+`AUX` occurs with 8 features: <tt><a href="nhi_mesotree-feat-Tense.html">Tense</a></tt> (47; 13% instances), <tt><a href="nhi_mesotree-feat-Aspect.html">Aspect</a></tt> (21; 6% instances), <tt><a href="nhi_mesotree-feat-Number-subj.html">Number[subj]</a></tt> (7; 2% instances), <tt><a href="nhi_mesotree-feat-Subcat.html">Subcat</a></tt> (6; 2% instances), <tt><a href="nhi_mesotree-feat-Person-subj.html">Person[subj]</a></tt> (5; 1% instances), <tt><a href="nhi_mesotree-feat-Mood.html">Mood</a></tt> (4; 1% instances), <tt><a href="nhi_mesotree-feat-Foreign.html">Foreign</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
-`AUX` occurs with 6 feature-value pairs: `Aspect=Imp`, `Foreign=Yes`, `Mood=Opt`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`
+`AUX` occurs with 12 feature-value pairs: `Aspect=Imp`, `Foreign=Yes`, `Mood=Ind`, `Mood=Opt`, `Number[subj]=Plur`, `Number[subj]=Sing`, `Person[subj]=3`, `Subcat=Intr`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`
 
-`AUX` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (96 tokens).
-Examples: <em>ma, mo, o, mach, nimi, i, kis, es, está, hay</em>
+`AUX` occurs with 14 feature combinations.
+The most frequent feature combination is `_` (310 tokens).
+Examples: <em>catqui, ma, o, mo, uili, isqui, oc, uilis, mach, ocatca</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 2 different relations: <tt><a href="nhi_itml-dep-aux.html">aux</a></tt> (113; 80% instances), <tt><a href="nhi_itml-dep-cop.html">cop</a></tt> (29; 20% instances)
+`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="nhi_mesotree-dep-aux.html">aux</a></tt> (196; 54% instances), <tt><a href="nhi_mesotree-dep-cop.html">cop</a></tt> (166; 46% instances), <tt><a href="nhi_mesotree-dep-advcl.html">advcl</a></tt> (2; 1% instances)
 
-Parents of `AUX` nodes belong to 5 different parts of speech: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (91; 64% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (31; 22% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (12; 8% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (4; 3% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (4; 3% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (174; 48% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (84; 23% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> (47; 13% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (42; 12% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (8; 2% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-141 (99%) `AUX` nodes are leaves.
+362 (99%) `AUX` nodes are leaves.
 
-1 (1%) `AUX` nodes have one child.
+1 (0%) `AUX` nodes have one child.
 
-The highest child degree of a `AUX` node is 1.
+0 (0%) `AUX` nodes have two children.
 
-Children of `AUX` nodes are attached using 1 different relations: <tt><a href="nhi_itml-dep-cc.html">cc</a></tt> (1; 100% instances)
+1 (0%) `AUX` nodes have three or more children.
 
-Children of `AUX` nodes belong to 1 different parts of speech: <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> (1; 100% instances)
+The highest child degree of a `AUX` node is 3.
+
+Children of `AUX` nodes are attached using 4 different relations: <tt><a href="nhi_mesotree-dep-cc.html">cc</a></tt> (1; 25% instances), <tt><a href="nhi_mesotree-dep-mark.html">mark</a></tt> (1; 25% instances), <tt><a href="nhi_mesotree-dep-obj.html">obj</a></tt> (1; 25% instances), <tt><a href="nhi_mesotree-dep-punct.html">punct</a></tt> (1; 25% instances)
+
+Children of `AUX` nodes belong to 4 different parts of speech: <tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt> (1; 25% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (1; 25% instances), <tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (1; 25% instances), <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> (1; 25% instances)
 

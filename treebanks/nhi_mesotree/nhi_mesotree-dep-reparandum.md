@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Statistics of reparandum in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of reparandum in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `reparandum`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `reparandum`
 
 This relation is universal.
 
@@ -13,7 +13,7 @@ This relation is universal.
 5 instances of `reparandum` (56%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.
 
-The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (3; 33% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (2; 22% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (2; 22% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 11% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (1; 11% instances).
+The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (3; 33% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (2; 22% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (2; 22% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (1; 11% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (1; 11% instances).
 
 
 ~~~ conllu

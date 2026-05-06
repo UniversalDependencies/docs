@@ -20,7 +20,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="fr_partut-pos-DET.h
 
 102 <tt><a href="fr_partut-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="fr_partut-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (102; 100%), <tt><a href="fr_partut-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (102; 100%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (78; 76%), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (55; 54%).
+The most frequent other feature values with which `DET` and `Number[psor]` co-occurred: <tt><a href="fr_partut-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (102; 100%), <tt><a href="fr_partut-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (102; 100%), <tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt> (78; 76%), <tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (53; 52%).
 
 `DET` tokens may have the following values of `Number[psor]`:
 

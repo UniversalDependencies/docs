@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 10	cycle	cycle	NOUN	NN	Number=Sing	5	obj	5:obj	_
 11	of	of	ADP	IN	_	12	case	12:case	_
 12	chemotherapy	chemotherapy	NOUN	NN	Number=Sing	10	nmod	10:nmod:of	Entity=(9-event-giv:inact-ssssn-cf2-1-coref)111)|MSeg=chemo-therap-y
-13	today	today	NOUN	NN	Number=Sing	5	obl:unmarked	5:obl:unmarked	Entity=(98-time-giv:inact-nnnnn-cf3-1-coref)|MSeg=to-day|SpaceAfter=No
+13	today	today	NOUN	NN	Number=Sing	5	obl:unmarked	5:obl:unmarked	Entity=(98-time-giv:inact-nnnnn-cf3-1-coref)|MSeg=to-day|SpaceAfter=No|XML=<date when:::"2022-11-12"></date>
 14	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~
@@ -69,7 +69,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
 4	pending	pend	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	MSeg=pend-ing
 5	from	from	ADP	IN	_	6	case	6:case	_
-6	today	today	NOUN	NN	Number=Sing	4	obl	4:obl:from	Entity=(98-time-giv:act-nnnnn-cf2-1-coref)|MSeg=to-day|SpaceAfter=No
+6	today	today	NOUN	NN	Number=Sing	4	obl	4:obl:from	Entity=(98-time-giv:act-nnnnn-cf2-1-coref)|MSeg=to-day|SpaceAfter=No|XML=<date when:::"2022-11-12"></date>
 7	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~

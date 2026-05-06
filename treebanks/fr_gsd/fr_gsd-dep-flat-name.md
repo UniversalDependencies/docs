@@ -24,11 +24,11 @@ The following 23 pairs of parts of speech are connected with `flat:name`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat:name	color:blue
 1	L'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No|wordform=l'
-2	éditeur-en-chef	éditeur-en-chef	NOUN	_	Number=Sing	4	nsubj	_	Gender[lex]=Masc
+2	éditeur-en-chef	éditeur-en-chef	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	Exponence[Gender]=Inherent
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	Corey	Corey	PROPN	_	_	0	root	_	Gender[lex]=Unknown
-5	S.	S.	PROPN	_	_	4	flat:name	_	Gender[lex]=Unknown
-6	Powell	Powell	PROPN	_	_	4	flat:name	_	Gender[lex]=Unknown|SpaceAfter=No
+4	Corey	Corey	PROPN	_	_	0	root	_	_
+5	S.	S.	PROPN	_	_	4	flat:name	_	_
+6	Powell	Powell	PROPN	_	_	4	flat:name	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -40,13 +40,13 @@ The following 23 pairs of parts of speech are connected with `flat:name`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 flat:name	color:blue
-1	Certaines	certain	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	nsubj	_	wordform=certaines
+1	Certaines	certains	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	nsubj	_	wordform=certaines
 2	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	également	également	ADV	_	_	4	advmod	_	_
 4	barophiles	barophile	ADJ	_	Gender=Fem|Number=Plur	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	_
 6	comme	comme	ADP	_	_	7	case	_	_
-7	Pyrococcus	Pyrococcus	PROPN	_	_	4	obl:mod	_	Gender[lex]=Unknown
+7	Pyrococcus	Pyrococcus	PROPN	_	_	4	obl:mod	_	_
 8	abyssi	abyssi	X	_	_	7	flat:name	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -61,7 +61,7 @@ The following 23 pairs of parts of speech are connected with `flat:name`: <tt><a
 # visual-style 7 8 flat:name	color:blue
 1	Même	même	ADV	_	_	3	advmod	_	wordform=même
 2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	titre	titre	NOUN	_	Number=Sing	5	nsubj	_	Gender[lex]=Masc
+3	titre	titre	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	Exponence[Gender]=Inherent
 4	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
 5	différent	différent	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 6	:	:	PUNCT	_	_	7	punct	_	_

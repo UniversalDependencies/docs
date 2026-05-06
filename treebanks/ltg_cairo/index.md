@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Lauma Pretkalniņa, Gunta Nešpore-Bērzkalne.
 
 Repository: [UD_Latgalian-Cairo](https://github.com/UniversalDependencies/UD_Latgalian-Cairo)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udltg_cairo217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udltg_cairo218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -49,7 +49,7 @@ UD_Latgalian-Cairo is an example treebank to provide minimal dataset for Latgali
 
 
 
-This treebank was developed as a proof-of-concept by the team developing Latvian UD Treebank (UD_Latvian-LVTB). It contains the 20 Cairo example sentences and is as far as we are know the only Latgalian treebank in existance.
+This treebank was developed as a proof-of-concept by the team developing Latvian UD Treebank (UD_Latvian-LVTB). It contains the 20 Cairo example sentences and as far as we know is the only Latgalian treebank in existance.
 
 
 ## Acknowledgments

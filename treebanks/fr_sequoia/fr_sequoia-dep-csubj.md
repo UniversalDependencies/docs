@@ -25,17 +25,17 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3 5 csubj	color:blue
 1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	_
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	nécessaire	nécessaire	ADJ	_	Number=Sing	0	root	_	Gender[ctxt]=Masc
+3	nécessaire	nécessaire	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Exponence[Gender]=Absent
 4	d'	de	ADP	_	_	5	mark	_	SpaceAfter=No
 5	augmenter	augmenter	VERB	_	VerbForm=Inf	3	csubj	_	Subject=Generic
 6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	dotation	dotation	NOUN	_	Number=Sing	5	obj	_	Gender[lex]=Fem
+7	dotation	dotation	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	Exponence[Gender]=Inherent
 8	et	et	CCONJ	_	_	10	cc	_	_
 9	de	de	ADP	_	_	10	mark	_	_
 10	créer	créer	VERB	_	VerbForm=Inf	5	conj	_	Subject=Generic
 11	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	poste	poste	NOUN	_	Number=Sing	10	obj	_	Gender[lex]=Masc
-13	budgétaire	budgétaire	ADJ	_	Number=Sing	12	amod	_	Gender[ctxt]=Masc
+12	poste	poste	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	Exponence[Gender]=Inherent
+13	budgétaire	budgétaire	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	Exponence[Gender]=Absent
 14	;	;	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -52,17 +52,17 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 3	rapidement	rapidement	ADV	_	_	4	advmod	_	_
 4	apparu	apparaître	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Tense[denom]=Past
 5	que	que	SCONJ	_	_	10	mark	_	_
-6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	Gender[ctxt]=Fem|SpaceAfter=No
-7	armée	armée	NOUN	_	Number=Sing	10	nsubj	_	Gender[lex]=Fem
+6	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Exponence[Gender]=Absent|SpaceAfter=No
+7	armée	armée	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	Exponence[Gender]=Inherent
 8	taïwanaise	taïwanais	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
 9	n'	ne	ADV	_	Polarity=Neg	10	advmod	_	SpaceAfter=No
 10	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	csubj	_	_
 11	pas	pas	ADV	_	Polarity=Neg	10	advmod	_	_
 12	tant	tant	ADV	_	_	13	advmod	_	_
-13	besoin	besoin	NOUN	_	Number=Sing	10	obj	_	Gender[lex]=Masc
+13	besoin	besoin	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	Exponence[Gender]=Inherent
 14	de	de	ADP	_	_	16	case	_	_
 15	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	16	det	_	_
-16	matériel	matériel	NOUN	_	Number=Sing	10	obl:arg	_	Gender[lex]=Masc
+16	matériel	matériel	NOUN	_	Gender=Masc|Number=Sing	10	obl:arg	_	Exponence[Gender]=Inherent
 17	ultrasophistiqué	ultrasophistiqué	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -78,24 +78,24 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 1	Il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	_
 2	apparaît	apparaître	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	_	_	9	mark	_	_
-4	Nicolas	Nicolas	PROPN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
-5	Sarkozy	Sarkozy	PROPN	_	_	4	flat:name	_	Gender[lex]=Unknown
+4	Nicolas	Nicolas	PROPN	_	Gender=Masc|Number=Sing	9	nsubj	_	Exponence[Gender]=Inherent
+5	Sarkozy	Sarkozy	PROPN	_	_	4	flat:name	_	_
 6	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
 7	à	à	ADP	_	_	9	case	_	_
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	courant	courant	NOUN	_	Number=Sing	2	csubj	_	Gender[lex]=Masc
+9	courant	courant	NOUN	_	Gender=Masc|Number=Sing	2	csubj	_	Exponence[Gender]=Inherent
 10	de	de	ADP	_	_	12	case	_	_
-11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	Gender[ctxt]=Fem|SpaceAfter=No
-12	affaire	affaire	NOUN	_	Number=Sing	9	nmod	_	Gender[lex]=Fem
+11	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	Exponence[Gender]=Absent|SpaceAfter=No
+12	affaire	affaire	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	Exponence[Gender]=Inherent
 13	dès	dès	ADP	_	_	14	case	_	_
-14	septembre	septembre	NOUN	_	Number=Sing	9	obl:mod	_	Gender[lex]=Masc
-15	2004	2004	NUM	_	NumType=Card	14	nmod	_	Number[lex]=Sing|SpaceAfter=No
+14	septembre	septembre	NOUN	_	Gender=Masc|Number=Sing	9	obl:mod	_	Exponence[Gender]=Inherent
+15	2004	2004	NUM	_	Number=Sing|NumType=Card	14	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	_
 17	mais	mais	CCONJ	_	_	19	cc	_	_
 18	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux:tense	_	_
 19	gardé	garder	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	9	conj	_	Tense[denom]=Past
 20	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	silence	silence	NOUN	_	Number=Sing	19	obj	_	Gender[lex]=Masc
+21	silence	silence	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	Exponence[Gender]=Inherent
 22	sans	sans	ADP	_	_	23	mark	_	_
 23	chercher	chercher	VERB	_	VerbForm=Inf	19	advcl	_	Subject=Instantiated
 24	à	à	ADP	_	_	26	mark	_	_
@@ -103,8 +103,8 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 26	défendre	défendre	VERB	_	VerbForm=Inf	23	xcomp	_	Subject=SubjRaising
 27	jusqu'	jusque	ADP	_	_	29	case	_	SpaceAfter=No
 28	à	à	ADP	_	_	29	case	_	_
-29	début	début	NOUN	_	Number=Sing	19	obl:mod	_	Gender[lex]=Masc
-30	2006	2006	NUM	_	NumType=Card	29	nmod	_	Number[lex]=Sing|SpaceAfter=No
+29	début	début	NOUN	_	Gender=Masc|Number=Sing	19	obl:mod	_	Exponence[Gender]=Inherent
+30	2006	2006	NUM	_	Number=Sing|NumType=Card	29	nmod	_	Exponence[Number]=Inherent|SpaceAfter=No
 31	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>var</em> (<tt><a href="sv_lines-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.333333 (the average of all parts of speech is 1.415505).
+The form / lemma ratio of `AUX` is 3.333333 (the average of all parts of speech is 1.413547).
 
 The 1st highest number of forms (5) was observed with the lemma “få”: <em>fick, finge, få, får, fått</em>.
 
@@ -76,7 +76,7 @@ Examples: <em>var, hade, skulle, kunde, ville, borde, fick, blev, kom</em>
 
 `AUX` nodes are attached to their parents using 15 different relations: <tt><a href="sv_lines-dep-aux.html">aux</a></tt> (2662; 54% instances), <tt><a href="sv_lines-dep-cop.html">cop</a></tt> (1964; 40% instances), <tt><a href="sv_lines-dep-aux-pass.html">aux:pass</a></tt> (146; 3% instances), <tt><a href="sv_lines-dep-root.html">root</a></tt> (27; 1% instances), <tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt> (17; 0% instances), <tt><a href="sv_lines-dep-acl-relcl.html">acl:relcl</a></tt> (13; 0% instances), <tt><a href="sv_lines-dep-advcl.html">advcl</a></tt> (13; 0% instances), <tt><a href="sv_lines-dep-conj.html">conj</a></tt> (13; 0% instances), <tt><a href="sv_lines-dep-acl.html">acl</a></tt> (12; 0% instances), <tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt> (7; 0% instances), <tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt> (5; 0% instances), <tt><a href="sv_lines-dep-acl-cleft.html">acl:cleft</a></tt> (3; 0% instances), <tt><a href="sv_lines-dep-csubj.html">csubj</a></tt> (3; 0% instances), <tt><a href="sv_lines-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="sv_lines-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (2697; 55% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (920; 19% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (794; 16% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (195; 4% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (159; 3% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (63; 1% instances),  (27; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (16; 0% instances)
+Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (2697; 55% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (921; 19% instances), <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (794; 16% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (195; 4% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (158; 3% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (63; 1% instances),  (27; 1% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (16; 0% instances)
 
 4759 (97%) `AUX` nodes are leaves.
 

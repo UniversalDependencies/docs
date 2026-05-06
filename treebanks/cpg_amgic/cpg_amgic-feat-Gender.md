@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-149 tokens (33%) have a non-empty value of `Gender`.
-92 types (39%) occur at least once with a non-empty value of `Gender`.
-78 lemmas (41%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="cpg_amgic-pos-NOUN.html">NOUN</a></tt> (73; 16% instances), <tt><a href="cpg_amgic-pos-PRON.html">PRON</a></tt> (33; 7% instances), <tt><a href="cpg_amgic-pos-DET.html">DET</a></tt> (28; 6% instances), <tt><a href="cpg_amgic-pos-ADJ.html">ADJ</a></tt> (11; 2% instances), <tt><a href="cpg_amgic-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cpg_amgic-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cpg_amgic-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+267 tokens (33%) have a non-empty value of `Gender`.
+153 types (38%) occur at least once with a non-empty value of `Gender`.
+131 lemmas (40%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 7 part-of-speech tags: <tt><a href="cpg_amgic-pos-NOUN.html">NOUN</a></tt> (128; 16% instances), <tt><a href="cpg_amgic-pos-DET.html">DET</a></tt> (68; 8% instances), <tt><a href="cpg_amgic-pos-PRON.html">PRON</a></tt> (50; 6% instances), <tt><a href="cpg_amgic-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="cpg_amgic-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="cpg_amgic-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="cpg_amgic-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-73 <tt><a href="cpg_amgic-pos-NOUN.html">NOUN</a></tt> tokens (94% of all `NOUN` tokens) have a non-empty value of `Gender`.
+128 <tt><a href="cpg_amgic-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63; 86%), <tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt> (44; 60%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt> (111; 87%), <tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt> (69; 54%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (24; 33% of non-empty `Gender`): <em>kóri, enéka, mána, enékan, góri, iméra, iréan, klišás, ksíla, líres</em>
-* `Masc` (22; 30% of non-empty `Gender`): <em>pará, staxtiǰís, vaván, Aγás, Mándis, Qujumǰís, Vavás, gjavúriri, kefálin, kukuniós</em>
-* `Neut` (27; 37% of non-empty `Gender`): <em>pará, psomí, t'emélia, Psémata, alísia, kalaǰí, korítsi, küréi, limóri, ombrín</em>
-* `EMPTY` (5): <em>eziétza, mílu, psémata, xuryó, ǰaním</em>
+* `Fem` (33; 26% of non-empty `Gender`): <em>kóri, Dunyá, enéka, mána, Güzelidyú, Güzelí, ciriás, cirjás, enékan, góri</em>
+* `Masc` (32; 25% of non-empty `Gender`): <em>pará, patisáχu, staχtiǰís, vaván, Aγás, Mándis, Qujumǰís, Vavás, astenár, gjavúriri</em>
+* `Neut` (63; 49% of non-empty `Gender`): <em>peδí, pará, psomí, dergizmú, kenér, neró, spíči, t'emélia, Psémata, alísia</em>
+* `EMPTY` (6): <em>eziétza, mílu, psémata, Číala, ǰaním, χuryó</em>
 
 <table>
   <tr><th>Paradigm <i>pará</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
@@ -33,43 +33,20 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>pará</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (51) occur only with one value of `Gender`.
-
-### `PRON`
-
-33 <tt><a href="cpg_amgic-pos-PRON.html">PRON</a></tt> tokens (53% of all `PRON` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt> (32; 97%), <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31; 94%), <tt><a href="cpg_amgic-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (27; 82%), <tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (23; 70%), <tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (19; 58%).
-
-`PRON` tokens may have the following values of `Gender`:
-
-* `Fem` (9; 27% of non-empty `Gender`): <em>či, čis, ǰis, ǰi</em>
-* `Masc` (15; 45% of non-empty `Gender`): <em>du, tútus, tu, kínus, su, tus, tútunu</em>
-* `Neut` (9; 27% of non-empty `Gender`): <em>da, ta, dha, Τúta</em>
-* `EMPTY` (29): <em>mu, su, tu, mas, ro, s', ši, du, m, ne</em>
-
-<table>
-  <tr><th>Paradigm <i>(e)γó</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>či, ǰi</em></td><td><em>da, ta, dha</em></td></tr>
-  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tus</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ta</em></td></tr>
-  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>du, tu</em></td><td><em>čis, ǰis</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>čis, ǰis</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>či</em></td><td></td></tr>
-</table>
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (93) occur only with one value of `Gender`.
 
 ### `DET`
 
-28 <tt><a href="cpg_amgic-pos-DET.html">DET</a></tt> tokens (97% of all `DET` tokens) have a non-empty value of `Gender`.
+68 <tt><a href="cpg_amgic-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cpg_amgic-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (27; 96%), <tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt> (25; 89%), <tt><a href="cpg_amgic-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (24; 86%), <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 75%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cpg_amgic-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (66; 97%), <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt> (57; 84%), <tt><a href="cpg_amgic-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (52; 76%), <tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt> (45; 66%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (6; 21% of non-empty `Gender`): <em>čin, či, tes</em>
-* `Masc` (5; 18% of non-empty `Gender`): <em>tu, tus</em>
-* `Neut` (17; 61% of non-empty `Gender`): <em>ta, tu, t, éna, da, tiyá, téna, čin</em>
-* `EMPTY` (1): <em>xer</em>
+* `Fem` (6; 9% of non-empty `Gender`): <em>čin, či, tes</em>
+* `Masc` (11; 16% of non-empty `Gender`): <em>tu, to, tus, éna</em>
+* `Neut` (51; 75% of non-empty `Gender`): <em>to, éna, ta, tu, so, sa, t, Etó, da, tiyá</em>
+* `EMPTY` (1): <em>χer</em>
 
 <table>
   <tr><th>Paradigm <i>(ο)</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -77,30 +54,54 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tus</em></td><td></td><td><em>ta, čin</em></td></tr>
 </table>
 
+### `PRON`
+
+50 <tt><a href="cpg_amgic-pos-PRON.html">PRON</a></tt> tokens (53% of all `PRON` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt> (48; 96%), <tt><a href="cpg_amgic-feat-Person.html">Person</a></tt><tt>=3</tt> (48; 96%), <tt><a href="cpg_amgic-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (40; 80%), <tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (35; 70%), <tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt> (28; 56%).
+
+`PRON` tokens may have the following values of `Gender`:
+
+* `Fem` (12; 24% of non-empty `Gender`): <em>či, čis, ǰis, ekín, zin, zis, ǰi</em>
+* `Masc` (17; 34% of non-empty `Gender`): <em>du, tútus, tu, Kaneís, cínus, do, su, tus, tútunu</em>
+* `Neut` (21; 42% of non-empty `Gender`): <em>to, da, ta, do, Τúta, δa</em>
+* `EMPTY` (44): <em>mu, su, tu, emís, m, mas, ro, s', sas, se</em>
+
+<table>
+  <tr><th>Paradigm <i>(e)γó</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>do</em></td><td><em>či, ǰi</em></td><td><em>da, ta, to, do, δa</em></td></tr>
+  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tus</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>zin</em></td><td><em>ta</em></td></tr>
+  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>du, tu</em></td><td><em>čis, ǰis</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cpg_amgic-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>zis, čis, ǰis</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cpg_amgic-feat-Clitic.html">Clitic</a></tt><tt>=Yes</tt>|<tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>či</em></td><td></td></tr>
+</table>
+
 ### `ADJ`
 
-11 <tt><a href="cpg_amgic-pos-ADJ.html">ADJ</a></tt> tokens (79% of all `ADJ` tokens) have a non-empty value of `Gender`.
+17 <tt><a href="cpg_amgic-pos-ADJ.html">ADJ</a></tt> tokens (77% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 73%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 59%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (3; 27% of non-empty `Gender`): <em>kalí, meγáli, yerasméni</em>
-* `Masc` (2; 18% of non-empty `Gender`): <em>A, fikirsúzis</em>
-* `Neut` (6; 55% of non-empty `Gender`): <em>polá, bašká, kaló, xošá, úla</em>
-* `EMPTY` (3): <em>ko</em>
+* `Fem` (3; 18% of non-empty `Gender`): <em>kalí, meγáli, yerasméni</em>
+* `Masc` (2; 12% of non-empty `Gender`): <em>A, fikirsúzis</em>
+* `Neut` (12; 71% of non-empty `Gender`): <em>mikró, polá, bašká, kaló, mávra, yavanúδia, ála, áspra, úla, χošá</em>
+* `EMPTY` (5): <em>ko, güzél</em>
 
-`Gender` seems to be **lexical feature** of `ADJ`. 100% lemmas (11) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `ADJ`. 100% lemmas (16) occur only with one value of `Gender`.
 
 ### `NUM`
 
-2 <tt><a href="cpg_amgic-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Gender`.
+2 <tt><a href="cpg_amgic-pos-NUM.html">NUM</a></tt> tokens (29% of all `NUM` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="cpg_amgic-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2; 100%), <tt><a href="cpg_amgic-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2; 100%), <tt><a href="cpg_amgic-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2; 100%).
 
 `NUM` tokens may have the following values of `Gender`:
 
 * `Fem` (2; 100% of non-empty `Gender`): <em>Tris, triz</em>
+* `EMPTY` (5): <em>seránda, enyá, tría, δyo</em>
 
 ### `PROPN`
 
@@ -121,14 +122,16 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 `VERB` tokens may have the following values of `Gender`:
 
 * `Fem` (1; 100% of non-empty `Gender`): <em>kimizméni</em>
-* `EMPTY` (72): <em>laí, qazánǰisi, éršiti, éxu, írtis, Ksevasám', Rotá, baγərdά, baγərtzísi, bári</em>
+* `EMPTY` (130): <em>laí, leχ, eksévin, gréviz, kásun, qazánǰisi, sikoθún, éršiti, éχu, írten</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="cpg_amgic-dep-det.html">det</a></tt>]--> DET</tt> (24; 83%),
-<tt>NOUN --[<tt><a href="cpg_amgic-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8; 80%),
-<tt>NOUN --[<tt><a href="cpg_amgic-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2; 100%),
+<tt>NOUN --[<tt><a href="cpg_amgic-dep-det.html">det</a></tt>]--> DET</tt> (59; 88%),
+<tt>NOUN --[<tt><a href="cpg_amgic-dep-amod.html">amod</a></tt>]--> ADJ</tt> (10; 83%),
+<tt>NOUN --[<tt><a href="cpg_amgic-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3; 60%),
+<tt>ADJ --[<tt><a href="cpg_amgic-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>ADJ --[<tt><a href="cpg_amgic-dep-det.html">det</a></tt>]--> DET</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="cpg_amgic-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="cpg_amgic-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="cpg_amgic-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1; 100%),

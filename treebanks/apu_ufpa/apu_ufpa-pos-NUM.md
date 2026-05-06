@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `NUM`
 
 There are 2 `NUM` lemmas (1%), 4 `NUM` types (1%) and 13 `NUM` tokens (1%).
-Out of 16 observed tags, the rank of `NUM` is: 12 in number of lemmas, 10 in number of types and 9 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 12 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>hãty, epi</em>
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 2.000000 (the average of all parts of speech is 1.250825).
+The form / lemma ratio of `NUM` is 2.000000 (the average of all parts of speech is 1.264438).
 
 The 1st highest number of forms (3) was observed with the lemma “hãty”: <em>Hãtu, hãty, ãty</em>.
 

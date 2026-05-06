@@ -18,9 +18,9 @@ The feature is used with 1 part-of-speech tags: <tt><a href="uz_uzudt-pos-PRON.h
 
 8 <tt><a href="uz_uzudt-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="uz_uzudt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="uz_uzudt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="uz_uzudt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (6; 75%), <tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (5; 63%).
+The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="uz_uzudt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="uz_uzudt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="uz_uzudt-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (8; 100%), <tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Gen</tt> (5; 63%).
 
 `PRON` tokens may have the following values of `ExtPos`:
 
-* `ADP` (8; 100% of non-empty `ExtPos`): <em>shuning, shudan, bundan</em>
+* `ADP` (8; 100% of non-empty `ExtPos`): <em>shuning, bundan, shudan</em>
 

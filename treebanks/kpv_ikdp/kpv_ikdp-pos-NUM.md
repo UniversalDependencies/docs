@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: <em>куим, нёль, кык, сизим, �
 
 The 10 most frequent `NUM` types:  <em>куим, нёль, кык, сизим, дас, вит, десятой, кызь, сорок, Девять</em>
 
-The 10 most frequent ambiguous lemmas: <em>кык</em> (<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> 7, <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> 1), <em>мӧд</em> (<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 4, <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>кык</em> (<tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> 7, <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> 1), <em>мӧд</em> (<tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> 5, <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.066667 (the average of all parts of speech is 1.341115).
+The form / lemma ratio of `NUM` is 1.066667 (the average of all parts of speech is 1.342857).
 
 The 1st highest number of forms (2) was observed with the lemma “куим”: <em>Куимсэ, куим</em>.
 

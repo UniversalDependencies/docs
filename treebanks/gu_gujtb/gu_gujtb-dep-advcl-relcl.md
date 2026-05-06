@@ -22,21 +22,21 @@ The following 1 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 10 advcl:relcl	color:blue
-1	વધુમાં	વધુ	ADV	_	_	5	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	5	punct	_	_
-3	યહોવાહ	યહોવાહ	PROPN	_	_	5	nsubj	_	_
-4	આપણને	આપણને	PRON	_	Case=Dat|Clusivity=In|Number=Plur	5	obj	_	_
-5	તજશે	તજશે	VERB	_	_	0	root	_	_
-6	નહિ	ન	AUX	_	_	5	aux	_	_
-7	એ	એ	PRON	_	_	10	obj	_	_
-8	પણ	પણ	PART	_	_	7	discourse	_	_
-9	યાદ	યાદ	NOUN	_	_	10	compound:lvc	_	_
-10	રાખવું	રાખવું	VERB	_	_	5	advcl:relcl	_	_
-11	કેવું	કેવું	ADV	_	_	13	advmod	_	_
-12	ઉત્તેજન	ઉત્તેજન	NOUN	_	_	13	compound	_	_
-13	આપનારું	આપનારું	NOUN	_	Gender=Neut	10	advcl	_	_
-14	છે	છે	AUX	_	_	13	cop	_	SpaceAfter=No
-15	!	!	PUNCT	_	_	5	punct	_	SpaceAfter=No
+1	વધુમાં	વધુ	ADV	_	_	5	advmod	_	LTranslit=vadhu|SpaceAfter=No|Translit=vadhumāṁ
+2	,	,	PUNCT	_	_	5	punct	_	LTranslit=,|Translit=,
+3	યહોવાહ	યહોવાહ	PROPN	_	_	5	nsubj	_	LTranslit=yahovāha|Translit=yahovāha
+4	આપણને	આપણને	PRON	_	_	5	obj	_	LTranslit=āpaṇane|Translit=āpaṇane
+5	તજશે	તજશે	VERB	_	_	0	root	_	LTranslit=tajaśe|Translit=tajaśe
+6	નહિ	ન	AUX	_	_	5	aux	_	LTranslit=na|Translit=nahi
+7	એ	એ	PRON	_	_	10	obj	_	LTranslit=e|Translit=e
+8	પણ	પણ	PART	_	_	7	discourse	_	LTranslit=paṇa|Translit=paṇa
+9	યાદ	યાદ	NOUN	_	_	10	compound:lvc	_	LTranslit=yāda|Translit=yāda
+10	રાખવું	રાખવું	VERB	_	_	5	advcl:relcl	_	LTranslit=rākhavuṁ|Translit=rākhavuṁ
+11	કેવું	કેવું	ADV	_	_	13	advmod	_	LTranslit=kevuṁ|Translit=kevuṁ
+12	ઉત્તેજન	ઉત્તેજન	NOUN	_	_	13	compound	_	LTranslit=uttejana|Translit=uttejana
+13	આપનારું	આપનારું	NOUN	_	_	10	advcl	_	LTranslit=āpanāruṁ|Translit=āpanāruṁ
+14	છે	છે	AUX	_	_	13	cop	_	LTranslit=che|SpaceAfter=No|Translit=che
+15	!	!	PUNCT	_	_	5	punct	_	LTranslit=!|SpaceAfter=No|Translit=!
 
 ~~~
 

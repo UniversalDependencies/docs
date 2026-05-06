@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1867 nodes (1%) are attached to their parents as `det`.
+2162 nodes (1%) are attached to their parents as `det`.
 
-1860 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.07980717728977.
+2155 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.0790934320074.
 
-The following 6 pairs of parts of speech are connected with `det`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (1429; 77% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (404; 22% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (20; 1% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `det`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (1652; 76% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (469; 22% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (23; 1% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	무슨	무슨	DET	MM	_	2	det	_	_
+1	무슨	무슨	DET	MM	PronType=Dem	2	det	_	_
 2	일을	일+을	NOUN	NNG+JKO	_	3	obj	_	_
 3	하나요	하+나요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	SF	_	3	punct	_	_
@@ -36,7 +36,7 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	그	그	DET	MM	_	2	det	_	_
+1	그	그	DET	MM	PronType=Dem	2	det	_	_
 2	다음에	다음+에	ADV	NNG+JKB	_	4	obl	_	_
 3	닭가슴살을	닭+가슴+살+을	NOUN	NNG+NNG+NNG+JKO	_	4	obj	_	_
 4	썬다	썰+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
@@ -53,7 +53,7 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4 3 det	color:blue
 1	친구하고	친구+하고	ADV	NNG+JKB	_	5	obl	_	_
 2	같이	같이	ADV	MAG	_	5	advmod	_	_
-3	어떤	어떤	DET	MM	_	4	det	_	_
+3	어떤	어떤	DET	MM	PronType=Dem	4	det	_	_
 4	어려움을	어렵+ㅁ+을	ADJ	VA+ETN+JKO	_	5	obj	_	_
 5	경험할	경험+하+ㄹ	VERB	NNG+XSV+ETM	_	12	advcl	_	_
 6	때	때	SCONJ	NNG	_	5	mark	_	_

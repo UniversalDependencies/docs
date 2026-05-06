@@ -11,9 +11,9 @@ This relation is universal.
 320 nodes (19%) are attached to their parents as `nsubj`.
 
 310 instances of `nsubj` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.78125.
+Average distance between parent and child is 1.796875.
 
-The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> (150; 47% instances), <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (75; 23% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (40; 13% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> (35; 11% instances), <tt><a href="en_pronouns-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (10; 3% instances), <tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pronouns-pos-NUM.html">NUM</a></tt> (5; 2% instances).
+The following 8 pairs of parts of speech are connected with `nsubj`: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> (150; 47% instances), <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (70; 22% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (40; 13% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> (35; 11% instances), <tt><a href="en_pronouns-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (10; 3% instances), <tt><a href="en_pronouns-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pronouns-pos-NUM.html">NUM</a></tt> (5; 2% instances).
 
 
 ~~~ conllu
@@ -34,14 +34,14 @@ The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 nsubj	color:blue
-1	There	there	PRON	EX	_	2	expl	_	_
-2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	SpaceAfter=No
+# visual-style 2 1 nsubj	color:blue
+1	Hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nsubj	_	_
+2	drove	drive	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	responsively	responsively	ADV	RB	_	2	advmod	_	SpaceAfter=No
 4	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~

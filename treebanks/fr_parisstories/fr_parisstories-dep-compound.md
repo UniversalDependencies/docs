@@ -23,9 +23,9 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 4 compound	color:blue
 1	dans	dans	ADP	_	_	3	case	_	AlignBegin=84155|AlignEnd=84447
-2	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	3	det	_	AlignBegin=84447|AlignEnd=84739
-3	albums	album	NOUN	_	_	0	root	_	AlignBegin=84739|AlignEnd=85032|Gender[lex]=Masc|Number[ctxt]=Plur
-4	photos	photo	NOUN	_	_	3	compound	_	AlignBegin=85032|AlignEnd=85324|Gender[lex]=Fem|Number[ctxt]=Plur|SpaceAfter=No
+2	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	3	det	_	AlignBegin=84447|AlignEnd=84739|HasSpokenGender=OnlySingExceptWithLiaison|LiaisonAfter=Yes
+3	albums	album	NOUN	_	Gender=Masc|Number=Plur	0	root	_	AlignBegin=84739|AlignEnd=85032|Exponence[Gender]=Inherent|Exponence[Number]=Absent|LiaisonPossibleBefore=Yes
+4	photos	photo	NOUN	_	Gender=Fem|Number=Plur	3	compound	_	AlignBegin=85032|AlignEnd=85324|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	AlignBegin=84250|AlignEnd=84250
 
 ~~~
@@ -40,27 +40,27 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 1	et	et	CCONJ	_	_	10	cc	_	_
 2	donc	donc	ADV	_	_	10	discourse	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	HasSpokenGender=OnlySingExceptWithLiaison
 5	deux	deux	NUM	_	_	6	nummod	_	_
-6	premières	premier	ADJ	_	Gender=Fem	7	amod	_	Number[ctxt]=Plur
-7	semaines	semaine	NOUN	_	_	10	obl:mod	_	Gender[lex]=Fem|Number[ctxt]=Plur|SpaceAfter=No
+6	premières	premier	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	Exponence[Number]=Absent|HasSpokenGender=YesExceptSingWithLiaison|HasSpokenNumber=OnlyWithLiaison
+7	semaines	semaine	NOUN	_	Gender=Fem|Number=Plur	10	obl:mod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
-10	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent
+10	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Exponence[Person]=Absent
 11	à	à	ADP	_	_	12	mark	_	_
 12	aller	aller	VERB	_	VerbForm=Inf	10	xcomp	_	Subject=SubjRaising
 13	à	à	ADP	_	_	15	case	_	_
-14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	salle	salle	NOUN	_	_	12	obl:arg	_	Gender[lex]=Fem|Number[ctxt]=Sing
+14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	HasSpokenGender=OnlySingExceptWithLiaison
+15	salle	salle	NOUN	_	Gender=Fem|Number=Sing	12	obl:arg	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 16	de	de	ADP	_	_	15	compound	_	_
-17	sport	sport	NOUN	_	_	16	compound	_	Gender[lex]=Masc|Number[ctxt]=Sing|SpaceAfter=No
+17	sport	sport	NOUN	_	Gender=Masc|Number=Sing	16	compound	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 18	,	,	PUNCT	_	_	22	punct	_	_
 19	donc	donc	ADV	_	_	22	discourse	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	19	punct	_	_
 21	à	à	ADP	_	_	22	mark	_	_
 22	prendre	prendre	VERB	_	VerbForm=Inf	12	conj	_	Subject=SubjRaising
-23	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	24	det	_	_
-24	marques	marque	NOUN	_	_	22	obj	_	Gender[lex]=Fem|Number[ctxt]=Plur
+23	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	24	det	_	HasSpokenGender=OnlySingExceptWithLiaison
+24	marques	marque	NOUN	_	Gender=Fem|Number=Plur	22	obj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 25	etc	etc	ADV	_	_	24	conj	_	SpaceAfter=No|wordform=etcétéra
 26	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -76,27 +76,27 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 1	et	et	CCONJ	_	_	10	cc	_	_
 2	donc	donc	ADV	_	_	10	discourse	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	HasSpokenGender=OnlySingExceptWithLiaison
 5	deux	deux	NUM	_	_	6	nummod	_	_
-6	premières	premier	ADJ	_	Gender=Fem	7	amod	_	Number[ctxt]=Plur
-7	semaines	semaine	NOUN	_	_	10	obl:mod	_	Gender[lex]=Fem|Number[ctxt]=Plur|SpaceAfter=No
+6	premières	premier	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	Exponence[Number]=Absent|HasSpokenGender=YesExceptSingWithLiaison|HasSpokenNumber=OnlyWithLiaison
+7	semaines	semaine	NOUN	_	Gender=Fem|Number=Plur	10	obl:mod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
-10	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent
+10	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Exponence[Person]=Absent
 11	à	à	ADP	_	_	12	mark	_	_
 12	aller	aller	VERB	_	VerbForm=Inf	10	xcomp	_	Subject=SubjRaising
 13	à	à	ADP	_	_	15	case	_	_
-14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	salle	salle	NOUN	_	_	12	obl:arg	_	Gender[lex]=Fem|Number[ctxt]=Sing
+14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	HasSpokenGender=OnlySingExceptWithLiaison
+15	salle	salle	NOUN	_	Gender=Fem|Number=Sing	12	obl:arg	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 16	de	de	ADP	_	_	15	compound	_	_
-17	sport	sport	NOUN	_	_	16	compound	_	Gender[lex]=Masc|Number[ctxt]=Sing|SpaceAfter=No
+17	sport	sport	NOUN	_	Gender=Masc|Number=Sing	16	compound	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 18	,	,	PUNCT	_	_	22	punct	_	_
 19	donc	donc	ADV	_	_	22	discourse	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	19	punct	_	_
 21	à	à	ADP	_	_	22	mark	_	_
 22	prendre	prendre	VERB	_	VerbForm=Inf	12	conj	_	Subject=SubjRaising
-23	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	24	det	_	_
-24	marques	marque	NOUN	_	_	22	obj	_	Gender[lex]=Fem|Number[ctxt]=Plur
+23	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	24	det	_	HasSpokenGender=OnlySingExceptWithLiaison
+24	marques	marque	NOUN	_	Gender=Fem|Number=Plur	22	obj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 25	etc	etc	ADV	_	_	24	conj	_	SpaceAfter=No|wordform=etcétéra
 26	.	.	PUNCT	_	_	10	punct	_	_
 

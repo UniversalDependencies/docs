@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pro_corag-dep-discourse.html">discourse</a></tt>.
 
-43 nodes (0%) are attached to their parents as `discourse:enunc`.
+42 nodes (0%) are attached to their parents as `discourse:enunc`.
 
-43 instances of `discourse:enunc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.95348837209302.
+42 instances of `discourse:enunc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.97619047619048.
 
-The following 1 pairs of parts of speech are connected with `discourse:enunc`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PART.html">PART</a></tt> (43; 100% instances).
+The following 1 pairs of parts of speech are connected with `discourse:enunc`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PART.html">PART</a></tt> (42; 100% instances).
 
 
 ~~~ conllu

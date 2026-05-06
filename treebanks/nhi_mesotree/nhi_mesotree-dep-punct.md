@@ -1,59 +1,31 @@
 ---
 layout: base
-title:  'Statistics of punct in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of punct in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `punct`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `punct`
 
 This relation is universal.
 
-1853 nodes (20%) are attached to their parents as `punct`.
+3089 nodes (16%) are attached to their parents as `punct`.
 
-1106 instances of `punct` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.27468969239072.
+1927 instances of `punct` (62%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.67206215603755.
 
-The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (1357; 73% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (174; 9% instances), <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (95; 5% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (60; 3% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (55; 3% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (48; 3% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (45; 2% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-X.html">X</a></tt>-<tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 11 punct	color:blue
-1	Nikah	nikah	ADV	_	_	2	advmod	2:advmod	NormalizedForm=nikah|NormalizedLemma=nikah
-2	itich	tich	NOUN	_	Number=Sing	7	obl	7:obl	NormalizedForm=itich|NormalizedLemma=tich|NounType=Relat|Number[psor]=Sing|Person[psor]=3
-3	n	in	DET	_	_	4	det	4:det	NormalizedForm=n|NormalizedLemma=n
-4	pueblo	pueblo	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	2	nmod	2:nmod	NormalizedForm=pueblo|NormalizedLemma=pueblo|SpaceAfter=No
-5	,	,	PUNCT	_	_	2	punct	2:punct	NormalizedForm=,|NormalizedLemma=,
-6	mikeh	miak	PRON	_	_	7	det	7:det	NormalizedForm=mikeh|NormalizedLemma=miak
-7	timanimaroa	animaroa	VERB	_	Mood=Ind|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=timanimaroa|NormalizedLemma=animaroa|Number[subj]=Plur|Person[subj]=1|Subcat=Tran
-8	para	para	SCONJ	_	_	9	mark	9:mark	NormalizedForm=para|NormalizedLemma=para
-9	tiyaskeh	yowi	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	7	advcl	7:advcl	NormalizedForm=tiyaskeh|NormalizedLemma=yowi|Number[subj]=Plur|Person[subj]=1|Subcat=Intr
-10	canadá	canada	PROPN	_	_	9	obl	9:obl	NormalizedForm=canadá|NormalizedLemma=canada|SpaceAfter=No
-11	.	.	PUNCT	_	_	7	punct	7:punct	NormalizedForm=.|NormalizedLemma=.
-
-~~~
+The following 14 pairs of parts of speech are connected with `punct`: <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (2305; 75% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (295; 10% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (118; 4% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (117; 4% instances), <tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (95; 3% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (81; 3% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (56; 2% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt>-<tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt>-<tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-X.html">X</a></tt>-<tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 5 punct	color:blue
-1	Nikah	nikah	ADV	_	_	2	advmod	2:advmod	NormalizedForm=nikah|NormalizedLemma=nikah
-2	itich	tich	NOUN	_	Number=Sing	7	obl	7:obl	NormalizedForm=itich|NormalizedLemma=tich|NounType=Relat|Number[psor]=Sing|Person[psor]=3
-3	n	in	DET	_	_	4	det	4:det	NormalizedForm=n|NormalizedLemma=n
-4	pueblo	pueblo	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	2	nmod	2:nmod	NormalizedForm=pueblo|NormalizedLemma=pueblo|SpaceAfter=No
-5	,	,	PUNCT	_	_	2	punct	2:punct	NormalizedForm=,|NormalizedLemma=,
-6	mikeh	miak	PRON	_	_	7	det	7:det	NormalizedForm=mikeh|NormalizedLemma=miak
-7	timanimaroa	animaroa	VERB	_	Mood=Ind|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=timanimaroa|NormalizedLemma=animaroa|Number[subj]=Plur|Person[subj]=1|Subcat=Tran
-8	para	para	SCONJ	_	_	9	mark	9:mark	NormalizedForm=para|NormalizedLemma=para
-9	tiyaskeh	yowi	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	7	advcl	7:advcl	NormalizedForm=tiyaskeh|NormalizedLemma=yowi|Number[subj]=Plur|Person[subj]=1|Subcat=Intr
-10	canadá	canada	PROPN	_	_	9	obl	9:obl	NormalizedForm=canadá|NormalizedLemma=canada|SpaceAfter=No
-11	.	.	PUNCT	_	_	7	punct	7:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 2 1 punct	color:blue
+1	¡	¡	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	Xipeua	peua	VERB	_	_	0	root	0:root	_
+3	xitiquiti	tiquiti	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=2|Subcat=Intr	2	parataxis	2:parataxis	SpaceAfter=No
+4	!	!	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
 
 ~~~
 
@@ -61,19 +33,34 @@ The following 13 pairs of parts of speech are connected with `punct`: <tt><a hre
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 punct	color:blue
-1	-	-	PUNCT	_	_	3	punct	3:punct	NormalizedForm=-|NormalizedLemma=-|SpaceAfter=No
-2	¡	¡	PUNCT	_	_	3	punct	3:punct	NormalizedForm=¡|NormalizedLemma=¡|SpaceAfter=No
-3	aa	aa	INTJ	_	_	9	discourse	9:discourse	NormalizedForm=aa|NormalizedLemma=aa|SpaceAfter=No
-4	!	!	PUNCT	_	_	3	punct	3:punct	NormalizedForm=!|NormalizedLemma=!|SpaceAfter=No
-5	,	,	PUNCT	_	_	3	punct	3:punct	NormalizedForm=,|NormalizedLemma=,
-6	¿	¿	PUNCT	_	_	9	punct	9:punct	NormalizedForm=¿|NormalizedLemma=¿|SpaceAfter=No
-7	tla	tla	SCONJ	_	_	9	mark	9:mark	NormalizedForm=tla|NormalizedLemma=tla
-8	ohcon	ohcon	ADV	_	_	9	advmod	9:advmod	NormalizedForm=ohkon|NormalizedLemma=ohkon
-9	aquih	aquih	PRON	_	_	0	root	0:root	NormalizedForm=akih|NormalizedLemma=akih|SpaceAfter=No
-10	?	?	PUNCT	_	_	9	punct	9:punct	NormalizedForm=?|NormalizedLemma=?
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 punct	color:blue
+1	¿	¿	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+2	Aquih	aqui	PRON	_	_	5	nsubj	5:nsubj	_
+3	yeh	yehuatl	PRON	_	PronType=Prs	5	cop	5:cop	_
+4	in	in	DET	_	_	5	det	5:det	_
+5	tlamachtani	tlamachtani	NOUN	_	_	0	root	0:root	_
+6	?	?	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 punct	color:blue
+1	¿	¿	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	Canin	cani	ADV	_	_	0	root	0:root	_
+3	catqui	catqui	AUX	_	_	2	cop	2:cop	_
+4	in	in	DET	_	_	5	det	5:det	_
+5	corral	corral	NOUN	_	Gender=Masc|Number[subj]=Sing|Person[subj]=3	2	nsubj	2:nsubj	_
+6	de	de	ADP	_	_	8	case	8:case	_
+7	n	in	DET	_	_	8	det	8:det	_
+8	tentzonqueh	tentzon	NOUN	_	_	5	nmod	5:nmod	SpaceAfter=No
+9	?	?	PUNCT	_	_	5	punct	5:punct	SpaceAfter=No
 
 ~~~
 

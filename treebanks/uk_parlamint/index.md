@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Maria Shvedova, Arsenii Lukashevskyi.
 
 Repository: [UD_Ukrainian-ParlaMint](https://github.com/UniversalDependencies/UD_Ukrainian-ParlaMint)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uduk_parlamint217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uduk_parlamint218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -54,6 +54,8 @@ For the corpus, we selected full transcripts of Verkhovna Rada plenary sessions 
 ## Acknowledgments
 
 Syntactic annotation of the corpus is implemented on the basis of UD_Ukrainian-IU with manual correction. For morphological annotation, we used VESUM morphological dictionary (https://github.com/brown-uk/dict_uk/tree/master) and UD_Ukrainian-IU with manual correction.
+
+This work was supported by COST Action CA21167 — Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/))
 
 ## References
 

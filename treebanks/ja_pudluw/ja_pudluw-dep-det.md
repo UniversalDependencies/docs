@@ -87,13 +87,13 @@ The following 6 pairs of parts of speech are connected with `det`: <tt><a href="
 6	あらゆる	あらゆる	DET	連体詞	_	7	det	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=アラユル,あらゆる,あらゆる,あらゆる,アラユル,,,アラユル,アラユル,あらゆる
 7	不思議	不思議	ADJ	形状詞-一般	_	9	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=フシギ,不思議,不思議,不思議,フシギ,,,フシギ,フシギ,不思議
 8	な	だ	AUX	助動詞-助動詞-ダ	_	7	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ダ,だ,な,だ,ナ,,,ダ,ダ,だ
-9	こと	事	NOUN	名詞-普通名詞-一般	_	15	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=コト,事,こと,こと,コト,,,コト,コト,事
+9	こと	事	NOUN	名詞-普通名詞-一般	_	22	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=コト,事,こと,こと,コト,,,コト,コト,事
 10	と	と	ADP	助詞-格助詞	_	9	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
 11	それぞれ	其々	ADV	副詞	_	12	advmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ソレゾレ,其々,それぞれ,それぞれ,ソレゾレ,,,ソレゾレ,ソレゾレ,其々
 12	専門化さ	専門化する	VERB	動詞-一般-サ行変格	_	15	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=センモン;カ;スル,専門;化;為る,専門;化;さ,専門;化;する,センモン;カ;サ,;;,;;,センモン;カ;スル,センモンカスル,専門化する
 13	れ	れる	AUX	助動詞-助動詞-レル	_	12	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=レル,れる,れ,れる,レ,,,レル,レル,れる
 14	た	た	AUX	助動詞-助動詞-タ	_	12	aux	_	BunsetuBILabel=I|BunsetuPositionType=FUNC|SpaceAfter=No|UnidicInfo=タ,た,た,た,タ,,,タ,タ,た
-15	地区	地区	NOUN	名詞-普通名詞-一般	_	22	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=チク,地区,地区,地区,チク,,,チク,チク,地区
+15	地区	地区	NOUN	名詞-普通名詞-一般	_	9	conj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=チク,地区,地区,地区,チク,,,チク,チク,地区
 16	が	が	ADP	助詞-格助詞	_	15	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ガ,が,が,が,ガ,,,ガ,ガ,が
 17	、	、	PUNCT	補助記号-読点	_	15	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
 18	全て	全て	NOUN	名詞-普通名詞-一般	_	20	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=スベテ,全て,全て,全て,スベテ,,,スベテ,スベテ,全て

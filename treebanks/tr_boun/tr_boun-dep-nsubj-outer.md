@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `nsubj:outer`: <tt>
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 nsubj:outer	color:blue
-1	Dağdan	dağ	NOUN	_	Case=Abl|Number=Sing|Person=3	2	obl	_	_
+1	Dağdan	dağ	NOUN	_	Case=Abl|Number=Sing|Person=3	2	nmod	_	_
 2	dağa	dağ	NOUN	_	Case=Dat|Number=Sing|Person=3	4	obl	_	_
 3	urgan	urgan	NOUN	_	Case=Nom|Number=Sing|Person=3	4	nsubj:outer	_	_
 4	gerilmez	ger	VERB	_	Aspect=Hab|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Voice=Pass	0	root	_	_

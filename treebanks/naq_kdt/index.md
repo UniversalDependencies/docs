@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Kira Tulchynska, Alena Witzlack-Makarevich, Sylvanus Job, Michael Hahn.
 
 Repository: [UD_Khoekhoe-KDT](https://github.com/UniversalDependencies/UD_Khoekhoe-KDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnaq_kdt217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnaq_kdt218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -42,7 +42,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-UD\_Khoekhoe-KDT is a Universal Dependencies (UD) treebank for the Khoekhoe language. The annotation was performed manually based on glosses. This treebank includes texts from various sources: fiction, grammar, and spoken conversation. The treebank contains **27k tokens**, distributed as follows:
+UD\_Khoekhoe-KDT is a Universal Dependencies (UD) treebank for the Khoekhoegowab (Khoekhoe) language. The annotation was performed manually based on glosses. This treebank includes texts from various sources: fiction, grammar, and spoken conversation. The treebank contains **27k tokens**, distributed as follows:
 
 - **Training set**: 15k tokens
 - **Development set**: 2k tokens
@@ -73,7 +73,13 @@ The UD\_Khoekhoe-KDT treebank consists of various texts translated into Khoekhoe
 
 ## Acknowledgments
 
+* This work was supported by the project "Event Packaging in Language" (University of Zurich Global Strategy and Partnerships Funding Scheme, 2023–2026).
+
+* We also acknowledge the contributions of members of the broader Khoekhoe documentation project, whose work on data collection, translation, and linguistic analysis made this treebank possible:
+
 Roswitha Gases, Mauricius Gariseb, Mildred Howoses, Petronella Nauises, Dorothea Tases, Zarina Molochieva, Meidad Ovadia, Adam Rapoport, Naama Tiroshi, Anna Veselovsky, Margaret Zellers
+
+* Kira Tulchynska gratefully acknowledges the financial support of the Jack, Joseph and Morton Mandel School MA Honors Program at the Hebrew University of Jerusalem.
 
 
 # Statistics of UD Khoekhoe KDT

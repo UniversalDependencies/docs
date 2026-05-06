@@ -11,9 +11,9 @@ This relation is universal.
 1554 nodes (1%) are attached to their parents as `nummod`.
 
 1547 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5006435006435.
+Average distance between parent and child is 1.52895752895753.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (1299; 84% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (73; 5% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (53; 3% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (53; 3% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (38; 2% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (26; 2% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (1296; 83% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (74; 5% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (53; 3% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (53; 3% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (40; 3% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (26; 2% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 2	fgColor:white
 # visual-style 2 1 nummod	color:blue
 1	1	1	NUM	ANum	NumType=Card	2	nummod	_	_
-2	kutu	kutu	NOUN	_	Case=Nom|Number=Sing|Person=3	4	obl	_	_
+2	kutu	kutu	NOUN	_	Case=Nom|Number=Sing|Person=3	4	nmod	_	_
 3	kuşkonmaz	kuşkonmaz	NOUN	_	Case=Nom|Number=Sing|Person=3	4	nmod:poss	_	_
 4	konservesi	konserve	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	SpacesAfter=\n
 
@@ -42,8 +42,8 @@ The following 10 pairs of parts of speech are connected with `nummod`: <tt><a hr
 4	42	42	NUM	ANum	NumType=Card	5	nummod	_	_
 5	yaşında	yaş	ADJ	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	10	advcl	_	_
 6	iken	i	AUX	_	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	5	cop	_	_
-7	bir	bir	DET	Indef	_	8	det	_	_
-8	darbeyle	darbe	NOUN	_	Case=Ins|Number=Sing|Person=3	10	obl	_	_
+7	bir	bir	DET	Indef	PronType=Ind	8	det	_	_
+8	darbeyle	darbe	NOUN	_	Case=Ins|Number=Sing|Person=3	10	nmod	_	_
 9	iktidara	iktidar	NOUN	_	Case=Dat|Number=Sing|Person=3	10	obj	_	_
 10	el	el	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
 11	koydu	koy	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past	10	compound	_	SpaceAfter=No

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal but the values `Prosp` are language-specific.
 It occurs with 3 different values: `Imp`, `Perf`, `Prosp`.
 
-6158 tokens (21%) have a non-empty value of `Aspect`.
-4271 types (43%) occur at least once with a non-empty value of `Aspect`.
+6160 tokens (21%) have a non-empty value of `Aspect`.
+4273 types (43%) occur at least once with a non-empty value of `Aspect`.
 1407 lemmas (30%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5789; 20% instances), <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (369; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5791; 20% instances), <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (369; 1% instances).
 
 ### `VERB`
 
-5789 <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
+5791 <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
 The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4513; 78%), <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4513; 78%), <tt><a href="la_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4451; 77%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3815; 66%), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3786; 65%), <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2985; 52%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Imp` (3447; 60% of non-empty `Aspect`): <em>habet, habere, dicere, potest, facere, iubet, dicit, fit, inquit, posse</em>
-* `Perf` (2227; 38% of non-empty `Aspect`): <em>dixit, vidi, inquit, audivi, fecit, iussit, coepit, dedit, potuit, vidit</em>
+* `Perf` (2229; 38% of non-empty `Aspect`): <em>dixit, vidi, inquit, audivi, fecit, iussit, coepit, dedit, potuit, vidit</em>
 * `Prosp` (115; 2% of non-empty `Aspect`): <em>faciendum, facturum, transeundi, Periturae, accessurum, accipiundis, adsentandi, aperiundum, appellando, augendae</em>
 
 <table>
@@ -127,7 +127,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (658; 87%),
+<tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (657; 87%),
 <tt>VERB --[<tt><a href="la_perseus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (439; 54%),
 <tt>VERB --[<tt><a href="la_perseus-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (242; 63%),
 <tt>VERB --[<tt><a href="la_perseus-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (206; 62%),

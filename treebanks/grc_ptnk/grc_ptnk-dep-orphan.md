@@ -31,7 +31,7 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 7	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	6	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_37.19|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Ref=GEN_37.19
 9	Ἰδοὺ	ἰδού	INTJ	_	_	13	discourse	_	Gloss=look!,behold!|Ref=GEN_37.19
-10	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the;-oh|Ref=GEN_37.19
+10	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the;-oh|Ref=GEN_37.19
 11	ἐνυπνιαστὴς	ἐνυπνιαστής	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	Gloss=dream|Ref=GEN_37.19
 12	ἐκεῖνος	ἐκεῖνος	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	Gloss=that|Ref=GEN_37.19
 13	ἔρχεται	ἔρχομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	1	ccomp	_	Gloss=to-come,go|Ref=GEN_37.19|SpaceAfter=No
@@ -59,11 +59,11 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 11	δώσω	δίδωμι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-give|Ref=GEN_13.15
 12	αὐτὴν	αὐτός	PRON	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Prs	11	obj	_	Gloss=she,-self,same|Ref=GEN_13.15
 13	καὶ	καί	CCONJ	_	_	15	cc	_	Gloss=and,also,even,then,next|Ref=GEN_13.15
-14	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	15	det	_	Gloss=the|Ref=GEN_13.15
+14	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	15	det	_	Gloss=the|Ref=GEN_13.15
 15	σπέρματί	σπέρμα	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	11	conj	_	Gloss=seed|Ref=GEN_13.15
 16	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	15	nmod:poss	_	Gloss=you,your|Ref=GEN_13.15
 17	ἕως	ἕως	CCONJ	_	_	19	case	_	Gloss=as-far-as,until,up-to|Ref=GEN_13.15
-18	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	19	det	_	Gloss=the|Ref=GEN_13.15
+18	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Gloss=the|Ref=GEN_13.15
 19	αἰῶνος	αἰών	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	15	orphan	_	Gloss=age,eternity|Ref=GEN_13.15|SpaceAfter=No
 20	.	.	PUNCT	_	_	19	punct	_	Ref=GEN_13.15
 
@@ -78,7 +78,7 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 50 52 orphan	color:blue
 1	ἀπὸ	ἀπό	ADP	_	_	4	case	_	Gloss=from,away-from|Ref=GEN_7.2
 2	δὲ	δέ	CCONJ	_	_	7	cc	_	Gloss=but,and,however|Ref=GEN_7.2
-3	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	4	det	_	Gloss=the|Ref=GEN_7.2
+3	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	Gloss=the|Ref=GEN_7.2
 4	κτηνῶν	κτῆνος	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	7	obl	_	Gloss=cattle|Ref=GEN_7.2
 5	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	6	det	_	Gloss=the|Ref=GEN_7.2
 6	καθαρῶν	καθαρός	ADJ	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur	4	amod	_	Gloss=clean,pure|Ref=GEN_7.2
@@ -93,7 +93,7 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 15	,	,	PUNCT	_	_	16	punct	_	Ref=GEN_7.2
 16	ἀπὸ	ἀπό	ADP	_	_	19	case	_	Gloss=from,away-from|Ref=GEN_7.2
 17	δὲ	δέ	CCONJ	_	_	23	cc	_	Gloss=but,and,however|Ref=GEN_7.2
-18	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	19	det	_	Gloss=the|Ref=GEN_7.2
+18	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	19	det	_	Gloss=the|Ref=GEN_7.2
 19	κτηνῶν	κτῆνος	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	23	orphan	_	Gloss=cattle|Ref=GEN_7.2
 20	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	22	det	_	Gloss=the|Ref=GEN_7.2
 21	μὴ	μή	ADV	_	Polarity=Neg	22	advmod	_	Gloss=no,not|Ref=GEN_7.2
@@ -106,9 +106,9 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 28	.	.	PUNCT	_	_	7	punct	_	Ref=GEN_7.2
 29	καὶ	καί	CCONJ	_	_	37	cc	_	Gloss=and,also,even,then,next|Ref=GEN_7.3
 30	ἀπὸ	ἀπό	ADP	_	_	32	case	_	Gloss=from,away-from|Ref=GEN_7.3
-31	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	32	det	_	Gloss=the|Ref=GEN_7.3
+31	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	32	det	_	Gloss=the|Ref=GEN_7.3
 32	πετεινῶν	πετεινόν	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	37	orphan	_	Gloss=birds|Ref=GEN_7.3
-33	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	34	det	_	Gloss=the|Ref=GEN_7.3
+33	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	Gloss=the|Ref=GEN_7.3
 34	οὐρανοῦ	οὐρανός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	32	nmod:poss	_	Gloss=heaven,sky|Ref=GEN_7.3
 35	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	36	det	_	Gloss=the|Ref=GEN_7.3
 36	καθαρῶν	καθαρός	ADJ	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur	32	nmod:poss	_	Gloss=clean,pure|Ref=GEN_7.3
@@ -120,7 +120,7 @@ The following 12 pairs of parts of speech are connected with `orphan`: <tt><a hr
 42	,	,	PUNCT	_	_	43	punct	_	Ref=GEN_7.3
 43	καὶ	καί	CCONJ	_	_	50	cc	_	Gloss=and,also,even,then,next|Ref=GEN_7.3
 44	ἀπὸ	ἀπό	ADP	_	_	46	case	_	Gloss=from,away-from|Ref=GEN_7.3
-45	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	46	det	_	Gloss=the|Ref=GEN_7.3
+45	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	46	det	_	Gloss=the|Ref=GEN_7.3
 46	πετεινῶν	πετεινόν	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	50	orphan	_	Gloss=birds|Ref=GEN_7.3
 47	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	49	nsubj	_	Gloss=the|Ref=GEN_7.3
 48	μὴ	μή	ADV	_	Polarity=Neg	49	advmod	_	Gloss=no,not|Ref=GEN_7.3

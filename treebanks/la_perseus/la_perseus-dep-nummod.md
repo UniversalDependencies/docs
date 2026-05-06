@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Latin-Perseus: Relations: `nummod`
 
 This relation is universal.
+There are 1 language-specific subtypes of `nummod`: <tt><a href="la_perseus-dep-nummod-gov.html">nummod:gov</a></tt>.
 
-130 nodes (0%) are attached to their parents as `nummod`.
+132 nodes (0%) are attached to their parents as `nummod`.
 
-92 instances of `nummod` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.43076923076923.
+94 instances of `nummod` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.43939393939394.
 
-The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (110; 85% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (6; 5% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (6; 5% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `nummod`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (111; 84% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (7; 5% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (6; 5% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt>-<tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -40,21 +41,6 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nummod	color:blue
-1	quattuor	quattuor	NUM	m--------	NumForm=Word|NumType=Card	2	nummod	_	_
-2	principes	princeps	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	nsubj:pass	_	_
-3	ferro	ferrum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obj	_	_
-4	interempti	interimo	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Perfectum
-5	:	:	PUNCT	u--------	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 7	bgColor:blue
@@ -71,6 +57,21 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 9	tria	tres	NUM	m-p---nn-	Case=Nom|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
 10	circiter	circiter	ADV	d--------	_	9	advmod	_	SpaceAfter=No
 11	.	.	PUNCT	u--------	_	4	punct	_	LId=punc1
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nummod	color:blue
+1	quattuor	quattuor	NUM	m--------	NumForm=Word|NumType=Card	2	nummod	_	_
+2	principes	princeps	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	nsubj:pass	_	_
+3	ferro	ferrum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obj	_	_
+4	interempti	interimo	VERB	v-prppmn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Participium|TraditionalTense=Perfectum
+5	:	:	PUNCT	u--------	_	4	punct	_	_
 
 ~~~
 

@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Galician-CTG: POS Tags: `PART`
 
-There are 5 `PART` lemmas (0%), 5 `PART` types (0%) and 689 `PART` tokens (0%).
-Out of 16 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 14 in number of tokens.
+There are 4 `PART` lemmas (0%), 4 `PART` types (0%) and 688 `PART` tokens (0%).
+Out of 17 observed tags, the rank of `PART` is: 15 in number of lemmas, 15 in number of types and 14 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>non, senon, föhn, ln, on</em>
+The 10 most frequent `PART` lemmas: <em>non, senon, föhn, ln</em>
 
-The 10 most frequent `PART` types:  <em>non, senon, Ln, föhn, on</em>
+The 10 most frequent `PART` types:  <em>non, senon, Ln, föhn</em>
 
 The 10 most frequent ambiguous lemmas: <em>ln</em> (<tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="gl_ctg-pos-PART.html">PART</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Ln</em> (<tt><a href="gl_ctg-pos-NOUN
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.523050).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.522661).
 
 The 1st highest number of forms (1) was observed with the lemma “föhn”: <em>föhn</em>.
 
@@ -37,25 +37,25 @@ The 3rd highest number of forms (1) was observed with the lemma “non”: <em>n
 `PART` occurs with 2 feature-value pairs: `Foreign=Yes`, `Polarity=Neg`
 
 `PART` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (568 tokens).
-Examples: <em>non, senon, Ln, föhn, on</em>
+The most frequent feature combination is `_` (567 tokens).
+Examples: <em>non, senon, Ln, föhn</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 6 different relations: <tt><a href="gl_ctg-dep-advmod.html">advmod</a></tt> (667; 97% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (12; 2% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (7; 1% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 6 different relations: <tt><a href="gl_ctg-dep-advmod.html">advmod</a></tt> (666; 97% instances), <tt><a href="gl_ctg-dep-conj.html">conj</a></tt> (11; 2% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (6; 1% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 8 different parts of speech: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (461; 67% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (143; 21% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (64; 9% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (12; 2% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 6 different parts of speech: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (465; 68% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (140; 20% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (74; 11% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (2; 0% instances)
 
-670 (97%) `PART` nodes are leaves.
+656 (95%) `PART` nodes are leaves.
 
-12 (2%) `PART` nodes have one child.
+24 (3%) `PART` nodes have one child.
 
-7 (1%) `PART` nodes have two children.
+8 (1%) `PART` nodes have two children.
 
 The highest child degree of a `PART` node is 2.
 
-Children of `PART` nodes are attached using 6 different relations: <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (13; 50% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (7; 27% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (3; 12% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (1; 4% instances), <tt><a href="gl_ctg-dep-mark.html">mark</a></tt> (1; 4% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (1; 4% instances)
+Children of `PART` nodes are attached using 7 different relations: <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (14; 35% instances), <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (14; 35% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (8; 20% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (1; 3% instances), <tt><a href="gl_ctg-dep-mark.html">mark</a></tt> (1; 3% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (1; 3% instances)
 
-Children of `PART` nodes belong to 6 different parts of speech: <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (13; 50% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (7; 27% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (3; 12% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances)
+Children of `PART` nodes belong to 6 different parts of speech: <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (14; 35% instances), <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (14; 35% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (8; 20% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (2; 5% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (1; 3% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
 

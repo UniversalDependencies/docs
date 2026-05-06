@@ -40,7 +40,7 @@ The following 6 pairs of parts of speech are connected with `punct`: <tt><a href
 1	Benim	ben	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
 2	babam	baba	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	6	nsubj	_	_
 3	senin	sen	PRON	_	Case=Abl|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
-4	kinden	ki	PRON	_	Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	6	obl	_	_
+4	kinden	ki	NOUN	_	Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	6	obl	_	_
 5	daha	daha	ADV	_	_	6	advmod	_	_
 6	harika	harika	ADJ	_	_	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_

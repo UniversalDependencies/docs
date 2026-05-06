@@ -11,24 +11,19 @@ It occurs with 1 different values: `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="yrl_complin-feat-Number.html">Number</a></tt>, <tt><a href="yrl_complin-feat-Number-grnd.html">Number[grnd]</a></tt>, <tt><a href="yrl_complin-feat-Number-psor.html">Number[psor]</a></tt>.
 
-234 tokens (1%) have a non-empty value of `Number[psor]`.
-85 types (3%) occur at least once with a non-empty value of `Number[psor]`.
-64 lemmas (4%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (234; 1% instances).
+236 tokens (1%) have a non-empty value of `Number[psor]`.
+86 types (3%) occur at least once with a non-empty value of `Number[psor]`.
+65 lemmas (4%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 1 part-of-speech tags: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (236; 1% instances).
 
 ### `NOUN`
 
-234 <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> tokens (5% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+236 <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> tokens (5% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=NCont</tt> (234; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (216; 92%).
+The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=NCont</tt> (236; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (218; 92%).
 
 `NOUN` tokens may have the following values of `Number[psor]`:
 
 
-`Number[psor]` seems to be **lexical feature** of `NOUN`. 100% lemmas (64) occur only with one value of `Number[psor]`.
-
-## Relations with Agreement in `Number[psor]`
-
-The 10 most frequent relations where parent and child node agree in `Number[psor]`:
-<tt>NOUN --[<tt><a href="yrl_complin-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%).
+`Number[psor]` seems to be **lexical feature** of `NOUN`. 100% lemmas (65) occur only with one value of `Number[psor]`.
 

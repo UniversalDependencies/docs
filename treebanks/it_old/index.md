@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Claudia Corbetta, Marco Passarotti, Flavio Massimiliano Cecchini, Giovanni Moretti.
 
 Repository: [UD_Italian-Old](https://github.com/UniversalDependencies/UD_Italian-Old)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_old217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_old218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -72,6 +72,7 @@ The treebank also includes enhanced dependencies annotation, with a specific foc
 ## Acknowledgments
 
 This work has been carried out in collaboration with the research center CIRCSE (Università Cattolica del Sacro Cuore di Milano) and the University of Pavia-Bergamo (Università degli Studi di Pavia; Università degli Studi di Bergamo).
+Further acknowledgment goes to the CA21167 COST Action UniDive, funded by COST (European Cooperation in Science and Technology), which supported this work, with special thanks to Daniel Zeman, Petya Osenova, and Kiril Simov for their valuable feedback throughout this research.
 We extend our gratitude to all the individuals who made this work possible.
 The annotation of the sonnet by Arnaut Daniel (Purgatorio, XXVI vv.140-147) was carried out by Michele Tron.
 

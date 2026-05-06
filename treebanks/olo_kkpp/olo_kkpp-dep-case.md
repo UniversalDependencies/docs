@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 1 2 case	color:blue
 1	Murginan	murgin	NOUN	NOUN	Case=Acc|Number=Sing	5	obl	_	_
 2	jälles	jälles	ADV	ADV	_	1	case	_	_
-3	kai	kai	PRON	PRON	Case=Gen|Number=Plur	4	nmod:poss	_	_
+3	kai	kai	PRON	PRON	Case=Gen|Number=Plur|PronType=Tot	4	nmod:poss	_	_
 4	matkuniekat	matkuniekku	NOUN	NOUN	Case=Nom|Number=Plur	5	nsubj	_	_
 5	lähtiettih	lähtie	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	Kotkatjärvele	Kotkajärvi	PROPN	PROPN	Case=All|Number=Sing	5	obl	_	SpaceAfter=No

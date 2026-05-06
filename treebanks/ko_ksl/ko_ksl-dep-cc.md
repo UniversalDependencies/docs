@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2795 nodes (2%) are attached to their parents as `cc`.
+3093 nodes (2%) are attached to their parents as `cc`.
 
-2794 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.08228980322004.
+3090 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.17070805043647.
 
-The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (1622; 58% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (888; 32% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (228; 8% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (39; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (16; 1% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (1778; 57% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (972; 31% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (276; 9% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (49; 2% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (16; 1% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -61,7 +61,7 @@ The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="k
 # visual-style 17	fgColor:white
 # visual-style 17 1 cc	color:blue
 1	그러므로	그러므로	CCONJ	MAJ	_	17	cc	_	_
-2	우리는	우리+는	PRON	NP+JX	_	7	nsubj	_	_
+2	우리는	우리+는	PRON	NP+JX	PronType=Prs	7	nsubj	_	_
 3	항상	항상	ADV	MAG	_	7	advmod	_	_
 4	자기의	자기+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
 5	건강에	건강+에	ADV	NNG+JKB	_	6	obl	_	_

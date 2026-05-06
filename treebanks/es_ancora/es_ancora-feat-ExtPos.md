@@ -9,18 +9,18 @@ udver: '2'
 This feature is language-specific.
 It occurs with 4 different values: `ADP`, `ADV`, `CCONJ`, `SCONJ`.
 
-5242 tokens (1%) have a non-empty value of `ExtPos`.
-161 types (0%) occur at least once with a non-empty value of `ExtPos`.
-103 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 10 part-of-speech tags: <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (3244; 1% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (684; 0% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (648; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (197; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (186; 0% instances), <tt><a href="es_ancora-pos-PART.html">PART</a></tt> (135; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (73; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (66; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+5333 tokens (1%) have a non-empty value of `ExtPos`.
+159 types (0%) occur at least once with a non-empty value of `ExtPos`.
+102 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 9 part-of-speech tags: <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (3243; 1% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (795; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (650; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> (232; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (197; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> (127; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (73; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (15; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `ADP`
 
-3244 <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> tokens (4% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+3243 <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> tokens (4% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (1501; 46% of non-empty `ExtPos`): <em>a, en, por, de, con, sin</em>
+* `ADP` (1500; 46% of non-empty `ExtPos`): <em>a, en, por, de, con, sin</em>
 * `ADV` (1463; 45% of non-empty `ExtPos`): <em>en, por, a, de, sin, sobre, con, para, in, Hasta</em>
 * `CCONJ` (16; 0% of non-empty `ExtPos`): <em>en, a, sin</em>
 * `SCONJ` (264; 8% of non-empty `ExtPos`): <em>a, en, con, de, por, para, hasta</em>
@@ -30,40 +30,55 @@ The feature is used with 10 part-of-speech tags: <tt><a href="es_ancora-pos-ADP.
   <tr><td><tt></tt></td><td><em>en</em></td><td><em>en</em></td><td><em>en</em></td><td><em>en</em></td></tr>
 </table>
 
+### `ADV`
+
+795 <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="es_ancora-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (724; 91%), <tt><a href="es_ancora-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (660; 83%).
+
+`ADV` tokens may have the following values of `ExtPos`:
+
+* `ADP` (136; 17% of non-empty `ExtPos`): <em>además, acerca, detrás, dentro, después, aparte, alrededor, cerca, lejos, antes</em>
+* `ADV` (208; 26% of non-empty `ExtPos`): <em>no, más, poco, así, hoy, cerca, ahora, además, alrededor, Antes</em>
+* `CCONJ` (167; 21% of non-empty `ExtPos`): <em>así, no, además, más, aparte, ya</em>
+* `SCONJ` (284; 36% of non-empty `ExtPos`): <em>ya, siempre, además, así, después, lejos, acerca, Aparte, mucho, Más</em>
+
+<table>
+  <tr><th>Paradigm <i>además</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th><th><tt>SCONJ</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>además</em></td><td><em>además</em></td><td><em>además</em></td><td><em>además</em></td></tr>
+</table>
+
 ### `NOUN`
 
-684 <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
+650 <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (684; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (684; 100%).
+The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (650; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (650; 100%).
 
 `NOUN` tokens may have the following values of `ExtPos`:
 
-* `ADP` (325; 48% of non-empty `ExtPos`): <em>frente, respecto, pese, gracias, conforme, cara, fuera, merced, camino, enfrente</em>
-* `ADV` (163; 24% of non-empty `ExtPos`): <em>tal, tan, desde, es, hoy, nada, otra, frente, Pues, cuanto</em>
-* `CCONJ` (39; 6% of non-empty `ExtPos`): <em>es, esto, frente, Cuanto</em>
-* `SCONJ` (157; 23% of non-empty `ExtPos`): <em>pese, puesto, tal, dado, gracias, aun, cada, tan, desde, respecto</em>
+* `ADP` (325; 50% of non-empty `ExtPos`): <em>frente, respecto, pese, gracias, conforme, cara, fuera, merced, camino, enfrente</em>
+* `ADV` (151; 23% of non-empty `ExtPos`): <em>tal, tan, desde, es, nada, otra, frente, Pues, eso, aún</em>
+* `CCONJ` (38; 6% of non-empty `ExtPos`): <em>es, esto, frente</em>
+* `SCONJ` (136; 21% of non-empty `ExtPos`): <em>pese, puesto, tal, gracias, aun, cada, tan, desde, respecto, aún</em>
 
 <table>
   <tr><th>Paradigm <i>frente</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th></tr>
   <tr><td><tt></tt></td><td><em>frente</em></td><td><em>frente</em></td><td><em>frente</em></td></tr>
 </table>
 
-### `ADV`
+### `SCONJ`
 
-648 <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> tokens (4% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+232 <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="es_ancora-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (648; 100%), <tt><a href="es_ancora-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (577; 89%).
+`SCONJ` tokens may have the following values of `ExtPos`:
 
-`ADV` tokens may have the following values of `ExtPos`:
-
-* `ADP` (136; 21% of non-empty `ExtPos`): <em>además, acerca, detrás, dentro, después, aparte, alrededor, cerca, lejos, antes</em>
-* `ADV` (122; 19% of non-empty `ExtPos`): <em>más, poco, así, cerca, ahora, además, alrededor, Antes, asi, cuando</em>
-* `CCONJ` (109; 17% of non-empty `ExtPos`): <em>así, además, más, aparte, ya</em>
-* `SCONJ` (281; 43% of non-empty `ExtPos`): <em>ya, siempre, además, así, después, lejos, acerca, Aparte, mucho, Más</em>
+* `ADP` (14; 6% of non-empty `ExtPos`): <em>como</em>
+* `ADV` (30; 13% of non-empty `ExtPos`): <em>mientras, como</em>
+* `SCONJ` (188; 81% of non-empty `ExtPos`): <em>mientras, si, como, aunque, que</em>
 
 <table>
-  <tr><th>Paradigm <i>además</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th><th><tt>SCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>además</em></td><td><em>además</em></td><td><em>además</em></td><td><em>además</em></td></tr>
+  <tr><th>Paradigm <i>como</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>como</em></td><td><em>como</em></td><td><em>como</em></td></tr>
 </table>
 
 ### `ADJ`
@@ -87,32 +102,17 @@ The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred
 
 ### `CCONJ`
 
-186 <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> tokens (1% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
+127 <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt> tokens (1% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
 
 `CCONJ` tokens may have the following values of `ExtPos`:
 
-* `ADV` (55; 30% of non-empty `ExtPos`): <em>ni, mientras, O</em>
-* `CCONJ` (107; 58% of non-empty `ExtPos`): <em>sino, mientras, o</em>
-* `SCONJ` (24; 13% of non-empty `ExtPos`): <em>mientras, Pero</em>
+* `ADV` (39; 31% of non-empty `ExtPos`): <em>ni, O</em>
+* `CCONJ` (87; 69% of non-empty `ExtPos`): <em>sino, o</em>
+* `SCONJ` (1; 1% of non-empty `ExtPos`): <em>Pero</em>
 
 <table>
-  <tr><th>Paradigm <i>mientras</i></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th><th><tt>SCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>mientras</em></td><td><em>mientras</em></td><td><em>mientras</em></td></tr>
-</table>
-
-### `PART`
-
-135 <tt><a href="es_ancora-pos-PART.html">PART</a></tt> tokens (88% of all `PART` tokens) have a non-empty value of `ExtPos`.
-
-`PART` tokens may have the following values of `ExtPos`:
-
-* `ADV` (76; 56% of non-empty `ExtPos`): <em>no</em>
-* `CCONJ` (58; 43% of non-empty `ExtPos`): <em>no</em>
-* `SCONJ` (1; 1% of non-empty `ExtPos`): <em>no</em>
-
-<table>
-  <tr><th>Paradigm <i>no</i></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th><th><tt>SCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>no</em></td><td><em>no</em></td><td><em>no</em></td></tr>
+  <tr><th>Paradigm <i>o</i></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>O</em></td><td><em>o</em></td></tr>
 </table>
 
 ### `DET`
@@ -132,32 +132,17 @@ The most frequent other feature values with which `DET` and `ExtPos` co-occurred
   <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la</em></td><td></td></tr>
 </table>
 
-### `SCONJ`
-
-66 <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
-
-`SCONJ` tokens may have the following values of `ExtPos`:
-
-* `ADP` (14; 21% of non-empty `ExtPos`): <em>como</em>
-* `ADV` (14; 21% of non-empty `ExtPos`): <em>como</em>
-* `SCONJ` (38; 58% of non-empty `ExtPos`): <em>si, como, aunque, que</em>
-
-<table>
-  <tr><th>Paradigm <i>como</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>como</em></td><td><em>como</em></td><td><em>como</em></td></tr>
-</table>
-
 ### `PRON`
 
-8 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `ExtPos`.
+15 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 100%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 88%), <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt> (6; 75%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt> (6; 75%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (6; 75%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (6; 75%).
+The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 60%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9; 60%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (9; 60%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8; 53%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 53%).
 
 `PRON` tokens may have the following values of `ExtPos`:
 
-* `ADP` (1; 13% of non-empty `ExtPos`): <em>algo</em>
-* `ADV` (6; 75% of non-empty `ExtPos`): <em>lo, todo</em>
-* `CCONJ` (1; 13% of non-empty `ExtPos`): <em>lo</em>
+* `ADP` (1; 7% of non-empty `ExtPos`): <em>algo</em>
+* `ADV` (12; 80% of non-empty `ExtPos`): <em>cuanto, lo, todo</em>
+* `CCONJ` (2; 13% of non-empty `ExtPos`): <em>Cuanto, lo</em>
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th></tr>
@@ -173,9 +158,4 @@ The most frequent other feature values with which `AUX` and `ExtPos` co-occurred
 `AUX` tokens may have the following values of `ExtPos`:
 
 * `ADV` (1; 100% of non-empty `ExtPos`): <em>Es</em>
-
-## Relations with Agreement in `ExtPos`
-
-The 10 most frequent relations where parent and child node agree in `ExtPos`:
-<tt>ADP --[<tt><a href="es_ancora-dep-advmod.html">advmod</a></tt>]--> ADP</tt> (1; 100%).
 

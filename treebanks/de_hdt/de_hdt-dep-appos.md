@@ -40,7 +40,7 @@ The following 64 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 appos	color:blue
-1	Verzögerte	verzögern	ADJ	ADJA	Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
+1	Verzögerte	verzögern	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
 2	Freischaltungen	Freischaltung	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
 3	von	von	ADP	APPR	AdpType=Prep|Case=Dat	4	case	_	_
 4	T-ISDN	T-ISDN	NOUN	NN	Case=Dat	2	nmod	_	_

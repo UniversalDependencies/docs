@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 3	connu	connaître	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|Tense[denom]=Past
 4	,	,	PUNCT	_	_	8	punct	_	_
 5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
-6	malheurs	malheur	NOUN	_	Number=Plur	8	nsubj	_	Gender[lex]=Masc
+6	malheurs	malheur	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	Exponence[Gender]=Inherent
 7	ne	ne	ADV	_	Polarity=Neg	8	advmod	_	_
 8	surviennent	survenir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 9	jamais	jamais	ADV	_	Polarity=Neg	8	advmod	_	_
@@ -36,7 +36,7 @@ The following 1 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 11	:	:	PUNCT	_	_	39	punct	_	_
 12	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	important	important	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_
-14	groupe	groupe	NOUN	_	Number=Sing	39	nsubj	_	Gender[lex]=Masc
+14	groupe	groupe	NOUN	_	Gender=Masc|Number=Sing	39	nsubj	_	Exponence[Gender]=Inherent
 15	canadien	canadien	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_
 16	qui	qui	PRON	_	PronType=Rel	18	nsubj	_	_
 17	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	18	obj	_	_
@@ -44,27 +44,27 @@ The following 1 pairs of parts of speech are connected with `obj:lvc`: <tt><a hr
 19	intéressé	intéresser	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	18	ccomp	_	Tense[denom]=Past
 20	par	par	ADP	_	_	22	case	_	_
 21	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
-22	distribution	distribution	NOUN	_	Number=Sing	19	obl:agent	_	Gender[lex]=Fem
+22	distribution	distribution	NOUN	_	Gender=Fem|Number=Sing	19	obl:agent	_	Exponence[Gender]=Inherent
 23	en	en	ADP	_	_	24	case	_	_
-24	Europe	Europe	PROPN	_	Gender=Fem|Number=Sing	22	nmod	_	_
+24	Europe	Europe	PROPN	_	Gender=Fem|Number=Sing	22	nmod	_	Exponence[Gender]=Inherent
 25	de	de	ADP	_	_	27	case	_	_
 26	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	27	det	_	_
-27	plaques	plaque	NOUN	_	Number=Plur	22	nmod	_	Gender[lex]=Fem
-28	numériques	numérique	ADJ	_	Number=Plur	27	amod	_	Gender[ctxt]=Fem
+27	plaques	plaque	NOUN	_	Gender=Fem|Number=Plur	22	nmod	_	Exponence[Gender]=Inherent
+28	numériques	numérique	ADJ	_	Gender=Fem|Number=Plur	27	amod	_	Exponence[Gender]=Absent
 29	mises	mettre	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	27	acl	_	Tense[denom]=Past
 30	à	à	ADP	_	_	32	case	_	_
 31	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
-32	point	point	NOUN	_	Number=Sing	29	obl:arg	_	Gender[lex]=Masc
+32	point	point	NOUN	_	Gender=Masc|Number=Sing	29	obl:arg	_	Exponence[Gender]=Inherent
 33	à	à	ADP	_	_	34	case	_	_
-34	Baume	Baume	PROPN	_	_	29	obl:mod	_	Gender[lex]=Unknown
+34	Baume	Baume	PROPN	_	_	29	obl:mod	_	_
 35	n'	ne	ADV	_	Polarity=Neg	39	advmod	_	SpaceAfter=No
 36	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	39	aux:tense	_	_
 37	soudainement	soudainement	ADV	_	_	39	advmod	_	_
 38	plus	plus	ADV	_	Polarity=Neg	39	advmod	_	_
 39	donné	donner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	8	parataxis	_	Tense[denom]=Past
-40	signe	signe	NOUN	_	Number=Sing	39	obj:lvc	_	Gender[lex]=Masc
+40	signe	signe	NOUN	_	Gender=Masc|Number=Sing	39	obj:lvc	_	Exponence[Gender]=Inherent
 41	de	de	ADP	_	_	42	case	_	_
-42	vie	vie	NOUN	_	Number=Sing	40	nmod	_	Gender[lex]=Fem|SpaceAfter=No
+42	vie	vie	NOUN	_	Gender=Fem|Number=Sing	40	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
 43	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

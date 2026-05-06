@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="de_hdt-pos-ADJ.html
 
 75390 <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> tokens (29% of all `ADJ` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (75389; 100%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (75389; 100%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (75386; 100%), <tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (69630; 92%).
+The most frequent other feature values with which `ADJ` and `Variant` co-occurred: <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (75388; 100%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (75388; 100%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (75386; 100%), <tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (69630; 92%).
 
 `ADJ` tokens may have the following values of `Variant`:
 
@@ -34,5 +34,5 @@ The 10 most frequent relations where parent and child node agree in `Variant`:
 <tt>ADJ --[<tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (52; 100%),
 <tt>ADJ --[<tt><a href="de_hdt-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (41; 100%),
 <tt>ADJ --[<tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (24; 92%),
-<tt>ADJ --[<tt><a href="de_hdt-dep-acl.html">acl</a></tt>]--> ADJ</tt> (6; 86%).
+<tt>ADJ --[<tt><a href="de_hdt-dep-acl.html">acl</a></tt>]--> ADJ</tt> (5; 100%).
 

@@ -6,21 +6,22 @@ udver: '2'
 
 ## Treebank Statistics: UD_Polish-PUD: POS Tags: `X`
 
-There are 59 `X` lemmas (1%), 59 `X` types (1%) and 77 `X` tokens (0%).
+There are 82 `X` lemmas (2%), 82 `X` types (1%) and 104 `X` tokens (1%).
 Out of 15 observed tags, the rank of `X` is: 7 in number of lemmas, 8 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>of, the, de, 2004, 2016, El, von, 'ya, 1165, 1918</em>
+The 10 most frequent `X` lemmas: <em>of, the, de, a, 2004, 2016, El, association, von, 'ya</em>
 
-The 10 most frequent `X` types:  <em>of, the, de, 2004, 2016, El, Von, 'Ya, 1.165, 1918</em>
+The 10 most frequent `X` types:  <em>of, the, de, a, 2004, 2016, Association, El, Von, 'Ya</em>
 
-The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="pl_pud-pos-X.html">X</a></tt> 4, <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> 1), <em>2004</em> (<tt><a href="pl_pud-pos-X.html">X</a></tt> 2, <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>2016</em> (<tt><a href="pl_pud-pos-X.html">X</a></tt> 2, <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>1918</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1991</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1992</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1994</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1997</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>2008</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>2013</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> 56, <tt><a href="pl_pud-pos-PART.html">PART</a></tt> 3, <tt><a href="pl_pud-pos-X.html">X</a></tt> 3), <em>2004</em> (<tt><a href="pl_pud-pos-X.html">X</a></tt> 2, <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>2016</em> (<tt><a href="pl_pud-pos-X.html">X</a></tt> 2, <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>1918</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1991</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1992</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1994</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1997</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>2008</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>2013</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="pl_pud-pos-X.html">X</a></tt> 3, <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> 1), <em>2004</em> (<tt><a href="pl_pud-pos-X.html">X</a></tt> 2, <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>2016</em> (<tt><a href="pl_pud-pos-X.html">X</a></tt> 2, <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>1918</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1991</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1992</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1994</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1997</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>2008</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>2013</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> 53, <tt><a href="pl_pud-pos-X.html">X</a></tt> 2, <tt><a href="pl_pud-pos-PART.html">PART</a></tt> 1), <em>2004</em> (<tt><a href="pl_pud-pos-X.html">X</a></tt> 2, <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>2016</em> (<tt><a href="pl_pud-pos-X.html">X</a></tt> 2, <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>1918</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1991</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1992</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1994</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>1997</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>2008</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1), <em>2013</em> (<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="pl_pud-pos-X.html">X</a></tt> 1)
 
 
-* <em>de</em>
-  * <tt><a href="pl_pud-pos-X.html">X</a></tt> 3: <em>Barón <b>de</b> Claret , jedyny członek rządu z tytułem szlacheckim .</em>
-  * <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> 1: <em>Dziesiątki zwolenników FSLN już świętują zwycięstwo na Plaza <b>de</b> las Victorias .</em>
+* <em>a</em>
+  * <tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> 53: <em>Można wskazać paralele między grami <b>a</b> naszym codziennym życiem .</em>
+  * <tt><a href="pl_pud-pos-X.html">X</a></tt> 2: <em>W kilku utworach albumu „ On <b>a</b> Wing and <b>a</b> Prayer ” ( 1992 ) ponownie spotkał się z kolegą z zespołu Stealers Wheel Eganem .</em>
+  * <tt><a href="pl_pud-pos-PART.html">PART</a></tt> 1: <em>Jak wyraźnie pokazuje film , Lovingowie – <b>a</b> w szczególności Richard – brali udział w historii wbrew sobie .</em>
 * <em>2004</em>
   * <tt><a href="pl_pud-pos-X.html">X</a></tt> 2: <em>Podczas Igrzysk Olimpijskich <b>2004</b> w Atenach Ulrich , zwycięzca biegu ulicznego , dążył do zdobycia swojego drugiego złotego medalu .</em>
   * <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> 1: <em>Dla porównania , budowa otwartej w <b>2004</b> r . stacji metra NoMa kosztowała 103,7 miliona dolarów .</em>
@@ -51,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="pl_pud-pos-X.ht
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.436503).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.436422).
 
 The 1st highest number of forms (1) was observed with the lemma “'ya”: <em>'Ya</em>.
 
@@ -59,32 +60,32 @@ The 2nd highest number of forms (1) was observed with the lemma “1165”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “1918”: <em>1918</em>.
 
-`X` occurs with 2 features: <tt><a href="pl_pud-feat-Foreign.html">Foreign</a></tt> (54; 70% instances), <tt><a href="pl_pud-feat-NumForm.html">NumForm</a></tt> (21; 27% instances)
+`X` occurs with 2 features: <tt><a href="pl_pud-feat-Foreign.html">Foreign</a></tt> (81; 78% instances), <tt><a href="pl_pud-feat-NumForm.html">NumForm</a></tt> (21; 20% instances)
 
 `X` occurs with 2 feature-value pairs: `Foreign=Yes`, `NumForm=Digit`
 
 `X` occurs with 3 feature combinations.
-The most frequent feature combination is `Foreign=Yes` (54 tokens).
-Examples: <em>of, the, de, El, Von, 'Ya, A, Breaking, Buck, Century</em>
+The most frequent feature combination is `Foreign=Yes` (81 tokens).
+Examples: <em>of, the, de, a, Association, El, Von, 'Ya, America, Assistant</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 11 different relations: <tt><a href="pl_pud-dep-flat-foreign.html">flat:foreign</a></tt> (24; 31% instances), <tt><a href="pl_pud-dep-flat.html">flat</a></tt> (15; 19% instances), <tt><a href="pl_pud-dep-amod.html">amod</a></tt> (12; 16% instances), <tt><a href="pl_pud-dep-conj.html">conj</a></tt> (7; 9% instances), <tt><a href="pl_pud-dep-nmod.html">nmod</a></tt> (6; 8% instances), <tt><a href="pl_pud-dep-obl.html">obl</a></tt> (5; 6% instances), <tt><a href="pl_pud-dep-nsubj.html">nsubj</a></tt> (3; 4% instances), <tt><a href="pl_pud-dep-fixed.html">fixed</a></tt> (2; 3% instances), <tt><a href="pl_pud-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="pl_pud-dep-iobj.html">iobj</a></tt> (1; 1% instances), <tt><a href="pl_pud-dep-nmod-arg.html">nmod:arg</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 12 different relations: <tt><a href="pl_pud-dep-flat-foreign.html">flat:foreign</a></tt> (38; 37% instances), <tt><a href="pl_pud-dep-amod.html">amod</a></tt> (16; 15% instances), <tt><a href="pl_pud-dep-flat.html">flat</a></tt> (15; 14% instances), <tt><a href="pl_pud-dep-conj.html">conj</a></tt> (10; 10% instances), <tt><a href="pl_pud-dep-nmod.html">nmod</a></tt> (8; 8% instances), <tt><a href="pl_pud-dep-obl.html">obl</a></tt> (4; 4% instances), <tt><a href="pl_pud-dep-nmod-arg.html">nmod:arg</a></tt> (3; 3% instances), <tt><a href="pl_pud-dep-nsubj.html">nsubj</a></tt> (3; 3% instances), <tt><a href="pl_pud-dep-appos.html">appos</a></tt> (2; 2% instances), <tt><a href="pl_pud-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="pl_pud-dep-iobj.html">iobj</a></tt> (2; 2% instances), <tt><a href="pl_pud-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 1% instances)
 
-Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="pl_pud-pos-X.html">X</a></tt> (30; 39% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (27; 35% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (11; 14% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (5; 6% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (2; 3% instances)
+Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="pl_pud-pos-X.html">X</a></tt> (51; 49% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (29; 28% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (12; 12% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (8; 8% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (2; 2% instances)
 
-21 (27%) `X` nodes are leaves.
+29 (28%) `X` nodes are leaves.
 
-40 (52%) `X` nodes have one child.
+49 (47%) `X` nodes have one child.
 
-6 (8%) `X` nodes have two children.
+13 (13%) `X` nodes have two children.
 
-10 (13%) `X` nodes have three or more children.
+13 (13%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 5.
 
-Children of `X` nodes are attached using 8 different relations: <tt><a href="pl_pud-dep-punct.html">punct</a></tt> (32; 38% instances), <tt><a href="pl_pud-dep-flat-foreign.html">flat:foreign</a></tt> (22; 26% instances), <tt><a href="pl_pud-dep-flat.html">flat</a></tt> (19; 22% instances), <tt><a href="pl_pud-dep-conj.html">conj</a></tt> (6; 7% instances), <tt><a href="pl_pud-dep-cc.html">cc</a></tt> (3; 4% instances), <tt><a href="pl_pud-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="pl_pud-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="pl_pud-dep-nmod-flat.html">nmod:flat</a></tt> (1; 1% instances)
+Children of `X` nodes are attached using 12 different relations: <tt><a href="pl_pud-dep-flat-foreign.html">flat:foreign</a></tt> (38; 32% instances), <tt><a href="pl_pud-dep-punct.html">punct</a></tt> (38; 32% instances), <tt><a href="pl_pud-dep-flat.html">flat</a></tt> (18; 15% instances), <tt><a href="pl_pud-dep-conj.html">conj</a></tt> (8; 7% instances), <tt><a href="pl_pud-dep-cc.html">cc</a></tt> (5; 4% instances), <tt><a href="pl_pud-dep-case.html">case</a></tt> (3; 3% instances), <tt><a href="pl_pud-dep-amod.html">amod</a></tt> (2; 2% instances), <tt><a href="pl_pud-dep-mark.html">mark</a></tt> (2; 2% instances), <tt><a href="pl_pud-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="pl_pud-dep-nmod-arg.html">nmod:arg</a></tt> (1; 1% instances), <tt><a href="pl_pud-dep-nmod-flat.html">nmod:flat</a></tt> (1; 1% instances), <tt><a href="pl_pud-dep-nmod-poss.html">nmod:poss</a></tt> (1; 1% instances)
 
-Children of `X` nodes belong to 7 different parts of speech: <tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (32; 38% instances), <tt><a href="pl_pud-pos-X.html">X</a></tt> (30; 35% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (17; 20% instances), <tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 4% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
+Children of `X` nodes belong to 7 different parts of speech: <tt><a href="pl_pud-pos-X.html">X</a></tt> (51; 43% instances), <tt><a href="pl_pud-pos-PUNCT.html">PUNCT</a></tt> (38; 32% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (17; 14% instances), <tt><a href="pl_pud-pos-CCONJ.html">CCONJ</a></tt> (5; 4% instances), <tt><a href="pl_pud-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pl_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances)
 

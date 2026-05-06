@@ -40,7 +40,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-PART.htm
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (27; 100% of non-empty `Polarity`): <em>nor, neither</em>
-* `EMPTY` (8175): <em>and, but, or, &, both, either, plus, yet, for, n</em>
+* `EMPTY` (8176): <em>and, but, or, &, both, either, plus, yet, for, n</em>
 
 ## Relations with Agreement in `Polarity`
 

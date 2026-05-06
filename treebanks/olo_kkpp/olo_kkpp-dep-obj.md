@@ -48,7 +48,7 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 6	kyzyy	kyzyö	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	SpaceAfter=No
 7	:	:	PUNCT	PUNCT	_	11	punct	_	_
 8	"	"	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
-9	Midäbo	mi	PRON	PRON	Case=Par|Number=Sing	11	obj	_	PronType=Interr
+9	Midäbo	mi	PRON	PRON	Case=Par|Number=Sing|PronType=Int	11	obj	_	PronType=Interr
 10	bobuli	bobuli	NOUN	NOUN	Case=Nom|Number=Sing	11	nsubj	_	_
 11	saneli	sanella	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	SpaceAfter=No
 12	?	?	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No

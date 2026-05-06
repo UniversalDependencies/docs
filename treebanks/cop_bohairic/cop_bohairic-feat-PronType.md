@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Tot`.
 
-9910 tokens (30%) have a non-empty value of `PronType`.
+9911 tokens (30%) have a non-empty value of `PronType`.
 104 types (5%) occur at least once with a non-empty value of `PronType`.
 65 lemmas (4%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (5331; 16% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (4468; 14% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (106; 0% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (5; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (5332; 16% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (4468; 14% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (106; 0% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (5; 0% instances).
 
 ### `PRON`
 
-5331 <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> tokens (99% of all `PRON` tokens) have a non-empty value of `PronType`.
+5332 <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cop_bohairic-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4874; 91%), <tt><a href="cop_bohairic-feat-Person.html">Person</a></tt><tt>=3</tt> (3569; 67%), <tt><a href="cop_bohairic-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3416; 64%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="cop_bohairic-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4875; 91%), <tt><a href="cop_bohairic-feat-Person.html">Person</a></tt><tt>=3</tt> (3570; 67%), <tt><a href="cop_bohairic-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3416; 64%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (291; 5% of non-empty `PronType`): ⲡⲉ, ⲛⲉ, ⲡ, ⲧⲉ
 * `Ind` (77; 1% of non-empty `PronType`): ⲛⲓⲃⲉⲛ, ⲟⲩ
 * `Int` (89; 2% of non-empty `PronType`): ⲟⲩ, ⲛⲓⲙ, ⲟⲩⲏⲣ, ⲁϣ, ⲑⲱⲛ, ⲑⲛⲁⲩ, ⲁⲟⲩⲏⲣ, ⲛⲑⲟⲕ
-* `Prs` (4874; 91% of non-empty `PronType`): ϥ, ⲟⲩ, ⲩ, ⲥ, ⲓ, ⲕ, ⲧⲉⲛ, ϯ, ⲛ, ⲥⲉ
-* `EMPTY` (27): ϥ, ⲛⲟⲩϯ, ⲛ, ⲟⲩ, ⲩ, ϩⲱ, ϯ, ⲓⲥⲁⲁⲕ, ⲛⲑⲱⲧⲉⲛ, ⲡⲟⲩ
+* `Prs` (4875; 91% of non-empty `PronType`): ϥ, ⲟⲩ, ⲩ, ⲥ, ⲓ, ⲕ, ⲧⲉⲛ, ϯ, ⲛ, ⲥⲉ
+* `EMPTY` (26): ϥ, ⲛⲟⲩϯ, ⲛ, ⲟⲩ, ϩⲱ, ϯ, ⲓⲥⲁⲁⲕ, ⲛⲑⲱⲧⲉⲛ, ⲡⲟⲩ, ⲥ
 
 <table>
   <tr><th>Paradigm <i>ⲛⲑⲟⲕ</i></th><th><tt>Prs</tt></th><th><tt>Int</tt></th></tr>
@@ -70,7 +70,7 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 * `Prs` (8; 8% of non-empty `PronType`): ⲙⲙⲓⲛⲙⲙⲟ
 * `Rcp` (17; 16% of non-empty `PronType`): ⲉⲣⲏⲟⲩ
 * `Tot` (81; 76% of non-empty `PronType`): ⲧⲏⲣ
-* `EMPTY` (4930): ⲛⲟⲩϯ, ⲣⲏϯ, ⲣⲱⲙⲓ, ⲙⲏϣ, ⲓⲱⲧ, ϩⲏⲧ, ⲙⲁ, ⲁⲡⲁ, ⲥⲁϫⲓ, ⲭⲣⲓⲥⲧⲟⲥ
+* `EMPTY` (4931): ⲛⲟⲩϯ, ⲣⲏϯ, ⲣⲱⲙⲓ, ⲙⲏϣ, ⲓⲱⲧ, ϩⲏⲧ, ⲙⲁ, ⲁⲡⲁ, ⲥⲁϫⲓ, ⲭⲣⲓⲥⲧⲟⲥ
 
 ### `ADV`
 

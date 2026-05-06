@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ca_ancora-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="ca_ancora-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-25 nodes (0%) are attached to their parents as `nsubj:pass`.
+28 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-15 instances of `nsubj:pass` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.72.
+17 instances of `nsubj:pass` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.5.
 
-The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (20; 80% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (3; 12% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (2; 8% instances).
+The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (21; 75% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (3; 11% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (1; 4% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	6:aux	_
 4	poder	poder	AUX	vmp0000	Tense=Past|VerbForm=Part	6	aux	6:aux	_
 5	-se	ell	PRON	p0300000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pass	6:expl:pass	_
-6	escapolir	escapolir-se	VERB	vmn0000	VerbForm=Inf	0	root	0:root	_
+6	escapolir	escapolir	VERB	vmn0000	VerbForm=Inf	0	root	0:root	ReflexLemma=escapolir-se
 7	amb	amb	ADP	sps00	_	9	case	9:case	_
 8	l'	el	DET	da0cs0	Definite=Def|Number=Sing|PronType=Art	9	det	9:det	SpaceAfter=No|Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
 9	ajut	ajut	NOUN	ncms000	Gender=Masc|Number=Sing	6	obl	6:obl	ArgTem=argM:adv
@@ -65,7 +65,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 17	que	que	PRON	pr0cn000	PronType=Rel	20	nsubj:pass	20:nsubj:pass	ArgTem=arg1:pat|Entity=(CESSCATAAP1999070148c5--1-CorefType:ident,gstype:gen)
 18	es	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	expl:pass	20:expl:pass	_
 19	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	20:aux	_
-20	viure	viure	VERB	vmn0000	VerbForm=Inf	16	acl	16:acl	_
+20	viure	viure	VERB	vmn0000	VerbForm=Inf	16	acl:relcl	16:acl:relcl	_
 21	ahir	ahir	ADV	rg	_	20	advmod	20:advmod	ArgTem=argM:tmp
 22	a	a	ADP	sps00	_	23	case	23:case	_
 23	Pamplona	Pamplona	PROPN	np0000l	_	20	obl	20:obl	SpaceAfter=No|ArgTem=argM:loc|Entity=(NOCOREF:Spec.location-place-1-gstype:spec)CESSCATAAP1999070148c5)

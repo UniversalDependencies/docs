@@ -8,33 +8,27 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="pro_corag-dep-aux.html">aux</a></tt>.
 
-549 nodes (1%) are attached to their parents as `aux:pass`.
+729 nodes (1%) are attached to their parents as `aux:pass`.
 
-480 instances of `aux:pass` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.09653916211293.
+658 instances of `aux:pass` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.09327846364883.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (549; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (729; 100% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 aux:pass	color:blue
-1	et	_	CCONJ	_	_	10	cc	_	_
-2	la	_	DET	_	_	4	det	_	_
-3	mesquina	_	ADJ	_	_	4	amod	_	_
-4	vepda	_	NOUN	_	_	10	nsubj	_	_
-5	que	_	PRON	_	_	7	nsubj	_	_
-6	no	_	ADV	_	_	7	advmod	_	_
-7	a	_	VERB	_	_	4	acl:relcl	_	_
-8	galina	_	NOUN	_	_	7	obj	_	_
-9	es	_	AUX	_	_	10	aux:pass	_	_
-10	despulhada	_	VERB	_	_	0	root	_	_
-11	de	_	ADP	_	_	12	case	_	_
-12	palli	_	NOUN	_	_	10	obl	_	SpaceAfter=No
-13	.	_	PUNCT	_	_	10	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 aux:pass	color:blue
+1	aixi	_	ADV	_	_	3	advmod	_	_
+2	fo	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	3	aux:pass	_	_
+3	feyt	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	cum	_	SCONJ	_	_	5	mark	_	_
+5	appar	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	3	advcl	_	_
+6	dejuus	_	ADV	_	_	5	advmod	_	SpaceAfter=No
+7	.	_	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

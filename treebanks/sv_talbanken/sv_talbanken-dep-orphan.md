@@ -23,7 +23,7 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 9	fgColor:white
 # visual-style 9 14 orphan	color:blue
 1	Musik	musik	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	nsubj	2:nsubj	_
-2	förekommer	förekomma	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	förekommer	förekomma	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	ParsemeMWE=1:NotMWE
 3	i	i	ADP	PP	_	5	case	5:case	_
 4	årskurserna	årskurs	NOUN	NN|UTR|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	5	nmod	5:nmod	_
 5	7	7	NUM	RG|NOM	Case=Nom|NumType=Card	2	obl	2:obl:i	_
@@ -95,7 +95,7 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 23	hemmet	hem	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	15	conj	22.1:obj|24:nsubj	Enhanced=obj
 24	trivsamt	trivsam	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	23	orphan	22.1:xcomp	Enhanced=xcomp|SpaceAfter=No
 25	,	,	PUNCT	MID	_	26	punct	26:punct	_
-26	förkväver	förkväva	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	10:acl:relcl	_
+26	förkväver	förkväva	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	10:acl:relcl	ParsemeMWE=1:NotMWE
 27	andra	annan	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	28	amod	28:amod	_
 28	ambitioner	ambition	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	26	obj	26:obj	_
 29	och	och	CCONJ	KN	_	30	cc	30:cc	_

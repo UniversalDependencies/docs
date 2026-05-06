@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="en_gentle-pos-
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.235294 (the average of all parts of speech is 1.148610).
+The form / lemma ratio of `DET` is 1.235294 (the average of all parts of speech is 1.149474).
 
 The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, an</em>.
 
@@ -61,11 +61,11 @@ The 2nd highest number of forms (2) was observed with the lemma “no”: <em>kn
 
 The 3rd highest number of forms (2) was observed with the lemma “that”: <em>that, those</em>.
 
-`DET` occurs with 5 features: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt> (1191; 100% instances), <tt><a href="en_gentle-feat-Definite.html">Definite</a></tt> (939; 79% instances), <tt><a href="en_gentle-feat-Number.html">Number</a></tt> (102; 9% instances), <tt><a href="en_gentle-feat-ExtPos.html">ExtPos</a></tt> (3; 0% instances), <tt><a href="en_gentle-feat-Typo.html">Typo</a></tt> (2; 0% instances)
+`DET` occurs with 5 features: <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt> (1194; 100% instances), <tt><a href="en_gentle-feat-Definite.html">Definite</a></tt> (939; 79% instances), <tt><a href="en_gentle-feat-Number.html">Number</a></tt> (102; 9% instances), <tt><a href="en_gentle-feat-ExtPos.html">ExtPos</a></tt> (3; 0% instances), <tt><a href="en_gentle-feat-Typo.html">Typo</a></tt> (2; 0% instances)
 
 `DET` occurs with 13 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=PRON`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rcp`, `PronType=Tot`, `Typo=Yes`
 
-`DET` occurs with 13 feature combinations.
+`DET` occurs with 11 feature combinations.
 The most frequent feature combination is `Definite=Def|PronType=Art` (629 tokens).
 Examples: <em>the</em>
 

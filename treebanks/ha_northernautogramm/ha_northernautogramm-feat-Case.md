@@ -7,61 +7,58 @@ udver: '2'
 ## Treebank Statistics: UD_Hausa-NorthernAutogramm: Features: `Case`
 
 This feature is universal.
-It occurs with 3 different values: `Dat`, `Gen`, `Nom`.
+It occurs with 4 different values: `Acc`, `Dat`, `Gen`, `Nom`.
 
-190 tokens (5%) have a non-empty value of `Case`.
-79 types (10%) occur at least once with a non-empty value of `Case`.
-67 lemmas (13%) occur at least once with a non-empty value of `Case`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (95; 2% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (63; 2% instances), <tt><a href="ha_northernautogramm-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (13; 0% instances).
+686 tokens (4%) have a non-empty value of `Case`.
+49 types (3%) occur at least once with a non-empty value of `Case`.
+44 lemmas (4%) occur at least once with a non-empty value of `Case`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (562; 4% instances), <tt><a href="ha_northernautogramm-pos-ADP.html">ADP</a></tt> (81; 1% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (43; 0% instances).
 
 ### `PRON`
 
-95 <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> tokens (49% of all `PRON` tokens) have a non-empty value of `Case`.
+562 <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> tokens (72% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ha_northernautogramm-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (95; 100%), <tt><a href="ha_northernautogramm-feat-Person.html">Person</a></tt><tt>=3</tt> (67; 71%), <tt><a href="ha_northernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (64; 67%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ha_northernautogramm-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (557; 99%), <tt><a href="ha_northernautogramm-feat-Person.html">Person</a></tt><tt>=3</tt> (338; 60%), <tt><a href="ha_northernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (331; 59%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Dat` (31; 33% of non-empty `Case`): <em>mai, musù, maː, min, matà, maw</em>
-* `Gen` (7; 7% of non-empty `Case`): <em>naːshì, ka, naːkù, naːtà, taːkà, taːsù</em>
-* `Nom` (57; 60% of non-empty `Case`): <em>shiː, ita, niː, suː, kai, keː, shi</em>
-* `EMPTY` (97): <em>shì, shi, tà, sù, koːmiː, wàccan, kà, ni, ka, miː</em>
+* `Acc` (155; 28% of non-empty `Case`): <em>sù, shì, shi, ni, kà, kù, ka, mù, su, tà</em>
+* `Dat` (182; 32% of non-empty `Case`): <em>mai, musù, min, matà, makà, mukù, maː, munà, minì, maw</em>
+* `Gen` (37; 7% of non-empty `Case`): <em>nau, naːshì, naːkà, naːkì, naːkù, ka, naːtà, taːkà, taːsù, wàndonkà</em>
+* `Nom` (188; 33% of non-empty `Case`): <em>shiː, niː, kai, suː, ita, muː, keː, kuː, kêː, shi</em>
+* `EMPTY` (220): <em>indà, koːwaː, shì, koːmiː, shi, wandà, wani, tà, waɗànga, miː</em>
 
-`Case` seems to be **lexical feature** of `PRON`. 100% lemmas (20) occur only with one value of `Case`.
+<table>
+  <tr><th>Paradigm <i>shi</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>shi</em></td><td><em>shi, shì</em></td></tr>
+</table>
 
-### `NOUN`
-
-63 <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> tokens (12% of all `NOUN` tokens) have a non-empty value of `Case`.
-
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ha_northernautogramm-feat-Definite.html">Definite</a></tt><tt>=Cons</tt> (57; 90%), <tt><a href="ha_northernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (45; 71%), <tt><a href="ha_northernautogramm-feat-Person.html">Person</a></tt><tt>=3</tt> (42; 67%), <tt><a href="ha_northernautogramm-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (34; 54%).
-
-`NOUN` tokens may have the following values of `Case`:
-
-* `Gen` (63; 100% of non-empty `Case`): <em>shìgattà, raːnakkà, uwaːtai, yâːtaː, bambanciyassù, baːyuːnai, gardamàssu, rânta, uwattà, àbinkà</em>
-* `EMPTY` (462): <em>ruwaː, kàreː, sarkin, dàːmisàː, gidaː, kuːraː, bàːkin, gàyyaː, sâː, àbin</em>
-
-`Case` seems to be **lexical feature** of `NOUN`. 100% lemmas (34) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `PRON`. 95% lemmas (39) occur only with one value of `Case`.
 
 ### `ADP`
 
-19 <tt><a href="ha_northernautogramm-pos-ADP.html">ADP</a></tt> tokens (13% of all `ADP` tokens) have a non-empty value of `Case`.
+81 <tt><a href="ha_northernautogramm-pos-ADP.html">ADP</a></tt> tokens (15% of all `ADP` tokens) have a non-empty value of `Case`.
 
 `ADP` tokens may have the following values of `Case`:
 
-* `Dat` (16; 84% of non-empty `Case`): <em>mà</em>
-* `Gen` (3; 16% of non-empty `Case`): <em>cikinsù, tsàkaːninsù</em>
-* `EMPTY` (127): <em>dà, cikin, gà, mài, ta, tun, dàc, dàn, na, bàːkin</em>
+* `Dat` (81; 100% of non-empty `Case`): <em>mà, màː, wà</em>
+* `EMPTY` (476): <em>dà, gà, cikin, gàreː, dan, bisà, shâː, dàb, bàːkin, dàc</em>
 
-### `VERB`
+### `PART`
 
-13 <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Case`.
+43 <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> tokens (6% of all `PART` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ha_northernautogramm-feat-ExtPos.html">ExtPos</a></tt><tt>=NOUN</tt> (12; 92%), <tt><a href="ha_northernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (12; 92%), <tt><a href="ha_northernautogramm-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (7; 54%).
+The most frequent other feature values with which `PART` and `Case` co-occurred: <tt><a href="ha_northernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="ha_northernautogramm-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="ha_northernautogramm-feat-PartType.html">PartType</a></tt><tt>=Case</tt> (41; 95%).
 
-`VERB` tokens may have the following values of `Case`:
+`PART` tokens may have the following values of `Case`:
 
-* `Gen` (13; 100% of non-empty `Case`): <em>tàhiyàːtai, biyànka, ganiːnai, kirànka, sônta, taːs'àtta, tàhiyàkkà, tàhiyàkkù, tàhiyàːtay, tàmbayàːtai</em>
-* `EMPTY` (714): <em>cèː, yi, cêː, zakà, zoː, ga, tàhi, tàhiyàː, yîː, ji</em>
+* `Gen` (43; 100% of non-empty `Case`): <em>na, ta</em>
+* `EMPTY` (629): <em>ba, ta, mài, nàː, gàː, màːsu, dai, kuma, baːbù, bàː</em>
 
-`Case` seems to be **lexical feature** of `VERB`. 100% lemmas (10) occur only with one value of `Case`.
+## Relations with Agreement in `Case`
+
+The 10 most frequent relations where parent and child node agree in `Case`:
+<tt>PRON --[<tt><a href="ha_northernautogramm-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<tt><a href="ha_northernautogramm-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<tt><a href="ha_northernautogramm-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (1; 100%).
 

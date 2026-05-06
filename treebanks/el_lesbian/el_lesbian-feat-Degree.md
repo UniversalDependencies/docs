@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Aug`, `Dim` are language-specific.
 It occurs with 3 different values: `Aug`, `Cmp`, `Dim`.
 
-67 tokens (1%) have a non-empty value of `Degree`.
-49 types (2%) occur at least once with a non-empty value of `Degree`.
-41 lemmas (4%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 4 part-of-speech tags: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (26; 0% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (22; 0% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+74 tokens (1%) have a non-empty value of `Degree`.
+54 types (2%) occur at least once with a non-empty value of `Degree`.
+45 lemmas (3%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 4 part-of-speech tags: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (31; 0% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (24; 0% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-26 <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Degree`.
+31 <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> tokens (3% of all `NOUN` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="el_lesbian-feat-Case.html">Case</a></tt><tt>=Acc</tt> (19; 73%), <tt><a href="el_lesbian-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (19; 73%), <tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (19; 73%).
+The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23; 74%), <tt><a href="el_lesbian-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (22; 71%), <tt><a href="el_lesbian-feat-Case.html">Case</a></tt><tt>=Acc</tt> (21; 68%).
 
 `NOUN` tokens may have the following values of `Degree`:
 
-* `Aug` (8; 31% of non-empty `Degree`): <em>πουρνό, άνια, μπέλι, μπούτσια, παλιουπουτανάρα, χειρούκλις</em>
-* `Dim` (18; 69% of non-empty `Degree`): <em>κουρούδα, ακκλησιούδα, γαβανέλ, εκκλησέλ, καμαρούδα, καφιδέλ, κουπηλούδια, κουπιλούδια, κουπιλούδ’, λιμανέλ</em>
-* `EMPTY` (762): <em>μάνα, μέρα, σπίτ’, μουρό, χουριό, χρόνια, πράμα, χωριό, ώρα, μουρά</em>
+* `Aug` (8; 26% of non-empty `Degree`): <em>πουρνό, άνια, μπέλι, μπούτσια, παλιουπουτανάρα, χειρούκλις</em>
+* `Dim` (23; 74% of non-empty `Degree`): <em>κουρούδα, μουρέλλ’, ακκλησιούδα, γαβανέλ, εκκλησέλ, καμαρούδα, καφιδέλ, κουπηλούδια, κουπιλούδια, κουπιλούδις</em>
+* `EMPTY` (912): <em>μάνα, μέρα, μουρό, σπίτ’, χρόνια, χουριό, ώρα, πράμα, χωριό, άθριπους</em>
 
 <table>
   <tr><th>Paradigm <i>χέρ</i></th><th><tt>Aug</tt></th><th><tt>Dim</tt></th></tr>
@@ -33,24 +33,24 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
   <tr><td><tt><tt><a href="el_lesbian-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>χιρέλια</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `NOUN`. 94% lemmas (17) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `NOUN`. 95% lemmas (20) occur only with one value of `Degree`.
 
 ### `PROPN`
 
-22 <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> tokens (14% of all `PROPN` tokens) have a non-empty value of `Degree`.
+24 <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> tokens (14% of all `PROPN` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PROPN` and `Degree` co-occurred: <tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 95%), <tt><a href="el_lesbian-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (20; 91%), <tt><a href="el_lesbian-feat-Case.html">Case</a></tt><tt>=Nom</tt> (14; 64%).
+The most frequent other feature values with which `PROPN` and `Degree` co-occurred: <tt><a href="el_lesbian-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23; 96%), <tt><a href="el_lesbian-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (20; 83%), <tt><a href="el_lesbian-feat-Case.html">Case</a></tt><tt>=Nom</tt> (15; 63%).
 
 `PROPN` tokens may have the following values of `Degree`:
 
-* `Dim` (22; 100% of non-empty `Degree`): <em>Μπουτέλ, Ατζιλικό, Ασπασέλ’, Ατζιλικο, Γληγουρέλ’, Κατιρίνη, Μαριγώ, Ν’κουλέλ’, Ξινέλ’, Πιρσιφόν</em>
-* `EMPTY` (132): <em>Ανθή, Σίγρ’, Αντρόνα, Β’ναριώτις, Γιάνν’, Γιάνν’ς, Γιώργ’, Γκαλλονή, Δησέφ, Ερσσό</em>
+* `Dim` (24; 100% of non-empty `Degree`): <em>Μπουτέλ, Ατζιλικό, Παναγιούδα, Ασπασέλ’, Ατζιλικο, Γληγουρέλ’, Κατιρίνη, Μαριγώ, Ν’κουλέλ’, Ξινέλ’</em>
+* `EMPTY` (144): <em>Ανθή, Σίγρ’, Αντρόνα, Βαρβάρα, Β’ναριώτις, Γιάνν’, Γιάνν’ς, Γιώργ’, Γκαλλονή, Δησέφ</em>
 
-`Degree` seems to be **lexical feature** of `PROPN`. 100% lemmas (17) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `PROPN`. 100% lemmas (18) occur only with one value of `Degree`.
 
 ### `ADV`
 
-18 <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `Degree`.
+18 <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="el_lesbian-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (18; 100%).
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Aug` (5; 28% of non-empty `Degree`): <em>ταχτέρ, ίσια, γύρου</em>
 * `Cmp` (12; 67% of non-empty `Degree`): <em>πιο</em>
 * `Dim` (1; 6% of non-empty `Degree`): <em>λιγάκ’</em>
-* `EMPTY` (305): <em>πουλύ, τώρα, που, πέρα, πια, πού, έτσ’, μέσα, πότι, ταχτέρ</em>
+* `EMPTY` (352): <em>πουλύ, τώρα, που, καλά, πέρα, πια, πού, μέσα, όξου, πλια</em>
 
 ### `ADJ`
 
@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Aug` (1; 100% of non-empty `Degree`): <em>λίγα</em>
-* `EMPTY` (154): <em>καλή, καημένους, καλό, Τούρκους, μαύρα, μεγάλ’, αγιά, αρχαία, θκα, θκο</em>
+* `EMPTY` (173): <em>καλή, καλό, καημένους, Τούρκους, αγιά, μαύρα, μεγάλ’, αρχαία, θκα, θκο</em>
 
 ## Relations with Agreement in `Degree`
 

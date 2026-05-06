@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="es_ancora-dep-expl.html">expl</a></tt>.
 There are also 2 other language-specific subtypes of `expl`: <tt><a href="es_ancora-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="es_ancora-dep-expl-pv.html">expl:pv</a></tt>.
 
-356 nodes (0%) are attached to their parents as `expl:impers`.
+364 nodes (0%) are attached to their parents as `expl:impers`.
 
-337 instances of `expl:impers` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.29775280898876.
+343 instances of `expl:impers` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29120879120879.
 
-The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (354; 99% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (362; 99% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,22 +53,22 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 8	:	:	PUNCT	fd	PunctType=Colo	10	punct	10:punct	_
 9	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	10:det	_
 10	decretorios	decretorio	NOUN	ncmp000	Gender=Masc|Number=Plur	5	appos	5:appos	_
-11	o	o	CCONJ	cc	_	12	cc	12:cc	_
-12	a	a	ADP	rg	_	10	conj	10:conj	MWE=a_muerte|MWEPOS=ADV
-13	muerte	muerte	NOUN	_	_	12	fixed	12:fixed	SpaceAfter=No
+11	o	o	CCONJ	cc	_	13	cc	13:cc	_
+12	a	a	ADP	rg	_	13	case	13:case	MWE=a_muerte|MWEPOS=ADV
+13	muerte	muerte	NOUN	ncfs000	Gender=Fem|Number=Sing	10	conj	10:conj	SpaceAfter=No
 14	,	,	PUNCT	fc	PunctType=Comm	16	punct	16:punct	_
 15	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	16:det	_
-16	propugnatorios	propugnatorio	NOUN	ncmp000	Gender=Masc|Number=Plur	10	appos	10:appos	_
-17	o	o	CCONJ	cc	_	16	cc	16:cc	_
-18	a	a	ADP	aq0cn0	_	20	case	20:case	MWE=a_primera_sangre|MWEPOS=ADJ
-19	primera	primera	ADJ	_	_	16	appos	16:appos	_
-20	sangre	sangre	ADJ	_	_	19	amod	19:amod	SpaceAfter=No
+16	propugnatorios	propugnatorio	NOUN	ncmp000	Gender=Masc|Number=Plur	10	conj	10:conj	_
+17	o	o	CCONJ	cc	_	20	cc	20:cc	_
+18	a	a	ADP	_	_	20	case	20:case	MWE=a_primera_sangre|MWEPOS=ADJ
+19	primera	primero	ADJ	ao0fs0	Gender=Fem|Number=Sing|NumType=Ord	20	amod	20:amod	_
+20	sangre	sangre	NOUN	ncfs000	Gender=Fem|Number=Sing	16	conj	16:conj	SpaceAfter=No
 21	,	,	PUNCT	fc	PunctType=Comm	26	punct	26:punct	_
 22	en	en	ADP	sps00	_	24	case	24:case	_
 23	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	24:det	ArgTem=argM:loc
 24	que	que	PRON	pr0cn000	PronType=Rel	26	obl	26:obl	_
 25	se	él	PRON	p0000000	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	26	expl:impers	26:expl:impers	_
-26	combatía	combatir	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	acl	16:acl	_
+26	combatía	combatir	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	acl:relcl	16:acl:relcl	_
 27	para	para	ADP	sps00	_	28	mark	28:mark	_
 28	lavar	lavar	VERB	vmn0000	VerbForm=Inf	26	advcl	26:advcl	ArgTem=argM:fin
 29	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	30:det	_
@@ -81,7 +81,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 36	y	y	CCONJ	cc	_	45	cc	45:cc	_
 37	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	45	det	45:det	_
 38	satisfactorios	satisfactorio	ADJ	aq0mp0	Gender=Masc|Number=Plur	45	amod	45:amod	SpaceAfter=No
-39	,	,	PUNCT	fc	PunctType=Comm	45	punct	45:punct	_
+39	,	,	PUNCT	fc	PunctType=Comm	38	punct	38:punct	_
 40	en	en	ADP	sps00	_	42	case	42:case	_
 41	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	42	det	42:det	ArgTem=argM:loc
 42	que	que	PRON	pr0cn000	PronType=Rel	45	obl	45:obl	_
@@ -102,7 +102,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 57	prestaba	prestar	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	45	advcl	45:advcl	CxnElt=45:Conditional-NeutralEpistemic.Protasis@f
 58	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	60	det	60:det	_
 59	debida	debido	ADJ	aq0fsp	Gender=Fem|Number=Sing|VerbForm=Part	60	amod	60:amod	_
-60	satisfacción	satisfacción	NOUN	ncfs000	Gender=Fem|Number=Sing	57	obj	57:obj	SpaceAfter=No|ArgTem=arg1:pat
+60	satisfacción	satisfacción	NOUN	ncfs000	Gender=Fem|Number=Sing	57	obj	57:obj	ArgTem=arg1:pat|SpaceAfter=No
 61	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~
@@ -118,14 +118,14 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 2	las	el	DET	da0fp0	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	3:det	_
 3	guerras	guerra	NOUN	ncfp000	Gender=Fem|Number=Plur	5	nsubj	5:nsubj	ArgTem=arg1:tem|Entity=CESSCASTP1999070126_ac20)
 4	son	ser	AUX	vsip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
-5	infames	infame	ADJ	aq0cp0	Number=Plur	0	root	0:root	SpaceAfter=No|ArgTem=arg2:atr
-6	,	,	PUNCT	fc	PunctType=Comm	5	punct	5:punct	_
+5	infames	infame	ADJ	aq0cp0	Number=Plur	0	root	0:root	ArgTem=arg2:atr|SpaceAfter=No
+6	,	,	PUNCT	fc	PunctType=Comm	12	punct	12:punct	_
 7	se	él	PRON	p0000000	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl:impers	12:expl:impers	Entity=(CESSCASTP1999070126_ac21--6
 8	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	12:aux	_
 9	de	de	ADP	sps00	_	12	case	12:case	_
 10	estar	estar	AUX	vmn0000	VerbForm=Inf	12	cop	12:cop	_
 11	contra	contra	ADP	sps00	_	12	case	12:case	_
-12	ellas	él	PRON	pp3fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	advcl	5:advcl	SpaceAfter=No|ArgTem=arg2:atr|Entity=(CESSCASTP1999070126_ac20--1-CorefType:ident,gstype:gen)
+12	ellas	él	PRON	pp3fp000	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	advcl	5:advcl	ArgTem=arg2:atr|Entity=(CESSCASTP1999070126_ac20--1-CorefType:ident,gstype:gen)|SpaceAfter=No
 13	,	,	PUNCT	fc	PunctType=Comm	17	punct	17:punct	Entity=CESSCASTP1999070126_ac21)
 14	pero	pero	CCONJ	cc	_	17	cc	17:cc	_
 15	eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	17	nsubj	17:nsubj	ArgTem=arg1:tem|Entity=(CESSCASTP1999070126_ac21--1-CorefType:dx.prop)
@@ -141,7 +141,7 @@ The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><
 25	te	tú	PRON	pp2cs000	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	27	obl:arg	27:obl:arg	ArgTem=arg2:ben|Entity=(CESSCASTP1999070126_ac22--1-CorefType:ident,gstype:gen)
 26	la	él	PRON	pp3fsa00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	27	obj	27:obj	ArgTem=arg1:pat|Entity=(CESSCASTP1999070126_ac20--1-CorefType:ident,gstype:gen)
 27	declara	declarar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	22:advcl	ArgTem=argM:cau|CxnElt=22:Conditional-NeutralEpistemic.Protasis@f
-28	alguien	alguien	PRON	pi0cs000	Number=Sing|PronType=Ind	27	nsubj	27:nsubj	SpaceAfter=No|ArgTem=arg0:agt|Entity=(NOCOREF:Gen--1-gstype:gen)
+28	alguien	alguien	PRON	pi0cs000	Number=Sing|PronType=Ind	27	nsubj	27:nsubj	ArgTem=arg0:agt|Entity=(NOCOREF:Gen--1-gstype:gen)|SpaceAfter=No
 29	.	.	PUNCT	fp	PunctType=Peri	5	punct	5:punct	_
 
 ~~~

@@ -11,7 +11,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 37945 tokens (15%) have a non-empty value of `Person`.
 1852 types (10%) occur at least once with a non-empty value of `Person`.
-985 lemmas (6%) occur at least once with a non-empty value of `Person`.
+980 lemmas (6%) occur at least once with a non-empty value of `Person`.
 The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (18819; 7% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (9651; 4% instances), <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (9475; 4% instances).
 
 ### `PRON`
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (7997; 42% of non-empty `Person`): <em>i, my, we, me, our, us, myself, mine, 's, ourselves</em>
 * `2` (3668; 19% of non-empty `Person`): <em>you, your, yourself, u, Yo, ur, yours, thy, ya, ye</em>
 * `3` (7154; 38% of non-empty `Person`): <em>it, they, he, their, his, them, him, she, her, its</em>
-* `EMPTY` (4247): <em>that, this, what, there, who, which, anyone, something, anything, nothing</em>
+* `EMPTY` (4248): <em>that, this, what, there, who, which, anyone, something, anything, nothing</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (27) occur only with one value of `Person`.
 

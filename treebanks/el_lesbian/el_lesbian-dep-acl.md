@@ -25,10 +25,10 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 3 5 acl	color:blue
 1	Έχ’	έχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	ασλί	ασλί	NOUN	_	_	1	obj	_	_
-3	έφτου	εύτους	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	_
+3	έφτου	εύτους	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	nsubj	_	_
 4	π’	που	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	obj	_	_
-5	λέγ’ς	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	_
-6	.	.	PUNCT	_	_	1	punct	_	_
+5	λέγ’ς	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	SpaceAfter=No
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 
@@ -51,8 +51,8 @@ The following 2 pairs of parts of speech are connected with `acl`: <tt><a href="
 10	να	να	SCONJ	_	_	11	mark	_	_
 11	π’λήσ’	πλώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	9	acl	_	_
 12	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	13	det	_	_
-13	σπίτ’	σπίτ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
-14	.	.	PUNCT	_	_	2	punct	_	_
+13	σπίτ’	σπίτ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 

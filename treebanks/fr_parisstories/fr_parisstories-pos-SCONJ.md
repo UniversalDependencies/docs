@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_parisstorie
 * <em>qu'</em>
   * <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> 220: <em>et je me dis , oh mon dieu mais qu' est -ce <b>qu'</b> il s' est passé ?</em>
   * <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> 47: <em>et je me dis , oh mon dieu mais <b>qu'</b> est -ce qu' il s' est passé ?</em>
-  * <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 2: <em>bon euh pour être honnête j' en ai fait <b>qu'</b> un seul l' année dernière ,</em>
+  * <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 2: <em>bon euh pour être honnête j' en ai fait <b>qu'</b> un seul l' année dernière .</em>
 * <em>quand</em>
   * <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> 122: <em>en fait , <b>quand</b> tu mets la farine à le final ça se décolle .</em>
   * <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 7: <em>donc , on a mis <b>quand</b> même peut-être une heure pour y aller .</em>
@@ -50,11 +50,11 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_parisstorie
 * <em>avant</em>
   * <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> 10: <em><b>avant</b> , je me prenais tous les murs .</em>
   * <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> 8: <em>tu l' aimais pas <b>avant</b> même de le connaître ?</em>
-  * <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> 1: <em>donc <b>avant</b> ça il fallait que je passe le code et tout ,</em>
+  * <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> 1: <em>donc <b>avant</b> ça il fallait que je passe le code et tout .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.333333 (the average of all parts of speech is 1.379119).
+The form / lemma ratio of `SCONJ` is 1.333333 (the average of all parts of speech is 1.383234).
 
 The 1st highest number of forms (2) was observed with the lemma “puisque”: <em>puisqu', puisque</em>.
 
@@ -73,9 +73,9 @@ Examples: <em>que, qu', quand, si, comme, puisque, puisqu', s', parce, après</e
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 14 different relations: <tt><a href="fr_parisstories-dep-mark.html">mark</a></tt> (596; 63% instances), <tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt> (212; 22% instances), <tt><a href="fr_parisstories-dep-advmod.html">advmod</a></tt> (40; 4% instances), <tt><a href="fr_parisstories-dep-case.html">case</a></tt> (30; 3% instances), <tt><a href="fr_parisstories-dep-dep.html">dep</a></tt> (26; 3% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (21; 2% instances), <tt><a href="fr_parisstories-dep-dep-comp.html">dep:comp</a></tt> (9; 1% instances), <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-advcl-cleft.html">advcl:cleft</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 14 different relations: <tt><a href="fr_parisstories-dep-mark.html">mark</a></tt> (598; 63% instances), <tt><a href="fr_parisstories-dep-fixed.html">fixed</a></tt> (211; 22% instances), <tt><a href="fr_parisstories-dep-advmod.html">advmod</a></tt> (40; 4% instances), <tt><a href="fr_parisstories-dep-case.html">case</a></tt> (29; 3% instances), <tt><a href="fr_parisstories-dep-dep.html">dep</a></tt> (26; 3% instances), <tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt> (21; 2% instances), <tt><a href="fr_parisstories-dep-dep-comp.html">dep:comp</a></tt> (9; 1% instances), <tt><a href="fr_parisstories-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="fr_parisstories-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-advcl-cleft.html">advcl:cleft</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 15 different parts of speech: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (508; 54% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (206; 22% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (84; 9% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (64; 7% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (29; 3% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (18; 2% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 15 different parts of speech: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (508; 54% instances), <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> (206; 22% instances), <tt><a href="fr_parisstories-pos-NOUN.html">NOUN</a></tt> (85; 9% instances), <tt><a href="fr_parisstories-pos-ADJ.html">ADJ</a></tt> (65; 7% instances), <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (27; 3% instances), <tt><a href="fr_parisstories-pos-ADP.html">ADP</a></tt> (18; 2% instances), <tt><a href="fr_parisstories-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="fr_parisstories-pos-SCONJ.html">SCONJ</a></tt> (5; 1% instances), <tt><a href="fr_parisstories-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="fr_parisstories-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="fr_parisstories-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_parisstories-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
 870 (92%) `SCONJ` nodes are leaves.
 

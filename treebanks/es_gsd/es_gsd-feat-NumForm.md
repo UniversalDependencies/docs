@@ -9,34 +9,37 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
-11050 tokens (3%) have a non-empty value of `NumForm`.
-2399 types (5%) occur at least once with a non-empty value of `NumForm`.
-2279 lemmas (6%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (11023; 3% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (27; 0% instances).
+11049 tokens (3%) have a non-empty value of `NumForm`.
+2401 types (5%) occur at least once with a non-empty value of `NumForm`.
+2280 lemmas (7%) occur at least once with a non-empty value of `NumForm`.
+The feature is used with 2 part-of-speech tags: <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (11020; 3% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (29; 0% instances).
 
 ### `NUM`
 
-11023 <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
+11020 <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="es_gsd-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (11022; 100%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9402; 85%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="es_gsd-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (11019; 100%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9399; 85%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
-* `Digit` (8954; 81% of non-empty `NumForm`): <em>2010, 0, 3, 1, 2, 10, 4, 5, 20, 2011</em>
+* `Digit` (8950; 81% of non-empty `NumForm`): <em>2010, 0, 3, 1, 2, 10, 4, 5, 20, 2011</em>
 * `Roman` (429; 4% of non-empty `NumForm`): <em>II, I, III, XIX, XX, IV, V, XVIII, XVI, XV</em>
-* `Word` (1640; 15% of non-empty `NumForm`): <em>dos, tres, cuatro, cinco, seis, un, mil, siete, ocho, una</em>
+* `Word` (1641; 15% of non-empty `NumForm`): <em>dos, tres, cuatro, cinco, seis, un, mil, siete, ocho, una</em>
 
-`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (2278) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (2277) occur only with one value of `NumForm`.
 
 ### `ADJ`
 
-27 <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumForm`.
+29 <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (27; 100%).
+The most frequent other feature values with which `ADJ` and `NumForm` co-occurred: <tt><a href="es_gsd-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27; 93%), <tt><a href="es_gsd-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (27; 93%).
 
 `ADJ` tokens may have the following values of `NumForm`:
 
-* `Roman` (27; 100% of non-empty `NumForm`): <em>II, I, X, VII, III, VIII, Il, VI, XIII</em>
+* `Digit` (2; 7% of non-empty `NumForm`): <em>2º, 3º</em>
+* `Roman` (27; 93% of non-empty `NumForm`): <em>II, I, X, VII, III, VIII, Il, VI, XIII</em>
+
+`NumForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (11) occur only with one value of `NumForm`.
 
 ## Relations with Agreement in `NumForm`
 

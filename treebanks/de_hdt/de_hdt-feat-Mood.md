@@ -18,12 +18,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de_hdt-pos-VERB.htm
 
 134430 <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> tokens (51% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (134430; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (134426; 100%), <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=3</tt> (131770; 98%), <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (102877; 77%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (101546; 76%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (134430; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (134430; 100%), <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=3</tt> (131770; 98%), <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (102877; 77%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (101546; 76%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (744; 1% of non-empty `Mood`): <em>siehe, sprich, update, Stimm, Bleibt, lies, Mach, Mehr, schaut, vgl.</em>
-* `Ind` (133686; 99% of non-empty `Mood`): <em>sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</em>
+* `Imp` (746; 1% of non-empty `Mood`): <em>siehe, sprich, update, Stimm, Bleibt, lies, Mach, Mehr, schaut, vgl.</em>
+* `Ind` (133684; 99% of non-empty `Mood`): <em>sagte, gibt, geht, steht, bietet, erklärte, kommt, sieht, gab, stellt</em>
 * `EMPTY` (129157): <em>machen, angekündigt, geben, lassen, kommen, bringen, anbieten, erhalten, gegeben, gemacht</em>
 
 <table>
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>gaben, geben</em></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 97% lemmas (3280) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 97% lemmas (3279) occur only with one value of `Mood`.
 
 ### `AUX`
 
@@ -83,8 +83,8 @@ The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (324; 56%),
 <tt>VERB --[<tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (307; 59%),
 <tt>AUX --[<tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (136; 54%),
-<tt>AUX --[<tt><a href="de_hdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (65; 58%),
 <tt>AUX --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (43; 84%),
+<tt>AUX --[<tt><a href="de_hdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (35; 69%),
 <tt>AUX --[<tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (14; 93%),
 <tt>AUX --[<tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (4; 67%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ka_gnc-dep-det.html">det</a></tt>.
 
-287 nodes (1%) are attached to their parents as `det:poss`.
+301 nodes (1%) are attached to their parents as `det:poss`.
 
-283 instances of `det:poss` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28919860627178.
+297 instances of `det:poss` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28571428571429.
 
-The following 5 pairs of parts of speech are connected with `det:poss`: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (270; 94% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (8; 3% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `det:poss`: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (284; 94% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (8; 3% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 5 pairs of parts of speech are connected with `det:poss`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 2 det:poss	color:blue
 1	ის	ის	PRON	Pron_Pers_3_Nom_Sg	Case=Nom|Number=Sing|PronType=Prs	4	nsubj	_	LMSeg:ის
-2	თავის	თავისი	PRON	Pron_Poss_Refl_Poss3Sg_Dat_Att	Case=Dat|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det:poss	_	LMSeg:თავის·ი
+2	თავის	თავისი	PRON	Pron_Poss_Refl_Poss3Sg_Dat_Att	Case=Dat|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	3	det:poss	_	LMSeg:თავის·ი
 3	ro-ro-ro-ს	ro-ro-ro	PROPN	N_Prop_Foreign_Dat	Case=Dat	4	obj	_	LMSeg:ro-ro-ro
 4	კითხულობდა	კითხვა	VERB	V_MedAct_Impf_S:3Sg_DO:3	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:*·კითხვ[ა]/კითხულ|SpaceAfter=No
 5	.	.	PUNCT	Punct_Period	_	4	punct	_	LMSeg:.

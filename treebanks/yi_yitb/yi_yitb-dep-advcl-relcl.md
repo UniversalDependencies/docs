@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 1	היינט	היינט	ADV	_	_	3	advmod	_	Translit=heynt|Translit_Lemma=heynt
 2	צוטאגס	צוטאגס	ADV	_	_	1	compound	_	Translit=tsutags|Translit_Lemma=tsutags
 3	רעדן	רעדן	VERB	_	_	0	root	_	Translit=redn|Translit_Lemma=redn
-4	מערערע	_	DET	_	_	5	det	_	Translit=merere
+4	מערערע	מערער	DET	_	_	5	det	_	Translit=merere|Translit_Lemma=merer
 5	מענטשן	מענטשן	NOUN	_	_	3	nsubj	_	Translit=mentshn|Translit_Lemma=mentshn
 6	יידיש	ײדיש	PROPN	_	_	3	obj	_	Translit=yidish|Translit_Lemma=yadish
 7	אין	אין	ADP	_	_	8	case	_	Translit=in|Translit_Lemma=in

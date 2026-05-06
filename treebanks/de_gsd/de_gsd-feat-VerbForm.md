@@ -110,7 +110,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 * `Fin` (49; 72% of non-empty `VerbForm`): <em>mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</em>
 * `Inf` (14; 21% of non-empty `VerbForm`): <em>lernen, 1980ern, Glauben, Wüstenvätern, arten, beilagen, liegenden, mücken, rauchen, reellen</em>
 * `Part` (5; 7% of non-empty `VerbForm`): <em>Jahrhundert, Bestärkt, erhöht</em>
-* `EMPTY` (52228): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52880): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 <table>
   <tr><th>Paradigm <i>Jahrhundert</i></th><th><tt>Fin</tt></th><th><tt>Part</tt></th></tr>
@@ -131,7 +131,7 @@ The most frequent other feature values with which `PROPN` and `VerbForm` co-occu
 * `Fin` (44; 81% of non-empty `VerbForm`): <em>ist, 1st, EVTA, Gibt, Glaube, Kambodschas, Kemble, Roden, Sankt, Verden</em>
 * `Inf` (4; 7% of non-empty `VerbForm`): <em>Wetten, diedenkweisen, kontrollieren, weingarten</em>
 * `Part` (6; 11% of non-empty `VerbForm`): <em>Aliskiren, Ethernet, Outcault, Target, vétkeimet, zertifiziert</em>
-* `EMPTY` (30362): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (29710): <em>Deutschland, de, of, US, Berlin, SPD, St., Frankreich, new, la</em>
 
 `VerbForm` seems to be **lexical feature** of `PROPN`. 100% lemmas (51) occur only with one value of `VerbForm`.
 
@@ -169,6 +169,7 @@ The most frequent other feature values with which `X` and `VerbForm` co-occurred
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1664; 72%),
 <tt>VERB --[<tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (143; 55%),
+<tt>VERB --[<tt><a href="de_gsd-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (44; 56%),
 <tt>VERB --[<tt><a href="de_gsd-dep-dep.html">dep</a></tt>]--> VERB</tt> (13; 68%),
 <tt>AUX --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> AUX</tt> (12; 100%),
 <tt>AUX --[<tt><a href="de_gsd-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 60%),

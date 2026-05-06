@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-3660 tokens (16%) have a non-empty value of `Mood`.
-2351 types (32%) occur at least once with a non-empty value of `Mood`.
-1128 lemmas (26%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (3189; 14% instances), <tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (471; 2% instances).
+3816 tokens (16%) have a non-empty value of `Mood`.
+2417 types (32%) occur at least once with a non-empty value of `Mood`.
+1149 lemmas (26%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (3325; 14% instances), <tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (491; 2% instances).
 
 ### `VERB`
 
-3189 <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Mood`.
+3325 <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ka_gnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3189; 100%), <tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (2766; 87%), <tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (2420; 76%), <tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (2290; 72%), <tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (1670; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="ka_gnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3325; 100%), <tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (2891; 87%), <tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (2511; 76%), <tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (2393; 72%), <tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (1750; 53%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (133; 4% of non-empty `Mood`): <em>გავიდოდა, იტყოდა, განაგებდა, დათბებოდა, დაიძრებოდა, იცნობდით, შედგებოდა, შეძვრებოდა, წამოვიდოდა, ააფორიაქებდა</em>
-* `Imp` (58; 2% of non-empty `Mood`): <em>მომეცი, შეხედე, ასახელე, ასწონ-დასწონეთ, აღიჭურვეთ, გააბედნიერე, გააგდებინე, გააკეთეთ, გააღე, გადაეცით</em>
-* `Ind` (2798; 88% of non-empty `Mood`): <em>ჰქონდა, თქვა, იდგა, უთხრა, აქვს, გავიდა, ვიცი, მოხდა, იყო, იცის</em>
-* `Sub` (200; 6% of non-empty `Mood`): <em>ჰქონდეს, თქვას, ავიღოთ, გავიგოთ, გამოვიყენო, გახდეს, დაექვემდებაროს, დავუშვათ, ვიცხოვროთ, იწვეს</em>
-* `EMPTY` (101): <em>დარწმუნებული, გატენილი, დამზადებული, აშენებული, მიღებული, მოკლებული, ამართული, ამოგლეჯილი, აღრენილი, აღძრული</em>
+* `Cnd` (139; 4% of non-empty `Mood`): <em>გავიდოდა, იტყოდა, განაგებდა, დათბებოდა, დაიძრებოდა, ეჩვენებოდა, იცნობდით, შედგებოდა, შეძვრებოდა, წამოვიდოდა</em>
+* `Imp` (60; 2% of non-empty `Mood`): <em>დამიტოვე, მითხარი, მომეცი, შეხედე, ასახელე, ასწონ-დასწონეთ, აღიჭურვეთ, გააბედნიერე, გააგდებინე, გააკეთეთ</em>
+* `Ind` (2924; 88% of non-empty `Mood`): <em>ჰქონდა, იდგა, თქვა, უთხრა, აქვს, გავიდა, ვიცი, მოხდა, იყო, იცის</em>
+* `Sub` (202; 6% of non-empty `Mood`): <em>ჰქონდეს, თქვას, ავიღოთ, გავიგოთ, გამოვიყენო, გახდეს, დაექვემდებაროს, დავუშვათ, ვიცხოვროთ, იწვეს</em>
+* `EMPTY` (99): <em>დარწმუნებული, გატენილი, დამზადებული, აშენებული, მიღებული, მოკლებული, ამართული, ამოგლეჯილი, აღრენილი, აღძრული</em>
 
 <table>
   <tr><th>Paradigm <i>თქმა</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-io.html">Number[io]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=1</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>მითხარით</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-io.html">Number[io]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=1</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>მითხარი</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-io.html">Number[io]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=1</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>მეუბნები</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ka_gnc-feat-Number-io.html">Number[io]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=1</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td></td><td><em>მითხარ, მითხარი</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ka_gnc-feat-Number-io.html">Number[io]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=1</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td></td><td><em>მითხარი, მითხარ</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-io.html">Number[io]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=1</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>მითხრა</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-io.html">Number[io]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=1</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>მითქვამს</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-io.html">Number[io]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=2</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>გეტყვი</em></td><td></td><td></td><td></td></tr>
@@ -55,7 +55,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td></td><td><em>უთხარი</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>ეუბნებოდა</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>უთხრა</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ეუბნება, უთქვამს</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ეუბნება, უთქვამს</em></td><td></td><td><em>ეტყოდა</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-io.html">Person[io]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>ეთქმოდა</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ვამბობ</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ამბობ</em></td><td></td><td></td><td></td></tr>
@@ -72,21 +72,22 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-471 <tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> tokens (85% of all `AUX` tokens) have a non-empty value of `Mood`.
+491 <tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ka_gnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (471; 100%), <tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (448; 95%), <tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (406; 86%), <tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (294; 62%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="ka_gnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (491; 100%), <tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (467; 95%), <tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (424; 86%), <tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (307; 63%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (10; 2% of non-empty `Mood`): <em>იქნებოდა, ეყოლებოდა</em>
+* `Cnd` (11; 2% of non-empty `Mood`): <em>იქნებოდა, ეყოლებოდა</em>
 * `Imp` (1; 0% of non-empty `Mood`): <em>იყავი</em>
-* `Ind` (451; 96% of non-empty `Mood`): <em>ა, იყო, არის, ხარ, ვარ, იქნება, ვიყავი, ვართ, ჰქონდა, იყვნენ</em>
+* `Ind` (470; 96% of non-empty `Mood`): <em>ა, იყო, არის, ხარ, ვარ, იქნება, ვიყავი, ვართ, ჰქონდა, იყვნენ</em>
 * `Sub` (9; 2% of non-empty `Mood`): <em>იყოს, იქნეს, იყო</em>
-* `EMPTY` (81): <em>უნდა, შეიძლება, ყოფნაც</em>
+* `EMPTY` (82): <em>უნდა, შეიძლება, ყოფნაც</em>
 
 <table>
   <tr><th>Paradigm <i>ყოფნა</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ვართ</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ხართ</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>იყვნენ</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>არიან</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="ka_gnc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>ვიქნები</em></td><td></td><td></td><td></td></tr>
@@ -107,11 +108,11 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="ka_gnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (605; 89%),
-<tt>VERB --[<tt><a href="ka_gnc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (189; 80%),
-<tt>VERB --[<tt><a href="ka_gnc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (149; 67%),
-<tt>VERB --[<tt><a href="ka_gnc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (108; 62%),
-<tt>VERB --[<tt><a href="ka_gnc-dep-ccomp-speech.html">ccomp:speech</a></tt>]--> VERB</tt> (37; 67%),
-<tt>VERB --[<tt><a href="ka_gnc-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (13; 68%),
+<tt>VERB --[<tt><a href="ka_gnc-dep-conj.html">conj</a></tt>]--> VERB</tt> (653; 90%),
+<tt>VERB --[<tt><a href="ka_gnc-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (195; 81%),
+<tt>VERB --[<tt><a href="ka_gnc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (155; 67%),
+<tt>VERB --[<tt><a href="ka_gnc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (112; 62%),
+<tt>VERB --[<tt><a href="ka_gnc-dep-ccomp-speech.html">ccomp:speech</a></tt>]--> VERB</tt> (39; 68%),
+<tt>VERB --[<tt><a href="ka_gnc-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (14; 70%),
 <tt>VERB --[<tt><a href="ka_gnc-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (3; 100%).
 

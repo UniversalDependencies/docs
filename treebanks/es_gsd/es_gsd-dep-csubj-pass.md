@@ -53,7 +53,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 11 csubj:pass	color:blue
-1	Sabido	sabido	VERB	_	VerbForm=Fin	0	root	_	_
+1	Sabido	saber	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	aux:pass	_	_
 3	que	que	SCONJ	_	_	11	mark	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_

@@ -40,7 +40,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 15	δὲ	δέ	CCONJ	_	_	17	cc	_	Gloss=but,and,however|Ref=GEN_44.9
 16	ἐσόμεθα	εἰμί	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	17	cop	_	Gloss=to-be|Ref=GEN_44.9
 17	παῖδες	παῖς	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	11	conj	_	Gloss=children,male-servants|Ref=GEN_44.9
-18	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	19	det	_	Gloss=the|Ref=GEN_44.9
+18	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	Gloss=the|Ref=GEN_44.9
 19	κυρίῳ	κύριος	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	17	iobj	_	Gloss=lord|Ref=GEN_44.9
 20	ἡμῶν	ἡμεῖς	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	19	nmod:poss	_	Gloss=us,our|Ref=GEN_44.9|SpaceAfter=No
 21	.	.	PUNCT	_	_	20	punct	_	Ref=GEN_44.9
@@ -70,7 +70,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 14	ὅτι	ὅτι	SCONJ	_	_	15	mark	_	Gloss=because,that-for|Ref=RUTH_2.22
 15	ἐπορεύθης	πορεύομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	10	csubj	_	Gloss=to-proceed,go,depart|Ref=RUTH_2.22
 16	μετὰ	μετά	ADP	_	_	18	case	_	Gloss=+G=with;-+A=after|Ref=RUTH_2.22
-17	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	18	det	_	Gloss=the|Ref=RUTH_2.22
+17	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	18	det	_	Gloss=the|Ref=RUTH_2.22
 18	κορασίων	κοράσιον	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	15	obl	_	Gloss=girl|Ref=RUTH_2.22
 19	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	18	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=RUTH_2.22|SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	Ref=RUTH_2.22
@@ -94,10 +94,10 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 26 28 csubj	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_41.24
 2	κατέπιον	καταπίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-swallow-up|Ref=GEN_41.24
-3	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	5	det	_	Gloss=the|Ref=GEN_41.24
+3	οἱ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	Gloss=the|Ref=GEN_41.24
 4	ἑπτὰ	ἑπτά	NUM	_	NumType=Card	5	nummod	_	Gloss=seven|Ref=GEN_41.24
 5	στάχυες	στάχυς	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	Gloss=head-of-grain|Ref=GEN_41.24
-6	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	7	det	_	Gloss=the|Ref=GEN_41.24
+6	οἱ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	Gloss=the|Ref=GEN_41.24
 7	λεπτοὶ	λεπτός	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	5	amod	_	Gloss=thin,small|Ref=GEN_41.24
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next|Ref=GEN_41.24
 9	ἀνεμόφθοροι	ἀνεμόφθορος	ADJ	_	Case=Nom|Gender=Fem,Masc|Number=Plur	7	conj	_	Gloss=blighted|Ref=GEN_41.24
@@ -108,17 +108,17 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 14	καλοὺς	καλός	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	12	amod	_	Gloss=good|Ref=GEN_41.24
 15	καὶ	καί	CCONJ	_	_	17	cc	_	Gloss=and,also,even,then,next|Ref=GEN_41.24
 16	τοὺς	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	Gloss=the|Ref=GEN_41.24
-17	πλήρεις	πλήρης	ADJ	_	Case=Acc,Nom|Gender=Fem,Masc|Number=Plur	14	conj	_	Gloss=full|Ref=GEN_41.24|SpaceAfter=No
+17	πλήρεις	πλήρης	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	14	conj	_	Gloss=full|Ref=GEN_41.24|SpaceAfter=No
 18	.	.	PUNCT	_	_	2	punct	_	Ref=GEN_41.24
 19	εἶπα	λέγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-speak,say|Ref=GEN_41.24
 20	οὖν	οὖν	ADV	_	_	19	advmod	_	Gloss=now,therefore|Ref=GEN_41.24
-21	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Art	22	det	_	Gloss=the|Ref=GEN_41.24
+21	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	Gloss=the|Ref=GEN_41.24
 22	ἐξηγηταῖς	ἐξηγητής	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	19	iobj	_	Gloss=expositor|Ref=GEN_41.24|SpaceAfter=No
 23	,	,	PUNCT	_	_	24	punct	_	Ref=GEN_41.24
 24	καὶ	καί	CCONJ	_	_	26	cc	_	Gloss=and,also,even,then,next|Ref=GEN_41.24
 25	οὐκ	οὐ	ADV	_	Polarity=Neg	26	advmod	_	Gloss=no,not|Ref=GEN_41.24
 26	ἦν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Gloss=to-be|Ref=GEN_41.24
-27	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	28	nsubj	_	Gloss=the;-oh|Ref=GEN_41.24
+27	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	nsubj	_	Gloss=the;-oh|Ref=GEN_41.24
 28	ἀπαγγέλλων	ἀπαγγέλλω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	26	csubj	_	Gloss=sending-news|Ref=GEN_41.24
 29	μοι	ἐγώ	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	28	iobj	_	Gloss=me|Ref=GEN_41.24|SpaceAfter=No
 30	.	.	PUNCT	_	_	29	punct	_	Ref=GEN_41.24

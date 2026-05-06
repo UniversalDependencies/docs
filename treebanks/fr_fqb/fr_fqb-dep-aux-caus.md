@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a h
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 aux:caus	color:blue
-1	J'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
+1	J'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	SpaceAfter=No
 2	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	résidence	résidence	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
@@ -31,8 +31,8 @@ The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a h
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	où	où	ADV	_	PronType=Int	12	advmod	_	_
 8	dois	devoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	SpaceAfter=No
-9	-je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-10	me	le/lui	PRON	_	Number=Sing|Person=1|PronType=Prs	12	obj	_	_
+9	-je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+10	me	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	12	obj	_	_
 11	faire	faire	AUX	_	VerbForm=Inf	12	aux:caus	_	_
 12	recenser	recenser	VERB	_	VerbForm=Inf	8	xcomp	_	_
 13	?	?	PUNCT	_	_	2	punct	_	_

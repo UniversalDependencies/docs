@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-128 tokens (3%) have a non-empty value of `Polarity`.
+138 tokens (3%) have a non-empty value of `Polarity`.
 27 types (1%) occur at least once with a non-empty value of `Polarity`.
 3 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (123; 3% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (133; 3% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (2; 0% instances).
 
 ### `AUX`
 
-123 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Polarity`.
+133 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (97; 79%), <tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt> (97; 79%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (93; 76%), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (91; 74%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (87; 71%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (87; 71%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (107; 80%), <tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt> (106; 80%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (102; 77%), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (97; 73%), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (93; 70%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (93; 70%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Neg` (123; 100% of non-empty `Polarity`): <em>аф, ашезь, апак, ашень, ашеть, изь, афоль, аш, ашесть, тяк</em>
+* `Neg` (133; 100% of non-empty `Polarity`): <em>аф, ашезь, тят, апак, ашень, ашеть, изь, афоль, аш, ашесть</em>
 * `EMPTY` (41): <em>ульсь, ба, катк, ульсть, эрявсь, ли, ули, эряви, Улендяряль, Улень</em>
 
 ### `ADV`
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>аш</em>
-* `EMPTY` (428): <em>нинге, кода, пяк, аньцек, сяда, ни, меле, эста, ичкозе, кали</em>
+* `EMPTY` (443): <em>нинге, кода, пяк, аньцек, сяда, ни, меле, эста, ичкозе, кали</em>
 
 ### `INTJ`
 

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Italian-KIParlaForest: Relations: `flat:foreign`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="it_kiparlaforest-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="it_kiparlaforest-dep-flat-name.html">flat:name</a></tt>.
 
 4 nodes (0%) are attached to their parents as `flat:foreign`.
@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat:foreign	color:blue
-1	may	may	X	_	Foreign=Yes	0	root	_	Begin=1304.312|Coconstruct=conj::BOA3017_829-1|KID=839-0
+1	may	may	X	_	Foreign=Yes	0	root	_	Begin=1304.312|KID=839-0
 2	day	day	X	_	Foreign=Yes	1	flat:foreign	_	KID=839-1
 3	may	may	X	_	Foreign=Yes	1	parataxis	_	KID=839-2
 4	day	day	X	_	Foreign=Yes	3	flat:foreign	_	KID=839-3

@@ -45,8 +45,8 @@ The following 25 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 6 advcl	color:blue
-1	I	i	ADP	PP	_	2	case	2:case	_
-2	teorin	teori	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	11	obl	11:obl:i	SpaceAfter=No
+1	I	i	ADP	PP	_	2	case	2:case	ParsemeMWE=1:AdvID
+2	teorin	teori	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	11	obl	11:obl:i	SpaceAfter=No|ParsemeMWE=1
 3	,	,	PUNCT	MID	_	6	punct	6:punct	_
 4	om	om	SCONJ	SN	_	6	mark	6:mark	_
 5	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	6	nsubj:pass	6:nsubj:pass	_

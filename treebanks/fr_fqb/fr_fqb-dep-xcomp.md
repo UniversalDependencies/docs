@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 3 xcomp	color:blue
 1	Puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-2	-je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+2	-je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	avoir	avoir	VERB	_	VerbForm=Inf	1	xcomp	_	_
 4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	aide	aide	NOUN	_	Number=Sing	3	obj	_	_
@@ -64,12 +64,12 @@ The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 xcomp	color:blue
-1	Je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	vais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	devenir	devenir	VERB	_	VerbForm=Inf	2	xcomp	_	_
 4	salarié	salarié	NOUN	_	Gender=Masc|Number=Sing	3	xcomp	_	_
 5	et	et	CCONJ	_	_	7	cc	_	_
-6	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+6	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 7	garde	garder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 9	même	même	ADJ	_	Number=Sing	10	amod	_	_

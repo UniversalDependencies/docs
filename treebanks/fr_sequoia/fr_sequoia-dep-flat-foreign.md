@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Sequoia: Relations: `flat:foreign`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="fr_sequoia-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="fr_sequoia-dep-flat-name.html">flat:name</a></tt>.
 
 136 nodes (0%) are attached to their parents as `flat:foreign`.

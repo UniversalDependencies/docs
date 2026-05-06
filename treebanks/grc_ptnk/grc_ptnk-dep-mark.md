@@ -25,7 +25,7 @@ The following 15 pairs of parts of speech are connected with `mark`: <tt><a href
 1	ἀνηγγέλη	ἀναγγέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-tell|Ref=GEN_31.22
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Ref=GEN_31.22
 3	Λαβὰν	Λάβαν	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	Gloss=Laban|Ref=GEN_31.22
-4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	5	det	_	Gloss=the|Ref=GEN_31.22
+4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the|Ref=GEN_31.22
 5	Σύρῳ	Σύρος	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	3	appos	_	Gloss=Syrian|Ref=GEN_31.22
 6	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Gloss=the|Ref=GEN_31.22
 7	τρίτῃ	τρίτος	NUM	_	Case=Dat|Gender=Fem|Number=Sing|NumType=Ord	8	nummod	_	Gloss=third|Ref=GEN_31.22
@@ -52,7 +52,7 @@ The following 15 pairs of parts of speech are connected with `mark`: <tt><a href
 6	Μὴ	μή	ADV	_	Polarity=Neg	7	advmod	_	Gloss=no,not|Ref=GEN_50.19
 7	φοβεῖσθε	φοβέω	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	2	ccomp	_	Gloss=to-fear|Ref=GEN_50.19|SpaceAfter=No
 8	·	·	PUNCT	_	_	9	punct	_	Ref=GEN_50.19
-9	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	11	det	_	Gloss=the|Ref=GEN_50.19
+9	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the|Ref=GEN_50.19
 10	γὰρ	γάρ	SCONJ	_	_	11	mark	_	Gloss=for,because|Ref=GEN_50.19
 11	θεοῦ	θεός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	advcl	_	Gloss=god|Ref=GEN_50.19
 12	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	Gloss=to-be|Ref=GEN_50.19
@@ -76,7 +76,7 @@ The following 15 pairs of parts of speech are connected with `mark`: <tt><a href
 6	ἀκούει	ἀκούω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	Gloss=to-hear|Ref=GEN_42.23
 7	Ἰωσήφ	Ἰωσήφ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Gloss=Joseph|Ref=GEN_42.23|SpaceAfter=No
 8	·	·	PUNCT	_	_	9	punct	_	Ref=GEN_42.23
-9	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the;-oh|Ref=GEN_42.23
+9	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the;-oh|Ref=GEN_42.23
 10	γὰρ	γάρ	SCONJ	_	_	13	mark	_	Gloss=for,because|Ref=GEN_42.23
 11	ἑρμηνευτὴς	ἑρμηνευτής	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	Gloss=translator|Ref=GEN_42.23
 12	ἀνὰ	ἀνά	ADP	_	_	13	case	_	Gloss=up,again|Ref=GEN_42.23

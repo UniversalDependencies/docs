@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Coll`, `Expr`, `Vrnc`.
 
-209 tokens (0%) have a non-empty value of `Style`.
+213 tokens (0%) have a non-empty value of `Style`.
 17 types (0%) occur at least once with a non-empty value of `Style`.
 12 lemmas (0%) occur at least once with a non-empty value of `Style`.
-The feature is used with 5 part-of-speech tags: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (134; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (28; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (8; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (138; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (28; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (8; 0% instances).
 
 ### `VERB`
 
-134 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Style`.
+138 <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (134; 100%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (133; 99%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (117; 87%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (117; 87%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (117; 87%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (116; 87%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="en_gum-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (138; 100%), <tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (137; 99%), <tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (120; 87%), <tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (120; 87%), <tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (120; 87%), <tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (119; 86%).
 
 `VERB` tokens may have the following values of `Style`:
 
-* `Vrnc` (134; 100% of non-empty `Style`): <em>gon, wan, ai</em>
+* `Vrnc` (138; 100% of non-empty `Style`): <em>gon, wan, ai</em>
 
 ### `PRON`
 

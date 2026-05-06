@@ -90,7 +90,7 @@ The following 11 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 20	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	Norvège	Norvège	PROPN	NNP	Gender=Fem|Number=Sing	18	nmod	_	_
 22	et	et	CCONJ	CC	_	24	cc	_	_
-23	s'	se	PRON	PRP	Person=3|PronType=Prs	24	obj	_	SpaceAfter=No
+23	s'	soi	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	24	expl:pv	_	SpaceAfter=No
 24	étend	étendre	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
 25	au-delà	au-delà	ADV	INDT	_	24	advmod	_	_
 26	de	de	ADP	IN	_	27	case	_	_

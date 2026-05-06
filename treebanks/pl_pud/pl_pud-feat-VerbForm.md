@@ -29,6 +29,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Conv</tt></th></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt>|<tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>był</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pud-feat-ExtPos.html">ExtPos</a></tt><tt>=PART</tt>|<tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>być</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>była</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="pl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>było</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pl_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>będzie</em></td><td></td><td></td></tr>
@@ -94,19 +95,20 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Vnoun` (220; 100% of non-empty `VerbForm`): <em>zniszczenie, kręcenia, ograniczaniu, ograniczenia, opuszczenia, otwarcie, poszukiwaniu, powstrzymania, przejęcia, przekroczenie</em>
-* `EMPTY` (4426): <em>r, lat, roku, %, części, miejsce, wojny, latach, p.n.e, ludzi</em>
+* `EMPTY` (4412): <em>r, lat, roku, %, części, miejsce, wojny, latach, p.n.e, ludzi</em>
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (160) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (161; 99%),
+<tt>VERB --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (150; 99%),
 <tt>VERB --[<tt><a href="pl_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (36; 88%),
 <tt>VERB --[<tt><a href="pl_pud-dep-parataxis-obj.html">parataxis:obj</a></tt>]--> VERB</tt> (32; 97%),
 <tt>VERB --[<tt><a href="pl_pud-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (30; 100%),
 <tt>VERB --[<tt><a href="pl_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (13; 62%),
-<tt>ADJ --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (9; 56%),
+<tt>VERB --[<tt><a href="pl_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (10; 100%),
+<tt>ADJ --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 53%),
 <tt>VERB --[<tt><a href="pl_pud-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (5; 100%),
 <tt>VERB --[<tt><a href="pl_pud-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="pl_pud-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (3; 100%).

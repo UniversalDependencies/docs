@@ -54,7 +54,7 @@ The following 9 pairs of parts of speech are connected with `ccomp`: <tt><a href
 8	note	note	NOUN	NN	Number=Sing	5	obl	5:obl:in	SpaceAfter=No
 9	,	,	PUNCT	,	_	5	punct	5:punct	_
 10	that	that	SCONJ	IN	_	15	mark	15:mark	_
-11	there	there	PRON	EX	_	15	expl	15:expl	_
+11	there	there	PRON	EX	PronType=Dem	15	expl	15:expl	_
 12	will	will	AUX	MD	VerbForm=Fin	15	aux	15:aux	_
 13	be	be	AUX	VB	VerbForm=Inf	15	cop	15:cop	_
 14	no	no	DET	DT	PronType=Neg	15	det	15:det	_

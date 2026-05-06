@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 8 12 acl	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=RUTH_4.14
 2	εἶπαν	λέγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=RUTH_4.14
-3	αἱ	ὁ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	4	det	_	Gloss=the|Ref=RUTH_4.14
+3	αἱ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	Gloss=the|Ref=RUTH_4.14
 4	γυναῖκες	γυνή	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	Gloss=women,wives|Ref=RUTH_4.14
 5	πρὸς	πρός	ADP	_	_	6	case	_	Gloss=+D=at;-+A=to,toward|Ref=RUTH_4.14
 6	Νωεμὶν	Νωεμίν	PROPN	_	Gender=Fem|Number=Sing	2	obl	_	Gloss=Naomi|Ref=RUTH_4.14

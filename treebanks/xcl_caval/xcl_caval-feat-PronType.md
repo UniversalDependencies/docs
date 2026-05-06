@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-18668 tokens (19%) have a non-empty value of `PronType`.
+18667 tokens (19%) have a non-empty value of `PronType`.
 331 types (4%) occur at least once with a non-empty value of `PronType`.
 83 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (10503; 11% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (7098; 7% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1006; 1% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt> (61; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (10498; 11% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (7103; 7% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (1005; 1% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt> (61; 0% instances).
 
 ### `PRON`
 
-10503 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+10498 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7735; 74%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7081; 67%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (6299; 60%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7730; 74%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7079; 67%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (6293; 60%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (4204; 40% of non-empty `PronType`): <em>նա, նորա, նոսա, նմա, նոցա, այս, նոքա, նմանէ, սա, այն</em>
-* `Ind` (813; 8% of non-empty `PronType`): <em>ինչ, ոք, զինչ, ոմանք, ոմն, ումեք, ո, բազումք, ով, ոյր</em>
+* `Dem` (4205; 40% of non-empty `PronType`): <em>նա, նորա, նոսա, նմա, նոցա, այս, նոքա, նմանէ, սա, այն</em>
+* `Ind` (810; 8% of non-empty `PronType`): <em>ինչ, ոք, զինչ, ոմանք, ոմն, ումեք, ո, բազումք, ով, ոյր</em>
 * `Int` (201; 2% of non-empty `PronType`): <em>զինչ, ո, ով, զի, ում, իւ, ոյր, ինչ, յո, ոյք</em>
-* `Prs` (3422; 33% of non-empty `PronType`): <em>ձեզ, իմ, իս, իւր, քո, քեզ, ես, մեզ, դու, դուք</em>
+* `Prs` (3419; 33% of non-empty `PronType`): <em>ձեզ, իմ, իս, իւր, քեզ, քո, ես, մեզ, դու, դուք</em>
 * `Rcp` (55; 1% of non-empty `PronType`): <em>միմեանս, միմեանց, իրեարս, միմեամբք</em>
 * `Rel` (1549; 15% of non-empty `PronType`): <em>որ, որում, որոյ, որոց, որք, որս, որմէ, որով, որո, որովք</em>
 * `Tot` (259; 2% of non-empty `PronType`): <em>ամենայն, ամենեքին, ամենեցուն, ամենեքեան, ամենայնի, ամենեսին, ամենեսեան, ամենեցունց, իւրաքանչիւր, ամենայնիւ</em>
@@ -50,17 +50,17 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-7098 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+7103 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4841; 68%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4840; 68%), <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4839; 68%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=Remt</tt> (4525; 64%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (5027; 71% of non-empty `PronType`): <em>ն, ս, դ, մի, միոյ, միում, միով, միոջ</em>
-* `Dem` (540; 8% of non-empty `PronType`): <em>այս, այն, այսպիսի, նոյն, այնմիկ, այսմ, այսմիկ, այդ, այնմ, այնոսիկ</em>
-* `Ind` (405; 6% of non-empty `PronType`): <em>բազում, ինչ, ոմն, բազումք, բազումս, իմն, սակաւ, բազմաց, ոմանք, ոք</em>
+* `Dem` (539; 8% of non-empty `PronType`): <em>այս, այն, այսպիսի, նոյն, այնմիկ, այսմ, այսմիկ, այդ, այնմ, այնոսիկ</em>
+* `Ind` (408; 6% of non-empty `PronType`): <em>բազում, ինչ, ոմն, բազումք, բազումս, իմն, սակաւ, բազմաց, ոմանք, ոք</em>
 * `Int` (17; 0% of non-empty `PronType`): <em>զինչ, որ, որով, որոյ, որոց</em>
-* `Prs` (612; 9% of non-empty `PronType`): <em>իւրում, իւրոց, մեր, իւրոյ, իմոյ, իւր, մերոյ, իմմէ, մերոց, քում</em>
+* `Prs` (615; 9% of non-empty `PronType`): <em>իւրում, իւրոց, մեր, իւրոյ, իմոյ, իւր, մերոյ, իմմէ, մերոց, քում</em>
 * `Rel` (115; 2% of non-empty `PronType`): <em>որ, որմէ, որով, որում, որոյ, որք</em>
 * `Tot` (382; 5% of non-empty `PronType`): <em>ամենայն, իւրաքանչիւր, ամենեքին, ամենեսին, ամենեցուն, ամենայնի, ամենայնիւ, ամենեքեան, այմենայն, բոլոր</em>
 
@@ -81,17 +81,17 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `ADV`
 
-1006 <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> tokens (30% of all `ADV` tokens) have a non-empty value of `PronType`.
+1005 <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> tokens (30% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (554; 55%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (553; 55%).
 
 `ADV` tokens may have the following values of `PronType`:
 
 * `Dem` (453; 45% of non-empty `PronType`): <em>անդ, այսպէս, աստ, նոյնպէս, այնպէս, անտի, անդրէն, այսր, այսուհետեւ, անդր</em>
-* `Ind` (183; 18% of non-empty `PronType`): <em>ուր, ուստի, երբ, ինչ, զիարդ, ընդէր, զի, ընդէ՛ր</em>
+* `Ind` (182; 18% of non-empty `PronType`): <em>ուր, ուստի, երբ, ինչ, զիարդ, ընդէր, զի, ընդէ՛ր</em>
 * `Int` (143; 14% of non-empty `PronType`): <em>զիարդ, ընդէր, զի, ուր, ուստի, երբ, որչափ, որպէս, ինչ</em>
 * `Rel` (227; 23% of non-empty `PronType`): <em>որպէս, որչափ, յորժամ, որքան</em>
-* `EMPTY` (2318): <em>վերայ, եւս, արդ, ամէն, յայնժամ, ապա, դարձեալ, վաղվաղակի, այժմ, առաւել</em>
+* `EMPTY` (2321): <em>վերայ, եւս, արդ, ամէն, յայնժամ, ապա, դարձեալ, վաղվաղակի, այժմ, առաւել</em>
 
 <table>
   <tr><th>Paradigm <i>որպէս</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
@@ -114,7 +114,7 @@ The most frequent other feature values with which `INTJ` and `PronType` co-occur
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> PRON</tt> (23; 64%),
+<tt>PRON --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> PRON</tt> (22; 65%),
 <tt>ADV --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> ADV</tt> (6; 75%),
 <tt>DET --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> DET</tt> (4; 100%),
 <tt>ADV --[<tt><a href="xcl_caval-dep-discourse.html">discourse</a></tt>]--> INTJ</tt> (3; 60%),

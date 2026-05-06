@@ -43,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `cc`: <tt><a href="a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 cc	color:blue
-1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	Gloss=he|Hyperlemma=he|Root=*ḱís
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|Hyperlemma=he|Root=*ḱís
 2	ȝesohte	ȝesecan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=tried|Hyperlemma=seek|Root=*seh₂ǵ
 3	to	to	PART	TO	_	4	case	_	Gloss=to|Hyperlemma=to|Root=*de
 4	ȝesƿicanne	ȝesƿican	VERB	VB	Number=Sing|VerbForm=Inf	2	xcomp	_	Gloss=stop|Hyperlemma=geswican|Root=*sweyg

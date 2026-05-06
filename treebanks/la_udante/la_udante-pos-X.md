@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>amor</em> (<tt><a href="la_udante-pos
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.021127 (the average of all parts of speech is 2.130133).
+The form / lemma ratio of `X` is 1.021127 (the average of all parts of speech is 2.131437).
 
 The 1st highest number of forms (3) was observed with the lemma “l”: <em>'l, l, l'</em>.
 

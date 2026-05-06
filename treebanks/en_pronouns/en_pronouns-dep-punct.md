@@ -11,9 +11,9 @@ This relation is universal.
 320 nodes (19%) are attached to their parents as `punct`.
 
 310 instances of `punct` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.5.
+Average distance between parent and child is 2.515625.
 
-The following 4 pairs of parts of speech are connected with `punct`: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (230; 72% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (70; 22% instances), <tt><a href="en_pronouns-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (10; 3% instances), <tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (10; 3% instances).
+The following 5 pairs of parts of speech are connected with `punct`: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (225; 70% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (70; 22% instances), <tt><a href="en_pronouns-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (10; 3% instances), <tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (10; 3% instances), <tt><a href="en_pronouns-pos-ADV.html">ADV</a></tt>-<tt><a href="en_pronouns-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances).
 
 
 ~~~ conllu

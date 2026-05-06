@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Cătălina Mărănduc, Cenel-Augusto Perez, Victoria Bobicev, Cătălin Mititelu, Florinel Hociung, Valentin Roșca, Roman Untilov, Petru Rebeja.
 
 Repository: [UD_Romanian-Nonstandard](https://github.com/UniversalDependencies/UD_Romanian-Nonstandard)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_nonstandard217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_nonstandard218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -90,7 +90,7 @@ Also in October 2020 we addad the rest of the Ion Neculce's ”Chronicle” (174
 
 ## Relations
 
-[acl](ro_nonstandard-dep-acl.html) – [advcl](ro_nonstandard-dep-advcl.html) – [advcl:tcl](ro_nonstandard-dep-advcl-tcl.html) – [advmod](ro_nonstandard-dep-advmod.html) – [advmod:tmod](ro_nonstandard-dep-advmod-tmod.html) – [amod](ro_nonstandard-dep-amod.html) – [appos](ro_nonstandard-dep-appos.html) – [aux](ro_nonstandard-dep-aux.html) – [aux:pass](ro_nonstandard-dep-aux-pass.html) – [case](ro_nonstandard-dep-case.html) – [cc](ro_nonstandard-dep-cc.html) – [cc:preconj](ro_nonstandard-dep-cc-preconj.html) – [ccomp](ro_nonstandard-dep-ccomp.html) – [ccomp:pmod](ro_nonstandard-dep-ccomp-pmod.html) – [compound](ro_nonstandard-dep-compound.html) – [conj](ro_nonstandard-dep-conj.html) – [cop](ro_nonstandard-dep-cop.html) – [csubj](ro_nonstandard-dep-csubj.html) – [csubj:pass](ro_nonstandard-dep-csubj-pass.html) – [dep](ro_nonstandard-dep-dep.html) – [det](ro_nonstandard-dep-det.html) – [discourse](ro_nonstandard-dep-discourse.html) – [expl](ro_nonstandard-dep-expl.html) – [expl:impers](ro_nonstandard-dep-expl-impers.html) – [expl:pass](ro_nonstandard-dep-expl-pass.html) – [expl:poss](ro_nonstandard-dep-expl-poss.html) – [expl:pv](ro_nonstandard-dep-expl-pv.html) – [fixed](ro_nonstandard-dep-fixed.html) – [flat](ro_nonstandard-dep-flat.html) – [goeswith](ro_nonstandard-dep-goeswith.html) – [iobj](ro_nonstandard-dep-iobj.html) – [list](ro_nonstandard-dep-list.html) – [mark](ro_nonstandard-dep-mark.html) – [nmod](ro_nonstandard-dep-nmod.html) – [nmod:tmod](ro_nonstandard-dep-nmod-tmod.html) – [nsubj](ro_nonstandard-dep-nsubj.html) – [nsubj:pass](ro_nonstandard-dep-nsubj-pass.html) – [nummod](ro_nonstandard-dep-nummod.html) – [obj](ro_nonstandard-dep-obj.html) – [obl](ro_nonstandard-dep-obl.html) – [obl:agent](ro_nonstandard-dep-obl-agent.html) – [obl:pmod](ro_nonstandard-dep-obl-pmod.html) – [orphan](ro_nonstandard-dep-orphan.html) – [parataxis](ro_nonstandard-dep-parataxis.html) – [punct](ro_nonstandard-dep-punct.html) – [root](ro_nonstandard-dep-root.html) – [vocative](ro_nonstandard-dep-vocative.html) – [xcomp](ro_nonstandard-dep-xcomp.html)
+[acl](ro_nonstandard-dep-acl.html) – [advcl](ro_nonstandard-dep-advcl.html) – [advcl:tcl](ro_nonstandard-dep-advcl-tcl.html) – [advmod](ro_nonstandard-dep-advmod.html) – [advmod:tmod](ro_nonstandard-dep-advmod-tmod.html) – [amod](ro_nonstandard-dep-amod.html) – [appos](ro_nonstandard-dep-appos.html) – [aux](ro_nonstandard-dep-aux.html) – [aux:pass](ro_nonstandard-dep-aux-pass.html) – [case](ro_nonstandard-dep-case.html) – [cc](ro_nonstandard-dep-cc.html) – [cc:preconj](ro_nonstandard-dep-cc-preconj.html) – [ccomp](ro_nonstandard-dep-ccomp.html) – [ccomp:pmod](ro_nonstandard-dep-ccomp-pmod.html) – [compound](ro_nonstandard-dep-compound.html) – [conj](ro_nonstandard-dep-conj.html) – [cop](ro_nonstandard-dep-cop.html) – [csubj](ro_nonstandard-dep-csubj.html) – [csubj:pass](ro_nonstandard-dep-csubj-pass.html) – [dep](ro_nonstandard-dep-dep.html) – [det](ro_nonstandard-dep-det.html) – [discourse](ro_nonstandard-dep-discourse.html) – [expl](ro_nonstandard-dep-expl.html) – [expl:impers](ro_nonstandard-dep-expl-impers.html) – [expl:pass](ro_nonstandard-dep-expl-pass.html) – [expl:poss](ro_nonstandard-dep-expl-poss.html) – [expl:pv](ro_nonstandard-dep-expl-pv.html) – [fixed](ro_nonstandard-dep-fixed.html) – [flat](ro_nonstandard-dep-flat.html) – [goeswith](ro_nonstandard-dep-goeswith.html) – [iobj](ro_nonstandard-dep-iobj.html) – [list](ro_nonstandard-dep-list.html) – [mark](ro_nonstandard-dep-mark.html) – [nmod](ro_nonstandard-dep-nmod.html) – [nmod:tmod](ro_nonstandard-dep-nmod-tmod.html) – [nsubj](ro_nonstandard-dep-nsubj.html) – [nsubj:outer](ro_nonstandard-dep-nsubj-outer.html) – [nsubj:pass](ro_nonstandard-dep-nsubj-pass.html) – [nummod](ro_nonstandard-dep-nummod.html) – [obj](ro_nonstandard-dep-obj.html) – [obl](ro_nonstandard-dep-obl.html) – [obl:agent](ro_nonstandard-dep-obl-agent.html) – [obl:pmod](ro_nonstandard-dep-obl-pmod.html) – [orphan](ro_nonstandard-dep-orphan.html) – [parataxis](ro_nonstandard-dep-parataxis.html) – [punct](ro_nonstandard-dep-punct.html) – [root](ro_nonstandard-dep-root.html) – [vocative](ro_nonstandard-dep-vocative.html) – [xcomp](ro_nonstandard-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -128,7 +128,7 @@ Also in October 2020 we addad the rest of the Ion Neculce's ”Chronicle” (174
 </ul>
 
 <ul>
-<li>This corpus contains 146 lemmas tagged as pronouns (PRON): ,, -ul, -unul, Iș, Puținei, ac, acel, acela, același, acest, acesta, aceștia, aicela, alt, alta, altceva, altcineva, altuie, altul, alții, alțâi, atât, atâta, atâtea, ca, care, careaș, careș, ce, cei, ceilalți, cel, celi, celălalt, cestălalt, ceva, cevaș, cevași, ci, cine, cineva, cineş, cineș, cineși, cutare, cât, câtva, destul, dumnealor, dumnealui, dumneata, dumneavoastră, dânsa, dânsul, e1, ea, el, eluși, eu, fi, fiecare, fiece, fiecine, fieșcare, fieșcine, fiește, fieștecare, fieștecine, io, l, lui, lume, mata, meu, mine, mineși, mult, mă, măria, mărie, nemica, nemică, neșcine, neșcât, neștine, niciunul, niemic, nime, nimeni, nimic, nimicuța, nimică, noiși, nostru, nou, oare, oarecare, oarece, oarecine, oarecât, oricare, orice, oricine, oricât, orișicine, puțin, puținel, puțintel, se, sfinția, sfinție, sfânt, sieși, sine, sineși, singur, sinw, ssine, să, său, te, tot, totul, tu, tău, un, unul, voi, voiși, vostru, vrea, vreun, vreunul, îl, împărăție, însul, însumi, însuși, însuți, îş, îș, ăla, ălalalt, ăsta, și, șie</li>
+<li>This corpus contains 145 lemmas tagged as pronouns (PRON): ,, -ul, -unul, Iș, Puținei, ac, acel, acela, același, acest, acesta, aceștia, aicela, alt, alta, altceva, altcineva, altuie, altul, alții, alțâi, atât, atâta, atâtea, care, careaș, careș, ce, cei, ceilalți, cel, celi, celălalt, cestălalt, ceva, cevaș, cevași, ci, cine, cineva, cineş, cineș, cineși, cutare, cât, câtva, destul, dumnealor, dumnealui, dumneata, dumneavoastră, dânsa, dânsul, e1, ea, el, eluși, eu, fi, fiecare, fiece, fiecine, fieșcare, fieșcine, fiește, fieștecare, fieștecine, io, l, lui, lume, mata, meu, mine, mineși, mult, mă, măria, mărie, nemica, nemică, neșcine, neșcât, neștine, niciunul, niemic, nime, nimeni, nimic, nimicuța, nimică, noiși, nostru, nou, oare, oarecare, oarece, oarecine, oarecât, oricare, orice, oricine, oricât, orișicine, puțin, puținel, puțintel, se, sfinția, sfinție, sfânt, sieși, sine, sineși, singur, sinw, ssine, să, său, te, tot, totul, tu, tău, un, unul, voi, voiși, vostru, vrea, vreun, vreunul, îl, împărăție, însul, însumi, însuși, însuți, îş, îș, ăla, ălalalt, ăsta, și, șie</li>
 </ul>
 
 <ul>
@@ -736,7 +736,7 @@ Also in October 2020 we addad the rest of the Ion Neculce's ”Chronicle” (174
   <li>Plur
     <ul>
       <li>DET: nostru, voastră, noastră, voastre, vostru, noastre, noștri, voștri, miei, noștrii</li>
-      <li>PRON: nostru, noastră, noastre, voastră, noștri, voastre, vostru, ca, noştri</li>
+      <li>PRON: nostru, noastră, noastre, voastră, noștri, voastre, vostru, noştri</li>
     </ul>
   </li>
 </ul>
@@ -785,7 +785,15 @@ Also in October 2020 we addad the rest of the Ion Neculce's ”Chronicle” (174
     <ul>
       <li>ADP
         <ul>
-          <li>ADP: de, ca, fără, pe, pînă, de-, pentru, până, di, în</li>
+          <li>ADP: de, ca, de-, pe, pînă, în</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: de, pînă, într-, ca, cu, după, în, de-, până, întru</li>
+          <li>ADV: numai, așa, ca, când, de, tot, după</li>
+          <li>NOUN: loc</li>
+          <li>SCONJ: că</li>
         </ul>
       </li>
     </ul>
@@ -898,13 +906,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--PRON-Acc,Nom (1)</li>
       <li>VERB--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom (7966)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom (7950)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(ca) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(ca)-ADP(la) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(cu) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(către) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (5)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(din) (6)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(din) (4)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(dintre) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(drept) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(fără) (2)</li>
@@ -917,13 +925,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat,Gen (27)</li>
       <li>VERB-Fin--NOUN-Voc (3)</li>
       <li>VERB-Fin--PRON (38)</li>
-      <li>VERB-Fin--PRON-Acc (33)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (5592)</li>
+      <li>VERB-Fin--PRON-Acc (34)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (5586)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(ca) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(cu) (4)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (12)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(din) (2)</li>
-      <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (4)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (3)</li>
       <li>VERB-Fin--PRON-Dat (19)</li>
       <li>VERB-Fin--PRON-Dat,Gen (13)</li>
       <li>VERB-Fin--PRON-Gen (14)</li>
@@ -946,14 +954,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Dat,Gen (6)</li>
       <li>VERB-Inf--PRON (10)</li>
       <li>VERB-Inf--PRON-Acc (11)</li>
-      <li>VERB-Inf--PRON-Acc,Nom (998)</li>
+      <li>VERB-Inf--PRON-Acc,Nom (999)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(cu) (1)</li>
       <li>VERB-Inf--PRON-Acc,Nom-ADP(pe) (2)</li>
       <li>VERB-Inf--PRON-Dat (14)</li>
       <li>VERB-Inf--PRON-Dat,Gen (2)</li>
       <li>VERB-Inf--PRON-Gen (7)</li>
       <li>VERB-Inf--PRON-Nom (236)</li>
-      <li>VERB-Part--NOUN-Acc,Nom (2916)</li>
+      <li>VERB-Part--NOUN-Acc,Nom (2909)</li>
       <li>VERB-Part--NOUN-Acc,Nom-ADP(ca) (1)</li>
       <li>VERB-Part--NOUN-Acc,Nom-ADP(de) (1)</li>
       <li>VERB-Part--NOUN-Acc,Nom-ADP(din) (2)</li>
@@ -962,7 +970,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Voc (2)</li>
       <li>VERB-Part--PRON (3)</li>
       <li>VERB-Part--PRON-Acc (9)</li>
-      <li>VERB-Part--PRON-Acc,Nom (1344)</li>
+      <li>VERB-Part--PRON-Acc,Nom (1343)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(cu) (1)</li>
       <li>VERB-Part--PRON-Dat (11)</li>
       <li>VERB-Part--PRON-Dat,Gen (6)</li>
@@ -975,7 +983,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc,Nom (9050)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom (9057)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(cu) (5)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (9)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(de)-ADP(a) (1)</li>
@@ -989,14 +997,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat,Gen-ADP(înaintea) (1)</li>
       <li>VERB-Fin--NOUN-Voc (5)</li>
       <li>VERB-Fin--PRON (3)</li>
-      <li>VERB-Fin--PRON-Acc (5053)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (1601)</li>
+      <li>VERB-Fin--PRON-Acc (5051)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (1605)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(ca)-ADP(pe) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (3)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(din) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(fără) (1)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(la) (1)</li>
-      <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (1)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (2)</li>
       <li>VERB-Fin--PRON-Acc,Nom-ADP(pentru) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(de) (1)</li>
       <li>VERB-Fin--PRON-Acc-ADP(după) (1)</li>
@@ -1034,7 +1042,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Dat,Gen (3)</li>
       <li>VERB-Inf--PRON-Gen (3)</li>
       <li>VERB-Inf--PRON-Nom (5)</li>
-      <li>VERB-Part--NOUN-Acc,Nom (2785)</li>
+      <li>VERB-Part--NOUN-Acc,Nom (2790)</li>
       <li>VERB-Part--NOUN-Acc,Nom-ADP(ca) (1)</li>
       <li>VERB-Part--NOUN-Acc,Nom-ADP(cu) (1)</li>
       <li>VERB-Part--NOUN-Acc,Nom-ADP(cu)-ADP(de) (1)</li>
@@ -1044,8 +1052,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Dat,Gen (14)</li>
       <li>VERB-Part--NOUN-Voc (1)</li>
       <li>VERB-Part--PRON (1)</li>
-      <li>VERB-Part--PRON-Acc (2035)</li>
-      <li>VERB-Part--PRON-Acc,Nom (644)</li>
+      <li>VERB-Part--PRON-Acc (2034)</li>
+      <li>VERB-Part--PRON-Acc,Nom (645)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(de) (2)</li>
       <li>VERB-Part--PRON-Dat (72)</li>
       <li>VERB-Part--PRON-Dat,Gen (7)</li>
@@ -1057,7 +1065,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc,Nom (102)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom (103)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(a) (4)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(al) (1)</li>
       <li>VERB-Fin--NOUN-Acc,Nom-ADP(cu) (5)</li>
@@ -1112,7 +1120,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Dat,Gen-ADP(împotriva) (1)</li>
       <li>VERB-Part--NOUN-Voc (3)</li>
       <li>VERB-Part--PRON (1)</li>
-      <li>VERB-Part--PRON-Acc (115)</li>
+      <li>VERB-Part--PRON-Acc (116)</li>
       <li>VERB-Part--PRON-Acc,Nom (17)</li>
       <li>VERB-Part--PRON-Acc,Nom-ADP(pe) (1)</li>
       <li>VERB-Part--PRON-Dat (1563)</li>
@@ -1126,7 +1134,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 3285 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: face să, arăta să, duce să, chema să, da să, întoarce să, duce s-, scula să, zice să, ruga să, cădea să, teme să, întoarce s-, apropia să, bate să, mira să, întâmpla să, închina să, umple să, face s-, vedea să, dus s, cuveni să, duce se, duce mă, afla să, pune să, bucura să, sui să, ridica să, întoarce s, duce te, lepăda să, închina s-, ține să, pomeni s-, tocmi să, vindeca să, face se, socoti să, înturna să, aduna să, apuca s-, îndrepta să, chema se, judeca să, părea să, scula s-, ruga mă, întâmpla s-</li>
+  <li>This corpus contains 3286 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: face să, arăta să, duce să, chema să, da să, întoarce să, duce s-, scula să, zice să, ruga să, cădea să, teme să, întoarce s-, apropia să, bate să, mira să, întâmpla să, închina să, umple să, face s-, vedea să, dus s, cuveni să, duce se, duce mă, afla să, pune să, bucura să, sui să, ridica să, întoarce s, duce te, lepăda să, închina s-, ține să, pomeni s-, tocmi să, vindeca să, face se, socoti să, înturna să, aduna să, apuca s-, îndrepta să, chema se, judeca să, părea să, scula s-, ruga mă, întâmpla s-</li>
 </ul>
 
 <h3>Reflexive Passive</h3>
@@ -1144,6 +1152,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>advcl:tcl</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:pmod</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:poss</a>, <a>expl:pv</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:pmod</a></li>
+<li>This corpus uses 15 relation subtypes: <a>advcl:tcl</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:pmod</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:poss</a>, <a>expl:pv</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:pmod</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>reparandum</a></li>
 </ul>

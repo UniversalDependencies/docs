@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Abkhaz-AbNC: Relations: `ccomp:purp`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-ccomp.html">ccomp</a></tt>.
 There are also 6 other language-specific subtypes of `ccomp`: <tt><a href="ab_abnc-dep-ccomp-iobj.html">ccomp:iobj</a></tt>, <tt><a href="ab_abnc-dep-ccomp-lo.html">ccomp:lo</a></tt>, <tt><a href="ab_abnc-dep-ccomp-obj.html">ccomp:obj</a></tt>, <tt><a href="ab_abnc-dep-ccomp-poss.html">ccomp:poss</a></tt>, <tt><a href="ab_abnc-dep-ccomp-quote.html">ccomp:quote</a></tt>, <tt><a href="ab_abnc-dep-ccomp-ro.html">ccomp:ro</a></tt>.
 
-9 nodes (0%) are attached to their parents as `ccomp:purp`.
+10 nodes (0%) are attached to their parents as `ccomp:purp`.
 
-8 instances of `ccomp:purp` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.
+9 instances of `ccomp:purp` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.9.
 
-The following 1 pairs of parts of speech are connected with `ccomp:purp`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (9; 100% instances).
+The following 1 pairs of parts of speech are connected with `ccomp:purp`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (10; 100% instances).
 
 
 ~~~ conllu

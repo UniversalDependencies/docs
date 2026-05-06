@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Slav Petrov, Wolfgang Seeker, Ryan McDonald, Joakim Nivre, Daniel Zeman, Adriane Boyd, Verena Blaschke.
 
 Repository: [UD_German-GSD](https://github.com/UniversalDependencies/UD_German-GSD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_gsd217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_gsd218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -219,7 +219,7 @@ test: Reviews=s1-s301, News=s302-s977
       <li>NOUN: Teil, Ort, Menschen, Platz, Sohn, km, Namen, Anfang, Titel, Meter</li>
       <li>NUM: 50, 10, 28, 7, -10, -2288,9, -60, 0:2, 0:3, 1</li>
       <li>PRON: er, der, ihm, ihn, dem, dessen, den, ich, wer, sie</li>
-      <li>PROPN: Oktober, US, August, Mai, November, September, Juli, Peter, Weltkrieg, Johann</li>
+      <li>PROPN: US, Peter, Weltkrieg, Johann, FC, Karl, Paul, USA, Hans, John</li>
       <li>SYM: :-), o, °, ·</li>
       <li>X: :-), B., :), ???a?, ??µ?????, A, Fr, Hauswurde, Hl, Min</li>
     </ul>
@@ -281,7 +281,7 @@ test: Reviews=s1-s301, News=s302-s977
       <li>NOUN-Fin: mag, Jahrhundert, War, 3/8-Takte, Erbvogt, Flotte, Gemüt, Kam, Komme, Liegt</li>
       <li>NUM: 3, ², 10, 2, 35, 50, Million, 15, 1:1, 28</li>
       <li>PRON: er, es, sie, ich, der, die, man, das, was, ihm</li>
-      <li>PROPN: Deutschland, Berlin, US, SPD, St., Oktober, Frankreich, August, Mai, New</li>
+      <li>PROPN: Deutschland, Berlin, US, SPD, St., Frankreich, New, Peter, Weltkrieg, Johann</li>
       <li>PROPN-Fin: ist, 1st, EVTA, Gibt, Glaube, Kambodschas, Kemble, Sankt, Verzeih, aG</li>
       <li>SYM: :-), o, ·, ×</li>
       <li>VERB-Fin: wurde, gibt, hat, liegt, kam, hatte, gab, war, erhielt, befindet</li>
@@ -305,7 +305,7 @@ test: Reviews=s1-s301, News=s302-s977
       <li>NOUN: Jahre, Zeit, Ende, jahr, Platz, Anfang, %, Meter, tage, Rolle</li>
       <li>NUM: 15, 3, Millionen, ², 0:2, 10, 100, 1834-1911, 1:30200000, 2</li>
       <li>PRON: sich, ihn, die, es, mich, sie, das, was, uns, den</li>
-      <li>PROPN: US, USA, Euro, Deutschland, Mai, Oktober, Award, März, Cup, Deutsche</li>
+      <li>PROPN: US, USA, Euro, Deutschland, Award, Cup, Deutsche, FC, St., College</li>
       <li>SYM: %</li>
       <li>X: %, €, E, S, inkl, post</li>
     </ul>
@@ -324,7 +324,7 @@ test: Reviews=s1-s301, News=s302-s977
       <li>NOUN: Jahr, Jahren, Zeit, Jahre, Saison, Ende, Stadt, Familie, Teil, Ort</li>
       <li>NUM: 1:1, 8, Millionen, ², +7,6, -10, -2288,9, -60, 0:3, 1</li>
       <li>PRON: sich, ihm, dem, mir, der, denen, ihnen, uns, ihr, den</li>
-      <li>PROPN: Deutschland, Berlin, Frankreich, Oktober, Weltkrieg, München, New, Paris, Mai, November</li>
+      <li>PROPN: Deutschland, Berlin, Frankreich, Weltkrieg, München, New, Paris, London, US, Österreich</li>
       <li>SYM: °, ·</li>
       <li>X: B., %, Chr, Abs, #, 4Jahren, A, B, E, Fe</li>
     </ul>
@@ -357,7 +357,7 @@ test: Reviews=s1-s301, News=s302-s977
       <li>NOUN: Teil, Sohn, Mitglied, Stadt, Menschen, Ort, Gemeinde, Frau, Unternehmen, Präsident</li>
       <li>NUM: 10, Millionen, 20, 28, 35, 6, -9, 1, 1.681.469, 1000</li>
       <li>PRON: er, sie, es, die, ich, man, der, wir, das, was</li>
-      <li>PROPN: SPD, US, Hans, Peter, Paul, Deutschland, Johann, Juli, Wilhelm, Karl</li>
+      <li>PROPN: SPD, US, Hans, Peter, Paul, Deutschland, Johann, Wilhelm, Karl, CDU</li>
       <li>SYM: %, :-), o, ×</li>
       <li>X: B., :-), S., tunga, u, usw, %, :), ???????, ???a?</li>
     </ul>
@@ -913,7 +913,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(bis)-ADP(zu) (2)</li>
       <li>VERB-Fin--NOUN-Dat (20)</li>
       <li>VERB-Fin--NOUN-Gen (21)</li>
-      <li>VERB-Fin--NOUN-Nom (4265)</li>
+      <li>VERB-Fin--NOUN-Nom (4266)</li>
       <li>VERB-Fin--PRON (10)</li>
       <li>VERB-Fin--PRON-Acc (44)</li>
       <li>VERB-Fin--PRON-Dat (3)</li>
@@ -924,7 +924,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Acc-ADP(über) (1)</li>
       <li>VERB-Inf--NOUN-Dat (2)</li>
       <li>VERB-Inf--NOUN-Gen (3)</li>
-      <li>VERB-Inf--NOUN-Nom (416)</li>
+      <li>VERB-Inf--NOUN-Nom (417)</li>
       <li>VERB-Inf--PRON (4)</li>
       <li>VERB-Inf--PRON-Acc (12)</li>
       <li>VERB-Inf--PRON-Dat (1)</li>
@@ -965,7 +965,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Dat (15)</li>
       <li>VERB-Fin--PRON-Nom (42)</li>
       <li>VERB-Inf--NOUN (8)</li>
-      <li>VERB-Inf--NOUN-Acc (1091)</li>
+      <li>VERB-Inf--NOUN-Acc (1092)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(in) (1)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(zwischen) (1)</li>
       <li>VERB-Inf--NOUN-Dat (18)</li>
@@ -976,7 +976,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Dat (8)</li>
       <li>VERB-Inf--PRON-Nom (9)</li>
       <li>VERB-Part--NOUN (3)</li>
-      <li>VERB-Part--NOUN-Acc (434)</li>
+      <li>VERB-Part--NOUN-Acc (435)</li>
       <li>VERB-Part--NOUN-Acc-ADP(für) (1)</li>
       <li>VERB-Part--NOUN-Dat (7)</li>
       <li>VERB-Part--NOUN-Nom (47)</li>

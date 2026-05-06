@@ -22,15 +22,15 @@ The following 6 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 cc:preconj	color:blue
-1	sunàː	_	AUX	nàː	Aspect=Prog|Number=Plur|Person=3	4	cop	_	Gloss=3Plur.Prog.do
+1	sunàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=3	4	aux	_	Copula=Yes|Gloss=3Plur.Prog.do
 2	mâː	mâː	ADP	_	_	3	case	_	Gloss=Dat
-3	maːlàm	maːlàmiː	NOUN	_	Definite=Ind|Gender=Masc	4	obl:arg	_	Gloss=malam.Masc
-4	àbunci	àbunci	NOUN	_	Definite=Ind|Gender=Masc	0	root	_	Gloss=food.Masc
+3	maːlàm	maːlàmiː	NOUN	_	Gender=Masc	4	obl:arg	_	Gloss=malam.Masc
+4	àbunci	àbunci	NOUN	_	Gender=Masc	0	root	_	Gloss=food.Masc|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
 6	dà	dà	CCONJ	_	_	7	cc:preconj	_	Gloss=and
 7	ita	ita	PRON	_	Gender=Fem|Person=3	4	dislocated	_	Gloss=3Fem
 8	dà	dà	CCONJ	_	_	9	cc	_	Gloss=and
-9	bâiwaː	bàiwaː	NOUN	_	Definite=Ind|Gender=Fem	7	conj	_	Gloss=slave.Fem|wordform=bàiwaː
+9	bâiwaː	bàiwaː	NOUN	_	Gender=Fem	7	conj	_	Gloss=slave.Fem|SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 ~~~
@@ -43,23 +43,23 @@ The following 6 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 1 cc:preconj	color:blue
 1	koː	koː	CCONJ	_	_	2	cc:preconj	_	Gloss=or
-2	ɗiyaːnai	ɗiyaːnai	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur|Person=3	0	root	_	Gloss=daughter/seed.Plur.3Masc.Poss|wordform=ɗiyaː
-3	akà	_	AUX	kà	Aspect=ProgBkg|Person=4	4	aux	_	Background=Yes|Gloss=4.ProgBkg
-4	aikìː	aikìː	NOUN	_	Definite=Ind|Gender=Masc	2	advcl:cleft	_	Gloss=work.Masc
+2	ɗiyaːnai	ɗiyaː	NOUN	_	Gender=Masc	0	root	_	CaseAf=Gen|GenderAf=Masc|Gloss=daughter/seed.Plur.Cons-3MascGen|MSeg=ɗiyaːn-ai|PersonAf=3|Poss=Yes
+3	akà	nàː	AUX	_	Aspect=Prog|Person=4	4	aux	_	Gloss=4.Prog.Rel|Relative=Yes
+4	aikìː	aikìː	NOUN	_	Gender=Masc	2	advcl:cleft	_	Gloss=work.Masc
 5	dà	dà	ADP	_	_	6	case	_	Gloss=with
 6	suː	suː	PRON	_	Number=Plur|Person=3	4	obl:arg	_	Gloss=3Plur
 7	?	?	PUNCT	_	_	9	punct	_	Gloss=?
 8	koː	koː	CCONJ	_	_	9	cc	_	Gloss=or
-9	saːyèː	saːyèː	NOUN	_	Definite=Ind|Gender=Masc	2	conj	_	Gloss=root.Masc
+9	saːyèː	saːyèː	NOUN	_	Gender=Masc	2	conj	_	Gloss=root.Masc
 10	?	?	PUNCT	_	_	12	punct	_	Gloss=?
 11	koː	koː	CCONJ	_	_	12	cc	_	Gloss=or
-12	iccèː	iccèː	NOUN	_	Definite=Ind|Gender=Masc	2	conj	_	Gloss=tree/stick.Masc
+12	iccèː	iccèː	NOUN	_	Gender=Masc	2	conj	_	Gloss=tree/stick.Masc
 13	?	?	PUNCT	_	_	15	punct	_	Gloss=?
 14	koː	koː	CCONJ	_	_	15	cc	_	Gloss=or
-15	kunnài	kunnài	NOUN	_	Definite=Ind|Number=Plur	2	conj	_	Gloss=leaf.Plur
+15	kunnài	kunnài	NOUN	_	Number=Plur	2	conj	_	Gloss=leaf.Plur
 16	?	?	PUNCT	_	_	18	punct	_	Gloss=?
 17	koː	koː	CCONJ	_	_	18	cc	_	Gloss=or
-18	ɓaːwaː	ɓaːwaː	NOUN	_	Definite=Ind|Gender=Fem	2	conj	_	Gloss=bark.Fem
+18	ɓaːwaː	ɓaːwaː	NOUN	_	Gender=Fem	2	conj	_	Gloss=bark.Fem
 19	?	?	PUNCT	_	_	2	punct	_	Gloss=?
 
 ~~~
@@ -72,23 +72,23 @@ The following 6 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 1 cc:preconj	color:blue
 1	koː	koː	CCONJ	_	_	3	cc:preconj	_	Gloss=or
-2	à	_	AUX	ø	Aspect=Aor|Person=4	3	aux	_	Gloss=4.Aor
+2	à	yà	AUX	_	Mood=Sub|Person=4	3	aux	_	Gloss=4.Sub
 3	sâː	sâː	VERB	_	_	0	root	_	Gloss=put
 4	gà	gà	ADP	_	_	5	case	_	Gloss=at
-5	naːmàː	naːmàː	NOUN	_	Definite=Ind|Gender=Masc	3	obl:arg	_	Gloss=meat.Masc
+5	naːmàː	naːmàː	NOUN	_	Gender=Masc	3	obl:arg	_	Gloss=meat.Masc|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
 7	koː	koː	CCONJ	_	_	9	cc	_	Gloss=or
 8	gà	gà	ADP	_	_	9	case	_	Gloss=at
-9	tuwoː	tuwoː	NOUN	_	Definite=Ind|Gender=Masc	5	conj	_	Gloss=porridge.Masc
+9	tuwoː	tuwoː	NOUN	_	Gender=Masc	5	conj	_	Gloss=porridge.Masc|SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	Gloss=PUNCT
 11	koː	koː	CCONJ	_	_	13	cc	_	Gloss=or
 12	gà	gà	ADP	_	_	13	case	_	Gloss=at
-13	miyàː	miyàː	NOUN	_	Definite=Ind|Gender=Masc	5	conj	_	Gloss=sauce.Masc
+13	miyàː	miyàː	NOUN	_	Gender=Masc	5	conj	_	Gloss=sauce.Masc|SpaceAfter=No
 14	,	,	PUNCT	_	_	17	punct	_	Gloss=PUNCT
 15	koː	koː	CCONJ	_	_	17	cc	_	Gloss=or
 16	gà	gà	ADP	_	_	17	case	_	Gloss=at
-17	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	5	conj	_	Gloss=water.Plur|wordform=ruwa
-18	naːmàː	naːmàː	NOUN	_	Definite=Ind|Gender=Masc	17	nmod	_	Gloss=meat.Masc
+17	ruwan	ruwaː	NOUN	_	Definite=Cons|Number=Plur	5	conj	_	Gloss=water.Plur
+18	naːmàː	naːmàː	NOUN	_	Gender=Masc	17	nmod	_	Gloss=meat.Masc|SpaceAfter=No
 19	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~

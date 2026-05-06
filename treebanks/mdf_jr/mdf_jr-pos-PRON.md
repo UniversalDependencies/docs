@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Moksha-JR: POS Tags: `PRON`
 
-There are 29 `PRON` lemmas (2%), 71 `PRON` types (3%) and 228 `PRON` tokens (5%).
+There are 30 `PRON` lemmas (2%), 73 `PRON` types (3%) and 236 `PRON` tokens (5%).
 Out of 16 observed tags, the rank of `PRON` is: 7 in number of lemmas, 6 in number of types and 6 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: <em>сон, мон, тон, тя, мезе, ся, сембе, кона, кивок, кие</em>
@@ -15,7 +15,7 @@ The 10 most frequent `PRON` types:  <em>сон, мон, сонь, тя, синь
 
 The 10 most frequent ambiguous lemmas: <em>тон</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 21, <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 3), <em>тя</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 21, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 5), <em>ся</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 11, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2), <em>сембе</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 9, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1), <em>иля</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>кафцьке</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 3, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>ки</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>кой-кона</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>лия</em> (<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>ня</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>тя</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 13, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1), <em>ся</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 7, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1), <em>тон</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 5, <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Ня</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>кафцьке</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>кой-кона</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>сембе</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>эсь</em> (<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>тя</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 13, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1), <em>ся</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 7, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1), <em>тон</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 5, <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Ня</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>кафцьке</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>кой-кона</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>сембе</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>эсь</em> (<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1)
 
 
 * <em>тя</em>
@@ -41,37 +41,37 @@ The 10 most frequent ambiguous types:  <em>тя</em> (<tt><a href="mdf_jr-pos-PR
   * <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1: <em>Сясы синь <b>сембе</b> и лётчикт , и космонавтт .</em>
   * <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1: <em>Катк <b>сембе</b> няйсазь , коза серьгядезь Мулёвть , катк каяйхть сельме сонь лангозонза .</em>
 * <em>эсь</em>
-  * <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> 2: <em>Мярьгсть , бабай , архт <b>эсь</b> кигат и архт ...</em>
+  * <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> 4: <em>Мярьгсть , бабай , архт <b>эсь</b> кигат и архт ...</em>
   * <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1: <em>Мзярда кулезе <b>эсь</b> фамилиянц , Тумкин тись аськолкс инголи .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.448276 (the average of all parts of speech is 1.555478).
+The form / lemma ratio of `PRON` is 2.433333 (the average of all parts of speech is 1.563574).
 
-The 1st highest number of forms (10) was observed with the lemma “сон”: <em>Сондеенза, Сондейнза, синь, синьге, сон, сонь, теенза, теест, тейнза, тейст</em>.
+The 1st highest number of forms (11) was observed with the lemma “сон”: <em>Сондеенза, Сондейнза, синь, синьге, сон, сонценнеть, сонь, теенза, теест, тейнза, тейст</em>.
 
 The 2nd highest number of forms (8) was observed with the lemma “мон”: <em>Мондейне, Тейне, минь, мон, мондедон, монь, моньге, теень</em>.
 
 The 3rd highest number of forms (7) was observed with the lemma “тон”: <em>тейнть, тейть, тинь, тон, тонга, тондейть, тонь</em>.
 
-`PRON` occurs with 14 features: <tt><a href="mdf_jr-feat-PronType.html">PronType</a></tt> (228; 100% instances), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt> (222; 97% instances), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt> (220; 96% instances), <tt><a href="mdf_jr-feat-Person.html">Person</a></tt> (134; 59% instances), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt> (60; 26% instances), <tt><a href="mdf_jr-feat-Variant.html">Variant</a></tt> (24; 11% instances), <tt><a href="mdf_jr-feat-Reflex.html">Reflex</a></tt> (8; 4% instances), <tt><a href="mdf_jr-feat-Clitic.html">Clitic</a></tt> (7; 3% instances), <tt><a href="mdf_jr-feat-NumType.html">NumType</a></tt> (2; 1% instances), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt> (2; 1% instances), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt> (2; 1% instances), <tt><a href="mdf_jr-feat-Animacy.html">Animacy</a></tt> (1; 0% instances), <tt><a href="mdf_jr-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances), <tt><a href="mdf_jr-feat-Style.html">Style</a></tt> (1; 0% instances)
+`PRON` occurs with 15 features: <tt><a href="mdf_jr-feat-PronType.html">PronType</a></tt> (236; 100% instances), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt> (229; 97% instances), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt> (228; 97% instances), <tt><a href="mdf_jr-feat-Person.html">Person</a></tt> (138; 58% instances), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt> (61; 26% instances), <tt><a href="mdf_jr-feat-Variant.html">Variant</a></tt> (24; 10% instances), <tt><a href="mdf_jr-feat-Reflex.html">Reflex</a></tt> (9; 4% instances), <tt><a href="mdf_jr-feat-Clitic.html">Clitic</a></tt> (7; 3% instances), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt> (3; 1% instances), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt> (3; 1% instances), <tt><a href="mdf_jr-feat-NumType.html">NumType</a></tt> (2; 1% instances), <tt><a href="mdf_jr-feat-Animacy.html">Animacy</a></tt> (1; 0% instances), <tt><a href="mdf_jr-feat-Derivation.html">Derivation</a></tt> (1; 0% instances), <tt><a href="mdf_jr-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances), <tt><a href="mdf_jr-feat-Style.html">Style</a></tt> (1; 0% instances)
 
-`PRON` occurs with 35 feature-value pairs: `Animacy=Hum`, `Case=Abl`, `Case=Cau`, `Case=Cmp`, `Case=Dat`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Clitic=Add`, `Clitic=AddGA`, `Definite=Def`, `Definite=Ind`, `ExtPos=PRON`, `NumType=Sets`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=2`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Style=Ped`, `Variant=Long`, `Variant=Short`
+`PRON` occurs with 37 feature-value pairs: `Animacy=Hum`, `Case=Abl`, `Case=Cau`, `Case=Cmp`, `Case=Dat`, `Case=Gen`, `Case=Ill`, `Case=Ine`, `Case=Nom`, `Clitic=Add`, `Clitic=AddGA`, `Definite=Def`, `Definite=Ind`, `Derivation=Poss`, `ExtPos=PRON`, `NumType=Sets`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Person[psor]=2`, `Person[psor]=3`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Style=Ped`, `Variant=Long`, `Variant=Short`
 
-`PRON` occurs with 69 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing|Person=3|PronType=Prs` (29 tokens).
+`PRON` occurs with 71 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing|Person=3|PronType=Prs` (32 tokens).
 Examples: <em>сон, тон</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 18 different relations: <tt><a href="mdf_jr-dep-nsubj.html">nsubj</a></tt> (87; 38% instances), <tt><a href="mdf_jr-dep-det.html">det</a></tt> (27; 12% instances), <tt><a href="mdf_jr-dep-obl.html">obl</a></tt> (27; 12% instances), <tt><a href="mdf_jr-dep-obj.html">obj</a></tt> (20; 9% instances), <tt><a href="mdf_jr-dep-nmod.html">nmod</a></tt> (13; 6% instances), <tt><a href="mdf_jr-dep-nmod-poss.html">nmod:poss</a></tt> (10; 4% instances), <tt><a href="mdf_jr-dep-obl-agent.html">obl:agent</a></tt> (10; 4% instances), <tt><a href="mdf_jr-dep-root.html">root</a></tt> (9; 4% instances), <tt><a href="mdf_jr-dep-conj.html">conj</a></tt> (8; 4% instances), <tt><a href="mdf_jr-dep-nsubj-cop.html">nsubj:cop</a></tt> (6; 3% instances), <tt><a href="mdf_jr-dep-obl-cmp.html">obl:cmp</a></tt> (3; 1% instances), <tt><a href="mdf_jr-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="mdf_jr-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="mdf_jr-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="mdf_jr-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="mdf_jr-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="mdf_jr-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="mdf_jr-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
+`PRON` nodes are attached to their parents using 19 different relations: <tt><a href="mdf_jr-dep-nsubj.html">nsubj</a></tt> (89; 38% instances), <tt><a href="mdf_jr-dep-obl.html">obl</a></tt> (30; 13% instances), <tt><a href="mdf_jr-dep-det.html">det</a></tt> (27; 11% instances), <tt><a href="mdf_jr-dep-obj.html">obj</a></tt> (22; 9% instances), <tt><a href="mdf_jr-dep-nmod.html">nmod</a></tt> (13; 6% instances), <tt><a href="mdf_jr-dep-nmod-poss.html">nmod:poss</a></tt> (10; 4% instances), <tt><a href="mdf_jr-dep-obl-agent.html">obl:agent</a></tt> (10; 4% instances), <tt><a href="mdf_jr-dep-root.html">root</a></tt> (9; 4% instances), <tt><a href="mdf_jr-dep-conj.html">conj</a></tt> (8; 3% instances), <tt><a href="mdf_jr-dep-nsubj-cop.html">nsubj:cop</a></tt> (6; 3% instances), <tt><a href="mdf_jr-dep-obl-cmp.html">obl:cmp</a></tt> (3; 1% instances), <tt><a href="mdf_jr-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="mdf_jr-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="mdf_jr-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="mdf_jr-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="mdf_jr-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="mdf_jr-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="mdf_jr-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="mdf_jr-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 7 different parts of speech: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (149; 65% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (56; 25% instances),  (9; 4% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (2; 1% instances)
+Parents of `PRON` nodes belong to 7 different parts of speech: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (156; 66% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (57; 24% instances),  (9; 4% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (2; 1% instances)
 
-191 (84%) `PRON` nodes are leaves.
+199 (84%) `PRON` nodes are leaves.
 
-15 (7%) `PRON` nodes have one child.
+15 (6%) `PRON` nodes have one child.
 
 4 (2%) `PRON` nodes have two children.
 

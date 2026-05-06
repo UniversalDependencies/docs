@@ -122,7 +122,7 @@ The following 4 pairs of parts of speech are connected with `parataxis:reporting
 22	videtur	uideo	VERB	vp2ips3	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	14	acl:relcl	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 23	,	,	PUNCT	Pu	_	9	punct	_	_
 24	prelationis	praelatio	NOUN	sfs3g	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	25	nmod	_	_
-25	honore	honos	NOUN	sms3b	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	27	obl:arg	_	_
+25	honore	honor	NOUN	sms3b	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	27	obl:arg	_	_
 26	minime	parum	ADV	rs	Degree=Abs	27	advmod	_	_
 27	dignum	dignus	ADJ	ans1n	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	2	ccomp	_	_
 28	est	sum	AUX	va5ips3	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens

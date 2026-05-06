@@ -11,7 +11,7 @@ This relation is universal.
 1000 nodes (4%) are attached to their parents as `root`.
 
 1000 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.641.
+Average distance between parent and child is 8.642.
 
 The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (858; 86% instances), -<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (71; 7% instances), -<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (58; 6% instances), -<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (7; 1% instances), -<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), -<tt><a href="fr_pud-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
@@ -61,12 +61,12 @@ The following 7 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0 15 root	color:blue
 1	Ce	ce	PRON	PDEM	PronType=Dem	15	nsubj	_	wordform=ce
 2	qu'	que	PRON	WP	PronType=Rel	4	obj	_	SpaceAfter=No
-3	elle	il	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	elle	lui	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 4	dit	dire	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
 5	et	et	CCONJ	CC	_	6	cc	_	_
 6	ce	ce	PRON	PDEM	PronType=Dem	1	conj	_	_
 7	qu'	que	PRON	WP	PronType=Rel	9	obj	_	SpaceAfter=No
-8	elle	il	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+8	elle	lui	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 9	fait	faire	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	SpaceAfter=No
 10	,	,	PUNCT	,	_	11	punct	_	_
 11	réellement	réellement	ADV	RB	_	15	advmod	_	SpaceAfter=No

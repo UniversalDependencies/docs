@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Bernard Caron, Emmett Strickland, Marine Courtin, Kim Gerdes, Bruno Guillaume, Sylvain Kahane, Chika Kennedy Ajede, Emeka Onwuegbuzia, Samson Tella.
 
 Repository: [UD_Naija-NSC](https://github.com/UniversalDependencies/UD_Naija-NSC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpcm_nsc218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -772,7 +772,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(on) (2)</li>
       <li>VERB--PRON (348)</li>
       <li>VERB--PRON-Acc (52)</li>
-      <li>VERB--PRON-Nom (9313)</li>
+      <li>VERB--PRON-Nom (9312)</li>
+      <li>VERB--PRON-Nom-ADP(in) (1)</li>
       <li>VERB-Fin--NOUN (38)</li>
       <li>VERB-Fin--PRON (17)</li>
       <li>VERB-Fin--PRON-Nom (37)</li>
@@ -786,12 +787,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (3915)</li>
+      <li>VERB--NOUN (3916)</li>
       <li>VERB--NOUN-ADP(for) (1)</li>
       <li>VERB--NOUN-ADP(if) (1)</li>
       <li>VERB--NOUN-ADP(more) (3)</li>
       <li>VERB--NOUN-ADP(sey) (11)</li>
-      <li>VERB--NOUN-ADP(wey) (1)</li>
       <li>VERB--NOUN-Gen (1)</li>
       <li>VERB--PRON (376)</li>
       <li>VERB--PRON-ADP(sey) (13)</li>

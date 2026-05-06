@@ -69,7 +69,7 @@ The most frequent other feature values with which `ADJ` and `Mood` co-occurred: 
 `ADJ` tokens may have the following values of `Mood`:
 
 * `Ind` (1; 100% of non-empty `Mood`): <em>förödmjukade</em>
-* `EMPTY` (7154): <em>andra, själv, hela, samma, första, annat, många, enda, stor, flera</em>
+* `EMPTY` (7157): <em>andra, själv, hela, samma, första, annat, många, enda, stor, flera</em>
 
 ## Relations with Agreement in `Mood`
 

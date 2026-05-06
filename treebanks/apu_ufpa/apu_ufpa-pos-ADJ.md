@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `ADJ`
 
-There are 5 `ADJ` lemmas (2%), 5 `ADJ` types (1%) and 5 `ADJ` tokens (1%).
-Out of 16 observed tags, the rank of `ADJ` is: 7 in number of lemmas, 9 in number of types and 11 in number of tokens.
+There are 5 `ADJ` lemmas (2%), 5 `ADJ` types (1%) and 5 `ADJ` tokens (0%).
+Out of 16 observed tags, the rank of `ADJ` is: 7 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>Kinhakarypa, ataũ, atuku, tsuka, ãtukyry</em>
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>atuku</em> (<tt><a href="apu_ufpa-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.250825).
+The form / lemma ratio of `ADJ` is 1.000000 (the average of all parts of speech is 1.264438).
 
 The 1st highest number of forms (1) was observed with the lemma “Kinhakarypa”: <em>Kinhakarypa</em>.
 

@@ -29,9 +29,9 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 4	fait	faire	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	5	aux:caus	_	Tense[denom]=Past
 5	poser	poser	VERB	_	VerbForm=Inf	0	root	_	Subject=Generic
 6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	_
-7	points	point	NOUN	_	Number=Plur	5	obj	_	Gender[lex]=Masc
+7	points	point	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	Exponence[Gender]=Inherent
 8	de	de	ADP	_	_	9	case	_	_
-9	suture	suture	NOUN	_	Number=Sing	7	nmod	_	Gender[lex]=Fem|SpaceAfter=No
+9	suture	suture	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 9	fgColor:white
 # visual-style 9 2 nsubj:caus	color:blue
 1	Son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	2	det	_	wordform=son
-2	entourage	entourage	NOUN	_	Number=Sing	9	nsubj:caus	_	Gender[lex]=Masc|SpaceAfter=No
+2	entourage	entourage	NOUN	_	Gender=Masc|Number=Sing	9	nsubj:caus	_	Exponence[Gender]=Inherent|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	enfants	enfant	NOUN	_	Number=Plur	2	conj	_	_
@@ -64,12 +64,12 @@ The following 3 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 2 nsubj:caus	color:blue
 1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	wordform=les
-2	Metelli	Metelli	PROPN	_	Number=Plur	5	nsubj:caus	_	Gender[lex]=Unknown
+2	Metelli	Metelli	PROPN	_	Number=Plur	5	nsubj:caus	_	_
 3	le	lui	PRON	_	Case=Acc|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
 4	font	faire	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:caus	_	_
 5	emprisonner	emprisonner	VERB	_	VerbForm=Inf	0	root	_	Subject=Generic
 6	en	en	ADP	_	_	7	case	_	_
-7	205	205	NUM	_	_	5	obl:mod	_	Number[lex]=Sing|SpaceAfter=No
+7	205	205	NUM	_	Number=Sing	5	obl:mod	_	Exponence[Number]=Inherent|SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

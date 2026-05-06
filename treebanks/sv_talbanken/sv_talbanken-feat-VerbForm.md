@@ -11,18 +11,18 @@ It occurs with 5 different values: `Fin`, `Inf`, `Part`, `Stem`, `Sup`.
 
 15423 tokens (16%) have a non-empty value of `VerbForm`.
 3261 types (22%) occur at least once with a non-empty value of `VerbForm`.
-1723 lemmas (16%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (9779; 10% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (4363; 5% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (1274; 1% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (7; 0% instances).
+1725 lemmas (16%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 4 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (9778; 10% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (4364; 5% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (1274; 1% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (7; 0% instances).
 
 ### `VERB`
 
-9779 <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+9778 <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7960; 81%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5563; 57%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4908; 50%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7959; 81%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5562; 57%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4907; 50%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (5766; 59% of non-empty `VerbForm`): <em>har, finns, blir, får, gäller, behöver, ger, går, kommer, gör</em>
+* `Fin` (5765; 59% of non-empty `VerbForm`): <em>har, finns, blir, får, gäller, behöver, ger, går, kommer, gör</em>
 * `Inf` (3162; 32% of non-empty `VerbForm`): <em>få, ha, bli, göra, ge, ta, komma, gå, se, finnas</em>
 * `Part` (39; 0% of non-empty `VerbForm`): <em>påverkade, vald, vänd, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade, frusterade</em>
 * `Stem` (1; 0% of non-empty `VerbForm`): <em>läs-</em>
@@ -38,13 +38,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-4363 <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+4364 <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4363; 100%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3931; 90%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3552; 81%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4364; 100%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3932; 90%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3553; 81%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (3943; 90% of non-empty `VerbForm`): <em>är, kan, har, måste, skall, skulle, ska, var, kommer, får</em>
+* `Fin` (3944; 90% of non-empty `VerbForm`): <em>är, kan, har, måste, skall, skulle, ska, var, kommer, får</em>
 * `Inf` (330; 8% of non-empty `VerbForm`): <em>vara, kunna, få, ha, bli, vilja, komma</em>
 * `Sup` (90; 2% of non-empty `VerbForm`): <em>varit, kunnat, fått, kommit, blivit, velat</em>
 

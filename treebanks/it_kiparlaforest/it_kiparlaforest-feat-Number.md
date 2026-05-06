@@ -9,84 +9,88 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-4483 tokens (48%) have a non-empty value of `Number`.
-1131 types (67%) occur at least once with a non-empty value of `Number`.
-772 lemmas (62%) occur at least once with a non-empty value of `Number`.
-The feature is used with 11 part-of-speech tags: <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1066; 11% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (943; 10% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (816; 9% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (688; 7% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> (555; 6% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (379; 4% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (19; 0% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+9580 tokens (51%) have a non-empty value of `Number`.
+2083 types (72%) occur at least once with a non-empty value of `Number`.
+1450 lemmas (69%) occur at least once with a non-empty value of `Number`.
+The feature is used with 12 part-of-speech tags: <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (2328; 12% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (1990; 11% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (1900; 10% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1339; 7% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> (1012; 5% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (836; 4% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (107; 1% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (33; 0% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (30; 0% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-1066 <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> tokens (88% of all `NOUN` tokens) have a non-empty value of `Number`.
+2328 <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> tokens (87% of all `NOUN` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1252; 54%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (246; 23% of non-empty `Number`): <em>anni, minuti, persone, piedi, eventi, famiglie, ore, volte, edifici, sottotitoli</em>
-* `Sing` (820; 77% of non-empty `Number`): <em>tipo, casa, centro, cosa, parte, realtà, senso, zona, via, macchina</em>
-* `EMPTY` (152): <em>città, po', realtà, università, audio, cazzo, facoltà, possibilità, autobus, film</em>
+* `Plur` (601; 26% of non-empty `Number`): <em>anni, dialetti, cose, persone, iscrizioni, segni, lingue, sassi, bambini, arabi</em>
+* `Sing` (1727; 74% of non-empty `Number`): <em>tipo, casa, lingua, cosa, arabo, parte, centro, alfabeto, sacco, senso</em>
+* `EMPTY` (340): <em>città, po', realtà, università, nord, sud, serie, brokering, luban, tesi</em>
 
 <table>
-  <tr><th>Paradigm <i>casa</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>casa</em></td><td><em>case, casette</em></td></tr>
-</table>
-
-### `VERB`
-
-943 <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (743; 79%), <tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (736; 78%), <tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (649; 69%), <tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (638; 68%).
-
-`VERB` tokens may have the following values of `Number`:
-
-* `Plur` (131; 14% of non-empty `Number`): <em>diciamo, sono, stanno, stiamo, son, abbiamo, avete, erano, hanno, siano</em>
-* `Sing` (812; 86% of non-empty `Number`): <em>è, so, detto, fa, ha, penso, sta, era, fai, fatto</em>
-* `EMPTY` (255): <em>fare, andare, dire, far, anda', stare, avere, vedere, fa', abitare</em>
-
-<table>
-  <tr><th>Paradigm <i>essere</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>stato</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>stata</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ero</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>so</em></td><td><em>siamo</em></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sarà</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>era</em></td><td><em>erano</em></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>è</em></td><td><em>sono, son</em></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fosse</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sia</em></td><td><em>siano</em></td></tr>
+  <tr><th>Paradigm <i>lingua</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>lingue</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>lingua</em></td><td><em>lingue</em></td></tr>
 </table>
 
 ### `DET`
 
-816 <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> tokens (94% of all `DET` tokens) have a non-empty value of `Number`.
+1990 <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> tokens (91% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (693; 85%), <tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (489; 60%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1725; 87%), <tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1334; 67%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (196; 24% of non-empty `Number`): <em>le, i, gli, dei, delle, tutti, tutte, tante, 'sti, altri</em>
-* `Sing` (620; 76% of non-empty `Number`): <em>la, il, un, una, l', un', quella, lo, mia, questa</em>
-* `EMPTY` (56): <em>che, 'sta, altra, altre, dei, il, quanti, sta, tante, tutti</em>
+* `Plur` (477; 24% of non-empty `Number`): <em>i, le, gli, queste, questi, dei, delle, tutti, tutte, tante</em>
+* `Sing` (1513; 76% of non-empty `Number`): <em>la, il, un, l', una, questa, questo, un', lo, mia</em>
+* `EMPTY` (204): <em>che, loro, tutto, tutti, il, alcuni, la, tutta, prima, qualche</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>il, lo</em></td><td><em>i, gli</em></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la</em></td><td><em>le</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>il, lo, l</em></td><td><em>i, gli, il</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la, le</em></td><td><em>le, lo</em></td></tr>
   <tr><td><tt><tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>l'</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>lo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>lo, l'</em></td><td></td></tr>
   <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>la</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>i</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>la</em></td><td><em>i</em></td></tr>
+</table>
+
+### `VERB`
+
+1900 <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> tokens (80% of all `VERB` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1516; 80%), <tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1508; 79%), <tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1336; 70%), <tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1269; 67%).
+
+`VERB` tokens may have the following values of `Number`:
+
+* `Plur` (504; 27% of non-empty `Number`): <em>sono, abbiamo, diciamo, erano, hanno, avete, scrivevano, avevano, stanno, dicono</em>
+* `Sing` (1396; 73% of non-empty `Number`): <em>è, so, detto, fa, era, fatto, ha, va, dice, ho</em>
+* `EMPTY` (484): <em>fare, dire, far, scrivere, andare, essere, vedere, parlare, trovare, anda'</em>
+
+<table>
+  <tr><th>Paradigm <i>essere</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>stato</em></td><td><em>stati</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>stata</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sarebbe</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ero</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sono, so</em></td><td><em>siamo</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sarà</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>era</em></td><td><em>erano</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>è</em></td><td><em>sono, son, furono</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fosse</em></td><td><em>fossero</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sia</em></td><td><em>siano</em></td></tr>
 </table>
 
 ### `PRON`
 
-688 <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> tokens (69% of all `PRON` tokens) have a non-empty value of `Number`.
+1339 <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> tokens (71% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (536; 78%), <tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (404; 59%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (965; 72%), <tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (702; 52%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (146; 21% of non-empty `Number`): <em>c', ci, tutti, li, quelli, ce, noi, miei, altri, le</em>
-* `Sing` (542; 79% of non-empty `Number`): <em>io, lo, mi, me, ti, l', te, quello, lei, niente</em>
-* `EMPTY` (314): <em>che, c', si, ci, ne, ce, chi, cui, niente, le</em>
+* `Plur` (397; 30% of non-empty `Number`): <em>c', ci, noi, tutti, li, loro, questi, ce, voi, vi</em>
+* `Sing` (942; 70% of non-empty `Number`): <em>lo, io, mi, me, quello, l', questo, ti, lei, questa</em>
+* `EMPTY` (543): <em>si, che, c', cui, ne, ci, cosa, niente, chi, le</em>
 
 <table>
   <tr><th>Paradigm <i>ci</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -96,82 +100,83 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-555 <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Number`.
+1012 <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> tokens (97% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (541; 97%), <tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (507; 91%), <tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (466; 84%), <tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt> (339; 61%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (977; 97%), <tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (903; 89%), <tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (847; 84%), <tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt> (632; 62%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (81; 15% of non-empty `Number`): <em>son, sono, hanno, abbiamo, siamo, dobbiamo, devi, abbiam, han, stiamo</em>
-* `Sing` (474; 85% of non-empty `Number`): <em>è, ho, era, ha, devi, devo, hai, sei, fosse, sto</em>
-* `EMPTY` (25): <em>essere, esse, essendo, son, avendo, aver, eran, eravam, esser, fare</em>
+* `Plur` (248; 25% of non-empty `Number`): <em>sono, hanno, possiamo, abbiamo, potete, son, siamo, dobbiamo, avevano, stiamo</em>
+* `Sing` (764; 75% of non-empty `Number`): <em>è, ho, ha, era, devi, sono, avevo, posso, stata, hai</em>
+* `EMPTY` (32): <em>essere, esse, essendo, son, avendo, aver, eran, eravam, esser, fare</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt>_</tt></td><td><em>eran</em></td><td></td></tr>
   <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>ero</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>stato</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>stata</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sarebbe</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>stato</em></td><td><em>stati</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>esser</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>stata</em></td><td><em>state</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sarebbe</em></td><td><em>sarebbero</em></td></tr>
   <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>stiamo</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>saremo</em></td></tr>
   <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ero</em></td><td><em>eravamo</em></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sono, son, so, sto</em></td><td><em>siamo</em></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sei</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sono, son, sto, so</em></td><td><em>siamo, stiamo</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sei</em></td><td><em>siete</em></td></tr>
   <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sarà</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>era</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>è</em></td><td><em>son, sono, stanno</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>era</em></td><td><em>erano</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>è, é</em></td><td><em>sono, son, stanno</em></td></tr>
   <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Imp</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>fosse</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sia</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sia</em></td><td><em>siano</em></td></tr>
 </table>
 
 ### `ADJ`
 
-379 <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> tokens (92% of all `ADJ` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (333; 88%).
+836 <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> tokens (88% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (75; 20% of non-empty `Number`): <em>miei, pari, uguali, celiaci, ciclabili, coetanei, criminali, culturali, erboristiche, grande</em>
-* `Sing` (304; 80% of non-empty `Number`): <em>grande, mia, esatto, difficile, piccola, bella, familiare, intollerante, strano, tua</em>
-* `EMPTY` (32): <em>certo, altra, mezz', diverse, intero, solo, stessa, altro, carina, ex</em>
+* `Plur` (191; 23% of non-empty `Number`): <em>miei, udenti, grande, indipendenti, arabi, disabili, fertili, importanti, pari, ricchi</em>
+* `Sing` (645; 77% of non-empty `Number`): <em>grande, difficile, esatto, araba, mia, arabo, piccola, comune, prima, proto</em>
+* `EMPTY` (111): <em>stessa, standard, altra, certo, po', poco, pre, tris, altre, mezz'</em>
 
 <table>
-  <tr><th>Paradigm <i>mio</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>miei</em></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_kiparlaforest-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>miei</em></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_kiparlaforest-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>mia</em></td><td></td></tr>
+  <tr><th>Paradigm <i>arabo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>arabo</em></td><td><em>arabi</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>araba</em></td><td></td></tr>
 </table>
 
-### `ADV`
+### `PROPN`
 
-19 <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Number`.
+107 <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> tokens (25% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (17; 89%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (59; 55%).
 
-`ADV` tokens may have the following values of `Number`:
+`PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (3; 16% of non-empty `Number`): <em>molte, quanti, tutte</em>
-* `Sing` (16; 84% of non-empty `Number`): <em>quanto, cosa, giusto, bene, esatto, lontano, manco, pochino, tutta, vero</em>
-* `EMPTY` (1025): <em>non, anche, più, poi, molto, sempre, così, no, fuori, adesso</em>
+* `Plur` (23; 21% of non-empty `Number`): <em>rossi, verdi, nabatei, sinai, gialli, arancioni, gerusalemme, vagoni</em>
+* `Sing` (84; 79% of non-empty `Number`): <em>arabia, siria, giordania, saudita, yemen, erodoto, saba, turchia, egitto, fermo</em>
+* `EMPTY` (317): <em>[TOWN_NAME], ancona, bologna, pesaro, cristo, [PLACE_NAME], fermo, gialli, imola, marche</em>
 
 <table>
-  <tr><th>Paradigm <i>quanto</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>quanto</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td></td><td><em>quanti</em></td></tr>
+  <tr><th>Paradigm <i>Arancioni</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>arancioni</em></td><td><em>arancioni</em></td></tr>
 </table>
+
+`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (50) occur only with one value of `Number`.
 
 ### `NUM`
 
-13 <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> tokens (14% of all `NUM` tokens) have a non-empty value of `Number`.
+33 <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> tokens (19% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-NumType.html">NumType</a></tt><tt>=Ord</tt> (12; 92%), <tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 54%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (23; 70%), <tt><a href="it_kiparlaforest-feat-NumType.html">NumType</a></tt><tt>=Ord</tt> (19; 58%).
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (4; 31% of non-empty `Number`): <em>primi</em>
-* `Sing` (9; 69% of non-empty `Number`): <em>prima, primo, seconda, secondo</em>
-* `EMPTY` (79): <em>due, quattro, tre, undici, cinquanta, dodici, quattordici, venti, cinque, dieci</em>
+* `Plur` (8; 24% of non-empty `Number`): <em>primi, sedici, seicentodieci</em>
+* `Sing` (25; 76% of non-empty `Number`): <em>prima, primo, seicento, trecentoventotto, duecento, duemiladiciotto, milleseicento, ottocento, seconda, secondo</em>
+* `EMPTY` (139): <em>due, quattro, tre, cinque, quattordici, sette, dieci, mille, undici, cinquanta</em>
 
 <table>
   <tr><th>Paradigm <i>primo</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -179,23 +184,43 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
   <tr><td><tt><tt><a href="it_kiparlaforest-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>prima</em></td><td></td></tr>
 </table>
 
-### `PROPN`
+`Number` seems to be **lexical feature** of `NUM`. 92% lemmas (11) occur only with one value of `Number`.
 
-2 <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Number`.
+### `ADV`
 
-`PROPN` tokens may have the following values of `Number`:
+30 <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Number`.
 
-* `Sing` (2; 100% of non-empty `Number`): <em>fermo</em>
-* `EMPTY` (255): <em>[TOWN_NAME], ancona, bologna, pesaro, [PLACE_NAME], fermo, gialli, imola, marche, pasqua</em>
+The most frequent other feature values with which `ADV` and `Number` co-occurred: <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (26; 87%).
+
+`ADV` tokens may have the following values of `Number`:
+
+* `Plur` (4; 13% of non-empty `Number`): <em>molte, quali, quanti, tutte</em>
+* `Sing` (26; 87% of non-empty `Number`): <em>quanto, cosa, etcetera, giusto, almeno, bene, esatto, fa, fino, invece</em>
+* `EMPTY` (2182): <em>non, sì, no, anche, più, poi, molto, così, bene, adesso</em>
+
+<table>
+  <tr><th>Paradigm <i>quanto</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>quanto</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td></td><td><em>quanti</em></td></tr>
+</table>
+
+### `ADP`
+
+2 <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Number`.
+
+`ADP` tokens may have the following values of `Number`:
+
+* `Sing` (2; 100% of non-empty `Number`): <em>a, in</em>
+* `EMPTY` (1901): <em>di, in, a, per, da, con, su, come, secondo, tra</em>
 
 ### `CCONJ`
 
-1 <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Number`.
+2 <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Number`.
 
 `CCONJ` tokens may have the following values of `Number`:
 
-* `Plur` (1; 100% of non-empty `Number`): <em>oppure</em>
-* `EMPTY` (628): <em>e, cioè, ma, però, quindi, comunque, o, infatti, invece, mentre</em>
+* `Plur` (2; 100% of non-empty `Number`): <em>oppure</em>
+* `EMPTY` (1000): <em>e, cioè, ma, quindi, però, o, comunque, sia, che, infatti</em>
 
 ### `SCONJ`
 
@@ -206,19 +231,19 @@ The most frequent other feature values with which `SCONJ` and `Number` co-occurr
 `SCONJ` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>che</em>
-* `EMPTY` (328): <em>che, perché, se, quando, come, mentre, ovunque, sia</em>
+* `EMPTY` (697): <em>che, se, perché, quando, come, mentre, siccome, com', finché, ovunque</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-det.html">det</a></tt>]--> DET</tt> (597; 84%),
-<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-amod.html">amod</a></tt>]--> ADJ</tt> (142; 82%),
-<tt>VERB --[<tt><a href="it_kiparlaforest-dep-obj.html">obj</a></tt>]--> PRON</tt> (112; 59%),
-<tt>VERB --[<tt><a href="it_kiparlaforest-dep-obj.html">obj</a></tt>]--> NOUN</tt> (110; 51%),
-<tt>ADJ --[<tt><a href="it_kiparlaforest-dep-cop.html">cop</a></tt>]--> AUX</tt> (101; 89%),
-<tt>VERB --[<tt><a href="it_kiparlaforest-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (94; 61%),
-<tt>VERB --[<tt><a href="it_kiparlaforest-dep-conj.html">conj</a></tt>]--> VERB</tt> (90; 70%),
-<tt>VERB --[<tt><a href="it_kiparlaforest-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (80; 71%),
-<tt>VERB --[<tt><a href="it_kiparlaforest-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (78; 76%),
-<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-cop.html">cop</a></tt>]--> AUX</tt> (68; 75%).
+<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-det.html">det</a></tt>]--> DET</tt> (1412; 83%),
+<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-amod.html">amod</a></tt>]--> ADJ</tt> (399; 82%),
+<tt>VERB --[<tt><a href="it_kiparlaforest-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (229; 68%),
+<tt>VERB --[<tt><a href="it_kiparlaforest-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (207; 76%),
+<tt>VERB --[<tt><a href="it_kiparlaforest-dep-conj.html">conj</a></tt>]--> VERB</tt> (140; 63%),
+<tt>ADJ --[<tt><a href="it_kiparlaforest-dep-cop.html">cop</a></tt>]--> AUX</tt> (138; 89%),
+<tt>VERB --[<tt><a href="it_kiparlaforest-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (119; 62%),
+<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-cop.html">cop</a></tt>]--> AUX</tt> (102; 76%),
+<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (93; 62%),
+<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-conj.html">conj</a></tt>]--> NOUN</tt> (47; 60%).
 

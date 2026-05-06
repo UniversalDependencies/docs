@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-41 tokens (0%) have a non-empty value of `Foreign`.
-32 types (1%) occur at least once with a non-empty value of `Foreign`.
-32 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 3 part-of-speech tags: <tt><a href="el_gud-pos-X.html">X</a></tt> (39; 0% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+42 tokens (0%) have a non-empty value of `Foreign`.
+33 types (1%) occur at least once with a non-empty value of `Foreign`.
+33 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 3 part-of-speech tags: <tt><a href="el_gud-pos-X.html">X</a></tt> (40; 0% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `X`
 
-39 <tt><a href="el_gud-pos-X.html">X</a></tt> tokens (98% of all `X` tokens) have a non-empty value of `Foreign`.
+40 <tt><a href="el_gud-pos-X.html">X</a></tt> tokens (87% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (39; 100% of non-empty `Foreign`): <em>West, Shipping, Enterprises, Ionian, Marine, Beretta, Computer, Cruiser, Explorer, Johnson</em>
-* `EMPTY` (1): <em>πολίτα</em>
+* `Yes` (40; 100% of non-empty `Foreign`): <em>West, Shipping, Enterprises, Ionian, Marine, Beretta, Computer, Cruiser, Explorer, Johnson</em>
+* `EMPTY` (6): <em>Ανάγκα, ου, πολίτα, τούδε</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (30) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (31) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>γουάι-φάι</em>
-* `EMPTY` (3211): <em>σπίτι, γραφείο, πόρτα, τηλέφωνο, αστυνόμε, δολοφονία, φορά, δουλειά, αστυνομία, εταιρείες</em>
+* `EMPTY` (3208): <em>σπίτι, γραφείο, πόρτα, τηλέφωνο, αστυνόμε, δολοφονία, φορά, δουλειά, αστυνομία, εταιρείες</em>
 
 ### `PROPN`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Καϊμάν</em>
-* `EMPTY` (779): <em>Αδριανή, Ελλάδα, Ούλι, Κούλα, Σωτηρόπουλος, Κατερίνα, Χαρδάκου, Λαλόπουλου, Βλασόπουλος, Γκίκα</em>
+* `EMPTY` (778): <em>Αδριανή, Ελλάδα, Ούλι, Κούλα, Σωτηρόπουλος, Κατερίνα, Χαρδάκου, Λαλόπουλου, Βλασόπουλος, Γκίκα</em>
 
 ## Relations with Agreement in `Foreign`
 

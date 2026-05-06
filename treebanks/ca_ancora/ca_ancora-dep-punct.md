@@ -10,10 +10,10 @@ This relation is universal.
 
 57270 nodes (10%) are attached to their parents as `punct`.
 
-32452 instances of `punct` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.69394098131657.
+32481 instances of `punct` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.69547756242361.
 
-The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (24789; 43% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (14291; 25% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (8646; 15% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (3855; 7% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (1806; 3% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (845; 1% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (817; 1% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (716; 1% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (563; 1% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (271; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (237; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (202; 0% instances), <tt><a href="ca_ancora-pos-PART.html">PART</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (110; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (87; 0% instances), <tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances).
+The following 15 pairs of parts of speech are connected with `punct`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (24807; 43% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (14508; 25% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (8645; 15% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (3839; 7% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (1920; 3% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (846; 1% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (720; 1% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (573; 1% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (565; 1% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (281; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (233; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (202; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (94; 0% instances), <tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="ca_ancora-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ca_ancora-pos-PUNCT.html">PUNCT</a></tt> (17; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 4	,	,	PUNCT	fc	PunctType=Comm	3	punct	3:punct	_
 5	algunes	algun	PRON	pi0fp000	Gender=Fem|Number=Plur|PronType=Ind	9	nsubj	9:nsubj	ArgTem=arg1:pat
 6	no	no	ADV	rn	Polarity=Neg	9	advmod	9:advmod	_
-7	s'	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	obj	9:obj	SpaceAfter=No
+7	s'	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:impers	9:expl:impers	SpaceAfter=No
 8	han	haver	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 9	obert	obrir	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
 10	a	a	ADP	spcms	_	12	case	12:case	_
@@ -51,7 +51,7 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 4	,	,	PUNCT	fc	PunctType=Comm	3	punct	3:punct	_
 5	algunes	algun	PRON	pi0fp000	Gender=Fem|Number=Plur|PronType=Ind	9	nsubj	9:nsubj	ArgTem=arg1:pat
 6	no	no	ADV	rn	Polarity=Neg	9	advmod	9:advmod	_
-7	s'	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	obj	9:obj	SpaceAfter=No
+7	s'	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:impers	9:expl:impers	SpaceAfter=No
 8	han	haver	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 9	obert	obrir	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
 10	a	a	ADP	spcms	_	12	case	12:case	_

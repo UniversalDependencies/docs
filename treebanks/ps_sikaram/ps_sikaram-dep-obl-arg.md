@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Pashto-Sikaram: Relations: `obl:arg`
 
 This relation is a language-specific subtype of <tt><a href="ps_sikaram-dep-obl.html">obl</a></tt>.
-There are also 1 other language-specific subtypes of `obl`: <tt><a href="ps_sikaram-dep-obl-agent.html">obl:agent</a></tt>.
 
 3 nodes (0%) are attached to their parents as `obl:arg`.
 
@@ -25,9 +24,9 @@ The following 1 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 # visual-style 12 11 obl:arg	color:blue
 1	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj:pass	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
 2	د	د	ADP	_	Case=Acc	3	case	_	Translit=dë|LTranslit=dë|Gloss=of
-3	پوهونې	پوهونه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Vnoun	11	nmod	_	Translit=pohawë́ne|LTranslit=pohawë́na|Gloss=education|SpaceAfter=No
+3	پوهونې	پوهونه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Vnoun	11	nmod	_	Translit=pohawë́ne|LTranslit=pohawë́na|Gloss=education|LDeriv=پوهول|LDTranslit=pohawë́l|SpaceAfter=No
 4	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-|Gloss=-|SpaceAfter=No
-5	راپوهونې	راپوهونه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Vnoun	3	compound	_	Translit=râpohawë́ne|LTranslit=râpohawë́na|Gloss=study
+5	راپوهونې	راپوهونه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|VerbForm=Vnoun	3	compound	_	Translit=râpohawë́ne|LTranslit=râpohawë́na|Gloss=study|LDeriv=راپوهول|LDTranslit=râpohawë́l
 6	تر	تر	ADP	_	Case=Abl	7	case	_	Translit=tër|LTranslit=tër|Gloss=from
 7	ټولو	ټول	PRON	_	Case=Abl|Gender=Masc|Number=Plur|PronType=Tot	8	nmod	_	Translit=ṭólo|LTranslit=ṭol|Gloss=all
 8	ښه	ښۀ	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	11	amod	_	Translit=x̌a|LTranslit=x̌ë|Gloss=good
@@ -37,7 +36,7 @@ The following 1 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 12	ګڼل	ګڼل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	0	root	_	Translit=gaṇë́l|LTranslit=gaṇë́l|Gloss=considered
 13	کېږي	کېدل	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=becomes|SpaceAfter=No
 14	،	،	PUNCT	_	_	29	punct	_	Translit=,|LTranslit=,|Gloss=,
-15	چې	چې	PRON	_	PronType=Rel	29	obl	_	Translit=če|LTranslit=če|Gloss=which
+15	چې	چې	SCONJ	_	_	29	mark	_	Translit=če|LTranslit=če|Gloss=that
 16	انسانانو	انسان	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	29	nsubj	_	Translit=insânấno|LTranslit=insấn|Gloss=human
 17	د	د	ADP	_	Case=Acc	19	case	_	Translit=dë|LTranslit=dë|Gloss=of
 18	خپل	خپل	DET	_	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	19	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
@@ -48,7 +47,7 @@ The following 1 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 23	دې	دا	DET	_	Case=Abl|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	24	det	_	Translit=de|LTranslit=dâ|Gloss=this
 24	دمه	دمه	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	29	obl	_	Translit=dáma|LTranslit=dáma|Gloss=moment
 25	تر	تر	ADP	_	Case=Abl	26	case	_	Translit=tër|LTranslit=tër|Gloss=from
-26	یې	یې	PRON	_	Person=3|PronType=Prs|Variant=Weak	15	nmod	_	Translit=ye|LTranslit=ye|Gloss=it
+26	یې	یې	PRON	_	Person=3|PronType=Prs|Variant=Weak	29	obl	_	Translit=ye|LTranslit=ye|Gloss=it
 27	ګټه	ګټه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	29	obj	_	Translit=gáṭa|LTranslit=gáṭa|Gloss=benefit
 28	اوچته	اوچت	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	29	compound:lvc	_	Translit=učáta|LTranslit=učát|Gloss=taken
 29	کړې	کول	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	Translit=kë́ṛe|LTranslit=kawë́l|Gloss=done

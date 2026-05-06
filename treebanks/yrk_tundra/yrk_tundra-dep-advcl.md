@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-37 nodes (3%) are attached to their parents as `advcl`.
+42 nodes (3%) are attached to their parents as `advcl`.
 
-37 instances of `advcl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.81081081081081.
+42 instances of `advcl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.83333333333333.
 
-The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (27; 73% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (8; 22% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt>-<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (30; 71% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (8; 19% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt>-<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -54,23 +54,22 @@ The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 advcl	color:blue
-1	пулʼ	пул	NOUN	_	_	4	obl:mod	_	AlignBegin=25401.0648284|AlignEnd=25615.4809691|LTranslit=pul|MGloss=bridge-gen|MSeg=пул-ʼ|Translit=pulʔ
-2	ӈэсондʼ	ӈэсондʼ	ADP	_	_	1	case	_	AlignBegin=25615.4809691|AlignEnd=25981.5058299|Gloss=up.to.dat|LTranslit=ŋæsondʔ|Translit=ŋæsondʔ
-3	таремʼ	таремʼ	ADV	_	_	4	advmod	_	AlignBegin=25981.5058299|AlignEnd=26253.3848731|Gloss=this.way|LTranslit=taŕemʔ|Translit=taŕemʔ
-4	таславаˮ	тасла	VERB	_	_	0	root	_	AlignBegin=26253.3848731|AlignEnd=26652.844697|LTranslit=tasla|MGloss=decide-1pl|MSeg=тасла-ваˮ|Translit=taslawaʡ
-5	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=26652.844697|AlignEnd=26855.8225609|Gloss=SIL|LTranslit=<p>|Translit=<p>
-6	пулʼ	пул	NOUN	_	_	10	obl:mod	_	AlignBegin=26855.8225609|AlignEnd=27098.7685973|LTranslit=pul|MGloss=bridge-gen|MSeg=пул-ʼ|Translit=pulʔ
-7	ӈыламна	ӈыламна	ADP	_	_	6	case	_	AlignBegin=27098.7685973|AlignEnd=27576.0825389|Gloss=under.prol|LTranslit=ŋilamna|Translit=ŋilamna
-8	<p>	<p>	DET	_	_	6	discourse	_	AlignBegin=27576.0825389|AlignEnd=27860.5807046|Gloss=X|LTranslit=<p>|Translit=<p>
-9	ӈохолё	ӈохолё	VERB	_	VerbForm=Conv	10	advcl	_	AlignBegin=27860.5807046|AlignEnd=28201.1539735|Gloss=swim.cvb|LTranslit=ŋoxoľo|Translit=ŋoxoľo
-10	хэсь	хэ	ADV	_	_	4	ccomp	_	AlignBegin=28201.1539735|AlignEnd=28516.3436309|LTranslit=xæ|MGloss=go-cvb|MSeg=хэ-сь|Translit=xæś
-11	тара	тара	AUX	_	Number=Sing|Person=3	10	aux	_	AlignBegin=28516.3436309|AlignEnd=28898.5717859|Gloss=need.3sg|LTranslit=tara|Translit=tara
-12	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=28898.5717859|AlignEnd=29132.6391755|Gloss=SIL|LTranslit=<p>|Translit=<p>
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 advcl	color:blue
+1	грушаˮ	груша	NOUN	_	_	10	nsubj	_	AlignBegin=39371.9095957|AlignEnd=40059.7208966|LTranslit=gruša|MGloss=pear-pl|MSeg=груша-ˮ|Translit=grušaʡ
+2	<p>	<p>	INTJ	_	_	1	discourse	_	AlignBegin=40059.7208966|AlignEnd=41009.5479267|Gloss=X|LTranslit=<p>|Translit=<p>
+3	<f>сусанаваˮ	сусана	VERB	_	_	5	advcl	_	AlignBegin=41009.5479267|AlignEnd=41759.5555017|LTranslit=susana|MGloss=end-ptcp.prf-gen|MSeg=<f>сусана-ва-ˮ|Translit=<f>susanawaʡ
+4	<er>сусанаваˮ	сусана	VERB	_	_	3	reparandum	_	AlignBegin=41759.5555017|AlignEnd=42304.3898367|LTranslit=susana|MGloss=end-ptcp.prf-gen|MSeg=<er>сусана-ва-ˮ|Translit=<er>susanawaʡ
+5	<f>тоˮолха	тоˮолха	ADJ	_	_	7	reparandum	_	AlignBegin=42304.3898367|AlignEnd=42736.2962863|Gloss=similar|LTranslit=toʡolxa|Translit=<f>toʡolxa
+6	сусаваˮ	суса	VERB	_	_	7	advcl	_	AlignBegin=42736.2962863|AlignEnd=43196.2130319|LTranslit=susa|MGloss=run.out-ptcp.prf-gen|MSeg=суса-ва-ˮ|Translit=susawaʡ
+7	тоˮолха	тоˮолха	ADJ	_	_	10	advcl	_	AlignBegin=43196.2130319|AlignEnd=43452.9541497|Gloss=similar|LTranslit=toʡolxa|Translit=toʡolxa
+8	ӈобʼ	ӈобʼ	ADV	_	_	10	advmod	_	AlignBegin=43452.9541497|AlignEnd=43694.1330264|Gloss=once|LTranslit=ŋobʔ|Translit=ŋobʔ
+9	ни	ни	AUX	_	_	10	aux	_	AlignBegin=43694.1330264|AlignEnd=44349.6681454|Gloss=NEG|LTranslit=ńi|Translit=ńi
+10	ӈаˮ	ӈa	VERB	_	_	0	root	_	AlignBegin=43694.1330264|AlignEnd=44349.6681454|LTranslit=ŋa|MGloss=BE-conneg|MSeg=ӈа-ˮ|Translit=ŋaʡ
+11	<p>	<p>	PUNCT	_	_	10	punct	_	AlignBegin=44349.6681454|AlignEnd=45846.7465109|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `det`: <tt><a href="pl_pud-dep-det-numgov.html">det:numgov</a></tt>, <tt><a href="pl_pud-dep-det-nummod.html">det:nummod</a></tt>, <tt><a href="pl_pud-dep-det-poss.html">det:poss</a></tt>.
 
-196 nodes (1%) are attached to their parents as `det`.
+178 nodes (1%) are attached to their parents as `det`.
 
-165 instances of `det` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22959183673469.
+165 instances of `det` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14044943820225.
 
-The following 4 pairs of parts of speech are connected with `det`: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-DET.html">DET</a></tt> (191; 97% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pud-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `det`: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-DET.html">DET</a></tt> (173; 97% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pud-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

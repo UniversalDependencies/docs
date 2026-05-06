@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Classical_Armenian-CAVaL: POS Tags: `SCONJ`
 
-There are 21 `SCONJ` lemmas (1%), 22 `SCONJ` types (0%) and 2884 `SCONJ` tokens (3%).
+There are 21 `SCONJ` lemmas (1%), 22 `SCONJ` types (0%) and 2891 `SCONJ` tokens (3%).
 Out of 16 observed tags, the rank of `SCONJ` is: 10 in number of lemmas, 11 in number of types and 11 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>զի, եթե, թե, իբրեւ, քանզի, յորժամ, թէ, մինչդեռ, մինչեւ, մինչ</em>
+The 10 most frequent `SCONJ` lemmas: <em>զի, եթե, թե, իբրեւ, քանզի, յորժամ, թէ, մինչեւ, մինչդեռ, մինչ</em>
 
-The 10 most frequent `SCONJ` types:  <em>զի, եթե, թե, իբրեւ, քանզի, յորժամ, թէ, մինչդեռ, մինչեւ, մինչ</em>
+The 10 most frequent `SCONJ` types:  <em>զի, եթե, թե, իբրեւ, քանզի, յորժամ, թէ, մինչեւ, մինչդեռ, մինչ</em>
 
-The 10 most frequent ambiguous lemmas: <em>զի</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 1054, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 35, <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 25), <em>եթե</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 448, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 11, <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 10), <em>թե</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 442, <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 12, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 4), <em>իբրեւ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 397, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 12, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 4), <em>յորժամ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 119, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 11), <em>թէ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 67, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 7), <em>մինչդեռ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 51, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 1), <em>մինչեւ</em> (<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 105, <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 48), <em>մինչ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 35, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 9), <em>եթէ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>զի</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 1054, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 35, <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 25), <em>եթե</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 448, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 11, <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 10), <em>թե</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 442, <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 12, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 4), <em>իբրեւ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 397, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 12, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 4), <em>յորժամ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 119, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 11), <em>թէ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 67, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 7), <em>մինչեւ</em> (<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 99, <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 54), <em>մինչ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 35, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 9), <em>եթէ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 1), <em>քան</em> (<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 122, <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 25, <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 3)
 
-The 10 most frequent ambiguous types:  <em>զի</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 946, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 30, <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 22), <em>եթե</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 425, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 11, <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 10), <em>թե</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 441, <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 12, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 4), <em>իբրեւ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 312, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 12, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 4), <em>յորժամ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 116, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 11), <em>թէ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 60, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 7), <em>մինչդեռ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 45, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 1), <em>մինչեւ</em> (<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 104, <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 48), <em>մինչ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 9), <em>եթէ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>զի</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 946, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 30, <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> 22), <em>եթե</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 425, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 11, <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 10), <em>թե</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 441, <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 12, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 4), <em>իբրեւ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 312, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 12, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 4), <em>յորժամ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 116, <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> 11), <em>թէ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 60, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 7), <em>մինչեւ</em> (<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 98, <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 54), <em>մինչ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 9), <em>եթէ</em> (<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 22, <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 1), <em>քան</em> (<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 122, <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 25, <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 3)
 
 
 * <em>զի</em>
@@ -40,12 +40,9 @@ The 10 most frequent ambiguous types:  <em>զի</em> (<tt><a href="xcl_caval-pos
 * <em>թէ</em>
   * <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 60: <em>Այլ սկսեալ ցուցից քեզ զ մեր ն , <b>թէ</b> ուստի ՛ եւ որպէս ՛ :</em>
   * <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 7: <em>Եւ այսոքիկ զրոյցք սուտ եւ կամ <b>թէ</b> արդարեւ լեալ ՝ մեզ չ է ինչ փոյթ :</em>
-* <em>մինչդեռ</em>
-  * <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 45: <em>Եւ <b>մինչդեռ</b> նաւեին ի քուն եմուտ</em>
-  * <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 1: <em>Եւ <b>մինչդեռ</b> այգուց ն առ նովաւ անցանեին . տեսին զ թզենի ն ցամաքեալ յ արմատոց ՝</em>
 * <em>մինչեւ</em>
-  * <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 104: <em>եկին <b>մինչեւ</b> առ նա եւ արգելուին զ նա զի մի գնասցէ ի նոցանէ :</em>
-  * <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 48: <em>եւ ոչ գիտէր զ նա , <b>մինչեւ</b> ծնաւ զ որդի ն իւր զ անդրանիկ ,</em>
+  * <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 98: <em>եկին <b>մինչեւ</b> առ նա եւ արգելուին զ նա զի մի գնասցէ ի նոցանէ :</em>
+  * <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 54: <em>եւ ոչ գիտէր զ նա , <b>մինչեւ</b> ծնաւ զ որդի ն իւր զ անդրանիկ ,</em>
 * <em>մինչ</em>
   * <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 33: <em>եւ <b>մինչ</b> ես դանդաղիմ . այլ ոք քան զ իս յառաջագոյն իջանէ</em>
   * <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 9: <em><b>մինչ</b> ց այժմ ոչ ինչ խնդրեցէք յ անուն իմ ՝</em>
@@ -53,10 +50,14 @@ The 10 most frequent ambiguous types:  <em>զի</em> (<tt><a href="xcl_caval-pos
   * <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 22: <em>Այլ այս <b>եթէ</b> առ այլս այլազգաբար պատմի ՝ մի ՛ ինչ սքանչանար :</em>
   * <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Սորա կարգեալ զ իշխանութիւն իւր մեծապէս , եւ հաստատեալ զ թագաւորութիւն իւր ՝ կամ եղեւ գիտել սորա , թէ ոյք ՛ արդեաւք եւ որպիսի ՛ արք տիրեալ իցեն ի վերայ աշխարհի ս Հայոց մինչեւ ց նա . զ քաջաց ՞ արդեաւք <b>եթէ</b> զ վատաց անցեալ ունիցի զ տեղի :</em>
   * <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> 1: <em>Վասն արայեան ն Արայի , եւ <b>եթէ</b> սորա որդի Անուշաւան Սաւսանուէր :</em>
+* <em>քան</em>
+  * <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> 122: <em>Եւ աղաչեին զ նա յոյժ . զի մի առաքեսցէ զ նոսա արտաքս <b>քան</b> զ աշխարհ ն :</em>
+  * <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> 25: <em>Յիշեցէք զ բան ն զ որ ասացի ձեզ . թե ոչ է ծառայ մեծ <b>քան</b> զ Տէր իւր :</em>
+  * <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> 3: <em>Եւ զինչ ՞ ինձ ի գիրս ս յ այսոսիկ արդեաւք իցէ բան սիրելի , <b>քան</b> թէ որ յաղագս սորա էին գովեստք եւ պատմութիւնք յերկարել :</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.047619 (the average of all parts of speech is 2.287707).
+The form / lemma ratio of `SCONJ` is 1.047619 (the average of all parts of speech is 2.287810).
 
 The 1st highest number of forms (2) was observed with the lemma “եթե”: <em>եթե, թե</em>.
 
@@ -69,17 +70,17 @@ The 3rd highest number of forms (2) was observed with the lemma “մինչդե�
 `SCONJ` occurs with 1 feature-value pairs: `ExtPos=SCONJ`
 
 `SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (2883 tokens).
-Examples: <em>զի, եթե, թե, իբրեւ, քանզի, յորժամ, թէ, մինչդեռ, մինչեւ, մինչ</em>
+The most frequent feature combination is `_` (2890 tokens).
+Examples: <em>զի, եթե, թե, իբրեւ, քանզի, յորժամ, թէ, մինչեւ, մինչդեռ, մինչ</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="xcl_caval-dep-mark.html">mark</a></tt> (2736; 95% instances), <tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt> (67; 2% instances), <tt><a href="xcl_caval-dep-orphan.html">orphan</a></tt> (29; 1% instances), <tt><a href="xcl_caval-dep-fixed.html">fixed</a></tt> (26; 1% instances), <tt><a href="xcl_caval-dep-discourse.html">discourse</a></tt> (18; 1% instances), <tt><a href="xcl_caval-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="xcl_caval-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 8 different relations: <tt><a href="xcl_caval-dep-mark.html">mark</a></tt> (2743; 95% instances), <tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt> (67; 2% instances), <tt><a href="xcl_caval-dep-orphan.html">orphan</a></tt> (29; 1% instances), <tt><a href="xcl_caval-dep-fixed.html">fixed</a></tt> (26; 1% instances), <tt><a href="xcl_caval-dep-discourse.html">discourse</a></tt> (18; 1% instances), <tt><a href="xcl_caval-dep-cc.html">cc</a></tt> (5; 0% instances), <tt><a href="xcl_caval-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (2088; 72% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (346; 12% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (183; 6% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (83; 3% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (61; 2% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (44; 2% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (30; 1% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (19; 1% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (18; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (2094; 72% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (347; 12% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (183; 6% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (83; 3% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (61; 2% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (44; 2% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (30; 1% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (19; 1% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (18; 1% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-2831 (98%) `SCONJ` nodes are leaves.
+2838 (98%) `SCONJ` nodes are leaves.
 
 52 (2%) `SCONJ` nodes have one child.
 

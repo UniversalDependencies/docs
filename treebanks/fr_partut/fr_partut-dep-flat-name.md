@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 19 20 flat:name	color:blue
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
 2	PCB	PCB	PROPN	SP	_	4	nsubj	_	_
-3	s'	se	PRON	P	PronType=Prs	4	obj	_	SpaceAfter=No
+3	s'	soi	PRON	P	PronType=Prs|Reflex=Yes	4	expl:pv	_	SpaceAfter=No
 4	accumulent	accumuler	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	chez	chez	ADP	E	_	7	case	_	_
 6	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	7	det	_	_

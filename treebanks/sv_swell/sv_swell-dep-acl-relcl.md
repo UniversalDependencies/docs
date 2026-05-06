@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="sv_swell-dep-acl.html">acl</a></tt>.
 There are also 1 other language-specific subtypes of `acl`: <tt><a href="sv_swell-dep-acl-cleft.html">acl:cleft</a></tt>.
 
-107 nodes (1%) are attached to their parents as `acl:relcl`.
+139 nodes (1%) are attached to their parents as `acl:relcl`.
 
-107 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.31775700934579.
+139 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.20143884892086.
 
-The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (78; 73% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (12; 11% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (100; 72% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (18; 13% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -38,58 +38,45 @@ The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 acl:relcl	color:blue
-1	Vårt	vi	PRON	_	Definite=Def|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
-2	liv	liv	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	6	nsubj	_	_
-3	kan	kunna	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
-4	vara	vara	AUX	_	VerbForm=Inf|Voice=Act	6	cop	_	_
-5	helt	helt	ADV	_	Degree=Pos	6	advmod	_	_
-6	annorlunda	annorlunda	ADV	_	_	0	root	_	_
-7	än	än	SCONJ	_	_	8	mark	_	_
-8	det	den	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	6	obl	_	_
-9	som	som	PRON	_	PronType=Rel	10	nsubj	_	_
-10	syns	synas	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	8	acl:relcl	_	_
-11	på	på	ADP	_	_	13	case	_	_
-12	exempelvis	exempelvis	ADV	_	_	13	advmod	_	_
-13	facebook	facebook	PROPN	_	Case=Nom|Typo=Yes	10	obl	_	CorrectionLabels=O-Cap
-14	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 acl:relcl	color:blue
+1	Det	den	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	11	nsubj	_	_
+2	som	som	PRON	_	PronType=Rel	3	nsubj	_	_
+3	påverkar	påverka	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
+4	mina	jag	PRON	_	Definite=Def|Number=Plur|Poss=Yes|PronType=Prs	5	nmod:poss	_	_
+5	inköpsvannor	inköpsvana	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur|Typo=Yes	3	obj	_	CorrectionLabels=O|SurfaceLemma=inköpsvanna
+6	av	av	ADP	_	_	7	case	_	CorrectionLabels=S-Clause
+7	kläder	kläder	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	5	nmod	_	_
+8	är	vara	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+9	mest	mycket	ADV	_	Degree=Sup	11	advmod	_	_
+10	deras	de	PRON	_	Definite=Def|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
+11	användarbarhet	användarbarhet	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	_	CorrectionLabels=L-Der
+12	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 acl:relcl	color:blue
-1	Det	den	DET	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
-2	första	första	ADJ	_	Case=Nom|NumType=Ord	0	root	_	_
-3	i	i	ADP	_	_	5	case	_	_
-4	alla	all	DET	_	Number=Plur|PronType=Tot	5	det	_	_
-5	fall	fall	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	6	nmod	_	_
-6	jag	jag	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	7	nsubj	_	_
-7	lägger	lägga	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl:relcl	_	_
-8	märke	märke	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	7	compound:prt	_	_
-9	till	till	ADP	_	_	2	case	_	_
-10	när	när	SCONJ	_	_	12	mark	_	_
-11	jag	jag	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	12	nsubj	_	_
-12	träffar	träffa	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
-13	en	en	DET	_	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	16	det	_	_
-14	annan	annan	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	16	amod	_	CorrectionLabels=S-R
-15	ny	ny	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	16	amod	_	_
-16	person	person	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	12	obj	_	_
-17	är	vara	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
-18	vad	vad	PRON	_	Definite=Ind|Gender=Neut|Number=Sing|PronType=Int	20	obj	_	_
-19	den	den	PRON	_	Definite=Def|Gender=Com|Number=Sing|PronType=Prs	20	nsubj	_	_
-20	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj	_	_
-21	på	på	ADP	_	_	22	case	_	_
-22	sig	sig	PRON	_	Case=Acc|Definite=Def|PronType=Prs	20	obl	_	_
-23	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 acl:relcl	color:blue
+1	Men	men	CCONJ	_	_	3	cc	_	_
+2	ibland	ibland	ADV	_	_	3	advmod	_	_
+3	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	vi	vi	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	3	nsubj	_	_
+5	fördomar	fördom	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	3	obj	_	_
+6	baserade	baserad	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
+7	på	på	ADP	_	_	11	mark	_	_
+8	hur	hur	ADV	_	_	11	advmod	_	_
+9	människor	människa	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	11	nsubj	_	_
+10	är	vara	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
+11	klädda	klädd	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur|Tense=Past|VerbForm=Part	6	advcl	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

@@ -44,7 +44,7 @@ The most frequent other feature values with which `PRON` and `Typo` co-occurred:
 
 `PRON` tokens may have the following values of `Typo`:
 
-* `Yes` (6; 100% of non-empty `Typo`): <em>what, it, some, the, wich, you</em>
+* `Yes` (6; 100% of non-empty `Typo`): <em>it, some, the, what, wich, you</em>
 
 ### `ADV`
 

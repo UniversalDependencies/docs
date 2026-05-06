@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
 1	Puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-2	-je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+2	-je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	avoir	avoir	VERB	_	VerbForm=Inf	1	xcomp	_	_
 4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	aide	aide	NOUN	_	Number=Sing	3	obj	_	_
@@ -62,13 +62,13 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	en	en	ADP	_	_	4	case	_	_
 4	colocation	colocation	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No
-7	-je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+7	-je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 8	bénéficier	bénéficier	VERB	_	VerbForm=Inf	6	xcomp	_	_
 9	d'	de	ADP	_	_	11	case	_	SpaceAfter=No
 10	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_

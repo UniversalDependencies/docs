@@ -22,7 +22,7 @@ The following 8 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 advcl:relcl	color:blue
-1	_	_	VERB	VB	Person=2|VerbForm=Inf	0	root	0:root	Cxn=Interrogative-Polar-Direct|CxnElt=1:Interrogative-Polar-Direct.Clause|Discourse=context-background:8->16:2:_|Lem=*LOWER*|Len=8
+1	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Cxn=Interrogative-Polar-Direct|CxnElt=1:Interrogative-Polar-Direct.Clause|Discourse=context-background:8->16:2:_|Lem=*LOWER*|Len=8
 2	_	_	ADV	WRB	PronType=Rel	1	obj	1:obj	Lem=_|Len=4
 3	_	_	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj|13:nsubj	Entity=(13-person-new-nnnnn-cf2-1,2-coref-Anne_Burrell|Lem=_|Len=4
 4	_	_	PROPN	NNP	Number=Sing	3	flat	3:flat	Entity=13)|Lem=_|Len=7
@@ -46,7 +46,7 @@ The following 8 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 15 advcl:relcl	color:blue
-1	_	_	PRON	EX	PronType=Dem	2	expl	2:expl	Discourse=joint-list_m:41->32:4:_|Lem=*LOWER*|Len=5
+1	_	_	PRON	EX	PronType=Dem	2	expl	2:expl	Discourse=joint-list_m:41->32:4:_|Lem=*LOWER*|Len=5|PDTB=NoRel:NoRel:_:_:319-320:321-354
 2	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl|Lem=be|Len=3
 3	_	_	NOUN	NNS	Number=Plur	2	nsubj	2:nsubj|7:obl	CxnElt=2:Existential-CopPred-ThereExpl.Pivot|Entity=(56-abstract-new-nnnnn-cf4-1-sgl|Lem=video|Len=6|MSeg=video-s
 4	_	_	ADV	WRB	PronType=Rel	7	advmod	3:ref|7:advmod	Discourse=elaboration-attribute:42->41:0:syn-mdf-323-_+syn-relcl-324,327,332,335-_+grf-prn-331,336-_|Lem=_|Len=5
@@ -72,7 +72,7 @@ The following 8 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 24	_	_	PART	RB	Polarity=Neg	25	advmod	25:advmod	Lem=not|Len=3|Negation=Yes
 25	_	_	VERB	VB	VerbForm=Inf	7	advcl	7:advcl:when	Lem=_|Len=3
 26	_	_	ADP	IN	_	29	case	29:case	Lem=_|Len=2
-27	_	_	DET	PDT	PronType=Dem	29	det:predet	29:det:predet	Lem=_|Len=4
+27	_	_	DET	PDT	PronType=Ind	29	det:predet	29:det:predet	Lem=_|Len=4
 28	_	_	DET	DT	Definite=Ind|PronType=Art	29	det	29:det	Lem=_|Len=1
 29	_	_	NOUN	NN	Number=Sing	25	obl	25:obl:in	Lem=_|Len=3
 30	_	_	ADP	IN	_	33	case	33:case	Lem=_|Len=2
@@ -102,7 +102,7 @@ The following 8 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 10	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	12:nsubj	Entity=(25-event-giv:act-nnnnn-cf2-1-coref)|Lem=_|Len=2
 11	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	12:cop	Lem=be|Len=3
 12	_	_	ADJ	JJ	Degree=Pos	4	parataxis	4:parataxis	Entity=(25-event-giv:act-nnnnn-cf2-1-coref)|Lem=_|Len=9
-13	_	_	CCONJ	CC	_	16	cc	16:cc	Discourse=restatement-repetition_m:33->31:0:ref-prs-213,226-_+ref-prop-216,222-_+ref-prop-216,228-_+sem-lxchn-216,228-_|Lem=_|Len=3|PDTB=Explicit:Comparison.Concession.Arg2-as-denier:but:225:221-224:226-229
+13	_	_	CCONJ	CC	_	16	cc	16:cc	Discourse=restatement-repetition_m:33->31:0:ref-prs-213,226-_+ref-prop-216,222-_+sem-lxchn-216,228-_+ref-prop-216,228-_|Lem=_|Len=3|PDTB=Explicit:Comparison.Concession.Arg2-as-denier:but:225:221-224:226-229
 14	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	16	nsubj	16:nsubj	Entity=(24-person-giv:act-nsnnn-cf1-1-ana)|Lem=_|Len=1
 15	_	_	AUX	MD	VerbForm=Fin	16	aux	16:aux	Lem=_|Len=5
 16	_	_	VERB	VB	VerbForm=Inf	12	conj	12:conj:but	Entity=(25-event-giv:act-nnnnn-cf2-1-coref)|Lem=_|Len=5

@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 7 aux	color:blue
 1	Так	так	PART	Pcle	ExtPos=SCONJ	8	mark	_	Lang=ru
-2	что	что	PRON	Pron	_	1	fixed	_	Lang=ru|SpaceAfter=No
+2	что	что	PRON	Pron	PronType=Ind	1	fixed	_	Lang=ru|SpaceAfter=No
 3	,	,	PUNCT	CLB	_	2	punct	_	_
 4	никучем	никутшӧм	ADV	Adv	Polarity=Neg	5	advmod	_	_
 5	иностраннэй	иностраннӧй	ADJ	A	Case=Nom|Number=Sing	6	amod	_	OrigLang=ru

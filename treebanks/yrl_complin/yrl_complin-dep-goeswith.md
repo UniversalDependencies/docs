@@ -8,12 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (0%) are attached to their parents as `goeswith`.
+18 nodes (0%) are attached to their parents as `goeswith`.
 
-14 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+18 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (5; 36% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (4; 29% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (4; 29% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (1; 7% instances).
+The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (6; 33% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (5; 28% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (4; 22% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (2; 11% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-X.html">X</a></tt> (1; 6% instances).
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 goeswith	color:blue
+1	Xaú	ú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Aú
+2	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	1	aux	_	_
+3	meyú	meyuxika	NOUN	N	Number=Sing|Typo=Yes	1	obj	_	CorrectForm=meyuxika|TokenRange=11:15
+4	xika	_	X	X	_	3	goeswith	_	SpaceAfter=No|TokenRange=16:20
+5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=20:21
+
+~~~
 
 
 ~~~ conllu
@@ -49,21 +64,6 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 6	suí	suiwara	ADP	ADP	AdpType=Post|Typo=Yes	5	case	_	CorrectForm=suiwara|TokenRange=32:35
 7	wara	_	X	X	_	6	goeswith	_	SpaceAfter=No|TokenRange=36:40
 8	?	?	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=40:41
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 goeswith	color:blue
-1	Xaú	ú	VERB	V	Mood=Ind|Number=Sing|Person=1|Style=Arch|VerbForm=Fin	0	root	_	ModernForm=Aú
-2	putari	putari	AUX	AUXN	Compound=Yes|VerbForm=Inf	1	aux	_	_
-3	meyú	meyuxika	NOUN	N	Number=Sing|Typo=Yes	1	obj	_	CorrectForm=meyuxika|TokenRange=11:15
-4	xika	_	X	X	_	3	goeswith	_	SpaceAfter=No|TokenRange=16:20
-5	.	.	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No|TokenRange=20:21
 
 ~~~
 

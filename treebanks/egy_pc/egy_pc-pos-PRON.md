@@ -1,90 +1,96 @@
 ---
 layout: base
-title:  'Statistics of PRON in UD_Egyptian-UJaen'
+title:  'Statistics of PRON in UD_Egyptian-PC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Egyptian-UJaen: POS Tags: `PRON`
+## Treebank Statistics: UD_Egyptian-PC: POS Tags: `PRON`
 
-There are 35 `PRON` lemmas (2%), 64 `PRON` types (2%) and 4623 `PRON` tokens (19%).
-Out of 16 observed tags, the rank of `PRON` is: 6 in number of lemmas, 5 in number of types and 2 in number of tokens.
+There are 32 `PRON` lemmas (1%), 86 `PRON` types (2%) and 6251 `PRON` tokens (18%).
+Out of 16 observed tags, the rank of `PRON` is: 6 in number of lemmas, 5 in number of types and 3 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>k, f, śn, čw, ś, č, św, ꞽ, čn, śꞽ</em>
+The 10 most frequent `PRON` lemmas: <em>k, f, śn, ś, čw, ꞽ, św, č, čn, śꞽ</em>
 
-The 10 most frequent `PRON` types:  <em>⸗k, ⸗f, ⸗śn, čw, ⸗ś, ⸗č, św, (⸗ꞽ), ⸗čn, ś(ꞽ)</em>
+The 10 most frequent `PRON` types:  <em>⸗k, ⸗f, ⸗śn, čw, ⸗ś, św, ⸗č, (⸗ꞽ), ⸗čn, ś(ꞽ)</em>
 
-The 10 most frequent ambiguous lemmas: <em>k</em> (<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 1790, <tt><a href="egy_ujaen-pos-X.html">X</a></tt> 1), <em>śn</em> (<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 243, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 8), <em>św</em> (<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 146, <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 4), <em>ꞽ</em> (<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 124, <tt><a href="egy_ujaen-pos-INTJ.html">INTJ</a></tt> 35, <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 15), <em>čnꞽ</em> (<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 16, <tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> 5), <em>śwt</em> (<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 9, <tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> 3), <em>wꞽ</em> (<tt><a href="egy_ujaen-pos-INTJ.html">INTJ</a></tt> 14, <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 5), <em>n</em> (<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> 940, <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 358, <tt><a href="egy_ujaen-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 2), <em>sy</em> (<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 2, <tt><a href="egy_ujaen-pos-DET.html">DET</a></tt> 1), <em>nꞽ</em> (<tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> 198, <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 1, <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>k</em> (<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 2337, <tt><a href="egy_pc-pos-X.html">X</a></tt> 6), <em>f</em> (<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 1973, <tt><a href="egy_pc-pos-X.html">X</a></tt> 9), <em>śn</em> (<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 320, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 41, <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 12), <em>ś</em> (<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 290, <tt><a href="egy_pc-pos-X.html">X</a></tt> 1), <em>ꞽ</em> (<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 235, <tt><a href="egy_pc-pos-X.html">X</a></tt> 43, <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 39, <tt><a href="egy_pc-pos-INTJ.html">INTJ</a></tt> 37), <em>św</em> (<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 207, <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 4), <em>č</em> (<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 173, <tt><a href="egy_pc-pos-X.html">X</a></tt> 2), <em>čnꞽ</em> (<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 31, <tt><a href="egy_pc-pos-ADV.html">ADV</a></tt> 11), <em>śwt</em> (<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 14, <tt><a href="egy_pc-pos-PART.html">PART</a></tt> 4), <em>wꞽ</em> (<tt><a href="egy_pc-pos-INTJ.html">INTJ</a></tt> 19, <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 10)
 
-The 10 most frequent ambiguous types:  <em>św</em> (<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 144, <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 1), <em>śn</em> (<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 16, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 2), <em>čn</em> (<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 11, <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 2, <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> 1), <em>ꞽw.t(ꞽ)</em> (<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 10, <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 2), <em>śwt</em> (<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 9, <tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> 3), <em>w(ꞽ)</em> (<tt><a href="egy_ujaen-pos-INTJ.html">INTJ</a></tt> 12, <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 4), <em>sy</em> (<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 2, <tt><a href="egy_ujaen-pos-DET.html">DET</a></tt> 1), <em>n.tt</em> (<tt><a href="egy_ujaen-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 1), <em>čn(ꞽ)</em> (<tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> 3, <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>św</em> (<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 202, <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 1), <em>śn</em> (<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 20, <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 2), <em>śwt</em> (<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 13, <tt><a href="egy_pc-pos-PART.html">PART</a></tt> 4), <em>čn</em> (<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 12, <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 2, <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 1), <em>w(ꞽ)</em> (<tt><a href="egy_pc-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 3), <em>ꞽw.t(ꞽ)</em> (<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 3, <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 2), <em>n.tt</em> (<tt><a href="egy_pc-pos-PART.html">PART</a></tt> 6, <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 2, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 1), <em>sy</em> (<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 2, <tt><a href="egy_pc-pos-DET.html">DET</a></tt> 1), <em>m</em> (<tt><a href="egy_pc-pos-ADP.html">ADP</a></tt> 1308, <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 138, <tt><a href="egy_pc-pos-PART.html">PART</a></tt> 30, <tt><a href="egy_pc-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 1), <em>n.t(ꞽ)w</em> (<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 1)
 
 
 * <em>św</em>
-  * <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 144: <em>Č̣ḥw.tꞽ ꞽ:sꞽ ꞽč <b>św</b> n Wśr(.w)</em>
-  * <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 1: <em>[č̣i̯] <⸗k> ꞽr ⸗k <b>św</b> t(ꞽ) ꞽr ⸗f</em>
+  * <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 202: <em>č̣(ṭ) mṭw ś:ms.n ⸗f <b>św</b> (ꞽ)r ⸗f | mw swr</em>
+  * <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 1: <em>[ꞽmi̯] ꞽr ⸗k <b>św</b> t(ꞽ) ꞽr ⸗f</em>
 * <em>śn</em>
-  * <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 16: <em>Wśr(.w) Wnꞽś m n ⸗k ꞽw.w ꞽ:śr ⸗f <b>śn</b> | ś<r.w> ḥnw.t 1</em>
-  * <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 12: <em>ꞽ:nč̣ (⸗ꞽ) ḥr ⸗k śnčr ꞽ:nč̣ (⸗ꞽ) ḥr ⸗k <b>śn</b> nčr</em>
-  * <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 2: <em>šꜣś Wnꞽś Šw nmt ⸗f ꜣkr <b>śn</b> ⸗f n.t ḳmꜣ.w nčr</em>
-* <em>čn</em>
-  * <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 11: <em>sꜣ(u̯) <b>čn</b> Ḥr.w ṭšr ꞽr.t(ꞽ) mr ꜣ.t</em>
-  * <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 2: <em><b>čn</b> ꞽr.w ⸗k</em>
-  * <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 1: <em><b>čn</b> kw ꞽ.n ⸗śn m rn ⸗k n(.ꞽ) nčr</em>
-  * <tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> 1: <em>č̣(ṭ) mṭw ččw <b>čn</b></em>
-* <em>ꞽw.t(ꞽ)</em>
-  * <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 10: <em>Ppy pn pw ḫꜥ n(.ꞽ) tꜣ ḥr ꞽb Wꜣč̣ wr <b>ꞽw.t(ꞽ)</b> nč̣r ꞽr.(ꞽ)w tꜣ ꜥw ⸗f</em>
-  * <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 2: <em>č̣r.t n.t Wnꞽś <b>ꞽw.t(ꞽ)</b> ḥr ⸗k</em>
+  * <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 22: <em>ꞽꞽ.n ⸗č m ḥḥ <b>śn</b> ⸗č Wśr(.w)</em>
+  * <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 20: <em>nč̣r <b>śn</b></em>
+  * <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 2: <em>šꜣś Wnꞽś Šw nmt ⸗f ꜣkr <b>śn</b> ⸗f n.t ḳmꜣ.w nčr</em>
 * <em>śwt</em>
-  * <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 9: <em><b>śwt</b> fḫḫ(.ꞽ)</em>
-  * <tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> 3: <em>mr.w ⸗f ꜥnḫ ⸗f <b>śwt</b> ꜥnḫ ⸗f</em>
+  * <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 13: <em><b>śwt</b> wnn.t (r)č̣i̯ tʾ n n.t(ꞽ)w</em>
+  * <tt><a href="egy_pc-pos-PART.html">PART</a></tt> 4: <em>mr.w ⸗f ꜥnḫ ⸗f <b>śwt</b> ꜥnḫ ⸗f</em>
+* <em>čn</em>
+  * <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 12: <em>Nw.t sꜣ ⸗č pw p(w) nn Wśr(.w) č̣ṭ.n ⸗č ꞽr ⸗f mś.n t(ꞽ) n (⸗ꞽ) ꞽ.t(ꞽ) <b>čn</b></em>
+  * <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 2: <em><b>čn</b> ꞽr.w ⸗k</em>
+  * <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 1: <em><b>čn</b> kw ꞽ.n ⸗śn m rn ⸗k n(.ꞽ) nčr</em>
 * <em>w(ꞽ)</em>
-  * <tt><a href="egy_ujaen-pos-INTJ.html">INTJ</a></tt> 12: <em>nfr <b>w(ꞽ)</b> ḥr ⸗č ḥtp.t(ꞽ) mꜣ(w).tꞽ rnpw.tꞽ mś.n čm nčr ꞽt(ꞽ) nčr(.w)</em>
-  * <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 4: <em>mꜣꜣ <b>w(ꞽ)</b> mꜣ.n ⸗k ꞽr.w mśw.t ꞽt(ꞽ.w) ⸗śn ꞽ:rḫ.w rʾ ⸗śn ꞽ:ḫm(.w) śk(.w)</em>
-* <em>sy</em>
-  * <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 2: <em><b>sy</b> sp.t(ꞽ) ⸗f(ꞽ)</em>
-  * <tt><a href="egy_ujaen-pos-DET.html">DET</a></tt> 1: <em>ꞽnt <t>(ꞽ) n ⸗k Wnꞽś <b>sy</b> mẖn.t</em>
+  * <tt><a href="egy_pc-pos-INTJ.html">INTJ</a></tt> 17: <em>nfr <b>w(ꞽ)</b> ḥr ⸗č ḥtp.t(ꞽ) mꜣ(w).tꞽ rnpw.tꞽ mś.n čm nčr ꞽt(ꞽ) nčr(.w)</em>
+  * <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 3: <em>mꜣꜣ <b>w(ꞽ)</b> mꜣ.n ⸗k ꞽr.w mśw.t ꞽt(ꞽ.w) ⸗śn ꞽ:rḫ.w rʾ ⸗śn ꞽ:ḫm(.w) śk(.w)</em>
+* <em>ꞽw.t(ꞽ)</em>
+  * <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 3: <em>Ppy pn pw ḫꜥ n(.ꞽ) tꜣ ḥr(.ꞽ) ꞽb wꜣč̣ wr <b>ꞽw.t(ꞽ)</b> nč̣r ꞽr.(ꞽ)w tꜣ ꜥw ⸗f</em>
+  * <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 2: <em>č̣r.t n.t Wnꞽś <b>ꞽw.t(ꞽ)</b> ḥr ⸗k</em>
 * <em>n.tt</em>
-  * <tt><a href="egy_ujaen-pos-SCONJ.html">SCONJ</a></tt> 4: <em>mr.(y)t rč̣.yt ꞽm č̣č̣ Ttꞽ pw n <b>n.tt</b> Ttꞽ ꞽś pw kꜣ Ꞽwn.w</em>
-  * <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 1: <em>Ḥp(.w) Ṭwꜣ mw.t ⸗f Ḳbḥ śn.w ⸗f Ꞽmś.t(ꞽ) ꞽ:ṭr ⸗śn ḥḳr pn n.tꞽ m ẖ.t n.t Ttꞽ ꞽb.t tn <b>n.tt</b> m śp.t(ꞽ) Ttꞽ</em>
-* <em>čn(ꞽ)</em>
-  * <tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> 3: <em>mrḥ.t mrḥ.t <b>čn(ꞽ)</b> ꞽ:wn ⸗č</em>
-  * <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 1: <em>fnn.wy fnn.wy čnn.wy čnn.wy ꞽrr.wy mtꞽ nčr sꜣ(u̯) Ttꞽ sꜣ ⸗f <b>čn(ꞽ)</b></em>
+  * <tt><a href="egy_pc-pos-PART.html">PART</a></tt> 6: <em>mr.(y)t rč̣.yt ꞽm č̣č̣ Ttꞽ pw n <b>n.tt</b> Ttꞽ ꞽś pw kꜣ Ꞽwn.w</em>
+  * <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 2: <em>ꜥḥꜥ ⸗f ꞽr <⸗f> {⸗ꞽ} m ś.t ⸗f šw.t <b>n.tt</b> ꞽm.wtꞽ nčr(.wꞽ) ꜥꜣ.w(ꞽ) ꜥbꜣ {⸗ꞽ} <⸗f> mnḥ.ꞽ m ꜥw ⸗f</em>
+  * <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 1: <em>Ppy p(ꞽ) sẖꜣ.w mč̣ꜣ.t nčr č̣ṭ <b>n.tt</b> ś:ḫpr ꞽw.tt</em>
+* <em>sy</em>
+  * <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 2: <em><b>sy</b> sp.t(ꞽ) ⸗f(ꞽ)</em>
+  * <tt><a href="egy_pc-pos-DET.html">DET</a></tt> 1: <em>ꞽnt <t>(ꞽ) n ⸗k Wnꞽś <b>sy</b> mẖn.t</em>
+* <em>m</em>
+  * <tt><a href="egy_pc-pos-ADP.html">ADP</a></tt> 1308: <em>[č̣(ṭ)] [mṭw] [hꜣ] Ppy ꞽw.n (⸗ꞽ) <b>m</b> sḫn ⸗k</em>
+  * <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 138: <em>č̣(ṭ) mṭw Wśr(.w) Ppy <b>m</b> ꞽr.t Ḥr.w ḥtm kw m śč ⸗ś |</em>
+  * <tt><a href="egy_pc-pos-PART.html">PART</a></tt> 30: <em><b>m</b> ⸗čn nw č̣ṭ.n ⸗čn nčr.w tm Ppy Nfr kꜣ Rꜥw wnn m ḫnt ⸗čn</em>
+  * <tt><a href="egy_pc-pos-SCONJ.html">SCONJ</a></tt> 10: <em>Wśr(.w) Wnꞽś wp rʾ ⸗k <b>m</b> mḥ.t ꞽm ⸗k | ꞽrp mn.w km hꜣčś 1</em>
+  * <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 1: <em>ꞽn <b>m</b> tꞽ ꞽr n ⸗k nn ꞽ.n nčr(.w) šmś.w (Ꞽ)tm(.w)</em>
+* <em>n.t(ꞽ)w</em>
+  * <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 3: <em>śwt wnn.t (r)č̣i̯ tʾ n <b>n.t(ꞽ)w</b></em>
+  * <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 1: <em>fṭ.w ꞽpw ꜣḫ(.w) <b>n.t(ꞽ)w</b> ḥnꜥ Mr.y Rꜥw Ḥp(.y) Ṭwꜣ mw.t ⸗f Ꞽmś.t(ꞽ) Ḳbḥ śn(.w) ⸗f śn.w ḥr gś śn.w ḥr gś Mr.y Rꜥw pn m ḥmw gm {⸗ꞽ} ⸗f pśč̣.t(ꞽ)</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.828571 (the average of all parts of speech is 1.667992).
+The form / lemma ratio of `PRON` is 2.687500 (the average of all parts of speech is 1.926618).
 
-The 1st highest number of forms (5) was observed with the lemma “čn”: <em>[čn], [⸗čn], čn, ⸗č(n), ⸗čn</em>.
+The 1st highest number of forms (6) was observed with the lemma “ꞽ”: <em>(⸗ꞽ), <⸗ꞽ>, [(⸗ꞽ)], [⸗ꞽ], ˹⸗ꞽ˺, ⸗ꞽ</em>.
 
-The 2nd highest number of forms (5) was observed with the lemma “ś”: <em>(⸗ś), <⸗ś>, [⸗ś], ⸗ś, ⸗ś{w}</em>.
+The 2nd highest number of forms (5) was observed with the lemma “f”: <em><⸗f>, [⸗f], ˹⸗f˺, ⸗f, ⸗f(ꞽ)</em>.
 
-The 3rd highest number of forms (4) was observed with the lemma “f”: <em><⸗f>, [⸗f], ⸗f, ⸗f(ꞽ)</em>.
+The 3rd highest number of forms (5) was observed with the lemma “n.tꞽ”: <em>n.t(ꞽ), n.t(ꞽ)w, n.tt, n.ty, n.tꞽ</em>.
 
-`PRON` occurs with 7 features: <tt><a href="egy_ujaen-feat-PronType.html">PronType</a></tt> (4623; 100% instances), <tt><a href="egy_ujaen-feat-Gender.html">Gender</a></tt> (4621; 100% instances), <tt><a href="egy_ujaen-feat-Number.html">Number</a></tt> (4621; 100% instances), <tt><a href="egy_ujaen-feat-Person.html">Person</a></tt> (4606; 100% instances), <tt><a href="egy_ujaen-feat-Poss.html">Poss</a></tt> (1415; 31% instances), <tt><a href="egy_ujaen-feat-Reflex.html">Reflex</a></tt> (107; 2% instances), <tt><a href="egy_ujaen-feat-Polarity.html">Polarity</a></tt> (12; 0% instances)
+`PRON` occurs with 8 features: <tt><a href="egy_pc-feat-PronType.html">PronType</a></tt> (6251; 100% instances), <tt><a href="egy_pc-feat-Gender.html">Gender</a></tt> (6248; 100% instances), <tt><a href="egy_pc-feat-Number.html">Number</a></tt> (6248; 100% instances), <tt><a href="egy_pc-feat-Person.html">Person</a></tt> (6228; 100% instances), <tt><a href="egy_pc-feat-PronClass.html">PronClass</a></tt> (6192; 99% instances), <tt><a href="egy_pc-feat-Poss.html">Poss</a></tt> (1884; 30% instances), <tt><a href="egy_pc-feat-Reflex.html">Reflex</a></tt> (138; 2% instances), <tt><a href="egy_pc-feat-Polarity.html">Polarity</a></tt> (8; 0% instances)
 
-`PRON` occurs with 16 feature-value pairs: `Gender=Com`, `Gender=Fem`, `Gender=Masc`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Poss=Yes`, `PronType=Emp`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`
+`PRON` occurs with 19 feature-value pairs: `Gender=Com`, `Gender=Fem`, `Gender=Masc`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Poss=Yes`, `PronClass=Dep`, `PronClass=Ind`, `PronClass=Suffix`, `PronType=Emp`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`, `Reflex=Yes`
 
-`PRON` occurs with 40 feature combinations.
-The most frequent feature combination is `Gender=Masc|Number=Sing|Person=2|PronType=Prs` (1120 tokens).
-Examples: <em>⸗k, čw, čwt, kw, <⸗k>, [⸗k], ⸗f, [čw], <⸗f>, [čw]t</em>
+`PRON` occurs with 61 feature combinations.
+The most frequent feature combination is `Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs` (1250 tokens).
+Examples: <em>⸗f, [⸗f], ⸗f(ꞽ), <⸗f>, ˹⸗f˺, ⸗ś</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 21 different relations: <tt><a href="egy_ujaen-dep-nmod.html">nmod</a></tt> (1434; 31% instances), <tt><a href="egy_ujaen-dep-nsubj.html">nsubj</a></tt> (1419; 31% instances), <tt><a href="egy_ujaen-dep-obl.html">obl</a></tt> (858; 19% instances), <tt><a href="egy_ujaen-dep-obj.html">obj</a></tt> (464; 10% instances), <tt><a href="egy_ujaen-dep-obl-arg.html">obl:arg</a></tt> (199; 4% instances), <tt><a href="egy_ujaen-dep-root.html">root</a></tt> (52; 1% instances), <tt><a href="egy_ujaen-dep-fixed.html">fixed</a></tt> (38; 1% instances), <tt><a href="egy_ujaen-dep-expl.html">expl</a></tt> (22; 0% instances), <tt><a href="egy_ujaen-dep-expl-pv.html">expl:pv</a></tt> (22; 0% instances), <tt><a href="egy_ujaen-dep-conj.html">conj</a></tt> (21; 0% instances), <tt><a href="egy_ujaen-dep-dislocated.html">dislocated</a></tt> (21; 0% instances), <tt><a href="egy_ujaen-dep-nsubj-pass.html">nsubj:pass</a></tt> (19; 0% instances), <tt><a href="egy_ujaen-dep-ccomp.html">ccomp</a></tt> (12; 0% instances), <tt><a href="egy_ujaen-dep-advcl.html">advcl</a></tt> (11; 0% instances), <tt><a href="egy_ujaen-dep-flat.html">flat</a></tt> (10; 0% instances), <tt><a href="egy_ujaen-dep-compound.html">compound</a></tt> (5; 0% instances), <tt><a href="egy_ujaen-dep-orphan.html">orphan</a></tt> (5; 0% instances), <tt><a href="egy_ujaen-dep-parataxis.html">parataxis</a></tt> (5; 0% instances), <tt><a href="egy_ujaen-dep-nmod-poss.html">nmod:poss</a></tt> (3; 0% instances), <tt><a href="egy_ujaen-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-dep-vocative.html">vocative</a></tt> (1; 0% instances)
+`PRON` nodes are attached to their parents using 27 different relations: <tt><a href="egy_pc-dep-nsubj.html">nsubj</a></tt> (2006; 32% instances), <tt><a href="egy_pc-dep-nmod.html">nmod</a></tt> (1886; 30% instances), <tt><a href="egy_pc-dep-obl.html">obl</a></tt> (680; 11% instances), <tt><a href="egy_pc-dep-obl-arg.html">obl:arg</a></tt> (645; 10% instances), <tt><a href="egy_pc-dep-obj.html">obj</a></tt> (596; 10% instances), <tt><a href="egy_pc-dep-fixed.html">fixed</a></tt> (130; 2% instances), <tt><a href="egy_pc-dep-root.html">root</a></tt> (60; 1% instances), <tt><a href="egy_pc-dep-expl.html">expl</a></tt> (34; 1% instances), <tt><a href="egy_pc-dep-flat-name.html">flat:name</a></tt> (32; 1% instances), <tt><a href="egy_pc-dep-dislocated-nsubj.html">dislocated:nsubj</a></tt> (28; 0% instances), <tt><a href="egy_pc-dep-expl-pv.html">expl:pv</a></tt> (28; 0% instances), <tt><a href="egy_pc-dep-nsubj-pass.html">nsubj:pass</a></tt> (27; 0% instances), <tt><a href="egy_pc-dep-conj.html">conj</a></tt> (25; 0% instances), <tt><a href="egy_pc-dep-advcl.html">advcl</a></tt> (19; 0% instances), <tt><a href="egy_pc-dep-ccomp-speech.html">ccomp:speech</a></tt> (13; 0% instances), <tt><a href="egy_pc-dep-nmod-nisba.html">nmod:nisba</a></tt> (9; 0% instances), <tt><a href="egy_pc-dep-compound.html">compound</a></tt> (6; 0% instances), <tt><a href="egy_pc-dep-nmod-poss.html">nmod:poss</a></tt> (6; 0% instances), <tt><a href="egy_pc-dep-orphan.html">orphan</a></tt> (5; 0% instances), <tt><a href="egy_pc-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="egy_pc-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="egy_pc-dep-obl-nisba.html">obl:nisba</a></tt> (3; 0% instances), <tt><a href="egy_pc-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 11 different parts of speech: <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (2963; 64% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (1436; 31% instances),  (52; 1% instances), <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> (34; 1% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> (32; 1% instances), <tt><a href="egy_ujaen-pos-NUM.html">NUM</a></tt> (29; 1% instances), <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> (29; 1% instances), <tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (26; 1% instances), <tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="egy_ujaen-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> (3; 0% instances)
+Parents of `PRON` nodes belong to 12 different parts of speech: <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> (3981; 64% instances), <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> (1900; 30% instances), <tt><a href="egy_pc-pos-ADP.html">ADP</a></tt> (97; 2% instances),  (60; 1% instances), <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt> (56; 1% instances), <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> (43; 1% instances), <tt><a href="egy_pc-pos-NUM.html">NUM</a></tt> (38; 1% instances), <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> (35; 1% instances), <tt><a href="egy_pc-pos-PART.html">PART</a></tt> (20; 0% instances), <tt><a href="egy_pc-pos-X.html">X</a></tt> (9; 0% instances), <tt><a href="egy_pc-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="egy_pc-pos-INTJ.html">INTJ</a></tt> (4; 0% instances)
 
-3421 (74%) `PRON` nodes are leaves.
+4728 (76%) `PRON` nodes are leaves.
 
-1095 (24%) `PRON` nodes have one child.
+1386 (22%) `PRON` nodes have one child.
 
-36 (1%) `PRON` nodes have two children.
+55 (1%) `PRON` nodes have two children.
 
-71 (2%) `PRON` nodes have three or more children.
+82 (1%) `PRON` nodes have three or more children.
 
 The highest child degree of a `PRON` node is 6.
 
-Children of `PRON` nodes are attached using 23 different relations: <tt><a href="egy_ujaen-dep-case.html">case</a></tt> (1154; 82% instances), <tt><a href="egy_ujaen-dep-nsubj.html">nsubj</a></tt> (94; 7% instances), <tt><a href="egy_ujaen-dep-vocative.html">vocative</a></tt> (34; 2% instances), <tt><a href="egy_ujaen-dep-conj.html">conj</a></tt> (29; 2% instances), <tt><a href="egy_ujaen-dep-advmod.html">advmod</a></tt> (15; 1% instances), <tt><a href="egy_ujaen-dep-appos.html">appos</a></tt> (14; 1% instances), <tt><a href="egy_ujaen-dep-dep.html">dep</a></tt> (10; 1% instances), <tt><a href="egy_ujaen-dep-obl.html">obl</a></tt> (8; 1% instances), <tt><a href="egy_ujaen-dep-advcl.html">advcl</a></tt> (7; 0% instances), <tt><a href="egy_ujaen-dep-acl.html">acl</a></tt> (6; 0% instances), <tt><a href="egy_ujaen-dep-discourse.html">discourse</a></tt> (6; 0% instances), <tt><a href="egy_ujaen-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="egy_ujaen-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="egy_ujaen-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="egy_ujaen-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="egy_ujaen-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-dep-cop.html">cop</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-dep-punct.html">punct</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+Children of `PRON` nodes are attached using 29 different relations: <tt><a href="egy_pc-dep-case.html">case</a></tt> (1440; 81% instances), <tt><a href="egy_pc-dep-nsubj.html">nsubj</a></tt> (114; 6% instances), <tt><a href="egy_pc-dep-reparandum.html">reparandum</a></tt> (62; 4% instances), <tt><a href="egy_pc-dep-vocative.html">vocative</a></tt> (37; 2% instances), <tt><a href="egy_pc-dep-conj.html">conj</a></tt> (31; 2% instances), <tt><a href="egy_pc-dep-appos.html">appos</a></tt> (12; 1% instances), <tt><a href="egy_pc-dep-obl.html">obl</a></tt> (10; 1% instances), <tt><a href="egy_pc-dep-discourse.html">discourse</a></tt> (8; 0% instances), <tt><a href="egy_pc-dep-advcl.html">advcl</a></tt> (7; 0% instances), <tt><a href="egy_pc-dep-acl.html">acl</a></tt> (6; 0% instances), <tt><a href="egy_pc-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="egy_pc-dep-advmod-neg.html">advmod:neg</a></tt> (4; 0% instances), <tt><a href="egy_pc-dep-mark.html">mark</a></tt> (4; 0% instances), <tt><a href="egy_pc-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="egy_pc-dep-punct.html">punct</a></tt> (4; 0% instances), <tt><a href="egy_pc-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="egy_pc-dep-obl-unmarked.html">obl:unmarked</a></tt> (3; 0% instances), <tt><a href="egy_pc-dep-orphan.html">orphan</a></tt> (3; 0% instances), <tt><a href="egy_pc-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="egy_pc-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="egy_pc-dep-advcl-tcl.html">advcl:tcl</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-cop.html">cop</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-dislocated-obl.html">dislocated:obl</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-nmod-poss.html">nmod:poss</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
 
-Children of `PRON` nodes belong to 12 different parts of speech: <tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (1154; 82% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (124; 9% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> (32; 2% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (26; 2% instances), <tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> (23; 2% instances), <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> (22; 2% instances), <tt><a href="egy_ujaen-pos-X.html">X</a></tt> (10; 1% instances), <tt><a href="egy_ujaen-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="egy_ujaen-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Children of `PRON` nodes belong to 12 different parts of speech: <tt><a href="egy_pc-pos-ADP.html">ADP</a></tt> (1440; 81% instances), <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> (143; 8% instances), <tt><a href="egy_pc-pos-X.html">X</a></tt> (64; 4% instances), <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> (35; 2% instances), <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt> (29; 2% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> (29; 2% instances), <tt><a href="egy_pc-pos-PART.html">PART</a></tt> (18; 1% instances), <tt><a href="egy_pc-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="egy_pc-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="egy_pc-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-ADV.html">ADV</a></tt> (1; 0% instances)
 

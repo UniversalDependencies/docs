@@ -1,61 +1,31 @@
 ---
 layout: base
-title:  'Statistics of advmod in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of advmod in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `advmod`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `advmod`
 
 This relation is universal.
-There are 1 language-specific subtypes of `advmod`: <tt><a href="nhi_itml-dep-advmod-neg.html">advmod:neg</a></tt>.
+There are 1 language-specific subtypes of `advmod`: <tt><a href="nhi_mesotree-dep-advmod-neg.html">advmod:neg</a></tt>.
 
-1237 nodes (13%) are attached to their parents as `advmod`.
+2398 nodes (12%) are attached to their parents as `advmod`.
 
-1110 instances of `advmod` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.6911883589329.
+2087 instances of `advmod` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.49874895746455.
 
-The following 14 pairs of parts of speech are connected with `advmod`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (968; 78% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (72; 6% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (69; 6% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (39; 3% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (27; 2% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (18; 1% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (11; 1% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (9; 1% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-X.html">X</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 advmod	color:blue
-1	Pero	pero	CCONJ	_	_	3	mark	3:mark	NormalizedForm=Pero|NormalizedLemma=pero
-2	siki	siki	PRON	_	_	3	nsubj	3:nsubj	NormalizedForm=siki|NormalizedLemma=siki
-3	faltan	faltar	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=faltan|NormalizedLemma=faltar|Number[subj]=Plur|Person[subj]=3|Subcat=Intr
-4	de	de	ADP	_	Foreign=Yes	5	case	5:case	NormalizedForm=de|NormalizedLemma=de
-5	papeles	papel	NOUN	_	Foreign=Yes|Gender=Masc|Number=Plur	3	obl	3:obl	NormalizedForm=papeles|NormalizedLemma=papel|SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	8:punct	NormalizedForm=,|NormalizedLemma=,
-7	amo	amo	ADV	_	Polarity=Neg	8	advmod	8:advmod	NormalizedForm=amo|NormalizedLemma=amo
-8	kwale	kwali	ADJ	_	Number=Sing	3	parataxis	3:parataxis	NormalizedForm=kwale|NormalizedLemma=kwali|SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	11:punct	NormalizedForm=,|NormalizedLemma=,
-10	amo	amo	ADV	_	Polarity=Neg	11	advmod	11:advmod	NormalizedForm=amo|NormalizedLemma=amo
-11	oyahkeh	yowi	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	3:parataxis	NormalizedForm=yahkeh|NormalizedLemma=yowi|Number[subj]=Plur|Person[subj]=3|SpaceAfter=No|Subcat=Intr|wordform=yahkeh
-12	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.|NormalizedLemma=.
-
-~~~
+The following 18 pairs of parts of speech are connected with `advmod`: <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (1857; 77% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (167; 7% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (165; 7% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (82; 3% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (39; 2% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> (19; 1% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> (15; 1% instances), <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-X.html">X</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 advmod	color:blue
-1	Nikah	nikah	ADV	_	_	2	advmod	2:advmod	NormalizedForm=nikah|NormalizedLemma=nikah
-2	itich	tich	NOUN	_	Number=Sing	7	obl	7:obl	NormalizedForm=itich|NormalizedLemma=tich|NounType=Relat|Number[psor]=Sing|Person[psor]=3
-3	n	in	DET	_	_	4	det	4:det	NormalizedForm=n|NormalizedLemma=n
-4	pueblo	pueblo	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	2	nmod	2:nmod	NormalizedForm=pueblo|NormalizedLemma=pueblo|SpaceAfter=No
-5	,	,	PUNCT	_	_	2	punct	2:punct	NormalizedForm=,|NormalizedLemma=,
-6	mikeh	miak	PRON	_	_	7	det	7:det	NormalizedForm=mikeh|NormalizedLemma=miak
-7	timanimaroa	animaroa	VERB	_	Mood=Ind|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=timanimaroa|NormalizedLemma=animaroa|Number[subj]=Plur|Person[subj]=1|Subcat=Tran
-8	para	para	SCONJ	_	_	9	mark	9:mark	NormalizedForm=para|NormalizedLemma=para
-9	tiyaskeh	yowi	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	7	advcl	7:advcl	NormalizedForm=tiyaskeh|NormalizedLemma=yowi|Number[subj]=Plur|Person[subj]=1|Subcat=Intr
-10	canadá	canada	PROPN	_	_	9	obl	9:obl	NormalizedForm=canadá|NormalizedLemma=canada|SpaceAfter=No
-11	.	.	PUNCT	_	_	7	punct	7:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 advmod	color:blue
+1	Juan	uan	PROPN	_	Foreign=Yes	3	nsubj	3:nsubj	_
+2	yi	yi	ADV	_	_	3	advmod	3:advmod	_
+3	tiquitoc	tiquiti	VERB	Aspect=Prog|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	0	root	0:root	_
 
 ~~~
 
@@ -63,21 +33,31 @@ The following 14 pairs of parts of speech are connected with `advmod`: <tt><a hr
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 advmod	color:blue
-1	Pero	pero	CCONJ	_	_	3	mark	3:mark	NormalizedForm=Pero|NormalizedLemma=pero
-2	siki	siki	PRON	_	_	3	nsubj	3:nsubj	NormalizedForm=siki|NormalizedLemma=siki
-3	faltan	faltar	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=faltan|NormalizedLemma=faltar|Number[subj]=Plur|Person[subj]=3|Subcat=Intr
-4	de	de	ADP	_	Foreign=Yes	5	case	5:case	NormalizedForm=de|NormalizedLemma=de
-5	papeles	papel	NOUN	_	Foreign=Yes|Gender=Masc|Number=Plur	3	obl	3:obl	NormalizedForm=papeles|NormalizedLemma=papel|SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	8:punct	NormalizedForm=,|NormalizedLemma=,
-7	amo	amo	ADV	_	Polarity=Neg	8	advmod	8:advmod	NormalizedForm=amo|NormalizedLemma=amo
-8	kwale	kwali	ADJ	_	Number=Sing	3	parataxis	3:parataxis	NormalizedForm=kwale|NormalizedLemma=kwali|SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	11:punct	NormalizedForm=,|NormalizedLemma=,
-10	amo	amo	ADV	_	Polarity=Neg	11	advmod	11:advmod	NormalizedForm=amo|NormalizedLemma=amo
-11	oyahkeh	yowi	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	3:parataxis	NormalizedForm=yahkeh|NormalizedLemma=yowi|Number[subj]=Plur|Person[subj]=3|SpaceAfter=No|Subcat=Intr|wordform=yahkeh
-12	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 advmod	color:blue
+1	Amo	amo	ADV	_	Polarity=Neg	2	advmod	2:advmod	_
+2	nimihmati	mihmati	VERB	_	Mood=Ind|Number[subj]=Sing|Subcat=Tran	0	root	0:root	_
+3	ica	ca	NOUN	_	NounType=Relat|Number[psor]=Sing|Number[subj]=Sing|Person[psor]=3|Person[subj]=3	2	obl	2:obl	_
+4	n	in	DET	_	_	5	det	5:det	_
+5	tlacual	tlacual	NOUN	_	Case=Abs|Number[subj]=Sing|Person[subj]=3	3	nmod	3:nmod	_
+6	de	de	ADP	_	Foreign=Yes	7	case	7:case	_
+7	nican	nican	ADV	_	_	5	advmod	5:advmod	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 advmod	color:blue
+1	Necah	neca	DET	_	_	2	det	2:det	_
+2	pouitl	pouitl	NOUN	_	Case=Abs|Number[subj]=Sing|Person[subj]=3	5	nsubj	5:nsubj	_
+3	y	yi	ADV	_	_	5	advmod	5:advmod	_
+4	ocatca	catqui	AUX	_	Aspect=Imp|Number[subj]=Plur|Person[subj]=3|Subcat=Intr	5	cop	5:cop	_
+5	ueyi	ueyi	ADJ	_	_	0	root	0:root	SpaceAfter=No
 
 ~~~
 

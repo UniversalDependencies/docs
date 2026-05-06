@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-916 nodes (5%) are attached to their parents as `amod`.
+903 nodes (5%) are attached to their parents as `amod`.
 
-887 instances of `amod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.36899563318777.
+874 instances of `amod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.37430786267996.
 
-The following 14 pairs of parts of speech are connected with `amod`: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (726; 79% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (79; 9% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (59; 6% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `amod`: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (724; 80% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (81; 9% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (59; 7% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
-1	Alternative	alternative	ADJ	JJ	Degree=Pos	2	amod	2:amod	Discourse=organization-heading:3->4:2:_|Entity=(3-abstract-new-nnsnn-cf1-2-sgl|MSeg=Alternat-ive|PDTB=NoRel:NoRel:_:_:2:3-4|XML=<hi rend:::"bold">
+1	Alternative	alternative	ADJ	JJ	Degree=Pos	2	amod	2:amod	Bridge=1<3:entity-associative|Discourse=organization-heading:3->4:2:grf-ly-_-_|Entity=(3-abstract-acc:inf-nnsnn-cf1-2-sgl|MSeg=Alternat-ive|PDTB=NoRel:NoRel:_:_:2:3-4|XML=<hi rend:::"bold">
 2	forms	form	NOUN	NNS	Number=Plur	0	root	0:root	Entity=3)|MSeg=form-s|XML=</hi>
 
 ~~~
@@ -54,7 +54,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
-1	Derived	derive	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	amod	2:amod	Discourse=organization-heading:76->77:0:_|Entity=(110-abstract-new-nnnnn-cf1-2-coref|MSeg=Deriv-ed|XML=<hi rend:::"bold">
+1	Derived	derive	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	amod	2:amod	Bridge=64<110:entity-associative|Discourse=organization-heading:76->77:0:grf-ly-_-_+sem-synym-363-367-_|Entity=(110-abstract-acc:inf-nnnnn-cf1-2-coref|MSeg=Deriv-ed|XML=<hi rend:::"bold">
 2	terms	term	NOUN	NNS	Number=Plur	0	root	0:root	Entity=110)|MSeg=term-s|XML=</hi>
 
 ~~~

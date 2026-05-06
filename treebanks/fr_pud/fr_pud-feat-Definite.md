@@ -10,7 +10,7 @@ This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
 3450 tokens (14%) have a non-empty value of `Definite`.
-23 types (0%) occur at least once with a non-empty value of `Definite`.
+21 types (0%) occur at least once with a non-empty value of `Definite`.
 3 lemmas (0%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 1 part-of-speech tags: <tt><a href="fr_pud-pos-DET.html">DET</a></tt> (3450; 14% instances).
 
@@ -22,7 +22,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (2785; 81% of non-empty `Definite`): <em>le, la, les, l', l’, l‘</em>
+* `Def` (2785; 81% of non-empty `Definite`): <em>le, la, les, l', l‘</em>
 * `Ind` (665; 19% of non-empty `Definite`): <em>un, une, des, de, d', du, e</em>
-* `EMPTY` (425): <em>son, sa, cette, ses, leur, ce, ces, leurs, notre, nos</em>
+* `EMPTY` (437): <em>son, sa, cette, ses, leur, ce, ces, leurs, notre, quelques</em>
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10164 nodes (11%) are attached to their parents as `nsubj`.
+10163 nodes (11%) are attached to their parents as `nsubj`.
 
-9823 instances of `nsubj` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.50678866587958.
+9822 instances of `nsubj` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.50683853192955.
 
-The following 40 pairs of parts of speech are connected with `nsubj`: <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (6883; 68% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (2217; 22% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (362; 4% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (320; 3% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (102; 1% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (55; 1% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (48; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (20; 0% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (17; 0% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (6; 0% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 45 pairs of parts of speech are connected with `nsubj`: <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (7004; 69% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1622; 16% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (533; 5% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (272; 3% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (191; 2% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (92; 1% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (87; 1% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (81; 1% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (32; 0% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (30; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (28; 0% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (27; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (20; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (17; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (13; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (10; 0% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="tr_tourism-pos-X.html">X</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-X.html">X</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-X.html">X</a></tt>-<tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,40 +22,39 @@ The following 40 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
-1	KUMSALI	kumsal	NOUN	_	Case=Acc|Number=Sing|Person=3	2	nsubj	_	_
-2	YOKTU	yok	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Kumsalı	kumsal	NOUN	_	Case=Acc|Number=Sing	2	nsubj	_	_
+2	yoktu	yok	ADJ	_	Aspect=Perf|Number=Sing|Person=3|Polarity=Neg	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 2 nsubj	color:blue
-1	ANİMASYON	animasyon	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nmod	_	_
-2	EKİBİ	ekip	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	4	nsubj	_	_
-3	ÇOK	çok	ADV	_	_	4	advmod	_	_
-4	BAŞARILI	başarılı	ADJ	_	_	0	root	_	_
+# visual-style 4 1 nsubj	color:blue
+1	Aileler	aile	NOUN	_	Case=Nom|Number=Plur	4	nsubj	_	_
+2	bu	bu	DET	_	Definite=Def|PronType=Dem	3	det	_	_
+3	otele	otel	NOUN	_	Case=Dat|Number=Sing	4	obl	_	_
+4	gitmeli	git	VERB	_	Evident=Fh|Mood=Nec|Number=Sing|Person=3|Polarity=Pos|VerbForm=Fin	0	root	_	_
 5	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 nsubj	color:blue
-1	KARA	kara	NOUN	_	Case=Nom|Number=Sing|Person=3	2	nmod	_	_
-2	TURLARINA	tur	NOUN	_	Case=Dat|Number=Plur|Number[psor]=Plur|Person=3|Person[psor]=3	3	nsubj	_	_
-3	KATILMADIĞIMDAN	katıl	NOUN	_	Case=Abl|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	5	advcl	_	_
-4	PUAN	puan	NOUN	_	Case=Nom|Number=Sing|Person=3	5	compound	_	_
-5	VEREMİYORUM	ver	VERB	_	Aspect=Prog|Mood=Pot|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 3 4 nsubj	color:blue
+1	Temiz	temiz	ADJ	_	_	3	amod	_	_
+2	bir	bir	DET	_	Definite=Ind|PronType=Art	3	det	_	_
+3	tesisti	tesis	NOUN	_	Aspect=Perf|Number=Sing|Person=3	0	root	_	_
+4	personel	personel	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
+5	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

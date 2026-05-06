@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PDB: Relations: `advmod:neg`
 
 This relation is a language-specific subtype of <tt><a href="pl_pdb-dep-advmod.html">advmod</a></tt>.
-There are also 2 other language-specific subtypes of `advmod`: <tt><a href="pl_pdb-dep-advmod-arg.html">advmod:arg</a></tt>, <tt><a href="pl_pdb-dep-advmod-emph.html">advmod:emph</a></tt>.
+There are also 3 other language-specific subtypes of `advmod`: <tt><a href="pl_pdb-dep-advmod-arg.html">advmod:arg</a></tt>, <tt><a href="pl_pdb-dep-advmod-cmp.html">advmod:cmp</a></tt>, <tt><a href="pl_pdb-dep-advmod-emph.html">advmod:emph</a></tt>.
 
-4021 nodes (1%) are attached to their parents as `advmod:neg`.
+4022 nodes (1%) are attached to their parents as `advmod:neg`.
 
-4017 instances of `advmod:neg` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.03158418303905.
+4018 instances of `advmod:neg` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.03207359522626.
 
-The following 11 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (3173; 79% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (467; 12% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (123; 3% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (78; 2% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (72; 2% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (55; 1% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (18; 0% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (18; 0% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (2; 0% instances).
+The following 11 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (3172; 79% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (466; 12% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (124; 3% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (78; 2% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (74; 2% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (55; 1% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (18; 0% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (18; 0% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt>-<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

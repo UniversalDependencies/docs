@@ -22,13 +22,13 @@ The following 12 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 flat	color:blue
-1	«	«	PUNCT	_	_	3	punct	_	PunctType=Quot
+1	«	«	PUNCT	_	_	3	punct	_	PunctType=Quot|SpaceAfter=No
 2	Θα	θα	AUX	_	Tense=Fut	3	aux	_	_
 3	μιλήσεις	μιλώ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	10	ccomp	_	_
 4	με	με	ADP	_	_	6	case	_	_
 5	τον	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	Λευτέρη	Λευτέρης	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
-7	Κυριαζίδη	Κυριαζίδης	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	6	flat	_	_
+7	Κυριαζίδη	Κυριαζίδης	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	6	flat	_	SpaceAfter=No
 8	»	»	PUNCT	_	_	3	punct	_	PunctType=Quot
 9	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
 10	ανακοινώνει	ανακοινώνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
@@ -43,12 +43,12 @@ The following 12 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 flat	color:blue
-1	«	«	PUNCT	_	_	9	punct	_	PunctType=Quot
+1	«	«	PUNCT	_	_	9	punct	_	PunctType=Quot|SpaceAfter=No
 2	Δεν	δεν	PART	_	Polarity=Neg	3	advmod	_	_
 3	υπάρχουν	υπάρχω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	_
 4	πια	πια	ADV	_	_	3	advmod	_	_
 5	capital	capital	X	_	Foreign=Yes	3	nsubj	_	_
-6	controls	controls	X	_	Foreign=Yes	5	flat	_	_
+6	controls	controls	X	_	Foreign=Yes	5	flat	_	SpaceAfter=No
 7	»	»	PUNCT	_	_	9	punct	_	PunctType=Quot
 8	του	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
 9	εξηγεί	εξηγώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_

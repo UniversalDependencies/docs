@@ -23,15 +23,15 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 11	fgColor:white
 # visual-style 11 12 compound:prt	color:blue
 1	If	if	SCONJ	_	_	5	mark	_	_
-2	you	you	PRON	PERS-P2	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_
+2	you	you	PRON	PERS-P2	Person=2|PronType=Prs	5	nsubj	_	_
 3	do	do	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	n't	not	PART	NEG	Polarity=Neg	5	advmod	_	_
 5	like	like	VERB	INF	VerbForm=Inf	11	advcl	_	_
-6	it	it	PRON	PERS-SG	_	5	obj	_	SpaceAfter=No
+6	it	it	PRON	PERS-SG	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	SpaceAfter=No
 7	,	,	PUNCT	Comma	_	5	punct	_	_
 8	why	why	ADV	WH	PronType=Int	11	advmod	_	_
 9	do	do	AUX	INF-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	_
-10	you	you	PRON	PERS-P2	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	_
+10	you	you	PRON	PERS-P2	Person=2|PronType=Prs	11	nsubj	_	_
 11	go	go	VERB	INF	VerbForm=Inf	0	root	_	_
 12	on	on	ADV	_	_	11	compound:prt	_	_
 13	reading	read	VERB	ING	Tense=Pres|VerbForm=Part	11	xcomp	_	SpaceAfter=No
@@ -68,7 +68,7 @@ The following 5 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 compound:prt	color:blue
-1	You	you	PRON	PERS-P2	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	_
+1	You	you	PRON	PERS-P2	Person=2|PronType=Prs	2	nsubj	_	_
 2	mean	mean	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	Edward	Edward	PROPN	SG-NOM	Number=Sing	6	nsubj	_	_
 4	's	be	AUX	PRES-AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_

@@ -12,7 +12,7 @@ It occurs with 4 different values: `ADP`, `ADV`, `DET`, `SCONJ`.
 139 tokens (0%) have a non-empty value of `ExtPos`.
 5 types (0%) occur at least once with a non-empty value of `ExtPos`.
 6 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (85; 0% instances), <tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (47; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt> (2; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (85; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (25; 0% instances), <tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (22; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `ADP`
 
@@ -24,13 +24,21 @@ The most frequent other feature values with which `ADP` and `ExtPos` co-occurred
 
 * `ADP` (85; 100% of non-empty `ExtPos`): <em>کان</em>
 
+### `ADV`
+
+25 <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+
+`ADV` tokens may have the following values of `ExtPos`:
+
+* `SCONJ` (25; 100% of non-empty `ExtPos`): <em>ڇو</em>
+
 ### `SCONJ`
 
-47 <tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
+22 <tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
 
 `SCONJ` tokens may have the following values of `ExtPos`:
 
-* `SCONJ` (47; 100% of non-empty `ExtPos`): <em>ڇو, ڇاڪاڻ</em>
+* `SCONJ` (22; 100% of non-empty `ExtPos`): <em>ڇاڪاڻ</em>
 
 ### `NOUN`
 

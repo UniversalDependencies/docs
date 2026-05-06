@@ -87,13 +87,13 @@ The following 4 pairs of parts of speech are connected with `fixed`: <tt><a href
 2	ⲩ	ⲛⲑⲱⲟⲩ	PRON	PPERS	Definite=Def|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 3	ϫⲉⲙⲁⲣⲓⲕⲓ	ϫⲉⲙⲁⲣⲓⲕⲓ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	MSeg=ϫⲉⲙ-ⲁⲣⲓⲕⲓ
 4	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	3	advmod	_	_
-5	ⲡⲓ	ⲡⲓ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	ϫⲁⲓ	ϫⲏ	NOUN	N	_	3	obl:unmarked	_	_
+5	ⲡⲓ	ⲡⲓ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Entity=(object
+6	ϫⲁⲓ	ϫⲏ	NOUN	N	_	3	obl:unmarked	_	Entity=object)
 7	ⲉⲃⲏⲗ	ⲉⲃⲏⲗ	ADV	ADV	ExtPos=SCONJ	14	mark	_	_
 8	ϫⲉ	ϫⲉ	CCONJ	CONJ	_	7	fixed	_	_
 9	ϧⲉⲛ	ϧⲉⲛ	ADP	PREP	_	11	case	_	_
-10	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	11	det	_	_
-11	ⲙⲉⲑⲙⲏⲓ	ⲙⲉⲑⲙⲏⲓ	NOUN	N	_	14	obl	_	MSeg=ⲙⲉⲑ-ⲙⲏⲓ
+10	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	11	det	_	Entity=(abstract
+11	ⲙⲉⲑⲙⲏⲓ	ⲙⲉⲑⲙⲏⲓ	NOUN	N	_	14	obl	_	Entity=abstract)|MSeg=ⲙⲉⲑ-ⲙⲏⲓ
 12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
 13	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 14	ⲟⲩⲱⲙ	ⲟⲩⲱⲙ	VERB	V	Mood=Ind|VerbForm=Fin	3	advcl	_	_

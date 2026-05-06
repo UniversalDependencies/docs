@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_English-Cairo: POS Tags: `ADV`
 
-There are 5 `ADV` lemmas (5%), 5 `ADV` types (4%) and 5 `ADV` tokens (3%).
-Out of 13 observed tags, the rank of `ADV` is: 7 in number of lemmas, 8 in number of types and 10 in number of tokens.
+There are 6 `ADV` lemmas (6%), 6 `ADV` types (5%) and 6 `ADV` tokens (4%).
+Out of 13 observed tags, the rank of `ADV` is: 5 in number of lemmas, 7 in number of types and 10 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>hƿonne, ne, se, sƿiftlice, to</em>
+The 10 most frequent `ADV` lemmas: <em>hƿonne, ne, se, sƿa, sƿiftlice, to</em>
 
-The 10 most frequent `ADV` types:  <em>Hƿonne, ne, sƿiftlice, to, þa</em>
+The 10 most frequent `ADV` types:  <em>Hƿonne, ne, sƿa, sƿiftlice, to, þa</em>
 
 The 10 most frequent ambiguous lemmas: <em>ne</em> (<tt><a href="ang_cairo-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ang_cairo-pos-ADV.html">ADV</a></tt> 1), <em>se</em> (<tt><a href="ang_cairo-pos-DET.html">DET</a></tt> 6, <tt><a href="ang_cairo-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ang_cairo-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ang_cairo-pos-SCONJ.html">SCONJ</a></tt> 1), <em>to</em> (<tt><a href="ang_cairo-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ang_cairo-pos-PART.html">PART</a></tt> 1)
 
@@ -43,13 +43,13 @@ The 3rd highest number of forms (1) was observed with the lemma “se”: <em>þ
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 1 different relations: <tt><a href="ang_cairo-dep-advmod.html">advmod</a></tt> (5; 100% instances)
+`ADV` nodes are attached to their parents using 1 different relations: <tt><a href="ang_cairo-dep-advmod.html">advmod</a></tt> (6; 100% instances)
 
-Parents of `ADV` nodes belong to 2 different parts of speech: <tt><a href="ang_cairo-pos-VERB.html">VERB</a></tt> (4; 80% instances), <tt><a href="ang_cairo-pos-ADV.html">ADV</a></tt> (1; 20% instances)
+Parents of `ADV` nodes belong to 2 different parts of speech: <tt><a href="ang_cairo-pos-VERB.html">VERB</a></tt> (5; 83% instances), <tt><a href="ang_cairo-pos-ADV.html">ADV</a></tt> (1; 17% instances)
 
-4 (80%) `ADV` nodes are leaves.
+5 (83%) `ADV` nodes are leaves.
 
-1 (20%) `ADV` nodes have one child.
+1 (17%) `ADV` nodes have one child.
 
 The highest child degree of a `ADV` node is 1.
 

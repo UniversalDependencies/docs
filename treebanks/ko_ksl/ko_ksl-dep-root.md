@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15675 nodes (11%) are attached to their parents as `root`.
+17369 nodes (11%) are attached to their parents as `root`.
 
-15675 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.35489633173844.
+17369 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.54257585353216.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (9281; 59% instances), -<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (5209; 33% instances), -<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (946; 6% instances), -<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (206; 1% instances), -<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (17; 0% instances), -<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), -<tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="ko_ksl-pos-X.html">X</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (10160; 58% instances), -<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (5731; 33% instances), -<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (1168; 7% instances), -<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (246; 1% instances), -<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (31; 0% instances), -<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), -<tt><a href="ko_ksl-pos-DET.html">DET</a></tt> (11; 0% instances), -<tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="ko_ksl-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 5 root	color:blue
-1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+1	저는	저+는	PRON	NP+JX	PronType=Prs	5	nsubj	_	_
 2	6월	6+월	NOUN	SN+NNB	_	5	obl	_	_
 3	20일에	20+일+에	ADV	SN+NNB+JKB	_	2	flat	_	_
 4	여행을	여행+을	NOUN	NNG+JKO	_	5	obj	_	_

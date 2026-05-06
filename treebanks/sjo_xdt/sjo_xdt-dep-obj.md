@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1101 nodes (7%) are attached to their parents as `obj`.
+1102 nodes (7%) are attached to their parents as `obj`.
 
-1098 instances of `obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.89645776566757.
+1099 instances of `obj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.89655172413793.
 
-The following 10 pairs of parts of speech are connected with `obj`: <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt> (885; 80% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt> (122; 11% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-PRON.html">PRON</a></tt> (30; 3% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (27; 2% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sjo_xdt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="sjo_xdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `obj`: <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt> (886; 80% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt> (122; 11% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-PRON.html">PRON</a></tt> (30; 3% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (27; 2% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-ADJ.html">ADJ</a></tt> (17; 2% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-PROPN.html">PROPN</a></tt> (7; 1% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sjo_xdt-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="sjo_xdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: POS Tags: `ADP`
 
-There are 70 `ADP` lemmas (3%), 91 `ADP` types (3%) and 269 `ADP` tokens (3%).
+There are 70 `ADP` lemmas (3%), 92 `ADP` types (3%) and 271 `ADP` tokens (3%).
 Out of 15 observed tags, the rank of `ADP` is: 5 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>вылӧ, вылын, йылысь, бӧрын, дорын, вӧсна, дінӧ, кузя, моз, улын</em>
 
-The 10 most frequent `ADP` types:  <em>вылӧ, вылын, бӧрын, йылысь, вӧсна, дінӧ, дорын, вылас, дорӧ, моз</em>
+The 10 most frequent `ADP` types:  <em>вылӧ, вылын, бӧрын, дінӧ, йылысь, вӧсна, дорын, вылас, дорӧ, моз</em>
 
-The 10 most frequent ambiguous lemmas: <em>вылӧ</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 51, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>вылын</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 20, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>бӧрын</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 13, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>дінӧ</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 10, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2), <em>моз</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 6, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 1), <em>гӧгӧр</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 4, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 4), <em>чӧж</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 3, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2), <em>бокӧ</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 2, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2), <em>водз</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 2, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>выв</em> (<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>вылӧ</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 51, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2), <em>вылын</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 20, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>бӧрын</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 13, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>дінӧ</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 11, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2), <em>моз</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 6, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 1), <em>улӧ</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 5, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>гӧгӧр</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 4, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 4), <em>дор</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 3, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>чӧж</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 3, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2), <em>бокӧ</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 2, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>вылӧ</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 43, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>вылын</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 15, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2), <em>бӧрын</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 11, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>дінӧ</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 10, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>дорӧ</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 6, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>моз</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 6, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 1), <em>вылад</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 5, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2), <em>вылысь</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 5, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 3), <em>сайын</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 5, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>гӧгӧр</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 4, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 3)
+The 10 most frequent ambiguous types:  <em>вылӧ</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 43, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>вылын</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 15, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2), <em>бӧрын</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 11, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>дінӧ</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 11, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>дорӧ</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 6, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>моз</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 6, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 1), <em>вылад</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 5, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2), <em>вылысь</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 5, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 3), <em>сайын</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 5, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>гӧгӧр</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 4, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 3)
 
 
 * <em>вылӧ</em>
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>вылӧ</em> (<tt><a href="kpv_latti
   * <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 11: <em>Кымӧрыс недыр повзьӧдчӧм <b>бӧрын</b> вешйис бокӧ .</em>
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1: <em>Керкаӧ пырӧм <b>бӧрын</b> тэрмасьӧмӧн пӧрччи сӧдз ваӧдз кӧтасьӧм кӧм-паськӧмӧс да тэрыба кайи паччӧр вылӧ шонтысьыштны , став тайӧ страксьыс пальӧдчыштны .</em>
 * <em>дінӧ</em>
-  * <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 10: <em>Техническӧй культураяс план <b>дінӧ</b> идралӧма 3 прӧчент вылӧ .</em>
+  * <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 11: <em>Техническӧй культураяс план <b>дінӧ</b> идралӧма 3 прӧчент вылӧ .</em>
   * <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1: <em>Тӧдмалас кӧ Ангелина , мый верӧсыс збыльысь пӧдруга видзӧ , тайӧ пӧрйӧ мунас мамыс ӧрдӧ и некор нин оз бергӧдчы Гриша <b>дінӧ</b> .</em>
 * <em>дорӧ</em>
   * <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 6: <em>Водз асылын лэччи Эжва <b>дорӧ</b> вуграсьны .</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>вылӧ</em> (<tt><a href="kpv_latti
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.300000 (the average of all parts of speech is 1.476307).
+The form / lemma ratio of `ADP` is 1.314286 (the average of all parts of speech is 1.477594).
 
 The 1st highest number of forms (4) was observed with the lemma “вылын”: <em>вылад, вылас, вылын, вылысь</em>.
 
@@ -60,32 +60,32 @@ The 2nd highest number of forms (4) was observed with the lemma “дорын”
 
 The 3rd highest number of forms (3) was observed with the lemma “бӧрын”: <em>бӧрад, бӧраным, бӧрын</em>.
 
-`ADP` occurs with 8 features: <tt><a href="kpv_lattice-feat-AdpType.html">AdpType</a></tt> (232; 86% instances), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt> (220; 82% instances), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt> (206; 77% instances), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt> (54; 20% instances), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt> (54; 20% instances), <tt><a href="kpv_lattice-feat-Number-subj.html">Number[subj]</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-feat-Clitic.html">Clitic</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-feat-AdvType.html">AdvType</a></tt> (1; 0% instances)
+`ADP` occurs with 8 features: <tt><a href="kpv_lattice-feat-AdpType.html">AdpType</a></tt> (234; 86% instances), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt> (222; 82% instances), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt> (208; 77% instances), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt> (55; 20% instances), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt> (55; 20% instances), <tt><a href="kpv_lattice-feat-Number-subj.html">Number[subj]</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-feat-Clitic.html">Clitic</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-feat-AdvType.html">AdvType</a></tt> (1; 0% instances)
 
 `ADP` occurs with 20 feature-value pairs: `AdpType=Post`, `AdvType=Tim`, `Case=Cmp`, `Case=Egr`, `Case=Ela`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Case=Prl`, `Case=Ter`, `Case=Tra`, `Clitic=To`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Number[subj]=Plur`, `Person[psor]=1`, `Person[psor]=2`, `Person[psor]=3`
 
-`ADP` occurs with 45 feature combinations.
-The most frequent feature combination is `AdpType=Post|Case=Ill|Number=Sing` (71 tokens).
+`ADP` occurs with 46 feature combinations.
+The most frequent feature combination is `AdpType=Post|Case=Ill|Number=Sing` (72 tokens).
 Examples: <em>вылӧ, дінӧ, дорӧ, ордӧ, улӧ, кежлӧ, бердӧ, бокӧ, весьтӧ, йылӧ</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 3 different relations: <tt><a href="kpv_lattice-dep-case.html">case</a></tt> (263; 98% instances), <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt> (4; 1% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (2; 1% instances)
+`ADP` nodes are attached to their parents using 4 different relations: <tt><a href="kpv_lattice-dep-case.html">case</a></tt> (264; 97% instances), <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt> (4; 1% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (199; 74% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (35; 13% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (26; 10% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (2; 1% instances)
+Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (201; 74% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (35; 13% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (26; 10% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (2; 1% instances)
 
-266 (99%) `ADP` nodes are leaves.
+267 (99%) `ADP` nodes are leaves.
 
 1 (0%) `ADP` nodes have one child.
 
 0 (0%) `ADP` nodes have two children.
 
-2 (1%) `ADP` nodes have three or more children.
+3 (1%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 4.
 
-Children of `ADP` nodes are attached using 4 different relations: <tt><a href="kpv_lattice-dep-punct.html">punct</a></tt> (4; 50% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (2; 25% instances), <tt><a href="kpv_lattice-dep-advmod-deg.html">advmod:deg</a></tt> (1; 13% instances), <tt><a href="kpv_lattice-dep-det.html">det</a></tt> (1; 13% instances)
+Children of `ADP` nodes are attached using 6 different relations: <tt><a href="kpv_lattice-dep-punct.html">punct</a></tt> (5; 42% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (3; 25% instances), <tt><a href="kpv_lattice-dep-advmod-deg.html">advmod:deg</a></tt> (1; 8% instances), <tt><a href="kpv_lattice-dep-appos.html">appos</a></tt> (1; 8% instances), <tt><a href="kpv_lattice-dep-compound.html">compound</a></tt> (1; 8% instances), <tt><a href="kpv_lattice-dep-det.html">det</a></tt> (1; 8% instances)
 
-Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (4; 50% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 13% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 13% instances)
+Children of `ADP` nodes belong to 4 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (5; 42% instances), <tt><a href="kpv_lattice-pos-PUNCT.html">PUNCT</a></tt> (5; 42% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 8% instances)
 

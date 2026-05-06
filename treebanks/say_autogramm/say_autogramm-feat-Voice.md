@@ -18,13 +18,11 @@ The feature is used with 1 part-of-speech tags: <tt><a href="say_autogramm-pos-V
 
 20 <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="say_autogramm-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (15; 75%).
-
 `VERB` tokens may have the following values of `Voice`:
 
-* `Cau` (16; 80% of non-empty `Voice`): <em>ɬə́ːr, ɬə̌ːr, ʃíʃyár, ʃíːr, kîlár, tùlár, ɗîːɓár, ɬə̌ːríː, ɲolár, ɬə</em>
+* `Cau` (16; 80% of non-empty `Voice`): <em>ɬə́ːr, ɬə̌ːr, ɬə̌ːríː, ʃíʃyár, ʃíːr, kîlár, tùlár, ɗîːɓár, ɬə, ɲolár</em>
 * `Pass` (4; 20% of non-empty `Voice`): <em>kúŋni, məʃí, məʃíː, ɲâŋnês</em>
-* `EMPTY` (3625): <em>mán, fî, fi, ɬə́, yi, wûl, ɬíː, wul, tu, mân</em>
+* `EMPTY` (3626): <em>mán, fî, fi, ɬə́, yi, wûl, ɬíː, wul, tu, mân</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (11) occur only with one value of `Voice`.
 

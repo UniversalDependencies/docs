@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Natalia Silveira, Timothy Dozat, Christopher Manning, Sebastian Schuster, Ethan Chi, John Bauer, Miriam Connor, Marie-Catherine de Marneffe, Nathan Schneider, Sam Bowman, Hanzhi Zhu, Daniel Galbraith, John Bauer.
 
 Repository: [UD_English-EWT](https://github.com/UniversalDependencies/UD_English-EWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -110,11 +110,11 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 
 
 <ul>
-<li>This corpus contains 16622 sentences, 251489 tokens and 254818 syntactic words.</li>
+<li>This corpus contains 16622 sentences, 251491 tokens and 254820 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 31024 tokens (12%) that are not followed by a space.</li>
+<li>This corpus contains 31026 tokens (12%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -492,7 +492,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
     <ul>
       <li>ADV: ever, sometimes, anywhere, somewhere, either, anytime, sometime, someplace, any, anyplace</li>
       <li>DET: some, any, another, such, quite, either, half, many, $ome, and</li>
-      <li>PRON: anyone, something, anything, someone, anybody, somebody, any, any1, some, someon</li>
+      <li>PRON: anyone, something, anything, someone, anybody, somebody, any, any1, anyting, some</li>
     </ul>
   </li>
 </ul>
@@ -547,7 +547,7 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 <ul>
   <li>Tot
     <ul>
-      <li>ADV: always, everywhere</li>
+      <li>ADV: always, everywhere, aways</li>
       <li>DET: all, every, each, both</li>
       <li>PRON: everything, everyone, everybody, everbody, every</li>
     </ul>
@@ -673,8 +673,8 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
           <li>AUX-Inf: b</li>
           <li>CCONJ: n, 'n</li>
           <li>DET: da, dat, sm</li>
-          <li>INTJ: pls, wel, plllz</li>
-          <li>NOUN: etc, etc., mins, No., b, luv, ppl, thanx, yrs, UV</li>
+          <li>INTJ: pls, sry, wel, plllz</li>
+          <li>NOUN: etc, etc., mins, thx, No., b, gtee, luv, ppl, thanx</li>
           <li>NUM: m, k, b, bn, t</li>
           <li>PART: na, ta, nt, 2, a</li>
           <li>PRON: u, ur, any1, somethin, wht</li>
@@ -850,17 +850,17 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: over, rediculous, accomodating, Arial, afore, knowledgable, unic, 0nside, Aweesome, Awsome</li>
+          <li>ADJ: dominate, over, rediculous, accomodating, seperate, Arial, afore, knowledgable, unic, 0nside</li>
           <li>ADP: a, then, of, and, in, int, the, aboout, abou, admidst</li>
-          <li>ADV: to, definately, aboard, all, completly, half, on, realy, truely, were</li>
+          <li>ADV: to, definately, aboard, all, completly, half, ling, on, realy, truely</li>
           <li>AUX-Fin: s, m, r, ve, `s, re, where, d, ll, have</li>
           <li>AUX-Inf: by</li>
           <li>AUX-Part: been</li>
           <li>CCONJ: an, adn, a, ad=nd, afnd, amd, ans, at, of</li>
           <li>DET: and, teh, $ome, Thi$, aa, anothers, dthat, he, his, te</li>
           <li>INTJ: high, Ye$, Υes</li>
-          <li>NOUN: mid, Compaq.com, area's, catagory, chnages, collages, e, ect, hamburguers, resturant</li>
-          <li>NUM: 3,, on</li>
+          <li>NOUN: mid, Compaq.com, area's, calender, catagory, chnages, collages, e, ect, feild</li>
+          <li>NUM: 2:300, 3,, on</li>
           <li>PART: s, nt, ', too, -s, `s, ot, the</li>
           <li>PRON: you, there, it's, the, s, their, out, any, who's, my</li>
           <li>PROPN: John, Ken, David, Lorie, Sara, Nasim, Robert, Sear's, penines, Adnan</li>
@@ -868,8 +868,8 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
           <li>SCONJ: becuse, then, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse</li>
           <li>VERB-Fin: s, taste, new, recieved, know, over, reccomend, see, want, For</li>
           <li>VERB-Ger: EATTING, developiong, goin, playin, usint</li>
-          <li>VERB-Inf: loose, reccommend, recieve, recomend, accomodate, answers, bare, bouild, charger, chose</li>
-          <li>VERB-Part: excepted, name, suppose, ASWERING, Compare, Over, Rcommended, U, amplifiaed, botn</li>
+          <li>VERB-Inf: loose, reccommend, recieve, recomend, sale, accomodate, advice, answers, bare, bouild</li>
+          <li>VERB-Part: effected, excepted, name, suppose, ASWERING, Compare, Over, Rcommended, U, amplifiaed</li>
           <li>X: et.</li>
         </ul>
       </li>
@@ -923,12 +923,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (3518)</li>
-      <li>VERB-Fin--PRON (322)</li>
+      <li>VERB-Fin--PRON (320)</li>
       <li>VERB-Fin--PRON-Acc (861)</li>
       <li>VERB-Ger--NOUN (479)</li>
       <li>VERB-Ger--PRON (13)</li>
       <li>VERB-Ger--PRON-Acc (48)</li>
-      <li>VERB-Inf--NOUN (3151)</li>
+      <li>VERB-Inf--NOUN (3150)</li>
       <li>VERB-Inf--NOUN-ADP('s) (1)</li>
       <li>VERB-Inf--PRON (332)</li>
       <li>VERB-Inf--PRON-Acc (809)</li>

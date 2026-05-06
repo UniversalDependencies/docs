@@ -23,15 +23,15 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 17 obl:agent	color:blue
-1	_	_	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	Discourse=causal-cause:132->131:0:_|Entity=(126-person-new-nnnnn-cf1-1-coref)|Lem=parent|Len=7|MSeg=parent-s
+1	_	_	NOUN	NNS	Number=Plur	5	nsubj	5:nsubj	Bridge=87<128:entity-associative|Discourse=causal-cause:132->131:0:_|Entity=(128-person-acc:inf-nnnnn-cf1-1-coref)|Lem=parent|Len=7|MSeg=parent-s
 2	_	_	AUX	MD	VerbForm=Fin	5	aux	5:aux	Lem=_|Len=4
 3	_	_	AUX	VB	VerbForm=Inf	5	aux	5:aux	Lem=_|Len=4
 4	_	_	AUX	VBN	Tense=Past|VerbForm=Part	5	cop	5:cop	Lem=be|Len=4
-5	_	_	NOUN	NNS	Number=Plur	0	root	0:root|7:nsubj	Entity=(126-person-giv:act-nnnnn-cf1-1-pred|Lem=hippie|Len=7|MSeg=hippie-s
+5	_	_	NOUN	NNS	Number=Plur	0	root	0:root|7:nsubj	Entity=(128-person-giv:act-nnnnn-cf1-1-pred|Lem=hippie|Len=7|MSeg=hippie-s
 6	_	_	PRON	WP	PronType=Rel	7	nsubj	5:ref	Discourse=elaboration-attribute:133->132:0:syn-mdf-872-_+syn-relcl-873-874-_|Lem=_|Len=3
 7	_	_	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	5:acl:relcl	Lem=think|Len=7
-8	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	Entity=(85-person-giv:inact-nnnnn-cf2-2-coref(126-person-giv:act-nnnnn-cf1-1-ana)|Lem=_|Len=5
-9	_	_	NOUN	NN	Number=Sing	12	nsubj	12:nsubj|15:nsubj:pass:xsubj	Entity=85)|Lem=_|Len=8
+8	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	Entity=(87-person-giv:inact-nnnnn-cf2-2-coref(128-person-giv:act-nnnnn-cf1-1-ana)|Lem=_|Len=5
+9	_	_	NOUN	NN	Number=Sing	12	nsubj	12:nsubj|15:nsubj:pass:xsubj	Entity=87)|Lem=_|Len=8
 10	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	12:aux	Lem=do|Len=3
 11	_	_	PART	RB	Polarity=Neg	12	advmod	12:advmod	Lem=not|Len=3|Negation=Yes
 12	_	_	VERB	VB	VerbForm=Inf	7	ccomp	7:ccomp	Lem=_|Len=4
@@ -39,7 +39,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 14	_	_	AUX	VB	VerbForm=Inf	15	aux:pass	15:aux:pass	Lem=_|Len=2
 15	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	xcomp	12:xcomp	Lem=label|Len=7|MSeg=label-ed
 16	_	_	ADP	IN	_	17	case	17:case	Lem=_|Len=2
-17	_	_	NOUN	NN	Number=Sing	15	obl:agent	15:obl:agent	Entity=(127-abstract-new-nnnnn-cf3-1-sgl)126)|Lem=_|Len=7|MSeg=soci-ety|SpaceAfter=No
+17	_	_	NOUN	NN	Number=Sing	15	obl:agent	15:obl:agent	Entity=(129-abstract-new-nnnnn-cf3-1-sgl)128)|Lem=_|Len=7|MSeg=soci-ety|SpaceAfter=No
 18	_	_	PUNCT	.	_	5	punct	5:punct	Lem=_|Len=1
 
 ~~~
@@ -73,7 +73,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 20	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux:pass	21:aux:pass	Lem=get|Len=4|MSeg=get-s
 21	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	9:advcl:when	Lem=clobber|Len=9|MSeg=clobber-ed
 22	_	_	ADP	IN	_	24	case	24:case	Lem=_|Len=2
-23	_	_	PROPN	NNP	Abbr=Yes|Number=Sing	24	nmod:desc	24:nmod:desc	Entity=(2-person-giv:act-sssss-cf3-1,2-coref-Bobby_Flay|Lem=_|Len=3
+23	_	_	PROPN	NNP	Abbr=Yes|Number=Sing	24	nmod:desc	24:nmod:desc	Entity=(2-person-giv:act-sssss-cf3-2-coref-Bobby_Flay|Lem=_|Len=3
 24	_	_	PROPN	NNP	Number=Sing	21	obl:agent	21:obl:agent	Entity=2)|Lem=_|Len=4|SpaceAfter=No
 25	_	_	PUNCT	.	_	9	punct	9:punct	Lem=_|Len=1
 
@@ -97,7 +97,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 9	_	_	ADJ	JJ	Degree=Pos	4	conj	4:conj:nor	Lem=_|Len=9|MSeg=desir-able
 10	_	_	PART	TO	_	11	mark	11:mark	Entity=(20-abstract-acc:com-nnnnn-cf3-2-coref|Lem=_|Len=2
 11	_	_	VERB	VB	VerbForm=Inf	4	csubj	4:csubj|6:csubj|9:csubj	Lem=_|Len=5
-12	_	_	DET	DT	PronType=Ind	14	det	14:det	Bridge=14<21|Entity=(21-abstract-acc:inf-ssnss-cf1-3-coref|Lem=_|Len=3
+12	_	_	DET	DT	PronType=Ind	14	det	14:det	Entity=(21-abstract-auto-ssnss-cf1-3-coref|Lem=_|Len=3
 13	_	_	NOUN	NN	Number=Sing	14	compound	14:compound	Lem=_|Len=6
 14	_	_	NOUN	NNS	Number=Plur	11	obj	11:obj	Entity=21)20)|Lem=norm|Len=5|MSeg=norm-s|SpaceAfter=No
 15	_	_	PUNCT	,	_	20	punct	20:punct	Lem=_|Len=1

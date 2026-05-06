@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>qui</em> (<tt><a href="la_perseus-pos
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 4.533333 (the average of all parts of speech is 2.101803).
+The form / lemma ratio of `PRON` is 4.533333 (the average of all parts of speech is 2.102438).
 
 The 1st highest number of forms (17) was observed with the lemma “qui”: <em>cui, cuius, qua, quae, quam, quarum, quas, quem, qui, quibus, quid, quis, quo, quod, quoius, quorum, quos</em>.
 

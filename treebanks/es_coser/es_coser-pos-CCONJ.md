@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ni</em> (<tt><a href="es_coser-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.466179).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.476980).
 
 The 1st highest number of forms (1) was observed with the lemma “Pero”: <em>Pero</em>.
 
@@ -47,15 +47,15 @@ Examples: <em>y, pero, o, ni, osea, u</em>
 
 Parents of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (222; 52% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (85; 20% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (25; 6% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (23; 5% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (22; 5% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (21; 5% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (12; 3% instances), <tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt> (7; 2% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-394 (92%) `CCONJ` nodes are leaves.
+377 (88%) `CCONJ` nodes are leaves.
 
-29 (7%) `CCONJ` nodes have one child.
+45 (11%) `CCONJ` nodes have one child.
 
-3 (1%) `CCONJ` nodes have two children.
+4 (1%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="es_coser-dep-punct.html">punct</a></tt> (17; 49% instances), <tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt> (11; 31% instances), <tt><a href="es_coser-dep-fixed.html">fixed</a></tt> (7; 20% instances)
+Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="es_coser-dep-punct.html">punct</a></tt> (35; 66% instances), <tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt> (11; 21% instances), <tt><a href="es_coser-dep-fixed.html">fixed</a></tt> (7; 13% instances)
 
-Children of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (17; 49% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (7; 20% instances), <tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt> (7; 20% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (2; 6% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (1; 3% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (1; 3% instances)
+Children of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (35; 66% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (7; 13% instances), <tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt> (7; 13% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 2% instances)
 

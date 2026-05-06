@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (13; 100% of non-empty `Abbr`): <em>კ-მ, კ-ს, დ., კ., რ., ს.</em>
-* `EMPTY` (810): <em>ერიკა, სოფი, ერიკას, თუთაშხიას, დათა, სოფიმ, სოფის, სილიბისტრო, კვაჭის, თუთაშხია</em>
+* `EMPTY` (843): <em>ერიკა, სოფი, ერიკას, თუთაშხიას, დათა, სოფიმ, სოფის, სილიბისტრო, ვარდენ, კვაჭის</em>
 
 ### `NOUN`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>ბ-ნ</em>
-* `EMPTY` (4817): <em>დედა, ოთახ, დროს, დრო, კითხვა, წლის, სამყარო, კაცი, პასუხი, ადამიანი</em>
+* `EMPTY` (4998): <em>დედა, ოთახ, დრო, დროს, კითხვა, წლის, სამყარო, კაცი, პასუხი, ადამიანი</em>
 

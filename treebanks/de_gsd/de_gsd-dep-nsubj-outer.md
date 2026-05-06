@@ -79,7 +79,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 38	alle	alle	DET	PIAT	Case=Acc|Gender=Masc|Number=Plur|PronType=Tot	39	det	_	_
 39	drei	drei	NUM	CARD	NumType=Card	37	appos	_	_
 40	1929	1929	NUM	CARD	NumType=Card	41	obl	_	_
-41	erschienen	erscheinen	VERB	VVPP	VerbForm=Part	30	acl	_	SpaceAfter=No
+41	erschienen	erscheinen	VERB	VVPP	VerbForm=Part	30	acl:relcl	_	SpaceAfter=No
 42	.	.	PUNCT	$.	_	6	punct	_	_
 
 ~~~

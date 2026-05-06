@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Furkan Akkurt, Çağrı Çöltekin.
 
 Repository: [UD_Turkish-TueCL](https://github.com/UniversalDependencies/UD_Turkish-TueCL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_tuecl217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_tuecl218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: grammar-examples
 Questions, comments?
 General annotation questions (either Turkish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Turkish-TueCL/issues).
-If you want to collaborate, please contact [furkanakkurt7242&nbsp;(æt)&nbsp;icloud&nbsp;•&nbsp;com].
+If you want to collaborate, please contact [furkan&nbsp;•&nbsp;akkurt&nbsp;(æt)&nbsp;bogazici&nbsp;•&nbsp;edu&nbsp;•&nbsp;tr].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
@@ -80,7 +80,7 @@ abstract = "We introduce the first fully aligned and manually annotated parallel
 
 ## Acknowledgments
 
-This work was supported by COST Action CA21167 - Universality, diversity and idiosyncrasy in language technology (UniDive). We thank the Turkic UD working group for fruitful discussions of linguistic issues and annotation approaches.
+This work was supported by COST Action CA21167 — Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)). We thank the Turkic UD working group for fruitful discussions of linguistic issues and annotation approaches.
 
 
 # Statistics of UD Turkish TueCL
@@ -91,7 +91,7 @@ This work was supported by COST Action CA21167 - Universality, diversity and idi
 
 ## Features
 
-[Aspect](tr_tuecl-feat-Aspect.html) – [Case](tr_tuecl-feat-Case.html) – [Definite](tr_tuecl-feat-Definite.html) – [Evident](tr_tuecl-feat-Evident.html) – [Mood](tr_tuecl-feat-Mood.html) – [Number](tr_tuecl-feat-Number.html) – [Number[psor]](tr_tuecl-feat-Number-psor.html) – [NumType](tr_tuecl-feat-NumType.html) – [Person](tr_tuecl-feat-Person.html) – [Person[psor]](tr_tuecl-feat-Person-psor.html) – [Polarity](tr_tuecl-feat-Polarity.html) – [PronType](tr_tuecl-feat-PronType.html) – [Reflex](tr_tuecl-feat-Reflex.html) – [Tense](tr_tuecl-feat-Tense.html) – [VerbForm](tr_tuecl-feat-VerbForm.html) – [Voice](tr_tuecl-feat-Voice.html)
+[Aspect](tr_tuecl-feat-Aspect.html) – [Case](tr_tuecl-feat-Case.html) – [Definite](tr_tuecl-feat-Definite.html) – [Evident](tr_tuecl-feat-Evident.html) – [ExtPos](tr_tuecl-feat-ExtPos.html) – [Mood](tr_tuecl-feat-Mood.html) – [Number](tr_tuecl-feat-Number.html) – [Number[psor]](tr_tuecl-feat-Number-psor.html) – [NumType](tr_tuecl-feat-NumType.html) – [Person](tr_tuecl-feat-Person.html) – [Person[psor]](tr_tuecl-feat-Person-psor.html) – [Polarity](tr_tuecl-feat-Polarity.html) – [PronType](tr_tuecl-feat-PronType.html) – [Reflex](tr_tuecl-feat-Reflex.html) – [Tense](tr_tuecl-feat-Tense.html) – [VerbForm](tr_tuecl-feat-VerbForm.html) – [Voice](tr_tuecl-feat-Voice.html)
 
 ## Relations
 
@@ -134,7 +134,7 @@ This work was supported by COST Action CA21167 - Universality, diversity and idi
 </ul>
 
 <ul>
-<li>This corpus contains 12 lemmas tagged as pronouns (PRON): ben, birbiri, biz, bu, bura, kendi, ki, kim, ne, nere, o, sen</li>
+<li>This corpus contains 11 lemmas tagged as pronouns (PRON): ben, birbiri, biz, bu, bura, kendi, kim, ne, nere, o, sen</li>
 </ul>
 
 <ul>
@@ -253,8 +253,8 @@ This work was supported by COST Action CA21167 - Universality, diversity and idi
       <li>ADJ: maviyi</li>
       <li>AUX-Part: olduğunu</li>
       <li>AUX-Vnoun: olmayı</li>
-      <li>NOUN: kitabı, annesini, arabayı, saçını, Soğanları, Yarını, akşamları, hedefleri, kapıyı, penceresini</li>
-      <li>PRON: birbirlerini, bunu, kini</li>
+      <li>NOUN: kitabı, annesini, arabayı, saçını, Soğanları, Yarını, akşamları, hedefleri, kapıyı, kini</li>
+      <li>PRON: birbirlerini, bunu</li>
       <li>VERB: Okuduklarını, okumayı, bırakmayı, gelebileceğini, içmeyi, yapmayı, yazdığını, Okuduğunuzu, okumasını, okuyacaklarını</li>
       <li>VERB-Part: Okuduklarını, yazdığını, Okuduğunuzu, okuyacaklarını, yağdığını</li>
       <li>VERB-Vnoun: okumayı, bırakmayı, içmeyi, yapmayı, okumasını, uyumasını, uyuyacağını</li>
@@ -277,8 +277,8 @@ This work was supported by COST Action CA21167 - Universality, diversity and idi
 <ul>
   <li>Gen
     <ul>
-      <li>NOUN: Annesinin, Evin, arkadaşının, babasının, halkın, kinin, mutfağın, odasının, çocuğun</li>
-      <li>PRON: Benim, Bunun, kimin, kinin</li>
+      <li>NOUN: Annesinin, kinin, Evin, arkadaşının, babasının, halkın, mutfağın, odasının, çocuğun</li>
+      <li>PRON: Benim, Bunun, kimin</li>
       <li>PROPN: Deniz'in, Fransanın, Hakan'ın, Peter'in</li>
     </ul>
   </li>
@@ -649,8 +649,8 @@ This work was supported by COST Action CA21167 - Universality, diversity and idi
 <ul>
   <li>Dem
     <ul>
-      <li>DET: bu, o</li>
-      <li>PRON: Bunun, O, bunu, kini, ondan</li>
+      <li>DET: bu, bütün, o</li>
+      <li>PRON: Bunun, O, bunu, buralara, ondan</li>
     </ul>
   </li>
 </ul>
@@ -668,7 +668,7 @@ This work was supported by COST Action CA21167 - Universality, diversity and idi
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: O, Sen, bana, Benim, Onlar, Sana, benden, bizimle, senin</li>
+      <li>PRON: O, Sen, bana, Benim, Onlar, Sana, benden, bizimle, kendi, kendine</li>
     </ul>
   </li>
 </ul>
@@ -736,7 +736,8 @@ This work was supported by COST Action CA21167 - Universality, diversity and idi
     <ul>
       <li>AUX: mi, idi, di, mı, olacak, miydi, mü, olmadı, olmalıydı, se</li>
       <li>AUX-Fin: durdu, idi</li>
-      <li>PRON: O, Bunun, Onlar, bunu, kendi, kendine, kinden, ondan</li>
+      <li>NOUN: kinden</li>
+      <li>PRON: O, Bunun, Onlar, bunu, kendi, kendine, ondan</li>
       <li>VERB: verdi, istiyor, aldı, gitti, okuyor, seviyor, uyudu, uyursa, bilmiyorlar, büyüdü</li>
       <li>VERB-Fin: anlatıyor, açıklanmış, gelecekti, gitti, götürdü, okumamış, seviyor, temizlememişti, temizlemiş, yapıyordu</li>
     </ul>
@@ -766,7 +767,7 @@ This work was supported by COST Action CA21167 - Universality, diversity and idi
       <li>ADJ: mavisi</li>
       <li>AUX-Part: olduğunu</li>
       <li>NOUN: annesini, Annesinin, arkadaşına, başkenti, kardeşi, kocasına, saçını, Anneannesi, Eşim, Hırkam</li>
-      <li>PRON: kendisine, kinden, kinin</li>
+      <li>PRON: kendisine</li>
       <li>VERB: Okuduklarını, gelebileceğini, okuması, yazdığını, ettiği, okumaması, okumasını, okuyacaklarını, olmaması, uyumasını</li>
       <li>VERB-Part: Okuduklarını, yazdığını, ettiği, okuyacaklarını, yaptığı, yağdığını</li>
       <li>VERB-Vnoun: okuması, okumaması, okumasını, olmaması, uyumasını, uyuyacağını, yapmasına</li>
@@ -776,6 +777,23 @@ This work was supported by COST Action CA21167 - Universality, diversity and idi
 
 <h3>Other Features</h3>
 
+
+<ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: ne</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>PRON: kendi</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Person[psor]</a>
@@ -789,8 +807,7 @@ This work was supported by COST Action CA21167 - Universality, diversity and idi
       </li>
       <li>2
         <ul>
-          <li>NOUN: arkadaşınla, Çocuğun</li>
-          <li>PRON: kinden</li>
+          <li>NOUN: arkadaşınla, kinden, Çocuğun</li>
           <li>VERB: gelebileceğini, Okuduğunuzu</li>
           <li>VERB-Part: Okuduğunuzu</li>
         </ul>
@@ -800,7 +817,7 @@ This work was supported by COST Action CA21167 - Universality, diversity and idi
           <li>ADJ: mavisi</li>
           <li>AUX-Part: olduğunu</li>
           <li>NOUN: annesini, Annesinin, arkadaşına, başkenti, kardeşi, kocasına, saçını, zamanında, Anneannesi, akşamları</li>
-          <li>PRON: birbirlerini, kendisine, kinin</li>
+          <li>PRON: birbirlerini, kendisine</li>
           <li>VERB-Part: Okuduklarını, yazdığını, ettiği, okuyacaklarını, yaptığı, yağdığını</li>
           <li>VERB-Vnoun: okuması, okumaması, okumasını, olmaması, uyumasını, uyuyacağını, yapmasına</li>
         </ul>
@@ -848,9 +865,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB-Conv--NOUN-Acc (2)</li>
       <li>VERB-Conv--NOUN-Nom (2)</li>
-      <li>VERB-Fin--NOUN-Acc (4)</li>
+      <li>VERB-Fin--NOUN-Acc (5)</li>
       <li>VERB-Fin--NOUN-Nom (1)</li>
-      <li>VERB-Fin--PRON-Acc (2)</li>
+      <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Vnoun--NOUN-Acc (1)</li>
       <li>VERB-Vnoun--NOUN-Nom (9)</li>
     </ul>

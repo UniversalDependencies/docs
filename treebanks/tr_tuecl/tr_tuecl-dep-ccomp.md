@@ -54,8 +54,8 @@ The following 3 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 4 ccomp	color:blue
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
-2	kendi	kendi	PRON	_	Case=Nom|Number=Sing|Person=3|Reflex=Yes	4	obl	_	_
-3	kendine	kendi	PRON	_	Case=Dat|Number=Sing|Person=3|Reflex=Yes	2	fixed	_	_
+2	kendi	kendi	PRON	_	Case=Nom|ExtPos=PRON|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	obl	_	_
+3	kendine	kendi	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	fixed	_	_
 4	olmayı	ol	AUX	_	Case=Acc|Number=Sing|VerbForm=Vnoun	5	ccomp	_	_
 5	seviyor	sev	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_

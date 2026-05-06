@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.5 release.
 The following people have contributed to making this treebank part of UD: Robert Munro.
 
 Repository: [UD_English-Pronouns](https://github.com/UniversalDependencies/UD_English-Pronouns)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pronouns217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pronouns218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -114,7 +114,7 @@ Please cite this book if using this dataset.
 
 ## Relations
 
-[advcl](en_pronouns-dep-advcl.html) – [advmod](en_pronouns-dep-advmod.html) – [amod](en_pronouns-dep-amod.html) – [appos](en_pronouns-dep-appos.html) – [aux](en_pronouns-dep-aux.html) – [aux:pass](en_pronouns-dep-aux-pass.html) – [case](en_pronouns-dep-case.html) – [cc](en_pronouns-dep-cc.html) – [ccomp](en_pronouns-dep-ccomp.html) – [conj](en_pronouns-dep-conj.html) – [cop](en_pronouns-dep-cop.html) – [det](en_pronouns-dep-det.html) – [det:predet](en_pronouns-dep-det-predet.html) – [expl](en_pronouns-dep-expl.html) – [iobj](en_pronouns-dep-iobj.html) – [mark](en_pronouns-dep-mark.html) – [nmod](en_pronouns-dep-nmod.html) – [nsubj](en_pronouns-dep-nsubj.html) – [obj](en_pronouns-dep-obj.html) – [obl](en_pronouns-dep-obl.html) – [orphan](en_pronouns-dep-orphan.html) – [parataxis](en_pronouns-dep-parataxis.html) – [punct](en_pronouns-dep-punct.html) – [root](en_pronouns-dep-root.html) – [xcomp](en_pronouns-dep-xcomp.html)
+[advcl](en_pronouns-dep-advcl.html) – [advmod](en_pronouns-dep-advmod.html) – [amod](en_pronouns-dep-amod.html) – [appos](en_pronouns-dep-appos.html) – [aux](en_pronouns-dep-aux.html) – [aux:pass](en_pronouns-dep-aux-pass.html) – [case](en_pronouns-dep-case.html) – [cc](en_pronouns-dep-cc.html) – [ccomp](en_pronouns-dep-ccomp.html) – [conj](en_pronouns-dep-conj.html) – [cop](en_pronouns-dep-cop.html) – [det](en_pronouns-dep-det.html) – [det:predet](en_pronouns-dep-det-predet.html) – [iobj](en_pronouns-dep-iobj.html) – [mark](en_pronouns-dep-mark.html) – [nmod](en_pronouns-dep-nmod.html) – [nsubj](en_pronouns-dep-nsubj.html) – [obj](en_pronouns-dep-obj.html) – [obl](en_pronouns-dep-obl.html) – [orphan](en_pronouns-dep-orphan.html) – [parataxis](en_pronouns-dep-parataxis.html) – [punct](en_pronouns-dep-punct.html) – [root](en_pronouns-dep-root.html) – [xcomp](en_pronouns-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -154,7 +154,7 @@ Please cite this book if using this dataset.
 </ul>
 
 <ul>
-<li>This corpus contains 7 lemmas tagged as pronouns (PRON): her, his, it, my, their, there, your</li>
+<li>This corpus contains 6 lemmas tagged as pronouns (PRON): her, his, it, my, their, your</li>
 </ul>
 
 <ul>
@@ -180,7 +180,7 @@ Please cite this book if using this dataset.
   <li>Fin
   <ul>
     <li>AUX: 's, is, was, 'll, ai</li>
-    <li>VERB: cleaned, like, drove, sold, gave, is, knew, liked, Take, accelerated</li>
+    <li>VERB: cleaned, like, drove, sold, gave, knew, liked, Take, accelerated, broke</li>
   </ul>
   </li>
 </ul>
@@ -260,7 +260,7 @@ Please cite this book if using this dataset.
       <li>AUX-Fin: 's, is, was, ai</li>
       <li>NOUN: dealer, car, paint</li>
       <li>PRON: hers, his, mine, theirs, yours, it</li>
-      <li>VERB-Fin: cleaned, drove, is, sold, accelerated, broke, get, hit, parks, saw</li>
+      <li>VERB-Fin: cleaned, drove, sold, accelerated, broke, get, hit, is, parks, saw</li>
     </ul>
   </li>
 </ul>
@@ -327,7 +327,7 @@ Please cite this book if using this dataset.
   <li>Ind
     <ul>
       <li>AUX-Fin: 's, is, was, ai</li>
-      <li>VERB-Fin: cleaned, like, drove, sold, gave, is, knew, liked, accelerated, broke</li>
+      <li>VERB-Fin: cleaned, like, drove, sold, gave, knew, liked, accelerated, broke, came</li>
     </ul>
   </li>
 </ul>
@@ -358,7 +358,7 @@ Please cite this book if using this dataset.
   <li>Pres
     <ul>
       <li>AUX-Fin: 's, is, ai</li>
-      <li>VERB-Fin: like, is, Take, do, get, parks, sell, sells</li>
+      <li>VERB-Fin: like, Take, do, get, is, parks, sell, sells</li>
       <li>VERB-Part: seeing, cleaning</li>
     </ul>
   </li>
@@ -377,6 +377,14 @@ Please cite this book if using this dataset.
   <li>Art
     <ul>
       <li>DET: the</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>ADV: There</li>
     </ul>
   </li>
 </ul>
@@ -459,7 +467,7 @@ Please cite this book if using this dataset.
     <ul>
       <li>AUX-Fin: 's, is, was, ai</li>
       <li>PRON: hers, his, theirs, it</li>
-      <li>VERB-Fin: cleaned, like, sold, drove, is, parks, sells, accelerated, broke, get</li>
+      <li>VERB-Fin: cleaned, like, sold, drove, parks, sells, accelerated, broke, get, hit</li>
     </ul>
   </li>
 </ul>
@@ -490,7 +498,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (140)</li>
-      <li>VERB-Fin--PRON (70)</li>
+      <li>VERB-Fin--PRON (65)</li>
       <li>VERB-Part--NOUN (10)</li>
       <li>VERB-Part--PRON (5)</li>
     </ul>
@@ -523,5 +531,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 2 relation subtypes: <a>aux:pass</a>, <a>det:predet</a></li>
-<li>The following 14 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 15 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

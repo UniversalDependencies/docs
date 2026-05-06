@@ -65,7 +65,7 @@ The 10 most frequent ambiguous types:  <em>=</em> (<tt><a href="de_gsd-pos-SYM.h
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.193322).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.193374).
 
 The 1st highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
 
@@ -86,7 +86,7 @@ Examples: <em>&, =, /, ×, +, *, €, ", -, :-)</em>
 
 `SYM` nodes are attached to their parents using 12 different relations: <tt><a href="de_gsd-dep-cc.html">cc</a></tt> (61; 60% instances), <tt><a href="de_gsd-dep-case.html">case</a></tt> (10; 10% instances), <tt><a href="de_gsd-dep-appos.html">appos</a></tt> (5; 5% instances), <tt><a href="de_gsd-dep-nmod.html">nmod</a></tt> (5; 5% instances), <tt><a href="de_gsd-dep-compound.html">compound</a></tt> (4; 4% instances), <tt><a href="de_gsd-dep-conj.html">conj</a></tt> (4; 4% instances), <tt><a href="de_gsd-dep-discourse.html">discourse</a></tt> (4; 4% instances), <tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt> (4; 4% instances), <tt><a href="de_gsd-dep-advmod.html">advmod</a></tt> (1; 1% instances), <tt><a href="de_gsd-dep-dep.html">dep</a></tt> (1; 1% instances), <tt><a href="de_gsd-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="de_gsd-dep-orphan.html">orphan</a></tt> (1; 1% instances)
 
-Parents of `SYM` nodes belong to 8 different parts of speech: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (35; 35% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (35; 35% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (12; 12% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (8; 8% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (4; 4% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (1; 1% instances)
+Parents of `SYM` nodes belong to 8 different parts of speech: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (36; 36% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (34; 34% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (12; 12% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (8; 8% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (4; 4% instances), <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (4; 4% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (2; 2% instances), <tt><a href="de_gsd-pos-PART.html">PART</a></tt> (1; 1% instances)
 
 80 (79%) `SYM` nodes are leaves.
 

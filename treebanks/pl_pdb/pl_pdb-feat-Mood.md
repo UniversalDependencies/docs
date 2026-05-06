@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Ind`.
 
-38306 tokens (11%) have a non-empty value of `Mood`.
-11602 types (19%) occur at least once with a non-empty value of `Mood`.
-4335 lemmas (16%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (32717; 9% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (5589; 2% instances).
+38304 tokens (11%) have a non-empty value of `Mood`.
+11601 types (19%) occur at least once with a non-empty value of `Mood`.
+4334 lemmas (16%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (32716; 9% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (5588; 2% instances).
 
 ### `VERB`
 
-32717 <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Mood`.
+32716 <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> tokens (83% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (32717; 100%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (31910; 98%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23930; 73%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (23519; 72%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (21255; 65%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18507; 57%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (32716; 100%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (31911; 98%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23932; 73%), <tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (23518; 72%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (21256; 65%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18506; 57%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (586; 2% of non-empty `Mood`): <em>powiedz, daj, patrz, weź, chodź, Zobacz, idź, Przypomnijmy, powiedzmy, czekaj</em>
-* `Ind` (32131; 98% of non-empty `Mood`): <em>ma, może, stoi, jest, można, mówi, siedzi, miał, należy, powiedział</em>
+* `Ind` (32130; 98% of non-empty `Mood`): <em>ma, może, stoi, jest, można, mówi, siedzi, miał, należy, powiedział</em>
 * `EMPTY` (6810): <em>trzymając, być, powiedzieć, mieć, zrobić, znaleźć, patrząc, robić, patrzeć, mówiąc</em>
 
 <table>
@@ -33,6 +33,8 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>miał</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>miały</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt>|<tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>miał</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ma</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-ExtPos.html">ExtPos</a></tt><tt>=VERB</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ma</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>miała, miala</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>miały</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>miało</em></td><td></td></tr>
@@ -47,18 +49,18 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>mają</em></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 94% lemmas (4066) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 94% lemmas (4065) occur only with one value of `Mood`.
 
 ### `AUX`
 
-5589 <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> tokens (64% of all `AUX` tokens) have a non-empty value of `Mood`.
+5588 <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> tokens (64% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5589; 100%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5589; 100%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4400; 79%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4239; 76%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3833; 69%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3611; 65%), <tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3134; 56%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt> (3045; 54%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="pl_pdb-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5588; 100%), <tt><a href="pl_pdb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5588; 100%), <tt><a href="pl_pdb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4399; 79%), <tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4238; 76%), <tt><a href="pl_pdb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3832; 69%), <tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3610; 65%), <tt><a href="pl_pdb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3133; 56%), <tt><a href="pl_pdb-feat-Person.html">Person</a></tt><tt>=3</tt> (3044; 54%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (9; 0% of non-empty `Mood`): <em>bądź</em>
-* `Ind` (5580; 100% of non-empty `Mood`): <em>jest, to, będzie, są, był, było, będą, była, jestem, były</em>
+* `Ind` (5579; 100% of non-empty `Mood`): <em>jest, to, będzie, są, był, było, będą, była, jestem, były</em>
 * `EMPTY` (3186): <em>em, by, m, śmy, być, eś, ś, zostać, niech, ście</em>
 
 <table>
@@ -91,14 +93,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> VERB</tt> (4580; 97%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> VERB</tt> (4377; 97%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-parataxis-obj.html">parataxis:obj</a></tt>]--> VERB</tt> (1201; 91%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1067; 80%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-aux.html">aux</a></tt>]--> AUX</tt> (517; 68%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-ccomp-obj.html">ccomp:obj</a></tt>]--> VERB</tt> (464; 74%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (129; 76%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (165; 93%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (134; 77%),
 <tt>VERB --[<tt><a href="pl_pdb-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (127; 98%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (64; 89%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-advcl-cmpr.html">advcl:cmpr</a></tt>]--> VERB</tt> (45; 82%),
-<tt>VERB --[<tt><a href="pl_pdb-dep-iobj.html">iobj</a></tt>]--> VERB</tt> (4; 100%).
+<tt>VERB --[<tt><a href="pl_pdb-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (73; 83%),
+<tt>VERB --[<tt><a href="pl_pdb-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (64; 89%).
 

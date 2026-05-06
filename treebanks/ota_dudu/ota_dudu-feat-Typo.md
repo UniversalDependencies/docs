@@ -22,5 +22,5 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (4; 100% of non-empty `Typo`): <em>aṣâġir, ceddi, heyʾâtında, pederi</em>
+* `Yes` (4; 100% of non-empty `Typo`): <em>aṣāġir, ceddi, heyʾātında, pederi</em>
 

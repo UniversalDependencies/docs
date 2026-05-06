@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-MPDT: Relations: `advcl:relcl`
 
 This relation is a language-specific subtype of <tt><a href="pl_mpdt-dep-advcl.html">advcl</a></tt>.
-There are also 1 other language-specific subtypes of `advcl`: <tt><a href="pl_mpdt-dep-advcl-cmpr.html">advcl:cmpr</a></tt>.
+There are also 1 other language-specific subtypes of `advcl`: <tt><a href="pl_mpdt-dep-advcl-cmp.html">advcl:cmp</a></tt>.
 
 26 nodes (0%) are attached to their parents as `advcl:relcl`.
 
@@ -59,10 +59,10 @@ The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 11	,	,	PUNCT	interp	PunctType=Comm	14	punct	14:punct	Translit=,
 12	co	co	SCONJ	comp	_	14	mark	14:mark|17:mark	Translit=co
 13	i	i	PART	part	_	14	cc:preconj	14:cc:preconj	Translit=y
-14	słońca	słońce	NOUN	subst:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing	8	obl:cmpr	8:obl:cmpr	SpaceAfter=No|Translit=słońca
+14	słońca	słońce	NOUN	subst:sg:gen:n	Case=Gen|Gender=Neut|Number=Sing	8	obl:cmp	8:obl:cmp	SpaceAfter=No|Translit=słońca
 15	,	,	PUNCT	interp	PunctType=Comm	17	punct	17:punct	Translit=,
 16	albo	albo	CCONJ	conj	_	17	cc	17:cc	Translit=álbo
-17	Księżyca	Księżyc	PROPN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	14	conj	8:obl:cmpr|14:conj	SpaceAfter=No|Translit=Xiężyca
+17	Księżyca	Księżyc	PROPN	subst:sg:gen:m	Case=Gen|Gender=Masc|Number=Sing	14	conj	8:obl:cmp|14:conj	SpaceAfter=No|Translit=Xiężyca
 18	.	.	PUNCT	interp	PunctType=Peri	9	punct	9:punct	Translit=.
 
 ~~~

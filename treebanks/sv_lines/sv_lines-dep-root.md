@@ -11,9 +11,9 @@ This relation is universal.
 5696 nodes (6%) are attached to their parents as `root`.
 
 5696 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.62745786516854.
+Average distance between parent and child is 4.62763342696629.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (4324; 76% instances), -<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (667; 12% instances), -<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (409; 7% instances), -<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (95; 2% instances), -<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (77; 1% instances), -<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (60; 1% instances), -<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (27; 0% instances), -<tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (17; 0% instances), -<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (15; 0% instances), -<tt><a href="sv_lines-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (4324; 76% instances), -<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (667; 12% instances), -<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (410; 7% instances), -<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (95; 2% instances), -<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (76; 1% instances), -<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (60; 1% instances), -<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (27; 0% instances), -<tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (17; 0% instances), -<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (15; 0% instances), -<tt><a href="sv_lines-pos-PART.html">PART</a></tt> (3; 0% instances), -<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), -<tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

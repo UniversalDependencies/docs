@@ -48,7 +48,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 5	Joseph	Joseph	PROPN	PM|NOM	Case=Nom	2	obl:agent	2:obl:agent|8:nsubj|10:nsubj	_
 6	Burgoyne	Burgoyne	PROPN	PM|NOM	Case=Nom	5	flat:name	5:flat:name	_
 7	som	som	PRON	HP|-|-|-	PronType=Int,Rel	8	nsubj	5:ref	_
-8	avsåg	avse	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl:relcl	_
+8	avsåg	avse	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl:relcl	ParsemeMWE=1:NotMWE
 9	att	att	PART	IE	_	10	mark	10:mark	_
 10	nå	nå	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	8	xcomp	8:xcomp	_
 11	Albany	Albany	PROPN	PM|NOM	Case=Nom	10	obj	10:obj	SpaceAfter=No
@@ -67,7 +67,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 2	var	vara	AUX	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	7:cop	_
 3	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	6	det	6:det	_
 4	mest	mycket	ADV	AB|SUV	Degree=Sup	5	advmod	5:advmod	_
-5	framgångsrika	framgångsrik	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	6	amod	6:amod	_
+5	framgångsrika	framgångsrik	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	6	amod	6:amod	ParsemeMWE=1:AdjID
 6	filmen	film	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	nsubj	7:nsubj	_
 7	El	el	PROPN	PM|NOM	Case=Nom	0	root	0:root	_
 8	Greco	greco	PROPN	PM|NOM	Case=Nom	7	flat:name	7:flat:name	SpaceAfter=No

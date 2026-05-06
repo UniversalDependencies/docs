@@ -12,7 +12,7 @@ It occurs with 16 different values: `Abe`, `Abl`, `Acc`, `Ade`, `All`, `Com`, `E
 80529 tokens (50%) have a non-empty value of `Case`.
 37690 types (86%) occur at least once with a non-empty value of `Case`.
 18176 lemmas (85%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (37041; 23% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (11008; 7% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (10142; 6% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (10061; 6% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (6772; 4% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (3555; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1507; 1% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (443; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (37041; 23% instances), <tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (11008; 7% instances), <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (10130; 6% instances), <tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (10061; 6% instances), <tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (6772; 4% instances), <tt><a href="fi_ftb-pos-DET.html">DET</a></tt> (3555; 2% instances), <tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (1507; 1% instances), <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> (455; 0% instances).
 
 ### `NOUN`
 
@@ -81,9 +81,9 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `VERB`
 
-10142 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Case`.
+10130 <tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> tokens (37% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10142; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10142; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (10142; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8271; 82%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5256; 52%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (5253; 52%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (5253; 52%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (10130; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10130; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (10130; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8259; 82%), <tt><a href="fi_ftb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5254; 52%), <tt><a href="fi_ftb-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (5251; 52%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (5251; 52%).
 
 `VERB` tokens may have the following values of `Case`:
 
@@ -94,15 +94,15 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Com` (3; 0% of non-empty `Case`): <em>esiintyvine, kiiluvine, lisääntyvine</em>
 * `Ela` (129; 1% of non-empty `Case`): <em>näkemästä, aiheuttamasta, puhumasta, tehdyistä, tulevasta, harkitsevista, jätetyistä, katsomasta, käymästä, lähtemästä</em>
 * `Ess` (168; 2% of non-empty `Case`): <em>verrattuna, seuraavana, katsottuna, suhteutettuna, kuolleena, mitattuna, pidätettynä, elävänä, katottuna, kuultavana</em>
-* `Gen` (636; 6% of non-empty `Case`): <em>olevan, olevansa, tulevan, tulleen, kuluvan, olleen, kadonneen, näkevän, pitävän, tulevansa</em>
+* `Gen` (634; 6% of non-empty `Case`): <em>olevan, olevansa, tulevan, tulleen, kuluvan, olleen, kadonneen, näkevän, pitävän, tulevansa</em>
 * `Ill` (914; 9% of non-empty `Case`): <em>tulemaan, tekemään, katsomaan, nukkumaan, puhumaan, maksamaan, olemaan, ottamaan, toimimaan, lähtemään</em>
 * `Ine` (507; 5% of non-empty `Case`): <em>saamassa, syömässä, tullessaan, katsomassa, ollessa, uimassa, hakemassa, korjattavissa, käymässä, nähtävissä</em>
 * `Ins` (286; 3% of non-empty `Case`): <em>lähtien, lukien, alkaen, nähden, katsoen, ollen, ottaen, riippuen, tullen, johtuen</em>
-* `Lat` (3219; 32% of non-empty `Case`): <em>olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</em>
-* `Nom` (3065; 30% of non-empty `Case`): <em>ollut, saanut, tullut, oleva, tehty, käynyt, sanonut, tehnyt, nähnyt, ollu</em>
+* `Lat` (3217; 32% of non-empty `Case`): <em>olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</em>
+* `Nom` (3057; 30% of non-empty `Case`): <em>ollut, saanut, tullut, oleva, tehty, käynyt, sanonut, tehnyt, nähnyt, ollu</em>
 * `Par` (458; 5% of non-empty `Case`): <em>olevia, olevaa, tehtyä, tultua, jääneitä, levättyään, aiheuttamaa, annettavaa, katsottavaa, kuultuaan</em>
 * `Tra` (337; 3% of non-empty `Case`): <em>valituksi, päästäkseen, hoidetuksi, luullakseni, muistaakseni, nähdäkseen, kuulusteltavaksi, kuuluvaksi, käsittääkseni, saadakseen</em>
-* `EMPTY` (17184): <em>on, oli, ole, tulee, tuli, saa, ei, sanoi, ovat, sai</em>
+* `EMPTY` (17067): <em>on, oli, tulee, ole, tuli, saa, ei, sanoi, ovat, sai</em>
 
 <table>
   <tr><th>Paradigm <i>tulla</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Tra</tt></th><th><tt>Abe</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th><th><tt>Lat</tt></th></tr>
@@ -271,23 +271,23 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `AUX`
 
-443 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Case`.
+455 <tt><a href="fi_ftb-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (443; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (443; 100%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (443; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (443; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (422; 95%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (239; 54%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="fi_ftb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (455; 100%), <tt><a href="fi_ftb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (455; 100%), <tt><a href="fi_ftb-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (455; 100%), <tt><a href="fi_ftb-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (455; 100%), <tt><a href="fi_ftb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (434; 95%), <tt><a href="fi_ftb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (249; 55%).
 
 `AUX` tokens may have the following values of `Case`:
 
 * `Ela` (2; 0% of non-empty `Case`): <em>olemasta</em>
 * `Ess` (2; 0% of non-empty `Case`): <em>olevinaan, olevinasi</em>
-* `Gen` (39; 9% of non-empty `Case`): <em>olevan, olevansa, voitavan, voivan, olleen, olevani, voivani, voivansa</em>
+* `Gen` (41; 9% of non-empty `Case`): <em>olevan, olevansa, olleen, voitavan, voivan, olevani, voivani, voivansa</em>
 * `Ill` (14; 3% of non-empty `Case`): <em>olemaan, oleen</em>
 * `Ine` (5; 1% of non-empty `Case`): <em>ollessa, ollessani, ollessaan</em>
 * `Ins` (3; 1% of non-empty `Case`): <em>ollen</em>
-* `Lat` (176; 40% of non-empty `Case`): <em>olla, voida, ollapa, täytyä</em>
-* `Nom` (197; 44% of non-empty `Case`): <em>ollut, voinut, olleet, pitänyt, ollu, voitu, täytynyt, oltava, oltu, voineet</em>
+* `Lat` (178; 39% of non-empty `Case`): <em>olla, voida, ollapa, täytyä</em>
+* `Nom` (205; 45% of non-empty `Case`): <em>ollut, voinut, olleet, pitänyt, ollu, voitu, täytynyt, oltava, oltu, voineet</em>
 * `Par` (1; 0% of non-empty `Case`): <em>oltuaan</em>
 * `Tra` (4; 1% of non-empty `Case`): <em>ollakseen, Ollaksesi, voidakseen</em>
-* `EMPTY` (9963): <em>on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</em>
+* `EMPTY` (10080): <em>on, ei, oli, ovat, ole, en, voi, olisi, olen, eivät</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th><th><tt>Ess</tt></th><th><tt>Tra</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Lat</tt></th></tr>
@@ -321,12 +321,12 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="fi_ftb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5246; 90%),
 <tt>NOUN --[<tt><a href="fi_ftb-dep-det.html">det</a></tt>]--> DET</tt> (2517; 86%),
-<tt>NOUN --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1520; 91%),
+<tt>NOUN --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1522; 91%),
 <tt>NOUN --[<tt><a href="fi_ftb-dep-acl.html">acl</a></tt>]--> VERB</tt> (1128; 53%),
 <tt>ADJ --[<tt><a href="fi_ftb-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (463; 60%),
 <tt>PROPN --[<tt><a href="fi_ftb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (463; 60%),
-<tt>ADJ --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (431; 97%),
+<tt>ADJ --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (430; 97%),
 <tt>PROPN --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (326; 93%),
 <tt>ADJ --[<tt><a href="fi_ftb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (288; 64%),
-<tt>NOUN --[<tt><a href="fi_ftb-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (278; 57%).
+<tt>NOUN --[<tt><a href="fi_ftb-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (278; 54%).
 

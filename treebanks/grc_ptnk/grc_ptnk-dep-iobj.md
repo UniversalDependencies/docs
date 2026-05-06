@@ -25,7 +25,7 @@ The following 17 pairs of parts of speech are connected with `iobj`: <tt><a href
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_15.6
 2	ἐπίστευσεν	πιστεύω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-believe|Ref=GEN_15.6
 3	Ἅβραμ	Ἅβραμ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Abram|Ref=GEN_15.6
-4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	5	det	_	Gloss=the|Ref=GEN_15.6
+4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the|Ref=GEN_15.6
 5	θεῷ	θεός	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Gloss=god|Ref=GEN_15.6|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Ref=GEN_15.6
 7	καὶ	καί	CCONJ	_	_	8	cc	_	Gloss=and,also,even,then,next|Ref=GEN_15.6
@@ -47,9 +47,9 @@ The following 17 pairs of parts of speech are connected with `iobj`: <tt><a href
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_8.15
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_8.15
 3	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=lord|Ref=GEN_8.15
-4	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the;-oh|Ref=GEN_8.15
+4	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the;-oh|Ref=GEN_8.15
 5	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	Gloss=god|Ref=GEN_8.15
-6	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=GEN_8.15
+6	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=GEN_8.15
 7	Νῶε	Νῶε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Gloss=Noah|Ref=GEN_8.15
 8	λέγων	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	Gloss=to-say|Ref=GEN_8.15|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	Ref=GEN_8.15
@@ -65,7 +65,7 @@ The following 17 pairs of parts of speech are connected with `iobj`: <tt><a href
 # visual-style 2 6 iobj	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_3.4
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_3.4
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_3.4
+3	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_3.4
 4	ὄφις	ὄφις	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=snake,serpent|Ref=GEN_3.4
 5	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_3.4
 6	γυναικί	γυνή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	iobj	_	Gloss=wife,woman|Ref=GEN_3.4|SpaceAfter=No

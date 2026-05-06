@@ -6,27 +6,30 @@ udver: '2'
 
 ## Treebank Statistics: UD_Erzya-JR: POS Tags: `AUX`
 
-There are 11 `AUX` lemmas (0%), 74 `AUX` types (1%) and 786 `AUX` tokens (4%).
+There are 11 `AUX` lemmas (0%), 74 `AUX` types (1%) and 791 `AUX` tokens (4%).
 Out of 16 observed tags, the rank of `AUX` is: 14 in number of lemmas, 8 in number of types and 7 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>а, кармамс, аволь, улемс, ульнемс, эрявомс, савомс, бу, кадык, давай</em>
 
-The 10 most frequent `AUX` types:  <em>а, аволь, эзь, кармась, апак, ульнесь, кармасть, иля, эряви, ули</em>
+The 10 most frequent `AUX` types:  <em>а, аволь, эзь, кармась, апак, ульнесь, иля, кармасть, эряви, ули</em>
 
-The 10 most frequent ambiguous lemmas: <em>а</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 430, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>улемс</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 50, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 6), <em>ульнемс</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 45, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 3), <em>эрявомс</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 21, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 8), <em>савомс</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 15, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1), <em>бу</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 14, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>а</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 435, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>кармамс</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 108, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 2), <em>улемс</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 50, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 6), <em>ульнемс</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 45, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 3), <em>эрявомс</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 21, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 11), <em>савомс</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 15, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1), <em>бу</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 14, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>а</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 208, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 6), <em>ульнесь</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 31, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1), <em>эряви</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 13, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 3), <em>ули</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 12, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1), <em>бу</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 14, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1), <em>кадык</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 3, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 2), <em>ульнесть</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 12, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 2), <em>уле</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 2, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1), <em>улеме</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 2, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>а</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 209, <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 6), <em>кармась</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 45, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1), <em>ульнесь</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 31, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1), <em>эряви</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 13, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 4), <em>ули</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 12, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1), <em>бу</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 14, <tt><a href="myv_jr-pos-PART.html">PART</a></tt> 1), <em>кадык</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 3, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 2), <em>ульнесть</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 12, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 2), <em>эрявсь</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 1, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1), <em>уле</em> (<tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 2, <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1)
 
 
 * <em>а</em>
-  * <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 208: <em>― Конат <b>а</b> молить мартонзо ― ледни , ули-парост сайни .</em>
+  * <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 209: <em>― Конат <b>а</b> молить мартонзо ― ледни , ули-парост сайни .</em>
   * <tt><a href="myv_jr-pos-CCONJ.html">CCONJ</a></tt> 6: <em>Сон рамась машина , <b>а</b> ялаксозо ансяк чаро .</em>
+* <em>кармась</em>
+  * <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 45: <em>Сэтьместэ <b>кармась</b> пурнавомо тусто чопудась .</em>
+  * <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1: <em>Сон ( экшесь ) уш <b>кармась</b> чополгавтомс пиже лопатнень .</em>
 * <em>ульнесь</em>
   * <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 31: <em>― Кенярдомаст <b>ульнесь</b> певтеме .</em>
   * <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1: <em>Икеле <b>ульнесь</b> ( Галина Ивановна ) райгазетань машинисткакс ...</em>
 * <em>эряви</em>
   * <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 13: <em>― Да , <b>эряви</b> капшамс ! ― кежей ладсо пшкадсь Ясребов .</em>
-  * <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 3: <em>Иеде иес веленек тестэ саить сёвонь , кинень зяро <b>эряви</b> .</em>
+  * <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 4: <em>Иеде иес веленек тестэ саить сёвонь , кинень зяро <b>эряви</b> .</em>
 * <em>ули</em>
   * <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 12: <em>Мелезэяк <b>ули</b> налксемс , ды ней уш сонензэ а лади пакшакс чийнемс .</em>
   * <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1: <em>Тонь <b>ули</b> од цёрат , монь — од тейтерем .</em>
@@ -39,16 +42,16 @@ The 10 most frequent ambiguous types:  <em>а</em> (<tt><a href="myv_jr-pos-AUX.
 * <em>ульнесть</em>
   * <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 12: <em>Цярданев тетянзо туемадо мейле неть тевтне <b>ульнесть</b> сонзэ — Кечаень .</em>
   * <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 2: <em>Астай покштянть сестэ <b>ульнесть</b> вете цёранзо пек вадрят , нилетне уш урьвакстозельть ...</em>
+* <em>эрявсь</em>
+  * <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 1: <em>Сонензэ <b>эрявсь</b> судрявкс теемс , ансяк се чистэнть мекс-бути эзь кенере .</em>
+  * <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1: <em>Тейтересь <b>эрявсь</b> варчамс Обранонь раськень .</em>
 * <em>уле</em>
   * <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 2: <em>Ансяк кодат иляст <b>уле</b> , весемеде мазыйтне эйстэдест , монень маряви , розась ды макось .</em>
   * <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1: <em>Зярдояк рунгонь виесь илязо <b>уле</b> превень вийденть покш ...</em>
-* <em>улеме</em>
-  * <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> 2: <em>Те киниганть ловныцянзо <b>улеме</b> кармить аволь аламо .</em>
-  * <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> 1: <em>— Истят умартнеде , Иван Григорьевич , ков ие яла седе ламо кармасть <b>улеме</b> ...</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 6.727273 (the average of all parts of speech is 2.079051).
+The form / lemma ratio of `AUX` is 6.727273 (the average of all parts of speech is 2.080836).
 
 The 1st highest number of forms (25) was observed with the lemma “а”: <em>Илять, Эзик, а, аволизе, аволинек, аволинь, аволить, аволь, апак, иля, илядо, илязо, илязт, иляст, эзизе, эзизь, эзимизь, эзинзе, эзинь, эзить, эзия, эзть, эзь, эссе, эсть</em>.
 
@@ -56,22 +59,22 @@ The 2nd highest number of forms (16) was observed with the lemma “улемс�
 
 The 3rd highest number of forms (15) was observed with the lemma “кармамс”: <em>Кармиксэль, Карминдерят, карма, кармавлинь, кармакшнось, карман, кармасть, кармась, кармат, карми, кармиде, кармильть, карминь, кармить, кармитьдеряй</em>.
 
-`AUX` occurs with 19 features: <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt> (500; 64% instances), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt> (404; 51% instances), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt> (404; 51% instances), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt> (398; 51% instances), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt> (398; 51% instances), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt> (323; 41% instances), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt> (156; 20% instances), <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt> (103; 13% instances), <tt><a href="myv_jr-feat-NegationType.html">NegationType</a></tt> (61; 8% instances), <tt><a href="myv_jr-feat-PartForm.html">PartForm</a></tt> (40; 5% instances), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt> (27; 3% instances), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt> (27; 3% instances), <tt><a href="myv_jr-feat-PartType.html">PartType</a></tt> (18; 2% instances), <tt><a href="myv_jr-feat-Connegative.html">Connegative</a></tt> (9; 1% instances), <tt><a href="myv_jr-feat-ExtPos.html">ExtPos</a></tt> (4; 1% instances), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt> (3; 0% instances), <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (2; 0% instances), <tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt> (2; 0% instances), <tt><a href="myv_jr-feat-Style.html">Style</a></tt> (2; 0% instances)
+`AUX` occurs with 19 features: <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt> (505; 64% instances), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt> (408; 52% instances), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt> (407; 51% instances), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt> (401; 51% instances), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt> (401; 51% instances), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt> (325; 41% instances), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt> (157; 20% instances), <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt> (103; 13% instances), <tt><a href="myv_jr-feat-NegationType.html">NegationType</a></tt> (61; 8% instances), <tt><a href="myv_jr-feat-PartForm.html">PartForm</a></tt> (40; 5% instances), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt> (27; 3% instances), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt> (27; 3% instances), <tt><a href="myv_jr-feat-PartType.html">PartType</a></tt> (18; 2% instances), <tt><a href="myv_jr-feat-Connegative.html">Connegative</a></tt> (9; 1% instances), <tt><a href="myv_jr-feat-ExtPos.html">ExtPos</a></tt> (4; 1% instances), <tt><a href="myv_jr-feat-Derivation.html">Derivation</a></tt> (3; 0% instances), <tt><a href="myv_jr-feat-Case.html">Case</a></tt> (2; 0% instances), <tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt> (2; 0% instances), <tt><a href="myv_jr-feat-Style.html">Style</a></tt> (2; 0% instances)
 
 `AUX` occurs with 34 feature-value pairs: `Aspect=Hab,Inch`, `Aspect=Inch`, `Case=Loc`, `Clitic=Add`, `Connegative=Yes`, `Derivation=OkshnOms`, `ExtPos=AUX`, `ExtPos=INTJ`, `Mood=Cnd`, `Mood=Des`, `Mood=Imp`, `Mood=Ind`, `Mood=Opt`, `Mood=Sub`, `NegationType=Contrastive`, `Number[obj]=Plur`, `Number[obj]=Sing`, `Number[subj]=Plur`, `Number[subj]=Sing`, `PartForm=NegConvPrc`, `PartType=Emp`, `Person[obj]=1`, `Person[obj]=3`, `Person[subj]=1`, `Person[subj]=2`, `Person[subj]=3`, `Polarity=Neg`, `Style=Arch`, `Tense=Past`, `Tense=Pres`, `VerbForm=Conv,Part`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbType=Aux`
 
-`AUX` occurs with 89 feature combinations.
+`AUX` occurs with 90 feature combinations.
 The most frequent feature combination is `Polarity=Neg` (185 tokens).
 Examples: <em>а, аволь, эзь, апак, иля, эзть, эзинь, эсть, эзизе, илядо</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 14 different relations: <tt><a href="myv_jr-dep-aux.html">aux</a></tt> (393; 50% instances), <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt> (162; 21% instances), <tt><a href="myv_jr-dep-aux-aspect.html">aux:aspect</a></tt> (107; 14% instances), <tt><a href="myv_jr-dep-cop.html">cop</a></tt> (80; 10% instances), <tt><a href="myv_jr-dep-root.html">root</a></tt> (14; 2% instances), <tt><a href="myv_jr-dep-aux-opt.html">aux:opt</a></tt> (10; 1% instances), <tt><a href="myv_jr-dep-aux-imp.html">aux:imp</a></tt> (5; 1% instances), <tt><a href="myv_jr-dep-conj.html">conj</a></tt> (4; 1% instances), <tt><a href="myv_jr-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="myv_jr-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="myv_jr-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="myv_jr-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 14 different relations: <tt><a href="myv_jr-dep-aux.html">aux</a></tt> (393; 50% instances), <tt><a href="myv_jr-dep-aux-neg.html">aux:neg</a></tt> (167; 21% instances), <tt><a href="myv_jr-dep-aux-aspect.html">aux:aspect</a></tt> (107; 14% instances), <tt><a href="myv_jr-dep-cop.html">cop</a></tt> (80; 10% instances), <tt><a href="myv_jr-dep-root.html">root</a></tt> (14; 2% instances), <tt><a href="myv_jr-dep-aux-opt.html">aux:opt</a></tt> (10; 1% instances), <tt><a href="myv_jr-dep-aux-imp.html">aux:imp</a></tt> (5; 1% instances), <tt><a href="myv_jr-dep-conj.html">conj</a></tt> (4; 1% instances), <tt><a href="myv_jr-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="myv_jr-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="myv_jr-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="myv_jr-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="myv_jr-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (533; 68% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (71; 9% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (67; 9% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (51; 6% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (33; 4% instances),  (14; 2% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (538; 68% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (71; 9% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (67; 8% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (51; 6% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (33; 4% instances),  (14; 2% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (6; 1% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 
-752 (96%) `AUX` nodes are leaves.
+757 (96%) `AUX` nodes are leaves.
 
 14 (2%) `AUX` nodes have one child.
 

@@ -9,7 +9,7 @@ udver: '2'
 There are 4 `DET` lemmas (4%), 7 `DET` types (6%) and 9 `DET` tokens (5%).
 Out of 13 observed tags, the rank of `DET` is: 10 in number of lemmas, 6 in number of types and 8 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>se, _, sum, þis</em>
+The 10 most frequent `DET` lemmas: <em>se, nanne, sum, þis</em>
 
 The 10 most frequent `DET` types:  <em>þæt, nanne, sume, Þis, þa, þone, þære</em>
 
@@ -31,17 +31,17 @@ The form / lemma ratio of `DET` is 1.750000 (the average of all parts of speech 
 
 The 1st highest number of forms (4) was observed with the lemma “se”: <em>þa, þone, þære, þæt</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “_”: <em>nanne</em>.
+The 2nd highest number of forms (1) was observed with the lemma “nanne”: <em>nanne</em>.
 
 The 3rd highest number of forms (1) was observed with the lemma “sum”: <em>sume</em>.
 
-`DET` occurs with 3 features: <tt><a href="ang_cairo-feat-Case.html">Case</a></tt> (9; 100% instances), <tt><a href="ang_cairo-feat-Number.html">Number</a></tt> (9; 100% instances), <tt><a href="ang_cairo-feat-Gender.html">Gender</a></tt> (8; 89% instances)
+`DET` occurs with 5 features: <tt><a href="ang_cairo-feat-Case.html">Case</a></tt> (9; 100% instances), <tt><a href="ang_cairo-feat-Number.html">Number</a></tt> (9; 100% instances), <tt><a href="ang_cairo-feat-PronType.html">PronType</a></tt> (9; 100% instances), <tt><a href="ang_cairo-feat-Gender.html">Gender</a></tt> (8; 89% instances), <tt><a href="ang_cairo-feat-Definite.html">Definite</a></tt> (6; 67% instances)
 
-`DET` occurs with 8 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Sing`
+`DET` occurs with 13 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Neg`
 
-`DET` occurs with 6 feature combinations.
-The most frequent feature combination is `Case=Nom|Gender=Neut|Number=Sing` (2 tokens).
-Examples: <em>Þis, Þæt</em>
+`DET` occurs with 8 feature combinations.
+The most frequent feature combination is `Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art` (2 tokens).
+Examples: <em>þæt</em>
 
 
 ## Relations

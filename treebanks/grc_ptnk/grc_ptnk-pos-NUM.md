@@ -48,7 +48,7 @@ The 3rd highest number of forms (5) was observed with the lemma “δεύτερ�
 
 `NUM` occurs with 16 feature-value pairs: `Case=Acc`, `Case=Acc,Gen,Nom`, `Case=Acc,Nom`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Masc,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `NumType=Card`, `NumType=Ord`, `Number=Plur`, `Number=Sing`
 
-`NUM` occurs with 34 feature combinations.
+`NUM` occurs with 35 feature combinations.
 The most frequent feature combination is `NumType=Card` (235 tokens).
 Examples: <em>ἑπτὰ, δύο, ἑκατὸν, δέκα, πέντε, τριάκοντα, τεσσαράκοντα, ἑξήκοντα, ἑβδομήκοντα, δώδεκα</em>
 

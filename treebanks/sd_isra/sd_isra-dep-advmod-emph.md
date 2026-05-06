@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sd_isra-dep-advmod.html">advmod</a></tt>.
 
-1489 nodes (2%) are attached to their parents as `advmod:emph`.
+1502 nodes (2%) are attached to their parents as `advmod:emph`.
 
-1488 instances of `advmod:emph` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.21961047683009.
+1501 instances of `advmod:emph` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.21837549933422.
 
-The following 12 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (529; 36% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (266; 18% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (237; 16% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (132; 9% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (112; 8% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (93; 6% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (55; 4% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (29; 2% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (20; 1% instances), <tt><a href="sd_isra-pos-PART.html">PART</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `advmod:emph`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (529; 35% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (277; 18% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (240; 16% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (132; 9% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (110; 7% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (93; 6% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (55; 4% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (30; 2% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (20; 1% instances), <tt><a href="sd_isra-pos-PART.html">PART</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sd_isra-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,7 +39,7 @@ The following 12 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 advmod:emph	color:blue
-1	ائين	ائين	PRON	PRL	Case=Nom	2	obl	_	_
+1	ائين	ائين	PRON	PRL	Case=Nom|PronType=Rel	2	obl	_	_
 2	چئي	چئو	VERB	VM	Aspect=Perf|VerbForm=Conv	6	advcl	_	_
 3	اها	اها	DET	PRD	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	6	nsubj	_	_
 4	به	به	PART	PART	_	3	advmod:emph	_	_

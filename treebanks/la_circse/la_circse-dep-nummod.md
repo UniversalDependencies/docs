@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-53 nodes (0%) are attached to their parents as `nummod`.
+58 nodes (0%) are attached to their parents as `nummod`.
 
-43 instances of `nummod` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.39622641509434.
+46 instances of `nummod` (79%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.51724137931034.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (45; 85% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (4; 8% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (3; 6% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (50; 86% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (4; 7% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (3; 5% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

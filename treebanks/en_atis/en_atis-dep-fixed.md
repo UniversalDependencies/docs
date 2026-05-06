@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-25 nodes (0%) are attached to their parents as `fixed`.
+26 nodes (0%) are attached to their parents as `fixed`.
 
-25 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.28.
+26 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26923076923077.
 
-The following 10 pairs of parts of speech are connected with `fixed`: <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (6; 24% instances), <tt><a href="en_atis-pos-DET.html">DET</a></tt>-<tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> (4; 16% instances), <tt><a href="en_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (3; 12% instances), <tt><a href="en_atis-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (2; 8% instances), <tt><a href="en_atis-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (2; 8% instances), <tt><a href="en_atis-pos-DET.html">DET</a></tt>-<tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> (2; 8% instances), <tt><a href="en_atis-pos-DET.html">DET</a></tt>-<tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (2; 8% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (2; 8% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (1; 4% instances).
+The following 11 pairs of parts of speech are connected with `fixed`: <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (6; 23% instances), <tt><a href="en_atis-pos-DET.html">DET</a></tt>-<tt><a href="en_atis-pos-NOUN.html">NOUN</a></tt> (4; 15% instances), <tt><a href="en_atis-pos-ADV.html">ADV</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (3; 12% instances), <tt><a href="en_atis-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (2; 8% instances), <tt><a href="en_atis-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (2; 8% instances), <tt><a href="en_atis-pos-DET.html">DET</a></tt>-<tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> (2; 8% instances), <tt><a href="en_atis-pos-DET.html">DET</a></tt>-<tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (2; 8% instances), <tt><a href="en_atis-pos-VERB.html">VERB</a></tt>-<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> (2; 8% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="en_atis-pos-ADP.html">ADP</a></tt>-<tt><a href="en_atis-pos-DET.html">DET</a></tt> (1; 4% instances).
 
 
 ~~~ conllu

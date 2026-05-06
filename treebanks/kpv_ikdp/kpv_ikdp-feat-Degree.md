@@ -36,18 +36,18 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 * `Cmp` (1; 50% of non-empty `Degree`): <em>дёлядзык</em>
 * `Sup` (1; 50% of non-empty `Degree`): <em>меддёля</em>
-* `EMPTY` (96): <em>ас, бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем</em>
+* `EMPTY` (97): <em>ас, бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем</em>
 
 ### `DET`
 
-1 <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Degree`.
+1 <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>унджык</em>
-* `EMPTY` (9): <em>уна, Став, всю, какой, кымын, мӧд, ставыс, такое</em>
+* `EMPTY` (8): <em>уна, Став, всю, какой, кымын, мӧд, ставыс</em>
 
 ### `NOUN`
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 1 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `Degree` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `Degree`:
 

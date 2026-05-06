@@ -11,22 +11,22 @@ It occurs with 4 different values: `Act`, `Cau`, `CauPass`, `Pass`.
 
 11342 tokens (11%) have a non-empty value of `Voice`.
 2362 types (26%) occur at least once with a non-empty value of `Voice`.
-603 lemmas (15%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (9416; 9% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (1926; 2% instances).
+602 lemmas (15%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (9415; 9% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (1927; 2% instances).
 
 ### `VERB`
 
-9416 <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Voice`.
+9415 <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9373; 100%), <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9328; 99%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (6815; 72%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6661; 71%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6562; 70%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5330; 57%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9372; 100%), <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9327; 99%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (6815; 72%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (6661; 71%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6562; 70%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5329; 57%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (6859; 73% of non-empty `Voice`): <em>ասէ, ետ, ասեն, ասեմ, եկն, ասաց, ել, ետես, առաքեաց, արար</em>
+* `Act` (6858; 73% of non-empty `Voice`): <em>ասէ, ետ, ասեն, ասեմ, եկն, ասաց, ել, ետես, առաքեաց, արար</em>
 * `Cau` (390; 4% of non-empty `Voice`): <em>ուսուցանէր, ապրեցուցանել, կացոյց, կեցուցին, մատուցին, ուսուցանել, հատուսցէ, մատո, յարոյց, գայթագղեցուսցէ</em>
 * `CauPass` (5; 0% of non-empty `Voice`): <em>մատուցաւ, թաքեաւ, խոնարհեցաւ, մատուցան</em>
 * `Pass` (2162; 23% of non-empty `Voice`): <em>ծնաւ, ծնանի, լուաւ, սկսաւ, լուան, ունիցի, անկաւ, խաւսեցաւ, յարեաւ, ընդունի</em>
-* `EMPTY` (5198): <em>ասեին, գայ, եկեալ, ասէր, ասել, առեալ, գրեալ, ելեալ, մատուցեալ, առնել</em>
+* `EMPTY` (5201): <em>ասեին, գայ, եկեալ, ասէր, ասել, առեալ, գրեալ, ելեալ, մատուցեալ, առնել</em>
 
 <table>
   <tr><th>Paradigm <i>ասել</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -53,15 +53,15 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-1926 <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> tokens (70% of all `AUX` tokens) have a non-empty value of `Voice`.
+1927 <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> tokens (70% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1926; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (1583; 82%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1564; 81%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1545; 80%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1458; 76%), <tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1263; 66%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1927; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (1583; 82%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1564; 81%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (1545; 80%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1458; 76%), <tt><a href="xcl_caval-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1263; 66%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (1660; 86% of non-empty `Voice`): <em>է, եղեւ, իցէ, են, եմ, ես, էք, իցեն, իցեմ, եմք</em>
+* `Act` (1661; 86% of non-empty `Voice`): <em>է, եղեւ, իցէ, են, եմ, ես, էք, իցեն, իցեմ, եմք</em>
 * `Pass` (266; 14% of non-empty `Voice`): <em>եղիցի, լիցի, լինիցի, լինի, եղիցին, լիցին, լերուք, եղերուք, լինին, լինիցին</em>
-* `EMPTY` (811): <em>էր, եին, լինել, լեալ, եղեն, եղեալ, լինէր, եի, եղիջիք, լինելոյ</em>
+* `EMPTY` (808): <em>էր, եին, լինել, լեալ, եղեն, եղեալ, լինէր, եի, եղիջիք, լինելոյ</em>
 
 <table>
   <tr><th>Paradigm <i>եմ</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -88,7 +88,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (1341; 53%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (1345; 53%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (104; 51%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (11; 52%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (3; 100%),

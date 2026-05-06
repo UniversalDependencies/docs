@@ -1,26 +1,26 @@
 ---
 layout: base
-title:  'Statistics of VerbType in UD_Egyptian-UJaen'
+title:  'Statistics of VerbType in UD_Egyptian-PC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Egyptian-UJaen: Features: `VerbType`
+## Treebank Statistics: UD_Egyptian-PC: Features: `VerbType`
 
 This feature is language-specific.
 It occurs with 1 different values: `Aux`.
 
-59 tokens (0%) have a non-empty value of `VerbType`.
-3 types (0%) occur at least once with a non-empty value of `VerbType`.
-1 lemmas (0%) occur at least once with a non-empty value of `VerbType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="egy_ujaen-pos-AUX.html">AUX</a></tt> (59; 0% instances).
+70 tokens (0%) have a non-empty value of `VerbType`.
+4 types (0%) occur at least once with a non-empty value of `VerbType`.
+2 lemmas (0%) occur at least once with a non-empty value of `VerbType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="egy_pc-pos-AUX.html">AUX</a></tt> (70; 0% instances).
 
 ### `AUX`
 
-59 <tt><a href="egy_ujaen-pos-AUX.html">AUX</a></tt> tokens (50% of all `AUX` tokens) have a non-empty value of `VerbType`.
+70 <tt><a href="egy_pc-pos-AUX.html">AUX</a></tt> tokens (48% of all `AUX` tokens) have a non-empty value of `VerbType`.
 
-The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="egy_ujaen-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (59; 100%), <tt><a href="egy_ujaen-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (59; 100%), <tt><a href="egy_ujaen-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (58; 98%), <tt><a href="egy_ujaen-feat-VerbClass.html">VerbClass</a></tt><tt>=Def</tt> (58; 98%), <tt><a href="egy_ujaen-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (38; 64%), <tt><a href="egy_ujaen-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 54%).
+The most frequent other feature values with which `AUX` and `VerbType` co-occurred: <tt><a href="egy_pc-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (70; 100%), <tt><a href="egy_pc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (70; 100%), <tt><a href="egy_pc-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (70; 100%), <tt><a href="egy_pc-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (69; 99%), <tt><a href="egy_pc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (69; 99%), <tt><a href="egy_pc-feat-VerbClass.html">VerbClass</a></tt><tt>=Def</tt> (66; 94%), <tt><a href="egy_pc-feat-Conjug.html">Conjug</a></tt><tt>=EMPTY</tt> (42; 60%), <tt><a href="egy_pc-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (42; 60%), <tt><a href="egy_pc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (42; 60%).
 
 `AUX` tokens may have the following values of `VerbType`:
 
-* `Aux` (59; 100% of non-empty `VerbType`): <em>(ꞽ)m, ꞽm, [ꞽm]</em>
+* `Aux` (70; 100% of non-empty `VerbType`): <em>(ꞽ)m, ꞽm, [ꞽm], ꞽ:tm</em>
 

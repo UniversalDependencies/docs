@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1053 nodes (1%) are attached to their parents as `mark`.
+1176 nodes (1%) are attached to their parents as `mark`.
 
-1048 instances of `mark` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.03893637226971.
+1171 instances of `mark` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04251700680272.
 
-The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> (886; 84% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> (137; 13% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> (16; 2% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> (13; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> (955; 81% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> (188; 16% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> (18; 2% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> (14; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 mark	color:blue
-1	나는	나+는	PRON	NP+JX	_	7	dislocated	_	_
+1	나는	나+는	PRON	NP+JX	PronType=Prs	7	dislocated	_	_
 2	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	7	advcl	_	_
 3	때	때	SCONJ	NNG	_	2	mark	_	_
 4	드라마를	드라마+를	NOUN	NNG+JKO	_	5	obj	_	_
@@ -62,7 +62,7 @@ The following 5 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 mark	color:blue
-1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+1	나는	나+는	PRON	NP+JX	PronType=Prs	5	nsubj	_	_
 2	어렸	어리+었	NOUN	VA+EP	_	5	advcl	_	_
 3	을때	을+때	SCONJ	ETM+NNG	_	2	mark	_	_
 4	돈을	돈+을	NOUN	NNG+JKO	_	5	obj	_	_

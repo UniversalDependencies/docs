@@ -49,7 +49,7 @@ The 3rd highest number of forms (2) was observed with the lemma “二”: 二, 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 7 different relations: <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (432; 66% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (202; 31% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (10; 2% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (6; 1% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 7 different relations: <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (432; 66% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (202; 31% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (12; 2% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (4; 1% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (1; 0% instances)
 
 Parents of `NUM` nodes belong to 7 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (621; 95% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances),  (1; 0% instances)
 

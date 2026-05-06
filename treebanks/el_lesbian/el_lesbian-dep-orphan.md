@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (0%) are attached to their parents as `orphan`.
+13 nodes (0%) are attached to their parents as `orphan`.
 
-8 instances of `orphan` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.83333333333333.
+8 instances of `orphan` (62%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.84615384615385.
 
-The following 8 pairs of parts of speech are connected with `orphan`: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (3; 25% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (2; 17% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> (2; 17% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="el_lesbian-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="el_lesbian-pos-AUX.html">AUX</a></tt> (1; 8% instances).
+The following 9 pairs of parts of speech are connected with `orphan`: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (3; 23% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (2; 15% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> (2; 15% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-DET.html">DET</a></tt> (1; 8% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="el_lesbian-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="el_lesbian-pos-AUX.html">AUX</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -27,8 +27,8 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	πρωί	προυί	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
 4	μέχρ’	μέχρ	ADP	_	_	6	case	_	_
 5	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
-6	βράδ’	βράδ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	orphan	_	_
-7	.	.	PUNCT	_	_	3	punct	_	_
+6	βράδ’	βράδ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	orphan	_	SpaceAfter=No
+7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -43,18 +43,18 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 2	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 3	καλό	καλός	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
 4	να	να	AUX	_	_	5	aux	_	_
-5	προυσέχς	προυσέχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
-6	,	,	PUNCT	_	_	8	punct	_	_
+5	προυσέχς	προυσέχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 7	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	8	det	_	_
 8	μάτια	μάτ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	parataxis	_	_
-9	σ’	μ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	8	nmod	_	_
-10	δέκα	δέκα	NUM	_	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	8	orphan	_	_
-11	,	,	PUNCT	_	_	13	punct	_	_
+9	σ’	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	8	nmod	_	_
+10	δέκα	δέκα	NUM	_	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	8	orphan	_	SpaceAfter=No
+11	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 12	τ’	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	βρακουζών	βρακουζών	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	parataxis	_	_
-14	ς	μ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	13	nmod	_	CorrectForm=σ’
-15	σφιχτά	σφιχτά	ADV	_	_	13	orphan	_	_
-16	.	.	PUNCT	_	_	3	punct	_	_
+14	ς	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	13	nmod	_	CorrectForm=σ’
+15	σφιχτά	σφιχτά	ADV	_	_	13	orphan	_	SpaceAfter=No
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -69,18 +69,18 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 2	του	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
 3	καλό	καλός	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	0	root	_	_
 4	να	να	AUX	_	_	5	aux	_	_
-5	προυσέχς	προυσέχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	_
-6	,	,	PUNCT	_	_	8	punct	_	_
+5	προυσέχς	προυσέχου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	SpaceAfter=No
+6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 7	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	8	det	_	_
 8	μάτια	μάτ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	parataxis	_	_
-9	σ’	μ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	8	nmod	_	_
-10	δέκα	δέκα	NUM	_	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	8	orphan	_	_
-11	,	,	PUNCT	_	_	13	punct	_	_
+9	σ’	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	8	nmod	_	_
+10	δέκα	δέκα	NUM	_	Case=Acc|Gender=Neut|Number=Plur|NumType=Card	8	orphan	_	SpaceAfter=No
+11	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 12	τ’	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	βρακουζών	βρακουζών	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	parataxis	_	_
-14	ς	μ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	13	nmod	_	CorrectForm=σ’
-15	σφιχτά	σφιχτά	ADV	_	_	13	orphan	_	_
-16	.	.	PUNCT	_	_	3	punct	_	_
+14	ς	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	13	nmod	_	CorrectForm=σ’
+15	σφιχτά	σφιχτά	ADV	_	_	13	orphan	_	SpaceAfter=No
+16	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 ~~~
 

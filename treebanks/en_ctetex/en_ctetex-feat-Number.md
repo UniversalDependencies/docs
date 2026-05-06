@@ -77,7 +77,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="en_ctetex-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (489; 70%),
+<tt>NOUN --[<tt><a href="en_ctetex-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (490; 70%),
 <tt>NOUN --[<tt><a href="en_ctetex-dep-compound.html">compound</a></tt>]--> NOUN</tt> (288; 79%),
 <tt>NOUN --[<tt><a href="en_ctetex-dep-conj.html">conj</a></tt>]--> NOUN</tt> (194; 86%),
 <tt>NOUN --[<tt><a href="en_ctetex-dep-list.html">list</a></tt>]--> NOUN</tt> (78; 89%),
@@ -86,5 +86,5 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="en_ctetex-dep-cop.html">cop</a></tt>]--> AUX</tt> (18; 82%),
 <tt>NOUN --[<tt><a href="en_ctetex-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11; 79%),
 <tt>NOUN --[<tt><a href="en_ctetex-dep-flat.html">flat</a></tt>]--> NOUN</tt> (10; 91%),
-<tt>NOUN --[<tt><a href="en_ctetex-dep-obl.html">obl</a></tt>]--> NOUN</tt> (8; 89%).
+<tt>NOUN --[<tt><a href="en_ctetex-dep-amod.html">amod</a></tt>]--> NOUN</tt> (7; 88%).
 

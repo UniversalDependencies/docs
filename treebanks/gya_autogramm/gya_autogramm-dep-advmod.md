@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-253 nodes (9%) are attached to their parents as `advmod`.
+254 nodes (9%) are attached to their parents as `advmod`.
 
-246 instances of `advmod` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.50197628458498.
+247 instances of `advmod` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.51968503937008.
 
-The following 6 pairs of parts of speech are connected with `advmod`: <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> (126; 50% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> (108; 43% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> (10; 4% instances), <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="gya_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `advmod`: <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> (127; 50% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-PART.html">PART</a></tt> (108; 43% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> (10; 4% instances), <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> (6; 2% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="gya_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="gya_autogramm-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -9,21 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Def`.
 
-4253 tokens (11%) have a non-empty value of `Definite`.
-22 types (0%) occur at least once with a non-empty value of `Definite`.
+5157 tokens (13%) have a non-empty value of `Definite`.
+31 types (1%) occur at least once with a non-empty value of `Definite`.
 1 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="grc_ptnk-pos-DET.html">DET</a></tt> (4253; 11% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="grc_ptnk-pos-DET.html">DET</a></tt> (5157; 13% instances).
 
 ### `DET`
 
-4253 <tt><a href="grc_ptnk-pos-DET.html">DET</a></tt> tokens (82% of all `DET` tokens) have a non-empty value of `Definite`.
+5157 <tt><a href="grc_ptnk-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="grc_ptnk-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (4253; 100%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3265; 77%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="grc_ptnk-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5157; 100%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3856; 75%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (4253; 100% of non-empty `Definite`): <em>τοῦ, τὸν, τὴν, τῷ, τὸ, τῆς, τῶν, τὰ, ἡ, τῇ</em>
-* `EMPTY` (904): <em>ὁ, οἱ, αἱ, ὃ, ὅ, οἳ</em>
+* `Def` (5157; 100% of non-empty `Definite`): <em>τοῦ, ὁ, τὸν, τὴν, τῷ, τὸ, τῆς, τῶν, τὰ, οἱ</em>
 
 ## Relations with Agreement in `Definite`
 

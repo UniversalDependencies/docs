@@ -104,11 +104,11 @@ The following 44 pairs of parts of speech are connected with `compound`: <tt><a 
 6	_	_	ADP	_	_	5	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=118
 7	_	_	NOUN	_	_	9	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=1458
 8	_	_	ADP	_	_	7	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
-9	_	_	NOUN	_	_	13	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=3008
+9	_	_	NOUN	_	_	15	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=3008
 10	_	_	ADP	_	_	9	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=8
 11	_	_	VERB	_	_	13	acl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=304
 12	_	_	AUX	_	_	11	aux	_	BBIL=I|BPT=1|SpaceAfter=No|UI=104
-13	_	_	NOUN	_	_	15	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=850
+13	_	_	NOUN	_	_	9	conj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=850
 14	_	_	ADP	_	_	13	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=134
 15	_	_	NOUN	_	_	0	root	_	BBIL=B|BPT=4|SpaceAfter=No|UI=487
 16	_	_	PUNCT	_	_	15	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=13

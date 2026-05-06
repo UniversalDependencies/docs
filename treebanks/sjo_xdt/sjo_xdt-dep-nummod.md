@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-339 nodes (2%) are attached to their parents as `nummod`.
+340 nodes (2%) are attached to their parents as `nummod`.
 
 330 instances of `nummod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.77581120943953.
+Average distance between parent and child is 1.78235294117647.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (314; 93% instances), <tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (10; 3% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (8; 2% instances), <tt><a href="sjo_xdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="sjo_xdt-pos-X.html">X</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="sjo_xdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="sjo_xdt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (314; 92% instances), <tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (10; 3% instances), <tt><a href="sjo_xdt-pos-VERB.html">VERB</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (8; 2% instances), <tt><a href="sjo_xdt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="sjo_xdt-pos-X.html">X</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="sjo_xdt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sjo_xdt-pos-NUM.html">NUM</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

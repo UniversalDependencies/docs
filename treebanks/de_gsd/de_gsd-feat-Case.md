@@ -11,22 +11,22 @@ It occurs with 4 different values: `Acc`, `Dat`, `Gen`, `Nom`.
 
 145033 tokens (50%) have a non-empty value of `Case`.
 41612 types (82%) occur at least once with a non-empty value of `Case`.
-35670 lemmas (85%) occur at least once with a non-empty value of `Case`.
-The feature is used with 10 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (51401; 18% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (40925; 14% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (27263; 9% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (14533; 5% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (10632; 4% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (112; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (93; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (59; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (5; 0% instances).
+35669 lemmas (85%) occur at least once with a non-empty value of `Case`.
+The feature is used with 10 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (52049; 18% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (40925; 14% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (26615; 9% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (14533; 5% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (10632; 4% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (112; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (93; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (59; 0% instances), <tt><a href="de_gsd-pos-SYM.html">SYM</a></tt> (10; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (5; 0% instances).
 
 ### `NOUN`
 
-51401 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
+52049 <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36877; 72%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (37525; 72%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (12939; 25% of non-empty `Case`): <em>Jahre, Zeit, Ende, jahr, Platz, Anfang, %, Meter, tage, Rolle</em>
-* `Dat` (16976; 33% of non-empty `Case`): <em>Jahr, Jahren, Zeit, Jahre, Saison, Ende, Stadt, Familie, Teil, Ort</em>
-* `Gen` (5779; 11% of non-empty `Case`): <em>Stadt, Jahre, Jahres, Zeit, Landes, Gemeinde, Familie, Bevölkerung, Vaters, Saison</em>
-* `Nom` (15707; 31% of non-empty `Case`): <em>Teil, Sohn, Mitglied, Stadt, Menschen, Ort, Gemeinde, Frau, Unternehmen, Präsident</em>
-* `EMPTY` (895): <em>Prozent, Jahrhundert, mm, Mark, °, m, mal, ², ', Wohn</em>
+* `Acc` (13009; 25% of non-empty `Case`): <em>Jahre, Zeit, Ende, jahr, Platz, Anfang, %, Meter, tage, Rolle</em>
+* `Dat` (17442; 34% of non-empty `Case`): <em>Jahr, Jahren, Zeit, Jahre, Saison, Ende, Stadt, Familie, Teil, Ort</em>
+* `Gen` (5785; 11% of non-empty `Case`): <em>Stadt, Jahre, Jahres, Zeit, Landes, Gemeinde, Familie, Bevölkerung, Vaters, Saison</em>
+* `Nom` (15813; 30% of non-empty `Case`): <em>Teil, Sohn, Mitglied, Stadt, Menschen, Ort, Gemeinde, Frau, Unternehmen, Präsident</em>
+* `EMPTY` (899): <em>Prozent, Jahrhundert, mm, Mark, °, m, mal, ², ', Wohn</em>
 
 <table>
   <tr><th>Paradigm <i>Jahr</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -62,17 +62,17 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `PROPN`
 
-27263 <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> tokens (90% of all `PROPN` tokens) have a non-empty value of `Case`.
+26615 <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> tokens (89% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25794; 95%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25146; 94%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc` (2850; 10% of non-empty `Case`): <em>US, USA, Euro, Deutschland, Mai, Oktober, Award, März, Cup, Deutsche</em>
-* `Dat` (10847; 40% of non-empty `Case`): <em>Deutschland, Berlin, Frankreich, Oktober, Weltkrieg, München, New, Paris, Mai, November</em>
-* `Gen` (3712; 14% of non-empty `Case`): <em>Deutschen, US, Deutschlands, Europäischen, Weltkrieges, St., Weltkriegs, Frankreichs, Union, Gesellschaft</em>
-* `Nom` (9854; 36% of non-empty `Case`): <em>SPD, US, Hans, Peter, Paul, Deutschland, Johann, Juli, Wilhelm, Karl</em>
-* `EMPTY` (3153): <em>of, de, a, la, University, II, 1, Mark, B, Berliner</em>
+* `Acc` (2780; 10% of non-empty `Case`): <em>US, USA, Euro, Deutschland, Award, Cup, Deutsche, FC, St., College</em>
+* `Dat` (10381; 39% of non-empty `Case`): <em>Deutschland, Berlin, Frankreich, Weltkrieg, München, New, Paris, London, US, Österreich</em>
+* `Gen` (3706; 14% of non-empty `Case`): <em>Deutschen, US, Deutschlands, Europäischen, Weltkrieges, St., Weltkriegs, Frankreichs, Union, Gesellschaft</em>
+* `Nom` (9748; 37% of non-empty `Case`): <em>SPD, US, Hans, Peter, Paul, Deutschland, Johann, Wilhelm, Karl, CDU</em>
+* `EMPTY` (3149): <em>of, de, a, la, University, II, 1, Mark, B, Berliner</em>
 
 <table>
   <tr><th>Paradigm <i>Deutschland</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
@@ -218,14 +218,14 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (30405; 97%),
-<tt>NOUN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12337; 93%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (5238; 92%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (5128; 87%),
-<tt>NOUN --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3056; 74%),
-<tt>NOUN --[<tt><a href="de_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (2471; 77%),
+<tt>NOUN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (30790; 97%),
+<tt>NOUN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12366; 93%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-flat.html">flat</a></tt>]--> PROPN</tt> (5109; 87%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-det.html">det</a></tt>]--> DET</tt> (4853; 92%),
+<tt>NOUN --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3068; 74%),
+<tt>NOUN --[<tt><a href="de_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (2457; 77%),
 <tt>NOUN --[<tt><a href="de_gsd-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (2217; 96%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1562; 74%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> PROPN</tt> (1220; 85%),
-<tt>PROPN --[<tt><a href="de_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1124; 66%).
+<tt>PROPN --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1547; 74%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-amod.html">amod</a></tt>]--> PROPN</tt> (1218; 85%),
+<tt>PROPN --[<tt><a href="de_gsd-dep-appos.html">appos</a></tt>]--> PROPN</tt> (1110; 66%).
 

@@ -9,21 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Card`, `Ord`.
 
-146142 tokens (4%) have a non-empty value of `NumType`.
+146143 tokens (4%) have a non-empty value of `NumType`.
 6567 types (3%) occur at least once with a non-empty value of `NumType`.
 6534 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (71307; 2% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (69961; 2% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (4874; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (71308; 2% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (69961; 2% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (4874; 0% instances).
 
 ### `NUM`
 
-71307 <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+71308 <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (70477; 99%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (70478; 99%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (71307; 100% of non-empty `NumType`): <em>zwei, 2000, drei, 2001, 1999, vier, fünf, 20, 100, 30</em>
-* `EMPTY` (1): <em>Fünf</em>
+* `Card` (71308; 100% of non-empty `NumType`): <em>zwei, 2000, drei, 2001, 1999, vier, fünf, 20, 100, 30</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (6532) occur only with one value of `NumType`.
 
@@ -31,7 +30,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 69961 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (14% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (68956; 99%), <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (68956; 99%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (68936; 99%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (68956; 99%), <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (68956; 99%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (68937; 99%).
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -42,7 +41,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 4874 <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="de_hdt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (4874; 100%), <tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4864; 100%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3645; 75%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3519; 72%), <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2441; 50%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="de_hdt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (4874; 100%), <tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (4864; 100%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3520; 72%).
 
 `ADJ` tokens may have the following values of `NumType`:
 

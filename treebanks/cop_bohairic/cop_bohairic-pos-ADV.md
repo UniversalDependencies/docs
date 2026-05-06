@@ -68,7 +68,7 @@ The 2nd highest number of forms (1) was observed with the lemma “ϣⲁⲉϧⲟ
 
 The 3rd highest number of forms (1) was observed with the lemma “ϣⲧⲉⲙ”: ϣⲧⲉⲙ.
 
-`ADV` occurs with 4 features: <tt><a href="cop_bohairic-feat-Polarity.html">Polarity</a></tt> (291; 26% instances), <tt><a href="cop_bohairic-feat-ExtPos.html">ExtPos</a></tt> (216; 20% instances), <tt><a href="cop_bohairic-feat-Foreign.html">Foreign</a></tt> (108; 10% instances), <tt><a href="cop_bohairic-feat-PronType.html">PronType</a></tt> (5; 0% instances)
+`ADV` occurs with 4 features: <tt><a href="cop_bohairic-feat-Polarity.html">Polarity</a></tt> (291; 26% instances), <tt><a href="cop_bohairic-feat-ExtPos.html">ExtPos</a></tt> (216; 20% instances), <tt><a href="cop_bohairic-feat-Foreign.html">Foreign</a></tt> (109; 10% instances), <tt><a href="cop_bohairic-feat-PronType.html">PronType</a></tt> (5; 0% instances)
 
 `ADV` occurs with 5 feature-value pairs: `ExtPos=ADP`, `ExtPos=SCONJ`, `Foreign=Yes`, `Polarity=Neg`, `PronType=Int`
 

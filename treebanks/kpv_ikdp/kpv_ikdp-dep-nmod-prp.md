@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `nmod:prp`: <tt><a h
 # visual-style 2	fgColor:white
 # visual-style 2 1 nmod:prp	color:blue
 1	Даддя	даддя	NOUN	N	Case=Prp|Number=Sing	2	nmod:prp	_	GTtags=Sg,Prp
-2	яс	ыс	PRON	Pron	Case=Nom|Number=Plur	4	nsubj	_	GTtags=Pl,Nom
+2	яс	ыс	PRON	Pron	Case=Nom|Number=Plur|PronType=Ind	4	nsubj	_	GTtags=Pl,Nom
 3	бӧр	бӧр	ADV	Adv	AdvType=Loc	4	advmod	_	_
 4	воедісныс	войӧдны	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	GTtags=Err/Dial,Ind,Prt1,Pl3|SpaceAfter=No
 5	.	.	PUNCT	PUNCT	_	4	punct	_	_

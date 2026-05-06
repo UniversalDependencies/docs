@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 nsubj:pass	color:blue
-1	Many	many	ADJ	JJ	Degree=Pos	4	amod	4:amod	Discourse=explanation-evidence:154->152:2:_|Entity=(211-person-new-nnnnn-cf2-4-sgl
+1	Many	many	ADJ	JJ	Degree=Pos	4	amod	4:amod	Bridge=129<211:entity-associative|Discourse=explanation-evidence:154->152:2:_|Entity=(211-person-acc:inf-nnnnn-cf2-4-sgl
 2	future	future	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 3	prime	prime	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
 4	ministers	minister	NOUN	NNS	Number=Plur	6	nsubj:pass	6:nsubj:pass	Entity=211)|MSeg=minister-s
@@ -42,7 +42,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 nsubj:pass	color:blue
-1	When	when	ADV	WRB	PronType=Int	4	advmod	4:advmod	Discourse=context-circumstance:117->118:0:dm-when-586-_|PDTB=Explicit:Temporal.Synchronous:when:_:591-595:586-590|XML=<hi rend:::"italic">
+1	When	when	ADV	WRB	PronType=Int	4	advmod	4:advmod	Discourse=context-circumstance:117->118:0:dm-when-586-gold|PDTB=Explicit:Temporal.Synchronous:when:586:591-595:587-590;Implicit:Expansion.Conjunction:in fact:_:582-585:586-595|XML=<hi rend:::"italic">
 2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	Entity=(163-person-acc:com-nnnnn-cf1-1-sgl)
 3	next	next	ADV	RB	Degree=Pos	4	advmod	4:advmod	_
 4	meet	meet	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:when	SpaceAfter=No
@@ -62,7 +62,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 nsubj:pass	color:blue
-1	Open	Open	ADJ	NNP	Degree=Pos	2	amod	2:amod	Discourse=context-background:3->7:1:_|Entity=(2-abstract-giv:act-sssss-cf1*-1,2-coref
+1	Open	Open	ADJ	NNP	Degree=Pos	2	amod	2:amod	Discourse=context-background:3->7:1:ref-prop-12-35,51-52-_+ref-prs-32-35,55-_|Entity=(2-abstract-giv:act-sssss-cf1*-1,2-coref
 2	Source	Source	PROPN	NNP	Number=Sing	5	nsubj:pass	5:nsubj:pass	Entity=2)
 3	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	5:aux	MSeg=ha-s
 4	been	be	AUX	VBN	Tense=Past|VerbForm=Part	5	aux:pass	5:aux:pass	_
@@ -73,15 +73,15 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 9	Fall	Fall	PROPN	NNP	Number=Sing	5	obl	5:obl:since	Entity=(8-time-new-nnnnn-cf7-1-sgl
 10	of	of	ADP	IN	_	11	case	11:case	_
 11	2007	2007	NUM	CD	NumForm=Digit|NumType=Card	9	nmod	9:nmod:of	Entity=(9-time-new-nnnnn-cf10-1-sgl)8)
-12	(	(	PUNCT	-LRB-	_	13	punct	13:punct	Discourse=elaboration-additional:4->3:0:_|SpaceAfter=No
+12	(	(	PUNCT	-LRB-	_	13	punct	13:punct	Discourse=elaboration-additional:4->3:0:grf-prn-19,30-_+syn-pst_-20-_|SpaceAfter=No
 13	taught	teach	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	5:advcl	_
-14	jointly	jointly	ADV	RB	Degree=Pos	13	advmod	13:advmod	_
+14	jointly	jointly	ADV	RB	Degree=Pos	13	advmod	13:advmod	MSeg=joint-ly
 15	by	by	ADP	IN	_	17	case	17:case	_
-16	Dr.	Dr.	PROPN	NNP	Abbr=Yes|Number=Sing	17	nmod:desc	17:nmod:desc	Entity=(10-person-new-nnnnn-cf4-1,2,3,5,6,7-coref(11-person-new-nnnnn-cf2-1,2,3-coref
+16	Dr.	Dr.	PROPN	NNP	Abbr=Yes|Number=Sing	17	nmod:desc	17:nmod:desc	Entity=(10-person-new-nnnnn-cf4-2,3,6,7-coref(11-person-new-nnnnn-cf2-2,3-coref
 17	William	William	PROPN	NNP	Number=Sing	13	obl	13:obl:by	_
 18	Shroeder	Shroeder	PROPN	NNP	Number=Sing	17	flat	17:flat	Entity=11)
 19	and	and	CCONJ	CC	_	21	cc	21:cc	_
-20	Dr.	Dr.	PROPN	NNP	Abbr=Yes|Number=Sing	21	nmod:desc	21:nmod:desc	Entity=(11-person-giv:act-nnnnn-cf2-1,2,3-coref
+20	Dr.	Dr.	PROPN	NNP	Abbr=Yes|Number=Sing	21	nmod:desc	21:nmod:desc	Entity=(11-person-giv:act-nnnnn-cf2-2,3-coref
 21	Luis	Luis	PROPN	NNP	Number=Sing	17	conj	13:obl:by|17:conj:and	_
 22	Ibanez	Ibanez	PROPN	NNP	Number=Sing	21	flat	21:flat	Entity=11)10)|SpaceAfter=No
 23	)	)	PUNCT	-RRB-	_	13	punct	13:punct	_
@@ -91,7 +91,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 27	level	level	NOUN	NN	Number=Sing	28	compound	28:compound	Entity=12)
 28	class	class	NOUN	NN	Number=Sing	5	obl	5:obl:as	Entity=1)6)|SpaceAfter=No
 29	,	,	PUNCT	,	_	33	punct	33:punct	_
-30	and	and	CCONJ	CC	_	33	cc	33:cc	Discourse=joint-sequence_m:6->3:2:dm-and-37-_+dm-then-38-_|PDTB=Explicit:Expansion.Conjunction:and:37:8-36:38-47
+30	and	and	CCONJ	CC	_	33	cc	33:cc	Discourse=joint-sequence_m:6->3:2:dm-and-37-gold+dm-then-38-gold+lex-indwd-44-_|PDTB=Explicit:Expansion.Conjunction:and:37:8-36:38-47
 31	then	then	ADV	RB	PronType=Dem	33	advmod	33:advmod	PDTB=Explicit:Temporal.Asynchronous.Precedence:then:38:8-36:37,39-47
 32	by	by	ADP	IN	_	33	case	33:case	_
 33	Mukkai	Mukkai	PROPN	NNP	Number=Sing	5	conj	5:conj:and	Entity=(13-person-new-nnnnn-cf5-1,2-sgl

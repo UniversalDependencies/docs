@@ -13,21 +13,22 @@ The 10 most frequent `INTJ` lemmas: <em>мыйкӧ, но, ок, Ага, госп
 
 The 10 most frequent `INTJ` types:  <em>Но, Ок, мыйкӧ, Ага, Господи, Ох, Э-э-э, ура</em>
 
-The 10 most frequent ambiguous lemmas: <em>мыйкӧ</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 8, <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 2), <em>но</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 38, <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>мыйкӧ</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 8, <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>но</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 40, <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>Но</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 19, <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 2), <em>мыйкӧ</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 7, <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>Но</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 20, <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 2), <em>мыйкӧ</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 7, <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>Но</em>
-  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 19: <em><b>Но</b> чериыс мыйлакӧ эз сёй .</em>
+  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 20: <em><b>Но</b> чериыс мыйлакӧ эз сёй .</em>
   * <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 2: <em>— <b>Но</b> , сы сертитӧ кӧ ! — кывйӧ сетчис Коктӧм Кӧсьта .</em>
 * <em>мыйкӧ</em>
   * <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 7: <em>Крукасис <b>мыйкӧ</b> .</em>
   * <tt><a href="kpv_lattice-pos-INTJ.html">INTJ</a></tt> 2: <em>Ставыс <b>мыйкӧ</b> горзісны , вӧрӧдісны вомнас ...</em>
+  * <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1: <em>Но <b>мыйкӧ</b> ӧнӧдз на Вера эз гӧгӧрволы , мый сійӧ — Вишкун гӧтырлӧн ныв ...</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.476307).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.477594).
 
 The 1st highest number of forms (1) was observed with the lemma “Ага”: <em>Ага</em>.
 

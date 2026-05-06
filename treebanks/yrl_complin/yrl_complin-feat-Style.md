@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Arch`, `Rare`.
 
-588 tokens (2%) have a non-empty value of `Style`.
-264 types (10%) occur at least once with a non-empty value of `Style`.
-193 lemmas (11%) occur at least once with a non-empty value of `Style`.
-The feature is used with 6 part-of-speech tags: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (403; 2% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (85; 0% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (70; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (26; 0% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+640 tokens (2%) have a non-empty value of `Style`.
+286 types (10%) occur at least once with a non-empty value of `Style`.
+208 lemmas (12%) occur at least once with a non-empty value of `Style`.
+The feature is used with 6 part-of-speech tags: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (440; 2% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (94; 0% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (76; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (26; 0% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-403 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (9% of all `VERB` tokens) have a non-empty value of `Style`.
+440 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (315; 78%), <tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (314; 78%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (303; 75%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt> (303; 75%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (350; 80%), <tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (349; 79%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (335; 76%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt> (335; 76%).
 
 `VERB` tokens may have the following values of `Style`:
 
-* `Arch` (390; 97% of non-empty `Style`): <em>xasú, xarikú, xamunhã, yumunhã, xaputari, xaú, xanheẽ, xakwáu, xawasemu, xayuíri</em>
+* `Arch` (427; 97% of non-empty `Style`): <em>xasú, xarikú, xamunhã, yumunhã, xaputari, xaú, xakwáu, xanheẽ, xawasemu, xayuíri</em>
 * `Rare` (13; 3% of non-empty `Style`): <em>Ururi, piamu, upiama, Uxipiá, Xari, maramunhã, piama, puapuãmu, umunhã, upena-upena</em>
 
 <table>
@@ -33,27 +33,27 @@ The most frequent other feature values with which `VERB` and `Style` co-occurred
   <tr><td><tt><tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="yrl_complin-feat-Voice.html">Voice</a></tt><tt>=Mid,Pass</tt></tt></td><td><em>yumunhã</em></td><td></td></tr>
 </table>
 
-`Style` seems to be **lexical feature** of `VERB`. 97% lemmas (155) occur only with one value of `Style`.
+`Style` seems to be **lexical feature** of `VERB`. 98% lemmas (169) occur only with one value of `Style`.
 
 ### `AUX`
 
-85 <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> tokens (12% of all `AUX` tokens) have a non-empty value of `Style`.
+94 <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> tokens (13% of all `AUX` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="yrl_complin-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (85; 100%), <tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (64; 75%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (64; 75%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt> (64; 75%), <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (64; 75%).
+The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="yrl_complin-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (94; 100%), <tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (71; 76%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (71; 76%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt> (71; 76%), <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (71; 76%).
 
 `AUX` tokens may have the following values of `Style`:
 
-* `Arch` (85; 100% of non-empty `Style`): <em>xaikú, xasú, ikú</em>
+* `Arch` (94; 100% of non-empty `Style`): <em>xaikú, xasú, ikú</em>
 
 ### `PRON`
 
-70 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Style`.
+76 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (64; 91%), <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (61; 87%), <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=Gen</tt> (45; 64%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (43; 61%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt> (41; 59%).
+The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (70; 92%), <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (67; 88%), <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=Gen</tt> (47; 62%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (46; 61%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=1</tt> (45; 59%).
 
 `PRON` tokens may have the following values of `Style`:
 
-* `Arch` (68; 97% of non-empty `Style`): <em>se, ne, yané, yandé, aé, maã, i, pe, ixé, aúna</em>
+* `Arch` (74; 97% of non-empty `Style`): <em>se, yané, ne, yandé, aé, maã, i, pe, ixé, aúna</em>
 * `Rare` (2; 3% of non-empty `Style`): <em>Se, ixé</em>
 
 <table>

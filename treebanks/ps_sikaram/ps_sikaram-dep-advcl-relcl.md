@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 1	يا	يا	CCONJ	_	_	11	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
 2	هغه	هغه	DET	_	Case=Nom|Deixis=Remt|PronType=Dem	3	det	_	Translit=háġa|LTranslit=háġa|Gloss=that
 3	کس	_	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	Translit=kas|LTranslit=|Gloss=person
-4	چې	چې	PRON	_	PronType=Rel	5	nsubj	_	Translit=če|LTranslit=če|Gloss=who
+4	چې	چې	SCONJ	_	_	5	mark	_	Translit=če|LTranslit=če|Gloss=that
 5	غواړي	غوښتل	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	Translit=ġwâṛí|LTranslit=ġux̌të́l|Gloss=wants
 6	اردو	اردو	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	7	nmod	_	Translit=urdú|LTranslit=urdú|Gloss=Urdu
 7	ژبه	ژبه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	obj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
@@ -45,7 +45,7 @@ The following 1 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 21	يادې	يادې	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	22	compound:lvc	_	Translit=yấde|LTranslit=yấde|Gloss=memorized
 22	کړي	کول	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	11	advcl	_	Translit=kṛi|LTranslit=kawë́l|Gloss=does|SpaceAfter=No
 23	،	،	PUNCT	_	_	36	punct	_	Translit=,|LTranslit=,|Gloss=,
-24	چې	چې	DET	_	PronType=Rel	27	det	_	Translit=če|LTranslit=če|Gloss=which
+24	چې	چې	SCONJ	_	_	36	mark	_	Translit=če|LTranslit=če|Gloss=that
 25	دغه	دغه	DET	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Long	27	det	_	Translit=dáġa|LTranslit=dáġa|Gloss=this
 26	ستونزمن	ستونزمن	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	27	amod	_	Translit=stunzmán|LTranslit=stunzmán|Gloss=diffucult
 27	کار	کار	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	Translit=kâr|LTranslit=kâr|Gloss=work|SpaceAfter=No

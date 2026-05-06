@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="sv_swell-dep-aux-pass.html">aux:pass</a></tt>.
 
-249 nodes (3%) are attached to their parents as `aux`.
+322 nodes (3%) are attached to their parents as `aux`.
 
-246 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.59437751004016.
+319 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.62422360248447.
 
-The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (235; 94% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (9; 4% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (299; 93% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (16; 5% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (6; 2% instances), <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -69,10 +69,10 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	många	många	ADJ	_	Case=Nom|Degree=Pos	3	amod	_	_
 3	år	år	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	11	obl	_	_
 4	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
-5	åldersgransen	åldersgrans	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|Typo=Yes	11	nsubj	_	CorrectionLabels=O
+5	åldersgransen	åldersgräns	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|Typo=Yes	11	nsubj	_	CorrectionLabels=O|SurfaceLemma=åldersgrans
 6	för	för	ADP	_	_	8	mark	_	_
 7	att	att	PART	_	_	8	mark	_	_
-8	rosta	rosta	VERB	_	Typo=Yes|VerbForm=Inf|Voice=Act	5	acl	_	CorrectionLabels=O
+8	rosta	rösta	VERB	_	Typo=Yes|VerbForm=Inf|Voice=Act	5	acl	_	CorrectionLabels=O|SurfaceLemma=rosta
 9	varit	vara	AUX	_	VerbForm=Sup|Voice=Act	11	cop	_	_
 10	18	18	NUM	_	Case=Nom|NumType=Card	11	nummod	_	_
 11	år	år	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_

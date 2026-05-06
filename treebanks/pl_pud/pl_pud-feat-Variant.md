@@ -28,6 +28,10 @@ The most frequent other feature values with which `ADP` and `Variant` co-occurre
 <table>
   <tr><th>Paradigm <i>w</i></th><th><tt>Long</tt></th><th><tt>Short</tt></th></tr>
   <tr><td><tt></tt></td><td><em>we</em></td><td><em>w</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pud-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt></tt></td><td></td><td><em>w</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pud-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt></tt></td><td></td><td><em>w</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pud-feat-ExtPos.html">ExtPos</a></tt><tt>=PART</tt></tt></td><td></td><td><em>w</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pud-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt></tt></td><td></td><td><em>w</em></td></tr>
 </table>
 
 ### `PRON`

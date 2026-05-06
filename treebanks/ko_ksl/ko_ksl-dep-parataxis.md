@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-45 nodes (0%) are attached to their parents as `parataxis`.
+48 nodes (0%) are attached to their parents as `parataxis`.
 
-39 instances of `parataxis` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.35555555555556.
+39 instances of `parataxis` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.14583333333333.
 
-The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (18; 40% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (12; 27% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (4; 9% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (4; 9% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (20; 42% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (12; 25% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (5; 10% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (4; 8% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 parataxis	color:blue
-1	넌	너+ㄴ	PRON	NP+JX	_	3	nsubj	_	_
+1	넌	너+ㄴ	PRON	NP+JX	PronType=Prs	3	nsubj	_	_
 2	많이	많이	ADV	MAG	_	3	advmod	_	_
 3	걱정하지마	걱정+하+지+말+어	VERB	NNG+XSV+EC+VX+EF	_	6	parataxis	_	_
 4	열심히	열심히	ADV	MAG	_	5	advmod	_	_
@@ -54,24 +54,25 @@ The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 parataxis	color:blue
-1	이	이	DET	MM	_	2	det	_	_
-2	영화에서	영화+에서	ADV	NNG+JKB	_	9	obl	_	_
-3	사랑들이	사랑+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
-4	우리보고	우리+보고	PRON	NP+JX	_	9	obl	_	_
-5	좋은	좋+은	ADJ	VA+ETM	_	6	amod	_	_
-6	때다	때+이+다	ADJ	NNG+VCP+EF	_	8	parataxis	_	_
-7	좋을	좋+을	ADJ	VA+ETM	_	8	acl	_	_
-8	때다	때+이+다	ADJ	NNG+VCP+EF	_	9	ccomp	_	_
-9	그러는데	그러+는데	VERB	VV+EC	_	12	advcl	_	_
-10	애매하기	애매+하+기	ADJ	NNG+XSA+ETN	_	12	obl	_	_
-11	뭐가	뭐+가	PRON	NP+JKS	_	12	nsubj	_	_
-12	없이	없이	ADV	MAG	_	0	root	_	SpaceAfter=No
-13	.	.	PUNCT	SF	_	12	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 3 parataxis	color:blue
+1	나의	나+의	PRON	NP+JKG	PronType=Prs	2	nmod:poss	_	_
+2	취미는	취미+는	NOUN	NNG+JX	_	3	nsubj	_	_
+3	노래방	노래방	NOUN	NNG	_	13	parataxis	_	_
+4	이다	이+다	ADP	VCP+EF	_	3	case	_	_
+5	취미가	취미+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	노래방이지만	노래방+이+지만	ADJ	NNG+VCP+EC	_	13	advcl	_	_
+7	옛날에는	옛날+에+는	ADV	NNG+JKB+JX	_	13	obl	_	_
+8	노래를	노래+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	부르는	부르+는	VERB	VV+ETM	_	10	acl	_	_
+10	것을	것+을	NOUN	NNB+JKO	_	13	obj	_	_
+11	잘	잘	ADV	MAG	_	13	advmod	_	_
+12	못	못	ADV	MAG	_	13	advmod	_	_
+13	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
 
 ~~~
 

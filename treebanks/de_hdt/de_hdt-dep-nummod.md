@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 nummod	color:blue
-1	Zusätzliche	zusätzlich	ADJ	ADJA	Degree=Pos|Number=Plur	2	amod	_	_
+1	Zusätzliche	zusätzlich	ADJ	ADJA	Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
 2	Online-Stunden	Online-Stunde	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
 3	kosten	kosten	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	in	in	ADP	APPR	AdpType=Prep|Case=Dat	6	case	_	_
@@ -69,7 +69,7 @@ The following 12 pairs of parts of speech are connected with `nummod`: <tt><a hr
 7	Ports	Ports	X	FM	Foreign=Yes	4	nmod	_	_
 8	noch	noch	ADV	ADV	_	11	advmod	_	_
 9	in	in	ADP	APPR	AdpType=Prep|Case=Dat	11	case	_	_
-10	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	11	det	_	_
+10	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	Januar	Januar	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	_
 12	.	.	PUNCT	$.	PunctType=Peri	2	punct	_	_
 

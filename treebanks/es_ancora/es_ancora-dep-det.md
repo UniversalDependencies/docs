@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-83741 nodes (15%) are attached to their parents as `det`.
+84115 nodes (15%) are attached to their parents as `det`.
 
-83444 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.15747363895822.
+83820 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15653569517922.
 
-The following 24 pairs of parts of speech are connected with `det`: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (68007; 81% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (9858; 12% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (1626; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (1389; 2% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (1073; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (476; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (392; 0% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (330; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (256; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (95; 0% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (70; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (61; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (57; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (15; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-PART.html">PART</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-X.html">X</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `det`: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (68637; 82% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (9213; 11% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (1626; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (1392; 2% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (1121; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (734; 1% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (469; 1% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (330; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (265; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (96; 0% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (74; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (61; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (57; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 24 pairs of parts of speech are connected with `det`: <tt><a href=
 5	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	6:obj	_
 6	comprado	comprar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	ArgTem=arg2:atr
 7	en	en	ADP	sps00	_	8	case	8:case	_
-8	rebajas	rebaja	NOUN	ncfp000	Gender=Fem|Number=Plur	6	obl	6:obl	SpaceAfter=No|ArgTem=argM:adv
+8	rebajas	rebaja	NOUN	ncfp000	Gender=Fem|Number=Plur	6	obl	6:obl	ArgTem=argM:adv|SpaceAfter=No
 9	.	.	PUNCT	fp	PunctType=Peri	6	punct	6:punct	_
 
 ~~~
@@ -42,14 +42,14 @@ The following 24 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 4 det	color:blue
 1	Para	para	ADP	sps00	_	2	mark	2:mark	_
-2	abreviar	abreviar	VERB	vmn0000	VerbForm=Inf	6	advcl	6:advcl	SpaceAfter=No|ArgTem=argM:adv
+2	abreviar	abreviar	VERB	vmn0000	VerbForm=Inf	6	advcl	6:advcl	ArgTem=argM:adv|SpaceAfter=No
 3	,	,	PUNCT	fc	PunctType=Comm	2	punct	2:punct	_
 4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	Entity=(NOCOREF:Spec.organization-organization-2-gstype:spec
 5	Real	Real	PROPN	np0000o	_	6	nsubj	6:nsubj	ArgTem=arg0:agt|Entity=NOCOREF:Spec.organization)
 6	marcó	marcar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 7	-	-	PUNCT	fg	PunctType=Dash	8	punct	8:punct	_
-8	de	de	ADP	rg	ExtPos=ADV	6	advmod	6:advmod	MWE=de_churro|MWEPOS=ADV|ArgTem=argM:adv
-9	churro	churro	NOUN	_	_	8	fixed	8:fixed	_
+8	de	de	ADP	rg	ExtPos=ADV	9	case	9:case	MWE=de_churro|MWEPOS=ADV|ArgTem=argM:adv
+9	churro	churro	NOUN	_	_	6	obl	6:obl	_
 10	-	-	PUNCT	fg	PunctType=Dash	13	punct	13:punct	_
 11	y	y	CCONJ	cc	_	13	cc	13:cc	_
 12	de	de	ADP	sps00	_	13	case	13:case	_
@@ -70,7 +70,7 @@ The following 24 pairs of parts of speech are connected with `det`: <tt><a href=
 3	cinco	cinco	NUM	_	NumForm=Word|NumType=Card	1	nsubj	1:nsubj	MWE=cinco_de_la_mañana|MWEPOS=NOUN|ArgTem=arg1:tem
 4	de	de	ADP	_	_	6	case	6:case	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	6:det	_
-6	mañana	mañana	NOUN	_	_	3	compound	3:compound	SpaceAfter=No|Entity=NOCOREF:Spec.date)
+6	mañana	mañana	NOUN	_	_	3	compound	3:compound	Entity=NOCOREF:Spec.date)|SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	1	punct	1:punct	_
 
 ~~~

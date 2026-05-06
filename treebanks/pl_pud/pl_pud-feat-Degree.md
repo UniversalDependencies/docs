@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-2256 tokens (12%) have a non-empty value of `Degree`.
-1603 types (21%) occur at least once with a non-empty value of `Degree`.
-1052 lemmas (21%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (1932; 11% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (324; 2% instances).
+2255 tokens (12%) have a non-empty value of `Degree`.
+1602 types (21%) occur at least once with a non-empty value of `Degree`.
+1051 lemmas (21%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (1932; 11% instances), <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (323; 2% instances).
 
 ### `ADJ`
 
 1932 <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> tokens (82% of all `ADJ` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1932; 100%), <tt><a href="pl_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1932; 100%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1932; 100%), <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1932; 100%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1396; 72%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (978; 51%).
+The most frequent other feature values with which `ADJ` and `Degree` co-occurred: <tt><a href="pl_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1932; 100%), <tt><a href="pl_pud-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1932; 100%), <tt><a href="pl_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1932; 100%), <tt><a href="pl_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1932; 100%), <tt><a href="pl_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1397; 72%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (978; 51%).
 
 `ADJ` tokens may have the following values of `Degree`:
 
@@ -53,14 +53,14 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-324 <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> tokens (65% of all `ADV` tokens) have a non-empty value of `Degree`.
+323 <tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> tokens (65% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (288; 89%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (287; 89%).
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (47; 15% of non-empty `Degree`): <em>bardziej, wcześniej, później, mniej, więcej, dalej, lepiej, bezpieczniej, częściej, uważniej</em>
-* `Pos` (263; 81% of non-empty `Degree`): <em>bardzo, często, jak, całkowicie, tak, dobrze, podobnie, ponownie, wyraźnie, obecnie</em>
+* `Pos` (262; 81% of non-empty `Degree`): <em>bardzo, często, jak, całkowicie, tak, dobrze, podobnie, ponownie, wyraźnie, obecnie</em>
 * `Sup` (14; 4% of non-empty `Degree`): <em>najbardziej, najmniej, najlepiej, najprawdopodobniej, najszerzej</em>
 * `EMPTY` (173): <em>kiedy, tam, wciąż, gdzie, następnie, zawsze, coraz, dlatego, nadal, dlaczego</em>
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
   <tr><td><tt></tt></td><td><em>bardzo</em></td><td><em>bardziej</em></td><td><em>najbardziej</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 94% lemmas (118) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 94% lemmas (117) occur only with one value of `Degree`.
 
 ## Relations with Agreement in `Degree`
 
@@ -78,8 +78,8 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADV --[<tt><a href="pl_pud-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (9; 64%),
 <tt>ADV --[<tt><a href="pl_pud-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (5; 100%),
 <tt>ADV --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> ADV</tt> (2; 67%),
+<tt>ADJ --[<tt><a href="pl_pud-dep-acl-cmp.html">acl:cmp</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="pl_pud-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>ADJ --[<tt><a href="pl_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADV --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADV --[<tt><a href="pl_pud-dep-obl-cmpr.html">obl:cmpr</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADV --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%).
 

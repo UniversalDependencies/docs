@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nsubj`: <tt><a href="yrk_tundra-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-53 nodes (4%) are attached to their parents as `nsubj`.
+54 nodes (4%) are attached to their parents as `nsubj`.
 
-51 instances of `nsubj` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.41509433962264.
+52 instances of `nsubj` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.38888888888889.
 
-The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (38; 72% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (6; 11% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (3; 6% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="yrk_tundra-pos-AUX.html">AUX</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (38; 70% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (7; 13% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (3; 6% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="yrk_tundra-pos-AUX.html">AUX</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -50,18 +50,14 @@ The following 7 pairs of parts of speech are connected with `nsubj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 nsubj	color:blue
-1	маханякубтаʼ	маханякубта	NOUN	_	_	2	obl:mod	_	AlignBegin=60789.1369941|AlignEnd=61400.2402374|LTranslit=maxańakubta|MGloss=right.side-gen|MSeg=маханякубта-ʼ|Translit=maxańakubtaʔ
-2	мэ	мэ	VERB	_	_	0	root	_	AlignBegin=61400.2402374|AlignEnd=61723.6880008|Gloss=take|LTranslit=mæ|Translit=mæ
-3	ваˮ	_	PRON	_	Number=Plur|Person=1	2	nsubj	_	AlignBegin=61400.2402374|AlignEnd=61723.6880008|Gloss=-1pl|Translit=waʡ
-4	ӈобʼ	ӈобʼ	ADV	_	_	5	advmod	_	AlignBegin=61723.6880008|AlignEnd=62105.6863329|Gloss=once,and|LTranslit=ŋobʔ|Translit=ŋobʔ
-5	ядаваˮ	яда	VERB	_	_	2	parataxis	_	AlignBegin=62105.6863329|AlignEnd=62594.4069228|LTranslit=jada|MGloss=walk-1pl|MSeg=яда-ваˮ|Translit=jadawaʡ
-6	ядаваˮ	яда	VERB	_	_	2	parataxis	_	AlignBegin=62594.4069228|AlignEnd=63116.2611121|LTranslit=jada|MGloss=walk-1pl|MSeg=яда-ваˮ|Translit=jadawaʡ
-7	<p>	<p>	PUNCT	_	_	2	punct	_	AlignBegin=63116.2611121|AlignEnd=63715.9792598|Gloss=SIL|LTranslit=<p>|Translit=<p>
+# visual-style 2 1 nsubj	color:blue
+1	та	та	PRON	_	PronType=Dem	2	nsubj	_	AlignBegin=352673.037541|AlignEnd=352958.799848|Gloss=this|LTranslit=ta|Translit=ta
+2	валакада	валак	NOUN	_	_	0	root	_	AlignBegin=352958.799848|AlignEnd=353424.55805|LTranslit=walak|MGloss=end-poss.3sg|MSeg=валака-да|Translit=walakada
+3	<p>	<p>	PUNCT	_	_	2	punct	_	AlignBegin=353424.55805|AlignEnd=354163.544352|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 ~~~
 

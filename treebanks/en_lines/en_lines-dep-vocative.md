@@ -42,7 +42,7 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 1	fgColor:white
 # visual-style 1 5 vocative	color:blue
 1	Thank	thank	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	you	you	PRON	PERS-P2	Case=Acc|Person=2|PronType=Prs	1	obj	_	SpaceAfter=No
+2	you	you	PRON	PERS-P2	Person=2|PronType=Prs	1	obj	_	SpaceAfter=No
 3	,	,	PUNCT	Comma	_	5	punct	_	_
 4	Mr	Mr	NOUN	SG-NOM	Number=Sing	5	nmod:desc	_	_
 5	Donnay	Donnay	PROPN	SG-NOM	Number=Sing	1	vocative	_	SpaceAfter=No
@@ -65,7 +65,7 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 6	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 7	a	a	DET	IND-SG	Definite=Ind|PronType=Art	8	det	_	_
 8	danger	danger	NOUN	SG-NOM	Number=Sing	0	root	_	_
-9	you	you	PRON	PERS-P2	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	_
+9	you	you	PRON	PERS-P2	Person=2|PronType=Prs	12	nsubj	_	_
 10	must	must	AUX	PRES-AUX	Mood=Ind|VerbForm=Fin	12	aux	_	_
 11	not	not	PART	NEG	Polarity=Neg	12	advmod	_	_
 12	face	face	VERB	INF	VerbForm=Inf	8	acl:relcl	_	SpaceAfter=No

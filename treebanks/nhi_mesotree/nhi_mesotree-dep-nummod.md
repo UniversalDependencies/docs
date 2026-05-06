@@ -1,57 +1,52 @@
 ---
 layout: base
-title:  'Statistics of nummod in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of nummod in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `nummod`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `nummod`
 
 This relation is universal.
 
-39 nodes (0%) are attached to their parents as `nummod`.
+162 nodes (1%) are attached to their parents as `nummod`.
 
-38 instances of `nummod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17948717948718.
+158 instances of `nummod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11728395061728.
 
-The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (32; 82% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (6; 15% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (1; 3% instances).
+The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt> (152; 94% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt> (9; 6% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 nummod	color:blue
-1	Yaqui	yaqui	ADV	_	_	2	advmod	2:advmod	NormalizedForm=yaki|NormalizedLemma=yaki
-2	nipiya	piya	VERB	_	Mood=Ind|VerbForm=Fin	0	root	0:root	NormalizedForm=nipiya|NormalizedLemma=piya|Number[subj]=Sing|Person[subj]=1|Subcat=Tran
-3	xa	xa	ADV	_	_	6	advmod	6:advmod	NormalizedForm=xa|NormalizedLemma=xa
-4	queme	queme	ADV	_	_	6	advmod	6:advmod	NormalizedForm=keme|NormalizedLemma=keme
-5	ce	ce	NUM	_	_	6	nummod	6:nummod	NormalizedForm=se|NormalizedLemma=se
-6	semana	semana	NOUN	_	Foreign=Yes|Gender=Fem|Number=Sing	2	obj	2:obj	NormalizedForm=semana|NormalizedLemma=semana
-7	de	de	ADP	_	Foreign=Yes	10	mark	10:mark	NormalizedForm=de|NormalizedLemma=de
-8	milahuac	milahuac	ADV	_	_	10	advmod	10:advmod	NormalizedForm=milawak|NormalizedLemma=milawak
-9	ya	ya	ADV	_	_	10	advmod	10:advmod	NormalizedForm=ya|NormalizedLemma=ya
-10	nitiquitoc	tiquiti	VERB	_	Aspect=Prog|Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	2:advcl	NormalizedForm=nitikitok|NormalizedLemma=tikiti|Number[subj]=Sing|Person[subj]=1|SpaceAfter=No|Subcat=Intr
-11	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 nummod	color:blue
+1	Ixcana	ana	VERB	_	Mood=Opt	0	root	0:root	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran
+2	se	se	NUM	_	_	4	nummod	4:nummod	Number[subj]=Sing|Person[subj]=3
+3	in	tlaxcal	DET	_	_	4	det	4:det	Number[psor]=Plur|Number[subj]=Sing|Person[psor]=3|Person[subj]=3
+4	tlaxcal	tlaxcal	NOUN	_	_	1	obj	1:obj	_
+5	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 4 nummod	color:blue
-1	O	o	AUX	_	_	5	aux	5:aux	NormalizedForm=o|NormalizedLemma=o
-2	ticatca	catqui	AUX	_	Aspect=Imp|Tense=Past	5	cop	5:cop	NormalizedForm=tikatka|NormalizedLemma=katki|Number[subj]=Plur|Person[subj]=1|Subcat=Intr
-3	quemen	queme	ADV	_	_	5	advmod	5:advmod	NormalizedForm=kemen|NormalizedLemma=keme
-4	ome	ome	NUM	_	_	5	nummod	5:nummod	NormalizedForm=ome|NormalizedLemma=ome
-5	caxtol	caxtol	NUM	_	_	0	root	0:root	NormalizedForm=kaxtol|NormalizedLemma=kaxtol
-6	huan	huan	CCONJ	_	_	8	cc	8:cc	NormalizedForm=wan|NormalizedLemma=wan
-7	nochi	nochi	PRON	_	_	8	nsubj	8:nsubj	NormalizedForm=nochi|NormalizedLemma=nochi
-8	otipanohque	panoa	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	5	conj	5:conj	NormalizedForm=tipanohke|NormalizedLemma=panoa|Number[subj]=Plur|Person[subj]=1|SpaceAfter=No|Subcat=Intr|wordform=tipanohque
-9	.	.	PUNCT	_	_	8	punct	8:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 nummod	color:blue
+1	Quisa	quisa	VERB	_	_	0	root	0:root	_
+2	cada	cada	DET	_	_	6	det	6:det	_
+3	simpohual	sempoual	NUM	_	_	6	nummod	6:nummod	_
+4	huan	uan	CCONJ	_	_	5	cc	5:cc	_
+5	majtlactli	mahtlactl	NUM	_	_	3	nummod	3:nummod	_
+6	minutos	minuto	NOUN	_	_	1	obl	1:obl	_
+7	para	para	ADP	_	_	8	case	8:case	_
+8	Poza	poza	PROPN	_	_	1	obl	1:obl	_
+9	Rica	rica	PROPN	_	_	8	flat	8:flat	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
 
 ~~~
 

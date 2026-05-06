@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2675 nodes (2%) are attached to their parents as `aux`.
+3104 nodes (2%) are attached to their parents as `aux`.
 
-2671 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04261682242991.
+3098 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04349226804124.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (2393; 89% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (254; 9% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (2776; 89% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (289; 9% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (19; 1% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (15; 0% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (5; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 aux	color:blue
-1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+1	저는	저+는	PRON	NP+JX	PronType=Prs	5	nsubj	_	_
 2	6월	6+월	NOUN	SN+NNB	_	5	obl	_	_
 3	20일에	20+일+에	ADV	SN+NNB+JKB	_	2	flat	_	_
 4	여행을	여행+을	NOUN	NNG+JKO	_	5	obj	_	_
@@ -45,7 +45,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	비가	비+가	NOUN	NNG+JKS	_	5	nsubj	_	_
 5	오면	오+면	VERB	VV+EC	_	9	advcl	_	_
 6	보통	보통	ADV	MAG	_	9	advmod	_	_
-7	우리는	우리+는	PRON	NP+JX	_	9	dislocated	_	_
+7	우리는	우리+는	PRON	NP+JX	PronType=Prs	9	dislocated	_	_
 8	기분이	기분+이	NOUN	NNG+JKS	_	9	nsubj	_	_
 9	좋지	좋+지	ADJ	VA+EC	_	0	root	_	_
 10	않다	않	AUX	VX+EF	_	9	aux	_	SpaceAfter=No

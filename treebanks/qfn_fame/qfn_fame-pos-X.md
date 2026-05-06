@@ -13,7 +13,7 @@ The 10 most frequent `X` lemmas: <em>_</em>
 
 The 10 most frequent `X` types:  <em>'e, nij</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> 482, <tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> 456, <tt><a href="qfn_fame-pos-ADP.html">ADP</a></tt> 441, <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> 440, <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> 399, <tt><a href="qfn_fame-pos-DET.html">DET</a></tt> 358, <tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt> 305, <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> 214, <tt><a href="qfn_fame-pos-INTJ.html">INTJ</a></tt> 189, <tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt> 163, <tt><a href="qfn_fame-pos-CCONJ.html">CCONJ</a></tt> 159, <tt><a href="qfn_fame-pos-SCONJ.html">SCONJ</a></tt> 61, <tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> 60, <tt><a href="qfn_fame-pos-X.html">X</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> 482, <tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt> 458, <tt><a href="qfn_fame-pos-ADP.html">ADP</a></tt> 440, <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> 440, <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt> 399, <tt><a href="qfn_fame-pos-DET.html">DET</a></tt> 357, <tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt> 305, <tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> 214, <tt><a href="qfn_fame-pos-INTJ.html">INTJ</a></tt> 189, <tt><a href="qfn_fame-pos-AUX.html">AUX</a></tt> 163, <tt><a href="qfn_fame-pos-CCONJ.html">CCONJ</a></tt> 159, <tt><a href="qfn_fame-pos-SCONJ.html">SCONJ</a></tt> 61, <tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> 60, <tt><a href="qfn_fame-pos-X.html">X</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>nij</em> (<tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="qfn_fame-pos-X.html">X</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>nij</em> (<tt><a href="qfn_fame-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `X` is 2.000000 (the average of all parts of speech is 97.571429).
+The form / lemma ratio of `X` is 2.000000 (the average of all parts of speech is 97.642857).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em>'e, nij</em>.
 

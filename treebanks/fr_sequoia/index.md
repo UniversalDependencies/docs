@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Marie Candito, Djamé Seddah, Guy Perrier, Bruno Guillaume.
 
 Repository: [UD_French-Sequoia](https://github.com/UniversalDependencies/UD_French-Sequoia)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_sequoia218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: LGPL-LR
 
@@ -89,7 +89,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 
 ## Relations
 
-[acl](fr_sequoia-dep-acl.html) – [acl:relcl](fr_sequoia-dep-acl-relcl.html) – [advcl](fr_sequoia-dep-advcl.html) – [advcl:cleft](fr_sequoia-dep-advcl-cleft.html) – [advmod](fr_sequoia-dep-advmod.html) – [amod](fr_sequoia-dep-amod.html) – [appos](fr_sequoia-dep-appos.html) – [aux](fr_sequoia-dep-aux.html) – [aux:caus](fr_sequoia-dep-aux-caus.html) – [aux:pass](fr_sequoia-dep-aux-pass.html) – [aux:tense](fr_sequoia-dep-aux-tense.html) – [case](fr_sequoia-dep-case.html) – [cc](fr_sequoia-dep-cc.html) – [ccomp](fr_sequoia-dep-ccomp.html) – [conj](fr_sequoia-dep-conj.html) – [cop](fr_sequoia-dep-cop.html) – [csubj](fr_sequoia-dep-csubj.html) – [csubj:pass](fr_sequoia-dep-csubj-pass.html) – [dep](fr_sequoia-dep-dep.html) – [dep:comp](fr_sequoia-dep-dep-comp.html) – [det](fr_sequoia-dep-det.html) – [discourse](fr_sequoia-dep-discourse.html) – [dislocated](fr_sequoia-dep-dislocated.html) – [expl:comp](fr_sequoia-dep-expl-comp.html) – [expl:pass](fr_sequoia-dep-expl-pass.html) – [expl:pv](fr_sequoia-dep-expl-pv.html) – [expl:subj](fr_sequoia-dep-expl-subj.html) – [fixed](fr_sequoia-dep-fixed.html) – [flat:foreign](fr_sequoia-dep-flat-foreign.html) – [flat:name](fr_sequoia-dep-flat-name.html) – [goeswith](fr_sequoia-dep-goeswith.html) – [iobj](fr_sequoia-dep-iobj.html) – [iobj:agent](fr_sequoia-dep-iobj-agent.html) – [mark](fr_sequoia-dep-mark.html) – [nmod](fr_sequoia-dep-nmod.html) – [nsubj](fr_sequoia-dep-nsubj.html) – [nsubj:caus](fr_sequoia-dep-nsubj-caus.html) – [nsubj:outer](fr_sequoia-dep-nsubj-outer.html) – [nsubj:pass](fr_sequoia-dep-nsubj-pass.html) – [nummod](fr_sequoia-dep-nummod.html) – [obj](fr_sequoia-dep-obj.html) – [obj:agent](fr_sequoia-dep-obj-agent.html) – [obj:lvc](fr_sequoia-dep-obj-lvc.html) – [obl](fr_sequoia-dep-obl.html) – [obl:agent](fr_sequoia-dep-obl-agent.html) – [obl:arg](fr_sequoia-dep-obl-arg.html) – [obl:mod](fr_sequoia-dep-obl-mod.html) – [orphan](fr_sequoia-dep-orphan.html) – [parataxis](fr_sequoia-dep-parataxis.html) – [parataxis:insert](fr_sequoia-dep-parataxis-insert.html) – [punct](fr_sequoia-dep-punct.html) – [root](fr_sequoia-dep-root.html) – [vocative](fr_sequoia-dep-vocative.html) – [xcomp](fr_sequoia-dep-xcomp.html)
+[acl](fr_sequoia-dep-acl.html) – [acl:relcl](fr_sequoia-dep-acl-relcl.html) – [advcl](fr_sequoia-dep-advcl.html) – [advcl:cleft](fr_sequoia-dep-advcl-cleft.html) – [advmod](fr_sequoia-dep-advmod.html) – [amod](fr_sequoia-dep-amod.html) – [appos](fr_sequoia-dep-appos.html) – [aux](fr_sequoia-dep-aux.html) – [aux:caus](fr_sequoia-dep-aux-caus.html) – [aux:pass](fr_sequoia-dep-aux-pass.html) – [aux:tense](fr_sequoia-dep-aux-tense.html) – [case](fr_sequoia-dep-case.html) – [cc](fr_sequoia-dep-cc.html) – [ccomp](fr_sequoia-dep-ccomp.html) – [conj](fr_sequoia-dep-conj.html) – [cop](fr_sequoia-dep-cop.html) – [csubj](fr_sequoia-dep-csubj.html) – [csubj:pass](fr_sequoia-dep-csubj-pass.html) – [dep](fr_sequoia-dep-dep.html) – [dep:comp](fr_sequoia-dep-dep-comp.html) – [det](fr_sequoia-dep-det.html) – [discourse](fr_sequoia-dep-discourse.html) – [dislocated](fr_sequoia-dep-dislocated.html) – [dislocated:obj](fr_sequoia-dep-dislocated-obj.html) – [expl:comp](fr_sequoia-dep-expl-comp.html) – [expl:pass](fr_sequoia-dep-expl-pass.html) – [expl:pv](fr_sequoia-dep-expl-pv.html) – [expl:subj](fr_sequoia-dep-expl-subj.html) – [fixed](fr_sequoia-dep-fixed.html) – [flat](fr_sequoia-dep-flat.html) – [flat:foreign](fr_sequoia-dep-flat-foreign.html) – [flat:name](fr_sequoia-dep-flat-name.html) – [goeswith](fr_sequoia-dep-goeswith.html) – [iobj](fr_sequoia-dep-iobj.html) – [iobj:agent](fr_sequoia-dep-iobj-agent.html) – [mark](fr_sequoia-dep-mark.html) – [nmod](fr_sequoia-dep-nmod.html) – [nsubj](fr_sequoia-dep-nsubj.html) – [nsubj:caus](fr_sequoia-dep-nsubj-caus.html) – [nsubj:outer](fr_sequoia-dep-nsubj-outer.html) – [nsubj:pass](fr_sequoia-dep-nsubj-pass.html) – [nummod](fr_sequoia-dep-nummod.html) – [obj](fr_sequoia-dep-obj.html) – [obj:agent](fr_sequoia-dep-obj-agent.html) – [obj:lvc](fr_sequoia-dep-obj-lvc.html) – [obl](fr_sequoia-dep-obl.html) – [obl:agent](fr_sequoia-dep-obl-agent.html) – [obl:arg](fr_sequoia-dep-obl-arg.html) – [obl:mod](fr_sequoia-dep-obl-mod.html) – [orphan](fr_sequoia-dep-orphan.html) – [parataxis](fr_sequoia-dep-parataxis.html) – [parataxis:insert](fr_sequoia-dep-parataxis-insert.html) – [punct](fr_sequoia-dep-punct.html) – [root](fr_sequoia-dep-root.html) – [vocative](fr_sequoia-dep-vocative.html) – [xcomp](fr_sequoia-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -128,15 +128,15 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 </ul>
 
 <ul>
-<li>This corpus contains 40 lemmas tagged as pronouns (PRON): aucun, autre, ce, ceci, cela, celui, celui-ci, certain, chacun, dont, en, eux, eux-mêmes, le, lequel, lui, lui-même, moi, moi-même, nous, nul, nôtre, on, où, personne, plusieurs, que, quelqu'un, qui, quiconque, quoi, rien, soi, toi, tout, un, vous, vous-même, y, ça</li>
+<li>This corpus contains 37 lemmas tagged as pronouns (PRON): aucun, autre, ce, ceci, cela, celui, celui-ci, certains, chacun, dont, en, eux-mêmes, lequel, lui, lui-même, moi, moi-même, nous, nul, nôtre, on, personne, plusieurs, que, quelqu'un, qui, quiconque, quoi, rien, soi, toi, tout, un, vous, vous-même, y, ça</li>
 </ul>
 
 <ul>
-<li>This corpus contains 16 lemmas tagged as determiners (DET): aucun, ce, certain, chaque, différent, divers, du, le, ledit, plusieurs, quel, quelque, son, tel, tout, un</li>
+<li>This corpus contains 17 lemmas tagged as determiners (DET): aucun, ce, certains, chaque, différents, divers, du, le, ledit, plusieurs, quel, quelque, quelques, son, tel, tout, un</li>
 </ul>
 
 <ul>
-<li>Out of the above, 7 lemmas occurred sometimes as PRON and sometimes as DET: aucun, ce, certain, le, plusieurs, tout, un</li>
+<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: aucun, ce, certains, plusieurs, tout, un</li>
 </ul>
 
 <ul>
@@ -188,8 +188,9 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: européenne, première, rénale, française, toutes, nouvelle, intraveineuse, nationale, seule, osseuse</li>
-      <li>DET: la, une, cette, sa, aucune, certaines, toute, ma, quelles, toutes</li>
+      <li>ADJ: européenne, première, rénale, française, autres, toutes, clinique, nouvelle, politique, intraveineuse</li>
+      <li>DET: la, l', une, cette, sa, son, aucune, certaines, toute, ma</li>
+      <li>NOUN: affaire, bivalirudine, commission, perfusion, administration, solution, dose, étude, fois, union</li>
       <li>PRON: elle, laquelle, elles, la, lesquelles, une, celle-ci, celles, celle, chacune</li>
       <li>PROPN: France, Paget, Europe, Christine, Denise, Afrique, Chine, Jean, Blanche, Société</li>
       <li>VERB-Part: observée, recommandée, administrée, destinée, maintenue, menée, rapportées, traitées, versées, liée</li>
@@ -200,9 +201,11 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: français, tous, ancien, osseux, zolédronique, premier, nombreux, dernier, faux, général</li>
+      <li>ADJ: tous, ancien, autres, indésirables, zolédronique, premier, français, dernier, général, autre</li>
       <li>AUX-Part: fait</li>
-      <li>DET: le, un, ce, son, cet, aucun, tout, du, certains, quel</li>
+      <li>DET: le, un, l', ce, son, cet, aucun, tout, du, certains</li>
+      <li>NOUN: patients, mg, ans, cas, traitement, président, effets, M., cours, ml</li>
+      <li>NUM: 2006-08-07</li>
       <li>PRON: il, ce, ils, un, le, -il, lui, eux, ceux, lequel</li>
       <li>PROPN: paris, Jacques, Chirac, Taïwan, Michel, Hauts-de-Seine, Didier, Alain, Maupas, François</li>
       <li>VERB-Part: mis, eu, traités, utilisé, atteints, administré, reçu, pris, fait, présenté</li>
@@ -218,12 +221,14 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: autres, indésirables, tous, politiques, cliniques, toutes, occultes, âgés, fréquents, graves</li>
+      <li>ADJ: autres, tous, indésirables, toutes, politiques, cliniques, français, âgés, fréquents, nombreux</li>
       <li>AUX-Fin: ont, sont, étaient, avaient, avez, avons, seront, soient, auraient, êtes</li>
       <li>DET: les, des, ces, ses, de, d', plusieurs, leurs, quelques, nos</li>
-      <li>NOUN: patients, ans, effets, jours, hommes, enfants, fractures, francs, études, femmes</li>
+      <li>NOUN: patients, ans, enfants, effets, jours, millions, mois, hommes, fractures, francs</li>
+      <li>NUM: deux, trois, 5, 10, 2, 1, 30, 4, 3, 100</li>
       <li>PRON: nous, vous, ils, les, eux, ceux, elles, lesquelles, leur, lesquels</li>
-      <li>PROPN: Hauts-de-Seine, États-Unis, Dominati, verts, Balkans, Nations, Sources, Bahamas, Forges, Pays-Bas</li>
+      <li>PROPN: Hauts-de-Seine, États-Unis, Dominati, Balkans, Nations, Sources, Verts, Bahamas, Forges, Pays-Bas</li>
+      <li>SYM: %</li>
       <li>VERB-Fin: doivent, peuvent, devons, ont, avez, veuillez, devez, présentent, avaient, avons</li>
       <li>VERB-Part: traités, atteints, présentés, rapportées, traitées, versées, rapportés, liés, menées, observés</li>
     </ul>
@@ -233,11 +238,12 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: autre, politique, même, clinique, ancien, zolédronique, européenne, jeune, première, rénale</li>
+      <li>ADJ: ancien, autre, zolédronique, européenne, première, rénale, politique, premier, même, française</li>
       <li>AUX-Fin: est, a, était, avait, sera, fut, ai, soit, aurait, suis</li>
       <li>AUX-Part: fait</li>
       <li>DET: le, la, l', une, un, cette, ce, son, votre, sa</li>
       <li>NOUN: affaire, bivalirudine, commission, perfusion, traitement, président, M., conseil, administration, solution</li>
+      <li>NUM: 2006, 2000, 1995, 2, 2002, 2001, 1994, 2004, 5, 1989</li>
       <li>PRON: il, je, elle, ce, c', j', cela, on, un, le</li>
       <li>PROPN: Paris, Jacques, France, Chirac, Taïwan, Francis, Michel, Paget, Didier, Alain</li>
       <li>VERB-Fin: doit, a, peut, faut, est, voudrais, pense, agit, concerne, contient</li>
@@ -427,7 +433,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Art
     <ul>
-      <li>DET: le, les, la, l', une, un, des, de, d', quelques</li>
+      <li>DET: le, les, la, l', une, un, des, de, d', du</li>
     </ul>
   </li>
 </ul>
@@ -452,7 +458,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Ind
     <ul>
-      <li>DET: plusieurs, chaque, certains, certaines, divers, différentes, différents, quel, telles</li>
+      <li>DET: plusieurs, quelques, chaque, tout, certains, certaines, toute, quelque, divers, tous</li>
       <li>PRON: on, un, l'on, une, tout, autre, certains, chacun, tous, chacune</li>
     </ul>
   </li>
@@ -461,9 +467,9 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Int
     <ul>
-      <li>ADV: comment, pourquoi, combien</li>
+      <li>ADV: comment, pourquoi, où, combien</li>
       <li>DET: quel, quelles, quelle, quels</li>
-      <li>PRON: Qu', Que, où, qui, quoi, QU'</li>
+      <li>PRON: Qu', Que, qui, quoi, QU'</li>
     </ul>
   </li>
 </ul>
@@ -489,7 +495,8 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: qui, que, dont, où, qu', laquelle, lequel, lesquelles, lesquels, quoi</li>
+      <li>ADV: où</li>
+      <li>PRON: qui, que, dont, qu', laquelle, lequel, lesquelles, lesquels, quoi, Quiconque</li>
     </ul>
   </li>
 </ul>
@@ -501,8 +508,8 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
 <ul>
   <li>Card
     <ul>
-      <li>NOUN: millions, milliards, 2006-08-07, milliard, million, -1,5, -2,5, 09-2008, 1/04/289/001, 1/04/289/002</li>
-      <li>NUM: deux, 5, trois, 2, 2006, 10, 1, 30, 3, 4</li>
+      <li>NOUN: millions, milliards, milliard, million</li>
+      <li>NUM: deux, 5, trois, 2, 2006, 10, 30, 1, 3, 15</li>
     </ul>
   </li>
 </ul>
@@ -631,20 +638,18 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
         <ul>
           <li>ADP: en, d', à, pour, avant</li>
           <li>ADV: tout, non</li>
-          <li>NOUN: suite, grâce, face</li>
           <li>PRON: il, Y</li>
           <li>SYM: /, <</li>
           <li>VERB: vu</li>
-          <li>VERB-Part: vu</li>
         </ul>
       </li>
       <li>ADV
         <ul>
           <li>ADJ: petit</li>
-          <li>ADP: à, de, en, d', dès, auprès, entre, pour, A, Par</li>
-          <li>ADV: lors, bien, quant, tout, non, aussi, ne</li>
+          <li>ADP: à, de, en, d', dès, entre, pour, A, Par, comme</li>
+          <li>ADV: bien, quant, tout, non, aussi, ne</li>
           <li>DET: un, une, le</li>
-          <li>NOUN: compte</li>
+          <li>NOUN: suite, grâce, face, compte</li>
           <li>PRON: c', il</li>
           <li>SCONJ: quand, si</li>
           <li>X: a</li>
@@ -673,6 +678,8 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
       <li>NOUN
         <ul>
           <li>ADP: pour</li>
+          <li>SYM: %</li>
+          <li>X: 220725478X, B01AE06</li>
         </ul>
       </li>
       <li>PRON
@@ -686,6 +693,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
       <li>PROPN
         <ul>
           <li>NOUN: Fusillé, Fusillés, charniers, honneur, possession</li>
+          <li>X: M05BA08</li>
         </ul>
       </li>
       <li>SCONJ
@@ -747,7 +755,7 @@ The Sequoia Corpus was presented in [(Candito & Seddah, 2012)](https://hal-univ-
           <li>ADJ: française, musculo, même, occulte</li>
           <li>AUX-Fin: a, soit, sont, était</li>
           <li>DET: le</li>
-          <li>NOUN: sus, Edition, bâtiment, conseil, donnée, gouvenement, matches, patient, personnel</li>
+          <li>NOUN: Associations, Edition, bâtiment, conseil, donnée, gouvenement, matches, patient, personnel, sus</li>
           <li>PRON: elles</li>
           <li>VERB-Fin: vont</li>
           <li>VERB-Part: accédé, classé, comparé, dénoncées, effectués, estimée, installés, jugé, lancé, localisée</li>
@@ -776,13 +784,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (774)</li>
+      <li>VERB-Fin--NOUN (768)</li>
       <li>VERB-Fin--NOUN-ADP(que) (1)</li>
       <li>VERB-Fin--PRON (297)</li>
       <li>VERB-Fin--PRON-Nom (576)</li>
       <li>VERB-Inf--NOUN (10)</li>
       <li>VERB-Inf--PRON (2)</li>
-      <li>VERB-Part--NOUN (290)</li>
+      <li>VERB-Part--NOUN (282)</li>
       <li>VERB-Part--PRON (62)</li>
       <li>VERB-Part--PRON-Nom (149)</li>
     </ul>
@@ -792,15 +800,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (620)</li>
+      <li>VERB-Fin--NOUN (613)</li>
       <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (1)</li>
       <li>VERB-Fin--PRON (93)</li>
       <li>VERB-Fin--PRON-Acc (46)</li>
-      <li>VERB-Inf--NOUN (687)</li>
+      <li>VERB-Inf--NOUN (685)</li>
       <li>VERB-Inf--NOUN-ADP(à) (1)</li>
       <li>VERB-Inf--PRON (38)</li>
       <li>VERB-Inf--PRON-Acc (36)</li>
-      <li>VERB-Part--NOUN (492)</li>
+      <li>VERB-Part--NOUN (487)</li>
       <li>VERB-Part--PRON (37)</li>
       <li>VERB-Part--PRON-Acc (24)</li>
     </ul>
@@ -810,11 +818,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (31)</li>
+      <li>VERB-Fin--PRON (24)</li>
       <li>VERB-Fin--PRON-Dat (33)</li>
-      <li>VERB-Inf--PRON (14)</li>
+      <li>VERB-Inf--PRON (16)</li>
       <li>VERB-Inf--PRON-Dat (11)</li>
-      <li>VERB-Part--PRON (14)</li>
+      <li>VERB-Part--PRON (18)</li>
       <li>VERB-Part--PRON-Dat (29)</li>
     </ul>
   </li>
@@ -835,13 +843,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 26 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lier se, défendre se, déclarer se, réserver se, sentir se, apprécier se, attendre se, comprendre me, compromettre se, confier se, croire se, dessaisir se, dire se, entraîner s', faire se, inscrire s', inscrire se, persuader se, rassurer se, remarquer s', rembourser se, rendre se, restructurer se, retrouver s', retrouver se, réchauffer se</li>
+  <li>This corpus contains 30 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: fracturer s', lier se, défendre se, déclarer se, frotter se, réserver se, sentir se, apprécier se, attendre se, comprendre me, compromettre se, confier se, croire se, dessaisir se, dire se, entraîner s', faire se, fracturer se, inscrire s', inscrire se, persuader se, rassurer se, remarquer s', rembourser se, rendre se, restructurer se, retrouver s', retrouver se, réchauffer se, voiler se</li>
+    <ul>
+      <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: fracturer, frotter</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 23 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>csubj:pass</a>, <a>dep:comp</a>, <a>expl:comp</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:insert</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>expl</a>, <a>flat</a></li>
+<li>This corpus uses 24 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>csubj:pass</a>, <a>dep:comp</a>, <a>dislocated:obj</a>, <a>expl:comp</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obj:lvc</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a>, <a>parataxis:insert</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

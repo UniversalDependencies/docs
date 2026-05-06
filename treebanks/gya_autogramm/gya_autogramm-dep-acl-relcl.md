@@ -80,7 +80,7 @@ The following 3 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 10	dùà	dùà	NOUN	N	_	9	obj	_	AlignBegin=325674|AlignEnd=325880|Gloss=cabri|MGloss=cabri|MSeg=dùà|nWord=10|RX=N
 11	há̰	há̰	SCONJ	SUB	_	13	mark	_	AlignBegin=325880|AlignEnd=325983|Gloss=pour_que|MGloss=pour_que|MSeg=há̰|nWord=11|RX=SUB
 12	=éí	ʔéí	PRON	PRO	PronType=Ind	13	nsubj	_	AlignBegin=325983|AlignEnd=326086|Gloss=IMPS|MGloss=IMPS|MSeg==éí|nWord=11|RX=PRO|Word=héí
-13	mɔ́-dɛ̀	dɛ	VERB	V	_	9	advcl	_	AlignBegin=326086|AlignEnd=326292|Gloss=faire|MGloss=FIN-ỊNAC-faire|MSeg=mɛ́-B-dɛ|nWord=12|RX=V
+13	mɔ́-dɛ̀	dɛ	VERB	V	_	9	advcl	_	AlignBegin=326086|AlignEnd=326292|Gloss=faire|MGloss=FIN.INAC-faire|MSeg=mɛ́-B-dɛ|nWord=12|RX=V
 14	nɛ̀	nɛ̀	PART	MV	_	13	advmod	_	AlignBegin=326292|AlignEnd=326498|Gloss=CIRC|MGloss=CIRC|MSeg=nɛ̀|nWord=13|RX=MV
 15	mɔ̀	mɔ̀	NOUN	N	_	13	obj	_	AlignBegin=326498|AlignEnd=326704|Gloss=chose|MGloss=chose|MSeg=mɔ̀|nWord=14|RX=N
 16	ʔá	ʔa	VERB	V	_	13	compound:svc	_	AlignBegin=326704|AlignEnd=326910|Gloss=poser|MGloss=INF-ACC-poser|MSeg=H-ʔa|nWord=15|RX=V

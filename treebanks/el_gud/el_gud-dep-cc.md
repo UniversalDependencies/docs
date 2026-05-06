@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1020 nodes (4%) are attached to their parents as `cc`.
+1015 nodes (4%) are attached to their parents as `cc`.
 
-1002 instances of `cc` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.18529411764706.
+998 instances of `cc` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.22266009852217.
 
-The following 18 pairs of parts of speech are connected with `cc`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (625; 61% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (219; 21% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (50; 5% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (36; 4% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (28; 3% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (22; 2% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (19; 2% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (8; 1% instances), <tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-AUX.html">AUX</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-PART.html">PART</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-X.html">X</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 22 pairs of parts of speech are connected with `cc`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (613; 60% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (214; 21% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (49; 5% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (36; 4% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (27; 3% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (17; 2% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (17; 2% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADP.html">ADP</a></tt> (13; 1% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (8; 1% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="el_gud-pos-X.html">X</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-AUX.html">AUX</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-PART.html">PART</a></tt>-<tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -39,21 +39,21 @@ The following 18 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 cc	color:blue
-1	«	«	PUNCT	_	_	2	punct	_	PunctType=Quot
-2	Καλά	καλά	INTJ	_	_	0	root	_	_
-3	,	,	PUNCT	_	_	5	punct	_	PunctType=Comm
+1	«	«	PUNCT	_	_	13	punct	_	PunctType=Quot|SpaceAfter=No
+2	Καλά	καλά	INTJ	_	_	13	discourse	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	13	punct	_	PunctType=Comm
 4	τη	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	γυναίκα	γυναίκα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	conj	_	_
-6	σου	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod	_	_
+5	γυναίκα	γυναίκα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+6	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod	_	_
 7	και	και	CCONJ	_	_	9	cc	_	_
 8	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	_
 9	παιδιά	παιδί	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	conj	_	_
-10	σου	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	9	nmod	_	_
+10	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	9	nmod	_	_
 11	δεν	δεν	PART	_	Polarity=Neg	13	advmod	_	_
-12	τα	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	13	obj	_	_
-13	σκέφτηκες	σκέφτομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	_
-14	;	;	PUNCT	_	_	2	punct	_	PunctType=Qest
-15	»	»	PUNCT	_	_	2	punct	_	PunctType=Quot
+12	τα	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	13	expl	_	_
+13	σκέφτηκες	σκέφτομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+14	;	;	PUNCT	_	_	13	punct	_	PunctType=Qest|SpaceAfter=No
+15	»	»	PUNCT	_	_	13	punct	_	PunctType=Quot
 
 ~~~
 

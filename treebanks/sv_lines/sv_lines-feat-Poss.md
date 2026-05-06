@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Poss` co-occurred:
 `NOUN` tokens may have the following values of `Poss`:
 
 * `Yes` (5; 100% of non-empty `Poss`): <em>min</em>
-* `EMPTY` (17835): <em>sätt, år, gång, far, fält, man, sidan, del, väg, tiden</em>
+* `EMPTY` (17838): <em>sätt, år, gång, far, fält, man, sidan, del, väg, tiden</em>
 
 ### `VERB`
 

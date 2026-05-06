@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-98 nodes (0%) are attached to their parents as `discourse`.
+92 nodes (0%) are attached to their parents as `discourse`.
 
-93 instances of `discourse` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.62244897959184.
+87 instances of `discourse` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.48913043478261.
 
-The following 10 pairs of parts of speech are connected with `discourse`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (48; 49% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (17; 17% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (13; 13% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (6; 6% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (5; 5% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 4% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt>-<tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `discourse`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (35; 38% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (17; 18% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (13; 14% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (7; 8% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (4; 4% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (4; 4% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (3; 3% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt>-<tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -37,7 +37,7 @@ The following 10 pairs of parts of speech are connected with `discourse`: <tt><a
 13	de	de	ADP	IN	_	15	case	_	_
 14	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	año	año	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	_
-16	increíble	increíble	ADJ	JJ	Gender=Masc|Number=Sing	15	amod	_	SpaceAfter=No
+16	increíble	increíble	ADJ	JJ	Number=Sing	15	amod	_	SpaceAfter=No
 17	.	.	PUNCT	.	PunctType=Peri	10	punct	_	_
 
 ~~~
@@ -78,12 +78,12 @@ The following 10 pairs of parts of speech are connected with `discourse`: <tt><a
 3	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	Gobierno	gobierno	NOUN	NN	Gender=Masc|Number=Sing	5	nsubj	_	_
 5	tendrá	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-6	que	que	ADP	IN	_	5	fixed	_	_
+6	que	que	ADP	IN	_	7	mark	_	_
 7	lidiar	lidiar	VERB	VB	VerbForm=Inf	5	xcomp	_	_
 8	con	con	ADP	IN	_	10	case	_	_
 9	otra	otro	DET	DT	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
 10	patata	patata	NOUN	NN	Gender=Fem|Number=Sing	5	obl	_	_
-11	caliente	caliente	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
+11	caliente	caliente	ADJ	JJ	Number=Sing	10	amod	_	SpaceAfter=No
 12	.	.	PUNCT	.	PunctType=Peri	5	punct	_	_
 
 ~~~

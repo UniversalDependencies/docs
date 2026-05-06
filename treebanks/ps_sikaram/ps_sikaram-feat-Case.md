@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Abl`, `Acc`, `Gen`, `Loc`, `Nom`, `Voc`.
 
-2381 tokens (59%) have a non-empty value of `Case`.
-860 types (80%) occur at least once with a non-empty value of `Case`.
-693 lemmas (83%) occur at least once with a non-empty value of `Case`.
-The feature is used with 10 part-of-speech tags: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (870; 21% instances), <tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (588; 14% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (434; 11% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (147; 4% instances), <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (131; 3% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (95; 2% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (58; 1% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (43; 1% instances), <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+3254 tokens (60%) have a non-empty value of `Case`.
+1110 types (81%) occur at least once with a non-empty value of `Case`.
+866 lemmas (84%) occur at least once with a non-empty value of `Case`.
+The feature is used with 10 part-of-speech tags: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1156; 21% instances), <tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (838; 15% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (578; 11% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (217; 4% instances), <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (168; 3% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (139; 3% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (78; 1% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (56; 1% instances), <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (20; 0% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
-870 <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+1156 <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (614; 71%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (490; 56%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (824; 71%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (658; 57%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (30; 3% of non-empty `Case`): <em>خوا, مخې, کبله, اړخه, اصولو, امله, اړخونو, خلکو, دمه, دوده</em>
-* `Acc` (240; 28% of non-empty `Case`): <em>ژباړې, ژبې, خلکو, ژبو, کتابونو, ساري, هېوادونو, ارزښتونو, خبرو, دودونو</em>
-* `Loc` (123; 14% of non-empty `Case`): <em>ژبه, توګه, برخه, وخت, ټکي, بڼه, جمله, سیمه, ډګر, ژبو</em>
-* `Nom` (477; 55% of non-empty `Case`): <em>ژبه, ژباړه, کتابونه, خلک, ډول, کسان, خبرې, ستونزه, مانا, اړتیا</em>
+* `Abl` (49; 4% of non-empty `Case`): <em>خوا, کبله, مخې, مرغه, اړخه, لاسه, منځه, اره, اصولو, امله</em>
+* `Acc` (340; 29% of non-empty `Case`): <em>ژبې, ژباړې, کتابونو, خلکو, ژبو, ساري, هېوادونو, پرمختګ, کار, ارزښتونو</em>
+* `Loc` (165; 14% of non-empty `Case`): <em>ژبه, توګه, برخه, وخت, ډګر, سیمه, ټکي, ژبو, بڼه, جمله</em>
+* `Nom` (602; 52% of non-empty `Case`): <em>ژبه, کتابونه, خبرې, ژباړه, خلک, ستونزه, ډول, کسان, اړتیا, خبره</em>
 
 <table>
   <tr><th>Paradigm <i>ژباړه</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
@@ -34,13 +34,13 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADP`
 
-588 <tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
+838 <tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> tokens (100% of all `ADP` tokens) have a non-empty value of `Case`.
 
 `ADP` tokens may have the following values of `Case`:
 
-* `Abl` (40; 7% of non-empty `Case`): <em>له, تر, پرته, پورې</em>
-* `Acc` (289; 49% of non-empty `Case`): <em>د, ته, له, سره, لپاره, څخه, تر, لاندې, ترڅنګ, پسې</em>
-* `Loc` (259; 44% of non-empty `Case`): <em>په, کې, پر, باندې, پۀ, پورې</em>
+* `Abl` (66; 8% of non-empty `Case`): <em>له, تر, پرته, پورې, سره</em>
+* `Acc` (430; 51% of non-empty `Case`): <em>د, ته, له, لپاره, څخه, سره, تر, لاندې, ترڅنګ, وروسته</em>
+* `Loc` (342; 41% of non-empty `Case`): <em>په, کې, پر, باندې, پۀ, پسې, پورې</em>
 
 <table>
   <tr><th>Paradigm <i>له</i></th><th><tt>Acc</tt></th><th><tt>Abl</tt></th></tr>
@@ -49,17 +49,17 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-434 <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
+578 <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (270; 62%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (262; 60%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (366; 63%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (351; 61%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Abl` (4; 1% of non-empty `Case`): <em>بده, بلې, لږه, نړیوالو</em>
-* `Acc` (88; 20% of non-empty `Case`): <em>نورو, ټولنیزو, پوهنیزو, اغېزمن, متاثر, اسلامي, بل, کلتوري, ادبي, اغېزناک</em>
-* `Loc` (41; 9% of non-empty `Case`): <em>نورو, ټولنیز, وروستیو, لره, اخرو, اسلامي, اوښتې, ايراني, ايرانۍ, اړوند</em>
-* `Nom` (301; 69% of non-empty `Case`): <em>زيات, ښه, زده, سمه, جوړ, ناسمه, نور, اصلي, اړ, اړوند</em>
-* `EMPTY` (1): <em>خپور</em>
+* `Abl` (9; 2% of non-empty `Case`): <em>بده, بلې, سمه, لږه, نړیوالو, ډېره</em>
+* `Acc` (117; 20% of non-empty `Case`): <em>نورو, پوهنیزو, ټولنیزو, اغېزمن, متاثر, پوهنیز, اسلامي, بل, کلتوري, اداري</em>
+* `Loc` (63; 11% of non-empty `Case`): <em>نورو, ټولنیز, وروستیو, دري, لره, هنري, پوهنیز, اخرو, ادبي, اسلامي</em>
+* `Nom` (389; 67% of non-empty `Case`): <em>زده, زيات, ښه, سمه, اړ, جوړ, نور, ناسمه, اصلي, اړوند</em>
+* `EMPTY` (8): <em>ق, هـ, خپور, م</em>
 
 <table>
   <tr><th>Paradigm <i>بل</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
@@ -69,17 +69,17 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PROPN`
 
-147 <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+217 <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (131; 89%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (79; 54%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (192; 88%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (109; 50%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Abl` (1; 1% of non-empty `Case`): <em>پېښوره</em>
-* `Acc` (44; 30% of non-empty `Case`): <em>پښتو, پښتنو, پیتر, اردو, ايران, مریم, پاړسي, اسامه, افغان, امريکا</em>
-* `Loc` (40; 27% of non-empty `Case`): <em>پښتو, اردو, پاړسي, انګرېزۍ, ږوب, افغانستان, امريکا, جرمني, لورلايي, هند</em>
-* `Nom` (61; 41% of non-empty `Case`): <em>پښتو, پښتانه, احمد, وحید, عربي, پنج, ايرانیان, پاړسي, کتاب, اردو</em>
-* `Voc` (1; 1% of non-empty `Case`): <em>سامه</em>
+* `Abl` (1; 0% of non-empty `Case`): <em>پېښوره</em>
+* `Acc` (79; 36% of non-empty `Case`): <em>پښتو, پښتنو, افغانستان, پیتر, کابل, اردو, بابا, خوشال, ايران, مریم</em>
+* `Loc` (48; 22% of non-empty `Case`): <em>پښتو, اردو, پاړسي, کابل, انګرېزۍ, ږوب, کوټه, افغانستان, امريکا, جرمني</em>
+* `Nom` (88; 41% of non-empty `Case`): <em>پښتو, پښتانه, احمد, وحید, عربي, پنج, ايرانیان, بابا, دري, پاړسي</em>
+* `Voc` (1; 0% of non-empty `Case`): <em>سامه</em>
 
 <table>
   <tr><th>Paradigm <i>پښتو</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Loc</tt></th></tr>
@@ -88,36 +88,40 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `DET`
 
-131 <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> tokens (83% of all `DET` tokens) have a non-empty value of `Case`.
+168 <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (109; 83%), <tt><a href="ps_sikaram-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (109; 83%), <tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (95; 73%), <tt><a href="ps_sikaram-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (68; 52%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (66; 50%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (142; 85%), <tt><a href="ps_sikaram-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (142; 85%), <tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (124; 74%), <tt><a href="ps_sikaram-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (93; 55%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (85; 51%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Abl` (5; 4% of non-empty `Case`): <em>دې, هغه, همدې</em>
-* `Acc` (19; 15% of non-empty `Case`): <em>خپل, هرې, خپلو, ځینو, دغو, هماغه, همدغو, ټولې, کوم, کومې</em>
-* `Loc` (29; 22% of non-empty `Case`): <em>دې, خپل, خپله, ټوله, هره, هماغه, هغه, ځینو</em>
-* `Nom` (78; 60% of non-empty `Case`): <em>دغه, هغه, خپل, هر, ځینې, همدغه, ټول, کوم, کومه, خپله</em>
-* `EMPTY` (27): <em>داسې, څو, دغسې, چې, یوشمېر, هماغسې, هېڅ, څه, څۀ</em>
+* `Abl` (9; 5% of non-empty `Case`): <em>دې, همدې, هغه</em>
+* `Acc` (29; 17% of non-empty `Case`): <em>خپل, خپلو, هرې, دې, ځینو, کوم, دغه, دغو, دغې, هغو</em>
+* `Loc` (35; 21% of non-empty `Case`): <em>دې, خپل, خپله, هغه, ټوله, هره, هماغه, دغو, هر, ځینو</em>
+* `Nom` (95; 57% of non-empty `Case`): <em>دغه, هغه, ځینې, خپل, هر, همدغه, کومه, دا, کوم, ټول</em>
+* `EMPTY` (28): <em>څو, داسې, دغسې, یوشمېر, هېڅ, هماغسې, همدغسې, څه, څۀ</em>
 
 <table>
-  <tr><th>Paradigm <i>خپل</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Loc</tt></th></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>خپل</em></td><td><em>خپل</em></td><td><em>خپل</em></td></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>خپل</em></td><td><em>خپلو</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>خپله</em></td><td></td><td><em>خپله</em></td></tr>
+  <tr><th>Paradigm <i>دا</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>دې</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>دې</em></td><td><em>دې</em></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td><em>دې</em></td><td><em>دې</em></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>دې</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>دا</em></td><td><em>دې</em></td><td><em>دې</em></td><td><em>دې</em></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>دا</em></td><td></td><td><em>دې</em></td><td></td></tr>
 </table>
 
 ### `VERB`
 
-95 <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> tokens (29% of all `VERB` tokens) have a non-empty value of `Case`.
+139 <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> tokens (31% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (93; 98%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (93; 98%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (57; 60%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (57; 60%), <tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (57; 60%), <tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (57; 60%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (137; 99%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (137; 99%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (79; 57%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (79; 57%), <tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (79; 57%), <tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (79; 57%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Acc` (8; 8% of non-empty `Case`): <em>شویو, کولو, ځلولو, څښلو, څکولو, ړنګېدو</em>
-* `Nom` (87; 92% of non-empty `Case`): <em>ژباړل, کارول, کړی, شوي, شوی, کړې, لیکل, ګڼل, رااخیستل, راژباړل</em>
-* `EMPTY` (232): <em>کوي, لري, کړي, شي, کېږي, کولای, ورکوي, شته, وايي, راځي</em>
+* `Acc` (12; 9% of non-empty `Case`): <em>کولو, شویو, رسېدو, ځلولو, څښلو, څکولو, ړنګېدو</em>
+* `Loc` (4; 3% of non-empty `Case`): <em>تېرېدو, لوستلو, ويلو, کارولو</em>
+* `Nom` (123; 88% of non-empty `Case`): <em>کړې, ژباړل, شوي, شوی, کارول, کړی, لیکل, شوې, وهل, ويلي</em>
+* `EMPTY` (309): <em>لري, کوي, کړي, کېږي, شي, کولای, کړه, شته, شو, ورکوي</em>
 
 <table>
   <tr><th>Paradigm <i>کول</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -127,22 +131,20 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
   <tr><td><tt><tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>کړې</em></td><td></td></tr>
 </table>
 
-`Case` seems to be **lexical feature** of `VERB`. 94% lemmas (34) occur only with one value of `Case`.
-
 ### `PRON`
 
-58 <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> tokens (30% of all `PRON` tokens) have a non-empty value of `Case`.
+78 <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> tokens (36% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (58; 100%), <tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (57; 98%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (33; 57%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (77; 99%), <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (74; 95%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (50; 64%), <tt><a href="ps_sikaram-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (43; 55%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (40; 51%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Abl` (2; 3% of non-empty `Case`): <em>دې, ټولو</em>
-* `Acc` (19; 33% of non-empty `Case`): <em>دې, هغوی, هغۀ, چا, ما, هغې, دوی</em>
-* `Gen` (6; 10% of non-empty `Case`): <em>زموږ, ستا, زما</em>
-* `Loc` (6; 10% of non-empty `Case`): <em>دې, دوی, هغوی, هغې</em>
-* `Nom` (25; 43% of non-empty `Case`): <em>دا, دوی, همدا, څوک, هغه, موږ, هرڅوک, همدغه, هیڅوک, ځان</em>
-* `EMPTY` (138): <em>يې, چې, ور, یې, ځان, څه, هرڅه, داسې, یوبل</em>
+* `Abl` (3; 4% of non-empty `Case`): <em>دې, ټولو</em>
+* `Acc` (29; 37% of non-empty `Case`): <em>ده, دې, هغوی, هغۀ, هغې, چا, دوی, ما, هغه</em>
+* `Gen` (6; 8% of non-empty `Case`): <em>زموږ, ستا, زما</em>
+* `Loc` (11; 14% of non-empty `Case`): <em>خپله, دې, دوی, ما, هغوی, هغې</em>
+* `Nom` (29; 37% of non-empty `Case`): <em>دا, دوی, هغه, همدا, څوک, دی, موږ, هرڅوک, همدغه, هیڅوک</em>
+* `EMPTY` (138): <em>يې, ور, یې, څه, ځان, هرڅه, داسې, در, را, یوبل</em>
 
 <table>
   <tr><th>Paradigm <i>دا</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
@@ -152,17 +154,17 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `NUM`
 
-43 <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> tokens (93% of all `NUM` tokens) have a non-empty value of `Case`.
+56 <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> tokens (81% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (43; 100%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (56; 100%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (30; 54%).
 
 `NUM` tokens may have the following values of `Case`:
 
 * `Abl` (1; 2% of non-empty `Case`): <em>یوې</em>
-* `Acc` (11; 26% of non-empty `Case`): <em>یوه, یوې, دوو</em>
-* `Loc` (3; 7% of non-empty `Case`): <em>یوه, دوو</em>
-* `Nom` (28; 65% of non-empty `Case`): <em>یو, یوه, دوه, دوې</em>
-* `EMPTY` (3): <em>1, 30, 40</em>
+* `Acc` (12; 21% of non-empty `Case`): <em>یوې, یوه, دوو</em>
+* `Loc` (6; 11% of non-empty `Case`): <em>یوه, درېیو, دوو</em>
+* `Nom` (37; 66% of non-empty `Case`): <em>یوه, یو, دوه, دوې, پنځه</em>
+* `EMPTY` (13): <em>0053, 1, 1032, 1044, 1075, 1100, 1106, 1525, 1858, 2</em>
 
 <table>
   <tr><th>Paradigm <i>یو</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
@@ -172,35 +174,44 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 ### `AUX`
 
-14 <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> tokens (6% of all `AUX` tokens) have a non-empty value of `Case`.
+20 <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14; 100%), <tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (14; 100%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (13; 93%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 57%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (20; 100%), <tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (20; 100%), <tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (20; 100%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (17; 85%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 60%).
 
 `AUX` tokens may have the following values of `Case`:
 
-* `Nom` (14; 100% of non-empty `Case`): <em>شوی, شوي, شوې</em>
-* `EMPTY` (202): <em>ده, شي, به, وي, کېږي, دي, دی, دﺉ, شو, و</em>
+* `Acc` (1; 5% of non-empty `Case`): <em>شوي</em>
+* `Nom` (19; 95% of non-empty `Case`): <em>شوی, شوي, شوې</em>
+* `EMPTY` (251): <em>ده, شي, به, دي, وي, کېږي, دی, وه, و, وو</em>
+
+<table>
+  <tr><th>Paradigm <i>کېدل</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>شوی</em></td><td><em>شوي</em></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>شوي</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>شوې</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ps_sikaram-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>شوي</em></td><td></td></tr>
+</table>
 
 ### `ADV`
 
-1 <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Case`.
+4 <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Case`.
 
 `ADV` tokens may have the following values of `Case`:
 
-* `Abl` (1; 100% of non-empty `Case`): <em>اوسه</em>
-* `EMPTY` (174): <em>هم, نو, اوس, کله, چېرې, بیا, یوازې, دومره, لا, وروسته</em>
+* `Abl` (4; 100% of non-empty `Case`): <em>اوسه</em>
+* `EMPTY` (221): <em>هم, نو, اوس, بیا, کله, یوازې, چېرې, دومره, لا, همدا</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ps_sikaram-dep-case.html">case</a></tt>]--> ADP</tt> (404; 99%),
-<tt>NOUN --[<tt><a href="ps_sikaram-dep-amod.html">amod</a></tt>]--> ADJ</tt> (254; 100%),
-<tt>NOUN --[<tt><a href="ps_sikaram-dep-det.html">det</a></tt>]--> DET</tt> (122; 81%),
-<tt>PROPN --[<tt><a href="ps_sikaram-dep-case.html">case</a></tt>]--> ADP</tt> (85; 99%),
-<tt>NOUN --[<tt><a href="ps_sikaram-dep-conj.html">conj</a></tt>]--> NOUN</tt> (79; 96%),
-<tt>NOUN --[<tt><a href="ps_sikaram-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (40; 98%),
-<tt>ADJ --[<tt><a href="ps_sikaram-dep-conj.html">conj</a></tt>]--> ADJ</tt> (26; 100%),
-<tt>VERB --[<tt><a href="ps_sikaram-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (26; 100%),
-<tt>ADJ --[<tt><a href="ps_sikaram-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (25; 100%),
-<tt>ADJ --[<tt><a href="ps_sikaram-dep-case.html">case</a></tt>]--> ADP</tt> (18; 95%).
+<tt>NOUN --[<tt><a href="ps_sikaram-dep-case.html">case</a></tt>]--> ADP</tt> (572; 98%),
+<tt>NOUN --[<tt><a href="ps_sikaram-dep-amod.html">amod</a></tt>]--> ADJ</tt> (331; 100%),
+<tt>NOUN --[<tt><a href="ps_sikaram-dep-det.html">det</a></tt>]--> DET</tt> (159; 85%),
+<tt>PROPN --[<tt><a href="ps_sikaram-dep-case.html">case</a></tt>]--> ADP</tt> (120; 99%),
+<tt>NOUN --[<tt><a href="ps_sikaram-dep-conj.html">conj</a></tt>]--> NOUN</tt> (103; 97%),
+<tt>NOUN --[<tt><a href="ps_sikaram-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (51; 96%),
+<tt>PRON --[<tt><a href="ps_sikaram-dep-case.html">case</a></tt>]--> ADP</tt> (41; 53%),
+<tt>ADJ --[<tt><a href="ps_sikaram-dep-conj.html">conj</a></tt>]--> ADJ</tt> (36; 100%),
+<tt>VERB --[<tt><a href="ps_sikaram-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (34; 100%),
+<tt>ADJ --[<tt><a href="ps_sikaram-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (30; 100%).
 

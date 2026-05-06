@@ -43,7 +43,7 @@ The following 1 pairs of parts of speech are connected with `dislocated:ccomp`: 
 18	hoc	hic	DET	ddisna	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Dem	20	obj	_	_
 19	solum	solum	ADV	r	PronType=Con	20	advmod:emph	_	_
 20	habemus	habeo	VERB	va2ipp1	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp:reported	_	TraditionalMood=Indicativus|TraditionalTense=Praesens
-21	residui	residuus	ADJ	ans1g	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	20	advcl:pred	_	SpaceAfter=No
+21	residui	residuus	ADJ	ans1g	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	20	advcl:pred	_	SpaceAfter=No
 22	:	:	PUNCT	Pu	_	28	punct	_	_
 23	quod	quod	SCONJ	cs	PronType=Rel	28	mark	_	_
 24	oculos	oculus	NOUN	smp2a	Case=Acc|Gender=Masc|InflClass=IndEurO|Number=Plur	28	obj	_	_

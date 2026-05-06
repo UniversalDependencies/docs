@@ -116,6 +116,5 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>DET --[<tt><a href="he_iahltknesset-dep-advmod.html">advmod</a></tt>]--> DET</tt> (1; 100%),
 <tt>NUM --[<tt><a href="he_iahltknesset-dep-conj.html">conj</a></tt>]--> NUM</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="he_iahltknesset-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1; 100%),
-<tt>PROPN --[<tt><a href="he_iahltknesset-dep-obl-unmarked.html">obl:unmarked</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="he_iahltknesset-dep-obl.html">obl</a></tt>]--> PROPN</tt> (1; 100%).
 

@@ -13,7 +13,7 @@ The 10 most frequent `DET` lemmas: <em>tõt, jeeʹres, mäŋgg, tät</em>
 
 The 10 most frequent `DET` types:  <em>tõn, tõt, Tät, jeeʹres, määŋg</em>
 
-The 10 most frequent ambiguous lemmas: <em>tõt</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 78, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 4), <em>jeeʹres</em> (<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1), <em>tät</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 5, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>tõt</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 78, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 4), <em>jeeʹres</em> (<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1), <em>tät</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 6, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>tõn</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 28, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 2), <em>tõt</em> (<tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 29, <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1), <em>jeeʹres</em> (<tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> 1, <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> 1)
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>tõn</em> (<tt><a href="sms_giellagas
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.250000 (the average of all parts of speech is 1.476809).
+The form / lemma ratio of `DET` is 1.250000 (the average of all parts of speech is 1.487500).
 
 The 1st highest number of forms (2) was observed with the lemma “tõt”: <em>tõn, tõt</em>.
 

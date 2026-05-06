@@ -1,96 +1,94 @@
 ---
 layout: base
-title:  'Statistics of PRON in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of PRON in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: POS Tags: `PRON`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: POS Tags: `PRON`
 
-There are 85 `PRON` lemmas (5%), 83 `PRON` types (3%) and 506 `PRON` tokens (5%).
-Out of 15 observed tags, the rank of `PRON` is: 5 in number of lemmas, 6 in number of types and 6 in number of tokens.
+There are 119 `PRON` lemmas (4%), 131 `PRON` types (3%) and 1202 `PRON` tokens (6%).
+Out of 16 observed tags, the rank of `PRON` is: 6 in number of lemmas, 5 in number of types and 6 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>tlenoh, nehuatl, yehwatl, yehuatl, non, nehhuatl, tlen, nochi, yehhuatl, nehwatl</em>
+The 10 most frequent `PRON` lemmas: <em>yehuatl, tlen, tleno, nin, nehuatl, yehuan, non, tlenoh, tehuatl, yehwatl</em>
 
-The 10 most frequent `PRON` types:  <em>neh, yeh, tlen, non, nochi, teh, yej, tlenoh, tehwah, ye</em>
+The 10 most frequent `PRON` types:  <em>yeh, tlen, neh, tleno, non, yehuan, teh, tlenoh, tehuan, nin</em>
 
-The 10 most frequent ambiguous lemmas: <em>tlenoh</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 40, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 4, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 2), <em>yehwatl</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 34, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 1), <em>non</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 43, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 31), <em>tlen</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 24, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 1), <em>nochi</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 23, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 11, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 2), <em>nin</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 33, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 12), <em>siki</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 10, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 7), <em>nikanka</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 5, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 3), <em>se</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 112, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 5, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 1), <em>miak</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 7, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 4, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>tlen</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 104, <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 8, <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 1), <em>tleno</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 84, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 1), <em>nin</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 81, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 80, <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 2), <em>non</em> (<tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 59, <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 52), <em>tlenoh</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 52, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 8, <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> 2), <em>yehwatl</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 34, <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> 1), <em>nochi</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 28, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 13, <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 9, <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 2), <em>uan</em> (<tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt> 181, <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> 169, <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 35, <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 28), <em>itl</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 27, <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 14), <em>aqui</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 26, <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 2, <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 1, <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>yeh</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 52, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 1), <em>tlen</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 51, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 1), <em>non</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 38, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 29), <em>nochi</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 15, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 7, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 1), <em>ye</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 12, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4), <em>nin</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 21, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 4), <em>mikeh</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 4, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 2), <em>ninqueh</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 3, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 1), <em>sikeh</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 3, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 2, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 1), <em>se</em> (<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 103, <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 3, <tt><a href="nhi_itml-pos-X.html">X</a></tt> 3, <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>yeh</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 127, <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> 1), <em>tlen</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 136, <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 6, <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 1), <em>non</em> (<tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 48, <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 45), <em>nin</em> (<tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 33, <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 14), <em>ye</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 25, <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 4), <em>nochi</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 18, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 7, <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 4, <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 1), <em>namehuan</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 3, <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 1), <em>itlah</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 6, <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 3), <em>necah</em> (<tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 21, <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 5), <em>ninqueh</em> (<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 4, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 3)
 
 
 * <em>yeh</em>
-  * <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 52: <em>Yeh non onimitsnonots , o onomechonnonots , o timononotsah , <b>yeh</b> non .</em>
-  * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 1: <em><b>yeh</b> ahorita amo sirves n maquinitas , satepah xamo wili sekiyektlalis , semodescansaroa .</em>
+  * <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 127: <em>¿ Aquih <b>yeh</b> in tlamachtani ?</em>
+  * <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> 1: <em><b>yeh</b> ahorita amo sirves n maquinitas , satepah xamo wili sekiyektlalis , semodescansaroa .</em>
 * <em>tlen</em>
-  * <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 51: <em>Ya después n iskwintli amo kimati <b>tlen</b> okichih .</em>
-  * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 10: <em>Entonces n telpukatl kwalani <b>tlen</b> kitlapana n frasco .</em>
-  * <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 1: <em>¿ Max amo itmati <b>tlen</b> edad ikpia ?</em>
+  * <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 136: <em>Neh amo <b>tlen</b> nicmati</em>
+  * <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> 11: <em>Entonces n telpukatl kwalani <b>tlen</b> kitlapana n frasco .</em>
+  * <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 6: <em>¿ Non <b>tlen</b> pajaro ?</em>
+  * <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 1: <em>¡ Xinechmaca in cuchillo <b>tlen</b> ic motitiqui nacatl !</em>
 * <em>non</em>
-  * <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 38: <em>Xah telpukatl nalachixtok ich se tlakoyok ; tlakan <b>non</b> itlakoyok tosah ,</em>
-  * <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 29: <em>yeh <b>non</b> , wan hasta nikah nikatki wan nimomochilia kwaltsih .</em>
-* <em>nochi</em>
-  * <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 15: <em>Ahora sí , y okixtihkeh nochi n itilmahwah , <b>nochi</b> ; amo onkah nesi .</em>
-  * <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 7: <em>Ahora sí , y okixtihkeh <b>nochi</b> n itilmahwah , nochi ; amo onkah nesi .</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 2: <em>wan como kwale n setikiti ok sipa techtlahtlaneh <b>nochi</b> mo seyah pero como nikah no sekipiya n tikitl , pero n akih yaskeh ok sikeh , katki n programa para yaskeh .</em>
-  * <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 1: <em>Pero como a veces México es cimi difícil como para ompa cechanchihuaz o para cetiquitiz ompa ye motlani cimi tzocopintzi tomen , huan <b>nochi</b> patiyo .</em>
-* <em>ye</em>
-  * <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 12: <em>Ocahsito se miston uan octlahtlanih : - ¿ Xamo <b>ye</b> n touatzin tonnomaman ?</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4: <em>Bueno za <b>ye</b> nin oniniquiya niquihtoz</em>
+  * <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 48: <em>Cualis para <b>non</b> chochocotzin ocachi cuali se inyeccion para cocone .</em>
+  * <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 45: <em>In michin <b>non</b> micqui iixco n atl catqui</em>
 * <em>nin</em>
-  * <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 21: <em>Sekitas n primera parte , kinih yuwi <b>nin</b> tolibro .</em>
-  * <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 4: <em>Bueno za ye <b>nin</b> oniniquiya niquihtoz</em>
-* <em>mikeh</em>
-  * <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 4: <em>Nikah itich n pueblo , <b>mikeh</b> timanimaroa para tiyaskeh canadá .</em>
-  * <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 2: <em>wan owalahkeh non guerra , opanokeh , sikeh tokniwah okimilwayah mach cristeros pero igual kemeh guerra xa n ompa nonkeh non cristeros okimohmohtayah <b>mikeh</b> tokniwah .</em>
+  * <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 33: <em>¿ Yahui <b>nin</b> autobus hasta Pachuca ?</em>
+  * <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 14: <em>¿ Tleno itoca <b>nin</b> ?</em>
+* <em>ye</em>
+  * <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 25: <em>Juan <b>ye</b> n tlen tolohtoc</em>
+  * <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 4: <em>Bueno za <b>ye</b> nin oniniquiya niquihtoz</em>
+* <em>nochi</em>
+  * <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 18: <em>In conetl quiyehyecoa <b>nochi</b> tlen quita .</em>
+  * <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 7: <em>Ahora sí , y okixtihkeh <b>nochi</b> n itilmahwah , nochi ; amo onkah nesi .</em>
+  * <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 4: <em>Niquincouas casi <b>nochi</b> necaten ihuimeh istaqueh</em>
+  * <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 1: <em>Pero como a veces México es cimi difícil como para ompa cechanchihuaz o para cetiquitiz ompa ye motlani cimi tzocopintzi tomen , huan <b>nochi</b> patiyo .</em>
+* <em>namehuan</em>
+  * <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 3: <em>¿ Tleca amo onayanqueh <b>namehuan</b> ?</em>
+  * <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 1: <em>Tehuan nochipa <b>namehuan</b> otnamechtlahtlanilihqueh tlaxcal</em>
+* <em>itlah</em>
+  * <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 6: <em>Yeh simi techtlasohtla , yan amo <b>itlah</b> techchiuilis .</em>
+  * <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 3: <em>Neh amo inmati <b>itlah</b> inchiuas</em>
+* <em>necah</em>
+  * <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 21: <em>¿ Quenih ameh <b>necah</b> cali ?</em>
+  * <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 5: <em>Nocanasta ye <b>necah</b></em>
 * <em>ninqueh</em>
-  * <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 3: <em>Tlen <b>ninqueh</b> amo ocmatiah , nic nicanca ocuilin itoocaa tzinaca .</em>
-  * <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 1: <em>Ohcon oualimostic , <b>ninqueh</b> ticpimeh oyahqueh inuan in coyomeh .</em>
-* <em>sikeh</em>
-  * <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 3: <em>Sikeh owalahkeh wan <b>sikeh</b> akmo owalahkeh por lo mismo de que omomohtikhkeh n tokniwah .</em>
-  * <tt><a href="nhi_itml-pos-X.html">X</a></tt> 2: <em>A vez ok <b>sikeh</b> tokniwah okiabandonarowayah nin pueblo .</em>
-  * <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 1: <em>wan owalahkeh non guerra , opanokeh , <b>sikeh</b> tokniwah okimilwayah mach cristeros pero igual kemeh guerra xa n ompa nonkeh non cristeros okimohmohtayah mikeh tokniwah .</em>
-* <em>se</em>
-  * <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 103: <em>Wan nikan kah <b>se</b> telpukatl , ika ibotas wihwinyeh .</em>
-  * <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 3: <em>Katki igual , katki <b>se</b> de n fiesta de danzas .</em>
-  * <tt><a href="nhi_itml-pos-X.html">X</a></tt> 3: <em>Pero kemeh tehwah techpaktiya sekimati ok <b>se</b> siki lugares .</em>
-  * <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> 1: <em>Yeh non <b>se</b> tonal mochiwa omi misa .</em>
+  * <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> 4: <em>San tzocotzi de <b>ninqueh</b> telpocameh cateh cocoxqueh</em>
+  * <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 3: <em>Amo miqueh de <b>ninqueh</b> coconeh mococuan</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 0.976471 (the average of all parts of speech is 1.468205).
+The form / lemma ratio of `PRON` is 1.100840 (the average of all parts of speech is 1.597641).
 
-The 1st highest number of forms (4) was observed with the lemma “nikanka”: <em>Nikanka, Nikankatej, Ninkankaj, nikankaj</em>.
+The 1st highest number of forms (7) was observed with the lemma “nin”: <em>neh, nin, ninih, ninin, ninkej, ninque, ninqueh</em>.
 
-The 2nd highest number of forms (4) was observed with the lemma “nin”: <em>nin, ninih, ninkej, ninqueh</em>.
+The 2nd highest number of forms (6) was observed with the lemma “yehuatl”: <em>ye, yeh, yehaua, yehua, yehuatl, yen</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “nochi”: <em>nochi, nochten, nochtin</em>.
+The 3rd highest number of forms (5) was observed with the lemma “tleno”: <em>Tlenoj, Tlenon, tlen, tleno, tlenoh</em>.
 
-`PRON` occurs with 9 features: <tt><a href="nhi_itml-feat-PronType.html">PronType</a></tt> (254; 50% instances), <tt><a href="nhi_itml-feat-Number.html">Number</a></tt> (252; 50% instances), <tt><a href="nhi_itml-feat-Person.html">Person</a></tt> (251; 50% instances), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt> (7; 1% instances), <tt><a href="nhi_itml-feat-Polite.html">Polite</a></tt> (5; 1% instances), <tt><a href="nhi_itml-feat-Degree.html">Degree</a></tt> (3; 1% instances), <tt><a href="nhi_itml-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="nhi_itml-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances), <tt><a href="nhi_itml-feat-Gender.html">Gender</a></tt> (1; 0% instances)
+`PRON` occurs with 9 features: <tt><a href="nhi_mesotree-feat-PronType.html">PronType</a></tt> (270; 22% instances), <tt><a href="nhi_mesotree-feat-Number.html">Number</a></tt> (253; 21% instances), <tt><a href="nhi_mesotree-feat-Person.html">Person</a></tt> (251; 21% instances), <tt><a href="nhi_mesotree-feat-Foreign.html">Foreign</a></tt> (7; 1% instances), <tt><a href="nhi_mesotree-feat-Polite.html">Polite</a></tt> (6; 0% instances), <tt><a href="nhi_mesotree-feat-Degree.html">Degree</a></tt> (3; 0% instances), <tt><a href="nhi_mesotree-feat-Case.html">Case</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-feat-Gender.html">Gender</a></tt> (1; 0% instances)
 
 `PRON` occurs with 12 feature-value pairs: `Case=Acc`, `Degree=Dim`, `ExtPos=PRON`, `Foreign=Yes`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Polite=Form`, `PronType=Prs`
 
-`PRON` occurs with 13 feature combinations.
-The most frequent feature combination is `_` (241 tokens).
-Examples: <em>tlen, non, nochi, tlenoh, ye, akin, itlah, tlenoj, nin, akih</em>
+`PRON` occurs with 15 feature combinations.
+The most frequent feature combination is `_` (921 tokens).
+Examples: <em>tlen, yeh, neh, tleno, non, yehuan, nin, tlenoh, tehuan, aquin</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 19 different relations: <tt><a href="nhi_itml-dep-nsubj.html">nsubj</a></tt> (275; 54% instances), <tt><a href="nhi_itml-dep-obj.html">obj</a></tt> (70; 14% instances), <tt><a href="nhi_itml-dep-nmod.html">nmod</a></tt> (25; 5% instances), <tt><a href="nhi_itml-dep-obl.html">obl</a></tt> (24; 5% instances), <tt><a href="nhi_itml-dep-cop.html">cop</a></tt> (21; 4% instances), <tt><a href="nhi_itml-dep-root.html">root</a></tt> (20; 4% instances), <tt><a href="nhi_itml-dep-conj.html">conj</a></tt> (14; 3% instances), <tt><a href="nhi_itml-dep-fixed.html">fixed</a></tt> (13; 3% instances), <tt><a href="nhi_itml-dep-dislocated.html">dislocated</a></tt> (11; 2% instances), <tt><a href="nhi_itml-dep-vocative.html">vocative</a></tt> (8; 2% instances), <tt><a href="nhi_itml-dep-parataxis.html">parataxis</a></tt> (6; 1% instances), <tt><a href="nhi_itml-dep-det.html">det</a></tt> (5; 1% instances), <tt><a href="nhi_itml-dep-advcl.html">advcl</a></tt> (3; 1% instances), <tt><a href="nhi_itml-dep-appos.html">appos</a></tt> (3; 1% instances), <tt><a href="nhi_itml-dep-iobj.html">iobj</a></tt> (3; 1% instances), <tt><a href="nhi_itml-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="nhi_itml-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="nhi_itml-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="nhi_itml-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`PRON` nodes are attached to their parents using 21 different relations: <tt><a href="nhi_mesotree-dep-nsubj.html">nsubj</a></tt> (702; 58% instances), <tt><a href="nhi_mesotree-dep-obj.html">obj</a></tt> (138; 11% instances), <tt><a href="nhi_mesotree-dep-cop.html">cop</a></tt> (90; 7% instances), <tt><a href="nhi_mesotree-dep-nmod.html">nmod</a></tt> (68; 6% instances), <tt><a href="nhi_mesotree-dep-root.html">root</a></tt> (57; 5% instances), <tt><a href="nhi_mesotree-dep-obl.html">obl</a></tt> (39; 3% instances), <tt><a href="nhi_mesotree-dep-det.html">det</a></tt> (21; 2% instances), <tt><a href="nhi_mesotree-dep-conj.html">conj</a></tt> (20; 2% instances), <tt><a href="nhi_mesotree-dep-fixed.html">fixed</a></tt> (13; 1% instances), <tt><a href="nhi_mesotree-dep-dislocated.html">dislocated</a></tt> (12; 1% instances), <tt><a href="nhi_mesotree-dep-iobj.html">iobj</a></tt> (10; 1% instances), <tt><a href="nhi_mesotree-dep-vocative.html">vocative</a></tt> (9; 1% instances), <tt><a href="nhi_mesotree-dep-parataxis.html">parataxis</a></tt> (6; 0% instances), <tt><a href="nhi_mesotree-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="nhi_mesotree-dep-dep.html">dep</a></tt> (4; 0% instances), <tt><a href="nhi_mesotree-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="nhi_mesotree-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="nhi_mesotree-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `PRON` nodes belong to 9 different parts of speech: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (339; 67% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (67; 13% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (27; 5% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (26; 5% instances),  (20; 4% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (14; 3% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (2; 0% instances)
+Parents of `PRON` nodes belong to 10 different parts of speech: <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (722; 60% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (227; 19% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> (98; 8% instances),  (57; 5% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (48; 4% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (32; 3% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-360 (71%) `PRON` nodes are leaves.
+954 (79%) `PRON` nodes are leaves.
 
-85 (17%) `PRON` nodes have one child.
+133 (11%) `PRON` nodes have one child.
 
-30 (6%) `PRON` nodes have two children.
+57 (5%) `PRON` nodes have two children.
 
-31 (6%) `PRON` nodes have three or more children.
+58 (5%) `PRON` nodes have three or more children.
 
 The highest child degree of a `PRON` node is 8.
 
-Children of `PRON` nodes are attached using 22 different relations: <tt><a href="nhi_itml-dep-punct.html">punct</a></tt> (48; 18% instances), <tt><a href="nhi_itml-dep-det.html">det</a></tt> (39; 15% instances), <tt><a href="nhi_itml-dep-advmod.html">advmod</a></tt> (27; 10% instances), <tt><a href="nhi_itml-dep-case.html">case</a></tt> (25; 9% instances), <tt><a href="nhi_itml-dep-acl.html">acl</a></tt> (21; 8% instances), <tt><a href="nhi_itml-dep-acl-relcl.html">acl:relcl</a></tt> (15; 6% instances), <tt><a href="nhi_itml-dep-nsubj.html">nsubj</a></tt> (15; 6% instances), <tt><a href="nhi_itml-dep-appos.html">appos</a></tt> (12; 4% instances), <tt><a href="nhi_itml-dep-cc.html">cc</a></tt> (10; 4% instances), <tt><a href="nhi_itml-dep-mark.html">mark</a></tt> (8; 3% instances), <tt><a href="nhi_itml-dep-nmod.html">nmod</a></tt> (8; 3% instances), <tt><a href="nhi_itml-dep-cop.html">cop</a></tt> (7; 3% instances), <tt><a href="nhi_itml-dep-conj.html">conj</a></tt> (6; 2% instances), <tt><a href="nhi_itml-dep-discourse.html">discourse</a></tt> (6; 2% instances), <tt><a href="nhi_itml-dep-parataxis.html">parataxis</a></tt> (6; 2% instances), <tt><a href="nhi_itml-dep-csubj.html">csubj</a></tt> (5; 2% instances), <tt><a href="nhi_itml-dep-amod.html">amod</a></tt> (3; 1% instances), <tt><a href="nhi_itml-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="nhi_itml-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="nhi_itml-dep-nummod.html">nummod</a></tt> (1; 0% instances), <tt><a href="nhi_itml-dep-reparandum.html">reparandum</a></tt> (1; 0% instances), <tt><a href="nhi_itml-dep-vocative.html">vocative</a></tt> (1; 0% instances)
+Children of `PRON` nodes are attached using 25 different relations: <tt><a href="nhi_mesotree-dep-punct.html">punct</a></tt> (81; 18% instances), <tt><a href="nhi_mesotree-dep-case.html">case</a></tt> (50; 11% instances), <tt><a href="nhi_mesotree-dep-nsubj.html">nsubj</a></tt> (48; 10% instances), <tt><a href="nhi_mesotree-dep-det.html">det</a></tt> (44; 10% instances), <tt><a href="nhi_mesotree-dep-advmod.html">advmod</a></tt> (39; 8% instances), <tt><a href="nhi_mesotree-dep-acl.html">acl</a></tt> (33; 7% instances), <tt><a href="nhi_mesotree-dep-acl-relcl.html">acl:relcl</a></tt> (33; 7% instances), <tt><a href="nhi_mesotree-dep-cop.html">cop</a></tt> (22; 5% instances), <tt><a href="nhi_mesotree-dep-nmod.html">nmod</a></tt> (22; 5% instances), <tt><a href="nhi_mesotree-dep-cc.html">cc</a></tt> (17; 4% instances), <tt><a href="nhi_mesotree-dep-appos.html">appos</a></tt> (12; 3% instances), <tt><a href="nhi_mesotree-dep-mark.html">mark</a></tt> (9; 2% instances), <tt><a href="nhi_mesotree-dep-conj.html">conj</a></tt> (8; 2% instances), <tt><a href="nhi_mesotree-dep-csubj.html">csubj</a></tt> (7; 2% instances), <tt><a href="nhi_mesotree-dep-discourse.html">discourse</a></tt> (7; 2% instances), <tt><a href="nhi_mesotree-dep-orphan.html">orphan</a></tt> (6; 1% instances), <tt><a href="nhi_mesotree-dep-parataxis.html">parataxis</a></tt> (6; 1% instances), <tt><a href="nhi_mesotree-dep-amod.html">amod</a></tt> (5; 1% instances), <tt><a href="nhi_mesotree-dep-obl.html">obl</a></tt> (3; 1% instances), <tt><a href="nhi_mesotree-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="nhi_mesotree-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-dep-nummod.html">nummod</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-dep-reparandum.html">reparandum</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Children of `PRON` nodes belong to 13 different parts of speech: <tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (48; 18% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (43; 16% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (38; 14% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (31; 12% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (27; 10% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (27; 10% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (26; 10% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> (10; 4% instances), <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> (6; 2% instances), <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (6; 2% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Children of `PRON` nodes belong to 14 different parts of speech: <tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (81; 18% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (69; 15% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (64; 14% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (51; 11% instances), <tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt> (48; 10% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (48; 10% instances), <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> (43; 9% instances), <tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt> (20; 4% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (10; 2% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> (9; 2% instances), <tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt> (6; 1% instances), <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> (3; 1% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

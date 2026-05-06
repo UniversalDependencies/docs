@@ -25,7 +25,7 @@ The following 20 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	یعنی	یعنی	INTJ	PSUS	_	13	obl	_	LTranslit=īʿnī|Translit=īʿnī
 2	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	LTranslit=mā|Translit=mā
 3	به	به	ADP	PREP	_	5	case	_	LTranslit=bh|Translit=bh
-4	این	این	DET	PREM_DEMAJ	_	5	det	_	LTranslit=āīn|Translit=āīn
+4	این	این	DET	PREM_DEMAJ	PronType=Dem	5	det	_	LTranslit=āīn|Translit=āīn
 5	ترتیب	ترتیب	NOUN	N_IANM	Number=Sing	13	obl	_	LTranslit=trtīb|Translit=trtīb
 6	فقط	فقط	ADV	ADV_SADV	_	7	advmod	_	LTranslit=fqṭ|Translit=fqṭ
 7	یک	یک	NUM	PRENUM	_	8	nummod	_	LTranslit=īk|Translit=īk
@@ -46,7 +46,7 @@ The following 20 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 obj	color:blue
-1	آن	آن	DET	PREM_DEMAJ	_	2	det	_	LTranslit=Ān|Translit=Ān
+1	آن	آن	DET	PREM_DEMAJ	PronType=Dem	2	det	_	LTranslit=Ān|Translit=Ān
 2	جا	جا	NOUN	N_IANM	Number=Sing	9	obl	_	LTranslit=jā|Translit=jā
 3	که	که	SCONJ	SUBR	_	5	mark	_	LTranslit=kh|Translit=kh
 4	لازم	لازم	ADJ	ADJ_AJP	_	5	xcomp	_	LTranslit=lāzm|Translit=lāzm

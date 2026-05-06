@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="he_iahltwiki-dep-obl.html">obl</a></tt>.
 
-137 nodes (0%) are attached to their parents as `obl:unmarked`.
+134 nodes (0%) are attached to their parents as `obl:unmarked`.
 
-92 instances of `obl:unmarked` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.0948905109489.
+91 instances of `obl:unmarked` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.11194029850746.
 
-The following 11 pairs of parts of speech are connected with `obl:unmarked`: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (114; 83% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `obl:unmarked`: <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (114; 85% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt>-<tt><a href="he_iahltwiki-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="he_iahltwiki-pos-ADJ.html">ADJ</a></tt>-<tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt>-<tt><a href="he_iahltwiki-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt>-<tt><a href="he_iahltwiki-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="he_iahltwiki-pos-VERB.html">VERB</a></tt>-<tt><a href="he_iahltwiki-pos-ADV.html">ADV</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -56,39 +56,15 @@ The following 11 pairs of parts of speech are connected with `obl:unmarked`: <tt
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 17 obl:unmarked	color:blue
-1	חלק	חלק	NOUN	NOUN	Gender=Masc|Number=Sing	8	nsubj	_	_
-2	מ	מ	ADP	ADP	_	3	case	_	_
-3	יהודי	יהודי	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	1	nmod	_	_
-4	ה	ה	DET	DET	Definite=Def|PronType=Art	5	det	_	_
-5	עיר	עיר	NOUN	NOUN	Gender=Fem|Number=Sing	3	compound	_	_
-6	תוניס	תוניס	PROPN	PROPN	_	5	appos	_	Entity=(GPE)
-7	היו	היה	AUX	AUX	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=3|Polarity=Pos|Tense=Past	8	cop	_	_
-8	זכאים	זכאי	ADJ	ADJ	Gender=Masc|Number=Plur	0	root	_	_
-9	ל	ל	ADP	ADP	_	10	case	_	_
-10	פיצוי	פיצוי	NOUN	NOUN	Gender=Masc|Number=Sing	8	obl	_	_
-11	משום	משום	SCONJ	SCONJ	ExtPos=SCONJ	16	mark	_	_
-12	ש	ש	SCONJ	SCONJ	_	11	fixed	_	_
-13	היו	היה	AUX	AUX	Gender=Masc|HebBinyan=PAAL|Number=Plur|Person=3|Polarity=Pos|Tense=Past	16	cop	_	_
-14	תחת	תחת	ADP	ADP	_	16	case	_	_
-15	ה	ה	DET	DET	Definite=Def|PronType=Art	16	det	_	_
-16	כיבוש	כיבוש	NOUN	NOUN	Gender=Masc|Number=Sing	8	obl	_	_
-17	זמן	זמן	NOUN	NOUN	Gender=Masc|Number=Sing	16	obl:unmarked	_	TemporalNPAdjunct=Yes
-18	ארוך	ארוך	ADJ	ADJ	Gender=Masc|Number=Sing	17	amod	_	_
-19	ו	ו	CCONJ	CCONJ	_	21	cc	_	_
-20	אף	אף	ADV	ADV	_	21	advmod	_	_
-21	הועסקו	הועסק	VERB	VERB	Gender=Masc|HebBinyan=HUFAL|Number=Plur|Person=3|Tense=Past|Voice=Pass	16	conj	_	_
-22	ב	ב	ADP	ADP	_	23	case	_	_
-23	עבודות	עבודה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	21	obl	_	_
-24	כפייה	כפייה	NOUN	NOUN	Gender=Masc|Number=Sing	23	compound	_	_
-25	ל	ל	ADP	ADP	_	26	case	_	_
-26	תקופות	תקופה	NOUN	NOUN	Gender=Fem|Number=Plur	21	obl	_	_
-27	ארוכות	ארוך	ADJ	ADJ	Gender=Fem|Number=Plur	26	amod	_	SpaceAfter=No
-28	.	.	PUNCT	PUNCT	_	8	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 obl:unmarked	color:blue
+1	שופץ	שפץ	VERB	VERB	Gender=Masc|HebBinyan=PUAL|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
+2	1965	1965	NUM	NUM	_	1	obl:unmarked	_	Entity=(TIMEX)|SpaceAfter=No|TemporalNPAdjunct=Yes
+3	"	"	PUNCT	PUNCT	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
 

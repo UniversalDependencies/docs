@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 2	fuit	sum	AUX	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	cop	_	LId=sum1|TraditionalMood=Indicativus|TraditionalTense=Perfectum
 3	ipsa	ipse	DET	p-s---fn-	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	LId=ipse1
 4	infamia	infamia	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	LId=infamia1
-5	vero	verum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	SpaceAfter=No|LId=verum1
+5	vero	verum	NOUN	n-s---nb-	Case=Abl|Gender=Neut|Number=Sing	1	obl:cmp	_	SpaceAfter=No|LId=verum1
 6	.	.	PUNCT	u--------	_	1	punct	_	LId=punc1
 
 ~~~

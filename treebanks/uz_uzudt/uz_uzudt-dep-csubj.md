@@ -22,12 +22,12 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 2 csubj	color:blue
-1	tarixni	tarixni	NOUN	N	Case=Acc	2	obj	_	_
-2	tushunishimiz	tushunishimiz	VERB	V	_	6	csubj	_	_
+1	tarixni	tarix	NOUN	N	Case=Acc	2	obj	_	_
+2	tushunishimiz	tushun	VERB	V	_	6	csubj	_	_
 3	va	va	CCONJ	C	_	5	cc	_	_
-4	turmushni	turmushni	NOUN	N	Case=Acc	5	obj	_	_
-5	tushunishimiz	tushunishimiz	VERB	V	_	2	conj	_	_
-6	chuqurlashadi	chuqurlashadi	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	turmushni	turmush	NOUN	N	Case=Acc	5	obj	_	_
+5	tushunishimiz	tushun	VERB	V	_	2	conj	_	_
+6	chuqurlashadi	chuqurlash	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	.	.	PUNCT	Y	_	6	punct	_	_
 
 ~~~
@@ -40,12 +40,12 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 6	fgColor:white
 # visual-style 6 5 csubj	color:blue
 1	ehtimol	ehtimol	PART	T	_	5	mark	_	_
-2	u	ehtimol	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
+2	u	u	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 3	osmondan	osmon	NOUN	N	Case=Abl	5	obl	_	_
-4	tushkan	tushmoq	VERB	V	Case=Nom|Tense=Past	5	compound	_	_
-5	boʻlishi	boʻlmoq	VERB	V	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	6	csubj	_	_
+4	tushgan	tush	VERB	V	Case=Nom|Tense=Past	5	compound	_	_
+5	boʻlishi	boʻl	VERB	V	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	6	csubj	_	_
 6	mumkin	mumkin	NOUN	A	Case=Nom	0	root	_	_
-7	!	mumkin	PUNCT	Y	_	6	punct	_	_
+7	!	!	PUNCT	Y	_	6	punct	_	_
 
 ~~~
 
@@ -56,12 +56,12 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 csubj	color:blue
-1	oltmish	olt	NUM	M	_	2	nummod	_	_
-2	odamni	oda	NOUN	N	Case=Acc	4	obj	_	_
+1	oltmish	oltmish	NUM	M	_	2	nummod	_	_
+2	odamni	odam	NOUN	N	Case=Acc	4	obj	_	_
 3	tezda	tez	ADV	D	_	4	advmod	_	_
-4	qutqarish	qutqarmoq	VERB	V	_	5	csubj	_	_
+4	qutqarish	qutqar	VERB	V	_	5	csubj	_	_
 5	kerak	kerak	ADJ	A	_	0	root	_	_
-6	!	.	PUNCT	Y	_	5	punct	_	_
+6	!	!	PUNCT	Y	_	5	punct	_	_
 
 ~~~
 

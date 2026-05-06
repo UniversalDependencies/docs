@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Ind`.
 
-1041 tokens (13%) have a non-empty value of `Mood`.
-686 types (20%) occur at least once with a non-empty value of `Mood`.
-469 lemmas (20%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (784; 10% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (257; 3% instances).
+1051 tokens (13%) have a non-empty value of `Mood`.
+689 types (19%) occur at least once with a non-empty value of `Mood`.
+470 lemmas (20%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (791; 10% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (260; 3% instances).
 
 ### `VERB`
 
-784 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Mood`.
+791 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (784; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (784; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (652; 83%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (572; 73%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (500; 64%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (791; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (791; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (658; 83%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (576; 73%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (505; 64%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (19; 2% of non-empty `Mood`): <em>бӧрйы, Вайӧ, Кутчысь, Кывзы, Мун, Мыччыв, Юав, видзӧдлы, видзӧдтӧ, виччысь</em>
-* `Ind` (765; 98% of non-empty `Mood`): <em>воис, лои, мунӧ, Локтас, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс</em>
-* `EMPTY` (567): <em>идралӧм, лоны, шуны, идралӧмын, мунны, вӧчны, пов, виччысьны, волыны, восьлавны</em>
+* `Ind` (772; 98% of non-empty `Mood`): <em>воис, лои, видзӧдліс, кыліс, мунӧ, Локтас, воисны, муніс, шуис, шыасис</em>
+* `EMPTY` (575): <em>идралӧм, лоны, шуны, идралӧмын, мунны, вӧчны, пов, виччысьны, волыны, восьлавны</em>
 
 <table>
   <tr><th>Paradigm <i>мунны</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -35,19 +35,19 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
   <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>мунісны</em></td><td></td></tr>
 </table>
 
-`Mood` seems to be **lexical feature** of `VERB`. 97% lemmas (451) occur only with one value of `Mood`.
+`Mood` seems to be **lexical feature** of `VERB`. 97% lemmas (452) occur only with one value of `Mood`.
 
 ### `AUX`
 
-257 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Mood`.
+260 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (257; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (197; 77%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (179; 70%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (142; 55%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (134; 52%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (259; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (200; 77%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (181; 70%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (144; 55%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (136; 52%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (4; 2% of non-empty `Mood`): <em>Эн, вай</em>
-* `Ind` (253; 98% of non-empty `Mood`): <em>эз, вӧлі, оз, колӧ, абу, он, эг, ог, вӧліны, кутіс</em>
-* `EMPTY` (51): <em>вермы, абу, кут, не, лоны, вӧв, вӧвны, позь, вермыны, должен</em>
+* `Ind` (256; 98% of non-empty `Mood`): <em>эз, вӧлі, оз, колӧ, абу, он, эг, ог, вӧліны, кутіс</em>
+* `EMPTY` (52): <em>вермы, абу, кут, не, лоны, вӧв, вӧвны, позь, вермыны, должен</em>
 
 <table>
   <tr><th>Paradigm <i>оз</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -80,7 +80,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> VERB</tt> (173; 76%),
-<tt>VERB --[<tt><a href="kpv_lattice-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (16; 52%),
+<tt>VERB --[<tt><a href="kpv_lattice-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (17; 53%),
 <tt>VERB --[<tt><a href="kpv_lattice-dep-aux-tense.html">aux:tense</a></tt>]--> AUX</tt> (10; 67%),
 <tt>VERB --[<tt><a href="kpv_lattice-dep-appos.html">appos</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="kpv_lattice-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1; 100%),

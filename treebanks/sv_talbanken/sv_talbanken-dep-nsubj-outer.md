@@ -51,8 +51,8 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 7	bör	böra	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	10:aux	_
 8	vara	vara	AUX	VB|INF|AKT	VerbForm=Inf|Voice=Act	10	cop	10:cop	_
 9	att	att	PART	IE	_	10	mark	10:mark	_
-10	ta	ta	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	0:root	_
-11	hänsyn	hänsyn	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	10	obj	10:obj	_
+10	ta	ta	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	0:root	ParsemeMWE=1:LVC.full
+11	hänsyn	hänsyn	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	10	obj	10:obj	ParsemeMWE=1
 12	till	till	ADP	PP	_	13	case	13:case	_
 13	minoriteter	minoritet	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	10	obl	10:obl:till	SpaceAfter=No
 14	.	.	PUNCT	MAD	_	10	punct	10:punct	_
@@ -75,9 +75,9 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 7	säkerhet	säkerhet	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	5	obl	5:obl:med	_
 8	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	12:cop	_
 9	att	att	SCONJ	SN	_	12	mark	12:mark	_
-10	u-länderna	u-land	NOUN	NN|NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	12	nsubj:pass	12:nsubj:pass	_
+10	u-länderna	u-land	NOUN	NN|NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	12	nsubj:pass	12:nsubj:pass	ParsemeMWE=1:NID
 11	blir	bli	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	12	aux:pass	12:aux:pass	_
-12	utestängda	utestängd	VERB	PC|PRF|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_
+12	utestängda	utestängd	VERB	PC|PRF|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	ParsemeMWE=2:IVPC.full
 13	från	från	ADP	PP	_	16	case	16:case	_
 14	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	16	det	16:det	_
 15	sådan	sådan	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	16	amod	16:amod	_

@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_French-FQB: POS Tags: `AUX`
 
 There are 3 `AUX` lemmas (0%), 24 `AUX` types (1%) and 1700 `AUX` tokens (7%).
-Out of 16 observed tags, the rank of `AUX` is: 14 in number of lemmas, 10 in number of types and 7 in number of tokens.
+Out of 16 observed tags, the rank of `AUX` is: 13 in number of lemmas, 10 in number of types and 7 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>être, avoir, faire</em>
 
 The 10 most frequent `AUX` types:  <em>est, a, était, fut, sont, été, ai, ont, suis, avoir</em>
 
-The 10 most frequent ambiguous lemmas: <em>être</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 1313, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 69, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 4), <em>avoir</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 384, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 135), <em>faire</em> (<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 56, <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 3)
+The 10 most frequent ambiguous lemmas: <em>être</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 1313, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 69, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 4), <em>avoir</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 384, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 136), <em>faire</em> (<tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 56, <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 3)
 
 The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 918, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 60, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 1), <em>a</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 326, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 52, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1), <em>était</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 100, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 2), <em>fut</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 97, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 1), <em>sont</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 82, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 4), <em>été</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 61, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 4), <em>ai</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 16, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 14), <em>ont</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 15, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 6), <em>avoir</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 11, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 8), <em>être</em> (<tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> 9, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 1)
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_fqb-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 8.000000 (the average of all parts of speech is 1.165243).
+The form / lemma ratio of `AUX` is 8.000000 (the average of all parts of speech is 1.169482).
 
 The 1st highest number of forms (14) was observed with the lemma “être”: <em>est, furent, fut, sera, soient, soit, sont, suis, étaient, était, étant, été, êtes, être</em>.
 

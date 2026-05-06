@@ -11,19 +11,19 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 10830 tokens (11%) have a non-empty value of `Tense`.
 1988 types (13%) occur at least once with a non-empty value of `Tense`.
-1357 lemmas (13%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (5607; 6% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (3942; 4% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (1274; 1% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (7; 0% instances).
+1359 lemmas (13%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 4 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (5606; 6% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (3943; 4% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (1274; 1% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (7; 0% instances).
 
 ### `VERB`
 
-5607 <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> tokens (57% of all `VERB` tokens) have a non-empty value of `Tense`.
+5606 <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> tokens (57% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5568; 99%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5563; 99%), <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4451; 79%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5567; 99%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5562; 99%), <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4450; 79%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (699; 12% of non-empty `Tense`): <em>blev, fick, hade, började, gjorde, kom, gick, fanns, gav, tog</em>
-* `Pres` (4908; 88% of non-empty `Tense`): <em>har, finns, blir, får, gäller, behöver, ger, går, kommer, gör</em>
+* `Pres` (4907; 88% of non-empty `Tense`): <em>har, finns, blir, får, gäller, behöver, ger, går, kommer, gör</em>
 * `EMPTY` (4183): <em>få, ha, se, ta, ge, bli, göra, gå, komma, fått</em>
 
 <table>
@@ -33,14 +33,14 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-3942 <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Tense`.
+3943 <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3942; 100%), <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3942; 100%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3931; 100%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3943; 100%), <tt><a href="sv_talbanken-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3943; 100%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3932; 100%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Past` (390; 10% of non-empty `Tense`): <em>skulle, var, kunde, hade, borde, ville, fick, vore, torde, blev</em>
-* `Pres` (3552; 90% of non-empty `Tense`): <em>är, kan, har, måste, skall, ska, kommer, får, bör, vill</em>
+* `Pres` (3553; 90% of non-empty `Tense`): <em>är, kan, har, måste, skall, ska, kommer, får, bör, vill</em>
 * `EMPTY` (421): <em>vara, kunna, varit, få, ha, bli, kunnat, fått, kommit, blivit</em>
 
 <table>

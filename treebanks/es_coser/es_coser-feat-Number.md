@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="es_coser-feat-Number.html">Number</a></tt>, <tt><a href="es_coser-feat-Number-psor.html">Number[psor]</a></tt>.
 
-3585 tokens (44%) have a non-empty value of `Number`.
-1267 types (84%) occur at least once with a non-empty value of `Number`.
-810 lemmas (78%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (888; 11% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (805; 10% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (738; 9% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (636; 8% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (260; 3% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (171; 2% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (85; 1% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-X.html">X</a></tt> (1; 0% instances).
+3587 tokens (44%) have a non-empty value of `Number`.
+1268 types (84%) occur at least once with a non-empty value of `Number`.
+802 lemmas (78%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (888; 11% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (805; 10% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (738; 9% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (636; 8% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (260; 3% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (173; 2% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (85; 1% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -26,7 +26,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 * `Plur` (236; 27% of non-empty `Number`): <em>años, cosas, días, hijos, hermanos, carros, cruces, kilos, padres, pueblos</em>
 * `Sing` (652; 73% of non-empty `Number`): <em>gente, casa, día, pueblo, cosa, marido, ejemplo, leche, aceite, año</em>
-* `EMPTY` (39): <em>mejor, fin, vez, herpes, mano, pesetas, Avena, Tal, abril, agosto</em>
+* `EMPTY` (38): <em>mejor, fin, vez, herpes, mano, pesetas, Avena, Tal, abril, agosto</em>
 
 <table>
   <tr><th>Paradigm <i>año</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -62,7 +62,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 738 <tt><a href="es_coser-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="es_coser-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (562; 76%), <tt><a href="es_coser-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (425; 58%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="es_coser-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (563; 76%), <tt><a href="es_coser-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (425; 58%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -126,23 +126,24 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `ADJ`
 
-171 <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Number`.
+173 <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="es_coser-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (144; 84%), <tt><a href="es_coser-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (86; 50%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="es_coser-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (147; 85%), <tt><a href="es_coser-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (87; 50%).
 
 `ADJ` tokens may have the following values of `Number`:
 
 * `Plur` (29; 17% of non-empty `Number`): <em>amables, apretás, diferentes, grandes, medicinales, naturales, patronales, viejas, viejos, antiguos</em>
-* `Sing` (142; 83% of non-empty `Number`): <em>grande, natural, buen, diferente, joven, buena, bueno, criollo, igual, mismo</em>
-* `EMPTY` (2): <em>acotumago, posiblemente</em>
+* `Sing` (144; 83% of non-empty `Number`): <em>grande, natural, buen, diferente, joven, buena, bueno, criollo, igual, mismo</em>
+* `EMPTY` (3): <em>acotumago, menudo, posiblemente</em>
 
 <table>
-  <tr><th>Paradigm <i>bueno</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><th>Paradigm <i>buen</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt>_</tt></td><td><em>buen</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_coser-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>bueno, buen</em></td><td><em>buenos</em></td></tr>
+  <tr><td><tt><tt><a href="es_coser-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>buen, bueno</em></td><td><em>buenos</em></td></tr>
+  <tr><td><tt><tt><a href="es_coser-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>buena</em></td><td><em>buenas</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `ADJ`. 92% lemmas (106) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADJ`. 92% lemmas (99) occur only with one value of `Number`.
 
 ### `NUM`
 
@@ -160,12 +161,12 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 ### `PROPN`
 
-1 <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Number`.
+1 <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> tokens (2% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>Munguí</em>
-* `EMPTY` (67): <em>NP, Pamplona, España, Madrid, San, virgen, Alemania, Ana, Arroa, Bolívar</em>
+* `EMPTY` (65): <em>NP, Pamplona, España, Madrid, virgen, Alemania, Ana, Arroa, Bolívar, Cargadero</em>
 
 ### `X`
 
@@ -182,11 +183,11 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> DET</tt> (594; 98%),
 <tt>VERB --[<tt><a href="es_coser-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (116; 57%),
 <tt>VERB --[<tt><a href="es_coser-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (99; 70%),
-<tt>VERB --[<tt><a href="es_coser-dep-obl.html">obl</a></tt>]--> NOUN</tt> (96; 52%),
+<tt>VERB --[<tt><a href="es_coser-dep-obl.html">obl</a></tt>]--> NOUN</tt> (98; 51%),
 <tt>VERB --[<tt><a href="es_coser-dep-conj.html">conj</a></tt>]--> VERB</tt> (93; 62%),
 <tt>VERB --[<tt><a href="es_coser-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (77; 77%),
 <tt>NOUN --[<tt><a href="es_coser-dep-amod.html">amod</a></tt>]--> ADJ</tt> (60; 97%),
-<tt>NOUN --[<tt><a href="es_coser-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (49; 70%),
+<tt>NOUN --[<tt><a href="es_coser-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (51; 70%),
 <tt>VERB --[<tt><a href="es_coser-dep-obl-arg.html">obl:arg</a></tt>]--> PRON</tt> (47; 59%),
 <tt>ADJ --[<tt><a href="es_coser-dep-cop.html">cop</a></tt>]--> AUX</tt> (46; 92%).
 

@@ -18,43 +18,43 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
-# visual-style 12 2 discourse	color:blue
-1	«	_	PUNCT	_	_	12	punct	_	_
-2	Nota	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	12	discourse	_	SpaceAfter=No
-3	:	_	PUNCT	_	_	2	punct	_	_
-4	et	_	CCONJ	_	_	12	cc	_	_
-5	quant	_	SCONJ	_	_	7	mark	_	_
-6	y	_	PRON	_	PronType=Prs	7	expl	_	_
-7	ha	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	12	advcl	_	_
-8	enfant	_	NOUN	_	_	7	obj	_	SpaceAfter=No
-9	,	_	PUNCT	_	_	7	punct	_	_
-10	que-	_	SCONJ	_	_	12	mark	_	_
-11	-n	_	PRON	_	PronType=Prs	12	obl	_	_
-12	trey	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-13	la	_	DET	_	_	14	det	_	_
-14	mieytat	_	NOUN	_	_	12	obj	_	_
-15	de-	_	ADP	_	_	17	case	_	_
-16	-lo	_	DET	_	_	17	det	_	_
-17	dot	_	NOUN	_	_	14	nmod	_	SpaceAfter=No
-18	,	_	PUNCT	_	_	12	punct	_	_
-19	et	_	CCONJ	_	_	24	cc	_	_
-20	l'	_	DET	_	_	22	det	_	SpaceAfter=No
-21	autre	_	ADJ	_	_	22	amod	_	_
-22	mieytat	_	NOUN	_	_	24	nsubj	_	_
-23	que	_	SCONJ	_	_	24	mark	_	_
-24	armat	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
-25	ab	_	ADP	_	_	27	case	_	_
-26	l'	_	DET	_	_	27	det	_	SpaceAfter=No
-27	enfant	_	NOUN	_	_	24	obl	_	_
-28	segont	_	ADP	_	_	30	case	_	_
-29	la	_	DET	_	_	30	det	_	_
-30	observance	_	NOUN	_	_	24	obl	_	_
-31	»	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
-32	.	_	PUNCT	_	_	12	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 12 discourse	color:blue
+1	Et	_	CCONJ	_	_	27	cc	_	_
+2	si	_	SCONJ	_	_	7	mark	_	_
+3	per	_	ADP	_	_	4	case	_	_
+4	abenture	_	NOUN	_	_	7	obl	_	_
+5	lo	_	DET	_	_	6	det	_	_
+6	vesconte	_	NOUN	_	_	7	nsubj	_	_
+7	vole	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	27	advcl	_	_
+8	los	_	DET	_	_	10	det	_	_
+9	lors	_	ADJ	_	_	10	amod	_	_
+10	castegs	_	NOUN	_	_	14	obj	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	10	punct	_	_
+12	suple	_	VERB	_	Number=Plur|Person=2|VerbForm=Fin	7	discourse	_	SpaceAfter=No
+13	,	_	PUNCT	_	_	14	punct	_	_
+14	prener	_	VERB	_	VerbForm=Inf	7	xcomp	_	_
+15	per	_	ADP	_	_	17	case	_	_
+16	lors	_	DET	_	_	17	det	_	_
+17	delictes	_	NOUN	_	_	14	obl	_	SpaceAfter=No
+18	,	_	PUNCT	_	_	14	punct	_	_
+19	sia	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	20	cop	_	_
+20	irat	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
+21	o	_	CCONJ	_	_	22	cc	_	_
+22	pagat	_	ADJ	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	conj	_	SpaceAfter=No
+23	,	_	PUNCT	_	_	20	punct	_	_
+24	a	_	ADP	_	_	25	case	_	_
+25	luy	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	obl	_	_
+26	los	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	28	obj	_	_
+27	deven	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+28	reder	_	VERB	_	VerbForm=Inf	27	xcomp	_	_
+29	tres	_	NUM	_	_	30	nummod	_	_
+30	betz	_	NOUN	_	_	28	obl	_	_
+31	l'	_	DET	_	_	32	det	_	SpaceAfter=No
+32	an	_	NOUN	_	_	30	nmod	_	_
 
 ~~~
 

@@ -26,7 +26,7 @@ The most frequent other feature values with which `ADV` and `Compound` co-occurr
 
 ### `SCONJ`
 
-28 <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> tokens (6% of all `SCONJ` tokens) have a non-empty value of `Compound`.
+28 <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt> tokens (5% of all `SCONJ` tokens) have a non-empty value of `Compound`.
 
 The most frequent other feature values with which `SCONJ` and `Compound` co-occurred: <tt><a href="la_circse-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (17; 61%).
 

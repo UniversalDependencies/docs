@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-Perseus: POS Tags: `SCONJ`
 
-There are 35 `SCONJ` lemmas (1%), 41 `SCONJ` types (0%) and 777 `SCONJ` tokens (3%).
+There are 35 `SCONJ` lemmas (1%), 41 `SCONJ` types (0%) and 776 `SCONJ` tokens (3%).
 Out of 16 observed tags, the rank of `SCONJ` is: 7 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>ut, si, cum, ne, quod, dum, quam, nisi, ubi, quia</em>
 
 The 10 most frequent `SCONJ` types:  <em>ut, si, cum, ne, quod, dum, quam, nisi, ubi, quia</em>
 
-The 10 most frequent ambiguous lemmas: <em>ut</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 149, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 4), <em>cum</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 103, <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> 78), <em>ne</em> (<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 99, <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 70, <tt><a href="la_perseus-pos-PART.html">PART</a></tt> 3, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1), <em>quam</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 21), <em>ubi</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 12), <em>tamquam</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 20, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 2), <em>postquam</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 1), <em>an</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-PART.html">PART</a></tt> 5), <em>quamvis</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 1), <em>sicut</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ut</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 149, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 4), <em>cum</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 102, <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> 79), <em>ne</em> (<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 99, <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 70, <tt><a href="la_perseus-pos-PART.html">PART</a></tt> 3, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1), <em>quam</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 36, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 21), <em>ubi</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 12), <em>tamquam</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 20, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 2), <em>postquam</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 1), <em>an</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-PART.html">PART</a></tt> 5), <em>quamvis</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 1), <em>sicut</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ut</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 136, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 3), <em>cum</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 79, <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> 76), <em>ne</em> (<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 89, <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="la_perseus-pos-PART.html">PART</a></tt> 3, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1), <em>quod</em> (<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> 57, <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 39, <tt><a href="la_perseus-pos-DET.html">DET</a></tt> 4), <em>quam</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 34, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 22, <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> 16, <tt><a href="la_perseus-pos-DET.html">DET</a></tt> 6), <em>ubi</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 9), <em>postquam</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 1), <em>tanquam</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 1), <em>an</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-PART.html">PART</a></tt> 4), <em>uti</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> 4)
+The 10 most frequent ambiguous types:  <em>ut</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 136, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 3), <em>cum</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 79, <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> 78), <em>ne</em> (<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 89, <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 68, <tt><a href="la_perseus-pos-PART.html">PART</a></tt> 3, <tt><a href="la_perseus-pos-INTJ.html">INTJ</a></tt> 1), <em>quod</em> (<tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> 57, <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 39, <tt><a href="la_perseus-pos-DET.html">DET</a></tt> 4), <em>quam</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 34, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 22, <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> 16, <tt><a href="la_perseus-pos-DET.html">DET</a></tt> 6), <em>ubi</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 25, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 9), <em>postquam</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 1), <em>tanquam</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 1), <em>an</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-PART.html">PART</a></tt> 4), <em>uti</em> (<tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> 4)
 
 
 * <em>ut</em>
@@ -23,7 +23,7 @@ The 10 most frequent ambiguous types:  <em>ut</em> (<tt><a href="la_perseus-pos-
   * <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 3: <em>adeunt pariter Cephisidas undas , <b>ut</b> nondum liquidas , sic iam vada nota secantes .</em>
 * <em>cum</em>
   * <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 79: <em>Inde <b>cum</b> suum cuique iussisset referri Trimalchio , adiecit :</em>
-  * <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> 76: <em>omnia praecepi atque animo me <b>cum</b> ante peregi .</em>
+  * <tt><a href="la_perseus-pos-ADP.html">ADP</a></tt> 78: <em>omnia praecepi atque animo me <b>cum</b> ante peregi .</em>
 * <em>ne</em>
   * <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> 89: <em>Tu <b>ne</b> cede malis , sed contra audentior ito , qua tua te Fortuna sinet .</em>
   * <tt><a href="la_perseus-pos-SCONJ.html">SCONJ</a></tt> 68: <em>sed inmedicabile corpus ense recidendum est , <b>ne</b> pars sincera trahatur .</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>ut</em> (<tt><a href="la_perseus-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.171429 (the average of all parts of speech is 2.101803).
+The form / lemma ratio of `SCONJ` is 1.171429 (the average of all parts of speech is 2.102438).
 
 The 1st highest number of forms (3) was observed with the lemma “cum”: <em>cum, cumque, quom</em>.
 
@@ -69,17 +69,17 @@ The 3rd highest number of forms (2) was observed with the lemma “donec”: <em
 `SCONJ` occurs with 1 feature-value pairs: `PronType=Rel`
 
 `SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (750 tokens).
+The most frequent feature combination is `_` (749 tokens).
 Examples: <em>ut, si, cum, ne, quod, dum, nisi, ubi, quia, postquam</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (752; 97% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (17; 2% instances), <tt><a href="la_perseus-dep-case.html">case</a></tt> (7; 1% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="la_perseus-dep-mark.html">mark</a></tt> (752; 97% instances), <tt><a href="la_perseus-dep-cc.html">cc</a></tt> (16; 2% instances), <tt><a href="la_perseus-dep-case.html">case</a></tt> (7; 1% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (657; 85% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (66; 8% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (35; 5% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (2; 0% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (656; 85% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (66; 9% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (35; 5% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (2; 0% instances)
 
-554 (71%) `SCONJ` nodes are leaves.
+553 (71%) `SCONJ` nodes are leaves.
 
 211 (27%) `SCONJ` nodes have one child.
 

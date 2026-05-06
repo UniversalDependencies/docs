@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-VE
 
 581 <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt> tokens (14% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (581; 100%), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (581; 100%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (581; 100%), <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (581; 100%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (556; 96%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="fr_rhapsodie-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (581; 100%), <tt><a href="fr_rhapsodie-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (581; 100%), <tt><a href="fr_rhapsodie-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (581; 100%), <tt><a href="fr_rhapsodie-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (581; 100%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (513; 88%), <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (471; 81%).
 
 `VERB` tokens may have the following values of `Voice`:
 
@@ -28,6 +28,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 <table>
   <tr><th>Paradigm <i>aller</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>allée</em></td><td><em>allé</em></td></tr>
+  <tr><td><tt><tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>allé</em></td></tr>
+  <tr><td><tt><tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>allée</em></td><td></td></tr>
 </table>
 

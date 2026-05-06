@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-852 nodes (1%) are attached to their parents as `iobj`.
+968 nodes (1%) are attached to their parents as `iobj`.
 
-837 instances of `iobj` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.40492957746479.
+952 instances of `iobj` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.41425619834711.
 
-The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (819; 96% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (20; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (928; 96% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (25; 3% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,11 +24,11 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 11 8 iobj	color:blue
 1	mais	mais1	CCONJ	CONcoo	_	11	cc:nc	_	XmlId=w_32_02442
 2	le	le	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_32_02443
-3	neu	noeud	NOUN	NOMcom	_	11	nsubj	_	XmlId=w_32_02444
+3	neu	noeud	NOUN	NOMcom	_	11	nsubj:pass	_	XmlId=w_32_02444
 4	de	de	ADP	PRE	_	6	case	_	XmlId=w_32_02445
 5	ceste	cist	DET	DETdem	PronType=Dem	6	det	_	XmlId=w_32_02446
 6	matière	matière	NOUN	NOMcom	_	3	nmod	_	XmlId=w_32_02447
-7	ne	ne1	ADV	ADVneg	PronType=Neg	11	advmod	_	XmlId=w_32_02448
+7	ne	ne1	ADV	ADVneg	Polarity=Neg	11	advmod	_	XmlId=w_32_02448
 8	luy	lui	PRON	PROper	PronType=Prs	11	iobj	_	XmlId=w_32_02449
 9	fut	être	AUX	VERcjg	VerbForm=Fin	11	aux:pass	_	XmlId=w_32_02450
 10	jamais	jamais	ADV	ADVgen	_	11	advmod	_	XmlId=w_32_02451

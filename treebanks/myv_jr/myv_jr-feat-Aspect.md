@@ -25,7 +25,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 
 * `Hab,Inch` (1; 1% of non-empty `Aspect`): <em>кармильть</em>
 * `Inch` (102; 99% of non-empty `Aspect`): <em>кармась, кармасть, кармить, карми, карма, карман, карминь, Кармиксэль, Карминдерят, кармавлинь</em>
-* `EMPTY` (683): <em>а, аволь, эзь, апак, ульнесь, иля, эряви, ули, бу, кадык</em>
+* `EMPTY` (688): <em>а, аволь, эзь, апак, ульнесь, иля, эряви, ули, бу, кадык</em>
 
 <table>
   <tr><th>Paradigm <i>кармамс</i></th><th><tt>Hab,Inch</tt></th><th><tt>Inch</tt></th></tr>
@@ -56,7 +56,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Hab` (36; 75% of non-empty `Aspect`): <em>сыль, Рамиксэлинек, абунгалиль, валаськавтылизе, валыксэлизь, ваныль, вечкилизь, витнилить, ильтнильть, кадовиль</em>
 * `Inch` (12; 25% of non-empty `Aspect`): <em>цяхазевсь, арсезевезь, арсезевинь, арьсезевезь, кекшнезевсть, лаказеви, паразевсь, пейдезевсь, тошказевсь, урнозевсь</em>
-* `EMPTY` (3681): <em>мерсь, лиссь, ютась, мольсь, ашти, неяви, совась, маряви, саизе, сась</em>
+* `EMPTY` (3713): <em>мерсь, лиссь, мольсь, ютась, ашти, маряви, неяви, совась, лоткась, саизе</em>
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (43) occur only with one value of `Aspect`.
 

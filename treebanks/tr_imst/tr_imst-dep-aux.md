@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	benim	ben	PRON	Pers	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	_
 3	de	de	CCONJ	Conj	_	2	advmod:emph	_	_
 4	böyle	böyle	ADV	Adverb	_	6	amod	_	_
-5	bir	bir	DET	ANum	_	6	det	_	_
+5	bir	bir	DET	ANum	PronType=Ind	6	det	_	_
 6	evim	ev	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	0	root	_	_
 7	olsa	ol	AUX	Verb	Aspect=Perf|Mood=Des|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	6	aux	_	_
 8	başımı	baş	NOUN	Noun	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	6	acl	_	_

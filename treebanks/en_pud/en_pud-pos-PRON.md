@@ -64,12 +64,12 @@ The 2nd highest number of forms (2) was observed with the lemma “I”: <em>I, 
 
 The 3rd highest number of forms (2) was observed with the lemma “he”: <em>he, him</em>.
 
-`PRON` occurs with 8 features: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt> (1006; 96% instances), <tt><a href="en_pud-feat-Number.html">Number</a></tt> (790; 76% instances), <tt><a href="en_pud-feat-Person.html">Person</a></tt> (743; 71% instances), <tt><a href="en_pud-feat-Case.html">Case</a></tt> (485; 46% instances), <tt><a href="en_pud-feat-Gender.html">Gender</a></tt> (482; 46% instances), <tt><a href="en_pud-feat-Poss.html">Poss</a></tt> (260; 25% instances), <tt><a href="en_pud-feat-Reflex.html">Reflex</a></tt> (10; 1% instances), <tt><a href="en_pud-feat-Style.html">Style</a></tt> (1; 0% instances)
+`PRON` occurs with 8 features: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt> (1044; 100% instances), <tt><a href="en_pud-feat-Number.html">Number</a></tt> (792; 76% instances), <tt><a href="en_pud-feat-Person.html">Person</a></tt> (745; 71% instances), <tt><a href="en_pud-feat-Case.html">Case</a></tt> (486; 47% instances), <tt><a href="en_pud-feat-Gender.html">Gender</a></tt> (482; 46% instances), <tt><a href="en_pud-feat-Poss.html">Poss</a></tt> (260; 25% instances), <tt><a href="en_pud-feat-Reflex.html">Reflex</a></tt> (10; 1% instances), <tt><a href="en_pud-feat-Style.html">Style</a></tt> (1; 0% instances)
 
 `PRON` occurs with 20 feature-value pairs: `Case=Acc`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`, `Style=Coll`
 
 `PRON` occurs with 38 feature combinations.
-The most frequent feature combination is `PronType=Rel` (154 tokens).
+The most frequent feature combination is `PronType=Rel` (155 tokens).
 Examples: <em>which, that, who, whoever</em>
 
 

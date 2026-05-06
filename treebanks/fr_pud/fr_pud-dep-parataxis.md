@@ -46,8 +46,8 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 10 parataxis	color:blue
-1	D’	de	ADP	IN	_	2	case	_	SpaceAfter=No|wordform=d'
-2	où	où	PRON	WP	PronType=Int	3	obl	_	_
+1	D'	de	ADP	IN	_	2	case	_	SpaceAfter=No|wordform=d'
+2	où	où	ADV	WP	PronType=Int	3	obl	_	_
 3	vient	venir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	toute	tout	ADJ	PDT	Gender=Fem|Number=Sing	6	amod	_	_
 5	son	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	_
@@ -90,7 +90,7 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 13	un	un	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	escabeau	escabeau	NOUN	NN	Gender=Masc|Number=Sing	12	obj	_	_
 15	et	et	CCONJ	CC	_	18	cc	_	_
-16	s’	se	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	SpaceAfter=No|wordform=s'
+16	s'	soi	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obj	_	SpaceAfter=No
 17	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:tense	_	_
 18	assis	asseoir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	conj	_	_
 19	le	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
@@ -98,7 +98,7 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 21	tourné	tourner	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	acl	_	SpaceAfter=No
 22	,	,	PUNCT	,	_	6	punct	_	_
 23	dit	dire	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-24	-il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	SpaceAfter=No
+24	-il	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	_	SpaceAfter=No
 25	.	.	PUNCT	.	_	23	punct	_	_
 
 ~~~

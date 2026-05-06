@@ -24,7 +24,7 @@ The following 5 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 11 15 advcl	color:blue
 1	Aktijoh	aktijo	NOUN	NOUN	Case=Ill|Number=Sing	2	obl	_	_
 2	liitty	liittyä	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	muajilman	muajilma	NOUN	NOUN	Case=Gen|Number=Sing	2	obj	_	_
+3	muajilman	muajilma	NOUN	NOUN	Case=Gen|Number=Sing	5	nmod:poss	_	_
 4	184	184	NUM	NUM	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
 5	muata	mua	NOUN	NOUN	Case=Par|Number=Sing	2	obj	_	_
 6	ta	ta	CCONJ	CCONJ	_	7	cc	_	_

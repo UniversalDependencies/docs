@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Joakim Nivre.
 
 Repository: [UD_Slovenian-SST](https://github.com/UniversalDependencies/UD_Slovenian-SST)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_sst217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_sst218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -60,7 +60,9 @@ Please refer to the *issues* section of the repository for the [SSJ treebank](ht
 
 ## Acknowledgments
 
-We wish to thank all the collaborators who have helped with dependency annotation (Nives Hüll, Karolina Zgaga, Luka Terčon, Matija Škofljanec), JOS-MTE lemmatization and morphological annotation (Jaka Čibej, Tina Munda, Matija Škofljanec), punctuation insertion (Iztok Lebar Bajec, Tina Munda), data sampling and splitting (Darinka Verdonik, Nikola Ljubešić, Peter Rupnik), automatic pre-annotation (Luka Krsnik), JOS-to-UD morphology conversion (Jaka Čibej), and original guidelines consulting (Joakim Nivre). This work was financially supported by the Slovenian Research and Innovation Agency (grant no. Z6-4617 - [A Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en/) and Young Researcher Programme 2013) and IC1207 COST Action PARSEME.
+We wish to thank all the collaborators who have helped with dependency annotation (Nives Hüll, Karolina Zgaga, Luka Terčon, Matija Škofljanec), JOS-MTE lemmatization and morphological annotation (Jaka Čibej, Tina Munda, Matija Škofljanec), punctuation insertion (Iztok Lebar Bajec, Tina Munda), data sampling and splitting (Darinka Verdonik, Nikola Ljubešić, Peter Rupnik), automatic pre-annotation (Luka Krsnik), JOS-to-UD morphology conversion (Jaka Čibej), and original guidelines consulting (Joakim Nivre).
+
+This work was financially supported by the Slovenian Research and Innovation Agency (grant no. Z6-4617 - [A Treebank-Driven Approach to the Study of Spoken Slovenian](https://spot.ff.uni-lj.si/en/) and Young Researcher Programme 2013) and the COST Action PARSEME. This work was also supported by COST Action CA21167 — Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)).
 
 
 ## References
@@ -79,13 +81,17 @@ pages = "1566--1573",
 ```
 
 ### Other references
-* Verdonik et al. 2013. Compilation, transcription and usage of a reference speech corpus: the case of the Slovene corpus GOS. Language Resources and Evaluation, 47(4):1031–1048.
-* Verdonik et al. 2024. Gos 2: A New Reference Corpus of Spoken Slovenian. LREC-COLING 2024.
 * Kaja Dobrovoljc. 2022. [Spoken Language Treebanks in Universal Dependencies: An Overview](https://aclanthology.org/2022.lrec-1.191/). LREC 2022.
+* Verdonik et al. 2024. Gos 2: A New Reference Corpus of Spoken Slovenian. LREC-COLING 2024.
+* Kaja Dobrovoljc. 2025. Treebanking Spoken Slovenian: New Data, Models, and Lessons Learned. PNZ 65(3) - Special Issue on Language Technologies and DH.
 
 
 ## Changelog
 <pre>
+2026-04-30 v2.18
+* Added (some) speaker- and speech-related metadata from the Gos corpus
+* Added co-construction annotations as proposed by Pannitto et al.
+
 2024-12-20 v2.16
 * Split up several sentences that were very long into shorter segments
 * Updated readme

@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` lemmas: <em>iată, vai, atențiune, ei, ia, iaca, p�
 
 The 10 most frequent `INTJ` types:  <em>iată, vai, Atențiune, Ei, Ia, Păi, iaca, zău, Ah, Hai</em>
 
-The 10 most frequent ambiguous lemmas: <em>o</em> (<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 10, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>o</em> (<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 9, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>Ei</em> (<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 14, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 2), <em>Ia</em> (<tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> 2), <em>O</em> (<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 110, <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 7, <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 1), <em>Uite</em> (<tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> 3, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1), <em>mă</em> (<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 86, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>Ei</em> (<tt><a href="ro_rrt-pos-PRON
   * <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 2: <em><b>Ia</b> lasă -te în adânc !</em>
   * <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> 2: <em>- <b>Ia</b> , Treanță , îl îndemnă starostele , ia , că n- o să -ți cadă dinții .</em>
 * <em>O</em>
-  * <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 110: <em><b>O</b> plăcere -avea : de lacomi , de neghiobi , să -și râză -n lege !</em>
+  * <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 110: <em><b>O</b> plăcere- avea : de lacomi , de neghiobi , să -și râză -n lege !</em>
   * <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> 8: <em>Pinul M specifică spațiul de memorie adresat ( fizică sau I / <b>O</b> ) .</em>
   * <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 7: <em><b>O</b> dusese acasă , în servietă , cu sentimentul vinovăției .</em>
   * <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> 1: <em><b>O</b> dată stăpân pe metoda lui , Rimbaud - asemănător și în această privință cu omul de știință - își propune să extrapoleze adevărurile experimentale dobândite .</em>
@@ -35,12 +35,12 @@ The 10 most frequent ambiguous types:  <em>Ei</em> (<tt><a href="ro_rrt-pos-PRON
   * <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> 3: <em><b>Uite</b> ce iese cân' te -ncrezi -n ăștia .</em>
   * <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1: <em><b>Uite</b> , ăsta era genul de amănunt care te putea trăda .</em>
 * <em>mă</em>
-  * <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 86: <em>Iată astă -seară <b>mă</b> regăsești în duh , în claritatea și curajul duhului .</em>
+  * <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 86: <em>Iată astă-seară <b>mă</b> regăsești în duh , în claritatea și curajul duhului .</em>
   * <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1: <em>― Uite ce e , <b>mă</b> neică , după cum vezi , greu să se hotărască între noi cine să plătească .</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.814866).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.819791).
 
 The 1st highest number of forms (1) was observed with the lemma “adio”: <em>adio</em>.
 

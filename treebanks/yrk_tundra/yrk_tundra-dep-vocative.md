@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 3	хасава	хасава	NOUN	_	_	4	nmod	_	AlignBegin=266434.094907|AlignEnd=266767.517112|Gloss=man|LTranslit=xasawa|Translit=xasawa
 4	ӈацекы	ӈацекы	NOUN	_	_	5	nmod	_	AlignBegin=266767.517112|AlignEnd=267080.084134|Gloss=child|LTranslit=ŋaćeki|Translit=ŋaćeki
 5	нянда	ня	NOUN	_	_	6	nmod:poss	_	AlignBegin=267080.084134|AlignEnd=267595.427369|LTranslit=ńa|MGloss=friend-poss.gen.3sg|MSeg=ня-нда|Translit=ńanda
-6	савамʼ	сава	NOUN	_	_	7	obj	_	AlignBegin=267595.427369|AlignEnd=267904.373368|LTranslit=sawa|MGloss=hat-acc|MSeg=сава-мʼ|Translit=sawamʔ
+6	савамʼ	сава	NOUN	_	_	7	obj	_	AlignBegin=267595.427369|AlignEnd=267904.373368|ISRole=Top|LTranslit=sawa|MGloss=hat-acc|MSeg=сава-мʼ|Translit=sawamʔ
 7	няˮмада	няˮма	VERB	_	_	0	root	_	AlignBegin=267904.373368|AlignEnd=268266.732852|LTranslit=ńaʡma|MGloss=grab-3sg.sg|MSeg=няˮма-да|Translit=ńaʡmada
 8	няханда	ня	NOUN	_	_	9	obl:mod	_	AlignBegin=268266.732852|AlignEnd=268582.611669|LTranslit=ńa|MGloss=friend-dat-poss.3sg|MSeg=ня-ха-нда|Translit=ńaxanda
 9	тёренакыˮ	тёре-накы	VERB	_	_	7	parataxis	_	AlignBegin=268582.611669|AlignEnd=269163.801573|LTranslit=ťoŕe-naki|MGloss=shout-prob-3sg.refl|MSeg=тёре-накы-ˮ|Translit=ťoŕenakiʡ

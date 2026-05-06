@@ -11,7 +11,7 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 10072 tokens (10%) have a non-empty value of `Degree`.
 2961 types (20%) occur at least once with a non-empty value of `Degree`.
-1924 lemmas (18%) occur at least once with a non-empty value of `Degree`.
+2050 lemmas (19%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (8330; 9% instances), <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (1742; 2% instances).
 
 ### `ADJ`
@@ -56,13 +56,11 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt></tt></td><td><em>mycket</em></td><td><em>mer, mera</em></td><td><em>mest</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 92% lemmas (290) occur only with one value of `Degree`.
-
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> ADJ</tt> (350; 93%),
-<tt>ADV --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> ADV</tt> (36; 78%),
+<tt>ADV --[<tt><a href="sv_talbanken-dep-conj.html">conj</a></tt>]--> ADV</tt> (37; 79%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (22; 85%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-amod.html">amod</a></tt>]--> ADJ</tt> (21; 75%),
 <tt>ADJ --[<tt><a href="sv_talbanken-dep-nsubj.html">nsubj</a></tt>]--> ADJ</tt> (12; 80%),

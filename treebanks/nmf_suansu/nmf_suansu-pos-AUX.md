@@ -56,7 +56,7 @@ The 3rd highest number of forms (2) was observed with the lemma “ga”: <em>ga
 
 `AUX` occurs with 7 features: <tt><a href="nmf_suansu-feat-Mood.html">Mood</a></tt> (131; 74% instances), <tt><a href="nmf_suansu-feat-Aspect.html">Aspect</a></tt> (72; 41% instances), <tt><a href="nmf_suansu-feat-VerbForm.html">VerbForm</a></tt> (72; 41% instances), <tt><a href="nmf_suansu-feat-Tense.html">Tense</a></tt> (43; 24% instances), <tt><a href="nmf_suansu-feat-Evident.html">Evident</a></tt> (9; 5% instances), <tt><a href="nmf_suansu-feat-Modal.html">Modal</a></tt> (7; 4% instances), <tt><a href="nmf_suansu-feat-Polarity.html">Polarity</a></tt> (7; 4% instances)
 
-`AUX` occurs with 18 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Evident=Fh`, `Evident=Nfh`, `Modal=Obl`, `Mood=Des`, `Mood=Hort`, `Mood=Imp`, `Mood=Ind`, `Mood=Int`, `Mood=Irr`, `Mood=Jus`, `Polarity=Neg`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`
+`AUX` occurs with 18 feature-value pairs: `Aspect=Imp`, `Aspect=Perf`, `Evident=Fh`, `Evident=Nfh`, `Modal=Obl`, `Mood=Des`, `Mood=Hrt`, `Mood=Imp`, `Mood=Ind`, `Mood=Int`, `Mood=Irr`, `Mood=Jus`, `Polarity=Neg`, `Tense=Past`, `Tense=Pqp`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`
 
 `AUX` occurs with 20 feature combinations.
 The most frequent feature combination is `Mood=Int` (25 tokens).

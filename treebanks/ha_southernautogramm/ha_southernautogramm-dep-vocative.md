@@ -22,13 +22,13 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 6 vocative	color:blue
-1	taː	_	AUX	yaː	Aspect=Perf|Gender=Fem|Person=3	2	aux	_	AlignBegin=49841|AlignEnd=50004|Gloss=3Fem.Perf
+1	taː	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	2	aux	_	AlignBegin=49841|AlignEnd=50004|Gloss=3Fem.Perf
 2	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=50004|AlignEnd=50167|Gloss=say
-3	à	_	AUX	ø	Aspect=Aor|Person=4	4	aux	_	AlignBegin=50167|AlignEnd=50330|Gloss=4.Aor
+3	à	yà	AUX	_	Mood=Sub|Person=4	4	aux	_	AlignBegin=50167|AlignEnd=50330|Gloss=4.Sub
 4	zoː	zoː	VERB	_	_	2	ccomp	_	AlignBegin=50330|AlignEnd=50493|Gloss=come
 5	//=	//=	PUNCT	_	_	8	punct	_	AlignBegin=50330|AlignEnd=50493|Gloss=PUNCT
 6	keː	keː	PRON	_	Gender=Fem|Person=2|PronType=Prs	8	vocative	_	AlignBegin=50493|AlignEnd=50656|Gloss=2Fem.Nom
-7	zaːkì	_	AUX	zâi	Gender=Fem|Person=2|Tense=Fut	8	aux	_	AlignBegin=50656|AlignEnd=50819|Gloss=2Fem.Fut
+7	zaːkì	zâi	AUX	_	Gender=Fem|Person=2|Tense=Fut	8	aux	_	AlignBegin=50656|AlignEnd=50819|Gloss=2Fem.Fut
 8	zoː	zoː	VERB	_	_	2	parataxis	_	AlignBegin=50982|AlignEnd=51145|Gloss=come
 9	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=51145|AlignEnd=51312|Gloss=PUNCT
 
@@ -44,11 +44,11 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	Hàdiːzà	Hàdiːzà	PROPN	_	_	9	vocative	_	AlignBegin=2570|AlignEnd=2772|Gloss=Hadiza
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=2772|AlignEnd=2974|Gloss=PUNCT
 3	dà	dà	SCONJ	_	_	5	mark	_	AlignBegin=2974|AlignEnd=3143|Gloss=as
-4	kikà	_	AUX	(n)kà	Aspect=PerfBkg|Gender=Fem|Person=2	5	aux	_	AlignBegin=3143|AlignEnd=3312|Background=Yes|Gloss=2Fem.Perf.Bkg
+4	kikà	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=2	5	aux	_	AlignBegin=3143|AlignEnd=3312|Gloss=2Fem.Perf.Rel|Relative=Yes
 5	jeː	jeː	VERB	_	_	9	advcl	_	AlignBegin=3312|AlignEnd=3481|Gloss=go
 6	makar̃antaː	makar̃antaː	NOUN	_	Definite=Ind	5	obl	_	AlignBegin=3481|AlignEnd=3650|Gloss=school
 7	<	<	PUNCT	_	_	9	punct	_	AlignBegin=3650|AlignEnd=3819|Gloss=PUNCT
-8	kin	_	AUX	yaː	Aspect=Perf|Gender=Fem|Person=2	9	aux	_	AlignBegin=3819|AlignEnd=3979|Gloss=2Fem.Perf
+8	kin	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=2	9	aux	_	AlignBegin=3819|AlignEnd=3979|Gloss=2Fem.Perf
 9	ga	ganiː	VERB	_	_	0	root	_	AlignBegin=3979|AlignEnd=4139|Gloss=see
 10	Maːlam	Maːlam	PROPN	_	_	9	obj	_	AlignBegin=4139|AlignEnd=4299|Gloss=Mister
 11	Awwàl	Awwàl	PROPN	_	_	10	flat:name	_	AlignBegin=4299|AlignEnd=4459|Gloss=Awwal
@@ -65,9 +65,9 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2 1 vocative	color:blue
 1	zoːmoː	zoːmoː	NOUN	_	Definite=Ind	2	vocative	_	AlignBegin=21251|AlignEnd=21433|Gloss=Rabbit
 2	ìnaː	ìnaː	ADV	_	PronType=Int	0	root	_	AlignBegin=21615|AlignEnd=21873|Gloss=where
-3	nèː	_	AUX	neː	Gender=Masc|Number=Plur	2	cop	_	AlignBegin=21873|AlignEnd=22131|AttachTo=HAUZ_BC_NARR_01_010-011|Gloss=be.Masc/Plur|Overlap=HAUZ_BC_NARR_01_012-012|Rel=comp:obj
-4	hanyànmù	hanyàː	NOUN	_	Case=Gen|Definite=Cons|Number=Plur|Person=1	2	advcl:cleft	_	AlignBegin=22131|AlignEnd=22217|Gloss=road.Cons.1Plur.Gen|wordform=hanyàː
-5	na	na/ta	ADP	_	Definite=Cons	6	case	_	AlignBegin=22389|AlignEnd=22647|Gloss=of
+3	nèː	neː	AUX	_	Gender=Masc|Number=Plur	2	cop	_	AlignBegin=21873|AlignEnd=22131|AttachTo=HAUZ_BC_NARR_01_010-011|Copula=Yes|Gloss=be.Masc/Plur|Overlap=HAUZ_BC_NARR_01_012-012|Rel=comp:obj
+4	hanyànmù	hanyàː	NOUN	_	Definite=Cons	2	advcl:cleft	_	AlignBegin=22131|AlignEnd=22217|CaseAf=Gen|Gloss=road.Cons-1PlurGen|MSeg=hanyàn-mù|NumberAf=Plur|PersonAf=1|Poss=Yes|wordform=hanyàː
+5	na	na	PART	_	Case=Gen|PartType=Case	6	case	_	AlignBegin=22389|AlignEnd=22647|Gloss=Gen
 6	ràːfiː	ràːfiː	NOUN	_	Definite=Ind	4	nmod	_	AlignBegin=22647|AlignEnd=22905|Gloss=river
 7	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=22905|AlignEnd=23165|Gloss=PUNCT
 

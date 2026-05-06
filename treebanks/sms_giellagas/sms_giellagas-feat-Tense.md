@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-616 tokens (21%) have a non-empty value of `Tense`.
-247 types (33%) occur at least once with a non-empty value of `Tense`.
-136 lemmas (27%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (510; 17% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (106; 4% instances).
+620 tokens (20%) have a non-empty value of `Tense`.
+248 types (31%) occur at least once with a non-empty value of `Tense`.
+136 lemmas (26%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (511; 17% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (109; 4% instances).
 
 ### `VERB`
 
-510 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (78% of all `VERB` tokens) have a non-empty value of `Tense`.
+511 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (76% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (510; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (510; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (439; 86%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (401; 79%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (511; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (510; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (439; 86%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (401; 78%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Past` (280; 55% of non-empty `Tense`): <em>mõõni, puõʹđi, šõõddi, vaaʹldi, jälste, ǩieʹzzi, leäi, vuõʹlji, vuejai, lueʹšti</em>
-* `Pres` (230; 45% of non-empty `Tense`): <em>ceälkk, lij, ǩiõzzam, ceäʹlǩǩe, jåått, mâânn, pohtt, räʹjje, vuâlgg, puätt</em>
-* `EMPTY` (148): <em>jieʹlled, mõõnnâd, leežž, kooǯǯted, tiâr, väʹldded, hiâvted, jååʹtted, mõõnsââʹst, puäʹđ</em>
+* `Pres` (231; 45% of non-empty `Tense`): <em>ceälkk, lij, ǩiõzzam, ceäʹlǩǩe, jåått, mâânn, pohtt, räʹjje, vuâlgg, puätt</em>
+* `EMPTY` (165): <em>jieʹlled, mõõnnâd, leežž, kooǯǯted, tiâr, välddam, väʹldded, hiâvted, jååʹtted, mõõnsââʹst</em>
 
 <table>
   <tr><th>Paradigm <i>mõõnnâd</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -35,15 +35,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-106 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (65% of all `AUX` tokens) have a non-empty value of `Tense`.
+109 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (64% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (105; 99%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (105; 99%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (101; 95%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (82; 77%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (75; 71%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (108; 99%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (108; 99%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (104; 95%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (84; 77%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (77; 71%).
 
 `AUX` tokens may have the following values of `Tense`:
 
-* `Past` (22; 21% of non-empty `Tense`): <em>leäi, leʹjjiǩ, feʹrttji, leʹjje, leʹjjem</em>
-* `Pres` (84; 79% of non-empty `Tense`): <em>lij, liâ, õõk, õõlǥ, leäk, leäkku, leäm, iʹlla, iʹlleäk, jeäʹla</em>
-* `EMPTY` (56): <em>ij, jiõk, jiõm, i-ǥõl, jeäʹp, jiâ, leeʹd, Ij-ǥo, Jeäʹled, leežž</em>
+* `Past` (25; 23% of non-empty `Tense`): <em>leäi, leʹjje, leʹjjem, leʹjjiǩ, feʹrttji</em>
+* `Pres` (84; 77% of non-empty `Tense`): <em>lij, liâ, õõk, õõlǥ, leäk, leäkku, leäm, iʹlla, iʹlleäk, jeäʹla</em>
+* `EMPTY` (61): <em>ij, jiõk, jiõm, i-ǥõl, jeäʹp, jiâ, leeʹd, leʹččep, leʹččid, Ij-ǥo</em>
 
 <table>
   <tr><th>Paradigm <i>leeʹd</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>

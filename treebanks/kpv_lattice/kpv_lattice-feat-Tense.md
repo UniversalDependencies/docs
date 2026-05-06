@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-1088 tokens (13%) have a non-empty value of `Tense`.
-735 types (21%) occur at least once with a non-empty value of `Tense`.
-509 lemmas (22%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (848; 10% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (240; 3% instances).
+1098 tokens (13%) have a non-empty value of `Tense`.
+738 types (21%) occur at least once with a non-empty value of `Tense`.
+511 lemmas (22%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (855; 10% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (243; 3% instances).
 
 ### `VERB`
 
-848 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Tense`.
+855 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (63% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (806; 95%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (765; 90%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (764; 90%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (652; 77%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (596; 70%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (812; 95%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (771; 90%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (771; 90%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (658; 77%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (601; 70%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (44; 5% of non-empty `Tense`): <em>Локтас, ковмас, петас, мунас, Тӧдмалас, быдмасны, бӧръяс, вермас, веськалас, видзӧдлас</em>
-* `Past` (581; 69% of non-empty `Tense`): <em>воис, идралӧм, лои, идралӧмын, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс</em>
-* `Pres` (223; 26% of non-empty `Tense`): <em>мунӧ, аддза, воӧ, думайта, кажитчӧ, локтӧ, пукалӧ, тыдалӧ, Кӧсъян, аддзан</em>
-* `EMPTY` (503): <em>лоны, шуны, мунны, вӧчны, пов, виччысьны, волыны, восьлавны, жалит, нуны</em>
+* `Past` (587; 69% of non-empty `Tense`): <em>воис, идралӧм, лои, видзӧдліс, идралӧмын, кыліс, воисны, муніс, шуис, шыасис</em>
+* `Pres` (224; 26% of non-empty `Tense`): <em>мунӧ, аддза, воӧ, думайта, кажитчӧ, локтӧ, пукалӧ, тыдалӧ, Кӧсъян, аддзан</em>
+* `EMPTY` (511): <em>лоны, шуны, мунны, вӧчны, пов, виччысьны, волыны, восьлавны, жалит, нуны</em>
 
 <table>
   <tr><th>Paradigm <i>мунны</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
@@ -35,16 +35,16 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-240 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Tense`.
+243 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (240; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (240; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (197; 82%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (165; 69%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (126; 53%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (243; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (242; 100%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (200; 82%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (167; 69%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (128; 53%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (11; 5% of non-empty `Tense`): <em>вермас, лоас, кутас, вермасны, позяс, пондасны</em>
-* `Past` (134; 56% of non-empty `Tense`): <em>эз, вӧлі, эг, вӧліны, кутіс, пондіс, эн, вӧлӧма, коліс, лоины</em>
-* `Pres` (95; 40% of non-empty `Tense`): <em>оз, колӧ, он, ог, позьӧ, эм, лоам, оз-ӧ, эмӧсь, Овлывлӧ</em>
-* `EMPTY` (68): <em>абу, вермы, кут, не, лоны, Эн, абуӧсь, вӧв, вӧвны, позь</em>
+* `Past` (136; 56% of non-empty `Tense`): <em>эз, вӧлі, эг, вӧліны, кутіс, пондіс, эн, вӧлӧма, коліс, лоины</em>
+* `Pres` (96; 40% of non-empty `Tense`): <em>оз, колӧ, он, ог, позьӧ, эм, эмӧсь, лоам, оз-ӧ, Овлывлӧ</em>
+* `EMPTY` (69): <em>абу, вермы, кут, не, лоны, Эн, абуӧсь, вӧв, вӧвны, позь</em>
 
 <table>
   <tr><th>Paradigm <i>вермыны</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>

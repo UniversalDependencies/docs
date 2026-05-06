@@ -6,28 +6,27 @@ udver: '2'
 
 ## Treebank Statistics: UD_Estonian-EDT: POS Tags: `ADP`
 
-There are 203 `ADP` lemmas (0%), 201 `ADP` types (0%) and 9304 `ADP` tokens (2%).
+There are 203 `ADP` lemmas (0%), 201 `ADP` types (0%) and 9306 `ADP` tokens (2%).
 Out of 17 observed tags, the rank of `ADP` is: 8 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>üle, eest, pärast, kohta, vastu, vahel, peale, järgi, jooksul, enne</em>
 
 The 10 most frequent `ADP` types:  <em>üle, eest, pärast, kohta, vastu, vahel, peale, järgi, jooksul, koos</em>
 
-The 10 most frequent ambiguous lemmas: <em>üle</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 456, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 182), <em>eest</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 446, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 13), <em>pärast</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 441, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 33), <em>kohta</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 333, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 3), <em>vastu</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 261, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 151), <em>vahel</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 254, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 80), <em>peale</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 243, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 84), <em>järgi</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 232, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 5), <em>enne</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 192, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 88, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 1), <em>koos</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 190, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 56)
+The 10 most frequent ambiguous lemmas: <em>üle</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 456, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 182), <em>eest</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 447, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 12), <em>pärast</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 441, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 34), <em>kohta</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 333, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 3), <em>vastu</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 261, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 151), <em>vahel</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 254, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 80), <em>peale</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 243, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 84), <em>järgi</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 232, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 5), <em>enne</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 192, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 88, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 1), <em>koos</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 191, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 55)
 
-The 10 most frequent ambiguous types:  <em>üle</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 433, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 180), <em>eest</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 447, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 13), <em>pärast</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 374, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 25, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 1), <em>kohta</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 333, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 42, <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> 1), <em>vastu</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 259, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 150), <em>vahel</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 254, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 57), <em>peale</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 213, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 84), <em>järgi</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 231, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> 2), <em>jooksul</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 200, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 1), <em>koos</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 180, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 54)
+The 10 most frequent ambiguous types:  <em>üle</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 433, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 180), <em>eest</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 448, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 12), <em>pärast</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 374, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 26), <em>kohta</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 333, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 42, <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> 1), <em>vastu</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 259, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 150), <em>vahel</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 254, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 57), <em>peale</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 213, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 84), <em>järgi</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 231, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 5, <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> 2), <em>jooksul</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 200, <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 1), <em>koos</em> (<tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 181, <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 53)
 
 
 * <em>üle</em>
   * <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 433: <em>Lakkamatu voona libisesid linnud <b>üle</b> Venseli talu punase kivikatuse .</em>
   * <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 180: <em>“ Muravjov maksab lihtsalt <b>üle</b> , ” kurdab Heidmets .</em>
 * <em>eest</em>
-  * <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 447: <em>Tänan intervjuu <b>eest</b> , härra Greenaway !</em>
-  * <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 13: <em>Piir läheb <b>eest</b> ära ja sa pigistad endast viimase raasukese välja .</em>
+  * <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 448: <em>Tänan intervjuu <b>eest</b> , härra Greenaway !</em>
+  * <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 12: <em>Piir läheb <b>eest</b> ära ja sa pigistad endast viimase raasukese välja .</em>
 * <em>pärast</em>
   * <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 374: <em>Üle poole neist lasti maha <b>pärast</b> Berliini müüri püstitamist .</em>
-  * <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 25: <em>Mikser kuulutas <b>pärast</b> , et tema " Esto-TVs " enam ei osale .</em>
-  * <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 1: <em>Ja <b>pärast</b> algab vaevarikas kaalust allavõtmine .</em>
+  * <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 26: <em>Mikser kuulutas <b>pärast</b> , et tema " Esto-TVs " enam ei osale .</em>
 * <em>kohta</em>
   * <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 333: <em>6 tonni piima lehma <b>kohta</b> .</em>
   * <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 42: <em>Sel kombel sai tüdruk mõnesse <b>kohta</b> lokid .</em>
@@ -49,12 +48,12 @@ The 10 most frequent ambiguous types:  <em>üle</em> (<tt><a href="et_edt-pos-AD
   * <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 200: <em>Nii et eurot teie ametiaja <b>jooksul</b> Eestis käibele ei võeta ?</em>
   * <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> 1: <em>Patsient oli suitsetanud 48 pakkaastat ( s.t üks pakk sigarette päevas 48 a <b>jooksul</b> ) , varasemalt on diagnoositud kroonilist bronhiiti .</em>
 * <em>koos</em>
-  * <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 180: <em>Märtsis 1958 anti <b>koos</b> kuldtähega Lenini orden ja kaevurilamp .</em>
-  * <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 54: <em>Kõik <b>koos</b> ! "</em>
+  * <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> 181: <em>Märtsis 1958 anti <b>koos</b> kuldtähega Lenini orden ja kaevurilamp .</em>
+  * <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> 53: <em>Kõik <b>koos</b> ! "</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.990148 (the average of all parts of speech is 1.914231).
+The form / lemma ratio of `ADP` is 0.990148 (the average of all parts of speech is 1.914465).
 
 The 1st highest number of forms (2) was observed with the lemma “alates”: <em>alates, kuni</em>.
 
@@ -62,22 +61,22 @@ The 2nd highest number of forms (2) was observed with the lemma “alla”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “ees”: <em>ees, eest</em>.
 
-`ADP` occurs with 3 features: <tt><a href="et_edt-feat-AdpType.html">AdpType</a></tt> (9218; 99% instances), <tt><a href="et_edt-feat-Hyph.html">Hyph</a></tt> (1; 0% instances), <tt><a href="et_edt-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`ADP` occurs with 3 features: <tt><a href="et_edt-feat-AdpType.html">AdpType</a></tt> (9220; 99% instances), <tt><a href="et_edt-feat-Hyph.html">Hyph</a></tt> (1; 0% instances), <tt><a href="et_edt-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
 `ADP` occurs with 4 feature-value pairs: `AdpType=Post`, `AdpType=Prep`, `Hyph=Yes`, `Typo=Yes`
 
 `ADP` occurs with 5 feature combinations.
-The most frequent feature combination is `AdpType=Post` (7244 tokens).
+The most frequent feature combination is `AdpType=Post` (7245 tokens).
 Examples: <em>eest, kohta, vahel, järgi, jooksul, vastu, korral, puhul, all, pärast</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="et_edt-dep-case.html">case</a></tt> (9263; 100% instances), <tt><a href="et_edt-dep-fixed.html">fixed</a></tt> (12; 0% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (12; 0% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (10; 0% instances), <tt><a href="et_edt-dep-compound-prt.html">compound:prt</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-flat.html">flat</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="et_edt-dep-case.html">case</a></tt> (9265; 100% instances), <tt><a href="et_edt-dep-fixed.html">fixed</a></tt> (12; 0% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (12; 0% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (10; 0% instances), <tt><a href="et_edt-dep-compound-prt.html">compound:prt</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="et_edt-dep-flat.html">flat</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (7443; 80% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (982; 11% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (514; 6% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (240; 3% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (89; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (11; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (7441; 80% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (982; 11% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (514; 6% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (245; 3% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (89; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (11; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (11; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (1; 0% instances)
 
-9278 (100%) `ADP` nodes are leaves.
+9280 (100%) `ADP` nodes are leaves.
 
 23 (0%) `ADP` nodes have one child.
 

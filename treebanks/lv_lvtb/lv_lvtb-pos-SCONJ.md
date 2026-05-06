@@ -65,7 +65,7 @@ The 10 most frequent ambiguous types:  <em>ka</em> (<tt><a href="lv_lvtb-pos-SCO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.173913 (the average of all parts of speech is 2.342913).
+The form / lemma ratio of `SCONJ` is 1.173913 (the average of all parts of speech is 2.342815).
 
 The 1st highest number of forms (3) was observed with the lemma “ka”: <em>ka, kad, kā</em>.
 

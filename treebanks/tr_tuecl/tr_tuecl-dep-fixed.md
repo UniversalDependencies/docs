@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 1	Ne	ne	CCONJ	_	_	3	cc	_	_
 2	Peter	Peter	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
 3	Smith	Smith	PROPN	_	Case=Nom|Number=Sing	2	flat	_	_
-4	ne	ne	CCONJ	_	_	6	cc	_	_
+4	ne	ne	CCONJ	_	ExtPos=CCONJ	6	cc	_	_
 5	de	de	ADV	_	_	4	fixed	_	_
 6	Mary	Mary	PROPN	_	Case=Nom|Number=Sing	2	conj	_	_
 7	Brown	Brown	PROPN	_	Case=Nom|Number=Sing	6	flat	_	_
@@ -42,8 +42,8 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 3 fixed	color:blue
 1	Deniz	Deniz	PROPN	_	Case=Nom|Number=Sing	5	nsubj	_	_
-2	kendi	kendi	PRON	_	Case=Nom|Number=Sing|Person=3|Reflex=Yes	4	obl	_	_
-3	kendine	kendi	PRON	_	Case=Dat|Number=Sing|Person=3|Reflex=Yes	2	fixed	_	_
+2	kendi	kendi	PRON	_	Case=Nom|ExtPos=PRON|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	4	obl	_	_
+3	kendine	kendi	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	2	fixed	_	_
 4	olmayı	ol	AUX	_	Case=Acc|Number=Sing|VerbForm=Vnoun	5	ccomp	_	_
 5	seviyor	sev	VERB	_	Aspect=Prog|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_

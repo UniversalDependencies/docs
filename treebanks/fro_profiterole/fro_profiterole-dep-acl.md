@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="fro_profiterole-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-1835 nodes (1%) are attached to their parents as `acl`.
+1505 nodes (1%) are attached to their parents as `acl`.
 
-1712 instances of `acl` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.58910081743869.
+1390 instances of `acl` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.42923588039867.
 
-The following 27 pairs of parts of speech are connected with `acl`: <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (896; 49% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (506; 28% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (117; 6% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (93; 5% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (75; 4% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (31; 2% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (19; 1% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (18; 1% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (17; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (15; 1% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `acl`: <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (764; 51% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (456; 30% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (86; 6% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (37; 2% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (30; 2% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (29; 2% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (21; 1% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (19; 1% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (18; 1% instances), <tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (16; 1% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,15 +23,15 @@ The following 27 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 acl	color:blue
-1	Par	_	ADP	PRE	_	2	case	_	XmlId=w_58_00366
-2	num	_	NOUN	NOMcom	_	6	obl	_	XmlId=w_58_00367
-3	d'	_	ADP	PRE	_	4	mark	_	SpaceAfter=No|XmlId=w_58_00368
-4	ocire	_	VERB	VERinf	_	2	acl	_	XmlId=w_58_00369
-5	i	_	ADV	PROadv	_	6	obl	_	XmlId=w_58_00370
-6	enveierai	_	VERB	VERcjg	_	0	root	_	XmlId=w_58_00371
-7	le	_	DET	DETdef	_	8	det	_	XmlId=w_58_00372
-8	men	_	PRON	PROpos	_	6	obj	_	SpaceAfter=No|XmlId=w_58_00373
-9	.	_	PUNCT	PONfrt	_	6	punct	_	XmlId=w_58_00374
+1	Par	par1	ADP	PRE	_	2	case	_	XmlId=w_58_00366
+2	num	nom	NOUN	NOMcom	_	6	obl	_	XmlId=w_58_00367
+3	d'	de	ADP	PRE	_	4	mark	_	SpaceAfter=No|XmlId=w_58_00368
+4	ocire	occire	VERB	VERinf	VerbForm=Inf	2	acl	_	XmlId=w_58_00369
+5	i	y2	ADV	PROadv	PronType=Dem	6	obl	_	XmlId=w_58_00370
+6	enveierai	envoyer	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_00371
+7	le	le	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_58_00372
+8	men	mien	PRON	PROpos	Poss=Yes|PronType=Prs	6	obj	_	SpaceAfter=No|XmlId=w_58_00373
+9	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_58_00374
 
 ~~~
 
@@ -42,16 +42,16 @@ The following 27 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 acl	color:blue
-1	Si	_	ADV	ADVgen	_	2	advmod	_	XmlId=w_58_01842
-2	vengez	_	VERB	VERcjg	_	0	root	_	XmlId=w_58_01843
-3	cels	_	PRON	PROdem	_	2	obj	_	XmlId=w_58_01844
-4	que	_	PRON	PROrel	_	8	obj	_	XmlId=w_58_01845
-5	li	_	DET	DETdef	_	6	det	_	XmlId=w_58_01846
-6	fels	_	NOUN	NOMcom	_	7	nsubj	_	XmlId=w_58_01847
-7	fist	_	VERB	VERcjg	_	3	acl	_	XmlId=w_58_01848
-8	ocire	_	VERB	VERinf	_	7	xcomp	_	XmlId=w_58_01849
-9	!	_	PUNCT	PONfrt	_	2	punct	_	XmlId=w_58_01850
-10	»	_	PUNCT	PONpdr	_	2	punct	_	XmlId=w_58_01851
+1	Si	si4	ADV	ADVgen	_	2	advmod	_	XmlId=w_58_01842
+2	vengez	venger	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01843
+3	cels	cil	PRON	PROdem	PronType=Dem	2	obj	_	XmlId=w_58_01844
+4	que	que	PRON	PROrel	PronType=Prs,Rel	8	obj	_	XmlId=w_58_01845
+5	li	le	DET	DETdef	Definite=Def|PronType=Art	6	det	_	XmlId=w_58_01846
+6	fels	félon	NOUN	NOMcom	_	7	nsubj	_	XmlId=w_58_01847
+7	fist	faire	VERB	VERcjg	VerbForm=Fin	3	acl	_	XmlId=w_58_01848
+8	ocire	occire	VERB	VERinf	VerbForm=Inf	7	xcomp	_	XmlId=w_58_01849
+9	!	!	PUNCT	PONfrt	_	2	punct	_	XmlId=w_58_01850
+10	»	"	PUNCT	PONpdr	_	2	punct	_	XmlId=w_58_01851
 
 ~~~
 
@@ -62,15 +62,15 @@ The following 27 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 acl	color:blue
-1	Li	_	DET	DETdef	_	2	det	_	XmlId=w_58_01750
-2	reis	_	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_58_01751
-3	Marsilie	_	PROPN	NOMpro	_	2	flat	_	XmlId=w_58_01752
-4	i	_	ADV	PROadv	_	5	obl:mod	_	XmlId=w_58_01753
-5	fist	_	VERB	VERcjg	_	0	root	_	XmlId=w_58_01754
-6	mult	_	ADV	ADVgen	_	5	obj	_	XmlId=w_58_01755
-7	que	_	SCONJ	CONsub	_	8	mark	_	XmlId=w_58_01756
-8	traïtre	_	ADJ	ADJqua	_	5	acl	_	SpaceAfter=No|XmlId=w_58_01757
-9	,	_	PUNCT	PONfbl	_	5	punct	_	XmlId=w_58_01758
+1	Li	le	DET	DETdef	Definite=Def|PronType=Art	2	det	_	XmlId=w_58_01750
+2	reis	roi1	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_58_01751
+3	Marsilie	Marsile	PROPN	NOMpro	_	2	flat	_	XmlId=w_58_01752
+4	i	y2	ADV	PROadv	PronType=Dem	5	obl:mod	_	XmlId=w_58_01753
+5	fist	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_01754
+6	mult	moult	ADV	ADVgen	_	5	obj	_	XmlId=w_58_01755
+7	que	que	SCONJ	CONsub	_	8	mark	_	XmlId=w_58_01756
+8	traïtre	traître	ADJ	ADJqua	_	5	acl	_	SpaceAfter=No|XmlId=w_58_01757
+9	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_58_01758
 
 ~~~
 

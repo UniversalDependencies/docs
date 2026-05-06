@@ -16,12 +16,12 @@ The feature is used with 1 part-of-speech tags: <tt><a href="koi_uh-pos-VERB.htm
 
 ### `VERB`
 
-9 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `Evident`.
+9 <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Evident`.
 
 The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (9; 100%), <tt><a href="koi_uh-feat-Person.html">Person</a></tt><tt>=3</tt> (9; 100%), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9; 100%), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9; 100%), <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 89%).
 
 `VERB` tokens may have the following values of `Evident`:
 
 * `Nfh` (9; 100% of non-empty `Evident`): <em>краситӧм, краситӧма, велöтчылöма, вӧвдӧм, чужӧма, шедöмась, ылӧстӧма</em>
-* `EMPTY` (182): <em>зэрӧ, быдмис, локтін, босьтіс, вашöтö, велалас, высьтіс, вӧтны, гижис, керны</em>
+* `EMPTY` (197): <em>зэрӧ, быдмис, локтін, босьтіс, вашöтö, велалас, высьтіс, вӧтны, гижис, керны</em>
 

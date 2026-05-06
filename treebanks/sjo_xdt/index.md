@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: He Zhou, Juyeon Chung, Elena Klyachko, Francis Tyers, Sandra Kübler.
 
 Repository: [UD_Xibe-XDT](https://github.com/UniversalDependencies/UD_Xibe-XDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsjo_xdt217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsjo_xdt218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -772,7 +772,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-ADP(ᠨᡞ) (1)</li>
       <li>VERB-Conv--NOUN-ADP(ᠪᡝ) (2)</li>
       <li>VERB-Conv--PRON (39)</li>
-      <li>VERB-Fin--NOUN (171)</li>
+      <li>VERB-Fin--NOUN (169)</li>
       <li>VERB-Fin--NOUN-ADP(ᠪᡝ) (1)</li>
       <li>VERB-Fin--PRON (139)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
@@ -809,7 +809,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON (1)</li>
       <li>VERB-Conv--PRON-ADP(ᠪᡝ) (4)</li>
       <li>VERB-Conv--PRON-Acc (4)</li>
-      <li>VERB-Fin--NOUN (76)</li>
+      <li>VERB-Fin--NOUN (77)</li>
       <li>VERB-Fin--NOUN-ADP(ᠪᡝ) (190)</li>
       <li>VERB-Fin--NOUN-ADP(ᡩᡝ) (4)</li>
       <li>VERB-Fin--PRON-ADP(ᠪᡝ) (4)</li>

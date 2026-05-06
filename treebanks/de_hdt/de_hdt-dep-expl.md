@@ -64,9 +64,9 @@ The following 9 pairs of parts of speech are connected with `expl`: <tt><a href=
 2	sei	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
 4	,	,	PUNCT	$,	PunctType=Comm	10	punct	_	_
-5	illegale	illegal	ADJ	ADJA	Degree=Pos|Number=Plur	8	amod	_	_
+5	illegale	illegal	ADJ	ADJA	Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	_
 6	und	und	CCONJ	KON	_	7	cc	_	_
-7	schädliche	schädlich	ADJ	ADJA	Degree=Pos|Number=Plur	5	conj	_	_
+7	schädliche	schädlich	ADJ	ADJA	Degree=Pos|Gender=Masc|Number=Plur	5	conj	_	_
 8	Berichte	Bericht	NOUN	NN	Gender=Masc|Number=Plur	10	obj	_	_
 9	zu	zu	PART	PTKZU	PartType=Inf	10	mark	_	_
 10	verhindern	verhindern	VERB	VVINF	VerbForm=Inf	1	csubj	_	_

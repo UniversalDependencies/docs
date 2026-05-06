@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-508 nodes (2%) are attached to their parents as `advmod`.
+526 nodes (2%) are attached to their parents as `advmod`.
 
-477 instances of `advmod` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.90157480314961.
+482 instances of `advmod` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.9106463878327.
 
-The following 7 pairs of parts of speech are connected with `advmod`: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (369; 73% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (123; 24% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (382; 73% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (123; 23% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,8 +26,8 @@ The following 7 pairs of parts of speech are connected with `advmod`: <tt><a hre
 2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	Caf	Caf	NOUN	_	_	4	nsubj	_	_
 4	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-5	-elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_
-6	m'	le/lui	PRON	_	Number=Sing|Person=1|PronType=Prs	7	obj	_	SpaceAfter=No
+5	-elle	lui	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	_
+6	m'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	7	obj	_	SpaceAfter=No
 7	aider	aider	VERB	_	VerbForm=Inf	4	xcomp	_	_
 8	?	?	PUNCT	_	_	7	punct	_	_
 

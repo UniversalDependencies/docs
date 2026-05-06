@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of .
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="fr_parisstories-dep-expl-comp.html">expl:comp</a></tt>, <tt><a href="fr_parisstories-dep-expl-pv.html">expl:pv</a></tt>, <tt><a href="fr_parisstories-dep-expl-subj.html">expl:subj</a></tt>.
 
-23 nodes (0%) are attached to their parents as `expl:pass`.
+24 nodes (0%) are attached to their parents as `expl:pass`.
 
-23 instances of `expl:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.
+24 instances of `expl:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.95833333333333.
 
-The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (23; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (24; 100% instances).
 
 
 ~~~ conllu
@@ -24,19 +24,19 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 # visual-style 14	fgColor:white
 # visual-style 14 13 expl:pass	color:blue
 1	en	en	ADP	_	ExtPos=ADV	14	discourse	_	Idiom=Yes
-2	fait	fait	NOUN	_	_	1	fixed	_	Gender[lex]=Masc|InIdiom=Yes|Number[ctxt]=Sing|SpaceAfter=No
+2	fait	fait	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|InIdiom=Yes|SpaceAfter=No
 3	,	,	PUNCT	_	_	1	punct	_	_
 4	quand	quand	SCONJ	_	_	6	mark	_	_
-5	tu	toi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
-6	mets	mettre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	_	_
-7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	farine	farine	NOUN	_	_	6	obj	_	Gender[lex]=Fem|Number[ctxt]=Sing
+5	tu	toi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent
+6	mets	mettre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	14	advcl	_	Exponence[Person]=Absent
+7	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	HasSpokenGender=OnlySingExceptWithLiaison
+8	farine	farine	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 9	à	à	ADP	_	_	11	case	_	_
-10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	final	final	NOUN	_	_	6	obl:mod	_	Gender[lex]=Masc|Number[ctxt]=Sing
-12	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	_
-13	se	soi	PRON	_	Person=3|PronType=Prs	14	expl:pass	_	_
-14	décolle	décoller	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	HasSpokenGender=OnlySingExceptWithLiaison
+11	final	final	NOUN	_	Gender=Masc|Number=Sing	6	obl:mod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
+12	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	14	nsubj	_	Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
+13	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pass	_	Exponence[Person]=Inherent
+14	décolle	décoller	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Exponence[Person]=Absent|SpaceAfter=No
 15	.	.	PUNCT	_	_	14	punct	_	_
 
 ~~~

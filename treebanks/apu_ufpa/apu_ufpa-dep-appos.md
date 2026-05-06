@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `appos`.
+4 nodes (0%) are attached to their parents as `appos`.
 
-3 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33333333333333.
+4 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.25.
 
-The following 2 pairs of parts of speech are connected with `appos`: <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt>-<tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (2; 67% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
+The following 2 pairs of parts of speech are connected with `appos`: <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt>-<tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (3; 75% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 appos	color:blue
-1	Ywasawaky	ywasawaky	ADV	Adv	AdvType=Tim	4	obl	_	_
+1	Ywasawaky	ywasawaky	ADV	Adv	AdvType=Tim	4	advmod	_	_
 2	ywa	ywa	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	nsubj	_	_
 3	Kirama	Kirama	PROPN	N	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	2	appos	_	_
 4	kamary	kama	VERB	V	Mood=Ind|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres|VerbForm=Fin	0	root	_	_

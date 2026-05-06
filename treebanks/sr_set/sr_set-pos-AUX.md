@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="sr_set-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 18.000000 (the average of all parts of speech is 1.845341).
+The form / lemma ratio of `AUX` is 18.000000 (the average of all parts of speech is 1.845258).
 
 The 1st highest number of forms (29) was observed with the lemma “biti”: <em>Bićemo, bi, bih, bila, bile, bili, bilo, bio, bismo, biti, bivaju, biće, bude, budemo, budi, budu, je, jesam, jest, jeste, jesu, nije, nisam, nismo, nisu, sam, smo, ste, su</em>.
 
@@ -57,7 +57,7 @@ Examples: <em>je, će, bude, Nije, jeste, Neće, biće, jest, ću</em>
 
 `AUX` nodes are attached to their parents using 12 different relations: <tt><a href="sr_set-dep-aux.html">aux</a></tt> (4479; 72% instances), <tt><a href="sr_set-dep-cop.html">cop</a></tt> (1557; 25% instances), <tt><a href="sr_set-dep-root.html">root</a></tt> (60; 1% instances), <tt><a href="sr_set-dep-acl.html">acl</a></tt> (30; 0% instances), <tt><a href="sr_set-dep-xcomp.html">xcomp</a></tt> (25; 0% instances), <tt><a href="sr_set-dep-advcl.html">advcl</a></tt> (15; 0% instances), <tt><a href="sr_set-dep-conj.html">conj</a></tt> (15; 0% instances), <tt><a href="sr_set-dep-ccomp.html">ccomp</a></tt> (14; 0% instances), <tt><a href="sr_set-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="sr_set-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="sr_set-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="sr_set-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 12 different parts of speech: <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (3490; 56% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1491; 24% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (934; 15% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (101; 2% instances),  (60; 1% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (50; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (34; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `AUX` nodes belong to 12 different parts of speech: <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (3490; 56% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (1491; 24% instances), <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (933; 15% instances), <tt><a href="sr_set-pos-ADV.html">ADV</a></tt> (101; 2% instances),  (60; 1% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (50; 1% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (34; 1% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="sr_set-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="sr_set-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
 6039 (97%) `AUX` nodes are leaves.
 

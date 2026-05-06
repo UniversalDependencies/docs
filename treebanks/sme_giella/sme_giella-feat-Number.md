@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 14731 tokens (55%) have a non-empty value of `Number`.
 6280 types (82%) occur at least once with a non-empty value of `Number`.
 3333 lemmas (76%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (6206; 23% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (2628; 10% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (2437; 9% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (1788; 7% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (870; 3% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (456; 2% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (346; 1% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (6206; 23% instances), <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (2627; 10% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (2437; 9% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (1789; 7% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (870; 3% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (456; 2% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (346; 1% instances).
 
 ### `NOUN`
 
@@ -47,14 +47,14 @@ The feature is used with 7 part-of-speech tags: <tt><a href="sme_giella-pos-NOUN
 
 ### `VERB`
 
-2628 <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Number`.
+2627 <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sme_giella-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2628; 100%), <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2628; 100%), <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2421; 92%), <tt><a href="sme_giella-feat-Person.html">Person</a></tt><tt>=3</tt> (2036; 77%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1431; 54%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sme_giella-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2627; 100%), <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2627; 100%), <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2420; 92%), <tt><a href="sme_giella-feat-Person.html">Person</a></tt><tt>=3</tt> (2035; 77%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1431; 54%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Dual` (159; 6% of non-empty `Number`): <em>boahtiba, attiiga, leaba, lohkaba, vácciiga, Boahtti, Gárvodeahkku, Leahppi, Manni, bohte</em>
-* `Plur` (780; 30% of non-empty `Number`): <em>leat, ledje, bohte, ožžot, bidjat, orro, bohtet, manne, šaddet, vulget</em>
+* `Plur` (779; 30% of non-empty `Number`): <em>leat, ledje, bohte, ožžot, bidjat, orro, bohtet, manne, šaddet, vulget</em>
 * `Sing` (1689; 64% of non-empty `Number`): <em>lea, lei, bođii, boahtá, manai, lohká, šattai, šaddá, oidnen, manná</em>
 * `EMPTY` (1682): <em>leat, vuolgit, boahtit, dieđe, oaidnán, ožžon, boahtán, lean, bargat, leamaš</em>
 
@@ -96,14 +96,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-1788 <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Number`.
+1789 <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1782; 100%), <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1707; 95%), <tt><a href="sme_giella-feat-Person.html">Person</a></tt><tt>=3</tt> (1411; 79%), <tt><a href="sme_giella-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1358; 76%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1058; 59%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1783; 100%), <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1708; 95%), <tt><a href="sme_giella-feat-Person.html">Person</a></tt><tt>=3</tt> (1412; 79%), <tt><a href="sme_giella-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1359; 76%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1058; 59%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Dual` (88; 5% of non-empty `Number`): <em>leaba, leahppi, eaba, ean, fertebeahtti, letne, leigga, eahppi, ferteba, fertiiga</em>
-* `Plur` (500; 28% of non-empty `Number`): <em>leat, eai, ledje, eat, galget, lehpet, sáhttet, fertejit, sáhtte, eaige</em>
+* `Plur` (501; 28% of non-empty `Number`): <em>leat, eai, ledje, eat, galget, lehpet, sáhttet, fertejit, sáhtte, eaige</em>
 * `Sing` (1200; 67% of non-empty `Number`): <em>lea, ii, lei, galgá, sáhttá, in, lean, leat, áiggun, it</em>
 * `EMPTY` (206): <em>leat, leamaš, sáhte, lean, sáhttán, galgga, gillen, beassat, nagot, sáhttit</em>
 
@@ -186,10 +186,10 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (942; 66%),
+<tt>VERB --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (941; 66%),
 <tt>VERB --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (742; 68%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (307; 59%),
-<tt>NOUN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> NOUN</tt> (275; 82%),
+<tt>NOUN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> NOUN</tt> (281; 82%),
 <tt>ADJ --[<tt><a href="sme_giella-dep-cop.html">cop</a></tt>]--> AUX</tt> (226; 78%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (225; 97%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-cop.html">cop</a></tt>]--> AUX</tt> (200; 71%),

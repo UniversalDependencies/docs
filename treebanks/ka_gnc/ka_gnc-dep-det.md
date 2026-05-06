@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="ka_gnc-dep-det-poss.html">det:poss</a></tt>.
 
-399 nodes (2%) are attached to their parents as `det`.
+417 nodes (2%) are attached to their parents as `det`.
 
-398 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19298245614035.
+416 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.189448441247.
 
-The following 12 pairs of parts of speech are connected with `det`: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (280; 70% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (85; 21% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `det`: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (293; 70% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (89; 21% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (7; 2% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -45,7 +45,7 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 3	ზე	_ზე	ADP	Pp	_	2	case	_	LMSeg:_ზე
 4	ვართ	ყოფნა	AUX	V_MedPass_Pres_S:1Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=1|Tense=Pres|VerbForm=Fin	2	cop	_	LMSeg:ყოფნ[ა]/არ|SpaceAfter=No
 5	,	,	PUNCT	Punct_Comma	_	8	punct	_	LMSeg:,
-6	მთელ	მთელი	DET	A_Quant_Dat_Att	Case=Dat	7	det	_	LMSeg:მთელ·ი
+6	მთელ	მთელი	DET	A_Quant_Dat_Att	Case=Dat|PronType=Tot	7	det	_	LMSeg:მთელ·ი
 7	ქალაქს	ქალაქი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	8	iobj	_	LMSeg:ქალაქ·ი
 8	დავყურებთ	დაყურება	VERB	V_Act_Pres_Pv_S:1Pl_IO:3	Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	LMSeg:და·ყურებ[ა]/ყურ|SpaceAfter=No
 9	!	!	PUNCT	Punct_ExclPoint	_	2	punct	_	LMSeg:!

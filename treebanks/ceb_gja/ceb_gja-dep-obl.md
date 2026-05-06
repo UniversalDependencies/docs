@@ -11,9 +11,9 @@ This relation is universal.
 37 nodes (3%) are attached to their parents as `obl`.
 
 35 instances of `obl` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.75675675675676.
+Average distance between parent and child is 4.81081081081081.
 
-The following 11 pairs of parts of speech are connected with `obl`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (23; 62% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (5; 14% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 3% instances).
+The following 10 pairs of parts of speech are connected with `obl`: <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (23; 62% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (5; 14% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-ADV.html">ADV</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ceb_gja-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt>-<tt><a href="ceb_gja-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -53,18 +53,17 @@ The following 11 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 4 obl	color:blue
-1	Duol	duol	ADJ	_	Degree=Pos	0	root	_	Gloss=near
-2	ba	ba	PART	_	PartType=Int	1	advmod	_	Gloss=QUESTION
-3	sa	sa	ADP	_	Case=Dat	4	case	_	Gloss=the
-4	eskwelahan	eskwelahan	NOUN	_	_	1	obl	_	Gloss=school
-5	ang	ang	ADP	_	Case=Nom	6	case	_	Gloss=the
-6	kapitolyo	kapitolyo	NOUN	_	_	1	nsubj	_	Gloss=city.center|SpaceAfter=No
-7	?	?	PUNCT	_	_	1	punct	_	Gloss=.
+# visual-style 1 5 obl	color:blue
+1	Tagpila	pila	ADV	_	PronType=Int	0	root	_	Gloss=how.much
+2	ang	ang	ADP	_	Case=Nom	3	case	_	Gloss=the
+3	plete	plete	NOUN	_	_	1	nsubj	_	Gloss=fare
+4	sa	sa	ADP	_	Case=Dat	5	case	_	Gloss=the
+5	dyipni	dyipni	NOUN	_	_	1	obl	_	Gloss=jeepney|SpaceAfter=No
+6	?	?	PUNCT	_	_	1	punct	_	Gloss=?
 
 ~~~
 

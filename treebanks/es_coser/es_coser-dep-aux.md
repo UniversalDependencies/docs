@@ -47,7 +47,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	sido	ser	AUX	vsp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	cop	_	_
 3	muy	mucho	ADV	rg	_	4	advmod	_	_
 4	amables	amable	ADJ	aq0cp0	Number=Plur	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	fc	PunctType=Comm	4	punct	_	_
+5	,	,	PUNCT	fc	PunctType=Comm	6	punct	_	_
 6	entonces	entonces	ADV	rg	_	4	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	4	punct	_	_
 
@@ -66,21 +66,21 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	sube	subir	VERB	vmip3s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	13	ccomp	_	_
 5	esas	ese	DET	dd0fp0	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
 6	piedras	piedra	NOUN	ncfp000	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
-7	,	,	PUNCT	fc	PunctType=Comm	4	punct	_	_
+7	,	,	PUNCT	fc	PunctType=Comm	9	punct	_	_
 8	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	9	punct	_	SpaceAfter=No
 9	entiendes	entender	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No
 10	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	9	punct	_	SpaceAfter=No
 11	,	,	PUNCT	fc	PunctType=Comm	9	punct	_	_
 12	le	él	PRON	pc3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	obl:arg	_	_
 13	decía	decir	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
-14	:	:	PUNCT	fd	PunctType=Colo	13	punct	_	_
+14	:	:	PUNCT	fd	PunctType=Colo	18	punct	_	_
 15	"	"	PUNCT	_	PunctSide=Ini|PunctType=Quot	18	punct	_	SpaceAfter=No
 16	Mientras	mientras	SCONJ	cs	_	17	mark	_	_
 17	descansas	descansar	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	advcl	_	_
 18	sube	subir	VERB	vmip3s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	13	ccomp	_	_
 19	esas	ese	DET	dd0fp0	Gender=Fem|Number=Plur|PronType=Dem	20	det	_	_
 20	piedras	piedra	NOUN	ncfp000	Gender=Fem|Number=Plur	18	obj	_	SpaceAfter=No
-21	,	,	PUNCT	fc	PunctType=Comm	18	punct	_	_
+21	,	,	PUNCT	fc	PunctType=Comm	25	punct	_	_
 22	sentao	sentado	ADJ	vmp00sm	Gender=Masc|Number=Sing|VerbForm=Part	25	xcomp	_	Ortho=sentado
 23	no	no	ADV	rn	Polarity=Neg	25	advmod	_	_
 24	pues	poder	AUX	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	25	aux	_	Ortho=puedes

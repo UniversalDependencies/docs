@@ -33,7 +33,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 9	francisco	Francisco	PROPN	_	Number=Sing	8	flat	_	_
 10	with	with	ADP	_	_	14	case	_	_
 11	at	at	ADP	_	_	12	case	_	_
-12	least	least	ADJ	_	Degree=Sup	14	nmod	_	_
+12	least	least	ADJ	_	Degree=Sup	14	amod	_	_
 13	one	one	NUM	_	NumType=Card	14	nummod	_	_
 14	stop	stop	NOUN	_	Number=Sing	4	obl	_	_
 
@@ -58,7 +58,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 10	early	early	ADJ	_	Degree=Pos	13	amod	_	_
 11	in	in	ADP	_	_	13	case	_	_
 12	the	the	DET	_	PronType=Art	13	det	_	_
-13	morning	morning	NOUN	_	Number=Sing	5	obl:tmod	_	_
+13	morning	morning	NOUN	_	Number=Sing	5	obl:unmarked	_	_
 
 ~~~
 
@@ -81,7 +81,7 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 10	early	early	ADV	_	Degree=Pos	5	advmod	_	_
 11	in	in	ADP	_	_	13	case	_	_
 12	the	the	DET	_	PronType=Art	13	det	_	_
-13	morning	morning	NOUN	_	Number=Sing	10	obl:tmod	_	_
+13	morning	morning	NOUN	_	Number=Sing	10	obl:unmarked	_	_
 
 ~~~
 

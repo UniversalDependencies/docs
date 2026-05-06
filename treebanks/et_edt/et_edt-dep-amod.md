@@ -26,7 +26,7 @@ The following 22 pairs of parts of speech are connected with `amod`: <tt><a href
 2	küsimus	küsimus	NOUN	S	Case=Nom|Number=Sing	0	root	0:root	_
 3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	2:cop	SpaceAfter=No
 4	,	,	PUNCT	Z	_	8	punct	8:punct	_
-5	millest	mis	PRON	P	Case=Ela|Number=Sing|PronType=Int,Rel	8	obl	8:obl	Arg=meenuma_Arg_3
+5	millest	mis	PRON	P	Case=Ela|Number=Sing|PronType=Int,Rel	8	obl:arg	8:obl	Arg=meenuma_Arg_3
 6	need	see	DET	P	Case=Nom|Number=Plur|PronType=Dem	7	det	7:det	_
 7	kirjad	kiri	NOUN	S	Case=Nom|Number=Plur	8	nsubj	8:nsubj	Arg=meenuma_Arg_0
 8	jutustavad	jutustama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	csubj:cop	2:csubj	SpaceAfter=No|Verb=jutustama

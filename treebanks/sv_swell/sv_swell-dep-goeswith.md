@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (0%) are attached to their parents as `goeswith`.
+9 nodes (0%) are attached to their parents as `goeswith`.
 
-8 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+9 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-X.html">X</a></tt> (6; 75% instances), <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_swell-pos-X.html">X</a></tt> (2; 25% instances).
+The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-X.html">X</a></tt> (7; 78% instances), <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_swell-pos-X.html">X</a></tt> (2; 22% instances).
 
 
 ~~~ conllu

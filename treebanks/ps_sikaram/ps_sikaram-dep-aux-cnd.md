@@ -6,74 +6,43 @@ udver: '2'
 
 ## Treebank Statistics: UD_Pashto-Sikaram: Relations: `aux:cnd`
 
-This relation is a language-specific subtype of <tt><a href="ps_sikaram-dep-aux.html">aux</a></tt>.
-There are also 5 other language-specific subtypes of `aux`: <tt><a href="ps_sikaram-dep-aux-fut.html">aux:fut</a></tt>, <tt><a href="ps_sikaram-dep-aux-hab.html">aux:hab</a></tt>, <tt><a href="ps_sikaram-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="ps_sikaram-dep-aux-perf.html">aux:perf</a></tt>, <tt><a href="ps_sikaram-dep-aux-pot.html">aux:pot</a></tt>.
+This relation is a language-specific subtype of .
+There are also 6 other language-specific subtypes of `aux`: <tt><a href="ps_sikaram-dep-aux-fut.html">aux:fut</a></tt>, <tt><a href="ps_sikaram-dep-aux-hab.html">aux:hab</a></tt>, <tt><a href="ps_sikaram-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="ps_sikaram-dep-aux-perf.html">aux:perf</a></tt>, <tt><a href="ps_sikaram-dep-aux-pot.html">aux:pot</a></tt>, <tt><a href="ps_sikaram-dep-aux-sub.html">aux:sub</a></tt>.
 
-1 nodes (0%) are attached to their parents as `aux:cnd`.
+2 nodes (0%) are attached to their parents as `aux:cnd`.
 
-1 instances of `aux:cnd` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.
+1 instances of `aux:cnd` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.
 
-The following 1 pairs of parts of speech are connected with `aux:cnd`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:cnd`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (2; 100% instances).
 
 
 ~~~ conllu
-# visual-style 39	bgColor:blue
-# visual-style 39	fgColor:white
-# visual-style 48	bgColor:blue
-# visual-style 48	fgColor:white
-# visual-style 48 39 aux:cnd	color:blue
-1	که	کۀ	SCONJ	_	_	14	mark	_	Translit=kë|LTranslit=kë|Gloss=if
-2	چېرې	چېرې	ADV	_	_	14	advmod	_	Translit=čére|LTranslit=čére|Gloss=where
-3	پښتنو	پښتون	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	14	nsubj	_	Translit=pëx̌tanó|LTranslit=pax̌tún|Gloss=Pashtuns
-4	د	د	ADP	_	Case=Acc	7	case	_	Translit=dë|LTranslit=dë|Gloss=of
-5	خپلو	خپل	DET	_	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	Translit=xpë́lo|LTranslit=xpël|Gloss=own
-6	ټولنیزو	ټولنیز	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	7	amod	_	Translit=ṭolanízo|LTranslit=ṭolaníz|Gloss=social
-7	ارزښتونو	ارزښت	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	9	nmod	_	Translit=arzëx̌túno|LTranslit=arzë́x̌t|Gloss=values
-8	د	د	ADP	_	Case=Acc	9	case	_	Translit=dë|LTranslit=dë|Gloss=of
-9	ځلولو	ځلول	VERB	_	Aspect=Imp|Case=Acc|VerbForm=Inf	13	nmod	_	Translit=żëlawë́lo|LTranslit=żëlawë́l|Gloss=emphasize
-10	او	او	CCONJ	_	_	12	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-11	خپور	خپور	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	12	compound:lvc	_	Translit=xpor|LTranslit=xpor|Gloss=spread
-12	کولو	کول	VERB	_	Aspect=Imp|Case=Acc|VerbForm=Inf	9	conj	_	Translit=kawë́lo|LTranslit=kawë́l|Gloss=do
-13	وسیلې	وسیله	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	14	obj	_	Translit=wasilé|LTranslit=wasilá|Gloss=tools
-14	لرلای	لرل	VERB	_	Aspect=Imp|Mood=Cnd|VerbForm=Fin	48	advcl	_	Translit=larë́lây|LTranslit=larë́l|Gloss=had|SpaceAfter=No
-15	،	،	PUNCT	_	_	25	punct	_	Translit=,|LTranslit=,|Gloss=,
-16	يا	يا	CCONJ	_	_	25	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
-17	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	25	nsubj	_	Translit=ye|LTranslit=ye|Gloss=it
-18	لږ	لږ	ADJ	_	Case=Nom|ExtPos=ADV|Gender=Masc|Number=Sing	25	advmod	_	Translit=lëǧ|LTranslit=lëǧ|Gloss=less
-19	تر	تر	ADP	_	Case=Abl	18	fixed	_	Translit=tër|LTranslit=tër|Gloss=until
-20	لږه	لږه	ADJ	_	Case=Abl|Gender=Masc|Number=Sing	18	fixed	_	Translit=lë́ǧa|LTranslit=lë́ǧa|Gloss=little
-21	د	د	ADP	_	Case=Acc	23	case	_	Translit=dë|LTranslit=dë|Gloss=of
-22	نورو	نور	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	23	amod	_	Translit=nóro|LTranslit=nor|Gloss=others
-23	هېوادونو	هېواد	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	25	nmod	_	Translit=hewâdúno|LTranslit=hewấd|Gloss=countries
-24	ټولنیز	ټولنیز	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	25	amod	_	Translit=ṭolaníz|LTranslit=ṭolaníz|Gloss=social
-25	ارزښتونه	ارزښت	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	14	conj	_	Translit=arzëx̌túna|LTranslit=arzë́x̌t|Gloss=values
-26	په	پۀ	ADP	_	Case=Loc	27	case	_	Translit=pë|LTranslit=pë|Gloss=to
-27	پښتو	پښتو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	25	orphan:objobl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
-28	يا	يا	CCONJ	_	_	36	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
-29	د	د	ADP	_	Case=Acc	30	case	_	Translit=dë|LTranslit=dë|Gloss=of
-30	پښتنو	پښتون	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	32	nmod	_	Translit=pëx̌tanó|LTranslit=pax̌tún|Gloss=Pashtuns
-31	ټولنیزو	ټولنیز	ADJ	_	Case=Nom|Gender=Masc|Number=Plur|Typo=Yes	32	amod	_	Translit=ṭolanízo|LTranslit=ṭolaníz|Gloss=social|CFTranslit=ṭolaníz|CorrectForm=ټولنیز
-32	ارزښتونه	ارزښت	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	36	obj	_	Translit=arzëx̌túna|LTranslit=arzë́x̌t|Gloss=values
-33	په	پۀ	ADP	_	Case=Loc	35	case	_	Translit=pë|LTranslit=pë|Gloss=to
-34	نورو	نور	ADJ	_	Case=Loc|Gender=Fem|Number=Plur	35	amod	_	Translit=nóro|LTranslit=nor|Gloss=others
-35	ژبو	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	36	obl	_	Translit=žë́bo|LTranslit=žë́ba|Gloss=languages
-36	ژباړلای	ژباړل	VERB	_	Aspect=Imp|Mood=Cnd|VerbForm=Fin	25	conj	_	Translit=žbâṛë́lây|LTranslit=žbâṛë́l|Gloss=translated|SpaceAfter=No
-37	،	،	PUNCT	_	_	14	punct	_	Translit=,|LTranslit=,|Gloss=,
-38	نن	نن	ADV	_	_	48	advmod	_	Translit=nën|LTranslit=nën|Gloss=today
-39	به	بۀ	AUX	_	_	48	aux:cnd	_	Translit=bë|LTranslit=bë|Gloss=would
-40	د	د	ADP	_	Case=Acc	42	case	_	Translit=dë|LTranslit=dë|Gloss=of
-41	دغسې	دغسې	DET	_	Deixis=Prox|PronType=Dem|Variant=Long	42	det	_	Translit=dáġase|LTranslit=dáġase|Gloss=like-this
-42	خرافاتو	خرافه	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	46	nmod	_	Translit=xirâfấto|LTranslit=xirâfá|Gloss=myths
-43	او	او	CCONJ	_	_	45	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-44	لارورکوونکو	لارورکوونکی	ADJ	_	Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	45	amod	_	Translit=lârwrëkawúnko|LTranslit=lârwrëkawúnkay|Gloss=stray
-45	هنرونو	هنر	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	42	conj	_	Translit=hunarúno|LTranslit=hunár|Gloss=arts
-46	مخه	مخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	48	obj	_	Translit=më́xa|LTranslit=më́xa|Gloss=way
-47	هم	هم	ADV	_	_	48	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
-48	نیول	نیول	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	0	root	_	Translit=niwë́l|LTranslit=niwë́l|Gloss=catch
-49	کېدای	کېدل	AUX	_	Aspect=Imp|Mood=Cnd|Variant=Short|VerbForm=Fin	48	aux:pass	_	Translit=kedấy|LTranslit=kedë́l|Gloss=could
-50	شوای	کېدل	AUX	_	Aspect=Perf|Mood=Cnd|Variant=Short|VerbForm=Fin	48	aux:pot	_	Translit=šwây|LTranslit=kedë́l|Gloss=happen|SpaceAfter=No
-51	.	.	PUNCT	_	_	48	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 aux:cnd	color:blue
+1	هغې	هغه	PRON	_	Case=Acc|Deixis=Remt|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	Translit=haġé|LTranslit=haġá|Gloss=she
+2	باید	باید	PART	_	_	6	advmod	_	Translit=bâyád|LTranslit=bâyád|Gloss=must
+3	خپل	خپل	DET	_	Case=Nom|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	4	det	_	Translit=xpël|LTranslit=xpël|Gloss=own
+4	وېښتان	وېښتۀ	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	obj	_	Translit=wex̌tấn|LTranslit=wex̌të́|Gloss=hair
+5	جوړ	جوړ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	6	compound:lvc	_	Translit=ǰoṛ|LTranslit=ǰoṛ|Gloss=well
+6	کړي	کول	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	Translit=kë́ṛi|LTranslit=kawë́l|Gloss=did
+7	وای	ول	AUX	_	Mood=Cnd|VerbForm=Fin	6	aux:cnd	_	Translit=wây|LTranslit=wël|Gloss=would
+8	مګر	مګر	CCONJ	_	_	19	cc	_	Translit=magár|LTranslit=magár|Gloss=but
+9	د	د	ADP	_	Case=Acc	11	case	_	Translit=dë|LTranslit=dë|Gloss=of
+10	کوم	کوم	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	11	det	_	Translit=kum|LTranslit=kum|Gloss=some
+11	دلیل	دلیل	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	19	obl	_	Translit=dâlíl|LTranslit=dâlíl|Gloss=reason
+12	له	له	ADP	_	Case=Abl	13	case	_	Translit=la|LTranslit=la|Gloss=from
+13	امله	امل	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	11	nmod	_	Translit=amála|LTranslit=amál|Gloss=cause
+14	یې	یې	PRON	_	Person=3|PronType=Prs|Variant=Weak	19	nsubj	_	Translit=ye|LTranslit=ye|Gloss=she
+15	هغه	هغه	DET	_	Case=Nom|Deixis=Remt|PronType=Dem	16	det	_	Translit=háġa|LTranslit=háġa|Gloss=that
+16	ورځ	ورځ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	obl	_	Translit=wraż|LTranslit=wraż|Gloss=day
+17	جوړ	جوړ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	19	compound:lvc	_	Translit=ǰoṛ|LTranslit=ǰoṛ|Gloss=well
+18	نۀ	نۀ	PART	_	Polarity=Neg	19	advmod	_	Translit=në́|LTranslit=në|Gloss=not
+19	کړل	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	Translit=kṛël|LTranslit=kawë́l|Gloss=did|SpaceAfter=No
+20	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

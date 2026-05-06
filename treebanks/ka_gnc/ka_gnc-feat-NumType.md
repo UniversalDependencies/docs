@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Frac`, `Ord`.
 
-249 tokens (1%) have a non-empty value of `NumType`.
-77 types (1%) occur at least once with a non-empty value of `NumType`.
-49 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (249; 1% instances).
+253 tokens (1%) have a non-empty value of `NumType`.
+79 types (1%) occur at least once with a non-empty value of `NumType`.
+51 lemmas (1%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (253; 1% instances).
 
 ### `NUM`
 
-249 <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+253 <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (195; 78% of non-empty `NumType`): <em>ერთი, ერთ, ორი, სამი, ორივე, ოცი, ხუთი, ათასი, ოთხი, ორიოდე</em>
+* `Card` (199; 79% of non-empty `NumType`): <em>ერთი, ერთ, ორი, სამი, ორივე, ოცი, ხუთი, ათასი, ოთხი, ორიოდე</em>
 * `Frac` (4; 2% of non-empty `NumType`): <em>ნახევარი, მეოთხედ</em>
 * `Ord` (50; 20% of non-empty `NumType`): <em>მეორე, პირველი, პირველ, მე-15, მეორეს, მეორეც, მესამე, მესამეს, მეათე, მეოთხი</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (49) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (51) occur only with one value of `NumType`.
 
 ## Relations with Agreement in `NumType`
 

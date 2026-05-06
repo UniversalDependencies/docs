@@ -77,6 +77,8 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 2 <tt><a href="eo_cairo-pos-DET.html">DET</a></tt> tokens (20% of all `DET` tokens) have a non-empty value of `Number`.
 
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="eo_cairo-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="eo_cairo-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (2; 100%).
+
 `DET` tokens may have the following values of `Number`:
 
 * `Sing` (2; 100% of non-empty `Number`): <em>tiu, tiun</em>

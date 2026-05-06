@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 1	Акызаҵәык	акы́заҵәк	PRON	Pron_Indef_NH_Sg	Animacy=Nhum|Number=Sing|PronType=Ind	9	nsubj:outer	_	LMSeg:акы́заҵәк
 2	гханы	а-гха́	NOUN	Noun_NH_Sg_PP:ны	Animacy=Nhum|Number=Sing	4	xcomp	_	LMSeg:а-гха́
 3	рҭаацәара	а-ҭаацәара́	NOUN	Noun_NH_Sg_Poss:3Pl	Animacy=Nhum|Number=Sing|Number[psor]=Plur|Person[psor]=3	4	iobj:lo	_	LMSeg:а-ҭаацәара́
-4	иадызбалаз	а́-дбалара	VERB	V_Dyn_Tr_NonFin_PastIndef_S:1Sg_DO:Rel_LO:3SgNH_Rel	Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Number[subj]=Sing|Person[lo]=3|Person[obj]=Rel|Person[subj]=1|Subcat=Tran|Tense=Past|VerbForm=NonFin	1	acl:relcl	_	LMSeg:а́-д·бала-ра|SpaceAfter=No
+4	иадызбалаз	а́-дбалара	VERB	V_Dyn_Tr_NonFin_PastIndef_S:Rel_DO:3_Rel_LO:SgNH	Dyn=Yes|Person[obj]=3|Person[subj]=Rel|Subcat=Tran|Tense=Past|VerbForm=NonFin	1	acl:relcl	_	LMSeg:а́-д·бала-ра|SpaceAfter=No
 5	,	,	PUNCT	Punct_Comma	_	9	punct	_	LMSeg:,
 6	Заира	Заи́ра	PROPN	Noun_Prop_Anthr_F	NameType=Prs	9	nsubj	_	LMSeg:Заи́ра
 7	лхәыҷқәа	а-хәыҷы́	NOUN	Noun_H_Pl_Poss:3SgF	Animacy=Hum|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing|Person[psor]=3	9	iobj	_	LMSeg:а-хәыҷы́

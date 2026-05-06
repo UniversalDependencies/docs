@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10821 nodes (3%) are attached to their parents as `cc`.
+10833 nodes (3%) are attached to their parents as `cc`.
 
-10821 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.44007023380464.
+10833 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.43921351426198.
 
-The following 31 pairs of parts of speech are connected with `cc`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (4198; 39% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (3306; 31% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (1352; 12% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (965; 9% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (271; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (163; 2% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (139; 1% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (113; 1% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (101; 1% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (34; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (31; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (28; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (27; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (22; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (18; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (12; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 33 pairs of parts of speech are connected with `cc`: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (4200; 39% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (3306; 31% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (1351; 12% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (965; 9% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (271; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (163; 2% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (139; 1% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (113; 1% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (101; 1% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (34; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (31; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (28; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (27; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (22; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (18; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (9; 0% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_gsd-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt>-<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,14 +25,14 @@ The following 31 pairs of parts of speech are connected with `cc`: <tt><a href="
 1	Mais	mais	CCONJ	_	_	9	cc	_	SpaceAfter=No|wordform=mais
 2	,	,	PUNCT	_	_	9	punct	_	_
 3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	SMIC	SMIC	PROPN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+4	SMIC	SMIC	PROPN	_	Gender=Masc|Number=Sing	9	nsubj	_	Exponence[Gender]=Inherent
 5	n'	ne	ADV	_	Polarity=Neg	9	advmod	_	SpaceAfter=No
 6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	_
 8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	outil	outil	NOUN	_	Number=Sing	0	root	_	Gender[lex]=Masc
+9	outil	outil	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Exponence[Gender]=Inherent
 10	de	de	ADP	_	_	11	case	_	_
-11	référence	référence	NOUN	_	Number=Sing	9	nmod	_	Gender[lex]=Fem|SpaceAfter=No
+11	référence	référence	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
 12	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
@@ -49,9 +49,9 @@ The following 31 pairs of parts of speech are connected with `cc`: <tt><a href="
 3	faire	faire	VERB	_	VerbForm=Inf	0	root	_	Subject=Generic
 4	dans	dans	ADP	_	_	6	case	_	_
 5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	contexte	contexte	NOUN	_	Number=Sing	3	obl:mod	_	Gender[lex]=Masc
+6	contexte	contexte	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	Exponence[Gender]=Inherent
 7	structurellement	structurellement	ADV	_	_	8	advmod	_	_
-8	raciste	raciste	ADJ	_	Number=Sing	6	amod	_	Gender[ctxt]=Masc
+8	raciste	raciste	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	Exponence[Gender]=Absent
 9	?	?	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -64,18 +64,18 @@ The following 31 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 7 cc	color:blue
 1	En	en	ADP	_	_	2	case	_	wordform=en
-2	1990	1990	NUM	_	_	5	obl:mod	_	Number[lex]=Sing|SpaceAfter=No
+2	1990	1990	NUM	_	Number=Sing	5	obl:mod	_	Exponence[Number]=Inherent|SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	Debbie	Debbie	PROPN	_	_	5	nsubj	_	Gender[lex]=Unknown
+4	Debbie	Debbie	PROPN	_	_	5	nsubj	_	_
 5	réunit	réunir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-6	Stein	Stein	PROPN	_	_	5	obj	_	Gender[lex]=Unknown
+6	Stein	Stein	PROPN	_	_	5	obj	_	_
 7	et	et	CCONJ	_	_	8	cc	_	_
-8	Burke	Burke	PROPN	_	_	6	conj	_	Gender[lex]=Unknown
+8	Burke	Burke	PROPN	_	_	6	conj	_	_
 9	pour	pour	ADP	_	_	11	case	_	_
 10	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	tournée	tournée	NOUN	_	Number=Sing	5	obl:mod	_	Gender[lex]=Fem
+11	tournée	tournée	NOUN	_	Gender=Fem|Number=Sing	5	obl:mod	_	Exponence[Gender]=Inherent
 12	d'	de	ADP	_	_	13	case	_	SpaceAfter=No
-13	été	été	NOUN	_	Number=Sing	11	nmod	_	Gender[lex]=Masc|SpaceAfter=No
+13	été	été	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
 14	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

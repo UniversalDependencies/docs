@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Pashto-Sikaram: Relations: `compound:lvc`
 
 This relation is a language-specific subtype of <tt><a href="ps_sikaram-dep-compound.html">compound</a></tt>.
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="ps_sikaram-dep-compound-prt.html">compound:prt</a></tt>.
 
-75 nodes (2%) are attached to their parents as `compound:lvc`.
+92 nodes (2%) are attached to their parents as `compound:lvc`.
 
-73 instances of `compound:lvc` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.49333333333333.
+91 instances of `compound:lvc` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25.
 
-The following 3 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (54; 72% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (20; 27% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (66; 72% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (24; 26% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

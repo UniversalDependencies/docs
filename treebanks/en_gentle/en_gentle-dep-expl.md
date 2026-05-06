@@ -26,7 +26,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl
 3	mild	mild	ADJ	JJ	Degree=Pos	4	amod	4:amod	Entity=(79-abstract-new-nnnnn-cf1-2-sgl
 4	pallor	pallor	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	CxnElt=2:Existential-CopPred-ThereExpl.Pivot|Entity=79)
-5	noted	note	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	Discourse=elaboration-attribute:45->44:0:_|MSeg=not-ed|SpaceAfter=No
+5	noted	note	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	acl	4:acl	Discourse=elaboration-attribute:45->44:0:syn-mdf-363-_+syn-nmn-364-_|MSeg=not-ed|SpaceAfter=No
 6	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
@@ -38,7 +38,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 expl	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	5:expl	Discourse=explanation-motivation:84->83:1:_|Entity=(105-abstract-new-nnnnn-cf2-1-sgl)|PDTB=Implicit:Contingency.Cause.Reason:because:_:632-644:645-654
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	5:expl	Discourse=explanation-motivation:84->83:1:mrf-md-632-_|Entity=(105-abstract-new-nnnnn-cf2-1-sgl)|PDTB=Implicit:Contingency.Cause.Reason:because:_:632-644:645-654
 2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
 3	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	Negation=Yes
 4	too	too	ADV	RB	Degree=Pos	5	advmod	5:advmod	_
@@ -79,7 +79,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 19	maiden	maiden	NOUN	NN	Number=Sing	21	nsubj	21:nsubj|25:obj	Entity=1)
 20	there	there	ADV	RB	PronType=Dem	21	advmod	21:advmod	_
 21	lived	live	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	csubj	8:csubj	MSeg=liv-ed
-22	whom	who	PRON	WP	PronType=Rel	25	obj	19:ref	Discourse=elaboration-attribute:3->2:0:_
+22	whom	who	PRON	WP	PronType=Rel	25	obj	19:ref	Discourse=elaboration-attribute:3->2:0:syn-mdf-22-_+syn-relcl-25,28-_
 23	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	25	nsubj	25:nsubj	Entity=(6-person-acc:com-nnnnn-cf2-1-sgl)
 24	may	may	AUX	MD	VerbForm=Fin	25	aux	25:aux	_
 25	know	know	VERB	VB	VerbForm=Inf	19	acl:relcl	19:acl:relcl	_

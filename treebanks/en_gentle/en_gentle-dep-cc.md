@@ -23,7 +23,7 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 cc	color:blue
-1	In	in	ADP	IN	_	3	case	3:case	Discourse=joint-list_m:106->46:7:_
+1	In	in	ADP	IN	_	3	case	3:case	Discourse=joint-list_m:106->46:7:sem-lxchn-172-174,176,508,510,513-gold
 2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
 3	time	time	NOUN	NN	Number=Sing	10	obl	10:obl:in	Entity=(145-time-new-nnnnn-cf1-1-sgl)|SpaceAfter=No
 4	,	,	PUNCT	,	_	5	punct	5:punct	_
@@ -46,7 +46,7 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 cc	color:blue
-1	In	in	ADP	IN	_	3	case	3:case	Discourse=joint-list_m:106->46:7:_
+1	In	in	ADP	IN	_	3	case	3:case	Discourse=joint-list_m:106->46:7:sem-lxchn-172-174,176,508,510,513-gold
 2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	3:det	_
 3	time	time	NOUN	NN	Number=Sing	10	obl	10:obl:in	Entity=(145-time-new-nnnnn-cf1-1-sgl)|SpaceAfter=No
 4	,	,	PUNCT	,	_	5	punct	5:punct	_
@@ -69,14 +69,14 @@ The following 17 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 cc	color:blue
-1	2.	2.	X	LS	_	3	discourse	3:discourse	Discourse=joint-list_m:46->42:4:_
+1	2.	2.	X	LS	_	3	discourse	3:discourse	Discourse=joint-list_m:46->42:4:grf-seq-322-_+grf-semcol-328-_
 2	Roe	Roe	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	Entity=(59-person-new-nnnns-cf3-1-coref-Norma_McCorvey)
 3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	MSeg=ha-s
 4	standing	standing	NOUN	NN	Number=Sing	3	obj	3:obj	MSeg=stand-ing
 5	to	to	PART	TO	_	6	mark	6:mark	_
 6	sue	sue	VERB	VB	VerbForm=Inf	4	acl	4:acl:to	SpaceAfter=No
 7	;	;	PUNCT	:	_	12	punct	12:punct	_
-8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	Discourse=adversative-contrast_m:47->46:0:sem-ngt-334-_|Entity=(23-person-giv:inact-nnnnn-cf1-2-coref
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	Discourse=adversative-contrast_m:47->46:0:sem-ngt-334-gold|Entity=(23-person-giv:inact-nnnnn-cf1-2-coref
 9	Does	Doe	PROPN	NNPS	Number=Plur	12	nsubj	12:nsubj	Entity=23)|MSeg=Doe-s
 10	and	and	CCONJ	CC	_	11	cc	11:cc	_
 11	Hallford	Hallford	PROPN	NNP	Number=Sing	9	conj	9:conj:and|12:nsubj	Entity=(20-person-giv:inact-nnnnn-cf2-1-coref)

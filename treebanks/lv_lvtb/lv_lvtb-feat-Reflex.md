@@ -36,5 +36,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (318; 100% of non-empty `Reflex`): <em>sevi, sev, sevis, sevī</em>
-* `EMPTY` (10210): <em>kas, es, viņa, viņš, ko, man, mēs, viņu, viņi, tu</em>
+* `EMPTY` (10209): <em>kas, es, viņa, viņš, ko, man, mēs, viņu, viņi, tu</em>
 

@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>fueram</em> (<tt><a href="la_perseus-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 42.000000 (the average of all parts of speech is 2.101803).
+The form / lemma ratio of `AUX` is 42.000000 (the average of all parts of speech is 2.102438).
 
 The 1st highest number of forms (42) was observed with the lemma “sum”: <em>eram, erant, eras, erat, erimus, eris, erit, ero, erunt, es, esse, essem, essemus, essent, esset, est, esto, fore, foret, fueram, fuerant, fuerat, fuere, fuerint, fuerit, fuerunt, fui, fuimus, fuisse, fuissent, fuit, futura, futuram, sim, sint, sis, sit, sitis, sum, sumus, sunt, sunto</em>.
 

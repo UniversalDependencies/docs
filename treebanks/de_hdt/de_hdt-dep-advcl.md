@@ -52,8 +52,8 @@ The following 62 pairs of parts of speech are connected with `advcl`: <tt><a hre
 4	erweist	erweisen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	sich	sich	PRON	PRF	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 6	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-7	neue	neu	ADJ	ADJA	Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
-8	Media-Leiste	Media-Leiste	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
+7	neue	neu	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+8	Media-Leiste	Media-Leiste	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
 9	:	:	PUNCT	$.	PunctType=Peri	4	punct	_	_
 
 ~~~

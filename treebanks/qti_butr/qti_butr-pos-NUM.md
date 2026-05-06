@@ -13,18 +13,18 @@ The 10 most frequent `NUM` lemmas: <em>iki, bir</em>
 
 The 10 most frequent `NUM` types:  <em>iki, bir</em>
 
-The 10 most frequent ambiguous lemmas: <em>bir</em> (<tt><a href="qti_butr-pos-DET.html">DET</a></tt> 8, <tt><a href="qti_butr-pos-NUM.html">NUM</a></tt> 1, <tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>bir</em> (<tt><a href="qti_butr-pos-DET.html">DET</a></tt> 9, <tt><a href="qti_butr-pos-NUM.html">NUM</a></tt> 1, <tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="qti_butr-pos-DET.html">DET</a></tt> 7, <tt><a href="qti_butr-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="qti_butr-pos-DET.html">DET</a></tt> 8, <tt><a href="qti_butr-pos-NUM.html">NUM</a></tt> 1)
 
 
 * <em>bir</em>
-  * <tt><a href="qti_butr-pos-DET.html">DET</a></tt> 7: <em>Bunun için <b>bir</b> toplantı alabiliriz .</em>
+  * <tt><a href="qti_butr-pos-DET.html">DET</a></tt> 8: <em>Bunun için <b>bir</b> toplantı alabiliriz .</em>
   * <tt><a href="qti_butr-pos-NUM.html">NUM</a></tt> 1: <em>Kafamda kira vermeden yaşayan <b>bir</b> numaralı Kazım Koyuncu şarkısı .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.152263).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.154982).
 
 The 1st highest number of forms (1) was observed with the lemma “bir”: <em>bir</em>.
 

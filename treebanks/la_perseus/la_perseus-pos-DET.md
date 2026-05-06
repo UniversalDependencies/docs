@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>hoc</em> (<tt><a href="la_perseus-pos
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 6.595745 (the average of all parts of speech is 2.101803).
+The form / lemma ratio of `DET` is 6.595745 (the average of all parts of speech is 2.102438).
 
 The 1st highest number of forms (16) was observed with the lemma “hic”: <em>hac, haec, hanc, has, hi, hic, hii, his, hoc, horum, hos, hosce, huic, huius, huiusce, hunc</em>.
 
@@ -72,7 +72,7 @@ Examples: <em>ille, ipse, hic, talis, idem, iste, tantus</em>
 
 `DET` nodes are attached to their parents using 19 different relations: <tt><a href="la_perseus-dep-det.html">det</a></tt> (973; 56% instances), <tt><a href="la_perseus-dep-nsubj.html">nsubj</a></tt> (253; 15% instances), <tt><a href="la_perseus-dep-obj.html">obj</a></tt> (197; 11% instances), <tt><a href="la_perseus-dep-obl.html">obl</a></tt> (101; 6% instances), <tt><a href="la_perseus-dep-nmod.html">nmod</a></tt> (67; 4% instances), <tt><a href="la_perseus-dep-nsubj-pass.html">nsubj:pass</a></tt> (33; 2% instances), <tt><a href="la_perseus-dep-obl-arg.html">obl:arg</a></tt> (31; 2% instances), <tt><a href="la_perseus-dep-conj.html">conj</a></tt> (22; 1% instances), <tt><a href="la_perseus-dep-root.html">root</a></tt> (16; 1% instances), <tt><a href="la_perseus-dep-amod.html">amod</a></tt> (12; 1% instances), <tt><a href="la_perseus-dep-xcomp.html">xcomp</a></tt> (8; 0% instances), <tt><a href="la_perseus-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="la_perseus-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="la_perseus-dep-det-numgov.html">det:numgov</a></tt> (2; 0% instances), <tt><a href="la_perseus-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-advcl-pred.html">advcl:pred</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="la_perseus-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (967; 56% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (598; 35% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (59; 3% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (36; 2% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (22; 1% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (21; 1% instances),  (16; 1% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (2; 0% instances)
+Parents of `DET` nodes belong to 9 different parts of speech: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (966; 56% instances), <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (598; 35% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (60; 3% instances), <tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (36; 2% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt> (22; 1% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt> (21; 1% instances),  (16; 1% instances), <tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="la_perseus-pos-NUM.html">NUM</a></tt> (2; 0% instances)
 
 1456 (84%) `DET` nodes are leaves.
 

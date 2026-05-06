@@ -44,11 +44,11 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 20	_	_	PART	TO	_	25	mark	25:mark	Lem=_|Len=2
 21	_	_	AUX	VB	VerbForm=Inf	25	cop	25:cop	Lem=_|Len=2
 22	_	_	PUNCT	``	_	25	punct	25:punct	Lem=_|Len=1|SpaceAfter=No|XML=<quote>
-23	_	_	DET	DT	Definite=Def|PronType=Art	25	det	25:det	Entity=(20-time-new-n____-cf9-3-sgl|Lem=_|Len=3
+23	_	_	DET	DT	Definite=Def|PronType=Art	25	det	25:det	Entity=(20-time-new-nnnnn-cf9-3-sgl|Lem=_|Len=3
 24	_	_	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	25	amod	25:amod	Lem=_|Len=5
 25	_	_	NOUN	NN	Number=Sing	19	xcomp	19:xcomp	Lem=_|Len=4
 26	_	_	ADP	IN	_	28	case	28:case	Lem=_|Len=2
-27	_	_	NOUN	NN	Number=Sing	28	compound	28:compound	Entity=(21-abstract-new-n____-cf11-2-sgl(22-person-new-n____-cf12-1-sgl)|Lem=*LOWER*|Len=7
+27	_	_	NOUN	NN	Number=Sing	28	compound	28:compound	Entity=(21-abstract-new-nnnnn-cf11-2-sgl(22-person-new-nnnnn-cf12-1-sgl)|Lem=*LOWER*|Len=7
 28	_	_	NOUN	NN	Number=Sing	25	nmod	25:nmod:in	Entity=21)20)|Lem=*LOWER*|Len=7|SpaceAfter=No
 29	_	_	PUNCT	''	_	25	punct	25:punct	Entity=16)|Lem=_|Len=1|SpaceAfter=No|XML=</quote>
 30	_	_	PUNCT	,	_	31	punct	31:punct	Lem=_|Len=1
@@ -62,7 +62,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 38	_	_	PROPN	NNP	Number=Sing	37	obj	37:obj	Entity=(23-object-new-nnnnn-cf7-1,2-coref|Lem=_|Len=4
 39	_	_	PROPN	NNP	Number=Sing	38	flat	38:flat	Entity=23)|Lem=_|Len=4|SpaceAfter=No
 40	_	_	PUNCT	,	_	34	punct	34:punct	Lem=_|Len=1
-41	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	43	nsubj	43:nsubj	Discourse=attribution-positive:18->19:0:sem-atsrc-168-_+lex-indwd-170-_|Entity=(24-person-acc:com-n____-cf4-1-ana)|Lem=_|Len=3
+41	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	43	nsubj	43:nsubj	Discourse=attribution-positive:18->19:0:sem-atsrc-168-_+lex-indwd-170-_|Entity=(24-person-acc:com-nnnnn-cf4-1-ana)|Lem=_|Len=3
 42	_	_	AUX	MD	VerbForm=Fin	43	aux	43:aux	Lem=_|Len=5
 43	_	_	VERB	VB	VerbForm=Inf	19	conj	7:ccomp|19:conj:and	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=43:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis|Lem=_|Len=5
 44	_	_	PRON	DT	Number=Sing|PronType=Dem	47	nsubj	47:nsubj	Discourse=same-unit_m:19->15:0:_|Entity=(17-event-giv:act-nnnnn-cf1-1-coref)|Lem=_|Len=4

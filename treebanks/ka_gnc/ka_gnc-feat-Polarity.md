@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (55; 100% of non-empty `Polarity`): <em>შეუძლებელი, შეუმჩნევლად, ამოუღებლად, გაუგებარი, გაუვალ, გაუთავებელი, მოუსვენარი, უცნობ, აუტანელი, აუღელვებლად</em>
-* `EMPTY` (1530): <em>სხვა, დიდი, პატარა, ახალი, საკუთარი, ერთადერთი, ახალ, მძიმე, ლამაზი, რამ</em>
+* `EMPTY` (1583): <em>სხვა, დიდი, პატარა, ახალი, საკუთარი, ერთადერთი, ახალ, მძიმე, ახალგაზრდა, ლამაზი</em>
 
 `Polarity` seems to be **lexical feature** of `ADJ`. 100% lemmas (35) occur only with one value of `Polarity`.
 

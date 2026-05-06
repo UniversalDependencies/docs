@@ -9,20 +9,20 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Post`, `Prep`.
 
-1776 tokens (7%) have a non-empty value of `AdpType`.
+1824 tokens (7%) have a non-empty value of `AdpType`.
 59 types (2%) occur at least once with a non-empty value of `AdpType`.
 41 lemmas (2%) occur at least once with a non-empty value of `AdpType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (1776; 7% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (1824; 7% instances).
 
 ### `ADP`
 
-1776 <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> tokens (99% of all `ADP` tokens) have a non-empty value of `AdpType`.
+1824 <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> tokens (99% of all `ADP` tokens) have a non-empty value of `AdpType`.
 
-The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (1563; 88%).
+The most frequent other feature values with which `ADP` and `AdpType` co-occurred: <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (1604; 88%).
 
 `ADP` tokens may have the following values of `AdpType`:
 
-* `Post` (1766; 99% of non-empty `AdpType`): <em>upé, kití, suí, irumu, rupí, supé, arama, xupé, resé, ramé</em>
+* `Post` (1814; 99% of non-empty `AdpType`): <em>upé, kití, suí, irumu, rupí, supé, arama, xupé, resé, ramé</em>
 * `Prep` (10; 1% of non-empty `AdpType`): <em>até, té</em>
 
 <table>

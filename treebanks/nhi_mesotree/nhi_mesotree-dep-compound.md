@@ -1,47 +1,31 @@
 ---
 layout: base
-title:  'Statistics of compound in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of compound in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `compound`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `compound`
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `compound`.
+5 nodes (0%) are attached to their parents as `compound`.
 
-4 instances of `compound` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5.
+5 instances of `compound` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.4.
 
-The following 3 pairs of parts of speech are connected with `compound`: <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (2; 50% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 25% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 25% instances).
+The following 3 pairs of parts of speech are connected with `compound`: <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt> (3; 60% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (1; 20% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 compound	color:blue
-1	Nikah	nikah	ADV	_	_	10	advmod	10:advmod	NormalizedForm=nikah|NormalizedLemma=nikah
-2	San	san	PROPN	_	_	1	appos	1:appos	NormalizedForm=san|NormalizedLemma=san
-3	Francisco	francisco	PROPN	_	_	2	flat	2:flat	NormalizedForm=francisco|NormalizedLemma=francisco
-4	ich	tich	NOUN	_	Number=Sing	10	obl	10:obl	NormalizedForm=ich|NormalizedLemma=tich|NounType=Relat|Number[psor]=Sing|Person[psor]=3
-5	n	in	DET	_	_	6	det	6:det	NormalizedForm=n|NormalizedLemma=n
-6	mil	mil	NUM	_	_	4	nmod	4:nmod	NormalizedForm=mil|NormalizedLemma=mil
-7	novecientos	novecientos	NUM	_	_	6	compound	6:compound	NormalizedForm=novecientos|NormalizedLemma=novecientos
-8	ocho	o	NUM	_	_	6	compound	6:compound	NormalizedForm=ocho|NormalizedLemma=o|SpaceAfter=No
-9	,	,	PUNCT	_	_	4	punct	4:punct	NormalizedForm=,|NormalizedLemma=,
-10	opanok	panoa	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=panok|NormalizedLemma=panoa|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|wordform=panok
-11	se	se	DET	_	_	12	det	12:det	NormalizedForm=se|NormalizedLemma=se
-12	guerra	guerra	NOUN	_	Foreign=Yes|Gender=Fem|Number=Sing	10	nsubj	10:nsubj	NormalizedForm=guerra|NormalizedLemma=guerra
-13	wan	wan	CCONJ	_	_	14	cc	14:cc	NormalizedForm=wan|NormalizedLemma=wan
-14	opanok	panoa	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	10	conj	10:conj	NormalizedForm=panok|NormalizedLemma=panoa|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|wordform=panok
-15	non	non	DET	_	_	16	det	16:det	NormalizedForm=non|NormalizedLemma=non
-16	guerra	guerra	NOUN	_	Foreign=Yes|Gender=Fem|Number=Sing	14	nsubj	14:nsubj	NormalizedForm=guerra|NormalizedLemma=guerra
-17	nikah	nikah	ADV	_	_	14	advmod	14:advmod	NormalizedForm=nikah|NormalizedLemma=nikah
-18	San	san	PROPN	_	_	17	appos	17:appos	NormalizedForm=san|NormalizedLemma=san
-19	Francisco	francisco	PROPN	_	_	18	flat	18:flat	NormalizedForm=francisco|NormalizedLemma=francisco|SpaceAfter=No
-20	.	.	PUNCT	_	_	10	punct	10:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 compound	color:blue
+1	Nahui	naui	NUM	_	_	3	nummod	3:nummod	_
+2	cien	cien	NUM	_	_	1	compound	1:compound	_
+3	peso	peso	NOUN	_	_	0	root	0:root	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	3:punct	_
 
 ~~~
 

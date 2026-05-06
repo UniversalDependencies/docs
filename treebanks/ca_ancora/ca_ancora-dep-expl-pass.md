@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Catalan-AnCora: Relations: `expl:pass`
 
 This relation is a language-specific subtype of <tt><a href="ca_ancora-dep-expl.html">expl</a></tt>.
+There are also 2 other language-specific subtypes of `expl`: <tt><a href="ca_ancora-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ca_ancora-dep-expl-pv.html">expl:pv</a></tt>.
 
-514 nodes (0%) are attached to their parents as `expl:pass`.
+518 nodes (0%) are attached to their parents as `expl:pass`.
 
-500 instances of `expl:pass` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.57198443579767.
+503 instances of `expl:pass` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.57528957528958.
 
-The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (504; 98% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (3; 1% instances).
+The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (508; 98% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (3; 1% instances).
 
 
 ~~~ conllu
@@ -67,13 +68,13 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 2	platea	platea	NOUN	ncfs000	Gender=Fem|Number=Sing	19	nsubj	19:nsubj	SpaceAfter=No|ArgTem=arg0:agt
 3	,	,	PUNCT	fc	PunctType=Comm	5	punct	5:punct	_
 4	que	que	PRON	pr0cn000	PronType=Rel	5	nsubj	5:nsubj	ArgTem=arg0:agt|Entity=(CESSCATA20010302159c9--1-CorefType:ident,gstype:gen)
-5	sap	saber	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	2:acl	_
+5	sap	saber	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
 6	els	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	8:det	Entity=(CESSCATA20010302159c14--3-gstype:gen,HomoDD
 7	mals	mal	ADJ	aq0mp0	Gender=Masc|Number=Plur	8	amod	8:amod	_
 8	moments	moment	NOUN	ncmp000	Gender=Masc|Number=Plur	5	obj	5:obj	ArgTem=arg1:pat
 9	que	que	PRON	pr0cn000	PronType=Rel	11	nsubj	11:nsubj	ArgTem=arg1:pat|Entity=(CESSCATA20010302159c14--1-CorefType:ident,gstype:gen)
 10	es	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	obj	11:obj	_
-11	passen	passar	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl	8:acl	_
+11	passen	passar	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	8:acl:relcl	_
 12	quan	quan	SCONJ	cs	_	16	mark	16:mark	_
 13	s'	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl:pass	16:expl:pass	SpaceAfter=No
 14	és	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	16:cop	ArgTem=argM:tmp

@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 60459 tokens (62%) have a non-empty value of `Number`.
 18110 types (99%) occur at least once with a non-empty value of `Number`.
 8553 lemmas (89%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23810; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10967; 11% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (7771; 8% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7408; 8% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (6054; 6% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3486; 4% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (684; 1% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (279; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23810; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10967; 11% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (7771; 8% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7408; 8% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (6054; 6% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3484; 4% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (686; 1% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (279; 0% instances).
 
 ### `NOUN`
 
@@ -156,14 +156,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `DET`
 
-3486 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Number`.
+3484 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3115; 89%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3114; 89%), <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2724; 78%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3113; 89%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3112; 89%), <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2722; 78%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (1103; 32% of non-empty `Number`): <em>koji, koje, svoje, kojima, sve, neki, koja, svojih, svi, svih</em>
-* `Sing` (2383; 68% of non-empty `Number`): <em>koji, to, koja, ove, toga, koju, taj, svoj, tom, svoju</em>
+* `Sing` (2381; 68% of non-empty `Number`): <em>koji, to, koja, ove, toga, koju, taj, svoj, tom, svoju</em>
 * `EMPTY` (153): <em>nekoliko, više, puno, koliko, mnogo, toliko, malo, manje, neko, odsto</em>
 
 <table>
@@ -191,14 +191,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PRON`
 
-684 <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> tokens (28% of all `PRON` tokens) have a non-empty value of `Number`.
+686 <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> tokens (29% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (684; 100%), <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (682; 100%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (573; 84%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (390; 57%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (364; 53%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (686; 100%), <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (682; 99%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (573; 84%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (390; 57%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (364; 53%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (236; 35% of non-empty `Number`): <em>oni, ih, mi, im, njih, nam, nas, njima, one, nama</em>
-* `Sing` (448; 65% of non-empty `Number`): <em>on, ona, ga, njega, mu, ono, je, ja, joj, mi</em>
+* `Plur` (236; 34% of non-empty `Number`): <em>oni, ih, mi, im, njih, nam, nas, njima, one, nama</em>
+* `Sing` (450; 66% of non-empty `Number`): <em>on, ona, ga, njega, mu, ono, je, ja, joj, mi</em>
 * `EMPTY` (1719): <em>se, što, šta, ko, ništa, niko, nešto, sebe, čime, neko</em>
 
 <table>
@@ -255,13 +255,13 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="sr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8290; 93%),
-<tt>NOUN --[<tt><a href="sr_set-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4026; 64%),
+<tt>NOUN --[<tt><a href="sr_set-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4644; 64%),
 <tt>VERB --[<tt><a href="sr_set-dep-aux.html">aux</a></tt>]--> AUX</tt> (2975; 87%),
 <tt>VERB --[<tt><a href="sr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2788; 86%),
 <tt>VERB --[<tt><a href="sr_set-dep-obl.html">obl</a></tt>]--> NOUN</tt> (2313; 60%),
 <tt>NOUN --[<tt><a href="sr_set-dep-det.html">det</a></tt>]--> DET</tt> (1675; 99%),
+<tt>NOUN --[<tt><a href="sr_set-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1518; 74%),
 <tt>VERB --[<tt><a href="sr_set-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1447; 53%),
-<tt>NOUN --[<tt><a href="sr_set-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (1411; 73%),
 <tt>PROPN --[<tt><a href="sr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (1312; 99%),
 <tt>NOUN --[<tt><a href="sr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1185; 75%).
 

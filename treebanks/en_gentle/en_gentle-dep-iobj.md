@@ -39,14 +39,14 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 iobj	color:blue
-1	Pay	pay	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=elaboration-additional:37->26:2:_
+1	Pay	pay	VERB	VB	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	0:root	Discourse=elaboration-additional:37->26:2:ref-prs-249,303-_
 2	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	3:nmod:poss	Entity=(57-person-new-nnnnn-cf5-2-sgl(12-person-giv:inact-ssssn-cf3-1-ana-Bugha_%28gamer%29)
 3	butler	butler	NOUN	NN	Number=Sing	1	iobj	1:iobj|5:nsubj:xsubj	Entity=57)
 4	to	to	PART	TO	_	5	mark	5:mark	_
 5	do	do	VERB	VB	VerbForm=Inf	1	xcomp	1:xcomp	_
 6	that	that	PRON	DT	Number=Sing|PronType=Dem	5	obj	5:obj	Entity=(55-event-giv:inact-nnnnn-cf2-1-coref)|SpaceAfter=No
 7	,	.	PUNCT	.	_	9	punct	9:punct	_
-8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	Discourse=attribution-positive:38->37:0:_|Entity=(11-person-giv:inact-snnns-cf1-1-ana)
+8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	Discourse=attribution-positive:38->37:0:sem-atsrc-309-_+lex-indwd-310-_|Entity=(11-person-giv:inact-snnns-cf1-1-ana)
 9	guess	guess	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	1:parataxis	_
 10	at	at	ADP	IN	_	12	case	12:case	Discourse=same-unit_m:39->37:1:_
 11	that	that	DET	DT	Number=Sing|PronType=Dem	12	det	12:det	Entity=(53-event-giv:inact-nnnnn-cf4-2-coref
@@ -62,19 +62,19 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 11 iobj	color:blue
-1	If	if	SCONJ	IN	_	5	mark	5:mark	Discourse=contingency-condition:66->67:0:dm-if-366-_|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:366:373-380:367-372;Implicit:Comparison.Contrast:but:_:352-365:366-380
+1	If	if	SCONJ	IN	_	5	mark	5:mark	Discourse=contingency-condition:66->67:0:dm-if-366-gold|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:366:373-380:367-372;Implicit:Comparison.Contrast:but:_:352-365:366-380
 2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	Entity=(79-person-giv:act-nnnnn-cf1*-1-ana)
 3	do	do	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
 4	not	not	PART	RB	Polarity=Neg	5	advmod	5:advmod	Negation=Yes
 5	have	have	VERB	VB	VerbForm=Inf	9	advcl	9:advcl:if	CxnElt=9:Conditional-UnspecifiedEpistemic-NoInversion.Protasis
-6	access	access	NOUN	NN	Number=Sing	5	obj	5:obj	Entity=(93-abstract-new-nnnnn-cf2-1-sgl)|SpaceAfter=No
+6	access	access	NOUN	NN	Number=Sing	5	obj	5:obj	Bridge=1<93:entity-associative|Entity=(93-abstract-acc:inf-nnnnn-cf2-1-sgl)|SpaceAfter=No
 7	,	,	PUNCT	,	_	5	punct	5:punct	_
-8	please	please	INTJ	UH	_	9	discourse	9:discourse	Discourse=adversative-contrast_m:67->65:1:_
-9	email	email	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=9:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis
-10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	Entity=(94-person-new-nnnnn-cf3-2-sgl
+8	please	please	INTJ	UH	_	9	discourse	9:discourse	Discourse=adversative-contrast_m:67->65:1:sem-mrnym-363,371-_+sem-mrnym-363,375-376-_
+9	email	email	VERB	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=9:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	11:det	Bridge=1<94:entity-associative|Entity=(94-person-acc:inf-nnnnn-cf3-2-sgl
 11	TA	TA	PROPN	NNP	Number=Sing	9	iobj	9:iobj	Entity=94)
 12	or	or	CCONJ	CC	_	14	cc	14:cc	_
-13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	Entity=(95-person-new-nnnnn-cf4-2-sgl
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	14:det	Bridge=1<95:entity-associative|Entity=(95-person-acc:inf-nnnnn-cf4-2-sgl
 14	Professor	Professor	PROPN	NNP	Number=Sing	11	conj	9:iobj|11:conj:or	Entity=95)|MSeg=Profess-or|SpaceAfter=No
 15	.	.	PUNCT	.	_	9	punct	9:punct	_
 

@@ -6,52 +6,51 @@ udver: '2'
 
 ## Treebank Statistics: UD_Romanian-RRT: POS Tags: `PART`
 
-There are 4 `PART` lemmas (0%), 8 `PART` types (0%) and 4885 `PART` tokens (2%).
+There are 5 `PART` lemmas (0%), 7 `PART` types (0%) and 4885 `PART` tokens (2%).
 Out of 16 observed tags, the rank of `PART` is: 15 in number of lemmas, 16 in number of types and 13 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>să, nu, a, o</em>
+The 10 most frequent `PART` lemmas: <em>să, nu, a, o, vrea</em>
 
-The 10 most frequent `PART` types:  <em>să, nu, a, n-, s-, a-, o, -a</em>
+The 10 most frequent `PART` types:  <em>să, nu, a, n-, s-, o, -o</em>
 
-The 10 most frequent ambiguous lemmas: <em>să</em> (<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 2409, <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> 1), <em>a</em> (<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 840, <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> 65, <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> 30, <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 2), <em>o</em> (<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 10, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>să</em> (<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 2409, <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> 1), <em>a</em> (<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 840, <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> 65, <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> 33), <em>o</em> (<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 9, <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> 1), <em>vrea</em> (<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> 549, <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> 45, <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>să</em> (<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 2336, <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 1), <em>a</em> (<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> 2130, <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 1596, <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 811, <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> 65, <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> 30), <em>s-</em> (<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 590, <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 41), <em>o</em> (<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 1814, <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 187, <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 9, <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> 7, <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> 1), <em>-a</em> (<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> 26, <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 23, <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 1, <tt><a href="ro_rrt-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>să</em> (<tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 2336, <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 1), <em>a</em> (<tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> 2139, <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 1599, <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 824, <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> 65, <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> 33), <em>s-</em> (<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 590, <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 41), <em>o</em> (<tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 1815, <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 187, <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> 27, <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> 9, <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 8, <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> 1), <em>-o</em> (<tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 81, <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 3, <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 1)
 
 
 * <em>să</em>
   * <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 2336: <em>Cum puteai <b>să</b> comunici cu viitorul ?</em>
   * <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 1: <em>Ianoș rău <b>să</b> mânia .</em>
 * <em>a</em>
-  * <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> 2130: <em>S- <b>a</b> stricat ceva la tele-ecran .</em>
-  * <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 1596: <em>Regalitatea literară <b>a</b> lui A. se întemeiază îndeosebi pe faima de poet .</em>
-  * <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 811: <em>Sunt de partea ta , păruse <b>a</b> -i spune O'Brien .</em>
+  * <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> 2139: <em>S- <b>a</b> stricat ceva la tele-ecran .</em>
+  * <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 1599: <em>Regalitatea literară <b>a</b> lui A. se întemeiază îndeosebi pe faima de poet .</em>
+  * <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 824: <em>Sunt de partea ta , păruse <b>a</b> -i spune O'Brien .</em>
   * <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> 65: <em>( c ) Ordinea descrisă la ( <b>a</b> ) și ( b ) se repetă de două ori .</em>
-  * <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> 30: <em>Holul blocului mirosea <b>a</b> varză călită și <b>a</b> preșuri vechi .</em>
+  * <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> 33: <em>Transilvania , parte de- <b>a</b> lungul Evului Mediu a Regatului Ungariei</em>
 * <em>s-</em>
   * <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 590: <em>Muncitorii <b>s-</b> au culcat .</em>
   * <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 41: <em>Și , ca el , la gard prostia cine mai știa <b>s-</b> o lege ?</em>
 * <em>o</em>
-  * <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 1814: <em>Tele-ecranul dădea acum <b>o</b> muzică stridentă , militărească .</em>
+  * <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 1815: <em>Tele-ecranul dădea acum <b>o</b> muzică stridentă , militărească .</em>
   * <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 187: <em>Și , ca el , la gard prostia cine mai știa s- <b>o</b> lege ?</em>
   * <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> 27: <em>Camera <b>o</b> sută unu , zise ofițerul .</em>
-  * <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 9: <em>i- am răspuns eu , curios la culme să aud ce- <b>o</b> să urmeze .</em>
-  * <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> 7: <em>De pildă , cred c- <b>o</b> să te frapeze restrângerea numărului de verbe .</em>
+  * <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> 9: <em>De pildă , cred c- <b>o</b> să te frapeze restrângerea numărului de verbe .</em>
+  * <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 8: <em>Te recomand eu și <b>o</b> să dea voie să scrii acolo .</em>
   * <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> 1: <em>Într- o zi senină și friguroasă de aprilie , pe când ceasurile băteau ora treisprezece , Winston Smith , cu bărbia înfundată în piept pentru a scăpa de vântul care -l lua pe sus , se strecură iute prin ușile de sticlă ale Blocului Victoria , deși nu destul de repede pentru a împiedica un vârtej de praf și nisip să pătrundă <b>o</b> dată cu el .</em>
-* <em>-a</em>
-  * <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> 26: <em>N- ați auzit ce <b>-a</b> zis după ce i- ați bușit mutra .</em>
-  * <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 23: <em>A nimerit la clasa a VII <b>-a</b> reală , tocmai la o teză de Matematici .</em>
-  * <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 1: <em>De mic , o , tată , m- ai crescut în dorul De <b>-a</b> tălmăci a firii largă carte .</em>
-  * <tt><a href="ro_rrt-pos-X.html">X</a></tt> 1: <em>Numele maghiar al orașului ( Jászvásár ) înseamnă mot <b>-a</b> - mot „ Piața ( Târgul ) jassilor „ ; numele vechi românesc , Târgul Ieșilor ( și forma alternativă Iașii ) , ar putea avea aceeași semnificație .</em>
+* <em>-o</em>
+  * <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> 81: <em>Stăpâniți <b>-o</b> pe Joiana , voi , băieți , când n- oi mai fi .</em>
+  * <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> 3: <em>Părâuiui se tânguește <b>-o</b> floare : Ce blând erai în vremuri mai senine !</em>
+  * <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> 1: <em>i- am răspuns eu , curios la culme să aud ce <b>-o</b> să urmeze .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 2.000000 (the average of all parts of speech is 1.814866).
+The form / lemma ratio of `PART` is 1.400000 (the average of all parts of speech is 1.819791).
 
-The 1st highest number of forms (3) was observed with the lemma “a”: <em>-a, a, a-</em>.
+The 1st highest number of forms (2) was observed with the lemma “nu”: <em>n-, nu</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “nu”: <em>n-, nu</em>.
+The 2nd highest number of forms (2) was observed with the lemma “să”: <em>s-, să</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “să”: <em>s-, să</em>.
+The 3rd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
 `PART` occurs with 6 features: <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt> (2409; 49% instances), <tt><a href="ro_rrt-feat-Polarity.html">Polarity</a></tt> (1626; 33% instances), <tt><a href="ro_rrt-feat-PartType.html">PartType</a></tt> (840; 17% instances), <tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt> (140; 3% instances), <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt> (10; 0% instances), <tt><a href="ro_rrt-feat-ExtPos.html">ExtPos</a></tt> (5; 0% instances)
 

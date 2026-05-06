@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Tommi A Pirinen.
 
 Repository: [UD_Karelian-KKPP](https://github.com/UniversalDependencies/UD_Karelian-KKPP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkrl_kkpp217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkrl_kkpp218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -765,20 +765,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Nom (1)</li>
       <li>VERB--NOUN-Par (2)</li>
       <li>VERB--PRON-Par (1)</li>
-      <li>VERB-Fin--NOUN-Gen (16)</li>
+      <li>VERB-Fin--NOUN-Gen (13)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(nimeltäh) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (33)</li>
-      <li>VERB-Fin--NOUN-Par (77)</li>
+      <li>VERB-Fin--NOUN-Nom (31)</li>
+      <li>VERB-Fin--NOUN-Par (72)</li>
       <li>VERB-Fin--PRON-Acc (2)</li>
       <li>VERB-Fin--PRON-Gen (2)</li>
-      <li>VERB-Fin--PRON-Nom (3)</li>
+      <li>VERB-Fin--PRON-Nom (4)</li>
       <li>VERB-Fin--PRON-Par (12)</li>
       <li>VERB-Inf--NOUN-Gen (2)</li>
-      <li>VERB-Inf--NOUN-Nom (5)</li>
+      <li>VERB-Inf--NOUN-Nom (6)</li>
       <li>VERB-Inf--NOUN-Par (24)</li>
       <li>VERB-Inf--PRON-Ela (1)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Inf--PRON-Par (7)</li>
       <li>VERB-Part--NOUN-Nom (4)</li>
       <li>VERB-Part--NOUN-Par (1)</li>

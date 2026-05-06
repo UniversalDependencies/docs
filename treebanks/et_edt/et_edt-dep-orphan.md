@@ -25,7 +25,7 @@ The following 47 pairs of parts of speech are connected with `orphan`: <tt><a hr
 1	Sonja	Sonja	PROPN	S	Case=Gen|Number=Sing	2	nmod	2:nmod	NE=B-Per
 2	isa	isa	NOUN	S	Case=Nom|Number=Sing	5	nsubj	5:nsubj	Arg=tulema_Arg_0
 3	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
-4	Shveitsi	Shveits	PROPN	S	Case=Add|Number=Sing	5	obl	5:obl	Arg=tulema_Arg_3|NE=B-Loc
+4	Shveitsi	Shveits	PROPN	S	Case=Add|Number=Sing	5	obl:lmod	5:obl	Arg=tulema_Arg_3|NE=B-Loc
 5	tulnud	tulema	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	Verb=tulema_1
 6	juba	juba	ADV	D	_	7	advmod	7:advmod	_
 7	12	12	NUM	N	NumForm=Digit|NumType=Card	5	obl	5:obl	_

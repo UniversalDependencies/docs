@@ -46,8 +46,8 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 11 obl:agent	color:blue
-1	Mientras	mientras	ADP	IN	_	9	discourse	_	_
-2	tanto	tanto	ADV	RB	_	1	fixed	_	SpaceAfter=No
+1	Mientras	mientras	SCONJ	IN	ExtPos=ADV	9	advmod	_	_
+2	tanto	tanto	PRON	RB	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	,	PunctType=Comm	1	punct	_	_
 4	su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	puesto	puesto	NOUN	NN	Gender=Masc|Number=Sing	9	nsubj:pass	_	_

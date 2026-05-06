@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2 nodes (0%) are attached to their parents as `dep`.
+3 nodes (0%) are attached to their parents as `dep`.
 
-1 instances of `dep` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.
+2 instances of `dep` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.66666666666667.
 
-The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 50% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 50% instances).
+The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 33% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 33% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -44,6 +44,41 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 20	په	پۀ	ADP	_	Case=Loc	21	case	_	Translit=pë|LTranslit=pë|Gloss=at
 21	توګه	توګه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	2	dep	_	Translit=tóga|LTranslit=tóga|Gloss=way|SpaceAfter=No
 22	:	:	PUNCT	_	_	2	punct	_	Translit=:|LTranslit=:|Gloss=:|SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
+# visual-style 23	bgColor:blue
+# visual-style 23	fgColor:white
+# visual-style 23 17 dep	color:blue
+1	د	د	ADP	_	Case=Acc	3	case	_	Translit=dë|LTranslit=dë|Gloss=of
+2	دغې	دغه	DET	_	Case=Acc|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem|Variant=Long	3	det	_	Translit=dáġe|LTranslit=dáġa|Gloss=this
+3	طرحې	طرحه	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	nmod	_	Translit=tárhe|LTranslit=tárha|Gloss=plan
+4	د	د	ADP	_	Case=Acc	6	case	_	Translit=dë|LTranslit=dë|Gloss=of
+5	عملي	_	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	6	xcomp	_	Translit=amalí|LTranslit=|Gloss=in-practice
+6	کولو	کول	VERB	_	Aspect=Imp|Case=Acc|VerbForm=Inf	13	obl	_	Translit=kawë́lo|LTranslit=kawë́l|Gloss=making
+7	لپاره	لپاره	ADP	_	Case=Acc	6	case	_	Translit=lapấra|LTranslit=lapấra|Gloss=for
+8	نه	نۀ	PART	_	Polarity=Neg	13	advmod	_	Translit=në|LTranslit=në|Gloss=not
+9	کومه	کوم	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	11	det	_	Translit=kúma|LTranslit=kum|Gloss=any
+10	ځانګړې	ځانګړی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	11	amod	_	Translit=żângë́ṛe|LTranslit=żângë́ṛay|Gloss=special
+11	بودجه	بودجه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	obj	_	Translit=budiǰá|LTranslit=budiǰá|Gloss=budget
+12	بېله	بېل	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	13	compound:lvc	_	Translit=béla|LTranslit=bel|Gloss=separated
+13	کړای	کول	VERB	_	Aspect=Perf|Mood=Cnd|Variant=Short|VerbForm=Fin	0	root	_	Translit=kṛây|LTranslit=kawë́l|Gloss=do
+14	شوه	کېدل	AUX	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|Variant=Short|VerbForm=Fin	13	aux:pot	_	Translit=šwa|LTranslit=kedë́l|Gloss=could|SpaceAfter=No
+15	،	،	PUNCT	_	_	23	punct	_	Translit=,|LTranslit=,|Gloss=,
+16	نه	نۀ	PART	_	Polarity=Neg	23	advmod	_	Translit=në|LTranslit=në|Gloss=not
+17	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	23	dep	_	Translit=ye|LTranslit=ye|Gloss=they
+18	هم	هم	ADV	_	_	23	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
+19	مسلکي	مسلکي	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	22	amod	_	Translit=maslakí|LTranslit=maslakí|Gloss=professional
+20	او	او	CCONJ	_	_	21	cc	_	Translit=aw|LTranslit=aw|Gloss=and
+21	پاخه	پوخ	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	19	conj	_	Translit=pâxë́|LTranslit=pox|Gloss=ripe
+22	کسان	کس	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	23	nsubj:pass	_	Translit=kasấn|LTranslit=kas|Gloss=people
+23	وګومارل	ګومارل	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	13	conj	_	Translit=wë́gumârël|LTranslit=gumârë́l|Gloss=appointed
+24	شول	کېدل	AUX	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	aux:pass	_	Translit=šwël|LTranslit=kedë́l|Gloss=were|SpaceAfter=No
+25	.	.	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -84,21 +119,21 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 28	اخیستلای	اخیستل	VERB	_	Aspect=Imp|Mood=Cnd|VerbForm=Fin	19	conj	_	Translit=axistë́lây|LTranslit=axistë́l|Gloss=take
 29	شي	کېدل	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	28	aux:pot	_	Translit=ši|LTranslit=kedë́l|Gloss=can|SpaceAfter=No
 30	،	،	PUNCT	_	_	48	punct	_	Translit=,|LTranslit=,|Gloss=,
-31	لکه	لکه	ADV	_	_	48	advmod	_	Translit=lë́ka|LTranslit=lë́ka|Gloss=like
-32	څنګه	څنګه	ADV	_	_	48	advmod	_	Translit=cë́nga|LTranslit=cë́nga|Gloss=how
-33	چې	چې	SCONJ	_	_	48	mark	_	Translit=če|LTranslit=če|Gloss=that
+31	لکه	لکه	SCONJ	_	ExtPos=SCONJ	48	mark	_	Translit=lë́ka|LTranslit=lë́ka|Gloss=like
+32	څنګه	څنګه	ADV	_	_	31	fixed	_	Translit=cë́nga|LTranslit=cë́nga|Gloss=how
+33	چې	چې	SCONJ	_	_	31	fixed	_	Translit=če|LTranslit=če|Gloss=that
 34	په	پۀ	ADP	_	Case=Loc	36	case	_	Translit=pë|LTranslit=pë|Gloss=at
 35	دې	دا	DET	_	Case=Loc|Deixis=Prox|PronType=Dem|Variant=Short	36	det	_	Translit=de|LTranslit=dâ|Gloss=this
 36	وروستیو	وروستی	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	48	obl	_	Translit=wrustë́yo|LTranslit=wrustáy|Gloss=recently
 37	کې	کې	ADP	_	Case=Loc	36	case	_	Translit=ke|LTranslit=ke|Gloss=in
 38	ښاغلي	ښاغلی	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	39	amod	_	Translit=x̌âġë́li|LTranslit=x̌âġë́lay|Gloss=Mr.
 39	جان	جان	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	48	nsubj	_	Translit=ǰân|LTranslit=ǰân|Gloss=John
-40	محمد	محمد	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	39	flat	_	Translit=muhámad|LTranslit=muhámad|Gloss=Muhammad
-41	کاکړ	کاکړ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	39	flat	_	Translit=kâkáṛ|LTranslit=kâkáṛ|Gloss=Kakar
+40	محمد	محمد	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	39	flat:name	_	Translit=muhámad|LTranslit=muhámad|Gloss=Muhammad
+41	کاکړ	کاکړ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	39	flat:name	_	Translit=kâkáṛ|LTranslit=kâkáṛ|Gloss=Kakar
 42	قدوري	قدوري	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	48	obj	_	Translit=qudurí|LTranslit=qudurí|Gloss=Quduri
 43	او	او	CCONJ	_	_	44	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 44	نور	نور	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	42	conj	_	Translit=nur|LTranslit=nur|Gloss=Nur
-45	ظلم	ظلم	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	44	flat	_	Translit=zë́lëm|LTranslit=zë́lëm|Gloss=Zalam
+45	ظلم	ظلم	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	44	flat:name	_	Translit=zë́lëm|LTranslit=zë́lëm|Gloss=Zalam
 46	په	پۀ	ADP	_	Case=Loc	47	case	_	Translit=pë|LTranslit=pë|Gloss=at
 47	پښتو	پښتو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	48	obl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 48	ژباړلي	ژباړل	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	28	advcl	_	Translit=žbâṛë́li|LTranslit=žbâṛë́l|Gloss=translated|SpaceAfter=No
@@ -111,7 +146,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 55	که	کۀ	SCONJ	_	_	58	mark	_	Translit=kë|LTranslit=kë|Gloss=if
 56	پښتو	پښتو	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	58	obl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 57	ته	ته	ADP	_	Case=Acc	56	case	_	Translit=ta|LTranslit=ta|Gloss=to
-58	واړول	اړول	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	63	advcl	_	Translit=wâṛawë́l|LTranslit=aṛawë́l|Gloss=changed
+58	واړول	اړول	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	63	advcl	_	Translit=wấṛawël|LTranslit=aṛawë́l|Gloss=changed
 59	شي	کېدل	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	58	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=became|SpaceAfter=No
 60	،	،	PUNCT	_	_	58	punct	_	Translit=,|LTranslit=,|Gloss=,
 61	هم	هم	ADV	_	_	63	advmod	_	Translit=ham|LTranslit=ham|Gloss=also

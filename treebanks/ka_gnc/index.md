@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Paul Meurer.
 
 Repository: [UD_Georgian-GNC](https://github.com/UniversalDependencies/UD_Georgian-GNC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udka_gnc217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udka_gnc218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -65,7 +65,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 
 ## Features
 
-[Abbr](ka_gnc-feat-Abbr.html) – [AdvType](ka_gnc-feat-AdvType.html) – [Animacy](ka_gnc-feat-Animacy.html) – [Case](ka_gnc-feat-Case.html) – [Encl](ka_gnc-feat-Encl.html) – [Evident](ka_gnc-feat-Evident.html) – [ExtPos](ka_gnc-feat-ExtPos.html) – [Mood](ka_gnc-feat-Mood.html) – [NameType](ka_gnc-feat-NameType.html) – [Number](ka_gnc-feat-Number.html) – [Number[io]](ka_gnc-feat-Number-io.html) – [Number[obj]](ka_gnc-feat-Number-obj.html) – [Number[psor]](ka_gnc-feat-Number-psor.html) – [Number[subj]](ka_gnc-feat-Number-subj.html) – [NumType](ka_gnc-feat-NumType.html) – [Person](ka_gnc-feat-Person.html) – [Person[io]](ka_gnc-feat-Person-io.html) – [Person[obj]](ka_gnc-feat-Person-obj.html) – [Person[subj]](ka_gnc-feat-Person-subj.html) – [Polarity](ka_gnc-feat-Polarity.html) – [Poss](ka_gnc-feat-Poss.html) – [PronType](ka_gnc-feat-PronType.html) – [Tense](ka_gnc-feat-Tense.html) – [VerbForm](ka_gnc-feat-VerbForm.html) – [Voice](ka_gnc-feat-Voice.html)
+[Abbr](ka_gnc-feat-Abbr.html) – [AdvType](ka_gnc-feat-AdvType.html) – [Animacy](ka_gnc-feat-Animacy.html) – [Case](ka_gnc-feat-Case.html) – [Encl](ka_gnc-feat-Encl.html) – [Evident](ka_gnc-feat-Evident.html) – [ExtPos](ka_gnc-feat-ExtPos.html) – [Mood](ka_gnc-feat-Mood.html) – [NameType](ka_gnc-feat-NameType.html) – [Number](ka_gnc-feat-Number.html) – [Number[io]](ka_gnc-feat-Number-io.html) – [Number[obj]](ka_gnc-feat-Number-obj.html) – [Number[psor]](ka_gnc-feat-Number-psor.html) – [Number[subj]](ka_gnc-feat-Number-subj.html) – [NumType](ka_gnc-feat-NumType.html) – [Person](ka_gnc-feat-Person.html) – [Person[io]](ka_gnc-feat-Person-io.html) – [Person[obj]](ka_gnc-feat-Person-obj.html) – [Person[subj]](ka_gnc-feat-Person-subj.html) – [Polarity](ka_gnc-feat-Polarity.html) – [Poss](ka_gnc-feat-Poss.html) – [PronType](ka_gnc-feat-PronType.html) – [Reflex](ka_gnc-feat-Reflex.html) – [Tense](ka_gnc-feat-Tense.html) – [VerbForm](ka_gnc-feat-VerbForm.html) – [Voice](ka_gnc-feat-Voice.html)
 
 ## Relations
 
@@ -75,11 +75,11 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 
 
 <ul>
-<li>This corpus contains 1818 sentences and 22547 tokens.</li>
+<li>This corpus contains 1878 sentences and 23425 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 5262 tokens (23%) that are not followed by a space.</li>
+<li>This corpus contains 5456 tokens (23%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -87,7 +87,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 </ul>
 
 <ul>
-<li>This corpus contains 73 types of words that contain both letters and punctuation. Examples: -მეთქი, კ-მ, კ-ს, ბ-ნ, დ., ერთ-ერთი, თვალ-ყური, კ., მე-15, ნელ-ნელა, პატარ-პატარა, ტოლ-ამხანაგებ, შეხლა-შემოხლის, 77-მა, ro-ro-ro-ს, ამხანაგ-მეგობრობას, არეულ-დარეულად, არსებობა-არარსებობისა, ასწონ-დასწონეთ, აქეთ-იქით, ბატონ-ყმობა, გ-ლ-ე-ხ-ი, გადასერ-გადმოსერეს, გაიარ-გამოიარა, გამვლელ-გამომვლელს, გოგო-ბიჭები, და-ძმა, დედ-მამის, დილ-დილაობით, ერთ-ერთ, ერთი-ორი, ექვსი-შვიდი, თავად-აზნაურებს, თითო-თითოდ, კუთხე-კუნჭულს, მეტ-ნაკლებად, მეტ-ნაკლები, მიალაგ-მოალაგა, მიგრეხილ-მოგრეხილი, მიიხედ-მოიხედა, მიხვეულ-მოხვეულ, მოვლა-პატრონობას, მოსწავლე-მასწავლებელთა, მხატვარ-პეიზაჟისტის, ნაზირ-ვეზირები, ნაირ-ნაირი, ნაცნობ-ამხანაგები, ოდა-სახლს, ორი-სამი, ორმოცი-ორმოცდაათი</li>
+<li>This corpus contains 76 types of words that contain both letters and punctuation. Examples: -მეთქი, კ-მ, კ-ს, ბ-ნ, ერთ-ერთი, დ., თვალ-ყური, კ., მე-15, ნელ-ნელა, პატარ-პატარა, ტოლ-ამხანაგებ, შეხლა-შემოხლის, 20-პუნქტიანი, 77-მა, ro-ro-ro-ს, ამხანაგ-მეგობრობას, არეულ-დარეულად, არსებობა-არარსებობისა, ასწონ-დასწონეთ, აქეთ-იქით, აშშ-, ბატონ-ყმობა, გ-ლ-ე-ხ-ი, გადასერ-გადმოსერეს, გაიარ-გამოიარა, გამვლელ-გამომვლელს, გოგო-ბიჭები, და-ძმა, დედ-მამის, დილ-დილაობით, ერთ-ერთ, ერთი-ორი, ექვსი-შვიდი, თავად-აზნაურებს, თითო-თითოდ, კუთხე-კუნჭულს, მეტ-ნაკლებად, მეტ-ნაკლები, მიალაგ-მოალაგა, მიგრეხილ-მოგრეხილი, მიიხედ-მოიხედა, მიხვეულ-მოხვეულ, მოვლა-პატრონობას, მოსწავლე-მასწავლებელთა, მხატვარ-პეიზაჟისტის, ნაზირ-ვეზირები, ნაირ-ნაირი, ნაცნობ-ამხანაგები, ოდა-სახლს</li>
 </ul>
 
 <ul>
@@ -133,8 +133,8 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: ა, იყო, არის, ხარ, ვარ, იქნება, ვიყავი, იქნებოდა, ვართ, ჰქონდა</li>
-    <li>VERB: ჰქონდა, თქვა, იდგა, უთხრა, აქვს, გავიდა, ვიცი, მოხდა, იყო, იცის</li>
+    <li>AUX: ა, იყო, არის, ხარ, ვარ, იქნება, იქნებოდა, ვიყავი, ვართ, ჰქონდა</li>
+    <li>VERB: ჰქონდა, იდგა, უთხრა, თქვა, აქვს, გავიდა, ვიცი, მოხდა, იყო, იცის</li>
   </ul>
   </li>
 </ul>
@@ -142,7 +142,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: დანარჩენი, შეუძლებელი, გამომძიებლის, განკუთვნილი, საწყალი, შესაძლებელი, დაზარალებულის, მოსალოდნელი, მყოფი, ნაბეჭდი</li>
+    <li>ADJ: დანარჩენი, შეუძლებელი, გამომძიებლის, განკუთვნილი, საოცარი, საწყალი, შესაძლებელი, დაზარალებულის, დანარჩენ, მოსალოდნელი</li>
     <li>VERB: დარწმუნებული, გატენილი, დამზადებული, აშენებული, მიღებული, მოკლებული, ამართული, ამოგლეჯილი, აღრენილი, აღძრული</li>
   </ul>
   </li>
@@ -153,7 +153,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
   <ul>
     <li>AUX: ყოფნაც</li>
     <li>NOUN: კითხვა, თქმა, გონება, კითხვას, კითხვებს, შეკითხვა, გაგება, გაცემა, კითხვები, მზერას</li>
-    <li>VERB: გამოტანისას, გახსნისას, სეირნობისას, შესვლისას, შეღამებისას</li>
+    <li>VERB: გახსნისას, სეირნობისას, შესვლისას, შეღამებისას</li>
   </ul>
   </li>
 </ul>
@@ -185,8 +185,8 @@ The Georgian treebank and the tools used to create it have been developed by Pau
       <li>ADJ: სხვები, სხვებ, სხვებს, თვალები, აპათიურთა, ბოროტნი, გულგრილთა, დამფრთხალნი, დაუპატიჟებლებმა, თავზარდაცემულნი</li>
       <li>ADJ-Part: დამფრთხალნი, დაუპატიჟებლებმა, მიმსვლელებ, მოკუნტულნი, მყოფთ, მყოფთა, მყოფნიც, შემსრულებლებს, წამოწოლილებს</li>
       <li>DET: ყველანი</li>
-      <li>NOUN: ადამიანები, თვალები, ადამიანებს, კითხვებს, ფილოსოფოსები, ხელები, ადამიანების, კითხვები, ქაღალდები, ბატონებო</li>
-      <li>NOUN-Vnoun: კითხვებს, კითხვები, კითხვებ, არჩევანიც, განმარტებანი, განმარტებები, გრძნობები, კბენანი, მითითებების, მიღწევების</li>
+      <li>NOUN: ადამიანები, თვალები, ადამიანებს, კითხვებს, ფილოსოფოსები, ხელები, ადამიანების, თვალებით, კითხვები, ქაღალდები</li>
+      <li>NOUN-Vnoun: კითხვებს, კითხვები, კითხვებ, არჩევანიც, განმარტებანი, განმარტებები, გრძნობები, დარტყმები, კბენანი, მითითებების</li>
       <li>PRON: ჩვენ, ისინი, მათ, თქვენ, რომლებიც, ჩვენს, ასეთები, თქვენს, ჩვენც, ასეთთა</li>
       <li>PROPN: კვაჭანტირაძენი</li>
     </ul>
@@ -196,13 +196,13 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: საჭირო, რამ, სხვის, შეუძლებელი, გამომძიებლის, დაზარალებულის, ზემო, კარგი, ნათელი, საინტერესო</li>
+      <li>ADJ: საჭირო, რამ, სხვის, შეუძლებელი, გამომძიებლის, საინტერესო, დაზარალებულის, ზემო, კარგი, ნათელი</li>
       <li>ADJ-Part: შეუძლებელი, გამომძიებლის, დაზარალებულის, სანახავად, შესაძლებელი, შეუმჩნევლად, ამოუღებლად, განკუთვნილი, გაოგნებული, დაბრუნებულს</li>
       <li>AUX-Vnoun: ყოფნაც</li>
       <li>DET: ზოგი, ყველაფერი, ყველას, ყველა, ყველაფერს, მეტი, ბევრი, ზოგიც, ყველაფრის, ბევრს</li>
-      <li>NOUN: დედა, ოთახ, დროს, დრო, კითხვა, წლის, სამყარო, კაცი, პასუხი, ადამიანი</li>
+      <li>NOUN: დედა, ოთახ, დრო, დროს, კითხვა, წლის, სამყარო, კაცი, პასუხი, ადამიანი</li>
       <li>NOUN-Vnoun: კითხვა, თქმა, გონება, კითხვას, შეკითხვა, გაგება, გაცემა, მზერას, სროლა, ჩვენება</li>
-      <li>PRON: მას, იგი, ეს, მე, ის, რომელიც, შენ, მის, რომელსაც, ამას</li>
+      <li>PRON: მას, იგი, ეს, მე, ის, რომელიც, შენ, მის, რომელსაც, ჩემ</li>
       <li>PROPN: თომასმა</li>
       <li>VERB-Part: დარწმუნებული, გატენილი, დამზადებული, აშენებული, მიღებული, მოკლებული, ამართული, ამოგლეჯილი, აღრენილი, აღძრული</li>
     </ul>
@@ -217,13 +217,13 @@ The Georgian treebank and the tools used to create it have been developed by Pau
   <li>Dat
     <ul>
       <li>ADJ: სხვა, ახალ, საკუთარ, საფოსტო, პატარა, ბოლო, დიდ, თეთრ, მშვენიერ, სამხედრო</li>
-      <li>ADJ-Part: გაშლილ, დაბრუნებულს, დანარჩენ, მდგარს, მოსაწყენ, მყოფ, მცხოვრებ, უცნობ, ამომავალს, ამომყვან</li>
-      <li>DET: მთელ, ყველა, ყოველ, არავითარ, ყველას, ყველაფერს, ყოველგვარ, ყოველივე, ყველაფერ, ერთ-ერთ</li>
+      <li>ADJ-Part: დანარჩენ, გაშლილ, დაბრუნებულს, მდგარს, მოსაწყენ, მყოფ, მცხოვრებ, უცნობ, წარსულს, ამომავალს</li>
+      <li>DET: ყველა, მთელ, ყველას, ყველაფერს, ყოველ, არავითარ, ყოველგვარ, ყველაფერ, ყოველივე, ბევრს</li>
       <li>NOUN: ოთახ, დროს, დედას, სახლ, ხელ, კარ, ხელს, თავს, ყუთ, გზა</li>
-      <li>NOUN-Vnoun: კითხვას, კითხვებს, მზერას, შეკითხვა, აცოცებას, ახსნას, გამოცვლას, გამოძიებას, დაკვრას, დაპირებას</li>
+      <li>NOUN-Vnoun: კითხვას, კითხვებს, მზერას, შეკითხვა, აცოცებას, ახსნას, გამოცვლას, გამოძიებას, დაკვრას, დანახვა</li>
       <li>NUM: ერთ, მეორე, პირველ, მეორეს, ოთხ, ორ, ათას, ათასნაირ, მესამეს, ოცდაათს</li>
-      <li>PRON: მას, ამ, თავის, რას, იმ, თავს, მის, ჩემს, მე, რომელსაც</li>
-      <li>PROPN: ერიკას, სოფის, კვაჭის, კვაჭიკოს, ანდრიევსკის, თუთაშხიას, სილიბისტროს, დათა, ალაჰს, სამტრედია</li>
+      <li>PRON: მას, ამ, თავის, იმ, მის, ჩემს, რას, მე, რომელსაც, ამას</li>
+      <li>PROPN: ერიკას, სოფის, კვაჭის, კვაჭიკოს, ანდრიევსკის, თუთაშხიას, სილიბისტროს, დათა, ალაჰს, თინას</li>
     </ul>
   </li>
 </ul>
@@ -231,14 +231,14 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 <ul>
   <li>Erg
     <ul>
-      <li>ADJ: ახალმა, ცოცხიანმა, ახალგაზრდა, ბერძენმა, თავზეხელაღებულმა, კერძო, პატარა, საიდუმლო, სამძებრო, სასიხარულო</li>
-      <li>ADJ-Part: გაბღენძილმა, გადამეტებულმა, გამოსულმა, გაოგნებულმა, დაეჭვებულმა, დასაყენებელმა, დაუპატიჟებლებმა, მიმზიდველმა, მოშიებულმა, ნაკეთებმა</li>
-      <li>DET: მთელმა, ყოველმა, ზოგმა</li>
+      <li>ADJ: ახალმა, ცოცხიანმა, ახალგაზრდა, ბერძენმა, თავზეხელაღებულმა, კერძო, პატარა, საბჭოთა, საიდუმლო, სამძებრო</li>
+      <li>ADJ-Part: გაბღენძილმა, გადამეტებულმა, გამოსულმა, გაოგნებულმა, გაოცებულმა, დაეჭვებულმა, დასაყენებელმა, დაუპატიჟებლებმა, მიმზიდველმა, მოშიებულმა</li>
+      <li>DET: ზოგმა, მთელმა, ყველამ, ყოველმა</li>
       <li>NOUN: დედამ, ქალმა, ძმამ, მეფემ, ქალბატონმა, ღმერთმა, დათამ, ადამიანმა, გამგემ, კაბამ</li>
       <li>NOUN-Vnoun: განგებამ, დახუჭვამ, თვალთვალმა, მოგონებამ, ჟრიამულმა, ძიებამ</li>
       <li>NUM: ათმა, ერთმა, მეორე</li>
-      <li>PRON: მან, მე, ამ, ვინ, ჩვენ, არავინ, თქვენ, მისმა, რამ, შენ</li>
-      <li>PROPN: სოფიმ, თუთაშხიამ, ნოტიომ, ცვირიმ, აშორდიამ, დათა, ვარდენ, ზარანდიამ, კ-მ, მექვაბიშვილმა</li>
+      <li>PRON: მან, მე, ამ, ვინ, ჩვენ, არავინ, თქვენ, მისმა, შენ, ჩვენმა</li>
+      <li>PROPN: სოფიმ, თუთაშხიამ, ნოტიომ, ცვირიმ, აშორდიამ, დათა, ვარდენ, ვარდენმა, ზარანდიამ, კ-მ</li>
     </ul>
   </li>
 </ul>
@@ -250,9 +250,9 @@ The Georgian treebank and the tools used to create it have been developed by Pau
       <li>ADJ-Part: სანახავად, შეუმჩნევლად, ამოუღებლად, გაუვალ, სამუშაოდ, სანადიროდ, საჭერად, წასასვლელად, არსებულ, ასაღებად</li>
       <li>DET: მეტ</li>
       <li>NOUN: ბოლო, დღე, აზრად, გვარად, მანეთად, საღამო, ქვეყნად, ადამიანად, ამბად, არსად</li>
-      <li>NOUN-Vnoun: გარდაცვალება, მიღება, შემოსვლა, წასვლა, ჭერა</li>
+      <li>NOUN-Vnoun: გამგზავრება, გარდაცვალება, გაცნობა, მიღება, სმენად, შემოსვლა, წასვლა, ჭერა</li>
       <li>NUM: ხუთ, ერთ, ოცა, ოცდახუთ, სამ, სამა, სამად</li>
-      <li>PRON: ამ, მის, რამედ, ჩვენს</li>
+      <li>PRON: ამ, მის, რამედ, რად, ჩვენს</li>
     </ul>
   </li>
 </ul>
@@ -262,13 +262,12 @@ The Georgian treebank and the tools used to create it have been developed by Pau
     <ul>
       <li>ADJ: სხვა, საკუთარი, დიდი, საშინაო, თავისუფალი, მუსიკალური, მძიმე, პატარა, ფილოსოფიური, შავი</li>
       <li>ADJ-Part: გამომძიებლის, დაზარალებულის, მომხდარი, ამოგლეჯილი, არსებული, არსებულის, გადამდგარი, გამოჩენილი, განვითარებული, გარდასული</li>
-      <li>DET: რამდენიმე, მთელი, ყველას, მეტი, ყველა, ყოველივე, ბევრი, ერთ-ერთი, ყველაფრის, ყოველგვარი</li>
-      <li>NOUN: წლის, ხნის, დედის, ადამიანის, სახლის, გულის, სიკვდილის, დედოფალ, ოქროს, სამარის</li>
+      <li>DET: რამდენიმე, ყველას, მთელი, ერთ-ერთი, მეტი, ყველა, ყველაფრის, ყოველივე, ბევრი, ყველასა</li>
+      <li>NOUN: წლის, ხნის, დედის, სახლის, ადამიანის, გულის, სიკვდილის, დედოფალ, ოქროს, პასუხის</li>
       <li>NOUN-Vnoun: განცვიფრების, დაბადების, ბრძანებისა, დაკითხვის, დაკრძალვის, ზედამხედველობის, თვალთვალის, კითხვის, საუბრის, შეკითხვის</li>
       <li>NUM: ერთი, ოცი, სამი, ათასი, ორი, პირველი, ხუთი, მეორე, ოთხი, ერთის</li>
-      <li>PRON: მის, ამ, იმის, ამის, თავის, თავისი, მისი, ჩემი, ჩემ, იმ</li>
+      <li>PRON: მის, ამ, იმის, ამის, თავისი, მისი, ჩემ, ჩემი, იმ, თავის</li>
       <li>PROPN: თუთაშხიას, სოფის, ერიკას, დათა, სილიბისტროს, კვაჭანტირაძის, სეგედის, კვაჭის, ნეფერტიტის, ანდრიევსკის</li>
-      <li>VERB-Part: ჩადენილ</li>
     </ul>
   </li>
 </ul>
@@ -279,10 +278,10 @@ The Georgian treebank and the tools used to create it have been developed by Pau
       <li>ADJ: უჩვეულო, დიდი, ახალი, მძიმე, სხვა, უკანა, ღრმა, ზემო, აკანკალებული, ალერსიანი</li>
       <li>ADJ-Part: საოცარი, გაკრული, გამაოგნებელი, გაუგებარი, დარჩენილი, მეტყველი, მისალოცი, მიწოდებული, მკვდარი, მოკრუნჩხული</li>
       <li>DET: მთელი, რამდენიმე</li>
-      <li>NOUN: მოდი, მხრი, სახლი, სამსახური, სახით, სკოლი, ღიმილით, ცილინდრი, წამით, აზრით</li>
+      <li>NOUN: მოდი, მხრი, სახლი, ღიმილით, თვალებით, სამსახური, სახით, სკოლი, ცილინდრი, წამით</li>
       <li>NOUN-Vnoun: გაგებით, გაკვირვებით, გატაცებით, მოძრაობით, სიამოვნებით, სმენითა, ფანცქალით, შეხედვით, ამოსუნთქვით, აქნევით</li>
       <li>NUM: ერთი, მეორე, მეოთხი, ორი, ორიოდე, ოცი, სამი</li>
-      <li>PRON: ამ, თავისი, იმით, რა, შენი, ასეთი, იმ, ისეთი, მისი, არაფრით</li>
+      <li>PRON: ამ, თავისი, იმით, შენი, ასეთი, იმ, ისეთი, მისი, არაფრით, თავიანთი</li>
       <li>PROPN: ბათომი, მექსიკი</li>
     </ul>
   </li>
@@ -291,14 +290,14 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: დიდი, სხვა, პატარა, ახალი, ერთადერთი, საკუთარი, ლამაზი, უცნაური, რამ, შავი</li>
-      <li>ADJ-Part: დანარჩენი, შეუძლებელი, განკუთვნილი, საწყალი, მოსალოდნელი, ნაბეჭდი, ნაყიდი, შესაძლებელი, გამოგზავნილი, გამხდარი</li>
+      <li>ADJ: დიდი, სხვა, პატარა, ახალი, ერთადერთი, საკუთარი, ლამაზი, უცნაური, ძველი, რამ</li>
+      <li>ADJ-Part: დანარჩენი, შეუძლებელი, განკუთვნილი, საწყალი, მოსალოდნელი, ნაბეჭდი, ნაყიდი, შესაძლებელი, აკრძალული, გამოგზავნილი</li>
       <li>AUX-Vnoun: ყოფნაც</li>
-      <li>DET: რამდენიმე, მთელი, ზოგი, მრავალი, ყველაფერი, ბევრი, ყოველი, მეტი, ყოველივე, ყველა</li>
-      <li>NOUN: დედა, კითხვა, კაცი, პასუხი, ადამიანი, დრო, ოთახი, სამყარო, კაბა, ამბავი</li>
+      <li>DET: ზოგი, ყველაფერი, რამდენიმე, მთელი, ბევრი, მრავალი, მეტი, ყოველი, ყველანი, ყოველივე</li>
+      <li>NOUN: დედა, კითხვა, კაცი, პასუხი, ადამიანი, დრო, ოთახი, სამყარო, ამბავი, კაბა</li>
       <li>NOUN-Vnoun: კითხვა, თქმა, გონება, გაგება, კითხვები, სროლა, ჩვენება, ახსნა, განმარტება, გაცემა</li>
       <li>NUM: ერთი, ორივე, მეორე, ორი, პირველი, სამი, მეორეც, ათიოდე, ასი, თორმეტი</li>
-      <li>PRON: ეს, რა, იგი, ის, მისი, რომელიც, მე, თავი, ვინ, ჩემი</li>
+      <li>PRON: ეს, ის, იგი, რა, მისი, რომელიც, მე, ჩემი, ვინ, ისეთი</li>
       <li>PROPN: ერიკა, სოფი, სილიბისტრო, თუთაშხია, კვაჭი, დათა, კვაჭანტირაძე, ნინელი, ზარანდია, თომასი</li>
       <li>VERB-Part: დარწმუნებული, გატენილი, დამზადებული, აშენებული, მიღებული, მოკლებული, ამართული, ამოგლეჯილი, აღრენილი, აღძრული</li>
     </ul>
@@ -310,9 +309,9 @@ The Georgian treebank and the tools used to create it have been developed by Pau
     <ul>
       <li>ADJ: ძვირფასო, წუნკალო, ერთადერთო, მოტაცებულო</li>
       <li>ADJ-Part: მოტაცებულო</li>
-      <li>NOUN: ბატონო, კაცო, ბატონებო, ფისო, შვილო, ძმაო, ჰერ, ბიჭიკო, დედა, დედიკო</li>
+      <li>NOUN: კაცო, ბატონო, ბატონებო, ფისო, შვილო, ძმაო, ჰერ, ბიჭიკო, დედა, დედიკო</li>
       <li>PRON: ჩემო, შე</li>
-      <li>PROPN: სოფი, ვარდენ, ერიკა, კვაჭი, კვაჭიკო, მასუდ, სილიბისტრო, ჭიპი, ჰილდე</li>
+      <li>PROPN: სოფი, ვარდენ, ერიკა, იზომებენ, კვაჭი, კვაჭიკო, მასუდ, სილიბისტრო, ჭიპი, ჰილდე</li>
     </ul>
   </li>
 </ul>
@@ -348,7 +347,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
   <li>Cnd
     <ul>
       <li>AUX-Fin: იქნებოდა, ეყოლებოდა</li>
-      <li>VERB-Fin: გავიდოდა, იტყოდა, განაგებდა, დათბებოდა, დაიძრებოდა, იცნობდით, შედგებოდა, შეძვრებოდა, წამოვიდოდა, ააფორიაქებდა</li>
+      <li>VERB-Fin: გავიდოდა, იტყოდა, განაგებდა, დათბებოდა, დაიძრებოდა, ეჩვენებოდა, იცნობდით, შედგებოდა, შეძვრებოდა, წამოვიდოდა</li>
     </ul>
   </li>
 </ul>
@@ -357,7 +356,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
   <li>Imp
     <ul>
       <li>AUX-Fin: იყავი</li>
-      <li>VERB-Fin: მომეცი, შეხედე, ასახელე, ასწონ-დასწონეთ, აღიჭურვეთ, გააბედნიერე, გააგდებინე, გააკეთეთ, გააღე, გადაეცით</li>
+      <li>VERB-Fin: დამიტოვე, მითხარი, მომეცი, შეხედე, ასახელე, ასწონ-დასწონეთ, აღიჭურვეთ, გააბედნიერე, გააგდებინე, გააკეთეთ</li>
     </ul>
   </li>
 </ul>
@@ -366,7 +365,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
   <li>Ind
     <ul>
       <li>AUX-Fin: ა, იყო, არის, ხარ, ვარ, იქნება, ვიყავი, ვართ, ჰქონდა, იყვნენ</li>
-      <li>VERB-Fin: ჰქონდა, თქვა, იდგა, უთხრა, აქვს, გავიდა, ვიცი, მოხდა, იყო, იცის</li>
+      <li>VERB-Fin: ჰქონდა, იდგა, თქვა, უთხრა, აქვს, გავიდა, ვიცი, მოხდა, იყო, იცის</li>
     </ul>
   </li>
 </ul>
@@ -387,7 +386,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 <ul>
   <li>Fut
     <ul>
-      <li>ADJ-Part: საწყალი, შესაძლებელი, მოსალოდნელი, სანახავად, საოცარი, დასანანი, მისალოცი, მოსაწყენ, საზარელი, სამუშაოდ</li>
+      <li>ADJ-Part: საოცარი, საწყალი, შესაძლებელი, მოსალოდნელი, სანახავად, დასანანი, მისალოცი, მოსაწყენ, საზარელი, სამუშაოდ</li>
       <li>AUX-Fin: იქნება, ვიქნები, იქნები, შეძლებს</li>
       <li>VERB-Fin: გავა, გამოვა, დაბრუნდება, ექნება, ჩაიცვამს, გავაღვიძებ, გამოავლენს, გეტყვი, გიშოვი, დავბრუნდები</li>
       <li>VERB-Part: გადასაწერი, გადასაწყვეტი, მოსაგვარებელი, სათქმელი, შესადგენი, შესაკრავი</li>
@@ -399,7 +398,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
   <li>Imp
     <ul>
       <li>AUX-Fin: ჰქონდა, მქონდა</li>
-      <li>VERB-Fin: ჰქონდა, იცოდა, მქონდა, იზრდებოდა, ჩანდა, ჰგავდა, ჰყავდა, ამბობდა, გახლდათ, ვიცოდი</li>
+      <li>VERB-Fin: ჰქონდა, იცოდა, მქონდა, ჰგავდა, ამბობდა, იზრდებოდა, ფიქრობდა, ჩანდა, ჰყავდა, გახლდათ</li>
     </ul>
   </li>
 </ul>
@@ -407,9 +406,9 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 <ul>
   <li>Past
     <ul>
-      <li>ADJ-Part: დანარჩენი, განკუთვნილი, დაზარალებულის, ნაბეჭდი, ნაყიდი, ცნობილი, არსებულ, არსებული, გადამდგარი, გამოგზავნილი</li>
+      <li>ADJ-Part: დანარჩენი, განკუთვნილი, დაზარალებულის, დანარჩენ, ნაბეჭდი, ნაყიდი, ცნობილი, აკრძალული, არსებულ, არსებული</li>
       <li>AUX-Fin: იყო, ვიყავი, იყოს, იყვნენ, იქნა, იქნეს, შეგვეძლო, შეეძლო</li>
-      <li>VERB-Fin: თქვა, იდგა, უთხრა, გავიდა, მოხდა, იყო, გაჩნდა, დაიწყო, ეწერა, წავიდა</li>
+      <li>VERB-Fin: იდგა, უთხრა, თქვა, გავიდა, მოხდა, იყო, დაიწყო, ამოიღო, გაჩნდა, აღმოჩნდა</li>
       <li>VERB-Part: დარწმუნებული, გატენილი, დამზადებული, აშენებული, მიღებული, მოკლებული, ამართული, ამოგლეჯილი, აღრენილი, აღძრული</li>
     </ul>
   </li>
@@ -428,7 +427,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
   <li>Pqp
     <ul>
       <li>AUX-Fin: ყოფილიყო</li>
-      <li>VERB-Fin: ეთქვათ, დაგებრუნებინათ, ენახა, ექნა, ქცეულიყო, ჰქონოდა, აელოკა, ამეკრიფა, არეოდა, აშენებულიყო</li>
+      <li>VERB-Fin: ეთქვათ, დაგებრუნებინათ, ეთქვა, ენახა, ექნა, ქცეულიყო, ჰქონოდა, აელოკა, ამეკრიფა, არეოდა</li>
     </ul>
   </li>
 </ul>
@@ -438,7 +437,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
     <ul>
       <li>ADJ-Part: შეუძლებელი, გამომძიებლის, მყოფი, შეუმჩნევლად, ამოუღებლად, გაუგებარი, გაუვალ, გაუთავებელი, მომხედავი, მოსიარულე</li>
       <li>AUX-Fin: ა, არის, ხარ, ვარ, იქნებოდა, ვართ, არიან, შეუძლია, აქვს, მაქვს</li>
-      <li>VERB-Fin: აქვს, ვიცი, იცის, მაქვს, მინდა, არსებობს, ამბობს, არის, მიდის, შეიძლება</li>
+      <li>VERB-Fin: აქვს, ვიცი, იცის, მაქვს, მინდა, არსებობს, შეიძლება, ამბობს, მიდის, შეუძლია</li>
     </ul>
   </li>
 </ul>
@@ -459,7 +458,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
   <li>Inv
     <ul>
       <li>AUX-Fin: ჰქონდა, მქონდა, შეუძლია, აქვს, მაქვს, შეგიძლიათ, შემიძლია, გაქვს, გვაქვს, ეყოლებოდა</li>
-      <li>VERB-Fin: ჰქონდა, აქვს, მაქვს, მქონდა, მინდა, აქვთ, სურს, შეუძლია, ჰქონდეს, ჰყავდა</li>
+      <li>VERB-Fin: ჰქონდა, აქვს, მაქვს, მინდა, მქონდა, შეუძლია, აქვთ, გინდა, სურს, ჰქონდეს</li>
     </ul>
   </li>
 </ul>
@@ -494,7 +493,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: ეს, ამ, იმ, ის, ამას, იმის, ამის, იმავე, იგი, იმას</li>
+      <li>PRON: ეს, ამ, იმ, ის, ამას, იმის, ამის, იგი, იმავე, იმას</li>
     </ul>
   </li>
 </ul>
@@ -502,7 +501,25 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: რაღაც, ისეთი, ასეთი, ასეთ, რომელიღაც, ვიღაც, ისეთ, ასეთები, რაღაცას, ასეთთა</li>
+      <li>DET: რამდენიმე, ზოგი, ბევრი, მეტი, მრავალი, ერთ-ერთი, ზოგიც, არაერთი, ბევრს, ერთ-ერთ</li>
+      <li>PRON: რაღაც, ისეთი, ასეთი, ვინმეს, ასეთ, რამე, ვინმე, რაღაცას, რომელიღაც, ვიღაც</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>PRON: რა, ვინ, რას, ვის, როგორი, რამდენი, რის, რომელი, რამ, რაღა</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>DET: არავითარ, არავითარი, არაფერი</li>
+      <li>PRON: არავინ, არაფერი, ვერაფერი, არავის, აღარაფერი, ვერავინ, ვერაფერს, არაფერს, არაფრით, არაფრის</li>
     </ul>
   </li>
 </ul>
@@ -510,7 +527,15 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: მას, მე, იგი, მისი, მის, თავის, ის, ჩემი, შენ, თავისი</li>
+      <li>PRON: მას, მე, მისი, იგი, მის, თავის, ის, ჩემი, თავისი, შენ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rcp
+    <ul>
+      <li>PRON: ერთმანეთს, ერთმანეთის, ერთიმეორე</li>
     </ul>
   </li>
 </ul>
@@ -518,7 +543,15 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: რომელიც, რაც, რომელსაც, რასაც, ვინც, რომლებიც, რომლის, როგორიც, რომელ, ვისაც</li>
+      <li>PRON: რომელიც, რაც, რომელსაც, რასაც, ვინც, რომლებიც, რომლის, ვისაც, როგორიც, რომელ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: მთელი, ყველა, ყველაფერი, ყველას, მთელ, ყველაფერს, ყოველივე, ყოველ, ყოველი, ყველანი</li>
     </ul>
   </li>
 </ul>
@@ -558,11 +591,22 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: მისი, თავის, ჩემი, მის, თავისი, ჩემს, მათი, ჩვენი, თქვენი, შენი</li>
+      <li>PRON: მისი, თავის, ჩემი, თავისი, მის, ჩემს, მათი, ჩვენი, თქვენი, შენი</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: თავის, თავისი, თავს, თავი, თავ, თავიანთი, თავიანთ, თავიანთიც, თავისას, თავისსავე</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Person</a></li>
@@ -587,7 +631,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 <ul>
   <li>3
     <ul>
-      <li>PRON: მისი, თავის, მის, თავისი, მათი, თავიანთი, მისმა, თავიანთ, იმის, მისას</li>
+      <li>PRON: მისი, თავის, თავისი, მის, მათი, თავიანთი, მისმა, თავიანთ, იმის, მისას</li>
     </ul>
   </li>
 </ul>
@@ -609,7 +653,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
 <ul>
   <li>Sing
     <ul>
-      <li>PRON: მისი, თავის, ჩემი, მის, თავისი, ჩემს, შენი, ჩემო, შენს, მისმა</li>
+      <li>PRON: მისი, თავის, ჩემი, თავისი, მის, ჩემს, შენი, ჩემო, შენს, მისმა</li>
     </ul>
   </li>
 </ul>
@@ -635,7 +679,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
     <ul>
       <li>Loc
         <ul>
-          <li>ADV: იქ, აქ, სად, შინ, გარეთ, უკან, საიდან, აქედან, შორს, აქამდე</li>
+          <li>ADV: იქ, აქ, სად, შინ, უკან, გარეთ, საიდან, აქედან, შორს, აქამდე</li>
         </ul>
       </li>
       <li>Rel
@@ -660,13 +704,13 @@ The Georgian treebank and the tools used to create it have been developed by Pau
           <li>ADJ: განათლებამიღებულსაც, თვალდახუჭულიც, მიმსვლელებ, მყოფნიც, მცირეც, სადა, ტანადიც, ტუტუციც, შემსრულებელსაც, ძვალმსხვილიც</li>
           <li>ADJ-Part: მიმსვლელებ, მყოფნიც, შემსრულებელსაც</li>
           <li>ADP: შემდეგაც</li>
-          <li>ADV: არც, ვერც, ამიტომაც, ახლაც, ერთხელაც, თვითონაც, სრულიადაც, არცა, ასეც, დღესაც</li>
+          <li>ADV: არც, ვერც, ამიტომაც, თვითონაც, ახლაც, ერთხელაც, სრულიადაც, არცა, ასეც, დღესაც</li>
           <li>AUX-Vnoun: ყოფნაც</li>
           <li>DET: ზოგიც, ყველაფერიც</li>
-          <li>NOUN: დღესაც, სახელიც, შუქიც, ცოლიც, ადამიანებსაც, ამირაც, არსებაც, არჩევანიც, ბავშვობაც, ბაზარ</li>
-          <li>NOUN-Vnoun: არჩევანიც, დაბინავება, დასკვნითაც, დაწინაურებაც, დახმარებაც, მდგომარეობაც, ნებაც, ოხუნჯობაც, რწმენაცა, ფუსფუსიც</li>
+          <li>NOUN: დღესაც, სახელიც, შუქიც, ცოლიც, ადამიანებსაც, ამირაც, ანონაცა, არსებაც, არჩევანიც, ბავშვობაც</li>
+          <li>NOUN-Vnoun: არჩევანიც, დაბინავება, დაბრუნებაც, დასკვნითაც, დაწინაურებაც, დახმარებაც, მდგომარეობაც, ნებაც, ოხუნჯობაც, რწმენაცა</li>
           <li>NUM: მეორეც, ერთიც</li>
-          <li>PRON: ისიც, მეც, იმასაც, ჩვენც, ამა, ეგეც, თავიანთიც, იმითაც, ისეთსაც, მას</li>
+          <li>PRON: ისიც, მეც, იმასაც, ჩვენც, ამა, ასეთიც, ეგეც, თავიანთიც, იმითაც, ისეთსაც</li>
           <li>PROPN: სილიბისტროც, ამერიკასაც, ბიბილეიშვილიც, ერიკამაც, კვაჭიც, მახათაძეც, პუპიც, სტალინიც, შაჰზამანიც, შერხანიც</li>
         </ul>
       </li>
@@ -713,7 +757,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
     <ul>
       <li>Geo
         <ul>
-          <li>PROPN: სამტრედია, ხონის, აფხაზეთ, თბილის, საქართველოს, ფოთის, ბათომ, ბანძა, გაგრის, გურია</li>
+          <li>PROPN: სამტრედია, საქართველოს, ხონის, აფხაზეთ, თბილის, უკრაინის, ფოთის, ბათომ, ბანძა, გაგრის</li>
         </ul>
       </li>
       <li>Oth
@@ -723,7 +767,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
       </li>
       <li>Prs
         <ul>
-          <li>PROPN: ერიკა, სოფი, ერიკას, თუთაშხიას, დათა, სოფიმ, სოფის, სილიბისტრო, კვაჭის, თუთაშხია</li>
+          <li>PROPN: ერიკა, სოფი, ერიკას, თუთაშხიას, დათა, სოფიმ, სოფის, სილიბისტრო, ვარდენ, კვაჭის</li>
         </ul>
       </li>
     </ul>
@@ -740,7 +784,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
       </li>
       <li>Sing
         <ul>
-          <li>VERB-Fin: მითხრა, გითხარი, დამითხოვა, მკითხა, გაწყენინე, გეტყვი, გიშოვი, დამრჩა, მელაპარაკები, მემართებოდა</li>
+          <li>VERB-Fin: მითხრა, გითხარი, დამითხოვა, მითხარი, მკითხა, შემომხედა, გაწყენინე, გეტყვი, გიშოვი, დამიტოვე</li>
         </ul>
       </li>
     </ul>
@@ -769,14 +813,14 @@ The Georgian treebank and the tools used to create it have been developed by Pau
     <ul>
       <li>Plur
         <ul>
-          <li>AUX-Fin: ვართ, იყვნენ, არიან, შეგიძლიათ, გვაქვს, შეგვეძლო, შეგვიძლია</li>
+          <li>AUX-Fin: ვართ, იყვნენ, არიან, შეგიძლიათ, გვაქვს, შეგვეძლო, შეგვიძლია, ხართ</li>
           <li>VERB-Fin: აქვთ, ამბობდნენ, გვჭირდება, ეთქვათ, ვიცით, მიდიოდნენ, ავიღოთ, ამოჰყავთ, გავიგოთ, განაგრძობენ</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>AUX-Fin: ა, იყო, არის, ხარ, ვარ, იქნება, ვიყავი, იქნებოდა, ჰქონდა, იყოს</li>
-          <li>VERB-Fin: ჰქონდა, თქვა, იდგა, უთხრა, აქვს, გავიდა, ვიცი, მოხდა, იყო, იცის</li>
+          <li>AUX-Fin: ა, იყო, არის, ხარ, ვარ, იქნება, იქნებოდა, ვიყავი, ჰქონდა, იყოს</li>
+          <li>VERB-Fin: ჰქონდა, იდგა, უთხრა, თქვა, აქვს, გავიდა, ვიცი, მოხდა, იყო, იცის</li>
         </ul>
       </li>
     </ul>
@@ -788,7 +832,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
     <ul>
       <li>1
         <ul>
-          <li>VERB-Fin: მითხრა, დამითხოვა, მკითხა, გვიპასუხებდა, დამრჩა, მელაპარაკები, მემართებოდა, მეუბნები, მითხარი, მიშლიდა</li>
+          <li>VERB-Fin: მითხრა, დამითხოვა, მითხარი, მკითხა, შემომხედა, გვიპასუხებდა, დამიტოვე, დამიწყო, დამრჩა, მელაპარაკები</li>
         </ul>
       </li>
       <li>2
@@ -798,7 +842,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
       </li>
       <li>3
         <ul>
-          <li>VERB-Fin: უთხრა, ცდილობს, ჰკითხა, ეწერა, მიაღწია, მოუკვდა, ჰგავდა, დახედა, ეტყობა, ეცვა</li>
+          <li>VERB-Fin: უთხრა, ცდილობს, ჰგავდა, ჰკითხა, ეწერა, მიაღწია, მოუკვდა, დახედა, ეტყობა, ეცვა</li>
         </ul>
       </li>
     </ul>
@@ -821,7 +865,7 @@ The Georgian treebank and the tools used to create it have been developed by Pau
       <li>3
         <ul>
           <li>AUX-Fin: ჰქონდა, მქონდა, შეუძლია, აქვს, მაქვს, შეგიძლიათ, შემიძლია, გაქვს, გვაქვს, ეყოლებოდა</li>
-          <li>VERB-Fin: ჰქონდა, თქვა, უთხრა, აქვს, ვიცი, იცის, იცოდა, მაქვს, მქონდა, მინდა</li>
+          <li>VERB-Fin: ჰქონდა, თქვა, უთხრა, აქვს, ვიცი, იცის, იცოდა, მაქვს, მინდა, მქონდა</li>
         </ul>
       </li>
     </ul>
@@ -834,19 +878,19 @@ The Georgian treebank and the tools used to create it have been developed by Pau
       <li>1
         <ul>
           <li>AUX-Fin: ვარ, ვიყავი, ვართ, მქონდა, მაქვს, შემიძლია, გვაქვს, ვიქნები, შეგვეძლო, შეგვიძლია</li>
-          <li>VERB-Fin: ვიცი, მაქვს, მქონდა, მინდა, შევედი, ვიცოდი, ვკითხულობდი, ვლაპარაკობდი, ვხედავდი, გავატარე</li>
+          <li>VERB-Fin: ვიცი, მაქვს, მინდა, მქონდა, შევედი, დავხუჭე, ვიცოდი, ვკითხულობდი, ვლაპარაკობდი, ვხედავდი</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>AUX-Fin: ხარ, შეგიძლიათ, გაქვს, იქნები, იყავი, იყო, ყოფილხარ</li>
-          <li>VERB-Fin: ფიქრობ, გინდა, იცი, გაქვს, ხედავ, ასწავლი, გგონია, გნებავთ, დაგებრუნებინათ, იცით</li>
+          <li>AUX-Fin: ხარ, შეგიძლიათ, გაქვს, იქნები, იყავი, იყო, ყოფილხარ, ხართ</li>
+          <li>VERB-Fin: გინდა, ფიქრობ, იცი, გაქვს, მითხარი, ხედავ, ასწავლი, გგონია, გნებავთ, დაგებრუნებინათ</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>AUX-Fin: ა, იყო, არის, იქნება, იქნებოდა, ჰქონდა, იყოს, იყვნენ, არიან, ყოფილა</li>
-          <li>VERB-Fin: ჰქონდა, თქვა, იდგა, უთხრა, აქვს, გავიდა, მოხდა, იყო, იცის, იცოდა</li>
+          <li>AUX-Fin: ა, იყო, არის, იქნება, იქნებოდა, ჰქონდა, იყოს, იყვნენ, არიან, ყოფილიყო</li>
+          <li>VERB-Fin: ჰქონდა, იდგა, თქვა, უთხრა, აქვს, გავიდა, მოხდა, იყო, იცის, იცოდა</li>
         </ul>
       </li>
     </ul>
@@ -871,14 +915,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Dat (52)</li>
-      <li>VERB-Fin--NOUN-Erg (129)</li>
-      <li>VERB-Fin--NOUN-Nom (604)</li>
-      <li>VERB-Fin--PRON-Dat (57)</li>
-      <li>VERB-Fin--PRON-Erg (52)</li>
-      <li>VERB-Fin--PRON-Nom (254)</li>
+      <li>VERB-Fin--NOUN-Dat (56)</li>
+      <li>VERB-Fin--NOUN-Erg (134)</li>
+      <li>VERB-Fin--NOUN-Nom (626)</li>
+      <li>VERB-Fin--PRON-Dat (60)</li>
+      <li>VERB-Fin--PRON-Erg (53)</li>
+      <li>VERB-Fin--PRON-Nom (259)</li>
       <li>VERB-Part--NOUN-Dat (1)</li>
-      <li>VERB-Part--NOUN-Nom (39)</li>
+      <li>VERB-Part--NOUN-Nom (40)</li>
       <li>VERB-Part--PRON-Nom (10)</li>
     </ul>
   </li>
@@ -887,12 +931,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Dat (294)</li>
+      <li>VERB-Fin--NOUN-Dat (304)</li>
       <li>VERB-Fin--NOUN-Ess (1)</li>
       <li>VERB-Fin--NOUN-Gen (3)</li>
-      <li>VERB-Fin--NOUN-Nom (571)</li>
-      <li>VERB-Fin--PRON-Dat (85)</li>
-      <li>VERB-Fin--PRON-Nom (98)</li>
+      <li>VERB-Fin--NOUN-Nom (606)</li>
+      <li>VERB-Fin--PRON-Dat (91)</li>
+      <li>VERB-Fin--PRON-Nom (100)</li>
       <li>VERB-Part--NOUN-Nom (17)</li>
       <li>VERB-Part--PRON-Nom (2)</li>
     </ul>
@@ -902,7 +946,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Dat (279)</li>
+      <li>VERB-Fin--NOUN-Dat (286)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(შორის) (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--PRON-Dat (81)</li>
@@ -913,6 +957,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 
 
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 22 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: გრძნობა თავს, მართლება თავს, რიდება თავს, აღება თავი, გაყადრება თავს, გრძნობა თავი, დატანება თავს, დაქნევა თავი, დაღწევა თავი, თქმა თავიანთიც, კითხვა თავს, მი-ცემა თავს, მომძინარება თავი, მოწონება თავი, ტყდომა თავს, ქონა თავი, შეკავება თავი, შექმნა თავი, ჩადება თავი, ცვა თავს, ჭერა თავი, ხსოვნა თავი</li>
+</ul>
 
 <h3>Relations Overview</h3>
 

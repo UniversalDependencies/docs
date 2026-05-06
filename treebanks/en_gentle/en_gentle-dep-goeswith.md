@@ -22,21 +22,21 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 goeswith	color:blue
-1	So	so	INTJ	UH	_	5	discourse	5:discourse	Discourse=evaluation-comment:43->40:3:_;explanation-motivation:43->40:1:3:orp-so-259-_|PDTB=Explicit:Contingency.Cause.Result:so:259:238-258:260-280
+1	So	so	INTJ	UH	_	5	discourse	5:discourse	Discourse=evaluation-comment:43->40:3:lex-indwd-263-_;explanation-motivation:43->40:1:3:orp-so-259-gold|PDTB=Explicit:Contingency.Cause.Result:so:259:238-258:260-280
 2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	Entity=(1-person-giv:act-sssss-cf1*-1-ana)
 3	will	will	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
 4	be	be	AUX	VB	VerbForm=Inf	5	cop	5:cop	_
 5	better	good	ADJ	JJR	Degree=Cmp	0	root	0:root	MSeg=bett-er
 6	off	off	ADP	RP	_	5	compound:prt	5:compound:prt	_
-7	or	or	CCONJ	CC	_	10	cc	10:cc	Discourse=adversative-antithesis:44->43:0:dm-or-265-_|PDTB=Explicit:Comparison.Concession.Arg1-as-denier:or:265:259-264:266-280
+7	or	or	CCONJ	CC	_	10	cc	10:cc	Discourse=adversative-antithesis:44->43:0:dm-or-265-gold|PDTB=Explicit:Comparison.Concession.Arg1-as-denier:or:265:259-264:266-280
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	Entity=(8-person-giv:act-sssss-cf2-1-ana)
 9	will	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
 10	do	do	VERB	VB	VerbForm=Inf	5	conj	5:conj:or	_
-11	what	whatever	PRON	GW	Typo=Yes	10	obj	10:obj	CorrectForm=whatever|Entity=(30-abstract-new-nnsnn-cf5-6-sgl|XML=<sic ana:::"whatever">
+11	what	whatever	PRON	GW	PronType=Rel|Typo=Yes	10	obj	10:obj	CorrectForm=whatever|Entity=(30-abstract-new-nnsnn-cf5-6-sgl|XML=<sic ana:::"whatever">
 12	ever	_	X	WP	_	11	goeswith	11:goeswith	CorrectForm=_|XML=</sic>
 13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	Entity=(31-event-new-nnnnn-cf4-1-cata)
 14	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	MSeg=take-s
-15	to	to	PART	TO	_	16	mark	16:mark	Discourse=purpose-goal:45->44:0:_|Entity=(31-event-acc:com-nnnnn-cf4-2-coref|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:265-272:273-280
+15	to	to	PART	TO	_	16	mark	16:mark	Discourse=purpose-goal:45->44:0:syn-inf-273-_|Entity=(31-event-acc:com-nnnnn-cf4-2-coref|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:265-272:273-280
 16	have	have	VERB	VB	VerbForm=Inf	10	advcl	10:advcl:to	_
 17	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	16	obj	16:obj|19:nsubj:xsubj	Entity=(1-person-giv:act-sssss-cf1*-1-ana)
 18	in	in	ADP	IN	_	19	case	19:case	_
@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 goeswith	color:blue
-1	Ball	Ball	NOUN	NN	Number=Sing	3	nsubj:pass	3:nsubj:pass	Discourse=joint-sequence_m:89->61:0:_|Entity=(69-object-giv:inact-nnnnn-cf3-1-coref)
+1	Ball	Ball	NOUN	NN	Number=Sing	3	nsubj:pass	3:nsubj:pass	Discourse=joint-sequence_m:89->61:0:_|Entity=(69-object-giv:inact-nnnnn-cf3-1-coref)|PDTB=Implicit:Temporal.Asynchronous.Precedence:then:_:594-620:621-632
 2	gets	get	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	3:aux:pass	MSeg=get-s
 3	played	play	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	MSeg=play-ed
 4	in	in	ADV	RB	Degree=Pos	3	advmod	3:advmod	_
@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 goeswith	color:blue
-1	Be	beware	VERB	GW	Typo=Yes	0	root	0:root	CorrectForm=Beware|Discourse=evaluation-comment:48->47:1:_|XML=<sic ana:::"Beware">
+1	Be	beware	VERB	GW	Typo=Yes	0	root	0:root	CorrectForm=Beware|Discourse=evaluation-comment:48->47:1:_|PDTB=NoRel:NoRel:_:_:361-380:401-408;NoRel:NoRel:_:_:388-400:401-408|XML=<sic ana:::"Beware">
 2	ware	_	X	VB	_	1	goeswith	1:goeswith	CorrectForm=_|XML=</sic>
 3	Of	of	ADP	IN	_	5	case	5:case	_
 4	All	all	DET	DT	PronType=Ind	5	det	5:det	Entity=(52-abstract-new-nnnnn-cf1-2-sgl

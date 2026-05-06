@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-144 nodes (1%) are attached to their parents as `cop`.
+145 nodes (1%) are attached to their parents as `cop`.
 
-80 instances of `cop` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.64583333333333.
+80 instances of `cop` (55%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.64137931034483.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (47; 33% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (45; 31% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (28; 19% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (10; 7% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (9; 6% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 1% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (47; 32% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (45; 31% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (29; 20% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (10; 7% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (9; 6% instances), <tt><a href="yrl_complin-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

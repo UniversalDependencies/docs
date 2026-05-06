@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 csubj:pass	color:blue
-1	Συνεπώς	συνεπής	ADV	_	_	3	advmod	_	_
+1	Συνεπώς	συνεπής	ADV	_	_	3	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	PunctType=Comm
 3	αποκλείεται	αποκλείω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 4	να	να	SCONJ	_	_	5	mark	_	_

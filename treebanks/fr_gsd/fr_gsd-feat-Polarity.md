@@ -16,13 +16,13 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_gsd-pos-ADV.html
 
 ### `ADV`
 
-3236 <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> tokens (23% of all `ADV` tokens) have a non-empty value of `Polarity`.
+3236 <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> tokens (22% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (3233; 100% of non-empty `Polarity`): <em>pas, n', ne, que, non, plus, qu', jamais, guère, point</em>
 * `Pos` (3; 0% of non-empty `Polarity`): <em>jamais</em>
-* `EMPTY` (10862): <em>plus, très, aussi, ainsi, alors, bien, également, lors, même, encore</em>
+* `EMPTY` (11265): <em>plus, très, aussi, où, ainsi, alors, bien, également, lors, même</em>
 
 <table>
   <tr><th>Paradigm <i>jamais</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ka_gnc-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="ka_gnc-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="ka_gnc-dep-obl-final.html">obl:final</a></tt>.
 
-22 nodes (0%) are attached to their parents as `obl:iobj`.
+23 nodes (0%) are attached to their parents as `obl:iobj`.
 
-19 instances of `obl:iobj` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.86363636363636.
+19 instances of `obl:iobj` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.82608695652174.
 
-The following 8 pairs of parts of speech are connected with `obl:iobj`: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (8; 36% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (4; 18% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (4; 18% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 5% instances).
+The following 7 pairs of parts of speech are connected with `obl:iobj`: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (8; 35% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (5; 22% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (5; 22% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (2; 9% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 8 pairs of parts of speech are connected with `obl:iobj`: <tt><a h
 3	ახსნა	ახსნა	NOUN	N_VN_Pv_Nom_Sg	Case=Nom|Number=Sing|VerbForm=Vnoun	7	obj	_	LMSeg:ა·ხსნ[ა]/ხსნ
 4	ჩვენ	ჩვენ	PRON	Pron_Pers_1_Gen_Pl_PP_PP:თვის	Case=Gen|Number=Plur|PronType=Prs	7	obl:iobj	_	LMSeg:ჩვენ|SpaceAfter=No
 5	თვის	_თვის	ADP	Pp	_	4	case	_	LMSeg:_თვის
-6	არავის	არავინ	PRON	Pron_Neg_Hum_Dat	Animacy=Anim|Case=Dat	7	nsubj	_	LMSeg:არავინ
+6	არავის	არავინ	PRON	Pron_Neg_Hum_Dat	Animacy=Anim|Case=Dat|PronType=Neg	7	nsubj	_	LMSeg:არავინ
 7	დაუვალებია	დავალება	VERB	V_Act_Perf_Pv_S:3Sg_DO:3	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=PastPerf|VerbForm=Fin	0	root	_	LMSeg:და·ვალებ[ა]/ვალ|SpaceAfter=No
 8	.	.	PUNCT	Punct_Period	_	7	punct	_	LMSeg:.
 

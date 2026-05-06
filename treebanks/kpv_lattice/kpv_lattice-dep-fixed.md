@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `fixed`: <tt><a href
 18	пиысь	пиысь	ADP	Adp	AdpType=Post|Case=Ela|Number=Sing	17	case	_	GTtags=Po,Sg,Ela
 19	косджыкъяссӧ	кос	ADJ	A	Case=Acc|Degree=Cmp|Number=Plur|Number[psor]=Sing|Person[psor]=3	15	obj	_	GTtags=Comp,Pl,Acc,PxSg3
 20	и	и	CCONJ	CC	_	23	cc	_	_
-21	мӧд	мӧд	DET	Det	_	22	det	_	_
+21	мӧд	мӧд	DET	Det	PronType=Ind	22	det	_	_
 22	пӧв	пӧв	NOUN	N	_	23	obl	_	_
 23	лэдзис	лэдзны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	GTtags=TV,Ind,Prt1,Sg3
 24	би	би	NOUN	N	Case=Nom|Number=Sing	23	obj	_	GTtags=Sg,Nom

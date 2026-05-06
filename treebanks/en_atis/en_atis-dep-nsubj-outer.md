@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 8	out	out	ADV	_	Degree=Pos	7	advmod	_	_
 9	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
 10	on	on	ADP	_	_	11	case	_	_
-11	april	April	NOUN	_	Number=Sing	19	obl:tmod	_	_
+11	april	April	NOUN	_	Number=Sing	19	obl:unmarked	_	_
 12	twentieth	twenty	ADJ	_	Degree=Pos	11	amod	_	_
 13	from	from	ADP	_	_	14	case	_	_
 14	washington	Washington	PROPN	_	Number=Sing	19	obl	_	_
@@ -51,7 +51,7 @@ The following 1 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 27	o'clock	o'clock	ADV	_	Degree=Pos	21	advmod	_	_
 28	in	in	ADP	_	_	30	case	_	_
 29	the	the	DET	_	PronType=Art	30	det	_	_
-30	morning	morning	NOUN	_	Number=Sing	27	obl:tmod	_	_
+30	morning	morning	NOUN	_	Number=Sing	27	obl:unmarked	_	_
 
 ~~~
 

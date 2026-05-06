@@ -52,7 +52,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	regionen	region	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	3	nmod	3:nmod:i	_
 6	har	ha	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	8:aux	_
 7	varit	vara	AUX	VB|SUP|AKT	VerbForm=Sup|Voice=Act	8	cop	8:cop	_
-8	framgångsrika	framgångsrik	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	0	root	0:root	SpaceAfter=No
+8	framgångsrika	framgångsrik	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	0	root	0:root	SpaceAfter=No|ParsemeMWE=1:AdjID
 9	.	.	PUNCT	MAD	_	8	punct	8:punct	_
 
 ~~~
@@ -67,7 +67,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	Dess	den	PRON	PS|UTR/NEU|SIN/PLU|DEF	Definite=Def|Poss=Yes|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	ledning	ledning	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	10	nsubj	10:nsubj	SpaceAfter=No
 3	,	,	PUNCT	MID	_	4	punct	4:punct	_
-4	däremot	däremot	ADV	AB	_	10	advmod	10:advmod	SpaceAfter=No
+4	däremot	däremot	ADV	AB	_	10	advmod	10:advmod	SpaceAfter=No|ParsemeMWE=1:NotMWE
 5	,	,	PUNCT	MID	_	4	punct	4:punct	_
 6	har	ha	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	10:aux	_
 7	inte	inte	PART	AB	Polarity=Neg	10	advmod	10:advmod	_

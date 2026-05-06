@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `4` are language-specific.
 It occurs with 4 different values: `1`, `2`, `3`, `4`.
 
-2900 tokens (20%) have a non-empty value of `Person`.
-268 types (15%) occur at least once with a non-empty value of `Person`.
-143 lemmas (11%) occur at least once with a non-empty value of `Person`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (2016; 14% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (711; 5% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (134; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (33; 0% instances), <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (6; 0% instances).
+2773 tokens (19%) have a non-empty value of `Person`.
+194 types (11%) occur at least once with a non-empty value of `Person`.
+94 lemmas (7%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (2016; 14% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (699; 5% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (31; 0% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (27; 0% instances).
 
 ### `AUX`
 
 2016 <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1363; 68%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ha_southernautogramm-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1662; 82%), <tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1363; 68%), <tt><a href="ha_southernautogramm-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (1052; 52%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -28,90 +28,84 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 * `4` (318; 16% of non-empty `Person`): <em>akà, à, an, anàː, akèː, zaː'à, akàn, bàʼà, kà, baː'àː</em>
 * `EMPTY` (144): <em>nèː, nàː, neː, kèː, cèː</em>
 
+<table>
+  <tr><th>Paradigm <i>yaː</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th><th><tt>4</tt></th></tr>
+  <tr><td><tt></tt></td><td></td><td></td><td><em>an</em></td><td><em>akà, an, am</em></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>kaː, ka, kakèː, ka:</em></td><td><em>ya, yaː, bài</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ha_southernautogramm-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>bàkà</em></td><td><em>bài</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>kin, kikà</em></td><td><em>ta, taː</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ha_southernautogramm-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>bàkì</em></td><td><em>bàtà</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>naː, na</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ha_southernautogramm-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>bàn</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mukà, mun</em></td><td><em>kukà, kun</em></td><td><em>sukà, sun</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ha_southernautogramm-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>bàmù, bàsù</em></td><td><em>bàsù</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>bàʼà</em></td><td></td><td><em>bàʼà</em></td></tr>
+</table>
+
 ### `PRON`
 
-711 <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `Person`.
+699 <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ha_southernautogramm-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (698; 98%), <tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (520; 73%), <tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (392; 55%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ha_southernautogramm-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (688; 98%), <tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (517; 74%), <tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (390; 56%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (131; 18% of non-empty `Person`): <em>niː, mîn, manà, muː, mù, naːmù, ni, mu, nì, nàːwa</em>
-* `2` (76; 11% of non-empty `Person`): <em>suː, kà, kai, makà, ka, keː, ki, dukà, ku, mukù</em>
-* `3` (499; 70% of non-empty `Person`): <em>shiː, shi, ita, shì, mishì, tà, ta, mashì, matà, su</em>
+* `1` (123; 18% of non-empty `Person`): <em>niː, mîn, manà, muː, mù, ni, mu, nì, nàːwa, kânmù</em>
+* `2` (76; 11% of non-empty `Person`): <em>suː, kà, kai, makà, ka, keː, ki, ku, mukù, dukà</em>
+* `3` (495; 71% of non-empty `Person`): <em>shiː, shi, ita, shì, mishì, tà, ta, mashì, matà, su</em>
 * `4` (5; 1% of non-empty `Person`): <em>makà, mâː</em>
-* `EMPTY` (190): <em>wandà, wânnan, mèː, wani, wannàn, koːmeː, koːwaː, mèːneː, dukà, dus</em>
+* `EMPTY` (199): <em>wandà, wânnan, mèː, wani, wannàn, koːmeː, naːmù, koːwaː, mèːneː, dukà</em>
 
 <table>
   <tr><th>Paradigm <i>makà</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th><th><tt>4</tt></th></tr>
   <tr><td><tt></tt></td><td><em>makà</em></td><td><em>makà</em></td><td><em>makà</em></td><td><em>makà, mâː</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `PRON`. 90% lemmas (47) occur only with one value of `Person`.
-
-### `NOUN`
-
-134 <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> tokens (7% of all `NOUN` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="ha_southernautogramm-feat-Definite.html">Definite</a></tt><tt>=Cons</tt> (118; 88%).
-
-`NOUN` tokens may have the following values of `Person`:
-
-* `1` (28; 21% of non-empty `Person`): <em>gidanmù, kàːwuːnaː, hanyànmù, kàːkaːnaː, màsàràutunmù, bàːbanaː, cinyànmù, goːnanmù, hannuːnaː, iyàːyenmù</em>
-* `2` (10; 7% of non-empty `Person`): <em>gidankù, yiwankà, hankàlinkì, kânkì, àlhakinkì, àmfàːninku, ƙar̃finkà</em>
-* `3` (96; 72% of non-empty `Person`): <em>sauransù, suːnantà, bàːbanshì, dàngàntakànshì, gidanshì, wurintà, wàːsanshì, alloːlinsù, gàrinsù, hankàlintà</em>
-* `EMPTY` (1657): <em>àbin, àbîn, loːkàcîn, gidaː, zaːmàniː, àbù, irìn, ruwaː, zoːmoː, gàriː</em>
-
-<table>
-  <tr><th>Paradigm <i>gidaː</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td></td><td><em>gidanshì</em></td></tr>
-  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>gidanmù</em></td><td><em>gidankù</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>gidansù</em></td></tr>
-</table>
-
 ### `VERB`
 
-33 <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Person`.
+31 <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ha_southernautogramm-feat-ExtPos.html">ExtPos</a></tt><tt>=NOUN</tt> (33; 100%), <tt><a href="ha_southernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (33; 100%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ha_southernautogramm-feat-ExtPos.html">ExtPos</a></tt><tt>=NOUN</tt> (31; 100%), <tt><a href="ha_southernautogramm-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (31; 100%).
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (4; 12% of non-empty `Person`): <em>duːkànmù, noːmanmù, tàmbayàːnaː, ƙwàːranmù</em>
-* `2` (5; 15% of non-empty `Person`): <em>jînkà, fànciyankà, gudùnkà, ròːƙonkà</em>
-* `3` (24; 73% of non-empty `Person`): <em>kiràntà, ràsuwantà, yînshì, cînshì, duːkànshì, jiranshi, kirànshi, kirànshì, kwànciyanshì, sanìnshi</em>
-* `EMPTY` (2007): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
+* `1` (4; 13% of non-empty `Person`): <em>duːkànmù, noːmanmù, tàmbayàːnaː, ƙwàːranmù</em>
+* `2` (5; 16% of non-empty `Person`): <em>jînkà, fànciyankà, gudùnkà, ròːƙonkà</em>
+* `3` (22; 71% of non-empty `Person`): <em>kiràntà, ràsuwantà, yînshì, cînshì, duːkànshì, jiranshi, kirànshi, kirànshì, kwànciyanshì, sanìnshi</em>
+* `EMPTY` (2010): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
 
 <table>
   <tr><th>Paradigm <i>kwant-</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt></tt></td><td><em>fànciyankà</em></td><td><em>kwànciyanshì</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 96% lemmas (22) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 95% lemmas (21) occur only with one value of `Person`.
 
-### `ADP`
+### `NOUN`
 
-6 <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Person`.
+27 <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `ADP` and `Person` co-occurred: <tt><a href="ha_southernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (6; 100%).
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="ha_southernautogramm-feat-Definite.html">Definite</a></tt><tt>=Cons</tt> (27; 100%).
 
-`ADP` tokens may have the following values of `Person`:
+`NOUN` tokens may have the following values of `Person`:
 
-* `2` (1; 17% of non-empty `Person`): <em>kàmankà</em>
-* `3` (5; 83% of non-empty `Person`): <em>cikinsù, ɗinshì</em>
-* `EMPTY` (637): <em>dà, à, na, mài, kàman, cikin, dàgà, mà, wajen, ta</em>
+* `1` (2; 7% of non-empty `Person`): <em>cinyànmù, mahàifinmù</em>
+* `3` (25; 93% of non-empty `Person`): <em>sauransù, dàngàntakànshì, bàːbanshì, bàːbansù, dàliːlìntà, gidansù, gàrinsù, hannunshi, irìnsù, kaːyanshì</em>
+* `EMPTY` (1785): <em>àbin, àbîn, loːkàcîn, gidaː, zaːmàniː, àbù, irìn, ruwaː, zoːmoː, gàriː</em>
+
+`Person` seems to be **lexical feature** of `NOUN`. 100% lemmas (17) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>PRON --[<tt><a href="ha_southernautogramm-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (11; 55%),
+<tt>PRON --[<tt><a href="ha_southernautogramm-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (11; 58%),
 <tt>AUX --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (6; 86%),
 <tt>PRON --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (6; 75%),
 <tt>AUX --[<tt><a href="ha_southernautogramm-dep-conj.html">conj</a></tt>]--> AUX</tt> (5; 71%),
 <tt>AUX --[<tt><a href="ha_southernautogramm-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (4; 67%),
-<tt>ADP --[<tt><a href="ha_southernautogramm-dep-reparandum.html">reparandum</a></tt>]--> ADP</tt> (2; 100%),
-<tt>AUX --[<tt><a href="ha_southernautogramm-dep-obl.html">obl</a></tt>]--> PRON</tt> (2; 100%),
+<tt>AUX --[<tt><a href="ha_southernautogramm-dep-obl-mod.html">obl:mod</a></tt>]--> PRON</tt> (2; 100%),
 <tt>AUX --[<tt><a href="ha_southernautogramm-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%),
 <tt>PRON --[<tt><a href="ha_southernautogramm-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2; 100%),
-<tt>AUX --[<tt><a href="ha_southernautogramm-dep-dep.html">dep</a></tt>]--> PRON</tt> (1; 100%).
+<tt>AUX --[<tt><a href="ha_southernautogramm-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (1; 100%),
+<tt>AUX --[<tt><a href="ha_southernautogramm-dep-vocative.html">vocative</a></tt>]--> PRON</tt> (1; 100%).
 

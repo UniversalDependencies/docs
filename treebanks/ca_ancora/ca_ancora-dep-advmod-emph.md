@@ -41,13 +41,13 @@ The following 1 pairs of parts of speech are connected with `advmod:emph`: <tt><
 17	Salvador	Salvador	PROPN	np0000p	_	20	nsubj	20:nsubj	MWE=Salvador_Dalí|MWEPOS=PROPN|ArgTem=arg0:agt|Entity=(CESSCATAAP20031006102242c6-person-1-CorefType:ident,gstype:spec
 18	Dalí	Dalí	PROPN	_	_	17	flat	17:flat	Entity=CESSCATAAP20031006102242c6)
 19	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	20:aux	_
-20	escriure	escriure	VERB	vmn0000	VerbForm=Inf	15	acl	15:acl	_
+20	escriure	escriure	VERB	vmn0000	VerbForm=Inf	15	acl:relcl	15:acl:relcl	_
 21	des	des	ADP	sps00	ExtPos=ADP	23	case	23:case	MWE=des_de|MWEPOS=ADP
 22	de	de	ADP	_	_	21	fixed	21:fixed	_
 23	1919	1919	NOUN	_	_	20	obl	20:obl	SpaceAfter=No|ArgTem=argM:tmp|Entity=(CESSCATAAP20031006102242c43-time-1-gstype:spec
 24	,	,	PUNCT	fc	PunctType=Comm	26	punct	26:punct	_
 25	quan	quan	PRON	pr000000	PronType=Rel	26	obl	26:obl	ArgTem=argM:tmp|Entity=(CESSCATAAP20031006102242c43-time-1-CorefType:ident,gstype:spec)
-26	tenia	tenir	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	acl	23:acl	_
+26	tenia	tenir	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	acl:relcl	23:acl:relcl	_
 27	15	15	NUM	_	NumForm=Digit|NumType=Card	28	nummod	28:nummod	_
 28	anys	any	NOUN	ncmp000	Gender=Masc|Number=Plur	26	obj	26:obj	SpaceAfter=No|ArgTem=arg2:atr
 29	,	,	PUNCT	fc	PunctType=Comm	26	punct	26:punct	Entity=CESSCATAAP20031006102242c43)

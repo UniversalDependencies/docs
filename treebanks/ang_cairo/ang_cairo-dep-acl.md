@@ -22,12 +22,12 @@ The following 1 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 acl	color:blue
-1	Hie	hie	PRON	PRP	Case=Nom|Number=Plur	2	nsubj	_	Gloss=they|Hyperlemma=hie|Root=*hiʀ
+1	Hie	hie	PRON	PRP	Case=Nom|Number=Plur|PronType=Prs	2	nsubj	_	Gloss=they|Hyperlemma=hie|Root=*hiʀ
 2	nabbaþ	nabban	VERB	VBZ	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=not-have|Hyperlemma=nabban|Root=*ne-keh₂p
-3	nanne	_	DET	DT	Case=Acc|Gender=Masc|Number=Sing	4	det	_	Gloss=no|Hyperlemma=none|Root=*nain
+3	nanne	nanne	DET	DT	Case=Acc|Gender=Masc|Number=Sing|PronType=Neg	4	det	_	Gloss=no|Hyperlemma=none|Root=*nain
 4	ȝeþoht	ȝeþoht	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	Gloss=idea|Hyperlemma=ȝeþoht|Root=*ḱóm-þą̄ht,
-5	hƿa	hƿa	PRON	WP	Case=Nom|Number=Sing	7	nsubj	_	Gloss=who|Hyperlemma=who|Root=*hwaʀ
-6	hit	hit	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	Gloss=it|Hyperlemma=it|Root=*ḱe
+5	hƿa	hƿa	PRON	WP	Case=Nom|Number=Sing|PronType=Int	7	nsubj	_	Gloss=who|Hyperlemma=who|Root=*hwaʀ
+6	hit	hit	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|PronType=Prs	7	obj	_	Gloss=it|Hyperlemma=it|Root=*ḱe
 7	ƿrat	ƿritan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	Gloss=wrote|Hyperlemma=write|Root=*wrey|SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	_	Gloss=.|Hyperlemma=.
 

@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 8 reparandum	color:blue
-1	You	you	PRON	PERS-P2	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	_
+1	You	you	PRON	PERS-P2	Person=2|PronType=Prs	2	nsubj	_	_
 2	have	have	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	no	no	DET	_	PronType=Neg	4	det	_	_
 4	idea	idea	NOUN	SG-NOM	Number=Sing	2	obj	_	_

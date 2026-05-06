@@ -23,11 +23,11 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (36; 1% of non-empty `Mood`): ϫⲟ, ϣⲱⲡⲓ, ϫⲉⲙϩⲏⲟⲩ, ϭⲓ, ⲓ, ⲥⲱⲧⲉⲙ, ⲫⲟϩ, ϩⲉⲛ, ϫⲟⲟ, ϭⲓϩⲟ
-* `Imp` (120; 3% of non-empty `Mood`): ⲙⲁϣⲉ, ⲁⲛⲁⲩ, ⲙⲁ, ⲁⲙⲟⲩ, ϣⲱⲡⲓ, ⲁⲙⲱⲓⲛⲓ, ⲁⲛⲓⲧ, ϫⲟϫ, ⲁϫⲟ, ⲁⲣⲓⲉⲙⲓ
-* `Ind` (3514; 93% of non-empty `Mood`): ⲓ, ϣⲱⲡⲓ, ϫⲱ, ⲟⲩⲁⲃ, ⲛⲁⲩ, ⲡⲉϫⲁ, ϣⲉ, ⲑⲣⲉ, ⲉⲣ, ⲟⲓ
+* `Imp` (119; 3% of non-empty `Mood`): ⲙⲁϣⲉ, ⲁⲛⲁⲩ, ⲙⲁ, ⲁⲙⲟⲩ, ϣⲱⲡⲓ, ⲁⲙⲱⲓⲛⲓ, ⲁⲛⲓⲧ, ϫⲟϫ, ⲁϫⲟ, ⲁⲣⲓⲉⲙⲓ
+* `Ind` (3515; 93% of non-empty `Mood`): ⲓ, ϣⲱⲡⲓ, ϫⲱ, ⲟⲩⲁⲃ, ⲛⲁⲩ, ⲡⲉϫⲁ, ϣⲉ, ⲑⲣⲉ, ⲉⲣ, ⲟⲓ
 * `Jus` (49; 1% of non-empty `Mood`): ϣⲱⲡⲓ, ⲭⲁ, ⲙⲟϣⲓ, ⲥⲱⲧⲉⲙ, ϣⲟⲩϣⲟⲩ, ϭⲓ, ϯ, ⲙⲟⲩⲛⲕ, ⲟϩⲓ, ϣⲉⲛ
 * `Opt` (76; 2% of non-empty `Mood`): ϣⲱⲡⲓ, ⲓ, ϯ, ⲛⲁⲩ, ϩⲟⲃⲥ, ⲉⲙⲓ, ⲉⲣ, ⲑⲱⲟⲩϯ, ⲙⲟϣⲓ, ⲟⲩⲛⲟϥ
-* `EMPTY` (122): ⲟⲩⲟⲛ, ⲙⲙⲟⲛ, ⲟⲩⲟⲛⲧⲉ, ⲙⲙⲟⲛⲧⲉ, ⲙⲙⲟⲛⲧ, ⲟⲩⲟⲛⲧⲱ, ⲙⲙⲟⲛⲛⲧⲁ, ⲙⲙⲟⲛⲧⲱ, ⲟⲩⲟⲛⲛⲧⲁ, ⲟⲩⲟⲛⲧ
+* `EMPTY` (121): ⲟⲩⲟⲛ, ⲙⲙⲟⲛ, ⲟⲩⲟⲛⲧⲉ, ⲙⲙⲟⲛⲧⲉ, ⲙⲙⲟⲛⲧ, ⲟⲩⲟⲛⲧⲱ, ⲙⲙⲟⲛⲛⲧⲁ, ⲙⲙⲟⲛⲧⲱ, ⲟⲩⲟⲛⲛⲧⲁ, ⲟⲩⲟⲛⲧ
 
 <table>
   <tr><th>Paradigm <i>ϣⲱⲡⲓ</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Jus</tt></th><th><tt>Opt</tt></th></tr>
@@ -47,9 +47,9 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="cop_bohairic-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (589; 85%),
+<tt>VERB --[<tt><a href="cop_bohairic-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (590; 85%),
 <tt>VERB --[<tt><a href="cop_bohairic-dep-conj.html">conj</a></tt>]--> VERB</tt> (464; 89%),
-<tt>VERB --[<tt><a href="cop_bohairic-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (274; 76%),
+<tt>VERB --[<tt><a href="cop_bohairic-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (275; 77%),
 <tt>VERB --[<tt><a href="cop_bohairic-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (194; 75%),
 <tt>VERB --[<tt><a href="cop_bohairic-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (183; 88%),
 <tt>VERB --[<tt><a href="cop_bohairic-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (29; 88%),

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-MPDT: Relations: `obl`
 
 This relation is universal.
-There are 3 language-specific subtypes of `obl`: <tt><a href="pl_mpdt-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="pl_mpdt-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="pl_mpdt-dep-obl-cmpr.html">obl:cmpr</a></tt>.
+There are 3 language-specific subtypes of `obl`: <tt><a href="pl_mpdt-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="pl_mpdt-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="pl_mpdt-dep-obl-cmp.html">obl:cmp</a></tt>.
 
 2657 nodes (6%) are attached to their parents as `obl`.
 

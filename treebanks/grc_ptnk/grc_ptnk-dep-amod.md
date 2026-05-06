@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 12 10 amod	color:blue
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_2.1
 2	συνετελέσθησαν	συντελέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-finish|Ref=GEN_2.1
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_2.1
+3	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_2.1
 4	οὐρανὸς	οὐρανός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	Gloss=sky,heaven|Ref=GEN_2.1
 5	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next|Ref=GEN_2.1
 6	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=GEN_2.1
@@ -32,7 +32,7 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 8	,	,	PUNCT	_	_	9	punct	_	Ref=GEN_2.1
 9	καὶ	καί	CCONJ	_	_	12	cc	_	Gloss=and,also,even,then,next|Ref=GEN_2.1
 10	πᾶς	πᾶς	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	12	amod	_	Gloss=every,all|Ref=GEN_2.1
-11	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Gloss=the;-oh|Ref=GEN_2.1
+11	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Gloss=the;-oh|Ref=GEN_2.1
 12	κόσμος	κόσμος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	Gloss=world|Ref=GEN_2.1
 13	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	12	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_2.1|SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	Ref=GEN_2.1
@@ -49,9 +49,9 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 1	καὶ	καί	CCONJ	_	_	3	cc	_	Gloss=and,also,even,then,next|Ref=GEN_45.20
 2	μὴ	μή	ADV	_	Polarity=Neg	3	advmod	_	Gloss=no,not|Ref=GEN_45.20
 3	φείσησθε	φείδομαι	VERB	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-spare|Ref=GEN_45.20
-4	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Art	5	det	_	Gloss=the|Ref=GEN_45.20
+4	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	Gloss=the|Ref=GEN_45.20
 5	ὀφθαλμοῖς	ὀφθαλμός	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	3	obl	_	Gloss=eye|Ref=GEN_45.20
-6	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem,Masc,Neut|Number=Plur|PronType=Art	7	det	_	Gloss=the|Ref=GEN_45.20
+6	τῶν	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	_	Gloss=the|Ref=GEN_45.20
 7	σκευῶν	σκεῦος	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	3	obl	_	Gloss=weapons,goods|Ref=GEN_45.20
 8	ὑμῶν	ὑμεῖς	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	7	nmod:poss	_	Gloss=you|Ref=GEN_45.20|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	Ref=GEN_45.20

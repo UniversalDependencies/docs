@@ -78,7 +78,7 @@ The following 6 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 1	La	la	DET	_	Definite=Def|PronType=Art	2	det	_	_
 2	esperanto-komunumo	esperanto-komunumo	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 3	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	unu	unu	PRON	_	Case=Nom|Number=Sing	0	root	_	_
+4	unu	unu	PRON	_	Case=Nom|Number=Sing|PronType=Dem	0	root	_	_
 5	el	el	ADP	_	_	8	case	_	_
 6	malmultaj	malmulta	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
 7	mondskalaj	mondskala	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_

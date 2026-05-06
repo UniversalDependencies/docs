@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Hausa-WesternAutogramm: POS Tags: `NUM`
 
 There are 11 `NUM` lemmas (1%), 13 `NUM` types (1%) and 46 `NUM` tokens (0%).
-Out of 16 observed tags, the rank of `NUM` is: 11 in number of lemmas, 12 in number of types and 13 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 12 in number of lemmas, 12 in number of types and 13 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>gùdaː, biyu, tar̃à, ɗàriː, bakwài, huɗu, shâː, ɗaya, dubuː, goːmà</em>
 
 The 10 most frequent `NUM` types:  <em>gùdaː, biyu, tar̃à, bakwài, ɗàriː, huɗu, shâː, ɗaya, biyun, dubuː</em>
 
-The 10 most frequent ambiguous lemmas: <em>shâː</em> (<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> 5, <tt><a href="ha_westernautogramm-pos-NUM.html">NUM</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>shâː</em> (<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> 6, <tt><a href="ha_westernautogramm-pos-NUM.html">NUM</a></tt> 2)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.181818 (the average of all parts of speech is 1.458157).
+The form / lemma ratio of `NUM` is 1.181818 (the average of all parts of speech is 1.624060).
 
 The 1st highest number of forms (2) was observed with the lemma “biyu”: <em>biyu, biyun</em>.
 

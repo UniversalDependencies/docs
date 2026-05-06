@@ -79,19 +79,19 @@ The following 11 pairs of parts of speech are connected with `nmod:unmarked`: <t
 2	ϩⲱ	ϩⲱⲱ	NOUN	IMOD	_	1	nmod:unmarked	_	_
 3	ϥ	ⲛⲑⲟϥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	2	nmod:poss	_	_
 4	ⲛⲉ	ⲛⲁⲣⲉ	AUX	CPRET	_	6	aux	_	_
-5	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	6	det	_	_
+5	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	6	det	_	Entity=(person
 6	ⲣⲱⲙⲓ	ⲣⲱⲙⲓ	NOUN	N	_	0	root	_	_
 7	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	9	mark	_	_
 8	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-9	ⲟⲩⲁⲃ	ⲟⲩⲁⲃ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	6	acl:relcl	_	_
+9	ⲟⲩⲁⲃ	ⲟⲩⲁⲃ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	6	acl:relcl	_	Entity=person)
 10	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	6	cop	_	_
 11	ⲉ	ⲉⲣⲉ	SCONJ	CCIRC	_	13	mark	_	_
 12	ϥ	ⲛⲑⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
 13	ⲙⲟϣⲓ	ⲙⲟϣⲓ	VERB	V	Mood=Ind|VerbForm=Fin	6	acl:relcl	_	_
 14	ϧⲉⲛ	ϧⲉⲛ	ADP	PREP	_	15	case	_	_
-15	ⲛⲁ	ⲫⲁ	DET	PPOS	Definite=Def|Number=Plur|Poss=Yes|PronType=Prs	13	obl	_	_
-16	ⲫ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	ⲛⲟⲩϯ	ⲛⲟⲩϯ	NOUN	N	_	15	nmod:poss	_	Orig=ϯ
+15	ⲛⲁ	ⲫⲁ	DET	PPOS	Definite=Def|Number=Plur|Poss=Yes|PronType=Prs	13	obl	_	Entity=(abstract
+16	ⲫ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	Entity=(person
+17	ⲛⲟⲩϯ	ⲛⲟⲩϯ	NOUN	N	_	15	nmod:poss	_	Entity=person)abstract)|Orig=ϯ
 
 ~~~
 

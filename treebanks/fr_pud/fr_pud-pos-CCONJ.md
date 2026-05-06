@@ -6,28 +6,31 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-PUD: POS Tags: `CCONJ`
 
-There are 5 `CCONJ` lemmas (0%), 6 `CCONJ` types (0%) and 561 `CCONJ` tokens (2%).
-Out of 15 observed tags, the rank of `CCONJ` is: 13 in number of lemmas, 14 in number of types and 11 in number of tokens.
+There are 6 `CCONJ` lemmas (0%), 7 `CCONJ` types (0%) and 569 `CCONJ` tokens (2%).
+Out of 15 observed tags, the rank of `CCONJ` is: 12 in number of lemmas, 14 in number of types and 11 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>et, mais, ou, car, and</em>
+The 10 most frequent `CCONJ` lemmas: <em>et, mais, ou, car, dont, and</em>
 
-The 10 most frequent `CCONJ` types:  <em>et, mais, ou, car, and, où</em>
+The 10 most frequent `CCONJ` types:  <em>et, mais, ou, car, dont, and, où</em>
 
-The 10 most frequent ambiguous lemmas: <em>and</em> (<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fr_pud-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>dont</em> (<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 15, <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 8), <em>and</em> (<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fr_pud-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>and</em> (<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fr_pud-pos-X.html">X</a></tt> 1), <em>où</em> (<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 26, <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>dont</em> (<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 15, <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 8), <em>and</em> (<tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="fr_pud-pos-X.html">X</a></tt> 1), <em>où</em> (<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 26, <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
+* <em>dont</em>
+  * <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 15: <em>Dans un épisode , il est supposé être un agent infiltré <b>dont</b> la cible est Homer .</em>
+  * <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 8: <em>À le moins 330 000 personnes , <b>dont</b> 10 000 techniciens , ont été impliquées .</em>
 * <em>and</em>
   * <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Mais il semble que BA <b>and</b> IAG ont trouvé la solution et peuvent proposer quelque chose de vaguement fiable .</em>
-  * <tt><a href="fr_pud-pos-X.html">X</a></tt> 1: <em>Dans l’ album « On a Wing <b>and</b> a Prayer » ( 1992 ) , il retrouve son partenaire Joe Egan , de le groupe Stealers Wheel , dans plusieurs morceaux .</em>
+  * <tt><a href="fr_pud-pos-X.html">X</a></tt> 1: <em>Dans l' album « On a Wing <b>and</b> a Prayer » ( 1992 ) , il retrouve son partenaire Joe Egan , de le groupe Stealers Wheel , dans plusieurs morceaux .</em>
 * <em>où</em>
-  * <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 26: <em>D’ <b>où</b> vient toute son énergie ? Et cette voix , qui pourrait provoquer des ondes de choc .</em>
+  * <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> 26: <em>D' <b>où</b> vient toute son énergie ? Et cette voix , qui pourrait provoquer des ondes de choc .</em>
   * <tt><a href="fr_pud-pos-CCONJ.html">CCONJ</a></tt> 1: <em>« Dans les grandes villes où nous avons lancé notre travail <b>où</b> qui sont encore en cours de développement , on continuera » , confirma Barratt .</em>
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.200000 (the average of all parts of speech is 1.300944).
+The form / lemma ratio of `CCONJ` is 1.166667 (the average of all parts of speech is 1.297042).
 
 The 1st highest number of forms (2) was observed with the lemma “ou”: <em>ou, où</em>.
 
@@ -40,17 +43,17 @@ The 3rd highest number of forms (1) was observed with the lemma “car”: <em>c
 `CCONJ` occurs with 2 feature-value pairs: `ExtPos=CCONJ`, `Typo=Yes`
 
 `CCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (558 tokens).
-Examples: <em>et, mais, ou, car, and</em>
+The most frequent feature combination is `_` (566 tokens).
+Examples: <em>et, mais, ou, car, dont, and</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="fr_pud-dep-cc.html">cc</a></tt> (536; 96% instances), <tt><a href="fr_pud-dep-discourse.html">discourse</a></tt> (24; 4% instances), <tt><a href="fr_pud-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="fr_pud-dep-cc.html">cc</a></tt> (544; 96% instances), <tt><a href="fr_pud-dep-discourse.html">discourse</a></tt> (24; 4% instances), <tt><a href="fr_pud-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (223; 40% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (211; 38% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (51; 9% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (47; 8% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (9; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 10 different parts of speech: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (223; 39% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (215; 38% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (55; 10% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (47; 8% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (9; 2% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (9; 2% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-555 (99%) `CCONJ` nodes are leaves.
+563 (99%) `CCONJ` nodes are leaves.
 
 6 (1%) `CCONJ` nodes have one child.
 

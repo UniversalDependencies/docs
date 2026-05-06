@@ -22,14 +22,14 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 case	color:blue
-1	તેણીએ	તેણી	PRON	_	_	7	nsubj	_	_
-2	તે	તે	PRON	_	_	4	nmod	_	_
-3	ના	ના	ADP	_	_	2	case	_	_
-4	પતિ	પતિ	NOUN	_	_	7	obl	_	_
-5	પાસે	પાસે	ADP	_	_	4	case	_	_
-6	ગાડી	ગાડી	NOUN	_	_	7	obj	_	_
-7	ધોવડાવી	ધોવું	VERB	_	_	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+1	તેણીએ	તેણી	PRON	_	_	7	nsubj	_	LTranslit=teṇī|Translit=teṇīe
+2	તે	તે	PRON	_	_	4	nmod	_	LTranslit=te|Translit=te
+3	ના	ના	ADP	_	_	2	case	_	LTranslit=nā|Translit=nā
+4	પતિ	પતિ	NOUN	_	_	7	obl	_	LTranslit=pati|Translit=pati
+5	પાસે	પાસે	ADP	_	_	4	case	_	LTranslit=pāse|Translit=pāse
+6	ગાડી	ગાડી	NOUN	_	_	7	obj	_	LTranslit=gāḍī|Translit=gāḍī
+7	ધોવડાવી	ધોવું	VERB	_	_	0	root	_	LTranslit=dhovuṁ|SpaceAfter=No|Translit=dhovaḍāvī
+8	.	.	PUNCT	_	_	7	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 
@@ -40,16 +40,16 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 case	color:blue
-1	તે	તે	PRON	_	_	8	nsubj	_	_
-2	પેરિસ	પેરિસ	PROPN	_	_	8	obj	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	_
-4	ફ્રાન્સ	ફ્રાન્સ	PROPN	_	_	6	nmod	_	_
-5	ની	ની	ADP	_	_	4	case	_	_
-6	રાજધાનીમાં	રાજધાનીમાં	NOUN	_	_	2	appos	_	SpaceAfter=No
-7	,	,	PUNCT	_	_	6	punct	_	_
-8	મોટી	મોટી	ADJ	_	_	0	root	_	_
-9	થઈ	થવું	AUX	_	_	8	cop	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	8	punct	_	SpaceAfter=No
+1	તે	તે	PRON	_	_	8	nsubj	_	LTranslit=te|Translit=te
+2	પેરિસ	પેરિસ	PROPN	_	_	8	obj	_	LTranslit=perisa|SpaceAfter=No|Translit=perisa
+3	,	,	PUNCT	_	_	2	punct	_	LTranslit=,|Translit=,
+4	ફ્રાન્સ	ફ્રાન્સ	PROPN	_	_	6	nmod	_	LTranslit=phrānsa|Translit=phrānsa
+5	ની	ની	ADP	_	_	4	case	_	LTranslit=nī|Translit=nī
+6	રાજધાનીમાં	રાજધાનીમાં	NOUN	_	_	2	appos	_	LTranslit=rājadhānīmāṁ|SpaceAfter=No|Translit=rājadhānīmāṁ
+7	,	,	PUNCT	_	_	6	punct	_	LTranslit=,|Translit=,
+8	મોટી	મોટી	ADJ	_	_	0	root	_	LTranslit=moṭī|Translit=moṭī
+9	થઈ	થવું	AUX	_	_	8	cop	_	LTranslit=thavuṁ|SpaceAfter=No|Translit=thaī
+10	.	.	PUNCT	_	_	8	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 
@@ -60,13 +60,13 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 case	color:blue
-1	છોક્રીએ	છોકરું	NOUN	_	_	6	nsubj	_	_
-2	તે	તું	PRON	_	_	4	nmod	_	_
-3	ની	ની	ADP	_	_	2	case	_	_
-4	બહેનપણીને	બહેનપણી	NOUN	_	_	6	iobj	_	_
-5	પત્ર	પત્ર	NOUN	_	_	6	obj	_	_
-6	લખ્યો	લખવું	VERB	_	_	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
+1	છોક્રીએ	છોકરું	NOUN	_	_	6	nsubj	_	LTranslit=chokaruṁ|Translit=chokrīe
+2	તે	તું	PRON	_	_	4	nmod	_	LTranslit=tuṁ|Translit=te
+3	ની	ની	ADP	_	_	2	case	_	LTranslit=nī|Translit=nī
+4	બહેનપણીને	બહેનપણી	NOUN	_	_	6	iobj	_	LTranslit=bahenapaṇī|Translit=bahenapaṇīne
+5	પત્ર	પત્ર	NOUN	_	_	6	obj	_	LTranslit=patra|Translit=patra
+6	લખ્યો	લખવું	VERB	_	_	0	root	_	LTranslit=lakhavuṁ|SpaceAfter=No|Translit=lakhyo
+7	.	.	PUNCT	_	_	6	punct	_	LTranslit=.|Translit=.
 
 ~~~
 

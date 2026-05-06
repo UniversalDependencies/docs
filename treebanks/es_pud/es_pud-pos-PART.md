@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.314341).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.320249).
 
 The 1st highest number of forms (1) was observed with the lemma “not”: <em>n't</em>.
 
@@ -30,7 +30,7 @@ The 1st highest number of forms (1) was observed with the lemma “not”: <em>n
 `PART` occurs with 2 feature-value pairs: `Foreign=Yes`, `Polarity=Neg`
 
 `PART` occurs with 2 feature combinations.
-The most frequent feature combination is `Foreign=Yes|Polarity=Neg` (1 tokens).
+The most frequent feature combination is `Polarity=Neg` (1 tokens).
 Examples: <em>n't</em>
 
 

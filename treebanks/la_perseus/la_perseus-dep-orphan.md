@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (0%) are attached to their parents as `orphan`.
+9 nodes (0%) are attached to their parents as `orphan`.
 
-5 instances of `orphan` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.71428571428571.
+6 instances of `orphan` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.55555555555556.
 
-The following 6 pairs of parts of speech are connected with `orphan`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (2; 29% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 14% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1; 14% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 14% instances).
+The following 8 pairs of parts of speech are connected with `orphan`: <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-PROPN.html">PROPN</a></tt> (2; 22% instances), <tt><a href="la_perseus-pos-DET.html">DET</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (1; 11% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-ADV.html">ADV</a></tt> (1; 11% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-DET.html">DET</a></tt> (1; 11% instances), <tt><a href="la_perseus-pos-PRON.html">PRON</a></tt>-<tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -73,16 +73,35 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 orphan	color:blue
-1	tamengenio	genius	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	3	orphan	_	LId=genius1
-2	illius	ille	DET	p-s---mg-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	1	nmod	_	LId=ille1
-3	gratias	gratia	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	4	parataxis	_	LId=gratia1
-4	enatavi	enato	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	LId=enato1|SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Perfectum
-5	.	.	PUNCT	u--------	_	4	punct	_	LId=punc1
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 orphan	color:blue
+1	Exspatiata	exspatior	VERB	v-prppnn-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	2	advcl:pred	_	LId=exspatior1|TraditionalMood=Participium|TraditionalTense=Perfectum
+2	ruunt	ruo	VERB	v3ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=ruo1|TraditionalMood=Indicativus|TraditionalTense=Praesens
+3	per	per	ADP	r--------	_	6	case	_	LId=per1
+4	apertos	aperio	VERB	a-p---ma-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	6	acl	_	LId=apertus1
+5	flumina	flumen	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	LId=flumen1
+6	campos	campus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	2	obl	_	LId=campus2
+7	cum	cum	ADP	c--------	_	9	cc	_	LId=cum1
+8	que	que	CCONJ	c--------	_	10	cc	_	_
+9	satis	sero	VERB	n-p---nb-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	10	orphan	_	LId=sata1
+10	arbusta	arbustum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	2	conj	_	LId=arbustum1
+11	simul	simul	ADV	d--------	_	10	orphan	_	LId=simul1
+12	pecudes	pecus	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	10	conj	_	_
+13	que	que	CCONJ	c--------	_	12	cc	_	LId=que1
+14	viros	vir	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	10	conj	_	_
+15	que	que	CCONJ	c--------	_	14	cc	_	LId=que1
+16	tecta	tectum	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	10	conj	_	_
+17	que	que	CCONJ	c--------	_	16	cc	_	LId=que1
+18	cum	cum	ADP	r--------	_	23	case	_	LId=cum1
+19	que	que	CCONJ	r--------	_	21	cc	_	_
+20	suis	suus	DET	a-p---nb-	Case=Abl|Gender=Neut|Number=Plur|Person[psor]=3|Poss=Yes|PronType=Prs	23	det	_	LId=suus1
+21	rapiunt	rapio	VERB	v3ppia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	conj	_	LId=rapio1|TraditionalMood=Indicativus|TraditionalTense=Praesens
+22	penetralia	penetralis	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	21	obj	_	LId=penetralis1
+23	sacris	sacer	ADJ	n-p---nb-	Case=Abl|Gender=Neut|Number=Plur	21	obl	_	SpaceAfter=No|LId=sacrum1
+24	.	.	PUNCT	u--------	_	2	punct	_	LId=punc1
 
 ~~~
 

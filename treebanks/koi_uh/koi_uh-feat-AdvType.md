@@ -9,14 +9,14 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `Deg`, `Loc`, `Man`, `Mod`, `Tim`.
 
-60 tokens (6%) have a non-empty value of `AdvType`.
+60 tokens (5%) have a non-empty value of `AdvType`.
 43 types (7%) occur at least once with a non-empty value of `AdvType`.
 37 lemmas (8%) occur at least once with a non-empty value of `AdvType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (48; 4% instances), <tt><a href="koi_uh-pos-ADP.html">ADP</a></tt> (12; 1% instances).
 
 ### `ADV`
 
-48 <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> tokens (51% of all `ADV` tokens) have a non-empty value of `AdvType`.
+48 <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> tokens (47% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
 `ADV` tokens may have the following values of `AdvType`:
 

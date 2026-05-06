@@ -22,10 +22,10 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 3 root	color:blue
-1	Þæt	se	DET	DT	Case=Nom|Gender=Neut|Number=Sing	2	det	_	Gloss=the|Hyperlemma=the|Root=*so
+1	Þæt	se	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	Gloss=the|Hyperlemma=the|Root=*so
 2	mæden	mæden	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	Gloss=girl|Hyperlemma=maiden|Root=*mogʰ
 3	ƿrat	ƿritan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=wrote|Hyperlemma=write|Root=*wrey
-4	hyre	heo	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing	5	nmod:poss	_	Gloss=her|Hyperlemma=she|Root=*ḱey
+4	hyre	heo	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	nmod:poss	_	Gloss=her|Hyperlemma=she|Root=*ḱey
 5	freonde	freond	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	Gloss=friend|Hyperlemma=friend|Root=*preyH
 6	ærend-ƿrit	ærend-ƿrit	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	Gloss=letter|Hyperlemma=errand-writ|Root=*h₂eyeri-wrey|SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	_	Gloss=.|Hyperlemma=.|Root=_
@@ -39,12 +39,12 @@ The following 4 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Min	min	PRON	PRP$	Case=Gen|Number=Sing|Person=1	2	nmod:poss	_	Gloss=my|Hyperlemma=mine|Root=*mīn
+1	Min	min	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	Gloss=my|Hyperlemma=mine|Root=*mīn
 2	fæder	fæder	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Gloss=father|Hyperlemma=father|Root=*ph₂tḗr
 3	is	beon	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Gloss=is|Hyperlemma=be|Root=*h₁ésti
 4	mara	miċel	ADJ	JJR	Degree=Cmp	0	root	_	Gloss=great|Hyperlemma=much|Root=*méǵh₂s
 5	þonne	þonne	ADP	IN	_	6	case	_	Gloss=than|Hyperlemma=than|Root=*só
-6	þin	þīn	PRON	PRP	Case=Gen|Number=Sing|Person=2	4	obl	_	Gloss=yours|Hyperlemma=thine|Root=*þīn|SpaceAfter=No
+6	þin	þīn	PRON	PRP	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	obl	_	Gloss=yours|Hyperlemma=thine|Root=*þīn|SpaceAfter=No
 7	.	.	PUNCT	.	_	4	punct	_	Gloss=.|Hyperlemma=.|Root=_
 
 ~~~

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
 
-317 tokens (11%) have a non-empty value of `PronType`.
-71 types (9%) occur at least once with a non-empty value of `PronType`.
-22 lemmas (4%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (307; 10% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 0% instances).
+329 tokens (11%) have a non-empty value of `PronType`.
+74 types (9%) occur at least once with a non-empty value of `PronType`.
+23 lemmas (4%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> (319; 10% instances), <tt><a href="sms_giellagas-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="sms_giellagas-pos-ADV.html">ADV</a></tt> (3; 0% instances).
 
 ### `PRON`
 
-307 <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+319 <tt><a href="sms_giellagas-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (259; 84%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (196; 64%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (266; 83%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (203; 64%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (102; 33% of non-empty `PronType`): <em>tõt, tõn, dõõt, tõt-i, dõõn, tõid, tuk, tut, dââʹst, dõõk</em>
+* `Dem` (103; 32% of non-empty `PronType`): <em>tõt, tõn, dõõt, tõt-i, dõõn, tõid, tuk, tut, tän, dââʹst</em>
 * `Ind` (9; 3% of non-empty `PronType`): <em>måttam, nuʹbb, jeeʹres, jiânnai-a</em>
 * `Int` (18; 6% of non-empty `PronType`): <em>mâiʹd, Mii, mõõn, ǩii</em>
-* `Prs` (158; 51% of non-empty `PronType`): <em>son, ton, mon, suu, muu, miʹjjid, suʹst, seeʹst, tuu, jiijj</em>
+* `Prs` (169; 53% of non-empty `PronType`): <em>son, ton, mon, suu, muu, miʹjjid, suʹst, seeʹst, sij, tuu</em>
 * `Rel` (12; 4% of non-empty `PronType`): <em>mii, kååʹtt, mõin, mõõn, ǩeäzz</em>
 * `Tot` (8; 3% of non-empty `PronType`): <em>puk, puk-i</em>
 
@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 * `Int` (1; 33% of non-empty `PronType`): <em>Koozz</em>
 * `Rel` (2; 67% of non-empty `PronType`): <em>mâʹst, mõõzz</em>
-* `EMPTY` (298): <em>âʹtte, âʹpet, de, kâʹl, tok, mäʹhtt, pâi, teâđast, še, tõʹst</em>
+* `EMPTY` (305): <em>âʹtte, âʹpet, de, kâʹl, tok, mäʹhtt, teâđast, pâi, še, tõʹst</em>
 
 ## Relations with Agreement in `PronType`
 

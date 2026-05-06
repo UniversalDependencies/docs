@@ -152,7 +152,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> PRON</tt> (57; 81%),
+<tt>PRON --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> PRON</tt> (57; 80%),
 <tt>ADV --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> ADV</tt> (24; 83%),
 <tt>ADV --[<tt><a href="fi_ftb-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (12; 80%),
 <tt>DET --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> PRON</tt> (10; 100%),

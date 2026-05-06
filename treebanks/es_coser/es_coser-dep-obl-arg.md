@@ -47,7 +47,7 @@ The following 6 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 5	a	a	ADP	fs	_	7	case	_	_
 6	mi	mi	DET	dp1css	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
 7	hermano	hermano	NOUN	ncms000	Gender=Masc|Number=Sing	4	obl:arg	_	SpaceAfter=No
-8	:	:	PUNCT	fd	PunctType=Colo	7	punct	_	_
+8	:	:	PUNCT	fd	PunctType=Colo	9	punct	_	_
 9	Joe	Joe	PROPN	_	_	7	appos	_	SpaceAfter=No
 10	,	,	PUNCT	fc	PunctType=Comm	11	punct	_	_
 11	cuidao	cuidado	NOUN	i	Gender=Masc|Number=Sing	4	obj	_	Ortho=cuidado|SpaceAfter=No
@@ -87,11 +87,11 @@ The following 6 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 21	todos	todo	PRON	pi0mp000	Gender=Masc|Number=Plur|PronType=Tot	22	nsubj	_	_
 22	vamos	ir	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	18	advcl	_	_
 23	igual	igual	ADV	rg	_	22	advcl	_	SpaceAfter=No
-24	,	,	PUNCT	fc	PunctType=Comm	22	punct	_	_
+24	,	,	PUNCT	fc	PunctType=Comm	26	punct	_	_
 25	entonces	entonces	ADV	rg	_	26	advmod	_	_
 26	pasa	pasar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
 27	eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	26	nsubj	_	SpaceAfter=No
-28	,	,	PUNCT	fc	PunctType=Comm	26	punct	_	_
+28	,	,	PUNCT	fc	PunctType=Comm	38	punct	_	_
 29	yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	31	nsubj	_	_
 30	le	él	PRON	pc3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	31	obl:arg	_	_
 31	digo	decir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	38	csubj	_	SpaceAfter=No
@@ -119,14 +119,14 @@ The following 6 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 53	era	ser	AUX	vsii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	54	cop	_	_
 54	tía	tío	NOUN	ncfs000	Gender=Fem|Number=Sing	47	conj	_	_
 55	esto	este	PRON	pd0ns000	Number=Sing|PronType=Dem	54	obj	_	SpaceAfter=No
-56	,	,	PUNCT	fc	PunctType=Comm	54	punct	_	_
+56	,	,	PUNCT	fc	PunctType=Comm	57	punct	_	_
 57	tía	tío	NOUN	ncfs000	Gender=Fem|Number=Sing	54	appos	_	_
 58	lo	él	PRON	pc3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	57	obj	_	_
 59	otro	otro	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Ind	57	nsubj	_	SpaceAfter=No
 60	,	,	PUNCT	fc	PunctType=Comm	57	punct	_	_
 61	todo	todo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Tot	62	nsubj	_	_
 62	era	ser	AUX	vsii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	64	reparandum	_	SpaceAfter=No
-63	,	,	PUNCT	fc	PunctType=Comm	64	punct	_	_
+63	,	,	PUNCT	fc	PunctType=Comm	62	punct	_	_
 64	todo	todo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Tot	66	reparandum	_	SpaceAfter=No
 65	,	,	PUNCT	fc	PunctType=Comm	64	punct	_	_
 66	todo	todo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Tot	68	nsubj	_	_
@@ -134,7 +134,7 @@ The following 6 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 68	tías	tío	NOUN	ncfp000	Gender=Fem|Number=Plur	54	advcl	_	_
 69	y	y	CCONJ	cc	_	70	cc	_	_
 70	eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	68	conj	_	SpaceAfter=No
-71	,	,	PUNCT	fc	PunctType=Comm	70	punct	_	_
+71	,	,	PUNCT	fc	PunctType=Comm	78	punct	_	_
 72	ahora	ahora	ADV	rg	_	78	advmod	_	_
 73	pues	pues	SCONJ	cs	_	78	discourse	_	_
 74	yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	75	nsubj	_	_
@@ -147,13 +147,13 @@ The following 6 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 81	aquel	aquel	DET	pd0ms000	Gender=Masc|Number=Sing|PronType=Dem	82	nsubj	_	_
 82	quería	querer	AUX	vmii1s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	78	advcl	_	_
 83	hablar	hablar	VERB	vmip3s0	VerbForm=Inf	82	xcomp	_	SpaceAfter=No
-84	,	,	PUNCT	fc	PunctType=Comm	82	punct	_	_
+84	,	,	PUNCT	fc	PunctType=Comm	89	punct	_	_
 85	yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	89	nsubj	_	_
 86	ahora	ahora	ADV	rg	_	89	advmod	_	_
 87	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	89	det	_	_
 88	otra	otro	DET	ac0fs0	Gender=Fem|Number=Sing|PronType=Ind	87	det	_	_
 89	vez	vez	NOUN	ncfs000	Gender=Fem|Number=Sing	78	advcl	_	SpaceAfter=No
-90	,	,	PUNCT	fc	PunctType=Comm	89	punct	_	_
+90	,	,	PUNCT	fc	PunctType=Comm	91	punct	_	_
 91	señora	señor	NOUN	ncfs000	Gender=Fem|Number=Sing	89	obl	_	_
 92	esto	este	PRON	pd0ns000	Number=Sing|PronType=Dem	91	nsubj	_	SpaceAfter=No
 93	,	,	PUNCT	fc	PunctType=Comm	94	punct	_	_
@@ -162,15 +162,15 @@ The following 6 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 96	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	98	cop	_	Ortho=son
 97	unas	uno	DET	di0fp0	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	98	det	_	_
 98	palabras	palabra	NOUN	ncfp000	Gender=Fem|Number=Plur	89	parataxis	_	_
-99	buenas	buena	ADJ	aq0fp0	Gender=Fem|Number=Plur	98	amod	_	_
+99	buenas	buen	ADJ	aq0fp0	Gender=Fem|Number=Plur	98	amod	_	_
 100	y	y	CCONJ	cc	_	102	cc	_	_
 101	todo	todo	DET	pi0ms000	Gender=Masc|Number=Sing|PronType=Tot	102	det	_	_
 102	eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	98	conj	_	SpaceAfter=No
-103	,	,	PUNCT	fc	PunctType=Comm	102	punct	_	_
+103	,	,	PUNCT	fc	PunctType=Comm	106	punct	_	_
 104	ya	ya	ADV	rg	_	106	advmod	_	_
 105	le	él	PRON	pc3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	106	obj	_	_
 106	digo	decir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	98	advcl	_	SpaceAfter=No
-107	,	,	PUNCT	fc	PunctType=Comm	106	punct	_	_
+107	,	,	PUNCT	fc	PunctType=Comm	112	punct	_	_
 108	por	por	ADP	sps00	_	112	case	_	_
 109	eso	ese	PRON	pd0ns000	Number=Sing|PronType=Dem	112	obl	_	_
 110	igual	igual	ADJ	rg	ExtPos=SCONJ|Number=Sing	112	mark	_	_
@@ -186,15 +186,15 @@ The following 6 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 120	enseñan	enseñar	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	114	advcl	_	_
 121	todo	todo	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Tot	120	nsubj	_	_
 122	bien	bien	ADV	rg	_	120	advmod	_	SpaceAfter=No
-123	,	,	PUNCT	fc	PunctType=Comm	120	punct	_	_
+123	,	,	PUNCT	fc	PunctType=Comm	127	punct	_	_
 124	mal	mal	ADV	rg	_	127	advmod	_	_
 125	no	no	ADV	rn	Polarity=Neg	127	advmod	_	_
 126	te	tú	PRON	pc2cs000	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	127	obl:arg	_	_
 127	enseñan	enseñar	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	120	advcl	_	_
 128	nada	nada	PRON	pi0cs000	Number=Sing|PronType=Neg	127	obj	_	_
-129	¡	¡	PUNCT	faa	PunctSide=Ini|PunctType=Excl	128	punct	_	SpaceAfter=No
+129	¡	¡	PUNCT	faa	PunctSide=Ini|PunctType=Excl	130	punct	_	SpaceAfter=No
 130	Hala	hala	INTJ	i	_	120	discourse	_	SpaceAfter=No
-131	!	!	PUNCT	fat	PunctSide=Fin|PunctType=Excl	18	punct	_	_
+131	!	!	PUNCT	fat	PunctSide=Fin|PunctType=Excl	130	punct	_	_
 
 ~~~
 

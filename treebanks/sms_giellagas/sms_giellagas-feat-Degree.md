@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (2; 100% of non-empty `Degree`): <em>lääʹđesmiõllsab, šuurab</em>
-* `EMPTY` (37): <em>nåkkam, kuälmad, jõnn, nuuʹbb, šiõǥǥ, nuʹbb, tiõrvâs, ekksaž, jåʹttel, kaađâš</em>
+* `EMPTY` (38): <em>nåkkam, kuälmad, jõnn, nuuʹbb, šiõǥǥ, nuʹbb, tiõrvâs, ekksaž, jåʹttel, kaađâš</em>
 
 ### `NOUN`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Dim` (2; 100% of non-empty `Degree`): <em>vuõddjez, äʹrbbaaušu</em>
-* `EMPTY` (407): <em>ooumaž, tueʹllj, mieʹccest, heävaš, nijdd, stäʹlmmstääll, vuâra, ääkka, eččad, niõđ</em>
+* `EMPTY` (420): <em>ooumaž, tueʹllj, mieʹccest, heävaš, nijdd, stäʹlmmstääll, vuâra, ääkka, eččad, niõđ</em>
 

@@ -37,5 +37,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="pl_pdb-pos-PUNCT.ht
 ## Relations with Agreement in `PunctType`
 
 The 10 most frequent relations where parent and child node agree in `PunctType`:
-<tt>PUNCT --[<tt><a href="pl_pdb-dep-punct.html">punct</a></tt>]--> PUNCT</tt> (832; 94%).
+<tt>PUNCT --[<tt><a href="pl_pdb-dep-punct.html">punct</a></tt>]--> PUNCT</tt> (832; 95%).
 

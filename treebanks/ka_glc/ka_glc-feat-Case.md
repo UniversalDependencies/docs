@@ -11,23 +11,23 @@ It occurs with 7 different values: `Dat`, `Erg`, `Ess`, `Gen`, `Ins`, `Nom`, `Vo
 
 37758 tokens (63%) have a non-empty value of `Case`.
 12630 types (83%) occur at least once with a non-empty value of `Case`.
-7217 lemmas (80%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (20371; 34% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (8751; 15% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (3461; 6% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (2809; 5% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1560; 3% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (418; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (388; 1% instances).
+7217 lemmas (81%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (20399; 34% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (8722; 14% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (3461; 6% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (2809; 5% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1560; 3% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (418; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (389; 1% instances).
 
 ### `NOUN`
 
-20371 <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
+20399 <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ka_glc-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (19120; 94%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15810; 78%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ka_glc-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (19120; 94%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15837; 78%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Dat` (4624; 23% of non-empty `Case`): <em>წელს, დროს, წლებ, საუკუნე, განმავლობა, საფუძველ, პერიოდ, შემთხვევა, პროცეს, ტერიტორია</em>
-* `Erg` (198; 1% of non-empty `Case`): <em>მეცნიერმა, განვითარებამ, მექანიკამ, ქიმიკოსმა, გამოყენებამ, ფიზიკოსმა, ადამიანმა, ასტრონომმა, აღმოჩენებმა, გამოგონებამ</em>
+* `Dat` (4631; 23% of non-empty `Case`): <em>წელს, დროს, წლებ, საუკუნე, განმავლობა, საფუძველ, პერიოდ, შემთხვევა, პროცეს, ტერიტორია</em>
+* `Erg` (199; 1% of non-empty `Case`): <em>მეცნიერმა, განვითარებამ, მექანიკამ, ქიმიკოსმა, გამოყენებამ, ფიზიკოსმა, ადამიანმა, ასტრონომმა, აღმოჩენებმა, გამოგონებამ</em>
 * `Ess` (338; 2% of non-empty `Case`): <em>შედეგად, მაგალითად, საფუძვლად, მეცნიერებად, მიზნად, დღე, დაწყება, ფუძემდებლად, წლება, დისციპლინად</em>
-* `Gen` (7835; 38% of non-empty `Case`): <em>საუკუნის, ადამიანის, განვითარების, დედამიწის, წლის, სამართლის, ხელოვნების, ენის, კვლევის, მეურნეობის</em>
+* `Gen` (7837; 38% of non-empty `Case`): <em>საუკუნის, ადამიანის, განვითარების, დედამიწის, წლის, სამართლის, ხელოვნების, ენის, კვლევის, მეურნეობის</em>
 * `Ins` (989; 5% of non-empty `Case`): <em>მიზნით, საშუალებით, წლი, სახით, გაგებით, გამოყენებით, განსხვავებით, დაკავშირებით, შედარებით, წლები</em>
-* `Nom` (6386; 31% of non-empty `Case`): <em>მეცნიერება, დარგი, ტერმინი, ნაწილი, მნიშვნელობა, სამართალი, სისტემა, მიზანი, ისტორია, მოძღვრება</em>
+* `Nom` (6404; 31% of non-empty `Case`): <em>მეცნიერება, დარგი, ტერმინი, ნაწილი, მნიშვნელობა, სამართალი, სისტემა, მიზანი, ისტორია, მოძღვრება</em>
 * `Voc` (1; 0% of non-empty `Case`): <em>ფაქტო</em>
 * `EMPTY` (231): <em>მაგ., წ., ა.შ, ა., ი., ა.შ., გ., დ., კ., რ.</em>
 
@@ -41,18 +41,18 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-8751 <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Case`.
+8722 <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> tokens (97% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8640; 99%), <tt><a href="ka_glc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (7541; 86%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8612; 99%), <tt><a href="ka_glc-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (7514; 86%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Dat` (1796; 21% of non-empty `Case`): <em>სხვადასხვა, თანამედროვე, ქიმიურ, ძველ, ზოგად, ფიზიკურ, ცოცხალ, ახალ, მრავალ, საერთაშორისო</em>
-* `Erg` (63; 1% of non-empty `Case`): <em>გერმანელმა, რუსმა, ამერიკელმა, ინგლისელმა, არნახულმა, აღიარებულმა, ახალმა, ბიოფარმულმა, ბირთვულმა, ბიჰევიორისტულმა</em>
+* `Dat` (1789; 21% of non-empty `Case`): <em>სხვადასხვა, თანამედროვე, ქიმიურ, ძველ, ზოგად, ფიზიკურ, ცოცხალ, ახალ, მრავალ, საერთაშორისო</em>
+* `Erg` (62; 1% of non-empty `Case`): <em>გერმანელმა, რუსმა, ამერიკელმა, ინგლისელმა, არნახულმა, აღიარებულმა, ახალმა, ბიოფარმულმა, ბირთვულმა, ბიჰევიორისტულმა</em>
 * `Ess` (219; 3% of non-empty `Case`): <em>დამოუკიდებელ, უმთავრესად, ბოლო, თანამედროვე, ისტორიულად, მეტად, უმეტესად, ძირითად, ახლად, ბუნებრივად</em>
-* `Gen` (3105; 35% of non-empty `Case`): <em>სხვადასხვა, ქიმიური, საერთაშორისო, ახალი, მსოფლიო, ისტორიული, ფიზიკური, ქართული, თანამედროვე, სამეცნიერო</em>
+* `Gen` (3102; 36% of non-empty `Case`): <em>სხვადასხვა, ქიმიური, საერთაშორისო, ახალი, მსოფლიო, ისტორიული, ფიზიკური, ქართული, თანამედროვე, სამეცნიერო</em>
 * `Ins` (409; 5% of non-empty `Case`): <em>ფართო, სხვადასხვა, უძველესი, ბერძნული, სპეციალური, ფიზიკური, ქიმიური, ბოლო, გარკვეული, საერთო</em>
-* `Nom` (3159; 36% of non-empty `Case`): <em>ძირითადი, დიდი, მნიშვნელოვანი, მთავარი, საერთაშორისო, ცნობილი, ახალი, სამეცნიერო, ქიმიური, თანამედროვე</em>
+* `Nom` (3141; 36% of non-empty `Case`): <em>ძირითადი, დიდი, მნიშვნელოვანი, მთავარი, საერთაშორისო, ცნობილი, ახალი, სამეცნიერო, ქიმიური, თანამედროვე</em>
 * `EMPTY` (246): <em>ბერძნ., უფრო, ძვ., ინგლ., ლათ., ე.წ., ახ., ლიტ., ფრანგ., ჩრდ.</em>
 
 <table>
@@ -154,16 +154,16 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 ### `NUM`
 
-388 <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> tokens (38% of all `NUM` tokens) have a non-empty value of `Case`.
+389 <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> tokens (38% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="ka_glc-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (364; 94%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (230; 59%), <tt><a href="ka_glc-feat-NumType.html">NumType</a></tt><tt>=Ord</tt> (195; 50%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="ka_glc-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (365; 94%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (230; 59%), <tt><a href="ka_glc-feat-NumType.html">NumType</a></tt><tt>=Ord</tt> (195; 50%).
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Dat` (68; 18% of non-empty `Case`): <em>მეორე, ერთ, პირველ, ორ, ბევრ, ათას, მესამე, ოთხ, მილიარდ, სამ</em>
+* `Dat` (68; 17% of non-empty `Case`): <em>მეორე, ერთ, პირველ, ორ, ბევრ, ათას, მესამე, ოთხ, მილიარდ, სამ</em>
 * `Erg` (4; 1% of non-empty `Case`): <em>პირველმა, VI-მ</em>
 * `Ess` (28; 7% of non-empty `Case`): <em>პირველ, ორ, ერთ, ათასა, მეორე, პირველად, 1859-1870-, 300-, 500-, ბევრად</em>
-* `Gen` (110; 28% of non-empty `Case`): <em>მეორე, პირველი, ორი, ერთი, სამი, VI-ის, ხუთი, I-ის, მეოცე, ათასი</em>
+* `Gen` (111; 29% of non-empty `Case`): <em>მეორე, პირველი, ორი, ერთი, სამი, VI-ის, ხუთი, I-ის, მეოცე, ათასი</em>
 * `Ins` (26; 7% of non-empty `Case`): <em>ერთი, ორი, სამი, პირველი, 103-, 199-, 20-, 2000–, 800-, მეორე</em>
 * `Nom` (152; 39% of non-empty `Case`): <em>პირველი, ორი, ერთი, ბევრი, მეორე, სამი, ცოტა, ხუთი, მილიონი, ოთხი</em>
 * `EMPTY` (637): <em>XIX, XX, XVII, XVIII, II, 1992, 1999, 2, 1, 2008</em>
@@ -182,14 +182,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ka_glc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6657; 96%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6664; 96%),
 <tt>NOUN --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2943; 96%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-case.html">case</a></tt>]--> ADP</tt> (2777; 99%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-det.html">det</a></tt>]--> PRON</tt> (787; 82%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (693; 95%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-case.html">case</a></tt>]--> ADP</tt> (2778; 99%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-det.html">det</a></tt>]--> PRON</tt> (791; 82%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (699; 95%),
 <tt>ADJ --[<tt><a href="ka_glc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (497; 98%),
-<tt>ADJ --[<tt><a href="ka_glc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (320; 77%),
-<tt>NOUN --[<tt><a href="ka_glc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (292; 64%),
+<tt>ADJ --[<tt><a href="ka_glc-dep-amod.html">amod</a></tt>]--> ADJ</tt> (313; 77%),
+<tt>NOUN --[<tt><a href="ka_glc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (295; 64%),
 <tt>PRON --[<tt><a href="ka_glc-dep-case.html">case</a></tt>]--> ADP</tt> (245; 95%),
 <tt>PROPN --[<tt><a href="ka_glc-dep-case.html">case</a></tt>]--> ADP</tt> (245; 100%).
 

@@ -24,7 +24,7 @@ The following 29 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 3 5 appos	color:blue
 1	Den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	3	det	3:det	_
 2	olika	olik	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	3	amod	3:amod	_
-3	könsrollen	könsroll	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	0	root	0:root	_
+3	könsrollen	könsroll	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	0	root	0:root	ParsemeMWE=1:NID
 4	som	som	SCONJ	KN	_	5	mark	5:mark	_
 5	barnavårdare	barnavårdare	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	3	appos	3:appos	_
 6	och	och	CCONJ	KN	_	7	cc	7:cc	_

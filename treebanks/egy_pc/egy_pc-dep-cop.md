@@ -1,19 +1,19 @@
 ---
 layout: base
-title:  'Statistics of cop in UD_Egyptian-UJaen'
+title:  'Statistics of cop in UD_Egyptian-PC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Egyptian-UJaen: Relations: `cop`
+## Treebank Statistics: UD_Egyptian-PC: Relations: `cop`
 
 This relation is universal.
 
-120 nodes (0%) are attached to their parents as `cop`.
+184 nodes (1%) are attached to their parents as `cop`.
 
-94 instances of `cop` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25.
+155 instances of `cop` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.17934782608696.
 
-The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-DET.html">DET</a></tt> (66; 55% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-DET.html">DET</a></tt> (27; 23% instances), <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_ujaen-pos-DET.html">DET</a></tt> (24; 20% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_ujaen-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="egy_ujaen-pos-NUM.html">NUM</a></tt>-<tt><a href="egy_ujaen-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (99; 54% instances), <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (42; 23% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (40; 22% instances), <tt><a href="egy_pc-pos-NUM.html">NUM</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="egy_pc-pos-X.html">X</a></tt>-<tt><a href="egy_pc-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,12 +22,13 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 cop	color:blue
-1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓
-2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	bw.t	bw.t	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	Hiero=𓃀𓏏UC_No|Hierocl=UC_No
-4	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	3	nmod:poss	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
-5	pꞽ	pw	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	cop	_	Hiero=𓊪𓇋
-6	ḥḳr	ḥḳr	NOUN	_	Gender=Masc|Number=Sing	1	ccomp	_	Hiero=𓎛(𓈎:𓂋)𓏐
+1	Ppy	Ppy	PROPN	_	Gender=Masc|NameType=King	6	vocative	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺|ID=400313
+2	Nfr	Nfr	PROPN	_	Gender=Masc|NameType=King|Number=Sing	1	appos	_	Hiero=𓄤|ID=550034
+3	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	2	flat:name	_	Hiero=𓂓|ID=162870
+4	Rꜥw	Rꜥw	PROPN	_	Gender=Masc|NameType=God	2	flat:name	_	Hiero=𓇳|ID=400015
+5	pw	pw	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	cop	_	Hiero=𓊪𓅱|ID=59741
+6	ꞽr.t	ꞽr.t	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Hiero=(𓁹:𓏏)|ID=28250
+7	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc|NameType=God	6	nmod:poss	_	Hiero=𓅃|ID=107500
 
 ~~~
 
@@ -35,31 +36,32 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 cop	color:blue
-1	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	4	nsubj:outer	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
-2	pꞽ	pw	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	Hiero=𓊪𓇋
-3	wnn.t	wnn.t	PART	_	PartType=Emp	4	advmod	_	Hiero=(𓃹:𓈖:𓈖)𓏏
-4	rč̣	rč̣i̯	VERB	_	Mood=Ind|Tense=Fut|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓂋:𓏙|SPC=Fut
-5	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Hiero=𓆑|Pron=SFP
-6	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	Hiero=𓏏:𓏐|Hierocl=𓏐
-7	n	n	ADP	_	_	8	case	_	Hiero=𓈖|Status=Cons
-8	n.t(ꞽ)w	n.t	NOUN	_	Gender=Masc|Number=Plur	4	obl:arg	_	Hiero=(𓈖:𓅂)𓏤|Hierocl=𓏤|Nisba=DeNom
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 cop	color:blue
+1	ḫnm.t(ꞽ)t	ḫnm.t	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	Hiero=(𓐍:𓈖)𓅓(𓏏:𓏏)UC_No|Hierocl=UC_No|ID=118220
+2	pw	pw	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	cop	_	Hiero=𓊪𓅱|ID=59741
+3	n.t	n	ADJ	_	Case=Gen|Gender=Fem|Nisba=DePrep|Number=Sing	1	amod	_	Hiero=(𓈖:𓏏)|ID=79800
+4	Ppy	Ppy	PROPN	_	Gender=Masc|NameType=King	3	obl:nisba	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺|ID=400313
+5	Ꞽꜣ.t	Ꞽꜣ.t	PROPN	_	Gender=Fem|NameType=God	0	root	_	Hiero=UC_No|ID=20130
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 cop	color:blue
-1	ḫnm.t(ꞽ)t	ḫnm.t	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	Hiero=(𓐍:𓈖)𓅓(𓏏:𓏏)
-2	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	1	nmod	_	Hiero=𓆑|Pron=SFP
-3	pꞽ	pw	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	cop	_	Hiero=𓊪𓇋
-4	Ꞽꜣ.t	Ꞽꜣ.t	PROPN	_	Gender=Fem	0	root	_	Hiero=UC_No|Name=God
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 cop	color:blue
+1	mṭw	mṭwi̯	VERB	_	Gender=Masc|Nominal=Yes|Number=Sing|Tense=Pres|VerbClass=4aeinf|VerbForm=Part|Voice=Act	0	root	_	Hiero=𓅓𓌃𓂧𓅱|ID=78140
+2	ḥr	ḥr	ADP	_	Case=Loc|StatPrep=Pron	3	case	_	Hiero=(𓁷:𓂋)|ID=400090
+3	⸗ś	ś	PRON	_	Gender=Fem|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	1	obl	_	Hiero=𓋴|ID=10090
+4	pw	pw	DET	_	Gender=Masc|Number=Sing|PronType=Dem	1	cop	_	Hiero=𓊪𓅱|ID=59741
+5	Gbb	Gbb	PROPN	_	Gender=Masc|NameType=God	1	nsubj	_	Hiero=𓅭𓃀|ID=167010
+6	(ꞽ)r(.ꞽ)	r	NOUN	_	Gender=Masc|Nisba=DePrep|Number=Sing	5	appos	_	Hiero=𓂋|ID=28500|Title=Yes
+7	pꜥ(.t)	pꜥ.t	NOUN	_	Gender=Fem|Number=Coll	6	nmod:nisba	_	Hiero=(𓊪:𓂝)|ID=59610
+8	nčr.w	nčr	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	Hiero=𓊹𓊹𓊹|ID=90260
 
 ~~~
 

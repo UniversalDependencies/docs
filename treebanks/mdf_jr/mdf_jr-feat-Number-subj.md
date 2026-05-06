@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="mdf_jr-feat-Number.html">Number</a></tt>, <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt>.
 
-714 tokens (16%) have a non-empty value of `Number[subj]`.
-575 types (27%) occur at least once with a non-empty value of `Number[subj]`.
-314 lemmas (23%) occur at least once with a non-empty value of `Number[subj]`.
-The feature is used with 6 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (622; 14% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (68; 2% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+743 tokens (16%) have a non-empty value of `Number[subj]`.
+593 types (27%) occur at least once with a non-empty value of `Number[subj]`.
+321 lemmas (23%) occur at least once with a non-empty value of `Number[subj]`.
+The feature is used with 6 part-of-speech tags: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (646; 14% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (72; 2% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-622 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Number[subj]`.
+646 <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> tokens (75% of all `VERB` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `VERB` and `Number[subj]` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (615; 99%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (606; 97%), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (550; 88%), <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (500; 80%), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (500; 80%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (429; 69%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (331; 53%).
+The most frequent other feature values with which `VERB` and `Number[subj]` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (639; 99%), <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (622; 96%), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (566; 88%), <tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (518; 80%), <tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (518; 80%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (437; 68%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (334; 52%).
 
 `VERB` tokens may have the following values of `Number[subj]`:
 
@@ -28,9 +28,11 @@ The most frequent other feature values with which `VERB` and `Number[subj]` co-o
 <table>
   <tr><th>Paradigm <i>тиемс</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>тик</em></td></tr>
+  <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>тисы</em></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>тисть</em></td><td></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>тиень</em></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>тиян</em></td></tr>
+  <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>тият</em></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>тись</em></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>тии</em></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>тиельхть</em></td><td></td></tr>
@@ -39,9 +41,9 @@ The most frequent other feature values with which `VERB` and `Number[subj]` co-o
 
 ### `AUX`
 
-68 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (41% of all `AUX` tokens) have a non-empty value of `Number[subj]`.
+72 <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> tokens (41% of all `AUX` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `AUX` and `Number[subj]` co-occurred: <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (58; 85%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (52; 76%), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (51; 75%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (44; 65%), <tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (39; 57%), <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (36; 53%).
+The most frequent other feature values with which `AUX` and `Number[subj]` co-occurred: <tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (59; 82%), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (52; 72%), <tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (51; 71%), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (44; 61%), <tt><a href="mdf_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (40; 56%), <tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (40; 56%).
 
 `AUX` tokens may have the following values of `Number[subj]`:
 
@@ -49,7 +51,9 @@ The most frequent other feature values with which `AUX` and `Number[subj]` co-oc
 <table>
   <tr><th>Paradigm <i>аф</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="mdf_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td><em>тяк</em></td></tr>
+  <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>тят</em></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td><em>Тят</em></td></tr>
+  <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td><em>тят</em></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td><em>ашесть, исть</em></td><td></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td><em>ашень</em></td></tr>
   <tr><td><tt><tt><a href="mdf_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="mdf_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="mdf_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td><em>ашеть</em></td></tr>
@@ -75,9 +79,9 @@ The most frequent other feature values with which `ADJ` and `Number[subj]` co-oc
 
 ### `NOUN`
 
-8 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Number[subj]`.
+9 <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `NOUN` and `Number[subj]` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 75%), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6; 75%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6; 75%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (5; 63%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 63%).
+The most frequent other feature values with which `NOUN` and `Number[subj]` co-occurred: <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7; 78%), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (7; 78%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 67%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (6; 67%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 56%).
 
 `NOUN` tokens may have the following values of `Number[subj]`:
 
@@ -103,8 +107,8 @@ The most frequent other feature values with which `PROPN` and `Number[subj]` co-
 ## Relations with Agreement in `Number[subj]`
 
 The 10 most frequent relations where parent and child node agree in `Number[subj]`:
-<tt>VERB --[<tt><a href="mdf_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (108; 75%),
-<tt>VERB --[<tt><a href="mdf_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (14; 67%),
+<tt>VERB --[<tt><a href="mdf_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (115; 76%),
+<tt>VERB --[<tt><a href="mdf_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (14; 64%),
 <tt>PROPN --[<tt><a href="mdf_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="mdf_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>VERB --[<tt><a href="mdf_jr-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1; 100%),

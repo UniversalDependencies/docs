@@ -16,12 +16,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="yrk_tundra-pos-PRON
 
 ### `PRON`
 
-9 <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> tokens (47% of all `PRON` tokens) have a non-empty value of `PronType`.
-
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="yrk_tundra-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="yrk_tundra-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9; 100%).
+9 <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> tokens (43% of all `PRON` tokens) have a non-empty value of `PronType`.
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (9; 100% of non-empty `PronType`): <em>тикы, тикар, та, тика, тюку</em>
-* `EMPTY` (10): <em>ӈамгэ, ваˮ, нерниʼ, няанда, нянда, тикандоʼ?мэ?, тикыʼ, харто, ӈавоʼ</em>
+* `EMPTY` (12): <em>ӈамгэ, ваˮ, нерниʼ, няанда, нябиʼ, нябир, нянда, тикандоʼ?мэ?, тикыʼ, харто</em>
 

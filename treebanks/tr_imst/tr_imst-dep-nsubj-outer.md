@@ -88,7 +88,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 16	şansının	şans	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	18	nsubj	_	_
 17	düşük	düşük	ADJ	NAdj	Case=Nom|Number=Sing|Person=3	18	obj	_	_
 18	olduğunu	ol	VERB	Verb	Aspect=Perf|Case=Acc|Mood=Ind|Number[psor]=Sing|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	21	obj	_	_
-19	şu	şu	DET	Det	_	20	det	_	_
+19	şu	şu	DET	Det	PronType=Dem	20	det	_	_
 20	şakayla	şaka	NOUN	Noun	Case=Ins|Number=Sing|Person=3	21	nmod	_	_
 21	anlatıyor	anlat	VERB	Verb	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Polite=Infm|Tense=Pres	0	root	_	SpaceAfter=No
 22	:	:	PUNCT	Punc	_	45	punct	_	_
@@ -99,7 +99,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 27	olan	ol	VERB	Verb	Aspect=Perf|Mood=Ind|Polarity=Pos|Tense=Pres|VerbForm=Part	28	acl	_	_
 28	hızlandırıcının	hızlandırıcı	NOUN	Noun	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	29	nmod:poss	_	_
 29	boyu	boy	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	45	nsubj:outer	_	_
-30	birkaç	birkaç	DET	Det	_	31	det	_	_
+30	birkaç	birkaç	DET	Det	PronType=Ind	31	det	_	_
 31	ışık	ışık	NOUN	Noun	Case=Nom|Number=Sing|Person=3	33	nmod	_	_
 32	yılı	yıl	NOUN	Noun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	31	compound	_	_
 33	uzunluklarda	uzunluk	NOUN	Noun	Case=Loc|Number=Plur|Person=3	37	obl	_	_

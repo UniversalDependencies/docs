@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-57 tokens (15%) have a non-empty value of `Tense`.
-54 types (20%) occur at least once with a non-empty value of `Tense`.
-42 lemmas (18%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> (53; 13% instances), <tt><a href="qti_butr-pos-AUX.html">AUX</a></tt> (4; 1% instances).
+65 tokens (15%) have a non-empty value of `Tense`.
+62 types (20%) occur at least once with a non-empty value of `Tense`.
+46 lemmas (17%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> (61; 14% instances), <tt><a href="qti_butr-pos-AUX.html">AUX</a></tt> (4; 1% instances).
 
 ### `VERB`
 
-53 <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> tokens (72% of all `VERB` tokens) have a non-empty value of `Tense`.
+61 <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> tokens (73% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="qti_butr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (50; 94%), <tt><a href="qti_butr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (48; 91%), <tt><a href="qti_butr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (39; 74%), <tt><a href="qti_butr-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (35; 66%), <tt><a href="qti_butr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34; 64%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="qti_butr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (57; 93%), <tt><a href="qti_butr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (52; 85%), <tt><a href="qti_butr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (45; 74%), <tt><a href="qti_butr-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (41; 67%), <tt><a href="qti_butr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 66%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Fut` (7; 13% of non-empty `Tense`): <em>diyeceğim, drop-bylayacağım, edecek, gideceğiz, olacağı, uyuyacağız, yürüyecek</em>
-* `Past` (19; 36% of non-empty `Tense`): <em>ettim, geldi, Soggyleşmiş, Yemişsin, attın, dedi, duyuldu, düşürmedim, ettiğine, gönderdi</em>
-* `Pres` (27; 51% of non-empty `Tense`): <em>Depends, Seems, alabiliriz, alan, bilmiyorum, bitching, coming, değinemiyoruz, düşünmezsen, ediyorum</em>
-* `EMPTY` (21): <em>go, yapmak, Gel, Let's, başlasam, deserve, doing, etmek, etmeye, eyle</em>
+* `Fut` (7; 11% of non-empty `Tense`): <em>diyeceğim, drop-bylayacağım, edecek, gideceğiz, olacağı, uyuyacağız, yürüyecek</em>
+* `Past` (23; 38% of non-empty `Tense`): <em>ettim, geldi, Soggyleşmiş, Yemişsin, attın, dedi, dediklerini, duyduk, duyuldu, düşündüm</em>
+* `Pres` (31; 51% of non-empty `Tense`): <em>Depends, Seems, alabiliriz, alan, bilmiyorum, bitching, coming, değinemiyoruz, duyuluyo, düşünmezsen</em>
+* `EMPTY` (23): <em>go, yapmak, Gel, Let's, başlasam, deserve, doing, düşününce, etmek, etmeye</em>
 
 <table>
   <tr><th>Paradigm <i>et</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>

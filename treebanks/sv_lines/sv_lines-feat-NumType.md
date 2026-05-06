@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (165; 100% of non-empty `NumType`): <em>första, andra, tredje, andre, fjärde, tjugonde, förste, 1, 12, 22</em>
-* `EMPTY` (6990): <em>själv, hela, andra, samma, annat, många, enda, stor, flera, stora</em>
+* `EMPTY` (6993): <em>själv, hela, andra, samma, annat, många, enda, stor, flera, stora</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (31) occur only with one value of `NumType`.
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (3; 100% of non-empty `NumType`): <em>fyrtioett, Beckett, Ett</em>
-* `EMPTY` (531): <em>två, tre, en, fem, sex, fyra, tio, 1, 2, 2000</em>
+* `EMPTY` (528): <em>två, tre, en, fem, sex, fyra, tio, 1, 2, 2000</em>
 
 ## Relations with Agreement in `NumType`
 

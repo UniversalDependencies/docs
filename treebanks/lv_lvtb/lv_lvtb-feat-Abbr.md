@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 1 different values: `Yes`.
 
 1972 tokens (1%) have a non-empty value of `Abbr`.
-451 types (1%) occur at least once with a non-empty value of `Abbr`.
-469 lemmas (2%) occur at least once with a non-empty value of `Abbr`.
+450 types (1%) occur at least once with a non-empty value of `Abbr`.
+468 lemmas (2%) occur at least once with a non-empty value of `Abbr`.
 The feature is used with 6 part-of-speech tags: <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (1371; 0% instances), <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (479; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (58; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (52; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (3; 0% instances).
 
 ### `PROPN`
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 * `Yes` (479; 100% of non-empty `Abbr`): <em>SIA, TV, IKP, km, AS, DL, IMS, DUS, Dr., g.</em>
 * `EMPTY` (88295): <em>valsts, gada, laikā, gadā, darba, gadu, cilvēki, piemēram, laiku, cilvēku</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (137) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (136) occur only with one value of `Abbr`.
 
 ### `SYM`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (52; 100% of non-empty `Abbr`): <em>plkst., nr., piem., Kot', pl.</em>
-* `EMPTY` (18539): <em>kad, jau, kā, tad, vēl, ļoti, kur, tā, vairāk, tik</em>
+* `EMPTY` (18538): <em>kad, jau, kā, tad, vēl, ļoti, kur, tā, vairāk, tik</em>
 
 ### `ADJ`
 

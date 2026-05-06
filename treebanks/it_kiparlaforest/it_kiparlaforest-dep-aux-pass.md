@@ -8,28 +8,26 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_kiparlaforest-dep-aux.html">aux</a></tt>.
 
-20 nodes (0%) are attached to their parents as `aux:pass`.
+46 nodes (0%) are attached to their parents as `aux:pass`.
 
-20 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+46 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.04347826086957.
 
-The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> (20; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> (46; 100% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 aux:pass	color:blue
-1	se	se	SCONJ	_	_	5	mark	_	Begin=405.148|KID=260-0|OverlappingGroup
-2	non	non	ADV	_	PronType=Neg	5	advmod	_	KID=260-1|OverlappingGroup
-3	doveva	dovere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	KID=260-2|OverlappingGroup
-4	essere	essere	AUX	_	VerbForm=Inf	5	aux:pass	_	KID=260-3|OverlappingGroup
-5	sputtanata	sputtanare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	KID=260-4|OverlappingGroup
-6	ormai	ormai	ADV	_	_	7	advmod	_	KID=260-5
-7	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	Clitic=Yes|KID=260-6
-8	sono	essere	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	cop	_	End=407.778|KID=260-7
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 aux:pass	color:blue
+1	com'	come	ADV	_	_	3	advmod	_	Begin=5.95|KID=3-0|SpaceAfter=No
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	KID=3-1
+3	fatta	fare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=3-2|Prolonged=Yes
+4	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	KID=3-3
+5	tua	tuo	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	amod	_	KID=3-4
+6	casa	casa	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	Intonation=WeaklyRising|KID=3-5|Prolonged=Yes
 
 ~~~
 

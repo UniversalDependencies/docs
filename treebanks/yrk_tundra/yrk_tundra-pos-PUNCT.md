@@ -29,7 +29,7 @@ The 10 most frequent ambiguous types:  <em><p></em> (<tt><a href="yrk_tundra-pos
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.619469).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.622419).
 
 The 1st highest number of forms (1) was observed with the lemma “:”: <em>:</em>.
 
@@ -44,7 +44,7 @@ The 3rd highest number of forms (1) was observed with the lemma “<p>”: <em><
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="yrk_tundra-dep-punct.html">punct</a></tt> (211; 100% instances)
 
-Parents of `PUNCT` nodes belong to 6 different parts of speech: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (182; 86% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (13; 6% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (8; 4% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 5 different parts of speech: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (181; 86% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (13; 6% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (9; 4% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (3; 1% instances)
 
 211 (100%) `PUNCT` nodes are leaves.
 

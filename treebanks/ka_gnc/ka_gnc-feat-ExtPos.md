@@ -9,10 +9,18 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `ADV`, `INTJ`, `SCONJ`.
 
-45 tokens (0%) have a non-empty value of `ExtPos`.
+46 tokens (0%) have a non-empty value of `ExtPos`.
 11 types (0%) occur at least once with a non-empty value of `ExtPos`.
 10 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 5 part-of-speech tags: <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="ka_gnc-pos-CCONJ.html">CCONJ</a></tt> (13; 0% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="ka_gnc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="ka_gnc-pos-CCONJ.html">CCONJ</a></tt> (14; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="ka_gnc-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+
+### `CCONJ`
+
+14 <tt><a href="ka_gnc-pos-CCONJ.html">CCONJ</a></tt> tokens (1% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
+
+`CCONJ` tokens may have the following values of `ExtPos`:
+
+* `SCONJ` (14; 100% of non-empty `ExtPos`): <em>თუ</em>
 
 ### `ADV`
 
@@ -23,14 +31,6 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 `ADV` tokens may have the following values of `ExtPos`:
 
 * `ADV` (13; 100% of non-empty `ExtPos`): <em>ჯერ, ესე, არც</em>
-
-### `CCONJ`
-
-13 <tt><a href="ka_gnc-pos-CCONJ.html">CCONJ</a></tt> tokens (1% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
-
-`CCONJ` tokens may have the following values of `ExtPos`:
-
-* `SCONJ` (13; 100% of non-empty `ExtPos`): <em>თუ</em>
 
 ### `PRON`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `PRON` and `ExtPos` co-occurre
 
 <table>
   <tr><th>Paradigm <i>რა</i></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>რა</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ka_gnc-feat-PronType.html">PronType</a></tt><tt>=Int</tt></tt></td><td><em>რა</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>რაც</em></td></tr>
 </table>
 

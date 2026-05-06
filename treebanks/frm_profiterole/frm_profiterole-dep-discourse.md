@@ -11,7 +11,7 @@ This relation is universal.
 39 nodes (0%) are attached to their parents as `discourse`.
 
 39 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.41025641025641.
+Average distance between parent and child is 9.43589743589744.
 
 The following 9 pairs of parts of speech are connected with `discourse`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (21; 54% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (7; 18% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 3% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 3% instances).
 
@@ -28,9 +28,9 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 4	monseigneur	monseigneur	NOUN	NOMcom	_	8	vocative	_	SpaceAfter=No|XmlId=w_42_21164
 5	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_21165
 6	nous	nous	PRON	PROper	PronType=Prs	8	nsubj	_	XmlId=w_42_21166
-7	ne	ne1	ADV	ADVneg	PronType=Neg	8	advmod	_	XmlId=w_42_21167
+7	ne	ne1	ADV	ADVneg	Polarity=Neg	8	advmod	_	XmlId=w_42_21167
 8	verrons	voir1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_21168
-9	point	point2	ADV	ADVneg	PronType=Neg	8	advmod	_	XmlId=w_42_21169
+9	point	point2	ADV	ADVneg	Polarity=Neg	8	advmod	_	XmlId=w_42_21169
 10	ce	ce2	DET	DETdem	PronType=Dem	12	det	_	XmlId=w_42_21170
 11	beau	beau	ADJ	ADJqua	_	12	amod	_	XmlId=w_42_21171
 12	prince	prince1	NOUN	NOMcom	_	8	obj	_	SpaceAfter=No|XmlId=w_42_21172
@@ -83,7 +83,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 10	malade	malade	ADJ	ADJqua	_	0	root	_	XmlId=w_42_21592
 11	que	que	SCONJ	CONsub	_	16	mark	_	XmlId=w_42_21593
 12	il	il	PRON	PROper	PronType=Prs	16	nsubj	_	XmlId=w_42_21594
-13	ne	ne1	ADV	ADVneg	PronType=Neg	16	advmod	_	XmlId=w_42_21595
+13	ne	ne1	ADV	ADVneg	Polarity=Neg	16	advmod	_	XmlId=w_42_21595
 14	luy	lui	PRON	PROper	PronType=Prs	17	iobj	_	XmlId=w_42_21596
 15	pouvoit	pouvoir	AUX	VERcjg	VerbForm=Fin	16	aux	_	XmlId=w_42_21597
 16	venir	venir	VERB	VERinf	VerbForm=Inf	10	advcl	_	XmlId=w_42_21598

@@ -30,9 +30,9 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 5	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
 6	פֿראַזע	פֿראַזע	NOUN	_	_	4	obj	_	Translit=fraze|Translit_Lemma=fraze
 7	„	„	PUNCT	_	_	8	punct	_	SpaceAfter=No|Translit=„|Translit_Lemma=„
-8	לא	_	X	_	_	6	appos	_	Translit=loy
-9	בשמים	_	X	_	_	8	flat:foreign	_	Translit=beshomem
-10	הוא	_	X	_	_	8	flat:foreign	_	SpaceAfter=No|Translit=hu
+8	לא	לא	X	_	_	6	appos	_	Translit=loy|Translit_Lemma=loy
+9	בשמים	בשם	X	_	_	8	flat:foreign	_	Translit=beshomem|Translit_Lemma=besham
+10	הוא	הוא	X	_	_	8	flat:foreign	_	SpaceAfter=No|Translit=hu|Translit_Lemma=hu
 11	״	״	PUNCT	_	_	14	punct	_	Translit=״|Translit_Lemma=״
 12	פֿאַר	פֿאַר	ADP	_	_	14	case	_	Translit=far|Translit_Lemma=far
 13	אַן	אַ	DET	_	_	14	det	_	Translit=an|Translit_Lemma=a

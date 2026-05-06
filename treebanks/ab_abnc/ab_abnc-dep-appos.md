@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-25 nodes (0%) are attached to their parents as `appos`.
+31 nodes (0%) are attached to their parents as `appos`.
 
-25 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.92.
+31 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.06451612903226.
 
-The following 6 pairs of parts of speech are connected with `appos`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (10; 40% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (6; 24% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (5; 20% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 7 pairs of parts of speech are connected with `appos`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (12; 39% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (6; 19% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (6; 19% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -58,18 +58,20 @@ The following 6 pairs of parts of speech are connected with `appos`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 appos	color:blue
-1	–	–	PUNCT	Punct_Dash	_	3	punct	_	LMSeg:–
-2	Шәызҿу	а-ҿы́заара	VERB	V_Stat_NonFin_Pres_S:2Pl_LO:Rel_Rel	Dyn=No|Number[subj]=Plur|Person[lo]=Rel|Person[subj]=2|Tense=Pres|VerbForm=NonFin	3	csubj	_	LMSeg:а-ҿы́-заа-ра
-3	закәызеи	а́кәзаара	VERB	V_Stat_NonFin_Impf_QWhat_S:3_IO:Rel_Rel_Cop	Dyn=No|Person[io]=Rel|Person[subj]=3|Tense=Imp|VerbForm=NonFin	0	root	_	LMSeg:а́кә-заа-ра
-4	шәара	шәара́	PRON	Pron_Pers_2Pl	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	LMSeg:шәара́|SpaceAfter=No
-5	,	,	PUNCT	Punct_Comma	_	6	punct	_	LMSeg:,
-6	абзамыҟәқәа	а́-бзамыҟә	NOUN	Noun_NH_Pl_Det	Animacy=Nhum|Definite=Def|Number=Plur	4	appos	_	LMSeg:а́-бзамыҟә|SpaceAfter=No
-7	?	?	PUNCT	Punct_IntMark	_	3	punct	_	LMSeg:?
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 appos	color:blue
+1	Ҳарҭ	ҳа́рҭ	PRON	Pron_Pers_1Pl	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	LMSeg:ҳа́рҭ
+2	аҷкәынцәа	а́-ҷкәын	NOUN	Noun_H_M_Pl_Det	Animacy=Hum|Definite=Def|Number=Plur	1	appos	_	LMSeg:а́-ҷкәын
+3	уи	уи́	PRON	Pron_Dem_Dist_Sg	Number=Sing|PronType=Dem	4	det	_	LMSeg:уи́
+4	аӡҕаб	а́-ӡҕаб	NOUN	Noun_H_F_Sg_Det	Animacy=Hum|Definite=Def|Number=Sing	6	nsubj	_	LMSeg:а́-ӡҕаб
+5	ҿыц	а-ҿы́ц	ADJ	Adj_Sg	Number=Sing	4	amod	_	LMSeg:а-ҿы́ц
+6	дахьҳзааз	а-заара́	VERB	V_Dyn_Intr_NonFin_Cnv_PastIndef_Where_S:3SgH_RO:1Pl_Reln:For	Dyn=Yes|Gender[subj]=Com|Number[ro]=Plur|Number[subj]=Sing|Person[ro]=1|Person[subj]=3|Reln=Ben|RelType=Loc|Subcat=Intr|Tense=Past|VerbForm=NonFin	8	advcl	_	LMSeg:а-з·аа-ра́
+7	ҳгәырҕьаҵәа	гәырҕьаҵәа́	ADV	Adv_S:1Pl	Number[subj]=Plur|Person[subj]=1	8	advmod	_	LMSeg:гәырҕьаҵәа́
+8	ҳааҟалеит	а́-ҟалара	VERB	V_Dyn_Intr_Fin_Aor_FPv:аа_S:1Pl	Dyn=Yes|Mood=Ind|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а́-ҟа·ла-ра|SpaceAfter=No
+9	.	.	PUNCT	Punct_Period	_	8	punct	_	LMSeg:.
 
 ~~~
 

@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 4 3 dep	color:blue
 1	האָט	האָבן	AUX	_	_	6	aux	_	Translit=hot|Translit_Lemma=hobn
 2	{	{	PUNCT	_	_	4	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-3	dn	_	X	_	_	4	dep	_	Translit=דן
+3	dn	דאַן	X	_	_	4	dep	_	Translit=דן|Translit_Lemma=dan
 4	גאָט	גאָט	PROPN	_	_	6	nsubj	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 5	}	}	PUNCT	_	_	4	punct	_	Translit=}|Translit_Lemma=}
 6	געזאָגט	זאָגן	VERB	_	_	0	root	_	Translit=gezogt|Translit_Lemma=zogn
@@ -56,7 +56,7 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 7	בין	זײַן	AUX	_	_	11	cop	_	Translit=bin|Translit_Lemma=zayn
 8	דער	דער	DET	_	_	11	det	_	Translit=der|Translit_Lemma=der
 9	{	{	PUNCT	_	_	11	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-10	dn	_	X	_	_	11	dep	_	Translit=דן
+10	dn	דאַן	X	_	_	11	dep	_	Translit=dn|Translit_Lemma=dan
 11	גאָט	גאָט	NOUN	_	_	4	ccomp	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 12	}	}	PUNCT	_	_	11	punct	_	Translit=}|Translit_Lemma=}
 13	פֿון	פֿון	ADP	_	_	15	case	_	Translit=fun|Translit_Lemma=fun
@@ -65,28 +65,28 @@ The following 2 pairs of parts of speech are connected with `dep`: <tt><a href="
 16	,	,	PUNCT	_	_	20	punct	_	Translit=,|Translit_Lemma=,
 17	דער	דער	DET	_	_	20	det	_	Translit=der|Translit_Lemma=der
 18	{	{	PUNCT	_	_	20	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-19	dn	_	X	_	_	20	dep	_	Translit=דן
+19	dn	דאַן	X	_	_	20	dep	_	Translit=dn|Translit_Lemma=dan
 20	גאָט	גאָט	NOUN	_	_	11	conj	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 21	}	}	PUNCT	_	_	20	punct	_	Translit=}|Translit_Lemma=}
 22	פֿון	פֿון	ADP	_	_	23	case	_	Translit=fun|Translit_Lemma=fun
-23	אַבֿרהמען	אַבֿרהם	PROPN	_	_	20	nmod	_	SpaceAfter=No|Translit=avremen|Translit_Lemma=avro(e)m
+23	אַבֿרהמען	אַבֿרהם	PROPN	_	_	20	nmod	_	SpaceAfter=No|Translit=avremen|Translit_Lemma=avrem
 24	,	,	PUNCT	_	_	28	punct	_	Translit=,|Translit_Lemma=,
 25	דער	דער	DET	_	_	28	det	_	Translit=der|Translit_Lemma=der
 26	{	{	PUNCT	_	_	28	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-27	dn	_	X	_	_	28	dep	_	Translit=דן
+27	dn	דאַן	X	_	_	28	dep	_	Translit=dn|Translit_Lemma=dan
 28	גאָט	גאָט	NOUN	_	_	11	conj	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 29	}	}	PUNCT	_	_	28	punct	_	Translit=}|Translit_Lemma=}
 30	פֿון	פֿון	ADP	_	_	31	case	_	Translit=fun|Translit_Lemma=fun
-31	יצחקן	יצחק	PROPN	_	_	28	nmod	_	SpaceAfter=No|Translit=yeytsakhkn|Translit_Lemma=yeytsekhak
+31	יצחקן	יצחק	PROPN	_	_	28	nmod	_	SpaceAfter=No|Translit=yitskhokn|Translit_Lemma=yitskhok
 32	,	,	PUNCT	_	_	37	punct	_	Translit=,|Translit_Lemma=,
 33	און	און	CCONJ	_	_	37	cc	_	Translit=un|Translit_Lemma=un
 34	דער	דער	DET	_	_	37	det	_	Translit=der|Translit_Lemma=der
 35	{	{	PUNCT	_	_	37	punct	_	SpaceAfter=No|Translit={|Translit_Lemma={
-36	dn	_	X	_	_	37	dep	_	Translit=דן
+36	dn	דאַן	X	_	_	37	dep	_	Translit=dn|Translit_Lemma=dan
 37	גאָט	גאָט	NOUN	_	_	11	conj	_	SpaceAfter=No|Translit=got|Translit_Lemma=got
 38	}	}	PUNCT	_	_	37	punct	_	Translit=}|Translit_Lemma=}
 39	פֿון	פֿון	ADP	_	_	40	case	_	Translit=fun|Translit_Lemma=fun
-40	יעקבֿן	יעקבֿן	PROPN	_	_	37	nmod	_	SpaceAfter=No|Translit=yakvn|Translit_Lemma=yakvn
+40	יעקבֿן	יעקבֿ	PROPN	_	_	37	nmod	_	SpaceAfter=No|Translit=yakovn|Translit_Lemma=yakov
 41	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
 
 ~~~

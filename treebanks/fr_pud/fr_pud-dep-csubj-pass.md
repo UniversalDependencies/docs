@@ -22,12 +22,12 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 8 csubj:pass	color:blue
-1	Il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	wordform=il
+1	Il	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl:subj	_	wordform=il
 2	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:tense	_	_
 3	été	être	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	aux:pass	_	_
 4	souligné	souligner	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	que	que	SCONJ	IN	_	8	mark	_	_
-6	nous	il	PRON	PRP	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
+6	nous	nous	PRON	PRP	Number=Plur|Person=1|PronType=Prs	8	nsubj	_	_
 7	ne	ne	ADV	RB	Polarity=Neg	8	advmod	_	_
 8	pouvons	pouvoir	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	csubj:pass	_	_
 9	absolument	absolument	ADV	RB	_	10	advmod	_	_

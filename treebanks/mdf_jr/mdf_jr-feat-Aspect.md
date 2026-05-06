@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Hab` (2; 22% of non-empty `Aspect`): <em>каннель, лезнель</em>
 * `Perf` (7; 78% of non-empty `Aspect`): <em>анеляф, максф, содафоль, таргозьфтольхть, тиф, шапфт, эйндаф</em>
-* `EMPTY` (819): <em>архт, марявсь, моли, лиссь, сась, улема, варжакстсь, кармась, мольсь, рамась</em>
+* `EMPTY` (853): <em>архт, марявсь, моли, лиссь, сась, улема, варжакстсь, кармась, мольсь, рамась</em>
 
 ## Relations with Agreement in `Aspect`
 

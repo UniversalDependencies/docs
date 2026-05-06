@@ -26,12 +26,12 @@ The following 1 pairs of parts of speech are connected with `fixed`: <tt><a href
 2	and	and	CCONJ	CC	_	3	cc	_	Gloss=and|Hyperlemma=and|Root=*h₂énti
 3	Maria	Maria	PROPN	NNP	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	Gloss=Mary|Hyperlemma=Maria|Root=_
 4	beclypton	beclyppan	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=hugged|Hyperlemma=beclip|Root=*gelbʰ
-5	heom	he	PRON	NNP	Case=Dat|ExtPos=PRON|Number=Plur|Person=3	4	obj	_	Gloss=them|Hyperlemma=he|Root=*ḱís
+5	heom	he	PRON	NNP	Case=Dat|ExtPos=PRON|Number=Plur|Person=3|PronType=Prs	4	obj	_	Gloss=them|Hyperlemma=he|Root=*ḱís
 6	be-tƿeonen	be-tweonum	ADP	IN	_	5	fixed	_	Gloss=between|Hyperlemma=between|Root=*dwóh₁
 7	and	and	CCONJ	CC	_	3	cc	_	Gloss=and|Hyperlemma=and|Root=*h₂énti
 8	þa	se	ADV	RRB	_	9	advmod	_	Gloss=then|Hyperlemma=then|Root=*só
 9	forletone	forlætan	VERB	VBD	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	Gloss=left|Hyperlemma=forlet|Root=*leh₁d
-10	þa	se	DET	DT	Case=Dat|Number=Sing	11	det	_	Gloss=the|Hyperlemma=the|Root=*só
+10	þa	se	DET	DT	Case=Dat|Definite=Def|Number=Sing|PronType=Art	11	det	_	Gloss=the|Hyperlemma=the|Root=*só
 11	heoþe	heóþu	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	9	obj	_	Gloss=room|Hyperlemma=heóþu|Root=*kewk|SpaceAfter=No
 12	.	.	PUNCT	.	_	4	punct	_	Gloss=.|Hyperlemma=.
 

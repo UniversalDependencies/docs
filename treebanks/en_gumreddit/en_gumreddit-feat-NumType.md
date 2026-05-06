@@ -57,7 +57,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 
 * `Card` (3; 75% of non-empty `NumType`): <em>_</em>
 * `Frac` (1; 25% of non-empty `NumType`): <em>_</em>
-* `EMPTY` (2653): <em>_</em>
+* `EMPTY` (2652): <em>_</em>
 
 ### `PROPN`
 

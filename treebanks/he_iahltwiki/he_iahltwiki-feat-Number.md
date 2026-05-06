@@ -248,12 +248,12 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="he_iahltwiki-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6637; 99%),
-<tt>NOUN --[<tt><a href="he_iahltwiki-dep-compound.html">compound</a></tt>]--> NOUN</tt> (4391; 63%),
-<tt>VERB --[<tt><a href="he_iahltwiki-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4342; 57%),
-<tt>NOUN --[<tt><a href="he_iahltwiki-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2861; 65%),
+<tt>NOUN --[<tt><a href="he_iahltwiki-dep-compound.html">compound</a></tt>]--> NOUN</tt> (4392; 63%),
+<tt>VERB --[<tt><a href="he_iahltwiki-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4344; 57%),
+<tt>NOUN --[<tt><a href="he_iahltwiki-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2872; 65%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (2839; 88%),
 <tt>NOUN --[<tt><a href="he_iahltwiki-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (1929; 86%),
-<tt>NOUN --[<tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1671; 79%),
+<tt>NOUN --[<tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1672; 79%),
 <tt>NOUN --[<tt><a href="he_iahltwiki-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (1424; 65%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt>]--> VERB</tt> (1093; 79%),
 <tt>NOUN --[<tt><a href="he_iahltwiki-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (890; 61%).

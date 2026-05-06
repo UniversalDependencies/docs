@@ -18,13 +18,13 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cop_bohairic-pos-VE
 
 3749 <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> tokens (96% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="cop_bohairic-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3468; 93%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="cop_bohairic-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3469; 93%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (3614; 96% of non-empty `VerbForm`): ⲓ, ϣⲱⲡⲓ, ϫⲱ, ⲟⲩⲁⲃ, ⲛⲁⲩ, ⲡⲉϫⲁ, ϣⲉ, ⲥⲱⲧⲉⲙ, ⲟⲓ, ⲉⲣ
 * `Inf` (135; 4% of non-empty `VerbForm`): ⲉⲣ, ⲛⲁⲩ, ϯ, ϣⲱⲡⲓ, ϭⲓ, ϫⲟ, ⲉⲙⲓ, ⲥⲁϫⲓ, ⲥⲱⲧⲉⲙ, ϧⲟⲑⲃⲉ
-* `EMPTY` (168): ⲟⲩⲟⲛ, ⲙⲙⲟⲛ, ⲑⲣⲉ, ⲑⲣ, ⲟⲩⲟⲛⲧⲉ, ⲙⲙⲟⲛⲧⲉ, ⲑⲣⲟ, ⲙⲙⲟⲛⲧ, ⲟⲩⲟⲛⲧⲱ, ⲙⲙⲟⲛⲛⲧⲁ
+* `EMPTY` (167): ⲟⲩⲟⲛ, ⲙⲙⲟⲛ, ⲑⲣⲉ, ⲑⲣ, ⲟⲩⲟⲛⲧⲉ, ⲙⲙⲟⲛⲧⲉ, ⲑⲣⲟ, ⲙⲙⲟⲛⲧ, ⲟⲩⲟⲛⲧⲱ, ⲙⲙⲟⲛⲛⲧⲁ
 
 <table>
   <tr><th>Paradigm <i>ⲓ</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th></tr>

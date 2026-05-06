@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Alina Wróblewska.
 
 Repository: [UD_Polish-PUD](https://github.com/UniversalDependencies/UD_Polish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pud217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pud218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -49,11 +49,16 @@ This is the Polish portion of the Parallel Universal Dependencies (PUD) treebank
 
 
 
-PUD-PL consists of 1000 Polish sentences (18,384 tokens) in the same order as in the PUD treebanks in other languages. Morpho-syntactic annotations were automatically predicted by [COMBO](https://github.com/360er0/COMBO) trained on Polish Dependency Bank 2.0 and then manually corrected. Finally, the trees were converted into the UD trees using the same converting procedure as in the case of the PDB-UD treebank. The annotation schema of PUD-PL is thus the same as in the Polish PDB-UD treebank. 459 PUD-PL trees contain enhanced edges.
+PUD-PL consists of 1000 Polish sentences (18,384 tokens) in the same order as in the PUD treebanks in other languages. Morpho-syntactic annotations were automatically predicted by [COMBO](https://github.com/360er0/COMBO) trained on Polish Dependency Bank 2.0 and then manually corrected. Finally, the trees were converted into the UD trees using the same conversion procedure as in the case of the PDB-UD treebank. The annotation schema of PUD-PL is thus the same as in the Polish PDB-UD treebank. 459 PUD-PL trees contain enhanced edges.
 
 ## Acknowledgments
 
-The development of the PDB-UD treebank was founded by the Polish Ministry of Science and Higher Education as part of the investment in the CLARIN-PL research infrastructure. The development of the PUD-PL treebank (v2.13) was founded by Digital Research Infrastructure for the Arts and Humanities DARIAH-PL (project no. POIR.04.02.00-00-D006/20-00).
+We want to thank all contributors to the Polish Parallel UD treebank, as well as the supporting and founding institutions:
+
+* The development of the PDB-UD treebank (v2.18) was funded by the Polish Ministry of Science and Higher Education as part of the investment in the [CLARIN-PL](https://clarin-pl.eu//) research infrastructure (CLARIN Quintus, grant number: 2024/WK/01).
+* This work was supported by COST Action CA21167 - Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr)).
+* The development of the PDB-UD treebank (v2.13) was funded by Digital Research Infrastructure for the Arts and Humanities DARIAH-PL (project no. POIR.04.02.00-00-D006/20-00).
+* The development of the PDB-UD treebank (v2.5) was funded by the Polish Ministry of Science and Higher Education as part of the investment in the CLARIN-PL research infrastructure.
 
 ## References
 
@@ -81,11 +86,11 @@ year = {2018}
 
 ## Features
 
-[Abbr](pl_pud-feat-Abbr.html) – [AdpType](pl_pud-feat-AdpType.html) – [Animacy](pl_pud-feat-Animacy.html) – [Aspect](pl_pud-feat-Aspect.html) – [Case](pl_pud-feat-Case.html) – [ConjType](pl_pud-feat-ConjType.html) – [Degree](pl_pud-feat-Degree.html) – [Foreign](pl_pud-feat-Foreign.html) – [Gender](pl_pud-feat-Gender.html) – [Hyph](pl_pud-feat-Hyph.html) – [Mood](pl_pud-feat-Mood.html) – [Number](pl_pud-feat-Number.html) – [Number[psor]](pl_pud-feat-Number-psor.html) – [NumForm](pl_pud-feat-NumForm.html) – [NumType](pl_pud-feat-NumType.html) – [PartType](pl_pud-feat-PartType.html) – [Person](pl_pud-feat-Person.html) – [Polarity](pl_pud-feat-Polarity.html) – [Poss](pl_pud-feat-Poss.html) – [PrepCase](pl_pud-feat-PrepCase.html) – [PronType](pl_pud-feat-PronType.html) – [PunctSide](pl_pud-feat-PunctSide.html) – [PunctType](pl_pud-feat-PunctType.html) – [Reflex](pl_pud-feat-Reflex.html) – [Tense](pl_pud-feat-Tense.html) – [Variant](pl_pud-feat-Variant.html) – [VerbForm](pl_pud-feat-VerbForm.html) – [VerbType](pl_pud-feat-VerbType.html) – [Voice](pl_pud-feat-Voice.html)
+[Abbr](pl_pud-feat-Abbr.html) – [AdpType](pl_pud-feat-AdpType.html) – [Animacy](pl_pud-feat-Animacy.html) – [Aspect](pl_pud-feat-Aspect.html) – [Case](pl_pud-feat-Case.html) – [ConjType](pl_pud-feat-ConjType.html) – [Degree](pl_pud-feat-Degree.html) – [ExtPos](pl_pud-feat-ExtPos.html) – [Foreign](pl_pud-feat-Foreign.html) – [Gender](pl_pud-feat-Gender.html) – [Hyph](pl_pud-feat-Hyph.html) – [Mood](pl_pud-feat-Mood.html) – [Number](pl_pud-feat-Number.html) – [Number[psor]](pl_pud-feat-Number-psor.html) – [NumForm](pl_pud-feat-NumForm.html) – [NumType](pl_pud-feat-NumType.html) – [PartType](pl_pud-feat-PartType.html) – [Person](pl_pud-feat-Person.html) – [Polarity](pl_pud-feat-Polarity.html) – [Poss](pl_pud-feat-Poss.html) – [PrepCase](pl_pud-feat-PrepCase.html) – [PronType](pl_pud-feat-PronType.html) – [PunctSide](pl_pud-feat-PunctSide.html) – [PunctType](pl_pud-feat-PunctType.html) – [Reflex](pl_pud-feat-Reflex.html) – [Tense](pl_pud-feat-Tense.html) – [Variant](pl_pud-feat-Variant.html) – [VerbForm](pl_pud-feat-VerbForm.html) – [VerbType](pl_pud-feat-VerbType.html) – [Voice](pl_pud-feat-Voice.html)
 
 ## Relations
 
-[acl](pl_pud-dep-acl.html) – [acl:relcl](pl_pud-dep-acl-relcl.html) – [advcl](pl_pud-dep-advcl.html) – [advcl:relcl](pl_pud-dep-advcl-relcl.html) – [advmod](pl_pud-dep-advmod.html) – [advmod:arg](pl_pud-dep-advmod-arg.html) – [advmod:emph](pl_pud-dep-advmod-emph.html) – [advmod:neg](pl_pud-dep-advmod-neg.html) – [amod](pl_pud-dep-amod.html) – [amod:flat](pl_pud-dep-amod-flat.html) – [appos](pl_pud-dep-appos.html) – [aux](pl_pud-dep-aux.html) – [aux:clitic](pl_pud-dep-aux-clitic.html) – [aux:cnd](pl_pud-dep-aux-cnd.html) – [aux:pass](pl_pud-dep-aux-pass.html) – [case](pl_pud-dep-case.html) – [cc](pl_pud-dep-cc.html) – [cc:preconj](pl_pud-dep-cc-preconj.html) – [ccomp](pl_pud-dep-ccomp.html) – [ccomp:cleft](pl_pud-dep-ccomp-cleft.html) – [ccomp:obj](pl_pud-dep-ccomp-obj.html) – [conj](pl_pud-dep-conj.html) – [cop](pl_pud-dep-cop.html) – [csubj](pl_pud-dep-csubj.html) – [csubj:pass](pl_pud-dep-csubj-pass.html) – [dep](pl_pud-dep-dep.html) – [det](pl_pud-dep-det.html) – [det:numgov](pl_pud-dep-det-numgov.html) – [det:nummod](pl_pud-dep-det-nummod.html) – [det:poss](pl_pud-dep-det-poss.html) – [expl:pv](pl_pud-dep-expl-pv.html) – [fixed](pl_pud-dep-fixed.html) – [flat](pl_pud-dep-flat.html) – [flat:foreign](pl_pud-dep-flat-foreign.html) – [iobj](pl_pud-dep-iobj.html) – [mark](pl_pud-dep-mark.html) – [nmod](pl_pud-dep-nmod.html) – [nmod:arg](pl_pud-dep-nmod-arg.html) – [nmod:flat](pl_pud-dep-nmod-flat.html) – [nmod:poss](pl_pud-dep-nmod-poss.html) – [nmod:pred](pl_pud-dep-nmod-pred.html) – [nsubj](pl_pud-dep-nsubj.html) – [nsubj:pass](pl_pud-dep-nsubj-pass.html) – [nummod](pl_pud-dep-nummod.html) – [nummod:gov](pl_pud-dep-nummod-gov.html) – [obj](pl_pud-dep-obj.html) – [obl](pl_pud-dep-obl.html) – [obl:agent](pl_pud-dep-obl-agent.html) – [obl:arg](pl_pud-dep-obl-arg.html) – [obl:cmpr](pl_pud-dep-obl-cmpr.html) – [obl:orphan](pl_pud-dep-obl-orphan.html) – [orphan](pl_pud-dep-orphan.html) – [parataxis:insert](pl_pud-dep-parataxis-insert.html) – [parataxis:obj](pl_pud-dep-parataxis-obj.html) – [punct](pl_pud-dep-punct.html) – [root](pl_pud-dep-root.html) – [vocative](pl_pud-dep-vocative.html) – [xcomp](pl_pud-dep-xcomp.html) – [xcomp:pred](pl_pud-dep-xcomp-pred.html) – [xcomp:subj](pl_pud-dep-xcomp-subj.html)
+[acl](pl_pud-dep-acl.html) – [acl:cmp](pl_pud-dep-acl-cmp.html) – [acl:relcl](pl_pud-dep-acl-relcl.html) – [advcl](pl_pud-dep-advcl.html) – [advcl:cmp](pl_pud-dep-advcl-cmp.html) – [advcl:relcl](pl_pud-dep-advcl-relcl.html) – [advmod](pl_pud-dep-advmod.html) – [advmod:arg](pl_pud-dep-advmod-arg.html) – [advmod:cmp](pl_pud-dep-advmod-cmp.html) – [advmod:emph](pl_pud-dep-advmod-emph.html) – [advmod:neg](pl_pud-dep-advmod-neg.html) – [amod](pl_pud-dep-amod.html) – [amod:cmp](pl_pud-dep-amod-cmp.html) – [amod:flat](pl_pud-dep-amod-flat.html) – [appos](pl_pud-dep-appos.html) – [aux](pl_pud-dep-aux.html) – [aux:clitic](pl_pud-dep-aux-clitic.html) – [aux:cnd](pl_pud-dep-aux-cnd.html) – [aux:pass](pl_pud-dep-aux-pass.html) – [case](pl_pud-dep-case.html) – [cc](pl_pud-dep-cc.html) – [cc:preconj](pl_pud-dep-cc-preconj.html) – [ccomp](pl_pud-dep-ccomp.html) – [ccomp:cleft](pl_pud-dep-ccomp-cleft.html) – [ccomp:obj](pl_pud-dep-ccomp-obj.html) – [conj](pl_pud-dep-conj.html) – [cop](pl_pud-dep-cop.html) – [csubj](pl_pud-dep-csubj.html) – [csubj:pass](pl_pud-dep-csubj-pass.html) – [dep](pl_pud-dep-dep.html) – [det](pl_pud-dep-det.html) – [det:numgov](pl_pud-dep-det-numgov.html) – [det:nummod](pl_pud-dep-det-nummod.html) – [det:poss](pl_pud-dep-det-poss.html) – [expl:pv](pl_pud-dep-expl-pv.html) – [fixed](pl_pud-dep-fixed.html) – [flat](pl_pud-dep-flat.html) – [flat:foreign](pl_pud-dep-flat-foreign.html) – [iobj](pl_pud-dep-iobj.html) – [mark](pl_pud-dep-mark.html) – [nmod](pl_pud-dep-nmod.html) – [nmod:arg](pl_pud-dep-nmod-arg.html) – [nmod:cmp](pl_pud-dep-nmod-cmp.html) – [nmod:flat](pl_pud-dep-nmod-flat.html) – [nmod:poss](pl_pud-dep-nmod-poss.html) – [nmod:pred](pl_pud-dep-nmod-pred.html) – [nsubj](pl_pud-dep-nsubj.html) – [nsubj:pass](pl_pud-dep-nsubj-pass.html) – [nummod](pl_pud-dep-nummod.html) – [nummod:gov](pl_pud-dep-nummod-gov.html) – [obj](pl_pud-dep-obj.html) – [obl](pl_pud-dep-obl.html) – [obl:agent](pl_pud-dep-obl-agent.html) – [obl:arg](pl_pud-dep-obl-arg.html) – [obl:cmp](pl_pud-dep-obl-cmp.html) – [obl:orphan](pl_pud-dep-obl-orphan.html) – [orphan](pl_pud-dep-orphan.html) – [parataxis](pl_pud-dep-parataxis.html) – [parataxis:insert](pl_pud-dep-parataxis-insert.html) – [parataxis:obj](pl_pud-dep-parataxis-obj.html) – [punct](pl_pud-dep-punct.html) – [root](pl_pud-dep-root.html) – [vocative](pl_pud-dep-vocative.html) – [xcomp](pl_pud-dep-xcomp.html) – [xcomp:pred](pl_pud-dep-xcomp-pred.html) – [xcomp:subj](pl_pud-dep-xcomp-subj.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -121,7 +126,7 @@ year = {2018}
 </ul>
 
 <ul>
-<li>This corpus contains 48 word types tagged as particles (PART): Czyżby, Niestety, Oto, Zdecydowanie, a, aż, co, czy, dopiero, dosłownie, dość, głównie, i, jednak, jedynie, jeszcze, już, może, najwyraźniej, naprawdę, nawet, nie, niemal, oczywiście, około, ostatecznie, podobno, ponad, praktycznie, prawdopodobnie, prawie, przynajmniej, raczej, również, szczególnie, tak, teoretycznie, też, to, tuż, tylko, wreszcie, właściwie, właśnie, za, zaledwie, znowu, znów</li>
+<li>This corpus contains 49 word types tagged as particles (PART): Czyżby, Niestety, Oto, Zdecydowanie, a, aż, co, czy, dopiero, dosłownie, dość, głównie, i, jednak, jedynie, jeszcze, już, może, najwyraźniej, naprawdę, nawet, nie, niemal, oczywiście, około, ostatecznie, podobno, ponad, praktycznie, prawdopodobnie, prawie, przynajmniej, raczej, również, szczególnie, tak, teoretycznie, też, to, tuż, tylko, wreszcie, wyłącznie, właściwie, właśnie, za, zaledwie, znowu, znów</li>
 </ul>
 
 <ul>
@@ -234,7 +239,7 @@ year = {2018}
       <li>ADJ: pierwsze, Zjednoczonych, bezpośrednie, całe, duże, greckie, inne, małe, olimpijskich, Celtyckim</li>
       <li>ADJ-Part: napisane, ukształtowane, zaplanowane, Podupadające, Ukryte, Zapytane, budujących, certyfikowane, dotyczące, importowane</li>
       <li>AUX-Fin: było, zostało, zostały, były</li>
-      <li>DET: które, wiele, takie, tych, których, swoim, swoje, to, więcej, swojego</li>
+      <li>DET: które, wiele, takie, to, tych, których, swoim, swoje, więcej, swojego</li>
       <li>NOUN: miejsce, miasta, euro, danych, miejscu, prawa, życia, badania, działania, miejsca</li>
       <li>NOUN-Vnoun: zniszczenie, kręcenia, ograniczaniu, ograniczenia, opuszczenia, otwarcie, poszukiwaniu, powstrzymania, przejęcia, przekroczenie</li>
       <li>NUM: 1.335, 1.365, 100, 34, 35000, 500, Trzy, cztery, dwa, dwóch</li>
@@ -355,7 +360,7 @@ year = {2018}
       <li>ADJ: pierwszy, 1, całe, całą, nową, ogromną, bezpośrednie, duże, dużą, małe</li>
       <li>ADJ-Part: używane, związane, biorących, chroniącego, dmuchany, dotyczące, importowane, inspirowane, lądujący, nadesłane</li>
       <li>ADP: temu</li>
-      <li>DET: swoje, więcej, kilka, ten, wiele, które, jaką, swoją, swój, który</li>
+      <li>DET: swoje, więcej, kilka, ten, wiele, które, swoją, swój, jaką, który</li>
       <li>NOUN: miejsce, raz, sposób, uwagę, rolę, lata, możliwość, część, koniec, rzecz</li>
       <li>NOUN-Vnoun: otwarcie, zawieszenie, założenie, bycie, cofanie, doinwestowanie, dokonanie, dotarcie, nadużycie, odciążenie</li>
       <li>NUM: dwa, trzy, 3, dwie, sześć, 1,4, 1,5, 10, 16, 34</li>
@@ -400,7 +405,7 @@ year = {2018}
     <ul>
       <li>ADJ: jednym, innymi, dużą, kolejnym, niezbędnym, pierwszym, jedną, młodą, najważniejszym, największym</li>
       <li>ADJ-Part: urzędującym, broniącą, dotyczącym, duszącym, kontrolującymi, mającą, nieprzeszkolonymi, obowiązującymi, przyjętą, rosnącymi</li>
-      <li>DET: tym, takimi, swoim, swoimi, swoją, tymi, wieloma, Moim, jakimś, każdym</li>
+      <li>DET: tym, takimi, swoim, swoimi, swoją, tymi, wieloma, Moim, jakimś, jaką</li>
       <li>NOUN: czasem, celem, latem, razem, zimą, liczbą, pomocą, prezydentem, przedmiotem, rządem</li>
       <li>NOUN-Vnoun: wprowadzeniem, izolowaniem, lokowaniem, objęciem, obniżeniem, podejmowaniem, przetwarzaniem, przeznaczeniem, przybyciem, przygotowaniem</li>
       <li>NUM: dwiema, dwoma, 71, dwudziestoma, ośmioma</li>
@@ -906,7 +911,7 @@ year = {2018}
     <ul>
       <li>Comp
         <ul>
-          <li>SCONJ: jak, niż</li>
+          <li>SCONJ: niż, jak</li>
         </ul>
       </li>
       <li>Pred
@@ -919,11 +924,63 @@ year = {2018}
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADV: tak</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: w, z, na, pod, ze, za, bez</li>
+          <li>ADV: zgodnie, razem, wraz, wspólnie, Niezależnie</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: w</li>
+          <li>ADV: tak</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: jak, a, ale</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>DET: tym, tego, to</li>
+        </ul>
+      </li>
+      <li>NOUN
+        <ul>
+          <li>NOUN: dress, mos, r, w</li>
+        </ul>
+      </li>
+      <li>PART
+        <ul>
+          <li>ADP: na, w, poza, przede, Mimo, między, z</li>
+          <li>ADV: mniej</li>
+          <li>PART: i, co, tak</li>
+          <li>VERB-Inf: być</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: podczas, mimo, w</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
         <ul>
-          <li>X: of, the, de, El, Von, 'Ya, A, Breaking, Buck, Century</li>
+          <li>X: of, the, de, a, Association, El, Von, 'Ya, America, Assistant</li>
         </ul>
       </li>
     </ul>
@@ -1121,7 +1178,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen (4)</li>
       <li>VERB-Inf--NOUN-Acc (85)</li>
       <li>VERB-Inf--NOUN-Gen (12)</li>
-      <li>VERB-Inf--PRON-Acc (11)</li>
+      <li>VERB-Inf--PRON-Acc (10)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
     </ul>
   </li>
@@ -1138,7 +1195,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat (32)</li>
       <li>VERB-Fin--NOUN-Gen (35)</li>
       <li>VERB-Fin--NOUN-Ins (34)</li>
-      <li>VERB-Fin--NOUN-Nom (1)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Dat (16)</li>
       <li>VERB-Fin--PRON-Gen (2)</li>
@@ -1169,7 +1225,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 32 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>obl:orphan</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>expl</a>, <a>parataxis</a></li>
+<li>This corpus uses 37 relation subtypes: <a>acl:cmp</a>, <a>acl:relcl</a>, <a>advcl:cmp</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:cmp</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:cmp</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nmod:arg</a>, <a>nmod:cmp</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>obl:orphan</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 7 relation types are not used in this corpus at all: <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

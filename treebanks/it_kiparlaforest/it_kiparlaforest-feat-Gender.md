@@ -9,178 +9,205 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-2755 tokens (29%) have a non-empty value of `Gender`.
-816 types (48%) occur at least once with a non-empty value of `Gender`.
-661 lemmas (53%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 11 part-of-speech tags: <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1155; 12% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (746; 8% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (307; 3% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (290; 3% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (205; 2% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (21; 0% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (13; 0% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (1; 0% instances).
+6263 tokens (34%) have a non-empty value of `Gender`.
+1546 types (53%) occur at least once with a non-empty value of `Gender`.
+1271 lemmas (60%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 13 part-of-speech tags: <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (2495; 13% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (1812; 10% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (665; 4% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (650; 3% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (389; 2% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (111; 1% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> (35; 0% instances), <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (34; 0% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (34; 0% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (33; 0% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-1155 <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Gender`.
+2495 <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> tokens (94% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (803; 70%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1699; 68%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (602; 52% of non-empty `Gender`): <em>città, casa, realtà, università, cosa, parte, via, zona, macchina, volta</em>
-* `Masc` (553; 48% of non-empty `Gender`): <em>tipo, centro, anni, senso, minuti, uovo, anno, livello, piedi, sacco</em>
-* `EMPTY` (63): <em>po', cazzo, tipo, 'mbare, badile, incentivo, inglese, apostrofo, assistente, audio</em>
+* `Fem` (1179; 47% of non-empty `Gender`): <em>città, realtà, casa, lingua, cosa, parte, università, cose, persone, storia</em>
+* `Masc` (1316; 53% of non-empty `Gender`): <em>tipo, arabo, centro, anni, dialetti, alfabeto, sud, sacco, senso, periodo</em>
+* `EMPTY` (173): <em>po', nord, lingue, cazzo, femminile, okay, chewing, grazie, gum, ics</em>
 
 <table>
-  <tr><th>Paradigm <i>tipo</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>tipo</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>tipo</em></td><td><em>tipa</em></td></tr>
+  <tr><th>Paradigm <i>lingua</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>lingue</em></td><td><em>lingua</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>lingue</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (406) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 97% lemmas (755) occur only with one value of `Gender`.
 
 ### `DET`
 
-746 <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Gender`.
+1812 <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> tokens (83% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (629; 84%), <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (550; 74%), <tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (425; 57%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (1555; 86%), <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1335; 74%), <tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (1167; 64%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (363; 49% of non-empty `Gender`): <em>la, le, una, un', delle, quella, mia, questa, tutte, altra</em>
-* `Masc` (383; 51% of non-empty `Gender`): <em>il, un, i, gli, dei, lo, tutti, questo, uno, 'sto</em>
-* `EMPTY` (126): <em>l', che, tutto, ogni, 'sta, altra, altre, dei, il, quanti</em>
+* `Fem` (853; 47% of non-empty `Gender`): <em>la, le, una, questa, un', queste, delle, mia, quella, tutte</em>
+* `Masc` (959; 53% of non-empty `Gender`): <em>il, un, i, gli, questo, lo, questi, dei, uno, tutti</em>
+* `EMPTY` (382): <em>l', che, tutto, loro, tutti, il, qualche, alcuni, la, tutta</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>il, lo</em></td><td><em>la</em></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>i, gli</em></td><td><em>le</em></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>lo</em></td><td><em>la</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>il, lo, l</em></td><td><em>la, le</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>i, gli, il</em></td><td><em>le, lo</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>lo, l'</em></td><td><em>la</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>la</em></td></tr>
   <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>i</em></td></tr>
 </table>
 
 ### `ADJ`
 
-307 <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> tokens (75% of all `ADJ` tokens) have a non-empty value of `Gender`.
+665 <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> tokens (70% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (261; 85%), <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (242; 79%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (511; 77%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (151; 49% of non-empty `Gender`): <em>mia, piccola, bella, tua, mezza, universitaria, altra, lontana, sola, tedesca</em>
-* `Masc` (156; 51% of non-empty `Gender`): <em>esatto, miei, strano, grosso, piccolo, scorso, vero, bel, bellissimo, bello</em>
-* `EMPTY` (104): <em>grande, difficile, certo, altra, familiare, intollerante, mezz', culturale, diverse, inintelligibile</em>
+* `Fem` (295; 44% of non-empty `Gender`): <em>araba, mia, piccola, prima, semitica, bella, buona, tua, mezza, altra</em>
+* `Masc` (370; 56% of non-empty `Gender`): <em>esatto, arabo, miei, proto, stesso, strano, antico, bel, islamico, perfetto</em>
+* `EMPTY` (282): <em>grande, difficile, stessa, comune, standard, udenti, altra, certo, enorme, facile</em>
 
 <table>
-  <tr><th>Paradigm <i>mio</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_kiparlaforest-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>mia</em></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>miei</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_kiparlaforest-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>miei</em></td><td></td></tr>
+  <tr><th>Paradigm <i>arabo</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>arabo</em></td><td><em>araba</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>arabi</em></td><td></td></tr>
 </table>
 
 ### `PRON`
 
-290 <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> tokens (29% of all `PRON` tokens) have a non-empty value of `Gender`.
+650 <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> tokens (35% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (234; 81%), <tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (165; 57%), <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (147; 51%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (510; 78%), <tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (383; 59%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (65; 22% of non-empty `Gender`): <em>lei, quella, questa, le, altra, la, quelle, tutta, tutte, una</em>
-* `Masc` (225; 78% of non-empty `Gender`): <em>lo, quello, l', tutti, questo, uno, li, niente, quelli, altro</em>
-* `EMPTY` (712): <em>c', io, che, ci, mi, me, si, ti, te, ne</em>
+* `Fem` (180; 28% of non-empty `Gender`): <em>questa, le, la, lei, quella, una, altra, queste, alcune, quelle</em>
+* `Masc` (470; 72% of non-empty `Gender`): <em>lo, quello, questo, l', tutti, li, qualcuno, uno, questi, tutto</em>
+* `EMPTY` (1232): <em>c', io, si, ci, mi, che, me, ti, cui, ne</em>
 
 <table>
-  <tr><th>Paradigm <i>quello</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>quello, quel</em></td><td><em>quella</em></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>quelli</em></td><td><em>quelle</em></td></tr>
+  <tr><th>Paradigm <i>lo</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>lo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>l'</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>lo, l', qual</em></td><td></td></tr>
 </table>
 
 ### `VERB`
 
-205 <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> tokens (17% of all `VERB` tokens) have a non-empty value of `Gender`.
+389 <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (205; 100%), <tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (205; 100%), <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (179; 87%), <tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (172; 84%), <tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (172; 84%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (389; 100%), <tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (389; 100%), <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (336; 86%), <tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (334; 86%), <tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (334; 86%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (53; 26% of non-empty `Gender`): <em>fatta, basta, chiusa, costruita, fo, legata, mangiata, preferita, ristrutturata, sputtanata</em>
-* `Masc` (152; 74% of non-empty `Gender`): <em>detto, fatto, sentito, vissuto, capito, mangiato, parlato, pensato, raccontato, scoperto</em>
-* `EMPTY` (993): <em>è, so, fa, fare, ha, diciamo, penso, era, hai, andare</em>
+* `Fem` (102; 26% of non-empty `Gender`): <em>fatta, trovata, datata, morte, scritte, andata, andate, basta, chiusa, coperta</em>
+* `Masc` (287; 74% of non-empty `Gender`): <em>detto, fatto, scritto, sentito, visto, imparato, parlato, trovato, usato, vissuto</em>
+* `EMPTY` (1995): <em>è, so, sono, abbiamo, fa, fare, era, ha, dire, va</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>stato</em></td><td><em>stata</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>stato</em></td><td><em>stata</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>stati</em></td><td></td></tr>
 </table>
 
-### `ADV`
+### `PROPN`
 
-21 <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Gender`.
+111 <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> tokens (26% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADV` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (19; 90%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (81; 73%).
 
-`ADV` tokens may have the following values of `Gender`:
+`PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (7; 33% of non-empty `Gender`): <em>cosa, lì, molte, tutta, tutte, vicina</em>
-* `Masc` (14; 67% of non-empty `Gender`): <em>quanto, giusto, meno, bene, esatto, lontano, manco, pochino, quanti, vero</em>
-* `EMPTY` (1023): <em>non, anche, più, poi, molto, sempre, così, no, fuori, adesso</em>
+* `Fem` (59; 53% of non-empty `Gender`): <em>arabia, siria, giordania, saudita, saba, turchia, arancioni, marina, palestina, palmira</em>
+* `Masc` (52; 47% of non-empty `Gender`): <em>rossi, oman, kitab, nabatei, qays, erodoto, sinai, arab, egitto, fermo</em>
+* `EMPTY` (313): <em>[TOWN_NAME], ancona, bologna, pesaro, cristo, [PLACE_NAME], fermo, gialli, imola, marche</em>
 
-<table>
-  <tr><th>Paradigm <i>vicino</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>vicino</em></td><td><em>vicina</em></td></tr>
-</table>
-
-`Gender` seems to be **lexical feature** of `ADV`. 93% lemmas (13) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (56) occur only with one value of `Gender`.
 
 ### `AUX`
 
-14 <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Gender`.
+35 <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11; 79%), <tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (9; 64%), <tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (9; 64%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (35; 100%), <tt><a href="it_kiparlaforest-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (35; 100%), <tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (27; 77%), <tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (27; 77%), <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 74%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Fem` (8; 57% of non-empty `Gender`): <em>stata, son</em>
-* `Masc` (6; 43% of non-empty `Gender`): <em>son, stato, ero, stavo</em>
-* `EMPTY` (566): <em>è, ho, era, ha, devi, sono, son, devo, hai, sei</em>
+* `Fem` (18; 51% of non-empty `Gender`): <em>stata, state, son, esser</em>
+* `Masc` (17; 49% of non-empty `Gender`): <em>stato, son, stati, abbiamo, avevo, ero, stavo</em>
+* `EMPTY` (1009): <em>è, sono, ho, ha, era, devi, hanno, possiamo, abbiamo, son</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt>_</tt></td><td><em>son</em></td><td><em>son</em></td></tr>
   <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ero</em></td><td></td></tr>
   <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>stato</em></td><td><em>stata</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>esser</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_kiparlaforest-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="it_kiparlaforest-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>stati</em></td><td><em>state</em></td></tr>
 </table>
+
+### `INTJ`
+
+34 <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> tokens (4% of all `INTJ` tokens) have a non-empty value of `Gender`.
+
+`INTJ` tokens may have the following values of `Gender`:
+
+* `Masc` (34; 100% of non-empty `Gender`): <em>mh, eh</em>
+* `EMPTY` (757): <em>eh, mh, okay, ah, no, sì, vabbè, mhmh, beh, ehm</em>
 
 ### `NUM`
 
-13 <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> tokens (14% of all `NUM` tokens) have a non-empty value of `Gender`.
+34 <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> tokens (20% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-NumType.html">NumType</a></tt><tt>=Ord</tt> (12; 92%), <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 69%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 74%), <tt><a href="it_kiparlaforest-feat-NumType.html">NumType</a></tt><tt>=Ord</tt> (19; 56%).
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (6; 46% of non-empty `Gender`): <em>prima, seconda</em>
-* `Masc` (7; 54% of non-empty `Gender`): <em>primi, primo, secondo</em>
-* `EMPTY` (79): <em>due, quattro, tre, undici, cinquanta, dodici, quattordici, venti, cinque, dieci</em>
+* `Fem` (10; 29% of non-empty `Gender`): <em>prima, seconda, sedicimila, terza</em>
+* `Masc` (24; 71% of non-empty `Gender`): <em>primi, primo, seicento, trecentoventotto, duecento, duemiladiciotto, milleseicento, ottocento, secondo, sedici</em>
+* `EMPTY` (138): <em>due, quattro, tre, cinque, quattordici, sette, dieci, mille, undici, cinquanta</em>
 
 <table>
   <tr><th>Paradigm <i>primo</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>primo</em></td><td><em>prima</em></td></tr>
-  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>primi</em></td><td></td></tr>
+  <tr><td><tt>_</tt></td><td><em>primi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_kiparlaforest-feat-NumType.html">NumType</a></tt><tt>=Ord</tt></tt></td><td><em>primo</em></td><td><em>prima</em></td></tr>
+  <tr><td><tt><tt><a href="it_kiparlaforest-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_kiparlaforest-feat-NumType.html">NumType</a></tt><tt>=Ord</tt></tt></td><td><em>primi</em></td><td></td></tr>
 </table>
 
-### `PROPN`
+### `ADV`
 
-2 <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Gender`.
+33 <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Gender`.
 
-`PROPN` tokens may have the following values of `Gender`:
+The most frequent other feature values with which `ADV` and `Gender` co-occurred: <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (29; 88%).
 
-* `Masc` (2; 100% of non-empty `Gender`): <em>fermo</em>
-* `EMPTY` (255): <em>[TOWN_NAME], ancona, bologna, pesaro, [PLACE_NAME], fermo, gialli, imola, marche, pasqua</em>
+`ADV` tokens may have the following values of `Gender`:
+
+* `Fem` (12; 36% of non-empty `Gender`): <em>cosa, etcetera, lì, più, invece, molte, quali, tutta, tutte, vicina</em>
+* `Masc` (21; 64% of non-empty `Gender`): <em>quanto, giusto, lì, meno, almeno, bene, esatto, fino, lontano, manco</em>
+* `EMPTY` (2179): <em>non, sì, no, anche, più, poi, molto, così, bene, adesso</em>
+
+<table>
+  <tr><th>Paradigm <i>lì</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>lì</em></td><td><em>lì</em></td></tr>
+</table>
+
+### `ADP`
+
+2 <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Gender`.
+
+`ADP` tokens may have the following values of `Gender`:
+
+* `Fem` (1; 50% of non-empty `Gender`): <em>a</em>
+* `Masc` (1; 50% of non-empty `Gender`): <em>in</em>
+* `EMPTY` (1901): <em>di, in, a, per, da, con, su, come, secondo, tra</em>
 
 ### `CCONJ`
 
-1 <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Gender`.
+2 <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Gender`.
 
 `CCONJ` tokens may have the following values of `Gender`:
 
-* `Fem` (1; 100% of non-empty `Gender`): <em>oppure</em>
-* `EMPTY` (628): <em>e, cioè, ma, però, quindi, comunque, o, infatti, invece, mentre</em>
+* `Fem` (2; 100% of non-empty `Gender`): <em>oppure</em>
+* `EMPTY` (1000): <em>e, cioè, ma, quindi, però, o, comunque, sia, che, infatti</em>
 
 ### `X`
 
@@ -189,19 +216,19 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 `X` tokens may have the following values of `Gender`:
 
 * `Fem` (1; 100% of non-empty `Gender`): <em>s~</em>
-* `EMPTY` (208): <em>x, s~, day, may, no~, ti~, a~, bibbidibobbidibu, da~, d~</em>
+* `EMPTY` (353): <em>x, s~, no~, a~, day, di~, may, n~, p~, ti~</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-det.html">det</a></tt>]--> DET</tt> (597; 84%),
-<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-amod.html">amod</a></tt>]--> ADJ</tt> (134; 76%),
-<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-conj.html">conj</a></tt>]--> NOUN</tt> (25; 60%),
-<tt>ADJ --[<tt><a href="it_kiparlaforest-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11; 85%),
-<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-amod.html">amod</a></tt>]--> DET</tt> (11; 69%),
-<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (11; 61%),
-<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (9; 100%),
-<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (8; 100%),
-<tt>ADJ --[<tt><a href="it_kiparlaforest-dep-det.html">det</a></tt>]--> DET</tt> (7; 58%),
-<tt>DET --[<tt><a href="it_kiparlaforest-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (7; 54%).
+<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-det.html">det</a></tt>]--> DET</tt> (1388; 81%),
+<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-amod.html">amod</a></tt>]--> ADJ</tt> (341; 69%),
+<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-conj.html">conj</a></tt>]--> NOUN</tt> (46; 56%),
+<tt>PROPN --[<tt><a href="it_kiparlaforest-dep-det.html">det</a></tt>]--> DET</tt> (34; 51%),
+<tt>ADJ --[<tt><a href="it_kiparlaforest-dep-det.html">det</a></tt>]--> DET</tt> (24; 59%),
+<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (23; 66%),
+<tt>ADJ --[<tt><a href="it_kiparlaforest-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (22; 76%),
+<tt>DET --[<tt><a href="it_kiparlaforest-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (16; 57%),
+<tt>NOUN --[<tt><a href="it_kiparlaforest-dep-parataxis.html">parataxis</a></tt>]--> NOUN</tt> (15; 63%),
+<tt>INTJ --[<tt><a href="it_kiparlaforest-dep-discourse.html">discourse</a></tt>]--> INTJ</tt> (13; 100%).
 

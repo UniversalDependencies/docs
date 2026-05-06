@@ -28,7 +28,7 @@ The following 17 pairs of parts of speech are connected with `obj`: <tt><a href=
 4	,	,	PUNCT	,	_	7	punct	7:punct	_
 5	do	do	AUX	VB	VerbForm=Inf	7	aux	7:aux	Discourse=joint-list_m:131->130:0:_
 6	n't	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	Negation=Yes
-7	hold	hold	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	parataxis	1:parataxis	_
+7	hold	hold	VERB	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	parataxis	1:parataxis	_
 8	up	up	ADP	RP	_	7	compound:prt	7:compound:prt	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	Entity=(170-abstract-acc:com-nnnnn-cf1-2-sgl
 10	queue	queue	NOUN	NN	Number=Sing	7	obj	7:obj	Entity=170)|SpaceAfter=No
@@ -43,7 +43,7 @@ The following 17 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 obj	color:blue
-1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	Discourse=explanation-evidence:126->124:1:_|Entity=(173-person-new-nnnnn-cf2-1-sgl)
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	Discourse=explanation-evidence:126->124:1:lex-indwd-710-_|Entity=(173-person-new-nnnnn-cf2-1-sgl)
 2	'll	will	AUX	MD	VerbForm=Fin	3	aux	3:aux	_
 3	see	see	VERB	VB	VerbForm=Inf	0	root	0:root	_
 4	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	3	obj	3:obj	Entity=(174-person-acc:com-nnnnn-cf1-1-sgl)
@@ -68,7 +68,7 @@ The following 17 pairs of parts of speech are connected with `obj`: <tt><a href=
 6	space	space	NOUN	NN	Number=Sing	2	obl	2:obl:in	Entity=77)|SpaceAfter=No
 7	,	,	PUNCT	,	_	9	punct	9:punct	_
 8	somebody	somebody	PRON	NN	Number=Sing|PronType=Ind	9	vocative	9:vocative	Discourse=joint-sequence_m:80->61:0:_|Entity=(78-person-new-nnnnn-cf4-1-sgl)|MSeg=some-body|PDTB=Implicit:Temporal.Asynchronous.Precedence:then:_:561-567:568-572
-9	take	take	VERB	VB	Person=2|VerbForm=Inf	2	parataxis	2:parataxis	_
+9	take	take	VERB	VB	VerbForm=Inf	2	parataxis	2:parataxis	_
 10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	11:det	Entity=(79-event-new-nnnnn-cf3-2-coref
 11	shot	shot	NOUN	NN	Number=Sing	9	obj	9:obj	Entity=79)|SpaceAfter=No
 12	.	.	PUNCT	.	_	2	punct	2:punct	_

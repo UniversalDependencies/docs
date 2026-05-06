@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Jessica K. Ivani, Kira Tulchynska.
 
 Repository: [UD_Naga-Suansu](https://github.com/UniversalDependencies/UD_Naga-Suansu)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnmf_suansu217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnmf_suansu218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -68,9 +68,12 @@ The UD\_Naga-Suansu treebank consists of various texts translated into Suansu by
 
 ## Acknowledgments
 
-This work was supported by the University of Zurich Global Strategy and Partnerships Funding Scheme (Project Fund Level 3) (https://www.global.uzh.ch).
-We gratefully acknowledge the Suansu-speaking community for their continuous support. We also thank Jason M. Vashum for his generous assistance with translation and annotation.
+* This work was supported by the University of Zurich Global Strategy and Partnerships Funding Scheme (Project Fund Level 3) (https://www.global.uzh.ch).
 
+* We gratefully acknowledge the Suansu-speaking community for their continuous support. We also thank Jason M. Vashum for his generous assistance with translation and annotation.
+
+* Kira Tulchynska gratefully acknowledges the financial support of the Jack, Joseph and Morton Mandel School MA Honors Program at the Hebrew University of Jerusalem.
+*
 ## References
 
 * Say, Sergey (ed.). 2020-. BivalTyp: Typological database of bivalent verbs and their encoding frames. (Available online at https://www.bivaltyp.info, Accessed on 1 April 2025.)
@@ -485,7 +488,7 @@ Leipzig: Max Planck Institute for Evolutionary Anthropology.
 </ul>
 
 <ul>
-  <li>Hort
+  <li>Hrt
     <ul>
       <li>AUX: ga, diga, raga</li>
     </ul>

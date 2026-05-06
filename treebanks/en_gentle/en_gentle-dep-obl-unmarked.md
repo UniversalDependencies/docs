@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_gentle-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="en_gentle-dep-obl-agent.html">obl:agent</a></tt>.
 
-101 nodes (1%) are attached to their parents as `obl:unmarked`.
+88 nodes (0%) are attached to their parents as `obl:unmarked`.
 
-65 instances of `obl:unmarked` (64%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.59405940594059.
+61 instances of `obl:unmarked` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.69318181818182.
 
-The following 15 pairs of parts of speech are connected with `obl:unmarked`: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (30; 30% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (16; 16% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (15; 15% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (14; 14% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (8; 8% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `obl:unmarked`: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (30; 34% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (15; 17% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (14; 16% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (8; 9% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (3; 3% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -35,20 +35,16 @@ The following 15 pairs of parts of speech are connected with `obl:unmarked`: <tt
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 obl:unmarked	color:blue
-1	Reminder	reminder	NOUN	NN	Number=Sing	0	root	0:root	Discourse=context-background:108->109:1:_
-2	this	this	PRON	DT	Number=Sing|PronType=Dem	6	nsubj	6:nsubj	Entity=(4-event-giv:act-ssssn-cf1*-1-ana)
-3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
-4	our	our	PRON	PRP$	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	Entity=(4-event-giv:act-ssssn-cf1*-3-coref(10-person-giv:act-nnnnn-cf2-1-ana)
-5	final	final	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
-6	game	game	NOUN	NN	Number=Sing	1	parataxis	1:parataxis	Entity=4)
-7	here	here	ADV	RB	PronType=Dem	6	advmod	6:advmod	Entity=(7-place-giv:inact-nnnnn-cf3-1-coref)
-8	tonight	tonight	NOUN	NN	Number=Sing	6	obl:unmarked	6:obl:unmarked	Entity=(125-time-acc:com-nnnnn-cf4-1-sgl)|MSeg=to-night|SpaceAfter=No
-9	.	.	PUNCT	.	_	1	punct	1:punct	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 obl:unmarked	color:blue
+1	Let	let	VERB	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Discourse=joint-list_m:4->2:1:syn-prl-2,17-gold|PDTB=Implicit:Expansion.Conjunction:and:_:2-16:17-21
+2	AC	AC	NOUN	NN	Number=Sing	1	obj	1:obj|3:nsubj:xsubj	Entity=(5-abstract-new-nsnnn-cf1-1-coref)
+3	>	>	SYM	SYM	_	1	xcomp	1:xcomp	_
+4	CB	CB	NOUN	NN	Number=Sing	3	obl:unmarked	3:obl:unmarked	Entity=(6-abstract-new-nsnnn-cf2-1-coref)|SpaceAfter=No
+5	.	.	PUNCT	.	_	1	punct	1:punct	_
 
 ~~~
 
@@ -56,14 +52,22 @@ The following 15 pairs of parts of speech are connected with `obl:unmarked`: <tt
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 obl:unmarked	color:blue
-1	Let	let	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=joint-list_m:4->2:1:syn-prl-2,17-_|PDTB=Implicit:Expansion.Conjunction:and:_:2-16:17-21
-2	AC	AC	NOUN	NN	Number=Sing	1	obj	1:obj|3:nsubj:xsubj	Entity=(5-abstract-new-nsnnn-cf1-1-coref)
-3	>	>	SYM	SYM	_	1	xcomp	1:xcomp	_
-4	CB	CB	NOUN	NN	Number=Sing	3	obl:unmarked	3:obl:unmarked	Entity=(6-abstract-new-nsnnn-cf2-1-coref)|SpaceAfter=No
-5	.	.	PUNCT	.	_	1	punct	1:punct	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 obl:unmarked	color:blue
+1	She	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	Discourse=joint-list_m:51->50:0:_|Entity=(73-person-acc:com-nnnnn-cf1-1-sgl)|PDTB=NoRel:NoRel:_:_:185-199:200-212|XML=<hi rend:::"italic">
+2	lives	life	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	Entity=(74-abstract-new-nnnnn-cf4-2-coref
+4	mile	mile	NOUN	NN	Number=Sing	7	obl:unmarked	7:obl:unmarked	Entity=74)
+5	or	or	CCONJ	CC	_	6	cc	6:cc	_
+6	two	two	NUM	CD	NumForm=Word|NumType=Card	4	conj	4:conj:or|7:obl:unmarked	Bridge=74<75:comparison-sense|Entity=(75-abstract-acc:inf-nnnnn-cf2-1-sgl)
+7	away	away	ADV	RB	Degree=Pos	2	advmod	2:advmod	MSeg=a-way|SpaceAfter=No
+8	,	,	PUNCT	,	_	12	punct	12:punct	_
+9	in	in	ADP	IN	_	12	case	12:case	_
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Entity=(76-place-new-nnnnn-cf3-3-sgl
+11	next	next	ADJ	JJ	Degree=Pos	12	amod	12:amod	_
+12	village	village	NOUN	NN	Number=Sing	2	obl	2:obl:in	Entity=76)|SpaceAfter=No
+13	.	.	PUNCT	.	_	2	punct	2:punct	XML=</hi>
 
 ~~~
 

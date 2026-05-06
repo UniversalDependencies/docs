@@ -47,7 +47,7 @@ The following 23 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 19 parataxis	color:blue
-1	ϯ	ⲡⲓ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+1	ϯ	ⲡⲓ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	Entity=(object
 2	ⲉⲡⲓⲥⲧⲟⲗⲏ	ⲉⲡⲓⲥⲧⲟⲗⲏ	NOUN	N	Foreign=Yes	0	root	_	OrigLang=grc
 3	ⲉⲧ	ⲉⲧⲉ	SCONJ	CREL	_	6	mark	_	_
 4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
@@ -55,20 +55,20 @@ The following 23 pairs of parts of speech are connected with `parataxis`: <tt><a
 6	ⲥϧⲏⲧ	ⲥϧⲁⲓ	VERB	V	Mood=Ind|VerbForm=Fin	2	acl:relcl	_	_
 7	ⲥ	ⲛⲑⲟⲥ	PRON	PPERO	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
 8	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
-9	ⲗⲁⲩⲥⲓⲟⲥ	ⲗⲁⲩⲥⲓⲟⲥ	PROPN	NPROP	Foreign=Yes	6	obl	_	OrigLang=lat
+9	ⲗⲁⲩⲥⲓⲟⲥ	ⲗⲁⲩⲥⲓⲟⲥ	PROPN	NPROP	Foreign=Yes	6	obl	_	Entity=(person|OrigLang=lat
 10	ⲡⲓ	ⲡⲓ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	ⲡⲣⲉⲡⲟⲥⲓⲧⲟⲥ	ⲡⲣⲉⲡⲟⲥⲓⲧⲟⲥ	NOUN	N	Foreign=Yes	9	appos	_	OrigLang=grc
 12	ⲡⲓ	ⲡⲓ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	ⲃⲱⲕ	ⲃⲱⲕ	NOUN	N	_	9	appos	_	_
 14	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	16	case	_	_
-15	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	Foreign=Yes	13	nmod	_	Orig=ⲭ︦ⲥ︦|OrigLang=grc
+15	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	Entity=(person
+16	ⲭⲣⲓⲥⲧⲟⲥ	ⲭⲣⲓⲥⲧⲟⲥ	NOUN	N	Foreign=Yes	13	nmod	_	Entity=person)person)|Orig=ⲭ︦ⲥ︦|OrigLang=grc
 17	ϧⲉⲛ	ϧⲉⲛ	ADP	PREP	_	19	case	_	_
-18	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	19	det	_	_
+18	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	19	det	_	Entity=(abstract
 19	ϩⲓⲣⲏⲛⲏ	ϩⲓⲣⲏⲛⲏ	NOUN	N	Foreign=Yes	2	parataxis	_	OrigLang=grc
 20	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	22	case	_	_
-21	ⲫ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	Orig=ⲫ︦
-22	ⲛⲟⲩϯ	ⲛⲟⲩϯ	NOUN	N	_	19	nmod	_	Orig=ϯ︦
+21	ⲫ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	Entity=(person|Orig=ⲫ︦
+22	ⲛⲟⲩϯ	ⲛⲟⲩϯ	NOUN	N	_	19	nmod	_	Entity=person)abstract)object)|Orig=ϯ︦
 23	ⲁⲙⲏⲛ	ⲁⲙⲏⲛ	PART	PTC	Foreign=Yes	19	discourse	_	OrigLang=heb
 24	.	.	PUNCT	PUNCT	_	2	punct	_	_
 
@@ -84,16 +84,16 @@ The following 23 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	ⲁⲛⲟⲛ	ⲁⲛⲟⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=1|PronType=Prs	5	dislocated	_	_
 2	ⲅⲁⲣ	ⲅⲁⲣ	PART	PTC	Foreign=Yes	5	advmod	_	OrigLang=grc
 3	ⲁⲛⲟⲛ	ⲁⲛⲟⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	_
-4	ϩⲁⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	5	det	_	_
+4	ϩⲁⲛ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	5	det	_	Entity=(person
 5	ⲓⲇⲓⲱⲧⲏⲥ	ⲓⲇⲓⲱⲧⲏⲥ	NOUN	N	Foreign=Yes	0	root	_	OrigLang=grc
 6	ⲛ	ⲛ	ADP	PREP	_	7	case	_	_
-7	ⲣⲱⲙⲓ	ⲣⲱⲙⲓ	NOUN	N	_	5	nmod	_	_
+7	ⲣⲱⲙⲓ	ⲣⲱⲙⲓ	NOUN	N	_	5	nmod	_	Entity=(person)person)
 8	ⲙⲡⲉ	ⲙⲡⲉ	AUX	ANEGPST	Polarity=Neg	10	aux	_	_
 9	ⲛ	ⲁⲛⲟⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	_
 10	ϭⲓⲥⲃⲱ	ϭⲓⲥⲃⲱ	VERB	V	Mood=Ind|VerbForm=Fin	5	parataxis	_	MSeg=ϭⲓ-ⲥⲃⲱ
 11	ⲛⲧⲉ	ⲛⲧⲉ	ADP	PREP	_	13	case	_	_
-12	ⲡⲁⲓ	ⲫⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	_
-13	ⲕⲟⲥⲙⲟⲥ	ⲕⲟⲥⲙⲟⲥ	NOUN	N	Foreign=Yes	10	obl	_	OrigLang=grc
+12	ⲡⲁⲓ	ⲫⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	Entity=(place
+13	ⲕⲟⲥⲙⲟⲥ	ⲕⲟⲥⲙⲟⲥ	NOUN	N	Foreign=Yes	10	obl	_	Entity=place)|OrigLang=grc
 14	ⲟⲩⲇⲉ	ⲟⲩⲇⲉ	CCONJ	CONJ	Foreign=Yes|Polarity=Neg	17	cc	_	OrigLang=grc
 15	ⲛⲛⲉ	ⲛⲛⲉ	AUX	ANEGOPT	Polarity=Neg	17	aux	_	_
 16	ⲥ	ⲛⲑⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	17	nsubj	_	_

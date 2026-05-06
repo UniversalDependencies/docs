@@ -50,7 +50,7 @@ The following 46 pairs of parts of speech are connected with `parataxis`: <tt><a
 4	Velika	velik	ADJ	Agpnpny	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur	5	amod	_	_
 5	poboljšanja	poboljšanje	NOUN	Ncnpn	Case=Nom|Gender=Neut|Number=Plur	0	root	_	SpaceAfter=No
 6	"	"	PUNCT	Z	_	5	punct	_	_
-7	sloboda	sloboda	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	5	obl	_	_
+7	sloboda	sloboda	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	5	nmod	_	_
 8	na	na	ADP	Sl	Case=Loc	9	case	_	_
 9	Balkanu	Balkan	PROPN	Npmsl	Case=Loc|Gender=Masc|Number=Sing	7	nmod	_	_
 

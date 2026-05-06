@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>δε</em> (<tt><a href="el_gud-pos-PA
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.500000 (the average of all parts of speech is 1.674712).
+The form / lemma ratio of `PART` is 1.500000 (the average of all parts of speech is 1.675929).
 
 The 1st highest number of forms (3) was observed with the lemma “δεν”: <em>Ντεν, δε, δεν</em>.
 
@@ -35,12 +35,12 @@ The 2nd highest number of forms (2) was observed with the lemma “μην”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “δηλαδή”: <em>δηλαδή</em>.
 
-`PART` occurs with 2 features: <tt><a href="el_gud-feat-Polarity.html">Polarity</a></tt> (410; 97% instances), <tt><a href="el_gud-feat-ExtPos.html">ExtPos</a></tt> (8; 2% instances)
+`PART` occurs with 2 features: <tt><a href="el_gud-feat-Polarity.html">Polarity</a></tt> (410; 97% instances), <tt><a href="el_gud-feat-ExtPos.html">ExtPos</a></tt> (9; 2% instances)
 
-`PART` occurs with 2 feature-value pairs: `ExtPos=SCONJ`, `Polarity=Neg`
+`PART` occurs with 3 feature-value pairs: `ExtPos=ADJ`, `ExtPos=SCONJ`, `Polarity=Neg`
 
-`PART` occurs with 3 feature combinations.
-The most frequent feature combination is `Polarity=Neg` (410 tokens).
+`PART` occurs with 4 feature combinations.
+The most frequent feature combination is `Polarity=Neg` (409 tokens).
 Examples: <em>δεν, δε, μην, μη, όχι</em>
 
 

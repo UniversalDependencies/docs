@@ -24,17 +24,17 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 3 4 goeswith	color:blue
 1	Pas	pas	ADV	_	Polarity=Neg	3	advmod	_	wordform=pas
 2	de	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	sèche	sèche-cheveux	NOUN	_	Typo=Yes	0	root	_	CorrectForm=sèche-cheveux|Gender[lex]=Masc|Number[ctxt]=Sing
+3	sèche	sèche-cheveux	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	0	root	_	CorrectForm=sèche-cheveux|Exponence[Gender]=Inherent|Exponence[Number]=Absent
 4	cheveux	_	X	_	_	3	goeswith	_	_
 5	ni	ni	CCONJ	_	_	7	cc	_	_
 6	de	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	prise	prise	NOUN	_	Number=Sing	3	conj	_	Gender[lex]=Fem
-8	rasoir	rasoir	NOUN	_	Number=Sing	7	nmod	_	Gender[lex]=Masc
+7	prise	prise	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	Exponence[Gender]=Inherent
+8	rasoir	rasoir	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	Exponence[Gender]=Inherent
 9	dans	dans	ADP	_	_	11	case	_	_
 10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	salle	salle	NOUN	_	Number=Sing	7	nmod	_	Gender[lex]=Fem
+11	salle	salle	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	Exponence[Gender]=Inherent
 12	de	de	ADP	_	_	13	case	_	_
-13	bains	bain	NOUN	_	Number=Plur	11	nmod	_	Gender[lex]=Masc|SpaceAfter=No
+13	bains	bain	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -51,7 +51,7 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 3	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	cop	_	SpaceAfter=No
 4	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	wordform=ce
 5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	loup	loup	NOUN	_	Number=Sing	0	root	_	Gender[lex]=Masc
+6	loup	loup	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Exponence[Gender]=Inherent
 7	?	?	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -64,9 +64,9 @@ The following 4 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 7	fgColor:white
 # visual-style 7 8 goeswith	color:blue
 1	En	en	ADP	_	_	2	case	_	wordform=en
-2	1866	1866	NUM	_	_	11	obl:mod	_	Number[lex]=Sing
+2	1866	1866	NUM	_	Number=Sing	11	obl:mod	_	Exponence[Number]=Inherent
 3	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	catégorie	catégorie	NOUN	_	Number=Sing	11	nsubj:pass	_	Gender[lex]=Fem
+4	catégorie	catégorie	NOUN	_	Gender=Fem|Number=Sing	11	nsubj:pass	_	Exponence[Gender]=Inherent
 5	nouvelle	nouveau	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	grand	grand-croix	ADJ	_	Gender=Masc|Number=Sing|Typo=Yes	4	appos	_	CorrectForm=grand-croix

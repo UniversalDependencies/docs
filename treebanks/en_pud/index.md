@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jesse Kirchner, Lorenzo Lambertino, Martin Popel, Daniel Zeman, Christopher Manning, Sebastian Schuster, Siva Reddy.
 
 Repository: [UD_English-PUD](https://github.com/UniversalDependencies/UD_English-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pud217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pud218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 3.0
 
@@ -248,7 +248,7 @@ features and lemmata were added by Sebastian Schuster.
     <ul>
       <li>DET: these, those</li>
       <li>NOUN: people, years, police, investors, months, companies, countries, euros, films, children</li>
-      <li>PRON: their, they, we, them, our, us, those, themselves, these</li>
+      <li>PRON: their, they, we, them, our, us, those, themselves, these, ’s</li>
       <li>PROPN: States, Alps, Powers, Ages, Americans, Americas, Andes, Balkans, Chinese, Democrats</li>
     </ul>
   </li>
@@ -431,7 +431,7 @@ features and lemmata were added by Sebastian Schuster.
     <ul>
       <li>ADV: now, then, there, here</li>
       <li>DET: this, that, these, those</li>
-      <li>PRON: this, that, those, these</li>
+      <li>PRON: there, this, that, those, these</li>
     </ul>
   </li>
 </ul>
@@ -572,7 +572,7 @@ features and lemmata were added by Sebastian Schuster.
   <li>1
     <ul>
       <li>AUX-Fin: am</li>
-      <li>PRON: I, we, our, my, us, me</li>
+      <li>PRON: I, we, our, my, us, me, ’s</li>
     </ul>
   </li>
 </ul>
@@ -770,8 +770,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Ger--PRON (3)</li>
       <li>VERB-Ger--PRON-Acc (6)</li>
       <li>VERB-Inf--NOUN (207)</li>
-      <li>VERB-Inf--PRON (11)</li>
-      <li>VERB-Inf--PRON-Acc (14)</li>
+      <li>VERB-Inf--PRON (10)</li>
+      <li>VERB-Inf--PRON-Acc (15)</li>
       <li>VERB-Part--NOUN (73)</li>
       <li>VERB-Part--PRON (3)</li>
       <li>VERB-Part--PRON-Acc (6)</li>

@@ -49,7 +49,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Sets` (14; 100% of non-empty `NumType`): <em>dzieci, dziecko, dziecka, dziewczętom, imiona, niemowląt, zwierząt, zwierzęciem, zwierzęta</em>
-* `EMPTY` (4632): <em>r, lat, roku, %, części, miejsce, wojny, latach, p.n.e, ludzi</em>
+* `EMPTY` (4618): <em>r, lat, roku, %, części, miejsce, wojny, latach, p.n.e, ludzi</em>
 
 ### `PROPN`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Sets` (7; 100% of non-empty `NumType`): <em>Castelfranco, GIFy, Hillsborough, NoMa, Tower, Uber, Veneto</em>
-* `EMPTY` (1342): <em>USA, Brytanii, Clinton, Morze, Chiny, Trumpa, Azji, BBC, Danevirke, Europy</em>
+* `EMPTY` (1333): <em>USA, Brytanii, Clinton, Morze, Chiny, Trumpa, Azji, BBC, Danevirke, Europy</em>
 
 ### `DET`
 
@@ -71,7 +71,7 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (1; 100% of non-empty `NumType`): <em>tyle</em>
-* `EMPTY` (509): <em>które, który, tym, ten, która, wiele, więcej, tych, swojej, tego</em>
+* `EMPTY` (510): <em>które, który, tym, ten, która, wiele, więcej, tych, swojej, tego</em>
 
 ## Relations with Agreement in `NumType`
 

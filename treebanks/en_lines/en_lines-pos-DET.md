@@ -6,42 +6,40 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-LinES: POS Tags: `DET`
 
-There are 23 `DET` lemmas (0%), 26 `DET` types (0%) and 9921 `DET` tokens (9%).
+There are 22 `DET` lemmas (0%), 25 `DET` types (0%) and 9952 `DET` tokens (9%).
 Out of 17 observed tags, the rank of `DET` is: 12 in number of lemmas, 13 in number of types and 6 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>the, a, this, that, no, all, some, any, each, every</em>
 
-The 10 most frequent `DET` types:  <em>the, a, an, this, no, that, all, some, any, these</em>
+The 10 most frequent `DET` types:  <em>the, a, an, this, no, all, that, some, any, these</em>
 
-The 10 most frequent ambiguous lemmas: <em>the</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 5838, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2), <em>a</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 2890, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 1), <em>this</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 293, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 181), <em>that</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 538, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 514, <tt><a href="en_lines-pos-DET.html">DET</a></tt> 178, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2), <em>no</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 176, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 35, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 28, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 2), <em>all</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 129, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 118, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 60), <em>some</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 106, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 24, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 4), <em>any</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 96, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 9, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 8), <em>each</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 65, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 8), <em>what</em> (<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 279, <tt><a href="en_lines-pos-DET.html">DET</a></tt> 27)
+The 10 most frequent ambiguous lemmas: <em>the</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 5838, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2), <em>a</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 2891, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 4), <em>this</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 293, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 181), <em>that</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 538, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 514, <tt><a href="en_lines-pos-DET.html">DET</a></tt> 178, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2), <em>no</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 176, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 36, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 28, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 1), <em>all</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 158, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 112, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 37), <em>some</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 106, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 24, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 4), <em>any</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 96, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 9, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 8), <em>each</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 67, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 6), <em>what</em> (<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 279, <tt><a href="en_lines-pos-DET.html">DET</a></tt> 27)
 
-The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 5317, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 1), <em>a</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 2448, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 4, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 1), <em>this</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 183, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 107), <em>no</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 152, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 34, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 9, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 1), <em>that</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 537, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 452, <tt><a href="en_lines-pos-DET.html">DET</a></tt> 146, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2), <em>all</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 118, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 107, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 60), <em>some</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 99, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 18, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 3), <em>any</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 94, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 9, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 8), <em>these</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 61, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 5), <em>each</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 56, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 8)
+The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 5317, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 1), <em>a</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 2449, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 4), <em>this</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 183, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 107), <em>no</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 152, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 35, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 9), <em>all</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 147, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 101, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 37), <em>that</em> (<tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 537, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 452, <tt><a href="en_lines-pos-DET.html">DET</a></tt> 146, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2), <em>some</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 99, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 18, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 3), <em>any</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 94, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 9, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 8), <em>these</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 61, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 5), <em>each</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 58, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 6)
 
 
 * <em>the</em>
   * <tt><a href="en_lines-pos-DET.html">DET</a></tt> 5317: <em>The current Windows NT user must be an Administrator for <b>the</b> computer .</em>
   * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 1: <em>The sooner he got out of here , <b>the</b> better .</em>
 * <em>a</em>
-  * <tt><a href="en_lines-pos-DET.html">DET</a></tt> 2448: <em>The SQL Server database must be running on <b>a</b> Windows NT platform .</em>
+  * <tt><a href="en_lines-pos-DET.html">DET</a></tt> 2449: <em>The SQL Server database must be running on <b>a</b> Windows NT platform .</em>
   * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 4: <em>Stepping out , I feel <b>a</b> bit numb , like a wasp in autumn .</em>
-  * <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 1: <em>They have not all been met , but <b>a</b> great many have .</em>
 * <em>this</em>
   * <tt><a href="en_lines-pos-DET.html">DET</a></tt> 183: <em>Some of the hyperlinks in <b>this</b> topic go to the Web .</em>
   * <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 107: <em>I wish it was . But <b>this</b> has nothing to do with literature .</em>
 * <em>no</em>
   * <tt><a href="en_lines-pos-DET.html">DET</a></tt> 152: <em>Anyway , it 's <b>no</b> big deal . It 's just a book .</em>
-  * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 34: <em>Surely <b>no</b> more than a minute or two .</em>
+  * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 35: <em>Surely <b>no</b> more than a minute or two .</em>
   * <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 9: <em>But <b>no</b> , that did not seem possible .</em>
-  * <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 1: <em>The only product of any significance is canned tomatoes , but even they account for <b>no</b> more than 7 -% of the market .</em>
+* <em>all</em>
+  * <tt><a href="en_lines-pos-DET.html">DET</a></tt> 147: <em>I do n't understand it at <b>all</b> .</em>
+  * <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 101: <em>A mounted escort of some 30 men , <b>all</b> armed .</em>
+  * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 37: <em>He became very cool and collected <b>all</b> at once .</em>
 * <em>that</em>
   * <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 537: <em>Quinn realized <b>that</b> he was talking nonsense .</em>
   * <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 452: <em>Identifying filters <b>that</b> are currently in effect</em>
   * <tt><a href="en_lines-pos-DET.html">DET</a></tt> 146: <em>The swift and indifferent placidity of <b>that</b> look troubled me .</em>
   * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 2: <em>I wonder if I 'll get <b>that</b> far .</em>
-* <em>all</em>
-  * <tt><a href="en_lines-pos-DET.html">DET</a></tt> 118: <em>But <b>all</b> these things are in some way external .</em>
-  * <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 107: <em>A mounted escort of some 30 men , <b>all</b> armed .</em>
-  * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 60: <em>I do n't understand it at <b>all</b> .</em>
 * <em>some</em>
   * <tt><a href="en_lines-pos-DET.html">DET</a></tt> 99: <em>Buy yourself <b>some</b> more books . Or a few toys for your kid .</em>
   * <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 18: <em>And this was the place where <b>some</b> of the helpers had withdrawn to die .</em>
@@ -54,12 +52,12 @@ The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="en_lines-pos-D
   * <tt><a href="en_lines-pos-DET.html">DET</a></tt> 61: <em>But all <b>these</b> things are in some way external .</em>
   * <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 5: <em>However , I was n't going into any of <b>these</b> .</em>
 * <em>each</em>
-  * <tt><a href="en_lines-pos-DET.html">DET</a></tt> 56: <em>Conditional filters are independent of <b>each</b> other .</em>
-  * <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 8: <em>Then I asked <b>each</b> of them to tell me something they had noticed on their way here .</em>
+  * <tt><a href="en_lines-pos-DET.html">DET</a></tt> 58: <em>Conditional filters are independent of <b>each</b> other .</em>
+  * <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 6: <em>Then I asked <b>each</b> of them to tell me something they had noticed on their way here .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.130435 (the average of all parts of speech is 1.236954).
+The form / lemma ratio of `DET` is 1.136364 (the average of all parts of speech is 1.236968).
 
 The 1st highest number of forms (2) was observed with the lemma “a”: <em>a, an</em>.
 
@@ -67,24 +65,24 @@ The 2nd highest number of forms (2) was observed with the lemma “that”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “the”: <em>Tha, the</em>.
 
-`DET` occurs with 5 features: <tt><a href="en_lines-feat-PronType.html">PronType</a></tt> (9844; 99% instances), <tt><a href="en_lines-feat-Definite.html">Definite</a></tt> (8767; 88% instances), <tt><a href="en_lines-feat-Number.html">Number</a></tt> (472; 5% instances), <tt><a href="en_lines-feat-ExtPos.html">ExtPos</a></tt> (23; 0% instances), <tt><a href="en_lines-feat-Poss.html">Poss</a></tt> (1; 0% instances)
+`DET` occurs with 7 features: <tt><a href="en_lines-feat-PronType.html">PronType</a></tt> (9946; 100% instances), <tt><a href="en_lines-feat-Definite.html">Definite</a></tt> (8770; 88% instances), <tt><a href="en_lines-feat-Number.html">Number</a></tt> (630; 6% instances), <tt><a href="en_lines-feat-ExtPos.html">ExtPos</a></tt> (26; 0% instances), <tt><a href="en_lines-feat-Foreign.html">Foreign</a></tt> (2; 0% instances), <tt><a href="en_lines-feat-Gender.html">Gender</a></tt> (2; 0% instances), <tt><a href="en_lines-feat-Poss.html">Poss</a></tt> (1; 0% instances)
 
-`DET` occurs with 14 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=PRON`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rcp`, `PronType=Rel`, `PronType=Tot`
+`DET` occurs with 17 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=ADV`, `ExtPos=PRON`, `Foreign=Yes`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rcp`, `PronType=Rel`, `PronType=Tot`
 
-`DET` occurs with 14 feature combinations.
+`DET` occurs with 20 feature combinations.
 The most frequent feature combination is `Definite=Def|PronType=Art` (5845 tokens).
 Examples: <em>the, Le</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 10 different relations: <tt><a href="en_lines-dep-det.html">det</a></tt> (9868; 99% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (19; 0% instances), <tt><a href="en_lines-dep-obl.html">obl</a></tt> (13; 0% instances), <tt><a href="en_lines-dep-obj.html">obj</a></tt> (9; 0% instances), <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (4; 0% instances), <tt><a href="en_lines-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="en_lines-dep-nmod-poss.html">nmod:poss</a></tt> (2; 0% instances), <tt><a href="en_lines-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="en_lines-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 10 different relations: <tt><a href="en_lines-dep-det.html">det</a></tt> (9873; 99% instances), <tt><a href="en_lines-dep-obl.html">obl</a></tt> (31; 0% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (16; 0% instances), <tt><a href="en_lines-dep-nmod.html">nmod</a></tt> (11; 0% instances), <tt><a href="en_lines-dep-obj.html">obj</a></tt> (9; 0% instances), <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (4; 0% instances), <tt><a href="en_lines-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="en_lines-dep-nmod-poss.html">nmod:poss</a></tt> (2; 0% instances), <tt><a href="en_lines-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="en_lines-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (9302; 94% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (191; 2% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (182; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (111; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (81; 1% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (17; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 12 different parts of speech: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (9314; 94% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (200; 2% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (182; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (106; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> (94; 1% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (20; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-9863 (99%) `DET` nodes are leaves.
+9864 (99%) `DET` nodes are leaves.
 
-38 (0%) `DET` nodes have one child.
+68 (1%) `DET` nodes have one child.
 
 18 (0%) `DET` nodes have two children.
 
@@ -92,7 +90,7 @@ Parents of `DET` nodes belong to 11 different parts of speech: <tt><a href="en_l
 
 The highest child degree of a `DET` node is 3.
 
-Children of `DET` nodes are attached using 9 different relations: <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (29; 36% instances), <tt><a href="en_lines-dep-case.html">case</a></tt> (17; 21% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (14; 18% instances), <tt><a href="en_lines-dep-det.html">det</a></tt> (9; 11% instances), <tt><a href="en_lines-dep-punct.html">punct</a></tt> (6; 8% instances), <tt><a href="en_lines-dep-flat.html">flat</a></tt> (2; 3% instances), <tt><a href="en_lines-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="en_lines-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="en_lines-dep-nmod.html">nmod</a></tt> (1; 1% instances)
+Children of `DET` nodes are attached using 9 different relations: <tt><a href="en_lines-dep-case.html">case</a></tt> (45; 41% instances), <tt><a href="en_lines-dep-fixed.html">fixed</a></tt> (30; 27% instances), <tt><a href="en_lines-dep-advmod.html">advmod</a></tt> (14; 13% instances), <tt><a href="en_lines-dep-det.html">det</a></tt> (9; 8% instances), <tt><a href="en_lines-dep-punct.html">punct</a></tt> (6; 5% instances), <tt><a href="en_lines-dep-flat.html">flat</a></tt> (2; 2% instances), <tt><a href="en_lines-dep-nmod.html">nmod</a></tt> (2; 2% instances), <tt><a href="en_lines-dep-cc.html">cc</a></tt> (1; 1% instances), <tt><a href="en_lines-dep-conj.html">conj</a></tt> (1; 1% instances)
 
-Children of `DET` nodes belong to 9 different parts of speech: <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (24; 30% instances), <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (17; 21% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (14; 18% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (9; 11% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (6; 8% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (4; 5% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
+Children of `DET` nodes belong to 9 different parts of speech: <tt><a href="en_lines-pos-ADP.html">ADP</a></tt> (45; 41% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (24; 22% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (14; 13% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt> (9; 8% instances), <tt><a href="en_lines-pos-PUNCT.html">PUNCT</a></tt> (6; 5% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (5; 5% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt> (4; 4% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
 

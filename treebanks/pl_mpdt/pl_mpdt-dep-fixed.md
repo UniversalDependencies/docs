@@ -81,7 +81,7 @@ The following 36 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	prostości	prostość	NOUN	subst:sg:loc:f	Case=Loc|Gender=Fem|Number=Sing	4	obl	4:obl	Translit=prostośći
 7	swej	swój	DET	adj:sg:loc:f:pos	Case=Loc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	6	det:poss	6:det:poss	SpaceAfter=No|Translit=swéy
 8	:	:	PUNCT	interp	PunctType=Colo	9	punct	9:punct	Translit=:
-9	a	a	CCONJ	conj	ExtPos=CCONJ	1	obl:cmpr	1:obl:cmpr	Translit=á
+9	a	a	CCONJ	conj	ExtPos=CCONJ	1	obl:cmp	1:obl:cmp	Translit=á
 10	niżli	niżli	CCONJ	conj	_	9	fixed	9:fixed	Translit=niżli
 11	bogaty	bogaty	NOUN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	9	dep	9:dep	Translit=bogáty
 12	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	13	case	13:case	Case=Loc|Translit=w

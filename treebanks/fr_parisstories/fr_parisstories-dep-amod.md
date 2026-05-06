@@ -24,16 +24,16 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 10 9 amod	color:blue
 1	et	et	CCONJ	_	_	6	cc	_	_
 2	de	de	ADP	_	_	4	case	_	_
-3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	coup	coup	NOUN	_	_	6	discourse	_	Gender[lex]=Masc|Number[ctxt]=Sing
-5	tu	toi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	_
-6	finis	finir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	HasSpokenGender=OnlySingExceptWithLiaison
+4	coup	coup	NOUN	_	Gender=Masc|Number=Sing	6	discourse	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
+5	tu	toi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent
+6	finis	finir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	Exponence[Person]=Absent
 7	avec	avec	ADP	_	_	10	case	_	_
 8	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-9	vraie	vrai	ADJ	_	_	10	amod	_	Gender[ctxt]=Fem|Number[ctxt]=Sing
-10	boule	boule	NOUN	_	_	6	obl:mod	_	Gender[lex]=Fem|Number[ctxt]=Sing
+9	vraie	vrai	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|HasSpokenGender=NotInThisDialect|HasSpokenNumber=OnlyWithLiaison
+10	boule	boule	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 11	de	de	ADP	_	_	12	case	_	_
-12	pâte	pâte	NOUN	_	_	10	nmod	_	Gender[lex]=Fem|Number[ctxt]=Sing|SpaceAfter=No
+12	pâte	pâte	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 13	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
@@ -47,16 +47,16 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 12 11 amod	color:blue
 1	et	et	CCONJ	_	_	4	cc	_	_
 2	là	là	ADV	_	_	4	advmod	_	_
-3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	_
+3	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	nsubj	_	Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
 4	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	être	être	AUX	_	VerbForm=Inf	7	cop	_	Subject=SubjRaising
-6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	galère	galère	NOUN	_	_	4	xcomp	_	Gender[lex]=Fem|Number[ctxt]=Sing
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	HasSpokenGender=OnlySingExceptWithLiaison
+7	galère	galère	NOUN	_	Gender=Fem|Number=Sing	4	xcomp	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 8	pour	pour	ADP	_	_	9	mark	_	_
 9	mélanger	mélanger	VERB	_	VerbForm=Inf	7	acl	_	Subject=NoRaising
 10	et	et	CCONJ	_	_	12	cc	_	_
-11	tout	tout	ADJ	_	Gender=Masc	12	amod	_	Number[ctxt]=Sing
-12	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	conj	_	SpaceAfter=No
+11	tout	tout	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	Exponence[Number]=Absent|HasSpokenGender=YesExceptSingWithLiaison|HasSpokenNumber=OnlyWithLiaison
+12	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	conj	_	Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -69,16 +69,16 @@ The following 9 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 2 amod	color:blue
 1	et	et	CCONJ	_	_	10	cc	_	AlignBegin=81083|AlignEnd=81312
-2	petit	petit	ADJ	_	Gender=Masc	4	amod	_	AlignBegin=81312|AlignEnd=81540|Number[ctxt]=Sing
+2	petit	petit	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	AlignBegin=81312|AlignEnd=81540|Exponence[Number]=Absent|HasSpokenGender=YesExceptSingWithLiaison|HasSpokenNumber=OnlyWithLiaison
 3	à	à	ADP	_	_	4	case	_	AlignBegin=81540|AlignEnd=81540
-4	petit	petit	ADJ	_	Gender=Masc	10	obl:mod	_	AlignBegin=81540|AlignEnd=81769|Number[ctxt]=Sing|SpaceAfter=No
+4	petit	petit	ADJ	_	Gender=Masc|Number=Sing	10	obl:mod	_	AlignBegin=81540|AlignEnd=81769|Exponence[Number]=Absent|HasSpokenGender=YesExceptSingWithLiaison|HasSpokenNumber=OnlyWithLiaison|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	AlignBegin=81769|AlignEnd=81769
 6	bah	bah	INTJ	_	_	4	discourse	_	AlignBegin=81769|AlignEnd=81998|SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	AlignBegin=81998|AlignEnd=81998
-8	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj:pass	_	AlignBegin=81998|AlignEnd=82227
+8	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj:pass	_	AlignBegin=81998|AlignEnd=82227|Exponence[Gender]=Absent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
 9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	AlignBegin=82227|AlignEnd=82455
-10	devenue	devenir	VERB	_	VerbForm=Part	0	root	_	AlignBegin=82455|AlignEnd=82684|Gender[ctxt]=Fem|Number[ctxt]=Sing|Tense[denom]=Past
-11	amie	ami	NOUN	_	_	10	xcomp	_	AlignBegin=82684|AlignEnd=82913|Gender[lex]=Fem|Number[ctxt]=Sing|SpaceAfter=No
+10	devenue	devenir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	AlignBegin=82455|AlignEnd=82684|Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Tense[denom]=Past
+11	amie	ami	NOUN	_	Gender=Fem|Number=Sing	10	xcomp	_	AlignBegin=82684|AlignEnd=82913|Exponence[Gender]=Inherent|Exponence[Number]=Absent|LiaisonPossibleBefore=Yes|SpaceAfter=No
 12	.	.	PUNCT	_	_	10	punct	_	AlignBegin=82913|AlignEnd=82913
 
 ~~~

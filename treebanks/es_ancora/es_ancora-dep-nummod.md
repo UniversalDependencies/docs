@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6005 nodes (1%) are attached to their parents as `nummod`.
+6007 nodes (1%) are attached to their parents as `nummod`.
 
-5239 instances of `nummod` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28376353039134.
+5241 instances of `nummod` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28350258032296.
 
-The following 11 pairs of parts of speech are connected with `nummod`: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (5154; 86% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (355; 6% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (204; 3% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (167; 3% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (73; 1% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (24; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (5157; 86% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (355; 6% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (204; 3% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (167; 3% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (73; 1% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (24; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (15; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (5; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 11 pairs of parts of speech are connected with `nummod`: <tt><a hr
 2	Mngani	Mngani	PROPN	_	_	1	flat	1:flat	Entity=NOCOREF:Spec.person)
 3	tenía	tener	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	0:root	_
 4	29	29	NUM	_	NumForm=Digit|NumType=Card	5	nummod	5:nummod	_
-5	años	año	NOUN	ncmp000	Gender=Masc|Number=Plur	3	obj	3:obj	SpaceAfter=No|ArgTem=arg2:atr
+5	años	año	NOUN	ncmp000	Gender=Masc|Number=Plur	3	obj	3:obj	ArgTem=arg2:atr|SpaceAfter=No
 6	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
 
 ~~~
@@ -50,7 +50,7 @@ The following 11 pairs of parts of speech are connected with `nummod`: <tt><a hr
 10	menos	menos	ADV	_	Degree=Cmp	8	fixed	8:fixed	_
 11	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	13:det	Entity=(NOCOREF:Spec.number-number-2-gstype:spec
 12	80	80	NUM	_	NumForm=Digit|NumType=Card	13	nummod	13:nummod	SpaceAfter=No
-13	%	%	SYM	zp	_	3	ccomp	3:ccomp	SpaceAfter=No|ArgTem=arg2:atr|Entity=NOCOREF:Spec.number)
+13	%	%	SYM	zp	_	3	ccomp	3:ccomp	ArgTem=arg2:atr|Entity=NOCOREF:Spec.number)|SpaceAfter=No
 14	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
 
 ~~~
@@ -65,7 +65,7 @@ The following 11 pairs of parts of speech are connected with `nummod`: <tt><a hr
 1	Helio	Helio	PROPN	np0000p	_	0	root	0:root	Entity=(NOCOREF:Spec.person-person-1-gstype:spec(CESSCASTA2000061814736c16-person-1-CorefType:ident,gstype:spec|MWE=Helio_Castro_Neves|MWEPOS=PROPN
 2	Castro	Castro	PROPN	_	_	1	flat	1:flat	_
 3	Neves	Neves	PROPN	_	_	1	flat	1:flat	Entity=CESSCASTA2000061814736c16)
-4	(	(	PUNCT	fpa	PunctSide=Ini|PunctType=Brck	5	punct	5:punct	SpaceAfter=No|Entity=(CESSCASTA2000061814736c1-organization-2-CorefType:ident,gstype:spec
+4	(	(	PUNCT	fpa	PunctSide=Ini|PunctType=Brck	5	punct	5:punct	Entity=(CESSCASTA2000061814736c1-organization-2-CorefType:ident,gstype:spec|SpaceAfter=No
 5	Reynard/Honda	Reynard/Honda	PROPN	np0000o	_	1	flat	1:flat	SpaceAfter=No
 6	)	)	PUNCT	fpt	PunctSide=Fin|PunctType=Brck	5	punct	5:punct	Entity=CESSCASTA2000061814736c1)NOCOREF:Spec.person)
 7	2	2	NUM	_	NumForm=Digit|NumType=Card	1	nummod	1:nummod	SpaceAfter=No

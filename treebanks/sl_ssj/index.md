@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek.
 
 Repository: [UD_Slovenian-SSJ](https://github.com/UniversalDependencies/UD_Slovenian-SSJ)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -60,19 +60,16 @@ The *issues* section of this repository serves as a platform for general discuss
 
 We wish to thank all of the contributors to the original ssj500k training corpus (Kristina Bizjak, Živa Blaževič, Klara Canzutti, Lea Cibrič, Kaja Dobrovoljc, Tadeja Dušej, Tomaž Erjavec, Ivana Fekeža, Nanika Holz, Urška Kamenšek, Simon Krek, Andreja Košir, Robert Kuret, Nina Ledinek, Andrej Lovšin, Boštjan Marhold, Nina Mikulin, Barbara Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona Šinkovec, Urška Vranjek, Jerneja Umer, Petra Žalodec), and the annotators within the Development of Slovene in the Digital Environment project (Tina Munda, Ina Poteko, Rebeka Roblek, Luka Terčon and Karolina Zgaga).
 
-## Key references
+This work was financially supported by Slovenian Research and Innovation Agency (Grants no. Z6-4617, P6-0411, Young Researcher Programme 2013, 2022), Ministry of Culture & the European Regional Development Fund, as well as the COST Actions PARSEME and UniDive.
+
+## Key reference
 
 * Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek. 2017. The Universal Dependencies Treebank for Slovenian. In: Proceeding of the 6th Workshop on Balto-Slavic Natural Language Processing (BSNLP 2017), 33–38. Valencia, 2017.
 
-* Kaja Dobrovoljc, Nikola Ljubešić. 2022. Extending the SSJ Universal Dependencies Treebank for Slovenian: Was it Worth it?. In: Proceedings of the 16th Linguistic Annotation Workshop (LAW-XVI), LREC 2022, 15–22. Marseille, 2022.
 
 ## Other
 
-* Tomaž Erjavec, Darja Fišer, Simon Krek and Nina Ledinek. 2010. The JOS Linguistically Tagged Corpus of Slovene. In: Proceedings of the Seventh International Conference on Language Resources and Evaluation (LREC'10). Malta, 2010.
-
-* Simon Krek et al. 2021. Training corpus ssj500k 2.3, Slovenian language resource repository CLARIN.SI, ISSN 2820-4042, http://hdl.handle.net/11356/1434.
-
-* Federico Martelli et al. 2022. Parallel sense-annotated corpus ELEXIS-WSD 1.0, Slovenian language resource repository CLARIN.SI, ISSN 2820-4042, http://hdl.handle.net/11356/1674.
+* Kaja Dobrovoljc, Nikola Ljubešić. 2022. Extending the SSJ Universal Dependencies Treebank for Slovenian: Was it Worth it?. In: Proceedings of the 16th Linguistic Annotation Workshop (LAW-XVI), LREC 2022, 15–22. Marseille, 2022.
 
 
 

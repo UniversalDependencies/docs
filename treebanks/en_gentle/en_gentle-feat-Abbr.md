@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (43; 100% of non-empty `Abbr`): <em>HTML, J., Dr., US, U.S., CBC, Inc., Mr., Prof., U.S.C.</em>
-* `EMPTY` (859): <em>Company, JavaScript, Book, Proposition, Court, English, Week, Career, React, Agreement</em>
+* `EMPTY` (871): <em>Company, JavaScript, Book, English, Proposition, Court, Week, Career, React, Agreement</em>
 
 `Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (16) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (42; 100% of non-empty `Abbr`): <em>mg, Pp., p., DH, etc., kg, CV, No., TEMP, TV</em>
-* `EMPTY` (3740): <em>x, week, T, project, S, school, y, time, party, trust</em>
+* `EMPTY` (3733): <em>x, week, T, project, S, school, y, time, party, trust</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `Abbr`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (3; 100% of non-empty `Abbr`): <em>e.g.</em>
-* `EMPTY` (726): <em>then, just, so, here, also, thus, well, how, where, now</em>
+* `EMPTY` (733): <em>then, just, so, here, also, thus, well, how, where, now</em>
 
 ### `ADJ`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>U.S.</em>
-* `EMPTY` (1239): <em>next, other, first, old, open, more, straight, chronic, right, third</em>
+* `EMPTY` (1227): <em>next, other, first, old, open, more, straight, chronic, right, third</em>
 
 ### `X`
 

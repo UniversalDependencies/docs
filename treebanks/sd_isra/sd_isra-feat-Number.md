@@ -11,34 +11,34 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sd_isra-feat-Number.html">Number</a></tt>, <tt><a href="sd_isra-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="sd_isra-feat-Number-subj.html">Number[subj]</a></tt>.
 
-55026 tokens (58%) have a non-empty value of `Number`.
-7884 types (81%) occur at least once with a non-empty value of `Number`.
-3945 lemmas (77%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (25821; 27% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (7841; 8% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (5506; 6% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (4732; 5% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt> (4347; 5% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (4049; 4% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (2169; 2% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (475; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (78; 0% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (8; 0% instances).
+54980 tokens (58%) have a non-empty value of `Number`.
+7879 types (81%) occur at least once with a non-empty value of `Number`.
+3942 lemmas (77%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (25822; 27% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (7831; 8% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (5554; 6% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (4732; 5% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt> (4503; 5% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (4048; 4% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1923; 2% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (482; 1% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (77; 0% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (8; 0% instances).
 
 ### `NOUN`
 
-25821 <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+25822 <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Nom</tt> (16306; 63%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16115; 62%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Nom</tt> (16309; 63%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16112; 62%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (4333; 17% of non-empty `Number`): <em>ماڻهن, ماڻهو, ٻارن, سالن, سيڪڙو, ادارن, دهشتگردن, علائقن, قيدين, ملڪن</em>
-* `Sing` (21488; 83% of non-empty `Number`): <em>شينهن, وقت, ملڪ, گدڙ, ڳالهه, ڏينهن, پاڻي, حڪومت, وزير, گهر</em>
+* `Sing` (21489; 83% of non-empty `Number`): <em>شينهن, وقت, ملڪ, گدڙ, ڳالهه, ڏينهن, پاڻي, حڪومت, وزير, گهر</em>
 * `EMPTY` (258): <em>پارليامينٽ, شامل, قرار, اتي, بعد, حاصل, مقرري, ادا, مترجم, هتان</em>
 
 ### `VERB`
 
-7841 <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Number`.
+7831 <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> tokens (60% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sd_isra-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7805; 100%), <tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5839; 74%), <tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (4402; 56%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sd_isra-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (7795; 100%), <tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5832; 74%), <tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (4397; 56%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (1795; 23% of non-empty `Number`): <em>ويا, پيا, رهيا, ڪيا, ڪن, وڃن, ڪيون, ويندا, ويون, ڪندا</em>
-* `Sing` (6046; 77% of non-empty `Number`): <em>ويو, ڪيو, چيو, ڪئي, وڃي, ڏنو, ڇڏيو, آيو, لڳو, پيو</em>
-* `EMPTY` (5252): <em>ڪري, ڪرڻ, چيو, اچي, کڻي, وٺي, ٿيڻ, ڏسي, ڏيڻ, ٻڌي</em>
+* `Plur` (1794; 23% of non-empty `Number`): <em>ويا, پيا, رهيا, ڪيا, ڪن, وڃن, ڪيون, ويندا, ويون, ڪندا</em>
+* `Sing` (6037; 77% of non-empty `Number`): <em>ويو, ڪيو, چيو, ڪئي, وڃي, ڏنو, ڇڏيو, آيو, لڳو, پيو</em>
+* `EMPTY` (5240): <em>ڪري, ڪرڻ, چيو, اچي, کڻي, وٺي, ٿيڻ, ڏسي, ڏيڻ, ٻڌي</em>
 
 <table>
   <tr><th>Paradigm <i>ڪر</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -71,15 +71,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADP`
 
-5506 <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> tokens (38% of all `ADP` tokens) have a non-empty value of `Number`.
+5554 <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> tokens (39% of all `ADP` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3411; 62%), <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2787; 51%).
+The most frequent other feature values with which `ADP` and `Number` co-occurred: <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3448; 62%), <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2818; 51%).
 
 `ADP` tokens may have the following values of `Number`:
 
-* `Plur` (586; 11% of non-empty `Number`): <em>جا, جون, وارا, کين, وارن, واريون, وارين, جي, جهڙيون, ساڻن</em>
-* `Sing` (4920; 89% of non-empty `Number`): <em>جي, جو, واري, وارو, کيس, کي, سان, وارن, جا, کان</em>
-* `EMPTY` (8799): <em>۾, کي, تي, سان, کان, لاءِ, مان, تائين, پوءِ, وٽ</em>
+* `Plur` (595; 11% of non-empty `Number`): <em>جا, جون, وارا, کين, وارن, واريون, وارين, جهڙا, جي, جهڙن</em>
+* `Sing` (4959; 89% of non-empty `Number`): <em>جي, جو, واري, وارو, کيس, جهڙي, کي, سان, جهڙو, وارن</em>
+* `EMPTY` (8800): <em>۾, کي, تي, سان, کان, لاءِ, مان, تائين, پوءِ, وٽ</em>
 
 <table>
   <tr><th>Paradigm <i>جي</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -176,39 +176,35 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `DET`
 
-4347 <tt><a href="sd_isra-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+4503 <tt><a href="sd_isra-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sd_isra-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (4347; 100%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3631; 84%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3186; 73%), <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2729; 63%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sd_isra-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (4503; 100%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3798; 84%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3261; 72%), <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2740; 61%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (810; 19% of non-empty `Number`): <em>اسان, انهن, اهي, هنن, ڪي, جيڪي, ڪن, ڪهڙا, جن, اُهي</em>
-* `Sing` (3537; 81% of non-empty `Number`): <em>هن, ان, اهو, جنهن, ڪنهن, هو, انهيءَ, اها, هر, ڪو</em>
-* `EMPTY` (52): <em>هن, اهو, هر, ڪنهن, اهڙو, هي, ڪو, ان, اهڙي, جو</em>
+* `Plur` (917; 20% of non-empty `Number`): <em>اسان, انهن, اهي, جيڪي, هنن, ڪي, ڪن, اُهي, ڪهڙا, جن</em>
+* `Sing` (3586; 80% of non-empty `Number`): <em>هن, ان, اهو, جنهن, ڪنهن, هو, انهيءَ, اها, هر, ڪو</em>
+* `EMPTY` (51): <em>هن, اهو, هر, ڪنهن, اهڙو, هي, ڪو, اهڙي, جو, نه</em>
 
 <table>
   <tr><th>Paradigm <i>ان</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ان</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>ان</em></td><td><em>انهن</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ان</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>انهيءَ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ان, انهي, انهيءَ</em></td><td><em>انهن</em></td></tr>
+  <tr><td><tt><tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>انهيءَ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>ان, انهيءَ, انهي, انهيءِ, انھي</em></td><td><em>انهن, انھن</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>ان</em></td><td></td></tr>
-  <tr><td><tt></tt></td><td><em>ان</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>انهيءُ</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
-4049 <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> tokens (66% of all `ADJ` tokens) have a non-empty value of `Number`.
+4048 <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> tokens (66% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3237; 80%), <tt><a href="sd_isra-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2653; 66%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3235; 80%), <tt><a href="sd_isra-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2652; 66%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (736; 18% of non-empty `Number`): <em>ٻين, سڀ, ٻنهي, ڪيترائي, ٻئي, ڪيترن, ٻيا, سمورن, نوان, وڏا</em>
-* `Sing` (3313; 82% of non-empty `Number`): <em>هڪڙي, وڏي, ٻئي, هڪڙو, نئين, سڄي, ڏاڍي, ڏاڍو, وڏو, اهڙي</em>
-* `EMPTY` (2069): <em>وڌيڪ, ڪجهه, خوش, مختلف, ختم, سڀني, صرف, سخت, موجود, قومي</em>
+* `Plur` (738; 18% of non-empty `Number`): <em>ٻين, سڀ, ٻنهي, ڪيترائي, ٻئي, ڪيترن, ٻيا, سمورن, نوان, وڏا</em>
+* `Sing` (3310; 82% of non-empty `Number`): <em>هڪڙي, وڏي, ٻئي, هڪڙو, نئين, سڄي, ڏاڍي, ڏاڍو, وڏو, اهڙي</em>
+* `EMPTY` (2072): <em>وڌيڪ, ڪجهه, خوش, مختلف, ختم, سڀني, صرف, سخت, موجود, قومي</em>
 
 <table>
   <tr><th>Paradigm <i>ٻہ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -227,15 +223,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PRON`
 
-2169 <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> tokens (85% of all `PRON` tokens) have a non-empty value of `Number`.
+1923 <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=1</tt> (1173; 54%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1151; 53%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sd_isra-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1836; 95%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=1</tt> (1168; 61%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (996; 52%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (562; 26% of non-empty `Number`): <em>اوهان, جن, جيڪي, سندن, توهان, پنهنجا, پنهنجن, اسين, انهن, منهنجا</em>
-* `Sing` (1607; 74% of non-empty `Number`): <em>پنهنجي, مون, تون, آءٌ, منهنجي, سندس, پنهنجو, سو, توکي, مان</em>
-* `EMPTY` (376): <em>پاڻ, ڇا, ائين, ڇو, ڪيئن, ڄڻ, خود, اوهان, هتي, آئون</em>
+* `Plur` (451; 23% of non-empty `Number`): <em>اوهان, جن, سندن, توهان, پنهنجا, پنهنجن, اسين, منهنجا, اوهين, تن</em>
+* `Sing` (1472; 77% of non-empty `Number`): <em>پنهنجي, مون, تون, آءٌ, منهنجي, سندس, پنهنجو, سو, توکي, مان</em>
+* `EMPTY` (418): <em>ڇا, پاڻ, ائين, ڇو, ڪير, ڪيئن, خود, اوهان, هتي, ڄڻ</em>
 
 <table>
   <tr><th>Paradigm <i>پاڻ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -248,26 +244,26 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `PROPN`
 
-475 <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> tokens (11% of all `PROPN` tokens) have a non-empty value of `Number`.
+482 <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> tokens (11% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Nom</tt> (362; 76%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (352; 74%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Nom</tt> (368; 76%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (359; 74%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Sing` (475; 100% of non-empty `Number`): <em>ماليڪٽ, آباد, ڪابيرو, ڪمپا, شريف, سوتون, ڪي, پيپلز, ايم, پارٽي</em>
+* `Sing` (482; 100% of non-empty `Number`): <em>ماليڪٽ, آباد, ڪابيرو, ڪمپا, شريف, سوتون, ڪي, پيپلز, ايم, پارٽي</em>
 * `EMPTY` (3815): <em>سنڌ, پاڪستان, علي, ڪراچي, پ, محمد, آمريڪا, اسلام, الله, نواز</em>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (77) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (78) occur only with one value of `Number`.
 
 ### `ADV`
 
-78 <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Number`.
+77 <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Number`.
 
 `ADV` tokens may have the following values of `Number`:
 
 * `Plur` (5; 6% of non-empty `Number`): <em>مٿن, هـُـنهين, ايتريتائين, هيٺين</em>
-* `Sing` (73; 94% of non-empty `Number`): <em>جڏهن, اڄ, تيئن, جيئن, آهستي, ايئن, جهٽ, هڪدم, پرتي, ڀلي</em>
-* `EMPTY` (3040): <em>جڏهن, وري, اتي, هاڻي, پوءِ, اڄ, جاري, جيئن, ڏانهن, تمام</em>
+* `Sing` (72; 94% of non-empty `Number`): <em>جڏهن, اڄ, تيئن, جيئن, آهستي, ايئن, جهٽ, هڪدم, پرتي, ڀلي</em>
+* `EMPTY` (3075): <em>جڏهن, وري, اتي, هاڻي, پوءِ, اڄ, جاري, جيئن, ڏانهن, تمام</em>
 
 <table>
   <tr><th>Paradigm <i>مٿي</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -275,7 +271,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt></tt></td><td><em>مٿس</em></td><td><em>مٿن</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `ADV`. 94% lemmas (34) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADV`. 94% lemmas (33) occur only with one value of `Number`.
 
 ### `NUM`
 
@@ -290,14 +286,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="sd_isra-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4692; 75%),
+<tt>NOUN --[<tt><a href="sd_isra-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (4720; 75%),
 <tt>NOUN --[<tt><a href="sd_isra-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2447; 61%),
-<tt>VERB --[<tt><a href="sd_isra-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1820; 59%),
-<tt>VERB --[<tt><a href="sd_isra-dep-aux.html">aux</a></tt>]--> AUX</tt> (1802; 67%),
-<tt>NOUN --[<tt><a href="sd_isra-dep-det.html">det</a></tt>]--> DET</tt> (1559; 95%),
-<tt>NOUN --[<tt><a href="sd_isra-dep-conj.html">conj</a></tt>]--> NOUN</tt> (977; 83%),
-<tt>NOUN --[<tt><a href="sd_isra-dep-cop.html">cop</a></tt>]--> AUX</tt> (934; 85%),
-<tt>NOUN --[<tt><a href="sd_isra-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (759; 80%),
-<tt>VERB --[<tt><a href="sd_isra-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (475; 58%),
-<tt>NOUN --[<tt><a href="sd_isra-dep-nmod.html">nmod</a></tt>]--> DET</tt> (414; 71%).
+<tt>VERB --[<tt><a href="sd_isra-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1816; 59%),
+<tt>VERB --[<tt><a href="sd_isra-dep-aux.html">aux</a></tt>]--> AUX</tt> (1801; 67%),
+<tt>NOUN --[<tt><a href="sd_isra-dep-det.html">det</a></tt>]--> DET</tt> (1585; 95%),
+<tt>NOUN --[<tt><a href="sd_isra-dep-conj.html">conj</a></tt>]--> NOUN</tt> (982; 83%),
+<tt>NOUN --[<tt><a href="sd_isra-dep-cop.html">cop</a></tt>]--> AUX</tt> (941; 85%),
+<tt>NOUN --[<tt><a href="sd_isra-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (716; 80%),
+<tt>VERB --[<tt><a href="sd_isra-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (517; 58%),
+<tt>NOUN --[<tt><a href="sd_isra-dep-nmod.html">nmod</a></tt>]--> DET</tt> (416; 70%).
 

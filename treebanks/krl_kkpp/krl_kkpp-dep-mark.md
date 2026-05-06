@@ -24,7 +24,7 @@ The following 8 pairs of parts of speech are connected with `mark`: <tt><a href=
 # visual-style 8 6 mark	color:blue
 1	–	–	PUNCT	PUNCT	_	2	punct	_	_
 2	Ottakkua	ottoa	VERB	VERB	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	0	root	_	_
-3	puukko	puukko	NOUN	NOUN	Case=Nom|Number=Sing	8	obj	_	_
+3	puukko	puukko	NOUN	NOUN	Case=Nom|Number=Sing	2	obj	_	_
 4	varalta	varalta	ADV	ADV	_	2	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	8	punct	_	_
 6	jošpa	jošpa	SCONJ	SCONJ	_	8	mark	_	_

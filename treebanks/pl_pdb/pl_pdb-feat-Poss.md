@@ -29,6 +29,6 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Poss`:
 <tt>DET --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> DET</tt> (3; 75%),
-<tt>DET --[<tt><a href="pl_pdb-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (1; 100%),
-<tt>DET --[<tt><a href="pl_pdb-dep-obl-cmpr.html">obl:cmpr</a></tt>]--> DET</tt> (1; 100%).
+<tt>DET --[<tt><a href="pl_pdb-dep-acl-cmp.html">acl:cmp</a></tt>]--> DET</tt> (1; 100%),
+<tt>DET --[<tt><a href="pl_pdb-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (1; 100%).
 

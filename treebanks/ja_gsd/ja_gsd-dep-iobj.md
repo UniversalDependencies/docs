@@ -11,7 +11,7 @@ This relation is universal.
 18 nodes (0%) are attached to their parents as `iobj`.
 
 18 instances of `iobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.16666666666667.
+Average distance between parent and child is 4.44444444444444.
 
 The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="ja_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (15; 83% instances), <tt><a href="ja_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="ja_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsd-pos-PRON.html">PRON</a></tt> (1; 6% instances).
 
@@ -25,9 +25,9 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	同僚	同僚	NOUN	名詞-普通名詞-一般	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=ドウリョウ,同僚,同僚,同僚,ドーリョー,,,ドウリョウ,ドウリョウキョウシ,同僚教師
 2	教師	教師	NOUN	名詞-普通名詞-一般	_	4	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=キョウシ,教師,教師,教師,キョーシ,,,キョウシ,ドウリョウキョウシ,同僚教師
 3	の	の	ADP	助詞-格助詞	_	2	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=ノ,の,の,の,ノ,,,ノ,ノ,の
-4	すみれ	すみれ	PROPN	名詞-固有名詞-人名-名	_	6	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-固有名詞-人名-名|SpaceAfter=No|UnidicInfo=スミレ,スミレ,すみれ,すみれ,スミレ,,,スミレ,スミレ,すみれ
+4	すみれ	すみれ	PROPN	名詞-固有名詞-人名-名	_	12	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-固有名詞-人名-名|SpaceAfter=No|UnidicInfo=スミレ,スミレ,すみれ,すみれ,スミレ,,,スミレ,スミレ,すみれ
 5	と	と	ADP	助詞-格助詞	_	4	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
-6	彩	彩	PROPN	名詞-固有名詞-人名-名	_	12	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-固有名詞-人名-名|SpaceAfter=No|UnidicInfo=アヤ,アヤ,彩,彩,アヤ,,,アヤ,アヤ,彩
+6	彩	彩	PROPN	名詞-固有名詞-人名-名	_	4	conj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-固有名詞-人名-名|SpaceAfter=No|UnidicInfo=アヤ,アヤ,彩,彩,アヤ,,,アヤ,アヤ,彩
 7	は	は	ADP	助詞-係助詞	_	6	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UnidicInfo=ハ,は,は,は,ワ,,,ハ,ハ,は
 8	そんな	そんな	PRON	連体詞	_	9	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=連体詞|SpaceAfter=No|UnidicInfo=ソンナ,そんな,そんな,そんな,ソンナ,,,ソンナ,ソンナ,そんな
 9	夕子	夕子	PROPN	名詞-固有名詞-人名-名	_	12	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-固有名詞-人名-名|SpaceAfter=No|UnidicInfo=ユウコ,ユウコ,夕子,夕子,ユーコ,,,ユウコ,ユウコ,夕子
@@ -75,11 +75,11 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
 # visual-style 28	bgColor:blue
 # visual-style 28	fgColor:white
-# visual-style 28 19 iobj	color:blue
+# visual-style 28 14 iobj	color:blue
 1	復活	復活	NOUN	名詞-普通名詞-サ変可能	_	2	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=フッカツ,復活,復活,復活,フッカツ,,,フッカツ,フッカツコウギョウ,復活興行
 2	興行	興行	NOUN	名詞-普通名詞-サ変可能	_	53	nsubj	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=コウギョウ,興行,興行,興行,コーギョー,,,コウギョウ,フッカツコウギョウ,復活興行
 3	は	は	ADP	助詞-係助詞	_	2	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-係助詞|SpaceAfter=No|UnidicInfo=ハ,は,は,は,ワ,,,ハ,ハ,は
@@ -89,22 +89,22 @@ The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href=
 7	「	「	PUNCT	補助記号-括弧開	_	8	punct	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧開|SpaceAfter=No|UnidicInfo=,「,「,「,,,,,,「
 8	客	客	NOUN	名詞-普通名詞-一般	_	10	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=キャク,客,客,客,キャク,,,キャク,キャク,客
 9	の	の	ADP	助詞-格助詞	_	8	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=ノ,の,の,の,ノ,,,ノ,ノ,の
-10	言い値	言い値	NOUN	名詞-普通名詞-一般	_	14	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=イイネ,言い値,言い値,言い値,イーネ,,,イイネ,イイネ,言い値
+10	言い値	言い値	NOUN	名詞-普通名詞-一般	_	14	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=イイネ,言い値,言い値,言い値,イーネ,,,イイネ,イイネ,言い値
 11	で	で	ADP	助詞-格助詞	_	10	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=デ,で,で,で,デ,,,デ,デ,で
 12	1	1	NUM	名詞-数詞	_	14	compound	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=イチ,一,1,1,イチ,,,イチ,イチエンイジョウ,1円以上
 13	円	円	NOUN	名詞-普通名詞-助数詞可能	_	14	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=エン,円,円,円,エン,,,エン,イチエンイジョウ,1円以上
-14	以上	以上	NOUN	名詞-普通名詞-副詞可能	_	19	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=イジョウ,以上,以上,以上,イジョー,,,イジョウ,イチエンイジョウ,1円以上
+14	以上	以上	NOUN	名詞-普通名詞-副詞可能	_	28	iobj	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=イジョウ,以上,以上,以上,イジョー,,,イジョウ,イチエンイジョウ,1円以上
 15	」	」	PUNCT	補助記号-括弧閉	_	14	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧閉|SpaceAfter=No|UnidicInfo=,」,」,」,,,,,,」
 16	と	と	ADP	助詞-格助詞	_	14	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
 17	売り上げ	売り上げ	NOUN	名詞-普通名詞-一般	_	19	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=ウリアゲ,売り上げ,売り上げ,売り上げ,ウリアゲ,,,ウリアゲ,ウリアゲ,売り上げ
 18	の	の	ADP	助詞-格助詞	_	17	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=ノ,の,の,の,ノ,,,ノ,ノ,の
-19	一部	一部	NOUN	名詞-普通名詞-副詞可能	_	28	iobj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=イチブ,一部,一部,一部,イチブ,,,イチブ,イチブ,一部
+19	一部	一部	NOUN	名詞-普通名詞-副詞可能	_	14	conj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=イチブ,一部,一部,一部,イチブ,,,イチブ,イチブ,一部
 20	を	を	ADP	助詞-格助詞	_	19	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=ヲ,を,を,を,オ,,,ヲ,ヲ,を
 21	「	「	PUNCT	補助記号-括弧開	_	25	punct	_	BunsetuBILabel=B|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧開|SpaceAfter=No|UnidicInfo=,「,「,「,,,,,,「
 22	いじめ	苛め	NOUN	名詞-普通名詞-一般	_	25	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=イジメ,苛め,いじめ,いじめ,イジメ,,,イジメ,イジメボクメツウンドウダンタイ,苛め撲滅運動団体
 23	撲滅	撲滅	NOUN	名詞-普通名詞-サ変可能	_	25	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=ボクメツ,撲滅,撲滅,撲滅,ボクメツ,,,ボクメツ,イジメボクメツウンドウダンタイ,苛め撲滅運動団体
 24	運動	運動	NOUN	名詞-普通名詞-サ変可能	_	25	compound	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=ウンドウ,運動,運動,運動,ウンドー,,,ウンドウ,イジメボクメツウンドウダンタイ,苛め撲滅運動団体
-25	団体	団体	NOUN	名詞-普通名詞-一般	_	28	obl	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=ダンタイ,団体,団体,団体,ダンタイ,,,ダンタイ,イジメボクメツウンドウダンタイ,苛め撲滅運動団体
+25	団体	団体	NOUN	名詞-普通名詞-一般	_	28	nmod	_	BunsetuBILabel=I|BunsetuPositionType=SEM_HEAD|LUWBILabel=I|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=ダンタイ,団体,団体,団体,ダンタイ,,,ダンタイ,イジメボクメツウンドウダンタイ,苛め撲滅運動団体
 26	」	」	PUNCT	補助記号-括弧閉	_	25	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|LUWBILabel=B|LUWPOS=補助記号-括弧閉|SpaceAfter=No|UnidicInfo=,」,」,」,,,,,,」
 27	に	に	ADP	助詞-格助詞	_	25	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|LUWBILabel=B|LUWPOS=助詞-格助詞|SpaceAfter=No|UnidicInfo=ニ,に,に,に,ニ,,,ニ,ニ,に
 28	寄付	寄付	NOUN	名詞-普通名詞-サ変可能	_	53	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|LUWBILabel=B|LUWPOS=名詞-普通名詞-一般|SpaceAfter=No|UnidicInfo=キフ,寄付,寄付,寄付,キフ,,,キフ,キフ,寄付

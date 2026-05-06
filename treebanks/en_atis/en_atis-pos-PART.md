@@ -9,11 +9,11 @@ udver: '2'
 There are 2 `PART` lemmas (0%), 2 `PART` types (0%) and 495 `PART` tokens (1%).
 Out of 14 observed tags, the rank of `PART` is: 13 in number of lemmas, 13 in number of types and 12 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>to, be</em>
+The 10 most frequent `PART` lemmas: <em>to, 's</em>
 
 The 10 most frequent `PART` types:  <em>to, 's</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> 4215, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 480), <em>be</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 1161, <tt><a href="en_atis-pos-VERB.html">VERB</a></tt> 209, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 15, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> 4215, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 480)
 
 The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_atis-pos-ADP.html">ADP</a></tt> 4215, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 480), <em>'s</em> (<tt><a href="en_atis-pos-AUX.html">AUX</a></tt> 91, <tt><a href="en_atis-pos-PART.html">PART</a></tt> 15, <tt><a href="en_atis-pos-PRON.html">PRON</a></tt> 5)
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_atis-pos-ADP
 
 The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.144766).
 
-The 1st highest number of forms (1) was observed with the lemma “be”: <em>'s</em>.
+The 1st highest number of forms (1) was observed with the lemma “'s”: <em>'s</em>.
 
 The 2nd highest number of forms (1) was observed with the lemma “to”: <em>to</em>.
 

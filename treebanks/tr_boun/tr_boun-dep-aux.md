@@ -27,7 +27,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	ki	ki	PART	Attr	_	1	mark	_	_
 3	toplum	toplum	NOUN	_	Case=Nom|Number=Sing|Person=3	6	advcl	_	_
 4	olarak	ol	AUX	Conv	Mood=Imp|Polarity=Pos|VerbForm=Conv	3	aux	_	_
-5	bunun	bu	PRON	Demons	Case=Gen|Number=Sing|Person=3	6	nmod:poss	_	_
+5	bunun	bu	PRON	Demons	Case=Gen|Number=Sing|Person=3|PronType=Dem	6	nmod:poss	_	_
 6	farkında	fark	NOUN	_	Case=Loc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	0	root	_	_
 7	değiliz	değil	AUX	Overt	Number=Plur|Person=1|Polarity=Pos|Tense=Pres	6	cop	_	SpaceAfter=No
 8	.	.	PUNCT	Stop	_	6	punct	_	SpacesAfter=\n
@@ -41,7 +41,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 aux	color:blue
-1	Birinin	biri	PRON	Quant	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	2	nsubj	_	_
+1	Birinin	biri	PRON	Quant	Case=Gen|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Ind	2	nsubj	_	_
 2	sevindiğine	sevin	VERB	Ptcp	Aspect=Perf|Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Past|VerbForm=Part	4	obl	_	_
 3	ötekinin	öteki	NOUN	_	Case=Gen|Number=Sing|Person=3	4	nsubj	_	_
 4	sevinmesi	sevin	VERB	Vnoun	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|VerbForm=Vnoun	5	csubj	_	_
@@ -58,7 +58,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 aux	color:blue
-1	Bu	bu	DET	Det	_	2	det	_	_
+1	Bu	bu	DET	Det	PronType=Dem	2	det	_	_
 2	sayıya	sayı	NOUN	_	Case=Dat|Number=Sing|Person=3	3	obl	_	_
 3	ulaşılamazsa	ulaş	VERB	_	Aspect=Hab|Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|Voice=Pass	6	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	Comma	_	6	punct	_	_

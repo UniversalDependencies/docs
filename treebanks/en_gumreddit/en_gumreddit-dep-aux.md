@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 19 17 aux	color:blue
-1	_	_	SCONJ	IN	_	7	mark	7:mark	Discourse=context-background:2->5:0:dm-if-3-gold+ref-prs-4-6,20-_|Entity=(2-abstract-new-nnssn-cf3-19-disc|Lem=*LOWER*|Len=2|PDTB=Explicit:Comparison.Contrast:if:3:18-23:4-17
+1	_	_	SCONJ	IN	_	7	mark	7:mark	Discourse=context-background:2->5:0:ref-prs-4-6,20-_;contingency-condition:2->5:2:0:orp-if-3-gold|Entity=(2-abstract-new-nnssn-cf3-19-disc|Lem=*LOWER*|Len=2|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:3:18-23:4-17
 2	_	_	DET	DT	PronType=Ind	4	det	4:det	Entity=(3-place-new-snsss-cf1-3-coref|Lem=_|Len=5
 3	_	_	ADJ	JJ	Degree=Pos	4	amod	4:amod	Lem=_|Len=5
 4	_	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=3)|Lem=_|Len=7
@@ -102,14 +102,14 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 13	_	_	NOUN	NN	Number=Sing	14	compound	14:compound	Lem=_|Len=7|MSeg=start-er
 14	_	_	NOUN	NN	Number=Sing	3	conj	3:conj:but	Lem=_|Len=11|MSeg=in-form-ation
 15	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=3
-16	_	_	PRON	NN	Number=Sing|PronType=Ind	14	nmod	14:nmod:for	Entity=(153-person-new-n____-cf4-1-sgl|Lem=_|Len=7|MSeg=some-one
+16	_	_	PRON	NN	Number=Sing|PronType=Ind	14	nmod	14:nmod:for	Entity=(153-person-new-nnnnn-cf4-1-sgl|Lem=_|Len=7|MSeg=some-one
 17	_	_	VERB	VBG	VerbForm=Ger	16	acl	16:acl	Discourse=elaboration-attribute:158->157:0:syn-mdf-1040-_+syn-nmn-1041-_|Lem=try|Len=6|MSeg=try-ing
 18	_	_	PART	TO	_	19	mark	19:mark	Lem=_|Len=2
 19	_	_	VERB	VB	VerbForm=Inf	17	xcomp	17:xcomp	Lem=_|Len=10|MSeg=under-stand
-20	_	_	NOUN	NN	Number=Sing	21	compound	21:compound	Entity=(154-place-new-n____-cf3-2-sgl(14-abstract-giv:inact-sssss-cf2-1-coref)|Lem=_|Len=4
+20	_	_	NOUN	NN	Number=Sing	21	compound	21:compound	Entity=(154-place-new-nnnnn-cf3-2-sgl(14-abstract-giv:inact-sssss-cf2-1-coref)|Lem=_|Len=4
 21	_	_	NOUN	NNS	Number=Plur	19	obj	19:obj	Entity=154)|Lem=market|Len=7|MSeg=market-s
 22	_	_	CCONJ	CC	_	23	cc	23:cc	Lem=_|Len=3
-23	_	_	NOUN	NN	Number=Sing	21	conj	19:obj|21:conj:and	Entity=(155-abstract-new-n____-cf5-1-sgl)|Lem=_|Len=14|MSeg=macro-econom-ic-s|SpaceAfter=No
+23	_	_	NOUN	NN	Number=Sing	21	conj	19:obj|21:conj:and	Entity=(155-abstract-new-nnnnn-cf5-1-sgl)|Lem=_|Len=14|MSeg=macro-econom-ic-s|SpaceAfter=No
 24	_	_	PUNCT	,	_	26	punct	26:punct	Lem=_|Len=1
 25	_	_	ADP	IN	_	26	case	26:case	Lem=_|Len=2|PDTB=AltLex:Expansion.Level-of-detail.Arg2-as-detail:in general:1049-1050:1032-1040:1041-1048,1051
 26	_	_	ADJ	JJ	Degree=Pos	19	obl	19:obl:in	Entity=153)152)|Lem=_|Len=7|SpaceAfter=No

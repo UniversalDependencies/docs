@@ -28,7 +28,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	se	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pv	4:expl:pv	_
 4	saldó	saldar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	sin	sin	ADP	sps00	_	6	case	6:case	_
-6	heridos	herido	NOUN	ncmp000	Gender=Masc|Number=Plur	4	obl	4:obl	SpaceAfter=No|ArgTem=argM:mnr|Entity=(NOCOREF:Gen--1-gstype:gen)
+6	heridos	herido	NOUN	ncmp000	Gender=Masc|Number=Plur	4	obl	4:obl	ArgTem=argM:mnr|Entity=(NOCOREF:Gen--1-gstype:gen)|SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~
@@ -51,7 +51,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 9	que	que	PRON	pr0cn000	PronType=Rel	12	nsubj:pass	12:nsubj:pass	ArgTem=arg1:pat|Entity=(CESSCASTP2001080246c18--1-CorefType:ident,gstype:gen)
 10	están	estar	AUX	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	12:aux	_
 11	siendo	ser	AUX	vsg0000	VerbForm=Ger	12	aux:pass	12:aux:pass	_
-12	investigadas	investigar	VERB	vmp00pf	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	acl	8:acl	SpaceAfter=No|Entity=CESSCASTP2001080246c18)NOCOREF:Gen)
+12	investigadas	investigar	VERB	vmp00pf	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	8	acl:relcl	8:acl:relcl	Entity=CESSCASTP2001080246c18)NOCOREF:Gen)|SpaceAfter=No
 13	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~
@@ -68,7 +68,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	SOCIEDAD	sociedad	PROPN	_	_	2	flat	2:flat	Entity=CESSCASTAA200002065003c45)
 4	NO	no	ADV	rn	Polarity=Neg	6	advmod	6:advmod	_
 5	SE	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	obj	6:obj	_
-6	ALEJA	aleja	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+6	ALEJA	alejar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	DE	de	ADP	spcms	_	9	case	9:case	_
 8	EL	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	9:det	_
 9	PRECIPICIO	precipicio	NOUN	ncms000	Gender=Masc|Number=Sing	6	obl	6:obl	ArgTem=arg2:loc|Entity=(CESSCASTAA200002065003c46--1-Title)

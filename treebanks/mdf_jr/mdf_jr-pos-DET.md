@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Moksha-JR: POS Tags: `DET`
 
-There are 16 `DET` lemmas (1%), 18 `DET` types (1%) and 40 `DET` tokens (1%).
-Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 10 in number of types and 11 in number of tokens.
+There are 17 `DET` lemmas (1%), 19 `DET` types (1%) and 42 `DET` tokens (1%).
+Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 9 in number of types and 11 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>лама, тя, эрь, ня, сембе, кафцьке, сяка, мзяра, ся, иля</em>
+The 10 most frequent `DET` lemmas: <em>эрь, лама, тя, ня, сембе, кафцьке, сяка, мзяра, ся, иля</em>
 
-The 10 most frequent `DET` types:  <em>тя, эрь, лама, ня, сембе, кафцьке, сяка, ся, Мъзяра, иля</em>
+The 10 most frequent `DET` types:  <em>эрь, тя, лама, ня, сембе, кафцьке, сяка, ся, Мъзяра, иля</em>
 
-The 10 most frequent ambiguous lemmas: <em>лама</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 5, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 2), <em>тя</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 21, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 5), <em>эрь</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 5, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>ня</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>сембе</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 9, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1), <em>кафцьке</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 3, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>сяка</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 3, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1), <em>ся</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 11, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2), <em>иля</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>кой-кона</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>эрь</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 6, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>лама</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 5, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 2), <em>тя</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 21, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 5), <em>ня</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>сембе</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 9, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1), <em>кафцьке</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 3, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>сяка</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 3, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1), <em>ся</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 11, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2), <em>иля</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>кой-кона</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>тя</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 13, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1), <em>сембе</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 4, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>кафцьке</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>сяка</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1), <em>ся</em> (<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 7, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1), <em>кой-кона</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> 1), <em>ламос</em> (<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1), <em>лия</em> (<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1), <em>тяфтама</em> (<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1)
 
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  <em>тя</em> (<tt><a href="mdf_jr-pos-PR
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.125000 (the average of all parts of speech is 1.555478).
+The form / lemma ratio of `DET` is 1.117647 (the average of all parts of speech is 1.563574).
 
 The 1st highest number of forms (2) was observed with the lemma “лама”: <em>лама, ламос</em>.
 
@@ -57,24 +57,24 @@ The 2nd highest number of forms (2) was observed with the lemma “мзяра”
 
 The 3rd highest number of forms (1) was observed with the lemma “иля”: <em>иля</em>.
 
-`DET` occurs with 6 features: <tt><a href="mdf_jr-feat-PronType.html">PronType</a></tt> (40; 100% instances), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt> (33; 83% instances), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt> (29; 73% instances), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt> (22; 55% instances), <tt><a href="mdf_jr-feat-NumType.html">NumType</a></tt> (3; 8% instances), <tt><a href="mdf_jr-feat-Style.html">Style</a></tt> (2; 5% instances)
+`DET` occurs with 6 features: <tt><a href="mdf_jr-feat-PronType.html">PronType</a></tt> (42; 100% instances), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt> (35; 83% instances), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt> (31; 74% instances), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt> (24; 57% instances), <tt><a href="mdf_jr-feat-NumType.html">NumType</a></tt> (3; 7% instances), <tt><a href="mdf_jr-feat-Style.html">Style</a></tt> (2; 5% instances)
 
 `DET` occurs with 12 feature-value pairs: `Case=Ill`, `Case=Nom`, `Definite=Ind`, `NumType=Sets`, `Number=Plur`, `Number=Plur,Sing`, `Number=Sing`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Tot`, `Style=Ped`
 
 `DET` occurs with 12 feature combinations.
-The most frequent feature combination is `Case=Nom|Definite=Ind|Number=Sing|PronType=Tot` (9 tokens).
-Examples: <em>эрь, сембе</em>
+The most frequent feature combination is `Case=Nom|Definite=Ind|Number=Sing|PronType=Tot` (11 tokens).
+Examples: <em>эрь, сембе, кажнай</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 5 different relations: <tt><a href="mdf_jr-dep-det.html">det</a></tt> (36; 90% instances), <tt><a href="mdf_jr-dep-expl.html">expl</a></tt> (1; 3% instances), <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (1; 3% instances), <tt><a href="mdf_jr-dep-obl.html">obl</a></tt> (1; 3% instances), <tt><a href="mdf_jr-dep-xcomp.html">xcomp</a></tt> (1; 3% instances)
+`DET` nodes are attached to their parents using 5 different relations: <tt><a href="mdf_jr-dep-det.html">det</a></tt> (38; 90% instances), <tt><a href="mdf_jr-dep-expl.html">expl</a></tt> (1; 2% instances), <tt><a href="mdf_jr-dep-fixed.html">fixed</a></tt> (1; 2% instances), <tt><a href="mdf_jr-dep-obl.html">obl</a></tt> (1; 2% instances), <tt><a href="mdf_jr-dep-xcomp.html">xcomp</a></tt> (1; 2% instances)
 
-Parents of `DET` nodes belong to 5 different parts of speech: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (35; 88% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 3% instances)
+Parents of `DET` nodes belong to 5 different parts of speech: <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (36; 86% instances), <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> (1; 2% instances)
 
-39 (98%) `DET` nodes are leaves.
+41 (98%) `DET` nodes are leaves.
 
-1 (3%) `DET` nodes have one child.
+1 (2%) `DET` nodes have one child.
 
 The highest child degree of a `DET` node is 1.
 

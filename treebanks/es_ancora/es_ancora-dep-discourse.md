@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4 nodes (0%) are attached to their parents as `discourse`.
+5 nodes (0%) are attached to their parents as `discourse`.
 
-4 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.25.
+5 instances of `discourse` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.4.
 
-The following 4 pairs of parts of speech are connected with `discourse`: <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> (1; 25% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> (1; 25% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> (1; 25% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 25% instances).
+The following 5 pairs of parts of speech are connected with `discourse`: <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> (1; 20% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> (1; 20% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-INTJ.html">INTJ</a></tt> (1; 20% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 25	elefante	elefante	NOUN	ncms000	Gender=Masc|Number=Sing	22	nmod	22:nmod	Entity=NOCOREF:Gen)NOCOREF:Gen)CESSCASTP20001001136c8)
 26	lo	él	PRON	pp3msa00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	28	obj	28:obj	ArgTem=arg1:pat|Entity=(CESSCASTP20001001136c8--1-CorefType:dx.token)
 27	habría	haber	AUX	vaic3s0	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	28	aux	28:aux	_
-28	hecho	hacer	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	conj	10:conj	SpaceAfter=No|Cxn=Conditional-NegativeEpistemic|CxnElt=28:Conditional-NegativeEpistemic.Apodosis@p
+28	hecho	hacer	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	conj	10:conj	Cxn=Conditional-NegativeEpistemic|CxnElt=28:Conditional-NegativeEpistemic.Apodosis@p|SpaceAfter=No
 29	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
 
 ~~~
@@ -66,9 +66,9 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 3	me	yo	PRON	pp1cs000	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl:arg	4:obl:arg	ArgTem=arg2:exp|Entity=(CESSCASTP2002090211c5-person-1-CorefType:ident,gstype:spec)
 4	faltaba	faltar	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	44	ccomp	44:ccomp	ArgTem=arg1:pat
 5	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	Entity=(NOCOREF:Gen--2-gstype:gen
-6	principio	principio	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	4:nsubj	SpaceAfter=No|ArgTem=arg1:tem|Entity=NOCOREF:Gen)
+6	principio	principio	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	4:nsubj	ArgTem=arg1:tem|Entity=NOCOREF:Gen)|SpaceAfter=No
 7	,	,	PUNCT	fc	PunctType=Comm	8	punct	8:punct	_
-8	entonces	entonces	ADV	rg	_	10	advmod	10:advmod	SpaceAfter=No|ArgTem=argM:tmp
+8	entonces	entonces	ADV	rg	_	10	advmod	10:advmod	ArgTem=argM:tmp|SpaceAfter=No
 9	,	,	PUNCT	fc	PunctType=Comm	8	punct	8:punct	_
 10	pongo	poner	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	4:advcl	_
 11	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	12:det	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
@@ -85,14 +85,14 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 22	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	ccomp	19:ccomp	Entity=(NOCOREF:Gen--1-gstype:gen
 23	que	que	PRON	pr0cn000	PronType=Rel	25	nsubj	25:nsubj	ArgTem=arg1:tem
 24	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	expl:pv	25:expl:pv	_
-25	avecina	avecinar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl	22:acl	SpaceAfter=No
+25	avecina	avecinar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	22:acl:relcl	SpaceAfter=No
 26	,	,	PUNCT	fc	PunctType=Comm	32	punct	32:punct	_
 27	a	a	ADP	sps00	ExtPos=ADP	32	case	32:case	MWE=a_la_vuelta_de|MWEPOS=ADP
 28	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	fixed	27:fixed	_
 29	vuelta	vuelta	NOUN	_	_	27	fixed	27:fixed	_
 30	de	de	ADP	_	_	27	fixed	27:fixed	_
 31	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	32:det	_
-32	esquina	esquina	NOUN	ncfs000	Gender=Fem|Number=Sing	25	obl	25:obl	SpaceAfter=No|ArgTem=arg2:loc|Entity=NOCOREF:Gen)
+32	esquina	esquina	NOUN	ncfs000	Gender=Fem|Number=Sing	25	obl	25:obl	ArgTem=arg2:loc|Entity=NOCOREF:Gen)|SpaceAfter=No
 33	'	'	PUNCT	fz	PunctType=Quot	22	punct	22:punct	SpaceAfter=No
 34	,	,	PUNCT	fc	PunctType=Comm	37	punct	37:punct	_
 35	y	y	CCONJ	cc	_	37	cc	37:cc	_
@@ -101,7 +101,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 38	mucha	mucho	DET	di0fs0	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	39	det	39:det	Entity=(NOCOREF:Gen--2-gstype:gen
 39	gracia	gracia	NOUN	ncfs000	Gender=Fem|Number=Sing	37	obj	37:obj	ArgTem=arg2:atr|Entity=NOCOREF:Gen)
 40	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	41:det	Entity=(NOCOREF:Gen--2-gstype:gen
-41	rima	rima	NOUN	ncfs000	Gender=Fem|Number=Sing	37	nsubj	37:nsubj	SpaceAfter=No|ArgTem=arg1:tem|Entity=NOCOREF:Gen)
+41	rima	rima	NOUN	ncfs000	Gender=Fem|Number=Sing	37	nsubj	37:nsubj	ArgTem=arg1:tem|Entity=NOCOREF:Gen)|SpaceAfter=No
 42	"	"	PUNCT	fe	PunctType=Quot	4	punct	4:punct	SpaceAfter=No
 43	,	,	PUNCT	fc	PunctType=Comm	4	punct	4:punct	_
 44	recuerda	recordar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	SpaceAfter=No
@@ -121,7 +121,7 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 3	fueron	ser	AUX	vsis3p0	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
 4	aún	aún	ADV	rg	_	6	advmod	6:advmod	_
 5	más	más	ADV	rg	Degree=Cmp	4	advmod	4:advmod	_
-6	categóricos	categórico	ADJ	aq0mp0	Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No|ArgTem=arg2:atr
+6	categóricos	categórico	ADJ	aq0mp0	Gender=Masc|Number=Plur	0	root	0:root	ArgTem=arg2:atr|SpaceAfter=No
 7	:	:	PUNCT	fd	PunctType=Colo	10	punct	10:punct	_
 8	The	The	PROPN	np00000	_	10	nsubj	10:nsubj	MWE=The_Sun|MWEPOS=PROPN|ArgTem=arg0:agt|Entity=(CESSCASTP2002010223c6-organization-1-gstype:spec
 9	Sun	Sun	PROPN	_	_	8	flat	8:flat	Entity=CESSCASTP2002010223c6)
@@ -133,11 +133,11 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	16:det	_
 16	2002	2002	NOUN	_	_	13	nmod	13:nmod	Entity=(NOCOREF:Spec.date-time-1-gstype:spec)NOCOREF:Gen)
 17	con	con	ADP	sps00	_	22	case	22:case	_
-18	"	"	PUNCT	fe	PunctType=Quot	22	punct	22:punct	SpaceAfter=No|Entity=(NOCOREF:Spec.other-other-5-gstype:spec
+18	"	"	PUNCT	fe	PunctType=Quot	22	punct	22:punct	Entity=(NOCOREF:Spec.other-other-5-gstype:spec|SpaceAfter=No
 19	El	el	DET	np00000	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	20:det	MWE=El_euro_ha_nacido_y_,_gracias_a_Dios_,_el_Reino_Unido_no_forma_parte_de_él|MWEPOS=PROPN|ArgTem=argM:adv
 20	euro	euro	NOUN	_	_	22	nsubj	22:nsubj	_
-21	ha	haber	AUX	_	VerbForm=Fin	22	aux	22:aux	_
-22	nacido	nacido	VERB	_	VerbForm=Fin	10	parataxis	10:parataxis	_
+21	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	22:aux	_
+22	nacido	nacer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	10	parataxis	10:parataxis	_
 23	y	y	CCONJ	_	_	33	cc	33:cc	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	25	punct	25:punct	_
 25	gracias	gracias	INTJ	_	_	33	discourse	33:discourse	_
@@ -147,12 +147,12 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	30:det	_
 30	Reino	reino	PROPN	_	_	33	nsubj	33:nsubj	_
 31	Unido	unido	PROPN	_	_	30	flat	30:flat	_
-32	no	no	PART	_	_	33	advmod	33:advmod	_
-33	forma	formar	VERB	_	VerbForm=Fin	22	conj	22:conj	_
+32	no	no	ADV	rn	Polarity=Neg	33	advmod	33:advmod	_
+33	forma	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	conj	22:conj	_
 34	parte	parte	NOUN	_	_	33	obj	33:obj	_
 35	de	de	ADP	_	_	36	case	36:case	_
 36	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	nmod	34:nmod	SpaceAfter=No
-37	"	"	PUNCT	fe	PunctType=Quot	22	punct	22:punct	SpaceAfter=No|Entity=NOCOREF:Spec.other)
+37	"	"	PUNCT	fe	PunctType=Quot	22	punct	22:punct	Entity=NOCOREF:Spec.other)|SpaceAfter=No
 38	.	.	PUNCT	fp	PunctType=Peri	6	punct	6:punct	_
 
 ~~~

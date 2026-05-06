@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-20 nodes (0%) are attached to their parents as `xcomp`.
+35 nodes (1%) are attached to their parents as `xcomp`.
 
-20 instances of `xcomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75.
+35 instances of `xcomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.6.
 
-The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (12; 60% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (6; 30% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 5% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
+The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (23; 66% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (9; 26% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 3% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 3% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -94,7 +94,7 @@ The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href
 15	فلم	فلم	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Translit=film|LTranslit=film|Gloss=movie
 16	دی	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
 17	،	،	PUNCT	_	_	24	punct	_	Translit=,|LTranslit=,|Gloss=,
-18	چې	چې	PRON	_	PronType=Rel	24	nsubj	_	Translit=če|LTranslit=če|Gloss=which
+18	چې	چې	SCONJ	_	_	24	mark	_	Translit=če|LTranslit=če|Gloss=that
 19	په	پۀ	ADP	_	Case=Loc	21	case	_	Translit=pë|LTranslit=pë|Gloss=at
 20	دې	دا	DET	_	Case=Loc|Deixis=Prox|PronType=Dem|Variant=Short	21	det	_	Translit=de|LTranslit=dâ|Gloss=this
 21	وروستیو	وروستی	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	24	obl	_	Translit=wrustë́yo|LTranslit=wrustáy|Gloss=recent

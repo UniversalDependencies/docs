@@ -32,11 +32,11 @@ The following 4 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 8	_	_	CCONJ	CC	_	13	cc	13:cc	Discourse=joint-sequence_m:94->93:0:dm-and-679-gold+dm-then-680-gold|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:679:680-699:672-678
 9	_	_	ADV	RB	PronType=Dem	13	advmod	13:advmod	Lem=_|Len=4|PDTB=Explicit:Temporal.Asynchronous.Precedence:then:680:679,681-699:672-678
 10	_	_	ADP	IN	_	13	case	13:case	Lem=_|Len=2
-11	_	_	DET	DT	Definite=Def|PronType=Art	13	det	13:det	Bridge=89<93|Entity=(93-abstract-acc:inf-nnnnn-cf3-3-sgl|Lem=_|Len=3
+11	_	_	DET	DT	Definite=Def|PronType=Art	13	det	13:det	Bridge=89<93:comparison-relative;set-member|Entity=(93-abstract-acc:inf-nnnnn-cf3-3-coref|Lem=_|Len=3
 12	_	_	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	13	amod	13:amod	Lem=_|Len=6
 13	_	_	NOUN	NN	Number=Sing	7	conj	7:conj:and|14:obl:on	Entity=93)|Lem=_|Len=5
-14	_	_	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Lem=_|Len=4
-15	_	_	DET	DT	Definite=Def|PronType=Art	16	det	16:det	Bridge=89<94|Entity=(94-abstract-acc:inf-nnnns-cf2-2-sgl|Lem=_|Len=3
+14	_	_	VERB	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Lem=_|Len=4
+15	_	_	DET	DT	Definite=Def|PronType=Art	16	det	16:det	Bridge=93<94:entity-associative|Entity=(94-abstract-acc:inf-nnnns-cf2-2-sgl|Lem=_|Len=3
 16	_	_	NOUN	NN	Number=Sing	14	obj	14:obj	Entity=94)|Lem=_|Len=5|MSeg=vow-el
 17	_	_	ADP	IN	_	21	case	21:case	Lem=_|Len=2
 18	_	_	CCONJ	CC	_	21	cc:preconj	21:cc:preconj	Lem=_|Len=6
@@ -71,7 +71,7 @@ The following 4 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 9	_	_	ADJ	JJ	Degree=Pos	4	conj	4:conj:nor	Lem=_|Len=9|MSeg=desir-able
 10	_	_	PART	TO	_	11	mark	11:mark	Entity=(20-abstract-acc:com-nnnnn-cf3-2-coref|Lem=_|Len=2
 11	_	_	VERB	VB	VerbForm=Inf	4	csubj	4:csubj|6:csubj|9:csubj	Lem=_|Len=5
-12	_	_	DET	DT	PronType=Ind	14	det	14:det	Bridge=14<21|Entity=(21-abstract-acc:inf-ssnss-cf1-3-coref|Lem=_|Len=3
+12	_	_	DET	DT	PronType=Ind	14	det	14:det	Entity=(21-abstract-auto-ssnss-cf1-3-coref|Lem=_|Len=3
 13	_	_	NOUN	NN	Number=Sing	14	compound	14:compound	Lem=_|Len=6
 14	_	_	NOUN	NNS	Number=Plur	11	obj	11:obj	Entity=21)20)|Lem=norm|Len=5|MSeg=norm-s|SpaceAfter=No
 15	_	_	PUNCT	,	_	20	punct	20:punct	Lem=_|Len=1
@@ -99,7 +99,7 @@ The following 4 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 4	_	_	ADV	RBR	Degree=Cmp	0	root	0:root	Lem=late|Len=5|MSeg=lat-er
 5	_	_	ADV	RB	Degree=Pos	4	advmod	4:advmod	Lem=_|Len=2
 6	_	_	CCONJ	CC	_	9	cc	9:cc	Lem=_|Len=2
-7	_	_	DET	DT	Definite=Def|PronType=Art	9	det	9:det	Bridge=51<54|Entity=(54-time-acc:inf-nnnnn-cf6-3-sgl|Lem=_|Len=3
+7	_	_	DET	DT	Definite=Def|PronType=Art	9	det	9:det	Bridge=51<54:comparison-relative;comparison-time|Entity=(54-time-acc:inf-nnnnn-cf6-3-sgl|Lem=_|Len=3
 8	_	_	ADJ	JJ	Degree=Pos	9	amod	9:amod	Lem=_|Len=4
 9	_	_	NOUN	NN	Number=Sing	4	conj	4:conj:or	Entity=54)|Lem=_|Len=3
 10	_	_	SCONJ	IN	_	13	mark	13:mark	Discourse=attribution-positive:59->60:0:sem-atsrc-352-_+lex-indwd-354-_|Entity=(53-event-acc:com-nnnnn-cf4-4-coref|Lem=_|Len=4

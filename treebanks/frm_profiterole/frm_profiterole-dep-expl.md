@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Middle_French-PROFITEROLE: Relations: `expl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `expl`: <tt><a href="frm_profiterole-dep-expl-pass.html">expl:pass</a></tt>.
 
-1161 nodes (1%) are attached to their parents as `expl`.
+1341 nodes (1%) are attached to their parents as `expl`.
 
-1126 instances of `expl` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.70542635658915.
+1303 instances of `expl` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.67636092468307.
 
-The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1083; 93% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (44; 4% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (23; 2% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1253; 93% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (51; 4% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (23; 2% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -48,8 +49,8 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 6	tiltre	titre1	NOUN	NOMcom	_	0	root	_	XmlId=w_42_08889
 7	que	que	X	RED	_	8	mark	_	XmlId=w_42_08890
 8	Jehan	Jean	PROPN	NOMpro	_	6	nsubj	_	XmlId=w_42_08891
-9	de	de	ADP	PRE	_	8	flat	_	XmlId=w_42_08892
-10	Paris	Paris	PROPN	NOMpro	_	8	flat	_	SpaceAfter=No|XmlId=w_42_08893
+9	de	de	ADP	PRE	_	10	case	_	XmlId=w_42_08892
+10	Paris	Paris	PROPN	NOMpro	_	8	nmod	_	SpaceAfter=No|XmlId=w_42_08893
 11	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_42_08894
 
 ~~~

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-132 nodes (13%) are attached to their parents as `punct`.
+809 nodes (14%) are attached to their parents as `punct`.
 
-127 instances of `punct` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.65909090909091.
+746 instances of `punct` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.07292954264524.
 
-The following 5 pairs of parts of speech are connected with `punct`: <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (94; 71% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (14; 11% instances), <tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (14; 11% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (9; 7% instances), <tt><a href="or_odtb-pos-PRON.html">PRON</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (517; 64% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (140; 17% instances), <tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (71; 9% instances), <tt><a href="or_odtb-pos-NUM.html">NUM</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (41; 5% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (30; 4% instances), <tt><a href="or_odtb-pos-PART.html">PART</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="or_odtb-pos-ADP.html">ADP</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="or_odtb-pos-ADV.html">ADV</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="or_odtb-pos-AUX.html">AUX</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="or_odtb-pos-DET.html">DET</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="or_odtb-pos-PRON.html">PRON</a></tt>-<tt><a href="or_odtb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,14 +22,14 @@ The following 5 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 punct	color:blue
-1	ସ୍ଵଜନମାନଙ୍କ	_	NOUN	N_NN	_	7	nmod	_	SpaceAfter=No|Translit=svajanamānaṅka
+1	ସ୍ଵଜନମାନଙ୍କ	_	NOUN	N_NN	Case=Gen|Gender=Com|Number=Plur	7	nmod	_	Entity=(e2-group-1-new-sgl)|SpaceAfter=No|Translit=svajanamānaṅka
 2	,	_	PUNCT	RD_PUNC	_	1	punct	_	Translit=,
-3	ମିତ୍ରମାନଙ୍କ	_	NOUN	N_NN	_	7	compound	_	Translit=mitramānaṅka
-4	ସହିତ	_	ADP	PSP	_	3	case	_	Translit=sahita
-5	ପର୍ଯ୍ୟଟନର	_	NOUN	N_NN	_	6	nsubj	_	Translit=paryŷaṭanara
-6	ଆନନ୍ଦ	_	NOUN	N_NN	_	7	obj	_	Translit=ānanda
-7	ନେଇ	_	VERB	V_VM_VNF	_	0	root	_	Translit=nei
-8	ପାରିବେ	_	VERB	V_VM_VNG	_	7	compound	_	Translit=pāribe
+3	ମିତ୍ରମାନଙ୍କ	_	NOUN	N_NN	Case=Gen|Gender=Com|Number=Plur	7	compound	_	Entity=(e3-group-3-new-sgl)|Translit=mitramānaṅka
+4	ସହିତ	_	ADP	PSP	Case=Ins	3	case	_	Translit=sahita
+5	ପର୍ଯ୍ୟଟନର	_	NOUN	N_NN	Case=Gen|Gender=Masc|Number=Sing	6	nsubj	_	Translit=paryŷaṭanara
+6	ଆନନ୍ଦ	_	NOUN	N_NN	Gender=Masc|Number=Sing	7	obj	_	Translit=ānanda
+7	ନେଇ	_	VERB	V_VM_VNF	Aspect=Imp|VerbForm=Inf	0	root	_	Translit=nei
+8	ପାରିବେ	_	VERB	V_VM_VNG	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Act	7	compound	_	Translit=pāribe
 9	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n|Translit=.
 
 ~~~
@@ -41,40 +41,35 @@ The following 5 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 punct	color:blue
-1	ସ୍ଵଜନମାନଙ୍କ	_	NOUN	N_NN	_	7	nmod	_	SpaceAfter=No|Translit=svajanamānaṅka
+1	ସ୍ଵଜନମାନଙ୍କ	_	NOUN	N_NN	Case=Gen|Gender=Com|Number=Plur	7	nmod	_	Entity=(e2-group-1-new-sgl)|SpaceAfter=No|Translit=svajanamānaṅka
 2	,	_	PUNCT	RD_PUNC	_	1	punct	_	Translit=,
-3	ମିତ୍ରମାନଙ୍କ	_	NOUN	N_NN	_	7	compound	_	Translit=mitramānaṅka
-4	ସହିତ	_	ADP	PSP	_	3	case	_	Translit=sahita
-5	ପର୍ଯ୍ୟଟନର	_	NOUN	N_NN	_	6	nsubj	_	Translit=paryŷaṭanara
-6	ଆନନ୍ଦ	_	NOUN	N_NN	_	7	obj	_	Translit=ānanda
-7	ନେଇ	_	VERB	V_VM_VNF	_	0	root	_	Translit=nei
-8	ପାରିବେ	_	VERB	V_VM_VNG	_	7	compound	_	Translit=pāribe
+3	ମିତ୍ରମାନଙ୍କ	_	NOUN	N_NN	Case=Gen|Gender=Com|Number=Plur	7	compound	_	Entity=(e3-group-3-new-sgl)|Translit=mitramānaṅka
+4	ସହିତ	_	ADP	PSP	Case=Ins	3	case	_	Translit=sahita
+5	ପର୍ଯ୍ୟଟନର	_	NOUN	N_NN	Case=Gen|Gender=Masc|Number=Sing	6	nsubj	_	Translit=paryŷaṭanara
+6	ଆନନ୍ଦ	_	NOUN	N_NN	Gender=Masc|Number=Sing	7	obj	_	Translit=ānanda
+7	ନେଇ	_	VERB	V_VM_VNF	Aspect=Imp|VerbForm=Inf	0	root	_	Translit=nei
+8	ପାରିବେ	_	VERB	V_VM_VNG	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Act	7	compound	_	Translit=pāribe
 9	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n|Translit=.
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 15 punct	color:blue
-1	ଅଳେଇଚ	ଅଳେଇଚ	PROPN	N_NNP	_	0	root	_	SpaceAfter=No|Translit=aḷeica|LTranslit=aḷeica
-2	:	:	PUNCT	RD_PUNC	_	1	punct	_	Translit=:|LTranslit=:
-3	ଏକ	ଏକ	NUM	QT_QTC	_	4	nummod	_	Translit=eka|LTranslit=eka
-4	ଚାମଚ	ଚାମଚ	NOUN	N_NN	_	6	nmod	_	Translit=cāmaca|LTranslit=cāmaca
-5	ଅଳେଇଚ	ଅଳେଇଚ	PROPN	N_NNP	_	6	compound	_	Translit=aḷeica|LTranslit=aḷeica
-6	ଗୁଣ୍ଡ	ଗୁଣ୍ଡ	NOUN	N_NN	_	13	obl	_	Translit=guṇḍa|LTranslit=guṇḍa
-7	ଗୋଟେ	ଗୋଟେ	NUM	QT_QTC	_	8	nummod	_	Translit=goṭe|LTranslit=goṭe
-8	ଗ୍ଲାସ	ଗ୍ଲାସ	NOUN	N_NN	_	10	nmod	_	Translit=glāsa|LTranslit=glāsa
-9	ଗରମ	ଗରମ	ADJ	JJ	_	10	amod	_	Translit=garama|LTranslit=garama
-10	ପାଣିରେ	ପାଣି	NOUN	N_NN	_	13	obl	_	Translit=pāṇire|LTranslit=pāṇi
-11	ଭଲ	ଭଲ	ADV	RB	_	13	advmod	_	Translit=bhala|LTranslit=bhala
-12	ଭାବେ	ଭାବେ	ADV	RB	_	13	advmod	_	Translit=bhābe|LTranslit=bhābe
-13	ମିଶାଇ	ମିଶା	VERB	V_VM_VNF	_	1	parataxis	_	Translit=miśāi|LTranslit=miśā
-14	ଦିଅନ୍ତୁ	ଦିଅନ୍ତୁ	VERB	V_VM_VF	_	13	compound	_	SpaceAfter=No|Translit=diantu|LTranslit=diantu
-15	।	।	PUNCT	RD_PUNC	_	1	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
+# visual-style 1 2 punct	color:blue
+1	କର୍କଟ	_	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing	9	dislocated	_	Translit=karkaṭa
+2	:	_	PUNCT	RD_PUNC	_	1	punct	_	Translit=:
+3	ଏହି	_	DET	DM_DMD	Definite=Def|PronType=Dem	4	det	_	Translit=ehi
+4	ରାଶିର	_	NOUN	N_NN	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	Translit=rāśira
+5	ବ୍ୟକ୍ତିଙ୍କୁ	_	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing	9	nsubj	_	Translit=bŷaktiṅku
+6	ଜୀବନ	_	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing	7	compound	_	Translit=jībana
+7	ସାଥୀଙ୍କ	_	NOUN	N_NN	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	Translit=sāthīṅka
+8	ସହଯୋଗ	_	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing	9	obj	_	Translit=sahayoga
+9	ମିଳିବ	_	VERB	V_VM_VF	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	Translit=miḷiba
+10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n|Translit=.
 
 ~~~
 

@@ -92,7 +92,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>PROPN --[<tt><a href="en_atis-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2736; 89%),
 <tt>NOUN --[<tt><a href="en_atis-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1279; 73%),
-<tt>NOUN --[<tt><a href="en_atis-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (540; 63%),
+<tt>NOUN --[<tt><a href="en_atis-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (549; 63%),
 <tt>PROPN --[<tt><a href="en_atis-dep-conj.html">conj</a></tt>]--> PROPN</tt> (456; 100%),
 <tt>PROPN --[<tt><a href="en_atis-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (278; 99%),
 <tt>PROPN --[<tt><a href="en_atis-dep-appos.html">appos</a></tt>]--> PROPN</tt> (218; 100%),

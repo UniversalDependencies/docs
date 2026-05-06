@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-24 nodes (2%) are attached to their parents as `amod`.
+25 nodes (2%) are attached to their parents as `amod`.
 
-23 instances of `amod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.25.
+24 instances of `amod` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.24.
 
-The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (23; 96% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
+The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (24; 96% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 amod	color:blue
-1	пямʼ	пя	NOUN	_	_	8	obj	_	AlignBegin=14308.6925125|AlignEnd=14881.38378|LTranslit=ṕa|MGloss=tree-acc|MSeg=пя-мʼ|Translit=ṕamʔ
+1	пямʼ	пя	NOUN	_	_	8	obj	_	AlignBegin=14308.6925125|AlignEnd=14881.38378|ISRole=Top|LTranslit=ṕa|MGloss=tree-acc|MSeg=пя-мʼ|Translit=ṕamʔ
 2	сятаняӈы	сятаняӈы	ADJ	_	_	3	amod	_	AlignBegin=14881.38378|AlignEnd=15563.5780387|Gloss=to.the.left.adj|LTranslit=śatańaŋi|Translit=śatańaŋi
 3	хэвувнада	хэв	NOUN	_	_	8	obl:mod	_	AlignBegin=15563.5780387|AlignEnd=16342.5998697|LTranslit=xæw|MGloss=side-prol-poss.3sg|MSeg=хэву-вна-да|Translit=xæwuwnada
 4	махаʼняю	махаʼняю	ADV	_	_	8	advmod	_	AlignBegin=16342.5998697|AlignEnd=17306.4743386|Gloss=to.the.right.pol|LTranslit=maxaʔńaju|Translit=maxaʔńaju

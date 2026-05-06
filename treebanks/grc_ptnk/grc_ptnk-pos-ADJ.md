@@ -64,8 +64,8 @@ The 3rd highest number of forms (13) was observed with the lemma “πολύς�
 `ADJ` occurs with 18 feature-value pairs: `Case=Acc`, `Case=Acc,Nom`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Nom,Voc`, `Case=Voc`, `Degree=Cmp`, `Degree=Sup`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Masc,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`
 
 `ADJ` occurs with 63 feature combinations.
-The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (205 tokens).
-Examples: <em>κύριος, πᾶς, ἕκαστος, εὐλογητὸς, κύριός, μέγας, πλησίον, μόνος, οὐθεὶς, δίκαιος</em>
+The most frequent feature combination is `Case=Nom|Gender=Masc|Number=Sing` (217 tokens).
+Examples: <em>κύριος, πᾶς, ἕκαστος, εὐλογητὸς, κύριός, μέγας, πλησίον, μόνος, οὐθεὶς, πρωτότοκος</em>
 
 
 ## Relations

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-38 nodes (0%) are attached to their parents as `nummod`.
+43 nodes (0%) are attached to their parents as `nummod`.
 
-37 instances of `nummod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23684210526316.
+42 instances of `nummod` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2093023255814.
 
-The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (38; 100% instances).
+The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (43; 100% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2 1 nummod	color:blue
 1	10	10	NUM	_	Case=Nom|NumType=Card	2	nummod	_	_
 2	månader	månad	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	5	obl	_	_
-3	däref$nt	däref$nt	ADV	_	Typo=Yes	2	advmod	_	CorrectionLabels=O
+3	däref$nt	därefter	ADV	_	Typo=Yes	2	advmod	_	CorrectionLabels=O|SurfaceLemma=däref$nt
 4	vi	vi	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	5	nsubj	_	_
 5	bestämde	bestämma	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	CorrectionLabels=S-FinV
 6	oss	vi	PRON	_	Case=Acc|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	5	obj	_	_

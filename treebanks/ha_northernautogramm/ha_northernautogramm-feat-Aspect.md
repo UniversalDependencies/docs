@@ -6,44 +6,40 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hausa-NorthernAutogramm: Features: `Aspect`
 
-This feature is universal but the values `Aor`, `Iter`, `PerfBkg`, `PerfNeg`, `ProgBkg`, `ProgNeg` are language-specific.
-It occurs with 8 different values: `Aor`, `Iter`, `Perf`, `PerfBkg`, `PerfNeg`, `Prog`, `ProgBkg`, `ProgNeg`.
+This feature is universal but the values `Iter` are language-specific.
+It occurs with 3 different values: `Iter`, `Perf`, `Prog`.
 
-655 tokens (16%) have a non-empty value of `Aspect`.
-93 types (11%) occur at least once with a non-empty value of `Aspect`.
-2 lemmas (0%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (629; 15% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (26; 1% instances).
+2035 tokens (13%) have a non-empty value of `Aspect`.
+130 types (7%) occur at least once with a non-empty value of `Aspect`.
+5 lemmas (0%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (1982; 13% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (53; 0% instances).
 
 ### `AUX`
 
-629 <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Aspect`.
+1982 <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> tokens (78% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="ha_northernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (485; 77%), <tt><a href="ha_northernautogramm-feat-Person.html">Person</a></tt><tt>=3</tt> (392; 62%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="ha_northernautogramm-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1982; 100%), <tt><a href="ha_northernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1538; 78%), <tt><a href="ha_northernautogramm-feat-Person.html">Person</a></tt><tt>=3</tt> (1445; 73%), <tt><a href="ha_northernautogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1099; 55%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Aor` (114; 18% of non-empty `Aspect`): <em>shì, à, ìn, tà, kà, sù, kì, kù, mù</em>
-* `Perf` (103; 16% of non-empty `Aspect`): <em>yaː, kaː, naː, taː, sun, kun, mun, an, kyaː</em>
-* `PerfBkg` (294; 47% of non-empty `Aspect`): <em>yac, ankà, sunkà, tac, yaz, yat, yay, yah, yas, yak</em>
-* `PerfNeg` (16; 3% of non-empty `Aspect`): <em>bài, bàkà, bàkù, bàn, bàtà, bàsù</em>
-* `Prog` (57; 9% of non-empty `Aspect`): <em>shinàː, tanàː, anàː, inàː, sunàː, kanàː, nàː, kukà, kunàː</em>
-* `ProgBkg` (37; 6% of non-empty `Aspect`): <em>akà, sukà, kukà, kà, shikà, mukà, kakà, nikà, takà</em>
-* `ProgNeg` (8; 1% of non-empty `Aspect`): <em>baː'à, baːkà, baːmù, baːkù</em>
-* `EMPTY` (89): <em>nàː, shinàː, sunàː, anàː, tanàː, naː, takè, ab, kanàː, shikè</em>
+* `Perf` (1560; 79% of non-empty `Aspect`): <em>yac, sunkà, yaː, ankà, yat, yay, yak, tac, yaz, kaː</em>
+* `Prog` (422; 21% of non-empty `Aspect`): <em>shinàː, sunàː, kà, anàː, akà, tanàː, baːnì, inàː, shikà, baːshì</em>
+* `EMPTY` (556): <em>shì, kà, ìn, à, kù, nàː, tà, kì, sù, naː</em>
 
 ### `PART`
 
-26 <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> tokens (19% of all `PART` tokens) have a non-empty value of `Aspect`.
+53 <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> tokens (8% of all `PART` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `PART` and `Aspect` co-occurred: <tt><a href="ha_northernautogramm-feat-PartType.html">PartType</a></tt><tt>=Adv</tt> (26; 100%), <tt><a href="ha_northernautogramm-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (26; 100%).
+The most frequent other feature values with which `PART` and `Aspect` co-occurred: <tt><a href="ha_northernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (53; 100%), <tt><a href="ha_northernautogramm-feat-PartType.html">PartType</a></tt><tt>=Aspect</tt> (53; 100%), <tt><a href="ha_northernautogramm-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (53; 100%).
 
 `PART` tokens may have the following values of `Aspect`:
 
-* `Iter` (26; 100% of non-empty `Aspect`): <em>ta</em>
-* `EMPTY` (113): <em>gàː, ba, baːbù, kòː, dai, àkwai, bâː, bàː, kuma, hwa</em>
+* `Iter` (53; 100% of non-empty `Aspect`): <em>ta, kan, zan</em>
+* `EMPTY` (619): <em>ba, mài, nàː, gàː, màːsu, dai, kuma, baːbù, bàː, kòː</em>
 
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>AUX --[<tt><a href="ha_northernautogramm-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 75%).
+<tt>AUX --[<tt><a href="ha_northernautogramm-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 75%),
+<tt>AUX --[<tt><a href="ha_northernautogramm-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%).
 

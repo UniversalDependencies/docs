@@ -99,7 +99,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 15	შედეგადაც	შედეგი	NOUN	Noun	Animacy=Inan|Case=Ess|Number=Sing|PartType=Emp	18	obl	_	Translit=šedegadacʻ
 16	კიდევ	კიდევ	ADV	Adv	AdvType=Man	18	advmod	_	Translit=kidev
 17	უფრო	უფრო	ADJ	Adj	Degree=Cmp	18	amod	_	Translit=upʻro
-18	გაიზარდა	იზრდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	12	parataxis	_	Translit=gaizarda
+18	გაიზარდა	ზრდის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	12	parataxis	_	Translit=gaizarda
 19	კომპანიის	კომპანია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	20	nmod	_	Translit=kompaniis
 20	ბაზრის	ბაზარი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	21	nmod	_	Translit=bazris
 21	წილი	წილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	18	nsubj	_	SpaceAfter=No|Translit=cili

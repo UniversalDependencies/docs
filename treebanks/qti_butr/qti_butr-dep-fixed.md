@@ -66,9 +66,9 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 fixed	color:blue
-1	All	all	DET	_	ExtPos=ADV	7	advmod	_	Lang=en
+1	All	all	DET	_	ExtPos=ADV|PronType=Tot	7	advmod	_	Lang=en
 2	of	of	ADP	_	_	1	fixed	_	Lang=en
-3	a	a	DET	_	_	1	fixed	_	Lang=en
+3	a	a	DET	_	PronType=Art	1	fixed	_	Lang=en
 4	sudden	sudden	ADJ	_	_	1	fixed	_	Lang=en
 5	sevgilimle	sevgili	NOUN	_	Case=Ins|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	7	obl	_	Lang=tr
 6	kavga	kavga	NOUN	_	Case=Nom|Number=Sing|Person=3	7	compound	_	Lang=tr

@@ -39,7 +39,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 126 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (68% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (121; 96%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (93; 74%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (70; 56%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (125; 99%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (93; 74%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (69; 55%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -50,13 +50,12 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 <table>
   <tr><th>Paradigm <i>ас</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>аслум</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ассьыд</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>аслас</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>асланум</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ачум</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>аслум</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ассьыд</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>асланум</em></td><td></td><td><em>аслас</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ачум</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>ачум</em></td><td></td><td><em>ачыс</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>аслад</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>аслад</em></td><td></td></tr>
 </table>
 
 `Person` seems to be **lexical feature** of `PRON`. 92% lemmas (12) occur only with one value of `Person`.

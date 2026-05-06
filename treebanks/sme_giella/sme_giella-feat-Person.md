@@ -14,19 +14,19 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 5770 tokens (21%) have a non-empty value of `Person`.
 1548 types (20%) occur at least once with a non-empty value of `Person`.
 562 lemmas (13%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (2628; 10% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (1788; 7% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (1354; 5% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (2627; 10% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (1789; 7% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (1354; 5% instances).
 
 ### `VERB`
 
-2628 <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Person`.
+2627 <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> tokens (61% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sme_giella-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2628; 100%), <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2628; 100%), <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2421; 92%), <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1689; 64%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1431; 54%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sme_giella-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2627; 100%), <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2627; 100%), <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2420; 92%), <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1689; 64%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1431; 54%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (387; 15% of non-empty `Person`): <em>oidnen, bidjat, muittán, oainnán, attán, lean, orun, boađán, vuolggán, čállen</em>
 * `2` (205; 8% of non-empty `Person`): <em>boađe, váldde, dovddat, mana, Bija, boađát, manat, oaččut, Gula, Máhtát</em>
-* `3` (2036; 77% of non-empty `Person`): <em>lea, leat, lei, ledje, bođii, boahtá, manai, lohká, šattai, bohte</em>
+* `3` (2035; 77% of non-empty `Person`): <em>lea, leat, lei, ledje, bođii, boahtá, manai, lohká, šattai, bohte</em>
 * `EMPTY` (1682): <em>leat, vuolgit, boahtit, dieđe, oaidnán, ožžon, boahtán, lean, bargat, leamaš</em>
 
 <table>
@@ -46,15 +46,15 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `AUX`
 
-1788 <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Person`.
+1789 <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1782; 100%), <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1707; 95%), <tt><a href="sme_giella-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1358; 76%), <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1200; 67%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1058; 59%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="sme_giella-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1783; 100%), <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1708; 95%), <tt><a href="sme_giella-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1359; 76%), <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1200; 67%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1058; 59%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (235; 13% of non-empty `Person`): <em>in, lean, eat, áiggun, leat, ledjen, ean, ferten, fertet, leimmet</em>
 * `2` (142; 8% of non-empty `Person`): <em>leat, it, lehpet, ale, leahppi, fertet, galggat, sáhtát, allet, fertebeahtti</em>
-* `3` (1411; 79% of non-empty `Person`): <em>lea, ii, leat, lei, eai, ledje, galgá, sáhttá, galget, leaba</em>
+* `3` (1412; 79% of non-empty `Person`): <em>lea, ii, leat, lei, eai, ledje, galgá, sáhttá, galget, leaba</em>
 * `EMPTY` (206): <em>leat, leamaš, sáhte, lean, sáhttán, galgga, gillen, beassat, nagot, sáhttit</em>
 
 <table>

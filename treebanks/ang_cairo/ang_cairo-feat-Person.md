@@ -16,16 +16,16 @@ The feature is used with 3 part-of-speech tags: <tt><a href="ang_cairo-pos-PRON.
 
 ### `PRON`
 
-19 <tt><a href="ang_cairo-pos-PRON.html">PRON</a></tt> tokens (68% of all `PRON` tokens) have a non-empty value of `Person`.
+19 <tt><a href="ang_cairo-pos-PRON.html">PRON</a></tt> tokens (70% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ang_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 95%), <tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (14; 74%), <tt><a href="ang_cairo-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10; 53%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ang_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (19; 100%), <tt><a href="ang_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 95%), <tt><a href="ang_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (16; 84%), <tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (14; 74%), <tt><a href="ang_cairo-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10; 53%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (3; 16% of non-empty `Person`): <em>Ic, Min</em>
 * `2` (5; 26% of non-empty `Person`): <em>þu, þin</em>
 * `3` (11; 58% of non-empty `Person`): <em>heo, hit, he, heom, hire, his</em>
-* `EMPTY` (9): <em>hyre, He, Hie, Hƿæt, hit, hƿa, seo, sƿa</em>
+* `EMPTY` (8): <em>hyre, He, Hie, Hƿæt, hit, hƿa, seo</em>
 
 ### `VERB`
 

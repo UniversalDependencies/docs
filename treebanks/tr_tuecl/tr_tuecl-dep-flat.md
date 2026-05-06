@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	Ne	ne	CCONJ	_	_	3	cc	_	_
 2	Peter	Peter	PROPN	_	Case=Nom|Number=Sing	8	nsubj	_	_
 3	Smith	Smith	PROPN	_	Case=Nom|Number=Sing	2	flat	_	_
-4	ne	ne	CCONJ	_	_	6	cc	_	_
+4	ne	ne	CCONJ	_	ExtPos=CCONJ	6	cc	_	_
 5	de	de	ADV	_	_	4	fixed	_	_
 6	Mary	Mary	PROPN	_	Case=Nom|Number=Sing	2	conj	_	_
 7	Brown	Brown	PROPN	_	Case=Nom|Number=Sing	6	flat	_	_

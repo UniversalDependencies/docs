@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-262 nodes (0%) are attached to their parents as `parataxis`.
+285 nodes (0%) are attached to their parents as `parataxis`.
 
-151 instances of `parataxis` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.27480916030534.
+153 instances of `parataxis` (54%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.19649122807018.
 
-The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (177; 68% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (37; 14% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (15; 6% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (11; 4% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-X.html">X</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `parataxis`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (180; 63% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (45; 16% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (15; 5% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (11; 4% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (7; 2% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-X.html">X</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,8 +28,8 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 4	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_08872
 5	dit	dire1	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_42_08873
 6	Jehan	Jean	PROPN	NOMpro	_	5	nsubj	_	XmlId=w_42_08874
-7	de	de	ADP	PRE	_	6	flat	_	XmlId=w_42_08875
-8	Paris	Paris	PROPN	NOMpro	_	6	flat	_	SpaceAfter=No|XmlId=w_42_08876
+7	de	de	ADP	PRE	_	8	case	_	XmlId=w_42_08875
+8	Paris	Paris	PROPN	NOMpro	_	6	nmod	_	SpaceAfter=No|XmlId=w_42_08876
 9	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_08877
 10	«	«	PUNCT	PONpga	_	13	punct	_	XmlId=w_42_08878
 11	vous	vous	PRON	PROper	PronType=Prs	13	nsubj	_	XmlId=w_42_08879
@@ -55,8 +55,8 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 6	,	,	PUNCT	PONfbl	_	7	punct	_	XmlId=w_42_08935
 7	dit	dire1	VERB	VERcjg	VerbForm=Fin	4	parataxis	_	XmlId=w_42_08936
 8	Jehan	Jean	PROPN	NOMpro	_	7	nsubj	_	XmlId=w_42_08937
-9	de	de	ADP	PRE	_	8	flat	_	XmlId=w_42_08938
-10	Paris	Paris	PROPN	NOMpro	_	8	flat	_	SpaceAfter=No|XmlId=w_42_08939
+9	de	de	ADP	PRE	_	10	case	_	XmlId=w_42_08938
+10	Paris	Paris	PROPN	NOMpro	_	8	nmod	_	SpaceAfter=No|XmlId=w_42_08939
 11	,	,	PUNCT	PONfbl	_	7	punct	_	XmlId=w_42_08940
 
 ~~~

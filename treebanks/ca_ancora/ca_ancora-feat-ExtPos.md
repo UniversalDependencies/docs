@@ -12,7 +12,7 @@ It occurs with 4 different values: `ADP`, `ADV`, `CCONJ`, `SCONJ`.
 6373 tokens (1%) have a non-empty value of `ExtPos`.
 135 types (0%) occur at least once with a non-empty value of `ExtPos`.
 90 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 9 part-of-speech tags: <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (3434; 1% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (927; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (771; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (617; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (225; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (150; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (128; 0% instances), <tt><a href="ca_ancora-pos-PART.html">PART</a></tt> (119; 0% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (3434; 1% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1046; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (771; 0% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (617; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (225; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (150; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (128; 0% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 ### `ADP`
 
@@ -32,16 +32,16 @@ The feature is used with 9 part-of-speech tags: <tt><a href="ca_ancora-pos-ADP.h
 
 ### `ADV`
 
-927 <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+1046 <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="ca_ancora-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (927; 100%), <tt><a href="ca_ancora-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (894; 96%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="ca_ancora-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1013; 97%), <tt><a href="ca_ancora-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (927; 89%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADP` (143; 15% of non-empty `ExtPos`): <em>juntament, fins, quant, entorn, enfront, enmig, prop, més, així, darrere</em>
-* `ADV` (214; 23% of non-empty `ExtPos`): <em>fins, així, més, prop, ben, enfront</em>
-* `CCONJ` (110; 12% of non-empty `ExtPos`): <em>així, juntament, ja, fins, enlloc, més</em>
-* `SCONJ` (460; 50% of non-empty `ExtPos`): <em>ja, encara, sempre, fins, així, només, Juntament, Quant, més</em>
+* `ADP` (152; 15% of non-empty `ExtPos`): <em>juntament, fins, quant, entorn, enfront, enmig, prop, més, no, així</em>
+* `ADV` (286; 27% of non-empty `ExtPos`): <em>fins, així, no, més, prop, ben, enfront</em>
+* `CCONJ` (148; 14% of non-empty `ExtPos`): <em>així, no, juntament, ja, fins, enlloc, més</em>
+* `SCONJ` (460; 44% of non-empty `ExtPos`): <em>ja, encara, sempre, fins, així, només, Juntament, Quant, més</em>
 
 <table>
   <tr><th>Paradigm <i>més</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th><th><tt>SCONJ</tt></th></tr>
@@ -130,21 +130,6 @@ The most frequent other feature values with which `DET` and `ExtPos` co-occurred
   <tr><td><tt><tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>una</em></td><td><em>una</em></td></tr>
 </table>
 
-### `PART`
-
-119 <tt><a href="ca_ancora-pos-PART.html">PART</a></tt> tokens (81% of all `PART` tokens) have a non-empty value of `ExtPos`.
-
-`PART` tokens may have the following values of `ExtPos`:
-
-* `ADP` (9; 8% of non-empty `ExtPos`): <em>no</em>
-* `ADV` (72; 61% of non-empty `ExtPos`): <em>no</em>
-* `CCONJ` (38; 32% of non-empty `ExtPos`): <em>no</em>
-
-<table>
-  <tr><th>Paradigm <i>no</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th><th><tt>CCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>no</em></td><td><em>no</em></td><td><em>no</em></td></tr>
-</table>
-
 ### `ADJ`
 
 2 <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `ExtPos`.
@@ -155,9 +140,4 @@ The most frequent other feature values with which `ADJ` and `ExtPos` co-occurred
 
 * `ADV` (1; 50% of non-empty `ExtPos`): <em>junt</em>
 * `SCONJ` (1; 50% of non-empty `ExtPos`): <em>igual</em>
-
-## Relations with Agreement in `ExtPos`
-
-The 10 most frequent relations where parent and child node agree in `ExtPos`:
-<tt>ADP --[<tt><a href="ca_ancora-dep-advmod.html">advmod</a></tt>]--> ADP</tt> (1; 100%).
 

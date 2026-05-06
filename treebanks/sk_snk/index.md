@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 The following people have contributed to making this treebank part of UD: Katarína Gajdošová, Mária Šimková, Daniel Zeman.
 
 Repository: [UD_Slovak-SNK](https://github.com/UniversalDependencies/UD_Slovak-SNK)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -80,6 +80,11 @@ Universal Dependencies guidelines. The original treebank was prepared by a team
 led by Katarína Gajdošová and Mária Šimková. Selection of sentences for this
 subset and conversion to Universal Dependencies was done by Dan Zeman.
 
+## Acknowledgments
+
+The improvements done in 2023–2026 benefited from
+the COST Action CA21167 [UniDive](https://unidive.lisn.upsaclay.fr/).
+
 ## References
 
 * Daniel Zeman (2017):
@@ -88,7 +93,6 @@ In: Jazykovedný časopis / Journal of Linguistics, ISSN 0021-5597,
 vol. 68, no. 2, pp. 385-395
 
 
-## Acknowledgments
 
 # Statistics of UD Slovak SNK
 

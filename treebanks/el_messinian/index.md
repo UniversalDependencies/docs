@@ -19,12 +19,12 @@ This treebank has been part of Universal Dependencies since the UD v2.17 release
 The following people have contributed to making this treebank part of UD: Stella Markantonatou, Katerina Mouzou, Vivian Stamou.
 
 Repository: [UD_Greek-Messinian](https://github.com/UniversalDependencies/UD_Greek-Messinian)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_messinian217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_messinian218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
-Genre: grammar-examples
+Genre: spoken
 
 Questions, comments?
 General annotation questions (either Greek-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -42,7 +42,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-Messenian is in the Souther group of dialects of Modern Greek to which also belongs the main variety (the Standard).
+Messenian is in the Southern group of dialects of Modern Greek to which also belongs the main variety (the Standard).
 
 
 

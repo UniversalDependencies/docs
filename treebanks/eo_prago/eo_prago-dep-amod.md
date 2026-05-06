@@ -45,7 +45,7 @@ The following 6 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 8 7 amod	color:blue
 1	7	7	NUM	_	_	9	nummod	_	SpaceAfter=No
 2	.	.	PUNCT	_	_	9	punct	_	_
-3	La	la	DET	_	Definite=Def	4	det	_	_
+3	La	la	DET	_	Definite=Def|PronType=Art	4	det	_	_
 4	gento	gento	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
 5	de	de	ADP	_	_	8	case	_	_
 6	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	_

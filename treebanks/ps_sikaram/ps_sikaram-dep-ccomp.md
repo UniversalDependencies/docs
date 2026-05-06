@@ -13,7 +13,7 @@ This relation is universal.
 15 instances of `ccomp` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 6.33333333333333.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (11; 73% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 7% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (11; 73% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 7% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -66,10 +66,10 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 8	،	،	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,|Gloss=,
 9	چې	چې	SCONJ	_	_	20	mark	_	Translit=če|LTranslit=če|Gloss=that
 10	پنج	پنج	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	20	nsubj:pass	_	Translit=panǰ|LTranslit=panǰ|Gloss=Five
-11	کتاب	کتاب	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	flat	_	Translit=kitấb|LTranslit=kitấb|Gloss=Books
+11	کتاب	کتاب	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	flat:name	_	Translit=kitấb|LTranslit=kitấb|Gloss=Books
 12	(	(	PUNCT	_	_	13	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
 13	پنج	پنج	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	appos	_	Translit=panǰ|LTranslit=panǰ|Gloss=Five
-14	ګنج	ګنج	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	flat	_	Translit=ganǰ|LTranslit=ganǰ|Gloss=Treasures|SpaceAfter=No
+14	ګنج	ګنج	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	13	flat:name	_	Translit=ganǰ|LTranslit=ganǰ|Gloss=Treasures|SpaceAfter=No
 15	)	)	PUNCT	_	_	13	punct	_	Translit=)|LTranslit=)|Gloss=)
 16	د	د	ADP	_	Case=Acc	17	case	_	Translit=dë|LTranslit=dë|Gloss=of
 17	خلکو	خلک	NOUN	_	Case=Acc|Gender=Masc|Number=Coll	19	nmod	_	Translit=xálko|LTranslit=xalk|Gloss=people

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `INTJ`
 
-There are 3 `INTJ` lemmas (1%), 3 `INTJ` types (1%) and 3 `INTJ` tokens (0%).
+There are 3 `INTJ` lemmas (1%), 3 `INTJ` types (0%) and 3 `INTJ` tokens (0%).
 Out of 15 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 15 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>а-а, абу, ыш</em>
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>А-а</em> (<tt><a href="koi_uh-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.250000).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.260870).
 
 The 1st highest number of forms (1) was observed with the lemma “а-а”: <em>А-а</em>.
 

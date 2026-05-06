@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 10 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-7406 tokens (15%) have a non-empty value of `PronType`.
+7407 tokens (15%) have a non-empty value of `PronType`.
 122 types (2%) occur at least once with a non-empty value of `PronType`.
 66 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_partut-pos-DET.html">DET</a></tt> (5315; 11% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (2042; 4% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (49; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_partut-pos-DET.html">DET</a></tt> (5316; 11% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt> (2042; 4% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt> (49; 0% instances).
 
 ### `DET`
 
-5315 <tt><a href="en_partut-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+5316 <tt><a href="en_partut-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="en_partut-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4675; 88%), <tt><a href="en_partut-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3785; 71%), <tt><a href="en_partut-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2957; 56%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="en_partut-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4676; 88%), <tt><a href="en_partut-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3786; 71%), <tt><a href="en_partut-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2957; 56%).
 
 `DET` tokens may have the following values of `PronType`:
 
@@ -29,8 +29,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Prs` (640; 12% of non-empty `PronType`): <em>his, their, its, our, your, my, her</em>
 * `Rcp` (4; 0% of non-empty `PronType`): <em>each, another</em>
 * `Rel` (1; 0% of non-empty `PronType`): <em>which</em>
-* `Tot` (59; 1% of non-empty `PronType`): <em>all</em>
-* `EMPTY` (1): <em>all</em>
+* `Tot` (60; 1% of non-empty `PronType`): <em>all</em>
 
 <table>
   <tr><th>Paradigm <i>another</i></th><th><tt>Rcp</tt></th><th><tt>Art</tt></th><th><tt>Ind</tt></th></tr>

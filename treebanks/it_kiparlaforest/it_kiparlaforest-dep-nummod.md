@@ -8,30 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-65 nodes (1%) are attached to their parents as `nummod`.
+110 nodes (1%) are attached to their parents as `nummod`.
 
-59 instances of `nummod` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.2.
+95 instances of `nummod` (86%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23636363636364.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (59; 91% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (3; 5% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (98; 89% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (6; 5% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (3; 3% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 nummod	color:blue
-1	bellissimo	bello	ADJ	_	Degree=Abs|Gender=Masc|Number=Sing	4	discourse	_	Begin=122.464|KID=82-0|OverlappingGroup=11
-2	qua~	quattro	NUM	_	_	5	reparandum	_	Interrupted=Yes|KID=82-1
-3	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|KID=82-2
-4	metti	mettere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=82-3
-5	quattro	quattro	NUM	_	NumType=Card	6	nummod	_	KID=82-4
-6	secondi	secondo	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	KID=82-5
-7	a	a	ADP	_	_	8	mark	_	KID=82-6
-8	trascrivere	trascrivere	VERB	_	VerbForm=Inf	4	xcomp	_	KID=82-7
-9	quella	quello	DET	_	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	KID=82-8
-10	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	End=125.19|KID=82-9
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 nummod	color:blue
+1	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	reparandum	_	KID=16-4|Prolonged=Yes
+2	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	KID=16-5
+3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=16-6
+4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=16-7
+5	costruita	costruire	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	KID=16-8|Prolonged=Yes
+6	intorno	intorno	ADV	_	ExtPos=ADP	9	case	_	KID=16-9
+7	a	a	ADP	_	_	6	fixed	_	KID=16-10a
+8	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	KID=16-10b
+9	anni	anno	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	KID=16-11|Prolonged=Yes
+10	cinquanta	cinquanta	NUM	_	NumType=Card	9	nummod	_	KID=16-12
+11	credo	credere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	discourse	_	End=49.35|ExtPos=DM|KID=16-13
 
 ~~~
 
@@ -59,20 +60,14 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 nummod	color:blue
-1	ah	ah	INTJ	_	_	8	discourse	_	Begin=1017.902|KID=671-0
-2	beh	beh	INTJ	_	_	8	discourse	_	KID=671-1
-3	mo	mo	ADV	_	_	8	discourse	_	KID=671-2
-4	undici	undici	NUM	_	NumType=Card	6	nummod	_	KID=671-3
-5	e	e	CCONJ	_	_	6	cc	_	KID=671-4
-6	mezza	mezza	ADJ	_	Gender=Fem|Number=Sing	8	obl	_	KID=671-5
-7	ti	ti	PRON	_	Number=Sing|Person=2|PronType=Prs	8	expl	_	Clitic=Yes|KID=671-6
-8	prepari	preparare	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=671-7
-9	prima	prima	ADV	_	_	8	advmod	_	End=1020.632|Intonation=WeaklyRising|KID=671-8
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 nummod	color:blue
+1	seicentodieci	seicentodieci	NUM	_	Gender=Masc|Number=Plur	3	nummod	_	Begin=829.362|KID=342-0
+2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	KID=342-1
+3	prima	primo	NUM	_	_	0	root	_	Interrupted=Yes|KID=342-2
 
 ~~~
 

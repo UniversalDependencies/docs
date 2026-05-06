@@ -8,35 +8,35 @@ udver: '2'
 
 This relation is universal.
 
-39 nodes (0%) are attached to their parents as `expl`.
+40 nodes (0%) are attached to their parents as `expl`.
 
-39 instances of `expl` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1025641025641.
+40 instances of `expl` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1.
 
-The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (39; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (40; 100% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 expl	color:blue
-1	«	«	PUNCT	_	_	4	punct	_	PunctType=Quot
-2	Μη	μην	PART	_	Polarity=Neg	4	advmod	_	_
-3	μου	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	iobj	_	_
-4	πεις	λέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	12	ccomp	_	_
-5	ότι	ότι	SCONJ	_	_	8	mark	_	_
-6	σου	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	iobj	_	_
-7	το	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	_	_
-8	έκαναν	κάνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	ccomp	_	_
-9	δώρο	δώρο	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
-10	»	»	PUNCT	_	_	4	punct	_	PunctType=Quot
-11	του	εγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	iobj	_	_
-12	λέει	λέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-13	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	Βλασόπουλος	Βλασόπουλος	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	12	punct	_	PunctType=Peri
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 expl	color:blue
+1	«	«	PUNCT	_	_	13	punct	_	PunctType=Quot|SpaceAfter=No
+2	Καλά	καλά	INTJ	_	_	13	discourse	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	13	punct	_	PunctType=Comm
+4	τη	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	γυναίκα	γυναίκα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+6	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	5	nmod	_	_
+7	και	και	CCONJ	_	_	9	cc	_	_
+8	τα	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	_
+9	παιδιά	παιδί	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	5	conj	_	_
+10	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	9	nmod	_	_
+11	δεν	δεν	PART	_	Polarity=Neg	13	advmod	_	_
+12	τα	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	13	expl	_	_
+13	σκέφτηκες	σκέφτομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
+14	;	;	PUNCT	_	_	13	punct	_	PunctType=Qest|SpaceAfter=No
+15	»	»	PUNCT	_	_	13	punct	_	PunctType=Quot
 
 ~~~
 

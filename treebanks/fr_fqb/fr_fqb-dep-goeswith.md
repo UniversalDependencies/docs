@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 3 4 goeswith	color:blue
 1	Combien	combien	ADV	_	PronType=Int	5	nsubj	_	_
 2	de	de	ADP	_	_	3	case	_	_
-3	Porto	Porto	NOUN	_	Typo=Yes	1	obl:arg	_	CorrectForm=Porto-Ricains
+3	Porto	porto-ricain	NOUN	_	Typo=Yes	1	obl:arg	_	CorrectForm=Porto-Ricains
 4	Ricains	_	X	_	_	3	goeswith	_	_
 5	habitent	habiter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	dans	dans	ADP	_	_	8	case	_	_

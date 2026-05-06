@@ -22,5 +22,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ota_dudu-pos-ADV.ht
 
 * `Cmp` (2; 67% of non-empty `Degree`): <em>daha, daḫı</em>
 * `Sup` (1; 33% of non-empty `Degree`): <em>en</em>
-* `EMPTY` (714): <em>baʿdehu, yine, ḥattâ, pes, hemân, bile, nâ-gâh, andan, hep, ziyâde</em>
+* `EMPTY` (906): <em>yine, baʿdehu, pes, ḥattā, andan, bile, hemān, baʿdehū, hep, nā-gāh</em>
 

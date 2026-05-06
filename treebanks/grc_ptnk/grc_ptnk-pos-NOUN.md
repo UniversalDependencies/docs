@@ -46,10 +46,10 @@ The 3rd highest number of forms (13) was observed with the lemma “γυνή”:
 
 `NOUN` occurs with 3 features: <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt> (6074; 100% instances), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt> (6074; 100% instances), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt> (6068; 100% instances)
 
-`NOUN` occurs with 16 feature-value pairs: `Case=Acc`, `Case=Acc,Nom`, `Case=Acc,Nom,Voc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Nom,Voc`, `Case=Voc`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Masc,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
+`NOUN` occurs with 15 feature-value pairs: `Case=Acc`, `Case=Acc,Nom`, `Case=Acc,Nom,Voc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Nom,Voc`, `Case=Voc`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
-`NOUN` occurs with 51 feature combinations.
-The most frequent feature combination is `Case=Acc|Gender=Fem|Number=Sing` (644 tokens).
+`NOUN` occurs with 48 feature combinations.
+The most frequent feature combination is `Case=Acc|Gender=Fem|Number=Sing` (650 tokens).
 Examples: <em>γῆν, γυναῖκα, πόλιν, διαθήκην, θυγατέρα, χεῖρα, κιβωτόν, νύκτα, χάριν, παιδίσκην</em>
 
 

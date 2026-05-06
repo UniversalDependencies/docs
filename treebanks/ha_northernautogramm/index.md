@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Bernard Caron.
 
 Repository: [UD_Hausa-NorthernAutogramm](https://github.com/UniversalDependencies/UD_Hausa-NorthernAutogramm)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udha_northernautogramm217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udha_northernautogramm218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -69,21 +69,21 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 
 ## Features
 
-[Aspect](ha_northernautogramm-feat-Aspect.html) – [Case](ha_northernautogramm-feat-Case.html) – [Definite](ha_northernautogramm-feat-Definite.html) – [Deixis](ha_northernautogramm-feat-Deixis.html) – [ExtPos](ha_northernautogramm-feat-ExtPos.html) – [Gender](ha_northernautogramm-feat-Gender.html) – [Mood](ha_northernautogramm-feat-Mood.html) – [Number](ha_northernautogramm-feat-Number.html) – [PartType](ha_northernautogramm-feat-PartType.html) – [Person](ha_northernautogramm-feat-Person.html) – [Polarity](ha_northernautogramm-feat-Polarity.html) – [PronType](ha_northernautogramm-feat-PronType.html) – [Reflex](ha_northernautogramm-feat-Reflex.html) – [Tense](ha_northernautogramm-feat-Tense.html) – [VerbForm](ha_northernautogramm-feat-VerbForm.html) – [Voice](ha_northernautogramm-feat-Voice.html)
+[Aspect](ha_northernautogramm-feat-Aspect.html) – [Case](ha_northernautogramm-feat-Case.html) – [Definite](ha_northernautogramm-feat-Definite.html) – [Deixis](ha_northernautogramm-feat-Deixis.html) – [Evident](ha_northernautogramm-feat-Evident.html) – [ExtPos](ha_northernautogramm-feat-ExtPos.html) – [Foreign](ha_northernautogramm-feat-Foreign.html) – [Gender](ha_northernautogramm-feat-Gender.html) – [Mood](ha_northernautogramm-feat-Mood.html) – [Number](ha_northernautogramm-feat-Number.html) – [PartType](ha_northernautogramm-feat-PartType.html) – [Person](ha_northernautogramm-feat-Person.html) – [Polarity](ha_northernautogramm-feat-Polarity.html) – [PronType](ha_northernautogramm-feat-PronType.html) – [Reflex](ha_northernautogramm-feat-Reflex.html) – [Tense](ha_northernautogramm-feat-Tense.html) – [VerbForm](ha_northernautogramm-feat-VerbForm.html) – [Voice](ha_northernautogramm-feat-Voice.html)
 
 ## Relations
 
-[acl](ha_northernautogramm-dep-acl.html) – [acl:relcl](ha_northernautogramm-dep-acl-relcl.html) – [advcl](ha_northernautogramm-dep-advcl.html) – [advcl:cleft](ha_northernautogramm-dep-advcl-cleft.html) – [advmod](ha_northernautogramm-dep-advmod.html) – [amod](ha_northernautogramm-dep-amod.html) – [appos](ha_northernautogramm-dep-appos.html) – [aux](ha_northernautogramm-dep-aux.html) – [case](ha_northernautogramm-dep-case.html) – [cc](ha_northernautogramm-dep-cc.html) – [cc:preconj](ha_northernautogramm-dep-cc-preconj.html) – [ccomp](ha_northernautogramm-dep-ccomp.html) – [compound](ha_northernautogramm-dep-compound.html) – [compound:prt](ha_northernautogramm-dep-compound-prt.html) – [conj](ha_northernautogramm-dep-conj.html) – [cop](ha_northernautogramm-dep-cop.html) – [dep](ha_northernautogramm-dep-dep.html) – [det](ha_northernautogramm-dep-det.html) – [discourse](ha_northernautogramm-dep-discourse.html) – [dislocated](ha_northernautogramm-dep-dislocated.html) – [fixed](ha_northernautogramm-dep-fixed.html) – [flat:name](ha_northernautogramm-dep-flat-name.html) – [iobj](ha_northernautogramm-dep-iobj.html) – [mark](ha_northernautogramm-dep-mark.html) – [nmod](ha_northernautogramm-dep-nmod.html) – [nsubj](ha_northernautogramm-dep-nsubj.html) – [nummod](ha_northernautogramm-dep-nummod.html) – [obj](ha_northernautogramm-dep-obj.html) – [obl](ha_northernautogramm-dep-obl.html) – [obl:arg](ha_northernautogramm-dep-obl-arg.html) – [parataxis](ha_northernautogramm-dep-parataxis.html) – [punct](ha_northernautogramm-dep-punct.html) – [reparandum](ha_northernautogramm-dep-reparandum.html) – [root](ha_northernautogramm-dep-root.html) – [vocative](ha_northernautogramm-dep-vocative.html) – [xcomp](ha_northernautogramm-dep-xcomp.html)
+[acl](ha_northernautogramm-dep-acl.html) – [acl:relcl](ha_northernautogramm-dep-acl-relcl.html) – [advcl](ha_northernautogramm-dep-advcl.html) – [advcl:cleft](ha_northernautogramm-dep-advcl-cleft.html) – [advmod](ha_northernautogramm-dep-advmod.html) – [amod](ha_northernautogramm-dep-amod.html) – [appos](ha_northernautogramm-dep-appos.html) – [aux](ha_northernautogramm-dep-aux.html) – [case](ha_northernautogramm-dep-case.html) – [cc](ha_northernautogramm-dep-cc.html) – [cc:preconj](ha_northernautogramm-dep-cc-preconj.html) – [ccomp](ha_northernautogramm-dep-ccomp.html) – [compound](ha_northernautogramm-dep-compound.html) – [compound:prt](ha_northernautogramm-dep-compound-prt.html) – [conj](ha_northernautogramm-dep-conj.html) – [cop](ha_northernautogramm-dep-cop.html) – [dep](ha_northernautogramm-dep-dep.html) – [det](ha_northernautogramm-dep-det.html) – [discourse](ha_northernautogramm-dep-discourse.html) – [dislocated](ha_northernautogramm-dep-dislocated.html) – [fixed](ha_northernautogramm-dep-fixed.html) – [flat](ha_northernautogramm-dep-flat.html) – [flat:foreign](ha_northernautogramm-dep-flat-foreign.html) – [flat:name](ha_northernautogramm-dep-flat-name.html) – [iobj](ha_northernautogramm-dep-iobj.html) – [mark](ha_northernautogramm-dep-mark.html) – [nmod](ha_northernautogramm-dep-nmod.html) – [nmod:poss](ha_northernautogramm-dep-nmod-poss.html) – [nsubj](ha_northernautogramm-dep-nsubj.html) – [nummod](ha_northernautogramm-dep-nummod.html) – [obj](ha_northernautogramm-dep-obj.html) – [obl](ha_northernautogramm-dep-obl.html) – [obl:arg](ha_northernautogramm-dep-obl-arg.html) – [obl:mod](ha_northernautogramm-dep-obl-mod.html) – [parataxis](ha_northernautogramm-dep-parataxis.html) – [punct](ha_northernautogramm-dep-punct.html) – [reparandum](ha_northernautogramm-dep-reparandum.html) – [root](ha_northernautogramm-dep-root.html) – [vocative](ha_northernautogramm-dep-vocative.html) – [xcomp](ha_northernautogramm-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 423 sentences, 4116 tokens and 4158 syntactic words.</li>
+<li>This corpus contains 1305 sentences, 15324 tokens and 15424 syntactic words.</li>
 </ul>
 
 <ul>
-<li>All tokens in this corpus are followed by a space.</li>
+<li>This corpus contains 1332 tokens (9%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -91,12 +91,12 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 </ul>
 
 <ul>
-<li>This corpus contains 41 types of words that contain both letters and punctuation. Examples: sa'ànnan, aː'àː, sa’ànnan, s'ayàː, ta', waːc'èː, ya', baː'à, du', yas', aː’àː, duːc'ìː, gàyyaː., kaːc'èː, koː'ìnaː, taːs'às, wa'ànda, àrbà'in, c’eːrèː, c’ìnkai, dà', geːmèː!//], gùdaː-gudàn, ha', he'è:, his'ariː, ki', kwànce-kwancèn, kwànce-kwànce, kàmas', láːtà'addù, nân., s'aisà, s'àkaːniːnai, s'àkaːnìn, sà'addà, taːs'àtta, wàhalà', ƴa', ɗan'ubancìː, ḿː'm̀ː</li>
+<li>This corpus contains 79 types of words that contain both letters and punctuation. Examples: sa'ànnan, ya', 'YabBàraːya, hàlle-hàllan, ta', kaːc'èː, Gilaːgèː-Gilaːgè, aː'àː, Gilaːgè-Gilaːgè, baː'à, c'eːrèː, sa’ànnan, waːc'èː, 'YabBaraːya, a'àː, s'ayàː, Gilaːgèː-Gilaːgèː, c'ìnkai, du', koː'ìnaː, yas', 'yab, 'yan, aː’àː, c'aːwàd, daːma-daːma, duːc'ìː, dà', gùdaː-gudàn, ha', hàlleː-hàllan, hànc'iː, jimma'àː, mòːc'iː, nà'am, taːs'às, wa'ànda, àrbà'in, 'yag, 'yak, 'yam, 'yash, 'yat, Hàwwaː'ù, bà'à, bùːra', c'inoːniː, c’eːrèː, eː'eː, geːmèː!//]</li>
 </ul>
 
 <ul>
-<li>This corpus contains 42 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 21 types of multi-word tokens. Examples: ankài, kukài, shikài, mis, bân, sukài, sunkài, sàːmai, tai, tassan, abìnga, akài, askaː, bâsshì, ka, kai, ki, nai, nan, santà, àihwai.</li>
+<li>This corpus contains 100 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 33 types of multi-word tokens. Examples: gàrai, shikài, sunkài, ankài, kukài, tai, kai, sukài, kunkài, mis, nikài, akài, bân, sàːmai, tassan, abìnga, ai, askaː, bâsshì, ka, kakài, ki, kwak, mukài, nai, nan, santà, shiː, shì, sunkai, wag, wâː, àihwai.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -109,26 +109,27 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 </ul>
 
 <ul>
-<li>This corpus contains 14 word types tagged as particles (PART): ba, baːbù, bàː, bâː, dai, dà, gàː, hwa, kuma, kòː, ta, zâː, àkwai, à~</li>
+<li>This corpus contains 33 word types tagged as particles (PART): ba, baːbù, bàƙoː, bàː, bâː, dai, dà, dàk, dàsh, gàː, hwa, kan, koː, kuma, kâm, kèːnan, kòː, maː, mài, màːsu, na, naː, nàː, shîn, ta, taː, tàː, tôː, wai, zan, zâː, àkwai, à~</li>
 </ul>
 
 <ul>
-<li>This corpus contains 42 lemmas tagged as pronouns (PRON): dukà, ita, ka, kai, keː, koːmi, koːmiː, koːwaː, kâinai, kânka, mai, mat, matà, maː, min, miː, musù, naːkù, naːshì, naːtà, ni, niː, níː, shi, shiː, shì, su, suː, sà'addà, ta, taːkà, taːsù, wandà, wani, wanèː, wàccan, wàgga, wàncân, wàncéːnìyaː, wànga, wànnan, wâggàːshi</li>
+<li>This corpus contains 73 lemmas tagged as pronouns (PRON): ", ., can, cân, dukà, indà, ita, ka, kai, karɓ-, keː, ki, koːmi, koːmiː, koːwanèː, koːwaː, ku, kuː, kà, kâi, kâinai, kâinaː, kânka, kânki, mai, maidà, makà, mat, matà, maː, mikì, min, miː, mu, mukù, munà, musù, muː, mìː, nan, nau, naːkà, naːkì, naːkù, naːshì, naːtà, ni, niː, nàː, nân, níː, shi, shiː, shì, su, suwaːnè, suwàː, suː, sà'addà, sù, ta, taːkà, taːsù, wandà, wani, wanèː, waː, waːnèː, wàdà, wàndoː, wàː, wâggàːshi, yà</li>
 </ul>
 
 <ul>
-<li>This corpus contains 10 lemmas tagged as determiners (DET): can, dukà, ga, nan, su, waccè, wani, wanèː, wàccân, yak</li>
+<li>This corpus contains 16 lemmas tagged as determiners (DET): ", ., can, cân, dukà, nan, nân, su, waccè, wacèː, wani, wanèː, wasu, wata, wàndoː, wàneː</li>
 </ul>
 
 <ul>
-<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: dukà, su, wani, wanèː</li>
+<li>Out of the above, 11 lemmas occurred sometimes as PRON and sometimes as DET: ", ., can, cân, dukà, nan, nân, su, wani, wanèː, wàndoː</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): neː, nàː, yaː, yà, yâː, zâi</li>
 </ul>
 
 <ul>
+<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: yaː</li>
 </ul>
 
 <ul>
@@ -138,7 +139,7 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Part
   <ul>
-    <li>VERB: bìye, tàhe, kwànce, màːlìye, tsàye, tàushe, zàmne</li>
+    <li>VERB: tàhe, bìye, tsàye, zàmne, shìrye, gùrhwàːne, bànye, bùːɗe, kwànce, màːlìye</li>
   </ul>
   </li>
 </ul>
@@ -146,7 +147,7 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: tàhiyàː, yîː, zakkùwaː, sôn, bìyash, gàmuwaː, cîn, kwaːnaː, gudùː, hwaːɗùwaː</li>
+    <li>VERB: yîː, tàhiyàː, sôn, zakkùwaː, bìɗaː, zuwàː, cîn, sôː, bìyash, gàmuwaː</li>
   </ul>
   </li>
 </ul>
@@ -161,14 +162,17 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: wacèː, ƴag, ƴak</li>
-      <li>ADP: ta</li>
-      <li>AUX: tac, tanàː, tà, taː, tay, tas, ta', tab, tak, takè</li>
-      <li>DET: wata, tan, wàccân, waccè</li>
-      <li>NOUN: dàːmisàː, kuːraː, gàyyaː, shìgattà, duːniyàː, rân, raːnakkà, raːnaː, uwattà, uwaːtai</li>
-      <li>PRON: ita, tà, wàccan, matà, ta, wàgga, keː, maw, naːtà, wata</li>
-      <li>VERB: tàhiyàː, zakkùwaː, bìyash, gàmuwaː, gàyyaː., hwaːɗùwaː, kankaryaː, sarɓaː, bìɗaː, cêːwaː</li>
-      <li>VERB-Vnoun: tàhiyàː, zakkùwaː, bìyash, gàmuwaː, hwaːɗùwaː, kankaryaː, sarɓaː, bìɗaː, cêːwaː, daɗèːwaː</li>
+      <li>ADJ: 'yab, hàlle-hàllan, ƙaːtanyàː, 'yak, 'yash, 'yat, kàrad, wacèː, ƴag, ƴak</li>
+      <li>ADP: tsakaɗ</li>
+      <li>AUX: tac, tà, taː, kì, tanàː, tay, tak, taz, ta', tas</li>
+      <li>DET: wata, tan, wàccân, waccè, wacèː, wàcceː, wàttan</li>
+      <li>NOUN: hàukaː, kuːraː, kyàutaː, saːnìyaː, laːhiyàː, gàyyaː, mutuwàː, dàːmisàː, raggàː, duːkìyaː</li>
+      <li>NUM: shiddà</li>
+      <li>PART: ta, tàː, taː</li>
+      <li>PRON: ita, matà, tà, ta, keː, wàccan, naːkì, wàgga, maw, kânki</li>
+      <li>PROPN: gaskiyaː</li>
+      <li>VERB: tàhiyàː, zakkùwaː, bìyash, gàmuwaː, bìɗaː, hwaːɗùwaː, cêːwaː, kankaryaː, sarɓaː, cèː</li>
+      <li>VERB-Vnoun: tàhiyàː, zakkùwaː, bìyash, gàmuwaː, bìɗaː, hwaːɗùwaː, kankaryaː, sarɓaː, cêːwaː, daɗèːwaː</li>
     </ul>
   </li>
 </ul>
@@ -176,14 +180,17 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: ɗan, baƙiː, hwarin, hwariː, namijì, ƙàramiː, baƙin, hìyayyem, jan</li>
-      <li>AUX: yac, yaː, shinàː, kaː, shì, yaz, kà, yat, yay, yah</li>
-      <li>DET: wani, wanèː</li>
-      <li>NOUN: kàreː, sarkin, gidaː, bàːkin, sâː, àbin, ɗan, yaːɗaː, kàram, mùtun</li>
-      <li>PRON: shiː, shì, shi, mai, kai, maː, ka, kà, wani, wànnan</li>
-      <li>PROPN: Buːzuː, Bàhaushèː, Bàgawailèː</li>
-      <li>VERB: yîː, sôn, cîn, kwaːnaː, gudùː, sauraːreː, taːshìː, hwaɗìː, yîn, zaman</li>
-      <li>VERB-Vnoun: yîː, sôn, cîn, kwaːnaː, gudùː, taːshìː, hwaɗìː, yîn, zaman, zamaː</li>
+      <li>ADJ: ɗan, namijì, ɗam, baƙiː, ƙàramiː, hwarin, hwariː, wajjan, yànkakkeː, ƙaːtòn</li>
+      <li>ADP: bàːkin, gàreː</li>
+      <li>AUX: yac, yaː, shì, shinàː, kà, yat, yay, yak, yaz, kaː</li>
+      <li>DET: wani, wànga, wanèː, wàncân, wàndon, wânga</li>
+      <li>NOUN: maulòː, yaːƙìː, gidaː, doːkìː, gàriː, yaːròː, doːkìːnai, sarkiː, mùtun, loːkàcîn</li>
+      <li>NUM: buy</li>
+      <li>PART: mài, bàƙoː, naː, tôː, àkwai</li>
+      <li>PRON: mai, shiː, shì, shi, kai, kà, ka, makà, naːshì, wandà</li>
+      <li>PROPN: Ɗiɗìː, Tatìː, Garbaː, Buːzuː, Bàhaushèː, Garbà, Bàgawailèː, zaːrùmiː</li>
+      <li>VERB: yîː, sôn, cîn, zuwàː, kwan, sôː, gudùː, zamaː, bugùn, ciːzòn</li>
+      <li>VERB-Vnoun: yîː, sôn, cîn, zuwàː, sôː, zamaː, bugùn, ciːzòn, ganin, kwaːnaː</li>
     </ul>
   </li>
 </ul>
@@ -196,14 +203,15 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: maːtaː</li>
-      <li>ADP: cikinsù, tsàkaːninsù</li>
-      <li>AUX: sunkà, sunàː, sun, sukà, sù, kukà, kun, bàkù, kù, mukà</li>
-      <li>DET: su, wasu</li>
-      <li>NOUN: ruwaː, ƴan, mutàːneː, cinàn, giːwàːyeː, ruwan, zàːrùmmai, bambanciyassù, baːyuːnai, gardamàssu</li>
-      <li>PRON: suː, musù, sù, su, wa'ànda, wasu, naːkù, taːsù</li>
-      <li>PROPN: Tuːraːwaː, Buːzàːyeː, Hausaːwaː, Baːgayaːwaː, Gàwàllai</li>
-      <li>VERB-Vnoun: tàhiyàkkù, ɓaːcìnku, ɓaːcìnsu</li>
+      <li>ADJ: jàkkai, maːtaː, hàlle-hàllan, 'yan, hwarhwaruː, mâyyaː, shaːnuː, 'yam, hwarhwarun, hìyayyem</li>
+      <li>AUX: sunkà, kù, sunàː, sun, sù, naː, kun, kukà, mun, sukà</li>
+      <li>DET: wasu, su, waɗànga, waɗànnan</li>
+      <li>NOUN: jàkkai, ruwaː, shaːnuː, mutàːneː, itàːceː, màːlàmmai, baːyuː, yâːra, kaːnuː, mazaː</li>
+      <li>PART: màːsu</li>
+      <li>PRON: sù, musù, suː, mukù, kù, su, muː, waɗànga, munà, mù</li>
+      <li>PROPN: Banìyoːgubà, 'YabBàraːya, Tuːraːwaː, Buːzàːyeː, Hausaːwaː, Baːgayaːwaː, Gàwàllai, Baniyoːgubà</li>
+      <li>VERB: tàhiyàkkù, kwaːnankù, shaːnun, yi, ɓaːcìnku</li>
+      <li>VERB-Vnoun: kwaːnankù, tàhiyàkkù, ɓaːcìnku</li>
     </ul>
   </li>
 </ul>
@@ -211,8 +219,11 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Sing
     <ul>
-      <li>AUX: ìn, naː, inàː, bàn, ani, nikà, nim, nis, nish, niy</li>
-      <li>PRON: niː, min, ni, nì, shiː</li>
+      <li>AUX: ìn, naː, baːnì, inàː, bàn, nikà, nikè, niy, bân, nish</li>
+      <li>NOUN: shaːnuːnaː, làllaƙàːtaː, makyàːyanaː, maulòːnaː, tsoːhoːnaː, wàndoːnaː, yàboːnaː, zanèːnaː, àbiːnaː, ɓàraːwòːnaː</li>
+      <li>PART: mài</li>
+      <li>PRON: niː, min, ni, nau, nì, minì, kâinaː, koːwaː, kâina</li>
+      <li>VERB: kiràːnaː, shaːnuːnaː</li>
     </ul>
   </li>
 </ul>
@@ -222,10 +233,18 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 </ul>
 
 <ul>
+  <li>Acc
+    <ul>
+      <li>PRON: sù, shì, shi, ni, kà, kù, ka, mù, su, tà</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dat
     <ul>
-      <li>ADP: mà</li>
-      <li>PRON: mai, musù, maː, min, matà, maw</li>
+      <li>ADP: mà, màː, wà</li>
+      <li>PRON: mai, musù, min, matà, makà, mukù, maː, munà, minì, maw</li>
     </ul>
   </li>
 </ul>
@@ -233,11 +252,8 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Gen
     <ul>
-      <li>ADP: cikinsù, tsàkaːninsù</li>
-      <li>NOUN: shìgattà, raːnakkà, uwaːtai, yâːtaː, bambanciyassù, baːyuːnai, gardamàssu, rânta, uwattà, àbinkà</li>
-      <li>PRON: naːshì, ka, naːkù, naːtà, taːkà, taːsù</li>
-      <li>VERB: tàhiyàːtai, biyànka, ganiːnai, kirànka, sônta, taːs'àtta, tàhiyàkkà, tàhiyàkkù, tàhiyàːtay, tàmbayàːtai</li>
-      <li>VERB-Vnoun: biyànka, ganiːnai, kirànka, sônta, taːs'àtta, tàhiyàkkà, tàhiyàkkù, tàhiyàːtai, tàhiyàːtay, tàmbayàːtai</li>
+      <li>PART: na, ta</li>
+      <li>PRON: nau, naːshì, naːkà, naːkì, naːkù, ka, naːtà, taːkà, taːsù, wàndonkà</li>
     </ul>
   </li>
 </ul>
@@ -245,7 +261,7 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Nom
     <ul>
-      <li>PRON: shiː, ita, niː, suː, kai, keː, shi</li>
+      <li>PRON: shiː, niː, kai, suː, ita, muː, keː, kuː, kêː, shi</li>
     </ul>
   </li>
 </ul>
@@ -258,11 +274,14 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Cons
     <ul>
-      <li>ADJ: ɗan, hwarin, jan, baƙin, hìyayyem, ƴag, ƴak</li>
-      <li>NOUN: sarkin, bàːkin, àbin, ɗan, ƴan, kàram, shìgattà, loːkàcin, wurin, wurîn</li>
-      <li>PROPN: Ìlleːlàg</li>
-      <li>VERB: sôn, bìyash, cîn, taːs'às, tàhiyàːtai, yîn, zaman, aihùwaz, biyànka, bìyam</li>
-      <li>VERB-Vnoun: sôn, bìyash, cîn, taːs'às, yîn, zaman, aihùwaz, biyànka, bìyam, ganiːnai</li>
+      <li>ADJ: ɗan, hàlle-hàllan, ɗam, hwarin, jan, 'yab, 'yan, ƙaːtòn, 'yak, 'yam</li>
+      <li>DET: wàndon</li>
+      <li>NOUN: loːkàcîn, kiːyòn, àbin, kiɗìn, wurin, makyàːyin, ɗan, suːnan, doːkìn, gàrîn</li>
+      <li>NUM: buy</li>
+      <li>PART: tôː</li>
+      <li>PROPN: Banìyoːgubà, Ìlleːlàg, Garbà, Gilaːgyàn, Baniyoːgubà, Garbaː</li>
+      <li>VERB: sôn, cîn, bìyash, bugùn, ciːzòn, ganin, tàhiyàkkù, tàhiyàːtai, zaman, kashìn</li>
+      <li>VERB-Vnoun: sôn, cîn, bìyash, bugùn, ciːzòn, ganin, tàhiyàːtai, zaman, kashìn, kaːmùn</li>
     </ul>
   </li>
 </ul>
@@ -270,10 +289,7 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Def
     <ul>
-      <li>ADV: nan</li>
-      <li>DET: nan, tan</li>
-      <li>NOUN: dumèn, kòːgôn, naːmàn</li>
-      <li>PRON: wànnan</li>
+      <li>NOUN: dumèn, kòːgôn, naːmàn, tabkìn, tsoːhôn</li>
     </ul>
   </li>
 </ul>
@@ -281,7 +297,7 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Ind
     <ul>
-      <li>NOUN: ruwaː, kàreː, ayaː, dàːmisàː, gidaː, kuːraː, gàyyaː, sâː, yaːɗaː, mutàːneː</li>
+      <li>NOUN: àkaràs, bisàː, asiggìrìː, daːjìː, hwaɗàː, kiːyòː, mutàːneː, takubbàː, ƙwàːriː</li>
     </ul>
   </li>
 </ul>
@@ -289,8 +305,8 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Spec
     <ul>
-      <li>DET: wani, wasu</li>
-      <li>PRON: wani, wasu</li>
+      <li>DET: wani, wasu, wata</li>
+      <li>PRON: wani, wasu, wata</li>
     </ul>
   </li>
 </ul>
@@ -306,8 +322,8 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Neg
     <ul>
-      <li>AUX: bài, baːkà, baː'à, bàkà, bàkù, baːmù, bàn, bàtà, baːkù, bàsù</li>
-      <li>PART: ba, baːbù, bâː, bàː</li>
+      <li>AUX: bài, baːnì, bàn, baːshì, bâi, bàkà, bàsù, baːkà, bàkù, bàmù</li>
+      <li>PART: ba, baːbù, bàː, bâː, dàk, dàsh</li>
     </ul>
   </li>
 </ul>
@@ -321,17 +337,9 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 </ul>
 
 <ul>
-  <li>Aor
-    <ul>
-      <li>AUX: shì, à, ìn, tà, kà, sù, kì, kù, mù</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li>Iter
     <ul>
-      <li>PART: ta</li>
+      <li>PART: ta, kan, zan</li>
     </ul>
   </li>
 </ul>
@@ -339,23 +347,7 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Perf
     <ul>
-      <li>AUX: yaː, kaː, naː, taː, sun, kun, mun, an, kyaː</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>PerfBkg
-    <ul>
-      <li>AUX: yac, ankà, sunkà, tac, yaz, yat, yay, yah, yas, yak</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>PerfNeg
-    <ul>
-      <li>AUX: bài, bàkà, bàkù, bàn, bàtà, bàsù</li>
+      <li>AUX: yac, sunkà, yaː, ankà, yat, yay, yak, tac, yaz, kaː</li>
     </ul>
   </li>
 </ul>
@@ -363,23 +355,7 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Prog
     <ul>
-      <li>AUX: shinàː, tanàː, anàː, inàː, sunàː, kanàː, nàː, kukà, kunàː</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>ProgBkg
-    <ul>
-      <li>AUX: akà, sukà, kukà, kà, shikà, mukà, kakà, nikà, takà</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>ProgNeg
-    <ul>
-      <li>AUX: baː'à, baːkà, baːmù, baːkù</li>
+      <li>AUX: shinàː, sunàː, kà, anàː, akà, tanàː, baːnì, inàː, shikà, baːshì</li>
     </ul>
   </li>
 </ul>
@@ -389,9 +365,25 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 </ul>
 
 <ul>
-  <li>Jus
+  <li>Imp
     <ul>
-      <li>VERB: bàri, shìga, dìːba, i, rùmaː, tàhi, wùceː, saː, shìryaː, ƙàːraː</li>
+      <li>VERB: yaː</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pot
+    <ul>
+      <li>AUX: amu, ani</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX: shì, kà, ìn, à, kù, tà, kì, sù, mù, yà</li>
     </ul>
   </li>
 </ul>
@@ -403,15 +395,7 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Fut
     <ul>
-      <li>AUX: zâːki, zâːku, zâːshi</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Pred
-    <ul>
-      <li>AUX: ani</li>
+      <li>AUX: zâi, zâːki, zaː'à, zân, zâːku, zâːmu, zâːshi, zâːsu, zâːta</li>
     </ul>
   </li>
 </ul>
@@ -423,7 +407,8 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Cau
     <ul>
-      <li>VERB: tassheː, bâsshee, hîrkassheː, s'aisà, tassà, tâːkassà, jèːwàyèsshi, tàssa</li>
+      <li>VERB: tarsà, tassà, baːsà, taras, tassheː, tarsuwàː, biːsheː, bâssheː, bâːkassà, hîrkassheː</li>
+      <li>VERB-Vnoun: baːsuwàː, tarsuwàː</li>
     </ul>
   </li>
 </ul>
@@ -431,11 +416,22 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Stat
     <ul>
-      <li>VERB-Part: bìye, tàhe, kwànce, màːlìye, tsàye, tàushe, zàmne</li>
+      <li>VERB-Part: tàushe, zàmne</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Evident</a></li>
+</ul>
+
+<ul>
+  <li>Nfh
+    <ul>
+      <li>PART: wai</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
@@ -447,9 +443,9 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Dem
     <ul>
-      <li>ADV: nan, nân, cân, nanânga, can, ceːnìyaː, nân.</li>
-      <li>DET: ga, wàccân, can, nan, tan</li>
-      <li>PRON: wàccan, wàgga, wànnan, wàncân, wâggàːshi, wàncéːnìyaː, wànga</li>
+      <li>ADV: nan, nân, can, cân, nanânga, ceːnìyaː</li>
+      <li>DET: nan, ga, tan, wànga, waɗànga, waɗànnan, wàccân, can, ceːnìyaː, wàncân</li>
+      <li>PRON: waɗànga, wàccan, wànga, wànnan, wàgga, wàncân, waɗàncân, wâggàːshi, wannàn, waɗànnan</li>
     </ul>
   </li>
 </ul>
@@ -458,8 +454,8 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
   <li>Ind
     <ul>
       <li>ADV: koː'ìnaː</li>
-      <li>DET: wata, wani, wasu</li>
-      <li>PRON: koːmiː, koːwaː, wani, wasu, wata</li>
+      <li>DET: wani, wasu, wata</li>
+      <li>PRON: koːwaː, koːmiː, wani, wasu, koːwanèː, suwaːnè, wata, waːnèː</li>
     </ul>
   </li>
 </ul>
@@ -468,9 +464,9 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
   <li>Int
     <ul>
       <li>ADJ: wacèː</li>
-      <li>ADV: ƙàːƙàː, ìnaː</li>
-      <li>DET: wanèː, waccè</li>
-      <li>PRON: miː, wanèː</li>
+      <li>ADV: ìnaː, ƙàːƙàː, yaushèː</li>
+      <li>DET: wanèː, waccè, wacèː, wàcceː</li>
+      <li>PRON: miː, waː, mìː, koːwanèː, suwàː, wanèː, koːwaː, wàː</li>
     </ul>
   </li>
 </ul>
@@ -478,7 +474,7 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: shiː, ita, shì, shi, mai, niː, suː, musù, tà, sù</li>
+      <li>PRON: mai, shiː, niː, shì, sù, shi, musù, kai, min, suː</li>
     </ul>
   </li>
 </ul>
@@ -486,8 +482,8 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Rel
     <ul>
-      <li>ADV: indà, indàduk, duwwàdà, indàdun, indàdut, koːìnaː, koːƙàːƙàː, kóːkòːindà, wàdà</li>
-      <li>PRON: sà'addà, wa'ànda, wandà</li>
+      <li>ADV: indà, wàdà, indàduk, duwwàdà, indàdun, indàdut, koːìnaː, koːƙàːƙàː, kóːkòːindà</li>
+      <li>PRON: indà, wandà, waɗàndà, koːmiː, sà'addà, wa'ànda, wàdà, waɗànda</li>
     </ul>
   </li>
 </ul>
@@ -495,9 +491,9 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Tot
     <ul>
-      <li>ADV: duh</li>
-      <li>DET: dug, du', dus, duy, dub, dukà, dun, dut, duk</li>
-      <li>PRON: dûn</li>
+      <li>ADV: dukà, duh</li>
+      <li>DET: dukà, duk, dug, duy, du', dus, dub, dukàn, dun, dut</li>
+      <li>PRON: dukà, duk, duy, dûn, koːwanèː</li>
     </ul>
   </li>
 </ul>
@@ -511,7 +507,7 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: kâinai, kânka</li>
+      <li>PRON: kâinai, kânka, kâinaː, kâina, kânki, kânkà</li>
     </ul>
   </li>
 </ul>
@@ -523,9 +519,9 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>1
     <ul>
-      <li>AUX: ìn, naː, inàː, mukà, mù, baːmù, bàn, mun, ani, munkà</li>
-      <li>NOUN: yâːtaː, baːyuːna, jàkkaina, shaːnuːna, àlkaːwàliːnaː, ƙanèːna</li>
-      <li>PRON: niː, min, ni, nì, shi</li>
+      <li>AUX: ìn, naː, baːnì, inàː, bàn, nikà, mun, nikè, mù, bàmù</li>
+      <li>NOUN: jàkkaina</li>
+      <li>PRON: niː, min, ni, nau, muː, munà, mù, nì, minì, kâinaː</li>
     </ul>
   </li>
 </ul>
@@ -533,10 +529,9 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>2
     <ul>
-      <li>AUX: kaː, kà, kanàː, kukà, kun, bàkà, bàkù, kat, kì, kù</li>
-      <li>NOUN: raːnakkà, àbinkà, baːyunkì, gidankà, jàkkankì, kânka, shaːnunkì, tàːkàlminkà, àbinka, ƙarhinkù</li>
-      <li>PRON: kai, maː, ka, kà, keː, kânka, naːkù, taːkà</li>
-      <li>VERB-Vnoun: biyànka, kirànka, tàhiyàkkà, tàhiyàkkù, ɓaːcìnku</li>
+      <li>AUX: kà, kù, kaː, kì, kun, kanàː, bàkà, kaz, kukà, kunkà</li>
+      <li>PRON: kai, kà, ka, kù, makà, mukù, maː, naːkà, keː, kânka</li>
+      <li>VERB-Vnoun: ɓaːcìnku</li>
     </ul>
   </li>
 </ul>
@@ -544,12 +539,10 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>3
     <ul>
-      <li>ADP: cikinsù, tsàkaːninsù</li>
-      <li>AUX: yac, sunkà, yaː, shinàː, shì, tac, tanàː, tà, yaz, sunàː</li>
-      <li>NOUN: shìgattà, uwattà, uwaːtai, bambanciyassù, baːyuːnai, gardamàssu, rânta, ƙarhiːnai, bambanciyaːtai, bàːkinsù</li>
-      <li>PRON: shiː, ita, shì, shi, mai, suː, musù, tà, sù, matà</li>
-      <li>VERB: tàhiyàːtai, c’ìnkai, ganai, ganiːnai, jèːwàyèsshi, sônta, taːs'àtta, tàhiyàːtay, tàmbayàːtai, àːgìzonta</li>
-      <li>VERB-Vnoun: ganiːnai, sônta, taːs'àtta, tàhiyàːtai, tàhiyàːtay, tàmbayàːtai, àːgìzonta, ɓaːcìnsu</li>
+      <li>AUX: yac, sunkà, yaː, shì, shinàː, yat, yay, yak, tac, yaz</li>
+      <li>NOUN: màːlàmmai, uwattà</li>
+      <li>PRON: mai, shiː, shì, sù, shi, musù, suː, ita, matà, tà</li>
+      <li>VERB: yi, jèːwàyèsshi, zamansù</li>
     </ul>
   </li>
 </ul>
@@ -557,7 +550,7 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li>4
     <ul>
-      <li>AUX: ankà, anàː, à, akà, baː'à, akè, an</li>
+      <li>AUX: ankà, à, akà, anàː, an, baː'à, baːà, akè, bà'à, zaː'à</li>
     </ul>
   </li>
 </ul>
@@ -571,18 +564,32 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li><a>Deixis</a>
     <ul>
-      <li>Prox
+      <li>Med
         <ul>
-          <li>ADV: nân, nanânga, nân.</li>
-          <li>DET: ga</li>
-          <li>PRON: wàgga, wànga, wànnan</li>
+          <li>ADV: cân, ceːnìyaː</li>
+          <li>DET: wàccân, wàncân</li>
+          <li>PRON: wàncân, waɗàncân, wàncéːnìyaː</li>
+        </ul>
+      </li>
+      <li>ProxH
+        <ul>
+          <li>ADV: nan</li>
+          <li>DET: nan, waɗànnan, tan, wàttan</li>
+          <li>PRON: wànnan, waɗànnan, wàttan</li>
+        </ul>
+      </li>
+      <li>ProxS
+        <ul>
+          <li>ADV: nân, nanânga</li>
+          <li>DET: ga, wànga, waɗànga, wânga</li>
+          <li>PRON: waɗànga, wànga, wàgga, wannàn</li>
         </ul>
       </li>
       <li>Remt
         <ul>
-          <li>ADV: cân, can, ceːnìyaː</li>
-          <li>DET: wàccân, can</li>
-          <li>PRON: wàccan, wàncân, wàncéːnìyaː</li>
+          <li>ADV: can, cân</li>
+          <li>DET: can, ceːnìyaː</li>
+          <li>PRON: wàccan</li>
         </ul>
       </li>
     </ul>
@@ -592,23 +599,24 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li><a>ExtPos</a>
     <ul>
-      <li>ADJ
+      <li>ADP
         <ul>
-          <li>ADJ: hìyayyem</li>
+          <li>NOUN: cikinsù, tsàkaːninsù, s'àkaːniːnai</li>
         </ul>
       </li>
       <li>ADV
         <ul>
-          <li>ADV: sai, tsàye</li>
-          <li>SCONJ: ha', har</li>
-          <li>VERB: bìye, tàhe, kwàːni, taːshì, kwànce, màːlìye, tsàye, tàushe</li>
-          <li>VERB-Part: bìye, tàhe, kwànce, màːlìye, tsàye, tàushe</li>
+          <li>ADV: sai</li>
+          <li>VERB: tàhe, bìye, tsàye, kwàːni, taːshì, zàmne, shìrye, bànye, bùːɗe, gùrhwàːne</li>
+          <li>VERB-Part: tàhe, bìye, tsàye, zàmne, shìrye, bànye, bùːɗe, gùrhwàːne, kwànce, màːlìye</li>
         </ul>
       </li>
       <li>NOUN
         <ul>
-          <li>NOUN: ayaː</li>
-          <li>VERB-Vnoun: tàhiyàː, yîː, zakkùwaː, sôn, bìyash, gàmuwaː, cîn, kwaːnaː, gudùː, hwaːɗùwaː</li>
+          <li>NOUN: kiɗìn, kiːyòn, ayaː, baːwàːnai, idòːnai, jiːhwàː, kiːshìn, suːnaː, watàn, yawàn</li>
+          <li>VERB: yîː, tàhiyàː, sôn, zakkùwaː, zuwàː, cîn, bìɗaː, kwan, sôː, bìyash</li>
+          <li>VERB-Part: gùrhwàːne</li>
+          <li>VERB-Vnoun: yîː, tàhiyàː, sôn, zakkùwaː, zuwàː, cîn, bìɗaː, sôː, bìyash, gàmuwaː</li>
         </ul>
       </li>
       <li>PRON
@@ -618,6 +626,23 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
           <li>PRON: dûn</li>
         </ul>
       </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: har, sai</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: sàlaːmù, àleːkùm</li>
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
@@ -625,24 +650,49 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <ul>
   <li><a>PartType</a>
     <ul>
-      <li>Adv
+      <li>Aspect
         <ul>
-          <li>PART: ta</li>
+          <li>PART: ta, kan, zan</li>
+        </ul>
+      </li>
+      <li>Case
+        <ul>
+          <li>PART: na, ta</li>
+        </ul>
+      </li>
+      <li>Der
+        <ul>
+          <li>PART: mài, màːsu</li>
+        </ul>
+      </li>
+      <li>Disc
+        <ul>
+          <li>PART: kuma, shîn</li>
+        </ul>
+      </li>
+      <li>Evident
+        <ul>
+          <li>PART: wai</li>
+        </ul>
+      </li>
+      <li>Foc
+        <ul>
+          <li>PART: nàː, naː, tàː, kèːnan, taː</li>
         </ul>
       </li>
       <li>Neg
         <ul>
-          <li>PART: ba, bàː</li>
+          <li>PART: bàː, ba, dàk, dàsh</li>
         </ul>
       </li>
       <li>Pred
         <ul>
-          <li>PART: gàː, àkwai, baːbù, bâː, dà, zâː, à~</li>
+          <li>PART: gàː, àkwai, baːbù, zâː, bâː, dà, à~</li>
         </ul>
       </li>
       <li>Top
         <ul>
-          <li>PART: kòː, dai, kuma, hwa</li>
+          <li>PART: dai, kòː, kuma, hwa, maː, koː, kâm</li>
         </ul>
       </li>
     </ul>
@@ -654,11 +704,11 @@ It is maintained in the [SUD](https://surfacesyntacticud.org/) framework: [SUD_H
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: neː.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+<li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: yaː, yà, nàː, zâi, yâː, neː.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -667,11 +717,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (21)</li>
-      <li>VERB--NOUN-Gen (7)</li>
-      <li>VERB--PRON (9)</li>
-      <li>VERB-Part--NOUN (2)</li>
-      <li>VERB-Vnoun--NOUN (1)</li>
+      <li>VERB--NOUN (177)</li>
+      <li>VERB--PRON (30)</li>
+      <li>VERB--PRON-Nom (2)</li>
+      <li>VERB-Part--NOUN (3)</li>
+      <li>VERB-Part--PRON (1)</li>
+      <li>VERB-Vnoun--NOUN (5)</li>
+      <li>VERB-Vnoun--PRON (3)</li>
     </ul>
   </li>
 </ul>
@@ -679,14 +731,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (104)</li>
-      <li>VERB--NOUN-ADP(dà) (1)</li>
-      <li>VERB--NOUN-ADP(mài) (1)</li>
-      <li>VERB--NOUN-Gen (10)</li>
-      <li>VERB--PRON (40)</li>
-      <li>VERB--PRON-Nom (1)</li>
-      <li>VERB-Vnoun--NOUN (2)</li>
-      <li>VERB-Vnoun--PRON (1)</li>
+      <li>VERB--NOUN (431)</li>
+      <li>VERB--NOUN-ADP(don) (1)</li>
+      <li>VERB--NOUN-ADP(na) (1)</li>
+      <li>VERB--PRON (64)</li>
+      <li>VERB--PRON-ADP(don) (1)</li>
+      <li>VERB--PRON-Acc (80)</li>
+      <li>VERB--PRON-Acc-ADP(gà) (1)</li>
+      <li>VERB--PRON-Acc-ADP(gàreː) (1)</li>
+      <li>VERB--PRON-Gen (2)</li>
+      <li>VERB--PRON-Nom (9)</li>
+      <li>VERB-Vnoun--NOUN (41)</li>
+      <li>VERB-Vnoun--PRON (4)</li>
     </ul>
   </li>
 </ul>
@@ -694,9 +750,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (1)</li>
-      <li>VERB--PRON (10)</li>
-      <li>VERB--PRON-Dat (31)</li>
+      <li>VERB--NOUN (8)</li>
+      <li>VERB--PRON (12)</li>
+      <li>VERB--PRON-Acc (35)</li>
+      <li>VERB--PRON-Dat (180)</li>
       <li>VERB--PRON-Gen (1)</li>
     </ul>
   </li>
@@ -704,11 +761,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 
 
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 4 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: bany- kânki, baː kâinaː, fans- kâinaː, han- kâinai</li>
+</ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>flat:name</a>, <a>obl:arg</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
 <li>The following 6 relation types are not used in this corpus at all: <a>csubj</a>, <a>expl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>

@@ -26,9 +26,9 @@ The following 3 pairs of parts of speech are connected with `cop`: <tt><a href="
 2	_	_	NOUN	_	_	21	advcl	_	BBIL=B|BPT=0|PUDL=よう|SpaceAfter=No|UI=34
 3	_	_	AUX	_	_	2	cop	_	BBIL=I|BPT=1|SpaceAfter=No|UI=20
 4	_	_	PUNCT	_	_	2	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=1
-5	_	_	PROPN	_	_	7	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=498
+5	_	_	PROPN	_	_	10	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=498
 6	_	_	ADP	_	_	5	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=8
-7	_	_	PROPN	_	_	10	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=310
+7	_	_	PROPN	_	_	5	conj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=310
 8	_	_	ADP	_	_	7	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=8
 9	_	_	ADP	_	_	7	case	_	BBIL=I|BPT=3|SpaceAfter=No|UI=0
 10	_	_	NOUN	_	_	21	nsubj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=285

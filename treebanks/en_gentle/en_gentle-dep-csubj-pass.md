@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 13 csubj:pass	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	2:expl	Discourse=organization-preparation:68->73:2:_|Entity=(61-abstract-acc:com-nnnnn-cf1-1-ana)
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	2:expl	Discourse=organization-preparation:68->73:2:sem-lxchn-511,526-_+sem-lxchn-512,527-_+sem-lxchn-513,528-_|Entity=(61-abstract-acc:com-nnnnn-cf1-1-ana)
 2	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	MSeg=remain-s
 3	to	to	PART	TO	_	5	mark	5:mark	_
 4	be	be	AUX	VB	VerbForm=Inf	5	aux:pass	5:aux:pass	_
@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	13:cop	_
 9	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	13:det	Entity=(11-abstract-giv:act-sssss-cf2*-5-coref
 10	third	third	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	11	amod	11:amod	XML=<ref target:::"https://proofwiki.org/wiki/Definition:Third_Binomial">
-11	binomial	binomial	NOUN	NN	Number=Sing	13	compound	13:compound	XML=</ref>
+11	binomial	binomial	NOUN	NN	Number=Sing	13	compound	13:compound	MSeg=bi-nom-ial|XML=</ref>
 12	straight	straight	ADJ	JJ	Degree=Pos	13	amod	13:amod	XML=<ref target:::"https://proofwiki.org/wiki/Definition:Line_Segment">
 13	line	line	NOUN	NN	Number=Sing	5	csubj:pass	5:csubj:pass	Entity=11)61)|SpaceAfter=No|XML=</ref>
 14	.	.	PUNCT	.	_	2	punct	2:punct	_

@@ -16,10 +16,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="frm_profiterole-pos
 
 ### `X`
 
-2 <tt><a href="frm_profiterole-pos-X.html">X</a></tt> tokens (7% of all `X` tokens) have a non-empty value of `Foreign`.
+2 <tt><a href="frm_profiterole-pos-X.html">X</a></tt> tokens (8% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>Amen</em>
-* `EMPTY` (25): <em>que, qu', mons, veilleusement</em>
+* `EMPTY` (24): <em>que, qu', veilleusement</em>
 

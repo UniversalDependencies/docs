@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 196 tokens (22%) have a non-empty value of `Person`.
 118 types (31%) occur at least once with a non-empty value of `Person`.
 60 lemmas (24%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt> (109; 12% instances), <tt><a href="tr_tuecl-pos-AUX.html">AUX</a></tt> (57; 6% instances), <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (30; 3% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt> (109; 12% instances), <tt><a href="tr_tuecl-pos-AUX.html">AUX</a></tt> (57; 6% instances), <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (29; 3% instances), <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -59,16 +59,27 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-30 <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> tokens (75% of all `PRON` tokens) have a non-empty value of `Person`.
+29 <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 90%), <tt><a href="tr_tuecl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (22; 73%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (26; 90%), <tt><a href="tr_tuecl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (24; 83%), <tt><a href="tr_tuecl-feat-Case.html">Case</a></tt><tt>=Nom</tt> (15; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (7; 23% of non-empty `Person`): <em>bana, Benim, benden, bizimle</em>
-* `2` (7; 23% of non-empty `Person`): <em>Sen, Sana, senin</em>
-* `3` (16; 53% of non-empty `Person`): <em>O, Bunun, Onlar, bunu, kendi, kendine, kinden, ondan</em>
-* `EMPTY` (10): <em>kimin, neye, birbirlerini, buralara, kendisine, kini, kinin, nerede</em>
+* `1` (7; 24% of non-empty `Person`): <em>bana, Benim, benden, bizimle</em>
+* `2` (7; 24% of non-empty `Person`): <em>Sen, Sana, senin</em>
+* `3` (15; 52% of non-empty `Person`): <em>O, Bunun, Onlar, bunu, kendi, kendine, ondan</em>
+* `EMPTY` (8): <em>kimin, neye, birbirlerini, buralara, kendisine, nerede</em>
+
+### `NOUN`
+
+1 <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `NOUN` and `Person` co-occurred: <tt><a href="tr_tuecl-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="tr_tuecl-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="tr_tuecl-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt> (1; 100%).
+
+`NOUN` tokens may have the following values of `Person`:
+
+* `3` (1; 100% of non-empty `Person`): <em>kinden</em>
+* `EMPTY` (225): <em>evde, kitap, kitabı, okula, sabah, annesini, eve, çocuk, doktor, ekmek</em>
 
 ## Relations with Agreement in `Person`
 

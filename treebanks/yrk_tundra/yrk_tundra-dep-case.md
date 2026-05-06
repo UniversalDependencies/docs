@@ -13,7 +13,7 @@ This relation is universal.
 68 instances of `case` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.10294117647059.
 
-The following 3 pairs of parts of speech are connected with `case`: <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (63; 93% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (4; 6% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `case`: <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (62; 91% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 case	color:blue
-1	яхамʼ	яха	NOUN	_	_	5	obj	_	AlignBegin=8269.11009909|AlignEnd=8770.11585444|LTranslit=jaxa|MGloss=river-acc|MSeg=яха-мʼ|Translit=jaxamʔ
+1	яхамʼ	яха	NOUN	_	_	5	obj	_	AlignBegin=8269.11009909|AlignEnd=8770.11585444|ISRole=Top|LTranslit=jaxa|MGloss=river-acc|MSeg=яха-мʼ|Translit=jaxamʔ
 2	<p>	<p>	X	_	_	5	discourse	_	AlignBegin=8770.11585444|AlignEnd=8985.92207502|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
 3	пулʼ	пул	NOUN	_	_	5	obl:mod	_	AlignBegin=8985.92207502|AlignEnd=9269.59393294|LTranslit=pul|MGloss=bridge-gen|MSeg=пул-ʼ|Translit=pulʔ
 4	нимня	нимня	ADP	_	_	3	case	_	AlignBegin=9269.59393294|AlignEnd=9593.53182228|Gloss=at.prol|LTranslit=ńimńa|Translit=ńimńa

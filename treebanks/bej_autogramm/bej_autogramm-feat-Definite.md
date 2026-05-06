@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="bej_autogramm-pos-D
 
 1034 <tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> tokens (60% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="bej_autogramm-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1034; 100%), <tt><a href="bej_autogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1034; 100%), <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (760; 74%), <tt><a href="bej_autogramm-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (633; 61%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="bej_autogramm-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (1034; 100%), <tt><a href="bej_autogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1034; 100%), <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (760; 74%), <tt><a href="bej_autogramm-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (634; 61%), <tt><a href="bej_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (523; 51%).
 
 `DET` tokens may have the following values of `Definite`:
 
@@ -30,23 +30,23 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 34 <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="bej_autogramm-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="bej_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="bej_autogramm-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="bej_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (28; 82%), <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (21; 62%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="bej_autogramm-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="bej_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="bej_autogramm-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (34; 100%), <tt><a href="bej_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (29; 85%), <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (21; 62%).
 
 `PRON` tokens may have the following values of `Definite`:
 
 * `Def` (32; 94% of non-empty `Definite`): <em>ti=, i=, w=, t=</em>
 * `Ind` (2; 6% of non-empty `Definite`): <em>-t</em>
-* `EMPTY` (785): <em>=heːb, =i, =oː, =eː, ani, =hoːk, kna, =oːk, =oːn, aneːb</em>
+* `EMPTY` (787): <em>=heːb, =i, =oː, ani, =eː, =hoːk, kna, =oːk, =oːn, aneːb</em>
 
 ### `SCONJ`
 
 4 <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> tokens (1% of all `SCONJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `SCONJ` and `Definite` co-occurred: <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (4; 100%), <tt><a href="bej_autogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `SCONJ` and `Definite` co-occurred: <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (4; 100%).
 
 `SCONJ` tokens may have the following values of `Definite`:
 
 * `Def` (2; 50% of non-empty `Definite`): <em>t=, ti=</em>
 * `Ind` (2; 50% of non-empty `Definite`): <em>=t</em>
-* `EMPTY` (590): <em>=hoːb, =eːb, =ajt, =jeːb, =eːk, =aj, =it, =eːt, =jeːk, =eː</em>
+* `EMPTY` (581): <em>=hoːb, =eːb, =ajt, =jeːb, =eːk, =aj, =it, =eːt, =jeːk, =eː</em>
 

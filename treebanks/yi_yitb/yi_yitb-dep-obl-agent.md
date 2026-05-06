@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 9 12 obl:agent	color:blue
 1	די	דער	DET	_	_	4	det	_	Translit=di|Translit_Lemma=der
 2	סאַמע	סאַמע	DET	_	_	4	det	_	Translit=same|Translit_Lemma=same
-3	באַרימסטע	באַרימסט	ADJ	_	_	4	amod	_	Translit=barimste|Translit_Lemma=barimst
+3	באַרימסטע	באַרימט	ADJ	_	_	4	amod	_	Translit=barimste|Translit_Lemma=barimt
 4	פּערסאָנאַזשן	פּערסאָנאַזש	NOUN	_	_	9	nsubj:pass	_	Translit=personazhn|Translit_Lemma=personazh
 5	פֿון	פֿון	ADP	_	_	7	case	_	Translit=fun|Translit_Lemma=fun
 6	ייִדישער	ייִדיש	ADJ	_	_	7	amod	_	Translit=yidisher|Translit_Lemma=yidish
@@ -54,7 +54,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 9	געשאַפֿן	שאַפֿן	VERB	_	_	0	root	_	Translit=geshafn|Translit_Lemma=shafn
 10	געװאָרן	װערן	AUX	_	_	9	aux:pass	_	Translit=gevorn|Translit_Lemma=vern
 11	פֿון	פֿון	ADP	_	_	12	case	_	Translit=fun|Translit_Lemma=fun
-12	שלום־עליכמען	שלום־עליכם	PROPN	_	_	9	obl:agent	_	SpaceAfter=No|Translit=sholem-alikhmen|Translit_Lemma=sholem-aleykhem
+12	שלום־עליכמען	שלום־עליכם	PROPN	_	_	9	obl:agent	_	SpaceAfter=No|Translit=sholem-aleykhemen|Translit_Lemma=sholem-aleykhem
 13	.	.	PUNCT	_	_	9	punct	_	Translit=.|Translit_Lemma=.
 
 ~~~
@@ -86,8 +86,8 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 18	,	,	PUNCT	_	_	9	punct	_	Translit=,|Translit_Lemma=,
 19	אַזוי	אַזוי	ADV	_	_	23	advmod	_	Translit=azoy|Translit_Lemma=azoy
 20	ווי	ווי	SCONJ	_	_	23	case	_	Translit=vi|Translit_Lemma=vi
-21	יעדער	_	DET	_	_	23	det	_	Translit=yeder
-22	אַנדער	_	DET	_	_	23	det	_	Translit=ander
+21	יעדער	יעדער	DET	_	_	23	det	_	Translit=yeder|Translit_Lemma=yeder
+22	אַנדער	אַנדער	DET	_	_	23	det	_	Translit=ander|Translit_Lemma=ander
 23	אומה	אומה	NOUN	_	_	9	advcl	_	Translit=ume|Translit_Lemma=ume
 24	דורך	דורך	ADP	_	_	26	case	_	Translit=durkh|Translit_Lemma=durkh
 25	איר	אירן	DET	_	_	26	det:poss	_	Translit=ir|Translit_Lemma=irn

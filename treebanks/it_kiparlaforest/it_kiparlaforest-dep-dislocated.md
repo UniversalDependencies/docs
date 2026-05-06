@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-44 nodes (0%) are attached to their parents as `dislocated`.
+63 nodes (0%) are attached to their parents as `dislocated`.
 
-24 instances of `dislocated` (55%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.36363636363636.
+35 instances of `dislocated` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.66666666666667.
 
-The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (20; 45% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (12; 27% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (5; 11% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (3; 7% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 11 pairs of parts of speech are connected with `dislocated`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (27; 43% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (19; 30% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (5; 8% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (4; 6% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,44 +22,27 @@ The following 8 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 dislocated	color:blue
-1	non	non	ADV	_	PronType=Neg	4	advmod	_	Begin=53.503|KID=41-0|OverlappingGroup=5
-2	ce	ce	PRON	_	_	4	expl	_	KID=41-1
-3	l'	lo	PRON	_	_	4	obj	_	KID=41-1bis|SpaceAfter=No
-4	ha	avere	VERB	_	_	0	root	_	KID=41-1ter
-5	le	il	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	KID=41-2
-6	brioche	brioche	NOUN	_	Gender=Fem|Number=Sing	4	dislocated	_	KID=41-3
-7	x	x	X	_	_	4	dep	_	End=55.213|KID=41-4|OverlappingGroup=6|Syllables=4|Unintelligible=Yes
-8	x	x	X	_	_	12	dep	_	Begin=55.493|KID=43-0|PauseAfter=Yes|Syllables=1|Unintelligible=Yes
-9	mh	mh	INTJ	_	_	12	discourse	_	KID=43-2|OverlappingGroup=7|Prolonged=Yes
-10	ce	ce	PRON	_	Number=Plur|Person=1|PronType=Prs	12	expl	_	Clitic=Yes|KID=43-3
-11	n'	ne	PRON	_	PronType=Prs	12	iobj	_	Clitic=Yes|KID=43-4|SpaceAfter=No
-12	ha	avere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	KID=43-5
-13	poche	poco	PRON	_	PronType=Ind	12	obj	_	End=57.563|KID=43-6
+1	eh	eh	INTJ	_	_	4	discourse	_	Begin=322.603|KID=80-0
+2	ce	ce	PRON	_	PronType=Prs	4	expl	_	Clitic=Yes|KID=80-1
+3	li	li	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=80-2
+4	avete	avere	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=80-3
+5	gli	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	KID=80-4
+6	autobus	autobus	NOUN	_	Gender=Masc	4	dislocated	_	End=323.913|Intonation=Rising|KID=80-5|OverlappingGroup=12
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 dislocated	color:blue
-1	e	e	CCONJ	_	_	4	discourse	_	KID=262-28
-2	chi	chi	PRON	_	PronType=Rel	4	nsubj	_	KID=262-29|OverlappingGroup
-3	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	dep	_	Clitic=Yes|KID=262-30|OverlappingGroup|SpaceAfter=No
-4	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=262-31|OverlappingGroup
-5	eh	eh	INTJ	_	_	4	discourse	_	End=414.658|KID=262-32|OverlappingGroup
-6	cioè	cioè	CCONJ	_	_	9	cc	_	Begin=414.828|KID=267-0|OverlappingGroup=42|PaceFast=Yes
-7	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	9	dislocated	_	KID=267-1|OverlappingGroup=42
-8	c'	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	9	expl	_	Clitic=Yes|KID=267-2|OverlappingGroup=42|SpaceAfter=No
-9	ho	avere	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	KID=267-3|OverlappingGroup=42
-10	meno	meno	ADV	_	_	11	advmod	_	KID=267-4|OverlappingGroup=42
-11	autorità	autorità	NOUN	_	Gender=Fem	9	obj	_	KID=267-5
-12	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Intonation=Rising|KID=267-6
-13	e	e	CCONJ	_	_	15	cc	_	KID=267-7
-14	che	che	PRON	_	PronType=Rel	15	nsubj	_	KID=267-8
-15	è	essere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	End=416.928|KID=267-9
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 dislocated	color:blue
+1	a	a	ADP	_	_	2	case	_	KID=413-11
+2	me	me	PRON	_	Number=Sing|Person=1|PronType=Prs	5	dislocated	_	KID=413-12
+3	m'	mi	PRON	_	Number=Sing|Person=1|PronType=Prs	5	iobj	_	Clitic=Yes|KID=413-13|SpaceAfter=No
+4	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	KID=413-14
+5	piaciuta	piacere	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	End=1576.5|Intonation=Falling|KID=413-15
 
 ~~~
 

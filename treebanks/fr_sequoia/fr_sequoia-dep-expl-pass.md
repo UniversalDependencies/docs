@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 # visual-style 4	fgColor:white
 # visual-style 4 3 expl:pass	color:blue
 1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	projets	projet	NOUN	_	Number=Plur	4	nsubj:pass	_	Gender[lex]=Masc
+2	projets	projet	NOUN	_	Gender=Masc|Number=Plur	4	nsubj:pass	_	Exponence[Gender]=Inherent
 3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pass	_	_
 4	concrétisent	concrétiser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	4	punct	_	_

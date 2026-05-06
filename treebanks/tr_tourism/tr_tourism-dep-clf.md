@@ -13,7 +13,7 @@ This relation is universal.
 4 instances of `clf` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `clf`: <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (3; 75% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
+The following 2 pairs of parts of speech are connected with `clf`: <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (3; 75% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -22,11 +22,11 @@ The following 2 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 clf	color:blue
-1	GÜZEL	güzel	ADJ	_	_	3	amod	_	_
-2	BİR	bir	DET	_	Definite=Ind|PronType=Art	3	det	_	_
-3	OTEL	otel	NOUN	_	Case=Nom|Number=Sing|Person=3	5	parataxis	_	_
-4	MEMNUN	memnun	ADJ	_	_	5	clf	_	_
-5	KALDIM	kal	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Güzel	güzel	ADJ	_	_	3	amod	_	_
+2	bir	bir	DET	_	Definite=Ind|PronType=Art	3	det	_	_
+3	otel	otel	NOUN	_	Case=Nom|Number=Sing	5	parataxis	_	_
+4	memnun	memnun	ADJ	_	_	5	clf	_	_
+5	kaldım	kal	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -38,15 +38,15 @@ The following 2 pairs of parts of speech are connected with `clf`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 clf	color:blue
-1	HER	her	DET	_	Definite=Def|PronType=Art	2	det	_	_
-2	TÜRLÜ	türlü	ADJ	_	_	3	amod	_	_
-3	İSTEĞİMİZE	istek	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1	9	obl	_	_
-4	EN	en	ADV	_	Degree=Sup	5	advmod	_	_
-5	İYİ	iyi	ADJ	_	_	6	amod	_	_
-6	ŞEKİLDE	şekil	NOUN	_	Case=Loc|Number=Sing|Person=3	8	obl	_	_
-7	CEVAP	cevap	NOUN	_	Case=Nom|Number=Sing|Person=3	8	clf	_	_
-8	VERMEYE	ver	NOUN	_	Case=Dat|Number=Sing|Person=3	9	obj	_	_
-9	ÇALIŞTILAR	çalış	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Her	her	DET	_	Definite=Def|PronType=Ind	2	det	_	_
+2	türlü	türlü	ADJ	_	_	3	amod	_	_
+3	isteğimize	istek	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Plur|Person[psor]=1	9	obl	_	_
+4	en	en	ADV	_	Degree=Sup	5	advmod	_	_
+5	iyi	iyi	ADJ	_	_	6	amod	_	_
+6	şekilde	şekil	NOUN	_	Case=Loc|Number=Sing	8	obl	_	_
+7	cevap	cevap	NOUN	_	Case=Nom|Number=Sing	8	clf	_	_
+8	vermeye	ver	VERB	_	Case=Dat|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	9	obj	_	_
+9	çalıştılar	çalış	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
 10	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~

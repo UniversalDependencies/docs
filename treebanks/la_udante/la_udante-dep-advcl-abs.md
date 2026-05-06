@@ -82,7 +82,7 @@ The following 6 pairs of parts of speech are connected with `advcl:abs`: <tt><a 
 12	volventibus	uoluo	VERB	va3pppmb	Aspect=Imp|Case=Abl|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurI|Number=Plur|VerbForm=Part|Voice=Act	16	advcl:abs	_	TraditionalMood=Participium|TraditionalTense=Praesens
 13	annis	annus	NOUN	smp2b	Case=Abl|Gender=Masc|InflClass=IndEurO|Number=Plur	12	nsubj	_	_
 14	hinc	hinc	ADV	r	AdvType=Loc|PronType=Dem	16	advmod:lmod	_	_
-15	fore	sum	AUX	va5ff	Aspect=Perf|InflClass=LatAnom|VerbForm=Inf	16	cop	_	TraditionalTense=Perfectum
+15	fore	sum	AUX	va5ff	Aspect=Prosp|InflClass=LatAnom|VerbForm=Inf	16	cop	_	TraditionalTense=Perfectum
 16	ductores	ductor	NOUN	smp3a	Case=Acc|Gender=Masc|InflClass=IndEurX|Number=Plur	1	ccomp	_	SpaceAfter=No
 17	,	,	PUNCT	Pu	_	20	punct	_	_
 18	revocato	reuoco	VERB	vp1prsmb	Aspect=Perf|Case=Abl|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	20	acl	_	TraditionalMood=Participium|TraditionalTense=Perfectum

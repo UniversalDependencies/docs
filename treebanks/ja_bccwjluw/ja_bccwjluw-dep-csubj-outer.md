@@ -24,9 +24,9 @@ The following 6 pairs of parts of speech are connected with `csubj:outer`: <tt><
 # visual-style 32 21 csubj:outer	color:blue
 1	_	_	NUM	_	_	3	compound	_	BBIL=B|BPT=2|SpaceAfter=No|UI=7515
 2	_	_	SYM	_	_	3	compound	_	BBIL=I|BPT=2|SpaceAfter=No|UI=119
-3	_	_	NUM	_	_	5	obl	_	BBIL=I|BPT=0|SpaceAfter=No|UI=7515
+3	_	_	NUM	_	_	8	nmod	_	BBIL=I|BPT=0|SpaceAfter=No|UI=7515
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=8
-5	_	_	NOUN	_	_	8	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=6236
+5	_	_	NOUN	_	_	3	conj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=6236
 6	_	_	ADP	_	_	5	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
 7	_	_	NOUN	_	_	8	compound	_	BBIL=B|BPT=2|SpaceAfter=No|UI=6421
 8	_	_	NOUN	_	_	15	obl	_	BBIL=I|BPT=0|SpaceAfter=No|UI=82706

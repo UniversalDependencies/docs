@@ -9,52 +9,28 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_gumreddit-dep-nmod.html">nmod</a></tt>.
 There are also 2 other language-specific subtypes of `nmod`: <tt><a href="en_gumreddit-dep-nmod-desc.html">nmod:desc</a></tt>, <tt><a href="en_gumreddit-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-11 nodes (0%) are attached to their parents as `nmod:unmarked`.
+12 nodes (0%) are attached to their parents as `nmod:unmarked`.
 
-10 instances of `nmod:unmarked` (91%) are left-to-right (parent precedes child).
+10 instances of `nmod:unmarked` (83%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.
 
-The following 6 pairs of parts of speech are connected with `nmod:unmarked`: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (6; 55% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (1; 9% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1; 9% instances).
+The following 6 pairs of parts of speech are connected with `nmod:unmarked`: <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (7; 58% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> (1; 8% instances), <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
-# visual-style 19	bgColor:blue
-# visual-style 19	fgColor:white
-# visual-style 21	bgColor:blue
-# visual-style 21	fgColor:white
-# visual-style 21 19 nmod:unmarked	color:blue
-1	_	_	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=organization-preparation:130->131:1:sem-lxchn-986,1013-_+sem-synym-989-990,992-1016-_|Lem=*LOWER*|Len=4|PDTB=Implicit:Contingency.Cause.Result:so:_:961-985:986-1017
-2	_	_	ADP	IN	_	3	case	3:case	Lem=_|Len=2
-3	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	obl	1:obl:at	Entity=(122-event-giv:act-nnnnn-cf2-1-ana)|Lem=_|Len=2
-4	_	_	DET	DT	Number=Sing|PronType=Dem	5	det	5:det	Entity=(135-abstract-new-nnnnn-cf3-2-coref|Lem=_|Len=4
-5	_	_	NOUN	NN	Number=Sing	1	obl:unmarked	1:obl:unmarked	Entity=135)|Lem=_|Len=3|SpaceAfter=No
-6	_	_	PUNCT	,	_	10	punct	10:punct	Lem=_|Len=1
-7	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj|22:nsubj	Discourse=explanation-justify:131->127:1:_|Entity=(135-abstract-giv:act-nnnnn-cf3-4,16-pred(136-time-new-nnnnn-cf5-1-cata)|Lem=_|Len=2|XML=<w>
-8	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	10:cop	CorrectForm='s|Lem=be|Len=1|XML=<sic ana:::"'s"></sic></w>
-9	_	_	NUM	CD	NumForm=Digit|NumType=Card	10	nummod	10:nummod	Entity=(136-time-new-nnnnn-cf5-2-coref|Lem=_|Len=1
-10	_	_	NOUN	NNS	Number=Plur	1	parataxis	1:parataxis	Lem=second|Len=7|MSeg=second-s
-11	_	_	ADP	IN	_	13	case	13:case	Lem=_|Len=2
-12	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	13:nmod:poss	Entity=(36-person-giv:act-nnnnn-cf1*-1-ana)|Lem=_|Len=4
-13	_	_	NOUN	NN	Number=Sing|Typo=Yes	10	nmod	10:nmod:of	CorrectForm=life, but|Entity=136)|Lem=_|Len=4|SpaceAfter=No|XML=<sic ana:::"life, but"><w>
-14	_	_	PUNCT	,	Typo=Yes	22	punct	22:punct	CorrectForm=_|Lem=_|Len=1|SpaceAfter=No
-15	_	_	CCONJ	CC	Typo=Yes	22	cc	22:cc	CorrectForm=_|Discourse=adversative-contrast_m:132->131:0:dm-but-1000-gold|Lem=_|Len=3|PDTB=Explicit:Comparison.Contrast:but:1000:992-999:1001-1017|XML=</w></sic>
-16	_	_	ADV	RB	Degree=Pos	22	advmod	22:advmod	Lem=_|Len=8|MSeg=probab-ly
-17	_	_	DET	DT	Definite=Ind|PronType=Art	22	det	22:det	Entity=(137-abstract-new-nnnnn-cf7-6-sgl|Lem=_|Len=1
-18	_	_	ADJ	JJ	Degree=Pos	19	amod	19:amod	Lem=_|Len=8
-19	_	_	NOUN	NNS	Number=Plur	21	nmod:unmarked	21:nmod:unmarked	Lem=time|Len=5|MSeg=time-s
-20	_	_	DET	DT	Definite=Ind|PronType=Art	21	det	21:det	Entity=(138-time-new-nnnnn-cf8-2-sgl|Lem=_|Len=1
-21	_	_	NOUN	NN	Number=Sing	22	compound	22:compound	Entity=138)|Lem=_|Len=3
-22	_	_	NOUN	NN	Number=Sing	10	conj	10:conj:but	Entity=137)|Lem=_|Len=5
-23	_	_	DET	DT	Number=Sing|PronType=Dem|Typo=Yes	29	det	29:det	CorrectForm=for that|Entity=(139-person-new-nnnnn-cf6-7-coref|Lem=_|Len=4|XML=<sic ana:::"for that"></sic>
-24	_	_	NOUN	NN	Number=Sing	26	compound	26:compound	Lem=_|Len=6|SpaceAfter=No|XML=<w>
-25	_	_	PUNCT	HYPH	_	24	punct	24:punct	Lem=_|Len=1|SpaceAfter=No
-26	_	_	ADJ	JJ	Degree=Pos	28	compound	28:compound	Lem=_|Len=9|SpaceAfter=No
-27	_	_	PUNCT	HYPH	_	26	punct	26:punct	Lem=_|Len=1|SpaceAfter=No
-28	_	_	VERB	VBG	VerbForm=Ger	29	amod	29:amod	Lem=look|Len=7|MSeg=look-ing|XML=</w>
-29	_	_	NOUN	NN	Number=Sing	22	parataxis	22:parataxis	Lem=_|Len=5
-30	_	_	ADP	IN	_	31	case	31:case	Lem=_|Len=2
-31	_	_	PROPN	NNP	Number=Sing	29	nmod	29:nmod:at	Entity=(123-place-giv:inact-nnnnn-cf4-1-coref)139)135)|Lem=_|Len=9|SpaceAfter=No
-32	_	_	PUNCT	.	_	1	punct	1:punct	Lem=_|Len=1
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 nmod:unmarked	color:blue
+1	_	_	ADJ	JJ	Degree=Pos	2	amod	2:amod	Discourse=adversative-antithesis:88->89:1:_|Entity=(93-animal-new-nnnnn-cf2-2-sgl|Lem=*LOWER*|Len=4
+2	_	_	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	Entity=93)|Lem=_|Len=7
+3	_	_	AUX	MD	VerbForm=Fin	4	aux	4:aux	Lem=_|Len=3
+4	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Lem=_|Len=4
+5	_	_	NOUN	NNS	Number=Plur	7	nmod:unmarked	7:nmod:unmarked	Entity=(94-time-new-nnnnn-cf3-1-sgl)|Lem=minute|Len=7|MSeg=minute-s
+6	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=5
+7	_	_	NOUN	NN	Number=Sing	4	obl	4:obl:after	Entity=(95-event-auto-nnnnn-cf1-1-sgl)|Lem=_|Len=5|MSeg=bir-th|SpaceAfter=No
+8	_	_	PUNCT	.	_	4	punct	4:punct	Lem=_|Len=1
 
 ~~~
 

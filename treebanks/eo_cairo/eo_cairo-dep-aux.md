@@ -56,7 +56,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 9	ŝi	ŝi	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	11	nsubj	_	_
 10	ne	ne	ADV	_	_	11	advmod	_	_
 11	farus	fari	VERB	_	Mood=Sub|VerbForm=Fin	4	advcl	_	_
-12	tiun	tiu	DET	_	Case=Acc|Number=Sing	13	det	_	_
+12	tiun	tiu	DET	_	Case=Acc|Number=Sing|PronType=Dem	13	det	_	_
 13	tagon	tago	NOUN	_	Case=Acc|Number=Sing	11	obj	_	SpaceAfter=No
 14	.	.	PUNCT	_	_	4	punct	_	_
 

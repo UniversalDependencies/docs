@@ -70,7 +70,7 @@ The following 5 pairs of parts of speech are connected with `flat`: <tt><a href=
 13	_	_	PART	RB	Polarity=Neg	14	advmod	14:advmod	Lem=not|Len=3|Negation=Yes
 14	_	_	NOUN	NN	Number=Sing	0	root	0:root	Entity=(94-abstract-new-nnnnn-cf4-1-sgl|Lem=_|Len=4
 15	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=2
-16	_	_	NOUN	NN	Number=Sing	14	nmod	14:nmod:of	Entity=(95-abstract-new-nnnnn-cf5-1-sgl)94)|Lem=_|Len=8
+16	_	_	NOUN	NN	Number=Sing	14	nmod	14:nmod:of	Entity=(95-abstract-new-nnnnn-cf5-1-sgl)94)|Lem=_|Len=8|MSeg=mater-ial
 17	_	_	X	FW	_	16	nmod	16:nmod	Lem=_|Len=3
 18	_	_	X	FW	_	17	flat	17:flat	Lem=_|Len=2
 19	_	_	PUNCT	:	_	14	punct	14:punct	Lem=…|Len=3

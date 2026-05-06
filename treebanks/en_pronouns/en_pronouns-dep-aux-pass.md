@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
 5	car	car	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No
 6	:	:	PUNCT	:	_	3	punct	_	_
-7	it	it	PRON	VBZ	_	9	nsubj	_	_
+7	it	it	PRON	PRP	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
 8	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
 9	hers	her	PRON	PRP	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	parataxis	_	SpaceAfter=No
 10	.	.	PUNCT	.	_	3	punct	_	_

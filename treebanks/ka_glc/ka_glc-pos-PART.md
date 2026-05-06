@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>არა</em> (<tt><a href="ka_glc-p
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.674782).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.692057).
 
 The 1st highest number of forms (1) was observed with the lemma “ალბათ”: <em>ალბათ</em>.
 
@@ -48,7 +48,7 @@ Examples: <em>არ, არა, ვერ, აღარ</em>
 
 `PART` nodes are attached to their parents using 6 different relations: <tt><a href="ka_glc-dep-advmod.html">advmod</a></tt> (239; 95% instances), <tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt> (5; 2% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="ka_glc-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="ka_glc-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="ka_glc-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (156; 62% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (43; 17% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (30; 12% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (10; 4% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (156; 62% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (44; 18% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (29; 12% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (10; 4% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 228 (91%) `PART` nodes are leaves.
 

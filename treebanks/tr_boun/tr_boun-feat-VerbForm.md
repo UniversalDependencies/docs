@@ -248,7 +248,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (462; 60%),
+<tt>VERB --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (467; 60%),
 <tt>AUX --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
 <tt>VERB --[<tt><a href="tr_boun-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (1; 100%).
 

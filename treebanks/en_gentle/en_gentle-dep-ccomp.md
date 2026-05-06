@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 5 ccomp	color:blue
-1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:128->129:0:_|Entity=(158-person-acc:com-nnnnn-cf2-1-sgl)
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:128->129:0:sem-atsrc-633-_+lex-indwd-634-_|Entity=(158-person-acc:com-nnnnn-cf2-1-sgl)|PDTB=Implicit:Contingency.Cause.Result:so:_:615-632:633-640
 2	trust	trust	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Interrogative-Polar-DeclarativeDirect|CxnElt=2:Interrogative-Polar-DeclarativeDirect.Clause|XML=<hi rend:::"bold"></hi>
 3	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	Discourse=explanation-evidence:129->125:3:_|Entity=(159-person-acc:com-nnnnn-cf1-1-ana)
 4	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	5:aux	_
@@ -40,7 +40,7 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 ccomp	color:blue
-1	Much	much	ADV	RB	Degree=Pos	3	advmod	3:advmod	Discourse=evaluation-comment:88->87:2:_
+1	Much	much	ADV	RB	Degree=Pos	3	advmod	3:advmod	Discourse=evaluation-comment:88->87:2:lex-indwd-608-_
 2	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj|8:nsubj:xsubj	Entity=(3-person-giv:inact-sssss-cf2-1-ana)
 3	marvelled	marvel	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	MSeg=marvell-ed
 4	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	6:det	Entity=(1-animal-giv:act-sssss-cf1*-3-coref
@@ -62,9 +62,9 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 ccomp	color:blue
-1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:45->46:0:sem-atsrc-336-gold|Entity=(31-person-giv:inact-nnnnn-cf2-1-ana)
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:45->46:0:sem-atsrc-336-gold+syn-rpr-338-_|Entity=(31-person-giv:inact-nnnnn-cf2-1-ana)
 2	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	that	that	SCONJ	IN	_	6	mark	6:mark	Discourse=explanation-evidence:46->51:1:dm-therefore-358-_
+3	that	that	SCONJ	IN	_	6	mark	6:mark	Discourse=explanation-evidence:46->51:1:dm-therefore-358-gold
 4	AC	AC	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	Entity=(5-abstract-giv:inact-nsnnn-cf3-1-coref)
 5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 6	incommensurable	incommensurable	ADJ	JJ	Degree=Pos	2	ccomp	2:ccomp	MSeg=in-commensur-able|XML=<ref target:::"https://proofwiki.org/wiki/Definition:Incommensurable_in_Length">

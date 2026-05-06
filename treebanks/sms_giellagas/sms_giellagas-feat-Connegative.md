@@ -9,26 +9,26 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-40 tokens (1%) have a non-empty value of `Connegative`.
-23 types (3%) occur at least once with a non-empty value of `Connegative`.
-20 lemmas (4%) occur at least once with a non-empty value of `Connegative`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (29; 1% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (11; 0% instances).
+41 tokens (1%) have a non-empty value of `Connegative`.
+24 types (3%) occur at least once with a non-empty value of `Connegative`.
+21 lemmas (4%) occur at least once with a non-empty value of `Connegative`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (30; 1% instances), <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (11; 0% instances).
 
 ### `VERB`
 
-29 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Connegative`.
+30 <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> tokens (4% of all `VERB` tokens) have a non-empty value of `Connegative`.
 
-The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (29; 100%), <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (25; 86%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (15; 52%).
+The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (29; 97%), <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (26; 87%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (16; 53%).
 
 `VERB` tokens may have the following values of `Connegative`:
 
-* `Yes` (29; 100% of non-empty `Connegative`): <em>kuâddam, kueʹst, piâzz, tieʹđ, šõõdd, cieʹlǩ, kaaun, kooǯǯtam, kååddče, kååʹdd</em>
+* `Yes` (30; 100% of non-empty `Connegative`): <em>kuâddam, kueʹst, piâzz, tieʹđ, šõõdd, cieʹlǩ, kaaun, kooǯǯtam, kååddče, kååʹdd</em>
 
-`Connegative` seems to be **lexical feature** of `VERB`. 100% lemmas (20) occur only with one value of `Connegative`.
+`Connegative` seems to be **lexical feature** of `VERB`. 100% lemmas (21) occur only with one value of `Connegative`.
 
 ### `AUX`
 
-11 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `Connegative`.
+11 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (6% of all `AUX` tokens) have a non-empty value of `Connegative`.
 
 The most frequent other feature values with which `AUX` and `Connegative` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (11; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sms_giellagas-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11; 100%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (10; 91%).
 

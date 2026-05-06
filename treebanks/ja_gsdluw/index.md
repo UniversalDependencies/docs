@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Mai Omura, Yusuke Miyao, Hiroshi Kanayama, Hiroshi Matsuda, Aya Wakasa, Kayo Yamashita, Masayuki Asahara, Takaaki Tanaka, Yugo Murawaki, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu, Ryan McDonald, Joakim Nivre, Daniel Zeman.
 
 Repository: [UD_Japanese-GSDLUW](https://github.com/UniversalDependencies/UD_Japanese-GSDLUW)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_gsdluw217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_gsdluw218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -93,7 +93,7 @@ through annotation, discussion and validation with
 
 ## Relations
 
-[acl](ja_gsdluw-dep-acl.html) – [advcl](ja_gsdluw-dep-advcl.html) – [advmod](ja_gsdluw-dep-advmod.html) – [amod](ja_gsdluw-dep-amod.html) – [aux](ja_gsdluw-dep-aux.html) – [case](ja_gsdluw-dep-case.html) – [cc](ja_gsdluw-dep-cc.html) – [ccomp](ja_gsdluw-dep-ccomp.html) – [compound](ja_gsdluw-dep-compound.html) – [cop](ja_gsdluw-dep-cop.html) – [csubj](ja_gsdluw-dep-csubj.html) – [csubj:outer](ja_gsdluw-dep-csubj-outer.html) – [dep](ja_gsdluw-dep-dep.html) – [det](ja_gsdluw-dep-det.html) – [discourse](ja_gsdluw-dep-discourse.html) – [fixed](ja_gsdluw-dep-fixed.html) – [iobj](ja_gsdluw-dep-iobj.html) – [mark](ja_gsdluw-dep-mark.html) – [nmod](ja_gsdluw-dep-nmod.html) – [nsubj](ja_gsdluw-dep-nsubj.html) – [nsubj:outer](ja_gsdluw-dep-nsubj-outer.html) – [nummod](ja_gsdluw-dep-nummod.html) – [obj](ja_gsdluw-dep-obj.html) – [obl](ja_gsdluw-dep-obl.html) – [punct](ja_gsdluw-dep-punct.html) – [root](ja_gsdluw-dep-root.html)
+[acl](ja_gsdluw-dep-acl.html) – [advcl](ja_gsdluw-dep-advcl.html) – [advmod](ja_gsdluw-dep-advmod.html) – [amod](ja_gsdluw-dep-amod.html) – [aux](ja_gsdluw-dep-aux.html) – [case](ja_gsdluw-dep-case.html) – [cc](ja_gsdluw-dep-cc.html) – [ccomp](ja_gsdluw-dep-ccomp.html) – [compound](ja_gsdluw-dep-compound.html) – [conj](ja_gsdluw-dep-conj.html) – [cop](ja_gsdluw-dep-cop.html) – [csubj](ja_gsdluw-dep-csubj.html) – [csubj:outer](ja_gsdluw-dep-csubj-outer.html) – [dep](ja_gsdluw-dep-dep.html) – [det](ja_gsdluw-dep-det.html) – [discourse](ja_gsdluw-dep-discourse.html) – [fixed](ja_gsdluw-dep-fixed.html) – [iobj](ja_gsdluw-dep-iobj.html) – [mark](ja_gsdluw-dep-mark.html) – [nmod](ja_gsdluw-dep-nmod.html) – [nsubj](ja_gsdluw-dep-nsubj.html) – [nsubj:outer](ja_gsdluw-dep-nsubj-outer.html) – [nummod](ja_gsdluw-dep-nummod.html) – [obj](ja_gsdluw-dep-obj.html) – [obl](ja_gsdluw-dep-obl.html) – [punct](ja_gsdluw-dep-punct.html) – [root](ja_gsdluw-dep-root.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -219,10 +219,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-ADP(が) (2475)</li>
-      <li>VERB--NOUN-ADP(は) (1531)</li>
-      <li>VERB--NOUN-ADP(も) (527)</li>
+      <li>VERB--NOUN-ADP(が) (2409)</li>
+      <li>VERB--NOUN-ADP(と) (79)</li>
+      <li>VERB--NOUN-ADP(は) (1517)</li>
+      <li>VERB--NOUN-ADP(も) (524)</li>
       <li>VERB--PRON-ADP(が) (51)</li>
+      <li>VERB--PRON-ADP(と) (1)</li>
       <li>VERB--PRON-ADP(は) (105)</li>
       <li>VERB--PRON-ADP(も) (50)</li>
     </ul>
@@ -234,14 +236,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-ADP(か)-ADP(を) (2)</li>
       <li>VERB--NOUN-ADP(だけ)-ADP(を) (2)</li>
+      <li>VERB--NOUN-ADP(と) (101)</li>
       <li>VERB--NOUN-ADP(と)-ADP(か)-ADP(を) (1)</li>
-      <li>VERB--NOUN-ADP(と)-ADP(を) (3)</li>
-      <li>VERB--NOUN-ADP(など)-ADP(を) (52)</li>
+      <li>VERB--NOUN-ADP(など)-ADP(を) (51)</li>
       <li>VERB--NOUN-ADP(により)-ADP(を) (2)</li>
       <li>VERB--NOUN-ADP(の)-ADP(の)-ADP(を) (1)</li>
       <li>VERB--NOUN-ADP(のみ)-ADP(を) (3)</li>
       <li>VERB--NOUN-ADP(まで)-ADP(を) (2)</li>
-      <li>VERB--NOUN-ADP(を) (4445)</li>
+      <li>VERB--NOUN-ADP(を) (4343)</li>
       <li>VERB--NOUN-ADP(を)-ADP(も) (2)</li>
       <li>VERB--NOUN-ADP(をはじめ) (1)</li>
       <li>VERB--PRON-ADP(か)-ADP(を) (5)</li>
@@ -267,5 +269,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 2 relation subtypes: <a>csubj:outer</a>, <a>nsubj:outer</a></li>
-<li>The following 13 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 12 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>appos</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-AD
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (743; 100% of non-empty `Polarity`): <em>pas, non, n', ne, plus, que, qu'</em>
-* `EMPTY` (2486): <em>donc, plus, très, alors, là, parce, bien, enfin, même, tout</em>
+* `EMPTY` (2538): <em>donc, plus, très, alors, là, parce, bien, enfin, même, tout</em>
 
 ### `SCONJ`
 

@@ -11,22 +11,22 @@ It occurs with 3 different values: `Plur`, `Ptan`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="pl_pud-feat-Number.html">Number</a></tt>, <tt><a href="pl_pud-feat-Number-psor.html">Number[psor]</a></tt>.
 
-10848 tokens (59%) have a non-empty value of `Number`.
-7134 types (95%) occur at least once with a non-empty value of `Number`.
-4589 lemmas (92%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (4481; 24% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (2343; 13% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (1348; 7% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1251; 7% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (510; 3% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (376; 2% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (357; 2% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (182; 1% instances).
+10825 tokens (59%) have a non-empty value of `Number`.
+7113 types (94%) occur at least once with a non-empty value of `Number`.
+4569 lemmas (92%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (4467; 24% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (2343; 13% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (1339; 7% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1251; 7% instances), <tt><a href="pl_pud-pos-DET.html">DET</a></tt> (511; 3% instances), <tt><a href="pl_pud-pos-AUX.html">AUX</a></tt> (376; 2% instances), <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> (356; 2% instances), <tt><a href="pl_pud-pos-NUM.html">NUM</a></tt> (182; 1% instances).
 
 ### `NOUN`
 
-4481 <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Number`.
+4467 <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> tokens (96% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2467; 55%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2464; 55%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (1221; 27% of non-empty `Number`): <em>lat, latach, ludzi, osób, czasów, dolarów, funtów, euro, tereny, dni</em>
 * `Ptan` (50; 1% of non-empty `Number`): <em>danych, wyborów, igrzysk, wybory, mediach, ramach, warunków, aktywom, dane, danymi</em>
-* `Sing` (3210; 72% of non-empty `Number`): <em>roku, miejsce, wojny, części, raz, wieku, większość, pracy, świecie, część</em>
+* `Sing` (3196; 72% of non-empty `Number`): <em>roku, miejsce, wojny, części, raz, wieku, większość, pracy, świecie, część</em>
 * `EMPTY` (165): <em>r, %, p.n.e, w, mld, n.e, °C, dr, mln, tys</em>
 
 <table>
@@ -46,8 +46,8 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (702; 30% of non-empty `Number`): <em>ostatnich, nowych, inne, innych, innymi, różnych, 60, ostatnie, liczne, małe</em>
-* `Sing` (1641; 70% of non-empty `Number`): <em>I, II, jednym, 1, pierwszy, wielkiej, dużą, jeden, nowego, północna</em>
+* `Plur` (701; 30% of non-empty `Number`): <em>ostatnich, nowych, inne, innych, innymi, różnych, 60, ostatnie, liczne, małe</em>
+* `Sing` (1642; 70% of non-empty `Number`): <em>I, II, jednym, 1, pierwszy, wielkiej, dużą, jeden, nowego, północna</em>
 * `EMPTY` (18): <em>północno, św, gotów, południowo, prostu, angielsku, austriacko, francusko, męsku, niedawna</em>
 
 <table>
@@ -83,15 +83,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PROPN`
 
-1348 <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
+1339 <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (762; 57%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (756; 56%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (56; 4% of non-empty `Number`): <em>Chińczyków, Indianie, Achemenidów, Ameryk, Grecy, Indian, Majowie, Aborygenów, Achajów, Amerykanów</em>
 * `Ptan` (63; 5% of non-empty `Number`): <em>USA, Chiny, Chinach, Niemcy, Alpy, Andy, Chin, Indie, Morawy, Stany</em>
-* `Sing` (1229; 91% of non-empty `Number`): <em>Brytanii, Clinton, Morze, Trumpa, Azji, BBC, Danevirke, Europy, Francji, Hongkongu</em>
+* `Sing` (1220; 91% of non-empty `Number`): <em>Brytanii, Clinton, Morze, Trumpa, Azji, BBC, Danevirke, Europy, Francji, Hongkongu</em>
 * `EMPTY` (1): <em>Z</em>
 
 <table>
@@ -102,7 +102,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="pl_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Morze</em></td><td></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (959) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (951) occur only with one value of `Number`.
 
 ### `VERB`
 
@@ -128,14 +128,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `DET`
 
-510 <tt><a href="pl_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+511 <tt><a href="pl_pud-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pl_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (445; 87%), <tt><a href="pl_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (430; 84%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (258; 51%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="pl_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (446; 87%), <tt><a href="pl_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (431; 84%), <tt><a href="pl_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (258; 50%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Plur` (228; 45% of non-empty `Number`): <em>które, tych, wiele, którzy, wielu, więcej, kilka, swoich, takich, których</em>
-* `Sing` (282; 55% of non-empty `Number`): <em>który, tym, ten, która, swojej, tego, ta, którego, każdy, swojego</em>
+* `Sing` (283; 55% of non-empty `Number`): <em>który, tym, ten, która, swojej, tego, ta, którego, każdy, swojego</em>
 
 <table>
   <tr><th>Paradigm <i>który</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -191,15 +191,15 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PRON`
 
-357 <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> tokens (56% of all `PRON` tokens) have a non-empty value of `Number`.
+356 <tt><a href="pl_pud-pos-PRON.html">PRON</a></tt> tokens (56% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="pl_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (357; 100%), <tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (226; 63%), <tt><a href="pl_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (208; 58%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (196; 55%), <tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Long</tt> (190; 53%), <tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (184; 52%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="pl_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (356; 100%), <tt><a href="pl_pud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (226; 63%), <tt><a href="pl_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (208; 58%), <tt><a href="pl_pud-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (195; 55%), <tt><a href="pl_pud-feat-Variant.html">Variant</a></tt><tt>=Long</tt> (190; 53%), <tt><a href="pl_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=Npr</tt> (184; 52%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (58; 16% of non-empty `Number`): <em>ich, nich, im, je, one, nam, nas, nimi, oni, my</em>
 * `Ptan` (1; 0% of non-empty `Number`): <em>Wszystkim</em>
-* `Sing` (298; 83% of non-empty `Number`): <em>jego, to, jej, tym, co, go, ją, tego, mu, ktoś</em>
+* `Sing` (297; 83% of non-empty `Number`): <em>jego, to, jej, tym, co, go, ją, tego, mu, ktoś</em>
 * `EMPTY` (282): <em>się, siebie, sobie</em>
 
 <table>
@@ -262,14 +262,14 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="pl_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1310; 97%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1536; 98%),
 <tt>VERB --[<tt><a href="pl_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (465; 91%),
-<tt>NOUN --[<tt><a href="pl_pud-dep-nmod-arg.html">nmod:arg</a></tt>]--> NOUN</tt> (312; 59%),
-<tt>NOUN --[<tt><a href="pl_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (299; 59%),
-<tt>NOUN --[<tt><a href="pl_pud-dep-acl.html">acl</a></tt>]--> ADJ</tt> (226; 98%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-nmod-arg.html">nmod:arg</a></tt>]--> NOUN</tt> (329; 59%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (296; 59%),
 <tt>PROPN --[<tt><a href="pl_pud-dep-flat.html">flat</a></tt>]--> PROPN</tt> (203; 99%),
 <tt>VERB --[<tt><a href="pl_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (199; 90%),
-<tt>NOUN --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (197; 78%),
-<tt>NOUN --[<tt><a href="pl_pud-dep-det.html">det</a></tt>]--> DET</tt> (188; 98%),
-<tt>NOUN --[<tt><a href="pl_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (184; 69%).
+<tt>NOUN --[<tt><a href="pl_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (196; 78%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (183; 68%),
+<tt>NOUN --[<tt><a href="pl_pud-dep-det.html">det</a></tt>]--> DET</tt> (170; 98%),
+<tt>ADJ --[<tt><a href="pl_pud-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (130; 92%).
 

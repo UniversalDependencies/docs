@@ -35,7 +35,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 ### `ADJ`
 
-20 <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `NumType`.
+20 <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
 The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 85%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (15; 75%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (12; 60%).
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Dist` (2; 10% of non-empty `NumType`): <em>кодама-кодама</em>
 * `Ord` (18; 90% of non-empty `NumType`): <em>васенце, омбоце, омбоцеть, 14-це, Нильгемонце, ветеце, кемонце, колмоце, колмоцесь, сизьгемонце</em>
-* `EMPTY` (208): <em>оцю, од, тяфтама, мазы, пара, сире, цебярь, акша, кодама, козя</em>
+* `EMPTY` (216): <em>оцю, од, тяфтама, мазы, пара, сире, цебярь, акша, кодама, козя</em>
 
 ### `ADV`
 
@@ -55,18 +55,18 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 * `Card` (1; 33% of non-empty `NumType`): <em>кафтонь</em>
 * `Mult` (2; 67% of non-empty `NumType`): <em>весть</em>
-* `EMPTY` (428): <em>нинге, кода, пяк, аньцек, сяда, ни, меле, эста, ичкозе, кали</em>
+* `EMPTY` (443): <em>нинге, кода, пяк, аньцек, сяда, ни, меле, эста, ичкозе, кали</em>
 
 ### `DET`
 
-3 <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> tokens (8% of all `DET` tokens) have a non-empty value of `NumType`.
+3 <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `NumType`.
 
 The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="mdf_jr-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (3; 100%).
 
 `DET` tokens may have the following values of `NumType`:
 
 * `Sets` (3; 100% of non-empty `NumType`): <em>кафцьке</em>
-* `EMPTY` (37): <em>тя, эрь, лама, ня, сембе, сяка, ся, Мъзяра, иля, кодама-бъди</em>
+* `EMPTY` (39): <em>эрь, тя, лама, ня, сембе, сяка, ся, Мъзяра, иля, кажнай</em>
 
 ### `NOUN`
 
@@ -77,7 +77,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Sets` (2; 100% of non-empty `NumType`): <em>шинек-венек</em>
-* `EMPTY` (1132): <em>лангс, ломаттне, шись, тячи, шиня, ава, лангса, паксянь, пингть, Тишка</em>
+* `EMPTY` (1155): <em>лангс, ломаттне, шись, тячи, шиня, ава, лангса, паксянь, пингть, Тишка</em>
 
 ### `PRON`
 
@@ -88,5 +88,5 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Sets` (2; 100% of non-empty `NumType`): <em>кафонест, кафцьке</em>
-* `EMPTY` (226): <em>сон, мон, сонь, тя, синь, минь, ся, мезе, тон, тейнза</em>
+* `EMPTY` (234): <em>сон, мон, сонь, тя, синь, минь, ся, мезе, тон, тейнза</em>
 

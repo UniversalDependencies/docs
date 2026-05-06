@@ -29,7 +29,7 @@ The following 18 pairs of parts of speech are connected with `mark`: <tt><a href
 5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	Entity=(114-time-giv:act-nnnnn-cf1-3-pred
 6	good	good	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 7	time	time	NOUN	NN	Number=Sing	0	root	0:root	_
-8	to	to	PART	TO	_	9	mark	9:mark	Discourse=purpose-attribute:83->82:0:_
+8	to	to	PART	TO	_	9	mark	9:mark	Discourse=purpose-attribute:83->82:0:syn-mdf-388-_+syn-inf-389-_
 9	meet	meet	VERB	VB	VerbForm=Inf	7	acl	7:acl:to	Entity=114)|SpaceAfter=No
 10	.	.	PUNCT	.	_	7	punct	7:punct	XML=</hi>
 
@@ -48,13 +48,13 @@ The following 18 pairs of parts of speech are connected with `mark`: <tt><a href
 4	regain	regain	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=4:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis|MSeg=re-gain
 5	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	Entity=(64-abstract-new-nnnnn-cf3-2-sgl(65-person-acc:com-nnnnn-cf1-1-ana)
 6	trust	trust	NOUN	NN	Number=Sing	4	obj	4:obj	Entity=64)|XML=<hi rend:::"bold"></hi>
-7	if	if	SCONJ	IN	_	11	mark	11:mark	Discourse=contingency-condition:48->47:0:dm-if-243-_|PDTB=Explicit:Contingency.Condition.Arg1-as-cond:if:_:237-242:243-252
+7	if	if	SCONJ	IN	_	11	mark	11:mark	Discourse=contingency-condition:48->47:0:dm-if-243-gold|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:243:237-242:244-252
 8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj|13:nsubj:xsubj	Entity=(63-person-acc:com-nnnnn-cf2-1-coref)
 9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
 10	ever	ever	ADV	RB	Degree=Pos	11	advmod	11:advmod	_
 11	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	4	advcl	4:advcl:if	CxnElt=4:Conditional-UnspecifiedEpistemic-NoInversion.Protasis|MSeg=go-ing
 12	to	to	PART	TO	_	13	mark	13:mark	_
-13	win	win	VERB	VB	VerbForm=Inf	11	xcomp	11:xcomp	MSeg=w-in
+13	win	win	VERB	VB	VerbForm=Inf	11	xcomp	11:xcomp	_
 14	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	13:obj	Entity=(65-person-giv:act-nnnnn-cf1-1-ana)
 15	back	back	ADV	RB	Degree=Pos	13	advmod	13:advmod	SpaceAfter=No
 16	.	.	PUNCT	.	_	2	punct	2:punct	_
@@ -68,9 +68,9 @@ The following 18 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 mark	color:blue
-1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:45->46:0:sem-atsrc-336-gold|Entity=(31-person-giv:inact-nnnnn-cf2-1-ana)
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:45->46:0:sem-atsrc-336-gold+syn-rpr-338-_|Entity=(31-person-giv:inact-nnnnn-cf2-1-ana)
 2	have	have	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	that	that	SCONJ	IN	_	6	mark	6:mark	Discourse=explanation-evidence:46->51:1:dm-therefore-358-_
+3	that	that	SCONJ	IN	_	6	mark	6:mark	Discourse=explanation-evidence:46->51:1:dm-therefore-358-gold
 4	AC	AC	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	Entity=(5-abstract-giv:inact-nsnnn-cf3-1-coref)
 5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
 6	incommensurable	incommensurable	ADJ	JJ	Degree=Pos	2	ccomp	2:ccomp	MSeg=in-commensur-able|XML=<ref target:::"https://proofwiki.org/wiki/Definition:Incommensurable_in_Length">

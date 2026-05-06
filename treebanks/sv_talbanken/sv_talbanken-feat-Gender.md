@@ -11,7 +11,7 @@ It occurs with 4 different values: `Com`, `Fem`, `Masc`, `Neut`.
 
 33303 tokens (34%) have a non-empty value of `Gender`.
 10151 types (67%) occur at least once with a non-empty value of `Gender`.
-6823 lemmas (65%) occur at least once with a non-empty value of `Gender`.
+6823 lemmas (64%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 6 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22559; 23% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (3973; 4% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (3712; 4% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (2940; 3% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (92; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (27; 0% instances).
 
 ### `NOUN`
@@ -50,7 +50,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 * `Com` (2347; 59% of non-empty `Gender`): <em>man, vi, den, du, sin, han, jag, oss, hon, en</em>
 * `Neut` (1626; 41% of non-empty `Gender`): <em>det, detta, sitt, något, vad, vårt, allt, vilket, annat, ditt</em>
-* `EMPTY` (2773): <em>som, de, sig, dem, sina, vad, deras, våra, andra, många</em>
+* `EMPTY` (2778): <em>som, de, sig, dem, sina, vad, deras, våra, andra, många</em>
 
 <table>
   <tr><th>Paradigm <i>den</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
@@ -122,7 +122,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 * `Com` (21; 78% of non-empty `Gender`): <em>vald, vänd, hörselskadad, accepterad, förstärkt, förändrad, ifylld, komplicerad, likställd, lämnad</em>
 * `Neut` (6; 22% of non-empty `Gender`): <em>förbjudet, opåverkat, reglerat, sysselsatt, tillgodosett, upplagt</em>
-* `EMPTY` (9763): <em>har, finns, blir, få, får, ha, gäller, behöver, ger, går</em>
+* `EMPTY` (9762): <em>har, finns, blir, få, får, ha, gäller, behöver, ger, går</em>
 
 `Gender` seems to be **lexical feature** of `VERB`. 100% lemmas (22) occur only with one value of `Gender`.
 

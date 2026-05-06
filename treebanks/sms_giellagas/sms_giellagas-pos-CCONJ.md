@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Skolt_Sami-Giellagas: POS Tags: `CCONJ`
 
 There are 11 `CCONJ` lemmas (2%), 11 `CCONJ` types (1%) and 178 `CCONJ` tokens (6%).
-Out of 16 observed tags, the rank of `CCONJ` is: 9 in number of lemmas, 11 in number of types and 6 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 11 in number of types and 6 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>de, di, da, ja, a, mutta, no, leša, avi, tai</em>
 
@@ -28,7 +28,7 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="sms_giellagas-p
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.476809).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.487500).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 

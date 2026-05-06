@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish_English-BUTR: POS Tags: `AUX`
 
-There are 5 `AUX` lemmas (2%), 7 `AUX` types (3%) and 10 `AUX` tokens (3%).
+There are 5 `AUX` lemmas (2%), 7 `AUX` types (2%) and 10 `AUX` tokens (2%).
 Out of 14 observed tags, the rank of `AUX` is: 11 in number of lemmas, 9 in number of types and 11 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>değil, mi, be, do, would</em>
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.400000 (the average of all parts of speech is 1.152263).
+The form / lemma ratio of `AUX` is 1.400000 (the average of all parts of speech is 1.154982).
 
 The 1st highest number of forms (2) was observed with the lemma “değil”: <em>değil, değiliz</em>.
 
@@ -44,13 +44,7 @@ Examples: <em>mi, doesn't, would</em>
 
 Parents of `AUX` nodes belong to 2 different parts of speech: <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> (6; 60% instances), <tt><a href="qti_butr-pos-ADJ.html">ADJ</a></tt> (4; 40% instances)
 
-9 (90%) `AUX` nodes are leaves.
+10 (100%) `AUX` nodes are leaves.
 
-1 (10%) `AUX` nodes have one child.
-
-The highest child degree of a `AUX` node is 1.
-
-Children of `AUX` nodes are attached using 1 different relations: <tt><a href="qti_butr-dep-punct.html">punct</a></tt> (1; 100% instances)
-
-Children of `AUX` nodes belong to 1 different parts of speech: <tt><a href="qti_butr-pos-PUNCT.html">PUNCT</a></tt> (1; 100% instances)
+The highest child degree of a `AUX` node is 0.
 

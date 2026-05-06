@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `nmod:desc`: <tt><a 
 # visual-style 2	fgColor:white
 # visual-style 2 3 nmod:desc	color:blue
 1	_	_	PUNCT	-LRB-	_	2	punct	2:punct	Discourse=organization-preparation:1->2:2:_|Lem=_|Len=1|SpaceAfter=No
-2	_	_	PROPN	NNPS	Number=Plur	0	root	0:root	Entity=(1-abstract-new-sssss-cf1-1,2-coref-Monsters%2C_Inc._%28franchise%29|Lem=Monster|Len=8|MSeg=Monster-s
+2	_	_	PROPN	NNPS	Number=Plur	0	root	0:root	Entity=(1-abstract-new-sssss-cf1-1-coref-Monsters%2C_Inc._%28franchise%29|Lem=Monster|Len=8|MSeg=Monster-s
 3	_	_	PROPN	NNP	Number=Sing	2	nmod:desc	2:nmod:desc	Entity=1)|Lem=_|Len=3|SpaceAfter=No
 4	_	_	PUNCT	-RRB-	_	2	punct	2:punct	Lem=_|Len=1
 

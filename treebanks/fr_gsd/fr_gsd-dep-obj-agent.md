@@ -31,7 +31,7 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 6	faire	faire	AUX	_	VerbForm=Inf	7	aux:caus	_	Subject=SubjRaising
 7	reculer	reculer	VERB	_	VerbForm=Inf	4	xcomp	_	Subject=ObjRaising
 8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	pauvreté	pauvreté	NOUN	_	Number=Sing	7	obj:agent	_	Gender[lex]=Fem|SpaceAfter=No
+9	pauvreté	pauvreté	NOUN	_	Gender=Fem|Number=Sing	7	obj:agent	_	Exponence[Gender]=Inherent|SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -69,24 +69,24 @@ The following 4 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	si	si	SCONJ	_	_	6	mark	_	_
 4	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	det	_	_
-5	supporters	supporter	NOUN	_	Number=Plur	6	nsubj	_	Gender[lex]=Masc
+5	supporters	supporter	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	Exponence[Gender]=Inherent
 6	veulent	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	advcl	_	_
 7	aider	aider	VERB	_	VerbForm=Inf	6	xcomp	_	Subject=SubjRaising
 8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	club	club	NOUN	_	Number=Sing	7	obj	_	Gender[lex]=Masc
+9	club	club	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	Exponence[Gender]=Inherent
 10	à	à	ADP	_	_	12	case	_	_
 11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	travers	travers	NOUN	_	_	7	obl:mod	_	Gender[lex]=Masc|Number[ctxt]=Sing
+12	travers	travers	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 13	d'	de	ADP	_	_	15	case	_	SpaceAfter=No
 14	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	souscription	souscription	NOUN	_	Number=Sing	12	nmod	_	Gender[lex]=Fem
+15	souscription	souscription	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	Exponence[Gender]=Inherent
 16	pour	pour	ADP	_	_	18	mark	_	_
 17	faire	faire	AUX	_	VerbForm=Inf	18	aux:caus	_	Subject=SubjRaising
 18	revenir	revenir	VERB	_	VerbForm=Inf	7	advcl	_	Subject=ObjRaising
-19	Djibril	Djibril	PROPN	_	_	18	obj:agent	_	Gender[lex]=Unknown
+19	Djibril	Djibril	PROPN	_	_	18	obj:agent	_	_
 20	à	à	ADP	_	_	22	case	_	_
 21	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	22	det	_	SpaceAfter=No
-22	AJA	AJA	PROPN	_	Number=Sing	18	obl:arg	_	Gender[lex]=Unknown|SpaceAfter=No
+22	AJA	AJA	PROPN	_	Number=Sing	18	obl:arg	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	6	punct	_	_
 24	qu'	que	SCONJ	_	_	29	mark	_	SpaceAfter=No
 25	ils	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	29	nsubj:caus	_	_

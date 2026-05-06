@@ -34,7 +34,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 10	saker	sak	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	8	orphan	_	_
 11	där	där	ADV	_	_	8	orphan	_	CorrectionLabels=S-R
 12	till	till	ADP	_	_	13	case	_	_
-13	exemple	exemple	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Typo=Yes	14	obl	_	CorrectionLabels=O
+13	exemple	exempel	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Typo=Yes	14	obl	_	CorrectionLabels=O|SurfaceLemma=exemple
 14	simma	simma	VERB	_	VerbForm=Inf|Voice=Act	10	appos	_	_
 15	,	,	PUNCT	_	_	16	punct	_	_
 16	gå	gå	VERB	_	VerbForm=Inf|Voice=Act	14	conj	_	_
@@ -69,7 +69,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 10	saker	sak	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	8	orphan	_	_
 11	där	där	ADV	_	_	8	orphan	_	CorrectionLabels=S-R
 12	till	till	ADP	_	_	13	case	_	_
-13	exemple	exemple	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Typo=Yes	14	obl	_	CorrectionLabels=O
+13	exemple	exempel	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|Typo=Yes	14	obl	_	CorrectionLabels=O|SurfaceLemma=exemple
 14	simma	simma	VERB	_	VerbForm=Inf|Voice=Act	10	appos	_	_
 15	,	,	PUNCT	_	_	16	punct	_	_
 16	gå	gå	VERB	_	VerbForm=Inf|Voice=Act	14	conj	_	_

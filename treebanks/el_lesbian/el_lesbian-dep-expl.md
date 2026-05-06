@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-45 nodes (1%) are attached to their parents as `expl`.
+48 nodes (1%) are attached to their parents as `expl`.
 
-39 instances of `expl` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02222222222222.
+42 instances of `expl` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.02083333333333.
 
-The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (45; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (48; 100% instances).
 
 
 ~~~ conllu
@@ -26,10 +26,10 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 2	πως	πώς	ADV	_	Typo=Yes	5	advmod	_	CorrectForm=πώς
 3	να	να	SCONJ	_	_	5	mark	_	_
 4	τα	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	5	expl	_	_
-5	πιρνούμι	πιρνώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-6	,	,	PUNCT	_	_	7	punct	_	_
-7	γεροσύν	γεροσύν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	parataxis	_	_
-8	.	.	PUNCT	_	_	7	punct	_	_
+5	πιρνούμι	πιρνώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
+7	γεροσύν	γεροσύν	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
 
 ~~~
 

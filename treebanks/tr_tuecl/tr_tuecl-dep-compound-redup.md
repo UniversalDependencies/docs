@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `compound:redup`: <t
 8	temizlemiş	temizle	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	mutfağın	mutfak	NOUN	_	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	11	nmod:poss	_	_
-11	kini	ki	PRON	_	Case=Acc|Number=Sing|PronType=Dem	12	obj	_	_
+11	kini	ki	NOUN	_	Case=Acc|Number=Sing	12	obj	_	_
 12	temizlememişti	temizle	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pqp|VerbForm=Fin	8	conj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	_
 

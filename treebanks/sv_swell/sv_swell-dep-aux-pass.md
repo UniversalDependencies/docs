@@ -8,44 +8,43 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sv_swell-dep-aux.html">aux</a></tt>.
 
-6 nodes (0%) are attached to their parents as `aux:pass`.
+7 nodes (0%) are attached to their parents as `aux:pass`.
 
-6 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.83333333333333.
+7 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.71428571428571.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (5; 83% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (1; 17% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (6; 86% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (1; 14% instances).
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 14 aux:pass	color:blue
-1	Jag	jag	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	2	nsubj	_	_
-2	känner	känna	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	mig	jag	PRON	_	Case=Acc|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	2	obj	_	_
-4	väldigt	väldigt	ADV	_	Degree=Pos	5	advmod	_	_
-5	lugnt	lugnt	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	2	xcomp	_	CorrectionLabels=M-Gend
-6	och	och	CCONJ	_	_	7	cc	_	_
-7	glad	glad	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	5	conj	_	_
-8	när	när	SCONJ	_	_	10	mark	_	_
-9	vi	vi	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	10	nsubj	_	_
-10	är	vara	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
-11	där	där	ADV	_	_	10	advmod	_	_
-12	och	och	CCONJ	_	_	15	cc	_	_
-13	jag	jag	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	15	nsubj:pass	_	_
-14	blir	bli	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	15	aux:pass	_	_
-15	fylled	fylled	VERB	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Tense=Past|Typo=Yes|VerbForm=Part|Voice=Pass	2	conj	_	CorrectionLabels=O
-16	av	av	ADP	_	_	17	case	_	_
-17	energi	energi	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	15	obl:agent	_	_
-18	när	när	SCONJ	_	_	20	mark	_	_
-19	jag	jag	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	20	nsubj	_	_
-20	är	vara	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 12 aux:pass	color:blue
+1	Det	den	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	_
+2	finns	finnas	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	i	i	ADP	_	_	4	case	_	_
+4	samhället	samhälle	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	obl	_	_
+5	en	en	DET	_	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	7	det	_	_
+6	otalad	otalad	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	7	amod	_	CorrectionLabels=L-Der
+7	kod	kod	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	nsubj	_	_
+8	som	som	PRON	_	PronType=Rel	9	nsubj	_	_
+9	gör	göra	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
+10	att	att	SCONJ	_	_	13	mark	_	_
+11	folk	folk	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	13	nsubj:pass	_	_
+12	blir	bli	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux:pass	_	_
+13	klassificera	klassificera	VERB	_	VerbForm=Inf|Voice=Act	9	ccomp	_	CorrectionLabels=L-Der;S-Type
+14	på	på	ADP	_	_	15	case	_	_
+15	grund	grund	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	13	obl	_	_
+16	av	av	ADP	_	_	18	case	_	_
+17	vilka	vilken	DET	_	Definite=Ind|Number=Plur|PronType=Int	18	det	_	_
+18	kläder	kläder	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	15	nmod	_	_
+19	de	de	PRON	_	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	20	nsubj	_	_
+20	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	18	acl	_	_
 21	på	på	ADP	_	_	22	case	_	_
-22	jobbet	jobb	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	20	obl	_	_
-23	igen	igen	ADV	_	_	20	advmod	_	_
-24	.	.	PUNCT	_	_	2	punct	_	_
+22	sig	sig	PRON	_	Case=Acc|Definite=Def|PronType=Prs	20	obl	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

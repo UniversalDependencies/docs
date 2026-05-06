@@ -23,54 +23,53 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (2076; 34% of non-empty `Gender`): <em>γῆς, γῆν, γῇ, γυναῖκα, ἡμέρας, θυγατέρας, γῆ, ἡμέραι, γυνὴ, ἡμέρᾳ</em>
-* `Fem,Masc` (188; 3% of non-empty `Gender`): <em>παῖς, βόες, λιμὸς, καμήλους, θεὸν, βόας, λιμοῦ, παῖδα, ὄνους, καμήλοις</em>
-* `Fem,Masc,Neut` (8; 0% of non-empty `Gender`): <em>ἐρήμῳ, ἐρήμου</em>
-* `Masc` (2400; 40% of non-empty `Gender`): <em>θεὸς, υἱοὶ, κυρίου, θεός, πατρὸς, θεοῦ, υἱὸν, πατέρα, πατὴρ, υἱοῦ</em>
+* `Fem` (2127; 35% of non-empty `Gender`): <em>γῆς, γῆν, γῇ, γυναῖκα, ἡμέρας, θυγατέρας, γῆ, ἡμέραι, γυνὴ, ἡμέρᾳ</em>
+* `Fem,Masc` (85; 1% of non-empty `Gender`): <em>λιμοῦ, παῖς, βόες, λιμὸς, παίδων, παιδί, παιδὸς, καμήλους, αἰγῶν, ὄνοι</em>
+* `Masc` (2460; 41% of non-empty `Gender`): <em>θεὸς, υἱοὶ, κυρίου, θεός, πατρὸς, θεοῦ, υἱὸν, πατέρα, πατὴρ, υἱοῦ</em>
 * `Masc,Neut` (1; 0% of non-empty `Gender`): <em>νώτου</em>
 * `Neut` (1395; 23% of non-empty `Gender`): <em>ὄνομα, ἔτη, σπέρμα, πρόβατα, ὕδωρ, πρόσωπον, ἀργύριον, προσώπου, γένος, ἐτῶν</em>
 * `EMPTY` (14): <em>παρθένος, γύμνωσιν, ἔρημον, Χερουβίν, πλευρῶν, σαβεκ</em>
 
 <table>
-  <tr><th>Paradigm <i>θεός</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>θεὸν, θεόν</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>θεοὺς, θεούς</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>θεῷ</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>θεοῦ</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>θεὸς, θεός</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>θεοί</em></td></tr>
+  <tr><th>Paradigm <i>παῖς</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>παῖδα</em></td><td><em>παῖδά, παῖδα</em></td><td><em>παῖδα</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>παῖδας, παῖδάς</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>παιδί, παιδὶ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>παισὶν, παισίν</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>παιδὸς, παιδός</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>παίδων</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>παῖς</em></td><td><em>παῖς</em></td><td><em>παῖς</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>παῖδες, παῖδές</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (622) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 98% lemmas (616) occur only with one value of `Gender`.
 
 ### `DET`
 
 5157 <tt><a href="grc_ptnk-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="grc_ptnk-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5157; 100%), <tt><a href="grc_ptnk-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4253; 82%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3856; 75%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="grc_ptnk-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (5157; 100%), <tt><a href="grc_ptnk-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5157; 100%), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3856; 75%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (1490; 29% of non-empty `Gender`): <em>τὴν, τῆς, ἡ, τῇ, τὰς, αἱ, ταῖς, τήν</em>
-* `Fem,Masc,Neut` (309; 6% of non-empty `Gender`): <em>τῶν</em>
-* `Masc` (1466; 28% of non-empty `Gender`): <em>ὁ, τὸν, οἱ, τοὺς, ὃ, ὅ, οἳ, τόν</em>
-* `Masc,Neut` (1203; 23% of non-empty `Gender`): <em>τοῦ, τῷ, τοῖς</em>
-* `Neut` (689; 13% of non-empty `Gender`): <em>τὸ, τὰ, τά</em>
+* `Fem` (1518; 29% of non-empty `Gender`): <em>τὴν, τῆς, ἡ, τῇ, τὰς, αἱ, ταῖς, τῶν, τήν</em>
+* `Fem,Masc,Neut` (80; 2% of non-empty `Gender`): <em>τῶν</em>
+* `Masc` (2350; 46% of non-empty `Gender`): <em>ὁ, τὸν, τοῦ, τῷ, οἱ, τοὺς, τῶν, τοῖς, ὃ, ὅ</em>
+* `Masc,Neut` (223; 4% of non-empty `Gender`): <em>τοῦ, τῷ, τοῖς</em>
+* `Neut` (986; 19% of non-empty `Gender`): <em>τὸ, τὰ, τῶν, τοῦ, τῷ, τοῖς, τά</em>
 
 <table>
   <tr><th>Paradigm <i>ὁ</i></th><th><tt>Fem,Masc,Neut</tt></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="grc_ptnk-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td><em>τὸ</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="grc_ptnk-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td><em>τὰ</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_ptnk-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>τὸν, τόν</em></td><td></td><td><em>τὴν, τήν</em></td><td><em>τὸ</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_ptnk-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>τοὺς</em></td><td></td><td><em>τὰς</em></td><td><em>τὰ, τά</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>τῷ</em></td><td><em>τῇ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>τοῖς</em></td><td><em>ταῖς</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>τοῦ</em></td><td><em>τῆς</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>τῶν</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>ἡ</em></td><td><em>τὸ</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td><em>τὰ</em></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ὁ, ὃ, ὅ</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>οἱ, οἳ</em></td><td></td><td><em>αἱ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td><em>τὸ</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td><em>τὰ</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>τὸν, τόν</em></td><td></td><td><em>τὴν, τήν</em></td><td><em>τὸ</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>τοὺς</em></td><td></td><td><em>τὰς</em></td><td><em>τὰ, τά</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>τῷ</em></td><td><em>τῷ</em></td><td><em>τῇ</em></td><td><em>τῷ</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>τοῖς</em></td><td><em>τοῖς</em></td><td><em>ταῖς</em></td><td><em>τοῖς</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>τοῦ</em></td><td><em>τοῦ</em></td><td><em>τῆς</em></td><td><em>τοῦ</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>τῶν</em></td><td><em>τῶν</em></td><td></td><td><em>τῶν</em></td><td><em>τῶν</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ὁ, ὃ, ὅ</em></td><td></td><td><em>ἡ</em></td><td><em>τὸ</em></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>οἱ, οἳ</em></td><td></td><td><em>αἱ</em></td><td><em>τὰ</em></td></tr>
 </table>
 
 ### `PRON`
@@ -81,12 +80,12 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (499; 19% of non-empty `Gender`): <em>αὐτῆς, αὐτῇ, αὐτὴν, αὐτήν, αὕτη, ἣν, ταύτην, ᾗ, ἥ, αὗται</em>
+* `Fem` (500; 19% of non-empty `Gender`): <em>αὐτῆς, αὐτῇ, αὐτὴν, αὐτήν, αὕτη, ἣν, ταύτην, ᾗ, ἥ, αὗται</em>
 * `Fem,Masc` (22; 1% of non-empty `Gender`): <em>τίς, τις, Τίνες, τινὰς</em>
-* `Fem,Masc,Neut` (198; 8% of non-empty `Gender`): <em>αὐτῶν, ὧν, τούτων, τίνος, σῶν, ἐκείνων</em>
+* `Fem,Masc,Neut` (195; 7% of non-empty `Gender`): <em>αὐτῶν, ὧν, τούτων, τίνος, σῶν, ἐκείνων</em>
 * `Masc` (516; 20% of non-empty `Gender`): <em>αὐτὸν, αὐτοὺς, αὐτόν, οὗτοι, αὐτὸς, οὗτος, αὐτούς, ὃν, ὃς, τοῦτον</em>
 * `Masc,Neut` (1138; 43% of non-empty `Gender`): <em>αὐτοῦ, αὐτῷ, αὐτοῖς, ἐμοῦ, οὗ, τούτου, ᾧ, ἑαυτῷ, τούτῳ, ἐκείνου</em>
-* `Neut` (260; 10% of non-empty `Gender`): <em>τί, τοῦτο, ταῦτα, ἃ, αὐτὰ, αὐτὸ, αὐτό, αὐτά, ταῦτά, τι</em>
+* `Neut` (262; 10% of non-empty `Gender`): <em>τί, τοῦτο, ταῦτα, ἃ, αὐτὰ, αὐτὸ, αὐτό, αὐτά, ταῦτά, τι</em>
 * `EMPTY` (1665): <em>σου, μου, μοι, με, ὑμῶν, ἡμῶν, σὲ, σοί, ἐγὼ, σὺ</em>
 
 <table>
@@ -97,7 +96,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>αὐτῷ</em></td><td><em>αὐτῇ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>αὐτοῖς</em></td><td><em>αὐταῖς</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>αὐτοῦ</em></td><td><em>αὐτοῦ</em></td><td><em>αὐτῆς</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>αὐτῶν</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>αὐτῶν</em></td><td></td><td></td><td></td><td><em>αὐτῶν</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>αὐτὸς, αὐτός</em></td><td></td><td><em>αὐτὴ, αὐτή</em></td><td><em>αὐτὸ</em></td></tr>
   <tr><td><tt><tt><a href="grc_ptnk-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_ptnk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>αὐτοὶ</em></td><td></td><td><em>αὐταὶ</em></td><td><em>αὐτὰ</em></td></tr>
 </table>
@@ -134,10 +133,10 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (249; 18% of non-empty `Gender`): <em>πᾶσαν, πάσης, πᾶσαι, πάσῃ, πᾶσα, πάσας, αἰσχραὶ, λεπταὶ, μεγάλην, πονηρὰ</em>
-* `Fem,Masc` (85; 6% of non-empty `Gender`): <em>πρωτότοκος, ἐπικατάρατος, ἀνεμόφθοροι, πλήρης, διαλεύκους, οἰκογενεῖς, οὐδεὶς, πλήρεις, αὐθάδης, γνώριμος</em>
-* `Fem,Masc,Neut` (113; 8% of non-empty `Gender`): <em>πάντων, καθαρῶν, διάλευκον, ἀγαθῶν, καλῶν, πλαγίων, πρεσβυτέρων, πρωτοτόκου, χρυσῶν, ἀσεβοῦς</em>
-* `Masc` (465; 34% of non-empty `Gender`): <em>κύριος, πάντα, πάντας, πάντες, πᾶς, νεώτερος, ἕκαστος, καλὸν, εὐλογητὸς, καλόν</em>
+* `Fem` (255; 19% of non-empty `Gender`): <em>πᾶσαν, πάσης, πᾶσαι, πάσῃ, πᾶσα, πάσας, αἰσχραὶ, λεπταὶ, μεγάλην, πονηρὰ</em>
+* `Fem,Masc` (62; 5% of non-empty `Gender`): <em>ἐπικατάρατος, ἀνεμόφθοροι, πλήρης, πρωτότοκος, οὐδεὶς, αὐθάδης, γνώριμος, κτηνοτρόφοι, πίων, σποδοειδεῖς</em>
+* `Fem,Masc,Neut` (109; 8% of non-empty `Gender`): <em>πάντων, καθαρῶν, διάλευκον, ἀγαθῶν, καλῶν, πλαγίων, πρεσβυτέρων, πρωτοτόκου, χρυσῶν, ἀσεβοῦς</em>
+* `Masc` (486; 36% of non-empty `Gender`): <em>κύριος, πάντα, πάντας, πάντες, πᾶς, νεώτερος, ἕκαστος, καλὸν, εὐλογητὸς, καλόν</em>
 * `Masc,Neut` (192; 14% of non-empty `Gender`): <em>μέσον, πᾶσι, πᾶσιν, μέσῳ, αἰώνιον, νεώτερον, παντὶ, παντὸς, δίκαιον, πρεσβυτέρου</em>
 * `Neut` (244; 18% of non-empty `Gender`): <em>ὅσα, πᾶν, θῆλυ, μέγα, νεκρόν, ἕτερον, πάντα, διπλοῦν, μικρὰ, οὐδὲν</em>
 
@@ -191,8 +190,8 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 * `Fem` (46; 18% of non-empty `Gender`): <em>μίαν, μιᾷ, τρίτῃ, μία, ἑβδόμῃ, δεκάτην, δευτέρα, τετάρτη, τρίτην, ὀγδόῃ</em>
 * `Fem,Masc` (18; 7% of non-empty `Gender`): <em>τρεῖς, δυσὶν, τέσσαρας, τέσσαρες</em>
-* `Fem,Masc,Neut` (66; 26% of non-empty `Gender`): <em>δύο, τριῶν, μυριάδων, πεντακοσίων, τετρακοσίων, τριακοσίων, ἑξακοσίων</em>
-* `Masc` (43; 17% of non-empty `Gender`): <em>εἴκοσι, πεντήκοντα, εἷς, ἕνα, τετρακόσιοι, τριακοσίους, δύο, τέταρτος, τρίτος, ὀγδοήκοντα</em>
+* `Fem,Masc,Neut` (64; 25% of non-empty `Gender`): <em>δύο, τριῶν, μυριάδων, πεντακοσίων, τετρακοσίων, τριακοσίων, ἑξακοσίων</em>
+* `Masc` (45; 18% of non-empty `Gender`): <em>εἴκοσι, πεντήκοντα, εἷς, ἕνα, δύο, τετρακόσιοι, τριακοσίους, τέταρτος, τρίτος, ὀγδοήκοντα</em>
 * `Masc,Neut` (23; 9% of non-empty `Gender`): <em>δευτέρῳ, δευτέρου, πέμπτον, πρώτῳ, ἑξακοσιοστῷ, δεκάτου, πρώτοις, πρώτου, τεσσαρεσκαιδεκάτῳ, τρίτῳ</em>
 * `Neut` (61; 24% of non-empty `Gender`): <em>δεύτερον, διακόσια, ἐννακόσια, ἑπτακόσια, τρία, τριακόσια, ἕν, τέσσαρα, τετρακόσια, ἓν</em>
 * `EMPTY` (235): <em>ἑπτὰ, ἑκατὸν, δέκα, πέντε, τριάκοντα, τεσσαράκοντα, ἑξήκοντα, ἑβδομήκοντα, δώδεκα, ἐννέα</em>
@@ -237,14 +236,14 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="grc_ptnk-dep-det.html">det</a></tt>]--> DET</tt> (2692; 70%),
-<tt>PROPN --[<tt><a href="grc_ptnk-dep-det.html">det</a></tt>]--> DET</tt> (290; 56%),
-<tt>NOUN --[<tt><a href="grc_ptnk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (269; 59%),
-<tt>PROPN --[<tt><a href="grc_ptnk-dep-appos.html">appos</a></tt>]--> NOUN</tt> (255; 86%),
-<tt>PROPN --[<tt><a href="grc_ptnk-dep-conj.html">conj</a></tt>]--> PROPN</tt> (196; 75%),
-<tt>ADJ --[<tt><a href="grc_ptnk-dep-det.html">det</a></tt>]--> DET</tt> (163; 67%),
-<tt>NOUN --[<tt><a href="grc_ptnk-dep-det.html">det</a></tt>]--> PRON</tt> (118; 78%),
-<tt>NOUN --[<tt><a href="grc_ptnk-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (94; 63%),
-<tt>ADJ --[<tt><a href="grc_ptnk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (65; 71%),
-<tt>NOUN --[<tt><a href="grc_ptnk-dep-appos.html">appos</a></tt>]--> PROPN</tt> (61; 68%).
+<tt>NOUN --[<tt><a href="grc_ptnk-dep-det.html">det</a></tt>]--> DET</tt> (3807; 99%),
+<tt>PROPN --[<tt><a href="grc_ptnk-dep-det.html">det</a></tt>]--> DET</tt> (487; 95%),
+<tt>NOUN --[<tt><a href="grc_ptnk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (284; 63%),
+<tt>PROPN --[<tt><a href="grc_ptnk-dep-appos.html">appos</a></tt>]--> NOUN</tt> (258; 87%),
+<tt>ADJ --[<tt><a href="grc_ptnk-dep-det.html">det</a></tt>]--> DET</tt> (197; 81%),
+<tt>PROPN --[<tt><a href="grc_ptnk-dep-conj.html">conj</a></tt>]--> PROPN</tt> (197; 75%),
+<tt>NOUN --[<tt><a href="grc_ptnk-dep-det.html">det</a></tt>]--> PRON</tt> (119; 78%),
+<tt>NOUN --[<tt><a href="grc_ptnk-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (95; 64%),
+<tt>ADJ --[<tt><a href="grc_ptnk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (71; 77%),
+<tt>NOUN --[<tt><a href="grc_ptnk-dep-appos.html">appos</a></tt>]--> PROPN</tt> (63; 70%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-95 nodes (1%) are attached to their parents as `iobj`.
+93 nodes (1%) are attached to their parents as `iobj`.
 
-51 instances of `iobj` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.07368421052632.
+49 instances of `iobj` (53%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.08602150537634.
 
-The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (76; 80% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (19; 20% instances).
+The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (74; 80% instances), <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (19; 20% instances).
 
 
 ~~~ conllu
@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 1	beːn	_	DET	DEM	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=76156|AlignEnd=76440|Gloss=DIST.SG.M.NOM|RX=[DEM]|TokenType=Root
 2	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	det	_	AlignBegin=76440|AlignEnd=76582|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
 3	nda	_	NOUN	N	Gender=Masc|Number=Plur	4	nsubj	_	AlignBegin=76582|AlignEnd=76724|Gloss=man\PL|RX=[SBJ].[N].[M]|TokenType=Root
-4	ʔeːjaːn	_	VERB	V2,IRG	Aspect=Perf|Number=Plur|VerbClass=2	5	dep:comp	_	AlignBegin=76724|AlignEnd=76914|Gloss=come\PFV|MGloss=come\PFV-3PL|MSeg=ʔeːjaː-n|RX=[V2].[IRG]-[PNG]|TokenType=Root
+4	ʔeːjaːn	_	VERB	V2,IRG	Aspect=Perf|Number=Plur|VerbClass=2	5	dep:comp	_	AlignBegin=76724|AlignEnd=76914|Gloss=come\PFV|MGloss=come\PFV-3PL|MSeg=ʔeːjaː-n|RelRole=Obj|RX=[V2].[IRG]-[PNG]|TokenType=Root
 5	=eːb	_	SCONJ	CONJ	ExtPos=SCONJ|Gender=Masc|PronType=Rel	13	dep	_	AlignBegin=76914|AlignEnd=77009|Gloss==REL.M|Idiom=Yes|RX==[CONJ]|TokenType=Clit
 6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	5	fixed	_	AlignBegin=77009|AlignEnd=77151|Gloss=DEF.SG.M.ACC=|InIdiom=Yes|RX=[DET]=|TokenType=Clit
 7	doːr	_	NOUN	N	Gender=Masc	5	fixed	_	AlignBegin=77151|AlignEnd=77293|Gloss=time|InIdiom=Yes|RX=[N].[M]|TokenType=Root

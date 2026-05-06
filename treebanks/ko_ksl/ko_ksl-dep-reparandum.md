@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 11	fgColor:white
 # visual-style 11 10 reparandum	color:blue
 1	교외에	교외+에	ADV	NNG+JKB	_	3	obl	_	_
-2	아무도	아무+도	PRON	NP+JX	_	3	nsubj	_	_
+2	아무도	아무+도	PRON	NP+JX	PronType=Prs	3	nsubj	_	_
 3	없고	없+고	ADJ	VA+EC	_	12	obl	_	_
 4	날씨가	날씨+가	NOUN	NNG+JKS	_	5	nsubj	_	_
 5	따뜻하며	따뜻+하+며	ADJ	XR+XSA+EC	_	3	conj	_	_

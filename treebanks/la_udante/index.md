@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.8 release.
 The following people have contributed to making this treebank part of UD: Flavio Massimiliano Cecchini, Giovanni Moretti, Marco Passarotti, Rachele Sprugnoli, Daniela Corbetta, Federica Favero, Federica Gamba, Martina de Laurentiis, Giulia Pedonese, Andrea Peverelli, Elena Vagnoni, Mirko Tavoni.
 
 Repository: [UD_Latin-UDante](https://github.com/UniversalDependencies/UD_Latin-UDante)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_udante217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_udante218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -301,7 +301,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>ADJ: primo, secundo, prima, quarto, proprio, tertio, naturali, propria, celesti, comuni</li>
       <li>ADJ-Part: secundo, altissimo, secunda, secundis, alta, altiori, altissimis, alto, perplexis</li>
       <li>AUX-Part: ente, futuris, futuro</li>
-      <li>DET: hiis, illo, omnibus, sua, suis, aliis, hac, hoc, illa, suo</li>
+      <li>DET: hiis, illo, omnibus, sua, suis, hac, hoc, aliis, illa, suo</li>
       <li>NOUN: parte, re, iure, modo, celo, ratione, principio, forma, tempore, genere</li>
       <li>NOUN-Inf: actu</li>
       <li>NOUN-Part: natura, subiecto, ente, figura, dicto, Scripturis, incepto, mensura, meritis, precepto</li>
@@ -396,7 +396,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>NOUN-Part: natura, sponsa</li>
       <li>PRON: Tu</li>
       <li>PROPN: Tityre, Mopse, Apollo, Melibee, Petre, Florentia, Paule, Polipheme, Sathana, Urse</li>
-      <li>VERB-Part: cessure, desinens, nate, obcecati, peritura, punita, septi</li>
+      <li>VERB-Part: cessure, desinens, nate, obcecati, peritura, punita</li>
     </ul>
   </li>
 </ul>
@@ -419,6 +419,15 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       <li>ADV-Part: accuratissime, diligentissime, excellentissime, perfectissime</li>
       <li>DET: perplures, permultis</li>
       <li>VERB-Part: sanctissimo, perfectissimum, potentissimo, promptissima, promptissimam, volentissimo</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Abs,Cmp
+    <ul>
+      <li>ADJ: proximiores</li>
+      <li>ADV: proximius</li>
     </ul>
   </li>
 </ul>
@@ -516,7 +525,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
   <li>Perf
     <ul>
       <li>AUX-Fin: fuit, fuisset, fuerit, fuerunt, fuerat, fuerint, fuistis, fueram, fuere, fueritis</li>
-      <li>AUX-Inf: fuisse, fore</li>
+      <li>AUX-Inf: fuisse</li>
       <li>VERB-Fin: fecit, inquit, dixit, potuit, diximus, persuasit, vidit, dedit, cepit, dixi</li>
       <li>VERB-Inf: dixisse, cecinisse, poetasse, transcendisse, vidisse, cognovisse, divertisse, intendisse, obtinuisse, remansisse</li>
       <li>VERB-Part: dictum, converso, dicta, factum, facta, datum, diversa, causatum, factus, usi</li>
@@ -527,6 +536,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
 <ul>
   <li>Prosp
     <ul>
+      <li>AUX-Inf: fore</li>
       <li>AUX-Part: futura, futuram, futuris, futuro, futurum</li>
       <li>VERB-Inf: adfore</li>
       <li>VERB-Part: sciendum, dicendum, loquendo, canenda, advertendum, agendum, dicenda, dicendorum, querenda, subiciendo</li>
@@ -603,7 +613,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
   <li>Act
     <ul>
       <li>VERB-Fin: potest, patet, habet, dicimus, dicit, dico, oportet, dicunt, possit, debet</li>
-      <li>VERB-Inf: habere, facere, posse, dicere, solvere, velle, ligare, agere, videre, dependere</li>
+      <li>VERB-Inf: habere, facere, fieri, posse, dicere, solvere, velle, ligare, agere, videre</li>
       <li>VERB-Part: consequens, existente, dicens, existens, presens, consequentis, dicentes, loquens, agentis, antecedentis</li>
     </ul>
   </li>
@@ -613,7 +623,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
   <li>Pass
     <ul>
       <li>VERB-Fin: videtur, dicitur, sequitur, videntur, dicebatur, movetur, queritur, sequeretur, locuntur, dividitur</li>
-      <li>VERB-Inf: fieri, dici, uti, reduci, loqui, sequi, haberi, inveniri, operari, regi</li>
+      <li>VERB-Inf: dici, uti, reduci, loqui, sequi, haberi, inveniri, operari, regi, arbitrari</li>
       <li>VERB-Part: dictum, sciendum, dicendum, converso, dicta, factum, facta, datum, diversa, loquendo</li>
     </ul>
   </li>
@@ -1134,7 +1144,7 @@ We wish to thank all the annotators of the **UDante** treebank: Daniela Corbetta
       </li>
       <li>Oth
         <ul>
-          <li>PROPN: Capitolium, Capitolia</li>
+          <li>PROPN: Capitolia, Capitolium</li>
         </ul>
       </li>
       <li>Rel
@@ -1273,10 +1283,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Abl (5)</li>
       <li>VERB-Fin--NOUN-Acc (11)</li>
       <li>VERB-Fin--NOUN-Gen (2)</li>
-      <li>VERB-Fin--NOUN-Nom (890)</li>
+      <li>VERB-Fin--NOUN-Nom (891)</li>
       <li>VERB-Fin--PRON (9)</li>
       <li>VERB-Fin--PRON-Acc (10)</li>
-      <li>VERB-Fin--PRON-Nom (392)</li>
+      <li>VERB-Fin--PRON-Nom (391)</li>
       <li>VERB-Inf--NOUN (5)</li>
       <li>VERB-Inf--NOUN-Acc (76)</li>
       <li>VERB-Inf--NOUN-Nom (13)</li>
@@ -1299,7 +1309,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (8)</li>
       <li>VERB-Fin--NOUN-Abl (2)</li>
       <li>VERB-Fin--NOUN-Abl-ADP(a) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (709)</li>
+      <li>VERB-Fin--NOUN-Acc (710)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(per) (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
       <li>VERB-Fin--NOUN-Nom (11)</li>

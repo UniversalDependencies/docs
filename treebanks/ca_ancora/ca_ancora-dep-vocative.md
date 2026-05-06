@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 3	prou	prou	ADV	rg	_	2	advmod	2:advmod	ArgTem=argM:adv
 4	d'	de	ADP	sps00	_	5	mark	5:mark	SpaceAfter=No
 5	ordenar	ordenar	VERB	vmn0000	VerbForm=Inf	2	ccomp	2:ccomp	ArgTem=argM:atr
-6	li	ell	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	26	obj	26:obj	ArgTem=arg2:ben|Entity=(CESSCATA20010302159c15--1-CorefType:ident,gstype:gen)
+6	li	ell	PRON	pp3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	26	obl:arg	26:obl:arg	ArgTem=arg2:ben|Entity=(CESSCATA20010302159c15--1-CorefType:ident,gstype:gen)
 7	a	a	ADP	spcms	_	10	case	10:case	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	10:det	_
 9	seu	seu	DET	dp3ms0	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	10:det	Entity=(CESSCATA20010302159c15--2-gstype:gen(CESSCATA20010302159c6-organization-1-CorefType:ident,gstype:spec)

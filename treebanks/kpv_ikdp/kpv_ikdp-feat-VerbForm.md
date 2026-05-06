@@ -6,28 +6,29 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: Features: `VerbForm`
 
-This feature is universal but the values `Conv`, `Vnoun` are language-specific.
-It occurs with 5 different values: `Conv`, `Fin`, `Inf`, `Part`, `Vnoun`.
+This feature is universal but the values `Conv`, `NomAg`, `Vnoun` are language-specific.
+It occurs with 6 different values: `Conv`, `Fin`, `Inf`, `NomAg`, `Part`, `Vnoun`.
 
-367 tokens (16%) have a non-empty value of `VerbForm`.
-261 types (26%) occur at least once with a non-empty value of `VerbForm`.
+369 tokens (16%) have a non-empty value of `VerbForm`.
+263 types (26%) occur at least once with a non-empty value of `VerbForm`.
 150 lemmas (21%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (327; 14% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (40; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (328; 14% instances), <tt><a href="kpv_ikdp-pos-AUX.html">AUX</a></tt> (40; 2% instances), <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-327 <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> tokens (94% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+328 <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> tokens (95% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (250; 76%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (215; 66%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (173; 53%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (170; 52%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="kpv_ikdp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (250; 76%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (216; 66%), <tt><a href="kpv_ikdp-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (173; 53%), <tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt> (170; 52%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (4; 1% of non-empty `VerbForm`): <em>велӧдчигӧныс, вӧрзялыгдырйи, локтігӧныс, мунігӧныс</em>
-* `Fin` (257; 79% of non-empty `VerbForm`): <em>кӧсъя, сетіс, любита, рӧдитчи, босьтіс, вежсис, ветлі, висьтоо, воедіс, мунэма</em>
+* `Fin` (257; 78% of non-empty `VerbForm`): <em>кӧсъя, сетіс, любита, рӧдитчи, босьтіс, вежсис, ветлі, висьтоо, воедіс, мунэма</em>
 * `Inf` (59; 18% of non-empty `VerbForm`): <em>велэдны, ветлыны, мунны, босьны, висьтооны, велэдчыны, ветлооны, Сравнитны, бериччыны, велӧдчыны</em>
+* `NomAg` (1; 0% of non-empty `VerbForm`): <em>ветлысь</em>
 * `Part` (1; 0% of non-empty `VerbForm`): <em>закончитэм</em>
 * `Vnoun` (6; 2% of non-empty `VerbForm`): <em>Велэдчем, босьтӧм, велэдчемысь, закончитэм, олэмад, тӧдэмъяссэ</em>
-* `EMPTY` (20): <em>вермы, тӧд, бросайтчы, велэдчыгмоз, ветлоо, ветлысь, висьт-, во, вуджедтэг, кыскоо</em>
+* `EMPTY` (19): <em>вермы, тӧд, бросайтчы, велэдчыгмоз, ветлоо, висьт-, во, вуджедтэг, кыскоо, ло</em>
 
 <table>
   <tr><th>Paradigm <i>велӧдчыны</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Conv</tt></th><th><tt>Vnoun</tt></th></tr>
@@ -51,6 +52,17 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 * `Fin` (40; 100% of non-empty `VerbForm`): <em>вӧлі, из, оз, вӧліс, ог, выйым, он, кута, куча</em>
 * `EMPTY` (18): <em>абу, выйым, были, вӧв, бы, было</em>
+
+### `NOUN`
+
+1 <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `VerbForm`.
+
+The most frequent other feature values with which `NOUN` and `VerbForm` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (1; 100%).
+
+`NOUN` tokens may have the following values of `VerbForm`:
+
+* `NomAg` (1; 100% of non-empty `VerbForm`): <em>велэдысьыс</em>
+* `EMPTY` (474): <em>во, ае, вок, коми, туй, чой, Пустыня, год, кыы, кӧр</em>
 
 ## Relations with Agreement in `VerbForm`
 

@@ -77,13 +77,13 @@ The 2nd highest number of forms (2) was observed with the lemma “ⲉⲣⲉ”:
 
 The 3rd highest number of forms (2) was observed with the lemma “ⲛ”: ⲙ, ⲛ.
 
-`PART` occurs with 2 features: <tt><a href="cop_bohairic-feat-Foreign.html">Foreign</a></tt> (442; 43% instances), <tt><a href="cop_bohairic-feat-Polarity.html">Polarity</a></tt> (6; 1% instances)
+`PART` occurs with 3 features: <tt><a href="cop_bohairic-feat-Foreign.html">Foreign</a></tt> (442; 43% instances), <tt><a href="cop_bohairic-feat-Emph.html">Emph</a></tt> (72; 7% instances), <tt><a href="cop_bohairic-feat-Polarity.html">Polarity</a></tt> (6; 1% instances)
 
-`PART` occurs with 2 feature-value pairs: `Foreign=Yes`, `Polarity=Neg`
+`PART` occurs with 3 feature-value pairs: `Emph=Yes`, `Foreign=Yes`, `Polarity=Neg`
 
-`PART` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (587 tokens).
-Examples: ⲛϫⲉ, ⲉ, ⲉⲧ, ⲁ, ⲛ, ⲓⲥ, ⲁⲣⲉ, ϫⲉ, ϩⲏⲡⲡⲉ, ⲉⲣⲉ
+`PART` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (515 tokens).
+Examples: ⲛϫⲉ, ⲉ, ⲛ, ⲓⲥ, ϫⲉ, ϩⲏⲡⲡⲉ, ⲟⲩⲛ, ⲁⲛ, ⲉϩⲟⲧⲉ, ⲁϩⲏ
 
 
 ## Relations

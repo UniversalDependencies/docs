@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1534; 100% of non-empty `Abbr`): <em>a., a, USB, p, VD, g, km, cm, m, kr</em>
-* `EMPTY` (114165): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `EMPTY` (114146): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (355) occur only with one value of `Abbr`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (376; 100% of non-empty `Abbr`): <em>jne, jt., jt, s.t, sh, n-ö, nt, st, jm, jms</em>
-* `EMPTY` (41721): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
+* `EMPTY` (41735): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (37) occur only with one value of `Abbr`.
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (47; 100% of non-empty `Abbr`): <em>vt, vt., vrd</em>
-* `EMPTY` (47811): <em>tuleb, on, teha, ütles, saada, sai, saanud, tuli, saab, jääb</em>
+* `EMPTY` (47814): <em>tuleb, on, teha, ütles, saada, sai, saanud, tuli, saab, jääb</em>
 
 ### `X`
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 `NUM` tokens may have the following values of `Abbr`:
 
 * `Yes` (12; 100% of non-empty `Abbr`): <em>milj., mln, milj</em>
-* `EMPTY` (9009): <em>kaks, 1, üks, 10, 2, kolm, ühe, kahe, 3, miljonit</em>
+* `EMPTY` (9010): <em>kaks, 1, üks, 10, 2, kolm, ühe, kahe, 3, miljonit</em>
 
 ## Relations with Agreement in `Abbr`
 

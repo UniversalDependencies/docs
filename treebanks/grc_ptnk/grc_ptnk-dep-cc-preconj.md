@@ -79,11 +79,11 @@ The following 6 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 9 8 cc:preconj	color:blue
 1	καὶ	καί	CCONJ	_	_	5	cc	_	Gloss=and,also,even,then,next|Ref=GEN_2.25
 2	ἦσαν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	Gloss=to-be|Ref=GEN_2.25
-3	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	5	det	_	Gloss=the|Ref=GEN_2.25
+3	οἱ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	Gloss=the|Ref=GEN_2.25
 4	δύο	δύο	NUM	_	Case=Acc,Gen,Nom|Gender=Fem,Masc,Neut|Number=Sing|NumType=Card	5	nsubj	_	Gloss=two|Ref=GEN_2.25
 5	γυμνοί	γυμνός	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Gloss=naked|Ref=GEN_2.25|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Ref=GEN_2.25
-7	ὅ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Gloss=who,which,that;-+enclitic=the|Ref=GEN_2.25
+7	ὅ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Gloss=who,which,that;-+enclitic=the|Ref=GEN_2.25
 8	τε	τε	CCONJ	_	_	9	cc:preconj	_	Gloss=and,both,if|Ref=GEN_2.25|Unknown=particle/Conjunction
 9	Ἀδὰμ	Ἀδάμ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	dislocated	_	Gloss=Adam|Ref=GEN_2.25
 10	καὶ	καί	CCONJ	_	_	12	cc	_	Gloss=and,also,even,then,next|Ref=GEN_2.25

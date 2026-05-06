@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1152 nodes (5%) are attached to their parents as `obj`.
+1209 nodes (5%) are attached to their parents as `obj`.
 
-844 instances of `obj` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.01475694444444.
+893 instances of `obj` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.01075268817204.
 
-The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (886; 77% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (185; 16% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (34; 3% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (28; 2% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (13; 1% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (931; 77% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (193; 16% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (35; 3% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (29; 2% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 7 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 2 obj	color:blue
 1	–	–	PUNCT	Punct_Dash	_	3	punct	_	LMSeg:–
-2	რას	რა	PRON	Pron_Int_Nonhum_Dat	Case=Dat	3	obj	_	LMSeg:რ[ა]
+2	რას	რა	PRON	Pron_Int_Nonhum_Dat	Case=Dat|PronType=Int	3	obj	_	LMSeg:რ[ა]
 3	გეუბნებიან	თქმა	VERB	V_MedPass_Pres_S:3Pl_DO:3_IO:2	Mood=Ind|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:*·თქმ[ა]/უბნ
 4	ექიმები	ექიმი	NOUN	N_Hum_Nom_Pl_NewPl	Animacy=Anim|Case=Nom|Number=Plur	3	nsubj	_	LMSeg:ექიმ·ი|SpaceAfter=No
 5	?	?	PUNCT	Punct_IntMark	_	3	punct	_	LMSeg:?

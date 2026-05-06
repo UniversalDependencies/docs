@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1446 nodes (1%) are attached to their parents as `nummod`.
+1606 nodes (1%) are attached to their parents as `nummod`.
 
-1381 instances of `nummod` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4073305670816.
+1519 instances of `nummod` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39975093399751.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1303; 90% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (106; 7% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (23; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (1429; 89% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (133; 8% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (31; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gum-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,13 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nummod	color:blue
-1	For	for	ADP	IN	_	3	case	3:case	Discourse=organization-preparation:69->73:3:num-count-522-gold|PDTB=Implicit:Comparison.Concession.Arg2-as-denier:but:_:501-520:521-531
+1	For	for	ADP	IN	_	3	case	3:case	Discourse=organization-preparation:69->73:3:num-count-522-gold|PDTB=NoRel:NoRel:_:_:501-520:521-531
 2	one	one	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	_
 3	thing	thing	NOUN	NN	Number=Sing	6	obl	6:obl:for	SpaceAfter=No
 4	,	,	PUNCT	,	_	3	punct	3:punct	_
 5	there	there	PRON	EX	PronType=Dem	6	expl	6:expl	_
 6	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl
-7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Entity=(100-abstract-new-nnnnn-cf1-2-sgl
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Bridge=99<100:set-member|Entity=(100-abstract-acc:inf-nnnnn-cf1-2-sgl
 8	matter	matter	NOUN	NN	Number=Sing	6	nsubj	6:nsubj	CxnElt=6:Existential-CopPred-ThereExpl.Pivot
 9	of	of	ADP	IN	_	10	case	10:case	_
 10	agency	agency	NOUN	NN	Number=Sing	8	nmod	8:nmod:of	Entity=(101-abstract-new-nnnnn-cf2-1-sgl)100)|MSeg=agen-cy|SpaceAfter=No
@@ -56,22 +56,28 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 nummod	color:blue
-1	8	8	X	LS	_	2	discourse	2:discourse	Discourse=joint-list_m:106->95:2:grf-seq-768,860-_|XML=<hi rend:::"bold"><ref target:::"https://en.wikivoyage.org/wiki/Isfahan#/maplink/7"></ref>
-2	Hasht	Hasht	PROPN	NNP	Number=Sing	0	root	0:root	Entity=(149-place-new-nnnnn-cf1-1,2-coref-Hasht_Behesht
-3	Behesht	Behesht	PROPN	NNP	Number=Sing	2	flat	2:flat	Entity=149)|XML=</hi>
-4	(	(	PUNCT	-LRB-	_	6	punct	6:punct	Discourse=restatement-partial:107->106:0:sem-synym-861-862,864-868-_+grf-prn-863,869-_|SpaceAfter=No
-5	The	the	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Entity=(149-place-giv:act-nnnnn-cf1-2,5-appos-Hasht_Behesht|XML=<hi rend:::"italic">
-6	Palace	Palace	PROPN	NNP	Number=Sing	2	appos	2:appos	_
-7	of	of	ADP	IN	_	9	case	9:case	_
-8	Eight	eight	NUM	CD	NumForm=Word|NumType=Card	9	nummod	9:nummod	Entity=(150-abstract-new-nnnnn-cf2-2-sgl
-9	Paradises	Paradise	PROPN	NNPS	Number=Plur	6	nmod	6:nmod:of	Entity=150)149)|MSeg=Paradise-s|SpaceAfter=No|XML=</hi>
-10	)	)	PUNCT	-RRB-	_	6	punct	6:punct	SpaceAfter=No
-11	.	.	PUNCT	.	_	2	punct	2:punct	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 nummod	color:blue
+1	–	-	PUNCT	:	_	6	punct	6:punct	Discourse=explanation-evidence:31->29:0:_
+2	USPS	USPS	PROPN	NNP	Number=Sing	5	compound	5:compound	Entity=(89-time-new-nnnnn-cf4-1,4-sgl(77-organization-giv:inact-ssnnn-cf2-1-coref-United_States_Postal_Service)
+3	2	2	NUM	CD	NumForm=Digit|NumType=Card	5	nummod	5:nummod	SpaceAfter=No|XML=<w>
+4	-	-	PUNCT	HYPH	_	3	punct	3:punct	SpaceAfter=No
+5	Day	Day	PROPN	NNP	Number=Sing	6	nsubj	6:nsubj	Entity=89)|XML=</w>
+6	$	$	SYM	$	_	0	root	0:root	Entity=(90-abstract-new-nnnnn-cf6-1-sgl|SpaceAfter=No|XML=<w>
+7	5.68	5.68	NUM	CD	NumForm=Digit|NumType=Frac	6	nummod	6:nummod	XML=</w>
+8	(	(	PUNCT	-LRB-	_	10	punct	10:punct	Discourse=elaboration-additional:32->31:0:_|SpaceAfter=No
+9	46	46	NUM	CD	NumForm=Digit|NumType=Card	10	nummod	10:nummod	Entity=(91-abstract-new-nnnnn-cf5-2-sgl
+10	cents	cent	NOUN	NNS	Number=Plur	6	appos	6:appos	MSeg=c-ent-s
+11	without	without	ADP	IN	_	16	case	16:case	Discourse=mode-manner:33->32:0:dm-without-383-_|MSeg=with-out
+12	the	the	DET	DT	Definite=Def|PronType=Art	16	det	16:det	Bridge=85<92:entity-associative|Entity=(92-abstract-acc:inf-nnnnn-cf3-5-sgl
+13	2	2	NUM	CD	NumForm=Digit|NumType=Card	15	nummod	15:nummod	Entity=(86-time-giv:act-nnnnn-cf1*-3-coref|SpaceAfter=No|XML=<w>
+14	-	-	PUNCT	HYPH	_	13	punct	13:punct	SpaceAfter=No
+15	day	day	NOUN	NN	Number=Sing	16	compound	16:compound	Entity=86)|XML=</w>
+16	restriction	restriction	NOUN	NN	Number=Sing	10	nmod	10:nmod:without	Entity=92)91)|MSeg=restrict-ion|SpaceAfter=No
+17	)	)	PUNCT	-RRB-	_	10	punct	10:punct	Entity=90)
 
 ~~~
 

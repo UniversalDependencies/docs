@@ -9,12 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sr_set-feat-Gender.html">Gender</a></tt>, <tt><a href="sr_set-feat-Gender-psor.html">Gender[psor]</a></tt>.
-
 50382 tokens (52%) have a non-empty value of `Gender`.
 16568 types (90%) occur at least once with a non-empty value of `Gender`.
 8063 lemmas (84%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23810; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10967; 11% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7408; 8% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3490; 4% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (3352; 3% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (749; 1% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (304; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (302; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23810; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10967; 11% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7408; 8% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3488; 4% instances), <tt><a href="sr_set-pos-VERB.html">VERB</a></tt> (3352; 3% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (751; 1% instances), <tt><a href="sr_set-pos-AUX.html">AUX</a></tt> (304; 0% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (302; 0% instances).
 
 ### `NOUN`
 
@@ -105,15 +103,15 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `DET`
 
-3490 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Gender`.
+3488 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="sr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3119; 89%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3118; 89%), <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2728; 78%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2383; 68%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="sr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3117; 89%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3116; 89%), <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2726; 78%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2381; 68%).
 
 `DET` tokens may have the following values of `Gender`:
 
 * `Fem` (1240; 36% of non-empty `Gender`): <em>koja, koje, ove, koju, svoje, svoju, te, kojoj, ta, sve</em>
 * `Masc` (1490; 43% of non-empty `Gender`): <em>koji, taj, svoj, neki, svog, ovog, tog, koje, svoje, kojim</em>
-* `Neut` (760; 22% of non-empty `Gender`): <em>to, toga, tome, koja, koje, ovo, sve, svoje, tom, tim</em>
+* `Neut` (758; 22% of non-empty `Gender`): <em>to, toga, tome, koja, koje, ovo, sve, svoje, tom, tim</em>
 * `EMPTY` (149): <em>nekoliko, više, puno, koliko, mnogo, toliko, malo, manje, odsto, Oko</em>
 
 <table>
@@ -155,15 +153,15 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `PRON`
 
-749 <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> tokens (31% of all `PRON` tokens) have a non-empty value of `Gender`.
+751 <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> tokens (31% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (749; 100%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (518; 69%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (480; 64%), <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (480; 64%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (416; 56%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (751; 100%), <tt><a href="sr_set-feat-Case.html">Case</a></tt><tt>=Nom</tt> (518; 69%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=3</tt> (480; 64%), <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (480; 64%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (418; 56%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (98; 13% of non-empty `Gender`): <em>ona, je, joj, one, nje, ju, njoj, njom, nju</em>
 * `Masc` (423; 56% of non-empty `Gender`): <em>on, oni, ga, njega, ko, mu, niko, neko, njemu, koga</em>
-* `Neut` (228; 30% of non-empty `Gender`): <em>što, šta, ništa, ono, nešto, čime, čega, čemu, ona, kome</em>
+* `Neut` (230; 31% of non-empty `Gender`): <em>što, šta, ništa, ono, nešto, čime, čega, čemu, ona, kome</em>
 * `EMPTY` (1654): <em>se, mi, ih, im, njih, nam, nas, njima, sebe, ja</em>
 
 <table>

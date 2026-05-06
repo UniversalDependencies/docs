@@ -150,7 +150,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Ess` (64; 58% of non-empty `Case`): <em>boahtimin, fárremin, leamen, čierastallame, bargame, bargamin, bassaladdame, bassame, boahtime, oađđimin</em>
 * `Gen` (24; 22% of non-empty `Case`): <em>vácci, čuoigga, gudnejahttin, ráhkistan, Mearkkašan, Suga, bora, fuopmášan, namahan, njága</em>
 * `Loc` (12; 11% of non-empty `Case`): <em>goargŋumis, juhkamis, bargamis, borgguheames, botkemis, deaivvadeamis, gođđimis, guldaleames, jáhkkimis, vuostáváldimis</em>
-* `EMPTY` (4199): <em>lea, leat, lei, ledje, bođii, boahtá, manai, vuolgit, ožžon, dieđe</em>
+* `EMPTY` (4198): <em>lea, leat, lei, ledje, bođii, boahtá, manai, vuolgit, ožžon, dieđe</em>
 
 <table>
   <tr><th>Paradigm <i>bargat</i></th><th><tt>Loc</tt></th><th><tt>Ess</tt></th></tr>
@@ -168,18 +168,18 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `AUX` tokens may have the following values of `Case`:
 
 * `Ess` (3; 100% of non-empty `Case`): <em>leamen, áigume, áigumin</em>
-* `EMPTY` (1991): <em>lea, leat, ii, lei, eai, ledje, galgá, lean, sáhttá, in</em>
+* `EMPTY` (1992): <em>lea, leat, ii, lei, eai, ledje, galgá, lean, sáhttá, in</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> NOUN</tt> (324; 96%),
+<tt>NOUN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> NOUN</tt> (328; 95%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-det.html">det</a></tt>]--> PRON</tt> (168; 93%),
 <tt>ADJ --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (118; 98%),
 <tt>ADJ --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (76; 100%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (74; 74%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (65; 76%),
-<tt>PROPN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> PROPN</tt> (42; 84%),
+<tt>PROPN --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> PROPN</tt> (45; 85%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-amod.html">amod</a></tt>]--> NUM</tt> (31; 97%),
 <tt>ADJ --[<tt><a href="sme_giella-dep-conj.html">conj</a></tt>]--> ADJ</tt> (13; 93%),
 <tt>NOUN --[<tt><a href="sme_giella-dep-appos.html">appos</a></tt>]--> NOUN</tt> (13; 76%).

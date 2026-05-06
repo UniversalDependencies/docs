@@ -106,20 +106,20 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
 4	fundada	fundar	VERB	VBN	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	primera	primero	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
+6	primera	primero	ADJ	JJ	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	_
 7	compañía	compañía	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	películas	película	NOUN	NN	Gender=Fem|Number=Plur	7	nmod	_	_
 10	(	(	PUNCT	(	PunctSide=Ini|PunctType=Brck	11	punct	_	SpaceAfter=No
 11	Athina	Athina	PROPN	NNP	Number=Sing	7	appos	_	_
-12	Film	Film	PROPN	NNP	Number=Sing	11	flat:name	_	SpaceAfter=No|Proper=True
+12	Film	Film	PROPN	NNP	Number=Sing	11	flat:name	_	Proper=True|SpaceAfter=No
 13	)	)	PUNCT	)	PunctSide=Fin|PunctType=Brck	11	punct	_	_
 14	y	y	CCONJ	CC	_	16	cc	_	_
 15	en	en	ADP	IN	_	16	case	_	orig_deprel=obl
 16	1916	1916	NUM	CD	Gender=Masc|NumForm=Digit|NumType=Card	4	conj	_	SpaceAfter=No
 17	,	,	PUNCT	,	PunctType=Comm	18	punct	_	_
 18	Asty	Asty	PROPN	NNP	Number=Sing	16	orphan	_	_
-19	Film	Film	PROPN	NNP	Number=Sing	18	flat:name	_	SpaceAfter=No|orig_deprel=nsubj:pass|Proper=True
+19	Film	Film	PROPN	NNP	Number=Sing	18	flat:name	_	Proper=True|SpaceAfter=No|orig_deprel=nsubj:pass
 20	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~

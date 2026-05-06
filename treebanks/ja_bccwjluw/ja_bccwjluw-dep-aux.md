@@ -34,10 +34,10 @@ The following 13 pairs of parts of speech are connected with `aux`: <tt><a href=
 10	_	_	AUX	_	_	8	aux	_	BBIL=I|BPT=2|PUDL=よう|SpaceAfter=No|UI=34
 11	_	_	PUNCT	_	_	8	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=24
 12	_	_	VERB	_	_	13	acl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=25991
-13	_	_	NOUN	_	_	16	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=26495
+13	_	_	NOUN	_	_	18	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=26495
 14	_	_	ADP	_	_	13	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=8
 15	_	_	DET	_	_	16	det	_	BBIL=B|BPT=0|SpaceAfter=No|UI=33
-16	_	_	NOUN	_	_	18	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=1005
+16	_	_	NOUN	_	_	13	conj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=1005
 17	_	_	ADP	_	_	16	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
 18	_	_	NOUN	_	_	20	obj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=12335
 19	_	_	ADP	_	_	18	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=3

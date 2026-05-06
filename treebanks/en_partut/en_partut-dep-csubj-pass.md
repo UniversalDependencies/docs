@@ -63,7 +63,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 7	Council	Council	PROPN	SP	_	8	nmod	_	_
 8	Decision	Decision	PROPN	SP	_	5	nmod	_	_
 9	of	of	ADP	E	_	10	case	_	_
-10	17	17	NUM	N	NumType=Card	8	obl	_	_
+10	17	17	NUM	N	NumType=Card	8	nmod	_	_
 11	December	December	PROPN	SP	_	10	nmod:unmarked	_	_
 12	2001	2001	NUM	N	NumType=Card	10	nmod:unmarked	_	_
 13	establishing	establish	VERB	V	Tense=Pres|VerbForm=Part	4	acl	_	_

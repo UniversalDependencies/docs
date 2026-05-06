@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Maitrey Mehta, Mayank Jobanputra.
 
 Repository: [UD_Gujarati-GujTB](https://github.com/UniversalDependencies/UD_Gujarati-GujTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgu_gujtb217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgu_gujtb218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -37,7 +37,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 | Lemmas | annotated manually |
 | UPOS | annotated manually, natively in UD style |
 | XPOS | not available |
-| Features | annotated manually, natively in UD style |
+| Features | not available |
 | Relations | annotated manually, natively in UD style |
 
 ## Description
@@ -94,7 +94,7 @@ abstract = "The Universal Dependencies (UD) project has presented itself as a va
 
 ## Features
 
-[Case](gu_gujtb-feat-Case.html) – [Clusivity](gu_gujtb-feat-Clusivity.html) – [Gender](gu_gujtb-feat-Gender.html) – [Mood](gu_gujtb-feat-Mood.html) – [Number](gu_gujtb-feat-Number.html) – [Polite](gu_gujtb-feat-Polite.html) – [Typo](gu_gujtb-feat-Typo.html) – [VerbType](gu_gujtb-feat-VerbType.html)
+[ExtPos](gu_gujtb-feat-ExtPos.html) – [Typo](gu_gujtb-feat-Typo.html)
 
 ## Relations
 
@@ -163,160 +163,9 @@ abstract = "The Universal Dependencies (UD) project has presented itself as a va
 <h3>Nominal Features</h3>
 
 
-<ul>
-  <li><a>Gender</a></li>
-</ul>
-
-<ul>
-  <li>Fem
-    <ul>
-      <li>NOUN: આશા, ઓળખ, દુનિયા, પોલીસ, _, ઘટના</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Masc
-    <ul>
-      <li>NOUN: બંદોબસ્ત, વિસ્તારમાં</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Neut
-    <ul>
-      <li>NOUN: આપનારું, કાર્યાલય, ગામમાં</li>
-    </ul>
-  </li>
-</ul>
 
 
-<ul>
-  <li><a>Number</a></li>
-</ul>
 
-<ul>
-  <li>Plur
-    <ul>
-      <li>NOUN: _, ઉપલબ્ધિઓ, પગલાંમાં, સદસ્યો, સવાલો</li>
-      <li>PRON: આપણને</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Sing
-    <ul>
-      <li>NOUN: ઘટના</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>Case</a></li>
-</ul>
-
-<ul>
-  <li>Abl
-    <ul>
-      <li>PROPN: દિલ્હીથી</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Abs
-    <ul>
-      <li>NOUN: ચોપડી, ફળ</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Acc
-    <ul>
-      <li>NOUN: વિમાનને</li>
-      <li>PRON: તેમને</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>All
-    <ul>
-      <li>NOUN: ઘરમાં</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Cmp
-    <ul>
-      <li>PROPN: છગનથી</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Dat
-    <ul>
-      <li>NOUN: ભારતને, લોકોને</li>
-      <li>PRON: આપણને</li>
-      <li>PROPN: મગનને, લિનાને</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Erg
-    <ul>
-      <li>NOUN: પ્રધાનમંત્રીએ</li>
-      <li>PROPN: મિતાએ, ઐયરે, મોદીએ</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Gen
-    <ul>
-      <li>NOUN: _</li>
-      <li>PRON: _</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Loc
-    <ul>
-      <li>PROPN: અમદાવાદમાં, પુણેમાં, બિશ્કેકમાં, સમિટમાં</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Nom
-    <ul>
-      <li>PROPN: રામ</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Tem
-    <ul>
-      <li>NOUN: કાલે, અઠવાડિયામાં</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Ter
-    <ul>
-      <li>NUM: 7એ</li>
-    </ul>
-  </li>
-</ul>
 
 
 
@@ -330,17 +179,6 @@ abstract = "The Universal Dependencies (UD) project has presented itself as a va
 
 
 
-<ul>
-  <li><a>Mood</a></li>
-</ul>
-
-<ul>
-  <li>Nec
-    <ul>
-      <li>AUX: પડયું</li>
-    </ul>
-  </li>
-</ul>
 
 
 
@@ -353,17 +191,6 @@ abstract = "The Universal Dependencies (UD) project has presented itself as a va
 
 
 
-<ul>
-  <li><a>Polite</a></li>
-</ul>
-
-<ul>
-  <li>Form
-    <ul>
-      <li>VERB: આવજે</li>
-    </ul>
-  </li>
-</ul>
 
 
 
@@ -371,11 +198,11 @@ abstract = "The Universal Dependencies (UD) project has presented itself as a va
 
 
 <ul>
-  <li><a>Clusivity</a>
+  <li><a>ExtPos</a>
     <ul>
-      <li>In
+      <li>ADP
         <ul>
-          <li>PRON: આપણને</li>
+          <li>ADP: _, ના</li>
         </ul>
       </li>
     </ul>
@@ -387,21 +214,8 @@ abstract = "The Universal Dependencies (UD) project has presented itself as a va
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: ઘાસવાળો</li>
           <li>CCONJ: તેમ</li>
           <li>NOUN: ઝગડા, પ્રેમ</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>VerbType</a>
-    <ul>
-      <li>Ideo
-        <ul>
-          <li>VERB: ડબુક</li>
         </ul>
       </li>
     </ul>
@@ -426,8 +240,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (38)</li>
-      <li>VERB--NOUN-Erg (1)</li>
+      <li>VERB--NOUN (39)</li>
       <li>VERB--PRON (52)</li>
     </ul>
   </li>
@@ -436,13 +249,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (72)</li>
-      <li>VERB--NOUN-Abs (2)</li>
-      <li>VERB--NOUN-Acc (1)</li>
-      <li>VERB--PRON (13)</li>
+      <li>VERB--NOUN (75)</li>
+      <li>VERB--PRON (15)</li>
       <li>VERB--PRON-ADP(ની) (1)</li>
-      <li>VERB--PRON-Acc (1)</li>
-      <li>VERB--PRON-Dat (1)</li>
     </ul>
   </li>
 </ul>
@@ -450,8 +259,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (4)</li>
-      <li>VERB--NOUN-Dat (1)</li>
+      <li>VERB--NOUN (5)</li>
       <li>VERB--PRON (2)</li>
     </ul>
   </li>

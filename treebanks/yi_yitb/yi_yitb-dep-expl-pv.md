@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="yi_yitb-dep-expl.html">expl</a></tt>.
 
-254 nodes (1%) are attached to their parents as `expl:pv`.
+255 nodes (1%) are attached to their parents as `expl:pv`.
 
-141 instances of `expl:pv` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28346456692913.
+141 instances of `expl:pv` (55%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28235294117647.
 
-The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (250; 98% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `expl:pv`: <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (251; 98% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

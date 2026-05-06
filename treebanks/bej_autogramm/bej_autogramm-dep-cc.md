@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-340 nodes (3%) are attached to their parents as `cc`.
+339 nodes (3%) are attached to their parents as `cc`.
 
-311 instances of `cc` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.37941176470588.
+310 instances of `cc` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.38053097345133.
 
-The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (234; 69% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (76; 22% instances), <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (7; 2% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (7; 2% instances), <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (6; 2% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="bej_autogramm-pos-X.html">X</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (233; 69% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (76; 22% instances), <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (9; 3% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (7; 2% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="bej_autogramm-pos-X.html">X</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,25 +58,25 @@ The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 cc	color:blue
-1	mmm	_	INTJ	HESIT	_	4	discourse	_	AlignBegin=288270|AlignEnd=288507|Gloss=mmm|RX=[HESIT]|TokenType=Root
-2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=288507|AlignEnd=289179|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-3	ti=	_	DET	DET	Definite=Def|Gender=Fem	4	det	_	AlignBegin=289179|AlignEnd=289314|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-4	ʤanna	_	NOUN	N	Gender=Fem	13	nsubj	_	AlignBegin=289314|AlignEnd=289449|Gloss=paradise|RX=[SBJ].[N].[F]|TokenType=Root
-5	areː	_	CCONJ	PTCL	_	4	cc	_	AlignBegin=289449|AlignEnd=289719|Gloss=then|RX=[PTCL]|TokenType=Root
-6	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=289719|AlignEnd=290094|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-7	tuː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	8	det	_	AlignBegin=290094|AlignEnd=290313|Gloss=DEF.SG.F.NOM=|RX=[DET]=|TokenType=Clit
-8	kna	_	PRON	PRO	Reflex=Yes	4	nmod	_	AlignBegin=290313|AlignEnd=290533|Gloss=owner|RX=[PRO].[REFL]|TokenType=Root
-9	dammʔara	_	NOUN	N	Gender=Masc	10	dep:comp	_	AlignBegin=290533|AlignEnd=290679|Gloss=gold|RX=[N].[M]|TokenType=Root
-10	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	13	obl:arg	_	AlignBegin=290679|AlignEnd=290825|Gloss==ABL.SG|RX==[POSTP]|TokenType=Clit
-11	=wa	_	CCONJ	CONJ	_	10	cc	_	AlignBegin=290825|AlignEnd=290972|Gloss==COORD|RX==[CONJ]|TokenType=Clit
-12	/	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=290972|AlignEnd=291411|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-13	atdʔiraːt	_	VERB	_	Aspect=Perf|Gender=Fem	0	root	_	AlignBegin=291521|AlignEnd=291888|Gloss=build|MGloss=PASS-build-CVB.MNR-INDF.F|MSeg=at-dʔir-aː-t|RX=[V1]--[PRF]-[DET]-[PRED].[N]|TokenType=Root
-14	=u	_	AUX	PUNCT.COP	Number=Sing|Person=3|VerbType=Cop	13	aux	_	AlignBegin=291888|AlignEnd=291980|Gloss==COP.3SG|RX==[PUNCT]|TokenType=Clit
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 cc	color:blue
+1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=140130|AlignEnd=140233|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
+2	ragad	_	NOUN	N	Gender=Masc	11	nsubj	_	AlignBegin=140233|AlignEnd=140336|Gloss=leg|RX=[SBJ].[N].[M]|TokenType=Root
+3	/	_	PUNCT	_	_	2	punct	_	AlignBegin=140336|AlignEnd=140541|Gloss=/|TokenType=Break
+4	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	5	det	_	AlignBegin=140541|AlignEnd=140633|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
+5	harʔiː	_	ADP	N	_	2	nmod	_	AlignBegin=140633|AlignEnd=140725|Gloss=behind|RX=[POSTP]|TokenType=Root
+6	=wwa	_	CCONJ	CONJ	_	5	cc	_	AlignBegin=140817|AlignEnd=140911|Gloss==COORD|RX==[CONJ]|TokenType=Clit
+7	i=	_	DET	DET	Gender=Masc	8	det	_	AlignBegin=140911|AlignEnd=141003|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
+8	suːriː	_	ADP	N	_	5	dep:conj	_	AlignBegin=141003|AlignEnd=141095|Gloss=in_font_of|RX=[POSTP]|TokenType=Root
+9	=wwa	_	CCONJ	CONJ	_	8	cc	_	AlignBegin=141187|AlignEnd=141281|Gloss==COORD|RX==[CONJ]|TokenType=Clit
+10	/	_	PUNCT	_	_	8	punct	_	AlignBegin=141281|AlignEnd=141652|Gloss=/|TokenType=Break
+11	taɖoːmaːb	_	VERB	V2	Gender=Masc|VerbClass=2	0	root	_	AlignBegin=141652|AlignEnd=141937|Gloss=be_fastened|MGloss=be_fastened-CVB.MNR-INDF.M.ACC|MSeg=taɖoːm-aː-b|RX=[V2]-[PRF]-[DET]|TokenType=Root
+12	=a	_	AUX	CONJ.COP	Number=Plur|Person=3|VerbType=Cop	11	cop	_	AlignBegin=141937|AlignEnd=142032|Gloss==COP.3PL|RX==[CONJ]|TokenType=Clit
+13	=ajt	_	SCONJ	CONJ	_	11	dep	_	AlignBegin=142032|AlignEnd=142125|Gloss==CSL|RX==[CONJ]|TokenType=Clit
+14	//	_	PUNCT	_	_	11	punct	_	AlignBegin=142125|AlignEnd=142598|Gloss=//|TokenType=Break
 
 ~~~
 

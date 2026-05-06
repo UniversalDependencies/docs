@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Niko Partanen, Rogier Blokland, Michael Rießler, Jack Rueter.
 
 Repository: [UD_Komi_Zyrian-IKDP](https://github.com/UniversalDependencies/UD_Komi_Zyrian-IKDP)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_ikdp218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -85,7 +85,7 @@ The transcription is also published in Zenodo:
 
 ## Features
 
-[AdpType](kpv_ikdp-feat-AdpType.html) – [AdvType](kpv_ikdp-feat-AdvType.html) – [Case](kpv_ikdp-feat-Case.html) – [Clitic](kpv_ikdp-feat-Clitic.html) – [Connegative](kpv_ikdp-feat-Connegative.html) – [Definite](kpv_ikdp-feat-Definite.html) – [Degree](kpv_ikdp-feat-Degree.html) – [Derivation](kpv_ikdp-feat-Derivation.html) – [Evident](kpv_ikdp-feat-Evident.html) – [ExtPos](kpv_ikdp-feat-ExtPos.html) – [Foreign](kpv_ikdp-feat-Foreign.html) – [Mood](kpv_ikdp-feat-Mood.html) – [Nomzr](kpv_ikdp-feat-Nomzr.html) – [NounType](kpv_ikdp-feat-NounType.html) – [Number](kpv_ikdp-feat-Number.html) – [Number[psor]](kpv_ikdp-feat-Number-psor.html) – [Number[subj]](kpv_ikdp-feat-Number-subj.html) – [NumType](kpv_ikdp-feat-NumType.html) – [Person](kpv_ikdp-feat-Person.html) – [Person[psor]](kpv_ikdp-feat-Person-psor.html) – [Polarity](kpv_ikdp-feat-Polarity.html) – [PronType](kpv_ikdp-feat-PronType.html) – [Reflex](kpv_ikdp-feat-Reflex.html) – [Tense](kpv_ikdp-feat-Tense.html) – [Variant](kpv_ikdp-feat-Variant.html) – [VerbForm](kpv_ikdp-feat-VerbForm.html) – [Voice](kpv_ikdp-feat-Voice.html)
+[AdpType](kpv_ikdp-feat-AdpType.html) – [AdvType](kpv_ikdp-feat-AdvType.html) – [Case](kpv_ikdp-feat-Case.html) – [Clitic](kpv_ikdp-feat-Clitic.html) – [Connegative](kpv_ikdp-feat-Connegative.html) – [Definite](kpv_ikdp-feat-Definite.html) – [Degree](kpv_ikdp-feat-Degree.html) – [Derivation](kpv_ikdp-feat-Derivation.html) – [Evident](kpv_ikdp-feat-Evident.html) – [ExtPos](kpv_ikdp-feat-ExtPos.html) – [Foreign](kpv_ikdp-feat-Foreign.html) – [Mood](kpv_ikdp-feat-Mood.html) – [NounType](kpv_ikdp-feat-NounType.html) – [Number](kpv_ikdp-feat-Number.html) – [Number[psor]](kpv_ikdp-feat-Number-psor.html) – [Number[subj]](kpv_ikdp-feat-Number-subj.html) – [NumType](kpv_ikdp-feat-NumType.html) – [Person](kpv_ikdp-feat-Person.html) – [Person[psor]](kpv_ikdp-feat-Person-psor.html) – [Polarity](kpv_ikdp-feat-Polarity.html) – [PronType](kpv_ikdp-feat-PronType.html) – [Reflex](kpv_ikdp-feat-Reflex.html) – [Tense](kpv_ikdp-feat-Tense.html) – [Variant](kpv_ikdp-feat-Variant.html) – [VerbForm](kpv_ikdp-feat-VerbForm.html) – [Voice](kpv_ikdp-feat-Voice.html)
 
 ## Relations
 
@@ -129,11 +129,11 @@ The transcription is also published in Zenodo:
 </ul>
 
 <ul>
-<li>This corpus contains 36 lemmas tagged as pronouns (PRON): Ассюм, Всё, ас, быд, быдӧн, кодке, кодкӧ, куимнан, ме, месюм, ми, мукӧд, мы, мый, мыйке, мыйкӧ, мӧд, мӧдджык, ная, некод, нинӧм, ныа, ныес, став, сыа, сэтшӧм, сійӧ, сія, тайӧ, татшӧм, тэ, что, ыс, этша, этія, я</li>
+<li>This corpus contains 35 lemmas tagged as pronouns (PRON): Ассюм, Всё, ас, быд, быдӧн, кодке, кодкӧ, куимнан, ме, месюм, ми, мукӧд, мы, мый, мыйке, мыйкӧ, мӧд, ная, некод, нинӧм, ныа, ныес, став, сыа, сэтшӧм, сійӧ, сія, тайӧ, татшӧм, тэ, что, ыс, этша, этія, я</li>
 </ul>
 
 <ul>
-<li>This corpus contains 7 lemmas tagged as determiners (DET): весь, какой, кымын, мӧд, став, такой, уна</li>
+<li>This corpus contains 6 lemmas tagged as determiners (DET): весь, какой, кымын, мӧд, став, уна</li>
 </ul>
 
 <ul>
@@ -149,7 +149,7 @@ The transcription is also published in Zenodo:
 </ul>
 
 <ul>
-<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 6 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
@@ -173,6 +173,15 @@ The transcription is also published in Zenodo:
   <li>Inf
   <ul>
     <li>VERB: велэдны, ветлыны, мунны, босьны, висьтооны, велэдчыны, ветлооны, Сравнитны, бериччыны, велӧдчыны</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>NomAg
+  <ul>
+    <li>NOUN: велэдысьыс</li>
+    <li>VERB: ветлысь</li>
   </ul>
   </li>
 </ul>
@@ -225,14 +234,15 @@ The transcription is also published in Zenodo:
       <li>ADV: вӧдзӧ, бӧрӧ, Неуна, бура, бӧр, водз, дзикедз</li>
       <li>AUX: вӧлі, выйым, из, вӧліс, было, кута, куча, оз</li>
       <li>AUX-Fin: вӧлі, из, вӧліс, выйым, кута, куча, оз</li>
-      <li>DET: уна, Став, всю, мӧд, ставыс, такое, унджык</li>
+      <li>DET: уна, Став, всю, какой, мӧд, ставыс, унджык</li>
       <li>INTJ: эта</li>
       <li>NOUN: во, ае, вок, коми, туй, чой, Пустыня, год, кыы, кӧр</li>
+      <li>NOUN-NomAg: велэдысьыс</li>
       <li>NUM: нёль, куим, кык, сизим, дас, кызь, Куимсэ, Мӧдэс, вит, вторая</li>
       <li>PRON: ме, сыа, сы, сія, менам, менэ, мый, мыйке, сіе, сіен</li>
       <li>PROPN: Иван, Из, Тимкалэн, Азии, Генриетта, Дань, Елена, Зӧт, Йӧртым, Красный</li>
-      <li>VERB: кӧсъя, сетіс, любита, рӧдитчи, босьтіс, вежсис, ветлі, висьтоо, воедіс, мунэма</li>
       <li>VERB-Fin: кӧсъя, сетіс, любита, рӧдитчи, босьтіс, вежсис, ветлі, висьтоо, воедіс, мунэма</li>
+      <li>VERB-NomAg: ветлысь</li>
       <li>VERB-Part: закончитэм</li>
       <li>VERB-Vnoun: Велэдчем, босьтӧм, велэдчемысь, закончитэм, олэмад</li>
     </ul>
@@ -380,12 +390,13 @@ The transcription is also published in Zenodo:
     <ul>
       <li>ADJ: ас, бур, небыд, бия, второй, выль, дик, корейскей, кык-суда, мӧдэд</li>
       <li>ADV: Неуна, бура, бӧр, водз, квайтэнэсь</li>
-      <li>DET: уна, Став, мӧд, ставыс, такое, унджык</li>
+      <li>DET: уна, Став, какой, мӧд, ставыс, унджык</li>
       <li>NOUN: во, ае, вок, коми, туй, чой, Пустыня, год, кыы, кӧр</li>
+      <li>NOUN-NomAg: велэдысьыс</li>
       <li>NUM: нёль, куим, кык, сизим, дас, кызь, Куимсэ, вит, вторая, кызь-вит</li>
-      <li>PRON: ме, сыа, мыйке, сія, ми, мый, сы, ачум, сіе, сійӧ</li>
+      <li>PRON: ме, сыа, мыйке, сія, ми, мый, ачум, сы, сіе, сійӧ</li>
       <li>PROPN: Иван, Из, Генриетта, Дань, Елена, Зӧт, Йӧртым, Красный, Ляпиныс, Микул</li>
-      <li>VERB: закончитэм, Велэдчем, босьтӧм, ветлысь</li>
+      <li>VERB-NomAg: ветлысь</li>
       <li>VERB-Part: закончитэм</li>
       <li>VERB-Vnoun: Велэдчем, босьтӧм, закончитэм</li>
     </ul>
@@ -601,7 +612,7 @@ The transcription is also published in Zenodo:
     <ul>
       <li>ADJ: сэтшем</li>
       <li>INTJ: эта</li>
-      <li>PRON: сыа, сы, мӧд, сіе, Та, Тае, налэн, ная, сэтшем, татшӧм</li>
+      <li>PRON: сыа, мӧд, сы, сіе, Та, Тае, налэн, ная, ныа, сэтшем</li>
     </ul>
   </li>
 </ul>
@@ -609,8 +620,8 @@ The transcription is also published in Zenodo:
 <ul>
   <li>Ind
     <ul>
-      <li>DET: уна, унджык</li>
-      <li>PRON: мыйке, кодке, мукедъясыс, мыйкесэ, никод, никодэс, нинӧм</li>
+      <li>DET: уна, какой, мӧд, унджык</li>
+      <li>PRON: мыйке, что, кодке, мукедъясыс, мыйкесэ, мӧдджык, мӧдъясыслэн, никод, никодэс, нинӧм</li>
     </ul>
   </li>
 </ul>
@@ -629,7 +640,7 @@ The transcription is also published in Zenodo:
   <li>Prs
     <ul>
       <li>ADJ: ас</li>
-      <li>PRON: ме, миян, сыа, сы, сія, ми, менам, менэ, сіе, сіен</li>
+      <li>PRON: ме, миян, сыа, сы, сія, ми, менам, менэ, ачум, сіе</li>
     </ul>
   </li>
 </ul>
@@ -645,8 +656,8 @@ The transcription is also published in Zenodo:
 <ul>
   <li>Tot
     <ul>
-      <li>DET: Став, ставыс</li>
-      <li>PRON: быд, ставыс, быдӧнӧс, куимнансэ</li>
+      <li>DET: Став, всю, ставыс</li>
+      <li>PRON: быд, ставыс, Всё, быдӧнӧс, куимнан, куимнансэ</li>
     </ul>
   </li>
 </ul>
@@ -758,6 +769,7 @@ The transcription is also published in Zenodo:
       <li>ADP: кузяыс, бӧрас, вылас, дорас, нынніыс</li>
       <li>DET: ставыс</li>
       <li>NOUN: ае, маме, мамыс, тятеис, вомсьыс, гортас, дадьсэ, культураыс, луннас, мамсӧ</li>
+      <li>NOUN-NomAg: велэдысьыс</li>
       <li>NUM: Мӧдэс, Ӧтікес</li>
       <li>PRON: ставыс, мукедъясыс, мӧдъясыслэн</li>
       <li>PROPN: Ляпиныс</li>
@@ -914,19 +926,6 @@ The transcription is also published in Zenodo:
 </ul>
 
 <ul>
-  <li><a>Nomzr</a>
-    <ul>
-      <li>Ag
-        <ul>
-          <li>NOUN: велэдысьыс</li>
-          <li>VERB: ветлысь</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
   <li><a>NounType</a>
     <ul>
       <li>Relat
@@ -973,6 +972,7 @@ The transcription is also published in Zenodo:
           <li>ADP: кузяыс, бӧрас, вылас, дорас, нынніыс</li>
           <li>DET: ставыс</li>
           <li>NOUN: мамыс, тятеис, вомсьыс, гортас, дадьсэ, культураыс, луннас, мамсӧ, местэас, нырсьыс</li>
+          <li>NOUN-NomAg: велэдысьыс</li>
           <li>PRON: ставыс, мукедъясыс, мӧдъясыслэн</li>
           <li>PROPN: Ляпиныс</li>
           <li>VERB-Conv: велӧдчигӧныс, локтігӧныс, мунігӧныс</li>

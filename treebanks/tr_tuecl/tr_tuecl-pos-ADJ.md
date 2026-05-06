@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-TueCL: POS Tags: `ADJ`
 
 There are 21 `ADJ` lemmas (8%), 22 `ADJ` types (6%) and 46 `ADJ` tokens (5%).
-Out of 14 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 6 in number of types and 6 in number of tokens.
+Out of 14 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 5 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>var, yok, mavi, büyük, güzel, küçük, boş, genel, iyi, aynı</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>hızlı</em> (<tt><a href="tr_tuecl-p
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.047619 (the average of all parts of speech is 1.501916).
+The form / lemma ratio of `ADJ` is 1.047619 (the average of all parts of speech is 1.503846).
 
 The 1st highest number of forms (2) was observed with the lemma “mavi”: <em>mavisi, maviyi</em>.
 
@@ -59,5 +59,5 @@ The highest child degree of a `ADJ` node is 6.
 
 Children of `ADJ` nodes are attached using 12 different relations: <tt><a href="tr_tuecl-dep-punct.html">punct</a></tt> (22; 28% instances), <tt><a href="tr_tuecl-dep-nsubj.html">nsubj</a></tt> (19; 24% instances), <tt><a href="tr_tuecl-dep-obl.html">obl</a></tt> (14; 18% instances), <tt><a href="tr_tuecl-dep-advmod.html">advmod</a></tt> (5; 6% instances), <tt><a href="tr_tuecl-dep-aux.html">aux</a></tt> (4; 5% instances), <tt><a href="tr_tuecl-dep-aux-q.html">aux:q</a></tt> (3; 4% instances), <tt><a href="tr_tuecl-dep-conj.html">conj</a></tt> (3; 4% instances), <tt><a href="tr_tuecl-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="tr_tuecl-dep-nmod-poss.html">nmod:poss</a></tt> (2; 3% instances), <tt><a href="tr_tuecl-dep-parataxis.html">parataxis</a></tt> (2; 3% instances), <tt><a href="tr_tuecl-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="tr_tuecl-dep-csubj.html">csubj</a></tt> (1; 1% instances)
 
-Children of `ADJ` nodes belong to 9 different parts of speech: <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (26; 33% instances), <tt><a href="tr_tuecl-pos-PUNCT.html">PUNCT</a></tt> (22; 28% instances), <tt><a href="tr_tuecl-pos-AUX.html">AUX</a></tt> (8; 10% instances), <tt><a href="tr_tuecl-pos-ADJ.html">ADJ</a></tt> (5; 6% instances), <tt><a href="tr_tuecl-pos-ADV.html">ADV</a></tt> (5; 6% instances), <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (4; 5% instances), <tt><a href="tr_tuecl-pos-PROPN.html">PROPN</a></tt> (4; 5% instances), <tt><a href="tr_tuecl-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt> (2; 3% instances)
+Children of `ADJ` nodes belong to 9 different parts of speech: <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (28; 36% instances), <tt><a href="tr_tuecl-pos-PUNCT.html">PUNCT</a></tt> (22; 28% instances), <tt><a href="tr_tuecl-pos-AUX.html">AUX</a></tt> (8; 10% instances), <tt><a href="tr_tuecl-pos-ADJ.html">ADJ</a></tt> (5; 6% instances), <tt><a href="tr_tuecl-pos-ADV.html">ADV</a></tt> (5; 6% instances), <tt><a href="tr_tuecl-pos-PROPN.html">PROPN</a></tt> (4; 5% instances), <tt><a href="tr_tuecl-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt> (2; 3% instances)
 

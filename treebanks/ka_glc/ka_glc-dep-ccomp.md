@@ -64,7 +64,7 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 10 ccomp	color:blue
 1	თავდაპირველად	თავდაპირვლად	ADV	Adv	AdvType=Tim	2	advmod	_	Translit=tʻavdapirvelad
-2	ითვლებოდა	ითვლება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Pass	0	root	_	Translit=itʻvleboda
+2	ითვლებოდა	თვლის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=itʻvleboda
 3	რომ	რომ	SCONJ	Conj	_	9	mark	_	SpaceAfter=No|Translit=rom
 4	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
 5	ელექტროობა	ელექტროობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	9	nsubj	_	Translit=elekʻtrooba

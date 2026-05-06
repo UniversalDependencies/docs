@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 2	λοιπόν	λοιπόν	INTJ	_	_	3	discourse	_	_
 3	τελειούνη	τελειούνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Act	0	root	_	CorrectForm=τελειούνει
 4	γιου	ου	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	MGloss=euphonic-the|MSeg=γι-ου
-5	15	15	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Typo=Yes	3	nsubj	_	_
+5	15	15αύγουστους	PROPN	_	Case=Nom|Gender=Masc|Number=Sing|Typo=Yes	3	nsubj	_	CorrectForm=Δεκαπενταύγουστους
 6	Αύγουστους	_	X	_	_	5	goeswith	_	_
 7	σμαζόναν	σμαζώνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin|Voice=Act	3	parataxis	_	CorrectForm=σμαζώναν
 8	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	9	det	_	_
@@ -34,8 +34,8 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 10	τσι	τσι	CCONJ	_	_	11	cc	_	_
 11	τμουνεύγην	τμουνεύγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Act	7	conj	_	CorrectForm=τμουνεύγιν
 12	τ’ν	η	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	ακκλησιά	ακκλησιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
-14	.	.	PUNCT	_	_	3	punct	_	_
+13	ακκλησιά	ακκλησιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -78,8 +78,8 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 30	πιίτι	πίνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin|Voice=Act	25	advcl	_	CorrectForm=πιείτι
 31	τσι	τσι	CCONJ	_	_	33	cc	_	_
 32	κανέ	κανένας	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Neg	33	det	_	_
-33	ρακέλ	ρακί	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing	30	obj	_	_
-34	.	.	PUNCT	_	_	1	punct	_	_
+33	ρακέλ	ρακί	NOUN	_	Case=Acc|Degree=Dim|Gender=Neut|Number=Sing	30	obj	_	SpaceAfter=No
+34	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ko_ksl-dep-compound.html">compound</a></tt>.
 
-41 nodes (0%) are attached to their parents as `compound:lvc`.
+43 nodes (0%) are attached to their parents as `compound:lvc`.
 
-41 instances of `compound:lvc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1219512195122.
+43 instances of `compound:lvc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11627906976744.
 
-The following 2 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (40; 98% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `compound:lvc`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (42; 98% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

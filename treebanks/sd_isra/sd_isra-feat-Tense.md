@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fut`, `Past`, `Pres`.
 
-4477 tokens (5%) have a non-empty value of `Tense`.
-244 types (3%) occur at least once with a non-empty value of `Tense`.
-111 lemmas (2%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (4134; 4% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (343; 0% instances).
+4476 tokens (5%) have a non-empty value of `Tense`.
+243 types (2%) occur at least once with a non-empty value of `Tense`.
+110 lemmas (2%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (4134; 4% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (342; 0% instances).
 
 ### `AUX`
 
@@ -76,16 +76,16 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `VERB`
 
-343 <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Tense`.
+342 <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sd_isra-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (323; 94%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (268; 78%), <tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (248; 72%), <tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (227; 66%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (203; 59%), <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (191; 56%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sd_isra-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (322; 94%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (267; 78%), <tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (247; 72%), <tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (226; 66%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (202; 59%), <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (190; 56%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (66; 19% of non-empty `Tense`): <em>پوندو, اچجانءِ, هوندو, هوندي, ايندس, رهندي, ويندس, ويندي, پوندا, آرها</em>
-* `Past` (36; 10% of non-empty `Tense`): <em>ڏنل, ڪيل, ٽپي, رهيو, لکيل, لکيو, هلندڙ, وئي, ورتل, ويا</em>
-* `Pres` (241; 70% of non-empty `Tense`): <em>ڪري, وڃي, ڪيو, رهي, پيو, ويو, چيو, ڇڏيو, اچي, ويندو</em>
-* `EMPTY` (12750): <em>ڪري, چيو, ڪرڻ, ويو, ڪيو, وڃي, ڪئي, اچي, ويا, پيو</em>
+* `Past` (36; 11% of non-empty `Tense`): <em>ڏنل, ڪيل, ٽپي, رهيو, لکيل, لکيو, هلندڙ, وئي, ورتل, ويا</em>
+* `Pres` (240; 70% of non-empty `Tense`): <em>ڪري, وڃي, ڪيو, رهي, پيو, ويو, چيو, ڇڏيو, اچي, ويندو</em>
+* `EMPTY` (12729): <em>ڪري, چيو, ڪرڻ, ويو, ڪيو, وڃي, ڪئي, اچي, ويا, پيو</em>
 
 <table>
   <tr><th>Paradigm <i>آهي</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>

@@ -22,13 +22,13 @@ The following 18 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 dep	color:blue
-1	buni	buni	PRON	P	Case=Acc|Number=Sing|PronType=Dem	3	obj	_	_
-2	sezib	sezib	VERB	V	Aspect=Perf|VerbForm=Conv	3	dep	_	_
-3	qolgan	qolgan	VERB	V	Tense=Past|VerbForm=Part	4	acl	_	_
+1	buni	bu	PRON	P	Case=Acc|Number=Sing|PronType=Dem	3	obj	_	_
+2	sezib	sez	VERB	V	Aspect=Perf|VerbForm=Conv	3	dep	_	_
+3	qolgan	qol	VERB	V	Tense=Past|VerbForm=Part	4	acl	_	_
 4	afandi	afandi	NOUN	N	Case=Nom|Number[psor]=Sing|Person[psor]=1	7	nsubj	_	_
-5	xatning	xatning	NOUN	N	Case=Gen	6	dep	_	_
-6	oxiriga	oxiriga	NOUN	N	Case=Dat|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
-7	yozibdi	yozibdi	VERB	V	Evident=Fh|Tense=Past	0	root	_	_
+5	xatning	xat	NOUN	N	Case=Gen	6	dep	_	_
+6	oxiriga	oxir	NOUN	N	Case=Dat|Number[psor]=Sing|Person[psor]=3	7	obl	_	_
+7	yozibdi	yoz	VERB	V	Evident=Fh|Tense=Past	0	root	_	_
 8	:	:	PUNCT	Y	_	7	punct	_	_
 
 ~~~
@@ -41,12 +41,12 @@ The following 18 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 4 dep	color:blue
 1	bu	bu	DET	P	PronType=Dem	2	det	_	_
-2	holni	holni	NOUN	N	Case=Acc	3	obj	_	_
-3	koʻrib	koʻrib	VERB	V	Aspect=Perf|VerbForm=Conv	7	advcl	_	_
-4	arvohi	arvohi	NOUN	N	Case=Nom|Number[psor]=Sing|Person[psor]=3	5	dep	_	_
-5	uchgan	uchgan	VERB	V	Tense=Past|VerbForm=Part	6	acl	_	_
+2	holni	hol	NOUN	N	Case=Acc	3	obj	_	_
+3	koʻrib	koʻr	VERB	V	Aspect=Perf|VerbForm=Conv	7	advcl	_	_
+4	arvohi	arvoh	NOUN	N	Case=Nom|Number[psor]=Sing|Person[psor]=3	5	dep	_	_
+5	uchgan	uch	VERB	V	Tense=Past|VerbForm=Part	6	acl	_	_
 6	boy	boy	NOUN	N	Case=Nom	7	nsubj	_	_
-7	vaqirabdi	vaqirabdi	VERB	V	Evident=Fh|Tense=Past	0	root	_	_
+7	baqiribdi	baqir	VERB	V	Evident=Fh|Tense=Past	0	root	_	_
 8	.	.	PUNCT	Y	_	7	punct	_	_
 
 ~~~
@@ -58,12 +58,12 @@ The following 18 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 dep	color:blue
-1	ularning	ularning	PRON	P	Case=Gen|Number=Plur|Person=3|PronType=Prs	3	dep	_	_
+1	ularning	ular	PRON	P	Case=Gen|Number=Plur|Person=3|PronType=Prs	3	dep	_	_
 2	beg'ubor	beg'ubor	ADJ	A	_	3	amod	_	_
-3	yuzlarida	yuzlarida	NOUN	N	Case=Loc|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	6	obl	_	_
+3	yuzlarida	yuz	NOUN	N	Case=Loc|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3	6	obl	_	_
 4	kulgu	kulgu	NOUN	N	Case=Nom	6	nsubj	_	_
 5	jilva	jilva	NOUN	N	Case=Nom	6	compound	_	_
-6	qilyapti	qilyapti	VERB	V	_	0	root	_	_
+6	qilyapti	qil	VERB	V	_	0	root	_	_
 7	.	.	PUNCT	Y	_	6	punct	_	_
 
 ~~~

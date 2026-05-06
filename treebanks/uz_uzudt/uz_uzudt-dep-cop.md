@@ -40,13 +40,13 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 8 9 cop	color:blue
 1	«	«	PUNCT	Y	_	8	punct	_	_
 2	aziz	aziz	ADJ	A	_	3	amod	_	_
-3	agʻina	agʻina	NOUN	N	Case=Nom	8	vocative	_	_
+3	aka	aka	NOUN	N	Case=Nom	8	vocative	_	_
 4	,	,	PUNCT	Y	_	3	punct	_	_
-5	senga	senga	PRON	P	Case=Dat|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
-6	yozadigan	yozadigan	VERB	V	Tense=Pres|VerbForm=Part	7	acl	_	_
-7	gaplarim	gaplarim	NOUN	N	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes	8	nsubj	_	_
+5	senga	sen	PRON	P	Case=Dat|Number=Sing|Person=2|PronType=Prs	6	obl	_	_
+6	yozadigan	yoz	VERB	V	Tense=Pres|VerbForm=Part	7	acl	_	_
+7	gaplarim	gap	NOUN	N	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes	8	nsubj	_	_
 8	koʻp	koʻp	ADJ	A	_	0	root	_	_
-9	edi	edi	AUX	V	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+9	edi	edi	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
 10	,	,	PUNCT	Y	_	8	punct	_	_
 
 ~~~
@@ -59,7 +59,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 5 cop	color:blue
 1	tong	tong	NOUN	N	_	2	nmod	_	_
-2	sahar	sah	NOUN	N	Case=Nom	4	obl	_	_
+2	sahar	sahar	NOUN	N	Case=Nom	4	obl	_	_
 3	soat	soat	NOUN	N	Case=Nom	4	obl	_	_
 4	toʻrtlar	toʻrt	VERB	V	_	0	root	_	_
 5	edi	edi	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-140 nodes (11%) are attached to their parents as `advmod`.
+138 nodes (11%) are attached to their parents as `advmod`.
 
-136 instances of `advmod` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.27142857142857.
+134 instances of `advmod` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.22463768115942.
 
-The following 3 pairs of parts of speech are connected with `advmod`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt> (113; 81% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt>-<tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt> (17; 12% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt> (10; 7% instances).
+The following 3 pairs of parts of speech are connected with `advmod`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt> (112; 81% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt>-<tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt> (16; 12% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt> (10; 7% instances).
 
 
 ~~~ conllu

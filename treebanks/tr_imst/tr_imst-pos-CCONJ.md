@@ -64,7 +64,13 @@ The 2nd highest number of forms (1) was observed with the lemma “ama”: <em>a
 
 The 3rd highest number of forms (1) was observed with the lemma “ancak”: <em>ancak</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="tr_imst-feat-ExtPos.html">ExtPos</a></tt> (49; 2% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (2180 tokens).
+Examples: <em>ve, de, da, ama, ki, ile, ya, ise, ancak, çünkü</em>
 
 
 ## Relations

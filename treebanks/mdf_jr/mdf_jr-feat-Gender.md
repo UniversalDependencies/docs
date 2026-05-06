@@ -24,7 +24,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 * `Fem` (8; 33% of non-empty `Gender`): <em>Петровна, Варвара, Васильевна, Ивановать, Людмила, Николаевнань, Светлана</em>
 * `Masc` (16; 67% of non-empty `Gender`): <em>Вельдинонь, Голенков, Девинонь, Девятаев, Злобинонь, Келаськин, Кокоревонь, Кукушкинць, Михаил, Петр</em>
-* `EMPTY` (61): <em>Петя, Иван, Игорь, Марья, Алда-баба, Алдуван, Анна, Архипонь, Браун, Валентинонди</em>
+* `EMPTY` (62): <em>Петя, Иван, Игорь, Марья, Пашуть, Алда-баба, Алдуван, Анна, Архипонь, Браун</em>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (22) occur only with one value of `Gender`.
 

@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-PUD: Relations: `aux:pass`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="fr_pud-dep-aux.html">aux</a></tt>.
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_pud-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_pud-dep-aux-tense.html">aux:tense</a></tt>.
 
 226 nodes (1%) are attached to their parents as `aux:pass`.

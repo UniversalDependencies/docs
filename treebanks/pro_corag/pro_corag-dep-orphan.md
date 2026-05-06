@@ -8,48 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-98 nodes (0%) are attached to their parents as `orphan`.
+113 nodes (0%) are attached to their parents as `orphan`.
 
-67 instances of `orphan` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.22448979591837.
+77 instances of `orphan` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.95575221238938.
 
-The following 18 pairs of parts of speech are connected with `orphan`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (45; 46% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (11; 11% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (10; 10% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (7; 7% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 18 pairs of parts of speech are connected with `orphan`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (54; 48% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (11; 10% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (11; 10% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (7; 6% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (3; 3% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 orphan	color:blue
-1	la	_	DET	_	_	2	det	_	_
-2	quinte	_	NOUN	_	_	0	root	_	_
-3	d'	_	ADP	_	_	4	case	_	SpaceAfter=No
-4	omicidi	_	NOUN	_	_	2	orphan	_	SpaceAfter=No
-5	,	_	PUNCT	_	_	4	punct	_	_
-6	plague	_	NOUN	_	_	4	conj	_	_
-7	leyau	_	ADJ	_	_	6	amod	_	_
-8	o	_	CCONJ	_	_	9	cc	_	_
-9	alep	_	NOUN	_	_	4	conj	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 7 orphan	color:blue
-1	Item	_	ADV	_	_	3	advmod	_	SpaceAfter=No
+# visual-style 4 8 orphan	color:blue
+1	Item	_	ADV	_	_	4	advmod	_	SpaceAfter=No
 2	,	_	PUNCT	_	_	1	punct	_	_
-3	Guilhem	_	PROPN	_	_	0	root	_	_
-4	Forthon	_	PROPN	_	_	3	flat	_	SpaceAfter=No
-5	,	_	PUNCT	_	_	3	punct	_	_
-6	L	_	NUM	_	_	7	nummod	_	_
-7	soudz	_	NOUN	_	_	3	orphan	_	SpaceAfter=No
-8	;	_	PUNCT	_	_	3	punct	_	_
+3	la	_	DET	_	_	4	det	_	_
+4	parropia	_	NOUN	_	_	0	root	_	_
+5	de	_	ADP	_	_	6	case	_	_
+6	Sent-Lobes	_	PROPN	_	_	4	nmod	_	_
+7	XX	_	NUM	_	_	8	nummod	_	_
+8	soudz	_	NOUN	_	_	4	orphan	_	_
+9	censuals	_	ADJ	_	_	8	amod	_	_
+10	ad	_	ADP	_	_	12	case	_	_
+11	aquera	_	DET	_	_	12	det	_	_
+12	cor	_	NOUN	_	_	4	orphan	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -91,6 +76,24 @@ The following 18 pairs of parts of speech are connected with `orphan`: <tt><a hr
 29	es	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	30	cop	_	_
 30	soe	_	ADJ	_	_	0	root	_	SpaceAfter=No
 31	;	_	PUNCT	_	_	30	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 7 orphan	color:blue
+1	Guilhem	_	PROPN	_	_	0	root	_	_
+2	Richart	_	PROPN	_	_	1	flat	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	1	punct	_	_
+4	prebost	_	NOUN	_	_	1	appos	_	_
+5	aladonquas	_	ADV	_	_	4	advmod	_	_
+6	XX	_	NUM	_	_	7	nummod	_	_
+7	soudz	_	NOUN	_	_	1	orphan	_	SpaceAfter=No
+8	;	_	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-157 nodes (4%) are attached to their parents as `det`.
+195 nodes (4%) are attached to their parents as `det`.
 
-156 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.38216560509554.
+194 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.35897435897436.
 
-The following 4 pairs of parts of speech are connected with `det`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (150; 96% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (4; 3% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `det`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (188; 96% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -58,7 +58,7 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2 1 det	color:blue
 1	هغه	هغه	DET	_	Case=Nom|Deixis=Remt|PronType=Dem	2	det	_	Translit=háġa|LTranslit=háġa|Gloss=that
 2	څوک	څوک	PRON	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	13	nsubj	_	Translit=cok|LTranslit=cok|Gloss=anybody
-3	چې	چې	PRON	_	PronType=Rel	4	nsubj	_	Translit=če|LTranslit=če|Gloss=who
+3	چې	چې	SCONJ	_	_	4	mark	_	Translit=če|LTranslit=če|Gloss=that
 4	غواړي	غوښتل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	Translit=ġwâṛí|LTranslit=ġux̌të́l|Gloss=wants
 5	پاړسي	پاړسي	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	7	obj	_	Translit=pâṛsí|LTranslit=pâṛsí|Gloss=Persian
 6	زده	زده	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	compound:lvc	_	Translit=zda|LTranslit=zda|Gloss=learn

@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 cc:preconj	color:blue
-1	Tanto	tanto	ADV	RB	_	3	cc:preconj	_	_
+1	Tanto	tanto	ADV	RB	PronType=Dem	3	cc:preconj	_	_
 2	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	investigación	investigación	NOUN	NN	Gender=Fem|Number=Sing	10	nsubj	_	_
 4	como	como	ADP	IN	_	6	cc	_	_
@@ -49,7 +49,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 4	varias	vario	DET	DT	Gender=Fem|Number=Plur|PronType=Ind	5	det	_	_
 5	pistas	pista	NOUN	NN	Gender=Fem|Number=Plur	2	obl	_	_
 6	cinematográficas	cinematográfico	ADJ	JJ	Gender=Fem|Number=Plur	5	amod	_	_
-7	tanto	tanto	ADV	RB	_	9	cc:preconj	_	_
+7	tanto	tanto	ADV	RB	PronType=Dem	9	cc:preconj	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	Morricone	Morricone	PROPN	NNP	Gender=Masc|Number=Sing	5	nmod	_	_
 10	como	como	ADP	IN	_	11	cc	_	_
@@ -65,7 +65,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 20	;	;	PUNCT	:	PunctType=Semi	23	punct	_	_
 21	algunas	alguno	NOUN	NN	Gender=Fem|Number=Plur	23	nsubj:pass	_	_
 22	eran	ser	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	23	aux:pass	_	_
-23	escritas	escribir	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Fin	2	parataxis	_	_
+23	escritas	escribir	VERB	VBN	Gender=Fem|Number=Plur|VerbForm=Part	2	parataxis	_	_
 24	por	por	ADP	IN	_	25	case	_	_
 25	ambos	ambos	NOUN	NN	Gender=Masc|Number=Plur	23	obl	_	SpaceAfter=No
 26	.	.	PUNCT	.	PunctType=Peri	2	punct	_	_
@@ -88,7 +88,7 @@ The following 5 pairs of parts of speech are connected with `cc:preconj`: <tt><a
 7	tarifa	tarifa	NOUN	NN	Gender=Fem|Number=Sing	5	conj	_	_
 8	de	de	ADP	IN	_	9	case	_	_
 9	pago	pago	NOUN	NN	Gender=Masc|Number=Sing	7	nmod	_	_
-10	anticipado	anticipado	ADJ	JJ	Gender=Masc|Number=Sing	9	amod	_	_
+10	anticipado	anticipado	ADJ	JJ	Gender=Masc|Number=Sing|VerbForm=Part	9	amod	_	_
 11	cara	caro	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	SpaceAfter=No
 12	?	?	PUNCT	.	PunctSide=Fin|PunctType=Qest	5	punct	_	_
 

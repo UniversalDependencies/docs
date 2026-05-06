@@ -325,7 +325,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 
 * `Neg` (188; 27% of non-empty `Polarity`): <em>yok, yoksa, edilmişlik, görmemezlikten, inanmamalarına, kabullenmemelerindendir, yoklar, yoksun</em>
 * `Pos` (509; 73% of non-empty `Polarity`): <em>var, vardı, vardır, artış, buluş, tüketici, atışları, kalıcı, tüketiciler, Geçiş</em>
-* `EMPTY` (37654): <em>zaman, gün, şey, içinde, yıl, arasında, yer, üzerine, su, insan</em>
+* `EMPTY` (37668): <em>zaman, gün, şey, içinde, yıl, arasında, yer, üzerine, su, insan</em>
 
 <table>
   <tr><th>Paradigm <i>gör</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -354,7 +354,7 @@ The most frequent other feature values with which `PROPN` and `Polarity` co-occu
 `PROPN` tokens may have the following values of `Polarity`:
 
 * `Pos` (6; 100% of non-empty `Polarity`): <em>Kurtuluş, Çeşitlemeler</em>
-* `EMPTY` (7875): <em>Türk, Türkiye, Türkiye'de, Türkiye'nin, Mehmet, Atatürk, Avrupa, Ali, İstanbul, Mustafa</em>
+* `EMPTY` (7877): <em>Türk, Türkiye, Türkiye'de, Türkiye'nin, Mehmet, Atatürk, Avrupa, Ali, İstanbul, Mustafa</em>
 
 ### `ADP`
 
@@ -368,14 +368,14 @@ The most frequent other feature values with which `PROPN` and `Polarity` co-occu
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>VERB --[<tt><a href="tr_boun-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1580; 85%),
-<tt>VERB --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (1497; 82%),
+<tt>VERB --[<tt><a href="tr_boun-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1583; 85%),
+<tt>VERB --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (1504; 82%),
 <tt>VERB --[<tt><a href="tr_boun-dep-cop.html">cop</a></tt>]--> AUX</tt> (1404; 79%),
-<tt>VERB --[<tt><a href="tr_boun-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (914; 84%),
-<tt>VERB --[<tt><a href="tr_boun-dep-obj.html">obj</a></tt>]--> VERB</tt> (331; 82%),
-<tt>VERB --[<tt><a href="tr_boun-dep-obl.html">obl</a></tt>]--> VERB</tt> (238; 80%),
-<tt>VERB --[<tt><a href="tr_boun-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (217; 83%),
-<tt>VERB --[<tt><a href="tr_boun-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (190; 82%),
-<tt>VERB --[<tt><a href="tr_boun-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (169; 68%),
+<tt>VERB --[<tt><a href="tr_boun-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (909; 84%),
+<tt>VERB --[<tt><a href="tr_boun-dep-obj.html">obj</a></tt>]--> VERB</tt> (319; 81%),
+<tt>VERB --[<tt><a href="tr_boun-dep-obl.html">obl</a></tt>]--> VERB</tt> (239; 79%),
+<tt>VERB --[<tt><a href="tr_boun-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (218; 83%),
+<tt>VERB --[<tt><a href="tr_boun-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (191; 82%),
+<tt>VERB --[<tt><a href="tr_boun-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (170; 68%),
 <tt>VERB --[<tt><a href="tr_boun-dep-acl.html">acl</a></tt>]--> VERB</tt> (115; 73%).
 

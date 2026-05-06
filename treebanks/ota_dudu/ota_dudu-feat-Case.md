@@ -9,28 +9,28 @@ udver: '2'
 This feature is universal but the values `Equ` are language-specific.
 It occurs with 8 different values: `Abl`, `Acc`, `Dat`, `Equ`, `Gen`, `Ins`, `Loc`, `Nom`.
 
-8908 tokens (52%) have a non-empty value of `Case`.
-5276 types (72%) occur at least once with a non-empty value of `Case`.
-3095 lemmas (76%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (6583; 38% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1174; 7% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (701; 4% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (233; 1% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (173; 1% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (36; 0% instances), <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (8; 0% instances).
+11473 tokens (52%) have a non-empty value of `Case`.
+6111 types (72%) occur at least once with a non-empty value of `Case`.
+3448 lemmas (76%) occur at least once with a non-empty value of `Case`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (8299; 38% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (1623; 7% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (1006; 5% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (291; 1% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (202; 1% instances), <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> (43; 0% instances), <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (9; 0% instances).
 
 ### `NOUN`
 
-6583 <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+8299 <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt> (6571; 100%), <tt><a href="ota_dudu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5602; 85%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5575; 85%), <tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4852; 74%), <tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4852; 74%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt> (8291; 100%), <tt><a href="ota_dudu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7124; 86%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7102; 86%), <tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6064; 73%), <tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (6064; 73%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (375; 6% of non-empty `Case`): <em>elinden, ṭarafdan, ʿulemâdan, deryâdan, hâtifden, sebebden, yirden, altundan, atdan, dünyâdan</em>
-* `Acc` (536; 8% of non-empty `Case`): <em>ḥâli, oġlanı, oġlını, kimesneyi, âfâḳı, ḳanın, aḥvâli, başlarını, eşʿârı, leşkeri</em>
-* `Dat` (690; 10% of non-empty `Case`): <em>üzerine, yirine, yire, cânibine, yanına, içine, paşaya, yüzine, bege, cihâna</em>
-* `Equ` (2; 0% of non-empty `Case`): <em>öñlerince, ṭabaḳasınca</em>
-* `Gen` (275; 4% of non-empty `Case`): <em>ḫalḳuñ, oġlanuñ, ʿavretüñ, ḥażretlerinüñ, atasınuñ, küffâruñ, paşanuñ, ḫâḳânuñ, anasınuñ, cihânuñ</em>
-* `Ins` (163; 2% of non-empty `Case`): <em>vechile, maḫlaṣıyla, âdemle, anasıyıla, baṭnla, cevâhirle, ihtimâmla, nâmıyla, süñüyile, vezâretle</em>
-* `Loc` (401; 6% of non-empty `Case`): <em>içinde, öñinde, senesinde, yirde, üzerinde, ḥâlde, zamânda, civârında, es̱nâda, târîḫinde</em>
-* `Nom` (4141; 63% of non-empty `Case`): <em>var, gün, bin, paşa, efendi, gice, oġlı, yıl, âdem, melik</em>
-* `EMPTY` (7): <em>yoġ, bâbü’ṣ-ṣaġîr, var, yoḳ, yıllıḳ, ṭayyâr</em>
+* `Abl` (458; 6% of non-empty `Case`): <em>ṭarafdan, atdan, deryādan, elinden, begden, sebebden, ʿulemādan, hātifden, yirden, zamāndan</em>
+* `Acc` (671; 8% of non-empty `Case`): <em>ḥāli, oġlanı, oġlını, sözleri, başını, göñlini, kimesneyi, sözi, yirleri, āfāḳı</em>
+* `Dat` (887; 11% of non-empty `Case`): <em>üzerine, paşaya, yerine, yirine, yanına, efendiye, yire, bege, evine, cānibine</em>
+* `Equ` (3; 0% of non-empty `Case`): <em>ardınca, öñlerince, ṭabaḳasınca</em>
+* `Gen` (332; 4% of non-empty `Case`): <em>paşanuñ, ḫalḳuñ, ḥażretlerinüñ, atasınuñ, oġlanuñ, ʿavretüñ, kitābuñ, kişinüñ, küffāruñ, yirüñ</em>
+* `Ins` (200; 2% of non-empty `Case`): <em>vechile, ḥālile, ādemle, maḫlaṣıyla, ḳılıcıla, anasıyıla, baṭnla, bereketile, cevāhirle, dilile</em>
+* `Loc` (480; 6% of non-empty `Case`): <em>içinde, yirde, öñinde, ḳatında, es̱nāda, zamānda, ḥālde, senesinde, üzerinde, arasında</em>
+* `Nom` (5268; 63% of non-empty `Case`): <em>var, gün, paşa, bin, efendi, melik, gice, oġlı, beglerbegisi, yeri</em>
+* `EMPTY` (4): <em>var, ṭayyār</em>
 
 <table>
   <tr><th>Paradigm <i>yir</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
@@ -43,69 +43,69 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PROPN`
 
-1174 <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+1623 <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt> (1173; 100%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1160; 99%), <tt><a href="ota_dudu-feat-NameType.html">NameType</a></tt><tt>=Prs</tt> (708; 60%), <tt><a href="ota_dudu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (676; 58%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt> (1623; 100%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1608; 99%), <tt><a href="ota_dudu-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1054; 65%), <tt><a href="ota_dudu-feat-NameType.html">NameType</a></tt><tt>=Prs</tt> (978; 60%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Abl` (46; 4% of non-empty `Case`): <em>anaṭolıdan, hindden, nemrûddan, yemenden, ʿömerden, allâhdan, aʿrâbdan, berġâmûsdan, bevlden, bosnadan</em>
-* `Acc` (24; 2% of non-empty `Case`): <em>iskenderiyyeyi, âẕeri, ʿanteri, allâhı, ceyḥûnı, ibrâhîmi, islâmı, keykâvusı, maḥmûdı, mesʿûdı</em>
-* `Dat` (113; 10% of non-empty `Case`): <em>âẕere, rûma, burûsaya, ibrâhîme, kenʿâna, rûmiline, züheyre, şeddâda, ʿantere, burusaya</em>
-* `Gen` (96; 8% of non-empty `Case`): <em>züheyrüñ, ʿanterüñ, ibrâhîmüñ, nemrûduñ, kenʿânuñ, kerebüñ, mevlânânuñ, muḥammedüñ, timuruñ, ʿablenüñ</em>
-* `Ins` (14; 1% of non-empty `Case`): <em>baġdâdla, behrâmıla, ʿanterile, belḫile, bulġârla, cevherle, hâḍıla, züheyrle, ʿacemle, ḳâfla</em>
-* `Loc` (49; 4% of non-empty `Case`): <em>burusada, şâmda, burûsada, edrinede, hindde, medînede, ġazzede, ḳaramanda, adanada, amâsiyyede</em>
-* `Nom` (832; 71% of non-empty `Case`): <em>nemrûd, ʿanter, züheyr, âẕer, aḥmed, muṣṭafâ, muḥammed, ʿalî, ibrâhîm, meḥemmed</em>
+* `Abl` (66; 4% of non-empty `Case`): <em>anaṭolıdan, şāmdan, erżurūmdan, hindden, mıṣrdan, nemrūddan, rūmilinden, sāreden, yemenden, ʿabbāsdan</em>
+* `Acc` (38; 2% of non-empty `Case`): <em>ismāʿīli, ibrāhīmi, iskenderiyyeyi, tumāẓiri, āẕeri, ʿanteri, allāhı, ceyḥūnı, islāmı, keykāvusı</em>
+* `Dat` (158; 10% of non-empty `Case`): <em>iskendere, istanbula, āẕere, ibrāhīme, mālike, rūma, rūmiline, ʿantere, burūsaya, kenʿāna</em>
+* `Gen` (121; 7% of non-empty `Case`): <em>züheyrüñ, ʿanterüñ, ibrāhīmüñ, ismāʿīlüñ, nemrūduñ, hācerüñ, kenʿānuñ, kerebüñ, mevlānānuñ, muḥammedüñ</em>
+* `Ins` (18; 1% of non-empty `Case`): <em>ʿanterile, baġdādla, behrāmıla, belḫile, bulġārla, cevherle, hācerile, hāḍıla, ismāʿīlile, züheyrile</em>
+* `Loc` (53; 3% of non-empty `Case`): <em>burusada, şāmda, burūsada, edrinede, hindde, medīnede, ġazzede, ḳaramanda, adanada, amāsiyyede</em>
+* `Nom` (1169; 72% of non-empty `Case`): <em>ibrāhīm, nemrūd, ʿanter, züheyr, iskender, aḥmed, muṣṭafā, ʿalī, āẕer, meḥemmed</em>
 
 <table>
-  <tr><th>Paradigm <i>ʿanter</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>ʿanter</em></td><td><em>ʿanteri</em></td><td><em>ʿantere</em></td><td><em>ʿanterüñ</em></td><td><em>ʿanterile</em></td></tr>
+  <tr><th>Paradigm <i>züheyr</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>züheyr</em></td><td></td><td><em>züheyre</em></td><td><em>züheyrüñ</em></td><td><em>züheyrle</em></td><td><em>züheyrden</em></td></tr>
+  <tr><td><tt></tt></td><td><em>züheyr</em></td><td><em>züheyri</em></td><td><em>züheyre</em></td><td><em>züheyrüñ</em></td><td><em>züheyrile</em></td><td></td></tr>
 </table>
 
 ### `PRON`
 
-701 <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+1006 <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (584; 83%), <tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (584; 83%), <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt> (572; 82%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (570; 81%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (868; 86%), <tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (868; 86%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (836; 83%), <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt> (764; 76%), <tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (520; 52%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Abl` (83; 12% of non-empty `Case`): <em>andan, bundan, senden, benden, bunlardan, kendüden, anlardan, birinden, andañ, bizden</em>
-* `Acc` (90; 13% of non-empty `Case`): <em>anı, bunı, beni, birini, kendüyi, bizi, cümlesin, kimini, kimisin, seni</em>
-* `Dat` (98; 14% of non-empty `Case`): <em>aña, baña, saña, bunlara, anlara, buña, kendüye, bize, biribirine, birine</em>
-* `Gen` (160; 23% of non-empty `Case`): <em>bunuñ, anuñ, birinüñ, bunlaruñ, benüm, senüñ, anlaruñ, benim, biribirinüñ, birisinüñ</em>
-* `Ins` (10; 1% of non-empty `Case`): <em>anuñla, anlaruñla, benümle, bunuñla, bunuñıla, senüñile</em>
-* `Loc` (29; 4% of non-empty `Case`): <em>anda, ḳanda, bunda, bende, kendüde, orada</em>
-* `Nom` (231; 33% of non-empty `Case`): <em>ben, kendü, bu, bunlar, ol, anlar, biri, ne, kimse, sen</em>
-* `EMPTY` (1): <em>ne</em>
+* `Abl` (119; 12% of non-empty `Case`): <em>andan, bundan, bunlardan, senden, benden, kendüden, anlardan, birinden, andañ, bizden</em>
+* `Acc` (114; 11% of non-empty `Case`): <em>anı, beni, bunı, seni, kendüyi, anları, birini, bizi, cümlesin, kimini</em>
+* `Dat` (154; 15% of non-empty `Case`): <em>aña, baña, saña, buña, bunlara, kendüye, bize, anlara, size, biribirine</em>
+* `Gen` (234; 23% of non-empty `Case`): <em>anuñ, bunuñ, benüm, birinüñ, bunlaruñ, senüñ, bizüm, anlaruñ, benim, biribirinüñ</em>
+* `Ins` (17; 2% of non-empty `Case`): <em>anuñla, senüñile, anlaruñla, anuñıla, benümle, bizümle, bunuñla, bunuñıla, ne-y-ile</em>
+* `Loc` (42; 4% of non-empty `Case`): <em>anda, ḳanda, bunda, bende, kendüde, nerede, orada</em>
+* `Nom` (326; 32% of non-empty `Case`): <em>ben, kendü, bu, ol, bunlar, ne, sen, anlar, biri, kimse</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>anuñla</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>anuñla</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>anuñla, anuñıla</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td></td><td></td><td></td><td><em>anda</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>on</em></td><td><em>anı, onu</em></td><td><em>aña</em></td><td><em>anuñ</em></td><td><em>anda</em></td><td></td><td><em>andan, andañ</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>o, odur</em></td><td><em>anı</em></td><td><em>aña</em></td><td><em>anuñ</em></td><td><em>anda</em></td><td></td><td><em>andan</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td></td><td></td><td><em>anlaruñ</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>o, on</em></td><td><em>anı, onu, onı</em></td><td><em>aña</em></td><td><em>anuñ</em></td><td><em>anda</em></td><td></td><td><em>andan, andañ</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>o</em></td><td><em>anı</em></td><td><em>aña</em></td><td><em>anuñ, anañ, anıñ</em></td><td><em>anda</em></td><td></td><td><em>andan</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>anları</em></td><td></td><td><em>anlaruñ</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>anlar, onlar</em></td><td><em>anları</em></td><td><em>anlara</em></td><td><em>anlaruñ</em></td><td></td><td><em>anlaruñla</em></td><td><em>anlardan</em></td></tr>
 </table>
 
 ### `VERB`
 
-233 <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Case`.
+291 <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (233; 100%), <tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (232; 100%), <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt> (227; 97%), <tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (221; 95%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (206; 88%), <tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (139; 60%), <tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (124; 53%), <tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (123; 53%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (291; 100%), <tt><a href="ota_dudu-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (290; 100%), <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt> (285; 98%), <tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (278; 96%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (259; 89%), <tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (179; 62%), <tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (159; 55%), <tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (158; 54%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Abl` (29; 12% of non-empty `Case`): <em>itdükden, olduḳdan, olınduḳdan, azdurmaḳdan, baġladuḳdan, emzürdüginden, ettikten, eyledükden, gidenlerden, gitdükden</em>
-* `Acc` (49; 21% of non-empty `Case`): <em>idügini, alduġunı, olduġın, olduġını, alduḳlarını, alınduġını, aşmalarını, baġladuġını, bitürmeñ, didügin</em>
-* `Dat` (44; 19% of non-empty `Case`): <em>itmege, almaġa, baḳmaġa, dögmege, olmaġa, yimege, addolunmaġa, alımaduġına, ayrılduġına, azıḳlanmaġa</em>
-* `Gen` (4; 2% of non-empty `Case`): <em>açılması, edenlerüñ, gitmenin, itmenüñ</em>
-* `Ins` (19; 8% of non-empty `Case`): <em>itmekle, olmaġla, dimekle, bulınmaġla, buyurmaġla, gelmekle, işitmekle, olmamaġla, olmaġın, yazılmamaġla</em>
-* `Loc` (12; 5% of non-empty `Case`): <em>bulduḳlarında, esmede, etmekte, itdüklerinde, içmekde, işitdüklerinde, olduḳlarında, varduḳlarında, yimekde, çıḳmada</em>
-* `Nom` (76; 33% of non-empty `Case`): <em>itmek, dimek, itdügi, olduġı, dimekdür, genşimesi, gitmek, olanlar, olmaḳ, olınduġı</em>
-* `EMPTY` (2977): <em>oldı, olup, idüp, eyledi, itdi, olan, eyitdi, geldi, olındı, gelüp</em>
+* `Abl` (35; 12% of non-empty `Case`): <em>itdükden, gitdükden, olduḳdan, olınduḳdan, azdurmaḳdan, baġladuḳdan, dökmekden, emzürdüginden, ettikten, eyledükden</em>
+* `Acc` (60; 21% of non-empty `Case`): <em>idügini, alduġunı, geldügin, geleni, olduġın, olduġını, alduḳlarını, alınduġını, aşmalarını, baġladuġını</em>
+* `Dat` (58; 20% of non-empty `Case`): <em>itmege, almaġa, olmaġa, yimege, baḳmaġa, dögmege, etmege, ḳılmaġa, addolunmaġa, alımaduġına</em>
+* `Gen` (6; 2% of non-empty `Case`): <em>açılması, edenlerüñ, gitmenin, itmenüñ, umagelenleri, varmaġuñ</em>
+* `Ins` (25; 9% of non-empty `Case`): <em>itmekle, olmaġla, dimekle, itmegile, bulınmaġla, buyurmaġla, buyurılmaġla, gelmekle, göndürmegile, işitmekle</em>
+* `Loc` (12; 4% of non-empty `Case`): <em>bulduḳlarında, esmede, etmekte, itdüklerinde, içmekde, işitdüklerinde, olduḳlarında, varduḳlarında, yimekde, çıḳmada</em>
+* `Nom` (95; 33% of non-empty `Case`): <em>itmek, dimek, itdügi, gitmek, olduġı, didügüñ, dimekdür, genşimesi, iletmek, olanlar</em>
+* `EMPTY` (3970): <em>oldı, olup, eyledi, idüp, itdi, eyitdi, gelüp, olan, olındı, geldi</em>
 
 <table>
   <tr><th>Paradigm <i>it</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
@@ -116,84 +116,89 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
   <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>idemeyeceklerin</em></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>idenleri</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>idene</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td><em>itmek, itmeg</em></td><td><em>itmegi</em></td><td><em>itmege</em></td><td><em>itmenüñ</em></td><td></td><td><em>itmekle</em></td><td><em>itmekden</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>idenler</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td><em>itmek, itmeg</em></td><td><em>itmegi</em></td><td><em>itmege</em></td><td><em>itmenüñ</em></td><td></td><td><em>itmekle, itmegile</em></td><td><em>itmekden</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>idenler</em></td><td><em>idenlere</em></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
-173 <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `Case`.
+202 <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> tokens (16% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt> (132; 76%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (110; 64%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt> (140; 69%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (115; 57%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Abl` (15; 9% of non-empty `Case`): <em>benâmdan, mecâzîden, büyüklerinden, egriden, evvelkiden, kerîmeden, küçüçükden, mezbûrdan, meʾmûlinden, mütemerridlerinden</em>
-* `Acc` (31; 18% of non-empty `Case`): <em>kebîri, kâm-yâbı, mecmûʿın, mesʿûdu, nâmdârı, nâmveri, pâki, ʿacîbi, ḫâṣṣı, bâḳisi</em>
-* `Dat` (21; 12% of non-empty `Case`): <em>merd-efgene, tîze, zerrîne, ʿulyâya, ḫabîs̱e, aḥmere, bâṭınîlere, bî-devletine, laṭîfine, mevlûda</em>
-* `Equ` (1; 1% of non-empty `Case`): <em>muḳteżâsınca</em>
-* `Gen` (23; 13% of non-empty `Case`): <em>mezbûruñ, meẕkûruñ, aḥmerüñ, bed-kîşüñ, demânuñ, kişver-güşânuñ, mezbûrun, pîşînüñ, ʿâlînün, bed-kirdâruñ</em>
-* `Ins` (3; 2% of non-empty `Case`): <em>manṣûrla, sürûr-encâmla, şerîfleriyle</em>
-* `Loc` (23; 13% of non-empty `Case`): <em>içinde, aralarında, meẕkûrda, muʿammâda, yanında, şerîfde, meẕkûrede, muʿaẓẓamada, muḳaddemde, mübârekelerinde</em>
-* `Nom` (56; 32% of non-empty `Case`): <em>ḫâtûn, var, arası, atlu, aʿlâsı, aʿrâbî, aḳṣâ-yı, bedi, bî-fâżılları, cömerttir</em>
-* `EMPTY` (907): <em>niçe, mezbûr, vâḳiʿ, çoḳ, maʿzûl, ẓâhir, muḳarrer, cümle, ḳara, büyük</em>
+* `Abl` (16; 8% of non-empty `Case`): <em>benāmdan, mecāzīden, saʿīdden, büyüklerinden, egriden, evvelkiden, kerīmeden, küçüçükden, mezbūrdan, meʾmūlinden</em>
+* `Acc` (32; 16% of non-empty `Case`): <em>kebīri, kām-yābı, mecmūʿın, mesʿūdu, nāmdārı, nāmveri, pāki, üstüvārı, ʿacībi, ḫāṣṣı</em>
+* `Dat` (26; 13% of non-empty `Case`): <em>hümāyūna, merd-efgene, tīze, zerrīne, ʿulyāya, ḫabīs̱e, aḥmere, bāṭınīlere, bī-devletine, hümāyūnlarına</em>
+* `Equ` (1; 0% of non-empty `Case`): <em>muḳteżāsınca</em>
+* `Gen` (34; 17% of non-empty `Case`): <em>mezbūruñ, meẕkūruñ, aḥmerüñ, bed-kīşüñ, demānuñ, kerīmüñ, kişver-güşānuñ, mezbūrun, pīşīnüñ, şerīfüñ</em>
+* `Ins` (5; 2% of non-empty `Case`): <em>fāni-le, manṣūrla, sürūr-encāmla, hümāyūnlarıyla, şerīfleriyle</em>
+* `Loc` (28; 14% of non-empty `Case`): <em>içinde, hümāyūnda, aralarında, meẕkūrda, muʿammāda, vesīʿada, yanında, şerīfde, kerīmede, meẕkūrede</em>
+* `Nom` (60; 30% of non-empty `Case`): <em>ḫātūn, var, arası, atlu, aʿlāsı, aʿrābī, aḳṣā-yı, bedi, bī-fāżılları, cömerttir</em>
+* `EMPTY` (1101): <em>niçe, maʿzūl, çoḳ, mezbūr, vāḳiʿ, dürlü, ẓāhir, muḳarrer, büyük, bāḳī</em>
 
 <table>
-  <tr><th>Paradigm <i>şerîf</i></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td></td><td><em>şerîfde</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>şerîfi</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>şerîfüñüzde</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>şerîfiñ</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>şerîflerinde</em></td><td><em>şerîfleriyle</em></td></tr>
+  <tr><th>Paradigm <i>şerīf</i></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>şerīfüñ</em></td><td><em>şerīfde</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>şerīfi</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>şerīfüñüzde</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>şerīfiñ</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>şerīflerinde</em></td><td><em>şerīfleriyle</em></td></tr>
 </table>
-
-`Case` seems to be **lexical feature** of `ADJ`. 90% lemmas (123) occur only with one value of `Case`.
 
 ### `NUM`
 
-36 <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> tokens (8% of all `NUM` tokens) have a non-empty value of `Case`.
+43 <tt><a href="ota_dudu-pos-NUM.html">NUM</a></tt> tokens (8% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="ota_dudu-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (33; 92%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="ota_dudu-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (40; 93%).
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Abl` (2; 6% of non-empty `Case`): <em>biñden</em>
-* `Acc` (2; 6% of non-empty `Case`): <em>ikisi</em>
-* `Dat` (2; 6% of non-empty `Case`): <em>biñe, yüze</em>
-* `Gen` (1; 3% of non-empty `Case`): <em>dördinüñ</em>
-* `Loc` (20; 56% of non-empty `Case`): <em>ikisinde, 1069da, 1100de, 1114te, 1143te, 1151de, 1166da, 1204te, 1227de, altıda</em>
-* `Nom` (9; 25% of non-empty `Case`): <em>beşi, ikidür, ikinci, ikisi, miʾe-i, s̱ânîsi, ḫamse</em>
-* `EMPTY` (424): <em>yüz, on, biñ, iki, üç, dört, yigirmi, ṭoḳuz, ḳırḳ, sekiz</em>
+* `Abl` (2; 5% of non-empty `Case`): <em>biñden</em>
+* `Acc` (2; 5% of non-empty `Case`): <em>ikisi</em>
+* `Dat` (3; 7% of non-empty `Case`): <em>biñe, iki, yüze</em>
+* `Gen` (1; 2% of non-empty `Case`): <em>dördinüñ</em>
+* `Loc` (25; 58% of non-empty `Case`): <em>ikisinde, altıda, sekizinde, 1069da, 1100de, 1114te, 1143te, 1151de, 1166da, 1204te</em>
+* `Nom` (10; 23% of non-empty `Case`): <em>beşi, ikidür, ikinci, ikisi, miʾe-i, s̱ānīsi, üçi, ḫamse</em>
+* `EMPTY` (463): <em>yüz, on, biñ, iki, üç, dört, yigirmi, ḳırḳ, ṭoḳuz, sekiz</em>
 
 <table>
-  <tr><th>Paradigm <i>iki</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Loc</tt></th></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-NumType.html">NumType</a></tt><tt>=Card</tt>|<tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>ikisi</em></td><td><em>ikisi</em></td><td><em>ikisinde</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>ikidür</em></td><td></td><td><em>ikide</em></td></tr>
-  <tr><td><tt><tt><a href="ota_dudu-feat-NumType.html">NumType</a></tt><tt>=Ord</tt></tt></td><td><em>ikinci</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>iki</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-NumType.html">NumType</a></tt><tt>=Card</tt>|<tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>ikisi</em></td><td><em>ikisi</em></td><td></td><td><em>ikisinde</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-NumType.html">NumType</a></tt><tt>=Card</tt></tt></td><td><em>ikidür</em></td><td></td><td><em>iki</em></td><td><em>ikide</em></td></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-NumType.html">NumType</a></tt><tt>=Ord</tt></tt></td><td><em>ikinci</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`
 
-8 <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Case`.
+9 <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 100%), <tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt> (6; 75%).
+The most frequent other feature values with which `AUX` and `Case` co-occurred: <tt><a href="ota_dudu-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="ota_dudu-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 100%), <tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="ota_dudu-feat-Person.html">Person</a></tt><tt>=3</tt> (7; 78%).
 
 `AUX` tokens may have the following values of `Case`:
 
-* `Nom` (8; 100% of non-empty `Case`): <em>degil, degülsin, degülin, ken, tur</em>
-* `EMPTY` (491): <em>dur, idi, dür, ıdı, iken, dir, dır, imiş, dı, ken</em>
+* `Acc` (1; 11% of non-empty `Case`): <em>ydügin</em>
+* `Nom` (8; 89% of non-empty `Case`): <em>degil, degülsin, degülin, ken, tur</em>
+* `EMPTY` (586): <em>dur, idi, dür, ıdı, iken, dir, dır, imiş, dı, degüldür</em>
+
+<table>
+  <tr><th>Paradigm <i>y</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
+  <tr><td><tt><tt><a href="ota_dudu-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ota_dudu-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="ota_dudu-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="ota_dudu-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="ota_dudu-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ota_dudu-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>ydügin</em></td></tr>
+  <tr><td><tt></tt></td><td><em>ken, tur</em></td><td></td></tr>
+</table>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="ota_dudu-dep-conj.html">conj</a></tt>]--> NOUN</tt> (373; 79%),
-<tt>NOUN --[<tt><a href="ota_dudu-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (215; 87%),
-<tt>PROPN --[<tt><a href="ota_dudu-dep-flat.html">flat</a></tt>]--> NOUN</tt> (128; 82%),
-<tt>PROPN --[<tt><a href="ota_dudu-dep-conj.html">conj</a></tt>]--> PROPN</tt> (73; 88%),
-<tt>NOUN --[<tt><a href="ota_dudu-dep-advcl.html">advcl</a></tt>]--> NOUN</tt> (71; 96%),
-<tt>NOUN --[<tt><a href="ota_dudu-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (71; 90%),
-<tt>PROPN --[<tt><a href="ota_dudu-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (63; 67%),
-<tt>PROPN --[<tt><a href="ota_dudu-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (58; 74%),
-<tt>NOUN --[<tt><a href="ota_dudu-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (54; 87%),
-<tt>NOUN --[<tt><a href="ota_dudu-dep-appos.html">appos</a></tt>]--> PROPN</tt> (21; 91%).
+<tt>NOUN --[<tt><a href="ota_dudu-dep-conj.html">conj</a></tt>]--> NOUN</tt> (466; 81%),
+<tt>NOUN --[<tt><a href="ota_dudu-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (262; 88%),
+<tt>PROPN --[<tt><a href="ota_dudu-dep-flat.html">flat</a></tt>]--> NOUN</tt> (190; 71%),
+<tt>PROPN --[<tt><a href="ota_dudu-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (133; 73%),
+<tt>NOUN --[<tt><a href="ota_dudu-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (118; 90%),
+<tt>PROPN --[<tt><a href="ota_dudu-dep-conj.html">conj</a></tt>]--> PROPN</tt> (91; 87%),
+<tt>NOUN --[<tt><a href="ota_dudu-dep-advcl.html">advcl</a></tt>]--> NOUN</tt> (86; 93%),
+<tt>NOUN --[<tt><a href="ota_dudu-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (70; 85%),
+<tt>PROPN --[<tt><a href="ota_dudu-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (64; 75%),
+<tt>NOUN --[<tt><a href="ota_dudu-dep-ccomp.html">ccomp</a></tt>]--> NOUN</tt> (27; 93%).
 

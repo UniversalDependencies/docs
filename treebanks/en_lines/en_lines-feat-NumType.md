@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_English-LinES: Features: `NumType`
 
 This feature is universal.
-It occurs with 3 different values: `Card`, `Mult`, `Ord`.
+It occurs with 4 different values: `Card`, `Frac`, `Mult`, `Ord`.
 
-751 tokens (1%) have a non-empty value of `NumType`.
-86 types (1%) occur at least once with a non-empty value of `NumType`.
-69 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (577; 1% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (106; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (68; 0% instances).
+757 tokens (1%) have a non-empty value of `NumType`.
+87 types (1%) occur at least once with a non-empty value of `NumType`.
+70 lemmas (1%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="en_lines-pos-NUM.html">NUM</a></tt> (577; 1% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt> (106; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> (68; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> (6; 0% instances).
 
 ### `NUM`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (106; 100% of non-empty `NumType`): <em>first, second, third, fourth, seventh, sixth, eleventh</em>
-* `EMPTY` (6648): <em>other, white, old, own, new, good, long, same, little, more</em>
+* `EMPTY` (6664): <em>other, white, old, own, new, good, long, same, little, more</em>
 
 ### `ADV`
 
@@ -45,7 +45,18 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 `ADV` tokens may have the following values of `NumType`:
 
 * `Mult` (68; 100% of non-empty `NumType`): <em>once, twice</em>
-* `EMPTY` (5670): <em>out, up, so, then, now, back, very, just, there, again</em>
+* `EMPTY` (5623): <em>out, up, so, then, now, back, very, just, there, again</em>
+
+### `NOUN`
+
+6 <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `NumType`.
+
+The most frequent other feature values with which `NOUN` and `NumType` co-occurred: <tt><a href="en_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 100%).
+
+`NOUN` tokens may have the following values of `NumType`:
+
+* `Frac` (6; 100% of non-empty `NumType`): <em>half</em>
+* `EMPTY` (18949): <em>data, man, time, people, field, way, father, eyes, page, room</em>
 
 ## Relations with Agreement in `NumType`
 

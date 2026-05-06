@@ -47,10 +47,10 @@ The following 4 pairs of parts of speech are connected with `compound:lvc`: <tt>
 # visual-style 4 3 compound:lvc	color:blue
 1	-	-	PUNCT	Y	_	8	punct	_	_
 2	kema	kema	NOUN	N	_	4	nsubj	_	_
-3	choʻkib	choʻkmoq	VERB	V	_	4	compound:lvc	_	_
-4	ketishga	ketmoq	VERB	V	Case=Dat	8	nmod	_	_
+3	choʻkib	choʻk	VERB	V	_	4	compound:lvc	_	_
+4	ketishga	ket	VERB	V	Case=Dat	8	nmod	_	_
 5	yana	yana	ADV	T	_	8	advmod	_	_
-6	qancha	qancha	DET	P	_	7	det	_	_
+6	qancha	qancha	DET	P	PronType=Int	7	det	_	_
 7	daqiqa	daqiqa	NOUN	N	Case=Nom	8	nsubj	_	_
 8	bor	bor	VERB	A	Mood=Imp|VerbForm=Fin	0	root	_	_
 9	?	?	PUNCT	Y	_	8	punct	_	_
@@ -64,24 +64,24 @@ The following 4 pairs of parts of speech are connected with `compound:lvc`: <tt>
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 compound:lvc	color:blue
-1	_	mumkin	PUNCT	Y	_	17	punct	_	_
-2	_	mumkin	PUNCT	Y	_	17	punct	_	_
-3	albatta	albatt	ADV	T	_	17	discourse	_	_
-4	!	albatt	PUNCT	N	_	3	punct	_	_
-5	agar	agar	SCONJ	C	_	13	cc	_	_
-6	bir	agar	NUM	M	_	7	nummod	_	_
-7	odom	odo	NOUN	N	Case=Nom	13	nsubj	_	_
-8	oʻtib	oʻt	VERB	V	Aspect=Perf|VerbForm=Conv	9	compound:lvc	_	_
+1	<	<	PUNCT	Y	_	17	punct	_	_
+2	<	<	PUNCT	Y	_	17	punct	_	_
+3	albatta	albatta	ADV	T	_	17	discourse	_	_
+4	!	!	PUNCT	N	_	3	punct	_	_
+5	Agar	Agar	SCONJ	C	_	13	cc	_	_
+6	bir	bir	NUM	M	_	7	nummod	_	_
+7	odam	odam	NOUN	N	Case=Nom	13	nsubj	_	_
+8	oʻtib	oʻtib	VERB	V	Aspect=Perf|VerbForm=Conv	9	compound:lvc	_	_
 9	ketgan	ket	NOUN	N	_	11	amod	_	_
-10	shundoq	shund	ADV	P	_	11	advmod	_	_
+10	shundoq	shu	ADV	P	_	11	advmod	_	_
 11	paytlarni	payt	NOUN	V	Case=Acc|Number=Plur	13	obj	_	_
 12	xotirasida	xotira	NOUN	N	Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3	13	nmod	_	_
-13	saqlayolmasa	saqlayolma	NOUN	N	_	17	advcl	_	_
-14	uni	saqlayolma	PRON	P	Case=Acc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
-15	odam	oda	NOUN	N	Case=Nom	16	nsubj	_	_
-16	deb	oda	VERB	V	_	17	advcl	_	_
+13	saqlayolmasa	saqla	NOUN	N	_	17	advcl	_	_
+14	uni	u	PRON	P	Case=Acc|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+15	odam	odam	NOUN	N	Case=Nom	16	nsubj	_	_
+16	deb	de	VERB	V	_	17	advcl	_	_
 17	boʻlmaydi	boʻl	VERB	V	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
-18	?	boʻl	PUNCT	Y	_	17	punct	_	_
+18	?	?	PUNCT	Y	_	17	punct	_	_
 
 ~~~
 

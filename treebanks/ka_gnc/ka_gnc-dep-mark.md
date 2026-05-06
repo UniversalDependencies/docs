@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-577 nodes (3%) are attached to their parents as `mark`.
+602 nodes (3%) are attached to their parents as `mark`.
 
-476 instances of `mark` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.54939341421144.
+500 instances of `mark` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.54485049833887.
 
-The following 18 pairs of parts of speech are connected with `mark`: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt> (381; 66% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PART.html">PART</a></tt> (69; 12% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (24; 4% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt> (23; 4% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt> (20; 3% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-CCONJ.html">CCONJ</a></tt> (15; 3% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PART.html">PART</a></tt> (9; 2% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt> (9; 2% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt>-<tt><a href="ka_gnc-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 19 pairs of parts of speech are connected with `mark`: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt> (399; 66% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PART.html">PART</a></tt> (70; 12% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt> (25; 4% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (24; 4% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt> (22; 4% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-CCONJ.html">CCONJ</a></tt> (14; 2% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt> (10; 2% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PART.html">PART</a></tt> (9; 1% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt>-<tt><a href="ka_gnc-pos-PART.html">PART</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -54,23 +54,17 @@ The following 18 pairs of parts of speech are connected with `mark`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 mark	color:blue
-1	და	და	CCONJ	Cj_Coord	_	5	cc	_	LMSeg:და
-2	სხვის	სხვა	ADJ	A_Gen_Sg	Case=Gen|Number=Sing	3	nmod	_	LMSeg:სხვ[ა]
-3	ჭაბუკს	ჭაბუკი	NOUN	N_Hum_Dat_Sg	Animacy=Anim|Case=Dat|Number=Sing	5	iobj	_	LMSeg:ჭაბუკ·ი
-4	ისე	ისე	ADV	Adv_Mann	_	5	advmod	_	LMSeg:ისე
-5	მიეკრა	მიკვრა	VERB	V_Pass_Aor_Pv_S:3Sg_IO:3	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Tense=Past|VerbForm=Fin	0	root	_	LMSeg:მი·კვრ[ა]/კრ
-6	როგორც	როგორც	ADP	Cj_Compar	_	8	mark	_	LMSeg:როგორც
-7	მისი	მისი	PRON	Pron_Poss_Poss3Sg_Nom_Att	Case=Nom|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det:poss	_	LMSeg:მის·ი
-8	ქმარი	ქმარი	NOUN	N_Hum_Nom_Sg	Animacy=Anim|Case=Nom|Number=Sing	4	advcl	_	LMSeg:ქმ[ა]რ·ი
-9	თავის	თავისი	PRON	Pron_Poss_Refl_Poss3Sg_Dat_Att	Case=Dat|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det:poss	_	LMSeg:თავის·ი
-10	ქონიან	ქონიანი	ADJ	A_Dat_Att	Case=Dat	11	amod	_	LMSeg:ქონიან·ი
-11	დახლს	დახლი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	8	orphan	_	LMSeg:დახლ·ი|SpaceAfter=No
-12	.	.	PUNCT	Punct_Period	_	5	punct	_	LMSeg:.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 mark	color:blue
+1	იმიტომ	იმიტომ	ADV	Adv_Causal	_	3	advmod	_	LMSeg:იმიტომ
+2	რომ	რომ	SCONJ	Compl	_	3	mark	_	LMSeg:რომ
+3	ნათელი	ნათელი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	0	root	_	LMSeg:ნათ[ე]ლ·ი
+4	არ	არ	ADV	Adv_Neg	_	3	advmod:neg	_	LMSeg:არ
+5	იყო	ყოფნა	AUX	V_Pass_Aor_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	3	cop	_	LMSeg:ყოფნ[ა]/ყ[ავ]|SpaceAfter=No
+6	.	.	PUNCT	Punct_Period	_	3	punct	_	LMSeg:.
 
 ~~~
 

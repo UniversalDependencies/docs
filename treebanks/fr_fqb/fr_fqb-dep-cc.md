@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-98 nodes (0%) are attached to their parents as `cc`.
+99 nodes (0%) are attached to their parents as `cc`.
 
-98 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.83673469387755.
+99 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.82828282828283.
 
-The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (35; 36% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (32; 33% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (23; 23% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `cc`: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (35; 35% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (32; 32% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (23; 23% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (3; 3% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -67,11 +67,11 @@ The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="f
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 cc	color:blue
-1	Je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	étudiant	étudiant	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	et	et	CCONJ	_	_	6	cc	_	_
-5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	cherche	chercher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	aide	aide	NOUN	_	Number=Sing	6	obj	_	_

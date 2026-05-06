@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
-34819 tokens (10%) have a non-empty value of `Degree`.
+34794 tokens (10%) have a non-empty value of `Degree`.
 13146 types (22%) occur at least once with a non-empty value of `Degree`.
-5650 lemmas (20%) occur at least once with a non-empty value of `Degree`.
-The feature is used with 2 part-of-speech tags: <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (28668; 8% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (6151; 2% instances).
+5649 lemmas (20%) occur at least once with a non-empty value of `Degree`.
+The feature is used with 2 part-of-speech tags: <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (28668; 8% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (6126; 2% instances).
 
 ### `ADJ`
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (682; 2% of non-empty `Degree`): <em>większe, starszy, dalsze, lepsze, większej, starsza, większym, dalszych, większą, większa</em>
 * `Pos` (27510; 96% of non-empty `Degree`): <em>innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</em>
 * `Sup` (476; 2% of non-empty `Degree`): <em>najlepsze, najważniejsze, największe, najbliższych, najlepszym, najlepszy, najwyższe, najbliższym, najlepszych, największych</em>
-* `EMPTY` (7260): <em>prostu, dotyczące, dotyczących, związane, czarno, ubrany, św, biało, określonych, związanych</em>
+* `EMPTY` (7258): <em>prostu, dotyczące, dotyczących, związane, czarno, ubrany, św, biało, określonych, związanych</em>
 
 <table>
   <tr><th>Paradigm <i>duży</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -72,20 +72,20 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="pl_pdb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="pl_pdb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="pl_pdb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>duże</em></td><td></td><td><em>największe</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 98% lemmas (4718) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 98% lemmas (4717) occur only with one value of `Degree`.
 
 ### `ADV`
 
-6151 <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> tokens (54% of all `ADV` tokens) have a non-empty value of `Degree`.
+6126 <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> tokens (54% of all `ADV` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (5184; 84%).
+The most frequent other feature values with which `ADV` and `Degree` co-occurred: <tt><a href="pl_pdb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (5159; 84%).
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (800; 13% of non-empty `Degree`): <em>bardziej, wcześniej, lepiej, dalej, później, mniej, więcej, częściej, łatwiej, wyżej</em>
-* `Pos` (5135; 83% of non-empty `Degree`): <em>bardzo, tak, jak, dobrze, zgodnie, często, jednocześnie, obecnie, trudno, szybko</em>
+* `Cmp` (800; 13% of non-empty `Degree`): <em>bardziej, wcześniej, lepiej, dalej, później, więcej, mniej, częściej, łatwiej, wyżej</em>
+* `Pos` (5110; 83% of non-empty `Degree`): <em>bardzo, tak, jak, dobrze, często, jednocześnie, obecnie, trudno, szybko, nagle</em>
 * `Sup` (216; 4% of non-empty `Degree`): <em>najbardziej, najmniej, najczęściej, najlepiej, najszybciej, najprawdopodobniej, najwięcej, najbliżej, najchętniej, najdalej</em>
-* `EMPTY` (5327): <em>kiedy, gdy, teraz, tu, tam, gdzie, dlatego, wtedy, potem, zawsze</em>
+* `EMPTY` (5310): <em>kiedy, gdy, teraz, tu, tam, gdzie, dlatego, wtedy, potem, zawsze</em>
 
 <table>
   <tr><th>Paradigm <i>bardzo</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -97,14 +97,14 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
-<tt>ADJ --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1041; 68%),
-<tt>ADV --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> ADV</tt> (75; 85%),
+<tt>ADJ --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1039; 68%),
+<tt>ADV --[<tt><a href="pl_pdb-dep-conj.html">conj</a></tt>]--> ADV</tt> (74; 85%),
 <tt>ADV --[<tt><a href="pl_pdb-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (33; 85%),
-<tt>ADJ --[<tt><a href="pl_pdb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (28; 78%),
+<tt>ADJ --[<tt><a href="pl_pdb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (29; 78%),
 <tt>ADJ --[<tt><a href="pl_pdb-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (20; 53%),
 <tt>ADJ --[<tt><a href="pl_pdb-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (18; 69%),
+<tt>ADV --[<tt><a href="pl_pdb-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (10; 53%),
 <tt>ADJ --[<tt><a href="pl_pdb-dep-amod-flat.html">amod:flat</a></tt>]--> ADJ</tt> (7; 100%),
 <tt>ADJ --[<tt><a href="pl_pdb-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (6; 100%),
-<tt>ADV --[<tt><a href="pl_pdb-dep-advcl.html">advcl</a></tt>]--> ADV</tt> (3; 75%),
-<tt>ADV --[<tt><a href="pl_pdb-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> ADJ</tt> (3; 60%).
+<tt>ADJ --[<tt><a href="pl_pdb-dep-acl-cmp.html">acl:cmp</a></tt>]--> ADJ</tt> (3; 100%).
 

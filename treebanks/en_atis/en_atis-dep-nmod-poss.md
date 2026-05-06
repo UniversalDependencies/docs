@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 2	many	many	ADJ	_	Degree=Pos	10	nsubj	_	_
 3	of	of	ADP	_	_	7	case	_	_
 4	delta	Delta	PROPN	_	Number=Sing	6	nmod:poss	_	_
-5	's	be	PART	_	_	4	case	_	_
+5	's	's	PART	_	_	4	case	_	_
 6	night	night	NOUN	_	Number=Sing	7	compound	_	_
 7	flights	flight	NOUN	_	Number=Plur	2	nmod	_	_
 8	are	be	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_
@@ -70,7 +70,7 @@ The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 7	to	to	ADP	_	_	11	case	_	_
 8	new	New	PROPN	_	Number=Sing	11	nmod:poss	_	_
 9	york	York	PROPN	_	Number=Sing	8	flat	_	_
-10	's	be	PART	_	_	8	case	_	_
+10	's	's	PART	_	_	8	case	_	_
 11	la	LA	PROPN	_	Number=Sing	6	nmod	_	_
 12	guardia	Guardia	PROPN	_	Number=Sing	11	flat	_	_
 

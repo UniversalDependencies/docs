@@ -13,7 +13,7 @@ This relation is universal.
 3431 instances of `case` (99%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.09881193856853.
 
-The following 10 pairs of parts of speech are connected with `case`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (2812; 81% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (259; 8% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (246; 7% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (92; 3% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (24; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `case`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (2813; 82% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (259; 8% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (246; 7% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (91; 3% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (24; 1% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,7 +63,7 @@ The following 10 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 1 2 case	color:blue
 1	სინგაპურ	სინგაპური	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	3	obl	_	Translit=singapur
 2	ში	ში	ADP	Post	AdpType=Post|Case=Dat	1	case	_	Translit=ši
-3	ვითარდება	ვითარდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=vitʻardeba
+3	ვითარდება	ავითარებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=vitʻardeba
 4	ბიოტექნოლოგიების	ბიოტექნოლოგია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	5	nmod	_	Translit=biotekʻnologiebis
 5	მრეწველობა	მრეწველობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No|Translit=mrecveloba
 6	.	.	PUNCT	F	PunctType=Peri	3	punct	_	Translit=.

@@ -13,23 +13,23 @@ The 10 most frequent `NUM` lemmas: <em>deux, trois, quatre, 1, 3, milliard, 10, 
 
 The 10 most frequent `NUM` types:  <em>deux, trois, quatre, 1, 3, 10, II, III, dix, milliards</em>
 
-The 10 most frequent ambiguous lemmas: <em>milliard</em> (<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 7, <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>un</em> (<tt><a href="fr_pud-pos-DET.html">DET</a></tt> 660, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 11, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 5), <em>1er</em> (<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 3, <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>premier</em> (<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 36, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>milliard</em> (<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 7, <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>un</em> (<tt><a href="fr_pud-pos-DET.html">DET</a></tt> 660, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 14, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 5), <em>1er</em> (<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 3, <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>premier</em> (<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 36, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>milliards</em> (<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 6, <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>un</em> (<tt><a href="fr_pud-pos-DET.html">DET</a></tt> 225, <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 10, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 5), <em>1er</em> (<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 3, <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 1), <em>milliard</em> (<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 1), <em>premier</em> (<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 1)
 
 
 * <em>milliards</em>
   * <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 6: <em>Son budget annuel dépasse les 1,4 <b>milliards</b> de dollars et elle emploie plus de 6000 personnes .</em>
-  * <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Le pétrole brut , l’ or et le blé sont tous des ressources naturelles , dans lesquelles des <b>milliards</b> ont été investis dans le monde entier .</em>
+  * <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Le pétrole brut , l' or et le blé sont tous des ressources naturelles , dans lesquelles des <b>milliards</b> ont été investis dans le monde entier .</em>
 * <em>un</em>
   * <tt><a href="fr_pud-pos-DET.html">DET</a></tt> 225: <em>C' est parfois comme <b>un</b> super pouvoir .</em>
   * <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> 10: <em>Quelles que fussent les règles , les combats se terminaient souvent par la mort d' <b>un</b> de les étalons .</em>
-  * <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 5: <em>« Je dois féliciter Andy . Devenir numéro <b>un</b> mondial est vraiment quelque chose » , a constaté l’ américain .</em>
+  * <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 5: <em>« Je dois féliciter Andy . Devenir numéro <b>un</b> mondial est vraiment quelque chose » , a constaté l' américain .</em>
 * <em>1er</em>
   * <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 3: <em>À partir de le <b>1er</b> janvier , il y aura une augmentation de l' essence et du diesel .</em>
-  * <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 1: <em>Après le Compromis austro-hongrois , l’ Empereur et roi François-Joseph <b>1er</b> prit grand soin de traiter équitablement ses deux monarchies .</em>
+  * <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 1: <em>Après le Compromis austro-hongrois , l' Empereur et roi François-Joseph <b>1er</b> prit grand soin de traiter équitablement ses deux monarchies .</em>
 * <em>milliard</em>
-  * <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>En échange , Uber recevra un <b>milliard</b> de dollars d’ investissement et un siège à le conseil d’ administration de l’ entreprise chinoise .</em>
+  * <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>En échange , Uber recevra un <b>milliard</b> de dollars d' investissement et un siège à le conseil d' administration de l' entreprise chinoise .</em>
   * <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> 1: <em>Les directeurs ont également reçu une « prime de rendement » pour atteinte ou dépassement de leurs objectifs ; ils se sont ainsi partagé une enveloppe d' un <b>milliard</b> et demi de dollars , ce qui équivaut à 15 000 dollars en moyenne par personne .</em>
 * <em>premier</em>
   * <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> 6: <em>Leur <b>premier</b> roi fut Mojmír Ier , qui régna de 830 à 846 .</em>
@@ -37,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>milliards</em> (<tt><a href="fr_pud-p
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.004367 (the average of all parts of speech is 1.300944).
+The form / lemma ratio of `NUM` is 1.004367 (the average of all parts of speech is 1.297042).
 
 The 1st highest number of forms (2) was observed with the lemma “milliard”: <em>milliard, milliards</em>.
 

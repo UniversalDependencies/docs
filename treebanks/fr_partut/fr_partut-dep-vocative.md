@@ -70,7 +70,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 7	d'	de	ADP	E	_	8	mark	_	SpaceAfter=No
 8	imprimer	imprimer	VERB	V	VerbForm=Inf	6	acl	_	_
 9	une	un	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-10	certaine	certain	DET	DI	Gender=Fem|Number=Sing|PronType=Ind	11	det	_	_
+10	certaine	certain	ADJ	DI	Gender=Fem|Number=Sing	11	amod	_	_
 11	souplesse	souplesse	NOUN	S	Gender=Fem|Number=Sing	8	obj	_	_
 12	à	à	ADP	E	_	14	case	_	_
 13	cette	ce	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	14	det	_	_

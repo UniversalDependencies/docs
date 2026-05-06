@@ -8,69 +8,69 @@ udver: '2'
 
 This relation is universal.
 
-37 nodes (0%) are attached to their parents as `xcomp`.
+51 nodes (0%) are attached to their parents as `xcomp`.
 
-36 instances of `xcomp` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.7027027027027.
+50 instances of `xcomp` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.80392156862745.
 
-The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (26; 70% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (3; 8% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (3; 8% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 3% instances).
+The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (30; 59% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (9; 18% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (4; 8% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt>-<tt><a href="ota_dudu-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt>-<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 2 xcomp	color:blue
-1	aṣlâ	aṣlâ	ADV	_	_	3	advmod	_	_
-2	râḥat	râḥat	ADJ	Adj	_	11	xcomp	_	_
-3	olmadı	ol	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	_
-4	ve	ve	CCONJ	_	_	7	cc	_	_
-5	ṭuyınca	ṭuy	VERB	Conv	Polarity=Pos|VerbForm=Conv	6	advcl	_	_
-6	ṭaʿâm	ṭaʿâm	NOUN	_	Case=Nom|Number=Sing|Person=3	11	obl:tmod	_	_
-7	yimedi	ye	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	3	conj	_	_
-8	ve	ve	CCONJ	_	_	11	cc	_	_
-9	ḳanınca	ḳan	VERB	Conv	Polarity=Pos|VerbForm=Conv	10	advcl	_	_
-10	uyḳu	uyḳu	NOUN	_	Case=Nom|Number=Sing|Person=3	7	obj	_	_
-11	uyımadı	uyu	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	3	conj	_	_
+# visual-style 2 1 xcomp	color:blue
+1	bī-hūş	bī-hūş	ADJ	Adj	_	2	xcomp	_	_
+2	olup	ol	VERB	Conv	Polarity=Pos|VerbForm=Conv	5	advcl	_	_
+3	hemān	hemān	ADV	_	_	5	advmod	_	_
+4	kendüden	kendü	PRON	Reflex	Case=Abl|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	5	obl	_	_
+5	gitdi	git	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 xcomp	color:blue
-1	ol	ol	DET	Demons	Definite=Def|PronType=Art	2	det	_	_
-2	gün	gün	NOUN	_	Case=Nom|Number=Sing|Person=3	5	obl:tmod	_	_
-3	gice	gice	NOUN	_	Case=Nom|Number=Sing|Person=3	4	xcomp	_	_
-4	olınca	ol	VERB	Conv	Aspect=Perf|Polarity=Pos|VerbForm=Conv	5	advcl	_	_
-5	gitdiler	git	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 xcomp	color:blue
+1	abaḳa	abaḳa	PROPN	Pers	Case=Nom|NameType=Prs|Number=Sing|Person=3	10	nsubj	_	_
+2	ḫān	ḫān	NOUN	_	Case=Nom|Number=Sing|Person=3	1	flat	_	_
+3	mesʿūdı	mesʿūd	PROPN	Pers	Case=Acc|NameType=Prs|Number=Sing|Person=3	10	obj	_	_
+4	ermeniyyeye	ermeniyye	PROPN	Place	Case=Dat|Gender=Fem|NameType=Geo|Number=Sing|Person=3	10	obl	_	_
+5	ve	ve	CCONJ	_	_	6	cc	_	_
+6	sivasa	sivas	PROPN	Place	Case=Dat|NameType=Geo|Number=Sing|Person=3	4	conj	_	_
+7	ve	ve	CCONJ	_	_	8	cc	_	_
+8	malāṭıyyeye	malāṭıyye	PROPN	Place	Case=Dat|Gender=Fem|NameType=Geo|Number=Sing|Person=3	4	conj	_	_
+9	beg	beg	NOUN	_	Case=Nom|Number=Sing|Person=3	10	xcomp	_	_
+10	eyledi	eyle	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	0	root	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 12 xcomp	color:blue
-1	yine	yine	ADV	_	_	3	advmod	_	_
-2	aralarında	ara	ADJ	NAdj	Case=Loc|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3	3	obl	_	_
-3	muṣâlaḥa	muṣâlaḥa	NOUN	_	Case=Nom|Number=Sing|Person=3	0	root	_	_
-4	oldı	ol	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	3	compound:lvc	_	_
-5	barışdılar	barış	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	3	conj	_	_
-6	ve	ve	CCONJ	_	_	7	cc	_	_
-7	görüşdiler	görüş	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	5	conj	_	_
-8	ve	ve	CCONJ	_	_	13	cc	_	_
-9	mâlik	mâlik	NOUN	_	Case=Nom|Number=Sing|Person=3	10	nmod	_	_
-10	ʿanterüñ	ʿanter	PROPN	Pers	Case=Gen|NameType=Prs|Number=Sing|Person=3	11	nmod:poss	_	_
-11	ayaġın	ayaḳ	NOUN	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	12	obj	_	_
-12	öpmek	öp	VERB	Vnoun	Case=Nom|Number=Sing|Person=3|Polarity=Pos|VerbForm=Vnoun	13	xcomp	_	_
-13	isdedi	isde	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	7	conj	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 xcomp	color:blue
+1	behrām	behrām	PROPN	Pers	Case=Nom|NameType=Prs|Number=Sing|Person=3	8	obj	_	_
+2	paşayı	paşa	NOUN	_	Case=Acc|Number=Sing|Person=3	1	flat	_	_
+3	oṭaġ-ı	oṭaġ	NOUN	_	Case=Nom|Number=Sing|Person=3	8	obl	_	_
+4	ḫāṣṣı	ḫāṣṣ	ADJ	Adj	Case=Acc	3	amod	_	_
+5	ile	ile	CCONJ	_	_	3	case	_	_
+6	muḳaddem-i	muḳaddem	NOUN	_	Case=Nom|Number=Sing|Person=3	8	xcomp	_	_
+7	sipāh	sipāh	NOUN	_	Case=Nom|Number=Sing|Person=3	6	nmod:poss	_	_
+8	taʿyīn	taʿyīn	NOUN	_	Case=Nom|Number=Sing|Person=3	13	advcl	_	_
+9	eyleyüp	eyle	VERB	Conv	Polarity=Pos|VerbForm=Conv	8	compound:lvc	_	_
+10	āḫar	āḫar	ADJ	Adj	_	11	amod	_	_
+11	semte	semt	NOUN	_	Case=Dat|Number=Sing|Person=3	13	obl	_	_
+12	ṭoġrı	ṭoġrı	ADP	PCDat	_	11	case	_	_
+13	ʿazīmet	ʿazīmet	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
+14	itdi	it	VERB	_	Aspect=Perf|Evident=Fh|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin	13	compound:lvc	_	_
 
 ~~~
 

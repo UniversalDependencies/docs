@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-88 nodes (2%) are attached to their parents as `cop`.
+106 nodes (2%) are attached to their parents as `cop`.
 
-86 instances of `cop` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.05681818181818.
+104 instances of `cop` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.93396226415094.
 
-The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (47; 53% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (32; 36% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (5; 6% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (54; 51% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (41; 39% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (5; 5% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (5; 5% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

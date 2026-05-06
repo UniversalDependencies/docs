@@ -11,21 +11,21 @@ It occurs with 3 different values: `Imp`, `Ind`, `Sub`.
 
 14097 tokens (14%) have a non-empty value of `Mood`.
 2938 types (32%) occur at least once with a non-empty value of `Mood`.
-644 lemmas (16%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (11515; 12% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (2582; 3% instances).
+642 lemmas (16%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (11514; 12% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (2583; 3% instances).
 
 ### `VERB`
 
-11515 <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Mood`.
+11514 <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11515; 100%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11513; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (8455; 73%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7665; 67%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6859; 60%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5798; 50%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11514; 100%), <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11512; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (8455; 73%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7665; 67%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6858; 60%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5798; 50%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (774; 7% of non-empty `Mood`): <em>երթ, երթայք, տուր, տուք, կացէք, արարէք, եկայք, ասա, եկ, արի</em>
+* `Imp` (773; 7% of non-empty `Mood`): <em>երթ, երթայք, տուր, տուք, կացէք, արարէք, եկայք, ասա, եկ, արի</em>
 * `Ind` (8594; 75% of non-empty `Mood`): <em>ասէ, ետ, ասեն, ասեմ, ասեին, եկն, ասաց, գայ, ասէր, ել</em>
 * `Sub` (2147; 19% of non-empty `Mood`): <em>եկեցէ, ունիցի, տացէ, ասիցէ, տեսանիցէք, լցցի, արարից, տեսցեն, գիտասջիք, կորուսցէ</em>
-* `EMPTY` (3099): <em>եկեալ, ասել, առեալ, մատուցեալ, գրեալ, ելեալ, առնել, մտանել, տալ, տեսեալ</em>
+* `EMPTY` (3102): <em>եկեալ, ասել, առեալ, մատուցեալ, գրեալ, ելեալ, առնել, մտանել, տալ, տեսեալ</em>
 
 <table>
   <tr><th>Paradigm <i>ասել</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -65,16 +65,16 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-2582 <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Mood`.
+2583 <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2582; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (2188; 85%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2153; 83%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2030; 79%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1660; 64%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2583; 100%), <tt><a href="xcl_caval-feat-Person.html">Person</a></tt><tt>=3</tt> (2188; 85%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2153; 83%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2030; 79%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1661; 64%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Imp` (38; 1% of non-empty `Mood`): <em>լերուք, լեր, եղերուք, լինիր, լինիք, եր</em>
+* `Imp` (39; 2% of non-empty `Mood`): <em>լերուք, լեր, եղերուք, լինիր, լինիք, եր, տուք</em>
 * `Ind` (2090; 81% of non-empty `Mood`): <em>է, էր, եղեւ, են, եին, եմ, ես, էք, լինի, եղեն</em>
 * `Sub` (454; 18% of non-empty `Mood`): <em>իցէ, եղիցի, իցեն, լիցի, լինիցի, եղիցին, իցեմ, լիցին, եղիջիք, իցես</em>
-* `EMPTY` (155): <em>լինել, լեալ, եղեալ, լինելոյ, լիեալ, լինելոց, եղելոյ, լինելով, լինիցի, եղանել</em>
+* `EMPTY` (152): <em>լինել, լեալ, եղեալ, լինելոյ, լիեալ, եղելոյ, լինելով, լինիցի, եղանել, եղեալս</em>
 
 <table>
   <tr><th>Paradigm <i>եմ</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th></tr>
@@ -106,8 +106,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (2562; 89%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (931; 50%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (2564; 89%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (934; 50%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (175; 79%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (88; 59%),
 <tt>AUX --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (25; 83%),

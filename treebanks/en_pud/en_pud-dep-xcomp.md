@@ -47,7 +47,7 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 6 7 xcomp	color:blue
 1	Still	still	ADV	RB	_	4	advmod	4:advmod	SpaceAfter=No
 2	,	,	PUNCT	,	_	4	punct	4:punct	_
-3	there	there	PRON	EX	_	4	expl	4:expl	_
+3	there	there	PRON	EX	PronType=Dem	4	expl	4:expl	_
 4	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	questions	question	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 6	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	5:acl	_

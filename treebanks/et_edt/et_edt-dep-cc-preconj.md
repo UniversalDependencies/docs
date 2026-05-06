@@ -29,7 +29,7 @@ The following 13 pairs of parts of speech are connected with `cc:preconj`: <tt><
 5	doktoritöö	doktori_töö	NOUN	S	Case=Gen|Number=Sing	2	conj	2:conj|6:obj	_
 6	tegin	tegema	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Verb=tegema_1
 7	nendest	see	DET	P	Case=Ela|Number=Plur|PronType=Dem	8	det	8:det	_
-8	valdkondadest	valdkond	NOUN	S	Case=Ela|Number=Plur	6	obl	6:obl	Arg=tegema_Arg_3|SpaceAfter=No
+8	valdkondadest	valdkond	NOUN	S	Case=Ela|Number=Plur	6	obl:arg	6:obl	Arg=tegema_Arg_3|SpaceAfter=No
 9	.	.	PUNCT	Z	_	6	punct	6:punct	_
 
 ~~~
@@ -43,7 +43,7 @@ The following 13 pairs of parts of speech are connected with `cc:preconj`: <tt><
 # visual-style 10 9 cc:preconj	color:blue
 1	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Arg=arvama_Arg_0
 2	arvaksin	arvama	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Verb=arvama
-3	praegu	praegu	ADV	D	_	2	advmod	2:advmod	SpaceAfter=No
+3	praegu	praegu	ADV	D	_	2	advmod:tmod	2:advmod	SpaceAfter=No
 4	,	,	PUNCT	Z	_	10	punct	10:punct	_
 5	et	et	SCONJ	J	_	10	mark	10:mark	_
 6	nad	tema	PRON	P	Case=Nom|Number=Plur|Person=3|PronType=Prs	10	nsubj:cop	10:nsubj|12:nsubj	_

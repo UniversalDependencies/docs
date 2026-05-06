@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (1%) are attached to their parents as `reparandum`.
+18 nodes (1%) are attached to their parents as `reparandum`.
 
-17 instances of `reparandum` (100%) are right-to-left (child precedes parent).
+18 instances of `reparandum` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.
 
-The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> (5; 29% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (4; 24% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (4; 24% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (3; 18% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
+The following 5 pairs of parts of speech are connected with `reparandum`: <tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="gya_autogramm-pos-CCONJ.html">CCONJ</a></tt> (5; 28% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (5; 28% instances), <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (4; 22% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (3; 17% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
 
 
 ~~~ conllu

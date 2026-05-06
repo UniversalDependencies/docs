@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (301; 100% of non-empty `Abbr`): <em>მაგ., წ., ა.შ, ა., ი., ა.შ., გ., დ., კ., რ.</em>
-* `EMPTY` (20301): <em>წელს, მეცნიერება, საუკუნის, ადამიანის, დარგი, განვითარების, დედამიწის, დროს, სისტემა, წლის</em>
+* `EMPTY` (20329): <em>წელს, მეცნიერება, საუკუნის, ადამიანის, დარგი, განვითარების, დედამიწის, დროს, სისტემა, წლის</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (85) occur only with one value of `Abbr`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADJ` tokens may have the following values of `Abbr`:
 
 * `Yes` (183; 100% of non-empty `Abbr`): <em>ბერძნ., ძვ., ინგლ., ლათ., ე.წ., ახ., ლიტ., ფრანგ., ჩრდ., სხვ.</em>
-* `EMPTY` (8814): <em>სხვადასხვა, საერთაშორისო, ქიმიური, დიდი, თანამედროვე, ძირითადი, უფრო, სამეცნიერო, ახალი, ფიზიკური</em>
+* `EMPTY` (8785): <em>სხვადასხვა, საერთაშორისო, ქიმიური, დიდი, თანამედროვე, ძირითადი, უფრო, სამეცნიერო, ახალი, ფიზიკური</em>
 
 `Abbr` seems to be **lexical feature** of `ADJ`. 100% lemmas (24) occur only with one value of `Abbr`.
 

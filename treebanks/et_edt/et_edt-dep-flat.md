@@ -67,7 +67,7 @@ The following 36 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 8 10 flat	color:blue
 1	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Arg=jätkama_Arg_0
 2	jätkasin	jätkama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Verb=jätkama
-3	tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	obl	5:obl	Arg=seisma_Arg_1
+3	tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	obl:lmod	5:obl	Arg=seisma_Arg_1
 4	ees	ees	ADP	K	AdpType=Post	3	case	3:case	_
 5	seistes	seisma	VERB	V	VerbForm=Conv	2	advcl	2:advcl	SpaceAfter=No|Verb=seisma
 6	:	:	PUNCT	Z	_	2	punct	2:punct	_

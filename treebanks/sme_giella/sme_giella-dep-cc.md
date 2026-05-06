@@ -11,7 +11,7 @@ There are 1 language-specific subtypes of `cc`: <tt><a href="sme_giella-dep-cc-p
 
 984 nodes (4%) are attached to their parents as `cc`.
 
-850 instances of `cc` (86%) are left-to-right (parent precedes child).
+841 instances of `cc` (85%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.18089430894309.
 
 The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (444; 45% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (387; 39% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (63; 6% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (59; 6% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (18; 2% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (10; 1% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt>-<tt><a href="sme_giella-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances).

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-23 nodes (0%) are attached to their parents as `csubj`.
+26 nodes (0%) are attached to their parents as `csubj`.
 
-23 instances of `csubj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17391304347826.
+26 instances of `csubj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23076923076923.
 
-The following 11 pairs of parts of speech are connected with `csubj`: <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (7; 30% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (5; 22% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (3; 13% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
+The following 11 pairs of parts of speech are connected with `csubj`: <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (8; 31% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (5; 19% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (4; 15% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt> (1; 4% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 11 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 csubj	color:blue
-1	나는	나+는	PRON	NP+JX	_	10	nsubj	_	_
+1	나는	나+는	PRON	NP+JX	PronType=Prs	10	nsubj	_	_
 2	한국어를	한국어+를	NOUN	NNG+JKO	_	3	obj	_	_
 3	배우고	배우+고	VERB	VV+EC	_	5	acl	_	_
 4	싶을	싶	AUX	VX+ETM	_	3	aux	_	_
@@ -63,9 +63,9 @@ The following 11 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 6 csubj	color:blue
-1	그	그	DET	MM	_	2	det	_	_
+1	그	그	DET	MM	PronType=Dem	2	det	_	_
 2	때	때	ADV	NNG	_	9	advmod	_	_
-3	우리	우리	PRON	NP	_	4	nmod	_	_
+3	우리	우리	PRON	NP	PronType=Prs	4	nmod	_	_
 4	선생님께서	선생+님+께서	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
 5	대학	대학	NOUN	NNG	_	6	obj	_	_
 6	촐업한지	촐업+하+ㄴ+지	VERB	NF+XSV+ETM+NNB	Typo=Yes	9	csubj	_	_

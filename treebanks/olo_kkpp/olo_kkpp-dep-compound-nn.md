@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Livvi-KKPP: Relations: `compound:nn`
 
 This relation is a language-specific subtype of <tt><a href="olo_kkpp-dep-compound.html">compound</a></tt>.
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="olo_kkpp-dep-compound-prt.html">compound:prt</a></tt>.
 
 3 nodes (0%) are attached to their parents as `compound:nn`.
 

@@ -64,13 +64,7 @@ The 2nd highest number of forms (3) was observed with the lemma “કરવા�
 
 The 3rd highest number of forms (1) was observed with the lemma “આપવા”: <em>આપવા</em>.
 
-`VERB` occurs with 2 features: <tt><a href="gu_gujtb-feat-VerbType.html">VerbType</a></tt> (2; 1% instances), <tt><a href="gu_gujtb-feat-Polite.html">Polite</a></tt> (1; 0% instances)
-
-`VERB` occurs with 2 feature-value pairs: `Polite=Form`, `VerbType=Ideo`
-
-`VERB` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (211 tokens).
-Examples: <em>કરી, આવશે, કરવામાં, કરે, કહ્યું, લાગે, _, કરવા, આપવા, આપી</em>
+`VERB` does not occur with any features.
 
 
 ## Relations

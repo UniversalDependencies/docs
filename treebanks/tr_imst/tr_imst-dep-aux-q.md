@@ -59,7 +59,7 @@ The following 10 pairs of parts of speech are connected with `aux:q`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 aux:q	color:blue
-1	Bir	bir	DET	ANum	_	2	det	_	_
+1	Bir	bir	DET	ANum	PronType=Ind	3	det	_	_
 2	bardak	bardak	NOUN	Noun	Case=Nom|Number=Sing|Person=3	3	clf	_	_
 3	su	su	NOUN	Noun	Case=Nom|Number=Sing|Person=3	4	nsubj	_	_
 4	var	var	ADJ	Adj	_	8	ccomp	_	_

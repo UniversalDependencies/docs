@@ -23,5 +23,5 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (2; 100% of non-empty `Abbr`): <em>И., Н.</em>
-* `EMPTY` (1132): <em>лангс, ломаттне, шись, тячи, шиня, ава, лангса, паксянь, пингть, Тишка</em>
+* `EMPTY` (1155): <em>лангс, ломаттне, шись, тячи, шиня, ава, лангса, паксянь, пингть, Тишка</em>
 

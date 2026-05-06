@@ -42,11 +42,11 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 orphan	color:blue
-1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=He|Hyperlemma=he|Root=*ḱís
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	2	nsubj	_	Gloss=He|Hyperlemma=he|Root=*ḱís
 2	bohte	bycgan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=bought|Hyperlemma=buy|Root=*bʰewgʰ
 3	cræt	cræt	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Gloss=car|Hyperlemma=cart|Root=*gretH
 4	ac	ac	CCONJ	CC	_	6	cc	_	Gloss=but|Hyperlemma=ac|Root=*gʰe
-5	his	he	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3	6	nmod:poss	_	Gloss=his|Hyperlemma=he|Root=*ḱís
+5	his	he	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	Gloss=his|Hyperlemma=he|Root=*ḱís
 6	broþor	broþor	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	Gloss=brother|Hyperlemma=brother|Root=*bʰréh₂tēr
 7	hƿeol-bearƿe	hƿeol-bearu	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	6	orphan	_	Gloss=bicycle|Hyperlemma=wheel-barrow|Root=*kʷékʷlos-bʰer|SpaceAfter=No
 8	.	.	PUNCT	.	_	2	punct	_	Gloss=.|Hyperlemma=.

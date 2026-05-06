@@ -37,8 +37,8 @@ The 3rd highest number of forms (1) was observed with the lemma “fäm”: <em>
 `NUM` occurs with 7 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Nom`, `Gender=Fem`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`
 
 `NUM` occurs with 5 feature combinations.
-The most frequent feature combination is `Case=Acc|Gender=Neut` (8 tokens).
-Examples: <em>fæm</em>
+The most frequent feature combination is `Case=Acc|Gender=Masc` (8 tokens).
+Examples: <em>tio, attæ, fyra, fyræ, nio, sextæn, twa</em>
 
 
 ## Relations

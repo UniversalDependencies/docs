@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	δισσὰς	δισσός	ADJ	_	Case=Acc|Gender=Fem|Number=Plur	5	amod	_	Gloss=double|Ref=GEN_45.22
 5	στολάς	στολή	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	Gloss=garment,robe|Ref=GEN_45.22|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Ref=GEN_45.22
-7	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	9	det	_	Gloss=the|Ref=GEN_45.22
+7	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Gloss=the|Ref=GEN_45.22
 8	δὲ	δέ	CCONJ	_	_	10	cc	_	Gloss=but,and,however|Ref=GEN_45.22
 9	Βενιαμὶν	Βενϊαμίν	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	10	iobj	_	Gloss=Benjamin|Ref=GEN_45.22
 10	ἔδωκεν	δίδωμι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Gloss=to-give|Ref=GEN_45.22

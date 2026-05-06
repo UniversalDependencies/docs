@@ -11,7 +11,7 @@ It occurs with 2 different values: `Def`, `Ind`.
 
 39740 tokens (41%) have a non-empty value of `Definite`.
 11281 types (75%) occur at least once with a non-empty value of `Definite`.
-7351 lemmas (70%) occur at least once with a non-empty value of `Definite`.
+7351 lemmas (69%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 6 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22430; 23% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (6841; 7% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (5634; 6% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4716; 5% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (92; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (27; 0% instances).
 
 ### `NOUN`
@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 ### `PRON`
 
-5634 <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> tokens (84% of all `PRON` tokens) have a non-empty value of `Definite`.
+5634 <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> tokens (83% of all `PRON` tokens) have a non-empty value of `Definite`.
 
 The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="sv_talbanken-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (4931; 88%), <tt><a href="sv_talbanken-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4055; 72%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3657; 65%), <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3025; 54%).
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 * `Def` (4293; 76% of non-empty `Definite`): <em>det, de, sig, vi, den, du, sin, detta, dem, han</em>
 * `Ind` (1341; 24% of non-empty `Definite`): <em>man, vad, en, andra, något, många, alla, allt, var, vilket</em>
-* `EMPTY` (1112): <em>som</em>
+* `EMPTY` (1117): <em>som</em>
 
 <table>
   <tr><th>Paradigm <i>man</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -118,7 +118,7 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 `VERB` tokens may have the following values of `Definite`:
 
 * `Ind` (27; 100% of non-empty `Definite`): <em>vald, vänd, hörselskadad, accepterad, förbjudet, förstärkt, förändrad, ifylld, komplicerad, likställd</em>
-* `EMPTY` (9763): <em>har, finns, blir, få, får, ha, gäller, behöver, ger, går</em>
+* `EMPTY` (9762): <em>har, finns, blir, få, får, ha, gäller, behöver, ger, går</em>
 
 `Definite` seems to be **lexical feature** of `VERB`. 100% lemmas (22) occur only with one value of `Definite`.
 

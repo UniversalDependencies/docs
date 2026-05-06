@@ -49,14 +49,14 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 7	fgColor:white
 # visual-style 7 1 csubj:pass	color:blue
 1	Whatever	whatever	PRON	WH-IND	PronType=Int	7	csubj:pass	_	_
-2	it	it	PRON	PERS-SG	_	1	nsubj	_	_
+2	it	it	PRON	PERS-SG	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	was	be	AUX	PAST	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	1	cop	_	_
 4	could	could	AUX	PAST-AUX	Mood=Ind|VerbForm=Fin	7	aux	_	_
 5	never	never	ADV	NEG	PronType=Neg	7	advmod	_	_
 6	be	be	AUX	INF	VerbForm=Inf	7	aux:pass	_	_
 7	found	find	VERB	PASS	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 8	;	;	PUNCT	SemiColon	_	7	punct	_	_
-9	it	it	PRON	PERS-SG	_	12	nsubj	_	_
+9	it	it	PRON	PERS-SG	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 10	was	be	AUX	PAST	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	12	cop	_	_
 11	the	the	DET	DEF	Definite=Def|PronType=Art	12	det	_	_
 12	smell	smell	NOUN	SG-NOM	_	20	ccomp	_	_
@@ -86,7 +86,7 @@ The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 36	close	close	ADV	_	Degree=Pos	37	advmod	_	_
 37	together	together	ADV	_	_	34	advmod	_	_
 38	that	that	SCONJ	_	_	40	mark	_	_
-39	it	it	PRON	PERS-SG	_	40	nsubj	_	_
+39	it	it	PRON	PERS-SG	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	40	nsubj	_	_
 40	produced	produce	VERB	PAST	Mood=Ind|Tense=Past|VerbForm=Fin	37	acl	_	_
 41	the	the	DET	DEF	Definite=Def|PronType=Art	42	det	_	_
 42	reek	reek	NOUN	SG-NOM	Number=Sing	40	obj	_	_

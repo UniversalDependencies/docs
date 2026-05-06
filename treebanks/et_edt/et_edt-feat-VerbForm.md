@@ -9,25 +9,25 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 6 different values: `Conv`, `Fin`, `Ger`, `Inf`, `Part`, `Sup`.
 
-74792 tokens (17%) have a non-empty value of `VerbForm`.
+74795 tokens (17%) have a non-empty value of `VerbForm`.
 14438 types (18%) occur at least once with a non-empty value of `VerbForm`.
-4855 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 5 part-of-speech tags: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (47858; 11% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (18638; 4% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (7939; 2% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (343; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (14; 0% instances).
+4856 lemmas (12%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 5 part-of-speech tags: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (47861; 11% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (18638; 4% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (7939; 2% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (343; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (14; 0% instances).
 
 ### `VERB`
 
-47858 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+47861 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (34793; 73%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (29778; 62%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (34796; 73%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (29779; 62%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (1312; 3% of non-empty `VerbForm`): <em>võrreldes, arvates, kasutades, öeldes, vaadates, arvestades, võttes, minnes, tehes, pidades</em>
-* `Fin` (31500; 66% of non-empty `VerbForm`): <em>tuleb, on, ütles, sai, tuli, saab, jääb, läks, ütleb, jäi</em>
+* `Fin` (31502; 66% of non-empty `VerbForm`): <em>tuleb, on, ütles, sai, tuli, saab, jääb, läks, ütleb, jäi</em>
 * `Ger` (4; 0% of non-empty `VerbForm`): <em>Walking, Writing, cutting, stimulating</em>
 * `Inf` (7360; 15% of non-empty `VerbForm`): <em>teha, saada, teada, võtta, näha, öelda, minna, kasutada, leida, panna</em>
 * `Part` (4721; 10% of non-empty `VerbForm`): <em>saanud, jäänud, jõudnud, seotud, teinud, muutunud, tulnud, tehtud, näinud, kasvanud</em>
-* `Sup` (2961; 6% of non-empty `VerbForm`): <em>olemas, minema, hakkama, tegema, saama, võtma, maksma, käima, vaatama, tulema</em>
+* `Sup` (2962; 6% of non-empty `VerbForm`): <em>olemas, minema, hakkama, tegema, saama, võtma, maksma, käima, vaatama, tulema</em>
 
 <table>
   <tr><th>Paradigm <i>saama</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Sup</tt></th><th><tt>Part</tt></th><th><tt>Conv</tt></th></tr>
@@ -156,7 +156,7 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Part` (343; 100% of non-empty `VerbForm`): <em>hõivatute, hõivatud, uuritavat, hõivatuist, uuritavad, Eeltoodu, hõivatutest, nähtu, surnu, uuritavatel</em>
-* `EMPTY` (115356): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `EMPTY` (115337): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
 `VerbForm` seems to be **lexical feature** of `NOUN`. 100% lemmas (132) occur only with one value of `VerbForm`.
 
@@ -174,7 +174,7 @@ The most frequent other feature values with which `PROPN` and `VerbForm` co-occu
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> VERB</tt> (4922; 84%),
+<tt>VERB --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> VERB</tt> (4923; 84%),
 <tt>VERB --[<tt><a href="et_edt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1677; 60%),
 <tt>VERB --[<tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (519; 73%),
 <tt>VERB --[<tt><a href="et_edt-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (7; 100%),

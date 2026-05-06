@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-45 nodes (1%) are attached to their parents as `vocative`.
+55 nodes (1%) are attached to their parents as `vocative`.
 
-30 instances of `vocative` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.11111111111111.
+34 instances of `vocative` (62%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.14545454545455.
 
-The following 8 pairs of parts of speech are connected with `vocative`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (21; 47% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (14; 31% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (4; 9% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 8 pairs of parts of speech are connected with `vocative`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (27; 49% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (17; 31% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (4; 7% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="el_lesbian-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -29,8 +29,8 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 5	βρε	βρε	INTJ	_	_	6	discourse	_	_
 6	άθρουπι	άνθρουπους	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	_
 7	τ’	η	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	Θιού	θιός	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
-9	;	;	PUNCT	_	_	3	punct	_	_
+8	Θιού	θιός	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+9	;	;	PUNCT	_	PunctType=Qest	3	punct	_	_
 
 ~~~
 
@@ -44,11 +44,11 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	Τι	τι	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	2	obj	_	_
 2	κάν’	κάνου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	του	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
-4	Ν’κουλέλ’	Νίκους	PROPN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Sing	2	nsubj	_	_
-5	,	,	PUNCT	_	_	7	punct	_	_
+4	Ν’κουλέλ’	Νίκους	PROPN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
 6	ε	ε	INTJ	_	_	7	discourse	_	_
-7	Κόπ’	Κόπ	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	_
-8	;	;	PUNCT	_	_	2	punct	_	_
+7	Κόπ’	Κόπ	PROPN	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	SpaceAfter=No
+8	;	;	PUNCT	_	PunctType=Qest	2	punct	_	_
 
 ~~~
 
@@ -65,8 +65,8 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 4	πού	που	ADV	_	PronType=Int	5	advmod	_	_
 5	αλουγυρίζ’ς	αλουγυρίζου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	βρε	βρε	INTJ	_	_	7	discourse	_	_
-7	απρόκουφτι	απρόκουφτους	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	_
-8	;	;	PUNCT	_	_	5	punct	_	_
+7	απρόκουφτι	απρόκουφτους	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	SpaceAfter=No
+8	;	;	PUNCT	_	PunctType=Qest	5	punct	_	_
 
 ~~~
 

@@ -200,9 +200,9 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>VERB --[<tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (107; 51%),
 <tt>VERB --[<tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (13; 62%),
+<tt>NOUN --[<tt><a href="mr_ufal-dep-compound.html">compound</a></tt>]--> NOUN</tt> (4; 80%),
 <tt>AUX --[<tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3; 75%),
 <tt>NOUN --[<tt><a href="mr_ufal-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (3; 75%),
-<tt>NOUN --[<tt><a href="mr_ufal-dep-compound.html">compound</a></tt>]--> NOUN</tt> (3; 75%),
 <tt>NOUN --[<tt><a href="mr_ufal-dep-vocative.html">vocative</a></tt>]--> NOUN</tt> (3; 100%),
 <tt>PROPN --[<tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2; 100%),
 <tt>VERB --[<tt><a href="mr_ufal-dep-compound-lvc.html">compound:lvc</a></tt>]--> ADJ</tt> (2; 67%),

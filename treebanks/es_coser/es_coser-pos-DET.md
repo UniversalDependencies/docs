@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>la</em> (<tt><a href="es_coser-pos-DE
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.520000 (the average of all parts of speech is 1.466179).
+The form / lemma ratio of `DET` is 2.520000 (the average of all parts of speech is 1.476980).
 
 The 1st highest number of forms (7) was observed with the lemma “todo”: <em>Tos, to, toa, toda, todas, todo, todos</em>.
 
@@ -62,7 +62,7 @@ The 2nd highest number of forms (6) was observed with the lemma “mucho”: <em
 
 The 3rd highest number of forms (5) was observed with the lemma “el”: <em>el, l, la, las, los</em>.
 
-`DET` occurs with 10 features: <tt><a href="es_coser-feat-Number.html">Number</a></tt> (738; 100% instances), <tt><a href="es_coser-feat-PronType.html">PronType</a></tt> (738; 100% instances), <tt><a href="es_coser-feat-Gender.html">Gender</a></tt> (692; 94% instances), <tt><a href="es_coser-feat-Definite.html">Definite</a></tt> (562; 76% instances), <tt><a href="es_coser-feat-Person.html">Person</a></tt> (44; 6% instances), <tt><a href="es_coser-feat-Poss.html">Poss</a></tt> (44; 6% instances), <tt><a href="es_coser-feat-NumType.html">NumType</a></tt> (33; 4% instances), <tt><a href="es_coser-feat-Number-psor.html">Number[psor]</a></tt> (29; 4% instances), <tt><a href="es_coser-feat-ExtPos.html">ExtPos</a></tt> (8; 1% instances), <tt><a href="es_coser-feat-Degree.html">Degree</a></tt> (2; 0% instances)
+`DET` occurs with 10 features: <tt><a href="es_coser-feat-PronType.html">PronType</a></tt> (739; 100% instances), <tt><a href="es_coser-feat-Number.html">Number</a></tt> (738; 100% instances), <tt><a href="es_coser-feat-Gender.html">Gender</a></tt> (692; 94% instances), <tt><a href="es_coser-feat-Definite.html">Definite</a></tt> (562; 76% instances), <tt><a href="es_coser-feat-Person.html">Person</a></tt> (44; 6% instances), <tt><a href="es_coser-feat-Poss.html">Poss</a></tt> (44; 6% instances), <tt><a href="es_coser-feat-NumType.html">NumType</a></tt> (33; 4% instances), <tt><a href="es_coser-feat-Number-psor.html">Number[psor]</a></tt> (29; 4% instances), <tt><a href="es_coser-feat-ExtPos.html">ExtPos</a></tt> (8; 1% instances), <tt><a href="es_coser-feat-Degree.html">Degree</a></tt> (2; 0% instances)
 
 `DET` occurs with 25 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Degree=Abs`, `ExtPos=ADV`, `ExtPos=SCONJ`, `Gender=Fem`, `Gender=Masc`, `NumType=Card`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Int,Rel`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`
 
@@ -77,17 +77,17 @@ Examples: <em>la</em>
 
 Parents of `DET` nodes belong to 14 different parts of speech: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (615; 83% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (27; 4% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (21; 3% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (19; 3% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (15; 2% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (12; 2% instances), <tt><a href="es_coser-pos-X.html">X</a></tt> (5; 1% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (3; 0% instances),  (2; 0% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-673 (91%) `DET` nodes are leaves.
+668 (90%) `DET` nodes are leaves.
 
-57 (8%) `DET` nodes have one child.
+59 (8%) `DET` nodes have one child.
 
-7 (1%) `DET` nodes have two children.
+9 (1%) `DET` nodes have two children.
 
-2 (0%) `DET` nodes have three or more children.
+3 (0%) `DET` nodes have three or more children.
 
-The highest child degree of a `DET` node is 5.
+The highest child degree of a `DET` node is 7.
 
-Children of `DET` nodes are attached using 12 different relations: <tt><a href="es_coser-dep-punct.html">punct</a></tt> (22; 28% instances), <tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt> (17; 21% instances), <tt><a href="es_coser-dep-det.html">det</a></tt> (16; 20% instances), <tt><a href="es_coser-dep-fixed.html">fixed</a></tt> (10; 13% instances), <tt><a href="es_coser-dep-case.html">case</a></tt> (5; 6% instances), <tt><a href="es_coser-dep-cop.html">cop</a></tt> (3; 4% instances), <tt><a href="es_coser-dep-advmod.html">advmod</a></tt> (2; 3% instances), <tt><a href="es_coser-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
+Children of `DET` nodes are attached using 12 different relations: <tt><a href="es_coser-dep-punct.html">punct</a></tt> (33; 36% instances), <tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt> (17; 19% instances), <tt><a href="es_coser-dep-det.html">det</a></tt> (16; 18% instances), <tt><a href="es_coser-dep-fixed.html">fixed</a></tt> (10; 11% instances), <tt><a href="es_coser-dep-case.html">case</a></tt> (5; 5% instances), <tt><a href="es_coser-dep-cop.html">cop</a></tt> (3; 3% instances), <tt><a href="es_coser-dep-advmod.html">advmod</a></tt> (2; 2% instances), <tt><a href="es_coser-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-mark.html">mark</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-nmod.html">nmod</a></tt> (1; 1% instances), <tt><a href="es_coser-dep-nsubj.html">nsubj</a></tt> (1; 1% instances)
 
-Children of `DET` nodes belong to 11 different parts of speech: <tt><a href="es_coser-pos-DET.html">DET</a></tt> (27; 34% instances), <tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (22; 28% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (7; 9% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (6; 8% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (5; 6% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (3; 4% instances), <tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt> (3; 4% instances), <tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `DET` nodes belong to 11 different parts of speech: <tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (33; 36% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (27; 30% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (7; 8% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (6; 7% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (5; 5% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (3; 3% instances), <tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt> (3; 3% instances), <tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

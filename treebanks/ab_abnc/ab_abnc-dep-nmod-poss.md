@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-nmod.html">nmod</a></tt>.
 There are also 1 other language-specific subtypes of `nmod`: <tt><a href="ab_abnc-dep-nmod-quote.html">nmod:quote</a></tt>.
 
-184 nodes (2%) are attached to their parents as `nmod:poss`.
+245 nodes (2%) are attached to their parents as `nmod:poss`.
 
-181 instances of `nmod:poss` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23913043478261.
+242 instances of `nmod:poss` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2530612244898.
 
-The following 13 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (107; 58% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (19; 10% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (18; 10% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (17; 9% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (142; 58% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (25; 10% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (23; 9% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (21; 9% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (7; 3% instances), <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (4; 2% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -37,6 +37,21 @@ The following 13 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nmod:poss	color:blue
+1	Аҧсны	Аҧсны́	PROPN	Noun_Prop_Place	NameType=Geo	2	nmod:poss	_	LMSeg:Аҧсны́
+2	аиҳабыра	аиҳабы́ра	NOUN	Noun_NH_Sg_Poss:3SgNH	Animacy=Nhum|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	LMSeg:аиҳабы́ра
+3	зегьы	зегьы́	PRON	Pron_Quant	PronType=Tot	2	det	_	LMSeg:зегьы́
+4	ыҟан	а́-ҟазаара	VERB	V_Stat_Fin_Impf_S:3_S:Ad	Dyn=No|Mood=Ind|Person[subj]=3|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а́-ҟа-заа-ра|SpaceAfter=No
+5	.	.	PUNCT	Punct_Period	_	4	punct	_	LMSeg:.
+
+~~~
+
+
+~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
@@ -48,22 +63,6 @@ The following 13 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 4	ишьразы	а-шьра́	VERB	VN_Dyn_Sg_Tr_Poss:3SgM_PP:зы	Case=Ben|Dyn=Yes|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Subcat=Tran|VerbForm=Vnoun	0	root	_	LMSeg:а-шь-ра́
 5	акәын	а́кәзаара	AUX	V_Stat_Fin_Impf_S:3_IO:3SgNH_Cop	Dyn=No|Gender[io]=Neut|Mood=Ind|Number[io]=Sing|Person[io]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	4	cop	_	LMSeg:а́кә-заа-ра|SpaceAfter=No
 6	!	!	PUNCT	Punct_ExclPoint	_	4	punct	_	LMSeg:!
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nmod:poss	color:blue
-1	Ауада	а-уа́да	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	5	nsubj	_	LMSeg:а-уа́да
-2	аӡәы	аӡәы́	PRON	Pron_Indef_H_Sg	Animacy=Hum|Number=Sing|PronType=Ind	3	nmod:poss	_	LMSeg:аӡәы́
-3	иҭыҧ	а-ҭы́ҧ	NOUN	Noun_NH_Sg_Poss:3SgM	Animacy=Nhum|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	LMSeg:а-ҭы́ҧ
-4	змоу	а́-мазаара	VERB	V_Stat_NonFin_Pres_S:3_S:Ad_IO:Rel_Rel	Dyn=No|Person[io]=Rel|Person[subj]=3|Tense=Pres|VerbForm=NonFin	1	acl:relcl	_	LMSeg:а́-ма-заа-ра
-5	сымоуп	а́-мазаара	VERB	V_Stat_Fin_Pres_S:3_S:Ad_IO:1Sg	Dyn=No|Mood=Ind|Number[io]=Sing|Person[io]=1|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:а́-ма-заа-ра|SpaceAfter=No
-6	.	.	PUNCT	Punct_Period	_	5	punct	_	LMSeg:.
 
 ~~~
 

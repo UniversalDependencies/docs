@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg.
 
 Repository: [UD_Swedish-LinES](https://github.com/UniversalDependencies/UD_Swedish-LinES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_lines217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_lines218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -84,7 +84,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 
 
 <ul>
-<li>This corpus contains 5696 sentences and 102538 tokens.</li>
+<li>This corpus contains 5696 sentences, 102538 tokens and 102540 syntactic words.</li>
 </ul>
 
 <ul>
@@ -100,6 +100,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
+<li>This corpus contains 2 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 1 types of multi-word tokens. Examples: du.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -119,11 +121,11 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
-<li>This corpus contains 21 lemmas tagged as determiners (DET): all, bägge, båda, de, den, denna, du, en, ena, ingen, intet, la, le, någon, något, somlig, the, vad, varenda, varje, vilken</li>
+<li>This corpus contains 20 lemmas tagged as determiners (DET): all, bägge, båda, de, den, denna, en, ena, ingen, intet, la, le, någon, något, somlig, the, vad, varenda, varje, vilken</li>
 </ul>
 
 <ul>
-<li>Out of the above, 15 lemmas occurred sometimes as PRON and sometimes as DET: all, bägge, båda, de, den, denna, du, en, ena, ingen, intet, någon, somlig, vad, vilken</li>
+<li>Out of the above, 14 lemmas occurred sometimes as PRON and sometimes as DET: all, bägge, båda, de, den, denna, en, ena, ingen, intet, någon, somlig, vad, vilken</li>
 </ul>
 
 <ul>
@@ -198,9 +200,17 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 </ul>
 
 <ul>
+  <li>Masc
+    <ul>
+      <li>DET: le</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Neut
     <ul>
-      <li>ADJ: annat, stort, eget, nytt, svårt, litet, möjligt, rött, taget, klart</li>
+      <li>ADJ: annat, stort, svårt, eget, nytt, litet, möjligt, rött, taget, klart</li>
       <li>ADJ-Part: taget, komplicerat, särskilt, filtrerat, överordnat, anpassat, balanserat, beräknat, misslyckat, upptaget</li>
       <li>DET: ett, det, något, detta, inget, allt, vilket, nåt, intet, vartenda</li>
       <li>NOUN: sätt, år, fält, barn, data, ögon, liv, ansikte, exempel, huvudet</li>
@@ -303,7 +313,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
     <ul>
       <li>ADJ: hela, stora, gamla, nya, andra, själva, egna, europeiska, lilla, vita</li>
       <li>ADJ-Part: flyttade, oväntade, rostade, XML-baserade, avtalade, chockade, civiliserade, dolda, gångna, inspelade</li>
-      <li>DET: den, det, de, denna, detta, dessa, ena, dom, the, Le</li>
+      <li>DET: den, det, de, denna, detta, dessa, ena, dom, le, the</li>
       <li>NOUN: sidan, tiden, mannen, huvudet, linjen, rummet, fältet, informationen, stället, vägen</li>
       <li>PRON: han, det, jag, sig, de, du, vi, hon, mig, honom</li>
       <li>PROPN: Aten, Kolonakitorget, Psaltaren, Ringen, Tvillingarnas, Vintergatan</li>
@@ -500,7 +510,7 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
 <ul>
   <li>Art
     <ul>
-      <li>DET: en, ett, den, det, de, dom, the, Le, La</li>
+      <li>DET: en, ett, den, det, de, dom, le, the, La</li>
       <li>PRON: En, det</li>
     </ul>
   </li>
@@ -677,8 +687,8 @@ analysis of translations' funded by the Swedish Research Council (Ahrenberg, 200
       <li>Yes
         <ul>
           <li>ADJ: Extensible, Wide, Visual, Advanced, Advertising, Arabic, Central, Grand, Political, Universal</li>
-          <li>ADP: ad, for</li>
-          <li>DET: du</li>
+          <li>ADP: de, ad, for</li>
+          <li>DET: le</li>
           <li>NOUN: Language, Stylesheet, Transformation, Consortium, World, calme, Station, Web, Morituri, Protocol</li>
           <li>PRON: te</li>
           <li>PROPN: Web</li>
@@ -729,7 +739,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON (8)</li>
       <li>VERB-Part--PRON-Nom (13)</li>
       <li>VERB-Sup--NOUN (1)</li>
-      <li>VERB-Sup--NOUN-Nom (174)</li>
+      <li>VERB-Sup--NOUN-Nom (175)</li>
       <li>VERB-Sup--PRON (148)</li>
       <li>VERB-Sup--PRON-Nom (470)</li>
     </ul>
@@ -749,7 +759,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(om) (2)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>
-      <li>VERB-Fin--PRON (391)</li>
+      <li>VERB-Fin--PRON (390)</li>
       <li>VERB-Fin--PRON-ADP(med) (1)</li>
       <li>VERB-Fin--PRON-ADP(på) (1)</li>
       <li>VERB-Fin--PRON-Acc (664)</li>

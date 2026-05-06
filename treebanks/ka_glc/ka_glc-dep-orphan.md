@@ -27,7 +27,7 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	დან	დან	ADP	Post	AdpType=Post|Case=Ins	2	case	_	Translit=kondensatoridan
 4	ჩვეულებრივ	ჩვეულებრივი	ADJ	Adj	Case=Ins|Number=Sing	5	amod	_	Translit=čʻveulebriv
 5	ტუმბოთი	ტუმბო	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	6	obl	_	Translit=tumbotʻi
-6	გაიწოვება	იწოვება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=gaicoveba
+6	გაიწოვება	იწოვის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=gaicoveba
 7	,	,	PUNCT	F	PunctType=Comm	10	punct	_	Translit=,
 8	ხოლო	ხოლო	CCONJ	Conj	_	10	cc	_	Translit=xolo
 9	არაკონდენსირებადი	არაკონდენსირებადი	ADJ	Adj	Case=Nom|Number=Sing	10	amod	_	Translit=arakondensirebadi

@@ -8,31 +8,29 @@ udver: '2'
 
 This relation is universal.
 
-365 nodes (1%) are attached to their parents as `nummod`.
+400 nodes (1%) are attached to their parents as `nummod`.
 
-340 instances of `nummod` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26301369863014.
+371 instances of `nummod` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.24.
 
-The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (364; 100% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (399; 100% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 nummod	color:blue
-1	et	_	CCONJ	_	_	2	cc	_	_
-2	anan	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
-3	lo	_	PRON	_	Gender=Masc|Number=Sing|PronType=Prs	4	obj	_	_
-4	coelher	_	VERB	_	VerbForm=Inf	2	xcomp	_	_
-5	et	_	CCONJ	_	_	6	cc	_	_
-6	fen	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	2	conj	_	_
-7	lo	_	DET	_	_	6	obj	_	_
-8	senhor	_	NOUN	_	_	6	xcomp	_	_
-9	dus	_	NUM	_	_	10	nummod	_	_
-10	antz	_	NOUN	_	_	6	obl	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nummod	color:blue
+1	car	_	CCONJ	_	_	6	cc	_	_
+2	possetion	_	NOUN	_	_	6	nsubj	_	_
+3	de	_	ADP	_	_	5	case	_	_
+4	.XXX.	_	NUM	_	_	5	nummod	_	_
+5	antz	_	NOUN	_	_	2	nmod	_	_
+6	deffen	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+7	lo	_	DET	_	_	8	det	_	_
+8	possedidor	_	NOUN	_	_	6	obj	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
@@ -70,7 +68,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 25	milia	_	NUM	_	_	26	nummod	_	_
 26	soudz	_	NOUN	_	_	22	obl	_	SpaceAfter=No
 27	,	_	PUNCT	_	_	11	punct	_	_
-28	aquetz	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Dem	41	nsubj	_	_
+28	aquetz	_	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	41	nsubj	_	_
 29	qui	_	PRON	_	PronType=Rel	31	nsubj	_	_
 30	los	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	31	obj	_	_
 31	tenian	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	28	acl:relcl	_	_
@@ -82,7 +80,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 37	-lo	_	DET	_	_	38	det	_	_
 38	seynhor	_	NOUN	_	_	35	nmod	_	_
 39	Rey	_	NOUN	_	_	38	flat	_	_
-40	no	_	ADV	_	_	41	advmod	_	_
+40	no	_	ADV	_	Polarity=Neg	41	advmod	_	_
 41	responderen	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 42	de	_	ADP	_	_	44	case	_	_
 43	des	_	NUM	_	_	44	nummod	_	_
@@ -96,7 +94,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 51	et	_	CCONJ	_	_	56	cc	_	_
 52	en	_	ADP	_	_	54	case	_	_
 53	mans	_	DET	_	_	54	det	_	_
-54	autres	_	PRON	_	Number=Plur|Person=3|PronType=Ind	56	orphan	_	_
+54	autres	_	PRON	_	Number=Plur|PronType=Ind	56	orphan	_	_
 55	mot	_	ADV	_	_	56	advmod	_	_
 56	meyns	_	ADV	_	_	50	conj	_	_
 

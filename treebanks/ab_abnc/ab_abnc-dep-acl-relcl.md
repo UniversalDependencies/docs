@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-acl.html">acl</a></tt>.
 
-147 nodes (1%) are attached to their parents as `acl:relcl`.
+199 nodes (2%) are attached to their parents as `acl:relcl`.
 
-131 instances of `acl:relcl` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18367346938776.
+169 instances of `acl:relcl` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19597989949749.
 
-The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (118; 80% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (20; 14% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (4; 3% instances).
+The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (159; 80% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (27; 14% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (8; 4% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (5; 3% instances).
 
 
 ~~~ conllu

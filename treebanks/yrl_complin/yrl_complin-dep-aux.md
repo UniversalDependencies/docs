@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-553 nodes (2%) are attached to their parents as `aux`.
+588 nodes (2%) are attached to their parents as `aux`.
 
-326 instances of `aux` (59%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.19891500904159.
+354 instances of `aux` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.19897959183673.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (546; 99% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (581; 99% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt>-<tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

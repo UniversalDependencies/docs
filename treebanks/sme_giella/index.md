@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Trond Trosterud, Lene Antonsen, Francis Tyers.
 
 Repository: [UD_North_Sami-Giella](https://github.com/UniversalDependencies/UD_North_Sami-Giella)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsme_giella217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsme_giella218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -700,7 +700,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Gen (44)</li>
-      <li>VERB-Fin--NOUN-Nom (1049)</li>
+      <li>VERB-Fin--NOUN-Nom (1048)</li>
       <li>VERB-Fin--PRON-Nom (810)</li>
       <li>VERB-Ger--NOUN-Acc (5)</li>
       <li>VERB-Ger--NOUN-Gen (2)</li>
@@ -715,7 +715,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Nom (137)</li>
       <li>VERB-Part--NOUN-Acc (4)</li>
       <li>VERB-Part--NOUN-Gen (6)</li>
-      <li>VERB-Part--NOUN-Nom (128)</li>
+      <li>VERB-Part--NOUN-Nom (129)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-Acc (9)</li>
       <li>VERB-Part--PRON-Nom (124)</li>

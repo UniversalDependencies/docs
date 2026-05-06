@@ -27,14 +27,14 @@ The following 10 pairs of parts of speech are connected with `amod`: <tt><a href
 3	_	_	NOUN	_	_	6	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=6673
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 5	_	_	NOUN	_	_	6	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=8378
-6	_	_	NOUN	_	_	13	obl	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=8288
+6	_	_	NOUN	_	_	16	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=8288
 7	_	_	ADP	_	_	6	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 8	_	_	NOUN	_	_	10	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=43919
 9	_	_	NOUN	_	_	10	compound	_	BBIL=I|BPT=0|LBIL=I|LPOS=0|SpaceAfter=No|UI=52238
 10	_	_	NOUN	_	_	13	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=37939
 11	_	_	ADP	_	_	10	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 12	_	_	NOUN	_	_	13	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=9534
-13	_	_	NOUN	_	_	16	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=9553
+13	_	_	NOUN	_	_	6	conj	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=9553
 14	_	_	ADP	_	_	13	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 15	_	_	ADJ	_	_	16	amod	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=1865
 16	_	_	NOUN	_	_	19	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=1861

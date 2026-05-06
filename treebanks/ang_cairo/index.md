@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Lauren Levine, Junghyun Min, Amir Zeldes.
 
 Repository: [UD_Old_English-Cairo](https://github.com/UniversalDependencies/UD_Old_English-Cairo)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udang_cairo217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udang_cairo218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -68,17 +68,24 @@ Nola Goodwin, Wesley Scivetti, Wyatt Roder
 
 Please refer to the following article for more information on the dataset and its creation, or for citation purposes.
 
-[Lauren Levine, Junghyun Min, and Amir Zeldes (2025). Building UD Cairo for Old English in the Classroom.](https://arxiv.org/abs/2504.18718)
+Lauren Levine, Junghyun Min, and Amir Zeldes (2025). [Building UD Cairo for Old English in the Classroom](https://aclanthology.org/2025.udw-1.10/). In _Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest 2025)_. Ljubljana, Slovenia, 97–104.
 
-```
-@misc{levine2025building,
-title={Building UD Cairo for Old English in the Classroom},
-author={Lauren Levine and Junghyun Min and Amir Zeldes},
-year={2025},
-eprint={2504.18718},
-archivePrefix={arXiv},
-primaryClass={cs.CL},
-url={https://arxiv.org/abs/2504.18718},
+```bibtex
+@inproceedings{levine-etal-2025-building,
+title = "Building {UD} Cairo for {O}ld {E}nglish in the Classroom",
+author = "Levine, Lauren and
+Min, Junghyun and
+Zeldes, Amir",
+editor = {Bouma, Gosse and
+{\c{C{% raw %}}}{% endraw %}{\"o}ltekin, {\c{C{% raw %}}}{% endraw %}a{\u{g{% raw %}}}{% endraw %}r{\i{% raw %}}}{% endraw %},
+booktitle = "Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest 2025)",
+month = aug,
+year = "2025",
+address = "Ljubljana, Slovenia",
+publisher = "Association for Computational Linguistics",
+url = "https://aclanthology.org/2025.udw-1.10/",
+pages = "97--104",
+ISBN = "979-8-89176-292-3"
 }
 ```
 
@@ -92,7 +99,7 @@ url={https://arxiv.org/abs/2504.18718},
 
 ## Features
 
-[Case](ang_cairo-feat-Case.html) – [Degree](ang_cairo-feat-Degree.html) – [ExtPos](ang_cairo-feat-ExtPos.html) – [Gender](ang_cairo-feat-Gender.html) – [Mood](ang_cairo-feat-Mood.html) – [Number](ang_cairo-feat-Number.html) – [Person](ang_cairo-feat-Person.html) – [Tense](ang_cairo-feat-Tense.html) – [VerbForm](ang_cairo-feat-VerbForm.html)
+[Case](ang_cairo-feat-Case.html) – [Definite](ang_cairo-feat-Definite.html) – [Degree](ang_cairo-feat-Degree.html) – [ExtPos](ang_cairo-feat-ExtPos.html) – [Gender](ang_cairo-feat-Gender.html) – [Mood](ang_cairo-feat-Mood.html) – [Number](ang_cairo-feat-Number.html) – [Person](ang_cairo-feat-Person.html) – [Poss](ang_cairo-feat-Poss.html) – [PronType](ang_cairo-feat-PronType.html) – [Tense](ang_cairo-feat-Tense.html) – [VerbForm](ang_cairo-feat-VerbForm.html)
 
 ## Relations
 
@@ -134,11 +141,11 @@ url={https://arxiv.org/abs/2504.18718},
 </ul>
 
 <ul>
-<li>This corpus contains 13 lemmas tagged as pronouns (PRON): he, heo, hie, hit, hƿa, hƿæt, ic, min, se, seo, sƿa, þu, þīn</li>
+<li>This corpus contains 12 lemmas tagged as pronouns (PRON): he, heo, hie, hit, hƿa, hƿæt, ic, min, se, seo, þu, þīn</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4 lemmas tagged as determiners (DET): _, se, sum, þis</li>
+<li>This corpus contains 4 lemmas tagged as determiners (DET): nanne, se, sum, þis</li>
 </ul>
 
 <ul>
@@ -305,6 +312,17 @@ url={https://arxiv.org/abs/2504.18718},
 </ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
+
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: þæt, þa, þone, þære</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
@@ -378,8 +396,70 @@ url={https://arxiv.org/abs/2504.18718},
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
+<ul>
+  <li><a>PronType</a></li>
+</ul>
+
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: þæt, þa, þone, þære</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: Þis</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: sume</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>PRON: Hƿæt, hƿa</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>DET: nanne</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: hit, þu, he, heo, Ic, hyre, Hie, Min, heom, hire</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Poss</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: hyre, Min, hire, his</li>
+    </ul>
+  </li>
+</ul>
 
 
 <ul>
@@ -470,7 +550,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat (1)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Dat (1)</li>
-      <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
     </ul>
   </li>

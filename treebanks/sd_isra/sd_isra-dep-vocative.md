@@ -46,9 +46,9 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 2	سانڊا	سانڊو	INTJ	INTJ	_	8	vocative	_	SpaceAfter=No
 3	!	!	PUNCT	PUNCT	_	2	punct	_	_
 4	آءٌ	آءٌ	PRON	PRP	Case=Nom|Number=Sing|Person=1	8	nsubj	_	_
-5	پاڻ	پاڻ	PRON	PRP	Case=Acc|Person=1	6	nmod	_	_
-6	جهڙن	جهڙو	PRON	PRP	Case=Acc|Number=Plur|Person=3	8	obl	_	_
-7	سان	سان	ADP	PSP	_	6	case	_	_
+5	پاڻ	پاڻ	PRON	PRP	Case=Acc|Person=1	8	obl	_	_
+6	جهڙن	جهڙو	ADP	PSPR	Case=Acc|Number=Plur	5	case	_	_
+7	سان	سان	ADP	PSP	_	5	case	_	_
 8	وڙهندو	وڙه	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing	0	root	_	_
 9	آهيان	آهي	AUX	VAUX	Number=Sing|Person=1|Tense=Pres	8	aux	_	SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	8	punct	_	_

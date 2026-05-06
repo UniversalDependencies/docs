@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-279 tokens (6%) have a non-empty value of `PronType`.
-112 types (5%) occur at least once with a non-empty value of `PronType`.
-43 lemmas (3%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (228; 5% instances), <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> (40; 1% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (5; 0% instances).
+289 tokens (6%) have a non-empty value of `PronType`.
+115 types (5%) occur at least once with a non-empty value of `PronType`.
+45 lemmas (3%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (236; 5% instances), <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> (42; 1% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (5; 0% instances).
 
 ### `PRON`
 
-228 <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+236 <tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="mdf_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (204; 89%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (168; 74%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (168; 74%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (129; 57%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="mdf_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (212; 90%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (175; 74%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (173; 73%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (133; 56%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Art` (1; 0% of non-empty `PronType`): <em>тненди</em>
-* `Dem` (34; 15% of non-empty `PronType`): <em>тя, ся, тянь, Ня, Сянь, Тяда, сятка, тона</em>
-* `Ind` (22; 10% of non-empty `PronType`): <em>мезевок, кивок, киньге, кой-кие, ськамот, Кой-кинди, Конашка, Лиятнень, илянь, кати-мезе</em>
-* `Int` (18; 8% of non-empty `PronType`): <em>мезе, кие, Мезень, кинди, мезенкса, Мезьда, мезьса</em>
-* `Prs` (134; 59% of non-empty `PronType`): <em>сон, мон, сонь, синь, минь, тон, тейнза, монь, тейть, тонь</em>
+* `Dem` (34; 14% of non-empty `PronType`): <em>тя, ся, тянь, Ня, Сянь, Тяда, сятка, тона</em>
+* `Ind` (23; 10% of non-empty `PronType`): <em>мезевок, кивок, киньге, кой-кие, ськамот, Кой-кинди, Конашка, Лиятнень, илянь, ингольденза</em>
+* `Int` (21; 9% of non-empty `PronType`): <em>мезе, мезенкса, кие, Мезень, кинди, Мезьда, мезьса</em>
+* `Prs` (138; 58% of non-empty `PronType`): <em>сон, мон, сонь, синь, минь, тон, тейнза, монь, тейть, тонь</em>
 * `Rcp` (1; 0% of non-empty `PronType`): <em>фкя-фкянь</em>
 * `Rel` (7; 3% of non-empty `PronType`): <em>кона, конань, конат</em>
 * `Tot` (11; 5% of non-empty `PronType`): <em>сембонь, Сембось, кафонест, кафцьке, сембе, сембода, сембонди</em>
@@ -42,20 +42,20 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>мезе</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 93% lemmas (27) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 93% lemmas (28) occur only with one value of `PronType`.
 
 ### `DET`
 
-40 <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+42 <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (28; 70%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 70%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (22; 55%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (30; 71%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 71%), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (24; 57%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (16; 40% of non-empty `PronType`): <em>тя, ня, сяка, ся, тяка, тяфтама</em>
-* `Ind` (11; 28% of non-empty `PronType`): <em>лама, мзяра, сняра, иля, кодама-бъди, кой-кона, ламос, лия</em>
-* `Int` (1; 3% of non-empty `PronType`): <em>Мъзяра</em>
-* `Tot` (12; 30% of non-empty `PronType`): <em>эрь, сембе, кафцьке</em>
+* `Dem` (16; 38% of non-empty `PronType`): <em>тя, ня, сяка, ся, тяка, тяфтама</em>
+* `Ind` (11; 26% of non-empty `PronType`): <em>лама, мзяра, сняра, иля, кодама-бъди, кой-кона, ламос, лия</em>
+* `Int` (1; 2% of non-empty `PronType`): <em>Мъзяра</em>
+* `Tot` (14; 33% of non-empty `PronType`): <em>эрь, сембе, кафцьке, кажнай</em>
 
 <table>
   <tr><th>Paradigm <i>мзяра</i></th><th><tt>Int</tt></th><th><tt>Ind</tt></th></tr>
@@ -63,7 +63,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><tt><a href="mdf_jr-feat-Style.html">Style</a></tt><tt>=Ped</tt></tt></td><td><em>Мъзяра</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `DET`. 94% lemmas (15) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 94% lemmas (16) occur only with one value of `PronType`.
 
 ### `ADJ`
 
@@ -75,7 +75,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 
 * `Dem` (4; 67% of non-empty `PronType`): <em>тяфтама</em>
 * `Int` (2; 33% of non-empty `PronType`): <em>кодама</em>
-* `EMPTY` (222): <em>оцю, од, васенце, мазы, пара, сире, цебярь, акша, козя, ляпе</em>
+* `EMPTY` (230): <em>оцю, од, васенце, мазы, пара, сире, цебярь, акша, козя, ляпе</em>
 
 ### `ADV`
 
@@ -88,5 +88,5 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Dem` (1; 20% of non-empty `PronType`): <em>тяза</em>
 * `Ind` (2; 40% of non-empty `PronType`): <em>коданга, козонга</em>
 * `Int` (2; 40% of non-empty `PronType`): <em>Мес, коста</em>
-* `EMPTY` (426): <em>нинге, кода, пяк, аньцек, сяда, ни, меле, эста, ичкозе, кали</em>
+* `EMPTY` (441): <em>нинге, кода, пяк, аньцек, сяда, ни, меле, эста, ичкозе, кали</em>
 

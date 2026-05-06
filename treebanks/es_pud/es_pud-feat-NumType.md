@@ -7,12 +7,12 @@ udver: '2'
 ## Treebank Statistics: UD_Spanish-PUD: Features: `NumType`
 
 This feature is universal.
-It occurs with 1 different values: `Card`.
+It occurs with 2 different values: `Card`, `Ord`.
 
-477 tokens (2%) have a non-empty value of `NumType`.
-246 types (4%) occur at least once with a non-empty value of `NumType`.
-233 lemmas (5%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (435; 2% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (40; 0% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+526 tokens (2%) have a non-empty value of `NumType`.
+255 types (4%) occur at least once with a non-empty value of `NumType`.
+236 lemmas (5%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (435; 2% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (43; 0% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (40; 0% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (8; 0% instances).
 
 ### `NUM`
 
@@ -25,6 +25,17 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 * `Card` (435; 100% of non-empty `NumType`): <em>dos, tres, 1, 10, cuatro, 3, mil, seis, 70, 100</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (228) occur only with one value of `NumType`.
+
+### `ADJ`
+
+43 <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
+
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35; 81%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (22; 51%).
+
+`ADJ` tokens may have the following values of `NumType`:
+
+* `Ord` (43; 100% of non-empty `NumType`): <em>primera, primer, primeros, tercer, primeras, tercera</em>
+* `EMPTY` (1442): <em>gran, mayor, nueva, nacional, grandes, últimos, británica, nuevos, Unidos, nuevo</em>
 
 ### `DET`
 
@@ -39,14 +50,14 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 
 ### `PRON`
 
-2 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `NumType`.
+8 <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="es_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Int,Rel</tt> (2; 100%), <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="es_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="es_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="es_pud-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="es_pud-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (8; 100%), <tt><a href="es_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6; 75%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 75%), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (6; 75%).
 
 `PRON` tokens may have the following values of `NumType`:
 
-* `Card` (2; 100% of non-empty `NumType`): <em>cuanto</em>
-* `EMPTY` (1037): <em>se, que, su, lo, sus, le, cual, me, ellos, él</em>
+* `Card` (8; 100% of non-empty `NumType`): <em>tanto, cuanto</em>
+* `EMPTY` (1038): <em>se, que, su, lo, sus, le, cual, me, ellos, él</em>
 
 ## Relations with Agreement in `NumType`
 

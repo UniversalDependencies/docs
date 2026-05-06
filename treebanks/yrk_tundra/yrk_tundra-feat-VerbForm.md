@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="yrk_tundra-pos-VERB
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Conv` (10; 100% of non-empty `VerbForm`): <em>ӈохолё, мада, пыдабтамба</em>
-* `EMPTY` (241): <em>ядадмʼ, мадав, нэкалӈав, манэˮӈадмʼ, имбытадотана, сырӈадмʼ, сюртев, мэда, таня, тарпывʼ</em>
+* `EMPTY` (244): <em>ядадмʼ, мадав, нэкалӈав, манэˮӈадмʼ, имбытадотана, сырӈадмʼ, сюртев, мэда, таня, тарпывʼ</em>
 

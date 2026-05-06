@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="frm_profiterole-dep-aux-pass.html">aux:pass</a></tt>.
 
-1595 nodes (2%) are attached to their parents as `aux`.
+1780 nodes (1%) are attached to their parents as `aux`.
 
-1566 instances of `aux` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.42319749216301.
+1749 instances of `aux` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.4376404494382.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (1542; 97% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (24; 2% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (18; 1% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (1723; 97% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (21; 1% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,22 +36,26 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 aux	color:blue
-1	Vous	vous	PRON	PROper	PronType=Prs	5	nsubj	_	XmlId=w_42_22595
-2	soyez	être	AUX	VERcjg	VerbForm=Fin	5	aux	_	XmlId=w_42_22596
-3	le	le	DET	DETdef	Definite=Def|PronType=Art	5	det	_	XmlId=w_42_22597
-4	tresbien	bien	ADV	ADVgen	_	5	advmod	_	XmlId=w_42_22598
-5	venu	venir	NOUN	NOMcom	_	0	root	_	XmlId=w_42_22599
-6	en	en1	ADP	PRE	_	9	case	_	XmlId=w_42_22600
-7	vostre	votre	DET	DETpos	Poss=Yes	9	det	_	XmlId=w_42_22601
-8	mesme	même	ADJ	ADJind	PronType=Ind	9	amod	_	XmlId=w_42_22602
-9	terre	terre1	NOUN	NOMcom	_	5	obl	_	SpaceAfter=No|XmlId=w_42_22603
-10	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_42_22604
-11	»	»	PUNCT	PONpdr	_	5	punct	_	XmlId=w_42_22605
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 4 aux	color:blue
+1	Ceste	cist	DET	DETdem	PronType=Dem	2	det	_	XmlId=w_32_14965
+2	conversation	conversation	NOUN	NOMcom	_	8	nsubj	_	XmlId=w_32_14966
+3	n'	ne1	ADV	ADVneg	Polarity=Neg	8	advmod	_	SpaceAfter=No|XmlId=w_32_14967
+4	eust	avoir	AUX	VERcjg	VerbForm=Fin	8	aux	_	XmlId=w_32_14968
+5	point	point2	ADV	ADVneg	Polarity=Neg	8	advmod	_	XmlId=w_32_14969
+6	seulement	seulement	ADV	ADVgen	_	8	advmod	_	XmlId=w_32_14970
+7	esté	être	AUX	VERppe	Tense=Past|VerbForm=Part	8	cop	_	XmlId=w_32_14971
+8	ville	ville	NOUN	NOMcom	_	0	root	_	XmlId=w_32_14972
+9	gaignée	gagner	VERB	VERppe	Tense=Past|VerbForm=Part	8	acl	_	SpaceAfter=No|XmlId=w_32_14973
+10	,	,	PUNCT	PONfbl	_	14	punct	_	XmlId=w_32_14974
+11	mais	mais1	CCONJ	CONcoo	_	14	cc	_	XmlId=w_32_14975
+12	toute	tout2	DET	DETind	PronType=Ind	14	det	_	XmlId=w_32_14976
+13	l'	le	DET	DETdef	Definite=Def|PronType=Art	14	det	_	SpaceAfter=No|XmlId=w_32_14977
+14	emprise	emprise	NOUN	NOMcom	_	8	conj	_	XmlId=w_32_14978
+15	;	;	PUNCT	PONfbl	_	8	punct	_	XmlId=w_32_14979
 
 ~~~
 

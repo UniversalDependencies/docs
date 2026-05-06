@@ -34,7 +34,7 @@ The most frequent other feature values with which `NUM` and `Foreign` co-occurre
 `NUM` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>1</em>
-* `EMPTY` (115): <em>deux, 1994, 1993, 1989, 1990, 1991, 1992, 1988, 10, 1929</em>
+* `EMPTY` (116): <em>deux, 1994, 1993, 1989, 1990, 1991, 1992, 1988, 10, 1929</em>
 
 ## Relations with Agreement in `Foreign`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-584 nodes (14%) are attached to their parents as `case`.
+830 nodes (15%) are attached to their parents as `case`.
 
-396 instances of `case` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.49143835616438.
+572 instances of `case` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.43132530120482.
 
-The following 7 pairs of parts of speech are connected with `case`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (410; 70% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (86; 15% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (61; 10% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (19; 3% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `case`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (581; 70% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (121; 15% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (78; 9% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (22; 3% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (15; 2% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

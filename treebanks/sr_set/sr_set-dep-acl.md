@@ -47,7 +47,7 @@ The following 37 pairs of parts of speech are connected with `acl`: <tt><a href=
 3	pomaže	pomagati	VERB	Vmr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	u	u	ADP	Sl	Case=Loc	5	case	_	_
 5	raščišćavanju	raščišćavanje	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
-6	štete	šteta	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	5	obl	_	_
+6	štete	šteta	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
 7	izazvane	izazvan	ADJ	Agpfsgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	6	acl	_	_
 8	poplavama	poplava	NOUN	Ncfpi	Case=Ins|Gender=Fem|Number=Plur	7	obl	_	_
 

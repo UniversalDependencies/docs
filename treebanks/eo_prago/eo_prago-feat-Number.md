@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="eo_prago-feat-Number.html">Number</a></tt>, <tt><a href="eo_prago-feat-Number-psor.html">Number[psor]</a></tt>.
 
-1345 tokens (42%) have a non-empty value of `Number`.
+1346 tokens (43%) have a non-empty value of `Number`.
 670 types (67%) occur at least once with a non-empty value of `Number`.
 508 lemmas (63%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (659; 21% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (286; 9% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (278; 9% instances), <tt><a href="eo_prago-pos-DET.html">DET</a></tt> (65; 2% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (29; 1% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (27; 1% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (659; 21% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (286; 9% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (278; 9% instances), <tt><a href="eo_prago-pos-DET.html">DET</a></tt> (66; 2% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (29; 1% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (27; 1% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 286 <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt> (229; 80%), <tt><a href="eo_prago-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (215; 75%), <tt><a href="eo_prago-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (214; 75%), <tt><a href="eo_prago-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (214; 75%), <tt><a href="eo_prago-feat-Person.html">Person</a></tt><tt>=1</tt> (160; 56%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt> (229; 80%), <tt><a href="eo_prago-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (223; 78%), <tt><a href="eo_prago-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (215; 75%), <tt><a href="eo_prago-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (214; 75%), <tt><a href="eo_prago-feat-Person.html">Person</a></tt><tt>=1</tt> (160; 56%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -48,11 +48,10 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>mi</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="eo_prago-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="eo_prago-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>mian</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="eo_prago-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>min</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="eo_prago-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>mian</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>min</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="eo_prago-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>mia</em></td><td><em>mia, miaj</em></td></tr>
   <tr><td><tt><tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>mi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="eo_prago-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="eo_prago-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>mia</em></td><td><em>mia, miaj</em></td></tr>
-  <tr><td><tt><tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="eo_prago-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>mi</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
@@ -77,15 +76,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `DET`
 
-65 <tt><a href="eo_prago-pos-DET.html">DET</a></tt> tokens (26% of all `DET` tokens) have a non-empty value of `Number`.
+66 <tt><a href="eo_prago-pos-DET.html">DET</a></tt> tokens (27% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="eo_prago-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (65; 100%), <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt> (44; 68%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="eo_prago-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (66; 100%), <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt> (45; 68%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (20; 31% of non-empty `Number`): <em>ĉiuj, tiuj, tiujn, iaj, iliaj, iujn, siajn, ĉiujn</em>
-* `Sing` (45; 69% of non-empty `Number`): <em>ĉiu, tiun, tiu, ĉiun, ia, Tia, alia, sia, ĉia, ĉian</em>
-* `EMPTY` (184): <em>la, iu, kelkaj, ĉiu</em>
+* `Plur` (20; 30% of non-empty `Number`): <em>ĉiuj, tiuj, tiujn, iaj, iliaj, iujn, siajn, ĉiujn</em>
+* `Sing` (46; 70% of non-empty `Number`): <em>ĉiu, tiun, tiu, ĉiun, ia, Tia, alia, sia, ĉia, ĉian</em>
+* `EMPTY` (183): <em>la, iu, kelkaj</em>
 
 <table>
   <tr><th>Paradigm <i>ĉiu</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

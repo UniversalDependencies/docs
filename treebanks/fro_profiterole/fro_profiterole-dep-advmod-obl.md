@@ -22,13 +22,13 @@ The following 2 pairs of parts of speech are connected with `advmod:obl`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 advmod:obl	color:blue
-1	Sin	_	ADV	ADVgen.PROper	_	2	advmod:obl	_	XmlId=w_58_26542
-2	getat	_	VERB	VERcjg	_	0	root	_	XmlId=w_58_26543
-3	mort	_	VERB	VERppe	_	2	xcomp	_	XmlId=w_58_26544
-4	Malpalin	_	PROPN	NOMpro	_	2	obj	_	XmlId=w_58_26545
-5	de	_	ADP	PRE	_	6	case	_	XmlId=w_58_26546
-6	Nerbone	_	PROPN	NOMpro	_	4	nmod	_	SpaceAfter=No|XmlId=w_58_26547
-7	,	_	PUNCT	PONfbl	_	2	punct	_	XmlId=w_58_26548
+1	Sin	si4.en2	ADV	ADVgen.PROper	_	2	advmod:obl	_	XmlId=w_58_26542
+2	getat	jeter	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_26543
+3	mort	mourir	VERB	VERppe	Tense=Past|VerbForm=Part	2	xcomp	_	XmlId=w_58_26544
+4	Malpalin	Malpalin	PROPN	NOMpro	_	2	obj	_	XmlId=w_58_26545
+5	de	de	ADP	PRE	_	6	case	_	XmlId=w_58_26546
+6	Nerbone	Nerbone	PROPN	NOMpro	_	4	nmod	_	SpaceAfter=No|XmlId=w_58_26547
+7	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_58_26548
 
 ~~~
 
@@ -39,14 +39,14 @@ The following 2 pairs of parts of speech are connected with `advmod:obl`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 advmod:obl	color:blue
-1	ainz	_	ADV	ADVgen	_	3	advmod	_	XmlId=w_AlexisRaM_4032
-2	que	_	SCONJ	CONsub	_	3	mark	_	XmlId=w_AlexisRaM_4033
-3	ned	_	VERB	VERppe	_	8	advcl	_	XmlId=w_AlexisRaM_4034
-4	fusses	_	AUX	VERcjg	_	3	aux	_	XmlId=w_AlexisRaM_4035
-5	sin	_	ADV	ADVgen.PROadv	_	8	advmod:obl	_	XmlId=w_AlexisRaM_4036
-6	fui	_	AUX	VERcjg	_	8	cop	_	XmlId=w_AlexisRaM_4037
-7	mult	_	ADV	ADVgen	_	8	advmod	_	XmlId=w_AlexisRaM_4038
-8	angussuse	_	ADJ	ADJqua	_	0	root	_	XmlId=w_AlexisRaM_4039
+1	ainz	ains	ADV	ADVgen	_	3	advmod	_	XmlId=w_AlexisRaM_4032
+2	que	que	SCONJ	CONsub	_	3	mark	_	XmlId=w_AlexisRaM_4033
+3	ned	naître	VERB	VERppe	Tense=Past|VerbForm=Part	8	advcl	_	XmlId=w_AlexisRaM_4034
+4	fusses	estre	AUX	VERcjg	VerbForm=Fin	3	aux	_	XmlId=w_AlexisRaM_4035
+5	sin	si4.en2	ADV	ADVgen.PROadv	_	8	advmod:obl	_	XmlId=w_AlexisRaM_4036
+6	fui	estre	AUX	VERcjg	VerbForm=Fin	8	cop	_	XmlId=w_AlexisRaM_4037
+7	mult	moult	ADV	ADVgen	_	8	advmod	_	XmlId=w_AlexisRaM_4038
+8	angussuse	angoisseux	ADJ	ADJqua	_	0	root	_	XmlId=w_AlexisRaM_4039
 
 ~~~
 

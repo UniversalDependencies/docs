@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_English-Cairo: POS Tags: `ADP`
 
 There are 5 `ADP` lemmas (5%), 5 `ADP` types (4%) and 6 `ADP` tokens (4%).
-Out of 13 observed tags, the rank of `ADP` is: 6 in number of lemmas, 7 in number of types and 9 in number of tokens.
+Out of 13 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>on, be-tweonum, for, fram, þonne</em>
 

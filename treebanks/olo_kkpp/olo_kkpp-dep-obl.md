@@ -11,9 +11,9 @@ This relation is universal.
 152 nodes (9%) are attached to their parents as `obl`.
 
 87 instances of `obl` (57%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.21710526315789.
+Average distance between parent and child is 2.19078947368421.
 
-The following 13 pairs of parts of speech are connected with `obl`: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (109; 72% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (14; 9% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (7; 5% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (7; 5% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt>-<tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `obl`: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (110; 72% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (15; 10% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (7; 5% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt>-<tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt>-<tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt>-<tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt>-<tt><a href="olo_kkpp-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -50,17 +50,23 @@ The following 13 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 obl	color:blue
-1	“	“	PUNCT	PUNCT	_	3	punct	_	SpaceAfter=No
-2	Karjalan	Karjal	PROPN	PROPN	Case=Gen|Number=Sing	3	nmod:poss	_	_
-3	nuorus	nuorus	NOUN	NOUN	Case=Acc|Number=Sing	0	root	_	SpaceAfter=No
-4	”	”	PUNCT	PUNCT	_	3	punct	_	_
-5	Anuksen	Anus	PROPN	PROPN	Case=Gen|Number=Sing	6	nmod:poss	_	_
-6	piiris	piiri	NOUN	NOUN	Case=Ela|Number=Plur	3	obl	_	SpaceAfter=No
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 9 obl	color:blue
+1	Sit	sit	ADV	ADV	_	2	advmod	_	_
+2	ečitäh	eččie	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	PUNCT	_	4	punct	_	_
+4	ečitäh	eččie	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
+5	saaran	saari	NOUN	NOUN	Case=Gen|Number=Sing	6	nmod:poss	_	_
+6	sanojaa	sanoja	NOUN	NOUN	Case=Par|Number=Sing	2	obj	_	SpaceAfter=No
+7	,	,	PUNCT	PUNCT	_	11	punct	_	_
+8	ni	ni	ADV	ADV	_	11	advmod	_	_
+9	kus	kus	PRON	PRON	Case=Ine|Number=Plur|PronType=Int	11	obl	_	_
+10	ei	ei	AUX	AUX	Number=Sing|Person=3|Polarity=Neg	11	aux	_	_
+11	löytä	löyteä	VERB	VERB	Connegative=Yes|Tense=Pres	2	ccomp	_	SpaceAfter=No
+12	.	.	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
 
 ~~~
 

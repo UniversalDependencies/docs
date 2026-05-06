@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `csubj`: <tt><a href="la_circse-dep-csubj-pass.html">csubj:pass</a></tt>, <tt><a href="la_circse-dep-csubj-relcl.html">csubj:relcl</a></tt>.
 
-105 nodes (0%) are attached to their parents as `csubj`.
+121 nodes (0%) are attached to their parents as `csubj`.
 
-57 instances of `csubj` (54%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+66 instances of `csubj` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.87603305785124.
 
-The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (53; 50% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (30; 29% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (19; 18% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `csubj`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (61; 50% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (31; 26% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (22; 18% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -47,17 +47,17 @@ The following 6 pairs of parts of speech are connected with `csubj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 5 csubj	color:blue
-1	o	o	PART	U	PartType=Emp	3	advmod:emph	_	LiLaflcat=i
-2	quam	quam	ADV	O	PronType=Int	3	advmod	_	LASLAVariant=2|LiLaflcat=i
-3	miserum	miser	ADJ	C1	Case=Nom|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	_	LiLaflcat=n6
-4	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	LASLAVariant=1|LiLaflcat=v6
-5	nescire	nescio	VERB	B4	Aspect=Imp|InflClass=LatI|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	3	csubj	_	LiLaflcat=v4
-6	mori	morior	VERB	B5	Aspect=Imp|InflClass=LatI2|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass	5	xcomp	_	LiLaflcat=v5
+# visual-style 3 2 csubj	color:blue
+1	feminis	femina	NOUN	A1	Case=Dat|Gender=Fem|InflClass=IndEurA|Number=Plur	3	obl:arg	_	LiLaflcat=n1|UniqueTokenId=TacGerma-Q-01-165_1
+2	lugere	lugeo	VERB	B2	Aspect=Imp|InflClass=LatE|VerbForm=Inf|Voice=Act	3	csubj	_	LiLaflcat=v2|TraditionalMood=Infinitivus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-165_2
+3	honestum	honestus	ADJ	C1	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	0	root	_	LiLaflcat=n6|UniqueTokenId=TacGerma-Q-01-165_3
+4	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-165_4
+5	uiris	uir	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur	6	orphan	_	LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-165_5
+6	meminisse	memini	VERB	B3	Aspect=Perf|InflClass=LatX|VerbForm=Inf|Voice=Act	3	conj	_	LiLaflcat=v3|TraditionalMood=Infinitivus|TraditionalTense=Perfectum|UniqueTokenId=TacGerma-Q-01-165_6
 
 ~~~
 

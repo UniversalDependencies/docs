@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: POS Tags: `ADJ`
 
-There are 75 `ADJ` lemmas (10%), 79 `ADJ` types (8%) and 98 `ADJ` tokens (4%).
+There are 76 `ADJ` lemmas (10%), 80 `ADJ` types (8%) and 99 `ADJ` tokens (4%).
 Out of 16 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 4 in number of types and 7 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>ас, бур, второй, дзоля, небыд, английскӧй, бия, важ, дик, корейскӧй</em>
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>сэтшем</em> (<tt><a href="kpv_i
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.053333 (the average of all parts of speech is 1.341115).
+The form / lemma ratio of `ADJ` is 1.052632 (the average of all parts of speech is 1.342857).
 
 The 1st highest number of forms (2) was observed with the lemma “английскӧй”: <em>английскеен, английскейсэ</em>.
 
@@ -38,22 +38,22 @@ The 2nd highest number of forms (2) was observed with the lemma “важ”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “дзоля”: <em>дзолясянь, меддёля</em>.
 
-`ADJ` occurs with 10 features: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (90; 92% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (87; 89% instances), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt> (6; 6% instances), <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt> (4; 4% instances), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt> (3; 3% instances), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt> (3; 3% instances), <tt><a href="kpv_ikdp-feat-Degree.html">Degree</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-feat-Number-subj.html">Number[subj]</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-feat-Definite.html">Definite</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-feat-Derivation.html">Derivation</a></tt> (1; 1% instances)
+`ADJ` occurs with 10 features: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt> (91; 92% instances), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt> (88; 89% instances), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt> (6; 6% instances), <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt> (4; 4% instances), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt> (3; 3% instances), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt> (3; 3% instances), <tt><a href="kpv_ikdp-feat-Degree.html">Degree</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-feat-Number-subj.html">Number[subj]</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-feat-Definite.html">Definite</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-feat-Derivation.html">Derivation</a></tt> (1; 1% instances)
 
 `ADJ` occurs with 18 feature-value pairs: `Case=Acc`, `Case=Egr`, `Case=Gen`, `Case=Ine`, `Case=Ins`, `Case=Nom`, `Definite=Ind`, `Degree=Cmp`, `Degree=Sup`, `Derivation=Ko`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Number[subj]=Plur`, `Person[psor]=3`, `PronType=Dem`, `PronType=Prs`
 
 `ADJ` occurs with 17 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing` (60 tokens).
+The most frequent feature combination is `Case=Nom|Number=Sing` (61 tokens).
 Examples: <em>бур, небыд, бия, второй, выль, дик, корейскей, кык-суда, Берёзовский, Вто-</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 11 different relations: <tt><a href="kpv_ikdp-dep-amod.html">amod</a></tt> (66; 67% instances), <tt><a href="kpv_ikdp-dep-root.html">root</a></tt> (6; 6% instances), <tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt> (5; 5% instances), <tt><a href="kpv_ikdp-dep-nmod.html">nmod</a></tt> (4; 4% instances), <tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt> (4; 4% instances), <tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt> (3; 3% instances), <tt><a href="kpv_ikdp-dep-obj.html">obj</a></tt> (3; 3% instances), <tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt> (3; 3% instances), <tt><a href="kpv_ikdp-dep-appos.html">appos</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+`ADJ` nodes are attached to their parents using 11 different relations: <tt><a href="kpv_ikdp-dep-amod.html">amod</a></tt> (67; 68% instances), <tt><a href="kpv_ikdp-dep-root.html">root</a></tt> (6; 6% instances), <tt><a href="kpv_ikdp-dep-conj.html">conj</a></tt> (5; 5% instances), <tt><a href="kpv_ikdp-dep-nmod.html">nmod</a></tt> (4; 4% instances), <tt><a href="kpv_ikdp-dep-obl.html">obl</a></tt> (4; 4% instances), <tt><a href="kpv_ikdp-dep-nsubj.html">nsubj</a></tt> (3; 3% instances), <tt><a href="kpv_ikdp-dep-obj.html">obj</a></tt> (3; 3% instances), <tt><a href="kpv_ikdp-dep-reparandum.html">reparandum</a></tt> (3; 3% instances), <tt><a href="kpv_ikdp-dep-appos.html">appos</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="kpv_ikdp-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Parents of `ADJ` nodes belong to 7 different parts of speech: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (67; 68% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (13; 13% instances),  (6; 6% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (5; 5% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Parents of `ADJ` nodes belong to 7 different parts of speech: <tt><a href="kpv_ikdp-pos-NOUN.html">NOUN</a></tt> (68; 69% instances), <tt><a href="kpv_ikdp-pos-VERB.html">VERB</a></tt> (13; 13% instances),  (6; 6% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (5; 5% instances), <tt><a href="kpv_ikdp-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="kpv_ikdp-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 
-62 (63%) `ADJ` nodes are leaves.
+63 (64%) `ADJ` nodes are leaves.
 
 22 (22%) `ADJ` nodes have one child.
 

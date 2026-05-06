@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Hausa-WesternAutogramm: POS Tags: `DET`
 
-There are 20 `DET` lemmas (2%), 29 `DET` types (2%) and 201 `DET` tokens (1%).
-Out of 16 observed tags, the rank of `DET` is: 7 in number of lemmas, 9 in number of types and 11 in number of tokens.
+There are 13 `DET` lemmas (1%), 29 `DET` types (2%) and 201 `DET` tokens (1%).
+Out of 16 observed tags, the rank of `DET` is: 10 in number of lemmas, 9 in number of types and 11 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>nan, wani, dukà, wata, wânnan, duk, wa’ànnan, ga, wânga, koːdàwane</em>
+The 10 most frequent `DET` lemmas: <em>nan, wani, dukà, wata, nân, koːdàwane, koːwacè, koːwanè, can, koːdàwanè</em>
 
 The 10 most frequent `DET` types:  <em>nan, wani, wata, wânnam, wa’ànnan, du', ga, wasu, dum, du’</em>
 
-The 10 most frequent ambiguous lemmas: <em>nan</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 78, <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> 37), <em>wani</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 39, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 6), <em>dukà</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 17, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 6), <em>wânnan</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 14, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 2), <em>duk</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 8, <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> 3), <em>koːwacè</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 2, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 1), <em>koːwanè</em> (<tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 2), <em>can</em> (<tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> 23, <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 1), <em>ganiː</em> (<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> 44, <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 1), <em>koːmiː</em> (<tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 11, <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>nan</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 99, <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> 37, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 2), <em>wani</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 39, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 6), <em>dukà</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 25, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 6, <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> 3), <em>nân</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 13, <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 1), <em>koːwacè</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 2, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 1), <em>koːwanè</em> (<tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 2), <em>can</em> (<tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> 23, <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 1), <em>koːmiː</em> (<tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 11, <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>nan</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 78, <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> 35), <em>wani</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 32, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 6), <em>ga</em> (<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> 29, <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 6), <em>dum</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 4, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 1), <em>wânnan</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 3, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 2), <em>duk</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 2, <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> 1), <em>koːwacè</em> (<tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 2, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 1), <em>koːwanè</em> (<tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 2), <em>can</em> (<tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> 23, <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 1), <em>dus</em> (<tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 3, <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> 1)
 
@@ -52,20 +52,20 @@ The 10 most frequent ambiguous types:  <em>nan</em> (<tt><a href="ha_westernauto
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.450000 (the average of all parts of speech is 1.458157).
+The form / lemma ratio of `DET` is 2.230769 (the average of all parts of speech is 1.624060).
 
-The 1st highest number of forms (9) was observed with the lemma “dukà”: <em>du', duk, dul, dum, dus, dut, duw, duy, duz</em>.
+The 1st highest number of forms (10) was observed with the lemma “dukà”: <em>du', duk, dul, dum, dus, dut, duw, duy, duz, du’</em>.
 
-The 2nd highest number of forms (4) was observed with the lemma “duk”: <em>du', dum, duy, du’</em>.
+The 2nd highest number of forms (4) was observed with the lemma “nan”: <em>nan, wa’ànnan, wânnam, wânnan</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “wani”: <em>wani, wasu, wata</em>.
+The 3rd highest number of forms (4) was observed with the lemma “nân”: <em>ga, wannàn, wa’ànga, wânga</em>.
 
-`DET` occurs with 6 features: <tt><a href="ha_westernautogramm-feat-PronType.html">PronType</a></tt> (113; 56% instances), <tt><a href="ha_westernautogramm-feat-Definite.html">Definite</a></tt> (110; 55% instances), <tt><a href="ha_westernautogramm-feat-Gender.html">Gender</a></tt> (71; 35% instances), <tt><a href="ha_westernautogramm-feat-Deixis.html">Deixis</a></tt> (35; 17% instances), <tt><a href="ha_westernautogramm-feat-Number.html">Number</a></tt> (15; 7% instances), <tt><a href="ha_westernautogramm-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
+`DET` occurs with 6 features: <tt><a href="ha_westernautogramm-feat-PronType.html">PronType</a></tt> (177; 88% instances), <tt><a href="ha_westernautogramm-feat-Deixis.html">Deixis</a></tt> (113; 56% instances), <tt><a href="ha_westernautogramm-feat-Gender.html">Gender</a></tt> (71; 35% instances), <tt><a href="ha_westernautogramm-feat-Definite.html">Definite</a></tt> (39; 19% instances), <tt><a href="ha_westernautogramm-feat-Number.html">Number</a></tt> (15; 7% instances), <tt><a href="ha_westernautogramm-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances)
 
-`DET` occurs with 9 feature-value pairs: `Definite=Def`, `Definite=Spec`, `Deixis=Prox`, `Deixis=Remt`, `ExtPos=PRON`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `PronType=Dem`
+`DET` occurs with 11 feature-value pairs: `Definite=Spec`, `Deixis=ProxH`, `Deixis=ProxS`, `Deixis=Remt`, `ExtPos=PRON`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `PronType=Dem`, `PronType=Ind`, `PronType=Tot`
 
-`DET` occurs with 14 feature combinations.
-The most frequent feature combination is `Definite=Def|PronType=Dem` (78 tokens).
+`DET` occurs with 15 feature combinations.
+The most frequent feature combination is `Deixis=ProxH|PronType=Dem` (78 tokens).
 Examples: <em>nan</em>
 
 
@@ -73,7 +73,7 @@ Examples: <em>nan</em>
 
 `DET` nodes are attached to their parents using 5 different relations: <tt><a href="ha_westernautogramm-dep-det.html">det</a></tt> (193; 96% instances), <tt><a href="ha_westernautogramm-dep-dislocated.html">dislocated</a></tt> (3; 1% instances), <tt><a href="ha_westernautogramm-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="ha_westernautogramm-dep-xcomp.html">xcomp</a></tt> (2; 1% instances), <tt><a href="ha_westernautogramm-dep-appos.html">appos</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt> (184; 92% instances), <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> (8; 4% instances), <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="ha_westernautogramm-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ha_westernautogramm-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 8 different parts of speech: <tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt> (183; 91% instances), <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> (7; 3% instances), <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="ha_westernautogramm-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ha_westernautogramm-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ha_westernautogramm-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ha_westernautogramm-pos-PART.html">PART</a></tt> (1; 0% instances)
 
 196 (98%) `DET` nodes are leaves.
 
@@ -83,7 +83,7 @@ Parents of `DET` nodes belong to 6 different parts of speech: <tt><a href="ha_we
 
 The highest child degree of a `DET` node is 2.
 
-Children of `DET` nodes are attached using 4 different relations: <tt><a href="ha_westernautogramm-dep-discourse.html">discourse</a></tt> (3; 50% instances), <tt><a href="ha_westernautogramm-dep-advmod.html">advmod</a></tt> (1; 17% instances), <tt><a href="ha_westernautogramm-dep-nmod.html">nmod</a></tt> (1; 17% instances), <tt><a href="ha_westernautogramm-dep-punct.html">punct</a></tt> (1; 17% instances)
+Children of `DET` nodes are attached using 3 different relations: <tt><a href="ha_westernautogramm-dep-discourse.html">discourse</a></tt> (3; 50% instances), <tt><a href="ha_westernautogramm-dep-advmod.html">advmod</a></tt> (2; 33% instances), <tt><a href="ha_westernautogramm-dep-punct.html">punct</a></tt> (1; 17% instances)
 
-Children of `DET` nodes belong to 4 different parts of speech: <tt><a href="ha_westernautogramm-pos-PART.html">PART</a></tt> (3; 50% instances), <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> (1; 17% instances), <tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="ha_westernautogramm-pos-PUNCT.html">PUNCT</a></tt> (1; 17% instances)
+Children of `DET` nodes belong to 3 different parts of speech: <tt><a href="ha_westernautogramm-pos-PART.html">PART</a></tt> (4; 67% instances), <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> (1; 17% instances), <tt><a href="ha_westernautogramm-pos-PUNCT.html">PUNCT</a></tt> (1; 17% instances)
 

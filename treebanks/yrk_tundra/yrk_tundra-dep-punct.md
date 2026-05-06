@@ -11,9 +11,9 @@ This relation is universal.
 211 nodes (17%) are attached to their parents as `punct`.
 
 204 instances of `punct` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.96208530805687.
+Average distance between parent and child is 1.96682464454976.
 
-The following 6 pairs of parts of speech are connected with `punct`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> (182; 86% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> (13; 6% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> (8; 4% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt>-<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances), <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt>-<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt>-<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `punct`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> (181; 86% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> (13; 6% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> (9; 4% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt>-<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> (5; 2% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt>-<tt><a href="yrk_tundra-pos-PUNCT.html">PUNCT</a></tt> (3; 1% instances).
 
 
 ~~~ conllu

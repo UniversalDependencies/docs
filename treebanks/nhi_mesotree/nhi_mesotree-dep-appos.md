@@ -1,19 +1,19 @@
 ---
 layout: base
-title:  'Statistics of appos in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of appos in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `appos`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `appos`
 
 This relation is universal.
 
-49 nodes (1%) are attached to their parents as `appos`.
+50 nodes (0%) are attached to their parents as `appos`.
 
-49 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.04081632653061.
+50 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.02.
 
-The following 13 pairs of parts of speech are connected with `appos`: <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (10; 20% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (10; 20% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (10; 20% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (6; 12% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (4; 8% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 13 pairs of parts of speech are connected with `appos`: <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (10; 20% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (10; 20% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (10; 20% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (6; 12% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (5; 10% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (2; 4% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

@@ -26,7 +26,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `Past` (1630; 43% of non-empty `Tense`): <em>dixit, vidi, inquit, audivi, fecit, iussit, coepit, dedit, potuit, vidit</em>
 * `Pqp` (214; 6% of non-empty `Tense`): <em>aperuisset, fecerat, dixerat, habuerat, iussisset, viderat, censuerat, ceperat, coeperat, discesserat</em>
 * `Pres` (1678; 44% of non-empty `Tense`): <em>habet, potest, iubet, dicit, fit, inquit, venit, ait, possit, licet</em>
-* `EMPTY` (2003): <em>habere, dicere, facere, posse, ire, dicens, dicentem, vivere, dicentes, afferri</em>
+* `EMPTY` (2005): <em>habere, dicere, facere, posse, ire, dicens, dicentem, vivere, dicentes, afferri</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Pqp</tt></th></tr>
@@ -92,6 +92,6 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (503; 84%),
+<tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (502; 84%),
 <tt>VERB --[<tt><a href="la_perseus-dep-ccomp-reported.html">ccomp:reported</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Past`, `Pres`.
 
 12370 tokens (12%) have a non-empty value of `Tense`.
 2371 types (26%) occur at least once with a non-empty value of `Tense`.
-699 lemmas (18%) occur at least once with a non-empty value of `Tense`.
+697 lemmas (18%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (10215; 10% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (2155; 2% instances).
 
 ### `VERB`
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 * `Past` (6578; 64% of non-empty `Tense`): <em>ետ, ասեին, եկն, ասաց, եկեալ, ել, ետես, առաքեաց, ասէր, արար</em>
 * `Pres` (3637; 36% of non-empty `Tense`): <em>ասէ, ասեն, ասեմ, գայ, ծնանի, կարէ, գիտեմ, գիտէք, առնէ, երթամ</em>
-* `EMPTY` (4399): <em>ասել, առնել, մտանել, տալ, երթ, եկեցէ, գալ, ունել, ունիցի, երթայք</em>
+* `EMPTY` (4401): <em>ասել, առնել, մտանել, տալ, երթ, եկեցէ, գալ, ունել, ունիցի, երթայք</em>
 
 <table>
   <tr><th>Paradigm <i>ասել</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -67,7 +67,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 * `Past` (888; 41% of non-empty `Tense`): <em>էր, եղեւ, եին, լեալ, եղեն, եղեալ, լինէր, եի, եիր, լինեին</em>
 * `Pres` (1267; 59% of non-empty `Tense`): <em>է, են, եմ, ես, էք, լինի, եմք, լինին, իցէ, իցեն</em>
-* `EMPTY` (582): <em>իցէ, լինել, եղիցի, իցեն, լիցի, լինիցի, եղիցին, իցեմ, լիցին, լերուք</em>
+* `EMPTY` (580): <em>իցէ, լինել, եղիցի, իցեն, լիցի, լինիցի, եղիցին, իցեմ, լիցին, լերուք</em>
 
 <table>
   <tr><th>Paradigm <i>եմ</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -92,8 +92,8 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (1607; 69%),
-<tt>VERB --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (933; 52%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (1608; 68%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (934; 52%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (109; 74%),
 <tt>AUX --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (23; 82%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (15; 60%),

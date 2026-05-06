@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_English-Cairo: POS Tags: `AUX`
 
 There are 6 `AUX` lemmas (6%), 9 `AUX` types (8%) and 11 `AUX` tokens (6%).
-Out of 13 observed tags, the rank of `AUX` is: 5 in number of lemmas, 5 in number of types and 6 in number of tokens.
+Out of 13 observed tags, the rank of `AUX` is: 6 in number of lemmas, 5 in number of types and 6 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>beon, magan, habban, nyllan, ƿesan, ƿillan</em>
 

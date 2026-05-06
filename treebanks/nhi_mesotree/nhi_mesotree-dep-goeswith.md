@@ -1,19 +1,19 @@
 ---
 layout: base
-title:  'Statistics of goeswith in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of goeswith in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `goeswith`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `goeswith`
 
 This relation is universal.
 
-12 nodes (0%) are attached to their parents as `goeswith`.
+31 nodes (0%) are attached to their parents as `goeswith`.
 
-12 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+31 instances of `goeswith` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-X.html">X</a></tt> (8; 67% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-X.html">X</a></tt> (3; 25% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-X.html">X</a></tt> (1; 8% instances).
+The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt>-<tt><a href="nhi_mesotree-pos-X.html">X</a></tt> (10; 32% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-X.html">X</a></tt> (10; 32% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-X.html">X</a></tt> (6; 19% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-X.html">X</a></tt> (4; 13% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_mesotree-pos-X.html">X</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -22,15 +22,37 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 goeswith	color:blue
-1	A	a	ADP	_	ExtPos=ADV|Foreign=Yes	6	advmod	6:advmod	NormalizedForm=a|NormalizedLemma=a
-2	vez	vez	NOUN	_	Foreign=Yes|Number=Sing	1	fixed	1:fixed	NormalizedForm=vez|NormalizedLemma=vez
-3	ok	oksiki	DET	_	Typo=Yes	5	det	5:det	NormalizedForm=ok|NormalizedLemma=ok
-4	sikeh	_	X	_	_	3	goeswith	3:goeswith	NormalizedForm=sikeh|NormalizedLemma=siki
-5	tokniwah	ikni	NOUN	_	Number=Plur	6	nsubj	6:nsubj	NormalizedForm=tokniwah|NormalizedLemma=ikni|Number[psor]=Plur|Person[psor]=1
-6	okiabandonarowayah	abandonaroa	VERB	_	Aspect=Imp|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=kiabandonarowayah|NormalizedLemma=abandonaroa|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|wordform=kiabandonarowayah
-7	nin	nin	DET	_	_	8	det	8:det	NormalizedForm=nin|NormalizedLemma=nin
-8	pueblo	pueblo	NOUN	_	Foreign=Yes|Gender=Masc|Number=Sing	6	obj	6:obj	NormalizedForm=pueblo|NormalizedLemma=pueblo|SpaceAfter=No
-9	.	.	PUNCT	_	_	6	punct	6:punct	NormalizedForm=.|NormalizedLemma=.
+1	¿	¿	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	Cate	catqui	VERB	_	_	0	root	0:root	_
+3	oc	ocse	DET	_	Typo=Yes	5	obj	5:obj	_
+4	siqui	_	X	_	_	3	goeswith	3:goeswith	_
+5	altipeme	altipetl	NOUN	_	_	2	nsubj	2:nsubj	_
+6	campa	campa	ADV	_	_	7	advmod	7:advmod	NounType=Relat
+7	mitotiyan	mihtotia	VERB	_	_	5	acl	5:acl	_
+8	in	in	DET	_	_	9	det	9:det	_
+9	santiagome	santiago	NOUN	_	_	7	nsubj	7:nsubj	SpaceAfter=No
+10	?	?	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 goeswith	color:blue
+1	¿	¿	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+2	In	in	DET	_	_	3	det	3:det	_
+3	tepatani	tepahtani	NOUN	_	_	4	nsubj	4:nsubj	_
+4	oc	tlalia	VERB	_	Typo=Yes	0	root	0:root	_
+5	tlali	_	X	_	_	4	goeswith	4:goeswith	_
+6	in	in	DET	_	_	7	det	7:det	_
+7	itoca	toca	NOUN	_	_	4	obj	4:obj	_
+8	itich	tich	NOUN	_	_	4	obl	4:obl	_
+9	in	in	DET	_	_	10	det	10:det	_
+10	acta	acta	NOUN	_	_	8	nmod	8:nmod	SpaceAfter=No
+11	?	?	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
 
 ~~~
 
@@ -41,30 +63,11 @@ The following 3 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 goeswith	color:blue
-1	Nican	nican	ADV	_	_	3	advmod	3:advmod	NormalizedForm=nikan|NormalizedLemma=nikan
-2	neh	nehuatl	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	NormalizedForm=neh|NormalizedLemma=nehwatl
-3	in	mati	VERB	_	Mood=Ind|Reflex=Yes|Tense=Fut|Typo=Yes|VerbForm=Fin	0	root	0:root	CorrectForm=inmomatis|NormalizedForm=in|NormalizedLemma=mati|Number[subj]=Sing|Person[subj]=3|Subcat=Tran
-4	momatis	_	X	_	_	3	goeswith	3:goeswith	NormalizedForm=momatis|NormalizedLemma=_|SpaceAfter=No
-5	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.|NormalizedLemma=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 goeswith	color:blue
-1	“	“	PUNCT	_	_	5	punct	5:punct	NormalizedForm=“|NormalizedLemma=“|SpaceAfter=No
-2	¡	¡	PUNCT	_	_	5	punct	5:punct	NormalizedForm=¡|NormalizedLemma=¡|SpaceAfter=No
-3	Amo	amoqueman	ADV	_	Polarity=Neg|Typo=Yes	5	advmod	5:advmod	CorrectForm=Amoqueman|NormalizedForm=amo|NormalizedLemma=amo
-4	queman	_	X	_	_	3	goeswith	3:goeswith	NormalizedForm=keman|NormalizedLemma=_
-5	ixtlahcolcahua	tlahcolcahua	VERB	_	Mood=Imp|VerbForm=Fin	0	root	0:root	NormalizedForm=ixtlahkolkawa|NormalizedLemma=tlahkolkawa|Number[subj]=Sing|Person[subj]=2|Subcat=Tran
-6	ce	ce	DET	_	_	7	det	7:det	NormalizedForm=se|NormalizedLemma=se
-7	tiquitl	tiquitl	NOUN	_	Case=Abs|Number=Sing	5	obj	5:obj	NormalizedForm=tikitl|NormalizedLemma=tikitl|SpaceAfter=No
-8	!	!	PUNCT	_	_	5	punct	5:punct	NormalizedForm=!|NormalizedLemma=!|SpaceAfter=No
-9	”	”	PUNCT	_	_	5	punct	5:punct	NormalizedForm=”|NormalizedLemma=”
+1	Inmitzoniluis	iluia	VERB	_	_	0	root	0:root	_
+2	yec	yex	ADV	_	_	1	advmod	1:advmod	_
+3	oc	ocsipa	ADV	_	Typo=Yes	1	advmod	1:advmod	_
+4	sipa	_	X	_	_	3	goeswith	3:goeswith	SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	1:punct	SpaceAfter=No
 
 ~~~
 

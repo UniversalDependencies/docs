@@ -22,17 +22,17 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 punct	color:blue
-1	enPR	enPR	NOUN	NN	Number=Sing	3	dep	3:dep	Discourse=organization-preparation:35->36:0:_|Entity=(55-abstract-new-nnnnn-cf2-1-sgl)|SpaceAfter=No|XML=<ref target:::"https://en.wiktionary.org/wiki/Appendix:English_pronunciation"></ref>
+1	enPR	enPR	NOUN	NN	Number=Sing	3	dep	3:dep	Discourse=organization-preparation:35->36:0:grf-col-147-_|Entity=(55-abstract-new-nnnnn-cf2-1-sgl)|SpaceAfter=No|XML=<ref target:::"https://en.wiktionary.org/wiki/Appendix:English_pronunciation"></ref>
 2	:	:	PUNCT	:	_	1	punct	1:punct	_
 3	nĕ	nĕ	INTJ	UH	_	0	root	0:root	Discourse=joint-other_m:36->4:3:_|Entity=(56-abstract-new-nnnnn-cf4-1,2-sgl
 4	kst	kst	INTJ	UH	_	3	flat	3:flat	Entity=56)|SpaceAfter=No
 5	,	,	PUNCT	,	_	6	punct	6:punct	_
-6	IPA	IPA	PROPN	NNP	Number=Sing	12	dep	12:dep	Discourse=organization-preparation:37->39:0:_|Entity=(57-abstract-new-nnnnn-cf1-1-sgl-International_Phonetic_Alphabet)|XML=<ref target:::"https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet"></ref>
-7	(	(	PUNCT	-LRB-	_	8	punct	8:punct	Discourse=elaboration-additional:38->37:0:_|SpaceAfter=No
+6	IPA	IPA	PROPN	NNP	Number=Sing	12	dep	12:dep	Discourse=organization-preparation:37->39:0:grf-col-155-_|Entity=(57-abstract-new-nnnnn-cf1-1-sgl-International_Phonetic_Alphabet)|XML=<ref target:::"https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet"></ref>
+7	(	(	PUNCT	-LRB-	_	8	punct	8:punct	Discourse=elaboration-additional:38->37:0:grf-prn-152,154-_|SpaceAfter=No
 8	key	key	NOUN	NN	Number=Sing	6	parataxis	6:parataxis	Entity=(58-abstract-new-nnnnn-cf3-1-sgl)|SpaceAfter=No
 9	)	)	PUNCT	-RRB-	_	8	punct	8:punct	SpaceAfter=No
 10	:	:	PUNCT	:	_	6	punct	6:punct	_
-11	/	/	PUNCT	SYM	_	6	punct	6:punct	Discourse=joint-list_m:39->36:1:_
+11	/	/	PUNCT	SYM	_	6	punct	6:punct	Discourse=joint-list_m:39->36:1:grf-seq-_-_
 12	nɛkst	nɛkst	ADJ	JJ	Degree=Pos	3	parataxis	3:parataxis	Entity=(59-abstract-new-snsnn-cf5-1-sgl)
 13	/	/	PUNCT	SYM	_	3	punct	3:punct	_
 
@@ -50,7 +50,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	Entity=(74-abstract-new-nnnnn-cf4-2-coref
 4	mile	mile	NOUN	NN	Number=Sing	7	obl:unmarked	7:obl:unmarked	Entity=74)
 5	or	or	CCONJ	CC	_	6	cc	6:cc	_
-6	two	two	NUM	CD	NumForm=Word|NumType=Card	4	conj	4:conj:or|7:obl:unmarked	Bridge=74<75|Entity=(75-abstract-acc:inf-nnnnn-cf2-1-sgl)
+6	two	two	NUM	CD	NumForm=Word|NumType=Card	4	conj	4:conj:or|7:obl:unmarked	Bridge=74<75:comparison-sense|Entity=(75-abstract-acc:inf-nnnnn-cf2-1-sgl)
 7	away	away	ADV	RB	Degree=Pos	2	advmod	2:advmod	MSeg=a-way|SpaceAfter=No
 8	,	,	PUNCT	,	_	12	punct	12:punct	_
 9	in	in	ADP	IN	_	12	case	12:case	_
@@ -69,7 +69,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 2 punct	color:blue
 1	neest	neest	X	FW	_	0	root	0:root	Discourse=ROOT:4:0|Entity=(4-abstract-new-nnsnn-cf1-1-sgl)|XML=<ref target:::"https://en.wiktionary.org/w/index.php?title:::neest&amp;action:::edit&amp;redlink:::1"></ref>
-2	(	(	PUNCT	-LRB-	_	3	punct	3:punct	Discourse=elaboration-additional:5->4:0:_|SpaceAfter=No
+2	(	(	PUNCT	-LRB-	_	3	punct	3:punct	Discourse=elaboration-additional:5->4:0:grf-prn-6,8-_|SpaceAfter=No
 3	dialectal	dialectal	ADJ	JJ	Degree=Pos	1	parataxis	1:parataxis	MSeg=dialect-al|SpaceAfter=No|XML=<hi rend:::"italic"></hi>
 4	)	)	PUNCT	-RRB-	_	3	punct	3:punct	_
 

@@ -14,7 +14,7 @@ There are 2 language-specific subtypes of `obl`: <tt><a href="tr_tuecl-dep-obl-a
 71 instances of `obl` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.8169014084507.
 
-The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (37; 52% instances), <tt><a href="tr_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (12; 17% instances), <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (11; 15% instances), <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tuecl-pos-PROPN.html">PROPN</a></tt> (8; 11% instances), <tt><a href="tr_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="tr_tuecl-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `obl`: <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (37; 52% instances), <tt><a href="tr_tuecl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (14; 20% instances), <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (11; 15% instances), <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_tuecl-pos-PROPN.html">PROPN</a></tt> (8; 11% instances), <tt><a href="tr_tuecl-pos-AUX.html">AUX</a></tt>-<tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -33,25 +33,18 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 5 obl	color:blue
-1	Sude	Sude	PROPN	_	Case=Nom|Number=Sing	6	nsubj	_	_
-2	üç	üç	NUM	_	NumType=Card	3	nummod	_	_
-3	saat	saat	ADV	_	Case=Nom	6	advmod	_	_
-4	tir	i	AUX	_	Mood=Gen|Number=Sing|Person=3	3	cop	_	_
-5	ofiste	ofis	NOUN	_	Case=Loc|Number=Sing	6	obl	_	_
-6	yok	yok	ADJ	_	Polarity=Neg	0	root	_	_
-7	muş	i	AUX	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	_
-8	,	,	PUNCT	_	_	6	punct	_	_
-9	Ayşe	Ayşe	PROPN	_	Case=Nom|Number=Sing	11	nsubj	_	_
-10	de	de	ADV	_	_	9	advmod:emph	_	_
-11	evde	ev	NOUN	_	Case=Loc|Number=Sing	6	parataxis	_	_
-12	değil	değil	AUX	_	Case=Nom|Number=Sing|Polarity=Neg	11	aux	_	_
-13	miş	i	AUX	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past	11	cop	_	_
-14	.	.	PUNCT	_	_	11	punct	_	_
+# visual-style 6 4 obl	color:blue
+1	Benim	ben	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
+2	babam	baba	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	6	nsubj	_	_
+3	senin	sen	PRON	_	Case=Abl|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+4	kinden	ki	NOUN	_	Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=2	6	obl	_	_
+5	daha	daha	ADV	_	_	6	advmod	_	_
+6	harika	harika	ADJ	_	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

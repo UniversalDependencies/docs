@@ -34,7 +34,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (8; 100% of non-empty `Polarity`): <em>arib, idi, irib, aki, tirib</em>
-* `EMPTY` (276): <em>=u, =i, =a, andi, akajeː, aki, nijad, =wa, iki, dannʔi</em>
+* `EMPTY` (280): <em>=u, =i, =a, andi, akajeː, aki, nijad, =wa, iki, dannʔi</em>
 
 ### `VERB`
 
@@ -45,5 +45,5 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (7; 100% of non-empty `Polarity`): <em>aakaj, akaːj, ibarin, idʔiːn, tkatiːm, tʔam</em>
-* `EMPTY` (2403): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
+* `EMPTY` (2401): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
 

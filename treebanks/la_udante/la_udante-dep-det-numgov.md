@@ -41,7 +41,7 @@ The following 1 pairs of parts of speech are connected with `det:numgov`: <tt><a
 17	quam	quam	SCONJ	c	PronType=Rel	18	mark	_	_
 18	domino	dominus	NOUN	sms2d	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Sing	23	advcl:cmp	_	_
 19	et	et	CCONJ	co	_	20	cc	_	_
-20	honoris	honos	NOUN	sms3g	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	23	nsubj:pass	_	_
+20	honoris	honor	NOUN	sms3g	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	23	nsubj:pass	_	_
 21	et	et	CCONJ	co	_	22	cc	_	_
 22	fame	fama	NOUN	sfs1g	Case=Gen|Gender=Fem|InflClass=IndEurA|Number=Sing	20	conj	_	_
 23	conferri	confero	VERB	vp5fp	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf|Voice=Pass	24	csubj:pass	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
@@ -64,10 +64,10 @@ The following 1 pairs of parts of speech are connected with `det:numgov`: <tt><a
 40	attentis	attendo	VERB	amp1d	Aspect=Perf|Case=Dat|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	41	obl:arg	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 41	videbar	uideo	VERB	vd2iis1	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	25	conj:expl	_	TraditionalMood=Indicativus|TraditionalTense=Imperfectum
 42	expressisse	exprimo	VERB	va3fr	Aspect=Perf|InflClass=LatX|VerbForm=Inf|Voice=Act	41	xcomp	_	SpaceAfter=No|TraditionalMood=Infinitivus|TraditionalTense=Perfectum
-43	;	;	PUNCT	Pu	_	44	punct	_	_
-44	quod	qui	PRON	presnn	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	42	advcl:pred	_	_
+43	;	;	PUNCT	Pu	_	46	punct	_	_
+44	quod	qui	PRON	presnn	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	46	nsubj	_	_
 45	de	de	ADP	e	_	46	case	_	_
-46	proposito	propositum	NOUN	sns2b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	44	orphan	_	SpaceAfter=No
+46	proposito	propositum	NOUN	sns2b	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	42	advcl:pred	_	SpaceAfter=No
 47	.	.	PUNCT	Pu	_	8	punct	_	_
 
 ~~~

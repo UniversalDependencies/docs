@@ -118,7 +118,7 @@ The most frequent other feature values with which `ADJ` and `Number[psor]` co-oc
 
 346 <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> tokens (16% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (281; 81%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (278; 80%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (232; 67%), <tt><a href="tr_imst-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (188; 54%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (281; 81%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (278; 80%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (232; 67%), <tt><a href="tr_imst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (178; 51%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 
@@ -193,7 +193,7 @@ The most frequent other feature values with which `PROPN` and `Number[psor]` co-
 ## Relations with Agreement in `Number[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Number[psor]`:
-<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (83; 82%),
+<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (85; 83%),
 <tt>ADJ --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 67%),
 <tt>PRON --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (7; 100%),
 <tt>NOUN --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> NOUN</tt> (6; 55%),

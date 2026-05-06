@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="apu_ufpa-feat-Person.html">Person</a></tt>, <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="apu_ufpa-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt>.
 
-37 tokens (4%) have a non-empty value of `Person[psor]`.
-32 types (9%) occur at least once with a non-empty value of `Person[psor]`.
-29 lemmas (10%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 2 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (36; 4% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+42 tokens (4%) have a non-empty value of `Person[psor]`.
+37 types (9%) occur at least once with a non-empty value of `Person[psor]`.
+34 lemmas (11%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 2 part-of-speech tags: <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (38; 3% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
-36 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (12% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+38 <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> tokens (12% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (32; 89%), <tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt> (32; 89%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 83%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (26; 72%), <tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (21; 58%), <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20; 56%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (34; 89%), <tt><a href="apu_ufpa-feat-Possessed.html">Possessed</a></tt><tt>=Yes</tt> (32; 84%), <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt><tt>=Sing</tt> (30; 79%), <tt><a href="apu_ufpa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (26; 68%), <tt><a href="apu_ufpa-feat-Gender-psor.html">Gender[psor]</a></tt><tt>=EMPTY</tt> (21; 55%), <tt><a href="apu_ufpa-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20; 53%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -33,9 +33,9 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 ### `VERB`
 
-1 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
+4 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (2% of all `VERB` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="apu_ufpa-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (1; 100%).
+The most frequent other feature values with which `VERB` and `Person[psor]` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="apu_ufpa-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="apu_ufpa-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt> (4; 100%).
 
 `VERB` tokens may have the following values of `Person[psor]`:
 

@@ -24,7 +24,7 @@ The following 20 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 # visual-style 12 13 nmod:poss	color:blue
 1	Καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_2.1
 2	συνετελέσθησαν	συντελέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-finish|Ref=GEN_2.1
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_2.1
+3	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_2.1
 4	οὐρανὸς	οὐρανός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	Gloss=sky,heaven|Ref=GEN_2.1
 5	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next|Ref=GEN_2.1
 6	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=GEN_2.1
@@ -32,7 +32,7 @@ The following 20 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 8	,	,	PUNCT	_	_	9	punct	_	Ref=GEN_2.1
 9	καὶ	καί	CCONJ	_	_	12	cc	_	Gloss=and,also,even,then,next|Ref=GEN_2.1
 10	πᾶς	πᾶς	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	12	amod	_	Gloss=every,all|Ref=GEN_2.1
-11	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Gloss=the;-oh|Ref=GEN_2.1
+11	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Gloss=the;-oh|Ref=GEN_2.1
 12	κόσμος	κόσμος	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	Gloss=world|Ref=GEN_2.1
 13	αὐτῶν	αὐτός	PRON	_	Case=Gen|Gender=Fem,Masc,Neut|Number=Plur|PronType=Prs	12	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_2.1|SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	Ref=GEN_2.1
@@ -67,7 +67,7 @@ The following 20 pairs of parts of speech are connected with `nmod:poss`: <tt><a
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_5.23
 2	ἐγένοντο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Gloss=to-become,come-to-be|Ref=GEN_5.23
 3	πᾶσαι	πᾶς	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	amod	_	Gloss=all|Ref=GEN_5.23
-4	αἱ	ὁ	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	5	det	_	Gloss=the|Ref=GEN_5.23
+4	αἱ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	Gloss=the|Ref=GEN_5.23
 5	ἡμέραι	ἡμέρα	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	Gloss=days|Ref=GEN_5.23
 6	Ἐνώχ	Ἑνώχ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod:poss	_	Gloss=Enoch|Ref=GEN_5.23|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Ref=GEN_5.23

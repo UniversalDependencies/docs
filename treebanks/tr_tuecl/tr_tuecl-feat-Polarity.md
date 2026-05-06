@@ -59,5 +59,5 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 
 * `Neg` (1; 33% of non-empty `Polarity`): <em>kitapsız</em>
 * `Pos` (2; 67% of non-empty `Polarity`): <em>evde, öğrenci</em>
-* `EMPTY` (220): <em>evde, kitap, kitabı, okula, sabah, annesini, eve, çocuk, doktor, ekmek</em>
+* `EMPTY` (223): <em>evde, kitap, kitabı, okula, sabah, annesini, eve, çocuk, doktor, ekmek</em>
 

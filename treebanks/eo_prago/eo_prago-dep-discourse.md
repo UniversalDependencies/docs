@@ -23,10 +23,10 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 62	fgColor:white
 # visual-style 62 60 discourse	color:blue
 1	Kiam	kiam	SCONJ	_	_	9	mark	_	_
-2	la	la	DET	_	Definite=Def	3	det	_	_
+2	la	la	DET	_	Definite=Def|PronType=Art	3	det	_	_
 3	nombro	nombro	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
 4	de	de	ADP	_	_	6	case	_	_
-5	la	la	DET	_	Definite=Def	6	det	_	_
+5	la	la	DET	_	Definite=Def|PronType=Art	6	det	_	_
 6	Homaranoj	Homarano	NOUN	_	Case=Nom|Number=Plur	3	nmod	_	_
 7	estos	esti	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	9	cop	_	_
 8	sufiĉe	sufiĉe	ADV	_	_	9	advmod	_	_
@@ -35,7 +35,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 11	tiam	tiam	ADV	_	_	13	advmod	_	_
 12	estos	esti	AUX	_	Mood=Ind|Tense=Fut|VerbForm=Fin	13	aux:pass	_	_
 13	aranĝita	aranĝi	VERB	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-14	la	la	DET	_	Definite=Def	16	det	_	_
+14	la	la	DET	_	Definite=Def|PronType=Art	16	det	_	_
 15	unua	unua	ADJ	_	_	16	amod	_	_
 16	kongreso	kongreso	NOUN	_	Case=Nom|Number=Sing	13	nsubj:pass	_	_
 17	de	de	ADP	_	_	18	case	_	_
@@ -49,11 +49,11 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 25	)	)	PUNCT	_	_	24	punct	_	_
 26	detale	detale	ADV	_	_	27	advmod	_	_
 27	pridiskuti	pridiskuti	VERB	_	VerbForm=Inf	22	ccomp	_	_
-28	la	la	DET	_	Definite=Def	30	det	_	_
+28	la	la	DET	_	Definite=Def|PronType=Art	30	det	_	_
 29	tutan	tuta	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	30	amod	_	_
 30	enhavon	enhavo	NOUN	_	Case=Acc|Number=Sing	27	obj	_	_
 31	de	de	ADP	_	_	34	case	_	_
-32	la	la	DET	_	Definite=Def	34	det	_	_
+32	la	la	DET	_	Definite=Def|PronType=Art	34	det	_	_
 33	«	«	PUNCT	_	_	34	punct	_	SpaceAfter=No
 34	Deklaracio	deklaracio	NOUN	_	Case=Nom|Number=Sing	30	nmod	_	_
 35	pri	pri	ADP	_	_	36	case	_	_
@@ -94,7 +94,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 70	bone	bone	ADV	_	_	71	advmod	_	_
 71	doni	doni	VERB	_	VerbForm=Inf	64	acl:relcl	_	_
 72	al	al	ADP	_	_	74	case	_	_
-73	la	la	DET	_	Definite=Def	74	det	_	_
+73	la	la	DET	_	Definite=Def|PronType=Art	74	det	_	_
 74	Homaranismo	Homaranismo	NOUN	_	Case=Nom|Number=Sing	71	obl	_	_
 75	formon	formo	NOUN	_	Case=Acc|Number=Sing	71	obj	_	_
 76	aktivan	aktiva	ADJ	_	Case=Acc|Number=Sing	75	amod	_	_
@@ -103,7 +103,7 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 79	enkonduki	enkonduki	VERB	_	VerbForm=Inf	71	conj	_	_
 80	ĝin	ĝi	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	79	obj	_	_
 81	en	en	ADP	_	_	83	case	_	_
-82	la	la	DET	_	Definite=Def	83	det	_	_
+82	la	la	DET	_	Definite=Def|PronType=Art	83	det	_	_
 83	vivon	vivo	NOUN	_	Case=Acc|Number=Sing	79	obl	_	_
 84	praktikan	praktika	ADJ	_	Case=Acc|Number=Sing	83	amod	_	SpaceAfter=No
 85	.	.	PUNCT	_	_	13	punct	_	_

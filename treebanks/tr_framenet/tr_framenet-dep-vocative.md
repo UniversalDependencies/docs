@@ -22,12 +22,12 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 vocative	color:blue
-1	Yola	yol	NOUN	_	Case=Dat|Number=Sing|Person=3	2	compound	_	_
-2	davranın	davran	VERB	_	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
+1	Yola	yol	NOUN	_	Case=Dat|Number=Sing	2	compound	_	_
+2	davranın	davran	VERB	_	Mood=Imp|Number=Plur|Person=2|Polarity=Pos|VerbForm=Fin	7	parataxis	_	_
 3	haydi	haydi	INTJ	_	_	4	discourse	_	_
-4	oğlum	oğul	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=1	2	vocative	_	_
+4	oğlum	oğul	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	vocative	_	_
 5	,	,	PUNCT	_	_	7	punct	_	_
-6	işimiz	iş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person=3|Person[psor]=1	7	nsubj	_	_
+6	işimiz	iş	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1	7	nsubj	_	_
 7	çok	çok	ADV	_	_	0	root	_	_
 8	daha	daha	ADV	_	Degree=Cmp	7	advmod	_	_
 9	.	.	PUNCT	_	_	7	punct	_	_

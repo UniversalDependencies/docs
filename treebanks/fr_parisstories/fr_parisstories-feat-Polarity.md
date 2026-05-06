@@ -18,12 +18,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_parisstories-pos
 
 497 <tt><a href="fr_parisstories-pos-ADV.html">ADV</a></tt> tokens (14% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="fr_parisstories-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (481; 97%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="fr_parisstories-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (471; 95%).
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (497; 100% of non-empty `Polarity`): <em>pas, n', ne, que, non, plus, qu'</em>
-* `EMPTY` (2953): <em>donc, parce, enfin, vraiment, plus, là, tout, très, même, après</em>
+* `EMPTY` (3006): <em>donc, parce, enfin, vraiment, plus, là, tout, très, même, après</em>
 
 ### `SCONJ`
 
@@ -37,6 +37,6 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>ADV --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> ADV</tt> (2; 67%),
-<tt>ADV --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%).
+<tt>ADV --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> ADV</tt> (2; 100%),
+<tt>ADV --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> ADV</tt> (2; 67%).
 

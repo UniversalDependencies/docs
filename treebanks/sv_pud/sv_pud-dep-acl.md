@@ -50,7 +50,7 @@ The following 16 pairs of parts of speech are connected with `acl`: <tt><a href=
 2	togs	ta	VERB	VB|PRT|SFO	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 3	ett	en	DET	DT|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	4	det	4:det	_
 4	telegrafsystem	telegrafsystem	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	2	nsubj:pass	2:nsubj:pass	_
-5	utrustat	utrustad	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	4	acl	4:acl	_
+5	utrustat	utrustad	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	4	acl	4:acl	ParsemeMWE=1:NotMWE
 6	med	med	ADP	PP	_	8	case	8:case	_
 7	34	34	NUM	RG|NOM	Case=Nom	8	nummod	8:nummod	_
 8	brandlarmssignaler	brandlarmssignal	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	5	obl	5:obl:med	_
@@ -72,7 +72,7 @@ The following 16 pairs of parts of speech are connected with `acl`: <tt><a href=
 3	kan	kunna	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
 4	ses	se	VERB	VB|INF|SFO	VerbForm=Inf|Voice=Pass	0	root	0:root	_
 5	som	som	SCONJ	KN	_	6	mark	6:mark	_
-6	startpunkten	startpunkt	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	4	xcomp	4:xcomp	_
+6	startpunkten	startpunkt	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	4	xcomp	4:xcomp	ParsemeMWE=1:NID
 7	för	för	ADP	PP	_	9	case	9:case	_
 8	hans	han	PRON	PS|UTR/NEU|SIN/PLU|DEF	Definite=Def|Poss=Yes|PronType=Prs	9	nmod:poss	9:nmod:poss	_
 9	karriär	karriär	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	6	nmod	6:nmod:för	_

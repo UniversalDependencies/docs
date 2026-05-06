@@ -24,11 +24,11 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 
 * `Ast` (9; 1% of non-empty `NameType`): <em>Titan, Eous, Hesperus, Lucifer, Luciferum, Phebe, Phebus, Titana</em>
 * `Cal` (1; 0% of non-empty `NameType`): <em>Pascha</em>
-* `Geo` (252; 25% of non-empty `NameType`): <em>Ytalie, Ytalia, Tuscia, Florentia, Ytaliam, Europa, Europe, Ierusalem, Roma, Sarni</em>
+* `Geo` (253; 25% of non-empty `NameType`): <em>Ytalie, Ytalia, Tuscia, Florentia, Ytaliam, Europa, Europe, Ierusalem, Roma, Sarni</em>
 * `Giv` (500; 50% of non-empty `NameType`): <em>Petrus, Petri, Nicomacum, Israel, Lucanus, Lucas, Moysi, Alphesibeus, Dantes, David</em>
 * `Lit` (3; 0% of non-empty `NameType`): <em>Eneydem, Eneydos, Farsalie</em>
 * `Met` (1; 0% of non-empty `NameType`): <em>Euri</em>
-* `Oth` (3; 0% of non-empty `NameType`): <em>Capitolium, Capitolia</em>
+* `Oth` (2; 0% of non-empty `NameType`): <em>Capitolia, Capitolium</em>
 * `Rel` (36; 4% of non-empty `NameType`): <em>Apollo, Amphitritis, Dardanus, Electra, Herculis, Acidis, Anubis, Apollini, Astrea, Chyron</em>
 * `Sur` (193; 19% of non-empty `NameType`): <em>Cristus, Cristi, Cristum, Livius, Alagherii, Tullius, Cristo, Christi, Guinizelli, Orosius</em>
 
@@ -39,7 +39,7 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
   <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>Virgilius</em></td></tr>
 </table>
 
-`NameType` seems to be **lexical feature** of `PROPN`. 99% lemmas (355) occur only with one value of `NameType`.
+`NameType` seems to be **lexical feature** of `PROPN`. 99% lemmas (354) occur only with one value of `NameType`.
 
 ### `NOUN`
 

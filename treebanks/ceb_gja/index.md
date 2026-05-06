@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.10 release
 The following people have contributed to making this treebank part of UD: Glyd Aranes.
 
 Repository: [UD_Cebuano-GJA](https://github.com/UniversalDependencies/UD_Cebuano-GJA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udceb_gja217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udceb_gja218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -73,17 +73,17 @@ For suggestions on the treebank, you can contact Glyd through this email: glyd.a
 
 ## Relations
 
-[acl](ceb_gja-dep-acl.html) – [advcl](ceb_gja-dep-advcl.html) – [advmod](ceb_gja-dep-advmod.html) – [amod](ceb_gja-dep-amod.html) – [appos](ceb_gja-dep-appos.html) – [case](ceb_gja-dep-case.html) – [cc](ceb_gja-dep-cc.html) – [ccomp](ceb_gja-dep-ccomp.html) – [compound](ceb_gja-dep-compound.html) – [compound:redup](ceb_gja-dep-compound-redup.html) – [conj](ceb_gja-dep-conj.html) – [csubj](ceb_gja-dep-csubj.html) – [det](ceb_gja-dep-det.html) – [discourse](ceb_gja-dep-discourse.html) – [fixed](ceb_gja-dep-fixed.html) – [flat](ceb_gja-dep-flat.html) – [mark](ceb_gja-dep-mark.html) – [nmod](ceb_gja-dep-nmod.html) – [nsubj](ceb_gja-dep-nsubj.html) – [nummod](ceb_gja-dep-nummod.html) – [obj](ceb_gja-dep-obj.html) – [obl](ceb_gja-dep-obl.html) – [parataxis](ceb_gja-dep-parataxis.html) – [punct](ceb_gja-dep-punct.html) – [root](ceb_gja-dep-root.html) – [vocative](ceb_gja-dep-vocative.html)
+[acl](ceb_gja-dep-acl.html) – [advcl](ceb_gja-dep-advcl.html) – [advmod](ceb_gja-dep-advmod.html) – [amod](ceb_gja-dep-amod.html) – [appos](ceb_gja-dep-appos.html) – [case](ceb_gja-dep-case.html) – [cc](ceb_gja-dep-cc.html) – [ccomp](ceb_gja-dep-ccomp.html) – [compound](ceb_gja-dep-compound.html) – [compound:redup](ceb_gja-dep-compound-redup.html) – [conj](ceb_gja-dep-conj.html) – [csubj](ceb_gja-dep-csubj.html) – [det](ceb_gja-dep-det.html) – [discourse](ceb_gja-dep-discourse.html) – [fixed](ceb_gja-dep-fixed.html) – [flat](ceb_gja-dep-flat.html) – [mark](ceb_gja-dep-mark.html) – [nmod](ceb_gja-dep-nmod.html) – [nsubj](ceb_gja-dep-nsubj.html) – [nummod](ceb_gja-dep-nummod.html) – [obj](ceb_gja-dep-obj.html) – [obl](ceb_gja-dep-obl.html) – [orphan](ceb_gja-dep-orphan.html) – [parataxis](ceb_gja-dep-parataxis.html) – [punct](ceb_gja-dep-punct.html) – [root](ceb_gja-dep-root.html) – [vocative](ceb_gja-dep-vocative.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 197 sentences, 1278 tokens and 1377 syntactic words.</li>
+<li>This corpus contains 198 sentences, 1295 tokens and 1394 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 215 tokens (17%) that are not followed by a space.</li>
+<li>This corpus contains 216 tokens (17%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -556,7 +556,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (13)</li>
       <li>VERB--NOUN-ADP(sa) (20)</li>
-      <li>VERB--NOUN-ADP(ug) (16)</li>
+      <li>VERB--NOUN-ADP(ug) (17)</li>
       <li>VERB--PRON-Gen (7)</li>
       <li>VERB--PRON-Nom (5)</li>
     </ul>
@@ -577,5 +577,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 1 relation subtypes: <a>compound:redup</a></li>
-<li>The following 12 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>cop</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 11 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>cop</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

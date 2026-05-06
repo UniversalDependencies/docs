@@ -27,12 +27,12 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 3	Maria	Maria	PROPN	_	Case=Nom|Number=Sing	1	conj	_	_
 4	brakumis	brakumi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 5	unu	unu	NUM	_	_	4	obj	_	_
-6	la	la	DET	_	_	7	det	_	_
+6	la	la	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	alian	alia	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	5	compound	_	_
 8	kaj	kaj	CCONJ	_	_	10	cc	_	_
 9	poste	poste	ADV	_	_	10	advmod	_	_
 10	forlasis	forlasi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	_
-11	la	la	DET	_	_	12	det	_	_
+11	la	la	DET	_	Definite=Def|PronType=Art	12	det	_	_
 12	ĉambron	ĉambron	NOUN	_	Case=Acc|Number=Sing	10	obj	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	_
 

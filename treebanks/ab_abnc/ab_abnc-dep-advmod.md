@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advmod`: <tt><a href="ab_abnc-dep-advmod-q.html">advmod:q</a></tt>.
 
-606 nodes (6%) are attached to their parents as `advmod`.
+764 nodes (6%) are attached to their parents as `advmod`.
 
-563 instances of `advmod` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.82838283828383.
+712 instances of `advmod` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.88743455497382.
 
-The following 9 pairs of parts of speech are connected with `advmod`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (561; 93% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (21; 3% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `advmod`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (709; 93% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (27; 4% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

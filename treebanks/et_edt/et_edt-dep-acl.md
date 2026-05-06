@@ -63,7 +63,7 @@ The following 31 pairs of parts of speech are connected with `acl`: <tt><a href=
 2	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	6:nsubj	Arg=töötama_Arg_0
 3	ei	ei	AUX	V	Polarity=Neg	6	aux	6:aux	_
 4	ole	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	6:aux	_
-5	kunagi	kunagi	ADV	D	_	6	advmod	6:advmod	_
+5	kunagi	kunagi	ADV	D	_	6	advmod:tmod	6:advmod	_
 6	töötanud	töötama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	Verb=töötama
 7	selle	see	PRON	P	Case=Gen|Number=Sing|PronType=Dem	6	obl	6:obl	_
 8	nimel	nimel	ADP	K	AdpType=Post	7	case	7:case	SpaceAfter=No

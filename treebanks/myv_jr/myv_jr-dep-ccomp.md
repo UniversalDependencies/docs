@@ -68,7 +68,7 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 4	,	,	PUNCT	CLB	_	11	punct	_	_
 5	штобы	штобы	SCONJ	CS	_	11	mark	_	_
 6	весе	весе	PRON	Pron	Case=Nom|Definite=Ind|Number=Sing|PronType=Tot	8	det	_	GTtags=Tot,Sg,Nom,Indef
-7	трудиця	трудиця	NOUN	N	Case=Nom|Definite=Ind|Nomzr=Ag|Number=Sing	8	nmod	_	GTtags=Sg,Nom,Indef
+7	трудиця	трудиця	NOUN	N	Case=Nom|Definite=Ind|Number=Sing|VerbForm=NomAg	8	nmod	_	GTtags=Sg,Nom,Indef
 8	аватне	ава	NOUN	N	Case=Nom|Definite=Def|Number=Plur	11	nsubj	_	GTtags=Sem/Kin,Pl,Nom,Def
 9	улест	улемс	AUX	V	Mood=Opt|Number[subj]=Plur|Person[subj]=3|VerbForm=Fin	11	cop	_	GTtags=IV,Opt,ScPl3
 10	истят	истямо	PRON	Pron	Case=Nom|Definite=Ind|Number=Plur|PronType=Dem	11	det	_	GTtags=Dem,Pl,Nom,Indef

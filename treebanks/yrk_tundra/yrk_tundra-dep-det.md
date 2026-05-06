@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-8 nodes (1%) are attached to their parents as `det`.
+9 nodes (1%) are attached to their parents as `det`.
 
-8 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.375.
+9 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33333333333333.
 
-The following 3 pairs of parts of speech are connected with `det`: <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> (6; 75% instances), <tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt>-<tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> (1; 13% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (1; 13% instances).
+The following 3 pairs of parts of speech are connected with `det`: <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> (7; 78% instances), <tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt>-<tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> (1; 11% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (1; 11% instances).
 
 
 ~~~ conllu

@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	ont	avoir	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 5	indiqué	indiquer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	que	que	SCONJ	IN	_	12	mark	_	_
-7	c’	ce	PRON	PDEM	PronType=Dem	12	nsubj	_	SpaceAfter=No|wordform=c'
+7	c'	ce	PRON	PDEM	PronType=Dem	12	nsubj	_	SpaceAfter=No
 8	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 9	«	«	PUNCT	``	_	12	punct	_	_
 10	100	100	NUM	CD	_	11	nummod	_	SpaceAfter=No

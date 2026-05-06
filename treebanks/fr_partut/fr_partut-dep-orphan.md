@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 24 orphan	color:blue
-1	Je	je	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+1	Je	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	tiens	tenir	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	d'	de	ADP	E	_	4	case	_	SpaceAfter=No
 4	abord	abord	NOUN	S	Gender=Masc|Number=Sing	2	obl	_	_
@@ -47,7 +47,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 23	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	proposition	proposition	NOUN	S	Gender=Fem|Number=Sing	21	orphan	_	_
 25	qu'	que	PRON	PR	PronType=Rel	28	obj	_	SpaceAfter=No
-26	elle	elle	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
+26	elle	lui	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	nsubj	_	_
 27	a	avoir	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	_
 28	formulée	formuler	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	24	acl:relcl	_	SpaceAfter=No
 29	.	.	PUNCT	FS	_	2	punct	_	_
@@ -63,7 +63,7 @@ The following 2 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 9 10 orphan	color:blue
 1	Nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
 2	expirons	expirer	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	du	un	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	du	du	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	dioxyde	dioxyde	NOUN	S	Gender=Masc|Number=Sing	2	obj	_	_
 5	de	de	ADP	E	_	6	case	_	_
 6	carbone	carbone	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No

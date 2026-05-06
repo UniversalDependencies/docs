@@ -125,7 +125,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `Cmp` (1011; 18% of non-empty `Degree`): <em>vairāk, vēlāk, labāk, mazāk, tālāk, agrāk, ātrāk, biežāk, vieglāk, drīzāk</em>
 * `Pos` (4427; 79% of non-empty `Degree`): <em>daudz, labi, īpaši, bieži, grūti, aptuveni, viegli, vienkārši, ātri, ilgi</em>
 * `Sup` (134; 2% of non-empty `Degree`): <em>visvairāk, vislabāk, visbiežāk, visticamāk, vismazāk, visdrīzāk, visgrūtāk, visilgāk, visplašāk, visspilgtāk</em>
-* `EMPTY` (13019): <em>kad, jau, kā, tad, vēl, ļoti, kur, tā, tik, tāpēc</em>
+* `EMPTY` (13018): <em>kad, jau, kā, tad, vēl, ļoti, kur, tā, tik, tāpēc</em>
 
 <table>
   <tr><th>Paradigm <i>daudz</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -142,7 +142,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Pos` (459; 100% of non-empty `Degree`): <em>daudzi, vairāki, vairākas, vairākus, daudzas, vairākiem, vairāku, daudzus, daudziem, vairākās</em>
-* `EMPTY` (14869): <em>to, tas, tā, tās, savu, šo, tam, visu, šī, kuru</em>
+* `EMPTY` (14870): <em>to, tas, tā, tās, savu, šo, tam, visu, šī, kuru</em>
 
 ### `AUX`
 

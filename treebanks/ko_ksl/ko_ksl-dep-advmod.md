@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10577 nodes (8%) are attached to their parents as `advmod`.
+11980 nodes (8%) are attached to their parents as `advmod`.
 
-10540 instances of `advmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.85222652926161.
+11938 instances of `advmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.85392320534224.
 
-The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (7357; 70% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (2534; 24% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (377; 4% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (209; 2% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (92; 1% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `advmod`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (8276; 69% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (2857; 24% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (475; 4% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (258; 2% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (106; 1% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

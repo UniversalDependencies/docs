@@ -10,16 +10,16 @@ This feature is universal.
 It occurs with 9 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-11639 tokens (12%) have a non-empty value of `PronType`.
+11644 tokens (12%) have a non-empty value of `PronType`.
 178 types (1%) occur at least once with a non-empty value of `PronType`.
 56 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (6746; 7% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4893; 5% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (6751; 7% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4893; 5% instances).
 
 ### `PRON`
 
-6746 <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+6751 <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sv_talbanken-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6043; 90%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4293; 64%), <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4137; 61%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3657; 54%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sv_talbanken-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6048; 90%), <tt><a href="sv_talbanken-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4293; 64%), <tt><a href="sv_talbanken-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4142; 61%), <tt><a href="sv_talbanken-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3657; 54%).
 
 `PRON` tokens may have the following values of `PronType`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Neg` (31; 0% of non-empty `PronType`): <em>ingen, ingenting, inget, inga, ingendera</em>
 * `Prs` (4055; 60% of non-empty `PronType`): <em>det, de, sig, vi, den, du, sin, dem, han, sina</em>
 * `Rcp` (43; 1% of non-empty `PronType`): <em>varandra, varann, varandras</em>
-* `Rel` (1216; 18% of non-empty `PronType`): <em>som, vad, vilket, vilka, vars, vilken, något, vilkas, man</em>
+* `Rel` (1221; 18% of non-empty `PronType`): <em>som, vad, vilket, vilka, vars, vilken, något, vilkas, man</em>
 * `Tot` (107; 2% of non-empty `PronType`): <em>alla, var, allt, båda, allting, vart, bägge, bådadera, ena, ene</em>
 
 <table>

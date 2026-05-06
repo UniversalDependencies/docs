@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-6264 tokens (3%) have a non-empty value of `Definite`.
-19 types (0%) occur at least once with a non-empty value of `Definite`.
-7 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 1 part-of-speech tags: <tt><a href="tr_penn-pos-DET.html">DET</a></tt> (6264; 3% instances).
+6702 tokens (4%) have a non-empty value of `Definite`.
+20 types (0%) occur at least once with a non-empty value of `Definite`.
+9 lemmas (0%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 1 part-of-speech tags: <tt><a href="tr_penn-pos-DET.html">DET</a></tt> (6702; 4% instances).
 
 ### `DET`
 
-6264 <tt><a href="tr_penn-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Definite`.
+6702 <tt><a href="tr_penn-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="tr_penn-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (6264; 100%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="tr_penn-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3780; 56%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (2095; 33% of non-empty `Definite`): <em>bu, her, o, şu, herhangi</em>
-* `Ind` (4169; 67% of non-empty `Definite`): <em>bir, bazı, birkaç, BİR, Bİr, birçok, hedef</em>
-* `EMPTY` (517): <em>birçok, tüm, hiçbir, çok, Bir, o</em>
+* `Def` (2273; 34% of non-empty `Definite`): <em>bu, her, tüm, o, şu</em>
+* `Ind` (4429; 66% of non-empty `Definite`): <em>bir, bazı, birçok, birkaç, BİR, Bİr</em>
+* `EMPTY` (130): <em>hiçbir, çok</em>
 

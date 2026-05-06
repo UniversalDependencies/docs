@@ -1,19 +1,19 @@
 ---
 layout: base
-title:  'Statistics of vocative in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of vocative in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `vocative`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `vocative`
 
 This relation is universal.
 
-19 nodes (0%) are attached to their parents as `vocative`.
+26 nodes (0%) are attached to their parents as `vocative`.
 
-10 instances of `vocative` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.52631578947368.
+14 instances of `vocative` (54%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.19230769230769.
 
-The following 8 pairs of parts of speech are connected with `vocative`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (6; 32% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (4; 21% instances), <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (2; 11% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (2; 11% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (2; 11% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 5% instances).
+The following 11 pairs of parts of speech are connected with `vocative`: <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (7; 27% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (6; 23% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (3; 12% instances), <tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (2; 8% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (1; 4% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -36,28 +36,36 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 vocative	color:blue
-1	Ixcochi	cochi	VERB	_	Mood=Imp|VerbForm=Fin	0	root	0:root	NormalizedForm=ixkochi|NormalizedLemma=kochi|Number[subj]=Sing|Person[subj]=2|Subcat=Intr
-2	cochi	cochi	VERB	_	Mood=Ind|VerbForm=Fin	1	discourse	1:discourse	NormalizedForm=kochi|NormalizedLemma=kochi|Number[subj]=Sing|Person[subj]=3|Subcat=Intr
-3	ticpin	ticpin	NOUN	_	Case=Abs	1	vocative	1:vocative	NormalizedForm=tikpin|NormalizedLemma=tikpin|SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	1:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 vocative	color:blue
+1	Nantzi	nantzi	NOUN	_	_	2	vocative	2:vocative	_
+2	ximopacho	opacha	VERB	_	_	0	root	0:root	_
+3	nican	nican	ADV	_	_	2	advmod	2:advmod	_
+4	touan	uantli	NOUN	_	_	2	obl	2:obl	_
+5	tlamo	tlamo	SCONJ	_	_	9	mark	9:mark	_
+6	ompa	ompa	ADV	_	_	9	advmod	9:advmod	_
+7	amo	amo	ADV	_	_	9	advmod	9:advmod	_
+8	tlen	tlen	PRON	_	_	9	obj	9:obj	_
+9	ticaquis	caqui	VERB	_	_	2	advcl	2:advcl	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 vocative	color:blue
-1	Xamo	xamo	INTJ	_	_	0	root	0:root	NormalizedForm=xamo|NormalizedLemma=xamo
-2	Cooper	Cooper	PROPN	_	_	1	vocative	1:vocative	NormalizedForm=cooper|NormalizedLemma=kooper|SpaceAfter=No
-3	?	?	PUNCT	_	_	1	punct	1:punct	NormalizedForm=?|NormalizedLemma=?
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 vocative	color:blue
+1	¿	¿	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
+2	Tlenon	tleno	PRON	_	_	3	obj	3:obj	_
+3	quichiuas	chiua	VERB	_	_	0	root	0:root	_
+4	Juan	uan	PROPN	_	_	3	vocative	3:vocative	SpaceAfter=No
+5	?	?	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
 
 ~~~
 

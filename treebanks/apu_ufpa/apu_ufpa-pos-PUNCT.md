@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Apurina-UFPA: POS Tags: `PUNCT`
 
-There are 8 `PUNCT` lemmas (3%), 7 `PUNCT` types (2%) and 231 `PUNCT` tokens (23%).
+There are 8 `PUNCT` lemmas (2%), 7 `PUNCT` types (2%) and 250 `PUNCT` tokens (23%).
 Out of 16 observed tags, the rank of `PUNCT` is: 6 in number of lemmas, 8 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, ?, –, _, :, !, ;</em>
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 0.875000 (the average of all parts of speech is 1.250825).
+The form / lemma ratio of `PUNCT` is 0.875000 (the average of all parts of speech is 1.264438).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em>., ?</em>.
 
@@ -34,11 +34,11 @@ The 3rd highest number of forms (1) was observed with the lemma “,”: <em>,</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="apu_ufpa-dep-punct.html">punct</a></tt> (231; 100% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="apu_ufpa-dep-punct.html">punct</a></tt> (250; 100% instances)
 
-Parents of `PUNCT` nodes belong to 7 different parts of speech: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (174; 75% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (35; 15% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (7; 3% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (6; 3% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="apu_ufpa-pos-INTJ.html">INTJ</a></tt> (2; 1% instances)
+Parents of `PUNCT` nodes belong to 7 different parts of speech: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (192; 77% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (35; 14% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (8; 3% instances), <tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="apu_ufpa-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="apu_ufpa-pos-INTJ.html">INTJ</a></tt> (2; 1% instances)
 
-231 (100%) `PUNCT` nodes are leaves.
+250 (100%) `PUNCT` nodes are leaves.
 
 The highest child degree of a `PUNCT` node is 0.
 

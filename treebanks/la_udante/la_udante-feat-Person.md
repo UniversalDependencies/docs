@@ -20,14 +20,14 @@ The feature is used with 3 part-of-speech tags: <tt><a href="la_udante-pos-VERB.
 
 4799 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4799; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4799; 100%), <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (4799; 100%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4799; 100%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4073; 85%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4036; 84%), <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3651; 76%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3586; 75%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3346; 70%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4799; 100%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4799; 100%), <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (4799; 100%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4799; 100%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (4073; 85%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4036; 84%), <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3651; 76%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3587; 75%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3346; 70%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (774; 16% of non-empty `Person`): <em>dicimus, dico, videmus, vocamus, habemus, possumus, diximus, appellamus, intendimus, consideremus</em>
 * `2` (248; 5% of non-empty `Person`): <em>dic, nolite, ades, venite, Vade, Videbitis, age, attendatis, dedisti, dignemini</em>
 * `3` (3777; 79% of non-empty `Person`): <em>potest, patet, habet, videtur, dicit, oportet, dicitur, dicunt, sequitur, possit</em>
-* `EMPTY` (3435): <em>consequens, habere, dictum, sciendum, facere, fieri, dici, posse, dicere, existente</em>
+* `EMPTY` (3436): <em>consequens, habere, dictum, sciendum, facere, fieri, dici, posse, dicere, existente</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -110,7 +110,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> VERB</tt> (704; 77%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (423; 50%),
-<tt>VERB --[<tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (137; 53%),
+<tt>VERB --[<tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (137; 52%),
 <tt>VERB --[<tt><a href="la_udante-dep-csubj-relcl.html">csubj:relcl</a></tt>]--> VERB</tt> (38; 64%),
 <tt>VERB --[<tt><a href="la_udante-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (36; 67%),
 <tt>VERB --[<tt><a href="la_udante-dep-conj-expl.html">conj:expl</a></tt>]--> VERB</tt> (23; 74%),

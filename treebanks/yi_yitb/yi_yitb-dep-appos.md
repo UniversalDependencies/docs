@@ -28,11 +28,11 @@ The following 16 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	איך	איך	PRON	_	_	5	nsubj	_	Translit=ikh|Translit_Lemma=ikh
 5	װױן	ווױ	VERB	_	_	2	ccomp	_	Translit=voyn|Translit_Lemma=voy
 6	מיט	מיט	ADP	_	_	8	case	_	Translit=mit|Translit_Lemma=mit
-7	צװײ	_	NUM	_	_	8	nummod	_	Translit=tsvey
+7	צװײ	צװײ	NUM	_	_	8	nummod	_	Translit=tsvey|Translit_Lemma=tsvey
 8	שוטב־חיות	שוטב־חי	NOUN	_	_	5	obl	_	SpaceAfter=No|Translit=shutev-khiyes|Translit_Lemma=shoytev-khay
 9	,	,	PUNCT	_	_	12	punct	_	Translit=,|Translit_Lemma=,
 10	מײַנע	מײַנע	DET	_	_	12	det:poss	_	Translit=mayne|Translit_Lemma=mayne
-11	צװײ	_	NUM	_	_	12	nummod	_	Translit=tsvey
+11	צװײ	צװײ	NUM	_	_	12	nummod	_	Translit=tsvey|Translit_Lemma=tsvey
 12	קעץ	קאַץ	NOUN	_	_	8	appos	_	SpaceAfter=No|Translit=kets|Translit_Lemma=kats
 13	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
 

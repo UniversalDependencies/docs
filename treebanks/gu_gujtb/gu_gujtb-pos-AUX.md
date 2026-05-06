@@ -61,13 +61,7 @@ The 2nd highest number of forms (9) was observed with the lemma “_”: <em>ચ
 
 The 3rd highest number of forms (5) was observed with the lemma “ગયું”: <em>ગઈ, ગયા, ગયું, ગયો, જાય</em>.
 
-`AUX` occurs with 1 features: <tt><a href="gu_gujtb-feat-Mood.html">Mood</a></tt> (1; 1% instances)
-
-`AUX` occurs with 1 feature-value pairs: `Mood=Nec`
-
-`AUX` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (183 tokens).
-Examples: <em>છે, હતી, હતો, નથી, હતા, શકો, ગયા, છે., છો, નહીં</em>
+`AUX` does not occur with any features.
 
 
 ## Relations

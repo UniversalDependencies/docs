@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-368 nodes (2%) are attached to their parents as `fixed`.
+316 nodes (1%) are attached to their parents as `fixed`.
 
-368 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33152173913043.
+316 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.38607594936709.
 
-The following 24 pairs of parts of speech are connected with `fixed`: <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (116; 32% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (61; 17% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (52; 14% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (33; 9% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-DET.html">DET</a></tt> (22; 6% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (19; 5% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (18; 5% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 27 pairs of parts of speech are connected with `fixed`: <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (92; 29% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (61; 19% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (34; 11% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-DET.html">DET</a></tt> (22; 7% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (15; 5% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (14; 4% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (13; 4% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (11; 3% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (9; 3% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-AUX.html">AUX</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt>-<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -62,24 +62,24 @@ The following 24 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 fixed	color:blue
-1	Van	ir	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	a	a	ADP	IN	_	1	fixed	_	_
-3	ir	ir	VERB	VB	VerbForm=Inf	1	xcomp	_	_
-4	a	a	ADP	IN	ExtPos=ADP	6	case	_	_
-5	por	por	ADP	IN	_	4	fixed	_	_
-6	todas	todo	NOUN	NN	Gender=Fem|Number=Plur	1	obl	_	_
-7	y	y	CCONJ	CC	_	9	cc	_	_
-8	a	a	SCONJ	IN	_	9	mark	_	_
-9	intentar	intentar	VERB	VB	VerbForm=Inf	6	conj	_	_
-10	ganar	ganar	VERB	VB	VerbForm=Inf	9	xcomp	_	_
-11	a	a	ADP	IN	_	12	case	_	_
-12	Inglaterra	Inglaterra	PROPN	NNP	Number=Sing	10	obl	_	SpaceAfter=No
-13	.	.	PUNCT	.	PunctType=Peri	1	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 fixed	color:blue
+1	Quizás	quizás	ADV	RB	_	3	advmod	_	_
+2	no	no	ADV	RB	Polarity=Neg	3	advmod	_	_
+3	importe	importar	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	,	PunctType=Comm	9	punct	_	_
+5	ya	ya	ADV	RB	ExtPos=SCONJ	9	mark	_	_
+6	que	que	ADP	IN	_	5	fixed	_	_
+7	no	no	ADV	RB	Polarity=Neg	9	advmod	_	_
+8	estaré	estar	AUX	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	9	aux	_	_
+9	preocupado	preocupar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
+10	por	por	ADP	IN	_	12	case	_	_
+11	mucho	mucho	DET	DT	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	12	det	_	_
+12	tiempo	tiempo	NOUN	NN	Gender=Masc|Number=Sing	9	obl:agent	_	SpaceAfter=No
+13	.	.	PUNCT	.	PunctType=Peri	3	punct	_	_
 
 ~~~
 

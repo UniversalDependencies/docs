@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Alina Wróblewska, Daniel Zeman, Jan Mašek, Rudolf Rosa.
 
 Repository: [UD_Polish-PDB](https://github.com/UniversalDependencies/UD_Polish-PDB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pdb217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_pdb218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -51,13 +51,18 @@ The Polish PDB-UD treebank is automatically converted from the Polish Dependency
 
 The PDB-UD treebank consists of 22,152 sentences (350K tokens) from [Polish National Corpus](http://nkjp.pl), [Europarl](http://www.statmt.org/europarl), [DGT-Translation Memory](https://ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory), [OPUS](http://opus.nlpl.eu), [Pelcra Parallel Corpus](http://metashare.dfki.de/repository/browse/pelcra-polish-english-parallel-corpus-of-literary-works-cc-by/e99fa4c063f111e2bff4525400d761472dc239ffeb6f47bda0553af53ddd5ef0/), [CDSCorpus](http://zil.ipipan.waw.pl/Scwad/CDSCorpus) and literature. PDB-UD is an extended and corrected version of the Polish SZ-UD treebank (release 1.2 to 2.3).
 
-The morphological, syntactic and semantic annotation of the PDB-UD treebank is rule-based converted from PDB 2.0 data.
+The morphological, syntactic and semantic annotation of the PDB-UD treebank is rule-based, converted from PDB 2.0 data.
 
 The PDB-UD treebank contains enhanced graphs, i.e. trees with enhanced edges encoding the shared dependents and the shared governors of coordinated conjuncts (9141 PDB-UD trees contain enhanced edges).
 
 ## Acknowledgments
 
-We want to thank all of the original Polish Dependency Bank 2.0 contributors. The development of the PDB-UD treebank (v2.5) was founded by the Polish Ministry of Science and Higher Education as part of the investment in the CLARIN-PL research infrastructure. The development of the PDB-UD treebank (v2.13) was founded by Digital Research Infrastructure for the Arts and Humanities DARIAH-PL (project no. POIR.04.02.00-00-D006/20-00).
+We want to thank all contributors to the original Polish Dependency Bank 2.0, as well as the supporting and founding institutions:
+
+* The development of the PDB-UD treebank (v2.18) was funded by the Polish Ministry of Science and Higher Education as part of the investment in the [CLARIN-PL](https://clarin-pl.eu//) research infrastructure (CLARIN Quintus, grant number: 2024/WK/01).
+* This work was supported by COST Action CA21167 - Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr)).
+* The development of the PDB-UD treebank (v2.13) was funded by Digital Research Infrastructure for the Arts and Humanities DARIAH-PL (project no. POIR.04.02.00-00-D006/20-00).
+* The development of the PDB-UD treebank (v2.5) was funded by the Polish Ministry of Science and Higher Education as part of the investment in the CLARIN-PL research infrastructure.
 
 
 
@@ -69,11 +74,11 @@ We want to thank all of the original Polish Dependency Bank 2.0 contributors. Th
 
 ## Features
 
-[Abbr](pl_pdb-feat-Abbr.html) – [AdpType](pl_pdb-feat-AdpType.html) – [Animacy](pl_pdb-feat-Animacy.html) – [Aspect](pl_pdb-feat-Aspect.html) – [Case](pl_pdb-feat-Case.html) – [ConjType](pl_pdb-feat-ConjType.html) – [Degree](pl_pdb-feat-Degree.html) – [Foreign](pl_pdb-feat-Foreign.html) – [Gender](pl_pdb-feat-Gender.html) – [Hyph](pl_pdb-feat-Hyph.html) – [Mood](pl_pdb-feat-Mood.html) – [Number](pl_pdb-feat-Number.html) – [Number[psor]](pl_pdb-feat-Number-psor.html) – [NumForm](pl_pdb-feat-NumForm.html) – [NumType](pl_pdb-feat-NumType.html) – [PartType](pl_pdb-feat-PartType.html) – [Person](pl_pdb-feat-Person.html) – [Polarity](pl_pdb-feat-Polarity.html) – [Polite](pl_pdb-feat-Polite.html) – [Poss](pl_pdb-feat-Poss.html) – [PrepCase](pl_pdb-feat-PrepCase.html) – [PronType](pl_pdb-feat-PronType.html) – [PunctSide](pl_pdb-feat-PunctSide.html) – [PunctType](pl_pdb-feat-PunctType.html) – [Reflex](pl_pdb-feat-Reflex.html) – [Tense](pl_pdb-feat-Tense.html) – [Variant](pl_pdb-feat-Variant.html) – [VerbForm](pl_pdb-feat-VerbForm.html) – [VerbType](pl_pdb-feat-VerbType.html) – [Voice](pl_pdb-feat-Voice.html)
+[Abbr](pl_pdb-feat-Abbr.html) – [AdpType](pl_pdb-feat-AdpType.html) – [Animacy](pl_pdb-feat-Animacy.html) – [Aspect](pl_pdb-feat-Aspect.html) – [Case](pl_pdb-feat-Case.html) – [ConjType](pl_pdb-feat-ConjType.html) – [Degree](pl_pdb-feat-Degree.html) – [ExtPos](pl_pdb-feat-ExtPos.html) – [Foreign](pl_pdb-feat-Foreign.html) – [Gender](pl_pdb-feat-Gender.html) – [Hyph](pl_pdb-feat-Hyph.html) – [Mood](pl_pdb-feat-Mood.html) – [Number](pl_pdb-feat-Number.html) – [Number[psor]](pl_pdb-feat-Number-psor.html) – [NumForm](pl_pdb-feat-NumForm.html) – [NumType](pl_pdb-feat-NumType.html) – [PartType](pl_pdb-feat-PartType.html) – [Person](pl_pdb-feat-Person.html) – [Polarity](pl_pdb-feat-Polarity.html) – [Polite](pl_pdb-feat-Polite.html) – [Poss](pl_pdb-feat-Poss.html) – [PrepCase](pl_pdb-feat-PrepCase.html) – [PronType](pl_pdb-feat-PronType.html) – [PunctSide](pl_pdb-feat-PunctSide.html) – [PunctType](pl_pdb-feat-PunctType.html) – [Reflex](pl_pdb-feat-Reflex.html) – [Tense](pl_pdb-feat-Tense.html) – [Variant](pl_pdb-feat-Variant.html) – [VerbForm](pl_pdb-feat-VerbForm.html) – [VerbType](pl_pdb-feat-VerbType.html) – [Voice](pl_pdb-feat-Voice.html)
 
 ## Relations
 
-[acl](pl_pdb-dep-acl.html) – [acl:relcl](pl_pdb-dep-acl-relcl.html) – [advcl](pl_pdb-dep-advcl.html) – [advcl:cmpr](pl_pdb-dep-advcl-cmpr.html) – [advcl:relcl](pl_pdb-dep-advcl-relcl.html) – [advmod](pl_pdb-dep-advmod.html) – [advmod:arg](pl_pdb-dep-advmod-arg.html) – [advmod:emph](pl_pdb-dep-advmod-emph.html) – [advmod:neg](pl_pdb-dep-advmod-neg.html) – [amod](pl_pdb-dep-amod.html) – [amod:flat](pl_pdb-dep-amod-flat.html) – [appos](pl_pdb-dep-appos.html) – [aux](pl_pdb-dep-aux.html) – [aux:clitic](pl_pdb-dep-aux-clitic.html) – [aux:cnd](pl_pdb-dep-aux-cnd.html) – [aux:imp](pl_pdb-dep-aux-imp.html) – [aux:pass](pl_pdb-dep-aux-pass.html) – [case](pl_pdb-dep-case.html) – [cc](pl_pdb-dep-cc.html) – [cc:preconj](pl_pdb-dep-cc-preconj.html) – [ccomp](pl_pdb-dep-ccomp.html) – [ccomp:cleft](pl_pdb-dep-ccomp-cleft.html) – [ccomp:obj](pl_pdb-dep-ccomp-obj.html) – [conj](pl_pdb-dep-conj.html) – [cop](pl_pdb-dep-cop.html) – [csubj](pl_pdb-dep-csubj.html) – [csubj:pass](pl_pdb-dep-csubj-pass.html) – [dep](pl_pdb-dep-dep.html) – [det](pl_pdb-dep-det.html) – [det:numgov](pl_pdb-dep-det-numgov.html) – [det:nummod](pl_pdb-dep-det-nummod.html) – [det:poss](pl_pdb-dep-det-poss.html) – [discourse](pl_pdb-dep-discourse.html) – [discourse:intj](pl_pdb-dep-discourse-intj.html) – [expl:pv](pl_pdb-dep-expl-pv.html) – [fixed](pl_pdb-dep-fixed.html) – [flat](pl_pdb-dep-flat.html) – [flat:foreign](pl_pdb-dep-flat-foreign.html) – [iobj](pl_pdb-dep-iobj.html) – [list](pl_pdb-dep-list.html) – [mark](pl_pdb-dep-mark.html) – [nmod](pl_pdb-dep-nmod.html) – [nmod:arg](pl_pdb-dep-nmod-arg.html) – [nmod:flat](pl_pdb-dep-nmod-flat.html) – [nmod:poss](pl_pdb-dep-nmod-poss.html) – [nmod:pred](pl_pdb-dep-nmod-pred.html) – [nsubj](pl_pdb-dep-nsubj.html) – [nsubj:pass](pl_pdb-dep-nsubj-pass.html) – [nummod](pl_pdb-dep-nummod.html) – [nummod:flat](pl_pdb-dep-nummod-flat.html) – [nummod:gov](pl_pdb-dep-nummod-gov.html) – [obj](pl_pdb-dep-obj.html) – [obl](pl_pdb-dep-obl.html) – [obl:agent](pl_pdb-dep-obl-agent.html) – [obl:arg](pl_pdb-dep-obl-arg.html) – [obl:cmpr](pl_pdb-dep-obl-cmpr.html) – [obl:orphan](pl_pdb-dep-obl-orphan.html) – [orphan](pl_pdb-dep-orphan.html) – [parataxis:insert](pl_pdb-dep-parataxis-insert.html) – [parataxis:obj](pl_pdb-dep-parataxis-obj.html) – [punct](pl_pdb-dep-punct.html) – [root](pl_pdb-dep-root.html) – [vocative](pl_pdb-dep-vocative.html) – [xcomp](pl_pdb-dep-xcomp.html) – [xcomp:cleft](pl_pdb-dep-xcomp-cleft.html) – [xcomp:pred](pl_pdb-dep-xcomp-pred.html) – [xcomp:subj](pl_pdb-dep-xcomp-subj.html)
+[acl](pl_pdb-dep-acl.html) – [acl:cmp](pl_pdb-dep-acl-cmp.html) – [acl:relcl](pl_pdb-dep-acl-relcl.html) – [advcl](pl_pdb-dep-advcl.html) – [advcl:cmp](pl_pdb-dep-advcl-cmp.html) – [advcl:relcl](pl_pdb-dep-advcl-relcl.html) – [advmod](pl_pdb-dep-advmod.html) – [advmod:arg](pl_pdb-dep-advmod-arg.html) – [advmod:cmp](pl_pdb-dep-advmod-cmp.html) – [advmod:emph](pl_pdb-dep-advmod-emph.html) – [advmod:neg](pl_pdb-dep-advmod-neg.html) – [amod](pl_pdb-dep-amod.html) – [amod:cmp](pl_pdb-dep-amod-cmp.html) – [amod:flat](pl_pdb-dep-amod-flat.html) – [appos](pl_pdb-dep-appos.html) – [aux](pl_pdb-dep-aux.html) – [aux:clitic](pl_pdb-dep-aux-clitic.html) – [aux:cnd](pl_pdb-dep-aux-cnd.html) – [aux:imp](pl_pdb-dep-aux-imp.html) – [aux:pass](pl_pdb-dep-aux-pass.html) – [case](pl_pdb-dep-case.html) – [cc](pl_pdb-dep-cc.html) – [cc:preconj](pl_pdb-dep-cc-preconj.html) – [ccomp](pl_pdb-dep-ccomp.html) – [ccomp:cleft](pl_pdb-dep-ccomp-cleft.html) – [ccomp:obj](pl_pdb-dep-ccomp-obj.html) – [conj](pl_pdb-dep-conj.html) – [cop](pl_pdb-dep-cop.html) – [csubj](pl_pdb-dep-csubj.html) – [csubj:pass](pl_pdb-dep-csubj-pass.html) – [dep](pl_pdb-dep-dep.html) – [det](pl_pdb-dep-det.html) – [det:numgov](pl_pdb-dep-det-numgov.html) – [det:nummod](pl_pdb-dep-det-nummod.html) – [det:poss](pl_pdb-dep-det-poss.html) – [discourse](pl_pdb-dep-discourse.html) – [discourse:intj](pl_pdb-dep-discourse-intj.html) – [expl:pv](pl_pdb-dep-expl-pv.html) – [fixed](pl_pdb-dep-fixed.html) – [flat](pl_pdb-dep-flat.html) – [flat:foreign](pl_pdb-dep-flat-foreign.html) – [iobj](pl_pdb-dep-iobj.html) – [list](pl_pdb-dep-list.html) – [mark](pl_pdb-dep-mark.html) – [nmod](pl_pdb-dep-nmod.html) – [nmod:arg](pl_pdb-dep-nmod-arg.html) – [nmod:cmp](pl_pdb-dep-nmod-cmp.html) – [nmod:flat](pl_pdb-dep-nmod-flat.html) – [nmod:poss](pl_pdb-dep-nmod-poss.html) – [nmod:pred](pl_pdb-dep-nmod-pred.html) – [nsubj](pl_pdb-dep-nsubj.html) – [nsubj:pass](pl_pdb-dep-nsubj-pass.html) – [nummod](pl_pdb-dep-nummod.html) – [nummod:flat](pl_pdb-dep-nummod-flat.html) – [nummod:gov](pl_pdb-dep-nummod-gov.html) – [obj](pl_pdb-dep-obj.html) – [obl](pl_pdb-dep-obl.html) – [obl:agent](pl_pdb-dep-obl-agent.html) – [obl:arg](pl_pdb-dep-obl-arg.html) – [obl:cmp](pl_pdb-dep-obl-cmp.html) – [obl:orphan](pl_pdb-dep-obl-orphan.html) – [orphan](pl_pdb-dep-orphan.html) – [parataxis](pl_pdb-dep-parataxis.html) – [parataxis:insert](pl_pdb-dep-parataxis-insert.html) – [parataxis:obj](pl_pdb-dep-parataxis-obj.html) – [punct](pl_pdb-dep-punct.html) – [reparandum](pl_pdb-dep-reparandum.html) – [root](pl_pdb-dep-root.html) – [vocative](pl_pdb-dep-vocative.html) – [xcomp](pl_pdb-dep-xcomp.html) – [xcomp:cleft](pl_pdb-dep-xcomp-cleft.html) – [xcomp:pred](pl_pdb-dep-xcomp-pred.html) – [xcomp:subj](pl_pdb-dep-xcomp-subj.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -108,7 +113,7 @@ We want to thank all of the original Polish Dependency Bank 2.0 contributors. Th
 </ul>
 
 <ul>
-<li>This corpus contains 147 word types tagged as particles (PART): Azaliż, Czyżby, Jakżeż, Moze, Niemalże, Niemniej, Notabene, Otóż, a, aby, akurat, ale, ani, aż, ba, blisko, bo, bodaj, bowiem, byle, bynajmniej, chociaż, chociażby, choć, choćby, chyba, co, coś, czy, czyż, dokładnie, dopiero, doprawdy, dosyć, dosłownie, dość, gdyby, gdzieś, generalnie, głównie, i, istotnie, jakby, jakoby, jednak, jednakże, jedynie, jeszce, jeszcze, już, konkretnie, lada, ledwie, mianowicie, może, nadto, najpewniej, najwidoczniej, najwyraźniej, najwyżej, naprawdę, nareszcie, nawet, niby, nie, niejako, niemal, nieomal, nieprawdaż, niespełna, niestety, no, nuż, oby, oczywiście, ok, około, osobiście, ot, oto, owszem, pewnie, podobno, ponad, ponadto, poniekąd, ponoć, praktycznie, prawdopodobnie, prawie, przecie, przecież, przeciwnie, przeszło, przynajmniej, raczej, raptem, rzekomo, również, skądinąd, szczególnie, tak, także, tam, tego, teoretycznie, też, to, toż, trochę, tu, tuż, tylko, wcale, widać, widocznie, więc, wprawdzie, wprost, wreszcie, wręcz, wszak, wszakże, wyłącznie, właściwie, właśnie, z, za, zaledwie, zapewne, zaraz, zarazem, zarówno, zasadniczo, zaś, zdecydowanie, ze, zgoła, znacznie, znowu, znowuż, znów, zresztą, zwłaszcza, zynajmniej, Żeby, że</li>
+<li>This corpus contains 148 word types tagged as particles (PART): Azaliż, Czyżby, Jakżeż, Moze, Niemalże, Niemniej, Notabene, Otóż, a, aby, akurat, ale, ani, aż, ba, blisko, bo, bodaj, bowiem, byle, bynajmniej, chociaż, chociażby, choć, choćby, chyba, co, coś, czy, czym, czyż, dokładnie, dopiero, doprawdy, dosyć, dosłownie, dość, gdyby, gdzieś, generalnie, głównie, i, istotnie, jakby, jakoby, jednak, jednakże, jedynie, jeszce, jeszcze, już, konkretnie, lada, ledwie, mianowicie, może, nadto, najpewniej, najwidoczniej, najwyraźniej, najwyżej, naprawdę, nareszcie, nawet, niby, nie, niejako, niemal, nieomal, nieprawdaż, niespełna, niestety, no, nuż, oby, oczywiście, ok, około, osobiście, ot, oto, owszem, pewnie, podobno, ponad, ponadto, poniekąd, ponoć, praktycznie, prawdopodobnie, prawie, przecie, przecież, przeciwnie, przeszło, przynajmniej, raczej, raptem, rzekomo, również, skądinąd, szczególnie, tak, także, tam, tego, teoretycznie, też, to, toż, trochę, tu, tuż, tylko, wcale, widać, widocznie, więc, wprawdzie, wprost, wreszcie, wręcz, wszak, wszakże, wyłącznie, właściwie, właśnie, z, za, zaledwie, zapewne, zaraz, zarazem, zarówno, zasadniczo, zaś, zdecydowanie, ze, zgoła, znacznie, znowu, znowuż, znów, zresztą, zwłaszcza, zynajmniej, Żeby, że</li>
 </ul>
 
 <ul>
@@ -279,7 +284,7 @@ We want to thank all of the original Polish Dependency Bank 2.0 contributors. Th
       <li>NOUN: pies, złotych, ptak, psy, dolarów, psa, konia, kot, konie, koniu</li>
       <li>NUM: dwa, trzy, 2, 3, 100, pięć, 1500, 20, 5, 500</li>
       <li>PRON: go, jego, ich, mu, nim, niego, nimi, im, nich, one</li>
-      <li>PROPN: Fiata, Dingiem, Humphrey, Instagramie, Mars, Odiego, Piast, Pożeracz, Presa, Saturna</li>
+      <li>PROPN: Fiata, Dingiem, Humphrey, Instagramie, Mars, Odiego, Piast, Pożeracz, Saturna, Wujka</li>
       <li>VERB-Fin: mógł, usiadł, zamerdał, był, mogły, padł, powinien, urodziły, wpadł, zaczął</li>
     </ul>
   </li>
@@ -298,7 +303,7 @@ We want to thank all of the original Polish Dependency Bank 2.0 contributors. Th
       <li>AUX-Fin: są, będą, były, będziemy, byli, zostały, zostaną, jesteśmy, zostali, zostają</li>
       <li>DET: które, te, tych, którzy, których, kilka, wszystkie, wszystkich, wiele, takich</li>
       <li>NOUN: lat, osób, dzieci, ludzi, osoby, ludzie, dni, pieniądze, kobiety, ręce</li>
-      <li>NOUN-Vnoun: zachorowań, działań, oskarżeniami, polubień, wytrzeźwień, zawirowań, Drgania, Wypędzeniom, Zakłócenia, chrapania</li>
+      <li>NOUN-Vnoun: działań, oskarżeniami, polubień, wytrzeźwień, zachorowań, zawirowań, Drgania, Wypędzeniom, Zakłócenia, chrapania</li>
       <li>NUM: dwie, dwa, dwóch, trzy, trzech, 10, cztery, 3, pięć, 2</li>
       <li>PRON: ich, nich, nas, je, nam, im, one, nimi, oni, my</li>
       <li>PROPN: Polacy, Polaków, Rosjanie, amerykanie, Niemcy, Niemców, PKP, Francuzi, Indian, Żydów</li>
@@ -409,7 +414,7 @@ We want to thank all of the original Polish Dependency Bank 2.0 contributors. Th
       <li>NOUN: roku, sprawie, wodzie, stroju, czasie, trawie, pobliżu, przypadku, kasku, celu</li>
       <li>NOUN-Vnoun: zakończeniu, podejmowaniu, przeprowadzeniu, użyciu, wprowadzeniu, leczeniu, przekazaniu, wejściu, wyjściu, wykonywaniu</li>
       <li>NUM: dwóch, trzech, czterech, 10, 20, dziesięciu, 50, dwudziestu, pięciu, 15</li>
-      <li>PRON: tym, nim, czym, nich, niej, sobie, mnie, wszystkim, czymś, niczym</li>
+      <li>PRON: tym, nim, nich, niej, sobie, czym, mnie, wszystkim, czymś, niczym</li>
       <li>PROPN: Polsce, Europie, Warszawie, Poznaniu, Krakowie, Niemczech, Wrocławiu, Włoszech, Ameryce, Łodzi</li>
     </ul>
   </li>
@@ -476,7 +481,7 @@ We want to thank all of the original Polish Dependency Bank 2.0 contributors. Th
   <li>Cmp
     <ul>
       <li>ADJ: większe, starszy, dalsze, lepsze, większej, starsza, większym, dalszych, większą, większa</li>
-      <li>ADV: bardziej, wcześniej, lepiej, dalej, później, mniej, więcej, częściej, łatwiej, wyżej</li>
+      <li>ADV: bardziej, wcześniej, lepiej, dalej, później, więcej, mniej, częściej, łatwiej, wyżej</li>
     </ul>
   </li>
 </ul>
@@ -485,7 +490,7 @@ We want to thank all of the original Polish Dependency Bank 2.0 contributors. Th
   <li>Pos
     <ul>
       <li>ADJ: innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</li>
-      <li>ADV: bardzo, tak, jak, dobrze, zgodnie, często, jednocześnie, obecnie, trudno, szybko</li>
+      <li>ADV: bardzo, tak, jak, dobrze, często, jednocześnie, obecnie, trudno, szybko, nagle</li>
     </ul>
   </li>
 </ul>
@@ -506,7 +511,7 @@ We want to thank all of the original Polish Dependency Bank 2.0 contributors. Th
 <ul>
   <li>Neg
     <ul>
-      <li>ADJ-Part: niewykluczone, niepotwierdzonych, niewykorzystane, niewyprawione, niezrealizowane, NIEPOCHODZĄCYCH, Nieleczona, Nieprzejawionego, Nieprzeznaczony, niebędący</li>
+      <li>ADJ-Part: niepotwierdzonych, niewykorzystane, niewyprawione, niezrealizowane, NIEPOCHODZĄCYCH, Nieleczona, Nieprzejawionego, Nieprzeznaczony, niebędący, niebędących</li>
       <li>NOUN-Vnoun: nieuzyskania, Niewypełnienie, niedopełnienie, niedopuszczenie, nieistnienia, niejedzenia, niekonkurowania, nienakładaniu, nieobjadanie, nieodpowiadanie</li>
       <li>PART: nie</li>
     </ul>
@@ -889,7 +894,7 @@ We want to thank all of the original Polish Dependency Bank 2.0 contributors. Th
       <li>Yes
         <ul>
           <li>ADJ: św, b, ww, Gd, d, in, kw, pn, proc, st</li>
-          <li>ADP: ds, wg, nt, ok</li>
+          <li>ADP: ds, nt</li>
           <li>ADV: np, m.in, tzw, itp, itd, pt, a, n.p.m, tzn, b</li>
           <li>NOUN: r, zł, art, tys, proc, ust, %, ul, godz, mln</li>
           <li>PART: ok</li>
@@ -940,11 +945,106 @@ We want to thank all of the original Polish Dependency Bank 2.0 contributors. Th
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADJ: jednej, 15, 17, dwudziesty, pięćdziesiąty, prima, sześćdziesiąty</li>
+          <li>ADV: tak</li>
+          <li>X: public</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: w, na, z, pod, ze, za, do, przy, bez, od</li>
+          <li>ADV: wraz, zgodnie, razem, niezależnie, łącznie, włącznie, zależnie, wspólnie, odnośnie, daleko</li>
+          <li>NOUN: rodem, przeciwieństwie</li>
+          <li>PART: co</li>
+          <li>X: wespół</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: w, z, na, Po, do, od, u</li>
+          <li>ADV: tak, gdzie, kiedy, coraz, jako, jak, kędy, mutatis, non, rzadko</li>
+          <li>NOUN: siłą</li>
+          <li>VERB-Conv: Chcąc</li>
+          <li>VERB-Fin: ma</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADP: przy</li>
+          <li>CCONJ: jak, a, ale, tyle, lecz, i, tylko</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>DET: tym, to, ten, taki, tego, tych, tej, tyle, takim, te</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
+          <li>INTJ: gdzie, o</li>
+        </ul>
+      </li>
+      <li>NOUN
+        <ul>
+          <li>NOUN: homo, bon, in, m, boarding, golden, honoris, hot, lingua, mutatis</li>
+        </ul>
+      </li>
+      <li>PART
+        <ul>
+          <li>ADJ: innymi</li>
+          <li>ADP: w, na, przede, z, poza, mimo, między, przy, bez, do</li>
+          <li>ADV: tym, tak, mniej</li>
+          <li>CCONJ: i</li>
+          <li>DET: Swoją</li>
+          <li>NOUN: rzecz</li>
+          <li>PART: co, i, za, tak, Niemniej, a, dość, to, ani, nie</li>
+          <li>VERB-Inf: być</li>
+          <li>X: nota</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>PRON: Co</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADP: o, podczas, w</li>
+          <li>ADV: mimo, pomimo</li>
+          <li>PART: tak</li>
+          <li>SCONJ: jak, jako</li>
+        </ul>
+      </li>
+      <li>SYM
+        <ul>
+          <li>SYM: +, -</li>
+        </ul>
+      </li>
+      <li>VERB
+        <ul>
+          <li>VERB-Fin: ma, Jesteśmy</li>
+          <li>VERB-Inf: Być</li>
+        </ul>
+      </li>
+      <li>X
+        <ul>
+          <li>X: a, 2, bon, in</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
         <ul>
-          <li>X: de, San, of, von, New, Don, a, bin, di, the</li>
+          <li>X: de, New, San, of, von, Jersey, bin, di, the, Don</li>
         </ul>
       </li>
     </ul>
@@ -1152,8 +1252,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (41)</li>
       <li>VERB-Fin--NOUN-Acc (5792)</li>
       <li>VERB-Fin--NOUN-Dat (1)</li>
-      <li>VERB-Fin--NOUN-Gen (954)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (1)</li>
+      <li>VERB-Fin--NOUN-Gen (955)</li>
       <li>VERB-Fin--NOUN-Ins (21)</li>
       <li>VERB-Fin--NOUN-Loc-ADP(po) (1)</li>
       <li>VERB-Fin--NOUN-Nom (24)</li>
@@ -1161,7 +1260,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Dat (1)</li>
       <li>VERB-Fin--PRON-Gen (222)</li>
       <li>VERB-Fin--PRON-Ins (8)</li>
-      <li>VERB-Fin--PRON-Nom (3)</li>
+      <li>VERB-Fin--PRON-Nom (4)</li>
       <li>VERB-Inf--NOUN (10)</li>
       <li>VERB-Inf--NOUN-ADP(po) (1)</li>
       <li>VERB-Inf--NOUN-Acc (1630)</li>
@@ -1230,7 +1329,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 37 relation subtypes: <a>acl:relcl</a>, <a>advcl:cmpr</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>discourse:intj</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:flat</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>obl:orphan</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:cleft</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>expl</a>, <a>parataxis</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 41 relation subtypes: <a>acl:cmp</a>, <a>acl:relcl</a>, <a>advcl:cmp</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:cmp</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:cmp</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>discourse:intj</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nmod:arg</a>, <a>nmod:cmp</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:flat</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>obl:orphan</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:cleft</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>goeswith</a></li>
 </ul>

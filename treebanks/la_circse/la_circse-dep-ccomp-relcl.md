@@ -9,26 +9,27 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_circse-dep-ccomp.html">ccomp</a></tt>.
 There are also 1 other language-specific subtypes of `ccomp`: <tt><a href="la_circse-dep-ccomp-reported.html">ccomp:reported</a></tt>.
 
-50 nodes (0%) are attached to their parents as `ccomp:relcl`.
+56 nodes (0%) are attached to their parents as `ccomp:relcl`.
 
-27 instances of `ccomp:relcl` (54%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.36.
+31 instances of `ccomp:relcl` (55%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.32142857142857.
 
-The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (45; 90% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `ccomp:relcl`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (51; 91% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2; 4% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 ccomp:relcl	color:blue
-1	edissere	edissero	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=2|LiLaflcat=v3
-2	agedum	agedum	INTJ	U	_	1	discourse	_	LiLaflcat=i
-3	quo	quis	PRON	K	Case=Abl|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int	5	det	_	LASLAVariant=1|LiLaflcat=p
-4	cadat	cado	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp:relcl	_	LiLaflcat=v3
-5	fato	fatum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	4	obl	_	LiLaflcat=n2
-6	parens	parens	NOUN	A3	Case=Nom|Gender=Masc,Neut|InflClass=IndEurI|Number=Sing	4	nsubj	_	LASLAVariant=1|LiLaflcat=n3
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 ccomp:relcl	color:blue
+1	quid	quis	PRON	K	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int	2	obj	_	_
+2	optem	opto	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	quid	quis	PRON	K	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int	5	obj	_	_
+4	ue	ue	CCONJ	S	_	3	cc	_	_
+5	decernam	decerno	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp:relcl	_	_
+6	haut	haud	PART	P	Polarity=Neg	7	advmod:neg	_	_
+7	scio	scio	VERB	B4	Aspect=Imp|InflClass=LatI|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	orphan	_	_
 
 ~~~
 

@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Pot`.
 
-253 tokens (16%) have a non-empty value of `Mood`.
-144 types (19%) occur at least once with a non-empty value of `Mood`.
+254 tokens (16%) have a non-empty value of `Mood`.
+145 types (19%) occur at least once with a non-empty value of `Mood`.
 101 lemmas (18%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 3 part-of-speech tags: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (203; 12% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (49; 3% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (204; 13% instances), <tt><a href="olo_kkpp-pos-AUX.html">AUX</a></tt> (49; 3% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-203 <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Mood`.
+204 <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (202; 100%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (186; 92%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (154; 76%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (105; 52%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="olo_kkpp-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (203; 100%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (186; 91%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (155; 76%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (106; 52%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Imp` (3; 1% of non-empty `Mood`): <em>Avua, Kuunelkaa, mennä</em>
-* `Ind` (199; 98% of non-empty `Mood`): <em>sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, istui</em>
+* `Ind` (200; 98% of non-empty `Mood`): <em>sanoi, pietäh, rodieu, sanoo, kuulimo, kuulittogo, sanottih, tiezimö, tiezittö, istui</em>
 * `Pot` (1; 0% of non-empty `Mood`): <em>unohtannet</em>
-* `EMPTY` (55): <em>arbuamah, ellendämäh, kuundelemah, lähtie, ostua, saamah, sanomah, sanuo, tundiettu, Tansijes</em>
+* `EMPTY` (54): <em>arbuamah, ellendämäh, kuundelemah, lähtie, ostua, saamah, sanomah, sanuo, tundiettu, Tansijes</em>
 
 <table>
   <tr><th>Paradigm <i>mennä</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>

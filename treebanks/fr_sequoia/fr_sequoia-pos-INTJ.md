@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `INTJ`
 
 There are 4 `INTJ` lemmas (0%), 4 `INTJ` types (0%) and 5 `INTJ` tokens (0%).
-Out of 16 observed tags, the rank of `INTJ` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 16 in number of lemmas, 16 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>hélas, eh, non, oui</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>non</em> (<tt><a href="fr_sequoia-pos
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.408433).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.408837).
 
 The 1st highest number of forms (1) was observed with the lemma “eh”: <em>Eh</em>.
 

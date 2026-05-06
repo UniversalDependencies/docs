@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Card`, `Frac`, `Ord`, `Range`.
 
-11716 tokens (3%) have a non-empty value of `NumType`.
+11717 tokens (3%) have a non-empty value of `NumType`.
 2243 types (3%) occur at least once with a non-empty value of `NumType`.
 1872 lemmas (4%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (9021; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2662; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (26; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (7; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (9022; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2662; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (26; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (7; 0% instances).
 
 ### `NUM`
 
-9021 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+9022 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5572; 62%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5559; 62%), <tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (5548; 62%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5572; 62%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5559; 62%), <tt><a href="et_edt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (5548; 61%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (8356; 93% of non-empty `NumType`): <em>kaks, 1, üks, 10, 2, kolm, ühe, kahe, 3, miljonit</em>
+* `Card` (8357; 93% of non-empty `NumType`): <em>kaks, 1, üks, 10, 2, kolm, ühe, kahe, 3, miljonit</em>
 * `Frac` (223; 2% of non-empty `NumType`): <em>pool, poole, pooled, veerand, kolmandik, kolmandiku, 1/5, kolmandikku, viiendik, 1/2</em>
 * `Ord` (12; 0% of non-empty `NumType`): <em>kolmandat, 18., 3., I, IX, Teine, XII, esimest, kolmas, sajas</em>
 * `Range` (430; 5% of non-empty `NumType`): <em>1-2, 1989-2001, 3-4, 1997-2000, 3-5, 1995-2000, 10-15, 1991-2001, 1998-2000, 2-3</em>

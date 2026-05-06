@@ -40,15 +40,15 @@ The following 22 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 case	color:blue
-1	Skiljer	skilja	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Cxn=Interrogative-Polar-Direct|CxnElt=1:Interrogative-Polar-Direct.Clause
+1	Skiljer	skilja	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Cxn=Interrogative-Polar-Direct|CxnElt=1:Interrogative-Polar-Direct.Clause|ParsemeMWE=1:IRV
 2	de	de	PRON	PN|UTR/NEU|PLU|DEF|SUB	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	1	nsubj	1:nsubj|7:nsubj	_
-3	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	1	obj	1:obj	_
+3	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	1	obj	1:obj	ParsemeMWE=1
 4	från	från	ADP	PP	_	5	case	5:case	_
 5	andra	annan	PRON	PN|UTR/NEU|PLU|IND|SUB/OBJ	Definite=Ind|Number=Plur|PronType=Ind	1	obl	1:obl:från	_
 6	och	och	CCONJ	KN	_	9	cc	9:cc	_
-7	i	i	ADP	PP	_	9	case	9:case	_
-8	så	så	ADJ	AB	Case=Nom|Degree=Pos	9	amod	9:amod	_
-9	fall	fall	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	conj	0:root|1:conj:och	_
+7	i	i	ADP	PP	_	9	case	9:case	ParsemeMWE=2:AdvID
+8	så	så	ADJ	AB	Case=Nom|Degree=Pos	9	amod	9:amod	ParsemeMWE=2
+9	fall	fall	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	conj	0:root|1:conj:och	ParsemeMWE=2
 10	på	på	ADP	PP	_	12	case	12:case	_
 11	vilket	vilken	DET	HD|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Int	12	det	12:det	_
 12	sätt	sätt	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	9	obl	9:obl	SpaceAfter=No

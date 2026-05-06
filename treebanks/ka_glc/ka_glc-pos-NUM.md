@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Georgian-GLC: POS Tags: `NUM`
 
-There are 312 `NUM` lemmas (3%), 405 `NUM` types (3%) and 1025 `NUM` tokens (2%).
+There are 313 `NUM` lemmas (3%), 406 `NUM` types (3%) and 1026 `NUM` tokens (2%).
 Out of 16 observed tags, the rank of `NUM` is: 7 in number of lemmas, 6 in number of types and 11 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>ერთი, ორი, 19, 20, სამი, 2, ბევრი, 1, 18, 17</em>
 
 The 10 most frequent `NUM` types:  <em>პირველი, XIX, მეორე, XX, ორი, ერთი, სამი, პირველ, ერთ, ბევრი</em>
 
-The 10 most frequent ambiguous lemmas: <em>ერთი</em> (<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 157, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 27), <em>2</em> (<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 18, <tt><a href="ka_glc-pos-X.html">X</a></tt> 1), <em>მილიონი</em> (<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 7, <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> 1), <em>15</em> (<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ერთი</em> (<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 157, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 27), <em>2</em> (<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 18, <tt><a href="ka_glc-pos-X.html">X</a></tt> 1), <em>მილიონი</em> (<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 7, <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> 1), <em>15</em> (<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> 1), <em>პირველი</em> (<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ერთი</em> (<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 33, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 20), <em>ერთ</em> (<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 16, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 5), <em>პირველად</em> (<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> 24, <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> 1), <em>15</em> (<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 1), <em>C</em> (<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 1, <tt><a href="ka_glc-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ერთი</em> (<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 33, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 20), <em>ერთ</em> (<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 16, <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> 5), <em>პირველად</em> (<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> 24, <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> 1), <em>15</em> (<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 1), <em>C</em> (<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 1, <tt><a href="ka_glc-pos-X.html">X</a></tt> 1), <em>უპირველეს</em> (<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 1)
 
 
 * <em>ერთი</em>
@@ -34,10 +34,13 @@ The 10 most frequent ambiguous types:  <em>ერთი</em> (<tt><a href="ka_gl
 * <em>C</em>
   * <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 1: <em>ნახშირწყალბადები ( HC ) ეწოდება ქიმიურ ნაერთებს , რომლებიც მხოლოდ ნახშირბადისა ( <b>C</b> ) და წყალბადის ( H ) ატომებისა გან შედგებიან .</em>
   * <tt><a href="ka_glc-pos-X.html">X</a></tt> 1: <em>დნმ- ში გამოიყენება ოთხი აზოტოვანი ფუძე — ადენინი ( A ) , გუანინი ( G ) , ციტოზინი ( <b>C</b> ) , თიმინი ( T ) .</em>
+* <em>უპირველეს</em>
+  * <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> 6: <em><b>უპირველეს</b> ყოვლისა ქართული ენის კაბინეტს მივაშურეთ .</em>
+  * <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> 1: <em>კაცობრიობის უდიდესი და უმნიშვნელოვანესი დარგი ა , რომელიც <b>უპირველეს</b> ყოვლისა მიზნად ისახავს დედამიწის მთელი გეოგრაფიული ( ლანდშაფტური ) გარსის კომპლექსურ შესწავლას , მის აგებულებასა და მნიშვნელობას .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.298077 (the average of all parts of speech is 1.674782).
+The form / lemma ratio of `NUM` is 1.297125 (the average of all parts of speech is 1.692057).
 
 The 1st highest number of forms (11) was observed with the lemma “ერთი”: <em>ერთ, ერთი, ერთიცა, ერთ–, პირველ, პირველად, პირველთაგანი, პირველი, პირველივე, პირველმა, პირველსა</em>.
 
@@ -45,22 +48,22 @@ The 2nd highest number of forms (11) was observed with the lemma “ორი”
 
 The 3rd highest number of forms (5) was observed with the lemma “20”: <em>20, 20-, 20-იან, XX, მე-20</em>.
 
-`NUM` occurs with 5 features: <tt><a href="ka_glc-feat-NumType.html">NumType</a></tt> (1024; 100% instances), <tt><a href="ka_glc-feat-NumForm.html">NumForm</a></tt> (660; 64% instances), <tt><a href="ka_glc-feat-Case.html">Case</a></tt> (388; 38% instances), <tt><a href="ka_glc-feat-Number.html">Number</a></tt> (158; 15% instances), <tt><a href="ka_glc-feat-PartType.html">PartType</a></tt> (5; 0% instances)
+`NUM` occurs with 5 features: <tt><a href="ka_glc-feat-NumType.html">NumType</a></tt> (1024; 100% instances), <tt><a href="ka_glc-feat-NumForm.html">NumForm</a></tt> (660; 64% instances), <tt><a href="ka_glc-feat-Case.html">Case</a></tt> (389; 38% instances), <tt><a href="ka_glc-feat-Number.html">Number</a></tt> (159; 15% instances), <tt><a href="ka_glc-feat-PartType.html">PartType</a></tt> (5; 0% instances)
 
 `NUM` occurs with 14 feature-value pairs: `Case=Dat`, `Case=Erg`, `Case=Ess`, `Case=Gen`, `Case=Ins`, `Case=Nom`, `NumForm=Digit`, `NumForm=Roman`, `NumType=Card`, `NumType=Mult`, `NumType=Ord`, `Number=Plur`, `Number=Sing`, `PartType=Emp`
 
-`NUM` occurs with 41 feature combinations.
+`NUM` occurs with 42 feature combinations.
 The most frequent feature combination is `NumForm=Digit|NumType=Card` (469 tokens).
 Examples: <em>1992, 1999, 2, 1, 2008, 30-იან, 11, 20, 2001, 2005</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 11 different relations: <tt><a href="ka_glc-dep-nummod.html">nummod</a></tt> (916; 89% instances), <tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt> (50; 5% instances), <tt><a href="ka_glc-dep-obl.html">obl</a></tt> (22; 2% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (16; 2% instances), <tt><a href="ka_glc-dep-root.html">root</a></tt> (7; 1% instances), <tt><a href="ka_glc-dep-appos.html">appos</a></tt> (5; 0% instances), <tt><a href="ka_glc-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-obl-tmod.html">obl:tmod</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ka_glc-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 11 different relations: <tt><a href="ka_glc-dep-nummod.html">nummod</a></tt> (917; 89% instances), <tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt> (50; 5% instances), <tt><a href="ka_glc-dep-obl.html">obl</a></tt> (22; 2% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (16; 2% instances), <tt><a href="ka_glc-dep-root.html">root</a></tt> (7; 1% instances), <tt><a href="ka_glc-dep-appos.html">appos</a></tt> (5; 0% instances), <tt><a href="ka_glc-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-obl-tmod.html">obl:tmod</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ka_glc-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (804; 78% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (102; 10% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (30; 3% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (29; 3% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt> (9; 1% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (8; 1% instances),  (7; 1% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (804; 78% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (102; 10% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (30; 3% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (29; 3% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (21; 2% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt> (9; 1% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (8; 1% instances),  (7; 1% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-800 (78%) `NUM` nodes are leaves.
+801 (78%) `NUM` nodes are leaves.
 
 147 (14%) `NUM` nodes have one child.
 

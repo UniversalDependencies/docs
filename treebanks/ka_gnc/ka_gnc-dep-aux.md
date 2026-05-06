@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-181 nodes (1%) are attached to their parents as `aux`.
+182 nodes (1%) are attached to their parents as `aux`.
 
 131 instances of `aux` (72%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.20441988950276.
+Average distance between parent and child is 1.2032967032967.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (169; 93% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (7; 4% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (169; 93% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (7; 4% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

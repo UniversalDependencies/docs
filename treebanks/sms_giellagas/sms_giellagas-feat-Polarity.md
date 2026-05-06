@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-71 tokens (2%) have a non-empty value of `Polarity`.
+72 tokens (2%) have a non-empty value of `Polarity`.
 14 types (2%) occur at least once with a non-empty value of `Polarity`.
 4 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (53; 2% instances), <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (6; 0% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> (54; 2% instances), <tt><a href="sms_giellagas-pos-PART.html">PART</a></tt> (10; 0% instances), <tt><a href="sms_giellagas-pos-INTJ.html">INTJ</a></tt> (6; 0% instances), <tt><a href="sms_giellagas-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `AUX`
 
-53 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (33% of all `AUX` tokens) have a non-empty value of `Polarity`.
+54 <tt><a href="sms_giellagas-pos-AUX.html">AUX</a></tt> tokens (32% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (50; 94%), <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (49; 92%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (48; 91%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (44; 83%), <tt><a href="sms_giellagas-feat-Person.html">Person</a></tt><tt>=3</tt> (27; 51%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="sms_giellagas-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (50; 93%), <tt><a href="sms_giellagas-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (50; 93%), <tt><a href="sms_giellagas-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (49; 91%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 83%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Neg` (53; 100% of non-empty `Polarity`): <em>ij, jiõk, jiõm, i-ǥõl, jeäʹp, iʹlla, iʹlleäk, jiâ, Ij-ǥo, Jeäʹled</em>
-* `EMPTY` (109): <em>lij, leäi, õõk, liâ, õõlǥ, leäk, leäkku, leäm, leeʹd, leʹjjiǩ</em>
+* `Neg` (54; 100% of non-empty `Polarity`): <em>ij, jiõk, jiõm, i-ǥõl, jeäʹp, iʹlla, iʹlleäk, jiâ, Ij-ǥo, Jeäʹled</em>
+* `EMPTY` (116): <em>lij, leäi, õõk, liâ, õõlǥ, leäk, leäkku, leäm, leeʹd, leʹjje</em>
 
 ### `PART`
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (2; 100% of non-empty `Polarity`): <em>iʹlla</em>
-* `EMPTY` (656): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, jälste, ǩieʹzzi, leäi, lij, mõõnnâd</em>
+* `EMPTY` (674): <em>ceälkk, mõõni, puõʹđi, šõõddi, vaaʹldi, jälste, ǩieʹzzi, leäi, lij, mõõnnâd</em>
 
 ## Relations with Agreement in `Polarity`
 

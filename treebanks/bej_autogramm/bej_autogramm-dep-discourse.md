@@ -23,8 +23,8 @@ The following 43 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 9	fgColor:white
 # visual-style 9 10 discourse	color:blue
 1	bak	_	ADV	DEICT	_	4	advmod	_	AlignBegin=156541|AlignEnd=156863|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
-2	tʔiit	_	NOUN	V1,IRG	_	3	dep:comp	_	AlignBegin=156863|AlignEnd=157078|Gloss=resemble|MGloss=resemble-VN|MSeg=tʔi-it|RX=[V1].[IRG]-[N].[V]|TokenType=Root
-3	=eːt	_	SCONJ	CONJ	Gender=Fem	4	acl:relcl	_	AlignBegin=157078|AlignEnd=157186|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
+2	tʔiit	_	NOUN	V1,IRG	_	3	dep:comp	_	AlignBegin=156863|AlignEnd=157078|Gloss=resemble|MGloss=resemble-VN|MSeg=tʔi-it|RelRole=Obj|RX=[V1].[IRG]-[N].[V]|TokenType=Root
+3	=eːt	_	SCONJ	CONJ	Gender=Fem|PronType=Rel	4	acl:relcl	_	AlignBegin=157078|AlignEnd=157186|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
 4	ʔiːbaːb	_	NOUN	N	Gender=Fem	8	nsubj	_	AlignBegin=157186|AlignEnd=157509|Gloss=travel\N.AC|RX=[N].[V].[F]|TokenType=Root
 5	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=157509|AlignEnd=158686|TokenType=Break
 6	dh	_	ADP	POSTP	_	8	obl:arg	_	AlignBegin=158686|AlignEnd=158783|Gloss=DIR|RX=[POSTP]|TokenType=Root

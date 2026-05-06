@@ -21,7 +21,7 @@ The feature is used with 9 part-of-speech tags: <tt><a href="de_gsd-pos-NOUN.htm
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (22; 100% of non-empty `Abbr`): <em>s, l, ET, N, Sp, U, V, dBm, km, mA</em>
-* `EMPTY` (52274): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52926): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (17) occur only with one value of `Abbr`.
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (7; 100% of non-empty `Abbr`): <em>GT, P, TD, Chr, FK, FOSs, PD</em>
-* `EMPTY` (30409): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (29757): <em>Deutschland, de, of, US, Berlin, SPD, St., Frankreich, new, la</em>
 
 ### `ADP`
 

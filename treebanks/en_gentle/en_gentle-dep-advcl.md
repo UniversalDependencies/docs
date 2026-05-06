@@ -23,7 +23,7 @@ The following 24 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 4 advcl	color:blue
-1	When	when	ADV	WRB	PronType=Int	4	advmod	4:advmod	Discourse=context-circumstance:117->118:0:dm-when-586-_|PDTB=Explicit:Temporal.Synchronous:when:_:591-595:586-590|XML=<hi rend:::"italic">
+1	When	when	ADV	WRB	PronType=Int	4	advmod	4:advmod	Discourse=context-circumstance:117->118:0:dm-when-586-gold|PDTB=Explicit:Temporal.Synchronous:when:586:591-595:587-590;Implicit:Expansion.Conjunction:in fact:_:582-585:586-595|XML=<hi rend:::"italic">
 2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	4:nsubj	Entity=(163-person-acc:com-nnnnn-cf1-1-sgl)
 3	next	next	ADV	RB	Degree=Pos	4	advmod	4:advmod	_
 4	meet	meet	VERB	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:when	SpaceAfter=No
@@ -43,12 +43,12 @@ The following 24 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 2 advcl	color:blue
-1	After	after	SCONJ	IN	_	2	mark	2:mark	Discourse=context-circumstance:78->79:0:dm-after-480-_|PDTB=Explicit:Temporal.Asynchronous.Succession:after:480:485-491:481-484;NoRel:NoRel:_:_:452-479:480-491
+1	After	after	SCONJ	IN	_	2	mark	2:mark	Discourse=context-circumstance:78->79:0:dm-after-480-gold+syn-pres-481-_|PDTB=Explicit:Temporal.Asynchronous.Succession:after:480:485-491:481-484;NoRel:NoRel:_:_:452-479:480-491
 2	completing	complete	VERB	VBG	Tense=Pres|VerbForm=Part	10	advcl	10:advcl:after	MSeg=complet-ing
 3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	Entity=(1-abstract-giv:act-sssss-cf1*-2-coref
 4	course	course	NOUN	NN	Number=Sing	2	obj	2:obj	Entity=1)|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	2:punct	_
-6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Discourse=organization-preparation:79->80:2:_|Entity=(120-person-new-nnnnn-cf2-2-coref
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Bridge=1<120:entity-associative|Discourse=organization-preparation:79->80:2:grf-col-491-_|Entity=(120-person-acc:inf-nnnnn-cf2-2-coref
 7	student	student	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	Entity=120)|MSeg=stud-ent
 8	will	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
 9	be	be	AUX	VB	VerbForm=Inf	10	cop	10:cop	_
@@ -78,7 +78,7 @@ The following 24 pairs of parts of speech are connected with `advcl`: <tt><a hre
 11	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	12	cop	12:cop	MSeg=be-ing
 12	reflexive	reflexive	ADJ	JJ	Degree=Pos	3	advcl	3:advcl:from	MSeg=reflex-ive|SpaceAfter=No
 13	,	,	PUNCT	,	_	18	punct	18:punct	_
-14	as	as	SCONJ	IN	_	18	mark	18:mark	Discourse=explanation-justify:27->26:0:dm-as-164-_|PDTB=Explicit:Contingency.Cause.Reason:as:164:151-163:165-169
+14	as	as	SCONJ	IN	_	18	mark	18:mark	Discourse=explanation-justify:27->26:0:dm-as-164-gold|PDTB=Explicit:Contingency.Cause.Reason:as:164:151-163:165-169
 15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	18	nsubj	18:nsubj	Entity=(29-abstract-acc:aggr-nnnnn-cf4-1-coref)|SplitAnte=27<29,28<29
 16	are	be	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	cop	18:cop	_
 17	both	both	DET	DT	PronType=Tot	18	advmod	18:advmod	Entity=(29-abstract-giv:act-nnnnn-cf4-2-coref

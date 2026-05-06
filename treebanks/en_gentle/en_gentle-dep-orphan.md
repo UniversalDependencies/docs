@@ -39,7 +39,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 13 orphan	color:blue
-1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:52->53:1:_|Entity=(67-person-giv:inact-nnnnn-cf1-1-ana)|PDTB=Implicit:Expansion.Conjunction:and:_:467-478:479-499
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:52->53:1:sem-atsrc-479-_+lex-indwd-480-_+syn-rpr-482-484,487,489,494-495,498-_|Entity=(67-person-giv:inact-nnnnn-cf1-1-ana)|PDTB=Implicit:Expansion.Conjunction:and:_:467-478:479-499
 2	told	tell	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	Cxn=Ditransitive|CxnElt=2:Ditransitive.V|MSeg=tol-d
 3	him	he	PRON	PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	2:iobj	CxnElt=2:Ditransitive.Rec|Entity=(13-person-giv:act-sssss-cf2*-1-ana)
 4	that	that	SCONJ	IN	_	7	mark	7:mark	Discourse=joint-list_m:53->46:2:_
@@ -55,7 +55,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 14	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	16:det	Entity=(84-person-new-nnnns-cf5-3-sgl
 15	spinal	spinal	ADJ	JJ	Degree=Pos	16	amod	16:amod	MSeg=spin-al
 16	surgeon	surgeon	NOUN	NN	Number=Sing	7	conj	2:ccomp|7:conj:or	Entity=84)
-17	if	if	SCONJ	IN	_	20	mark	20:mark	Discourse=contingency-condition:54->53:0:dm-if-495-_|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:495:482-494:496-499
+17	if	if	SCONJ	IN	_	20	mark	20:mark	Discourse=contingency-condition:54->53:0:mrf-md-484-_+dm-if-495-gold|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:495:482-494:496-499
 18	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	19:nmod:poss	Entity=(81-abstract-giv:act-nnnns-cf3-2-coref(13-person-giv:act-sssss-cf2*-1-ana)
 19	symptoms	symptom	NOUN	NNS	Number=Plur	20	nsubj	20:nsubj	Entity=81)|MSeg=symptom-s
 20	progress	progress	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl:if	CxnElt=7:Conditional-UnspecifiedEpistemic-NoInversion.Protasis|SpaceAfter=No
@@ -70,7 +70,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 orphan	color:blue
-1	Let	let	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=context-background:48->57:1:_
+1	Let	let	VERB	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Discourse=context-background:48->57:1:sem-rpt-277,331-_+sem-rpt-279,333-_
 2	x	x	NOUN	NN	Number=Sing	1	obj	1:obj|3:nsubj:xsubj	Entity=(47-abstract-new-nnnnn-cf2-1-coref)
 3	⪯	⪯	SYM	SYM	_	1	xcomp	1:xcomp	_
 4	y	y	NOUN	NN	Number=Sing	3	obl:unmarked	3:obl:unmarked	Entity=(48-abstract-new-nnnnn-cf1-1-coref)

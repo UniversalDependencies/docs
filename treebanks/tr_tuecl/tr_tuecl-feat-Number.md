@@ -14,18 +14,18 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 561 tokens (62%) have a non-empty value of `Number`.
 310 types (81%) occur at least once with a non-empty value of `Number`.
 181 lemmas (72%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (220; 24% instances), <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt> (144; 16% instances), <tt><a href="tr_tuecl-pos-PROPN.html">PROPN</a></tt> (92; 10% instances), <tt><a href="tr_tuecl-pos-AUX.html">AUX</a></tt> (61; 7% instances), <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (39; 4% instances), <tt><a href="tr_tuecl-pos-ADJ.html">ADJ</a></tt> (5; 1% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (223; 25% instances), <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt> (144; 16% instances), <tt><a href="tr_tuecl-pos-PROPN.html">PROPN</a></tt> (92; 10% instances), <tt><a href="tr_tuecl-pos-AUX.html">AUX</a></tt> (61; 7% instances), <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (36; 4% instances), <tt><a href="tr_tuecl-pos-ADJ.html">ADJ</a></tt> (5; 1% instances).
 
 ### `NOUN`
 
-220 <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
+223 <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="tr_tuecl-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (174; 79%), <tt><a href="tr_tuecl-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (173; 79%), <tt><a href="tr_tuecl-feat-Case.html">Case</a></tt><tt>=Nom</tt> (113; 51%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="tr_tuecl-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (175; 78%), <tt><a href="tr_tuecl-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (174; 78%), <tt><a href="tr_tuecl-feat-Case.html">Case</a></tt><tt>=Nom</tt> (113; 51%).
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Plur` (15; 7% of non-empty `Number`): <em>çocuklara, Gençlere, Sonuçlar, Soğanları, arkadaşlarından, aylarında, ağaçları, dinler, gelişimleri, hedefleri</em>
-* `Sing` (205; 93% of non-empty `Number`): <em>evde, kitap, kitabı, okula, sabah, annesini, eve, çocuk, doktor, ekmek</em>
+* `Sing` (208; 93% of non-empty `Number`): <em>evde, kitap, kitabı, okula, sabah, annesini, eve, çocuk, doktor, ekmek</em>
 * `EMPTY` (3): <em>akşamları, arabalık, sabahları</em>
 
 <table>
@@ -106,14 +106,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PRON`
 
-39 <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Number`.
+36 <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="tr_tuecl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (22; 56%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="tr_tuecl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (25; 69%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (5; 13% of non-empty `Number`): <em>Onlar, birbirlerini, bizimle, buralara</em>
-* `Sing` (34; 87% of non-empty `Number`): <em>O, Sen, bana, Benim, Bunun, kimin, neye, Sana, benden, bunu</em>
+* `Plur` (5; 14% of non-empty `Number`): <em>Onlar, birbirlerini, bizimle, buralara</em>
+* `Sing` (31; 86% of non-empty `Number`): <em>O, Sen, bana, Benim, Bunun, kimin, neye, Sana, benden, bunu</em>
 * `EMPTY` (1): <em>nerede</em>
 
 <table>
@@ -122,8 +122,6 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="tr_tuecl-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_tuecl-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>O</em></td><td></td></tr>
   <tr><td><tt><tt><a href="tr_tuecl-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_tuecl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>O</em></td><td><em>Onlar</em></td></tr>
 </table>
-
-`Number` seems to be **lexical feature** of `PRON`. 91% lemmas (10) occur only with one value of `Number`.
 
 ### `ADJ`
 
@@ -139,7 +137,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="tr_tuecl-dep-obj.html">obj</a></tt>]--> NOUN</tt> (45; 83%),
+<tt>VERB --[<tt><a href="tr_tuecl-dep-obj.html">obj</a></tt>]--> NOUN</tt> (46; 84%),
 <tt>VERB --[<tt><a href="tr_tuecl-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (40; 85%),
 <tt>VERB --[<tt><a href="tr_tuecl-dep-obl.html">obl</a></tt>]--> NOUN</tt> (26; 70%),
 <tt>VERB --[<tt><a href="tr_tuecl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (19; 79%),

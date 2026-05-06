@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="sv_swell-dep-acl.html">acl</a></tt>.
 There are also 1 other language-specific subtypes of `acl`: <tt><a href="sv_swell-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-9 nodes (0%) are attached to their parents as `acl:cleft`.
+11 nodes (0%) are attached to their parents as `acl:cleft`.
 
-9 instances of `acl:cleft` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.77777777777778.
+11 instances of `acl:cleft` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.27272727272727.
 
-The following 4 pairs of parts of speech are connected with `acl:cleft`: <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (6; 67% instances), <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (1; 11% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (1; 11% instances).
+The following 4 pairs of parts of speech are connected with `acl:cleft`: <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (7; 64% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (2; 18% instances), <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (1; 9% instances).
 
 
 ~~~ conllu
@@ -35,6 +35,25 @@ The following 4 pairs of parts of speech are connected with `acl:cleft`: <tt><a 
 10	till	till	ADP	_	_	11	case	_	_
 11	Sverige	Sverige	PROPN	_	Case=Nom	9	obl	_	_
 12	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 acl:cleft	color:blue
+1	Detta	denna	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	är	vara	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	vad	vad	PRON	_	Definite=Ind|Gender=Neut|Number=Sing|PronType=Int	0	root	_	_
+4	som	som	PRON	_	PronType=Rel	5	nsubj	_	_
+5	gäller	gälla	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:cleft	_	_
+6	för	för	ADP	_	_	8	case	_	_
+7	min	jag	PRON	_	Definite=Def|Gender=Com|Number=Sing|Poss=Yes|PronType=Prs	8	nmod:poss	_	_
+8	del	del	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	5	obl	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -64,33 +83,6 @@ The following 4 pairs of parts of speech are connected with `acl:cleft`: <tt><a 
 17	,	,	PUNCT	_	_	16	punct	_	_
 18	Peru	Peru	PROPN	_	Case=Nom	16	appos	_	_
 19	.	.	PUNCT	_	_	13	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 16 acl:cleft	color:blue
-1	Vidare	vidare	ADV	_	Degree=Cmp	2	advmod	_	_
-2	menar	mena	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	de	de	PRON	_	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	2	nsubj	_	_
-4	att	att	SCONJ	_	_	8	mark	_	_
-5	det	den	PRON	_	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	8	expl	_	_
-6	enbart	enbart	ADV	_	_	8	advmod	_	_
-7	är	vara	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
-8	språk	språk	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	2	ccomp	_	_
-9	som	som	PRON	_	PronType=Rel	10	nsubj:pass	_	_
-10	används	använda	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	8	acl:cleft	_	_
-11	av	av	ADP	_	_	12	case	_	_
-12	majoriteten	majoritet	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	10	obl:agent	_	_
-13	som	som	PRON	_	PronType=Rel	16	nsubj	_	_
-14	är	vara	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	_
-15	av	av	ADP	_	_	16	case	_	CorrectionLabels=L-W
-16	nytta	nytta	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	8	acl:cleft	_	_
-17	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

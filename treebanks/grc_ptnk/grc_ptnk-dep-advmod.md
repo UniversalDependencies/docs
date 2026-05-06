@@ -24,7 +24,7 @@ The following 18 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 10 8 advmod	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_3.4
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_3.4
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_3.4
+3	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_3.4
 4	ὄφις	ὄφις	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=snake,serpent|Ref=GEN_3.4
 5	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_3.4
 6	γυναικί	γυνή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	iobj	_	Gloss=wife,woman|Ref=GEN_3.4|SpaceAfter=No
@@ -68,7 +68,7 @@ The following 18 pairs of parts of speech are connected with `advmod`: <tt><a hr
 5	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_44.34
 6	πατέρα	πατήρ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	Gloss=father|Ref=GEN_44.34|SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	Ref=GEN_44.34
-8	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	9	det	_	Gloss=the|Ref=GEN_44.34
+8	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	Gloss=the|Ref=GEN_44.34
 9	παιδίου	παιδίον	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	13	nsubj	_	Gloss=child|Ref=GEN_44.34
 10	μὴ	μή	ADV	_	Polarity=Neg	13	advmod	_	Gloss=no,not|Ref=GEN_44.34
 11	ὄντος	εἰμί	AUX	_	Case=Gen|Gender=Masc,Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	cop	_	Gloss=to-be|Ref=GEN_44.34

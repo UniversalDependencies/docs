@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-667 nodes (8%) are attached to their parents as `advmod`.
+655 nodes (8%) are attached to their parents as `advmod`.
 
-444 instances of `advmod` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.22488755622189.
+436 instances of `advmod` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.20152671755725.
 
-The following 25 pairs of parts of speech are connected with `advmod`: <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (408; 61% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (77; 12% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (74; 11% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (24; 4% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (18; 3% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (17; 3% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-X.html">X</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 24 pairs of parts of speech are connected with `advmod`: <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (408; 62% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (77; 12% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (74; 11% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (24; 4% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (18; 3% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (8; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-X.html">X</a></tt>-<tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 25 pairs of parts of speech are connected with `advmod`: <tt><a hr
 2	de	de	ADP	sps00	_	3	case	_	_
 3	ternera	ternero	NOUN	ncfs000	Gender=Fem|Number=Sing	0	root	_	_
 4	no	no	ADV	rn	Polarity=Neg	3	advmod	_	SpaceAfter=No
-5	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
+5	,	,	PUNCT	fc	PunctType=Comm	9	punct	_	_
 6	con	con	ADP	sps00	_	8	reparandum	_	SpaceAfter=No
 7	,	,	PUNCT	fc	PunctType=Comm	6	punct	_	_
 8	de	de	ADP	sps00	_	9	case	_	_
@@ -69,10 +69,10 @@ The following 25 pairs of parts of speech are connected with `advmod`: <tt><a hr
 9	lento	lento	ADJ	aq0ms0	Gender=Masc|Number=Sing	0	root	_	_
 10	que	que	SCONJ	pr0cn000	_	11	mark	_	_
 11	ahora	ahora	ADV	rg	_	9	advmod	_	SpaceAfter=No
-12	,	,	PUNCT	fc	PunctType=Comm	11	punct	_	_
+12	,	,	PUNCT	fc	PunctType=Comm	14	punct	_	_
 13	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	14	punct	_	SpaceAfter=No
 14	no	no	ADV	rn	Polarity=Neg	9	advmod	_	SpaceAfter=No
-15	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	9	punct	_	_
+15	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	14	punct	_	_
 
 ~~~
 

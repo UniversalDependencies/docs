@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1338 nodes (1%) are attached to their parents as `nummod`.
+1337 nodes (1%) are attached to their parents as `nummod`.
 
-1137 instances of `nummod` (85%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.51943198804185.
+1136 instances of `nummod` (85%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.51907255048616.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1169; 87% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (55; 4% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (54; 4% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (33; 2% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (24; 2% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1169; 87% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (54; 4% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (54; 4% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (33; 2% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (24; 2% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,20 +35,6 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 nummod	color:blue
-1	ATP	ATP	PROPN	PM|NOM	Case=Nom	2	nsubj:pass	2:nsubj:pass	_
-2	infördes	införa	VERB	VB|PRT|SFO	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
-3	1960	1960	NUM	RG|NOM	Case=Nom|NumType=Card	2	nummod	2:nummod	SpaceAfter=No
-4	.	.	PUNCT	MAD	_	2	punct	2:punct	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 7	bgColor:blue
@@ -64,6 +50,20 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 8	,	,	PUNCT	MID	_	7	punct	7:punct	_
 9	179-184	179-184	NUM	RG|NOM	Case=Nom|NumType=Card	7	nummod	7:nummod	_
 10	.	.	PUNCT	MAD	_	1	punct	1:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 nummod	color:blue
+1	ATP	ATP	PROPN	PM|NOM	Case=Nom	2	nsubj:pass	2:nsubj:pass	_
+2	infördes	införa	VERB	VB|PRT|SFO	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	ParsemeMWE=1:VPC.full
+3	1960	1960	NUM	RG|NOM	Case=Nom|NumType=Card	2	nummod	2:nummod	SpaceAfter=No
+4	.	.	PUNCT	MAD	_	2	punct	2:punct	_
 
 ~~~
 

@@ -9,29 +9,29 @@ udver: '2'
 This feature is universal but the values `CndSub`, `Prec` are language-specific.
 It occurs with 9 different values: `Cnd`, `CndSub`, `Des`, `Imp`, `Ind`, `Nec`, `Opt`, `Prec`, `Sub`.
 
-2996 tokens (14%) have a non-empty value of `Mood`.
-1787 types (27%) occur at least once with a non-empty value of `Mood`.
-757 lemmas (25%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2592; 13% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (404; 2% instances).
+3013 tokens (14%) have a non-empty value of `Mood`.
+1790 types (27%) occur at least once with a non-empty value of `Mood`.
+759 lemmas (25%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (2606; 13% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (407; 2% instances).
 
 ### `VERB`
 
-2592 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (70% of all `VERB` tokens) have a non-empty value of `Mood`.
+2606 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (69% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2592; 100%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2592; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (2095; 81%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (2087; 81%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (2083; 80%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1856; 72%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1455; 56%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2606; 100%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2601; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (2108; 81%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (2101; 81%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (2097; 80%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (1869; 72%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1463; 56%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (11; 0% of non-empty `Mood`): <em>Касындеряй, Кундындеринек, Прындеряй, вастындерясак, каявиндеряй, кулындеряй, лисятдеряй, неявтдеряй, сюкониндерят, ёвтатдеряй</em>
 * `CndSub` (4; 0% of non-empty `Mood`): <em>Кортындерявлить, Мериндеряволь, лисиндеряволь, максовольтьдеряй</em>
-* `Des` (14; 1% of non-empty `Mood`): <em>лисиксэль, Рамиксэлинек, Туиксэлинь, аравтыксылидизь, валыксэлизь, васькавтыксэлизе, кадыксэлизь, кевкстиксэль, кирнявтыксэль, кортыксэль</em>
+* `Des` (15; 1% of non-empty `Mood`): <em>лисиксэль, Рамиксэлинек, Туиксэлинь, аравтыксылидизь, валыксэлизь, васькавтыксэлизе, кадыксэлизь, кевкстиксэль, кирнявтыксэль, кортыксэль</em>
 * `Imp` (137; 5% of non-empty `Mood`): <em>вант, адя, азё, ардодо, ванодо, кирдть, панть, учок, Ёвтак, Вечкик</em>
-* `Ind` (2342; 90% of non-empty `Mood`): <em>мерсь, лиссь, мольсь, ютась, ашти, неяви, совась, маряви, саизе, сась</em>
+* `Ind` (2354; 90% of non-empty `Mood`): <em>мерсь, лиссь, мольсь, ютась, ашти, маряви, неяви, совась, лоткась, саизе</em>
 * `Nec` (8; 0% of non-empty `Mood`): <em>лисема, важодема, карама, самаль, тапама, тейнема, уема</em>
 * `Opt` (18; 1% of non-empty `Mood`): <em>виезэ, гайгезэ, кандост, ливтест, лоподезэ, лоткаст, маряст, молезэ, налксезэ, пейдезэ</em>
 * `Prec` (14; 1% of non-empty `Mood`): <em>аштека, Ванодоя, Варштыка, Листяя, Лоткадоя, Макста, Невтика, Панжика, адяка, ваныка</em>
-* `Sub` (44; 2% of non-empty `Mood`): <em>Молевлить, Кортаволь, Содавлиньгак, аштевлить, вейсэндявольть, видевлинь, каванявлик, казевлинь, кандоволь, касоволь</em>
-* `EMPTY` (1137): <em>теемс, кортамо, молемс, учо, оймсеме, тееме, чиезь, ютазь, пелезь, сёрмадомо</em>
+* `Sub` (45; 2% of non-empty `Mood`): <em>Молевлить, Кармавлить, Кортаволь, Содавлиньгак, аштевлить, вейсэндявольть, видевлинь, каванявлик, казевлинь, кандоволь</em>
+* `EMPTY` (1155): <em>теемс, молемс, кортамо, учо, оймсеме, тееме, чиезь, ютазь, пелезь, сёрмадомо</em>
 
 <table>
   <tr><th>Paradigm <i>лисемс</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th><th><tt>Des</tt></th><th><tt>Nec</tt></th><th><tt>CndSub</tt></th><th><tt>Prec</tt></th></tr>
@@ -49,19 +49,19 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-404 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (51% of all `AUX` tokens) have a non-empty value of `Mood`.
+407 <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> tokens (51% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (359; 89%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (310; 77%), <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (305; 75%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (283; 70%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (283; 70%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (263; 65%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (224; 55%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (362; 89%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (312; 77%), <tt><a href="myv_jr-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (308; 76%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (286; 70%), <tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (286; 70%), <tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (263; 65%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (226; 56%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (17; 4% of non-empty `Mood`): <em>бу, Карминдерят, Эрявиндеряй, кармитьдеряй</em>
 * `Des` (1; 0% of non-empty `Mood`): <em>Кармиксэль</em>
-* `Imp` (41; 10% of non-empty `Mood`): <em>иля, кадык, илядо, давайте, Илять, Уледе, давай</em>
-* `Ind` (302; 75% of non-empty `Mood`): <em>эзь, кармась, ульнесь, кармасть, эряви, ули, карми, кармить, ульнесть, савсь</em>
+* `Imp` (42; 10% of non-empty `Mood`): <em>иля, кадык, илядо, давайте, Илять, Уледе, давай</em>
+* `Ind` (304; 75% of non-empty `Mood`): <em>эзь, кармась, ульнесь, кармасть, эряви, ули, карми, кармить, ульнесть, савсь</em>
 * `Opt` (21; 5% of non-empty `Mood`): <em>Кадык, илязо, улезэ, иляст, улест, илязт, улезт</em>
 * `Sub` (22; 5% of non-empty `Mood`): <em>аволь, улевель, аволинь, аволить, аволизе, аволинек, кармавлинь, улевельть, эряволь</em>
-* `EMPTY` (382): <em>а, аволь, апак, эзь, эзть, карма, уле, улеме, улемс, эссе</em>
+* `EMPTY` (384): <em>а, аволь, апак, эзь, эзть, карма, уле, улеме, улемс, эссе</em>
 
 <table>
   <tr><th>Paradigm <i>а</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Sub</tt></th><th><tt>Opt</tt></th></tr>
@@ -88,6 +88,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td></td><td><em>аволинь</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td></td><td><em>аволить</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td><em>эзить</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>иля</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td><em>иля</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="myv_jr-feat-VerbType.html">VerbType</a></tt><tt>=Aux</tt></tt></td><td></td><td></td><td><em>аволить</em></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td></td><td><em>аволь</em></td><td><em>илязо</em></td></tr>
@@ -102,7 +103,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (573; 77%),
+<tt>VERB --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> VERB</tt> (574; 77%),
 <tt>VERB --[<tt><a href="myv_jr-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (65; 52%),
 <tt>VERB --[<tt><a href="myv_jr-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (46; 55%),
 <tt>VERB --[<tt><a href="myv_jr-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (7; 64%),

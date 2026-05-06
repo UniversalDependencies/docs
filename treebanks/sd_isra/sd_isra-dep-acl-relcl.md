@@ -71,9 +71,9 @@ The following 8 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 6	پر	پر	SCONJ	CS	_	3	mark	_	_
 7	هاڻي	هاڻ	ADV	ADT	_	8	advmod	_	_
 8	ڪري	ڪر	VERB	VM	Aspect=Imp|Voice=Act	10	advcl	_	_
-9	سو	سو	PRON	PRL	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
+9	سو	سو	PRON	PRL	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	_
 10	ڪري	ڪر	VERB	VM	Aspect=Imp|Voice=Act	11	acl:relcl	_	_
-11	ڇا	ڇا	PRON	PRWH	_	0	root	_	_
+11	ڇا	ڇا	PRON	PRWH	Case=Nom|PronType=Int	0	root	_	_
 12	؟	؟	PUNCT	PUNCT	_	11	punct	_	_
 13	آخر	آخر	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	14	obl	_	_
 14	هلندي	هل	VERB	VM	Aspect=Imp|Gender=Masc|Number=Sing	15	xcomp	_	_

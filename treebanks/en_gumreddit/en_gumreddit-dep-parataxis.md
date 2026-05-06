@@ -22,25 +22,25 @@ The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 15 parataxis	color:blue
-1	_	_	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Discourse=evaluation-comment:24->16:3:lex-indwd-162-_|Entity=(22-event-giv:act-nnnnn-cf1*-1-coref)|Lem=*LOWER*|Len=4
+1	_	_	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Discourse=evaluation-comment:24->16:3:lex-indwd-162-_|Entity=(22-event-giv:act-nnnnn-cf1*-1-coref)|Lem=*LOWER*|Len=4|PDTB=Implicit:Expansion.Conjunction:furthermore:_:105-142:143-166
 2	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	Lem=be|Len=2
 3	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Lem=_|Len=7|MSeg=relat-ed
 4	_	_	SCONJ	IN	_	6	mark	6:mark	Discourse=causal-cause:25->24:0:dm-because-146-gold|Lem=_|Len=7|MSeg=be-cause|PDTB=Explicit:Contingency.Cause.Reason:because:146:143-145:147-166
 5	_	_	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	Entity=(28-event-new-nnnnn-cf9-2-disc(29-person-new-nnnnn-cf7-1-sgl)|Lem=person|Len=6
 6	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	3:advcl:because	Lem=_|Len=3
-7	_	_	NOUN	NN	Number=Sing	6	obj	6:obj	Entity=(12-abstract-giv:inact-sssss-cf4-1-coref)|Lem=_|Len=5
+7	_	_	NOUN	NN	Number=Sing	6	obj	6:obj	Entity=(12-abstract-giv:inact-sssss-cf5-1-coref)|Lem=_|Len=5
 8	_	_	PART	TO	_	9	mark	9:mark	Discourse=purpose-goal:26->25:0:syn-inf-150-_|Lem=_|Len=2|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:146-149:150-153
 9	_	_	VERB	VB	VerbForm=Inf	6	advcl	6:advcl:to	Lem=_|Len=3
 10	_	_	PROPN	NNP	Abbr=Yes|Number=Sing	11	compound	11:compound	Entity=(30-abstract-new-nnnnn-cf8-2-sgl(31-place-new-nnssn-cf3-1-coref-United_States)|Lem=_|Len=2
 11	_	_	NOUN	NN	Number=Sing	9	obj	9:obj	Entity=30)|Lem=_|Len=4
-12	_	_	PUNCT	:	_	15	punct	15:punct	Discourse=elaboration-additional:27->25:1:sem-lxchn-149,157-gold+sem-mrnym-149,161-165-_+sem-rpt-152,159-_|Lem=-|Len=2
-13	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	15:nsubj	Entity=(32-person-acc:com-nnnnn-cf5-1-ana)|Lem=_|Len=2
+12	_	_	PUNCT	:	_	15	punct	15:punct	Discourse=elaboration-additional:27->25:1:sem-lxchn-149,157-gold+sem-rpt-152,159-_|Lem=-|Len=2
+13	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	15:nsubj	Entity=(32-person-acc:com-nnnnn-cf6-1-ana)|Lem=_|Len=2
 14	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	aux	15:aux	Lem=be|Len=3
 15	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	6	parataxis	6:parataxis	Cxn=Ditransitive|CxnElt=15:Ditransitive.V|Lem=loan|Len=7|MSeg=loan-ing
 16	_	_	DET	DT	Definite=Def|PronType=Art	18	det	18:det	Entity=(23-organization-giv:act-nnsss-cf2-3-coref|Lem=_|Len=3
 17	_	_	PROPN	NNP	Abbr=Yes|Number=Sing	18	compound	18:compound	Entity=(31-place-giv:act-nnssn-cf3-1-coref-United_States)|Lem=_|Len=2
 18	_	_	NOUN	NN	Number=Sing|Typo=Yes	15	iobj	15:iobj	CorrectForm=government|CxnElt=15:Ditransitive.Rec|Entity=23)|Lem=government|Len=4|XML=<sic ana:::"government"></sic>
-19	_	_	DET	DT	Definite=Def|PronType=Art	21	det	21:det	Bridge=12<33|Entity=(33-abstract-acc:inf-nnnnn-cf6-3-sgl|Lem=_|Len=3
+19	_	_	DET	DT	Definite=Def|PronType=Art	21	det	21:det	Entity=(33-abstract-auto-nnnnn-cf4-3-sgl|Lem=_|Len=3
 20	_	_	ADJ	JJ	Degree=Pos	21	amod	21:amod	Lem=_|Len=4
 21	_	_	NOUN	NN	Number=Sing	15	obj	15:obj	CxnElt=15:Ditransitive.Theme|Lem=_|Len=5
 22	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	nsubj	23:nsubj	Discourse=elaboration-attribute:28->27:0:syn-mdf-163-_+syn-relcl-165-_|Entity=(23-organization-giv:act-nnsss-cf2-1-ana)|Lem=_|Len=2
@@ -56,23 +56,23 @@ The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 16 parataxis	color:blue
-1	_	_	NOUN	NN	Number=Sing	0	root	0:root	Discourse=elaboration-additional:68->67:0:_|Entity=(74-object-new-nnnnn-cf6-1-coref|Lem=*LOWER*|Len=4|PDTB=Implicit:Expansion.Level-of-detail.Arg2-as-detail:specifically:_:418-422:423-440
+1	_	_	NOUN	NN	Number=Sing	0	root	0:root	Bridge=74<75:entity-associative|Discourse=elaboration-additional:68->67:0:sem-mrnym-421,423-428-_|Entity=(75-object-acc:inf-nnnnn-cf4-1-sgl|Lem=*LOWER*|Len=4|PDTB=Implicit:Expansion.Level-of-detail.Arg2-as-detail:specifically:_:418-422:423-440
 2	_	_	ADP	IN	_	6	case	6:case	Lem=_|Len=2
-3	_	_	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Entity=(75-object-new-nnnnn-cf5-4-sgl|Lem=_|Len=3
+3	_	_	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Entity=(76-object-new-nnnnn-cf6-4-sgl|Lem=_|Len=3
 4	_	_	ADJ	JJ	Degree=Pos	6	amod	6:amod	Lem=_|Len=5
 5	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	Lem=_|Len=6|MSeg=puzz-le
-6	_	_	NOUN	NN	Number=Sing	1	obl	1:obl:in	Entity=75)74)|Lem=_|Len=3|SpaceAfter=No
+6	_	_	NOUN	NN	Number=Sing	1	obl	1:obl:in	Entity=76)75)|Lem=_|Len=3|SpaceAfter=No
 7	_	_	PUNCT	,	_	9	punct	9:punct	Lem=_|Len=1
-8	_	_	NOUN	NN	Number=Sing	9	compound	9:compound	Bridge=74<76|Entity=(76-object-acc:inf-nnnnn-cf2-2-sgl|Lem=_|Len=8|MSeg=propos-al
-9	_	_	NOUN	NNS	Number=Plur	1	parataxis	1:parataxis	Entity=76)|Lem=sign|Len=5|MSeg=sign-s|SpaceAfter=No
+8	_	_	NOUN	NN	Number=Sing	9	compound	9:compound	Entity=(77-object-auto-nnnnn-cf2-2-sgl|Lem=_|Len=8|MSeg=propos-al
+9	_	_	NOUN	NNS	Number=Plur	1	parataxis	1:parataxis	Entity=77)|Lem=sign|Len=5|MSeg=sign-s|SpaceAfter=No
 10	_	_	PUNCT	,	_	13	punct	13:punct	Lem=_|Len=1
-11	_	_	ADJ	JJ	Degree=Pos	13	amod	13:amod	Bridge=74<77|Entity=(77-abstract-acc:inf-nnnnn-cf3-3-sgl|Lem=_|Len=5
+11	_	_	ADJ	JJ	Degree=Pos	13	amod	13:amod	Entity=(78-abstract-auto-nnnnn-cf3-3-sgl|Lem=_|Len=5
 12	_	_	NOUN	NN	Number=Sing	13	compound	13:compound	Lem=_|Len=7|MSeg=pack-age
-13	_	_	NOUN	NN	Number=Sing	9	parataxis	9:parataxis	Entity=77)|Lem=_|Len=4|SpaceAfter=No
+13	_	_	NOUN	NN	Number=Sing	9	parataxis	9:parataxis	Entity=78)|Lem=_|Len=4|SpaceAfter=No
 14	_	_	PUNCT	,	_	16	punct	16:punct	Lem=_|Len=1
-15	_	_	NOUN	NNS	Number=Plur	16	nsubj	16:nsubj	Discourse=evaluation-comment:69->67:1:lex-indwd-438-_|Entity=(78-person-new-nnnnn-cf4-1-sgl)|Lem=person|Len=6
+15	_	_	NOUN	NNS	Number=Plur	16	nsubj	16:nsubj	Discourse=evaluation-comment:69->67:1:lex-indwd-438-_|Entity=(79-person-new-nnnnn-cf5-1-sgl)|Lem=person|Len=6
 16	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	parataxis	13:parataxis	Lem=_|Len=4
-17	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	obj	16:obj	Bridge=74<79|Entity=(79-abstract-acc:inf-nnnnn-cf1-1-sgl)|Lem=_|Len=2|SpaceAfter=No
+17	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	obj	16:obj	Entity=(80-abstract-auto-nnnnn-cf1-1-sgl)|Lem=_|Len=2|SpaceAfter=No
 18	_	_	PUNCT	.	_	1	punct	1:punct	Lem=_|Len=1
 
 ~~~
@@ -84,7 +84,7 @@ The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 19 parataxis	color:blue
-1	_	_	CCONJ	CC	_	7	cc	7:cc	Discourse=adversative-contrast_m:12->10:1:dm-and-83-gold|Lem=*LOWER*|Len=3|PDTB=Explicit:Comparison.Contrast:and:83:53-82:84-114
+1	_	_	CCONJ	CC	_	7	cc	7:cc	Discourse=adversative-contrast_m:12->10:1:dm-and-83-gold|Lem=*LOWER*|Len=3|PDTB=Explicit:Comparison.Contrast:and:83:53-82:84-114;Implicit:Expansion.Level-of-detail.Arg1-as-detail:in particular:_:30-52:83-114
 2	_	_	ADP	IN	_	4	case	4:case	Lem=_|Len=2
 3	_	_	DET	DT	Definite=Def|PronType=Art	4	det	4:det	Lem=_|Len=3
 4	_	_	NOUN	NN	Number=Sing	7	obl	7:obl:in	Lem=_|Len=4
@@ -98,7 +98,7 @@ The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a
 12	_	_	ADJ	JJS	Degree=Sup	13	amod	13:amod	Lem=large|Len=7|MSeg=larg-est
 13	_	_	NOUN	NN	Number=Sing	19	nsubj	19:nsubj|29:nsubj	Lem=_|Len=6
 14	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=2
-15	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	Entity=(13-event-giv:inact-n____-cf3-2-coref(7-animal-giv:act-sssss-cf1-1-ana-Giant_panda)|Lem=_|Len=5
+15	_	_	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	nmod:poss	16:nmod:poss	Entity=(13-event-giv:inact-nnnnn-cf3-2-coref(7-animal-giv:act-sssss-cf1-1-ana-Giant_panda)|Lem=_|Len=5
 16	_	_	NOUN	NN	Number=Sing	13	nmod	13:nmod:to	Entity=13)22)|Lem=_|Len=12|MSeg=re-produc-tion
 17	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	19:cop	Lem=be|Len=2
 18	_	_	DET	DT	Definite=Def|PronType=Art	19	det	19:det	Entity=(22-abstract-giv:act-nnnnn-cf2-2-coref|Lem=_|Len=3
@@ -114,7 +114,7 @@ The following 22 pairs of parts of speech are connected with `parataxis`: <tt><a
 28	_	_	ADJ	JJ	Degree=Pos	29	amod	29:amod	Lem=_|Len=4
 29	_	_	NOUN	NN	Number=Sing	19	conj	19:conj	Lem=_|Len=6
 30	_	_	SCONJ	IN	_	31	mark	31:mark	Lem=_|Len=2
-31	_	_	VERB	VBG	VerbForm=Ger	29	acl	29:acl:in	Entity=(13-event-giv:act-n____-cf3-1-coref)25)21)|Lem=reproduce|Len=11|MSeg=re-produc-ing|SpaceAfter=No
+31	_	_	VERB	VBG	VerbForm=Ger	29	acl	29:acl:in	Entity=(13-event-giv:act-nnnnn-cf3-1-coref)25)21)|Lem=reproduce|Len=11|MSeg=re-produc-ing|SpaceAfter=No
 32	_	_	PUNCT	.	_	7	punct	7:punct	Lem=_|Len=1
 
 ~~~

@@ -23,7 +23,7 @@ The following 2 pairs of parts of speech are connected with `nmod:desc`: <tt><a 
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 nmod:desc	color:blue
-1	StartEngine	StartEngine	PROPN	NNP	Number=Sing	2	compound	2:compound	Discourse=attribution-positive:159->13:8:sem-atsrc-1291-1294-gold+sem-atsrc-1298-1299,1305-1310-gold+sem-atsrc-1315-1319-gold|Entity=(6-organization-giv:inact-sssss-cf1-1,2,4-coref|MSeg=Start-Engine
+1	StartEngine	StartEngine	PROPN	NNP	Number=Sing	2	compound	2:compound	Discourse=attribution-positive:159->13:8:sem-atsrc-1291-1294,1298-1299,1305-1310,1315-1319-gold|Entity=(6-organization-giv:inact-sssss-cf1-1,2-coref|MSeg=Start-Engine
 2	Crowdfunding	Crowdfunding	PROPN	NNP	Number=Sing	0	root	0:root	MSeg=Crowd-fund-ing|SpaceAfter=No
 3	,	,	PUNCT	,	_	4	punct	4:punct	_
 4	Inc.	Inc.	PROPN	NNP	Abbr=Yes|Number=Sing	2	nmod:desc	2:nmod:desc	Entity=6)
@@ -50,7 +50,7 @@ The following 2 pairs of parts of speech are connected with `nmod:desc`: <tt><a 
 11	component	component	NOUN	NN	Number=Sing	4	obl	4:obl:in|16:nsubj:pass	_
 12	of	of	ADP	IN	_	13	case	13:case	_
 13	H2,4	H2,4	NOUN	NN	Number=Sing	11	nmod	11:nmod:of	Entity=(73-abstract-giv:act-nnnnn-cf1*-1-coref)
-14	that	that	PRON	WDT	PronType=Rel	16	nsubj:pass	11:ref	Discourse=elaboration-attribute:60->59:0:_
+14	that	that	PRON	WDT	PronType=Rel	16	nsubj:pass	11:ref	Discourse=elaboration-attribute:60->59:0:syn-mdf-470-_+syn-relcl-473,475-_
 15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	16:aux:pass	_
 16	connected	connect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	acl:relcl	11:acl:relcl	MSeg=connect-ed
 17	to	to	ADP	IN	_	18	case	18:case	_

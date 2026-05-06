@@ -8,33 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-251 nodes (6%) are attached to their parents as `conj`.
+350 nodes (6%) are attached to their parents as `conj`.
 
-251 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.27888446215139.
+350 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.4.
 
-The following 19 pairs of parts of speech are connected with `conj`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (82; 33% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (75; 30% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (26; 10% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (14; 6% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (14; 6% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (9; 4% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (7; 3% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 conj	color:blue
-1	ځکه	ځکه	SCONJ	_	_	10	mark	_	Translit=żë́ka|LTranslit=żë́ka|Gloss=since
-2	په	پۀ	ADP	_	Case=Loc	4	case	_	Translit=pë|LTranslit=pë|Gloss=at
-3	داسې	داسې	DET	_	Deixis=Prox|PronType=Dem|Variant=Short	4	det	_	Translit=dấse|LTranslit=dấse|Gloss=such
-4	بېخبرۍ	بېخبري	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	10	obl	_	Translit=bexabarë́y|LTranslit=bexabarí|Gloss=ignorance
-5	کې	کې	ADP	_	Case=Loc	4	case	_	Translit=ke|LTranslit=ke|Gloss=in
-6	قضاوتونه	قضاوت	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	Translit=qazâwatúna|LTranslit=qazâwát|Gloss=judgments
-7	او	او	CCONJ	_	_	8	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-8	اټکلونه	اټکل	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	conj	_	Translit=aṭkalúna|LTranslit=aṭkál|Gloss=assumptions
-9	ناسم	ناسم	ADJ	_	Case=Nom|Gender=Masc|Number=Plur|Polarity=Neg	10	xcomp	_	Translit=nấsam|LTranslit=nấsam|Gloss=incorrect
-10	خېژي	ختل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=xeží|LTranslit=xatë́l|Gloss=arise|SpaceAfter=No
-11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
-
-~~~
+The following 21 pairs of parts of speech are connected with `conj`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (116; 33% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (106; 30% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (36; 10% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (18; 5% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (16; 5% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (11; 3% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (7; 2% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (6; 2% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt>-<tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -57,6 +36,27 @@ The following 19 pairs of parts of speech are connected with `conj`: <tt><a href
 12	مخه	مخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	13	obj	_	Translit=më́xa|LTranslit=më́xa|Gloss=way
 13	ونیسي	نیول	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	3	ccomp	_	Translit=wë́nisi|LTranslit=niwë́l|Gloss=would-catch|SpaceAfter=No
 14	.	.	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 conj	color:blue
+1	ځکه	ځکه	SCONJ	_	_	10	mark	_	Translit=żë́ka|LTranslit=żë́ka|Gloss=since
+2	په	پۀ	ADP	_	Case=Loc	4	case	_	Translit=pë|LTranslit=pë|Gloss=at
+3	داسې	داسې	DET	_	Deixis=Prox|PronType=Dem|Variant=Short	4	det	_	Translit=dấse|LTranslit=dấse|Gloss=such
+4	بېخبرۍ	بېخبري	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	10	obl	_	Translit=bexabarë́y|LTranslit=bexabarí|Gloss=ignorance
+5	کې	کې	ADP	_	Case=Loc	4	case	_	Translit=ke|LTranslit=ke|Gloss=in
+6	قضاوتونه	قضاوت	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	Translit=qazâwatúna|LTranslit=qazâwát|Gloss=judgments
+7	او	او	CCONJ	_	_	8	cc	_	Translit=aw|LTranslit=aw|Gloss=and
+8	اټکلونه	اټکل	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	conj	_	Translit=aṭkalúna|LTranslit=aṭkál|Gloss=assumptions
+9	ناسم	ناسم	ADJ	_	Case=Nom|Gender=Masc|Number=Plur|Polarity=Neg	10	xcomp	_	Translit=nấsam|LTranslit=nấsam|Gloss=incorrect
+10	خېژي	ختل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=xeží|LTranslit=xatë́l|Gloss=arise|SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

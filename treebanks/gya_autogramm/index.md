@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Paulette Roulon.
 
 Repository: [UD_Northwest_Gbaya-Autogramm](https://github.com/UniversalDependencies/UD_Northwest_Gbaya-Autogramm)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgya_autogramm217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgya_autogramm218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -416,8 +416,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (226)</li>
-      <li>VERB--NOUN-ADP(táá) (1)</li>
+      <li>VERB--NOUN (225)</li>
       <li>VERB--PRON (24)</li>
       <li>VERB--PRON-ADP(nɛ̀) (1)</li>
       <li>VERB-Vnoun--NOUN (3)</li>

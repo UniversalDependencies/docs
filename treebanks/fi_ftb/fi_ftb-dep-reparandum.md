@@ -58,7 +58,7 @@ The following 9 pairs of parts of speech are connected with `reparandum`: <tt><a
 14	oli	olla	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	acl	_	_
 15	tää	tämä	DET	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem|Style=Coll	17	det	_	_
 16	radikaali	radikaali	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	17	amod	_	_
-17	feminismiliike	feminismiliike	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	14	nsubj	_	candidate=nsubj:exist
+17	feminismiliike	feminismiliike	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	14	nsubj	_	Candidate=nsubj:exist
 18	ja	ja	CCONJ	Pcle,CC	_	21	cc	_	_
 19	se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	21	obj	_	_
 20	niinku	niinkuin	PART	Pcle	Style=Coll	21	advmod	_	_

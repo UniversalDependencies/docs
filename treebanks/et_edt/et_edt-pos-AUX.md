@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>on</em> (<tt><a href="et_edt-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 13.833333 (the average of all parts of speech is 1.914231).
+The form / lemma ratio of `AUX` is 13.833333 (the average of all parts of speech is 1.914465).
 
 The 1st highest number of forms (55) was observed with the lemma “olema”: <em>Olemata, Olge, olda, oldi, oldud, ole, oled, oledki, olegi, oleks, oleksid, oleksidki, oleksime, oleksin, olekski, olema, olemas, olemast, oleme, olemegi, olen, olengi, oless, olete, oletegi, olevat, olevatki, olgem, olgu, oli, olid, olidki, oligi, olime, olimegi, olin, olite, olla, ollakse, ollaksegi, olles, olnud, olnudki, olnuks, om, on, ongi, ons, pole, polegi, poleks, polekski, polevat, polnud, polnudki</em>.
 
@@ -74,7 +74,7 @@ Examples: <em>on, võib, saab, peab, ongi, tundub, näib, tohib, peabki, saabki<
 
 `AUX` nodes are attached to their parents using 8 different relations: <tt><a href="et_edt-dep-aux.html">aux</a></tt> (11718; 52% instances), <tt><a href="et_edt-dep-cop.html">cop</a></tt> (10727; 48% instances), <tt><a href="et_edt-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="et_edt-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-orphan.html">orphan</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-root.html">root</a></tt> (1; 0% instances), <tt><a href="et_edt-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 12 different parts of speech: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (10527; 47% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (5031; 22% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (4405; 20% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1030; 5% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1006; 4% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (287; 1% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (127; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (32; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `AUX` nodes belong to 12 different parts of speech: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (10527; 47% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (5029; 22% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (4405; 20% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1028; 5% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1009; 4% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (287; 1% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (128; 1% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (32; 0% instances), <tt><a href="et_edt-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances),  (1; 0% instances)
 
 22442 (100%) `AUX` nodes are leaves.
 

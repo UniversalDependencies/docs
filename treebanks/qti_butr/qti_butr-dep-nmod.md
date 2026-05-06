@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (3%) are attached to their parents as `nmod`.
+10 nodes (2%) are attached to their parents as `nmod`.
 
 9 instances of `nmod` (90%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.8.
 
-The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt> (5; 50% instances), <tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qti_butr-pos-PROPN.html">PROPN</a></tt> (2; 20% instances), <tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> (2; 20% instances), <tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> (1; 10% instances).
+The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt> (5; 50% instances), <tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qti_butr-pos-PROPN.html">PROPN</a></tt> (3; 30% instances), <tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> (1; 10% instances), <tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> (1; 10% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href=
 4	etmek	et	VERB	_	Case=Nom|Polarity=Pos	5	nsubj	_	Lang=tr
 5	kolay	kolay	ADJ	_	_	0	root	_	Lang=tr
 6	değil	değil	AUX	_	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	5	aux	_	Lang=tr|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
@@ -54,18 +54,23 @@ The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 nmod	color:blue
-1	Çok	çok	ADV	_	_	2	advmod	_	Lang=tr
-2	kalabalık	kalabalık	ADJ	_	_	3	amod	_	Lang=tr
-3	olacağı	ol	VERB	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Polarity=Pos|Tense=Fut|VerbForm=Part	4	nmod	_	Lang=tr
-4	gerçeği	gerçek	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	6	nsubj	_	Lang=tr|LoanTrans=en:the_fact_that
-5	beni	ben	PRON	_	Case=Acc|Number=Sing|Person=1	6	obj	_	Lang=tr
-6	turn-offluyor	turn-off	VERB	_	Aspect=Prog|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	0	root	_	Lang=tr|CSID=MIXED|CSPoint=turn-off§luyor|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 9 nmod	color:blue
+1	Of	of	ADP	_	ExtPos=ADV	4	discourse	_	Lang=en
+2	course	course	NOUN	_	_	1	fixed	_	Lang=en
+3	metroyla	metro	NOUN	_	Case=Ins|Number=Sing|Person=3	4	obl	_	Lang=tr
+4	gideceğiz	git	VERB	_	Aspect=Perf|Number=Plur|Person=1|Polarity=Pos|Tense=Fut	0	root	_	Lang=tr|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	_
+6	yürüyecek	yürü	VERB	_	Case=Nom|Polarity=Pos|Tense=Fut|VerbForm=Part	4	parataxis	_	Lang=tr
+7	değiliz	değil	AUX	_	Number=Plur|Person=1|Polarity=Neg|Tense=Pres	6	aux	_	Lang=tr
+8	ya	ya	PART	_	_	6	discourse	_	Lang=tr
+9	o	o	PRON	_	Case=Nom|Number=Sing|PronType=Dem	11	nmod	_	Lang=tr
+10	kadar	kadar	ADP	_	_	9	case	_	Lang=tr
+11	yolu	yol	NOUN	_	Case=Acc|Number=Sing|Person=3	6	obj	_	Lang=tr|SpaceAfter=No
+12	!	!	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

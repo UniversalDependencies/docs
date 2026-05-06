@@ -19,17 +19,17 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Furkan Akkurt, Nursena Teker, Helin Binici, Ahmet Demir, Konstantinos Sampanis.
 
 Repository: [UD_Turkish_English-BUTR](https://github.com/UniversalDependencies/UD_Turkish_English-BUTR)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqti_butr217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udqti_butr218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
-Genre: spoken
+Genre: spoken, social
 
 Questions, comments?
 General annotation questions (either Turkish English-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Turkish_English-BUTR/issues).
-If you want to collaborate, please contact [furkanakkurt7242&nbsp;(æt)&nbsp;icloud&nbsp;•&nbsp;com].
+If you want to collaborate, please contact [furkan&nbsp;•&nbsp;akkurt&nbsp;(æt)&nbsp;bogazici&nbsp;•&nbsp;edu&nbsp;•&nbsp;tr].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
@@ -54,7 +54,21 @@ Qualitative analysis of the treebank reveals distinctive code-switching patterns
 
 The Universal Dependencies analysis demonstrates three key syntactic patterns in Boğaziçi Turkish: preservation of Turkish syntactic structure with English lexical insertions, morphological adaptation of English verbs, and code-switching at specific syntactic boundaries.
 
-This treebank provides a standardized resource for analyzing syntactic patterns in Turkish-English code-switching, facilitating further research in computational linguistics. While the initial release contains a modest number of representative sentences, the resource will hopefully be expanded in future releases.
+The treebank captures three main contact phenomena:
+
+* **Code-switching (CS):** Full English phrases or clauses embedded in Turkish discourse, both intrasentential and intersentential.
+* **Lexical adaptation (LA):** English words integrated with Turkish morphology, such as "drop-bylayacağım" ("I will drop by") or "overthinkledim" ("I overthought").
+* **Loan translation (LT):** Calques of English expressions using Turkish lexemes, such as "toplantı almak" (loan translation of "to get a meeting").
+
+Each sentence is annotated with the following comment-level metadata:
+
+* `# type` — Primary contact phenomenon (CS, LA, or LT)
+* `# text_en` — English translation
+* `# medium` — Communication medium (Written or Spoken), where known
+
+Token-level language identification is provided via `Lang=tr` / `Lang=en` in the MISC column. Morpheme-level code-switching boundaries are marked with `CSID=MIXED` and `CSPoint` features.
+
+This treebank provides a standardized resource for analyzing syntactic patterns in Turkish-English code-switching, facilitating further research in computational linguistics.
 
 ## Acknowledgments
 
@@ -81,7 +95,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
 
 ## Features
 
-[Aspect](qti_butr-feat-Aspect.html) – [Case](qti_butr-feat-Case.html) – [Evident](qti_butr-feat-Evident.html) – [ExtPos](qti_butr-feat-ExtPos.html) – [Gender](qti_butr-feat-Gender.html) – [Mood](qti_butr-feat-Mood.html) – [Number](qti_butr-feat-Number.html) – [Number[psor]](qti_butr-feat-Number-psor.html) – [NumType](qti_butr-feat-NumType.html) – [Person](qti_butr-feat-Person.html) – [Person[psor]](qti_butr-feat-Person-psor.html) – [Polarity](qti_butr-feat-Polarity.html) – [PronType](qti_butr-feat-PronType.html) – [Tense](qti_butr-feat-Tense.html) – [Typo](qti_butr-feat-Typo.html) – [VerbForm](qti_butr-feat-VerbForm.html) – [Voice](qti_butr-feat-Voice.html)
+[Aspect](qti_butr-feat-Aspect.html) – [Case](qti_butr-feat-Case.html) – [Evident](qti_butr-feat-Evident.html) – [ExtPos](qti_butr-feat-ExtPos.html) – [Gender](qti_butr-feat-Gender.html) – [Mood](qti_butr-feat-Mood.html) – [Number](qti_butr-feat-Number.html) – [Number[psor]](qti_butr-feat-Number-psor.html) – [NumType](qti_butr-feat-NumType.html) – [Person](qti_butr-feat-Person.html) – [Person[psor]](qti_butr-feat-Person-psor.html) – [Polarity](qti_butr-feat-Polarity.html) – [Poss](qti_butr-feat-Poss.html) – [PronType](qti_butr-feat-PronType.html) – [Tense](qti_butr-feat-Tense.html) – [Typo](qti_butr-feat-Typo.html) – [VerbForm](qti_butr-feat-VerbForm.html) – [Voice](qti_butr-feat-Voice.html)
 
 ## Relations
 
@@ -91,11 +105,11 @@ This work was conducted as part of a research project at Boğaziçi University, 
 
 
 <ul>
-<li>This corpus contains 51 sentences and 393 tokens.</li>
+<li>This corpus contains 58 sentences and 441 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 62 tokens (16%) that are not followed by a space.</li>
+<li>This corpus contains 69 tokens (16%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -103,7 +117,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
 </ul>
 
 <ul>
-<li>This corpus contains 8 types of words that contain both letters and punctuation. Examples: Hoca'nın, KK'ya, Let's, That's, You're, doesn't, drop-bylayacağım, turn-offluyor</li>
+<li>This corpus contains 9 types of words that contain both letters and punctuation. Examples: De-Google, Hoca'nın, KK'ya, Let's, That's, You're, doesn't, drop-bylayacağım, turn-offluyor</li>
 </ul>
 
 <ul>
@@ -123,7 +137,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
 </ul>
 
 <ul>
-<li>This corpus contains 15 lemmas tagged as pronouns (PRON): I, ben, bir, biri, bu, bura, he, it, nere, o, sen, siz, that, this, you</li>
+<li>This corpus contains 16 lemmas tagged as pronouns (PRON): I, ben, bir, biri, bu, bura, he, it, ne, nere, o, sen, siz, that, this, you</li>
 </ul>
 
 <ul>
@@ -149,7 +163,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: vermeden, çıkmadan</li>
+    <li>VERB: düşününce, takılıp, vermeden, çıkmadan</li>
   </ul>
   </li>
 </ul>
@@ -158,7 +172,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
   <li>Fin
   <ul>
     <li>AUX: were</li>
-    <li>VERB: Go, Let's, own, thought</li>
+    <li>VERB: Go, Let's, makes, own, thought</li>
   </ul>
   </li>
 </ul>
@@ -174,7 +188,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>Part
   <ul>
-    <li>VERB: alan, bitching, coming, ettiğine, giden, olacağı, olduğunuz, spinning, supposed, texting</li>
+    <li>VERB: alan, bitching, coming, dediklerini, ettiğine, giden, olacağı, olduğunuz, spinning, supposed</li>
   </ul>
   </li>
 </ul>
@@ -211,10 +225,10 @@ This work was conducted as part of a research project at Boğaziçi University, 
   <li>Plur
     <ul>
       <li>AUX: değiliz</li>
-      <li>NOUN: Guys, decorations, aspectlere, machinelerden, terimlerde, şeyler</li>
+      <li>NOUN: Guys, decorations, aspectlere, detaylara, machinelerden, terimlerde, şeyler</li>
       <li>PRON: Sizce</li>
-      <li>VERB: alabiliriz, değinemiyoruz, eyleyelim, gideceğiz, görüşürüz, olduğunuz, olmayız, uyuyacağız, çıkıyoruz</li>
-      <li>VERB-Part: olduğunuz</li>
+      <li>VERB: alabiliriz, dediklerini, değinemiyoruz, duyduk, eyleyelim, gideceğiz, görüşürüz, olduğunuz, olmayız, uyuyacağız</li>
+      <li>VERB-Part: dediklerini, olduğunuz</li>
     </ul>
   </li>
 </ul>
@@ -222,13 +236,13 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: karşıyayım</li>
+      <li>ADJ: gayriintentionaldı, karşıyayım, üzgünüm</li>
       <li>AUX: değil, misin</li>
-      <li>NOUN: şey, Bro, distinction, hat, head, lord, mercy, price, taste, Aklıma</li>
+      <li>NOUN: şey, Bro, distinction, hat, head, kaşar, lord, mercy, page, price</li>
       <li>PRON: bu, i, Ben, bana, bence, beni, it, Birinin, Bunda, Bunu</li>
-      <li>PROPN: barbie, Allah, Cem, Cumartesi, Daktilo, Didar, KK'ya, Kazım, Koyuncu, Yılmaz</li>
+      <li>PROPN: barbie, Allah, Cem, Cumartesi, Daktilo, Didar, Erzincan, KK'ya, Kazım, Koyuncu</li>
       <li>VERB: ettim, geldi, Depends, Gel, Seems, Soggyleşmiş, Yemişsin, attın, başlasam, bilmiyorum</li>
-      <li>VERB-Fin: own</li>
+      <li>VERB-Fin: makes, own</li>
       <li>VERB-Part: ettiğine, olacağı</li>
     </ul>
   </li>
@@ -253,6 +267,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
     <ul>
       <li>NOUN: boynumu, dersini, hocayı, sitesini, yolu, Şarkıyı</li>
       <li>PRON: beni, it, Bunu, onu, seni</li>
+      <li>VERB-Part: dediklerini</li>
     </ul>
   </li>
 </ul>
@@ -260,7 +275,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>Dat
     <ul>
-      <li>NOUN: Aklıma, Derse, aspectlere, meşgule, üstüne, üzerine</li>
+      <li>NOUN: Aklıma, Derse, aspectlere, detaylara, meşgule, üstüne, üzerine</li>
       <li>PRON: bana</li>
       <li>PROPN: KK'ya</li>
       <li>VERB-Part: ettiğine</li>
@@ -272,7 +287,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>Equ
     <ul>
-      <li>PRON: bence</li>
+      <li>PRON: bence, Sizce</li>
     </ul>
   </li>
 </ul>
@@ -289,7 +304,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>Ins
     <ul>
-      <li>NOUN: itemıyla, metroyla, sevgilimle</li>
+      <li>NOUN: ihtimalle, itemıyla, metroyla, sevgilimle</li>
     </ul>
   </li>
 </ul>
@@ -298,7 +313,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
   <li>Loc
     <ul>
       <li>NOUN: Kafamda, arada, gözlemede, tanımımda, terimlerde</li>
-      <li>PRON: nerede, Bunda, burada</li>
+      <li>PRON: Bunda, burada, nerede</li>
     </ul>
   </li>
 </ul>
@@ -306,9 +321,9 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>Nom
     <ul>
-      <li>NOUN: şey, Canım, Hoca, Kanka, aile, akşam, ayağın, cümle, diziydi, gece</li>
-      <li>PRON: bu, i, Ben, u, Sizce, biri, o, you</li>
-      <li>PROPN: Allah, Cem, Cumartesi, Daktilo, Didar, Kazım, Koyuncu, Yılmaz, ceren</li>
+      <li>NOUN: şey, kaşar, Canım, Hoca, Kanka, aile, akşam, ayağın, cümle, diziydi</li>
+      <li>PRON: bu, i, Ben, u, Ne, biri, o, you</li>
+      <li>PROPN: Allah, Cem, Cumartesi, Daktilo, Didar, Erzincan, Kazım, Koyuncu, Yılmaz, ceren</li>
       <li>VERB: yapmak, etmek, flörtleşmek, görüşmek, olacağı, yürüyecek</li>
       <li>VERB-Part: olacağı, yürüyecek</li>
       <li>VERB-Vnoun: flörtleşmek, görüşmek, yapmak</li>
@@ -329,9 +344,10 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>Neg
     <ul>
+      <li>ADJ: yok</li>
       <li>AUX: değil, değiliz</li>
       <li>PART: not</li>
-      <li>VERB: bilmiyorum, değinemiyoruz, düşünmezsen, düşürmedim, istemiyormuş, istemiyorum, olmayız, vermeden</li>
+      <li>VERB: bilmiyorum, değinemiyoruz, düşünmezsen, düşürmedim, eyleyemiyorum, istemiyormuş, istemiyorum, olmayız, vermeden</li>
       <li>VERB-Conv: vermeden</li>
     </ul>
   </li>
@@ -340,9 +356,10 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>Pos
     <ul>
+      <li>ADJ: var</li>
       <li>VERB: ettim, geldi, yapmak, Gel, Soggyleşmiş, Yemişsin, alabiliriz, alan, attın, başlasam</li>
-      <li>VERB-Conv: çıkmadan</li>
-      <li>VERB-Part: alan, ettiğine, giden, olacağı, olduğunuz, yaşayan, yürüyecek</li>
+      <li>VERB-Conv: düşününce, takılıp, çıkmadan</li>
+      <li>VERB-Part: alan, dediklerini, ettiğine, giden, olacağı, olduğunuz, yaşayan, yürüyecek</li>
       <li>VERB-Vnoun: etmeye, flörtleşmek, görüşmek, sormaya, yapmak</li>
     </ul>
   </li>
@@ -359,7 +376,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>Hab
     <ul>
-      <li>VERB: düşünmezsen</li>
+      <li>VERB: düşünmezsen, odaklandırır</li>
     </ul>
   </li>
 </ul>
@@ -375,7 +392,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>Perf
     <ul>
-      <li>VERB: ettim, geldi, Soggyleşmiş, Yemişsin, attın, dedi, diyeceğim, drop-bylayacağım, duyuldu, düşürmedim</li>
+      <li>VERB: ettim, geldi, Soggyleşmiş, Yemişsin, attın, dedi, diyeceğim, drop-bylayacağım, duyduk, duyuldu</li>
     </ul>
   </li>
 </ul>
@@ -383,7 +400,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>Prog
     <ul>
-      <li>VERB: bilmiyorum, değinemiyoruz, ediyorum, hissediyor, istemiyorum, turn-offluyor, çalışıyor, çıkıyoruz</li>
+      <li>VERB: bilmiyorum, değinemiyoruz, duyuluyo, ediyorum, eyleyemiyorum, hissediyor, istemiyorum, turn-offluyor, çalışıyor, çıkıyoruz</li>
     </ul>
   </li>
 </ul>
@@ -421,6 +438,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
   <li>Ind
     <ul>
       <li>AUX-Fin: were</li>
+      <li>VERB-Fin: makes, own, thought</li>
     </ul>
   </li>
 </ul>
@@ -436,7 +454,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>Pot
     <ul>
-      <li>VERB: alabiliriz</li>
+      <li>VERB: alabiliriz, eyleyemiyorum</li>
     </ul>
   </li>
 </ul>
@@ -458,9 +476,9 @@ This work was conducted as part of a research project at Boğaziçi University, 
   <li>Past
     <ul>
       <li>AUX-Fin: were</li>
-      <li>VERB: ettim, geldi, Soggyleşmiş, Yemişsin, attın, dedi, duyuldu, düşürmedim, ettiğine, gönderdi</li>
+      <li>VERB: ettim, geldi, Soggyleşmiş, Yemişsin, attın, dedi, dediklerini, duyduk, duyuldu, düşündüm</li>
       <li>VERB-Fin: thought</li>
-      <li>VERB-Part: ettiğine, olduğunuz, supposed</li>
+      <li>VERB-Part: dediklerini, ettiğine, olduğunuz, supposed</li>
     </ul>
   </li>
 </ul>
@@ -469,8 +487,8 @@ This work was conducted as part of a research project at Boğaziçi University, 
   <li>Pres
     <ul>
       <li>AUX: değil, değiliz</li>
-      <li>VERB: Depends, Seems, alabiliriz, alan, bilmiyorum, bitching, coming, değinemiyoruz, düşünmezsen, ediyorum</li>
-      <li>VERB-Fin: own</li>
+      <li>VERB: Depends, Seems, alabiliriz, alan, bilmiyorum, bitching, coming, değinemiyoruz, duyuluyo, düşünmezsen</li>
+      <li>VERB-Fin: makes, own</li>
       <li>VERB-Part: alan, bitching, coming, giden, spinning, texting, yaşayan</li>
     </ul>
   </li>
@@ -483,7 +501,7 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>Pass
     <ul>
-      <li>VERB: duyuldu</li>
+      <li>VERB: duyuldu, duyuluyo</li>
     </ul>
   </li>
 </ul>
@@ -516,9 +534,61 @@ This work was conducted as part of a research project at Boğaziçi University, 
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: bir, a, the</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dem
     <ul>
-      <li>PRON: o</li>
+      <li>DET: bu, o</li>
+      <li>PRON: this, bu, That's, Bunda, Bunu, Bunun, burada, o</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: Other</li>
+      <li>PRON: Birinin, biri</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>DET: hangi</li>
+      <li>PRON: Ne, nerede</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>DET: hiçbir</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: my</li>
+      <li>PRON: i, Ben, Me, You're, bana, bence, beni, he, it, u</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: All</li>
     </ul>
   </li>
 </ul>
@@ -535,6 +605,17 @@ This work was conducted as part of a research project at Boğaziçi University, 
   </li>
 </ul>
 
+<ul>
+  <li><a>Poss</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: my</li>
+    </ul>
+  </li>
+</ul>
 
 
 <ul>
@@ -544,11 +625,11 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>1
     <ul>
-      <li>ADJ: karşıyayım</li>
+      <li>ADJ: karşıyayım, üzgünüm</li>
       <li>AUX: değiliz</li>
       <li>NOUN: zorundayım</li>
       <li>PRON: i, Ben, bana, bence, beni</li>
-      <li>VERB: ettim, Let's, alabiliriz, başlasam, bilmiyorum, değinemiyoruz, diyeceğim, drop-bylayacağım, düşürmedim, ediyorum</li>
+      <li>VERB: ettim, Let's, alabiliriz, başlasam, bilmiyorum, değinemiyoruz, diyeceğim, drop-bylayacağım, duyduk, düşündüm</li>
       <li>VERB-Fin: Let's, own</li>
     </ul>
   </li>
@@ -569,12 +650,14 @@ This work was conducted as part of a research project at Boğaziçi University, 
 <ul>
   <li>3
     <ul>
+      <li>ADJ: gayriintentionaldı</li>
       <li>AUX: değil</li>
-      <li>NOUN: şey, Aklıma, Canım, Derse, Dünyanın, Hoca, Hoca'nın, Kafamda, Kanka, Okulun</li>
+      <li>NOUN: şey, kaşar, Aklıma, Canım, Derse, Dünyanın, Hoca, Hoca'nın, Kafamda, Kanka</li>
       <li>PRON: bu, it, Birinin, Bunda, Bunu, Bunun, biri, burada, onu</li>
-      <li>PROPN: Allah, Cem, Cumartesi, Daktilo, Didar, KK'ya, Kazım, Koyuncu, Yılmaz, ceren</li>
-      <li>VERB: geldi, Depends, Seems, Soggyleşmiş, dedi, duyuldu, edecek, ettiğine, gönderdi, hissediyor</li>
-      <li>VERB-Part: ettiğine, olacağı</li>
+      <li>PROPN: Allah, Cem, Cumartesi, Daktilo, Didar, Erzincan, KK'ya, Kazım, Koyuncu, Yılmaz</li>
+      <li>VERB: geldi, Depends, Seems, Soggyleşmiş, dedi, dediklerini, duyuldu, duyuluyo, edecek, ettiğine</li>
+      <li>VERB-Fin: makes</li>
+      <li>VERB-Part: dediklerini, ettiğine, olacağı</li>
     </ul>
   </li>
 </ul>
@@ -669,7 +752,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (3)</li>
-      <li>VERB--NOUN-Nom (5)</li>
+      <li>VERB--NOUN-Nom (6)</li>
       <li>VERB--PRON (3)</li>
       <li>VERB--PRON-Nom (4)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
@@ -691,8 +774,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Nom (1)</li>
       <li>VERB--PRON (2)</li>
       <li>VERB--PRON-Acc (3)</li>
-      <li>VERB-Fin--NOUN-Nom (2)</li>
+      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin--NOUN-Nom (1)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
+      <li>VERB-Part--PRON-Nom (1)</li>
       <li>VERB-Vnoun--NOUN-Nom (1)</li>
       <li>VERB-Vnoun--PRON-Acc (1)</li>
     </ul>

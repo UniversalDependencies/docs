@@ -9,8 +9,6 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="hr_set-feat-Gender.html">Gender</a></tt>, <tt><a href="hr_set-feat-Gender-psor.html">Gender[psor]</a></tt>.
-
 100306 tokens (50%) have a non-empty value of `Gender`.
 32347 types (91%) occur at least once with a non-empty value of `Gender`.
 15628 lemmas (84%) occur at least once with a non-empty value of `Gender`.

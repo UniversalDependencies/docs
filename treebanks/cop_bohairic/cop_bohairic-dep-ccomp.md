@@ -58,12 +58,12 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 4	ϥ	ⲛⲑⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 5	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	8	mark	_	_
 6	ⲁⲛⲟⲕ	ⲁⲛⲟⲕ	PRON	PPERI	Definite=Def|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	Orig=ⲁ̀ⲛⲟⲕ
-7	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	8	det	_	_
-8	ⲣⲉϥⲉⲣⲛⲟⲃⲓ	ⲣⲉϥⲉⲣⲛⲟⲃⲓ	NOUN	N	_	1	ccomp	_	MSeg=ⲣⲉϥ-ⲉⲣ-ⲛⲟⲃⲓ
-9	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
+7	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	8	det	_	Entity=(person
+8	ⲣⲉϥⲉⲣⲛⲟⲃⲓ	ⲣⲉϥⲉⲣⲛⲟⲃⲓ	NOUN	N	_	1	ccomp	_	Entity=person)|MSeg=ⲣⲉϥ-ⲉⲣ-ⲛⲟⲃⲓ
+9	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	Entity=(person
 10	ⲓⲱⲧ	ⲓⲱⲧ	NOUN	N	_	8	vocative	_	Orig=ⲓ̀ⲱⲧ
 11	ⲉⲑ	ⲉⲧⲉ	SCONJ	CREL	_	12	mark	_	_
-12	ⲟⲩⲁⲃ	ⲟⲩⲁⲃ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	10	acl:relcl	_	_
+12	ⲟⲩⲁⲃ	ⲟⲩⲁⲃ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	10	acl:relcl	_	Entity=person)
 13	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
@@ -76,12 +76,12 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 10	fgColor:white
 # visual-style 10 13 ccomp	color:blue
 1	ⲡⲉϫⲉ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	_
-2	ⲁⲡⲁ	ⲁⲡⲁ	NOUN	N	Foreign=Yes	1	nsubj	_	OrigLang=heb
-3	ⲡϫⲱⲗ	ⲡϫⲱⲗ	PROPN	NPROP	_	2	flat	_	_
+2	ⲁⲡⲁ	ⲁⲡⲁ	NOUN	N	Foreign=Yes	1	nsubj	_	Entity=(person|OrigLang=heb
+3	ⲡϫⲱⲗ	ⲡϫⲱⲗ	PROPN	NPROP	_	2	flat	_	Entity=person)
 4	ⲛⲁ	ⲛⲁ	ADP	PREP	_	5	case	_	_
 5	ϥ	ⲛⲑⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 6	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	10	mark	_	_
-7	ⲉⲧ	ⲁⲣⲉ	PART	CFOC	_	10	mark	_	Orig=ⲉ̀ⲧ
+7	ⲉⲧ	ⲁⲣⲉ	PART	CFOC	Emph=Yes	10	mark	_	Orig=ⲉ̀ⲧ
 8	ⲁ	ⲁ	AUX	APST	_	10	aux	_	_
 9	ⲕ	ⲛⲑⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	nsubj	_	_
 10	ⲥⲟⲑⲙⲉ	ⲥⲱⲧⲉⲙ	VERB	V	Mood=Ind|VerbForm=Fin	1	ccomp	_	Cxn=Interrogative-WHInfo-Indirect|CxnElt=10:Interrogative-Polar-Direct.Clause

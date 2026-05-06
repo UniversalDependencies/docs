@@ -8,25 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-132 nodes (8%) are attached to their parents as `root`.
+203 nodes (11%) are attached to their parents as `root`.
 
-132 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.46212121212121.
+203 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.27586206896552.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (107; 81% instances), -<tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> (13; 10% instances), -<tt><a href="xpg_kul-pos-X.html">X</a></tt> (6; 5% instances), -<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), -<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), -<tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> (1; 1% instances), -<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 1% instances), -<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (121; 60% instances), -<tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (26; 13% instances), -<tt><a href="xpg_kul-pos-SYM.html">SYM</a></tt> (26; 13% instances), -<tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (14; 7% instances), -<tt><a href="xpg_kul-pos-X.html">X</a></tt> (11; 5% instances), -<tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), -<tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 1 root	color:blue
-1	ε[..]γ̣εντ̣ουμενος	ε[..]γ̣εντ̣ουμενος	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	0	root	_	Ref=TM867450|2|1
-2	νιοισιος	νιοισιος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Ref=TM867450|2|2
-3	ναδροτος	ναδροτος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	Ref=TM867450|2|3
-4	ειτου	ituv	AUX	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No|Ref=TM867450|2|4
-5	.	.	PUNCT	_	_	1	punct	_	Ref=TM867450|2|5
+# visual-style 0 7 root	color:blue
+1	ates	ates	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Ref=TM756906-1-1
+2	arkiaevais	arkiaevais	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756906-1-2
+3	akenanogavos	akenanogavos	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	Ref=TM756906-1-3
+4	midai	midas	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	7	iobj	_	Ref=TM756906-1-4
+5	lavagtaei	lavagtaei	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	Ref=TM756906-1-5
+6	vanaktei	vanaktei	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	Ref=TM756906-1-6
+7	edaes	αδδακετ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=TM756906-1-7
 
 ~~~
 
@@ -37,23 +39,22 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	[]	[---]	SYM	_	_	0	root	_	SpaceAfter=No|Ref=TM867450|1|1
-2	.	.	PUNCT	_	_	1	punct	_	Ref=TM867450|1|2
+1	[---]abas	[---]abas	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	Ref=TM756912-1-1
+2	iṃaṇ	iman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	dep	_	Ref=TM756912-1-2
+3	akio[---]	akio[---]	X	_	_	1	dep	_	Ref=TM756912-1-3
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 5 root	color:blue
-1	ιος	ios	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	Ref=TM984546|1|1
-2	σεμον	σεμουν	DET	_	Case=Dat|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	5	orphan	_	Ref=TM984546|1|2
-3	το	τος	PART	_	Case=Dat|Gender=Neut|Number=Sing	2	fixed	_	Ref=TM984546|1|3
-4	κακον	κακουν	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	Ref=TM984546|1|4
-5	οδ̣[---]	οδ̣[---]	X	_	_	0	root	_	Ref=TM984546|1|5
+# visual-style 0 1 root	color:blue
+1	[---]	[---]	SYM	_	_	0	root	_	Ref=TM1001273-1-1
+2	materey	matar	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	1	dep	_	Ref=TM1001273-1-2
+3	[---]	[---]	SYM	_	_	1	dep	_	Ref=TM1001273-1-3
 
 ~~~
 

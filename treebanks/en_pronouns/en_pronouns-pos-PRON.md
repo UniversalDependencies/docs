@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-Pronouns: POS Tags: `PRON`
 
-There are 7 `PRON` lemmas (11%), 7 `PRON` types (9%) and 330 `PRON` tokens (19%).
-Out of 13 observed tags, the rank of `PRON` is: 3 in number of lemmas, 3 in number of types and 1 in number of tokens.
+There are 6 `PRON` lemmas (9%), 6 `PRON` types (8%) and 325 `PRON` tokens (19%).
+Out of 13 observed tags, the rank of `PRON` is: 4 in number of lemmas, 5 in number of types and 1 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: <em>her, his, my, their, your, it, there</em>
+The 10 most frequent `PRON` lemmas: <em>her, his, my, their, your, it</em>
 
-The 10 most frequent `PRON` types:  <em>hers, his, mine, theirs, yours, it, There</em>
+The 10 most frequent `PRON` types:  <em>hers, his, mine, theirs, yours, it</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -29,28 +29,28 @@ The 2nd highest number of forms (1) was observed with the lemma “his”: <em>h
 
 The 3rd highest number of forms (1) was observed with the lemma “it”: <em>it</em>.
 
-`PRON` occurs with 5 features: <tt><a href="en_pronouns-feat-Number.html">Number</a></tt> (320; 97% instances), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt> (320; 97% instances), <tt><a href="en_pronouns-feat-PronType.html">PronType</a></tt> (320; 97% instances), <tt><a href="en_pronouns-feat-Gender.html">Gender</a></tt> (285; 86% instances), <tt><a href="en_pronouns-feat-Poss.html">Poss</a></tt> (285; 86% instances)
+`PRON` occurs with 5 features: <tt><a href="en_pronouns-feat-Number.html">Number</a></tt> (325; 100% instances), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt> (325; 100% instances), <tt><a href="en_pronouns-feat-PronType.html">PronType</a></tt> (325; 100% instances), <tt><a href="en_pronouns-feat-Gender.html">Gender</a></tt> (285; 88% instances), <tt><a href="en_pronouns-feat-Poss.html">Poss</a></tt> (285; 88% instances)
 
 `PRON` occurs with 9 feature-value pairs: `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Prs`
 
-`PRON` occurs with 9 feature combinations.
+`PRON` occurs with 8 feature combinations.
 The most frequent feature combination is `Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs` (57 tokens).
 Examples: <em>hers</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 11 different relations: <tt><a href="en_pronouns-dep-nsubj.html">nsubj</a></tt> (125; 38% instances), <tt><a href="en_pronouns-dep-root.html">root</a></tt> (70; 21% instances), <tt><a href="en_pronouns-dep-obl.html">obl</a></tt> (55; 17% instances), <tt><a href="en_pronouns-dep-nmod.html">nmod</a></tt> (25; 8% instances), <tt><a href="en_pronouns-dep-conj.html">conj</a></tt> (15; 5% instances), <tt><a href="en_pronouns-dep-obj.html">obj</a></tt> (15; 5% instances), <tt><a href="en_pronouns-dep-appos.html">appos</a></tt> (5; 2% instances), <tt><a href="en_pronouns-dep-expl.html">expl</a></tt> (5; 2% instances), <tt><a href="en_pronouns-dep-iobj.html">iobj</a></tt> (5; 2% instances), <tt><a href="en_pronouns-dep-parataxis.html">parataxis</a></tt> (5; 2% instances), <tt><a href="en_pronouns-dep-xcomp.html">xcomp</a></tt> (5; 2% instances)
+`PRON` nodes are attached to their parents using 10 different relations: <tt><a href="en_pronouns-dep-nsubj.html">nsubj</a></tt> (125; 38% instances), <tt><a href="en_pronouns-dep-root.html">root</a></tt> (70; 22% instances), <tt><a href="en_pronouns-dep-obl.html">obl</a></tt> (55; 17% instances), <tt><a href="en_pronouns-dep-nmod.html">nmod</a></tt> (25; 8% instances), <tt><a href="en_pronouns-dep-conj.html">conj</a></tt> (15; 5% instances), <tt><a href="en_pronouns-dep-obj.html">obj</a></tt> (15; 5% instances), <tt><a href="en_pronouns-dep-appos.html">appos</a></tt> (5; 2% instances), <tt><a href="en_pronouns-dep-iobj.html">iobj</a></tt> (5; 2% instances), <tt><a href="en_pronouns-dep-parataxis.html">parataxis</a></tt> (5; 2% instances), <tt><a href="en_pronouns-dep-xcomp.html">xcomp</a></tt> (5; 2% instances)
 
-Parents of `PRON` nodes belong to 6 different parts of speech: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (175; 53% instances),  (70; 21% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (40; 12% instances), <tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> (30; 9% instances), <tt><a href="en_pronouns-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="en_pronouns-pos-NUM.html">NUM</a></tt> (5; 2% instances)
+Parents of `PRON` nodes belong to 7 different parts of speech: <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (165; 51% instances),  (70; 22% instances), <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (40; 12% instances), <tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> (30; 9% instances), <tt><a href="en_pronouns-pos-ADJ.html">ADJ</a></tt> (10; 3% instances), <tt><a href="en_pronouns-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="en_pronouns-pos-NUM.html">NUM</a></tt> (5; 2% instances)
 
-190 (58%) `PRON` nodes are leaves.
+185 (57%) `PRON` nodes are leaves.
 
 65 (20%) `PRON` nodes have one child.
 
 5 (2%) `PRON` nodes have two children.
 
-70 (21%) `PRON` nodes have three or more children.
+70 (22%) `PRON` nodes have three or more children.
 
 The highest child degree of a `PRON` node is 4.
 

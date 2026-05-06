@@ -24,13 +24,13 @@ The following 31 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 5 8 acl:relcl	color:blue
 1	Selle	see	PRON	P	Case=Gen|Number=Sing|PronType=Dem	2	obj	2:obj	Arg=ostma_Arg_1
 2	ostis	ostma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Verb=ostma
-3	Eestist	Eesti	PROPN	S	Case=Ela|Number=Sing	4	obl	4:obl	NE=B-Loc
+3	Eestist	Eesti	PROPN	S	Case=Ela|Number=Sing	4	obl:lmod	4:obl	NE=B-Loc
 4	pärit	pärit	ADV	D	_	5	advmod	5:advmod	_
 5	suurärimees	suur_äri_mees	NOUN	S	Case=Nom|Number=Sing	2	nsubj	2:nsubj|8:nsubj	Arg=ostma_Arg_0|SpaceAfter=No
 6	,	,	PUNCT	Z	_	8	punct	8:punct	_
 7	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	8	nsubj	5:ref	Arg=elama_Arg_0
 8	elab	elama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl:relcl	Verb=elama
-9	Itaalias	Itaalia	PROPN	S	Case=Ine|Number=Sing	8	obl	8:obl	Arg=elama_Arg_1|NE=B-Loc|SpaceAfter=No
+9	Itaalias	Itaalia	PROPN	S	Case=Ine|Number=Sing	8	obl:lmod	8:obl	Arg=elama_Arg_1|NE=B-Loc|SpaceAfter=No
 10	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 ~~~
@@ -69,7 +69,7 @@ The following 31 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 5	,	,	PUNCT	Z	_	7	punct	7:punct	_
 6	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	7	nsubj	3:ref	Arg=istuma_Arg_0
 7	istub	istuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	3:acl:relcl	Verb=istuma_3
-8	praegu	praegu	ADV	D	_	7	advmod	7:advmod	_
+8	praegu	praegu	ADV	D	_	7	advmod:tmod	7:advmod	_
 9	vangis	vang	NOUN	S	Case=Ine|Number=Sing	7	obl	7:obl	Arg=istuma_Arg_1|SpaceAfter=No
 10	.	.	PUNCT	Z	_	2	punct	2:punct	_
 

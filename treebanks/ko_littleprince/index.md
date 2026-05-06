@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Junghyun Min, Jena Hwang, Nathan Schneider.
 
 Repository: [UD_Korean-LittlePrince](https://github.com/UniversalDependencies/UD_Korean-LittlePrince)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_littleprince217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udko_littleprince218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -335,10 +335,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-Acc (361)</li>
+      <li>VERB--NOUN-Acc (360)</li>
       <li>VERB--PRON-Acc (55)</li>
-      <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--NOUN-Acc (127)</li>
+      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin--NOUN-Acc (126)</li>
       <li>VERB-Fin--PRON-Acc (10)</li>
     </ul>
   </li>

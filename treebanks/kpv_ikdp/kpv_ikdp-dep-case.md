@@ -61,7 +61,7 @@ The following 5 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 8 case	color:blue
 1	И	и	CCONJ	CC	_	2	cc	_	OrigLang=ru
-2	этія	этія	PRON	Pron	_	6	discourse	_	SpaceAfter=No
+2	этія	этія	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	6	discourse	_	SpaceAfter=No
 3	,	,	PUNCT	CLB	_	4	punct	_	_
 4	миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
 5	ӧттӧрйи	ӧттӧрйи	ADV	Adv	_	6	advmod	_	_

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-iobj.html">iobj</a></tt>.
 There are also 4 other language-specific subtypes of `iobj`: <tt><a href="ab_abnc-dep-iobj-cs.html">iobj:cs</a></tt>, <tt><a href="ab_abnc-dep-iobj-lo.html">iobj:lo</a></tt>, <tt><a href="ab_abnc-dep-iobj-po.html">iobj:po</a></tt>, <tt><a href="ab_abnc-dep-iobj-poss.html">iobj:poss</a></tt>.
 
-36 nodes (0%) are attached to their parents as `iobj:ro`.
+45 nodes (0%) are attached to their parents as `iobj:ro`.
 
-31 instances of `iobj:ro` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.41666666666667.
+40 instances of `iobj:ro` (89%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.46666666666667.
 
-The following 4 pairs of parts of speech are connected with `iobj:ro`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (22; 61% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (7; 19% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (5; 14% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (2; 6% instances).
+The following 4 pairs of parts of speech are connected with `iobj:ro`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (27; 60% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (9; 20% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (6; 13% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (3; 7% instances).
 
 
 ~~~ conllu
@@ -53,19 +53,18 @@ The following 4 pairs of parts of speech are connected with `iobj:ro`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 1 iobj:ro	color:blue
-1	Урҭгьы	у́рҭ	PRON	Pron_Pers_3Pl_Encl:гьы	Number=Plur|Person=3|PronType=Prs	7	iobj:ro	_	LMSeg:у́рҭ
-2	ҩынтә	ҩы́нтә	NUM	Num_Mult	_	3	nummod	_	LMSeg:ҩы́нтә
-3	еихагылоу	аихагы́ла	VERB	Adj_Sg_Pred_NonFin_Pres_S:Rel_Rel	Dyn=No|Number=Sing|Person[subj]=Rel|Tense=Pres|VerbForm=NonFin	5	acl:relcl	_	LMSeg:аихагы́ла
-4	ахатә	а-хатәы́	ADJ	Adj_Det	Definite=Def	5	amod	_	LMSeg:а-хатәы́
-5	ҩны	а-ҩны́	NOUN	Noun_NH_Sg	Animacy=Nhum|Number=Sing	7	nsubj	_	LMSeg:а-ҩны́
-6	ду	а-ду́	ADJ	Adj_Sg	Number=Sing	5	amod	_	LMSeg:а-ду́
-7	рызгылоуп	а-згы́лазаара	VERB	V_Stat_Fin_Pres_S:3_S:Ad_RO:3Pl_Reln:For	Dyn=No|Mood=Ind|Number[ro]=Plur|Person[ro]=3|Person[subj]=3|Reln=Ben|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:а-з·гы́ла-заа-ра|SpaceAfter=No
-8	.	.	PUNCT	Punct_Period	_	7	punct	_	LMSeg:.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 iobj:ro	color:blue
+1	«	«	PUNCT	Punct_Quote_Left	_	6	punct	_	LMSeg:«
+2	Урҭгьы	у́рҭ	PRON	Pron_Pers_3Pl_Encl:гьы	Number=Plur|Person=3|PronType=Prs	6	iobj:ro	_	LMSeg:у́рҭ
+3	абри	абри́	PRON	Pron_Dem_Prox_Sg	Number=Sing|PronType=Dem	5	det	_	LMSeg:абри́
+4	еиҧш	а́иҧш	ADP	PP_Poss:3SgNH	Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3	3	case	_	LMSeg:а́иҧш
+5	агәаҟра	а-гәа́ҟра	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	6	nsubj	_	LMSeg:а-гәа́ҟра
+6	рзыҧшызар	а-зыҧшра́	VERB	V_Stat_NonFin_Pres_Conj-I_S:3_S:Ad_RO:3Pl_Reln:For	Dyn=No|Mood=Cnd|Number[ro]=Plur|Person[ro]=3|Person[subj]=3|Reln=Ben|Tense=Pres|VerbForm=NonFin	0	root	_	LMSeg:а-зы·ҧш-ра́|SpaceAfter=No
+7	?	?	PUNCT	Punct_IntMark	_	6	punct	_	LMSeg:?
 
 ~~~
 

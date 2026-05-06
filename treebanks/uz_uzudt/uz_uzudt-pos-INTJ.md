@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Uzbek-UzUDT: POS Tags: `INTJ`
 
-There are 20 `INTJ` lemmas (1%), 17 `INTJ` types (1%) and 23 `INTJ` tokens (0%).
-Out of 16 observed tags, the rank of `INTJ` is: 11 in number of lemmas, 11 in number of types and 14 in number of tokens.
+There are 17 `INTJ` lemmas (1%), 17 `INTJ` types (1%) and 23 `INTJ` tokens (0%).
+Out of 16 observed tags, the rank of `INTJ` is: 10 in number of lemmas, 11 in number of types and 14 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>ha, jiring, naqadar, afsus, alaykum, assalamu, barakalla, bo'l, bo'ladigande, bo'lsin</em>
+The 10 most frequent `INTJ` lemmas: <em>naqadar, bo'l, ha, jiring, voy, afsus, alaykum, assalamu, barakalla, habballi</em>
 
 The 10 most frequent `INTJ` types:  <em>naqadar, bo'lsin, ha, jiring, voy, afsus, alaykum, assalamu, barakalla, habballi</em>
 
-The 10 most frequent ambiguous lemmas: <em>ha</em> (<tt><a href="uz_uzudt-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="uz_uzudt-pos-ADJ.html">ADJ</a></tt> 1), <em>barakalla</em> (<tt><a href="uz_uzudt-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="uz_uzudt-pos-INTJ.html">INTJ</a></tt> 1), <em>bo'l</em> (<tt><a href="uz_uzudt-pos-VERB.html">VERB</a></tt> 10, <tt><a href="uz_uzudt-pos-PUNCT.html">PUNCT</a></tt> 8, <tt><a href="uz_uzudt-pos-AUX.html">AUX</a></tt> 3, <tt><a href="uz_uzudt-pos-PRON.html">PRON</a></tt> 2, <tt><a href="uz_uzudt-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="uz_uzudt-pos-ADV.html">ADV</a></tt> 1, <tt><a href="uz_uzudt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="uz_uzudt-pos-NOUN.html">NOUN</a></tt> 1), <em>bo'ladigande</em> (<tt><a href="uz_uzudt-pos-PUNCT.html">PUNCT</a></tt> 4, <tt><a href="uz_uzudt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="uz_uzudt-pos-VERB.html">VERB</a></tt> 1), <em>bo'lsin</em> (<tt><a href="uz_uzudt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="uz_uzudt-pos-VERB.html">VERB</a></tt> 1), <em>habball</em> (<tt><a href="uz_uzudt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="uz_uzudt-pos-PUNCT.html">PUNCT</a></tt> 1), <em>rost</em> (<tt><a href="uz_uzudt-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="uz_uzudt-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="uz_uzudt-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>bo'l</em> (<tt><a href="uz_uzudt-pos-VERB.html">VERB</a></tt> 33, <tt><a href="uz_uzudt-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="uz_uzudt-pos-AUX.html">AUX</a></tt> 3, <tt><a href="uz_uzudt-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="uz_uzudt-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="uz_uzudt-pos-ADV.html">ADV</a></tt> 1), <em>ha</em> (<tt><a href="uz_uzudt-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="uz_uzudt-pos-INTJ.html">INTJ</a></tt> 2), <em>voy</em> (<tt><a href="uz_uzudt-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="uz_uzudt-pos-NOUN.html">NOUN</a></tt> 1), <em>barakalla</em> (<tt><a href="uz_uzudt-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="uz_uzudt-pos-INTJ.html">INTJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>bo'lsin</em> (<tt><a href="uz_uzudt-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="uz_uzudt-pos-VERB.html">VERB</a></tt> 2), <em>ha</em> (<tt><a href="uz_uzudt-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="uz_uzudt-pos-INTJ.html">INTJ</a></tt> 2), <em>barakalla</em> (<tt><a href="uz_uzudt-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="uz_uzudt-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>bo'lsin</em> (<tt><a href="uz_uzudt-p
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 0.850000 (the average of all parts of speech is 0.954359).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.609877).
 
 The 1st highest number of forms (1) was observed with the lemma “afsus”: <em>afsus</em>.
 

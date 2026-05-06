@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="ps_sikaram-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-33 nodes (1%) are attached to their parents as `acl`.
+35 nodes (1%) are attached to their parents as `acl`.
 
-28 instances of `acl` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.21212121212121.
+30 instances of `acl` (86%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.94285714285714.
 
-The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (15; 45% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (13; 39% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (3; 9% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (2; 6% instances).
+The following 4 pairs of parts of speech are connected with `acl`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (14; 40% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (14; 40% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (4; 11% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (3; 9% instances).
 
 
 ~~~ conllu

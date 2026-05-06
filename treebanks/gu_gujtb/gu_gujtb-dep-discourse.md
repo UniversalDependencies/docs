@@ -22,23 +22,23 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 discourse	color:blue
-1	ટ્રમ્પે	ટ્રમ્પ	PROPN	_	_	15	nsubj	_	_
-2	_	વધારા	NOUN	_	_	8	nmod	_	_
-3	_	ની	ADP	_	_	2	case	_	_
-4	300	300	NUM	_	_	6	nummod	_	_
-5	અબજ	અબજ	NUM	_	_	4	flat	_	_
-6	_	ડૉલર	NOUN	_	_	8	nmod	_	_
-7	_	ની	ADP	_	_	6	case	_	_
-8	આયાત	આયાત	NOUN	_	_	12	obl	_	_
-9	પર	પર	ADP	_	_	8	case	_	_
-10	પણ	પણ	PART	_	_	8	discourse	_	_
-11	ટેક્સ	ટેક્સ	NOUN	_	_	12	obj	_	_
-12	_	લગાડવા	VERB	_	_	14	acl	_	_
-13	_	ની	ADP	_	_	12	case	_	_
-14	ધમકી	ધમકી	NOUN	_	_	15	obj	_	_
-15	આપી	આપી	VERB	_	_	0	root	_	_
-16	છે	છે	AUX	_	_	15	aux	_	SpaceAfter=No
-17	.	.	PUNCT	_	_	15	punct	_	SpaceAfter=No
+1	ટ્રમ્પે	ટ્રમ્પ	PROPN	_	_	15	nsubj	_	LTranslit=ṭrampa|Translit=ṭrampe
+2	_	વધારા	NOUN	_	_	8	nmod	_	LTranslit=vadhārā
+3	_	ની	ADP	_	_	2	case	_	LTranslit=nī
+4	300	300	NUM	_	_	6	nummod	_	LTranslit=300|Translit=300
+5	અબજ	અબજ	NUM	_	_	4	flat	_	LTranslit=abaja|Translit=abaja
+6	_	ડૉલર	NOUN	_	_	8	nmod	_	LTranslit=ḍôlara
+7	_	ની	ADP	_	_	6	case	_	LTranslit=nī
+8	આયાત	આયાત	NOUN	_	_	12	obl	_	LTranslit=āyāta|Translit=āyāta
+9	પર	પર	ADP	_	_	8	case	_	LTranslit=para|Translit=para
+10	પણ	પણ	PART	_	_	8	discourse	_	LTranslit=paṇa|Translit=paṇa
+11	ટેક્સ	ટેક્સ	NOUN	_	_	12	obj	_	LTranslit=ṭeksa|Translit=ṭeksa
+12	_	લગાડવા	VERB	_	_	14	acl	_	LTranslit=lagāḍavā
+13	_	ની	ADP	_	_	12	case	_	LTranslit=nī
+14	ધમકી	ધમકી	NOUN	_	_	15	obj	_	LTranslit=dhamakī|Translit=dhamakī
+15	આપી	આપી	VERB	_	_	0	root	_	LTranslit=āpī|Translit=āpī
+16	છે	છે	AUX	_	_	15	aux	_	LTranslit=che|SpaceAfter=No|Translit=che
+17	.	.	PUNCT	_	_	15	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 
@@ -49,12 +49,12 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 discourse	color:blue
-1	જેમાંથી	જેમાંથી	PRON	_	_	2	nmod	_	_
-2	આ	આ	PRON	_	_	4	nsubj	_	_
-3	પણ	પણ	PART	_	_	2	discourse	_	_
-4	એક	એક	NUM	_	_	0	root	_	_
-5	હતો	છે	AUX	_	_	4	cop	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+1	જેમાંથી	જેમાંથી	PRON	_	_	2	nmod	_	LTranslit=jemāṁthī|Translit=jemāṁthī
+2	આ	આ	PRON	_	_	4	nsubj	_	LTranslit=ā|Translit=ā
+3	પણ	પણ	PART	_	_	2	discourse	_	LTranslit=paṇa|Translit=paṇa
+4	એક	એક	NUM	_	_	0	root	_	LTranslit=eka|Translit=eka
+5	હતો	છે	AUX	_	_	4	cop	_	LTranslit=che|SpaceAfter=No|Translit=hato
+6	.	.	PUNCT	_	_	4	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 
@@ -65,14 +65,14 @@ The following 12 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 discourse	color:blue
-1	વાહ	_	INTJ	_	_	6	discourse	_	SpaceAfter=No
-2	!	_	PUNCT	_	_	6	punct	_	_
-3	વાહ	_	INTJ	_	_	6	discourse	_	SpaceAfter=No
-4	!	_	PUNCT	_	_	6	punct	_	_
-5	શું	_	DET	_	_	6	det	_	_
-6	ફિલમ	_	NOUN	_	_	0	root	_	_
-7	હતી	_	AUX	_	_	6	cop	_	SpaceAfter=No
-8	!	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
+1	વાહ	_	INTJ	_	_	6	discourse	_	SpaceAfter=No|Translit=vāha
+2	!	_	PUNCT	_	_	6	punct	_	Translit=!
+3	વાહ	_	INTJ	_	_	6	discourse	_	SpaceAfter=No|Translit=vāha
+4	!	_	PUNCT	_	_	6	punct	_	Translit=!
+5	શું	_	DET	_	_	6	det	_	Translit=śuṁ
+6	ફિલમ	_	NOUN	_	_	0	root	_	Translit=philama
+7	હતી	_	AUX	_	_	6	cop	_	SpaceAfter=No|Translit=hatī
+8	!	_	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit=!
 
 ~~~
 

@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a h
 # visual-style 5	fgColor:white
 # visual-style 5 4 aux:caus	color:blue
 1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	conteur	conteur	NOUN	_	Number=Sing	5	nsubj:caus	_	Gender[lex]=Masc
+2	conteur	conteur	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:caus	_	Exponence[Gender]=Inherent
 3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 4	fait	faire	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	5	aux:caus	_	Tense[denom]=Past
 5	jouer	jouer	VERB	_	VerbForm=Inf	0	root	_	Subject=ObjRaising

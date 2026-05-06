@@ -9,31 +9,31 @@ udver: '2'
 There are 6 `X` lemmas (0%), 6 `X` types (0%) and 7 `X` tokens (0%).
 Out of 16 observed tags, the rank of `X` is: 15 in number of lemmas, 15 in number of types and 16 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>uzoq;, dan, norman, qayt, qayta;, sotib</em>
+The 10 most frequent `X` lemmas: <em>uzoq;, dan, ga, qayta, qayta;, sot</em>
 
 The 10 most frequent `X` types:  <em>uzoq;, dan, ga, qayta, qayta;, sotib</em>
 
-The 10 most frequent ambiguous lemmas: <em>uzoq;</em> (<tt><a href="uz_uzudt-pos-X.html">X</a></tt> 2, <tt><a href="uz_uzudt-pos-VERB.html">VERB</a></tt> 1), <em>norman</em> (<tt><a href="uz_uzudt-pos-PUNCT.html">PUNCT</a></tt> 12, <tt><a href="uz_uzudt-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="uz_uzudt-pos-X.html">X</a></tt> 1), <em>qayt</em> (<tt><a href="uz_uzudt-pos-VERB.html">VERB</a></tt> 5, <tt><a href="uz_uzudt-pos-ADV.html">ADV</a></tt> 2, <tt><a href="uz_uzudt-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="uz_uzudt-pos-X.html">X</a></tt> 1), <em>sotib</em> (<tt><a href="uz_uzudt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="uz_uzudt-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>qayta</em> (<tt><a href="uz_uzudt-pos-ADV.html">ADV</a></tt> 6, <tt><a href="uz_uzudt-pos-X.html">X</a></tt> 1), <em>sot</em> (<tt><a href="uz_uzudt-pos-VERB.html">VERB</a></tt> 1, <tt><a href="uz_uzudt-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>qayta</em> (<tt><a href="uz_uzudt-pos-ADV.html">ADV</a></tt> 6, <tt><a href="uz_uzudt-pos-X.html">X</a></tt> 1), <em>sotib</em> (<tt><a href="uz_uzudt-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="uz_uzudt-pos-X.html">X</a></tt> 1)
 
 
 * <em>qayta</em>
-  * <tt><a href="uz_uzudt-pos-ADV.html">ADV</a></tt> 6: <em>dada qoniqish boʻlmagan misralarni qiziga <b>qayta</b> - <b>qayta</b> o'qutdi .</em>
+  * <tt><a href="uz_uzudt-pos-ADV.html">ADV</a></tt> 6: <em>dada qoniqish boʻlmagan misralarni qiziga <b>qayta</b> - <b>qayta</b> o'qitdi .</em>
   * <tt><a href="uz_uzudt-pos-X.html">X</a></tt> 1: <em>u o'ylangan holda oʻziga - oʻzi : <b>qayta</b> qayta; odam degan uzoqroq yashasam deydi - da uzoq; uzoq; deb qoʻydi .</em>
 * <em>sotib</em>
-  * <tt><a href="uz_uzudt-pos-NOUN.html">NOUN</a></tt> 2: <em>yigʻib saqlaguchi bu asl haykalni yuqori bahoda <b>sotib</b> oldi .</em>
+  * <tt><a href="uz_uzudt-pos-NOUN.html">NOUN</a></tt> 2: <em>yigʻib saqlaguvchi bu asl haykalni yuqori bahoda <b>sotib</b> oldi .</em>
   * <tt><a href="uz_uzudt-pos-X.html">X</a></tt> 1: <em>men quyosh energiyasi manbayidan birini <b>sotib</b> olmoqchiydim ,</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 0.954359).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.609877).
 
 The 1st highest number of forms (1) was observed with the lemma “dan”: <em>dan</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “norman”: <em>ga</em>.
+The 2nd highest number of forms (1) was observed with the lemma “ga”: <em>ga</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “qayt”: <em>qayta</em>.
+The 3rd highest number of forms (1) was observed with the lemma “qayta”: <em>qayta</em>.
 
 `X` does not occur with any features.
 

@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `ADV`
 
-There are 60 `ADV` lemmas (13%), 62 `ADV` types (10%) and 94 `ADV` tokens (9%).
+There are 66 `ADV` lemmas (13%), 68 `ADV` types (11%) and 102 `ADV` tokens (9%).
 Out of 15 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>кыдз, ни, кӧр, сэсся, кытӧн, сё, талун, чожа, эшӧ, дасöтiсь</em>
 
 The 10 most frequent `ADV` types:  <em>кыдз, ни, сэсся, кытӧн, кӧр, сё, талун, чожа, эшӧ, дасöтiсь</em>
 
-The 10 most frequent ambiguous lemmas: <em>кыдз</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 5, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1), <em>кӧр</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 4, <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1), <em>талун</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 3, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1), <em>кынымкӧ</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 2, <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1), <em>ордчӧн</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 2, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 2), <em>а-а</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1, <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>кыдз</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 6, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1), <em>кӧр</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 4, <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1), <em>талун</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 3, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1), <em>кынымкӧ</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 2, <tt><a href="koi_uh-pos-DET.html">DET</a></tt> 1), <em>ордчӧн</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 2, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 2), <em>а-а</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1, <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1), <em>нем</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1, <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>кӧр</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 3, <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1), <em>талун</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 2, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1), <em>ордчӧн</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1), <em>А-а</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1, <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>кӧр</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 3, <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> 1), <em>талун</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 2, <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 1), <em>ордчӧн</em> (<tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1), <em>А-а</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1, <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1), <em>нем</em> (<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1, <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 1)
 
 
 * <em>кӧр</em>
@@ -30,10 +30,13 @@ The 10 most frequent ambiguous types:  <em>кӧр</em> (<tt><a href="koi_uh-pos-
 * <em>А-а</em>
   * <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1: <em><b>А-а</b> , локтін ачыт !</em>
   * <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1: <em><b>А-а</b> , локтін ачыт !</em>
+* <em>нем</em>
+  * <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> 1: <em>Сія <b>нем</b> оз артав .</em>
+  * <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> 1: <em>Сылö кöть кыдз эн висьтав , <b>нем</b> оз вежöрт .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.033333 (the average of all parts of speech is 1.250000).
+The form / lemma ratio of `ADV` is 1.030303 (the average of all parts of speech is 1.260870).
 
 The 1st highest number of forms (2) was observed with the lemma “дыр”: <em>дыр, дыржык</em>.
 
@@ -41,24 +44,24 @@ The 2nd highest number of forms (2) was observed with the lemma “кӧр”: <e
 
 The 3rd highest number of forms (1) was observed with the lemma “а-а”: <em>А-а</em>.
 
-`ADV` occurs with 9 features: <tt><a href="koi_uh-feat-AdvType.html">AdvType</a></tt> (48; 51% instances), <tt><a href="koi_uh-feat-Case.html">Case</a></tt> (8; 9% instances), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt> (7; 7% instances), <tt><a href="koi_uh-feat-NumType.html">NumType</a></tt> (5; 5% instances), <tt><a href="koi_uh-feat-ExtPos.html">ExtPos</a></tt> (2; 2% instances), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt> (2; 2% instances), <tt><a href="koi_uh-feat-Definite.html">Definite</a></tt> (1; 1% instances), <tt><a href="koi_uh-feat-Degree.html">Degree</a></tt> (1; 1% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (1; 1% instances)
+`ADV` occurs with 9 features: <tt><a href="koi_uh-feat-AdvType.html">AdvType</a></tt> (48; 47% instances), <tt><a href="koi_uh-feat-Case.html">Case</a></tt> (10; 10% instances), <tt><a href="koi_uh-feat-PronType.html">PronType</a></tt> (7; 7% instances), <tt><a href="koi_uh-feat-NumType.html">NumType</a></tt> (5; 5% instances), <tt><a href="koi_uh-feat-ExtPos.html">ExtPos</a></tt> (2; 2% instances), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt> (2; 2% instances), <tt><a href="koi_uh-feat-Definite.html">Definite</a></tt> (1; 1% instances), <tt><a href="koi_uh-feat-Degree.html">Degree</a></tt> (1; 1% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (1; 1% instances)
 
-`ADV` occurs with 18 feature-value pairs: `AdvType=Deg`, `AdvType=Loc`, `AdvType=Man`, `AdvType=Mod`, `AdvType=Tim`, `Case=Ela`, `Case=Ill`, `Case=Ine`, `Definite=Ind`, `Degree=Cmp`, `ExtPos=ADV`, `NumType=Card`, `NumType=Dist,Mult`, `NumType=Mult,Ord`, `Number=Sing`, `Polarity=Neg`, `PronType=Int`, `PronType=Rel`
+`ADV` occurs with 19 feature-value pairs: `AdvType=Deg`, `AdvType=Loc`, `AdvType=Man`, `AdvType=Mod`, `AdvType=Tim`, `Case=Ela`, `Case=Ill`, `Case=Ine`, `Case=Ins`, `Definite=Ind`, `Degree=Cmp`, `ExtPos=ADV`, `NumType=Card`, `NumType=Dist,Mult`, `NumType=Mult,Ord`, `Number=Sing`, `Polarity=Neg`, `PronType=Int`, `PronType=Rel`
 
-`ADV` occurs with 19 feature combinations.
-The most frequent feature combination is `_` (35 tokens).
-Examples: <em>кыдз, кынымкӧ, натьтö, только, А-а, Неужели, Талун, Уна, басӧка, вот</em>
+`ADV` occurs with 21 feature combinations.
+The most frequent feature combination is `_` (41 tokens).
+Examples: <em>кыдз, кынымкӧ, натьтö, только, А-а, Неужели, Талун, Уна, басӧка, важын</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 9 different relations: <tt><a href="koi_uh-dep-advmod.html">advmod</a></tt> (79; 84% instances), <tt><a href="koi_uh-dep-mark.html">mark</a></tt> (6; 6% instances), <tt><a href="koi_uh-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="koi_uh-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="koi_uh-dep-advmod-deg.html">advmod:deg</a></tt> (1; 1% instances), <tt><a href="koi_uh-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="koi_uh-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="koi_uh-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="koi_uh-dep-orphan.html">orphan</a></tt> (1; 1% instances)
+`ADV` nodes are attached to their parents using 9 different relations: <tt><a href="koi_uh-dep-advmod.html">advmod</a></tt> (87; 85% instances), <tt><a href="koi_uh-dep-mark.html">mark</a></tt> (6; 6% instances), <tt><a href="koi_uh-dep-fixed.html">fixed</a></tt> (2; 2% instances), <tt><a href="koi_uh-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="koi_uh-dep-advmod-deg.html">advmod:deg</a></tt> (1; 1% instances), <tt><a href="koi_uh-dep-ccomp.html">ccomp</a></tt> (1; 1% instances), <tt><a href="koi_uh-dep-discourse.html">discourse</a></tt> (1; 1% instances), <tt><a href="koi_uh-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="koi_uh-dep-orphan.html">orphan</a></tt> (1; 1% instances)
 
-Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (74; 79% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (2; 2% instances),  (2; 2% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (82; 80% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (2; 2% instances),  (2; 2% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 
-75 (80%) `ADV` nodes are leaves.
+82 (80%) `ADV` nodes are leaves.
 
-13 (14%) `ADV` nodes have one child.
+14 (14%) `ADV` nodes have one child.
 
 3 (3%) `ADV` nodes have two children.
 
@@ -66,7 +69,7 @@ Parents of `ADV` nodes belong to 9 different parts of speech: <tt><a href="koi_u
 
 The highest child degree of a `ADV` node is 4.
 
-Children of `ADV` nodes are attached using 10 different relations: <tt><a href="koi_uh-dep-punct.html">punct</a></tt> (11; 38% instances), <tt><a href="koi_uh-dep-advmod.html">advmod</a></tt> (3; 10% instances), <tt><a href="koi_uh-dep-nsubj-cop.html">nsubj:cop</a></tt> (3; 10% instances), <tt><a href="koi_uh-dep-advcl.html">advcl</a></tt> (2; 7% instances), <tt><a href="koi_uh-dep-appos.html">appos</a></tt> (2; 7% instances), <tt><a href="koi_uh-dep-aux-neg.html">aux:neg</a></tt> (2; 7% instances), <tt><a href="koi_uh-dep-fixed.html">fixed</a></tt> (2; 7% instances), <tt><a href="koi_uh-dep-nmod.html">nmod</a></tt> (2; 7% instances), <tt><a href="koi_uh-dep-discourse.html">discourse</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-mark.html">mark</a></tt> (1; 3% instances)
+Children of `ADV` nodes are attached using 11 different relations: <tt><a href="koi_uh-dep-punct.html">punct</a></tt> (11; 37% instances), <tt><a href="koi_uh-dep-advmod.html">advmod</a></tt> (3; 10% instances), <tt><a href="koi_uh-dep-nsubj-cop.html">nsubj:cop</a></tt> (3; 10% instances), <tt><a href="koi_uh-dep-advcl.html">advcl</a></tt> (2; 7% instances), <tt><a href="koi_uh-dep-appos.html">appos</a></tt> (2; 7% instances), <tt><a href="koi_uh-dep-aux-neg.html">aux:neg</a></tt> (2; 7% instances), <tt><a href="koi_uh-dep-fixed.html">fixed</a></tt> (2; 7% instances), <tt><a href="koi_uh-dep-nmod.html">nmod</a></tt> (2; 7% instances), <tt><a href="koi_uh-dep-dep.html">dep</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-discourse.html">discourse</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-mark.html">mark</a></tt> (1; 3% instances)
 
-Children of `ADV` nodes belong to 8 different parts of speech: <tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (11; 38% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (4; 14% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (3; 10% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (3; 10% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (2; 7% instances), <tt><a href="koi_uh-pos-PART.html">PART</a></tt> (2; 7% instances), <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances)
+Children of `ADV` nodes belong to 8 different parts of speech: <tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (11; 37% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (4; 13% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (3; 10% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (3; 10% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (3; 10% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> (2; 7% instances), <tt><a href="koi_uh-pos-PART.html">PART</a></tt> (2; 7% instances), <tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> (2; 7% instances)
 

@@ -28,13 +28,13 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 4	regain	regain	VERB	VB	VerbForm=Inf	2	xcomp	2:xcomp	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=4:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis|MSeg=re-gain
 5	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	Entity=(64-abstract-new-nnnnn-cf3-2-sgl(65-person-acc:com-nnnnn-cf1-1-ana)
 6	trust	trust	NOUN	NN	Number=Sing	4	obj	4:obj	Entity=64)|XML=<hi rend:::"bold"></hi>
-7	if	if	SCONJ	IN	_	11	mark	11:mark	Discourse=contingency-condition:48->47:0:dm-if-243-_|PDTB=Explicit:Contingency.Condition.Arg1-as-cond:if:_:237-242:243-252
+7	if	if	SCONJ	IN	_	11	mark	11:mark	Discourse=contingency-condition:48->47:0:dm-if-243-gold|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:243:237-242:244-252
 8	he	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	11:nsubj|13:nsubj:xsubj	Entity=(63-person-acc:com-nnnnn-cf2-1-coref)
 9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
 10	ever	ever	ADV	RB	Degree=Pos	11	advmod	11:advmod	_
 11	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	4	advcl	4:advcl:if	CxnElt=4:Conditional-UnspecifiedEpistemic-NoInversion.Protasis|MSeg=go-ing
 12	to	to	PART	TO	_	13	mark	13:mark	_
-13	win	win	VERB	VB	VerbForm=Inf	11	xcomp	11:xcomp	MSeg=w-in
+13	win	win	VERB	VB	VerbForm=Inf	11	xcomp	11:xcomp	_
 14	her	she	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	13:obj	Entity=(65-person-giv:act-nnnnn-cf1-1-ana)
 15	back	back	ADV	RB	Degree=Pos	13	advmod	13:advmod	SpaceAfter=No
 16	.	.	PUNCT	.	_	2	punct	2:punct	_
@@ -73,7 +73,7 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 3	before	before	ADP	IN	_	5	case	5:case	_
 4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Entity=(22-place-new-sssnn-cf3-2-coref
 5	House	House	NOUN	NN	Number=Sing	2	obl	2:obl:before|7:nsubj	_
-6	that	that	PRON	WDT	PronType=Rel	7	nsubj	5:ref	Discourse=elaboration-attribute:20->19:0:_
+6	that	that	PRON	WDT	PronType=Rel	7	nsubj	5:ref	Discourse=elaboration-attribute:20->19:0:syn-mdf-110-_+syn-relcl-111-112-_
 7	seemed	seem	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	5:acl:relcl	MSeg=seem-ed
 8	A	a	DET	DT	Definite=Ind|PronType=Art	9	det	9:det	Entity=(23-object-new-snnnn-cf4-2-sgl
 9	Swelling	swelling	NOUN	NN	Number=Sing	7	xcomp	7:xcomp	MSeg=Swell-ing

@@ -6,27 +6,27 @@ udver: '2'
 
 ## Treebank Statistics: UD_Yiddish-YiTB: POS Tags: `PART`
 
-There are 6 `PART` lemmas (0%), 6 `PART` types (0%) and 727 `PART` tokens (3%).
-Out of 16 observed tags, the rank of `PART` is: 13 in number of lemmas, 16 in number of types and 11 in number of tokens.
+There are 6 `PART` lemmas (0%), 6 `PART` types (0%) and 730 `PART` tokens (3%).
+Out of 16 observed tags, the rank of `PART` is: 16 in number of lemmas, 16 in number of types and 11 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>נישט, ניט, צו, צי, סך, הלוואַי</em>
 
 The 10 most frequent `PART` types:  <em>נישט, ניט, צו, צי, סך, הלוואַי</em>
 
-The 10 most frequent ambiguous lemmas: <em>נישט</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 422, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 3), <em>ניט</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 104, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 5), <em>צו</em> (<tt><a href="yi_yitb-pos-ADP.html">ADP</a></tt> 142, <tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 91, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 14), <em>צי</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 78, <tt><a href="yi_yitb-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> 10), <em>סך</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 29, <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>נישט</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 422, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 3), <em>ניט</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 106, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 5), <em>צו</em> (<tt><a href="yi_yitb-pos-ADP.html">ADP</a></tt> 148, <tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 92, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 14), <em>צי</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 78, <tt><a href="yi_yitb-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> 10), <em>סך</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 29, <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>נישט</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 422, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 3), <em>ניט</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 104, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 5), <em>צו</em> (<tt><a href="yi_yitb-pos-ADP.html">ADP</a></tt> 142, <tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 91, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 14), <em>צי</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 78, <tt><a href="yi_yitb-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> 1), <em>סך</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 29, <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>נישט</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 422, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 3), <em>ניט</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 106, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 5), <em>צו</em> (<tt><a href="yi_yitb-pos-ADP.html">ADP</a></tt> 148, <tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 92, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 14), <em>צי</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 78, <tt><a href="yi_yitb-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> 10, <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> 1), <em>סך</em> (<tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 29, <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>נישט</em>
   * <tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 422: <em>ער גײט מיר <b>נישט</b> אַרױס פֿון זכּרון .</em>
   * <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 3: <em>דאָס איז <b>נישט</b> קיין ליולקע .</em>
 * <em>ניט</em>
-  * <tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 104: <em>נו , פֿאַר װאָס <b>ניט</b> זײַט אַ גאַסט ?</em>
+  * <tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 106: <em>נו , פֿאַר װאָס <b>ניט</b> זײַט אַ גאַסט ?</em>
   * <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 5: <em>דער עולם איז <b>ניט</b> קײן גולם .</em>
 * <em>צו</em>
-  * <tt><a href="yi_yitb-pos-ADP.html">ADP</a></tt> 142: <em>װילן זײ איצט הערן , װאָס איך זאָג <b>צו</b> דעם .</em>
-  * <tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 91: <em>אָרעמקײט האָט זײ פֿון שטוב אַרױסגעטריבן און <b>צו</b> זוכן פּרנסה געצװוּנגען .</em>
+  * <tt><a href="yi_yitb-pos-ADP.html">ADP</a></tt> 148: <em>װילן זײ איצט הערן , װאָס איך זאָג <b>צו</b> דעם .</em>
+  * <tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 92: <em>אָרעמקײט האָט זײ פֿון שטוב אַרױסגעטריבן און <b>צו</b> זוכן פּרנסה געצװוּנגען .</em>
   * <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 14: <em>דאָס היטל איז גוט נאָר דער קאָפּ איז <b>צו</b> קלײן .</em>
 * <em>צי</em>
   * <tt><a href="yi_yitb-pos-PART.html">PART</a></tt> 78: <em><b>צי</b> װילסט דו מיך אָנרופֿן , <b>צי</b> זאָל איך דיך אָנרופֿן ?</em>
@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>נישט</em> (<tt><a href="yi_yitb-p
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.264753).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.222136).
 
 The 1st highest number of forms (1) was observed with the lemma “הלוואַי”: <em>הלוואַי</em>.
 
@@ -52,11 +52,11 @@ The 3rd highest number of forms (1) was observed with the lemma “נישט”: 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 5 different relations: <tt><a href="yi_yitb-dep-advmod.html">advmod</a></tt> (605; 83% instances), <tt><a href="yi_yitb-dep-mark.html">mark</a></tt> (89; 12% instances), <tt><a href="yi_yitb-dep-fixed.html">fixed</a></tt> (29; 4% instances), <tt><a href="yi_yitb-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="yi_yitb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 5 different relations: <tt><a href="yi_yitb-dep-advmod.html">advmod</a></tt> (607; 83% instances), <tt><a href="yi_yitb-dep-mark.html">mark</a></tt> (90; 12% instances), <tt><a href="yi_yitb-dep-fixed.html">fixed</a></tt> (29; 4% instances), <tt><a href="yi_yitb-dep-discourse.html">discourse</a></tt> (3; 0% instances), <tt><a href="yi_yitb-dep-ccomp.html">ccomp</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> (441; 61% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (125; 17% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (74; 10% instances), <tt><a href="yi_yitb-pos-DET.html">DET</a></tt> (33; 5% instances), <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> (24; 3% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 9 different parts of speech: <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> (444; 61% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (125; 17% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (74; 10% instances), <tt><a href="yi_yitb-pos-DET.html">DET</a></tt> (33; 5% instances), <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> (24; 3% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-717 (99%) `PART` nodes are leaves.
+720 (99%) `PART` nodes are leaves.
 
 9 (1%) `PART` nodes have one child.
 

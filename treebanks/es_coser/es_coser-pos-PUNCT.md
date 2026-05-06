@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.466179).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.476980).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -42,7 +42,7 @@ Examples: <em>,, ...</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="es_coser-dep-punct.html">punct</a></tt> (1615; 100% instances)
 
-Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (810; 50% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (268; 17% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (109; 7% instances), <tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (105; 7% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (89; 6% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (62; 4% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (34; 2% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (32; 2% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (22; 1% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), <tt><a href="es_coser-pos-X.html">X</a></tt> (20; 1% instances), <tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt> (19; 1% instances), <tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt> (17; 1% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (8; 0% instances)
+Parents of `PUNCT` nodes belong to 14 different parts of speech: <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (721; 45% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (248; 15% instances), <tt><a href="es_coser-pos-INTJ.html">INTJ</a></tt> (138; 9% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (137; 8% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (105; 7% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (54; 3% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (41; 3% instances), <tt><a href="es_coser-pos-CCONJ.html">CCONJ</a></tt> (35; 2% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (33; 2% instances), <tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt> (26; 2% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (25; 2% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (22; 1% instances), <tt><a href="es_coser-pos-X.html">X</a></tt> (22; 1% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (8; 0% instances)
 
 1615 (100%) `PUNCT` nodes are leaves.
 

@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 aux:pass	color:blue
-1	_	_	PRON	EX	PronType=Dem	2	expl	2:expl	Discourse=context-background:22->25:2:sem-rpt-181-201-_+sem-rpt-182,212-213-_|Lem=*LOWER*|Len=5
+1	_	_	PRON	EX	PronType=Dem	2	expl	2:expl	Discourse=context-background:22->25:2:sem-rpt-181-201-_+sem-rpt-182,212-213-_+sem-mrnym-188-199,205-_|Lem=*LOWER*|Len=5
 2	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Cxn=Existential-CopPred-ThereExpl|Lem=be|Len=3
 3	_	_	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	Entity=(38-event-new-nnnnn-cf1-2-sgl|Lem=a|Len=2
 4	_	_	NOUN	NN	Number=Sing	2	nsubj	2:nsubj|7:nsubj:pass	CxnElt=2:Existential-CopPred-ThereExpl.Pivot|Lem=_|Len=10
@@ -37,14 +37,14 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 13	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux:pass	14:aux:pass	Lem=be|Len=3
 14	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	acl:relcl	11:acl:relcl	Lem=raise|Len=6|MSeg=rais-ed
 15	_	_	ADP	IN	_	17	case	17:case	Lem=_|Len=2
-16	_	_	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	Entity=(41-place-new-nnnnn-cf3-2-sgl|Lem=a|Len=2
+16	_	_	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	Entity=(41-place-new-nnnnn-cf3-2-coref|Lem=a|Len=2
 17	_	_	NOUN	NN	Number=Sing	14	obl	14:obl:in	Lem=_|Len=11|MSeg=environ-ment
 18	_	_	ADP	IN	_	21	case	21:case	Lem=_|Len=2
-19	_	_	ADJ	JJ	Degree=Pos	21	amod	21:amod	Entity=(42-abstract-new-n____-cf4-3-sgl|Lem=_|Len=10|MSeg=artific-ial
+19	_	_	ADJ	JJ	Degree=Pos	21	amod	21:amod	Entity=(42-abstract-new-nnnnn-cf4-3-sgl|Lem=_|Len=10|MSeg=artific-ial
 20	_	_	ADJ	JJ	Degree=Pos	21	amod	21:amod	Lem=_|Len=4
 21	_	_	NOUN	NN	Number=Sing	17	nmod	17:nmod:of	Lem=_|Len=9|MSeg=abundan-ce
 22	_	_	ADP	IN	_	23	case	23:case	Lem=_|Len=2
-23	_	_	NOUN	NN	Number=Sing	21	nmod	21:nmod:of	Entity=(43-substance-new-s____-cf5-1-sgl)|Lem=_|Len=4|SpaceAfter=No
+23	_	_	NOUN	NN	Number=Sing	21	nmod	21:nmod:of	Entity=(43-substance-new-snnnn-cf5-1-sgl)|Lem=_|Len=4|SpaceAfter=No
 24	_	_	PUNCT	,	_	25	punct	25:punct	Lem=_|Len=1
 25	_	_	NOUN	NN	Number=Sing	23	conj	21:nmod:of|23:conj	Entity=(44-substance-new-nnnnn-cf6-1-sgl)|Lem=_|Len=5|SpaceAfter=No
 26	_	_	PUNCT	,	_	27	punct	27:punct	Lem=_|Len=1

@@ -11,12 +11,12 @@ It occurs with 2 different values: `No`, `Yes`.
 
 4128 tokens (10%) have a non-empty value of `Emph`.
 32 types (1%) occur at least once with a non-empty value of `Emph`.
-11 lemmas (0%) occur at least once with a non-empty value of `Emph`.
+10 lemmas (0%) occur at least once with a non-empty value of `Emph`.
 The feature is used with 1 part-of-speech tags: <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (4128; 10% instances).
 
 ### `PRON`
 
-4128 <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> tokens (64% of all `PRON` tokens) have a non-empty value of `Emph`.
+4128 <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> tokens (65% of all `PRON` tokens) have a non-empty value of `Emph`.
 
 The most frequent other feature values with which `PRON` and `Emph` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3792; 92%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3387; 82%), <tt><a href="fr_parisstories-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3171; 77%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2239; 54%), <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt><tt>=3</tt> (2093; 51%).
 

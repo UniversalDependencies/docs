@@ -24,8 +24,8 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 10	fgColor:white
 # visual-style 10 13 flat	color:blue
 1	האָט	האָבן	AUX	_	_	3	aux	_	Translit=hot|Translit_Lemma=hobn
-2	אים	עס	PRON	_	_	3	obj	_	Translit=im|Translit_Lemma=es
-3	געשלאָגן	שליגן	VERB	_	_	0	root	_	Translit=geshlogn|Translit_Lemma=shlign
+2	אים	ער	PRON	_	_	3	obj	_	Translit=im|Translit_Lemma=er
+3	געשלאָגן	שלאָגן	VERB	_	_	0	root	_	Translit=geshlogn|Translit_Lemma=shlogn
 4	מיט	מיט	ADP	_	_	6	case	_	Translit=mit|Translit_Lemma=mit
 5	דער	דער	DET	_	_	6	det	_	Translit=der|Translit_Lemma=der
 6	ביקס	ביקס	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=biks|Translit_Lemma=biks
@@ -33,14 +33,14 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 8	געזאָגט	זאָגן	VERB	_	_	3	conj	_	SpaceAfter=No|Translit=gezogt|Translit_Lemma=zogn
 9	:	:	PUNCT	_	_	18	punct	_	Translit=:|Translit_Lemma=:
 10	ד	ד	ADV	_	_	18	advmod	_	Translit=d|Translit_Lemma=d
-11	אָ	אָ	PROPN	_	_	10	flat	_	Translit=o
-12	ר	ר	PROPN	_	_	10	flat	_	Translit=r
-13	ט	ט	PROPN	_	_	10	flat	_	Translit=t
+11	אָ	אָ	PROPN	_	_	10	flat	_	Translit=o|Translit_Lemma=o
+12	ר	ר	PROPN	_	_	10	flat	_	Translit=r|Translit_Lemma=r
+13	ט	ט	PROPN	_	_	10	flat	_	Translit=t|Translit_Lemma=t
 14	װעסט	װעלן	AUX	_	_	18	aux	_	Translit=vest|Translit_Lemma=veln
 15	דו	דו	PRON	_	_	18	nsubj:pass	_	Translit=du|Translit_Lemma=du
 16	שױן	שױן	ADV	_	_	18	advmod	_	Translit=shoyn|Translit_Lemma=shoyn
 17	װערן	װערן	AUX	_	_	18	aux:pass	_	Translit=vern|Translit_Lemma=vern
-18	אױסגעהײלט	אױסהײלען	VERB	_	_	8	ccomp	_	SpaceAfter=No|Translit=oysgeheylt|Translit_Lemma=oysheylen
+18	אױסגעהײלט	אױסהײלן	VERB	_	_	8	ccomp	_	SpaceAfter=No|Translit=oysgeheylt|Translit_Lemma=oysheyln
 19	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
 ~~~
@@ -57,9 +57,9 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 3	קומט	קומען	VERB	_	_	0	root	_	Translit=kumt|Translit_Lemma=kumen
 4	די	דער	DET	_	_	6	det	_	Translit=di|Translit_Lemma=der
 5	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No|Translit="|Translit_Lemma="
-6	הגדה	_	X	_	_	3	nsubj	_	Translit=hagode
-7	של	_	X	_	_	6	flat	_	Translit=shl
-8	פּסח	_	X	_	_	6	flat	_	SpaceAfter=No|Translit=peysekh
+6	הגדה	הגדה	X	_	_	3	nsubj	_	Translit=hagode|Translit_Lemma=hagode
+7	של	שלען	X	_	_	6	flat	_	Translit=shl|Translit_Lemma=shlen
+8	פּסח	פּסח	X	_	_	6	flat	_	SpaceAfter=No|Translit=peysekh|Translit_Lemma=peysekh
 9	"	"	PUNCT	_	_	6	punct	_	Translit="|Translit_Lemma="
 10	-	-	PUNCT	_	_	12	punct	_	Translit=-|Translit_Lemma=-
 11	דער	דער	DET	_	_	12	det	_	Translit=der|Translit_Lemma=der
@@ -85,7 +85,7 @@ The following 6 pairs of parts of speech are connected with `flat`: <tt><a href=
 2	דעם	דער	DET	_	_	3	det	_	Translit=dem|Translit_Lemma=der
 3	8–טן	8	ADJ	_	_	1	appos	_	Translit=8–tn|Translit_Lemma=8
 4	סעפּטעמבער	סעפּטעמבער	NOUN	_	_	3	flat	_	Translit=september|Translit_Lemma=september
-5	1939	_	NUM	_	_	3	flat	_	Translit=1939
+5	1939	1939	NUM	_	_	3	flat	_	Translit=1939
 6	זענען	זײַן	AUX	_	_	10	cop	_	Translit=zenen|Translit_Lemma=zayn
 7	די	דער	DET	_	_	8	det	_	Translit=di|Translit_Lemma=der
 8	דײַטשן	דײַטש	NOUN	_	_	10	nsubj	_	Translit=daytshn|Translit_Lemma=daytsh

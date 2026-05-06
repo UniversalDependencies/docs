@@ -54,7 +54,7 @@ The following 22 pairs of parts of speech are connected with `mark`: <tt><a href
 8	شناخت	شناخت	NOUN	N_IANM	Number=Sing	6	obl:arg	_	LTranslit=šnāḫt|Translit=šnāḫt
 9	جامعه	جامعه	NOUN	N_IANM	Number=Sing	8	nmod	_	LTranslit=jāmʿh|Translit=jāmʿh
 10	است	است	AUX	AUX	Number=Sing|Person=3	6	cop	_	LTranslit=āst|OrigLemma=#است|Translit=āst
-11	این	این	DET	PREM_DEMAJ	_	12	det	_	LTranslit=āīn|Translit=āīn
+11	این	این	DET	PREM_DEMAJ	PronType=Dem	12	det	_	LTranslit=āīn|Translit=āīn
 12	گونه	گونه	NOUN	N_IANM	Number=Sing	0	root	_	LTranslit=gūnh|Translit=gūnh
 13	است	است	AUX	AUX	Number=Sing|Person=3	12	cop	_	LTranslit=āst|OrigLemma=#است|SpaceAfter=No|Translit=āst
 14	.	.	PUNCT	PUNC	_	12	punct	_	LTranslit=.|Translit=.

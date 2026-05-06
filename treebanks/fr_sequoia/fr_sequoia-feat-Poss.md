@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_sequoia-pos-DET.
 
 531 <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="fr_sequoia-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (531; 100%), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (531; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (382; 72%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (371; 70%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="fr_sequoia-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (531; 100%), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (531; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (382; 72%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (304; 57%).
 
 `DET` tokens may have the following values of `Poss`:
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (1; 100% of non-empty `Poss`): <em>nôtres</em>
-* `EMPTY` (2790): <em>il, qui, nous, se, je, s', vous, elle, ce, ils</em>
+* `EMPTY` (2740): <em>il, qui, nous, se, je, s', vous, elle, ce, ils</em>
 

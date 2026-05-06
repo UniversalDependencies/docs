@@ -7,36 +7,38 @@ udver: '2'
 ## Treebank Statistics: UD_Middle_French-PROFITEROLE: Relations: `advcl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `advcl`: <tt><a href="frm_profiterole-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
-1867 nodes (2%) are attached to their parents as `advcl`.
+2286 nodes (2%) are attached to their parents as `advcl`.
 
-1288 instances of `advcl` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.13176218532405.
+1587 instances of `advcl` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.03718285214348.
 
-The following 26 pairs of parts of speech are connected with `advcl`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1479; 79% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (136; 7% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (72; 4% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (42; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (33; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (30; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (10; 1% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 25 pairs of parts of speech are connected with `advcl`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1823; 80% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (172; 8% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (81; 4% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (45; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (38; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (37; 2% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (17; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 6 advcl	color:blue
-1	et	et	CCONJ	CONcoo	_	14	cc:nc	_	XmlId=w_32_10034
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
+# visual-style 15 6 advcl	color:blue
+1	et	et	CCONJ	CONcoo	_	15	cc:nc	_	XmlId=w_32_10034
 2	si	si3	SCONJ	CONsub	_	6	mark	_	XmlId=w_32_10035
 3	elle	elle1	PRON	PROper	PronType=Prs	6	nsubj	_	XmlId=w_32_10036
-4	ne	ne1	ADV	ADVneg	PronType=Neg	6	advmod	_	XmlId=w_32_10037
+4	ne	ne1	ADV	ADVneg	Polarity=Neg	6	advmod	_	XmlId=w_32_10037
 5	l'	le	PRON	PROper	PronType=Prs	6	obl	_	SpaceAfter=No|XmlId=w_32_10038
-6	est	être	VERB	VERcjg	VerbForm=Fin	14	advcl	_	XmlId=w_32_10039
-7	du	de.le	ADP	PRE.DETdef	_	8	case:det	_	XmlId=w_32_10040
-8	tout	tout1	PRON	PROind	PronType=Ind	6	obl	_	SpaceAfter=No|XmlId=w_32_10041
-9	,	,	PUNCT	PONfbl	_	14	punct	_	XmlId=w_32_10042
-10	si	si4	ADV	ADVgen	_	14	advmod	_	XmlId=w_32_10043
-11	est	être	AUX	VERcjg	VerbForm=Fin	14	aux:pass	_	XmlId=w_32_10044
-12	elle	elle1	PRON	PROper	PronType=Prs	14	nsubj	_	XmlId=w_32_10045
-13	bien	bien	ADV	ADVgen	_	14	advmod	_	XmlId=w_32_10046
-14	desollée	désoler	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_32_10047
-15	.	.	PUNCT	PONfrt	_	14	punct	_	XmlId=w_32_10048
+6	est	être	VERB	VERcjg	VerbForm=Fin	15	advcl	_	XmlId=w_32_10039
+7	de	_	ADP	_	_	9	case	_	_
+8	le	_	DET	_	Definite=Def|PronType=Art	9	det	_	_
+9	tout	tout1	PRON	PROind	PronType=Ind	6	obl	_	SpaceAfter=No|XmlId=w_32_10041
+10	,	,	PUNCT	PONfbl	_	15	punct	_	XmlId=w_32_10042
+11	si	si4	ADV	ADVgen	_	15	advmod	_	XmlId=w_32_10043
+12	est	être	AUX	VERcjg	VerbForm=Fin	15	aux:pass	_	XmlId=w_32_10044
+13	elle	elle1	PRON	PROper	PronType=Prs	15	nsubj:pass	_	XmlId=w_32_10045
+14	bien	bien	ADV	ADVgen	_	15	advmod	_	XmlId=w_32_10046
+15	desollée	désoler	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_32_10047
+16	.	.	PUNCT	PONfrt	_	15	punct	_	XmlId=w_32_10048
 
 ~~~
 

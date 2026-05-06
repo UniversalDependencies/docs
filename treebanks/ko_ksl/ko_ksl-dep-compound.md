@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="ko_ksl-dep-compound-lvc.html">compound:lvc</a></tt>.
 
-114 nodes (0%) are attached to their parents as `compound`.
+115 nodes (0%) are attached to their parents as `compound`.
 
-114 instances of `compound` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.04385964912281.
+115 instances of `compound` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.04347826086957.
 
-The following 8 pairs of parts of speech are connected with `compound`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (69; 61% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (20; 18% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (19; 17% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `compound`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (69; 60% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (21; 18% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (19; 17% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 1	동대문	동대문	NOUN	NNP	_	2	nmod	_	_
 2	근처에	근처+에	ADV	NNG+JKB	_	7	obl	_	_
 3	식당에서	식당+에서	ADV	NNG+JKB	_	7	obl	_	_
-4	제	저+의	PRON	NP+JKG	_	6	nmod:poss	_	_
+4	제	저+의	PRON	NP+JKG	PronType=Prs	6	nmod:poss	_	_
 5	생일	생일	NOUN	NNG	_	6	compound	_	_
 6	파티를	파티+를	NOUN	NNG+JKO	_	7	obj	_	_
 7	합니다	하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No

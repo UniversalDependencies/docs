@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-221 nodes (4%) are attached to their parents as `mark`.
+262 nodes (4%) are attached to their parents as `mark`.
 
-221 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.74660633484163.
+262 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.72137404580153.
 
-The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-SCONJ.html">SCONJ</a></tt> (194; 88% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADP.html">ADP</a></tt> (12; 5% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-SCONJ.html">SCONJ</a></tt> (8; 4% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-SCONJ.html">SCONJ</a></tt> (6; 3% instances), <tt><a href="el_lesbian-pos-DET.html">DET</a></tt>-<tt><a href="el_lesbian-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `mark`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-SCONJ.html">SCONJ</a></tt> (232; 89% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADP.html">ADP</a></tt> (15; 6% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-SCONJ.html">SCONJ</a></tt> (8; 3% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-SCONJ.html">SCONJ</a></tt> (6; 2% instances), <tt><a href="el_lesbian-pos-DET.html">DET</a></tt>-<tt><a href="el_lesbian-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,13 +27,13 @@ The following 5 pairs of parts of speech are connected with `mark`: <tt><a href=
 3	κριγιός	κρυγιώνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Typo=Yes|VerbForm=Fin|Voice=Act	1	ccomp	_	CorrectForm=κρυγιώς
 4	γή	η	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art|Typo=Yes	5	det	_	CorrectForm=γη|MGloss=euphonic-the|MSeg=γ-η
 5	κόρη	κόρ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-6	ντ	μ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	Voicing=Voiced
-7	,	,	PUNCT	_	_	8	punct	_	_
+6	ντ	ιγώ	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	nmod	_	Voicing=Voiced
+7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 8	είπι	λέγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 9	γιλώντας	γιλώ	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Act	8	advcl	_	_
 10	τ’	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	11	det	_	_
-11	Ατζιλικό	Ατζιλικό	PROPN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Sing	8	nsubj	_	_
-12	.	.	PUNCT	_	_	8	punct	_	_
+11	Ατζιλικό	Ατζιλικό	PROPN	_	Case=Nom|Degree=Dim|Gender=Neut|Number=Sing	8	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 ~~~
 
@@ -52,8 +52,8 @@ The following 5 pairs of parts of speech are connected with `mark`: <tt><a href=
 6	πληρώσουμε	πληρώνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	3	advcl	_	_
 7	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	8	det	_	_
 8	καμώματα	κάμουμα	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	_
-9	σ’	μ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	8	nmod	_	_
-10	.	.	PUNCT	_	_	3	punct	_	_
+9	σ’	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -70,13 +70,13 @@ The following 5 pairs of parts of speech are connected with `mark`: <tt><a href=
 4	απ’	απού	ADP	_	_	7	case	_	_
 5	ούλα	ούλους	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	7	det	_	_
 6	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	7	det	_	_
-7	μουρά	μουρό	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	obl	_	_
-8	,	,	PUNCT	_	_	12	punct	_	_
+7	μουρά	μουρό	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 9	γιατί	γιατί	SCONJ	_	_	12	mark	_	_
 10	‘γού	ιγώ	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
-11	είμαι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	12	cop	_	_
-12	ορφανή	ουρφανός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	advcl	_	_
-13	.	.	PUNCT	_	_	1	punct	_	_
+11	είμαι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	ορφανή	ουρφανός	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 

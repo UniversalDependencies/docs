@@ -32,8 +32,8 @@ The 2nd highest number of forms (1) was observed with the lemma “Lund”: <em>
 `PROPN` occurs with 3 feature-value pairs: `Case=Dat`, `Gender=Masc`, `Number=Sing`
 
 `PROPN` occurs with 2 feature combinations.
-The most frequent feature combination is `Case=Dat|Gender=Masc|Number=Sing` (1 tokens).
-Examples: <em>babilone</em>
+The most frequent feature combination is `Case=Dat|Number=Sing` (1 tokens).
+Examples: <em>lund</em>
 
 
 ## Relations

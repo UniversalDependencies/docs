@@ -6,55 +6,60 @@ udver: '2'
 
 ## Treebank Statistics: UD_Ottoman_Turkish-DUDU: POS Tags: `INTJ`
 
-There are 17 `INTJ` lemmas (0%), 17 `INTJ` types (0%) and 52 `INTJ` tokens (0%).
+There are 21 `INTJ` lemmas (0%), 22 `INTJ` types (0%) and 78 `INTJ` tokens (0%).
 Out of 15 observed tags, the rank of `INTJ` is: 10 in number of lemmas, 11 in number of types and 14 in number of tokens.
 
-The 10 most frequent `INTJ` lemmas: <em>yâ, teʿâlâ, ey, i-y, evet, tâ, ve’s-selâm, â, belî, in-şâʾallâh</em>
+The 10 most frequent `INTJ` lemmas: <em>yā, i-y, teʿālā, ey, evet, tā, ve’s-selām, ā, belī, in-şāʾallāh</em>
 
-The 10 most frequent `INTJ` types:  <em>yâ, teʿâlâ, ey, i-y, evet, tâ, ve’s-selâm, â, belî, in-şâʾallâh</em>
+The 10 most frequent `INTJ` types:  <em>yā, i-y, teʿālā, ey, evet, tā, ve’s-selām, ā, belī, in-şāʾallāh</em>
 
-The 10 most frequent ambiguous lemmas: <em>yâ</em> (<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ey</em> (<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> 24, <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 5), <em>tâ</em> (<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 8, <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> 1), <em>işte</em> (<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>yā</em> (<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 27, <tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ey</em> (<tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> 43, <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 5), <em>tā</em> (<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 10, <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> 1), <em>işte</em> (<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 1), <em>va’llāhi</em> (<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>yâ</em> (<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 17, <tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> 1), <em>tâ</em> (<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 8, <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> 1), <em>işte</em> (<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>yā</em> (<tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 27, <tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> 1), <em>tā</em> (<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 10, <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> 1), <em>işte</em> (<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 1), <em>va’llāhi</em> (<tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 1)
 
 
-* <em>yâ</em>
-  * <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 17: <em><b>yâ</b> müstaḥsinler</em>
-  * <tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> 1: <em>ammâ mezbûr dîvân begi yûsuf paşanuñ şecâʿatine ve yanında ġı ʿaskerüñ bî-pervâ ḳıtâline imʿân-ı naẓar ḳılduḳda güzel şâhum bir dil-âver ġâzîsün ancaḳ gûş-ı hûşuña benden bu pendi mülḥaḳ buyur ki şâhımuz ḥamza mîrzâ ḥâlâ evcân yaylaġı ḳurbında nüzûl itmiş dür ve şimdiki ḥâlde bu ḥavâlîde bir köye yimeklenmege inmiş dür ve leşkeriñüz ile muḳâbele niyyetine güzîde ġâzîleri bilesince uydurmış dur pes şimdi her ḳanda ise gelür bu miḳdâr cüzʾî âdemle bulup sizi pençesine alur vaḳtiyle tedârükiñüzi görüñ <b>yâ</b> orduya çekilüñ yâḫûd daḫı leşker getürüñ didükde cıġala-zâde bu ḫaberleri serdâr cânibine bildürdi</em>
-* <em>tâ</em>
-  * <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 8: <em><b>tâ</b> ki ser-menzilleri elbistân vâdîlerine yitdi</em>
-  * <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 2: <em>münhezim ḳılup <b>tâ</b> ṣaḳlebe ve türk vilâyetlerine dek ardınca ḳodı</em>
-  * <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> 1: <em>bu ḥâlile <b>tâ</b> gice olınca gitdiler</em>
+* <em>yā</em>
+  * <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 27: <em>ʿanter eyitdi āmīn <b>yā</b> sittāh</em>
+  * <tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> 1: <em>ammā mezbūr dīvān begi yūsuf paşanuñ şecāʿatine ve yanında ġı ʿaskerüñ bī-pervā ḳıtāline imʿān-ı naẓar ḳılduḳda güzel şāhum bir dil-āver ġāzīsün ancaḳ gūş-ı hūşuña benden bu pendi mülḥaḳ buyur ki şāhımuz ḥamza mīrzā ḥālā evcān yaylaġı ḳurbında nüzūl itmiş dür ve şimdiki ḥālde bu ḥavālīde bir köye yimeklenmege inmiş dür ve leşkeriñüz ile muḳābele niyyetine güzīde ġāzīleri bilesince uydurmış dur pes şimdi her ḳanda ise gelür bu miḳdār cüzʾī ādemle bulup sizi pençesine alur vaḳtiyle tedārükiñüzi görüñ <b>yā</b> orduya çekilüñ yāḫūd daḫı leşker getürüñ didükde cıġala-zāde bu ḫaberleri serdār cānibine bildürdi</em>
+* <em>tā</em>
+  * <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 10: <em><b>tā</b> ki düşmen şemātesine uġramayasız</em>
+  * <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 2: <em>münhezim ḳılup <b>tā</b> ṣaḳlebe ve türk vilāyetlerine dek ardınca ḳodı</em>
+  * <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> 1: <em>bu ḥālile <b>tā</b> gice olınca gitdiler</em>
 * <em>işte</em>
-  * <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 1: <em><b>işte</b> meşâyiḫ ile ḥâli bu dur</em>
-  * <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 1: <em><b>işte</b> ḥukemâlıḳ da bu dur yoḫsa hindden yemenden ḥakîm getürseler fâʾide eylemez</em>
+  * <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 2: <em><b>işte</b> meşāyiḫ ile ḥāli bu dur</em>
+  * <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 1: <em><b>işte</b> ḥukemālıḳ da bu dur yoḫsa hindden yemenden ḥakīm getürseler fāʾide eylemez</em>
+* <em>va’llāhi</em>
+  * <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> 1: <em><b>va’llāhi</b> senüñ ʿömrüñ temām oldı ve dünyādan rızḳuñ dükendi andañ ṣoñra bunuñ başını kesdi ve bunuñ ḥaḳḳında bu şiʿri eyitdi</em>
+  * <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> 1: <em><b>va’llāhi</b> yā veled-i zinā eger ben rızḳ ṭaleb itmege gitmesem sen anuñ yüzini görecek degüldüñ</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.708972).
+The form / lemma ratio of `INTJ` is 1.047619 (the average of all parts of speech is 1.775605).
 
-The 1st highest number of forms (1) was observed with the lemma “belî”: <em>belî</em>.
+The 1st highest number of forms (2) was observed with the lemma “teʿālā”: <em>teʿālā, teʿālānuñ</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “evet”: <em>evet</em>.
+The 2nd highest number of forms (1) was observed with the lemma “belī”: <em>belī</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “ey”: <em>ey</em>.
+The 3rd highest number of forms (1) was observed with the lemma “evet”: <em>evet</em>.
 
 `INTJ` does not occur with any features.
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 3 different relations: <tt><a href="ota_dudu-dep-discourse.html">discourse</a></tt> (45; 87% instances), <tt><a href="ota_dudu-dep-flat.html">flat</a></tt> (6; 12% instances), <tt><a href="ota_dudu-dep-root.html">root</a></tt> (1; 2% instances)
+`INTJ` nodes are attached to their parents using 4 different relations: <tt><a href="ota_dudu-dep-discourse.html">discourse</a></tt> (65; 83% instances), <tt><a href="ota_dudu-dep-flat.html">flat</a></tt> (11; 14% instances), <tt><a href="ota_dudu-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="ota_dudu-dep-root.html">root</a></tt> (1; 1% instances)
 
-Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (21; 40% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (21; 40% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (6; 12% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (1; 2% instances),  (1; 2% instances)
+Parents of `INTJ` nodes belong to 8 different parts of speech: <tt><a href="ota_dudu-pos-NOUN.html">NOUN</a></tt> (36; 46% instances), <tt><a href="ota_dudu-pos-PROPN.html">PROPN</a></tt> (31; 40% instances), <tt><a href="ota_dudu-pos-VERB.html">VERB</a></tt> (5; 6% instances), <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="ota_dudu-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="ota_dudu-pos-PRON.html">PRON</a></tt> (1; 1% instances),  (1; 1% instances)
 
-50 (96%) `INTJ` nodes are leaves.
+74 (95%) `INTJ` nodes are leaves.
 
-2 (4%) `INTJ` nodes have one child.
+3 (4%) `INTJ` nodes have one child.
 
-The highest child degree of a `INTJ` node is 1.
+1 (1%) `INTJ` nodes have two children.
 
-Children of `INTJ` nodes are attached using 2 different relations: <tt><a href="ota_dudu-dep-discourse.html">discourse</a></tt> (1; 50% instances), <tt><a href="ota_dudu-dep-punct.html">punct</a></tt> (1; 50% instances)
+The highest child degree of a `INTJ` node is 2.
 
-Children of `INTJ` nodes belong to 2 different parts of speech: <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (1; 50% instances), <tt><a href="ota_dudu-pos-PUNCT.html">PUNCT</a></tt> (1; 50% instances)
+Children of `INTJ` nodes are attached using 5 different relations: <tt><a href="ota_dudu-dep-cc.html">cc</a></tt> (1; 20% instances), <tt><a href="ota_dudu-dep-conj.html">conj</a></tt> (1; 20% instances), <tt><a href="ota_dudu-dep-discourse.html">discourse</a></tt> (1; 20% instances), <tt><a href="ota_dudu-dep-flat.html">flat</a></tt> (1; 20% instances), <tt><a href="ota_dudu-dep-punct.html">punct</a></tt> (1; 20% instances)
+
+Children of `INTJ` nodes belong to 4 different parts of speech: <tt><a href="ota_dudu-pos-INTJ.html">INTJ</a></tt> (2; 40% instances), <tt><a href="ota_dudu-pos-ADP.html">ADP</a></tt> (1; 20% instances), <tt><a href="ota_dudu-pos-CCONJ.html">CCONJ</a></tt> (1; 20% instances), <tt><a href="ota_dudu-pos-PUNCT.html">PUNCT</a></tt> (1; 20% instances)
 

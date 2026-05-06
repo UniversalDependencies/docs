@@ -1,34 +1,31 @@
 ---
 layout: base
-title:  'Statistics of fixed in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of fixed in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `fixed`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `fixed`
 
 This relation is universal.
 
-76 nodes (1%) are attached to their parents as `fixed`.
+86 nodes (0%) are attached to their parents as `fixed`.
 
-76 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.02631578947368.
+86 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03488372093023.
 
-The following 15 pairs of parts of speech are connected with `fixed`: <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (21; 28% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (13; 17% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (9; 12% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (9; 12% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (6; 8% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (4; 5% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (3; 4% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (2; 3% instances), <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> (2; 3% instances), <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `fixed`: <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (23; 27% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (13; 15% instances), <tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (9; 10% instances), <tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> (9; 10% instances), <tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (7; 8% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (6; 7% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (5; 6% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> (4; 5% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> (2; 2% instances), <tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 fixed	color:blue
-1	kinwikah	wika	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kinwikah|NormalizedLemma=wika|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran
-2	n	in	DET	_	ExtPos=ADV	1	advmod	1:advmod	NormalizedForm=n|NormalizedLemma=in
-3	ompa	ompa	ADV	_	_	2	fixed	2:fixed	NormalizedForm=ompa|NormalizedLemma=ompa|SpaceAfter=No
-4	,	,	PUNCT	_	_	5	punct	5:punct	NormalizedForm=,|NormalizedLemma=,
-5	kintrataroh	trataroa	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	1	conj	1:conj	NormalizedForm=kintrataroh|NormalizedLemma=trataroa|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran
-6	kwale	kwali	ADV	_	_	5	advmod	5:advmod	NormalizedForm=kwale|NormalizedLemma=kwali|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	6:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 3 4 fixed	color:blue
+1	Cochi	cochi	VERB	_	_	0	root	0:root	_
+2	simi	simi	ADV	_	_	1	advmod	1:advmod	_
+3	in	in	DET	_	_	1	advmod	1:advmod	_
+4	youac	youac	ADV	_	_	3	fixed	3:fixed	SpaceAfter=No
 
 ~~~
 

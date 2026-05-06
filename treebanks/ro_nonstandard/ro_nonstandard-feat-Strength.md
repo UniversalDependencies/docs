@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Strong`, `Weak`.
 
-36865 tokens (6%) have a non-empty value of `Strength`.
+36805 tokens (6%) have a non-empty value of `Strength`.
 234 types (1%) occur at least once with a non-empty value of `Strength`.
 27 lemmas (0%) occur at least once with a non-empty value of `Strength`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (36865; 6% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (36805; 6% instances).
 
 ### `PRON`
 
-36865 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (57% of all `PRON` tokens) have a non-empty value of `Strength`.
+36805 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (57% of all `PRON` tokens) have a non-empty value of `Strength`.
 
-The most frequent other feature values with which `PRON` and `Strength` co-occurred: <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (36865; 100%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27087; 73%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt> (25325; 69%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (25180; 68%).
+The most frequent other feature values with which `PRON` and `Strength` co-occurred: <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (36805; 100%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27038; 73%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=Acc</tt> (25288; 69%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (25149; 68%).
 
 `PRON` tokens may have the following values of `Strength`:
 
-* `Strong` (6784; 18% of non-empty `Strength`): <em>el, lor, mine, voi, ei, lui, voao, tine, noi, mie</em>
-* `Weak` (30081; 82% of non-empty `Strength`): <em>să, -i, -l, s-, le, mă, i-, l-, o, se</em>
+* `Strong` (6777; 18% of non-empty `Strength`): <em>el, lor, mine, voi, ei, lui, voao, tine, noi, mie</em>
+* `Weak` (30028; 82% of non-empty `Strength`): <em>să, -i, -l, s-, le, mă, i-, l-, o, se</em>
 
 <table>
   <tr><th>Paradigm <i>el</i></th><th><tt>Strong</tt></th><th><tt>Weak</tt></th></tr>

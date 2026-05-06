@@ -52,17 +52,17 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 appos	color:blue
-1	_	_	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	4:nsubj	Bridge=9<59|Discourse=organization-preparation:52->61:2:_|Entity=(59-abstract-acc:inf-nnnnn-cf1-1-coref)|Lem=*LOWER*|Len=4
+1	_	_	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	4:nsubj	Discourse=organization-preparation:52->61:2:_|Entity=(60-abstract-new-nnnnn-cf2-1-cata)|Lem=*LOWER*|Len=4
 2	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	4:cop	Lem=be|Len=2
-3	_	_	DET	DT	Definite=Def|PronType=Art	4	det	4:det	Entity=(59-abstract-giv:act-nnnnn-cf1-2-coref|Lem=_|Len=3
+3	_	_	DET	DT	Definite=Def|PronType=Art	4	det	4:det	Entity=(60-abstract-acc:com-nnnnn-cf2-2-coref|Lem=_|Len=3
 4	_	_	NOUN	NN	Number=Sing	0	root	0:root	Lem=_|Len=4
 5	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=4
-6	_	_	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Entity=(60-abstract-new-nnnnn-cf3-2-sgl|Lem=_|Len=3
+6	_	_	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Entity=(61-abstract-new-nnnnn-cf3-2-sgl|Lem=_|Len=3
 7	_	_	NOUN	NN	Number=Sing	4	nmod	4:nmod:with	Lem=_|Len=7
 8	_	_	ADP	IN	_	10	case	10:case	Lem=_|Len=2
-9	_	_	DET	DT	Definite=Def|PronType=Art	10	det	10:det	Entity=(61-abstract-new-nnnnn-cf2-2-coref-Idiocracy|Lem=_|Len=3
-10	_	_	NOUN	NN	Number=Sing	7	nmod	7:nmod:of	Entity=61)|Lem=_|Len=5|MSeg=mov-ie
-11	_	_	PROPN	NNP	Number=Sing	10	appos	10:appos	Entity=(61-abstract-giv:act-nnnnn-cf2-1-appos-Idiocracy)60)59)|Lem=_|Len=9|MSeg=Idio-cracy|SpaceAfter=No
+9	_	_	DET	DT	Definite=Def|PronType=Art	10	det	10:det	Entity=(62-abstract-new-nnnnn-cf1-2-coref-Idiocracy|Lem=_|Len=3
+10	_	_	NOUN	NN	Number=Sing	7	nmod	7:nmod:of	Entity=62)|Lem=_|Len=5|MSeg=mov-ie
+11	_	_	PROPN	NNP	Number=Sing	10	appos	10:appos	Entity=(62-abstract-giv:act-nnnnn-cf1-1-appos-Idiocracy)61)60)|Lem=_|Len=9|MSeg=Idio-crac-y|SpaceAfter=No
 12	_	_	PUNCT	.	_	4	punct	4:punct	Lem=_|Len=1
 
 ~~~
@@ -74,7 +74,7 @@ The following 11 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 18 appos	color:blue
-1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=elaboration-additional:97->95:1:sem-rpt-705-708,717-720-_|Entity=(92-abstract-giv:inact-nnnns-cf1-3-coref|Lem=*LOWER*|Len=3|PDTB=EntRel:EntRel:_:_:710-716:717-740
+1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=elaboration-additional:97->95:1:sem-rpt-705-708,717-720-_|Entity=(92-abstract-giv:inact-nnnns-cf1-3-coref|Lem=*LOWER*|Len=3|PDTB=Implicit:Expansion.Level-of-detail.Arg2-as-detail:in particular:_:710-716:717-740
 2	_	_	PUNCT	``	_	3	punct	3:punct	Lem=_|Len=1|SpaceAfter=No
 3	_	_	NOUN	NN	Number=Sing	12	nsubj	12:nsubj	Lem=_|Len=2|SpaceAfter=No
 4	_	_	PUNCT	''	_	3	punct	3:punct	Entity=92)|Lem=_|Len=1

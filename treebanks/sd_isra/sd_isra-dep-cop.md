@@ -8,26 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-1737 nodes (2%) are attached to their parents as `cop`.
+1739 nodes (2%) are attached to their parents as `cop`.
 
-1725 instances of `cop` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25791594703512.
+1728 instances of `cop` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26106958021852.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1104; 64% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (416; 24% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (63; 4% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (62; 4% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (32; 2% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (23; 1% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PART.html">PART</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1113; 64% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (415; 24% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (68; 4% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (53; 3% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (32; 2% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (25; 1% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (21; 1% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PART.html">PART</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 cop	color:blue
-1	رِڍَ	رِڍَ	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	5	nsubj	_	_
-2	کي	کي	ADP	PSP	_	1	case	_	_
-3	هئي	آهي	AUX	VAUX	Gender=Fem|Number=Sing|Person=3|Tense=Past	5	cop	_	_
-4	سخت	سخت	ADJ	JJ	Case=Nom|Degree=Pos	5	amod	_	_
-5	اُڃ	اُڃ	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-6	،	،	PUNCT	PUNCT	_	5	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 cop	color:blue
+1	يعني	يعني	ADP	PSP	_	6	mark	_	_
+2	جنهن	جنهن	DET	PRD	Case=Acc|Number=Sing|Person=3|PronType=Dem	3	det	_	_
+3	جاءِ	جاءِ	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+4	تي	تي	ADP	PSPL	_	3	case	_	_
+5	تون	تون	PRON	PRP	Case=Nom|Number=Sing|Person=2	6	nsubj	_	_
+6	ويٺو	ويٺو	VERB	VM	Aspect=Perf|Gender=Masc|Number=Sing|Voice=Act	9	advcl	_	_
+7	آهين	آهي	AUX	VAUX	Number=Sing|Person=1|Tense=Pres	6	aux	_	_
+8	سو	سو	PRON	PRL	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	9	nsubj	_	_
+9	چندن	چندو	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
+10	جهڙو	جهڙو	ADP	PSPR	Gender=Masc|Number=Sing	9	case	_	_
+11	آهي	آهي	AUX	VAUX	Number=Sing|Tense=Pres	9	cop	_	_
+12	،	،	PUNCT	PUNCT	_	9	punct	_	_
 
 ~~~
 

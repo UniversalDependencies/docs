@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2184 nodes (2%) are attached to their parents as `cc`.
+2180 nodes (2%) are attached to their parents as `cc`.
 
-2168 instances of `cc` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.66346153846154.
+2164 instances of `cc` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.66330275229358.
 
-The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (1030; 47% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (799; 37% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (172; 8% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (122; 6% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (20; 1% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (14; 1% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (7; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (1029; 47% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (798; 37% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (172; 8% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (122; 6% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (20; 1% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (14; 1% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (12; 1% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -68,7 +68,7 @@ The following 11 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 4	fgColor:white
 # visual-style 4 3 cc	color:blue
 1	پنج	پنج	ADJ	JJC	Case=Nom|Number=Sing	2	amod	_	_
-2	اُهي	اُهي	PRON	PRD	Gender=Masc|Number=Plur	0	root	_	_
+2	اُهي	اُهو	DET	PRD	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	0	root	_	_
 3	۽	۽	CCONJ	CC	_	4	cc	_	_
 4	ٻه	ٻه	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
 5	هي	هي	DET	PRD	Case=Nom|Number=Sing|PronType=Dem	4	det	_	_

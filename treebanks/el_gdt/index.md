@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Prokopis Prokopidis.
 
 Repository: [UD_Greek-GDT](https://github.com/UniversalDependencies/UD_Greek-GDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_gdt217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_gdt218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -45,9 +45,9 @@ Do not submit pull requests against the UD repository.
 ## Description
 
 The Greek UD treebank (UD_Greek-GDT) is derived from the Greek Dependency Treebank
-(http://gdt.ilsp.gr), a resource developed and maintained by
+(https://gdt.ilsp.gr), a resource developed and maintained by
 researchers at the Institute for Language and Speech Processing/Athena
-R.C. (http://www.ilsp.gr).
+R.C. (https://www.ilsp.gr).
 
 
 
@@ -56,7 +56,7 @@ data in the current release derive from primary texts that are in the
 public domain, including wikinews articles and european parliament
 sessions. The treebank is licensed under the terms of [Creative
 Commons Attribution-NonCommercial-ShareAlike, CC BY-NC-SA
-3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 The morphological and syntactic annotation of the Greek UD treebank
 was originally created through a semi-automatic conversion of

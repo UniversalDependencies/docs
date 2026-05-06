@@ -12,11 +12,11 @@ It occurs with 3 different values: `Geo`, `Giv`, `Sur`.
 29 tokens (3%) have a non-empty value of `NameType`.
 20 types (3%) occur at least once with a non-empty value of `NameType`.
 19 lemmas (4%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (28; 3% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> (28; 2% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
-28 <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> tokens (97% of all `PROPN` tokens) have a non-empty value of `NameType`.
+28 <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
 The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="koi_uh-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 96%), <tt><a href="koi_uh-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (17; 61%), <tt><a href="koi_uh-feat-Case.html">Case</a></tt><tt>=Nom</tt> (17; 61%).
 

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 37659 tokens (39%) have a non-empty value of `Number`.
 10910 types (72%) occur at least once with a non-empty value of `Number`.
-7175 lemmas (68%) occur at least once with a non-empty value of `Number`.
+7175 lemmas (67%) occur at least once with a non-empty value of `Number`.
 The feature is used with 7 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22432; 23% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (5160; 5% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (5034; 5% instances), <tt><a href="sv_talbanken-pos-DET.html">DET</a></tt> (4891; 5% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (92; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (49; 0% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -63,7 +63,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (1377; 27% of non-empty `Number`): <em>de, vi, dem, sina, oss, våra, andra, många, varandra, alla</em>
 * `Sing` (3657; 73% of non-empty `Number`): <em>det, man, den, du, sin, detta, vad, han, jag, sitt</em>
-* `EMPTY` (1712): <em>som, sig, deras, dess, mer, mycket, hans, hennes, mindre, vars</em>
+* `EMPTY` (1717): <em>som, sig, deras, dess, mer, mycket, hans, hennes, mindre, vars</em>
 
 <table>
   <tr><th>Paradigm <i>sig</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -114,7 +114,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 * `Plur` (22; 45% of non-empty `Number`): <em>påverkade, tvungna, anpassade, bedövade, diciplinerade, emanciperade, fjärrundersökta, frusterade, färdigräknade, fördelade</em>
 * `Sing` (27; 55% of non-empty `Number`): <em>vald, vänd, hörselskadad, accepterad, förbjudet, förstärkt, förändrad, ifylld, komplicerad, likställd</em>
-* `EMPTY` (9741): <em>har, finns, blir, få, får, ha, gäller, behöver, ger, går</em>
+* `EMPTY` (9740): <em>har, finns, blir, få, får, ha, gäller, behöver, ger, går</em>
 
 <table>
   <tr><th>Paradigm <i>vald</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

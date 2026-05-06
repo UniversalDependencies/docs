@@ -187,10 +187,10 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (658; 82%),
+<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (660; 82%),
 <tt>VERB --[<tt><a href="tr_imst-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (480; 62%),
-<tt>VERB --[<tt><a href="tr_imst-dep-obj.html">obj</a></tt>]--> VERB</tt> (316; 66%),
-<tt>VERB --[<tt><a href="tr_imst-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (206; 55%),
+<tt>VERB --[<tt><a href="tr_imst-dep-obj.html">obj</a></tt>]--> VERB</tt> (312; 66%),
+<tt>VERB --[<tt><a href="tr_imst-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (207; 55%),
 <tt>VERB --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (167; 68%),
 <tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (89; 59%),
 <tt>VERB --[<tt><a href="tr_imst-dep-acl.html">acl</a></tt>]--> VERB</tt> (86; 73%),

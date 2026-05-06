@@ -8,102 +8,69 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="es_ancora-dep-acl.html">acl</a></tt>.
 
-54 nodes (0%) are attached to their parents as `acl:relcl`.
+7847 nodes (1%) are attached to their parents as `acl:relcl`.
 
-54 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.92592592592593.
+7845 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.6099146170511.
 
-The following 10 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (20; 37% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (15; 28% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (8; 15% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (3; 6% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (2; 4% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
+The following 34 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (6062; 77% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (864; 11% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (226; 3% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (199; 3% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (170; 2% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (74; 1% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (53; 1% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (31; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (24; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (17; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (14; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 acl:relcl	color:blue
-1	"	"	PUNCT	fe	PunctType=Quot	2	punct	2:punct	Entity=(CESSCASTP1999050116_ac2--3
-2	Tenemos	tener	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
-3	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	Entity=(NOCOREF:Gen--2-gstype:gen
-4	plan	plan	NOUN	ncms000	Gender=Masc|Number=Sing	2	obj	2:obj	ArgTem=arg2:atr
-5	claro	claro	ADJ	aq0ms0	Gender=Masc|Number=Sing	4	amod	4:amod	_
-6	sobre	sobre	ADP	sps00	_	7	case	7:case	_
-7	lo	él	PRON	da0ns0	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	nmod	4:nmod	Entity=(NOCOREF:Gen--4-gstype:gen,HomoDD
-8	que	que	PRON	pr0cn000	PronType=Rel	11	obj	11:obj	ArgTem=arg1:pat
-9	queremos	querer	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	_
-10	que	que	SCONJ	cs	_	11	mark	11:mark	_
-11	haga	hacer	VERB	vmsp3s0	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	9:ccomp	ArgTem=arg1:pat
-12	Apple	Apple	PROPN	np00000	_	11	nsubj	11:nsubj	ArgTem=arg0:agt|Entity=(NOCOREF:Spec.organization-organization-1-gstype:spec)
-13	para	para	ADP	sps00	_	14	mark	14:mark	_
-14	socavar	socavar	VERB	vmn0000	VerbForm=Inf	11	advcl	11:advcl	ArgTem=argM:fin
-15	a	a	ADP	sps00	_	16	case	16:case	_
-16	Sun	Sun	PROPN	np00000	_	14	obj	14:obj	SpaceAfter=No|ArgTem=arg1:pat|Entity=(NOCOREF:Spec.organization-organization-1-gstype:spec)NOCOREF:Gen)NOCOREF:Gen)
-17	"	"	PUNCT	fe	PunctType=Quot	2	punct	2:punct	SpaceAfter=No
-18	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	Entity=CESSCASTP1999050116_ac2)
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 8 acl:relcl	color:blue
+1	En	en	ADP	rg	ExtPos=ADV	5	advmod	5:advmod	MWE=En_definitiva|MWEPOS=ADV
+2	definitiva	definitiva	NOUN	_	_	1	fixed	1:fixed	SpaceAfter=No
+3	,	,	PUNCT	fc	PunctType=Comm	1	punct	1:punct	_
+4	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	5:det	Entity=(CESSCASTP1999110132c2-person-2-CorefType:ident,gstype:spec
+5	rey	rey	NOUN	ncms000	Gender=Masc|Number=Sing	0	root	0:root	_
+6	que	que	PRON	pr0cn000	PronType=Rel	8	obj	8:obj	ArgTem=arg1:pat|Entity=(CESSCASTP1999110132c2-person-1-CorefType:ident,gstype:spec)
+7	Marruecos	Marruecos	PROPN	np00000	_	8	nsubj	8:nsubj	ArgTem=arg0:agt|Entity=(CESSCASTP1999110132c8-place-1-CorefType:ident,gstype:spec)
+8	necesita	necesitar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	5:acl:relcl	Entity=CESSCASTP1999110132c2)|SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	5	punct	5:punct	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 acl:relcl	color:blue
-1	"	"	PUNCT	fe	PunctType=Quot	9	punct	9:punct	SpaceAfter=No
-2	Distancias	distancia	NOUN	ncfp000	Gender=Fem|Number=Plur	12	nsubj	12:nsubj	ArgTem=arg0:agt|Entity=(CESSCASTAA200005053286c13--1-gstype:gen
-3	que	que	PRON	pr0cn000	PronType=Rel	4	nsubj	4:nsubj	ArgTem=arg1:tem|Entity=(CESSCASTAA200005053286c13--1-CorefType:ident,gstype:gen)
-4	parecían	parecer	VERB	vmii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	acl:relcl	2:acl:relcl	_
-5	insalvables	insalvable	ADJ	aq0cp0	Number=Plur	4	xcomp	4:xcomp	ArgTem=arg2:atr|Entity=CESSCASTAA200005053286c13)
-6	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	7:det	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
-7	realidad	realidad	NOUN	ncfs000	Gender=Fem|Number=Sing	9	nsubj	9:nsubj	ArgTem=arg0:agt|Entity=NOCOREF:Gen)
-8	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
-9	demostrado	demostrar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
-10	que	que	SCONJ	cs	_	12	mark	12:mark	_
-11	no	no	ADV	rn	Polarity=Neg	12	advmod	12:advmod	_
-12	lo	él	PRON	pp3cna00	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	ccomp	9:ccomp	ArgTem=arg2:atr|Entity=(NOCOREF:Gen--1-gstype:gen)
-13	eran	ser	AUX	vsii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	cop	12:cop	SpaceAfter=No|ArgTem=arg1:pat
-14	"	"	PUNCT	fe	PunctType=Quot	12	punct	12:punct	_
-15	.	.	PUNCT	fp	PunctType=Peri	9	punct	9:punct	_
+# visual-style 4 8 acl:relcl	color:blue
+1	Por	por	ADP	sps00	_	2	case	2:case	_
+2	él	él	PRON	pp3ms000	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obl	3:obl	ArgTem=argM:cau|Entity=(CESSCASTP20010202169c7--1-CorefType:ident,gstype:gen)
+3	suspiró	suspirar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+4	Yehudi	Yehudi	PROPN	np00000	_	3	nsubj	3:nsubj	MWE=Yehudi_Menuhin|MWEPOS=PROPN|ArgTem=arg0:agt|Entity=(CESSCASTP20010202169c8-person-1-gstype:spec
+5	Menuhin	Menuhin	PROPN	_	_	4	flat	4:flat	SpaceAfter=No
+6	,	,	PUNCT	fc	PunctType=Comm	8	punct	8:punct	_
+7	que	que	PRON	pr0cn000	PronType=Rel	8	nsubj	8:nsubj	ArgTem=arg0:agt|Entity=(CESSCASTP20010202169c8-person-1-CorefType:ident,gstype:spec)
+8	elogió	elogiar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	4:acl:relcl	_
+9	su	su	DET	dp3cs0	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	10:det	Entity=(NOCOREF:Gen--2-gstype:gen(CESSCASTP20010202169c7--1-CorefType:ident,gstype:gen)
+10	sonoridad	sonoridad	NOUN	ncfs000	Gender=Fem|Number=Sing	8	obj	8:obj	ArgTem=arg1:pat|Entity=NOCOREF:Gen)CESSCASTP20010202169c8)|SpaceAfter=No
+11	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 18	bgColor:blue
-# visual-style 18	fgColor:white
-# visual-style 18 23 acl:relcl	color:blue
-1	"	"	PUNCT	fe	PunctType=Quot	9	punct	9:punct	SpaceAfter=No
-2	El	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	4:det	Entity=(CESSCASTA2000021511977c4-person-2-CorefType:ident,gstype:spec
-3	señor	señor	NOUN	ncms000	Gender=Masc|Number=Sing	9	nsubj	9:nsubj	_
-4	González	González	PROPN	np0000p	_	3	flat	3:flat	ArgTem=arg1:tem|Entity=CESSCASTA2000021511977c4)
-5	-	-	PUNCT	fg	PunctType=Dash	6	punct	6:punct	_
-6	añadió	añadir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	parataxis	9:parataxis	_
-7	-	-	PUNCT	fg	PunctType=Dash	6	punct	6:punct	_
-8	es	ser	AUX	vsip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
-9	consciente	consciente	ADJ	aq0cs0	Number=Sing	0	root	0:root	ArgTem=arg2:atr
-10	de	de	ADP	sps00	_	12	mark	12:mark	_
-11	que	que	SCONJ	cs	_	12	mark	12:mark	_
-12	sabemos	saber	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	9	acl	9:acl	_
-13	todos	todo	DET	di0mp0	Gender=Masc|Number=Plur|PronType=Tot	15	det	15:det	Entity=(CESSCASTA2000021511977c28--3-CorefType:ident,gstype:gen,HomoDD
-14	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	15:det	_
-15	detalles	detalle	NOUN	ncmp000	Gender=Masc|Number=Plur	12	obj	12:obj	SpaceAfter=No|ArgTem=arg1:pat
-16	,	,	PUNCT	fc	PunctType=Comm	18	punct	18:punct	_
-17	incluidos	incluido	ADJ	aq0mpp	Gender=Masc|Number=Plur|VerbForm=Part	18	amod	18:amod	_
-18	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	appos	15:appos	Entity=(NOCOREF:Gen--6-gstype:gen
-19	que	que	PRON	pr0cn000	PronType=Rel	23	obj	23:obj	ArgTem=arg0:agt
-20	él	él	PRON	pp3ms000	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	23:nsubj	ArgTem=arg0:agt|Entity=(CESSCASTA2000021511977c4-person-1-CorefType:ident,gstype:spec
-21	mismo	mismo	ADJ	aq0ms0	Gender=Masc|Number=Sing	20	amod	20:amod	Entity=CESSCASTA2000021511977c4)
-22	ha	haber	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	23:aux	_
-23	hablado	hablar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	acl:relcl	18:acl:relcl	ArgTem=arg1:pat
-24	sobre	sobre	ADP	sps00	_	25	case	25:case	_
-25	sí	él	PRON	pp3cno00	Case=Acc|Person=3|PrepCase=Pre|PronType=Prs|Reflex=Yes	23	obl	23:obl	Entity=(CESSCASTA2000021511977c4-person-1-CorefType:ident,gstype:spec
-26	mismo	mismo	DET	di0ms0	Gender=Masc|Number=Sing|PronType=Dem	25	det	25:det	SpaceAfter=No|Entity=CESSCASTA2000021511977c4)NOCOREF:Gen)CESSCASTA2000021511977c28)
-27	"	"	PUNCT	fe	PunctType=Quot	9	punct	9:punct	_
-28	EFE	EFE	PROPN	np0000o	_	9	dep	9:dep	SpaceAfter=No|Entity=(NOCOREF:Spec.organization-organization-1-gstype:spec)
-29	.	.	PUNCT	fp	PunctType=Peri	9	punct	9:punct	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 acl:relcl	color:blue
+1	No	no	ADV	rn	Polarity=Neg	3	advmod	3:advmod	_
+2	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl:arg	3:obl:arg	ArgTem=arg2:ben|Entity=(CESSCASTAA2000022420131c3-person-1-CorefType:ident,gstype:spec)
+3	sorprende	sorprender	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+4	nada	nada	PRON	pi0cs000	Number=Sing|PronType=Neg	3	nsubj	3:nsubj	ArgTem=arg0:cau
+5	de	de	ADP	sps00	_	8	mark	8:mark	_
+6	lo	él	PRON	da0ns0	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Dem	8	nsubj	8:nsubj	Entity=(NOCOREF:Gen--4-gstype:gen,HomoDD
+7	que	que	PRON	pr0cn000	PronType=Rel	8	obj	8:obj	ArgTem=arg1:pat
+8	haga	hacer	VERB	vmsp3s0	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	Entity=NOCOREF:Gen)|SpaceAfter=No
+9	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
 
 ~~~
 

@@ -79,7 +79,7 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 9	кыы	кыв	NOUN	N	Case=Nom|Number=Sing	10	obj	_	GTtags=Err/Dial,Sg,Err/Dial,Nom
 10	тӧдны	тӧдны	VERB	V	VerbForm=Inf	5	ccomp	_	GTtags=Inf|SpaceAfter=No
 11	,	,	PUNCT	PUNCT	_	14	punct	_	_
-12	ныес	ныес	PRON	Pron	Case=Acc|Number=Plur	14	obj	_	GTtags=Pl,Acc
+12	ныес	ныес	PRON	Pron	Case=Acc|Number=Plur|PronType=Prs	14	obj	_	GTtags=Pl,Acc
 13	бурджыка	бурджыка	ADV	Adv	_	14	advmod	_	_
 14	велэдны	велӧдны	VERB	V	VerbForm=Inf	10	conj	_	GTtags=Err/Dial,Inf
 15	и	и	CCONJ	CC	_	17	cc	_	_

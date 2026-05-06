@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Vinit Ravishankar.
 
 Repository: [UD_Marathi-UFAL](https://github.com/UniversalDependencies/UD_Marathi-UFAL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmr_ufal217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udmr_ufal218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -65,7 +65,7 @@ The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zema
 
 ## Relations
 
-[acl](mr_ufal-dep-acl.html) – [acl:relcl](mr_ufal-dep-acl-relcl.html) – [advcl](mr_ufal-dep-advcl.html) – [advmod](mr_ufal-dep-advmod.html) – [amod](mr_ufal-dep-amod.html) – [appos](mr_ufal-dep-appos.html) – [aux](mr_ufal-dep-aux.html) – [aux:pass](mr_ufal-dep-aux-pass.html) – [case](mr_ufal-dep-case.html) – [cc](mr_ufal-dep-cc.html) – [ccomp](mr_ufal-dep-ccomp.html) – [compound](mr_ufal-dep-compound.html) – [compound:lvc](mr_ufal-dep-compound-lvc.html) – [compound:redup](mr_ufal-dep-compound-redup.html) – [compound:svc](mr_ufal-dep-compound-svc.html) – [conj](mr_ufal-dep-conj.html) – [cop](mr_ufal-dep-cop.html) – [cop:own](mr_ufal-dep-cop-own.html) – [csubj](mr_ufal-dep-csubj.html) – [det](mr_ufal-dep-det.html) – [discourse](mr_ufal-dep-discourse.html) – [dislocated](mr_ufal-dep-dislocated.html) – [fixed](mr_ufal-dep-fixed.html) – [flat](mr_ufal-dep-flat.html) – [goeswith](mr_ufal-dep-goeswith.html) – [iobj](mr_ufal-dep-iobj.html) – [mark](mr_ufal-dep-mark.html) – [nmod](mr_ufal-dep-nmod.html) – [nmod:poss](mr_ufal-dep-nmod-poss.html) – [nsubj](mr_ufal-dep-nsubj.html) – [nsubj:pass](mr_ufal-dep-nsubj-pass.html) – [nummod](mr_ufal-dep-nummod.html) – [obj](mr_ufal-dep-obj.html) – [obl](mr_ufal-dep-obl.html) – [orphan](mr_ufal-dep-orphan.html) – [parataxis](mr_ufal-dep-parataxis.html) – [punct](mr_ufal-dep-punct.html) – [root](mr_ufal-dep-root.html) – [vocative](mr_ufal-dep-vocative.html) – [xcomp](mr_ufal-dep-xcomp.html)
+[acl](mr_ufal-dep-acl.html) – [acl:relcl](mr_ufal-dep-acl-relcl.html) – [advcl](mr_ufal-dep-advcl.html) – [advmod](mr_ufal-dep-advmod.html) – [amod](mr_ufal-dep-amod.html) – [appos](mr_ufal-dep-appos.html) – [aux](mr_ufal-dep-aux.html) – [aux:pass](mr_ufal-dep-aux-pass.html) – [case](mr_ufal-dep-case.html) – [cc](mr_ufal-dep-cc.html) – [ccomp](mr_ufal-dep-ccomp.html) – [compound](mr_ufal-dep-compound.html) – [compound:lvc](mr_ufal-dep-compound-lvc.html) – [compound:redup](mr_ufal-dep-compound-redup.html) – [compound:svc](mr_ufal-dep-compound-svc.html) – [conj](mr_ufal-dep-conj.html) – [cop](mr_ufal-dep-cop.html) – [cop:own](mr_ufal-dep-cop-own.html) – [csubj](mr_ufal-dep-csubj.html) – [det](mr_ufal-dep-det.html) – [discourse](mr_ufal-dep-discourse.html) – [dislocated](mr_ufal-dep-dislocated.html) – [flat](mr_ufal-dep-flat.html) – [goeswith](mr_ufal-dep-goeswith.html) – [iobj](mr_ufal-dep-iobj.html) – [mark](mr_ufal-dep-mark.html) – [nmod](mr_ufal-dep-nmod.html) – [nmod:poss](mr_ufal-dep-nmod-poss.html) – [nsubj](mr_ufal-dep-nsubj.html) – [nsubj:pass](mr_ufal-dep-nsubj-pass.html) – [nummod](mr_ufal-dep-nummod.html) – [obj](mr_ufal-dep-obj.html) – [obl](mr_ufal-dep-obl.html) – [orphan](mr_ufal-dep-orphan.html) – [parataxis](mr_ufal-dep-parataxis.html) – [punct](mr_ufal-dep-punct.html) – [root](mr_ufal-dep-root.html) – [vocative](mr_ufal-dep-vocative.html) – [xcomp](mr_ufal-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -798,5 +798,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>compound:svc</a>, <a>cop:own</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

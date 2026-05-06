@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>C</em> (<tt><a href="ka_glc-pos-NUM.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.002825 (the average of all parts of speech is 1.674782).
+The form / lemma ratio of `X` is 1.002825 (the average of all parts of speech is 1.692057).
 
 The 1st highest number of forms (2) was observed with the lemma “K”: <em>K, K.</em>.
 
@@ -54,7 +54,7 @@ Examples: <em>the, logos, λόγος, of, de, art, fantasy, βίος, νόμος
 
 `X` nodes are attached to their parents using 13 different relations: <tt><a href="ka_glc-dep-flat-foreign.html">flat:foreign</a></tt> (175; 41% instances), <tt><a href="ka_glc-dep-appos.html">appos</a></tt> (161; 37% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (41; 9% instances), <tt><a href="ka_glc-dep-nmod.html">nmod</a></tt> (21; 5% instances), <tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt> (12; 3% instances), <tt><a href="ka_glc-dep-obj.html">obj</a></tt> (5; 1% instances), <tt><a href="ka_glc-dep-amod.html">amod</a></tt> (4; 1% instances), <tt><a href="ka_glc-dep-obl.html">obl</a></tt> (4; 1% instances), <tt><a href="ka_glc-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-iobj.html">iobj</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="ka_glc-pos-X.html">X</a></tt> (220; 51% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (174; 40% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (20; 5% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (4; 1% instances),  (2; 0% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `X` nodes belong to 8 different parts of speech: <tt><a href="ka_glc-pos-X.html">X</a></tt> (220; 51% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (175; 41% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (20; 5% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (3; 1% instances),  (2; 0% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
 142 (33%) `X` nodes are leaves.
 

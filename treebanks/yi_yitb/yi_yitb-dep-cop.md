@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1271 nodes (5%) are attached to their parents as `cop`.
+1276 nodes (5%) are attached to their parents as `cop`.
 
-1200 instances of `cop` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.10700236034618.
+1205 instances of `cop` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.10658307210031.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (641; 50% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (410; 32% instances), <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (86; 7% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (53; 4% instances), <tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (46; 4% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (24; 2% instances), <tt><a href="yi_yitb-pos-DET.html">DET</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="yi_yitb-pos-X.html">X</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (642; 50% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (414; 32% instances), <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (86; 7% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (53; 4% instances), <tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (46; 4% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (24; 2% instances), <tt><a href="yi_yitb-pos-DET.html">DET</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="yi_yitb-pos-X.html">X</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 4	שטיק	שטיק	NOUN	_	_	0	root	_	Translit=shtik|Translit_Lemma=shtik
 5	פֿלײש	פֿלײַש	NOUN	_	_	4	nmod	_	Translit=fleysh|Translit_Lemma=flaysh
 6	מיט	מיט	ADP	_	_	8	case	_	Translit=mit|Translit_Lemma=mit
-7	צװײ	_	NUM	_	_	8	nummod	_	Translit=tsvey
+7	צװײ	צװײ	NUM	_	_	8	nummod	_	Translit=tsvey|Translit_Lemma=tsvey
 8	אױגן	אױג	NOUN	_	_	4	nmod	_	SpaceAfter=No|Translit=oygn|Translit_Lemma=oyg
 9	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
 

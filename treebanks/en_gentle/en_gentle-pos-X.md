@@ -46,7 +46,7 @@ The 10 most frequent ambiguous types:  <em>schole</em> (<tt><a href="en_gentle-p
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.036036 (the average of all parts of speech is 1.148610).
+The form / lemma ratio of `X` is 1.036036 (the average of all parts of speech is 1.149474).
 
 The 1st highest number of forms (5) was observed with the lemma “_”: <em>ever, one, right, self, ware</em>.
 
@@ -79,7 +79,7 @@ Parents of `X` nodes belong to 10 different parts of speech: <tt><a href="en_gen
 
 The highest child degree of a `X` node is 9.
 
-Children of `X` nodes are attached using 10 different relations: <tt><a href="en_gentle-dep-punct.html">punct</a></tt> (56; 26% instances), <tt><a href="en_gentle-dep-appos.html">appos</a></tt> (38; 17% instances), <tt><a href="en_gentle-dep-compound.html">compound</a></tt> (30; 14% instances), <tt><a href="en_gentle-dep-conj.html">conj</a></tt> (28; 13% instances), <tt><a href="en_gentle-dep-case.html">case</a></tt> (25; 11% instances), <tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt> (14; 6% instances), <tt><a href="en_gentle-dep-amod.html">amod</a></tt> (13; 6% instances), <tt><a href="en_gentle-dep-nmod.html">nmod</a></tt> (13; 6% instances), <tt><a href="en_gentle-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-det.html">det</a></tt> (1; 0% instances)
+Children of `X` nodes are attached using 10 different relations: <tt><a href="en_gentle-dep-punct.html">punct</a></tt> (56; 25% instances), <tt><a href="en_gentle-dep-compound.html">compound</a></tt> (43; 20% instances), <tt><a href="en_gentle-dep-appos.html">appos</a></tt> (38; 17% instances), <tt><a href="en_gentle-dep-conj.html">conj</a></tt> (28; 13% instances), <tt><a href="en_gentle-dep-case.html">case</a></tt> (26; 12% instances), <tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt> (14; 6% instances), <tt><a href="en_gentle-dep-nmod.html">nmod</a></tt> (12; 5% instances), <tt><a href="en_gentle-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-det.html">det</a></tt> (1; 0% instances)
 
-Children of `X` nodes belong to 8 different parts of speech: <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> (56; 26% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt> (40; 18% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (34; 16% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (33; 15% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (28; 13% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (25; 11% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt> (1; 0% instances)
+Children of `X` nodes belong to 8 different parts of speech: <tt><a href="en_gentle-pos-PUNCT.html">PUNCT</a></tt> (56; 25% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (45; 20% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt> (40; 18% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (34; 15% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (26; 12% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (16; 7% instances), <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt> (1; 0% instances)
 

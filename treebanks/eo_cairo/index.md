@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Masanori Oya.
 
 Repository: [UD_Esperanto-Cairo](https://github.com/UniversalDependencies/UD_Esperanto-Cairo)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeo_cairo217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeo_cairo218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -60,7 +60,7 @@ This treebank contains the 20 Cairo example sentences and is meant to be a quick
 
 ## Features
 
-[Case](eo_cairo-feat-Case.html) – [Degree](eo_cairo-feat-Degree.html) – [Gender](eo_cairo-feat-Gender.html) – [Mood](eo_cairo-feat-Mood.html) – [Number](eo_cairo-feat-Number.html) – [Number[psor]](eo_cairo-feat-Number-psor.html) – [Person](eo_cairo-feat-Person.html) – [Poss](eo_cairo-feat-Poss.html) – [PronType](eo_cairo-feat-PronType.html) – [Reflex](eo_cairo-feat-Reflex.html) – [Tense](eo_cairo-feat-Tense.html) – [VerbForm](eo_cairo-feat-VerbForm.html) – [Voice](eo_cairo-feat-Voice.html)
+[Case](eo_cairo-feat-Case.html) – [Definite](eo_cairo-feat-Definite.html) – [Degree](eo_cairo-feat-Degree.html) – [Gender](eo_cairo-feat-Gender.html) – [Mood](eo_cairo-feat-Mood.html) – [Number](eo_cairo-feat-Number.html) – [Number[psor]](eo_cairo-feat-Number-psor.html) – [Person](eo_cairo-feat-Person.html) – [Poss](eo_cairo-feat-Poss.html) – [PronType](eo_cairo-feat-PronType.html) – [Reflex](eo_cairo-feat-Reflex.html) – [Tense](eo_cairo-feat-Tense.html) – [VerbForm](eo_cairo-feat-VerbForm.html) – [Voice](eo_cairo-feat-Voice.html)
 
 ## Relations
 
@@ -228,6 +228,17 @@ This treebank contains the 20 Cairo example sentences and is meant to be a quick
 </ul>
 
 
+<ul>
+  <li><a>Definite</a></li>
+</ul>
+
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: la</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
@@ -333,9 +344,17 @@ This treebank contains the 20 Cairo example sentences and is meant to be a quick
 </ul>
 
 <ul>
+  <li>Art
+    <ul>
+      <li>DET: la</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Dem
     <ul>
-      <li>DET: tiu</li>
+      <li>DET: tiu, tiun</li>
       <li>PRON: ĝi, ĝin</li>
     </ul>
   </li>

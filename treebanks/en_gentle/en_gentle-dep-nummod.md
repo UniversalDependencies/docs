@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	5:cop	_
 5	there	there	ADV	RB	PronType=Dem	0	root	0:root	SpaceAfter=No
 6	,	,	PUNCT	,	_	10	punct	10:punct	_
-7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Bridge=171<173|Discourse=adversative-contrast_m:133->132:0:_|Entity=(173-time-acc:inf-nnnnn-cf2-2-sgl
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Bridge=171<173:comparison-relative;comparison-sense|Discourse=adversative-contrast_m:133->132:0:sem-mrnym-642-643,648-649-_|Entity=(173-time-acc:inf-nnnnn-cf2-2-sgl
 8	next	next	ADJ	JJ	Degree=Pos	10	obl:unmarked	10:obl:unmarked	Entity=173)
 9	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	nsubj	10:nsubj	Entity=(172-person-giv:act-nnnnn-cf1-1-ana)
 10	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	parataxis	5:parataxis	_
@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	ACH	ACH	PROPN	NNP	Number=Sing	2	compound	2:compound	Discourse=joint-list_m:59->30:4:_|Entity=(83-abstract-new-nnnnn-cf1-2-sgl(84-abstract-new-nnnnn-cf3-1-coref-National_Automated_Clearing_House)
 2	transaction	transaction	NOUN	NN	Number=Sing	4	dep	4:dep	Entity=83)|MSeg=transact-ion|SpaceAfter=No
 3	:	:	PUNCT	:	_	2	punct	2:punct	_
-4	$	$	SYM	SYM	_	0	root	0:root	Discourse=elaboration-additional:60->59:0:_|Entity=(85-abstract-new-nnnnn-cf2-1-sgl
+4	$	$	SYM	SYM	_	0	root	0:root	Discourse=elaboration-additional:60->59:0:grf-col-460-_|Entity=(85-abstract-new-nnnnn-cf2-1-sgl
 5	1	1	NUM	CD	NumForm=Digit|NumType=Card	4	nummod	4:nummod	Entity=85)
 
 ~~~

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Marília Fernanda, Sidney Facundes, Bruna Lima Padovani, Jack Rueter, Niko Partanen.
 
 Repository: [UD_Apurina-UFPA](https://github.com/UniversalDependencies/UD_Apurina-UFPA)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udapu_ufpa217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udapu_ufpa218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -79,21 +79,21 @@ Finite-State Transistor development:
 
 ## Features
 
-[AdvType](apu_ufpa-feat-AdvType.html) – [Aspect](apu_ufpa-feat-Aspect.html) – [Case](apu_ufpa-feat-Case.html) – [Derivation](apu_ufpa-feat-Derivation.html) – [Gender](apu_ufpa-feat-Gender.html) – [Gender[obj]](apu_ufpa-feat-Gender-obj.html) – [Gender[psor]](apu_ufpa-feat-Gender-psor.html) – [Gender[subj]](apu_ufpa-feat-Gender-subj.html) – [Mood](apu_ufpa-feat-Mood.html) – [Number](apu_ufpa-feat-Number.html) – [Number[obj]](apu_ufpa-feat-Number-obj.html) – [Number[psor]](apu_ufpa-feat-Number-psor.html) – [Number[subj]](apu_ufpa-feat-Number-subj.html) – [Person](apu_ufpa-feat-Person.html) – [Person[obj]](apu_ufpa-feat-Person-obj.html) – [Person[psor]](apu_ufpa-feat-Person-psor.html) – [Person[subj]](apu_ufpa-feat-Person-subj.html) – [Polarity](apu_ufpa-feat-Polarity.html) – [Possessed](apu_ufpa-feat-Possessed.html) – [PronType](apu_ufpa-feat-PronType.html) – [Tense](apu_ufpa-feat-Tense.html) – [VerbForm](apu_ufpa-feat-VerbForm.html) – [VerbType](apu_ufpa-feat-VerbType.html)
+[AdpType](apu_ufpa-feat-AdpType.html) – [AdvType](apu_ufpa-feat-AdvType.html) – [Aspect](apu_ufpa-feat-Aspect.html) – [Case](apu_ufpa-feat-Case.html) – [Derivation](apu_ufpa-feat-Derivation.html) – [Gender](apu_ufpa-feat-Gender.html) – [Gender[obj]](apu_ufpa-feat-Gender-obj.html) – [Gender[psor]](apu_ufpa-feat-Gender-psor.html) – [Gender[subj]](apu_ufpa-feat-Gender-subj.html) – [Mood](apu_ufpa-feat-Mood.html) – [Number](apu_ufpa-feat-Number.html) – [Number[obj]](apu_ufpa-feat-Number-obj.html) – [Number[psor]](apu_ufpa-feat-Number-psor.html) – [Number[subj]](apu_ufpa-feat-Number-subj.html) – [Person](apu_ufpa-feat-Person.html) – [Person[obj]](apu_ufpa-feat-Person-obj.html) – [Person[psor]](apu_ufpa-feat-Person-psor.html) – [Person[subj]](apu_ufpa-feat-Person-subj.html) – [Polarity](apu_ufpa-feat-Polarity.html) – [Possessed](apu_ufpa-feat-Possessed.html) – [PronType](apu_ufpa-feat-PronType.html) – [Tense](apu_ufpa-feat-Tense.html) – [VerbForm](apu_ufpa-feat-VerbForm.html) – [VerbType](apu_ufpa-feat-VerbType.html)
 
 ## Relations
 
-[acl](apu_ufpa-dep-acl.html) – [acl:relcl](apu_ufpa-dep-acl-relcl.html) – [advcl](apu_ufpa-dep-advcl.html) – [advmod](apu_ufpa-dep-advmod.html) – [advmod:lmod](apu_ufpa-dep-advmod-lmod.html) – [amod](apu_ufpa-dep-amod.html) – [appos](apu_ufpa-dep-appos.html) – [aux](apu_ufpa-dep-aux.html) – [aux:exhort](apu_ufpa-dep-aux-exhort.html) – [case](apu_ufpa-dep-case.html) – [cc](apu_ufpa-dep-cc.html) – [ccomp](apu_ufpa-dep-ccomp.html) – [compound](apu_ufpa-dep-compound.html) – [conj](apu_ufpa-dep-conj.html) – [cop](apu_ufpa-dep-cop.html) – [csubj](apu_ufpa-dep-csubj.html) – [dep](apu_ufpa-dep-dep.html) – [det](apu_ufpa-dep-det.html) – [discourse](apu_ufpa-dep-discourse.html) – [dislocated](apu_ufpa-dep-dislocated.html) – [iobj](apu_ufpa-dep-iobj.html) – [list](apu_ufpa-dep-list.html) – [mark](apu_ufpa-dep-mark.html) – [nmod](apu_ufpa-dep-nmod.html) – [nmod:poss](apu_ufpa-dep-nmod-poss.html) – [nsubj](apu_ufpa-dep-nsubj.html) – [nsubj:cop](apu_ufpa-dep-nsubj-cop.html) – [nummod](apu_ufpa-dep-nummod.html) – [obj](apu_ufpa-dep-obj.html) – [obj:agent](apu_ufpa-dep-obj-agent.html) – [obl](apu_ufpa-dep-obl.html) – [obl:lmod](apu_ufpa-dep-obl-lmod.html) – [obl:tmod](apu_ufpa-dep-obl-tmod.html) – [punct](apu_ufpa-dep-punct.html) – [root](apu_ufpa-dep-root.html) – [vocative](apu_ufpa-dep-vocative.html) – [xcomp](apu_ufpa-dep-xcomp.html)
+[acl](apu_ufpa-dep-acl.html) – [acl:relcl](apu_ufpa-dep-acl-relcl.html) – [advcl](apu_ufpa-dep-advcl.html) – [advmod](apu_ufpa-dep-advmod.html) – [advmod:lmod](apu_ufpa-dep-advmod-lmod.html) – [advmod:tmod](apu_ufpa-dep-advmod-tmod.html) – [amod](apu_ufpa-dep-amod.html) – [appos](apu_ufpa-dep-appos.html) – [aux](apu_ufpa-dep-aux.html) – [aux:exhort](apu_ufpa-dep-aux-exhort.html) – [case](apu_ufpa-dep-case.html) – [cc](apu_ufpa-dep-cc.html) – [ccomp](apu_ufpa-dep-ccomp.html) – [compound](apu_ufpa-dep-compound.html) – [conj](apu_ufpa-dep-conj.html) – [cop](apu_ufpa-dep-cop.html) – [csubj](apu_ufpa-dep-csubj.html) – [dep](apu_ufpa-dep-dep.html) – [det](apu_ufpa-dep-det.html) – [discourse](apu_ufpa-dep-discourse.html) – [dislocated](apu_ufpa-dep-dislocated.html) – [iobj](apu_ufpa-dep-iobj.html) – [list](apu_ufpa-dep-list.html) – [mark](apu_ufpa-dep-mark.html) – [nmod](apu_ufpa-dep-nmod.html) – [nmod:poss](apu_ufpa-dep-nmod-poss.html) – [nsubj](apu_ufpa-dep-nsubj.html) – [nsubj:cop](apu_ufpa-dep-nsubj-cop.html) – [nummod](apu_ufpa-dep-nummod.html) – [obj](apu_ufpa-dep-obj.html) – [obj:agent](apu_ufpa-dep-obj-agent.html) – [obl](apu_ufpa-dep-obl.html) – [obl:lmod](apu_ufpa-dep-obl-lmod.html) – [obl:tmod](apu_ufpa-dep-obl-tmod.html) – [punct](apu_ufpa-dep-punct.html) – [root](apu_ufpa-dep-root.html) – [vocative](apu_ufpa-dep-vocative.html) – [xcomp](apu_ufpa-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 165 sentences, 997 tokens and 1000 syntactic words.</li>
+<li>This corpus contains 183 sentences, 1096 tokens and 1099 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 218 tokens (22%) that are not followed by a space.</li>
+<li>This corpus contains 237 tokens (22%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -148,7 +148,7 @@ Finite-State Transistor development:
 <ul>
   <li>Conv
   <ul>
-    <li>VERB: sykasaaky, Ĩkanapyryãkasaaky</li>
+    <li>VERB: sykasaaky, ypukasaaky, Ĩkanapyryãkasaaky</li>
   </ul>
   </li>
 </ul>
@@ -156,8 +156,8 @@ Finite-State Transistor development:
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: itxa, txamary, itxawa, nhitxawa, pitxa, pitxawa, utxawa, ytxa</li>
-    <li>VERB: awary, amutary, sary, awa, kamary, apukary, atamatary, kaiapukury, kaiãury, pysykanu</li>
+    <li>AUX: itxa, txamary, itxary, itxane, itxaryna, itxawa, nhitxawa, pitxa, pitxawa, utxawa</li>
+    <li>VERB: awary, amutary, kamary, sary, awa, akiritharu, apukary, ãanhika, atamatary, kaiapukury</li>
   </ul>
   </li>
 </ul>
@@ -166,7 +166,7 @@ Finite-State Transistor development:
   <li>Vnoun
   <ul>
     <li>NOUN: iũkatsupatinhi, ysãkirawatinhi</li>
-    <li>VERB: makinhi, faltatinhi, fawtatinhi, iatinhi, ivinitinhi, mitekatinhi, nykaminhi, naiatinhi, puturikinhi</li>
+    <li>VERB: makinhi, faltatinhi, fawtatinhi, iatinhi, ivinitinhi, mitekatinhi, nykaminhi, naiatinhi, puturikinhi, uiuẽkinhi</li>
   </ul>
   </li>
 </ul>
@@ -181,7 +181,7 @@ Finite-State Transistor development:
 <ul>
   <li>Fem
     <ul>
-      <li>NOUN: maky, nynyru, pynyru, Sytuwakuru, amarute, pirana, sytu, syture, ytanuru</li>
+      <li>NOUN: maky, nynyru, pynyru, Iiana, Sytuwakuru, amarute, pirana, sytu, syture, ytanuru</li>
       <li>NUM: Hãtu</li>
       <li>PRON: uwa, Kerupa</li>
       <li>PROPN: Kamĩkiu, Kanaiapa</li>
@@ -195,9 +195,9 @@ Finite-State Transistor development:
       <li>DET: iia, iie, kaiãapukury</li>
       <li>NOUN: ximaky, aapuku, awiri, yky, kyky, kãkity, pupỹkary, aapukutxi, kãkiti, ãkiti</li>
       <li>NUM: ãty</li>
-      <li>PRON: ywa, kiripa, Ywã, ywamunhi</li>
-      <li>PROPN: Kasãtumary, Kirama, Syrywyny, Tutupary, Txiiakatxi</li>
-      <li>VERB-Vnoun: naiatinhi, puturikinhi</li>
+      <li>PRON: ywa, kiripa, ywaã, Ywã, ywamunhi</li>
+      <li>PROPN: Kirama, Kasãtumary, Syrywyny, Tutupary, Txiiakatxi</li>
+      <li>VERB-Vnoun: naiatinhi, puturikinhi, ykukytinhi, ũaxitinhi</li>
     </ul>
   </li>
 </ul>
@@ -220,9 +220,9 @@ Finite-State Transistor development:
   <li>Sing
     <ul>
       <li>NOUN: ximaky, awiri, yky, aapuku, kyky, aapukutxi, ãkiti, ũty, nynyru, parĩkatxi</li>
-      <li>PRON: ywa, uwa, nuta, pitha, Ywã, pithe, ywamunhi</li>
-      <li>PROPN: Kamĩkiu, Kanaiapa, Kasãtumary, Kirama, Syrywyny, Tutupary, Txiiakatxi</li>
-      <li>VERB-Vnoun: naiatinhi</li>
+      <li>PRON: ywa, uwa, nuta, pitha, ywaã, Ywã, pithe, ywamunhi</li>
+      <li>PROPN: Kamĩkiu, Kirama, Kanaiapa, Kasãtumary, Syrywyny, Tutupary, Txiiakatxi</li>
+      <li>VERB-Vnoun: naiatinhi, ykukytinhi, ũaxitinhi</li>
     </ul>
   </li>
 </ul>
@@ -243,7 +243,7 @@ Finite-State Transistor development:
   <li>Dat
     <ul>
       <li>ADV: apikumunhi</li>
-      <li>NOUN: apikumunhi, aapukumunhi, sitatximunhi, ytanurumunhi</li>
+      <li>NOUN: apikumunhi, aapukumunhi, sitatximunhi, ytanurumunhi, ykatsunakikumunhi</li>
       <li>PRON: athamunhi, hĩthamunhi, ywamunhi</li>
     </ul>
   </li>
@@ -254,7 +254,7 @@ Finite-State Transistor development:
     <ul>
       <li>ADV: Ywã</li>
       <li>NOUN: kananeã, aapukutxiã, kawãryã, makiã, nytukarẽã, awinhinã, pawinhiã, ukinhiã, ãawinhinhĩã</li>
-      <li>PRON: Ywã</li>
+      <li>PRON: Ywã, ywaã</li>
       <li>VERB: atamarakitinhitã, mitharyã</li>
     </ul>
   </li>
@@ -266,8 +266,8 @@ Finite-State Transistor development:
       <li>NOUN: ximaky, aapuku, awiri, yky, kyky, aapukutxi, ãkiti, ũty, nynyru, parĩkatxi</li>
       <li>NUM: Ipi, Ãty</li>
       <li>PRON: ywa, nynuwa, uwa, nuta, pitha, Kiripa</li>
-      <li>PROPN: Kamĩkiu, Kanaiapa, Kasãtumary, Kirama, Syrywyny, Tutupary, Txiiakatxi</li>
-      <li>VERB-Vnoun: naiatinhi, puturikinhi</li>
+      <li>PROPN: Kamĩkiu, Kirama, Kanaiapa, Kasãtumary, Syrywyny, Tutupary, Txiiakatxi</li>
+      <li>VERB-Vnoun: naiatinhi, puturikinhi, ykukytinhi, ũaxitinhi</li>
     </ul>
   </li>
 </ul>
@@ -322,9 +322,9 @@ Finite-State Transistor development:
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: itxa, txamary, itxawa, nhitxawa, pitxa, pitxawa, utxawa, ytxa</li>
-      <li>VERB: awary, amutary, sary, awa, kamary, apukary, 'awary, atamatary, kaiapukury, kaiãury</li>
-      <li>VERB-Fin: awary, amutary, sary, awa, kamary, apukary, atamatary, kaiapukury, kaiãury, pysykanu</li>
+      <li>AUX-Fin: itxa, txamary, itxary, itxane, itxaryna, itxawa, nhitxawa, pitxa, pitxawa, utxawa</li>
+      <li>VERB: awary, amutary, kamary, sary, awa, akiritharu, apukary, ãanhika, 'awary, atamatary</li>
+      <li>VERB-Fin: awary, amutary, kamary, sary, awa, akiritharu, apukary, ãanhika, atamatary, kaiapukury</li>
     </ul>
   </li>
 </ul>
@@ -345,8 +345,9 @@ Finite-State Transistor development:
   <li>Past,Pres
     <ul>
       <li>ADV: myrykynyty, waikirinu</li>
-      <li>AUX-Fin: itxa, txamary, itxawa, nhitxawa, pitxa, pitxawa, utxawa, ytxa</li>
-      <li>VERB-Fin: awary, amutary, sary, awa, kamary, apukary, atamatary, kaiapukury, kaiãury, pysykanu</li>
+      <li>AUX-Fin: itxa, txamary, itxary, itxane, itxaryna, itxawa, nhitxawa, pitxa, pitxawa, utxawa</li>
+      <li>VERB: awary, amutary, kamary, sary, awa, akiritharu, apukary, ãanhika, anhika, apuka</li>
+      <li>VERB-Fin: awary, amutary, kamary, sary, awa, akiritharu, apukary, ãanhika, atamatary, kaiapukury</li>
     </ul>
   </li>
 </ul>
@@ -388,7 +389,7 @@ Finite-State Transistor development:
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: ywa, nynuwa, uwa, nuta, pitha, atha, Ywã, athamunhi, hĩthamunhi, Athe</li>
+      <li>PRON: ywa, nynuwa, uwa, nuta, pitha, atha, Ywã, athamunhi, hĩthamunhi, ywaã</li>
     </ul>
   </li>
 </ul>
@@ -427,7 +428,7 @@ Finite-State Transistor development:
 <ul>
   <li>3
     <ul>
-      <li>PRON: ywa, nynuwa, uwa, Ywã, ywamunhi</li>
+      <li>PRON: ywa, nynuwa, uwa, ywaã, Ywã, ywamunhi</li>
     </ul>
   </li>
 </ul>
@@ -441,6 +442,7 @@ Finite-State Transistor development:
   <li>Fem
     <ul>
       <li>NOUN: Ukywyxikeru, Utukuryte, ukinhiã, uparĩka, ũaapuku, ũimiakury, ũtanyrykata, ũãapuku</li>
+      <li>VERB-Vnoun: ũaxitinhi</li>
     </ul>
   </li>
 </ul>
@@ -449,6 +451,7 @@ Finite-State Transistor development:
   <li>Masc
     <ul>
       <li>NOUN: aapuku, iãkynytikinhi, aapukumunhi, aapukutxiã, Yẽrẽkatikinhi, aapukutxi, apy, arẽka, awinhi, iserẽkana</li>
+      <li>VERB-Vnoun: uiuẽkinhi, ykukytinhi</li>
     </ul>
   </li>
 </ul>
@@ -469,7 +472,7 @@ Finite-State Transistor development:
   <li>Sing
     <ul>
       <li>NOUN: aapuku, nynyru, pynyru, pyry, aapukumunhi, aapukutxiã, nyry, Nhithary, Ukywyxikeru, Utukuryte</li>
-      <li>VERB-Vnoun: naiatinhi</li>
+      <li>VERB-Vnoun: naiatinhi, uiuẽkinhi, ykukytinhi, ũaxitinhi</li>
     </ul>
   </li>
 </ul>
@@ -478,11 +481,24 @@ Finite-State Transistor development:
 
 
 <ul>
+  <li><a>AdpType</a>
+    <ul>
+      <li>Post
+        <ul>
+          <li>ADP: ĩkapane</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>AdvType</a>
     <ul>
       <li>Tim
         <ul>
-          <li>ADV: Kitxaka, Ywasawaky</li>
+          <li>ADV: inhinhiã, Kitxaka, Ypusupeka, Ywasawaky, ininhiã, mitxi, ywasaakiika</li>
+          <li>VERB-Conv: ypukasaaky</li>
         </ul>
       </li>
     </ul>
@@ -504,9 +520,14 @@ Finite-State Transistor development:
 <ul>
   <li><a>Gender[obj]</a>
     <ul>
+      <li>Fem
+        <ul>
+          <li>VERB-Fin: akiritharu</li>
+        </ul>
+      </li>
       <li>Masc
         <ul>
-          <li>AUX-Fin: txamary</li>
+          <li>AUX-Fin: txamary, itxary, itxaryna</li>
           <li>VERB: awary, amutary, kamary, 'awary, kaiapukury, Makamary, Nymapuruĩtary, aiatary, apukary, atamatary</li>
           <li>VERB-Fin: awary, amutary, kamary, kaiapukury, 'Awary, Makamary, Nymapuruĩtary, aiatary, apukary, atamatary</li>
         </ul>
@@ -527,10 +548,10 @@ Finite-State Transistor development:
       <li>Masc
         <ul>
           <li>ADV: myrykynyty</li>
-          <li>AUX-Fin: itxa, itxawa, ytxa</li>
+          <li>AUX-Fin: itxa, itxary, itxane, itxaryna, itxawa, ytxa</li>
           <li>NOUN: myramanery, Kataparaxinery</li>
           <li>VERB-Conv: Ĩkanapyryãkasaaky</li>
-          <li>VERB-Fin: sary, awa, Kaiãũry, Kuaxary, Kunakamunyry, Naãtyry, apukary, awamaãtary, awana, awapeka</li>
+          <li>VERB-Fin: sary, awa, Kaiãũry, Kuaxary, Kunakamunyry, Naãtyry, akiritharu, apukary, awamaãtary, awana</li>
         </ul>
       </li>
     </ul>
@@ -552,9 +573,9 @@ Finite-State Transistor development:
       </li>
       <li>Sing
         <ul>
-          <li>AUX-Fin: txamary</li>
-          <li>VERB: awary, amutary, kamary, 'awary, apukary, atamatary, kaiapukury, pysykanu, Makamary, Nymapuruĩtary</li>
-          <li>VERB-Fin: awary, amutary, kamary, apukary, atamatary, kaiapukury, pysykanu, 'Awary, Makamary, Nymapuruĩtary</li>
+          <li>AUX-Fin: txamary, itxary</li>
+          <li>VERB: awary, amutary, kamary, 'awary, akiritharu, apukary, atamatary, kaiapukury, pysykanu, Makamary</li>
+          <li>VERB-Fin: awary, amutary, kamary, akiritharu, apukary, atamatary, kaiapukury, pysykanu, 'Awary, Makamary</li>
         </ul>
       </li>
     </ul>
@@ -566,16 +587,18 @@ Finite-State Transistor development:
     <ul>
       <li>Plur
         <ul>
-          <li>VERB-Fin: awaika, awana</li>
+          <li>AUX-Fin: itxane, itxaryna</li>
+          <li>VERB: ãanhika, anhikakyty, anhipukuta, awaika, awana</li>
+          <li>VERB-Fin: ãanhika, anhipukuta, awaika, awana</li>
         </ul>
       </li>
       <li>Sing
         <ul>
           <li>ADV: myrykynyty, waikirinu</li>
-          <li>AUX-Fin: itxa, itxawa, nhitxawa, pitxa, pitxawa, utxawa, ytxa</li>
+          <li>AUX-Fin: itxa, itxary, itxawa, nhitxawa, pitxa, pitxawa, utxawa, ytxa</li>
           <li>NOUN: myramanery, Kataparaxinery</li>
           <li>VERB-Conv: Ĩkanapyryãkasaaky</li>
-          <li>VERB-Fin: sary, awa, kaiãury, pysykanu, Kaiãũry, Kuaxary, Kunakamunyry, Naãtyru, Naãtyry, Waikai</li>
+          <li>VERB-Fin: sary, awa, akiritharu, kaiãury, pysykanu, Kaiãũry, Kuaxary, Kunakamunyry, Naãtyru, Naãtyry</li>
         </ul>
       </li>
     </ul>
@@ -598,9 +621,9 @@ Finite-State Transistor development:
       </li>
       <li>3
         <ul>
-          <li>AUX-Fin: txamary</li>
-          <li>VERB: awary, amutary, kamary, apukary, 'awary, atamatary, kaiapukury, Makamary, Nymapuruĩtary, aiatary</li>
-          <li>VERB-Fin: awary, amutary, kamary, apukary, atamatary, kaiapukury, 'Awary, Makamary, Nymapuruĩtary, aiatary</li>
+          <li>AUX-Fin: txamary, itxary, itxaryna</li>
+          <li>VERB: awary, amutary, kamary, akiritharu, apukary, 'awary, atamatary, kaiapukury, Makamary, Nymapuruĩtary</li>
+          <li>VERB-Fin: awary, amutary, kamary, akiritharu, apukary, atamatary, kaiapukury, 'Awary, Makamary, Nymapuruĩtary</li>
         </ul>
       </li>
     </ul>
@@ -624,6 +647,7 @@ Finite-State Transistor development:
       <li>3
         <ul>
           <li>NOUN: Ukywyxikeru, Utukuryte, Yẽrẽkatikinhi, aapukutxiã, apy, iserẽkana, iãkynykata, iãkynytikinhi, ukinhiã, uky</li>
+          <li>VERB-Vnoun: uiuẽkinhi, ykukytinhi, ũaxitinhi</li>
         </ul>
       </li>
     </ul>
@@ -637,22 +661,23 @@ Finite-State Transistor development:
         <ul>
           <li>ADV: waikirinu</li>
           <li>AUX-Fin: nhitxawa</li>
-          <li>VERB-Fin: awaika, nawa, nysãpirataiku</li>
+          <li>VERB: ãanhika, anhikakyty, anhipukuta, awaika, nawa, nysãpirataiku</li>
+          <li>VERB-Fin: ãanhika, anhipukuta, awaika, nawa, nysãpirataiku</li>
         </ul>
       </li>
       <li>2
         <ul>
           <li>AUX-Fin: pitxa, pitxawa</li>
-          <li>VERB-Fin: pysykanu, Waikai, pykama, pyna</li>
+          <li>VERB-Fin: pysykanu, Waikai, paxitha, pykama, pymyna, pyna</li>
         </ul>
       </li>
       <li>3
         <ul>
           <li>ADV: myrykynyty</li>
-          <li>AUX-Fin: itxa, itxawa, utxawa, ytxa</li>
+          <li>AUX-Fin: itxa, itxary, itxane, itxaryna, itxawa, utxawa, ytxa</li>
           <li>NOUN: myramanery, Kataparaxinery</li>
           <li>VERB-Conv: Ĩkanapyryãkasaaky</li>
-          <li>VERB-Fin: sary, awa, kaiãury, Kaiãũry, Kuaxary, Kunakamunyry, Naãtyru, Naãtyry, apukary, awamaãtary</li>
+          <li>VERB-Fin: sary, awa, kaiãury, Kaiãũry, Kuaxary, Kunakamunyry, Naãtyru, Naãtyry, akiritharu, apukary</li>
         </ul>
       </li>
     </ul>
@@ -665,7 +690,7 @@ Finite-State Transistor development:
       <li>No
         <ul>
           <li>NOUN: ximaky, awiri, kyky, tiwitxi, aapukutxi, mãkatxi, nhipukury, yky, ũty, parĩkatxi</li>
-          <li>PROPN: Kamĩkiu, Kanaiapa, Kasãtumary, Kirama, Syrywyny, Tutupary, Txiiakatxi</li>
+          <li>PROPN: Kamĩkiu, Kirama, Kanaiapa, Kasãtumary, Syrywyny, Tutupary, Txiiakatxi</li>
           <li>VERB: nhipukury, puturikinhi</li>
           <li>VERB-Vnoun: puturikinhi</li>
         </ul>
@@ -673,7 +698,7 @@ Finite-State Transistor development:
       <li>Yes
         <ul>
           <li>NOUN: aapuku, nynyru, pynyru, pyry, aapukumunhi, nyry, yky, Nhithary, Ukywyxikeru, Utukuryte</li>
-          <li>VERB-Vnoun: naiatinhi</li>
+          <li>VERB-Vnoun: naiatinhi, ykukytinhi, ũaxitinhi</li>
         </ul>
       </li>
     </ul>
@@ -715,10 +740,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (28)</li>
       <li>VERB--NOUN-Nom (11)</li>
       <li>VERB--PRON (6)</li>
-      <li>VERB--PRON-Nom (21)</li>
-      <li>VERB-Fin--NOUN (17)</li>
+      <li>VERB--PRON-Nom (22)</li>
+      <li>VERB-Fin--NOUN (18)</li>
       <li>VERB-Fin--NOUN-Nom (19)</li>
-      <li>VERB-Fin--PRON (2)</li>
+      <li>VERB-Fin--PRON (4)</li>
       <li>VERB-Fin--PRON-Nom (28)</li>
       <li>VERB-Vnoun--NOUN-Nom (1)</li>
     </ul>
@@ -728,16 +753,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (23)</li>
-      <li>VERB--NOUN-Nom (10)</li>
+      <li>VERB--NOUN (25)</li>
+      <li>VERB--NOUN-Nom (12)</li>
       <li>VERB--PRON (1)</li>
-      <li>VERB-Conv--NOUN-Nom (1)</li>
+      <li>VERB-Conv--NOUN-Nom (2)</li>
       <li>VERB-Fin--NOUN (23)</li>
-      <li>VERB-Fin--NOUN-Nom (24)</li>
+      <li>VERB-Fin--NOUN-Nom (32)</li>
       <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Nom (2)</li>
-      <li>VERB-Vnoun--NOUN (1)</li>
-      <li>VERB-Vnoun--NOUN-Nom (1)</li>
+      <li>VERB-Fin--PRON-Nom (3)</li>
+      <li>VERB-Vnoun--NOUN (2)</li>
+      <li>VERB-Vnoun--NOUN-Nom (3)</li>
     </ul>
   </li>
 </ul>
@@ -756,6 +781,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>advmod:lmod</a>, <a>aux:exhort</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obj:agent</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>advmod:lmod</a>, <a>advmod:tmod</a>, <a>aux:exhort</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obj:agent</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

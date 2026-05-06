@@ -59,7 +59,7 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 31	bgColor:blue
 # visual-style 31	fgColor:white
 # visual-style 31 32 dep	color:blue
-1	Elle	il	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=elle
+1	Elle	lui	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=elle
 2	débute	débuter	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	sa	son	DET	DTP$	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	carrière	carrière	NOUN	NN	Gender=Fem|Number=Sing	2	obj	_	_
@@ -77,13 +77,13 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 16	jouant	jouer	VERB	VBG	Tense=Pres|VerbForm=Part	2	ccomp	_	_
 17	le	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	rôle	rôle	NOUN	NN	Gender=Masc|Number=Sing	16	obj	_	_
-19	d’	de	ADP	IN	_	21	case	_	SpaceAfter=No|wordform=d'
+19	d'	de	ADP	IN	_	21	case	_	SpaceAfter=No
 20	une	un	DET	DT	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	patiente	patient	NOUN	NN	Gender=Fem|Number=Sing	18	nmod	_	_
 22	dans	dans	ADP	IN	_	24	case	_	_
 23	un	un	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	asile	asile	NOUN	NN	Gender=Masc|Number=Sing	21	nmod	_	_
-25	d’	de	ADP	IN	_	26	case	_	SpaceAfter=No|wordform=d'
+25	d'	de	ADP	IN	_	26	case	_	SpaceAfter=No
 26	aliénés	aliéné	NOUN	NN	Gender=Masc|Number=Plur	24	nmod	_	_
 27	dans	dans	ADP	IN	_	29	case	_	_
 28	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_

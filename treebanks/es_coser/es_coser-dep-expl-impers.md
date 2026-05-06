@@ -24,15 +24,15 @@ The following 1 pairs of parts of speech are connected with `expl:impers`: <tt><
 # visual-style 7	fgColor:white
 # visual-style 7 6 expl:impers	color:blue
 1	no	no	ADV	rn	Polarity=Neg	7	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	fc	PunctType=Comm	7	punct	_	_
+2	,	,	PUNCT	fc	PunctType=Comm	1	punct	_	_
 3	todavía	todavía	ADV	rg	_	7	advmod	_	SpaceAfter=No
-4	,	,	PUNCT	fc	PunctType=Comm	7	punct	_	_
+4	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
 5	ya	ya	ADV	rg	_	7	advmod	_	_
 6	se	él	PRON	pc0cn000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:impers	_	_
 7	mataba	matar	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	fc	PunctType=Comm	7	punct	_	_
+8	,	,	PUNCT	fc	PunctType=Comm	9	punct	_	_
 9	así	así	ADV	rg	_	7	advmod	_	SpaceAfter=No
-10	,	,	PUNCT	fc	PunctType=Comm	7	punct	_	_
+10	,	,	PUNCT	fc	PunctType=Comm	12	punct	_	_
 11	con	con	ADP	sps00	_	12	case	_	_
 12	un	uno	DET	di0ms0	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	obl	_	SpaceAfter=No
 13	...	...	PUNCT	_	PunctType=Comm	7	punct	_	_

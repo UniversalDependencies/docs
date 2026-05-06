@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 6	semmozii	semmoine	ADJ	ADJ	Case=Par|Number=Plur	7	amod	_	_
 7	piirdehii	piirde	NOUN	X	Case=Par|Number=Plur	5	obl	_	SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	10	punct	_	_
-9	mit	mi	PRON	PRON	Case=Nom|Number=Plur	10	nsubj	_	PronType=Interr
+9	mit	mi	PRON	PRON	Case=Nom|Number=Plur|PronType=Int	10	nsubj	_	PronType=Interr
 10	avvutetah	avvuttua	VERB	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
 11	ellendämäh	ellendiä	VERB	VERB	Case=Ill|VerbForm=Inf	10	xcomp	_	Deriv=Ma
 12	da	da	CCONJ	CCONJ	_	13	cc	_	_

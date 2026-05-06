@@ -23,11 +23,11 @@ The following 28 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 5 advcl	color:blue
-1	Har	ha	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Cxn=Interrogative-Polar-Direct|CxnElt=1:Interrogative-Polar-Direct.Clause
+1	Har	ha	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Cxn=Interrogative-Polar-Direct|CxnElt=1:Interrogative-Polar-Direct.Clause|ParsemeMWE=1:VID
 2	vi	vi	PRON	PN|UTR|PLU|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	1	nsubj	1:nsubj	_
-3	råd	råd	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	obj	1:obj	_
+3	råd	råd	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	obj	1:obj	ParsemeMWE=1
 4	att	att	PART	IE	_	5	mark	5:mark	_
-5	avstå	avstå	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	1	advcl	1:advcl:att	_
+5	avstå	avstå	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	1	advcl	1:advcl:att	ParsemeMWE=2:NotMWE
 6	från	från	ADP	PP	_	8	case	8:case	_
 7	denna	denna	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Dem	8	det	8:det	_
 8	period	period	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	5	obl	5:obl:från	_
@@ -53,8 +53,8 @@ The following 28 pairs of parts of speech are connected with `advcl`: <tt><a hre
 5	bra	bra	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	0	root	0:root	_
 6	tills	tills	SCONJ	SN	_	8	mark	8:mark	_
 7	vi	vi	PRON	PN|UTR|PLU|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	8	nsubj	8:nsubj	_
-8	skilde	skilja	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	5:advcl:tills	_
-9	oss	vi	PRON	PN|UTR|PLU|DEF|OBJ	Case=Acc|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	8	obj	8:obj	_
+8	skilde	skilja	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	5	advcl	5:advcl:tills	ParsemeMWE=1:IRV
+9	oss	vi	PRON	PN|UTR|PLU|DEF|OBJ	Case=Acc|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	8	obj	8:obj	ParsemeMWE=1
 10	...	...	PUNCT	MAD	_	5	punct	5:punct	_
 
 ~~~

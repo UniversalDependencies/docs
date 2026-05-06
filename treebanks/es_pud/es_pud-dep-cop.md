@@ -24,7 +24,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 8 6 cop	color:blue
 1	Tenemos	tener	VERB	VBC	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-3	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	4	amod	_	_
+3	gran	gran	ADJ	JJ	Number=Sing	4	amod	_	_
 4	equipo	equipo	NOUN	NN	Gender=Masc|Number=Sing	1	obj	_	_
 5	y	y	CCONJ	CC	_	8	cc	_	_
 6	es	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_

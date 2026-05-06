@@ -9,11 +9,11 @@ udver: '2'
 There are 1 `SYM` lemmas (0%), 1 `SYM` types (0%) and 1 `SYM` tokens (0%).
 Out of 16 observed tags, the rank of `SYM` is: 16 in number of lemmas, 16 in number of types and 16 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: <em>_</em>
+The 10 most frequent `SYM` lemmas: <em>/</em>
 
 The 10 most frequent `SYM` types:  <em>/</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 30, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 6, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: 
 
 The 10 most frequent ambiguous types:  <em>/</em> (<tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1)
 
@@ -24,16 +24,22 @@ The 10 most frequent ambiguous types:  <em>/</em> (<tt><a href="fr_fqb-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.165243).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.169482).
 
-The 1st highest number of forms (1) was observed with the lemma “_”: <em>/</em>.
+The 1st highest number of forms (1) was observed with the lemma “/”: <em>/</em>.
 
-`SYM` does not occur with any features.
+`SYM` occurs with 1 features: <tt><a href="fr_fqb-feat-ExtPos.html">ExtPos</a></tt> (1; 100% instances)
+
+`SYM` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`SYM` occurs with 1 feature combinations.
+The most frequent feature combination is `ExtPos=CCONJ` (1 tokens).
+Examples: <em>/</em>
 
 
 ## Relations
 
-`SYM` nodes are attached to their parents using 1 different relations: <tt><a href="fr_fqb-dep-fixed.html">fixed</a></tt> (1; 100% instances)
+`SYM` nodes are attached to their parents using 1 different relations: <tt><a href="fr_fqb-dep-cc.html">cc</a></tt> (1; 100% instances)
 
 Parents of `SYM` nodes belong to 1 different parts of speech: <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 100% instances)
 

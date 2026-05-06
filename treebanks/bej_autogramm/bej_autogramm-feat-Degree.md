@@ -24,7 +24,7 @@ The most frequent other feature values with which `ADP` and `Degree` co-occurred
 
 * `Cmp` (12; 80% of non-empty `Degree`): <em>=ka</em>
 * `Equ` (3; 20% of non-empty `Degree`): <em>=eːt, =jeːt</em>
-* `EMPTY` (751): <em>=i, dhaːj, hoːj, =iːb, haːj, =ka, =da, =iː, =eːb, dh</em>
+* `EMPTY` (752): <em>=i, dhaːj, hoːj, =iːb, haːj, =ka, =da, =iː, =eːb, dh</em>
 
 ### `DET`
 
@@ -46,7 +46,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Dim` (2; 100% of non-empty `Degree`): <em>daːwliiseːtiːt, liːgami</em>
-* `EMPTY` (2408): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
+* `EMPTY` (2406): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
 
 ### `ADJ`
 

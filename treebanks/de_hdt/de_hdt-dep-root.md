@@ -40,7 +40,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	Europäischer	europäisch	ADJ	ADJA	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	_
 2	Fernsehsender	Fernsehsender	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
 3	in	in	ADP	APPR	AdpType=Prep|Case=Dat	5	case	_	_
-4	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	5	det	_	_
+4	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 5	Internet	Internet	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	2	nmod	_	_
 
 ~~~
@@ -53,7 +53,7 @@ The following 15 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	fgColor:white
 # visual-style 0 6 root	color:blue
 1	"	"	PUNCT	$(	PunctType=Brck	6	punct	_	_
-2	Die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	3	det	_	_
+2	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	Eskalationsmechanismen	Eskalationsmechanismus	NOUN	NN	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	_
 4	sind	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 5	kaum	kaum	ADV	ADV	_	6	advmod	_	_

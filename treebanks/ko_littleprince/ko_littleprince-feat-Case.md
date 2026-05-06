@@ -23,7 +23,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="ko_littleprince-pos
 * `Acc` (685; 35% of non-empty `Case`): 말을, 것을, 걸, 별을, 꽃을, 그림을, 양을, 별들을, 일을, 가로등을
 * `Gen` (141; 7% of non-empty `Case`): 개의, 왕자의, 바오밥나무의, 보아뱀의, 별의, 짐의, 사람들의, 사람의, 양의, 중의
 * `Nom` (1150; 58% of non-empty `Case`): 왕자가, 왕자는, 사람이, 꽃은, 것은, 왕이, 건, 여우가, 별은, 사람들은
-* `EMPTY` (755): 수, 가로등, 안녕, 때, 날, 듯, 아저씨, 것, 꽃, 허영심
+* `EMPTY` (754): 수, 가로등, 안녕, 때, 날, 듯, 아저씨, 것, 꽃, 허영심
 
 ### `PRON`
 

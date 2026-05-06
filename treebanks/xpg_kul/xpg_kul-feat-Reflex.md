@@ -23,5 +23,5 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (1; 100% of non-empty `Reflex`): <em>οεαυται</em>
-* `EMPTY` (149): <em>ιος, [ιος, οι, [ι]ος, ις, τος, ιοι, κος, ταν, [ιο]ς</em>
+* `EMPTY` (155): <em>ιος, [ιος, οι, [ι]ος, ις, τος, ιοι, κος, ταν, [ιο]ς</em>
 

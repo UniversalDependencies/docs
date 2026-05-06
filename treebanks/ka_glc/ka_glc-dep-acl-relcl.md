@@ -104,7 +104,7 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 12	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
 13	ნეიტრალური	ნეიტრალური	ADJ	Adj	Case=Nom|Number=Sing	14	amod	_	Translit=neitraluri
 14	ხსნარი	ხსნარი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	obj	_	Translit=xsnari
-15	ეწოდება	ეწოდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ecodeba
+15	ეწოდება	უწოდებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ecodeba
 16	.	.	PUNCT	F	PunctType=Peri	15	punct	_	Translit=.
 
 ~~~

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-916 nodes (2%) are attached to their parents as `nummod`.
+917 nodes (2%) are attached to their parents as `nummod`.
 
-911 instances of `nummod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1561135371179.
+912 instances of `nummod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15594329334787.
 
-The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (767; 84% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (88; 10% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (20; 2% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `nummod`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (767; 84% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (88; 10% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (20; 2% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -79,7 +79,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 12	przedstawiciele	przedstawiciel	NOUN	subst:pl:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur	8	nsubj	8:nsubj	_
 13	800	800	NUM	num:pl:gen:m3:congr	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumForm=Digit|NumType=Card	18	nummod	18:nummod	_
 14	tysięcy	tysiąc	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	13	flat	13:flat	_
-15	mieszkających	mieszkać	ADJ	pact:pl:gen:m1:imperf:aff	Animacy=Hum|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Act	18	acl	18:acl	_
+15	mieszkających	mieszkać	ADJ	pact:pl:gen:m1:imperf:aff	Animacy=Hum|Aspect=Imp|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Act	18	amod	18:amod	_
 16	w	w	ADP	prep:loc:nwok	AdpType=Prep|Variant=Short	17	case	17:case	Case=Loc
 17	Izraelu	Izrael	PROPN	subst:sg:loc:m3	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	15:obl	_
 18	Arabów	Arab	PROPN	subst:pl:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur	12	nmod:arg	12:nmod:arg	SpaceAfter=No

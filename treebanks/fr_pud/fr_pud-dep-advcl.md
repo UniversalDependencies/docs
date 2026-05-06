@@ -11,7 +11,7 @@ This relation is universal.
 199 nodes (1%) are attached to their parents as `advcl`.
 
 143 instances of `advcl` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.92964824120603.
+Average distance between parent and child is 9.92462311557789.
 
 The following 13 pairs of parts of speech are connected with `advcl`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (167; 84% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (10; 5% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (6; 3% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (5; 3% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances).
 
@@ -49,11 +49,11 @@ The following 13 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	En	en	ADP	IN	_	2	case	_	wordform=en
 2	principe	principe	NOUN	NN	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	2	punct	_	_
-4	il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+4	il	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
 5	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	indétectable	indétectable	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
-7	s’	si	ADP	IN	_	10	mark	_	SpaceAfter=No|wordform=s'
-8	il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj:pass	_	_
+7	s'	si	SCONJ	IN	_	10	mark	_	SpaceAfter=No
+8	il	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj:pass	_	_
 9	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
 10	fait	faire	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
 11	correctement	correctement	ADV	RB	_	10	advmod	_	SpaceAfter=No
@@ -76,7 +76,7 @@ The following 13 pairs of parts of speech are connected with `advcl`: <tt><a hre
 6	,	,	PUNCT	,	_	1	punct	_	_
 7	les	le	DET	DT	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	combats	combat	NOUN	NN	Gender=Masc|Number=Plur	10	nsubj	_	_
-9	se	se	PRON	PRP	Person=3|PronType=Prs	10	obj	_	_
+9	se	soi	PRON	PRP	Person=3|PronType=Prs|Reflex=Yes	10	expl:pass	_	_
 10	terminaient	terminer	VERB	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 11	souvent	souvent	ADV	RB	_	10	advmod	_	_
 12	par	par	ADP	IN	_	14	case	_	_

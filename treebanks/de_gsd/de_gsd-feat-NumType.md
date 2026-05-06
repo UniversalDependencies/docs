@@ -66,7 +66,7 @@ The most frequent other feature values with which `PROPN` and `NumType` co-occur
 `PROPN` tokens may have the following values of `NumType`:
 
 * `Card` (415; 100% of non-empty `NumType`): <em>II, 1, 2, 3, III, 4, Sieben, 2000, 6, 90</em>
-* `EMPTY` (30001): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (29349): <em>Deutschland, de, of, US, Berlin, SPD, St., Frankreich, new, la</em>
 
 `NumType` seems to be **lexical feature** of `PROPN`. 100% lemmas (224) occur only with one value of `NumType`.
 
@@ -79,7 +79,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (26; 100% of non-empty `NumType`): <em>Null, drei, zwei, 1/2h, 1000m, 1392, 1542, 1571, 1827, 1838</em>
-* `EMPTY` (52270): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52922): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 `NumType` seems to be **lexical feature** of `NOUN`. 100% lemmas (23) occur only with one value of `NumType`.
 

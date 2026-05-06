@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-201 nodes (1%) are attached to their parents as `ccomp`.
+202 nodes (1%) are attached to their parents as `ccomp`.
 
-199 instances of `ccomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.2636815920398.
+200 instances of `ccomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.25247524752475.
 
-The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (111; 55% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (26; 13% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (25; 12% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (10; 5% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (8; 4% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (8; 4% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (111; 55% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (26; 13% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (25; 12% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> (10; 5% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (8; 4% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (8; 4% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,15 +22,15 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 ccomp	color:blue
-1	_	_	ADV	RB	_	2	advmod	2:advmod	Discourse=attribution-positive:36->37:0:lex-indwd-221-_+sem-atsrc-221-_+syn-rpr-222-_|Lem=*LOWER*|Len=3|PDTB=Implicit:Comparison.Contrast:but:_:197-219:220-237
-2	_	_	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Lem=_|Len=7
+1	_	_	ADV	RB	_	2	advmod	2:advmod	Discourse=attribution-positive:36->37:0:sem-atsrc-221-_+lex-indwd-221-_+syn-rpr-222-_|Lem=*LOWER*|Len=3|PDTB=Implicit:Comparison.Contrast:but:_:197-219:220-237
+2	_	_	VERB	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Lem=_|Len=7
 3	_	_	SCONJ	IN	_	8	mark	8:mark	Discourse=contingency-condition:37->38:1:dm-if-222-gold|Lem=_|Len=2|PDTB=Explicit:Contingency.Condition.Arg1-as-cond:if:222:220-221,223-237:238-259
-4	_	_	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Bridge=41<44|Entity=(44-organization-acc:inf-nnnnn-cf3-3-coref|Lem=_|Len=3
+4	_	_	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Bridge=41<44:entity-associative|Entity=(44-organization-acc:inf-nnnnn-cf3-3-coref|Lem=_|Len=3
 5	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	Lem=_|Len=4
 6	_	_	NOUN	NN	Number=Sing	8	nsubj	8:nsubj	Entity=44)|Lem=_|Len=7
 7	_	_	ADV	RB	_	8	advmod	8:advmod	Lem=_|Len=4
 8	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	Cxn=Interrogative-Polar-Indirect|CxnElt=8:Interrogative-Polar-Indirect.Clause|Lem=mail|Len=5|MSeg=mail-s
-9	_	_	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	Entity=(45-object-new-nnnnn-cf4-3,4-coref|Lem=_|Len=1
+9	_	_	DET	DT	Definite=Ind|PronType=Art	12	det	12:det	Entity=(45-object-new-nnnnn-cf4-3,4-sgl|Lem=_|Len=1
 10	_	_	PROPN	NNP	Number=Sing	12	compound	12:compound	Entity=(42-person-giv:act-nnnnn-cf1*-1,2-coref-Sammy_Sosa|Lem=_|Len=5|MSeg=Samm-y
 11	_	_	PROPN	NNP	Number=Sing	10	flat	10:flat	Entity=42)|Lem=_|Len=4
 12	_	_	NOUN	NN	Number=Sing	8	obj	8:obj	Entity=45)|Lem=_|Len=4
@@ -50,14 +50,14 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 22 ccomp	color:blue
-1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:6->8:0:sem-atsrc-30-_+lex-indwd-31-_+lex-indwd-38-_|Entity=(10-person-acc:com-s____-cf3-1-sgl)|Lem=_|Len=1
+1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=attribution-positive:6->8:0:sem-atsrc-30-_+lex-indwd-31-_+lex-indwd-38-_|Entity=(10-person-acc:com-snnnn-cf3-1-sgl)|Lem=_|Len=1
 2	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=_|Len=4
 3	_	_	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	Entity=(11-abstract-new-nnnnn-cf2-3-coref|Lem=_|Len=1
 4	_	_	ADJ	JJ	Degree=Pos	5	amod	5:amod	Lem=_|Len=4
 5	_	_	NOUN	NN	Number=Sing	2	obj	2:obj|12:nsubj	Lem=_|Len=6
 6	_	_	PUNCT	-LRB-	_	9	punct	9:punct	Discourse=elaboration-additional:7->6:0:grf-prn-35,39-_|Lem=_|Len=1|SpaceAfter=No
 7	_	_	DET	DT	PronType=Ind	9	det	9:det	Entity=(11-abstract-giv:act-nnnnn-cf2-3-appos|Lem=_|Len=7|MSeg=an-other
-8	_	_	PROPN	NNP	Number=Sing	9	compound	9:compound	Entity=(12-place-new-s____-cf6-1-sgl-Reddit)|Lem=Reddit|Len=6
+8	_	_	PROPN	NNP	Number=Sing	9	compound	9:compound	Entity=(12-place-new-snnnn-cf6-1-sgl-Reddit)|Lem=Reddit|Len=6
 9	_	_	NOUN	NN	Number=Sing	5	appos	5:appos	Entity=11)|Lem=_|Len=7|SpaceAfter=No
 10	_	_	PUNCT	-RRB-	_	9	punct	9:punct	Lem=_|Len=1
 11	_	_	PRON	WDT	PronType=Rel	12	nsubj	5:ref	Discourse=attribution-positive:8->9:0:sem-atsrc-32-40-gold+lex-indwd-41-_+syn-rpr-42-_|Lem=_|Len=5
@@ -68,7 +68,7 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 16	_	_	ADV	RB	Degree=Pos	17	advmod	17:advmod	Lem=_|Len=11|MSeg=notorious-ly
 17	_	_	ADJ	JJ	Degree=Pos	22	csubj	22:csubj	Lem=_|Len=4
 18	_	_	SCONJ	IN	_	19	mark	19:mark	Lem=_|Len=2
-19	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	17	advcl	17:advcl:at	Entity=(13-event-new-n____-cf5-1-disc)|Lem=reproduce|Len=11|MSeg=re-produc-ing
+19	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	17	advcl	17:advcl:at	Entity=(13-event-new-nnnnn-cf5-1-disc)|Lem=reproduce|Len=11|MSeg=re-produc-ing
 20	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	22:cop	Lem=be|Len=2
 21	_	_	DET	DT	Definite=Ind|PronType=Art	22	det	22:det	Entity=(14-abstract-new-nnnnn-cf4-2-sgl|Lem=_|Len=1
 22	_	_	NOUN	NN	Number=Sing	12	ccomp	12:ccomp	Entity=14)11)|Lem=_|Len=4|SpaceAfter=No
@@ -85,7 +85,7 @@ The following 15 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 6 10 ccomp	color:blue
 1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=evaluation-comment:37->3:4:lex-indwd-258-_+lex-indwd-266-_|Entity=(56-person-acc:com-nnnnn-cf2-1-sgl)|Lem=_|Len=1
 2	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=_|Len=4
-3	_	_	DET	PDT	PronType=Tot	5	det:predet	5:det:predet	Entity=(57-abstract-acc:com-nnnnn-cf3-3-sgl|Lem=_|Len=3
+3	_	_	DET	PDT	PronType=Ind	5	det:predet	5:det:predet	Entity=(57-abstract-acc:com-nnnnn-cf3-3-sgl|Lem=_|Len=3
 4	_	_	DET	DT	Number=Plur|PronType=Dem	5	det	5:det	Lem=this|Len=5
 5	_	_	NOUN	NNS	Number=Plur	2	obj	2:obj	Entity=57)|Lem=comment|Len=8|MSeg=comment-s
 6	_	_	VERB	VBG	VerbForm=Ger	5	acl	5:acl	Cxn=Ditransitive|CxnElt=6:Ditransitive.V|Discourse=attribution-positive:38->39:0:sem-atsrc-259-261-gold+lex-indwd-262-_|Lem=tell|Len=7|MSeg=tell-ing

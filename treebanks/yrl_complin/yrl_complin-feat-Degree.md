@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 * `Aug` (65; 89% of non-empty `Degree`): <em>buyawasú, miráwasú, pitunawasú, kiririwasú, iwawasú, iwiwasú, marikawasú, piawasú, tiapuwasú, yawaratewasú-itá</em>
 * `Dim` (8; 11% of non-empty `Degree`): <em>Abumirĩ, fardamirĩ, kunhamirĩ, kurumirĩ, kurusamirĩ-etá, makakaí, wirawasumirĩ-etá, yasimirĩ-itá</em>
-* `EMPTY` (4521): <em>ara, mira, apigawa, igara, manha, paraná, tupana, kunhã, pituna, yautí</em>
+* `EMPTY` (4631): <em>ara, mira, apigawa, igara, manha, tupana, paraná, kunhã, pituna, yautí</em>
 
 `Degree` seems to be **lexical feature** of `NOUN`. 100% lemmas (47) occur only with one value of `Degree`.
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Cmp` (25; 76% of non-empty `Degree`): <em>piri</em>
 * `Sup` (8; 24% of non-empty `Degree`): <em>piri</em>
-* `EMPTY` (1452): <em>ape, reté, asuí, kuíri, mayé, yawé, aramé, iké, yuíri, katú</em>
+* `EMPTY` (1488): <em>reté, ape, asuí, kuíri, mayé, yawé, iké, yuíri, aramé, katú</em>
 
 <table>
   <tr><th>Paradigm <i>piri</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -53,7 +53,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 * `Aug` (3; 75% of non-empty `Degree`): <em>Sepiasú, panemawasú, pixeasú</em>
 * `Dim` (1; 25% of non-empty `Degree`): <em>purangamirĩ</em>
-* `EMPTY` (476): <em>puranga, mirĩ, turusú, katú, sasiára, pisasú, aíwa, puxí, kirimbawa, piranga</em>
+* `EMPTY` (493): <em>puranga, mirĩ, katú, turusú, sasiára, pisasú, aíwa, puxí, kirimbawa, piranga</em>
 
 ### `VERB`
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Aug` (2; 100% of non-empty `Degree`): <em>kirimawausú, xirĩwasú</em>
-* `EMPTY` (4285): <em>unheẽ, usú, usika, umaã, umunhã, urikú, upitá, upisika, umbeú, uri</em>
+* `EMPTY` (4432): <em>unheẽ, usú, usika, umaã, umunhã, urikú, upitá, upisika, umbeú, uri</em>
 
 ### `PRON`
 
@@ -75,5 +75,5 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 `PRON` tokens may have the following values of `Degree`:
 
 * `Dim` (1; 100% of non-empty `Degree`): <em>setaíra</em>
-* `EMPTY` (3388): <em>i, se, aintá, waá, aé, ne, ixé, maã, indé, ta</em>
+* `EMPTY` (3522): <em>i, se, aintá, waá, aé, ne, ixé, maã, indé, yané</em>
 

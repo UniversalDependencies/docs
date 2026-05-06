@@ -74,7 +74,7 @@ The following 13 pairs of parts of speech are connected with `cc:preconj`: <tt><
 7	są	być	VERB	fin:pl:ter:imperf	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=są
 8	niżej	nisko	ADV	adv:com	Degree=Cmp	7	advmod	7:advmod	Translit=niżey
 9	od	od	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	10	case	10:case	Case=Gen|Translit=od
-10	ziemi	ziemia	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	8	obl:cmpr	8:obl:cmpr	SpaceAfter=No|Translit=źiemi
+10	ziemi	ziemia	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	8	obl:cmp	8:obl:cmp	SpaceAfter=No|Translit=źiemi
 11	,	,	PUNCT	interp	PunctType=Comm	13	punct	13:punct	Translit=,
 12	albo	albo	CCONJ	conj	_	13	cc	13:cc	Translit=álbo
 13	wyżej	wysoko	ADV	adv:com	Degree=Cmp	7	conj	7:conj	SpaceAfter=No|Translit=wyżey

@@ -1,78 +1,61 @@
 ---
 layout: base
-title:  'Statistics of nsubj in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of nsubj in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `nsubj`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `nsubj`
 
 This relation is universal.
 
-748 nodes (8%) are attached to their parents as `nsubj`.
+2079 nodes (11%) are attached to their parents as `nsubj`.
 
-506 instances of `nsubj` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.72727272727273.
+1544 instances of `nsubj` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.65031265031265.
 
-The following 24 pairs of parts of speech are connected with `nsubj`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (332; 44% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (214; 29% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (66; 9% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (28; 4% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (27; 4% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (12; 2% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 nsubj	color:blue
-1	Wan	wan	CCONJ	_	_	3	cc	3:cc	NormalizedForm=wan|NormalizedLemma=wan
-2	nikan	nika	ADV	_	_	3	advmod	3:advmod	NormalizedForm=nikan|NormalizedLemma=nika
-3	kah	katki	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kah|NormalizedLemma=katki|Number[subj]=Sing|Person[subj]=3|Subcat=Intr
-4	se	se	DET	_	_	5	det	5:det	NormalizedForm=se|NormalizedLemma=se
-5	telpukatl	telpukatl	NOUN	_	Case=Abs|Number=Sing	3	nsubj	3:nsubj	NormalizedForm=telpukatl|NormalizedLemma=telpukatl|SpaceAfter=No
-6	,	,	PUNCT	_	_	7	punct	7:punct	NormalizedForm=,|NormalizedLemma=,
-7	ika	ka	NOUN	_	Number=Sing	3	obl	3:obl	NormalizedForm=ika|NormalizedLemma=ka|NounType=Relat|Number[psor]=Sing|Person[psor]=3
-8	ibotas	bota	NOUN	_	Foreign=Yes|Gender=Fem|Number=Plur	7	nmod	7:nmod	NormalizedForm=ibotas|NormalizedLemma=bota|Number[psor]=Sing|Person[psor]=3
-9	wihwinyeh	winyeh	ADJ	_	Number=Plur	8	amod	8:amod	NormalizedForm=wihwinyeh|NormalizedLemma=winyeh|SpaceAfter=No
-10	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.|NormalizedLemma=.
-
-~~~
+The following 34 pairs of parts of speech are connected with `nsubj`: <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (716; 34% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (500; 24% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (202; 10% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (183; 9% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (117; 6% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (88; 4% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (81; 4% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (33; 2% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (32; 2% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (23; 1% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (16; 1% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (15; 1% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (9; 0% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 nsubj	color:blue
-1	Pero	pero	CCONJ	_	_	3	mark	3:mark	NormalizedForm=Pero|NormalizedLemma=pero
-2	siki	siki	PRON	_	_	3	nsubj	3:nsubj	NormalizedForm=siki|NormalizedLemma=siki
-3	faltan	faltar	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=faltan|NormalizedLemma=faltar|Number[subj]=Plur|Person[subj]=3|Subcat=Intr
-4	de	de	ADP	_	Foreign=Yes	5	case	5:case	NormalizedForm=de|NormalizedLemma=de
-5	papeles	papel	NOUN	_	Foreign=Yes|Gender=Masc|Number=Plur	3	obl	3:obl	NormalizedForm=papeles|NormalizedLemma=papel|SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	8:punct	NormalizedForm=,|NormalizedLemma=,
-7	amo	amo	ADV	_	Polarity=Neg	8	advmod	8:advmod	NormalizedForm=amo|NormalizedLemma=amo
-8	kwale	kwali	ADJ	_	Number=Sing	3	parataxis	3:parataxis	NormalizedForm=kwale|NormalizedLemma=kwali|SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	11:punct	NormalizedForm=,|NormalizedLemma=,
-10	amo	amo	ADV	_	Polarity=Neg	11	advmod	11:advmod	NormalizedForm=amo|NormalizedLemma=amo
-11	oyahkeh	yowi	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	3:parataxis	NormalizedForm=yahkeh|NormalizedLemma=yowi|Number[subj]=Plur|Person[subj]=3|SpaceAfter=No|Subcat=Intr|wordform=yahkeh
-12	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 2 4 nsubj	color:blue
+1	Axan	axan	ADV	_	_	2	advmod	2:advmod	_
+2	peua	peua	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	0:root	_
+3	n	in	DET	_	_	4	det	4:det	_
+4	iluit	iluit	NOUN	_	_	2	nsubj	2:nsubj	_
+5	itich	tich	NOUN	_	NounType=Relat|Number[psor]=Sing|Number[subj]=Sing|Person[psor]=3|Person[subj]=3	2	obl	2:obl	_
+6	n	in	DET	_	_	7	det	7:det	_
+7	altipel	altipel	NOUN	_	Number=Sing	5	nmod	5:nmod	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 nsubj	color:blue
-1	solamente	solamente	ADV	_	_	8	advmod	8:advmod	NormalizedForm=solamente|NormalizedLemma=solamente
-2	cada	cada	DET	_	Foreign=Yes	3	det	3:det	NormalizedForm=cada|NormalizedLemma=cada
-3	semeh	semeh	PRON	_	_	8	obj	8:obj	NormalizedForm=semeh|NormalizedLemma=semeh
-4	de	de	ADP	_	Foreign=Yes	5	case	5:case	NormalizedForm=de|NormalizedLemma=de
-5	tehwah	tehwah	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nmod	3:nmod	NormalizedForm=tehwah|NormalizedLemma=tehwah
-6	n	in	DET	_	_	7	det	7:det	NormalizedForm=n|NormalizedLemma=n
-7	dios	dios	PROPN	_	Foreign=Yes	8	nsubj	8:nsubj	NormalizedForm=dios|NormalizedLemma=dios
-8	techmaka	maka	VERB	_	Mood=Ind|VerbForm=Fin	0	root	0:root	NormalizedForm=techmaka|NormalizedLemma=maka|Number[dat]=Plur|Number[subj]=Sing|Person[dat]=1|Person[subj]=3|SpaceAfter=No|Subcat=Tran
-9	.	.	PUNCT	_	_	8	punct	8:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 nsubj	color:blue
+1	Neh	nin	PRON	_	PronType=Prs	4	nsubj	4:nsubj	_
+2	amo	amo	ADV	_	_	4	advmod	4:advmod	_
+3	tlen	tlen	PRON	_	_	4	obj	4:obj	_
+4	nicmati	mati	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	0	root	0:root	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 nsubj	color:blue
+1	Juan	uan	PROPN	_	Foreign=Yes	3	nsubj	3:nsubj	_
+2	yi	yi	ADV	_	_	3	advmod	3:advmod	_
+3	tiquitoc	tiquiti	VERB	Aspect=Prog|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	_	0	root	0:root	_
 
 ~~~
 

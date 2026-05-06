@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-50 nodes (4%) are attached to their parents as `parataxis`.
+49 nodes (4%) are attached to their parents as `parataxis`.
 
-50 instances of `parataxis` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.8.
+49 instances of `parataxis` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.75510204081633.
 
-The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (37; 74% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (4; 8% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt>-<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `parataxis`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (37; 76% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (4; 8% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt>-<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-AUX.html">AUX</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

@@ -18,10 +18,10 @@ The feature is used with 1 part-of-speech tags: <tt><a href="fr_rhapsodie-pos-AD
 
 1 <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="fr_rhapsodie-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="fr_rhapsodie-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>vingt-et-unième</em>
-* `EMPTY` (1563): <em>tout, petit, tous, jeune, autre, grande, vrai, droit, même, premier</em>
+* `EMPTY` (1560): <em>tout, petit, tous, jeune, autre, grande, vrai, droit, même, premier</em>
 

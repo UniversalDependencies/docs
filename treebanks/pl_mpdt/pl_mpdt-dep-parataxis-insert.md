@@ -52,7 +52,7 @@ The following 28 pairs of parts of speech are connected with `parataxis:insert`:
 5	nie	nie	PART	part	Polarity=Neg	6	advmod:neg	6:advmod:neg	Translit=nie
 6	mówił	mówić	VERB	praet:sg:m:imperf	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No|Translit=mowił
 7	/	/	PUNCT	interp	PunctType=Slsh	8	punct	8:punct	Translit=/
-8	jako	jako	SCONJ	comp	_	3	obl:cmpr	3:obl:cmpr	Translit=iáko
+8	jako	jako	SCONJ	comp	_	3	obl:cmp	3:obl:cmp	Translit=iáko
 9	mówi	mówić	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	8:ccomp	Translit=mowi
 10	ten	ten	DET	adj:sg:nom:m:pos	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	9	nsubj	9:nsubj	SpaceAfter=No|Translit=ten
 11	?	?	PUNCT	interp	PunctType=Qest	6	punct	6:punct	Translit=?

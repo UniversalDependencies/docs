@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-PUD: Relations: `expl:subj`
 
 This relation is a language-specific subtype of .
-There are also 2 other language-specific subtypes of `expl`: <tt><a href="fr_pud-dep-expl-comp.html">expl:comp</a></tt>, <tt><a href="fr_pud-dep-expl-pv.html">expl:pv</a></tt>.
+There are also 3 other language-specific subtypes of `expl`: <tt><a href="fr_pud-dep-expl-comp.html">expl:comp</a></tt>, <tt><a href="fr_pud-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="fr_pud-dep-expl-pv.html">expl:pv</a></tt>.
 
 83 nodes (0%) are attached to their parents as `expl:subj`.
 
@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 expl:subj	color:blue
-1	Il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	wordform=il
+1	Il	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	wordform=il
 2	y	y	PRON	PRP	Person=3|PronType=Prs	3	expl:comp	_	_
 3	a	avoir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	encore	encore	ADV	RB	_	3	advmod	_	_
@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 6	ou	ou	CCONJ	CC	_	7	cc	_	_
 7	prépayé	prépayé	ADJ	JJ	Gender=Masc|Number=Sing	5	conj	_	_
 8	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	SpaceAfter=No
-9	-il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_
+9	-il	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_
 10	cher	cher	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 11	?	?	PUNCT	.	_	10	punct	_	_
 
@@ -70,7 +70,7 @@ The following 3 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 3	empereur	empereur	NOUN	NN	Gender=Masc|Number=Sing	8	obl	_	_
 4	Meiji	Meiji	PROPN	NNP	Gender=Masc|Number=Sing	3	appos	_	SpaceAfter=No
 5	,	,	PUNCT	,	_	3	punct	_	_
-6	il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	_
+6	il	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	expl:subj	_	_
 7	était	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
 8	coutume	coutume	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 9	d'	de	ADP	IN	_	10	mark	_	SpaceAfter=No
@@ -96,7 +96,7 @@ The following 3 pairs of parts of speech are connected with `expl:subj`: <tt><a 
 29	époque	époque	NOUN	NN	Gender=Fem|Number=Sing	26	nmod	_	_
 30	pendant	pendant	ADP	IN	_	31	case	_	_
 31	laquelle	lequel	PRON	WP	Gender=Fem|Number=Sing|PronType=Rel	34	obl	_	_
-32	il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	nsubj	_	_
+32	il	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	34	nsubj	_	_
 33	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	aux:tense	_	_
 34	régné	régner	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	29	acl:relcl	_	SpaceAfter=No
 35	.	.	PUNCT	.	_	8	punct	_	_

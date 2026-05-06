@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Naga-Suansu: Features: `Mood`
 
-This feature is universal but the values `Hort`, `Int`, `Irr` are language-specific.
-It occurs with 7 different values: `Des`, `Hort`, `Imp`, `Ind`, `Int`, `Irr`, `Jus`.
+This feature is universal but the values `Hrt`, `Int`, `Irr` are language-specific.
+It occurs with 7 different values: `Des`, `Hrt`, `Imp`, `Ind`, `Int`, `Irr`, `Jus`.
 
 449 tokens (14%) have a non-empty value of `Mood`.
 255 types (23%) occur at least once with a non-empty value of `Mood`.
@@ -47,7 +47,7 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Des` (3; 2% of non-empty `Mood`): <em>tha</em>
-* `Hort` (6; 5% of non-empty `Mood`): <em>ga, diga, raga</em>
+* `Hrt` (6; 5% of non-empty `Mood`): <em>ga, diga, raga</em>
 * `Imp` (3; 2% of non-empty `Mood`): <em>ra</em>
 * `Ind` (43; 33% of non-empty `Mood`): <em>lale, laha, lalate, laia, late</em>
 * `Int` (30; 23% of non-empty `Mood`): <em>la, dila, lala, dima, lalama</em>

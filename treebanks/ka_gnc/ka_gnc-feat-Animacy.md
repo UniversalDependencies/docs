@@ -9,34 +9,34 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Anim`.
 
-865 tokens (4%) have a non-empty value of `Animacy`.
-403 types (5%) occur at least once with a non-empty value of `Animacy`.
-196 lemmas (5%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (769; 3% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (96; 0% instances).
+892 tokens (4%) have a non-empty value of `Animacy`.
+416 types (5%) occur at least once with a non-empty value of `Animacy`.
+202 lemmas (5%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (794; 3% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (98; 0% instances).
 
 ### `NOUN`
 
-769 <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Animacy`.
+794 <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="ka_gnc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (769; 100%), <tt><a href="ka_gnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (567; 74%).
+The most frequent other feature values with which `NOUN` and `Animacy` co-occurred: <tt><a href="ka_gnc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (794; 100%), <tt><a href="ka_gnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (587; 74%).
 
 `NOUN` tokens may have the following values of `Animacy`:
 
-* `Anim` (769; 100% of non-empty `Animacy`): <em>დედა, კაცი, ადამიანი, დედას, მამა, დედის, ქალი, ადამიანის, ცოლი, ადამიანები</em>
-* `EMPTY` (4051): <em>ოთახ, დროს, დრო, კითხვა, წლის, სამყარო, პასუხი, ოთახი, გზა, კაბა</em>
+* `Anim` (794; 100% of non-empty `Animacy`): <em>დედა, კაცი, ადამიანი, დედას, მამა, დედის, ქალი, ადამიანის, ცოლი, ადამიანები</em>
+* `EMPTY` (4207): <em>ოთახ, დრო, დროს, კითხვა, წლის, სამყარო, პასუხი, ოთახი, ამბავი, გზა</em>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (188) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (194) occur only with one value of `Animacy`.
 
 ### `PRON`
 
-96 <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> tokens (6% of all `PRON` tokens) have a non-empty value of `Animacy`.
+98 <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> tokens (6% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="ka_gnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (96; 100%), <tt><a href="ka_gnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (96; 100%), <tt><a href="ka_gnc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (96; 100%), <tt><a href="ka_gnc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (92; 96%), <tt><a href="ka_gnc-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (80; 83%), <tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (50; 52%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="ka_gnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (98; 100%), <tt><a href="ka_gnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (98; 100%), <tt><a href="ka_gnc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (98; 100%), <tt><a href="ka_gnc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (94; 96%), <tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (51; 52%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `Anim` (96; 100% of non-empty `Animacy`): <em>ვინ, არავინ, ვინმეს, ვის, ვინმე, ვინც, არავის, ვერავინ, ვისაც, ვიღაც</em>
-* `EMPTY` (1531): <em>ეს, ამ, მას, იგი, ის, რა, მე, მისი, მის, თავის</em>
+* `Anim` (98; 100% of non-empty `Animacy`): <em>ვინ, არავინ, ვინმეს, ვის, ვინმე, ვინც, არავის, ვერავინ, ვისაც, ვიღაც</em>
+* `EMPTY` (1587): <em>ეს, ამ, მას, ის, იგი, რა, მე, მისი, მის, თავის</em>
 
 ## Relations with Agreement in `Animacy`
 

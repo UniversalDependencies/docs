@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: POS Tags: `AUX`
 
 There are 4 `AUX` lemmas (0%), 50 `AUX` types (1%) and 2319 `AUX` tokens (3%).
-Out of 16 observed tags, the rank of `AUX` is: 14 in number of lemmas, 9 in number of types and 10 in number of tokens.
+Out of 16 observed tags, the rank of `AUX` is: 15 in number of lemmas, 9 in number of types and 10 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>être, avoir, faire, voir</em>
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_sequoia-pos
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 12.500000 (the average of all parts of speech is 1.408433).
+The form / lemma ratio of `AUX` is 12.500000 (the average of all parts of speech is 1.408837).
 
 The 1st highest number of forms (24) was observed with the lemma “être”: <em>ETRE, Etaient, est, furent, fut, sera, seraient, serais, serait, seront, soient, sois, soit, sommes, sont, soyons, suis, étaient, étais, était, étant, été, êtes, être</em>.
 
@@ -76,7 +76,7 @@ Examples: <em>est, a, fait</em>
 
 `AUX` nodes are attached to their parents using 7 different relations: <tt><a href="fr_sequoia-dep-aux-tense.html">aux:tense</a></tt> (948; 41% instances), <tt><a href="fr_sequoia-dep-aux-pass.html">aux:pass</a></tt> (759; 33% instances), <tt><a href="fr_sequoia-dep-cop.html">cop</a></tt> (575; 25% instances), <tt><a href="fr_sequoia-dep-aux-caus.html">aux:caus</a></tt> (34; 1% instances), <tt><a href="fr_sequoia-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1719; 74% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (284; 12% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (272; 12% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (27; 1% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1719; 74% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (284; 12% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (254; 11% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (27; 1% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (19; 1% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1; 0% instances),  (1; 0% instances)
 
 2317 (100%) `AUX` nodes are leaves.
 

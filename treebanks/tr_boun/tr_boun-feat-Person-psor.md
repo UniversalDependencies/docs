@@ -13,14 +13,14 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 18476 tokens (15%) have a non-empty value of `Person[psor]`.
 10253 types (30%) occur at least once with a non-empty value of `Person[psor]`.
-3578 lemmas (30%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 9 part-of-speech tags: <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (12927; 10% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (3876; 3% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (763; 1% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (459; 0% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (251; 0% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (106; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (81; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="tr_boun-pos-PART.html">PART</a></tt> (2; 0% instances).
+3577 lemmas (30%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 9 part-of-speech tags: <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (12935; 10% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (3876; 3% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (755; 1% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (459; 0% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (251; 0% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (106; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (81; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (11; 0% instances), <tt><a href="tr_boun-pos-PART.html">PART</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-12927 <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> tokens (34% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+12935 <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> tokens (34% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (12897; 100%), <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (11808; 91%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10235; 79%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (12905; 100%), <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (11816; 91%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10243; 79%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -152,9 +152,9 @@ The most frequent other feature values with which `VERB` and `Person[psor]` co-o
 
 ### `PRON`
 
-763 <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> tokens (21% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
+755 <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> tokens (21% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="tr_boun-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (747; 98%), <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (667; 87%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (591; 77%), <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (577; 76%).
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (659; 87%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (583; 77%), <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (569; 75%), <tt><a href="tr_boun-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (432; 57%).
 
 `PRON` tokens may have the following values of `Person[psor]`:
 
@@ -321,14 +321,14 @@ The most frequent other feature values with which `AUX` and `Person[psor]` co-oc
 ## Relations with Agreement in `Person[psor]`
 
 The 10 most frequent relations where parent and child node agree in `Person[psor]`:
-<tt>VERB --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (156; 70%),
+<tt>VERB --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> VERB</tt> (159; 71%),
 <tt>PROPN --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> PROPN</tt> (19; 56%),
 <tt>NOUN --[<tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt>]--> NOUN</tt> (14; 70%),
 <tt>PRON --[<tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (6; 67%),
+<tt>NOUN --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> PRON</tt> (5; 56%),
 <tt>NOUN --[<tt><a href="tr_boun-dep-nsubj-outer.html">nsubj:outer</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>NUM --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>PRON --[<tt><a href="tr_boun-dep-obj.html">obj</a></tt>]--> VERB</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="tr_boun-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>PRON --[<tt><a href="tr_boun-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="tr_boun-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (1; 100%).
 

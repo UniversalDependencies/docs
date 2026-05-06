@@ -9,14 +9,14 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rel`.
 
-6073 tokens (25%) have a non-empty value of `PronType`.
-113 types (3%) occur at least once with a non-empty value of `PronType`.
-37 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3831; 16% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1658; 7% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (584; 2% instances).
+6072 tokens (25%) have a non-empty value of `PronType`.
+111 types (3%) occur at least once with a non-empty value of `PronType`.
+35 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3832; 16% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1654; 7% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (586; 2% instances).
 
 ### `DET`
 
-3831 <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+3832 <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3349; 87%), <tt><a href="fr_fqb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2777; 72%).
 
@@ -24,46 +24,47 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 * `Art` (3152; 82% of non-empty `PronType`): <em>le, la, l', les, un, une, des, de, d', du</em>
 * `Dem` (7; 0% of non-empty `PronType`): <em>ce, ces, cet, cette</em>
-* `Ind` (7; 0% of non-empty `PronType`): <em>chaque, certaines, plusieurs, quelqu'</em>
+* `Ind` (8; 0% of non-empty `PronType`): <em>chaque, certaines, plusieurs, quelqu', tout</em>
 * `Int` (524; 14% of non-empty `PronType`): <em>quelle, quel, quelles, quels</em>
 * `Prs` (141; 4% of non-empty `PronType`): <em>mon, mes, sa, ma, son, votre, ses, vos, leur, leurs</em>
 
-`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (12) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (11) occur only with one value of `PronType`.
 
 ### `PRON`
 
-1658 <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+1654 <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1243; 75%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (984; 59%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (845; 51%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1239; 75%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (980; 59%), <tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (839; 51%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (166; 10% of non-empty `PronType`): <em>-ce, cela, ce, celle, celle-ci, celui, celui-ci, ceux</em>
-* `Ind` (91; 5% of non-empty `PronType`): <em>-t-on, -on, un, autre, autres, l'on, quelqu'un, une, on, tout</em>
+* `Ind` (90; 5% of non-empty `PronType`): <em>-t-on, -on, un, autre, l'on, quelqu'un, une, on, tout</em>
 * `Int` (570; 34% of non-empty `PronType`): <em>qui, Qu', que, quoi, Quels</em>
-* `Prs` (736; 44% of non-empty `PronType`): <em>-t-il, se, -il, -je, -t-elle, je, -elle, s', y, -ils</em>
-* `Rel` (95; 6% of non-empty `PronType`): <em>qui, que, dont, laquelle, lequel, qu', où, lesquelles</em>
+* `Prs` (735; 44% of non-empty `PronType`): <em>-t-il, se, -il, -je, -t-elle, je, -elle, s', -ils, y</em>
+* `Rel` (93; 6% of non-empty `PronType`): <em>qui, que, dont, laquelle, lequel, qu', lesquelles</em>
 
 <table>
-  <tr><th>Paradigm <i>il</i></th><th><tt>Prs</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>-t-il, -il, il</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>-ils</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>-t-elle, -elle, elle</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>-elles, elles</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>-je, je, j'</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>-t-on, -on, on</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>nous</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>vous, -vous</em></td><td></td></tr>
+  <tr><th>Paradigm <i>qui</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>qui</em></td><td><em>qui</em></td></tr>
 </table>
+
+`PronType` seems to be **lexical feature** of `PRON`. 91% lemmas (21) occur only with one value of `PronType`.
 
 ### `ADV`
 
-584 <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> tokens (69% of all `ADV` tokens) have a non-empty value of `PronType`.
+586 <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> tokens (70% of all `ADV` tokens) have a non-empty value of `PronType`.
 
 `ADV` tokens may have the following values of `PronType`:
 
 * `Int` (584; 100% of non-empty `PronType`): <em>où, quand, combien, comment, pourquoi</em>
-* `EMPTY` (259): <em>plus, pas, n', ne, surtout, aussi, lord, près, afin, auprès</em>
+* `Rel` (2; 0% of non-empty `PronType`): <em>où</em>
+* `EMPTY` (255): <em>plus, pas, n', ne, surtout, aussi, lord, près, afin, auprès</em>
+
+<table>
+  <tr><th>Paradigm <i>où</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>où</em></td><td><em>où</em></td></tr>
+</table>
 
 ## Relations with Agreement in `PronType`
 

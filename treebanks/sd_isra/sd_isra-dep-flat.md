@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-538 nodes (1%) are attached to their parents as `flat`.
+562 nodes (1%) are attached to their parents as `flat`.
 
-538 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25650557620818.
+562 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.25978647686833.
 
-The following 7 pairs of parts of speech are connected with `flat`: <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (470; 87% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (30; 6% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (24; 4% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (11; 2% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `flat`: <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (485; 86% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (37; 7% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (26; 5% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (11; 2% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,7 +59,7 @@ The following 7 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 10	fgColor:white
 # visual-style 10 11 flat	color:blue
 1	الاجي	الاجي	ADP	PSP	_	2	case	_	_
-2	ڪير	ڪير	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing	5	advcl	_	_
+2	ڪير	ڪير	PRON	PRWH	Case=Nom|PronType=Int	5	advcl	_	_
 3	آهي	آهي	AUX	VAUX	Number=Sing|Tense=Pres	2	cop	_	_
 4	شينهڻ	شينهڻ	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
 5	چين	چيو	VERB	VMX	Aspect=Perf|Case=Acc|Number=Plur|Person=3|Voice=Act	0	root	_	_

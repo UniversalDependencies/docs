@@ -50,22 +50,22 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 13 csubj	color:blue
-1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	Discourse=evaluation-comment:41->38:3:lex-indwd-271-_|Entity=(43-abstract-new-nnnnn-cf3-1-cata)|Lem=*LOWER*|Len=2
+1	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	Discourse=evaluation-comment:41->38:3:lex-indwd-271-_|Entity=(44-abstract-new-nnnnn-cf3-1-cata)|Lem=*LOWER*|Len=2
 2	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=amaze|Len=6|MSeg=a-maze-s
-3	_	_	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	2:obj	Entity=(44-person-acc:com-n____-cf1-1-sgl)|Lem=I|Len=2
-4	_	_	DET	DT	Definite=Def|PronType=Art	5	det	5:det	Entity=(43-abstract-acc:com-nnnnn-cf3-2-coref(45-object-new-nnnnn-cf5-2-sgl|Lem=_|Len=3
+3	_	_	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	2	obj	2:obj	Entity=(45-person-acc:com-nnnnn-cf1-1-sgl)|Lem=I|Len=2
+4	_	_	DET	DT	Definite=Def|PronType=Art	5	det	5:det	Entity=(44-abstract-acc:com-nnnnn-cf3-2-coref(46-object-new-nnnnn-cf5-2-sgl|Lem=_|Len=3
 5	_	_	NOUN	NNS	Number=Plur	2	dislocated	2:dislocated	Lem=chunk|Len=6|MSeg=chunk-s
 6	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=2
-7	_	_	NOUN	NN	Number=Sing	5	nmod	5:nmod:of	Entity=(46-time-new-nnnnn-cf7-1-sgl)45)|Lem=_|Len=4
-8	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	expl	9:expl	Discourse=elaboration-additional:42->41:0:sem-gnrl-270,273-285-_|Entity=(47-abstract-new-nnnnn-cf2-1-cata)|Lem=_|Len=2
+7	_	_	NOUN	NN	Number=Sing	5	nmod	5:nmod:of	Entity=(47-time-new-nnnnn-cf7-1-sgl)46)|Lem=_|Len=4
+8	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	expl	9:expl	Discourse=elaboration-additional:42->41:0:sem-gnrl-270,273-285-_|Entity=(48-abstract-new-nnnnn-cf2-1-cata)|Lem=_|Len=2
 9	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	Lem=take|Len=5|MSeg=take-s
-10	_	_	SCONJ	IN	_	13	mark	13:mark	Entity=(47-abstract-acc:com-nnnnn-cf2-4-coref|Lem=_|Len=3
-11	_	_	NOUN	NNS	Number=Plur	13	nsubj	13:nsubj	Entity=(48-person-new-nnnnn-cf4-1-sgl)|Lem=person|Len=6
+10	_	_	SCONJ	IN	_	13	mark	13:mark	Entity=(48-abstract-acc:com-nnnnn-cf2-4-coref|Lem=_|Len=3
+11	_	_	NOUN	NNS	Number=Plur	13	nsubj	13:nsubj	Entity=(49-person-new-nnnnn-cf4-1-sgl)|Lem=person|Len=6
 12	_	_	PART	TO	_	13	mark	13:mark	Lem=_|Len=2
 13	_	_	VERB	VB	VerbForm=Inf	9	csubj	9:csubj	Lem=_|Len=7
 14	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=2
-15	_	_	DET	DT	Number=Plur|PronType=Dem	16	det	16:det	Entity=(49-abstract-new-nnnnn-cf6-2-sgl|Lem=this|Len=5
-16	_	_	NOUN	NNS	Number=Plur	13	obl	13:obl:to	Entity=49)47)43)|Lem=thing|Len=6|MSeg=thing-s
+15	_	_	DET	DT	Number=Plur|PronType=Dem	16	det	16:det	Entity=(50-abstract-new-nnnnn-cf6-2-sgl|Lem=this|Len=5
+16	_	_	NOUN	NNS	Number=Plur	13	obl	13:obl:to	Entity=50)48)44)|Lem=thing|Len=6|MSeg=thing-s
 17	_	_	SYM	SYM	_	2	discourse	2:discourse	Lem=_|Len=3|XML=<w></w>
 
 ~~~
@@ -97,7 +97,7 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 18	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	28:cop	Lem=be|Len=2
 19	_	_	ADV	WRB	PronType=Int	28	advmod	28:advmod	Lem=_|Len=3
 20	_	_	VERB	VBG	VerbForm=Ger	28	csubj	28:csubj	Entity=(19-abstract-new-nnnnn-cf3-1-disc|Lem=get|Len=7|MSeg=gett-ing
-21	_	_	NOUN	NNS	Number=Plur	20	obj	20:obj|25:nsubj:xsubj	Bridge=7<20|Entity=(20-animal-acc:inf-nnnnn-cf4-1-sgl|Lem=panda|Len=6|MSeg=panda-s
+21	_	_	NOUN	NNS	Number=Plur	20	obj	20:obj|25:nsubj:xsubj	Entity=(20-animal-auto-nnnnn-cf4-1-sgl|Lem=panda|Len=6|MSeg=panda-s
 22	_	_	ADP	IN	_	23	case	23:case	Lem=_|Len=2
 23	_	_	NOUN	NN	Number=Sing	21	nmod	21:nmod:in	Entity=(17-abstract-giv:act-nnnss-cf2-1-coref)20)|Lem=_|Len=9|MSeg=captiv-ity
 24	_	_	PART	TO	_	25	mark	25:mark	Lem=_|Len=2

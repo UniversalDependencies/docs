@@ -1,33 +1,48 @@
 ---
 layout: base
-title:  'Statistics of csubj in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of csubj in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `csubj`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `csubj`
 
 This relation is universal.
 
-46 nodes (0%) are attached to their parents as `csubj`.
+66 nodes (0%) are attached to their parents as `csubj`.
 
-43 instances of `csubj` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.28260869565217.
+62 instances of `csubj` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.22727272727273.
 
-The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (13; 28% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (11; 24% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (9; 20% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (5; 11% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `csubj`: <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (20; 30% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (14; 21% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (11; 17% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (7; 11% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (3; 5% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 csubj	color:blue
-1	Mota	ita	VERB	_	Mood=Ind|VerbForm=Fin	0	root	0:root	NormalizedForm=mota|NormalizedLemma=ita|Number[subj]=Sing|Person[subj]=3|Subcat=Intr
-2	simi	simi	ADV	_	_	3	advmod	3:advmod	NormalizedForm=simi|NormalizedLemma=simi
-3	kipaktia	paktia	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	1	csubj	1:csubj	NormalizedForm=kipaktia|NormalizedLemma=paktia|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran
-4	n	in	DET	_	_	5	det	5:det	NormalizedForm=n|NormalizedLemma=in
-5	irana	rana	NOUN	_	Foreign=Yes|Gender=Fem|Number=Sing	3	nsubj	3:nsubj	NormalizedForm=irana|NormalizedLemma=rana|Number[psor]=Sing|Person[psor]=3|SpaceAfter=No
-6	.	.	PUNCT	_	_	1	punct	1:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 csubj	color:blue
+1	¡	¡	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	Mai	catqui	VERB	_	_	0	root	0:root	_
+3	niman	niman	ADV	_	_	4	advmod	4:advmod	_
+4	mouiqueh	uiqui	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr	2	csubj	2:csubj	SpaceAfter=No
+5	!	!	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 csubj	color:blue
+1	Nin	nin	PRON	_	_	2	nsubj	2:nsubj	_
+2	tlali	tlalli	NOUN	_	_	4	amod	4:amod	_
+3	simi	simi	ADV	_	_	4	advmod	4:advmod	_
+4	chicauac	chicauac	ADJ	_	_	0	root	0:root	_
+5	para	para	SCONJ	_	_	6	mark	6:mark	_
+6	setlatoocas	toca	VERB	_	_	4	csubj	4:csubj	SpaceAfter=No
 
 ~~~
 
@@ -44,28 +59,6 @@ The following 9 pairs of parts of speech are connected with `csubj`: <tt><a href
 4	n	in	DET	_	_	5	det	5:det	Gloss=DEF|Morf=n|NormalizedForm=n|NormalizedLemma=in|Orig=n
 5	amigos	amigo	NOUN	_	Foreign=Yes|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	Gloss=friend.PL|Morf=AMIGOS|NormalizedForm=amigos|NormalizedLemma=amigo|Orig=amı̄gos|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	3:punct	Gloss=.|Morf=.|NormalizedForm=.|NormalizedLemma=.|Orig=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 csubj	color:blue
-1	keh	keh	SCONJ	_	_	3	mark	3:mark	NormalizedForm=keh|NormalizedLemma=keh
-2	amo	amo	ADV	_	Polarity=Neg	3	advmod	3:advmod	NormalizedForm=amo|NormalizedLemma=amo
-3	kwale	kwali	ADJ	_	Number=Sing	0	root	0:root	NormalizedForm=kwale|NormalizedLemma=kwali
-4	niwalmokopas	walmokopa	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	3	csubj	3:csubj	Movement=Ven|NormalizedForm=niwalmokopas|NormalizedLemma=walmokopa|Number[subj]=Sing|Person[subj]=1|SpaceAfter=No|Subcat=Tran
-5	,	,	PUNCT	_	_	7	punct	7:punct	NormalizedForm=,|NormalizedLemma=,
-6	siempre	siempre	ADV	_	Foreign=Yes	7	advmod	7:advmod	NormalizedForm=siempre|NormalizedLemma=siempre
-7	onikpix	piya	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	3:parataxis	NormalizedForm=nikpix|NormalizedLemma=piya|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|wordform=nikpix
-8	n	in	DET	_	_	9	det	9:det	NormalizedForm=n|NormalizedLemma=n
-9	pakilis	pakilis	NOUN	_	Number=Sing	7	obj	7:obj	NormalizedForm=pakilis|NormalizedLemma=pakilis
-10	n	in	DET	_	_	11	det	11:det	NormalizedForm=n|NormalizedLemma=n
-11	nehwatl	nehwatl	PRON	_	Number=Sing|PronType=Prs	7	nsubj	7:nsubj	NormalizedForm=nehwatl|NormalizedLemma=nehwatl|SpaceAfter=No
-12	.	.	PUNCT	_	_	7	punct	7:punct	NormalizedForm=.|NormalizedLemma=.
 
 ~~~
 

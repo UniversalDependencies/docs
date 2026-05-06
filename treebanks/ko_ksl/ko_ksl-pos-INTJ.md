@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Korean-KSL: POS Tags: `INTJ`
 
 There are 8 `INTJ` lemmas (0%), 8 `INTJ` types (0%) and 10 `INTJ` tokens (0%).
-Out of 14 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 14 in number of types and 14 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: 네, 야, 그래요, 뭘, 아, 어, 어머, 하하하
 
@@ -15,7 +15,7 @@ The 10 most frequent `INTJ` types:  네, 야, 그래요, 뭘, 아, 어, 어머, 
 
 The 10 most frequent ambiguous lemmas: 네 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 13, <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> 5, <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  네 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 13, <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> 5, <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1), 야 (<tt><a href="ko_ksl-pos-X.html">X</a></tt> 5, <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 2), 그래요 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1), 뭘 (<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> 5, <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  네 (<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> 13, <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> 5, <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1), 야 (<tt><a href="ko_ksl-pos-X.html">X</a></tt> 6, <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 2), 그래요 (<tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1), 뭘 (<tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> 6, <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * 네
@@ -24,19 +24,19 @@ The 10 most frequent ambiguous types:  네 (<tt><a href="ko_ksl-pos-NUM.html">NU
   * <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 2: <b>네</b> .
   * <tt><a href="ko_ksl-pos-DET.html">DET</a></tt> 1: 오늘 <b>네</b> 기분은 어떠니 ?
 * 야
-  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 5: 그런데 내 입장에서 보면 나는 사형제도 유지해 <b>야</b> 한다고 생간한다
+  * <tt><a href="ko_ksl-pos-X.html">X</a></tt> 6: 그런데 내 입장에서 보면 나는 사형제도 유지해 <b>야</b> 한다고 생간한다
   * <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 2: 언니가 <b>야</b> !
 * 그래요
   * <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt> 1: 하지만 제 생각에는 안 <b>그래요</b> .
   * <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 1: 멕시코에 가면 몰레를 먹지 <b>그래요</b> ?
   * <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt> 1: 가족 관계도 강화될 것이라고 생각하기도 <b>그래요</b> .
 * 뭘
-  * <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> 5: 또한 협동을 하면 <b>뭘</b> 망해도 실패해도 혼자 있는 것이 아니다 .
+  * <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt> 6: 또한 협동을 하면 <b>뭘</b> 망해도 실패해도 혼자 있는 것이 아니다 .
   * <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt> 1: 그냥 한국친구랑 창피하지 말고 많이 대화를 해야지 , <b>뭘</b> .
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.007876).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.008073).
 
 The 1st highest number of forms (1) was observed with the lemma “그래요”: 그래요.
 

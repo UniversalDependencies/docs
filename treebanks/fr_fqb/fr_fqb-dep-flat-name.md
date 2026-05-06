@@ -27,11 +27,11 @@ The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a 
 2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	cardinal	cardinal	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
 4	Juan	Juan	PROPN	_	Gender=Masc|Number=Sing	3	appos	_	_
-5	Jesus	Jesus	PROPN	_	Gender=Masc|Number=Sing	4	flat:name	_	_
+5	Jesus	Jesus	PROPN	_	_	4	flat:name	_	_
 6	Posadas	Posadas	PROPN	_	_	4	flat:name	_	_
 7	Ocampo	Ocampo	PROPN	_	_	4	flat:name	_	_
 8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	SpaceAfter=No
-9	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_
+9	-il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_
 10	mort	mourir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	?	?	PUNCT	_	_	10	punct	_	_
 

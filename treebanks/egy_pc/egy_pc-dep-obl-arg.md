@@ -1,36 +1,57 @@
 ---
 layout: base
-title:  'Statistics of obl:arg in UD_Egyptian-UJaen'
+title:  'Statistics of obl:arg in UD_Egyptian-PC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Egyptian-UJaen: Relations: `obl:arg`
+## Treebank Statistics: UD_Egyptian-PC: Relations: `obl:arg`
 
-This relation is a language-specific subtype of <tt><a href="egy_ujaen-dep-obl.html">obl</a></tt>.
-There are also 1 other language-specific subtypes of `obl`: <tt><a href="egy_ujaen-dep-obl-agent.html">obl:agent</a></tt>.
+This relation is a language-specific subtype of <tt><a href="egy_pc-dep-obl.html">obl</a></tt>.
+There are also 3 other language-specific subtypes of `obl`: <tt><a href="egy_pc-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="egy_pc-dep-obl-nisba.html">obl:nisba</a></tt>, <tt><a href="egy_pc-dep-obl-unmarked.html">obl:unmarked</a></tt>.
 
-359 nodes (1%) are attached to their parents as `obl:arg`.
+946 nodes (3%) are attached to their parents as `obl:arg`.
 
-359 instances of `obl:arg` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.13370473537604.
+945 instances of `obl:arg` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.89323467230444.
 
-The following 5 pairs of parts of speech are connected with `obl:arg`: <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> (199; 55% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> (119; 33% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (35; 10% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-NUM.html">NUM</a></tt> (2; 1% instances).
+The following 9 pairs of parts of speech are connected with `obl:arg`: <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> (643; 68% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt> (222; 23% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> (62; 7% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> (10; 1% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 6 obl:arg	color:blue
-1	ꞽꞽw.n	ꞽwi̯	VERB	_	Mood=Ind|SubForm=AbstRel|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	0	root	_	Hiero=𓂻𓅱|SPC=Past-2
-2	(⸗ꞽ)	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Hiero=No|Pron=SFP
-3	ꞽn	ꞽni̯	VERB	_	Mood=Sub|VerbClass=Anom|VerbForm=Fin	1	advcl	_	Clause=Final|Hiero=(𓇋𓏎:𓈖)|SPC=Sub
-4	(⸗ꞽ)	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Hiero=No|Pron=SFP
-5	n	n	ADP	_	_	6	case	_	Hiero=𓈖|Status=Pron
-6	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl:arg	_	Hiero=𓎡|Pron=SFP
-7	ꞽr.t	ꞽr.t	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	Hiero=𓁹(:𓏏*𓏤)
-8	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc	7	nmod:poss	_	Hiero=𓅃|Name=God
+# visual-style 3 5 obl:arg	color:blue
+1	[č̣(ṭ)]	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=[𓆓]|ID=185810_Rest
+2	[mṭw]	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=[𓌃]|ID=78150_Rest
+3	(w)ṭ(.w)	wṭi̯	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=AbstRel|Tense=Past|VerbClass=3aeinf|VerbForm=Fin|Voice=Pass	1	ccomp:speech	_	Hiero=𓂧|ID=51510
+4	n	n	ADP	_	Case=Dat|StatPrep=Pron	5	case	_	Hiero=𓈖|ID=400055
+5	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Suffix|PronType=Prs	3	obl:arg	_	Hiero=𓎡|ID=10110
+6	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Sing	3	nsubj:pass	_	Hiero=𓁶|ID=170860
+7	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	6	nmod	_	Hiero=𓎡|ID=10110
+8	|	|	PUNCT	_	_	1	punct	_	ID=.|LINE=Punct
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 obl:arg	color:blue
+1	ꞽr.tn	ꞽri̯	VERB	_	Conjug=Suffix|Gender=Fem|Mood=Ind|Nominal=Yes|Number=Sing|SubForm=RelForm|Tense=Past|VerbClass=3aeinf|VerbForm=Fin	5	ccomp:obj	_	Hiero=𓇋𓁹𓍘𓈖|ID=28550
+2	Ḥr.w	Ḥr.w	PROPN	_	Gender=Masc|NameType=God	1	nsubj	_	Hiero=𓅃|ID=107500
+3	n	n	ADP	_	Case=Dat|StatPrep=Cons	4	case	_	Hiero=𓈖|ID=400055
+4	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc|NameType=God	1	obl:arg	_	Hiero=(𓊨:𓁹)|ID=49460
+5	ꞽr	ꞽri̯	VERB	_	Conjug=Suffix|Mood=Sub|VerbClass=3aeinf|VerbForm=Fin	0	root	_	Hiero=𓇋𓁹|ID=28550
+6	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	5	nsubj	_	Hiero=𓆑|ID=10050
+7	n	n	ADP	_	Case=Dat|StatPrep=Cons	8	case	_	Hiero=𓈖|ID=400055
+8	Ppy	Ppy	PROPN	_	Gender=Masc|NameType=King	5	obl:arg	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺|ID=400313
+9	Nfr	Nfr	PROPN	_	Gender=Masc|NameType=King|Number=Sing	8	appos	_	Hiero=𓄤|ID=550034
+10	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	9	flat:name	_	Hiero=𓂓|ID=162870
+11	Rꜥw	Rꜥw	PROPN	_	Gender=Masc|NameType=God	9	flat:name	_	Hiero=𓇳|ID=400015
 
 ~~~
 
@@ -41,33 +62,12 @@ The following 5 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 obl:arg	color:blue
-1	Č̣ḥw.tꞽ	Č̣ḥw.tꞽ	PROPN	_	Gender=Masc	2	vocative	_	Hiero=𓅝|Name=God
-2	ꞽ:sꞽ	sꞽ	VERB	_	Mood=Imp|Number=Sing|Prefix=Yodh|VerbClass=2lit|VerbForm=Fin	0	root	_	Hiero=𓇋𓊄
-3	ꞽč	ꞽči̯	VERB	_	Mood=Imp|Number=Sing|VerbClass=3aeinf|VerbForm=Fin	2	conj	_	Hiero=𓇋𓎁
-4	św	św	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	Hiero=𓇓𓅱|Pron=Dep
-5	n	n	ADP	_	_	4	case	_	Hiero=𓈖|Status=Cons
-6	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	obl:arg	_	Hiero=𓊨:𓁹|Name=God
-
-~~~
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 9 obl:arg	color:blue
-1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓
-2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	sp	sp	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓊗
-4	4	4	NUM	_	NumType=Card	3	nummod	_	Hiero=𓏽
-5	ḥtp	ḥtp	NOUN	_	Gender=Masc|Number=Sing	1	ccomp	_	Hiero=𓊵
-6	č̣i̯	rč̣i̯	VERB	_	VerbClass=Anom	5	dep	_	Hiero=𓏙
-7	nsw	nsw	NOUN	_	Gender=Masc|Number=Sing	6	dep	_	Hiero=𓇓𓏏
-8	n	n	ADP	_	_	9	case	_	Hiero=𓈖|Status=Cons
-9	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	6	obl:arg	_	Hiero=𓂓
-10	n(.ꞽ)	n	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	9	amod	_	Hiero=𓈖|Nisba=DePrep
-11	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	10	obl	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
+1	śwt	śwt	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Ind|PronType=Prs	3	nsubj	_	Hiero=𓇓𓅱𓏏|ID=130830
+2	wnn.t	wnn.t	PART	_	PartType=Emp	1	nmod	_	Hiero=(𓇬:𓈖:𓈖)𓏏|ID=550416
+3	(r)č̣i̯	rč̣i̯	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbClass=Anom|VerbForm=Part|Voice=Act	0	root	_	Hiero=𓏙|ID=872594
+4	tʾ	tʾ	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Hiero=(𓏏:𓏐)(𓏊:𓏒)|Hierocl=𓏐(𓏊:𓏒)|ID=168810
+5	n	n	ADP	_	Case=Dat|StatPrep=Cons	6	case	_	Hiero=𓈖|ID=400055
+6	n.t(ꞽ)w	n.t	NOUN	_	Gender=Masc|Nisba=DeNom|Number=Plur	3	obl:arg	_	Hiero=(𓈖:𓏏)𓅆𓅆𓅆|ID=89890
 
 ~~~
 

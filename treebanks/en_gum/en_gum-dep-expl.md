@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-716 nodes (0%) are attached to their parents as `expl`.
+815 nodes (0%) are attached to their parents as `expl`.
 
-691 instances of `expl` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.58379888268156.
+784 instances of `expl` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.61717791411043.
 
-The following 8 pairs of parts of speech are connected with `expl`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (541; 76% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (125; 17% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (38; 5% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `expl`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (607; 74% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (148; 18% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (47; 6% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -48,8 +48,8 @@ The following 8 pairs of parts of speech are connected with `expl`: <tt><a href=
 8	overalls	overall	NOUN	NNS	Number=Plur	5	obj	5:obj	Entity=8)|MSeg=over-all-s
 9	alone	alone	ADV	RB	Degree=Pos	5	advmod	5:advmod	Entity=21)|MSeg=a-lone|SpaceAfter=No
 10	,	,	PUNCT	,	_	9	punct	9:punct	_
-11	especially	especially	ADV	RB	Degree=Pos	12	advmod	12:advmod	MSeg=especial-ly|PDTB=AltLex:Expansion.Level-of-detail.Arg2-as-detail:especially:136:117-125:126-135,137-139
-12	men	man	NOUN	NNS	Number=Plur	8	appos	8:appos	Entity=(22-person-new-nnnnn-cf4-1-sgl
+11	especially	especially	ADV	RB	Degree=Pos	12	advmod	12:advmod	MSeg=e-special-ly|PDTB=AltLex:Expansion.Level-of-detail.Arg2-as-detail:especially:136:117-125:126-135,137-139
+12	men	man	NOUN	NNS	Number=Plur	8	appos	8:appos	Bridge=8<22:comparison-sense;set-subset|Entity=(22-person-acc:inf-nnnnn-cf4-1-sgl
 13	’s	's	PART	POS	_	12	case	12:case	Entity=22)
 14	.	.	PUNCT	.	_	3	punct	3:punct	_
 
@@ -72,7 +72,7 @@ The following 8 pairs of parts of speech are connected with `expl`: <tt><a href=
 8	that	that	PRON	WDT	PronType=Rel	9	nsubj	5:ref|9:nsubj	_
 9	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl:relcl	5:advcl:relcl	Cxn=Resultative|CxnElt=9:Resultative.Predicate|MSeg=make-s
 10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	9:obj|11:nsubj:xsubj	Entity=(128-event-giv:act-nnnnn-cf1*-1-ana)
-11	wrongful	wrongful	ADJ	JJ	Degree=Pos	9	xcomp	9:xcomp	CxnElt=9:Resultative.Result|SpaceAfter=No
+11	wrongful	wrongful	ADJ	JJ	Degree=Pos	9	xcomp	9:xcomp	CxnElt=9:Resultative.Result|MSeg=wrong-ful|SpaceAfter=No
 12	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~

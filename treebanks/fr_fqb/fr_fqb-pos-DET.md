@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-FQB: POS Tags: `DET`
 
-There are 12 `DET` lemmas (0%), 34 `DET` types (1%) and 3831 `DET` tokens (16%).
+There are 11 `DET` lemmas (0%), 34 `DET` types (1%) and 3832 `DET` tokens (16%).
 Out of 16 observed tags, the rank of `DET` is: 10 in number of lemmas, 9 in number of types and 2 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>le, quel, un, son, ce, _, chaque, certain, du, plusieurs</em>
+The 10 most frequent `DET` lemmas: <em>le, quel, un, son, ce, chaque, certains, du, plusieurs, quelque</em>
 
 The 10 most frequent `DET` types:  <em>le, la, l', les, quelle, quel, un, une, des, mon</em>
 
-The 10 most frequent ambiguous lemmas: <em>le</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 2771, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 10), <em>quel</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 524, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 504), <em>un</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 373, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 5), <em>son</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 141, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 3), <em>ce</em> (<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 157, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 7), <em>_</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 30, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 6, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1), <em>du</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 3, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 1), <em>tout</em> (<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 1, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>quel</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 524, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 504, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2), <em>un</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 374, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 5), <em>son</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 141, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 3), <em>ce</em> (<tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 157, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 7), <em>tout</em> (<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 1, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>le</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 1161, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 5), <em>l'</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 469, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 3), <em>les</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 367, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2), <em>quelle</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 208, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 1), <em>quel</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 92, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 1), <em>un</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 201, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2), <em>une</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 113, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2), <em>son</em> (<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 17, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 3), <em>quelles</em> (<tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 2), <em>de</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 1372, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 8)
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>le</em> (<tt><a href="fr_fqb-pos-DET.
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.833333 (the average of all parts of speech is 1.165243).
+The form / lemma ratio of `DET` is 3.090909 (the average of all parts of speech is 1.169482).
 
 The 1st highest number of forms (11) was observed with the lemma “son”: <em>leur, leurs, ma, mes, mon, notre, sa, ses, son, vos, votre</em>.
 
@@ -59,22 +59,22 @@ The 2nd highest number of forms (5) was observed with the lemma “un”: <em>d'
 
 The 3rd highest number of forms (4) was observed with the lemma “ce”: <em>ce, ces, cet, cette</em>.
 
-`DET` occurs with 6 features: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt> (3831; 100% instances), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt> (3830; 100% instances), <tt><a href="fr_fqb-feat-Definite.html">Definite</a></tt> (3151; 82% instances), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt> (2815; 73% instances), <tt><a href="fr_fqb-feat-Poss.html">Poss</a></tt> (141; 4% instances), <tt><a href="fr_fqb-feat-ExtPos.html">ExtPos</a></tt> (16; 0% instances)
+`DET` occurs with 6 features: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt> (3832; 100% instances), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt> (3831; 100% instances), <tt><a href="fr_fqb-feat-Definite.html">Definite</a></tt> (3152; 82% instances), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt> (2816; 73% instances), <tt><a href="fr_fqb-feat-Poss.html">Poss</a></tt> (141; 4% instances), <tt><a href="fr_fqb-feat-ExtPos.html">ExtPos</a></tt> (16; 0% instances)
 
 `DET` occurs with 13 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=PRON`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`
 
-`DET` occurs with 24 feature combinations.
+`DET` occurs with 26 feature combinations.
 The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (1169 tokens).
 Examples: <em>le, les</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 6 different relations: <tt><a href="fr_fqb-dep-det.html">det</a></tt> (3798; 99% instances), <tt><a href="fr_fqb-dep-fixed.html">fixed</a></tt> (16; 0% instances), <tt><a href="fr_fqb-dep-obj.html">obj</a></tt> (14; 0% instances), <tt><a href="fr_fqb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="fr_fqb-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
+`DET` nodes are attached to their parents using 6 different relations: <tt><a href="fr_fqb-dep-det.html">det</a></tt> (3808; 99% instances), <tt><a href="fr_fqb-dep-obj.html">obj</a></tt> (14; 0% instances), <tt><a href="fr_fqb-dep-fixed.html">fixed</a></tt> (7; 0% instances), <tt><a href="fr_fqb-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="fr_fqb-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances)
 
-Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3190; 83% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (538; 14% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (53; 1% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (16; 0% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3200; 84% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (538; 14% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (53; 1% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-3813 (100%) `DET` nodes are leaves.
+3814 (100%) `DET` nodes are leaves.
 
 2 (0%) `DET` nodes have one child.
 

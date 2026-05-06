@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-517 nodes (13%) are attached to their parents as `punct`.
+665 nodes (12%) are attached to their parents as `punct`.
 
-263 instances of `punct` (51%) are right-to-left (child precedes parent).
-Average distance between parent and child is 8.1779497098646.
+341 instances of `punct` (51%) are right-to-left (child precedes parent).
+Average distance between parent and child is 8.41353383458647.
 
-The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (272; 53% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (128; 25% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (76; 15% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (20; 4% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (10; 2% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-PART.html">PART</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (375; 56% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (143; 22% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (87; 13% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (21; 3% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (18; 3% instances), <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (11; 2% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (6; 1% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-PART.html">PART</a></tt>-<tt><a href="ps_sikaram-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

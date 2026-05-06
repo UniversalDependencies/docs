@@ -11,23 +11,23 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="sd_isra-feat-Person.html">Person</a></tt>, <tt><a href="sd_isra-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="sd_isra-feat-Person-subj.html">Person[subj]</a></tt>.
 
-8613 tokens (9%) have a non-empty value of `Person`.
-896 types (9%) occur at least once with a non-empty value of `Person`.
-397 lemmas (8%) occur at least once with a non-empty value of `Person`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (4307; 5% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1961; 2% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1539; 2% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt> (723; 1% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (72; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (4; 0% instances).
+8542 tokens (9%) have a non-empty value of `Person`.
+885 types (9%) occur at least once with a non-empty value of `Person`.
+389 lemmas (8%) occur at least once with a non-empty value of `Person`.
+The feature is used with 7 part-of-speech tags: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (4305; 5% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1903; 2% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1539; 2% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt> (712; 1% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt> (72; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (7; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (4; 0% instances).
 
 ### `VERB`
 
-4307 <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> tokens (33% of all `VERB` tokens) have a non-empty value of `Person`.
+4305 <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> tokens (33% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sd_isra-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4303; 100%), <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3787; 88%), <tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3339; 78%), <tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2379; 55%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2259; 52%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="sd_isra-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4301; 100%), <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3785; 88%), <tt><a href="sd_isra-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3337; 78%), <tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (2377; 55%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2259; 52%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (307; 7% of non-empty `Person`): <em>ڪر, ڪريان, وڃان, ڪندس, هل, ڪرين, اچان, چيائين, ڪنداسين, ويندس</em>
 * `2` (55; 1% of non-empty `Person`): <em>ڪر, ٻيٺاهين, اچ, وٺ, ڏس, ڏي, کڻ, ايندينءَ, اچجانءِ, بخش</em>
-* `3` (3945; 92% of non-empty `Person`): <em>ويو, ڪيو, وڃي, ڪئي, ڏنو, ڇڏيو, آيو, لڳو, رهيو, رهي</em>
-* `EMPTY` (8786): <em>ڪري, چيو, ڪرڻ, ويا, ڪيو, اچي, کڻي, وٺي, ڪندي, ٿيڻ</em>
+* `3` (3943; 92% of non-empty `Person`): <em>ويو, ڪيو, وڃي, ڪئي, ڏنو, ڇڏيو, آيو, لڳو, رهيو, رهي</em>
+* `EMPTY` (8766): <em>ڪري, چيو, ڪرڻ, ويا, ڪيو, اچي, کڻي, وٺي, ڪندي, ٿيڻ</em>
 
 <table>
   <tr><th>Paradigm <i>ڪر</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -50,16 +50,16 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-1961 <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> tokens (77% of all `PRON` tokens) have a non-empty value of `Person`.
+1903 <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> tokens (81% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1384; 71%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1104; 56%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="sd_isra-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1901; 100%), <tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1365; 72%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1059; 56%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (1257; 64% of non-empty `Person`): <em>پنهنجي, مون, آءٌ, منهنجي, پاڻ, اوهان, پنهنجو, مان, پنهنجا, پنهنجن</em>
-* `2` (364; 19% of non-empty `Person`): <em>تون, توکي, تنهنجي, توهان, تو, تنهنجو, جيڪي, اوهين, پنهنجو, تنهنجا</em>
-* `3` (340; 17% of non-empty `Person`): <em>جن, سندس, اوهان, سندن, انهن, تنهن, توهان, پاڻ, تن, جنھن</em>
-* `EMPTY` (584): <em>ڇا, ائين, جيڪي, سو, پاڻ, ڇو, ڪير, جهڙي, جهڙو, ڪهڙو</em>
+* `1` (1252; 66% of non-empty `Person`): <em>پنهنجي, مون, آءٌ, منهنجي, پاڻ, اوهان, پنهنجو, مان, پنهنجا, پنهنجن</em>
+* `2` (344; 18% of non-empty `Person`): <em>تون, توکي, تنهنجي, توهان, تو, تنهنجو, اوهين, پنهنجو, تنهنجا, کين</em>
+* `3` (307; 16% of non-empty `Person`): <em>جن, سندس, اوهان, سندن, تنهن, توهان, پاڻ, تن, جنھن, ھو</em>
+* `EMPTY` (438): <em>ڇا, ائين, سو, پاڻ, ڇو, ڪير, ڪهڙو, تنهن, ڪيئن, جهڙو</em>
 
 <table>
   <tr><th>Paradigm <i>پنهنجو</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -135,21 +135,19 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `DET`
 
-723 <tt><a href="sd_isra-pos-DET.html">DET</a></tt> tokens (16% of all `DET` tokens) have a non-empty value of `Person`.
+712 <tt><a href="sd_isra-pos-DET.html">DET</a></tt> tokens (16% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="sd_isra-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (723; 100%), <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt> (713; 99%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (711; 98%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="sd_isra-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (712; 100%), <tt><a href="sd_isra-feat-Case.html">Case</a></tt><tt>=Acc</tt> (696; 98%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (694; 97%).
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (298; 41% of non-empty `Person`): <em>اسان, هنن, اُها, انهيءَ</em>
-* `3` (425; 59% of non-empty `Person`): <em>جنهن, هن, هنن, ان, ھن, هو, اُهي, ڪنهن, انهن, انهي</em>
-* `EMPTY` (3676): <em>هن, ان, اهو, انهن, ڪنهن, هو, انهيءَ, اها, هر, اهي</em>
+* `1` (298; 42% of non-empty `Person`): <em>اسان, هنن, اُها, انهيءَ</em>
+* `3` (414; 58% of non-empty `Person`): <em>جنهن, هن, هنن, ھن, هو, اهائي, اهوئي, هـُن, ڪنهن, انهيءَ</em>
+* `EMPTY` (3842): <em>هن, ان, اهو, انهن, ڪنهن, هو, انهيءَ, اها, هر, اهي</em>
 
 <table>
   <tr><th>Paradigm <i>ان</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ان</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>انهيءَ</em></td><td><em>ان, انهي, انهيءَ</em></td></tr>
-  <tr><td><tt><tt><a href="sd_isra-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>انهن</em></td></tr>
+  <tr><td><tt></tt></td><td><em>انهيءَ</em></td><td><em>انهيءَ</em></td></tr>
 </table>
 
 ### `ADP`
@@ -161,7 +159,7 @@ The most frequent other feature values with which `ADP` and `Person` co-occurred
 `ADP` tokens may have the following values of `Person`:
 
 * `3` (72; 100% of non-empty `Person`): <em>کيس, کين, کانئس, ساڻس, ساڻن, منجهانئس, ڏانهس, کائونئس, کانئن</em>
-* `EMPTY` (14233): <em>جي, ۾, کي, جو, تي, سان, کان, لاءِ, جا, مان</em>
+* `EMPTY` (14282): <em>جي, ۾, کي, جو, تي, سان, کان, لاءِ, جا, مان</em>
 
 ### `NOUN`
 
@@ -172,7 +170,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 `NOUN` tokens may have the following values of `Person`:
 
 * `3` (7; 100% of non-empty `Person`): <em>مڙسس, هاٿي, کيس</em>
-* `EMPTY` (26072): <em>شينهن, ملڪ, وقت, گدڙ, ڳالهه, ڏينهن, ماڻهو, پاڻي, وزير, حڪومت</em>
+* `EMPTY` (26073): <em>شينهن, ملڪ, وقت, گدڙ, ڳالهه, ڏينهن, ماڻهو, پاڻي, وزير, حڪومت</em>
 
 ### `ADV`
 
@@ -181,7 +179,7 @@ The most frequent other feature values with which `NOUN` and `Person` co-occurre
 `ADV` tokens may have the following values of `Person`:
 
 * `3` (4; 100% of non-empty `Person`): <em>مٿن, مٿس, ويجھس</em>
-* `EMPTY` (3114): <em>جڏهن, وري, اتي, هاڻي, پوءِ, اڄ, جيئن, جاري, ڏانهن, تمام</em>
+* `EMPTY` (3148): <em>جڏهن, وري, اتي, هاڻي, پوءِ, اڄ, جيئن, جاري, ڏانهن, تمام</em>
 
 ## Relations with Agreement in `Person`
 

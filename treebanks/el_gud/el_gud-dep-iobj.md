@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-369 nodes (1%) are attached to their parents as `iobj`.
+378 nodes (1%) are attached to their parents as `iobj`.
 
-354 instances of `iobj` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12737127371274.
+362 instances of `iobj` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.12433862433862.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (359; 97% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (368; 97% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (9; 2% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,12 +22,12 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 iobj	color:blue
-1	«	«	PUNCT	_	_	2	punct	_	PunctType=Quot
+1	«	«	PUNCT	_	_	2	punct	_	PunctType=Quot|SpaceAfter=No
 2	Έλα	έρχομαι	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	να	να	SCONJ	_	_	6	mark	_	_
 4	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
 5	τα	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
-6	πεις	λέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	xcomp	_	_
+6	πεις	λέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	xcomp	_	SpaceAfter=No
 7	»	»	PUNCT	_	_	2	punct	_	PunctType=Quot|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	PunctType=Peri
 

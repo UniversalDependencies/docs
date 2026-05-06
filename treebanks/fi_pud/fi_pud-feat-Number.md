@@ -220,7 +220,7 @@ The most frequent other feature values with which `SYM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="fi_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (822; 96%),
-<tt>VERB --[<tt><a href="fi_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (623; 62%),
+<tt>VERB --[<tt><a href="fi_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (625; 62%),
 <tt>VERB --[<tt><a href="fi_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (442; 89%),
 <tt>VERB --[<tt><a href="fi_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (385; 54%),
 <tt>PROPN --[<tt><a href="fi_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (361; 99%),

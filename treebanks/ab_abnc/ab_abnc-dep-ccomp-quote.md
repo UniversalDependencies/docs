@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Abkhaz-AbNC: Relations: `ccomp:quote`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-ccomp.html">ccomp</a></tt>.
 There are also 6 other language-specific subtypes of `ccomp`: <tt><a href="ab_abnc-dep-ccomp-iobj.html">ccomp:iobj</a></tt>, <tt><a href="ab_abnc-dep-ccomp-lo.html">ccomp:lo</a></tt>, <tt><a href="ab_abnc-dep-ccomp-obj.html">ccomp:obj</a></tt>, <tt><a href="ab_abnc-dep-ccomp-poss.html">ccomp:poss</a></tt>, <tt><a href="ab_abnc-dep-ccomp-purp.html">ccomp:purp</a></tt>, <tt><a href="ab_abnc-dep-ccomp-ro.html">ccomp:ro</a></tt>.
 
-139 nodes (1%) are attached to their parents as `ccomp:quote`.
+174 nodes (1%) are attached to their parents as `ccomp:quote`.
 
-132 instances of `ccomp:quote` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.71223021582734.
+166 instances of `ccomp:quote` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.66091954022988.
 
-The following 6 pairs of parts of speech are connected with `ccomp:quote`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (130; 94% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `ccomp:quote`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (159; 91% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (8; 5% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (4; 2% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -39,23 +39,17 @@ The following 6 pairs of parts of speech are connected with `ccomp:quote`: <tt><
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 6 ccomp:quote	color:blue
-1	Иабыкәу	иабы́кәу	VERB	Pron_Int_NH_Pred_NonFin_Where_Q_S:3	Animacy=Nhum|Dyn=No|Person[subj]=3|RelType=Loc|VerbForm=NonFin	3	advcl:quote	_	LMSeg:иабы́кәу
-2	ҳәа	ҳәа́	PART	Prt_Quote	_	1	mark	_	LMSeg:ҳәа́
-3	слазҵааит	а́зҵаара	VERB	V_Dyn_Intr_Fin_Aor_S:1Sg_IO:3SgF	Dyn=Yes|Gender[io]=Fem|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=1|Subcat=Intr|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а́зҵаа-ра|SpaceAfter=No
-4	:	:	PUNCT	Punct_Colon	_	3	punct	_	LMSeg::
-5	–	–	PUNCT	Punct_Dash	_	6	punct	_	LMSeg:–
-6	Абааҭа	а-бааҭа́	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	11	ccomp:quote	_	LMSeg:а-бааҭа́|SpaceAfter=No
-7	,	,	PUNCT	Punct_Comma	_	6	punct	_	LMSeg:,
-8	нан	на́н	NOUN	Noun_H_F_Sg	Animacy=Hum|Number=Sing	6	vocative	_	LMSeg:на́н|SpaceAfter=No
-9	,	,	PUNCT	Punct_Comma	_	11	punct	_	LMSeg:,
-10	–	–	PUNCT	Punct_Dash	_	11	punct	_	LMSeg:–
-11	лҳәеит	а-ҳәара́	VERB	V_Dyn_Tr_Fin_Aor_S:3SgF_DO:3_DO:Ad	Dyn=Yes|Gender[subj]=Fem|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Aor|VerbForm=Fin	3	parataxis	_	LMSeg:а-ҳәа-ра́|SpaceAfter=No
-12	.	.	PUNCT	Punct_Period	_	11	punct	_	LMSeg:.
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 ccomp:quote	color:blue
+1	Алахша	а-лахша́	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	5	vocative	_	LMSeg:а-лахша́|SpaceAfter=No
+2	,	,	PUNCT	Punct_Comma	_	5	punct	_	LMSeg:,
+3	унапы	а-напы́	NOUN	Noun_NH_Sg_Poss:2SgM	Animacy=Nhum|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	obj	_	LMSeg:а-напы́
+4	анҵа	анҵа́	NOUN	Noun_NH_Sg_[Det]	Animacy=Nhum|Number=Sing	5	ccomp:quote	_	LMSeg:анҵа́
+5	сҳәеит	а-ҳәара́	VERB	V_Dyn_Tr_Fin_Aor_S:1Sg_DO:3_DO:Ad	Dyn=Yes|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а-ҳәа-ра́|SpaceAfter=No
+6	!	!	PUNCT	Punct_ExclPoint	_	5	punct	_	LMSeg:!
 
 ~~~
 
