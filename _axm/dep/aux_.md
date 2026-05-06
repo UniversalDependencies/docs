@@ -14,10 +14,12 @@ Besides `aux`, the forms of _եմ_/_em_ and  _լինիմ_/_linim_ may also act a
 
 Note that in Middle Armenian the auxiliary verb _տալ_ used to construct causative constructions is labeled [aux:caus]().
 
-~~~ sdparse
-էգ իժ է խայթել \n a female viper has bitten
-aux(խայթել, է)
-aux(bitten, has)
+~~~ conllu
+# visual-style 4 3 aux color:blue
+1	էգ	էգ	ADJ	_	Degree=Pos	2	amod	_	_
+2	իժ	իժ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	_
+3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	խայթել	խայթել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	_
 ~~~
 
 ~~~ sdparse
