@@ -8,7 +8,7 @@ udver: '2'
 A relative clause modifier of an noun is a relative clause modifying the noun. The relation points from the noun that is modified to the head of the relative clause.
 
 ~~~ conllu
-# visual-style 4 7 acl:relcl color:blue
+# visual-style 4 8 acl:relcl color:blue
 1	Գնաց	գնալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root  _  _
 2	տեսանել	տեսանել	VERB	_	Polarity=Pos|Subcat=Tran|Style=Arch|VerbForm=Inf|Voice=Act	1	xcomp  _  _
 3-4	զակնատս  _	_  _  _  _  _  _  _
