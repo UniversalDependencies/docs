@@ -17,8 +17,12 @@ the relation is [det]() instead of `amod`.
 4	խայթել	խայթել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No|TokenRange=8:14
 ~~~
 
-~~~ sdparse
-լվա զերեսդ հով ջրով \n lva zeresd hov ǰrov \n "wash your face with cool water"
-amod(ջրով, հով)  
-amod(water, cool)  
+~~~ conllu
+# visual-style 2 1 amod color:blue
+1	լվա	լվանալ	VERB	_	Aspect=Prosp|Mood=Imp|Number=Sing|Person=2|Style=Var|Subcat=Tran|VerbForm=Fin|Voice=Act	0	root	_	_
+2-3	զերեսդ	_	_	_	_	_	_	_	_
+2	զ	զ	ADP	_	AdpType=Prep	3	case	_	_
+3	երեսդ	երես	NOUN	_	Animacy=Nhum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	1	obj	_	_
+4	հով	հով	ADJ	_	Degree=Pos	5	amod	_	_
+5	ջրով	ջուր	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	1	obl	_	_
 ~~~
