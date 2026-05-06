@@ -13,7 +13,7 @@ clause, etc. The dependent must be clausal (or else it is an [advmod]()) and the
 # visual-style 8 4 advcl color:blue
 1	Եւ	եւ	CCONJ	_	_	8	cc	_	_
 2	յորժամ	յորժամ	ADV	_	ExtPos=ADV	4	advmod	_	_
-3	որ	որ	որ	PART	_	_	2	fixed	_	_
+3	որ	որ	PART	_	_	2	fixed	_	_
 4	օթիս	օթել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=2|Polarity=Pos|Style=Var|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	8	advcl	_	_
 5	ի	ի	ADP	_	AdpType=Prep	6	case	_	_
 6	ճանապարհն	ճանապարհ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	4	obl	_	SpaceAfter=No
