@@ -17,17 +17,11 @@ Total 1 values: gd_arcosg (1)
 
 * `)=null`: gd_arcosg (1)
 
-## **
+## ,Entity
 
-Total 1 values: fr_partut (1)
+Total 1 values: or_odtb (1)
 
-* `**=true`: fr_partut (1)
-
-## ****
-
-Total 1 values: fr_partut (1)
-
-* `****=true`: fr_partut (1)
+* `,Entity=e98)Translit=dhanoā`: or_odtb (1)
 
 ## 3-NMLZ-do-
 
@@ -139,41 +133,23 @@ Total 1 values: gun_thomas (1)
 
 * `A1.SG-COM-TRANS-plant-=DIM`: gun_thomas (1)
 
-## A3-CAUS-tear-
-
-Total 1 values: gun_dooley (1)
-
-* `A3-CAUS-tear-=COMPL`: gun_dooley (1)
-
-## A3-COM-get.out-
-
-Total 1 values: gun_dooley (1)
-
-* `A3-COM-get.out-=DIM`: gun_dooley (1)
-
 ## A3-REFL-CAUS-small-
 
 Total 1 values: gun_thomas (2)
 
 * `A3-REFL-CAUS-small-=DIM-COMPL`: gun_thomas (2)
 
-## A3-look-
+## Accomplished
 
-Total 1 values: gun_dooley (1)
+Total 1 values: say_autogramm (700)
 
-* `A3-look-=COMPL`: gun_dooley (1)
+* `Accomplished=Yes`: say_autogramm (700)
 
-## ADJ
+## AdpType
 
-Total 1 values: egy_ujaen (302)
+Total 1 values: ro_nonstandard (59)
 
-* `ADJ=Yes`: egy_ujaen (302)
-
-## ADP
-
-Total 1 values: egy_ujaen (90)
-
-* `ADP=Yes`: egy_ujaen (90)
+* `AdpType=Prep`: ro_nonstandard (59)
 
 ## AdvType
 
@@ -196,15 +172,9 @@ Total 2 values: arh_chibergis (114)
 * `AgentShift=no`: arh_chibergis (37)
 * `AgentShift=yes`: arh_chibergis (77)
 
-## Alig:nEnd
-
-Total 1 values: say_autogramm (1)
-
-* `Alig:nEnd=114383`: say_autogramm (1)
-
 ## AlignBegin
 
-Total 167257 values: arh_chibergis (5282), bej_autogramm (11944), fr_parisstories (12886), fr_rhapsodie (44242), gya_autogramm (2692), ha_northernautogramm (4158), ha_southernautogramm (14392), pay_chibergis (4274), pcm_nsc (140837), sab_chibergis (2713), say_autogramm (20653), yrk_tundra (1271)
+Total 167243 values: arh_chibergis (5282), bej_autogramm (11941), fr_parisstories (12886), fr_rhapsodie (44234), gya_autogramm (2692), ha_northernautogramm (4156), ha_southernautogramm (14389), pay_chibergis (4274), pcm_nsc (140837), sab_chibergis (2713), say_autogramm (20723), yrk_tundra (1271)
 
 * `AlignBegin=0`: bej_autogramm (17), fr_parisstories (12), fr_rhapsodie (180), pay_chibergis (1), say_autogramm (2), yrk_tundra (5)
 * `AlignBegin=1000`: pcm_nsc (1), say_autogramm (1)
@@ -260,7 +230,7 @@ Total 167257 values: arh_chibergis (5282), bej_autogramm (11944), fr_parisstorie
 
 ## AlignEnd
 
-Total 164364 values: arh_chibergis (5282), bej_autogramm (11944), fr_parisstories (12886), fr_rhapsodie (44236), gya_autogramm (2692), ha_northernautogramm (4158), ha_southernautogramm (14392), pay_chibergis (4274), pcm_nsc (140837), sab_chibergis (2713), say_autogramm (20705), yrk_tundra (1271)
+Total 164357 values: arh_chibergis (5282), bej_autogramm (11941), fr_parisstories (12886), fr_rhapsodie (44228), gya_autogramm (2692), ha_northernautogramm (4156), ha_southernautogramm (14389), pay_chibergis (4274), pcm_nsc (140837), sab_chibergis (2713), say_autogramm (20771), yrk_tundra (1271)
 
 * `AlignEnd=0`: fr_rhapsodie (192)
 * `AlignEnd=1000`: say_autogramm (2)
@@ -323,7 +293,7 @@ Total 2 values: yrl_complin (4)
 
 ## Alt
 
-Total 320 values: fi_ftb (5807)
+Total 321 values: fi_ftb (6390)
 
 * `Alt=0_root`: fi_ftb (172)
 * `Alt=10_advcl`: fi_ftb (1)
@@ -461,10 +431,10 @@ Total 560 values: ess_sli (2568)
 
 ## Animacy[obj]
 
-Total 2 values: nhi_itml (59)
+Total 2 values: nhi_mesotree (59)
 
-* `Animacy[obj]=Hum`: nhi_itml (3)
-* `Animacy[obj]=Nhum`: nhi_itml (56)
+* `Animacy[obj]=Hum`: nhi_mesotree (3)
+* `Animacy[obj]=Nhum`: nhi_mesotree (56)
 
 ## Animacy[psor]
 
@@ -491,15 +461,9 @@ Total 1 values: gd_arcosg (403)
 
 ## Anonymized
 
-Total 1 values: it_kiparlaforest (84)
+Total 1 values: it_kiparlaforest (86)
 
-* `Anonymized=Yes`: it_kiparlaforest (84)
-
-## Anonymyzed
-
-Total 1 values: it_kiparlaforest (2)
-
-* `Anonymyzed=Yes`: it_kiparlaforest (2)
+* `Anonymized=Yes`: it_kiparlaforest (86)
 
 ## Antec
 
@@ -571,7 +535,7 @@ Total 1764 values: et_edt (57438)
 
 ## ArgTem
 
-Total 114 values: ca_ancora (99808), es_ancora (127180)
+Total 114 values: ca_ancora (99809), es_ancora (127179)
 
 * `ArgTem=:atr`: ca_ancora (1)
 * `ArgTem=:tem`: es_ancora (2)
@@ -591,7 +555,7 @@ Total 114 values: ca_ancora (99808), es_ancora (127180)
 * `ArgTem=arg1:cot`: ca_ancora (10), es_ancora (10)
 * `ArgTem=arg1:ext`: ca_ancora (42), es_ancora (47)
 * `ArgTem=arg1:loc`: ca_ancora (56), es_ancora (102)
-* `ArgTem=arg1:pat`: ca_ancora (23782), es_ancora (29528)
+* `ArgTem=arg1:pat`: ca_ancora (23783), es_ancora (29528)
 * `ArgTem=arg1:pat,arg0:agt`: es_ancora (26)
 * `ArgTem=arg1:pat,arg0:cau`: es_ancora (7)
 * `ArgTem=arg1:pat,arg1:pat`: es_ancora (190)
@@ -635,59 +599,57 @@ Total 3 values: arh_chibergis (38)
 
 ## AttachTo
 
-Total 344 values: fr_parisstories (10), fr_rhapsodie (307), ha_southernautogramm (40), say_autogramm (23)
+Total 49 values: ha_southernautogramm (40), say_autogramm (23)
 
-* `AttachTo=10@Rhap_D0002-96`: fr_rhapsodie (1)
-* `AttachTo=10@Rhap_D0004-8`: fr_rhapsodie (1)
-* `AttachTo=10@Rhap_D2007-59`: fr_rhapsodie (1)
-* `AttachTo=11@Rhap_D0002-96`: fr_rhapsodie (1)
-* `AttachTo=11@Rhap_D0004-101`: fr_rhapsodie (1)
-* `AttachTo=11@Rhap_D0004-49`: fr_rhapsodie (1)
-* `AttachTo=11@Rhap_D0004-68`: fr_rhapsodie (1)
-* `AttachTo=11@Rhap_D2003-110`: fr_rhapsodie (1)
-* `AttachTo=11@Rhap_D2007-125`: fr_rhapsodie (1)
-* `AttachTo=11@Rhap_D2007-89`: fr_rhapsodie (1)
-* `AttachTo=11@Rhap_D2008-116`: fr_rhapsodie (1)
-* `AttachTo=11@Rhap_D2010-63`: fr_rhapsodie (1)
-* `AttachTo=11@Rhap_M0023-6`: fr_rhapsodie (1)
-* `AttachTo=12@Rhap_D0003-3`: fr_rhapsodie (1)
-* `AttachTo=12@Rhap_D0004-72`: fr_rhapsodie (2)
-* `AttachTo=12@Rhap_D0006-83`: fr_rhapsodie (1)
-* `AttachTo=12@Rhap_D2002-43`: fr_rhapsodie (1)
-* `AttachTo=12@Rhap_D2011-66`: fr_rhapsodie (1)
-* `AttachTo=13@Rhap_D0001-30`: fr_rhapsodie (1)
-* `AttachTo=13@Rhap_D0001-36`: fr_rhapsodie (1)
-* `AttachTo=13@Rhap_D0002-31`: fr_rhapsodie (1)
-* `AttachTo=13@Rhap_D0004-89`: fr_rhapsodie (1)
-* `AttachTo=13@Rhap_D0006-28`: fr_rhapsodie (2)
-* `AttachTo=13@Rhap_D0006-68`: fr_rhapsodie (1)
-* `AttachTo=13@Rhap_D0020-9`: fr_rhapsodie (1)
-* `AttachTo=13@Rhap_D1001-50`: fr_rhapsodie (1)
-* `AttachTo=13@Rhap_D2003-80`: fr_rhapsodie (1)
-* `AttachTo=14@Rhap_D0001-22`: fr_rhapsodie (2)
-* `AttachTo=14@Rhap_D0004-100`: fr_rhapsodie (1)
-* `AttachTo=14@Rhap_D0004-46`: fr_rhapsodie (1)
-* `AttachTo=14@Rhap_D0006-78`: fr_rhapsodie (1)
-* `AttachTo=14@Rhap_D1001-38`: fr_rhapsodie (1)
-* `AttachTo=14@Rhap_D2007-72`: fr_rhapsodie (1)
-* `AttachTo=14@Rhap_D2012-44`: fr_rhapsodie (1)
-* `AttachTo=15@Rhap_D0004-61`: fr_rhapsodie (1)
-* `AttachTo=15@Rhap_D0008-10`: fr_rhapsodie (1)
-* `AttachTo=15@Rhap_D2007-10`: fr_rhapsodie (1)
-* `AttachTo=15@Rhap_D2010-108`: fr_rhapsodie (1)
-* `AttachTo=16@Rhap_D0001-132`: fr_rhapsodie (1)
-* `AttachTo=16@Rhap_D0002-106`: fr_rhapsodie (1)
-* `AttachTo=16@Rhap_D1001-18`: fr_rhapsodie (1)
-* `AttachTo=16@Rhap_D2010-128`: fr_rhapsodie (1)
-* `AttachTo=16@Rhap_D2010-25`: fr_rhapsodie (1)
-* `AttachTo=17@Rhap_D0001-84`: fr_rhapsodie (1)
-* `AttachTo=17@Rhap_D0002-109`: fr_rhapsodie (1)
-* `AttachTo=17@Rhap_D0004-80`: fr_rhapsodie (1)
-* `AttachTo=17@Rhap_D0006-144`: fr_rhapsodie (1)
-* `AttachTo=17@Rhap_D0009-89`: fr_rhapsodie (1)
-* `AttachTo=17@Rhap_D2001-146`: fr_rhapsodie (1)
-* `AttachTo=18@Rhap_D0001-6`: fr_rhapsodie (1)
-* …
+* `AttachTo=9@SAY_BC_CONV_03_172-173`: say_autogramm (1)
+* `AttachTo=HAUZ_BC_CONV_01_SP2_058-058`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_02_003-003`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_02_380-380`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_02_384-384`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_04_0155-0156`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_04_0411-0411`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_04_0660-0660`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_04_0801-0801`: ha_southernautogramm (4)
+* `AttachTo=HAUZ_BC_CONV_04_0808-0809`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_04_0891-0895`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_04_0910-0913`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_04_0954-0954`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_04_1146-1147`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_04_1240-1242`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_04_1307-1308`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_04_1374-1376`: ha_southernautogramm (2)
+* `AttachTo=HAUZ_BC_CONV_04_1381-1382`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_04_1388-1390`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_CONV_04_1430-1433`: ha_southernautogramm (2)
+* `AttachTo=HAUZ_BC_CONV_04_1437-1439`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_NARR_01_010-011`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_NARR_01_013-014`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_NARR_01_129-130`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_NARR_01_138-138`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_NARR_01_143-144`: ha_southernautogramm (2)
+* `AttachTo=HAUZ_BC_NARR_01_239-239`: ha_southernautogramm (4)
+* `AttachTo=HAUZ_BC_NARR_01_244-244`: ha_southernautogramm (2)
+* `AttachTo=HAUZ_BC_NARR_02_065-067`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_NARR_02_094`: ha_southernautogramm (1)
+* `AttachTo=HAUZ_BC_NARR_02_101-103`: ha_southernautogramm (1)
+* `AttachTo=n11@SAY_BC_CONV_03_891-898_split2`: say_autogramm (2)
+* `AttachTo=n1àSAY_BC_CONV_03_329-329`: say_autogramm (1)
+* `AttachTo=n21@SAY_BC_CONV_01_117-119`: say_autogramm (1)
+* `AttachTo=n21@SAY_BC_CONV_03_273-275_276-276`: say_autogramm (2)
+* `AttachTo=n2@SAY_BC_CONV_03_306-307`: say_autogramm (1)
+* `AttachTo=n2@SAY_BC_CONV_03_438-439`: say_autogramm (2)
+* `AttachTo=n2@SAY_BC_INT_03_Calendar_108-108`: say_autogramm (2)
+* `AttachTo=n31@SAY_BC_CONV_03_737-744`: say_autogramm (1)
+* `AttachTo=n3@SAY_BC_CONV_03_343-345`: say_autogramm (1)
+* `AttachTo=n5@SAY_BC_CONV_03_299-303_304-304`: say_autogramm (1)
+* `AttachTo=n6@SAY_BC_CONV_03_438-444`: say_autogramm (1)
+* `AttachTo=n7@SAY_BC_CONV_03_306-307`: say_autogramm (1)
+* `AttachTo=n7@SAY_BC_READ_01_Beer_066-067_068-068`: say_autogramm (1)
+* `AttachTo=n8@SAY_BC_CONV_03_555-555`: say_autogramm (1)
+* `AttachTo=n8@SAY_BC_CONV_03_850-851`: say_autogramm (1)
+* `AttachTo=n9@SAY_BC_CONV_03_515-516`: say_autogramm (1)
+* `AttachTo=n9@SAY_BC_CONV_03_560-561`: say_autogramm (1)
+* `AttachTo=n9@SAY_BC_CONV_03_859-860`: say_autogramm (1)
 
 ## Avvr
 
@@ -787,79 +749,88 @@ Total 6 values: ja_bccwj (1253903), ja_bccwjluw (995632)
 
 ## Backchannel
 
-Total 123 values: it_kiparlaforest (135)
+Total 980 values: fr_parisstories (89), fr_rhapsodie (315), it_kiparlaforest (309), sl_sst (386)
 
-* `Backchannel=BOA3017_1008_1010-2`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_104-2`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_1043-3`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_1068-1`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_107_109-3`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_1087_1091-5`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_110_111_112_115_116_119-17`: it_kiparlaforest (2)
-* `Backchannel=BOA3017_110_111_112_115_116_119-32`: it_kiparlaforest (2)
-* `Backchannel=BOA3017_1114_1116-3`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_1114_1116-8`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_1128_1130-7`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_1128_1130-8`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_1137-6`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_120_121_123_125-18`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_120_121_123_125-31`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_126-4`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_130-1`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_135_137_138-3`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_142_144_147_148_149_150_153-40`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_143_145-17`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_154_159_160-23`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_163_165-9`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_177-1`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_188_190_191-2`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_193_194_196_197-4`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_221_222-13`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_25-2`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_27-2`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_275_277_278_280_281a-25`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_311-3`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_329_333-5`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_365-1`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_368_371-1`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_41_43-6`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_46-2`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_471_473_475_478-11`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_471_473_475_478-15`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_471_473_475_478-5`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_511-1`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_57_59-10`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_580_582-8`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_61-3`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_623-8`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_640_642-21`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_658-1`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_67_68_69_70-28`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_689-3`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_703_704-1`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_760_763-5`: it_kiparlaforest (1)
-* `Backchannel=BOA3017_771_773_774-1`: it_kiparlaforest (1)
+* `Backchannel=<sent_id>::<tok_id>`: fr_parisstories (77), fr_rhapsodie (3)
+* `Backchannel=?`: fr_rhapsodie (4)
+* `Backchannel=Artur-J-Gvecg-P580009.s8_reseg.586::11`: sl_sst (1)
+* `Backchannel=Artur-J-Gvecg-P580023.s114-s115_reseg.675.0::3`: sl_sst (1)
+* `Backchannel=Artur-J-Gvecg-P580023.s11_reseg.629::2`: sl_sst (1)
+* `Backchannel=Artur-J-Gvecg-P580023.s72_reseg.654::6`: sl_sst (1)
+* `Backchannel=Artur-J-Gvecg-P580041.s51_reseg.716::1`: sl_sst (1)
+* `Backchannel=Artur-J-Gvecg-P580041.s65_reseg.723::2`: sl_sst (1)
+* `Backchannel=Artur-N-G5035-P600034.s57-s58_reseg.1126::8`: sl_sst (1)
+* `Backchannel=Artur-N-G5083-P600080.s57-s68_reseg.1362::8`: sl_sst (1)
+* `Backchannel=BOA1003_19::12`: it_kiparlaforest (1)
+* `Backchannel=BOA1003_2::17`: it_kiparlaforest (1)
+* `Backchannel=BOA1003_32::10`: it_kiparlaforest (1)
+* `Backchannel=BOA1003_45::4`: it_kiparlaforest (1)
+* `Backchannel=BOA1003_52::5`: it_kiparlaforest (1)
+* `Backchannel=BOA1003_54::1`: it_kiparlaforest (1)
+* `Backchannel=BOA1003_57::3`: it_kiparlaforest (1)
+* `Backchannel=BOA1003_5::3`: it_kiparlaforest (1)
+* `Backchannel=BOA1003_63::3`: it_kiparlaforest (1)
+* `Backchannel=BOA1003_7_8::14`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_14::4`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_16::6`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_25::3`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_28::1`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_29::3`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_31_32::2`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_33_34::1`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_36::4`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_3::4`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_41::4`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_53::3`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_56::4`: it_kiparlaforest (2)
+* `Backchannel=BOA1008_58::7`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_60_61::4`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_63::9`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_67::9`: it_kiparlaforest (1)
+* `Backchannel=BOA1008_6::2`: it_kiparlaforest (1)
+* `Backchannel=BOA1009_109::5`: it_kiparlaforest (1)
+* `Backchannel=BOA1009_111_112::4`: it_kiparlaforest (1)
+* `Backchannel=BOA1009_114::2`: it_kiparlaforest (1)
+* `Backchannel=BOA1009_119::5`: it_kiparlaforest (3)
+* `Backchannel=BOA1009_128::1`: it_kiparlaforest (1)
+* `Backchannel=BOA1009_130::2`: it_kiparlaforest (1)
+* `Backchannel=BOA1009_132_133::2`: it_kiparlaforest (1)
+* `Backchannel=BOA1009_134_136::33`: it_kiparlaforest (2)
+* `Backchannel=BOA1009_139::2`: it_kiparlaforest (1)
+* `Backchannel=BOA1009_141::2`: it_kiparlaforest (1)
+* `Backchannel=BOA1009_143::1`: it_kiparlaforest (1)
+* `Backchannel=BOA1009_144::7`: it_kiparlaforest (1)
+* `Backchannel=BOA1009_147_148::2`: it_kiparlaforest (3)
 * …
-
-## Background
-
-Total 1 values: ha_northernautogramm (355), ha_southernautogramm (697), ha_westernautogramm (931)
-
-* `Background=Yes`: ha_northernautogramm (355), ha_southernautogramm (697), ha_westernautogramm (931)
 
 ## Begin
 
-Total 1306 values: it_kiparlaforest (1314)
+Total 2699 values: it_kiparlaforest (2709)
 
+* `Begin=0.01`: it_kiparlaforest (1)
+* `Begin=0.02`: it_kiparlaforest (1)
 * `Begin=0.96`: it_kiparlaforest (1)
+* `Begin=10.0`: it_kiparlaforest (1)
+* `Begin=10.171`: it_kiparlaforest (1)
 * `Begin=10.31`: it_kiparlaforest (1)
+* `Begin=10.685`: it_kiparlaforest (1)
+* `Begin=100.11`: it_kiparlaforest (1)
+* `Begin=100.971`: it_kiparlaforest (1)
 * `Begin=1000.277`: it_kiparlaforest (1)
+* `Begin=1001.442`: it_kiparlaforest (1)
 * `Begin=1003.34`: it_kiparlaforest (1)
+* `Begin=1003.836`: it_kiparlaforest (1)
+* `Begin=1004.617`: it_kiparlaforest (1)
 * `Begin=1004.755`: it_kiparlaforest (1)
 * `Begin=1008.742`: it_kiparlaforest (1)
+* `Begin=1009.05`: it_kiparlaforest (1)
 * `Begin=1009.587`: it_kiparlaforest (1)
 * `Begin=1009.641`: it_kiparlaforest (1)
 * `Begin=101.147`: it_kiparlaforest (1)
+* `Begin=101.501`: it_kiparlaforest (1)
+* `Begin=101.744`: it_kiparlaforest (1)
+* `Begin=101.749`: it_kiparlaforest (1)
+* `Begin=1010.111`: it_kiparlaforest (1)
 * `Begin=1010.357`: it_kiparlaforest (1)
 * `Begin=1010.682`: it_kiparlaforest (1)
 * `Begin=1013.242`: it_kiparlaforest (1)
@@ -867,40 +838,25 @@ Total 1306 values: it_kiparlaforest (1314)
 * `Begin=1015.622`: it_kiparlaforest (1)
 * `Begin=1016.448`: it_kiparlaforest (1)
 * `Begin=1017.902`: it_kiparlaforest (1)
+* `Begin=1018.409`: it_kiparlaforest (1)
+* `Begin=102.225`: it_kiparlaforest (1)
+* `Begin=102.31`: it_kiparlaforest (1)
+* `Begin=102.748`: it_kiparlaforest (1)
 * `Begin=1021.408`: it_kiparlaforest (1)
+* `Begin=1022.247`: it_kiparlaforest (1)
 * `Begin=1022.44`: it_kiparlaforest (1)
 * `Begin=1023.227`: it_kiparlaforest (1)
+* `Begin=1023.418`: it_kiparlaforest (1)
 * `Begin=1024.146`: it_kiparlaforest (1)
+* `Begin=1024.667`: it_kiparlaforest (1)
 * `Begin=1024.71`: it_kiparlaforest (1)
 * `Begin=1024.852`: it_kiparlaforest (1)
 * `Begin=1024.988`: it_kiparlaforest (1)
 * `Begin=1029.137`: it_kiparlaforest (1)
 * `Begin=103.479`: it_kiparlaforest (1)
+* `Begin=103.635`: it_kiparlaforest (1)
+* `Begin=103.779`: it_kiparlaforest (1)
 * `Begin=1032.867`: it_kiparlaforest (1)
-* `Begin=1036.162`: it_kiparlaforest (1)
-* `Begin=1037.299`: it_kiparlaforest (1)
-* `Begin=1038.571`: it_kiparlaforest (1)
-* `Begin=1044.012`: it_kiparlaforest (1)
-* `Begin=1046.987`: it_kiparlaforest (1)
-* `Begin=1047.877`: it_kiparlaforest (1)
-* `Begin=1048.718`: it_kiparlaforest (1)
-* `Begin=105.55`: it_kiparlaforest (1)
-* `Begin=105.843`: it_kiparlaforest (1)
-* `Begin=1050.02`: it_kiparlaforest (1)
-* `Begin=1055.925`: it_kiparlaforest (1)
-* `Begin=1057.75`: it_kiparlaforest (1)
-* `Begin=1061.59`: it_kiparlaforest (1)
-* `Begin=1061.651`: it_kiparlaforest (1)
-* `Begin=1063.321`: it_kiparlaforest (1)
-* `Begin=1066.656`: it_kiparlaforest (1)
-* `Begin=1067.666`: it_kiparlaforest (1)
-* `Begin=1069.708`: it_kiparlaforest (1)
-* `Begin=107.119`: it_kiparlaforest (1)
-* `Begin=107.844`: it_kiparlaforest (1)
-* `Begin=1070.498`: it_kiparlaforest (1)
-* `Begin=1073.36`: it_kiparlaforest (1)
-* `Begin=1074.185`: it_kiparlaforest (1)
-* `Begin=1075.769`: it_kiparlaforest (1)
 * …
 
 ## BioNERLabel
@@ -926,58 +882,58 @@ Total 1 values: ceb_gja (1)
 
 ## Bridge
 
-Total 35099 values: cs_pdtc (33453), en_gentle (58), en_gum (2023), en_gumreddit (167)
+Total 38234 values: cs_pdtc (33453), en_gentle (379), en_gum (5002), en_gumreddit (309)
 
-* `Bridge=100<101`: en_gum (1)
-* `Bridge=100<103`: en_gum (2)
-* `Bridge=100<104`: en_gum (1)
-* `Bridge=100<133`: en_gum (1)
-* `Bridge=100<144`: en_gum (1)
-* `Bridge=100<149`: en_gum (1)
-* `Bridge=100<150`: en_gum (1)
-* `Bridge=101<102`: en_gum (2)
-* `Bridge=101<103`: en_gum (2)
-* `Bridge=101<104`: en_gum (1)
-* `Bridge=101<106`: en_gum (1)
-* `Bridge=101<107`: en_gum (1)
-* `Bridge=102<103`: en_gum (2)
-* `Bridge=102<104`: en_gum (1)
-* `Bridge=102<105`: en_gum (1)
-* `Bridge=102<121`: en_gum (1)
-* `Bridge=102<147`: en_gum (1)
-* `Bridge=102<149`: en_gum (1)
-* `Bridge=103<104`: en_gum (2)
-* `Bridge=103<105`: en_gum (2)
-* `Bridge=103<106`: en_gum (2)
-* `Bridge=103<118`: en_gum (1)
-* `Bridge=103<122`: en_gum (1)
-* `Bridge=104<105`: en_gum (2)
-* `Bridge=104<106`: en_gum (2)
-* `Bridge=104<119`: en_gum (1)
-* `Bridge=104<201`: en_gum (1)
-* `Bridge=105<106`: en_gum (2)
-* `Bridge=105<107`: en_gum (3)
-* `Bridge=105<108`: en_gum (1)
-* `Bridge=105<109`: en_gum (1)
-* `Bridge=105<111`: en_gum (2)
-* `Bridge=105<117`: en_gum (1)
-* `Bridge=105<120`: en_gum (1)
-* `Bridge=105<124`: en_gum (1)
-* `Bridge=105<125`: en_gum (1)
-* `Bridge=105<128`: en_gum (1)
-* `Bridge=105<130`: en_gum (1)
-* `Bridge=106<110`: en_gum (1)
-* `Bridge=106<113`: en_gum (1)
-* `Bridge=106<117`: en_gum (1)
-* `Bridge=106<121`: en_gum (1)
-* `Bridge=106<122`: en_gum (1)
-* `Bridge=106<125`: en_gum (1)
-* `Bridge=106<130`: en_gum (2)
-* `Bridge=106<131`: en_gum (1)
-* `Bridge=106<132`: en_gum (1)
-* `Bridge=106<139`: en_gum (1)
-* `Bridge=107<108`: en_gum (1)
-* `Bridge=107<109`: en_gum (2)
+* `Bridge=100<101:comparison-relative`: en_gum (1)
+* `Bridge=100<101:comparison-relative;comparison-sense`: en_gumreddit (1)
+* `Bridge=100<101:comparison-time;entity-associative`: en_gum (1)
+* `Bridge=100<101:entity-associative`: en_gum (2)
+* `Bridge=100<101:set-member`: en_gum (1)
+* `Bridge=100<102:comparison-sense`: en_gum (1)
+* `Bridge=100<102:comparison-time;entity-associative`: en_gum (1)
+* `Bridge=100<102:entity-associative`: en_gum (1)
+* `Bridge=100<103:entity-associative`: en_gum (2)
+* `Bridge=100<104:entity-associative`: en_gum (1)
+* `Bridge=100<106:entity-associative`: en_gum (1)
+* `Bridge=100<107:comparison-sense`: en_gum (1)
+* `Bridge=100<107:entity-associative`: en_gum (1)
+* `Bridge=100<109:entity-meronomy`: en_gum (1)
+* `Bridge=100<111:entity-meronomy`: en_gum (1)
+* `Bridge=100<112:entity-associative`: en_gum (1)
+* `Bridge=100<112:entity-property`: en_gum (1)
+* `Bridge=100<114:entity-associative`: en_gum (1)
+* `Bridge=100<115:entity-associative`: en_gum (1)
+* `Bridge=100<115:entity-property`: en_gum (1)
+* `Bridge=100<116:entity-associative`: en_gum (1)
+* `Bridge=100<116:entity-meronomy`: en_gum (1)
+* `Bridge=100<117:entity-associative`: en_gum (1)
+* `Bridge=100<122:entity-meronomy`: en_gum (1)
+* `Bridge=100<123:comparison-sense;set-subset`: en_gum (1)
+* `Bridge=100<133:entity-associative`: en_gum (2)
+* `Bridge=100<140:entity-meronomy`: en_gum (1)
+* `Bridge=100<144:entity-associative`: en_gum (1)
+* `Bridge=100<145:entity-associative`: en_gum (1)
+* `Bridge=100<149:entity-associative`: en_gum (1)
+* `Bridge=100<150:entity-associative`: en_gum (1)
+* `Bridge=100<159:entity-associative`: en_gum (1)
+* `Bridge=101<102:comparison-relative;comparison-sense`: en_gum (1)
+* `Bridge=101<102:comparison-sense;set-member`: en_gum (1)
+* `Bridge=101<103:comparison-relative;comparison-sense`: en_gum (2)
+* `Bridge=101<103:comparison-relative;comparison-sense;set-member`: en_gum (1)
+* `Bridge=101<103:entity-associative`: en_gum (1), en_gumreddit (1)
+* `Bridge=101<103:entity-property`: en_gum (1)
+* `Bridge=101<104:comparison-sense`: en_gum (1)
+* `Bridge=101<105:comparison-relative`: en_gum (1)
+* `Bridge=101<105:comparison-sense`: en_gum (1)
+* `Bridge=101<105:entity-meronomy`: en_gum (1)
+* `Bridge=101<106:entity-associative`: en_gum (2)
+* `Bridge=101<106:entity-meronomy`: en_gum (1)
+* `Bridge=101<107:entity-associative`: en_gum (2)
+* `Bridge=101<113:entity-meronomy`: en_gum (1)
+* `Bridge=101<116:set-member`: en_gum (1)
+* `Bridge=101<117:entity-associative`: en_gum (1)
+* `Bridge=102<103:comparison-relative`: en_gumreddit (1)
+* `Bridge=102<103:entity-associative`: en_gum (1)
 * …
 
 ## Bug
@@ -1010,16 +966,19 @@ Total 5 values: ja_gsd (193654), ja_gsdluw (150243), ja_pud (28788), ja_pudluw (
 
 ## CFTranslit
 
-Total 9 values: ps_sikaram (10)
+Total 12 values: ps_sikaram (13)
 
+* `CFTranslit=1153`: ps_sikaram (1)
 * `CFTranslit=gaṇ`: ps_sikaram (1)
-* `CFTranslit=lâr`: ps_sikaram (1)
+* `CFTranslit=kawë́l`: ps_sikaram (1)
 * `CFTranslit=mumkíne`: ps_sikaram (1)
+* `CFTranslit=mấta`: ps_sikaram (1)
 * `CFTranslit=rëxagáro`: ps_sikaram (1)
 * `CFTranslit=wilâyatúna`: ps_sikaram (1)
 * `CFTranslit=zéray`: ps_sikaram (1)
 * `CFTranslit=âr`: ps_sikaram (1)
 * `CFTranslit=ġamǰë́na`: ps_sikaram (1)
+* `CFTranslit=šë́we`: ps_sikaram (1)
 * `CFTranslit=ṭolaníz`: ps_sikaram (2)
 
 ## CGdephead
@@ -1134,19 +1093,27 @@ Total 64 values: apu_ufpa (10), mdf_jr (1235), myv_jr (3405), sms_giellagas (27)
 * `CGdeprel=@IMV`: mdf_jr (37), myv_jr (102), sms_giellagas (2)
 * …
 
+## CLTranslit
+
+Total 3 values: ps_sikaram (3)
+
+* `CLTranslit=1585`: ps_sikaram (1)
+* `CLTranslit=kṛa`: ps_sikaram (1)
+* `CLTranslit=oranë́y`: ps_sikaram (1)
+
 ## CSID
 
-Total 5 values: qtd_sagt (37227), qti_butr (6)
+Total 5 values: qtd_sagt (37227), qti_butr (8)
 
 * `CSID=DE`: qtd_sagt (18741)
 * `CSID=LANG3`: qtd_sagt (175)
-* `CSID=MIXED`: qtd_sagt (432), qti_butr (6)
+* `CSID=MIXED`: qtd_sagt (432), qti_butr (8)
 * `CSID=OTHER`: qtd_sagt (3704)
 * `CSID=TR`: qtd_sagt (14175)
 
 ## CSPoint
 
-Total 508 values: qtd_sagt (433), qti_butr (6), tt_nmctt (167)
+Total 510 values: qtd_sagt (433), qti_butr (8), tt_nmctt (167)
 
 * `CSPoint=AMD§'si`: qtd_sagt (1)
 * `CSPoint=Abendgymnasium§dan`: qtd_sagt (1)
@@ -1214,6 +1181,20 @@ Total 10 values: ga_twittirish (592), it_postwita (30)
 * `CSType=Word`: ga_twittirish (1)
 * `CSType=_`: ga_twittirish (1)
 * `CSType=intraword`: ga_twittirish (1)
+
+## CalquedLang
+
+Total 1 values: sv_swell (3)
+
+* `CalquedLang=en`: sv_swell (3)
+
+## Candidate
+
+Total 3 values: fi_ftb (1108)
+
+* `Candidate=csubj:exist`: fi_ftb (17)
+* `Candidate=nsubj:cop`: fi_ftb (1)
+* `Candidate=nsubj:exist`: fi_ftb (1090)
 
 ## Cantillation
 
@@ -1312,14 +1293,22 @@ Total 34 values: it_old (101370)
 
 ## Case
 
-Total 6 values: be_hse (1), or_odtb (1), pl_lfg (11106), pl_mpdt (4370), pl_pdb (37068), pl_pud (2046), xcl_caval (1)
+Total 7 values: be_hse (1), or_odtb (1), pl_lfg (11106), pl_mpdt (4370), pl_pdb (37074), pl_pud (2044), xcl_caval (1)
 
-* `Case=Acc`: be_hse (1), pl_lfg (2481), pl_mpdt (911), pl_pdb (7330), pl_pud (366)
+* `Case=Acc`: be_hse (1), pl_lfg (2481), pl_mpdt (911), pl_pdb (7327), pl_pud (365)
 * `Case=Dat`: pl_lfg (60), pl_mpdt (96), pl_pdb (339), pl_pud (22)
-* `Case=Gen`: pl_lfg (3239), pl_mpdt (1439), pl_pdb (9949), pl_pud (571), xcl_caval (1)
-* `Case=Ins`: or_odtb (1), pl_lfg (1272), pl_mpdt (541), pl_pdb (4621), pl_pud (216)
+* `Case=Gen`: pl_lfg (3239), pl_mpdt (1439), pl_pdb (9958), pl_pud (570), xcl_caval (1)
+* `Case=Ins`: pl_lfg (1272), pl_mpdt (541), pl_pdb (4621), pl_pud (216)
 * `Case=Loc`: pl_lfg (3980), pl_mpdt (1352), pl_pdb (14824), pl_pud (870)
 * `Case=Nom`: pl_lfg (74), pl_mpdt (31), pl_pdb (5), pl_pud (1)
+* `Case=PSP`: or_odtb (1)
+
+## CaseAf
+
+Total 2 values: ha_easternautogramm (122), ha_northernautogramm (363), ha_southernautogramm (139), ha_westernautogramm (346)
+
+* `CaseAf=Acc`: ha_northernautogramm (1)
+* `CaseAf=Gen`: ha_easternautogramm (122), ha_northernautogramm (362), ha_southernautogramm (139), ha_westernautogramm (346)
 
 ## CheckAttachment
 
@@ -1418,23 +1407,21 @@ Total 2 values: hi_hdtb (351704), ur_udtb (138077)
 
 ## Citation
 
-Total 1 values: en_ewt (2)
+Total 1 values: en_ewt (2), he_postrab (4)
 
-* `Citation=Yes`: en_ewt (2)
+* `Citation=Yes`: en_ewt (2), he_postrab (4)
 
-## Clause
+## Cite
 
-Total 3 values: egy_ujaen (412)
+Total 1 values: he_postrab (12)
 
-* `Clause=Cons`: egy_ujaen (8)
-* `Clause=Final`: egy_ujaen (379)
-* `Clause=Obj`: egy_ujaen (25)
+* `Cite=Yes`: he_postrab (12)
 
 ## Clitic
 
-Total 3 values: it_kiparlaforest (574), it_old (3180), it_postwita (311), scn_stb (670), uz_uzudt (1)
+Total 3 values: it_kiparlaforest (674), it_old (3180), it_postwita (311), scn_stb (670), uz_uzudt (1)
 
-* `Clitic=Yes`: it_kiparlaforest (574), it_old (3180), it_postwita (311), scn_stb (669)
+* `Clitic=Yes`: it_kiparlaforest (674), it_old (3180), it_postwita (311), scn_stb (669)
 * `Clitic=ku`: uz_uzudt (1)
 * `Clitic=yes`: scn_stb (1)
 
@@ -1446,67 +1433,67 @@ Total 1 values: et_edt (1)
 
 ## Cmpnd
 
-Total 4 values: nhi_itml (5)
+Total 4 values: nhi_mesotree (5)
 
-* `Cmpnd=ichpoca#conetl`: nhi_itml (1)
-* `Cmpnd=icxi#palti`: nhi_itml (1)
-* `Cmpnd=tapalca#tihuilotl`: nhi_itml (1)
-* `Cmpnd=yol#paqui`: nhi_itml (2)
+* `Cmpnd=ichpoca#conetl`: nhi_mesotree (1)
+* `Cmpnd=icxi#palti`: nhi_mesotree (1)
+* `Cmpnd=tapalca#tihuilotl`: nhi_mesotree (1)
+* `Cmpnd=yol#paqui`: nhi_mesotree (2)
 
 ## Coconstruct
 
-Total 57 values: it_kiparlaforest (62)
+Total 239 values: fr_parisstories (7), fr_rhapsodie (81), it_kiparlaforest (123), sl_sst (42)
 
-* `Coconstruct=BOA3017_340_342_343_345_349-9`: it_kiparlaforest (1)
-* `Coconstruct=BOD2018_197-1`: it_kiparlaforest (1)
-* `Coconstruct=BOD2018_225_227-2`: it_kiparlaforest (1)
-* `Coconstruct=acl::BOA3017_1022-6`: it_kiparlaforest (1)
-* `Coconstruct=acl::BOA3017_954-7`: it_kiparlaforest (1)
-* `Coconstruct=acl::BOD2018_145_147_148-12`: it_kiparlaforest (1)
-* `Coconstruct=acl:relcl::BOD2018_401-2`: it_kiparlaforest (1)
-* `Coconstruct=advcl::BOA3017_767_768-7`: it_kiparlaforest (1)
-* `Coconstruct=advcl::BOD2018_178-16`: it_kiparlaforest (1)
-* `Coconstruct=advcl::BOD2018_194-12`: it_kiparlaforest (1)
-* `Coconstruct=appos::BOA3017_872-7`: it_kiparlaforest (1)
-* `Coconstruct=ccomp-reported::BOA3017_547_551_558_559-4`: it_kiparlaforest (1)
-* `Coconstruct=ccomp:reported::BOA3017_365-1`: it_kiparlaforest (1)
-* `Coconstruct=ccomp:reported::BOA3017_872-6`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_107_109-7`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_128-3`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_129-2`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_129-7`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_24-1`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_250_253_254-17`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_297_298-9`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_324-4`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_350_353-2`: it_kiparlaforest (2)
-* `Coconstruct=conj::BOA3017_38-15`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_387-1`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_438-4`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_454-1`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_520_523-2`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_53-3`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_57_59-10`: it_kiparlaforest (2)
-* `Coconstruct=conj::BOA3017_629_631-3`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_719_720_723_724-11`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_784-7`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_829-1`: it_kiparlaforest (2)
-* `Coconstruct=conj::BOA3017_950-15`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOA3017_997_1000-4`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOD2018_145_147_148-12`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOD2018_225_227-5`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOD2018_379_380-11`: it_kiparlaforest (1)
-* `Coconstruct=conj::BOD2018_53_54a-19`: it_kiparlaforest (1)
-* `Coconstruct=nsubj::BOA3017_507-2`: it_kiparlaforest (1)
-* `Coconstruct=nsubj::BOD2018_351_353-5`: it_kiparlaforest (1)
-* `Coconstruct=obj::BOA3017_503-6`: it_kiparlaforest (2)
-* `Coconstruct=obl::BOA3017_1067-8`: it_kiparlaforest (1)
-* `Coconstruct=obl::BOA3017_120_121_123_125-21`: it_kiparlaforest (1)
-* `Coconstruct=obl::BOD2018_128_129_130-32`: it_kiparlaforest (2)
-* `Coconstruct=obl::BOD2018_195-17`: it_kiparlaforest (1)
-* `Coconstruct=obl::BOD2018_202-2`: it_kiparlaforest (1)
-* `Coconstruct=obl::BOD2018_241-4`: it_kiparlaforest (1)
-* `Coconstruct=obl::BOD2018_337_339_341-42`: it_kiparlaforest (1)
+* `Coconstruct=BOA3017_883_884_885::9`: it_kiparlaforest (1)
+* `Coconstruct=BOD2018_197::1`: it_kiparlaforest (1)
+* `Coconstruct=acl::BOA3017_1022::6`: it_kiparlaforest (1)
+* `Coconstruct=acl::BOA3017_954::7`: it_kiparlaforest (1)
+* `Coconstruct=acl::BOD2018_145_147_148::12`: it_kiparlaforest (1)
+* `Coconstruct=acl::Gos200.s115::23`: sl_sst (1)
+* `Coconstruct=acl:relcl::BOD2018_401::2`: it_kiparlaforest (1)
+* `Coconstruct=advcl: BOA3017_977::8`: it_kiparlaforest (1)
+* `Coconstruct=advcl::BOA3017_767_768::5`: it_kiparlaforest (1)
+* `Coconstruct=advcl::BOA3017_983::8`: it_kiparlaforest (1)
+* `Coconstruct=advcl::BOD2018_178::16`: it_kiparlaforest (1)
+* `Coconstruct=advcl::BOD2018_194::10`: it_kiparlaforest (1)
+* `Coconstruct=advcl::Gos233.s364::7`: sl_sst (1)
+* `Coconstruct=advcl::Gos233.s417::1`: sl_sst (1)
+* `Coconstruct=advmod::Gos017.s285::3`: sl_sst (2)
+* `Coconstruct=advmod::Gos021.s150::1`: sl_sst (2)
+* `Coconstruct=advmod::Gos190.s167::2`: sl_sst (1)
+* `Coconstruct=advmod::Gos233.s389::1`: sl_sst (1)
+* `Coconstruct=advmod::Gos246.s353::3`: sl_sst (2)
+* `Coconstruct=amod::Gos051.s262::1`: sl_sst (1)
+* `Coconstruct=appos::BOA3017_872::7`: it_kiparlaforest (1)
+* `Coconstruct=cc::Gos246.s353::3`: sl_sst (1)
+* `Coconstruct=ccomp::Gos233.s415::2`: sl_sst (1)
+* `Coconstruct=ccomp:reported::BOA3017_365::1`: it_kiparlaforest (1)
+* `Coconstruct=ccomp:reported::BOA3017_872::6`: it_kiparlaforest (1)
+* `Coconstruct=comp::Rhap_D2003-151::6`: fr_rhapsodie (1)
+* `Coconstruct=conj::BOA3017_128::3`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_129::11`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_172_173_174_175_176::19`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_250_253_254::16`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_297_298::9`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_324::4`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_350_353::2`: it_kiparlaforest (2)
+* `Coconstruct=conj::BOA3017_387::1`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_38::12`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_438::4`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_454::1`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_53::7`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_57_59::10`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_57_59::18`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_629_631::3`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_719_720_723_724::11`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_784::7`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOA3017_950::15`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOD2018_145_147_148::12`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOD2018_379_380::11`: it_kiparlaforest (1)
+* `Coconstruct=conj::BOD2018_53_54a::17`: it_kiparlaforest (1)
+* `Coconstruct=conj::Gos020.s407::19`: sl_sst (1)
+* `Coconstruct=conj:BOA3017_415_416::12`: it_kiparlaforest (1)
+* `Coconstruct=conj:BOA3017_435::5`: it_kiparlaforest (1)
 * …
 
 ## Comment
@@ -1621,6 +1608,24 @@ Total 62 values: qaf_arabizi (19793)
 * `ComposedUDPOS=PUNCT`: qaf_arabizi (251)
 * …
 
+## Compound
+
+Total 1 values: ro_nonstandard (15)
+
+* `Compound=Yes`: ro_nonstandard (15)
+
+## Concomitant
+
+Total 1 values: say_autogramm (7)
+
+* `Concomitant=Yes`: say_autogramm (7)
+
+## ConjPush
+
+Total 1 values: he_postrab (24)
+
+* `ConjPush=Yes`: he_postrab (24)
+
 ## Contraction
 
 Total 2 values: fro_profiterole (2)
@@ -1634,6 +1639,12 @@ Total 1 values: et_ewt (1)
 
 * `CoprrectForm=teemasse`: et_ewt (1)
 
+## Copula
+
+Total 1 values: ha_easternautogramm (112), ha_northernautogramm (176), ha_southernautogramm (232), ha_westernautogramm (137), say_autogramm (241)
+
+* `Copula=Yes`: ha_easternautogramm (112), ha_northernautogramm (176), ha_southernautogramm (232), ha_westernautogramm (137), say_autogramm (241)
+
 ## CorectForm
 
 Total 1 values: et_edt (1)
@@ -1642,7 +1653,7 @@ Total 1 values: et_edt (1)
 
 ## Correct
 
-Total 7 values: hu_szeged (57)
+Total 8 values: es_gsd (1), hu_szeged (57)
 
 * `Correct=DetToAdv,RemoveDefiniteInd`: hu_szeged (8)
 * `Correct=DetToPron,RemoveDefiniteInd`: hu_szeged (5)
@@ -1650,6 +1661,7 @@ Total 7 values: hu_szeged (57)
 * `Correct=NumToAdv,RemoveDefiniteInd`: hu_szeged (1)
 * `Correct=NumToDet`: hu_szeged (19)
 * `Correct=NumToPron`: hu_szeged (5)
+* `Correct=Omit`: es_gsd (1)
 * `Correct=PointToNounNotDet`: hu_szeged (4)
 
 ## CorrectCase
@@ -1677,7 +1689,7 @@ Total 1 values: et_ewt (1)
 
 ## CorrectForm
 
-Total 5855 values: azz_itml (1), bar_maibaam (6), de_gsd (65), de_hdt (14), el_lesbian (245), en_ctetex (1), en_ewt (1277), en_gentle (46), en_gum (468), en_gumreddit (149), en_littleprince (1), en_pud (2), es_ancora (1), es_gsd (981), et_edt (281), et_ewt (1117), fr_fqb (2), fr_gsd (932), fr_parisstories (1), fr_partut (9), fr_pud (5), fr_sequoia (40), ga_cadhan (2), ga_twittirish (923), gd_arcosg (142), gsw_divital (2), he_iahltknesset (26), he_iahltwiki (181), hu_szeged (1), id_gsd (39), id_pud (3), it_postwita (179), jv_csui (1), kmr_kurmanji (2), la_perseus (3), lv_lvtb (431), mdf_jr (1), ml_ufal (15), myv_jr (20), naq_kdt (10), nhi_itml (13), ota_dudu (4), ps_sikaram (10), pt_bosque (58), pt_dantestocks (1202), pt_petrogold (1), qaf_arabizi (15), qtd_sagt (114), quc_iu (1), ro_nonstandard (1), ro_tuecl (451), sd_isra (1), sms_giellagas (6), sv_pud (1), sv_talbanken (1), ug_udt (1), vi_tuecl (9), yo_ytb (6), yrl_complin (133)
+Total 6060 values: azz_itml (1), bar_maibaam (6), de_gsd (65), de_hdt (14), el_glcii (25), el_lesbian (255), en_ctetex (1), en_ewt (1429), en_gentle (46), en_gum (498), en_gumreddit (149), en_littleprince (1), en_pud (2), es_ancora (1), es_gsd (1019), et_edt (284), et_ewt (1117), fr_fqb (8), fr_gsd (942), fr_parisstories (1), fr_partut (11), fr_pud (5), fr_sequoia (41), ga_cadhan (2), ga_twittirish (923), gd_arcosg (142), gl_ctg (2), gsw_divital (2), he_iahltknesset (26), he_iahltwiki (181), hu_szeged (1), id_gsd (39), id_pud (3), it_postwita (179), jv_csui (1), kmr_kurmanji (2), la_perseus (3), lv_lvtb (431), mdf_jr (1), ml_ufal (15), myv_jr (20), naq_kdt (10), nhi_mesotree (18), ota_dudu (4), ps_sikaram (16), pt_bosque (58), pt_dantestocks (1202), pt_petrogold (1), qaf_arabizi (15), qtd_sagt (114), quc_iu (1), ro_nonstandard (1), ro_tuecl (451), sd_isra (1), sms_giellagas (6), sv_pud (1), sv_talbanken (1), ug_udt (1), vi_tuecl (9), yo_ytb (6), yrl_complin (149)
 
 * `CorrectForm=!!!!`: et_ewt (1)
 * `CorrectForm="`: lv_lvtb (1)
@@ -1714,21 +1726,21 @@ Total 5855 values: azz_itml (1), bar_maibaam (6), de_gsd (65), de_hdt (14), el_l
 * `CorrectForm='re`: en_ewt (27), ga_twittirish (1)
 * `CorrectForm='s`: en_ewt (232), en_gentle (2), en_gum (6), en_gumreddit (10), gd_arcosg (1)
 * `CorrectForm='ve`: en_ewt (16), en_gumreddit (2)
-* `CorrectForm=(`: en_gum (1), et_ewt (1)
+* `CorrectForm='ve got`: en_gum (1)
+* `CorrectForm=(`: el_glcii (1), en_gum (1), et_ewt (1)
 * `CorrectForm=(apparently`: en_gum (1)
-* `CorrectForm=,`: en_gum (1), lv_lvtb (3), myv_jr (1)
+* `CorrectForm=,`: el_glcii (1), en_gum (1), lv_lvtb (3), myv_jr (1)
 * `CorrectForm=-`: en_ewt (1), fr_partut (9)
 * `CorrectForm=-aveți`: ro_tuecl (1)
 * `CorrectForm=-etá`: yrl_complin (1)
 * `CorrectForm=-ils`: fr_gsd (1)
 * `CorrectForm=-là`: fr_gsd (1)
 * `CorrectForm=-s`: ro_tuecl (1)
-* `CorrectForm=-t-il`: fr_gsd (3)
+* `CorrectForm=-t-il`: fr_fqb (1), fr_gsd (3)
 * `CorrectForm=-vă`: ro_tuecl (2)
 * `CorrectForm=-ți`: ro_tuecl (1)
-* `CorrectForm=.`: lv_lvtb (1)
+* `CorrectForm=.`: lv_lvtb (2)
 * `CorrectForm=...`: lv_lvtb (1)
-* `CorrectForm=1,3-1,5`: et_edt (1)
 * …
 
 ## CorrectGender
@@ -1805,10 +1817,10 @@ Total 2 values: fr_gsd (4), pt_dantestocks (1)
 
 ## CorrectNumber
 
-Total 2 values: el_lesbian (1), en_ewt (34), et_ewt (7), fr_gsd (311), fr_parisstories (1), fr_sequoia (23), pt_dantestocks (31)
+Total 2 values: el_lesbian (1), en_ewt (37), et_ewt (7), fr_gsd (312), fr_parisstories (1), fr_sequoia (24), pt_dantestocks (31)
 
-* `CorrectNumber=Plur`: en_ewt (4), et_ewt (4), fr_gsd (238), fr_parisstories (1), fr_sequoia (19), pt_dantestocks (29)
-* `CorrectNumber=Sing`: el_lesbian (1), en_ewt (30), et_ewt (3), fr_gsd (73), fr_sequoia (4), pt_dantestocks (2)
+* `CorrectNumber=Plur`: en_ewt (6), et_ewt (4), fr_gsd (239), fr_parisstories (1), fr_sequoia (19), pt_dantestocks (29)
+* `CorrectNumber=Sing`: el_lesbian (1), en_ewt (31), et_ewt (3), fr_gsd (73), fr_sequoia (5), pt_dantestocks (2)
 
 ## CorrectPerson
 
@@ -1820,10 +1832,10 @@ Total 3 values: fr_gsd (9), pt_dantestocks (1)
 
 ## CorrectSpaceAfter
 
-Total 4 values: bar_maibaam (12), de_gsd (1), de_lit (1), en_ewt (103), en_gum (2), en_gumreddit (3), es_gsd (1), et_ewt (111), fi_ood (3), fr_gsd (31), fr_partut (1), ga_twittirish (18), gsw_divital (1), he_iahltwiki (4), id_gsd (2), it_parlamint (6), it_postwita (88), it_twittiro (3), it_valico (2), kmr_kurmanji (1), lv_lvtb (47), naq_kdt (18), ps_sikaram (2), pt_dantestocks (49), yrl_complin (37)
+Total 4 values: bar_maibaam (11), de_gsd (1), de_lit (1), el_glcii (120), en_ewt (105), en_gum (2), en_gumreddit (3), es_gsd (4), et_ewt (111), fi_ood (3), fr_gsd (38), fr_partut (1), ga_twittirish (18), gsw_divital (1), he_iahltwiki (4), id_gsd (2), it_parlamint (6), it_postwita (88), it_twittiro (3), it_valico (2), kmr_kurmanji (1), lv_lvtb (47), naq_kdt (18), ps_sikaram (2), pt_dantestocks (49), yrl_complin (40)
 
-* `CorrectSpaceAfter=No`: et_ewt (58), fr_gsd (10), it_parlamint (6), it_postwita (26), kmr_kurmanji (1), lv_lvtb (22), naq_kdt (15), pt_dantestocks (1)
-* `CorrectSpaceAfter=Yes`: bar_maibaam (12), de_gsd (1), de_lit (1), en_ewt (103), en_gum (2), en_gumreddit (3), es_gsd (1), et_ewt (52), fi_ood (3), fr_gsd (21), fr_partut (1), ga_twittirish (16), gsw_divital (1), he_iahltwiki (4), id_gsd (2), it_postwita (62), it_twittiro (3), it_valico (2), lv_lvtb (25), naq_kdt (3), ps_sikaram (2), pt_dantestocks (48), yrl_complin (37)
+* `CorrectSpaceAfter=No`: el_glcii (30), et_ewt (58), fr_gsd (17), it_parlamint (6), it_postwita (26), kmr_kurmanji (1), lv_lvtb (22), naq_kdt (15), pt_dantestocks (1)
+* `CorrectSpaceAfter=Yes`: bar_maibaam (11), de_gsd (1), de_lit (1), el_glcii (90), en_ewt (105), en_gum (2), en_gumreddit (3), es_gsd (4), et_ewt (52), fi_ood (3), fr_gsd (21), fr_partut (1), ga_twittirish (16), gsw_divital (1), he_iahltwiki (4), id_gsd (2), it_postwita (62), it_twittiro (3), it_valico (2), lv_lvtb (25), naq_kdt (3), ps_sikaram (2), pt_dantestocks (48), yrl_complin (40)
 * `CorrectSpaceAfter=YesLang`: ga_twittirish (2)
 * `CorrectSpaceAfter=transrasvavabasid`: et_ewt (1)
 
@@ -1867,24 +1879,35 @@ Total 1 values: sms_giellagas (1)
 
 * `Correctform=piijžiǩ`: sms_giellagas (1)
 
+## CorrectioMennLabels
+
+Total 1 values: sv_swell (1)
+
+* `CorrectioMennLabels=S-Ext:4`: sv_swell (1)
+
 ## CorrectionLabels
 
-Total 119 values: sv_swell (1221)
+Total 137 values: sv_swell (1603)
 
-* `CorrectionLabels=C`: sv_swell (30)
+* `CorrectionLabels=C`: sv_swell (44)
 * `CorrectionLabels=C:2;O-Comp:2`: sv_swell (1)
-* `CorrectionLabels=C:2;S-Adv:2`: sv_swell (1)
+* `CorrectionLabels=C:2;O:2;O-Comp:2`: sv_swell (1)
+* `CorrectionLabels=C:2;S-Adv:2`: sv_swell (2)
+* `CorrectionLabels=C:3;S-Adv:3`: sv_swell (1)
 * `CorrectionLabels=C;L-Der;S-Type`: sv_swell (1)
 * `CorrectionLabels=C;L-W`: sv_swell (3)
+* `CorrectionLabels=C;L-W;S-Type`: sv_swell (2)
 * `CorrectionLabels=C;M-Def`: sv_swell (2)
-* `CorrectionLabels=C;M-Verb`: sv_swell (3)
-* `CorrectionLabels=C;O`: sv_swell (2)
+* `CorrectionLabels=C;M-Verb`: sv_swell (4)
+* `CorrectionLabels=C;O`: sv_swell (3)
+* `CorrectionLabels=C;O-Cap`: sv_swell (1)
 * `CorrectionLabels=C;O-Comp`: sv_swell (1)
-* `CorrectionLabels=C;S-Adv`: sv_swell (1)
+* `CorrectionLabels=C;O;O-Comp`: sv_swell (1)
+* `CorrectionLabels=C;S-Adv`: sv_swell (2)
 * `CorrectionLabels=Cit-FL`: sv_swell (2)
-* `CorrectionLabels=Com!`: sv_swell (3)
+* `CorrectionLabels=Com!`: sv_swell (4)
 * `CorrectionLabels=Com!;S-Comp`: sv_swell (1)
-* `CorrectionLabels=L-Der`: sv_swell (20)
+* `CorrectionLabels=L-Der`: sv_swell (25)
 * `CorrectionLabels=L-Der:2;O-Comp:2`: sv_swell (3)
 * `CorrectionLabels=L-Der:2;O-Comp:2;S-Type:2`: sv_swell (1)
 * `CorrectionLabels=L-Der;M-Gend`: sv_swell (1)
@@ -1893,41 +1916,36 @@ Total 119 values: sv_swell (1221)
 * `CorrectionLabels=L-Der;O-Comp`: sv_swell (3)
 * `CorrectionLabels=L-Der;O-Comp;S-Type`: sv_swell (1)
 * `CorrectionLabels=L-Der;O;S-Type`: sv_swell (2)
-* `CorrectionLabels=L-Der;S-Type`: sv_swell (9)
+* `CorrectionLabels=L-Der;S-Type`: sv_swell (12)
 * `CorrectionLabels=L-FL`: sv_swell (6)
-* `CorrectionLabels=L-Ref`: sv_swell (34)
-* `CorrectionLabels=L-W`: sv_swell (173)
+* `CorrectionLabels=L-Ref`: sv_swell (44)
+* `CorrectionLabels=L-Ref;S-Adv`: sv_swell (1)
+* `CorrectionLabels=L-W`: sv_swell (213)
 * `CorrectionLabels=L-W:2`: sv_swell (12)
+* `CorrectionLabels=L-W:2;M-Verb:2`: sv_swell (1)
 * `CorrectionLabels=L-W:2;O-Comp:2`: sv_swell (1)
 * `CorrectionLabels=L-W:3`: sv_swell (1)
 * `CorrectionLabels=L-W:4`: sv_swell (1)
 * `CorrectionLabels=L-W;M-Def`: sv_swell (4)
 * `CorrectionLabels=L-W;M-Def;M-Num`: sv_swell (1)
-* `CorrectionLabels=L-W;M-Verb`: sv_swell (4)
+* `CorrectionLabels=L-W;M-Verb`: sv_swell (6)
+* `CorrectionLabels=L-W;M-Verb;O-Cap`: sv_swell (1)
+* `CorrectionLabels=L-W;O-Cap`: sv_swell (1)
 * `CorrectionLabels=L-W;O-Comp`: sv_swell (1)
 * `CorrectionLabels=L-W;S-Adv`: sv_swell (1)
 * `CorrectionLabels=L-W;S-FinV`: sv_swell (4)
-* `CorrectionLabels=L-W;S-Type`: sv_swell (17)
-* `CorrectionLabels=M-Adj/adv`: sv_swell (7)
+* `CorrectionLabels=L-W;S-Type`: sv_swell (19)
+* `CorrectionLabels=M-Adj/adv`: sv_swell (9)
 * `CorrectionLabels=M-Adj/adv;O`: sv_swell (1)
 * `CorrectionLabels=M-Adj/adv;S-Adv`: sv_swell (1)
-* `CorrectionLabels=M-Case`: sv_swell (13)
-* `CorrectionLabels=M-Case;O`: sv_swell (1)
-* `CorrectionLabels=M-Def`: sv_swell (88)
-* `CorrectionLabels=M-Def:2;O-Comp:2`: sv_swell (1)
-* `CorrectionLabels=M-Def;M-Gend`: sv_swell (3)
-* `CorrectionLabels=M-Def;M-Num`: sv_swell (5)
-* `CorrectionLabels=M-Def;O`: sv_swell (1)
-* `CorrectionLabels=M-Def;O-Comp`: sv_swell (1)
-* `CorrectionLabels=M-Def;O;O-Cap`: sv_swell (1)
-* `CorrectionLabels=M-F`: sv_swell (11)
+* `CorrectionLabels=M-Case`: sv_swell (19)
 * …
 
 ## CorrectionType
 
-Total 7 values: lv_lvtb (1074)
+Total 7 values: lv_lvtb (1075)
 
-* `CorrectionType=InsertedPunctAfter`: lv_lvtb (402)
+* `CorrectionType=InsertedPunctAfter`: lv_lvtb (403)
 * `CorrectionType=InsertedPunctAfter,RemovedPunctuation`: lv_lvtb (1)
 * `CorrectionType=InsertedPunctAfter,Spelling`: lv_lvtb (1)
 * `CorrectionType=RemovedPunctuation`: lv_lvtb (194)
@@ -1949,6 +1967,12 @@ Total 4 values: et_edt (3), pt_dantestocks (1)
 * `CorretForm=249900`: et_edt (1)
 * `CorretForm=keskkonnaasjadest`: et_edt (1)
 * `CorretForm=pois`: pt_dantestocks (1)
+
+## Counterfact
+
+Total 1 values: say_autogramm (36)
+
+* `Counterfact=Yes`: say_autogramm (36)
 
 ## CpdPos
 
@@ -1976,12 +2000,12 @@ Total 1 values: ca_ancora (832), es_ancora (650)
 
 ## Cxn
 
-Total 243 values: cop_bohairic (129), cop_scriptorium (426), de_hdt (12041), en_ewt (4747), en_gentle (99), en_gum (2103), en_gumreddit (241), es_ancora (1258), he_htb (522), he_iahltknesset (533), he_iahltwiki (144), hi_hdtb (2679), sv_talbanken (802), zh_hk (304)
+Total 243 values: cop_bohairic (128), cop_scriptorium (435), de_hdt (12041), en_ewt (4754), en_gentle (99), en_gum (2329), en_gumreddit (241), es_ancora (1258), he_htb (522), he_iahltknesset (533), he_iahltwiki (144), hi_hdtb (2679), sv_talbanken (802), zh_hk (304)
 
-* `Cxn=AdverbialWHClause-Reduced-Active`: en_gum (26), en_gumreddit (5)
+* `Cxn=AdverbialWHClause-Reduced-Active`: en_gum (29), en_gumreddit (5)
 * `Cxn=AdverbialWHClause-Reduced-Adjectival`: en_gentle (1), en_gum (3)
 * `Cxn=AdverbialWHClause-Reduced-Passive`: en_gum (11), en_gumreddit (1)
-* `Cxn=CausalExcess`: en_gum (8), en_gumreddit (1)
+* `Cxn=CausalExcess`: en_gum (11), en_gumreddit (1)
 * `Cxn=ComparativeCorrelative`: cop_scriptorium (1), en_gum (6)
 * `Cxn=Conditional-Interrogative`: en_ewt (2), en_gum (5), en_gumreddit (1)
 * `Cxn=Conditional-Marker`: sv_talbanken (220)
@@ -2007,7 +2031,7 @@ Total 243 values: cop_bohairic (129), cop_scriptorium (426), de_hdt (12041), en_
 * `Cxn=Conditional-NegativeEpistemic,Conditional-NeutralEpistemic`: he_htb (10), he_iahltknesset (2), he_iahltwiki (2)
 * `Cxn=Conditional-NegativeEpistemic,Conditional-NeutralEpistemic,Interrogative-Polar-Indirect`: he_htb (1)
 * `Cxn=Conditional-NegativeEpistemic,Conditional-NeutralEpistemic,Interrogative-WHInfo-Direct`: he_htb (1)
-* `Cxn=Conditional-NegativeEpistemic-NoInversion`: en_ewt (8), en_gum (7), en_gumreddit (3)
+* `Cxn=Conditional-NegativeEpistemic-NoInversion`: en_ewt (8), en_gum (8), en_gumreddit (3)
 * `Cxn=Conditional-NegativeEpistemic-NoInversion,Conditional-NegativeEpistemic-Reduced`: en_ewt (1)
 * `Cxn=Conditional-NegativeEpistemic-NoInversion,rc-red-obj`: en_ewt (1)
 * `Cxn=Conditional-NegativeEpistemic-Reduced`: en_ewt (1)
@@ -2032,8 +2056,9 @@ Total 243 values: cop_bohairic (129), cop_scriptorium (426), de_hdt (12041), en_
 
 ## CxnElt
 
-Total 2762 values: cop_bohairic (237), cop_scriptorium (745), de_hdt (15980), en_ewt (3658), en_gentle (199), en_gum (3568), en_gumreddit (430), es_ancora (2132), he_htb (877), he_iahltknesset (837), he_iahltwiki (237), hi_hdtb (3280), sv_talbanken (1311), zh_hk (457)
+Total 2797 values: cop_bohairic (235), cop_scriptorium (762), de_hdt (15980), en_ewt (3672), en_gentle (199), en_gum (3971), en_gumreddit (430), es_ancora (2132), he_htb (877), he_iahltknesset (837), he_iahltwiki (237), hi_hdtb (3280), sv_talbanken (1311), zh_hk (457)
 
+* `CxnElt=100:Existential-CopPred-ThereExpl.Pivot`: en_gum (1)
 * `CxnElt=106:Conditional-UnspecifiedEpistemic.Apodosis`: cop_scriptorium (1)
 * `CxnElt=106:Conditional-UnspecifiedEpistemic.Protasis`: cop_scriptorium (1)
 * `CxnElt=10:AdverbialWHClause-Reduced-Active.Clause`: en_gum (1)
@@ -2069,12 +2094,12 @@ Total 2762 values: cop_bohairic (237), cop_scriptorium (745), de_hdt (15980), en
 * `CxnElt=10:Conditional-SubjVerbInversion.Protasis,22:Conditional-SubjVerbInversion.Protasis,24:Conditional-SubjVerbInversion.Protasis`: de_hdt (1)
 * `CxnElt=10:Conditional-SubjVerbInversion.Protasis,23:Conditional-SubjVerbInversion.Protasis`: de_hdt (1)
 * `CxnElt=10:Conditional-SubjVerbInversion.Protasis,26:Conditional-SubjVerbInversion.Protasis`: de_hdt (1)
-* `CxnElt=10:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis`: en_ewt (37), en_gentle (1), en_gum (23), en_gumreddit (4)
+* `CxnElt=10:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis`: en_ewt (37), en_gentle (1), en_gum (27), en_gumreddit (4)
 * `CxnElt=10:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis,10:Conditional-UnspecifiedEpistemic-Reduced.Apodosis`: en_gum (1)
 * `CxnElt=10:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis,10:Ditransitive.V`: en_gum (1)
 * `CxnElt=10:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis,10:Interrogative-Polar-Direct.Clause`: en_gum (1)
 * `CxnElt=10:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis,10:Interrogative-WHInfo-Direct.Clause`: en_gum (1)
-* `CxnElt=10:Conditional-UnspecifiedEpistemic-NoInversion.Protasis`: en_ewt (37), en_gentle (1), en_gum (26), en_gumreddit (4)
+* `CxnElt=10:Conditional-UnspecifiedEpistemic-NoInversion.Protasis`: en_ewt (37), en_gentle (1), en_gum (30), en_gumreddit (4)
 * `CxnElt=10:Conditional-UnspecifiedEpistemic-NoInversion.Protasis,10:Conditional-UnspecifiedEpistemic-Reduced.Protasis`: en_gum (1)
 * `CxnElt=10:Conditional-UnspecifiedEpistemic-Reduced.Apodosis`: en_ewt (5)
 * `CxnElt=10:Conditional-UnspecifiedEpistemic-Reduced.Protasis`: en_ewt (5)
@@ -2083,7 +2108,6 @@ Total 2762 values: cop_bohairic (237), cop_scriptorium (745), de_hdt (15980), en
 * `CxnElt=10:Conditional-UnspecifiedEpistemic.Apodosis`: cop_bohairic (1), cop_scriptorium (3)
 * `CxnElt=10:Conditional-UnspecifiedEpistemic.Apodosis,1:Interrogative-Polar-Direct.WHWord`: cop_scriptorium (1)
 * `CxnElt=10:Conditional-UnspecifiedEpistemic.Protasis`: cop_bohairic (1), cop_scriptorium (4)
-* `CxnElt=10:Ditransitive.Rec`: en_gentle (3), en_gum (15), en_gumreddit (1)
 * …
 
 ## CycleHead
@@ -2215,21 +2239,22 @@ Total 1 values: bej_autogramm (1)
 
 ## Deriv
 
-Total 2 values: azz_itml (5), olo_kkpp (9)
+Total 2 values: azz_itml (5), nhi_mesotree (22), olo_kkpp (9)
 
-* `Deriv=Dim`: azz_itml (5)
+* `Deriv=Dim`: azz_itml (5), nhi_mesotree (22)
 * `Deriv=Ma`: olo_kkpp (9)
 
 ## Derivation
 
-Total 2 values: az_tuecl (2)
+Total 3 values: az_tuecl (2), kbc_unicamp (1)
 
 * `Derivation=Li`: az_tuecl (1)
 * `Derivation=Liq`: az_tuecl (1)
+* `Derivation=Nml`: kbc_unicamp (1)
 
 ## DerivedFrom
 
-Total 1936 values: ota_dudu (120), tr_boun (5176)
+Total 1936 values: ota_dudu (121), tr_boun (5176)
 
 * `DerivedFrom=%25`: tr_boun (1)
 * `DerivedFrom=1940`: tr_boun (1)
@@ -2308,58 +2333,58 @@ Total 18 values: la_ittb (519)
 
 ## Discourse
 
-Total 32212 values: en_gentle (2716), en_gum (30165), en_gumreddit (2263)
+Total 34707 values: en_gentle (2717), en_gum (33007), en_gumreddit (2263)
 
 * `Discourse=ROOT:100:0`: en_gum (1)
 * `Discourse=ROOT:107:0`: en_gum (1)
 * `Discourse=ROOT:107:0;explanation-justify:107->111:2:1:orp-so-779-_`: en_gum (1)
 * `Discourse=ROOT:10:0`: en_gum (6)
 * `Discourse=ROOT:10:0;joint-other:10->9:0:0:orp-and-57-gold`: en_gumreddit (1)
-* `Discourse=ROOT:11:0`: en_gum (5), en_gumreddit (1)
+* `Discourse=ROOT:113:0`: en_gum (1)
+* `Discourse=ROOT:11:0`: en_gum (6), en_gumreddit (1)
 * `Discourse=ROOT:126:0`: en_gum (1)
 * `Discourse=ROOT:126:0;joint-list:126->124:1:3:orp-and-1059-_`: en_gum (1)
 * `Discourse=ROOT:12:0`: en_gum (4)
 * `Discourse=ROOT:12:0;joint-other:12->7:2:2:orp-and-73-_`: en_gum (1)
-* `Discourse=ROOT:13:0`: en_gentle (2), en_gum (3)
+* `Discourse=ROOT:13:0`: en_gentle (2), en_gum (4)
 * `Discourse=ROOT:142:0`: en_gum (1)
 * `Discourse=ROOT:14:0`: en_gum (5)
-* `Discourse=ROOT:150:0`: en_gum (1)
+* `Discourse=ROOT:150:0`: en_gum (2)
 * `Discourse=ROOT:15:0`: en_gum (5)
 * `Discourse=ROOT:15:0;joint-other:15->9:3:3:orp-and-73-_`: en_gum (1)
-* `Discourse=ROOT:16:0`: en_gentle (1), en_gum (5), en_gumreddit (2)
+* `Discourse=ROOT:16:0`: en_gentle (1), en_gum (6), en_gumreddit (2)
 * `Discourse=ROOT:16:0;joint-other:16->11:2:3:orp-also-158-_+orp-but also-144,147-_;mode-manner:16->15:0:0:orp-in-157-_+syn-pres-159-_`: en_gum (1)
 * `Discourse=ROOT:17:0`: en_gum (4)
-* `Discourse=ROOT:17:0;causal-result:17->1:0:3:orp-so-132-_`: en_gentle (1)
+* `Discourse=ROOT:17:0;causal-result:17->1:0:3:orp-so-132-gold`: en_gentle (1)
 * `Discourse=ROOT:183:0`: en_gentle (1)
 * `Discourse=ROOT:18:0`: en_gum (2)
 * `Discourse=ROOT:19:0`: en_gum (5), en_gumreddit (1)
-* `Discourse=ROOT:1:0`: en_gentle (1), en_gum (5), en_gumreddit (1)
+* `Discourse=ROOT:1:0`: en_gentle (1), en_gum (6), en_gumreddit (1)
 * `Discourse=ROOT:1:0;adversative-concession:1->4:1:1:orp-however-27-_`: en_gum (1)
 * `Discourse=ROOT:20:0`: en_gentle (1), en_gum (3)
 * `Discourse=ROOT:20:0;causal-cause:20->22:0:2:lex-altlex-180-183-gold`: en_gentle (1)
 * `Discourse=ROOT:21:0`: en_gum (3)
-* `Discourse=ROOT:22:0`: en_gum (2), en_gumreddit (2)
-* `Discourse=ROOT:22:0;elaboration-additional:22->21:0:0:orp-and-144-_`: en_gentle (1)
+* `Discourse=ROOT:22:0`: en_gum (3), en_gumreddit (2)
+* `Discourse=ROOT:22:0;elaboration-additional:22->21:0:0:orp-and-144-gold`: en_gentle (1)
 * `Discourse=ROOT:23:0`: en_gum (4)
 * `Discourse=ROOT:23:0;causal-result:23->19:0:1:orp-and-160-_`: en_gum (1)
 * `Discourse=ROOT:23:0;joint-other:23->22:2:1:orp-and-206-_;adversative-concession:23->46:3:2:orp-but-414-_`: en_gum (1)
 * `Discourse=ROOT:24:0`: en_gentle (1), en_gum (4)
-* `Discourse=ROOT:25:0`: en_gum (1)
+* `Discourse=ROOT:25:0`: en_gum (2)
 * `Discourse=ROOT:26:0`: en_gum (2)
-* `Discourse=ROOT:27:0`: en_gum (2)
+* `Discourse=ROOT:27:0`: en_gum (3)
 * `Discourse=ROOT:27:0;causal-result:27->24:1:2:orp-so-184-_`: en_gum (1)
-* `Discourse=ROOT:28:0`: en_gum (3)
-* `Discourse=ROOT:29:0`: en_gentle (1), en_gum (2), en_gumreddit (1)
-* `Discourse=ROOT:2:0`: en_gentle (2), en_gum (24), en_gumreddit (2)
+* `Discourse=ROOT:28:0`: en_gum (2)
+* `Discourse=ROOT:29:0`: en_gentle (1), en_gum (3), en_gumreddit (1)
+* `Discourse=ROOT:2:0`: en_gentle (2), en_gum (25), en_gumreddit (2)
+* `Discourse=ROOT:30:0`: en_gum (1)
 * `Discourse=ROOT:31:0`: en_gum (2)
 * `Discourse=ROOT:32:0`: en_gum (2)
 * `Discourse=ROOT:33:0`: en_gum (2)
+* `Discourse=ROOT:34:0`: en_gum (1)
 * `Discourse=ROOT:35:0`: en_gum (2)
 * `Discourse=ROOT:35:0;joint-other:35->34:0:0:orp-and-253-_`: en_gum (1)
-* `Discourse=ROOT:36:0;joint-sequence:36->39:0:0:orp-before-322-_`: en_gum (1)
-* `Discourse=ROOT:37:0`: en_gum (3)
-* `Discourse=ROOT:38:0`: en_gum (2)
-* `Discourse=ROOT:39:0`: en_gum (2)
+* `Discourse=ROOT:36:0;joint-list:36->35:0:0:orp-and-319-_`: en_gum (1)
 * …
 
 ## DislocateHead
@@ -2420,12 +2445,6 @@ Total 17 values: ug_udt (20)
 * `Edep=9:nmod>nmod`: ug_udt (1)
 * `Edep=9:nsubj>congj`: ug_udt (1)
 * `Edep=9:nsubj>conj`: ug_udt (3)
-
-## Emph
-
-Total 1 values: egy_ujaen (19)
-
-* `Emph=Yes`: egy_ujaen (19)
 
 ## Empty
 
@@ -2498,14 +2517,28 @@ Total 1469 values: lt_hse (5356)
 
 ## End
 
-Total 2106 values: it_kiparlaforest (1313), orv_rnc (42455)
+Total 3541 values: it_kiparlaforest (2748), orv_rnc (42455)
 
 * `End=0`: orv_rnc (2809)
+* `End=10.0`: it_kiparlaforest (1)
+* `End=10.07`: it_kiparlaforest (1)
+* `End=10.153`: it_kiparlaforest (1)
+* `End=10.64`: it_kiparlaforest (1)
+* `End=10.901`: it_kiparlaforest (1)
 * `End=100.75`: it_kiparlaforest (1)
+* `End=1001.112`: it_kiparlaforest (1)
+* `End=1003.705`: it_kiparlaforest (1)
 * `End=1003.9`: it_kiparlaforest (1)
+* `End=1004.305`: it_kiparlaforest (1)
 * `End=1008.21`: it_kiparlaforest (1)
+* `End=1008.506`: it_kiparlaforest (1)
 * `End=1008.51`: it_kiparlaforest (1)
 * `End=1009.44`: it_kiparlaforest (1)
+* `End=1009.906`: it_kiparlaforest (1)
+* `End=101.165`: it_kiparlaforest (1)
+* `End=101.305`: it_kiparlaforest (1)
+* `End=101.501`: it_kiparlaforest (1)
+* `End=101.719`: it_kiparlaforest (1)
 * `End=1010.0`: it_kiparlaforest (1)
 * `End=1010.427`: it_kiparlaforest (1)
 * `End=1013.112`: it_kiparlaforest (1)
@@ -2513,43 +2546,29 @@ Total 2106 values: it_kiparlaforest (1313), orv_rnc (42455)
 * `End=1015.007`: it_kiparlaforest (1)
 * `End=1015.73`: it_kiparlaforest (1)
 * `End=1017.152`: it_kiparlaforest (1)
+* `End=1018.105`: it_kiparlaforest (1)
 * `End=102.024`: it_kiparlaforest (1)
+* `End=102.14`: it_kiparlaforest (1)
+* `End=102.669`: it_kiparlaforest (1)
+* `End=102.9`: it_kiparlaforest (1)
 * `End=1020.632`: it_kiparlaforest (1)
 * `End=1021.01`: it_kiparlaforest (1)
+* `End=1021.983`: it_kiparlaforest (1)
 * `End=1023.18`: it_kiparlaforest (1)
+* `End=1023.258`: it_kiparlaforest (1)
 * `End=1024.406`: it_kiparlaforest (1)
 * `End=1024.56`: it_kiparlaforest (1)
 * `End=1024.7`: it_kiparlaforest (1)
 * `End=1025.432`: it_kiparlaforest (1)
+* `End=1026.267`: it_kiparlaforest (1)
 * `End=1027.192`: it_kiparlaforest (1)
 * `End=1028.21`: it_kiparlaforest (1)
+* `End=103.141`: it_kiparlaforest (1)
+* `End=103.787`: it_kiparlaforest (1)
 * `End=1033.317`: it_kiparlaforest (1)
+* `End=1033.4`: it_kiparlaforest (1)
 * `End=1036.74`: it_kiparlaforest (1)
-* `End=1038.252`: it_kiparlaforest (1)
-* `End=1042.48`: it_kiparlaforest (1)
-* `End=1046.712`: it_kiparlaforest (1)
-* `End=1047.477`: it_kiparlaforest (1)
-* `End=1048.69`: it_kiparlaforest (1)
-* `End=1049.52`: it_kiparlaforest (1)
-* `End=105.09`: it_kiparlaforest (1)
-* `End=105.55`: it_kiparlaforest (1)
-* `End=1050.528`: it_kiparlaforest (1)
-* `End=1055.56`: it_kiparlaforest (1)
-* `End=106.939`: it_kiparlaforest (1)
-* `End=1060.6`: it_kiparlaforest (1)
-* `End=1061.222`: it_kiparlaforest (1)
-* `End=1063.201`: it_kiparlaforest (1)
-* `End=1064.911`: it_kiparlaforest (1)
-* `End=1067.546`: it_kiparlaforest (1)
-* `End=1068.336`: it_kiparlaforest (1)
-* `End=107.419`: it_kiparlaforest (1)
-* `End=1070.25`: it_kiparlaforest (1)
-* `End=1070.278`: it_kiparlaforest (1)
-* `End=1073.55`: it_kiparlaforest (1)
-* `End=1073.59`: it_kiparlaforest (1)
-* `End=1077.42`: it_kiparlaforest (1)
-* `End=1078.899`: it_kiparlaforest (1)
-* `End=1079.87`: it_kiparlaforest (1)
+* `End=1037.019`: it_kiparlaforest (1)
 * …
 
 ## Enhanced
@@ -2564,15 +2583,23 @@ Total 7 values: sv_talbanken (87)
 * `Enhanced=root`: sv_talbanken (8)
 * `Enhanced=xcomp`: sv_talbanken (3)
 
+## Entit)y
+
+Total 1 values: or_odtb (1)
+
+* `Entit)y=e1`: or_odtb (1)
+
 ## Entity
 
-Total 631338 values: ca_ancora (155319), cop_bohairic (5751), cop_scriptorium (13626), cs_pdtc (617466), en_gentle (7157), en_gum (85662), en_gumreddit (5774), es_ancora (162976), he_iahltknesset (3653), he_iahltwiki (15701)
+Total 637677 values: ca_ancora (155319), cop_bohairic (8407), cop_scriptorium (14077), cs_pdtc (617466), en_gentle (7157), en_gum (94214), en_gumreddit (5776), es_ancora (162976), he_iahltknesset (3653), he_iahltwiki (15701), or_odtb (1074)
 
+* `Entity=(1-abstract-acc:com-nnnnn-cf1-1-ana)`: en_gum (1)
 * `Entity=(1-abstract-acc:com-nnnnn-cf1-1-sgl)`: en_gum (1)
 * `Entity=(1-abstract-acc:com-nnnnn-cf2-3-coref`: en_gum (1)
 * `Entity=(1-abstract-acc:com-sssns-cf1-1-ana)`: en_gum (1)
 * `Entity=(1-abstract-acc:com-sssss-cf1-1-coref)`: en_gumreddit (1)
 * `Entity=(1-abstract-giv:act-nnnnn-cf1*-1-ana)`: en_gum (2)
+* `Entity=(1-abstract-giv:act-nnnnn-cf1-2-coref`: en_gum (1)
 * `Entity=(1-abstract-giv:act-nnnnn-cf2-4-coref`: en_gum (1)
 * `Entity=(1-abstract-giv:act-nnnnn-cf3-1-coref)`: en_gentle (1)
 * `Entity=(1-abstract-giv:act-nnnnn-cf3-3-coref`: en_gentle (1)
@@ -2583,6 +2610,7 @@ Total 631338 values: ca_ancora (155319), cop_bohairic (5751), cop_scriptorium (1
 * `Entity=(1-abstract-giv:act-nssns-cf2-3-coref`: en_gum (3)
 * `Entity=(1-abstract-giv:act-nssss-cf1*-3-coref`: en_gum (1)
 * `Entity=(1-abstract-giv:act-nssss-cf3*-1-coref)`: en_gum (1)
+* `Entity=(1-abstract-giv:act-snnnn-cf1*-1,3,5,6,8-coref(2-place-new-snsnn-cf4-1,3-coref-Concord%2C_Massachusetts`: en_gum (1)
 * `Entity=(1-abstract-giv:act-snnns-cf2*-4,6,7-coref(3-person-giv:act-sssss-cf1-1-ana-Lord_Byron)`: en_gum (1)
 * `Entity=(1-abstract-giv:act-ssnns-cf1-1-ana)`: en_gumreddit (1)
 * `Entity=(1-abstract-giv:act-sssns-cf1*-1-ana)`: en_gum (3)
@@ -2604,9 +2632,9 @@ Total 631338 values: ca_ancora (155319), cop_bohairic (5751), cop_scriptorium (1
 * `Entity=(1-abstract-giv:act-sssss-cf1*-1-coref)2)`: en_gum (1)
 * `Entity=(1-abstract-giv:act-sssss-cf1*-1-coref)89)88)85)`: en_gum (1)
 * `Entity=(1-abstract-giv:act-sssss-cf1*-1-coref-Bandial_language)`: en_gum (3)
-* `Entity=(1-abstract-giv:act-sssss-cf1*-1-coref-Bandial_language)127)`: en_gum (1)
-* `Entity=(1-abstract-giv:act-sssss-cf1*-1-coref-Bandial_language)13)157)`: en_gum (1)
-* `Entity=(1-abstract-giv:act-sssss-cf1*-1-coref-Bandial_language)133)`: en_gum (1)
+* `Entity=(1-abstract-giv:act-sssss-cf1*-1-coref-Bandial_language)126)`: en_gum (1)
+* `Entity=(1-abstract-giv:act-sssss-cf1*-1-coref-Bandial_language)13)156)`: en_gum (1)
+* `Entity=(1-abstract-giv:act-sssss-cf1*-1-coref-Bandial_language)132)`: en_gum (1)
 * `Entity=(1-abstract-giv:act-sssss-cf1*-1-coref-Ghost_in_the_Shell_%281995_film%29`: en_gum (1)
 * `Entity=(1-abstract-giv:act-sssss-cf1*-1-coref-Ghost_in_the_Shell_%281995_film%29)`: en_gum (1)
 * `Entity=(1-abstract-giv:act-sssss-cf1*-1-coref-Quidditch_%28real 0life_sport%29)`: 
@@ -2615,9 +2643,6 @@ Total 631338 values: ca_ancora (155319), cop_bohairic (5751), cop_scriptorium (1
 * `Entity=(1-abstract-giv:act-sssss-cf1*-2,3-coref-Chymical_Wedding_of_Christian_Rosenkreutz`: en_gum (1)
 * `Entity=(1-abstract-giv:act-sssss-cf1*-2-coref`: en_gentle (3), en_gum (1), en_gumreddit (1)
 * `Entity=(1-abstract-giv:act-sssss-cf1*-2-coref-Chymical_Wedding_of_Christian_Rosenkreutz`: en_gum (2)
-* `Entity=(1-abstract-giv:act-sssss-cf1*-2-coref-Quidditch_%28real 0life_sport%29`: 
-* `Entity=(1-abstract-giv:act-sssss-cf1*-3-coref`: en_gum (1)
-* `Entity=(1-abstract-giv:act-sssss-cf1*-3-coref-Bandial_language`: en_gum (2)
 * …
 
 ## Epithesis
@@ -2634,9 +2659,9 @@ Total 1 values: et_ewt (46)
 
 ## Error
 
-Total 1 values: he_iahltknesset (1), he_iahltwiki (9)
+Total 1 values: he_iahltknesset (1), he_iahltwiki (9), nhi_mesotree (44)
 
-* `Error=TokenLevel`: he_iahltknesset (1), he_iahltwiki (9)
+* `Error=TokenLevel`: he_iahltknesset (1), he_iahltwiki (9), nhi_mesotree (44)
 
 ## EvalMorph
 
@@ -2650,6 +2675,27 @@ Total 2 values: en_ewt (3)
 
 * `Exclamative=No`: en_ewt (2)
 * `Exclamative=Yes`: en_ewt (1)
+
+## Exponence[Gender]
+
+Total 2 values: fr_gsd (91090), fr_parisstories (8054), fr_rhapsodie (8627), fr_sequoia (18519)
+
+* `Exponence[Gender]=Absent`: fr_gsd (12701), fr_parisstories (2471), fr_rhapsodie (2210), fr_sequoia (2516)
+* `Exponence[Gender]=Inherent`: fr_gsd (78389), fr_parisstories (5583), fr_rhapsodie (6417), fr_sequoia (16003)
+
+## Exponence[Number]
+
+Total 2 values: fr_gsd (15123), fr_parisstories (11669), fr_rhapsodie (11381), fr_sequoia (2478)
+
+* `Exponence[Number]=Absent`: fr_gsd (4261), fr_parisstories (7400), fr_rhapsodie (7840), fr_sequoia (716)
+* `Exponence[Number]=Inherent`: fr_gsd (10862), fr_parisstories (4269), fr_rhapsodie (3541), fr_sequoia (1762)
+
+## Exponence[Person]
+
+Total 2 values: fr_parisstories (7745), fr_rhapsodie (5998)
+
+* `Exponence[Person]=Absent`: fr_parisstories (1794), fr_rhapsodie (1381)
+* `Exponence[Person]=Inherent`: fr_parisstories (5951), fr_rhapsodie (4617)
 
 ## ExtGender
 
@@ -2665,9 +2711,9 @@ Total 1 values: fr_rhapsodie (1)
 
 ## ExtPos
 
-Total 4 values: ha_northernautogramm (3), it_kiparlaforest (6), nhi_itml (1), pt_gsd (1), zh_beginner (1)
+Total 4 values: fr_parisstories (1), ha_northernautogramm (3), it_kiparlaforest (6), nhi_mesotree (1), pt_gsd (1), zh_beginner (1)
 
-* `ExtPos=ADV`: nhi_itml (1)
+* `ExtPos=ADV`: fr_parisstories (1), nhi_mesotree (1)
 * `ExtPos=DM`: it_kiparlaforest (6)
 * `ExtPos=NOUN`: ha_northernautogramm (3), pt_gsd (1)
 * `ExtPos=PRON`: zh_beginner (1)
@@ -2751,9 +2797,10 @@ Total 1 values: en_ewt (2)
 
 ## Foreign
 
-Total 1 values: cpg_amgic (2), cy_ccg (2), en_ctetex (21), it_old (6), it_valico (36), sv_pud (1)
+Total 2 values: cpg_amgic (2), cy_ccg (2), en_ctetex (21), it_old (6), it_valico (36), or_odtb (1), sv_pud (1)
 
 * `Foreign=Yes`: cpg_amgic (2), cy_ccg (2), en_ctetex (21), it_old (6), it_valico (36), sv_pud (1)
+* `Foreign=ପାଇଁ`: or_odtb (1)
 
 ## FulForm
 
@@ -2968,18 +3015,18 @@ Total 778 values: arh_chibergis (4380), gya_autogramm (577), sab_chibergis (2222
 
 ## GTtags
 
-Total 3171 values: apu_ufpa (81), koi_uh (753), kpv_ikdp (843), kpv_lattice (4090), mdf_jr (3016), myv_jr (15128), sms_giellagas (1780)
+Total 3242 values: apu_ufpa (154), koi_uh (815), kpv_ikdp (843), kpv_lattice (4191), mdf_jr (3147), myv_jr (15228), sms_giellagas (1855)
 
 * `GTtags=-Coll,SP,Lat,Indef`: myv_jr (1)
 * `GTtags=-tejems,Ind,Prt1,ScSg3`: myv_jr (1)
 * `GTtags=2`: apu_ufpa (1)
 * `GTtags=<gen>`: sms_giellagas (4)
-* `GTtags=?`: apu_ufpa (2), kpv_lattice (1), mdf_jr (37), myv_jr (39)
+* `GTtags=?`: apu_ufpa (6), koi_uh (2), kpv_lattice (2), mdf_jr (42), myv_jr (40), sms_giellagas (2)
 * `GTtags=@<ADVL`: sms_giellagas (1)
 * `GTtags=@ADVL>`: sms_giellagas (28)
 * `GTtags=@CNP`: sms_giellagas (7)
 * `GTtags=@CVP`: sms_giellagas (35)
-* `GTtags=A`: koi_uh (11), mdf_jr (2)
+* `GTtags=A`: koi_uh (12), mdf_jr (2)
 * `GTtags=A,Comp,Sg,Nom`: kpv_ikdp (1)
 * `GTtags=A,CompMod,Sg,Nom`: kpv_lattice (1)
 * `GTtags=A,Cop,Pl`: koi_uh (2), kpv_lattice (2)
@@ -3130,29 +3177,27 @@ Total 45 values: fi_ood (126)
 
 ## Gender
 
-Total 5 values: be_hse (1), fr_rhapsodie (2), krl_kkpp (32), pt_petrogold (73), qaf_arabizi (1), qtd_sagt (1)
+Total 5 values: be_hse (1), krl_kkpp (32), pt_petrogold (73), qaf_arabizi (1), qtd_sagt (1)
 
-* `Gender=Fem`: fr_rhapsodie (2), qtd_sagt (1)
+* `Gender=Fem`: qtd_sagt (1)
 * `Gender=Female`: krl_kkpp (17)
 * `Gender=Male`: krl_kkpp (15)
 * `Gender=Masc`: be_hse (1), qaf_arabizi (1)
 * `Gender=Unsp`: pt_petrogold (73)
 
-## Gender[ctxt]
+## GenderAf
 
-Total 3 values: fr_gsd (12701), fr_parisstories (1603), fr_rhapsodie (1789), fr_sequoia (2516)
+Total 2 values: ha_easternautogramm (68), ha_northernautogramm (264), ha_southernautogramm (79), ha_westernautogramm (303)
 
-* `Gender[ctxt]=Fem`: fr_gsd (6489), fr_parisstories (483), fr_rhapsodie (641), fr_sequoia (1413)
-* `Gender[ctxt]=Masc`: fr_gsd (6212), fr_parisstories (1120), fr_rhapsodie (1147), fr_sequoia (1103)
-* `Gender[ctxt]=Unknown`: fr_rhapsodie (1)
+* `GenderAf=Fem`: ha_easternautogramm (14), ha_northernautogramm (28), ha_southernautogramm (30), ha_westernautogramm (124)
+* `GenderAf=Masc`: ha_easternautogramm (54), ha_northernautogramm (236), ha_southernautogramm (49), ha_westernautogramm (179)
 
-## Gender[lex]
+## Gender[psor]
 
-Total 3 values: fr_gsd (99381), fr_parisstories (4755), fr_rhapsodie (6024), fr_sequoia (16340)
+Total 2 values: hr_set (356), sr_set (198)
 
-* `Gender[lex]=Fem`: fr_gsd (33223), fr_parisstories (1667), fr_rhapsodie (2264), fr_sequoia (6889)
-* `Gender[lex]=Masc`: fr_gsd (41676), fr_parisstories (2686), fr_rhapsodie (2828), fr_sequoia (7657)
-* `Gender[lex]=Unknown`: fr_gsd (24482), fr_parisstories (402), fr_rhapsodie (932), fr_sequoia (1794)
+* `Gender[psor]=Fem`: hr_set (127), sr_set (63)
+* `Gender[psor]=Masc,Neut`: hr_set (229), sr_set (135)
 
 ## GermanLemma
 
@@ -3218,17 +3263,20 @@ Total 1 values: ceb_gja (1)
 
 ## Gloss
 
-Total 38849 values: abq_atb (652), aii_as (6), ang_cairo (171), ar_padt (242287), ar_pud (128), arh_chibergis (4676), bej_autogramm (11762), bm_crb (12775), bxr_bdt (94), ceb_gja (1187), ckt_hse (4901), ctn_ctntb (11728), cy_ccg (1), de_gsd (2), ess_sli (1165), fr_poitevindivital (3326), gd_arcosg (1), grc_ptnk (34636), gwi_tuecl (665), gya_autogramm (2691), ha_northernautogramm (4155), ha_southernautogramm (14397), ha_westernautogramm (13888), hbo_ptnk (114829), he_iahltwiki (6), ht_adolphe (4009), ht_autogramm (3002), lzh_kyoto (413847), lzh_tuecl (626), ml_ufal (21), myv_jr (677), nhi_itml (1421), oc_ttb (25603), pad_tuecl (387), pay_chibergis (3828), pcm_nsc (140822), ps_sikaram (4059), sa_ufal (1835), sab_chibergis (2626), say_autogramm (20742), ssp_lse (1393), th_pud (1702), tl_trg (658), ug_udt (90), wbp_ufal (315), xcl_caval (80234), yo_ytb (5559), yrk_tundra (744), yue_hk (31), zh_beginner (4990), zh_hk (22), zh_patentchar (4784)
+Total 42693 values: abq_atb (652), aii_as (6), ang_cairo (171), ar_padt (242287), ar_pud (128), arh_chibergis (4676), bej_autogramm (11759), bm_crb (12775), bxr_bdt (94), ceb_gja (1201), ckt_hse (4901), ctn_ctntb (11728), cy_ccg (1), de_gsd (2), ess_sli (1165), fr_poitevindivital (3326), gd_arcosg (1), gor_bungololombi (197), grc_ptnk (34636), gwi_tuecl (665), gya_autogramm (2691), ha_easternautogramm (9485), ha_northernautogramm (15423), ha_southernautogramm (14396), ha_westernautogramm (13903), hbo_ptnk (114829), he_iahltwiki (6), ht_adolphe (4009), ht_autogramm (3002), kbc_unicamp (5), lzh_kyoto (414081), lzh_tuecl (626), ml_ufal (21), myv_jr (677), nhi_mesotree (1421), oc_ttb (25603), pad_tuecl (387), pay_chibergis (3828), pcm_nsc (140822), ps_sikaram (5456), ruc_rdt (4303), sa_ufal (1835), sab_chibergis (2626), say_autogramm (20937), ssp_lse (1393), th_pud (1702), tl_trg (658), ug_udt (90), wbp_ufal (315), xcl_caval (80234), yo_ytb (5559), yrk_tundra (744), yue_hk (31), zh_beginner (4990), zh_hk (22), zh_patentchar (4784)
 
-* `Gloss=!`: ang_cairo (1), bm_crb (234), ceb_gja (6), fr_poitevindivital (15), oc_ttb (101), ps_sikaram (2), yo_ytb (1)
-* `Gloss="`: oc_ttb (77)
+* `Gloss=!`: ang_cairo (1), bm_crb (234), ceb_gja (6), fr_poitevindivital (15), oc_ttb (101), ps_sikaram (6), yo_ytb (1)
+* `Gloss="`: ha_easternautogramm (1), oc_ttb (77)
 * `Gloss="choser"`: bm_crb (1)
 * `Gloss="najok".Ind`: say_autogramm (1)
+* `Gloss="paper.Plur.Def"`: ha_easternautogramm (1)
 * `Gloss=$`: ht_adolphe (1), ht_autogramm (1)
 * `Gloss=%`: ps_sikaram (1)
 * `Gloss='`: fr_poitevindivital (21), oc_ttb (6)
+* `Gloss='YabBaraːya`: ha_northernautogramm (4)
+* `Gloss='YabBàraːya`: ha_northernautogramm (21)
 * `Gloss='s`: lzh_kyoto (9149), lzh_tuecl (20)
-* `Gloss=(`: fr_poitevindivital (4), oc_ttb (14), ps_sikaram (39), yo_ytb (3)
+* `Gloss=(`: fr_poitevindivital (4), oc_ttb (14), ps_sikaram (48), yo_ytb (3)
 * `Gloss=(NMC)`: ssp_lse (4)
 * `Gloss=(TMP.)DIR`: ctn_ctntb (1)
 * `Gloss=(_'ayn_),16th`: ar_padt (1)
@@ -3263,13 +3311,10 @@ Total 38849 values: abq_atb (652), aii_as (6), ang_cairo (171), ar_padt (242287)
 * `Gloss=(underwear)?.Masc`: ha_westernautogramm (1)
 * `Gloss=(énonciatif)`: oc_ttb (128)
 * `Gloss=(être)`: oc_ttb (1)
-* `Gloss=)`: fr_poitevindivital (4), oc_ttb (14), ps_sikaram (39), yo_ytb (3)
+* `Gloss=)`: fr_poitevindivital (4), oc_ttb (14), ps_sikaram (48), yo_ytb (3)
 * `Gloss=+`: oc_ttb (1)
 * `Gloss=+-G-=-by-(agency);-+-A-=-under`: grc_ptnk (15)
 * `Gloss=+-GEN-=-in-behalf-of,instead-of;-+-ACC-=-over,above,beyond`: grc_ptnk (5)
-* `Gloss=+33_(0)5_61_04_49_24`: oc_ttb (1)
-* `Gloss=+D=at;-+A=to,toward`: grc_ptnk (276)
-* `Gloss=+G=about,concerning;-+A=around,about`: grc_ptnk (37)
 * …
 
 ## Gloss[eng]
@@ -3528,6 +3573,31 @@ Total 1 values: kpv_lattice (2)
 
 * `Gttags=Po,Ine`: kpv_lattice (2)
 
+## HasSpokenGender
+
+Total 6 values: fr_parisstories (3686), fr_rhapsodie (4399)
+
+* `HasSpokenGender=No`: fr_parisstories (421), fr_rhapsodie (619)
+* `HasSpokenGender=NotInThisDialect`: fr_parisstories (91), fr_rhapsodie (120)
+* `HasSpokenGender=OnlyPlur`: fr_parisstories (30), fr_rhapsodie (61)
+* `HasSpokenGender=OnlySingExceptWithLiaison`: fr_parisstories (2490), fr_rhapsodie (2818)
+* `HasSpokenGender=Yes`: fr_parisstories (36), fr_rhapsodie (70)
+* `HasSpokenGender=YesExceptSingWithLiaison`: fr_parisstories (618), fr_rhapsodie (711)
+
+## HasSpokenNumber
+
+Total 3 values: fr_parisstories (1195), fr_rhapsodie (1580)
+
+* `HasSpokenNumber=AlwaysMasc`: fr_parisstories (30), fr_rhapsodie (61)
+* `HasSpokenNumber=OnlyFemWithLiaison`: fr_parisstories (57), fr_rhapsodie (109)
+* `HasSpokenNumber=OnlyWithLiaison`: fr_parisstories (1108), fr_rhapsodie (1410)
+
+## Head
+
+Total 1 values: it_kiparlaforest (2)
+
+* `Head=position`: it_kiparlaforest (2)
+
 ## HebSource
 
 Total 2 values: he_htb (2245)
@@ -3537,121 +3607,121 @@ Total 2 values: he_htb (2245)
 
 ## Hiero
 
-Total 4439 values: egy_ujaen (24086)
+Total 5730 values: egy_pc (33841)
 
-* `Hiero=((𓂓𓂓:𓂓))𓂕`: egy_ujaen (1)
-* `Hiero=((𓇋*𓏤):𓈖)𓋴𓃀𓄓𓈖`: egy_ujaen (1)
-* `Hiero=((𓇋𓇬:𓈖))`: egy_ujaen (1)
-* `Hiero=((𓋴*𓌴:)𓌛)𓏏𓃒`: egy_ujaen (1)
-* `Hiero=((𓋴*𓎛:)𓂝)𓋩`: egy_ujaen (2)
-* `Hiero=((𓎛*𓆰:)𓈖)𓅓𓅓(𓏏:UC_No)`: egy_ujaen (1)
-* `Hiero=((𓏌𓏏:𓇯))`: egy_ujaen (1)
-* `Hiero=(:𓄣*𓏤)`: egy_ujaen (1)
-* `Hiero=(UC_13973:𓏏)𓅌`: egy_ujaen (1)
-* `Hiero=(UC_139C3:𓏌)𓅱𓍘𓇋`: egy_ujaen (1)
-* `Hiero=(UC_139C3:𓏌)𓍘`: egy_ujaen (2)
-* `Hiero=(UC_139CA:UC_139CA)`: egy_ujaen (1)
-* `Hiero=(UC_13E12:𓏏)`: egy_ujaen (3)
-* `Hiero=(UC_13E12:𓐍:𓏏)`: egy_ujaen (2)
-* `Hiero=(UC_13F30:𓅱)𓂝𓃀`: egy_ujaen (2)
-* `Hiero=(UC_14095:𓊪)𓃒`: egy_ujaen (1)
-* `Hiero=(UC_14095:𓊪)𓅭𓅭`: egy_ujaen (1)
-* `Hiero=(UC_141F4*UC_141F4:)𓋴`: egy_ujaen (3)
-* `Hiero=(UC_142AD:UC_142AD)(UC_142AD:𓏏)`: egy_ujaen (1)
-* `Hiero=(UC_14344:𓅱)`: egy_ujaen (6)
-* `Hiero=(UC_1436D*UC_1436D:UC_1439A)`: egy_ujaen (1)
-* `Hiero=(UC_14386:𓅱)(𓂝:𓃀)`: egy_ujaen (9)
-* `Hiero=(UC_14386:𓅱)𓂝𓃀`: egy_ujaen (1)
-* `Hiero=(UC_14386:𓅱)𓂝𓃀𓈖`: egy_ujaen (2)
-* `Hiero=(UC_143A7:𓈖)𓌘`: egy_ujaen (1)
-* `Hiero=(UC_No:UC_No:UC_No)𓉃`: egy_ujaen (1)
-* `Hiero=(UC_No:𓅱)𓂝𓃀`: egy_ujaen (1)
-* `Hiero=(UC_No:𓅱)𓂝𓃀𓏏`: egy_ujaen (2)
-* `Hiero=(𓁶*𓁶:)𓁶`: egy_ujaen (3)
-* `Hiero=(𓁶:𓊪)`: egy_ujaen (1)
-* `Hiero=(𓁶:𓊪)𓅱`: egy_ujaen (1)
-* `Hiero=(𓁶:𓊪)𓇋`: egy_ujaen (1)
-* `Hiero=(𓁶:𓊪)𓏏`: egy_ujaen (2)
-* `Hiero=(𓁶:𓏏)𓇋`: egy_ujaen (1)
-* `Hiero=(𓁶:𓏤)`: egy_ujaen (1)
-* `Hiero=(𓁷:𓂋)`: egy_ujaen (7)
-* `Hiero=(𓁷:𓂋)𓅱`: egy_ujaen (3)
-* `Hiero=(𓁷:𓂋)𓅱𓅆𓅆𓅆`: egy_ujaen (2)
-* `Hiero=(𓁷:𓂋)𓇋`: egy_ujaen (3)
-* `Hiero=(𓁷:𓂋)𓏏`: egy_ujaen (1)
-* `Hiero=(𓁷:𓆑)(𓇉:𓆑)`: egy_ujaen (1)
-* `Hiero=(𓁹:𓁹)`: egy_ujaen (3)
-* `Hiero=(𓁹:𓁹)𓅆`: egy_ujaen (1)
-* `Hiero=(𓁹:𓁹:𓏏)`: egy_ujaen (1)
-* `Hiero=(𓁹:𓂋)𓅱`: egy_ujaen (1)
-* `Hiero=(𓁹:𓂋)𓅱𓇋𓇋`: egy_ujaen (1)
-* `Hiero=(𓁹:𓏏)`: egy_ujaen (1)
-* `Hiero=(𓁹:𓏏)𓈖`: egy_ujaen (1)
-* `Hiero=(𓁹:𓏏:𓏤)`: egy_ujaen (1)
-* `Hiero=(𓁹:𓏏𓏤)`: egy_ujaen (2)
+* `Hiero=$𓋴$(𓈙:𓂧)𓍼`: egy_pc (1)
+* `Hiero=$𓋴$(𓐍:𓏏)𓇏`: egy_pc (1)
+* `Hiero=$𓋴$(𓐍:𓏏)𓇏𓐚`: egy_pc (1)
+* `Hiero=(UC_No:UC_No:UC_No)𓉃`: egy_pc (1)
+* `Hiero=(UC_No:𓅱)𓂝𓃀`: egy_pc (1)
+* `Hiero=(UC_No:𓅱)𓂝𓃀𓏏`: egy_pc (2)
+* `Hiero=(UC_No:𓈓)`: egy_pc (1)
+* `Hiero=(UC_No:𓊪)`: egy_pc (1)
+* `Hiero=(UC_No:𓏏)`: egy_pc (3)
+* `Hiero=(UC_No:𓏤)`: egy_pc (1)
+* `Hiero=([𓆓:𓏏])`: egy_pc (1)
+* `Hiero=([𓉻:𓏏])`: egy_pc (1)
+* `Hiero=([𓊪]:𓈖)`: egy_pc (2)
+* `Hiero=([𓋴𓎛:𓂝])`: egy_pc (1)
+* `Hiero=([𓏏]:𓍃)𓅓𓅓𓍢`: egy_pc (1)
+* `Hiero=([𓐍:𓂋])`: egy_pc (1)
+* `Hiero=({𓐍:𓏤})𓎛𓃃𓈖`: egy_pc (1)
+* `Hiero=(˹𓁷˺:𓏤)`: egy_pc (1)
+* `Hiero=(˹𓈖˺:𓐍)`: egy_pc (1)
+* `Hiero=(˹𓊪˺:[𓆑])`: egy_pc (1)
+* `Hiero=(˹𓍿˺:[𓊪])𓎛(𓏏:𓉐)`: egy_pc (1)
+* `Hiero=(𓁶:𓊪)`: egy_pc (3)
+* `Hiero=(𓁶:𓊪)𓅱`: egy_pc (1)
+* `Hiero=(𓁶:𓊪)𓅱𓏧`: egy_pc (1)
+* `Hiero=(𓁶:𓊪)𓇋`: egy_pc (1)
+* `Hiero=(𓁶:𓊪)𓍘𓇋`: egy_pc (1)
+* `Hiero=(𓁶:𓊪)𓏏`: egy_pc (2)
+* `Hiero=(𓁶:𓊪𓏏)`: egy_pc (2)
+* `Hiero=(𓁶:𓏏)`: egy_pc (2)
+* `Hiero=(𓁶:𓏏)𓇋`: egy_pc (1)
+* `Hiero=(𓁶:𓏏)𓍘𓇋`: egy_pc (1)
+* `Hiero=(𓁶:𓏤)`: egy_pc (9)
+* `Hiero=(𓁶𓁶:𓁶)`: egy_pc (3)
+* `Hiero=(𓁶𓊪:𓏏)`: egy_pc (1)
+* `Hiero=(𓁷:˹𓏏˺)`: egy_pc (1)
+* `Hiero=(𓁷:𓂋)`: egy_pc (126)
+* `Hiero=(𓁷:𓂋)𓅱`: egy_pc (3)
+* `Hiero=(𓁷:𓂋)𓅱𓅆𓅆𓅆`: egy_pc (2)
+* `Hiero=(𓁷:𓂋)𓇋`: egy_pc (3)
+* `Hiero=(𓁷:𓂋)𓏏`: egy_pc (1)
+* `Hiero=(𓁷:𓂋:𓏏)`: egy_pc (5)
+* `Hiero=(𓁷:𓏏)`: egy_pc (4)
+* `Hiero=(𓁷:𓏤)`: egy_pc (37)
+* `Hiero=(𓁷:𓏮)`: egy_pc (2)
+* `Hiero=(𓁷𓁷:𓁷)`: egy_pc (1)
+* `Hiero=(𓁹:𓁹)`: egy_pc (10)
+* `Hiero=(𓁹:𓁹)𓅆`: egy_pc (1)
+* `Hiero=(𓁹:𓁹:𓏏)`: egy_pc (8)
+* `Hiero=(𓁹:𓂋)`: egy_pc (1)
+* `Hiero=(𓁹:𓂋)𓅱`: egy_pc (1)
 * …
 
 ## Hierocl
 
-Total 656 values: egy_ujaen (3376)
+Total 922 values: egy_pc (5190)
 
-* `Hierocl=((𓏐*𓏊):𓏖)`: egy_ujaen (4)
-* `Hierocl=((𓏐*𓏊:)𓏖)`: egy_ujaen (1)
-* `Hierocl=((𓏐*𓏊:)𓏖)𓏑`: egy_ujaen (1)
-* `Hierocl=((𓏑*𓏊:)𓏔)`: egy_ujaen (1)
-* `Hierocl=(UC_13139 FE00 UC_13139 FE00):UC_13139 FE00`: egy_ujaen (1)
-* `Hierocl=(UC_1399A:UC_1399A)`: egy_ujaen (1)
-* `Hierocl=(UC_1399A:UC_1399A:UC_1399A)`: egy_ujaen (1)
-* `Hierocl=(UC_139B1:UC_1401F)`: egy_ujaen (1)
-* `Hierocl=(UC_139C3:UC_139C3)UC_139C3`: egy_ujaen (1)
-* `Hierocl=(UC_139C9:UC_139C9)`: egy_ujaen (2)
-* `Hierocl=(UC_139C9:𓏤)`: egy_ujaen (1)
-* `Hierocl=(UC_13C08*UC_13C08:)UC_13C08`: egy_ujaen (1)
-* `Hierocl=(UC_13E8B*UC_13E8B:)UC_13E8B`: egy_ujaen (1)
-* `Hierocl=(UC_13ED1:UC_13ED1)UC_13ED1`: egy_ujaen (1)
-* `Hierocl=(UC_13F30:UC_13F30)`: egy_ujaen (1)
-* `Hierocl=(UC_13F30:UC_13F30:UC_13F30)`: egy_ujaen (2)
-* `Hierocl=(UC_142AD:UC_142AD)UC_142AD`: egy_ujaen (1)
-* `Hierocl=(UC_143A8*UC_143A8:)UC_143A8`: egy_ujaen (1)
-* `Hierocl=(UC_No:UC_No)UC_No`: egy_ujaen (2)
-* `Hierocl=(UC_No:UC_No:UC_No)`: egy_ujaen (1)
-* `Hierocl=(UC_No:𓊌:𓊌:𓊌)`: egy_ujaen (1)
-* `Hierocl=(UC_No:𓏤)`: egy_ujaen (2)
-* `Hierocl=(𓁸:𓁸)𓁸`: egy_ujaen (1)
-* `Hierocl=(𓂎:𓂎)`: egy_ujaen (1)
-* `Hierocl=(𓂠:𓏌𓏌𓏌)`: egy_ujaen (1)
-* `Hierocl=(𓂩:𓏧)`: egy_ujaen (1)
-* `Hierocl=(𓂬:𓏤)`: egy_ujaen (2)
-* `Hierocl=(𓂸:𓏤)`: egy_ujaen (1)
-* `Hierocl=(𓂻*𓂻:)𓂻`: egy_ujaen (1)
-* `Hierocl=(𓃾:𓏤)`: egy_ujaen (1)
-* `Hierocl=(𓄒:𓄒)`: egy_ujaen (1)
-* `Hierocl=(𓄓:𓏤)`: egy_ujaen (1)
-* `Hierocl=(𓄔:𓄔)`: egy_ujaen (1)
-* `Hierocl=(𓄗:𓄗)𓄗`: egy_ujaen (1)
-* `Hierocl=(𓄗:𓏤)`: egy_ujaen (1)
-* `Hierocl=(𓄣*𓄣:)𓄣`: egy_ujaen (1)
-* `Hierocl=(𓄣:𓄣𓄣)`: egy_ujaen (1)
-* `Hierocl=(𓄪:𓄪)𓄪`: egy_ujaen (1)
-* `Hierocl=(𓄭:UC_No)`: egy_ujaen (1)
-* `Hierocl=(𓄭:𓄭)`: egy_ujaen (2)
-* `Hierocl=(𓄯:𓄯)𓄯`: egy_ujaen (3)
-* `Hierocl=(𓅪:𓏧)`: egy_ujaen (1)
-* `Hierocl=(𓆃:𓆃)`: egy_ujaen (2)
-* `Hierocl=(𓆃:𓆃)𓆃`: egy_ujaen (1)
-* `Hierocl=(𓇯:𓇯)`: egy_ujaen (1)
-* `Hierocl=(𓇯:𓇯:𓇯)`: egy_ujaen (1)
-* `Hierocl=(𓇳:𓏽)`: egy_ujaen (1)
-* `Hierocl=(𓇳:𓐁)`: egy_ujaen (1)
-* `Hierocl=(𓇳:𓐅)`: egy_ujaen (2)
-* `Hierocl=(𓇳:𓐈)`: egy_ujaen (1)
+* `Hierocl=$𓄪§`: egy_pc (1)
+* `Hierocl=$𓋳$`: egy_pc (4)
+* `Hierocl=$𓋳$𓋳$𓋳$`: egy_pc (1)
+* `Hierocl=$𔀈$`: egy_pc (1)
+* `Hierocl=$𔍯$`: egy_pc (2)
+* `Hierocl=(UC_No UC_No:UC_No)`: egy_pc (2)
+* `Hierocl=(UC_No:UC_No)`: egy_pc (1)
+* `Hierocl=(UC_No:UC_No)UC_No`: egy_pc (2)
+* `Hierocl=(UC_No:UC_No:UC_No)`: egy_pc (1)
+* `Hierocl=(UC_No:𓈓)`: egy_pc (2)
+* `Hierocl=(UC_No:𓊌:𓊌:𓊌)`: egy_pc (1)
+* `Hierocl=(UC_No:𓏤)`: egy_pc (2)
+* `Hierocl=(UC_No:𓏮)`: egy_pc (1)
+* `Hierocl=(𓁸:𓁸)𓁸`: egy_pc (1)
+* `Hierocl=(𓂎:UC_No)`: egy_pc (1)
+* `Hierocl=(𓂎:𓂎)`: egy_pc (1)
+* `Hierocl=(𓂑:𓏤)`: egy_pc (1)
+* `Hierocl=(𓂑𓂑:𓂑)`: egy_pc (2)
+* `Hierocl=(𓂠:𓏌𓏌𓏌)`: egy_pc (1)
+* `Hierocl=(𓂩:𓏧)`: egy_pc (1)
+* `Hierocl=(𓂬:𓏤)`: egy_pc (3)
+* `Hierocl=(𓂸:𓏤)`: egy_pc (1)
+* `Hierocl=(𓂻:𓏧)`: egy_pc (1)
+* `Hierocl=(𓂻𓂻:𓂻)`: egy_pc (1)
+* `Hierocl=(𓃉:𓏮)`: egy_pc (1)
+* `Hierocl=(𓃉𓃉:𓃉)`: egy_pc (2)
+* `Hierocl=(𓃒:𓏧)`: egy_pc (1)
+* `Hierocl=(𓃢:𓏧)`: egy_pc (1)
+* `Hierocl=(𓃬:𓏧)`: egy_pc (1)
+* `Hierocl=(𓃾:𓏤)`: egy_pc (1)
+* `Hierocl=(𓄒:𓄒)`: egy_pc (1)
+* `Hierocl=(𓄓:𓏤)`: egy_pc (1)
+* `Hierocl=(𓄔:𓄔)`: egy_pc (1)
+* `Hierocl=(𓄗:𓄗𓄗)`: egy_pc (1)
+* `Hierocl=(𓄗:𓏤)`: egy_pc (1)
+* `Hierocl=(𓄣:𓄣𓄣)`: egy_pc (2)
+* `Hierocl=(𓄣𓄣:𓄣)`: egy_pc (1)
+* `Hierocl=(𓄪:𓄪)𓄪`: egy_pc (1)
+* `Hierocl=(𓄭:UC_No)`: egy_pc (1)
+* `Hierocl=(𓄭:𓄭)`: egy_pc (2)
+* `Hierocl=(𓄯:𓄯)𓄯`: egy_pc (4)
+* `Hierocl=(𓄯:𓄯)𓄹_FE00`: egy_pc (1)
+* `Hierocl=(𓄹_FE00 𓄹_FE00:𓄹_FE00)`: egy_pc (1)
+* `Hierocl=(𓅆:𓏧)`: egy_pc (1)
+* `Hierocl=(𓅪:𓏧)`: egy_pc (1)
+* `Hierocl=(𓆃:𓆃)`: egy_pc (2)
+* `Hierocl=(𓆃:𓆃)𓆃`: egy_pc (1)
+* `Hierocl=(𓆃:𓏧)`: egy_pc (1)
+* `Hierocl=(𓇯:𓇯:𓇯)`: egy_pc (1)
+* `Hierocl=(𓇳:𓏥)`: egy_pc (3)
 * …
 
 ## Hierogr
 
-Total 1 values: egy_ujaen (7)
+Total 1 values: egy_pc (10)
 
-* `Hierogr=Yes`: egy_ujaen (7)
+* `Hierogr=Yes`: egy_pc (10)
 
 ## Hyperlemma
 
@@ -3707,6 +3777,62 @@ Total 100 values: ang_cairo (171)
 * `Hyperlemma=it`: ang_cairo (4)
 * `Hyperlemma=little`: ang_cairo (1)
 * `Hyperlemma=look`: ang_cairo (1)
+* …
+
+## ID
+
+Total 2591 values: egy_pc (34233)
+
+* `ID=.`: egy_pc (320)
+* `ID=100`: egy_pc (1)
+* `ID=100090`: egy_pc (3)
+* `ID=100120`: egy_pc (1)
+* `ID=100130`: egy_pc (25)
+* `ID=10030`: egy_pc (58)
+* `ID=10030_Add`: egy_pc (158)
+* `ID=10030_Emend`: egy_pc (7)
+* `ID=10030_Error`: egy_pc (41)
+* `ID=10030_Rest`: egy_pc (10)
+* `ID=10030_Rest/`: egy_pc (2)
+* `ID=100310`: egy_pc (26)
+* `ID=100310_Emend`: egy_pc (1)
+* `ID=100400`: egy_pc (13)
+* `ID=100440`: egy_pc (6)
+* `ID=10050`: egy_pc (1870)
+* `ID=10050_Emend`: egy_pc (17)
+* `ID=10050_Error`: egy_pc (10)
+* `ID=10050_Rest`: egy_pc (43)
+* `ID=10050_Rest/`: egy_pc (14)
+* `ID=100650`: egy_pc (2)
+* `ID=100660`: egy_pc (9)
+* `ID=100670`: egy_pc (1)
+* `ID=10070`: egy_pc (2)
+* `ID=100710`: egy_pc (1)
+* `ID=100790`: egy_pc (1)
+* `ID=10080`: egy_pc (1)
+* `ID=10090`: egy_pc (280)
+* `ID=10090_Add`: egy_pc (4)
+* `ID=10090_Emend`: egy_pc (2)
+* `ID=10090_Rest`: egy_pc (4)
+* `ID=10090_Rest/`: egy_pc (1)
+* `ID=10100`: egy_pc (300)
+* `ID=101000`: egy_pc (2)
+* `ID=101060`: egy_pc (1)
+* `ID=10110`: egy_pc (2245)
+* `ID=10110_Emend`: egy_pc (26)
+* `ID=10110_Error`: egy_pc (6)
+* `ID=10110_Rest`: egy_pc (52)
+* `ID=10110_Rest/`: egy_pc (11)
+* `ID=10120`: egy_pc (168)
+* `ID=10120_Emend`: egy_pc (1)
+* `ID=10120_Error`: egy_pc (2)
+* `ID=10120_Rest`: egy_pc (6)
+* `ID=10130`: egy_pc (105)
+* `ID=10130_Lost`: egy_pc (1)
+* `ID=10130_Rest`: egy_pc (3)
+* `ID=101400`: egy_pc (2)
+* `ID=101410`: egy_pc (1)
+* `ID=101480`: egy_pc (2)
 * …
 
 ## IFD_tag
@@ -3771,6 +3897,12 @@ Total 1 values: gun_thomas (4)
 
 * `INT-=DIM`: gun_thomas (4)
 
+## ISRole
+
+Total 1 values: yrk_tundra (21)
+
+* `ISRole=Top`: yrk_tundra (21)
+
 ## Id
 
 Total 122750 values: uk_iu (122750)
@@ -3833,36 +3965,48 @@ Total 1 values: ha_northernautogramm (8), ha_southernautogramm (18), ha_westerna
 
 * `Ideo=Yes`: ha_northernautogramm (8), ha_southernautogramm (18), ha_westernautogramm (2), say_autogramm (137)
 
+## Ideophon
+
+Total 1 values: ha_easternautogramm (18), ha_northernautogramm (8), ha_southernautogramm (1)
+
+* `Ideophon=Yes`: ha_easternautogramm (18), ha_northernautogramm (8), ha_southernautogramm (1)
+
 ## Idiom
 
-Total 1 values: bej_autogramm (35), fr_gsd (2898), fr_parisstories (721), fr_rhapsodie (563), fr_sequoia (431), ha_northernautogramm (3), ha_westernautogramm (1), ht_adolphe (1), ht_autogramm (2), pcm_nsc (926), say_autogramm (64), zh_beginner (6)
+Total 1 values: bej_autogramm (35), fr_gsd (2671), fr_parisstories (695), fr_rhapsodie (562), fr_sequoia (399), ha_easternautogramm (40), ha_northernautogramm (13), ha_southernautogramm (24), ha_westernautogramm (1), ht_adolphe (1), ht_autogramm (2), pcm_nsc (926), say_autogramm (52), zh_beginner (6)
 
-* `Idiom=Yes`: bej_autogramm (35), fr_gsd (2898), fr_parisstories (721), fr_rhapsodie (563), fr_sequoia (431), ha_northernautogramm (3), ha_westernautogramm (1), ht_adolphe (1), ht_autogramm (2), pcm_nsc (926), say_autogramm (64), zh_beginner (6)
+* `Idiom=Yes`: bej_autogramm (35), fr_gsd (2671), fr_parisstories (695), fr_rhapsodie (562), fr_sequoia (399), ha_easternautogramm (40), ha_northernautogramm (13), ha_southernautogramm (24), ha_westernautogramm (1), ht_adolphe (1), ht_autogramm (2), pcm_nsc (926), say_autogramm (52), zh_beginner (6)
 
 ## Imperative
 
-Total 1 values: ha_southernautogramm (9)
+Total 1 values: ha_easternautogramm (1), ha_northernautogramm (67), ha_southernautogramm (10), say_autogramm (43)
 
-* `Imperative=Yes`: ha_southernautogramm (9)
+* `Imperative=Yes`: ha_easternautogramm (1), ha_northernautogramm (67), ha_southernautogramm (10), say_autogramm (43)
 
-## Imprs
+## Impersonal
 
-Total 2 values: egy_ujaen (70)
+Total 2 values: egy_pc (87)
 
-* `Imprs=Man`: egy_ujaen (45)
-* `Imprs=Third`: egy_ujaen (25)
+* `Impersonal=Man`: egy_pc (59)
+* `Impersonal=Third`: egy_pc (28)
 
 ## InIdiom
 
-Total 1 values: bej_autogramm (51), fr_gsd (3472), fr_parisstories (769), fr_rhapsodie (659), fr_sequoia (594), ha_northernautogramm (3), ha_westernautogramm (2), ht_adolphe (1), ht_autogramm (2), pcm_nsc (1157), say_autogramm (78), zh_beginner (6)
+Total 1 values: bej_autogramm (51), fr_gsd (3246), fr_parisstories (743), fr_rhapsodie (658), fr_sequoia (561), ha_easternautogramm (54), ha_northernautogramm (15), ha_southernautogramm (24), ha_westernautogramm (2), ht_adolphe (1), ht_autogramm (2), pcm_nsc (1157), say_autogramm (72), zh_beginner (6)
 
-* `InIdiom=Yes`: bej_autogramm (51), fr_gsd (3472), fr_parisstories (769), fr_rhapsodie (659), fr_sequoia (594), ha_northernautogramm (3), ha_westernautogramm (2), ht_adolphe (1), ht_autogramm (2), pcm_nsc (1157), say_autogramm (78), zh_beginner (6)
+* `InIdiom=Yes`: bej_autogramm (51), fr_gsd (3246), fr_parisstories (743), fr_rhapsodie (658), fr_sequoia (561), ha_easternautogramm (54), ha_northernautogramm (15), ha_southernautogramm (24), ha_westernautogramm (2), ht_adolphe (1), ht_autogramm (2), pcm_nsc (1157), say_autogramm (72), zh_beginner (6)
 
 ## InTitle
 
 Total 1 values: fr_gsd (712), fr_parisstories (14), fr_rhapsodie (115), fr_sequoia (26), pcm_nsc (383)
 
 * `InTitle=Yes`: fr_gsd (712), fr_parisstories (14), fr_rhapsodie (115), fr_sequoia (26), pcm_nsc (383)
+
+## Inchoative
+
+Total 1 values: say_autogramm (94)
+
+* `Inchoative=Yes`: say_autogramm (94)
 
 ## Incorporated
 
@@ -3872,13 +4016,6 @@ Total 4 values: azz_itml (44)
 * `Incorporated=Sen`: azz_itml (1)
 * `Incorporated=Tel`: azz_itml (15)
 * `Incorporated=Yek`: azz_itml (15)
-
-## Inf
-
-Total 2 values: egy_ujaen (115)
-
-* `Inf=Compl`: egy_ujaen (17)
-* `Inf=NegCom`: egy_ujaen (98)
 
 ## InflectionType
 
@@ -3890,9 +4027,9 @@ Total 3 values: de_pud (1248)
 
 ## IntendedDeprel
 
-Total 5 values: sv_swell (5)
+Total 5 values: sv_swell (7)
 
-* `IntendedDeprel=advmod`: sv_swell (1)
+* `IntendedDeprel=advmod`: sv_swell (3)
 * `IntendedDeprel=cc`: sv_swell (1)
 * `IntendedDeprel=nsubj`: sv_swell (1)
 * `IntendedDeprel=nsubj:pass`: sv_swell (1)
@@ -3900,23 +4037,28 @@ Total 5 values: sv_swell (5)
 
 ## IntendedLemma
 
-Total 1 values: sv_swell (1)
+Total 6 values: el_glcii (43)
 
-* `IntendedLemma=vilja`: sv_swell (1)
+* `IntendedLemma=είμαη`: el_glcii (1)
+* `IntendedLemma=ειμαι`: el_glcii (25)
+* `IntendedLemma=ειναι`: el_glcii (3)
+* `IntendedLemma=εχω`: el_glcii (7)
+* `IntendedLemma=εἰμαι`: el_glcii (6)
+* `IntendedLemma=ιμαι`: el_glcii (1)
 
 ## Interrupted
 
-Total 1 values: it_kiparlaforest (105)
+Total 1 values: it_kiparlaforest (230)
 
-* `Interrupted=Yes`: it_kiparlaforest (105)
+* `Interrupted=Yes`: it_kiparlaforest (230)
 
 ## Intonation
 
-Total 3 values: it_kiparlaforest (454)
+Total 3 values: it_kiparlaforest (1565)
 
-* `Intonation=Falling`: it_kiparlaforest (145)
-* `Intonation=Rising`: it_kiparlaforest (147)
-* `Intonation=WeaklyRising`: it_kiparlaforest (162)
+* `Intonation=Falling`: it_kiparlaforest (601)
+* `Intonation=Rising`: it_kiparlaforest (207)
+* `Intonation=WeaklyRising`: it_kiparlaforest (757)
 
 ## IsMantra
 
@@ -3938,58 +4080,58 @@ Total 1 values: ha_southernautogramm (2)
 
 ## KID
 
-Total 8147 values: it_kiparlaforest (9346)
+Total 12712 values: it_kiparlaforest (18675)
 
-* `KID=0-0`: it_kiparlaforest (1)
+* `KID=0-0`: it_kiparlaforest (5)
 * `KID=0-0a`: it_kiparlaforest (1)
 * `KID=0-0b`: it_kiparlaforest (1)
-* `KID=0-1`: it_kiparlaforest (1)
-* `KID=0-10`: it_kiparlaforest (1)
+* `KID=0-1`: it_kiparlaforest (4)
+* `KID=0-10`: it_kiparlaforest (2)
+* `KID=0-11`: it_kiparlaforest (1)
+* `KID=0-12`: it_kiparlaforest (1)
+* `KID=0-13`: it_kiparlaforest (1)
+* `KID=0-14`: it_kiparlaforest (1)
+* `KID=0-15`: it_kiparlaforest (1)
+* `KID=0-16`: it_kiparlaforest (1)
+* `KID=0-17`: it_kiparlaforest (1)
+* `KID=0-18`: it_kiparlaforest (1)
 * `KID=0-1a`: it_kiparlaforest (1)
 * `KID=0-1b`: it_kiparlaforest (1)
-* `KID=0-2`: it_kiparlaforest (1)
+* `KID=0-2`: it_kiparlaforest (4)
 * `KID=0-2a`: it_kiparlaforest (1)
 * `KID=0-2b`: it_kiparlaforest (1)
-* `KID=0-3`: it_kiparlaforest (2)
-* `KID=0-4`: it_kiparlaforest (2)
-* `KID=0-5`: it_kiparlaforest (1)
-* `KID=0-6`: it_kiparlaforest (1)
-* `KID=0-7`: it_kiparlaforest (1)
-* `KID=0-8`: it_kiparlaforest (1)
-* `KID=0-9`: it_kiparlaforest (1)
-* `KID=1-0`: it_kiparlaforest (1)
-* `KID=10-0`: it_kiparlaforest (1)
-* `KID=10-1`: it_kiparlaforest (1)
+* `KID=0-3`: it_kiparlaforest (5)
+* `KID=0-4`: it_kiparlaforest (4)
+* `KID=0-5`: it_kiparlaforest (4)
+* `KID=0-6`: it_kiparlaforest (4)
+* `KID=0-7`: it_kiparlaforest (3)
+* `KID=0-8`: it_kiparlaforest (3)
+* `KID=0-9`: it_kiparlaforest (3)
+* `KID=1-0`: it_kiparlaforest (5)
+* `KID=1-1`: it_kiparlaforest (3)
+* `KID=1-2`: it_kiparlaforest (2)
+* `KID=1-3`: it_kiparlaforest (2)
+* `KID=1-4`: it_kiparlaforest (2)
+* `KID=1-5`: it_kiparlaforest (1)
+* `KID=1-6`: it_kiparlaforest (1)
+* `KID=10-0`: it_kiparlaforest (5)
+* `KID=10-1`: it_kiparlaforest (3)
+* `KID=10-10`: it_kiparlaforest (2)
 * `KID=10-10a`: it_kiparlaforest (1)
 * `KID=10-10b`: it_kiparlaforest (1)
-* `KID=10-11`: it_kiparlaforest (1)
-* `KID=10-12`: it_kiparlaforest (1)
+* `KID=10-11`: it_kiparlaforest (2)
+* `KID=10-12`: it_kiparlaforest (2)
 * `KID=10-13`: it_kiparlaforest (1)
-* `KID=10-14`: it_kiparlaforest (1)
+* `KID=10-13a`: it_kiparlaforest (1)
+* `KID=10-13b`: it_kiparlaforest (1)
+* `KID=10-14`: it_kiparlaforest (2)
 * `KID=10-15`: it_kiparlaforest (1)
 * `KID=10-16`: it_kiparlaforest (1)
 * `KID=10-17`: it_kiparlaforest (1)
-* `KID=10-2`: it_kiparlaforest (1)
-* `KID=10-3`: it_kiparlaforest (1)
-* `KID=10-4`: it_kiparlaforest (1)
-* `KID=10-5`: it_kiparlaforest (1)
-* `KID=10-6`: it_kiparlaforest (1)
-* `KID=10-7`: it_kiparlaforest (1)
-* `KID=10-8`: it_kiparlaforest (1)
-* `KID=10-9`: it_kiparlaforest (1)
-* `KID=100-0`: it_kiparlaforest (2)
-* `KID=100-1`: it_kiparlaforest (1)
-* `KID=100-10`: it_kiparlaforest (1)
-* `KID=100-11`: it_kiparlaforest (1)
-* `KID=100-2`: it_kiparlaforest (1)
-* `KID=100-3`: it_kiparlaforest (1)
-* `KID=100-4`: it_kiparlaforest (1)
-* `KID=100-5`: it_kiparlaforest (1)
-* `KID=100-6`: it_kiparlaforest (1)
-* `KID=100-7`: it_kiparlaforest (1)
-* `KID=100-8`: it_kiparlaforest (1)
-* `KID=100-9`: it_kiparlaforest (1)
-* `KID=1000-0`: it_kiparlaforest (1)
+* `KID=10-1a`: it_kiparlaforest (1)
+* `KID=10-1b`: it_kiparlaforest (1)
+* `KID=10-2`: it_kiparlaforest (4)
+* `KID=10-3`: it_kiparlaforest (4)
 * …
 
 ## LASLAVariant
@@ -4014,13 +4156,37 @@ Total 2 values: ja_bccwj (1253903)
 
 ## LC
 
-Total 1 values: cpg_amgic (55)
+Total 1 values: cpg_amgic (106)
 
-* `LC=YES`: cpg_amgic (55)
+* `LC=Yes`: cpg_amgic (106)
+
+## LDTranslit
+
+Total 19 values: ps_sikaram (31)
+
+* `LDTranslit=cërgandawë́l`: ps_sikaram (1)
+* `LDTranslit=katë́l`: ps_sikaram (1)
+* `LDTranslit=kârawë́l`: ps_sikaram (2)
+* `LDTranslit=kâredë́l`: ps_sikaram (1)
+* `LDTranslit=likë́l`: ps_sikaram (6)
+* `LDTranslit=lârwrëkawë́l`: ps_sikaram (1)
+* `LDTranslit=mâtawë́l`: ps_sikaram (1)
+* `LDTranslit=pohawë́l`: ps_sikaram (3)
+* `LDTranslit=pâmlarë́l`: ps_sikaram (1)
+* `LDTranslit=roġawë́l`: ps_sikaram (1)
+* `LDTranslit=râpohawë́l`: ps_sikaram (1)
+* `LDTranslit=sâtë́l`: ps_sikaram (1)
+* `LDTranslit=tadrisedë́l`: ps_sikaram (1)
+* `LDTranslit=warkawë́l`: ps_sikaram (1)
+* `LDTranslit=xpërawë́l`: ps_sikaram (3)
+* `LDTranslit=xwâšinawë́l`: ps_sikaram (1)
+* `LDTranslit=ġamawë́l`: ps_sikaram (1)
+* `LDTranslit=ġazawë́l`: ps_sikaram (1)
+* `LDTranslit=ǰoṛawë́l`: ps_sikaram (3)
 
 ## LDeriv
 
-Total 11976 values: cs_cac (39703), cs_cltt (269), cs_fictree (357), cs_pdtc (194553), cs_poetry (1), cs_pud (1122), sa_ufal (7), sk_snk (22), yrl_complin (2)
+Total 11995 values: cs_cac (39703), cs_cltt (269), cs_fictree (357), cs_pdtc (194553), cs_poetry (1), cs_pud (1122), ps_sikaram (31), sa_ufal (7), sk_snk (22), yrl_complin (2)
 
 * `LDeriv=Abdič`: cs_pdtc (1)
 * `LDeriv=Abraham`: cs_pdtc (1)
@@ -4132,13 +4298,13 @@ Total 2885 values: cs_cac (37268), cs_cltt (1232), cs_pdtc (175743), cs_pud (136
 
 ## LINE
 
-Total 1 values: egy_ujaen (259)
+Total 1 values: egy_pc (319)
 
-* `LINE=Punct`: egy_ujaen (259)
+* `LINE=Punct`: egy_pc (319)
 
 ## LId
 
-Total 23021 values: ar_pud (18214), cs_cac (82548), cs_cltt (7491), cs_pdtc (705231), cs_pud (3577), cu_proiel (2630), got_proiel (2230), grc_proiel (6501), la_perseus (21376), la_proiel (1988), orv_torot (2053), sa_ufal (45), xcl_caval (5034)
+Total 23021 values: ar_pud (18214), cs_cac (82548), cs_cltt (7491), cs_pdtc (705231), cs_pud (3577), cu_proiel (2630), got_proiel (2230), grc_proiel (6501), la_perseus (21376), la_proiel (1988), orv_torot (2053), sa_ufal (45), xcl_caval (5143)
 
 * `LId="_0`: ar_pud (307)
 * `LId="ريديت_0`: ar_pud (1)
@@ -4149,7 +4315,7 @@ Total 23021 values: ar_pud (18214), cs_cac (82548), cs_cltt (7491), cs_pdtc (705
 * `LId=-_0`: ar_pud (16)
 * `LId=..._0`: ar_pud (4)
 * `LId=._0`: ar_pud (996)
-* `LId=1`: cu_proiel (1784), got_proiel (1855), grc_proiel (5931), la_proiel (1610), orv_torot (1582), xcl_caval (309)
+* `LId=1`: cu_proiel (1784), got_proiel (1855), grc_proiel (5931), la_proiel (1610), orv_torot (1582), xcl_caval (418)
 * `LId=2`: cu_proiel (846), got_proiel (350), grc_proiel (570), la_proiel (282), orv_torot (466), xcl_caval (83)
 * `LId=3`: got_proiel (25), la_proiel (66), orv_torot (5), xcl_caval (76)
 * `LId=4`: la_proiel (30)
@@ -4311,17 +4477,42 @@ Total 2 values: ga_twittirish (4)
 * `LLang=en`: ga_twittirish (2)
 * `LLang=ga`: ga_twittirish (2)
 
+## LMSeg:а-к-ра́
+
+Total 1 values: ab_abnc (1)
+
+* `LMSeg:а-к-ра́=шьҭ-ра`: ab_abnc (1)
+
 ## LMSeg:а-маа́ҭ
 
 Total 1 values: ab_abnc (1)
 
 * `LMSeg:а-маа́ҭ=маа́ҭ`: ab_abnc (1)
 
+## LMSeg:а-хы́
+
+Total 2 values: ab_abnc (3)
+
+* `LMSeg:а-хы́=а-гәы́`: ab_abnc (1)
+* `LMSeg:а-хы́=а-ҿы́`: ab_abnc (2)
+
+## LMSeg:а-хәы́
+
+Total 1 values: ab_abnc (1)
+
+* `LMSeg:а-хәы́=а-жьы́`: ab_abnc (1)
+
 ## LMSeg:а-ца-ра́
 
 Total 1 values: ab_abnc (1)
 
 * `LMSeg:а-ца-ра́=ца-ра́`: ab_abnc (1)
+
+## LMSeg:а-ҩны́
+
+Total 1 values: ab_abnc (1)
+
+* `LMSeg:а-ҩны́=а-гәа́ра`: ab_abnc (1)
 
 ## LMSeg:а-ҿы́
 
@@ -4337,9 +4528,9 @@ Total 1 values: ab_abnc (1)
 
 ## LMSeg:а́-рахә
 
-Total 1 values: ab_abnc (1)
+Total 1 values: ab_abnc (2)
 
-* `LMSeg:а́-рахә=а́-шәахә`: ab_abnc (1)
+* `LMSeg:а́-рахә=а́-шәахә`: ab_abnc (2)
 
 ## LMSeg:а́-хш
 
@@ -4504,9 +4695,9 @@ Total 156 values: ja_bccwj (1253903)
 
 ## LTranslit
 
-Total 263068 values: am_att (9998), ar_padt (242440), bho_bhtb (6665), bn_bru (320), fa_perdt (501759), fa_seraji (152913), hi_hdtb (351704), hi_pud (23829), hy_armtdp (104244), hy_bsut (46168), hyw_armtdp (122752), ko_gsd (80313), ko_kaist (350090), ko_littleprince (8085), ko_pud (7918), mk_mtb (1360), ml_ufal (2402), mr_ufal (3846), or_odtb (250), ps_sikaram (4038), sa_ufal (1843), si_stb (879), ta_mwtt (2582), ta_ttb (9580), th_pud (22326), ug_udt (29452), uk_iu (122745), ur_udtb (138077), xcl_caval (99655), xnr_kdtb (2514), yrk_tundra (1271), zh_cfl (7256), zh_gsd (123289), zh_gsdsimp (123289), zh_hk (9874), zh_pud (21415)
+Total 276943 values: am_att (9998), ar_padt (242440), bho_bhtb (6665), bn_bru (320), fa_perdt (501759), fa_seraji (152913), gu_gujtb (1633), hi_hdtb (351704), hi_pud (23829), hy_armtdp (104244), hy_bsut (46168), hyw_armtdp (122752), ko_gsd (80313), ko_kaist (350090), ko_littleprince (8085), ko_pud (7918), mk_mtb (1360), ml_ufal (2402), mr_cmupan (117868), mr_ufal (3846), or_odtb (1578), ps_sikaram (5406), sa_ufal (1843), si_stb (879), ta_mwtt (2582), ta_ttb (9580), th_pud (22326), ug_udt (29452), uk_iu (122745), ur_udtb (138077), xcl_caval (99655), xnr_kdtb (2514), yrk_tundra (1271), zh_cfl (7256), zh_gsd (123289), zh_gsdsimp (123289), zh_hk (9874), zh_pud (21415)
 
-* `LTranslit=!`: am_att (33), bho_bhtb (2), fa_perdt (606), fa_seraji (188), hi_hdtb (2), hy_armtdp (39), hy_bsut (48), hyw_armtdp (159), ko_gsd (132), ko_kaist (101), mk_mtb (2), ml_ufal (2), mr_ufal (61), ps_sikaram (2), ta_mwtt (2), ug_udt (229), uk_iu (331), ur_udtb (22), xcl_caval (62), xnr_kdtb (8), zh_cfl (24), zh_gsd (3), zh_gsdsimp (3), zh_hk (254)
+* `LTranslit=!`: am_att (33), bho_bhtb (2), fa_perdt (606), fa_seraji (188), gu_gujtb (5), hi_hdtb (2), hy_armtdp (39), hy_bsut (48), hyw_armtdp (159), ko_gsd (132), ko_kaist (101), mk_mtb (2), ml_ufal (2), mr_cmupan (46), mr_ufal (61), or_odtb (1), ps_sikaram (6), ta_mwtt (2), ug_udt (229), uk_iu (331), ur_udtb (22), xcl_caval (62), xnr_kdtb (8), zh_cfl (24), zh_gsd (3), zh_gsdsimp (3), zh_hk (254)
 * `LTranslit=!!`: uk_iu (4)
 * `LTranslit=!!!`: uk_iu (9)
 * `LTranslit=!!!!!`: uk_iu (1)
@@ -4514,11 +4705,11 @@ Total 263068 values: am_att (9998), ar_padt (242440), bho_bhtb (6665), bn_bru (3
 * `LTranslit=!..`: uk_iu (24)
 * `LTranslit=!...`: uk_iu (2)
 * `LTranslit=!?`: uk_iu (1)
-* `LTranslit="`: fa_perdt (636), fa_seraji (90), hi_hdtb (4), hi_pud (104), ko_gsd (647), ko_kaist (228), ko_pud (96), ml_ufal (6), mr_ufal (92), sa_ufal (1), ta_ttb (8), th_pud (33), ug_udt (35), uk_iu (505), ur_udtb (45), xcl_caval (21), zh_pud (8)
+* `LTranslit="`: fa_perdt (636), fa_seraji (90), gu_gujtb (5), hi_hdtb (4), hi_pud (104), ko_gsd (647), ko_kaist (228), ko_pud (96), ml_ufal (6), mr_cmupan (283), mr_ufal (92), or_odtb (2), sa_ufal (1), ta_ttb (8), th_pud (33), ug_udt (35), uk_iu (505), ur_udtb (45), xcl_caval (21), zh_pud (8)
 * `LTranslit="mrd"`: fa_perdt (1)
 * `LTranslit="zn"`: fa_perdt (1)
 * `LTranslit="āṯr"`: fa_perdt (1)
-* `LTranslit=#`: uk_iu (14)
+* `LTranslit=#`: mr_cmupan (2), uk_iu (14)
 * `LTranslit=#@)₴?$0`: uk_iu (1)
 * `LTranslit=#A`: zh_gsd (2), zh_gsdsimp (2)
 * `LTranslit=#B`: zh_gsd (1), zh_gsdsimp (1)
@@ -4543,7 +4734,12 @@ Total 263068 values: am_att (9998), ar_padt (242440), bho_bhtb (6665), bn_bru (3
 * `LTranslit=$yryn`: ar_padt (1)
 * `LTranslit=%`: fa_perdt (5), hi_pud (17), hy_armtdp (18), hy_bsut (27), hyw_armtdp (3), ko_gsd (182), ko_kaist (241), ko_pud (22), th_pud (17), uk_iu (99)
 * `LTranslit=&`: fa_perdt (1), ko_gsd (3), uk_iu (1)
-* `LTranslit='`: fa_perdt (12), hi_hdtb (733), hi_pud (23), ko_gsd (815), ko_kaist (1137), ko_pud (16), ml_ufal (1), mr_ufal (12), th_pud (4), uk_iu (4), ur_udtb (117), zh_gsd (2), zh_gsdsimp (2)
+* `LTranslit=&#34;`: mr_cmupan (622)
+* `LTranslit=&#39;`: mr_cmupan (401)
+* `LTranslit=&#40;`: mr_cmupan (174)
+* `LTranslit=&#41;`: mr_cmupan (178)
+* `LTranslit=&sdot;`: mr_cmupan (5)
+* `LTranslit='`: fa_perdt (12), gu_gujtb (2), hi_hdtb (733), hi_pud (23), ko_gsd (815), ko_kaist (1137), ko_pud (16), ml_ufal (1), mr_cmupan (31), mr_ufal (12), or_odtb (2), th_pud (4), uk_iu (4), ur_udtb (117), zh_gsd (2), zh_gsdsimp (2)
 * `LTranslit=''`: ko_gsd (42), ml_ufal (5), ur_udtb (182), zh_gsd (9), zh_gsdsimp (9)
 * `LTranslit=''āīmīl''`: fa_perdt (1)
 * `LTranslit='1`: hi_hdtb (30)
@@ -4551,11 +4747,6 @@ Total 263068 values: am_att (9998), ar_padt (242440), bho_bhtb (6665), bn_bru (3
 * `LTranslit='Ya`: th_pud (1)
 * `LTranslit='a`: am_att (9), th_pud (3), zh_cfl (2), zh_gsd (1), zh_gsdsimp (1), zh_hk (18)
 * `LTranslit='abarärə`: am_att (1)
-* `LTranslit='abatə`: am_att (2)
-* `LTranslit='abaːgʰuːmɔːf`: th_pud (1)
-* `LTranslit='abädərə`: am_att (1)
-* `LTranslit='abɔːričin`: th_pud (1)
-* `LTranslit='abʰuːliaː`: th_pud (1)
 * …
 
 ## LUWBILabel
@@ -4623,37 +4814,37 @@ Total 110 values: ja_gsd (193654), ja_pud (28788)
 
 ## LVC
 
-Total 1 values: egy_ujaen (11)
+Total 1 values: egy_pc (12)
 
-* `LVC=Yes`: egy_ujaen (11)
+* `LVC=Yes`: egy_pc (12)
 
 ## Lang
 
-Total 68 values: aln_gps (49), ar_pud (2), be_hse (47), bej_autogramm (83), ca_ancora (3), cpg_amgic (4), cs_poetry (3), de_gsd (258), de_lit (59), de_pud (79), es_ancora (94), es_gsd (125), es_pud (63), et_edt (676), et_ewt (257), fr_alts (755), fr_gsd (1938), fr_partut (5), fr_rhapsodie (16), fr_sequoia (190), frm_altm (32), ga_twittirish (33874), gd_arcosg (36), gsw_divital (471), ha_southernautogramm (70), hsb_ufal (5), hy_armtdp (9), it_old (59), it_postwita (30), kpv_ikdp (145), naq_kdt (21), pcm_nsc (2590), pro_corag (7), qfn_fame (3729), qtd_sagt (33523), qte_tect (454), qti_butr (331), ro_tuecl (44), sab_chibergis (109), say_autogramm (351), sga_dipsgg (24), sga_dipwbg (10), sv_lines (12), sv_old (4), sv_pud (101), sv_swell (7), sv_talbanken (71), th_pud (17), wo_wtb (9)
+Total 68 values: aln_gps (49), ar_pud (2), be_hse (47), bej_autogramm (83), ca_ancora (20), cpg_amgic (4), cs_poetry (3), de_gsd (258), de_lit (59), de_pud (79), el_glcii (20), en_lines (7), es_ancora (109), es_gsd (192), es_pud (63), et_edt (676), et_ewt (257), fr_alts (755), fr_gsd (1938), fr_parisstories (2), fr_partut (5), fr_rhapsodie (18), fr_sequoia (193), frm_altm (32), ga_twittirish (33874), gd_arcosg (36), gl_ctg (67), gsw_divital (471), ha_easternautogramm (9), ha_northernautogramm (12), ha_southernautogramm (70), hsb_ufal (5), hy_armtdp (9), it_old (59), it_postwita (30), kpv_ikdp (145), naq_kdt (21), pcm_nsc (2590), pro_corag (8), qfn_fame (3729), qtd_sagt (33523), qte_tect (454), qti_butr (372), ro_tuecl (44), sab_chibergis (109), say_autogramm (351), sga_dipsgg (24), sga_dipwbg (10), sv_lines (14), sv_old (4), sv_pud (101), sv_swell (14), sv_talbanken (71), th_pud (17), wo_wtb (9)
 
 * `Lang=Ga`: ga_twittirish (1)
 * `Lang=La`: frm_altm (1)
 * `Lang=af`: naq_kdt (17)
-* `Lang=ar`: bej_autogramm (83), es_gsd (2), fr_gsd (9), ha_southernautogramm (8), pcm_nsc (2), qtd_sagt (6)
+* `Lang=ar`: bej_autogramm (83), es_gsd (2), fr_gsd (9), ha_easternautogramm (1), ha_northernautogramm (12), ha_southernautogramm (8), pcm_nsc (2), qtd_sagt (6)
 * `Lang=bg`: fr_gsd (2)
 * `Lang=br`: fr_gsd (2), ga_twittirish (1)
 * `Lang=bre`: gsw_divital (2)
-* `Lang=ca`: es_ancora (48), es_gsd (1), fr_gsd (3), ga_twittirish (13)
+* `Lang=ca`: es_ancora (63), es_gsd (5), fr_gsd (3), ga_twittirish (13)
 * `Lang=cat`: gsw_divital (3)
 * `Lang=cos`: gsw_divital (4)
 * `Lang=cs`: fr_gsd (1)
 * `Lang=cy`: ga_twittirish (1)
 * `Lang=cym`: gsw_divital (1)
 * `Lang=cym/bre`: gsw_divital (1)
-* `Lang=de`: aln_gps (5), es_gsd (3), et_edt (12), et_ewt (9), fr_gsd (41), ga_twittirish (7), gsw_divital (13), qtd_sagt (18741), ro_tuecl (1), sv_pud (2)
+* `Lang=de`: aln_gps (5), el_glcii (7), es_gsd (3), et_edt (12), et_ewt (9), fr_gsd (41), ga_twittirish (7), gsw_divital (13), qtd_sagt (18741), ro_tuecl (1), sv_pud (2)
 * `Lang=der`: gsw_divital (1)
 * `Lang=el`: fr_gsd (2)
-* `Lang=en`: aln_gps (5), de_gsd (236), de_lit (11), de_pud (61), es_ancora (1), es_gsd (94), es_pud (62), et_edt (633), et_ewt (245), fr_gsd (1540), fr_partut (3), fr_rhapsodie (11), fr_sequoia (190), ga_twittirish (1990), gd_arcosg (24), gsw_divital (12), ha_southernautogramm (62), it_postwita (23), naq_kdt (4), pcm_nsc (2406), qfn_fame (11), qtd_sagt (162), qte_tect (120), qti_butr (118), ro_tuecl (41), say_autogramm (25), sv_pud (91), sv_swell (7), sv_talbanken (67), th_pud (17)
-* `Lang=es`: de_gsd (6), de_pud (9), fr_gsd (105), ga_twittirish (14), it_postwita (7), qtd_sagt (2), sab_chibergis (109), sv_pud (6)
+* `Lang=en`: aln_gps (5), ca_ancora (2), de_gsd (236), de_lit (11), de_pud (61), el_glcii (13), es_ancora (1), es_gsd (122), es_pud (62), et_edt (633), et_ewt (245), fr_gsd (1540), fr_parisstories (2), fr_partut (3), fr_rhapsodie (13), fr_sequoia (193), ga_twittirish (1990), gd_arcosg (24), gl_ctg (7), gsw_divital (12), ha_easternautogramm (8), ha_southernautogramm (62), it_postwita (23), naq_kdt (4), pcm_nsc (2406), qfn_fame (11), qtd_sagt (162), qte_tect (120), qti_butr (125), ro_tuecl (41), say_autogramm (25), sv_pud (91), sv_swell (13), sv_talbanken (67), th_pud (17)
+* `Lang=es`: ca_ancora (15), de_gsd (6), de_pud (9), fr_gsd (105), ga_twittirish (14), gl_ctg (60), it_postwita (7), qtd_sagt (2), sab_chibergis (109), sv_pud (6)
 * `Lang=eu`: ga_twittirish (1)
 * `Lang=eus`: gsw_divital (2)
 * `Lang=fi`: et_edt (20)
-* `Lang=fr`: ar_pud (2), de_gsd (3), de_lit (41), de_pud (2), es_ancora (21), es_gsd (7), es_pud (1), et_edt (1), ga_twittirish (7), gsw_divital (410), qfn_fame (1), qtd_sagt (2), sv_lines (6), sv_pud (2), wo_wtb (9)
+* `Lang=fr`: ar_pud (2), de_gsd (3), de_lit (41), de_pud (2), en_lines (6), es_ancora (21), es_gsd (7), es_pud (1), et_edt (1), ga_twittirish (7), gsw_divital (410), qfn_fame (1), qtd_sagt (2), sv_lines (8), sv_pud (2), sv_swell (1), wo_wtb (9)
 * `Lang=fr/en`: gsw_divital (2)
 * `Lang=fro`: fr_gsd (1), it_old (59)
 * `Lang=fy`: qfn_fame (3067)
@@ -4663,7 +4854,7 @@ Total 68 values: aln_gps (49), ar_pud (2), be_hse (47), bej_autogramm (83), ca_a
 * `Lang=ge`: fr_gsd (4)
 * `Lang=gen`: ga_twittirish (1)
 * `Lang=ghc`: gd_arcosg (12)
-* `Lang=gl`: es_gsd (1)
+* `Lang=gl`: es_gsd (2)
 * `Lang=gle`: gsw_divital (2)
 * `Lang=grc`: fr_gsd (1), fr_rhapsodie (5)
 * `Lang=gsw`: aln_gps (38)
@@ -4676,9 +4867,9 @@ Total 68 values: aln_gps (49), ar_pud (2), be_hse (47), bej_autogramm (83), ca_a
 * `Lang=ine`: gsw_divital (2)
 * `Lang=it`: de_lit (7), de_pud (5), fr_gsd (63)
 * `Lang=ita`: gsw_divital (2)
-* `Lang=ja`: fr_gsd (5), qtd_sagt (1)
-* `Lang=la`: ca_ancora (3), cs_poetry (3), de_gsd (2), de_pud (2), es_gsd (6), et_edt (4), fr_alts (755), fr_gsd (97), fr_partut (2), frm_altm (31), ga_twittirish (7), hsb_ufal (5), ro_tuecl (2), sga_dipsgg (24), sga_dipwbg (10), sv_lines (6), sv_old (4), sv_talbanken (4)
-* `Lang=lat`: gsw_divital (1), pro_corag (7)
+* `Lang=ja`: es_gsd (34), fr_gsd (5), qtd_sagt (1)
+* `Lang=la`: ca_ancora (3), cs_poetry (3), de_gsd (2), de_pud (2), en_lines (1), es_gsd (6), et_edt (4), fr_alts (755), fr_gsd (97), fr_partut (2), frm_altm (31), ga_twittirish (7), hsb_ufal (5), pro_corag (8), ro_tuecl (2), sga_dipsgg (24), sga_dipwbg (10), sv_lines (6), sv_old (4), sv_talbanken (4)
+* `Lang=lat`: gsw_divital (1)
 * `Lang=lv`: et_edt (2)
 * `Lang=nl`: de_gsd (3), fr_gsd (10), qfn_fame (625)
 * …
@@ -4730,7 +4921,7 @@ Total 1 values: pcm_nsc (1)
 
 ## Lem
 
-Total 771 values: en_gumreddit (16364)
+Total 770 values: en_gumreddit (16364)
 
 * `Lem="`: en_gumreddit (32)
 * `Lem='`: en_gumreddit (6)
@@ -4768,7 +4959,7 @@ Total 771 values: en_gumreddit (16364)
 * `Lem=Reddit`: en_gumreddit (1)
 * `Lem=Reserve`: en_gumreddit (1)
 * `Lem=Sony`: en_gumreddit (1)
-* `Lem=_`: en_gumreddit (12561)
+* `Lem=_`: en_gumreddit (12562)
 * `Lem=a`: en_gumreddit (63)
 * `Lem=accept`: en_gumreddit (3)
 * `Lem=access`: en_gumreddit (1)
@@ -4783,6 +4974,15 @@ Total 771 values: en_gumreddit (16364)
 * `Lem=advantage`: en_gumreddit (1)
 * `Lem=affect`: en_gumreddit (1)
 * …
+
+## Lemma
+
+Total 4 values: kbc_unicamp (5)
+
+* `Lemma=-initibece`: kbc_unicamp (1)
+* `Lemma=lomiigo`: kbc_unicamp (2)
+* `Lemma=loojedi`: kbc_unicamp (1)
+* `Lemma=nawodigijegi`: kbc_unicamp (1)
 
 ## LemmaId
 
@@ -5015,17 +5215,23 @@ Total 23 values: la_circse (24897)
 * `LiLaflcat=v5`: la_circse (394)
 * `LiLaflcat=v6`: la_circse (754)
 
+## LiaisonAfter
+
+Total 1 values: fr_parisstories (526), fr_rhapsodie (853)
+
+* `LiaisonAfter=Yes`: fr_parisstories (526), fr_rhapsodie (853)
+
+## LiaisonPossibleBefore
+
+Total 1 values: fr_parisstories (766), fr_rhapsodie (1217)
+
+* `LiaisonPossibleBefore=Yes`: fr_parisstories (766), fr_rhapsodie (1217)
+
 ## Lilaflcat
 
 Total 1 values: la_ittb (3170)
 
 * `Lilaflcat=LatI`: la_ittb (3170)
-
-## Lim
-
-Total 1 values: egy_ujaen (38)
-
-* `Lim=Yes`: egy_ujaen (38)
 
 ## LineAfter
 
@@ -5047,13 +5253,15 @@ Total 1 values: ha_northernautogramm (1), ha_southernautogramm (50)
 
 ## LoanTrans
 
-Total 11 values: qti_butr (11)
+Total 13 values: qti_butr (13)
 
 * `LoanTrans=en:drop_a_course`: qti_butr (1)
 * `LoanTrans=en:get_a_meeting`: qti_butr (1)
 * `LoanTrans=en:how_does_it_feel`: qti_butr (1)
 * `LoanTrans=en:in_my_head`: qti_butr (1)
 * `LoanTrans=en:in_these_terms`: qti_butr (1)
+* `LoanTrans=en:it_sounded`: qti_butr (1)
+* `LoanTrans=en:it_sounds`: qti_butr (1)
 * `LoanTrans=en:know_someone_in_these_terms`: qti_butr (1)
 * `LoanTrans=en:living_rent_free`: qti_butr (1)
 * `LoanTrans=en:the_fact_that`: qti_butr (1)
@@ -5131,7 +5339,7 @@ Total 330439 values: ltg_cairo (170), lv_cairo (168), lv_lvtb (330318)
 
 ## MGloss
 
-Total 3493 values: bej_autogramm (2347), el_cretan (64), el_lesbian (72), gwi_tuecl (377), gya_autogramm (2691), pay_chibergis (3828), tl_trg (129), wbp_ufal (217), yrk_tundra (528), yrl_complin (1)
+Total 3503 values: bej_autogramm (2347), el_cretan (64), el_lesbian (92), gwi_tuecl (377), gya_autogramm (2691), kbc_unicamp (5), pay_chibergis (3828), tl_trg (129), wbp_ufal (217), yrk_tundra (528), yrl_complin (1)
 
 * `MGloss=-1SG`: gya_autogramm (15)
 * `MGloss=-3SG`: gya_autogramm (29)
@@ -5187,25 +5395,34 @@ Total 3493 values: bej_autogramm (2347), el_cretan (64), el_lesbian (72), gwi_tu
 
 ## MSeg
 
-Total 27868 values: bej_autogramm (2347), cop_bohairic (913), cop_scriptorium (1059), ctn_ctntb (11725), el_cretan (63), el_lesbian (72), en_gentle (3429), en_gum (47773), en_gumreddit (3143), gwi_tuecl (384), gya_autogramm (2692), ko_littleprince (8085), ko_pud (4885), pay_chibergis (4275), tl_trg (61), wbp_ufal (165), yrk_tundra (528), yrl_complin (1)
+Total 31199 values: bej_autogramm (2347), cop_bohairic (913), cop_scriptorium (1089), ctn_ctntb (11725), el_cretan (63), el_lesbian (92), en_gentle (3542), en_gum (53331), en_gumreddit (3171), gor_bungololombi (158), gwi_tuecl (384), gya_autogramm (2692), ha_easternautogramm (122), ha_northernautogramm (362), ha_southernautogramm (139), ha_westernautogramm (346), kbc_unicamp (5), ko_littleprince (8085), ko_pud (4885), pay_chibergis (4275), ruc_rdt (4303), tl_trg (61), wbp_ufal (165), yrk_tundra (528), yrl_complin (1)
 
 * `MSeg=!러하-ㄴ`: ko_littleprince (1)
 * `MSeg=###`: pay_chibergis (5)
+* `MSeg=#-Break-free-from-plastic`: en_gum (1)
 * `MSeg=#-Fort-nite-World-Cup`: en_gentle (1)
 * `MSeg=#-I-Stand-With-Ahmed`: en_gum (2)
 * `MSeg=#-argu-ment`: en_gum (4)
+* `MSeg=#-art-s-and-culture`: en_gum (1)
 * `MSeg=#-auto-mot-ive-industry`: en_gum (1)
 * `MSeg=#-caus-al-argument`: en_gum (1)
-* `MSeg=#-cognit-ive-bias`: en_gum (3)
-* `MSeg=#-descrip-t-ive`: en_gum (2)
+* `MSeg=#-cognit-ive-bias`: en_gum (4)
+* `MSeg=#-current-event-s`: en_gum (1)
+* `MSeg=#-descrip-t-ive`: en_gum (3)
+* `MSeg=#-environ-ment`: en_gum (1)
+* `MSeg=#-glob-al`: en_gum (1)
+* `MSeg=#-histor-y`: en_gum (1)
 * `MSeg=#-i-stand-with-ahmed`: en_gum (1)
+* `MSeg=#-intell-ect-ual-property`: en_gum (1)
+* `MSeg=#-policy`: en_gum (1)
 * `MSeg=#-propos-al`: en_gum (3)
-* `MSeg=#-report-ing-inform-ation`: en_gum (3)
-* `MSeg=#-system-analys-is`: en_gum (4)
+* `MSeg=#-report-ing-inform-ation`: en_gum (4)
+* `MSeg=#-system-analys-is`: en_gum (5)
 * `MSeg=#-techno-log-y`: en_gum (2)
+* `MSeg=#analys-is`: en_gum (1)
 * `MSeg=#currentevent-s`: en_gum (2)
 * `MSeg=#logo-s`: en_gum (1)
-* `MSeg=#sharedvalue-s`: en_gum (4)
+* `MSeg=#sharedvalue-s`: en_gum (5)
 * `MSeg=#value-s-bas-ed`: en_gum (1)
 * `MSeg=#writ-ing-life`: en_gum (1)
 * `MSeg=%-가`: ko_pud (3)
@@ -5230,20 +5447,11 @@ Total 27868 values: bej_autogramm (2347), cop_bohairic (913), cop_scriptorium (1
 * `MSeg=.내-가`: ko_littleprince (1)
 * `MSeg=.물론-이-지`: ko_littleprince (1)
 * `MSeg=0-su-sulat`: tl_trg (1)
-* `MSeg=1-백`: ko_littleprince (1)
-* `MSeg=1-백만-명-의`: ko_littleprince (1)
-* `MSeg=1-은`: ko_pud (1)
-* `MSeg=1-천`: ko_littleprince (1)
-* `MSeg=1-호`: ko_littleprince (1)
-* `MSeg=1-호-를`: ko_littleprince (1)
-* `MSeg=11-명-의`: ko_littleprince (1)
-* `MSeg=11-명-이나`: ko_littleprince (1)
-* `MSeg=1800-s`: en_gum (1)
 * …
 
 ## MWE
 
-Total 18683 values: ca_ancora (25444), egy_ujaen (356), es_ancora (18952), es_coser (100), oc_ttb (170)
+Total 18683 values: ca_ancora (25444), egy_pc (413), es_ancora (18954), es_coser (100), oc_ttb (170)
 
 * `MWE="_Acceso_radio_en_el_bucle_local_de_abonado_"`: es_ancora (1)
 * `MWE="_Por_disposición_del_difunto_queda_prohibido_enterrar_a_ningún_cadáver_más_en_este_nicho_"`: ca_ancora (1)
@@ -5472,7 +5680,7 @@ Total 10 values: en_ewt (705)
 
 ## MWEPOS
 
-Total 14 values: ca_ancora (25444), es_ancora (18952), es_coser (100), id_csui (39), id_gsd (68), id_pud (17), lij_glt (32), pt_gsd (3)
+Total 14 values: ca_ancora (25444), es_ancora (18954), es_coser (100), id_csui (39), id_gsd (68), id_pud (17), lij_glt (32), pt_gsd (3)
 
 * `MWEPOS=ADJ`: ca_ancora (59), es_ancora (42)
 * `MWEPOS=ADP`: ca_ancora (3558), es_ancora (2171), es_coser (5), lij_glt (8), pt_gsd (1)
@@ -5485,7 +5693,7 @@ Total 14 values: ca_ancora (25444), es_ancora (18952), es_coser (100), id_csui (
 * `MWEPOS=NUM`: ca_ancora (210), es_ancora (511), es_coser (6)
 * `MWEPOS=PRON`: ca_ancora (29), es_ancora (42), es_coser (18)
 * `MWEPOS=PROPN`: ca_ancora (13068), es_ancora (11090), es_coser (9), pt_gsd (2)
-* `MWEPOS=SCONJ`: ca_ancora (985), es_ancora (645), es_coser (4), id_csui (7), id_gsd (31), id_pud (11), lij_glt (14)
+* `MWEPOS=SCONJ`: ca_ancora (985), es_ancora (647), es_coser (4), id_csui (7), id_gsd (31), id_pud (11), lij_glt (14)
 * `MWEPOS=SYM`: ca_ancora (215), es_ancora (17)
 * `MWEPOS=VERB`: ca_ancora (755), es_ancora (472), es_coser (3)
 
@@ -5621,9 +5829,9 @@ Total 1 values: cs_pdtc (1)
 
 ## Mentioned
 
-Total 1 values: en_ewt (5)
+Total 1 values: en_ewt (7)
 
-* `Mentioned=Yes`: en_ewt (5)
+* `Mentioned=Yes`: en_ewt (7)
 
 ## Missed-CONJ
 
@@ -5719,14 +5927,14 @@ Total 2 values: yrl_complin (2)
 
 ## ModernCase
 
-Total 2 values: yrl_complin (46)
+Total 2 values: yrl_complin (49)
 
-* `ModernCase=Acc,Nom`: yrl_complin (35)
-* `ModernCase=Gen`: yrl_complin (11)
+* `ModernCase=Acc,Nom`: yrl_complin (36)
+* `ModernCase=Gen`: yrl_complin (13)
 
 ## ModernForm
 
-Total 301 values: en_ewt (6), gd_arcosg (9), mdf_jr (8), myv_jr (49), vi_tuecl (4), yrl_complin (565)
+Total 319 values: en_ewt (6), gd_arcosg (9), mdf_jr (8), myv_jr (49), vi_tuecl (4), yrl_complin (616)
 
 * `ModernForm=Aari`: yrl_complin (1)
 * `ModernForm=Aikú`: yrl_complin (4)
@@ -5735,49 +5943,49 @@ Total 301 values: en_ewt (6), gd_arcosg (9), mdf_jr (8), myv_jr (49), vi_tuecl (
 * `ModernForm=Amaité`: yrl_complin (2)
 * `ModernForm=Amixiri`: yrl_complin (1)
 * `ModernForm=Amuapara`: yrl_complin (1)
+* `ModernForm=Amueté`: yrl_complin (1)
 * `ModernForm=Amukanhemu`: yrl_complin (1)
 * `ModernForm=Amukaẽ`: yrl_complin (1)
 * `ModernForm=Amukurusá`: yrl_complin (1)
 * `ModernForm=Amukwara`: yrl_complin (1)
-* `ModernForm=Amumbawa`: yrl_complin (1)
+* `ModernForm=Amumbawa`: yrl_complin (2)
 * `ModernForm=Amumuri`: yrl_complin (2)
 * `ModernForm=Amundú`: yrl_complin (1)
 * `ModernForm=Amunhã`: yrl_complin (5)
 * `ModernForm=Amunuka`: yrl_complin (1)
 * `ModernForm=Amunú`: yrl_complin (1)
+* `ModernForm=Amupeteka`: yrl_complin (1)
 * `ModernForm=Amupixuna`: yrl_complin (1)
+* `ModernForm=Amupukwari`: yrl_complin (1)
 * `ModernForm=Amupupuri`: yrl_complin (1)
 * `ModernForm=Amutatatinga`: yrl_complin (1)
 * `ModernForm=Amutuyuka`: yrl_complin (1)
 * `ModernForm=Amuyasuka`: yrl_complin (1)
 * `ModernForm=Amuí`: yrl_complin (1)
 * `ModernForm=Anheẽ`: yrl_complin (4)
+* `ModernForm=Apeteka`: yrl_complin (1)
 * `ModernForm=Apiiri`: yrl_complin (1)
 * `ModernForm=Apiripana`: yrl_complin (1)
 * `ModernForm=Apirú`: yrl_complin (1)
 * `ModernForm=Apituú`: yrl_complin (1)
 * `ModernForm=Apuká`: yrl_complin (1)
+* `ModernForm=Apumbika`: yrl_complin (1)
 * `ModernForm=Apurakari`: yrl_complin (1)
-* `ModernForm=Aputari`: yrl_complin (2)
+* `ModernForm=Aputari`: yrl_complin (3)
 * `ModernForm=Apuú`: yrl_complin (1)
 * `ModernForm=Arasú`: yrl_complin (2)
 * `ModernForm=Arikú`: yrl_complin (8)
+* `ModernForm=Arirí`: yrl_complin (1)
 * `ModernForm=Aruri`: yrl_complin (2)
 * `ModernForm=Aruyari`: yrl_complin (1)
 * `ModernForm=Asaisú`: yrl_complin (1)
 * `ModernForm=Asapí`: yrl_complin (3)
 * `ModernForm=Asasemu`: yrl_complin (1)
+* `ModernForm=Asendú`: yrl_complin (1)
 * `ModernForm=Asenũi`: yrl_complin (1)
 * `ModernForm=Asika`: yrl_complin (2)
 * `ModernForm=Asikiná`: yrl_complin (1)
 * `ModernForm=Asikié`: yrl_complin (1)
-* `ModernForm=Asusuka`: yrl_complin (1)
-* `ModernForm=Asú`: yrl_complin (40)
-* `ModernForm=Atumunheẽ`: yrl_complin (1)
-* `ModernForm=Awasemu`: yrl_complin (2)
-* `ModernForm=Awitá`: yrl_complin (1)
-* `ModernForm=Axari`: yrl_complin (2)
-* `ModernForm=Axipiaki`: yrl_complin (1)
 * …
 
 ## ModernFrom
@@ -5790,40 +5998,42 @@ Total 3 values: gd_arcosg (2), myv_jr (1)
 
 ## ModernLemma
 
-Total 17 values: gd_arcosg (2), yrl_complin (68)
+Total 19 values: gd_arcosg (2), yrl_complin (76)
 
 * `ModernLemma=aintá`: yrl_complin (1)
-* `ModernLemma=i`: yrl_complin (6)
+* `ModernLemma=i`: yrl_complin (7)
 * `ModernLemma=indé`: yrl_complin (8)
-* `ModernLemma=ixé`: yrl_complin (21)
+* `ModernLemma=ixé`: yrl_complin (22)
 * `ModernLemma=mamé`: yrl_complin (1)
 * `ModernLemma=marama`: yrl_complin (1)
+* `ModernLemma=ne`: yrl_complin (1)
 * `ModernLemma=penhẽ`: yrl_complin (3)
 * `ModernLemma=pitá`: yrl_complin (1)
-* `ModernLemma=saisú`: yrl_complin (4)
+* `ModernLemma=ruyari`: yrl_complin (1)
+* `ModernLemma=saisú`: yrl_complin (5)
 * `ModernLemma=sapí`: yrl_complin (1)
 * `ModernLemma=se`: yrl_complin (2)
 * `ModernLemma=senúi`: yrl_complin (1)
 * `ModernLemma=simirikú`: yrl_complin (1)
 * `ModernLemma=solas`: gd_arcosg (1)
 * `ModernLemma=staigh`: gd_arcosg (1)
-* `ModernLemma=yandé`: yrl_complin (9)
-* `ModernLemma=yané`: yrl_complin (8)
+* `ModernLemma=yandé`: yrl_complin (11)
+* `ModernLemma=yané`: yrl_complin (9)
 
 ## ModernMood
 
-Total 3 values: yrl_complin (90)
+Total 3 values: yrl_complin (95)
 
 * `ModernMood=Imp`: yrl_complin (10)
 * `ModernMood=Imp,Ind`: yrl_complin (3)
-* `ModernMood=Ind`: yrl_complin (77)
+* `ModernMood=Ind`: yrl_complin (82)
 
 ## ModernNumber
 
-Total 3 values: yrl_complin (27)
+Total 3 values: yrl_complin (28)
 
 * `ModernNumber=3`: yrl_complin (2)
-* `ModernNumber=Plur`: yrl_complin (2)
+* `ModernNumber=Plur`: yrl_complin (3)
 * `ModernNumber=Sing`: yrl_complin (23)
 
 ## ModernNumber[Grnd]
@@ -5846,11 +6056,11 @@ Total 1 values: yrl_complin (3)
 
 ## ModernPerson
 
-Total 3 values: yrl_complin (108)
+Total 3 values: yrl_complin (114)
 
 * `ModernPerson=1`: yrl_complin (10)
-* `ModernPerson=2`: yrl_complin (15)
-* `ModernPerson=3`: yrl_complin (83)
+* `ModernPerson=2`: yrl_complin (16)
+* `ModernPerson=3`: yrl_complin (88)
 
 ## ModernPerson[Grnd]
 
@@ -5894,9 +6104,9 @@ Total 1 values: yrl_complin (1)
 
 ## ModernVerbForm
 
-Total 1 values: yrl_complin (101)
+Total 1 values: yrl_complin (105)
 
-* `ModernVerbForm=Fin`: yrl_complin (101)
+* `ModernVerbForm=Fin`: yrl_complin (105)
 
 ## ModifiedGloss
 
@@ -5912,98 +6122,109 @@ Total 1 values: tr_gb (5)
 
 ## Morf
 
-Total 19873 values: bm_crb (1493), bxr_bdt (113), id_gsd (121814), nhi_itml (1001), ug_udt (10818), uz_uzudt (1)
+Total 19873 values: bm_crb (1493), bxr_bdt (113), id_gsd (121814), nhi_mesotree (1001), ug_udt (10818), uz_uzudt (1)
 
-* `Morf=(i)tskwin-tli`: nhi_itml (1)
-* `Morf=(i)tskwn-meh`: nhi_itml (1)
-* `Morf=,`: nhi_itml (70)
-* `Morf=-`: nhi_itml (4)
-* `Morf=.`: nhi_itml (153)
-* `Morf=1sg.sj.-3sg.obj.-vestir-benef.`: nhi_itml (1)
-* `Morf=?`: nhi_itml (5)
-* `Morf=ALE`: nhi_itml (1)
-* `Morf=ALICIA`: nhi_itml (1)
-* `Morf=AMIGOS`: nhi_itml (1)
-* `Morf=ANA`: nhi_itml (1)
-* `Morf=ARRIERO`: nhi_itml (1)
-* `Morf=ATRASADO`: nhi_itml (1)
-* `Morf=A~VEZ`: nhi_itml (1)
-* `Morf=BOLA`: nhi_itml (1)
-* `Morf=CABALLO`: nhi_itml (1)
-* `Morf=CADA`: nhi_itml (2)
-* `Morf=CAMPANAS`: nhi_itml (1)
-* `Morf=CARRANZA`: nhi_itml (1)
-* `Morf=CARRO`: nhi_itml (1)
-* `Morf=CASI`: nhi_itml (1)
-* `Morf=CERA-okwilin-meh`: nhi_itml (1)
-* `Morf=CERVEZAS`: nhi_itml (1)
-* `Morf=CHARRO`: nhi_itml (1)
-* `Morf=CIVIL`: nhi_itml (1)
-* `Morf=COMO`: nhi_itml (2)
-* `Morf=CONSULADO`: nhi_itml (1)
-* `Morf=CORRAL`: nhi_itml (1)
-* `Morf=CRUCES`: nhi_itml (2)
-* `Morf=CUANDO`: nhi_itml (4)
-* `Morf=DANIELA`: nhi_itml (3)
-* `Morf=DANZAS`: nhi_itml (1)
-* `Morf=DE`: nhi_itml (3)
+* `Morf=(i)tskwin-tli`: nhi_mesotree (1)
+* `Morf=(i)tskwn-meh`: nhi_mesotree (1)
+* `Morf=,`: nhi_mesotree (70)
+* `Morf=-`: nhi_mesotree (4)
+* `Morf=.`: nhi_mesotree (153)
+* `Morf=1sg.sj.-3sg.obj.-vestir-benef.`: nhi_mesotree (1)
+* `Morf=?`: nhi_mesotree (5)
+* `Morf=ALE`: nhi_mesotree (1)
+* `Morf=ALICIA`: nhi_mesotree (1)
+* `Morf=AMIGOS`: nhi_mesotree (1)
+* `Morf=ANA`: nhi_mesotree (1)
+* `Morf=ARRIERO`: nhi_mesotree (1)
+* `Morf=ATRASADO`: nhi_mesotree (1)
+* `Morf=A~VEZ`: nhi_mesotree (1)
+* `Morf=BOLA`: nhi_mesotree (1)
+* `Morf=CABALLO`: nhi_mesotree (1)
+* `Morf=CADA`: nhi_mesotree (2)
+* `Morf=CAMPANAS`: nhi_mesotree (1)
+* `Morf=CARRANZA`: nhi_mesotree (1)
+* `Morf=CARRO`: nhi_mesotree (1)
+* `Morf=CASI`: nhi_mesotree (1)
+* `Morf=CERA-okwilin-meh`: nhi_mesotree (1)
+* `Morf=CERVEZAS`: nhi_mesotree (1)
+* `Morf=CHARRO`: nhi_mesotree (1)
+* `Morf=CIVIL`: nhi_mesotree (1)
+* `Morf=COMO`: nhi_mesotree (2)
+* `Morf=CONSULADO`: nhi_mesotree (1)
+* `Morf=CORRAL`: nhi_mesotree (1)
+* `Morf=CRUCES`: nhi_mesotree (2)
+* `Morf=CUANDO`: nhi_mesotree (4)
+* `Morf=DANIELA`: nhi_mesotree (3)
+* `Morf=DANZAS`: nhi_mesotree (1)
+* `Morf=DE`: nhi_mesotree (3)
 * `Morf=DEM,PL`: bm_crb (25)
-* `Morf=DESPUÉS`: nhi_itml (2)
-* `Morf=DE~n`: nhi_itml (1)
-* `Morf=DIECIOCHO`: nhi_itml (1)
-* `Morf=DIEGO`: nhi_itml (1)
-* `Morf=DIFUNTOS`: nhi_itml (1)
-* `Morf=DIOS`: nhi_itml (1)
-* `Morf=DOS`: nhi_itml (1)
+* `Morf=DESPUÉS`: nhi_mesotree (2)
+* `Morf=DE~n`: nhi_mesotree (1)
+* `Morf=DIECIOCHO`: nhi_mesotree (1)
+* `Morf=DIEGO`: nhi_mesotree (1)
+* `Morf=DIFUNTOS`: nhi_mesotree (1)
+* `Morf=DIOS`: nhi_mesotree (1)
+* `Morf=DOS`: nhi_mesotree (1)
 * `Morf=Dieu,Dieu`: bm_crb (10)
 * `Morf=Dieu,Dieu,Dieu`: bm_crb (4)
-* `Morf=ELÍAS`: nhi_itml (3)
+* `Morf=ELÍAS`: nhi_mesotree (3)
 * `Morf=EMPR,ABSTR`: bm_crb (1)
 * `Morf=EMPR,pois.de.terre,arachide,DIM,boule`: bm_crb (3)
-* `Morf=ENTONCES`: nhi_itml (2)
-* `Morf=ESCUELA`: nhi_itml (2)
-* `Morf=ESPAÑOLES`: nhi_itml (1)
-* `Morf=EVERARDO`: nhi_itml (3)
+* `Morf=ENTONCES`: nhi_mesotree (2)
+* `Morf=ESCUELA`: nhi_mesotree (2)
+* `Morf=ESPAÑOLES`: nhi_mesotree (1)
+* `Morf=EVERARDO`: nhi_mesotree (3)
 * …
 
 ## MorphSynC
 
-Total 8 values: cpg_amgic (55)
+Total 8 values: cpg_amgic (106)
 
 * `MorphSynC=BGrEl`: cpg_amgic (3)
 * `MorphSynC=ELIs`: cpg_amgic (1)
-* `MorphSynC=FrGrEl`: cpg_amgic (32)
+* `MorphSynC=FrGrEl`: cpg_amgic (52)
 * `MorphSynC=FrGrM`: cpg_amgic (4)
-* `MorphSynC=L`: cpg_amgic (2)
-* `MorphSynC=MorphIn`: cpg_amgic (5)
-* `MorphSynC=Part,FrGrEl,QPart`: cpg_amgic (1)
-* `MorphSynC=SynIn`: cpg_amgic (7)
+* `MorphSynC=L`: cpg_amgic (4)
+* `MorphSynC=LexRepl`: cpg_amgic (1)
+* `MorphSynC=MorphIn`: cpg_amgic (15)
+* `MorphSynC=SynIn`: cpg_amgic (26)
 
 ## MorphSynSC
 
-Total 21 values: cpg_amgic (53)
+Total 32 values: cpg_amgic (105)
 
 * `MorphSynSC=...`: cpg_amgic (1)
-* `MorphSynSC=AdvMod`: cpg_amgic (3)
-* `MorphSynSC=AdvTime`: cpg_amgic (2)
-* `MorphSynSC=ConjCo`: cpg_amgic (5)
-* `MorphSynSC=ConjSub`: cpg_amgic (6)
+* `MorphSynSC=AdvMod`: cpg_amgic (6)
+* `MorphSynSC=AdvTime`: cpg_amgic (4)
+* `MorphSynSC=ConV`: cpg_amgic (1)
+* `MorphSynSC=ConV,HFin`: cpg_amgic (1)
+* `MorphSynSC=ConjCo`: cpg_amgic (13)
+* `MorphSynSC=ConjSub`: cpg_amgic (9)
 * `MorphSynSC=CopNeg`: cpg_amgic (1)
+* `MorphSynSC=DCM`: cpg_amgic (1)
+* `MorphSynSC=DIM`: cpg_amgic (2)
 * `MorphSynSC=DerBouM`: cpg_amgic (2)
-* `MorphSynSC=DiscM`: cpg_amgic (2)
+* `MorphSynSC=DiscM`: cpg_amgic (4)
 * `MorphSynSC=ELIsPost`: cpg_amgic (1)
 * `MorphSynSC=EmphPart`: cpg_amgic (2)
-* `MorphSynSC=EnCop`: cpg_amgic (3)
-* `MorphSynSC=HFinPost`: cpg_amgic (4)
+* `MorphSynSC=EnCop`: cpg_amgic (11)
+* `MorphSynSC=FunV`: cpg_amgic (1)
+* `MorphSynSC=HFinLocAdv`: cpg_amgic (6)
+* `MorphSynSC=HFinNC`: cpg_amgic (6)
+* `MorphSynSC=HFinPost`: cpg_amgic (1)
 * `MorphSynSC=HFinVFin`: cpg_amgic (2)
-* `MorphSynSC=IdEx`: cpg_amgic (1)
+* `MorphSynSC=IdEx`: cpg_amgic (2)
 * `MorphSynSC=InfBouM`: cpg_amgic (1)
 * `MorphSynSC=LAgr`: cpg_amgic (2)
+* `MorphSynSC=LGen`: cpg_amgic (2)
 * `MorphSynSC=NegQ`: cpg_amgic (5)
-* `MorphSynSC=Post`: cpg_amgic (2)
+* `MorphSynSC=PhrRepl`: cpg_amgic (1)
+* `MorphSynSC=Post`: cpg_amgic (3)
 * `MorphSynSC=QPart`: cpg_amgic (5)
-* `MorphSynSC=Quant`: cpg_amgic (1)
-* `MorphSynSC=WhW`: cpg_amgic (2)
+* `MorphSynSC=Quant`: cpg_amgic (2)
+* `MorphSynSC=Red`: cpg_amgic (2)
+* `MorphSynSC=RelCl`: cpg_amgic (2)
+* `MorphSynSC=WhW`: cpg_amgic (3)
 
 ## MorphSynT
 
@@ -6013,14 +6234,14 @@ Total 1 values: cpg_amgic (1)
 
 ## Movement
 
-Total 2 values: nhi_itml (105)
+Total 2 values: nhi_mesotree (105)
 
-* `Movement=And`: nhi_itml (70)
-* `Movement=Ven`: nhi_itml (35)
+* `Movement=And`: nhi_mesotree (70)
+* `Movement=Ven`: nhi_mesotree (35)
 
 ## NE
 
-Total 24 values: et_edt (31311), et_ewt (4797)
+Total 24 values: et_edt (31311), et_ewt (4796)
 
 * `NE=B-Eve`: et_edt (386), et_ewt (51)
 * `NE=B-Gep`: et_edt (4041), et_ewt (318)
@@ -6028,7 +6249,7 @@ Total 24 values: et_edt (31311), et_ewt (4797)
 * `NE=B-Muu`: et_edt (25), et_ewt (9)
 * `NE=B-Org`: et_edt (3009), et_ewt (326)
 * `NE=B-OrgSpaceAfter=No`: et_edt (1)
-* `NE=B-Per`: et_edt (8446), et_ewt (1892)
+* `NE=B-Per`: et_edt (8446), et_ewt (1891)
 * `NE=B-Prod`: et_edt (2086), et_ewt (820)
 * `NE=B-Unk`: et_edt (37), et_ewt (5)
 * `NE=B.Prod`: et_edt (1), et_ewt (1)
@@ -6083,26 +6304,17 @@ Total 1 values: gun_thomas (1)
 
 * `NMLZ-PAST-=DIM`: gun_thomas (1)
 
-## NOUN
+## NSent
 
-Total 1 values: egy_ujaen (69)
+Total 1 values: he_postrab (28)
 
-* `NOUN=Yes`: egy_ujaen (69)
+* `NSent=Yes`: he_postrab (28)
 
 ## NUmber
 
 Total 1 values: pt_dantestocks (1)
 
 * `NUmber=Plur`: pt_dantestocks (1)
-
-## Name
-
-Total 4 values: egy_ujaen (2961)
-
-* `Name=Epith`: egy_ujaen (69)
-* `Name=God`: egy_ujaen (1450)
-* `Name=King`: egy_ujaen (1249)
-* `Name=Place`: egy_ujaen (193)
 
 ## NameType
 
@@ -6136,23 +6348,15 @@ Total 3 values: oc_ttb (281)
 
 ## Negation
 
-Total 1 values: en_gentle (189), en_gum (2439), en_gumreddit (324)
+Total 1 values: en_gentle (190), en_gum (2714), en_gumreddit (324)
 
-* `Negation=Yes`: en_gentle (189), en_gum (2439), en_gumreddit (324)
+* `Negation=Yes`: en_gentle (190), en_gum (2714), en_gumreddit (324)
 
 ## NewPar
 
-Total 1 values: lv_lvtb (134), sv_talbanken (109), uk_iu (33)
+Total 1 values: el_glcii (168), lv_lvtb (134), sv_talbanken (109), uk_iu (33)
 
-* `NewPar=Yes`: lv_lvtb (134), sv_talbanken (109), uk_iu (33)
-
-## Nisba
-
-Total 3 values: egy_ujaen (850)
-
-* `Nisba=DeNom`: egy_ujaen (123)
-* `Nisba=DePrep`: egy_ujaen (712)
-* `Nisba=Prep`: egy_ujaen (15)
+* `NewPar=Yes`: el_glcii (168), lv_lvtb (134), sv_talbanken (109), uk_iu (33)
 
 ## NoIndex
 
@@ -6267,30 +6471,30 @@ Total 4577 values: orv_rnc (12406)
 
 ## NormalizedForm
 
-Total 4221 values: azz_itml (10088), nhi_itml (9449)
+Total 4221 values: azz_itml (10088), nhi_mesotree (9449)
 
-* `NormalizedForm=!`: azz_itml (10), nhi_itml (68)
-* `NormalizedForm="`: nhi_itml (9)
+* `NormalizedForm=!`: azz_itml (10), nhi_mesotree (68)
+* `NormalizedForm="`: nhi_mesotree (9)
 * `NormalizedForm='Panketsah`: azz_itml (1)
 * `NormalizedForm='Tasohkamatilia`: azz_itml (1)
 * `NormalizedForm='kixtia`: azz_itml (1)
 * `NormalizedForm='kwechowah`: azz_itml (1)
 * `NormalizedForm='nechili`: azz_itml (1)
 * `NormalizedForm='technohnotsa`: azz_itml (2)
-* `NormalizedForm=(`: azz_itml (11), nhi_itml (5)
-* `NormalizedForm=)`: azz_itml (11), nhi_itml (5)
-* `NormalizedForm=*`: nhi_itml (10)
-* `NormalizedForm=,`: azz_itml (785), nhi_itml (531)
-* `NormalizedForm=-`: nhi_itml (38)
-* `NormalizedForm=--`: nhi_itml (1)
-* `NormalizedForm=---`: nhi_itml (1)
-* `NormalizedForm=.`: azz_itml (1103), nhi_itml (771)
-* `NormalizedForm=...`: azz_itml (15), nhi_itml (8)
-* `NormalizedForm=....`: nhi_itml (1)
+* `NormalizedForm=(`: azz_itml (11), nhi_mesotree (5)
+* `NormalizedForm=)`: azz_itml (11), nhi_mesotree (5)
+* `NormalizedForm=*`: nhi_mesotree (10)
+* `NormalizedForm=,`: azz_itml (785), nhi_mesotree (531)
+* `NormalizedForm=-`: nhi_mesotree (38)
+* `NormalizedForm=--`: nhi_mesotree (1)
+* `NormalizedForm=---`: nhi_mesotree (1)
+* `NormalizedForm=.`: azz_itml (1103), nhi_mesotree (771)
+* `NormalizedForm=...`: azz_itml (15), nhi_mesotree (8)
+* `NormalizedForm=....`: nhi_mesotree (1)
 * `NormalizedForm=1`: azz_itml (1)
 * `NormalizedForm=1973`: azz_itml (1)
 * `NormalizedForm=1986`: azz_itml (1)
-* `NormalizedForm=2`: nhi_itml (1)
+* `NormalizedForm=2`: nhi_mesotree (1)
 * `NormalizedForm=2016`: azz_itml (1)
 * `NormalizedForm=25`: azz_itml (1)
 * `NormalizedForm=27`: azz_itml (2)
@@ -6300,9 +6504,9 @@ Total 4221 values: azz_itml (10088), nhi_itml (9449)
 * `NormalizedForm=56`: azz_itml (1)
 * `NormalizedForm=85`: azz_itml (1)
 * `NormalizedForm=995`: azz_itml (1)
-* `NormalizedForm=:`: azz_itml (51), nhi_itml (57)
-* `NormalizedForm=;`: azz_itml (8), nhi_itml (13)
-* `NormalizedForm=?`: azz_itml (37), nhi_itml (85)
+* `NormalizedForm=:`: azz_itml (51), nhi_mesotree (57)
+* `NormalizedForm=;`: azz_itml (8), nhi_mesotree (13)
+* `NormalizedForm=?`: azz_itml (37), nhi_mesotree (85)
 * `NormalizedForm=A`: azz_itml (16)
 * `NormalizedForm=AHMOLKILIT`: azz_itml (1)
 * `NormalizedForm=AKOLIH`: azz_itml (1)
@@ -6315,7 +6519,7 @@ Total 4221 values: azz_itml (10088), nhi_itml (9449)
 * `NormalizedForm=Achá`: azz_itml (2)
 * `NormalizedForm=Ah`: azz_itml (1)
 * `NormalizedForm=Aha`: azz_itml (3)
-* `NormalizedForm=Ahora`: nhi_itml (3)
+* `NormalizedForm=Ahora`: nhi_mesotree (3)
 * `NormalizedForm=Ait`: azz_itml (1)
 * `NormalizedForm=Akin`: azz_itml (2)
 * `NormalizedForm=Alfaro`: azz_itml (1)
@@ -6323,58 +6527,58 @@ Total 4221 values: azz_itml (10088), nhi_itml (9449)
 
 ## NormalizedLemma
 
-Total 1416 values: nhi_itml (9449)
+Total 1416 values: nhi_mesotree (9449)
 
-* `NormalizedLemma=!`: nhi_itml (68)
-* `NormalizedLemma="`: nhi_itml (9)
-* `NormalizedLemma=#“#`: nhi_itml (1)
-* `NormalizedLemma=(`: nhi_itml (5)
-* `NormalizedLemma=)`: nhi_itml (5)
-* `NormalizedLemma=*`: nhi_itml (10)
-* `NormalizedLemma=,`: nhi_itml (530)
-* `NormalizedLemma=-`: nhi_itml (34)
-* `NormalizedLemma=--`: nhi_itml (1)
-* `NormalizedLemma=.`: nhi_itml (772)
-* `NormalizedLemma=...`: nhi_itml (6)
-* `NormalizedLemma=2`: nhi_itml (1)
-* `NormalizedLemma=:`: nhi_itml (57)
-* `NormalizedLemma=;`: nhi_itml (13)
-* `NormalizedLemma=?`: nhi_itml (85)
-* `NormalizedLemma=_`: nhi_itml (128)
-* `NormalizedLemma=a`: nhi_itml (17)
-* `NormalizedLemma=aa`: nhi_itml (6)
-* `NormalizedLemma=aay`: nhi_itml (1)
-* `NormalizedLemma=abandonaroa`: nhi_itml (2)
-* `NormalizedLemma=abril`: nhi_itml (1)
-* `NormalizedLemma=abwelo`: nhi_itml (1)
-* `NormalizedLemma=achtoh`: nhi_itml (4)
-* `NormalizedLemma=adelante`: nhi_itml (1)
-* `NormalizedLemma=ah`: nhi_itml (3)
-* `NormalizedLemma=ahawil`: nhi_itml (1)
-* `NormalizedLemma=ahkoita`: nhi_itml (1)
-* `NormalizedLemma=ahkokwi`: nhi_itml (1)
-* `NormalizedLemma=ahkotsikwini`: nhi_itml (4)
-* `NormalizedLemma=ahkwita`: nhi_itml (2)
-* `NormalizedLemma=ahmo`: nhi_itml (1)
-* `NormalizedLemma=ahora`: nhi_itml (10)
-* `NormalizedLemma=ahorita`: nhi_itml (10)
-* `NormalizedLemma=ahsi`: nhi_itml (33)
-* `NormalizedLemma=ahsikamati`: nhi_itml (2)
-* `NormalizedLemma=ahí`: nhi_itml (1)
-* `NormalizedLemma=ai`: nhi_itml (10)
-* `NormalizedLemma=akah`: nhi_itml (2)
-* `NormalizedLemma=akawalxochitl`: nhi_itml (1)
-* `NormalizedLemma=aki`: nhi_itml (1)
-* `NormalizedLemma=akih`: nhi_itml (13)
-* `NormalizedLemma=akiltia`: nhi_itml (1)
-* `NormalizedLemma=akin`: nhi_itml (9)
-* `NormalizedLemma=akinoh`: nhi_itml (2)
-* `NormalizedLemma=akixtia`: nhi_itml (1)
-* `NormalizedLemma=akmo`: nhi_itml (24)
-* `NormalizedLemma=akmokeman`: nhi_itml (1)
-* `NormalizedLemma=alahero`: nhi_itml (1)
-* `NormalizedLemma=alarma`: nhi_itml (1)
-* `NormalizedLemma=ale`: nhi_itml (1)
+* `NormalizedLemma=!`: nhi_mesotree (68)
+* `NormalizedLemma="`: nhi_mesotree (9)
+* `NormalizedLemma=#“#`: nhi_mesotree (1)
+* `NormalizedLemma=(`: nhi_mesotree (5)
+* `NormalizedLemma=)`: nhi_mesotree (5)
+* `NormalizedLemma=*`: nhi_mesotree (10)
+* `NormalizedLemma=,`: nhi_mesotree (530)
+* `NormalizedLemma=-`: nhi_mesotree (34)
+* `NormalizedLemma=--`: nhi_mesotree (1)
+* `NormalizedLemma=.`: nhi_mesotree (772)
+* `NormalizedLemma=...`: nhi_mesotree (6)
+* `NormalizedLemma=2`: nhi_mesotree (1)
+* `NormalizedLemma=:`: nhi_mesotree (57)
+* `NormalizedLemma=;`: nhi_mesotree (13)
+* `NormalizedLemma=?`: nhi_mesotree (85)
+* `NormalizedLemma=_`: nhi_mesotree (128)
+* `NormalizedLemma=a`: nhi_mesotree (17)
+* `NormalizedLemma=aa`: nhi_mesotree (6)
+* `NormalizedLemma=aay`: nhi_mesotree (1)
+* `NormalizedLemma=abandonaroa`: nhi_mesotree (2)
+* `NormalizedLemma=abril`: nhi_mesotree (1)
+* `NormalizedLemma=abwelo`: nhi_mesotree (1)
+* `NormalizedLemma=achtoh`: nhi_mesotree (4)
+* `NormalizedLemma=adelante`: nhi_mesotree (1)
+* `NormalizedLemma=ah`: nhi_mesotree (3)
+* `NormalizedLemma=ahawil`: nhi_mesotree (1)
+* `NormalizedLemma=ahkoita`: nhi_mesotree (1)
+* `NormalizedLemma=ahkokwi`: nhi_mesotree (1)
+* `NormalizedLemma=ahkotsikwini`: nhi_mesotree (4)
+* `NormalizedLemma=ahkwita`: nhi_mesotree (2)
+* `NormalizedLemma=ahmo`: nhi_mesotree (1)
+* `NormalizedLemma=ahora`: nhi_mesotree (10)
+* `NormalizedLemma=ahorita`: nhi_mesotree (10)
+* `NormalizedLemma=ahsi`: nhi_mesotree (33)
+* `NormalizedLemma=ahsikamati`: nhi_mesotree (2)
+* `NormalizedLemma=ahí`: nhi_mesotree (1)
+* `NormalizedLemma=ai`: nhi_mesotree (10)
+* `NormalizedLemma=akah`: nhi_mesotree (2)
+* `NormalizedLemma=akawalxochitl`: nhi_mesotree (1)
+* `NormalizedLemma=aki`: nhi_mesotree (1)
+* `NormalizedLemma=akih`: nhi_mesotree (13)
+* `NormalizedLemma=akiltia`: nhi_mesotree (1)
+* `NormalizedLemma=akin`: nhi_mesotree (9)
+* `NormalizedLemma=akinoh`: nhi_mesotree (2)
+* `NormalizedLemma=akixtia`: nhi_mesotree (1)
+* `NormalizedLemma=akmo`: nhi_mesotree (24)
+* `NormalizedLemma=akmokeman`: nhi_mesotree (1)
+* `NormalizedLemma=alahero`: nhi_mesotree (1)
+* `NormalizedLemma=alarma`: nhi_mesotree (1)
+* `NormalizedLemma=ale`: nhi_mesotree (1)
 * …
 
 ## NotInInput
@@ -6385,8 +6589,9 @@ Total 1 values: pl_lfg (1)
 
 ## Note
 
-Total 7 values: fi_ood (49), fr_poitevindivital (3), kpv_ikdp (13), kpv_lattice (6)
+Total 8 values: fi_ood (49), fr_poitevindivital (3), kpv_ikdp (13), kpv_lattice (6), nhi_mesotree (1)
 
+* `Note=?`: nhi_mesotree (1)
 * `Note=AddedPOS`: fr_poitevindivital (1)
 * `Note=Check`: kpv_ikdp (10), kpv_lattice (6)
 * `Note=CheckAll`: kpv_ikdp (3)
@@ -6395,18 +6600,37 @@ Total 7 values: fi_ood (49), fr_poitevindivital (3), kpv_ikdp (13), kpv_lattice 
 * `Note=check`: fi_ood (17)
 * `Note=embedded`: fi_ood (31)
 
+## NounClass
+
+Total 1 values: kbc_unicamp (2)
+
+* `NounClass=Lo`: kbc_unicamp (2)
+
 ## NounType
 
-Total 1 values: nhi_itml (195)
+Total 1 values: nhi_mesotree (199)
 
-* `NounType=Relat`: nhi_itml (195)
+* `NounType=Relat`: nhi_mesotree (199)
+
+## NumClass
+
+Total 1 values: kbc_unicamp (1)
+
+* `NumClass=Absent`: kbc_unicamp (1)
 
 ## NumForm
 
-Total 2 values: en_littleprince (31)
+Total 2 values: en_littleprince (31), ro_nonstandard (3)
 
 * `NumForm=Digit`: en_littleprince (15)
-* `NumForm=Word`: en_littleprince (16)
+* `NumForm=Word`: en_littleprince (16), ro_nonstandard (3)
+
+## NumType
+
+Total 2 values: pa_cs (2)
+
+* `NumType=Mult`: pa_cs (1)
+* `NumType=card`: pa_cs (1)
 
 ## NumTypo
 
@@ -6428,25 +6652,24 @@ Total 1 values: pt_dantestocks (1)
 
 ## Number
 
-Total 3 values: be_hse (1), or_odtb (1), xcl_caval (1)
+Total 2 values: be_hse (1), xcl_caval (1)
 
 * `Number=Plur`: xcl_caval (1)
-* `Number=Sing`: or_odtb (1)
 * `Number=Sing"`: be_hse (1)
 
-## Number[ctxt]
+## NumberAf
 
-Total 2 values: fr_gsd (4261), fr_parisstories (6517), fr_rhapsodie (6711), fr_sequoia (716)
+Total 2 values: ha_easternautogramm (54), ha_northernautogramm (99), ha_southernautogramm (60), ha_westernautogramm (43)
 
-* `Number[ctxt]=Plur`: fr_gsd (979), fr_parisstories (1168), fr_rhapsodie (1302), fr_sequoia (241)
-* `Number[ctxt]=Sing`: fr_gsd (3282), fr_parisstories (5349), fr_rhapsodie (5409), fr_sequoia (475)
+* `NumberAf=Plur`: ha_easternautogramm (51), ha_northernautogramm (55), ha_southernautogramm (45), ha_westernautogramm (35)
+* `NumberAf=Sing`: ha_easternautogramm (3), ha_northernautogramm (44), ha_southernautogramm (15), ha_westernautogramm (8)
 
 ## Number[dat]
 
-Total 2 values: nhi_itml (97)
+Total 2 values: nhi_mesotree (98)
 
-* `Number[dat]=Plur`: nhi_itml (26)
-* `Number[dat]=Sing`: nhi_itml (71)
+* `Number[dat]=Plur`: nhi_mesotree (26)
+* `Number[dat]=Sing`: nhi_mesotree (72)
 
 ## Number[iobj]
 
@@ -6455,33 +6678,26 @@ Total 2 values: azz_itml (72)
 * `Number[iobj]=Plur`: azz_itml (3)
 * `Number[iobj]=Sing`: azz_itml (69)
 
-## Number[lex]
-
-Total 2 values: fr_gsd (10479), fr_parisstories (192), fr_rhapsodie (257), fr_sequoia (1688)
-
-* `Number[lex]=Plur`: fr_gsd (3878), fr_parisstories (138), fr_rhapsodie (198), fr_sequoia (957)
-* `Number[lex]=Sing`: fr_gsd (6601), fr_parisstories (54), fr_rhapsodie (59), fr_sequoia (731)
-
 ## Number[obj]
 
-Total 2 values: nhi_itml (678)
+Total 2 values: nhi_mesotree (681)
 
-* `Number[obj]=Plur`: nhi_itml (88)
-* `Number[obj]=Sing`: nhi_itml (590)
+* `Number[obj]=Plur`: nhi_mesotree (88)
+* `Number[obj]=Sing`: nhi_mesotree (593)
 
 ## Number[psor]
 
-Total 2 values: nhi_itml (486)
+Total 2 values: nhi_mesotree (488)
 
-* `Number[psor]=Plur`: nhi_itml (107)
-* `Number[psor]=Sing`: nhi_itml (379)
+* `Number[psor]=Plur`: nhi_mesotree (109)
+* `Number[psor]=Sing`: nhi_mesotree (379)
 
 ## Number[subj]
 
-Total 2 values: nhi_itml (1827)
+Total 2 values: nhi_mesotree (1839)
 
-* `Number[subj]=Plur`: nhi_itml (642)
-* `Number[subj]=Sing`: nhi_itml (1185)
+* `Number[subj]=Plur`: nhi_mesotree (642)
+* `Number[subj]=Sing`: nhi_mesotree (1197)
 
 ## Numver
 
@@ -6489,20 +6705,11 @@ Total 1 values: pt_dantestocks (1)
 
 * `Numver=Inv`: pt_dantestocks (1)
 
-## OSSC
+## OOS
 
-Total 10 values: egy_ujaen (273)
+Total 1 values: he_postrab (2)
 
-* `OSSC=Fut`: egy_ujaen (2)
-* `OSSC=Initial`: egy_ujaen (10)
-* `OSSC=Pass`: egy_ujaen (7)
-* `OSSC=Past`: egy_ujaen (34)
-* `OSSC=Past-1`: egy_ujaen (4)
-* `OSSC=PastConv`: egy_ujaen (1)
-* `OSSC=Pres`: egy_ujaen (18)
-* `OSSC=Stat`: egy_ujaen (104)
-* `OSSC=StatConv`: egy_ujaen (65)
-* `OSSC=Sub`: egy_ujaen (28)
+* `OOS=Yes`: he_postrab (2)
 
 ## ObjRef
 
@@ -6541,10 +6748,10 @@ Total 30 values: myv_jr (32)
 
 ## Object
 
-Total 2 values: say_autogramm (26)
+Total 2 values: say_autogramm (32)
 
-* `Object=ObjRaising`: say_autogramm (14)
-* `Object=ObjectRaising`: say_autogramm (12)
+* `Object=ObjRaising`: say_autogramm (11)
+* `Object=ObjectRaising`: say_autogramm (21)
 
 ## OblType
 
@@ -6611,58 +6818,58 @@ Total 205735 values: sa_vedic (206440)
 
 ## Orig
 
-Total 4317 values: cop_bohairic (2028), cop_scriptorium (12610), cpg_amgic (28), nhi_itml (2218), xum_ikuvina (7), yrl_complin (64)
+Total 4407 values: cop_bohairic (2028), cop_scriptorium (12715), cpg_amgic (73), nhi_mesotree (2218), xum_ikuvina (7), yrl_complin (64)
 
-* `Orig=!`: nhi_itml (3)
-* `Orig="`: nhi_itml (2)
-* `Orig=,`: nhi_itml (70)
-* `Orig=--`: nhi_itml (1)
-* `Orig=.`: cop_scriptorium (1), nhi_itml (290)
+* `Orig=!`: nhi_mesotree (3)
+* `Orig="`: nhi_mesotree (2)
+* `Orig=,`: nhi_mesotree (70)
+* `Orig=--`: nhi_mesotree (1)
+* `Orig=.`: cop_scriptorium (1), nhi_mesotree (290)
 * `Orig=..`: cop_scriptorium (2)
-* `Orig=...`: nhi_itml (3)
+* `Orig=...`: nhi_mesotree (3)
 * `Orig=....]`: cop_scriptorium (2)
 * `Orig=.]`: cop_scriptorium (1)
 * `Orig=.ⲻ`: cop_scriptorium (2)
-* `Orig=2`: nhi_itml (1)
+* `Orig=2`: nhi_mesotree (1)
 * `Orig==`: cop_scriptorium (7)
 * `Orig==-.`: cop_scriptorium (1)
 * `Orig==–`: cop_scriptorium (1)
 * `Orig==–.`: cop_scriptorium (2)
 * `Orig==ⲻ`: cop_scriptorium (1)
-* `Orig=?`: nhi_itml (44)
-* `Orig=ATRASĀDOH`: nhi_itml (1)
-* `Orig=Abril`: nhi_itml (1)
-* `Orig=Akih`: nhi_itml (1)
-* `Orig=Akij`: nhi_itml (3)
-* `Orig=Akijkej`: nhi_itml (2)
-* `Orig=Akmokeman`: nhi_itml (1)
-* `Orig=Alı̄syah`: nhi_itml (1)
-* `Orig=Amo`: nhi_itml (11)
-* `Orig=Amotlen`: nhi_itml (1)
-* `Orig=Axan`: nhi_itml (1)
-* `Orig=Bı̄ktor`: nhi_itml (1)
-* `Orig=CONSULADO`: nhi_itml (1)
-* `Orig=Chikawakin`: nhi_itml (1)
-* `Orig=Clemente`: nhi_itml (1)
+* `Orig=?`: nhi_mesotree (44)
+* `Orig=ATRASĀDOH`: nhi_mesotree (1)
+* `Orig=Abril`: nhi_mesotree (1)
+* `Orig=Akih`: nhi_mesotree (1)
+* `Orig=Akij`: nhi_mesotree (3)
+* `Orig=Akijkej`: nhi_mesotree (2)
+* `Orig=Akmokeman`: nhi_mesotree (1)
+* `Orig=Alı̄syah`: nhi_mesotree (1)
+* `Orig=Amo`: nhi_mesotree (11)
+* `Orig=Amotlen`: nhi_mesotree (1)
+* `Orig=Axan`: nhi_mesotree (1)
+* `Orig=Bı̄ktor`: nhi_mesotree (1)
+* `Orig=CONSULADO`: nhi_mesotree (1)
+* `Orig=Chikawakin`: nhi_mesotree (1)
+* `Orig=Clemente`: nhi_mesotree (1)
 * `Orig=Cristo`: yrl_complin (3)
-* `Orig=DE`: nhi_itml (1)
-* `Orig=DIECIOCHO`: nhi_itml (1)
-* `Orig=Danyēlah`: nhi_itml (3)
-* `Orig=David`: nhi_itml (1)
-* `Orig=Dion`: nhi_itml (2)
-* `Orig=Dios`: nhi_itml (3)
-* `Orig=Dyēgoh`: nhi_itml (1)
-* `Orig=Dyōs`: nhi_itml (1)
-* `Orig=EEUU`: nhi_itml (1)
-* `Orig=Eberārdoh`: nhi_itml (3)
-* `Orig=Elīas`: nhi_itml (3)
+* `Orig=DE`: nhi_mesotree (1)
+* `Orig=DIECIOCHO`: nhi_mesotree (1)
+* `Orig=Danyēlah`: nhi_mesotree (3)
+* `Orig=David`: nhi_mesotree (1)
+* `Orig=Dion`: nhi_mesotree (2)
+* `Orig=Dios`: nhi_mesotree (3)
+* `Orig=Dyēgoh`: nhi_mesotree (1)
+* `Orig=Dyōs`: nhi_mesotree (1)
+* `Orig=EEUU`: nhi_mesotree (1)
+* `Orig=Eberārdoh`: nhi_mesotree (3)
+* `Orig=Elīas`: nhi_mesotree (3)
 * `Orig=Encarnação`: yrl_complin (1)
-* `Orig=Entōnses`: nhi_itml (2)
+* `Orig=Entōnses`: nhi_mesotree (2)
 * `Orig=Espírito`: yrl_complin (1)
-* `Orig=G`: nhi_itml (1)
-* `Orig=Gabryêl`: nhi_itml (4)
-* `Orig=Hasta`: nhi_itml (1)
-* `Orig=Ignāsyoh`: nhi_itml (2)
+* `Orig=G`: nhi_mesotree (1)
+* `Orig=Gabryêl`: nhi_mesotree (4)
+* `Orig=Hasta`: nhi_mesotree (1)
+* `Orig=Ignāsyoh`: nhi_mesotree (2)
 * …
 
 ## Orig:Lang
@@ -6705,27 +6912,29 @@ Total 2 values: naq_kdt (11), nmf_suansu (3)
 
 ## OrigLang
 
-Total 40 values: cop_bohairic (2527), cop_scriptorium (4719), cpg_amgic (58), ctn_ctntb (16), et_edt (549), et_ewt (196), fi_ood (56), fi_pud (14), fi_tdt (290), gd_arcosg (155), kpv_ikdp (286), kpv_lattice (223), la_ittb (152), naq_kdt (292), nmf_suansu (238), yrl_complin (164)
+Total 42 values: cop_bohairic (2528), cop_scriptorium (4827), cpg_amgic (102), ctn_ctntb (16), el_glcii (48), et_edt (549), et_ewt (196), fi_ood (56), fi_pud (14), fi_tdt (290), gd_arcosg (155), he_postrab (2), kpv_ikdp (286), kpv_lattice (223), la_ittb (152), naq_kdt (292), nmf_suansu (238), ruc_rdt (2), yrl_complin (165)
 
 * `OrigLang=af`: naq_kdt (232)
-* `OrigLang=akk`: cop_scriptorium (1)
+* `OrigLang=akk`: cop_scriptorium (13)
 * `OrigLang=ar`: et_edt (9)
 * `OrigLang=ara`: la_ittb (4)
-* `OrigLang=arc`: cop_bohairic (10), cop_scriptorium (12)
+* `OrigLang=arc`: cop_bohairic (10), cop_scriptorium (12), he_postrab (2)
 * `OrigLang=ce`: et_edt (12)
 * `OrigLang=de`: et_edt (2), et_ewt (2), fi_tdt (2), naq_kdt (3)
 * `OrigLang=egy`: cop_scriptorium (1)
 * `OrigLang=el`: et_edt (1), fi_tdt (6)
-* `OrigLang=en`: ctn_ctntb (8), et_edt (79), et_ewt (102), fi_ood (51), fi_pud (5), fi_tdt (222), gd_arcosg (155), naq_kdt (55), nmf_suansu (238)
+* `OrigLang=el+tr`: cpg_amgic (1)
+* `OrigLang=ell`: cpg_amgic (1)
+* `OrigLang=en`: ctn_ctntb (8), el_glcii (42), et_edt (79), et_ewt (102), fi_ood (51), fi_pud (5), fi_tdt (222), gd_arcosg (155), naq_kdt (55), nmf_suansu (238), ruc_rdt (2)
 * `OrigLang=eng`: naq_kdt (2)
 * `OrigLang=es`: et_edt (21)
 * `OrigLang=fa`: et_edt (2), fi_tdt (1)
 * `OrigLang=fi`: et_edt (2), et_ewt (1)
-* `OrigLang=fr`: et_edt (11), et_ewt (13), fi_ood (3), fi_pud (4), fi_tdt (12)
-* `OrigLang=grc`: cop_bohairic (2158), cop_scriptorium (4097), et_edt (2), la_ittb (7)
+* `OrigLang=fr`: el_glcii (6), et_edt (11), et_ewt (13), fi_ood (3), fi_pud (4), fi_tdt (12)
+* `OrigLang=grc`: cop_bohairic (2159), cop_scriptorium (4170), et_edt (2), la_ittb (7)
 * `OrigLang=hbo`: la_ittb (137)
 * `OrigLang=he`: fi_tdt (1)
-* `OrigLang=heb`: cop_bohairic (331), cop_scriptorium (571)
+* `OrigLang=heb`: cop_bohairic (331), cop_scriptorium (593)
 * `OrigLang=hy`: fi_tdt (1)
 * `OrigLang=id`: fi_tdt (2)
 * `OrigLang=it`: et_edt (9), et_ewt (8), fi_pud (5)
@@ -6738,12 +6947,12 @@ Total 40 values: cop_bohairic (2527), cop_scriptorium (4719), cpg_amgic (58), ct
 * `OrigLang=nl`: fi_tdt (1)
 * `OrigLang=pa`: et_edt (6)
 * `OrigLang=peo`: cop_scriptorium (2)
-* `OrigLang=phn`: cop_bohairic (2)
-* `OrigLang=pt`: yrl_complin (164)
+* `OrigLang=phn`: cop_bohairic (2), cop_scriptorium (1)
+* `OrigLang=pt`: yrl_complin (165)
 * `OrigLang=ru`: et_edt (84), et_ewt (13), fi_tdt (9), kpv_ikdp (286), kpv_lattice (223)
 * `OrigLang=sv`: fi_tdt (9)
 * `OrigLang=syc`: la_ittb (1)
-* `OrigLang=tr`: cpg_amgic (58), fi_tdt (1)
+* `OrigLang=tr`: cpg_amgic (100), fi_tdt (1)
 * `OrigLang=uk`: fi_tdt (2)
 * `OrigLang=undefined`: et_edt (5)
 * `OrigLang=zh`: fi_tdt (6)
@@ -6847,6 +7056,15 @@ Total 1 values: et_ewt (1)
 Total 1 values: et_ewt (12)
 
 * `Orphan=Yes`: et_ewt (12)
+
+## OrphanFunc
+
+Total 4 values: he_postrab (9)
+
+* `OrphanFunc=acl`: he_postrab (1)
+* `OrphanFunc=advcl`: he_postrab (1)
+* `OrphanFunc=appos`: he_postrab (1)
+* `OrphanFunc=obl`: he_postrab (6)
 
 ## Ortho
 
@@ -6968,11 +7186,11 @@ Total 952 values: fr_rhapsodie (2940), ha_southernautogramm (41)
 
 ## OverlappingGroup
 
-Total 205 values: it_kiparlaforest (1143)
+Total 211 values: it_kiparlaforest (1742)
 
-* `OverlappingGroup=0`: it_kiparlaforest (5)
-* `OverlappingGroup=1`: it_kiparlaforest (12)
-* `OverlappingGroup=10`: it_kiparlaforest (10)
+* `OverlappingGroup=0`: it_kiparlaforest (20)
+* `OverlappingGroup=1`: it_kiparlaforest (22)
+* `OverlappingGroup=10`: it_kiparlaforest (16)
 * `OverlappingGroup=100`: it_kiparlaforest (7)
 * `OverlappingGroup=101`: it_kiparlaforest (3)
 * `OverlappingGroup=102`: it_kiparlaforest (8)
@@ -6981,7 +7199,7 @@ Total 205 values: it_kiparlaforest (1143)
 * `OverlappingGroup=106`: it_kiparlaforest (3)
 * `OverlappingGroup=107`: it_kiparlaforest (1)
 * `OverlappingGroup=108`: it_kiparlaforest (2)
-* `OverlappingGroup=11`: it_kiparlaforest (2)
+* `OverlappingGroup=11`: it_kiparlaforest (11)
 * `OverlappingGroup=110`: it_kiparlaforest (1)
 * `OverlappingGroup=111`: it_kiparlaforest (2)
 * `OverlappingGroup=112`: it_kiparlaforest (5)
@@ -6991,7 +7209,7 @@ Total 205 values: it_kiparlaforest (1143)
 * `OverlappingGroup=117`: it_kiparlaforest (6)
 * `OverlappingGroup=118`: it_kiparlaforest (4)
 * `OverlappingGroup=119`: it_kiparlaforest (4)
-* `OverlappingGroup=12`: it_kiparlaforest (7)
+* `OverlappingGroup=12`: it_kiparlaforest (19)
 * `OverlappingGroup=121`: it_kiparlaforest (7)
 * `OverlappingGroup=122`: it_kiparlaforest (10)
 * `OverlappingGroup=123`: it_kiparlaforest (7)
@@ -6999,7 +7217,7 @@ Total 205 values: it_kiparlaforest (1143)
 * `OverlappingGroup=126`: it_kiparlaforest (2)
 * `OverlappingGroup=127`: it_kiparlaforest (2)
 * `OverlappingGroup=128`: it_kiparlaforest (10)
-* `OverlappingGroup=13`: it_kiparlaforest (5)
+* `OverlappingGroup=13`: it_kiparlaforest (21)
 * `OverlappingGroup=130`: it_kiparlaforest (14)
 * `OverlappingGroup=133`: it_kiparlaforest (5)
 * `OverlappingGroup=134`: it_kiparlaforest (8)
@@ -7008,7 +7226,7 @@ Total 205 values: it_kiparlaforest (1143)
 * `OverlappingGroup=137`: it_kiparlaforest (3)
 * `OverlappingGroup=138`: it_kiparlaforest (4)
 * `OverlappingGroup=139`: it_kiparlaforest (1)
-* `OverlappingGroup=14`: it_kiparlaforest (3)
+* `OverlappingGroup=14`: it_kiparlaforest (15)
 * `OverlappingGroup=140`: it_kiparlaforest (6)
 * `OverlappingGroup=141`: it_kiparlaforest (4)
 * `OverlappingGroup=142`: it_kiparlaforest (7)
@@ -7019,13 +7237,14 @@ Total 205 values: it_kiparlaforest (1143)
 * `OverlappingGroup=147`: it_kiparlaforest (1)
 * `OverlappingGroup=148`: it_kiparlaforest (4)
 * `OverlappingGroup=149`: it_kiparlaforest (3)
-* `OverlappingGroup=15`: it_kiparlaforest (9)
+* `OverlappingGroup=15`: it_kiparlaforest (24)
 * …
 
 ## PDTB
 
-Total 15271 values: en_gentle (846), en_gum (13350), en_gumreddit (1085)
+Total 17482 values: en_gentle (910), en_gum (15452), en_gumreddit (1133)
 
+* `PDTB=AltLex:Comparison.Concession.Arg1-as-denier:even:1429:1412-1428:1430-1438`: en_gum (1)
 * `PDTB=AltLex:Comparison.Concession.Arg1-as-denier:even:168:147-156:157-167,169-170`: en_gum (1)
 * `PDTB=AltLex:Comparison.Concession.Arg1-as-denier:even:1867:1842-1864:1865-1866,1868-1878`: en_gum (1)
 * `PDTB=AltLex:Comparison.Concession.Arg1-as-denier:even:346:339-345,353-358:347-352`: en_gum (1)
@@ -7044,10 +7263,12 @@ Total 15271 values: en_gentle (846), en_gum (13350), en_gumreddit (1085)
 * `PDTB=AltLex:Contingency.Cause.Result:as such:476-477:470-475:478-501`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:for it:225-226:203-209:210-224,227`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:for it:825-826:791-816:817-824,827-828`: en_gumreddit (1)
+* `PDTB=AltLex:Contingency.Cause.Result:led:115:110-113:114,116-135`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:led:736:684-734:735,737-759`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:led:846:826-844:845,847-859`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:once:520:444-511:512-519,521`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:once:520:500-515:516-519,521-535`: en_gum (1)
+* `PDTB=AltLex:Contingency.Cause.Result:once:601:572-598:599-600,602-624`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:once:88:77-82:83-87,89-98`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:result in:436-437:399-430:431-435,438-455`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:result in:658-659:630-643:644-657,660-666`: en_gum (1)
@@ -7056,9 +7277,11 @@ Total 15271 values: en_gentle (846), en_gum (13350), en_gumreddit (1085)
 * `PDTB=AltLex:Contingency.Cause.Result:resulted in:1185-1186:1170-1183:1184,1187-1223`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:resulted in:248-249:241-245:246-247,250-253`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:resulted in:535-536:493-510:511-534,537-548`: en_gentle (1)
+* `PDTB=AltLex:Contingency.Cause.Result:resulting in:366-367:342-365:368-384;Implicit:Contingency.Cause.Result:thus:_:342-365:366-384`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:resulting in:725-726:704-724:727-731;Implicit:Contingency.Cause.Result:thus:_:704-724:725-731`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:that 's why:1034-1036:1019-1033:1037-1053`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:that can be:103-105:93-102:106-112`: en_gum (1)
+* `PDTB=AltLex:Contingency.Cause.Result:that finding:1073-1074:1056-1069:1070-1072,1075-1095`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:that makes:598-599:573-587:588-597,600-606`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:the addition:6-7:2-5,8-44:45-84`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:the more:409-410:396-404:405-408,411-424`: en_gum (1)
@@ -7071,12 +7294,14 @@ Total 15271 values: en_gentle (846), en_gum (13350), en_gumreddit (1085)
 * `PDTB=AltLex:Contingency.Cause.Result:ushering in:175-176:169-173:174,177-192`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:which is why:358-360:342-357:361-381`: en_gum (1)
 * `PDTB=AltLex:Contingency.Cause.Result:which makes:14-15:11-13:16-32`: en_gum (1)
-* `PDTB=AltLex:Contingency.Cause.Result:which makes:405-406:392-404:407-409`: en_gum (1)
-* `PDTB=AltLex:Contingency.Cause.Result:which means:389-390:371-388:391-422`: en_gum (1)
-* `PDTB=AltLex:Contingency.Cause.Result:will result in:728-730:719-726:727,731-734`: en_gum (1)
-* `PDTB=AltLex:Contingency.Condition.Arg2-as-cond:provided:593:579-590:591-592`: en_gum (1)
-* `PDTB=AltLex:Contingency.Condition.Arg2-as-cond:provided:743:731-740:741-742,744-746`: en_gum (1)
 * …
+
+## POS
+
+Total 2 values: ruc_rdt (2)
+
+* `POS=ADV`: ruc_rdt (1)
+* `POS=vpf-vpf-vpf-VERB-vsf-vsf`: ruc_rdt (1)
 
 ## PRel[config]
 
@@ -7091,7 +7316,7 @@ Total 6 values: en_ewt (5567)
 
 ## PRel[gov]
 
-Total 3721 values: en_ewt (5474)
+Total 3720 values: en_ewt (5474)
 
 * `PRel[gov]=10:%`: en_ewt (1)
 * `PRel[gov]=10:BMW`: en_ewt (1)
@@ -7232,47 +7457,122 @@ Total 24 values: ja_bccwj (78922), ja_bccwjluw (25578)
 
 ## PaceFast
 
-Total 1 values: it_kiparlaforest (159)
+Total 1 values: it_kiparlaforest (307)
 
-* `PaceFast=Yes`: it_kiparlaforest (159)
+* `PaceFast=Yes`: it_kiparlaforest (307)
 
 ## PaceSlow
 
-Total 1 values: it_kiparlaforest (18)
+Total 1 values: it_kiparlaforest (140)
 
-* `PaceSlow=Yes`: it_kiparlaforest (18)
+* `PaceSlow=Yes`: it_kiparlaforest (140)
 
-## Palatalization
+## ParsemeMWE
 
-Total 1 values: el_lesbian (22)
+Total 266 values: sv_pud (1496), sv_talbanken (9952)
 
-* `Palatalization=Palatalized`: el_lesbian (22)
+* `ParsemeMWE=1`: sv_pud (348), sv_talbanken (2068)
+* `ParsemeMWE=10`: sv_talbanken (2)
+* `ParsemeMWE=10:NID`: sv_talbanken (1)
+* `ParsemeMWE=10:NotMWE`: sv_talbanken (1)
+* `ParsemeMWE=10:VID`: sv_talbanken (1)
+* `ParsemeMWE=11:AdvID`: sv_talbanken (2)
+* `ParsemeMWE=12`: sv_talbanken (2)
+* `ParsemeMWE=12:AdvID`: sv_talbanken (1)
+* `ParsemeMWE=12:NID`: sv_talbanken (1)
+* `ParsemeMWE=13:NotMWE`: sv_talbanken (1)
+* `ParsemeMWE=14`: sv_talbanken (2)
+* `ParsemeMWE=14:AdvID`: sv_talbanken (1)
+* `ParsemeMWE=15:NotMWE`: sv_talbanken (1)
+* `ParsemeMWE=16:NID`: sv_talbanken (1)
+* `ParsemeMWE=17`: sv_talbanken (1)
+* `ParsemeMWE=17:IVPC.semi`: sv_talbanken (1)
+* `ParsemeMWE=18:AdvID`: sv_talbanken (1)
+* `ParsemeMWE=19:AdvID`: sv_talbanken (1)
+* `ParsemeMWE=1:AV.IRV`: sv_talbanken (7)
+* `ParsemeMWE=1:AV.IVPC.full`: sv_pud (8), sv_talbanken (26)
+* `ParsemeMWE=1:AV.IVPC.semi`: sv_pud (6), sv_talbanken (18)
+* `ParsemeMWE=1:AV.VID`: sv_talbanken (3)
+* `ParsemeMWE=1:AdjID`: sv_pud (13), sv_talbanken (47)
+* `ParsemeMWE=1:AdjID;2:NotMWE`: sv_talbanken (2)
+* `ParsemeMWE=1:AdpID`: sv_pud (21), sv_talbanken (74)
+* `ParsemeMWE=1:AdpID;2:AdvID`: sv_talbanken (1)
+* `ParsemeMWE=1:AdpID;3:AdpID`: sv_talbanken (1)
+* `ParsemeMWE=1:AdpID;3:AdvID`: sv_talbanken (2)
+* `ParsemeMWE=1:AdvID`: sv_pud (65), sv_talbanken (458)
+* `ParsemeMWE=1:AdvID;2:AdpID`: sv_pud (1), sv_talbanken (9)
+* `ParsemeMWE=1:AdvID;2:AdvID`: sv_talbanken (1)
+* `ParsemeMWE=1:ConjID`: sv_pud (22), sv_talbanken (74)
+* `ParsemeMWE=1:DetID`: sv_pud (12), sv_talbanken (70)
+* `ParsemeMWE=1:IRV`: sv_pud (16), sv_talbanken (175)
+* `ParsemeMWE=1:IRV;2:LVC.full`: sv_talbanken (1)
+* `ParsemeMWE=1:IRV;2:NotMWE`: sv_talbanken (1)
+* `ParsemeMWE=1:IRV;2:VID`: sv_talbanken (3)
+* `ParsemeMWE=1:IVPC.full`: sv_pud (55), sv_talbanken (285)
+* `ParsemeMWE=1:IVPC.full;2:VID`: sv_pud (1), sv_talbanken (1)
+* `ParsemeMWE=1:IVPC.semi`: sv_pud (40), sv_talbanken (197)
+* `ParsemeMWE=1:IVPC.semi;2:VID`: sv_talbanken (1)
+* `ParsemeMWE=1:LVC.cause`: sv_pud (3), sv_talbanken (16)
+* `ParsemeMWE=1:LVC.full`: sv_pud (18), sv_talbanken (291)
+* `ParsemeMWE=1:LVC.full;2:LVC.full`: sv_talbanken (5)
+* `ParsemeMWE=1:NID`: sv_pud (27), sv_talbanken (235)
+* `ParsemeMWE=1:NID;2`: sv_talbanken (1)
+* `ParsemeMWE=1:NV.IRV`: sv_talbanken (1)
+* `ParsemeMWE=1:NV.IVPC.full`: sv_pud (18), sv_talbanken (88)
+* `ParsemeMWE=1:NV.IVPC.semi`: sv_pud (10), sv_talbanken (49)
+* `ParsemeMWE=1:NV.LVC.cause`: sv_talbanken (1)
+* …
 
 ## PartType
 
-Total 1 values: wuu_shud (306)
+Total 3 values: ro_nonstandard (14), wuu_shud (306)
 
+* `PartType=Inf`: ro_nonstandard (2)
 * `PartType=Int`: wuu_shud (306)
+* `PartType=Sub`: ro_nonstandard (12)
 
-## Particle
+## Participle
 
-Total 1 values: egy_ujaen (80)
+Total 1 values: he_postrab (19)
 
-* `Particle=Yes`: egy_ujaen (80)
+* `Participle=Yes`: he_postrab (19)
+
+## PastPartHasSpokenGender
+
+Total 2 values: fr_parisstories (1115), fr_rhapsodie (764)
+
+* `PastPartHasSpokenGender=NotInThisDialect`: fr_parisstories (915), fr_rhapsodie (638)
+* `PastPartHasSpokenGender=Yes`: fr_parisstories (200), fr_rhapsodie (126)
+
+## PastType
+
+Total 3 values: say_autogramm (246)
+
+* `PastType=Imm`: say_autogramm (16)
+* `PastType=Rec`: say_autogramm (8)
+* `PastType=Remt`: say_autogramm (222)
 
 ## PauseAfter
 
-Total 1 values: it_kiparlaforest (23)
+Total 1 values: it_kiparlaforest (197)
 
-* `PauseAfter=Yes`: it_kiparlaforest (23)
+* `PauseAfter=Yes`: it_kiparlaforest (197)
+
+## PersonAf
+
+Total 3 values: ha_easternautogramm (122), ha_northernautogramm (363), ha_southernautogramm (139), ha_westernautogramm (346)
+
+* `PersonAf=1`: ha_easternautogramm (4), ha_northernautogramm (49), ha_southernautogramm (37), ha_westernautogramm (11)
+* `PersonAf=2`: ha_easternautogramm (2), ha_northernautogramm (75), ha_southernautogramm (13), ha_westernautogramm (28)
+* `PersonAf=3`: ha_easternautogramm (116), ha_northernautogramm (239), ha_southernautogramm (89), ha_westernautogramm (307)
 
 ## Person[dat]
 
-Total 3 values: nhi_itml (97)
+Total 3 values: nhi_mesotree (98)
 
-* `Person[dat]=1`: nhi_itml (30)
-* `Person[dat]=2`: nhi_itml (12)
-* `Person[dat]=3`: nhi_itml (55)
+* `Person[dat]=1`: nhi_mesotree (30)
+* `Person[dat]=2`: nhi_mesotree (13)
+* `Person[dat]=3`: nhi_mesotree (55)
 
 ## Person[iobj]
 
@@ -7284,27 +7584,40 @@ Total 3 values: azz_itml (72)
 
 ## Person[obj]
 
-Total 3 values: nhi_itml (720)
+Total 3 values: nhi_mesotree (723)
 
-* `Person[obj]=1`: nhi_itml (48)
-* `Person[obj]=2`: nhi_itml (24)
-* `Person[obj]=3`: nhi_itml (648)
+* `Person[obj]=1`: nhi_mesotree (48)
+* `Person[obj]=2`: nhi_mesotree (24)
+* `Person[obj]=3`: nhi_mesotree (651)
 
 ## Person[psor]
 
-Total 3 values: nhi_itml (486)
+Total 3 values: nhi_mesotree (488)
 
-* `Person[psor]=1`: nhi_itml (118)
-* `Person[psor]=2`: nhi_itml (25)
-* `Person[psor]=3`: nhi_itml (343)
+* `Person[psor]=1`: nhi_mesotree (119)
+* `Person[psor]=2`: nhi_mesotree (25)
+* `Person[psor]=3`: nhi_mesotree (344)
 
 ## Person[subj]
 
-Total 3 values: nhi_itml (1779)
+Total 3 values: nhi_mesotree (1791)
 
-* `Person[subj]=1`: nhi_itml (431)
-* `Person[subj]=2`: nhi_itml (184)
-* `Person[subj]=3`: nhi_itml (1164)
+* `Person[subj]=1`: nhi_mesotree (433)
+* `Person[subj]=2`: nhi_mesotree (185)
+* `Person[subj]=3`: nhi_mesotree (1173)
+
+## PhantomToken
+
+Total 1 values: he_postrab (2)
+
+* `PhantomToken=Yes`: he_postrab (2)
+
+## PhonVariant
+
+Total 2 values: el_lesbian (61)
+
+* `PhonVariant=Deaffricated`: el_lesbian (39)
+* `PhonVariant=Palatalized`: el_lesbian (22)
 
 ## Place
 
@@ -7315,9 +7628,9 @@ Total 2 values: et_edt (2)
 
 ## Polarity
 
-Total 2 values: fro_altm (1), fro_profiterole (2), gu_gujtb (1), sv_swell (92)
+Total 2 values: fro_altm (1), fro_profiterole (2), gu_gujtb (1), sv_swell (108)
 
-* `Polarity=Neg`: fro_profiterole (2), gu_gujtb (1), sv_swell (92)
+* `Polarity=Neg`: fro_profiterole (2), gu_gujtb (1), sv_swell (108)
 * `Polarity=Negprpos=Rp`: fro_altm (1)
 
 ## Polite
@@ -7329,11 +7642,17 @@ Total 4 values: fr_gsd (100), fr_parisstories (50), fr_rhapsodie (426), fr_sequo
 * `Polite=Unknown`: fr_gsd (94), fr_parisstories (28), fr_rhapsodie (375), fr_sequoia (64)
 * `Polite=Yes`: fr_gsd (4), fr_parisstories (7), fr_rhapsodie (50), fr_sequoia (9)
 
+## Position
+
+Total 1 values: ro_nonstandard (1)
+
+* `Position=Postnom`: ro_nonstandard (1)
+
 ## Poss
 
-Total 1 values: fr_alts (1)
+Total 1 values: fr_alts (1), ha_easternautogramm (124), ha_northernautogramm (362), ha_southernautogramm (138), ha_westernautogramm (346)
 
-* `Poss=Yes`: fr_alts (1)
+* `Poss=Yes`: fr_alts (1), ha_easternautogramm (124), ha_northernautogramm (362), ha_southernautogramm (138), ha_westernautogramm (346)
 
 ## Possessed
 
@@ -7346,6 +7665,12 @@ Total 1 values: apu_ufpa (3)
 Total 1 values: grc_ptnk (6), qaf_arabizi (648)
 
 * `Possessive=Yes`: grc_ptnk (6), qaf_arabizi (648)
+
+## Posss
+
+Total 1 values: egy_pc (4)
+
+* `Posss=Yes`: egy_pc (4)
 
 ## PqxRef
 
@@ -7370,12 +7695,6 @@ Total 19 values: myv_jr (56)
 * `PqxRef=1:6.1,7`: myv_jr (5)
 * `PqxRef=1:6.3,9`: myv_jr (1)
 * `PqxRef=1:8.1,10`: myv_jr (9)
-
-## Predict
-
-Total 1 values: ha_northernautogramm (1), ha_southernautogramm (7)
-
-* `Predict=Yes`: ha_northernautogramm (1), ha_southernautogramm (7)
 
 ## Prefix
 
@@ -7419,23 +7738,25 @@ Total 23 values: ja_gsd (14032), ja_gsdluw (3826), ja_pud (2114), ja_pudluw (447
 
 ## Prolonged
 
-Total 1 values: it_kiparlaforest (800)
+Total 1 values: it_kiparlaforest (1190)
 
-* `Prolonged=Yes`: it_kiparlaforest (800)
+* `Prolonged=Yes`: it_kiparlaforest (1190)
 
 ## Promoted
 
-Total 1 values: en_ewt (334), gd_arcosg (19), uk_iu (739)
+Total 1 values: en_ewt (328), gd_arcosg (19), uk_iu (739)
 
-* `Promoted=Yes`: en_ewt (334), gd_arcosg (19), uk_iu (739)
+* `Promoted=Yes`: en_ewt (328), gd_arcosg (19), uk_iu (739)
 
-## Pron
+## Promotion
 
-Total 3 values: egy_ujaen (4557)
+Total 5 values: it_kiparlaforest (7)
 
-* `Pron=Dep`: egy_ujaen (518)
-* `Pron=Ind`: egy_ujaen (59)
-* `Pron=SFP`: egy_ujaen (3980)
+* `Promotion=amod`: it_kiparlaforest (1)
+* `Promotion=aux`: it_kiparlaforest (1)
+* `Promotion=case`: it_kiparlaforest (1)
+* `Promotion=dep`: it_kiparlaforest (1)
+* `Promotion=det`: it_kiparlaforest (3)
 
 ## PronType
 
@@ -7445,6 +7766,12 @@ Total 4 values: fro_profiterole (1), krl_kkpp (33), olo_kkpp (25), qaf_arabizi (
 * `PronType=Interr`: krl_kkpp (33), olo_kkpp (9)
 * `PronType=Rel`: qaf_arabizi (7)
 * `PronType=Temp`: olo_kkpp (16)
+
+## PronTypeAf
+
+Total 1 values: ha_northernautogramm (3), ha_southernautogramm (1)
+
+* `PronTypeAf=Prs`: ha_northernautogramm (3), ha_southernautogramm (1)
 
 ## PronounType
 
@@ -7478,25 +7805,25 @@ Total 4 values: krl_kkpp (172)
 
 ## ProsodicLink
 
-Total 1 values: it_kiparlaforest (34)
+Total 1 values: it_kiparlaforest (63)
 
-* `ProsodicLink=Yes`: it_kiparlaforest (34)
+* `ProsodicLink=Yes`: it_kiparlaforest (63)
 
 ## PunctType
 
-Total 11 values: el_cretan (715), el_gud (4389), el_messinian (72), uk_parlamint (11)
+Total 11 values: el_cretan (715), el_gud (4369), el_messinian (72), uk_parlamint (11)
 
 * `PunctType=Colo`: el_cretan (27), el_gud (29)
 * `PunctType=Comm`: el_cretan (305), el_gud (1131), el_messinian (14)
 * `PunctType=Dash`: el_cretan (10), el_gud (8), el_messinian (1), uk_parlamint (1)
-* `PunctType=Elip`: el_cretan (2), el_gud (6), el_messinian (1)
+* `PunctType=Elip`: el_cretan (2), el_messinian (1)
 * `PunctType=Excl`: el_cretan (1), el_gud (2)
 * `PunctType=Hyph`: uk_parlamint (2)
 * `PunctType=Peri`: el_cretan (245), el_gud (1570), el_messinian (45)
 * `PunctType=Peris`: el_messinian (1)
 * `PunctType=Periσ`: el_messinian (1)
 * `PunctType=Qest`: el_cretan (29), el_gud (219), el_messinian (7)
-* `PunctType=Quot`: el_cretan (96), el_gud (1424), el_messinian (2), uk_parlamint (8)
+* `PunctType=Quot`: el_cretan (96), el_gud (1410), el_messinian (2), uk_parlamint (8)
 
 ## Punctuation
 
@@ -7505,17 +7832,17 @@ Total 2 values: sa_vedic (42070)
 * `Punctuation=comma`: sa_vedic (10806)
 * `Punctuation=fullStop`: sa_vedic (31264)
 
+## Quote
+
+Total 1 values: say_autogramm (21)
+
+* `Quote=Yes`: say_autogramm (21)
+
 ## R-grandchild-
 
 Total 1 values: gun_thomas (1)
 
 * `R-grandchild-=DIM`: gun_thomas (1)
-
-## R-leaf-
-
-Total 1 values: gun_dooley (1)
-
-* `R-leaf-=DIM`: gun_dooley (1)
 
 ## R-with-
 
@@ -7525,20 +7852,22 @@ Total 1 values: gun_thomas (1)
 
 ## RX
 
-Total 376 values: arh_chibergis (4378), bej_autogramm (10681), gya_autogramm (2688), pay_chibergis (3499), sab_chibergis (2222)
+Total 379 values: arh_chibergis (4378), bej_autogramm (10678), gya_autogramm (2688), pay_chibergis (3499), sab_chibergis (2222)
 
 * `RX=-.`: bej_autogramm (1)
 * `RX=-V1.IRG-TAM.PNG`: bej_autogramm (1)
+* `RX=-[CASE]`: bej_autogramm (1)
 * `RX=-[DET]`: bej_autogramm (5)
 * `RX=-[V2]-[TAM].[PNG]`: bej_autogramm (1)
 * `RX== [CONJ]`: bej_autogramm (1)
 * `RX==CASE]`: bej_autogramm (1)
 * `RX==CONJ`: bej_autogramm (1)
+* `RX==PRED.NOM`: bej_autogramm (2)
 * `RX==PRO`: bej_autogramm (1)
 * `RX==[=PRED.N]`: bej_autogramm (1)
 * `RX==[ABL].[SG]`: bej_autogramm (1)
 * `RX==[CASE]`: bej_autogramm (173)
-* `RX==[CONJ]`: bej_autogramm (878)
+* `RX==[CONJ]`: bej_autogramm (875)
 * `RX==[COORD]`: bej_autogramm (1)
 * `RX==[COP]`: bej_autogramm (1)
 * `RX==[DET]`: bej_autogramm (435)
@@ -7546,18 +7875,18 @@ Total 376 values: arh_chibergis (4378), bej_autogramm (10681), gya_autogramm (26
 * `RX==[DM]`: bej_autogramm (6)
 * `RX==[N.F]`: bej_autogramm (12)
 * `RX==[N].[F]`: bej_autogramm (2)
-* `RX==[POSTP]`: bej_autogramm (267)
+* `RX==[POSTP]`: bej_autogramm (265)
 * `RX==[PRED.NOM]`: bej_autogramm (2)
 * `RX==[PRED.N]`: bej_autogramm (1)
 * `RX==[PRED].[NOM]`: bej_autogramm (4)
 * `RX==[PRED].[N]`: bej_autogramm (112)
-* `RX==[PRO]`: bej_autogramm (526)
+* `RX==[PRO]`: bej_autogramm (527)
 * `RX==[PRO]-.`: bej_autogramm (1)
 * `RX==[PRO]-[PNG]`: bej_autogramm (1)
 * `RX==[PRO].[POL]`: bej_autogramm (13)
 * `RX==[PTCL]`: bej_autogramm (11)
 * `RX==[PUNCT]`: bej_autogramm (1)
-* `RX==[REL]`: bej_autogramm (13)
+* `RX==[REL]`: bej_autogramm (10)
 * `RX=A`: gya_autogramm (4)
 * `RX=AA`: gya_autogramm (34)
 * `RX=ADJ`: bej_autogramm (1), gya_autogramm (2)
@@ -7575,9 +7904,13 @@ Total 376 values: arh_chibergis (4378), bej_autogramm (10681), gya_autogramm (26
 * `RX=INTJ`: gya_autogramm (3)
 * `RX=ME`: gya_autogramm (5)
 * `RX=MMOD`: gya_autogramm (1)
-* `RX=MN`: gya_autogramm (66)
-* `RX=MOD`: gya_autogramm (40)
 * …
+
+## Raising
+
+Total 1 values: say_autogramm (32)
+
+* `Raising=Yes`: say_autogramm (32)
 
 ## ReconstructedLemma
 
@@ -7600,7 +7933,7 @@ Total 2 values: la_udante (3)
 
 ## Ref
 
-Total 33239 values: cu_proiel (197740), got_proiel (55336), grc_proiel (214005), grc_ptnk (39509), hbo_ptnk (145866), la_proiel (205566), ro_nonstandard (317709), xpg_kul (1687), yo_ytb (5604)
+Total 35036 values: cu_proiel (197740), got_proiel (55336), grc_proiel (214005), grc_ptnk (39509), hbo_ptnk (145866), la_proiel (205566), ota_dudu (137), ro_nonstandard (317709), xpg_kul (1921), yo_ytb (5604)
 
 * `Ref=1`: cu_proiel (2337)
 * `Ref=1.1`: la_proiel (97)
@@ -7772,6 +8105,62 @@ Total 1 values: eo_prago (1), sv_old (1)
 
 * `Reflex=Yes`: eo_prago (1), sv_old (1)
 
+## ReflexLemma
+
+Total 54 values: ca_ancora (112), es_ancora (93)
+
+* `ReflexLemma=abstenir-se`: ca_ancora (10)
+* `ReflexLemma=accidentar-se`: ca_ancora (1)
+* `ReflexLemma=adonar-se`: ca_ancora (14)
+* `ReflexLemma=adueñarse`: es_ancora (3)
+* `ReflexLemma=agenollar-se`: ca_ancora (2)
+* `ReflexLemma=antojarse`: es_ancora (1)
+* `ReflexLemma=arrepentirse`: es_ancora (8)
+* `ReflexLemma=atenerse`: es_ancora (5)
+* `ReflexLemma=atreverse`: es_ancora (25)
+* `ReflexLemma=atrevir-se`: ca_ancora (4)
+* `ReflexLemma=autodefinirse`: es_ancora (1)
+* `ReflexLemma=autogenerarse`: es_ancora (1)
+* `ReflexLemma=burlar-se`: ca_ancora (1)
+* `ReflexLemma=caerse`: es_ancora (1)
+* `ReflexLemma=coalitzar-se`: ca_ancora (1)
+* `ReflexLemma=contorsionarse`: es_ancora (1)
+* `ReflexLemma=darse`: es_ancora (2)
+* `ReflexLemma=deixar-se`: ca_ancora (1)
+* `ReflexLemma=dejarse`: es_ancora (1)
+* `ReflexLemma=desentenderse`: es_ancora (1)
+* `ReflexLemma=desgañitarse`: es_ancora (1)
+* `ReflexLemma=dignar-se`: ca_ancora (1)
+* `ReflexLemma=empassar-se`: ca_ancora (2)
+* `ReflexLemma=emportar-se`: ca_ancora (12)
+* `ReflexLemma=endur-se`: ca_ancora (6)
+* `ReflexLemma=ensimismarse`: es_ancora (1)
+* `ReflexLemma=entossudir-se`: ca_ancora (1)
+* `ReflexLemma=escapolir-se`: ca_ancora (1)
+* `ReflexLemma=esforçar-se`: ca_ancora (3)
+* `ReflexLemma=estilar-se`: ca_ancora (1)
+* `ReflexLemma=fer-se`: ca_ancora (13)
+* `ReflexLemma=fugar-se`: ca_ancora (1)
+* `ReflexLemma=fugarse`: es_ancora (4)
+* `ReflexLemma=hacerse`: es_ancora (11)
+* `ReflexLemma=incautarse`: es_ancora (6)
+* `ReflexLemma=jactarse`: es_ancora (1)
+* `ReflexLemma=llevarse`: es_ancora (1)
+* `ReflexLemma=penedir-se`: ca_ancora (2)
+* `ReflexLemma=personar-se`: ca_ancora (8)
+* `ReflexLemma=personarse`: es_ancora (1)
+* `ReflexLemma=petar-se`: ca_ancora (1)
+* `ReflexLemma=pirrarse`: es_ancora (1)
+* `ReflexLemma=poncharse`: es_ancora (1)
+* `ReflexLemma=preciarse`: es_ancora (2)
+* `ReflexLemma=queixar-se`: ca_ancora (16)
+* `ReflexLemma=querellarse`: es_ancora (1)
+* `ReflexLemma=rebel·lar-se`: ca_ancora (2)
+* `ReflexLemma=resentirse`: es_ancora (6)
+* `ReflexLemma=ressentir-se`: ca_ancora (2)
+* `ReflexLemma=suicidarse`: es_ancora (6)
+* …
+
 ## Reflexive
 
 Total 1 values: qaf_arabizi (1)
@@ -7792,29 +8181,51 @@ Total 1 values: azz_itml (255)
 
 ## Rel
 
-Total 21 values: eo_prago (3), fr_parisstories (9), fr_rhapsodie (307), ha_southernautogramm (41), say_autogramm (22)
+Total 19 values: eo_prago (3), ha_southernautogramm (41), say_autogramm (22)
 
 * `Rel=Yes`: eo_prago (3)
 * `Rel=cc`: ha_southernautogramm (1)
 * `Rel=comp:aux`: ha_southernautogramm (1)
-* `Rel=comp:obj`: fr_parisstories (1), fr_rhapsodie (2), ha_southernautogramm (4), say_autogramm (2)
+* `Rel=comp:obj`: ha_southernautogramm (4), say_autogramm (2)
 * `Rel=comp:obj@L`: say_autogramm (2)
 * `Rel=comp:obl`: say_autogramm (2)
-* `Rel=comp:pred`: fr_rhapsodie (15), say_autogramm (2)
+* `Rel=comp:pred`: say_autogramm (2)
 * `Rel=compound:svc`: say_autogramm (1)
-* `Rel=conj:appos`: fr_rhapsodie (2), say_autogramm (1)
-* `Rel=conj:dicto`: fr_parisstories (1), fr_rhapsodie (22), ha_southernautogramm (1), say_autogramm (2)
-* `Rel=discourse`: fr_parisstories (3), fr_rhapsodie (202), ha_southernautogramm (3)
+* `Rel=conj:appos`: say_autogramm (1)
+* `Rel=conj:dicto`: ha_southernautogramm (1), say_autogramm (2)
+* `Rel=discourse`: ha_southernautogramm (3)
 * `Rel=dislocated@subj`: ha_southernautogramm (1)
 * `Rel=dislocated@top`: ha_southernautogramm (3), say_autogramm (1)
-* `Rel=mod`: fr_parisstories (3), fr_rhapsodie (14), ha_southernautogramm (16), say_autogramm (7)
-* `Rel=mod@relcl`: fr_parisstories (1), fr_rhapsodie (3), ha_southernautogramm (7)
+* `Rel=mod`: ha_southernautogramm (16), say_autogramm (7)
+* `Rel=mod@relcl`: ha_southernautogramm (7)
 * `Rel=parataxis`: ha_southernautogramm (1), say_autogramm (2)
-* `Rel=parataxis:conj`: fr_rhapsodie (42)
 * `Rel=parataxis@conj`: ha_southernautogramm (1)
-* `Rel=subj`: fr_rhapsodie (1), ha_southernautogramm (1)
-* `Rel=udep`: fr_rhapsodie (4)
+* `Rel=subj`: ha_southernautogramm (1)
 * `Rel=vocative`: ha_southernautogramm (1)
+
+## RelRole
+
+Total 4 values: bej_autogramm (195)
+
+* `RelRole=Obj`: bej_autogramm (144)
+* `RelRole=Obl`: bej_autogramm (7)
+* `RelRole=Subj`: bej_autogramm (40)
+* `RelRole=Udep`: bej_autogramm (4)
+
+## Relation
+
+Total 3 values: it_kiparlaforest (117)
+
+* `Relation=conj:insert`: it_kiparlaforest (1)
+* `Relation=conj:reform`: it_kiparlaforest (114)
+* `Relation=obl`: it_kiparlaforest (2)
+
+## Relative
+
+Total 2 values: ha_easternautogramm (458), ha_northernautogramm (1311), ha_southernautogramm (697), ha_westernautogramm (931)
+
+* `Relative=Variante`: ha_easternautogramm (19)
+* `Relative=Yes`: ha_easternautogramm (439), ha_northernautogramm (1311), ha_southernautogramm (697), ha_westernautogramm (931)
 
 ## Reported
 
@@ -7823,17 +8234,11 @@ Total 2 values: bej_autogramm (334), fr_parisstories (170), fr_rhapsodie (95), g
 * `Reported=No`: bej_autogramm (5)
 * `Reported=Yes`: bej_autogramm (329), fr_parisstories (170), fr_rhapsodie (95), gya_autogramm (14)
 
-## Result
-
-Total 1 values: say_autogramm (595)
-
-* `Result=Yes`: say_autogramm (595)
-
 ## Resultative
 
-Total 1 values: en_ewt (1), say_autogramm (15)
+Total 1 values: en_ewt (1)
 
-* `Resultative=Yes`: en_ewt (1), say_autogramm (15)
+* `Resultative=Yes`: en_ewt (1)
 
 ## Resumpt
 
@@ -7979,23 +8384,6 @@ Total 5 values: fi_ood (350)
 * `SENSE=3`: fi_ood (2)
 * `SENSE=6`: fi_ood (1)
 
-## SPC
-
-Total 12 values: egy_ujaen (2503)
-
-* `SPC=Bi-Fut`: egy_ujaen (7)
-* `SPC=ContFut`: egy_ujaen (10)
-* `SPC=ContPres`: egy_ujaen (1)
-* `SPC=Fut`: egy_ujaen (325)
-* `SPC=FutPass`: egy_ujaen (59)
-* `SPC=Past`: egy_ujaen (2)
-* `SPC=Past-1`: egy_ujaen (95)
-* `SPC=Past-2`: egy_ujaen (634)
-* `SPC=Past-w`: egy_ujaen (1)
-* `SPC=PastPass`: egy_ujaen (160)
-* `SPC=Pres`: egy_ujaen (481)
-* `SPC=Sub`: egy_ujaen (728)
-
 ## SRL
 
 Total 2 values: sl_ssj (10)
@@ -8011,9 +8399,10 @@ Total 1 values: say_autogramm (92)
 
 ## Scrap
 
-Total 1 values: fr_gsd (24), fr_parisstories (110), fr_rhapsodie (346), fr_sequoia (2), ha_northernautogramm (8), ha_southernautogramm (83), pay_chibergis (12), pcm_nsc (676), sab_chibergis (1), say_autogramm (97)
+Total 2 values: fr_gsd (24), fr_parisstories (112), fr_rhapsodie (348), fr_sequoia (2), ha_northernautogramm (12), ha_southernautogramm (83), it_kiparlaforest (6), pay_chibergis (12), pcm_nsc (676), sab_chibergis (1), say_autogramm (99)
 
-* `Scrap=Yes`: fr_gsd (24), fr_parisstories (110), fr_rhapsodie (346), fr_sequoia (2), ha_northernautogramm (8), ha_southernautogramm (83), pay_chibergis (12), pcm_nsc (676), sab_chibergis (1), say_autogramm (97)
+* `Scrap=Yes`: fr_gsd (24), fr_parisstories (112), fr_rhapsodie (348), fr_sequoia (2), ha_northernautogramm (12), ha_southernautogramm (83), it_kiparlaforest (3), pay_chibergis (12), pcm_nsc (676), sab_chibergis (1), say_autogramm (99)
+* `Scrap=yes`: it_kiparlaforest (3)
 
 ## Se
 
@@ -8044,17 +8433,17 @@ Total 1 values: ro_nonstandard (1)
 
 ## SpaceAfter
 
-Total 1 values: ab_abnc (2445), af_afribooms (4498), aii_as (14), ajp_madar (228), aln_gps (2), ang_cairo (25), apu_ufpa (217), ar_padt (19915), ar_pud (4833), az_tuecl (185), azz_itml (2025), bar_maibaam (2470), be_hse (61712), bg_btb (21089), bho_bhtb (5), bm_crb (1843), bn_bru (39), bor_bdt (5), br_keb (1223), bxr_bdt (1788), ca_ancora (77108), ceb_gja (215), ckt_hse (817), cpg_amgic (83), cpg_tuecl (723), cs_cac (57990), cs_cltt (4034), cs_fictree (31651), cs_pdtc (387232), cs_poetry (1079), cs_pud (2636), ctn_ctntb (2499), cy_ccg (7452), da_ddt (13278), de_gsd (34998), de_lit (5431), de_pud (2889), el_cretan (263), el_gdt (6140), el_gud (1592), el_messinian (1), en_childes (47789), en_ctetex (1560), en_ewt (30959), en_gentle (2621), en_gum (32100), en_gumreddit (1917), en_lines (12511), en_partut (5888), en_pronouns (330), en_pud (2620), eo_cairo (28), eo_prago (454), es_ancora (62416), es_coser (1600), es_gsd (46264), es_pud (2306), ess_sli (23), et_edt (67552), et_ewt (14403), eu_bdt (19438), fa_perdt (43893), fa_seraji (12913), fi_ood (3189), fi_pud (2350), fi_tdt (28665), fo_farpahc (6537), fo_oft (1567), fr_alts (7073), fr_fqb (2283), fr_gsd (58121), fr_parisstories (10237), fr_partut (4142), fr_poitevindivital (246), fr_pud (3439), fr_rhapsodie (10936), fr_sequoia (10758), frm_altm (643), frm_profiterole (12048), fro_altm (1278), fro_profiterole (33512), ga_cadhan (553), ga_idt (11650), ga_twittirish (6493), gd_arcosg (4839), gl_ctg (13692), gl_pud (2584), gl_treegal (2653), grc_perseus (24950), grc_ptnk (4871), gsw_divital (3373), gsw_uzh (176), gu_gujtb (360), gv_cadhan (2118), gwi_tuecl (324), hbo_ptnk (23583), he_htb (12192), he_iahltknesset (4785), he_iahltwiki (12341), hi_hdtb (6170), hi_pud (2395), hr_set (23422), hsb_ufal (2127), ht_adolphe (6790), ht_autogramm (279), hu_szeged (5367), hy_armtdp (21066), hy_bsut (8919), hyw_armtdp (21890), id_csui (3754), id_gsd (15819), id_pud (2301), is_gc (7854), is_icepahc (109834), is_modern (6522), is_pud (1962), it_isdt (37303), it_kiparlaforest (241), it_markit (9), it_old (18979), it_parlamint (2384), it_partut (6148), it_postwita (12774), it_pud (2662), it_twittiro (4360), it_valico (860), it_vit (34342), ja_bccwj (1232821), ja_bccwjluw (974557), ja_gsd (185312), ja_gsdluw (142134), ja_pud (28353), ja_pudluw (22508), jv_csui (2162), ka_glc (8506), ka_gnc (5262), kfm_aha (10), kk_ktb (1927), kmr_kurmanji (1292), ko_gsd (12520), ko_kaist (38923), ko_ksl (17236), ko_littleprince (4179), ko_pud (4238), koi_uh (224), kpv_ikdp (525), kpv_lattice (1413), krl_kkpp (619), ky_ktmu (3613), ky_tuecl (207), la_ittb (62356), la_llct (30826), la_perseus (4397), la_udante (8519), lb_luxbank (35), lij_glt (1231), lt_alksnis (11856), lt_hse (1008), ltg_cairo (31), lv_cairo (31), lv_lvtb (57222), lzh_kyoto (428560), lzh_tuecl (648), mdf_jr (840), mk_mtb (217), ml_ufal (238), mr_ufal (740), mt_mudt (10625), myu_tudet (19), myv_jr (4236), nap_rb (34), naq_kdt (3957), nds_lsdc (3382), nhi_itml (1762), nl_alpino (21716), nl_lassysmall (32316), nmf_suansu (384), no_bokmaal (34461), no_nynorsk (30669), nyq_aha (11), oc_ttb (4361), olo_kkpp (441), or_odtb (55), orv_birchbark (6), orv_rnc (24244), orv_ruthenian (22721), ota_boun (124), ota_dudu (24), otk_clausal (138), pad_tuecl (116), pcm_nsc (57), pl_lfg (24961), pl_mpdt (8179), pl_pdb (52605), pl_pud (2606), pro_corag (4966), ps_sikaram (654), pt_bosque (29373), pt_dantestocks (14198), pt_gsd (39446), pt_petrogold (28304), pt_porttinari (22408), pt_pud (2611), qaf_arabizi (629), qpm_philotis (4461), qtd_sagt (3576), qti_butr (62), quc_iu (1375), ro_art (161), ro_moldoro (75), ro_nonstandard (115050), ro_rrt (29773), ro_simonero (20472), ro_tuecl (600), ru_gsd (17090), ru_poetry (12540), ru_pud (2939), ru_syntagrus (265458), ru_taiga (349086), sa_ufal (135), sah_yktdt (19), scn_stb (2222), sd_isra (6742), sga_dipsgg (114), sga_dipwbg (168), sk_snk (17851), sl_ssj (39149), sme_giella (4085), sms_giellagas (678), soj_aha (8), sq_staf (421), sq_tsa (88), sr_set (12079), sv_lines (10938), sv_pud (1914), sv_talbanken (9733), ta_mwtt (1), ta_ttb (725), th_pud (19174), th_tud (68893), tl_trg (133), tl_ugnayan (152), tn_popapolelo (23), tr_boun (18765), tr_gb (2535), tr_imst (9452), tr_pud (2056), tr_tuecl (158), tt_nmctt (348), ug_udt (6540), uk_iu (22871), uk_parlamint (18512), ur_udtb (6729), uz_tuecl (194), uz_ut (928), uz_uzudt (19), vi_tuecl (207), wbp_ufal (56), wo_wtb (5277), wuu_shud (8582), xcl_caval (26028), xnr_kdtb (288), xpg_kul (209), yi_yitb (4370), yo_ytb (1144), yrl_complin (7501), yue_hk (13917), zh_beginner (19999), zh_cfl (7256), zh_gsd (122960), zh_gsdsimp (122960), zh_hk (9874), zh_patentchar (4784), zh_pud (20322)
+Total 1 values: ab_abnc (2970), af_afribooms (4498), aii_as (14), ajp_madar (228), aln_gps (2), ang_cairo (25), apu_ufpa (236), ar_padt (19915), ar_pud (4833), axm_armtdp (166), az_tuecl (185), azz_itml (2025), bar_maibaam (2469), be_hse (61712), bg_btb (21089), bho_bhtb (5), bm_crb (1843), bn_bru (39), bor_bdt (5), br_keb (1223), bxr_bdt (1788), ca_ancora (77108), ceb_gja (216), ckt_hse (817), cpg_amgic (147), cpg_tuecl (723), cs_cac (57990), cs_cltt (4034), cs_fictree (31651), cs_pdtc (387232), cs_poetry (1079), cs_pud (2636), ctn_ctntb (2499), cy_ccg (7452), da_ddt (13278), de_gsd (34998), de_lit (5431), de_pud (2889), el_cretan (263), el_gdt (6140), el_glcii (1400), el_gud (4361), el_lesbian (974), el_messinian (1), en_childes (47789), en_ctetex (1560), en_ewt (30961), en_gentle (2621), en_gum (34801), en_gumreddit (1917), en_lines (12511), en_partut (5888), en_pronouns (330), en_pud (2620), eo_cairo (28), eo_prago (455), es_ancora (62416), es_coser (1600), es_gsd (46226), es_pud (2306), ess_sli (23), et_edt (67552), et_ewt (14403), eu_bdt (19438), fa_perdt (43893), fa_seraji (12913), fi_ood (3189), fi_pud (2350), fi_tdt (28665), fo_farpahc (6537), fo_oft (1567), fr_alts (7073), fr_fqb (2282), fr_gsd (58120), fr_parisstories (10237), fr_partut (4051), fr_poitevindivital (246), fr_pud (3439), fr_rhapsodie (10928), fr_sequoia (10758), frm_altm (643), frm_profiterole (15451), fro_altm (1278), fro_profiterole (33484), ga_cadhan (553), ga_idt (11650), ga_twittirish (6493), gd_arcosg (4839), gl_ctg (13692), gl_pud (2584), gl_treegal (2653), grc_perseus (24950), grc_ptnk (4871), gsw_divital (3373), gsw_uzh (176), gu_gujtb (360), gv_cadhan (2118), gwi_tuecl (324), ha_easternautogramm (719), ha_northernautogramm (1319), ha_westernautogramm (2551), hbo_ptnk (23583), he_htb (12192), he_iahltknesset (4785), he_iahltwiki (12341), hi_hdtb (6170), hi_pud (2395), hr_set (23422), hsb_ufal (2127), ht_adolphe (6790), ht_autogramm (279), hu_szeged (5367), hy_armtdp (21066), hy_bsut (8919), hyw_armtdp (21890), id_csui (3754), id_gsd (15819), id_pud (2301), is_gc (7854), is_icepahc (109834), is_modern (6522), is_pud (1962), it_isdt (37303), it_kiparlaforest (265), it_markit (9), it_old (18979), it_parlamint (2384), it_partut (6148), it_postwita (12774), it_pud (2662), it_twittiro (4360), it_valico (860), it_vit (34342), ja_bccwj (1232821), ja_bccwjluw (974556), ja_gsd (185312), ja_gsdluw (142134), ja_pud (28353), ja_pudluw (22508), jv_csui (2162), ka_glc (8506), ka_gnc (5456), kbc_unicamp (133), kk_ktb (1927), kmr_kurmanji (1292), ko_gsd (12520), ko_kaist (38923), ko_ksl (18902), ko_littleprince (4179), ko_pud (4238), koi_uh (238), kpv_ikdp (525), kpv_lattice (1430), krl_kkpp (619), ky_ktmu (3613), ky_tuecl (207), la_ittb (62356), la_llct (30826), la_perseus (4397), la_udante (8519), lb_luxbank (35), lij_glt (1231), lt_alksnis (11856), lt_hse (1008), ltg_cairo (31), lv_cairo (31), lv_lvtb (57222), lzh_kyoto (428560), lzh_tuecl (648), mdf_jr (872), mk_mtb (217), ml_ufal (238), mr_cmupan (15), mr_ufal (740), mt_mudt (10625), myu_tudet (19), myv_jr (4256), nap_rb (34), naq_kdt (3957), nds_lsdc (3382), nhi_mesotree (4907), nl_alpino (21716), nl_lassysmall (32316), nmf_suansu (384), no_bokmaal (34461), no_nynorsk (30669), oc_ttb (4361), oge_glc (700), olo_kkpp (441), or_odtb (400), orv_birchbark (6), orv_rnc (24244), orv_ruthenian (22721), ota_boun (124), ota_dudu (24), ota_tuecl (158), otk_clausal (138), pad_tuecl (116), pcm_nsc (57), pl_lfg (24961), pl_mpdt (8179), pl_pdb (52605), pl_pud (2606), pro_corag (4966), ps_prince (43), ps_sikaram (859), pt_bosque (29373), pt_dantestocks (14198), pt_gsd (39446), pt_petrogold (28304), pt_porttinari (22408), pt_pud (2611), qaf_arabizi (629), qpm_philotis (4461), qtd_sagt (3576), qti_butr (69), quc_iu (1375), ro_art (161), ro_moldoro (75), ro_nonstandard (115050), ro_rrt (29969), ro_simonero (20472), ro_tuecl (600), ru_gsd (17090), ru_poetry (12540), ru_pud (2939), ru_syntagrus (265458), ru_taiga (349086), ruc_rdt (1154), sa_ufal (135), sah_yktdt (19), say_autogramm (1), scn_stb (2222), sd_isra (6742), sga_dipsgg (114), sga_dipwbg (168), sk_snk (17851), sl_ssj (39149), sme_giella (4085), sms_giellagas (694), sq_staf (421), sq_tsa (88), sr_set (12079), sv_lines (10938), sv_pud (1914), sv_talbanken (9733), ta_mwtt (1), ta_ttb (725), th_pud (19174), th_tud (68893), tl_trg (133), tl_ugnayan (152), tn_popapolelo (23), tr_boun (18765), tr_gb (2535), tr_imst (9452), tr_pud (2056), tr_tuecl (158), tt_nmctt (348), ug_udt (6540), uk_iu (22871), uk_parlamint (18512), ur_udtb (6729), uz_tuecl (194), uz_ut (928), uz_uzudt (23), vi_tuecl (207), wbp_ufal (56), wo_wtb (5277), wuu_shud (8582), xcl_caval (26028), xnr_kdtb (288), xpg_kul (220), yi_yitb (4441), yo_ytb (1144), yrl_complin (7722), yue_hk (13917), zh_beginner (19999), zh_cfl (7256), zh_gsd (122960), zh_gsdsimp (122960), zh_hk (9874), zh_patentchar (4784), zh_pud (20322), zza_zsd (127)
 
-* `SpaceAfter=No`: ab_abnc (2445), af_afribooms (4498), aii_as (14), ajp_madar (228), aln_gps (2), ang_cairo (25), apu_ufpa (217), ar_padt (19915), ar_pud (4833), az_tuecl (185), azz_itml (2025), bar_maibaam (2470), be_hse (61712), bg_btb (21089), bho_bhtb (5), bm_crb (1843), bn_bru (39), bor_bdt (5), br_keb (1223), bxr_bdt (1788), ca_ancora (77108), ceb_gja (215), ckt_hse (817), cpg_amgic (83), cpg_tuecl (723), cs_cac (57990), cs_cltt (4034), cs_fictree (31651), cs_pdtc (387232), cs_poetry (1079), cs_pud (2636), ctn_ctntb (2499), cy_ccg (7452), da_ddt (13278), de_gsd (34998), de_lit (5431), de_pud (2889), el_cretan (263), el_gdt (6140), el_gud (1592), el_messinian (1), en_childes (47789), en_ctetex (1560), en_ewt (30959), en_gentle (2621), en_gum (32100), en_gumreddit (1917), en_lines (12511), en_partut (5888), en_pronouns (330), en_pud (2620), eo_cairo (28), eo_prago (454), es_ancora (62416), es_coser (1600), es_gsd (46264), es_pud (2306), ess_sli (23), et_edt (67552), et_ewt (14403), eu_bdt (19438), fa_perdt (43893), fa_seraji (12913), fi_ood (3189), fi_pud (2350), fi_tdt (28665), fo_farpahc (6537), fo_oft (1567), fr_alts (7073), fr_fqb (2283), fr_gsd (58121), fr_parisstories (10237), fr_partut (4142), fr_poitevindivital (246), fr_pud (3439), fr_rhapsodie (10936), fr_sequoia (10758), frm_altm (643), frm_profiterole (12048), fro_altm (1278), fro_profiterole (33512), ga_cadhan (553), ga_idt (11650), ga_twittirish (6493), gd_arcosg (4839), gl_ctg (13692), gl_pud (2584), gl_treegal (2653), grc_perseus (24950), grc_ptnk (4871), gsw_divital (3373), gsw_uzh (176), gu_gujtb (360), gv_cadhan (2118), gwi_tuecl (324), hbo_ptnk (23583), he_htb (12192), he_iahltknesset (4785), he_iahltwiki (12341), hi_hdtb (6170), hi_pud (2395), hr_set (23422), hsb_ufal (2127), ht_adolphe (6790), ht_autogramm (279), hu_szeged (5367), hy_armtdp (21066), hy_bsut (8919), hyw_armtdp (21890), id_csui (3754), id_gsd (15819), id_pud (2301), is_gc (7854), is_icepahc (109834), is_modern (6522), is_pud (1962), it_isdt (37303), it_kiparlaforest (241), it_markit (9), it_old (18979), it_parlamint (2384), it_partut (6148), it_postwita (12774), it_pud (2662), it_twittiro (4360), it_valico (860), it_vit (34342), ja_bccwj (1232821), ja_bccwjluw (974557), ja_gsd (185312), ja_gsdluw (142134), ja_pud (28353), ja_pudluw (22508), jv_csui (2162), ka_glc (8506), ka_gnc (5262), kfm_aha (10), kk_ktb (1927), kmr_kurmanji (1292), ko_gsd (12520), ko_kaist (38923), ko_ksl (17236), ko_littleprince (4179), ko_pud (4238), koi_uh (224), kpv_ikdp (525), kpv_lattice (1413), krl_kkpp (619), ky_ktmu (3613), ky_tuecl (207), la_ittb (62356), la_llct (30826), la_perseus (4397), la_udante (8519), lb_luxbank (35), lij_glt (1231), lt_alksnis (11856), lt_hse (1008), ltg_cairo (31), lv_cairo (31), lv_lvtb (57222), lzh_kyoto (428560), lzh_tuecl (648), mdf_jr (840), mk_mtb (217), ml_ufal (238), mr_ufal (740), mt_mudt (10625), myu_tudet (19), myv_jr (4236), nap_rb (34), naq_kdt (3957), nds_lsdc (3382), nhi_itml (1762), nl_alpino (21716), nl_lassysmall (32316), nmf_suansu (384), no_bokmaal (34461), no_nynorsk (30669), nyq_aha (11), oc_ttb (4361), olo_kkpp (441), or_odtb (55), orv_birchbark (6), orv_rnc (24244), orv_ruthenian (22721), ota_boun (124), ota_dudu (24), otk_clausal (138), pad_tuecl (116), pcm_nsc (57), pl_lfg (24961), pl_mpdt (8179), pl_pdb (52605), pl_pud (2606), pro_corag (4966), ps_sikaram (654), pt_bosque (29373), pt_dantestocks (14198), pt_gsd (39446), pt_petrogold (28304), pt_porttinari (22408), pt_pud (2611), qaf_arabizi (629), qpm_philotis (4461), qtd_sagt (3576), qti_butr (62), quc_iu (1375), ro_art (161), ro_moldoro (75), ro_nonstandard (115050), ro_rrt (29773), ro_simonero (20472), ro_tuecl (600), ru_gsd (17090), ru_poetry (12540), ru_pud (2939), ru_syntagrus (265458), ru_taiga (349086), sa_ufal (135), sah_yktdt (19), scn_stb (2222), sd_isra (6742), sga_dipsgg (114), sga_dipwbg (168), sk_snk (17851), sl_ssj (39149), sme_giella (4085), sms_giellagas (678), soj_aha (8), sq_staf (421), sq_tsa (88), sr_set (12079), sv_lines (10938), sv_pud (1914), sv_talbanken (9733), ta_mwtt (1), ta_ttb (725), th_pud (19174), th_tud (68893), tl_trg (133), tl_ugnayan (152), tn_popapolelo (23), tr_boun (18765), tr_gb (2535), tr_imst (9452), tr_pud (2056), tr_tuecl (158), tt_nmctt (348), ug_udt (6540), uk_iu (22871), uk_parlamint (18512), ur_udtb (6729), uz_tuecl (194), uz_ut (928), uz_uzudt (19), vi_tuecl (207), wbp_ufal (56), wo_wtb (5277), wuu_shud (8582), xcl_caval (26028), xnr_kdtb (288), xpg_kul (209), yi_yitb (4370), yo_ytb (1144), yrl_complin (7501), yue_hk (13917), zh_beginner (19999), zh_cfl (7256), zh_gsd (122960), zh_gsdsimp (122960), zh_hk (9874), zh_patentchar (4784), zh_pud (20322)
+* `SpaceAfter=No`: ab_abnc (2970), af_afribooms (4498), aii_as (14), ajp_madar (228), aln_gps (2), ang_cairo (25), apu_ufpa (236), ar_padt (19915), ar_pud (4833), axm_armtdp (166), az_tuecl (185), azz_itml (2025), bar_maibaam (2469), be_hse (61712), bg_btb (21089), bho_bhtb (5), bm_crb (1843), bn_bru (39), bor_bdt (5), br_keb (1223), bxr_bdt (1788), ca_ancora (77108), ceb_gja (216), ckt_hse (817), cpg_amgic (147), cpg_tuecl (723), cs_cac (57990), cs_cltt (4034), cs_fictree (31651), cs_pdtc (387232), cs_poetry (1079), cs_pud (2636), ctn_ctntb (2499), cy_ccg (7452), da_ddt (13278), de_gsd (34998), de_lit (5431), de_pud (2889), el_cretan (263), el_gdt (6140), el_glcii (1400), el_gud (4361), el_lesbian (974), el_messinian (1), en_childes (47789), en_ctetex (1560), en_ewt (30961), en_gentle (2621), en_gum (34801), en_gumreddit (1917), en_lines (12511), en_partut (5888), en_pronouns (330), en_pud (2620), eo_cairo (28), eo_prago (455), es_ancora (62416), es_coser (1600), es_gsd (46226), es_pud (2306), ess_sli (23), et_edt (67552), et_ewt (14403), eu_bdt (19438), fa_perdt (43893), fa_seraji (12913), fi_ood (3189), fi_pud (2350), fi_tdt (28665), fo_farpahc (6537), fo_oft (1567), fr_alts (7073), fr_fqb (2282), fr_gsd (58120), fr_parisstories (10237), fr_partut (4051), fr_poitevindivital (246), fr_pud (3439), fr_rhapsodie (10928), fr_sequoia (10758), frm_altm (643), frm_profiterole (15451), fro_altm (1278), fro_profiterole (33484), ga_cadhan (553), ga_idt (11650), ga_twittirish (6493), gd_arcosg (4839), gl_ctg (13692), gl_pud (2584), gl_treegal (2653), grc_perseus (24950), grc_ptnk (4871), gsw_divital (3373), gsw_uzh (176), gu_gujtb (360), gv_cadhan (2118), gwi_tuecl (324), ha_easternautogramm (719), ha_northernautogramm (1319), ha_westernautogramm (2551), hbo_ptnk (23583), he_htb (12192), he_iahltknesset (4785), he_iahltwiki (12341), hi_hdtb (6170), hi_pud (2395), hr_set (23422), hsb_ufal (2127), ht_adolphe (6790), ht_autogramm (279), hu_szeged (5367), hy_armtdp (21066), hy_bsut (8919), hyw_armtdp (21890), id_csui (3754), id_gsd (15819), id_pud (2301), is_gc (7854), is_icepahc (109834), is_modern (6522), is_pud (1962), it_isdt (37303), it_kiparlaforest (265), it_markit (9), it_old (18979), it_parlamint (2384), it_partut (6148), it_postwita (12774), it_pud (2662), it_twittiro (4360), it_valico (860), it_vit (34342), ja_bccwj (1232821), ja_bccwjluw (974556), ja_gsd (185312), ja_gsdluw (142134), ja_pud (28353), ja_pudluw (22508), jv_csui (2162), ka_glc (8506), ka_gnc (5456), kbc_unicamp (133), kk_ktb (1927), kmr_kurmanji (1292), ko_gsd (12520), ko_kaist (38923), ko_ksl (18902), ko_littleprince (4179), ko_pud (4238), koi_uh (238), kpv_ikdp (525), kpv_lattice (1430), krl_kkpp (619), ky_ktmu (3613), ky_tuecl (207), la_ittb (62356), la_llct (30826), la_perseus (4397), la_udante (8519), lb_luxbank (35), lij_glt (1231), lt_alksnis (11856), lt_hse (1008), ltg_cairo (31), lv_cairo (31), lv_lvtb (57222), lzh_kyoto (428560), lzh_tuecl (648), mdf_jr (872), mk_mtb (217), ml_ufal (238), mr_cmupan (15), mr_ufal (740), mt_mudt (10625), myu_tudet (19), myv_jr (4256), nap_rb (34), naq_kdt (3957), nds_lsdc (3382), nhi_mesotree (4907), nl_alpino (21716), nl_lassysmall (32316), nmf_suansu (384), no_bokmaal (34461), no_nynorsk (30669), oc_ttb (4361), oge_glc (700), olo_kkpp (441), or_odtb (400), orv_birchbark (6), orv_rnc (24244), orv_ruthenian (22721), ota_boun (124), ota_dudu (24), ota_tuecl (158), otk_clausal (138), pad_tuecl (116), pcm_nsc (57), pl_lfg (24961), pl_mpdt (8179), pl_pdb (52605), pl_pud (2606), pro_corag (4966), ps_prince (43), ps_sikaram (859), pt_bosque (29373), pt_dantestocks (14198), pt_gsd (39446), pt_petrogold (28304), pt_porttinari (22408), pt_pud (2611), qaf_arabizi (629), qpm_philotis (4461), qtd_sagt (3576), qti_butr (69), quc_iu (1375), ro_art (161), ro_moldoro (75), ro_nonstandard (115050), ro_rrt (29969), ro_simonero (20472), ro_tuecl (600), ru_gsd (17090), ru_poetry (12540), ru_pud (2939), ru_syntagrus (265458), ru_taiga (349086), ruc_rdt (1154), sa_ufal (135), sah_yktdt (19), say_autogramm (1), scn_stb (2222), sd_isra (6742), sga_dipsgg (114), sga_dipwbg (168), sk_snk (17851), sl_ssj (39149), sme_giella (4085), sms_giellagas (694), sq_staf (421), sq_tsa (88), sr_set (12079), sv_lines (10938), sv_pud (1914), sv_talbanken (9733), ta_mwtt (1), ta_ttb (725), th_pud (19174), th_tud (68893), tl_trg (133), tl_ugnayan (152), tn_popapolelo (23), tr_boun (18765), tr_gb (2535), tr_imst (9452), tr_pud (2056), tr_tuecl (158), tt_nmctt (348), ug_udt (6540), uk_iu (22871), uk_parlamint (18512), ur_udtb (6729), uz_tuecl (194), uz_ut (928), uz_uzudt (23), vi_tuecl (207), wbp_ufal (56), wo_wtb (5277), wuu_shud (8582), xcl_caval (26028), xnr_kdtb (288), xpg_kul (220), yi_yitb (4441), yo_ytb (1144), yrl_complin (7722), yue_hk (13917), zh_beginner (19999), zh_cfl (7256), zh_gsd (122960), zh_gsdsimp (122960), zh_hk (9874), zh_patentchar (4784), zh_pud (20322), zza_zsd (127)
 
 ## SpacesAfter
 
-Total 55 values: ajp_madar (98), be_hse (840), bho_bhtb (447), bor_bdt (9659), cs_poetry (3), ctn_ctntb (2245), cy_ccg (2680), eme_tudet (9), en_ewt (1), en_lines (222), et_ewt (255), fi_ood (553), ga_cadhan (127), ga_twittirish (9), it_parlamint (188), it_twittiro (905), it_valico (398), jv_csui (403), ka_glc (1), ky_ktmu (1), lij_glt (48), lzh_kyoto (4609), mk_mtb (15), ml_ufal (93), naq_kdt (3468), nmf_suansu (553), or_odtb (71), orv_birchbark (1), orv_ruthenian (20), ota_boun (31), pt_dantestocks (5), ru_taiga (1275), scn_stb (90), sd_isra (15), sq_staf (2), sv_lines (229), tr_boun (9726), wo_wtb (6)
+Total 56 values: ajp_madar (98), be_hse (840), bho_bhtb (447), bor_bdt (9659), cs_poetry (3), ctn_ctntb (2245), cy_ccg (2680), el_glcii (2), eme_tudet (9), en_ewt (1), en_lines (222), et_ewt (255), fi_ood (553), ga_cadhan (127), ga_twittirish (9), it_parlamint (188), it_twittiro (905), it_valico (398), jv_csui (403), ka_glc (1), ky_ktmu (1), lij_glt (48), lzh_kyoto (4609), mk_mtb (15), ml_ufal (93), naq_kdt (3468), nmf_suansu (553), oge_glc (1), or_odtb (209), orv_birchbark (1), orv_ruthenian (20), ota_boun (31), pt_dantestocks (5), ru_taiga (1275), ruc_rdt (1267), scn_stb (90), sd_isra (15), sq_staf (2), sv_lines (229), tr_boun (9726), wo_wtb (6), yi_yitb (57)
 
-* `SpacesAfter=No`: be_hse (1), mk_mtb (14), ota_boun (1), pt_dantestocks (1), ru_taiga (5), scn_stb (1)
+* `SpacesAfter=No`: be_hse (1), el_glcii (2), mk_mtb (14), ota_boun (1), pt_dantestocks (1), ru_taiga (5), scn_stb (1)
 * `SpacesAfter=Yes`: scn_stb (5)
-* `SpacesAfter=\n`: be_hse (253), bho_bhtb (307), ctn_ctntb (2245), cy_ccg (2615), eme_tudet (9), et_ewt (8), fi_ood (329), ga_cadhan (110), it_parlamint (178), it_twittiro (895), it_valico (398), jv_csui (245), ka_glc (1), ky_ktmu (1), lij_glt (48), lzh_kyoto (4609), ml_ufal (91), naq_kdt (3467), nmf_suansu (540), or_odtb (71), pt_dantestocks (2), ru_taiga (607), scn_stb (3), tr_boun (9312), wo_wtb (6)
+* `SpacesAfter=\n`: be_hse (253), bho_bhtb (307), ctn_ctntb (2245), cy_ccg (2615), eme_tudet (9), et_ewt (8), fi_ood (329), ga_cadhan (110), it_parlamint (178), it_twittiro (895), it_valico (398), jv_csui (245), ka_glc (1), ky_ktmu (1), lij_glt (48), lzh_kyoto (4609), ml_ufal (91), naq_kdt (3467), nmf_suansu (540), or_odtb (208), pt_dantestocks (2), ru_taiga (607), ruc_rdt (1267), scn_stb (3), tr_boun (9312), wo_wtb (6), yi_yitb (57)
 * `SpacesAfter=\n\`: ajp_madar (1)
 * `SpacesAfter=\n\n`: ajp_madar (95), be_hse (485), bho_bhtb (2), cy_ccg (12), en_lines (222), et_ewt (235), fi_ood (175), ga_cadhan (17), it_parlamint (6), naq_kdt (1), ru_taiga (117), sd_isra (2), sq_staf (1), sv_lines (227)
 * `SpacesAfter=\n\n\`: ajp_madar (2)
@@ -8099,7 +8488,7 @@ Total 55 values: ajp_madar (98), be_hse (840), bho_bhtb (447), bor_bdt (9659), c
 * `SpacesAfter=\s\n\s\s\s\s\s\s\s`: ru_taiga (1)
 * `SpacesAfter=\s\r\n`: orv_birchbark (1), orv_ruthenian (1)
 * `SpacesAfter=\s\r\n\r\n`: scn_stb (64)
-* `SpacesAfter=\s\s`: be_hse (3), bho_bhtb (116), bor_bdt (18), cs_poetry (3), cy_ccg (7), fi_ood (23), ga_twittirish (7), it_parlamint (2), it_twittiro (10), ml_ufal (1), ru_taiga (245), scn_stb (4), sd_isra (13), sq_staf (1), sv_lines (2), tr_boun (7)
+* `SpacesAfter=\s\s`: be_hse (3), bho_bhtb (116), bor_bdt (18), cs_poetry (3), cy_ccg (7), fi_ood (23), ga_twittirish (7), it_parlamint (2), it_twittiro (10), ml_ufal (1), oge_glc (1), ru_taiga (245), scn_stb (4), sd_isra (13), sq_staf (1), sv_lines (2), tr_boun (7)
 * `SpacesAfter=\s\s\n`: cy_ccg (1), nmf_suansu (1)
 * `SpacesAfter=\s\s\r\n\r\n`: scn_stb (1)
 * …
@@ -8150,7 +8539,7 @@ Total 1 values: be_hse (15)
 
 ## SplitAnte
 
-Total 658 values: ca_ancora (184), en_gentle (8), en_gum (165), en_gumreddit (6), es_ancora (295)
+Total 680 values: ca_ancora (184), en_gentle (8), en_gum (187), en_gumreddit (6), es_ancora (295)
 
 * `SplitAnte=100<107,104<107,105<107,106<107`: en_gum (1)
 * `SplitAnte=101<105,104<105`: en_gum (1)
@@ -8158,9 +8547,10 @@ Total 658 values: ca_ancora (184), en_gentle (8), en_gum (165), en_gumreddit (6)
 * `SplitAnte=101<128,123<128`: en_gum (1)
 * `SplitAnte=102<120,105<120,118<120`: en_gum (1)
 * `SplitAnte=104<110,91<110,7<110`: en_gum (1)
+* `SplitAnte=105<32,106<32`: en_gum (1)
 * `SplitAnte=107<121,110<121`: en_gum (1)
 * `SplitAnte=108<112,109<112`: en_gum (1)
-* `SplitAnte=109<108,111<108,112<108,114<108`: en_gum (1)
+* `SplitAnte=110<109,112<109,113<109,115<109`: en_gum (1)
 * `SplitAnte=110<116,113<116`: en_gum (1)
 * `SplitAnte=111<140,113<140`: en_gum (1)
 * `SplitAnte=113<123,117<123`: en_gumreddit (1)
@@ -8183,6 +8573,7 @@ Total 658 values: ca_ancora (184), en_gentle (8), en_gum (165), en_gumreddit (6)
 * `SplitAnte=132<168,166<168`: en_gentle (1)
 * `SplitAnte=139<153,143<153`: en_gum (1)
 * `SplitAnte=13<33,22<33`: en_gentle (1)
+* `SplitAnte=13<46,41<46`: en_gum (1)
 * `SplitAnte=13<77,6<77`: en_gum (1)
 * `SplitAnte=13<86,74<86`: en_gum (1)
 * `SplitAnte=141<148,144<148`: en_gum (1)
@@ -8195,13 +8586,11 @@ Total 658 values: ca_ancora (184), en_gentle (8), en_gum (165), en_gumreddit (6)
 * `SplitAnte=154<166,159<166,160<166`: en_gum (1)
 * `SplitAnte=155<157,102<157`: en_gum (1)
 * `SplitAnte=155<158,157<158`: en_gum (1)
+* `SplitAnte=155<159,156<159,157<159,158<159`: en_gum (1)
 * `SplitAnte=15<22,18<22`: en_gum (1)
 * `SplitAnte=163<173,166<173,170<173`: en_gum (1)
+* `SplitAnte=164<175,174<175`: en_gum (1)
 * `SplitAnte=165<167,166<167`: en_gum (1)
-* `SplitAnte=166<170,169<170`: en_gum (1)
-* `SplitAnte=169<175,11<175`: en_gum (1)
-* `SplitAnte=16<35,23<35,27<35`: en_gum (1)
-* `SplitAnte=16<85,42<85`: en_gum (1)
 * …
 
 ## SplitAnte[1]
@@ -8287,7 +8676,7 @@ Total 1 values: yrl_complin (1)
 
 ## StandardForm
 
-Total 16 values: ga_twittirish (1), yrl_complin (17)
+Total 17 values: ga_twittirish (1), kbc_unicamp (2), yrl_complin (17)
 
 * `StandardForm=Iruri`: yrl_complin (2)
 * `StandardForm=Ixipiá`: yrl_complin (1)
@@ -8296,6 +8685,7 @@ Total 16 values: ga_twittirish (1), yrl_complin (17)
 * `StandardForm=exari`: yrl_complin (1)
 * `StandardForm=imunhã`: yrl_complin (1)
 * `StandardForm=ixéu`: yrl_complin (1)
+* `StandardForm=nigaanigawaanigi`: kbc_unicamp (2)
 * `StandardForm=reapú`: yrl_complin (1)
 * `StandardForm=repiama`: yrl_complin (2)
 * `StandardForm=repiamu`: yrl_complin (1)
@@ -8308,9 +8698,15 @@ Total 16 values: ga_twittirish (1), yrl_complin (17)
 
 ## StandardLemma
 
-Total 1 values: yrl_complin (1)
+Total 7 values: kbc_unicamp (8), yrl_complin (1)
 
+* `StandardLemma=-ini(tibece)`: kbc_unicamp (1)
+* `StandardLemma=-initibece`: kbc_unicamp (2)
+* `StandardLemma=diimigi`: kbc_unicamp (1)
+* `StandardLemma=iwaalo`: kbc_unicamp (1)
 * `StandardLemma=ixéu`: yrl_complin (1)
+* `StandardLemma=nigaanigi`: kbc_unicamp (2)
+* `StandardLemma=nodaajo`: kbc_unicamp (1)
 
 ## StandardMood
 
@@ -8363,13 +8759,6 @@ Total 1 values: yrl_complin (6)
 
 * `StandardVerbForm=Fin`: yrl_complin (6)
 
-## Status
-
-Total 2 values: egy_ujaen (3050)
-
-* `Status=Cons`: egy_ujaen (1897)
-* `Status=Pron`: egy_ujaen (1153)
-
 ## Stem
 
 Total 11 values: tr_gb (12)
@@ -8386,6 +8775,19 @@ Total 11 values: tr_gb (12)
 * `Stem=suçluluk`: tr_gb (1)
 * `Stem=yapılaş`: tr_gb (1)
 
+## Strength
+
+Total 2 values: ro_nonstandard (60)
+
+* `Strength=Strong`: ro_nonstandard (7)
+* `Strength=Weak`: ro_nonstandard (53)
+
+## Style
+
+Total 1 values: el_lesbian (1)
+
+* `Style=Arch`: el_lesbian (1)
+
 ## Stype
 
 Total 4 values: hi_hdtb (26103), ur_udtb (9834)
@@ -8397,10 +8799,10 @@ Total 4 values: hi_hdtb (26103), ur_udtb (9834)
 
 ## Subcat
 
-Total 2 values: nhi_itml (1755)
+Total 2 values: nhi_mesotree (1761)
 
-* `Subcat=Intr`: nhi_itml (658)
-* `Subcat=Tran`: nhi_itml (1097)
+* `Subcat=Intr`: nhi_mesotree (660)
+* `Subcat=Tran`: nhi_mesotree (1101)
 
 ## SubjDepInv
 
@@ -8603,6 +9005,62 @@ Total 38 values: en_ewt (1849)
 * `Supersense[scene]=p.Topic`: en_ewt (10)
 * `Supersense[scene]=p.Whole`: en_ewt (78)
 
+## SurfaceLemma
+
+Total 183 values: sv_swell (201)
+
+* `SurfaceLemma=Svarige`: sv_swell (2)
+* `SurfaceLemma=Tenerife`: sv_swell (1)
+* `SurfaceLemma=ackså`: sv_swell (1)
+* `SurfaceLemma=aka`: sv_swell (1)
+* `SurfaceLemma=alderig`: sv_swell (1)
+* `SurfaceLemma=ampassa`: sv_swell (1)
+* `SurfaceLemma=an`: sv_swell (1)
+* `SurfaceLemma=balkon`: sv_swell (1)
+* `SurfaceLemma=bekvämm`: sv_swell (1)
+* `SurfaceLemma=beröende`: sv_swell (1)
+* `SurfaceLemma=bilig`: sv_swell (2)
+* `SurfaceLemma=bill`: sv_swell (2)
+* `SurfaceLemma=billjett`: sv_swell (1)
+* `SurfaceLemma=bjliet`: sv_swell (1)
+* `SurfaceLemma=blygg`: sv_swell (1)
+* `SurfaceLemma=breätta`: sv_swell (1)
+* `SurfaceLemma=bru`: sv_swell (1)
+* `SurfaceLemma=bröllopsprecent`: sv_swell (1)
+* `SurfaceLemma=bus`: sv_swell (2)
+* `SurfaceLemma=böhva`: sv_swell (1)
+* `SurfaceLemma=ceremomi`: sv_swell (1)
+* `SurfaceLemma=conversation`: sv_swell (1)
+* `SurfaceLemma=cycka`: sv_swell (1)
+* `SurfaceLemma=cyckla`: sv_swell (1)
+* `SurfaceLemma=darför`: sv_swell (1)
+* `SurfaceLemma=dimokrati`: sv_swell (1)
+* `SurfaceLemma=dimokratisk`: sv_swell (1)
+* `SurfaceLemma=ditt`: sv_swell (1)
+* `SurfaceLemma=drack`: sv_swell (1)
+* `SurfaceLemma=dromm`: sv_swell (1)
+* `SurfaceLemma=däref$nt`: sv_swell (1)
+* `SurfaceLemma=eftrsom`: sv_swell (1)
+* `SurfaceLemma=ekenskap`: sv_swell (1)
+* `SurfaceLemma=elekriker`: sv_swell (1)
+* `SurfaceLemma=engom`: sv_swell (1)
+* `SurfaceLemma=erfarente`: sv_swell (1)
+* `SurfaceLemma=exampel`: sv_swell (1)
+* `SurfaceLemma=exemple`: sv_swell (1)
+* `SurfaceLemma=familig`: sv_swell (2)
+* `SurfaceLemma=familje`: sv_swell (1)
+* `SurfaceLemma=fantastis`: sv_swell (1)
+* `SurfaceLemma=favoritt`: sv_swell (1)
+* `SurfaceLemma=fimtio`: sv_swell (1)
+* `SurfaceLemma=finas`: sv_swell (1)
+* `SurfaceLemma=finn`: sv_swell (1)
+* `SurfaceLemma=firsta`: sv_swell (1)
+* `SurfaceLemma=fonser`: sv_swell (1)
+* `SurfaceLemma=for`: sv_swell (1)
+* `SurfaceLemma=fordel`: sv_swell (1)
+* `SurfaceLemma=forklara`: sv_swell (1)
+* …
+
 ## Syllables
 
 Total 7 values: it_kiparlaforest (103)
@@ -8686,53 +9144,153 @@ Total 39 values: hi_hdtb (190872), ur_udtb (76347)
 
 ## TemporalNPAdjunct
 
-Total 1 values: en_ewt (1079), en_pud (57), he_iahltknesset (139), he_iahltwiki (479)
+Total 1 values: en_ewt (1077), en_pud (57), he_iahltknesset (139), he_iahltwiki (479)
 
-* `TemporalNPAdjunct=Yes`: en_ewt (1079), en_pud (57), he_iahltknesset (139), he_iahltwiki (479)
-
-## Tense
-
-Total 1 values: egy_ujaen (2)
-
-* `Tense=Past-2`: egy_ujaen (2)
+* `TemporalNPAdjunct=Yes`: en_ewt (1077), en_pud (57), he_iahltknesset (139), he_iahltwiki (479)
 
 ## Tense[denom]
 
-Total 3 values: fr_gsd (13769), fr_parisstories (1118), fr_rhapsodie (765), fr_sequoia (2894)
+Total 2 values: fr_gsd (13769), fr_parisstories (1166), fr_rhapsodie (812), fr_sequoia (2894)
 
-* `Tense[denom]=Imp`: fr_parisstories (1)
-* `Tense[denom]=Past`: fr_gsd (12064), fr_parisstories (1093), fr_rhapsodie (707), fr_sequoia (2522)
-* `Tense[denom]=Pres`: fr_gsd (1705), fr_parisstories (24), fr_rhapsodie (58), fr_sequoia (372)
+* `Tense[denom]=Past`: fr_gsd (12064), fr_parisstories (1142), fr_rhapsodie (750), fr_sequoia (2522)
+* `Tense[denom]=Pres`: fr_gsd (1705), fr_parisstories (24), fr_rhapsodie (62), fr_sequoia (372)
+
+## TextBegin
+
+Total 59 values: zza_zsd (1438)
+
+* `TextBegin=0`: zza_zsd (223)
+* `TextBegin=1`: zza_zsd (2)
+* `TextBegin=10`: zza_zsd (41)
+* `TextBegin=11`: zza_zsd (46)
+* `TextBegin=12`: zza_zsd (43)
+* `TextBegin=13`: zza_zsd (46)
+* `TextBegin=14`: zza_zsd (46)
+* `TextBegin=15`: zza_zsd (38)
+* `TextBegin=16`: zza_zsd (35)
+* `TextBegin=17`: zza_zsd (47)
+* `TextBegin=18`: zza_zsd (43)
+* `TextBegin=19`: zza_zsd (31)
+* `TextBegin=2`: zza_zsd (9)
+* `TextBegin=20`: zza_zsd (38)
+* `TextBegin=21`: zza_zsd (23)
+* `TextBegin=22`: zza_zsd (27)
+* `TextBegin=23`: zza_zsd (25)
+* `TextBegin=24`: zza_zsd (33)
+* `TextBegin=25`: zza_zsd (18)
+* `TextBegin=26`: zza_zsd (16)
+* `TextBegin=27`: zza_zsd (15)
+* `TextBegin=28`: zza_zsd (25)
+* `TextBegin=29`: zza_zsd (16)
+* `TextBegin=3`: zza_zsd (63)
+* `TextBegin=30`: zza_zsd (13)
+* `TextBegin=31`: zza_zsd (11)
+* `TextBegin=32`: zza_zsd (19)
+* `TextBegin=33`: zza_zsd (15)
+* `TextBegin=34`: zza_zsd (16)
+* `TextBegin=35`: zza_zsd (10)
+* `TextBegin=36`: zza_zsd (12)
+* `TextBegin=37`: zza_zsd (8)
+* `TextBegin=38`: zza_zsd (11)
+* `TextBegin=39`: zza_zsd (5)
+* `TextBegin=4`: zza_zsd (53)
+* `TextBegin=40`: zza_zsd (4)
+* `TextBegin=41`: zza_zsd (6)
+* `TextBegin=42`: zza_zsd (5)
+* `TextBegin=43`: zza_zsd (5)
+* `TextBegin=44`: zza_zsd (3)
+* `TextBegin=45`: zza_zsd (5)
+* `TextBegin=46`: zza_zsd (1)
+* `TextBegin=47`: zza_zsd (5)
+* `TextBegin=48`: zza_zsd (1)
+* `TextBegin=5`: zza_zsd (55)
+* `TextBegin=50`: zza_zsd (1)
+* `TextBegin=51`: zza_zsd (1)
+* `TextBegin=52`: zza_zsd (2)
+* `TextBegin=53`: zza_zsd (2)
+* `TextBegin=54`: zza_zsd (1)
+* …
+
+## TextEnd
+
+Total 60 values: zza_zsd (1438)
+
+* `TextEnd=1`: zza_zsd (5)
+* `TextEnd=10`: zza_zsd (51)
+* `TextEnd=11`: zza_zsd (41)
+* `TextEnd=12`: zza_zsd (51)
+* `TextEnd=13`: zza_zsd (56)
+* `TextEnd=14`: zza_zsd (47)
+* `TextEnd=15`: zza_zsd (41)
+* `TextEnd=16`: zza_zsd (55)
+* `TextEnd=17`: zza_zsd (44)
+* `TextEnd=18`: zza_zsd (36)
+* `TextEnd=19`: zza_zsd (43)
+* `TextEnd=2`: zza_zsd (63)
+* `TextEnd=20`: zza_zsd (31)
+* `TextEnd=21`: zza_zsd (46)
+* `TextEnd=22`: zza_zsd (39)
+* `TextEnd=23`: zza_zsd (31)
+* `TextEnd=24`: zza_zsd (26)
+* `TextEnd=25`: zza_zsd (23)
+* `TextEnd=26`: zza_zsd (23)
+* `TextEnd=27`: zza_zsd (29)
+* `TextEnd=28`: zza_zsd (20)
+* `TextEnd=29`: zza_zsd (20)
+* `TextEnd=3`: zza_zsd (36)
+* `TextEnd=30`: zza_zsd (16)
+* `TextEnd=31`: zza_zsd (22)
+* `TextEnd=32`: zza_zsd (15)
+* `TextEnd=33`: zza_zsd (18)
+* `TextEnd=34`: zza_zsd (13)
+* `TextEnd=35`: zza_zsd (15)
+* `TextEnd=36`: zza_zsd (13)
+* `TextEnd=37`: zza_zsd (20)
+* `TextEnd=38`: zza_zsd (20)
+* `TextEnd=39`: zza_zsd (6)
+* `TextEnd=4`: zza_zsd (82)
+* `TextEnd=40`: zza_zsd (8)
+* `TextEnd=41`: zza_zsd (10)
+* `TextEnd=42`: zza_zsd (10)
+* `TextEnd=43`: zza_zsd (7)
+* `TextEnd=44`: zza_zsd (6)
+* `TextEnd=45`: zza_zsd (3)
+* `TextEnd=46`: zza_zsd (7)
+* `TextEnd=47`: zza_zsd (1)
+* `TextEnd=48`: zza_zsd (1)
+* `TextEnd=49`: zza_zsd (4)
+* `TextEnd=5`: zza_zsd (65)
+* `TextEnd=50`: zza_zsd (1)
+* `TextEnd=51`: zza_zsd (2)
+* `TextEnd=52`: zza_zsd (2)
+* `TextEnd=53`: zza_zsd (3)
+* `TextEnd=54`: zza_zsd (3)
+* …
 
 ## Title
 
-Total 1 values: fr_gsd (226), fr_parisstories (4), fr_rhapsodie (35), fr_sequoia (5), pcm_nsc (240)
+Total 1 values: egy_pc (15), fr_gsd (226), fr_parisstories (4), fr_rhapsodie (35), fr_sequoia (5), pcm_nsc (240)
 
-* `Title=Yes`: fr_gsd (226), fr_parisstories (4), fr_rhapsodie (35), fr_sequoia (5), pcm_nsc (240)
+* `Title=Yes`: egy_pc (15), fr_gsd (226), fr_parisstories (4), fr_rhapsodie (35), fr_sequoia (5), pcm_nsc (240)
 
 ## ToDo
 
-Total 24 values: bg_btb (5), ca_ancora (1), da_ddt (142), es_gsd (6), ga_idt (1), gl_ctg (7671), hi_pud (184), hr_set (1231), hu_szeged (487), ko_pud (78), ml_ufal (2), pt_pud (314), ro_rrt (207), th_pud (152), tr_pud (160)
+Total 19 values: bg_btb (5), da_ddt (142), ga_idt (1), hi_pud (184), hr_set (1231), hu_szeged (487), ko_pud (78), ml_ufal (2), pt_pud (314), ro_rrt (206), th_pud (152), tr_pud (160)
 
 * `ToDo=MoodShouldBeCndNec`: ml_ufal (1)
-* `ToDo=Retokenize`: es_gsd (3)
-* `ToDo=Should it be SCONJ?`: ca_ancora (1)
-* `ToDo=SplitMWT`: es_gsd (2)
 * `ToDo=TensePastNowDisallowedWithADJ`: ml_ufal (1)
-* `ToDo=Tokenize(Regules,es)`: es_gsd (1)
 * `ToDo=affix`: ko_pud (2), th_pud (3)
-* `ToDo=case-upos`: gl_ctg (1273)
 * `ToDo=cc-after-conj`: hi_pud (1), hr_set (1), hu_szeged (50), ko_pud (76), ro_rrt (9), tr_pud (6)
 * `ToDo=cc-in-coord`: bg_btb (1), hr_set (8), hu_szeged (12), pt_pud (1), ro_rrt (23)
-* `ToDo=cc-without-conj`: bg_btb (4), ga_idt (1), gl_ctg (4140), hi_pud (18), hr_set (83), hu_szeged (304), ro_rrt (120), th_pud (3), tr_pud (1)
+* `ToDo=cc-without-conj`: bg_btb (4), ga_idt (1), hi_pud (18), hr_set (83), hu_szeged (304), ro_rrt (120), th_pud (3), tr_pud (1)
 * `ToDo=check-acl-relcl`: da_ddt (3)
 * `ToDo=check-advcl`: da_ddt (1)
 * `ToDo=check-xcomp`: da_ddt (138)
 * `ToDo=ex-adp-child`: hi_pud (34), pt_pud (135), th_pud (32), tr_pud (20)
 * `ToDo=ex-adp-child,cc-without-conj`: pt_pud (1)
 * `ToDo=ex-adp-child,pobj`: tr_pud (1)
-* `ToDo=neg`: hi_pud (1), ro_rrt (4)
-* `ToDo=nmod`: gl_ctg (2258), hi_pud (26), hr_set (1126), hu_szeged (40), pt_pud (165), ro_rrt (4), th_pud (112), tr_pud (122)
+* `ToDo=neg`: hi_pud (1), ro_rrt (3)
+* `ToDo=nmod`: hi_pud (26), hr_set (1126), hu_szeged (40), pt_pud (165), ro_rrt (4), th_pud (112), tr_pud (122)
 * `ToDo=pcomp`: hi_pud (4), pt_pud (1), tr_pud (2)
 * `ToDo=pobj`: hi_pud (12), pt_pud (11), th_pud (2), tr_pud (8)
 * `ToDo=punct-in-coord`: hr_set (13), hu_szeged (81), ro_rrt (47)
@@ -8747,23 +9305,23 @@ Total 1 values: yrl_complin (1)
 
 ## TokenRange
 
-Total 8845 values: cpg_tuecl (3), ota_boun (616), ru_taiga (23), scn_stb (8969), yrl_complin (25257)
+Total 8858 values: cpg_tuecl (3), kbc_unicamp (153), ota_boun (616), ru_taiga (23), scn_stb (8969), yrl_complin (26040)
 
 * `TokenRange=-1:0`: yrl_complin (132)
-* `TokenRange=0:1`: scn_stb (27), yrl_complin (50)
-* `TokenRange=0:10`: yrl_complin (47)
+* `TokenRange=0:1`: scn_stb (27), yrl_complin (51)
+* `TokenRange=0:10`: yrl_complin (50)
 * `TokenRange=0:10استانبولى`: ota_boun (1)
-* `TokenRange=0:11`: scn_stb (3), yrl_complin (6)
-* `TokenRange=0:12`: ru_taiga (1), yrl_complin (5)
+* `TokenRange=0:11`: scn_stb (3), yrl_complin (9)
+* `TokenRange=0:12`: ru_taiga (1), yrl_complin (7)
 * `TokenRange=0:13`: yrl_complin (9)
-* `TokenRange=0:2`: scn_stb (6), yrl_complin (280)
-* `TokenRange=0:3`: scn_stb (6), yrl_complin (407)
-* `TokenRange=0:4`: scn_stb (3), yrl_complin (546)
-* `TokenRange=0:5`: cpg_tuecl (1), scn_stb (4), yrl_complin (512)
-* `TokenRange=0:6`: scn_stb (2), yrl_complin (297)
-* `TokenRange=0:7`: scn_stb (2), yrl_complin (217)
-* `TokenRange=0:8`: yrl_complin (120)
-* `TokenRange=0:9`: yrl_complin (57)
+* `TokenRange=0:2`: scn_stb (6), yrl_complin (283)
+* `TokenRange=0:3`: kbc_unicamp (14), scn_stb (6), yrl_complin (419)
+* `TokenRange=0:4`: scn_stb (3), yrl_complin (575)
+* `TokenRange=0:5`: cpg_tuecl (1), kbc_unicamp (1), scn_stb (4), yrl_complin (527)
+* `TokenRange=0:6`: scn_stb (2), yrl_complin (308)
+* `TokenRange=0:7`: kbc_unicamp (6), scn_stb (2), yrl_complin (226)
+* `TokenRange=0:8`: kbc_unicamp (4), yrl_complin (123)
+* `TokenRange=0:9`: yrl_complin (59)
 * `TokenRange=1002:1004`: scn_stb (1)
 * `TokenRange=1002:1007`: scn_stb (1)
 * `TokenRange=1003:1005`: scn_stb (1)
@@ -8803,11 +9361,11 @@ Total 8845 values: cpg_tuecl (3), ota_boun (616), ru_taiga (23), scn_stb (8969),
 
 ## TokenType
 
-Total 7 values: arh_chibergis (4439), bej_autogramm (11951), pay_chibergis (3673)
+Total 7 values: arh_chibergis (4439), bej_autogramm (11948), pay_chibergis (3673)
 
 * `TokenType=Break`: bej_autogramm (2309)
-* `TokenType=Clit`: arh_chibergis (946), bej_autogramm (3630), pay_chibergis (921)
-* `TokenType=InflAff`: arh_chibergis (1019), bej_autogramm (12)
+* `TokenType=Clit`: arh_chibergis (946), bej_autogramm (3625), pay_chibergis (921)
+* `TokenType=InflAff`: arh_chibergis (1019), bej_autogramm (14)
 * `TokenType=Punct`: bej_autogramm (2)
 * `TokenType=Root`: arh_chibergis (2473), bej_autogramm (5984), pay_chibergis (2752)
 * `TokenType=Unfinished`: bej_autogramm (14)
@@ -8869,17 +9427,10 @@ Total 96 values: zh_beginner (16826)
 * `Tone=3_1_1`: zh_beginner (2)
 * …
 
-## Top
-
-Total 1 values: egy_ujaen (5)
-
-* `Top=Yes`: egy_ujaen (5)
-
 ## Topic
 
-Total 3 values: arh_chibergis (197), egy_ujaen (76)
+Total 2 values: arh_chibergis (197)
 
-* `Topic=Verb`: egy_ujaen (76)
 * `Topic=no`: arh_chibergis (129)
 * `Topic=yes`: arh_chibergis (68)
 
@@ -8917,9 +9468,9 @@ Total 7 values: la_circse (942), la_ittb (80640), la_llct (30738), la_perseus (6
 
 ## TransHon
 
-Total 1 values: egy_ujaen (30)
+Total 1 values: egy_pc (27)
 
-* `TransHon=Yes`: egy_ujaen (30)
+* `TransHon=Yes`: egy_pc (27)
 
 ## Transitivity
 
@@ -8936,9 +9487,9 @@ Total 1 values: ga_twittirish (28)
 
 ## Translit
 
-Total 420792 values: am_att (10010), ar_padt (282382), ar_pud (2), bho_bhtb (6665), bn_bru (320), fa_perdt (501771), fa_seraji (152923), hbo_ptnk (124383), hi_hdtb (351704), hi_pud (23829), hy_armtdp (104293), hy_bsut (46168), hyw_armtdp (122752), ka_glc (60178), ko_gsd (80313), ko_kaist (350090), ko_littleprince (10734), ko_pud (16584), lzh_tuecl (71), mk_mtb (1360), ml_ufal (2403), mr_ufal (3847), or_odtb (1029), pl_mpdt (47273), ps_sikaram (4067), sa_ufal (1842), si_stb (880), sjo_xdt (15400), ta_mwtt (2583), ta_ttb (9580), te_mtg (6465), th_pud (22330), ug_udt (39884), uk_iu (122750), ur_udtb (138077), uz_uzudt (12), xcl_caval (99655), xnr_kdtb (2514), yi_yitb (27879), yrk_tundra (1272), yue_hk (31), zh_beginner (19999), zh_cfl (7256), zh_gsd (123289), zh_gsdsimp (123289), zh_hk (9874), zh_patentchar (4784), zh_pud (21415)
+Total 451150 values: am_att (10010), ar_padt (282382), ar_pud (2), bho_bhtb (6665), bn_bru (320), fa_perdt (501771), fa_seraji (152923), gu_gujtb (1827), hbo_ptnk (124383), hi_hdtb (351704), hi_pud (23829), hy_armtdp (104293), hy_bsut (46168), hyw_armtdp (122752), ka_glc (60178), ko_gsd (80313), ko_kaist (350090), ko_littleprince (10734), ko_pud (16584), lzh_tuecl (71), mk_mtb (1360), ml_ufal (2403), mr_cmupan (118198), mr_ufal (3847), oge_glc (6882), or_odtb (5804), pl_mpdt (47273), ps_sikaram (5467), sa_ufal (1842), si_stb (880), sjo_xdt (15400), ta_mwtt (2583), ta_ttb (9580), te_mtg (6465), th_pud (22330), ug_udt (39884), uk_iu (122750), ur_udtb (138077), uz_uzudt (12), xcl_caval (99655), xnr_kdtb (2514), yi_yitb (28348), yrk_tundra (1272), yue_hk (31), zh_beginner (19999), zh_cfl (7256), zh_gsd (123289), zh_gsdsimp (123289), zh_hk (9874), zh_patentchar (4784), zh_pud (21415)
 
-* `Translit=!`: am_att (33), ar_padt (86), bho_bhtb (2), fa_perdt (606), fa_seraji (188), hi_hdtb (2), hy_armtdp (39), hy_bsut (48), hyw_armtdp (159), ka_glc (1), ko_gsd (132), ko_kaist (101), mk_mtb (2), ml_ufal (2), mr_ufal (61), pl_mpdt (52), ps_sikaram (2), sjo_xdt (40), ta_mwtt (2), te_mtg (77), ug_udt (230), uk_iu (331), ur_udtb (17), xcl_caval (62), xnr_kdtb (8), yi_yitb (74), zh_beginner (2), zh_cfl (24), zh_gsd (3), zh_gsdsimp (3), zh_hk (254)
+* `Translit=!`: am_att (33), ar_padt (86), bho_bhtb (2), fa_perdt (606), fa_seraji (188), gu_gujtb (9), hi_hdtb (2), hy_armtdp (39), hy_bsut (48), hyw_armtdp (159), ka_glc (1), ko_gsd (132), ko_kaist (101), mk_mtb (2), ml_ufal (2), mr_cmupan (46), mr_ufal (61), or_odtb (2), pl_mpdt (52), ps_sikaram (6), sjo_xdt (40), ta_mwtt (2), te_mtg (77), ug_udt (230), uk_iu (331), ur_udtb (17), xcl_caval (62), xnr_kdtb (8), yi_yitb (74), zh_beginner (2), zh_cfl (24), zh_gsd (3), zh_gsdsimp (3), zh_hk (254)
 * `Translit=!!`: uk_iu (4)
 * `Translit=!!!`: uk_iu (9)
 * `Translit=!!!!!`: uk_iu (1)
@@ -8946,53 +9497,53 @@ Total 420792 values: am_att (10010), ar_padt (282382), ar_pud (2), bho_bhtb (666
 * `Translit=!..`: uk_iu (24)
 * `Translit=!...`: uk_iu (2)
 * `Translit=!?`: ug_udt (2), uk_iu (1)
-* `Translit="`: ar_padt (4011), fa_perdt (636), fa_seraji (90), hi_hdtb (4), hi_pud (104), ka_glc (56), ko_gsd (647), ko_kaist (228), ko_pud (96), ml_ufal (6), mr_ufal (93), pl_mpdt (5), sjo_xdt (112), ta_ttb (8), te_mtg (2), th_pud (33), ug_udt (35), uk_iu (505), ur_udtb (45), xcl_caval (21), yi_yitb (87), zh_beginner (2), zh_pud (8)
+* `Translit="`: ar_padt (4011), fa_perdt (636), fa_seraji (90), gu_gujtb (5), hi_hdtb (4), hi_pud (104), ka_glc (56), ko_gsd (647), ko_kaist (228), ko_pud (96), ml_ufal (6), mr_cmupan (905), mr_ufal (93), or_odtb (18), pl_mpdt (5), sjo_xdt (112), ta_ttb (8), te_mtg (2), th_pud (33), ug_udt (35), uk_iu (505), ur_udtb (45), xcl_caval (21), yi_yitb (87), zh_beginner (2), zh_pud (8)
 * `Translit="R"`: ka_glc (1)
+* `Translit="akshara`: mr_cmupan (1)
+* `Translit="arbana`: mr_cmupan (1)
+* `Translit="ayadiya'cha`: mr_cmupan (1)
+* `Translit="ayadiya'kade`: mr_cmupan (1)
+* `Translit="baimdara'chya`: mr_cmupan (1)
+* `Translit="bharatanatyam‌'ne`: mr_cmupan (1)
+* `Translit="biayaephaara'la`: mr_cmupan (1)
+* `Translit="brahmosa'chya`: mr_cmupan (1)
+* `Translit="daulata'che`: mr_cmupan (1)
+* `Translit="dinara`: mr_cmupan (1)
+* `Translit="dushkala'shi`: mr_cmupan (1)
+* `Translit="emaayadisi'chya`: mr_cmupan (1)
+* `Translit="emaayadisi'ne`: mr_cmupan (1)
+* `Translit="enaesayuaya'che`: mr_cmupan (1)
+* `Translit="ginesa'madhye`: mr_cmupan (1)
+* `Translit="inphosisa'pasuna`: mr_cmupan (1)
+* `Translit="ivhemtas‌'cha`: mr_cmupan (1)
+* `Translit="jamjira'che`: mr_cmupan (1)
+* `Translit="kalashri`: mr_cmupan (1)
+* `Translit="kayakimga'`: mr_cmupan (1)
+* `Translit="kebala`: mr_cmupan (1)
+* `Translit="k{}lorineshana'chi`: mr_cmupan (1)
+* `Translit="malika`: mr_cmupan (1)
+* `Translit="manase'barobara`: mr_cmupan (1)
+* `Translit="mansuna'chya`: mr_cmupan (1)
+* `Translit="marāyo`: gu_gujtb (1)
 * `Translit="mrd"`: fa_perdt (1)
-* `Translit="zn"`: fa_perdt (1)
-* `Translit="āṯr"`: fa_perdt (1)
-* `Translit=#`: uk_iu (14)
-* `Translit=#@)₴?$0`: uk_iu (1)
-* `Translit=#A`: zh_gsd (2), zh_gsdsimp (2)
-* `Translit=#B`: zh_gsd (1), zh_gsdsimp (1)
-* `Translit=#C`: zh_gsd (1), zh_gsdsimp (1)
-* `Translit=#D`: zh_gsd (1), zh_gsdsimp (1)
-* `Translit=#E`: zh_gsd (1), zh_gsdsimp (1)
-* `Translit=#F`: zh_gsd (1), zh_gsdsimp (1)
-* `Translit=#G`: zh_gsd (1), zh_gsdsimp (1)
-* `Translit=$`: ko_gsd (2), ko_kaist (3), uk_iu (17), zh_gsd (5), zh_gsdsimp (5)
-* `Translit=$1.4`: hi_pud (1)
-* `Translit=$1.5`: hi_pud (2)
-* `Translit=$10,000`: zh_gsd (1), zh_gsdsimp (1)
-* `Translit=$103.7`: hi_pud (1)
-* `Translit=$15,000`: hi_pud (1)
-* `Translit=$15000`: zh_pud (1)
-* `Translit=$150wàn`: zh_pud (1)
-* `Translit=$221`: hi_pud (1)
-* `Translit=$25,000`: hi_pud (1), zh_pud (1)
-* `Translit=$5,000`: hi_pud (1), zh_gsd (1), zh_gsdsimp (1)
-* `Translit=$yryn`: ar_padt (1)
-* `Translit=%`: ar_padt (340), fa_perdt (5), hi_pud (17), hy_armtdp (18), hy_bsut (27), hyw_armtdp (3), ka_glc (6), ko_gsd (182), ko_kaist (241), ko_pud (12), ps_sikaram (1), th_pud (17), uk_iu (99)
-* `Translit=ka_glc (1)`: 
-* `Translit=%-ze`: ka_glc (2)
-* `Translit=%-ši`: ka_glc (2)
-* `Translit=0e+00`: 
-* `Translit=0a`: 
-* `Translit=%.reul`: ko_pud (5)
-* `Translit=%.yi`: ko_pud (1)
-* `Translit=                                                                     0n`: 
-* `Translit=&`: fa_perdt (1), ka_glc (1), ko_gsd (3), uk_iu (1)
-* `Translit=&gt;`: ug_udt (27)
-* `Translit=&lt;`: ko_gsd (1), ug_udt (24)
-* `Translit=&lt;&lt;`: ug_udt (1)
-* `Translit='`: fa_perdt (12), hi_hdtb (733), hi_pud (23), ko_gsd (815), ko_kaist (1137), ko_pud (16), ml_ufal (2), mr_ufal (12), or_odtb (2), th_pud (4), uk_iu (4), ur_udtb (121), zh_gsd (2), zh_gsdsimp (2)
-* `Translit=''`: ko_gsd (42), ml_ufal (4), ur_udtb (182), zh_gsd (9), zh_gsdsimp (9)
-* `Translit=''āīmīl''`: fa_perdt (1)
+* `Translit="parasa'chya`: mr_cmupan (1)
+* `Translit="peparaba.cka'chya`: mr_cmupan (1)
+* `Translit="philtara`: mr_cmupan (1)
+* `Translit="pramoshana'sathi`: mr_cmupan (1)
+* `Translit="raॉ'kade`: mr_cmupan (1)
+* `Translit="raॉ'ne`: mr_cmupan (2)
+* `Translit="rimota'chya`: mr_cmupan (1)
+* `Translit="sahachari'madhalya`: mr_cmupan (1)
+* `Translit="sahachari'madhye`: mr_cmupan (1)
+* `Translit="sakala'che`: mr_cmupan (1)
+* `Translit="sakala'la`: mr_cmupan (1)
+* `Translit="sakala'shi`: mr_cmupan (2)
+* `Translit="sakala'tarphe`: mr_cmupan (1)
 * …
 
 ## Translit_Lemma
 
-Total 3332 values: yi_yitb (27426)
+Total 3448 values: yi_yitb (28346)
 
 * `Translit_Lemma=!`: yi_yitb (74)
 * `Translit_Lemma="`: yi_yitb (87)
@@ -9001,23 +9552,28 @@ Total 3332 values: yi_yitb (27426)
 * `Translit_Lemma=,`: yi_yitb (872)
 * `Translit_Lemma=-`: yi_yitb (8)
 * `Translit_Lemma=--`: yi_yitb (1)
-* `Translit_Lemma=.`: yi_yitb (2597)
+* `Translit_Lemma=.`: yi_yitb (2655)
 * `Translit_Lemma=..`: yi_yitb (2)
 * `Translit_Lemma=...`: yi_yitb (3)
 * `Translit_Lemma=/`: yi_yitb (1)
+* `Translit_Lemma=1859`: yi_yitb (1)
+* `Translit_Lemma=19`: yi_yitb (1)
+* `Translit_Lemma=1916`: yi_yitb (1)
+* `Translit_Lemma=20`: yi_yitb (1)
+* `Translit_Lemma=53`: yi_yitb (1)
 * `Translit_Lemma=8`: yi_yitb (1)
+* `Translit_Lemma=800`: yi_yitb (1)
 * `Translit_Lemma=:`: yi_yitb (74)
 * `Translit_Lemma=;`: yi_yitb (38)
-* `Translit_Lemma=?`: yi_yitb (370)
+* `Translit_Lemma=?`: yi_yitb (371)
 * `Translit_Lemma=Khurbn-lebn-geblibenem`: yi_yitb (1)
 * `Translit_Lemma=Mokem-Moklen`: yi_yitb (1)
 * `Translit_Lemma=[`: yi_yitb (1)
 * `Translit_Lemma=]`: yi_yitb (1)
-* `Translit_Lemma=a`: yi_yitb (861)
+* `Translit_Lemma=a`: yi_yitb (878)
 * `Translit_Lemma=aber`: yi_yitb (4)
 * `Translit_Lemma=absolut`: yi_yitb (1)
 * `Translit_Lemma=absorbirn`: yi_yitb (1)
-* `Translit_Lemma=ader`: yi_yitb (1)
 * `Translit_Lemma=adiktsye`: yi_yitb (1)
 * `Translit_Lemma=adolf`: yi_yitb (2)
 * `Translit_Lemma=adres`: yi_yitb (1)
@@ -9034,16 +9590,11 @@ Total 3332 values: yi_yitb (27426)
 * `Translit_Lemma=ahinton`: yi_yitb (1)
 * `Translit_Lemma=ahura`: yi_yitb (1)
 * `Translit_Lemma=akerayzn`: yi_yitb (1)
+* `Translit_Lemma=akht`: yi_yitb (3)
+* `Translit_Lemma=akhtsn`: yi_yitb (1)
 * `Translit_Lemma=akhzoryesdikst`: yi_yitb (1)
 * `Translit_Lemma=akorsht`: yi_yitb (2)
 * `Translit_Lemma=akshnen`: yi_yitb (1)
-* `Translit_Lemma=akshnesdik`: yi_yitb (2)
-* `Translit_Lemma=aksl`: yi_yitb (2)
-* `Translit_Lemma=akt`: yi_yitb (1)
-* `Translit_Lemma=aktiv`: yi_yitb (1)
-* `Translit_Lemma=aktsent`: yi_yitb (2)
-* `Translit_Lemma=aktsident`: yi_yitb (1)
-* `Translit_Lemma=aktsye`: yi_yitb (1)
 * …
 
 ## Trunc
@@ -9054,13 +9605,13 @@ Total 1 values: pt_dantestocks (214)
 
 ## Truncated
 
-Total 1 values: it_kiparlaforest (82)
+Total 1 values: it_kiparlaforest (239)
 
-* `Truncated=Yes`: it_kiparlaforest (82)
+* `Truncated=Yes`: it_kiparlaforest (239)
 
 ## Type
 
-Total 8 values: egy_ujaen (18), ro_nonstandard (3787)
+Total 7 values: ro_nonstandard (3787)
 
 * `Type=Cross`: ro_nonstandard (10)
 * `Type=Embr`: ro_nonstandard (6)
@@ -9068,15 +9619,14 @@ Total 8 values: egy_ujaen (18), ro_nonstandard (3787)
 * `Type=Intern`: ro_nonstandard (31)
 * `Type=Mono`: ro_nonstandard (851)
 * `Type=Paired`: ro_nonstandard (2226)
-* `Type=Perform`: egy_ujaen (18)
 * `Type=Rep`: ro_nonstandard (252)
 
 ## Typo
 
-Total 3 values: cy_ccg (1), el_lesbian (2), en_littleprince (1), et_ewt (1), fi_ood (2), fr_parisstories (1), it_postwita (4), la_perseus (2), lt_hse (1), nhi_itml (12), sv_swell (4), tr_boun (1)
+Total 3 values: cy_ccg (1), en_littleprince (1), et_ewt (1), fi_ood (2), it_postwita (4), la_perseus (2), lt_hse (1), nhi_mesotree (12), sv_swell (4), tr_boun (1)
 
 * `Typo=Antaudun`: fi_ood (1)
-* `Typo=Yes`: cy_ccg (1), el_lesbian (2), en_littleprince (1), et_ewt (1), fr_parisstories (1), it_postwita (4), la_perseus (2), lt_hse (1), nhi_itml (12), sv_swell (4), tr_boun (1)
+* `Typo=Yes`: cy_ccg (1), en_littleprince (1), et_ewt (1), it_postwita (4), la_perseus (2), lt_hse (1), nhi_mesotree (12), sv_swell (4), tr_boun (1)
 * `Typo=osaisin`: fi_ood (1)
 
 ## UI
@@ -9205,9 +9755,9 @@ Total 1 values: uk_parlamint (39)
 
 ## Unintelligible
 
-Total 1 values: it_kiparlaforest (102)
+Total 1 values: it_kiparlaforest (174)
 
-* `Unintelligible=Yes`: it_kiparlaforest (102)
+* `Unintelligible=Yes`: it_kiparlaforest (174)
 
 ## UniqueTokenId
 
@@ -9371,8 +9921,9 @@ Total 2 values: fr_poitevindivital (2)
 
 ## Variant
 
-Total 1 values: gwi_tuecl (1)
+Total 2 values: gwi_tuecl (1), ro_nonstandard (2)
 
+* `Variant=Long`: ro_nonstandard (2)
 * `Variant=vits'eh`: gwi_tuecl (1)
 
 ## Variation
@@ -9383,7 +9934,7 @@ Total 1 values: it_kiparlaforest (22)
 
 ## Verb
 
-Total 843 values: et_edt (36575), pt_dantestocks (1)
+Total 843 values: et_edt (36576), pt_dantestocks (1)
 
 * `Verb=Arg_2`: et_edt (1)
 * `Verb=Form`: pt_dantestocks (1)
@@ -9439,11 +9990,12 @@ Total 843 values: et_edt (36575), pt_dantestocks (1)
 
 ## VerbForm
 
-Total 3 values: fro_profiterole (25), yrl_complin (1)
+Total 4 values: fro_profiterole (25), ha_northernautogramm (6), yrl_complin (1)
 
 * `VerbForm=Fin`: yrl_complin (1)
 * `VerbForm=PastParticiple`: fro_profiterole (20)
 * `VerbForm=PresParticiple`: fro_profiterole (5)
+* `VerbForm=Vnoun`: ha_northernautogramm (6)
 
 ## VerbFrom
 
@@ -9633,24 +10185,24 @@ Total 1 values: el_lesbian (1)
 
 ## Voice
 
-Total 2 values: egy_ujaen (1), jv_csui (1)
+Total 1 values: jv_csui (1)
 
-* `Voice=Cau`: egy_ujaen (1)
 * `Voice=Pass`: jv_csui (1)
 
 ## Voicing
 
-Total 1 values: el_cretan (84), el_lesbian (90)
+Total 1 values: el_cretan (84), el_lesbian (100)
 
-* `Voicing=Voiced`: el_cretan (84), el_lesbian (90)
+* `Voicing=Voiced`: el_cretan (84), el_lesbian (100)
 
 ## Volume
 
-Total 3 values: it_kiparlaforest (51)
+Total 4 values: it_kiparlaforest (191)
 
 * `Volume=High`: it_kiparlaforest (1)
 * `Volume=Low`: it_kiparlaforest (37)
 * `Volume=high`: it_kiparlaforest (13)
+* `Volume=low`: it_kiparlaforest (140)
 
 ## Was18
 
@@ -9961,63 +10513,63 @@ Total 3078 values: sa_vedic (14246)
 
 ## XML
 
-Total 3116 values: en_gentle (1440), en_gum (11902), en_gumreddit (537)
+Total 3256 values: en_gentle (1444), en_gum (12640), en_gumreddit (537)
 
 * `XML=</add>`: en_gum (10)
 * `XML=</caption></figure>`: en_gum (1)
 * `XML=</cell>`: en_gum (5)
-* `XML=</date>`: en_gentle (7), en_gum (609), en_gumreddit (19)
-* `XML=</date></hi>`: en_gum (8)
+* `XML=</date>`: en_gentle (7), en_gum (643), en_gumreddit (19)
+* `XML=</date></hi>`: en_gum (9)
 * `XML=</date></l>`: en_gum (1)
 * `XML=</date></ref>`: en_gum (2)
 * `XML=</figure>`: en_gentle (2), en_gum (1)
-* `XML=</foreign>`: en_gum (19)
+* `XML=</foreign>`: en_gum (20)
 * `XML=</foreign></hi>`: en_gum (8)
+* `XML=</foreign></hi></cell>`: en_gum (1)
 * `XML=</foreign></hi></ref>`: en_gum (1)
+* `XML=</foreign></ref></cell>`: en_gum (1)
 * `XML=</gap>`: en_gum (1)
-* `XML=</hi>`: en_gentle (86), en_gum (512), en_gumreddit (4)
-* `XML=</hi></cell>`: en_gum (3)
+* `XML=</hi>`: en_gentle (86), en_gum (526), en_gumreddit (4)
+* `XML=</hi></cell>`: en_gum (2)
 * `XML=</hi></figure>`: en_gum (1)
 * `XML=</hi></ref>`: en_gum (35)
 * `XML=</hi></sp>`: en_gum (2)
-* `XML=</incident>`: en_gum (30)
+* `XML=</incident>`: en_gum (38)
 * `XML=</item>`: en_gum (7)
 * `XML=</item></list>`: en_gum (2)
 * `XML=</l>`: en_gum (22)
 * `XML=</measure>`: en_gum (11)
-* `XML=</q>`: en_gentle (16), en_gum (258), en_gumreddit (48)
+* `XML=</q>`: en_gentle (16), en_gum (288), en_gumreddit (48)
 * `XML=</q></hi>`: en_gum (1)
-* `XML=</quote>`: en_gentle (1), en_gum (224), en_gumreddit (23)
-* `XML=</ref>`: en_gentle (271), en_gum (1129), en_gumreddit (6)
-* `XML=</ref></cell>`: en_gum (3)
+* `XML=</quote>`: en_gentle (1), en_gum (271), en_gumreddit (23)
+* `XML=</ref>`: en_gentle (271), en_gum (1174), en_gumreddit (6)
+* `XML=</ref></cell>`: en_gum (2)
 * `XML=</ref></date>`: en_gum (2)
-* `XML=</ref></foreign>`: en_gum (4)
+* `XML=</ref></foreign>`: en_gum (5)
 * `XML=</ref></foreign></hi>`: en_gum (8)
-* `XML=</ref></hi>`: en_gentle (1), en_gum (51)
-* `XML=</ref></q>`: en_gum (5)
+* `XML=</ref></hi>`: en_gentle (1), en_gum (52)
+* `XML=</ref></q>`: en_gum (10)
+* `XML=</ref></quote>`: en_gum (1)
 * `XML=</sic>`: en_gentle (4), en_gum (123), en_gumreddit (8)
 * `XML=</sic></w>`: en_gum (1)
 * `XML=</sp>`: en_gum (119)
-* `XML=</time>`: en_gentle (2), en_gum (33)
+* `XML=</time>`: en_gentle (2), en_gum (35)
 * `XML=</time></w>`: en_gentle (2)
-* `XML=</w>`: en_gentle (114), en_gum (1319), en_gumreddit (71)
+* `XML=</w>`: en_gentle (114), en_gum (1445), en_gumreddit (71)
 * `XML=</w></date>`: en_gum (15)
 * `XML=</w></hi>`: en_gum (4), en_gumreddit (1)
 * `XML=</w></hi></ref>`: en_gum (1)
-* `XML=</w></ref>`: en_gentle (7), en_gum (36)
+* `XML=</w></ref>`: en_gentle (7), en_gum (38)
 * `XML=</w></ref></foreign>`: en_gum (1)
 * `XML=</w></ref></foreign></hi>`: en_gum (1)
 * `XML=</w></ref></hi>`: en_gum (2)
 * `XML=</w></sic>`: en_gum (10), en_gumreddit (1)
 * `XML=</w></sic></date>`: en_gum (2)
-* `XML=</w></sic></ref>`: en_gum (1)
-* `XML=</w></time>`: en_gum (1)
-* `XML=<add>`: en_gum (6)
 * …
 
 ## XmlId
 
-Total 327584 values: frm_profiterole (89807), fro_profiterole (237777)
+Total 350958 values: frm_profiterole (115835), fro_profiterole (235124)
 
 * `XmlId=w_151_00001`: fro_profiterole (1)
 * `XmlId=w_151_00002`: fro_profiterole (1)
@@ -10031,9 +10583,7 @@ Total 327584 values: frm_profiterole (89807), fro_profiterole (237777)
 * `XmlId=w_151_00010`: fro_profiterole (1)
 * `XmlId=w_151_00011`: fro_profiterole (1)
 * `XmlId=w_151_00012`: fro_profiterole (1)
-* `XmlId=w_151_00013`: fro_profiterole (1)
 * `XmlId=w_151_00014`: fro_profiterole (1)
-* `XmlId=w_151_00015`: fro_profiterole (1)
 * `XmlId=w_151_00016`: fro_profiterole (1)
 * `XmlId=w_151_00017`: fro_profiterole (1)
 * `XmlId=w_151_00018`: fro_profiterole (1)
@@ -10046,14 +10596,12 @@ Total 327584 values: frm_profiterole (89807), fro_profiterole (237777)
 * `XmlId=w_151_00025`: fro_profiterole (1)
 * `XmlId=w_151_00026`: fro_profiterole (1)
 * `XmlId=w_151_00027`: fro_profiterole (1)
-* `XmlId=w_151_00028`: fro_profiterole (1)
 * `XmlId=w_151_00029`: fro_profiterole (1)
 * `XmlId=w_151_00030`: fro_profiterole (1)
 * `XmlId=w_151_00031`: fro_profiterole (1)
 * `XmlId=w_151_00032`: fro_profiterole (1)
 * `XmlId=w_151_00033`: fro_profiterole (1)
 * `XmlId=w_151_00034`: fro_profiterole (1)
-* `XmlId=w_151_00035`: fro_profiterole (1)
 * `XmlId=w_151_00036`: fro_profiterole (1)
 * `XmlId=w_151_00037`: fro_profiterole (1)
 * `XmlId=w_151_00038`: fro_profiterole (1)
@@ -10069,6 +10617,10 @@ Total 327584 values: frm_profiterole (89807), fro_profiterole (237777)
 * `XmlId=w_151_00048`: fro_profiterole (1)
 * `XmlId=w_151_00049`: fro_profiterole (1)
 * `XmlId=w_151_00050`: fro_profiterole (1)
+* `XmlId=w_151_00051`: fro_profiterole (1)
+* `XmlId=w_151_00052`: fro_profiterole (1)
+* `XmlId=w_151_00053`: fro_profiterole (1)
+* `XmlId=w_151_00054`: fro_profiterole (1)
 * …
 
 ## Xtra
@@ -10079,9 +10631,8 @@ Total 1 values: he_htb (139)
 
 ## _
 
-Total 15526 values: ab_abnc (10578), akk_riao (17559), aqz_tudet (29), ar_padt (5), arr_tudet (2), be_hse (1), bm_crb (614), ceb_gja (2), ckt_hse (215), cpg_amgic (39), ctn_ctntb (3), cu_proiel (1103), de_lit (1), egy_ujaen (13), en_childes (794), en_lines (2), et_edt (1), fa_perdt (10), fa_seraji (1), fr_alts (1), fr_poitevindivital (83), frm_profiterole (2), fro_profiterole (1), ga_idt (3), ga_twittirish (4), gd_arcosg (1), gl_ctg (138503), gsw_divital (3), gun_dooley (193), gun_thomas (999), gwi_tuecl (9), ha_southernautogramm (4), hbo_ptnk (2827), hy_armtdp (79), hy_bsut (26), hyw_armtdp (136), is_icepahc (49984), is_modern (2078), it_kiparlaforest (32), it_postwita (4), jv_csui (3), ka_glc (2), ka_gnc (22542), kmr_kurmanji (7), kpv_ikdp (4), kpv_lattice (21), krl_kkpp (4), ky_ktmu (2), lb_luxbank (96), lzh_tuecl (1), mdf_jr (86), mt_mudt (1), myu_tudet (52), myv_jr (637), nds_lsdc (7), nhi_itml (2), oc_ttb (15), or_odtb (1), orv_birchbark (27261), orv_rnc (16907), orv_ruthenian (52), orv_torot (68130), ota_boun (8554), ps_sikaram (37), pt_bosque (1), pt_petrogold (2), ro_nonstandard (4), ro_rrt (1), ro_tuecl (1), ru_poetry (8522), ru_syntagrus (25518), ru_taiga (197091), sa_ufal (1), sah_yktdt (938), sjo_xdt (1), sms_giellagas (1), sq_tsa (1), sv_lines (2), ta_ttb (2), tl_trg (1), tpn_tudet (14), tr_boun (7), tt_nmctt (2), vi_tuecl (1), xav_xdt (1040), xpg_kul (3374), xum_ikuvina (6), yo_ytb (48)
+Total 15918 values: ab_abnc (13040), akk_riao (17559), apu_ufpa (2), aqz_tudet (29), ar_padt (5), arr_tudet (2), be_hse (1), bm_crb (614), ceb_gja (2), ckt_hse (215), cpg_amgic (48), ctn_ctntb (3), cu_proiel (1103), de_lit (1), egy_pc (9), en_childes (794), en_lines (2), et_edt (1), fa_perdt (10), fa_seraji (1), fr_alts (1), fr_poitevindivital (83), frm_profiterole (2), fro_profiterole (1), ga_idt (3), ga_twittirish (4), gd_arcosg (1), gl_ctg (138218), gsw_divital (3), gun_thomas (999), gwi_tuecl (9), hbo_ptnk (2827), he_postrab (12), hy_armtdp (79), hy_bsut (26), hyw_armtdp (136), is_icepahc (49984), is_modern (2078), it_kiparlaforest (27), it_postwita (4), jv_csui (3), ka_glc (2), ka_gnc (23420), kmr_kurmanji (7), koi_uh (3), kpv_ikdp (4), kpv_lattice (31), krl_kkpp (4), ky_ktmu (2), lb_luxbank (96), lzh_tuecl (1), mdf_jr (99), mt_mudt (1), myu_tudet (52), myv_jr (641), nds_lsdc (7), nhi_mesotree (2), oc_ttb (15), oge_glc (2), orv_birchbark (27261), orv_rnc (16907), orv_ruthenian (52), orv_torot (68130), ota_boun (8554), ps_sikaram (72), pt_bosque (1), pt_petrogold (2), ro_nonstandard (4), ro_rrt (1), ro_tuecl (1), ru_poetry (8522), ru_syntagrus (25518), ru_taiga (197091), sa_ufal (1), sah_yktdt (938), sjo_xdt (1), sms_giellagas (10), sq_tsa (1), sv_lines (2), ta_ttb (2), tl_trg (1), tpn_tudet (14), tr_boun (7), tt_nmctt (2), vi_tuecl (1), xav_xdt (1040), xum_ikuvina (6), yo_ytb (48)
 
-* `_=`: it_kiparlaforest (1)
 * `_=!`: ota_boun (52)
 * `_="`: orv_birchbark (12), ota_boun (8)
 * `_=" ساعت "`: ota_boun (1)
@@ -10090,23 +10641,26 @@ Total 15526 values: ab_abnc (10578), akk_riao (17559), aqz_tudet (29), ar_padt (
 * `_=#Compare_AMGiC_005_but here_following_a_PrPhr_not_an_NP`: cpg_amgic (1)
 * `_=#Compare_Turkish:değildir`: cpg_amgic (1)
 * `_=#Double_cliting`: cpg_amgic (1)
+* `_=#Durative?`: cpg_amgic (1)
 * `_=#Emphatic Possessive Pronoun, compare < MG ο δικός/η δική μου but in Silliot it is indeclinable`: cpg_amgic (1)
 * `_=#Final_clause_here`: cpg_amgic (1)
 * `_=#Locative_meaning`: cpg_amgic (1)
 * `_=#MG_:τάδε?_(cf._Kostakis_1968_p196)_indeclinable`: cpg_amgic (1)
 * `_=#Meaning not clear, translated as "torture" (Noun)`: cpg_amgic (1)
 * `_=#No LC-induced morphosyntactic phenomenon but interesting postposition of the adjective`: cpg_amgic (1)
+* `_=#Nominalization instead of a converb?`: cpg_amgic (1)
 * `_=#Noun_used_in_adverbial_sense_as_in_MG_(το_κάνει_ψέματα)`: cpg_amgic (1)
-* `_=#Turkish_fikirsiz_derivative_morph_copied?`: cpg_amgic (1)
 * `_=#Variation_in_phonetic_transcription`: cpg_amgic (1)
 * `_=#adverbial construction possible in MG but with a PrPhr/here_exclusively_"left_branching"_(postposition?)`: cpg_amgic (1)
 * `_=#cf. Dawkins 1916: 652_<to_étsi?`: cpg_amgic (1)
+* `_=#cf. Dawkins 1916: 94`: cpg_amgic (1)
 * `_=#cf. discussion in Dawkins 1916: 58, not attested in texts however.`: cpg_amgic (1)
 * `_=#cf. xets above`: cpg_amgic (1)
 * `_=#existential_meaning_"there_is"`: cpg_amgic (1)
 * `_=#existential_meaning_"there_was"`: cpg_amgic (1)
 * `_=#form probably in singular`: cpg_amgic (1)
 * `_=#indeclinable`: cpg_amgic (1)
+* `_=#na is probably a future particle here`: cpg_amgic (1)
 * `_=#no genitive case ending`: cpg_amgic (1)
 * `_=#no special plural form, cf. Kostakis1968:59 (or < çok para)`: cpg_amgic (1)
 * `_=#non_embedded`: cpg_amgic (1)
@@ -10119,9 +10673,7 @@ Total 15526 values: ab_abnc (10578), akk_riao (17559), aqz_tudet (29), ar_padt (
 * `_=(anter:vakaze)`: xum_ikuvina (1)
 * `_=(iinuk)`: xum_ikuvina (1)
 * `_=(д)оно`: orv_birchbark (1)
-* `_=(𓅨:𓂋:𓏏)`: egy_ujaen (1)
-* `_=(𓌒:𓌒:𓌒)`: egy_ujaen (2)
-* `_=(𓐍:𓆩)𓄿𓈘`: egy_ujaen (1)
+* `_=(𓌳:𓈎𓏏)(𓌳:𓈎𓏏)𔃎`: egy_pc (1)
 * `_=****`: it_postwita (3)
 * `_=****=`: it_postwita (1)
 * `_=,`: ota_boun (508)
@@ -10152,11 +10704,11 @@ Total 3 values: et_ewt (3)
 
 Total 7 values: ota_dudu (7)
 
-* `_DerivedFrom=intiḳâl`: ota_dudu (1)
+* `_DerivedFrom=intiḳāl`: ota_dudu (1)
 * `_DerivedFrom=left`: ota_dudu (1)
-* `_DerivedFrom=meşşâʾî`: ota_dudu (1)
+* `_DerivedFrom=meşşāʾī`: ota_dudu (1)
 * `_DerivedFrom=ot`: ota_dudu (1)
-* `_DerivedFrom=vʿâb`: ota_dudu (1)
+* `_DerivedFrom=vʿāb`: ota_dudu (1)
 * `_DerivedFrom=ḳadr`: ota_dudu (1)
 * `_DerivedFrom=ṣınġun`: ota_dudu (1)
 
@@ -10319,12 +10871,6 @@ Total 2 values: orv_birchbark (2)
 Total 1 values: gun_thomas (1)
 
 * `all-=DIM`: gun_thomas (1)
-
-## almost-
-
-Total 1 values: gun_dooley (1)
-
-* `almost-=DIM`: gun_dooley (1)
 
 ## alt
 
@@ -10492,9 +11038,9 @@ Total 1 values: la_ittb (25)
 
 ## candidate
 
-Total 1 values: fi_ftb (863), fi_ood (91)
+Total 1 values: fi_ood (91)
 
-* `candidate=nsubj:exist`: fi_ftb (863), fi_ood (91)
+* `candidate=nsubj:exist`: fi_ood (91)
 
 ## check
 
@@ -10597,9 +11143,9 @@ Total 1 values: fro_altm (11)
 
 ## correct
 
-Total 1 values: nhi_itml (1)
+Total 1 values: nhi_mesotree (1)
 
-* `correct=tlen(?)`: nhi_itml (1)
+* `correct=tlen(?)`: nhi_mesotree (1)
 
 ## correct_wf
 
@@ -11026,18 +11572,6 @@ Total 15 values: fr_alts (43832), frm_altm (7082)
 * `gold_pos=SCONJ`: fr_alts (1817), frm_altm (250)
 * `gold_pos=VERB`: fr_alts (5751), frm_altm (882)
 
-## hared
-
-Total 1 values: fr_gsd (1)
-
-* `hared=No`: fr_gsd (1)
-
-## iero
-
-Total 1 values: egy_ujaen (1)
-
-* `iero=𓇾`: egy_ujaen (1)
-
 ## igible
 
 Total 1 values: it_kiparlaforest (3)
@@ -11379,7 +11913,7 @@ Total 4 values: tr_boun (132)
 Total 9 values: el_cretan (113), el_gud (60), el_messinian (2)
 
 * `mwe=1`: el_cretan (77), el_gud (36), el_messinian (1)
-* `mwe=1: VI`: el_gud (1)
+* `mwe=1: VID`: el_gud (1)
 * `mwe=1:LVC`: el_cretan (1), el_gud (2)
 * `mwe=1:LVC.full`: el_gud (1)
 * `mwe=1:VID`: el_cretan (33), el_gud (8), el_messinian (1)
@@ -11565,10 +12099,10 @@ Total 1 values: tr_boun (2)
 
 ## nullcop
 
-Total 2 values: ota_dudu (7), tr_boun (189)
+Total 2 values: ota_dudu (6), tr_boun (189)
 
 * `nullcop=3p`: tr_boun (14)
-* `nullcop=3s`: ota_dudu (7), tr_boun (175)
+* `nullcop=3s`: ota_dudu (6), tr_boun (175)
 
 ## number
 
@@ -11950,23 +12484,11 @@ Total 1 values: sl_sst (1799)
 
 * `sentence_ending=True`: sl_sst (1799)
 
-## sheep-
-
-Total 1 values: gun_dooley (1)
-
-* `sheep-=DIM`: gun_dooley (1)
-
 ## small-
 
 Total 1 values: gun_thomas (2)
 
 * `small-=DIM`: gun_thomas (2)
-
-## some.time-
-
-Total 1 values: gun_dooley (1)
-
-* `some.time-=DIM`: gun_dooley (1)
 
 ## srl_head
 
@@ -12323,13 +12845,17 @@ Total 1 values: orv_birchbark (11)
 
 ## wordform
 
-Total 5446 values: arh_chibergis (65), bej_autogramm (69), fr_alts (1242), fr_gsd (19585), fr_parisstories (347), fr_pud (1590), fr_sequoia (13), gya_autogramm (54), ha_northernautogramm (144), ha_southernautogramm (953), ha_westernautogramm (1240), ht_adolphe (6), ht_autogramm (8), nhi_itml (671), pay_chibergis (1212), qaf_arabizi (835), sab_chibergis (17), say_autogramm (2124)
+Total 5356 values: arh_chibergis (65), bej_autogramm (69), fr_alts (1242), fr_gsd (19590), fr_parisstories (347), fr_pud (1262), fr_sequoia (13), gya_autogramm (54), ha_easternautogramm (334), ha_northernautogramm (274), ha_southernautogramm (952), ha_westernautogramm (10), ht_adolphe (6), ht_autogramm (8), nhi_mesotree (672), pay_chibergis (1212), qaf_arabizi (835), sab_chibergis (17), say_autogramm (2320)
 
 * `wordform=#ngap-íː`: say_autogramm (1)
 * `wordform=#ngâp-íː`: say_autogramm (1)
 * `wordform=#ɗû`: say_autogramm (1)
 * `wordform=#ʧôp-íː`: say_autogramm (1)
 * `wordform=&//`: ha_southernautogramm (2)
+* `wordform='`: ha_easternautogramm (11)
+* `wordform='BBC`: ha_easternautogramm (1)
+* `wordform='Bizerte`: ha_easternautogramm (1)
+* `wordform='Patronage`: ha_easternautogramm (1)
 * `wordform=(les`: qaf_arabizi (1)
 * `wordform=*Maláːri-íː`: say_autogramm (1)
 * `wordform=*bullú-íː`: say_autogramm (1)
@@ -12371,10 +12897,6 @@ Total 5446 values: arh_chibergis (65), bej_autogramm (69), fr_alts (1242), fr_gs
 * `wordform=*vìː-íː`: say_autogramm (1)
 * `wordform=*vòt-íː`: say_autogramm (1)
 * `wordform=*wul-íː`: say_autogramm (1)
-* `wordform=*wûl-íː`: say_autogramm (1)
-* `wordform=*wûm-íː`: say_autogramm (1)
-* `wordform=*ye-íː`: say_autogramm (1)
-* `wordform=*yel-íː`: say_autogramm (1)
 * …
 
 ## ̣Translit
