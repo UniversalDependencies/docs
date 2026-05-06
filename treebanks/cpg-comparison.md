@@ -27,7 +27,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 36 sentences, 450 tokens and 451 syntactic words.</li>
+      <li>This corpus contains 70 sentences, 817 tokens and 820 syntactic words.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -39,7 +39,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 83 tokens (18%) that are not followed by a space.</li>
+      <li>This corpus contains 147 tokens (18%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -63,7 +63,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 15 types of words that contain both letters and punctuation. Examples: 'ne, apés', m', s', t'emélia, 'ni, Ksevasám', dilimléisam', kiriós', op', put', yüsártsisam', és'kam', és'kin, ípsam'</li>
+      <li>This corpus contains 20 types of words that contain both letters and punctuation. Examples: c', m', 'ne, apés', s', t'emélia, 'ni, 'ton, 'tun, (é)rχete, Ksevasám', as', dilimléisam', kiriós', op', put', yüsártsisam', és'kam', és'kin, ípsam'</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -75,8 +75,8 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 1 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 1 types of multi-word tokens. Examples: stu.</li>
+      <li>This corpus contains 3 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 3 types of multi-word tokens. Examples: domuškam, stu, tórχete.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -93,8 +93,8 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
-      <li>This corpus does not use the following tags: INTJ, SYM</li>
+      <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: SYM</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -110,7 +110,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 3 word types tagged as particles (PART): mi, re, ren</li>
+      <li>This corpus contains 12 word types tagged as particles (PART): Ep, as, de, den, dom, dén, dε, mi, na, re, ren, či</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -122,7 +122,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 9 lemmas tagged as pronouns (PRON): (e)tútus, (e)γó, _, kínus, ne, ra, ro, su, táre</li>
+      <li>This corpus contains 20 lemmas tagged as pronouns (PRON): (e)tútus, (e)γó, Ešís, _, cínus, do, ekínos, emís, esí, eγó, kaneís, ne, o, ra, ro, su, to, táre, óči, óčis</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -134,7 +134,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 8 lemmas tagged as determiners (DET): (o), (ο), tiás, tu, téna, xer, énas, ís</li>
+      <li>This corpus contains 10 lemmas tagged as determiners (DET): (o), (ο), Etó, o, tiás, tu, téna, énas, ís, χer</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -146,6 +146,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
+      <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: o</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -195,8 +196,8 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: 'ne, ne, éni, 'ni, ísu</li>
-          <li>VERB: laí, qazánǰisi, éršiti, éxu, írtis, Ksevasám', Rotá, baγərtzísi, báris, dilimléisam'</li>
+          <li>AUX: nde, ne, 'ne, éni, 'ni, 'ton, 'tun, se, índe, íse</li>
+          <li>VERB: laí, leχ, eksévin, gréviz, kásun, qazánǰisi, sikoθún, éršiti, éχu, írten</li>
         </ul>
         </li>
       </ul>
@@ -267,9 +268,9 @@ udver: '2'
           <ul>
             <li>ADJ: kalí, meγáli, yerasméni</li>
             <li>DET: čin, či, tes</li>
-            <li>NOUN: kóri, enéka, mána, enékan, góri, iméra, iréan, klišás, ksíla, líres</li>
+            <li>NOUN: kóri, Dunyá, enéka, mána, Güzelidyú, Güzelí, ciriás, cirjás, enékan, góri</li>
             <li>NUM: Tris, triz</li>
-            <li>PRON: či, čis, ǰis, ǰi</li>
+            <li>PRON: či, čis, ǰis, ekín, zin, zis, ǰi</li>
             <li>VERB-Part: kimizméni</li>
           </ul>
         </li>
@@ -296,9 +297,9 @@ udver: '2'
         <li>Masc
           <ul>
             <li>ADJ: A, fikirsúzis</li>
-            <li>DET: tu, tus</li>
-            <li>NOUN: pará, staxtiǰís, vaván, Aγás, Mándis, Qujumǰís, Vavás, gjavúriri, kefálin, kukuniós</li>
-            <li>PRON: du, tútus, tu, kínus, su, tus, tútunu</li>
+            <li>DET: tu, to, tus, éna</li>
+            <li>NOUN: pará, patisáχu, staχtiǰís, vaván, Aγás, Mándis, Qujumǰís, Vavás, astenár, gjavúriri</li>
+            <li>PRON: du, tútus, tu, Kaneís, cínus, do, su, tus, tútunu</li>
             <li>PROPN: Yóryis</li>
           </ul>
         </li>
@@ -324,10 +325,10 @@ udver: '2'
       <ul>
         <li>Neut
           <ul>
-            <li>ADJ: polá, bašká, kaló, xošá, úla</li>
-            <li>DET: ta, tu, t, éna, da, tiyá, téna, čin</li>
-            <li>NOUN: pará, psomí, t'emélia, Psémata, alísia, kalaǰí, korítsi, küréi, limóri, ombrín</li>
-            <li>PRON: da, ta, dha, Τúta</li>
+            <li>ADJ: mikró, polá, bašká, kaló, mávra, yavanúδia, ála, áspra, úla, χošá</li>
+            <li>DET: to, éna, ta, tu, so, sa, t, Etó, da, tiyá</li>
+            <li>NOUN: peδí, pará, psomí, dergizmú, kenér, neró, spíči, t'emélia, Psémata, alísia</li>
+            <li>PRON: to, da, ta, do, Τúta, δa</li>
           </ul>
         </li>
       </ul>
@@ -372,12 +373,13 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>ADJ: polá, úla</li>
-            <li>DET: ta, tes, tus, čin</li>
-            <li>NOUN: pará, Psémata, alísia, gjavúriri, ksíla, líres, méres, rúxa</li>
+            <li>ADJ: polá, mávra, yavanúδia, ála, áspra, úla</li>
+            <li>AUX-Fin: nde, índe</li>
+            <li>DET: ta, sa, tes, tus, čin</li>
+            <li>NOUN: pará, Psémata, alísia, alóγata, gjavúriri, güzelmá, ksíla, líres, maχéria, méres</li>
             <li>NUM: Tris, triz</li>
-            <li>PRON: mas, tun, tus, Τúta</li>
-            <li>VERB-Fin: Ksevasám', dilimléisam', ipúmi, kasinonǰískaši, yüsártsisam', és'kam', ípsam'</li>
+            <li>PRON: emís, mas, sas, Ešís, más, tun, tus, Τúta</li>
+            <li>VERB-Fin: kásun, sikoθún, Ksevasám', dilimléisam', drúte, fam, férum, ipúmi, istedízete, kasinonǰískaši</li>
           </ul>
         </li>
       </ul>
@@ -403,13 +405,14 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: ko, A, bašká, fikirsúzis, kalí, kaló, meγáli, xošá, yerasméni</li>
-            <li>AUX-Fin: 'ne, ne, éni, 'ni, ísu</li>
-            <li>DET: tu, čin, t, éna, či, da, ta, tiyá, téna</li>
-            <li>NOUN: kóri, pará, psomí, enéka, mána, staxtiǰís, t'emélia, vaván, Aγás, Mándis</li>
-            <li>PRON: du, su, tu, da, mu, či, ta, tútus, čis, s'</li>
+            <li>ADJ: ko, mikró, A, bašká, fikirsúzis, kalí, kaló, meγáli, yerasméni, χošá</li>
+            <li>AUX-Fin: ne, 'ne, éni, 'ni, 'ton, 'tun, se, íse, ísu</li>
+            <li>DET: to, tu, éna, so, čin, t, či, Etó, da, ta</li>
+            <li>NOUN: peδí, kóri, pará, psomí, Dunyá, dergizmú, enéka, kenér, mána, neró</li>
+            <li>PRON: to, du, su, tu, da, mu, či, do, ta, tútus</li>
             <li>PROPN: Yóryis</li>
-            <li>VERB-Fin: laí, qazánǰisi, éršiti, éxu, írtis, Rotá, baγərtzísi, báris, düšünǰísu, eleísis</li>
+            <li>VERB: laí, leχ, eksévin, gréviz, qazánǰisi, éršiti, éχu, írten, írtis, (é)rχete</li>
+            <li>VERB-Fin: laí, leχ, eksévin, gréviz, qazánǰisi, éršiti, éχu, írten, írtis, (é)rχete</li>
             <li>VERB-Part: kimizméni</li>
           </ul>
         </li>
@@ -450,11 +453,11 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>ADJ: polá, bašká, úla</li>
-            <li>DET: tu, ta, čin, t, či, da, tes, tiyá, tus, téna</li>
-            <li>NOUN: pará, psomí, vaván, Psémata, alísia, enéka, enékan, gjavúriri, góri, iméra</li>
+            <li>ADJ: polá, bašká, mikró, ála, úla</li>
+            <li>DET: to, tu, éna, ta, čin, so, sa, t, či, da</li>
+            <li>NOUN: pará, peδí, psomí, kenér, spíči, vaván, Psémata, alísia, alóγata, cüréi</li>
             <li>NUM: Tris, triz</li>
-            <li>PRON: da, ta, či, dha, m, s', su, séna, tun, tus</li>
+            <li>PRON: to, da, do, ta, sas, se, či, m, me, s'</li>
             <li>VERB-Part: kimizméni</li>
           </ul>
         </li>
@@ -480,9 +483,9 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>DET: tu</li>
-            <li>NOUN: klišás, zuliás</li>
-            <li>PRON: du, tu, mu, su, čis, mas, ǰis, s', tútunu, či</li>
+            <li>DET: tu, so</li>
+            <li>NOUN: dergizmú, patisáχu, Dunyá, Güzelidyú, cirjás, insanjú, klišás, korízju, zuliás, ölzüjü</li>
+            <li>PRON: du, tu, mu, su, čis, mas, ǰis, m, m', s'</li>
           </ul>
         </li>
       </ul>
@@ -506,10 +509,10 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>ADJ: kalí, kaló, xošá, yerasméni</li>
-            <li>DET: éna</li>
-            <li>NOUN: kóri, staxtiǰís, t'emélia, Aγás, Mándis, Qujumǰís, Vavás, enéka, korítsi, kukuniós</li>
-            <li>PRON: tútus, ši, kínus, su, či, Τúta, γo</li>
+            <li>ADJ: kalí, kaló, mikró, mávra, yavanúδia, yerasméni, áspra, χošá</li>
+            <li>DET: to, éna, ta, Etó</li>
+            <li>NOUN: kóri, peδí, staχtiǰís, t'emélia, Aγás, Dunyá, Güzelí, Mándis, Qujumǰís, Vavás</li>
+            <li>PRON: tútus, emís, ši, Ešís, Kaneís, cínus, ekín, esí, eγó, su</li>
           </ul>
         </li>
       </ul>
@@ -534,7 +537,7 @@ udver: '2'
         <li>Voc
           <ul>
             <li>ADJ: A, fikirsúzis</li>
-            <li>NOUN: mána, ádras, ǰaním</li>
+            <li>NOUN: mána, Peδí, javrú, teté, ádras, ǰaním</li>
             <li>PROPN: Yóryis</li>
           </ul>
         </li>
@@ -579,7 +582,7 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>DET: tu, ta, čin, t, či, da, tes, tus</li>
+            <li>DET: to, tu, ta, so, čin, sa, t, či, da, tes</li>
           </ul>
         </li>
       </ul>
@@ -599,7 +602,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>DET: éna, téna</li>
+            <li>DET: éna, téna, tóna</li>
           </ul>
         </li>
       </ul>
@@ -645,7 +648,7 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>PART: re</li>
+            <li>PART: den, de, dom, dén, dε, re</li>
           </ul>
         </li>
       </ul>
@@ -687,8 +690,8 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>AUX-Fin: éni, 'ne, 'ni, ne</li>
-            <li>VERB-Fin: laí, éxu, Rotá, eršinónǰiska, eršístiniz, filáto, kasinonǰískaši, kimáti, kupaná, léi</li>
+            <li>AUX-Fin: éni, 'ne, 'ni, 'ton, 'tun, ne, se, íse</li>
+            <li>VERB-Fin: laí, gréviz, leχ, éχu, (é)rχete, Rotá, cimáse, drúte, eršinónǰiska, eršístiniz</li>
           </ul>
         </li>
       </ul>
@@ -709,7 +712,8 @@ udver: '2'
       <ul>
         <li>Perf
           <ul>
-            <li>VERB-Fin: qazánǰisi, írtis, Ksevasám', baγərtzísi, báris, dilimléisam', düšünǰísu, eleísis, forósu, fáγu</li>
+            <li>VERB: eksévin, kásun, qazánǰisi, sikoθún, írten, írtis, Ksevasám', Ránsen, baγərtzísi, báris</li>
+            <li>VERB-Fin: eksévin, kásun, qazánǰisi, sikoθún, írten, írtis, Ksevasám', Ránsen, baγərtzísi, báris</li>
             <li>VERB-Part: kimizméni</li>
           </ul>
         </li>
@@ -744,7 +748,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>VERB-Fin: pe, skáma, ápar</li>
+            <li>VERB-Fin: pe, pike, skáma, ápar</li>
           </ul>
         </li>
       </ul>
@@ -764,8 +768,9 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: 'ne, ne, éni, 'ni, ísu</li>
-            <li>VERB-Fin: laí, qazánǰisi, éršiti, éxu, írtis, Ksevasám', Rotá, dilimléisam', eleísis, eršinónǰiska</li>
+            <li>AUX-Fin: nde, ne, 'ne, éni, 'ni, 'ton, 'tun, se, índe, íse</li>
+            <li>VERB: laí, leχ, eksévin, gréviz, qazánǰisi, éršiti, éχu, írten, írtis, (é)rχete</li>
+            <li>VERB-Fin: laí, leχ, eksévin, gréviz, qazánǰisi, éršiti, éχu, írten, írtis, (é)rχete</li>
           </ul>
         </li>
       </ul>
@@ -787,7 +792,8 @@ udver: '2'
       <ul>
         <li>Sub
           <ul>
-            <li>VERB-Fin: baγərtzísi, báris, düšünǰísu, forósu, fáγu, galatzépši, ipúmi, kiriós', pis, píši</li>
+            <li>VERB: kásun, sikoθún, baγərtzísi, báris, düšünǰísu, erzí, fam, forósu, fáγu, galatzépši</li>
+            <li>VERB-Fin: kásun, sikoθún, baγərtzísi, báris, düšünǰísu, erzí, fam, forósu, fáγu, galatzépši</li>
           </ul>
         </li>
       </ul>
@@ -827,7 +833,9 @@ udver: '2'
       <ul>
         <li>Past
           <ul>
-            <li>VERB-Fin: qazánǰisi, írtis, Ksevasám', dilimléisam', eršinónǰiska, kasinonǰískaši, píki, skótisa, skótisi, xásis</li>
+            <li>AUX-Fin: 'ton, 'tun</li>
+            <li>VERB: eksévin, qazánǰisi, írten, írtis, Ksevasám', Ránsen, dilimléisam', déken, emóšh, eršinónǰiska</li>
+            <li>VERB-Fin: eksévin, qazánǰisi, írten, írtis, Ksevasám', Ránsen, dilimléisam', déken, eršinónǰiska, estáθin</li>
           </ul>
         </li>
       </ul>
@@ -849,8 +857,9 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>AUX-Fin: 'ne, ne, éni, 'ni, ísu</li>
-            <li>VERB-Fin: laí, éršiti, éxu, Rotá, düšünǰísu, eršístiniz, filáto, forósu, fáγu, ipúmi</li>
+            <li>AUX-Fin: nde, ne, 'ne, éni, 'ni, se, índe, íse, ísu</li>
+            <li>VERB: laí, gréviz, leχ, éršiti, éχu, (é)rχete, Rotá, cimáse, drúte, düšünǰísu</li>
+            <li>VERB-Fin: laí, gréviz, leχ, éršiti, éχu, (é)rχete, Rotá, cimáse, drúte, düšünǰísu</li>
           </ul>
         </li>
       </ul>
@@ -883,7 +892,7 @@ udver: '2'
       <ul>
         <li>Act
           <ul>
-            <li>VERB-Fin: laí, qazánǰisi, éxu, Ksevasám', Rotá, baγərtzísi, báris, dilimléisam', düšünǰísu, eleísis</li>
+            <li>VERB-Fin: laí, qazánǰisi, éχu, Ksevasám', Rotá, baγərtzísi, báris, dilimléisam', düšünǰísu, eleísis</li>
           </ul>
         </li>
       </ul>
@@ -906,7 +915,7 @@ udver: '2'
         <li>Pass
           <ul>
             <li>AUX-Fin: 'ne, 'ni, éni</li>
-            <li>VERB-Fin: éršiti, írtis, eršinónǰiska, eršístiniz, kasinonǰískaši, kimáti, zirmónisin</li>
+            <li>VERB-Fin: sikoθún, éršiti, írtis, cimáse, eršinónǰiska, eršístiniz, estáθin, kasinonǰískaši, kimáti, pénišken</li>
             <li>VERB-Part: kimizméni</li>
           </ul>
         </li>
@@ -955,7 +964,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: tu, ta, čin, t, éna, či, da, tes, tus, téna</li>
+            <li>DET: to, tu, éna, ta, so, čin, sa, t, či, da</li>
           </ul>
         </li>
       </ul>
@@ -976,7 +985,8 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>PRON: tútus, kínus, tútunu, Τúta</li>
+            <li>DET: Etó</li>
+            <li>PRON: ro, tútus, ra, cínus, ekín, tútunu, Τúta</li>
           </ul>
         </li>
       </ul>
@@ -997,7 +1007,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>PRON: táre</li>
+            <li>DET: χer</li>
+            <li>PRON: táre, Kaneís</li>
           </ul>
         </li>
       </ul>
@@ -1015,7 +1026,14 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Int
+          <ul>
+            <li>DET: tiyá</li>
+            <li>PRON: ne</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1032,7 +1050,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: du, su, tu, da, mu, či, ta, čis, mas, s'</li>
+            <li>PRON: to, du, su, tu, da, mu, či, do, ta, čis</li>
           </ul>
         </li>
       </ul>
@@ -1049,7 +1067,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Rel
+          <ul>
+            <li>PRON: to, óči, óčis</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1078,7 +1102,7 @@ udver: '2'
       <ul>
         <li>Card
           <ul>
-            <li>NUM: Tris, triz</li>
+            <li>NUM: seránda, enyá, tría, δyo, Tris, triz</li>
           </ul>
         </li>
       </ul>
@@ -1124,7 +1148,7 @@ udver: '2'
       <ul>
         <li>Yes
           <ul>
-            <li>PRON: du, mu, su, čis, mas, tu, ǰis</li>
+            <li>PRON: du, mu, su, čis, mas, tu, ǰis, m, m', más</li>
           </ul>
         </li>
       </ul>
@@ -1164,8 +1188,9 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>PRON: mu, mas, m, ši, γo</li>
-            <li>VERB-Fin: éxu, Ksevasám', dilimléisam', düšünǰísu, filáto, forósu, fáγu, ipúmi, páru, skótisa</li>
+            <li>PRON: mu, emís, m, mas, eγó, m', me, más, ši, γo</li>
+            <li>VERB: éχu, Ksevasám', dilimléisam', düšünǰísu, emóšh, fam, filáto, forósu, fáγu, férum</li>
+            <li>VERB-Fin: éχu, Ksevasám', dilimléisam', düšünǰísu, fam, filáto, forósu, fáγu, férum, ipúmi</li>
           </ul>
         </li>
       </ul>
@@ -1186,9 +1211,10 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>AUX-Fin: ísu</li>
-            <li>PRON: su, s', séna, ši</li>
-            <li>VERB-Fin: báris, eleísis, pe, pis, skáma, sorí, séliz, tránis, vlépis, xásis</li>
+            <li>AUX-Fin: se, íse, ísu</li>
+            <li>PRON: su, s', sas, se, Ešís, esí, séna, ši</li>
+            <li>VERB: gréviz, báris, cimáse, drúte, eleísis, istedízete, klóθete, ksévreté, les, pe</li>
+            <li>VERB-Fin: gréviz, báris, cimáse, drúte, eleísis, istedízete, klóθete, ksévreté, les, pe</li>
           </ul>
         </li>
       </ul>
@@ -1209,9 +1235,9 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>AUX-Fin: 'ne, ne, éni, 'ni</li>
-            <li>PRON: du, tu, da, či, ta, tútus, čis, ǰis, dha, kínus</li>
-            <li>VERB-Fin: laí, qazánǰisi, éršiti, Rotá, baγərtzísi, eršinónǰiska, eršístiniz, galatzépši, kasinonǰískaši, kimáti</li>
+            <li>AUX-Fin: nde, ne, 'ne, éni, 'ni, 'ton, 'tun, índe</li>
+            <li>PRON: to, du, tu, da, či, do, ta, tútus, čis, ǰis</li>
+            <li>VERB-Fin: laí, leχ, eksévin, kásun, qazánǰisi, sikoθún, éršiti, írten, (é)rχete, Rotá</li>
           </ul>
         </li>
       </ul>
@@ -1268,7 +1294,7 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>PRON: du, tu, da, mu, su, či, ta, čis, dha, m</li>
+                <li>PRON: du, tu, da, mu, su, či, do, m, ta, to</li>
               </ul>
             </li>
           </ul>
@@ -1357,8 +1383,11 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB--NOUN-Nom (5)</li>
-            <li>VERB-Fin--NOUN-Nom (12)</li>
-            <li>VERB-Fin--PRON-Nom (7)</li>
+            <li>VERB--PRON (1)</li>
+            <li>VERB-Fin--NOUN-Acc (1)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(kadár) (1)</li>
+            <li>VERB-Fin--NOUN-Nom (22)</li>
+            <li>VERB-Fin--PRON-Nom (14)</li>
           </ul>
         </li>
       </ul>
@@ -1385,13 +1414,15 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB--NOUN (1)</li>
-            <li>VERB--NOUN-Acc (3)</li>
+            <li>VERB--NOUN-Acc (4)</li>
             <li>VERB--NOUN-Nom (1)</li>
             <li>VERB--PRON (1)</li>
-            <li>VERB--PRON-Acc (1)</li>
+            <li>VERB--PRON-Acc (2)</li>
             <li>VERB-Fin--NOUN (1)</li>
-            <li>VERB-Fin--NOUN-Acc (23)</li>
-            <li>VERB-Fin--PRON-Acc (12)</li>
+            <li>VERB-Fin--NOUN-Acc (33)</li>
+            <li>VERB-Fin--NOUN-Nom (1)</li>
+            <li>VERB-Fin--PRON (1)</li>
+            <li>VERB-Fin--PRON-Acc (21)</li>
             <li>VERB-Fin--PRON-Gen (1)</li>
           </ul>
         </li>
@@ -1420,9 +1451,10 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
+            <li>VERB--PRON-Acc (1)</li>
             <li>VERB-Fin--NOUN-Acc (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(s(e)) (1)</li>
-            <li>VERB-Fin--PRON-Acc (1)</li>
+            <li>VERB-Fin--PRON-Acc (2)</li>
             <li>VERB-Fin--PRON-Gen (3)</li>
           </ul>
         </li>
@@ -1471,8 +1503,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 2 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a></li>
-      <li>The following 11 relation types are not used in this corpus at all: <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+      <li>This corpus uses 4 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>aux:q</a>, <a>det:poss</a></li>
+      <li>The following 9 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">

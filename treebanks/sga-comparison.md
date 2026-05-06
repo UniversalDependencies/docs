@@ -375,7 +375,7 @@ udver: '2'
             <li>DET: in, a, ind, cach, inna, inḍt, na, nd, sin, ᚔᚅ</li>
             <li>NOUN: ᚉᚑᚉᚐᚏᚈ, dia, dias, ingen, ainm, airdircus, aite, aithne, anmmain, bendacht</li>
             <li>PRON: m, a, mo, do, mei, mm, siu, som, sse, sv</li>
-            <li>PROPN: brigtae, choirbbre, dongus, donngvs, ferguso, finguine, lothlind, maddoc, mail, máel</li>
+            <li>PROPN: brigtae, choirbbre, dongus, donngvs, ferguso, finguine, lothlind, maddoc, máel, máelecán</li>
             <li>SCONJ: nach</li>
             <li>VERB: chain, Gaib, braigim, cél, cóima, epur, farcai, fuasna, giuil, llega</li>
           </ul>
@@ -520,8 +520,8 @@ udver: '2'
       <ul>
         <li>Voc
           <ul>
-            <li>NOUN: ingen</li>
-            <li>PROPN: mail, máelecán</li>
+            <li>NOUN: ingen, mail</li>
+            <li>PROPN: máelecán</li>
           </ul>
         </li>
       </ul>

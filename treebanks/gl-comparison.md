@@ -33,7 +33,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 3993 sentences, 126011 tokens and 138837 syntactic words.</li>
+      <li>This corpus contains 3993 sentences, 126011 tokens and 139122 syntactic words.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -101,8 +101,8 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 12750 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
-      <li>There are 1211 types of multi-word tokens. Examples: do, da, no, dos, na, das, ao, á, nos, ó, polo, nas, co, pola, dun, coa, dunha, neste, aos, ós, nun, deste, desta, nunha, polos, cos, cunha, nesta, coas, cun, termos, polas, tódolos, destes, destas, nestes, deles, pódese, noutros, tódalas, delas, doutros, doutras, trátase, del, nese, débese, modifícase, nalgúns, desa.</li>
+      <li>This corpus contains 13035 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
+      <li>There are 1211 types of multi-word tokens. Examples: do, da, no, dos, na, das, á, ao, nos, ó, polo, nas, co, pola, ás, dun, coa, dunha, neste, aos, ós, nun, deste, desta, nunha, polos, cos, cunha, nesta, coas, cun, termos, polas, tódolos, destes, destas, nestes, deles, pódese, noutros, tódalas, delas, doutros, doutras, trátase, del, nese, débese, modifícase, nalgúns.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -125,8 +125,7 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
-      <li>This corpus does not use the following tags: X</li>
+      <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -153,7 +152,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 5 word types tagged as particles (PART): Ln, föhn, non, on, senon</li>
+      <li>This corpus contains 4 word types tagged as particles (PART): Ln, föhn, non, senon</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -185,7 +184,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 29 lemmas tagged as determiners (DET): algún, ambos, aquel, cada, calquera, canto, certo, demais, entrambos, ese, este, mesmo, meu, moito, ningún, noso, o, outro, pouco, propio, que, senllos, seu, tal, tanto, teu, todo, un, varios</li>
+      <li>This corpus contains 33 lemmas tagged as determiners (DET): a, algún, ambos, aquel, as, cada, calquera, canto, certo, demais, el, entrambos, ese, este, la, mesmo, meu, moito, ningún, noso, o, outro, pouco, propio, que, senllos, seu, tal, tanto, teu, todo, un, varios</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -202,7 +201,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: aquel, canto, este, o, que, un</li>
+      <li>Out of the above, 7 lemmas occurred sometimes as PRON and sometimes as DET: aquel, canto, el, este, o, que, un</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -378,7 +377,9 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -421,7 +422,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Fem
+          <ul>
+            <li>DET: as, a</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -525,7 +532,9 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -540,7 +549,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Plur
+          <ul>
+            <li>DET: as</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -583,7 +598,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Sing
+          <ul>
+            <li>DET: a</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -718,7 +739,9 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -733,7 +756,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Def
+          <ul>
+            <li>DET: a, o, os, as, la, los</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -758,7 +787,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: un, unha, unhas</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1207,7 +1242,9 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1222,7 +1259,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: a, o, os, as, un, unha, unhas, la, el, los</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1247,7 +1290,14 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Dem
+          <ul>
+            <li>DET: este, esta, estes, estas, ese, aqueles, tal, esa, aquelas, tales</li>
+            <li>PRON: isto, iso, aqueles, aquilo, esta</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1272,7 +1322,14 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Ind
+          <ul>
+            <li>DET: outros, mesmo, outra, outras, outro, calquera, algúns, mesma, uns, moitas</li>
+            <li>PRON: un, unha, algo, alguén</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1297,7 +1354,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Int
+          <ul>
+            <li>DET: qué</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1323,7 +1386,32 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>DET: ningún, ningunha</li>
+            <li>PRON: nada, ninguén</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Prs
+          <ul>
+            <li>DET: súa, seu, seus, súas, nosa, noso, nosos, nosas, meu, miña</li>
+            <li>PRON: se, o, os, lle, me, nos, lles, eles, a, el</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1348,7 +1436,14 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Rel
+          <ul>
+            <li>DET: que, canto, cantas</li>
+            <li>PRON: que, como, cando, onde, cal, quen, canto, cales, cantos, cuxa</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1371,6 +1466,23 @@ udver: '2'
           </ul>
         </li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Tot
+          <ul>
+            <li>DET: cada, todo, todos, todas, toda, ambos, ambas, entrambos</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
     </td>
   </tr>
   <tr>
@@ -1436,7 +1548,9 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1451,7 +1565,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Yes
+          <ul>
+            <li>DET: súa, seu, seus, súas, nosa, noso, nosos, nosas, meu, miña</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1475,7 +1595,26 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
 
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Yes
+          <ul>
+            <li>PRON: se, si, consigo</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="33%" valign="top">
 
@@ -1888,17 +2027,20 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADJ: obstante, apreciable, efectivo, funcional, vascularizados</li>
-                <li>ADP: de, en</li>
+                <li>ADJ: obstante, Alternative, antimonopólico, apreciable, efectivo, funcional, gráficos, mayor, mediático, menor</li>
+                <li>ADP: de, al, en, a, on</li>
                 <li>ADV: concretamente</li>
-                <li>DET: a</li>
-                <li>NOUN: táboa, Capítulo, cadro, figura, figuras, Califf, Cantábrica-Rías, Lei, Parque, Punto</li>
+                <li>CCONJ: o, y</li>
+                <li>DET: la, el, los, un, Ese, a</li>
+                <li>NOUN: táboa, Capítulo, cadro, figura, figuras, Califf, Cantábrica-Rías, Energy, Lei, Parque</li>
                 <li>NUM: 1, 10, 20, 23, 70, -11,86, -36,03, -42,43, 105, 11</li>
                 <li>PART: non</li>
-                <li>PRON: como</li>
+                <li>PRON: como, que</li>
                 <li>PROPN: 1979a, BOE, Benson, Brassington, CV, Covarrubias, Exponse, Hannan, Isla, Lim</li>
+                <li>PUNCT: ,, .</li>
+                <li>SCONJ: que</li>
                 <li>SYM: +</li>
-                <li>VERB: di, Brooman, FA+U, IPa, MECACAR, Pasa, autoinmune, cae, chega, conforme</li>
+                <li>VERB: di, Brooman, FA+U, IPa, MECACAR, Pasa, atraviesa, autoinmune, cae, chega</li>
               </ul>
             </li>
           </ul>
@@ -1930,6 +2072,28 @@ udver: '2'
           </ul>
         </li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Typo</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>NOUN: te-rra</li>
+                <li>VERB: anali</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
     </td>
   </tr>
   <tr>
@@ -1988,17 +2152,19 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (3101)</li>
-            <li>VERB--NOUN-ADP(a) (2)</li>
-            <li>VERB--NOUN-ADP(ata) (2)</li>
-            <li>VERB--NOUN-ADP(aínda)-ADP(xa) (1)</li>
-            <li>VERB--NOUN-ADP(como) (8)</li>
-            <li>VERB--NOUN-ADP(de) (13)</li>
-            <li>VERB--NOUN-ADP(en) (4)</li>
+            <li>VERB--NOUN (2831)</li>
+            <li>VERB--NOUN-ADP(a) (10)</li>
+            <li>VERB--NOUN-ADP(ata) (1)</li>
+            <li>VERB--NOUN-ADP(de) (12)</li>
+            <li>VERB--NOUN-ADP(de)-ADP(punto) (1)</li>
+            <li>VERB--NOUN-ADP(en) (1)</li>
             <li>VERB--NOUN-ADP(entre) (1)</li>
+            <li>VERB--NOUN-ADP(por) (1)</li>
             <li>VERB--NOUN-ADP(sobre) (1)</li>
-            <li>VERB--PRON (1822)</li>
+            <li>VERB--NOUN-ADP(xa) (1)</li>
+            <li>VERB--PRON (1427)</li>
             <li>VERB--PRON-ADP(de) (2)</li>
+            <li>VERB--PRON-ADP(de)-ADP(a) (1)</li>
           </ul>
         </li>
       </ul>
@@ -2066,21 +2232,27 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (4398)</li>
-            <li>VERB--NOUN-ADP(a) (1)</li>
-            <li>VERB--NOUN-ADP(como) (6)</li>
+            <li>VERB--NOUN (4227)</li>
+            <li>VERB--NOUN-ADP(a) (295)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(abandono) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(calidade) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(configuración) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(descoñecemento) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(déficit) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(referente) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(con)-ADP(horizonte) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(de) (3)</li>
             <li>VERB--NOUN-ADP(con) (2)</li>
-            <li>VERB--NOUN-ADP(de) (19)</li>
-            <li>VERB--NOUN-ADP(en) (3)</li>
-            <li>VERB--NOUN-ADP(historicamente) (1)</li>
-            <li>VERB--NOUN-ADP(investir) (1)</li>
+            <li>VERB--NOUN-ADP(de) (27)</li>
+            <li>VERB--NOUN-ADP(desde) (1)</li>
+            <li>VERB--NOUN-ADP(en) (4)</li>
             <li>VERB--NOUN-ADP(mentres) (1)</li>
             <li>VERB--NOUN-ADP(precisamente) (1)</li>
             <li>VERB--NOUN-ADP(segundo) (1)</li>
             <li>VERB--NOUN-ADP(sobre) (1)</li>
-            <li>VERB--NOUN-ADP(só) (1)</li>
-            <li>VERB--NOUN-ADP(xa)-ADP(falar) (1)</li>
-            <li>VERB--PRON (1603)</li>
+            <li>VERB--PRON (1590)</li>
+            <li>VERB--PRON-ADP(a) (6)</li>
+            <li>VERB--PRON-ADP(a)-ADP(procurar) (1)</li>
             <li>VERB--PRON-ADP(para) (1)</li>
           </ul>
         </li>
@@ -2152,7 +2324,24 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--PRON (274)</li>
+            <li>VERB--NOUN-ADP(a) (190)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a) (2)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(c.h.) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(coidado) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(consello) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(emprego) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(lingua) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(mantemento) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(percebe)-ADP(a)-ADP(mariñeiro) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(reciclaxe) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(sistema) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(a)-ADP(tempo) (1)</li>
+            <li>VERB--NOUN-ADP(a)-ADP(de) (2)</li>
+            <li>VERB--NOUN-ADP(para) (4)</li>
+            <li>VERB--PRON (270)</li>
+            <li>VERB--PRON-ADP(a) (7)</li>
+            <li>VERB--PRON-ADP(a)-ADP(caber) (1)</li>
+            <li>VERB--PRON-ADP(para) (1)</li>
           </ul>
         </li>
       </ul>
@@ -2208,7 +2397,11 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <h3>Reflexive Passive</h3>
+      
+      <ul>
+        <li>This corpus contains 54 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: facer se, observar se, realizar se, comprobar se, desenvolver se, incorporar se, manter se, aclarar se, almacenar se, aplicar se, apreciar se, bo se, calcular se, caracterizar se, consolidar se, corresponder se, dar se, debater se, definir se, detallar se, diferenciar se, engader se, entender se, estar se, estimar se, facilitar se, impulsar se, indicar se, informar se, introducir se, invitar se, levar se, modificar se, necesario se, notificar se, obter se, papel se, participar se, posible se, poñer se, preciso se, preguntar se, prever se, proceder se, recomendar se, reintegrar se, remitir se, representar se, reunir se, ser se</li>
+      </ul>
     </td>
     <td width="33%" valign="top">
 
@@ -2219,7 +2412,14 @@ udver: '2'
   </tr>
   <tr>
     <td width="33%" valign="top">
-
+      <h3>Verbs with Reflexive Core Objects</h3>
+      
+      <ul>
+        <li>This corpus contains 369 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: producir se, facer se, atopar se, referir se, realizar se, considerar se, tratar se, observar se, ter se, presentar se, empregar se, establecer se, manter se, aprobar se, encontrar se, incluír se, situar se, utilizar se, desenvolver se, efectuar se, ver se, dar se, determinar se, indicar se, pretender se, analizar se, obter se, prever se, crear se, enfrontar se, esperar se, incrementar se, modificar se, reducir se, apreciar se, basear se, chegar se, comentar se, coñecer se, dicir se, haber se, incorporar se, integrar se, regular se, relacionar se, xerar se, acadar se, aplicar se, asignar se, axustar se</li>
+          <ul>
+            <li>Out of those, 4 lemmas occurred more than once, but never without a reflexive dependent. Examples: confundir, meter, opor, reiniciar</li>
+          </ul>
+      </ul>
     </td>
     <td width="33%" valign="top">
 
@@ -2233,8 +2433,9 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus does not use relation subtypes.</li>
-      <li>The following 8 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>This corpus uses 4 relation subtypes: <a>acl:relcl</a>, <a>csubj:outer</a>, <a>expl:pass</a>, <a>nsubj:outer</a></li>
+      <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
+      <li>The following 5 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>reparandum</a></li>
       </ul>
     </td>
     <td width="33%" valign="top">

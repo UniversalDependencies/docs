@@ -32,7 +32,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 131 sentences and 3165 tokens.</li>
+      <li>This corpus contains 131 sentences and 3166 tokens.</li>
       </ul>
     </td>
   </tr>
@@ -44,7 +44,7 @@ udver: '2'
     </td>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 454 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 455 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -468,7 +468,9 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -478,7 +480,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Def
+          <ul>
+            <li>DET: la</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -812,7 +820,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Art
+          <ul>
+            <li>DET: la</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -830,7 +844,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>DET: tiu</li>
+            <li>DET: tiu, tiun</li>
             <li>PRON: ĝi, ĝin</li>
           </ul>
         </li>
@@ -842,7 +856,7 @@ udver: '2'
           <ul>
             <li>ADJ: alia</li>
             <li>DET: tiun, tiu, tiuj, tiujn, Tia, alia</li>
-            <li>PRON: tio, tiuj, tiun</li>
+            <li>PRON: tio, alia, tion, tiuj, tiun, unu</li>
           </ul>
         </li>
       </ul>
@@ -940,7 +954,7 @@ udver: '2'
         <li>Rel
           <ul>
             <li>ADJ: kia, kies</li>
-            <li>PRON: kiu, kiuj, kiujn, kies, kiun, kian, kia</li>
+            <li>PRON: kiu, kiuj, kiujn, kiun, kies, kian, kia</li>
           </ul>
         </li>
       </ul>
@@ -1334,8 +1348,7 @@ udver: '2'
             <li>VERB--PRON-Acc (2)</li>
             <li>VERB-Fin--NOUN-Acc (60)</li>
             <li>VERB-Fin--NOUN-Nom (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(laŭ) (1)</li>
-            <li>VERB-Fin--PRON-Acc (25)</li>
+            <li>VERB-Fin--PRON-Acc (23)</li>
             <li>VERB-Inf--NOUN-Acc (36)</li>
             <li>VERB-Inf--PRON-Acc (8)</li>
             <li>VERB-Part--NOUN-Acc (4)</li>
@@ -1359,6 +1372,7 @@ udver: '2'
         <li><a>iobj</a>
           <ul>
             <li>VERB-Fin--NOUN-Nom (1)</li>
+            <li>VERB-Fin--PRON-Acc (2)</li>
             <li>VERB-Inf--PRON-Nom-ADP(al) (1)</li>
           </ul>
         </li>

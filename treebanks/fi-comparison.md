@@ -344,8 +344,8 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</li>
-          <li>VERB: on, oli, ole, tulee, tuli, saa, ei, sanoi, ovat, sai</li>
+          <li>AUX: on, ei, oli, ovat, ole, en, voi, olisi, olen, eivät</li>
+          <li>VERB: on, oli, tulee, ole, tuli, saa, ei, sanoi, ovat, sai</li>
         </ul>
         </li>
       </ul>
@@ -1160,7 +1160,7 @@ udver: '2'
         <li>Gen
           <ul>
             <li>ADJ: uuden, oman, pienen, suomalaisen, ensimmäisen, erityisen, mahdollisimman, suomalaisten, hyvän, nuorten</li>
-            <li>AUX-Part: olevan, olevansa, voitavan, voivan, olleen, olevani, voivani, voivansa</li>
+            <li>AUX-Part: olevan, olevansa, olleen, voitavan, voivan, olevani, voivani, voivansa</li>
             <li>DET: sen, tämän, muutaman, niiden, jonka, jonkin, kaiken, kaikkien, muiden, jokaisen</li>
             <li>NOUN: vuoden, kerran, ajan, miehen, auton, päivän, kirjan, talon, asian, ihmisen</li>
             <li>NUM: kahden, yhden, viiden, kolmen, kymmenen, miljoonan, neljän, parin, puolen, sadan</li>
@@ -2035,7 +2035,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>AUX-Fin: on, ei, oli, ovat, en, ole, voi, olen, eivät, eikä</li>
-            <li>VERB-Fin: on, oli, ole, tulee, tuli, saa, ei, sanoi, ovat, sai</li>
+            <li>VERB-Fin: on, oli, tulee, tuli, ole, saa, ei, sanoi, ovat, sai</li>
           </ul>
         </li>
       </ul>
@@ -2156,7 +2156,7 @@ udver: '2'
         <li>Past
           <ul>
             <li>AUX-Fin: oli, olivat, olin, ollut, piti, saattoi, oliko, olikin, voinut, oltiin</li>
-            <li>VERB-Fin: oli, tuli, sanoi, sai, meni, ollut, jäi, teki, lähti, olivat</li>
+            <li>VERB-Fin: oli, tuli, sanoi, sai, meni, jäi, ollut, teki, lähti, olivat</li>
           </ul>
         </li>
       </ul>
@@ -2198,7 +2198,7 @@ udver: '2'
         <li>Pres
           <ul>
             <li>AUX-Fin: on, ovat, ole, voi, olen, pitää, täytyy, onko, olet, saattaa</li>
-            <li>VERB-Fin: on, ole, tulee, saa, ovat, sanoo, onko, tiedä, kuuluu, haluaa</li>
+            <li>VERB-Fin: on, tulee, ole, saa, ovat, sanoo, onko, tiedä, kuuluu, haluaa</li>
           </ul>
         </li>
       </ul>
@@ -2262,10 +2262,10 @@ udver: '2'
       <ul>
         <li>Act
           <ul>
-            <li>AUX-Fin: on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</li>
+            <li>AUX-Fin: on, ei, oli, ovat, ole, en, voi, olisi, olen, eivät</li>
             <li>AUX-Inf: olla, olemaan, voida, ollen, olemasta, ollakseen, ollapa, ollessa, ollessani, täytyä</li>
-            <li>AUX-Part: ollut, olevan, voinut, olleet, pitänyt, ollu, täytynyt, voineet, olevansa, saattanut</li>
-            <li>VERB-Fin: on, oli, ole, tulee, tuli, saa, ei, sanoi, ovat, sai</li>
+            <li>AUX-Part: ollut, olevan, voinut, olleet, pitänyt, ollu, täytynyt, voineet, olevansa, olleen</li>
+            <li>VERB-Fin: on, oli, tulee, ole, tuli, saa, ei, sanoi, ovat, sai</li>
             <li>VERB-Inf: olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</li>
             <li>VERB-Part: ollut, saanut, tullut, olevan, oleva, käynyt, sanonut, tehnyt, nähnyt, ollu</li>
           </ul>
@@ -4374,7 +4374,7 @@ udver: '2'
             </li>
             <li>Past
               <ul>
-                <li>AUX-Part: ollut, voinut, olleet, pitänyt, ollu, voitu, täytynyt, oltu, voineet, saattanut</li>
+                <li>AUX-Part: ollut, voinut, olleet, pitänyt, ollu, voitu, täytynyt, oltu, voineet, olleen</li>
                 <li>VERB-Part: ollut, saanut, tullut, tehty, käynyt, sanonut, tehnyt, nähnyt, ollu, saaneet</li>
               </ul>
             </li>
@@ -4708,7 +4708,7 @@ udver: '2'
                 <li>PRON: mä, sä, mun, tää, sun, sulle, mulla, sulla, mie, mua</li>
                 <li>PROPN: Soiliki, iiässäs, Ailii, Alfas, Annillakkii, Dödö, Hesaris, Hiakal, Jokine, Juttutupaa</li>
                 <li>SCONJ: ett, et, ku, vaikk, ko, kun, jott, Vaik, ette, joss</li>
-                <li>VERB-Fin: sano, oo, onks, ollu, aattelin, o, olis, ois, oot, katotaan</li>
+                <li>VERB-Fin: sano, oo, onks, ollu, aattelin, olis, oot, katotaan, o, ois</li>
                 <li>VERB-Inf: tehä, lähtee, rassaa, kattoo, kattoon, laittaan, lähtie, saadas, sanoo, tekee</li>
                 <li>VERB-Part: ollu, tullu, käyny, menny, ottanu, saanu, tehny, nähny, heränny, jättäny</li>
               </ul>
@@ -4944,28 +4944,28 @@ udver: '2'
             <li>VERB-Fin--NOUN-All (1)</li>
             <li>VERB-Fin--NOUN-Ela (92)</li>
             <li>VERB-Fin--NOUN-Gen (7)</li>
-            <li>VERB-Fin--NOUN-Nom (4226)</li>
-            <li>VERB-Fin--NOUN-Par (1054)</li>
+            <li>VERB-Fin--NOUN-Nom (4167)</li>
+            <li>VERB-Fin--NOUN-Par (1013)</li>
             <li>VERB-Fin--PRON-Acc (7)</li>
             <li>VERB-Fin--PRON-All (1)</li>
             <li>VERB-Fin--PRON-Ela (44)</li>
             <li>VERB-Fin--PRON-Gen (22)</li>
             <li>VERB-Fin--PRON-Gen-ADP(kanssa) (1)</li>
             <li>VERB-Fin--PRON-Nom (3054)</li>
-            <li>VERB-Fin--PRON-Par (120)</li>
+            <li>VERB-Fin--PRON-Par (116)</li>
             <li>VERB-Inf--NOUN-Ela (13)</li>
             <li>VERB-Inf--NOUN-Gen (167)</li>
-            <li>VERB-Inf--NOUN-Nom (385)</li>
+            <li>VERB-Inf--NOUN-Nom (384)</li>
             <li>VERB-Inf--NOUN-Par (54)</li>
             <li>VERB-Inf--PRON-All (1)</li>
             <li>VERB-Inf--PRON-Ela (3)</li>
             <li>VERB-Inf--PRON-Gen (174)</li>
-            <li>VERB-Inf--PRON-Nom (223)</li>
+            <li>VERB-Inf--PRON-Nom (222)</li>
             <li>VERB-Inf--PRON-Par (11)</li>
             <li>VERB-Part--NOUN-Ela (18)</li>
             <li>VERB-Part--NOUN-Gen (141)</li>
-            <li>VERB-Part--NOUN-Nom (527)</li>
-            <li>VERB-Part--NOUN-Par (112)</li>
+            <li>VERB-Part--NOUN-Nom (524)</li>
+            <li>VERB-Part--NOUN-Par (105)</li>
             <li>VERB-Part--PRON-All (1)</li>
             <li>VERB-Part--PRON-Ela (13)</li>
             <li>VERB-Part--PRON-Gen (102)</li>
@@ -5079,7 +5079,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Gen (889)</li>
             <li>VERB-Fin--NOUN-Ill (2)</li>
             <li>VERB-Fin--NOUN-Nom (726)</li>
-            <li>VERB-Fin--NOUN-Par (1990)</li>
+            <li>VERB-Fin--NOUN-Par (1987)</li>
             <li>VERB-Fin--NOUN-Par-ADP(paitsi) (3)</li>
             <li>VERB-Fin--NOUN-Par-ADP(vaille) (1)</li>
             <li>VERB-Fin--NOUN-Tra (1)</li>
@@ -5319,7 +5319,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 11 relation subtypes: <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>csubj:cop</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>obl:agent</a>, <a>xcomp:ds</a></li>
+      <li>This corpus uses 12 relation subtypes: <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>obl:agent</a>, <a>xcomp:ds</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>parataxis</a></li>
       </ul>
     </td>

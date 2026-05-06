@@ -201,12 +201,12 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 147 word types tagged as particles (PART): Azaliż, Czyżby, Jakżeż, Moze, Niemalże, Niemniej, Notabene, Otóż, a, aby, akurat, ale, ani, aż, ba, blisko, bo, bodaj, bowiem, byle, bynajmniej, chociaż, chociażby, choć, choćby, chyba, co, coś, czy, czyż, dokładnie, dopiero, doprawdy, dosyć, dosłownie, dość, gdyby, gdzieś, generalnie, głównie, i, istotnie, jakby, jakoby, jednak, jednakże, jedynie, jeszce, jeszcze, już, konkretnie, lada, ledwie, mianowicie, może, nadto, najpewniej, najwidoczniej, najwyraźniej, najwyżej, naprawdę, nareszcie, nawet, niby, nie, niejako, niemal, nieomal, nieprawdaż, niespełna, niestety, no, nuż, oby, oczywiście, ok, około, osobiście, ot, oto, owszem, pewnie, podobno, ponad, ponadto, poniekąd, ponoć, praktycznie, prawdopodobnie, prawie, przecie, przecież, przeciwnie, przeszło, przynajmniej, raczej, raptem, rzekomo, również, skądinąd, szczególnie, tak, także, tam, tego, teoretycznie, też, to, toż, trochę, tu, tuż, tylko, wcale, widać, widocznie, więc, wprawdzie, wprost, wreszcie, wręcz, wszak, wszakże, wyłącznie, właściwie, właśnie, z, za, zaledwie, zapewne, zaraz, zarazem, zarówno, zasadniczo, zaś, zdecydowanie, ze, zgoła, znacznie, znowu, znowuż, znów, zresztą, zwłaszcza, zynajmniej, Żeby, że</li>
+      <li>This corpus contains 148 word types tagged as particles (PART): Azaliż, Czyżby, Jakżeż, Moze, Niemalże, Niemniej, Notabene, Otóż, a, aby, akurat, ale, ani, aż, ba, blisko, bo, bodaj, bowiem, byle, bynajmniej, chociaż, chociażby, choć, choćby, chyba, co, coś, czy, czym, czyż, dokładnie, dopiero, doprawdy, dosyć, dosłownie, dość, gdyby, gdzieś, generalnie, głównie, i, istotnie, jakby, jakoby, jednak, jednakże, jedynie, jeszce, jeszcze, już, konkretnie, lada, ledwie, mianowicie, może, nadto, najpewniej, najwidoczniej, najwyraźniej, najwyżej, naprawdę, nareszcie, nawet, niby, nie, niejako, niemal, nieomal, nieprawdaż, niespełna, niestety, no, nuż, oby, oczywiście, ok, około, osobiście, ot, oto, owszem, pewnie, podobno, ponad, ponadto, poniekąd, ponoć, praktycznie, prawdopodobnie, prawie, przecie, przecież, przeciwnie, przeszło, przynajmniej, raczej, raptem, rzekomo, również, skądinąd, szczególnie, tak, także, tam, tego, teoretycznie, też, to, toż, trochę, tu, tuż, tylko, wcale, widać, widocznie, więc, wprawdzie, wprost, wreszcie, wręcz, wszak, wszakże, wyłącznie, właściwie, właśnie, z, za, zaledwie, zapewne, zaraz, zarazem, zarówno, zasadniczo, zaś, zdecydowanie, ze, zgoła, znacznie, znowu, znowuż, znów, zresztą, zwłaszcza, zynajmniej, Żeby, że</li>
       </ul>
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 48 word types tagged as particles (PART): Czyżby, Niestety, Oto, Zdecydowanie, a, aż, co, czy, dopiero, dosłownie, dość, głównie, i, jednak, jedynie, jeszcze, już, może, najwyraźniej, naprawdę, nawet, nie, niemal, oczywiście, około, ostatecznie, podobno, ponad, praktycznie, prawdopodobnie, prawie, przynajmniej, raczej, również, szczególnie, tak, teoretycznie, też, to, tuż, tylko, wreszcie, właściwie, właśnie, za, zaledwie, znowu, znów</li>
+      <li>This corpus contains 49 word types tagged as particles (PART): Czyżby, Niestety, Oto, Zdecydowanie, a, aż, co, czy, dopiero, dosłownie, dość, głównie, i, jednak, jedynie, jeszcze, już, może, najwyraźniej, naprawdę, nawet, nie, niemal, oczywiście, około, ostatecznie, podobno, ponad, praktycznie, prawdopodobnie, prawie, przynajmniej, raczej, również, szczególnie, tak, teoretycznie, też, to, tuż, tylko, wreszcie, wyłącznie, właściwie, właśnie, za, zaledwie, znowu, znów</li>
       </ul>
     </td>
   </tr>
@@ -776,7 +776,7 @@ udver: '2'
             <li>ADJ: pierwsze, Zjednoczonych, bezpośrednie, całe, duże, greckie, inne, małe, olimpijskich, Celtyckim</li>
             <li>ADJ-Part: napisane, ukształtowane, zaplanowane, Podupadające, Ukryte, Zapytane, budujących, certyfikowane, dotyczące, importowane</li>
             <li>AUX-Fin: było, zostało, zostały, były</li>
-            <li>DET: które, wiele, takie, tych, których, swoim, swoje, to, więcej, swojego</li>
+            <li>DET: które, wiele, takie, to, tych, których, swoim, swoje, więcej, swojego</li>
             <li>NOUN: miejsce, miasta, euro, danych, miejscu, prawa, życia, badania, działania, miejsca</li>
             <li>NOUN-Vnoun: zniszczenie, kręcenia, ograniczaniu, ograniczenia, opuszczenia, otwarcie, poszukiwaniu, powstrzymania, przejęcia, przekroczenie</li>
             <li>NUM: 1.335, 1.365, 100, 34, 35000, 500, Trzy, cztery, dwa, dwóch</li>
@@ -936,7 +936,7 @@ udver: '2'
             <li>NOUN: pies, złotych, ptak, psy, dolarów, psa, konia, kot, konie, koniu</li>
             <li>NUM: dwa, trzy, 2, 3, 100, pięć, 1500, 20, 5, 500</li>
             <li>PRON: go, jego, ich, mu, nim, niego, nimi, im, nich, one</li>
-            <li>PROPN: Fiata, Dingiem, Humphrey, Instagramie, Mars, Odiego, Piast, Pożeracz, Presa, Saturna</li>
+            <li>PROPN: Fiata, Dingiem, Humphrey, Instagramie, Mars, Odiego, Piast, Pożeracz, Saturna, Wujka</li>
             <li>VERB-Fin: mógł, usiadł, zamerdał, był, mogły, padł, powinien, urodziły, wpadł, zaczął</li>
           </ul>
         </li>
@@ -1054,7 +1054,7 @@ udver: '2'
             <li>AUX-Fin: są, będą, były, będziemy, byli, zostały, zostaną, jesteśmy, zostali, zostają</li>
             <li>DET: które, te, tych, którzy, których, kilka, wszystkie, wszystkich, wiele, takich</li>
             <li>NOUN: lat, osób, dzieci, ludzi, osoby, ludzie, dni, pieniądze, kobiety, ręce</li>
-            <li>NOUN-Vnoun: zachorowań, działań, oskarżeniami, polubień, wytrzeźwień, zawirowań, Drgania, Wypędzeniom, Zakłócenia, chrapania</li>
+            <li>NOUN-Vnoun: działań, oskarżeniami, polubień, wytrzeźwień, zachorowań, zawirowań, Drgania, Wypędzeniom, Zakłócenia, chrapania</li>
             <li>NUM: dwie, dwa, dwóch, trzy, trzech, 10, cztery, 3, pięć, 2</li>
             <li>PRON: ich, nich, nas, je, nam, im, one, nimi, oni, my</li>
             <li>PROPN: Polacy, Polaków, Rosjanie, amerykanie, Niemcy, Niemców, PKP, Francuzi, Indian, Żydów</li>
@@ -1276,7 +1276,7 @@ udver: '2'
             <li>ADJ: pierwszy, 1, całe, całą, nową, ogromną, bezpośrednie, duże, dużą, małe</li>
             <li>ADJ-Part: używane, związane, biorących, chroniącego, dmuchany, dotyczące, importowane, inspirowane, lądujący, nadesłane</li>
             <li>ADP: temu</li>
-            <li>DET: swoje, więcej, kilka, ten, wiele, które, jaką, swoją, swój, który</li>
+            <li>DET: swoje, więcej, kilka, ten, wiele, które, swoją, swój, jaką, który</li>
             <li>NOUN: miejsce, raz, sposób, uwagę, rolę, lata, możliwość, część, koniec, rzecz</li>
             <li>NOUN-Vnoun: otwarcie, zawieszenie, założenie, bycie, cofanie, doinwestowanie, dokonanie, dotarcie, nadużycie, odciążenie</li>
             <li>NUM: dwa, trzy, 3, dwie, sześć, 1,4, 1,5, 10, 16, 34</li>
@@ -1473,7 +1473,7 @@ udver: '2'
           <ul>
             <li>ADJ: jednym, innymi, dużą, kolejnym, niezbędnym, pierwszym, jedną, młodą, najważniejszym, największym</li>
             <li>ADJ-Part: urzędującym, broniącą, dotyczącym, duszącym, kontrolującymi, mającą, nieprzeszkolonymi, obowiązującymi, przyjętą, rosnącymi</li>
-            <li>DET: tym, takimi, swoim, swoimi, swoją, tymi, wieloma, Moim, jakimś, każdym</li>
+            <li>DET: tym, takimi, swoim, swoimi, swoją, tymi, wieloma, Moim, jakimś, jaką</li>
             <li>NOUN: czasem, celem, latem, razem, zimą, liczbą, pomocą, prezydentem, przedmiotem, rządem</li>
             <li>NOUN-Vnoun: wprowadzeniem, izolowaniem, lokowaniem, objęciem, obniżeniem, podejmowaniem, przetwarzaniem, przeznaczeniem, przybyciem, przygotowaniem</li>
             <li>NUM: dwiema, dwoma, 71, dwudziestoma, ośmioma</li>
@@ -1527,7 +1527,7 @@ udver: '2'
             <li>NOUN: roku, sprawie, wodzie, stroju, czasie, trawie, pobliżu, przypadku, kasku, celu</li>
             <li>NOUN-Vnoun: zakończeniu, podejmowaniu, przeprowadzeniu, użyciu, wprowadzeniu, leczeniu, przekazaniu, wejściu, wyjściu, wykonywaniu</li>
             <li>NUM: dwóch, trzech, czterech, 10, 20, dziesięciu, 50, dwudziestu, pięciu, 15</li>
-            <li>PRON: tym, nim, czym, nich, niej, sobie, mnie, wszystkim, czymś, niczym</li>
+            <li>PRON: tym, nim, nich, niej, sobie, czym, mnie, wszystkim, czymś, niczym</li>
             <li>PROPN: Polsce, Europie, Warszawie, Poznaniu, Krakowie, Niemczech, Wrocławiu, Włoszech, Ameryce, Łodzi</li>
           </ul>
         </li>
@@ -1845,7 +1845,7 @@ udver: '2'
         <li>Cmp
           <ul>
             <li>ADJ: większe, starszy, dalsze, lepsze, większej, starsza, większym, dalszych, większą, większa</li>
-            <li>ADV: bardziej, wcześniej, lepiej, dalej, później, mniej, więcej, częściej, łatwiej, wyżej</li>
+            <li>ADV: bardziej, wcześniej, lepiej, dalej, później, więcej, mniej, częściej, łatwiej, wyżej</li>
           </ul>
         </li>
       </ul>
@@ -1888,7 +1888,7 @@ udver: '2'
         <li>Pos
           <ul>
             <li>ADJ: innych, jeden, sam, inne, europejskiej, pierwszy, różnych, jednym, cały, 1</li>
-            <li>ADV: bardzo, tak, jak, dobrze, zgodnie, często, jednocześnie, obecnie, trudno, szybko</li>
+            <li>ADV: bardzo, tak, jak, dobrze, często, jednocześnie, obecnie, trudno, szybko, nagle</li>
           </ul>
         </li>
       </ul>
@@ -1995,7 +1995,7 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>ADJ-Part: niewykluczone, niepotwierdzonych, niewykorzystane, niewyprawione, niezrealizowane, NIEPOCHODZĄCYCH, Nieleczona, Nieprzejawionego, Nieprzeznaczony, niebędący</li>
+            <li>ADJ-Part: niepotwierdzonych, niewykorzystane, niewyprawione, niezrealizowane, NIEPOCHODZĄCYCH, Nieleczona, Nieprzejawionego, Nieprzeznaczony, niebędący, niebędących</li>
             <li>NOUN-Vnoun: nieuzyskania, Niewypełnienie, niedopełnienie, niedopuszczenie, nieistnienia, niejedzenia, niekonkurowania, nienakładaniu, nieobjadanie, nieodpowiadanie</li>
             <li>PART: nie</li>
           </ul>
@@ -3796,7 +3796,7 @@ udver: '2'
             <li>Yes
               <ul>
                 <li>ADJ: św, b, ww, Gd, d, in, kw, pn, proc, st</li>
-                <li>ADP: ds, wg, nt, ok</li>
+                <li>ADP: ds, nt</li>
                 <li>ADV: np, m.in, tzw, itp, itd, pt, a, n.p.m, tzn, b</li>
                 <li>NOUN: r, zł, art, tys, proc, ust, %, ul, godz, mln</li>
                 <li>PART: ok</li>
@@ -3969,7 +3969,7 @@ udver: '2'
           <ul>
             <li>Comp
               <ul>
-                <li>SCONJ: jak, niż</li>
+                <li>SCONJ: niż, jak</li>
               </ul>
             </li>
             <li>Pred
@@ -4076,10 +4076,153 @@ udver: '2'
       </ul>
     </td>
     <td width="25%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADJ
+              <ul>
+                <li>ADJ: jednej, 15, 17, dwudziesty, pięćdziesiąty, prima, sześćdziesiąty</li>
+                <li>ADV: tak</li>
+                <li>X: public</li>
+              </ul>
+            </li>
+            <li>ADP
+              <ul>
+                <li>ADP: w, na, z, pod, ze, za, do, przy, bez, od</li>
+                <li>ADV: wraz, zgodnie, razem, niezależnie, łącznie, włącznie, zależnie, wspólnie, odnośnie, daleko</li>
+                <li>NOUN: rodem, przeciwieństwie</li>
+                <li>PART: co</li>
+                <li>X: wespół</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADP: w, z, na, Po, do, od, u</li>
+                <li>ADV: tak, gdzie, kiedy, coraz, jako, jak, kędy, mutatis, non, rzadko</li>
+                <li>NOUN: siłą</li>
+                <li>VERB-Conv: Chcąc</li>
+                <li>VERB-Fin: ma</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>ADP: przy</li>
+                <li>CCONJ: jak, a, ale, tyle, lecz, i, tylko</li>
+              </ul>
+            </li>
+            <li>DET
+              <ul>
+                <li>DET: tym, to, ten, taki, tego, tych, tej, tyle, takim, te</li>
+              </ul>
+            </li>
+            <li>INTJ
+              <ul>
+                <li>INTJ: gdzie, o</li>
+              </ul>
+            </li>
+            <li>NOUN
+              <ul>
+                <li>NOUN: homo, bon, in, m, boarding, golden, honoris, hot, lingua, mutatis</li>
+              </ul>
+            </li>
+            <li>PART
+              <ul>
+                <li>ADJ: innymi</li>
+                <li>ADP: w, na, przede, z, poza, mimo, między, przy, bez, do</li>
+                <li>ADV: tym, tak, mniej</li>
+                <li>CCONJ: i</li>
+                <li>DET: Swoją</li>
+                <li>NOUN: rzecz</li>
+                <li>PART: co, i, za, tak, Niemniej, a, dość, to, ani, nie</li>
+                <li>VERB-Inf: być</li>
+                <li>X: nota</li>
+              </ul>
+            </li>
+            <li>PRON
+              <ul>
+                <li>PRON: Co</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: o, podczas, w</li>
+                <li>ADV: mimo, pomimo</li>
+                <li>PART: tak</li>
+                <li>SCONJ: jak, jako</li>
+              </ul>
+            </li>
+            <li>SYM
+              <ul>
+                <li>SYM: +, -</li>
+              </ul>
+            </li>
+            <li>VERB
+              <ul>
+                <li>VERB-Fin: ma, Jesteśmy</li>
+                <li>VERB-Inf: Być</li>
+              </ul>
+            </li>
+            <li>X
+              <ul>
+                <li>X: a, 2, bon, in</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="25%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADJ
+              <ul>
+                <li>ADV: tak</li>
+              </ul>
+            </li>
+            <li>ADP
+              <ul>
+                <li>ADP: w, z, na, pod, ze, za, bez</li>
+                <li>ADV: zgodnie, razem, wraz, wspólnie, Niezależnie</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADP: w</li>
+                <li>ADV: tak</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: jak, a, ale</li>
+              </ul>
+            </li>
+            <li>DET
+              <ul>
+                <li>DET: tym, tego, to</li>
+              </ul>
+            </li>
+            <li>NOUN
+              <ul>
+                <li>NOUN: dress, mos, r, w</li>
+              </ul>
+            </li>
+            <li>PART
+              <ul>
+                <li>ADP: na, w, poza, przede, Mimo, między, z</li>
+                <li>ADV: mniej</li>
+                <li>PART: i, co, tak</li>
+                <li>VERB-Inf: być</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADP: podczas, mimo, w</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -4105,7 +4248,7 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>X: de, San, of, von, New, Don, a, bin, di, the</li>
+                <li>X: de, New, San, of, von, Jersey, bin, di, the, Don</li>
               </ul>
             </li>
           </ul>
@@ -4118,7 +4261,7 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>X: of, the, de, El, Von, 'Ya, A, Breaking, Buck, Century</li>
+                <li>X: of, the, de, a, Association, El, Von, 'Ya, America, Assistant</li>
               </ul>
             </li>
           </ul>
@@ -4991,8 +5134,7 @@ udver: '2'
             <li>VERB-Fin--NOUN (41)</li>
             <li>VERB-Fin--NOUN-Acc (5792)</li>
             <li>VERB-Fin--NOUN-Dat (1)</li>
-            <li>VERB-Fin--NOUN-Gen (954)</li>
-            <li>VERB-Fin--NOUN-Gen-ADP(z) (1)</li>
+            <li>VERB-Fin--NOUN-Gen (955)</li>
             <li>VERB-Fin--NOUN-Ins (21)</li>
             <li>VERB-Fin--NOUN-Loc-ADP(po) (1)</li>
             <li>VERB-Fin--NOUN-Nom (24)</li>
@@ -5000,7 +5142,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Dat (1)</li>
             <li>VERB-Fin--PRON-Gen (222)</li>
             <li>VERB-Fin--PRON-Ins (8)</li>
-            <li>VERB-Fin--PRON-Nom (3)</li>
+            <li>VERB-Fin--PRON-Nom (4)</li>
             <li>VERB-Inf--NOUN (10)</li>
             <li>VERB-Inf--NOUN-ADP(po) (1)</li>
             <li>VERB-Inf--NOUN-Acc (1630)</li>
@@ -5031,7 +5173,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Gen (4)</li>
             <li>VERB-Inf--NOUN-Acc (85)</li>
             <li>VERB-Inf--NOUN-Gen (12)</li>
-            <li>VERB-Inf--PRON-Acc (11)</li>
+            <li>VERB-Inf--PRON-Acc (10)</li>
             <li>VERB-Inf--PRON-Gen (1)</li>
           </ul>
         </li>
@@ -5143,7 +5285,6 @@ udver: '2'
             <li>VERB-Fin--NOUN-Dat (32)</li>
             <li>VERB-Fin--NOUN-Gen (35)</li>
             <li>VERB-Fin--NOUN-Ins (34)</li>
-            <li>VERB-Fin--NOUN-Nom (1)</li>
             <li>VERB-Fin--PRON-Acc (1)</li>
             <li>VERB-Fin--PRON-Dat (16)</li>
             <li>VERB-Fin--PRON-Gen (2)</li>
@@ -5250,7 +5391,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 31 relation subtypes: <a>acl:relcl</a>, <a>advcl:cmpr</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>det:poss</a>, <a>discourse:intj</a>, <a>expl:pv</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:flat</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:cleft</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
+      <li>This corpus uses 31 relation subtypes: <a>acl:relcl</a>, <a>advcl:cmp</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>det:poss</a>, <a>discourse:intj</a>, <a>expl:pv</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:flat</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:cleft</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
       <li>The following 2 main types are not used alone, they are always subtyped: <a>discourse</a>, <a>expl</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
@@ -5259,17 +5400,17 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 37 relation subtypes: <a>acl:relcl</a>, <a>advcl:cmpr</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>discourse:intj</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:flat</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>obl:orphan</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:cleft</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
-      <li>The following 2 main types are not used alone, they are always subtyped: <a>expl</a>, <a>parataxis</a></li>
-      <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>This corpus uses 41 relation subtypes: <a>acl:cmp</a>, <a>acl:relcl</a>, <a>advcl:cmp</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:cmp</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:cmp</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:imp</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>discourse:intj</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nmod:arg</a>, <a>nmod:cmp</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:flat</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>obl:orphan</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:cleft</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
+      <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
+      <li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>compound</a>, <a>goeswith</a></li>
       </ul>
     </td>
     <td width="25%" valign="top">
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 32 relation subtypes: <a>acl:relcl</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nmod:arg</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmpr</a>, <a>obl:orphan</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
-      <li>The following 2 main types are not used alone, they are always subtyped: <a>expl</a>, <a>parataxis</a></li>
+      <li>This corpus uses 37 relation subtypes: <a>acl:cmp</a>, <a>acl:relcl</a>, <a>advcl:cmp</a>, <a>advcl:relcl</a>, <a>advmod:arg</a>, <a>advmod:cmp</a>, <a>advmod:emph</a>, <a>advmod:neg</a>, <a>amod:cmp</a>, <a>amod:flat</a>, <a>aux:clitic</a>, <a>aux:cnd</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:cleft</a>, <a>ccomp:obj</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>nmod:arg</a>, <a>nmod:cmp</a>, <a>nmod:flat</a>, <a>nmod:poss</a>, <a>nmod:pred</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:cmp</a>, <a>obl:orphan</a>, <a>parataxis:insert</a>, <a>parataxis:obj</a>, <a>xcomp:pred</a>, <a>xcomp:subj</a></li>
+      <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
       <li>The following 7 relation types are not used in this corpus at all: <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>

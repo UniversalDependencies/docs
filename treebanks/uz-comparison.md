@@ -43,7 +43,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 681 sentences and 7542 tokens.</li>
+      <li>This corpus contains 684 sentences and 7582 tokens.</li>
       </ul>
     </td>
   </tr>
@@ -60,7 +60,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 19 tokens (0%) that are not followed by a space.</li>
+      <li>This corpus contains 23 tokens (0%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -94,7 +94,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 246 types of words that contain both letters and punctuation. Examples: bo'libdi, bo'lib, bo'yiga, qaldirg'ochlar, bo'lsin, go'ya, o'xshaydi, o'ylab, qo'yibdi, rang-barang, ba'zan, bo'lgan, bo'pti, bo'yi, boyog'li, boyog'lining, koʻm-koʻk, o'rnida, she'r, so'rabdi, to'xtab, xilma-xil, arg'imchoq, ba'zilari, bo'ladi, bo'ldi, bo'lganligini, bog'lab, do'stlari, go'zal, mo'ysafit, o'rab, o'rtaga, o'tin, o'xshab, qaldirg'och, qip-qizil, qo'llabdi, qo'rqmanglar, qo'yaylik, qo'ynida, qo'yniga, sap-sariq, sho'x, to'ng'iz, uzoq;, afg'oniston, avlodlarimiz-da, beg'ubor, bema'nilik</li>
+      <li>This corpus contains 248 types of words that contain both letters and punctuation. Examples: bo'libdi, bo'lib, bo'yiga, qaldirg'ochlar, bo'lsin, go'yo, o'xshaydi, o'ylab, qo'yibdi, rang-barang, ba'zan, bo'lgan, bo'lganligini, bo'yi, boyo'g'li, boyo'g'lining, koʻm-koʻk, o'rnida, she'r, so'rabdi, to'xtab, xilma-xil, arg'imchoq, ba'zilari, bo'ladi, bo'ldi, bog'lab, do'stlari, go'zal, mo'ysafid, o'rab, o'rtaga, o'tin, o'xshab, o'ylashni, qaldirg'och, qip-qizil, qo'llabdi, qo'rqmanglar, qo'yaylik, qo'ygan, qo'ynida, qo'yniga, sap-sariq, sho'x, to'ng'iz, uzoq;, afg'oniston, avlodlarimiz-da, beg'ubor</li>
       </ul>
     </td>
   </tr>
@@ -156,7 +156,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 11 word types tagged as particles (PART): Kechirasiz, ana, bas, da, ehtimol, evoh, go'ya, ham, hech, mana, qani</li>
+      <li>This corpus contains 11 word types tagged as particles (PART): Kechirasiz, ana, bas, da, ehtimol, evoh, go'yo, ham, hech, mana, qani</li>
       </ul>
     </td>
   </tr>
@@ -173,7 +173,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 180 lemmas tagged as pronouns (PRON): ,, _, afsuslan, ahl, ana, asrdag, aylant, ayn, ayt, ayyor, barcha, ber, bil, bilan, bilmay, bir, birlash, birov, biz, bizga, bizni, bizning, bo'l, bo'y, bogʻozidag, bol, boq, bor, boy, boʻl, bu, bular, bun, bund, buni, buyoq, chaqna, chiq, cho'qq, chun, churqira, daqiqa, daraxt, ded, dengizch, dunyo, dunyodag, ehtimol, ekan, emas, end, eng, gapla, hal, ham, hamma, hammaga, hammalariz, hammasini, hisob, ich, ishl, kat, kel, kelol, ket, kim, koʻ, koʻtaril, kun, kuylan, lekin, mahmud, man, mana, mansu, matn, men, mening, menku, muhabb, musht, namunch, nar, navobax, nima, noml, o'g'irla, o'qurman, o'tiri, o'xshay, och, oda, odiljon, old, oqar, oqsaqol, orasidag, orzuy, oxi, oʻxsha, oʻy, oʻyin, oʻz, oʻzi, oʻzlarini, paro, pichirl, qald, qaldirg'och, qand, qaye, qayerdan, qayoq, qaysi, qilin, qo'rqma, qo'y, qo'yip, qol, qold, qoʻl, qoʻngʻiz, qoʻy, qur, qush, qutulol, quyon, sado, san, saqlagu, saqlay, saqlayolma, sayohatch, sen, senda, senga, senlar, sharidag, shu, shun, shund, shuning, siz, sizga, sizni, soʻr, surt, suv, tomave, topolma, tosh, tur, tush, tut, u, ular, ulardan, ularga, ularni, ularning, ulugʻlan, und, unda, undan, undanda, ung, unga, uni, uning, uningde, urish, uzoq, yasabdiku, yer, yo'liq, yordamla, yuv, zavqlan, zavqlantir</li>
+      <li>This corpus contains 39 lemmas tagged as pronouns (PRON): ana, barcha, bir, birov, biz, biя, bu, emas, eng, hamma, ich, kim, lekin, mana, men, namuncha, necha, nechi, nima, o'z, oʻz, oʻzi, o‘z, qancha, qanday, qayer, qaysi, san, sen, shu, shuning, siz, siя, tur, u, ular, un, unda, uning</li>
       </ul>
     </td>
   </tr>
@@ -190,7 +190,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 37 lemmas tagged as determiners (DET): asoslin, avval, barch, barcha, baʼzi, bir, borliq, bu, buncha, bunday, eki, haligi, hamma, har, hech, ket, koʻplab, ma'lum, muncha, naf, nech, necha, nechi, qancha, qanday, qay, qaysi, qol, shu, shuncha, shunday_, shundoy, tashqarisidag, tur, vaqt, xarve, yashil</li>
+      <li>This corpus contains 21 lemmas tagged as determiners (DET): barcha, baʼzi, bir, biror, bu, buncha, bunday, haligi, hamma, har, hech, koʻplab, muncha, necha, qancha, qanday, qayi, qaysi, shu, shuncha, shunday</li>
       </ul>
     </td>
   </tr>
@@ -207,7 +207,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: barcha, bir, bu, hamma, ket, qaysi, qol, shu, tur</li>
+      <li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: barcha, bir, bu, hamma, necha, qancha, qanday, qaysi, shu</li>
       </ul>
     </td>
   </tr>
@@ -224,7 +224,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): bo'l, bor, boʻl, edi, ekan, emas, kel, mumkin, yoʻq</li>
+      <li>This corpus contains 9 lemmas tagged as auxiliaries (AUX): bo'l, bor, boʻl, edi, ekan, emas, kel, kerak, mumkin</li>
       </ul>
     </td>
   </tr>
@@ -285,7 +285,7 @@ udver: '2'
       <ul>
         <li>Conv
         <ul>
-          <li>VERB: boʻlib, deb, olib, turib, kelib, qarab, qilib, koʻrib, qaytib, borib</li>
+          <li>VERB: olib, boʻlib, deb, turib, kelib, qarab, qilib, borib, koʻrib, qaytib</li>
         </ul>
         </li>
       </ul>
@@ -316,7 +316,7 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: ekan, edi, boʻldi, boʻlgan, borki, boʻldim, bo'libdi, bo'pti, boʻladi, boʻlsangiz</li>
+          <li>AUX: edi, ekan, boʻldi, boʻlgan, bo'libdi, boʻldim, borki, boʻladi, boʻlsangiz, edim</li>
           <li>VERB: dedi, bor, ketdi, boshladi, boʻldi, beradi, qoldi, edi, mari, qiladi</li>
         </ul>
         </li>
@@ -369,7 +369,7 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>VERB: degan, turgan, boʻlgan, qolgan, ketgan, oʻtgan, bo'lgan, kelgan, ketadigan, olgan</li>
+          <li>VERB: degan, qolgan, turgan, boʻlgan, ketgan, oʻtgan, bo'lgan, kelgan, ketadigan, olgan</li>
         </ul>
         </li>
       </ul>
@@ -398,7 +398,7 @@ udver: '2'
       <ul>
         <li>Vnoun
         <ul>
-          <li>VERB: tuzgani, qilish, koʻrish, kelish, olgani, tasvirlash, anglashdan, aytganidan, bo'lmaganligidan, boʻlish</li>
+          <li>VERB: tuzgani, qilish, koʻrish, kelish, olgani, tasvirlash, anglashdan, aytganidan, berish, bo'lmaganligidan</li>
         </ul>
         </li>
       </ul>
@@ -493,7 +493,7 @@ udver: '2'
           <ul>
             <li>ADJ: ba'zilari, boshqalarni, bazi, boshqalarning, qayinlarga, yaqinlarini</li>
             <li>NOUN: bolalar, qushlar, qaldirg'ochlar, qaldirgʻochlarni, asarlarni, bolalari, kishilar, narsalargacha, qizlarni, birlari</li>
-            <li>PRON: ular, ularning, biz, bizga, bizning, ularga, ularni, bizni, siz, senlar</li>
+            <li>PRON: ular, ularning, biz, bizga, bizning, ularga, ularni, bizni, siz, bizda</li>
             <li>VERB: qarasa, boʻlsa, olamiz, ayamasangiz, beramiz, bo'lishgandi, boʻlmagan, boʻlsada, boʻlsak, kelsa</li>
             <li>VERB-Conv: qarasa, boʻlsa, boʻlsada, kelsa, o'xshamasa, qilinsa, qilsa</li>
             <li>VERB-Fin: olamiz, ayamasangiz, beramiz, bo'lishgandi, boʻlmagan, boʻlsak, ketasilar, koʻrishaylik, o'tirishdi, o'ynaymiz</li>
@@ -540,10 +540,10 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>AUX: edi, boʻldi, boʻlgan, boʻlsa, boʻldim, boʻlsangiz, bo'libdi, bo'lsa, bo'pti, boʻladi</li>
-            <li>AUX-Fin: edi, boʻldi, boʻlgan, boʻldim, bo'libdi, bo'pti, boʻladi, boʻlsangiz, edim, ekansiz</li>
-            <li>NOUN: og'ziga, tonna, yuk, aylinishi, balasining, boshiga, boshini, choʻli, ekanligi, haqiqatini</li>
-            <li>PRON: u, men, sen, uning, uni, siz, unga, mening, mendan, senda</li>
+            <li>AUX: edi, boʻldi, boʻlgan, boʻlsa, bo'libdi, boʻldim, boʻlsangiz, bo'lsa, boʻladi, boʻlsak</li>
+            <li>AUX-Fin: edi, boʻldi, boʻlgan, bo'libdi, boʻldim, boʻladi, boʻlsangiz, edim, ekansiz</li>
+            <li>NOUN: og'ziga, paytgacha, tildan, tonna, yuk, aylinishi, bolasining, boshiga, boshini, choʻli</li>
+            <li>PRON: u, men, sen, uning, uni, siz, unga, mening, hammasini, mendan</li>
             <li>PROPN: Odiljon</li>
             <li>VERB: dedi, ketdi, boshladi, boʻldi, beradi, qoldi, oldi, qiladi, berdi, edi</li>
             <li>VERB-Conv: bo'lsamda, boʻlsa, kelsak, qilsam, qilsang, tashisang, tursa, yugursam</li>
@@ -604,7 +604,7 @@ udver: '2'
           <ul>
             <li>ADJ: yangidan</li>
             <li>NOUN: keyin, yerdan, osmondan, chiqishdan, ildizdan, oradan, suvdan, tushdan, adabiyotdan, avloddan</li>
-            <li>PRON: bundan, mendan, shundan, undan, qayerdan, sizdan, ulardan</li>
+            <li>PRON: bundan, mendan, shundan, qayerdan, sizdan, ulardan, undan</li>
             <li>VERB: kelishdan, uchishdan, anglagandan, anglashdan, aytganidan, bo'lmaganligidan, ketgandan, ketishdan, koʻrinishidan, maqtashidan</li>
             <li>VERB-Vnoun: anglashdan, aytganidan, bo'lmaganligidan, ketishdan, tushunishdan</li>
           </ul>
@@ -650,7 +650,7 @@ udver: '2'
             <li>ADJ: boshqalarni, kunduzni, kerakligini, yaqinlarini</li>
             <li>NOUN: tarixni, chechakni, odamni, uchini, yerni, qaldirgʻochlarni, asarlarni, daraxtni, haykalni, muhitni</li>
             <li>NUM: birini</li>
-            <li>PRON: uni, oʻzini, ularni, meni, bizni, buni, oʻzimni, oʻzingni, qaysisini, seni</li>
+            <li>PRON: uni, oʻzini, ularni, meni, bizni, hammasini, buni, oʻzimni, oʻzingni, qaysisini</li>
             <li>PROPN: qashqarni</li>
             <li>VERB: boʻlishni, boʻlishini, kuzatishni, ochishni, yeyishni, aytganini, ekishni, koʻpayishni, o'tirishni, qilishni</li>
             <li>VERB-Inf: boʻlishni</li>
@@ -697,11 +697,11 @@ udver: '2'
             <li>ADJ: jononiga, sovuqqa, uzoqqa, qayinlarga</li>
             <li>ADV: nimaga</li>
             <li>NOUN: yoshga, suvga, daraxtga, sayohatga, yerga, yilga, yoʻlga, bo'yiga, adabiyotga, bolaga</li>
-            <li>PRON: unga, ularga, bizga, biriga, senga, ularning, unda</li>
+            <li>PRON: unga, ularga, bizga, biriga, bunga, senga, sizga, ularning, unda</li>
             <li>PROPN: qashqarga</li>
             <li>VERB: yoshga, boʻlishga, boʻlishiga, ketishga, tashvishlanishni, toshga, turishga, yigʻishga, chayqalishni, kelishga</li>
             <li>VERB-Inf: olishga</li>
-            <li>VERB-Part: qiganlarga, qutulganiga</li>
+            <li>VERB-Part: qilganlarga, qutulganiga</li>
             <li>VERB-Vnoun: kelishga, kelishiga, yutishga</li>
           </ul>
         </li>
@@ -780,7 +780,7 @@ udver: '2'
             <li>ADJ: ba'zan, baʻzan, chiroyli, sovuqda</li>
             <li>NOUN: payt, holda, ichida, savatda, tunda, vaqtda, yerda, yil, aslida, oldida</li>
             <li>NUM: birida, ikkida, oʻnda</li>
-            <li>PRON: senda</li>
+            <li>PRON: senda, bizda</li>
             <li>PROPN: qashqarda</li>
             <li>VERB: borganda, kelganda, qilganda, qilishda</li>
             <li>VERB-Conv: borganda, qilganda, qilishda</li>
@@ -819,13 +819,14 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
+            <li>ADV: eng</li>
             <li>NOUN: bola, odam, boy, togʻ, dengiz, yili, daraxt, daryo, kampir, keyin</li>
             <li>NUM: bir, biri, oʻn, yarim, yigirma, yuz, besh, ikki, olti, oltmish</li>
-            <li>PRON: bu, u, eng, men, sen, shu, ular, biz, siz, oʻz</li>
-            <li>PROPN: mirza, qashqar, odiljon, mirzo, omonnisa, pomir, taklimakan, yigit</li>
-            <li>VERB: degan, turgan, boʻlgan, bosish, chiqish, kelgan, ketgan, kezish, ochish, qarash</li>
-            <li>VERB-Part: degan, turgan, boʻlgan, kelgan, qolgan, anglagan, bergan, biriktirilgan, bitilgan, chiqqan</li>
-            <li>VERB-Vnoun: boʻlish, kelishi, koʻrish, oʻqish, tushunish</li>
+            <li>PRON: bu, u, men, sen, shu, ular, biz, siz, oʻz, bizga</li>
+            <li>PROPN: mirza, qashqar, odiljon, mirzo, omonniso, pomir, taklimakan, yigit</li>
+            <li>VERB: degan, turgan, boʻlgan, qolgan, bosish, chiqish, kelgan, ketgan, kezish, ochish</li>
+            <li>VERB-Part: degan, qolgan, turgan, boʻlgan, kelgan, anglagan, bergan, biriktirilgan, bitilgan, chiqqan</li>
+            <li>VERB-Vnoun: boʻlish, kelishi, koʻrish, oʻqish, saqlash, tushunish</li>
           </ul>
         </li>
       </ul>
@@ -974,7 +975,9 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>VERB-Fin: olibdi, olmoqchiydim</li>
+            <li>VERB-Conv: baholanib, körsatib</li>
+            <li>VERB-Fin: körsatilsa, olibdi, olmoqchiydim</li>
+            <li>VERB-Vnoun: berish, saqlash</li>
           </ul>
         </li>
       </ul>
@@ -1154,7 +1157,7 @@ udver: '2'
             <li>AUX-Fin: boʻlsangiz</li>
             <li>VERB: qarasa, boʻlsa, boʻlsada, tursa, ayamasangiz, bo'lsamda, boʻlsak, boʻlsam, boʻlsangiz, kelsa</li>
             <li>VERB-Conv: qarasa, boʻlsa, bo'lsamda, boʻlsada, kelsa, kelsak, o'xshamasa, qilinsa, qilsa, qilsam</li>
-            <li>VERB-Fin: ayamasangiz, boʻlsa, boʻlsada, boʻlsak, o'xshasa, olsa, olsak, olsam, tursa</li>
+            <li>VERB-Fin: ayamasangiz, boʻlsa, boʻlsada, boʻlsak, körsatilsa, o'xshasa, olsa, olsak, olsam, tursa</li>
           </ul>
         </li>
       </ul>
@@ -1240,10 +1243,10 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX: edi, boʻldi, boʻlgan, boʻldim, ekan, bo'libdi, bo'pti, boʻladi, edim, edimku</li>
-            <li>AUX-Fin: edi, boʻldi, boʻlgan, boʻldim, bo'libdi, bo'pti, boʻladi, edim, ekan</li>
-            <li>VERB: dedi, ketdi, boshladi, boʻldi, beradi, qoldi, oldi, qiladi, berdi, edi</li>
-            <li>VERB-Fin: dedi, ketdi, boshladi, boʻldi, beradi, qoldi, qiladi, berdi, edi, kirdingiz</li>
+            <li>AUX: edi, ekan, boʻldi, boʻlgan, bo'libdi, boʻldim, borki, boʻladi, edim, edimku</li>
+            <li>AUX-Fin: edi, ekan, boʻldi, boʻlgan, bo'libdi, boʻldim, borki, boʻladi, edim, ekansiz</li>
+            <li>VERB: dedi, ketdi, boshladi, boʻldi, beradi, qoldi, edi, oldi, qiladi, berdi</li>
+            <li>VERB-Fin: dedi, ketdi, boshladi, boʻldi, beradi, qoldi, edi, qiladi, berdi, kirdingiz</li>
           </ul>
         </li>
       </ul>
@@ -1391,8 +1394,8 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
-            <li>VERB: bo'lar, boshlanar, ketadigan, oladigan, olarman, teriladigan</li>
-            <li>VERB-Fin: bo'lar, boshlanar</li>
+            <li>VERB: bo'lar, boshlanar, ketadigan, körsatilsa, oladigan, olarman, teriladigan</li>
+            <li>VERB-Fin: bo'lar, boshlanar, körsatilsa</li>
             <li>VERB-Part: ketadigan, oladigan, teriladigan</li>
           </ul>
         </li>
@@ -1430,12 +1433,12 @@ udver: '2'
       <ul>
         <li>Past
           <ul>
-            <li>AUX: edi, ekan, boʻldi, boʻlgan, boʻldim, bo'libdi, bo'pti, boʻladi, edim, edimku</li>
-            <li>AUX-Fin: edi, boʻldi, boʻlgan, boʻldim, bo'libdi, bo'pti, boʻladi, edim, ekan</li>
-            <li>VERB: dedi, ketdi, boshladi, degan, boʻlgan, turgan, boʻldi, debdi, qolgan, ketgan</li>
+            <li>AUX: edi, ekan, boʻldi, boʻlgan, bo'libdi, boʻldim, boʻladi, edim, edimku</li>
+            <li>AUX-Fin: edi, boʻldi, boʻlgan, bo'libdi, boʻldim, boʻladi, edim, ekan</li>
+            <li>VERB: dedi, ketdi, boshladi, degan, boʻlgan, qolgan, turgan, boʻldi, debdi, ketgan</li>
             <li>VERB-Conv: borganda, olganda, qilganda</li>
             <li>VERB-Fin: dedi, ketdi, boshladi, boʻldi, qoldi, edi, berdi, kirdingiz, oldi, qoldim</li>
-            <li>VERB-Part: degan, boʻlgan, turgan, qolgan, ketgan, oʻtgan, bo'lgan, kelgan, olgan, oʻtirgan</li>
+            <li>VERB-Part: degan, qolgan, boʻlgan, turgan, ketgan, oʻtgan, bo'lgan, kelgan, olgan, oʻtirgan</li>
             <li>VERB-Vnoun: bo'lmaganligidan, boʻlishgani, qoʻyganligini</li>
           </ul>
         </li>
@@ -1593,7 +1596,7 @@ udver: '2'
       <ul>
         <li>Fh
           <ul>
-            <li>VERB: debdi, boʻlibdi, oʻylabdi, qoldiribdi, beribdi, boribdi, kelibdi, koʻrsatibdi, kulibdi, oʻqibdi</li>
+            <li>VERB: debdi, boʻlibdi, oʻylabdi, qoldiribdi, baqiribdi, beribdi, boribdi, kelibdi, koʻrsatibdi, kulibdi</li>
             <li>VERB-Fin: qoldiribdi, so'rabdi</li>
           </ul>
         </li>
@@ -1673,8 +1676,8 @@ udver: '2'
         <li>Dem
           <ul>
             <li>ADV: shunday</li>
-            <li>DET: bu, shu, buncha, haligi</li>
-            <li>PRON: bu, shu, shuning, bundan, shundan, buni</li>
+            <li>DET: bu, shu, bunday, shunday, buncha, haligi</li>
+            <li>PRON: bu, shu, shuning, buni, mana, undan, ana, bir, bularga, bundan</li>
           </ul>
         </li>
       </ul>
@@ -1698,8 +1701,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>DET: bir, har, hech, qanday, shuncha</li>
-            <li>PRON: kim, biri, birov</li>
+            <li>DET: bir, har, baʼzi, biror, hech, koʻplab, muncha, necha, qanday, shuncha</li>
+            <li>PRON: kim, qandaydir, qayergadir, biri, birov, eng</li>
           </ul>
         </li>
       </ul>
@@ -1731,8 +1734,8 @@ udver: '2'
         <li>Int
           <ul>
             <li>ADV: qanday, nimaga, nega</li>
-            <li>DET: qaysi, qanday</li>
-            <li>PRON: nima, kim, qayerdan</li>
+            <li>DET: necha, qancha, bir, qaysi, qanday</li>
+            <li>PRON: nechi, nima, qancha, kim, necha, nimaga, qayerdan, qaysisini</li>
           </ul>
         </li>
       </ul>
@@ -1762,7 +1765,8 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>DET: hech</li>
+            <li>DET: hech, qanday, qancha</li>
+            <li>PRON: kim</li>
           </ul>
         </li>
       </ul>
@@ -1791,7 +1795,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: u, men, sen, ular, uning, ularning, uni, biz, siz, bizga</li>
+            <li>PRON: u, men, sen, ular, uning, ularning, bizga, uni, biz, oʻz</li>
           </ul>
         </li>
       </ul>
@@ -1834,7 +1838,13 @@ udver: '2'
       </ul>
     </td>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Rel
+          <ul>
+            <li>PRON: kimki</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -1861,7 +1871,8 @@ udver: '2'
       <ul>
         <li>Tot
           <ul>
-            <li>DET: har, barcha, hamma</li>
+            <li>DET: har, hamma, barcha</li>
+            <li>PRON: hamma, hammasi, hammaga, hammalariz, hammasini, barchasi</li>
           </ul>
         </li>
       </ul>
@@ -2032,7 +2043,7 @@ udver: '2'
       <ul>
         <li>Yes
           <ul>
-            <li>NOUN: gaplarim, rangdorligini, tushim</li>
+            <li>NOUN: gaplarim, rangdorligini, tushim, umumiyligini</li>
           </ul>
         </li>
       </ul>
@@ -2070,7 +2081,7 @@ udver: '2'
       <ul>
         <li>Yes
           <ul>
-            <li>PRON: oʻz, oʻzini, oʻzi, oʻziga, oʻzimni, oʻzingni, oʻzining</li>
+            <li>PRON: oʻz, oʻzini, oʻzi, oʻziga, oʻzimni, oʻzingiz, oʻzingizga, oʻzingni, oʻzining, oʻzlarini</li>
           </ul>
         </li>
       </ul>
@@ -2165,7 +2176,7 @@ udver: '2'
           <ul>
             <li>AUX: boʻlsangiz, ekansiz</li>
             <li>AUX-Fin: boʻlsangiz, ekansiz</li>
-            <li>PRON: sen, siz, senda, sizni, san, senga, seni, senlar, sizdan, sizlar</li>
+            <li>PRON: sen, siz, senda, sizni, san, senga, seni, senlar, sizdan, sizga</li>
             <li>VERB: kirdingiz, berasan, koʻrdingizmi, qilasan, qilasiz, ayamasangiz, bering, bildingiz, bo'ling, boʻldingizmi</li>
             <li>VERB-Conv: qilsang, tashisang</li>
             <li>VERB-Fin: kirdingiz, berasan, koʻrdingizmi, qilasan, qilasiz, ayamasangiz, bering, bo'ling, boʻldingizmi, chaqirdingizmi</li>
@@ -2212,9 +2223,9 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>AUX: edi, boʻldi, boʻlgan, boʻlsa, bo'libdi, bo'lsa, bo'pti, boʻladi, emas, emasmi</li>
-            <li>AUX-Fin: edi, boʻldi, boʻlgan, bo'libdi, bo'pti, boʻladi</li>
-            <li>PRON: u, ular, uning, ularning, uni, unga, ularga, ularni, shuning, bu</li>
+            <li>AUX: edi, boʻldi, boʻlgan, boʻlsa, bo'libdi, bo'lsa, boʻladi, emas, emasmi</li>
+            <li>AUX-Fin: edi, boʻldi, boʻlgan, bo'libdi, boʻladi</li>
+            <li>PRON: u, ular, uning, ularning, uni, unga, ularga, ularni, hammasini, shuning</li>
             <li>VERB: dedi, ketdi, boshladi, boʻldi, beradi, qarasa, qoldi, oldi, qiladi, berdi</li>
             <li>VERB-Conv: qarasa, boʻlsa, boʻlsada, kelsa, o'xshamasa, qilinsa, qilsa, tursa</li>
             <li>VERB-Fin: dedi, ketdi, boshladi, boʻldi, beradi, qoldi, qiladi, berdi, edi, oldi</li>
@@ -2376,7 +2387,7 @@ udver: '2'
           <ul>
             <li>ADP
               <ul>
-                <li>PRON: shuning, shudan, bundan</li>
+                <li>PRON: shuning, bundan, shudan</li>
               </ul>
             </li>
           </ul>
@@ -2436,7 +2447,7 @@ udver: '2'
                 <li>ADJ: ba'zilari, yangi, bazi, kerakligini, nimasi, qari, qo'li, tikoni, togʻrisidagi, yaqinlarini</li>
                 <li>NOUN: yili, ichida, kuni, bo'yiga, bolalari, buvisi, aslida, bo'yi, boshini, oldida</li>
                 <li>NUM: biri, birini</li>
-                <li>PRON: oʻzini, oʻzi, oʻzining</li>
+                <li>PRON: oʻzini, oʻzi, oʻzining, oʻzlarini</li>
                 <li>VERB: aylanishi, aytganidan, aytganini, boʻlishgani, boʻlishi, chaqnashi, kelishi, koʻrinishidan, maqtashidan, qo'rqqanidan</li>
                 <li>VERB-Part: qutulganiga</li>
                 <li>VERB-Vnoun: aytganidan, boʻlishgani, kelishi, qolishi</li>
@@ -2472,7 +2483,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: edi, boʻl, ekan, emas, yoʻq, kel.</li>
+      <li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: edi, boʻl, ekan, emas, kel.</li>
       </ul>
     </td>
   </tr>
@@ -2489,7 +2500,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: boʻl, ekan, edi, bo'l, mumkin.</li>
+      <li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: boʻl, ekan, edi, bo'l, kerak, mumkin.</li>
       </ul>
     </td>
   </tr>
@@ -2561,7 +2572,7 @@ udver: '2'
             <li>VERB--NOUN-Acc (1)</li>
             <li>VERB--NOUN-Gen (3)</li>
             <li>VERB--NOUN-Nom (142)</li>
-            <li>VERB--PRON (3)</li>
+            <li>VERB--PRON (2)</li>
             <li>VERB--PRON-Dat (1)</li>
             <li>VERB--PRON-Gen (1)</li>
             <li>VERB--PRON-Nom (73)</li>
@@ -2571,7 +2582,7 @@ udver: '2'
             <li>VERB-Conv--PRON (1)</li>
             <li>VERB-Conv--PRON-Nom (9)</li>
             <li>VERB-Fin--NOUN (43)</li>
-            <li>VERB-Fin--NOUN-Nom (79)</li>
+            <li>VERB-Fin--NOUN-Nom (80)</li>
             <li>VERB-Fin--PRON (1)</li>
             <li>VERB-Fin--PRON-Dat (1)</li>
             <li>VERB-Fin--PRON-Nom (51)</li>
@@ -2651,13 +2662,13 @@ udver: '2'
             <li>VERB--NOUN (46)</li>
             <li>VERB--NOUN-Acc (73)</li>
             <li>VERB--NOUN-Nom (29)</li>
-            <li>VERB--PRON (7)</li>
-            <li>VERB--PRON-Acc (16)</li>
+            <li>VERB--PRON (5)</li>
+            <li>VERB--PRON-Acc (17)</li>
             <li>VERB--PRON-Nom (2)</li>
             <li>VERB-Conv--NOUN (12)</li>
             <li>VERB-Conv--NOUN-Acc (42)</li>
             <li>VERB-Conv--NOUN-Nom (12)</li>
-            <li>VERB-Conv--PRON-Acc (6)</li>
+            <li>VERB-Conv--PRON-Acc (7)</li>
             <li>VERB-Fin--NOUN (10)</li>
             <li>VERB-Fin--NOUN-Acc (29)</li>
             <li>VERB-Fin--NOUN-Nom (18)</li>
@@ -2672,7 +2683,7 @@ udver: '2'
             <li>VERB-Part--PRON-Acc (2)</li>
             <li>VERB-Part--PRON-Nom (1)</li>
             <li>VERB-Vnoun--NOUN (2)</li>
-            <li>VERB-Vnoun--NOUN-Acc (4)</li>
+            <li>VERB-Vnoun--NOUN-Acc (6)</li>
             <li>VERB-Vnoun--NOUN-Nom (4)</li>
             <li>VERB-Vnoun--PRON-Acc (1)</li>
           </ul>
@@ -2759,7 +2770,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 7 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: qil oʻzini, ayblamoq oʻzimni, otd oʻzini, qil oʻzingni, taniganlig oʻzini, tut oʻzini, unutu oʻzini</li>
+        <li>This corpus contains 8 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: qil oʻzini, aybla oʻzimni, ot oʻzini, ot oʻzlarini, qil oʻzingni, taniganlik oʻzini, tut oʻzini, unut oʻzini</li>
       </ul>
     </td>
   </tr>
