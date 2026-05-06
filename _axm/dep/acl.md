@@ -11,7 +11,8 @@ that modify a predicate. The head of the `acl` relation is the noun
 that is modified, and the dependent is the head of the clause that
 modifies the noun.
 
-Note that in Armenian relative clauses get assigned a specific relation [acl:relcl](), a subtype of `acl`.
+Note that in Middle Armenian relative clauses get assigned a specific relation [acl:relcl](), a subtype of `acl`.
+
 
 ~~~ sdparse
 հայնց մարդիք լինին յայլազգեացն , որ այն շմորոյն պատճառք լինին լել \n there are such men among the foreigners who caused that tumult
