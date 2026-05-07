@@ -23,19 +23,11 @@ udver: '2'
 
 ### Tags
 
-#### Participles
-
-Participles are tagged as `VERB`s with `FEATS` as follows:
-* `VerbForm=Part`
-* `Voice=Act` or `Voice=Pass`
-* Full nominal agreement (Case, Gender, Number)
-
-The participle's `LEMMA` should be the 3rd-person singular present indicative of the underlying verb
-(e.g. *pareta* "afflicted" has the lemma *pareti* "goes beyond").
+Participles are tagged as `VERB`s and not `ADJ`s or `ADV`s.
 
 #### Particles
 
-The following particles should get the `UPOS` `PART`:
+The following particles get the `PART` `UPOS`:
 
 * The quote-ending particle *ti*
   * `LEMMA`: *iti*
@@ -49,7 +41,31 @@ The following particles should get the `UPOS` `PART`:
 
 ### Features
 
-*
+#### Verbs
+
+All verb forms in Pāli should get the `VERB` `UPOS`
+and their `LEMMA` is the 3rd-person singular present indicative of the underlying verb.
+
+For example, the past participle *gata* "gone" has the `LEMMA` *gacchati* "goes".
+
+##### Finite Verbs
+
+Should have the `VerbForm=Fin` along with `Mood`, `Tense`, `Person`, `Number`, and `Voice` as appropriate.
+
+##### Absolutives
+
+Absolutives formed in Pāli with *-tvā* / *-ya* get the `FEATS` `VerbForm=Conv` and are attached to the main verb via `advcl`.
+
+##### Infinitives
+
+Infinitives in Pāli end in *-tuṃ*, have the `VerbForm=Inf` and are typically `xcomp`.
+
+##### Participles
+
+Participles have the following `FEATS`: 
+* `VerbForm=Part`
+* `Voice=Act` or `Voice=Pass`
+* Full nominal agreement (Case, Gender, Number)
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
