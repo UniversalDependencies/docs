@@ -53,6 +53,8 @@ The following particles get the `PART` `UPOS`:
 
 ### Features
 
+Some forms in Pāli are ambiguous. For example, a feminine noun of the `-ā` class with a `-āya` suffix might be Singular Instrumental, Ablative, Genitive, Dative, or Locative! When `Case` can be inferred from context, feel free to mark just the semantically correct case.  If multiple parses are reasonable in a given context, list all the semantically plausible values in alphabetical order, separated by commas (e.g. if you have an *-āya* noun, and all but instrumental are reasonable parses, mark it `Case=Abl,Dat,Gen,Loc|Gender=Fem|Number=Sing`).
+
 #### Verbs
 
 All verb forms in Pāli should get the `VERB` `UPOS`
