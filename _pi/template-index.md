@@ -6,6 +6,8 @@ udver: '2'
 
 # UD for Pali <span class="flagspan"><img class="flag" src="../../flags/svg/IN.svg" /></span>
 
+Pāli is an Indo-Aryan language, widely studied as the liturgical language of Theravāda Buddhism.
+
 ## Orthography
 
 * While Pāli can traditionally be written with a variety of scripts, for UD we use [the IAST Romanization standard](https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration).
@@ -13,11 +15,17 @@ udver: '2'
 * As different scripts use different, and sometimes no, punctuation, we further standardize our orthography by **removing all punctuation** from our texts.
 * IAST is case insensitive. Here, we use lowercase with the first letter each sentence capitalized by convention.
 
+## Sentence Segmentation
+
+While we strip out punctuation in our `# text` rows, we do recommend using any punctuation in your source to help segment into sentences.  In the Pāli Text Society and Mahāsaṅgīti editions, you should generally use both semicolons (`;`) and periods (`.`) to split sentences.  However, be aware that Pāli verses may sometimes use semicolons to mark *pāda* "line" boundaries which are not semantic.  Always segment sentences by syntax.
+
 ## Tokenization and Word Segmentation
 
 * Words are generally delimited by spaces.
 * Compounds are split and sandhi undone as it is the custom in Sanskritic linguistics.
-* Multi-word tokens are generally not used. Parts of a multi-word name (e.g. "Saccaka Nigaṇṭhāputta") should get the [flat:name]() dependency relation. 
+* Compounds receive token ranges (e.g. `10-12`) and should get the appropriate [compound]() relation subtype.
+* Sandhi should be marked with a `SpaceAfter=No` in the earlier token's `MISC`.
+* Multi-word tokens are generally not used. Parts of a multi-word name (e.g. "Saccaka Nigaṇṭhāputta") should get the [flat:name]() dependency relation.
 
 ## Morphology
 
@@ -33,6 +41,10 @@ The following particles get the `PART` `UPOS`:
   * `LEMMA`: *iti*
   * `DEPREL`: `mark` to the head of the quoted clause
   * The preceding token should usually get `SpaceAfter=No` (as appropriate)
+* The negation particle *na* (and its sandhi variants)
+  * The lemma is *na*
+  * Mark it as `Polarity=Neg` in `FEATS`
+  * Give it the [advmod]() relation to the negated head.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
