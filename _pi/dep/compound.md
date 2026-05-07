@@ -5,10 +5,10 @@ shortdef: 'compound'
 udver: '2'
 ---
 
-The `compound` relation is used for Pāli compounds to show how their parts relate to each other.
+The `compound` relation subtypes are used for Pāli compounds to show how the compound's parts relate to each other.
 
 A Pāli compound is identified through the fact that only the final member of the compound is grammatically inflected, and the earlier part(s) of the compound are in their uninflected form(s).
-For example, *rukkhapatito* "tree-fallen" has *rukkha* "tree" in its stem form and only "fallen" *patito* is declined.
+For example, *rukkhapatito* "tree-fallen" has *rukkha* "tree" in its stem form and only "fallen" *patito* declined.
 
 Because the last part of the compound is inflected, we treat that part as the root of the compound which relates to the rest of the sentence and the earlier part(s) of the compound receive dependency relations (directly or indirectly) to that final part. The dependency relation to be used for this purpose is `compound` with the specific subtype for the kind of compound it is in traditional (Pāṇinian) analysis:
 

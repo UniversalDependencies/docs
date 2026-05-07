@@ -13,7 +13,7 @@ Pāli is an Indo-Aryan language, widely studied as the liturgical language of Th
 * While Pāli can traditionally be written with a variety of scripts, for UD we use [the IAST Romanization standard](https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration).
 * If your corpus or text is in another script or alternate Romanization, you can use a tool like [aksharamukha](https://aksharamukha.com/python) to automatically convert it to IAST.
 * As different scripts use different, and sometimes no, punctuation, we further standardize our orthography by **removing all punctuation** from our texts.
-* IAST is case insensitive. Here, we use lowercase with the first letter each sentence capitalized by convention.
+* IAST is case insensitive. Here, we use lowercase, with the first letter of each sentence capitalized by convention.
 
 ## Sentence Segmentation
 
@@ -64,7 +64,7 @@ For example, the past participle *gata* "gone" has the `LEMMA` *gacchati* "goes"
 
 ##### Finite Verbs
 
-Should have the `VerbForm=Fin` along with `Mood`, `Tense`, `Person`, `Number`, and `Voice` as appropriate.
+Should have the `VerbForm=Fin` along with `Mood`, `Tense`, `Person`, `Number`, and `Voice`.
 
 ##### Absolutives
 
@@ -79,7 +79,7 @@ Infinitives in Pāli end in *-tuṃ*, have the `VerbForm=Inf` and are typically 
 Participles have the following `FEATS`: 
 * `VerbForm=Part`
 * `Voice=Act` or `Voice=Pass`
-* Full nominal agreement (Case, Gender, Number)
+* Full nominal agreement features (Case, Gender, Number)
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
