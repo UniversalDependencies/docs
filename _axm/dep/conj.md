@@ -5,10 +5,8 @@ shortdef: 'conjunct'
 udver: '2'
 ---
 
-A conjunct is the relation between two elements connected by a
-coordinating conjunction, such as _և_/_ev_ (and), _կամ_/_kam_ (or), or a comma or other punctuation.
-We treat coordination asymmetrically.
-The head of the relation is the first conjunct and all the other conjuncts depend on it via the `conj` relation.
+A conjunct is the relation between two elements connected by a coordinating conjunction, such as _և_/_ev_, _ու_/_ow_ (and), _կամ_/_kam_ (or), or a comma or other punctuation.
+We treat coordination asymmetrically. The head of the relation is the first conjunct and all the other conjuncts depend on it via the `conj` relation.
 
 ~~~ sdparse
 Առ գխտոր եւ նռան ծաղիկ \n Aṙ gxtor ew nṙan çaġik \n Take garlic and pomegranate flower
