@@ -23,6 +23,16 @@ udver: '2'
 
 ### Tags
 
+#### Participles
+
+Participles are tagged as `VERB`s with `FEATS` as follows:
+* `VerbForm=Part`
+* `Voice=Act` or `Voice=Pass`
+* Full nominal agreement (Case, Gender, Number)
+
+The participle's `LEMMA` should be the 3rd-person singular present indicative of the underlying verb
+(e.g. *pareta* "afflicted" has the lemma *pareti* "goes beyond").
+
 #### Particles
 
 The following particles should get the `UPOS` `PART`:
