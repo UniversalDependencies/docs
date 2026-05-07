@@ -5,7 +5,7 @@ shortdef: 'reduplication'
 udver: '2'
 ---
 
-This relation is used generally for reduplicating constructions in Middle Armenian. We consider the case of a reduplication only when the same word is repeated one or more times in sequence, all of the repetitions having the same function and head in the clause, with no other words belonging to other phrases intervening (this condition allows for linearly non-adjacent reduplication, with reduplicated elements possibly governing their own dependents).
+This relation is used generally for reduplicating constructions in Middle Armenian. We consider the case of a reduplication only when the same word is repeated one or more times in sequence, all of the repetitions having the same function and head in the clause, often with other intervening words (conunctins, adpositions, punctuation) belonging to the phrase.
 Reduplication is a common process especially for [adverbs](ADV) and [adjectives](ADJ), but it is also used for reduplicated [noun](NOUN) and [verb](VERB) forms. They can have additional feature of [Echo]().
 
 ~~~ conllu
