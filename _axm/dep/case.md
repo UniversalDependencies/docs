@@ -23,7 +23,7 @@ Currently, we also use `case` for some other case-marking elements treated as se
 1	շաղվես	շաղվել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	եւ	եւ	CCONJ	_	_	5	cc	_	_
 3	սիսռան	սիսեռ|սիսառն|սիսեառն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	5	obl	_	_
-4	չաք	չաք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|ExtPos=ADP|Number=Sing	3	case
+4	չաք	չաք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|ExtPos=ADP|Number=Sing	3	case	_	_
 5	տաս	տալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
 7	որ	որ	SCONJ	_	_	8	mark	_	_
