@@ -23,7 +23,14 @@ udver: '2'
 
 ### Tags
 
-*
+#### Particles
+
+The following particles should get the `UPOS` `PART`:
+
+* The quote-ending particle *ti*
+  * `LEMMA`: *iti*
+  * `DEPREL`: `mark` to the head of the quoted clause
+  * The preceding token should usually get `SpaceAfter=No` (as appropriate)
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.

@@ -19,7 +19,7 @@ Because the last part of the compound is inflected, we treat that part as the ro
   * [compound:tp]() — *tatpuruṣa* (a case relation)
   * [compound:na]() - *nañtatpuruṣa* (a negative relation)
 
-Note that we don't have a *bahuvrīhi* type, because *bahuvrīhi* compounds are internally some other type and are only *bahuvrīhi* by virtue of how they are used in the sentence. Since these `compound` dependency relations are strictly internal to the compound, we don't need a `compound:bv` relation and can use e.g. [amod]() on the final token instead to indicate the e.g. adjectival relationship of the compound as a whole.
+Note that we don't have a *bahuvrīhi* type, because *bahuvrīhi* compounds are internally some other type and are only *bahuvrīhi* by virtue of how they are used in the sentence. Since these `compound` dependency relations are strictly internal to the compound, we don't need a `compound:bv` relation and can use e.g. [amod]() on the final token instead to indicate the e.g. adjectival nature of the compound as a whole.
 
 Compounds should always be annotated with a token range (e.g. `10-12`) and token ranges should get the `compound` relations. Sandhi should not be treated as a token range but should be treated instead as two separate tokens with the first token getting `SpaceAfter=No` to mark the lack of a space after it. Pāli UD expresses the difference between sandhi and compounds in this way.
 
