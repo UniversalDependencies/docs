@@ -74,19 +74,49 @@ Reduplication is a common process especially for [adverbs](ADV) and [adjectives]
 10	երկրպագուներով	երկրպագու	NOUN	_	Animacy=Hum|Case=Ins|Definite=Ind|Number=Plur	5	obl	_	Translit=erkrpagownerov|LTranslit=erkrpagow
 ~~~
 
-~~~ sdparse
-Եղբայրները մեջք մեջքի կանգնած էին ։ \n The-brothers was standing back to-back .
-compound:redup(մեջք, մեջքի)
-compound:redup(back, to-back)
-acl(կանգնած, մեջք)
-acl(standing, back)
+~~~ conllu
+# visual-style 2 4 flat:redup color:blue
+1	Նույնիսկ	նույնիսկ	PART	_	_	2	discourse	_	Translit=Nowynisk|LTranslit=nowynisk
+2	վախենալ	վախենալ	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	0	root	_	Translit=vaxenal|LTranslit=vaxenal|SpaceAfter=No
+3	/	/	PUNCT	_	_	4	punct	_	Translit=/|LTranslit=/|SpaceAfter=No
+4	չվախենալու	վախենալ	VERB	_	Case=Dat|Definite=Ind|Polarity=Neg|Subcat=Intr|VerbForm=Inf|Voice=Mid	2	flat:redup	_	Translit=čvaxenalow|LTranslit=vaxenal
+5	միջև	միջև	ADP	_	AdpType=Post	2	case	_	Translit=miǰew|LTranslit=miǰew|SpaceAfter=No
+6	:	:	PUNCT	_	Foreign=Yes	2	punct	_	Translit=.|LTranslit=.
 ~~~
 
-~~~ sdparse
-Գիրքը ձեռքից ձեռք էր անցնում ։ \n The-book passed from-hand to-hand .
-compound:redup(ձեռքից, ձեռք)
-compound:redup(from-hand, to-hand)
-obl(անցնում, ձեռքից)
-obl(passed, from-hand)
+~~~ conllu
+# visual-style 2 4 flat:redup color:blue
+1	տան	տուն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	2	nmod:poss	_	Translit=tan|LTranslit=town
+2	եղած	եղած	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	7	obj	_	Translit=eġaç|LTranslit=eġaç|SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+4	չեղածը	չեղած	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	flat:redup	_	Translit=čeġaçë|LTranslit=čeġaç
+5	ապառիկով	ապառիկ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	7	obl	_	Translit=apaṙikov|LTranslit=apaṙik
+6	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=em|LTranslit=em
+7	առնում	առնել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=aṙnowm|LTranslit=aṙnel|SpaceAfter=No
+~~~
+
+~~~ conllu
+# visual-style 1 3 flat:redup color:blue
+1	Կողք	կողք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	obl	_	Translit=Koġk’|LTranslit=koġk’|SpaceAfter=No
+2	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+3	կողքի	կողք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	1	flat:redup	_	Translit=koġk’i|LTranslit=koġk’
+4	քայլող	քայլել	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	5	acl	_	Translit=k’ayloġ|LTranslit=k’aylel
+5	շան	շուն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	8	nmod:poss	_	Translit=šan|LTranslit=šown
+6	և	և	CCONJ	_	_	7	cc	_	Translit=ew|LTranslit=ew
+7	տիրոջ	տեր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	5	conj	_	Translit=tiroǰ|LTranslit=ter
+8	քայլվածքները	քայլվածք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	9	nsubj	_	Translit=k’aylvaçk’nerë|LTranslit=k’aylvaçk’
+9	նման	նման	ADJ	_	_	0	root	_	Translit=nman|LTranslit=nman
+10	էին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	9	cop	_	Translit=ēin|LTranslit=em|SpaceAfter=No
+11	։	։	PUNCT	_	_	9	punct	_	Translit=.|LTranslit=.
+~~~
+
+~~~ conllu
+# visual-style 1 3 flat:redup color:blue
+1	հնարավոր	հնարավոր	ADJ	_	_	0	root	_	Translit=hnaravor|LTranslit=hnaravor
+2	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	cop	_	Translit=ē|LTranslit=em
+3	թռիչքաձև	թռիչքաձև	ADV	_	_	4	advmod	_	Translit=t’ṙičk’ajew|LTranslit=t’ṙičk’ajew
+4	անցնել	անցնել	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	1	csubj	_	Translit=anc’nel|LTranslit=anc’nel
+5	աշխարհից	աշխարհ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	4	obl	_	Translit=ašxarhic’|LTranslit=ašxarh
+6	աշխարհ	աշխարհ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	flat:redup	_	Translit=ašxarh|LTranslit=ašxarh|SpaceAfter=No
 ~~~
 <!-- Interlanguage links updated St 6. května 2026, 20:46:06 CEST -->
