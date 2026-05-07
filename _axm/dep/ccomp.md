@@ -48,10 +48,16 @@ the appropriate relation is [xcomp]().
 13	արգելուլ	արգելուլ	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	11	xcomp	_	_
 ~~~
 
-~~~ sdparse
-պարտի թագաւորն զիր իրաւունքն տանել ըղորդ \n The King is obligated to administer his justice with integrity 
-xcomp(պարտի, տանել)
-xcomp(obligated, to-administer)
+~~~ conllu
+# visual-style 1 6 xcomp color:blue
+1	պարտի	պարտել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	թագաւորն	թագաւոր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	1	nsubj	_	_
+3-4	զիր	_	_	_	_	_	_	_	_
+3	զ	զ	ADP	_	AdpType=Prep	4	case	_	_
+4	իր	իր	DET	_	Case=Acc|Number=Sing|Person=3|PronType=Poss|Reflex=Yes	5	det:poss	_	_
+5	իրաւունքն	իրաւունք	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing	6	obj	_	_
+6	տանել	տանել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	1	xcomp	_	_
+7	ըղորդ	ըղորդ	ADV	_	_	6	advmod	_	SpaceAfter=No
 ~~~
 
 The key difference here is that, while it is possible to interpret the first sentence as meaning that the one who forbids is not the one who will draw, in the second sentence it is clear that the 
