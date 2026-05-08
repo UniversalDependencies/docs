@@ -17,20 +17,33 @@ We treat coordination asymmetrically. The head of the relation is the first conj
 5	ծաղիկ	ծաղիկ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	conj	_	_
 ~~~
 
-~~~ sdparse
-Եւ զդստերսն իրաւունք է ՝ որ ի նահապետութեան տուն կարգեն , որ է թագաւոր կամ բրինձ կամ մարգիզ կամ այսպիսիքն ։ \n Ew zdstersn irawownk’ ē՝ or i nahapetowt’ean town kargen, or ē t’agawor kam brinj kam margiz kam ayspisik’n . \n ARegarding the daughters , the law requires that they be married into noble families , such as those of a King , or a Prince , or a Marquis , or those-of-similar-rank .
-conj(թագաւոր, բրինձ)
-cc(բրինձ, կամ)
-conj(թագաւոր, մարգիզ)
-cc(մարգիզ, կամ)
-conj(թագաւոր, այսպիսիքն)
-cc(այսպիսիքն, կամ)
-conj(King, Prince)
-cc(Prince, or)
-conj(King, Marquis)
-cc(Marquis, or)
-conj(King, those-of-similar-rank)
-cc(those-of-similar-rank, or)
+~~~ conllu
+# visual-style 15 17 conj color:blue
+# visual-style 15 19 conj color:blue
+# visual-style 15 21 conj color:blue
+1	Եւ	եւ	CCONJ	_	_	4	cc	_	_
+2-3	զդստերսն	_	_	_	_	_	_	_	_
+2	զ	զ	ADP	_	AdpType=Prep	3	case	_	_
+3	դստերսն		դուստր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	4	obl	_	_
+4	իրաւունք	իրաւունք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
+5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	_
+6	՝	՝	PUNCT	_	_	11	punct	_	_
+7	որ	որ	SCONJ	_	_	11	mark	_	_
+8	ի	ի	ADP	_	AdpType=Prep	10	case	_	_
+9	նահապետութեան	նահապետութիւն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	10	nmod:poss	_	_
+10	տուն	տուն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	11	obl	_	_
+11	կարգեն	կարգել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	4	csubj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	որ	որ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Rel	15	nsubj	_	_
+14	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	15	cop	_	_
+15	թագաւոր	թագաւոր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	10	acl:relcl	_	_
+16	կամ	կամ	CCONJ	_	_	17	cc	_	_
+17	բրինձ	բրինձ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	15	conj	_	_
+18	կամ	կամ	CCONJ	_	_	19	cc	_	_
+19	մարգիզ	մարգիզ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	15	conj	_	_
+20	կամ	կամ	CCONJ	_	_	20	cc	_	_
+21	այսպիսիքն	այսպիսի	PRON	_	Case=Nom|Definite=Def|Deixis=Prox|PronType=Dem	15	conj	_	SpaceAfter=No
+22	։	։	PUNCT	_	_	4	punct	_	_
 ~~~
 
 Coordinate clauses are treated the same way as coordination of other constituent types:
