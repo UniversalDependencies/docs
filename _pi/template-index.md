@@ -24,7 +24,7 @@ While we strip out punctuation in our `# text` rows, we do recommend using any p
 * Words are generally delimited by spaces.
 * Compounds are split and sandhi undone as it is the custom in Sanskritic linguistics.
 * Compounds receive token ranges (e.g. `10-12`) and should get the appropriate [compound]() relation subtype.
-* Sandhi should be marked with a `SpaceAfter=No` in the earlier token's `MISC`.
+* Sandhi should be marked with a `SpaceAfter=No` in the earlier token's `MISC` and should not get a range id.
 * Multi-word tokens are generally not used. Parts of a multi-word name (e.g. "Saccaka Nigaṇṭhāputta") should get the [flat:name]() dependency relation.
 
 ## Morphology
@@ -41,10 +41,18 @@ The following particles get the `PART` `UPOS`:
   * `LEMMA`: *iti*
   * `DEPREL`: `mark` to the head of the quoted clause
   * The preceding token should usually get `SpaceAfter=No` (as appropriate)
-* The negation particle *na* (and its sandhi variants)
+* The negation particle *na* / *n'*
   * The lemma is *na*
   * Mark it as `Polarity=Neg` in `FEATS`
   * Give it the [advmod]() relation to the negated head.
+* *api* / *pi*
+  * The lemma is *api*
+  * It should normally get the [discourse]() dependency relation when used rhetorically, but can get `advmod` if used conjunctively.
+* *eva* and *kho*
+  * Normally get the `discourse` dependency, except in `fixed` phrases
+* *kira*
+  * When used as "apparently" it should also get the `discourse` relation.
+  * Note that "*kira*" is not a particle but a `VERB` if it is the imperative 2nd sg or the reflexive aorist 1st sg of *kirati*.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
