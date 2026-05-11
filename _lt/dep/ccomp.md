@@ -8,7 +8,7 @@ udver: '2'
 A clausal complement of a verb or adjective is a dependent clause which is a core argument. That is, it functions like an object of the verb, or adjective.
 
 ~~~ sdparse
-Jis sako, kad tu mėgsti plaukti. \n He says that you like to-swim.
+Jis sako , kad tu mėgsti plaukti. \n He says that you like to-swim.
 ccomp(sako, mėgsti)
 ccomp(says, like)
 ~~~
