@@ -7,9 +7,10 @@ udver: '2'
 
 The `flat:name` relation is a specialization of [flat]() used for names.
 
-~~~ sdparse
-Յովանէս Թլկուրանցի
-flat:name(Յովանէս, Թլկուրանցի)
+~~~ conllu
+# visual-style 1 2 flat:name color:blue
+1	Յովանէս	Յովանէս	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
+2	Թլկուրանցի	Թլկուրանցի	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Prs|Number=Sing	1	flat:name	_	_
 ~~~
 
 Names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the `flat:name` label. This also works for numerals that 
@@ -17,8 +18,8 @@ are part of the names.
 Words joined by `flat:name` should all be part of a minimal noun phrase; otherwise regular syntactic relations should be used. 
 
 ~~~ sdparse
-Գարեգին/PROPN[Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing] Բ/ADJ[NumForm=Armenian|NumType=Ord]
-flat:name(Գարեգին, Բ)
+1	Գարեգին	Գարեգին	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	10	nmod:poss	_	_
+2	Բ	Բ	ADJ	_	NumForm=Armenian|NumType=Ord	1	flat:name	_	_
 ~~~
 
 The titles/honorifics, when immediately following the first noun, are analyzed using the `flat:name` relation. They are treated as a part of the names: (see also [nmod]() and [apposition](appos)): 
