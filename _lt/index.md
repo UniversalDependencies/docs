@@ -88,7 +88,7 @@ udver: '2'
 
 ### Relations Overview
 
-* Following are the links to lithuanian relation documentation: [acl](), [advcl](), [advmod](), [amod](), [appos](), [aux](), [case](), [cc](), [ccomp](), [compound](), [conj](), [cop](), [csubj](), [dep](), [det](), [det:nummod](), [discourse](), [dislocated](), [flat](), [iobj](), [list](), [mark](), [nmod](), [nsubj](), [nummod](), [obj](), [obl](), [orphan](), [parataxis](), [punct](), [reparandum](), [root](), [vocative](), [xcomp]()
+* Following are the links to lithuanian relation documentation: [acl](), [advcl](), [advmod](), [amod](), [appos](), [aux](), [case](), [cc](), [ccomp](), [compound](), [conj](), [cop](), [csubj](), [dep](), [det](), [det:nummod](), [discourse](), [dislocated](), [fixed](), [flat](), [iobj](), [list](), [mark](), [nmod](), [nsubj](), [nummod](), [obj](), [obl](), [orphan](), [parataxis](), [punct](), [reparandum](), [root](), [vocative](), [xcomp]()
 
 * The following relation subtypes are used in Lithuanian:
   * [nsubj:pass]() for nominal subjects of passive verbs
@@ -103,9 +103,7 @@ udver: '2'
   * [nmod:obl]() for non-agreeing attribute expressed by an adverbial modifier
   * [nmod:gov]() for nominal modifier describing the governing noun’s quantity or measure
   * [nmod:arg]() for required nominal dependent of a noun
-  * [acl:relcl]()
-  * [advmod:emph]()
-  * [det:nummod]()
+  * [det:nummod]() for pronominal quantifier agreeing in case with the noun
 * The following relation types are not used in Lithuanian at all:
   [advcl:pred](), [advcl:relcl](), [advmod:lmod](), [clf](), [csubj:outer](), [det:numgov](), [expl](), [goeswith](), [nmod:poss](), [nmod:tmod](), [nmod:unmarked](), [nsubj:outer](), [obl:lmod](), [obl:tmod]()
 
