@@ -23,6 +23,12 @@ Note, that the titles/honorifics, when immediately following the first noun, are
 2	Հերացի	Հերացի	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Prs|Number=Sing	1	flat:name	_	_
 ~~~
 
+~~~ conllu
+# visual-style 1 2 flat:name color:blue
+1	Հեթում	Հեթում	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
+2	արքայ	արքայ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	1	flat:name	_	_
+~~~
+
 
 ## Dates and Complex Numerals
 
