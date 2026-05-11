@@ -28,23 +28,23 @@ Note, that the titles/honorifics, when immediately following the first noun, are
 
 The `flat` relation is also used for numerals and numerical expressions that lack phrasal structure. The most left numeral is the head, the other numerals are attached as its modifiers.
 
-~~~ sdparse
-հարոյր տասնուիաւթն \n one hundred seventeen
-flat(հարոյր, տասնուիաւթն)
-flat(hundred, seventeen)
+~~~ conllu
+# visual-style 1 2 flat color:blue
+1 հարոյր հարոյր NUM	_	NumForm=Word|NumType=Card	0	root	_ _
+2 տասնուիաւթն տասնուիաւթն NUM	_	NumForm=Word|NumType=Card	1	flat	_ _
 ~~~
 
 This relation is also used for synonymic or antonymic coordinative compounds. These are analytical constructions where two distinct words combine to form a single semantic unit with a collective or intensified meaning.
 
 ~~~ conllu
-# visual-style 2 4 flat:redup color:blue
+# visual-style 1 3 flat color:blue
 1	ահ	ահ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
 2	ու	ու	CCONJ	_	_	3	cc	_	_
 3	դող	դող	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	flat	_	_
 ~~~
 
 ~~~ conllu
-# visual-style 2 4 flat:redup color:blue
+# visual-style 1 3 flat color:blue
 1	չար	չար	ADJ	_	Degree=Pos	0	root	_	_
 2	ու	ու	CCONJ	_	_	3	cc	_	_
 3	բարի	բարի	ADJ	_	Degree=Pos	1	flat	_	_
