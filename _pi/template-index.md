@@ -32,6 +32,7 @@ While we strip out punctuation in our `# text` rows, we do recommend using any p
 ### Tags
 
 Participles are tagged as `VERB`s and not `ADJ`s or `ADV`s.
+This means that they cannot get the `amod` dependency relation when used to modify a noun, so we use `acl` instead to attach it to its target noun.
 
 #### Particles
 
