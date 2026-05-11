@@ -17,19 +17,20 @@ Names are annotated in a flat, head-initial structure, in which all words in the
 are part of the names.
 Words joined by `flat:name` should all be part of a minimal noun phrase; otherwise regular syntactic relations should be used. 
 
-~~~ sdparse
-1	Գարեգին	Գարեգին	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	10	nmod:poss	_	_
+~~~ conllu
+# visual-style 1 2 flat:name color:blue
+1	Գարեգին	Գարեգին	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
 2	Բ	Բ	ADJ	_	NumForm=Armenian|NumType=Ord	1	flat:name	_	_
 ~~~
 
 The titles/honorifics, when immediately following the first noun, are analyzed using the `flat:name` relation. They are treated as a part of the names: (see also [nmod]() and [apposition](appos)): 
 
-~~~ sdparse
-Խոսրով Գ Կոտակ \n Khosrov III the-Small
-flat:name(Խոսրով, Կոտակ)
-flat:name(Khosrov, the-Small)
-flat:name(Խոսրով, Գ)
-flat:name(Khosrov, III)
+~~~ conllu
+# visual-style 1 2 flat:name color:blue
+# visual-style 1 3 flat:name color:blue
+1	Խոսրով	Խոսրով	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
+2	Գ	Գ	ADJ	_	NumForm=Armenian|NumType=Ord	1	flat:name	_	_
+3	Կոտակ	կոտակ	ADJ	_	Style=Vrnc	1	flat:name	_	_
 ~~~
 
 ~~~ sdparse
