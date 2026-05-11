@@ -18,15 +18,22 @@ These discourse elements are attached to the head of the most relevant nearby un
 5	պղընձի	պղինձ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	2	nmod:poss	_	_
 ~~~
 
-~~~ sdparse
-ախիր հող կու դառնաս, այդպէս չես մնալ \n after all, you will turn to dust; you will not remain this way
-discourse(դառնաս, ախիր)
-discourse(will-turn, after-all)
+~~~ conllu
+# visual-style 4 1 discourse color:blue
+1	ախիր	ախիր	PART	_	_	4	discourse	_	_
+2	հող	հող	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	xcomp	_	_
+3	կու	կու	AUX	_	Aspect=Imp|Mood=Ind	4	aux	_	_
+4	դառնաս	դառնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=2|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	_
+6	այդպէս	այդպէս	ADV	_	Deixis=Med|PronType=Dem	8	advmod	_	_
+7	չես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	մնալ	մնալ	VERB	_	Connegative=Yes|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	4	conj	_	_
 ~~~
 
-~~~ sdparse
-թող աւրինաւոր ամուսնանայ \n let him marry in a lawful manner
-discourse(ամուսնանայ, թող)
-discourse(marry, let)
+~~~ conllu
+# visual-style 3 1 discourse color:blue
+1	թող	թողնուլ	VERB	_	Aspect=Prosp|ExtPos=PART|Mood=Imp|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin|Voice=Act	3	discourse	_	_
+2	աւրինաւոր	աւրինաւոր	ADV	_	Style=Var	3	advmod	_	_
+3	ամուսնանայ	ամուսնանալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
 ~~~
 <!-- Interlanguage links updated St 6. května 2026, 20:46:37 CEST -->
