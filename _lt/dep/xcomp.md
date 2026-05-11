@@ -15,7 +15,7 @@ xcomp(pradėjau, dirbti)
 xcomp(started, working)
 ~~~
 
-In Lithuanian, the relation `xcomp` is used to annotate infinitival complements in complex verbal predicates (including secondary infinitives) when they occur with modal verbs such as _galėti (can), sugebėti (be able), pajėgti (be capable), pavykti (succeed), privalėti (must), turėti (have to), reikia (need), tenka (have to), norėti (want), geisti (desire), trokšti (long for), ketinti (intend), vertėti (be worth)_, as well as with aspectual (phase) verbs such as _pradėti (start), baigti (finish), imti (begin), and mesti (stop)_.
+In Lithuanian, the relation `xcomp` is used to annotate infinitival complements in complex verbal predicates (including secondary infinitives) when they occur with modal verbs such as _galėti (can), sugebėti (be able), pajėgti (be capable), pavykti (succeed), privalėti (must), turėti (have to), reikia (need), tenka (have to), norėti (want), geisti (desire), trokšti (long for), ketinti (intend), vertėti (be worth)_, as well as with aspectual (phase) verbs such as _pradėti (start), baigti (finish), imti (begin)_, and _mesti (stop)_.
 
 ~~~ sdparse
 Mes norime susitikti . \n We want to-meet .
@@ -55,7 +55,7 @@ xcomp(sakė, suprantanti)
 xcomp(said, she-understands)
 ~~~
 
-The `xcomp` relation is also used to annotate obligatory secondary predicatives (i.e. predicative complements) of the main predicate. This includes the nominal or adjectival complement of a complex predicate with a “non-canonical” copular-like construction, such as verbs meaning `pretend, seem, become, act, feel`, etc. (e.g. `apsimesti “pretend”, atrodyti “seem”, darytis “become”, dėtis “act as if”, jaustis “feel”, (iš)likti “remain”, daryti / padaryti “make”, pasidaryti “become”, pasijusti “feel oneself”, pasirodyti / rodytis “appear/seem”, tapti “become"`).
+The `xcomp` relation is also used to annotate obligatory secondary predicatives (i.e. predicative complements) of the main predicate. This includes the nominal or adjectival complement of a complex predicate with a “non-canonical” copular-like construction, such as verbs meaning _pretend, seem, become, act, feel_, etc. (e.g. _apsimesti “pretend”, atrodyti “seem”, darytis “become”, dėtis “act as if”, jaustis “feel”, (iš)likti “remain”, daryti / padaryti “make”, pasidaryti “become”, pasijusti “feel oneself”, pasirodyti / rodytis “appear/seem”, tapti “become"_).
 
 ~~~ sdparse
 Mergaitė atrodė linksma . \n The-girl seemed cheerful .
@@ -80,7 +80,7 @@ The `xcomp` relation is also used to annotate nominal predicates in the instrume
 ~~~ sdparse
 Jie apsimetė herojais . \n They pretended to-be-heores .
 xcomp(apsimetė, herojais)
-xcomp(pretended, to-be-heroes)
+xcomp(pretended, to-be-heores)
 ~~~
 
 ~~~ sdparse
@@ -89,7 +89,7 @@ xcomp(būdavo, stebėtojais)
 xcomp(used-to-be, observers)
 ~~~
 
-The `xcomp` relation is also used with certain other verbs such as _(pa)skelbti (“declare”), (pa)skirti (“appoint”), and įvardinti (“name”)_, when they take an obligatory secondary predicative complement.
+The `xcomp` relation is also used with certain other verbs such as _(pa)skelbti (“declare”), (pa)skirti (“appoint”)_, and _įvardinti (“name”)_, when they take an obligatory secondary predicative complement.
 
 ~~~ sdparse
 Skelbiu šį sąrašą baigtą . \n I-declare this list finished .
