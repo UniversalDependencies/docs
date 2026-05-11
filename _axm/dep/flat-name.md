@@ -33,15 +33,9 @@ The titles/honorifics, when immediately following the first noun, are analyzed u
 3	Կոտակ	կոտակ	ADJ	_	Style=Vrnc	1	flat:name	_	_
 ~~~
 
-~~~ sdparse
-Արշակ թագավոր \n King Arshak 
-flat:name(Արշակ, թագավոր)
-flat:name(King, Arshak)
-~~~
-
-~~~ sdparse
-Զարեհ էֆենդի \n Zareh Efendi 
-flat:name(Զարեհ, էֆենդի)
-flat:name(Zareh, Efendi)
+~~~ conllu
+# visual-style 1 2 flat:name color:blue
+1 Սմբատ Սմբատ PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
+2 գունդուստապլ գունդուստապլ Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	1	flat:name	_	_
 ~~~
 <!-- Interlanguage links updated St 6. května 2026, 20:46:59 CEST -->
