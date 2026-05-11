@@ -40,6 +40,15 @@ flat(հարոյր, տասնուիաւթն)
 flat(hundred, seventeen)
 ~~~
 
+This relation is also used for synonymic or antonymic coordinative compounds. These are analytical constructions where two distinct words combine to form a single semantic unit with a collective or intensified meaning.
+
+~~~ conllu
+# visual-style 2 4 flat:redup color:blue
+1	ահ	ահ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
+2	ու	ու	CCONJ	_	_	3	cc	_	_
+3	դող	դող	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	flat	_	_
+~~~
+
 Date expressions which have a very clear syntactic structure, should be annotated with regular dependency relations. In
 other cases, they have a flat structure with no clearly discernible head.
 <!-- Interlanguage links updated St 6. května 2026, 20:46:54 CEST -->
