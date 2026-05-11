@@ -32,7 +32,11 @@ described [on the changes page](https://universaldependencies.org/changes.html#s
 ~~~
 
 ~~~ sdparse
-
+1-2	յայլ	_	_	_	_	_	_	_	_
+1	յ	ի	ADP	_	AdpType=Prep	22	case	_	_
+2	այլ	այլ	DET	_	PronType=Ind	22	det	_	_
+3	դատաւորքն	դատաւոր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	23	iobj	_	_
+4	թողու	թողուլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	SpaceAfter=No
 ~~~
 
 When there is a [clausal complement](ccomp), then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an `iobj`, parallel to
