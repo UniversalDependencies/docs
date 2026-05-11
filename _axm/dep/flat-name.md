@@ -35,7 +35,7 @@ The titles/honorifics, when immediately following the first noun, are analyzed u
 
 ~~~ conllu
 # visual-style 1 2 flat:name color:blue
-1 Սմբատ Սմբատ PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
-2 գունդուստապլ գունդուստապլ Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	1	flat:name	_	_
+1	Սմբատ	Սմբատ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
+2	գունդուստապլ	գունդուստապլ	NOUN	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	1	flat:name	_	_
 ~~~
 <!-- Interlanguage links updated St 6. května 2026, 20:46:59 CEST -->
