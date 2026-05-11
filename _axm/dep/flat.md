@@ -30,7 +30,7 @@ The `flat` relation is also used for numerals and numerical expressions that lac
 
 ~~~ conllu
 # visual-style 1 2 flat color:blue
-1	հարոյր	հարոյր NUM	_	NumForm=Word|NumType=Card	0	root	_	_
+1	հարոյր	հարոյր	NUM	_	NumForm=Word|NumType=Card	0	root	_	_
 2	տասնուիաւթն	տասնուիաւթն	NUM	_	NumForm=Word|NumType=Card	1	flat	_	_
 ~~~
 
