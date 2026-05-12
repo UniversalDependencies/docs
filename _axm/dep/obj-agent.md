@@ -9,21 +9,21 @@ In a causative construction the `obj:agent` relation attaches the content verb t
 (this initial agent has been demoted and became the object of the causative construction).
 
 ~~~ conllu
-# visual-style 6 4 obj:agent color:blue
-# visual-style 10 9 obj:agent color:blue
-1	այն	այն	DET	_	Deixis=Remt|PronType=Dem	2	det	_	_
-2	սավտան	սավտայ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Var	6	nsubj:caus	_	_
-3	...	...	PUNCT	_	_	6	punct	_	_
-4	կերակուր	կերակուր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	6	obj:agent	_	_
-5	տայ	տալ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Cau	6	aux:caus	_	_
-6	ուտել	ուտել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	0	root	_	_
-7	եւ	եւ	CCONJ	_	_	10	cc	_	_
-8-9	զկերակուրն	_	_	_	_	_	_	_	_
-8	զ	զ	ADP	_	AdpType=Prep	9	case	_	_
-9	կերակուրն	կերակուր	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing	10	obj:agent	_	_
-10	մարսել	մարսել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	6	conj	_	_
-11	տայ	տալ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Cau	10	aux:caus	_	_
+# visual-style 4 6 obj:agent color:blue
+1	տան	տալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	իր	ինք	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
+3	ու	ու	CCONJ	_	_	4	cc	_	_
+4	հաճեցնեն	հաճեցնել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Cau	1	conj	_	_
+5-6	զինք	_	_	_	_	_	_	_	_
+5	զ	զ	ADP	_	AdpType=Prep	6	case	_	_
+6	ինք	ինք	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj:agent	_	_
+7-8	յիր	_	_	_	_	_	_	_	_
+7	յ	ի	ADP	_	AdpType=Prep	9	case	_	_
+8	իր	իր	DET	_	Case=Nom|Number=Sing|Person=3|PronType=Poss	9	det:poss	_	_
+9	գործ	գործ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	obl	_	_
 ~~~
+
+The true agent of the verb _հաճեցնել_ “satisfy (lit: cause to be pleased)” in the sentence is still _ինք_ “him”, i.e. “he is satisfied”~~~
 
 The infinitive verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation.
 <!-- Interlanguage links updated St 6. května 2026, 20:47:55 CEST -->
