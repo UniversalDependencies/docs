@@ -37,6 +37,12 @@ Note that two numeral words are joined using the [flat]() relation.
 Also note that intensifiers are attached to the head of the phrase and not to the number.
 This is in accord with the UD guidelines.
 
+~~~ conllu
+# visual-style 1 2 flat color:blue
+1	հարոյր	հարոյր	NUM	_	NumForm=Word|NumType=Card	0	root	_	_
+2	տասնուիաւթն	տասնուիաւթն	NUM	_	NumForm=Word|NumType=Card	1	flat	_	_
+~~~
+
 Similarly there may be other nodes (such as punctuation) that are attached to the head of the phrase
 and they are related to the whole phrase rather than directly to the head noun:
 
