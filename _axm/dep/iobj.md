@@ -31,7 +31,8 @@ described [on the changes page](https://universaldependencies.org/changes.html#s
 4	մարդն	մարդ	NOUN	_	Animacy=Hum|Case=Acc|Definite=Def|Number=Sing	2	obj	_	_
 ~~~
 
-~~~ sdparse
+~~~ conllu
+# visual-style 4 3 iobj color:blue
 1-2	յայլ	_	_	_	_	_	_	_	_
 1	յ	ի	ADP	_	AdpType=Prep	3	case	_	_
 2	այլ	այլ	DET	_	PronType=Ind	3	det	_	_
@@ -43,7 +44,6 @@ When there is a [clausal complement](ccomp), then the clausal complement is rega
 the simple ditransitive case:
 
 ~~~ sdparse
-
 iobj()
 ccomp()
 iobj()
