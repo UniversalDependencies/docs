@@ -46,20 +46,22 @@ This is in accord with the UD guidelines.
 Similarly there may be other nodes (such as punctuation) that are attached to the head of the phrase
 and they are related to the whole phrase rather than directly to the head noun:
 
-~~~ sdparse
-( 9 օր ) \n ( 9 days )
-punct(օր, (-1)
-nummod(օր, 9-2)
-punct(օր, )-4)
-punct(days, (-6)
-nummod(days, 9-7)
-punct(days, )-9)
+~~~ conllu
+# visual-style 8 1 punct color:blue
+# visual-style 8 9 punct color:blue
+# visual-style 8 3 nummod color:blue
+1	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
+2	հետ	հետ	ADP	_	_	8	case	_	_
+3	Գ	Գ.	NUM	_	NumForm=Armenian|NumType=Card	8	nummod	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	_
+5	/	/	PUNCT	_	_	6	punct	_	SpaceAfter=No
+6	3	3	NUM	_	NumForm=Digit|NumType=Card	3	appos	_	SpaceAfter=No
+7	/	/	PUNCT	_	_	6	punct	_	_
+8	աւուրն	աւուր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	SpaceAfter=No
+9	)	)	PUNCT	_	_	8	punct	_	_
 ~~~
 
 ## Dates
 
 Dates are annotated as follows: if present, the day is the head, the month is _nmod:poss_ and the year is _nummod_:
-
-~~~ sdparse
-~~~
 <!-- Interlanguage links updated St 6. května 2026, 20:47:49 CEST -->
