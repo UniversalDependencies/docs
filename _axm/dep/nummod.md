@@ -7,24 +7,28 @@ udver: '2'
 
 A numeric modifier of a noun is any [number](NUM) phrase that serves to modify the meaning of the noun with a quantity.
 
-~~~ sdparse
-երեք հետ \n erek’ het \n three times
-nummod(հետ, երեք)
-nummod(times, three)
+~~~ conllu
+# visual-style 2 1 nummod color:blue
+1	երեք	երեք	NUM	_	NumForm=Word|NumType=Card	2	nummod	_	_
+2	հետ	հետ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
 ~~~
 
-~~~ sdparse
-ԳՃ. (=300) դեկան պերպեռատ \n GČ̣. dekan perpeṙat \n 300 Decans [coins] of Perperat [gold]
-nummod(դեկան, ԳՃ.)
-nummod(Decans, 300)
+~~~ conllu
+# visual-style 3 1 nummod color:blue
+1	ԳՃ	Գճ	NUM	_	NumForm=Armenian|NumType=Card	3	nummod	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	_
+3	դեկան	դեկան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	nmod	_	_
+4	պերպեռատ	պերպեռատ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
 ~~~
 
-Note that indefinite quantifiers such as _մի, մի այլ_/_mi, mi ayl_ “a (one), another” are tagged [DET]() rather than [NUM](). Therefore their relation to the quantified noun is not `nummod` but [det]():
+Note that indefinite quantifiers such as _մի_/_mi_ “a (one)”, _մի այլ_/_mi ayl_ “another” are tagged [DET]() rather than [NUM](). Therefore their relation to the quantified noun is not `nummod` but [det]():
 
-~~~ sdparse
-ազգ մի այլ \n azg mi ayl \n another type
-det(ազգ, մի)
-det(type, another)
+~~~ conllu
+# visual-style 2 1 det color:blue
+# visual-style 3 1 det color:blue
+1	ազգ	ազգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
+2	մի	մի	DET	_	PronType=Art	1	det	_	_
+3	այլ	այլ	DET	_	PronType=Ind	1	det	_	_
 ~~~
 
 ## Additional remarks
