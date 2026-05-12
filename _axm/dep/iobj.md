@@ -34,8 +34,8 @@ described [on the changes page](https://universaldependencies.org/changes.html#s
 ~~~ sdparse
 1-2	յայլ	_	_	_	_	_	_	_	_
 1	յ	ի	ADP	_	AdpType=Prep	3	case	_	_
-2	այլ	այլ	DET	_	PronType=Ind	22	det	_	_
-3	դատաւորքն	դատաւոր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	3	iobj	_	_
+2	այլ	այլ	DET	_	PronType=Ind	3	det	_	_
+3	դատաւորքն	դատաւոր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	4	iobj	_	_
 4	թողու	թողուլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 ~~~
 
