@@ -43,13 +43,18 @@ described [on the changes page](https://universaldependencies.org/changes.html#s
 When there is a [clausal complement](ccomp), then the clausal complement is regarded as a “clausal direct object” and an object nominal will be an `iobj`, parallel to
 the simple ditransitive case:
 
-~~~ sdparse
-iobj()
-ccomp()
-iobj()
-ccomp()
+~~~ conllu
+# visual-style 4 3 iobj color:blue
+# visual-style 4 7 ccomp color:blue
+1	եւ	եւ	CCONJ	_	_	4	cc	_	_
+2	երկին	երակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	3	nmod:poss	_	_
+3	տիրոջն	տէր	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	4	iobj	_	_
+4	հարցնեն	հարցնել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	թե	թե	SCONJ	_	_	7	mark	_	_
+7-8	ինչպե՞ս	_	_	_	_	_	_	_	_
+7	ինչպես	ինչպես	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	4	ccomp	_	_
+8	՞	՞	PUNCT	_	_	7	punct	_	_
+9	ես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	_
 ~~~
-
-If there are two or more objects, one of them should be [obj]() and the others should be
-`iobj`. In such cases it is necessary to decide what is the most directly affected object _(patient)._
 <!-- Interlanguage links updated St 6. května 2026, 20:47:05 CEST -->
