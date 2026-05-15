@@ -64,7 +64,7 @@ advcl(happened, at-dusk)
 ~~~
 
 ~~~ sdparse
-Eidamas į darbą paslydau . \n While-going to work , I-slipped.
+Eidamas į darbą paslydau . \n While-going to work , I-slipped .
 advcl(paslydau, Eidamas)
 advcl(I-slipped, While-going)
 ~~~
@@ -112,7 +112,7 @@ advcl(experience, open-to)
 ~~~
 
 ~~~ sdparse
-Aš atėjau tam , kad pasikalbėtume. \n I came in-order to-talk .
-advcl(Atėjau, pasikalbėtume)
+Aš atėjau tam , kad pasikalbėtume . \n I came in-order to-talk .
+advcl(atėjau, pasikalbėtume)
 advcl(came, to-talk)
 ~~~
