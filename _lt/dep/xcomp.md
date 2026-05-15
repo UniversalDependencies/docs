@@ -93,13 +93,13 @@ The `xcomp` relation is also used with certain other verbs such as _(pa)skelbti 
 
 ~~~ sdparse
 Skelbiu šį sąrašą baigtą . \n I-declare this list finished .
-xcomp(skelbiu, baigtą)
+xcomp(Skelbiu, baigtą)
 xcomp(I-declare, finished)
 ~~~
 
 ~~~ sdparse
 Atsakingas paskiriamas tas padalinys . \n That department is-appointed as-responsible .
-xcomp(paskiriamas, atsakingas)
+xcomp(paskiriamas, Atsakingas)
 xcomp(is-appointed, as-responsible)
 ~~~
 
@@ -107,7 +107,7 @@ However, when the secondary predicative is expressed in the instrumental case, i
 
 ~~~ sdparse
 Skelbiu šį sąrašą baigtu . \n I-declare this list finished .
-obl:arg(skelbiu, baigtu)
+obl:arg(Skelbiu, baigtu)
 obl:arg(I-declare, finished)
 ~~~
 
