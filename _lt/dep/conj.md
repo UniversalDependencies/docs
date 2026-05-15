@@ -14,7 +14,7 @@ conj(to-sing, play)
 ~~~
 
 ~~~ sdparse
-Lukas yra atviras, geras ir nuoširdus . \n Lukas is open, kind and sincere .
+Lukas yra atviras , geras ir nuoširdus . \n Lukas is open , kind and sincere .
 conj(atviras, geras)
 conj(atviras, nuoširdus)
 conj(open, kind)
@@ -40,11 +40,11 @@ advmod(on, so)
 ~~~
 
 ~~~ sdparse
-Prie jūros galima valgyti ledus , degintis , skaityti knygą ir t. t. \n At the-seaside you-can eat ice-cream, sunbathe, read a-book, and so on.
-conj(valgyti, t.-2 )
-advmod(t.-2 , t.-1 )
-conj(eat, on-1)
-advmod(on, so-1)
+Prie jūros galima valgyti ledus , degintis , skaityti knygą ir t. t. \n At the-seaside you-can eat ice-cream, sunbathe, read a-book , and so on .
+conj(valgyti, t.-13 )
+advmod(t.-13, t.-12 )
+conj(eat, on)
+advmod(on, so)
 ~~~
 
 In Lithuanian “so on” is an abbreviation.
