@@ -10,7 +10,7 @@ udver: '2'
 
 ### Relations Overview
 
-* Following are the links to lithuanian relation documentation: [acl](), [advcl](), [advmod](), [amod](), [appos](), [aux](), [case](), [cc](), [ccomp](), [compound](), [conj](), [cop](), [csubj](), [dep](), [det](), [discourse](), [dislocated](), [fixed](), [flat](), [iobj](), [list](), [mark](), [nmod](), [nsubj](), [nummod](), [obj](), [obl](), [orphan](), [parataxis](), [punct](), [reparandum](), [root](), [vocative](), [xcomp]()
+* Following are the links to Lithuanian relation documentation: [acl](), [advcl](), [advmod](), [amod](), [appos](), [aux](), [case](), [cc](), [ccomp](), [compound](), [conj](), [cop](), [csubj](), [dep](), [det](), [discourse](), [dislocated](), [fixed](), [flat](), [iobj](), [list](), [mark](), [nmod](), [nsubj](), [nummod](), [obj](), [obl](), [orphan](), [parataxis](), [punct](), [reparandum](), [root](), [vocative](), [xcomp]()
 
 * The following relation subtypes are used in Lithuanian:
   * [nsubj:pass]() for nominal subjects of passive verbs
@@ -19,7 +19,7 @@ udver: '2'
   * [obl:arg]() for oblique arguments
   * [aux:pass]() for passive auxiliaries
   * [acl:relcl]() for relative clause modifiers
-  * [nummod:gov]() for cardinal numbers that are attached as children of the counted noun but govern its case
+  * [nummod:gov]() for numeric modifier governing the case of the noun
   * [advmod:emph]() for adverbial modifiers
   * [flat:foreign]() for non-first words in quoted foreign phrases
   * [nmod:obl]() for non-agreeing attribute expressed by an adverbial modifier
