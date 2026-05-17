@@ -29,10 +29,31 @@ While we strip out punctuation in our `# text` rows, we do recommend using any p
 
 ## Morphology
 
-### Tags
+### Lemmatization
+
+The `LEMMA` for all verb forms is the 3rd-person singular present indicative of the underlying verb.
+For example, the past participle *gata* "gone" gets the `LEMMA` *gacchati*.
+
+#### Noun Lemmas
+
+Lemmas are always lowercase, even for proper nouns.
+
+For personal pronouns, collapse the cases down to the nominative. For example, *amhākaṃ* gets *mayaṃ* and *te* gets *tvaṃ*. Keep first and second, singular and plural separate.
+
+For demonstrative pronouns, collapse the cases, gender, and number to the nominative, singular, neuter form:
+
+* Use *tad* for all *ta-* forms: *sā*, *sa*, *taṃ*, *tena*, etc.
+* Use *yad* for all *ya-* forms: *yo*, *yā*, *yaṃ*, *yamhi*, etc.
+* Use *idaṃ* for its various forms: *ayaṃ*, *imaṃ*, *imāni*, *imehi*, *anena*, etc.
+
+Substantives and adjectives should get the stem form as their lemma. For example, *itthiyo* has the lemma *itthi*, *bhikkhave* gets the lemma *bhikkhu*, and *rasso* the lemma *rassa*.
+
+### Part of Speech Tags
 
 Participles are tagged as `VERB`s and not `ADJ`s or `ADV`s.
 This means that they cannot get the `amod` dependency relation when used to modify a noun, so we use `acl` instead to attach it to its target noun.
+
+Because Pāli is originally an oral language, we are stripping out symbols and punctuation, meaning we do not use the `SYM` or `PUNCT` tags.
 
 #### Particles
 
@@ -66,10 +87,7 @@ Some forms in Pāli are ambiguous. For example, a feminine noun of the `-ā` cla
 
 #### Verbs
 
-All verb forms in Pāli should get the `VERB` `UPOS`
-and their `LEMMA` is the 3rd-person singular present indicative of the underlying verb.
-
-For example, the past participle *gata* "gone" has the `LEMMA` *gacchati* "goes".
+All verb forms in Pāli should get the `VERB` `UPOS`.
 
 ##### Finite Verbs
 
