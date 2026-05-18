@@ -138,15 +138,20 @@ This is an overview only. For more detailed discussion and examples, see the lis
     or subjunctive, it occurs immediately before the verb and is written as a separate word. With imperatives,
     infinitives and gerunds, it occurs immediately after the verb (or after a dative clitic, if both are present),
     and is written together with the verb as one multiword token; we still treat it as a separate syntactic word.
-  * The accusative clitic may occur even together with the object noun; this construction is called clitic doubling.
-    Both the noun and the clitic are attached directly to the verb. However, the clitic is labeled as the object
-    only if the noun is absent. In case of clitic doubling, the noun is attached as [obj]() and the clitic as [expl]()
-    (expletive).
+  * The accusative clitic may occur together with the full nominal if the full nominal is brought to the front to set
+    the topic of the clause. In such constructions, the fronted object is attached via the [dislocated]() relation
+    and the accusative clitic keeps the [obj]() relation. (Cf. with clitic doubling for beneficiaries, which is
+    described below and which is analyzed differently, with [expl]() relation for the clitic.)
 * The term ‘indirect object’ is traditionally used in Spanish grammar for the argument that represents the
   recipient or beneficiary of an action. However, these participants are not core arguments (they use oblique
   marking, either a preposition or a dative pronoun), hence they cannot be called indirect objects in UD
   and the relation [iobj]() has no use in Spanish. To distinguish them from temporal and local adjuncts, we
   use the relation [obl:arg]() for the recipients.
+  * The dative clitic may occur together with the full nominal denoting the recipient (as in _Pedro le dio un libro
+    a María_). This construction is called clitic doubling. Both the noun and the clitic are attached directly to the
+    verb. However, to respect the fact that they denote one argument and not two, only the full nominal is attached
+    as [obl:arg]() and the clitic as [expl]() (expletive). If either of them occurs without the other, it gets the
+    `obl:arg` relation.
   * Under certain circumstances, the dative pronoun _le_ may be used instead of the accusative pronoun _lo_
     to denote the direct object. This is called _leísmo_ ([Erichsen, Gerald. "Leísmo and the Use of 'Le' in Spanish."
     ThoughtCo, Apr. 5, 2023](https://www.thoughtco.com/leismo-and-related-variations-3079360)). The UD annotation
@@ -182,9 +187,9 @@ This is an overview only. For more detailed discussion and examples, see the lis
 # text = El límite sur lo forma la costa.
 # text_en = The southern border is formed by the coast.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=the
-2	límite	límite	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	Gloss=border
+2	límite	límite	NOUN	_	Gender=Masc|Number=Sing	5	dislocated	_	Gloss=border
 3	sur	sur	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	Gloss=south
-4	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	Gloss=him
+4	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	Gloss=him
 5	forma	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=forms|SpaceAfter=No
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	Gloss=the
 7	costa	costa	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	Gloss=coast|SpaceAfter=No
@@ -267,6 +272,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
   * [aux:pass]() for passive auxiliaries
   * [expl:pv]() for obligatory reflexive pronouns attached to pronominal (inherently reflexive) verbs
   * [expl:pass]() for reflexive pronouns in reflexive passive constructions
+  * [obl:arg]() for oblique arguments, in particular recipients/beneficiaries coded as dative pronouns or phrases with the preposition _a_
 * The following relation types are not used in Spanish at all:
   [clf](), [iobj]()
 
