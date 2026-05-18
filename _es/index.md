@@ -265,13 +265,16 @@ This is an overview only. For more detailed discussion and examples, see the lis
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [csubj:pass]() for clausal subjects of passive verbs
   * [aux:pass]() for passive auxiliaries
+  * [expl:pv]() for obligatory reflexive pronouns attached to pronominal (inherently reflexive) verbs
+  * [expl:pass]() for reflexive pronouns in reflexive passive constructions
 * The following relation types are not used in Spanish at all:
-  [clf](), [dislocated](), [iobj]()
+  [clf](), [iobj]()
 
 ## Treebanks
 
-There are [three](../../treebanks/es-comparison.html) Spanish UD treebanks:
+There are [four](../../treebanks/es-comparison.html) Spanish UD treebanks:
 
   * [Spanish-AnCora](../../treebanks/es_ancora/index.html)
   * [Spanish-GSD](../../treebanks/es_gsd/index.html)
   * [Spanish-PUD](../../treebanks/es_pud/index.html)
+  * [Spanish-COSER](../../treebanks/es_coser/index.html)
