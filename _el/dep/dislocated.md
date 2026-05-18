@@ -13,8 +13,8 @@ The dislocated elements attach to the head of the clause to which they belong:
 
 ~~~ sdparse
 Το ποδήλατο , πάντα της έλεγα ότι θέλει καινούρια λάστιχα . \n The bicycle , I always told her that it needs new tyres .
-dislocated(θέλει, ποδήλατο)
-dobj(θέλει, λάστιχα)
+dislocated(έλεγα, ποδήλατο)
+obj(θέλει, λάστιχα)
 ccomp(έλεγα, θέλει)
 ~~~
 <!-- Interlanguage links updated St 6. května 2026, 20:46:44 CEST -->
