@@ -559,6 +559,8 @@ collections:
     output: true
   mnc:
     output: true
+  gld:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
