@@ -28,11 +28,11 @@ In Old Georgian, triple case stacking is encountered in the following cases:
 
 #### Examples
 
-* _-ის-ა-ჲს-ა-ჲ_ (Gen with Nom) etc.;
-* _-ის-ა-ჲს-ა-მან_ (Gen with Erg) etc.;
-* _-ის-ა-ჲს-ა-სა_ (Gen with Dat) etc.;
-* _-ის-ა-ჲს-ა-ჲს-ა_ (Gen with Gen) etc.;
-* _-ის-ა-ჲს-ა-ჲტჳ-ა_ (Gen with Inst) etc.;
-* _-ის-ა-ჲს-ა-ო_ (Gen with Voc) etc.
+* _ძელისაჲსაჲ_ 'wooden' (Gen with Nom) etc.;
+* _ძელისაჲსამან_ 'by the wooden one' (Gen with Erg) etc.;
+* _ძელისაჲსასა_ 'to the wooden one' (Gen with Dat) etc.;
+* _ძელისაჲსაჲსა_ 'of the wooden one' (Gen with Gen) etc.;
+* _ძელისაჲსაჲთა_ 'with the wooden one' (Gen with Inst) etc.;
+* _ძელისაჲსაო_ 'O, wooden one' (Gen with Voc) etc.
 
 <!-- Interlanguage links updated So 10. května 2025, 18:13:57 CEST -->
