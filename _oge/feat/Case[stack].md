@@ -12,7 +12,7 @@ udver: '2'
 </table>
 
 `Case[stack]` is an inflectional feature of [nouns](_oge/pos/NOUN), [proper nouns](_oge/pos/PROPN), [pronouns](_oge/pos/PRON), [adjectives](_oge/pos/ADJ), [numerals](_oge/pos/NUM) and [verbs](_oge/pos/VERB). This feature is associated with the phenomenon of Suffixaufnahme, which originated on the basis of the genitive case. It was frequent in Old Georgian and is still attested in Modern Georgian. The rules governing its occurrence are closely related to the position of genitive forms in relation to their nominal heads. In Modern Georgian, a genitive modifier typically precedes its head and, in most cases, does not vary according to the declension of the head noun. In contrast, in Old Georgian, the genitive form repeats (i.e., copies) the case ending of its head noun, resulting in case stacking.
-In addition to doubled case markers, Old Georgian also attests tripled secondary case forms, where the genitive marker is followed by two additional case markers. These are annotated with [`Case[stack]`](_oge/feat/Case[stack2]).
+In addition to doubled case markers, Old Georgian also attests tripled secondary case forms, where the genitive marker is followed by two additional case markers. These are annotated with [`Case[stack2]`](_oge/feat/Case[stack2]).
 
 ### <a name="Gen">`Gen`</a>: genitive case
 
