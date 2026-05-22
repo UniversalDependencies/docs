@@ -14,7 +14,7 @@ A verb typically denotes events and actions, can constitute a minimal predicate 
 Τhe uninflected form that is used with the auxiliary *έχω* to form periphrastic tenses (e.g. *έχω γράψει* "I have written", *είχα γράψει* "I had written", *θα έχω γράψει* "I will have written") is assigned the VerbForm=Inf feature-value pair. Mood=... and VerbForm=Inf are mutually exclusive feature-value pairs. *έχω* is also used as a main verb, e.g., in possession denoting structures: *έχω ένα αυτοκίνητο* `I have a car.'
 
 
-In UD.v2, the form of the verb that traditional grammars categorise as “participle” may be assigned one of the following two parts of speech (POS: [VERB]() or [ADJ](). In GUD and the Greek dialect treebanks, unless otherwise specified, for the participle to be assigned the POS [VERB](), two conditions must be met: 
+In UD.v2, the form of the verb that traditional grammars categorise as “participle” may be assigned one of the following two parts of speech (POS: [VERB]() or [ADJ]()). In GUD and the Greek dialect treebanks, unless otherwise specified, for the participle to be assigned the POS [VERB](), two conditions must be met: 
 1) a verb with the same meaning as the participle is in use synchronically
 2) the participle inherits the verb’s argument structure 
 
