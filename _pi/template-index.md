@@ -46,7 +46,7 @@ For demonstrative pronouns, collapse the cases, gender, and number to the nomina
 * Use *yad* for all *ya-* forms: *yo*, *yā*, *yaṃ*, *yamhi*, etc.
 * Use *idaṃ* for its various forms: *ayaṃ*, *imaṃ*, *imāni*, *imehi*, *anena*, etc.
 
-Substantives and adjectives should get the stem form as their lemma. For example, *itthiyo* has the lemma *itthi*, *bhikkhave* gets the lemma *bhikkhu*, and *rasso* the lemma *rassa*.
+Substantives and adjectives should get the stem form as their lemma. For example, *itthiyo* has the lemma `itthi`, *bhikkhave* gets the lemma `bhikkhu`, *rasso* the lemma `rassa`, *rāja* the lemma `rājan`, *bhagavato* `bhagavant`, etc. 
 
 ### Part of Speech Tags
 
@@ -54,6 +54,10 @@ Participles are tagged as `VERB`s and not `ADJ`s or `ADV`s.
 This means that they cannot get the `amod` dependency relation when used to modify a noun, so we use `acl` instead to attach it to its target noun.
 
 Because Pāli is originally an oral language, we are stripping out symbols and punctuation, meaning we do not use the `SYM` or `PUNCT` tags.
+
+#### Determiners
+
+If a pronoun such as *imaṃ* is used as a determiner (i.e. it gets deprel `det` pointing to a substantive) then it should get the UPOS `DET` instead of `PRON`.
 
 #### Particles
 
@@ -95,7 +99,7 @@ Should have the `VerbForm=Fin` along with `Mood`, `Tense`, `Person`, `Number`, a
 
 ##### Absolutives
 
-Absolutives formed in Pāli with *-tvā* / *-ya* get the `FEATS` `VerbForm=Conv` and are attached to the main verb via `advcl`.
+Absolutives (sometimes called "gerunds") formed in Pāli with *-tvā* / *-ya* get the `VerbForm=Conv` feature and are attached to the main verb via `advcl`.
 
 ##### Infinitives
 
