@@ -15,7 +15,7 @@ To se řekne snadno . \n It is said easily .
 expl:pass(řekne, se)
 expl:pass(said, is)
 nsubj:pass(řekne, To)
-nsubj:pass(said, it)
+nsubj:pass(said, It)
 advmod(řekne, snadno)
 advmod(said, easily)
 punct(řekne, .-5)
