@@ -5,19 +5,25 @@ shortdef: 'reflexive clitic with an inherently reflexive verb'
 udver: '2'
 ---
 
-Reflexive pronouns (see the feature [cs-feat/Reflex]()) usually replace objects of verbs.
-However, some verbs are inherently reflexive, i.e. the verb always occurs with a reflexive
-prounoun, and the pronoun cannot be replaced by a non-reflexive pronoun.
+Reflexive pronouns (see the feature [Reflex]()) usually replace objects of verbs.
+However, some verbs are inherently reflexive (also called pronominal verbs in some grammatical traditions),
+i.e. the verb always occurs with a reflexive prounoun, and the pronoun cannot be replaced
+by a non-reflexive pronoun.
 
 With these verbs, the reflexive pronoun is attached as `expl:pv` instead of [obj]().
-(Note that the `expl` relation is first used for this purpose in the UD release 1.2,
-and it is further subtyped as `expl:pv` since UD 2.0,
-to increase parallelism with other languages. In the previous releases this usage of
-reflexive _se/si_ was labeled `compound:reflex`.)
+
+For example, in Czech:
 
 ~~~ sdparse
 Martin se bojí zvířat . \n Martin REFLEX fears animals .
 expl:pv(bojí, se)
 expl:pv(fears, REFLEX)
+nsubj(bojí, Martin-1)
+nsubj(fears, Martin-7)
+obl:arg(bojí, zvířat)
+obl:arg(fears, animals)
+punct(bojí, .-5)
+punct(fears, .-11)
 ~~~
+
 <!-- Interlanguage links updated St 6. května 2026, 20:46:52 CEST -->
