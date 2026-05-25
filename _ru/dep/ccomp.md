@@ -24,7 +24,7 @@ Note that if the clausal complements is nonfinite (infinitive), then it is label
 subject of the clausal complement is not controlled (that is, it can be different as the higher subject or object, with no other possible interpretation).
 
 ~~~ sdparse
-Генерал потребовал, чтобы мы вышли . \n General demanded that we leave. .
+Генерал потребовал , чтобы мы вышли . \n General demanded that we leave .
 ccomp(потребовал, вышли)
 ccomp(demanded, leave)
 ~~~
@@ -46,7 +46,7 @@ xcomp(started, to-write)
 If the correlative pronoun _to_ 'that' etc. is used with the head predicate, then the clausal complements is attached to the pronoun with [acl]():  
 
 ~~~ sdparse
-Я верю в то , что все будет хорошо . \n I believe in that that everything will be fine. .
+Я верю в то , что все будет хорошо . \n I believe in that that everything will be fine .
 acl(то, хорошо)
 acl(that-1, fine)
 ~~~
