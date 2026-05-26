@@ -48,7 +48,7 @@ If the correlative pronoun _to_ 'that' etc. is used with the head predicate, the
 ~~~ sdparse
 Я верю в то , что все будет хорошо . \n I believe in that that everything will be fine .
 acl(то, хорошо)
-acl(that-14, fine)
+acl(that-15, fine)
 ~~~
 
 <!-- Interlanguage links updated St 6. května 2026, 20:45:48 CEST -->
