@@ -10,7 +10,7 @@ The relation `obl:agent` is used for agents of passive verbs. They are mainly ex
 ~~~ conllu
 # visual-style 4 1 obl:agent color:blue
 1	Սատանայէ	սատանա	NOUN	_	Animacy=Hum|Case=Abl|Definite=Ind|Number=Sing	4	obl:agent	_	_
-2	ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj:pass	_
+2	ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj:pass	_	_
 3	խաբեցայ	խաբիլ	VERB	_	Aspect=Perf|Mood=Ind|Number=SIng|Person=1|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	
 ~~~
 <!-- Interlanguage links updated St 6. května 2026, 20:48:03 CEST -->
