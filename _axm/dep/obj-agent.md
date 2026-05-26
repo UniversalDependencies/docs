@@ -13,7 +13,7 @@ In a causative construction the `obj:agent` relation attaches the content verb t
 1	տան	տալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	իր	ինք	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	1	iobj	_	_
 3	ու	ու	CCONJ	_	_	4	cc	_	_
-4	հաճեցնեն	հաճեցնել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Cau	1	conj	_	_
+4	հաճեցնեն	հաճենալ|հաճել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Cau	1	conj	_	_
 5-6	զինք	_	_	_	_	_	_	_	_
 5	զ	զ	ADP	_	AdpType=Prep	6	case	_	_
 6	ինք	ինք	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	4	obj:agent	_	_
