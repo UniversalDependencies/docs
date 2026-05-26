@@ -11,15 +11,7 @@ For example, in the following sentence, _ավարտը_ is the true agent of the 
 This nominal phrase can be pronominalized as follows: _Վերակառուցման քաղաքականությունը մոտեցրեց այն։_ The use of the pronoun _այն_ clearly shows that _ավարտը_ is the syntactical object of the sentence.
 
 ~~~ conllu
-# visual-style 4 5 flat:range color:blue
-1	Վերակառուցման	վերակառուցում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	2	nmod:poss	_	_
-2	քաղաքականությունը	քաղաքականություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	nsubj:caus	_	_
-3	մոտեցրեց	մոտեցնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	_
-4	Սառը	սառը	ADJ	_	Degree=Pos	5	amod	_	_
-5	պատերազմի	պատերազմ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	6	nmod:poss	_	_
-6	ավարտը	ավարտ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	obj:agent	_	SpaceAfter=No
-7	։	։	PUNCT	_	_	3	punct	_	_
-
+# visual-style 0 0 obj:agent color:blue
 ~~~
 
 The infinitive verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation.
