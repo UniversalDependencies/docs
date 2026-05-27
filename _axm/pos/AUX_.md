@@ -72,8 +72,4 @@ Note, that in Middle Armenian copulas are also tagged `AUX` and the definition o
   * _<b>Չի դառնաս</b> հեղ մի յիս հայես. <b>Չի գիտե՞ս</b> քո պլպուլն եմ ես_/_Či daṙnas heġ mi yis hayes. Či gite՞s k’o plpowln em es_ “You do not turn to look at me even once; Don't you know that I am your nightingale?”
   * _Եւ այս ցեղս զստածումն եւ զբժշկութիւնն <b>չընդունի</b> բնաւ_/_Ew ays c’eġs zstaçowmn ew zbžškowt’iwnn čëndowni bnaw_ “And this type (of ailment) does not admit any treatment or cure at all”.
  
-
-  ### Modal verbs are not auxiliaries
-
-Middle Armenian modal verbs are not considered auxiliary and they are tagged `VERB`. Their behavior is only slightly different from other content verbs.
-<!-- Interlanguage links updated St 6. května 2026, 20:41:55 CEST -->
+ <!-- Interlanguage links updated St 6. května 2026, 20:41:55 CEST -->
