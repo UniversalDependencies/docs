@@ -10,12 +10,12 @@ The `orphan` relation is used to provide a satisfactory treatment of certain ins
 head gets elided).
 
 ~~~ sdparse
-1 իւր	իւր	DET	_	Case=Nom|Number=Sing|Person=3|PronType=Poss|Style=Arch	2	det:poss	_	_
+1	իւր	իւր	DET	_	Case=Nom|Number=Sing|Person=3|PronType=Poss|Style=Arch	2	det:poss	_	_
 2	բնակութիւնն	բնակութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	_
 3	հանապազ	հանապազ	ADV	_	_	6	advmod	_	_
 4	ի	ի	ADP	_	AdpType=Prep	6	case	_	_
 5	կաղնի	կաղնի	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	6	nmod	_	_
-6	ծառն	ծառ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	root	advcl	_	_
+6	ծառն	ծառ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	_
 7	լինի	լինիլ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin	6	cop	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	_
 9	եւ	եւ	CCONJ	_	_	11	cc	_	_
