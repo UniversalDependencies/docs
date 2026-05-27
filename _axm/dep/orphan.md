@@ -9,7 +9,8 @@ The `orphan` relation is used to provide a satisfactory treatment of certain ins
 [ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis) where simple promotion would result in unnatural and misleading dependency relation (in the case of gapping and stripping, where a predicational or verbal
 head gets elided).
 
-~~~ sdparse
+~~~ conllu
+# visual-style 11 14 orphan color:blue
 1	իւր	իւր	DET	_	Case=Nom|Number=Sing|Person=3|PronType=Poss|Style=Arch	2	det:poss	_	_
 2	բնակութիւնն	բնակութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	_
 3	հանապազ	հանապազ	ADV	_	_	6	advmod	_	_
