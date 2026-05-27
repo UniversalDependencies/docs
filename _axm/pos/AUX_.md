@@ -17,7 +17,7 @@ Auxiliaries can be divided into:
 - tense auxiliaries, used to form compound tenses represented by _եմ/em_ and _էի/ēi_ “be”;
 - aspectual auxiliaries, used to form so-called “secondary compound tenses” represented by _լինիմ/linim_, _կամ/kam_, _ունիմ/ownim_ “be repeatedly / habitually”,
 - mood auxiliary, used to form periphrastic indicative / conditional mood by _կու (կոյ, կ-)/kow (koy, k-)_ “do/will”, and necessitative mood by _պիտի/piti_ “to be necessary, useful”,
-- voice auxiliary, used to form periphrastic causative represented by _տալ_/_tal_ “cause / make someone to perform action”,
+- voice auxiliary, used to form periphrastic causative represented by _տալ_/_tal_ “cause / make someone perform action”,
 - negative auxiliaries are represented by particle-like morphemes _չի (չ-)/či (č-)_ “do/does not” and _ոչ/oč_ “do/does not”, used to negate verbs in the (older forms of the) present and imperfect tenses of the indicative and subjunctive moods, which share the same form. Note that negative auxiliaries are not the same as the negated forms of the auxiliaries _եմ/em_ and _էի/ēi_, which can take the bound morpheme of negation _չ-/č-_ and have the feature of [Polarity]().
 
 ### Examples
