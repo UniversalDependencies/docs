@@ -66,8 +66,8 @@ The general philosophy of UD is to propose a universal inventory of categories a
 1	Koqatax	_	VERB	_	_	0	root	_	_
 2	ri	_	DET	_	Definite=Def	3	det	_	_
 3	tz'i'	_	NOUN	_	_	1	nsubj:pass	_	_
-4	kumal	NOUN	_	_	5	case	_	_
-5	ri	_	DET	_	Definite=Def	2	det	_	_
+4	kumal	NOUN	_	_	6	case	_	_
+5	ri	_	DET	_	Definite=Def	6	det	_	_
 6	me's	_	NOUN	_	_	1	obl	_	_
 7	.	.	PUNCT	_	_	1	punct	_	_
 
