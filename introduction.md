@@ -75,14 +75,14 @@ The general philosophy of UD is to propose a universal inventory of categories a
 
 UD adopts a dependency representation of syntax, marking dependents of head words, and organizes sentence analysis around identifying clauses, nominals, and modifiers of these. It is a lexicalist framework that differentiates morphology from syntax, and it emphasizes dependencies between content words to increase crosslinguistic parallelism.
 
-The best introduction to the design of UD as a linguistic framework is de Marneffe et al. (2021). UD has been crafted to strike a delicate balance between approximately 6 dimensions:
+The best introduction to the design of UD as a linguistic framework is [de Marneffe et al. (2021)](https://direct.mit.edu/coli/article/47/2/255/98516/Universal-Dependencies). UD has been crafted to strike a delicate balance between approximately 6 dimensions:
 
-1. UD needs to be satisfactory on linguistic analysis grounds for **individual languages**.
-2. UD needs to be good for linguistic typology, i.e., providing a suitable basis for bringing out **cross-linguistic parallelism** across languages and language families.
-3. UD must be suitable for rapid, consistent **annotation** by a human annotator.
-4. UD must be **easily comprehended and used** by a non-linguist, whether a language learner or an engineer with prosaic needs for language processing. We refer to this as seeking a _habitable_ design, and it leads us to favor traditional grammar notions and terminology.
-5. UD must be suitable for computer **parsing** with high accuracy.
-6. UD must support **downstream language understanding** tasks (relation extraction, reading comprehension, machine translation, …).
+1. UD needs to be satisfactory on linguistic analysis grounds for _individual languages_.
+2. UD needs to be good for linguistic typology, i.e., providing a suitable basis for bringing out _cross-linguistic parallelism_ across languages and language families.
+3. UD must be suitable for rapid, consistent _annotation_ by a human annotator.
+4. UD must be _easily comprehended and used_ by a non-linguist, whether a language learner or an engineer with prosaic needs for language processing. We refer to this as seeking a _habitable_ design, and it leads us to favor traditional grammar notions and terminology.
+5. UD must be suitable for computer _parsing_ with high accuracy.
+6. UD must support _downstream language understanding_ tasks (relation extraction, reading comprehension, machine translation, …).
 
 It's easy to come up with a proposal that improves UD on one of these dimensions. The interesting and difficult part is to improve UD while remaining sensitive to all these dimensions.
 
@@ -91,7 +91,7 @@ It's easy to come up with a proposal that improves UD on one of these dimensions
 On a practical level, the UD project specifies common data formats and maintains infrastructure for treebanks:
 
 - The [UD annotation guidelines](guidelines.html) specify common inventories of part-of-speech tags, morphological features, and syntactic dependency relations. Each of these labels has a project-wide (“universal”, or “u” for short) documentation page, as well as some documentation pages customized for individual languages, e.g., [u-dep/nsubj]() for nominal subjects.  Links to switch between language-specific and universal pages appear at the bottom. UD data is stored in the [CoNLL-U format](format.html), a text-based format conducive to computational processing. 
-- The [homepage]() lists languages and treebanks that have been contributed to the project. Many have been converted (with some level of noise) from other treebank frameworks; some have been annotated in UD directly. Treebanks are minimally required to conform to the UD technical standard as enforced by the validator script, and to specify an open license (most data has a Creative Commons license). The data for each treebank lives in its own GitHub repository. Twice a year, a bundle of all the conformant treebanks is [released](http://hdl.handle.net/11234/1-5787).
+- The [homepage](index.html) lists languages and treebanks that have been contributed to the project. Many have been converted (with some level of noise) from other treebank frameworks; some have been annotated in UD directly. Treebanks are minimally required to conform to the UD technical standard as enforced by the validator script, and to specify an open license (most data has a Creative Commons license). The data for each treebank lives in its own GitHub repository. Twice a year, a bundle of all the conformant treebanks is [released](http://hdl.handle.net/11234/1-5787).
 - UD welcomes [contributions](contribute.html) of new treebanks/languages as well as improvements to the existing data and guidelines/documentation.
 - Most people start either by downloading some treebanks or by using some of the various [tools](tools.html) that have been developed, for visualizing, searching, and processing treebanks or for annotating (“parsing”) human language text with UD analyses. Recommended starting tools are [ArboratorGrew](https://arborator.grew.fr/) for querying existing treebanks and hand-annotating new data, [Stanza](https://stanfordnlp.github.io/stanza/) or [UDpipe](http://ufal.mff.cuni.cz/udpipe) for automatically parsing plain text into UD format, and [conllu](https://pypi.org/project/conllu/) for simple Python code for reading and writing CoNLL-U format.
 
