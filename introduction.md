@@ -6,18 +6,11 @@ udver: '2'
 
 ## Introduction
 
-Universal Dependencies (UD) is a project that is developing cross-linguistically consistent treebank
-annotation for many languages, with the goal of facilitating multilingual parser development,
-cross-lingual learning, and parsing research from a language typology perspective. The annotation
-scheme is based on an evolution of (universal) Stanford dependencies (de Marneffe et al., 2006, 2008, 2014), Google
-universal part-of-speech tags (Petrov et al., 2012), and the Interset interlingua for
-morphosyntactic tagsets (Zeman, 2008). The general philosophy is to provide a universal
-inventory of categories and guidelines to facilitate consistent annotation of similar
-constructions across languages, while allowing language-specific extensions when necessary.
+The Universal Dependencies (UD) project develops treebanks, collections of sentences annotated for word morphology and sentence syntax, for many languages. It seeks to build cross-linguistically consistent treebanks, with the goal of facilitating multilingual parser development,
+language analysis, psycholinguistics, and language typology.
+After over a decade of development, UD provides treebanks and annotation guidelines (of varying size and quality) for nearly 200 human languages. While there is much more to do to improve the quality and typological distribution of resources available, UD provides by far the largest body of consistently annotated morphosyntactic data for a large range of human languages. UD is an open community effort and we encourage anyone interested to contribute to it!
 
-This is illustrated in the following parallel examples from English, Bulgarian, Czech and Swedish,
-where the main grammatical relations involving a passive verb, a nominal subject and an oblique agent
-are the same, but where the concrete grammatical realization varies.
+The general philosophy of UD is to propose a universal inventory of categories and guidelines to facilitate consistent annotation of similar constructions across languages, while allowing for typological differences and using language-specific extensions when necessary. This is illustrated in the following parallel examples from English, Bulgarian, Czech, Swedish, and Kʼicheʼ. The main grammatical relations shown in blue (involving a passive verb, a nominal subject and an oblique agent) are the same, but the concrete grammatical realization varies.
 
 ~~~ conllu
 # visual-style 4 2 nsubj:pass	color:blue
@@ -67,18 +60,29 @@ are the same, but where the concrete grammatical realization varies.
 
 ~~~
 
+~~~ conllu
+# visual-style 1 3 nsubj:pass	color:blue
+# visual-style 1 6 obl	color:blue
+1	Koqatax	_	VERB	_	_	0	root	_	_
+2	ri	_	DET	_	Definite=Def	2	det	_	_
+2	tz'i'	_	NOUN	_	_	1	nsubj:pass	_	_
+3	kumal _	NOUN	_	_	5	case	_	_
+4	ri	_	DET	_	Definite=Def	2	det	_	_
+5	me's	_	NOUN	_	_	1	obl	_	_
+6	.	.	PUNCT	_	_	1	punct	_	_
 
-## What is needed for UD to be successful?
+~~~
 
-The secret to understanding the design and current success of UD is to realize that the design
-is a very subtle compromise between approximately 6 things:
+UD adopts a dependency representation of syntax, marking dependents of head words, and organizes sentence analysis around identifying clauses, nominals, and modifiers of these. It is a lexicalist framework that differentiates morphology from syntax, and it emphasizes dependencies between content words to increase crosslinguistic parallelism.
 
-1. UD needs to be satisfactory on linguistic analysis grounds for individual languages.
-2. UD needs to be good for linguistic typology, i.e., providing a suitable basis for bringing out cross-linguistic parallelism across languages and language families.
-3. UD must be suitable for rapid, consistent annotation by a human annotator.
-4. UD must be easily comprehended and used by a non-linguist, whether a language learner or an engineer with prosaic needs for language processing. We refer to this as seeking a _habitable_ design, and it leads us to favor traditional grammar notions and terminology.
-5. UD must be suitable for computer parsing with high accuracy.
-6. UD must support well downstream language understanding tasks (relation extraction, reading comprehension, machine translation, …).
+The best introduction to the design of UD as a linguistic framework is de Marneffe et al. (2021). UD has been crafted to strike a delicate balance between approximately 6 dimensions:
+
+1. UD needs to be satisfactory on linguistic analysis grounds for **individual languages**.
+2. UD needs to be good for linguistic typology, i.e., providing a suitable basis for bringing out **cross-linguistic parallelism** across languages and language families.
+3. UD must be suitable for rapid, consistent **annotation** by a human annotator.
+4. UD must be **easily comprehended and used** by a non-linguist, whether a language learner or an engineer with prosaic needs for language processing. We refer to this as seeking a _habitable_ design, and it leads us to favor traditional grammar notions and terminology.
+5. UD must be suitable for computer **parsing** with high accuracy.
+6. UD must support **downstream language understanding** tasks (relation extraction, reading comprehension, machine translation, …).
 
 It's easy to come up with a proposal that improves UD on one of these dimensions. The interesting and difficult part is to improve UD while remaining sensitive to all these dimensions.
 
