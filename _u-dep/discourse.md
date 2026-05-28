@@ -5,15 +5,30 @@ shortdef: 'discourse element'
 udver: '2'
 ---
 
-This is used for [interjections](u-pos/INTJ) and other discourse [particles](u-pos/PART) and
-elements (which are not clearly linked to the structure of the
-sentence, except in an expressive way). In English, for example, this includes:
-interjections (*oh*, *uh-huh*, *Welcome*), fillers (*um*, *ah*),
-and non-adverbial discourse markers (*well*, *like*, but not *you know* or *actually*).
-We also use `discourse` for list enumerators (e.g. *1.*, *(a)* marking an item in a sequence).
-(Bullets, by contrast, are considered [punctuation](u-pos/PUNCT) and attach as [punct]().)
+The `discourse` relation is used for discourse expressions and markers with grammatical properties
+that distinguish them from expressions appearing in typical syntagmatic relations
+(like [advmod](), [obl](), [advcl](), [parataxis](), [vocative](), etc.).
+Most centrally this includes:
+
+  * [interjections](u-pos/INTJ): expressive words (_oh_, _Welcome_), feedback markers (_yes_, _uh-huh_), fillers (_um_)
+  * [particles](u-pos/PART) that cannot be classified as adverbs, adpositions, etc. in the language.
+    Such particles may carry a range of pragmatic meanings, including:
+      - question particles (Kʼicheʼ _la_, Mandarin _ne_)
+      - vocative particles (Arabic _ya_, Coptic/Greek _ō_)
+  * list enumerators (e.g. _1._, _(a)_ marking an item in a sequence)
+  * emojis/emoticons with an extra-syntactic expressive function
+
+[^1]: Bullets, by contrast, are considered [punctuation](u-pos/PUNCT) and attach as [punct]().
 
 These discourse elements are attached to the head of the most relevant nearby unit, often a clause.
+
+While many expressions carry pragmatics, `discourse` is reserved as a syntactic function
+for constructions signaling discourse meaning in grammatically distinctive ways.
+The precise criteria for identifying such constructions must be decided on a language-specific basis,
+bearing in mind that grammaticalization lies on a continuum. In English, for example, we exclude
+from `discourse` any items from the lexical class of adverbs (_actually_) and
+prepositional phrases (_in other words_); these are simply [advmod]() and [obl](), respectively,
+even when functioning pragmatically as discourse markers.
 
 ~~~ sdparse
 I am 21 , well , will be in November .
