@@ -3,290 +3,299 @@
   Your edits will be overwritten without notice.
 -->
 
+<style>
+th {
+  cursor: pointer;
+}
+tr:nth-child(even) {
+  background-color: lightgray;
+}
+</style>
+
 <table id="langTable">
   <tr><th onclick="sortTable(0)">Language</th><th onclick="sortTable(1)">ISO Code</th><th onclick="sortTable(2)">Family</th><th onclick="sortTable(3)">Genus</th></tr>
   <tr><td>Abaza</td><td><tt>abq</tt></td><td>Northwest Caucasian</td><td></td></tr>
-  <tr style="background:lightgray"><td>Abkhaz</td><td><tt>ab</tt></td><td>Northwest Caucasian</td><td></td></tr>
+  <tr><td>Abkhaz</td><td><tt>ab</tt></td><td>Northwest Caucasian</td><td></td></tr>
   <tr><td>Afrikaans</td><td><tt>af</tt></td><td>IE</td><td>Germanic</td></tr>
-  <tr style="background:lightgray"><td>Akkadian</td><td><tt>akk</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
+  <tr><td>Akkadian</td><td><tt>akk</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
   <tr><td>Akuntsu</td><td><tt>aqz</tt></td><td>Tupian</td><td>Tupari</td></tr>
-  <tr style="background:lightgray"><td>Albanian</td><td><tt>sq</tt></td><td>IE</td><td>Albanian</td></tr>
+  <tr><td>Albanian</td><td><tt>sq</tt></td><td>IE</td><td>Albanian</td></tr>
   <tr><td>Alemannic</td><td><tt>gsw</tt></td><td>IE</td><td>Germanic</td></tr>
-  <tr style="background:lightgray"><td>Amharic</td><td><tt>am</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
+  <tr><td>Amharic</td><td><tt>am</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
   <tr><td>Ancient Greek</td><td><tt>grc</tt></td><td>IE</td><td>Greek</td></tr>
-  <tr style="background:lightgray"><td>Ancient Hebrew</td><td><tt>hbo</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
+  <tr><td>Ancient Hebrew</td><td><tt>hbo</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
   <tr><td>Apalai</td><td><tt>apy</tt></td><td>Cariban</td><td></td></tr>
-  <tr style="background:lightgray"><td>Apurina</td><td><tt>apu</tt></td><td>Arawakan</td><td>Purus</td></tr>
+  <tr><td>Apurina</td><td><tt>apu</tt></td><td>Arawakan</td><td>Purus</td></tr>
   <tr><td>Arabic</td><td><tt>ar</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
-  <tr style="background:lightgray"><td>Archaic Irish</td><td><tt>pgl</tt></td><td>IE</td><td>Celtic</td></tr>
+  <tr><td>Archaic Irish</td><td><tt>pgl</tt></td><td>IE</td><td>Celtic</td></tr>
   <tr><td>Armenian</td><td><tt>hy</tt></td><td>IE</td><td>Armenian</td></tr>
-  <tr style="background:lightgray"><td>Assamese</td><td><tt>as</tt></td><td>IE</td><td>Indic</td></tr>
+  <tr><td>Assamese</td><td><tt>as</tt></td><td>IE</td><td>Indic</td></tr>
   <tr><td>Assyrian</td><td><tt>aii</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
-  <tr style="background:lightgray"><td>Azerbaijani</td><td><tt>az</tt></td><td>Turkic</td><td>Southwestern</td></tr>
+  <tr><td>Azerbaijani</td><td><tt>az</tt></td><td>Turkic</td><td>Southwestern</td></tr>
   <tr><td>Babungo</td><td><tt>bav</tt></td><td>Niger-Congo</td><td>Bantoid</td></tr>
-  <tr style="background:lightgray"><td>Balatipone</td><td><tt>umo</tt></td><td>Bororoan</td><td></td></tr>
+  <tr><td>Balatipone</td><td><tt>umo</tt></td><td>Bororoan</td><td></td></tr>
   <tr><td>Balochi</td><td><tt>bal</tt></td><td>IE</td><td>Iranian</td></tr>
-  <tr style="background:lightgray"><td>Bambara</td><td><tt>bm</tt></td><td>Mande</td><td>Western Mande</td></tr>
+  <tr><td>Bambara</td><td><tt>bm</tt></td><td>Mande</td><td>Western Mande</td></tr>
   <tr><td>Basque</td><td><tt>eu</tt></td><td>Basque</td><td></td></tr>
-  <tr style="background:lightgray"><td>Batad Ifugao</td><td><tt>ifb</tt></td><td>Austronesian</td><td>Northern Luzon</td></tr>
+  <tr><td>Batad Ifugao</td><td><tt>ifb</tt></td><td>Austronesian</td><td>Northern Luzon</td></tr>
   <tr><td>Bavarian</td><td><tt>bar</tt></td><td>IE</td><td>Germanic</td></tr>
-  <tr style="background:lightgray"><td>Beja</td><td><tt>bej</tt></td><td>Afro-Asiatic</td><td>Cushitic</td></tr>
+  <tr><td>Beja</td><td><tt>bej</tt></td><td>Afro-Asiatic</td><td>Cushitic</td></tr>
   <tr><td>Belarusian</td><td><tt>be</tt></td><td>IE</td><td>Slavic</td></tr>
-  <tr style="background:lightgray"><td>Bengali</td><td><tt>bn</tt></td><td>IE</td><td>Indic</td></tr>
+  <tr><td>Bengali</td><td><tt>bn</tt></td><td>IE</td><td>Indic</td></tr>
   <tr><td>Bhojpuri</td><td><tt>bho</tt></td><td>IE</td><td>Indic</td></tr>
-  <tr style="background:lightgray"><td>Bokota</td><td><tt>sab</tt></td><td>Chibchan</td><td>Guaymiic</td></tr>
+  <tr><td>Bokota</td><td><tt>sab</tt></td><td>Chibchan</td><td>Guaymiic</td></tr>
   <tr><td>Bonan</td><td><tt>peh</tt></td><td>Mongolic</td><td></td></tr>
-  <tr style="background:lightgray"><td>Bororo</td><td><tt>bor</tt></td><td>Bororoan</td><td></td></tr>
+  <tr><td>Bororo</td><td><tt>bor</tt></td><td>Bororoan</td><td></td></tr>
   <tr><td>Brahui</td><td><tt>brh</tt></td><td>Dravidian</td><td></td></tr>
-  <tr style="background:lightgray"><td>Breton</td><td><tt>br</tt></td><td>IE</td><td>Celtic</td></tr>
+  <tr><td>Breton</td><td><tt>br</tt></td><td>IE</td><td>Celtic</td></tr>
   <tr><td>Bribri</td><td><tt>bzd</tt></td><td>Chibchan</td><td>Western Isthmic Chibchan</td></tr>
-  <tr style="background:lightgray"><td>Bulgarian</td><td><tt>bg</tt></td><td>IE</td><td>Slavic</td></tr>
+  <tr><td>Bulgarian</td><td><tt>bg</tt></td><td>IE</td><td>Slavic</td></tr>
   <tr><td>Buryat</td><td><tt>bxr</tt></td><td>Mongolic</td><td></td></tr>
-  <tr style="background:lightgray"><td>Cantonese</td><td><tt>yue</tt></td><td>Sino-Tibetan</td><td>Chinese</td></tr>
+  <tr><td>Cantonese</td><td><tt>yue</tt></td><td>Sino-Tibetan</td><td>Chinese</td></tr>
   <tr><td>Cappadocian</td><td><tt>cpg</tt></td><td>IE</td><td>Greek</td></tr>
-  <tr style="background:lightgray"><td>Catalan</td><td><tt>ca</tt></td><td>IE</td><td>Romance</td></tr>
+  <tr><td>Catalan</td><td><tt>ca</tt></td><td>IE</td><td>Romance</td></tr>
   <tr><td>Cebuano</td><td><tt>ceb</tt></td><td>Austronesian</td><td>Greater Central Philippine</td></tr>
-  <tr style="background:lightgray"><td>Central Kurdish</td><td><tt>ckb</tt></td><td>IE</td><td>Iranian</td></tr>
+  <tr><td>Central Kurdish</td><td><tt>ckb</tt></td><td>IE</td><td>Iranian</td></tr>
   <tr><td>Central Romani</td><td><tt>rmc</tt></td><td>IE</td><td>Indic</td></tr>
-  <tr style="background:lightgray"><td>Chinese</td><td><tt>zh</tt></td><td>Sino-Tibetan</td><td>Chinese</td></tr>
+  <tr><td>Chinese</td><td><tt>zh</tt></td><td>Sino-Tibetan</td><td>Chinese</td></tr>
   <tr><td>Chintang</td><td><tt>ctn</tt></td><td>Sino-Tibetan</td><td>Himalayish</td></tr>
-  <tr style="background:lightgray"><td>Chukchi</td><td><tt>ckt</tt></td><td>Chukotko-Kamchatkan</td><td>Northern Chukotko-Kamchatkan</td></tr>
+  <tr><td>Chukchi</td><td><tt>ckt</tt></td><td>Chukotko-Kamchatkan</td><td>Northern Chukotko-Kamchatkan</td></tr>
   <tr><td>Classical Armenian</td><td><tt>xcl</tt></td><td>IE</td><td>Armenian</td></tr>
-  <tr style="background:lightgray"><td>Classical Chinese</td><td><tt>lzh</tt></td><td>Sino-Tibetan</td><td>Chinese</td></tr>
+  <tr><td>Classical Chinese</td><td><tt>lzh</tt></td><td>Sino-Tibetan</td><td>Chinese</td></tr>
   <tr><td>Classical Nahuatl</td><td><tt>nci</tt></td><td>Uto-Aztecan</td><td>Aztecan</td></tr>
-  <tr style="background:lightgray"><td>Coptic</td><td><tt>cop</tt></td><td>Afro-Asiatic</td><td>Egyptian</td></tr>
+  <tr><td>Coptic</td><td><tt>cop</tt></td><td>Afro-Asiatic</td><td>Egyptian</td></tr>
   <tr><td>Corsican</td><td><tt>co</tt></td><td>IE</td><td>Romance</td></tr>
-  <tr style="background:lightgray"><td>Croatian</td><td><tt>hr</tt></td><td>IE</td><td>Slavic</td></tr>
+  <tr><td>Croatian</td><td><tt>hr</tt></td><td>IE</td><td>Slavic</td></tr>
   <tr><td>Cuicatec</td><td><tt>cux</tt></td><td>Oto-Manguean</td><td>Cuicatec</td></tr>
-  <tr style="background:lightgray"><td>Cusco Quechua</td><td><tt>quz</tt></td><td>Quechuan</td><td></td></tr>
+  <tr><td>Cusco Quechua</td><td><tt>quz</tt></td><td>Quechuan</td><td></td></tr>
   <tr><td>Czech</td><td><tt>cs</tt></td><td>IE</td><td>Slavic</td></tr>
-  <tr style="background:lightgray"><td>Danish</td><td><tt>da</tt></td><td>IE</td><td>Germanic</td></tr>
+  <tr><td>Danish</td><td><tt>da</tt></td><td>IE</td><td>Germanic</td></tr>
   <tr><td>Dargwa</td><td><tt>dar</tt></td><td>Nakh-Daghestanian</td><td>Lak-Dargwa</td></tr>
-  <tr style="background:lightgray"><td>Daur</td><td><tt>dta</tt></td><td>Mongolic</td><td></td></tr>
+  <tr><td>Daur</td><td><tt>dta</tt></td><td>Mongolic</td><td></td></tr>
   <tr><td>Dongxiang</td><td><tt>sce</tt></td><td>Mongolic</td><td></td></tr>
-  <tr style="background:lightgray"><td>Dutch</td><td><tt>nl</tt></td><td>IE</td><td>Germanic</td></tr>
+  <tr><td>Dutch</td><td><tt>nl</tt></td><td>IE</td><td>Germanic</td></tr>
   <tr><td>Egyptian</td><td><tt>egy</tt></td><td>Afro-Asiatic</td><td>Egyptian</td></tr>
-  <tr style="background:lightgray"><td>Enawene Nawe</td><td><tt>unk</tt></td><td>Arawakan</td><td>Central Arawakan</td></tr>
+  <tr><td>Enawene Nawe</td><td><tt>unk</tt></td><td>Arawakan</td><td>Central Arawakan</td></tr>
   <tr><td>English</td><td><tt>en</tt></td><td>IE</td><td>Germanic</td></tr>
-  <tr style="background:lightgray"><td>Erzya</td><td><tt>myv</tt></td><td>Uralic</td><td>Mordvin</td></tr>
+  <tr><td>Erzya</td><td><tt>myv</tt></td><td>Uralic</td><td>Mordvin</td></tr>
   <tr><td>Esperanto</td><td><tt>eo</tt></td><td>Constructed</td><td></td></tr>
-  <tr style="background:lightgray"><td>Estonian</td><td><tt>et</tt></td><td>Uralic</td><td>Finnic</td></tr>
+  <tr><td>Estonian</td><td><tt>et</tt></td><td>Uralic</td><td>Finnic</td></tr>
   <tr><td>Even</td><td><tt>eve</tt></td><td>Tungusic</td><td></td></tr>
-  <tr style="background:lightgray"><td>Evenki</td><td><tt>evn</tt></td><td>Tungusic</td><td></td></tr>
+  <tr><td>Evenki</td><td><tt>evn</tt></td><td>Tungusic</td><td></td></tr>
   <tr><td>Faroese</td><td><tt>fo</tt></td><td>IE</td><td>Germanic</td></tr>
-  <tr style="background:lightgray"><td>Finnish</td><td><tt>fi</tt></td><td>Uralic</td><td>Finnic</td></tr>
+  <tr><td>Finnish</td><td><tt>fi</tt></td><td>Uralic</td><td>Finnic</td></tr>
   <tr><td>French</td><td><tt>fr</tt></td><td>IE</td><td>Romance</td></tr>
-  <tr style="background:lightgray"><td>French Sign Language</td><td><tt>fsl</tt></td><td>Sign Language</td><td></td></tr>
+  <tr><td>French Sign Language</td><td><tt>fsl</tt></td><td>Sign Language</td><td></td></tr>
   <tr><td>Frisian</td><td><tt>fy</tt></td><td>IE</td><td>Germanic</td></tr>
-  <tr style="background:lightgray"><td>Frisian Dutch</td><td><tt>qfn</tt></td><td>Code switching</td><td></td></tr>
+  <tr><td>Frisian Dutch</td><td><tt>qfn</tt></td><td>Code switching</td><td></td></tr>
   <tr><td>Ga</td><td><tt>gqa</tt></td><td>Afro-Asiatic</td><td>Biu-Mandara</td></tr>
-  <tr style="background:lightgray"><td>Galician</td><td><tt>gl</tt></td><td>IE</td><td>Romance</td></tr>
+  <tr><td>Galician</td><td><tt>gl</tt></td><td>IE</td><td>Romance</td></tr>
   <tr><td>Gedeo</td><td><tt>drs</tt></td><td>Afro-Asiatic</td><td>Cushitic</td></tr>
-  <tr style="background:lightgray"><td>Georgian</td><td><tt>ka</tt></td><td>Kartvelian</td><td></td></tr>
+  <tr><td>Georgian</td><td><tt>ka</tt></td><td>Kartvelian</td><td></td></tr>
   <tr><td>German</td><td><tt>de</tt></td><td>IE</td><td>Germanic</td></tr>
-  <tr style="background:lightgray"><td>Gheg</td><td><tt>aln</tt></td><td>IE</td><td>Albanian</td></tr>
+  <tr><td>Gheg</td><td><tt>aln</tt></td><td>IE</td><td>Albanian</td></tr>
   <tr><td>Gilaki</td><td><tt>glk</tt></td><td>IE</td><td>Iranian</td></tr>
-  <tr style="background:lightgray"><td>Gorontalo</td><td><tt>gor</tt></td><td>Austronesian</td><td>Greater Central Philippine</td></tr>
+  <tr><td>Gorontalo</td><td><tt>gor</tt></td><td>Austronesian</td><td>Greater Central Philippine</td></tr>
   <tr><td>Gothic</td><td><tt>got</tt></td><td>IE</td><td>Germanic</td></tr>
-  <tr style="background:lightgray"><td>Greek</td><td><tt>el</tt></td><td>IE</td><td>Greek</td></tr>
+  <tr><td>Greek</td><td><tt>el</tt></td><td>IE</td><td>Greek</td></tr>
   <tr><td>Guajajara</td><td><tt>gub</tt></td><td>Tupian</td><td>Maweti-Guarani</td></tr>
-  <tr style="background:lightgray"><td>Guarani</td><td><tt>gn</tt></td><td>Tupian</td><td>Maweti-Guarani</td></tr>
+  <tr><td>Guarani</td><td><tt>gn</tt></td><td>Tupian</td><td>Maweti-Guarani</td></tr>
   <tr><td>Gujarati</td><td><tt>gu</tt></td><td>IE</td><td>Indic</td></tr>
-  <tr style="background:lightgray"><td>Gwichin</td><td><tt>gwi</tt></td><td>Na-Dene</td><td>Athapaskan</td></tr>
+  <tr><td>Gwichin</td><td><tt>gwi</tt></td><td>Na-Dene</td><td>Athapaskan</td></tr>
   <tr><td>Haitian Creole</td><td><tt>ht</tt></td><td>Creole</td><td></td></tr>
-  <tr style="background:lightgray"><td>Hausa</td><td><tt>ha</tt></td><td>Afro-Asiatic</td><td>West Chadic</td></tr>
+  <tr><td>Hausa</td><td><tt>ha</tt></td><td>Afro-Asiatic</td><td>West Chadic</td></tr>
   <tr><td>Hebrew</td><td><tt>he</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
-  <tr style="background:lightgray"><td>Highland Puebla Nahuatl</td><td><tt>azz</tt></td><td>Uto-Aztecan</td><td>Aztecan</td></tr>
+  <tr><td>Highland Puebla Nahuatl</td><td><tt>azz</tt></td><td>Uto-Aztecan</td><td>Aztecan</td></tr>
   <tr><td>Hiligaynon</td><td><tt>hil</tt></td><td>Austronesian</td><td>Greater Central Philippine</td></tr>
-  <tr style="background:lightgray"><td>Hindi</td><td><tt>hi</tt></td><td>IE</td><td>Indic</td></tr>
+  <tr><td>Hindi</td><td><tt>hi</tt></td><td>IE</td><td>Indic</td></tr>
   <tr><td>Hindi English</td><td><tt>qhe</tt></td><td>Code switching</td><td></td></tr>
-  <tr style="background:lightgray"><td>Hittite</td><td><tt>hit</tt></td><td>IE</td><td>Anatolian</td></tr>
+  <tr><td>Hittite</td><td><tt>hit</tt></td><td>IE</td><td>Anatolian</td></tr>
   <tr><td>Huave</td><td><tt>huv</tt></td><td>Huavean</td><td></td></tr>
-  <tr style="background:lightgray"><td>Hungarian</td><td><tt>hu</tt></td><td>Uralic</td><td>Ugric</td></tr>
+  <tr><td>Hungarian</td><td><tt>hu</tt></td><td>Uralic</td><td>Ugric</td></tr>
   <tr><td>Icelandic</td><td><tt>is</tt></td><td>IE</td><td>Germanic</td></tr>
-  <tr style="background:lightgray"><td>Ika</td><td><tt>arh</tt></td><td>Chibchan</td><td>Arhuacic</td></tr>
+  <tr><td>Ika</td><td><tt>arh</tt></td><td>Chibchan</td><td>Arhuacic</td></tr>
   <tr><td>Indonesian</td><td><tt>id</tt></td><td>Austronesian</td><td>Malayo-Sumbawan</td></tr>
-  <tr style="background:lightgray"><td>Irish</td><td><tt>ga</tt></td><td>IE</td><td>Celtic</td></tr>
+  <tr><td>Irish</td><td><tt>ga</tt></td><td>IE</td><td>Celtic</td></tr>
   <tr><td>Italian</td><td><tt>it</tt></td><td>IE</td><td>Romance</td></tr>
-  <tr style="background:lightgray"><td>Japanese</td><td><tt>ja</tt></td><td>Japanese</td><td></td></tr>
+  <tr><td>Japanese</td><td><tt>ja</tt></td><td>Japanese</td><td></td></tr>
   <tr><td>Javanese</td><td><tt>jv</tt></td><td>Austronesian</td><td>Javanese</td></tr>
-  <tr style="background:lightgray"><td>Kaapor</td><td><tt>urb</tt></td><td>Tupian</td><td>Maweti-Guarani</td></tr>
+  <tr><td>Kaapor</td><td><tt>urb</tt></td><td>Tupian</td><td>Maweti-Guarani</td></tr>
   <tr><td>Kabyle</td><td><tt>kab</tt></td><td>Afro-Asiatic</td><td>Berber</td></tr>
-  <tr style="background:lightgray"><td>Kadiweu</td><td><tt>kbc</tt></td><td>Guaicuruan</td><td>Kadiweu</td></tr>
+  <tr><td>Kadiweu</td><td><tt>kbc</tt></td><td>Guaicuruan</td><td>Kadiweu</td></tr>
   <tr><td>Kalmyk</td><td><tt>xal</tt></td><td>Mongolic</td><td></td></tr>
-  <tr style="background:lightgray"><td>Kangri</td><td><tt>xnr</tt></td><td>IE</td><td>Indic</td></tr>
+  <tr><td>Kangri</td><td><tt>xnr</tt></td><td>IE</td><td>Indic</td></tr>
   <tr><td>Kannada</td><td><tt>kn</tt></td><td>Dravidian</td><td></td></tr>
-  <tr style="background:lightgray"><td>Karelian</td><td><tt>krl</tt></td><td>Uralic</td><td>Finnic</td></tr>
+  <tr><td>Karelian</td><td><tt>krl</tt></td><td>Uralic</td><td>Finnic</td></tr>
   <tr><td>Karo</td><td><tt>arr</tt></td><td>Tupian</td><td>Ramarama</td></tr>
-  <tr style="background:lightgray"><td>Kazakh</td><td><tt>kk</tt></td><td>Turkic</td><td>Northwestern</td></tr>
+  <tr><td>Kazakh</td><td><tt>kk</tt></td><td>Turkic</td><td>Northwestern</td></tr>
   <tr><td>Khoekhoe</td><td><tt>naq</tt></td><td>Khoe-Kwadi</td><td></td></tr>
-  <tr style="background:lightgray"><td>Khunsari</td><td><tt>kfm</tt></td><td>IE</td><td>Iranian</td></tr>
+  <tr><td>Khunsari</td><td><tt>kfm</tt></td><td>IE</td><td>Iranian</td></tr>
   <tr><td>Kiche</td><td><tt>quc</tt></td><td>Mayan</td><td></td></tr>
-  <tr style="background:lightgray"><td>Kiga</td><td><tt>cgg</tt></td><td>Niger-Congo</td><td>Bantoid</td></tr>
+  <tr><td>Kiga</td><td><tt>cgg</tt></td><td>Niger-Congo</td><td>Bantoid</td></tr>
   <tr><td>Komi</td><td><tt>kv</tt></td><td>Uralic</td><td>Permic</td></tr>
-  <tr style="background:lightgray"><td>Komi Permyak</td><td><tt>koi</tt></td><td>Uralic</td><td>Permic</td></tr>
+  <tr><td>Komi Permyak</td><td><tt>koi</tt></td><td>Uralic</td><td>Permic</td></tr>
   <tr><td>Komi Zyrian</td><td><tt>kpv</tt></td><td>Uralic</td><td>Permic</td></tr>
-  <tr style="background:lightgray"><td>Korean</td><td><tt>ko</tt></td><td>Korean</td><td></td></tr>
+  <tr><td>Korean</td><td><tt>ko</tt></td><td>Korean</td><td></td></tr>
   <tr><td>Koromfe</td><td><tt>kfz</tt></td><td>Niger-Congo</td><td>Northern-Central Gur</td></tr>
-  <tr style="background:lightgray"><td>Kyrgyz</td><td><tt>ky</tt></td><td>Turkic</td><td>Northwestern</td></tr>
+  <tr><td>Kyrgyz</td><td><tt>ky</tt></td><td>Turkic</td><td>Northwestern</td></tr>
   <tr><td>Ladino</td><td><tt>lad</tt></td><td>IE</td><td>Romance</td></tr>
-  <tr style="background:lightgray"><td>Lango</td><td><tt>laj</tt></td><td>Eastern Sudanic</td><td>Nilotic</td></tr>
+  <tr><td>Lango</td><td><tt>laj</tt></td><td>Eastern Sudanic</td><td>Nilotic</td></tr>
   <tr><td>Latgalian</td><td><tt>ltg</tt></td><td>IE</td><td>Baltic</td></tr>
-  <tr style="background:lightgray"><td>Latin</td><td><tt>la</tt></td><td>IE</td><td>Italic</td></tr>
+  <tr><td>Latin</td><td><tt>la</tt></td><td>IE</td><td>Italic</td></tr>
   <tr><td>Latvian</td><td><tt>lv</tt></td><td>IE</td><td>Baltic</td></tr>
-  <tr style="background:lightgray"><td>Laz</td><td><tt>lzz</tt></td><td>Kartvelian</td><td></td></tr>
+  <tr><td>Laz</td><td><tt>lzz</tt></td><td>Kartvelian</td><td></td></tr>
   <tr><td>Lezgian</td><td><tt>lez</tt></td><td>Nakh-Daghestanian</td><td>Lezgic</td></tr>
-  <tr style="background:lightgray"><td>Ligurian</td><td><tt>lij</tt></td><td>IE</td><td>Romance</td></tr>
+  <tr><td>Ligurian</td><td><tt>lij</tt></td><td>IE</td><td>Romance</td></tr>
   <tr><td>Lithuanian</td><td><tt>lt</tt></td><td>IE</td><td>Baltic</td></tr>
-  <tr style="background:lightgray"><td>Livvi</td><td><tt>olo</tt></td><td>Uralic</td><td>Finnic</td></tr>
+  <tr><td>Livvi</td><td><tt>olo</tt></td><td>Uralic</td><td>Finnic</td></tr>
   <tr><td>Low Saxon</td><td><tt>nds</tt></td><td>IE</td><td>Germanic</td></tr>
-  <tr style="background:lightgray"><td>Luxembourgish</td><td><tt>lb</tt></td><td>IE</td><td>Germanic</td></tr>
+  <tr><td>Luxembourgish</td><td><tt>lb</tt></td><td>IE</td><td>Germanic</td></tr>
   <tr><td>Macedonian</td><td><tt>mk</tt></td><td>IE</td><td>Slavic</td></tr>
-  <tr style="background:lightgray"><td>Madi</td><td><tt>jaa</tt></td><td>Arawan</td><td></td></tr>
+  <tr><td>Madi</td><td><tt>jaa</tt></td><td>Arawan</td><td></td></tr>
   <tr><td>Magahi</td><td><tt>mag</tt></td><td>IE</td><td>Indic</td></tr>
-  <tr style="background:lightgray"><td>Maghrebi Arabic French</td><td><tt>qaf</tt></td><td>Code switching</td><td></td></tr>
+  <tr><td>Maghrebi Arabic French</td><td><tt>qaf</tt></td><td>Code switching</td><td></td></tr>
   <tr><td>Makurap</td><td><tt>mpu</tt></td><td>Tupian</td><td>Tupari</td></tr>
-  <tr style="background:lightgray"><td>Malagasy</td><td><tt>mg</tt></td><td>Austronesian</td><td>Barito</td></tr>
+  <tr><td>Malagasy</td><td><tt>mg</tt></td><td>Austronesian</td><td>Barito</td></tr>
   <tr><td>Malayalam</td><td><tt>ml</tt></td><td>Dravidian</td><td></td></tr>
-  <tr style="background:lightgray"><td>Maltese</td><td><tt>mt</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
+  <tr><td>Maltese</td><td><tt>mt</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
   <tr><td>Manchu</td><td><tt>mnc</tt></td><td>Tungusic</td><td></td></tr>
-  <tr style="background:lightgray"><td>Mandyali</td><td><tt>mjl</tt></td><td>IE</td><td>Indic</td></tr>
+  <tr><td>Mandyali</td><td><tt>mjl</tt></td><td>IE</td><td>Indic</td></tr>
   <tr><td>Mansi</td><td><tt>mns</tt></td><td>Uralic</td><td>Ugric</td></tr>
-  <tr style="background:lightgray"><td>Manx</td><td><tt>gv</tt></td><td>IE</td><td>Celtic</td></tr>
+  <tr><td>Manx</td><td><tt>gv</tt></td><td>IE</td><td>Celtic</td></tr>
   <tr><td>Marathi</td><td><tt>mr</tt></td><td>IE</td><td>Indic</td></tr>
-  <tr style="background:lightgray"><td>Mauka</td><td><tt>mxx</tt></td><td>Mande</td><td>Western Mande</td></tr>
+  <tr><td>Mauka</td><td><tt>mxx</tt></td><td>Mande</td><td>Western Mande</td></tr>
   <tr><td>Mbya Guarani</td><td><tt>gun</tt></td><td>Tupian</td><td>Maweti-Guarani</td></tr>
-  <tr style="background:lightgray"><td>Megrelian</td><td><tt>xmf</tt></td><td>Kartvelian</td><td></td></tr>
+  <tr><td>Megrelian</td><td><tt>xmf</tt></td><td>Kartvelian</td><td></td></tr>
   <tr><td>Middle Armenian</td><td><tt>axm</tt></td><td>IE</td><td>Armenian</td></tr>
-  <tr style="background:lightgray"><td>Middle French</td><td><tt>frm</tt></td><td>IE</td><td>Romance</td></tr>
+  <tr><td>Middle French</td><td><tt>frm</tt></td><td>IE</td><td>Romance</td></tr>
   <tr><td>Middle Irish</td><td><tt>mga</tt></td><td>IE</td><td>Celtic</td></tr>
-  <tr style="background:lightgray"><td>Middle Persian</td><td><tt>pal</tt></td><td>IE</td><td>Iranian</td></tr>
+  <tr><td>Middle Persian</td><td><tt>pal</tt></td><td>IE</td><td>Iranian</td></tr>
   <tr><td>Mizo</td><td><tt>lus</tt></td><td>Sino-Tibetan</td><td>Kuki-Chin</td></tr>
-  <tr style="background:lightgray"><td>Mojave</td><td><tt>mov</tt></td><td>Hokan</td><td>Yuman</td></tr>
+  <tr><td>Mojave</td><td><tt>mov</tt></td><td>Hokan</td><td>Yuman</td></tr>
   <tr><td>Moksha</td><td><tt>mdf</tt></td><td>Uralic</td><td>Mordvin</td></tr>
-  <tr style="background:lightgray"><td>Mongolian</td><td><tt>mn</tt></td><td>Mongolic</td><td></td></tr>
+  <tr><td>Mongolian</td><td><tt>mn</tt></td><td>Mongolic</td><td></td></tr>
   <tr><td>Munduruku</td><td><tt>myu</tt></td><td>Tupian</td><td>Munduruku</td></tr>
-  <tr style="background:lightgray"><td>Muruwari</td><td><tt>zmu</tt></td><td>Pama-Nyungan</td><td>Southeastern Pama-Nyungan</td></tr>
+  <tr><td>Muruwari</td><td><tt>zmu</tt></td><td>Pama-Nyungan</td><td>Southeastern Pama-Nyungan</td></tr>
   <tr><td>Naga</td><td><tt>nmf</tt></td><td>Sino-Tibetan</td><td>Tangkhul-Maring</td></tr>
-  <tr style="background:lightgray"><td>Naija</td><td><tt>pcm</tt></td><td>Creole</td><td></td></tr>
+  <tr><td>Naija</td><td><tt>pcm</tt></td><td>Creole</td><td></td></tr>
   <tr><td>Nanai</td><td><tt>gld</tt></td><td>Tungusic</td><td></td></tr>
-  <tr style="background:lightgray"><td>Nayini</td><td><tt>nyq</tt></td><td>IE</td><td>Iranian</td></tr>
+  <tr><td>Nayini</td><td><tt>nyq</tt></td><td>IE</td><td>Iranian</td></tr>
   <tr><td>Ndengeleko</td><td><tt>ndg</tt></td><td>Niger-Congo</td><td>Bantoid</td></tr>
-  <tr style="background:lightgray"><td>Neapolitan</td><td><tt>nap</tt></td><td>IE</td><td>Romance</td></tr>
+  <tr><td>Neapolitan</td><td><tt>nap</tt></td><td>IE</td><td>Romance</td></tr>
   <tr><td>Negidal</td><td><tt>neg</tt></td><td>Tungusic</td><td></td></tr>
-  <tr style="background:lightgray"><td>Nenets</td><td><tt>yrk</tt></td><td>Uralic</td><td>Samoyedic</td></tr>
+  <tr><td>Nenets</td><td><tt>yrk</tt></td><td>Uralic</td><td>Samoyedic</td></tr>
   <tr><td>Nepali</td><td><tt>ne</tt></td><td>IE</td><td>Indic</td></tr>
-  <tr style="background:lightgray"><td>Nheengatu</td><td><tt>yrl</tt></td><td>Tupian</td><td>Maweti-Guarani</td></tr>
+  <tr><td>Nheengatu</td><td><tt>yrl</tt></td><td>Tupian</td><td>Maweti-Guarani</td></tr>
   <tr><td>Nkore</td><td><tt>nyn</tt></td><td>Niger-Congo</td><td>Bantoid</td></tr>
-  <tr style="background:lightgray"><td>North Sami</td><td><tt>sme</tt></td><td>Uralic</td><td>Sami</td></tr>
+  <tr><td>North Sami</td><td><tt>sme</tt></td><td>Uralic</td><td>Sami</td></tr>
   <tr><td>Northern Kurdish</td><td><tt>kmr</tt></td><td>IE</td><td>Iranian</td></tr>
-  <tr style="background:lightgray"><td>Northern Luri</td><td><tt>lrc</tt></td><td>IE</td><td>Iranian</td></tr>
+  <tr><td>Northern Luri</td><td><tt>lrc</tt></td><td>IE</td><td>Iranian</td></tr>
   <tr><td>Northwest Gbaya</td><td><tt>gya</tt></td><td>Niger-Congo</td><td>Gbaya-Manza-Ngbaka</td></tr>
-  <tr style="background:lightgray"><td>Norwegian</td><td><tt>no</tt></td><td>IE</td><td>Germanic</td></tr>
+  <tr><td>Norwegian</td><td><tt>no</tt></td><td>IE</td><td>Germanic</td></tr>
   <tr><td>Occitan</td><td><tt>oc</tt></td><td>IE</td><td>Romance</td></tr>
-  <tr style="background:lightgray"><td>Odia</td><td><tt>or</tt></td><td>IE</td><td>Indic</td></tr>
+  <tr><td>Odia</td><td><tt>or</tt></td><td>IE</td><td>Indic</td></tr>
   <tr><td>Old Church Slavonic</td><td><tt>cu</tt></td><td>IE</td><td>Slavic</td></tr>
-  <tr style="background:lightgray"><td>Old East Slavic</td><td><tt>orv</tt></td><td>IE</td><td>Slavic</td></tr>
+  <tr><td>Old East Slavic</td><td><tt>orv</tt></td><td>IE</td><td>Slavic</td></tr>
   <tr><td>Old English</td><td><tt>ang</tt></td><td>IE</td><td>Germanic</td></tr>
-  <tr style="background:lightgray"><td>Old French</td><td><tt>fro</tt></td><td>IE</td><td>Romance</td></tr>
+  <tr><td>Old French</td><td><tt>fro</tt></td><td>IE</td><td>Romance</td></tr>
   <tr><td>Old Georgian</td><td><tt>oge</tt></td><td>Kartvelian</td><td></td></tr>
-  <tr style="background:lightgray"><td>Old Irish</td><td><tt>sga</tt></td><td>IE</td><td>Celtic</td></tr>
+  <tr><td>Old Irish</td><td><tt>sga</tt></td><td>IE</td><td>Celtic</td></tr>
   <tr><td>Old Japanese</td><td><tt>ojp</tt></td><td>Japanese</td><td></td></tr>
-  <tr style="background:lightgray"><td>Old Occitan</td><td><tt>pro</tt></td><td>IE</td><td>Romance</td></tr>
+  <tr><td>Old Occitan</td><td><tt>pro</tt></td><td>IE</td><td>Romance</td></tr>
   <tr><td>Old Saxon</td><td><tt>osx</tt></td><td>IE</td><td>Germanic</td></tr>
-  <tr style="background:lightgray"><td>Old Turkish</td><td><tt>otk</tt></td><td>Turkic</td><td>Northeastern</td></tr>
+  <tr><td>Old Turkish</td><td><tt>otk</tt></td><td>Turkic</td><td>Northeastern</td></tr>
   <tr><td>Oroch</td><td><tt>oac</tt></td><td>Tungusic</td><td></td></tr>
-  <tr style="background:lightgray"><td>Ottoman Turkish</td><td><tt>ota</tt></td><td>Turkic</td><td>Southwestern</td></tr>
+  <tr><td>Ottoman Turkish</td><td><tt>ota</tt></td><td>Turkic</td><td>Southwestern</td></tr>
   <tr><td>Palenquero</td><td><tt>pln</tt></td><td>Creole</td><td></td></tr>
-  <tr style="background:lightgray"><td>Pali</td><td><tt>pi</tt></td><td>IE</td><td>Indic</td></tr>
+  <tr><td>Pali</td><td><tt>pi</tt></td><td>IE</td><td>Indic</td></tr>
   <tr><td>Papiamento</td><td><tt>pap</tt></td><td>Creole</td><td></td></tr>
-  <tr style="background:lightgray"><td>Pashto</td><td><tt>ps</tt></td><td>IE</td><td>Iranian</td></tr>
+  <tr><td>Pashto</td><td><tt>ps</tt></td><td>IE</td><td>Iranian</td></tr>
   <tr><td>Paumari</td><td><tt>pad</tt></td><td>Arawan</td><td></td></tr>
-  <tr style="background:lightgray"><td>Peripheral Mongolian</td><td><tt>mvf</tt></td><td>Mongolic</td><td></td></tr>
+  <tr><td>Peripheral Mongolian</td><td><tt>mvf</tt></td><td>Mongolic</td><td></td></tr>
   <tr><td>Persian</td><td><tt>fa</tt></td><td>IE</td><td>Iranian</td></tr>
-  <tr style="background:lightgray"><td>Pesh</td><td><tt>pay</tt></td><td>Chibchan</td><td>Pesh</td></tr>
+  <tr><td>Pesh</td><td><tt>pay</tt></td><td>Chibchan</td><td>Pesh</td></tr>
   <tr><td>Phrygian</td><td><tt>xpg</tt></td><td>IE</td><td>Greek</td></tr>
-  <tr style="background:lightgray"><td>Pnar</td><td><tt>pbv</tt></td><td>Austro-Asiatic</td><td>Khasian</td></tr>
+  <tr><td>Pnar</td><td><tt>pbv</tt></td><td>Austro-Asiatic</td><td>Khasian</td></tr>
   <tr><td>Polish</td><td><tt>pl</tt></td><td>IE</td><td>Slavic</td></tr>
-  <tr style="background:lightgray"><td>Pomak</td><td><tt>qpm</tt></td><td>IE</td><td>Slavic</td></tr>
+  <tr><td>Pomak</td><td><tt>qpm</tt></td><td>IE</td><td>Slavic</td></tr>
   <tr><td>Pontic</td><td><tt>pnt</tt></td><td>IE</td><td>Greek</td></tr>
-  <tr style="background:lightgray"><td>Portuguese</td><td><tt>pt</tt></td><td>IE</td><td>Romance</td></tr>
+  <tr><td>Portuguese</td><td><tt>pt</tt></td><td>IE</td><td>Romance</td></tr>
   <tr><td>Prakrit</td><td><tt>pra</tt></td><td>IE</td><td>Indic</td></tr>
-  <tr style="background:lightgray"><td>Punjabi</td><td><tt>pa</tt></td><td>IE</td><td>Indic</td></tr>
+  <tr><td>Punjabi</td><td><tt>pa</tt></td><td>IE</td><td>Indic</td></tr>
   <tr><td>Puno Quechua</td><td><tt>qxp</tt></td><td>Quechuan</td><td></td></tr>
-  <tr style="background:lightgray"><td>Purki</td><td><tt>prx</tt></td><td>Sino-Tibetan</td><td>Bodic</td></tr>
+  <tr><td>Purki</td><td><tt>prx</tt></td><td>Sino-Tibetan</td><td>Bodic</td></tr>
   <tr><td>Romanian</td><td><tt>ro</tt></td><td>IE</td><td>Romance</td></tr>
-  <tr style="background:lightgray"><td>Romansh</td><td><tt>rm</tt></td><td>IE</td><td>Romance</td></tr>
+  <tr><td>Romansh</td><td><tt>rm</tt></td><td>IE</td><td>Romance</td></tr>
   <tr><td>Russian</td><td><tt>ru</tt></td><td>IE</td><td>Slavic</td></tr>
-  <tr style="background:lightgray"><td>Ruuli</td><td><tt>ruc</tt></td><td>Niger-Congo</td><td>Bantoid</td></tr>
+  <tr><td>Ruuli</td><td><tt>ruc</tt></td><td>Niger-Congo</td><td>Bantoid</td></tr>
   <tr><td>Sanskrit</td><td><tt>sa</tt></td><td>IE</td><td>Indic</td></tr>
-  <tr style="background:lightgray"><td>Sardinian</td><td><tt>sc</tt></td><td>IE</td><td>Romance</td></tr>
+  <tr><td>Sardinian</td><td><tt>sc</tt></td><td>IE</td><td>Romance</td></tr>
   <tr><td>Scottish Gaelic</td><td><tt>gd</tt></td><td>IE</td><td>Celtic</td></tr>
-  <tr style="background:lightgray"><td>Serbian</td><td><tt>sr</tt></td><td>IE</td><td>Slavic</td></tr>
+  <tr><td>Serbian</td><td><tt>sr</tt></td><td>IE</td><td>Slavic</td></tr>
   <tr><td>Seri</td><td><tt>sei</tt></td><td>Hokan</td><td>Seri</td></tr>
-  <tr style="background:lightgray"><td>Shanghainese</td><td><tt>wuu</tt></td><td>Sino-Tibetan</td><td>Chinese</td></tr>
+  <tr><td>Shanghainese</td><td><tt>wuu</tt></td><td>Sino-Tibetan</td><td>Chinese</td></tr>
   <tr><td>Shipibo Konibo</td><td><tt>shp</tt></td><td>Pano-Tacanan</td><td>Panoan</td></tr>
-  <tr style="background:lightgray"><td>Sicilian</td><td><tt>scn</tt></td><td>IE</td><td>Romance</td></tr>
+  <tr><td>Sicilian</td><td><tt>scn</tt></td><td>IE</td><td>Romance</td></tr>
   <tr><td>Sindhi</td><td><tt>sd</tt></td><td>IE</td><td>Indic</td></tr>
-  <tr style="background:lightgray"><td>Sinhala</td><td><tt>si</tt></td><td>IE</td><td>Indic</td></tr>
+  <tr><td>Sinhala</td><td><tt>si</tt></td><td>IE</td><td>Indic</td></tr>
   <tr><td>Skolt Sami</td><td><tt>sms</tt></td><td>Uralic</td><td>Sami</td></tr>
-  <tr style="background:lightgray"><td>Slovak</td><td><tt>sk</tt></td><td>IE</td><td>Slavic</td></tr>
+  <tr><td>Slovak</td><td><tt>sk</tt></td><td>IE</td><td>Slavic</td></tr>
   <tr><td>Slovenian</td><td><tt>sl</tt></td><td>IE</td><td>Slavic</td></tr>
-  <tr style="background:lightgray"><td>Soi</td><td><tt>soj</tt></td><td>IE</td><td>Iranian</td></tr>
+  <tr><td>Soi</td><td><tt>soj</tt></td><td>IE</td><td>Iranian</td></tr>
   <tr><td>Somali</td><td><tt>so</tt></td><td>Afro-Asiatic</td><td>Cushitic</td></tr>
-  <tr style="background:lightgray"><td>South Levantine Arabic</td><td><tt>ajp</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
+  <tr><td>South Levantine Arabic</td><td><tt>ajp</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
   <tr><td>Southern Kurdish</td><td><tt>sdh</tt></td><td>IE</td><td>Iranian</td></tr>
-  <tr style="background:lightgray"><td>Spanish</td><td><tt>es</tt></td><td>IE</td><td>Romance</td></tr>
+  <tr><td>Spanish</td><td><tt>es</tt></td><td>IE</td><td>Romance</td></tr>
   <tr><td>Spanish English</td><td><tt>qee</tt></td><td>Code switching</td><td></td></tr>
-  <tr style="background:lightgray"><td>Spanish Sign Language</td><td><tt>ssp</tt></td><td>Sign Language</td><td></td></tr>
+  <tr><td>Spanish Sign Language</td><td><tt>ssp</tt></td><td>Sign Language</td><td></td></tr>
   <tr><td>Sumerian</td><td><tt>sux</tt></td><td>Sumerian</td><td></td></tr>
-  <tr style="background:lightgray"><td>Swahili</td><td><tt>sw</tt></td><td>Niger-Congo</td><td>Bantoid</td></tr>
+  <tr><td>Swahili</td><td><tt>sw</tt></td><td>Niger-Congo</td><td>Bantoid</td></tr>
   <tr><td>Swedish</td><td><tt>sv</tt></td><td>IE</td><td>Germanic</td></tr>
-  <tr style="background:lightgray"><td>Swedish Sign Language</td><td><tt>swl</tt></td><td>Sign Language</td><td></td></tr>
+  <tr><td>Swedish Sign Language</td><td><tt>swl</tt></td><td>Sign Language</td><td></td></tr>
   <tr><td>Tagabawa</td><td><tt>bgs</tt></td><td>Austronesian</td><td>Greater Central Philippine</td></tr>
-  <tr style="background:lightgray"><td>Tagalog</td><td><tt>tl</tt></td><td>Austronesian</td><td>Greater Central Philippine</td></tr>
+  <tr><td>Tagalog</td><td><tt>tl</tt></td><td>Austronesian</td><td>Greater Central Philippine</td></tr>
   <tr><td>Tamil</td><td><tt>ta</tt></td><td>Dravidian</td><td></td></tr>
-  <tr style="background:lightgray"><td>Tatar</td><td><tt>tt</tt></td><td>Turkic</td><td>Northwestern</td></tr>
+  <tr><td>Tatar</td><td><tt>tt</tt></td><td>Turkic</td><td>Northwestern</td></tr>
   <tr><td>Teko</td><td><tt>eme</tt></td><td>Tupian</td><td>Maweti-Guarani</td></tr>
-  <tr style="background:lightgray"><td>Telugu</td><td><tt>te</tt></td><td>Dravidian</td><td></td></tr>
+  <tr><td>Telugu</td><td><tt>te</tt></td><td>Dravidian</td><td></td></tr>
   <tr><td>Telugu English</td><td><tt>qte</tt></td><td>Code switching</td><td></td></tr>
-  <tr style="background:lightgray"><td>Tetun</td><td><tt>tdt</tt></td><td>Austronesian</td><td>Central Malayo-Polynesian</td></tr>
+  <tr><td>Tetun</td><td><tt>tdt</tt></td><td>Austronesian</td><td>Central Malayo-Polynesian</td></tr>
   <tr><td>Thai</td><td><tt>th</tt></td><td>Tai-Kadai</td><td>Kam-Tai</td></tr>
-  <tr style="background:lightgray"><td>Tigrinya</td><td><tt>ti</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
+  <tr><td>Tigrinya</td><td><tt>ti</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
   <tr><td>Torwali</td><td><tt>trw</tt></td><td>IE</td><td>Indic</td></tr>
-  <tr style="background:lightgray"><td>Tswana</td><td><tt>tn</tt></td><td>Niger-Congo</td><td>Bantoid</td></tr>
+  <tr><td>Tswana</td><td><tt>tn</tt></td><td>Niger-Congo</td><td>Bantoid</td></tr>
   <tr><td>Tu</td><td><tt>mjg</tt></td><td>Mongolic</td><td></td></tr>
-  <tr style="background:lightgray"><td>Tunisian Arabic</td><td><tt>aeb</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
+  <tr><td>Tunisian Arabic</td><td><tt>aeb</tt></td><td>Afro-Asiatic</td><td>Semitic</td></tr>
   <tr><td>Tupinamba</td><td><tt>tpn</tt></td><td>Tupian</td><td>Maweti-Guarani</td></tr>
-  <tr style="background:lightgray"><td>Turkish</td><td><tt>tr</tt></td><td>Turkic</td><td>Southwestern</td></tr>
+  <tr><td>Turkish</td><td><tt>tr</tt></td><td>Turkic</td><td>Southwestern</td></tr>
   <tr><td>Turkish English</td><td><tt>qti</tt></td><td>Code switching</td><td></td></tr>
-  <tr style="background:lightgray"><td>Turkish German</td><td><tt>qtd</tt></td><td>Code switching</td><td></td></tr>
+  <tr><td>Turkish German</td><td><tt>qtd</tt></td><td>Code switching</td><td></td></tr>
   <tr><td>Turkmen</td><td><tt>tk</tt></td><td>Turkic</td><td>Southwestern</td></tr>
-  <tr style="background:lightgray"><td>Tuwari</td><td><tt>tww</tt></td><td>Sepik</td><td></td></tr>
+  <tr><td>Tuwari</td><td><tt>tww</tt></td><td>Sepik</td><td></td></tr>
   <tr><td>Udihe</td><td><tt>ude</tt></td><td>Tungusic</td><td></td></tr>
-  <tr style="background:lightgray"><td>Ukrainian</td><td><tt>uk</tt></td><td>IE</td><td>Slavic</td></tr>
+  <tr><td>Ukrainian</td><td><tt>uk</tt></td><td>IE</td><td>Slavic</td></tr>
   <tr><td>Ulch</td><td><tt>ulc</tt></td><td>Tungusic</td><td></td></tr>
-  <tr style="background:lightgray"><td>Umbrian</td><td><tt>xum</tt></td><td>IE</td><td>Italic</td></tr>
+  <tr><td>Umbrian</td><td><tt>xum</tt></td><td>IE</td><td>Italic</td></tr>
   <tr><td>Upper Sorbian</td><td><tt>hsb</tt></td><td>IE</td><td>Slavic</td></tr>
-  <tr style="background:lightgray"><td>Urdu</td><td><tt>ur</tt></td><td>IE</td><td>Indic</td></tr>
+  <tr><td>Urdu</td><td><tt>ur</tt></td><td>IE</td><td>Indic</td></tr>
   <tr><td>Uspanteko</td><td><tt>usp</tt></td><td>Mayan</td><td></td></tr>
-  <tr style="background:lightgray"><td>Uyghur</td><td><tt>ug</tt></td><td>Turkic</td><td>Southeastern</td></tr>
+  <tr><td>Uyghur</td><td><tt>ug</tt></td><td>Turkic</td><td>Southeastern</td></tr>
   <tr><td>Uzbek</td><td><tt>uz</tt></td><td>Turkic</td><td>Southeastern</td></tr>
-  <tr style="background:lightgray"><td>Veps</td><td><tt>vep</tt></td><td>Uralic</td><td>Finnic</td></tr>
+  <tr><td>Veps</td><td><tt>vep</tt></td><td>Uralic</td><td>Finnic</td></tr>
   <tr><td>Vietnamese</td><td><tt>vi</tt></td><td>Austro-Asiatic</td><td>Viet-Muong</td></tr>
-  <tr style="background:lightgray"><td>Warlpiri</td><td><tt>wbp</tt></td><td>Pama-Nyungan</td><td>Western Pama-Nyungan</td></tr>
+  <tr><td>Warlpiri</td><td><tt>wbp</tt></td><td>Pama-Nyungan</td><td>Western Pama-Nyungan</td></tr>
   <tr><td>Welsh</td><td><tt>cy</tt></td><td>IE</td><td>Celtic</td></tr>
-  <tr style="background:lightgray"><td>Western Armenian</td><td><tt>hyw</tt></td><td>IE</td><td>Armenian</td></tr>
+  <tr><td>Western Armenian</td><td><tt>hyw</tt></td><td>IE</td><td>Armenian</td></tr>
   <tr><td>Western Sierra Puebla Nahuatl</td><td><tt>nhi</tt></td><td>Uto-Aztecan</td><td>Aztecan</td></tr>
-  <tr style="background:lightgray"><td>Wolof</td><td><tt>wo</tt></td><td>Niger-Congo</td><td>Northern Atlantic</td></tr>
+  <tr><td>Wolof</td><td><tt>wo</tt></td><td>Niger-Congo</td><td>Northern Atlantic</td></tr>
   <tr><td>Xavante</td><td><tt>xav</tt></td><td>Macro-Je</td><td>Je Central</td></tr>
-  <tr style="background:lightgray"><td>Xibe</td><td><tt>sjo</tt></td><td>Tungusic</td><td></td></tr>
+  <tr><td>Xibe</td><td><tt>sjo</tt></td><td>Tungusic</td><td></td></tr>
   <tr><td>Yakut</td><td><tt>sah</tt></td><td>Turkic</td><td>Northeastern</td></tr>
-  <tr style="background:lightgray"><td>Yiddish</td><td><tt>yi</tt></td><td>IE</td><td>Germanic</td></tr>
+  <tr><td>Yiddish</td><td><tt>yi</tt></td><td>IE</td><td>Germanic</td></tr>
   <tr><td>Yoruba</td><td><tt>yo</tt></td><td>Niger-Congo</td><td>Defoid</td></tr>
-  <tr style="background:lightgray"><td>Yukulta</td><td><tt>gcd</tt></td><td>Tangkic</td><td></td></tr>
+  <tr><td>Yukulta</td><td><tt>gcd</tt></td><td>Tangkic</td><td></td></tr>
   <tr><td>Yupik</td><td><tt>ess</tt></td><td>Eskimo-Aleut</td><td>Eskimo</td></tr>
-  <tr style="background:lightgray"><td>Zaar</td><td><tt>say</tt></td><td>Afro-Asiatic</td><td>West Chadic</td></tr>
+  <tr><td>Zaar</td><td><tt>say</tt></td><td>Afro-Asiatic</td><td>West Chadic</td></tr>
   <tr><td>Zazaki</td><td><tt>zza</tt></td><td>IE</td><td>Iranian</td></tr>
 </table>
 
