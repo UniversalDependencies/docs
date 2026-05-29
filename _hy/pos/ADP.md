@@ -29,6 +29,6 @@ Note also that there are a number of case-marking elements (traditionally called
 
 - Prepositions: _ի_/_i_ “for, in”, _առ_/_ar_ “up to”; _ըստ_/_ëst_ “according to”
 - Postpositions: _համար_/_hamar_ “for”; _հանդերձ_/_handerj_ “together with”; _պես_/_pes_ “as”
-- Localizers / postpositions: _մոտ_/_mot_ “at”; _վրա_/_vra_ “on”; _մեջ_/_meǰ_ “in”; _տակ_/_tak_ “under”; _առաջ_/_araǰ_, _առջև_/_arǰew_, _դիմաց_/_dimac’_ “before, front side, ahead”
+- Localizers / postpositions: _մոտ_/_mot_ “at”; _վրա_/_vra_ “on”; _մեջ_/_meǰ_ “in”; _տակ_/_tak_ “under”; _առաջ_/_araǰ_, _առջև_/_arǰew_, _դիմաց_/_dimac’_ “in front of, opposite, ahead of”
 - Case-marking words: _հետո_/_heto_ “after”
 <!-- Interlanguage links updated St 6. května 2026, 20:41:53 CEST -->
