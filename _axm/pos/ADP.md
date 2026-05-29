@@ -6,11 +6,11 @@ udver: '2'
 ---
 
 ### Definition
-Middle Armenian has prepositions, postpositions and ambipositional adpositions, but no circumpositions. They occur before or after the complement noun phrase (noun, pronoun) and form a single structure with the complement to express its grammatical and semantic relation to another unit within a clause.
+Middle Armenian has prepositions, postpositions, and ambipositional adpositions, but no circumpositions. They occur before or after a complement noun phrase (noun, pronoun) and form a single structure with the complement to express its grammatical and semantic relation to another unit within a clause.
 
-There are complex prepositions that take the form of fixed multiword expressions, e.g. _դեպ ի/dep i_ “to, towards”, _ի պահն/i pahn_ “immediately”. The component words are then still tagged according to their basic usage (_ի/i_ is `ADP`, _պահն/pahn_ is [ADV](), etc.) and their status as multiword expressions is accounted for in the syntactic annotation. The first word of the fixed expression is specified by the [ExtPos]() feature to indicate the UPOS that the expression would have if it were a single word.
+There are fixed multiword expressions such as _դեպ ի/dep i_ “to, towards”, _ի պահն/i pahn_ “at the moment, immediately”. The component words are then still tagged according to their basic usage (_ի/i_ is `ADP`, _պահն/pahn_ is [NOUN](), etc.) and their status as multiword expressions is accounted for in the syntactic annotation. The first word of the fixed expression is specified by the [ExtPos]() feature to indicate the UPOS that the expression would have if it were a single word.
 
-Note that there are a number of case-marking elements (traditionally called “adpositional words”), derived from a closed set of [nouns](NOUN), [adjectives/participles](VerbForm) or [adverbs](ADV). They are tagged based on their main part-of-speech category in UPOS. Their function as a part of speech, different from that indicated by their UPOS tag is marked by the [ExtPos]() feature.
+Note that there are a number of case-marking elements (traditionally called “adpositional words”), derived from a closed set of [nouns](NOUN), [adjectives/participles](VerbForm) or [adverbs](ADV). They are tagged based on their main part-of-speech category in UPOS. Their function as a part of speech different from that indicated by their UPOS tag is marked by the [ExtPos]() feature.
 
 ### Examples
 
