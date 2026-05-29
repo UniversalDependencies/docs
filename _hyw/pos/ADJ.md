@@ -28,7 +28,7 @@ Most Western Armenian adjectives inflect for [Degree]() (_մեծ_/_medz_, _ավ�
 ### Border cases
 
 Resultative, subject, and past participles are word forms that share properties and usage of both adjectives and verbs. Note that both core participial forms (used to form finite indicative tenses) and adjectival participials (used in nominal predication
-with the [copula](cop) or to modify nouns) are consistently tagged as [VERB]():
+with the [copula](cop) or to modify nouns) are tagged as [VERB]():
 
 - _<b>նուաղած</b> էր_/_nuaghadz ēr_ “he/she was weakened”
 - _<b>խռովուած</b> էր_/_khṛovuadz ēr_ “he/she was troubled”
