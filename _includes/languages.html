@@ -4,6 +4,9 @@
 -->
 
 <style>
+input {
+  width: 100%;
+}
 th {
   cursor: pointer;
 }
@@ -13,7 +16,18 @@ tr:nth-child(even) {
 </style>
 
 <table id="langTable">
-  <tr><th onclick="sortTable(0)">Language<br/><input type="text" id="fLanguage" onkeyup="filterTable()" title="Type in language name"></th><th onclick="sortTable(1)">ISO Code<br/><input type="text" id="fCode" onkeyup="filterTable()" title="Type in language code"></th><th onclick="sortTable(2)">Family<br/><input type="text" id="fFamily" onkeyup="filterTable()" title="Type in family"></th><th onclick="sortTable(3)">Genus<br/><input type="text" id="fGenus" onkeyup="filterTable()" title="Type in genus"></th></tr>
+  <tr>
+    <th onclick="sortTable(0)">Language</th>
+    <th onclick="sortTable(1)">ISO Code</th>
+    <th onclick="sortTable(2)">Family</th>
+    <th onclick="sortTable(3)">Genus</th>
+  </tr>
+  <tr>
+    <th><input size="1" type="text" id="fLanguage" onkeyup="filterTable()" title="Type in language name"></th>
+    <th><input size="1" type="text" id="fCode" onkeyup="filterTable()" title="Type in language code"></th>
+    <th><input size="1" type="text" id="fFamily" onkeyup="filterTable()" title="Type in family"></th>
+    <th><input size="1" type="text" id="fGenus" onkeyup="filterTable()" title="Type in genus"></th>
+  </tr>
   <tr><td>Abaza</td><td><tt>abq</tt></td><td>Northwest Caucasian</td><td></td></tr>
   <tr><td>Abkhaz</td><td><tt>ab</tt></td><td>Northwest Caucasian</td><td></td></tr>
   <tr><td>Afrikaans</td><td><tt>af</tt></td><td>IE</td><td>Germanic</td></tr>
@@ -315,7 +329,7 @@ function sortTable(n) {
     rows = table.rows;
     /* Loop through all table rows (except the
     first, which contains table headers): */
-    for (i = 1; i < (rows.length - 1); i++) {
+    for (i = 2; i < (rows.length - 1); i++) {
       // Start by saying there should be no switching:
       shouldSwitch = false;
       /* Get the two elements you want to compare,
@@ -357,15 +371,15 @@ function sortTable(n) {
 }
 
 function filterTable() {
-  var filterLanguage, filterCode, filterFamily, filterGenus, table, tr;
-  filterLanguage = document.getElementById("fLanguage").value.toUpperCase();
-  filterCode = document.getElementById("fCode").value.toUpperCase();
-  filterFamily = document.getElementById("fFamily").value.toUpperCase();
-  filterGenus = document.getElementById("fGenus").value.toUpperCase();
+  var fl, fc, ff, fg, table, tr;
+  fl = document.getElementById("fLanguage").value.toUpperCase();
+  fc = document.getElementById("fCode").value.toUpperCase();
+  ff = document.getElementById("fFamily").value.toUpperCase();
+  fg = document.getElementById("fGenus").value.toUpperCase();
   table = document.getElementById("langTable");
   tr = table.getElementsByTagName("tr");
   for (i = 0; i < tr.length; i++) {
-    if (matchRow(tr[i], filterLanguage, filterCode, filterFamily, filterGenus)) {
+    if (matchRow(tr[i], fl, fc, ff, fg)) {
       tr[i].style.display = "";
     } else {
       tr[i].style.display = "none";
@@ -375,33 +389,33 @@ function filterTable() {
 
 function matchRow(tr, fl, fc, ff, fg) {
   var match, td, txtValue;
-  match = True;
+  match = true;
   if (fl) {
     td = tr.getElementsByTagName("td")[0];
     if (td) {
-      txtValue = tdLanguage.textContent || tdLanguage.innerText;
-      match = match && txtValue.toUpperCase().indexOf(fl);
+      txtValue = td.textContent || td.innerText;
+      match = match && txtValue.toUpperCase().indexOf(fl) > -1;
     }
   }
   if (fc) {
     td = tr.getElementsByTagName("td")[1];
     if (td) {
-      txtValue = tdLanguage.textContent || tdLanguage.innerText;
-      match = match && txtValue.toUpperCase().indexOf(fc);
+      txtValue = td.textContent || td.innerText;
+      match = match && txtValue.toUpperCase().indexOf(fc) > -1;
     }
   }
   if (ff) {
     td = tr.getElementsByTagName("td")[2];
     if (td) {
-      txtValue = tdLanguage.textContent || tdLanguage.innerText;
-      match = match && txtValue.toUpperCase().indexOf(ff);
+      txtValue = td.textContent || td.innerText;
+      match = match && txtValue.toUpperCase().indexOf(ff) > -1;
     }
   }
   if (fg) {
     td = tr.getElementsByTagName("td")[3];
     if (td) {
-      txtValue = tdLanguage.textContent || tdLanguage.innerText;
-      match = match && txtValue.toUpperCase().indexOf(fg);
+      txtValue = td.textContent || td.innerText;
+      match = match && txtValue.toUpperCase().indexOf(fg) > -1;
     }
   }
   return match;
