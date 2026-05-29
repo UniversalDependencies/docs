@@ -19,7 +19,7 @@ Most Armenian adjectives inflect for [Degree]() (_մեծ_/_meç_, _ավելի մ
 
 ### Examples
 
-- _մեծ_/_meç_ “big
+- _մեծ_/_meç_ “big”
 - _հին_/_hin_ “old”
 -	_կանաչ_/_kanač_ “green”
 -	_անընկալելի_/_anënkaleli_ “incomprehensible”
@@ -27,7 +27,7 @@ Most Armenian adjectives inflect for [Degree]() (_մեծ_/_meç_, _ավելի մ
 
 ### Border cases
 
-Resultative, subject, and past participles are word forms that share properties and usage of both adjectives and verbs. Note that both core participial forms (used to form finite indicative tenses) and adjectival participials (used in nominal predication
+Resultative, subject, and past participles are word forms that share properties and usage of both adjectives and verbs. Note that both core participial forms (used to form finite indicative tenses) and adjectival participles (used in nominal predication
 with the [copula](cop) or to modify nouns) are tagged as [VERB]():
 
 - _<b>հոգնած</b> է_/_hognaç ē_ “he/she is tired”
@@ -36,5 +36,7 @@ with the [copula](cop) or to modify nouns) are tagged as [VERB]():
 -	_<b>կառուցված, կառուցվող, կառուցվելիք</b> շենք_/_kaṙowc’vaç, kaṙowc’voġ, kaṙowc’velik’ šenk’_ “abuilding constructed, under construction, or to be constructed”
 -	_<b>հնչած, հնչող, հնչելիք</b> զանգ_ “a bell rung, ringing, or to be rung”
 
-Note that some participial adjectives are tagged `ADJ`, although they may have verbal features in addition to the adjectival ones.
+Note that some participial adjectives that are already lexicalized as adjectives are tagged `ADJ`, although they may have verbal features in addition to the adjectival ones.
+- _<b>սոված</b>_/_sovaç_ “hungry”
+- _<b>հավասարակշռված</b>_/_havasarakšṙvaç_ “balanced”
 <!-- Interlanguage links updated St 6. května 2026, 20:41:51 CEST -->
