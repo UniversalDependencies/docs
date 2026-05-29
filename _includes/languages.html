@@ -13,13 +13,7 @@ tr:nth-child(even) {
 </style>
 
 <table id="langTable">
-  <tr><th onclick="sortTable(0)">Language</th><th onclick="sortTable(1)">ISO Code</th><th onclick="sortTable(2)">Family</th><th onclick="sortTable(3)">Genus</th></tr>
-  <tr>
-    <td><input type="text" id="fLanguage" onkeyup="filterTable()" title="Type in language name"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+  <tr><th onclick="sortTable(0)">Language<br/><input type="text" id="fLanguage" onkeyup="filterTable()" title="Type in language name"></th><th onclick="sortTable(1)">ISO Code</th><th onclick="sortTable(2)">Family</th><th onclick="sortTable(3)">Genus</th></tr>
   <tr><td>Abaza</td><td><tt>abq</tt></td><td>Northwest Caucasian</td><td></td></tr>
   <tr><td>Abkhaz</td><td><tt>ab</tt></td><td>Northwest Caucasian</td><td></td></tr>
   <tr><td>Afrikaans</td><td><tt>af</tt></td><td>IE</td><td>Germanic</td></tr>
@@ -364,14 +358,20 @@ function sortTable(n) {
 
 function filterTable() {
   var input, filter, table, tr, td, i, txtValue;
-  input = document.getElementById("fLanguage");
-  filter = input.value.toUpperCase();
+  inputLanguage = document.getElementById("fLanguage");
+  inputCode = document.getElementById("fCode");
+  inputFamily = document.getElementById("fFamily");
+  inputGenus = document.getElementById("fGenus");
+  filter = inputLanguage.value.toUpperCase();
   table = document.getElementById("langTable");
   tr = table.getElementsByTagName("tr");
   for (i = 0; i < tr.length; i++) {
-    td = tr[i].getElementsByTagName("td")[0];
-    if (td) {
-      txtValue = td.textContent || td.innerText;
+    tdLanguage = tr[i].getElementsByTagName("td")[0];
+    tdCode = tr[i].getElementsByTagName("td")[1];
+    tdFamily = tr[i].getElementsByTagName("td")[2];
+    tdGenus = tr[i].getElementsByTagName("td")[3];
+    if (tdLanguage) {
+      txtValue = tdLanguage.textContent || tdLanguage.innerText;
       if (txtValue.toUpperCase().indexOf(filter) > -1) {
         tr[i].style.display = "";
       } else {
