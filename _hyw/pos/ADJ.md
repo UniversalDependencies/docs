@@ -35,5 +35,9 @@ with the [copula](cop) or to modify nouns) are tagged as [VERB]():
 -	_<b>գացած</b> էին_ “they had gone”
 -	_<b>կարուած, կարուող, կարուելիք</b> հանդերձներ_ “garments tailored, being tailored, and yet to be tailored”
 -	_<b>տարուած, տարուող, տարուելիք</b> աշխատանքներ_ “work carried out, being carried out, and to be carried out”
+
+Note that some participial adjectives that are already lexicalized as adjectives are tagged `ADJ`, although they may have verbal features in addition to the adjectival ones.
+- _<b>ստիպուած</b>_/_sdibuadz_ “forced”
+- _<b>ողորմած</b>_/_oghormadz_ “gracious”
   
 <!-- Interlanguage links updated St 6. května 2026, 20:41:51 CEST -->
