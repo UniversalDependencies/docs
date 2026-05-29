@@ -14,6 +14,12 @@ tr:nth-child(even) {
 
 <table id="langTable">
   <tr><th onclick="sortTable(0)">Language</th><th onclick="sortTable(1)">ISO Code</th><th onclick="sortTable(2)">Family</th><th onclick="sortTable(3)">Genus</th></tr>
+  <tr>
+    <td><input type="text" id="fLanguage" onkeyup="filterTable()" title="Type in language name"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr><td>Abaza</td><td><tt>abq</tt></td><td>Northwest Caucasian</td><td></td></tr>
   <tr><td>Abkhaz</td><td><tt>ab</tt></td><td>Northwest Caucasian</td><td></td></tr>
   <tr><td>Afrikaans</td><td><tt>af</tt></td><td>IE</td><td>Germanic</td></tr>
@@ -351,6 +357,25 @@ function sortTable(n) {
       if (switchcount == 0 && dir == "asc") {
         dir = "desc";
         switching = true;
+      }
+    }
+  }
+}
+
+function filterTable() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("fLanguage");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("langTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
       }
     }
   }
