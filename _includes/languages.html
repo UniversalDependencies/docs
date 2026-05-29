@@ -374,6 +374,9 @@ function sortTable(n) {
       }
     }
   }
+  # The filtering (display:none) has not been damaged by resorting,
+  # but the odd-even coloring of rows has; let's restore it.
+  filterTable();
 }
 
 function filterTable() {
