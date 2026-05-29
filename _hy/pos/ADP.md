@@ -21,7 +21,7 @@ Although a few localizers have further grammaticalized into adverbials denoting 
 
 - _Հետո սկսում ես <b>հետները</b> չշփվել_/_Heto sksowm es <b>hetnerë</b> čšp’vel_ “Then you stop communicating _<b>with-them</b>_.”
 
-Note also that there is a number of case-marking elements (traditionally called “adpositional words”), derived from a closed set of [nouns](NOUN), [adjectives/participles](VerbForm) or [adverbs](ADV). They are tagged based on their main part-of-speech category in UPOS. Their function as a part of speech, different from that in UPOS, is indicated with the [ExtPos] feature.
+Note also that there is a number of case-marking elements (traditionally called “adpositional words”), derived from a closed set of [nouns](NOUN), [adjectives/participles](VerbForm) or [adverbs](ADV). They are tagged based on their main part-of-speech category in UPOS. Their function as a part of speech, different from that in UPOS, is indicated with the [ExtPos]() feature.
 
 - _անհրաժեշտության <b>դեպքում</b>_/_anhražeštowt’yan <b>depk’owm</b>_ “_<b>in case</b> of necessity_”
 
