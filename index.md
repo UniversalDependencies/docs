@@ -93,3 +93,5 @@ longer maintained and they have been excluded from the most recent release.
 </div>
 
 <small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
+
+See also a separate page with a [list of UD languages](languages.html).
