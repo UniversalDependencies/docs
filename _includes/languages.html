@@ -3,7 +3,7 @@
   Your edits will be overwritten without notice.
 -->
 
-<table>
+<table id="langTable">
   <tr><th onclick="sortTable(0)">Language</th><th onclick="sortTable(1)">ISO Code</th><th onclick="sortTable(2)">Family</th><th onclick="sortTable(3)">Genus</th></tr>
   <tr><td>Abaza</td><td><tt>abq</tt></td><td>Northwest Caucasian</td><td></td></tr>
   <tr style="background:lightgray"><td>Abkhaz</td><td><tt>ab</tt></td><td>Northwest Caucasian</td><td></td></tr>
@@ -294,7 +294,7 @@
 <script>
 function sortTable(n) {
   var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
-  table = document.getElementById("myTable2");
+  table = document.getElementById("langTable");
   switching = true;
   // Set the sorting direction to ascending:
   dir = "asc";
