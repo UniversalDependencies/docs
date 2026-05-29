@@ -14,7 +14,7 @@ Some prepositions take the form of fixed multiword expressions, e.g. _ի սեր_
 Note that the Armenian `ADP` covers also “localizers”. These are a closed set of postpositions (traditionally known as “improper adpositions”) which inflect for [Case](), [Number[psor]]() and [Person[psor]]() and typically indicate spatial information in relation to the noun preceding it. Localizers are still tagged as `ADP`, but are labeled with additional features and with special dependency relation [case:loc]().
 Here is the list of commonly used localizers: _միջի_/_miǰi_, _միջից_/_miǰic’_, _միջով_/_miǰov_, _ետևից_/_etewic’_, _հետևից_/_hetewic’_, _հետևում_/_hetewowm_, _վրայի_/_vrayi_, _վրայից_/_vrayic’_, _վրայով_/_vrayov_, _տակի_/_taki_, _տակից_/_takic’_, _տակով_/_takov_, _մոտի_/_moti_, _մոտից_/_motic’_, _մոտով_/_motov_, _առջևի_/_aṙǰewi_, _առջևից_/_aṙǰewic’_, _առջևով_/_aṙǰewov_.
 
-- _Վերցրեց գիրքը սեղանի <b>վրայից</b>։_/_Verc’rec’ girk’ë seġani <b>vrayic’</b>_ “He took the book from on the table.”
+- _Վերցրեց գիրքը սեղանի <b>վրայից</b>։_/_Verc’rec’ girk’ë seġani <b>vrayic’</b>_ “He took the book from off the table.”
 - _Ճանապարհն անցնում էր դաշտերի <b>միջով</b>։_/_Č̣anaparhn anc’nowm ēr dašteri <b>miǰov</b>_ “The road passed through the fields.”
 
 Although a few localizers have further grammaticalized into adverbials denoting spatial concepts, localizers with the adverbial function are still tagged as `ADP` (but are labeled with additional features and with the dependency relation [obl]()).
