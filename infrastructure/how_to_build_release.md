@@ -99,10 +99,18 @@ It is meant for the maintenance task force rather than individual treebank teams
 
 ## Processing the data before releasing them
 
-* Make sure that there are not significant overlaps between training and dev/test files of treebanks of one language.<br />
-  <code>tools/check_overlaps.pl $(cat released_treebanks.txt) |& tee overlap.log</code>
-* Update statistics in the `stats.xml` file in each repository:<br />
-  <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; ( ../tools/conllu-stats.pl *.conllu > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; cd .. ; echo ; done</code>
+* Make sure that there are not significant overlaps between training and dev/test files of treebanks of one language.
+
+	```bash
+	tools/check_overlaps.pl $(cat released_treebanks.txt) |& tee overlap.log
+	```
+
+* Update statistics in the `stats.xml` file in each repository:
+
+	```bash
+	for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; ( ../tools/conllu-stats.pl *.conllu > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; cd .. ; echo ; done
+	```
+
 * Merge the `dev` branch into `master` in the released repositories.
   The `master` branch should not be touched the next six months and it should have exactly the contents that was officially
   released.
@@ -112,41 +120,79 @@ It is meant for the maintenance task force rather than individual treebank teams
   On the other hand, below we generate treebank evaluation log that appears only in the `master`
   branch but not in the `dev` branch nor in the released package.)
   <br />
-  <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; git pull --no-edit ; git merge dev --no-edit ; git push ; git checkout dev ; cd .. ; echo ; done</code>
-  * Check for conflicts from the previous step. If people misbehaved and pushed commits to `master`, even after a revert automatic merging may no longer be possible. We must resolve all conflicts manually before going on! The conflicted repositories are still switched to the `master` branch and git will not allow any further operations with them!<br />
-    <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; if ( git status | grep conflict ) ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CONFLICT XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; sleep 10 ; else echo OK ; fi ; cd .. ; echo ; done</code>
+
+	```bash
+	for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; git pull --no-edit ; git merge dev --no-edit ; git push ; git checkout dev ; cd .. ; echo ; done
+	```
+
+  * Check for conflicts from the previous step. If people misbehaved and pushed commits to `master`, even after a revert automatic merging may no longer be possible. We must resolve all conflicts manually before going on! The conflicted repositories are still switched to the `master` branch and git will not allow any further operations with them!
+
+	```bash
+	for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; if ( git status | grep conflict ) ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CONFLICT XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; sleep 10 ; else echo OK ; fi ; cd .. ; echo ; done
+	```
+
     * <code>cd UD_...(the-one-with-conflict) ; git status</code> will show what files have a problem. Let's assume that only `README.md` has a problem. This is how we replace it with the version from the `dev` branch and conclude the merge:<br />
       <code>git checkout --theirs README.md ; git add README.md ; git commit -m 'Merge branch dev' ; git push ; git checkout dev ; cd ..</code>
-  * After resolving the conflicts do not forget to checkout the `dev` branch again! (If there were no conflicts, we are already back in `dev`.)<br />
-    <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout dev ; cd .. ; echo ; done</code>
-* Re-evaluate the treebanks for the star ranking on the website. This is done only in the master branch and the result is stored there.<br />
-  <code>for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; cd .. ; perl -I ./tools ./tools/evaluate_treebank.pl $i --verbose &gt;&amp; $i/eval.log ; cd $i ; git add eval.log ; git commit -m 'Updated treebank evaluation.' ; git push ; git checkout dev ; cd .. ; done</code>
+  * After resolving the conflicts do not forget to checkout the `dev` branch again! (If there were no conflicts, we are already back in `dev`.)
+
+	```bash
+	for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout dev ; cd .. ; echo ; done
+	```
+
+* Re-evaluate the treebanks for the star ranking on the website. This is done only in the master branch and the result is stored there.
+
+	```bash
+	for i in $(cat released_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; cd .. ; perl -I ./tools ./tools/evaluate_treebank.pl $i --verbose &gt;&amp; $i/eval.log ; cd $i ; git add eval.log ; git commit -m 'Updated treebank evaluation.' ; git push ; git checkout dev ; cd .. ; done
+	```
 
 ## Updating automatically generated parts of documentation
 
-* Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).<br />
-  <code>cd docs ; git pull --no-edit ; cd ../docs-automation ; git pull --no-edit ; make all ; cd ../docs ; git commit -a -m 'Updated title page.' ; git push ; cd ..</code>
-* Run the `conllu-stats.pl` script again (but with different settings) and generate the long statistics that are displayed in the docs; note that the script takes the release number as a parameter and puts it in the generated index page:<br />
-  <code>cd docs ; git pull --no-edit ; cd .. ; for i in $(cat released_treebanks.txt) ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --release 2.18 --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..</code>
-* Generate side-by-side comparison whenever there are multiple treebanks of one language:<br />
-  <code>perl tools/generate_comparison_of_treebanks.pl $(cat released_treebanks.txt) ; cd docs ; git add treebanks/*-comparison.md ; git commit -m 'Updated comparison of treebanks.' ; git push ; cd ..</code>
+* Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).
+
+	```bash
+	cd docs ; git pull --no-edit ; cd ../docs-automation ; git pull --no-edit ; make all ; cd ../docs ; git commit -a -m 'Updated title page.' ; git push ; cd ..
+	```
+
+* Run the `conllu-stats.pl` script again (but with different settings) and generate the long statistics that are displayed in the docs; note that the script takes the release number as a parameter and puts it in the generated index page:
+
+	```bash
+	cd docs ; git pull --no-edit ; cd .. ; for i in $(cat released_treebanks.txt) ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --release 2.18 --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..
+	```
+
+* Generate side-by-side comparison whenever there are multiple treebanks of one language:
+
+	```bash
+	perl tools/generate_comparison_of_treebanks.pl $(cat released_treebanks.txt) ; cd docs ; git add treebanks/*-comparison.md ; git commit -m 'Updated comparison of treebanks.' ; git push ; cd ..
+	```
+
 * Run some other scripts that generate the lists of language-specific features and dependency
   relation subtypes for the docs repository.
-  Once the two files are updated, we must commit and push them to Github of course.<br />
-  <code>perl tools/survey_features.pl --tbklist released_treebanks.txt &gt; docs/survey-feats.md<br />
-  perl tools/survey_deprel_subtypes.pl --tbklist released_treebanks.txt &gt; docs/survey-deprel.md<br />
-  perl tools/survey_misc.pl --tbklist released_treebanks.txt &gt; docs/survey-misc.md<br />
-  cd docs ; git pull --no-edit ; git status ; git commit -a -m 'Updated list of features and relations.' ; git push ; cd ..</code>
+
+	```bash
+	perl tools/survey_features.pl --tbklist released_treebanks.txt &gt; docs/survey-feats.md
+	perl tools/survey_deprel_subtypes.pl --tbklist released_treebanks.txt &gt; docs/survey-deprel.md
+	perl tools/survey_misc.pl --tbklist released_treebanks.txt &gt; docs/survey-misc.md
+	perl tools/survey_scripts.pl --tbklist released_treebanks.txt --countby treebank &gt; docs/survey-scripts.md
+	cd docs ; git pull --no-edit ; git status ; git commit -a -m 'Updated list of features and relations.' ; git push ; cd ..
+	```
+
 * Run the script `makedata.sh` in the docs repository. It will regenerate the YAML files in the folder `_data`; this is needed
-  for cross-lingual links between documentation pages devoted to individual UPOS tags, features and relations.<br />
-  <code>cd docs ; ./makedata.sh ; git commit -a -m 'Updated crosslingual links.' ; git push ; cd ..</code><br />
+  for cross-lingual links between documentation pages devoted to individual UPOS tags, features and relations.
+
+	```bash
+	cd docs ; ./makedata.sh ; git commit -a -m 'Updated crosslingual links.' ; git push ; cd ..
+	```
+
 * Tag the current commit in all repositories including docs with the tag of the current release (`git tag r2.18` for UD 2.18).
   Push the tag to Github: `git push origin --tags`.
   You may even tag a particular commit retroactively: `git tag -a r2.1 9fceb02`.
   If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
   this is how you remove the tag from where it is now: `git tag -d r2.1`.
-  And this is how you remove it from Github: `git push origin :refs/tags/r2.1`.<br />
-  <code>for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.18 ; git push --tags ; cd .. ; echo ; done</code>
+  And this is how you remove it from Github: `git push origin :refs/tags/r2.1`.
+
+	```bash
+	for i in $(cat released_treebanks.txt) docs tools ; do echo $i ; cd $i ; git tag r2.18 ; git push --tags ; cd .. ; echo ; done
+	```
 
 ## Releasing the data
 
