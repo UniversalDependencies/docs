@@ -45,27 +45,29 @@ The contracted form of *us* in *let’s* is treated like other standard contract
 
 ## Relative/interrogative (WH) pronouns
 
-These are either [PronType]()=`Int` (interrogative) or [PronType]()=`Rel` (relative). [PronType]() is the only feature except where shown below.
+These are either [PronType]()=`Int` (interrogative) or [PronType]()=`Rel` (relative). `Case` is marked only for _who_ and variants.
 
-WH | Plain | -ever | Possessive 
--- | -- | -- | -- 
-wh.anim | who, whom (WP) | whoever, _whosoever_, whomever (WP) | whose (WP$) 
-wh.inanim | what, _wtf_ (WP) | whatever (WP) | whose (WP$) 
-wh.det | which (WDT) | whichever (WDT) |   
+&nbsp; | Nominative<br> `Case=Nom` | Accusative<br> `Case=Acc` | Dependent<br> Possessive<br> `Case=Gen`, `Poss=Yes` | Independent<br> Possessive<br> `Poss=Yes` 
+-- | -- | -- | -- | --
+`PronType=Int` or `Rel`  | who | whom [who], who | whose | whose
+`PronType=Int` or `Rel` | whoever, _whosoever_ | whomever [whoever], whoever | whosever | —
+XPOS (PTB) | WP | WP | WP$ | WP$ |
 
-Relative *that* is also considered a PRON in UD (XPOS WDT).
+Note that _who_ and _whoever_ may bear either value of `Case`, depending on context. The variant _whosoever_ receives `Style=Form`.
 
-The table shows only PRON forms. Note that *what*, *whatever*, and *which* are tagged [DET]() when functioning as [det]() (WDT).
+| | _what_ etc. | _which_, _that_ etc. |
+-- | -- | --
+`PronType=Int` or `Rel`  | what, _wtf_, whatever | which, whichever
+`PronType=Rel`           |   | that
+XPOS (PTB) | WP | WDT
 
-The variant _wtf_ receives `Style=Expr`. The variant _whosoever_ receives `Style=Form`.
+The table shows only PRON forms. Relative *that* is considered a PRON in UD (XPOS WDT). Note that *what*, *whatever*, and *which* are tagged [DET]() when functioning as [det]() (WDT).
+
+The variant _wtf_ receives `Style=Expr`.
 
 TODO: "no/any N whatsoever": *whatsoever* is currently ADV in EWT but maybe PRON is better. Unlike _whosoever_, this use of _whatsoever_ is not formal; maybe `Style=Expr` or even `PronType=Emp`.
 
 TODO: *whatever* is sometimes DET+WDT even when not [det]()
-
-TODO: tag *whom(ever)* for case; lemmatize *whom* as *who* and *whomever* as *whoever*
-
-TODO: add Poss=Yes and possibly Case=Gen for *whose*. Do we want to distinguish dependent (Case=Gen) and independent uses? Unlike *what*, *whatever*, *which*, all *whose* instances are currently tagged PRON.
 
 TODO: exclamative *what* is PRON+WDT?
 
