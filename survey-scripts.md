@@ -8,7 +8,8 @@ udver: '2'
 
 This is an automatically generated list of scripts that occur in the UD data.
 Only letters were surveyed. Other characters (digits, punctuation, spaces) were
-ignored.
+ignored. The scripts are identified by their
+[ISO 15924 codes](https://en.wikipedia.org/wiki/ISO_15924).
 
 ## ab_abnc
 
@@ -149,8 +150,6 @@ ignored.
 
 ## brh_kholum
 
-<span style="color:red"><b>Expected scripts: <tt>Arab</tt></span>
-
 * `Latn` (2364)
 * `Arab` (1106)
 
@@ -168,8 +167,6 @@ ignored.
 * `Latn` (4931)
 
 ## ckb_mukri
-
-<span style="color:red"><b>Expected scripts: <tt>Arab</tt></span>
 
 * `Latn` (2298)
 
@@ -193,8 +190,6 @@ ignored.
 * `Grek` (93)
 
 ## cpg_tuecl
-
-<span style="color:red"><b>Expected scripts: <tt>Latn</tt></span>
 
 * `Grek` (13271)
 * `Latn` (142)
@@ -337,8 +332,8 @@ ignored.
 * `Latn` (990516)
 * `Grek` (35)
 * `Hani` (25)
-* `Zyyy` (13)
 * `Arab` (13)
+* `Zyyy` (13)
 
 ## en_lines
 
@@ -385,8 +380,8 @@ ignored.
 * `Hani` (17)
 * `Deva` (8)
 * `Hebr` (7)
-* `Beng` (6)
 * `Hira` (6)
+* `Beng` (6)
 * `Zyyy` (1)
 
 ## es_pud
@@ -440,8 +435,8 @@ ignored.
 * `Grek` (50)
 * `Hani` (19)
 * `Geor` (10)
-* `Armn` (6)
 * `Arab` (6)
+* `Armn` (6)
 * `Hebr` (4)
 
 ## fo_farpahc
@@ -795,8 +790,6 @@ ignored.
 
 ## ja_gsd
 
-<span style="color:red"><b>Expected scripts: <tt>Jpan</tt></span>
-
 * `Hira` (131667)
 * `Hani` (108332)
 * `Kana` (39081)
@@ -806,8 +799,6 @@ ignored.
 * `Arab` (3)
 
 ## ja_gsdluw
-
-<span style="color:red"><b>Expected scripts: <tt>Jpan</tt></span>
 
 * `Hira` (131667)
 * `Hani` (108332)
@@ -819,8 +810,6 @@ ignored.
 
 ## ja_pud
 
-<span style="color:red"><b>Expected scripts: <tt>Jpan</tt></span>
-
 * `Hira` (19586)
 * `Hani` (14363)
 * `Kana` (8117)
@@ -828,8 +817,6 @@ ignored.
 * `Latn` (764)
 
 ## ja_pudluw
-
-<span style="color:red"><b>Expected scripts: <tt>Jpan</tt></span>
 
 * `Hira` (19586)
 * `Hani` (14363)
@@ -851,8 +838,8 @@ ignored.
 * `Geor` (358979)
 * `Latn` (2527)
 * `Grek` (494)
-* `Hani` (12)
 * `Armn` (12)
+* `Hani` (12)
 * `Cyrl` (3)
 * `Zyyy` (1)
 
@@ -882,8 +869,8 @@ ignored.
 * `Latn` (4567)
 * `Hani` (594)
 * `Zyyy` (4)
-* `Grek` (1)
 * `Hira` (1)
+* `Grek` (1)
 
 ## ko_kaist
 
@@ -1171,8 +1158,8 @@ ignored.
 ## pl_pdb
 
 * `Latn` (1692459)
-* `Grek` (1)
 * `Zyyy` (1)
+* `Grek` (1)
 
 ## pl_pud
 
@@ -1265,8 +1252,6 @@ ignored.
 
 ## ro_moldoro
 
-<span style="color:red"><b>Expected scripts: <tt>Latn</tt></span>
-
 * `Cyrl` (804)
 
 ## ro_nonstandard
@@ -1297,8 +1282,8 @@ ignored.
 * `Grek` (12)
 * `Armn` (9)
 * `Hani` (8)
-* `Hebr` (7)
 * `Arab` (7)
+* `Hebr` (7)
 * `Geor` (6)
 * `Thai` (2)
 * `Kana` (1)
@@ -1362,8 +1347,6 @@ ignored.
 * `Zyyy` (262)
 
 ## sdh_garrusi
-
-<span style="color:red"><b>Expected scripts: <tt>Arab</tt></span>
 
 * `Latn` (5725)
 
