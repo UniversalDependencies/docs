@@ -27,5 +27,5 @@ Note that in Armenian some adverbs can form comparative and superlative [Degree]
 - _վեր_/_ver_, _վար_/_var_ “up, down”
 - interrogative adverbs: _որտեղ_/_orteġ_ “where”; _ուր_/_owr_  “where to”, _երբ_/_erb_  “when”; _ինչպես_/_inčpes_ “how”; _ինչու_/_inčow_ “why”; _ինչքան_/_inčk’an_, _ինչչափ_/_inččap’_ “how much”
 - demonstrative adverbs: _այստեղ_/_aysteġ_ “here”; _այնտեղ_/_aynteġ_ “there”; _այսպես_/_ayspes_ “this way”, _այնպես_/_aynpes_ “that way”, _այսքան_/_aysk’an_ “this many”, _այնչափ_/_aynčap’_ “so much”
-- indefinite adverbs: _երբևիցե_/_erbewic’e_, _երբևէ_/_erbewē_ “sometime”
+- indefinite adverbs: _երբևիցե_/_erbewic’e_, _երբևէ_/_erbewē_ “ever, whenever”
 <!-- Interlanguage links updated St 6. května 2026, 20:41:54 CEST -->
