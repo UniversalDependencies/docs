@@ -15,7 +15,7 @@ The `ADJ` tag is intended for ordinary adjectives only. See [DET]() for determin
 
 In accordance with the UD approach, ordinal numerals _(առաջին, երկրորդ, ութերորդ, հարյուր հիսուներորդ)_ are tagged as adjectives, although the traditional grammar classifies them as numerals. They behave like adjectives both morphologically and syntactically, with the exception that they cannot form degrees of comparison.
 
-Most Armenian adjectives inflect for [Degree]() (_մեծ_/_meç_, _ավելի մեծ_/_aveli meç_, _ամենամեծ_/_amenameç_) “big, bigger, the biggest”.
+Most Armenian adjectives form comparative and superlative [Degree]() (_մեծ_/_meç_, _ավելի մեծ_/_aveli meç_, _ամենամեծ_/_amenameç_) “big, bigger, the biggest”.
 
 ### Examples
 
