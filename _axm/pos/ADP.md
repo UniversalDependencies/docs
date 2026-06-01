@@ -14,9 +14,8 @@ Note that there are a number of case-marking elements (traditionally called “a
 
 ### Examples
 
-- Prepositions: _<b>ի</b>/i_ “from, to, into, for” (with its antevocalic form _յ-_); _<b>առ</b>/ar_ “up to”; _<b>ընդ</b>/ënd_ “under, by, through, with, instead of”;  _<b>ինչվի</b>/inčvi_ “till, up to”
-- Postpositions: _<b>համար</b>/hamar_ “for”; _<b>հանդէպ</b>/handēp_ “to, towards”; _<b>պէս</b>/pēs_ “as”
-- Ambipositions: _ինձ <b>դէմ</b>ս/inj dēms_ “in front of me”;  _<b>դէմ</b> քեզ/dēm k’ez_ “in front of you”
-- Complex prepositions: _<b>ի խէչ</b>/i xēč_ “at”; _<b>ի վերայ</b>/i veray_ “on, over, about”; _<b>ի մէջ</b>/i mēǰ_ “in, into, between”
-  
+- Prepositions: _ի_/_i_ “from, to, into, for” (with its antevocalic form _յ-_); _առ_/_ar_ “up to”; _ընդ_/_ënd_ “under, by, through, with, instead of”;  _ինչվի_/_inčvi_ “till, up to”
+- Postpositions: _համար_/_hamar_ “for”; _հանդէպ/handēp_ “to, towards”; _պէս/pēs_ “as”
+- Ambipositions: _ինձ **դէմ**ս_/_inj **dēm**s_ “in front of me”;  _**դէմ** քեզ/**dēm** k’ez_ “in front of you”
+- Complex prepositions: _ի խէչ_/_i xēč_ “at”; _ի վերայ_/_i veray_ “on, over, about”; _ի մէջ_/_i mēǰ_ “in, into, between”
 <!-- Interlanguage links updated St 6. května 2026, 20:41:52 CEST -->
