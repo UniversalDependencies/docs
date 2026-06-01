@@ -10,7 +10,7 @@ udver: '2'
 Adverbs are words that typically modify [verbs](VERB) for such categories as time, place, direction, or manner. They may also modify
 [adjectives](ADJ) and other adverbs, as in _**խիստ** տաք_/_**xist** tak’_ “very hot” or _**խիստ** կամկար_/_**xist** kamkar_ “very gently”, _**կարի** շատ_/_**kari** šat_ “too much”.
 
-Note that in Armenian some adverbs can form comparative degree constructions [Degree](). The comparative degree is expressed by the adverb _**այլ**_/_**ayl**_ “more”, e.g. _**այլ** արագ_/_**ayl** arag_ “more quickly”.
+Note that in Middle Armenian some adverbs can form comparative degree constructions [Degree](). The comparative degree is expressed by the adverb _**այլ**_/_**ayl**_ “more”, e.g. _**այլ** արագ_/_**ayl** arag_ “more quickly”.
 
 Some complex adverbs are fixed multiword expressions, e.g. _օր քան զօր_/_òr k’an zòr_ “day by day”, _ի ներս_/_i ners_ “inside”, _ի դուրս_/_i dowrs_ “out”, _տկուկ-տկուկ_/_tkowk-tkowk_ “layer-by-layer”.
 The status of component words is accounted for in the syntactic annotation: the subsequent word is linked to the first one by the [fixed]() relation.
