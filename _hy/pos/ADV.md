@@ -8,23 +8,23 @@ udver: '2'
 ### Definition
 
 Adverbs are words that typically modify [verbs](VERB) for such categories as time, place, direction or manner. They may also modify
-[adjectives](ADJ) and other adverbs, as in _<b>հավանաբար</b> սխալ&nbsp;_ “probably wrong” or _<b>շատ</b> հազվադեպ&nbsp;_ “very rarely”.
+[adjectives](ADJ) and other adverbs, as in _**հավանաբար** սխալ_/_**havanabar** sxal_ “probably wrong” or _**շատ** հազվադեպ_/_**šat** hazvadep_ “very rarely”.
 
 There is a closed subclass of _pronominal adverbs_ that refer to circumstances in context, rather than naming them directly; similarly
 to pronouns, these can be categorized as interrogative, relative, demonstrative, indefinite. Pronominal adverbs also get the `ADV` part-of-speech tag but they are differentiated by additional features.
 
-Note that verb forms such as _transgressives_ (also called _adverbial participles_, e.g. _տեսա <b>գրելիս</b>&nbsp;_ “I saw him writing” or _<b>կարդալիս</b> քնեց&nbsp;_ “when reading he slept”) share properties and usage of adverbs and verbs. Note that Armenian transgressives are tagged [VERB](), not `ADV`.
+Verb forms such as _transgressives_ (also called _adverbial participles_, e.g. _տեսա **գրելիս**_/_tesa **grelis**_ “I saw him writing” or _**կարդալիս** քնեց_/_**kardalis** k’nec’_ “when reading he slept”) share properties of both adverbs and verbs. Armenian transgressives are tagged [VERB](), not `ADV`.
 
-Note that in Armenian some adverbs inflect for [Degree](). The second degree is specified by adverb _<b>ավելի</b>_ “more” e.g. _<b>ավելի</b> արագ&nbsp;_ “more quickly”. The third degree of adverbs in Armenian is constructed with the feature of [Definite]().
+Note that in Armenian some adverbs can form comparative and superlative [Degree](). The second degree is specified by adverb _**ավելի**_/_**aveli**_ “more” e.g. _**ավելի** արագ_/_**aveli** arag_ “more quickly”. The third degree of adverbs in Armenian is constructed with the feature of [Definite]().
 
 ### Examples
 
-- _շատ&nbsp;_ “very”
-- _լավ&nbsp;_ “well”
-- _հստակորեն&nbsp;_ “exactly”
-- _վաղը&nbsp;_ “tomorrow”
-- _վեր, վար&nbsp;_ “up, down”
-- interrogative adverbs: _որտեղ, ուր, երբ, ինչպես, ինչու, ինչքան, ինչչափ&nbsp;_ “where, where to, when, how, why, how many, how much”
-- demonstrative adverbs: _այստեղ, այնտեղ, այսպես, այնպես, այսքան, այնչափ&nbsp;_ “here, there, this way, that way, this many, so much”
-- indefinite adverbs: _երբևիցե, երբևէ&nbsp;_ “sometime”
+- _շատ_/_šat_ “very”
+- _լավ_/_lav_ “well”
+- _հստակորեն_/_hstakoren_ “exactly”
+- _վաղը_/_vaġë_ “tomorrow”
+- _վեր_/_ver_, _վար_/_var_ “up, down”
+- interrogative adverbs: _որտեղ_/_orteġ_ “where”; _ուր_/_owr_  “where to”, _երբ_/_erb_  “when”; _ինչպես_/_inčpes_ “how”; _ինչու_/_inčow_ “why”; _ինչքան_/_inčk’an_, _ինչչափ_/_inččap’_ “how much”
+- demonstrative adverbs: _այստեղ_/_aysteġ_ “here”; _այնտեղ_/_aynteġ_ “there”; _այսպես_/_ayspes_ “this way”, _այնպես_/_aynpes_ “that way”, _այսքան_/_aysk’an_ “this many”, _այնչափ_/_aynčap’_ “so much”
+- indefinite adverbs: _երբևիցե_/_erbewic’e_, _երբևէ_/_erbewē_ “sometime”
 <!-- Interlanguage links updated St 6. května 2026, 20:41:54 CEST -->
