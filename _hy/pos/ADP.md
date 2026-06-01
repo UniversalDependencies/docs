@@ -14,16 +14,16 @@ Some prepositions take the form of fixed multiword expressions, e.g. _ի սեր_
 Note that the Armenian `ADP` also covers “localizers”. These are a closed set of postpositions (traditionally known as “improper adpositions”) which inflect for `Case`, `Number[psor]` and `Person[psor]` and typically indicate spatial information in relation to the noun preceding it. Localizers are still tagged as `ADP`, but are labeled with additional features and with special dependency relation [case:loc]().
 Here is the list of commonly used localizers: _միջի_/_miǰi_, _միջից_/_miǰic’_, _միջով_/_miǰov_, _ետևից_/_etewic’_, _հետևից_/_hetewic’_, _հետևում_/_hetewowm_, _վրայի_/_vrayi_, _վրայից_/_vrayic’_, _վրայով_/_vrayov_, _տակի_/_taki_, _տակից_/_takic’_, _տակով_/_takov_, _մոտի_/_moti_, _մոտից_/_motic’_, _մոտով_/_motov_, _առջևի_/_aṙǰewi_, _առջևից_/_aṙǰewic’_, _առջևով_/_aṙǰewov_.
 
-- _Վերցրեց գիրքը սեղանի <b>վրայից</b>։_/_Verc’rec’ girk’ë seġani <b>vrayic’</b>_ “He took the book <b>off</b> the table.”
-- _Ճանապարհն անցնում էր դաշտերի <b>միջով</b>։_/_Č̣anaparhn anc’nowm ēr dašteri <b>miǰov</b>_ “The road passed <b>through</b> the fields.”
+- _Վերցրեց գիրքը սեղանի **վրայից**։_/_Verc’rec’ girk’ë seġani **vrayic’**_ “He took the book **off** the table.”
+- _Ճանապարհն անցնում էր դաշտերի **միջով**։_/_Č̣anaparhn anc’nowm ēr dašteri **miǰov**_ “The road passed **through** the fields.”
 
 Although a few localizers have further grammaticalized into adverbials denoting spatial concepts, localizers with the adverbial function are still tagged as `ADP` (but are labeled with additional features and with the dependency relation [obl]()).
 
-- _Հետո սկսում ես <b>հետները</b> չշփվել_/_Heto sksowm es <b>hetnerë</b> čšp’vel_ “Then you stop communicating <b>with them</b>.”
+- _Հետո սկսում ես **հետները** չշփվել_/_Heto sksowm es **hetnerë** čšp’vel_ “Then you stop communicating **with them**.”
 
 Note also that there are a number of case-marking elements (traditionally called “adpositional words”), derived from a closed set of [nouns](NOUN), [adjectives/participles](VerbForm) or [adverbs](ADV). They are tagged based on their main part-of-speech category in UPOS. Their function as a part of speech different from that indicated by their UPOS tag is marked by the [ExtPos]() feature.
 
-- _անհրաժեշտության <b>դեպքում</b>_/_anhražeštowt’yan <b>depk’owm</b>_ “<b>in case</b> of necessity”
+- _անհրաժեշտության **դեպքում**_/_anhražeštowt’yan **depk’owm**_ “**in case** of necessity”
 
 ### Examples
 
