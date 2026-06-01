@@ -8,27 +8,25 @@ udver: '2'
 ### Definition
 
 Adverbs are words that typically modify [verbs](VERB) for such categories as time, place, direction, or manner. They may also modify
-[adjectives](ADJ) and other adverbs, as in _<b>խիստ</b> տաք/xist tak’&nbsp;_ “very hot” or _<b>խիստ</b> կամկար/xist kamkar&nbsp;_ “very gently”,  _<b>կարի</b> շատ/kari šat&nbsp;_ “too much”.
+[adjectives](ADJ) and other adverbs, as in _**խիստ** տաք_/_**xist** tak’_ “very hot” or _**խիստ** կամկար_/_**xist** kamkar_ “very gently”, _**կարի** շատ_/_**kari** šat_ “too much”.
+
+Note that in Armenian some adverbs can form comparative degree constructions [Degree](). The comparative degree is expressed by the adverb _**այլ**_/_**ayl**_ “more”, e.g. _**այլ** արագ_/_**ayl** arag_ “more quickly”.
+
+Some complex adverbs are fixed multiword expressions, e.g. _օր քան զօր_/_òr k’an zòr_ “day by day”, _ի ներս_/_i ners_ “inside”, _ի դուրս_/_i dowrs_ “out”, _տկուկ-տկուկ_/_tkowk-tkowk_ “layer-by-layer”.
+The status of component words is accounted for in the syntactic annotation: the subsequent word is linked to the first one by the [fixed]() relation.
 
 There is a closed subclass of _pronominal adverbs_ that refer to circumstances in context, rather than naming them directly; similarly to pronouns, these can be
-categorized as interrogative, relative, demonstrative. Pronominal adverbs also get the `ADV` part-of-speech tag but they are differentiated by additional features.
-
-Note that in Armenian some adverbs inflect for [Degree](). The comparative degree is expressed by adverb _<b>այլ</b>/ayl_ “more”, e.g. _<b>այլ</b> արագ/ayl arag_ “more quickly”.
-
-Complex adverbs form multiword expressions, e.g. _օր քան զօր/òr k’an zòr_ (day by day), _ի ներս/i ners_ (inside), _ի դուրս/i dowrs_ (out), _տկուկ-տկուկ/tkowk-tkowk_ (layer-by-layer).
-The status of component words is accounted for in the syntactic annotation: the subsequent word is linked to the first one by the <code>fixed</code> relation.
-
-There is a subclass of demonstrative, relative and interrogative adverbs, which inflect for [PronType](). Demonstrative adverbs also inflect for [Deixis]().
+categorized as interrogative, relative, demonstrative. Pronominal adverbs also get the `ADV` part-of-speech tag but they are differentiated by additional features. They inflect for [PronType](), and 
+demonstrative adverbs additionally inflect for [Deixis]().
 
 ### Examples
 
-- _այլուվայր/aylowvayr_ “again”
-- _էգվնէ/ēgvnē_ “tomorrow morning”
-- _դրուցեւ/drowc’ew_ “outwardly”
-- _ի լման/i lman_ “entirely”
-- _խոհեմտաբար/xohemtabar_ “wisely”
-- interrogative adverbs: _ուր/owr, ուստի/owsti, որչափ/orčap’, ոնց/onc’_ “where, where from, when, how many/much, how”
-- relative: _յայնժամ/yaynžam, յորժամ/yoržam_ “at the time, when”
-- demonstrative adverbs: _աստ/ast, աստուստ/astowst, այտի/ayti_ “here, from here, from there”, _հանչաք/hančak’_ “that much; this much”, _էնպես/ēnpes_ “so, as, that way”
-  
+- _այլուվայր_/_aylowvayr_ “again”
+- _էգվնէ_/_ēgvnē_ “tomorrow morning”
+- _դրուցեւ_/_drowc’ew_ “outwardly”
+- _ի լման_/_i lman_ “entirely”
+- _խոհեմտաբար_/_xohemtabar_ “wisely”
+- interrogative adverbs: _ուր/owr_ “where”, _ուստի/owsti_ “where from”, _որչափ/orčap’_ “how many/much”, _ոնց/onc’_ “how”
+- relative: _յայնժամ_/_yaynžam_, _յորժամ_/_yoržam_ “at the time, when”
+- demonstrative adverbs: _աստ_/_ast_ “here”; _աստուստ_/_astowst_ “from here”; _այտի_/_ayti_ “from there”; _հանչաք_/_hančak’_ “that much”, _էնպես/ēnpes_ “so, as, that way”  
 <!-- Interlanguage links updated St 6. května 2026, 20:41:54 CEST -->
