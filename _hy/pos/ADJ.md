@@ -9,7 +9,7 @@ udver: '2'
 
 Adjectives are words that typically modify nouns and specify their properties or attributes. They may also function as predicates, as in
 
-_Մեքենան կանաչ է:_ “The car is green.”
+_Մեքենան կանաչ է:_/_Mek’enan kanač ē._ “The car is green.”
 
 The `ADJ` tag is intended for ordinary adjectives only. See [DET]() for determiners and [NUM]() for numerals.
 
@@ -28,15 +28,15 @@ Most Armenian adjectives inflect for [Degree]() (_մեծ_/_meç_, _ավելի մ
 ### Border cases
 
 Resultative, subject, and past participles are word forms that share properties and usage of both adjectives and verbs. Note that both core participial forms (used to form finite indicative tenses) and adjectival participles (used in nominal predication
-with the [copula](cop) or to modify nouns) are tagged as [VERB]():
+with the [copula](cop) or to modify nouns) are tagged [VERB]():
 
-- _<b>հոգնած</b> է_/_hognaç ē_ “he/she is tired”
-- _<b>ստուգված</b> է_/_stowgvaç ē_ “it is checked”
--	_<b>գնացած</b> է եղել_/_gnac’aç ē eġel_ “he/she  had been gone”
--	_<b>կառուցված, կառուցվող, կառուցվելիք</b> շենք_/_kaṙowc’vaç, kaṙowc’voġ, kaṙowc’velik’ šenk’_ “abuilding constructed, under construction, or to be constructed”
--	_<b>հնչած, հնչող, հնչելիք</b> զանգ_ “a bell rung, ringing, or to be rung”
+- _**հոգնած** է_/_**hognaç** ē_ “he/she is tired”
+- _**ստուգված** է_/_**stowgvaç** ē_ “it is checked”
+-	_**գնացած** է եղել_/_**gnac’aç** ē eġel_ “he/she had been gone”
+-	_**կառուցված, կառուցվող, կառուցվելիք** շենք_/_**kaṙowc’vaç, kaṙowc’voġ, kaṙowc’velik’** šenk’_ “a building constructed, under construction, or to be constructed”
+-	_**հնչած, հնչող, հնչելիք** զանգ_/_**hnčaç, hnčoġ, hnčelik’** zang_ “a bell rung, ringing, or to be rung”
 
-Note that some participial adjectives that are already lexicalized as adjectives are tagged `ADJ`, although they may have verbal features in addition to the adjectival ones.
-- _<b>սոված</b>_/_sovaç_ “hungry”
-- _<b>հավասարակշռված</b>_/_havasarakšṙvaç_ “balanced”
+Note that some participial adjectives that are already lexicalized as adjectives are tagged `ADJ`, although they may retain certain verbal features.
+- _սոված_/_sovaç_ “hungry”
+- _հավասարակշռված_/_havasarakšṙvaç_ “balanced”
 <!-- Interlanguage links updated St 6. května 2026, 20:41:51 CEST -->
