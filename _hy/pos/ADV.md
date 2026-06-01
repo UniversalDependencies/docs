@@ -11,7 +11,8 @@ Adverbs are words that typically modify [verbs](VERB) for such categories as tim
 [adjectives](ADJ) and other adverbs, as in _**հավանաբար** սխալ_/_**havanabar** sxal_ “probably wrong” or _**շատ** հազվադեպ_/_**šat** hazvadep_ “very rarely”.
 
 There is a closed subclass of _pronominal adverbs_ that refer to circumstances in context, rather than naming them directly; similarly
-to pronouns, these can be categorized as interrogative, relative, demonstrative, indefinite. Pronominal adverbs also get the `ADV` part-of-speech tag but they are differentiated by additional features.
+to pronouns, these can be categorized as interrogative, relative, demonstrative, indefinite. Pronominal adverbs also get the `ADV` part-of-speech tag but they are differentiated by additional features. They inflect for [PronType](), and 
+demonstrative adverbs additionally inflect for [Deixis]().
 
 Verb forms such as _transgressives_ (also called _adverbial participles_, e.g. _տեսա **գրելիս**_/_tesa **grelis**_ “I saw him writing” or _**կարդալիս** քնեց_/_**kardalis** k’nec’_ “when reading he slept”) share properties of both adverbs and verbs. Armenian transgressives are tagged [VERB](), not `ADV`.
 
