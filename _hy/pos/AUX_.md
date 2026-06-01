@@ -34,7 +34,7 @@ Armenian auxiliary verbs can be divided into:
   _վազել <b>էիր</b>&nbsp;_ “you had run”,
   _կանգնած <b>էին</b>&nbsp;_ “they were standing”.
 
-Note, that fintie present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ are also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>&nbsp;_ “I have run”), (present-)future (e.g. _վազելու <b>եմ</b>&nbsp;_ “I shall run”) and future-in-the-past (_վազելու <b>էի</b>&nbsp;_ “I would (intended to) run”). The auxiliaries express aspect, person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice.
+Note, that finite present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ are also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>&nbsp;_ “I have run”), (present-)future (e.g. _վազելու <b>եմ</b>&nbsp;_ “I shall run”) and future-in-the-past (_վազելու <b>էի</b>&nbsp;_ “I would (intended to) run”). The auxiliaries express aspect, person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice.
 
 - Durative / habitual aspect. The finite form of _լինել (լինեմ)&nbsp;_ (in various tenses and moods or in the infinitive _լինել&nbsp;_) is combined with processual, resultative and future participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
   _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I intent to go.`Sub`”,
@@ -44,7 +44,7 @@ Note, that fintie present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ a
   _գնացած <b>լինել</b>&nbsp;_ “to be gone”,
   _գնալիս <b>լինել</b>&nbsp;_ “to be in the process of going”.
 
-- Causative voice. The finite form of _տալ&nbsp;_ (in various tenses and moods) is combined with infinitve of the content verb. The auxiliary expresses aspect, person, number, tense and mood. The auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive:
+- Causative voice. The finite form of _տալ&nbsp;_ (in various tenses and moods) is combined with infinitive of the content verb. The auxiliary expresses aspect, person, number, tense and mood. The auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive:
   _հասկանալ_.`Act` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
   _<b>հասկացնել</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand” (morphological causative),
   _<b>հասկացնել</b>_.`Cau` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”.
