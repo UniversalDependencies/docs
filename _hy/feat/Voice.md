@@ -27,8 +27,8 @@ By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, ex
 
 #### Examples
 
-* _Նա <b>ջարդեց</b> բաժակը&nbsp;_ “He <b>broke</b> the cup”,
-* _Նա <b>կորցրեց</b> գիրքը&nbsp;_ “He <b>lost</b> the book” (but, _Գիրքը <b>կորավ</b>&nbsp;_.`Mid` “The book was <b>lost</b>.`Mid`”),
+* _Նա <b>ջարդեց</b> բաժակը&nbsp;_/_Na <b>ǰardec’</b> bažakë_ “He <b>broke</b> the cup”,
+* _Նա <b>կորցրեց</b> գիրքը&nbsp;_/_Na <b>korc’rec’</b> girk’ë_ “He <b>lost</b> the book” (but, _Գիրքը <b>կորավ</b>&nbsp;_/_Girk’ë <b>korav</b>_.`Mid` “The book got <b>lost</b>.`Mid`”),
 * _Նա <b>հանգցրեց</b> լույսը&nbsp;_ “He <b>turned</b> the light off” (but, _Լույսը <b>հանգավ</b>&nbsp;_.`Mid` “The light <b>was off</b>.`Mid`”).
 
 ### <a name="Pass">`Pass`</a>: passive voice
