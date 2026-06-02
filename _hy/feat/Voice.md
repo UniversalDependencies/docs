@@ -27,9 +27,35 @@ By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, ex
 
 #### Examples
 
-* _Նա <b>ջարդեց</b> բաժակը_/_Na <b>ǰardec’</b> bažakë_ “He <b>broke</b> the cup”,
-* _Նա <b>կորցրեց</b> գիրքը_/_Na <b>korc’rec’</b> girk’ë_ “He <b>lost</b> the book” (but, _Գիրքը <b>կորավ</b>_/_Girk’ë <b>korav</b>_.`Mid` “The book got <b>lost</b>.`Mid`”),
-* _Նա <b>հանգցրեց</b> լույսը_/_Na <b>hangc’rec’</b> lowysë_ “He <b>turned</b> the light off” (but, _Լույսը <b>հանգավ</b>_.`Mid` “The light <b>went out</b>.`Mid`”).
+~~~ conllu
+1	Ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Translit=Es|LTranslit=es
+2	ջարդում	ջարդել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=ǰardowm|LTranslit=ǰardel
+3	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	Translit=em|LTranslit=em
+4	նրա	նրա	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det:poss	_	Translit=nra|LTranslit=nra
+5	օղիները	օղի	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	2	obj	_	Translit=òġinerë|LTranslit=òġi|SpaceAfter=No
+~~~
+
+~~~ conllu
+1	Պատմվածքներից	պատմվածք	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Plur	2	nmod:npmod	_	Translit=Patmvaçk’neric’|LTranslit=patmvaçk’
+2	մեկի	մեկը	PRON	_	Case=Gen|PronType=Ind	3	nmod:poss	_	Translit=meki|LTranslit=mekë
+3	հերոսուհին	հերոսուհի	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	7	nsubj	_	Translit=herosowhin|LTranslit=herosowhi
+4	«	«	PUNCT	_	_	7	punct	_	Translit=«|LTranslit=«|SpaceAfter=No
+5	մեծ	մեծ	ADJ	_	Degree=Pos	6	amod	_	Translit=meç|LTranslit=meç
+6	քաղաքներում	քաղաք	NOUN	_	Animacy=Nhum|Case=Loc|Definite=Ind|Number=Plur	7	obl	_	Translit=k’aġak’nerowm|LTranslit=k’aġak’
+7	կորցնում	կորցնել	VERB	_	Aspect=Imp|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=korc’nowm|LTranslit=korc’nel
+8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	Translit=ē|LTranslit=em
+9	վախերը	վախ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	7	obj	_	Translit=vaxerë|LTranslit=vax|SpaceAfter=No
+10	»	»	PUNCT	_	_	7	punct	_	Translit=»|LTranslit=»|SpaceAfter=No
+11	:	:	PUNCT	_	Foreign=Yes	7	punct	_	Translit=.|LTranslit=.
+~~~
+
+~~~ conllu
+1	քարի	քար	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	obl	_	Translit=k’ari|LTranslit=k’ar
+2	վրա	վրա	ADP	_	AdpType=Post	1	case	_	Translit=vra|LTranslit=vra
+3	հանգցրեց	հանգցնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=hangc’rec’|LTranslit=hangc’nel
+4	բիչոկները	բիչոկ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur|Style=Coll	3	obj	_	Translit=bičoknerë|LTranslit=bičok|SpaceAfter=No
+~~~
+
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
@@ -51,17 +77,48 @@ Note, that there is a not large set of middle voice verbs marked with passive in
 
 #### Examples
 
-~~~conllu
+~~~ conllu
 1	Վախենում	վախենալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=Vaxenowm|LTranslit=vaxenal
 2	ենք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=enk’|LTranslit=em
 3	ապրելուց	ապրել	VERB	_	Case=Abl|Definite=Ind|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	1	obl	_	Translit=aprelowc’|LTranslit=aprel|SpaceAfter=No
 4	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
 ~~~
-_Նա <b>վախենում</b> է մթից_/_Na <b>vaxenowm</b> ē mt’ic’_ “He is <b>afraid</b> of darkness”,
-* _Նա արագ <b>լվացվեց</b> և <b>հագնվեց</b>_/_Na arag <b>lvac’vec’</b> ew <b>hagnvec’</b>_ “He <b>washed</b> and <b>dressed</b> quickly (lit: he washed himself, he dressed himself)”,
-* _Մենք <b>հարձակվեցինք</b> թշնամու վրա_/_Menk’ <b>harjakvec’ink’</b> t’šnamow vra_ “We <b>attacked</b> the enemy”,
-* _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ_/_Amisner anc’ bolorn ēl <b>haštvec’in</b> ayd mtk’i het_ “Months later, everyone <b>came to terms</b> with the idea.”.
 
+~~~ conllu
+1	Ոտքերով	ոտք	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Plur	4	obl	_	Translit=Otk’erov|LTranslit=otk’
+2	մի	մի	DET	_	ExtPos=ADV|PronType=Art	4	advmod	_	Translit=mi|LTranslit=mi
+3	կերպ	կերպ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	fixed	_	Translit=kerp|LTranslit=kerp
+4	հրեց	հրել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=hrec’|LTranslit=hrel
+5	խոտերին	խոտ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	4	obl	_	Translit=xoterin|LTranslit=xot|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+7	լուռ	լուռ	ADJ	_	Degree=Pos	8	advcl	_	Translit=lowṙ|LTranslit=lowṙ
+8	հագնվեց	հագնվել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	Translit=hagnvec’|LTranslit=hagnvel|SpaceAfter=No
+9	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+~~~
+
+~~~ conllu
+1	Ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=Es|LTranslit=es
+2	խելառի	խելառ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing|Style=Vrnc	4	obl	_	Translit=xelaṙi|LTranslit=xelaṙ
+3	պես	պես	ADP	_	AdpType=Post	2	case	_	Translit=pes|LTranslit=pes
+4	հարձակվում	հարձակվել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=harjakvowm|LTranslit=harjakvel
+5	եմ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	Translit=em|LTranslit=em
+6	շշերի	շիշ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	4	obl	_	Translit=ššeri|LTranslit=šiš
+7	վրա	վրա	ADP	_	AdpType=Post	6	case	_	Translit=vra|LTranslit=vra|SpaceAfter=No
+~~~
+
+~~~ conllu
+1	Հիրավի	հիրավի	PART	_	_	5	discourse	_	Translit=Hiravi|LTranslit=hiravi|SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,
+3	աշխատանքը	աշխատանք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	Translit=ašxatank’ë|LTranslit=ašxatank’
+4	մարդուն	մարդ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	5	iobj	_	Translit=mardown|LTranslit=mard
+5	օգնում	օգնել	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=ògnowm|LTranslit=ògnel
+6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=ē|LTranslit=em
+7	հաշտվել	հաշտվել	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	5	xcomp	_	Translit=haštvel|LTranslit=haštvel
+8	սուրացող	սուրալ	VERB	_	Aspect=Dur|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	9	acl	_	Translit=sowrac’oġ|LTranslit=sowral
+9	ժամանակի	ժամանակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	7	obl	_	Translit=žamanaki|LTranslit=žamanak
+10	հետ	հետ	ADP	_	AdpType=Post	9	case	_	Translit=het|LTranslit=het
+~~~
+  
 ### <a name="Cau">`Cau`</a>: causative voice
 
 Note, that in Armenian this is a feature of verbs. In causative constructions the subject is the entity “causing” the action. It is generally translated into English as ‘cause/make/have/let/allow’ someone to perform action described by the main verb. 
