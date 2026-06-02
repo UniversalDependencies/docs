@@ -27,34 +27,40 @@ By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, ex
 
 #### Examples
 
-* _Նա <b>ջարդեց</b> բաժակը&nbsp;_/_Na <b>ǰardec’</b> bažakë_ “He <b>broke</b> the cup”,
-* _Նա <b>կորցրեց</b> գիրքը&nbsp;_/_Na <b>korc’rec’</b> girk’ë_ “He <b>lost</b> the book” (but, _Գիրքը <b>կորավ</b>&nbsp;_/_Girk’ë <b>korav</b>_.`Mid` “The book got <b>lost</b>.`Mid`”),
-* _Նա <b>հանգցրեց</b> լույսը&nbsp;_ “He <b>turned</b> the light off” (but, _Լույսը <b>հանգավ</b>&nbsp;_.`Mid` “The light <b>was off</b>.`Mid`”).
+* _Նա <b>ջարդեց</b> բաժակը_/_Na <b>ǰardec’</b> bažakë_ “He <b>broke</b> the cup”,
+* _Նա <b>կորցրեց</b> գիրքը_/_Na <b>korc’rec’</b> girk’ë_ “He <b>lost</b> the book” (but, _Գիրքը <b>կորավ</b>_/_Girk’ë <b>korav</b>_.`Mid` “The book got <b>lost</b>.`Mid`”),
+* _Նա <b>հանգցրեց</b> լույսը_/_Na <b>hangc’rec’</b> lowysë_ “He <b>turned</b> the light off” (but, _Լույսը <b>հանգավ</b>_.`Mid` “The light <b>went out</b>.`Mid`”).
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
 The subject of the verb is affected by the action (patient). The doer (agent) is either a non-obligatory oblique phrase of the verb or not overtly expressed.
 
-The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive constructions. In this case, the verbs are marked with passive infixe _-վ-_ (for exceptions see below).
+The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive constructions. In this case, the verbs are marked with passive infixe _-վ-_/_-v-_ (for exceptions see below).
 
 #### Examples
 
-* _Առաջարկությունը <b>մերժվեց</b> (մասնակիցների կողմից)&nbsp;_ “The suggestion <b>was denied</b> (by the participants)”,
-* _Նա <b>արհամարվում</b> է ժողովրդից&nbsp;_ “He is <b>despised</b> by the people”,
-* _Անտառը <b>ծածկված</b> է ձյունով&nbsp;_ “The forest is <b>covered</b> by snow”.
+* _Առաջարկությունը <b>մերժվեց</b> (մասնակիցների կողմից)_/_Aṙaǰarkowt’yownë <b>meržvec’</b> (masnakic’neri koġmic’)_ “The suggestion <b>was denied</b> (by the participants)”,
+* _Նա <b>արհամարվում</b> է ժողովրդից_/_Na <b>arhamarvowm</b> ē žoġovrdic’_ “He is <b>despised</b> by the people”,
+* _Անտառը <b>ծածկված</b> է ձյունով_/_Antaṙë <b>çaçkvaç</b> ē jyownov_ “The forest is <b>covered</b> with snow”.
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-Between active and passive. Needed also for the reflexive, traditionally called mediopassiv (for reciprocal verbs see below); in this case, the verbs are marked with passiv infix _-վ-_ (but the lemma is tagged as non-reflexive). A reflexive voice will be distinguished in future. 
+Between active and passive. Needed also for the reflexive, traditionally called mediopassive (for reciprocal verbs see below); in this case, the verbs and their lemmas are marked with passiv infix _-վ-_/_-v-_. 
 
-Note, that there is a not large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas (e.g. _վերաբերվել&nbsp;_.`Mid` “treat, be about”, but _վերաբերել&nbsp;_.`Act` “refer to”).
+Note, that there is a not large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas (e.g. _վերաբերվել_.`Mid` “treat, be about”, but _վերաբերել&nbsp;_.`Act` “refer to”).
 
 #### Examples
-
-* _Նա <b>վախենում</b> է մթից&nbsp;_ “He is <b>afraid</b> of darkness”,
-* _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b>&nbsp;_ “He <b>washed</b>, <b>dressed</b> quickly (lit: he washed himself, he dressed himself)”,
-* _Մենք <b>հարձակվեցինք</b> թշնամու վրա&nbsp;_ “We <b>attacked</b> the enemy”,
-* _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ&nbsp;_ “After several months everybody <b>stood</b> thought of it”.
+~~~conllu
+# visual-style color:blue
+1	Վախենում	վախենալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=Vaxenowm|LTranslit=vaxenal
+2	ենք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=enk’|LTranslit=em
+3	ապրելուց	ապրել	VERB	_	Case=Abl|Definite=Ind|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	1	obl	_	Translit=aprelowc’|LTranslit=aprel|SpaceAfter=No
+4	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
+~~~
+_Նա <b>վախենում</b> է մթից_/_Na <b>vaxenowm</b> ē mt’ic’_ “He is <b>afraid</b> of darkness”,
+* _Նա արագ <b>լվացվեց</b> և <b>հագնվեց</b>_/_Na arag <b>lvac’vec’</b> ew <b>hagnvec’</b>_ “He <b>washed</b> and <b>dressed</b> quickly (lit: he washed himself, he dressed himself)”,
+* _Մենք <b>հարձակվեցինք</b> թշնամու վրա_/_Menk’ <b>harjakvec’ink’</b> t’šnamow vra_ “We <b>attacked</b> the enemy”,
+* _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ_/_Amisner anc’ bolorn ēl <b>haštvec’in</b> ayd mtk’i het_ “Months later, everyone <b>came to terms</b> with the idea.”.
 
 ### <a name="Cau">`Cau`</a>: causative voice
 
@@ -62,7 +68,7 @@ Note, that in Armenian this is a feature of verbs. In causative constructions th
 
 The causative is expressed by the infix _-ցն-_. It is quite productive and can be used also for transitivisation of intransitive (middle voice) verbs. They will have `Voice=Act`, not `Voice=Cau` (e.g. _<b>կորցնել, հանգցնել</b>_).
 
-Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is accombined with infinitve of the content verb to construct the causative voice. Only the auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive.
+Note, that the auxiliary _տալ_ (in various tenses and moods) is accombined with infinitve of the content verb to construct the causative voice. Only the auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive.
 
 #### Examples
 
