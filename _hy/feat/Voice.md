@@ -50,8 +50,8 @@ Between active and passive. Needed also for the reflexive, traditionally called 
 Note, that there is a not large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas (e.g. _վերաբերվել_.`Mid` “treat, be about”, but _վերաբերել&nbsp;_.`Act` “refer to”).
 
 #### Examples
+
 ~~~conllu
-# visual-style color:blue
 1	Վախենում	վախենալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=Vaxenowm|LTranslit=vaxenal
 2	ենք	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=enk’|LTranslit=em
 3	ապրելուց	ապրել	VERB	_	Case=Abl|Definite=Ind|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	1	obl	_	Translit=aprelowc’|LTranslit=aprel|SpaceAfter=No
