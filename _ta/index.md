@@ -29,7 +29,7 @@ Before UD annotation, all texts should be normalised and checked for ambiguous c
 * This is especially important in OCR text and old digitally converted texts.
 * All replacements should be documented.
 
-| Ambiguous character | Correct character | Example correction |
+| Ambiguous character/Tamil numeral | Correct character | Example correction |
 |---|---|---|
 | ௨ | உ | ௨லகம் → உலகம் |
 | ௭ | எ | ௭ன்று → என்று |
