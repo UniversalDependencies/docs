@@ -22,7 +22,6 @@ Before UD annotation, all texts should be normalised and checked for ambiguous c
 | ோ / _ō_ | கோ | க + ோ | க + ே + ா |
 | ௌ / _au_ | கௌ | க + ௌ | க + ெ + ௗ |
 | Independent vowel _au_ | ஔ | ஔ | ஒள |
-|---|---|---|
 
 ### Ambiguous Characters
 
