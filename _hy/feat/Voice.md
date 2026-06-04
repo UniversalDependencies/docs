@@ -62,24 +62,23 @@ Note, that there is a small set of middle voice verbs marked with passive suffix
 
 Note, that in Armenian this is a feature of verbs. In causative constructions the subject is the entity “causing” the action. It is generally translated into English as ‘cause/make/have/let/allow’ someone/something to perform action described by the main verb. 
 
-The causative is expressed by the suffix _-ցն-_. It is quite productive and can be used also for transitivisation of intransitive (middle voice) verbs. They will have `Voice=Act`, not `Voice=Cau` (e.g. _**կորցնել**_/_korc’nel_ "lose", _**թաքցնել**_/_t’ak’c’nel_ "hide").
+The causative is expressed by the suffix _-ցն-_. It is quite productive and can be used also for transitivisation of intransitive (middle voice) verbs. They will have `Voice=Act` (see above), not `Voice=Cau` (e.g. _**կորցնել**_/_korc’nel_ "lose", _**թաքցնել**_/_t’ak’c’nel_ "hide").
 
 Note, that the auxiliary _տալ_ (in various tenses and moods) is combined with infinitive of the content verb to construct the causative voice. Only the auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive.
 
 #### Examples
 
-* _ռումբ են **պայթեցրել**_ `Act` “”,
 * _Սովորում են **սովորեցնելու**_ `Cau` _համար:_  /_Sovorowm en **sovorec’nelow** hamar_ “They learn in order to **teach**”,
 * _Ինքն էլ չուզեց **հիշեցնել**_ `Cau`:_  _Ink’n ēl čowzec’ **hišec’nel**._ “He/She didn't want to remind them either.”,
-* _**վազել**_ `Mid` _**տալ**_ `Cau` “**make** someone **run**”,
-* _**հասկանալ**_ `Act` _**տալ**_ `Cau` “lit: **make** someone **understand**”,
-* _**հասկացնել**_ `Cau` “lit: **make** someone understand”,
-* _**հասկացնել**_ `Cau` _**տալ**_ `Cau` “lit: **make** someone **make** someone **understand**”.
+* _**վազել**_ `Mid` _**տալ**_ `Cau` /_vazel tal_ “**make** someone **run**”,
+* _**հասկանալ**_ `Act` _**տալ**_ `Cau` /_**haskanal tal**_ “lit: **make** someone **understand**”,
+* _**հասկացնել**_ `Cau`/_**haskac’nel**_ “lit: **make** someone understand”,
+* _**հասկացնել**_ `Cau` _**տալ**_ `Cau` /_**haskac’nel tal**_ “lit: **make** someone **make** someone **understand**”.
 
 
-### <a name="CauPass">`CauPass`</a>: derived causative: mediopassive forms
+### <a name="CauPass">`CauPass`</a>: derived causative: passive forms
 
-The value `CauPass` is reserved for the passive forms of the causative verbs. Passives derived from transitive verbs using the productive suffix  _-վ-/-v-_ often function as mediopassive (intransitive) verbs. In such cases, the form with _-վ-/-v-_ constitutes a distinct lemma, e.g., _մաշել_/_mašel_ "to wear out (trans.)" - _մաշվել_/_mašvel_ "to wear out (intrans.)", _հարթել_/_hart’el_ "to smooth" - _հարթվել_/_hart’vel_ "to become smooth", _հալել_/_halel_ "to melt (trans.)" - _հալվել_/_halvel_ "to melt (intrans.)". Consequently, to express a true, agentive passive meaning for these verbs, the passive is formed from their causative counterpart.
+The value `CauPass` is reserved for the passive forms of the causative verbs. Passives derived from transitive verbs using the productive suffix  _-վ-/-v-_ often function as mediopassive (intransitive) verbs. In such cases, the form with _-վ-/-v-_ constitutes a distinct lemma, e.g., _մաշել_/_mašel_ "to wear out (trans.)" - _մաշվել_/_mašvel_ "to wear out (intrans.)", _հարթել_/_hart’el_ "to smooth" - _հարթվել_/_hart’vel_ "to become smooth", _հալել_/_halel_ "to melt (trans.)" - _հալվել_/_halvel_ "to melt (intrans.)". Consequently, to express a true, agentive passive meaning for these verbs, the passive is formed the corresponding causative verb.
 
 #### Examples
 
@@ -91,7 +90,7 @@ The value `CauPass` is reserved for the passive forms of the causative verbs. Pa
 
 A reciprocal verb describes an event in which two agents (or groups of agents) perform the same action upon each other.
 
-The reciprocal is expressed by the passive suffix _-վ-_/_v_ however, the verb roots that can become reciprocal are limited.
+The reciprocal is expressed by the passive suffix _-վ-_/_-v-_ however, the verb roots that can become reciprocal are limited.
 
 #### Examples
 
