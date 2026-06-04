@@ -69,9 +69,9 @@ Note, that the auxiliary _տալ_ (in various tenses and moods) is combined with
 #### Examples
 
 * _ռումբ են **պայթեցրել**_ `Act` “The mother <b>put</b> her son to sleep”,
+* 
 * _Սովորում են **սովորեցնելու** համար_ `Cau` /_Sovorowm en **sovorec’nelow** hamar_ “They learn in order to **teach**”,
 * _Ինքն էլ չուզեց **հիշեցնել**:_ `Cau` _Ink’n ēl čowzec’ **hišec’nel**._ “He/She didn't want to remind them either.”,
-* _Ո՞ր քամին <b>հանգցրեց</b>_ `Act` _նրանց սերը_ “Which wind <b>extinguished</b>.`Cau` their love (lit: made the love to extinguish)”,
 * _վազել_.`Mid` _<b>տալ</b>_.`Cau` “to <b>make</b> somebody run”,
 * _<b>վազեցնել</b>_.`Cau` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone run”,
 * _հասկանալ_.`Act` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> somebody understand”,
