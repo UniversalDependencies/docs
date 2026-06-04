@@ -20,7 +20,7 @@ udver: '2'
   * Lexical particles (such as the question marker *baʔ*, negation marker *direʔ*, *ʔándaʔ*)
 * Quantifiers (including the plural marker *mga* and indefinite quantifiers such as *madita* “many”) are classified as determiners ([DET](https://universaldependencies.org/u/pos/DET.html)).
 * Similar to other Philippine-type languages, Tagabawa has nominal markers that function both as prepositions and articles. Calling these as markers is probably the safest classification instead of prepositions, articles or determiners, as the markers can function all of them. To parallel other Philippine language treebanks, they are labeled as ([ADP](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADP)). These markers are: 
-  * The topic nominative/absolutive marker *ang* or *toʔ*
+  * The topic nominative/absolutive marker *si* or *toʔ*
   * The non-topic genitive/ergative marker *ni* or *ka*
   * The non-core oblique/dative marker that is also *kay* or *ka*
 
