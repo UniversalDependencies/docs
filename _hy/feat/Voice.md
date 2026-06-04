@@ -47,7 +47,7 @@ The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-Between active and passive. Needed also for the reflexive, traditionally called mediopassive (for reciprocal verbs see below); in this case, the verbs and their lemmas are marked with passiv suffix  _-վ-_/_-v-_. 
+Between active and passive. Needed also for the reflexive, traditionally called mediopassive (for reciprocal verbs see below); in this case, the verbs and their lemmas are marked with passive suffix  _-վ-_/_-v-_. 
 
 Note, that there is a small set of middle voice verbs marked with passive suffix  _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, then the two verbs are represented by different lemmas (e.g. _վերաբերվել_.`Mid` “treat, be about”, but _վերաբերել_.`Act` “refer to”).
 
@@ -68,14 +68,13 @@ Note, that the auxiliary _տալ_ (in various tenses and moods) is combined with
 
 #### Examples
 
-* _ռումբ են **պայթեցրել**_ `Act` “The mother <b>put</b> her son to sleep”,
-* _Սովորում են **սովորեցնելու** համար_ `Cau` /_Sovorowm en **sovorec’nelow** hamar_ “They learn in order to **teach**”,
-* _Ինքն էլ չուզեց **հիշեցնել**:_ `Cau` _Ink’n ēl čowzec’ **hišec’nel**._ “He/She didn't want to remind them either.”,
-* _վազել_`Mid` _<b>տալ</b>_ `Cau` “to <b>make</b> somebody run”,
-* _<b>վազեցնել</b>_.`Cau` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone run”,
-* _հասկանալ_.`Act` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> somebody understand”,
-* _<b>հասկացնել</b>_.`Cau` “lit: to <b>make</b> somebody understand”,
-* _<b>հասկացնել</b>_.`Cau` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”.
+* _ռումբ են **պայթեցրել**_ `Act` “”,
+* _Սովորում են **սովորեցնելու**_ `Cau` _համար:_  /_Sovorowm en **sovorec’nelow** hamar_ “They learn in order to **teach**”,
+* _Ինքն էլ չուզեց **հիշեցնել**_ `Cau`:_  _Ink’n ēl čowzec’ **hišec’nel**._ “He/She didn't want to remind them either.”,
+* _**վազել**_ `Mid` _**տալ**_ `Cau` “**make** someone **run**”,
+* _**հասկանալ**_ `Act` _**տալ**_ `Cau` “lit: **make** someone **understand**”,
+* _**հասկացնել**_ `Cau` “lit: **make** someone understand”,
+* _**հասկացնել**_ `Cau` _**տալ**_ `Cau` “lit: **make** someone **make** someone **understand**”.
 
 
 ### <a name="CauPass">`CauPass`</a>: derived causative: mediopassive forms
@@ -92,7 +91,7 @@ The value `CauPass` is reserved for the passive forms of the causative verbs. Pa
 
 A reciprocal verb describes an event in which two agents (or groups of agents) perform the same action upon each other.
 
-The reciprocal is expressed by the passiv suffix _-վ-_/_v_ however, the verb roots that can become reciprocal are limited.
+The reciprocal is expressed by the passive suffix _-վ-_/_v_ however, the verb roots that can become reciprocal are limited.
 
 #### Examples
 
