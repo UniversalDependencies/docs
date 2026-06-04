@@ -89,7 +89,6 @@ The value `CauPass` is reserved for the passive forms of the causative verbs. Pa
 ### <a name="Rcp">`Rcp`</a>: reciprocal voice
 
 A reciprocal verb describes an event in which two agents (or groups of agents) perform the same action upon each other.
-
 The reciprocal is expressed by the passive suffix _-վ-_/_-v-_ however, the verb roots that can become reciprocal are limited.
 
 #### Examples
