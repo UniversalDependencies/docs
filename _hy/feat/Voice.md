@@ -78,7 +78,7 @@ Note, that the auxiliary _տալ_ (in various tenses and moods) is combined with
 
 ### <a name="CauPass">`CauPass`</a>: derived causative: passive forms
 
-The value `CauPass` is reserved for the passive forms of the causative verbs. Passives derived from transitive verbs using the productive suffix  _-վ-/-v-_ often function as mediopassive (intransitive) verbs. In such cases, the form with _-վ-/-v-_ constitutes a distinct lemma, e.g., _մաշել_/_mašel_ "to wear out (trans.)" - _մաշվել_/_mašvel_ "to wear out (intrans.)", _հարթել_/_hart’el_ "to smooth" - _հարթվել_/_hart’vel_ "to become smooth", _հալել_/_halel_ "to melt (trans.)" - _հալվել_/_halvel_ "to melt (intrans.)". Consequently, to express a true, agentive passive meaning for these verbs, the passive is formed the corresponding causative verb.
+The value `CauPass` is reserved for the passive forms of the causative verbs. Passives derived from transitive verbs using the productive suffix  _-վ-/-v-_ often function as mediopassive (intransitive) verbs. In such cases, the form with _-վ-/-v-_ constitutes a distinct lemma, e.g., _մաշել_/_mašel_ "to wear out (trans.)" - _մաշվել_/_mašvel_ "to wear out (intrans.)", _հարթել_/_hart’el_ "to smooth" - _հարթվել_/_hart’vel_ "to become smooth", _հալել_/_halel_ "to melt (trans.)" - _հալվել_/_halvel_ "to melt (intrans.)". Consequently, to express a true, agentive passive meaning for these verbs, the passive is formed from the corresponding causative verb.
 
 #### Examples
 
