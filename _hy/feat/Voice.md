@@ -60,11 +60,11 @@ Note, that there is a small set of middle voice verbs marked with passive suffix
   
 ### <a name="Cau">`Cau`</a>: causative voice
 
-Note, that in Armenian this is a feature of verbs. In causative constructions the subject is the entity “causing” the action. It is generally translated into English as ‘cause/make/have/let/allow’ someone/something to perform action described by the main verb. 
+Note, that in Armenian the causative voice is a feature of verbs. In causative constructions the subject is the entity “causing” the action. It is generally translated into English as ‘cause/make/have/let/allow’ someone/something to perform action described by the main verb. 
 
 The causative is expressed by the suffix _-ցն-_. It is quite productive and can be used also for transitivisation of intransitive (middle voice) verbs. They will have `Voice=Act` (see above), not `Voice=Cau` (e.g. _**կորցնել**_/_korc’nel_ "lose", _**թաքցնել**_/_t’ak’c’nel_ "hide").
 
-Note, that the auxiliary _տալ_ (in various tenses and moods) is combined with infinitive of the content verb to construct the causative voice. Only the auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive.
+In addition, the auxiliary _տալ_/_tal_ (in various tenses and moods) combines with infinitive of the content verb to form a causative construction. Only the auxiliary is annotated with `Voice=Cau`; the infinitive retains its own voice annotation.
 
 #### Examples
 
