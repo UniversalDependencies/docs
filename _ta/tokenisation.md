@@ -1,3 +1,9 @@
+---
+layout: base
+title:  'Tamil UD'
+udver: '2'
+---
+
 ## Multiword Tokenisation
 
 UD annotation is based on syntactic words rather than purely orthographic words. Therefore, a single written Tamil form may sometimes need to be split into more than one syntactic word. This is especially relevant for forms involving clitics, auxiliaries, and certain postpositional elements.
@@ -75,7 +81,7 @@ come-PRS.RP  they/people   students
 The people who are coming are students.
 ```
 
-Participial nouns such as **வந்தவன்**, **வந்தவள்**, **வந்தவர்கள்**, **செய்தவன்**, and **படித்தவன்** should be tokenised as multiword tokens when the form contains both a relative participial/verbal element and a nominal or pronominal element. This tokenisation allows the verbal element to receive a verbal analysis and the nominal element to receive a nominal or pronominal analysis. 
+Participial nouns such as **வந்தவன்**, **வந்தவள்**, **வந்தவர்கள்**, **செய்தவன்**, and **படித்தவன்** should be tokenised as multiword tokens when the form contains both a relative participial/verbal element and a nominal or pronominal element. This tokenisation allows the verbal element to receive a verbal analysis and the nominal element to receive a nominal or pronominal analysis.
 
 ### Multiword tokenisatoin of Clitics
 

@@ -1,3 +1,9 @@
+---
+layout: base
+title:  'Tamil UD'
+udver: '2'
+---
+
 # Multiword Tokenisation: Verb–Verb and Noun–Verb Constructions
 
 This section discusses multiword tokenisation cases involving **V+V** and **N+V** constructions in Tamil. These include auxiliary verb constructions, serial verb constructions, light verb constructions, and open clausal complements.
@@ -139,7 +145,7 @@ Example:
 
 ```text
 அவன்     ஓடிவந்தான்
-அவன்     ஓடி         வந்தான் 
+அவன்     ஓடி         வந்தான்
 he       run-CVB    come-PST-3SG.M
 He came running.
 ```
@@ -230,7 +236,7 @@ Example:
 
 ```text
 அவன் படிக்கவிரும்புகிறான்
-அவன் படிக்க         விரும்புகிறான் 
+அவன் படிக்க         விரும்புகிறான்
 he   study-INF    want-PRS-3SG.M
 He wants to study.
 ```
@@ -246,7 +252,7 @@ Possible UD analysis:
 
 ## Multiple Verbal Tokens within One Surface Token
 
-A single Tamil surface token may contain more than two verbal/nominal tokens. This is common in complex predicate constructions, where a lexical verb/noun combines with one or more auxiliary or support verbs. 
+A single Tamil surface token may contain more than two verbal/nominal tokens. This is common in complex predicate constructions, where a lexical verb/noun combines with one or more auxiliary or support verbs.
 
 Such forms should be segmented when the internal verbal elements function as separate syntactic units in UD annotation.
 

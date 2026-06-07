@@ -1,4 +1,8 @@
-
+---
+layout: base
+title:  'Tamil UD'
+udver: '2'
+---
 
 ## 1.0 Lexicalised ADV + Verb Forms
 
@@ -76,7 +80,7 @@ More examples: அழகான beautiful, அமைதியான peaceful, த
 
 ### Candidate Lexicalised V + V Forms
 
-The following forms are some examaples for **lexicalised V + V forms** in many contexts. However, this classification should be verified carefully. These forms should not be split mechanically just because they appear to contain more than one verbal element. 
+The following forms are some examaples for **lexicalised V + V forms** in many contexts. However, this classification should be verified carefully. These forms should not be split mechanically just because they appear to contain more than one verbal element.
 
 The best way to check whether a form is lexicalised is to consult a modern dictionary, such as the University of Madras (this is not a modern lexicon, but still useful) *Tamil Lexicon*, or Tamilcube, and to check how the form is actually used in a corpus.
 

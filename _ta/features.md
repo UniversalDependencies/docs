@@ -1,3 +1,9 @@
+---
+layout: base
+title:  'Tamil Morphological Features'
+udver: '2'
+---
+
 # Morphological Feature Annotation for Tamil
 
 Annotators should add all relevant features that are morphologically visible and useful for UD annotation, although the examples in the documentation provide only the feature being discussed in each respective example.
@@ -217,7 +223,7 @@ Annotation:
 Example:
 
 ```text
-அவன் தன்னை        பார்த்தான் 
+அவன் தன்னை        பார்த்தான்
 avaṉ taṉṉai       pārttāṉ
 he   himself-ACC  saw
 He saw himself
@@ -436,7 +442,7 @@ Degree=Sup
 Example:
 
 ```text
-ரோஜா மல்லிகையைவிட     அழகு 
+ரோஜா மல்லிகையைவிட     அழகு
 rōjā mallikaiyaiviṭa  aḻaku
 rose jasmine-ACC than beautiful
 Rose is more beautiful than jasmine
@@ -489,10 +495,10 @@ Note: Many Tamil ADP-like forms may also function as nouns, adverbs, verbs, or s
 ## Values used in Tamil
 
 ```text
-VerbForm=Fin    finite verb - முற்றுவினை 
-VerbForm=Inf    infinitive - செய்ய எச்சம் 
-VerbForm=Conv   converb - verbal participle / செய்து எச்சம் 
-VerbForm=Vnoun  verbal noun - தொழிற்பெயர் 
+VerbForm=Fin    finite verb - முற்றுவினை
+VerbForm=Inf    infinitive - செய்ய எச்சம்
+VerbForm=Conv   converb - verbal participle / செய்து எச்சம்
+VerbForm=Vnoun  verbal noun - தொழிற்பெயர்
 ```
 
 Example:
@@ -609,7 +615,7 @@ Possible annotation:
 ```text
 Voice=Act
 Voice=Pass
-Voice=Cau    
+Voice=Cau
 ```
 
 Example:
@@ -776,7 +782,7 @@ Annotation:
 பாஸ்ட்டாக    ADV    Foreign=Yes
 ```
 
-Note: Some loanwords such as **கார்** "Car", **பஸ்** "Bus", **டிவி** "TV", **சினிமா** "Cinema" and **மொபைல்** "Mobile" are now well integrated in Tamil usage. Thereore, it is upto the project to decide whether to mark them foreign or not. 
+Note: Some loanwords such as **கார்** "Car", **பஸ்** "Bus", **டிவி** "TV", **சினிமா** "Cinema" and **மொபைல்** "Mobile" are now well integrated in Tamil usage. Thereore, it is upto the project to decide whether to mark them foreign or not.
 
 ---
 
@@ -859,10 +865,10 @@ Annotation:
 ## Proposed values
 
 ```text
-Sandhi=k  க் 
-Sandhi=c  ச் 
-Sandhi=t  த் 
-Sandhi=p  ப் 
+Sandhi=k  க்
+Sandhi=c  ச்
+Sandhi=t  த்
+Sandhi=p  ப்
 ```
 
 
@@ -883,7 +889,7 @@ chair   leg
 Marking sandhi is also useful because, in contemporary writing, some writers do not consistently represent sandhi. Therefore, sandhi marking can provide valuable features for studying variation in Tamil texts, including changes across time, generations, genres and writing styles.
 
 
-Note: Since `Sandhi` is not a core universal UD feature, the treebank should define it clearly as a Tamil-specific extension. 
+Note: Since `Sandhi` is not a core universal UD feature, the treebank should define it clearly as a Tamil-specific extension.
 
 ---
 

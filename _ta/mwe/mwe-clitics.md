@@ -1,3 +1,9 @@
+---
+layout: base
+title:  'Tamil UD'
+udver: '2'
+---
+
 ## Clitic Segmentation: Overview
 
 Tamil has several clitic-like elements that attach to a host word. In UD tokenisation, these should be segmented only when they function as independent syntactic, discourse, focus, interrogative, coordinative, or emphatic elements.
@@ -35,7 +41,7 @@ Kumar FOC   yesterday   come-PST-3SG.M
 It was Kumar who came yesterday.
 
 குமார்   நேற்றுதான்         வந்தான்
-குமார்   நேற்று தான்        வந்தான் 
+குமார்   நேற்று தான்        வந்தான்
 Kumar  yesterday FOC    come-PST-3SG.M
 It was yesterday that Kumar came.
 ```
@@ -103,7 +109,7 @@ Whether Kumar will win again?
 ### Indefiniteness
 
 நேற்று        யாரோ       உன்னைக்   கூப்பிட்டார்கள்
-நேற்று        யார்   ஓ     உன்னைக்   கூப்பிட்டார்கள் 
+நேற்று        யார்   ஓ     உன்னைக்   கூப்பிட்டார்கள்
 yesterday   who   INDEF you-ACC   call-PST-3PL
 Someone called you yesterday.
 
@@ -119,7 +125,7 @@ Kumar or Raja will come.
 
 ## ஆவது / āvatu
 
-The form **ஆவது** has several functions. It can mark minimum, disjunction, indefiniteness, ordinal formation, or impossibility. 
+The form **ஆவது** has several functions. It can mark minimum, disjunction, indefiniteness, ordinal formation, or impossibility.
 
 ```text
 நீங்களாவது             நாளை       வரவேண்டும்.
@@ -169,7 +175,7 @@ you-PL   may.go
 
 ## கூட / kūṭa
 
-The form **கூட** may function as “even”, “also”, or “with”. 
+The form **கூட** may function as “even”, “also”, or “with”.
 
 ```text
 அவன்கூட     வரவில்லை.
@@ -185,7 +191,7 @@ I came with him.
 
 ```
 
-In the second case, **கூட** has a comitative/postpositional function, therefore, UPOS should be ADP, not PART. 
+In the second case, **கூட** has a comitative/postpositional function, therefore, UPOS should be ADP, not PART.
 
 ---
 
@@ -195,7 +201,7 @@ The form **மட்டும்** marks restriction, meaning “only”.
 
 ```text
 அவன்மட்டும்    வந்தான்
-அவன் மட்டும்   வந்தான் 
+அவன் மட்டும்   வந்தான்
 he   only   came-3SG.M
 Only he came.
 ```
@@ -213,7 +219,7 @@ he      all came-3SG.M
 He and others came
 ```
 
-This should be marked DET only when it functions as a clitic-like marker. 
+This should be marked DET only when it functions as a clitic-like marker.
 If **எல்லாம்** functions as an pronoun, it should be marked differently.
 
 ---

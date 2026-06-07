@@ -1,3 +1,9 @@
+---
+layout: base
+title:  'Tamil UD'
+udver: '2'
+---
+
 ## Head-final Tamil and head-initial dependency notation
 
 Tamil is generally a head-final language, meaning that objects, modifiers, case-marked nominals, and subordinate clauses typically precede their head. However, to maintain compatibility with UD annotation guidelines, the dependency notation follows a head-initial convention.
@@ -156,7 +162,7 @@ Source example: `sent_id = 23`.
 
 ### `acl`: clausal modifier of noun
 
-Marks a clause modifying a nominal. 
+Marks a clause modifying a nominal.
 
 ~~~sdparse
 எவன் நேற்று வந்தானோ அவன் என் தம்பி . \n evaṉ nēṟṟu vantāṉō avaṉ eṉ tampi . \n who yesterday came-who he my brother .
@@ -443,7 +449,7 @@ Source example: `sent_id = 34`.
 
 ### `aux`: auxiliary
 
-Marks an auxiliary dependent of a verbal predicate. In Tamil, auxiliaries are handled this way, although one could argue that under strict UD principles, the dependency direction should be reversed since the auxiliary verb carries the tense and PNG suffixes. 
+Marks an auxiliary dependent of a verbal predicate. In Tamil, auxiliaries are handled this way, although one could argue that under strict UD principles, the dependency direction should be reversed since the auxiliary verb carries the tense and PNG suffixes.
 
 V+V forms must be checked carefully against the multiword expression guidelines.
 
@@ -484,8 +490,8 @@ Source example: `sent_id = 48`.
 
 ### `case`: case marker / postposition
 
-Marks a case marker when it is tokenised or occurs as a separate token. If a case marker remains attached as a suffix within the noun, its values should be represented in the morphological features rather than being tokenised separately. 
-Postpositions must always be tokenised independently (refer to the tokenisation guidelines) and assigned the case relation; in this instance, it does not denote a morphological case. 
+Marks a case marker when it is tokenised or occurs as a separate token. If a case marker remains attached as a suffix within the noun, its values should be represented in the morphological features rather than being tokenised separately.
+Postpositions must always be tokenised independently (refer to the tokenisation guidelines) and assigned the case relation; in this instance, it does not denote a morphological case.
 
 ~~~sdparse
 காலை முதல் மழை பெய்கிறது . \n kālai mutal maḻai peykiṟatu . \n morning since rain pouring-it .
