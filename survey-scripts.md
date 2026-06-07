@@ -11,1670 +11,1670 @@ Only letters were surveyed. Other characters (digits, punctuation, spaces) were
 ignored. The scripts are identified by their
 [ISO 15924 codes](https://en.wikipedia.org/wiki/ISO_15924).
 
-## ab_abnc
+## Abaza: abq_atb
 
-* `Cyrl` (62005), example: а 1072 CYRILLIC SMALL LETTER A (13599)
+* `Cyrl` (4488 = 92%), example: а 1072 CYRILLIC SMALL LETTER A (1057)
+* `Latn` (373 = 8%), example: I 73 LATIN CAPITAL LETTER I (371)
 
-## abq_atb
+## Abkhaz: ab_abnc
 
-* `Cyrl` (4488), example: а 1072 CYRILLIC SMALL LETTER A (1057)
-* `Latn` (373), example: I 73 LATIN CAPITAL LETTER I (371)
+* `Cyrl` (62005 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (13599)
 
-## af_afribooms
+## Afrikaans: af_afribooms
 
-* `Latn` (236726), example: e 101 LATIN SMALL LETTER E (41287)
+* `Latn` (236726 = 100%), example: e 101 LATIN SMALL LETTER E (41287)
 
-## aii_as
+## Akkadian: akk_pisandub
 
-* `Syrc` (1305), example: ܐ 1808 SYRIAC LETTER ALAPH (215)
+* `Latn` (9252 = 100%), example: a 97 LATIN SMALL LETTER A (1252)
+* `Zyyy` (13 = 0%), example: ʾ 702 MODIFIER LETTER RIGHT HALF RING (13)
 
-## ajp_madar
+## Akkadian: akk_riao
 
-* `Arab` (2325), example: ا 1575 ARABIC LETTER ALEF (273)
+* `Latn` (107711 = 100%), example: a 97 LATIN SMALL LETTER A (16241)
+* `Zyyy` (222 = 0%), example: ʾ 702 MODIFIER LETTER RIGHT HALF RING (222)
 
-## akk_pisandub
+## Akuntsu: aqz_tudet
 
-* `Latn` (9252), example: a 97 LATIN SMALL LETTER A (1252)
-* `Zyyy` (13), example: ʾ 702 MODIFIER LETTER RIGHT HALF RING (13)
+* `Latn` (4871 = 100%), example: a 97 LATIN SMALL LETTER A (759)
+* `Grek` (1 = 0%), example: β 946 GREEK SMALL LETTER BETA (1)
 
-## akk_riao
+## Albanian: sq_staf
 
-* `Latn` (107711), example: a 97 LATIN SMALL LETTER A (16241)
-* `Zyyy` (222), example: ʾ 702 MODIFIER LETTER RIGHT HALF RING (222)
+* `Latn` (13042 = 100%), example: ë 235 LATIN SMALL LETTER E WITH DIAERESIS (1259)
 
-## aln_gps
+## Albanian: sq_tsa
 
-* `Latn` (51964), example: e 101 LATIN SMALL LETTER E (5607)
+* `Latn` (4399 = 100%), example: ë 235 LATIN SMALL LETTER E WITH DIAERESIS (413)
 
-## am_att
+## Alemannic: gsw_divital
 
-* `Ethi` (15394), example: ን 4757 ETHIOPIC SYLLABLE NE (914)
+* `Latn` (73851 = 100%), example: e 101 LATIN SMALL LETTER E (10491)
 
-## ang_cairo
+## Alemannic: gsw_uzh
 
-* `Latn` (679), example: e 101 LATIN SMALL LETTER E (98)
+* `Latn` (5824 = 100%), example: e 101 LATIN SMALL LETTER E (612)
 
-## apu_ufpa
+## Amharic: am_att
 
-* `Latn` (5497), example: a 97 LATIN SMALL LETTER A (1068)
+* `Ethi` (15394 = 100%), example: ን 4757 ETHIOPIC SYLLABLE NE (914)
 
-## aqz_tudet
+## Ancient Greek: grc_perseus
 
-* `Latn` (4871), example: a 97 LATIN SMALL LETTER A (759)
-* `Grek` (1), example: β 946 GREEK SMALL LETTER BETA (1)
+* `Grek` (911130 = 100%), example: ν 957 GREEK SMALL LETTER NU (77974)
 
-## ar_padt
+## Ancient Greek: grc_proiel
 
-* `Arab` (1051842), example: ا 1575 ARABIC LETTER ALEF (175699)
-* `Zyyy` (1174), example: ـ 1600 ARABIC TATWEEL (1174)
-* `Latn` (79), example: C 67 LATIN CAPITAL LETTER C (9)
+* `Grek` (1079677 = 100%), example: ν 957 GREEK SMALL LETTER NU (89798)
+* `Zyyy` (1 = 0%), example: ʹ 697 MODIFIER LETTER PRIME (1)
 
-## ar_pud
+## Ancient Greek: grc_ptnk
 
-* `Arab` (74844), example: ا 1575 ARABIC LETTER ALEF (10898)
-* `Zyyy` (20), example: ـ 1600 ARABIC TATWEEL (20)
-* `Latn` (13), example: K 75 LATIN CAPITAL LETTER K (2)
+* `Grek` (160463 = 100%), example: α 945 GREEK SMALL LETTER ALPHA (13965)
 
-## arh_chibergis
+## Ancient Hebrew: hbo_ptnk
 
-* `Latn` (18312), example: n 110 LATIN SMALL LETTER N (2714)
+* `Hebr` (310519 = 100%), example: י 1497 HEBREW LETTER YOD (32136)
 
-## arr_tudet
+## Apurina: apu_ufpa
 
-* `Latn` (9469), example: a 97 LATIN SMALL LETTER A (1450)
+* `Latn` (5497 = 100%), example: a 97 LATIN SMALL LETTER A (1068)
 
-## as_aiw
+## Arabic: ar_padt
 
-* `Beng` (2361), example: ৰ 2544 BENGALI LETTER RA WITH MIDDLE DIAGONAL (296)
-* `Latn` (1), example: x 120 LATIN SMALL LETTER X (1)
+* `Arab` (1051842 = 100%), example: ا 1575 ARABIC LETTER ALEF (175699)
+* `Zyyy` (1174 = 0%), example: ـ 1600 ARABIC TATWEEL (1174)
+* `Latn` (79 = 0%), example: C 67 LATIN CAPITAL LETTER C (9)
 
-## axm_armtdp
+## Arabic: ar_pud
 
-* `Armn` (3568), example: ա 1377 ARMENIAN SMALL LETTER AYB (482)
+* `Arab` (74844 = 100%), example: ا 1575 ARABIC LETTER ALEF (10898)
+* `Zyyy` (20 = 0%), example: ـ 1600 ARABIC TATWEEL (20)
+* `Latn` (13 = 0%), example: K 75 LATIN CAPITAL LETTER K (2)
 
-## az_tuecl
+## Armenian: hy_armtdp
 
-* `Latn` (4181), example: a 97 LATIN SMALL LETTER A (402)
+* `Armn` (524199 = 100%), example: ա 1377 ARMENIAN SMALL LETTER AYB (79081)
+* `Latn` (611 = 0%), example: a 97 LATIN SMALL LETTER A (46)
 
-## azz_itml
+## Armenian: hy_bsut
 
-* `Latn` (42376), example: a 97 LATIN SMALL LETTER A (5733)
+* `Armn` (226920 = 100%), example: ա 1377 ARMENIAN SMALL LETTER AYB (34902)
+* `Latn` (665 = 0%), example: a 97 LATIN SMALL LETTER A (61)
 
-## bar_maibaam
+## Assamese: as_aiw
 
-* `Latn` (55290), example: a 97 LATIN SMALL LETTER A (5976)
-* `Kana` (6), example: イ 12452 KATAKANA LETTER I (1)
-* `Zyyy` (1), example: ˈ 712 MODIFIER LETTER VERTICAL LINE (1)
+* `Beng` (2361 = 100%), example: ৰ 2544 BENGALI LETTER RA WITH MIDDLE DIAGONAL (296)
+* `Latn` (1 = 0%), example: x 120 LATIN SMALL LETTER X (1)
 
-## be_hse
+## Assyrian: aii_as
 
-* `Cyrl` (1342318), example: а 1072 CYRILLIC SMALL LETTER A (211819)
-* `Latn` (134179), example: t 116 LATIN SMALL LETTER T (12278)
-* `Armn` (28), example: ի 1387 ARMENIAN SMALL LETTER INI (6)
-* `Zyyy` (23), example: ʼ 700 MODIFIER LETTER APOSTROPHE (21)
-* `Grek` (15), example: γ 947 GREEK SMALL LETTER GAMMA (2)
-* `Kana` (8), example: ツ 12484 KATAKANA LETTER TU (2)
-* `Hani` (6), example: 最 26368 CJK UNIFIED IDEOGRAPH-6700 (1)
-* `Hira` (3), example: ぼ 12412 HIRAGANA LETTER BO (1)
+* `Syrc` (1305 = 100%), example: ܐ 1808 SYRIAC LETTER ALAPH (215)
 
-## bej_autogramm
+## Azerbaijani: az_tuecl
 
-* `Latn` (31942), example: a 97 LATIN SMALL LETTER A (5800)
-* `Zyyy` (5392), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (5378)
+* `Latn` (4181 = 100%), example: a 97 LATIN SMALL LETTER A (402)
 
-## bg_btb
+## Bambara: bm_crb
 
-* `Cyrl` (691573), example: а 1072 CYRILLIC SMALL LETTER A (85672)
-* `Latn` (910), example: I 73 LATIN CAPITAL LETTER I (82)
+* `Latn` (35501 = 100%), example: a 97 LATIN SMALL LETTER A (6284)
 
-## bho_bhtb
+## Basque: eu_bdt
 
-* `Deva` (14465), example: क 2325 DEVANAGARI LETTER KA (1667)
+* `Latn` (655812 = 100%), example: a 97 LATIN SMALL LETTER A (100416)
 
-## bm_crb
+## Bavarian: bar_maibaam
 
-* `Latn` (35501), example: a 97 LATIN SMALL LETTER A (6284)
+* `Latn` (55290 = 100%), example: a 97 LATIN SMALL LETTER A (5976)
+* `Kana` (6 = 0%), example: イ 12452 KATAKANA LETTER I (1)
+* `Zyyy` (1 = 0%), example: ˈ 712 MODIFIER LETTER VERTICAL LINE (1)
 
-## bn_bru
+## Beja: bej_autogramm
 
-* `Beng` (585), example: র 2480 BENGALI LETTER RA (65)
+* `Latn` (31942 = 86%), example: a 97 LATIN SMALL LETTER A (5800)
+* `Zyyy` (5392 = 14%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (5378)
 
-## bor_bdt
+## Belarusian: be_hse
 
-* `Latn` (672877), example: e 101 LATIN SMALL LETTER E (97072)
+* `Cyrl` (1342318 = 91%), example: а 1072 CYRILLIC SMALL LETTER A (211819)
+* `Latn` (134179 = 9%), example: t 116 LATIN SMALL LETTER T (12278)
+* `Armn` (28 = 0%), example: ի 1387 ARMENIAN SMALL LETTER INI (6)
+* `Zyyy` (23 = 0%), example: ʼ 700 MODIFIER LETTER APOSTROPHE (21)
+* `Grek` (15 = 0%), example: γ 947 GREEK SMALL LETTER GAMMA (2)
+* `Kana` (8 = 0%), example: ツ 12484 KATAKANA LETTER TU (2)
+* `Hani` (6 = 0%), example: 最 26368 CJK UNIFIED IDEOGRAPH-6700 (1)
+* `Hira` (3 = 0%), example: ぼ 12412 HIRAGANA LETTER BO (1)
 
-## br_keb
+## Bengali: bn_bru
 
-* `Latn` (36170), example: e 101 LATIN SMALL LETTER E (5268)
-* `Grek` (2), example: μ 956 GREEK SMALL LETTER MU (1)
+* `Beng` (585 = 100%), example: র 2480 BENGALI LETTER RA (65)
 
-## brh_kholum
+## Bhojpuri: bho_bhtb
 
-* `Latn` (2364), example: a 97 LATIN SMALL LETTER A (301)
-* `Arab` (1106), example: ا 1575 ARABIC LETTER ALEF (150)
+* `Deva` (14465 = 100%), example: क 2325 DEVANAGARI LETTER KA (1667)
 
-## bxr_bdt
+## Bokota: sab_chibergis
 
-* `Cyrl` (54232), example: а 1072 CYRILLIC SMALL LETTER A (8282)
-* `Latn` (19), example: h 104 LATIN SMALL LETTER H (15)
+* `Latn` (8690 = 100%), example: e 101 LATIN SMALL LETTER E (1247)
 
-## ca_ancora
+## Bororo: bor_bdt
 
-* `Latn` (2171426), example: e 101 LATIN SMALL LETTER E (268973)
+* `Latn` (672877 = 100%), example: e 101 LATIN SMALL LETTER E (97072)
 
-## ceb_gja
+## Brahui: brh_kholum
 
-* `Latn` (4931), example: a 97 LATIN SMALL LETTER A (1074)
+* `Latn` (2364 = 68%), example: a 97 LATIN SMALL LETTER A (301)
+* `Arab` (1106 = 32%), example: ا 1575 ARABIC LETTER ALEF (150)
 
-## ckb_mukri
+## Breton: br_keb
 
-* `Latn` (2298), example: e 101 LATIN SMALL LETTER E (370)
+* `Latn` (36170 = 100%), example: e 101 LATIN SMALL LETTER E (5268)
+* `Grek` (2 = 0%), example: μ 956 GREEK SMALL LETTER MU (1)
 
-## ckt_hse
+## Bulgarian: bg_btb
 
-* `Cyrl` (34038), example: ы 1099 CYRILLIC SMALL LETTER YERU (4106)
-* `Zyyy` (228), example: ʼ 700 MODIFIER LETTER APOSTROPHE (228)
+* `Cyrl` (691573 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (85672)
+* `Latn` (910 = 0%), example: I 73 LATIN CAPITAL LETTER I (82)
 
-## cop_bohairic
+## Buryat: bxr_bdt
 
-* `Copt` (89616), example: ⲉ 11401 COPTIC SMALL LETTER EIE (10640)
-* `Latn` (1), example: o 111 LATIN SMALL LETTER O (1)
+* `Cyrl` (54232 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (8282)
+* `Latn` (19 = 0%), example: h 104 LATIN SMALL LETTER H (15)
 
-## cop_scriptorium
+## Cantonese: yue_hk
 
-* `Copt` (147595), example: ⲉ 11401 COPTIC SMALL LETTER EIE (20011)
+* `Hani` (15428 = 98%), example: 我 25105 CJK UNIFIED IDEOGRAPH-6211 (538)
+* `Latn` (351 = 2%), example: e 101 LATIN SMALL LETTER E (38)
 
-## cpg_amgic
+## Cappadocian: cpg_amgic
 
-* `Latn` (2627), example: i 105 LATIN SMALL LETTER I (230)
-* `Grek` (93), example: χ 967 GREEK SMALL LETTER CHI (45)
+* `Latn` (2627 = 97%), example: i 105 LATIN SMALL LETTER I (230)
+* `Grek` (93 = 3%), example: χ 967 GREEK SMALL LETTER CHI (45)
 
-## cpg_tuecl
+## Cappadocian: cpg_tuecl
 
-* `Grek` (13271), example: τ 964 GREEK SMALL LETTER TAU (1393)
-* `Latn` (142), example: d 100 LATIN SMALL LETTER D (91)
+* `Grek` (13271 = 99%), example: τ 964 GREEK SMALL LETTER TAU (1393)
+* `Latn` (142 = 1%), example: d 100 LATIN SMALL LETTER D (91)
 
-## cs_cac
+## Catalan: ca_ancora
 
-* `Latn` (2430965), example: o 111 LATIN SMALL LETTER O (208058)
+* `Latn` (2171426 = 100%), example: e 101 LATIN SMALL LETTER E (268973)
 
-## cs_cltt
+## Cebuano: ceb_gja
 
-* `Latn` (185247), example: o 111 LATIN SMALL LETTER O (17064)
+* `Latn` (4931 = 100%), example: a 97 LATIN SMALL LETTER A (1074)
 
-## cs_fictree
+## Central Kurdish: ckb_mukri
 
-* `Latn` (635336), example: e 101 LATIN SMALL LETTER E (52260)
+* `Latn` (2298 = 100%), example: e 101 LATIN SMALL LETTER E (370)
 
-## cs_pdtc
+## Chinese: zh_beginner
 
-* `Latn` (15240982), example: o 111 LATIN SMALL LETTER O (1253922)
-* `Grek` (8), example: φ 966 GREEK SMALL LETTER PHI (5)
+* `Hani` (21919 = 99%), example: 我 25105 CJK UNIFIED IDEOGRAPH-6211 (839)
+* `Latn` (210 = 1%), example: a 97 LATIN SMALL LETTER A (18)
 
-## cs_poetry
+## Chinese: zh_cfl
 
-* `Latn` (22730), example: e 101 LATIN SMALL LETTER E (1682)
+* `Hani` (9412 = 100%), example: 我 25105 CJK UNIFIED IDEOGRAPH-6211 (475)
+* `Latn` (6 = 0%), example: K 75 LATIN CAPITAL LETTER K (2)
 
-## cs_pud
+## Chinese: zh_gsd
 
-* `Latn` (85630), example: o 111 LATIN SMALL LETTER O (7019)
+* `Hani` (161915 = 97%), example: 的 30340 CJK UNIFIED IDEOGRAPH-7684 (5674)
+* `Latn` (5034 = 3%), example: e 101 LATIN SMALL LETTER E (428)
+* `Grek` (1 = 0%), example: θ 952 GREEK SMALL LETTER THETA (1)
 
-## ctn_ctntb
+## Chinese: zh_gsdsimp
 
-* `Latn` (60277), example: a 97 LATIN SMALL LETTER A (10718)
+* `Hani` (161914 = 97%), example: 的 30340 CJK UNIFIED IDEOGRAPH-7684 (5674)
+* `Latn` (5034 = 3%), example: e 101 LATIN SMALL LETTER E (428)
+* `Grek` (1 = 0%), example: θ 952 GREEK SMALL LETTER THETA (1)
 
-## cu_proiel
+## Chinese: zh_hk
 
-* `Cyrl` (949383), example: о 1086 CYRILLIC SMALL LETTER O (82460)
-* `Glag` (1289), example: ⱕ 11349 GLAGOLITIC SMALL LETTER SMALL YUS WITH TAIL (1273)
-* `Zyyy` (526), example: ʼ 700 MODIFIER LETTER APOSTROPHE (440)
-* `Latn` (41), example: x 120 LATIN SMALL LETTER X (28)
+* `Hani` (12080 = 99%), example: 我 25105 CJK UNIFIED IDEOGRAPH-6211 (413)
+* `Latn` (163 = 1%), example: o 111 LATIN SMALL LETTER O (17)
 
-## cy_ccg
+## Chinese: zh_patentchar
 
-* `Latn` (208261), example: d 100 LATIN SMALL LETTER D (20777)
+* `Hani` (7304 = 94%), example: 的 30340 CJK UNIFIED IDEOGRAPH-7684 (302)
+* `Latn` (477 = 6%), example: o 111 LATIN SMALL LETTER O (32)
 
-## da_ddt
+## Chinese: zh_pud
 
-* `Latn` (424740), example: e 101 LATIN SMALL LETTER E (66206)
+* `Hani` (29776 = 95%), example: 的 30340 CJK UNIFIED IDEOGRAPH-7684 (1375)
+* `Latn` (1650 = 5%), example: a 97 LATIN SMALL LETTER A (154)
+* `Grek` (1 = 0%), example: α 945 GREEK SMALL LETTER ALPHA (1)
 
-## de_gsd
+## Chintang: ctn_ctntb
 
-* `Latn` (1446023), example: e 101 LATIN SMALL LETTER E (227186)
-* `Grek` (36), example: μ 956 GREEK SMALL LETTER MU (9)
-* `Cyrl` (33), example: е 1077 CYRILLIC SMALL LETTER IE (5)
-* `Zyyy` (4), example: µ 181 MICRO SIGN (2)
-* `Hani` (4), example: 公 20844 CJK UNIFIED IDEOGRAPH-516C (1)
-* `Hebr` (3), example: ה 1492 HEBREW LETTER HE (1)
+* `Latn` (60277 = 100%), example: a 97 LATIN SMALL LETTER A (10718)
 
-## de_hdt
+## Chukchi: ckt_hse
 
-* `Latn` (18488700), example: e 101 LATIN SMALL LETTER E (2942302)
-* `Zyyy` (356), example: µ 181 MICRO SIGN (356)
+* `Cyrl` (34038 = 99%), example: ы 1099 CYRILLIC SMALL LETTER YERU (4106)
+* `Zyyy` (228 = 1%), example: ʼ 700 MODIFIER LETTER APOSTROPHE (228)
 
-## de_lit
+## Classical Armenian: xcl_caval
 
-* `Latn` (193054), example: e 101 LATIN SMALL LETTER E (31721)
+* `Armn` (342533 = 100%), example: ա 1377 ARMENIAN SMALL LETTER AYB (51236)
 
-## de_pud
+## Classical Chinese: lzh_kyoto
 
-* `Latn` (104549), example: e 101 LATIN SMALL LETTER E (16820)
+* `Hani` (448890 = 100%), example: 之 20043 CJK UNIFIED IDEOGRAPH-4E4B (16110)
 
-## egy_pc
+## Classical Chinese: lzh_tuecl
 
-* `Latn` (72196), example: w 119 LATIN SMALL LETTER W (9273)
-* `Zyyy` (182), example: ʾ 702 MODIFIER LETTER RIGHT HALF RING (182)
+* `Hani` (665 = 100%), example: 之 20043 CJK UNIFIED IDEOGRAPH-4E4B (31)
 
-## el_cretan
+## Coptic: cop_bohairic
 
-* `Grek` (16496), example: α 945 GREEK SMALL LETTER ALPHA (1710)
+* `Copt` (89616 = 100%), example: ⲉ 11401 COPTIC SMALL LETTER EIE (10640)
+* `Latn` (1 = 0%), example: o 111 LATIN SMALL LETTER O (1)
 
-## el_gdt
+## Coptic: cop_scriptorium
 
-* `Grek` (303706), example: α 945 GREEK SMALL LETTER ALPHA (27484)
-* `Latn` (1803), example: a 97 LATIN SMALL LETTER A (160)
+* `Copt` (147595 = 100%), example: ⲉ 11401 COPTIC SMALL LETTER EIE (20011)
 
-## el_glcii
+## Croatian: hr_set
 
-* `Grek` (41383), example: α 945 GREEK SMALL LETTER ALPHA (4584)
-* `Latn` (127), example: e 101 LATIN SMALL LETTER E (10)
-* `Cyrl` (1), example: Г 1043 CYRILLIC CAPITAL LETTER GHE (1)
+* `Latn` (961419 = 100%), example: a 97 LATIN SMALL LETTER A (107016)
 
-## el_gud
+## Czech: cs_cac
 
-* `Grek` (99208), example: α 945 GREEK SMALL LETTER ALPHA (10273)
-* `Latn` (239), example: e 101 LATIN SMALL LETTER E (24)
+* `Latn` (2430965 = 100%), example: o 111 LATIN SMALL LETTER O (208058)
 
-## el_lesbian
+## Czech: cs_cltt
 
-* `Grek` (24609), example: α 945 GREEK SMALL LETTER ALPHA (2521)
-* `Latn` (9), example: o 111 LATIN SMALL LETTER O (3)
+* `Latn` (185247 = 100%), example: o 111 LATIN SMALL LETTER O (17064)
 
-## el_messinian
+## Czech: cs_fictree
 
-* `Grek` (3318), example: α 945 GREEK SMALL LETTER ALPHA (373)
-* `Latn` (12), example: e 101 LATIN SMALL LETTER E (2)
+* `Latn` (635336 = 100%), example: e 101 LATIN SMALL LETTER E (52260)
 
-## eme_tudet
+## Czech: cs_pdtc
 
-* `Latn` (16734), example: a 97 LATIN SMALL LETTER A (2512)
+* `Latn` (15240982 = 100%), example: o 111 LATIN SMALL LETTER O (1253922)
+* `Grek` (8 = 0%), example: φ 966 GREEK SMALL LETTER PHI (5)
 
-## en_atis
+## Czech: cs_poetry
 
-* `Latn` (288529), example: t 116 LATIN SMALL LETTER T (29306)
+* `Latn` (22730 = 100%), example: e 101 LATIN SMALL LETTER E (1682)
 
-## en_childes
+## Czech: cs_pud
 
-* `Latn` (887103), example: e 101 LATIN SMALL LETTER E (96552)
+* `Latn` (85630 = 100%), example: o 111 LATIN SMALL LETTER O (7019)
 
-## en_ctetex
+## Danish: da_ddt
 
-* `Latn` (37174), example: e 101 LATIN SMALL LETTER E (4359)
+* `Latn` (424740 = 100%), example: e 101 LATIN SMALL LETTER E (66206)
 
-## en_eslspok
+## Dutch: nl_alpino
 
-* `Latn` (68707), example: e 101 LATIN SMALL LETTER E (7729)
+* `Latn` (950065 = 100%), example: e 101 LATIN SMALL LETTER E (176098)
 
-## en_ewt
+## Dutch: nl_lassysmall
 
-* `Latn` (976767), example: e 101 LATIN SMALL LETTER E (115833)
-* `Grek` (1), example: Υ 933 GREEK CAPITAL LETTER UPSILON (1)
+* `Latn` (1365456 = 100%), example: e 101 LATIN SMALL LETTER E (248557)
+* `Grek` (2 = 0%), example: π 960 GREEK SMALL LETTER PI (2)
 
-## en_gentle
+## Egyptian: egy_pc
 
-* `Latn` (67273), example: e 101 LATIN SMALL LETTER E (7709)
-* `Grek` (15), example: ο 959 GREEK SMALL LETTER OMICRON (3)
-* `Arab` (3), example: د 1583 ARABIC LETTER DAL (1)
-* `Zyyy` (2), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (2)
+* `Latn` (72196 = 100%), example: w 119 LATIN SMALL LETTER W (9273)
+* `Zyyy` (182 = 0%), example: ʾ 702 MODIFIER LETTER RIGHT HALF RING (182)
 
-## en_gum
+## English: en_atis
 
-* `Latn` (990516), example: e 101 LATIN SMALL LETTER E (117614)
-* `Grek` (35), example: ρ 961 GREEK SMALL LETTER RHO (4)
-* `Hani` (25), example: 口 21475 CJK UNIFIED IDEOGRAPH-53E3 (3)
-* `Arab` (13), example: ا 1575 ARABIC LETTER ALEF (3)
-* `Zyyy` (13), example: ˈ 712 MODIFIER LETTER VERTICAL LINE (7)
+* `Latn` (288529 = 100%), example: t 116 LATIN SMALL LETTER T (29306)
 
-## en_lines
+## English: en_childes
 
-* `Latn` (408345), example: e 101 LATIN SMALL LETTER E (50647)
+* `Latn` (887103 = 100%), example: e 101 LATIN SMALL LETTER E (96552)
 
-## en_littleprince
+## English: en_ctetex
 
-* `Latn` (22153), example: e 101 LATIN SMALL LETTER E (2903)
+* `Latn` (37174 = 100%), example: e 101 LATIN SMALL LETTER E (4359)
 
-## en_partut
+## English: en_eslspok
 
-* `Latn` (215815), example: e 101 LATIN SMALL LETTER E (26624)
+* `Latn` (68707 = 100%), example: e 101 LATIN SMALL LETTER E (7729)
 
-## en_pronouns
+## English: en_ewt
 
-* `Latn` (5779), example: e 101 LATIN SMALL LETTER E (1006)
+* `Latn` (976767 = 100%), example: e 101 LATIN SMALL LETTER E (115833)
+* `Grek` (1 = 0%), example: Υ 933 GREEK CAPITAL LETTER UPSILON (1)
 
-## en_pud
+## English: en_gentle
 
-* `Latn` (88878), example: e 101 LATIN SMALL LETTER E (10952)
+* `Latn` (67273 = 100%), example: e 101 LATIN SMALL LETTER E (7709)
+* `Grek` (15 = 0%), example: ο 959 GREEK SMALL LETTER OMICRON (3)
+* `Arab` (3 = 0%), example: د 1583 ARABIC LETTER DAL (1)
+* `Zyyy` (2 = 0%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (2)
 
-## eo_cairo
+## English: en_gum
 
-* `Latn` (645), example: a 97 LATIN SMALL LETTER A (86)
+* `Latn` (990516 = 100%), example: e 101 LATIN SMALL LETTER E (117614)
+* `Grek` (35 = 0%), example: ρ 961 GREEK SMALL LETTER RHO (4)
+* `Hani` (25 = 0%), example: 口 21475 CJK UNIFIED IDEOGRAPH-53E3 (3)
+* `Arab` (13 = 0%), example: ا 1575 ARABIC LETTER ALEF (3)
+* `Zyyy` (13 = 0%), example: ˈ 712 MODIFIER LETTER VERTICAL LINE (7)
 
-## eo_prago
+## English: en_lines
 
-* `Latn` (13485), example: a 97 LATIN SMALL LETTER A (1684)
+* `Latn` (408345 = 100%), example: e 101 LATIN SMALL LETTER E (50647)
 
-## es_ancora
+## English: en_littleprince
 
-* `Latn` (2334992), example: e 101 LATIN SMALL LETTER E (294774)
+* `Latn` (22153 = 100%), example: e 101 LATIN SMALL LETTER E (2903)
 
-## es_coser
+## English: en_partut
 
-* `Latn` (24635), example: a 97 LATIN SMALL LETTER A (3228)
+* `Latn` (215815 = 100%), example: e 101 LATIN SMALL LETTER E (26624)
 
-## es_gsd
+## English: en_pronouns
 
-* `Latn` (1784275), example: e 101 LATIN SMALL LETTER E (225195)
-* `Grek` (119), example: ο 959 GREEK SMALL LETTER OMICRON (13)
-* `Cyrl` (69), example: и 1080 CYRILLIC SMALL LETTER I (8)
-* `Arab` (38), example: ا 1575 ARABIC LETTER ALEF (7)
-* `Hani` (17), example: 一 19968 CJK UNIFIED IDEOGRAPH-4E00 (2)
-* `Deva` (8), example: ग 2327 DEVANAGARI LETTER GA (2)
-* `Hebr` (7), example: ר 1512 HEBREW LETTER RESH (2)
-* `Beng` (6), example: ম 2478 BENGALI LETTER MA (3)
-* `Hira` (6), example: が 12364 HIRAGANA LETTER GA (1)
-* `Zyyy` (1), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (1)
+* `Latn` (5779 = 100%), example: e 101 LATIN SMALL LETTER E (1006)
 
-## es_pud
+## English: en_pud
 
-* `Latn` (99751), example: e 101 LATIN SMALL LETTER E (12821)
+* `Latn` (88878 = 100%), example: e 101 LATIN SMALL LETTER E (10952)
 
-## ess_sli
+## Erzya: myv_jr
 
-* `Latn` (8866), example: a 97 LATIN SMALL LETTER A (1493)
+* `Cyrl` (97255 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (8605)
 
-## et_edt
+## Esperanto: eo_cairo
 
-* `Latn` (2323306), example: a 97 LATIN SMALL LETTER A (274084)
-* `Grek` (182), example: ω 969 GREEK SMALL LETTER OMEGA (182)
+* `Latn` (645 = 100%), example: a 97 LATIN SMALL LETTER A (86)
 
-## et_ewt
+## Esperanto: eo_prago
 
-* `Latn` (408641), example: a 97 LATIN SMALL LETTER A (50400)
-* `Cyrl` (29), example: о 1086 CYRILLIC SMALL LETTER O (3)
+* `Latn` (13485 = 100%), example: a 97 LATIN SMALL LETTER A (1684)
 
-## eu_bdt
+## Estonian: et_edt
 
-* `Latn` (655812), example: a 97 LATIN SMALL LETTER A (100416)
+* `Latn` (2323306 = 100%), example: a 97 LATIN SMALL LETTER A (274084)
+* `Grek` (182 = 0%), example: ω 969 GREEK SMALL LETTER OMEGA (182)
 
-## fa_perdt
+## Estonian: et_ewt
 
-* `Arab` (1789762), example: ا 1575 ARABIC LETTER ALEF (256028)
-* `Latn` (1518), example: e 101 LATIN SMALL LETTER E (112)
+* `Latn` (408641 = 100%), example: a 97 LATIN SMALL LETTER A (50400)
+* `Cyrl` (29 = 0%), example: о 1086 CYRILLIC SMALL LETTER O (3)
 
-## fa_seraji
+## Faroese: fo_farpahc
 
-* `Arab` (548973), example: ا 1575 ARABIC LETTER ALEF (79161)
-* `Latn` (43), example: E 69 LATIN CAPITAL LETTER E (6)
+* `Latn` (141690 = 100%), example: a 97 LATIN SMALL LETTER A (13530)
 
-## fi_ftb
+## Faroese: fo_oft
 
-* `Latn` (921018), example: a 97 LATIN SMALL LETTER A (108172)
+* `Latn` (44726 = 100%), example: r 114 LATIN SMALL LETTER R (4620)
 
-## fi_ood
+## Finnish: fi_ftb
 
-* `Latn` (109684), example: a 97 LATIN SMALL LETTER A (12696)
+* `Latn` (921018 = 100%), example: a 97 LATIN SMALL LETTER A (108172)
 
-## fi_pud
+## Finnish: fi_ood
 
-* `Latn` (99552), example: a 97 LATIN SMALL LETTER A (11990)
+* `Latn` (109684 = 100%), example: a 97 LATIN SMALL LETTER A (12696)
 
-## fi_tdt
+## Finnish: fi_pud
 
-* `Latn` (1257885), example: a 97 LATIN SMALL LETTER A (147258)
-* `Cyrl` (114), example: а 1072 CYRILLIC SMALL LETTER A (14)
-* `Grek` (50), example: ι 953 GREEK SMALL LETTER IOTA (5)
-* `Hani` (19), example: 島 23798 CJK UNIFIED IDEOGRAPH-5CF6 (3)
-* `Geor` (10), example: ი 4312 GEORGIAN LETTER IN (2)
-* `Arab` (6), example: ا 1575 ARABIC LETTER ALEF (2)
-* `Armn` (6), example: ա 1377 ARMENIAN SMALL LETTER AYB (2)
-* `Hebr` (4), example: ר 1512 HEBREW LETTER RESH (2)
+* `Latn` (99552 = 100%), example: a 97 LATIN SMALL LETTER A (11990)
 
-## fo_farpahc
+## Finnish: fi_tdt
 
-* `Latn` (141690), example: a 97 LATIN SMALL LETTER A (13530)
+* `Latn` (1257885 = 100%), example: a 97 LATIN SMALL LETTER A (147258)
+* `Cyrl` (114 = 0%), example: а 1072 CYRILLIC SMALL LETTER A (14)
+* `Grek` (50 = 0%), example: ι 953 GREEK SMALL LETTER IOTA (5)
+* `Hani` (19 = 0%), example: 島 23798 CJK UNIFIED IDEOGRAPH-5CF6 (3)
+* `Geor` (10 = 0%), example: ი 4312 GEORGIAN LETTER IN (2)
+* `Arab` (6 = 0%), example: ا 1575 ARABIC LETTER ALEF (2)
+* `Armn` (6 = 0%), example: ա 1377 ARMENIAN SMALL LETTER AYB (2)
+* `Hebr` (4 = 0%), example: ר 1512 HEBREW LETTER RESH (2)
 
-## fo_oft
+## French: fr_alts
 
-* `Latn` (44726), example: r 114 LATIN SMALL LETTER R (4620)
+* `Latn` (266028 = 100%), example: e 101 LATIN SMALL LETTER E (44539)
 
-## fr_alts
+## French: fr_fqb
 
-* `Latn` (266028), example: e 101 LATIN SMALL LETTER E (44539)
+* `Latn` (91009 = 100%), example: e 101 LATIN SMALL LETTER E (13537)
 
-## fr_fqb
+## French: fr_gsd
 
-* `Latn` (91009), example: e 101 LATIN SMALL LETTER E (13537)
+* `Latn` (1618691 = 100%), example: e 101 LATIN SMALL LETTER E (230096)
+* `Cyrl` (264 = 0%), example: а 1072 CYRILLIC SMALL LETTER A (31)
+* `Hani` (35 = 0%), example: 临 20020 CJK UNIFIED IDEOGRAPH-4E34 (2)
+* `Grek` (13 = 0%), example: Ω 937 GREEK CAPITAL LETTER OMEGA (2)
+* `Arab` (11 = 0%), example: ذ 1584 ARABIC LETTER THAL (2)
+* `Kana` (6 = 0%), example: ド 12489 KATAKANA LETTER DO (4)
+* `Zyyy` (4 = 0%), example: ー 12540 KATAKANA-HIRAGANA PROLONGED SOUND MARK (3)
+* `Hang` (3 = 0%), example: 강 44053 HANGUL SYLLABLE GANG (1)
 
-## fr_gsd
+## French: fr_parisstories
 
-* `Latn` (1618691), example: e 101 LATIN SMALL LETTER E (230096)
-* `Cyrl` (264), example: а 1072 CYRILLIC SMALL LETTER A (31)
-* `Hani` (35), example: 临 20020 CJK UNIFIED IDEOGRAPH-4E34 (2)
-* `Grek` (13), example: Ω 937 GREEK CAPITAL LETTER OMEGA (2)
-* `Arab` (11), example: ذ 1584 ARABIC LETTER THAL (2)
-* `Kana` (6), example: ド 12489 KATAKANA LETTER DO (4)
-* `Zyyy` (4), example: ー 12540 KATAKANA-HIRAGANA PROLONGED SOUND MARK (3)
-* `Hang` (3), example: 강 44053 HANGUL SYLLABLE GANG (1)
+* `Latn` (127833 = 100%), example: e 101 LATIN SMALL LETTER E (18510)
 
-## fr_parisstories
+## French: fr_partut
 
-* `Latn` (127833), example: e 101 LATIN SMALL LETTER E (18510)
+* `Latn` (122738 = 100%), example: e 101 LATIN SMALL LETTER E (17311)
 
-## fr_partut
+## French: fr_poitevindivital
 
-* `Latn` (122738), example: e 101 LATIN SMALL LETTER E (17311)
+* `Latn` (19675 = 100%), example: e 101 LATIN SMALL LETTER E (2429)
 
-## fr_poitevindivital
+## French: fr_pud
 
-* `Latn` (19675), example: e 101 LATIN SMALL LETTER E (2429)
+* `Latn` (102026 = 100%), example: e 101 LATIN SMALL LETTER E (14388)
 
-## fr_pud
+## French: fr_rhapsodie
 
-* `Latn` (102026), example: e 101 LATIN SMALL LETTER E (14388)
+* `Latn` (142391 = 100%), example: e 101 LATIN SMALL LETTER E (20658)
 
-## fr_rhapsodie
+## French: fr_sequoia
 
-* `Latn` (142391), example: e 101 LATIN SMALL LETTER E (20658)
+* `Latn` (296148 = 100%), example: e 101 LATIN SMALL LETTER E (40147)
+* `Zyyy` (1 = 0%), example: µ 181 MICRO SIGN (1)
 
-## fr_sequoia
+## Frisian Dutch: qfn_fame
 
-* `Latn` (296148), example: e 101 LATIN SMALL LETTER E (40147)
-* `Zyyy` (1), example: µ 181 MICRO SIGN (1)
+* `Latn` (15715 = 100%), example: e 101 LATIN SMALL LETTER E (2527)
 
-## frm_altm
+## Galician: gl_ctg
 
-* `Latn` (27192), example: e 101 LATIN SMALL LETTER E (4474)
+* `Latn` (590106 = 100%), example: e 101 LATIN SMALL LETTER E (70352)
+* `Zyyy` (2 = 0%), example: µ 181 MICRO SIGN (2)
 
-## frm_profiterole
+## Galician: gl_pud
 
-* `Latn` (452439), example: e 101 LATIN SMALL LETTER E (74639)
+* `Latn` (94999 = 100%), example: a 97 LATIN SMALL LETTER A (11121)
 
-## fro_altm
+## Galician: gl_treegal
 
-* `Latn` (53020), example: e 101 LATIN SMALL LETTER E (9436)
+* `Latn` (103606 = 100%), example: a 97 LATIN SMALL LETTER A (12631)
 
-## fro_profiterole
+## Georgian: ka_glc
 
-* `Latn` (800147), example: e 101 LATIN SMALL LETTER E (132771)
+* `Geor` (358979 = 99%), example: ა 4304 GEORGIAN LETTER AN (47061)
+* `Latn` (2527 = 1%), example: X 88 LATIN CAPITAL LETTER X (233)
+* `Grek` (494 = 0%), example: ο 959 GREEK SMALL LETTER OMICRON (60)
+* `Armn` (12 = 0%), example: մ 1396 ARMENIAN SMALL LETTER MEN (2)
+* `Hani` (12 = 0%), example: 平 24179 CJK UNIFIED IDEOGRAPH-5E73 (2)
+* `Cyrl` (3 = 0%), example: С 1057 CYRILLIC CAPITAL LETTER ES (2)
+* `Zyyy` (1 = 0%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (1)
 
-## ga_cadhan
+## Georgian: ka_gnc
 
-* `Latn` (18962), example: a 97 LATIN SMALL LETTER A (2851)
+* `Geor` (110965 = 100%), example: ა 4304 GEORGIAN LETTER AN (17756)
+* `Latn` (6 = 0%), example: o 111 LATIN SMALL LETTER O (3)
 
-## ga_idt
+## German: de_gsd
 
-* `Latn` (499134), example: a 97 LATIN SMALL LETTER A (78395)
+* `Latn` (1446023 = 100%), example: e 101 LATIN SMALL LETTER E (227186)
+* `Grek` (36 = 0%), example: μ 956 GREEK SMALL LETTER MU (9)
+* `Cyrl` (33 = 0%), example: е 1077 CYRILLIC SMALL LETTER IE (5)
+* `Zyyy` (4 = 0%), example: µ 181 MICRO SIGN (2)
+* `Hani` (4 = 0%), example: 公 20844 CJK UNIFIED IDEOGRAPH-516C (1)
+* `Hebr` (3 = 0%), example: ה 1492 HEBREW LETTER HE (1)
 
-## ga_twittirish
+## German: de_hdt
 
-* `Latn` (190315), example: a 97 LATIN SMALL LETTER A (23350)
-* `Hira` (27), example: す 12377 HIRAGANA LETTER SU (3)
-* `Hani` (18), example: 出 20986 CJK UNIFIED IDEOGRAPH-51FA (2)
-* `Kana` (14), example: ア 12450 KATAKANA LETTER A (3)
-* `Cyrl` (4), example: Р 1056 CYRILLIC CAPITAL LETTER ER (1)
-* `Zyyy` (3), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (1)
-* `Hang` (1), example: ㅅ 12613 HANGUL LETTER SIOS (1)
+* `Latn` (18488700 = 100%), example: e 101 LATIN SMALL LETTER E (2942302)
+* `Zyyy` (356 = 0%), example: µ 181 MICRO SIGN (356)
 
-## gd_arcosg
+## German: de_lit
 
-* `Latn` (344892), example: a 97 LATIN SMALL LETTER A (62094)
+* `Latn` (193054 = 100%), example: e 101 LATIN SMALL LETTER E (31721)
 
-## gl_ctg
+## German: de_pud
 
-* `Latn` (590106), example: e 101 LATIN SMALL LETTER E (70352)
-* `Zyyy` (2), example: µ 181 MICRO SIGN (2)
+* `Latn` (104549 = 100%), example: e 101 LATIN SMALL LETTER E (16820)
 
-## gl_pud
+## Gheg: aln_gps
 
-* `Latn` (94999), example: a 97 LATIN SMALL LETTER A (11121)
+* `Latn` (51964 = 100%), example: e 101 LATIN SMALL LETTER E (5607)
 
-## gl_treegal
+## Gorontalo: gor_bungololombi
 
-* `Latn` (103606), example: a 97 LATIN SMALL LETTER A (12631)
+* `Latn` (1035 = 100%), example: o 111 LATIN SMALL LETTER O (160)
 
-## gn_oldtudet
+## Gothic: got_proiel
 
-* `Latn` (1199), example: a 97 LATIN SMALL LETTER A (189)
+* `Latn` (286213 = 100%), example: a 97 LATIN SMALL LETTER A (55385)
 
-## gor_bungololombi
+## Greek: el_cretan
 
-* `Latn` (1035), example: o 111 LATIN SMALL LETTER O (160)
+* `Grek` (16496 = 100%), example: α 945 GREEK SMALL LETTER ALPHA (1710)
 
-## got_proiel
+## Greek: el_gdt
 
-* `Latn` (286213), example: a 97 LATIN SMALL LETTER A (55385)
+* `Grek` (303706 = 99%), example: α 945 GREEK SMALL LETTER ALPHA (27484)
+* `Latn` (1803 = 1%), example: a 97 LATIN SMALL LETTER A (160)
 
-## grc_perseus
+## Greek: el_glcii
 
-* `Grek` (911130), example: ν 957 GREEK SMALL LETTER NU (77974)
+* `Grek` (41383 = 100%), example: α 945 GREEK SMALL LETTER ALPHA (4584)
+* `Latn` (127 = 0%), example: e 101 LATIN SMALL LETTER E (10)
+* `Cyrl` (1 = 0%), example: Г 1043 CYRILLIC CAPITAL LETTER GHE (1)
 
-## grc_proiel
+## Greek: el_gud
 
-* `Grek` (1079677), example: ν 957 GREEK SMALL LETTER NU (89798)
-* `Zyyy` (1), example: ʹ 697 MODIFIER LETTER PRIME (1)
+* `Grek` (99208 = 100%), example: α 945 GREEK SMALL LETTER ALPHA (10273)
+* `Latn` (239 = 0%), example: e 101 LATIN SMALL LETTER E (24)
 
-## grc_ptnk
+## Greek: el_lesbian
 
-* `Grek` (160463), example: α 945 GREEK SMALL LETTER ALPHA (13965)
+* `Grek` (24609 = 100%), example: α 945 GREEK SMALL LETTER ALPHA (2521)
+* `Latn` (9 = 0%), example: o 111 LATIN SMALL LETTER O (3)
 
-## gsw_divital
+## Greek: el_messinian
 
-* `Latn` (73851), example: e 101 LATIN SMALL LETTER E (10491)
+* `Grek` (3318 = 100%), example: α 945 GREEK SMALL LETTER ALPHA (373)
+* `Latn` (12 = 0%), example: e 101 LATIN SMALL LETTER E (2)
 
-## gsw_uzh
+## Guajajara: gub_tudet
 
-* `Latn` (5824), example: e 101 LATIN SMALL LETTER E (612)
+* `Latn` (35420 = 100%), example: a 97 LATIN SMALL LETTER A (5013)
 
-## gu_gujtb
+## Guarani: gn_oldtudet
 
-* `Gujr` (4205), example: ર 2736 GUJARATI LETTER RA (411)
-* `Latn` (26), example: I 73 LATIN CAPITAL LETTER I (5)
+* `Latn` (1199 = 100%), example: a 97 LATIN SMALL LETTER A (189)
 
-## gub_tudet
+## Gujarati: gu_gujtb
 
-* `Latn` (35420), example: a 97 LATIN SMALL LETTER A (5013)
+* `Gujr` (4205 = 99%), example: ર 2736 GUJARATI LETTER RA (411)
+* `Latn` (26 = 1%), example: I 73 LATIN CAPITAL LETTER I (5)
 
-## gun_thomas
+## Gwichin: gwi_tuecl
 
-* `Latn` (5116), example: a 97 LATIN SMALL LETTER A (743)
+* `Latn` (4276 = 100%), example: i 105 LATIN SMALL LETTER I (626)
 
-## gv_cadhan
+## Haitian Creole: ht_adolphe
 
-* `Latn` (64480), example: e 101 LATIN SMALL LETTER E (9622)
+* `Latn` (232541 = 100%), example: n 110 LATIN SMALL LETTER N (28450)
 
-## gwi_tuecl
+## Haitian Creole: ht_autogramm
 
-* `Latn` (4276), example: i 105 LATIN SMALL LETTER I (626)
+* `Latn` (11676 = 100%), example: a 97 LATIN SMALL LETTER A (1416)
 
-## gya_autogramm
+## Hausa: ha_easternautogramm
 
-* `Latn` (8255), example: á 225 LATIN SMALL LETTER A WITH ACUTE (796)
+* `Latn` (37555 = 90%), example: à 224 LATIN SMALL LETTER A WITH GRAVE (4847)
+* `Zyyy` (4399 = 10%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (4398)
 
-## ha_easternautogramm
+## Hausa: ha_northernautogramm
 
-* `Latn` (37555), example: à 224 LATIN SMALL LETTER A WITH GRAVE (4847)
-* `Zyyy` (4399), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (4398)
+* `Latn` (46838 = 88%), example: a 97 LATIN SMALL LETTER A (7303)
+* `Zyyy` (6476 = 12%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (6476)
 
-## ha_northernautogramm
+## Hausa: ha_southernautogramm
 
-* `Latn` (46838), example: a 97 LATIN SMALL LETTER A (7303)
-* `Zyyy` (6476), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (6476)
+* `Latn` (40980 = 86%), example: a 97 LATIN SMALL LETTER A (6194)
+* `Zyyy` (6547 = 14%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (6496)
 
-## ha_southernautogramm
+## Hausa: ha_westernautogramm
 
-* `Latn` (40980), example: a 97 LATIN SMALL LETTER A (6194)
-* `Zyyy` (6547), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (6496)
+* `Latn` (42085 = 88%), example: a 97 LATIN SMALL LETTER A (6008)
+* `Zyyy` (5728 = 12%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (5728)
 
-## ha_westernautogramm
+## Hebrew: he_htb
 
-* `Latn` (42085), example: a 97 LATIN SMALL LETTER A (6008)
-* `Zyyy` (5728), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (5728)
+* `Hebr` (438399 = 100%), example: י 1497 HEBREW LETTER YOD (50695)
 
-## hbo_ptnk
+## Hebrew: he_iahltknesset
 
-* `Hebr` (310519), example: י 1497 HEBREW LETTER YOD (32136)
+* `Hebr` (181772 = 100%), example: י 1497 HEBREW LETTER YOD (20520)
+* `Latn` (115 = 0%), example: e 101 LATIN SMALL LETTER E (16)
 
-## he_htb
+## Hebrew: he_iahltwiki
 
-* `Hebr` (438399), example: י 1497 HEBREW LETTER YOD (50695)
+* `Hebr` (398045 = 99%), example: י 1497 HEBREW LETTER YOD (47127)
+* `Latn` (2225 = 1%), example: e 101 LATIN SMALL LETTER E (184)
+* `Arab` (45 = 0%), example: ا 1575 ARABIC LETTER ALEF (7)
+* `Cyrl` (25 = 0%), example: о 1086 CYRILLIC SMALL LETTER O (5)
+* `Grek` (17 = 0%), example: ς 962 GREEK SMALL LETTER FINAL SIGMA (3)
 
-## he_iahltknesset
+## Hebrew: he_postrab
 
-* `Hebr` (181772), example: י 1497 HEBREW LETTER YOD (20520)
-* `Latn` (115), example: e 101 LATIN SMALL LETTER E (16)
+* `Hebr` (21600 = 100%), example: ו 1493 HEBREW LETTER VAV (2648)
 
-## he_iahltwiki
+## Highland Puebla Nahuatl: azz_itml
 
-* `Hebr` (398045), example: י 1497 HEBREW LETTER YOD (47127)
-* `Latn` (2225), example: e 101 LATIN SMALL LETTER E (184)
-* `Arab` (45), example: ا 1575 ARABIC LETTER ALEF (7)
-* `Cyrl` (25), example: о 1086 CYRILLIC SMALL LETTER O (5)
-* `Grek` (17), example: ς 962 GREEK SMALL LETTER FINAL SIGMA (3)
+* `Latn` (42376 = 100%), example: a 97 LATIN SMALL LETTER A (5733)
 
-## he_postrab
+## Hindi: hi_hdtb
 
-* `Hebr` (21600), example: ו 1493 HEBREW LETTER VAV (2648)
+* `Deva` (799358 = 100%), example: क 2325 DEVANAGARI LETTER KA (99264)
+* `Latn` (392 = 0%), example: I 73 LATIN CAPITAL LETTER I (98)
 
-## hi_hdtb
+## Hindi: hi_pud
 
-* `Deva` (799358), example: क 2325 DEVANAGARI LETTER KA (99264)
-* `Latn` (392), example: I 73 LATIN CAPITAL LETTER I (98)
+* `Deva` (53120 = 100%), example: क 2325 DEVANAGARI LETTER KA (6404)
+* `Latn` (153 = 0%), example: o 111 LATIN SMALL LETTER O (12)
 
-## hi_pud
+## Hittite: hit_hittb
 
-* `Deva` (53120), example: क 2325 DEVANAGARI LETTER KA (6404)
-* `Latn` (153), example: o 111 LATIN SMALL LETTER O (12)
+* `Latn` (6593 = 100%), example: a 97 LATIN SMALL LETTER A (1309)
 
-## hit_hittb
+## Hungarian: hu_szeged
 
-* `Latn` (6593), example: a 97 LATIN SMALL LETTER A (1309)
+* `Latn` (226335 = 100%), example: e 101 LATIN SMALL LETTER E (21834)
 
-## hr_set
+## Icelandic: is_gc
 
-* `Latn` (961419), example: a 97 LATIN SMALL LETTER A (107016)
+* `Latn` (463589 = 100%), example: a 97 LATIN SMALL LETTER A (45465)
 
-## hsb_ufal
+## Icelandic: is_icepahc
 
-* `Latn` (52174), example: a 97 LATIN SMALL LETTER A (4969)
-* `Cyrl` (26), example: е 1077 CYRILLIC SMALL LETTER IE (3)
-* `Arab` (24), example: ا 1575 ARABIC LETTER ALEF (4)
-* `Grek` (11), example: α 945 GREEK SMALL LETTER ALPHA (2)
-* `Syrc` (8), example: ܝ 1821 SYRIAC LETTER YUDH (2)
-* `Knda` (5), example: ಕ 3221 KANNADA LETTER KA (2)
+* `Latn` (3839598 = 100%), example: a 97 LATIN SMALL LETTER A (358118)
+* `Grek` (2 = 0%), example: Ω 937 GREEK CAPITAL LETTER OMEGA (1)
+* `Hebr` (2 = 0%), example: ד 1491 HEBREW LETTER DALET (1)
 
-## ht_adolphe
+## Icelandic: is_modern
 
-* `Latn` (232541), example: n 110 LATIN SMALL LETTER N (28450)
+* `Latn` (344706 = 100%), example: a 97 LATIN SMALL LETTER A (35226)
 
-## ht_autogramm
+## Icelandic: is_pud
 
-* `Latn` (11676), example: a 97 LATIN SMALL LETTER A (1416)
+* `Latn` (89230 = 100%), example: a 97 LATIN SMALL LETTER A (8801)
 
-## hu_szeged
+## Ika: arh_chibergis
 
-* `Latn` (226335), example: e 101 LATIN SMALL LETTER E (21834)
+* `Latn` (18312 = 100%), example: n 110 LATIN SMALL LETTER N (2714)
 
-## hy_armtdp
+## Indonesian: id_csui
 
-* `Armn` (524199), example: ա 1377 ARMENIAN SMALL LETTER AYB (79081)
-* `Latn` (611), example: a 97 LATIN SMALL LETTER A (46)
+* `Latn` (139034 = 100%), example: a 97 LATIN SMALL LETTER A (24151)
 
-## hy_bsut
+## Indonesian: id_gsd
 
-* `Armn` (226920), example: ա 1377 ARMENIAN SMALL LETTER AYB (34902)
-* `Latn` (665), example: a 97 LATIN SMALL LETTER A (61)
+* `Latn` (599890 = 100%), example: a 97 LATIN SMALL LETTER A (112791)
+* `Arab` (59 = 0%), example: ا 1575 ARABIC LETTER ALEF (10)
+* `Hani` (47 = 0%), example: 碁 30849 CJK UNIFIED IDEOGRAPH-7881 (2)
+* `Hira` (24 = 0%), example: い 12356 HIRAGANA LETTER I (3)
+* `Hebr` (19 = 0%), example: י 1497 HEBREW LETTER YOD (5)
+* `Grek` (17 = 0%), example: δ 948 GREEK SMALL LETTER DELTA (2)
+* `Hang` (12 = 0%), example: 도 46020 HANGUL SYLLABLE DO (1)
+* `Cyrl` (11 = 0%), example: А 1040 CYRILLIC CAPITAL LETTER A (2)
+* `Kana` (9 = 0%), example: ァ 12449 KATAKANA LETTER SMALL A (1)
+* `Zyyy` (3 = 0%), example: ʿ 703 MODIFIER LETTER LEFT HALF RING (3)
 
-## hyw_armtdp
+## Indonesian: id_pud
 
-* `Armn` (583747), example: ա 1377 ARMENIAN SMALL LETTER AYB (85927)
-* `Latn` (1420), example: e 101 LATIN SMALL LETTER E (172)
-* `Grek` (5), example: θ 952 GREEK SMALL LETTER THETA (1)
+* `Latn` (99408 = 100%), example: a 97 LATIN SMALL LETTER A (18292)
 
-## id_csui
+## Irish: ga_cadhan
 
-* `Latn` (139034), example: a 97 LATIN SMALL LETTER A (24151)
+* `Latn` (18962 = 100%), example: a 97 LATIN SMALL LETTER A (2851)
 
-## id_gsd
+## Irish: ga_idt
 
-* `Latn` (599890), example: a 97 LATIN SMALL LETTER A (112791)
-* `Arab` (59), example: ا 1575 ARABIC LETTER ALEF (10)
-* `Hani` (47), example: 碁 30849 CJK UNIFIED IDEOGRAPH-7881 (2)
-* `Hira` (24), example: い 12356 HIRAGANA LETTER I (3)
-* `Hebr` (19), example: י 1497 HEBREW LETTER YOD (5)
-* `Grek` (17), example: δ 948 GREEK SMALL LETTER DELTA (2)
-* `Hang` (12), example: 도 46020 HANGUL SYLLABLE DO (1)
-* `Cyrl` (11), example: А 1040 CYRILLIC CAPITAL LETTER A (2)
-* `Kana` (9), example: ァ 12449 KATAKANA LETTER SMALL A (1)
-* `Zyyy` (3), example: ʿ 703 MODIFIER LETTER LEFT HALF RING (3)
+* `Latn` (499134 = 100%), example: a 97 LATIN SMALL LETTER A (78395)
 
-## id_pud
+## Irish: ga_twittirish
 
-* `Latn` (99408), example: a 97 LATIN SMALL LETTER A (18292)
+* `Latn` (190315 = 100%), example: a 97 LATIN SMALL LETTER A (23350)
+* `Hira` (27 = 0%), example: す 12377 HIRAGANA LETTER SU (3)
+* `Hani` (18 = 0%), example: 出 20986 CJK UNIFIED IDEOGRAPH-51FA (2)
+* `Kana` (14 = 0%), example: ア 12450 KATAKANA LETTER A (3)
+* `Cyrl` (4 = 0%), example: Р 1056 CYRILLIC CAPITAL LETTER ER (1)
+* `Zyyy` (3 = 0%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (1)
+* `Hang` (1 = 0%), example: ㅅ 12613 HANGUL LETTER SIOS (1)
 
-## is_gc
+## Italian: it_isdt
 
-* `Latn` (463589), example: a 97 LATIN SMALL LETTER A (45465)
+* `Latn` (1241590 = 100%), example: i 105 LATIN SMALL LETTER I (141032)
+* `Hani` (8 = 0%), example: 山 23665 CJK UNIFIED IDEOGRAPH-5C71 (2)
+* `Zyyy` (3 = 0%), example: µ 181 MICRO SIGN (3)
+* `Hira` (1 = 0%), example: の 12398 HIRAGANA LETTER NO (1)
+* `Kana` (1 = 0%), example: ノ 12494 KATAKANA LETTER NO (1)
 
-## is_icepahc
+## Italian: it_kiparlaforest
 
-* `Latn` (3839598), example: a 97 LATIN SMALL LETTER A (358118)
-* `Grek` (2), example: Ω 937 GREEK CAPITAL LETTER OMEGA (1)
-* `Hebr` (2), example: ד 1491 HEBREW LETTER DALET (1)
+* `Latn` (77629 = 100%), example: e 101 LATIN SMALL LETTER E (8445)
 
-## is_modern
+## Italian: it_markit
 
-* `Latn` (344706), example: a 97 LATIN SMALL LETTER A (35226)
+* `Latn` (168541 = 100%), example: e 101 LATIN SMALL LETTER E (19860)
 
-## is_pud
+## Italian: it_old
 
-* `Latn` (89230), example: a 97 LATIN SMALL LETTER A (8801)
+* `Latn` (402809 = 100%), example: e 101 LATIN SMALL LETTER E (46168)
 
-## it_isdt
+## Italian: it_parlamint
 
-* `Latn` (1241590), example: i 105 LATIN SMALL LETTER I (141032)
-* `Hani` (8), example: 山 23665 CJK UNIFIED IDEOGRAPH-5C71 (2)
-* `Zyyy` (3), example: µ 181 MICRO SIGN (3)
-* `Hira` (1), example: の 12398 HIRAGANA LETTER NO (1)
-* `Kana` (1), example: ノ 12494 KATAKANA LETTER NO (1)
+* `Latn` (89588 = 100%), example: e 101 LATIN SMALL LETTER E (11052)
 
-## it_kiparlaforest
+## Italian: it_partut
 
-* `Latn` (77629), example: e 101 LATIN SMALL LETTER E (8445)
+* `Latn` (245624 = 100%), example: e 101 LATIN SMALL LETTER E (29696)
 
-## it_markit
+## Italian: it_postwita
 
-* `Latn` (168541), example: e 101 LATIN SMALL LETTER E (19860)
+* `Latn` (513937 = 100%), example: o 111 LATIN SMALL LETTER O (51675)
+* `Knda` (2 = 0%), example: ಠ 3232 KANNADA LETTER TTHA (2)
 
-## it_old
+## Italian: it_pud
 
-* `Latn` (402809), example: e 101 LATIN SMALL LETTER E (46168)
+* `Latn` (101518 = 100%), example: e 101 LATIN SMALL LETTER E (11528)
 
-## it_parlamint
+## Italian: it_twittiro
 
-* `Latn` (89588), example: e 101 LATIN SMALL LETTER E (11052)
+* `Latn` (119001 = 100%), example: a 97 LATIN SMALL LETTER A (13002)
 
-## it_partut
+## Italian: it_valico
 
-* `Latn` (245624), example: e 101 LATIN SMALL LETTER E (29696)
+* `Latn` (25212 = 100%), example: a 97 LATIN SMALL LETTER A (3490)
 
-## it_postwita
+## Italian: it_vit
 
-* `Latn` (513937), example: o 111 LATIN SMALL LETTER O (51675)
-* `Knda` (2), example: ಠ 3232 KANNADA LETTER TTHA (2)
+* `Latn` (1181940 = 100%), example: i 105 LATIN SMALL LETTER I (140084)
 
-## it_pud
+## Japanese: ja_gsd
 
-* `Latn` (101518), example: e 101 LATIN SMALL LETTER E (11528)
+* `Hira` (131667 = 46%), example: の 12398 HIRAGANA LETTER NO (11097)
+* `Hani` (108332 = 38%), example: 年 24180 CJK UNIFIED IDEOGRAPH-5E74 (1340)
+* `Kana` (39081 = 14%), example: ン 12531 KATAKANA LETTER N (3042)
+* `Latn` (5108 = 2%), example: A 65 LATIN CAPITAL LETTER A (251)
+* `Zyyy` (4515 = 2%), example: ー 12540 KATAKANA-HIRAGANA PROLONGED SOUND MARK (4515)
+* `Grek` (10 = 0%), example: Ζ 918 GREEK CAPITAL LETTER ZETA (2)
+* `Arab` (3 = 0%), example: ك 1603 ARABIC LETTER KAF (1)
 
-## it_twittiro
+## Japanese: ja_gsdluw
 
-* `Latn` (119001), example: a 97 LATIN SMALL LETTER A (13002)
+* `Hira` (131667 = 46%), example: の 12398 HIRAGANA LETTER NO (11097)
+* `Hani` (108332 = 38%), example: 年 24180 CJK UNIFIED IDEOGRAPH-5E74 (1340)
+* `Kana` (39081 = 14%), example: ン 12531 KATAKANA LETTER N (3042)
+* `Latn` (5108 = 2%), example: A 65 LATIN CAPITAL LETTER A (251)
+* `Zyyy` (4515 = 2%), example: ー 12540 KATAKANA-HIRAGANA PROLONGED SOUND MARK (4515)
+* `Grek` (10 = 0%), example: Ζ 918 GREEK CAPITAL LETTER ZETA (2)
+* `Arab` (3 = 0%), example: ك 1603 ARABIC LETTER KAF (1)
 
-## it_valico
+## Japanese: ja_pud
 
-* `Latn` (25212), example: a 97 LATIN SMALL LETTER A (3490)
+* `Hira` (19586 = 45%), example: の 12398 HIRAGANA LETTER NO (2016)
+* `Hani` (14363 = 33%), example: 年 24180 CJK UNIFIED IDEOGRAPH-5E74 (240)
+* `Kana` (8117 = 19%), example: ン 12531 KATAKANA LETTER N (685)
+* `Zyyy` (796 = 2%), example: ー 12540 KATAKANA-HIRAGANA PROLONGED SOUND MARK (796)
+* `Latn` (764 = 2%), example: e 101 LATIN SMALL LETTER E (65)
 
-## it_vit
+## Japanese: ja_pudluw
 
-* `Latn` (1181940), example: i 105 LATIN SMALL LETTER I (140084)
+* `Hira` (19586 = 45%), example: の 12398 HIRAGANA LETTER NO (2016)
+* `Hani` (14363 = 33%), example: 年 24180 CJK UNIFIED IDEOGRAPH-5E74 (240)
+* `Kana` (8117 = 19%), example: ン 12531 KATAKANA LETTER N (685)
+* `Zyyy` (796 = 2%), example: ー 12540 KATAKANA-HIRAGANA PROLONGED SOUND MARK (796)
+* `Latn` (764 = 2%), example: e 101 LATIN SMALL LETTER E (65)
 
-## ja_gsd
+## Javanese: jv_csui
 
-* `Hira` (131667), example: の 12398 HIRAGANA LETTER NO (11097)
-* `Hani` (108332), example: 年 24180 CJK UNIFIED IDEOGRAPH-5E74 (1340)
-* `Kana` (39081), example: ン 12531 KATAKANA LETTER N (3042)
-* `Latn` (5108), example: A 65 LATIN CAPITAL LETTER A (251)
-* `Zyyy` (4515), example: ー 12540 KATAKANA-HIRAGANA PROLONGED SOUND MARK (4515)
-* `Grek` (10), example: Ζ 918 GREEK CAPITAL LETTER ZETA (2)
-* `Arab` (3), example: ك 1603 ARABIC LETTER KAF (1)
+* `Latn` (63995 = 100%), example: a 97 LATIN SMALL LETTER A (11119)
+* `Hani` (8 = 0%), example: 三 19977 CJK UNIFIED IDEOGRAPH-4E09 (1)
 
-## ja_gsdluw
+## Kaapor: urb_tudet
 
-* `Hira` (131667), example: の 12398 HIRAGANA LETTER NO (11097)
-* `Hani` (108332), example: 年 24180 CJK UNIFIED IDEOGRAPH-5E74 (1340)
-* `Kana` (39081), example: ン 12531 KATAKANA LETTER N (3042)
-* `Latn` (5108), example: A 65 LATIN CAPITAL LETTER A (251)
-* `Zyyy` (4515), example: ー 12540 KATAKANA-HIRAGANA PROLONGED SOUND MARK (4515)
-* `Grek` (10), example: Ζ 918 GREEK CAPITAL LETTER ZETA (2)
-* `Arab` (3), example: ك 1603 ARABIC LETTER KAF (1)
+* `Latn` (1550 = 100%), example: a 97 LATIN SMALL LETTER A (204)
 
-## ja_pud
+## Kadiweu: kbc_unicamp
 
-* `Hira` (19586), example: の 12398 HIRAGANA LETTER NO (2016)
-* `Hani` (14363), example: 年 24180 CJK UNIFIED IDEOGRAPH-5E74 (240)
-* `Kana` (8117), example: ン 12531 KATAKANA LETTER N (685)
-* `Zyyy` (796), example: ー 12540 KATAKANA-HIRAGANA PROLONGED SOUND MARK (796)
-* `Latn` (764), example: e 101 LATIN SMALL LETTER E (65)
+* `Latn` (1540 = 100%), example: i 105 LATIN SMALL LETTER I (384)
 
-## ja_pudluw
+## Kangri: xnr_kdtb
 
-* `Hira` (19586), example: の 12398 HIRAGANA LETTER NO (2016)
-* `Hani` (14363), example: 年 24180 CJK UNIFIED IDEOGRAPH-5E74 (240)
-* `Kana` (8117), example: ン 12531 KATAKANA LETTER N (685)
-* `Zyyy` (796), example: ー 12540 KATAKANA-HIRAGANA PROLONGED SOUND MARK (796)
-* `Latn` (764), example: e 101 LATIN SMALL LETTER E (65)
+* `Deva` (5153 = 100%), example: ह 2361 DEVANAGARI LETTER HA (440)
 
-## jaa_jarawara
+## Karelian: krl_kkpp
 
-* `Latn` (407), example: a 97 LATIN SMALL LETTER A (108)
+* `Latn` (16682 = 100%), example: i 105 LATIN SMALL LETTER I (1976)
 
-## jv_csui
+## Karo: arr_tudet
 
-* `Latn` (63995), example: a 97 LATIN SMALL LETTER A (11119)
-* `Hani` (8), example: 三 19977 CJK UNIFIED IDEOGRAPH-4E09 (1)
+* `Latn` (9469 = 100%), example: a 97 LATIN SMALL LETTER A (1450)
 
-## ka_glc
+## Kazakh: kk_ktb
 
-* `Geor` (358979), example: ა 4304 GEORGIAN LETTER AN (47061)
-* `Latn` (2527), example: X 88 LATIN CAPITAL LETTER X (233)
-* `Grek` (494), example: ο 959 GREEK SMALL LETTER OMICRON (60)
-* `Armn` (12), example: մ 1396 ARMENIAN SMALL LETTER MEN (2)
-* `Hani` (12), example: 平 24179 CJK UNIFIED IDEOGRAPH-5E73 (2)
-* `Cyrl` (3), example: С 1057 CYRILLIC CAPITAL LETTER ES (2)
-* `Zyyy` (1), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (1)
+* `Cyrl` (50997 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (6362)
+* `Latn` (15 = 0%), example: I 73 LATIN CAPITAL LETTER I (9)
 
-## ka_gnc
+## Khoekhoe: naq_kdt
 
-* `Geor` (110965), example: ა 4304 GEORGIAN LETTER AN (17756)
-* `Latn` (6), example: o 111 LATIN SMALL LETTER O (3)
+* `Latn` (89221 = 100%), example: a 97 LATIN SMALL LETTER A (13943)
 
-## kbc_unicamp
+## Kiche: quc_iu
 
-* `Latn` (1540), example: i 105 LATIN SMALL LETTER I (384)
+* `Latn` (32118 = 91%), example: a 97 LATIN SMALL LETTER A (4751)
+* `Zyyy` (3004 = 9%), example: ʼ 700 MODIFIER LETTER APOSTROPHE (3004)
 
-## kk_ktb
+## Komi Permyak: koi_uh
 
-* `Cyrl` (50997), example: а 1072 CYRILLIC SMALL LETTER A (6362)
-* `Latn` (15), example: I 73 LATIN CAPITAL LETTER I (9)
+* `Cyrl` (4405 = 97%), example: с 1089 CYRILLIC SMALL LETTER ES (371)
+* `Latn` (141 = 3%), example: ö 246 LATIN SMALL LETTER O WITH DIAERESIS (118)
 
-## kmr_kurmanji
+## Komi Zyrian: kpv_ikdp
 
-* `Latn` (37072), example: e 101 LATIN SMALL LETTER E (4344)
-* `Grek` (15), example: λ 955 GREEK SMALL LETTER LAMDA (3)
-* `Arab` (1), example: ل 1604 ARABIC LETTER LAM (1)
+* `Cyrl` (9179 = 100%), example: с 1089 CYRILLIC SMALL LETTER ES (761)
+* `Latn` (2 = 0%), example: x 120 LATIN SMALL LETTER X (2)
 
-## ko_gsd
+## Komi Zyrian: kpv_lattice
 
-* `Hang` (203616), example: 이 51060 HANGUL SYLLABLE I (6540)
-* `Latn` (4567), example: e 101 LATIN SMALL LETTER E (242)
-* `Hani` (594), example: 子 23376 CJK UNIFIED IDEOGRAPH-5B50 (5)
-* `Zyyy` (4), example: ℓ 8467 SCRIPT SMALL L (4)
-* `Grek` (1), example: ρ 961 GREEK SMALL LETTER RHO (1)
-* `Hira` (1), example: の 12398 HIRAGANA LETTER NO (1)
+* `Cyrl` (36832 = 100%), example: с 1089 CYRILLIC SMALL LETTER ES (3260)
+* `Latn` (44 = 0%), example: a 97 LATIN SMALL LETTER A (21)
 
-## ko_kaist
+## Korean: ko_gsd
 
-* `Hang` (942319), example: 이 51060 HANGUL SYLLABLE I (36744)
-* `Latn` (4685), example: e 101 LATIN SMALL LETTER E (358)
-* `Hani` (1844), example: 山 23665 CJK UNIFIED IDEOGRAPH-5C71 (29)
+* `Hang` (203616 = 98%), example: 이 51060 HANGUL SYLLABLE I (6540)
+* `Latn` (4567 = 2%), example: e 101 LATIN SMALL LETTER E (242)
+* `Hani` (594 = 0%), example: 子 23376 CJK UNIFIED IDEOGRAPH-5B50 (5)
+* `Zyyy` (4 = 0%), example: ℓ 8467 SCRIPT SMALL L (4)
+* `Grek` (1 = 0%), example: ρ 961 GREEK SMALL LETTER RHO (1)
+* `Hira` (1 = 0%), example: の 12398 HIRAGANA LETTER NO (1)
 
-## ko_ksl
+## Korean: ko_kaist
 
-* `Hang` (390740), example: 다 45796 HANGUL SYLLABLE DA (19420)
-* `Latn` (1622), example: C 67 LATIN CAPITAL LETTER C (143)
-* `Hani` (5), example: 力 21147 CJK UNIFIED IDEOGRAPH-529B (2)
+* `Hang` (942319 = 99%), example: 이 51060 HANGUL SYLLABLE I (36744)
+* `Latn` (4685 = 0%), example: e 101 LATIN SMALL LETTER E (358)
+* `Hani` (1844 = 0%), example: 山 23665 CJK UNIFIED IDEOGRAPH-5C71 (29)
 
-## ko_littleprince
+## Korean: ko_ksl
 
-* `Hang` (29127), example: 다 45796 HANGUL SYLLABLE DA (1133)
+* `Hang` (390740 = 100%), example: 다 45796 HANGUL SYLLABLE DA (19420)
+* `Latn` (1622 = 0%), example: C 67 LATIN CAPITAL LETTER C (143)
+* `Hani` (5 = 0%), example: 力 21147 CJK UNIFIED IDEOGRAPH-529B (2)
 
-## ko_pud
+## Korean: ko_littleprince
 
-* `Hang` (38711), example: 이 51060 HANGUL SYLLABLE I (1333)
-* `Latn` (1172), example: e 101 LATIN SMALL LETTER E (91)
+* `Hang` (29127 = 100%), example: 다 45796 HANGUL SYLLABLE DA (1133)
 
-## koi_uh
+## Korean: ko_pud
 
-* `Cyrl` (4405), example: с 1089 CYRILLIC SMALL LETTER ES (371)
-* `Latn` (141), example: ö 246 LATIN SMALL LETTER O WITH DIAERESIS (118)
+* `Hang` (38711 = 97%), example: 이 51060 HANGUL SYLLABLE I (1333)
+* `Latn` (1172 = 3%), example: e 101 LATIN SMALL LETTER E (91)
 
-## kpv_ikdp
+## Kyrgyz: ky_ktmu
 
-* `Cyrl` (9179), example: с 1089 CYRILLIC SMALL LETTER ES (761)
-* `Latn` (2), example: x 120 LATIN SMALL LETTER X (2)
+* `Cyrl` (139415 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (16906)
+* `Latn` (379 = 0%), example: I 73 LATIN CAPITAL LETTER I (46)
 
-## kpv_lattice
+## Kyrgyz: ky_tuecl
 
-* `Cyrl` (36832), example: с 1089 CYRILLIC SMALL LETTER ES (3260)
-* `Latn` (44), example: a 97 LATIN SMALL LETTER A (21)
+* `Cyrl` (5512 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (619)
+* `Latn` (1 = 0%), example: y 121 LATIN SMALL LETTER Y (1)
 
-## krl_kkpp
+## Latgalian: ltg_cairo
 
-* `Latn` (16682), example: i 105 LATIN SMALL LETTER I (1976)
+* `Latn` (690 = 100%), example: a 97 LATIN SMALL LETTER A (80)
 
-## ky_ktmu
+## Latin: la_circse
 
-* `Cyrl` (139415), example: а 1072 CYRILLIC SMALL LETTER A (16906)
-* `Latn` (379), example: I 73 LATIN CAPITAL LETTER I (46)
+* `Latn` (158720 = 100%), example: e 101 LATIN SMALL LETTER E (18638)
 
-## ky_tuecl
+## Latin: la_ittb
 
-* `Cyrl` (5512), example: а 1072 CYRILLIC SMALL LETTER A (619)
-* `Latn` (1), example: y 121 LATIN SMALL LETTER Y (1)
+* `Latn` (2204065 = 100%), example: i 105 LATIN SMALL LETTER I (259333)
 
-## la_circse
+## Latin: la_llct
 
-* `Latn` (158720), example: e 101 LATIN SMALL LETTER E (18638)
+* `Latn` (1154590 = 100%), example: i 105 LATIN SMALL LETTER I (135824)
 
-## la_ittb
+## Latin: la_perseus
 
-* `Latn` (2204065), example: i 105 LATIN SMALL LETTER I (259333)
+* `Latn` (140605 = 100%), example: e 101 LATIN SMALL LETTER E (16382)
 
-## la_llct
+## Latin: la_proiel
 
-* `Latn` (1154590), example: i 105 LATIN SMALL LETTER I (135824)
+* `Latn` (1102601 = 100%), example: e 101 LATIN SMALL LETTER E (134512)
+* `Grek` (3275 = 0%), example: ο 959 GREEK SMALL LETTER OMICRON (249)
 
-## la_perseus
+## Latin: la_udante
 
-* `Latn` (140605), example: e 101 LATIN SMALL LETTER E (16382)
+* `Latn` (267433 = 100%), example: i 105 LATIN SMALL LETTER I (30629)
 
-## la_proiel
+## Latvian: lv_cairo
 
-* `Latn` (1102601), example: e 101 LATIN SMALL LETTER E (134512)
-* `Grek` (3275), example: ο 959 GREEK SMALL LETTER OMICRON (249)
+* `Latn` (688 = 100%), example: a 97 LATIN SMALL LETTER A (91)
 
-## la_udante
+## Latvian: lv_lvtb
 
-* `Latn` (267433), example: i 105 LATIN SMALL LETTER I (30629)
+* `Latn` (1601056 = 100%), example: a 97 LATIN SMALL LETTER A (178544)
+* `Cyrl` (24 = 0%), example: и 1080 CYRILLIC SMALL LETTER I (4)
+* `Grek` (2 = 0%), example: α 945 GREEK SMALL LETTER ALPHA (1)
 
-## lb_luxbank
+## Ligurian: lij_glt
 
-* `Latn` (736), example: e 101 LATIN SMALL LETTER E (106)
+* `Latn` (21070 = 100%), example: e 101 LATIN SMALL LETTER E (2447)
 
-## lij_glt
+## Lithuanian: lt_alksnis
 
-* `Latn` (21070), example: e 101 LATIN SMALL LETTER E (2447)
+* `Latn` (371954 = 100%), example: i 105 LATIN SMALL LETTER I (50453)
 
-## lt_alksnis
+## Lithuanian: lt_hse
 
-* `Latn` (371954), example: i 105 LATIN SMALL LETTER I (50453)
+* `Latn` (26568 = 100%), example: i 105 LATIN SMALL LETTER I (3653)
 
-## lt_hse
+## Livvi: olo_kkpp
 
-* `Latn` (26568), example: i 105 LATIN SMALL LETTER I (3653)
+* `Latn` (8228 = 100%), example: i 105 LATIN SMALL LETTER I (971)
 
-## ltg_cairo
+## Low Saxon: nds_lsdc
 
-* `Latn` (690), example: a 97 LATIN SMALL LETTER A (80)
+* `Latn` (79147 = 100%), example: e 101 LATIN SMALL LETTER E (13551)
 
-## lv_cairo
+## Luxembourgish: lb_luxbank
 
-* `Latn` (688), example: a 97 LATIN SMALL LETTER A (91)
+* `Latn` (736 = 100%), example: e 101 LATIN SMALL LETTER E (106)
 
-## lv_lvtb
+## Macedonian: mk_mtb
 
-* `Latn` (1601056), example: a 97 LATIN SMALL LETTER A (178544)
-* `Cyrl` (24), example: и 1080 CYRILLIC SMALL LETTER I (4)
-* `Grek` (2), example: α 945 GREEK SMALL LETTER ALPHA (1)
+* `Cyrl` (5069 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (736)
+* `Latn` (2 = 0%), example: è 232 LATIN SMALL LETTER E WITH GRAVE (2)
 
-## lzh_kyoto
+## Madi: jaa_jarawara
 
-* `Hani` (448890), example: 之 20043 CJK UNIFIED IDEOGRAPH-4E4B (16110)
+* `Latn` (407 = 100%), example: a 97 LATIN SMALL LETTER A (108)
 
-## lzh_tuecl
+## Maghrebi Arabic French: qaf_arabizi
 
-* `Hani` (665), example: 之 20043 CJK UNIFIED IDEOGRAPH-4E4B (31)
+* `Latn` (85267 = 100%), example: a 97 LATIN SMALL LETTER A (15640)
+* `Arab` (103 = 0%), example: ا 1575 ARABIC LETTER ALEF (15)
 
-## mdf_jr
+## Makurap: mpu_tudet
 
-* `Cyrl` (21735), example: а 1072 CYRILLIC SMALL LETTER A (2670)
-* `Latn` (2), example: c 99 LATIN SMALL LETTER C (2)
+* `Latn` (735 = 100%), example: e 101 LATIN SMALL LETTER E (95)
 
-## mk_mtb
+## Malayalam: ml_ufal
 
-* `Cyrl` (5069), example: а 1072 CYRILLIC SMALL LETTER A (736)
-* `Latn` (2), example: è 232 LATIN SMALL LETTER E WITH GRAVE (2)
+* `Mlym` (9102 = 100%), example: ക 3349 MALAYALAM LETTER KA (952)
 
-## ml_ufal
+## Maltese: mt_mudt
 
-* `Mlym` (9102), example: ക 3349 MALAYALAM LETTER KA (952)
+* `Latn` (188123 = 100%), example: i 105 LATIN SMALL LETTER I (22208)
 
-## mpu_tudet
+## Manx: gv_cadhan
 
-* `Latn` (735), example: e 101 LATIN SMALL LETTER E (95)
+* `Latn` (64480 = 100%), example: e 101 LATIN SMALL LETTER E (9622)
 
-## mr_cmupan
+## Marathi: mr_cmupan
 
-* `Deva` (366603), example: र 2352 DEVANAGARI LETTER RA (36178)
-* `Latn` (99), example: a 97 LATIN SMALL LETTER A (8)
+* `Deva` (366603 = 100%), example: र 2352 DEVANAGARI LETTER RA (36178)
+* `Latn` (99 = 0%), example: a 97 LATIN SMALL LETTER A (8)
 
-## mr_ufal
+## Marathi: mr_ufal
 
-* `Deva` (7997), example: त 2340 DEVANAGARI LETTER TA (910)
+* `Deva` (7997 = 100%), example: त 2340 DEVANAGARI LETTER TA (910)
 
-## mt_mudt
+## Mbya Guarani: gun_thomas
 
-* `Latn` (188123), example: i 105 LATIN SMALL LETTER I (22208)
+* `Latn` (5116 = 100%), example: a 97 LATIN SMALL LETTER A (743)
 
-## myu_tudet
+## Middle Armenian: axm_armtdp
 
-* `Latn` (3876), example: a 97 LATIN SMALL LETTER A (499)
+* `Armn` (3568 = 100%), example: ա 1377 ARMENIAN SMALL LETTER AYB (482)
 
-## myv_jr
+## Middle French: frm_altm
 
-* `Cyrl` (97255), example: а 1072 CYRILLIC SMALL LETTER A (8605)
+* `Latn` (27192 = 100%), example: e 101 LATIN SMALL LETTER E (4474)
 
-## nap_rb
+## Middle French: frm_profiterole
 
-* `Latn` (746), example: a 97 LATIN SMALL LETTER A (82)
+* `Latn` (452439 = 100%), example: e 101 LATIN SMALL LETTER E (74639)
 
-## naq_kdt
+## Moksha: mdf_jr
 
-* `Latn` (89221), example: a 97 LATIN SMALL LETTER A (13943)
+* `Cyrl` (21735 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (2670)
+* `Latn` (2 = 0%), example: c 99 LATIN SMALL LETTER C (2)
 
-## nds_lsdc
+## Munduruku: myu_tudet
 
-* `Latn` (79147), example: e 101 LATIN SMALL LETTER E (13551)
+* `Latn` (3876 = 100%), example: a 97 LATIN SMALL LETTER A (499)
 
-## ne_bk
+## Naga: nmf_suansu
 
-* `Deva` (1935), example: र 2352 DEVANAGARI LETTER RA (252)
+* `Latn` (14447 = 100%), example: a 97 LATIN SMALL LETTER A (2496)
 
-## nhi_mesotree
+## Naija: pcm_nsc
 
-* `Latn` (96785), example: a 97 LATIN SMALL LETTER A (12521)
+* `Latn` (358447 = 100%), example: e 101 LATIN SMALL LETTER E (48336)
 
-## nl_alpino
+## Neapolitan: nap_rb
 
-* `Latn` (950065), example: e 101 LATIN SMALL LETTER E (176098)
+* `Latn` (746 = 100%), example: a 97 LATIN SMALL LETTER A (82)
 
-## nl_lassysmall
+## Nenets: yrk_tundra
 
-* `Latn` (1365456), example: e 101 LATIN SMALL LETTER E (248557)
-* `Grek` (2), example: π 960 GREEK SMALL LETTER PI (2)
+* `Cyrl` (5421 = 86%), example: а 1072 CYRILLIC SMALL LETTER A (1119)
+* `Zyyy` (500 = 8%), example: ʼ 700 MODIFIER LETTER APOSTROPHE (328)
+* `Latn` (357 = 6%), example: p 112 LATIN SMALL LETTER P (299)
 
-## nmf_suansu
+## Nepali: ne_bk
 
-* `Latn` (14447), example: a 97 LATIN SMALL LETTER A (2496)
+* `Deva` (1935 = 100%), example: र 2352 DEVANAGARI LETTER RA (252)
 
-## no_bokmaal
+## Nheengatu: yrl_complin
 
-* `Latn` (1339236), example: e 101 LATIN SMALL LETTER E (207962)
+* `Latn` (101301 = 100%), example: a 97 LATIN SMALL LETTER A (17191)
 
-## no_nynorsk
+## North Sami: sme_giella
 
-* `Latn` (1311387), example: e 101 LATIN SMALL LETTER E (178698)
+* `Latn` (143286 = 100%), example: a 97 LATIN SMALL LETTER A (17533)
 
-## oc_ttb
+## Northern Kurdish: kmr_kurmanji
 
-* `Latn` (89870), example: a 97 LATIN SMALL LETTER A (12639)
+* `Latn` (37072 = 100%), example: e 101 LATIN SMALL LETTER E (4344)
+* `Grek` (15 = 0%), example: λ 955 GREEK SMALL LETTER LAMDA (3)
+* `Arab` (1 = 0%), example: ل 1604 ARABIC LETTER LAM (1)
 
-## oge_glc
+## Northwest Gbaya: gya_autogramm
 
-* `Geor` (41765), example: ა 4304 GEORGIAN LETTER AN (7347)
+* `Latn` (8255 = 100%), example: á 225 LATIN SMALL LETTER A WITH ACUTE (796)
 
-## olo_kkpp
+## Norwegian: no_bokmaal
 
-* `Latn` (8228), example: i 105 LATIN SMALL LETTER I (971)
+* `Latn` (1339236 = 100%), example: e 101 LATIN SMALL LETTER E (207962)
 
-## or_odtb
+## Norwegian: no_nynorsk
 
-* `Orya` (17082), example: ର 2864 ORIYA LETTER RA (2259)
-* `Latn` (4), example: C 67 LATIN CAPITAL LETTER C (1)
+* `Latn` (1311387 = 100%), example: e 101 LATIN SMALL LETTER E (178698)
 
-## orv_birchbark
+## Occitan: oc_ttb
 
-* `Cyrl` (95696), example: о 1086 CYRILLIC SMALL LETTER O (9706)
-* `Latn` (3894), example: b 98 LATIN SMALL LETTER B (1298)
+* `Latn` (89870 = 100%), example: a 97 LATIN SMALL LETTER A (12639)
 
-## orv_rnc
+## Odia: or_odtb
 
-* `Cyrl` (687707), example: о 1086 CYRILLIC SMALL LETTER O (71272)
-* `Latn` (812), example: i 105 LATIN SMALL LETTER I (194)
-* `Zyyy` (234), example: ⸯ 11823 VERTICAL TILDE (234)
-* `Grek` (2), example: Ψ 936 GREEK CAPITAL LETTER PSI (2)
+* `Orya` (17082 = 100%), example: ର 2864 ORIYA LETTER RA (2259)
+* `Latn` (4 = 0%), example: C 67 LATIN CAPITAL LETTER C (1)
 
-## orv_ruthenian
+## Old Church Slavonic: cu_proiel
 
-* `Cyrl` (550141), example: о 1086 CYRILLIC SMALL LETTER O (58631)
-* `Latn` (160), example: t 116 LATIN SMALL LETTER T (20)
-* `Grek` (33), example: ο 959 GREEK SMALL LETTER OMICRON (6)
-* `Glag` (3), example: ⱚ 11354 GLAGOLITIC SMALL LETTER FITA (3)
+* `Cyrl` (949383 = 100%), example: о 1086 CYRILLIC SMALL LETTER O (82460)
+* `Glag` (1289 = 0%), example: ⱕ 11349 GLAGOLITIC SMALL LETTER SMALL YUS WITH TAIL (1273)
+* `Zyyy` (526 = 0%), example: ʼ 700 MODIFIER LETTER APOSTROPHE (440)
+* `Latn` (41 = 0%), example: x 120 LATIN SMALL LETTER X (28)
 
-## orv_torot
+## Old East Slavic: orv_birchbark
 
-* `Cyrl` (1094421), example: о 1086 CYRILLIC SMALL LETTER O (95571)
-* `Zyyy` (650), example: ʼ 700 MODIFIER LETTER APOSTROPHE (650)
-* `Latn` (275), example: ȥ 549 LATIN SMALL LETTER Z WITH HOOK (150)
-* `Grek` (258), example: ι 953 GREEK SMALL LETTER IOTA (255)
+* `Cyrl` (95696 = 96%), example: о 1086 CYRILLIC SMALL LETTER O (9706)
+* `Latn` (3894 = 4%), example: b 98 LATIN SMALL LETTER B (1298)
 
-## ota_boun
+## Old East Slavic: orv_rnc
 
-* `Latn` (48258), example: a 97 LATIN SMALL LETTER A (5200)
+* `Cyrl` (687707 = 100%), example: о 1086 CYRILLIC SMALL LETTER O (71272)
+* `Latn` (812 = 0%), example: i 105 LATIN SMALL LETTER I (194)
+* `Zyyy` (234 = 0%), example: ⸯ 11823 VERTICAL TILDE (234)
+* `Grek` (2 = 0%), example: Ψ 936 GREEK CAPITAL LETTER PSI (2)
 
-## ota_dudu
+## Old East Slavic: orv_ruthenian
 
-* `Latn` (120230), example: e 101 LATIN SMALL LETTER E (12855)
-* `Zyyy` (1563), example: ʿ 703 MODIFIER LETTER LEFT HALF RING (1423)
+* `Cyrl` (550141 = 100%), example: о 1086 CYRILLIC SMALL LETTER O (58631)
+* `Latn` (160 = 0%), example: t 116 LATIN SMALL LETTER T (20)
+* `Grek` (33 = 0%), example: ο 959 GREEK SMALL LETTER OMICRON (6)
+* `Glag` (3 = 0%), example: ⱚ 11354 GLAGOLITIC SMALL LETTER FITA (3)
 
-## ota_tuecl
+## Old East Slavic: orv_torot
 
-* `Latn` (4327), example: e 101 LATIN SMALL LETTER E (477)
-* `Zyyy` (35), example: ʿ 703 MODIFIER LETTER LEFT HALF RING (26)
-* `Cyrl` (1), example: і 1110 CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I (1)
+* `Cyrl` (1094421 = 100%), example: о 1086 CYRILLIC SMALL LETTER O (95571)
+* `Zyyy` (650 = 0%), example: ʼ 700 MODIFIER LETTER APOSTROPHE (650)
+* `Latn` (275 = 0%), example: ȥ 549 LATIN SMALL LETTER Z WITH HOOK (150)
+* `Grek` (258 = 0%), example: ι 953 GREEK SMALL LETTER IOTA (255)
 
-## otk_clausal
+## Old English: ang_cairo
 
-* `Orkh` (298), example: 𐰃 68611 OLD TURKIC LETTER ORKHON I (44)
+* `Latn` (679 = 100%), example: e 101 LATIN SMALL LETTER E (98)
 
-## pa_cs
+## Old French: fro_altm
 
-* `Guru` (3693), example: ਹ 2617 GURMUKHI LETTER HA (382)
+* `Latn` (53020 = 100%), example: e 101 LATIN SMALL LETTER E (9436)
 
-## pa_rang
+## Old French: fro_profiterole
 
-* `Arab` (6069), example: ا 1575 ARABIC LETTER ALEF (830)
+* `Latn` (800147 = 100%), example: e 101 LATIN SMALL LETTER E (132771)
 
-## pad_tuecl
+## Old Georgian: oge_glc
 
-* `Latn` (2685), example: a 97 LATIN SMALL LETTER A (731)
+* `Geor` (41765 = 100%), example: ა 4304 GEORGIAN LETTER AN (7347)
 
-## pay_chibergis
+## Old Irish: sga_dipsgg
 
-* `Latn` (14062), example: a 97 LATIN SMALL LETTER A (2998)
+* `Latn` (1472 = 96%), example: i 105 LATIN SMALL LETTER I (198)
+* `Ogam` (68 = 4%), example: ᚐ 5776 OGHAM LETTER AILM (11)
 
-## pcm_nsc
+## Old Irish: sga_dipwbg
 
-* `Latn` (358447), example: e 101 LATIN SMALL LETTER E (48336)
+* `Latn` (1516 = 100%), example: i 105 LATIN SMALL LETTER I (215)
 
-## pl_lfg
+## Old Occitan: pro_corag
 
-* `Latn` (580203), example: a 97 LATIN SMALL LETTER A (52234)
+* `Latn` (193075 = 100%), example: e 101 LATIN SMALL LETTER E (29815)
 
-## pl_mpdt
+## Old Turkish: otk_clausal
 
-* `Latn` (207693), example: i 105 LATIN SMALL LETTER I (17976)
+* `Orkh` (298 = 100%), example: 𐰃 68611 OLD TURKIC LETTER ORKHON I (44)
 
-## pl_pdb
+## Ottoman Turkish: ota_boun
 
-* `Latn` (1692459), example: a 97 LATIN SMALL LETTER A (147760)
-* `Zyyy` (1), example: µ 181 MICRO SIGN (1)
-* `Grek` (1), example: μ 956 GREEK SMALL LETTER MU (1)
+* `Latn` (48258 = 100%), example: a 97 LATIN SMALL LETTER A (5200)
 
-## pl_pud
+## Ottoman Turkish: ota_dudu
 
-* `Latn` (93354), example: a 97 LATIN SMALL LETTER A (8131)
+* `Latn` (120230 = 99%), example: e 101 LATIN SMALL LETTER E (12855)
+* `Zyyy` (1563 = 1%), example: ʿ 703 MODIFIER LETTER LEFT HALF RING (1423)
 
-## pro_corag
+## Ottoman Turkish: ota_tuecl
 
-* `Latn` (193075), example: e 101 LATIN SMALL LETTER E (29815)
+* `Latn` (4327 = 99%), example: e 101 LATIN SMALL LETTER E (477)
+* `Zyyy` (35 = 1%), example: ʿ 703 MODIFIER LETTER LEFT HALF RING (26)
+* `Cyrl` (1 = 0%), example: і 1110 CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I (1)
 
-## ps_prince
+## Pashto: ps_prince
 
-* `Arab` (3444), example: و 1608 ARABIC LETTER WAW (466)
+* `Arab` (3444 = 100%), example: و 1608 ARABIC LETTER WAW (466)
 
-## ps_sikaram
+## Pashto: ps_sikaram
 
-* `Arab` (16302), example: و 1608 ARABIC LETTER WAW (1999)
-* `Latn` (17), example: a 97 LATIN SMALL LETTER A (3)
-* `Zyyy` (7), example: ـ 1600 ARABIC TATWEEL (7)
+* `Arab` (16302 = 100%), example: و 1608 ARABIC LETTER WAW (1999)
+* `Latn` (17 = 0%), example: a 97 LATIN SMALL LETTER A (3)
+* `Zyyy` (7 = 0%), example: ـ 1600 ARABIC TATWEEL (7)
 
-## pt_bosque
+## Paumari: pad_tuecl
 
-* `Latn` (889905), example: a 97 LATIN SMALL LETTER A (106876)
+* `Latn` (2685 = 100%), example: a 97 LATIN SMALL LETTER A (731)
 
-## pt_cintil
+## Persian: fa_perdt
 
-* `Latn` (1896061), example: a 97 LATIN SMALL LETTER A (224579)
+* `Arab` (1789762 = 100%), example: ا 1575 ARABIC LETTER ALEF (256028)
+* `Latn` (1518 = 0%), example: e 101 LATIN SMALL LETTER E (112)
 
-## pt_dantestocks
+## Persian: fa_seraji
 
-* `Latn` (287031), example: a 97 LATIN SMALL LETTER A (28243)
+* `Arab` (548973 = 100%), example: ا 1575 ARABIC LETTER ALEF (79161)
+* `Latn` (43 = 0%), example: E 69 LATIN CAPITAL LETTER E (6)
 
-## pt_gsd
+## Pesh: pay_chibergis
 
-* `Latn` (1226947), example: a 97 LATIN SMALL LETTER A (148902)
-* `Cyrl` (32), example: е 1077 CYRILLIC SMALL LETTER IE (4)
-* `Grek` (14), example: λ 955 GREEK SMALL LETTER LAMDA (3)
-* `Arab` (11), example: ا 1575 ARABIC LETTER ALEF (3)
-* `Hani` (9), example: 瑞 29790 CJK UNIFIED IDEOGRAPH-745E (2)
-* `Hang` (2), example: 금 44552 HANGUL SYLLABLE GEUM (1)
+* `Latn` (14062 = 100%), example: a 97 LATIN SMALL LETTER A (2998)
 
-## pt_petrogold
+## Phrygian: xpg_kul
 
-* `Latn` (1047750), example: a 97 LATIN SMALL LETTER A (122130)
-* `Zyyy` (70), example: µ 181 MICRO SIGN (13)
-* `Grek` (65), example: η 951 GREEK SMALL LETTER ETA (15)
-* `Cyrl` (3), example: т 1090 CYRILLIC SMALL LETTER TE (3)
+* `Grek` (7852 = 92%), example: ε 949 GREEK SMALL LETTER EPSILON (971)
+* `Latn` (708 = 8%), example: a 97 LATIN SMALL LETTER A (121)
+* `Cari` (3 = 0%), example: 𐋇 66247 CARIAN LETTER TT (3)
 
-## pt_porttinari
+## Polish: pl_lfg
 
-* `Latn` (652044), example: a 97 LATIN SMALL LETTER A (79474)
+* `Latn` (580203 = 100%), example: a 97 LATIN SMALL LETTER A (52234)
 
-## pt_pud
+## Polish: pl_mpdt
 
-* `Latn` (94869), example: a 97 LATIN SMALL LETTER A (11298)
+* `Latn` (207693 = 100%), example: i 105 LATIN SMALL LETTER I (17976)
 
-## qaf_arabizi
+## Polish: pl_pdb
 
-* `Latn` (85267), example: a 97 LATIN SMALL LETTER A (15640)
-* `Arab` (103), example: ا 1575 ARABIC LETTER ALEF (15)
+* `Latn` (1692459 = 100%), example: a 97 LATIN SMALL LETTER A (147760)
+* `Zyyy` (1 = 0%), example: µ 181 MICRO SIGN (1)
+* `Grek` (1 = 0%), example: μ 956 GREEK SMALL LETTER MU (1)
 
-## qfn_fame
+## Polish: pl_pud
 
-* `Latn` (15715), example: e 101 LATIN SMALL LETTER E (2527)
+* `Latn` (93354 = 100%), example: a 97 LATIN SMALL LETTER A (8131)
 
-## qpm_philotis
+## Pomak: qpm_philotis
 
-* `Latn` (123442), example: a 97 LATIN SMALL LETTER A (14349)
+* `Latn` (123442 = 100%), example: a 97 LATIN SMALL LETTER A (14349)
 
-## qtd_sagt
+## Portuguese: pt_bosque
 
-* `Latn` (162554), example: e 101 LATIN SMALL LETTER E (18930)
+* `Latn` (889905 = 100%), example: a 97 LATIN SMALL LETTER A (106876)
 
-## qte_tect
+## Portuguese: pt_cintil
 
-* `Latn` (1858), example: u 117 LATIN SMALL LETTER U (158)
+* `Latn` (1896061 = 100%), example: a 97 LATIN SMALL LETTER A (224579)
 
-## qti_butr
+## Portuguese: pt_dantestocks
 
-* `Latn` (1993), example: e 101 LATIN SMALL LETTER E (207)
+* `Latn` (287031 = 100%), example: a 97 LATIN SMALL LETTER A (28243)
 
-## quc_iu
+## Portuguese: pt_gsd
 
-* `Latn` (32118), example: a 97 LATIN SMALL LETTER A (4751)
-* `Zyyy` (3004), example: ʼ 700 MODIFIER LETTER APOSTROPHE (3004)
+* `Latn` (1226947 = 100%), example: a 97 LATIN SMALL LETTER A (148902)
+* `Cyrl` (32 = 0%), example: е 1077 CYRILLIC SMALL LETTER IE (4)
+* `Grek` (14 = 0%), example: λ 955 GREEK SMALL LETTER LAMDA (3)
+* `Arab` (11 = 0%), example: ا 1575 ARABIC LETTER ALEF (3)
+* `Hani` (9 = 0%), example: 瑞 29790 CJK UNIFIED IDEOGRAPH-745E (2)
+* `Hang` (2 = 0%), example: 금 44552 HANGUL SYLLABLE GEUM (1)
 
-## ro_art
+## Portuguese: pt_petrogold
 
-* `Latn` (1803), example: a 97 LATIN SMALL LETTER A (253)
-* `Cyrl` (3), example: ќ 1116 CYRILLIC SMALL LETTER KJE (3)
+* `Latn` (1047750 = 100%), example: a 97 LATIN SMALL LETTER A (122130)
+* `Zyyy` (70 = 0%), example: µ 181 MICRO SIGN (13)
+* `Grek` (65 = 0%), example: η 951 GREEK SMALL LETTER ETA (15)
+* `Cyrl` (3 = 0%), example: т 1090 CYRILLIC SMALL LETTER TE (3)
 
-## ro_moldoro
+## Portuguese: pt_porttinari
 
-* `Cyrl` (804), example: е 1077 CYRILLIC SMALL LETTER IE (91)
+* `Latn` (652044 = 100%), example: a 97 LATIN SMALL LETTER A (79474)
 
-## ro_nonstandard
+## Portuguese: pt_pud
 
-* `Latn` (2039545), example: i 105 LATIN SMALL LETTER I (218699)
-* `Cyrl` (122), example: е 1077 CYRILLIC SMALL LETTER IE (74)
+* `Latn` (94869 = 100%), example: a 97 LATIN SMALL LETTER A (11298)
 
-## ro_rrt
+## Punjabi: pa_cs
 
-* `Latn` (983285), example: e 101 LATIN SMALL LETTER E (118425)
-* `Grek` (15), example: τ 964 GREEK SMALL LETTER TAU (3)
-* `Zyyy` (4), example: µ 181 MICRO SIGN (4)
+* `Guru` (3693 = 100%), example: ਹ 2617 GURMUKHI LETTER HA (382)
 
-## ro_simonero
+## Punjabi: pa_rang
 
-* `Latn` (730628), example: e 101 LATIN SMALL LETTER E (89083)
-* `Zyyy` (13), example: µ 181 MICRO SIGN (5)
-* `Cyrl` (3), example: с 1089 CYRILLIC SMALL LETTER ES (3)
+* `Arab` (6069 = 100%), example: ا 1575 ARABIC LETTER ALEF (830)
 
-## ro_tuecl
+## Romanian: ro_art
 
-* `Latn` (16752), example: e 101 LATIN SMALL LETTER E (1930)
+* `Latn` (1803 = 100%), example: a 97 LATIN SMALL LETTER A (253)
+* `Cyrl` (3 = 0%), example: ќ 1116 CYRILLIC SMALL LETTER KJE (3)
 
-## ru_gsd
+## Romanian: ro_moldoro
 
-* `Cyrl` (465527), example: о 1086 CYRILLIC SMALL LETTER O (49016)
-* `Latn` (8421), example: e 101 LATIN SMALL LETTER E (734)
-* `Grek` (12), example: γ 947 GREEK SMALL LETTER GAMMA (2)
-* `Armn` (9), example: ն 1398 ARMENIAN SMALL LETTER NOW (2)
-* `Hani` (8), example: 人 20154 CJK UNIFIED IDEOGRAPH-4EBA (2)
-* `Arab` (7), example: ا 1575 ARABIC LETTER ALEF (1)
-* `Hebr` (7), example: ע 1506 HEBREW LETTER AYIN (2)
-* `Geor` (6), example: ბ 4305 GEORGIAN LETTER BAN (2)
-* `Thai` (2), example: บ 3610 THAI CHARACTER BO BAIMAI (1)
-* `Kana` (1), example: ア 12450 KATAKANA LETTER A (1)
+* `Cyrl` (804 = 100%), example: е 1077 CYRILLIC SMALL LETTER IE (91)
 
-## ru_poetry
+## Romanian: ro_nonstandard
 
-* `Cyrl` (249054), example: о 1086 CYRILLIC SMALL LETTER O (23363)
-* `Latn` (244), example: I 73 LATIN CAPITAL LETTER I (47)
+* `Latn` (2039545 = 100%), example: i 105 LATIN SMALL LETTER I (218699)
+* `Cyrl` (122 = 0%), example: е 1077 CYRILLIC SMALL LETTER IE (74)
 
-## ru_pud
+## Romanian: ro_rrt
 
-* `Cyrl` (95753), example: о 1086 CYRILLIC SMALL LETTER O (10328)
-* `Latn` (1104), example: a 97 LATIN SMALL LETTER A (93)
+* `Latn` (983285 = 100%), example: e 101 LATIN SMALL LETTER E (118425)
+* `Grek` (15 = 0%), example: τ 964 GREEK SMALL LETTER TAU (3)
+* `Zyyy` (4 = 0%), example: µ 181 MICRO SIGN (4)
 
-## ru_syntagrus
+## Romanian: ro_simonero
 
-* `Cyrl` (7253948), example: о 1086 CYRILLIC SMALL LETTER O (787997)
-* `Latn` (20390), example: e 101 LATIN SMALL LETTER E (1666)
+* `Latn` (730628 = 100%), example: e 101 LATIN SMALL LETTER E (89083)
+* `Zyyy` (13 = 0%), example: µ 181 MICRO SIGN (5)
+* `Cyrl` (3 = 0%), example: с 1089 CYRILLIC SMALL LETTER ES (3)
 
-## ru_taiga
+## Romanian: ro_tuecl
 
-* `Cyrl` (7656453), example: о 1086 CYRILLIC SMALL LETTER O (809076)
-* `Latn` (25359), example: I 73 LATIN CAPITAL LETTER I (3739)
-* `Grek` (41), example: γ 947 GREEK SMALL LETTER GAMMA (14)
-* `Kana` (1), example: ツ 12484 KATAKANA LETTER TU (1)
+* `Latn` (16752 = 100%), example: e 101 LATIN SMALL LETTER E (1930)
 
-## ruc_rdt
+## Russian: ru_gsd
 
-* `Latn` (28664), example: a 97 LATIN SMALL LETTER A (4993)
+* `Cyrl` (465527 = 98%), example: о 1086 CYRILLIC SMALL LETTER O (49016)
+* `Latn` (8421 = 2%), example: e 101 LATIN SMALL LETTER E (734)
+* `Grek` (12 = 0%), example: γ 947 GREEK SMALL LETTER GAMMA (2)
+* `Armn` (9 = 0%), example: ն 1398 ARMENIAN SMALL LETTER NOW (2)
+* `Hani` (8 = 0%), example: 人 20154 CJK UNIFIED IDEOGRAPH-4EBA (2)
+* `Arab` (7 = 0%), example: ا 1575 ARABIC LETTER ALEF (1)
+* `Hebr` (7 = 0%), example: ע 1506 HEBREW LETTER AYIN (2)
+* `Geor` (6 = 0%), example: ბ 4305 GEORGIAN LETTER BAN (2)
+* `Thai` (2 = 0%), example: บ 3610 THAI CHARACTER BO BAIMAI (1)
+* `Kana` (1 = 0%), example: ア 12450 KATAKANA LETTER A (1)
 
-## sa_ufal
+## Russian: ru_poetry
 
-* `Deva` (5328), example: त 2340 DEVANAGARI LETTER TA (689)
+* `Cyrl` (249054 = 100%), example: о 1086 CYRILLIC SMALL LETTER O (23363)
+* `Latn` (244 = 0%), example: I 73 LATIN CAPITAL LETTER I (47)
 
-## sa_vedic
+## Russian: ru_pud
 
-* `Latn` (1161124), example: a 97 LATIN SMALL LETTER A (241989)
-* `Hang` (95), example: ﾱ 65457 HALFWIDTH HANGUL LETTER MIEUM (95)
+* `Cyrl` (95753 = 99%), example: о 1086 CYRILLIC SMALL LETTER O (10328)
+* `Latn` (1104 = 1%), example: a 97 LATIN SMALL LETTER A (93)
 
-## sab_chibergis
+## Russian: ru_syntagrus
 
-* `Latn` (8690), example: e 101 LATIN SMALL LETTER E (1247)
+* `Cyrl` (7253948 = 100%), example: о 1086 CYRILLIC SMALL LETTER O (787997)
+* `Latn` (20390 = 0%), example: e 101 LATIN SMALL LETTER E (1666)
 
-## sah_yktdt
+## Russian: ru_taiga
 
-* `Cyrl` (7060), example: а 1072 CYRILLIC SMALL LETTER A (907)
+* `Cyrl` (7656453 = 100%), example: о 1086 CYRILLIC SMALL LETTER O (809076)
+* `Latn` (25359 = 0%), example: I 73 LATIN CAPITAL LETTER I (3739)
+* `Grek` (41 = 0%), example: γ 947 GREEK SMALL LETTER GAMMA (14)
+* `Kana` (1 = 0%), example: ツ 12484 KATAKANA LETTER TU (1)
 
-## say_autogramm
+## Ruuli: ruc_rdt
 
-* `Latn` (52858), example: ə 601 LATIN SMALL LETTER SCHWA (4433)
-* `Zyyy` (6779), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (6775)
+* `Latn` (28664 = 100%), example: a 97 LATIN SMALL LETTER A (4993)
 
-## scn_stb
+## Sanskrit: sa_ufal
 
-* `Latn` (38190), example: i 105 LATIN SMALL LETTER I (5449)
+* `Deva` (5328 = 100%), example: त 2340 DEVANAGARI LETTER TA (689)
 
-## sd_isra
+## Sanskrit: sa_vedic
 
-* `Arab` (302936), example: ي 1610 ARABIC LETTER YEH (41751)
-* `Latn` (394), example: s 115 LATIN SMALL LETTER S (32)
-* `Zyyy` (262), example: ـ 1600 ARABIC TATWEEL (262)
+* `Latn` (1161124 = 100%), example: a 97 LATIN SMALL LETTER A (241989)
+* `Hang` (95 = 0%), example: ﾱ 65457 HALFWIDTH HANGUL LETTER MIEUM (95)
 
-## sdh_garrusi
+## Scottish Gaelic: gd_arcosg
 
-* `Latn` (5725), example: e 101 LATIN SMALL LETTER E (953)
+* `Latn` (344892 = 100%), example: a 97 LATIN SMALL LETTER A (62094)
 
-## sga_dipsgg
+## Serbian: sr_set
 
-* `Latn` (1472), example: i 105 LATIN SMALL LETTER I (198)
-* `Ogam` (68), example: ᚐ 5776 OGHAM LETTER AILM (11)
+* `Latn` (463933 = 100%), example: a 97 LATIN SMALL LETTER A (53609)
 
-## sga_dipwbg
+## Shanghainese: wuu_shud
 
-* `Latn` (1516), example: i 105 LATIN SMALL LETTER I (215)
+* `Hani` (9747 = 100%), example: 伐 20240 CJK UNIFIED IDEOGRAPH-4F10 (486)
 
-## si_appuwa
+## Sicilian: scn_stb
 
-* `Sinh` (2021), example: න 3505 SINHALA LETTER DANTAJA NAYANNA (217)
+* `Latn` (38190 = 100%), example: i 105 LATIN SMALL LETTER I (5449)
 
-## si_stb
+## Sindhi: sd_isra
 
-* `Sinh` (2420), example: ය 3514 SINHALA LETTER YAYANNA (229)
+* `Arab` (302936 = 100%), example: ي 1610 ARABIC LETTER YEH (41751)
+* `Latn` (394 = 0%), example: s 115 LATIN SMALL LETTER S (32)
+* `Zyyy` (262 = 0%), example: ـ 1600 ARABIC TATWEEL (262)
 
-## sjo_xdt
+## Sinhala: si_appuwa
 
-* `Mong` (67310), example: ᡝ 6237 MONGOLIAN LETTER SIBE E (8848)
-* `Latn` (5), example: I 73 LATIN CAPITAL LETTER I (2)
+* `Sinh` (2021 = 100%), example: න 3505 SINHALA LETTER DANTAJA NAYANNA (217)
 
-## sk_snk
+## Sinhala: si_stb
 
-* `Latn` (464285), example: o 111 LATIN SMALL LETTER O (43459)
-* `Cyrl` (16), example: а 1072 CYRILLIC SMALL LETTER A (6)
-* `Grek` (11), example: Α 913 GREEK CAPITAL LETTER ALPHA (3)
-* `Zyyy` (1), example: µ 181 MICRO SIGN (1)
+* `Sinh` (2420 = 100%), example: ය 3514 SINHALA LETTER YAYANNA (229)
 
-## sl_ssj
+## Skolt Sami: sms_giellagas
 
-* `Latn` (1172106), example: a 97 LATIN SMALL LETTER A (117051)
+* `Latn` (11516 = 94%), example: t 116 LATIN SMALL LETTER T (957)
+* `Zyyy` (717 = 6%), example: ʹ 697 MODIFIER LETTER PRIME (715)
 
-## sl_sst
+## Slovak: sk_snk
 
-* `Latn` (330942), example: e 101 LATIN SMALL LETTER E (40882)
+* `Latn` (464285 = 100%), example: o 111 LATIN SMALL LETTER O (43459)
+* `Cyrl` (16 = 0%), example: а 1072 CYRILLIC SMALL LETTER A (6)
+* `Grek` (11 = 0%), example: Α 913 GREEK CAPITAL LETTER ALPHA (3)
+* `Zyyy` (1 = 0%), example: µ 181 MICRO SIGN (1)
 
-## sme_giella
+## Slovenian: sl_ssj
 
-* `Latn` (143286), example: a 97 LATIN SMALL LETTER A (17533)
+* `Latn` (1172106 = 100%), example: a 97 LATIN SMALL LETTER A (117051)
 
-## sms_giellagas
+## Slovenian: sl_sst
 
-* `Latn` (11516), example: t 116 LATIN SMALL LETTER T (957)
-* `Zyyy` (717), example: ʹ 697 MODIFIER LETTER PRIME (715)
+* `Latn` (330942 = 100%), example: e 101 LATIN SMALL LETTER E (40882)
 
-## sq_staf
+## South Levantine Arabic: ajp_madar
 
-* `Latn` (13042), example: ë 235 LATIN SMALL LETTER E WITH DIAERESIS (1259)
+* `Arab` (2325 = 100%), example: ا 1575 ARABIC LETTER ALEF (273)
 
-## sq_tsa
+## Southern Kurdish: sdh_garrusi
 
-* `Latn` (4399), example: ë 235 LATIN SMALL LETTER E WITH DIAERESIS (413)
+* `Latn` (5725 = 100%), example: e 101 LATIN SMALL LETTER E (953)
 
-## sr_set
+## Spanish: es_ancora
 
-* `Latn` (463933), example: a 97 LATIN SMALL LETTER A (53609)
+* `Latn` (2334992 = 100%), example: e 101 LATIN SMALL LETTER E (294774)
 
-## ssp_lse
+## Spanish: es_coser
 
-* `Latn` (11702), example: R 82 LATIN CAPITAL LETTER R (962)
+* `Latn` (24635 = 100%), example: a 97 LATIN SMALL LETTER A (3228)
 
-## sv_lines
+## Spanish: es_gsd
 
-* `Latn` (442546), example: a 97 LATIN SMALL LETTER A (43245)
+* `Latn` (1784275 = 100%), example: e 101 LATIN SMALL LETTER E (225195)
+* `Grek` (119 = 0%), example: ο 959 GREEK SMALL LETTER OMICRON (13)
+* `Cyrl` (69 = 0%), example: и 1080 CYRILLIC SMALL LETTER I (8)
+* `Arab` (38 = 0%), example: ا 1575 ARABIC LETTER ALEF (7)
+* `Hani` (17 = 0%), example: 一 19968 CJK UNIFIED IDEOGRAPH-4E00 (2)
+* `Deva` (8 = 0%), example: ग 2327 DEVANAGARI LETTER GA (2)
+* `Hebr` (7 = 0%), example: ר 1512 HEBREW LETTER RESH (2)
+* `Beng` (6 = 0%), example: ম 2478 BENGALI LETTER MA (3)
+* `Hira` (6 = 0%), example: が 12364 HIRAGANA LETTER GA (1)
+* `Zyyy` (1 = 0%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (1)
 
-## sv_old
+## Spanish: es_pud
 
-* `Latn` (2153), example: a 97 LATIN SMALL LETTER A (242)
+* `Latn` (99751 = 100%), example: e 101 LATIN SMALL LETTER E (12821)
 
-## sv_pud
+## Spanish Sign Language: ssp_lse
 
-* `Latn` (92040), example: e 101 LATIN SMALL LETTER E (9530)
+* `Latn` (11702 = 100%), example: R 82 LATIN CAPITAL LETTER R (962)
 
-## sv_swell
+## Swedish: sv_lines
 
-* `Latn` (45229), example: a 97 LATIN SMALL LETTER A (4493)
+* `Latn` (442546 = 100%), example: a 97 LATIN SMALL LETTER A (43245)
 
-## sv_talbanken
+## Swedish: sv_old
 
-* `Latn` (465192), example: e 101 LATIN SMALL LETTER E (44657)
+* `Latn` (2153 = 100%), example: a 97 LATIN SMALL LETTER A (242)
 
-## swl_sslc
+## Swedish: sv_pud
 
-* `Latn` (11693), example: A 65 LATIN CAPITAL LETTER A (1136)
+* `Latn` (92040 = 100%), example: e 101 LATIN SMALL LETTER E (9530)
 
-## ta_mwtt
+## Swedish: sv_swell
 
-* `Taml` (7999), example: க 2965 TAMIL LETTER KA (1339)
+* `Latn` (45229 = 100%), example: a 97 LATIN SMALL LETTER A (4493)
 
-## ta_ttb
+## Swedish: sv_talbanken
 
-* `Taml` (35559), example: த 2980 TAMIL LETTER TA (4573)
-* `Latn` (10), example: K 75 LATIN CAPITAL LETTER K (5)
+* `Latn` (465192 = 100%), example: e 101 LATIN SMALL LETTER E (44657)
 
-## te_mtg
+## Swedish Sign Language: swl_sslc
 
-* `Telu` (16137), example: న 3112 TELUGU LETTER NA (1966)
-* `Latn` (43), example: o 111 LATIN SMALL LETTER O (7)
+* `Latn` (11693 = 100%), example: A 65 LATIN CAPITAL LETTER A (1136)
 
-## th_pud
+## Tagalog: tl_trg
 
-* `Thai` (74386), example: า 3634 THAI CHARACTER SARA AA (6575)
-* `Latn` (181), example: o 111 LATIN SMALL LETTER O (13)
+* `Latn` (2893 = 100%), example: a 97 LATIN SMALL LETTER A (687)
 
-## th_tud
+## Tagalog: tl_ugnayan
 
-* `Thai` (237075), example: า 3634 THAI CHARACTER SARA AA (21589)
-* `Latn` (1201), example: e 101 LATIN SMALL LETTER E (141)
+* `Latn` (4115 = 100%), example: a 97 LATIN SMALL LETTER A (961)
 
-## tl_trg
+## Tamil: ta_mwtt
 
-* `Latn` (2893), example: a 97 LATIN SMALL LETTER A (687)
+* `Taml` (7999 = 100%), example: க 2965 TAMIL LETTER KA (1339)
 
-## tl_ugnayan
+## Tamil: ta_ttb
 
-* `Latn` (4115), example: a 97 LATIN SMALL LETTER A (961)
+* `Taml` (35559 = 100%), example: த 2980 TAMIL LETTER TA (4573)
+* `Latn` (10 = 0%), example: K 75 LATIN CAPITAL LETTER K (5)
 
-## tn_popapolelo
+## Tatar: tt_nmctt
 
-* `Latn` (696), example: a 97 LATIN SMALL LETTER A (124)
+* `Cyrl` (12335 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (1281)
+* `Latn` (19 = 0%), example: I 73 LATIN CAPITAL LETTER I (3)
 
-## tpn_tudet
+## Teko: eme_tudet
 
-* `Latn` (20417), example: a 97 LATIN SMALL LETTER A (3269)
-* `Grek` (770), example: β 946 GREEK SMALL LETTER BETA (770)
+* `Latn` (16734 = 100%), example: a 97 LATIN SMALL LETTER A (2512)
 
-## tr_atis
+## Telugu: te_mtg
 
-* `Latn` (282659), example: a 97 LATIN SMALL LETTER A (39284)
+* `Telu` (16137 = 100%), example: న 3112 TELUGU LETTER NA (1966)
+* `Latn` (43 = 0%), example: o 111 LATIN SMALL LETTER O (7)
 
-## tr_boun
+## Telugu English: qte_tect
 
-* `Latn` (639014), example: a 97 LATIN SMALL LETTER A (72232)
+* `Latn` (1858 = 100%), example: u 117 LATIN SMALL LETTER U (158)
 
-## tr_framenet
+## Thai: th_pud
 
-* `Latn` (99261), example: a 97 LATIN SMALL LETTER A (11746)
+* `Thai` (74386 = 100%), example: า 3634 THAI CHARACTER SARA AA (6575)
+* `Latn` (181 = 0%), example: o 111 LATIN SMALL LETTER O (13)
 
-## tr_gb
+## Thai: th_tud
 
-* `Latn` (85905), example: a 97 LATIN SMALL LETTER A (9952)
+* `Thai` (237075 = 99%), example: า 3634 THAI CHARACTER SARA AA (21589)
+* `Latn` (1201 = 1%), example: e 101 LATIN SMALL LETTER E (141)
 
-## tr_imst
+## Tswana: tn_popapolelo
 
-* `Latn` (292316), example: a 97 LATIN SMALL LETTER A (33001)
+* `Latn` (696 = 100%), example: a 97 LATIN SMALL LETTER A (124)
 
-## tr_kenet
+## Tupinamba: tpn_tudet
 
-* `Latn` (938413), example: a 97 LATIN SMALL LETTER A (108366)
+* `Latn` (20417 = 96%), example: a 97 LATIN SMALL LETTER A (3269)
+* `Grek` (770 = 4%), example: β 946 GREEK SMALL LETTER BETA (770)
 
-## tr_penn
+## Turkish: tr_atis
 
-* `Latn` (969444), example: a 97 LATIN SMALL LETTER A (109995)
+* `Latn` (282659 = 100%), example: a 97 LATIN SMALL LETTER A (39284)
 
-## tr_pud
+## Turkish: tr_boun
 
-* `Latn` (92927), example: a 97 LATIN SMALL LETTER A (10749)
+* `Latn` (639014 = 100%), example: a 97 LATIN SMALL LETTER A (72232)
 
-## tr_tourism
+## Turkish: tr_framenet
 
-* `Latn` (437939), example: e 101 LATIN SMALL LETTER E (49812)
+* `Latn` (99261 = 100%), example: a 97 LATIN SMALL LETTER A (11746)
 
-## tr_tuecl
+## Turkish: tr_gb
 
-* `Latn` (4223), example: a 97 LATIN SMALL LETTER A (441)
+* `Latn` (85905 = 100%), example: a 97 LATIN SMALL LETTER A (9952)
 
-## tt_nmctt
+## Turkish: tr_imst
 
-* `Cyrl` (12335), example: а 1072 CYRILLIC SMALL LETTER A (1281)
-* `Latn` (19), example: I 73 LATIN CAPITAL LETTER I (3)
+* `Latn` (292316 = 100%), example: a 97 LATIN SMALL LETTER A (33001)
 
-## ug_udt
+## Turkish: tr_kenet
 
-* `Arab` (209424), example: ى 1609 ARABIC LETTER ALEF MAKSURA (31279)
-* `Latn` (111), example: t 116 LATIN SMALL LETTER T (53)
+* `Latn` (938413 = 100%), example: a 97 LATIN SMALL LETTER A (108366)
 
-## uk_iu
+## Turkish: tr_penn
 
-* `Cyrl` (546493), example: о 1086 CYRILLIC SMALL LETTER O (51018)
-* `Latn` (3456), example: e 101 LATIN SMALL LETTER E (303)
-* `Grek` (20), example: μ 956 GREEK SMALL LETTER MU (5)
-* `Zyyy` (1), example: ʼ 700 MODIFIER LETTER APOSTROPHE (1)
+* `Latn` (969444 = 100%), example: a 97 LATIN SMALL LETTER A (109995)
 
-## uk_parlamint
+## Turkish: tr_pud
 
-* `Cyrl` (525357), example: о 1086 CYRILLIC SMALL LETTER O (52639)
-* `Latn` (255), example: I 73 LATIN CAPITAL LETTER I (47)
+* `Latn` (92927 = 100%), example: a 97 LATIN SMALL LETTER A (10749)
 
-## ur_udtb
+## Turkish: tr_tourism
 
-* `Arab` (481665), example: ا 1575 ARABIC LETTER ALEF (60102)
-* `Latn` (258), example: A 65 LATIN CAPITAL LETTER A (19)
+* `Latn` (437939 = 100%), example: e 101 LATIN SMALL LETTER E (49812)
 
-## urb_tudet
+## Turkish: tr_tuecl
 
-* `Latn` (1550), example: a 97 LATIN SMALL LETTER A (204)
+* `Latn` (4223 = 100%), example: a 97 LATIN SMALL LETTER A (441)
 
-## uz_tuecl
+## Turkish English: qti_butr
 
-* `Latn` (4562), example: i 105 LATIN SMALL LETTER I (653)
-* `Zyyy` (101), example: ʻ 699 MODIFIER LETTER TURNED COMMA (97)
+* `Latn` (1993 = 100%), example: e 101 LATIN SMALL LETTER E (207)
 
-## uz_ut
+## Turkish German: qtd_sagt
 
-* `Latn` (33983), example: a 97 LATIN SMALL LETTER A (5008)
-* `Zyyy` (724), example: ʻ 699 MODIFIER LETTER TURNED COMMA (672)
+* `Latn` (162554 = 100%), example: e 101 LATIN SMALL LETTER E (18930)
 
-## uz_uzudt
+## Ukrainian: uk_iu
 
-* `Latn` (37718), example: a 97 LATIN SMALL LETTER A (5285)
-* `Zyyy` (619), example: ʻ 699 MODIFIER LETTER TURNED COMMA (611)
+* `Cyrl` (546493 = 99%), example: о 1086 CYRILLIC SMALL LETTER O (51018)
+* `Latn` (3456 = 1%), example: e 101 LATIN SMALL LETTER E (303)
+* `Grek` (20 = 0%), example: μ 956 GREEK SMALL LETTER MU (5)
+* `Zyyy` (1 = 0%), example: ʼ 700 MODIFIER LETTER APOSTROPHE (1)
 
-## vep_vwt
+## Ukrainian: uk_parlamint
 
-* `Latn` (5964), example: a 97 LATIN SMALL LETTER A (705)
-* `Zyyy` (55), example: ʼ 700 MODIFIER LETTER APOSTROPHE (55)
+* `Cyrl` (525357 = 100%), example: о 1086 CYRILLIC SMALL LETTER O (52639)
+* `Latn` (255 = 0%), example: I 73 LATIN CAPITAL LETTER I (47)
 
-## vi_tuecl
+## Umbrian: xum_ikuvina
 
-* `Latn` (6729), example: n 110 LATIN SMALL LETTER N (711)
+* `Latn` (6282 = 100%), example: e 101 LATIN SMALL LETTER E (966)
+* `Grek` (2 = 0%), example: θ 952 GREEK SMALL LETTER THETA (2)
 
-## vi_vtb
+## Upper Sorbian: hsb_ufal
 
-* `Latn` (206791), example: n 110 LATIN SMALL LETTER N (24824)
+* `Latn` (52174 = 100%), example: a 97 LATIN SMALL LETTER A (4969)
+* `Cyrl` (26 = 0%), example: е 1077 CYRILLIC SMALL LETTER IE (3)
+* `Arab` (24 = 0%), example: ا 1575 ARABIC LETTER ALEF (4)
+* `Grek` (11 = 0%), example: α 945 GREEK SMALL LETTER ALPHA (2)
+* `Syrc` (8 = 0%), example: ܝ 1821 SYRIAC LETTER YUDH (2)
+* `Knda` (5 = 0%), example: ಕ 3221 KANNADA LETTER KA (2)
 
-## wbp_ufal
+## Urdu: ur_udtb
 
-* `Latn` (2022), example: a 97 LATIN SMALL LETTER A (350)
+* `Arab` (481665 = 100%), example: ا 1575 ARABIC LETTER ALEF (60102)
+* `Latn` (258 = 0%), example: A 65 LATIN CAPITAL LETTER A (19)
 
-## wo_wtb
+## Uyghur: ug_udt
 
-* `Latn` (141922), example: a 97 LATIN SMALL LETTER A (20064)
-* `Grek` (7), example: η 951 GREEK SMALL LETTER ETA (7)
+* `Arab` (209424 = 100%), example: ى 1609 ARABIC LETTER ALEF MAKSURA (31279)
+* `Latn` (111 = 0%), example: t 116 LATIN SMALL LETTER T (53)
 
-## wuu_shud
+## Uzbek: uz_tuecl
 
-* `Hani` (9747), example: 伐 20240 CJK UNIFIED IDEOGRAPH-4F10 (486)
+* `Latn` (4562 = 98%), example: i 105 LATIN SMALL LETTER I (653)
+* `Zyyy` (101 = 2%), example: ʻ 699 MODIFIER LETTER TURNED COMMA (97)
 
-## xav_xdt
+## Uzbek: uz_ut
 
-* `Latn` (7228), example: a 97 LATIN SMALL LETTER A (1263)
+* `Latn` (33983 = 98%), example: a 97 LATIN SMALL LETTER A (5008)
+* `Zyyy` (724 = 2%), example: ʻ 699 MODIFIER LETTER TURNED COMMA (672)
 
-## xcl_caval
+## Uzbek: uz_uzudt
 
-* `Armn` (342533), example: ա 1377 ARMENIAN SMALL LETTER AYB (51236)
+* `Latn` (37718 = 98%), example: a 97 LATIN SMALL LETTER A (5285)
+* `Zyyy` (619 = 2%), example: ʻ 699 MODIFIER LETTER TURNED COMMA (611)
 
-## xnr_kdtb
+## Veps: vep_vwt
 
-* `Deva` (5153), example: ह 2361 DEVANAGARI LETTER HA (440)
+* `Latn` (5964 = 99%), example: a 97 LATIN SMALL LETTER A (705)
+* `Zyyy` (55 = 1%), example: ʼ 700 MODIFIER LETTER APOSTROPHE (55)
 
-## xpg_kul
+## Vietnamese: vi_tuecl
 
-* `Grek` (7852), example: ε 949 GREEK SMALL LETTER EPSILON (971)
-* `Latn` (708), example: a 97 LATIN SMALL LETTER A (121)
-* `Cari` (3), example: 𐋇 66247 CARIAN LETTER TT (3)
+* `Latn` (6729 = 100%), example: n 110 LATIN SMALL LETTER N (711)
 
-## xum_ikuvina
+## Vietnamese: vi_vtb
 
-* `Latn` (6282), example: e 101 LATIN SMALL LETTER E (966)
-* `Grek` (2), example: θ 952 GREEK SMALL LETTER THETA (2)
+* `Latn` (206791 = 100%), example: n 110 LATIN SMALL LETTER N (24824)
 
-## yi_yitb
+## Warlpiri: wbp_ufal
 
-* `Hebr` (97752), example: א 1488 HEBREW LETTER ALEF (11934)
-* `Latn` (136), example: d 100 LATIN SMALL LETTER D (54)
+* `Latn` (2022 = 100%), example: a 97 LATIN SMALL LETTER A (350)
 
-## yo_ytb
+## Welsh: cy_ccg
 
-* `Latn` (23095), example: n 110 LATIN SMALL LETTER N (2207)
+* `Latn` (208261 = 100%), example: d 100 LATIN SMALL LETTER D (20777)
 
-## yrk_tundra
+## Western Armenian: hyw_armtdp
 
-* `Cyrl` (5421), example: а 1072 CYRILLIC SMALL LETTER A (1119)
-* `Zyyy` (500), example: ʼ 700 MODIFIER LETTER APOSTROPHE (328)
-* `Latn` (357), example: p 112 LATIN SMALL LETTER P (299)
+* `Armn` (583747 = 100%), example: ա 1377 ARMENIAN SMALL LETTER AYB (85927)
+* `Latn` (1420 = 0%), example: e 101 LATIN SMALL LETTER E (172)
+* `Grek` (5 = 0%), example: θ 952 GREEK SMALL LETTER THETA (1)
 
-## yrl_complin
+## Western Sierra Puebla Nahuatl: nhi_mesotree
 
-* `Latn` (101301), example: a 97 LATIN SMALL LETTER A (17191)
+* `Latn` (96785 = 100%), example: a 97 LATIN SMALL LETTER A (12521)
 
-## yue_hk
+## Wolof: wo_wtb
 
-* `Hani` (15428), example: 我 25105 CJK UNIFIED IDEOGRAPH-6211 (538)
-* `Latn` (351), example: e 101 LATIN SMALL LETTER E (38)
+* `Latn` (141922 = 100%), example: a 97 LATIN SMALL LETTER A (20064)
+* `Grek` (7 = 0%), example: η 951 GREEK SMALL LETTER ETA (7)
 
-## zh_beginner
+## Xavante: xav_xdt
 
-* `Hani` (21919), example: 我 25105 CJK UNIFIED IDEOGRAPH-6211 (839)
-* `Latn` (210), example: a 97 LATIN SMALL LETTER A (18)
+* `Latn` (7228 = 100%), example: a 97 LATIN SMALL LETTER A (1263)
 
-## zh_cfl
+## Xibe: sjo_xdt
 
-* `Hani` (9412), example: 我 25105 CJK UNIFIED IDEOGRAPH-6211 (475)
-* `Latn` (6), example: K 75 LATIN CAPITAL LETTER K (2)
+* `Mong` (67310 = 100%), example: ᡝ 6237 MONGOLIAN LETTER SIBE E (8848)
+* `Latn` (5 = 0%), example: I 73 LATIN CAPITAL LETTER I (2)
 
-## zh_gsd
+## Yakut: sah_yktdt
 
-* `Hani` (161915), example: 的 30340 CJK UNIFIED IDEOGRAPH-7684 (5674)
-* `Latn` (5034), example: e 101 LATIN SMALL LETTER E (428)
-* `Grek` (1), example: θ 952 GREEK SMALL LETTER THETA (1)
+* `Cyrl` (7060 = 100%), example: а 1072 CYRILLIC SMALL LETTER A (907)
 
-## zh_gsdsimp
+## Yiddish: yi_yitb
 
-* `Hani` (161914), example: 的 30340 CJK UNIFIED IDEOGRAPH-7684 (5674)
-* `Latn` (5034), example: e 101 LATIN SMALL LETTER E (428)
-* `Grek` (1), example: θ 952 GREEK SMALL LETTER THETA (1)
+* `Hebr` (97752 = 100%), example: א 1488 HEBREW LETTER ALEF (11934)
+* `Latn` (136 = 0%), example: d 100 LATIN SMALL LETTER D (54)
 
-## zh_hk
+## Yoruba: yo_ytb
 
-* `Hani` (12080), example: 我 25105 CJK UNIFIED IDEOGRAPH-6211 (413)
-* `Latn` (163), example: o 111 LATIN SMALL LETTER O (17)
+* `Latn` (23095 = 100%), example: n 110 LATIN SMALL LETTER N (2207)
 
-## zh_patentchar
+## Yupik: ess_sli
 
-* `Hani` (7304), example: 的 30340 CJK UNIFIED IDEOGRAPH-7684 (302)
-* `Latn` (477), example: o 111 LATIN SMALL LETTER O (32)
+* `Latn` (8866 = 100%), example: a 97 LATIN SMALL LETTER A (1493)
 
-## zh_pud
+## Zaar: say_autogramm
 
-* `Hani` (29776), example: 的 30340 CJK UNIFIED IDEOGRAPH-7684 (1375)
-* `Latn` (1650), example: a 97 LATIN SMALL LETTER A (154)
-* `Grek` (1), example: α 945 GREEK SMALL LETTER ALPHA (1)
+* `Latn` (52858 = 89%), example: ə 601 LATIN SMALL LETTER SCHWA (4433)
+* `Zyyy` (6779 = 11%), example: ː 720 MODIFIER LETTER TRIANGULAR COLON (6775)
 
-## zza_zsd
+## Zazaki: zza_zsd
 
-* `Latn` (3771), example: a 97 LATIN SMALL LETTER A (461)
+* `Latn` (3771 = 100%), example: a 97 LATIN SMALL LETTER A (461)
 
