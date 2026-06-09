@@ -19,7 +19,7 @@ Armenian auxiliary verbs can be divided into:
 
 - tense auxiliary, used to form compound tenses represented by _եմ&nbsp;_ and _էի&nbsp;_ “be”;
 - aspectual auxiliary, used to form so-called “secondary compound tenses” represented by _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”,
-- voice auxiliary, used to form periphrastic causatives represented by _տալ&nbsp;_ “cause / make someone to perform action”,
+- voice auxiliary, used to form periphrastic causatives represented by _տալ&nbsp;_ “cause / make someone perform action”,
 - mood auxiliary, used to form periphrastic necessitative mood by _պիտի&nbsp;_ “to be necessary, useful” or _պետք է&nbsp;_ “lit: is needed”.
 
 ### Examples
@@ -34,17 +34,17 @@ Armenian auxiliary verbs can be divided into:
   _վազել <b>էիր</b>&nbsp;_ “you had run”,
   _կանգնած <b>էին</b>&nbsp;_ “they were standing”.
 
-Note, that finite present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ are also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>&nbsp;_ “I have run”), (present-)future (e.g. _վազելու <b>եմ</b>&nbsp;_ “I shall run”) and future-in-the-past (_վազելու <b>էի</b>&nbsp;_ “I would (intended to) run”). The auxiliaries express aspect, person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice.
+Note, that finite present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ are also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>&nbsp;_ “I have run”), (present-)future (e.g. _վազելու <b>եմ</b>&nbsp;_ “I shall run”) and future-in-the-past (_վազելու <b>էի</b>&nbsp;_ “I would (intended to) run”). The auxiliaries express aspect, person, number, mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express aspect and voice.
 
 - Durative / habitual aspect. The finite form of _լինել (լինեմ)&nbsp;_ (in various tenses and moods or in the infinitive _լինել&nbsp;_) is combined with processual, resultative and future participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
-  _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I intent to go.`Sub`”,
+  _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I intend to go.`Sub`”,
   _գնացած <b>լինեմ</b>&nbsp;_ “(If / when) I will be gone.`Sub`”,
   _գնալիս <b>լինեմ</b>&nbsp;_ “(If / when) I will be going.`Sub`”,
   _գնալու <b>լինել</b>&nbsp;_ “to intend to go, to be going”,
   _գնացած <b>լինել</b>&nbsp;_ “to be gone”,
   _գնալիս <b>լինել</b>&nbsp;_ “to be in the process of going”.
 
-- Causative voice. The finite form of _տալ&nbsp;_ (in various tenses and moods) is combined with infinitive of the content verb. The auxiliary expresses aspect, person, number, tense and mood. The auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive:
+- Causative voice. The finite form of _տալ&nbsp;_ (in various tenses and moods) is combined with infinitive of the content verb. The auxiliary expresses aspect, person, number, tense and mood. Only the auxiliary is annotated with `Voice=Cau`; the infinitive retains its own voice annotation:
   _հասկանալ_.`Act` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
   _<b>հասկացնել</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand” (morphological causative),
   _<b>հասկացնել</b>_.`Cau` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”.
@@ -63,5 +63,5 @@ Armenian modal verbs are not considered auxiliary and they are tagged `VERB`. Th
 
 ### Constructions with _կամ&nbsp;_ and _ունեմ&nbsp;_ and resultative participle
 
-Note, that finite form of existentials _կամ&nbsp;_ “be, exist” and _ունեմ&nbsp;_ “have” in combination with resultative participle (_Նա հագած <b>ուներ</b> թեթև վերարկու։_ “He <b>had</b> a light coat dressed.” or _Երեկվանից ոչ մի տող գրած <b>չկամ</b>։_ “I <b>haven't written</b> a single line since yesterday.” (lit: “I <b>do not exist</b> written not any line since yesterday.”) are tagged `AUX` (these so-called “experiential forms”, mainly in negative or interrogative constructions, are analyzed as auxiliary in the Armenian grammar).
+Note, that finite form of existentials _կամ_/_kam_ “be, exist” and _ունեմ_/_ownem_ “have” in combination with resultative participle (_Նա հագած <b>ուներ</b> թեթև վերարկու։_ “He <b>had</b> a light coat dressed.” or _Երեկվանից ոչ մի տող գրած <b>չկամ</b>։_ “I <b>haven't written</b> a single line since yesterday.” (lit: “I <b>do not exist</b> written not any line since yesterday.”) are tagged `AUX` (these so-called “experiential forms”, mainly in negative or interrogative constructions, are analyzed as auxiliary in the Armenian grammar). The verb _ունեմ_/_ownem_, combined with the infinitive of a limited set of coordinate compounds, forms the habitual present and the past imperfect (_Նրանք իրար տուն գնալ-գալ ունեն։_/_Nrank’ irar town gnal-gal ownen_ “They are in the habit of visiting each other's homes.” (lit.: They have going-and-coming to each other's homes); _Առաջ իրար հետ առնել-տալ ունեին։_/_Aṙaǰ irar het aṙnel-tal ownein._ “They used to have dealings with each other.” (lit.: They used to give-and-take with each other).
 <!-- Interlanguage links updated St 6. května 2026, 20:41:56 CEST -->
