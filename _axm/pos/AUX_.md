@@ -23,52 +23,52 @@ Auxiliaries can be divided into:
 ### Examples
 
 - Present tense. Finite present form of _եմ_ is combined with the resultative, past, perfect, future and in later stages also with the imperfective participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
-  * _Ոչ **եմք մեռած**_/_Oč **emk’ meṙaç**_ “we **are** not **dead**”,
-  * _**լոկցեալ է** ի թթու ջուր_/_**lokc’eal ē** i t’t’ow ǰowr_ “lit: he **has bathed** in sour water”
-  * _**տաքցեր է**_/_**tak’c’er ē**_ “It **has heated** up”
-  *  _**խօսելոց եմք**_/_**xòseloc’ emk’**_ “**we shall speak**”
-  * _Է՞ր **ես** ինձնէ **հեռանալիս**, սիրտս **է դողալիս**_/_Ēr **es** injnē **heṙanalis**, sirts **ē doġalis**_ “Why **do** you **leave** me? My heart **is trembling**”.
+  * _Ոչ <b>եմք մեռած</b>_/_Oč <b>emk’ meṙaç</b>_ “we <b>are</b> not <b>dead</b>”,
+  * _<b>լոկցեալ է</b> ի թթու ջուր_/_<b>lokc’eal ē</b> i t’t’ow ǰowr_ “he/she <b>has bathed</b> in sour water”
+  * _<b>տաքցեր է</b>_/_<b>tak’c’er ē</b>_ “It <b>has heated</b> up”
+  * _<b>խօսելոց եմք</b>_/_<b>xòseloc’ emk’</b>_ “<b>we shall speak</b>”
+  * _Է՞ր <b>ես</b> ինձնէ <b>հեռանալիս</b>, սիրտս <b>է դողալիս</b>_/_Ēr <b>es<b> injnē <b>heṙanalis</b>, sirts <b>ē doġalis</b>_ “Why <b>do</b> you <b>leave</b> me? My heart <b>is trembling</b>”.
 
   Note that a limited set of verbs can form present morphologically, without the auxiliary.
 
 - Imperfect tense. Finite imperfect form _էի_ is combined with  resultative, past, perfect and future of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
-  * _անսիւն **շինած էր**_/_ansiwn **šinaç ēr**_ “it was **built** without columns”,
-  * _**գրեալ էր** ի մէջ թխտին_/_**greal ēr** i mēǰ t’xtin_ “It **was written** on the paper”,
-  * _**հնազանդել էր**_/_**hnazandel ēr**_ “he **had obeyed**”,
-  * _**առնելոց էր**_/_**aṙneloc’ ēr**_ “he/she **would** (intended to) **buy**”.
+  * _անսիւն <b>շինած էր</b>_/_ansiwn <b>šinaç ēr</b>_ “it was <b>built</b> without columns”,
+  * _<b>գրեալ էր</b> ի մէջ թխտին_/_<b>greal ēr</b> i mēǰ t’xtin_ “It <b>was written</b> on the paper”,
+  * _<b>հնազանդել էր</b>_/_<b>hnazandel ēr</b>_ “he <b>had obeyed</b>”,
+  * _<b>առնելոց էր</b>_/_<b>aṙneloc’ ēr</b>_ “he/she <b>would</b> (intended to) <b>buy</b>”.
  
 
 - Durative / habitual aspect. The finite form of _լինիմ/linim_ “be repeatedly / habitually”_, _ունիմ/ownim_ “have”, _կամ/kam_ “exist”  (in various tenses and moods) are combined with resultative, perfect and past participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
-   * _իւր բնակութիւնն հանապազ ի կաղնի ծառն **լինի**_/_iwr bnakowt’iwnn hanapaz i kaġni çaṙn **lini**_ “its dwelling **is** always in the oak tree”,
-   *  _եղկ ջուր, յոր **եփած լինի** չոր մանուշակն եւ վարդ_/_eġk ǰowr, yor **ep’aç lini** čor manowšakn ew vard_ “Lukewarm water, in which dried violet and rose **have been boiled**”,
-   * _Եւ թէ որդիքն **մեռել լինին** թագաւորին_/_Ew t’ē ordik’n **meṙel linin** t’agaworin_ “And if the king's sons **have died**”,
-   * _զքաղաքն **առած ունէին**_/_zk’aġak’n **aṙaç ownēin**_ “They **had captured** the city”,
-   * _Ոմանք չեն արժանի ի յիւր տեսոյն, **կան հալածել**_/_Omank’ čen aržani i yiwr tesoyn, **kan halaçel**_ “Some are not worthy of his sight; they **keep persecuting**”.
+   * _իւր բնակութիւնն հանապազ ի կաղնի ծառն <b>լինի</b>_/_iwr bnakowt’iwnn hanapaz i kaġni çaṙn <b>lini</b>_ “its dwelling <b>is</b> always in the oak tree”,
+   * _եղկ ջուր, յոր <b>եփած լինի</b> չոր մանուշակն եւ վարդ_/_eġk ǰowr, yor <b>ep’aç lini</b> čor manowšakn ew vard_ “Lukewarm water, in which dried violet and rose <b>have been boiled</b>”,
+   * _Եւ թէ որդիքն <b>մեռել լինին</b> թագաւորին_/_Ew t’ē ordik’n <b>meṙel linin</b> t’agaworin_ “And if the king's sons <b>have died</b>”,
+   * _զքաղաքն <b>առած ունէին</b>_/_zk’aġak’n <b>aṙaç ownēin</b>_ “They <b>had captured</b> the city”,
+   * _Ոմանք չեն արժանի ի յիւր տեսոյն, <b>կան հալածել</b>_/_Omank’ čen aržani i yiwr tesoyn, <b>kan halaçel</b>_ “Some are not worthy of his sight; they <b>keep persecuting</b>”.
 
  
 - Indicative / conditional mood. The mood particle _կու (կոյ, կ-)/kow (koy, k-)_ “do/will” is combined with the older present and imperfect forms (present/imperfect subjunctive) of lexical verb to form the present/imperfect indicative or the present/imperfect conditional, which share the same form.
-   * _Քաղցր խօսքով **կու ծիծաղիս**_/_K’aġc’r xòsk’ov **kow çiçaġis**_ “With sweet speech, you **smile** / you **are smiling** / you **will smile**”,
-   * _**կ**խմէր_/_**k**xmēr_ “He **used to drink** / He **was drinking** / he **would drink**”,
-   * _**տի** բերէր_/_**ti** berēr_ “he **was going to** bring / he **should have** brought”.
+   * _Քաղցր խօսքով <b>կու ծիծաղիս</b>_/_K’aġc’r xòsk’ov <b>kow çiçaġis</b>_ “With sweet speech, you <b>smile</b> / you <b>are smiling</b> / you <b>will smile</b>”,
+   * _<b>կ</b>խմէր_/_<b>k</b>xmēr_ “He <b>used to drink</b> / He <b>was drinking</b> / he <b>would drink</b>”,
+   * _<b>տի</b> բերէր_/_<b>ti</b> berēr_ “he <b>was going to</b> bring / he <b>should have</b> brought”.
 
   
-- Necessitative mood. The mood particle _**պիտի**_ “to be necessary, useful” is combined with subjunctive finite form of lexical verb. The auxiliary expresses mood.
-  * _Զիմ գըլուխս ու զարիւնըս վարձ **պիտի տամ**_/_Zim gëlowxs ow zariwnës varj **piti** tam_ “I **must** give my head and my blood as the price”,
-  * _գիշերս ինչ **տի** լինայ_/_gišers inč **ti** linay_ “What **will** happen tonight?”
-  * _**տի** բերէր_/_**ti** berēr_ “he/she **was going to** bring / he **should** bring”.
+- Necessitative mood. The mood particle _<b>պիտի</b>_ “to be necessary, useful” is combined with subjunctive finite form of lexical verb. The auxiliary expresses mood.
+  * _Զիմ գըլուխս ու զարիւնըս վարձ <b>պիտի տամ</b>_/_Zim gëlowxs ow zariwnës varj <b>piti</b> tam_ “I <b>must</b> give my head and my blood as the price”,
+  * _գիշերս ինչ <b>տի</b> լինայ_/_gišers inč <b>ti</b> linay_ “What <b>will</b> happen tonight?”
+  * _<b>տի</b> բերէր_/_<b>ti</b> berēr_ “he/she <b>was going to</b> bring / he <b>should</b> bring”.
 
-Note, that in Middle Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended to location-existentials (_իւր բնակութիւնն հանապազ ի կաղնի ծառն **լինի**_/_iwr bnakowt’iwnn hanapaz i kaġni çaṙn **lini**_ “Its dwelling **is** always in the oak tree.”) Hence almost all occurrences of _եմ_ and _լինիմ_ should be tagged `AUX`. Only pure existentials without location have a non-auxiliary _լինիմ_ and _կամ_ which should be tagged `VERB`.
- * _քո մազերդ **է ճիւղք** խաղողի_/_k’o mazerd **ē č̣iwġk’** xaġoġi_ “Your hair **is** like grape-vine **tendrils** `AUX`”,
- * _Պագն որ **դրամով լինի**, չեմ իտար_/_Pagn or **dramov lini**, čem itar_ “A kiss that **is for money**, I shall not give `AUX`”,
- * _Յորժամ յարութիւն **լինի**, փողն երկու ձայնիւ տի գոչէ_/_Yoržam yarowt’iwn **lini**, p’oġn erkow jayniw ti gočē_ “When the resurrection occurs, the trumpet shall cry out with two voices `VERB`”.
+Note, that in Middle Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended to location-existentials (_իւր բնակութիւնն հանապազ ի կաղնի ծառն <b>լինի</b>_/_iwr bnakowt’iwnn hanapaz i kaġni çaṙn <b>lini</b>_ “Its dwelling <b>is</b> always in the oak tree.”) Hence almost all occurrences of _եմ_/_em_ and _լինիմ_/_linim_ should be tagged `AUX`. Only pure existentials without location have a non-auxiliary _լինիմ_/_linim_ and _կամ_/_kam_ which should be tagged `VERB`.
+ * _քո մազերդ <b>է ճիւղք</b> խաղողի_/_k’o mazerd <b>ē č̣iwġk’</b> xaġoġi_ “Your hair <b>is</b> like grape-vine <b>tendrils</b> `AUX`”,
+ * _Պագն որ <b>դրամով լինի</b>, չեմ իտար_/_Pagn or <b>dramov lini</b>, čem itar_ “A kiss that <b>is for money</b>, I shall not give `AUX`”,
+ * _Յորժամ յարութիւն <b>լինի</b>, փողն երկու ձայնիւ տի գոչէ_/_Yoržam yarowt’iwn <b>lini</b>, p’oġn erkow jayniw ti gočē_ “When the resurrection occurs, the trumpet shall cry out with two voices `VERB`”.
 
 
-- Causative voice. The finite form of _տալ&nbsp;_ (in various tenses and moods) is combined with infinitive of the content verb. The auxiliary expresses aspect, person, number, tense and mood. The auxiliary will have `Voice=Cau`. There will also be voice information at the infinitive:
-  * _զամէնն հնազանդութեամբ բերէ եւ **չտայ** `Cau` **սպաննել**_ `Act`/_amēnn hnazandowt’eamb berē ew **čtay spannel**_ “lit: he will bring them all into submission and **will not make kill** them”.
+- Causative voice. The finite form of _տալ_/_tal_ (in various tenses and moods) is combined with infinitive of the content verb. The auxiliary expresses aspect, person, number, tense and mood. The auxiliary will have `Voice=Cau`. There will also be voice information at the infinitive:
+  * _զամէնն հնազանդութեամբ բերէ եւ <b>չտայ<b> `Cau` <b>սպաննել<b>_ `Act`/_amēnn hnazandowt’eamb berē ew <b>čtay spannel<b>_ “lit: he will bring them all into submission and <b>will not make kill<b> them”.
     
  
 - Negative auxiliaries. Particle-like morphemes _չի (չ-)/či (č-)_ “do/does not” and _ոչ/oč_ “do/does not” do not have a conjugation paradigm and are used to negate verbs in the present and imperfect tenses of the indicative and subjunctive moods.
-  * _Յեկեղեցին **ոչ երեւայ**. Եւ զեկեալ հիւրսն **ոչ խղճայ**_/_Yekeġec’in **oč ereway**. Ew zekeal hiwrsn **oč xġč̣ay**_ “The church **does not appear**; and he **does not pity** the guests who have come”,
-  * _**Չի դառնաս** հեղ մի յիս հայես. **Չի գիտե՞ս** քո պլպուլն եմ ես_/_**Či daṙnas** heġ mi yis hayes. **Či gites** k’o plpowln em es?_ “You do not turn to look at me even once; Don't you know that I am your nightingale?”
+  * _Յեկեղեցին <b>ոչ երեւայ<b>. Եւ զեկեալ հիւրսն <b>ոչ խղճայ<b>_/_Yekeġec’in <b>oč ereway<b>. Ew zekeal hiwrsn <b>oč xġč̣ay<b>_ “The church <b>does not appear<b>; and he <b>does not pity<b> the guests who have come”,
+  * _<b>Չի դառնաս<b> հեղ մի յիս հայես. <b>Չի գիտե՞ս<b> քո պլպուլն եմ ես_/_<b>Či daṙnas<b> heġ mi yis hayes. <b>Či gites<b> k’o plpowln em es?_ “You do not turn to look at me even once; Don't you know that I am your nightingale?”
   * _Եւ այս ցեղս զստածումն եւ զբժշկութիւնն **չընդունի** բնաւ_/_Ew ays c’eġs zstaçowmn ew zbžškowt’iwnn čëndowni bnaw_ “And this type (of ailment) does not admit any treatment or cure at all”.
   <!-- Interlanguage links updated St 6. května 2026, 20:41:55 CEST -->
