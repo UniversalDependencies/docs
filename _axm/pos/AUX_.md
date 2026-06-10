@@ -58,13 +58,13 @@ Auxiliaries can be divided into:
   * _<b>տի</b> բերէր_/_<b>ti</b> berēr_ “he/she <b>was going to</b> bring / he <b>should</b> bring”.
 
 Note, that in Middle Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended to location-existentials (_իւր բնակութիւնն հանապազ ի կաղնի ծառն <b>լինի</b>_/_iwr bnakowt’iwnn hanapaz i kaġni çaṙn <b>lini</b>_ “Its dwelling <b>is</b> always in the oak tree.”) Hence almost all occurrences of _եմ_/_em_ and _լինիմ_/_linim_ should be tagged `AUX`. Only pure existentials without location have a non-auxiliary _լինիմ_/_linim_ and _կամ_/_kam_ which should be tagged `VERB`.
- * _քո մազերդ <b>է ճիւղք</b> խաղողի_/_k’o mazerd <b>ē č̣iwġk’</b> xaġoġi_ “Your hair <b>is</b> like grape-vine <b>tendrils</b> `AUX`”,
- * _Պագն որ <b>դրամով լինի</b>, չեմ իտար_/_Pagn or <b>dramov lini</b>, čem itar_ “A kiss that <b>is for money</b>, I shall not give `AUX`”,
- * _Յորժամ յարութիւն <b>լինի</b>, փողն երկու ձայնիւ տի գոչէ_/_Yoržam yarowt’iwn <b>lini</b>, p’oġn erkow jayniw ti gočē_ “When the resurrection occurs, the trumpet shall cry out with two voices `VERB`”.
+ * _քո մազերդ <b>է_ `AUX` _ճիւղք</b> խաղողի_/_k’o mazerd <b>ē č̣iwġk’</b> xaġoġi_ “Your hair <b>is</b> like grape-vine <b>tendrils</b>”,
+ * _Պագն որ <b>դրամով լինի</b>_ `AUX`, _չեմ իտար_/_Pagn or <b>dramov lini</b>, čem itar_ “A kiss that <b>is for money</b>, I shall not give”,
+ * _Յորժամ յարութիւն <b>լինի</b>_ `VERB`, _փողն երկու ձայնիւ տի գոչէ_/_Yoržam yarowt’iwn <b>lini</b>, p’oġn erkow jayniw ti gočē_ “When the resurrection occurs, the trumpet shall cry out with two voices”.
 
 
 - Causative voice. The finite form of _տալ_/_tal_ (in various tenses and moods) is combined with infinitive of the content verb. The auxiliary expresses aspect, person, number, tense and mood. The auxiliary will have `Voice=Cau`. There will also be voice information at the infinitive:
-  * _զամէնն հնազանդութեամբ բերէ եւ <b>չտայ</b> `Cau` <b>սպաննել</b>_ `Act`/_amēnn hnazandowt’eamb berē ew <b>čtay spannel</b>_ “lit: he will bring them all into submission and <b>will not make kill</b> them”.
+  * _զամէնն հնազանդութեամբ բերէ եւ <b>չտայ</b> `Cau` <b>սպաննել</b>_ `Act`/_amēnn hnazandowt’eamb berē ew <b>čtay spannel</b>_ lit. he will bring them all into submission and <b>will not make kill</b> them.
     
  
 - Negative auxiliaries. Particle-like morphemes _չի (չ-)/či (č-)_ “do/does not” and _ոչ/oč_ “do/does not” do not have a conjugation paradigm and are used to negate verbs in the present and imperfect tenses of the indicative and subjunctive moods.
