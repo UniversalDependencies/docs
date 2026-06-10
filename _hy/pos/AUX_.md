@@ -71,6 +71,6 @@ Finite forms of the existential verbs _կամ_/_kam_ “be, exist” and _ուն
 Although _կամ_/_kam_ and _ունեմ_/_ownem_ are not traditionally classified as auxiliary verbs in Armenian grammar, they are analyzed here as auxiliaries when used in these resultative or experiential (mainly in negative or interrogative) constructions.
 
 Note that the verb _ունեմ_/_ownem_, combined with the infinitive of a limited set of coordinate compounds, forms the habitual present and the past imperfect֊
-* _Նրանք իրար տուն գնալ-գալ ունեն։_/_Nrank’ irar town gnal-gal ownen_ “They are in the habit of visiting each other's homes.” (lit. They have going-and-coming to each other's homes);
-* _Առաջ իրար հետ առնել-տալ ունեին։_/_Aṙaǰ irar het aṙnel-tal ownein._ “They used to have dealings with each other.” (lit. They used to give-and-take with each other).
+* _Նրանք իրար տուն <b>գնալ-գալ ունեն</b>։_/_Nrank’ irar town <b>gnal-gal ownen</b>_ “They are in the habit of visiting each other's homes.” (lit. They have going-and-coming to each other's homes);
+* _Առաջ իրար հետ <b>առնել-տալ ունեին</b>։_/_Aṙaǰ irar het <b>aṙnel-tal ownein</b>._ “They used to have dealings with each other.” (lit. They used to give-and-take with each other).
 <!-- Interlanguage links updated St 6. května 2026, 20:41:56 CEST -->
