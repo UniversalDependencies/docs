@@ -64,11 +64,11 @@ Note, that in Middle Armenian copulas are also tagged `AUX` and the definition o
 
 
 - Causative voice. The finite form of _տալ_/_tal_ (in various tenses and moods) is combined with infinitive of the content verb. The auxiliary expresses aspect, person, number, tense and mood. The auxiliary will have `Voice=Cau`. There will also be voice information at the infinitive:
-  * _զամէնն հնազանդութեամբ բերէ եւ <b>չտայ<b> `Cau` <b>սպաննել<b>_ `Act`/_amēnn hnazandowt’eamb berē ew <b>čtay spannel<b>_ “lit: he will bring them all into submission and <b>will not make kill<b> them”.
+  * _զամէնն հնազանդութեամբ բերէ եւ <b>չտայ</b> `Cau` <b>սպաննել</b>_ `Act`/_amēnn hnazandowt’eamb berē ew <b>čtay spannel</b>_ “lit: he will bring them all into submission and <b>will not make kill</b> them”.
     
  
 - Negative auxiliaries. Particle-like morphemes _չի (չ-)/či (č-)_ “do/does not” and _ոչ/oč_ “do/does not” do not have a conjugation paradigm and are used to negate verbs in the present and imperfect tenses of the indicative and subjunctive moods.
-  * _Յեկեղեցին <b>ոչ երեւայ<b>. Եւ զեկեալ հիւրսն <b>ոչ խղճայ<b>_/_Yekeġec’in <b>oč ereway<b>. Ew zekeal hiwrsn <b>oč xġč̣ay<b>_ “The church <b>does not appear<b>; and he <b>does not pity<b> the guests who have come”,
-  * _<b>Չի դառնաս<b> հեղ մի յիս հայես. <b>Չի գիտե՞ս<b> քո պլպուլն եմ ես_/_<b>Či daṙnas<b> heġ mi yis hayes. <b>Či gites<b> k’o plpowln em es?_ “You do not turn to look at me even once; Don't you know that I am your nightingale?”
-  * _Եւ այս ցեղս զստածումն եւ զբժշկութիւնն **չընդունի** բնաւ_/_Ew ays c’eġs zstaçowmn ew zbžškowt’iwnn čëndowni bnaw_ “And this type (of ailment) does not admit any treatment or cure at all”.
+  * _Յեկեղեցին <b>ոչ երեւայ</b>. Եւ զեկեալ հիւրսն <b>ոչ խղճայ</b>_/_Yekeġec’in <b>oč ereway</b>. Ew zekeal hiwrsn <b>oč xġč̣ay</b>_ “The church <b>does not appear</b>; and he <b>does not pity</b> the guests who have come”,
+  * _<b>Չի դառնաս</b> հեղ մի յիս հայես. <b>Չի գիտե՞ս</b> քո պլպուլն եմ ես_/_<b>Či daṙnas</b> heġ mi yis hayes. <b>Či gites</b> k’o plpowln em es?_ “You <b>do not turn</b> to look at me even once; <b>Don't you know</b> that I am your nightingale?”
+  * _Եւ այս ցեղս զստածումն եւ զբժշկութիւնն <b>չընդունի</b> բնաւ_/_Ew ays c’eġs zstaçowmn ew zbžškowt’iwnn <b>čëndowni</b> bnaw_ “And this type (of ailment) <b>does not admit</b> any treatment or cure at all”.
   <!-- Interlanguage links updated St 6. května 2026, 20:41:55 CEST -->
