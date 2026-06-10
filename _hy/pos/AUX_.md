@@ -57,6 +57,33 @@ In compound forms consisting of _եմ_/_em_ and _լինել_/_linel_ used with n
 Note that in Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended to location-existentials (_Նա տանն <b>է</b> / Նա տանն <b>է լինում</b>_/_Na tann <b>ē</b> / Na tann <b>ē linowm</b>_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ_/_em_ and _լինել (լինեմ)_/_linel (linem)_ should be now tagged `AUX`.
 Only pure existentials without location (_Այն <b>եղել</b> է ու <b>կա</b> որպես հուշ։_/_Ayn <b>eġel</b> ē ow <b>ka</b> orpes howš_ “It <b>has been</b> and <b>is</b> as a memory.”) have a non-auxiliary _լինել_/_linel_ and _կամ_/_kam_ which should be tagged `VERB`.
 
+~~~ conllu
+# visual-style 3 4 cop color:blue
+# visual-style 3 5 aux color:blue
+1	խեղճը	խեղճ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	Translit=xeġč̣ë|LTranslit=xeġč̣
+2	բոլորովին	բոլորովին	ADV	_	PronType=Tot	3	advmod	_	Translit=bolorovin|LTranslit=bolorovin
+3	ուժասպառ	ուժասպառ	ADJ	_	_	0	root	_	Translit=owžaspaṙ|LTranslit=owžaspaṙ
+4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=ē|LTranslit=em
+5	եղել	լինել	AUX	_	Aspect=Perf|VerbForm=Part	3	aux	_	Translit=eġel|LTranslit=linel
+~~~
+
+~~~ conllu
+# visual-style 2 3 aux color:blue
+1	արդեն	արդեն	ADV	_	_	2	advmod	_	Translit=arden|LTranslit=arden
+2	ընտրված	ընտրել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	Translit=ëntrvaç|LTranslit=ëntrel
+3	կլինի	լինել	AUX	_	Aspect=Prosp|Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	Translit=klini|LTranslit=linel
+4	նոր	նոր	ADJ	_	Degree=Pos	5	amod	_	Translit=nor|LTranslit=nor
+5	նախագահը	նախագահ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	2	nsubj:pass	_	Translit=naxagahë|LTranslit=naxagah|SpaceAfter=No
+~~~
+
+~~~ conllu
+# visual-style 2 1 xcomp color:blue
+1	բախտորոշ	բախտորոշ	ADJ	_	_	2	xcomp	_	Translit=baxtoroš|LTranslit=baxtoroš
+2	եղավ	լինել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Translit=eġav|LTranslit=linel
+3	նրա	նրա	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det:poss	_	Translit=nra|LTranslit=nra
+4	մասնակցությունը	մասնակցություն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	2	nsubj	_	Translit=masnakc’owt’yownë|LTranslit=masnakc’owt’yown|SpaceAfter=No
+~~~
+
 
 ### Modal verbs are not auxiliaries
 
