@@ -27,7 +27,7 @@ Auxiliaries can be divided into:
   * _<b>լոկցեալ է</b> ի թթու ջուր_/_<b>lokc’eal ē</b> i t’t’ow ǰowr_ “he/she <b>has bathed</b> in sour water”
   * _<b>տաքցեր է</b>_/_<b>tak’c’er ē</b>_ “It <b>has heated</b> up”
   * _<b>խօսելոց եմք</b>_/_<b>xòseloc’ emk’</b>_ “<b>we shall speak</b>”
-  * _Է՞ր <b>ես</b> ինձնէ <b>հեռանալիս</b>, սիրտս <b>է դողալիս</b>_/_Ēr <b>es<b> injnē <b>heṙanalis</b>, sirts <b>ē doġalis</b>_ “Why <b>do</b> you <b>leave</b> me? My heart <b>is trembling</b>”.
+  * _Է՞ր <b>ես</b> ինձնէ <b>հեռանալիս</b>, սիրտս <b>է դողալիս</b>_/_Ēr <b>es</b> injnē <b>heṙanalis</b>, sirts <b>ē doġalis</b>_ “Why <b>do</b> you <b>leave</b> me? My heart <b>is trembling</b>”.
 
   Note that a limited set of verbs can form present morphologically, without the auxiliary.
 
