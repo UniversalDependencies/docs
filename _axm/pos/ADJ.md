@@ -28,8 +28,8 @@ Most Middle Armenian adjectives can form comparative and superlative [Degree]() 
 Resultative, subject, and past participles are word forms that share properties of both adjectives and verbs. Note that both core participial forms (used to form finite indicative tenses) and participial adjectives (used in nominal predication
 with the [copula](cop) or to modify nouns) are tagged as [VERB]():
 
-- _**ջրած** գինի/ǰraç gini_ “wine diluted with water”
-- _**նախշող** վարպետ/naxšoġ varpet_ “a master of ornamentation”
-- _**ծաղկեալ** ծառ/çaġkeal çaṙ_ “a tree in bloom”
-- _**լոկցեալ** է ի թթու ջուր/lokc’eal ē i t’t’ow ǰowr_ “He has bathed in sour water”
+- _<b>ջրած</b> գինի/<b>ǰraç</b> gini_ “wine <b>diluted</b> with water”
+- _<b>նախշող</b> վարպետ/<b>naxšoġ</b> varpet_ “a master of ornamentation”
+- _<b>ծաղկեալ</b> ծառ/<b>çaġkeal</b> çaṙ_ “a tree in bloom”
+- _<b>լոկցեալ</b> է ի թթու ջուր/<b>lokc’eal</b> ē i t’t’ow ǰowr_ “He has bathed in sour water”
 <!-- Interlanguage links updated St 6. května 2026, 20:41:51 CEST -->
