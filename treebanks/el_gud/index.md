@@ -16,7 +16,7 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.12 release.
 
-The following people have contributed to making this treebank part of UD: Stella Markantonatou, Vivian Stamou, Socrates Vak.
+The following people have contributed to making this treebank part of UD: Stella Markantonatou, Stavros Bompolas, Vivian Stamou, Socrates Vakirtzian.
 
 Repository: [UD_Greek-GUD](https://github.com/UniversalDependencies/UD_Greek-GUD)<br />
 Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_gud218)<br />
