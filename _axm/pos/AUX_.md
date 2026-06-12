@@ -55,7 +55,7 @@ Auxiliaries can be divided into:
   * _գիշերս ինչ <b>տի</b> լինայ_/_gišers inč <b>ti</b> linay_ “What <b>will</b> happen tonight?”
   * _<b>տի</b> բերէր_/_<b>ti</b> berēr_ “he/she <b>was going to</b> bring / he <b>should</b> bring”.
 
-The analysis of finite forms of the verb _լինիլ_/_linil_ “be” as either auxiliary or lexical verbs is ambiguous; we adopted here the following principle: the imperfective/subjunctive forms of the verb _լինիլ_/_linil_ ( _լինալ_/_linal_) are analyzed as lexical verbs whenever they occur with nominal predicates, and as auxiliaries only when they combine with participles.
+Since the analysis of finite forms of the verb _լինիլ_/_linil_ “be” as either auxiliary or lexical verbs is ambiguous, we adopted here the following principle: the present and imperfective forms of indicative/subjunctive mood of the verb _լինիլ_/_linil_ ( _լինալ_/_linal_) are analyzed as lexical verbs whenever they occur with nominal predicates, and as auxiliaries only when they combine with participles.
 Note that in Middle Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended to location-existentials. Only pure existentials without location have a non-auxiliary _լինել_/_linel_ which should be tagged `VERB`.
 
  * _իւր բնակութիւնն հանապազ ի կաղնի ծառն <b>լինի</b>_ `AUX`/_iwr bnakowt’iwnn hanapaz i kaġni çaṙn <b>lini</b>_ “its dwelling <b>is</b> always in the oak tree”,
