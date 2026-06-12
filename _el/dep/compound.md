@@ -25,6 +25,15 @@ punct(απόφαση, -)
 compound(λέξης, κλειδί)
 ~~~
 
+- The reciprocal ο ένας τον άλλον, η μία την άλλη, το ένα το άλλο `each other':
+
+~~~ sdparse
+ο ένας τον άλλον
+compound(ένας, άλλον)
+det(ένας, ο)
+det(άλλον, τον)
+~~~
+
 - For combinations with the forms *κυρ*, *γερο* and *παπα* as a first member and a PROPN or a NOUN as a second one; these combinations may be spelled with or without an '-'. The overall construct is "visible" with the PoS of the head of the compound  and this is the reason why the [flat]() dependency was not preferred because the construct would be visible with the PoS of the first member. Another reason is that these combinations may be spelled as one word, e.g., *γεροναύτης* 'old sailor', in which case they are assigned the PoS of the head of the compound.
 
 ~~~ sdparse
