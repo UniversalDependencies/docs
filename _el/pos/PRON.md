@@ -7,7 +7,7 @@ udver: '2'
 
 ## PRON: pronoun
 
-Pronouns are words that substitute for nouns  or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Τhey never occur with the noun for which they stand and they cannot be replaced with a synonymous nominal phrase; these facts offer a criterion for setting determiners apart from pronouns. 11
+Pronouns are words that substitute for nouns  or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Τhey never occur with the noun for which they stand and they cannot be replaced with a synonymous nominal phrase; these facts offer a criterion for setting determiners apart from pronouns.
 
 *που* is assigned the tag <code>PRON</code> if:
   *  it refers to a noun, e.g. *Έχουμε πολλές πληροφορίες, που*.PRON *δεν οδηγούν όμως πουθενά* "we have much information that, however, leads to nowhere".
