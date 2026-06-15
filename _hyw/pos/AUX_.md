@@ -23,7 +23,7 @@ Auxiliaries can be divided into:
 
 - Present tense. Finite present form of _եմ_/_em_ is combined with the future, resultative and perfect participles of the lexical verb. The auxiliary expresses aspect, person, number, mood and tense, participles express aspect and voice:
   * _<b>մնալու ենք</b>_/_<b>mnalow enk’</b>_ “we <b>will stay</b>”
-  * _ժամանակները <b>փոխուած են</b>_/_žamanaknerë <b>p’oxowaç en</b>_ “times <b>have changed<b>”,
+  * _ժամանակները <b>փոխուած են</b>_/_žamanaknerë <b>p’oxowaç en</b>_ “times <b>have changed</b>”,
   * _<b>առաջարկեր է</b>_/_<b>aṙaǰarker ē</b>_ “he/she <b>has proposed</b>”
   
   Note that a limited set of verbs can form present morphologically, without the auxiliary.
@@ -47,12 +47,9 @@ Auxiliaries can be divided into:
    * _օրերը օրերուն <b>կը յաջորդեն</b>_/_òrerë òrerown <b>kë yaǰorden</b>_ days follow days”,
    * _<b>կ՚երթար</b> ու շուտ մը <b>կը դառնար</b>_/_k՚ert’ar</b> ow šowt më <b>kë daṙnar</b>_ “he/she used to go and come back soon”.
 
-  Since the analysis of finite forms of the verb _ըլլալ_/_ěllal_ “be” as either auxiliary or lexical verbs is ambiguous, we adopted here the following principle: the present and imperfective forms of the subjunctive mood of _ըլլալ_/_ěllal_ are analyzed as lexical verbs whenever they occur with nominal predicates, and as auxiliaries only when they combine with participles.
-In compound forms consisting of _եմ_/_em_ and _ըլլալ_/_ěllal_ used with nominal predicates, both components are analyzed as auxiliaries: _եմ_ receives the relation `cop`, while _ըլլալ_ receives the relation `aux`.
+  Since the analysis of finite forms of the verb _ըլլալ_/_ěllal_ “be” as either auxiliary or lexical verbs is ambiguous, we adopted here the following principle: the present and imperfective subjunctive forms of _ըլլալ_/_ěllal_ are analyzed as lexical verbs whenever they occur with nominal predicates, and as auxiliaries only when they combine with participles.
+In compound forms consisting of _եմ_/_em_ and _ըլլալ_/_ěllal_ used with either nominal predicates or participles, both components are analyzed as auxiliaries. With nominal predicates _եմ_ receives the relation `cop`, while _ըլլալ_ receives the relation `aux`.
 Note that in Western Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended to location-existentials (_Գրողներ, մշակոյթի մարդիկ, քաղաքական դէմքեր <b>բանտի մէջ են</b>_ `AUX`/_Groġner, mšakoyt’i mardik, k’aġak’akan dēmk’er <b>banti mēǰ en</b>_ "Writers, cultural figures, and political leaders are in prison."). Only pure existentials without location have a non-auxiliary _ըլլալ_/_ěllal_ which should be tagged `VERB` (_Կարծես գրականութիւնը <b>ըլլար</b>_ `VERB` _գիտութեան առարկայ_/_Karçes grakanowt’iwnë <b>ëllar</b> gitowt’ean aṙarkay_ "It is as if literature were an object of science.").
-
-  * _<b>պէտք էր</b> յարձակած </b>ըլլար</b> _/_pētk’ ēr yarjakaç ëllar_ "<b>should have</b> attacked"
-
 
 ~~~ conllu
 # visual-style 3 4 cop color:blue
