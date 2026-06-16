@@ -38,21 +38,22 @@ Auxiliaries can be divided into:
    * _շահագրգռուած <b>ըլլան</b>_/_šahagrgṙowaç <b>ëllan</b>_ “(so that) they <b>are</b> interested”,
    * _եթէ խօսելու <b>ըլլայ</b>_/_et’ē xòselow <b>ëllay</b>_ “If he/she were to speak”,
    * _եռագոյնը պարզուած <b>կ՚ըլլայ</b>_/_eṙagoynë parzowaç k՚ëllay_ "the tricolor (flag) will have been unfurled"
-   * _ուրիշ բան <b>չունին</b> ժառանգ <b>ձգելիք</b> իրենց զաւակներուն_/_owriš ban čownin žaṙang jgelik’ irenc’ zawaknerown_ ""
-   * _իր անունը բնաւ <b>լսած չունիմ</b>_/_ir anownë bnaw lsaç čownim_ ""
-   * _Շատ բան <b>կայ ընելիք</b>_/_Šat ban kay ënelik’_
+   * _ուրիշ բան <b>չունին</b> ժառանգ <b>ձգելիք</b> իրենց զաւակներուն_/_owriš ban čownin žaṙang jgelik’ irenc’ zawaknerown_ "They <b>have</b> nothing else <b>to leave</b> as an inheritance to their children."
+   * _իր անունը բնաւ <b>լսած չունիմ</b>_/_ir anownë bnaw lsaç čownim_ "I <b>have</b> never <b>heard</b> his/her name."
+   * _Շատ բան <b>կայ ընելիք</b>_/_Šat ban kay ënelik’_ "There <b>is</b> a lot <b>to be done</b>."
    
  
 - Indicative mood. The mood particle _կը (կու, կ', կ-)/kë (kow, k', k-)_ “do/is” is combined with the (present/imperfect) subjunctive forms of lexical verb to form the present/imperfect indicative.
    * _օրերը օրերուն <b>կը յաջորդեն</b>_/_òrerë òrerown <b>kë yaǰorden</b>_ days follow days”,
    * _<b>կ՚երթար</b> ու շուտ մը <b>կը դառնար</b>_/_k՚ert’ar</b> ow šowt më <b>kë daṙnar</b>_ “he/she used to go and come back soon”.
 
-  Since the analysis of finite forms of the verb _ըլլալ_/_ěllal_ “be” as either auxiliary or lexical verbs is ambiguous, we adopted here the following principle: the present and imperfective subjunctive forms of _ըլլալ_/_ěllal_ are analyzed as lexical verbs whenever they occur with nominal predicates, and as auxiliaries only when they combine with participles.
-In compound forms consisting of _եմ_/_em_ and _ըլլալ_/_ěllal_ used with either nominal predicates or participles, both components are analyzed as auxiliaries. With nominal predicates _եմ_ receives the relation `cop`, while _ըլլալ_ receives the relation `aux`.
-Note that in Western Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended to location-existentials (_Գրողներ, մշակոյթի մարդիկ, քաղաքական դէմքեր <b>բանտի մէջ են</b>_ `AUX`/_Groġner, mšakoyt’i mardik, k’aġak’akan dēmk’er <b>banti mēǰ en</b>_ "Writers, cultural figures, and political leaders are in prison."). Only pure existentials without location have a non-auxiliary _ըլլալ_/_ěllal_ which should be tagged `VERB` (_Կարծես գրականութիւնը <b>ըլլար</b>_ `VERB` _գիտութեան առարկայ_/_Karçes grakanowt’iwnë <b>ëllar</b> gitowt’ean aṙarkay_ "It is as if literature were an object of science.").
+Since the analysis of finite forms of the verb _ըլլալ_/_ěllal_ “be” as either auxiliary or lexical verbs is ambiguous, we adopted here the following principle: the aorist, present and imperfect subjunctive forms of _ըլլալ_/_ěllal_ (_եղաւ_/_eġaw_, _ըլլայ_/_ëllay_, _ըլլար_/_ëllar_) are analyzed as lexical verbs whenever they occur with nominal predicates (nouns, adjectives, adverbs), and as auxiliaries only when they combine with participles.
+In compound forms consisting of _եմ_/_em_ and _ըլլալ_/_ěllal_ used with nominal predicates,  _եմ_/_em_ is analyzed as an auxiliary, and _ըլլալ_/_ěllal_ is analyzed as a lexical verb. Both components are analyzed as auxiliaries only when used with participles.
+Note that in Western Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended to location-existentials (_Գրողներ, մշակոյթի մարդիկ, քաղաքական դէմքեր <b>բանտի մէջ են</b>_ `AUX`/_Groġner, mšakoyt’i mardik, k’aġak’akan dēmk’er <b>banti mēǰ en</b>_ "Writers, cultural figures, and political leaders are in prison.").
 
 ~~~ conllu
-# visual-style 3 4 cop color:blue
+# visual-style 0 0 root color:blue
+# visual-style 4 5 aux color:blue
 1	Որովհետեւ	որովհետեւ	SCONJ	_	_	4	mark	_	Translit=Orovhetew|LTranslit=orovhetew
 2	բաւականին	բաւականին	ADV	_	_	3	advmod	_	Translit=bawakanin|LTranslit=bawakanin
 3	արագ	արագ	ADV	_	Degree=Pos	4	advmod	_	Translit=arag|LTranslit=arag
@@ -61,30 +62,30 @@ Note that in Western Armenian copulas are also tagged `AUX` and the definition o
 ~~~
 
 ~~~ conllu
-# visual-style 3 4 cop color:blue
-32	պէտք	պէտք	AUX	_	Aspect=Prosp|Mood=Ind|Polarity=Pos	35	aux	_	Translit=pētk’|LTranslit=pētk’
-33	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	35	aux	_	Translit=ē|LTranslit=em
-34	լաւ	լաւ	ADJ	_	Degree=Pos	35	xcomp	_	Translit=law|LTranslit=law
-35	ըլլանք	ըլլալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	23	conj	_	Translit=ëllank’|LTranslit=ëllal|SpaceAfter=No
+# visual-style 4 1 aux color:blue
+# visual-style 4 2 aux color:blue
+# visual-style 4 3 xcomp color:blue
+1	պէտք	պէտք	AUX	_	Aspect=Prosp|Mood=Ind|Polarity=Pos	4	aux	_	Translit=pētk’|LTranslit=pētk’
+2	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	Translit=ē|LTranslit=em
+3	լաւ	լաւ	ADJ	_	Degree=Pos	4	xcomp	_	Translit=law|LTranslit=law
+4	ըլլանք	ըլլալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=ëllank’|LTranslit=ëllal
 ~~~
 
-7	խիստ	խիստ	ADJ	_	Degree=Pos	0	root	_	Translit=xist|LTranslit=xist
-8	եղած	ըլլալ	AUX	_	Aspect=Perf|Polarity=Pos|VerbForm=Part	7	aux	_	Translit=eġaç|LTranslit=ëllal
-9	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	Translit=ē|LTranslit=em
-
 ~~~ conllu
-#
-23	ինչ	ինչ	DET	_	PronType=Int	24	det	_	Translit=inč|LTranslit=inč
-24	վիճակի	վիճակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	18	conj	_	Translit=vič̣aki|LTranslit=vič̣ak
-25	եղած	ըլլալ	AUX	_	Aspect=Perf|Polarity=Pos|VerbForm=Part	24	aux	_	Translit=eġaç|LTranslit=ëllal
-26	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	24	cop	_	Translit=ē|LTranslit=em
-27	Մարիամը	Մարիամ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	24	nsubj	_	Translit=Mariamë|LTranslit=Mariam|SpaceAfter=No
-28	,	,	PUNCT	_	_	30	punct	_	Translit=,|LTranslit=,
-29	որքան	որքան	ADV	_	PronType=Int	30	advmod	_	Translit=ork’an|LTranslit=ork’an
-30	յոգնած	յոգնիլ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	18	conj	_	Translit=yognaç|LTranslit=yognil
-31	եղած	ըլլալ	AUX	_	Aspect=Perf|Polarity=Pos|VerbForm=Part	30	aux	_	Translit=eġaç|LTranslit=ëllal
-32	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	30	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
-33	։	։	PUNCT	_	_	15	punct	_	Translit=.|LTranslit=.
+# visual-style 3 2 obl color:blue
+# visual-style 3 4 aux color:blue
+# visual-style 8 9 aux color:blue
+# visual-style 8 10 aux color:blue
+1	ինչ	ինչ	DET	_	PronType=Int	2	det	_	Translit=inč|LTranslit=inč
+2	վիճակի	վիճակ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	3	obl	_	Translit=vič̣aki|LTranslit=vič̣ak
+3	եղած	ըլլալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=eġaç|LTranslit=ëllal
+4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	Translit=ē|LTranslit=em
+5	Մարիամը	Մարիամ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Def|NameType=Giv|Number=Sing	3	nsubj	_	Translit=Mariamë|LTranslit=Mariam|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+7	որքան	որքան	ADV	_	PronType=Int	8	advmod	_	Translit=ork’an|LTranslit=ork’an
+8	յոգնած	յոգնիլ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	3	conj	_	Translit=yognaç|LTranslit=yognil
+9	եղած	ըլլալ	AUX	_	Aspect=Perf|Polarity=Pos|VerbForm=Part	8	aux	_	Translit=eġaç|LTranslit=ëllal
+10	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	Translit=ē|LTranslit=em
 ~~~
 
 ~~~ conllu
