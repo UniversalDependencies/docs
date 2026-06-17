@@ -6,7 +6,7 @@ udver:  '2'
 
 # UD Infrastructure
 
-* Building the UD website occurs on a virtual machine hosted by Filip Ginter in Turku (ud-docs.turkunlp.org). After
+* Building the UD website occurs on a virtual machine hosted by Filip Ginter in Turku (ud-docs.turkunlp.org)<!--195.148.30.244-->. After
   each push to the `docs` repository, a GitHub [webhook](https://github.com/organizations/UniversalDependencies/settings/hooks)
   informs the ud-docs server that a new build is needed. The server has a custom installation of Jekyll which can take
   care of UD tree visualizations with Brat AnnoDoc. Rebuilding the website results in a push to a
