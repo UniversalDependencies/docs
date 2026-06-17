@@ -30,11 +30,11 @@ Most Armenian adjectives form comparative and superlative [Degree]() (_մեծ_/_
 Resultative, subject, and past participles are word forms that share properties and usage of both adjectives and verbs. Note that both core participial forms (used to form finite indicative tenses) and adjectival participles (used in nominal predication
 with the [copula](cop) or to modify nouns) are tagged [VERB]():
 
-- _**հոգնած** է_/_**hognaç** ē_ “he/she is tired”
-- _**ստուգված** է_/_**stowgvaç** ē_ “it is checked”
--	_**գնացած** է եղել_/_**gnac’aç** ē eġel_ “he/she had been gone”
--	_**կառուցված, կառուցվող, կառուցվելիք** շենք_/_**kaṙowc’vaç, kaṙowc’voġ, kaṙowc’velik’** šenk’_ “a building constructed, under construction, or to be constructed”
--	_**հնչած, հնչող, հնչելիք** զանգ_/_**hnčaç, hnčoġ, hnčelik’** zang_ “a bell rung, ringing, or to be rung”
+- _<b>հոգնած</b> է_/_<b>hognaç</b> ē_ “he/she is tired”
+- _<b>ստուգված</b> է_/_<b>stowgvaç</b> ē_ “it is checked”
+-	_<b>գնացած</b> է եղել_/_<b>gnac’aç</b> ē eġel_ “he/she had been gone”
+-	_<b>կառուցված, կառուցվող, կառուցվելիք</b> շենք_/_<b>kaṙowc’vaç, kaṙowc’voġ, kaṙowc’velik’</b> šenk’_ “a building constructed, under construction, or to be constructed”
+-	_<b>հնչած, հնչող, հնչելիք</b> զանգ_/_</b>hnčaç, hnčoġ, hnčelik’<b> zang_ “a bell rung, ringing, or to be rung”
 
 Note that some participial adjectives that are already lexicalized as adjectives are tagged `ADJ`, although they may retain certain verbal features.
 - _սոված_/_sovaç_ “hungry”
