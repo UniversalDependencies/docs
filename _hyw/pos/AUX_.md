@@ -89,17 +89,14 @@ Note that in Western Armenian copulas are also tagged `AUX` and the definition o
 ~~~
 
 ~~~ conllu
-#
-16	յօրինած	յօրինել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	7	parataxis	_	Translit=yòrinaç|LTranslit=yòrinel
-17	ըլլալու	ըլլալ	AUX	_	Aspect=Prosp|VerbForm=Part	16	aux	_	Translit=ëllalow|LTranslit=ëllal
-18	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	16	aux	_	Translit=en|LTranslit=em
+# visual-style 1 2 aux color:blue
+# visual-style 1 3 aux color:blue
+1	յօրինած	յօրինել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=yòrinaç|LTranslit=yòrinel
+2	ըլլալու	ըլլալ	AUX	_	Aspect=Prosp|VerbForm=Part	1	aux	_	Translit=ëllalow|LTranslit=ëllal
+3	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=en|LTranslit=em
 ~~~
 
-  * _<b>պէտք էր</b> յարձակած </b>ըլլար</b>_/_pētk’ ēr yarjakaç ëllar_ "<b>should have</b> attacked"
-
-
-- Causative voice. The finite form of _տալ&nbsp;_ (in various tenses and moods) is combined with infinitive of the content verb. The auxiliary expresses aspect, person, number, tense and mood. The auxiliary will have `Voice=Cau`. There will also be voice information at the infinitive:
-  * _զամէնն հնազանդութեամբ բերէ եւ **չտայ** `Cau` **սպաննել**_ `Act`/_amēnn hnazandowt’eamb berē ew **čtay spannel**_ “lit: he will bring them all into submission and **will not make kill** them”.
-   
-
-  <!-- Interlanguage links updated St 6. května 2026, 20:41:55 CEST -->
+ 
+- Causative voice. The finite form of _տալ_ (in various tenses and moods) is combined with infinitive of the content verb. The auxiliary expresses aspect, person, number, tense and mood. It will have `Voice=Cau`. There will also be voice information at the infinitive:
+  * _հրեայ դպիրներ <b>կանչել կու տայ</b> Աղեքսանդրիա— Եգիպտոս եւ Հին Կտակարանը <b>թարգմանել կու տայ</b> եբրայերէնէ յունարէնի_ `Act`/_hreay dpirner <b>kančel kow tay</b> Aġek’sandria— Egiptos ew Hin Ktakaranë <b>t’argmanel kow tay</b> ebrayerēnē yownarēni_ “He <b>has</b> Jewish scribes <b>summoned</b> to Alexandria, Egypt, and <b>has</b> the Old Testament <b>translated</b> from Hebrew into Greek.”.
+<!-- Interlanguage links updated St 6. května 2026, 20:41:55 CEST -->
