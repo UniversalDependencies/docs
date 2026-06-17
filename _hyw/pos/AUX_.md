@@ -47,9 +47,9 @@ Auxiliaries can be divided into:
    * _օրերը օրերուն <b>կը յաջորդեն</b>_/_òrerë òrerown <b>kë yaǰorden</b>_ days follow days”,
    * _<b>կ՚երթար</b> ու շուտ մը <b>կը դառնար</b>_/_k՚ert’ar</b> ow šowt më <b>kë daṙnar</b>_ “he/she used to go and come back soon”.
 
-Since the analysis of finite forms of the verb _ըլլալ_/_ěllal_ “be” as either auxiliary or lexical verbs is ambiguous, we adopted here the following principle: the aorist, present and imperfect subjunctive forms of _ըլլալ_/_ěllal_ (_եղաւ_/_eġaw_, _ըլլայ_/_ëllay_, _ըլլար_/_ëllar_) are analyzed as lexical verbs whenever they occur with nominal predicates (nouns, adjectives, adverbs), and as auxiliaries only when they combine with participles.
-In compound forms consisting of _եմ_/_em_ and _ըլլալ_/_ěllal_ used with nominal predicates, _եմ_/_em_ is analyzed as an auxiliary, and _ըլլալ_/_ěllal_ is analyzed as a lexical verb. Both components are analyzed as auxiliaries only when used with participles.
-Note that in Western Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended to location-existentials (_Գրողներ, մշակոյթի մարդիկ, քաղաքական դէմքեր <b>բանտի մէջ են</b>_ `AUX`/_Groġner, mšakoyt’i mardik, k’aġak’akan dēmk’er <b>banti mēǰ en</b>_ "Writers, cultural figures, and political leaders are in prison.").
+Since the analysis of finite forms of the verb _ըլլալ_/_ěllal_ “be” as either auxiliary or lexical verbs is ambiguous, we adopt the following principle: the aorist and the present and imperfect subjunctive forms of _ըլլալ_/_ěllal_ (_եղաւ_/_eġaw_, _ըլլայ_/_ëllay_, _ըլլար_/_ëllar_) are analyzed as lexical verbs whenever they occur with nominal predicates (nouns, adjectives, etc.), and as auxiliaries only when they combine with participles.
+In compound forms consisting of _եմ_/_em_ and _ըլլալ_/_ěllal_ used with nominal predicates, _եմ_/_em_ is analyzed as an auxiliary, while _ըլլալ_/_ěllal_ is analyzed as a lexical verb. Both components are analyzed as auxiliaries only when used with participles.
+With a nominal predicate, _եմ_/_em_ functions as a copula, making the nominal predicate the head of the clause, and is attached to it via the `cop` relation. Note that copulas are also tagged `AUX`.
 
 ~~~ conllu
 # visual-style 0 0 root color:blue
