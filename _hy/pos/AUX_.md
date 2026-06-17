@@ -52,8 +52,8 @@ Note, that finite present and imperfect forms of _եմ_/_em_ and _էի_/_ēi_ ar
   _<b>պիտի (պետք է)</b> գնա_/_<b>piti (petk’ ē)</b> gna_ “he/she <b>must</b> go home”,
   _<b>պիտի (պետք է)</b> գնար_/_<b>piti (petk’ ē)</b> gnar_ “he/she <b>had</b> to go”.
 
-Since there is no generally accepted approach in Armenian grammar to the analysis of finite forms of the verb _լինել_/_linel_ “be” as either auxiliary or lexical verbs, the Armenian UD treebank adopts the following principle. The forms _եղավ_/_eġav_ "was", _լինի_/_lini_ "if-it-is", _լիներ_/_liner_ "if-it-was", _կլինի_/_klini_ "will-be", and _կլիներ_/_kliner_ "would-be" are analyzed as lexical verbs whenever they occur with nominal predicates, and as auxiliaries only when they combine with participles.
-In compound forms consisting of _եմ_/_em_ and _լինել_/_linel_ used with nominal predicates, both components are analyzed as auxiliaries: _եմ_ receives the relation `cop`, while _լինել_ receives the relation  `aux`.
+Since there is no generally accepted approach in Armenian grammar to the analysis of finite forms of the verb _լինել_/_linel_ “be” as either auxiliary or lexical verbs, the Armenian UD treebank adopts the following principle։ the aorist, present and imperfect subjunctive and conditional forms of _լինեմ_/_linem_ (_եղավ_/_eġav_ "was", _լինի_/_lini_ "if-it-is", _լիներ_/_liner_ "if-it-was", _կլինի_/_klini_ "will-be", and _կլիներ_/_kliner_ "would-be") are analyzed as lexical verbs whenever they occur with nominal predicates, and as auxiliaries only when they combine with participles.
+In compound forms consisting of _եմ_/_em_ and _լինել_/_linel_ used with nominal predicates, _եմ_ is analyzed as an auxiliary, while _լինել_ is analyzed as a lexical verb. Both components are analyzed as auxiliaries only when used with participles.
 Note that in Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended to location-existentials (_Նա տանն <b>է</b> / Նա տանն <b>է լինում</b>_/_Na tann <b>ē</b> / Na tann <b>ē linowm</b>_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ_/_em_ and _լինել (լինեմ)_/_linel (linem)_ should be now tagged `AUX`.
 Only pure existentials without location (_Այն <b>եղել</b> է ու <b>կա</b> որպես հուշ։_/_Ayn <b>eġel</b> ē ow <b>ka</b> orpes howš_ “It <b>has been</b> and <b>is</b> as a memory.”) have a non-auxiliary _լինել_/_linel_ and _կամ_/_kam_ which should be tagged `VERB`.
 
@@ -62,9 +62,9 @@ Only pure existentials without location (_Այն <b>եղել</b> է ու <b>կա
 # visual-style 3 5 aux color:blue
 1	խեղճը	խեղճ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	nsubj	_	Translit=xeġč̣ë|LTranslit=xeġč̣
 2	բոլորովին	բոլորովին	ADV	_	PronType=Tot	3	advmod	_	Translit=bolorovin|LTranslit=bolorovin
-3	ուժասպառ	ուժասպառ	ADJ	_	_	0	root	_	Translit=owžaspaṙ|LTranslit=owžaspaṙ
-4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=ē|LTranslit=em
-5	եղել	լինել	AUX	_	Aspect=Perf|VerbForm=Part	3	aux	_	Translit=eġel|LTranslit=linel
+3	ուժասպառ	ուժասպառ	ADJ	_	_	5	xcomp	_	Translit=owžaspaṙ|LTranslit=owžaspaṙ
+4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	Translit=ē|LTranslit=em
+5	եղել	լինել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=eġel|LTranslit=linel
 ~~~
 
 ~~~ conllu
