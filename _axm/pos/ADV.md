@@ -10,14 +10,13 @@ udver: '2'
 Adverbs are words that typically modify [verbs](VERB) for such categories as time, place, direction, or manner. They may also modify
 [adjectives](ADJ) and other adverbs, as in _<b>խիստ</b> տաք_/_<b>xist</b> tak’_ “very hot” or _<b>խիստ</b> կամկար_/_<b>xist</b> kamkar_ “very gently”, _<b>կարի</b> շատ_/_<b>kari</b> šat_ “too much”.
 
-Note that in Middle Armenian some adverbs can form comparative degree constructions [Degree](). The comparative degree is expressed by the adverb _<b>այլ</b>_/_<b>ayl</b>_ “more”, e.g. _<b>այլ</b> արագ_/_<b>ayl</b> arag_ “more quickly”.
+Note that in Middle Armenian some adverbs can form comparative constructions. The comparative degree is expressed by the adverb _այլ_/_ayl_ “more”, e.g. _այլ արագ_/_ayl arag_ “more quickly”.
 
 Some complex adverbs are fixed multiword expressions, e.g. _օր քան զօր_/_òr k’an zòr_ “day by day”, _ի ներս_/_i ners_ “inside”, _ի դուրս_/_i dowrs_ “out”, _տկուկ-տկուկ_/_tkowk-tkowk_ “layer-by-layer”.
 The status of component words is accounted for in the syntactic annotation: the subsequent word is linked to the first one by the [fixed]() relation.
 
-There is a closed subclass of _pronominal adverbs_ that refer to circumstances in context, rather than naming them directly; similarly to pronouns, these can be
-categorized as interrogative, relative, demonstrative. Pronominal adverbs also get the `ADV` part-of-speech tag but they are differentiated by additional features. They inflect for [PronType](), and 
-demonstrative adverbs additionally inflect for [Deixis]().
+There is a closed subclass of _pronominal adverbs_ that refer to circumstances in context, rather than naming them directly; similarly to pronouns, these can be categorized as interrogative, relative, demonstrative.
+Pronominal adverbs also get the `ADV` part-of-speech tag but they are differentiated by additional features. They bear the feature [PronType](), and demonstrative adverbs additionally bear the feature [Deixis]().
 
 ### Examples
 
