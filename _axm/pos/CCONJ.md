@@ -9,11 +9,11 @@ udver: '2'
 
 A coordinating conjunction is a word that links words or larger constituents without syntactically subordinating one to the other, and expresses a semantic relationship between them.
 
-For _subordinating conjunctions,_ see [SCONJ]().
+For _subordinating conjunctions_ see [SCONJ]().
 
 ### Examples
 
-- _և/ew, ու/ow&nbsp;_ “and”
-- _կամ/kam&nbsp;_ “or”
-- _բայց/bayc’&nbsp;_ “but”
+- _և_/_ew_, _ու_/_ow_ “and”
+- _կամ_/_kam_ “or”
+- _բայց_/_bayc’_ “but”
 <!-- Interlanguage links updated St 6. května 2026, 20:41:57 CEST -->
