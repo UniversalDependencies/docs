@@ -15,9 +15,9 @@ As a special case of interjections, we recognize feedback particles such as _ա�
 
 ### Examples
 
-(Note that no direct translation of interjections is possible. The approximate translations below are for orientation purposes and they cannot serve to judge the part of speech from the English perspective.)
+(Note that no direct translation of interjections is possible. The approximate translations below are for orientation purposes and cannot serve to judge the part of speech from the English perspective.)
 
 - _ա՜հ_/_ah_ “oh”
 - _օհո՜_/_oho_ “wow”
-- _դե՛, դե՛հ_/_de_, _deh_ “well”
+- _դե՛_/_de_, _դե՛հ_/_deh_ “well”
 <!-- Interlanguage links updated St 6. května 2026, 20:42:01 CEST -->
