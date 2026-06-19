@@ -20,7 +20,7 @@ As a special case of interjections, we recognize feedback particles such as _ա�
 - _ա՜հ/ah_ “oh”
 - _օհո՜/òho_ “wow”
 - _դե՛_/_de_, _դե՛հ_/_deh_ “well”
-- _ծօ՛(ծո՛յ)/çò_ “hey, you there (to a boy)”
+- _ծօ՛(ծո՛յ)/çò(y)_ “hey, you there (to a boy)”
 - _հա՜յ_/_hay_ “O”
 - _եղո՜ւկ_/_eġowk_ “alas”
 <!-- Interlanguage links updated St 6. května 2026, 20:42:00 CEST -->
