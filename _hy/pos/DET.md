@@ -11,7 +11,7 @@ Determiners are words that modify [nouns](NOUN) or noun phrases and express the 
 
 Under this definition, determiners include both _articles_ and _pro-adjectives (pronominal adjectives)_. An important point to note is that the traditional grammar of Armenian does not define determiners as a separate word class. Most determiners are traditionally called pronouns; that is, a UD-conformant annotation of Armenian must distinguish between substantive pronouns (UD tag [PRON]()) and attributive pronouns (UD tag `DET`).
 
-Also note that the `DET` tag includes (pronominal) _quantifiers_ (words like _քանի, այսքան, մի քանի, բոլոր, ողջ_ “how many, this many, several, all, whole”), which the traditional grammar classifies as a special subclass of [pronouns](PRON).
+Also note that the `DET` tag includes (pronominal) _quantifiers_ (words like _քանի_/_k’ani_ “how many”, _այսքան_/_aysk’an_ “this many”, _մի քանի_/_mi k’ani_ “several”, _բոլոր_/_bolor_ “all”, _ողջ_/_oġǰ_ “whole”), which the traditional grammar classifies as a special subclass of [pronouns](PRON).
 
 Note that Armenian noun phrases usually allow one `DET` modifier, but there are occasional cases of _addeterminers_, which appear outside the usual determiner, such as _այս_/_ays_ in _<b>այս</b> բոլոր հարցերը_/_<b>ays</b> bolor harc’erë_ “all <b>these</b> questions.” In such cases, both _այս_/_ays_ “these” and _բոլոր_/_bolor_ “all” are given the POS `DET`.
 
