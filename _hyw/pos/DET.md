@@ -13,7 +13,7 @@ Under this definition, determiners include both _articles_ and _pro-adjectives (
 
 Also note that the `DET` tag includes (pronominal) _quantifiers_ (words like _քանի_/_k’ani_ “how many”, _այսքան_/_aysk’an_ “this many”, _քանի մը_/_k’ani më_ “several”, _բոլոր_/_bolor_ “all”, _ամբողջ_/_amboġǰ_ “whole”), which the traditional grammar classifies as a special subclass of [pronouns](PRON).
 
-Note that Western Armenian noun phrases usually allow one `DET` modifier, but there are occasional cases of _addeterminers_, which appear outside the usual determiner, such as _այս_/_ays_ “this/these” in _պէտք է <b>այս բոլոր</b> խեղճութիւնները բարեփոխել_/_<b>ayd</b> bolor npataknerë_ “<b>all these<b> miseries must be remedied”. In such cases, both _այս_/_ays_ “these” and _բոլոր_/_bolor_ “all” are given the POS `DET`.
+Note that Western Armenian noun phrases usually allow one `DET` modifier, but there are occasional cases of _addeterminers_, which appear outside the usual determiner, such as _այս_/_ays_ “this/these” in _պէտք է <b>այս բոլոր</b> խեղճութիւնները բարեփոխել_/_pētk’ ē <b>ays bolor</b> xeġč̣owt’iwnnerë barep’oxel_ “<b>all these</b> miseries must be remedied”. In such cases, both _այս_/_ays_ “these” and _բոլոր_/_bolor_ “all” are given the POS `DET`.
 
 ### Examples
 
