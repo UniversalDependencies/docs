@@ -9,16 +9,16 @@ udver: '2'
 
 Determiners are words that modify [nouns](NOUN) or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc.
 
-Under this definition, determiners include both _articles_ and _pro-adjectives (pronominal adjectives)_. An important point to note is that the traditional grammar of Western Armenian does not define determiners as a separate word class. Most determiners are traditionally called pronouns; that is, a UD-conformant annotation of Armenian must distinguish between substantive pronouns (UD tag [PRON]()) and attributive pronouns (UD tag `DET`).
+Under this definition, determiners include both _articles_ and _pro-adjectives (pronominal adjectives)_. An important point to note is that the traditional grammar of Western Armenian does not define determiners as a separate word class. Most determiners are traditionally called pronouns; that is, a UD-conformant annotation of Western Armenian must distinguish between substantive pronouns (UD tag [PRON]()) and attributive pronouns (UD tag `DET`).
 
-Also note that the `DET` tag includes (pronominal) _quantifiers_ (words like _քանի, այսքան, մի քանի, բոլոր, ողջ_ “how many, this many, several, all, whole”), which the traditional grammar classifies as a special subclass of [pronouns](PRON).
+Also note that the `DET` tag includes (pronominal) _quantifiers_ (words like _քանի_/_k’ani_ “how many”, _այսքան_/_aysk’an_ “this many”, _քանի մը_/_k’ani më_ “several”, _բոլոր_/_bolor_ “all”, _ամբողջ_/_amboġǰ_ “whole”), which the traditional grammar classifies as a special subclass of [pronouns](PRON).
 
-Note that Armenian noun phrases usually allow one `DET` modifier, but there are occasional cases of _addeterminers_, which appear outside the usual determiner, such as _այս_/_ays_ in _<b>այս</b> բոլոր հարցերը_/_<b>ays</b> bolor harc’erë_ “all <b>these</b> questions.” In such cases, both _այս_/_ays_ “these” and _բոլոր_/_bolor_ “all” are given the POS `DET`.
+Note that Western Armenian noun phrases usually allow one `DET` modifier, but there are occasional cases of _addeterminers_, which appear outside the usual determiner, such as _այս_/_ays_ in _<b>այդ</b> բոլոր նպատակները_/_<b>ayդ</b> bolor npataknerë_ “all <b>those</b> goals.” In such cases, both _այդ_/_ayd_ “those” and _բոլոր_/_bolor_ “all” are given the POS `DET`.
 
 ### Examples
 
-- indefinite article: _մի_/_mi_ “a, an”
-- possessive determiners: _իմ_/_im_ “my”, _քո_/_k’o_ “your”, _նրա_/_nra_ “his/her/its”, _մեր_/_mer_ “our”, _ձեր_/_jer_ “your”, _նրանց_/_nranc’_ “their”, _իրենց_/_irenc’_ “their”
+- indefinite article: _մի_/_mi_, _մը_/_më_ “a, an”
+- possessive determiners: _իմ_/_im_ “my”, _քու_/_k’ow_ “your”, _նրա_/_nra_ “his/her/its”, _մեր_/_mer_ “our”, _ձեր_/_jer_ “your”, _նրանց_/_nranc’_ “their”, _իրենց_/_irenc’_ “their”
 - reflexive possessive determiners: _իր_/_ir_ “his/her own”, _իրենց_/_irenc’_ “their own”
 - demonstrative determiners: _այս_/_ays_ as in _<b>Այս</b> հարցադրումներն էլ չկան։_/_<b>Ays</b> harc’adrowmnern ēl čkan_ “<b>These</b> issues no longer exist.”
 - interrogative determiners: _ո՞ր_/_or_ as in _<b>Ո՞ր</b> բառը_/_<b>Or</b> baṙë_ “<b>Which</b> word?”
