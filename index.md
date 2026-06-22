@@ -95,5 +95,12 @@ longer maintained and they have been excluded from the most recent release.
 
 <small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
 
+## Diversity of the Latest Release
+
+<img src="img/lang_per_fam.png" />
+<img src="img/lang_per_gen_ie.png" />
+<img src="img/word_per_fam.png" />
+<img src="img/word_per_gen_ie.png" />
+
 See also separate pages with a [list of UD languages](languages.html) and
 a [list of scripts](survey-scripts.html) used in UD treebanks.
