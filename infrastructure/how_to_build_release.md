@@ -208,6 +208,9 @@ It is meant for the maintenance task force rather than individual treebank teams
 * Make the release packages temporarily available for download somewhere and ask the treebank providers to check them before we archive them in Lindat.
 * Tell Milan Straka that he can start training UDPipe models of the new data.
   Tell Maarten Janssen that he can start importing the data to TEITOK.
+  Tell Bruno Guillaume that he can start importing the data to Grew-Match.
+  Tell Leonie Weißweiler that she can start updating the UD dataset on Hugging Face.
+  Tell myself to start import to PML-TQ :-)
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE)
   and the README file there.
   The script <tt>generate_license_for_lindat.pl</tt> can be invoked from the parent folder
