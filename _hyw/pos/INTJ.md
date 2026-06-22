@@ -7,15 +7,15 @@ udver: '2'
 
 ### Definition
 
-An interjection is a word that is used most often as an exclamation or as part of an exclamation. It typically expresses an emotional reaction, is not syntactically related to other accompanying expressions, and may include a combination of sounds not otherwise found in the language. Note that in Middle Armenian interjections contain _internal punctuation_ (exclamation and emphasis marks).
+An interjection is a word that is used most often as an exclamation or as part of an exclamation. It typically expresses an emotional reaction, is not syntactically related to other accompanying expressions, and may include a combination of sounds not otherwise found in the language. Note that in Middle Armenian interjections often contain _internal punctuation_ (exclamation and emphasis marks).
 
-Note that words primarily belonging to another part of speech retain their original category when used in exclamations. For example, _Աստուած_/_Astowaç_ “God” in _փառք Աստուծոյ_ “thank God!” is a [NOUN]() even in exclamatory uses.
+Note that words primarily belonging to another part of speech retain their original category when used in exclamations. For example, _Աստուած_/_Astowaç_ “God” in _փառք Աստուծոյ_/_p’aṙk’ Astowçoy_ “thank God!” is a [NOUN]() even in exclamatory uses.
 
-As a special case of interjections, we recognize feedback particles such as _այո_/_ayo (ayoy)_ “yes”, _ոչ_/_oč_ “no”, etc.
+As a special case of interjections, we recognize feedback particles such as _այո_/_ayo_ “yes”, _ոչ_/_oč_ “no”, etc.
 
 ### Examples
 
-(Note that no direct translation of interjections is possible. The approximate translations below are for orientation purposes and cannot serve to judge the part of speech from the English perspective.)
+(Note that no direct translation of interjections is possible. The approximate translations below are provided for orientation only and should not be used to determine the part of speech from the English equivalent.)
 
 - _ա՜հ/ah_ “oh”
 - _օհո՜/òho_ “wow”
