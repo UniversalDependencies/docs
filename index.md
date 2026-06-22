@@ -97,8 +97,13 @@ longer maintained and they have been excluded from the most recent release.
 
 ## Diversity of the Latest Release
 
+### Languages per Family (Genus)
+
 <img style="max-height: 300px" src="img/lang_per_fam.png" />
 <img style="max-height: 300px" src="img/lang_per_gen_ie.png" />
+
+### Words per Family (Genus)
+
 <img style="max-height: 300px" src="img/word_per_fam.png" />
 <img style="max-height: 300px" src="img/word_per_gen_ie.png" />
 
