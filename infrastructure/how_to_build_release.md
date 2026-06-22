@@ -176,6 +176,19 @@ It is meant for the maintenance task force rather than individual treebank teams
 	cd docs ; git pull --no-edit ; git status ; git commit -a -m 'Updated list of features and relations.' ; git push ; cd ..
 	```
 
+	```bash
+	# This script scans a final UD release folder. We may want to modify it to also accept the list of treebanks to be released. Other survey scripts accept such input.
+	tools/survey_language_families.pl --input release --udpath /net/data/universal-dependencies-2.18 --langyaml docs-automation/codes_and_flags.yaml --output tbkstats > tbkstats.2.18.txt
+	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --languages --families --complatex < tbkstats.2.18.txt | pdflatex
+	pdftoppm -png -r 600 texput.pdf > lang_per_fam.png
+	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --words --families --complatex < tbkstats.2.18.txt | pdflatex
+	pdftoppm -png -r 600 texput.pdf > word_per_fam.png
+	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --languages --genera IE --complatex < tbkstats.2.18.txt | pdflatex
+	pdftoppm -png -r 600 texput.pdf > lang_per_gen_ie.png
+	tools/survey_language_families.pl --input tbkstats --langyaml docs-automation/codes_and_flags.yaml --output fampie --words --genera IE --complatex < tbkstats.2.18.txt | pdflatex
+	pdftoppm -png -r 600 texput.pdf > word_per_gen_ie.png
+	```
+
 * Run the script `makedata.sh` in the docs repository. It will regenerate the YAML files in the folder `_data`; this is needed
   for cross-lingual links between documentation pages devoted to individual UPOS tags, features and relations.
 
