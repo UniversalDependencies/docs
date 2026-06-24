@@ -16,7 +16,7 @@ For instance, _այդ_/_ayd_ “that” is traditionally called a pronoun in Arm
 
 ### Examples
 
-- personal pronouns: _ես_/_es_ “I”, _դու_/_dow_ “you”, _նա_/_na_ “he/she/it”, _մենք_/_menk’_ “we”, _դուք_/_dowk’_ “you”, _նրանք_/_nrank’_ “they”
+- personal pronouns: _ես_/_es_ “I”, _դուն_/_down_ “you”, _ան_/_an_ “he/she/it”, _մենք_/_menk’_ “we”, _դուք_/_dowk’_ “you”, _անոնք_/_anonk’_ “they”
 - possessive pronouns (which usually stand alone as a nominal): _իմը_/_imë_ “mine”, _քոնը_/_k’onë_ “yours”, _նրանը_/_nranë_ “his/hers/its”, _մերը_/_merë_ “ours”, _ձերը_/_jerë_ “yours”, _նրանցը_/_nranc’ë_ “theirs”
 - demonstrative pronouns: _սա_/_sa_ “this”, _դա_/_da_ “that”, _նա_/_na_ “that”
 - reflexive pronouns: _իր, իրեն_/_ir, iren_ “oneself, himself, herself, itself”, _իրենց_/_irenc’_ “them(selves)” 
