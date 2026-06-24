@@ -17,7 +17,7 @@ Note that particles like _այո_/_ayo_ “yes”, _ոչ, չէ_/_oč, čē_ “n
 - Concessive particles: _ինչևէ_/_inčewē_ “anyway”, _այնուամենայնիվ_/_aynowamenayniv_ “nevertheless”
 - Demonstrative particles: _ահա, ահավասիկ_/_aha, ahavasik_ “here is, behold”
 - Dubitative particles: _գուցե_/_gowc’e_ “perhaps”, _թերևս_/_t’erews_ “possibly”
-- Emphatic particles: _ախար_/_axar_ “after all”, _մանավանդ_/_manavand_ “especially”
+- Emphatic particles: _ախար_/_axar_ “after all”, _մանավանդ_/_manavand_ “especially”, _էլ_/_ēl_ (no direct English equivalent; used in combinations such as _ոչ էլ_/_oč ēl_ “nor”, _այնքան էլ_/_aynk’an ēl_ “not that”, _կամ էլ_/_kam ēl_ “or else”)
 - Limiting particles: _գեթ_/_get’_ “at least”, _լոկ_/_lok_ “merely”, _միայն_/_miayn_ “only”
 - Negative particles: _ոչ, չէ_/_oč, čē_ “not, no”
 - Wish particles: _երանի, երնեկ_/_erani, ernek_ “if only, would that, I wish”
