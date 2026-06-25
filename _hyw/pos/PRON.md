@@ -9,12 +9,12 @@ udver: '2'
 
 Pronouns are words that substitute for [nouns](NOUN) or noun phrases whose meaning is recoverable from the linguistic or extralinguistic context.
 
-Pronouns under this definition function like nouns. Note that Armenian grammar traditionally extends the term _pronoun_ to words that substitute for [adjectives](ADJ). Such words are not tagged `PRON`
+Pronouns under this definition function like nouns. Note that Western Armenian grammar traditionally extends the term _pronoun_ to words that substitute for [adjectives](ADJ). Such words are not tagged `PRON`
 under our universal scheme. They are tagged as [determiners](DET) in order to ensure parallel annotation across languages.
 
-For instance, _այդ_/_ayd_ “that” is traditionally called a pronoun in Armenian grammar, regardless of context (for the notion of determiners in some Armenian grammars, terms exist like _attributive pronouns_ or _pronominal adjectives_). To ensure parallel annotation across languages, it should now be tagged `PRON` in _<b>Այդ</b> քո՞ մեքենան է։_/_<b>ayd</b> k’o mek’enan ē_ “Is <b>that</b> your car?” and `DET` in _Ես <b>այդ</b> մեքենան երեկ եմ տեսել։_/_es <b>ayd</b> mek’enan erek em tesel_ “I saw <b>that</b> car yesterday.”
+For instance, _աս_/_as_ “it, this” is traditionally treated as a pronoun in Western Armenian grammar, regardless of context (for the notion of determiners in some Western Armenian grammars, terms exist like _attributive pronouns_ or _pronominal adjectives_). To ensure parallel annotation across languages, it should now be tagged `PRON` in _<b>Աս</b> ասանկ չ՚ըլլար_/_<b>As</b> asank č՚ëllar_ “<b>This</b> won't do”, and `DET` in _<b>Աս</b> գուրպը մեծ պատմութիւն ունի_/_<b>As</b> gowrpë meç patmowt’iwn owni_ “This curve has a great history”.
 
-Unlike traditional Western Armenian grammar, UD does not treat possessive pronouns as a separate subclass. Independent possessive forms (e.g. _իմս_/_ims_ “mine”, _քուկդ_/_k’owkd_ “yours”, _անորը_/_anorë_ “his/hers/its”, _մերը_/_merë_ “ours”, _ձերը_/_jerë_ “yours”, _անոնցը_/_anonc’ë_ “theirs”), which usually occur as independent nominals, are annotated as personal pronouns, with their possessive meaning encoded by the feature `Poss=Yes`.
+Note that unlike traditional Western Armenian grammar, UD does not treat possessive pronouns as a separate subclass. Independent possessive forms (e.g. _իմս_/_ims_ “mine”, _քուկդ_/_k’owkd_ “yours”, _անորը_/_anorë_ “his/hers/its”, _մերը_/_merë_ “ours”, _ձերը_/_jerë_ “yours”, _անոնցը_/_anonc’ë_ “theirs”), which usually occur as independent nominals, are annotated as personal pronouns, with their possessive meaning encoded by the feature `Poss=Yes`.
 
 ### Examples
 
