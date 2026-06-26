@@ -50,7 +50,7 @@ The past (aorist) denotes a completed action in the past.
 
 #### Examples
 
-* _<b>შევიპყარ</b> იგი და არა გაუტეო იგი. _ 'I seized him and did not let him go.'
+* _<b>შევიპყარ</b> იგი და არა გაუტეო იგი._ 'I seized him and did not let him go.'
 
 ### <a name="PastPerf">`PastPerf`</a>: past perfect
 
@@ -58,7 +58,7 @@ The past perfect expresses an action completed before another past action or emp
 
 #### Examples
 
-*  _ნეტარ არიან, რომელთა არა <b>უხილავ</b> და ვჰრწმენე._ 'Blessed are those who have not seen and yet have believed.'
+* _ნეტარ არიან, რომელთა არა <b>უხილავ</b> და ვჰრწმენე._ 'Blessed are those who have not seen and yet have believed.'
 
 ### <a name="Perf">`Perf`</a>: perfect tense
 
