@@ -12,7 +12,7 @@ udver: '2'
   <td><a href="#Gen">Gen</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Ins">Ins</a></td>
-  <td><a href="#All">All</a></td>
+  <td><a href="#Ess">All</a></td>
   <td><a href="#Voc">Voc</a></td>
 </tr>
 </table>
@@ -60,7 +60,7 @@ Instrumental case stacked to the genitive case.
 
 * _მეფასისაჲთა_ 'of guardian' (Gen with Ins) etc.
 
-### <a name="All">`All`</a>: adverbial case
+### <a name="Ess">`Ess`</a>: adverbial case
 
 Adverbial case stacked to the genitive case.
 
