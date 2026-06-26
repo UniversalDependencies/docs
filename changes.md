@@ -46,9 +46,23 @@ But some updates have been necessary to clarify how they should be applied to pa
 
 ### Morphosyntactic Features
 
-Community members have requested clarification on the scope of morphosyntactic features like [Case]() and [Number](): are they only for inflectional information explicit in the particular wordform, or can they be inferred from context, for example with syncretism and agreement? Our [guidelines](https://universaldependencies.org/u/overview/morphology.html#features) are explicit that, like UPOS tags, the correct value for a feature in FEATS sometimes depends on context. **Context should be used to disambiguate the feature value when the wordform itself is underspecified with respect to the feature, but that feature is characteristically expressed by words in the same class.** (If wordform and context suggest conflicting values of a feature, e.g. with notional agreement, the wordform-based feature is to be preferred.) This was affirmed unanimously by the Core Group.
+Community members have requested clarification on the scope of morphosyntactic features like [Case]() and [Number]():
+are they only for inflectional information explicit in the particular wordform, or can they be inferred from context,
+for example with syncretism and agreement? Our [guidelines](/u/overview/morphology.html#features)
+are explicit that, like UPOS tags, the correct value for a feature in FEATS sometimes depends on context.
+**Context should be used to disambiguate the feature value when the wordform itself is underspecified with respect
+to the feature, but that feature is characteristically expressed by words in the same class.**
+(If wordform and context suggest conflicting values of a feature, e.g. with notional agreement, the wordform-based
+feature is to be preferred.) This was affirmed unanimously by the Core Group.
 
-Community members have also requested a way to specify the nature of exponence for a feature—whether the feature value is explicit in the inflection (i.e., the form contrasts with another form of the lemma with a different value), or inferred contextually for the form, or inherent in the lemma/stem. (See [Kahane et al. 2025](https://aclanthology.org/2025.tlt-1.18/) for an early proposal and [issue #985](https://github.com/UniversalDependencies/docs/issues/985) for discussion.) We conclude that treebanks wishing to specify this should do so in MISC, to avoid complicating FEATS and also to sidestep technical issues in how FEATS is parsed, documented, and validated. We recommend `Exponence` as the name for the MISC attribute, as already piloted in French—e.g. `Exponence[Number]=Inherent`. We are not prepared to standardize the set of values without further community experimentation and input.
+Community members have also requested a way to specify the nature of exponence for a feature—whether the feature value
+is explicit in the inflection (i.e., the form contrasts with another form of the lemma with a different value),
+or inferred contextually for the form, or inherent in the lemma/stem. (See [Kahane et al. 2025](https://aclanthology.org/2025.tlt-1.18/)
+for an early proposal and [issue #985](https://github.com/UniversalDependencies/docs/issues/985) for discussion.)
+We conclude that treebanks wishing to specify this should do so in MISC, to avoid complicating FEATS and also to sidestep
+technical issues in how FEATS is parsed, documented, and validated. We recommend `Exponence` as the name for the MISC attribute,
+as already piloted in French—e.g. `Exponence[Number]=Inherent`. We are not prepared to standardize the set of values
+without further community experimentation and input.
 
 There are currently no plans for validator changes arising from these clarifications.
 
