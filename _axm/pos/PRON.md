@@ -12,10 +12,10 @@ Pronouns are words that substitute for [nouns](NOUN) or noun phrases whose meani
 Pronouns under this definition function like nouns. Note that Middle Armenian grammar traditionally extends the term _pronoun_ to words that substitute for [adjectives](ADJ).
 Such words are not tagged `PRON` under our universal scheme. They are tagged as [determiners](DET) in order to ensure parallel annotation across languages.
 
-For instance, _այդ_/_ayd_ “that” is traditionally treated as a pronoun in Middle Armenian grammar, regardless of context (for the notion of determiners terms like _attributive pronouns_ or _pronominal adjectives_ are used).
+For instance, _այդ_/_ayd_ “that” is traditionally treated as a pronoun in Middle Armenian grammar, regardless of context.
 To make the annotation parallel across languages, it is tagged `PRON` in _<b>Այդ</b> անտից լինի, որ..._ “<b>That</b> is because of...” and `DET` in _<b>Այդ</b> մէկ ապրիկն է պիտանի։_ “<b>That</b> one soup is useful.”
 
-Note that unlike Eastern, Western and Classical Armenian, Middle Armenian possessive pronouns constitute a distinct inflectional class. They have a distinct inflectional paradigm and agree in case with the noun they modify.
+Note that Middle Armenian possessive pronouns have a distinct inflectional paradigm and agree in case with the noun they modify.
 
 ### Examples
 
