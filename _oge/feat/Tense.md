@@ -58,7 +58,7 @@ The past perfect expresses an action completed before another past action or emp
 
 #### Examples
 
-*  ნეტარ არიან, რომელთა არა <b>უხილავ</b> და ვჰრწმენე. 'Blessed are those who have not seen and yet have believed.'
+*  _ნეტარ არიან, რომელთა არა <b>უხილავ</b> და ვჰრწმენე._ 'Blessed are those who have not seen and yet have believed.'
 
 ### <a name="Perf">`Perf`</a>: perfect tense
 
