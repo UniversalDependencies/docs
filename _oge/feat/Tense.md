@@ -13,7 +13,7 @@ udver: '2'
   <td><a href="#Fut">Fut</a></td>
   <td><a href="#Past">Past</a></td>
   <td><a href="#PastPerf">PastPerf</a></td>
-  <td><a href="#Perf">Perf</a></td>
+  <td><a href="#Pf">Perf</a></td>
   <td><a href="#Pqp">Pqp</a></td>
 </tr>
 </table>
@@ -60,7 +60,7 @@ The past perfect expresses an action completed before another past action or emp
 
 * _ნეტარ არიან, რომელთა არა <b>უხილავ</b> და ვჰრწმენე._ 'Blessed are those who have not seen and yet have believed.'
 
-### <a name="Perf">`Perf`</a>: perfect tense
+### <a name="Pf">`Pf`</a>: perfect tense
 
 The perfect expresses an action completed in the past and has current relevance. 
 
