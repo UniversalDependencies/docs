@@ -15,7 +15,7 @@ Such words are not tagged `PRON` under our universal scheme. They are tagged as 
 For instance, _այդ_/_ayd_ “that” is traditionally treated as a pronoun in Middle Armenian grammar, regardless of context (for the notion of determiners terms like _attributive pronouns_ or _pronominal adjectives_ are used).
 To make the annotation parallel across languages, it is tagged `PRON` in _<b>Այդ</b> անտից լինի, որ..._ “<b>That</b> is because of...” and `DET` in _<b>Այդ</b> մէկ ապրիկն է պիտանի։_ “<b>That</b> one soup is useful.”
 
-Note that unlike Eastern and Western Armenian, Middle Armenian possessive pronouns are annotated as a separate subclass of pronouns, since they agree in case with the noun they modify.
+Note that unlike Eastern and Western Armenian, Middle Armenian distinguishes possessive pronouns as a separate subclass. They have a distinct inflectional paradigm and agree in case with the noun they modify.
 
 ### Examples
 
