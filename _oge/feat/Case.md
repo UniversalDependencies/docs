@@ -19,7 +19,6 @@ udver: '2'
   <td><a href="#Gen">Gen</a></td>
   <td><a href="#Ins">Ins</a></td>
   <td><a href="#Ess">Ess</a></td>
-  <td><a href="#All">All</a></td>
   <td><a href="#Voc">Voc</a></td>
 </tr>
 </table>
@@ -89,16 +88,6 @@ The forms in the essive case express a relation of place, time, manner, etc. and
 #### Examples
 
 * _ქალაქად_ 'as a city', _სძლად_ 'as a daughter-in-law', _ხუროდ_ 'as a craftsman', _კუდ_ 'as a turtle' etc.
-
-### <a name="All">`All`</a>: allative (adverbial) case
-
-This label is used by UD_Old_Georgian-LauRo treebank. It applies to the forms in the so-called adverbial case (-დ, -ად), which in Old Georgian can also have allative meaning. This case is also used to mark masdars with a purpose meaning.
-
-#### Examples
-
-* _ესრე სახედ_ 'in such a way' (adverbial meaning);
-* _იერუსალემდ_ 'to Jerusalem', _შენდა_ 'to you' (allative meaning);
-* _შეწირვად_ 'to sacrifice' (masdar denoting purpose).
 
 ### <a name="Voc">`Voc`</a>: vocative case
 
