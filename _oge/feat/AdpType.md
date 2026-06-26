@@ -9,6 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Post">Post</a></td>
+  <td><a href="#Pre">Pre</a></td>
 </tr>
 </table>
 
@@ -19,5 +20,11 @@ The `AdpType` feature typically applies to [adpositions](_oge/pos/ADV), nouns [N
 #### Examples
 
 * _წარმართ<b>ებრივ</b>_ *carmartʻebriv* 'in a pagan manner', _იაკობისა<b>მდე</b>_ *iakobisamde* 'before Jakob' etc.
+
+### <a name="Pre">`Pre`</a>: preposition
+
+#### Examples
+
+* _**წინაშე** უფლისა_ 'in front of the Lord', _**ზედა** საკურთხეველსა_ 'on the altar' etc.
 
 <!-- Interlanguage links updated St 6. května 2026, 20:42:21 CEST -->
