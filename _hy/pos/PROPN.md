@@ -26,7 +26,7 @@ Note that the additional feature [NameType]() is used to encode the types of nam
 
 ### Examples
 
-- _<b>Դոնի</b>_/_Doni_ `PROPN` _<b>Ռոստով</b>_/_Ṙostov_ `PROPN` “Rostov-on-Don”, _<b>Մայնի</b>_/_Mayni_ `PROPN` _<b>Ֆրանկֆուրտ</b>_/_Frankfowrt_ `PROPN` “Frankfurt am Main” “”. _Ռոստով_/_Ṙostov_ and _Ֆրանկֆուրտ_/_Frankfowrt_ are the heads. The _Դոնի_/_Doni_, _Մայնի_/_Mayni_ parts refer to the rivers flowing through the city, and are tagged as `PROPN` too.
+- _<b>Դոնի</b>_/_Doni_ `PROPN` _<b>Ռոստով</b>_/_Ṙostov_ `PROPN` “Rostov-on-Don”, _<b>Մայնի</b>_/_Mayni_ `PROPN` _<b>Ֆրանկֆուրտ</b>_/_Frankfowrt_ `PROPN` “Frankfurt am Main”. _Ռոստով_/_Ṙostov_ and _Ֆրանկֆուրտ_/_Frankfowrt_ are the heads. The _Դոնի_/_Doni_, _Մայնի_/_Mayni_ parts refer to the rivers flowing through the city, and are tagged as `PROPN` too.
 - _<b>Լյուդվիգ</b>_/_Lyowdvig_ `PROPN` _<b>վան</b>_/_van_ `X` _<b>Բեթհովեն</b>_/_Bet’hoven_ `PROPN` “Ludwig van Beethoven”, _<b>Միգել</b>_/_Migel_ `PROPN` _<b>դը</b>_/_dë_ `X` _<b>Սերվանտես</b>_/_Servantes_ `PROPN` “Miguel de Cervantes”. The _van, de_ parts are prepositions in the languages of the names’ origin, and are tagged `X` in Armenian.
 - _<b>Վերին</b>_/_Verin_ `ADJ` _<b>Սասնաշեն</b>_/_Sasnašen_ `PROPN` is a village. _Սասնաշեն_/_Sasnašen_ is the head and it is tagged `PROPN` although it is a geographical name. _Վերին_/_Verin_ is an adjective meaning “upper” and it is tagged `ADJ`.
 - _<b>Հյուսիսային</b>_/_Hyowsisayin_ `ADJ` _<b>սառուցյալ</b>_/_saṙowc’yal_ `ADJ` _<b>օվկիանոս</b>_/_òvkianos_ `NOUN` “The Arctic Ocean”. Although the three words together are a name of an ocean, _օվկիանոս_/_òvkianos_ is a common noun and is tagged as such.
