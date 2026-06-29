@@ -85,4 +85,4 @@ det(funeral-5, the-4)
 - [compound]()
 - [obl]()
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:18 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:03 CEST -->

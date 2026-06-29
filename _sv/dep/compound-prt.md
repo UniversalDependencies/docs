@@ -17,4 +17,4 @@ Vilka får vara med ? \n Who can join ?
 compound(vara, med)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:30 CEST -->

@@ -19,4 +19,4 @@ determine a more precise dependency relation between two words. This may be beca
 3	INDX	_	ADV	Loc	_	1	advmod	_	Gloss=INDX
 4	G:efectivamente	_	X	G	_	1	dep	_	Gloss=G
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:39 CEST -->

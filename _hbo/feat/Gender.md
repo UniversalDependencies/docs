@@ -207,4 +207,4 @@ _naftali ʼayalah sheluḥah hanoten ʼimre shafer  s_
 
 _"Naphtali is **a doe** that **is sent**, that **gives** antlers."_
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:24 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:09 CEST -->

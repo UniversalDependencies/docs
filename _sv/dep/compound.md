@@ -12,4 +12,4 @@ Hon gillar corn flakes \n She likes corn flakes
 obj(gillar, flakes)
 compound(flakes, corn)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:27 CEST -->

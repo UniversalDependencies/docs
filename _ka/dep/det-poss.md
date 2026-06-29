@@ -13,4 +13,4 @@ det:poss(ნერვებს, ჩემს)
 ~~~
 
 **NB** Note that other pronouns are treated as `nmod`. For more on nominal modifiers, see the [nmod](_ka/dep/nmod) relation.
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:44 CEST -->

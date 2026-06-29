@@ -49,4 +49,4 @@ relation instead.
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:15 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:00 CEST -->

@@ -20,4 +20,4 @@ nsubj(қарады-6, Айгүл-1)
 obj(қарады-6, айналасына-5)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:56 CEST -->

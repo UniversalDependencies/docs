@@ -31,4 +31,4 @@ This marks type of relative participle.
 
 * [ab] _и-<b>ахь</b>-и-го_ [DO.3-Where-Subj.3SgM-take.Pres.NonFin] ‘<b>where</b> he took it’ `Dyn=Yes|Gender[subj]=Masc|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|RelType=Loc|Tense=Pres|Trans=Yes|VerbForm=NonFin`
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:41 CEST -->

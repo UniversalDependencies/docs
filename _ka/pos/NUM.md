@@ -29,4 +29,4 @@ Num:	Numeral
 - multiple numerals: _ორჯერ_ 'twice' etc.
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:42 CEST -->

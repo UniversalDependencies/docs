@@ -14,4 +14,4 @@ tamina faɖig =t jina \n fourteen days
 dep:flat(faɖig,tamina)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:41 CEST -->

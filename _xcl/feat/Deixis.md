@@ -61,4 +61,4 @@ Jensen, Hans. 1959. _Altarmenische Grammatik._ Heidelberg: Winter.
 Klein, Jared S. 1996. On Personal Deixis in Classical Armenian. _A Study of the Syntax and Semantics of the n-, s-, and d-Demonstratives in Manuscripts E and M of the Old Armenian Gospels._ Dettelbach: Röll, 1996.
 
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>).
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:18 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:03 CEST -->

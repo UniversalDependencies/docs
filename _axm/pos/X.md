@@ -15,4 +15,4 @@ This usage does not extend to ordinary loan words which should be assigned a nor
 
 Note that the articles, prepositions in foreign names (_դը, դե, դ՚, ֆոն, դել, վան, օղլու, աբու_) are also tagged [X]().
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:48 CEST -->

@@ -146,4 +146,4 @@ _יש־לאל ידי לעשות עמכם רע ואלהי אביכם אמש׀ א�
 _yesh leʼel yadi laʻaśot ʻimakhem raʻ ṿeʼlohe ʼavikhem ʼemesh  ʼamar ʼelai leʼmor hishamer lekha midaber ʻim yaʻaḳov miṭov ʻad raʻ_
 
 _It was to the power of my hand to do evil to you and the god your fathers yesterday evening said to me "Guard yourself from speaking with Jacob from good to bad."._
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:32 CEST -->

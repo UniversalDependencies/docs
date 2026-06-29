@@ -37,4 +37,4 @@ The second abessive case (-тӧм) is limited to the nominal phrase and non-verb
 - _<b>документъястӧм</b> морт сюрис_ “the person <b>without documents</b> was found.”
 - _Мортыс <b>документъястӧм</b>_ “That person is <b>without documents</b>/ has <b>no documents</b>.”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:47 CEST -->

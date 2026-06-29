@@ -35,4 +35,4 @@ Mektūbu mu Meḥmedden aldın ? \n Did you take _the letter_ from Mehmed ?
 aux:q(Mektūbu, mu)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:18 CEST -->

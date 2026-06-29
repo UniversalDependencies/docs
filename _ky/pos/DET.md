@@ -25,4 +25,4 @@ We mark it as `DET` in this usage.
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:39 CEST -->

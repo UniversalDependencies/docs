@@ -20,4 +20,4 @@ Note that synthetic causatives derived from middle verbs are treated as regular 
 6	այրկանն	այրիկ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	4	obj:agent	_	_
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:35 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:20 CEST -->

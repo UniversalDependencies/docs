@@ -18,4 +18,4 @@ Proper nouns are not annotated as `NOUN` but rather [PROPN]().
 #### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=551> (in Finnish)
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:41 CEST -->

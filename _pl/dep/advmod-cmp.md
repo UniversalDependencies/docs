@@ -30,4 +30,4 @@ In Polish, comparative expressions that depend on predicates can also be realise
 7	.
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:04 CEST -->

@@ -15,4 +15,4 @@ advmod:emph(вӧрынӧсь-4, нин-5)
 advmod:emph(in_the_woods, already)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:20 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:05 CEST -->

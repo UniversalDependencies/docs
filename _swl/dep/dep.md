@@ -14,4 +14,4 @@ dependency, or that certain sign glosses are unsure.
 tp@& POJKE LÄGGA-SIG HUND VARELSE(VVb)+BEFINNA@p SOVA(Jv) TIDEN-GÅR@z \n The boy and the dog went to sleep, and time passed.
 dep(POJKE, tp@&)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:39 CEST -->

@@ -26,4 +26,4 @@ column. (Which means that empty value has the `No` meaning.)
 * [sms] _... di <b>jiõčč</b> tietenki tok kuättses mâânn. &nbsp;_ “... and of course <b>he himself</b> went there into the tent.”
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:40 CEST -->

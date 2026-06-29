@@ -42,4 +42,4 @@ Conditional may be expressed by an auxiliary mána, but such cases are rather r
 
 * _Dúnan <b>mána</b> nà, mɔ̀gɔw bɛ́ dɔ́n kɛ́_ "If guests come, people will dance".
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:17 CEST -->

@@ -20,4 +20,4 @@ The `VerbType` feature applies to [verbs](_xmf/pos/VERB).
 
 * _იჸინ_iʔin_ 'to be'
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:49 CEST -->

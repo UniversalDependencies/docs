@@ -35,4 +35,4 @@ det(aditu-17, gehienentzat-18)
 punct(osatzen-15, .-19)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:32 CEST -->

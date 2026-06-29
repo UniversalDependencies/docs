@@ -41,4 +41,4 @@ Jensen, Hans. 1959. Altarmenische Grammatik. Heidelberg: Winter.
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
 
 Klingenschmitt, Gert. 1982. _Das Altarmenische Verbum._ Wiesbaden: Reichert Verlag.
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:48 CEST -->

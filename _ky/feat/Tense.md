@@ -56,4 +56,4 @@ The differences between these forms are [Aspect]() and [Mood]() differences.
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:00 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:45 CEST -->

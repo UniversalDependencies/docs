@@ -45,4 +45,4 @@ We also use `aux` in case bound auxiliary `-abil` is separated from the main ver
 Göremeye de bilirdin . \n You might have also not seen it 
 aux(Göremeye, bilirdin)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:29 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:14 CEST -->

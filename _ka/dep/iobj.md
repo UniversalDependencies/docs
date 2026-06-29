@@ -16,4 +16,4 @@ iobj(ჩამოჰყვება, ბილიკს)
 obj(უწერს, ნიშანს)
 iobj(უწერს, მოსწავლეს)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:58 CEST -->

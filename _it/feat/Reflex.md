@@ -15,4 +15,4 @@ Reflexive pronouns are a subset of clitic pronouns.
 #### Examples
 
 * reflexive personal pronouns: _se, si_;
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:40 CEST -->

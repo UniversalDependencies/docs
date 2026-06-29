@@ -14,4 +14,4 @@ det:pron(gjitha, të)
 det(drejtimet, gjitha)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:00 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:45 CEST -->

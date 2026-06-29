@@ -41,4 +41,4 @@ obl:cau(okuttuldu, Ali)
 obl:agent(okuttuldu, öğretmen)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:25 CEST -->

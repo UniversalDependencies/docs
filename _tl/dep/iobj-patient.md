@@ -18,4 +18,4 @@ iobj:patient(Given, prize)
 
 “The teacher gave the student a prize.”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:59 CEST -->

@@ -140,4 +140,4 @@ The perlative case denotes movement along something, spaces that are passed by o
 #### Examples
 
 * *<b>Budahaŋlamma</b>.* "<b>From Budhahang's side</b>."
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:10 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:55 CEST -->

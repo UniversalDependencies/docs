@@ -19,4 +19,4 @@ advcl:pred(prisimenu, vieną)
 advcl:pred(remember, one)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:00 CEST -->

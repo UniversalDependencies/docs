@@ -32,4 +32,4 @@ det(Belle, La)
 det(Bête, la)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:08 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:53 CEST -->

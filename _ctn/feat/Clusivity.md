@@ -31,4 +31,4 @@ In Chintang, (di)transitive verbs agree with both their agents and their patient
 
 * *anci* "we (I + you)"; *ani* "we (I + you + they)"
 * *rɨktaloĩsace* "we chased it out"
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:12 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:58 CEST -->

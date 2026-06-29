@@ -41,4 +41,4 @@ We have three cases in Portuguese: nominative (`Nom`), dative (`Dat`) and accusa
 
 * _lhe, lhes_ in _políticas que <b>lhes</b> dizem respeito_ “policies that concern them”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:10 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:56 CEST -->

@@ -45,4 +45,4 @@ In order to decide which nouns are obliques – [obl]() and which should be mark
 
 2. If a noun can be replaced by preposition then it is annotated with `case`. For example, _Gaisro atveju skambinkite telefonu. “In case of fire call by phone.”_ the word _gaisro “fire”_  is not adjectival; it can be replaced by a prepositional phrase – e.g., _per gaisrą “during the fire.”_ The noun _atveju “in case”_ is annotated as `case`, while _gaisro “fire”_ is annotated as [obl]().
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:19 CEST -->

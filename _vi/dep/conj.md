@@ -27,4 +27,4 @@ obj(đá, bóng)
 punct(bơi, 。)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:33 CEST -->

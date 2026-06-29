@@ -25,4 +25,4 @@ Helseadvarslene må være tydelige \n The health warnings must be clear
 aux(tydelige, må)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:28 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:13 CEST -->

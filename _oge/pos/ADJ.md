@@ -22,4 +22,4 @@ Adj:  Adjective
 _მჴცოვანი_ *mx̣cʻovani* 'merciful'
 _ძველი_ 'old'
 _სახიერ_ მოძღუარ *saxier możġuar* 'a gracious teacher'
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:35 CEST -->

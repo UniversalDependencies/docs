@@ -252,4 +252,4 @@ Interrogative pronouns should not have additional features.
 ## XPOS
 
 In BHSA, pronouns can have the POS tags `prde`, `prin`, and `prps`, in addition to the pseudo-POS tag `prn`.
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:44 CEST -->

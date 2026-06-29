@@ -41,4 +41,4 @@ The quality of one object is compared to the same quality of all other objects w
 * _უდაბალაში (udɑbɑlɑʃi)_ 'the lowest' etc.
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:17 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:02 CEST -->

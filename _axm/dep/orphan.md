@@ -31,4 +31,4 @@ In this example, the subject _հոտն_ “odor” is promoted to the head posit
 subject is necessary to preserve the integrity of the clause, but using the standard relation [nsubj]() would be misleading because _դժնիկ_ “buckthorn” can't be the 
 predicate of _հոտն_ “odor” without the copula. Therefore, the `orphan` relation is used to indicate that this is a non-standard attachment. By contrast, the coordinating 
 conjunction _եւ_ “and” performs essentially the same function as in the non-elliptical case and therefore retains its normal relation [cc]().
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:32 CEST -->

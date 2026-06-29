@@ -48,4 +48,4 @@ Usually the verb is marked by the relative particle _a_ but this may be omitted 
 * [advcl:relcl](advcl-relcl.html) for the analogous case where the head is an adverb or possibly an adjective or adverb.
 * [csubj:cleft](csubj-cleft.html) for where a relative clause is part of a cleft sentence.
 * [csubj:cop](csubj-cop.html) for where a relative clause is part of a different sort of sentence including a copula.
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:09 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:54 CEST -->

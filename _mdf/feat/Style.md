@@ -14,4 +14,4 @@ This is used with spelling of `ъ` in first syllable to indicate central vowel.
 * [mdf] _мъзярошка_ "_about how many (ModernForm=мзярошка)_"
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:44 CEST -->

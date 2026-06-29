@@ -11,4 +11,4 @@ The `orphan:objobl` relation provides information about the relations of the orp
 ~~~ sdparse
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:33 CEST -->

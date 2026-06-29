@@ -19,4 +19,4 @@ punct(reindeer.herders, .-9)
 ~~~
 
 “We are reindeer herders from Amguema.”
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:05 CEST -->

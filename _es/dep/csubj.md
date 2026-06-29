@@ -11,4 +11,4 @@ A clausal subject is a clausal syntactic subject of a clause, i.e., the subject 
 Le gusta comer tarde . \n He\/she likes to eat late .
 csubj(gusta, comer)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:36 CEST -->

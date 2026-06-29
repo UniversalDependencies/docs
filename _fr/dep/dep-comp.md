@@ -18,4 +18,4 @@ It is also used in construction *plus de*, *beaucoup de*:
 le concept demande beaucoup de moyens \n the concept requires a lot of means
 dep:comp(beaucoup,moyens)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:40 CEST -->

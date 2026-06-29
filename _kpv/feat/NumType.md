@@ -56,4 +56,4 @@ This is subtype of numeral.
 * [kpv] _куимнансэ; даснаныс_ "_all three of them; the ten of them_"
 
 (TODO: others from <http://universaldependencies.org/u/feat/NumType.html>?)
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:27 CEST -->

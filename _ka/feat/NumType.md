@@ -41,4 +41,4 @@ The `NumType` feature applies to [numerals](_ka/pos/NUM).
 
 * _ორჯერ_ 'twice', _სამჯერ_ 'three times' etc.
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:27 CEST -->

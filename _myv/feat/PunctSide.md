@@ -23,4 +23,4 @@ udver: '2'
 * [myv] _)_ 
 * [myv] _]_ 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:38 CEST -->

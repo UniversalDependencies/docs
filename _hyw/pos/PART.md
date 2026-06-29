@@ -21,4 +21,4 @@ Note that particles like _այո_/_ayo_ “yes”, _ոչ, չէ_/_oč, čē_ “n
 - Limiting particles: _գէթ_/_gēt’_ “at least”, _լոկ_/_lok_ “merely”, _միայն_/_miayn_ “only”
 - Negative particles: _ոչ, չէ_/_oč, čē_ “not, no”
 - Wish particles: _երանի, երնեկ_/_erani, ernek_ “if only, would that, I wish”
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:43 CEST -->

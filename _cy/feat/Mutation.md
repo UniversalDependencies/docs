@@ -64,4 +64,4 @@ In spoken Welsh the nasal mutation is sometimes replaced by the soft mutation, e
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:18 CEST -->

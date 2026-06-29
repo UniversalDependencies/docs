@@ -27,4 +27,4 @@ The `AdpType` feature typically applies to [adpositions](_xmf/pos/ADV), nouns [N
 
 * _ბირგული<b>წკჷმა</b> (birɡuli<b>t͡sʼkʼəmɑ</b>)_ 'near the knee', _ჸუდეშა<b>ხ</b> (ʔudɛʃɑ<b>x</b>)_ 'until the house' etc.
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:51 CEST -->

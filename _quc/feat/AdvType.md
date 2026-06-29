@@ -15,4 +15,4 @@ They usually follow verbs and other predicates to express movement, deictic or a
 #### Examples:
 
 * _Xintaq <b>bʼi</b>k jun aninaq taqawuj che ri nutat._ "Le mandé un telegrama a mi papá."
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:51 CEST -->

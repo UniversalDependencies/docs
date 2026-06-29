@@ -21,4 +21,4 @@ Note that synthetic causatives derived from middle verbs (_մտցրեց_/_mtc’
 ~~~
 
 The infinitive verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation.
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:35 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:20 CEST -->

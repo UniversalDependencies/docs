@@ -22,4 +22,4 @@ obl:instr(sutam, jámbha-)
 acl(sutam, imám)
 advcl:dpct(piba, éṣi)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:59 CEST -->

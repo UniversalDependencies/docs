@@ -62,4 +62,4 @@ the appropriate relation is [xcomp]().
 
 The key difference here is that, while it is possible to interpret the first sentence as meaning that the one who forbids is not the one who will draw, in the second sentence it is clear that the 
 subject of __administer__ can only be __King__. This is what distinguishes `ccomp` and `xcomp`.
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:22 CEST -->

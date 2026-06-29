@@ -48,4 +48,4 @@ digits or as a word? Several types of nouns can also have this feature, adjectiv
 #### Examples
 
 * _1-ին “1st”, 15-րդ “15th”_
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:26 CEST -->

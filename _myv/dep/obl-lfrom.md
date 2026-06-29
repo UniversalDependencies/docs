@@ -20,4 +20,4 @@ obl:lfrom(велявтсть-3, лангсто-5)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:27 CEST -->

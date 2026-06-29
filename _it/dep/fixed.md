@@ -42,4 +42,4 @@ Fino a quando .
 fixed(Fino, a)
 fixed(Fino, quando)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:53 CEST -->

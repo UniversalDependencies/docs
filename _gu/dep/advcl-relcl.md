@@ -19,4 +19,4 @@ nsubj(તજશે, યહોવાહ)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:01 CEST -->

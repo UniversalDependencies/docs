@@ -20,4 +20,4 @@ For subordinating conjunctions, see [SCONJ](naq-pos/SCONJ).
 * _tamas ka i o_, _of_ "or"
 
 * _xawe_ "but"
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:38 CEST -->

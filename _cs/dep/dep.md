@@ -21,4 +21,4 @@ K čemu ovšem , to nebylo jasné . \n For what however , that was-not clear .
 dep(jasné, čemu)
 dep(clear, what)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:39 CEST -->

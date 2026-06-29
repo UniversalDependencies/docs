@@ -71,4 +71,4 @@ All these prepositions are conjunctions as well, if they introduce a clause.
 12	.	.	PUNCT	_	_	8	punct	_	_
 ~~~
 'Since it happened, it is so (traditional way to end a fairy tail)'.
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:18 CEST -->

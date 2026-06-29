@@ -26,4 +26,4 @@ Note that some verbs can be written together or separately in the infinitive, su
 Kannst du das Zimmer sauber machen ? \n Can you clean the room ?
 xcomp(machen, sauber)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:30 CEST -->

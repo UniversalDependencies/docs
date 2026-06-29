@@ -25,4 +25,4 @@ All adjectives and some of the adverbs may function as a noun without additional
 - _kız_ "girl"
 - _kedi_ "cat"
 - _ağaç_ "tree"
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:41 CEST -->

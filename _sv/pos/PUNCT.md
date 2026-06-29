@@ -15,4 +15,4 @@ They are tagged PUNCT regardless of their function.
 - Period: .
 - Comma: ,
 - Parentheses: ()
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:46 CEST -->

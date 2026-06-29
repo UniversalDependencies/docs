@@ -53,4 +53,4 @@ root(ROOT, εγώ)
 ccomp(εγώ, μάθετε)
 ~~~
 ----------------
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:32 CEST -->

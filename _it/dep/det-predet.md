@@ -15,4 +15,4 @@ det:predet(persone, Tutte)
 Entrambi i satelliti 
 det:predet(satelliti, Entrambi)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:00 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:45 CEST -->

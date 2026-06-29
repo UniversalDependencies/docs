@@ -11,4 +11,4 @@ This relation captures an existential *det* in extraposition constructions. Note
 Det finns inga vetenskapliga belägg \n There is no scientific evidence
 expl(finns, Det)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:51 CEST -->

@@ -52,4 +52,4 @@ The following adverbs with PTB tag `RBS` also have this feature:
 
 
 Note that most adverbs in English don't have a `Degree` feature because their second and third degree are constructed periphrastically using the adverbs _more_ and _most_, e.g. _more quietly_, _most seriously_.
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:02 CEST -->

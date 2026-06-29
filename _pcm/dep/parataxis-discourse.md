@@ -25,4 +25,4 @@ The `parataxis:discourse` relation is used for associated illocutionary units wh
 ~~~
 
 Unlike [parentheticals](parataxis-parenth.html) associated units do not allow for expansions.
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:35 CEST -->

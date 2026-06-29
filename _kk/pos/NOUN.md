@@ -16,4 +16,4 @@ Proper nouns are not annotated as `NOUN` but rather [PROPN]().
 * [kk] _үй_ "house"
 * [kk] _ағаш_ "tree"
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:41 CEST -->

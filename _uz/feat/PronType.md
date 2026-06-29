@@ -108,4 +108,4 @@ some languages (Bulgarian, Hindi) the two classes are distinct.
 * [cs/en] _každý / every, everybody, everyone, each, všechno /
   everything, all, všude / everywhere, vždy / always_
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:38 CEST -->

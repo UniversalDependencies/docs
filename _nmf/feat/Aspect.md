@@ -48,4 +48,4 @@ Naga-Suansu progressive aspect is constructed via the simultaneous converb *gana
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:08 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:53 CEST -->

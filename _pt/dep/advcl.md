@@ -31,4 +31,4 @@ escravos fossem superiores em qualidades que os próprios brancos
 valoriavam") is "superiores", as the verb to be ("fossem") holds a
 `cop` relation and therefore it is not the head (the main predicate)
 of the clause.
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:56 CEST -->

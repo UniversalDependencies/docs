@@ -28,4 +28,4 @@ relative pronouns: que, cujo, qual
 totality pronouns: todo, todas
 
 negative pronouns: nenhum, ninguém
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:44 CEST -->

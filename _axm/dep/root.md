@@ -24,4 +24,4 @@ with 0, since the indexing of real words in the sentence starts at 1.
 There is just one node with the `root` dependency relation in every tree. If the main predicate is not present (due to
 [ellipsis](http://universaldependencies.org/hy/overview/specific-syntax.html))  and there are multiple orphaned dependents, the dependent that is highest in the 
 obliqueness hierarchy is promoted to the head (root) position and the other orphans are attached to it.
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:39 CEST -->

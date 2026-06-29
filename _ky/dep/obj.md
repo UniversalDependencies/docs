@@ -24,4 +24,4 @@ obj(жеди, тамакты)
 Мен китеп окудум. . \n I read the book.
 obj(окудум, китеп )
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:19 CEST -->

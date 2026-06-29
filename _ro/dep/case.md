@@ -51,4 +51,4 @@ incredibil de bine \n incredibly of well
 advmod(bine, incredibil)
 case(incredibil, de)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:19 CEST -->

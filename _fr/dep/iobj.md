@@ -42,4 +42,4 @@ obl:comp(envoie, présidente)
 case(présidente, à)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:58 CEST -->

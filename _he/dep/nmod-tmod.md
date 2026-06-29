@@ -13,4 +13,4 @@ if the modifier is specifying a time, labeled as `tmod`; This subtype has been *
 nmod:tmod(ספטמבר, 1952)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:11 CEST -->

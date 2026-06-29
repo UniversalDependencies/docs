@@ -27,4 +27,4 @@ Note that unlike traditional Western Armenian grammar, UD does not treat possess
 - emphatic pronouns: _ինք_/_ink’_ “(he) himself/(she) herself/(it) itself” , _ինքզինք_/_ink’zink’_ “(he) himself/(she) herself/(it) itself”
 - total pronouns: _ամէնը_/_amēnë_ “all (of things)”, _ամէնքը_/_amēnk’ë_ “all (of people)”, _ամէն մէկը_/_amēn mēkë_ “everyone”, _ամէն ոք_/_amēn ok’_ “every person”, _ամէն ինչ_/_amēn inč_ “everything”, _բոլորը_/_bolorë_ “all (of people)”, _իւրաքանչիւրը_/_iwrak’ančiwrë_ “each one”, _իւրաքանչիւր ոք_/_iwrak’ančiwr ok’_ “each person”, _ողջը_/_oġǰë_ “the whole”, _ամբողջը_/_amboġǰë_ “the whole”
 - negative pronouns: _ոչ ոք_/_oč ok’_ “nobody”, _ոչինչ_/_očinč_ “nothing”, _ոչ մէկը_/_oč mēkë_ “no one”
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:44 CEST -->

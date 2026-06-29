@@ -19,4 +19,4 @@ Portuguese nouns have the features [Gender]() and [Number]().
 - _árvore_ “tree”
 - _ar_ “air”
 - _beleza_ “beauty”
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:41 CEST -->

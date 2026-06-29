@@ -16,4 +16,4 @@ In Tatar, most adjectives can modify a verbal phrase, but they are still tagged 
 - _<b>еш</b> килә_ "he/she <b>often</b> comes"
 - _өен <b>дә</b> сатты_ "he/she sold his/her house <b>too</b>"
 - _мин <b>генә</b> калды_ "<b>only</b> I was left"
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:37 CEST -->

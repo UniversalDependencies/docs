@@ -21,4 +21,4 @@ It can be marked on definite and indefinite [articles](pt-pos/DET).
 #### Examples
 
 *  _<b>o</b> cachorro_
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:01 CEST -->

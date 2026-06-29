@@ -87,4 +87,4 @@ In addition, certain less frequent words or combinations of words are marked as 
 * _vuoroin... vuoroin_ "in turn... in turn"
 * _yhtä lailla... kuin (+kin)_ "as well as (also)"
 * _ym._ "etc."
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:21 CEST -->

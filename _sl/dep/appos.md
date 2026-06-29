@@ -18,4 +18,4 @@ Dianne se je sprla z Liso , svojo prijateljico , in se je odločila, da gre domo
 appos(Liso,prijateljico)
 appos(Lisa,friend)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:27 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:12 CEST -->

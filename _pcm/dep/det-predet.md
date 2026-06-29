@@ -54,4 +54,4 @@ The `det:predet` relation is used for predeterminers, i.e words that precede and
 12	talk	_	_	_	_	0	_	_	_
 13	about	_	_	_	_	0	_	_	
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:00 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:45 CEST -->

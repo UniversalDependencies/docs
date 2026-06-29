@@ -37,4 +37,4 @@ dislocated(eat, playdough)
 ton kserume oli mas edho poli kala, to jani 
 dislocated(kserume, jani)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:48 CEST -->

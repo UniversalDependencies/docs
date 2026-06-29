@@ -23,4 +23,4 @@ The feature should not be mixed with [Typo]()`=Yes`, which is intended to mark m
 
 * _<b>вз…</b>_ (the beginning of the word взѧти `take')
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:23 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:09 CEST -->

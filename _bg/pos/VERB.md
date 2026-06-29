@@ -32,4 +32,4 @@ Participles and gerund are considered also `VERB`. Below the specific labels tha
 Note that the present active participle _V#car#_ is mapped only to [ADJ]().
 
 Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:47 CEST -->

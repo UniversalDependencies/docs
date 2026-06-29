@@ -26,4 +26,4 @@ the relation is [det]() instead of `amod`.
 4	հով	հով	ADJ	_	Degree=Pos	5	amod	_	_
 5	ջրով	ջուր	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	1	obl	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:10 CEST -->

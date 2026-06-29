@@ -21,4 +21,4 @@ nsubjpass(detected, Bullies-the)
 nsubjpass(затопли, Черквата)
 nsubjpass(REFL.got-warm, Church-the)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:30 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:15 CEST -->

@@ -19,4 +19,4 @@ Similarly to hashtags and usernames, if the URL is syntactically integrated, it 
 Seo ceann don dialann. André Rieu beo i Maastricht ar 23 & 24 Iúil. Ticéid ar fáil ag https://t.co/T5H2QupiEN
 parataxis:url( Ticéid, https://t.co/T5H2QupiEN)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:38 CEST -->

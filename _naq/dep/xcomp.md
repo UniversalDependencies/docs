@@ -28,4 +28,4 @@ xcomp(start, search)
 ~~~
 
 See [universal/xcomp](u-dep/xcomp) for more details on various issues related to open clausal complement. 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:42 CEST -->

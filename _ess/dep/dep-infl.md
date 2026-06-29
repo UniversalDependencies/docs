@@ -27,4 +27,4 @@ afsengagh*(N)-[Abs.Sg]	negh(V)-[Ind.Intr]-[3Sg]	pagunghagh*(N)-[Abl_Mod.Sg]	.
 6	meng	meng	X	_	Case=Abl|Number=Sing	5	dep:infl	_	Analysis=[Abl_Mod.Sg]
 7	.	.	PUNCT	_	_	2	punct	_	Analysis=.
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:41 CEST -->

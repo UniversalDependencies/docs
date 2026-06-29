@@ -13,4 +13,4 @@ form, function, or both.
 * _+, −, ×, ÷, =, <, >_
 * :), ♥‿♥, 😝
 * _john.doe@universal.org, http://universaldependencies.org/, 1-800-COMPANY_
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:47 CEST -->

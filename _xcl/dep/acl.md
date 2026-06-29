@@ -12,4 +12,4 @@ udver: '2'
 acl(ժողովուրդ, նստէր)
 acl(people, sitting)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:52 CEST -->

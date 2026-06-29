@@ -19,4 +19,4 @@ This relation is used for an oblique nominal that lacks a preposition.
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:46 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:32 CEST -->

@@ -27,4 +27,4 @@ Jensen, Hans. 1959. Altarmenische Grammatik. Heidelberg: Winter.
 Kölligan, Daniel. 2021. Multiverb constructions in Classical Armenian. In: L. Aliffi, A. Bartolotta, C. Nigrelli (eds.), _Perspectives on Language and Linguistics: Essays in honour of Lucio Melazzo_. Palermo.
 
 Ouzounian, Agnès. 1992. _Le discours rapporté en arménien classique_. Louvain-La-Neuve: Peeters, 1992.
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:49 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:34 CEST -->

@@ -15,4 +15,4 @@ case(utenrikskomiteen,i)
 nmod(ledervervet,utenrikskomiteen)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:18 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:03 CEST -->

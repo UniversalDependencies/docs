@@ -40,4 +40,4 @@ Generally, the conditional mood is used to express actions that would have taken
 ### Conversion from JOS
 
 All verbs with VForm=present and VForm=future are converted to `Mood=Ind`, all verbs with VForm=imperative are converted to `Mood=Imp` and all verbs with VForm=conditional are converted to `Mood=Cnd`. The non-finite verb forms (participle, infinitive, supine) do not have any `Mood`.
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:17 CEST -->

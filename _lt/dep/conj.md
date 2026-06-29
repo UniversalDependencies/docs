@@ -50,4 +50,4 @@ advmod(on, so)
 In Lithuanian “so on” is an abbreviation.
 
 For more on the relation between a conjunct and the coordinating conjunction, see the [cc]() relation.
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:32 CEST -->

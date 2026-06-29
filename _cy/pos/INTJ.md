@@ -9,4 +9,4 @@ udver: '2'
 
 An interjection is a word that is used most often as an exclamation or part of an exclamation.
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:40 CEST -->

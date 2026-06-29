@@ -61,4 +61,4 @@ Asigmatic aorist in Old Czech:
 
 * _<b>vecě</b> (vecet)_ “said”, _<b>povědě</b> (povědět)_ “said”, _<b>počě</b> (počít)_ “began”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:47 CEST -->

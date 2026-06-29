@@ -14,4 +14,4 @@ advmod:foc(to_play-7, only-6)
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:06 CEST -->

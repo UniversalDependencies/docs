@@ -17,4 +17,4 @@ Demonstrative determiners are independent words, either preposed or postposed to
 - _<b>eːn eː=</b> gaɖʔa_ "his weapon" (DEM DET weapon)
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:39 CEST -->

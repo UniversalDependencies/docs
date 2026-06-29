@@ -53,4 +53,4 @@ case(whose, on)
 fixed(na, základě)
 fixed(on, basis)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:52 CEST -->

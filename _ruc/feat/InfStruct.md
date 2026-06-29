@@ -36,4 +36,4 @@ The clitic _te_ is commonly used for contrastive topic.
 #### Examples
 
 * _nje<b>te</b>_ "as for me"
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:29 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:14 CEST -->

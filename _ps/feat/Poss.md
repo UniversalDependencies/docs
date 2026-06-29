@@ -28,4 +28,4 @@ The possession can be also marked by genitive forms of personal pronouns, howeve
 
 #### Examples
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:35 CEST -->

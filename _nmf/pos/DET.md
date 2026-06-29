@@ -16,4 +16,4 @@ udver: '2'
 * Total determiners: _mazohn_ "all"
 * Indefinite determiners: _za_, _rigatratrahn_ "some"
 * Reflexive determiners: _khalailehnda_, _drekhalai_ "oneself"
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:39 CEST -->

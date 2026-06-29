@@ -18,4 +18,4 @@ The `obl:final` relation marks an future participle indirect object in the Essiv
 5	.	.	PUNCT	_	_	4	punct	_	LMSeg:.
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:26 CEST -->

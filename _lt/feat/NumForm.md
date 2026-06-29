@@ -33,4 +33,4 @@ Examples: 15-oji (15th)
 ### <a name="Roman">`Roman`</a>: roman numeral
 
 Examples: I, II, III
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:26 CEST -->

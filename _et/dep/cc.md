@@ -35,4 +35,4 @@ Coordinating conjunctions are a closed class of words, and the main conjunctions
 * _vaid_ "but"
 * (continued ...)
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:21 CEST -->

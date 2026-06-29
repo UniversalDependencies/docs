@@ -13,4 +13,4 @@ advmod:mmod(токсесазь, улема)
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:22 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:07 CEST -->

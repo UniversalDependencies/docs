@@ -34,4 +34,4 @@ See the link [iobj]() for dative objects of the verb when a verb has more than o
 5	tyre	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:19 CEST -->

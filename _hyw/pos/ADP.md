@@ -31,4 +31,4 @@ Note also that Western Armenian has a number of case-marking elements (tradition
 - Postpositions: _համար_/_hamar_ “for”, _հանդերձ_/_handerj_ “together with”, _պէս_/_pēs_ “as”
 - Localizers / postpositions: _մօտ_/_mòt_ “at”, _վրայ_/_vray_ “on”, _մէջ_/_mēǰ_ “in”, _տակ_/_tak_ “under”, _առաջ_/_aṙaǰ_, _առջեւ_/_aṙǰew_, _դիմաց_/_dimac’_ “in front of, opposite, ahead of”
 - Case-marking words: _նպատակով_/_npatakov_ “for the purpose”, _պատճառով_/_patč̣aṙov_ “because of”, _պարագային_/_paragayin_ “in case”
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:35 CEST -->

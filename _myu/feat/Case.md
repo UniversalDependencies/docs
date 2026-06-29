@@ -21,4 +21,4 @@ udver: '2'
 #### Examples
 
 * _<b>o'a-m</b>&nbsp;_ “with the ax”
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:10 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:55 CEST -->

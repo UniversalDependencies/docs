@@ -15,4 +15,4 @@ Que se passe -t -il ? \n What happens?
 dep(-il,-t)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:39 CEST -->

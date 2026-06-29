@@ -18,4 +18,4 @@ mark(saṃdahyeran, yathā)
 nsubj(saṃdahyeran, sarvāṇi)
 advcl:consec(anuparyādadhyāt, saṃdahyeran)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:58 CEST -->

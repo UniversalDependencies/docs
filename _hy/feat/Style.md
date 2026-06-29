@@ -74,4 +74,4 @@ Typical examples of expressive words in the Armenian data are diminutives:
 #### Examples
 
 * _մը, հանըմ, Բեբրոն, Պաղտասար_
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:44 CEST -->

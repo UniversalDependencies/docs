@@ -26,4 +26,4 @@ Some feature assignments are ambiguous or non-trivial.
 - _йөгер_, _аша_ "run, eat"
 - _йөгерде_, _ашады_ "ran, ate"
 - _белдерелмәячәктер_ "It will probably not be told"
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:48 CEST -->

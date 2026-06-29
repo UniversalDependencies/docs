@@ -18,4 +18,4 @@ dislocated:mod(ʔalba,tiga)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:04 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:49 CEST -->

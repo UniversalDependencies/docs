@@ -20,4 +20,4 @@ Auxiliary and modal verbs are not annotated as `VERB` but rather
 #### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=444> (in Finnish)
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:48 CEST -->

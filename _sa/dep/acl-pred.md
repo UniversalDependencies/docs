@@ -17,4 +17,4 @@ nmod(śata-,r̥c-)
 acl:pred(gātha-,śata-)
 acl:attr(ākhyāna-,gātha-)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:09 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:54 CEST -->

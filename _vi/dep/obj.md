@@ -15,4 +15,4 @@ amod(giải, nhì)
 punct(đạt, 。)
 </code></pre>
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:20 CEST -->

@@ -93,4 +93,4 @@ Collective or mass or singulare tantum is a special case of singular. It applies
 * _<b>դահութիւն</b>/dahowt’iwn_ “old age”
 * _<b>խիփ</b>/xip’_ “shame, reverence”
 * _<b>պօղպատ</b>/pòġpat_ “steel”
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:21 CEST -->

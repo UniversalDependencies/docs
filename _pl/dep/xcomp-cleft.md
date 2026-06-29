@@ -31,4 +31,4 @@ The `xcomp:cleft` relation is used in the Polish [PDB-UD](http://universaldepend
 7	well	_	_	_	_	_	_	_	_
 8	.	_	_	_	_	_	_	_	_
 ~~~	
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:42 CEST -->

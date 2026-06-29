@@ -13,4 +13,4 @@ advmod:deg(siõm, sami)
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:20 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:04 CEST -->

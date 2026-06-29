@@ -16,4 +16,4 @@ compound:atov(già, đi)
 punct(già, 。)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:28 CEST -->

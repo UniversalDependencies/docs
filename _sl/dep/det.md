@@ -30,4 +30,4 @@ amod(child,third)
 case(child,for)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:43 CEST -->

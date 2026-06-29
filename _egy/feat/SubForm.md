@@ -72,4 +72,4 @@ Wolfgang Schenkel, 2012. Tübinger Einführung in die klassisch-ägyptische Spra
 * TBA
 * _<b>ꞽwi̯</b>_ “come, return”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:44 CEST -->

@@ -12,4 +12,4 @@ A clausal passive subject is a clausal syntactic subject of a passive clause.
 
 ~~~ sdparse
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:38 CEST -->

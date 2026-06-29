@@ -24,4 +24,4 @@ In other languages, see also [Hyph]() and [Compound]().
 
 * <b>מולטי</b> _multi_ “multi”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:36 CEST -->

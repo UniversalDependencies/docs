@@ -19,4 +19,4 @@ Ob dies die Unzufriedenheit zu zügeln vermag , ist zweifelhaft \n Whether this 
 csubj(zweifelhaft, vermag)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:36 CEST -->

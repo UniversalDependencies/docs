@@ -15,4 +15,4 @@ obl:tmod(avatakse-3, reedel-4)
 ~~~
 
 The `tmod` subrelation is also used for [adverbial](et-dep/advmod-tmod) modifiers.
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:46 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:31 CEST -->

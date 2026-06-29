@@ -25,4 +25,4 @@ The true agent of the verb _կրթեցնել_ “educate” in the sentence is _
 
 The causative verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation. For the
 causative auxiliary see the [aux:caus]() relation.
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:58 CEST -->

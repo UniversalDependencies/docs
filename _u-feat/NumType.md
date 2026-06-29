@@ -134,4 +134,4 @@ distinguished in corpora.
 * [en] _two-five_ "two to five" (provided tokenization leaves it as
   one token.)
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:27 CEST -->

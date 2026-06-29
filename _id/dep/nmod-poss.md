@@ -31,4 +31,4 @@ nmod:poss(ibu, ku)
 nmod:poss(mother, my)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:23 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:09 CEST -->

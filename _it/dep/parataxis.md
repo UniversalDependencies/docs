@@ -39,4 +39,4 @@ to resort to an extensive use of parataxis, and of different flavours for differ
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:34 CEST -->

@@ -202,4 +202,4 @@ nmod:unmarked(12:30:00, PM)
 **History:** Prior to release 2.15, case (i) (temporal modifiers)
 had a separate subtype called [nmod:tmod](), and [nmod:npmod]()
 was used for the non-temporal ones.
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:26 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:11 CEST -->

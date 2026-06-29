@@ -14,4 +14,4 @@ parataxis:discourse(ёсць, Карацей)
 parataxis:discourse('s, short )
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:49 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:35 CEST -->

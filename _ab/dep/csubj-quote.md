@@ -20,4 +20,4 @@ The dependent of an `csubj:quote` is a direct speech clause, cross-referenced by
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:38 CEST -->

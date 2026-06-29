@@ -75,4 +75,4 @@ instead of
 Do not confuse `flat:sibl` with [`flat:abs`](flat-abs.html) used for absolutive constructions.
 
 For the discussion on `flat:sibl`, see issue [#556](https://github.com/UniversalDependencies/docs/issues/556).
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:57 CEST -->

@@ -89,4 +89,4 @@ The verbal noun in Moksha represents a mixture of verb and nominal features.
 
 * [mdf] _Рамаль хуш тядязень <b>муськома</b> очконц эшка._ "should have bought one the size of my mother's washing trough"
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:04 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:49 CEST -->

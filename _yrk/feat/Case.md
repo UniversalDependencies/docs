@@ -88,4 +88,4 @@ The prolative case indicates a pathway through a three-dimensional or a two-dime
 
 * [yrk] _тарка <b>пыявна</b> ӈадимядмʼ_ "I ended up on a headland <b>along the fork</b> of the river."
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:56 CEST -->

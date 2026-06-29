@@ -13,4 +13,4 @@ We then use the `dep:conj` relation to get around this technical issue which goe
 toʔ nãeri nãer proheri nunca pãskertVi =na // text_en: " They went to look for him, they never found him, it is said"
 dep:conj(pãskertVi, proheri) ("take_out", "look_for")
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:40 CEST -->

@@ -34,4 +34,4 @@ The two other compounding relations are:
 
 - [fixed]() for fixed grammaticized expressions with function words
 - [flat]() for proper nouns constituted of multiple nominal elements
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:27 CEST -->

@@ -23,4 +23,4 @@ to left, like Arabic.
 
 * [is] _„gríðarlegan fjölda<b>“</b>_ “a huge number”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:38 CEST -->

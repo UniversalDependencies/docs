@@ -44,4 +44,4 @@ The subjuntive auxiliary (lemma=<b>à</b>) conveys dependency or consecution bet
 
 - _zaːsù zoː <b>sù</b> koːyar̃_ "they will come <b>in order to</b> teach" (Southern Hausa)
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:17 CEST -->

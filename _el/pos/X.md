@@ -24,4 +24,4 @@ Tokens in non-Greek characters are assigned the tag X.
 -	*Κάντο <b>φοργουόρντ</b> σε μένα.* Lit. do it <b>forward</b> to me "Forward it to me."
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:48 CEST -->

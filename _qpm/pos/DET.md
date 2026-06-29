@@ -97,4 +97,4 @@ The following determiners do not inflect .
 * _nǽko_ "something"
 * _sǽko_ "every"
 * _vrit_ "all"
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:39 CEST -->

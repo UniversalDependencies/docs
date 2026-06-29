@@ -27,4 +27,4 @@ Note that Armenian does not distinguish possessive pronouns as a separate subcla
 - emphatic pronouns (when used with or related to the corresponding personal pronouns or nouns): _ինքը_/_ink’ë_ “(he) himself/(she) herself/(it) itself”, _իրենք_/_irenk’_ “(they) themselves”
 - total pronouns: _ամենը_/_amenë_ “all (of things)”, _ամենքը_/_amenk’ë_ “all (of people)”, _ամեն մեկը_/_amen mekë_ “everyone”, _ամեն ոք_/_amen ok’_ “every person”, _ամեն ինչ_/_amen inč_ “everything”, _բոլորը_/_bolorë_ “all (of people)”, _յուրաքանչյուրը_/_yowrak’ančyowrë_ “each one”, _յուրաքանչյուր ոք_/_yowrak’ančyowr ok’_ “each person”, _ողջը_/_oġǰë_ “the whole”, _ամբողջը_/_amboġǰë_ “the whole”
 - negative pronouns: _ոչ ոք_/_oč ok’_ “nobody”, _ոչինչ_/_očinč_ “nothing”, _ոչ մեկը_/_oč mekë_ “no one”
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:44 CEST -->

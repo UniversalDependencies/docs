@@ -12,4 +12,4 @@ punct(gọi là, .)
 obl:verb(gọi là, bài tiết)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:32 CEST -->

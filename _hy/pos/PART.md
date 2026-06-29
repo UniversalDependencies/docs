@@ -22,4 +22,4 @@ Note that particles like _այո_/_ayo_ “yes”, _ոչ, չէ_/_oč, čē_ “n
 - Negative particles: _ոչ, չէ_/_oč, čē_ “not, no”
 - Wish particles: _երանի, երնեկ_/_erani, ernek_ “if only, would that, I wish”
 - Volitional particles: _հապա_/_hapa_ “well, well then”
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:43 CEST -->

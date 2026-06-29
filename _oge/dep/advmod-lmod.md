@@ -11,4 +11,4 @@ A locative adverbial modifier is a subtype of the `advmod` relation: if the modi
 ესენი არიან რომელნიცა ზედა დათესულნი. 'These are those who were sown upon the rocky place.' მრკ. 4,16 C 
 advmod:lmod(დათესულნი-4, ზედა-3)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:06 CEST -->

@@ -24,4 +24,4 @@ In Naija the `VerbType` feature is used to annotate the function of verbs. At pr
 
 * _I <b>am</b> from Delta State_ "I'm from Delta State"
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:49 CEST -->

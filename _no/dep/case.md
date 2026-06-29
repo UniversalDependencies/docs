@@ -21,4 +21,4 @@ Hun kom hit til Berlin \n She came here to Berlin
 case(Berlin,til)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:19 CEST -->

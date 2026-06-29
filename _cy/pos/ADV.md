@@ -16,4 +16,4 @@ Adverbs typically modify verbs to indicate time, place, location or manner. In W
 * _yn araf_  "slowly"
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:36 CEST -->

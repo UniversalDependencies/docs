@@ -271,4 +271,4 @@ xcomp(helps, succeed)
   [Semantic and pragmatic functions in Plains Cree syntax](https://dare.uva.nl/search?identifier=153f3405-f029-4046-8d95-9f2a087b4123)
   (PhD thesis). Utrecht: LOT. ISBN 978-94-6093-051-5.
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:58 CEST -->

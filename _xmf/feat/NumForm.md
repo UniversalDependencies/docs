@@ -42,4 +42,4 @@ The `NumForm` feature applies to [numerals](_xmf/pos/NUM).
 
 * _I, II, III_
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:27 CEST -->

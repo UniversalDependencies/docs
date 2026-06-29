@@ -20,4 +20,4 @@ flat(1, 2016)
 The following specialisations of `flat` are used in Italian:
 * [flat:name](flat-name) for names.
 * [flat:foreign]() for foreign phrases.
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:08 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:53 CEST -->

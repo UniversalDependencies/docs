@@ -22,4 +22,4 @@ conj(Кыргызстан, Россиянын)
 conj(кумшекер, майдын)
 ~~~
 terlanguage links updated Po lis 14 15:35:17 CET 2022 -->
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:32 CEST -->

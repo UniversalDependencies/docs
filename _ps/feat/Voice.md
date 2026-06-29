@@ -25,4 +25,4 @@ udver: '2'
 
 #### Examples
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:50 CEST -->

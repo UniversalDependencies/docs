@@ -131,4 +131,4 @@ The verb noun has the feminine gender and inflects only in singular as usual fem
 #### Examples
 * verbal noun: **پوهونه** مهمه ده _**pohawë́na** muhíma da_ “The education is important”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:04 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:49 CEST -->

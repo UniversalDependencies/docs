@@ -24,4 +24,4 @@ nmod(sijaitsee-2, mäen-3)
 case(mäen-3, takana-4)
 punct(sijaitsee-2, .-5)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:18 CEST -->

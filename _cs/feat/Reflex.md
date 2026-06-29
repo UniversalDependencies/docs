@@ -48,4 +48,4 @@ column. (Which means that empty value has the `No` meaning.)
 
 * reflexive personal pronouns: _se, si, sebe, sobě, sebou_ (occurs in various cases but not in nominative and vocative; does not distinguish [Number]())
 * reflexive possessive determiner: _svůj_
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:40 CEST -->

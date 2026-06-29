@@ -237,4 +237,4 @@ Naija does not uses `parataxis` as such, but splits it into six subrelations:
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:49 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:34 CEST -->

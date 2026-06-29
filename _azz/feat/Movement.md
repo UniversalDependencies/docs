@@ -23,4 +23,4 @@ Denotes movement away from speaker's current location.
 
 * [azz] _nechita<b>to</b>_ "me fue a acompañar"
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:18 CEST -->

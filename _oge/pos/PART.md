@@ -27,4 +27,4 @@ Part:	Particle
 - negative particles: _არა_ *ara* 'not', _ვერა_ *vera* 'not' etc.
 - relative particles: _ცა-ესე_ *cʻa-ese* 'and too' etc.
 - infinitive particles: _რომელი<b>მე</b>_ *romeli<b>me</b>* 'any' etc.
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:43 CEST -->

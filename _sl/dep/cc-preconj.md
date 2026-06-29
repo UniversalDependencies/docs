@@ -16,4 +16,4 @@ cc(teachers,nor)
 cc:preconj(principals,neither)
 conj(principals,teachers)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:26 CEST -->

@@ -20,4 +20,4 @@ The `Voice` feature captures the distinction between active and passive for verb
 
 * [sv] _inkomst <b>beskattas</b>_ "income is taxed"
 * [sv] _det <b>hanteras</b> fel_ "it is handled incorrectly"
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:50 CEST -->

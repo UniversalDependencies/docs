@@ -21,4 +21,4 @@ case(början, från)
 Nytt system för ersättning \n New system for compensation
 case(ersättning, för)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:19 CEST -->

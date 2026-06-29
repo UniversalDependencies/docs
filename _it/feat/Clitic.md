@@ -19,4 +19,4 @@ Clitic personal pronouns: _ci, gli, le, li, lo, mi, me, ne, se, si, te, ti, ve, 
 * _si_ convincono "they convince themselves"
 * _ci_ sono troppi ostacoli "there are too many obstacles"
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:12 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:57 CEST -->

@@ -33,4 +33,4 @@ spoken languages.
 15	իրենց	իր	DET	_	Case=Acc|Number=Plur|Person=3|PronType=Poss	16	det:poss	_	_
 16	զաւդվածքն	զաւդված	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing|Style=Var	13	obj	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:47 CEST -->

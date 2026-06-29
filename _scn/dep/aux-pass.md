@@ -12,4 +12,4 @@ A màchina fu arrivutata
 aux:pass(arrivutata, fu)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:17 CEST -->

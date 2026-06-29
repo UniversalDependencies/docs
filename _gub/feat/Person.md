@@ -62,4 +62,4 @@ The third person morphemes are "o" and "u" (when the word starts with a consonan
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:30 CEST -->

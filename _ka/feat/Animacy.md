@@ -33,4 +33,4 @@ Nouns that are not animate are inanimate.
 #### Examples
 
 * _ჩანთა დევს მაგიდაზე_ 'The bag lies on the table'
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:52 CEST -->

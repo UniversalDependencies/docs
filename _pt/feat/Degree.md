@@ -49,4 +49,4 @@ This feature is used to express that something exceeds normal proportion in term
 *  _Tomo um banho <b>rapidão</b>._ ADV
 *  _Uma doença rara, com um nome <b>complicadão</b>._ ADJ
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:17 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:02 CEST -->

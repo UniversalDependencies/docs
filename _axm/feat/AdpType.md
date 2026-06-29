@@ -43,4 +43,4 @@ a postposition) as in _դեմ հանդիման_ “in front of”.
 #### Examples
 
 * _ի <b>հետ</b>_ “together with”, _ի <b>մէնջ</b>_ “in, between”
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:51 CEST -->

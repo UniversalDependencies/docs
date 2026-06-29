@@ -61,4 +61,4 @@ It is kept in FEATS in the UD conversion.
 * _bo en behalve “above and except”.
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:06 CEST -->

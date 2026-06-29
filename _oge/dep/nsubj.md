@@ -24,4 +24,4 @@ nsubj(ეყივნოს, ქათამსა)
 **NB**
 Note that when the verb is used in the passive voice the nominal syntactic subject is marked with the subtype [nsubj:pass](_oge/dep/nsubj-pass).
 When the subject is clausal, it's preferable to use other specialized relations ([csubj](_oge/dep/csubj) or its subtype [csubj:pass](_oge/dep/csubj-pass).
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:26 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:12 CEST -->

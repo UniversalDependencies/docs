@@ -12,4 +12,4 @@ gi den ubehøvlede unge mannen en sjanse \n give the rude young man a chance
 iobj(gi-1,mannen-5)
 dobj(gi-1,sjanse-7)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:58 CEST -->

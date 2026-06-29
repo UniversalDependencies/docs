@@ -67,4 +67,4 @@ using a stressed prefix و _wë́_.
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:49 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:34 CEST -->

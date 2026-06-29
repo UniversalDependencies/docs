@@ -14,4 +14,4 @@ compound:svc(eat, took)
 aux(ਖਾ, ਹੈ)
 aux(eat, is)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:46 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:31 CEST -->

@@ -22,4 +22,4 @@ Its value distinguishes whether we are talking about something known and concret
 
 * _ар_ "each"
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:01 CEST -->

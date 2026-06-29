@@ -91,4 +91,4 @@ is wrong.
 
 * _viņš atgriezās, <b>lai gan</b> tas nebija vajadzīgs_ "he returned even
   though it was not necessary" (_lai_ = [SCONJ](), _gan_ = [PART]())
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:07 CEST -->

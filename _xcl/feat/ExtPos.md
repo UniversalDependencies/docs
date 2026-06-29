@@ -57,4 +57,4 @@ In Classical Armenian, it is typical for heads of a [`fixed`](https://universald
 #### Examples
 
 * որպէս զի / _orpēs zi_ “so that”; _orpēs_ = [ADV]()
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:22 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:07 CEST -->

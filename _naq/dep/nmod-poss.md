@@ -32,4 +32,4 @@ Amob ǂkhanis \n Amos book
 nmod:poss(ǂkhanis, Amob)
 nmod:poss(book, Amos)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:24 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:09 CEST -->

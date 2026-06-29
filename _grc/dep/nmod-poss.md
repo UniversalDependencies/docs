@@ -21,4 +21,4 @@ Possessors of noun phrases, such as genitive noun phrases and pronouns, receive 
 11	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	10	nmod:poss	_	Gloss=you,your|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:23 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:09 CEST -->

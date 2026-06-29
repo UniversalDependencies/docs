@@ -47,4 +47,4 @@ punct(апельсины, ,-6)
 punct(pears, ,-15)
 punct(oranges, ,-17)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:21 CEST -->

@@ -18,4 +18,4 @@ Note that there are a number of case-marking elements (traditionally called “a
 - Postpositions: _համար_/_hamar_ “for”; _հանդէպ_/_handēp_ “to, towards”; _պէս_/_pēs_ “as”
 - Ambipositions: _ինձ <b>դէմ</b>ս_/_inj <b>dēm</b>s_ “in front of me”;  _<b>դէմ</b> քեզ_/_<b>dēm</b> k’ez_ “in front of you”
 - Complex prepositions: _ի խէչ_/_i xēč_ “at”; _ի վերայ_/_i veray_ “on, over, about”; _ի մէջ_/_i mēǰ_ “in, into, between”
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:35 CEST -->

@@ -16,4 +16,4 @@ Note that response words such as _так&nbsp;_ “yes”, _ні&nbsp;_ “no”
 - Sentence modality: _<b>но</b>, <b>хай</b>, <b>нехай</b>&nbsp;_ (“<b>May you</b> have an enjoyable stay!”)
 - _тільки&nbsp;_ “just, only”
 - _аж&nbsp;_ “only, as late as, even, up to”
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:43 CEST -->

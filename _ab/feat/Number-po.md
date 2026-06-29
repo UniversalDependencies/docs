@@ -19,4 +19,4 @@ This feature marks number agreement of the verb with the potential object.
 
 * [ab] _и-<b>шә</b>-зы-ҟа.ҵо-м.ызт_ [DO.3-<b>PO.2Pl</b>-Pot-do-Neg.Impf] ‘<b>you.Pl</b> could not do it’ `Dyn=Yes|Number[po]=Plur|Person[po]=2|Person[subj]=3|Polarity=Neg|Reln=Pot|Tense=Imp|Trans=Yes|VerbForm=Fin`
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:24 CEST -->

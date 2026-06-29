@@ -44,4 +44,4 @@ nova ladja , velika 1350 kvadratnih metrov \n new ship , spanning 1350 square me
 amod(ladja,velika)
 amod(ship,spanning)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:26 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:10 CEST -->

@@ -11,4 +11,4 @@ The  _advmod:lmod_ relation is used for adverbial modifiers with locative modali
 Udu tõuseb ülespoole.
 advmod:lmod(tõuseb-2, ülespoole-3)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:06 CEST -->

@@ -70,4 +70,4 @@ In Italian, only heads of a [`fixed`](https://universaldependencies.org/it/dep/f
 
 * _<b>mamma mia</b>_
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:07 CEST -->

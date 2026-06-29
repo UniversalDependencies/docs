@@ -17,4 +17,4 @@ A coordinating conjunction may also appear at the beginning of a sentence. This 
 Og denne gangen gjorde hun det på engelsk \n And this time she did it in English
 cc(gjorde,Og)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:21 CEST -->

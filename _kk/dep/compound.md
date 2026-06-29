@@ -42,4 +42,4 @@ compound(миллиард-6, 16,3-5)
 punct(түседі-9, .-10)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:26 CEST -->

@@ -19,4 +19,4 @@ Particles are function words that must be associated with another word or phrase
 
 * Negative tag question particle tame-e
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:43 CEST -->

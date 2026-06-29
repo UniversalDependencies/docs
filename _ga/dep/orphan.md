@@ -16,4 +16,4 @@ _Tháinig riail chun cinn a choiscfeadh dath a chur ar dhath eile, nó <b>miotal
 Tháinig riail chun cinn a choiscfeadh dath a chur ar dhath eile, nó miotal ar mhiotal eile. \n Came rule to fore that would_ban colour to put on colour other, or metal on metal other.
 orphan(dath, miotal)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:32 CEST -->

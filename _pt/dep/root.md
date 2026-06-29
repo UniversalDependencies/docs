@@ -26,4 +26,4 @@ root(ROOT, PT)
 case(governo, em)
 nmod(PT, governo)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:40 CEST -->

@@ -51,4 +51,4 @@ Aš važiavau į miestą . \n I went to the-city .
 obl:arg(važiavau, miestą)
 obl:arg(went, the-city)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:24 CEST -->

@@ -46,4 +46,4 @@ In Polish, comparative expressions that depend on nouns can also be realised as 
 14	regret
 15	.
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:26 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:11 CEST -->

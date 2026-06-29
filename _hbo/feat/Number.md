@@ -24,4 +24,4 @@ TODO: this feature should maybe be dropped or merged with `Plur`.
 #### Examples
 
 * _הם_ "they (m)"
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:22 CEST -->

@@ -19,4 +19,4 @@ context.
 - negative pronouns: _ayac_ "nadie"
 
 ### References 
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:44 CEST -->

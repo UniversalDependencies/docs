@@ -72,4 +72,4 @@ Shaxs shakllari ish-harakatning soʻzlovchiga (1-Sh.), tinglovchiga (2-Sh.) va s
 * _maktabi_ “their school””
 * _maktablari_ “their schools”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:33 CEST -->

@@ -19,4 +19,4 @@ In release 2.16 and after this is replaced by [obl:unmarked]().
 nach bi coinneamhan nam ball 's nan comataidh taobh muigh Dhùn\_Éideann ach tearc \n PART will\_be meetings of\_the members and of\_the committee side out Edinburgh but scarce
 obl:smod(coinneamhan, taobh)
 ~~~ 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:30 CEST -->

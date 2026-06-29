@@ -29,4 +29,4 @@ obl:agent(diingatkan, Ibu)
 obl:agent(warned, Mother)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:00:24 CEST -->

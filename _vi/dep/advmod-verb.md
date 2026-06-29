@@ -14,4 +14,4 @@ nsubj(xinh, Lan)
 punct(xinh, 。)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:10 CEST -->

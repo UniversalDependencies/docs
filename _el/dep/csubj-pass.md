@@ -20,4 +20,4 @@ csubj:pass(Αποφασίστηκε, συνεχιστούν)
 nsubj(συνεχιστούν, συνομιλίες)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:43:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:38 CEST -->

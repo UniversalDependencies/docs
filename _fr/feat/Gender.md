@@ -26,4 +26,4 @@ grammatically feminine, without any relation to sex.
 
 * _<b>fille</b>_ "girl"
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:23 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:09 CEST -->

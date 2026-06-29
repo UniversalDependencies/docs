@@ -160,4 +160,4 @@ Other nouns and adjectives (all masculine/feminine, singular/plural) share the f
 
 #### Examples
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:10 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:56 CEST -->

@@ -34,4 +34,4 @@ The discourse relation is used for interjections (words tagged [INTJ]()) and oth
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:44:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:59:46 CEST -->

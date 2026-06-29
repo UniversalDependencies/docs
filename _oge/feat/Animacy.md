@@ -32,4 +32,4 @@ Nouns that are not animate are inanimate.
 #### Examples
 
 * _ქალაქ, ქალაქი_ 'city' etc.
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:52 CEST -->

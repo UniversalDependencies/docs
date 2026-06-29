@@ -29,4 +29,4 @@ Adposition is a cover term for prepositions and postpositions. Adpositions belon
 ### References
 
 Τζάρτζανος, Αχιλλέας, 2002. Νεοελληνική Σύνταξις της Κοινής Δημοτικής. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225. https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:35 CEST -->

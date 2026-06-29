@@ -55,4 +55,4 @@ Aspects of this negative class are comparable to those of other classes. For exa
 * _in + nád + <b>am</b> + carai_ = _innach<b>am</b>carai_ “do you not love <b>me</b>?”
 * _ná + <b>?</b> + dermainte_ = _nach ṅdermainte_ “do not forget <b>him</b>”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:42:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:58:37 CEST -->

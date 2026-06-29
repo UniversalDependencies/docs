@@ -17,4 +17,4 @@ An auxiliary verb is a verb that accompanies the lexical verb of a verb phrase a
 - Tense auxiliary: _ir_ (futuro perifrástico),
 - Modal auxiliary (+ infinitive): _poder_, _dever_, _continuar_,
 - Passive auxiliary: _ser_, _ter_, _ir_.
-<!-- Interlanguage links updated Po 29. června 2026, 17:41:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:57:38 CEST -->
