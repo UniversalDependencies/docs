@@ -31,4 +31,4 @@ This feature marks person agreement of the verb with the inner reflexive object.
 
 * [ab] _<b>з-ҽ</b>-а.зы-з-к-уаз_ [Refl.Rel-Refl-it.for-Subj.Rel-take-NonFin.Past] ‘who was trying to (lit.: taking himself to)’ `Dyn=Yes|Gender[ro]=Neut|Number[ro]=Sing|Person[refl]=Rel|Person[ro]=3|Person[subj]=Rel|Reln=Ben|Subcat=Tran|Tense=Imp|VerbForm=NonFin`
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:31 CEST -->

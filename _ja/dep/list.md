@@ -14,4 +14,4 @@ appos(1.-1, 東京-2)
 appos(2.-3, 大阪-4)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:47:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:58 CEST -->

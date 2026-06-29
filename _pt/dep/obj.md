@@ -48,4 +48,4 @@ faltou lhes inteligência
 nsubj(faltou, inteligência)
 iobj(faltou, lhes)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:47:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:16 CEST -->

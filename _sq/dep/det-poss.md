@@ -15,4 +15,4 @@ det:poss(parfumit, saj)
 Prania e tij ma zhbënte .
 det:poss(prania, tij)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:43 CEST -->

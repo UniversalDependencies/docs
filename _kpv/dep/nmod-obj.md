@@ -16,4 +16,4 @@ nmod:obj(чӧвтанінӧ-4, зорӧдъяс-3)
 punct(мӧдӧдчисны-1, ...-5)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:47:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:06 CEST -->

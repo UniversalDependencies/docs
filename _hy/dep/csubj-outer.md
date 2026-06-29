@@ -44,4 +44,4 @@ Plain [csubj]() (or another subtype) will be appropriate if the copular clause p
 8	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:36 CEST -->

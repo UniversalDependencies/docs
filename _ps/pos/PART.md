@@ -22,4 +22,4 @@ The particles usually depend on the head of the clause with the [advmod]() relat
 * <!-- a -->مه _ma_ “not” (with imperative)
 * <!-- a -->باید _bâyád_ “must” / “should” / “it is necessary” (with subjunctive)
 * <!-- a -->دې _de_ “let” / “should” (with subjunctive)
-<!-- Interlanguage links updated St 6. května 2026, 20:42:04 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:39 CEST -->

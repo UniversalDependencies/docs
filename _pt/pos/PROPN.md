@@ -28,4 +28,4 @@ However, if the token consists entirely of digits (like _7_ in _Windows 7_), it 
 - _Maria_, _João_
 - _Londres, Goiânia_
 - _ONG_, _EUA_
-<!-- Interlanguage links updated St 6. května 2026, 20:42:08 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:41 CEST -->

@@ -19,4 +19,4 @@ obj:agent(peeling, Dewi)
 ~~~
 
 “Dewi is peeling the mango with a knife.” (instrument voice)
-<!-- Interlanguage links updated St 6. května 2026, 20:47:46 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:13 CEST -->

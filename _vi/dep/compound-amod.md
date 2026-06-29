@@ -12,4 +12,4 @@ nhà thông minh 。
 compound:amod(nhà, thông minh)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:46:00 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:26 CEST -->

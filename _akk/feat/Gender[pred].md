@@ -26,4 +26,4 @@ Layered feature encoding gender of predicative suffix attached to noun in predic
 
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:08 CEST -->

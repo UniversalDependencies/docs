@@ -20,4 +20,4 @@ flat:num(thousand, ninety)
 cc(seven, and)
 conj(thousand, seven)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:47:00 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:54 CEST -->

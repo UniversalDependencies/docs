@@ -12,4 +12,4 @@ The <code>obl</code> relation is used for a nominal (noun, pronoun, noun phrase)
 obl(აკურთხენ, დასხმითა)
 obl(აკურთხენ, თანა)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:48:00 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:19 CEST -->

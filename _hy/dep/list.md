@@ -25,4 +25,4 @@ appos(հեռ, 010)
 flat(010, 101-010)
 appos(փոստ, petros@petros.am)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:47:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:58 CEST -->

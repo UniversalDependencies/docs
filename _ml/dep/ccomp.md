@@ -29,4 +29,4 @@ mark(എഴുതിയത്, എന്ന്)
 nsubj(അറിയില്ല, അവർക്ക്)
 punct(അറിയില്ല, .)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:21 CEST -->

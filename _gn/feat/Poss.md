@@ -41,4 +41,4 @@ The feature `Poss` is similar to the feature [`Rel`](https://github.com/Universa
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated St 6. května 2026, 20:44:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:33 CEST -->

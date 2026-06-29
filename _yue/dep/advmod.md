@@ -185,4 +185,4 @@ Temporal expressions that are adverbs or short adverbial phrases also use the [a
 4	soon!"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:04 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:02 CEST -->

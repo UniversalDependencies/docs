@@ -33,4 +33,4 @@ The `xcomp:lo` relation marks an a clausal complement cross-referenced by a loca
 
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:48:46 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:41 CEST -->

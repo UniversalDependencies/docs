@@ -43,4 +43,4 @@ See the particular subtype for details and examples.
 [aux:pot](): potential mood, verbs کېدل _kedë́l_ “to become” and کول _kawë́l_ “to do”
 
 [aux:sub](): subjunctive mood, verb کېدل _kedë́l_ “to become”
-<!-- Interlanguage links updated St 6. května 2026, 20:45:26 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:12 CEST -->

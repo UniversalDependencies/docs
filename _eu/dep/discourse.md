@@ -37,4 +37,4 @@ discourse(da-3, ez-6)
 punct(da-3, .-7)
 punct(da-3, ,-5)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:44 CEST -->

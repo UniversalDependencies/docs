@@ -20,4 +20,4 @@ In English, the `Definite` feature is marked only on the [determiners](en-pos/DE
 * _the_
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:58 CEST -->

@@ -42,4 +42,4 @@ objects within a set.
 * _<b>suurim</b> maja_ “the biggest house”
 * _<b>tuntuim</b> poliitik_ “the best-known politician”
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:59 CEST -->

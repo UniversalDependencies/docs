@@ -16,4 +16,4 @@ animal or idea.
 - _træ_ "tree"
 - _luft_ "air"
 - _skønhed_ "beauty"
-<!-- Interlanguage links updated St 6. května 2026, 20:42:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:37 CEST -->

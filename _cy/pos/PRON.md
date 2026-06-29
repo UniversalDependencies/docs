@@ -31,4 +31,4 @@ Sing, Fem     | _hon, honno_
 Plur          | _hyn, hynny_
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:40 CEST -->

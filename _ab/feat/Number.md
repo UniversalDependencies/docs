@@ -25,4 +25,4 @@ This feature marks number of a nominal.
 
 * [ab] _ҩ-гыгшәыг_ [Card.2-beast] ‘<b>two</b> beasts’ `Animacy=Nhum|Number=Card`
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:28 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:19 CEST -->

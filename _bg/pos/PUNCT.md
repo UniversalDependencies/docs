@@ -21,4 +21,4 @@ Thus, it includes the tag `punct` which marks: period, comma, colon, etc.
 - _Точка_ / _Tochka_ "Period": _<b>.</b>_
 - _Запетая_ / _Zapetaya_ "Comma": _<b>,</b>_
 - _Скоби_ / _Skobi_ "Parentheses": _<b>()</b>_
-<!-- Interlanguage links updated St 6. května 2026, 20:42:09 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:41 CEST -->

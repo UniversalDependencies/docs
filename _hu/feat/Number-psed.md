@@ -59,4 +59,4 @@ for plural possession, but not for his own owner.
 * [hu] _<b>Kolumbuszéi</b>_ “(possessions) of Columbus” (plural possession)
 * [hu] _<b>házáéi</b>_ lit. _house-3SGPOSS-<b>PLPSED</b>_ “<b>those</b> of his house” `Number[psor]=Sing|Person[psor]=3|Number[psed]=Plur`
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:35 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:23 CEST -->

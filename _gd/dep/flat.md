@@ -51,4 +51,4 @@ _an robh e shuas aig a' Council <b>Meeting</b>?_ 'was he up at the Council Meeti
 
 _air a' bhliadhna 500 <b>AD</b>_ 'in the year 500 AD'
 
-<!-- Interlanguage links updated St 6. května 2026, 20:46:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:51 CEST -->

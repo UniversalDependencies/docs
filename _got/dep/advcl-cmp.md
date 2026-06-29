@@ -32,4 +32,4 @@ The cmp subtype is of semantic nature and is used to point out the standards of 
 
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:49 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:56 CEST -->

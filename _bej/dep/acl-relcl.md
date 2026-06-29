@@ -15,4 +15,4 @@ acl:relcl(kaːm, ktiːn) ("camel", "knew")
 nsubj(ktiːn, dhaj) ("know", "people")
 =i "relativizer"
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:44:43 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:53 CEST -->

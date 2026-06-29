@@ -23,4 +23,4 @@ root(ROOT, istiyor)
 ROOT Ali'nin kitabı  \n Ali's book
 root(ROOT, kitap)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:48:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:38 CEST -->

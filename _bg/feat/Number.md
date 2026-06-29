@@ -36,4 +36,4 @@ Examples: [bg] финанси, дънки / _finansi, danki_ (finances, jeans)
 Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. 
 
 Examples: [bg] човечество / _chovechestvo_ (mankind)
-<!-- Interlanguage links updated St 6. května 2026, 20:43:28 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:19 CEST -->

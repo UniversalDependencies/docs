@@ -13,4 +13,4 @@ Boolean feature marking a word as involving misspelling, grammatical error, etc.
 
 * [sv] _mantalskriven_ (for _mantalsskriven_)
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:29 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:45 CEST -->

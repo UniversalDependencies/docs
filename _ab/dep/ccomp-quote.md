@@ -20,4 +20,4 @@ The dependent of an `ccomp:quote` is a direct speech clause, cross-referenced by
 
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:45:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:23 CEST -->

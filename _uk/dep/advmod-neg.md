@@ -27,4 +27,4 @@ The `advmod:neg` relation is used in the Ukrainian-ParlaMint treebank for adverb
 6	fight	_	_	_	_	_	_	_	_
 7	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:07 CEST -->

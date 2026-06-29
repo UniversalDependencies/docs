@@ -18,4 +18,4 @@ amod:nmlz(NMLZ.LOC, Small)
 obj(heptade, khabe)
 obj(he_got_caught, NMLZ.LOC)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:22 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:10 CEST -->

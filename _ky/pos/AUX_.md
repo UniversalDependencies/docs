@@ -19,4 +19,4 @@ The dependency label indicates their use (auxiliary, copula or content verb).
 * _Жамгыр жаап <b>жатат</b> деп ойлойм._
 * _Караколдо жашы жете элек 12 бала эмгекке тартылган?_
 
-<!-- Interlanguage links updated St 6. května 2026, 20:41:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:33 CEST -->

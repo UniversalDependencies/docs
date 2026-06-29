@@ -24,4 +24,4 @@ So, such cases are excluded here and analysed compositionally, as recommended in
 - _щом_ / _shtom_ "as soon as"
 - _докато_ / _dokato_ "while"
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:10 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:42 CEST -->

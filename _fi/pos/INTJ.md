@@ -15,4 +15,4 @@ part of an exclamation.
 #### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=856> (in Finnish)
-<!-- Interlanguage links updated St 6. května 2026, 20:42:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:36 CEST -->

@@ -14,4 +14,4 @@ In Modern Russian, it is used for unstressed shortened forms of personal pronoun
 #### Examples
 
 * _я <b>те</b> дам!_ “I will hit you!”, lit. “I <b>to-you</b> will-give!” 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:54 CEST -->

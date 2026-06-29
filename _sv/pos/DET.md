@@ -22,4 +22,4 @@ _<b>dessa</b> möbler_ "these pieces of furniture" (plural).
 - Indefinite determiners: _någon_ "any/some" as in _det har inte gjorts <b>någon</b> undersökning_ "there hasn't been any investigation" 
 - Totality determiners: _alla_ "all"
 - Negative determiners: _ingen_ "no" as in _han behöver <b>ingen</b> hjälp_ "he needs no help"
-<!-- Interlanguage links updated St 6. května 2026, 20:42:00 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:36 CEST -->

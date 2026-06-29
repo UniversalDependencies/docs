@@ -21,4 +21,4 @@ Conj Coord: Coordinative conjunction
 
 _დო (dɔ)_ 'and'
 _თუ (tu)_ 'or'
-<!-- Interlanguage links updated St 6. května 2026, 20:41:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:35 CEST -->

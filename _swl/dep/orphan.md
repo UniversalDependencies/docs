@@ -12,4 +12,4 @@ promoted to take the place of the elided content word.
 HUND PEK>pekf LISTBOJ.EN PEK>långf LISTBOJ.TVÅ TAX@b SOVA LIGGA(VV) SAMMA SÄNG LIGGA(V) GRODA FORM(YYb)+BESKRIVNING@p FÖNSTER(Y) FYRKANT@kl \n The dog, a Dachshund, was sleeping in the same bed, and the frog [was at] the window
 orphan(GRODA, FORM(YYb)+BESKRIVNING@p)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:48:23 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:30 CEST -->

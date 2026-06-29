@@ -22,4 +22,4 @@ The `iobj:poss` relation marks an an object referenced by a possessive object ma
 
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:47:10 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:58 CEST -->

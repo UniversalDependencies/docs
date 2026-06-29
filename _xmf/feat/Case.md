@@ -114,4 +114,4 @@ The forms in the essive case express a relation of place, time, manner, etc. and
 * _ორთვინ<b>ო</b> (ɔrtvin<b>ɔ</b>)_ 'to the vegetable garden' etc.
 * _ჯოგ<b>ო</b> (d͡ʒɔɡ<b>ɔ</b>)_ 'to the herd' etc.
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:53 CEST -->

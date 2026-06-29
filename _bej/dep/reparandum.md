@@ -13,4 +13,4 @@ beːn / i= ʃarg =iːb iː- fi =ajt // i= kaːm =iji haraw -a / a- dif =hoːb //
 text_en: I was over there at Sharg and when I left to look for my camel, it rained over me.
 reparandum(beːn, ʃarg) ("there", Sharg)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:48:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:37 CEST -->

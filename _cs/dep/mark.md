@@ -29,4 +29,4 @@ Rád bych věděl , kdy peníze dorazí na náš účet . \n Like-to I-would kno
 advmod(dorazí, kdy)
 advmod(arrive, when)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:47:12 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:59 CEST -->

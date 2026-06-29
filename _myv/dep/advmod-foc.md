@@ -20,4 +20,4 @@ advmod:foc(could_withstand-4, only-1)
 
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:45:08 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:05 CEST -->

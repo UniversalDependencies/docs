@@ -19,4 +19,4 @@ obl:tmod(swam, night)
 You need to turn in your homework by next week
 obl:tmod(turn, week)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:48:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:29 CEST -->

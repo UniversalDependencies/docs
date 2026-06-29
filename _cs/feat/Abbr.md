@@ -32,4 +32,4 @@ word typically belongs to a part of speech other than [cs-pos/X]().
   _<b>tzv</b>. (takzvaný)&nbsp;_ “so-called”,
   _<b>a</b>. <b>s</b>. (akciová společnost)&nbsp;_ “joint-stock company”,
   _<b>tel</b>. (telefon)&nbsp;_ “phone”
-<!-- Interlanguage links updated St 6. května 2026, 20:42:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:46 CEST -->

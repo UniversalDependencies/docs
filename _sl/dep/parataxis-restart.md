@@ -17,4 +17,4 @@ parataxis:restart(kaže, sedi)
 parataxis:restart(shows, is-sitting)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:48:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:35 CEST -->

@@ -17,4 +17,4 @@ In Portuguese corpora, numerals are not tagged as `DET`. In a noun phrase such a
 - interrogative determiners: _qual_
 - relative determiners: _que_
 - quantity/quantifier determiners: _nenhum_, _todos_.
-<!-- Interlanguage links updated St 6. května 2026, 20:41:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:35 CEST -->

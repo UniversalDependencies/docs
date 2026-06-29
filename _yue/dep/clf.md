@@ -152,4 +152,4 @@ If there is a genitive 嘅 _ge3_ between the classifier and the noun, then the c
 ~~~
 
 Note that classifiers are tagged as NOUN. The feature `NounType=Clf` is recommended for distinguishing classifiers from regular nouns.
-<!-- Interlanguage links updated St 6. května 2026, 20:45:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:24 CEST -->

@@ -43,4 +43,4 @@ It is very important that your students respect you .
 expl(important, It)
 csubj(important, respect)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:20 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:36 CEST -->

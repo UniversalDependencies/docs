@@ -56,4 +56,4 @@ compound(first, twenty)
 The `compound` relation (nor any subtype thereof) is not used in the Russian serial verb constructions such as *сижу смотрю* “I'm just sitting here watching”, *сходи купи (мороженое)* “go get (an ice cream)”. The second verb is attached to the first one using the `flat` relation.
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:45:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:25 CEST -->

@@ -57,4 +57,4 @@ Adjectival agreement:
 <tr><td><em>focail</em></td><td></td><td>béasacha</td><td>"polite words"</td></tr>
 </table>
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:29 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:19 CEST -->

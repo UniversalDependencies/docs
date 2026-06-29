@@ -20,4 +20,4 @@ discourse(Não-2, não-4)
 discourse(Não-2, não-6)
 cc(não-6, e)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:45 CEST -->

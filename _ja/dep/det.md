@@ -22,4 +22,4 @@ The full list of the adnominals is as follows:
 この 本 \n this book
 det(本, この)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:42 CEST -->

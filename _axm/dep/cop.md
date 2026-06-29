@@ -64,4 +64,4 @@ Phrases expressing the state of the subject are clear predicates. Under the v2 g
 3	տեղն	տեղ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	_
 4	լինի	լինիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	3	cop	_	_
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:32 CEST -->

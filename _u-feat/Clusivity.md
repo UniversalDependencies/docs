@@ -37,4 +37,4 @@ Excludes the listener, i.e. _we_ = _I + they._
 ## References
 
 * Arok Elessar Wolvengrey. 2011. _Semantic and pragmatic functions in Plains Cree syntax_ (PhD thesis). LOT, Utrecht, Netherlands. ISBN 978-94-6093-051-5.
-<!-- Interlanguage links updated St 6. května 2026, 20:42:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:55 CEST -->

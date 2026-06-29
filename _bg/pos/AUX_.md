@@ -46,4 +46,4 @@ Also, the following verbal particles (Tx) are viewed as auxiliaries:
 - Tense and passive auxiliaries: _<b>бях</b>_ / _byah_ "I was"
 
 Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
-<!-- Interlanguage links updated St 6. května 2026, 20:41:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:33 CEST -->

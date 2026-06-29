@@ -19,4 +19,4 @@ repair. The disfluency is the dependent of the repair.
 3	PERA2	_	NOUN	N	_	4	nsubj	_	Gloss=PEAR2
 4	cl.e(Cc):FRUTA-caer+de-saco	_	VERB	V.D	_	0	root	_	Gloss=cl
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:48:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:37 CEST -->

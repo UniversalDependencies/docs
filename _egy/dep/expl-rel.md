@@ -30,5 +30,5 @@ This relation is used for expletive pronouns in relative clauses. These pronouns
 
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:59 CEST -->
 
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:50 CEST -->

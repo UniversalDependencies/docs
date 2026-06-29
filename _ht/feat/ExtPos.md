@@ -23,4 +23,4 @@ It is kept in FEATS in the UD conversion.
 #### Examples
 * _<b>Nempòt ki</b> desizyon_  any decision
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:04 CEST -->

@@ -52,4 +52,4 @@ Mackridge, Peter. 1985. *The Modern Greek Language. A Descriptive Analysis of St
 
 Τσοπανάκης, Αγαπητός Γ. (1994). *Νεοελληνική γραμματική*. Θεσσαλονίκη: Εκδοτικός Οίκος Αδελφών Κυριακίδη.
 
-<!-- Interlanguage links updated St 6. května 2026, 20:41:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:35 CEST -->

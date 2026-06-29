@@ -43,4 +43,4 @@ Examples: [eu] _dakarkio<b>zu</b>_ `Person[erg]=2`
 
 Examples: [eu] _<b>d</b>akarki<b>o</b>gu_ `Person[abs]=3|Person[dat]=3`
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:29 CEST -->

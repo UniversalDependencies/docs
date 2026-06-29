@@ -26,4 +26,4 @@ case(ⲟⲩⲁ-5,ⲙ)
 det(ⲟⲩⲁ-5,ⲡ-4)
 nmod:unmarked(ⲟⲩⲁ-5,ⲟⲩⲁ-7)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:47:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:09 CEST -->

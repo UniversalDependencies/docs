@@ -37,4 +37,4 @@ these actually have a future meaning.
   baked a bread”
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:28 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:50 CEST -->

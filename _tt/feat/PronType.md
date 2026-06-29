@@ -67,4 +67,4 @@ This value covers reciprocal pronoun _бер-бере_ and its inflected forms.
 
 * _һәр кеше_ "every person"
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:36 CEST -->

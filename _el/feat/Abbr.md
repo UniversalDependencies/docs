@@ -24,4 +24,4 @@ word(s) typically belongs to a part of speech other than [u-pos/X]().
 - Proper Noun: _ΔΕΗ, ΗΠΑ_ 
 - Adverb: _περ. (περίπου), π.χ., πχ_
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:46 CEST -->

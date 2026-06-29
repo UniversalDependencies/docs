@@ -12,4 +12,4 @@ tak / kaːm =i / hoː kʷiɖ -ja i- ni //
 text_en: A man said: "My camel disappeared.
 nmod:poss(kaːm, =i) ("camel", possessive)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:47:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:07 CEST -->

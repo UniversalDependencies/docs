@@ -58,4 +58,4 @@ This relation is also used for synonymic or antonymic coordinative compounds. Th
 
 Date expressions which have a very clear syntactic structure, should be annotated with regular dependency relations. In
 other cases, they have a flat structure with no clearly discernible head.
-<!-- Interlanguage links updated St 6. května 2026, 20:46:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:51 CEST -->

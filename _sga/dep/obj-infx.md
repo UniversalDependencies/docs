@@ -51,4 +51,4 @@ obj:infx(a, tob)
 * _ní<b>s</b>fil_ "<b>she</b> is not"
 * _no<b>b</b>caram_ "we love <b>you</b>"
 * _no<b>m</b>choimmdiu cóima_ "may the Lord cherish <b>me</b>"
-<!-- Interlanguage links updated St 6. května 2026, 20:47:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:18 CEST -->

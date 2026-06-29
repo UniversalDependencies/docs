@@ -67,4 +67,4 @@ Occassionally, only a few or unique members of the inflectional paradigm of a ve
 Τζάρτζανος, Αχιλλέας, 2002. *Νεοελληνική Σύνταξις της Κοινής Δημοτικής*. Αθήνα: Εκδόσεις Κυριακίδη. σελ. 225.
 https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:44 CEST -->

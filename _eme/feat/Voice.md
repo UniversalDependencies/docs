@@ -60,4 +60,4 @@ The morpheme _`-ero`_ combines only with intransitive verbs
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:48 CEST -->

@@ -89,4 +89,4 @@ _כי־זה שנתים הרעב בקרב הארץ ועוד חמש שנים אש�
 _ki zeh shenatayim haraʻav beḳerev haʼarets ṿeʻod ḥamesh shanim ʼasher ʼen ḥarish ṿeḳatsir_
 
 _"Because the famine has been in the midst of the land for two [years] and five years that will not have planting or harvesting remain."_
-<!-- Interlanguage links updated St 6. května 2026, 20:46:49 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:48 CEST -->

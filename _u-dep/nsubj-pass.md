@@ -21,4 +21,4 @@ Tohle se bude řešit zítra . \n This itself will solve tomorrow .
 nsubj:pass(řešit, Tohle)
 nsubj:pass(solve, This)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:47:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:13 CEST -->

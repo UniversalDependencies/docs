@@ -45,4 +45,4 @@ _ever_, _either_ | `PronType=Ind`
 
 See also: [PRON](), [DET]()
 
-<!-- Interlanguage links updated St 6. května 2026, 20:41:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:32 CEST -->

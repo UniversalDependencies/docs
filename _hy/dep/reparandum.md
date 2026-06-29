@@ -13,4 +13,4 @@ repair. The disfluency is the dependent of the repair.
 reparandum(ձախով, աջո-)
 reparandum(to-the-left, to-the-righ-)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:48:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:37 CEST -->

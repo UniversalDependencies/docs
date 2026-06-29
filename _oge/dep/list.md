@@ -25,4 +25,4 @@ list(იზ, ეკლესიათა)
 ~~~
 
 However it does **not** cover list items constructed with coordinating conjunctions and punctuation: those cases are covered by the dependency relations [cc](_oge/dep/cc) and [conj](_oge/dep/conj). 
-<!-- Interlanguage links updated St 6. května 2026, 20:47:12 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:58 CEST -->

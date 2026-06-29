@@ -56,4 +56,4 @@ Georgios I. Xydopoulos. 1996. _Tense, aspect, and adverbials in Modern Greek_. P
 University College London
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:26 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:50 CEST -->

@@ -13,4 +13,4 @@ advcl:coord(thaptummehẽ, Khusaŋa)
 advcl:coord(we_brought_him_over, Carry.CVB.COORD)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:58 CEST -->

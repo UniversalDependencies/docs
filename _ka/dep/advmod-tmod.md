@@ -11,4 +11,4 @@ A temporal adverbial modifier is a subtype of the `advmod` relation: if the modi
 გუშინ მოვიდა. /n 'He came yesterday.'
 advmod:tmod(მოვიდა, გუშინ)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:08 CEST -->

@@ -16,4 +16,4 @@ case(Marie, 's)
 `nmod:poss` must not be confused with the [feature](https://universaldependencies.org/en/feat/Poss.html) `Poss=Yes` used for possessive pronouns. 
 `nmod:poss` is only relevant for languages that have a particular construction, such as the possessive construction of English (also called Saxon genitive), that we want to distinguish from other `nmod` constructions.
 
-<!-- Interlanguage links updated St 6. května 2026, 20:47:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:07 CEST -->

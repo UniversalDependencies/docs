@@ -62,4 +62,4 @@ Telic point of view: the description focuses on the telic events in the iteratio
 * _píšašo_ "[he] was writing [once]" 
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:27 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:50 CEST -->

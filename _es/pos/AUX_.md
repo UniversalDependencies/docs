@@ -20,4 +20,4 @@ Moreover, some verbs, termed _semiauxiliars,_ partake in periphrastic constructi
 
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:41:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:33 CEST -->

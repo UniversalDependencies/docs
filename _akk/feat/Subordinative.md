@@ -19,4 +19,4 @@ The subordinative suffix -_u_, in Neo-Assyrian mainly separable -(_ū_…)_ni_, 
 * _<b>ipparšid</b>_ “he fled”
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:23 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:43 CEST -->

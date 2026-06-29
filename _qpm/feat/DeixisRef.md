@@ -40,4 +40,4 @@ Pomak nouns, adjectives, pronouns and adverbs may be tagged with `DeixisRef` alo
 
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:00 CEST -->

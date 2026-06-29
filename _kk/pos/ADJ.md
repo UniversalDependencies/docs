@@ -14,4 +14,4 @@ be used adverbially (i.e. as an [ADV]()) without adding further suffixes.
 #### Examples
 
 * [kk] _үлкен_ "big", _ескі_ "old", _жасыл_ "green"
-<!-- Interlanguage links updated St 6. května 2026, 20:41:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:30 CEST -->

@@ -24,4 +24,4 @@ Note that there is no `No` value. If the word is not possessive, the `Poss` feat
 * _âta, âts, âgu_ "my, your (masc. sing.), their (masc. plur.)" (pronouns: ownership appositives)
 
 * _ti, sa_ "my, your (sing.)" (determiners: simple associative)
-<!-- Interlanguage links updated St 6. května 2026, 20:44:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:34 CEST -->

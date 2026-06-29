@@ -109,4 +109,4 @@ both participle and the auxiliary verb agree with the object, instead of the sub
 * past perfect, transitive: ما نجلۍ **لیدلې وه** _mâ nǰë́lëy **lidë́le wa**_ “I had seen the girl”
 * future perfect, intransitive: دلته **به راغلی وي** _dë́lta **bë râġë́lay wi**_ “He will have come here”
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:44 CEST -->

@@ -68,4 +68,4 @@ The iterative aspect, indicating that the event frequently happens is coded by t
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated St 6. května 2026, 20:42:26 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:50 CEST -->

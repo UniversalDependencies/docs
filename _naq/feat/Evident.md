@@ -22,4 +22,4 @@ Note that there is no `No` value. If the clause does not have a non-first-hand e
 #### Examples
 
 * _Aob ge koma a ǃgâi._ "The man is supposedly good."
-<!-- Interlanguage links updated St 6. května 2026, 20:42:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:03 CEST -->

@@ -13,4 +13,4 @@ Semantic subclasses of adverbs.
 
 * _amasparwa yar <b>teʔne</b>_ “We really killed it.”
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:22 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:48 CEST -->

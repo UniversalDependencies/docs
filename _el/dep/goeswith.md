@@ -13,4 +13,4 @@ The head is in some sense the “main” part, often the second part.
 Ο παν ευρωπαϊκός
 goeswith(ευρωπαϊκός, παν)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:47:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:55 CEST -->

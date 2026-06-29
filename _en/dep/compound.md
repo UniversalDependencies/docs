@@ -80,4 +80,4 @@ compound(oink-5, oink-4)
 She just made up the answer .
 compound:prt(made, up)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:25 CEST -->

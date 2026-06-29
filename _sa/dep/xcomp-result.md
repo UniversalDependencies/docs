@@ -17,4 +17,4 @@ nsubj(asthāt, agnís)
 acl:dpct(mánās, agnís)
 advmod(asthāt, prātár)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:48:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:42 CEST -->

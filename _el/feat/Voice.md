@@ -49,4 +49,4 @@ The subject of the verb denotes both the doer and the entity affected by the eve
 
 * _Ο Γιάννης ξυρίζεται._ "Yannis is shaving himself" (The entity denoted by "Yannis" is both the doer/controller of the shaving event and the entity affected by the event. "Yannis" surfaces as the subject of the verb.)
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:48 CEST -->

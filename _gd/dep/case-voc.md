@@ -18,4 +18,4 @@ Tha latha eile agad a-nis, a Dhòmhnaill \n is day another at_you now PART Donal
 case:voc(a, Dhòmhnaill)
 vocative(Dhòmhnaill, Tha)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:19 CEST -->

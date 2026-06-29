@@ -26,4 +26,4 @@ root(ROOT, frumoasă)
 ROOT Este bine să mănânci de dimineață . \n ROOT Is well SA eat in morning.
 root(ROOT, bine)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:48:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:38 CEST -->

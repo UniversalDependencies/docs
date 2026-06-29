@@ -14,4 +14,4 @@ punct(đánh, .)
 obl:agent(đánh, bố)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:48:04 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:21 CEST -->

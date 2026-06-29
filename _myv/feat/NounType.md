@@ -11,4 +11,4 @@ udver: '2'
 
 * [myv] _ланго, пильгало_ "_upper surface, under foot_"
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:28 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:19 CEST -->

@@ -11,4 +11,4 @@ This subtypes is used to mark reported speech
 rispuose mi : « Non omo , omo già fui
 ccomp:reported(rispuose, omo)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:23 CEST -->

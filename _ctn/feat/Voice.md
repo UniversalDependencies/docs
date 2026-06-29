@@ -67,4 +67,4 @@ Used when the verb carries both causative and reflexive morphology. This combina
 #### Examples
 
 * *<b>Immetnaŋnace</b>, aya!* "Oh dear, she's <b>put herself to sleep</b>!"
-<!-- Interlanguage links updated St 6. května 2026, 20:44:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:48 CEST -->

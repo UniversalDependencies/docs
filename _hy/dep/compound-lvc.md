@@ -28,4 +28,4 @@ punct(high-8, --7)
 compound:lvc(տալ, թույլ)
 compound:lvc(to-give, permission)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:27 CEST -->

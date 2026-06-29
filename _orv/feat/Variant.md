@@ -37,4 +37,4 @@ but in the clause they usually stick to the second position or some other syntac
 * _<b>нареченъ</b>_ “called”, long equivalent: _нареченный_  
 * _<b>ми</b>_ “me”, long equivalent: _мнѣ</b>_  
   
-<!-- Interlanguage links updated St 6. května 2026, 20:44:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:46 CEST -->

@@ -250,4 +250,4 @@ This class is used to form augmentative plural nouns. The corresponding singular
 * _Agajwenge, n-<b>ga</b>-bwoine_<br>
   NC22.big_boats 1sg.SBJ-**NC22.OBJ**-see:PFV<br>
   "The big boats, I have seen **them**."
-<!-- Interlanguage links updated St 6. května 2026, 20:43:27 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:18 CEST -->

@@ -11,4 +11,4 @@ The _vocative_ relation is used to mark a dialogue participant addressed in text
 glosa@& PÅKALLA-UPPMÄRKSAMHET@g MAMMA VILL*HA MÖSSA(G) NÅGOT HATT NÅGON \n Hey, mom! I want a hat or something
 vocative(PÅKALLAUPPMÄRKSAMHET@g, MAMMA)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:48:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:39 CEST -->

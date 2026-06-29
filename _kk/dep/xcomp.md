@@ -20,4 +20,4 @@ obj(табуға-3, Азаматты-2)
 *Note:* The existence of `xcomp` is uncertain in Kazakh, the vast majority of clausal
 complements are not controlled and should get `ccomp` instead.
 
-<!-- Interlanguage links updated St 6. května 2026, 20:48:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:40 CEST -->

@@ -48,4 +48,4 @@ But, when marking first- and second-person objects, it makes no difference what 
 
 * _ჰხატავს_ 'he/she draws him/her/it', _ჰპოვებს_ 'he/she finds him/her/it' etc.
 * _ჰხატავენ_ 'they draw him/her/it', _ჰპოვებენ_ 'they find him/her/it' etc.
-<!-- Interlanguage links updated St 6. května 2026, 20:43:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:30 CEST -->

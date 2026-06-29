@@ -50,4 +50,4 @@ are usually neuter.
 * _<b>море</b>&nbsp;_ “sea”
 * _<b>мясо</b>&nbsp;_ “meat”
 * _<b>здание</b>&nbsp;_ “building”
-<!-- Interlanguage links updated St 6. května 2026, 20:43:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:06 CEST -->

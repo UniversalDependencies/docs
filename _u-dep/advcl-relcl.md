@@ -15,4 +15,4 @@ advcl:relcl(tried, idea)
 nsubj(idea, which)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:00 CEST -->

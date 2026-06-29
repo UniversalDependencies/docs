@@ -27,4 +27,4 @@ We use `Referent=Yes` to annotate the presence of the augment.
 
 * _<b>o</b>muyembe_ "mango"
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:12 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:38 CEST -->

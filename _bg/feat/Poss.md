@@ -27,4 +27,4 @@ means that empty value has the `No` meaning.)
 
 * [bg] possessive adjectives: майчина любов / _maychina lyubov_ "mother's love"
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:00 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:33 CEST -->

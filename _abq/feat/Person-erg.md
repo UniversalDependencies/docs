@@ -24,4 +24,4 @@ This feature marks person agreement of the verb with the ergative argument (subj
 #### Examples
 
 * [abq] _<b>л</b>-хIва-д_ [3SG.F.ERG-say-DCL] ‘<b>she</b> said’ `Gender[erg]=Fem|Number[erg]=Sing|Person[erg]=3|Tense=Aor|VerbForm=Fin`
-<!-- Interlanguage links updated St 6. května 2026, 20:43:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:29 CEST -->

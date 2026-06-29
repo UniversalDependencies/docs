@@ -63,4 +63,4 @@ doer and the undergoer/theme are coded as objects.
 #### Examples
 
 * [ceb] _<b>Ipasa</b> ni Pedro ang asin sa bisita._ “Pedro <b>will pass</b> the salt to the guest.”
-<!-- Interlanguage links updated St 6. května 2026, 20:44:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:48 CEST -->

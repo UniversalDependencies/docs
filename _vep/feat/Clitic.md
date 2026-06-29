@@ -30,4 +30,4 @@ Expresses focus. Can often be translated into English as *also*.
 #### Examples
 
 * [vep] _venän<b>ki</b> kelel_ "<b>also</b> in Russian"
-<!-- Interlanguage links updated St 6. května 2026, 20:42:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:55 CEST -->

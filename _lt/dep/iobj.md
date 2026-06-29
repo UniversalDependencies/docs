@@ -18,4 +18,4 @@ Jis moko studentus , kad gerai rašyti yra svarbu . \n He teaches the-students t
 iobj(moko, studentus)
 iobj(teaches, the-students)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:47:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:56 CEST -->

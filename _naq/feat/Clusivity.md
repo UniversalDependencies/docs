@@ -30,4 +30,4 @@ Excludes the addressee, i.e. we = I + he/she/they.
 #### Examples
 
 * _sikhom_ "we two (masc. excl.)", _sim_ "we two (fem./neut. excl.)", _sige_ "we (masc. excl.)", _sise_ "we (fem. excl.)", _sida_ "we (neut. excl.)"
-<!-- Interlanguage links updated St 6. května 2026, 20:42:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:55 CEST -->

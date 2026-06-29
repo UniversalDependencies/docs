@@ -27,4 +27,4 @@ For _coordinating conjunctions,_ see [CCONJ]().
 - _քան/k’an_ “than”
 - _մակար թէ (որ)/makar t’ē (or)_ “except”
 - _մինչեւ/minčew_  “till, untill”
-<!-- Interlanguage links updated St 6. května 2026, 20:42:10 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:42 CEST -->

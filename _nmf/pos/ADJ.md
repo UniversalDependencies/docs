@@ -24,4 +24,4 @@ Proper adjectives, such as _American_, are tagged as `ADJ` rather than [PROPN]()
 * _American_ "American"
 
 * _gari kathapha_ "new cars"
-<!-- Interlanguage links updated St 6. května 2026, 20:41:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:30 CEST -->

@@ -14,4 +14,4 @@ For subordinating conjunctions, see [SCONJ]().
 
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:41:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:34 CEST -->

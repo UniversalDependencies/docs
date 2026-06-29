@@ -40,4 +40,4 @@ We also analyze the nominal predicates with clausal subjects formed by subordina
 4	ձենել	ձենել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	1	csubj	_	_
 5	տայ	տալ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Cau	4	aux:caus	_	SpaceAfter=No
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:34 CEST -->

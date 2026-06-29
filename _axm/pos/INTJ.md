@@ -23,4 +23,4 @@ As a special case of interjections, we recognize feedback particles such as _ա�
 - _ծօ՛(ծո՛յ)/çò(y)_ “hey, you there (to a boy)”
 - _հա՜յ_/_hay_ “O”
 - _եղո՜ւկ_/_eġowk_ “alas”
-<!-- Interlanguage links updated St 6. května 2026, 20:42:00 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:36 CEST -->

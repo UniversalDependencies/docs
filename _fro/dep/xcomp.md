@@ -52,4 +52,4 @@ The xcomp relation is also used in constructions that are known as secondary pre
 6	Nerbone	_	PROPN	NOMpro	_	4	flat	_	_
 
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:48:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:40 CEST -->

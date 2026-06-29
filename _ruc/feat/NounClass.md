@@ -264,4 +264,4 @@ It is also used as a verbal enclitic.
 
 * _Twayaba <b>e</b> Kampala._ "We will go **to** Kampala."
 * _Zwa<b>yo</b> mangu <b>e</b> Masaka._ "Return right away **from** Masaka."
-<!-- Interlanguage links updated St 6. května 2026, 20:43:26 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:18 CEST -->

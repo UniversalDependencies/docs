@@ -11,4 +11,4 @@ This semantical subrelation is used to single out those adverbial modifiers that
 andò vi poi lo Vas d' elezione 
 advmod:tmod(andò, poi)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:08 CEST -->

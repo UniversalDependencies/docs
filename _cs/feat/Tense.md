@@ -86,4 +86,4 @@ moment. Future tense in Czech is formed in one of three ways, depending of the v
 * _<b>Půjdu</b> domů.&nbsp;_ “I <b>will go</b> home.” (_Jít&nbsp;_ is an imperfective verb, phonological rule transformed the prefix
   _po-_ to _pů-._)
 * _<b>Budu</b> přicházet domů.&nbsp;_ “I <b>will</b> be coming home.” (_Přicházet&nbsp;_ is an imperfective verb and it forms future periphrastically.)
-<!-- Interlanguage links updated St 6. května 2026, 20:44:24 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:43 CEST -->

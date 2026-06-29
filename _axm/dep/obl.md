@@ -57,4 +57,4 @@ The `obl` relation is used for a nominal (noun, pronoun, noun phrase) functionin
 ~~~
 
 We use [obl:agent]() for the agent of a passive verbs.
-<!-- Interlanguage links updated St 6. května 2026, 20:47:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:19 CEST -->

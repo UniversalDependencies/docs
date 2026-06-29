@@ -57,4 +57,4 @@ Namas, kuriame aš gyvenu . \n The-house in-which I live .
 obl(gyvenu, kuriame)
 obl(live, in-which)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:47:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:19 CEST -->

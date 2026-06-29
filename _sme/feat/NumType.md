@@ -41,4 +41,4 @@ Ordinal numerals are adjectives ([ADJ]()).
 * [sme] _<b>vuosttaš</b>_ “first”, _<b>nubbi</b>_ “second”, _<b>goalmmát</b>_ “third”
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:25 CEST -->

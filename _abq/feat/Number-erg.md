@@ -18,4 +18,4 @@ This feature marks number agreement of the verb with the ergative argument (subj
 #### Examples
 
 * [abq] _<b>хI</b>-чпа-пI-та_ [<b>1PL.ERG</b>-make-NPST.DCL-ADV] ‘<b>we</b> will make’ `Number[erg]=Plur|Person[erg]=1|Tense=Fut2|VerbForm=Fin`
-<!-- Interlanguage links updated St 6. května 2026, 20:43:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:21 CEST -->

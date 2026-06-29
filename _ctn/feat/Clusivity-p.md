@@ -28,4 +28,4 @@ In Chintang, (di)transitive verbs agree with both their agents and their patient
 #### Examples
 
 * *mailunoʔ* "(he) will tell us (I + you + they)"
-<!-- Interlanguage links updated St 6. května 2026, 20:42:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:55 CEST -->

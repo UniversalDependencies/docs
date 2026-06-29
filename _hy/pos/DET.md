@@ -26,4 +26,4 @@ Note that Armenian noun phrases usually allow one `DET` modifier, but there are 
 - indefinite determiners: _ոմն_/_omn_ “some (person)”, _ինչ-որ_/_inč-or_ “some (of one thing)”, _ինչ-ինչ_/_inč-inč_ “some (of many things)”, _մի քանի_/_mi k’ani_ “several”, _ուրիշ_/_owriš_ “another”, _այլ_/_ayl_ “other”, _որոշ_/_oroš_ “certain”, _որևէ_/_orewē_ “one or another”, _որևիցե_/_orewic’e_ “one or another”, _այսինչ_/_aysinč_ “such”, _այնինչ_/_ayninč_ “such”, _մի_/_mi_ “some/several”
 - total determiners: _ամեն_/_amen_ “every”, _ամեն մի_/_amen mi_ “each”, _բոլոր_/_bolor_ “all”, _յուրաքանչյուր_/_yowrak’ančyowr_ “each”, _ողջ_/_oġǰ_ “whole”, _ամբողջ_/_amboġǰ_ “all”, _համայն_/_hamayn_ “whole”, _ամենայն_/_amenayn_ “all”
 - negative determiner: _ոչ մի_/_oč mi_ “no” as in _Հիմա <b>ոչ մի</b> մեքենա չունենք։_/_Hima <b>oč mi</b> mek’ena čownenk’_ “We have <b>no</b> cars right now.”
-<!-- Interlanguage links updated St 6. května 2026, 20:41:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:35 CEST -->

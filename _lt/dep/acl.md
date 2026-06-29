@@ -44,4 +44,4 @@ acl(at-that, it-is-raining)
 ~~~
 
 Note that a major subtype of adnominal clauses is relative clauses, which have their own relation label, [acl:relcl](). Plain `acl` should not be used in annotation of relative clauses.
-<!-- Interlanguage links updated St 6. května 2026, 20:44:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:50 CEST -->

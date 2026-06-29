@@ -23,4 +23,4 @@ The suffix "e" indicates that something is done without purpose
 * _<b>Azukae</b>&nbsp;_ “I kill (for no reason)” (1SG-kill-Prp)
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:36 CEST -->

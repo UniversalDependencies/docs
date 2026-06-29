@@ -16,4 +16,4 @@ advcl:tcl(косьмис-4, петігӧн-2)
 punct(косьмис-4, .-5)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:47:35 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:08 CEST -->

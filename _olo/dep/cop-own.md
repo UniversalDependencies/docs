@@ -22,4 +22,4 @@ cop:own(Minulla-1, on-2)
 nsubj:cop(Minulla-1, kynä-3)
 punct(Minulla-1, .-4)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:34 CEST -->

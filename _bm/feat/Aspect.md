@@ -49,4 +49,4 @@ Another way to express progressive is to use a verbal noun with a postposition l
 * _Fàntá <b>bɛ́</b> dɔ́nkili dá lá.  _ "Fanta is singing (litt. Fanta is in giving of a song)".
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:26 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:50 CEST -->

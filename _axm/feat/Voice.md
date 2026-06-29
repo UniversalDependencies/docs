@@ -79,4 +79,4 @@ The reciprocal is expressed by the passive infix _-ու- (-ւ-, -վ-)/-ow- (-w-,
 #### Examples
 
 * _...որ ունին զկապողութեան ուժն, եւ ունին զլուծման ուժն, եւ յիրար **խառնուեցան**_/_or ownin zkapoġowt’ean owžn, ew ownin zlowçman owžn, ew yirar **xaṙnowec’an**_ “...which possess the power of binding and the power of dissolving, and were **mixed together**”.
-<!-- Interlanguage links updated St 6. května 2026, 20:44:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:48 CEST -->

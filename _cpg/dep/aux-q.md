@@ -12,4 +12,4 @@ Psémata mi na púmi, yoksa alísia m'? \n Are we to speak lies or truth?
 aux:q(Psémata,mi)
 aux:q(alísia,m)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:35 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:16 CEST -->

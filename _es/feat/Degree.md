@@ -69,4 +69,4 @@ These suffixes can also be used in adverbs and verbs, especially in Latin Americ
 * _triste_ "sad"; <b>tristecito</b> "<b>slightly sad</b>"
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:59 CEST -->

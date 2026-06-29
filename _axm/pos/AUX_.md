@@ -74,4 +74,4 @@ Note that in Middle Armenian copulas are also tagged `AUX` and the definition of
   * _Յեկեղեցին <b>ոչ</b> երեւայ. Եւ զեկեալ հիւրսն <b>ոչ</b> խղճայ_/_Yekeġec’in <b>oč</b> ereway. Ew zekeal hiwrsn <b>oč</b> xġč̣ay_ “The church <b>does not</b> appear; and he <b>does not</b> pity the guests who have come”,
   * _<b>Չի</b> դառնաս հեղ մի յիս հայես. <b>Չի</b> գիտե՞ս քո պլպուլն եմ ես_/_<b>Či</b> daṙnas heġ mi yis hayes. <b>Či</b> gites k’o plpowln em es?_ “You <b>do not</b> turn to look at me even once; <b>Don't</b> you know that I am your nightingale?”
   * _Եւ այս ցեղս զստածումն եւ զբժշկութիւնն <b>չ</b>ընդունի բնաւ_/_Ew ays c’eġs zstaçowmn ew zbžškowt’iwnn <b>č</b>ëndowni bnaw_ “And this type (of ailment) <b>does-not</b>-admit any treatment or cure at all”.
-  <!-- Interlanguage links updated St 6. května 2026, 20:41:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:33 CEST -->

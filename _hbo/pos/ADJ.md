@@ -77,4 +77,4 @@ Adjectives should have values for [Gender]() and [Number]().
 ## XPOS
 
 Adjectives have the BHSA POS tag `adjv`.
-<!-- Interlanguage links updated St 6. května 2026, 20:41:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:30 CEST -->

@@ -24,4 +24,4 @@ Note that Western Armenian infinitives share properties of both nouns and verbs 
 - _օդ_/_òd_ “air”
 - _գեղեցկութիւն_/_geġec’kowt’iwn_ “beauty”
 - _վազք_/_vazk’_ “run (the act of running)”
-<!-- Interlanguage links updated St 6. května 2026, 20:42:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:37 CEST -->

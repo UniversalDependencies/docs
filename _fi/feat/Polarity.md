@@ -14,4 +14,4 @@ negation verb *ei*.
 
 * _<b>ei</b>_ “no, not”
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:32 CEST -->

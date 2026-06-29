@@ -22,4 +22,4 @@ Examples: [nhi] _<b>mits</b>walikilia_ `he/she brings it to [you]`
 ### <a name="Plur">`Plur`</a>: plural object
 
 Examples: [nhi] _oni<b>mech</b>makak_ `I gave it to [you all]`
-<!-- Interlanguage links updated St 6. května 2026, 20:43:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:21 CEST -->

@@ -87,4 +87,4 @@ The suffix responsible for this mood is *-саң, -са *.
 * *ал үйгө бара жатса* 'if she is going home'
 * *ал үйгө барса* 'if she goes home'
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:18 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:15 CEST -->

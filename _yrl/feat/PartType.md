@@ -78,4 +78,4 @@ Example:
 Cruz, A. (2011). *Fonologia e gramática do nheengatú: A língua falada pelos povos Baré, Warekena e Baniwa*. LOT.
 Kouwenberg, N. J. C. (2012). Spatial Deixis in Akkadian: Demonstrative Pronouns, Presentative Particles and Locational Adverbs. *Zeitschrift für Assyriologie und Vorderasiatische Archäologie, 102*(1), 17-75. https://doi.org/10.1515/za-2012-0002
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:43 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:27 CEST -->

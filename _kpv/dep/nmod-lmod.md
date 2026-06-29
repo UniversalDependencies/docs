@@ -17,4 +17,4 @@ obl(вуджны, шойччалӧмъясӧн)
 
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:47:29 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:05 CEST -->

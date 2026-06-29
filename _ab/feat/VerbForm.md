@@ -26,4 +26,4 @@ This feature marks the form of the verb
 * [ab] _а-шь-ра_ [Det.kill.VN] ‘killing’ `Definite=Def|Dyn=Yes|Number=Sing|Trans=Yes|VerbForm=Vnoun`
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:46 CEST -->

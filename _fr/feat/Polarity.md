@@ -21,4 +21,4 @@ In the *UD_French-GSD**, there are a few case of *jamais* used as a positive adv
 
 * _<b>jamais</b>
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:32 CEST -->

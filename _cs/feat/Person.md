@@ -51,4 +51,4 @@ speakers nor addressees.
 
 * _<b>dělá</b>&nbsp;_ “<b>he/she/it does</b>”
 * _<b>dělají</b>&nbsp;_ “<b>they</b> do”
-<!-- Interlanguage links updated St 6. května 2026, 20:43:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:27 CEST -->

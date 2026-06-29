@@ -24,4 +24,4 @@ cop(chaomh, 'S)
 * _Is dòcha gum faod mi tòiseachadh_ "Perhaps I may begin"
 * _cha bu mhisde sinn tòiseachadh le sùil ghoirid a thoirt_ "It would not be worse for us to begin with taking a short look"
 
-<!-- Interlanguage links updated St 6. května 2026, 20:46:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:36 CEST -->

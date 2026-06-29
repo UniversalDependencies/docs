@@ -116,3 +116,4 @@ Aš atėjau tam , kad pasikalbėtume . \n I came in-order to-talk .
 advcl(atėjau, pasikalbėtume)
 advcl(came, to-talk)
 ~~~
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:55 CEST -->

@@ -22,4 +22,4 @@ nsubj(they_appear, NMLZ.NSG)
 advmod:emph(goce, le)
 advmod:emph(NMLZ.NSG, RESTR)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:07 CEST -->

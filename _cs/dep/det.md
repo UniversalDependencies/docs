@@ -24,4 +24,4 @@ Která kniha se vám líbí nejvíc ? \n Which book is to-you nice the-most ?
 det(kniha, Která)
 det(book, Which)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:41 CEST -->

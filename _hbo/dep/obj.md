@@ -281,4 +281,4 @@ _והקטיר עליו אהרן קטרת סמים בבקר בבקר בהיטיב
 _ṿehiḳṭir ʻalaṿ ʼaharon ḳeṭoret samim baboḳer baboḳer beheṭivo ʼet hanerot yaḳṭirenah_
 
 _And Aaron shall burn upon it the smoke of the perfume in the morning; when he lights the lamps, he shall burn it._
-<!-- Interlanguage links updated St 6. května 2026, 20:47:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:16 CEST -->

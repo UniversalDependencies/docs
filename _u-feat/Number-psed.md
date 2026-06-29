@@ -57,4 +57,4 @@ for plural possession, but not for his own owner.
 
 * [hu] _<b>Kolumbuszéi</b>_ “(possessions) of Columbus” (plural possession)
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:23 CEST -->

@@ -21,4 +21,4 @@ The dependent of an `advcl:compar` relation is an adverbial clause headed by a n
 
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:57 CEST -->

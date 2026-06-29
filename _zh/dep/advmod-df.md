@@ -107,4 +107,4 @@ For nominal time expressions and adverbial time expressions that provide a time 
 
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:45:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:04 CEST -->

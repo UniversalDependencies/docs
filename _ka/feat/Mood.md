@@ -51,4 +51,4 @@ happen.
 
 * _ალბათ მომავალში <b>ააშენებდა</b> სახლს._ 'Perhaps he would build a house in the future.'
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:18 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:15 CEST -->

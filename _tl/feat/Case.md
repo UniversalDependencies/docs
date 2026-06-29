@@ -59,4 +59,4 @@ The locative case is used for obliques and nominal modifiers expressing location
 
 * [tl] _Pumunta kami <b>sa</b> tabing-dagat._ "We went <b>to</b> the seashore."
 * [tl] _Malaki ang pasasalamat namin <b>sa</b> kanila._ "Our gratitude <b>to</b> them is immense."
-<!-- Interlanguage links updated St 6. května 2026, 20:42:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:52 CEST -->

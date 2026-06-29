@@ -46,4 +46,4 @@ Examples: [eu] _<b>d</b>akarki<b>o</b>gu_ `Number[abs]=Sing|Number[dat]=Sing`
 ### <a name="Plur">`Plur`</a>: plural absolutive argument
 
 Examples: [eu] _dakarkio<b>gu</b>_ `Number[erg]=Plur`
-<!-- Interlanguage links updated St 6. května 2026, 20:43:30 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:20 CEST -->

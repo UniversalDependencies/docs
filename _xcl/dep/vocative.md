@@ -12,4 +12,4 @@ The vocative relation is used to mark a dialogue participant addressed in a text
 vocative(այո, Տէր)
 vocative(Yes, Lord)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:48:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:39 CEST -->

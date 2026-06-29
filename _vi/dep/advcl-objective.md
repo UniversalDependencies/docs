@@ -15,4 +15,4 @@ marker:pcomp(mở mang, để)
 compound:svc(Đi, học)
 punct(Đi, 。)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:44:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:59 CEST -->

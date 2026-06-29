@@ -19,4 +19,4 @@ obj(етті-11, әсер-10)
 *Note:* Discussion of what constitutes a core argument in Kazakh is ongoing. The `iobj` relation will
 probably be discarded in favour of subcategorising `obl`.
 
-<!-- Interlanguage links updated St 6. května 2026, 20:47:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:56 CEST -->

@@ -26,4 +26,4 @@ iobj:agent(vivre,lui)
 The infinitive verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation and the causative verb with an [aux:caus]() relation.
 
 N.B.: For more details about the analysis of causatives see [this page](http://universaldependencies.org/fr/specific-syntax.html#causative).
-<!-- Interlanguage links updated St 6. května 2026, 20:47:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:57 CEST -->

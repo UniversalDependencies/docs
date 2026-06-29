@@ -69,4 +69,4 @@ the use of which is governed by numerals are marked `Count`.
 #### TOROT
 
 `Count` is not used in the TOROT tagset.
-<!-- Interlanguage links updated St 6. května 2026, 20:43:29 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:20 CEST -->

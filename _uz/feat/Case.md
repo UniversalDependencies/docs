@@ -87,4 +87,4 @@ In Uzbek, Ablative case is expressed by the suffix <b>-dan</b>.
 Interlanguage links updated June 30, 2024 13:21:49 UTF+5
 Sanatbek Matlatipov 
 -->
-<!-- Interlanguage links updated St 6. května 2026, 20:42:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:53 CEST -->

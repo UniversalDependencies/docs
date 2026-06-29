@@ -77,4 +77,4 @@ det(decision, a)
 ~~~
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:45:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:25 CEST -->

@@ -16,4 +16,4 @@ punct(gặp, 。)
 xcomp(yêu cầu, đi)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:47:49 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:14 CEST -->

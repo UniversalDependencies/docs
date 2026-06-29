@@ -13,4 +13,4 @@ Oliži hüvä , miše elo der'onas ei kül'mäiži . \n It would be good, if lif
 csubj:cop(oliži, kül'mäiži)
 csubj:cop(would,freeze)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:36 CEST -->

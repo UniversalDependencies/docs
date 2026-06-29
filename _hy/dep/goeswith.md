@@ -37,4 +37,4 @@ Note also that only the last word part may be annotated with `SpaceAfter=No`.
 12	.	.	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
 
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:47:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:55 CEST -->

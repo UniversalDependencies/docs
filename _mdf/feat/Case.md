@@ -150,4 +150,4 @@ The indefinite nominative singular and plural are used as indefinite object form
 
 * [mdf] _Ялгазе сувась <b>инжикс</b>_ "My friend came <b>to visit (as a visitor)</b>"
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:52 CEST -->

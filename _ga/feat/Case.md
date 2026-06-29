@@ -56,4 +56,4 @@ The dative case is used with most simple prepositions in Irish. In standard Iris
 * _in <b>Eireann</b>_ "in Ireland"
 * _sa <b>leabhair</b>_ "in the book"
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:52 CEST -->

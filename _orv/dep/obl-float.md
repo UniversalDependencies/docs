@@ -23,4 +23,4 @@ obl:float(own, ourselves)
 
 #### References
 Я. Г. Тестелец. Введение в общий синтаксис. М.: РГГУ, 2001.
-<!-- Interlanguage links updated St 6. května 2026, 20:48:09 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:23 CEST -->

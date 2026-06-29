@@ -18,4 +18,4 @@ This feature marks number agreement of the verb with the indirect object or of p
 #### Examples
 
 * [abq] _д-гIа-<b>ра</b>-з-цIгIа-тI_ [3SG.H.ABS-CSL-<b>3PL.IO</b>-BEN-ask-DCL] ‘he asked <b>them</b>’ `Gender[abs]=Com|Number[abs]=Sing|Number[io]=Plur|Person[abs]=3|Person[io]=3|Tense=Aor|VerbForm=Fin`
-<!-- Interlanguage links updated St 6. května 2026, 20:43:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:21 CEST -->

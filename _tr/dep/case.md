@@ -67,4 +67,4 @@ nmod:poss(üzerinde, tahminimizin)
 iniş sırasında \n during landing
 nmod:poss(sırasında, iniş)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:18 CEST -->

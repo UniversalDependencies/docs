@@ -23,4 +23,4 @@ naa(N)-[Abs.1SgPoss.Sg]=llu	nengyugh(N)-[Abs.2SgPoss.Sg]=llu
 5	n	n	X	_	Case=Abs|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	dep:infl	_	Analysis=[Abs.2SgPoss.Sg]
 6	llu	llu	CCONJ	_	_	4	cc	_	Analysis=\=llu|Gloss=and
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:41:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:34 CEST -->

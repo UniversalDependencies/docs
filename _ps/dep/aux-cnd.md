@@ -20,4 +20,4 @@ In this case it depends with the `aux:cnd` relation on the participle of the mai
 #### Examples
 ~~~ sdparse
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:29 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:14 CEST -->

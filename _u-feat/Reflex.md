@@ -58,4 +58,4 @@ column. (Which means that empty value has the `No` meaning.)
 
 * [cs] reflexive personal pronouns: _se, si_; reflexive possessive
   pronoun: _svůj_
-<!-- Interlanguage links updated St 6. května 2026, 20:44:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:39 CEST -->

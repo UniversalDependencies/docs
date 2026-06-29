@@ -621,4 +621,4 @@ The determiner هیڅ _hic_ “no” is used only in singular.
 
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:36 CEST -->

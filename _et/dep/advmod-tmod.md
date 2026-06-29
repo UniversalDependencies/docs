@@ -11,4 +11,4 @@ The  _advmod:tmod_ relation is used for adverbial modifiers with temporal modali
 Ta ei kasutanud seda kunagi .
 advmod:tmod(kasutanud-3, kunagi-5)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:08 CEST -->

@@ -16,4 +16,4 @@ cc(თქუეს, და)
 **NB** Note that punctuation is never treated as coordinating conjunction. 
 
 For more on coordination, see the [conj](_oge/dep/conj) relation.
-<!-- Interlanguage links updated St 6. května 2026, 20:45:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:20 CEST -->

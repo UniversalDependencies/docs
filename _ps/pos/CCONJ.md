@@ -30,4 +30,4 @@ For _subordinating conjunctions,_ see [SCONJ]().
   * <!-- a -->مګر _magár_
 * explanatory relation: “in other words” / “that is to say”
   * <!-- a -->يانې _yấne_
-<!-- Interlanguage links updated St 6. května 2026, 20:41:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:34 CEST -->

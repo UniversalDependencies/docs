@@ -17,4 +17,4 @@ animal or idea.
 - _träd_ "tree"
 - _luft_ "air"
 - _skönhet_ "beauty"
-<!-- Interlanguage links updated St 6. května 2026, 20:42:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:37 CEST -->

@@ -56,4 +56,4 @@ It is kept in FEATS in the UD conversion.
 
 * _tòː yà <b>ci gàba</b> mànà !//_ "Well, let him continue!"
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:04 CEST -->

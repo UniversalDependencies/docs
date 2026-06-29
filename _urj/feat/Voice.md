@@ -14,4 +14,4 @@ should not have a voice feature; for infinitives that do have distinct active
 and passive voice it should be marked. The selection needs to be documented in
 the language specific section.
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:35 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:49 CEST -->

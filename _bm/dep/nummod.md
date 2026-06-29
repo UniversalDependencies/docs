@@ -23,4 +23,4 @@ The `nummod` relation is used between a nominal phrase and its numeric modifier,
 ~~~
 
 'She has one child'.
-<!-- Interlanguage links updated St 6. května 2026, 20:47:49 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:14 CEST -->

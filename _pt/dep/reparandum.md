@@ -18,4 +18,4 @@ case(esquerda, para-5)
 det(esquerda, a-6)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:48:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:37 CEST -->

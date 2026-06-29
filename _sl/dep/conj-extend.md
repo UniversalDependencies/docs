@@ -20,4 +20,4 @@ conj(now, always)
 cc(these, and)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:46:12 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:32 CEST -->

@@ -20,4 +20,4 @@ The dependent of an `advmod:q` relation is an adverbial interrogative.
 
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:45:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:07 CEST -->

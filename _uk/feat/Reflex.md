@@ -25,4 +25,4 @@ Note that there is no `No` value. If the word is not reflexive, the `Reflex` fea
 * reflexive personal pronouns: _себе, собі, собою, *се, *си, *ся_ (occurs in various cases but not in nominative and vocative; does not distinguish [Number](); the forms with the asterisks are dialectal)
 * reflexive possessive pronoun: _свій_
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:39 CEST -->

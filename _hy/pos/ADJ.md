@@ -38,4 +38,4 @@ Resultative, subject, and past participles share properties of both adjectives a
 Note that some participial adjectives that are already lexicalized as adjectives are tagged `ADJ`, although they may retain certain verbal features.
 - _սոված_/_sovaç_ “hungry”
 - _հավասարակշռված_/_havasarakšṙvaç_ “balanced”
-<!-- Interlanguage links updated St 6. května 2026, 20:41:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:30 CEST -->

@@ -12,4 +12,4 @@ indra-vāyū́ \n Indra-and Vāyu
 
 compound:coord(vāyū́, indra-}
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:26 CEST -->

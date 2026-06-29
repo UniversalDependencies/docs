@@ -386,4 +386,4 @@ The use of this value is deprecated and no longer implemented, as definitions by
 
 There seem to be no indeclinable finite forms of verbs nor pronouns. 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:12 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:11 CEST -->

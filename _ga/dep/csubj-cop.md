@@ -48,4 +48,4 @@ csubj:cop(féidir, chur)
 obj(dhéanamh, é)
 xcomp(chur, dhéanamh)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:36 CEST -->

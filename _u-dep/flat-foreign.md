@@ -22,4 +22,4 @@ flat:foreign(Blue, Face)
 
 See the general policy on [Foreign Expressions and Code-Switching](/foreign.html).
 
-<!-- Interlanguage links updated St 6. května 2026, 20:46:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:52 CEST -->

@@ -42,4 +42,4 @@ on nouns, and we thus have `Person[psor]` together with `Number[psor]`.
 * [apu] _<b>ũerẽkana</b>_ “their.Fem blood”
 
 <!-- Marília Fernanda Pereira de Freitas, 2017: 99 --> (in Portuguese)
-<!-- Interlanguage links updated St 6. května 2026, 20:43:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:31 CEST -->

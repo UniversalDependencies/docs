@@ -31,4 +31,4 @@ Note also that Armenian has a number of case-marking elements (traditionally cal
 - Postpositions: _համար_/_hamar_ “for”, _հանդերձ_/_handerj_ “together with”, _պես_/_pes_ “as”.
 - Localizers / postpositions: _մոտ_/_mot_ “at”, _վրա_/_vra_ “on”, _մեջ_/_meǰ_ “in”, _տակ_/_tak_ “under”, _առաջ_/_araǰ_, _առջև_/_arǰew_, _դիմաց_/_dimac’_ “in front of, opposite, ahead of”.
 - Case-marking words: _ընթացքում_/_ënt’ac’k’owm_ "during, in the course of", _դեպքում_/_depk’owm_ "in case", _կողքին_/_koġk’in_ "next to", _պատճառով_/_patč̣aṙov_ "because of".
-<!-- Interlanguage links updated St 6. května 2026, 20:41:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:31 CEST -->

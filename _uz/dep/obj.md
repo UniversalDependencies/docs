@@ -29,4 +29,4 @@ obj(yedim, kitob)
 Note that the above differs from, e.g., kosedan yedim “I ate from the bowl”, where relation should be obl.
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:47:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:17 CEST -->

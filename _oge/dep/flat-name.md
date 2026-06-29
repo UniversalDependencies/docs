@@ -13,4 +13,4 @@ The `flat:name` relation is a specialization of `flat` used for names. Names are
 flat:name(გრიგოლ, ხანძთელის)
 nmod(ცხოვრება, გრიგოლ)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:53 CEST -->

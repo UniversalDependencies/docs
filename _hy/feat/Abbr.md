@@ -45,4 +45,4 @@ Note that the `Abbr` feature will be mentioned for foreign acronyms written in A
   _զագս (ЗАГС / загс, запись актов гражданского состояния)&nbsp;_ “registry office”,
   _սովխոզ (совхоз, советское хозяйство)&nbsp;_ “state farm, sovkhoz”
   
-<!-- Interlanguage links updated St 6. května 2026, 20:42:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:46 CEST -->

@@ -36,4 +36,4 @@ reparandum(and-14, and-13)
 ~~~
 
 The correct word is the head. The dependency points from the correct word (the one corrected to) to the erroneous word. The erroneous word may be either full or partial.
-<!-- Interlanguage links updated St 6. května 2026, 20:48:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:37 CEST -->

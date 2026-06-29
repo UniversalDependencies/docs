@@ -18,4 +18,4 @@ nsubj(fáti, astinomíjeta)
 "those.who have this oil"                       
 nsubj(ímot, žíne)
 ~~~ 
-<!-- Interlanguage links updated St 6. května 2026, 20:47:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:10 CEST -->

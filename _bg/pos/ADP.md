@@ -34,4 +34,4 @@ is analyzed as
 - _време_ / _vreme_ "time"
 - _на_ / _na_ "of"
 
-<!-- Interlanguage links updated St 6. května 2026, 20:41:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:31 CEST -->

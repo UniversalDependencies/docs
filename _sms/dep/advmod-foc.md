@@ -16,4 +16,4 @@ obl:lmod(åårr-3, jiõŋ-5)
 case(jiõŋ-5, âʹlnn-6)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:45:09 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:05 CEST -->

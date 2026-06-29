@@ -28,4 +28,4 @@ Examples collected by Cruz (2011:131) among Baré speakers of Nheengatu (our Eng
 * _<b>tambeubeu</b>&nbsp;_ “they repeatedly told stories” (*tau-mu-beu-beu* 3pl<sub>A</sub>-CAUS-RED~tell)
 * _<b>taranha purapuranga</b>&nbsp;_ “their teeth were excelent” (*ta-ranha pura-puranga* 3pl<sub>E</sub>-tooth RED~be.beautiful )
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:38 CEST -->

@@ -19,4 +19,4 @@ The feature indicates incorrect, but still common words and grammatical forms, a
 * _<b>чоловік</b>&nbsp;_ “people”, the form should not be used after numerals, eg. 5 _чоловік_ sf. standard 5 _осіб_ 
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:52 CEST -->

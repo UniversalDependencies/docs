@@ -14,4 +14,4 @@ obl:pronmod(any, be)
 advmod(буди, ни)
 advmod(be, not)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:48:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:28 CEST -->

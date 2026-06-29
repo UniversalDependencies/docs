@@ -99,4 +99,4 @@ With a nominal predicate, _եմ_/_em_ functions as a copula, making the nominal 
  
 - Causative voice. The finite form of _տալ_ (in various tenses and moods) is combined with infinitive of the content verb. The auxiliary expresses aspect, person, number, tense and mood. It will have `Voice=Cau`. There will also be voice information at the infinitive:
   * _հրեայ դպիրներ <b>կանչել կու տայ</b> Աղեքսանդրիա— Եգիպտոս եւ Հին Կտակարանը <b>թարգմանել կու տայ</b> եբրայերէնէ յունարէնի_ `Act`/_hreay dpirner <b>kančel kow tay</b> Aġek’sandria— Egiptos ew Hin Ktakaranë <b>t’argmanel kow tay</b> ebrayerēnē yownarēni_ “He <b>has</b> Jewish scribes <b>summoned</b> to Alexandria, Egypt, and <b>has</b> the Old Testament <b>translated</b> from Hebrew into Greek.”.
-<!-- Interlanguage links updated St 6. května 2026, 20:41:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:33 CEST -->

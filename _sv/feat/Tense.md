@@ -27,4 +27,4 @@ The past tense denotes actions that happened before the current moment. It can a
 * [sv] _innan stadskulturen <b>började</b>_ "before urban culture began"
 * [sv] _han önskar att han <b>var</b> i Spanien_ "he wishes that he was in Spain"
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:44 CEST -->

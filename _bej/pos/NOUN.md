@@ -16,4 +16,4 @@ The `NOUN` tag is intended for common nouns only. See [PROPN]() for proper nouns
 - _kaːm_ "camel"
 - _biri_ "rain"
 - _mhiːn_ "place"
-<!-- Interlanguage links updated St 6. května 2026, 20:42:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:37 CEST -->

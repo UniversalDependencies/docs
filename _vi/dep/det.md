@@ -26,4 +26,4 @@ advmod(cao, rất)
 punct(cao, 。)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:46:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:42 CEST -->

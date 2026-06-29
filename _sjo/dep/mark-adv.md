@@ -29,4 +29,4 @@ punct(ᠶᠠᠪᡠᡥᠠ, ︒)
 
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:47:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:00 CEST -->

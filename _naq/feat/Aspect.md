@@ -45,4 +45,4 @@ The action took / takes / will take place in a clearly bounded short period of t
 * _Tita ge xrat dīsisa ge <b>a</b> ǂnûǃgau._ "I failed grade ten."
 
 * _Funi ge ge ǂgâ oms ǃnâ o ǁîsa <b>a</b> ǂoa._ "Fun entered the house, then she came out."
-<!-- Interlanguage links updated St 6. května 2026, 20:42:27 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:50 CEST -->

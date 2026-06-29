@@ -14,4 +14,4 @@ See [NOUN]() for nouns and [PRON]() for pronouns.
 ### Examples : 
 
 - _ʃarg_ Sharg (place name in Eastern Sudan)
-<!-- Interlanguage links updated St 6. května 2026, 20:42:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:40 CEST -->

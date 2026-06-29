@@ -15,4 +15,4 @@ is in parallel to genitive objects [nmod:gobj]().
 maljakon särkyminen \n vase(gen.) breaking
 nmod:gsubj(särkyminen-2, maljakon-1)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:47:27 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:05 CEST -->

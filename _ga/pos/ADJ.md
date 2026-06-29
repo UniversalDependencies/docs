@@ -21,4 +21,4 @@ Adjectives typically modify nouns. In Irish, the adjective follows the noun, and
 
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:41:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:30 CEST -->

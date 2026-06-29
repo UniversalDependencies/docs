@@ -83,4 +83,4 @@ The meaning is “the subject was caused (by somebody) to do the action.”
 * _Deniz yoxla-<b>d</b>-<b>ıl</b>-dı._ “Deniz was made to sleep.”
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:48 CEST -->

@@ -84,4 +84,4 @@ The `PunctType` feature applies to [punctuation](_ka/pos/PUNCT).
 * _"_ მან თქვა: „ამ ტექსტს განსაკუთრებული მნიშვნელობა აქვს.“ 'He said: “This text has special significance.”'
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:44:08 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:37 CEST -->

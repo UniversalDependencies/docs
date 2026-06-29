@@ -82,4 +82,4 @@ lilies are a good choice in the summer
 obl(choice-5, summer-8)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:47:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:02 CEST -->

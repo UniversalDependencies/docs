@@ -26,4 +26,4 @@ udver: '2'
 #### Examples
 
 * _მომიღეს (mɔmiɣɛs)_ 'he/she brought it to us.' etc.
-<!-- Interlanguage links updated St 6. května 2026, 20:43:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:21 CEST -->

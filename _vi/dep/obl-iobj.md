@@ -14,4 +14,4 @@ obl:iobj(hiến, làng)
 case(làng, cho)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:48:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:24 CEST -->

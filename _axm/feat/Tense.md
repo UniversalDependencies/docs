@@ -75,4 +75,4 @@ Present forms of verbs in subjunctive, conditional and necessitative moods have 
 * _գիտեմ/gitem_ “I know.`Ind`”,
 * _ունենամ/ownenam_ “(if) I have.`Sub`”,
 * _գիտնամ/gitnam_ “(if) I know.`Sub`”,
-<!-- Interlanguage links updated St 6. května 2026, 20:44:24 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:43 CEST -->

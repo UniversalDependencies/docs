@@ -20,4 +20,4 @@ Knyga gali būti parašyta kitais metais . \n The-book may be written next year 
 nsubj(gali, Knyga)
 nsubj(may, The-book)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:47:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:13 CEST -->

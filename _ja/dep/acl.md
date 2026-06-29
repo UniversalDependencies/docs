@@ -27,4 +27,4 @@ acl(こと, ほめ)
 auxpass(ほめ, られ)
 aux(ほめ, た)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:44:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:50 CEST -->

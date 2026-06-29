@@ -22,4 +22,4 @@ A temporal adverbial clause is a subordinate clause that expresses the time of a
 
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:45:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:01 CEST -->

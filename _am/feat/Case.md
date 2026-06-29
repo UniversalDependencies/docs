@@ -84,4 +84,4 @@ The preposition ከ / _kä_ signifies the direction from some point.
 * <b>ከ</b>ሱቅ ሱቅ ሲዞር አስመሸኝ ። / _<b>kä</b>suqə suqə sizorə 'äsəmäšäňə ._
   “He made me wander from store to store.” (lit. from-store store that-he-turns made-he-me)
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:52 CEST -->

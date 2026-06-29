@@ -43,4 +43,4 @@ Resultative, subject and perfect participles are word forms that may share prope
 -	Resultative: _<b>կոտրած</b> ատամ/kotraç atam_ “a <b>broken</b> tooth”,
 -	Subject: _<b>այրեցող </b> ջերմ/ayrec’oġ ǰerm_ “<b>burning</b> fever”,
 -	Perfect: _<b>ծաղկեալ</b> ծառ/çaġkeal çaṙ_ “tree <b>in blossom</b>”
-<!-- Interlanguage links updated St 6. května 2026, 20:42:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:44 CEST -->

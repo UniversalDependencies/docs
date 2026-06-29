@@ -16,4 +16,4 @@ obl(сёрнитыштны-6, сыкӧд-5)
 xcomp(радӧсь-4, сёрнитыштны-6)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:45:09 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:05 CEST -->

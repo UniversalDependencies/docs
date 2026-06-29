@@ -18,4 +18,4 @@ nsubj(quilhuia, macehualli)
 parataxis:shared(nimitzcahuaz, onimitzan)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:48:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:36 CEST -->

@@ -136,4 +136,4 @@ The stative aspect is found in verbs that express a state or condition.
 
 * [egy] _ꞽr.t Ḥr.w wč̣ꜣ.t(ꞽ)_ “The eye of Hours is intact.”
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:26 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:50 CEST -->

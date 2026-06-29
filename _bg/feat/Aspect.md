@@ -37,4 +37,4 @@ this aspect does not work well with the present tense for actual activities.
 - разбера / _razbera_ "understand"
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:26 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:50 CEST -->

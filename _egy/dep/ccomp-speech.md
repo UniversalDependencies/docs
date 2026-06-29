@@ -17,4 +17,4 @@ The `ccomp:speech` relation is a specialization of `ccomp` used for reported spe
 
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:45:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:24 CEST -->

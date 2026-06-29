@@ -27,4 +27,4 @@ The `AdpType` feature typically applies to [adpositions](_oge/pos/ADV), nouns [N
 
 * _**წინაშე** უფლისა_ 'in front of the Lord', _**ზედა** საკურთხეველსა_ 'on the altar' etc.
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:47 CEST -->

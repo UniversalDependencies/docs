@@ -19,4 +19,4 @@ aux:opt(максы, катк)
 ~~~
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:45:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:15 CEST -->

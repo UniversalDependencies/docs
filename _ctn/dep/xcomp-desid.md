@@ -12,4 +12,4 @@ Waiʔmameiʔpa sinuʔnɨŋ . \n Wear.INF.DESID he_doesn't_want .
 xcomp:desid(sinuʔnɨŋ, Waiʔmameiʔpa)
 xcomp:desid(he_doesn't_want, Wear.INF.DESID)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:48:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:01:41 CEST -->

@@ -147,4 +147,4 @@ is added to the conditional form (for transitive verbs) or it replaces the auxli
 * potential conditional, intransitive: 
 * potential conditional, transitive:
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:15 CEST -->

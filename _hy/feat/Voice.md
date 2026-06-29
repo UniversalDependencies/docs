@@ -94,4 +94,4 @@ The reciprocal is expressed by the passive suffix _-վ-_/_-v-_ however, the verb
 #### Examples
 
 * _Պետրոսը և Մերին **գրկախառնվեցին**_/_Petrosë ew Merin **grkaxaṙnvec’in**_ “Peter and Mary **hugged each other**”.
-<!-- Interlanguage links updated St 6. května 2026, 20:44:35 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:48 CEST -->

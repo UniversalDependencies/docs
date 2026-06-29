@@ -48,4 +48,4 @@ as “or something”, “etc.”, “like that” etc.
 * _<b>հառոք</b> և փառոք/haṙok’ ew p’aṙok’_ “good and proper”,
 * _սուտ ու <b>փութ</b>/sowt ow p’owt’_ “false, pretended”,
 * _<b>աժնել</b> բաժնել/ažnel bažnel_ “separate from each other”,
-<!-- Interlanguage links updated St 6. května 2026, 20:42:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:02 CEST -->

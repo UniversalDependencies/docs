@@ -38,4 +38,4 @@ And then we left .
 cc(left, And)
 ~~~
 
-<!-- Interlanguage links updated St 6. května 2026, 20:45:46 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:20 CEST -->

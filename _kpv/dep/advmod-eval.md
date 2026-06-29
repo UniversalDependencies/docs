@@ -23,4 +23,4 @@ Evaluative adverbs in Komi-Zyrian are often called particles, here are a few:
 * _эськӧ_ "could be"
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:45:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:04 CEST -->

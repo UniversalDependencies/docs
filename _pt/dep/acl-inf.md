@@ -16,4 +16,4 @@ Example:
 Não tenho nada a perder.
 acl:inf(nada,perder)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:44:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:52 CEST -->

@@ -42,4 +42,4 @@ udver: '2'
 #### Examples
 
 * _<b>example future feminine (???!!!)</b>&nbsp;_ “future feminine”
-<!-- Interlanguage links updated St 6. května 2026, 20:44:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:44 CEST -->

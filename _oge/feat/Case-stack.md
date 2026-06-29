@@ -32,4 +32,4 @@ In Old Georgian, this case stacking is encountered in the following cases:
 * _აბრაჰამისითგან_ 'from Abraham' (Gen with Inst) etc.;
 * _მეფისად_ 'for a king' (Gen with Ess) etc.
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:53 CEST -->

@@ -12,4 +12,4 @@ A subordinating conjunction is a conjunction that links constructions by making 
 - _da_ “since”
 - _hvis_ “if”
 - _at_ “that” as in _konstatere <b>at</b> manden har søgt hjælp_ “ascertain <b>that</b> the man has looked for help”
-<!-- Interlanguage links updated St 6. května 2026, 20:42:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:42 CEST -->

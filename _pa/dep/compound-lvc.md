@@ -24,4 +24,4 @@ compound:lvc(do, clean)
 obj(ਕਰ, ਕਮਰਾ)
 obj(do, room)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:46:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:27 CEST -->

@@ -45,4 +45,4 @@ This third gender is for nouns that are neither masculine nor feminine (grammati
 * _<b>море</b>&nbsp;_ “sea”
 * _<b>курча</b>&nbsp;_ “chicken”
 * _<b>ставлення</b>&nbsp;_ “attitude”
-<!-- Interlanguage links updated St 6. května 2026, 20:43:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:07 CEST -->

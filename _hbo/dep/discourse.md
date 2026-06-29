@@ -114,4 +114,4 @@ _ויקרא אליו מלאך יהוה מן־השמים ויאמר אברהם׀ 
 _ṿayiḳraʼ ʼelaṿ malʼakh yehṿah min hashamayim ṿayoʼmer ʼavraham  ʼavraham ṿayoʼmer **hineni**_
 
 _And the messenger of The LORD called to him from the sky and he said "Abraham, Abraham" and he said "**Here** I am."._
-<!-- Interlanguage links updated St 6. května 2026, 20:46:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:44 CEST -->

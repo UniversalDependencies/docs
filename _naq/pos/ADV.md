@@ -32,4 +32,4 @@ There is a closed subclass of pronominal adverbs that refer to circumstances in 
 * _tsîn_ "also", _on_ "too"
 
 * _ǀgui_ "only"
-<!-- Interlanguage links updated St 6. května 2026, 20:41:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:32 CEST -->

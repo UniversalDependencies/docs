@@ -15,3 +15,4 @@ This feature takes the following values: Emp, Neg, Vbp.
 
 #### Example
 Some examples of the feature and its use.
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:27 CEST -->

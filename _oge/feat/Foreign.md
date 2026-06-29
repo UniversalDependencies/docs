@@ -21,4 +21,4 @@ Boolean feature. Is this a foreign word? Not a loan word and not a foreign name 
 
 * _მოიჴსენინ ჯუარელნი მამანი, და ძმანი, ჩემნი; μέγαελεων ⟨δ⟩ός μίν._ 'Remember my fathers and my brothers who are under the Cross; "μέγαελεων ⟨δ⟩ός μίν!".
 
-<!-- Interlanguage links updated St 6. května 2026, 20:42:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:05 CEST -->

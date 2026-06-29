@@ -23,4 +23,4 @@ Relational nouns are used to encode obliques. These are similar to words such as
 * [nci] 
 
 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:28 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:19 CEST -->

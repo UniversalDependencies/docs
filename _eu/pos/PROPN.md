@@ -14,4 +14,4 @@ part of the name) of a specific individual, place, or object.
 - _Jon_, _Jon_
 - _Ukrainia_, _Ucraine_
 - _Madril_, _Madrid_
-<!-- Interlanguage links updated St 6. května 2026, 20:42:08 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:58:41 CEST -->

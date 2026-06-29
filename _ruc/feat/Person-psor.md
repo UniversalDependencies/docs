@@ -61,4 +61,4 @@ The finer-grained value of this marker is annotated as [NounClass[psor]]().
 * _omwana wa-<b>bwe</b>_<br>
   NC1.child NC1.PSED-**NC2.PSOR**<br>
   "**their** child" 
-<!-- Interlanguage links updated St 6. května 2026, 20:43:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:31 CEST -->

@@ -11,4 +11,4 @@ A clausal complement of a verb or adjective is a dependent clause where the subj
 POJKE VISA JA@ub@z PEK.FL FUNGERA SÅ KÖK VATTEN TÄNDA ALLTIHOP \n The boy showed: well, these things work like this, the kitchen, the water, the lights, everything
 ccomp(VISA, FUNGERA)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:21 CEST -->

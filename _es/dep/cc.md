@@ -15,4 +15,4 @@ and it depends on the root predicate of the sentence.
 María es guapa y simpática . \n María is pretty and friendly .
 cc(simpática, y)
 ~~~
-<!-- Interlanguage links updated St 6. května 2026, 20:45:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:00:19 CEST -->

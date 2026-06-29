@@ -116,4 +116,4 @@ Occasionally, `ExtPos` is used even if `ExtPos` = `upos`.
 #### Examples
 
 * [pl] _<b>a priori</b>_ (_a_ = `X`) "a priori"
-<!-- Interlanguage links updated St 6. května 2026, 20:42:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 16:59:04 CEST -->
