@@ -25,4 +25,4 @@ _უდაბალაში (udɑbɑlɑʃi)_ 'the lowest'
 
 _მადაბლა (mɑdɑblɑ)_ 'just as low'
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:35 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:10 CEST -->

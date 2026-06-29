@@ -35,4 +35,4 @@ which appear medially.
 18	տուգանք	տուգանք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	14	conj	_	SpaceAfter=No
 19	։	։	PUNCT	_	_	9	punct	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:07 CEST -->

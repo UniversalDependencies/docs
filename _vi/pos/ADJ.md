@@ -1,3 +1,3 @@
 Definition
 Adjectives are words that typically modify nouns and specify their properties or attributes. For example: xinh, vui vẻ, đáng yêu, ....
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:35 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:10 CEST -->

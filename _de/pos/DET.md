@@ -162,4 +162,4 @@ They are tagged [ADV]() at present but this may be revised in the future.
   spelled with a lowercase “b”, indicating that it is no longer considered a noun; together the fixed expression works
   like a degree adverb or an indeclinable quantifier for uncountable nouns => we tentatively tag _bisschen_ as [ADV]()
   with `PronType=Ind`
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:14 CEST -->

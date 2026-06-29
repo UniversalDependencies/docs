@@ -32,4 +32,4 @@ The `nmod` relation is further specified by the [case]() relation (associative m
 ~~~
 
 Note, that so-called “bare noun compounds” (e.g. _թղթակից անդամ_ “corresponding member”) are marked using the [compound]() relation.
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:36 CEST -->

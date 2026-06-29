@@ -39,4 +39,4 @@ Numeric modifiers are always attached to the head of the noun phrase.
 2	days"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:18 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:51 CEST -->

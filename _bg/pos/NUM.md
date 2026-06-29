@@ -26,4 +26,4 @@ In Bultreebank tagset the tag which maps to `NUM`, is `Mc#`.
 - _I, II, III, IV, V, MMXIV_
 
 Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:17 CEST -->

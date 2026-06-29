@@ -65,4 +65,4 @@ The two predicating particles _àkwey_ "there is" and _bâː_ "there isn't" are 
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:29 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:03 CEST -->

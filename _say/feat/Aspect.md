@@ -50,4 +50,4 @@ Zaar: The progressive aspect denotes an ongoing process. The AUX is etymological
 * _á, zaːr wò ɗyáː kap gə̀t àmáː tá mán ɓə̂líː tə́ gə̀ɗès kúmá <b>ʧìɣá</b> tsə́tngə̂n tə́ ŋáː =wôs áy //_ "Well, a man can marry but they can divorce and she will be living with her child."
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:28 CEST -->

@@ -32,4 +32,4 @@ conj(alive, death)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:59 CEST -->

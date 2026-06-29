@@ -30,4 +30,4 @@ nmod(кодзув, Войвыв)
 nmod:appos(журналын, кодзув)
 obl:lmod(Йӧзӧдӧма, журналын)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:29 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:02 CEST -->

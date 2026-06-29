@@ -39,4 +39,4 @@ The Potential form expresses epistemic modalities of inference or near-certainty
 #### Examples
 - _hinin rhisat =oːk <b>ʔeːnaj</b>_ "We are going to show you!"
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:51 CEST -->

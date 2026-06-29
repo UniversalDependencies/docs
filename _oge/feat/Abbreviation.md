@@ -19,4 +19,4 @@ numeral: Ⴇ&#x0360;
 adverb: _ასამღ͠ლბ͠ლად_ *asamġ͠lb͠lad* 'for elevation' etc.
 particle: _ხ͠_ *x͠* 'however' etc.
 verb: _გ͠ნემზადე_ *g͠nemzade* 'be prapered' etc.
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:24 CEST -->

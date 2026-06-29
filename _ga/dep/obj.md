@@ -75,4 +75,4 @@ _Is ag <b>déanamh</b> <b>cáca</b> atá mé._  'I'm <b>making</b> a <b>cake</b>
 Is ag déanamh cáca atá mé \n Is at_the making of_a_cake that_am I
 obj(déanamh, cáca)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:52 CEST -->

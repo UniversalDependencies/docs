@@ -81,4 +81,4 @@ Tháinig sé 'na bhaile go minic chuig a máthair \n did_come he 'from_the home 
 advmod(Tháinig, minic)
 mark:prt(minic, go)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:10 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:44 CEST -->

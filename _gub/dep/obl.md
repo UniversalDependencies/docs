@@ -23,4 +23,4 @@ obl:subj(zanexiʔu, pɨhaw)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:22 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:55 CEST -->

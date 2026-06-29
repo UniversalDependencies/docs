@@ -25,4 +25,4 @@ A consecutive clause is a subordinate clause that expresses a consequence or res
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:32 CEST -->

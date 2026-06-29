@@ -43,4 +43,4 @@ The `ccomp:cleft` relation is used in the Polish [PDB-UD](http://universaldepend
 12	writes	_	_	_	_	_	_	_	_
 13	.	_	_	_	_	_	_	_	_
 ~~~	
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:23 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:56 CEST -->

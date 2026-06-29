@@ -19,4 +19,4 @@ For _coordinating conjunctions,_ see [CCONJ]().
 - _если&nbsp;_ “if”
 - _как&nbsp;_ “as”
 - _чем&nbsp;_ “than”
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:21 CEST -->

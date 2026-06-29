@@ -14,4 +14,4 @@ oui oui je prends le métro le matin à huit heures et demie \n Then, they [ask]
 discourse:participant (tɛ́-ʔɔ̀, wà)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:20 CEST -->

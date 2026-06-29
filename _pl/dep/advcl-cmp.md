@@ -44,4 +44,4 @@ In Polish, comparative expressions that depend on predicates can also be realise
 14	you
 15	.
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:32 CEST -->

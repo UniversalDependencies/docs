@@ -20,4 +20,4 @@ Viděl jsem knihu , kterou jsi koupila . \n seen I-have book , which you-have bo
 acl:relcl(knihu, koupila)
 acl:relcl(book, bought)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:28 CEST -->

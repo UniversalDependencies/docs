@@ -20,4 +20,4 @@ nmod(käydä-3, teatterissa-4)
 punct(hauskaa-2, .-5)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:11 CEST -->

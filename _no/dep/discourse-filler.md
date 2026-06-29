@@ -16,4 +16,4 @@ reparandum(kombinert, ko--4)
 punct(kombinert, #-3)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:20 CEST -->

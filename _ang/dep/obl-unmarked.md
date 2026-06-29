@@ -19,4 +19,4 @@ obl:unmarked(ȝebroht, ȝierstan-dæg)
 
 This page has been adopted from its English counterpart.
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:05 CEST -->

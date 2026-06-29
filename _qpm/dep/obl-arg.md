@@ -19,4 +19,4 @@ obl:arg (gǘvendisom, bráta)
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:24 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:58 CEST -->

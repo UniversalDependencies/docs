@@ -29,4 +29,4 @@ There is a group of nouns in Welsh, whose lemma is a plural, the singular is for
 * _adar_ "birds"
 * _nhw_ "they"
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:56 CEST -->

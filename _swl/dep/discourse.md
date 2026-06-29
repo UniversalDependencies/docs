@@ -11,4 +11,4 @@ This is used for interjections and other discourse particles and elements, which
 LÅTA-VARA PRO1 BEGE-SIG-HEM TILL GÖTEBORG@en \n Anyway, I went home to Gothenburg
 discourse(BEGE-SIG-HEM, LÅTA-VARA)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:46 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:19 CEST -->

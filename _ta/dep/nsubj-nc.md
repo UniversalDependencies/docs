@@ -15,4 +15,4 @@ advmod(ఉంది, చలిగా)
 punct(ఉంది, .)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:15 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:48 CEST -->

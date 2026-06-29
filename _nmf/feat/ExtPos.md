@@ -29,4 +29,4 @@ In Naga-Suansu, only heads of a [fixed]() relation employ the feature.
 * _Anan <b>ay re</b> gu_ "If I **accept**" (lit. yes + reportative marker)
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:41 CEST -->

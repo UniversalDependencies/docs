@@ -32,4 +32,4 @@ modified noun) and that of the possessor. The `Number[psor]` feature captures th
 * [cs] _<b>naši</b> psi_ “our dogs” `Number[psor]=Plur|Number=Plur`
 * [hsb] _<b>naš, waš, jich</b>_
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:59 CEST -->

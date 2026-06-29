@@ -23,4 +23,4 @@ Chuir mé ceist ar mo mhúinteoir \n Put I question on my teacher
 nmod:poss(mhúinteoir, mo)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:09 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:42 CEST -->

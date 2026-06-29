@@ -69,4 +69,4 @@ Parataxis is used when a noun modifies a clause.
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:07 CEST -->

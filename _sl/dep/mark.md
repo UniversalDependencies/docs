@@ -39,4 +39,4 @@ advcl(remained,we-left-26)
 mark(we-left-26,other)
 fixed(other,than)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:34 CEST -->

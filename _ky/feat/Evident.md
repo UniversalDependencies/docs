@@ -35,4 +35,4 @@ The speaker has first-hand evidence for the statement/event.
 
 * _жамгыр жааптыр_ '(evidently) it was raining'
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:40 CEST -->

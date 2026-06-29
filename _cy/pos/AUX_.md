@@ -19,4 +19,4 @@ _Bod_ is used
   * _**Mae** Ioan wedi **bod** yn canu_ "Ioan has been singing"
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:13 CEST -->

@@ -33,4 +33,4 @@ discourse(Okudu, acaba)
 discourse(okusa, bari)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:46 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:19 CEST -->

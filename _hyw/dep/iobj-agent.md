@@ -32,4 +32,4 @@ The causative (infinitive) verb governs the syntactical subject of the sentence 
 The infinitive verb governs the causative auxiliary with an [aux:caus]() relation.
 
 For more details see [specific-syntax](http://universaldependencies.org/hyw/overview/specific-syntax.html).
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:32 CEST -->

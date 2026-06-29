@@ -32,4 +32,4 @@ list(Ali, email)
 appos(tel, 555-55-55)
 appos(email, ali@example.com)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:12 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:46 CEST -->

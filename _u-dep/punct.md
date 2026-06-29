@@ -60,4 +60,4 @@ punct(Compare, .-34)
 </div>
 
 See also examples at [parataxis]().
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:12 CEST -->

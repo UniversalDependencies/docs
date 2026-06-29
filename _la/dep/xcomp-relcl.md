@@ -57,4 +57,4 @@ acl:relcl(qui,ostensi)
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:18 CEST -->

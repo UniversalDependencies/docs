@@ -32,4 +32,4 @@ See also NPs used to indicate manner, means, extent etc.:
 obl:unmarked(ⲙⲧⲟⲛ,ⲗⲁⲁⲩ)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:05 CEST -->

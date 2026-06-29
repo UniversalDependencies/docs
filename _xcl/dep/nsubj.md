@@ -32,4 +32,4 @@ The logical subject of transitive verbs is typically expressed by the genitive c
 Jensen, Hans. 1959. _Altarmenische Grammatik._ Heidelberg: Winter.
 
 Klein, Jared. 2017. The syntax of Armenian. In: J. Klein et al. (eds.), _Handbook of comparative and historical Indo-European linguistics_. Berlin, Boston: Walter de Gruyter: 1097‒1115.
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:12 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:45 CEST -->

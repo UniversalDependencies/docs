@@ -36,4 +36,4 @@ cop(jezna,bila)
 aux(angry,she-aux-PAST)
 cop(angry,was)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:47 CEST -->

@@ -24,4 +24,4 @@ The `dislocated` relation is used between a dislocated phrase and its head. It i
 
 ~~~
 'An egg and a chiken, they went to the place where lemons fall'.
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:21 CEST -->

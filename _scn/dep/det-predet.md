@@ -11,4 +11,4 @@ A predeterminer is the relation between the head of an NP and a word that preced
 Tutti l'amici 
 det:predet(amici, Tutti)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:18 CEST -->

@@ -44,4 +44,4 @@ Ukrainian uses `flat:range` for numerical, spacial and time ranges. Ranges are *
 4	Odesa	_	_	_	_	2	flat:range	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:29 CEST -->

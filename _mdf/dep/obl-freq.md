@@ -19,4 +19,4 @@ obl:freq(worked_hard-3, day-9)
 det(шиня-9, эрь-10)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:26 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:59 CEST -->

@@ -21,4 +21,4 @@ Fin        2       ccomp:iobj      _       _
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:23 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:56 CEST -->

@@ -122,4 +122,4 @@ nmod(հասցեում, Դրոյի)
 nummod(Dro, 48-7)
 nmod(in-Address, Dro)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:17 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:51 CEST -->

@@ -48,4 +48,4 @@ Pažiūrėjau filmą „ Titanikas “ . \n I watched the-movie “ Titanic ” 
 nmod(filmą, Titanikas)
 nmod(the-movie, Titanic)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:37 CEST -->

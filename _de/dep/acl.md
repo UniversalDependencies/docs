@@ -42,4 +42,4 @@ aux(angerufen, hat)
 nsubj(getroffen, die)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:25 CEST -->

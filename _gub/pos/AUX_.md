@@ -16,4 +16,4 @@ In Guajajara it is realised as a verb.
 
 - _ur <b>iko</b>_ "He/she/it <b>is</b> coming"
 - _upɨhɨk <b>imuwà</b>_ "He/she/it picked it up"
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:13 CEST -->

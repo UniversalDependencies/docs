@@ -230,4 +230,4 @@ It is commonplace to buy flowers etc./NOUN for Valentine 's Day .
 conj(flowers, etc.)
 </div>
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:06 CEST -->

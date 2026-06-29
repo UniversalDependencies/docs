@@ -23,4 +23,4 @@ means that empty value has the `No` meaning.)
 
 #### Examples
 - _ʤantaːji_ "djinn"
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:17 CEST -->

@@ -37,4 +37,4 @@ Pron: Pronoun
 - relative pronouns: _მუჭომი (mut͡ʃʼɔmi)_ 'what kind of' etc.
 - reciprocal pronouns: _ართიანი (ɑrtiɑni)_ 'each other' etc.
 - determinal pronouns: _ირი (iri)_ 'each' etc.
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:19 CEST -->

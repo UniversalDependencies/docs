@@ -33,4 +33,4 @@ In Chintang, the (di)transitive [VERB]() overtly marks [Number]() and [Person]()
 #### Examples
 
 * *nakhagihẽ* "they saw you (more than two)"
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:24 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:58 CEST -->

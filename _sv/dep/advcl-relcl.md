@@ -17,4 +17,4 @@ advcl:relcl(försökte-2, idé)
 nsubj(idé, vilket)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:35 CEST -->

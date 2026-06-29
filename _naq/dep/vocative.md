@@ -12,4 +12,4 @@ The `vocative` relation is used to mark a dialogue participant addressed in a te
 vocative(ǁgoas, ǃgôahesatse)
 vocative(morning, sir.VOC)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:15 CEST -->

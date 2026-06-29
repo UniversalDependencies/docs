@@ -14,4 +14,4 @@ appos(იერუსალემი, ქალაქი)
 ~~~
 
 **NB** `appos` relation is used, if there is case and agreement concord between the first noun and appositive modifiers. If not, there is used [nmod](_oge/dep/nmod).
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:12 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:46 CEST -->

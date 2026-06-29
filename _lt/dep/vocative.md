@@ -19,4 +19,4 @@ vocative(are-you-coming, Mark)
 ~~~
 
 Note that vocatives that function as interjections are labeled [discourse]() and not `vocative`, for example, _Viešpatie, kas dabar bus? (Lord, what will happen now?)_
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:15 CEST -->

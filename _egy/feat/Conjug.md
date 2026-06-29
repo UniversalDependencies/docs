@@ -50,4 +50,4 @@ Wolfgang Schenkel, 2012. Tübinger Einführung in die klassisch-ägyptische Spra
 
 
 Interlanguage links updated St 12. listopadu 2025, 09:20:49 CET -->
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:34 CEST -->

@@ -85,4 +85,4 @@ Coordinating conjunctions should not have any features.
 ## XPOS
 
 Coordinating conjunctions have the BHSA POS tag `conj`.
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:14 CEST -->

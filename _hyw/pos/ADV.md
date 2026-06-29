@@ -25,4 +25,4 @@ Note that in Western Armenian some adverbs can form comparative and superlative 
 - interrogative and relative adverbs: _ուր_/_owr_  “where”, _երբ_/_erb_  “when”, _ինչպես_/_inčpes_ “how”, _ինչու_/_inčow_ “why”, _որքան_/_ork’an_, _որչափ_/_orčap’_ “how much”
 - demonstrative adverbs: _հոս_/_hos_ “here”, _հոն_/_hon_ “there”, _այսպես_/_ayspes_ “this way”, _այնպես_/_aynpes_ “that way”, _այսչափ_/_aysčap’_ “this much”, _այնչափ_/_aynčap’_ “so much”
 - indefinite adverbs: _երբևէ_/_erbewē_ “ever”
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:12 CEST -->

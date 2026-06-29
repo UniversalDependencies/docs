@@ -19,4 +19,4 @@ The obl:nisba relation is used for a nominal (noun, pronoun, noun phrase) which 
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:28 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:02 CEST -->

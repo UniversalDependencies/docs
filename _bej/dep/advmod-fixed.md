@@ -14,4 +14,4 @@ advmod:fixed(kaːm, ktiːn) ("camel", "knew")
 nsubj(ktiːn, dhaj) ("know", "people")
 =i "relativizer"
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:39 CEST -->

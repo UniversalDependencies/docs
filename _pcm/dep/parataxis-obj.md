@@ -43,4 +43,4 @@ The relation `parataxis:obj` is used between a verb introducing direct speech an
 ~~~
 
 For indirect speech, we use the [ccomp]() relation between the verb introducing the speech and the governor of the reported speech.
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:10 CEST -->

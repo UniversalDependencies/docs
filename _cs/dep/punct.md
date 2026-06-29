@@ -62,4 +62,4 @@ punct(for-example, ”-16)
 punct(znamená, .-8)
 punct(means, .-17)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:12 CEST -->

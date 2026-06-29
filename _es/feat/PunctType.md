@@ -108,4 +108,4 @@ This value is used for exclamation marks.
 #### Examples:
 
 * _¡Hola!_
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:13 CEST -->

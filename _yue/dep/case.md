@@ -151,4 +151,4 @@ Postpositions, also known as "localizers", are labeled with [case:loc]() instead
 8	police."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:52 CEST -->

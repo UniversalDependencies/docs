@@ -21,4 +21,4 @@ det(r̥ṣabhám, etám)
 xcomp(ā́labheta, aindrám)
 advcl:cond(ā́labheta, mányeta)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:32 CEST -->

@@ -24,4 +24,4 @@ punct(oroitarazi-6, .-8)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:52 CEST -->

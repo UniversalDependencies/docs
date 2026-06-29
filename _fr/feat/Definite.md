@@ -20,4 +20,4 @@ In French, the `Definite` feature is marked only on the [determiners](en-pos/DET
 * _le, la, les_
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:36 CEST -->

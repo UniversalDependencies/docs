@@ -14,4 +14,4 @@ flat(già, gái)
 flat(già, trai)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:27 CEST -->

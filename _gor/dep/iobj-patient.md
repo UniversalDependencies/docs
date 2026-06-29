@@ -19,4 +19,4 @@ iobj:patient(IV-cook, fish)
 ~~~
 
 "Dewi cooked the fish in the pan" (instrument voice)
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:33 CEST -->

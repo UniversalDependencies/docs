@@ -23,4 +23,4 @@ amod:att(próba, tűzvédelmi)
 punct(kérdése, .-12)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:09 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:42 CEST -->

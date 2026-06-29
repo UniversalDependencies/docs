@@ -75,4 +75,4 @@ In particular:
 ### References
 
 - [Wikipedia](http://en.wikipedia.org/wiki/Determiner)
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:15 CEST -->

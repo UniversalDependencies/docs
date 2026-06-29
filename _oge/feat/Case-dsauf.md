@@ -20,4 +20,4 @@ Nominative case (singular or plural) stacked to double genitive case.
 #### Examples
 
 * _ნაბუისთაჲ_ 'of Nebo' (Gen with Gen and Nom)  etc.
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:31 CEST -->

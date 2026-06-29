@@ -15,4 +15,4 @@ obl:manner(apīpayanta, dhenavaḥ)
 case:sim(dhenavaḥ, na)
 nsubj(apīpayanta, sūdāḥ)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:28 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:01 CEST -->

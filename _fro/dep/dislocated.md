@@ -42,4 +42,4 @@ The dislocated elements are attached to the same governor as the dependent that 
 10	frere	_	NOUN	NOMcom	_	7	conj	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:21 CEST -->

@@ -95,4 +95,4 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 
 * [fr] _<b>bien que</b>_ “although” (_bien_ = `ADV`)
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:41 CEST -->

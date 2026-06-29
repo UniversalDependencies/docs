@@ -48,4 +48,4 @@ The construct suffix is sometimes also called **ezafe**.
 * _<b>salê</b>_ “year”
 * _<b>saline</b>_ “years”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:30 CEST -->

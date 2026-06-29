@@ -18,4 +18,4 @@ advcl(tasóne, potá)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:17 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:50 CEST -->

@@ -33,4 +33,4 @@ it is common to observe verbs in this position particularly in code-switching se
 Partiyi  cancel ettik . \n We canceled the party
 compound:lvc(ettik, cancel)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:29 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:02 CEST -->

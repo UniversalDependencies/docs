@@ -33,4 +33,4 @@ These are also analyzed as `acl`.
 acl(այն, գալու)
 acl(it, came)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:26 CEST -->

@@ -24,4 +24,4 @@ The `advmod:emph` relation is used attach emphasizing particles to the words the
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:39 CEST -->

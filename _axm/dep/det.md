@@ -41,4 +41,4 @@ Pronominal quantifiers are also tagged DET and their relation to their head is a
 ~~~
 
 See [nummod]() for a broader discussion of the various situations with quantifiers.
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:16 CEST -->

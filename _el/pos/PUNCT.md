@@ -17,4 +17,4 @@ Spoken corpora contain symbols representing pauses, laughter and other sounds; w
 -	Period: .
 -	Comma: ,
 - Parentheses: ()
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:20 CEST -->

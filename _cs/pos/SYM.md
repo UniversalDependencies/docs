@@ -47,4 +47,4 @@ The PDT texts are from the early 1990s and there are no e-mail addresses.
 If they were there, the PDT tokenization rules would break them up on all dots and at signs.
 The same holds for telephone numbers. For example,
 _tel.: (05) 4321 6014&nbsp;_ is analyzed as eight tokens (`NOUN PUNCT PUNCT PUNCT NUM PUNCT NUM NUM`).
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:22 CEST -->

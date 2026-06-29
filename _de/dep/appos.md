@@ -28,4 +28,4 @@ Die Lehmbausiedlungen , die so genannten Pueblos \n The mud settlements, the so 
 appos(Lehmbausiedlungen, Pueblos)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:12 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:45 CEST -->

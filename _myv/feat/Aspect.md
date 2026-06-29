@@ -35,4 +35,4 @@ It contributes in past and non-past tense to Erzya aspect.
 * [myv] _Кизэнь тюстнэ <b>кармасть</b> оламо._ "The summer colors <b>began</b> to fade."
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:28 CEST -->

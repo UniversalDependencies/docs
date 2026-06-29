@@ -12,4 +12,4 @@ luôn tay
 obl:adv(luôn, tay)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:23 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:57 CEST -->

@@ -5,4 +5,4 @@ shortdef: 'determiner'
 ---
 
 POS-tag <code>DET</code> is not used in Estonian UD.
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:15 CEST -->

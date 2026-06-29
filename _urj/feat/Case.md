@@ -27,4 +27,4 @@ Some Uralic languages allow stacking of case suffixes, which might be
 implemented in UD as layered annotations or lexicalising the inflected form.
 This is up for future discussions.
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:30 CEST -->

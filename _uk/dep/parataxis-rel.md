@@ -43,4 +43,4 @@ udver: '2'
 15	.	_	_	_	_	0	root	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:10 CEST -->

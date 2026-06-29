@@ -35,4 +35,4 @@ Pron: Pronoun
 - indefinite pronouns: _ზოგი_ *zogi* 'some', _რომელიმე_ *romelime* 'any' etc.s
 - reciprocal pronouns: _ერთიერთი_ *ertʻiertʻi* 'one among others', _ურთიერთას_ *urtʻiertʻas* 'each other' etc.
 - negative pronouns: _არავინ_ *aravin* 'nobody', _ნურავინ_ *nuravin* 'no-one' etc.
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:19 CEST -->

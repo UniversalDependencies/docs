@@ -16,4 +16,4 @@ compound:svc(Đi, học)
 punct(Đi, 。)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:35 CEST -->

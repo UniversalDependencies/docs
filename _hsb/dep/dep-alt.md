@@ -20,4 +20,4 @@ punct(FEM, (-25)
 punct(FEM, )-27)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:13 CEST -->

@@ -22,4 +22,4 @@ Cardinal adjectives are annotated `NUM`.
 - _autre_
 - _tox_
 - _vostre_
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:10 CEST -->

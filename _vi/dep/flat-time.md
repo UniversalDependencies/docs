@@ -12,4 +12,4 @@ A flat:time is use for time structure.
 flat:time(3h, chiều)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:30 CEST -->

@@ -29,4 +29,4 @@ The agent nominalizer, previously indicated by `Derivation=NomAg` or `VerbForm=N
 </table>
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:20 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:54 CEST -->

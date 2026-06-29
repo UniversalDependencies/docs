@@ -14,4 +14,4 @@ clause, and also the governor of the `nsubj:cop` dependency.
 nsubj:cop(простӧй-6, тэ-2)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:47 CEST -->

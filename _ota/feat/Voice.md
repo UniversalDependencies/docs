@@ -162,4 +162,4 @@ It describes an event in which two agents (or groups of agents) perform the same
 * _yıka<b>n</b>_ "to wash oneself"
 * _giy<b>in</b>_ "to dress oneself"
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:25 CEST -->

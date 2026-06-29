@@ -51,4 +51,4 @@ conj(ⲥⲟⲩⲉⲗⲟⲩⲱⲗ,ⲉⲓ)
 cc(ⲉⲓ,ⲁⲩⲱ)
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:07 CEST -->

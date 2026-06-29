@@ -12,4 +12,4 @@ liên thôn 。
 compound:z(thôn, liên)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:05 CEST -->

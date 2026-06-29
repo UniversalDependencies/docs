@@ -29,4 +29,4 @@ he/she was working all day
 nmod:tmod (rabátašo, déne)
 ~~~ 
 -->
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:44 CEST -->

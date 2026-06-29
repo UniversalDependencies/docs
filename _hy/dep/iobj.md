@@ -65,4 +65,4 @@ obj(told, some-plans)
 
 If there are two or more objects, one of them should be [obj]() and the others should be
 `iobj`. In such cases it is necessary to decide what is the most directly affected object _(patient)._
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:31 CEST -->

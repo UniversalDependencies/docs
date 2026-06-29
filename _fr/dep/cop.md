@@ -23,4 +23,4 @@ c' est une jeune fille pauvre \n it's a poor girl
 cop(fille,est)
 nsubj(fille,c')
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:07 CEST -->

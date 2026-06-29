@@ -19,4 +19,4 @@ obl(уськӧдны, улӧ)
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:58 CEST -->

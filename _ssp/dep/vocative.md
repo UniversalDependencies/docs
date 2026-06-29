@@ -17,4 +17,4 @@ The _vocative_ relation is used to mark a dialogue participant addressed in text
 2	HERMANO	_	NOUN	N	_	1	vocative	_	Gloss=BROTHER
 3	PRIMERO	_	NUM	Num	_	1	xcomp	_	Gloss=FIRST
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:15 CEST -->

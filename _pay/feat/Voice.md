@@ -31,4 +31,4 @@ The applicative voice is a grammatical voice that promotes an oblique argument o
 
 * _<b>apuru</b> piʃbarwa_  We help each other.” (lit.  lean.on+lay.down(help):RECP:PFV:EXCL)
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:25 CEST -->

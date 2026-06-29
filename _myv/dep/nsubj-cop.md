@@ -15,4 +15,4 @@ nsubj:cop(кият-3, тон-2)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:47 CEST -->

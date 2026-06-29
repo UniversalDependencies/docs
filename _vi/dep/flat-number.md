@@ -16,4 +16,4 @@ nummod(đồng, 5)
 punct(nhận, .)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:29 CEST -->

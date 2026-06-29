@@ -15,4 +15,4 @@ A coordinating conjunction is a word that links words or larger constituents wit
 - _car_
 - _mes_
 - _ou_
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:14 CEST -->

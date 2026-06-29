@@ -15,4 +15,4 @@ nmod:gen(ti, Herve)
 nmod:gen(maison, d'Herve)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:39 CEST -->

@@ -18,4 +18,4 @@ aux(გავუფრთხილდე, უნდა)
 aux(აწეული, ჰქონდა)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:47 CEST -->

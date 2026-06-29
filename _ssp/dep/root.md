@@ -26,4 +26,4 @@ In most trees, the root node is pos_tagged as VERB, but there are also ADJs and 
 5	UNO	_	NUM	Num	_	6	nummod	_	Gloss=ONE
 6	LOBO	_	NOUN	N	_	3	conj	_	Gloss=WOLF
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:14 CEST -->

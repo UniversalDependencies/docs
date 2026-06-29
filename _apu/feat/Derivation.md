@@ -18,4 +18,4 @@ produce verbs indicating `to have` or `to be`.
 
 * [apu] _kaxinhi_ "have meat"
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:38 CEST -->

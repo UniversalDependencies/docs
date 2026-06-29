@@ -28,4 +28,4 @@ of the METU Sabanci treebank (page 26).)
 
 * [hu] _<b>mosat</b>_ “make somebody wash”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:24 CEST -->

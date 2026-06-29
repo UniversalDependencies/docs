@@ -100,4 +100,4 @@ fixed(and,on)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:06 CEST -->

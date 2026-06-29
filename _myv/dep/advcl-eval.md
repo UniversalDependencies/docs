@@ -17,4 +17,4 @@ advcl:eval(stupid, it_appears)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:33 CEST -->

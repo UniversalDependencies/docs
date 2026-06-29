@@ -34,4 +34,4 @@ Adv: 	Adverb
 - interrogative adverbs: _მუსხიი (musxii), მუზმა (muzmɑ)_ 'how many' etc.
 - directional adverbs: _სოთ (sɔt)_ 'where', _სოურეთ (sɔurɛt)_ 'where from' etc.
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:12 CEST -->

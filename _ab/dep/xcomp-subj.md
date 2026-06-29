@@ -18,4 +18,4 @@ The `xcomp:subj` relation marks an a free clausal complement cross-referenced by
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:18 CEST -->

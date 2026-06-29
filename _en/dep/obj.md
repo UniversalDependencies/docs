@@ -11,4 +11,4 @@ The direct object of a VP is the noun phrase which is the (accusative) object of
 She gave me a raise
 obj(gave, raise)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:52 CEST -->

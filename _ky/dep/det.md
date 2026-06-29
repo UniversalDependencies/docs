@@ -18,4 +18,4 @@ det(мезгил, кайсы )
 det(суроолор, Бул)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:16 CEST -->

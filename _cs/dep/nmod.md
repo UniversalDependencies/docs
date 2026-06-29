@@ -55,4 +55,4 @@ punct(prezident, ,-3)
 amod(prezident, český)
 appos(Václav, prezident)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:36 CEST -->

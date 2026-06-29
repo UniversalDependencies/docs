@@ -21,4 +21,4 @@ In paired clauses where both clauses are marked by a conjunctive word and the fi
 - 無論 / _mou6leon3_ "no matter"
 - 嚟 / _lei4_ "(in order) to"
   - 你 慳 <b>嚟</b> 做 乜 呀 ? / _nei5 haan1 <b>lei4</b> zou6 mat1 aa1_ "What are you being thrifty for? (lit. You save to do what?)"
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:22 CEST -->

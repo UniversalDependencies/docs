@@ -36,4 +36,4 @@ The present tense in Turkish is realized by lack of past or future morphemes.
 
 * *өйгә бара* "he/she goes home" `Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin`
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:46 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:20 CEST -->

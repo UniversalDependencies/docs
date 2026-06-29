@@ -18,4 +18,4 @@ punct(Pekka-1, ,-2)
 advmod(tulisitko-3, tänne-4)
 punct(tulisitko-3, ?-5)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:14 CEST -->

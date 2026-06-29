@@ -13,4 +13,4 @@ A copula is the relation between the complement of a copular verb and the copula
 nsubj(აოჴრებულ, ერთსახე)
 aux(ერთსახე, არს)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:08 CEST -->

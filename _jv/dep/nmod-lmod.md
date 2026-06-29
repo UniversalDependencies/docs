@@ -20,4 +20,4 @@ case(bin, in)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:40 CEST -->

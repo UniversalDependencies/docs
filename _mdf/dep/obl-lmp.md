@@ -27,4 +27,4 @@ obl:lmp(мянемс-3, вальмава-4)
 punct(мянемс-3, .-5)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:27 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:01 CEST -->

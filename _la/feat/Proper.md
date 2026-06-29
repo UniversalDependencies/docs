@@ -34,4 +34,4 @@ A noun receiving the part-of-speech tag for proper nouns ([PROPN](la-pos/PROPN))
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:12 CEST -->

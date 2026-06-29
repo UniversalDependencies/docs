@@ -39,4 +39,4 @@ nsubj(παλάτι, φίλο)
 Τριανταφυλλίδης, Μανόλης. 1941, Reprinted 2000. *Νεοελληνική Γραμματική. Αθήνα: Οργανισμός Εκδόσεως Διδακτικών Βιβλίων*: 203-205.
          
 https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:43 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:18 CEST -->

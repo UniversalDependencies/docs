@@ -55,4 +55,4 @@ Foreign language expressions are also annotated with ``flat``.
 play maker olmak istiyorum
 flat(play, maker)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:27 CEST -->

@@ -14,4 +14,4 @@ advmod:neg(юумэн, үгы)
 
 “There is nothing warmer for everyone than a family home.”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:08 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:41 CEST -->

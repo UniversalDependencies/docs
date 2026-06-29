@@ -14,4 +14,4 @@ parataxis:newsent(зніматися, Втомився»)
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:09 CEST -->

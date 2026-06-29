@@ -28,4 +28,4 @@ punct(Robert, .)
 amod(place, fourth)
 det(place, the)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:14 CEST -->

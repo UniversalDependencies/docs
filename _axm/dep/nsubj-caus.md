@@ -23,4 +23,4 @@ The infinitive verb governs the causative auxiliary via an [aux:caus]() relation
 10	մարսել	մարսել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	6	conj	_	_
 11	տայ	տալ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Cau	10	aux:caus	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:46 CEST -->

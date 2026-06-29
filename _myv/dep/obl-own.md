@@ -34,4 +34,4 @@ nsubj(арасть, нупалень)
 punct(арасть, .-5)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:29 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:03 CEST -->

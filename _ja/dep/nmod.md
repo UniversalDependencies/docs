@@ -21,4 +21,4 @@ nmod(ジュース, リンゴ)
 case(リンゴ, の)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:37 CEST -->

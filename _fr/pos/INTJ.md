@@ -15,4 +15,4 @@ An interjection is a word that is used most often as an exclamation or part of a
 - _bon_ "well"
 - _enfin_
 _ _attention_
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:15 CEST -->

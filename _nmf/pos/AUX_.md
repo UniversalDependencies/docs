@@ -20,4 +20,4 @@ An `Auxiliary` of a clause is a function word associated with a verbal predicate
 * Verbal auxiliary: _Tye baneonan khorohndi khamganan <b>la</b>le_ "The man is closing the door"
 
 * Verbal copula: _A Jason <b>e</b>_ "I am Jason"
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:13 CEST -->

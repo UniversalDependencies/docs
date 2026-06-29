@@ -11,4 +11,4 @@ A clausal passive subject is a clausal syntactic subject of a passive clause:
 Cine a încălcat legea a fost pedepsit de instanță . \n Who has broken law-the has been punished by court .
 csubj:pass(pedepsit, încălcat)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:12 CEST -->

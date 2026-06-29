@@ -12,4 +12,4 @@ ROOT O bɛ wele ko Azawadi .
 root(ROOT, wele)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:13 CEST -->

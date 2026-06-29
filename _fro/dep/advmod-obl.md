@@ -14,4 +14,4 @@ These contractions are are currently attached to the verb as `advmod:obl`.
 En ipse verbe sin dimes
 advmod:obl(dimes, sin)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:08 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:42 CEST -->

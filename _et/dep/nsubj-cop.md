@@ -15,4 +15,4 @@ cop(suur, on)
 nsubj:cop(big,house)
 cop(big,is)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:47 CEST -->

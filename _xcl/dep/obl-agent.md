@@ -20,4 +20,4 @@ Typical agents are animate, but it is not a rule. Inanimate agents may be someti
 obl:agent(վարէր, հոգւով)
 obl:agent(led, Spirit)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:24 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:57 CEST -->

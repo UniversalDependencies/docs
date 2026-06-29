@@ -16,4 +16,4 @@ obl(talked, in-winter)
 ~~~
 
 One subtype of `obl` is introduced in Russian: [obl:agent]() for agents of passive verbs.
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:22 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:56 CEST -->

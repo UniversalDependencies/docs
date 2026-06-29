@@ -15,4 +15,4 @@ Also parenthetical and interjected clauses can receive the `parataxis` dependenc
 parataxis(ойнайды-12, көреді-6)
 ~~~
 'Azamat and Aygül like playing, they always play together in the garden.'
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:07 CEST -->

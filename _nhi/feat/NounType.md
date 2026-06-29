@@ -15,4 +15,4 @@ Relational nouns are used to encode obliques. These are similar to words such as
 
 * [nhi] _namechyectlalisqueh <b>ipan</b> mitlatl_ "Los voy a colocar encima del metate."
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:55 CEST -->

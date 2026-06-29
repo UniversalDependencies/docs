@@ -85,4 +85,4 @@ a preference for lilies
 nmod(preference-2, lilies-4)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:22 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:56 CEST -->

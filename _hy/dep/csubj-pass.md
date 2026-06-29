@@ -34,4 +34,4 @@ obl(told, In-the-letter)
 xcomp(ready, to-develop)
 mark(ready, that)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:11 CEST -->

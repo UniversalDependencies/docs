@@ -18,4 +18,4 @@ aux(食べ, た)
 mark(食べ, なら)
 punct(行く, 。)
 ~~~ 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:30 CEST -->

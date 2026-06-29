@@ -48,4 +48,4 @@ But, when marking first- and second-person objects, it makes no difference what 
 
 * _იყოფი_ 'it is allotted / assigned to him/her/it', _აღჰუშენებს_ 'he/she builds (something) for him/her/it' etc.
 * _იყოფიან_ 'they are allotted / assigned to them', _აღჰუშენებს_ 'he/she builds (something) for them' etc.
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:05 CEST -->

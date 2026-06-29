@@ -29,4 +29,4 @@ udver: '2'
 8	says	_	_	_	_	_	_	_	_
 9	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:10 CEST -->

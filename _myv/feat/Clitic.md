@@ -19,4 +19,4 @@ Expresses additive adverbal _too, even_.
 
 * [myv] _Сонсь<b>как</b> Микол пек сизесь._ "Even Mikol himself had gotten quite tired."
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:32 CEST -->

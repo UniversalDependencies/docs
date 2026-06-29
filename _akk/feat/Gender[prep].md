@@ -21,4 +21,4 @@ Layered feature encoding gender of suffix pronoun attached to preposition. Most 
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:45 CEST -->

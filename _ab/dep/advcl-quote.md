@@ -23,4 +23,4 @@ The dependent of an `advcl:quote` is an adverbial clause marked with the direct 
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:35 CEST -->

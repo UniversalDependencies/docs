@@ -13,4 +13,4 @@ kâi wannàn bàːba naːmù (Allàː yà tsarèː) shiː ya haƙà wani raːmì
 parataxis:parenth(bàːba, yà)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:10 CEST -->

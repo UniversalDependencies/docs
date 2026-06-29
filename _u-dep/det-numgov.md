@@ -33,4 +33,4 @@ punct(played, ?-11)
 
 See also [nummod:gov]() and [det:nummod]().
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:17 CEST -->

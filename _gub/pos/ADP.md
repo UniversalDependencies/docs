@@ -23,4 +23,4 @@ or it is discontinuous or absent ([Rel=NCont]())
 ### References
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:35 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:11 CEST -->

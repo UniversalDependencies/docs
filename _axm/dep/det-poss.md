@@ -27,4 +27,4 @@ Whenever there is a possessive determiner, `det:poss` should be used instead of 
 6	իր	իր	DET	_	Case=Acc|Number=Sing|Person=3|PronType=Poss	7	det:poss	_	_
 7	տունն	տուն	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing	3	conj	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:18 CEST -->

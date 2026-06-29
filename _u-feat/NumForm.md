@@ -39,4 +39,4 @@ Examples: [lt] 15-oji (15th)
 
 Examples: I, II, III
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:27 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:00 CEST -->

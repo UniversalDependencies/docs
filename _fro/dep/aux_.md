@@ -59,4 +59,4 @@ These semi-auxiliaries include voloir, devoir, povoir, savoir, soloir.
 4	plorer	_	VERB	VERinf	_	0	root	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:47 CEST -->

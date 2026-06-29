@@ -43,4 +43,4 @@ The perfective aspect is typical of the past participle in -ф
 * [mdf] _Митричень пингста <b>тиф</b> тя мастерскойсь._ "This workshop was <b>made</b> in Mitrich's time."
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:28 CEST -->

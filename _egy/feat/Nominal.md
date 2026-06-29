@@ -20,4 +20,4 @@ This feature signals nominalization of a verb. If a verb is used in a position w
 
 * _gm ⸗k <b>ḫśf</b> ⸗k i҆m_ “you may find him <b>whom you will meet</b> there” (lit. find.SBJV =2SG.M <b>meet.REL.FUT.M.SG</b> =2SG.M there)
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:53 CEST -->

@@ -12,4 +12,4 @@ A clausal causative subject is a clausal syntactic subject of a causative constr
 csubj:caus(կորուսցէ, կամիցի)
 obj(կորուսցէ, զնա)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:10 CEST -->

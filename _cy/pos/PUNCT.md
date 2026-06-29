@@ -17,4 +17,4 @@ Punctuation marks are non-alphabetical characters and character groups used to d
 * Exclamation Mark: _!_
 * Quote Marks: _" "_
 * Parenthesis: _( )_
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:20 CEST -->

@@ -24,4 +24,4 @@ The relation `obl:patient` is used for the Mandarin "BA construction" (also know
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:30 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:03 CEST -->

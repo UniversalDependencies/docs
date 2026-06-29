@@ -35,4 +35,4 @@ The deliberative particle
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:38 CEST -->

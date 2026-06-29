@@ -80,4 +80,4 @@ The speaker uses assertive to state the action of the clause, when they believe 
 #### Examples
 
 * _Tita <b>kom</b> ra hî<b>o</b>._ "I am (certainly) doing."
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:17 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:51 CEST -->

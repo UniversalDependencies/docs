@@ -11,4 +11,4 @@ The `obl` relation is used for non-core nominal dependents of clausal predicates
 PRO1(B) FÖDD SKÖVDE@en \n I was born in Skövde
 obl(FÖDD, SKÖVDE@en)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:22 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:56 CEST -->

@@ -19,4 +19,4 @@ nsubj(thích, Cô)
 punct(đẹp, 。)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:30 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:04 CEST -->

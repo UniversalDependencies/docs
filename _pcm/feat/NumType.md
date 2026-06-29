@@ -29,4 +29,4 @@ This value is used for cardinal numbers, i.e tokens which are used to count.
 #### Example
 
 + _dis plan work well well wen e <b> first</b> begin_ "this plan worked very well when it first began"
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:27 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:01 CEST -->

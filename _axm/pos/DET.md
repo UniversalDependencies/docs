@@ -26,4 +26,4 @@ Note that in Middle Armenian noun phrases usually allow one `DET` modifier, but 
 - indefinite determiners: _այլ_/_ayl_ “other”, _մէկ մի_/_mēk mi_ “someone, any single, a certain”, _մէկայլ_/_mēkayl_ “another”, _միւս_/_miws_ “(the) other”
 - total determiners: _ամէն_/_amēn_, _ամէն մէկ_/_amēn mēk_ “every”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:14 CEST -->

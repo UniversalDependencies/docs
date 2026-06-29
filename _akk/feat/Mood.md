@@ -44,4 +44,4 @@ The prohibitive expresses negative commands and combines the negation _lā_ with
 * _<b>lā tapaššiṭ</b>_ “do not erase”
 * _<b>lā tunakkar</b>_ “do not remove”
 * _<b>lū lā eṣṣidi</b>_ “may he not harvest”
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:50 CEST -->

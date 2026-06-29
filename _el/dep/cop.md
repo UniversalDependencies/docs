@@ -84,4 +84,4 @@ nsubj(παιδί, Γιώργος)
   
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:07 CEST -->

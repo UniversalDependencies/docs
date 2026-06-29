@@ -27,4 +27,4 @@ expl:pv(mýje, si)
 ~~~
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:25 CEST -->

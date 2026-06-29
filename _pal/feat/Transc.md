@@ -11,4 +11,4 @@ This feature takes the following values: Yes.
 
 #### Example
 Some examples of the feature and its use.
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:46 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:21 CEST -->

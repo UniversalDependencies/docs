@@ -49,4 +49,4 @@ Chintang has two topic-marking particles: the Nepali loanword *caĩ* and the nat
 <!-- Foc: ai, le, lo, na, ta, yaŋ
 	Top: bhane, caĩ, na
 	Uniq: te -->
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:48 CEST -->

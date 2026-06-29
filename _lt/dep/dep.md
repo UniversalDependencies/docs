@@ -22,4 +22,4 @@ Buvo įtraukti iš 23 klausimai . \n 23 questions from were included .
 dep(įtraukti, iš)
 dep(included, from)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:13 CEST -->

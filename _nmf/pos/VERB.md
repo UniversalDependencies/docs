@@ -21,4 +21,4 @@ Verbal nouns (e.g. _rung<b>e</b>_ "say-NMLZ" (the saying)) are tagged as [NOUN](
 * _thale_ "know(s)", _thae_ "knew", _thaate_ "have known" - finite
 
 * _thaganan (la)_ "(is) knowing" - converb
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:23 CEST -->

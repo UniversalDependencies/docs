@@ -20,4 +20,4 @@ The `Animacy` feature in Western Sierra Puebla Nahuatl is relevant for indefinit
 * _ni<b>tla</b>oni_ "Yo tomo (cosas/bebidas)."
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:27 CEST -->

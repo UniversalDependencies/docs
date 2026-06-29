@@ -13,4 +13,4 @@ This feature takes the following values: Past, Pres.
 
 #### Example
 Some examples of the feature and its use.
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:20 CEST -->

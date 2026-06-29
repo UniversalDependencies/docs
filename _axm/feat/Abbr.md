@@ -21,4 +21,4 @@ Boolean feature. Is this an abbreviation? Note that the abbreviated word typical
   _<b>թվ</b>. (թվական)_ “year”,
   _<b>տհմ</b> (տիրհեմ)_ “dirhem”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:24 CEST -->

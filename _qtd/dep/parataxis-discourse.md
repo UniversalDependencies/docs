@@ -14,4 +14,4 @@ parataxis:discourse(banale, dire)
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:35 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:08 CEST -->

@@ -29,4 +29,4 @@ udver: '2'
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:40 CEST -->

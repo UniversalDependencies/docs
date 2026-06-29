@@ -28,4 +28,4 @@ udver: '2'
 1	Գնացի	գնալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	անկայ	անկանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin||Voice=Mid	1	compound:svc	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:04 CEST -->

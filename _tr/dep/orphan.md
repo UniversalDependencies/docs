@@ -23,4 +23,4 @@ orphan(Ali-9, book)
 
 "Ahmet read newspapers, Ali books."
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:06 CEST -->

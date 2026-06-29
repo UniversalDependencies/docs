@@ -45,4 +45,4 @@ speakers nor addressees.
 * _<b>il fait</b>_ "<b>he does</b>"
 * _<b>elles font</b>_ "<b>they</b> do"
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:30 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:03 CEST -->

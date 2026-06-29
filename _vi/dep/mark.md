@@ -20,4 +20,4 @@ obj(chơi, bài)
 punct(nói, 。)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:35 CEST -->

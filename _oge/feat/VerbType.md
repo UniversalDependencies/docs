@@ -20,4 +20,4 @@ The `VerbType` feature applies to [verbs](_oge/pos/VERB).
 
 * _დაწერილ არს_ 'is written', _შობილ არს_ 'is born' etc.
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:49 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:24 CEST -->

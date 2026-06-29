@@ -59,4 +59,4 @@ Typical structure in Old French :
 
 ~~~ 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:30 CEST -->

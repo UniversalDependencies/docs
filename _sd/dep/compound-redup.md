@@ -15,4 +15,4 @@ advmod(top-3, walk-5)
 compound:redup(مٿان-3,مٿان-4)
 compound:redup(top-3, top-4)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:30 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:04 CEST -->

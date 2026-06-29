@@ -24,4 +24,4 @@ All adjectives and some of the adverbs may function as a noun without additional
 - _балык_ "fish"
 - _аймак_ "region"
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:17 CEST -->

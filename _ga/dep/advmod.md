@@ -103,4 +103,4 @@ advmod(dtuigfí, ionas)
 ~~~
 
 Rinne an fear comharthaí agus é ag labhairt ionas go dtuigfí a scéal
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:37 CEST -->

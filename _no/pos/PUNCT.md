@@ -10,4 +10,4 @@ Punctuation marks are non-alphabetical characters and character groups used in m
 * Period: <b>.</b>
 * Comma: <b>,</b>
 * Parentheses: <b>()</b>
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:46 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:21 CEST -->

@@ -37,4 +37,4 @@ fixed(il, y)
 fixed(il, a)
 case(jours, il)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:26 CEST -->

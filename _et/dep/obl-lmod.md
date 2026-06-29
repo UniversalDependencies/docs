@@ -15,4 +15,4 @@ obl:lmod(minema-5, trepist-3)
 ~~~
 
 The `lmod` subrelation is also used for [adverbial](et-dep/advmod-lmod) modifiers.
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:27 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:00 CEST -->

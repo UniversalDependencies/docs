@@ -57,4 +57,4 @@ Examples:
 * _tabeļá_ "[a] pile / multitude of labels /signs", _teslürjá_ "[a] pile / multitude of adzes", _zmijulürjá_ "[a] pile / multitude of snakes" 
 * _dečjá_ "[a] pile / multitude of children", _lístje_ "[a] pile / multitude of leaves", _kotetjá_ "[a] pile / multitude of cats" 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:58:22 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:56 CEST -->

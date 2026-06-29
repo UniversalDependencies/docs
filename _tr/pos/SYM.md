@@ -10,4 +10,4 @@ A symbol is a word-like entity that differs from ordinary words by form, functio
 
 We follow the general/universal definition of `SYM`.
 See [u-pos/SYM]() for details.
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:22 CEST -->

@@ -5,4 +5,4 @@ shortdef: 'proper noun'
 ---
 
 The English `PROPN` corresponds to everything tagged NNP or NNPS in the PTB tag set. (Note that at present we make no attempt to exclude words arguably of other parts of speech which appear in proper noun phrases that the PTB tag set would tag with NNP(S). So, _United States_ is United/PROPN States/PROPN.)
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:20 CEST -->

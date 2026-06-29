@@ -12,4 +12,4 @@ Wow , det var kul :) \n Wow , that was fun :)
 discourse(kul, :)-6)
 discourse(kul, Wow)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:46 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:19 CEST -->

@@ -11,4 +11,4 @@ The subtype `parataxis:sentence` is used in TwittIrish. As tweets may consist of
 Mol an óige arís. A dhiabhail, tá an-talent go deo agaibh in Éirinn ♫ http://t.co/1oT7CH8x ♫
 parataxis:sentence(Mol, tá)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:11 CEST -->

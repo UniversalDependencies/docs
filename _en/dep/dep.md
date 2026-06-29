@@ -15,4 +15,4 @@ an unresolved long distance dependency.
 Then , as if to show that he could , ...
 dep(show, if)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:13 CEST -->

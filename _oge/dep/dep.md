@@ -12,4 +12,4 @@ A `dep` is used when it is impossible to determine a more precise relation. E.g.
 dep(განიკუეთენ, დ(4))
 root(ROOT, განიკუეთენ)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:13 CEST -->

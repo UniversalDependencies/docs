@@ -86,18 +86,18 @@
   - label: 'uk/feat'
   - label: 'urb/feat'
   - label: 'xcl/feat'
-- label: ''
+- label: 'Animacy[gram]'
   languages:
   - label: 'uk/feat'
-- label: ''
+- label: 'Animacy[iobj]'
   languages:
   - label: 'nci/feat'
-- label: ''
+- label: 'Animacy[obj]'
   languages:
   - label: 'azz/feat'
   - label: 'nci/feat'
   - label: 'nhi/feat'
-- label: ''
+- label: 'Animacy[psor]'
   languages:
   - label: 'nci/feat'
 - label: 'Aspect'
@@ -148,7 +148,7 @@
   - label: 'xcl/feat'
   - label: 'xmf/feat'
   - label: 'yrl/feat'
-- label: ''
+- label: 'Aspect[add]'
   languages:
   - label: 'ruc/feat'
 - label: 'Assoc'
@@ -224,16 +224,16 @@
   - label: 'xcl/feat'
   - label: 'xmf/feat'
   - label: 'yrk/feat'
-- label: ''
+- label: 'Case[dsauf]'
   languages:
   - label: 'oge/feat'
-- label: ''
+- label: 'Case[sauf]'
   languages:
   - label: 'oge/feat'
-- label: ''
+- label: 'Case[stack]'
   languages:
   - label: 'oge/feat'
-- label: ''
+- label: 'Case[stack2]'
   languages:
   - label: 'oge/feat'
 - label: 'Caus'
@@ -279,16 +279,16 @@
   - label: 'gub/feat'
   - label: 'naq/feat'
   - label: 'u/feat'
-- label: ''
+- label: 'Clusivity[obj]'
   languages:
   - label: 'u/feat'
-- label: ''
+- label: 'Clusivity[p]'
   languages:
   - label: 'ctn/feat'
-- label: ''
+- label: 'Clusivity[psor]'
   languages:
   - label: 'u/feat'
-- label: ''
+- label: 'Clusivity[subj]'
   languages:
   - label: 'u/feat'
 - label: 'Coming'
@@ -440,7 +440,7 @@
   - label: 'qpm/feat'
   - label: 'u/feat'
   - label: 'xcl/feat'
-- label: ''
+- label: 'Deixis[psor]'
   languages:
   - label: 'axm/feat'
   - label: 'hy/feat'
@@ -643,31 +643,31 @@
   - label: 'sv/feat'
   - label: 'u/feat'
   - label: 'uk/feat'
-- label: ''
+- label: 'Gender[abs]'
   languages:
   - label: 'abq/feat'
-- label: ''
+- label: 'Gender[cs]'
   languages:
   - label: 'ab/feat'
-- label: ''
+- label: 'Gender[dat]'
   languages:
   - label: 'u/feat'
-- label: ''
+- label: 'Gender[erg]'
   languages:
   - label: 'abq/feat'
   - label: 'u/feat'
-- label: ''
+- label: 'Gender[io]'
   languages:
   - label: 'ab/feat'
   - label: 'abq/feat'
-- label: ''
+- label: 'Gender[lo]'
   languages:
   - label: 'ab/feat'
-- label: ''
+- label: 'Gender[obj]'
   languages:
   - label: 'ab/feat'
   - label: 'u/feat'
-- label: ''
+- label: 'Gender[po]'
   languages:
   - label: 'ab/feat'
 - label: 'Gender[pred]'
@@ -676,20 +676,20 @@
 - label: 'Gender[prep]'
   languages:
   - label: 'akk/feat'
-- label: ''
+- label: 'Gender[psor]'
   languages:
   - label: 'ab/feat'
   - label: 'abq/feat'
   - label: 'cs/feat'
   - label: 'sl/feat'
   - label: 'u/feat'
-- label: ''
+- label: 'Gender[refl]'
   languages:
   - label: 'ab/feat'
-- label: ''
+- label: 'Gender[ro]'
   languages:
   - label: 'ab/feat'
-- label: ''
+- label: 'Gender[subj]'
   languages:
   - label: 'ab/feat'
   - label: 'u/feat'
@@ -750,7 +750,7 @@
   - label: 'orv/feat'
   - label: 'ru/feat'
   - label: 'uk/feat'
-- label: ''
+- label: 'InflClass[nominal]'
   languages:
   - label: 'la/feat'
 - label: 'InfStruct'
@@ -953,16 +953,16 @@
   - label: 'ruc/feat'
   - label: 'tn/feat'
   - label: 'u/feat'
-- label: ''
+- label: 'NounClass[iobj]'
   languages:
   - label: 'ruc/feat'
-- label: ''
+- label: 'NounClass[obj]'
   languages:
   - label: 'ruc/feat'
-- label: ''
+- label: 'NounClass[psed]'
   languages:
   - label: 'ruc/feat'
-- label: ''
+- label: 'NounClass[psor]'
   languages:
   - label: 'ruc/feat'
 - label: 'NounType'
@@ -1028,27 +1028,27 @@
   - label: 'urj/feat'
   - label: 'xcl/feat'
   - label: 'xmf/feat'
-- label: ''
+- label: 'Number[abs]'
   languages:
   - label: 'abq/feat'
   - label: 'u/feat'
-- label: ''
+- label: 'Number[cs]'
   languages:
   - label: 'ab/feat'
-- label: ''
+- label: 'Number[dat]'
   languages:
   - label: 'u/feat'
-- label: ''
+- label: 'Number[dsauf]'
   languages:
   - label: 'oge/feat'
-- label: ''
+- label: 'Number[erg]'
   languages:
   - label: 'abq/feat'
   - label: 'u/feat'
-- label: ''
+- label: 'Number[grnd]'
   languages:
   - label: 'yrl/feat'
-- label: ''
+- label: 'Number[io]'
   languages:
   - label: 'ab/feat'
   - label: 'abq/feat'
@@ -1057,15 +1057,15 @@
 - label: 'Number[io]'
   languages:
   - label: 'xmf/feat'
-- label: ''
+- label: 'Number[iobj]'
   languages:
   - label: 'nci/feat'
   - label: 'nhi/feat'
   - label: 'ruc/feat'
-- label: ''
+- label: 'Number[lo]'
   languages:
   - label: 'ab/feat'
-- label: ''
+- label: 'Number[obj]'
   languages:
   - label: 'ess/feat'
   - label: 'ka/feat'
@@ -1075,10 +1075,10 @@
 - label: 'Number[obj]'
   languages:
   - label: 'xmf/feat'
-- label: ''
+- label: 'Number[p]'
   languages:
   - label: 'ctn/feat'
-- label: ''
+- label: 'Number[po]'
   languages:
   - label: 'ab/feat'
 - label: 'Number[pred]'
@@ -1087,11 +1087,11 @@
 - label: 'Number[prep]'
   languages:
   - label: 'akk/feat'
-- label: ''
+- label: 'Number[psed]'
   languages:
   - label: 'hu/feat'
   - label: 'u/feat'
-- label: ''
+- label: 'Number[psor]'
   languages:
   - label: 'abq/feat'
   - label: 'axm/feat'
@@ -1110,16 +1110,16 @@
   - label: 'tt/feat'
   - label: 'u/feat'
   - label: 'uz/feat'
-- label: ''
+- label: 'Number[refl]'
   languages:
   - label: 'ab/feat'
-- label: ''
+- label: 'Number[ro]'
   languages:
   - label: 'ab/feat'
-- label: ''
+- label: 'Number[sauf]'
   languages:
   - label: 'oge/feat'
-- label: ''
+- label: 'Number[subj]'
   languages:
   - label: 'ess/feat'
   - label: 'ka/feat'
@@ -1284,38 +1284,38 @@
   - label: 'urj/feat'
   - label: 'xav/feat'
   - label: 'xcl/feat'
-- label: ''
+- label: 'Person[abs]'
   languages:
   - label: 'abq/feat'
   - label: 'u/feat'
-- label: ''
+- label: 'Person[cs]'
   languages:
   - label: 'ab/feat'
-- label: ''
+- label: 'Person[dat]'
   languages:
   - label: 'u/feat'
-- label: ''
+- label: 'Person[erg]'
   languages:
   - label: 'abq/feat'
   - label: 'u/feat'
-- label: ''
+- label: 'Person[grnd]'
   languages:
   - label: 'yrl/feat'
-- label: ''
+- label: 'Person[io]'
   languages:
   - label: 'ab/feat'
   - label: 'abq/feat'
   - label: 'ka/feat'
   - label: 'oge/feat'
-- label: ''
+- label: 'Person[iobj]'
   languages:
   - label: 'nci/feat'
   - label: 'nhi/feat'
   - label: 'ruc/feat'
-- label: ''
+- label: 'Person[lo]'
   languages:
   - label: 'ab/feat'
-- label: ''
+- label: 'Person[obj]'
   languages:
   - label: 'ab/feat'
   - label: 'ess/feat'
@@ -1323,10 +1323,10 @@
   - label: 'oge/feat'
   - label: 'ruc/feat'
   - label: 'u/feat'
-- label: ''
+- label: 'Person[p]'
   languages:
   - label: 'ctn/feat'
-- label: ''
+- label: 'Person[po]'
   languages:
   - label: 'ab/feat'
 - label: 'Person[pred]'
@@ -1335,10 +1335,10 @@
 - label: 'Person[prep]'
   languages:
   - label: 'akk/feat'
-- label: ''
+- label: 'Person[psed]'
   languages:
   - label: 'ruc/feat'
-- label: ''
+- label: 'Person[psor]'
   languages:
   - label: 'ab/feat'
   - label: 'abq/feat'
@@ -1360,13 +1360,13 @@
   - label: 'tr/feat'
   - label: 'u/feat'
   - label: 'uz/feat'
-- label: ''
+- label: 'Person[refl]'
   languages:
   - label: 'ab/feat'
-- label: ''
+- label: 'Person[ro]'
   languages:
   - label: 'ab/feat'
-- label: ''
+- label: 'Person[subj]'
   languages:
   - label: 'ab/feat'
   - label: 'ess/feat'
@@ -1415,13 +1415,13 @@
   - label: 'hy/feat'
   - label: 'pl/feat'
   - label: 'u/feat'
-- label: ''
+- label: 'Polite[abs]'
   languages:
   - label: 'u/feat'
-- label: ''
+- label: 'Polite[dat]'
   languages:
   - label: 'u/feat'
-- label: ''
+- label: 'Polite[erg]'
   languages:
   - label: 'u/feat'
 - label: 'Position'
@@ -1627,14 +1627,14 @@
   - label: 'urj/feat'
   - label: 'xcl/feat'
   - label: 'xmf/feat'
-- label: ''
+- label: 'Reflex[iobj]'
   languages:
   - label: 'nci/feat'
-- label: ''
+- label: 'Reflex[obj]'
   languages:
   - label: 'ess/feat'
   - label: 'nci/feat'
-- label: ''
+- label: 'Reflex[subj]'
   languages:
   - label: 'ess/feat'
 - label: 'Rel'
@@ -1964,6 +1964,6 @@
   - label: 'urj/feat'
   - label: 'xcl/feat'
   - label: 'xmf/feat'
-- label: ''
+- label: 'Voice[add]'
   languages:
   - label: 'ruc/feat'

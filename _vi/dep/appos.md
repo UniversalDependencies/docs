@@ -20,4 +20,4 @@ appos(Ông, chủ_tịch)
 punct(khai_mạc, 。)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:12 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:46 CEST -->

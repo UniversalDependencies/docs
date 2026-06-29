@@ -23,4 +23,4 @@ stánah vir vadá znoj durgá da so pókačem na čúčkono \n I soaked in sweat
 mark(pókačem, durgá)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:34 CEST -->

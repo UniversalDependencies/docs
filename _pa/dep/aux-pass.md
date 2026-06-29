@@ -16,4 +16,4 @@ obj(seen, patient)
 aux:pass(ਵੇਖਿਆ, ਗਿਆ)
 aux:pass(seen, was)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:17 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:50 CEST -->

@@ -36,4 +36,4 @@ expl:impers(procedere, Si)
 **NB**
 Note that when the verb is used in the passive voice the nominal syntactic subject is marked with the subtype [nsubj:pass]().
 When the subject is clausal, it's preferable to use other specialized relations ([csubj]() or its subtype [csubj:pass]()).
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:12 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:12:45 CEST -->

@@ -12,4 +12,4 @@ An open clausal complement (<code>xcomp</code>) of a verb, or an adjective, is a
 xcomp(ჰრქუა, წარსლვად)
 iobj(ჰრქუა, მას)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:16 CEST -->

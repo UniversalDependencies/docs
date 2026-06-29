@@ -25,4 +25,4 @@ _u_ when the following word begins with an _o_ sound.
 
 * _padre e hijo_ “father and son”
 * _siete u ocho_ “seven or eight”
-<!-- Interlanguage links updated Po 29. června 2026, 17:57:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:10:14 CEST -->

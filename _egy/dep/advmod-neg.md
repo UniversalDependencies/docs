@@ -15,4 +15,4 @@ A negative adverbial modifier is a particle that modifies the root of a sentence
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:59:08 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:11:41 CEST -->

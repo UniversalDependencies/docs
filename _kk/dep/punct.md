@@ -32,4 +32,4 @@ punct(барды-9, .-10)
 The punctuation attaches to the head of the adverbial phrase.
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:00:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 18:13:12 CEST -->
