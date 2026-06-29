@@ -15,4 +15,4 @@ compound(FÖRENING, DÖV(L))
 GLAS FORM(YYb)+UTSTRÄCKNING@p TRASIG ENTITET(SS)+FÖRFLYTTA@p>huvud \n The glass jar broke on top of its head
 compound(FORM(YYb)+UTSTRÄCKNING@p, GLAS)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:41 CEST -->

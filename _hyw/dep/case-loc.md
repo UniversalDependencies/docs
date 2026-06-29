@@ -38,4 +38,4 @@ it receives the [obl]() relation (but retains the tag `ADP`).
 7	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:18 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:35 CEST -->

@@ -41,4 +41,4 @@ _მესამედი_ 'a third part', _მეექუსედე_ 'a six 
 
 * _ორჯერ_ 'twice', _სამჯერ_ 'three times' etc.
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:42 CEST -->

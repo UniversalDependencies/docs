@@ -29,4 +29,4 @@ Ich wasche mir dir Hände . \n I wash my hands .
 obl(wasche, mir)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:06 CEST -->

@@ -16,4 +16,4 @@ common noun: _გრ. (ɡr.)_ 'gram' etc.
 proper noun: _აშშ (ɑʃʃ)_ 'United State of America' etc.
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:05 CEST -->

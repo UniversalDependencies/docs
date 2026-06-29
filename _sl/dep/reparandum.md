@@ -61,4 +61,4 @@ reparandum(how-8,h-)
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:54 CEST -->

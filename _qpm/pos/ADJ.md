@@ -74,4 +74,4 @@ The comparative and superlative degree of adjectives is formed with the adverbs 
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:50 CEST -->

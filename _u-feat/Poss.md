@@ -31,4 +31,4 @@ means that empty value has the `No` meaning.)
 * [en] _my, your, his, mine, yours, whose_
 * [cs] possessive determiners: _můj, tvůj, jeho, její, náš, váš, svůj, čí, jejichž_
 * [cs] possessive adjectives: _otcův_ "father's", _matčin_ "mother's"
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:51 CEST -->

@@ -20,4 +20,4 @@ udver: '2'
 
 * _китабыбыз_ "our book" `Number[psor]=Plur|Number=Sing`
 * _китапларыбыз_ "our books" `Number[psor]=Plur|Number=Plur`
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:23 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:40 CEST -->

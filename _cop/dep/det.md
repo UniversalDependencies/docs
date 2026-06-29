@@ -63,4 +63,4 @@ acl(ⲛ,ⲟⲩⲁⲁⲃ)
 mark(ⲟⲩⲁⲁⲃ,ⲉⲧ-7)
 obl(ϣⲟⲟⲡ,ⲛ)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:57 CEST -->

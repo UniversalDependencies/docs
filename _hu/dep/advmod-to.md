@@ -44,4 +44,4 @@ conj(kerülnek, tartják)
 punct(szabályozott, .-19)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:08 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:24 CEST -->

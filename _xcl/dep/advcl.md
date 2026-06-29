@@ -20,4 +20,4 @@ According to the current UD guidelines, optional depictives are also tagged as [
 advcl(Գնաց, միայն)
 advcl(departed, alone)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:11 CEST -->

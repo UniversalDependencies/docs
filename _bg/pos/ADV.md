@@ -55,4 +55,4 @@ Another adverbial numeral that goes under `ADV` is Md#:
 - _малко_ /_malko_ "little"
 
 Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:51 CEST -->

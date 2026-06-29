@@ -16,4 +16,4 @@ reparandum(Κατερίνα, καρδερ-)
 det(καρδερ-, η-2)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:54 CEST -->

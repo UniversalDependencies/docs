@@ -57,4 +57,4 @@ mark(okumazsan, Eğer)
 advcl(öğrenemezsin, okumazsan)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:16 CEST -->

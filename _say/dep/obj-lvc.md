@@ -15,4 +15,4 @@ obj:lvc(do,research)
 See examples in [UD_Zaar-Autogramm](http://match.grew.fr/?corpus=UD_Zaar-Autogramm@conv&relation=obj:lvc).
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:18 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:36 CEST -->

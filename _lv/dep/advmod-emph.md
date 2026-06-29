@@ -15,4 +15,4 @@ case(filozofiem, par)
 xcomp(kļūst, filozofiem)
 punct(kļūst,.)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:04 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:20 CEST -->

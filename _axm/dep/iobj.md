@@ -57,4 +57,4 @@ the simple ditransitive case:
 8	՞	՞	PUNCT	_	_	7	punct	_	_
 9	ես	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:12 CEST -->

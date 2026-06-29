@@ -18,4 +18,4 @@ The tag VERB is reserved for full lexical verbs, while auxiliary verbs are tagge
 
 - Complete: _<b>daramat</b>_ "(I) <b>carry</b> (it)", _<b>dakarkio</b>_ "(he) <b>brings</b>(present-tense) (it) (to him)"
 - Incomplete: _<b>ekarri</b> du(AUX)_ "<b>carry</b> him-it-present-tense(AUX)", 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:02 CEST -->

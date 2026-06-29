@@ -21,4 +21,4 @@ appos(Sebastian, kusin)
 Svensk Kärnbränslehantering AB , SKB \n Swedish Nuclear Fuel and Waste Management Company (SKB)
 appos(AB, SKB)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:27 CEST -->

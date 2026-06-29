@@ -91,4 +91,4 @@ The `PunctType` feature applies to [punctuation](_oge/pos/PUNCT).
 * _჻_ და იყო სიტყუაჲ უფლისაჲ მისა მიმართ. ჻ და წარვიდა იგი გალილეად. And the word of the Lord came to him. ჻ And he went to Galilee.
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:54 CEST -->

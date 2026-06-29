@@ -20,4 +20,4 @@ punct(мянемс-3, .-5)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:31 CEST -->

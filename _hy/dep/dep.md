@@ -32,4 +32,4 @@ dep(year, in)
 ~~~
 
 For more details see the [tokenization page](http://universaldependencies.org/hy/tokenization.html).
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:54 CEST -->

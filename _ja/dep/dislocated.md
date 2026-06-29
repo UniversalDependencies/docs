@@ -18,4 +18,4 @@ case(鼻, が)
 nsubj(長い, 鼻)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:46 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:02 CEST -->

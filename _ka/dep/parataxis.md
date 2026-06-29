@@ -34,4 +34,4 @@ parataxis(დასრულდა, დარბაზში)
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:48 CEST -->

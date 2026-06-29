@@ -20,4 +20,4 @@ cc(forty, and)
 conj(one_thousand, forty)
 nummod(one_thousand, year)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:10 CEST -->

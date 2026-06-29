@@ -90,4 +90,4 @@ _bir_.
 
 * _bir_ "a"
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:53 CEST -->

@@ -22,4 +22,4 @@ Boolean feature. Is this a foreign word?
 #### Examples
 
 * _Voy a hacer hiking este fin de semana._ "I'm going to go hiking this weekend."
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:23 CEST -->

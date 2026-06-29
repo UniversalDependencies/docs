@@ -17,4 +17,4 @@ The dependent of an `acl:relcl` relation is a relative clause.
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:09 CEST -->

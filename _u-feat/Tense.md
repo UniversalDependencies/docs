@@ -147,4 +147,4 @@ perfect) is constructed analytically. It applies e.g. to Portuguese.
 #### Examples
 
 * [pt] _afirmou que os sequestradores já <b>ligaram</b>_ “he said that the kidnappers had already called”
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:01 CEST -->

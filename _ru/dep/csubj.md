@@ -25,4 +25,4 @@ csubj:pass(решено, платить)
 csubj(decided, to-pay)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:35 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:51 CEST -->

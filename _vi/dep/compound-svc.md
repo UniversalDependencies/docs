@@ -15,4 +15,4 @@ nsubj(đi, Cô)
 punct(đi, 。)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:30 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:46 CEST -->

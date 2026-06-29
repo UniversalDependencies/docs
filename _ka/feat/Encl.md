@@ -27,4 +27,4 @@ The `Encl` feature applies to all parts of speech.
 
 * _დღეს<b>ვე</b>_ 'already today'
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:20 CEST -->

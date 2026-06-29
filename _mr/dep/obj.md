@@ -23,4 +23,4 @@ obj(सांगतो, मुलाला)
 obj(tell, boy)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:34 CEST -->

@@ -80,4 +80,4 @@ Patronymics
 
 * _Авдеевич_ “Avdeevich"
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:33 CEST -->

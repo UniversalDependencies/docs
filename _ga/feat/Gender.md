@@ -24,4 +24,4 @@ In general, words ending in a slender consonant are feminine. Exceptions include
 
 * _Éire_ "Ireland"
 * _néaróga_ "nerves"
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:23 CEST -->

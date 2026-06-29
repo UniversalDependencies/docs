@@ -65,4 +65,4 @@ The Ruuli progressive is compatible with dynamic, stative, and punctual verbs.
 
 * _n<b>ku</b>nyumirwa_ "I am enjoying"
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:08 CEST -->

@@ -136,4 +136,4 @@ xcomp(mėgsti, plaukioti)
 ccomp(said, like)
 xcomp(like, swimming)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:57 CEST -->

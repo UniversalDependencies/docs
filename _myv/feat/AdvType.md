@@ -60,4 +60,4 @@ udver: '2'
 
 * _<b>Ней</b> а марявить косот бандитнэ?_ “Don't we know where the bandits are <b>now</b>?”
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:06 CEST -->

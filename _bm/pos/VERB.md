@@ -11,4 +11,4 @@ Note that the `VERB` tag covers main verbs _(content verbs)_, verbal _copulas_, 
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:02 CEST -->

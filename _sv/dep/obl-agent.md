@@ -15,4 +15,4 @@ nsubj:pass(hotas, Samhällsordningen)
 amod(revolution, social)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:38 CEST -->

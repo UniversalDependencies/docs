@@ -38,4 +38,4 @@ This feature marks person agreement of the verb with the indirect object or of p
 * [ab] _и-еиба-дыр-ит_ [DO.3-Subj.Rec-know-Aor] ‘they got acquainted with each other (they knew each other)’ `Dyn=Yes|Person[obj]=3|Person[subj]=Rec|Tense=Aor|Trans=Yes|VerbForm=Fin`
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:48 CEST -->

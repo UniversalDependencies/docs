@@ -24,4 +24,4 @@ vocative(easy, Guys)
 compound:lvc(թեթև, տարեք)
 compound:lvc(easy, take-it)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:56 CEST -->

@@ -29,4 +29,4 @@ case(գաւառաւք, շուրջ)
 fixed(որպէս, զի)
 mark(փառաւորեսցին, որպէս)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:08 CEST -->

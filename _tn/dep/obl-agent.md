@@ -13,4 +13,4 @@ obl:agent(kwadilwe, mang)
 obl:agent(wrote, who)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:38 CEST -->

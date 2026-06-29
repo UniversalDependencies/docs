@@ -24,4 +24,4 @@ nummod(здыйсэ-8, ниле-7)
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:24 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:41 CEST -->

@@ -18,4 +18,4 @@ obj(tặng, hoa)
 punct(tặng, 。)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:13 CEST -->

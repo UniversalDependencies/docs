@@ -14,4 +14,4 @@ In UD_Classical_Armenian-CAVaL, `X` is used for code-switching where it is not m
 ### Examples
 
 * Եւ զինն ժամաւն գոչեաց Յիսուս ի ձայն մեծ եւ ասէ՝ <b>էղի, էղի, ղամա սաբաքթանի</b>՝ այսինքն է Աստուած իմ, Աստուած իմ, ընդէ՞ր թողեր զիս: / _Ew zinn žamawn goč῾eac῾ Yisows i jayn mec ew asē՝ <b>ēłi, ēłi, łama sabak῾t῾ani</b>՝ aysink῾n ē Astowac im, Astowac im, əndē՞r t῾ołer zis:_ “And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me.”
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:04 CEST -->

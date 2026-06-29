@@ -30,4 +30,4 @@ nsubj(ϣⲁϫⲉ, ⲓ)
 nmod(ϣⲁⲭⲉ, ⲉⲣⲟ)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:15 CEST -->

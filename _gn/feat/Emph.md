@@ -23,4 +23,4 @@ Affirmative emphatic _ne_
 
 * _<b></b>&nbsp;_ “”
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:20 CEST -->

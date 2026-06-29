@@ -46,4 +46,4 @@ a language-specific feature (under the name `Evidentiality`) in UD v1 for Turkis
 
 * Aikhenvald, Alexandra Y. 2004. Evidentiality. Oxford: Oxford University Press.
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:21 CEST -->

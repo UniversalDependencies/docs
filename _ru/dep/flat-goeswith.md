@@ -21,4 +21,4 @@ flat:goeswith(жди, По)
 flat:goeswith(гликемический, Гипо)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:10 CEST -->

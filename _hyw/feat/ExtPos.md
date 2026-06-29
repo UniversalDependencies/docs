@@ -107,4 +107,4 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 
 * _<b>ափսոս որ</b>_ (a multiword interjection paraphrasable as “...”; the first node is [INTJ]())
   
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:04 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:21 CEST -->

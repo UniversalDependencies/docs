@@ -23,4 +23,4 @@ As a special case of interjections, we recognize feedback particles such as _ա�
 - _ծօ՛/çò_ “hey, you there (to a boy)”
 - _հօ՜յ_/_hòy_ “jee, gee”
 - _ամա՜ն_/_aman_ “gah, dear me”
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:55 CEST -->

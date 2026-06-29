@@ -12,4 +12,4 @@ Pedro habla demasiado rápido . \n Pedro speaks too fast .
 advmod(habla, rápido)
 advmod(rápido, demasiado)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:18 CEST -->

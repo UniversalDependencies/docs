@@ -52,4 +52,4 @@ The pluperfect denotes action that happened before another action in past (it is
 * _Khaliuh jaa kathie majaa rue bu di <b>chokla ha</b> matamda_ "The thieves cursed each other when **they were arrested**."
 
 * _Hai khap gase di mari da <b>sam ha</b>_ "This hook is **made** of iron."
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:00 CEST -->

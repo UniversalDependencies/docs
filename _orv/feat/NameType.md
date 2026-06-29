@@ -95,4 +95,4 @@ Names of individual pet animals, talking animals in fiction, etc.
 
 * _<b>Мурка</b>_  
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:16 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:33 CEST -->

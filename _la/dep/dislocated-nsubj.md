@@ -24,4 +24,4 @@ nsubj(he-will-teach,that)
 <u>Note:</u> in general, the dislocated element does not need to be of the same form as the corresponding argument appearing in the matrix clause, and there can be alternation between clausal and nominal realisations. The subtype of `dislocated` depends on the type of the dislocated element, not on that of the argument in the matrix clause.  
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:04 CEST -->

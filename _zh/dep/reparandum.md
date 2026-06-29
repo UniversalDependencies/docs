@@ -57,4 +57,4 @@ The `reparandum` relation is used for disfluencies that are subsequently repaire
 6	then."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:54 CEST -->

@@ -26,4 +26,4 @@ compound:prt(delte,ut)
 **References**
 Kari Kinn, Per Erik Solberg and Pål Kristian Eriksen. "[NDT Guidelines for Morphological Annotation](http://www.nb.no/sbfil/dok/20140314_guidelines_ndt_english.pdf)". National Library Tech Report.
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:28 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:45 CEST -->

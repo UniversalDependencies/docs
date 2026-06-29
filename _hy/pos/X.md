@@ -18,4 +18,4 @@ Note that the articles, prepositions in foreign names (_դը, դե, դ՚, ֆոն
 ### Examples
 
 - _Եվ ապա նա պարզապես <b>xfgh pdl jklw</b>։_ “And then he just <b>xfgh pdl jklw</b>”
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:03 CEST -->

@@ -13,4 +13,4 @@ flat:foreign(Small-1,is-2)
 flat:foreign(Small-1,beautiful-3)
 xcomp(heter-8,Small-1)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:09 CEST -->

@@ -15,4 +15,4 @@ det(kutyája, a)
 nmod:att(kutyája, fiú)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:03 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:19 CEST -->

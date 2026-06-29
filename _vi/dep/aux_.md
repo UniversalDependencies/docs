@@ -18,4 +18,4 @@ nsubj(đi, Tôi)
 punct(đi, 。)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:29 CEST -->

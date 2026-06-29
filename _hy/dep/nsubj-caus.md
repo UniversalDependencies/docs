@@ -21,4 +21,4 @@ obj(buy, a-doll)
 ~~~
 
 For more details see [specific-syntax](http://universaldependencies.org/hy/overview/specific-syntax.html).
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:10 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:27 CEST -->

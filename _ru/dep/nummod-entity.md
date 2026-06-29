@@ -13,4 +13,4 @@ nummod:entity(room, number)
 nummod(number, five)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:15 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:33 CEST -->

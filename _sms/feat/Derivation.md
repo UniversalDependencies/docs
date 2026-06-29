@@ -36,4 +36,4 @@ Produces converbs indicating ongoing activity
 * [sms] _vueʹtǩǩmen_ "pealing [bark]"
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:18 CEST -->

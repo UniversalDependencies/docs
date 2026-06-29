@@ -20,4 +20,4 @@ Kennedy a été assassiné \n Kennedy has been murdered
 aux:pass(assassiné, été)
 aux(assassiné, a)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:15 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:31 CEST -->

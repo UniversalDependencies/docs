@@ -31,4 +31,4 @@ Resultative, subject, and past participles are word forms that share properties 
 - _<b>նախշող</b> վարպետ_/_<b>naxšoġ</b> varpet_ “a master of ornamentation”
 - _<b>ծաղկեալ</b> ծառ_/_<b>çaġkeal</b> çaṙ_ “a tree in bloom”
 - _<b>լոկցեալ</b> է ի թթու ջուր_/_<b>lokc’eal</b> ē i t’t’ow ǰowr_ “He has bathed in sour water”
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:30 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:49 CEST -->

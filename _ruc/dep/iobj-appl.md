@@ -16,4 +16,4 @@ iobj:appl(they_gather_for, people)
 obj(basondereku, emere)
 obj(they_gather_for, food)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:14 CEST -->

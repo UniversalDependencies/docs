@@ -14,4 +14,4 @@ cop(piggvar, er)
 
 Note that there are occurrences of *være* "to be" which do not give rise to a copula analysis, such as in cleft constructions (see [expl](expl)).
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:49 CEST -->

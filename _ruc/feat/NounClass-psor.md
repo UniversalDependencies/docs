@@ -250,4 +250,4 @@ This class is used to form augmentative plural nouns. The corresponding singular
 * _omusaayi gwa-<b>go</b>_<br>
   NC3.blood NC3.PSED-**NC22.PSOR**<br>
   "**their** blood" (e.g. of large animals; _gasolo_ 'large animals (NC22)')
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:36 CEST -->

@@ -24,4 +24,4 @@ Verb:	Main verb
 - main verbs: _ვახარებ (vɑxɑrɛb)_ 'I make someone happy', _ვაკენქ (vɑkʼɛnk)_ 'I hold'
 - participles: _მალიმური (malimuri)_ 'fought', _მაგორუუ (magoruu)_ 'searched'
 - masdars: _ჯინა (d͡ʒinɑ)_ 'watching', _ჯღონა (d͡ʒɣɔnɑ)_ 'sending'
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:03 CEST -->

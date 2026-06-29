@@ -16,4 +16,4 @@ Note that only the last part may be annotated with `SpaceAfter=No`.
 goeswith(тдышаться, о)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:12 CEST -->

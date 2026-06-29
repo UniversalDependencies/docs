@@ -26,4 +26,4 @@ The car is red .
 nsubj(red, car)
 ~~~
 -->
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:09 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:26 CEST -->

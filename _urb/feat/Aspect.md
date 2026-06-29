@@ -45,4 +45,4 @@ Frustrative in Ka'apor is marked by particle "tipe"
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:09 CEST -->

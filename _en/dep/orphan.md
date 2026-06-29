@@ -55,4 +55,4 @@ advmod(will-7, too-8)
 ~~~
 
 See further discussion of [ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis).
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:30 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:47 CEST -->

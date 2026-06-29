@@ -68,4 +68,4 @@ Jensen, Hans. 1959. _Altarmenische Grammatik._ Heidelberg: Winter.
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
 
 Weitenberg, Jos. 1986. Infinitive and participle in Armenian. _Annual of Armenian linguistics_ 7: 1‒26.
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:04 CEST -->

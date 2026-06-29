@@ -48,4 +48,4 @@ The plural denotes more than one person, animal, or thing.
 * *ani* "we (more than two)",  *hani* "you (more than two)"
 * *ukhaʔnok* "they (more than two) are going"
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:36 CEST -->

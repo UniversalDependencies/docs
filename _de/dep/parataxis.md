@@ -26,4 +26,4 @@ parataxis(Fritz, CDU)
 Du hast es gesehen , oder ?
 parataxis(gesehen, oder)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:48 CEST -->

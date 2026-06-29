@@ -17,4 +17,4 @@ Punctuation marks are non-alphabetical characters and character groups used to d
 
 * Parentheses: _<b>()[]</b>_
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:01 CEST -->

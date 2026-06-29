@@ -17,4 +17,4 @@ proper noun: _აშშ_ 'United State of America'
 adverb: _ა.შ._ 'etc.'
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:47 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:05 CEST -->

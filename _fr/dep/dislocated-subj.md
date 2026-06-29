@@ -14,4 +14,4 @@ dislocated:subj(long, avion)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:05 CEST -->

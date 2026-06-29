@@ -59,4 +59,4 @@ There are no indefinite articles in Irish, however some nouns may inflect to sho
 * _a gcuid uibheacha_ "her eggs"
 * _as láimh_ "out of hand"
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:58 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:16 CEST -->

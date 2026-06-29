@@ -26,4 +26,4 @@ Araba aşırı sıcaktan bozulmuş . \n The car was broken by extreme heat
 obl:agent(bozulmuş, sıcaktan)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:39 CEST -->

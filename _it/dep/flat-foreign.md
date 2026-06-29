@@ -26,4 +26,4 @@ flat:foreign(c', est)
 flat:foreign(c', très)
 flat:foreign(c', facile)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:09 CEST -->

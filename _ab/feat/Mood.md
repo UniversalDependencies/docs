@@ -72,4 +72,4 @@ It is different from the Conditional 2 Tense.
 
 * [ab] _у-ҧш-<b>уазҭ.гьы</b>_ [Subj.2SgM-look-<b>Cnd2</b>] ‘(even) if you look’ `Dyn=Yes|Gender[subj]=Masc|Mood=Cnd2|Number[subj]=Sing|Person[subj]=2|Tense=Pres|Trans=No|VerbForm=NonFin`
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:31 CEST -->

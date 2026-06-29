@@ -13,4 +13,4 @@ This feature takes the following values: Cmp, Sup.
 
 #### Example
 Some examples of the feature and its use.
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:17 CEST -->

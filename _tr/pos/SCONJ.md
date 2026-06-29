@@ -25,4 +25,4 @@ For _coordinating conjunctions,_ see [CCONJ]().
 - _<b>Madem</b> gelmeyecekti söylemeliydi_ "He should have told <b>if</b> he wasn't coming".
 - _Oraya vardın <b>mı</b>, denizi göreceksin_ "You will see the sea <b>when</b> you arrive there"
 - _Çok çalıştım <b>da</b> kazandım_ "I worked hard <b>in order to</b> win" / "I won <b>by</b> working hard"
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:43 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:02 CEST -->

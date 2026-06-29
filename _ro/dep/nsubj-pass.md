@@ -12,4 +12,4 @@ Cântecul a fost compus de interpret . \n Song-the has been composed by singer .
 nsubj:pass(compus, Cântecul)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:30 CEST -->

@@ -13,4 +13,4 @@ aux:neg(politika, mhix)
 aux:neg(kwistjoni, mhix)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:15 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:31 CEST -->

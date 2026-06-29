@@ -12,4 +12,4 @@ tak / ʔeːgirim // ʔajaːj tak -i iː- fi =t amsi iraːnaj rh -i / oː= kina /
 text_en: "There was an old man of my family and, gosh! I even saw him today."
 advmod(rh, amsi) ("see", "today")
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:17 CEST -->

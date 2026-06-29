@@ -37,4 +37,4 @@ appos(December, season)
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:27 CEST -->

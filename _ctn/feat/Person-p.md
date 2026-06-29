@@ -33,4 +33,4 @@ In Chintang, (di)transitive [VERB]() overtly mark [Number]() and [Person]() agre
 #### Examples
 
 * *ukhaguce* "they saw them"
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:30 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:47 CEST -->

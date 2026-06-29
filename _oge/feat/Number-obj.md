@@ -26,4 +26,4 @@ udver: '2'
 #### Examples
 
 * _გუპოვებს_ 'he/she finds us', _გუხატავს_ 'he/she draws us' etc.
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:22 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:39 CEST -->

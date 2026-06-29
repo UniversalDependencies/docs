@@ -28,4 +28,4 @@ Note that Middle Armenian possessive pronouns have a distinct inflectional parad
 - indefinite pronouns: _մարդ_/_mard_ “one, someone”, _ոք_/_ok’_ “one, someone”, _մէկ մի_/_mēk mi_ “one, any”, _այլ_/_ayl_ “other”, _մէկայլ_/_mēkayl_ “another”
 - total pronouns: _ամէն_/_amēn_, _ամէն մէկ_/_amēn mēk_ “all (of things)/all (of people), everyone”
 - negative pronouns: _ոչ ով_/_oč ov_, _ոչինչ_/_očinč_, _ոչ որ_/_oč or_ “nobody, nothing, no one”
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:58 CEST -->

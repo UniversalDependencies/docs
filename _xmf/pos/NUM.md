@@ -26,4 +26,4 @@ Num:	Numeral
 - multiple numerals: _ოთხონ (otʻxon)_ 'four times' etc.
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:57 CEST -->

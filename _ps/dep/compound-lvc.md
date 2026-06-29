@@ -10,4 +10,4 @@ In light verb constructions,  a semantically bleached light verb combines with a
 #### Examples
 ~~~ sdparse
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:27 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:43 CEST -->

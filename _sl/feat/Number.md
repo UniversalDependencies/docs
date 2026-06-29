@@ -39,4 +39,4 @@ Slovenian distinguishes three `Number` values: `singular`, `dual` and `plural`. 
 ### Conversion from JOS
 
 All tokens with feature Number=singular are converted to `Number=Sing`, all tokens with Number=dual are converted to `Number=Dual` and all tokens with Number=plural are converted to `Number=Plur`.
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:20 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:37 CEST -->

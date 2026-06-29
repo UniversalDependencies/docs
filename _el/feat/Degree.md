@@ -126,4 +126,4 @@ All affixation cases are assigned the lemma of the original word and the feature
 	* _χιλιο-ταλαιπωρημένος_ / _chiliotalaiporimenos_ "exhausted, worn out" 
 	
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:16 CEST -->

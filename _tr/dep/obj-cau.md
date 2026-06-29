@@ -27,4 +27,4 @@ obj:cau(sevindirdi, herkesi)
 obj:cau(kolaylaştırdı, dersi)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:18 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:35 CEST -->

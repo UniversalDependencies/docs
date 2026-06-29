@@ -25,4 +25,4 @@ the [tokenization page](http://universaldependencies.org/hy/tokenization.html)).
 -	Question mark։ _<b>՞</b>_
 -	Emphasis mark, Acute accent: _<b>՛</b>_
 -	Аpostrophe mark: _<b>'</b>_
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:00 CEST -->

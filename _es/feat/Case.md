@@ -85,4 +85,4 @@ structure.
 #### References
 
 * REAL ACADEMIA ESPAÑOLA (2009): Nueva gramática de la lengua española. Madrid: Espasa.
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:10 CEST -->

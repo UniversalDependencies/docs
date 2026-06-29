@@ -28,4 +28,4 @@ dislocated(I_like, Elderly_person)
 obj(mmwendya, yee)
 obj(I_like, he)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:46 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:03 CEST -->

@@ -22,4 +22,4 @@ obl:subj(3-3-see, woman)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:26 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:44 CEST -->

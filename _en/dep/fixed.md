@@ -588,4 +588,4 @@ mark(leave, to)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:07 CEST -->

@@ -25,4 +25,4 @@ The feature `Poss` is similar to the feature [`Rel`](https://github.com/Universa
 * _<b>ukaz</b>&nbsp;_ “trap”
 * _<b>nerukaz</b>&nbsp;_ “your trap” (2.POSS-Cont-hand)
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:50 CEST -->

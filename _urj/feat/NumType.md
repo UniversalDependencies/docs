@@ -10,4 +10,4 @@ udver: '2'
 Numeral types are used for numeric expressions. The Uralic numtypes work along
 universal guidelines.
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:42 CEST -->

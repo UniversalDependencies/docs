@@ -88,4 +88,4 @@ xcomp(έκανε, αγνώριστο)
 ~~~
 
 For other optional secondary predicates of an adverbial nature, see [advcl](el-dep/advcl).
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:56 CEST -->

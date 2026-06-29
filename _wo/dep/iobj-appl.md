@@ -18,4 +18,4 @@ det(jën, wi)
 punct(toggal, .-6)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:14 CEST -->

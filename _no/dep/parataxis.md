@@ -19,4 +19,4 @@ Jeg skjønner den ikke men antar at den er kjempemorsom ( ironi ) \n I don't und
 parataxis(skjønner,ironi)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:49 CEST -->

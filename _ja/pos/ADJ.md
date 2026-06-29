@@ -44,4 +44,4 @@ but the other adnimonal words are tagged [ADJ]() (e.g. _同じ&nbsp;_ “same”
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adjective?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAdjective.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Adjective)
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:30 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:49 CEST -->

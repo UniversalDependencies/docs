@@ -15,4 +15,4 @@ Other subcategories marked with `X` include abbreviations with dots (_dr._), URL
 #### Conversion from JOS
 
 All tokens with tag Residual are converted to `X`. Additionally, all abreviations are also converted to `X`.
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:04 CEST -->

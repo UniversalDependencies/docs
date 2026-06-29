@@ -18,4 +18,4 @@ F: Punctuation marks
 Period: _<b>.</b>_
 Comma: _<b>,</b>_
 Parentheses: _<b>(</b>_, _<b>)</b>_
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:00 CEST -->

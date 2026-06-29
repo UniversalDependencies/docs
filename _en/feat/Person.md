@@ -46,4 +46,4 @@ Additionally, it is used for verbs that require a third person singular subject 
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:27 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:45 CEST -->

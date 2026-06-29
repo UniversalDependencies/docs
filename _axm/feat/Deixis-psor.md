@@ -44,4 +44,4 @@ The entity is far away from the reference point (e.g., from the speaker).
 * _երբ այս ազգ օձս խայթէ զմարդն, նայ հանց ցաւէ խիստ, որ այլազգ օձոյն<b>ն</b> չցաւէ_/_erb ays azg òjs xayt’ē zmardn, nay hanc’ c’awē xist, or aylazg òjoynn čc’awē_ “When this kind of snake bites a man, it tends to hurt so intensely that the (bite) of other kinds of snakes does not hurt ([in such a way)”
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:00 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:18 CEST -->

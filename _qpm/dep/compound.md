@@ -16,4 +16,4 @@ Hamdi.PROPN star.ADJ
 compound(Hamdí, star)
 punct(Hamdí, -)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:41 CEST -->

@@ -18,4 +18,4 @@ we use `aux:neg` for all forms and uses of the negative auxiliary paradigm and p
 aux:neg(tiõrvâs, jiõk)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:15 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:31 CEST -->

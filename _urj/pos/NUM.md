@@ -22,4 +22,4 @@ consider following:
 * [fi] _3_, _20_, _3.14_
 * [fi] _pari_ "few, a couple of"
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:57 CEST -->

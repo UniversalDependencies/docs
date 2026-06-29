@@ -17,4 +17,4 @@ An adjectival modifier of a noun (or pronoun) is any adjectival phrase that serv
 2	TIPO	_	NOUN	N	_	0	root	_	Gloss=TYPE
 3	DIFERENTE	_	ADJ	Adj	_	2	amod	_	Gloss=DIFFERENT
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:10 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:26 CEST -->

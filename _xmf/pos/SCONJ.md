@@ -21,4 +21,4 @@ Conj Subord: Subordinative conjunction
 
 _-და (-da)_ 'and'
 _-ნი (-ni)_ 'that'
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:43 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:02 CEST -->

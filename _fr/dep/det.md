@@ -29,4 +29,4 @@ Possessive determiners are marked as `det` in French (unlike the English data wh
 Mon ami  \n My friend
 det(ami, Mon)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:57 CEST -->

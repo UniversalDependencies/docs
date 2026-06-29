@@ -86,4 +86,4 @@ The relevant documentation for Pomak is available.
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:49 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:05 CEST -->

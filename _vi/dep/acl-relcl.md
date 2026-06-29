@@ -18,4 +18,4 @@ nsubj(yêu, bạn)
 punct(thấy, 。)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:10 CEST -->

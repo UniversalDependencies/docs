@@ -31,4 +31,4 @@ The exact delimitation of auxiliaries in Swedish is not completely clear-cut, es
 - Modal auxiliary: _böra_, _kunna_, _måste_, _skola_, _vilja_, _må_, _torde_, _lär_, _få_, _behöva_
 - Passive auxiliary: _bli_
 - Copula: _vara_
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:53 CEST -->

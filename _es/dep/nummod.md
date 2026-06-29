@@ -15,4 +15,4 @@ nummod(espacios, dos)
 15 años \n 15 years
 nummod(años, 15)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:32 CEST -->

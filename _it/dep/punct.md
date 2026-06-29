@@ -47,4 +47,4 @@ punct(muovevano, ,-4)
 punct(muovevano, ,-8)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:53 CEST -->

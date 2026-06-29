@@ -13,4 +13,4 @@ cc(left, And)
 ~~~
 
 See also: [conj](); [cc:preconj]()
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:36 CEST -->

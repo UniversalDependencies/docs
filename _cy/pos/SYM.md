@@ -10,4 +10,4 @@ A symbol is a word-like entity that differs from ordinary words by form, functio
 * $, €, %, §, ©
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:43 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:02 CEST -->

@@ -38,4 +38,4 @@ Note that in Middle Armenian relative clauses get assigned a specific relation [
 This relation is not used for optional depictives.
 See [xcomp]() for further discussion.
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:06 CEST -->

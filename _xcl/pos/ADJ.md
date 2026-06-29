@@ -46,4 +46,4 @@ Klein, Jared. 2017. The syntax of Armenian. In: Jared Klein et al. (eds.), Handb
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
 
 Meillet, Antoine. 1962. _Études de linguistique et de philologie arméniennes. I: Recherches sur la syntaxe comparée de l'arménien. Suivies de la composition en arménien._ Lisbonne: Imprensa Nacional de Lisboa.
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:50 CEST -->

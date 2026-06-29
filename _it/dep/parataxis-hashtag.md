@@ -18,4 +18,4 @@ nsubj(critica, #Ferrara)
 obj(critica, #Grillo)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:50 CEST -->

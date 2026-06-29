@@ -13,4 +13,4 @@ In the example below, *that she lied* is the subject.
 That she lied was suspected by everyone
 csubj:pass(suspected, lied)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:53 CEST -->

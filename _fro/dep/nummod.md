@@ -19,4 +19,4 @@ A numeric modifier of a noun, or `nummod`, is any number phrase that serves to m
 4	jorz	_	NOUN	NOMcom	_	2	obl	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:32 CEST -->

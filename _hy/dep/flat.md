@@ -139,4 +139,4 @@ The `flat` relation is used also for synonymic or antonymic coordinative compoun
 5	մտածելու	մտածել	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	6	obl	_	Translit=mtaçelow|LTranslit=mtaçel
 6	առա	առնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=aṙa|LTranslit=aṙnel|SpaceAfter=No
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:08 CEST -->

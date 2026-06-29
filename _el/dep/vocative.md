@@ -25,4 +25,4 @@ TODO
 vocative(έχετε, Πρόεδρε)
 ~~~
 -->
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:55 CEST -->

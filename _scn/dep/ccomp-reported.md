@@ -11,4 +11,4 @@ This subtypes is used to mark reported speech.
 e dissi: -"Sugnu cu Lillu
 ccomp:reported(dissi, Lillu)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:23 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:40 CEST -->

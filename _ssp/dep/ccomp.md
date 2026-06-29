@@ -21,4 +21,4 @@ A clausal complement of a verb or adjective is a dependent clause where the subj
 5	AGUA	_	NOUN	N	_	6	obj	_	Gloss=WATER
 6	LLENAR(MP)	_	VERB	V	_	3	ccomp	_	Gloss=FILL(PH)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:37 CEST -->

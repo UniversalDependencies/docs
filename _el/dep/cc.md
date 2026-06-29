@@ -45,4 +45,4 @@ cc(εφαρμόστηκε, και)
 ~~~
 
 For more on coordination, see the [conj]() relation.
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:35 CEST -->

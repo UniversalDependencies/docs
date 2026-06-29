@@ -59,4 +59,4 @@ The finer-grained value of this marker is annotated as [NounClass[obj]]().
 * _mu-<b>ba</b>-yamba_<br>
   2pl.SBJ-**NC2.OBJ**-help<br>
   "you help them"
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:30 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:47 CEST -->

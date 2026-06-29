@@ -31,4 +31,4 @@ feature, [Variant](cs-feat/Variant) (`Variant=Short` denotes the weak, clitic fo
 
 * _<b>mă</b>_ “me”, _<b>te</b>_ “you”, _<b>-l</b>_ “him”, _<b>o</b>_ “her”, _<b>ne</b>_ “us”, _<b>vă</b>_ “you”, _<b>-i, le</b>_ “them”, _<b>să, s-</b>_ “oneself”
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:59 CEST -->

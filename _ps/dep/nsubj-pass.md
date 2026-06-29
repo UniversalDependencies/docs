@@ -10,4 +10,4 @@ A passive nominal subject is a noun phrase which is the syntactic subject of a p
 #### Examples
 ~~~ sdparse
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:30 CEST -->

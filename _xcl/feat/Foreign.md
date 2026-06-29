@@ -23,4 +23,4 @@ This feature would apply to the [X]() part of speech (unanalysable token) and as
 #### Examples
 
 * Ասէ ցնա՝ <b>տաղիթա կումի</b>՝ որ թարգմանի. աղջիկ դու քեզ ասեմ արի: / _Asē cʻna; tałitʻa kowmi; or tʻargmani: ałǰik dow kʻez asem ari_ “He said to her, 'Talitha, kum!', which translated means, 'Little girl, I say to you, get up!'“
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:23 CEST -->

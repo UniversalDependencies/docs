@@ -14,4 +14,4 @@ The `Animacy` feature in Classical Nahuatl is relevant for indefinite possessive
 * _Auh in ihcuac <b>te</b>pan tzatzia, netetzahuiloya_ "Cuando gritaba a <b>alguien</b>, se consideraba agüero."
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:49 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:08 CEST -->

@@ -47,4 +47,4 @@ cc(lose, and)
 
 See [universal/conj](u-dep/conj) for more details on various coordination-related issues.
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:47 CEST -->

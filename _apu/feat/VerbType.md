@@ -15,4 +15,4 @@ This is a subtype of intransitive verbs. The `Vids` value for intranstive descri
 * [apu] _Kutxi aiku kasunakyry._ "_Thus the house was leaky_"
 * [apu] _Kunakamunyry kãkity ãawinhipuku iãtã._ "_There are a lot of people in our community._"
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:04 CEST -->

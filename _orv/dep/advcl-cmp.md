@@ -21,4 +21,4 @@ The cmp subtype is of semantic nature and is used to point out the standards of 
 8	и	и	CCONJ	C-	_	9	cc	_	ref=56.3
 9	грабѧ	грабити	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	7	conj	_	ref=56.3
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:13 CEST -->

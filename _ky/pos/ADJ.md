@@ -24,4 +24,4 @@ dictionaries and grammars.
 - _эски_ "old"
 - _жашыл_ "green"
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:30 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:49 CEST -->

@@ -25,4 +25,4 @@ det(segala, nya)
 nsubj(everything, You)
 cop(everything, are)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:49 CEST -->

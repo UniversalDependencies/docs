@@ -16,4 +16,4 @@ exceptionless.
 * [fi] _Pekka_ first name, _Helsinki_ city name
 * [fi] _EU_ "European Union"
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:00 CEST -->

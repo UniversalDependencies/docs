@@ -13,4 +13,4 @@ zatvóren je poten
 lit:  closed is road-the   
 nsubj:pass(zatvóren, póten)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:13 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:30 CEST -->

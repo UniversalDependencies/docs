@@ -26,4 +26,4 @@ Other pronouns have the feature `Emph=No`
 * _<b>je</b>_ "I" (nominatif)
 * _<b>me</b>_ "I" (accusative or dative)
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:20 CEST -->

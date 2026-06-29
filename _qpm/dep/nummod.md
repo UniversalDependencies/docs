@@ -14,4 +14,4 @@ lit: on him were found three computers
 nummod(kompjúter, tri) 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:15 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:32 CEST -->

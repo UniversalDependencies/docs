@@ -13,4 +13,4 @@ This relation is a subtype of the [nmod]() relation, which captures the cases wh
 2	բաժնէն	բաժին	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Def|Number=Sing	3	nmod:npmod	_	_
 3	մէկն	մէկ	PRON	_	Case=Nom|Definite=Def|PronType=Ind	0	root	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:23 CEST -->

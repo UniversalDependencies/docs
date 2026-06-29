@@ -34,4 +34,4 @@ This value in Middle Armenian is used for non-human animates (incl. animals) and
 
 * _տարի/tari_ “year”, _դարպաս_ “palace, court”, _լեռ_ “mountain”, _ծառ_ “tree”
 * _ձի_ “horse”, _կով_ “cow”, _առուծ_ “lion”, _խաչափար_ “crawfish”, _ձուկ_ “fish”
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:07 CEST -->

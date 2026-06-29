@@ -38,4 +38,4 @@ particle *not*, e.g., *φέρε τον αναπτήρα, όχι τα σπίρτ�
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:49 CEST -->

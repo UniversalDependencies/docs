@@ -15,4 +15,4 @@ Adposition is a cover term for prepositions and postpositions.
 #### References
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=687> (in Finnish)
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:50 CEST -->

@@ -51,4 +51,4 @@ _Ní thugtar íocaíochtaí mura <b>n-iarrtar</b> iad_ `Payments are not given i
 Ní thugtar íocaíochtaí mura n-iarrtar iad \n Not given payments if-not requested them
 advcl(thugtar, n-iarrtar)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:54 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:11 CEST -->

@@ -15,4 +15,4 @@ nsubj(để, Tôi)
 punct(để, 。)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:28 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:45 CEST -->

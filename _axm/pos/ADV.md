@@ -28,4 +28,4 @@ Pronominal adverbs also get the `ADV` part-of-speech tag but they are differenti
 - interrogative adverbs: _ուր/owr_ “where”, _ուստի/owsti_ “where from”, _որչափ/orčap’_ “how many/much”, _ոնց/onc’_ “how”
 - relative: _յայնժամ_/_yaynžam_, _յորժամ_/_yoržam_ “at the time, when”
 - demonstrative adverbs: _աստ_/_ast_ “here”; _աստուստ_/_astowst_ “from here”; _այտի_/_ayti_ “from there”; _հանչաք_/_hančak’_ “that much”, _էնպես/ēnpes_ “so, as, that way”  
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:51 CEST -->

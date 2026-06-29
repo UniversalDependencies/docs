@@ -30,4 +30,4 @@ The `obj:lvc` relation is used for objects complements within light verb constru
 
 ~~~
 'They don’t take note of all the mistakes they were making.'
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:18 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:36 CEST -->

@@ -40,4 +40,4 @@ Note that negative particle _tama_ is also annotated with the `advmod` relation.
 advmod(hā, tama)
 advmod(come, not)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:18 CEST -->

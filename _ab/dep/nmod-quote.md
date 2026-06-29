@@ -19,4 +19,4 @@ The dependent of an `nmod:quote` is a nominal modifier marked with the direct sp
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:08 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:24 CEST -->

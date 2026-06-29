@@ -29,4 +29,4 @@ obj(विकावी, खुर्ची)
 obj(sell-SUBJ-FSG, chair.FSG)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:29 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:46 CEST -->

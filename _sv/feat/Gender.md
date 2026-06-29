@@ -47,4 +47,4 @@ Nouns and other parts of speech that are feminine (grammatically); found only in
 * [sv] _<b>natt</b>_ "night" (feminine nominative singular)
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:24 CEST -->

@@ -13,4 +13,4 @@ vocative(食べ, 太郎)
 aux(食べ, なさい)
 punct(食べ, 。)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:56 CEST -->

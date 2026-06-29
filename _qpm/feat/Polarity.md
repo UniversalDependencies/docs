@@ -44,4 +44,4 @@ and, the detering imperative verb forms.
 * _<b>némot</b> vréme za muhabéte_ "they do not have time for debating" 
 * _itazí go ní kutrí <b>ništé</b> izværavá_ "no one would believe this" 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:32 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:49 CEST -->

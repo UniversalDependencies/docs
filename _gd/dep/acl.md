@@ -144,4 +144,4 @@ _Chan eil teagamh nach robh buaidh mhòr aig an t-seòrsa bàrdachd seo_ 'There 
 11	bàrdachd	bàrdachd	NOUN	Ncsfg	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
 12	seo	seo	DET	Dd	PronType=Art	11	det	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:07 CEST -->

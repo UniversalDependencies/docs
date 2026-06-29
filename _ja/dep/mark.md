@@ -17,4 +17,4 @@ aux(言っ, た)
 punct(言っ, 。)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:16 CEST -->

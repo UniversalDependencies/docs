@@ -18,4 +18,4 @@ case(йӧръяс-7, костті-8)
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:42 CEST -->

@@ -24,4 +24,4 @@ Acronyms of proper nouns, such as _TBMM_ and _NATO_, should be tagged `PROPN`.
 - _Ankara_
 - _NATO_, _BM_, _TBMM_
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:00 CEST -->

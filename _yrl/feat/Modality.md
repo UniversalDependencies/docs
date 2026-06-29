@@ -43,4 +43,4 @@ Hypothetical conditional modality is expressed in present day Nheengatu of the N
 
 * Palmer, F. R. (2001). *Mood and Modality* (2nd ed.). Cambridge: Cambridge University Press.
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:31 CEST -->

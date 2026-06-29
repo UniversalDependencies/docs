@@ -30,4 +30,4 @@ acl(time, rebaixado)
 A Liga de Assistência e Recuperação, órgão ligado à Prefeitura de Salvador, está desenvolvendo um projeto.
 acl(orgão, ligado)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:07 CEST -->

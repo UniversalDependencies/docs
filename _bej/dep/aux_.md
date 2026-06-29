@@ -13,4 +13,4 @@ uːn uː= tak / doːr han kan -aː =ji ki= i- ki / ti= takat hiːs =heːb =ajt /
 text_en: "this man had not even recognized me because he thought I was the woman."
 aux(ki, hiːs) ("think", Perfect)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:12 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:28 CEST -->

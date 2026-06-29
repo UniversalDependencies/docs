@@ -28,4 +28,4 @@ det(kitapları, Bütün)
 Hangi kitabı okudun ? \n Which book did you read
 det(kitabı, Hangi)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:58 CEST -->

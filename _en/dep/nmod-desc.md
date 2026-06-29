@@ -176,4 +176,4 @@ Mirror/PROPN Lake/PROPN
 compound(Lake, Mirror)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:04 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:20 CEST -->

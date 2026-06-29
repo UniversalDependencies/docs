@@ -11,4 +11,4 @@ The `orphan:nsubjobl` relation provides information about the relations of the o
 ~~~ sdparse
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:48 CEST -->

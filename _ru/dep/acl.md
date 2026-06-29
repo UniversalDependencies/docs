@@ -60,4 +60,4 @@ acl:relcl(мужчину, любишь)
 acl:relcl(man, love)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:07 CEST -->

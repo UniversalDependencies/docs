@@ -23,4 +23,4 @@ A plural noun denotes several persons, animals or things.
 
 * [hu] _<b>autók</b>_ “cars”
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:37 CEST -->

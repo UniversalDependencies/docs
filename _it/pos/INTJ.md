@@ -33,4 +33,4 @@ Marked as adverbs:
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:55 CEST -->

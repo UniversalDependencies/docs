@@ -34,4 +34,4 @@ obl(legyen, átlag)
 punct(az-3, .-21)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:22 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:39 CEST -->

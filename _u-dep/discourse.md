@@ -65,4 +65,4 @@ conj(weapon, drink)
 cc(drink, and)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:45 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:01 CEST -->

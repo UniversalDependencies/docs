@@ -24,4 +24,4 @@ Note that there is no `No` value. If the word is not possessive, the
 
 * _I don tire <b>ma</b> sister_ "my sister, I am tired"
 * _<b>dem</b> roof e just dey dere_ "their roofs, they are just there"
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:51 CEST -->

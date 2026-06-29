@@ -27,4 +27,4 @@ refer to the noun) is not annotated in the data.
 
 * _it, its, itself_
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:23 CEST -->

@@ -23,4 +23,4 @@ grammatically feminine, without any relation to sex.
 
 * _<b>nave</b>_ "ship"
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:06 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:24 CEST -->

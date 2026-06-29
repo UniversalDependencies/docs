@@ -44,4 +44,4 @@ speakers nor addressees.
 #### Examples
 - _i-_ (3SG `PRON`)
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:27 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:45 CEST -->

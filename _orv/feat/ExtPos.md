@@ -106,4 +106,4 @@ The multiword parentheticals are also considered as adverb-like expressions.
 
 #### Examples
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:04 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:22 CEST -->

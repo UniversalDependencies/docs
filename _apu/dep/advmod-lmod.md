@@ -13,4 +13,4 @@ advmod:lmod(apukary, era)
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:21 CEST -->

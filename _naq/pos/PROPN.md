@@ -19,4 +19,4 @@ In Khoekhoe proper nouns are generally capitalized. Note that though the names o
 
 * _CIAs, GDRs_ (abbriviations of organizations)
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:00 CEST -->

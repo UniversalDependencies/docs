@@ -40,4 +40,4 @@ acl:relcl(we-dwell,has-pastured)
 * This oblique comparative argument is itself the relative element introducing a relative clause. 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:22 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:40 CEST -->

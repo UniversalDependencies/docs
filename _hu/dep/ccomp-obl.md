@@ -35,4 +35,4 @@ ccomp:obl(tartanak, vezethet)
 punct(tartanak, .-16)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:22 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:38 CEST -->

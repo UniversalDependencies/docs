@@ -24,4 +24,4 @@ case(teda, Pärast)
 
 "No one came after him"
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:17 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:33 CEST -->

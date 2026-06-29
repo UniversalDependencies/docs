@@ -25,4 +25,4 @@ Note, that the additional feature [NameType]() is used to encode the types of na
 
 - _Հեթում/Het’owm_ “Hethum”
 - _Պօլիս/Pòlis_ short for “Constantinople”
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:40 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:59 CEST -->

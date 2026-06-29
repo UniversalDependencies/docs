@@ -12,4 +12,4 @@ A syntactic subject of a causative construction.
 nsubj:caus(Մեծացուսցէ, անձն)
 obj(Մեծացուսցէ, Տէր)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:28 CEST -->

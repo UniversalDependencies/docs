@@ -12,4 +12,4 @@ Ebi likhi lo nɨŋno . \n Stand.CNTF like SURP it_seems .
 advcl:cntf(nɨŋno, Ebi)
 advcl:cntf(it_seems, Stand.CNTF)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:57 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:13 CEST -->

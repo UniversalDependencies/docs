@@ -39,4 +39,4 @@ The `obl:orphan` relation is used in the Polish [PDB-UD](http://universaldepende
 10	nervously	_	_	_	_	_	_	_	_
 11	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:26 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:44 CEST -->

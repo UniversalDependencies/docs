@@ -18,4 +18,4 @@ root(ROOT-7, I-love)
 There is just one node with the `root` dependency relation in every
 tree. 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:55 CEST -->

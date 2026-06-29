@@ -32,4 +32,4 @@ Causatives are marked by the prefix *mu-* on the verb.
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:49 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:06 CEST -->

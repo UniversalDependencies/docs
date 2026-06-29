@@ -13,4 +13,4 @@ advmod:tmod(pĩkare, Inhinhiã)
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:08 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:24 CEST -->

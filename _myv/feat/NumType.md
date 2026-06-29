@@ -84,4 +84,4 @@ This is a subtype of number.
 
 * [myv] _омбонст, колмоценст_ "_second set, third set_"
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:25 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:42 CEST -->

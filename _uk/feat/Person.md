@@ -42,4 +42,4 @@ The third person refers to one or more persons that are neither speakers nor add
 * _<b>робить</b>&nbsp;_ “<b>he/she/it</b> does”
 * _<b>роблять</b>&nbsp;_ “<b>they</b> do”
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:28 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:45 CEST -->

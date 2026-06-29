@@ -119,4 +119,4 @@ In Middle Armenian pronouns do not have `Loc` case. It's also rarely used with n
 
 * _Ձագերն ձայն ածեն <b>յայգին</b>։_/_Jagern jayn açen yaygin_ “(Some animals') young ones are making noise <b>in the garden</b>.”
 * _<b>յաւազանն</b> մտանէ_/_yawazann mtanē_ “he gets <b>into the pool</b>”
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:10 CEST -->

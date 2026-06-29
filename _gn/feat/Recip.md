@@ -26,4 +26,4 @@ Reciprocal
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:54 CEST -->

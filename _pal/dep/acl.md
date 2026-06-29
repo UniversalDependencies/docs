@@ -13,4 +13,4 @@ case(nām, pad)
 det(yazadān, ī)
 nmod(nām, yazadān)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:07 CEST -->

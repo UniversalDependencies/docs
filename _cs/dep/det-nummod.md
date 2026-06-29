@@ -35,4 +35,4 @@ punct(I-do-not-remember, .-21)
 ~~~
 
 See [nummod]() for a broader discussion of the various situations with quantifiers.
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:43 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:59 CEST -->

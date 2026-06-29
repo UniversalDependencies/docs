@@ -67,4 +67,4 @@ The `iobj` relation is used for dative objects of the verb when the verb already
 8	fell	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:13 CEST -->

@@ -51,4 +51,4 @@ The optative mood expresses that the speaker (and possibly other actants as well
 #### Examples
 
 * *Gakkaŋ nisaŋa <b>conena</b>!* "Let your younger brother have it later!"
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:14 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:31 CEST -->

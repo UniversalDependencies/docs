@@ -87,4 +87,4 @@ The iterative aspect denotes a repeated or habitual process. It is expressed by 
 #### Examples
 - _shiː shì yi <b>ta</b> sôm màcce //_ "He keeps loving the woman."
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:08 CEST -->

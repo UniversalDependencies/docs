@@ -19,4 +19,4 @@ compound(университет, канму)
 flat:foreign(международные, отношения)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:09 CEST -->

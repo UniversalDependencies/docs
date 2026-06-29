@@ -12,4 +12,4 @@ adjuncts, which use the plain [obl]() relation.
 oːn hallaːn hasara t= ʔabaː =t =iːb kirif -aː =b =u // \n but I have met them in the valley."
 obl:arg(kirif, ʔabaː) ("cut_off", "river_branch")
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:39 CEST -->

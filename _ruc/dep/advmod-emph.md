@@ -37,4 +37,4 @@ Ate te leka nkukobere … \n And TOP let I_tell_you …
 advmod:emph(leka, te)
 advmod:emph(let, FOC)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:04 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:20 CEST -->

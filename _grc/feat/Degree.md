@@ -51,4 +51,4 @@ set of objects. This corresponds in Ancient Greek to the absolute superlative, w
 
 Smyth, Herbert Weir. 1920. _A Greek Grammar for Colleges_. New York: American Book Company (<a href="http://www.perseus.tufts.edu/hopper/text?doc=Smyth+grammar+1&fromdoc=Perseus%3Atext%3A1999.04.0007" target="_blank">Perseus Digital Library</a>;
 <a href="https://archive.org/details/agreekgrammarfo02smytgoog" target="_blank">Internet Archive</a>).
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:17 CEST -->

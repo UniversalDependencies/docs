@@ -20,4 +20,4 @@ As a special case of interjections, we recognize feedback particles such as _ա�
 - _ա՜հ_/_ah_ “oh”
 - _օհո՜_/_oho_ “wow”
 - _դե՛_/_de_, _դե՛հ_/_deh_ “well”
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:36 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:55 CEST -->

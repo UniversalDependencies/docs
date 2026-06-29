@@ -39,4 +39,4 @@ The `det:numgov` relation is used in the Polish [PDB-UD](http://universaldepende
 12	it	_	_	_	_	_	_	_	_
 13	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:43 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:59 CEST -->

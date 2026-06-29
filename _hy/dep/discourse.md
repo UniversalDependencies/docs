@@ -53,4 +53,4 @@ discourse(grant, 1-9)
 punct(1-9, .-10)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:00 CEST -->

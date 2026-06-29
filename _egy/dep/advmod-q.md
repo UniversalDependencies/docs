@@ -15,4 +15,4 @@ An interrogative adverbial modifier is a word that modifies the root of a senten
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:23 CEST -->

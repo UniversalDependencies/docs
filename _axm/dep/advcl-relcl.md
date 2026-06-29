@@ -24,4 +24,4 @@ The `advcl:relcl` relation is used for indicating relative clauses (with the rel
 12	խիստ	խիստ	ADV	_	_	11	advmod	_	SpaceAfter=No
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:00 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:16 CEST -->

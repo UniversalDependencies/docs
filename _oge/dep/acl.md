@@ -13,4 +13,4 @@ udver: '2'
 acl(მე, განვიკითხავ)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:07 CEST -->

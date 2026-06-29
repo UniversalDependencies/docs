@@ -42,4 +42,4 @@ We use the `vocative` relation when the speaker of the sentence calls the addres
 3	Principal."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:39 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:56 CEST -->

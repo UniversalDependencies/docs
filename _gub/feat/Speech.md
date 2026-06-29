@@ -66,4 +66,4 @@ Male to male speech is expressed with the sentence final particle "tɨ"
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:41 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:58 CEST -->

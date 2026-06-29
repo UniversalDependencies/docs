@@ -79,4 +79,4 @@ Kaip nurodo autorė , šie žanrai yra mažai tirti . \n As the-author notes , t
 parataxis(tirti, nurodo)
 parataxis(studied, notes)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:49 CEST -->

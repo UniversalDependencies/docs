@@ -38,4 +38,4 @@ have the form marked in the `Morph` feature.
 #### Examples
 
 * _Sovent vienent a parlement Et a celé et <b>voiant</b> gent_ ([ADP]())
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:15 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:32 CEST -->

@@ -19,4 +19,4 @@ Spanish nouns have the lexical feature [ca-feat/Gender](). Furthermore, the noun
 - _arbre_ “tree”
 - _aire_ “air”
 - _bellesa_ “beauty”
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:56 CEST -->

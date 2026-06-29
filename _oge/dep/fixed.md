@@ -13,4 +13,4 @@ The <code>fixed</code> relation is one of the three relations for multiword expr
 fixed(რაჲთა, არა)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:07 CEST -->

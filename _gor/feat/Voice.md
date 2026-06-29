@@ -74,4 +74,4 @@ We do not use it in Gorontalo, preferring the __voc_ pattern that emphasises voi
 #### Examples
 
 * [gor] _Ilengi pilo-pomulo li Bapu binthe_ “Grandfather planted corn in the field" (instrument voice)
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:48 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:05 CEST -->

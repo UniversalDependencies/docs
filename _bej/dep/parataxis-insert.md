@@ -13,4 +13,4 @@ umbaruːk danri =jeːk id =heːb ini // \n "You, if you kill it", he told me, he
 parataxis:insert(=jeːk, ini)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:33 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:50 CEST -->

@@ -17,4 +17,4 @@ case(ⲡⲉ, ϩⲛ)
 ~~~
 
 The hermeneutic particle ⲛϭⲓ, roughly ‘namely’, is also considered a case marker, assigning nominative case (it is only compatible with subject appositions, never objects or obliques, cf. Grossman 2014); see `dislocated` for more guidelines on ⲛϭⲓ.
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:17 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:33 CEST -->

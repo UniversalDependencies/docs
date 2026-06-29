@@ -13,4 +13,4 @@ nmod:poss(валонть, покшонок)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:07 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:24 CEST -->

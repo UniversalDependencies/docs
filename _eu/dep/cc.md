@@ -36,4 +36,4 @@ punct(osatzen-15, .-19)
 ~~~
 
 Note that it is the last conjunct the element showing the ergative case. The ergative case corresponds to subjects of transitive verbs. In this case *to form*
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:36 CEST -->

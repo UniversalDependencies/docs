@@ -33,4 +33,4 @@ they are punctuation.
 - _$, %, §, ©_
 - _+, −, ×, ÷, =, <, >_
 - :), ♥‿♥, 😝
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:44 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:02 CEST -->

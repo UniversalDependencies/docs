@@ -29,4 +29,4 @@ and are labeled according to their role in the frame, they are not `mark`:
 advmod(փոխանցվի, հենց)
 advmod(is-traferred, when)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:15 CEST -->

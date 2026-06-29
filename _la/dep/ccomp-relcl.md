@@ -45,4 +45,4 @@ acl:relcl(quod,conantur)
 xcomp(conantur,inferre)
 ~~~ 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:23 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:39 CEST -->

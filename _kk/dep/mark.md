@@ -24,4 +24,4 @@ The dependency relation `mark` is also used to identify the
 *complementiser* appearing in most clausal complements, where the head
 of the dependency is the main verb of the subordinate clause.
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:59 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:16 CEST -->

@@ -15,4 +15,4 @@ Eastern Armenian uses `flat:frac` for numerical fractions or just the denominato
 4	3	3	NUM	_	NumForm=Digit|NumType=Card	2	flat:frac	_	SpaceAfter=No
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:53 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:09 CEST -->

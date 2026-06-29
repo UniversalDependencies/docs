@@ -11,4 +11,4 @@ The `expl:pass` relation is used in **UD_French-GSD** and **UD_French-Sequoia** 
 La terreur s' installe \n The terror sets in
 expl:pass(installe,s')
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:49 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:06 CEST -->

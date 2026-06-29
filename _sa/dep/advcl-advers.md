@@ -10,4 +10,4 @@ Adversal adverbial clause (‘whereas’), cf. Hettrich, *Untersuchungen zur Hyp
 ~~~ sdparse
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:55 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:12 CEST -->

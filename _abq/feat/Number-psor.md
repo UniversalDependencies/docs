@@ -18,4 +18,4 @@ This feature marks number agreement of the noun with the possessor.
 #### Examples
 
 * [abq] _<b>хI-</b>-ан_ [<b>1PL.PR</b>-mother] ‘<b>our</b> mother’ `Number[psor]=Plur|Person[psor]=1`
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:23 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:40 CEST -->

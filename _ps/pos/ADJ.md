@@ -30,4 +30,4 @@ For the overview of declension of adjectives in Pashto, see [Pashto nominal syst
   * passive participle: **لیکنۍ** ژبه _**likanë́y** žë́ba_ “**written** language”
 * nominal predicate: نجلۍ **ښکلې** ده _nǰë́lëy **x̌kúle** da_ “the girl is **pretty**”
 * adverbial modifier: **ډېره** کوچنۍ څوکۍ _**ḍéra** kučnë́y cawkë́y_ “**very** small chair” (it is indeed an adjective agreeing with the noun, not an adverb)
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:31 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:50 CEST -->

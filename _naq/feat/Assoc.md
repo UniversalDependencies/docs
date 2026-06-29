@@ -25,4 +25,4 @@ Note that there is no `No` value. If the word does not have the associative plur
 * _Adeledhân_ "Adelaide and the others (who live with her)"
 
 * _ǁnāhâra_ "that one and his companion"
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:51 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:09 CEST -->

@@ -22,4 +22,4 @@ xcomp:obj(they-forbade, to-notify)
 
 “Threatening to hurt Aneta, they also forbade to notify the police.”
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:42 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:58 CEST -->

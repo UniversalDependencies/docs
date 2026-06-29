@@ -25,4 +25,4 @@ udver: '2'
 
 * _Sculați-vă, <b>să</b> meargem._ “Get up, let's go.”
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:27 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:44 CEST -->

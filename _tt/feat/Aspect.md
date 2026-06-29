@@ -56,4 +56,4 @@ The action or event is repeated iteratively.
 
 * _<b>язгалый</b> башлады_ "(s/he) started to write (sometimes, repeatedly)"
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:50 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:09 CEST -->

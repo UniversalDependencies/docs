@@ -27,4 +27,4 @@ In Chinese, auxiliaries can be divided into modal and modal-like auxiliaries whi
 ### Delimitation
 
 [work in progress]
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:53 CEST -->

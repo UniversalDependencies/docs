@@ -159,4 +159,4 @@ Produces noun.
 #### FinnTreeBank
 
 The language-specific feature Derivation is not in use in FI_FTB.
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:01 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:18 CEST -->

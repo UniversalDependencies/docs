@@ -43,4 +43,4 @@ list(Apóstolos, e-mail)
 appos(teléfono, 696969787878)
 appos(e-mail, Apostolos@gmail.gr)
  ~~~ 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:11 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:27 CEST -->

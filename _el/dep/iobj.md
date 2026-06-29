@@ -75,4 +75,4 @@ obj(Διδάσκει, φοιτητές)
 See the [expl]()  relation for cases of clitic doubling.
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:56 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:12 CEST -->

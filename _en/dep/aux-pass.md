@@ -22,4 +22,4 @@ aux:pass(killed, was)
 Kennedy got killed
 aux:pass(killed, got)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:15 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:31 CEST -->

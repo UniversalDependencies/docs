@@ -22,4 +22,4 @@ Conj Coord: Coordinative conjunction
 
 _და_ 'and'
 _თუ_ 'or'
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:34 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:53 CEST -->

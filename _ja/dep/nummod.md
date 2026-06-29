@@ -13,4 +13,4 @@ nummod(本, 冊)
 case(冊, の)
 nummod(冊, 3)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:15 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:32 CEST -->

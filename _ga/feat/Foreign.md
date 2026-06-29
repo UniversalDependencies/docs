@@ -17,4 +17,4 @@ Foreign words can appear in titles, quotes, code-switching, foreign proper noun 
 - _ag obair ar an <b>Linguistic Atlas and Survey of Irish Dialects</b>_ "working on the Linguistic Atlas and Survey of Irish Dialects"
 - _De réir phobalbhreith an <b>Galway Advertiser</b>_ "according to the Galway Advertiser opinion polls"
 - _Bhíodh an <b>'turnkey'</b> amach romhainn sa bpáirc_ "The turnkey was out ahead of us in the field"
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:05 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:23 CEST -->

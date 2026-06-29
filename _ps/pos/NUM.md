@@ -22,4 +22,4 @@ The numerals usually bear the [nummod]() relation.
 * _0, 1, 2, 3, 4, 5, 2014, 1000000, 3.14159265359_ etc.
 * <!-- a -->یو _yaw_ “one”, دوه _dwa_ “two” etc.
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:58:38 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:41:57 CEST -->

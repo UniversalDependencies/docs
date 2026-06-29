@@ -27,4 +27,4 @@ The `PunctType` feature applies to [punctuation](_oge/pos/PUNCT).
 
 * “ ვითარმედ: „მტერისა მახჳლნი მოაკლდეს სრულიად“. 'Because: „the enemy's swords have completely failed“.'
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:37 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:53 CEST -->

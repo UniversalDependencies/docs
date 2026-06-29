@@ -49,4 +49,4 @@ This feature indicates, for the head of a fixed expression, the effective UPOS o
 * _ǁnāpa xu ta ge ǃgû <b>ǃnūb ai</b>_ "**as** I left from there" (_ǃnūb_ = NOUN)
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:04 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:42:21 CEST -->

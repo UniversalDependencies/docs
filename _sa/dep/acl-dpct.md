@@ -15,4 +15,4 @@ obl:loc(ájāyathās, giríṣu)
 nsubj(ájāyathās, yás)
 acl:dpct(yás, bálavattamas)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 16:59:52 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:08 CEST -->

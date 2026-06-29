@@ -28,4 +28,4 @@ The head of the localizer is the noun or the main verb of the clause preceding i
 5	desk"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:19 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:35 CEST -->

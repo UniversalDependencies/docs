@@ -12,4 +12,4 @@ Atstovavimas vargšams labai svarbus . \n Representation of-the-poor is very imp
 nmod:arg(Atstovavimas, vargšams)
 nmod:arg(Representation, of-the-poor)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 17:01:02 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:44:19 CEST -->

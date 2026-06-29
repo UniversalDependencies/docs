@@ -45,4 +45,4 @@ udver: '2'
 ~~~
 
 However, if the clausal complement has no subject, the appropriate relation is `xcomp`.
-<!-- Interlanguage links updated Po 29. června 2026, 17:00:21 CEST -->
+<!-- Interlanguage links updated Po 29. června 2026, 17:43:37 CEST -->
