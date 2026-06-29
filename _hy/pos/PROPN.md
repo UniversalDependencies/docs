@@ -14,27 +14,22 @@ Single-word named entities are tagged `PROPN` even if they originate from a comm
 
 Note that names of languages (_հայերեն_/_hayeren_ “Armenian”, _անգլերեն_/_angleren_ “English”) and adjectives derived from geographical names (_հայկական_/_haykakan_ “Armenian”, _հայոց_/_hayoc’_ “Armenian”, _անգլիական_/_angliakan_ “English”, _երևանյան__erewanyan_/ “of Yerevan”) are written in lowercase and are not tagged `PROPN`.
 
-Personal names are typically treated as a sequence of proper nouns (one or more given names and one or more surnames). If the name contains prepositions, conjunctions or articles (foreign names), these are also tagged as [X]() and the morphological analysis does not include their original part of speech.
+Personal names are typically treated as a sequence of proper nouns (one or more given names and one or more surnames). If the name contains prepositions, conjunctions or articles (foreign names), these are tagged [X]() and the morphological analysis does not include their original part of speech.
 
-When other phrases or sentences are used as names, the component words retain their original tags. For example, in _«Մենք ենք մեր սարերը»_/_'Menk’ enk’ mer sarerë'_, _Մենք_/_Menk’_ is [PRON](), _ենք_/_enk’_ is [AUX](), _մեր_/_mer_ is [DET](), etc.
+When other phrases or sentences are used as names, the component words retain their original tags. For example, in _«Մենք ենք մեր սարերը»_/_'Menk’ enk’ mer sarerë'_ “We are our mountains”, _Մենք_/_Menk’_ “we” is [PRON](), _ենք_/_enk’_ “are” is [AUX](), _մեր_/_mer_ “our” is [DET](), etc.
 
 Acronyms of proper nouns, such as _ՄԱԿ_ “UN” and _ՆԱՏՕ_ “NATO”, should be tagged `PROPN`. Even if they contain numbers (as in various product names), they are tagged `PROPN` and not [SYM](): _ՏՈՒ-154Մ_, _ԻԼ-76_. However, if the token consists entirely of digits (like _7_ in _Windows 7_), it is tagged [NUM]().
 
-Armenian multi-word named entities have internal syntactic structure, which is preserved in the annotation. The headword is always noun and there may be other nouns involved. They will be tagged `PROPN` if they are proper nouns as single-word named entities. Even if an adjective is the first word of a multi-word name, and thus it starts with an uppercase letter, it is still tagged `ADJ`.
+Armenian multi-word named entities have internal syntactic structure, which is preserved in the annotation. The headword is always a noun and there may be other nouns involved. They will be tagged `PROPN` if they are proper nouns as single-word named entities. Even if an adjective is the first word of a multi-word name, and thus it starts with an uppercase letter, it is still tagged `ADJ`.
 
-Note, that the additional feature [NameType]() is used to encode the types of named entities.
+Note that the additional feature [NameType]() is used to encode the types of named entities.
 
 ### Examples
 
-- _<b>Դոնի</b>_.`PROPN` _<b>Ռոստով</b>_.`PROPN`, _<b>Մայնի</b>_.`PROPN` _<b>Ֆրանկֆուրտ</b>_.`PROPN` “Rostov-on-Don, Frankfurt am Main”. _Ռոստով&nbsp;_ and _Ֆրանկֆուրտ&nbsp;_ are the heads. The _Դոնի&nbsp;_, _Մայնի&nbsp;_ parts refer to the rivers flowing through the city, and are tagged as `PROPN` too.
-- _<b>Լյուդվիգ</b>_.`PROPN` _<b>վան</b>_.`X` _<b>Բեթհովեն</b>_.`PROPN`, _<b>Միգել</b>_.`PROPN` _<b>դը</b>_.`X` _<b>Սերվանտես</b>_.`PROPN` “Ludwig van Beethoven”, “Miguel de Cervantes”. The _van, de&nbsp;_ parts are prepositions in the languages of the names’ origin, are tagged as `X` in Armenian.
-- _Վերին_.`ADJ` _<b>Սասնաշեն</b>_.`PROPN` is a village. _Սասնաշեն&nbsp;_ is the head and it is
-  tagged `PROPN` although it is a geographical name. _Վերին&nbsp;_ is an adjective meaning “upper” and it is
-  tagged `ADJ`.
-- _Հյուսիսային_.`ADJ` _սառուցյալ_.`ADJ` _օվկիանոս_.`NOUN` “The Arctic Ocean”. Even though the three words
-  together are a name of a particular ocean, _օվկիանոս_ is a common noun and is
-  tagged as such.
-- _Միավորված_.`ADJ` _ազգերի_.`NOUN` _կազմակերպություն_.`NOUN` “United Nations Organization”
-  consists of three words, none of which is proper noun. However, the acronym
-  _<b>ՄԱԿ</b>&nbsp;_ “UNO” is a single-token name and is tagged `PROPN`. In _ԵԱՀԿ.`PROPN`_ _Մինսկի.`PROPN`_ _խումբ.`NOUN`_ “The OSCE Minsk Group” the first two words as single-tokens are proper nouns and are tagged as such.
+- _<b>Դոնի</b>_/_Doni_ `PROPN` _<b>Ռոստով</b>_/_Ṙostov_ `PROPN` “Rostov-on-Don”, _<b>Մայնի</b>_/_Mayni_ `PROPN` _<b>Ֆրանկֆուրտ</b>_/_Frankfowrt_ `PROPN` “Frankfurt am Main” “”. _Ռոստով_/_Ṙostov_ and _Ֆրանկֆուրտ_/_Frankfowrt_ are the heads. The _Դոնի_/_Doni_, _Մայնի_/_Mayni_ parts refer to the rivers flowing through the city, and are tagged as `PROPN` too.
+- _<b>Լյուդվիգ</b>_/_Lyowdvig_ `PROPN` _<b>վան</b>_/_van_ `X` _<b>Բեթհովեն</b>_/_Bet’hoven_ `PROPN` “Ludwig van Beethoven”, _<b>Միգել</b>_/_Migel_ `PROPN` _<b>դը</b>_/_dë_ `X` _<b>Սերվանտես</b>_/_Servantes_ `PROPN` “Miguel de Cervantes”. The _van, de_ parts are prepositions in the languages of the names’ origin, and are tagged `X` in Armenian.
+- _Վերին_/_Verin_ `ADJ` _<b>Սասնաշեն</b>_/_Sasnašen_ `PROPN` is a village. _Սասնաշեն_/_Sasnašen_ is the head and it is tagged `PROPN` although it is a geographical name. _Վերին_/_Verin_ is an adjective meaning “upper” and it is tagged `ADJ`.
+- _Հյուսիսային_/_Hyowsisayin_ `ADJ` _սառուցյալ_/_saṙowc’yal_ `ADJ` _օվկիանոս_/_òvkianos_ `NOUN` “The Arctic Ocean”. Although the three words together are a name of an ocean, _օվկիանոս_/_òvkianos_ is a common noun and is tagged as such.
+- _Միավորված_/_Miavorvaç_ `ADJ` _ազգերի_/_azgeri_ `NOUN` _կազմակերպություն_/_kazmakerpowt’yown_ `NOUN` “United Nations Organization” consists of three words, none of which is proper noun. However, the acronym
+  _<b>ՄԱԿ</b>_ “UNO” is a single-token name and is tagged `PROPN`. In _ԵԱՀԿ_/_EAHK_ `PROPN` _Մինսկի_/_Minski_ `PROPN` _խումբ_/_xowmb_ `NOUN` “The OSCE Minsk Group” the first two words as single-tokens are proper nouns and are tagged as such.
 <!-- Interlanguage links updated St 6. května 2026, 20:42:08 CEST -->
