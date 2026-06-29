@@ -43,7 +43,7 @@ for s in "pos" "feat" "dep"; do
 	# see https://github.com/UniversalDependencies/docs/issues/20)
 	# Relation subtypes: file name is "nmod-poss.md" but the label should be "nmod:poss".
 	# Layered features: file name is "Number-subj.md" but the label should be "Number[subj]".
-	e=`echo "$r" | perl -pe 's/^_//; s/_$//; s/^([a-z]+)-/$1:/; s/^([A-Z][A-Za-z]+)-([a-z0-9]+)/$1[$2]/'`
+	e=`echo "$r" | perl -pe 's/^_//; s/_$//; s/^([a-z]+)-/$1:/; s/^([A-Z][A-Za-z]+)-([a-z0-9]+)/$1\[$2\]/'`
 	echo "- label: '$e'"
 	# (not really "languages", but close enough here)
 	echo "  languages:"
