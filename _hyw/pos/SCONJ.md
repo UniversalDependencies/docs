@@ -12,9 +12,9 @@ A subordinating conjunction is a conjunction that links constructions by making 
 We recognize two subclasses of subordinating conjunctions:
 
 * complementizers such as _որ_/_or_ “that”, _թէ_/_t’ē_ “that, whether”
-* subordinators introducing adverbial clauses such as _երբ_/_erb_ “when”, _եթէ_/_et’ē_ “if”, _որպէսզի_/_orpēszi_ “in order to”, _որովհետեւ_/_orovhetew_ “because”, or _նախքան_/_naxk’an_ “before” (when introducing a clause rather than a noun phrase)
+* subordinators introducing adverbial clauses such as _երբ_/_erb_ “when”, _եթէ_/_et’ē_ “if”, _որպէսզի_/_orpēszi_ “so that”, _որովհետեւ_/_orovhetew_ “because”, _նախքան_/_naxk’an_ “before” (when introducing a clause rather than a noun phrase).
 
-Note also that in Western Armenian there are no dedicated relativizers. 
+Note that in Western Armenian there are no dedicated relativizers. 
 
 For coordinating conjunctions, see [CCONJ]().
 
