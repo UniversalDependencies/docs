@@ -11,11 +11,11 @@ A proper noun is a noun (or nominal content word) that is the name (or part of t
 
 Note that names of languages (_հայրէն/hayrēn_ “Armenian language”, _արապերէն (արապկերէն)/araperēn (arapkerēn)_ “Arabic language”) and adjectives derived from geographical names (_պարսի/parsi_ “Persian”, _արապիկ/arapik_ “Arabic”, _սուրի/sowri_ “Syrian”) are written in lowercase and are not tagged `PROPN`.
 
-Personal names are typically treated as a sequence of proper nouns (one or more given names and one or more surnames). If the name contains prepositions, conjunctions or articles (foreign names), these are tagged [X]() and their original part of speech is not represented in the morphological annotation.
+Personal names are typically treated as a sequence of proper nouns (one or more given names and one or more surnames). If the name contains prepositions, conjunctions or articles (foreign names), these are tagged [X]() and their original part of speech is not reflected in the morphological annotation.
 
 When other phrases or sentences are used as names, the component words retain their original tags. For example, in _«Գիրք վաստակոց»/Girk’ vastakoc’_ “Book of Agricultural Pursuits” (Geoponica), _Գիրք/Girk’_ “Book” is [NOUN]().
 
-Middle Armenian multi-word named entities have internal syntactic structure, which is preserved in the annotation. The head is always a noun, though other nouns may also occur in the name. Words that are proper nouns when used as single-word named entities are tagged `PROPN`. Even if an adjective is the first word of a multi-word name, and thus it starts with an uppercase letter, it is still tagged `ADJ`.
+Middle Armenian multi-word named entities have internal syntactic structure, which is preserved in the annotation. The headword is always a noun, although other nouns may also occur in the name. Words that are proper nouns when used as single-word named entities are tagged `PROPN`. Even if an adjective is the first word of a multi-word name, and thus it starts with an uppercase letter, it is still tagged `ADJ`.
 
 Note, that the additional feature [NameType]() is used to encode the types of named entities.
 
