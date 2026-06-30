@@ -14,7 +14,6 @@ use File::Path qw(make_path);
 use File::Find;
 use File::Basename;
 use File::Copy qw(move);
-use POSIX qw(strftime);
 
 my $DATA_DIRECTORY      = "_data";
 my $POS_DATA_FILE       = "$DATA_DIRECTORY/postags.yaml";
@@ -127,7 +126,7 @@ for my $s (qw(pos feat dep)) {
             open(my $TMP, ">", $tmp) or die "Cannot write $tmp: $!";
             print $TMP @lines;
             print $TMP "<!-- Interlanguage links updated ",
-                       strftime("%a %b %d %H:%M:%S %Y", localtime),
+                       `date`,
                        " -->\n";
             close($TMP);
 
