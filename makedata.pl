@@ -29,9 +29,7 @@ make_path($DATA_DIRECTORY);
 
 for my $s (qw(pos feat dep)) {
 
-    #
     # Find collections.
-    #
     my @collections;
 
     if (-d "_u-$s") {
@@ -56,9 +54,7 @@ for my $s (qw(pos feat dep)) {
     print "coll '@collections'\n";
     print "dir  '@directories'\n";
 
-    #
     # Collect unique entry names.
-    #
     my %entries;
 
     for my $dir (@directories) {
@@ -85,12 +81,13 @@ for my $s (qw(pos feat dep)) {
 
     open(my $OUT, ">", $out) or die "Cannot write $out: $!";
 
-    #
     # Generate YAML.
-    #
     for my $r (@entries) {
 
         warn "entry $r\n";
+        if ($entry =~ /[\[\]]/) {
+            warn "\tWARNING: File name contains square brackets. There should be a hyphen instead.";
+        }
 
         my $e = $r;
         $e =~ s/^_//;
@@ -105,17 +102,13 @@ for my $s (qw(pos feat dep)) {
         for my $l (@collections) {
 
             my $file = "_$l/$r.md";
-
             next unless -s $file;
-
             my $p = $l;
             $p =~ s/-(pos|feat|dep)$/\/$1/;
 
             print $OUT "  - label: '$p'\n";
 
-            #
             # Touch the file. Otherwise its HTML will not be re-rendered because only the YAML data file will change.
-            #
             open(my $IN, "<", $file) or die "Cannot read $file: $!";
             my @lines = grep { !/<!-- Interlanguage links updated/ } <$IN>;
             close($IN);

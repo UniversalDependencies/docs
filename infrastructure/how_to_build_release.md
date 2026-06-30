@@ -190,11 +190,11 @@ It is meant for the maintenance task force rather than individual treebank teams
 	cd docs ; git pull --no-edit ; git commit -a -m 'Updated diversity pie charts.' ; git push ; cd ..
 	```
 
-* Run the script `makedata.sh` in the docs repository. It will regenerate the YAML files in the folder `_data`; this is needed
+* Run the script `makedata.pl` in the docs repository. It will regenerate the YAML files in the folder `_data`; this is needed
   for cross-lingual links between documentation pages devoted to individual UPOS tags, features and relations.
 
 	```bash
-	cd docs ; ./makedata.sh ; git commit -a -m 'Updated crosslingual links.' ; git push ; cd ..
+	cd docs ; ./makedata.pl ; git commit -a -m 'Updated crosslingual links.' ; git push ; cd ..
 	```
 
 * Tag the current commit in all repositories including docs with the tag of the current release (`git tag r2.18` for UD 2.18).
