@@ -42,4 +42,4 @@ The quality of one object indicates the highest degree of a quality and is compa
 
 * _<b>ხუ</b>თეთრ<b>ჱს</b>ი/<b>ხუ</b>თეთრ<b>ეს</b>ი_ "the whitest", _<b>ხუ</b>დიდ<b>ჱს</b>ი/<b>ხუ</b>დიდ<b>ეს</b>ი_ "the biggest" etc.
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:37 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:16 CEST -->

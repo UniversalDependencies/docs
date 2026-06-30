@@ -31,4 +31,4 @@ mark(start, to)
 ~~~
 
 See [this page](http://universaldependencies.org/u/dep/ccomp.html) for additional explanation and examples.
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:55 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:18 CEST -->

@@ -19,4 +19,4 @@ obj(няезе-2, сёрманять-7)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:41 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:52 CEST -->

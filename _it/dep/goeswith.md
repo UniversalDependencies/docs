@@ -16,4 +16,4 @@ amod(gennaio, 1)
 Sta sera tempesta più grande di ieri
 goeswith(Sta, sera)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:31 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:45 CEST -->

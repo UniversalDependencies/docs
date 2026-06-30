@@ -84,4 +84,4 @@ It is kept in FEATS in the UD conversion.
 
 * _(<b>cf.</b> Carte Zeno)_ (cf. = `X`) "(see Zeno card)"
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:41 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:20 CEST -->

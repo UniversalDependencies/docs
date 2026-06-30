@@ -18,4 +18,4 @@ An object clause is a subordinate clause that acts as the object of a verb. In O
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:57 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:19 CEST -->

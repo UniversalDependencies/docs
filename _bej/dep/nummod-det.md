@@ -13,4 +13,4 @@ doːr / oː= meːk oːn ba= a- akaj / kaːm han ʔam -aː =b =i i- ni // mhaj na
 text_en: "Once, it's not a donkey but a camel that I rode, he said, that only three men could ride."
 nummod:det(nafar, mhaj) ("person", "three")
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:51 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:01 CEST -->

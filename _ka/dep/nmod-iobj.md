@@ -18,4 +18,4 @@ The `nmod:iobj` relation denotes a nominal dependent of a verbal noun that corre
 5	სურდა	სურვება	VERB	_	Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Imp|Voice=Inv	0	root	_	LMSeg:სურვებ[ა]/სურ
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:40 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:52 CEST -->

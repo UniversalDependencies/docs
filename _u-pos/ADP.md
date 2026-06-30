@@ -52,4 +52,4 @@ The component words are grouped together with the [fixed]() relation.
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an adposition?](https://glossary.sil.org/term/adposition)
 - [Wikipedia](http://en.wikipedia.org/wiki/Preposition_and_postposition)
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:11 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:00 CEST -->

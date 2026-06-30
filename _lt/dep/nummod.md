@@ -73,4 +73,4 @@ nummod(thousand, Three)
 compound(one-hundred, thousand)
 nummod:gov(euros, one-hundred)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:51 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:00 CEST -->

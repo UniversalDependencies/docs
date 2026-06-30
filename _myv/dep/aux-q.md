@@ -15,4 +15,4 @@ typically carries some of the tense/aspect/modality suffixes as well as person/n
 aux:q(кекшт, ли)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:51 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:15 CEST -->

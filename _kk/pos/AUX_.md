@@ -32,4 +32,4 @@ The full list of auxiliaries is as follows:
 * _шық-_ ""
 
 Note: Some of these are ambiguous with lexical verbs.
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:13 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:00 CEST -->

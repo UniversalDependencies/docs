@@ -97,4 +97,4 @@ xcomp:pred(riaghladh, bhith)
 case(gu, bhith)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:52 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:16 CEST -->

@@ -35,4 +35,4 @@ nsubj(athair,bhiodh)
 * [acl:relcl](acl-relcl.html) for the analogous case where the head is a noun phrase.
 * [csubj:cleft](csubj-cleft.html) for where a relative clause is part of a cleft sentence.
 * [csubj:cop](csubj-cop.html) for where a relative clause is part of a different sort of sentence including a copula.
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:35 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:03 CEST -->

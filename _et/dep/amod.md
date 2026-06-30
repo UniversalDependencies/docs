@@ -14,4 +14,4 @@ Ta kannab valgeid sokke \n She is wearing white socks
 amod(sokke, valgeid)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:44 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:10 CEST -->

@@ -12,4 +12,4 @@ A temporal adverbial modifier is a subtype of the `advmod` relation: if the modi
 'Blessed Father John was at all times praying to God.'
 advmod:tmod(ევედრებოდა, ჟამ)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:43 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:09 CEST -->

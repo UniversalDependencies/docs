@@ -21,4 +21,4 @@ udver: '2'
 * *batta daplok <b>miʔmikhakhakha</b> meĩbe* "in a <b>small, small thingie</b>, flat and [only] as big as this"
 * *<b>Thitta-thitta</b> pakku abokada puʔno, mahã?* "An older guy is picking avocados <b>one by one</b>, you understand?"
 * *Akka <b>them-them</b> doŋdum khasɨŋnaʔã.* "I will ask you <b>a couple of</b> questions."
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:14 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:46 CEST -->

@@ -12,4 +12,4 @@ used as an adverbial modifier in a sentence; This subtype has been **deprecated*
 ה חצר עצמה ו ה מנזרים סביבה מהווים חלק אינטגרלי מ ה כנסייה
 nmod:npmod(חצר, עצמה)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:41 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:53 CEST -->

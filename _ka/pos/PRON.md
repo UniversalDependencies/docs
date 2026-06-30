@@ -37,4 +37,4 @@ Pron: Pronoun
 - relative pronouns: _ვინც_ 'who' etc.
 - reciprocal pronouns: _ერთმანეთი_ 'each other' etc.
 - negative pronouns: _არავინ_ 'nobody' etc.
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:04 CEST -->

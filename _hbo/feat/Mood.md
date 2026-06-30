@@ -16,4 +16,4 @@ udver: '2'
 #### Examples
 
 * _שׁמור_ "guard!"
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:51 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:28 CEST -->

@@ -40,4 +40,4 @@ set of objects.
 
 * _bellissimo_ "very beatiful", _massimo_ "maximum", _malissimo_ "very badly", _ottimo_ "optimum"
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:36 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:16 CEST -->

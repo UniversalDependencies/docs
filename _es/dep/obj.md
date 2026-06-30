@@ -13,4 +13,4 @@ for `obj`.
 Hoy comeremos pescado . \n We will eat fish today .
 obj(comeremos, pescado)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:52 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:01 CEST -->

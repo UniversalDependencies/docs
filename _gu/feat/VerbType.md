@@ -12,4 +12,4 @@ udver: '2'
 The following is an example of ideophonic verb in Gujarati:
 
 * હોડી દરિયામાં <b>ડબુક ડબુક</b> થાય છે.
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:24 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:53 CEST -->

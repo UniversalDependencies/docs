@@ -51,4 +51,4 @@ In edited text it is usually the case that a subordinate clause is fronted.
 
 * _B' ann nuair a <b>bha</b> Uilleam is Màiri Anna pòsda ann an Glaschu a chuireadh eòlas an toiseach orra._ 'It was when William and Mary Anne <b>were</b> married in Glasgow that they got the news'
 * _Cha b' ann gus an do <b>chaochail</b> Lachlann Thorrloisg..._ 'It was not until Lachlann Thorrloisg <b>died</b>..._
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:32 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:13 CEST -->

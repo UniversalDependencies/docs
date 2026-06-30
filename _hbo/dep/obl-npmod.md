@@ -120,4 +120,4 @@ _And Abraham will definitely be a large and mighty people and all peoples of the
 
 The name of this relation was determined in [Issue #832](https://github.com/UniversalDependencies/docs/issues/832), but may at some point be renamed as a result of the discussion in [Issue #1028](https://github.com/UniversalDependencies/docs/issues/1028).
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:13:02 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:10 CEST -->

@@ -36,4 +36,4 @@ These discourse elements are attached to the head of the most relevant nearby un
 2	աւրինաւոր	աւրինաւոր	ADV	_	Style=Var	3	advmod	_	_
 3	ամուսնանայ	ամուսնանալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:36 CEST -->

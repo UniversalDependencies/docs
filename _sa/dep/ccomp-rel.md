@@ -22,4 +22,4 @@ nmod(árṇas, sū́ras)
 ccomp:rel(dadhire, árabdha)
 xcomp:result(árṇas, dadhire)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:58 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:20 CEST -->

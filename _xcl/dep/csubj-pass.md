@@ -11,4 +11,4 @@ A clausal passive subject is a clausal syntactic subject of a passive clause.
 Որ հաւատայ ի նա . ոչ դատապարտեսցի : \n He that believeth on him is not condemned :
 csubj:pass(դատապարտեսցի, հաւատայ)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:12 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:30 CEST -->

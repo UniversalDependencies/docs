@@ -12,4 +12,4 @@ A determiner is the relation between the head of a nominal phrase and its determ
 text_en: The Aid also had come and I went to wish him a blessed Aid", he said.
 det(ʔiːd, w=) ("Aid_feast", `DET`)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:16 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:34 CEST -->

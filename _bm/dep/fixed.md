@@ -23,4 +23,4 @@ The `fixed` relation is one of the relations used for multiword expressions (MWE
 
 ~~~
 'We will began a new story'.
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:26 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:41 CEST -->

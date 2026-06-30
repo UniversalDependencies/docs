@@ -14,4 +14,4 @@ Example:
 acl(ⲁⲡⲟⲧ, ϩⲟⲣⲡ)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:25 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:55 CEST -->

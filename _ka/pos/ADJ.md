@@ -23,4 +23,4 @@ Adj:  Adjective
 _თეთრი_ 'white'
 _ძველი_ 'old'
 _კარგი_ მეგობარი 'a good friend'
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:10 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:32:59 CEST -->

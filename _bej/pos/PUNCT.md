@@ -10,4 +10,4 @@ udver: '2'
 Punctuation marks are non-alphabetical characters and character groups used to delimit linguistic units in printed text.
 We have punctuation tokens that mark breaks in the prosodic sequence, a single slash (/) indicates a minor boundary between two intonation units while a double slash (//) indicates a major prosodic break between two intonation units.
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:20 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:04 CEST -->

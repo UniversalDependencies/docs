@@ -236,4 +236,4 @@ Produces converbs.
 
 * [kpv] _петтӧдз_ "until it comes out"
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:38 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:17 CEST -->

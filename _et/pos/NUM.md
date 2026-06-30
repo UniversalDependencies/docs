@@ -7,4 +7,4 @@ Definition
 
 A numeral is a word that expresses a number and a relation to the number, such as quantity, sequence, frequency or fraction.<br/>
 Both cardinal and ordinal numerals get the postag <code>NUM</code>. Also words like <i>paar</i> "pair", <i>paarsada</i> "about twenty", <i>paarkümmend</i> "about two hundred" etc, <i>tosin</i> "dozen" are labelled as <code>NUM</code>.
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:17 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:03 CEST -->

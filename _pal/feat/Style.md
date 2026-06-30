@@ -25,4 +25,4 @@ This feature takes the following values: Arch, Coll, Expr, Form, Rare, Slng, Vrn
 
 #### Example
 Some examples of the feature and its use.
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:49 CEST -->

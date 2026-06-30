@@ -18,4 +18,4 @@ obl:benef(ā́labheta, agnáye)
 obj(abhidhrokṣyán, sámāntam)
 advcl(ā́labheta, abhidhrokṣyán)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:58 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:06 CEST -->

@@ -35,4 +35,4 @@ As classifiers are tagged [NOUN]() (accompanied with the feature `NounType=Clf`)
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:59 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:21 CEST -->

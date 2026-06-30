@@ -30,4 +30,4 @@ As a special case, classifiers (量詞 / _liàngcí_) are also tagged `NOUN` per
 - Localizers
   - typically indicate spatial information and is used as a sentence constituent, like [obj]() and [obl]().
   - 西 / _xī_ "west"
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:17 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:02 CEST -->

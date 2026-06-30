@@ -234,4 +234,4 @@ with the exception of FinnTreeBank, which currently marks this form as `Case=Lat
 #### Diff
 
 FinnTreeBank (FI_FTB) marks the base form of the first infinitive as lative in contrast to translative.
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:30 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:11 CEST -->

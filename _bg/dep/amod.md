@@ -17,4 +17,4 @@ Weed in hot_the meadows grows .
 amod(meadows-4, hot_the-3)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:43 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:10 CEST -->

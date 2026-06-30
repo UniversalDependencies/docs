@@ -82,4 +82,4 @@ Examples of masculine inanimate nouns:
 * _<b>rok</b>&nbsp;_ “year”, _<b>zákon</b>&nbsp;_ “law”, _<b>stát</b>&nbsp;_ “state”, _<b>případ</b>&nbsp;_ “case”, _<b>milión</b>&nbsp;_ “million”
 * _<b>smrk</b>&nbsp;_ “spruce”, _<b>dub</b>&nbsp;_ “oak”, _<b>buk</b>&nbsp;_ “beech”, _<b>heřmánek</b>&nbsp;_ “camomile”, _<b>hřib</b>&nbsp;_ “bolete”
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:27 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:09 CEST -->

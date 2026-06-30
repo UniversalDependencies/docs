@@ -119,4 +119,4 @@ For relative clauses, nominalized clauses, and adjectives formed with 嘅 _ge3_,
 ~~~
 
 Note that in the last example the localizer 之後 is still tagged as `ADP` despite its grammatilized function here as a temporal subordinator.
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:35 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:48 CEST -->

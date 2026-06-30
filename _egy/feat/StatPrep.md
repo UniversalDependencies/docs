@@ -29,4 +29,4 @@ Prepositions can be used with nouns in status constructus and with pronouns in s
 
 
 Interlanguage links updated St 12. listopadu 2025, 09:20:49 CET -->
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:48 CEST -->

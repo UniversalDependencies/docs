@@ -26,4 +26,4 @@ Note that Western Armenian noun phrases usually allow one `DET` modifier, but th
 - indefinite determiners: _ոմն_/_omn_ “some (person)”, _ինչ-ինչ_/_inč-inč_ “some (of many things)”, _քանի մը_/_k’ani më_ “several”, _ուրիշ_/_owriš_ “another”, _այլ_/_ayl_ “other”, _որոշ_/_oroš_ “certain”, _ոեւէ_/_oewē_ “one or another”, _այսինչ_/_aysinč_ “such”, _այնինչ_/_ayninč_ “such”
 - total determiners: _ամէն_/_amēn_ “every”, _ամէն մէկ_/_amēn mēk_ “each”, _բոլոր_/_bolor_ “all”, _յուրաքանչյուր_/_yowrak’ančyowr_ “each”, _ողջ_/_oġǰ_ “whole”, _ամբողջ_/_amboġǰ_ “all”, _համայն_/_hamayn_ “whole”, _ամենայն_/_amenayn_ “all”
 - negative determiner: _ոչ մէկ_/_oč mēk_ “no, not any” as in _<b>Ոչ մէկ</b> աստղ կ՚երեւէր այդ գիշեր։_/_<b>Oč mēk</b> astġ k՚erewēr ayd gišer_ “<b>Not a single</b> star was visible that night.”
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:15 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:01 CEST -->

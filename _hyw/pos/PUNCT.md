@@ -24,4 +24,4 @@ Note that there is _internal punctuation_ (exclamation, emphasis, and question m
 -	Emphasis mark (acute accent): _<b>՛</b>_
 -	Apostrophe: _<b>՚</b>_
 -	Armenian hyphen (yentamna): _<b>֊</b>_
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:20 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:04 CEST -->

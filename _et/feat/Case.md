@@ -204,4 +204,4 @@ The comitative (also called associative) case corresponds to English
 
 * [et] _koer_ "dog"; _<b>koeraga</b>_ "with dog"
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:30 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:11 CEST -->

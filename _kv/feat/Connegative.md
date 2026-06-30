@@ -23,4 +23,4 @@ Note that there is no `No` value. If the word is not connegative, the
 
 #### References
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:34 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:15 CEST -->

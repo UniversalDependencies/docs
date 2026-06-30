@@ -18,4 +18,4 @@ A clause of purpose is a subordinate clause that expresses the purpose of an act
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:35 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:03 CEST -->

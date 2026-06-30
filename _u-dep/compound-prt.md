@@ -27,4 +27,4 @@ The house was on fire and they ran out screaming.
 advmod(ran, out)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:03 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:24 CEST -->

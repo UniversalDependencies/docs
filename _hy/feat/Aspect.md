@@ -104,4 +104,4 @@ Note, that in Armenian iterative is considered as a lexical feature of [verbs](V
 * _կտրել&nbsp;_ “cut”, _<b>կտրատել</b>&nbsp;_ “chop, cut in pieces”,
 * _փնտրել&nbsp;_ “search”, _<b>փնտրտել</b>&nbsp;_ “search several times”,
 * _վազել&nbsp;_ “to run”, _<b>վազվզել</b>&nbsp;_ “to run around, to run often”
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:28 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:09 CEST -->

@@ -41,4 +41,4 @@ acl(bakarra-7, erabaki-5)
 cop(bakarra-7, da-2)
 punct(bakarra-7, .-8)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:26 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:55 CEST -->

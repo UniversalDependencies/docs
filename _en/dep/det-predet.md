@@ -18,4 +18,4 @@ det:predet(boys, All)
 what a mess
 det:predet(mess, what)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:36 CEST -->

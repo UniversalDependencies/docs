@@ -38,4 +38,4 @@ advmod(small, more)
 
 We use a special label, [advmod:emph]() for adverbial modifiers that are used for emphasis.
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:36 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:04 CEST -->

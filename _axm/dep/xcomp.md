@@ -34,4 +34,4 @@ higher clause, [ccomp]() should be used instead. This includes cases of arbitrar
 
 The `xcomp` relation is also used in constructions that are known as _secondary predicates_ or _predicatives_.
 Remember that `xcomp` is used for core arguments of clausal predicates so it will not be used for other instances of secondary predication.
-<!-- Interlanguage links updated Po 29. června 2026, 18:13:15 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:20 CEST -->

@@ -9,4 +9,4 @@ udver: '2'
 faictz du roy Loys unziesme , \n deeds of king Louis eleventh ,
 case:det(roy, du) 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:53 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:16 CEST -->

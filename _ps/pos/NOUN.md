@@ -35,4 +35,4 @@ For the overview of declension of nouns in Pashto, see [Pashto nominal system](n
 - _krása_&nbsp; “beauty”
 - _plavání_&nbsp; “swimming”
 -->
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:17 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:02 CEST -->

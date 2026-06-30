@@ -25,4 +25,4 @@ these words are always marked according to their usage (`PRON` or
 - total pronouns: _herkes, herşey_ "everybody, everything"
 - negative pronouns: _kimse_ "nobody"
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:04 CEST -->

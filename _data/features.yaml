@@ -1,7 +1,13 @@
 - label: 'A'
+  filename: 'A'
   languages:
   - label: 'bor/feat'
+- label: 'AC'
+  filename: 'AC'
+  languages:
+  - label: 'jaa/feat'
 - label: 'Abbr'
+  filename: 'Abbr'
   languages:
   - label: 'axm/feat'
   - label: 'cs/feat'
@@ -14,20 +20,21 @@
   - label: 'sv/feat'
   - label: 'u/feat'
 - label: 'Abbreviation'
+  filename: 'Abbreviation'
   languages:
   - label: 'ka/feat'
   - label: 'oge/feat'
   - label: 'xmf/feat'
-- label: 'AC'
-  languages:
-  - label: 'jaa/feat'
 - label: 'Accomp'
+  filename: 'Accomp'
   languages:
   - label: 'eme/feat'
 - label: 'AdjType'
+  filename: 'AdjType'
   languages:
   - label: 'af/feat'
 - label: 'AdpType'
+  filename: 'AdpType'
   languages:
   - label: 'axm/feat'
   - label: 'cs/feat'
@@ -38,10 +45,8 @@
   - label: 'pal/feat'
   - label: 'u/feat'
   - label: 'xmf/feat'
-- label: 'Advlz'
-  languages:
-  - label: 'sah/feat'
 - label: 'AdvType'
+  filename: 'AdvType'
   languages:
   - label: 'arr/feat'
   - label: 'ctn/feat'
@@ -60,16 +65,24 @@
   - label: 'u/feat'
   - label: 'xmf/feat'
   - label: 'yrl/feat'
+- label: 'Advlz'
+  filename: 'Advlz'
+  languages:
+  - label: 'sah/feat'
 - label: 'Agglutination'
+  filename: 'Agglutination'
   languages:
   - label: 'pl/feat'
 - label: 'Also'
+  filename: 'Also'
   languages:
   - label: 'eme/feat'
 - label: 'Analyt'
+  filename: 'Analyt'
   languages:
   - label: 'orv/feat'
 - label: 'Animacy'
+  filename: 'Animacy'
   languages:
   - label: 'axm/feat'
   - label: 'bg/feat'
@@ -87,20 +100,25 @@
   - label: 'urb/feat'
   - label: 'xcl/feat'
 - label: 'Animacy[gram]'
+  filename: 'Animacy-gram'
   languages:
   - label: 'uk/feat'
 - label: 'Animacy[iobj]'
+  filename: 'Animacy-iobj'
   languages:
   - label: 'nci/feat'
 - label: 'Animacy[obj]'
+  filename: 'Animacy-obj'
   languages:
   - label: 'azz/feat'
   - label: 'nci/feat'
   - label: 'nhi/feat'
 - label: 'Animacy[psor]'
+  filename: 'Animacy-psor'
   languages:
   - label: 'nci/feat'
 - label: 'Aspect'
+  filename: 'Aspect'
   languages:
   - label: 'arr/feat'
   - label: 'axm/feat'
@@ -134,8 +152,8 @@
   - label: 'pcm/feat'
   - label: 'ps/feat'
   - label: 'qpm/feat'
-  - label: 'ruc/feat'
   - label: 'ru/feat'
+  - label: 'ruc/feat'
   - label: 'say/feat'
   - label: 'sl/feat'
   - label: 'tpn/feat'
@@ -149,27 +167,35 @@
   - label: 'xmf/feat'
   - label: 'yrl/feat'
 - label: 'Aspect[add]'
+  filename: 'Aspect-add'
   languages:
   - label: 'ruc/feat'
 - label: 'Assoc'
+  filename: 'Assoc'
   languages:
   - label: 'naq/feat'
 - label: 'Augm'
+  filename: 'Augm'
   languages:
   - label: 'gn/feat'
 - label: 'Away'
+  filename: 'Away'
   languages:
   - label: 'jaa/feat'
 - label: 'Back'
+  filename: 'Back'
   languages:
   - label: 'jaa/feat'
 - label: 'Backgrounding'
+  filename: 'Backgrounding'
   languages:
   - label: 'jaa/feat'
 - label: 'BadStyle'
+  filename: 'BadStyle'
   languages:
   - label: 'uk/feat'
 - label: 'Case'
+  filename: 'Case'
   languages:
   - label: 'am/feat'
   - label: 'apu/feat'
@@ -225,34 +251,48 @@
   - label: 'xmf/feat'
   - label: 'yrk/feat'
 - label: 'Case[dsauf]'
+  filename: 'Case-dsauf'
   languages:
   - label: 'oge/feat'
 - label: 'Case[sauf]'
+  filename: 'Case-sauf'
   languages:
   - label: 'oge/feat'
 - label: 'Case[stack]'
+  filename: 'Case-stack'
   languages:
   - label: 'oge/feat'
 - label: 'Case[stack2]'
+  filename: 'Case-stack2'
   languages:
   - label: 'oge/feat'
 - label: 'Caus'
+  filename: 'Caus'
   languages:
   - label: 'abq/feat'
 - label: 'Cfm'
+  filename: 'Cfm'
+  languages:
+  - label: 'jaa/feat'
+- label: 'Ch'
+  filename: 'Ch'
   languages:
   - label: 'jaa/feat'
 - label: 'Clas'
+  filename: 'Clas'
   languages:
   - label: 'arr/feat'
 - label: 'Class'
+  filename: 'Class'
   languages:
   - label: 'bor/feat'
   - label: 'myu/feat'
 - label: 'CleftType'
+  filename: 'CleftType'
   languages:
   - label: 'gd/feat'
 - label: 'Clitic'
+  filename: 'Clitic'
   languages:
   - label: 'cpg/feat'
   - label: 'fi/feat'
@@ -274,27 +314,34 @@
   - label: 'wbp/feat'
   - label: 'yrl/feat'
 - label: 'Clusivity'
+  filename: 'Clusivity'
   languages:
   - label: 'ctn/feat'
   - label: 'gub/feat'
   - label: 'naq/feat'
   - label: 'u/feat'
 - label: 'Clusivity[obj]'
+  filename: 'Clusivity-obj'
   languages:
   - label: 'u/feat'
 - label: 'Clusivity[p]'
+  filename: 'Clusivity-p'
   languages:
   - label: 'ctn/feat'
 - label: 'Clusivity[psor]'
+  filename: 'Clusivity-psor'
   languages:
   - label: 'u/feat'
 - label: 'Clusivity[subj]'
+  filename: 'Clusivity-subj'
   languages:
   - label: 'u/feat'
 - label: 'Coming'
+  filename: 'Coming'
   languages:
   - label: 'jaa/feat'
 - label: 'Compound'
+  filename: 'Compound'
   languages:
   - label: 'la/feat'
   - label: 'pra/feat'
@@ -302,12 +349,15 @@
   - label: 'sa/feat'
   - label: 'yrl/feat'
 - label: 'Comt'
+  filename: 'Comt'
   languages:
   - label: 'jaa/feat'
 - label: 'Conces'
+  filename: 'Conces'
   languages:
   - label: 'eme/feat'
 - label: 'ConjType'
+  filename: 'ConjType'
   languages:
   - label: 'arr/feat'
   - label: 'axm/feat'
@@ -317,9 +367,11 @@
   - label: 'tpn/feat'
   - label: 'u/feat'
 - label: 'Conjug'
+  filename: 'Conjug'
   languages:
   - label: 'egy/feat'
 - label: 'Connegative'
+  filename: 'Connegative'
   languages:
   - label: 'axm/feat'
   - label: 'et/feat'
@@ -338,28 +390,35 @@
   - label: 'vep/feat'
   - label: 'xcl/feat'
 - label: 'Contrast'
+  filename: 'Contrast'
   languages:
   - label: 'eme/feat'
 - label: 'Contv'
+  filename: 'Contv'
   languages:
   - label: 'myu/feat'
 - label: 'ConvType'
+  filename: 'ConvType'
   languages:
   - label: 'ctn/feat'
 - label: 'Corf'
+  filename: 'Corf'
   languages:
   - label: 'arr/feat'
   - label: 'eme/feat'
   - label: 'gn/feat'
   - label: 'tpn/feat'
 - label: 'Cq'
+  filename: 'Cq'
   languages:
   - label: 'jaa/feat'
 - label: 'Decl'
+  filename: 'Decl'
   languages:
   - label: 'arr/feat'
   - label: 'jaa/feat'
 - label: 'Definite'
+  filename: 'Definite'
   languages:
   - label: 'axm/feat'
   - label: 'bej/feat'
@@ -386,9 +445,11 @@
   - label: 'urj/feat'
   - label: 'xcl/feat'
 - label: 'Definitizer'
+  filename: 'Definitizer'
   languages:
   - label: 'ceb/feat'
 - label: 'Degree'
+  filename: 'Degree'
   languages:
   - label: 'af/feat'
   - label: 'axm/feat'
@@ -428,6 +489,7 @@
   - label: 'uz/feat'
   - label: 'xmf/feat'
 - label: 'Deixis'
+  filename: 'Deixis'
   languages:
   - label: 'aqz/feat'
   - label: 'axm/feat'
@@ -441,22 +503,27 @@
   - label: 'u/feat'
   - label: 'xcl/feat'
 - label: 'Deixis[psor]'
+  filename: 'Deixis-psor'
   languages:
   - label: 'axm/feat'
   - label: 'hy/feat'
   - label: 'hyw/feat'
 - label: 'DeixisRef'
+  filename: 'DeixisRef'
   languages:
   - label: 'qpm/feat'
   - label: 'u/feat'
 - label: 'Delib'
+  filename: 'Delib'
   languages:
   - label: 'gn/feat'
   - label: 'tpn/feat'
 - label: 'Deo'
+  filename: 'Deo'
   languages:
   - label: 'gub/feat'
 - label: 'Derivation'
+  filename: 'Derivation'
   languages:
   - label: 'abq/feat'
   - label: 'apu/feat'
@@ -468,35 +535,44 @@
   - label: 'sms/feat'
   - label: 'yrl/feat'
 - label: 'Determ'
+  filename: 'Determ'
   languages:
   - label: 'aqz/feat'
 - label: 'Detrans'
+  filename: 'Detrans'
   languages:
   - label: 'gub/feat'
 - label: 'Dev'
+  filename: 'Dev'
   languages:
   - label: 'arr/feat'
   - label: 'gn/feat'
   - label: 'tpn/feat'
 - label: 'Dialect'
+  filename: 'Dialect'
   languages:
   - label: 'ga/feat'
 - label: 'Dist'
+  filename: 'Dist'
   languages:
   - label: 'jaa/feat'
 - label: 'Down'
+  filename: 'Down'
   languages:
   - label: 'jaa/feat'
 - label: 'Dyn'
+  filename: 'Dyn'
   languages:
   - label: 'ab/feat'
 - label: 'Echo'
+  filename: 'Echo'
   languages:
   - label: 'axm/feat'
   - label: 'hy/feat'
   - label: 'pal/feat'
   - label: 'u/feat'
 - label: 'Emph'
+  filename: 'Emph'
   languages:
   - label: 'arr/feat'
   - label: 'cop/feat'
@@ -508,18 +584,23 @@
   - label: 'tpn/feat'
   - label: 'xav/feat'
 - label: 'Emphatic'
+  filename: 'Emphatic'
   languages:
   - label: 'pl/feat'
 - label: 'Encl'
+  filename: 'Encl'
   languages:
   - label: 'ka/feat'
 - label: 'Epenthesis'
+  filename: 'Epenthesis'
   languages:
   - label: 'gsw/feat'
 - label: 'Ergative'
+  filename: 'Ergative'
   languages:
   - label: 'xav/feat'
 - label: 'Evident'
+  filename: 'Evident'
   languages:
   - label: 'ab/feat'
   - label: 'bor/feat'
@@ -534,9 +615,11 @@
   - label: 'u/feat'
   - label: 'xmf/feat'
 - label: 'Excl'
+  filename: 'Excl'
   languages:
   - label: 'eme/feat'
 - label: 'ExtPos'
+  filename: 'ExtPos'
   languages:
   - label: 'af/feat'
   - label: 'axm/feat'
@@ -568,12 +651,15 @@
   - label: 'uk/feat'
   - label: 'xcl/feat'
 - label: 'Fact'
+  filename: 'Fact'
   languages:
   - label: 'xav/feat'
 - label: 'False'
+  filename: 'False'
   languages:
   - label: 'gub/feat'
 - label: 'Foc'
+  filename: 'Foc'
   languages:
   - label: 'aqz/feat'
   - label: 'bor/feat'
@@ -583,12 +669,15 @@
   - label: 'tpn/feat'
   - label: 'yrl/feat'
 - label: 'Focus'
+  filename: 'Focus'
   languages:
   - label: 'quc/feat'
 - label: 'FocusType'
+  filename: 'FocusType'
   languages:
   - label: 'wo/feat'
 - label: 'Foreign'
+  filename: 'Foreign'
   languages:
   - label: 'axm/feat'
   - label: 'bej/feat'
@@ -609,6 +698,7 @@
   - label: 'xcl/feat'
   - label: 'xmf/feat'
 - label: 'Form'
+  filename: 'Form'
   languages:
   - label: 'ga/feat'
   - label: 'gd/feat'
@@ -616,9 +706,11 @@
   - label: 'ko/feat'
   - label: 'la/feat'
 - label: 'Fragment'
+  filename: 'Fragment'
   languages:
   - label: 'orv/feat'
 - label: 'Gender'
+  filename: 'Gender'
   languages:
   - label: 'bej/feat'
   - label: 'bg/feat'
@@ -644,39 +736,42 @@
   - label: 'u/feat'
   - label: 'uk/feat'
 - label: 'Gender[abs]'
+  filename: 'Gender-abs'
   languages:
   - label: 'abq/feat'
 - label: 'Gender[cs]'
+  filename: 'Gender-cs'
   languages:
   - label: 'ab/feat'
 - label: 'Gender[dat]'
+  filename: 'Gender-dat'
   languages:
   - label: 'u/feat'
 - label: 'Gender[erg]'
+  filename: 'Gender-erg'
   languages:
   - label: 'abq/feat'
   - label: 'u/feat'
 - label: 'Gender[io]'
+  filename: 'Gender-io'
   languages:
   - label: 'ab/feat'
   - label: 'abq/feat'
 - label: 'Gender[lo]'
+  filename: 'Gender-lo'
   languages:
   - label: 'ab/feat'
 - label: 'Gender[obj]'
+  filename: 'Gender-obj'
   languages:
   - label: 'ab/feat'
   - label: 'u/feat'
 - label: 'Gender[po]'
+  filename: 'Gender-po'
   languages:
   - label: 'ab/feat'
-- label: 'Gender[pred]'
-  languages:
-  - label: 'akk/feat'
-- label: 'Gender[prep]'
-  languages:
-  - label: 'akk/feat'
 - label: 'Gender[psor]'
+  filename: 'Gender-psor'
   languages:
   - label: 'ab/feat'
   - label: 'abq/feat'
@@ -684,66 +779,93 @@
   - label: 'sl/feat'
   - label: 'u/feat'
 - label: 'Gender[refl]'
+  filename: 'Gender-refl'
   languages:
   - label: 'ab/feat'
 - label: 'Gender[ro]'
+  filename: 'Gender-ro'
   languages:
   - label: 'ab/feat'
 - label: 'Gender[subj]'
+  filename: 'Gender-subj'
   languages:
   - label: 'ab/feat'
   - label: 'u/feat'
+- label: 'Gender[pred]'
+  filename: 'Gender[pred]'
+  languages:
+  - label: 'akk/feat'
+- label: 'Gender[prep]'
+  filename: 'Gender[prep]'
+  languages:
+  - label: 'akk/feat'
 - label: 'Gnc'
+  filename: 'Gnc'
   languages:
   - label: 'xav/feat'
 - label: 'HebBinyan'
+  filename: 'HebBinyan'
   languages:
   - label: 'hbo/feat'
   - label: 'he/feat'
 - label: 'HebExistential'
+  filename: 'HebExistential'
   languages:
   - label: 'he/feat'
 - label: 'Hnfc'
+  filename: 'Hnfc'
   languages:
   - label: 'xav/feat'
 - label: 'Hort'
+  filename: 'Hort'
   languages:
   - label: 'ruc/feat'
 - label: 'Htp'
+  filename: 'Htp'
   languages:
   - label: 'xav/feat'
 - label: 'Hum'
+  filename: 'Hum'
   languages:
   - label: 'gn/feat'
   - label: 'tpn/feat'
 - label: 'Human'
+  filename: 'Human'
   languages:
   - label: 'xav/feat'
 - label: 'Hyph'
+  filename: 'Hyph'
   languages:
   - label: 'cs/feat'
   - label: 'hy/feat'
   - label: 'u/feat'
-- label: 'Ch'
-  languages:
-  - label: 'jaa/feat'
 - label: 'Impersonal'
+  filename: 'Impersonal'
   languages:
   - label: 'egy/feat'
 - label: 'Imprs'
+  filename: 'Imprs'
   languages:
   - label: 'eme/feat'
 - label: 'Incorp'
+  filename: 'Incorp'
   languages:
   - label: 'arr/feat'
   - label: 'gn/feat'
   - label: 'myu/feat'
   - label: 'tpn/feat'
 - label: 'InfForm'
+  filename: 'InfForm'
   languages:
   - label: 'fi/feat'
   - label: 'mr/feat'
+- label: 'InfStruct'
+  filename: 'InfStruct'
+  languages:
+  - label: 'ctn/feat'
+  - label: 'ruc/feat'
 - label: 'InflClass'
+  filename: 'InflClass'
   languages:
   - label: 'be/feat'
   - label: 'la/feat'
@@ -751,13 +873,11 @@
   - label: 'ru/feat'
   - label: 'uk/feat'
 - label: 'InflClass[nominal]'
+  filename: 'InflClass-nominal'
   languages:
   - label: 'la/feat'
-- label: 'InfStruct'
-  languages:
-  - label: 'ctn/feat'
-  - label: 'ruc/feat'
 - label: 'Int'
+  filename: 'Int'
   languages:
   - label: 'abq/feat'
   - label: 'arr/feat'
@@ -769,6 +889,7 @@
   - label: 'tpn/feat'
   - label: 'xav/feat'
 - label: 'Intens'
+  filename: 'Intens'
   languages:
   - label: 'arr/feat'
   - label: 'bor/feat'
@@ -777,42 +898,55 @@
   - label: 'tpn/feat'
   - label: 'xav/feat'
 - label: 'Intense'
+  filename: 'Intense'
   languages:
   - label: 'urb/feat'
 - label: 'Intension'
+  filename: 'Intension'
   languages:
   - label: 'jaa/feat'
 - label: 'Irr'
+  filename: 'Irr'
   languages:
   - label: 'bor/feat'
 - label: 'LangId'
+  filename: 'LangId'
   languages:
   - label: 'hyw/feat'
 - label: 'Language'
+  filename: 'Language'
   languages:
   - label: 'hit/feat'
 - label: 'Link'
+  filename: 'Link'
   languages:
   - label: 'tl/feat'
 - label: 'LongForm'
+  filename: 'LongForm'
   languages:
   - label: 'xav/feat'
 - label: 'MaParticle'
+  filename: 'MaParticle'
   languages:
   - label: 'akk/feat'
 - label: 'Middle'
+  filename: 'Middle'
   languages:
   - label: 'jaa/feat'
 - label: 'Mir'
+  filename: 'Mir'
   languages:
   - label: 'xav/feat'
 - label: 'Modal'
+  filename: 'Modal'
   languages:
   - label: 'nmf/feat'
 - label: 'Modality'
+  filename: 'Modality'
   languages:
   - label: 'yrl/feat'
 - label: 'Mood'
+  filename: 'Mood'
   languages:
   - label: 'ab/feat'
   - label: 'akk/feat'
@@ -856,8 +990,8 @@
   - label: 'qpm/feat'
   - label: 'qtd/feat'
   - label: 'quc/feat'
-  - label: 'ruc/feat'
   - label: 'ru/feat'
+  - label: 'ruc/feat'
   - label: 'say/feat'
   - label: 'sl/feat'
   - label: 'sv/feat'
@@ -873,18 +1007,26 @@
   - label: 'xmf/feat'
   - label: 'yrk/feat'
 - label: 'Morph'
+  filename: 'Morph'
   languages:
   - label: 'fro/feat'
 - label: 'Movement'
+  filename: 'Movement'
   languages:
   - label: 'azz/feat'
   - label: 'nci/feat'
   - label: 'nhi/feat'
   - label: 'quc/feat'
 - label: 'Mutation'
+  filename: 'Mutation'
   languages:
   - label: 'cy/feat'
+- label: 'NCount'
+  filename: 'NCount'
+  languages:
+  - label: 'jaa/feat'
 - label: 'NameType'
+  filename: 'NameType'
   languages:
   - label: 'axm/feat'
   - label: 'cs/feat'
@@ -900,29 +1042,33 @@
   - label: 'ru/feat'
   - label: 'u/feat'
   - label: 'xmf/feat'
-- label: 'NCount'
-  languages:
-  - label: 'jaa/feat'
 - label: 'NegationType'
+  filename: 'NegationType'
   languages:
   - label: 'myv/feat'
 - label: 'Neutral'
+  filename: 'Neutral'
   languages:
   - label: 'ceb/feat'
 - label: 'Nisba'
+  filename: 'Nisba'
   languages:
   - label: 'egy/feat'
 - label: 'Nmzr'
+  filename: 'Nmzr'
   languages:
   - label: 'eme/feat'
   - label: 'jaa/feat'
 - label: 'Nom'
+  filename: 'Nom'
   languages:
   - label: 'jaa/feat'
 - label: 'Nominal'
+  filename: 'Nominal'
   languages:
   - label: 'egy/feat'
 - label: 'Nomzr'
+  filename: 'Nomzr'
   languages:
   - label: 'apy/feat'
   - label: 'aqz/feat'
@@ -940,32 +1086,40 @@
   - label: 'urb/feat'
   - label: 'xav/feat'
 - label: 'NonFoc'
+  filename: 'NonFoc'
   languages:
   - label: 'gn/feat'
   - label: 'gub/feat'
   - label: 'tpn/feat'
 - label: 'NounBase'
+  filename: 'NounBase'
   languages:
   - label: 'akk/feat'
 - label: 'NounClass'
+  filename: 'NounClass'
   languages:
   - label: 'nci/feat'
   - label: 'ruc/feat'
   - label: 'tn/feat'
   - label: 'u/feat'
 - label: 'NounClass[iobj]'
+  filename: 'NounClass-iobj'
   languages:
   - label: 'ruc/feat'
 - label: 'NounClass[obj]'
+  filename: 'NounClass-obj'
   languages:
   - label: 'ruc/feat'
 - label: 'NounClass[psed]'
+  filename: 'NounClass-psed'
   languages:
   - label: 'ruc/feat'
 - label: 'NounClass[psor]'
+  filename: 'NounClass-psor'
   languages:
   - label: 'ruc/feat'
 - label: 'NounType'
+  filename: 'NounType'
   languages:
   - label: 'azz/feat'
   - label: 'ga/feat'
@@ -979,7 +1133,72 @@
   - label: 'quc/feat'
   - label: 'sq/feat'
   - label: 'u/feat'
+- label: 'NumForm'
+  filename: 'NumForm'
+  languages:
+  - label: 'axm/feat'
+  - label: 'cs/feat'
+  - label: 'es/feat'
+  - label: 'hy/feat'
+  - label: 'hyw/feat'
+  - label: 'ka/feat'
+  - label: 'la/feat'
+  - label: 'lt/feat'
+  - label: 'mdf/feat'
+  - label: 'oge/feat'
+  - label: 'orv/feat'
+  - label: 'ru/feat'
+  - label: 'sl/feat'
+  - label: 'u/feat'
+  - label: 'xmf/feat'
+- label: 'NumType'
+  filename: 'NumType'
+  languages:
+  - label: 'axm/feat'
+  - label: 'bej/feat'
+  - label: 'bg/feat'
+  - label: 'bm/feat'
+  - label: 'cs/feat'
+  - label: 'el/feat'
+  - label: 'en/feat'
+  - label: 'es/feat'
+  - label: 'fi/feat'
+  - label: 'fr/feat'
+  - label: 'ga/feat'
+  - label: 'hu/feat'
+  - label: 'hy/feat'
+  - label: 'it/feat'
+  - label: 'ka/feat'
+  - label: 'kk/feat'
+  - label: 'koi/feat'
+  - label: 'kpv/feat'
+  - label: 'ky/feat'
+  - label: 'mdf/feat'
+  - label: 'myv/feat'
+  - label: 'naq/feat'
+  - label: 'oge/feat'
+  - label: 'pal/feat'
+  - label: 'pcm/feat'
+  - label: 'qpm/feat'
+  - label: 'sl/feat'
+  - label: 'sme/feat'
+  - label: 'sv/feat'
+  - label: 'tr/feat'
+  - label: 'tt/feat'
+  - label: 'u/feat'
+  - label: 'uk/feat'
+  - label: 'urj/feat'
+  - label: 'uz/feat'
+  - label: 'xav/feat'
+  - label: 'xcl/feat'
+  - label: 'xmf/feat'
+- label: 'NumValue'
+  filename: 'NumValue'
+  languages:
+  - label: 'ar/feat'
+  - label: 'la/feat'
 - label: 'Number'
+  filename: 'Number'
   languages:
   - label: 'ab/feat'
   - label: 'arr/feat'
@@ -1029,69 +1248,71 @@
   - label: 'xcl/feat'
   - label: 'xmf/feat'
 - label: 'Number[abs]'
+  filename: 'Number-abs'
   languages:
   - label: 'abq/feat'
   - label: 'u/feat'
 - label: 'Number[cs]'
+  filename: 'Number-cs'
   languages:
   - label: 'ab/feat'
 - label: 'Number[dat]'
+  filename: 'Number-dat'
   languages:
   - label: 'u/feat'
 - label: 'Number[dsauf]'
+  filename: 'Number-dsauf'
   languages:
   - label: 'oge/feat'
 - label: 'Number[erg]'
+  filename: 'Number-erg'
   languages:
   - label: 'abq/feat'
   - label: 'u/feat'
 - label: 'Number[grnd]'
+  filename: 'Number-grnd'
   languages:
   - label: 'yrl/feat'
 - label: 'Number[io]'
+  filename: 'Number-io'
   languages:
   - label: 'ab/feat'
   - label: 'abq/feat'
   - label: 'ka/feat'
   - label: 'oge/feat'
-- label: 'Number[io]'
-  languages:
-  - label: 'xmf/feat'
 - label: 'Number[iobj]'
+  filename: 'Number-iobj'
   languages:
   - label: 'nci/feat'
   - label: 'nhi/feat'
   - label: 'ruc/feat'
 - label: 'Number[lo]'
+  filename: 'Number-lo'
   languages:
   - label: 'ab/feat'
 - label: 'Number[obj]'
+  filename: 'Number-obj'
   languages:
   - label: 'ess/feat'
   - label: 'ka/feat'
   - label: 'oge/feat'
   - label: 'ruc/feat'
   - label: 'u/feat'
-- label: 'Number[obj]'
-  languages:
-  - label: 'xmf/feat'
 - label: 'Number[p]'
+  filename: 'Number-p'
   languages:
   - label: 'ctn/feat'
 - label: 'Number[po]'
+  filename: 'Number-po'
   languages:
   - label: 'ab/feat'
-- label: 'Number[pred]'
-  languages:
-  - label: 'akk/feat'
-- label: 'Number[prep]'
-  languages:
-  - label: 'akk/feat'
 - label: 'Number[psed]'
+  filename: 'Number-psed'
   languages:
   - label: 'hu/feat'
   - label: 'u/feat'
 - label: 'Number[psor]'
+  filename: 'Number-psor'
   languages:
   - label: 'abq/feat'
   - label: 'axm/feat'
@@ -1111,100 +1332,66 @@
   - label: 'u/feat'
   - label: 'uz/feat'
 - label: 'Number[refl]'
+  filename: 'Number-refl'
   languages:
   - label: 'ab/feat'
 - label: 'Number[ro]'
+  filename: 'Number-ro'
   languages:
   - label: 'ab/feat'
 - label: 'Number[sauf]'
+  filename: 'Number-sauf'
   languages:
   - label: 'oge/feat'
 - label: 'Number[subj]'
+  filename: 'Number-subj'
   languages:
   - label: 'ess/feat'
   - label: 'ka/feat'
   - label: 'oge/feat'
   - label: 'u/feat'
+- label: 'Number[io]'
+  filename: 'Number[io]'
+  languages:
+  - label: 'xmf/feat'
+- label: 'Number[obj]'
+  filename: 'Number[obj]'
+  languages:
+  - label: 'xmf/feat'
+- label: 'Number[pred]'
+  filename: 'Number[pred]'
+  languages:
+  - label: 'akk/feat'
+- label: 'Number[prep]'
+  filename: 'Number[prep]'
+  languages:
+  - label: 'akk/feat'
 - label: 'Number[subj]'
+  filename: 'Number[subj]'
   languages:
   - label: 'xmf/feat'
-- label: 'NumForm'
+- label: 'OC'
+  filename: 'OC'
   languages:
-  - label: 'axm/feat'
-  - label: 'cs/feat'
-  - label: 'es/feat'
-  - label: 'hy/feat'
-  - label: 'hyw/feat'
-  - label: 'ka/feat'
-  - label: 'la/feat'
-  - label: 'lt/feat'
-  - label: 'mdf/feat'
-  - label: 'oge/feat'
-  - label: 'orv/feat'
-  - label: 'ru/feat'
-  - label: 'sl/feat'
-  - label: 'u/feat'
-  - label: 'xmf/feat'
-- label: 'NumType'
-  languages:
-  - label: 'axm/feat'
-  - label: 'bej/feat'
-  - label: 'bg/feat'
-  - label: 'bm/feat'
-  - label: 'cs/feat'
-  - label: 'el/feat'
-  - label: 'en/feat'
-  - label: 'es/feat'
-  - label: 'fi/feat'
-  - label: 'fr/feat'
-  - label: 'ga/feat'
-  - label: 'hu/feat'
-  - label: 'hy/feat'
-  - label: 'it/feat'
-  - label: 'ka/feat'
-  - label: 'kk/feat'
-  - label: 'koi/feat'
-  - label: 'kpv/feat'
-  - label: 'ky/feat'
-  - label: 'mdf/feat'
-  - label: 'myv/feat'
-  - label: 'naq/feat'
-  - label: 'oge/feat'
-  - label: 'pal/feat'
-  - label: 'pcm/feat'
-  - label: 'qpm/feat'
-  - label: 'sl/feat'
-  - label: 'sme/feat'
-  - label: 'sv/feat'
-  - label: 'tr/feat'
-  - label: 'tt/feat'
-  - label: 'u/feat'
-  - label: 'uk/feat'
-  - label: 'urj/feat'
-  - label: 'uz/feat'
-  - label: 'xav/feat'
-  - label: 'xcl/feat'
-  - label: 'xmf/feat'
-- label: 'NumValue'
-  languages:
-  - label: 'ar/feat'
-  - label: 'la/feat'
+  - label: 'jaa/feat'
 - label: 'Obl'
+  filename: 'Obl'
   languages:
   - label: 'aqz/feat'
 - label: 'OblTop'
+  filename: 'OblTop'
   languages:
   - label: 'arr/feat'
-- label: 'OC'
-  languages:
-  - label: 'jaa/feat'
 - label: 'Orth'
+  filename: 'Orth'
   languages:
   - label: 'uk/feat'
 - label: 'Out'
+  filename: 'Out'
   languages:
   - label: 'jaa/feat'
 - label: 'PartForm'
+  filename: 'PartForm'
   languages:
   - label: 'fi/feat'
   - label: 'kpv/feat'
@@ -1212,6 +1399,7 @@
   - label: 'mdf/feat'
   - label: 'myv/feat'
 - label: 'PartType'
+  filename: 'PartType'
   languages:
   - label: 'af/feat'
   - label: 'de/feat'
@@ -1233,15 +1421,19 @@
   - label: 'yrl/feat'
   - label: 'zh/feat'
 - label: 'PartTypeQpm'
+  filename: 'PartTypeQpm'
   languages:
   - label: 'qpm/feat'
 - label: 'PastType'
+  filename: 'PastType'
   languages:
   - label: 'say/feat'
 - label: 'Pcl'
+  filename: 'Pcl'
   languages:
   - label: 'mpu/feat'
 - label: 'Person'
+  filename: 'Person'
   languages:
   - label: 'aqz/feat'
   - label: 'arr/feat'
@@ -1285,37 +1477,46 @@
   - label: 'xav/feat'
   - label: 'xcl/feat'
 - label: 'Person[abs]'
+  filename: 'Person-abs'
   languages:
   - label: 'abq/feat'
   - label: 'u/feat'
 - label: 'Person[cs]'
+  filename: 'Person-cs'
   languages:
   - label: 'ab/feat'
 - label: 'Person[dat]'
+  filename: 'Person-dat'
   languages:
   - label: 'u/feat'
 - label: 'Person[erg]'
+  filename: 'Person-erg'
   languages:
   - label: 'abq/feat'
   - label: 'u/feat'
 - label: 'Person[grnd]'
+  filename: 'Person-grnd'
   languages:
   - label: 'yrl/feat'
 - label: 'Person[io]'
+  filename: 'Person-io'
   languages:
   - label: 'ab/feat'
   - label: 'abq/feat'
   - label: 'ka/feat'
   - label: 'oge/feat'
 - label: 'Person[iobj]'
+  filename: 'Person-iobj'
   languages:
   - label: 'nci/feat'
   - label: 'nhi/feat'
   - label: 'ruc/feat'
 - label: 'Person[lo]'
+  filename: 'Person-lo'
   languages:
   - label: 'ab/feat'
 - label: 'Person[obj]'
+  filename: 'Person-obj'
   languages:
   - label: 'ab/feat'
   - label: 'ess/feat'
@@ -1324,21 +1525,19 @@
   - label: 'ruc/feat'
   - label: 'u/feat'
 - label: 'Person[p]'
+  filename: 'Person-p'
   languages:
   - label: 'ctn/feat'
 - label: 'Person[po]'
+  filename: 'Person-po'
   languages:
   - label: 'ab/feat'
-- label: 'Person[pred]'
-  languages:
-  - label: 'akk/feat'
-- label: 'Person[prep]'
-  languages:
-  - label: 'akk/feat'
 - label: 'Person[psed]'
+  filename: 'Person-psed'
   languages:
   - label: 'ruc/feat'
 - label: 'Person[psor]'
+  filename: 'Person-psor'
   languages:
   - label: 'ab/feat'
   - label: 'abq/feat'
@@ -1361,19 +1560,31 @@
   - label: 'u/feat'
   - label: 'uz/feat'
 - label: 'Person[refl]'
+  filename: 'Person-refl'
   languages:
   - label: 'ab/feat'
 - label: 'Person[ro]'
+  filename: 'Person-ro'
   languages:
   - label: 'ab/feat'
 - label: 'Person[subj]'
+  filename: 'Person-subj'
   languages:
   - label: 'ab/feat'
   - label: 'ess/feat'
   - label: 'ka/feat'
   - label: 'oge/feat'
   - label: 'u/feat'
+- label: 'Person[pred]'
+  filename: 'Person[pred]'
+  languages:
+  - label: 'akk/feat'
+- label: 'Person[prep]'
+  filename: 'Person[prep]'
+  languages:
+  - label: 'akk/feat'
 - label: 'Polarity'
+  filename: 'Polarity'
   languages:
   - label: 'axm/feat'
   - label: 'bej/feat'
@@ -1409,6 +1620,7 @@
   - label: 'urj/feat'
   - label: 'xcl/feat'
 - label: 'Polite'
+  filename: 'Polite'
   languages:
   - label: 'bej/feat'
   - label: 'es/feat'
@@ -1416,18 +1628,23 @@
   - label: 'pl/feat'
   - label: 'u/feat'
 - label: 'Polite[abs]'
+  filename: 'Polite-abs'
   languages:
   - label: 'u/feat'
 - label: 'Polite[dat]'
+  filename: 'Polite-dat'
   languages:
   - label: 'u/feat'
 - label: 'Polite[erg]'
+  filename: 'Polite-erg'
   languages:
   - label: 'u/feat'
 - label: 'Position'
+  filename: 'Position'
   languages:
   - label: 'ro/feat'
 - label: 'Poss'
+  filename: 'Poss'
   languages:
   - label: 'arr/feat'
   - label: 'axm/feat'
@@ -1462,34 +1679,42 @@
   - label: 'xcl/feat'
   - label: 'xmf/feat'
 - label: 'Possessed'
+  filename: 'Possessed'
   languages:
   - label: 'apu/feat'
 - label: 'Pred'
+  filename: 'Pred'
   languages:
   - label: 'bor/feat'
   - label: 'eme/feat'
 - label: 'Prefix'
+  filename: 'Prefix'
   languages:
   - label: 'egy/feat'
   - label: 'he/feat'
   - label: 'sga/feat'
 - label: 'PrepCase'
+  filename: 'PrepCase'
   languages:
   - label: 'cs/feat'
   - label: 'es/feat'
   - label: 'u/feat'
 - label: 'PrepForm'
+  filename: 'PrepForm'
   languages:
   - label: 'ga/feat'
 - label: 'Priv'
+  filename: 'Priv'
   languages:
   - label: 'gn/feat'
   - label: 'tpn/feat'
 - label: 'PronClass'
+  filename: 'PronClass'
   languages:
   - label: 'egy/feat'
   - label: 'sga/feat'
 - label: 'PronType'
+  filename: 'PronType'
   languages:
   - label: 'arr/feat'
   - label: 'axm/feat'
@@ -1536,15 +1761,19 @@
   - label: 'xmf/feat'
   - label: 'zh/feat'
 - label: 'Proper'
+  filename: 'Proper'
   languages:
   - label: 'la/feat'
 - label: 'Prp'
+  filename: 'Prp'
   languages:
   - label: 'gub/feat'
 - label: 'Pun'
+  filename: 'Pun'
   languages:
   - label: 'pl/feat'
 - label: 'PunctSide'
+  filename: 'PunctSide'
   languages:
   - label: 'es/feat'
   - label: 'mdf/feat'
@@ -1552,6 +1781,7 @@
   - label: 'oge/feat'
   - label: 'u/feat'
 - label: 'PunctType'
+  filename: 'PunctType'
   languages:
   - label: 'el/feat'
   - label: 'es/feat'
@@ -1561,22 +1791,28 @@
   - label: 'uk/feat'
   - label: 'xmf/feat'
 - label: 'Purp'
+  filename: 'Purp'
   languages:
   - label: 'bor/feat'
 - label: 'Purpose'
+  filename: 'Purpose'
   languages:
   - label: 'nci/feat'
 - label: 'RcpType'
+  filename: 'RcpType'
   languages:
   - label: 'abq/feat'
 - label: 'Reach'
+  filename: 'Reach'
   languages:
   - label: 'ctn/feat'
 - label: 'Recip'
+  filename: 'Recip'
   languages:
   - label: 'gn/feat'
   - label: 'tpn/feat'
 - label: 'Red'
+  filename: 'Red'
   languages:
   - label: 'ctn/feat'
   - label: 'eme/feat'
@@ -1589,14 +1825,17 @@
   - label: 'tpn/feat'
   - label: 'yrl/feat'
 - label: 'Redup'
+  filename: 'Redup'
   languages:
   - label: 'aqz/feat'
   - label: 'arr/feat'
   - label: 'jaa/feat'
 - label: 'Referent'
+  filename: 'Referent'
   languages:
   - label: 'ruc/feat'
 - label: 'Reflex'
+  filename: 'Reflex'
   languages:
   - label: 'axm/feat'
   - label: 'bej/feat'
@@ -1628,16 +1867,20 @@
   - label: 'xcl/feat'
   - label: 'xmf/feat'
 - label: 'Reflex[iobj]'
+  filename: 'Reflex-iobj'
   languages:
   - label: 'nci/feat'
 - label: 'Reflex[obj]'
+  filename: 'Reflex-obj'
   languages:
   - label: 'ess/feat'
   - label: 'nci/feat'
 - label: 'Reflex[subj]'
+  filename: 'Reflex-subj'
   languages:
   - label: 'ess/feat'
 - label: 'Rel'
+  filename: 'Rel'
   languages:
   - label: 'aqz/feat'
   - label: 'arr/feat'
@@ -1649,54 +1892,69 @@
   - label: 'tpn/feat'
   - label: 'urb/feat'
   - label: 'yrl/feat'
-- label: 'Reln'
-  languages:
-  - label: 'ab/feat'
 - label: 'RelType'
+  filename: 'RelType'
   languages:
   - label: 'ab/feat'
   - label: 'abq/feat'
+- label: 'Reln'
+  filename: 'Reln'
+  languages:
+  - label: 'ab/feat'
 - label: 'Rep'
+  filename: 'Rep'
   languages:
   - label: 'jaa/feat'
 - label: 'Report'
+  filename: 'Report'
   languages:
   - label: 'jaa/feat'
 - label: 'ReportedSpeech'
+  filename: 'ReportedSpeech'
   languages:
   - label: 'bej/feat'
 - label: 'Restr'
+  filename: 'Restr'
   languages:
   - label: 'xav/feat'
 - label: 'SecV'
+  filename: 'SecV'
   languages:
   - label: 'jaa/feat'
 - label: 'Singulative'
+  filename: 'Singulative'
   languages:
   - label: 'bej/feat'
 - label: 'Sp'
+  filename: 'Sp'
   languages:
   - label: 'jaa/feat'
 - label: 'Speech'
+  filename: 'Speech'
   languages:
   - label: 'bor/feat'
   - label: 'gn/feat'
   - label: 'gub/feat'
   - label: 'tpn/feat'
 - label: 'St'
+  filename: 'St'
   languages:
   - label: 'jaa/feat'
-- label: 'State'
-  languages:
-  - label: 'nci/feat'
 - label: 'StatPrep'
+  filename: 'StatPrep'
   languages:
   - label: 'egy/feat'
+- label: 'State'
+  filename: 'State'
+  languages:
+  - label: 'nci/feat'
 - label: 'Strength'
+  filename: 'Strength'
   languages:
   - label: 'got/feat'
   - label: 'ro/feat'
 - label: 'Style'
+  filename: 'Style'
   languages:
   - label: 'axm/feat'
   - label: 'cs/feat'
@@ -1706,7 +1964,20 @@
   - label: 'pal/feat'
   - label: 'u/feat'
   - label: 'yrl/feat'
+- label: 'SubForm'
+  filename: 'SubForm'
+  languages:
+  - label: 'egy/feat'
+- label: 'SubGender'
+  filename: 'SubGender'
+  languages:
+  - label: 'pl/feat'
+- label: 'SubSuff'
+  filename: 'SubSuff'
+  languages:
+  - label: 'akk/feat'
 - label: 'Subcat'
+  filename: 'Subcat'
   languages:
   - label: 'af/feat'
   - label: 'axm/feat'
@@ -1718,23 +1989,17 @@
   - label: 'quc/feat'
   - label: 'u/feat'
   - label: 'xmf/feat'
-- label: 'SubForm'
-  languages:
-  - label: 'egy/feat'
-- label: 'SubGender'
-  languages:
-  - label: 'pl/feat'
 - label: 'Subord'
+  filename: 'Subord'
   languages:
   - label: 'bor/feat'
   - label: 'eme/feat'
 - label: 'Subordinative'
-  languages:
-  - label: 'akk/feat'
-- label: 'SubSuff'
+  filename: 'Subordinative'
   languages:
   - label: 'akk/feat'
 - label: 'Tense'
+  filename: 'Tense'
   languages:
   - label: 'ab/feat'
   - label: 'abq/feat'
@@ -1768,8 +2033,8 @@
   - label: 'pcm/feat'
   - label: 'ps/feat'
   - label: 'qpm/feat'
-  - label: 'ruc/feat'
   - label: 'ru/feat'
+  - label: 'ruc/feat'
   - label: 'sah/feat'
   - label: 'say/feat'
   - label: 'sl/feat'
@@ -1783,26 +2048,33 @@
   - label: 'xcl/feat'
   - label: 'xmf/feat'
 - label: 'TenseEvid'
+  filename: 'TenseEvid'
   languages:
   - label: 'jaa/feat'
 - label: 'TokenType'
+  filename: 'TokenType'
   languages:
   - label: 'bej/feat'
 - label: 'Top'
+  filename: 'Top'
   languages:
   - label: 'eme/feat'
 - label: 'Trans'
+  filename: 'Trans'
   languages:
   - label: 'ab/feat'
   - label: 'aqz/feat'
   - label: 'myu/feat'
 - label: 'Transc'
+  filename: 'Transc'
   languages:
   - label: 'pal/feat'
 - label: 'Tv'
+  filename: 'Tv'
   languages:
   - label: 'aqz/feat'
 - label: 'Typo'
+  filename: 'Typo'
   languages:
   - label: 'axm/feat'
   - label: 'fi/feat'
@@ -1811,12 +2083,15 @@
   - label: 'sv/feat'
   - label: 'u/feat'
 - label: 'Uninflect'
+  filename: 'Uninflect'
   languages:
   - label: 'uk/feat'
 - label: 'Up'
+  filename: 'Up'
   languages:
   - label: 'jaa/feat'
 - label: 'Valency'
+  filename: 'Valency'
   languages:
   - label: 'bm/feat'
   - label: 'koi/feat'
@@ -1825,6 +2100,7 @@
   - label: 'myv/feat'
   - label: 'sms/feat'
 - label: 'Variant'
+  filename: 'Variant'
   languages:
   - label: 'be/feat'
   - label: 'cs/feat'
@@ -1845,14 +2121,17 @@
   - label: 'sl/feat'
   - label: 'uk/feat'
 - label: 'Ventive'
+  filename: 'Ventive'
   languages:
   - label: 'akk/feat'
   - label: 'xav/feat'
 - label: 'VerbClass'
+  filename: 'VerbClass'
   languages:
   - label: 'bej/feat'
   - label: 'egy/feat'
 - label: 'VerbForm'
+  filename: 'VerbForm'
   languages:
   - label: 'ab/feat'
   - label: 'abq/feat'
@@ -1900,9 +2179,11 @@
   - label: 'xcl/feat'
   - label: 'xmf/feat'
 - label: 'VerbStem'
+  filename: 'VerbStem'
   languages:
   - label: 'akk/feat'
 - label: 'VerbType'
+  filename: 'VerbType'
   languages:
   - label: 'af/feat'
   - label: 'apu/feat'
@@ -1915,6 +2196,7 @@
   - label: 'u/feat'
   - label: 'xmf/feat'
 - label: 'Voice'
+  filename: 'Voice'
   languages:
   - label: 'abq/feat'
   - label: 'am/feat'
@@ -1951,8 +2233,8 @@
   - label: 'qpm/feat'
   - label: 'qtd/feat'
   - label: 'quc/feat'
-  - label: 'ruc/feat'
   - label: 'ru/feat'
+  - label: 'ruc/feat'
   - label: 'sv/feat'
   - label: 'tl/feat'
   - label: 'tpn/feat'
@@ -1965,5 +2247,6 @@
   - label: 'xcl/feat'
   - label: 'xmf/feat'
 - label: 'Voice[add]'
+  filename: 'Voice-add'
   languages:
   - label: 'ruc/feat'

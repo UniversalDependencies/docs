@@ -68,4 +68,4 @@ compound:lvc(ചെയ്തത്, അറസ്റ്റു)
 punct(ചെയ്തത്, .)
 ~~~
 'He was arrested by the police on a POCSO case.'
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:04 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:25 CEST -->

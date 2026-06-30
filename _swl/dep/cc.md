@@ -12,4 +12,4 @@ For more on coordination, see the [conj]() relation.
 MEN FRAMTID PU@g PERF-NEG BESTÄMMA-SIG VAD VILL BLI(L) PU@g \n But about the future, I haven't decided what I want to become
 cc(år, och)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:55 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:18 CEST -->

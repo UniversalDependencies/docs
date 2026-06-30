@@ -62,4 +62,4 @@ The finer-grained value of this marker is annotated as [NounClass[iobj]]().
 * _a-ka-<b>ba</b>-wa_<br>
   NC1.SBJ-NC12.OBJ-**NC2.IOBJ**-give<br>
   "he gives it (money) to them"
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:05 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:40 CEST -->

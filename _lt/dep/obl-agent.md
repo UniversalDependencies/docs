@@ -18,4 +18,4 @@ Mano parašytas darbas . \n The-work written by-me .
 obl:agent(parašytas, Mano)
 obl:agent(written, by-me)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:57 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:05 CEST -->

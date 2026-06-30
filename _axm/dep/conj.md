@@ -71,4 +71,4 @@ Coordinate clauses are treated the same way as coordination of other constituent
 ~~~
 
 See [universal/conj](u-dep/conj) for more details on various coordination-related issues.
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:05 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:26 CEST -->

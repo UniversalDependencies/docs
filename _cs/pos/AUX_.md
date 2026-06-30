@@ -91,4 +91,4 @@ is not analyzed as auxiliary.
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is an auxiliary verb?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAnAuxiliaryVerb.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Auxiliary_verb)
 - Jarmila Panevová, Eva Benešová, Petr Sgall. 1971. Čas a modalita v&nbsp;češtině (Tense and modality in Czech). Acta Universitatis Carolinae, Philologica Monographia XXXIV, Universita Karlova Praha
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:13 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:00 CEST -->

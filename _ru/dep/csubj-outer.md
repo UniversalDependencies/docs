@@ -36,4 +36,4 @@ expl(important, It)
 csubj(important, respect)
 nsubj(respect, students)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:11 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:30 CEST -->

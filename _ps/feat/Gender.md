@@ -38,4 +38,4 @@ grammatically feminine, without any relation to sex.
 * مياشت _myấšt_ month
 * سپوږمۍ _spoǧmë́y_ moon
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:43 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:22 CEST -->

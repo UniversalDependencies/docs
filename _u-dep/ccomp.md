@@ -106,4 +106,4 @@ _Changed:_
 - In earlier versions of SD/USD, complement clauses with nouns like *fact* or *report* were also analyzed as `ccomp`. However, we now analyze them as [acl](). Hence, `ccomp` does not appear in nominals. This makes sense, since nominals normally do not take core arguments.
 - The policy for copular constructions with a full clause as predicate has been [changed](/changes.html#multiple-subjects) to no longer use `ccomp` to nest the predicate clause under the copula.
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:56 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:19 CEST -->

@@ -133,4 +133,4 @@ However, this relation does not apply to arguments that appear in non-canonical 
 4	now."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:22 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:38 CEST -->

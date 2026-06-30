@@ -57,4 +57,4 @@ Used for time expressions such as:
 * 1.00'16''
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:01 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:32 CEST -->

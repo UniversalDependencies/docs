@@ -21,4 +21,4 @@ obl(кырсыгы, районундагы)
 Нарында көк-бөрү боюнча беттеш башталды . \n In Naryn, the blue-wolf match has started.
 obl(башталды, Нарында)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:55 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:04 CEST -->

@@ -35,4 +35,4 @@ nouns that are neither masculine nor feminine (grammatically).
 
 * _παιδίον_ "little child"
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:43 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:22 CEST -->

@@ -37,4 +37,4 @@ moment.
 
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1523> (in Finnish)
 * <http://scripta.kotus.fi/visk/sisallys.php?p=1530> (in Finnish)
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:50 CEST -->

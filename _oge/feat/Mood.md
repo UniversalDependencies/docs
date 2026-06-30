@@ -42,4 +42,4 @@ The speaker uses imperative to order or ask the addressee to do the action of th
 * _წერდი_ 'write!', _დაწერენ_ 'write later'
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:51 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:28 CEST -->

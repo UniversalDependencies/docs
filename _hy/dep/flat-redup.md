@@ -119,4 +119,4 @@ Reduplication is a common process especially for [adverbs](ADV) and [adjectives]
 5	աշխարհից	աշխարհ	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	4	obl	_	Translit=ašxarhic’|LTranslit=ašxarh
 6	աշխարհ	աշխարհ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	flat:redup	_	Translit=ašxarh|LTranslit=ašxarh|SpaceAfter=No
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:30 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:44 CEST -->

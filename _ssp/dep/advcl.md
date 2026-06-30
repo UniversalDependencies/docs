@@ -17,4 +17,4 @@ An adverbial clause modifier is a clause which modifies a verb or other predicat
 1	cl.m(5d):agarrar-fruta	_	VERB	V.D	_	2	advcl	_	Gloss=cl
 2	GRACIAS(1M)	_	VERB	V.Dir	_	0	root	_	Gloss=THANKS(1H)
 ~~~ 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:30 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:58 CEST -->

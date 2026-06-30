@@ -22,4 +22,4 @@ ccomp(vidyāt, bhaviṣyati)
 orphan(paśumatī, goṣṭhād)
 conj(bhaviṣyati, paśumatī)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:13:04 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:12 CEST -->

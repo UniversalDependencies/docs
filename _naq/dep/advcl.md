@@ -30,4 +30,4 @@ Khoe-i ge go hā sada i nî mû ga . \n Person DECL RPST come we.OBL he will see
 advcl(hā, mû)
 advcl(come, see)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:30 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:58 CEST -->

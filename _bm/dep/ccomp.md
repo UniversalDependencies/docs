@@ -47,4 +47,4 @@ This  is also used with copula like verb _kó_ while it introduces indirect spe
 
 ~~~
 'A king says that all women must come with their dust'.
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:55 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:18 CEST -->

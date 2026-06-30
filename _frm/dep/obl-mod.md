@@ -17,4 +17,4 @@ xcomp(fist, tendre)
 obj(tendre, pavillons)
 det(pavillons, ses)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:13:02 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:09 CEST -->

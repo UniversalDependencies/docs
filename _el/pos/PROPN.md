@@ -59,4 +59,4 @@ Also when acronyms are spelled out, e.g.,  #μου-μου-ε* (spelling out of t
     - Avenue/motorway names consting of two place names in the genitive case (starting-ending places), e.g., *Αθηνών-Κορίνθου* "Athens to Corinth Avenue".  These are productive compounds. Each part of the compound is assigned the tag [PROPN]() and the second proper noun depends on the first one with the  relation <code>compound</code>; the first proper noun is considered the head of the compound. 
 
 Surnames in the GENitive case, like *Κανέλλου* / *Kanelou*  (feminine)  and  *Δημητρίου* /  *Dimitriou* (masculine/femnine), do not inflect and are assigned their own form as a lemma, e.g., the lemma is *Κανέλλου*.  
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:20 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:04 CEST -->

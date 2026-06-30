@@ -51,4 +51,4 @@ Even though Welsh has not passive, there is a periphrastic construction using th
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:43 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:55 CEST -->

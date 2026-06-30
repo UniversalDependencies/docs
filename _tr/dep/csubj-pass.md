@@ -21,4 +21,4 @@ csubj:pass(biliniyor, –düğü)
 Biliniyor ki dünya dönüyor . \n It is known that the earth is rotating
 csubj:pass(Biliniyor, dönüyor)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:12 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:30 CEST -->

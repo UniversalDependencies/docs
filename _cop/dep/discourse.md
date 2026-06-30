@@ -29,4 +29,4 @@ The appelation particle ⲱ 'oh (NAME)!' is attached to the head of the nominal 
 vocative(ⲥⲱⲧⲙ, ⲛⲟⲩⲧⲉ)
 discourse(ⲛⲟⲩⲧⲉ, ⲱ)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:36 CEST -->

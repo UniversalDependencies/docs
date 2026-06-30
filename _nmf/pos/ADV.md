@@ -21,4 +21,4 @@ In Naga-Suansu, some adverbs can also function as verbal particles, e.g. _fi <b>
 * _daichu_ "only"
 * demonstrative adverbs: _hano_ "here", _dino_ "there"
 * interrogative adverbs: _gare_ "how", _mwetheda_ "why", _kunahn_ "where"
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:12 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:00 CEST -->

@@ -16,4 +16,4 @@ nmod(Va, gauche)
 reparandum(gauche, droi-)
 case(droi-, à-2)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:13:13 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:18 CEST -->

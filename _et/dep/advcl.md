@@ -31,4 +31,4 @@ punct(saabusin-8, .-9)
 
 "I was offered something to eat, when I arrived from school in the evening"
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:30 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:58 CEST -->

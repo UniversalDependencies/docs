@@ -17,4 +17,4 @@ punct(TP, LBKT)
 punct(TP, RBKT)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:46 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:12 CEST -->

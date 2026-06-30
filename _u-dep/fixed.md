@@ -50,4 +50,4 @@ fixed(Bien, que)
 For v2.14, this page has been revised to more clearly articulate the relationship to multiword expressions.
 For v2.15, the use of [ExtPos]() has been added.
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:26 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:42 CEST -->

@@ -12,4 +12,4 @@ See [PROPN]() for proper nouns and [NOUN]() for nouns and [pronominal types list
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:03 CEST -->

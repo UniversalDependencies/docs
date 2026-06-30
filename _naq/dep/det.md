@@ -26,4 +26,4 @@ Ti ǃomdi ge petrol-i khami ra ham . \n My hands DECL gasoline like IPFV smell .
 nmod:poss(ǃomdi, Ti)
 nmod:poss(hands, My)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:16 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:34 CEST -->

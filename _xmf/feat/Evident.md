@@ -27,4 +27,4 @@ The `Evident` feature applies to [NOUN](_xmf/pos/NOUN), [PROPN](_xmf/pos/PROPN),
 
 * _მოლმოჩქუ<b>შო</b> (mɔlmɔt͡ʃku<b>ʃɔ</b>)_ 'he/she/it sent it to me as smb. said' etc.
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:40 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:19 CEST -->

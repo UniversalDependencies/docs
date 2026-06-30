@@ -31,4 +31,4 @@ If a numeral inflects as a noun, it is tagged [NOUN]().
 
 - _միատակ_/_miatak_ “once”, _չորստակ_/_čorstak_ “four times”, are not considered numerals. They are tagged either [ADJ]() or [ADV]().
 -	_հարոյր/հարուր/հարիր/հարիւր/haroyr/harowr/harir/hariwr “hundred”, հազար/hazar_ “thousand”: words for large quantities are ambiguous between cardinal numerals (tagged `NUM`) and nouns. When they denote an indefinite large quantity rather than an exact numeric value, they are tagged [NOUN](). In exact numeric expressions, they are tagged `NUM`. 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:17 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:02 CEST -->

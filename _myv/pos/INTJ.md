@@ -4,4 +4,4 @@ title: 'INTJ'
 shortdef: 'interjection'
 udver: '2'
 ---
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:16 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:02 CEST -->

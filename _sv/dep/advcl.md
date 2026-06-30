@@ -16,4 +16,4 @@ advcl(gör, kommer)
 Jag måste arbeta för att ekonomin ska gå ihop \n I have to work to make ends meet
 advcl(arbeta, gå)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:30 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:58 CEST -->

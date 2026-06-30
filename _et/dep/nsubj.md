@@ -15,4 +15,4 @@ punct(nägi-2, .-4)
 nsubj(saw,cat)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:44 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:56 CEST -->

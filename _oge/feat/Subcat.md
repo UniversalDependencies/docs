@@ -40,4 +40,4 @@ A verb that takes a direct object as argument (in addition to the subject).
 
 * _ვიხილე_ 'I saw (him/her/it)', _წარგიყვანა_ 'he/she took (someone) away', _შევჰვედრეთ_ 'we implored (him/her/them)' etc.
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:50 CEST -->

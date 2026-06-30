@@ -12,4 +12,4 @@ The `parataxis:parenth` relation is used for parenthetical clauses.
 parataxis:parenth(gbó, tɛ́)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:13:10 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:16 CEST -->

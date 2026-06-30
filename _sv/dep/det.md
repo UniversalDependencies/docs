@@ -16,4 +16,4 @@ det(parken, Den)
 Vilken bok föredrar du ? \n Which book do you prefer ?
 det(bok, Vilken)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:17 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:34 CEST -->

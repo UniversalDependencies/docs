@@ -24,4 +24,4 @@ punct(nägi-2, .-5)
 
 The cat saw also the dog.
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:36 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:04 CEST -->

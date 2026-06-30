@@ -111,4 +111,4 @@ Purpose clauses typically come after the main clause and may be introduced by fu
 11	it."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:30 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:59 CEST -->

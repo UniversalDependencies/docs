@@ -13,4 +13,4 @@ See also `obl:cau`.
 advmod:cau(кӧсйы-13, мыйлакӧ-8)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:37 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:05 CEST -->

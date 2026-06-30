@@ -24,4 +24,4 @@ But the particle is omitted in examples like these:
 Ettyl-jee ersooyl , ushagyn ! \n Fly away , birds !
 vocative(Ettyl-jee, ushagyn)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:54 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:17 CEST -->

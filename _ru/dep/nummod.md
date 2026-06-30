@@ -255,4 +255,4 @@ nmod(the-building, Tverskaya)
 case(Tverskaya, in)
 nummod(Tverskaya, 12-11)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:51 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:01 CEST -->

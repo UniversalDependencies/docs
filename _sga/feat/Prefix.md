@@ -32,4 +32,4 @@ The prefix feature is always given the affirmative value, "Yes".
 * _<b>Sen</b>goidelc_ “<b>Old</b> Irish”
 * _<b>il</b>bélre_ “<b>many</b> languages”
 * _<b>óin</b>fer_ “<b>single</b> man”
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:10 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:43 CEST -->

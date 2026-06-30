@@ -99,4 +99,4 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 
 * _<b>ի վերջո</b>_ (a multiword particle paraphrasable as “eventually”; the first node is [ADP]())
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:41 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:20 CEST -->

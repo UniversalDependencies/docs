@@ -14,4 +14,4 @@ nsubj(hâ, matare-amsa)
 expl:impers(exist, it)
 nsubj(exist, cost)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:24 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:40 CEST -->

@@ -75,4 +75,4 @@ Vocative case (singular or plural) stacked to the genitive case.
 #### Examples
 
 * _ისრაელისაო_ 'of Israel' (Gen with Voc) etc.
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:31 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:12 CEST -->

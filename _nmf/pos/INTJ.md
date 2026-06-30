@@ -16,4 +16,4 @@ An `Interjection` is a word that is used most often as an exclamation or part of
 * _ugh_ "ugh"
 * _wi_ and _dinan_: expressing frustration in the context of the respective clauses
 * __maga, ska, dinan_: fillers
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:16 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:02 CEST -->

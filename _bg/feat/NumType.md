@@ -65,4 +65,4 @@ fraction. In Bulgarian the numerator is cardinal numeral and denominator is ordi
 #### Examples
 
 * [bg] две трети / _dve treti_ "two thirds"
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:00 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:32 CEST -->

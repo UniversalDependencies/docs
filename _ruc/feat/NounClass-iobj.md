@@ -42,4 +42,4 @@ This class contains plural nouns with human reference. The corresponding singula
   NC1.SBJ-NC12.OBJ-**NC2.IOBJ**-give<br>
   "he gives it (money) to them"
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:55 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:31 CEST -->

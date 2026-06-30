@@ -17,4 +17,4 @@ discourse(бар , Макул)
 Молодец, окудуң. \n Well done! You must have read it.
 discourse(окудуң, Молодец)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:36 CEST -->

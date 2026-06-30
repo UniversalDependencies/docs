@@ -139,4 +139,4 @@ The multiword parentheticals are also considered as adverb-like expressions.
 * _а ему <b>хоть бы хны</b>_ “(he) does not give a damn“, lit. “at-least whould whimper“ (_хоть_, _бы_ = [PART](ru-pos/PART), _хны_ = [INTJ](ru-pos/INTJ))
 * _ящик <b>ни туда ни сюда</b>_ “(the box is) neither here nor there“ (_ни_ = [PART](ru-pos/PART), _туда_, _сюда_ = [ADV](ru-pos/ADV))
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:41 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:20 CEST -->

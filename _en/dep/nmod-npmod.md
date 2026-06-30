@@ -49,4 +49,4 @@ nmod:npmod(cookies, couple)
 A temporal modifier [nmod:tmod]() is a subclass of npmod which is
 distinguished as a separate relation.
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:41 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:53 CEST -->

@@ -51,4 +51,4 @@ The universal feature "present" corresponds to non-past events, usually tagged a
 
 * _myáː mandá <b>mə</b> tawséy =tə mə́n sòːséy //_  "I began to pity him really."
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:20 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:50 CEST -->

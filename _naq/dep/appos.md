@@ -49,4 +49,4 @@ nmod:poss(3M.PL, my)
 ~~~
 
 See [universal/appos](u-dep/appos) for more details on various apposition related issues.
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:46 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:11 CEST -->

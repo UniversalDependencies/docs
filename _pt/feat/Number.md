@@ -31,4 +31,4 @@ A plural expression denotes several persons, animals or things.
  _<b>meus carros bonitos parados</b>_
    _<b>estes carros quebrados</b>_
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:56 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:33 CEST -->

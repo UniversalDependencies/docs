@@ -14,4 +14,4 @@ Uralic puncts follow universal guidelines.
 * [fi] _.,!,?,",–_
 * [fi] _..._
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:21 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:05 CEST -->

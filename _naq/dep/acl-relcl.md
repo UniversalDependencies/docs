@@ -42,4 +42,4 @@ A relative clause modifier of a nominal is a clause that modifies the nominal, w
 
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:29 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:57 CEST -->

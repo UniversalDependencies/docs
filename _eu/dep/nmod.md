@@ -58,4 +58,4 @@ nmod(zigorra-5, gure-4)
 punct(zigorra-5, .-6)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:36 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:49 CEST -->

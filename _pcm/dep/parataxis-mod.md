@@ -70,4 +70,4 @@ The relation `parataxis:mod` is used for clausal modifiers.
 18	receipt	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:13:09 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:15 CEST -->

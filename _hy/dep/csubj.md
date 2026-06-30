@@ -46,4 +46,4 @@ cop(Good, is)
 aux(read, have)
 mark(read, that)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:09 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:29 CEST -->

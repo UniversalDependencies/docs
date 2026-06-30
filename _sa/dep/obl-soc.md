@@ -15,4 +15,4 @@ mark(artha-, yāvat-)
 advcl(sambhāṣī, artha-)
 obl:soc(sambhāṣī, strībhis)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:13:04 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:11 CEST -->

@@ -15,4 +15,4 @@ cc(якинь, Ды)
 advmod:lto(якинь, тов)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:41 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:07 CEST -->

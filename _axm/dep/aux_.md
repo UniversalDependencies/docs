@@ -55,4 +55,4 @@ Note that in Middle Armenian the auxiliary verb _տալ_ used to construct causa
 10	լինին	լինիլ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	լել	լինալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	4	acl:relcl	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:46 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:15 CEST -->

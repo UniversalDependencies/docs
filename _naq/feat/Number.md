@@ -63,4 +63,4 @@ A dual noun denotes two persons, animals or things.
   _sakhom_ "we two (masc. excl.)", _sam_ "we two (fem./neut. excl.)",
   _sakho_ "you two (masc.)", _saro_ "you two (fem./neut.)",
   _ǁîkha_ "they two (masc.)", _ǁîra_ "they two (fem./neut.)"
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:56 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:33 CEST -->

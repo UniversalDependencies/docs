@@ -12,4 +12,4 @@ Multiword numerals are marked as compound (153 ezer - 153 thousand): the last el
 compound(ezer, 153-1)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:00 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:22 CEST -->

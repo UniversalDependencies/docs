@@ -13,4 +13,4 @@ In the Old French treebank, `NUM` concerns cardinal `DET` only.
 
 By contrast, ordinal numerals and cardinal adjectives are always tagged `ADJ`, and cardinal pronouns are tagged `PRON`.
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:17 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:03 CEST -->

@@ -17,4 +17,4 @@ This feature takes the following values: Geo, Giv, Oth, Pat.
 
 #### Example
 Some examples of the feature and its use.
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:52 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:29 CEST -->

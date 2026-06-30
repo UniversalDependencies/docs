@@ -82,4 +82,4 @@ The equative case makes a comparison as in "like X". It is also used to indicate
 * [ess] _Neghtuq <b>qikmitun</b>_ "He ate <b>like a dog</b>."
 * [ess] _Laluramka akuziiquq <b>Yupigestun</b>._ "The white person is speaking <b>in the Yupik language</b>."
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:30 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:11 CEST -->

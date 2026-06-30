@@ -17,4 +17,4 @@ advcl:eval(loaded, it_appears)
 ~~~
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:33 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:01 CEST -->

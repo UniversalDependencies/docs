@@ -7,4 +7,4 @@ Definition
 
 Punctuation marks are non-alphabetical characters and character groups used to delimit linguistic units in printed text.
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:20 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:04 CEST -->

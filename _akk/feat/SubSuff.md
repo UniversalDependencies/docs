@@ -12,4 +12,4 @@ Encodes the subordinative -_ni_ suffix which occurs in Neo-Assyrian alongside th
 #### Examples
 * _<b>ipparšidūni</b>_ “(as many as/which/who) had fled”
 * _<b>usbakūni</b>_ “(While) I was (in …)”
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:49 CEST -->

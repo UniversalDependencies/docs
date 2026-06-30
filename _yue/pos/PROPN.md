@@ -14,4 +14,4 @@ A proper noun is a noun (or nominal content word) that is the name (or part of t
 - 孔子 / _hung2zi2_ "Confucius"
 - 亞洲 / _aa3zau1_ "Asia"
 - <b>威威</b> 木材 公司 ／ _<b>wai1wai1</b> muk6coi4 gung1si1_ "<b>Weiwei</b> Timber Company"
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:20 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:04 CEST -->

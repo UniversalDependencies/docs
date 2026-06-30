@@ -39,4 +39,4 @@ Participles, infinitives and converbs are assigned the tag `VERB`.
     * _dúmeva (dúmem), rábatøva (rábatem), hódeva (hódem), varvǿva (vórvem), smǿva (smøm so)_ "talking / by talking, working / by working, going / by going, walking / by walking, laughing / by laughing"
 
 About diminutive and augmentive passive participles (_udrítček [udrít]_ "a little / slightly hit", _udríttišiček [udrít]_ "totally hit") see category [Degree.md]().
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:23 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:06 CEST -->

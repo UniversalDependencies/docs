@@ -21,4 +21,4 @@ There is a closed subclass of _pronominal adverbs_ that refer to circumstances i
 - demonstrative adverbs: _aquí, allí, ara, després_ "here, there, now, then"
 - totality adverbs: _sempre_ "always"
 - negative adverbs: _mai_ "never"
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:12 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:00 CEST -->

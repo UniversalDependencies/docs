@@ -49,4 +49,4 @@ nsubj(പിടിച്ചുനിൽക്കാൻ, എനിക്ക്)
 aux(പിടിച്ചുനിൽക്കാൻ, കഴിഞ്ഞില്ല)
 punct(പിടിച്ചുനിൽക്കാൻ, .)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:30 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:58 CEST -->

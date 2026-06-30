@@ -168,4 +168,4 @@ The corresponding plural class is `Bantu6`, although some nouns in this class do
 #### Examples
 
 *  _<b>teng</b>_ “here”
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:54 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:31 CEST -->

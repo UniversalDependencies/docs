@@ -185,4 +185,4 @@ The use of both prospective participial forms in [periphrastical](la-dep/cop) co
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:28 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:10 CEST -->

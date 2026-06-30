@@ -14,4 +14,4 @@ parataxis:discourse(ушёл, Значит)
 parataxis:discourse(left, seems)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:13:08 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:15 CEST -->

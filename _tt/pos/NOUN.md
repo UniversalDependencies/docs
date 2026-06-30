@@ -29,4 +29,4 @@ Verbal nouns with the suffix _-у_ / _-ү_ are tagged as `VERB`, but are specifi
 - _агач_ "tree"
 - _яшьлек_ "youth"
 - _кешелеклелек_ "humanity"
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:17 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:02 CEST -->

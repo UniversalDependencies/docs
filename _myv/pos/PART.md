@@ -4,4 +4,4 @@ title: 'PART'
 shortdef: 'particle'
 udver: '2'
 ---
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:03 CEST -->

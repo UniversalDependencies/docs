@@ -19,4 +19,4 @@ error, etc.
 #### FinnTreeBank
 
 The language-specific feature Typo is not in use in the FI_FTB corpus.
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:21 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:51 CEST -->

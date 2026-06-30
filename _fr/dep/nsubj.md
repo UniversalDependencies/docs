@@ -39,4 +39,4 @@ nsubj(confiant, on)
 l' art est le reflet de la société \n art is the reflection of society
 nsubj(reflet, art)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:44 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:56 CEST -->

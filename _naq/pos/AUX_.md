@@ -26,4 +26,4 @@ Most modal verbs act similarly to regular verbs (e.g., _ǁkhā_ "be able" and _�
 
 * Copulas (equation, attribution, possession, benefaction): _a, i_
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:13 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:00 CEST -->

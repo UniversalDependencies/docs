@@ -56,4 +56,4 @@ Clauses modifying regular nouns get marked as `acl`:
 *semmonen __kampaus__ et se kestää*(`ccomp`)
 lit. “the kind of hairstyle that it lasts”
 (according to [Universal dependency relations: acl](http://universaldependencies.org/u/dep/all.html#al-u-dep/acl)).
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:55 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:18 CEST -->

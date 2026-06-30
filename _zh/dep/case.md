@@ -151,4 +151,4 @@ Postpositions, also known as "localizers", are labeled with [case:loc]() instead
 5	you."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:52 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:16 CEST -->

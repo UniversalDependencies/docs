@@ -52,4 +52,4 @@ Only the former should become interjection, while the latter will stay a particl
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a particle?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAParticle.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Grammatical_particle)
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:03 CEST -->

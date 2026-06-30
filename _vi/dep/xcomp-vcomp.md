@@ -16,4 +16,4 @@ compound:verbnoun(đánh, nhau)
 punct(đi, .)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:13:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:22 CEST -->

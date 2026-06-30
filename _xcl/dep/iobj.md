@@ -23,4 +23,4 @@ ccomp(ասէ, եկ)
 obl:arg(said, him)
 ccomp(said, Follow)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:32 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:46 CEST -->

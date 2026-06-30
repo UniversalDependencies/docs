@@ -59,4 +59,4 @@ This is a subtype of pronoun and determiner in Komi-Permyak
 * [koi] _Окаліс Митя кыкнаннысӧ да пуксьӧтіс пызан сайӧ._ "_Mitya kissed the two of them and had them sit down at the table_"
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:01 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:32 CEST -->

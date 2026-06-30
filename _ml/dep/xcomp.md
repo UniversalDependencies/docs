@@ -39,4 +39,4 @@ nsubj(സാധിക്കുന്നു, ബിയറിന്)
 punct(സാധിക്കുന്നു, .)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:13:16 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:20 CEST -->

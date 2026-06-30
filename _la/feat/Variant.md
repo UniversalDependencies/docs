@@ -50,4 +50,4 @@ Some forms are crystallised into variants which belong to an older phase of the 
 * loc. ***hīc*** (< *heic*)'here', literally 'in/at this (one)', from *hīc* 'this (one)', could be seen as an archaic variant in that, synchronically, the locative case appears restricted to nouns and is not productive anymore for synsemantic elements; it is similar in use to yet another form of the paradigm, f. abl. *hāc*, and traditionally it is often misleadingly annotated as an independent adverbial ([ADV](la-pos/ADV)) lexeme
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:22 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:52 CEST -->

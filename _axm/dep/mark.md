@@ -49,4 +49,4 @@ These fill a valency slot in the frame of the subordinate predicate, and are lab
 12	բարձր	բարձր	ADJ	_	_	13	advcl	_	_
 13	կենայ	կենալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	_
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:34 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:47 CEST -->

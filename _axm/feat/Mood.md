@@ -101,4 +101,4 @@ Note, that the mood particle is viewed as [AUX]() and can inflect for [Polarity]
 * _<b>տի</b> բերէր/ti berēr_ “(he/she/it) <b>had</b> to bring”
 * _երդմանն <b>չպիտի</b> աւտալ/erdmann čpiti awtal_ One must not believe the oath.
   
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:51 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:28 CEST -->

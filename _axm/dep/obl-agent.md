@@ -13,4 +13,4 @@ The relation `obl:agent` is used for agents of passive verbs. They are mainly ex
 2	ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj:pass	_	_
 3	խաբեցայ	խաբիլ	VERB	_	Aspect=Perf|Mood=Ind|Number=SIng|Person=1|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:57 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:05 CEST -->

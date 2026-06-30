@@ -31,4 +31,4 @@ due ordigni , il primo destinato a Hiroshima ; il secondo , tre giorni dopo , a 
 appos(ordigni, primo)
 appos(ordigni, secondo)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:45 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:11 CEST -->

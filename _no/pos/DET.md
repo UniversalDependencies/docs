@@ -34,4 +34,4 @@ The quantifying pronouns are a heterogenous group of determiners which all occur
 
 ####References
 Jan Terje Faarlund, Svein Lie and Kjell Ivar Vannebo. 1997. "Norsk referansegrammatikk". Universitetsforlaget, Oslo, Norway.
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:15 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:01 CEST -->

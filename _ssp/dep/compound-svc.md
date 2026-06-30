@@ -47,4 +47,4 @@ c) instances of general + specific action (this last expressed by a descriptive 
 4	SENTAR	_	VERB	V	_	0	root	_	Gloss=SIT
 5	cl.e(2d):PERSONAS-sentar+círculo	_	VERB	V.D	_	4	compound:svc	_	Gloss=cl
 ~~~ 
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:04 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:25 CEST -->

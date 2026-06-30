@@ -29,4 +29,4 @@ ccomp(言っ-18, 好き-12)
 aux(言っ-18, た-19)
 punct(言っ-18, 。-20)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:13:07 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:14 CEST -->

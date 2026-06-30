@@ -50,4 +50,4 @@ appos(Phone:-3, 555-9814-4)
 appos(Email:-5, jones@abc.edf-6)
 ~~~
 -->
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:45 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:11 CEST -->

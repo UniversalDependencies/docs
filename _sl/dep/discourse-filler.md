@@ -21,4 +21,4 @@ discourse:filler(give,err-11)
 discourse:filler(give,err-16)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:20 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:37 CEST -->

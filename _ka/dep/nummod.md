@@ -19,4 +19,4 @@ There are very few cases where <code>nummod</code> is used to mark indices of li
 nummod(ლიგა, ა)
 nummod(მისია , ბ)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:51 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:00 CEST -->

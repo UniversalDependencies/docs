@@ -38,4 +38,4 @@ In Cantonese, particles include the genitive/associative/relativizer/nominalizer
   - 佢哋 走 <b>晒</b> / _keoi5dei6 zau2 <b>saai3</b>_ "They all left."
 - Adversative 親
   - 佢 跌 <b>親</b> / _keoi5 dit3 <b>can1</b>_ "He fell."
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:03 CEST -->

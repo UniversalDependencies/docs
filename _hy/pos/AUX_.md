@@ -99,4 +99,4 @@ Although _կամ_/_kam_ and _ունեմ_/_ownem_ are not traditionally classifie
 Note that the verb _ունեմ_/_ownem_, combined with the infinitive of a limited set of coordinate compounds, forms habitual present and past imperfect constructions.
 * _Նրանք իրար տուն <b>գնալ-գալ ունեն</b>։_/_Nrank’ irar town <b>gnal-gal ownen</b>_ “They are in the habit of visiting each other's homes.” (lit. They have going-and-coming to each other's homes);
 * _Առաջ իրար հետ <b>առնել-տալ ունեին</b>։_/_Aṙaǰ irar het <b>aṙnel-tal ownein</b>._ “They used to have dealings with each other.” (lit. They used to give-and-take with each other).
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:13 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:00 CEST -->

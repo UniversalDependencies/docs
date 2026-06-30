@@ -45,4 +45,4 @@ Jensen, Hans. 1959. _Altarmenische Grammatik._ Heidelberg: Winter.
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
 
 Meillet, Antoine. 1962. _Études de linguistique et de philologie arméniennes. I: Recherches sur la syntaxe comparée de l'arménien. Suivies de la composition en arménien._ Lisbonne: Imprensa Nacional de Lisboa.
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:28 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:10 CEST -->

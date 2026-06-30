@@ -156,4 +156,4 @@ Parataxis is a relation for "side-by-side sentences" including reported speech (
 10	good."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:13:08 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:14 CEST -->

@@ -18,4 +18,4 @@ For _subordinating conjunctions,_ see [SCONJ]().
 - _e_
 - _ou_
 - _mas_
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:14 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:01 CEST -->

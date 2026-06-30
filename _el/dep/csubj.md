@@ -27,4 +27,4 @@ csubj(στεναχωρεί, έρχεται)
 obj(στεναχωρεί, Με)
 mark(έρχεται, που)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:09 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:28 CEST -->

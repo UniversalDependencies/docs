@@ -22,4 +22,4 @@ For _coordinating conjunctions,_ see [CCONJ]().
 * <!-- a -->ځکه چې _żë́ka če_ “because”
 * <!-- a -->کله چې _kë́la če_ “when”
 * <!-- a -->کۀ _kë_ “if” (not to confuse with coordinating conjunction کۀ _kë_ “or”)
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:21 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:05 CEST -->

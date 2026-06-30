@@ -22,4 +22,4 @@ Aux: Auxiliary verb, copula
 
 _დავხტივ<b>ვარ</b>_ ‘You are jumping’
 _წიგნზე<b>ა</b>_ 'smth. is on the book'
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:13 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:00 CEST -->

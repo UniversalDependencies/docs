@@ -30,4 +30,4 @@ advcl:pred(Namaloval, nahou)
 advcl:pred(He-painted, naked)
 ~~~
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:34 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:02 CEST -->

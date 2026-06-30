@@ -40,4 +40,4 @@ The preposition "ag" is also used in conjunction with verbal nouns to form progr
 
 
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:11 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:32:59 CEST -->

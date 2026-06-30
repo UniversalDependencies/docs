@@ -114,4 +114,4 @@ In general, we try to highlight the presence of a MWE when it exists. In the exa
 27	ταπί	ταπί	NOUN	NoCm	Case=Acc|Gender=Neut|Number=Sing	24	conj	_	mwe=2:VID
 28	.	.	PUNCT	PTERMP	PunctType=Peri	21	punct	_	_
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:06 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:26 CEST -->

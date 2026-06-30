@@ -50,4 +50,4 @@ The future tense auxiliary is also considered modal.
 
 * _Deur saam te werk, <b>kan</b> ons meer bereik._ “By working together, we can achieve more.”
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:24 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:53 CEST -->

@@ -13,4 +13,4 @@ The `obl:depict` relation is used for oblique dependents in depictive uses.
 obl(знайшлі, мёртвымі)
 obl(found, dead)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:59 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:07 CEST -->

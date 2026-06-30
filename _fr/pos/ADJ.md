@@ -14,4 +14,4 @@ Adjectives in French agree in gender and number with the noun they modify (both 
 
 - _grand/grande/grands/grandes_ "big"
 - _vieux/vieille/vieilles_ "old"
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:10 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:32:59 CEST -->

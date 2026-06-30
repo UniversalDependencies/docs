@@ -16,4 +16,4 @@ Note that there is a separate subtype for clauses and other phrases, namely `par
 Ama sen du wolltest immer das oder? \n But you always wanted that, right?
 appos:trans(sen, du)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:46 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:12 CEST -->

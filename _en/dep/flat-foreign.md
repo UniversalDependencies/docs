@@ -21,4 +21,4 @@ flat:foreign(c'-4, vie-7)
 
 See the general policy on [Foreign Expressions and Code-Switching](/foreign.html).
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:27 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:43 CEST -->

@@ -76,4 +76,4 @@ cc(vai-7, e-5)
 nsubj(vai-7, Maria-6)
 advmod(vai-7, também-8)
 ~~~
-<!-- Interlanguage links updated Po 29. června 2026, 18:13:06 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:35:13 CEST -->

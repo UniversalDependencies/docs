@@ -16,4 +16,4 @@ The following English pronouns have this feature:
 * _myself, yourself, himself, herself, itself, ourselves, yourselves, themselves_
 
 Note that English reflexive pronouns can also be used as intensive pronouns, e.g. _She <b>herself</b> bought a book_. The above mentioned pronouns only have this feature if they are used as reflexive pronouns.
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:14 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:46 CEST -->

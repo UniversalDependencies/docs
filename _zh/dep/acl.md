@@ -132,4 +132,4 @@ Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 
 ### References
 
 - Li, Charles N., and Sandra A. Thompson. 1981. Mandarin Chinese: A Functional Reference Grammar. University of California Press.
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:26 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:55 CEST -->

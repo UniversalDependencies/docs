@@ -21,4 +21,4 @@ Even if foreign words are tagged `X`, this usage does not extend to ordinary loa
 "Many elderly and lonely people are waiting those who work at the 'Help at Home' (program)to do for them..."
 * _"<b>Berekǽt</b> <b>versín</b>, razý sme."_ "Thank you, we agree."
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:23 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:06 CEST -->

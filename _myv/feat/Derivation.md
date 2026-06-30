@@ -168,4 +168,4 @@ Used with common and proper nouns and kinship terms ending in vowels and consona
 * [myv] _ялгакай_ "friend"
 * [myv] _нумолкай_ "rabbit"
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:38 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:17 CEST -->

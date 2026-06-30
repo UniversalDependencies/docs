@@ -15,4 +15,4 @@ The tag `VERB` is reserved for full lexical verbs, while auxiliary verbs are tag
 
 - _li compaignon se <b>leverent</b> de leur siege_
 - _et <b>trova</b> le non Galaad qu' il <b>desirroit</b> mout a <b>savoir</b>_
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:22 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:06 CEST -->

@@ -37,4 +37,4 @@ det(candidatos, todos)
 Multiword expressions are annotated in a flat, head-initial structure,
 in which all words in the expression modify the first one using the
 `fixed` label.
-<!-- Interlanguage links updated Po 29. června 2026, 18:12:26 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:34:42 CEST -->

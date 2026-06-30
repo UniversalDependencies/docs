@@ -51,4 +51,4 @@ Examples: [eu] _<b>d</b>akarki<b>o</b>gu_ `Number[abs]=Sing|Number[dat]=Sing`
 ### <a name="Plur">`Plur`</a>: plural subject
 
 Examples: [eu] _dakarkio<b>gu</b>_ `Number[erg]=Plur`
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:00 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:36 CEST -->

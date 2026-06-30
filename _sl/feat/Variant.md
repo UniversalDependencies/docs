@@ -27,4 +27,4 @@ This value is assigned as an inflectional feature to clitic personal pronouns in
 * _jo_ ("her", variant of _njo_)
 * _mi_ ("to me", variant of _meni_)
 *_se_ ("oneself", used either as a variant of reflexive pronoun _sebi_ or as an obligatory free morpheme with pseudo-reflexive verbs, such as _smejati se_ "to laugh")
-<!-- Interlanguage links updated Po 29. června 2026, 18:11:22 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:52 CEST -->

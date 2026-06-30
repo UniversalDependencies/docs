@@ -44,4 +44,4 @@ Excludes the listener, i.e. _we_ = _I + they._
 
 * [gun] _<b>orejaryi</b>_ “our (my+their) grandmother” (lit. B1.PL.EXCL-grandmother)
 
-<!-- Interlanguage links updated Po 29. června 2026, 18:10:33 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:33:14 CEST -->
