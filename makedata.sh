@@ -45,6 +45,7 @@ for s in "pos" "feat" "dep"; do
 	# Layered features: file name is "Number-subj.md" but the label should be "Number[subj]".
 	e=`echo "$r" | perl -pe 's/^_//; s/_$//; s/^([a-z]+)-/$1:/; s/^([A-Z][A-Za-z]+)-([a-z0-9]+)/$1\[$2\]/'`
 	echo "- label: '$e'"
+	echo "  filename: '$r'"
 	# (not really "languages", but close enough here)
 	echo "  languages:"
 	for l in $collections; do
