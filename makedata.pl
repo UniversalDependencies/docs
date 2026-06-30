@@ -85,7 +85,7 @@ for my $s (qw(pos feat dep)) {
     for my $r (@entries) {
 
         warn "entry $r\n";
-        if ($entry =~ /[\[\]]/) {
+        if ($r =~ /[\[\]]/) {
             warn "\tWARNING: File name contains square brackets. There should be a hyphen instead.";
         }
 
