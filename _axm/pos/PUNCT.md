@@ -11,8 +11,7 @@ Punctuation marks are non-alphabetical characters and character groups used in m
 
 Punctuation is not taken to include logograms such as  _☉_ and _☽_, which are instead tagged as [SYM]().
 
-Note, that there is _infixed punctuation_ (exclamation, emphasis and question marks). We refer to such cases as _multiword tokens_, as in _ի՞նչ_ “what?”, which become two tokens, _<b>ինչ</b>_ and _<b>՞</b>_ (for more details see
-the [tokenization page](http://universaldependencies.org/hy/tokenization.html)).
+Note that there is _internal punctuation_ (exclamation, emphasis and question marks). We refer to such cases as _multiword tokens_, as in _ի՞նչ_ “what?”, which is split into two tokens, _<b>ինչ</b>_ and _<b>՞</b>_ (for more details see the [tokenization page](http://universaldependencies.org/hy/tokenization.html)).
 
 ### Examples
 
@@ -23,6 +22,6 @@ the [tokenization page](http://universaldependencies.org/hy/tokenization.html)).
 - Quotation mark: _<b>«»</b>_
 -	Exclamation mark: _<b>՜</b>_
 -	Question mark։ _<b>՞</b>_
--	Emphasis mark, Acute accent: _<b>՛</b>_
--	Аpostrophe mark: _<b>'</b>_
+-	Emphasis mark (acute accent):: _<b>՛</b>_
+-	Apostrophe mark: _<b>'</b>_
 <!-- Interlanguage links updated Po 29. června 2026, 18:10:20 CEST -->
