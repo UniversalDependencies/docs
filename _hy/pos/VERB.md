@@ -7,42 +7,38 @@ udver: '2'
 
 ### Definition
 
-A verb is a member of the syntactic class of words that typically
-signal events and actions, can constitute a minimal predicate in a
-clause, and govern the number and types of other constituents which
-may occur in the clause.
+A verb is a member of the syntactic class of words that typically denote events and actions, can constitute a minimal predicate in a clause, and govern the number and types of other constituents that may occur in the clause.
 
-Note that the `VERB` tag covers main verbs _(content verbs)_, but it does not cover _auxiliary verbs_ and _copulas,_ for which there is
-the [AUX]() tag.
+Note that the `VERB` tag covers main verbs _(content verbs)_, but it does not cover _auxiliary verbs_ and _copulas_ for which there is the [AUX]() tag.
 See the description of `AUX` for more information on the borderline between `VERB` and `AUX`.
 
 Armenian verbs can take the following morphological forms:
 
 - Infinitive (this is the citation form that shares properties of verbs and nouns),
-- Finite verb (indicative, imperative, subjunctive and conditional forms; necessitative is constructed periphrastically, connegative forms),
-- Resultative, processual, imperfective, future-I, perfect participles (used to construct (secondary) complex tenses and moods),
+- Finite verb forms (indicative, imperative, subjunctive and conditional forms; necessitative forms are constructed periphrastically, connegative forms),
+- Resultative, processual, imperfective, future-I, and perfect participles (used to construct (secondary) complex tenses and moods),
 - Converb (also called adverbial participle).
 
-There are participial forms (_verbal adjectives_) that are tagged as verbs rather than adjectives ([ADJ]()). See below for examples.
+Some participial forms (_verbal adjectives_) are tagged as verbs rather than adjectives ([ADJ]()). See below for examples.
 
 ### Examples
 
-- _գրել, գրել(ը)_ &nbsp;“to write, (the) writing”,
-- _գրեցի, գրեցիր, գրեց, գրեցինք, գրեցիք, գրեցին_ &nbsp;“I wrote, you wrote, he/she/it wrote, we wrote, you wrote, they wrote”,
-- _ունեմ, ունես, ունի, ունենք, ունեք, ունեն_ &nbsp;“I have, you have, he/she/it has, we have, you have, they have”,
-- _գրի՛, գրե՛ք, կարդա՛, կարդացե՛ք_ &nbsp;“write, read” (imperative in different numbers),
-- _գրեմ, գրես, գրի, գրենք, գրեք, գրեն_ &nbsp;“I write.Sub, you write.Sub, he/she/it write.Sub, we write.Sub, you write.Sub, they write.Sub”,
-- _գնայի, գնայիր, գնար, գնայինք, գնայիք, գնային_ &nbsp;“I went.Sub, you went.Sub, he/she/it went.Sub, we went.Sub, you went.Sub, they went.Sub”,
-- _կգնամ, կգնաս, կգնա, կգնանք, կգնաք, կգնան_ &nbsp;“I will go, you will go, he/she/it will go, we will go, you will go, they will go”,
-- _կգրեի, կգրեիր, կգրեր, կգրեինք, կգրեիք, կգրեին_ &nbsp;“I would write, you would write, he/she/it would write, we would write, you would write, they would write”,
-- _չեմ <b>գրի</b>, չեմ <b>գնա</b>_ &nbsp;“I shall not write, I shall not go”, 
-- _գրած, կարդացած, գրելիս, կարդալիս, գրում, կարդում, գրելու, կարդալու, գրել, կարդացել, գրի, կարդա_ &nbsp;“written, read, while writing, while reading, write, read, (will) write, (will) read, have written, have read, write, read” (participles),
-- _գրելիս, կարդալիս_ &nbsp;“while writing, while reading” (converb)
-- _գրող, կարդացող, գրելիք, կարդալիք_ &nbsp;“writing, reading, smth. to be written, smth. to be read” (verbal adjectives)
+- _գրել_/_grel_, _գրել(ը)_/_grel(ë)_ “to write, (the) writing”,
+- _գրեցի_/_grec’i_ “I wrote”, _գրեցիր_/_grec’ir_ “you wrote”, _գրեց_/_grec’_ “he/she/it wrote”, _գրեցինք_/_grec’ink’_ “we wrote”, _գրեցիք_/_grec’ik’_ “you wrote”, _գրեցին_/_grec’in_ “they wrote”,
+- _ունեմ_/_ownem_ “I have”, _ունես_/_ownes_ “you have”, _ունի_/_owni_ “he/she/it has”, _ունենք_/_ownenk’_ “we have”, _ունեք_/_ownek’_ “you have”, _ունեն_/_ownen_ “they have”,
+- _գրի՛_/_gri_, _գրե՛ք_/_grek’_“write!”, _կարդա՛_/_karda_ “”, _կարդացե՛ք_/_kardac’ek’_ “read!” (imperative in different numbers),
+- _գրեմ_/_grem_ “I write.Sub”, _գրես_/_gres_ “you write.Sub”, _գրի_/_gri_ “he/she/it write.Sub”, _գրենք_/_grenk’_ “we write.Sub”, _գրեք_/_grek’_ “you write.Sub”, _գրեն_/_gren_ “they write.Sub”,
+- _գնայի_/_gnayi_ “I went.Sub”, _գնայիր_/_gnayir_ “you went.Sub”, _գնար_/_gnar_ “he/she/it went.Sub”, _գնայինք_/_gnayink’_ “we went.Sub”, _գնայիք_/_gnayik’_ “you went.Sub”, _գնային_/_gnayin_ “they went.Sub”,
+- _կգնամ_/_kgnam_ “I will go”, _կգնաս_/_kgnas_ “you will go”, _կգնա_/_kgna_ “he/she/it will go”, _կգնանք_/_kgnank’_ “we will go”, _կգնաք_/_kgnak’_ “you will go”, _կգնան_/_kgnan_ “they will go”,
+- _կգրեի_/_kgrei_ “I would write”, _կգրեիր_/_kgreir_ “you would write”, _կգրեր_/_kgrer_ “he/she/it would write”, _կգրեինք_/_kgreink’_ “we would write”, _կգրեիք_/_kgreik’_ “you would write”, _կգրեին_/_kgrein_ “they would write”,
+- _չեմ <b>գրի</b>_/_čem <b>gri</b>_ “I shall not write”, _չեմ <b>գնա</b>_/_čem <b>gna</b>_ “I shall not go”, 
+- _գրած_/_graç_ “written”, _կարդացած_/_kardac’aç_ “read”, _գրում_/_growm_ “write”, _կարդում_/_kardowm_ “read”, _գրելու_/_grelow_ “(will) write”, _կարդալու_/_kardalow_ “(will) read”, _գրել_/_grel_ “have written”, _կարդացել_/_kardac’el_ “have read”, _գրի_/_gri_ “write”, _կարդա_/_karda_ “read” (participles),
+- _գրելիս_/_grelis_ “while writing”, _կարդալիս_/_kardalis_ “while reading” (converb)
+- _գրող_/_groġ_ “writing”, _կարդացող_/_kardac’oġ_ “reading”, _գրելիք_/_grelik’_ “(smth). to be written”, _կարդալիք_/_kardalik’_ “(smth.) to be read” (verbal adjectives)
 
 ### Border cases
 
-Resultative, subject and future-II participles are word forms that may share properties and usage of adjectives and verbs. Note, that in release 2.2 both core participial forms (used to form the moods) and participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) are tagged [VERB](). For example:
+Resultative, subject, and future-II participles are word forms that may share properties and usage of adjectives and verbs. Note that in release 2.2 both core participial forms (used to form the moods) and participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) are tagged [VERB](). For example:
 
 -	Resultative: _<b>կառուցված</b> շենք_ “a <b>built</b> house”,
 -	Subject: _<b>կառուցվող</b> շենք_ “a house, that is <b>being built</b>”,
