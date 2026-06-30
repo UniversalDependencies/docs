@@ -22,8 +22,8 @@ Characters used as bullets in itemized lists _(•, ‣)_ are not symbols, they 
 
 ### Examples
 
-- _$, %, §, ©_
+- _$, %, §, ©, F, C_
 - _+, −, ×, ÷, =, <, >_
 - :), ♥‿♥, 😝, ։Ճ
-- _john.doe@universal.org, http://universaldependencies.org/, 1-800-COMPANY_
+- _john.doe@universal.org_, _https://us02web.zoom.us/j/87386495798_, _zndoog.com_
 <!-- Interlanguage links updated Po 29. června 2026, 18:10:22 CEST -->
