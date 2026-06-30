@@ -7,24 +7,23 @@ udver: '2'
 
 ### Definition
 
-A subordinating conjunction is a conjunction that links constructions by making one of them a constituent of the other. The subordinating conjunction typically marks the incorporated constituent which has the
-status of a (subordinate) clause.
+A subordinating conjunction is a conjunction that links constructions by making one of them a constituent of the other. The subordinating conjunction typically marks the incorporated constituent which has the status of a (subordinate) clause.
 
-We recognize these two subclasses as subordinating conjunctions:
+We recognize subclasses of subordinating conjunctions:
 
-* Complementizers like _որ/or, թէ/t’ē_ “that”
-* Adverbial clause introducers like _երբ(եփ)/erb(ep’), երբոր (եփոր)/erbor (ep’or), յորժամ/yoržam&nbsp;_ “when, at the time”, _քանի (քանի որ)/k’ani (k’ani or)&nbsp;_ “as, as much”, _որովհետեւ/orovhetew&nbsp;_ “beacause”.
+* complementizers such as _որ_/_or_, _թէ_/_t’ē_ “that”
+* subordinators introducing adverbial clauses such as _երբ(եփ)_/_erb(ep’)_, _երբոր (եփոր)_/_erbor (ep’or)_ “when”, _յորժամ_/_yoržam_ “at the time”, _քանի (քանի որ)_/_k’ani (k’ani or)_ “as, since”, _որովհետեւ_/_orovhetew_ “because”.
 
-Note also, that in Middle Armenian there are no Relativizers. 
+Note that Middle Armenian has no dedicated relativizers. 
 
-For _coordinating conjunctions,_ see [CCONJ]().
+For coordinating conjunctions, see [CCONJ]().
 
 ### Examples
 
-- _որ/or_ “that”,  _թէ/t’ē_ “that, whether”
-- _թէեւ/t’ēew, թէպէտ/t’ēpēt_ “though, despite”
-- _եթէ/et’ē_ “that, whether, if”
-- _քան/k’an_ “than”
-- _մակար թէ (որ)/makar t’ē (or)_ “except”
-- _մինչեւ/minčew_  “till, untill”
+- _որ_/_or_ “that”,  _թէ_/_t’ē_ “that, whether”
+- _թէեւ_/_t’ēew_, _թէպէտ_/_t’ēpēt_ “though, despite”
+- _եթէ_/_et’ē_ “that, whether, if”
+- _քան_/_k’an_ “than”
+- _մակար թէ (որ)_/_makar t’ē (or)_ “except”
+- _մինչեւ_/_minčew_  “till, until”
 <!-- Interlanguage links updated Po 29. června 2026, 18:10:21 CEST -->
