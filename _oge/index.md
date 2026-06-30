@@ -4,7 +4,7 @@ title:  'Old Georgian UD'
 udver: '2'
 ---
 
-# UD for Old Georgian <span class="flagspan"><img class="flag" src="../../flags/svg/OGE.svg" /></span>
+# UD for Old Georgian <span class="flagspan"><img class="flag" src="../../flags/svg/GE.svg" /></span>
 
 This is a **work-in-progress** overview of the UD annotation for Old Georgian.
 
