@@ -10,7 +10,7 @@ udver: '2'
 A symbol is a word-like entity that differs from ordinary words by form, function, or both.
 
 Many symbols are or contain special non-alphanumeric characters, similarly to [punctuation](PUNCT). What makes them different from
-punctuation is that they can be substituted by normal words. This involves all currency symbols, e.g. _֏ 70_ is identical to _եօթանասուն դրամ_/_eòt’anasown dram_ "seventy-five Armenian drams".
+punctuation is that they can be substituted by normal words. This involves all currency symbols, e.g. _֏ 70_ is equivalent to _եօթանասուն դրամ_/_eòt’anasown dram_ "seventy-five Armenian drams".
 
 Mathematical operators form another group of symbols.
 
