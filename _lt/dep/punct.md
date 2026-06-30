@@ -72,4 +72,4 @@ punct(said, –-18)
 punct(will-come, „-12)
 punct(will-come, “-16)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->

@@ -26,4 +26,4 @@ udver: '2'
 #### Examples
 
 * _ბგორით (bɡɔrit)_ 'you find us', _მომიღით (mɔmiɣit)_ 'you bring us' etc.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:36 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:07 CEST -->

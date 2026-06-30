@@ -15,4 +15,4 @@ cop(კეთილ, არს)
 ~~~
 
 **NB** Note that nominal modifiers used with postpositions and functioning as a non-core (oblique) argument or adjunct are covered by the [obl](_oge/dep/obl) relation. 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:49 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:16 CEST -->

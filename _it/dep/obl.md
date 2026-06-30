@@ -50,4 +50,4 @@ La sperimentazione dell' atomica ha cambiato il mondo per sempre.
 nmod(sperimentazione, atomica)
 case(atomica, dell')
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:04 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:30 CEST -->

@@ -17,4 +17,4 @@ A coordinating conjunction is a word that links words or larger constituents wit
 - _or_ "however"
 - _ni_ "nor"
 - _car_ "because"
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:01 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:35 CEST -->

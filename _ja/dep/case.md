@@ -29,4 +29,4 @@ nmod(行く, 東京)
 case(太郎, の)
 nmod(家, 太郎)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:16 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:44 CEST -->

@@ -23,4 +23,4 @@ or its is discontinuous or absent ([Rel=NCont]())
 
 Ferraz Gerardi, F. (2022) _A RRG Description of Tupinambá_. Forthcoming.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:00 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:33 CEST -->

@@ -17,4 +17,4 @@ For _subordinating conjunctions,_ see [SCONJ]().
 - _і, й, та&nbsp;_ “and”
 - _або&nbsp;_ “or”
 - _але&nbsp;_ “but”
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:01 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:35 CEST -->

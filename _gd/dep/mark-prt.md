@@ -62,4 +62,4 @@ mark:prt(rinneadh, d')
 le sùil tòrr **nas** fuaire \n with eye lot -er cold
 mark:prt(fuaire, nas)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:49 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:15 CEST -->

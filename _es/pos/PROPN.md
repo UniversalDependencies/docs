@@ -77,4 +77,4 @@ any other words within a multi-word proper noun, such as place or organization n
 Note that when proper nouns are used in an adjectival form, they may lose their capitalization and be tagged as [ADJ]()
 as in _vino <b>francés</b>_ “French wine” (instead of "vino Francés")
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:04 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->

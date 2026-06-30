@@ -13,4 +13,4 @@ Bu kitap hiç bir işe yaramaz . \n This book is worth nothing.
 goeswith(bir, hiç)
 det(bir)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:45 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:12 CEST -->

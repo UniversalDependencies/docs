@@ -24,4 +24,4 @@ Note that there is _internal punctuation_ (exclamation, emphasis, and question m
 -	Question mark։ _<b>՞</b>_
 -	Emphasis mark (acute accent):: _<b>՛</b>_
 -	Apostrophe mark: _<b>'</b>_
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:04 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->

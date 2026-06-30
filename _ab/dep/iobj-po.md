@@ -21,4 +21,4 @@ The `iobj:po` relation marks an an object referenced by a potential(is) or invol
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:47 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:13 CEST -->

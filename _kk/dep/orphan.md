@@ -21,4 +21,4 @@ nsubj(алды-9, финалы-6)
 obl(алды-9, Рио-де-Жанейрода-7)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:13 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:38 CEST -->

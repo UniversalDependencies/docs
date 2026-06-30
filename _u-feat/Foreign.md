@@ -26,4 +26,4 @@ See discussion at [Foreign Expressions and Code-Switching](/foreign.html).
 ### <a name="Yes">`Yes`</a>: it is foreign
 
 Example: [en] _He said I could "<b>dra åt helvete!</b>"_
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:21 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:53 CEST -->

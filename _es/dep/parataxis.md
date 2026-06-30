@@ -17,4 +17,4 @@ parataxis(llevaré, fruta)
 Se le echa ... vinagre ¿ sabes ? \n You add ... vinegar , you know ?
 parataxis(echa, sabes)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:14 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:38 CEST -->

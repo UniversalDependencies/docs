@@ -15,4 +15,4 @@ case(Hà Nội, ở)
 obl:comp(sóng, Hà Nội)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:07 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:32 CEST -->

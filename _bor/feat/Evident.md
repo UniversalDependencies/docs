@@ -34,4 +34,4 @@ The reportative evidential is marked by the suffix _-ie_.
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->

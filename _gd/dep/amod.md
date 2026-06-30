@@ -40,4 +40,4 @@ _an <b>t-seann</b> riaghaltas_ 'the old government'
 3	riaghaltas	riaghaltas	NOUN	Ncsmn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:10 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:38 CEST -->

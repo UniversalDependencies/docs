@@ -65,4 +65,4 @@ Taip , šiandien lis . \n Yes , it-will-rain today .
 discourse(lis, Taip)
 discourse(it-will-rain, Yes)
 ~~~ 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:36 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:03 CEST -->

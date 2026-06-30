@@ -76,4 +76,4 @@ Participles will have [Aspect](), [Voice]() and [Subcat]().
 * _ասել/asel, մնացել/mnac’el, հագեր/hager, արբեցուցեր/arbec’owc’er_ “have told, have remained, have dressed, have made (someone) drunk” (perfect participle, in different voices),
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:52 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->

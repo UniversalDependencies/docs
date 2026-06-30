@@ -12,4 +12,4 @@ a- gar jʔ -an =t i= gaw =i /
 text_en: I went back, in my house.
 compound(jʔ, gar) ("come", "come_back")
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:21 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:49 CEST -->

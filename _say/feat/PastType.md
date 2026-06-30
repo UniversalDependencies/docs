@@ -32,4 +32,4 @@ udver: '2'
 #### Examples
  * _káy káː yel ɗan <b>mətá</b> ɬə á Kullây kwǎː <b>mətá</b> ɲol teː Zwàl //_ "Well you see as I went to see Kulla, see, I followed Zwal way."
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:38 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:09 CEST -->

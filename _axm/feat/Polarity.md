@@ -39,4 +39,4 @@ _դժպատահութիւն/džpatahowt’iwn_ “irrelevance”, _տխօս/txò
 * _<b>չասաց</b>/časac’_ “he did not say”
 * _<b>չեն</b>/čen_ “they are not”
 * _<b>չպիտի</b> աւտալ/čpiti awtal_ “one should not believe”
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:41 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:12 CEST -->

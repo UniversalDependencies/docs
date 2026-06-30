@@ -25,4 +25,4 @@ We (currently) do not mark adjectives for the `Polarity` feature.
 
 - _Укы<b>ма</b>ячак_ "he/she will not read"
 - _Марат доктор <b>түгел</b>_ "Marat is not a doctor"
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:42 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:12 CEST -->

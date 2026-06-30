@@ -25,4 +25,4 @@ Note that synthetic causatives derived from middle verbs are treated as regular 
 ~~~
 
 The infinitive verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation.
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:02 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:28 CEST -->

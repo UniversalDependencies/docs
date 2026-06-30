@@ -31,4 +31,4 @@ a linear analysis: the head is the first token in the foreign phrase.
 8	"	_	_	_	_	_	_	_	_
 9	.	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:43 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:10 CEST -->

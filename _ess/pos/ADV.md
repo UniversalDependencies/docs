@@ -35,4 +35,4 @@ Demonstrative adverbs are also tagged as `ADV`.
 ### References
 
 - Steven A. Jacobson. 2001. A Practical Grammar of the St. Lawrence Island / Siberian Yupik Eskimo Language, Preliminary Edition, 2nd edition. Alaska Native Language Center, Fairbanks, Alaska.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:00 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:34 CEST -->

@@ -31,4 +31,4 @@ Nominative plural case stacked to the genitive case.
 #### Examples
 
 * _ოქროჲსანი_ 'of gold' (Gen with Nom Plur) etc.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:35 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:07 CEST -->

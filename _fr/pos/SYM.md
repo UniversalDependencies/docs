@@ -15,4 +15,4 @@ A symbol is a word-like entity that differs from ordinary words by form, functio
 - _+, −, ×, ÷, =, <, >_
 - :), ♥‿♥, 😝
 - _john.doe@universal.org, http://universaldependencies.org/, 1-800-COMPANY_
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:05 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->

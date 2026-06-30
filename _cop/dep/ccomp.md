@@ -21,4 +21,4 @@ obj(ⲡⲁϩ, ⲟⲩ)
 ~~~
 
 Note how the verb "know" (ⲥⲟⲟⲩⲛ) is the source of `ccomp`, and the subordinate clause main verb, "tear" (ⲡⲁϩ), is the target. 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:46 CEST -->

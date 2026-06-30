@@ -259,4 +259,4 @@ _ʼeleh toldot hashamayim ṿehaʼarets behibarʼam beyom ʻaśot yehṿah ʼelo
 
 _These are the generations of the heavens and the earth when they were created in the day that The LORD made earth and heavens._
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:25 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:52 CEST -->

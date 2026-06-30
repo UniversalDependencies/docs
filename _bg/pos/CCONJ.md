@@ -31,4 +31,4 @@ in a repetitive chain.</b>
 ### Examples
 
 - _и_ / _i_ "and"
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:01 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:34 CEST -->

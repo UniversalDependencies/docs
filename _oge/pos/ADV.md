@@ -30,4 +30,4 @@ Adv: 	Adverb
 - interrogative adverbs: _სადა_ *sada* 'where', _ოდეს_ *odes* 'when' etc.
 - relational adverbs: _ვითარ_ *vitʻar* 'in the manner like', _რაჟამს_ *ražams* 'at the time when' etc.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:00 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:34 CEST -->

@@ -16,4 +16,4 @@ advmod:tmod(полавтызе, курок)
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:06 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:32 CEST -->

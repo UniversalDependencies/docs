@@ -19,4 +19,4 @@ udver: '2'
 #### Examples
 
 *და **ვერ** შეუძლეს თხრობად სახელთა მამათა თჳსთასა 'And they coudln't tell their father's names.'
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:42 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:12 CEST -->

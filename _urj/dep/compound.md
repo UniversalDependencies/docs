@@ -13,4 +13,4 @@ and do not need dependency relations. When compounds are written with spaces
 against standard orthography, the dependency used shoud be [goeswith](). When
 multiword compounds are written with spaces and e.g. hyphen, compound dep can
 be used.
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:22 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:49 CEST -->

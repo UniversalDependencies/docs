@@ -97,4 +97,4 @@ Verbs form transgressive meaning “while doing”.
 * _<b>ուտելիս</b> շտապում է_ &nbsp;“he hurries <b>while eating</b>”
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:53 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->

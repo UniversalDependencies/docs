@@ -12,4 +12,4 @@ The `parataxis:insert` relation is used for parenthetical clauses which could no
 parataxis:insert(reponn, Hmm)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:15 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:40 CEST -->

@@ -77,4 +77,4 @@ verb. Nevertheless, we annotate them as `VerbForm=Vnoun`, not `Inf`.
 ### References
 - Aslı Göksel and Celia Kerslake. Turkish: A Comprehensive Grammar.  London: Routledge, 2005.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:53 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->

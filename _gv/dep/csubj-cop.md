@@ -29,4 +29,4 @@ cop(vie, By)
 csubj:cop(vie, gynsaghey)
 obj(gynsaghey, clickyn)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:29 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:57 CEST -->

@@ -20,4 +20,4 @@ Note, that these expressions do not have any internal syntactic structure (excep
 1	ամէն	ամէն	DET	_	ExtPos=PRON|PronType=Tot	0	root	_	_
 2	ինչ	ինչ	PRON	_	PronType=Ind	1	fixed	_	_
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:41 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:08 CEST -->

@@ -27,4 +27,4 @@ column. (Which means that empty value has the `No` meaning.)
 
 * [myv]_Ацирьгадоманть эйстэ сон мик сускизе <b>эсь</b> турванзо ...&nbsp;_ “Out of rage he even bit <b>his</b> [own] lip.”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:46 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:16 CEST -->

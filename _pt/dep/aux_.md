@@ -30,4 +30,4 @@ aux(dizer, pode)
 Acabou assinando com o Interscope
 aux(assinando, Acabou)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:15 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:43 CEST -->

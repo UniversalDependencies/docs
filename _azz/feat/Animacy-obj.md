@@ -20,4 +20,4 @@ The `Animacy` feature in Highland Puebla Nahuatl is relevant for indefinite obje
 * [azz] _ni<b>ta</b>oni_ "Yo tomo (cosas/bebidas)." ("I drink things.")
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:09 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:42 CEST -->

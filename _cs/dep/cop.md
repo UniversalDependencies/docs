@@ -79,4 +79,4 @@ cop(kitchen, is)
 case(kuchyni, v)
 case(kitchen, in)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:27 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:55 CEST -->

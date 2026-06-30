@@ -15,4 +15,4 @@ Mano draugas , jis labai protingas . \n My friend , he-is very smart .
 dislocated(protingas, draugas)
 dislocated(smart, friend)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:38 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:05 CEST -->

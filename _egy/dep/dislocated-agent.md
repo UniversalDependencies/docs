@@ -22,4 +22,4 @@ In Old Egyptian, a dislocated agent is expressed by a postposed nominal agent th
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:38 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:05 CEST -->

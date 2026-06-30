@@ -37,4 +37,4 @@ If the word introducing a non finite clause is a preposition, this word is `mark
 4	penser	_	VERB	VERinf	_	2	xcomp	_	_
 
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:47 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->

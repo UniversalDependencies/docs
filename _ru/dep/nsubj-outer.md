@@ -63,4 +63,4 @@ nsubj(good, book)
 nsubj(Война, Название)
 nsubj(War, title)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:59 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:25 CEST -->

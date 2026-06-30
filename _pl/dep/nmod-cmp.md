@@ -34,4 +34,4 @@ In Polish, comparative expressions that depend on nouns can also be realised as 
 8	tesla
 9	.
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:51 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:17 CEST -->

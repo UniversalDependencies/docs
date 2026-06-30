@@ -20,4 +20,4 @@ The dependent of an `advcl:purp` relation is a purposive adverbial clause.
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:03 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:32 CEST -->

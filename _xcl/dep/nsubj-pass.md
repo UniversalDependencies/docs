@@ -11,4 +11,4 @@ A passive nominal subject is a noun phrase which is the syntactic subject of a p
 Առաքեցաւ Գաբրիէղ հրեշտակ յԱստուածոյ ի քաղաք մի Գաղիղեացւոց: \n The angel Gabriel was sent from God unto a city of Galilee.
 nsubj:pass(Առաքեցաւ, Գաբրիէղ)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:59 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:25 CEST -->

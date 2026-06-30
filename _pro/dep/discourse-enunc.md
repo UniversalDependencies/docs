@@ -27,4 +27,4 @@ discourse:enunc(deu, que)
 E que-ls dam per for que totz ans se cabien judges em-Banheres\n And we give them as a law that every year judges should change in Banières
 discourse:enunc(dam, que)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:37 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:04 CEST -->

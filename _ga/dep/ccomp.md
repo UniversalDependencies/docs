@@ -81,4 +81,4 @@ parataxis(gá, cuma)
 ccomp(cuma, cén)
 nsubj(cén, chré)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:46 CEST -->

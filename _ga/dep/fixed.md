@@ -70,4 +70,4 @@ Ní fhaca mé rud ar bith \n Not see me anything at all
 fixed(ar, bith)
 nmod(rud, ar)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:41 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:08 CEST -->

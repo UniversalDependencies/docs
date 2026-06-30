@@ -18,4 +18,4 @@ _Tugtar an caimbiam ar an <b>limistéar</b> fáis <b>díreach</b> faoin gcoirt._
 Tugtar an caimbiam ar an limistéar fáis díreach faoin gcoirt. \n Is_given the cambium on the area of_growth direct under_the bark.
 acl(limistéar, díreach)
 ~~~ 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:55 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:24 CEST -->

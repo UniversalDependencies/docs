@@ -11,4 +11,4 @@ An adjectival modifier is any adjective that serves to modify the meaning of a n
 საბძლიდან გამოვიდა მაღალ-მაღალი კაცი/NOUN. /n 'A tall man came out of the barn.'
 amod(კაცი, მაღალ-მაღალი)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:10 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:38 CEST -->

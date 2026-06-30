@@ -21,4 +21,4 @@ If a word is further analyzed into morphemes, verb-yielding derivational morphem
 
 * _-yug(V→V)_ "to want to V" (as in _mayughyugtuq_ "he wants to climb")
 * _-lgu(N→V)_ "to have N" (as in _siguteghllalguut_ "they have big ears")
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:05 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->

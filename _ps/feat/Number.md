@@ -71,4 +71,4 @@ Nouns ending in
 #### Examples
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:33 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->

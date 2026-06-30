@@ -26,4 +26,4 @@ clause, etc. The dependent must be clausal (or else it is an [advmod]()) and the
 12	ջրով	ջուր	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	8	obl	_	SpaceAfter=No
 13	։	։	PUNCT	_	_	8	punct	_	_  
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:58 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:27 CEST -->

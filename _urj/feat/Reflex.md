@@ -10,4 +10,4 @@ udver: '2'
 Reflexive feature is used for pronouns. The pronoun for self as well as pronouns
 like свой should be marked as `Reflex=Yes`. The reflexive verbs are not marked
 with this feature.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:46 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:17 CEST -->

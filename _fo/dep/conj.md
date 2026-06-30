@@ -29,4 +29,4 @@ En sekunds tvekan eller dröjsmål eller slarv \n A second's hesitation or delay
 conj(tvekan, dröjsmål)
 conj(tvekan, slarv)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:26 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:54 CEST -->

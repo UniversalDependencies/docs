@@ -25,4 +25,4 @@ ccomp(anschauen, gemacht)
 nsubj(gemacht, du)
 obj(gemacht, was)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:46 CEST -->

@@ -32,4 +32,4 @@ Note that there is no `No` value. If the word is not connegative, the `Connegati
 * _մի՛ <b>փոխեր</b>/mi p’oxer_ “don't change!” (sing.)
 * _մի՛ <b>ծախէք</b>/mi çaxēk’_ “don't sell!” (pl.)
 * _մի՛ <b>արգելես</b>/mi argeles_ “don't forbid!”
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:15 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:47 CEST -->

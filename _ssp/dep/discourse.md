@@ -21,4 +21,4 @@ This is used for interjections and other discourse particles and elements, which
 6	QUERER	_	VERB	V	_	1	compound:vsc	_	Gloss=WANT
 7	G(B):vale	_	X	MD	_	1	discourse	_	Gloss=G
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:36 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:03 CEST -->

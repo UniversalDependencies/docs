@@ -47,4 +47,4 @@ speakers nor addressees.
 
 * _<b>նստի</b>/nsti_ “<b>he/she/it sits</b>.`Sub`”
 * _<b>նստին</b>/nstin_ “<b>they</b> sit.`Sub`”
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:38 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:09 CEST -->

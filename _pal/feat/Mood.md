@@ -17,4 +17,4 @@ This feature takes the following values: Ind, Nec, Opt, Sub.
 
 #### Example
 Some examples of the feature and its use.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:28 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->

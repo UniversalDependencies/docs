@@ -14,4 +14,4 @@ adverb. See [ADV]().
 
 * Wendy 's
 * McDonald 's
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:03 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

@@ -30,4 +30,4 @@ The tag marks pronominal adjectives, which express the possessive meaning.
 Jensen, Hans. 1959. _Altarmenische Grammatik._ Heidelberg: Winter.
 
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>).
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:43 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:13 CEST -->

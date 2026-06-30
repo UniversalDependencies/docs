@@ -25,4 +25,4 @@ la place Voltaire
 nmod:appos(place, Voltaire)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:11 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:39 CEST -->

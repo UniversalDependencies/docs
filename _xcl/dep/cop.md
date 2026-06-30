@@ -32,4 +32,4 @@ cop(nothing, is)
 Jensen, Hans. 1959. Altarmenische Grammatik. Heidelberg: Winter.
 
 Klein, Jared. 2017. The syntax of Armenian. In: J. Klein et al. (eds.), _Handbook of comparative and historical Indo-European linguistics_. Berlin, Boston: Walter de Gruyter: 1097‒1115.
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:28 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:55 CEST -->

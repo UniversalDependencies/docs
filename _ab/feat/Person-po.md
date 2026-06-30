@@ -32,4 +32,4 @@ This feature marks person agreement of the verb with the indirect object.
 * [ab] _з-з-еил-мы-р-го.з_ [PO.Rel-Pot-Pv-Neg-Caus-take.Pres.NonFin] ‘who could not solve it’ `Dyn=Yes|Person[lo]=Rec|Person[po]=Rel|Person[subj]=3|Polarity=Neg|Reln=Pot|Tense=Imp|Trans=No|VerbForm=NonFin|Voice=Cau`
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:40 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:11 CEST -->

@@ -11,4 +11,4 @@ Definiteness is commonly marked on nouns, adjectives and articles. For Uralic
 languages with articles, definiteness should be marked on articles. When aspects
 of definiteness are marked with case distinction, currently the Definite feature
 is not used.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:16 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->

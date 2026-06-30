@@ -31,4 +31,4 @@ daj mómajne parý
 obj(daj, parý)     note:   *parý* is in accusative case
 iobj(daj, mómajne) note:   *mómajne* is in genetive/dative case 
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:02 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:28 CEST -->

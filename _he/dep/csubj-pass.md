@@ -12,4 +12,4 @@ clause. In the example below, *כי קיימים...* is the subject.
 לדברי העיתונאי עמוס כרמלי בטרם עבודת הוועדה הוערך כי קיימים בין עשרה למאה נעדרים.
 csubj:pass(הוערך, קיימים)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:30 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:57 CEST -->

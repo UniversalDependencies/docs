@@ -18,4 +18,4 @@ fixed(დაბალი, ღობე)
 ლაგამს აიყრის. \n 'To become free.'
 fixed(ლაგამს, აიყრის)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:42 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:08 CEST -->

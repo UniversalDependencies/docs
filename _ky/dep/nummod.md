@@ -23,4 +23,4 @@ nummod(жумада, биринчи )
 nummod(сом, 145)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:00 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:27 CEST -->

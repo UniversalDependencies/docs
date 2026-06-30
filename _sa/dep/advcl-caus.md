@@ -18,4 +18,4 @@ discourse(ninayati, evá)
 iobj(ninayati, asmai)
 obj(ninayati, paśū́n)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:59 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:28 CEST -->

@@ -58,4 +58,4 @@ advmod(sondern, auch)
 amod(Eis, preiswerteste)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:45 CEST -->

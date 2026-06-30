@@ -50,4 +50,4 @@ digits, letters, or as a word?
 * _<b>РПЅ</b> г_ “the y<ear> 186th“
 * _a҃ = 1, в҃ = 2, г҃ = 3, д҃ = 4_ 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:32 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->

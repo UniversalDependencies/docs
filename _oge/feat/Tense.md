@@ -76,4 +76,4 @@ The pluperfect denotes an action completed before another past event.
 
 * _ხოლო კორნილიოს მიელოდა მათ, <b>შემოეკრიბა</b>	 თესლ-ტომი მისი <lb/> და საყუარელნი მეგობარნი მისნი._ 'But Cornelius was waiting for them, and had gathered his relatives and close friends.'
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:50 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->

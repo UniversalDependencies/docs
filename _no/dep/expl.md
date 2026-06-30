@@ -66,4 +66,4 @@ Kari Kinn, Per Erik Solberg and Pål Kristian Eriksen. [NDT Guidelines for Morph
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:40 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:07 CEST -->

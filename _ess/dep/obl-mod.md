@@ -13,4 +13,4 @@ obl:mod(neghtuq, pagunghaghmeng)
 obl:mod(it-ate, by-the-means-of-crowberry)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:09 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:34 CEST -->

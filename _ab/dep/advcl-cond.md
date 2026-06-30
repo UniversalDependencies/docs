@@ -17,4 +17,4 @@ The dependent of an `advcl:conv` relation is a conditional clause.
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:00 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:29 CEST -->

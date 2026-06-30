@@ -60,4 +60,4 @@ The narrative prefix _ni-_ is used for clause chaining when describing consecuti
 #### Examples
 
 * _<b>ni</b>mwaba <b>ni</b>muloba_ "you go and trap / you went and trapped"
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:50 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:21 CEST -->

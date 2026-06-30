@@ -25,4 +25,4 @@ Layered feature encoding person of predicative suffix attached to noun in predic
 
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:41 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:12 CEST -->

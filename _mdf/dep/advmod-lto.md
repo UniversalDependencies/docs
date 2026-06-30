@@ -16,4 +16,4 @@ advmod:lto(fly, upwards)
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:07 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:36 CEST -->

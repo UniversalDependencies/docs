@@ -60,4 +60,4 @@ Prasidėjo antra savaitė . \n The-second week began .
 amod(savaitė, antra)
 amod(week, The-second)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:10 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:38 CEST -->

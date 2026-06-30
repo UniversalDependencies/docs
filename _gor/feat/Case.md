@@ -63,4 +63,4 @@ losslessly converted to it for compatibility.
 * [gor] _**Ti** Dewi lo-tubu uponula_ "Dewi cooked the fish." (actor voice)
 * [gor] _**Te** Hasan pilohama li Dewi batade_ "Dewi took the goat from Hasan" (instrument voice)
 * [gor] _**Te** Pulu londo Limutu_ "Pulu is from Limboto."
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:11 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->

@@ -26,4 +26,4 @@ fixed(or1, or4)
 fixed(or1, or5)
 cc(can, or1)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:42 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:08 CEST -->

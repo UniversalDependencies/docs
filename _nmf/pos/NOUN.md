@@ -24,4 +24,4 @@ Nominalization is a very productive process in Naga-Suansu. Verbal nominalizatio
 * _hui_ "dog"
 
 * _lairak_ "book"
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:02 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:36 CEST -->

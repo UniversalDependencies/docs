@@ -38,4 +38,4 @@ ccomp(it-said,have-to)
 ccomp(pojasnil,Victor-4)
 ccomp(explained,Victor-16)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:47 CEST -->

@@ -69,4 +69,4 @@ behavior of different numerals in the Arabic grammar:
 
 * _<b>مليار / milyār</b>_ "billion"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:32 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->

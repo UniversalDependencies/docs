@@ -16,4 +16,4 @@ aux:aspect(кармась-6, содамо-7)
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:12 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:40 CEST -->

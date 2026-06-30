@@ -42,4 +42,4 @@ discourse(yes-5,yes-6)
 discourse(yes-5,yes-7)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:36 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:03 CEST -->

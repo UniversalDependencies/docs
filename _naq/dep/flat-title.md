@@ -24,4 +24,4 @@ flat:title(agent, Murphy)
 flat:title(ǃgâsas, Marias)
 flat:title(sister, Maria)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:45 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:11 CEST -->

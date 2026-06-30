@@ -28,4 +28,4 @@ In the example below, the primary aspect is marked with the progressive _ku-_, a
 
 * _a<b>ku</b>koba<b>nga</b>_ "she usually says"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:10 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:43 CEST -->

@@ -49,4 +49,4 @@ Fractional numbers denote fractions. In the AnCora treebank, these are tagged as
 * _2/3_ "two-thirds"
 
 Some determiners in Spanish also receive the NumType=Card feature, including "muchas" (many), "muchos" (many), "tantos" (so many), "demasiados" (too many), and "bastante" (enough). This is due to the fact that these determiners, similar to cardinal numbers, denote quantity. However, the application of the NumType=Card feature to these determiners is currently under review and may be subject to change in future revisions of the annotation guidelines.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:32 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->

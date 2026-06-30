@@ -102,4 +102,4 @@ Names of stadiums, guerilla bases, events etc.
 
 * _rádio <b>Classic</b> '93_ “radio Classic '93”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:29 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:01 CEST -->

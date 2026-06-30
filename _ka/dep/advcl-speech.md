@@ -19,4 +19,4 @@ The `ccomp:speech` (direct speech clausal complement) is used for complement sen
 6 მეც                მე          PRON        _  Case=Erg|Encl=C|Number=Sing|PronType=Prs                                        5       nsubj           _       LMSeg:მე|SpaceAfter=No
 7 .                  .           PUNCT       _  _                                                                               5       punct           _       LMSeg:.
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:04 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:32 CEST -->

@@ -11,4 +11,4 @@ This feature typically applies to pronouns, determiners, pronominal numerals
 that are not under `PRON` part of speech, e.g. pro-adjectives and pro-adverbs.
 The values used in Uralic follow universal guidelines. In some grammars there is
 quantifier or quantor type, this seems to map to universal value `Ind`.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:44 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:14 CEST -->

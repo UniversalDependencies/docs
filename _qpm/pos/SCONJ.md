@@ -25,4 +25,4 @@ For _coordinating conjunctions,_ see [CCONJ](CCONJ.md).
 - _atkák_ "since", _íma mlógo godíny atkák só ažóniho i déti némot jéšte_ "it is many years since they got married and they have no children"
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:05 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->

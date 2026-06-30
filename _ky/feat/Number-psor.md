@@ -22,4 +22,4 @@ udver: '2'
 * _китебибиз_ "our book" `Number[psor]=Plur|Number=Sing`
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:35 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:06 CEST -->

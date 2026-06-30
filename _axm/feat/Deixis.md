@@ -42,4 +42,4 @@ The entity is far away from the reference point (e.g., from the speaker).
 #### Examples
 
 * _նա/na, այն/ayn, ինա/ina, այնպես/aynpes, այնցեղ/aync’eġ, այնչաք/aynčak’, այնտեղ/_ “that, that, that, that way, that way, that many/much, there”
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:17 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->

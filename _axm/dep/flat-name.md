@@ -38,4 +38,4 @@ The titles/honorifics, when immediately following the first noun, are analyzed u
 1	Սմբատ	Սմբատ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
 2	գունդուստապլ	գունդուստապլ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	1	flat:name	_	_
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:43 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:10 CEST -->

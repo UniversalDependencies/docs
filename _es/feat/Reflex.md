@@ -25,4 +25,4 @@ In Spanish, reflexive pronouns are used when the subject of the verb is doing th
 * _Él <b>se</b> viste._ "He dresses himself."
 * _Nosotros <b>nos</b> vemos en el espejo._ "We see ourselves in the mirror."
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:46 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:16 CEST -->

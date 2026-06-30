@@ -17,4 +17,4 @@ csubj(oli-3, mennä-4)
 advmod(mennä-4, ulos-5)
 punct(oli-3, .-6)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:28 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:56 CEST -->

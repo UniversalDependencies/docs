@@ -26,4 +26,4 @@ This subtype of `compound` covers light verbs in Middle Armenian.
 7	կենայ	կենալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	acl	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:23 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:51 CEST -->

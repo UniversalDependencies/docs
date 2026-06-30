@@ -45,4 +45,4 @@ In conjunction with the [case]() relation, `nmod:npmod` provides a uniform analy
 9	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
 
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:53 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:19 CEST -->

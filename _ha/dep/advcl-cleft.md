@@ -12,4 +12,4 @@ tàfiyàː shiː yakèː sôː \n Going, for him, that's what he wants.
 advcl:cleft(tàfiyàː, sôː)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:59 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:29 CEST -->

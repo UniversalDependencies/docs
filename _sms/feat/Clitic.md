@@ -43,4 +43,4 @@ Is added to the core of the question.
 
 * [sms] _Haaʹlääk<b>-a</b> mõõnnâd?_ "Do you want to go?"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:13 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:46 CEST -->

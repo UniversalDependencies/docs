@@ -58,4 +58,4 @@ more objects, one of them should be [obj]() and the others should be
 `iobj`. In such cases it is necessary to decide what is the
 most directly affected object _(patient)._ In Portuguese, usually `iobj` comes with a preposition (_a, de, em_) or in olibque case (_me, se, lhe_).
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:46 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:12 CEST -->

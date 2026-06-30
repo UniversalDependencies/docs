@@ -22,4 +22,4 @@ In Kyrgyz numbers may get features [NumType](ky-feat/NumType)`=Ord` (ordinal) or
 - _бир_ "one",  _бэш_ "five", _Миң_ "thousand"
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:03 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:36 CEST -->

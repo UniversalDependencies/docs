@@ -18,4 +18,4 @@ Boolean feature. Is this a foreign word?
 
 #### Examples
 - _balad_ arabic for "country"
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:21 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:53 CEST -->

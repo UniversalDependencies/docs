@@ -33,4 +33,4 @@ A solidariedade em essa hipótese decorre de a dicção dos arts. 3º , inc. IV 
 nmod:spec(3º, inc.)
 nmod:spec(14, §)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:55 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:21 CEST -->

@@ -11,4 +11,4 @@ This feature takes the following values: Vnoun.
 
 #### Example
 Some examples of the feature and its use.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:53 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->

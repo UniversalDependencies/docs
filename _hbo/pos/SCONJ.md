@@ -199,4 +199,4 @@ The tag `SCONJ` usually corresponds to `conj` and sometimes to `art`.
 In a very small number of cases it can also be `prep` or `subs`.
 
 See also [fixed]() for documentation of multiword subordinating conjunctions.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:05 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->

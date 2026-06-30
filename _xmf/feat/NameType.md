@@ -41,4 +41,4 @@ The `NameType` feature applies to [proper nouns](_xmf/pos/PROPN).
 
 * _გაერო (ɡɑɛrɔ)_ 'UN' (United Nations) etc.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:29 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:01 CEST -->

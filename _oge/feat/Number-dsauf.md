@@ -29,4 +29,4 @@ Nominative plural stacked to double genitive case.
 #### Examples
 
 * _ვეცხლისათანი_ 'of silver' (Gen with Gen and Nom Plur) etc.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:34 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:05 CEST -->

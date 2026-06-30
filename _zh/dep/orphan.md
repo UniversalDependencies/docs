@@ -119,4 +119,4 @@ Ellipsis of the verb may also occur in a main clause when it follows a subordina
 ### References
 
 - Tang, Sze-Wing. 2001. 'The (Non-)Existence of Gapping in Chinese and Its Implications for the Theory of Gapping.' Journal of East Asian Linguistics 10: 201. doi:10.1023/A:1011250802691
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:13 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:38 CEST -->

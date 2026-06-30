@@ -20,4 +20,4 @@ amod(χρόνια, τελευταία)
 nummod(ευρώ, 10)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:00 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:26 CEST -->

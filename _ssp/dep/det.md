@@ -19,4 +19,4 @@ This is usually a pointing sign used alongside a noun, or a quantifier, or an in
 3	MUJER	_	NOUN	N.P	_	4	nsubj	_	Gloss=WOMAN
 4	ALEJARSE	_	VERB	V.Loc	_	0	root	_	Gloss=LEAVE
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:34 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:01 CEST -->

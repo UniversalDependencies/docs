@@ -36,4 +36,4 @@ acl(zájem, navýšit)
 acl(interest, to-increase)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:55 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:24 CEST -->

@@ -13,4 +13,4 @@ text_en: "The man was carrying on his shoulder a lamb that he had grilled.
 
 dislocated:subj(ʃʔag, tak) ("carry_on_shoulder", "man")
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:40 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:06 CEST -->

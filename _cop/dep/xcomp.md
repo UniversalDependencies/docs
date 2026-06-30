@@ -84,4 +84,4 @@ xcomp(ⲙⲟⲩⲧⲉ,ⲁⲫⲑⲟⲛⲓⲁ)
 mark(ⲁⲫⲑⲟⲛⲓⲁ,ϫⲉ)
 
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:20 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->

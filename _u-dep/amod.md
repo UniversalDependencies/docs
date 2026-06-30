@@ -21,4 +21,4 @@ amod(dogs, hot)
 There is nothing wrong with it
 amod(nothing, wrong)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:10 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:39 CEST -->

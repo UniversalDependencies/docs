@@ -36,4 +36,4 @@ nummod(litran-4, kahden-3)
 FinnTreeBank (FI_FTB) applies
 the universal relation [`nmod`](http://universaldependencies.org/u/dep/all.html#al-u-dep/nmod)
 instead of the language-specific `nmod:poss`.
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:54 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:20 CEST -->

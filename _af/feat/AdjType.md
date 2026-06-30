@@ -33,4 +33,4 @@ Adjective used predicatively.
 
 * _Die identifisering van die top-prioriteite beteken dat al drie sfere van die Regering- <b>nasionaal</b>, provinsiaal en plaaslik- hierdeur 'n besliste onderneming maak..._ “The identification of the top priorities means that all three levels of Government—national, provincial and local—thereby make a definite undertaking ...”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:07 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:41 CEST -->

@@ -19,4 +19,4 @@ Itj:	Interjection
 
 _ჩუ_ 'shush'
 _ეჰ_ 'oh, dear'
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:02 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:35 CEST -->

@@ -13,4 +13,4 @@ csubj(ჯერ-არს, მოვიდეს)
 mark(მოვიდეს, რაჲთა)
 nsubj(მოვიდეს, იგი)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:29 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:56 CEST -->

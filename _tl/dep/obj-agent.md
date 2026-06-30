@@ -17,4 +17,4 @@ obj:agent(Given, teacher)
 
 “The teacher gave the student a prize.”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:02 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:28 CEST -->

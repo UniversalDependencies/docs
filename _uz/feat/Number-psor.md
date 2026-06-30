@@ -22,4 +22,4 @@ udver: '2'
 * Kitoblaringiz  “your-PL books” Number[psor]=Plur|Number=Plur
 * Kitobimiz “our book” Number[psor]=Plur|Number=Sing
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:35 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:06 CEST -->

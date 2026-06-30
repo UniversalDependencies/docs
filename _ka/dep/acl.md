@@ -12,4 +12,4 @@ udver: '2'
 acl(ქალმა, უთხრეს)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:55 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:25 CEST -->

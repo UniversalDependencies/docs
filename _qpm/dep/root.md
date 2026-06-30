@@ -29,4 +29,4 @@ If the main predicate is not present (due to ellipsis) and there are multiple or
 one of these is promoted to the head ('root') position and the other orphans are attached to it.
 (This rule has in practice been followed since release v1.2 but was not explicitly stated in the
 original v1 guidelines.)
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->

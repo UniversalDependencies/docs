@@ -19,4 +19,4 @@ obl:mod (pati, Mekredi)
 Jou sa lapli te kòmanse tonbe \n That day, it started to rain
 obl:mod (kòmanse, Jou)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:09 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:34 CEST -->

@@ -18,4 +18,4 @@ This feature marks number agreement of the verb with the absolutive argument (su
 #### Examples
 
 * [abq] _йы-з-б-и-тI_ [<b>3PL.ABS</b>-1SG.ERG-see-PRS-DCL] ‘I see <b>them</b>’ `Number[abs]=Plur|Number[erg]=Sing|Person[abs]=3|Person[erg]=1|Tense=Pres`
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:33 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->

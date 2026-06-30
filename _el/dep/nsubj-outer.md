@@ -21,4 +21,4 @@ det(κατάσταση, αυτή)
 det(κατάσταση, η)
 root(-ROOT-, διαρκεί)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:59 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:25 CEST -->

@@ -16,4 +16,4 @@ word of phrases or sentences used as names or after abbreviations).
 ~~~
 
 For more details see the [tokenization page](http://universaldependencies.org/hy/tokenization.html).
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:31 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:58 CEST -->

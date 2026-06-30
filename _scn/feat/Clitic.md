@@ -15,4 +15,4 @@ Clitic personal pronouns: .
 #### Examples
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:13 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:46 CEST -->

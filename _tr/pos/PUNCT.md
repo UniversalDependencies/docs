@@ -20,4 +20,4 @@ Punctuation is not taken to include logograms such as _$_, _%_, and _§_, which 
 
 - [Wikipedia](http://en.wikipedia.org/wiki/Punctuation)
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:05 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->

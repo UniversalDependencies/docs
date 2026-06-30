@@ -16,4 +16,4 @@ For _subordinating conjunctions_ see [SCONJ]().
 - _և_/_ew_, _ու_/_ow_ “and”
 - _կամ_/_kam_ “or”
 - _բայց_/_bayc’_ “but”
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:01 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:34 CEST -->

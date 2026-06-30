@@ -21,4 +21,4 @@ obl:agent(delighted, snow)
 case(snow, by)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:05 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:31 CEST -->

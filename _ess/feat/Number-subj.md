@@ -25,4 +25,4 @@ The Yupik verb inflects for the number (and person) of subject. If subject is pr
 #### Examples
 
 * [ess] _<b>Kinkungaawat</b> aqelqat?_ "<b>Who are</b> the guests?" The verb ending _-t_ `Number[subj]=Plur|Person[subj]=3` in _kinkungaawat_ "who are they?" agrees with the object _aqelqat_ "guests" `Number=Plur` in person.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:36 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:07 CEST -->

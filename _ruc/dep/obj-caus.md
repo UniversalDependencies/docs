@@ -23,4 +23,4 @@ Onenesya amaino . \n You_bite_using teeth .
 obj:caus(Onenesya, amaino)
 obj:caus(You_bite_using, teeth)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:03 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:29 CEST -->

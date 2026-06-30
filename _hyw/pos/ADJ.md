@@ -37,4 +37,4 @@ Resultative, subject, and past participles are word forms that share properties 
 Note that some participial adjectives that are already lexicalized as adjectives are tagged `ADJ`, although they may retain certain verbal features.
 - _<b>ստիպուած</b>_/_stipowaç_ “forced”
 - _<b>ողորմած</b>_/_oġormaç_ “gracious”
-<!-- Interlanguage links updated Út 30. června 2026, 10:32:59 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:33 CEST -->

@@ -38,4 +38,4 @@ something known and concrete, or something general or unknown.
 
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:16 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:48 CEST -->

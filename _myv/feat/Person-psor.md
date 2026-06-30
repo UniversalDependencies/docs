@@ -39,4 +39,4 @@ on nouns, and we thus have `Person[psor]` together with `Number[psor]`.
 * [myv] _<b>кисказо</b>_ “his/her/its dog”
 * [myv] _<b>кискаст</b>_ “their dog/dogs”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:41 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:11 CEST -->

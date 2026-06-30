@@ -20,4 +20,4 @@ The value `Yes` is used for the focalizing converter
 If the focalizer is part of a fused pronoun, we get a `PRON` with `Emph=Yes`:
 
 * _<b>ⲉⲣ</b>ϫⲓ-ϭⲟⲗ_ "You're LYING!" (2nd person singular feminine)
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:51 CEST -->

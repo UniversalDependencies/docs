@@ -47,4 +47,4 @@ Examples: [eu] _dakarkio<b>zu</b>_ `Person[erg]=2`
 ### <a name="3">`3`</a>: third person subject
 
 Examples: [eu] _<b>d</b>akarki<b>o</b>gu_ `Person[abs]=3|Person[dat]=3`
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:41 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:12 CEST -->

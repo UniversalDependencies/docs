@@ -45,4 +45,4 @@ punct(tam, ')                      note: [ ' ] apostrophe / “ 'tam” is a col
 punct(Hamdi, - )                   note: [ - ] dush
 flat:name(Hamdi, stárok)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->

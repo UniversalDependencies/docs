@@ -145,4 +145,4 @@ it?_ or _haven't you?_.
 Isso é para mim , não é ?
 parataxis(mim, é)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:14 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:39 CEST -->

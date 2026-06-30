@@ -18,4 +18,4 @@ This usage does not extend to ordinary loan words where it is assigned a normal 
 * Αληθώς Ανέστη
 * res nullius
 * pro capite
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:06 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:40 CEST -->

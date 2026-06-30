@@ -24,4 +24,4 @@ This feature marks person agreement of the noun with the possessor.
 #### Examples
 
 * [abq] _<b>л-</b>ан_ [<b>3SG.F.PR</b>-mother] ‘<b>her</b> mother’ `Gender[psor]=Fem|Number[psor]=Sing|Person[psor]=3`
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:40 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:11 CEST -->

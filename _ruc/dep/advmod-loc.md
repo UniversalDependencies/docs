@@ -14,4 +14,4 @@ Ati oibaamwei nazwa yo . \n Now her_husband came there .
 advmod:loc(nazwa, yo)
 advmod:loc(came, there)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:07 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:36 CEST -->

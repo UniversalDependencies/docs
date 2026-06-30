@@ -14,4 +14,4 @@ In Greek, the agent is a nominal with the preposition _από_.
 obl:agent(καταστράφηκε, στρατεύματα)
 case(στρατεύματα, από)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:05 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:31 CEST -->

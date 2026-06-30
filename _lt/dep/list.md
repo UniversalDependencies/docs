@@ -15,4 +15,4 @@ list(Surname, email)
 ~~~
 
 However, `list` should not be over-used. If a construction can easily be analyzed using the grammatical relations of standard sentences, typically as a coordinated structure, then it should be analyzed with these more standard relations, even if it is laid out as a list typographically.
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:47 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->

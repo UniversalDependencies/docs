@@ -12,4 +12,4 @@ ci livau i manu dî so spaḍḍi.
 det:poss(spaḍḍi, so)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:36 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:02 CEST -->

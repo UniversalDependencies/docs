@@ -45,4 +45,4 @@ It has also the so-called `count form` in contrast to the humans, but only for m
 - _три стола_ / _tri stola_ "three chairs"
 
 Note that the symbol `#', used in the Universal POS section indicates a holder for arbitrary number of features, suppressed in the respective tag as irrelevant in the BulTreeBank tagset, when mapped to the Universal one.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:09 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:42 CEST -->

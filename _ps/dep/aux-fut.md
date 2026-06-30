@@ -12,4 +12,4 @@ For perfective future, it depends with the `aux:fut` relation on the main verb i
 #### Examples
 ~~~ sdparse
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:13 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:41 CEST -->

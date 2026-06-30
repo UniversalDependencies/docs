@@ -53,4 +53,4 @@ Instead, we use the following principles:
 18	սպաննել	սպաննել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	15	csubj	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	15	punct	_	_
  ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:42 CEST -->

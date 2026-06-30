@@ -32,4 +32,4 @@ of the copular verb, which can be an adjective or noun (including a noun marked 
 3	տաք	տաք	ADJ	_	Degree=Pos	0	root	_	_
 4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	_
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:55 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:22 CEST -->

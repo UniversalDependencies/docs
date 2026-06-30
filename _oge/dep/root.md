@@ -34,4 +34,4 @@ root(ROOT, ცხორებაჲ)
 nmod(ცხორებაჲ, აბოჲსი)
 amod(აბოჲსი, წმიდისა)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->

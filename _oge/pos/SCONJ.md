@@ -23,4 +23,4 @@ Conj Subord: Subordinative conjunction
 _რამეთუ_ *rametʻu* 'because'
 _რაც_ *racʻ* 'that'
 _რომელიც_ *romelicʻ* 'which'
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:05 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->

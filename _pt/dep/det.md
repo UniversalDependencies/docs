@@ -24,4 +24,4 @@ det(história, essa)
 Outros três suspeitos estão foragidos.
 det(suspeitos, outros)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:34 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:01 CEST -->

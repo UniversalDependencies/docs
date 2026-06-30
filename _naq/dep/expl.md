@@ -30,4 +30,4 @@ Xawe b ge ra mû . \n But 3M.SG.SBJ DECL IPFV see .
 nsubj(mû, b)
 nsubj(see, 3M.SG.SBJ)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:40 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:07 CEST -->

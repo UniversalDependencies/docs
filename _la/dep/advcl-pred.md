@@ -65,4 +65,4 @@ obl:arg(I-have-moved,to-ye)
 ### References
 
 * Pinkster, H. (1990). *Latin syntax and semantics*, Routledge.
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:03 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:31 CEST -->

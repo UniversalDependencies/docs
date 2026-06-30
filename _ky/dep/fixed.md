@@ -23,4 +23,4 @@ A few fixed-like MWEs are analyzed as usual.
 fixed(чабыш,ат )
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:42 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:08 CEST -->

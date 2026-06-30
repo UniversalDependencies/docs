@@ -25,4 +25,4 @@ UPOS tag is [PRON](), the relation should be `obl`. If the UPOS tag is [ADV](), 
 should be `advmod`. Most of the occurrences are currently tagged `ADV`. -->
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:09 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:34 CEST -->

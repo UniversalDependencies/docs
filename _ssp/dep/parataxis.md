@@ -21,4 +21,4 @@ In the LSE treebank, the parataxis relation is also used for reported speech or 
 4	SABER	_	VERB	V.P	_	3	conj	_	Gloss=KNOW
 5	INDX	_	PRON	Pro	_	3	nsubj	_	Gloss=INDX
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:14 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:39 CEST -->

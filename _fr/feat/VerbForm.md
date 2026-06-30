@@ -29,4 +29,4 @@ In French, `VerbForm` is marked on verbs and can take one of the three following
 
 * _j'ai <b>eu</b> une pomme_ “I have <b>had</b> an apple”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:53 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->

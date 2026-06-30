@@ -35,4 +35,4 @@ vocative(ricorda, Chirac)
 The specialization [vocative:mention](vocative-mention) is used for Twitter @-mentions.
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->

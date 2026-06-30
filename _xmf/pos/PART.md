@@ -29,4 +29,4 @@ infinitive
 - emphasis particles: _ხოლო (xɔlɔ)_ 'too' etc.
 - focus particles: _-ც (-t͡s)_ 'and' etc.
   
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:03 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

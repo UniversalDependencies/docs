@@ -16,4 +16,4 @@ det(vā́stūni, tā́)
 obl:goal(gámadhyai, vā́stūni)
 xcomp(uśmasi, gámadhyai)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:07 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:33 CEST -->

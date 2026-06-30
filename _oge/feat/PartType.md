@@ -47,4 +47,4 @@ The `PartType` feature typically applies to [particles](_oge/pos/PART), [pronoun
 #### Examples
 
 * _ცა-ესე_ 'namely this', _ცა-ეგე_ 'namely that' etc.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:38 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:08 CEST -->

@@ -43,4 +43,4 @@ This feature marks the relation type of a relational marker
 
 * [ab] _и-ш-з-<b>а</b>-цәы-м-цо-з_ [Subj.3-How-Pot-RO.3SgNH-Against-Neg-go-Aor.NonFin] ‘how it/they could not go against it’ `Dyn=Yes|Gender[ro]=Neut|Number[ro]=Sing|Person[ro]=3|Person[subj]=3|Polarity=Neg|Reln=Mal|RelType=Mnr|Tense=Imp|Trans=No|VerbForm=NonFin`
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:47 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:17 CEST -->

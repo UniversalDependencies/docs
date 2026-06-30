@@ -16,4 +16,4 @@ nsubj:pass(be_offended, Peter)
 obl:agent(be_offended, Maria)
 case(Maria, by)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:59 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:25 CEST -->

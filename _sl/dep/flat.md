@@ -44,4 +44,4 @@ nummod(percent,two)
 ~~~
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:42 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->

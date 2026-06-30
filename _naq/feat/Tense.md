@@ -51,4 +51,4 @@ The recent past tense denotes actions that happened a short time before a refere
 
 * _ǀGoan di daoǁaeb ge <b>go</b> hā._ "The time to brand small stock has come."
 * _ǀǁAnǃoe da ge ǂhuwiba omde xu ǃgāsase <b>goro</b> mû._ "Yesterday evening we could see the fire clearly from our houses."
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:50 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->

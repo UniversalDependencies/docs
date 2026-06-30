@@ -34,4 +34,4 @@ The entity is neither close nor far away from the reference point (e.g., from th
 * _ <b></b>;_ “...”
 * _ <b></b>;_ “...”
  
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:17 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:50 CEST -->

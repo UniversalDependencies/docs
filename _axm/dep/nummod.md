@@ -64,4 +64,4 @@ and they are related to the whole phrase rather than directly to the head noun:
 ## Dates
 
 Dates are annotated as follows: if present, the day is the head, the month is _nmod:poss_ and the year is _nummod_:
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:00 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:26 CEST -->

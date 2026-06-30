@@ -124,4 +124,4 @@ The quality of one object is compared to the same quality of all other objects w
 	* _zavíttišiček (zavít)_ "well covered (covered)"
 	* _zalǽttišiček (zalǽt)_ "well watered (watered)"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:16 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->

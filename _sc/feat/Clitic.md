@@ -44,4 +44,4 @@ nendi**ddis** ("saying **to them**)
 *Source: [Mensching, 2017: "Morfosintassi: Sincronia", in Blasco-Ferrer E., Koch P., Marzo D. (eds), Manuale di Linguistica Sarda. De Guyter, Berlin, pp. 376-396](https://www.researchgate.net/publication/318301457_54_Morfosintassi_sincronia)
 
  
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:13 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:46 CEST -->

@@ -43,4 +43,4 @@ The entity is far away from the reference point (e.g., from the speaker).
 #### Examples
 
 * _այն, այնպիսի, այնքան, այնտեղ, նույն_ “that, such, to many, there, same”
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:17 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->

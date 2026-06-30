@@ -48,4 +48,4 @@ Reduplication is a common process especially for [adverbs](ADV) and [adjectives]
 8	դառնայ	դառնալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
 9	։	։	PUNCT	_	_	8	punct	_	_
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:44 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:11 CEST -->

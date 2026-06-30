@@ -31,4 +31,4 @@ udver: '2'
 
 * _j'<b>aurai</b> une pomme_ "I will have an apple"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:50 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->

@@ -54,4 +54,4 @@ Plural object prefixes include the first person plural _tu-_, second person plur
 * _a-ka-<b>ba</b>-wa_<br>
   NC1.SBJ-NC12.OBJ-**NC2.IOBJ**-give<br>
   "he gives it (money) to them"
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:34 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:05 CEST -->

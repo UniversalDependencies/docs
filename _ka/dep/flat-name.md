@@ -27,4 +27,4 @@ nmod(სამინისტრო, საქართველოს)
 nmod(სამინისტრო, განათლებისა)
 conj(მეცნიერების, განათლებისა)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:43 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:10 CEST -->

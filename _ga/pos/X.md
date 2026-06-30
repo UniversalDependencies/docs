@@ -13,4 +13,4 @@ The tag X is used for words that for some reason cannot be assigned a real part-
 
 * _Beidh <b>an-weekend</b> againn_ "We will have a great weekend"
 * _san eagrán 'ceart' den pháipéar <b>'on the mainland'</b>_ 'in the right edition of the paper 'on the mainland''
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:06 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->

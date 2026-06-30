@@ -60,4 +60,4 @@ flat(Social, economic)
 ~~~
 
 Also, two nouns joined by a hyphen, which denote the name of a single object or phenomenon, are annotated with the `flat` relation.
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:42 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->

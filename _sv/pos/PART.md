@@ -15,4 +15,4 @@ In Swedish `PART` is currently used for two types of words:
 
 - _det är möjligt <b>att</b> förändra den_ "it is possible <b>to</b> change it"
 - _det är <b>inte</b> möjligt_ "it is <b>not</b> possible"
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:03 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

@@ -109,4 +109,4 @@ The relation can also be used for nominals that don’t include a nominal marker
 9	here."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:04 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:30 CEST -->

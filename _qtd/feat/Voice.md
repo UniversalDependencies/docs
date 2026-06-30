@@ -135,4 +135,4 @@ Like reciprocal, reflexive is rather unproductive, and a very limited set of ver
 * _yıka<b>n</b>_ "to wash oneself"
 * _giy<b>in</b>_ "to dress oneself"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:54 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:24 CEST -->

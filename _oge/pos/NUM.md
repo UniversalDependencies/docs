@@ -28,4 +28,4 @@ Num:	Numeral
 - approximale numerals: _ორიოდე_ *oriode* 'a couple of' etc.
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:03 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:36 CEST -->

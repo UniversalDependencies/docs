@@ -14,4 +14,4 @@ pera ʉnkʉtakʉn zoyana \n He went picking pears.
 advcl:purp (zoyana, ʉnkʉtakʉn)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:03 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:32 CEST -->

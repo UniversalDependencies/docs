@@ -28,4 +28,4 @@ This relation is a subtype of the nmod relation, replacing the deprecated :npmod
 16	2	2	NUM	_	NumType=Card	15	nummod	_	Hiero=𓏻
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:55 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:21 CEST -->

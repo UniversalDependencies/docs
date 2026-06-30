@@ -39,4 +39,4 @@ extralinguistic context.
     * _síčko / síčkoso / síčkoto / síčkono_ "all / everything"
         * _<b>síčko</b> íma faf kóštono_ "he has <b>everything</b> at home" [lit."<b>everything</b> he has at home"]
         * _<b>síčkono</b> go predáva_ "he sells <b>everything</b>"
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:04 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

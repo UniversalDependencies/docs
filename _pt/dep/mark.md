@@ -23,4 +23,4 @@ Sugere ainda que seja elaborada uma circular
 mark(elaborada, que)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:48 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->

@@ -21,4 +21,4 @@ obl:lmp(were_lying-3, next_to-5)
 ~~~
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:09 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:34 CEST -->

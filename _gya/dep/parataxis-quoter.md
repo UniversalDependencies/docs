@@ -11,4 +11,4 @@ udver: '2'
 ʔá̰-nɛ̀ wà wàntò mɛ́ tɛ́-Bʔɔ díì \n Then they ask: Wanto, where are you going to sleep?
 parataxis:quoter (tɛ́-Bʔɔ, wà)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:16 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:40 CEST -->

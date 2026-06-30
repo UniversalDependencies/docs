@@ -60,4 +60,4 @@ Names of groups, fests, events etc.
 #### Examples
 
 * _<b>Թոնդրակեցիներ/T’ondrakec’iner, Զատիկ/Zatik</b>&nbsp;_ “Tondrakians, Easter”
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:29 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:01 CEST -->

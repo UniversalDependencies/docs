@@ -39,4 +39,4 @@ obj(exportálhatott, nyersanyagot)
 punct(exportálhatott, .-13)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:09 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:37 CEST -->

@@ -19,4 +19,4 @@ advcl:tcl(jaghā́na, pītvā́)
 obj(pītvā́, asyá)
 nmod:appos(asyá, mádānām)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:50 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:16 CEST -->

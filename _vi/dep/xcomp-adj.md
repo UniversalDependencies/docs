@@ -16,4 +16,4 @@ compound:verbnoun(đánh, nhau)
 punct(giỏi, .)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:20 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:45 CEST -->

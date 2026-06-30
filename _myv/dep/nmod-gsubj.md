@@ -13,4 +13,4 @@ is in parallel to genitive objects [nmod:gobj]().
 nmod:gsubj(самс-5, иень-4)
 
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:52 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:18 CEST -->

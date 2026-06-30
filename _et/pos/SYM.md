@@ -12,4 +12,4 @@ Mail and web addresses are also tagged also SYM.<br/>
 Examples:<br/>
 <i>§, %, +, =, 11°, 25°53’</i><br/>
 <i>info.euroopaliikumine.ee</i>
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:05 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->

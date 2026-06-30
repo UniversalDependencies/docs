@@ -16,4 +16,4 @@ advmod:deg(тэрыба, зэв)
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:08 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:36 CEST -->

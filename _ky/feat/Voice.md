@@ -45,4 +45,4 @@ In causative constructions the subject is the entity "causing" the action. It ge
 * _ Дениз уктатылды._  "Deniz was made to sleep."
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:53 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:24 CEST -->

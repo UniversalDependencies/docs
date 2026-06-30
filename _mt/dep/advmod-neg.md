@@ -24,4 +24,4 @@ Used for the negator *ma*.
 14	rriżenjax	_	VERB	VERB	_	0	root	_	SpaceAfter=No
 15	?	_	PUNCT	X_PUN	_	14	punct	_	_
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:08 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:37 CEST -->

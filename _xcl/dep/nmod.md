@@ -19,4 +19,4 @@ nmod(kingdom, heaven)
 ժամանակ աստեղն երեւելոյ \n time the star appeared
 nmod(ժամանակ, երեւելոյ)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:50 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:16 CEST -->

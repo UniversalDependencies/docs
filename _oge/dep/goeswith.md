@@ -11,4 +11,4 @@ udver: '2'
 Ⴃა ამიერ და იმიერ თითოჲს-ჯერ ყოველთა ძმათა მსხდომა რეთა \n 'And from here and there, one by one, of all the brothers sitting.'
 goeswith(მსხდომა, რეთა)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:45 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:12 CEST -->

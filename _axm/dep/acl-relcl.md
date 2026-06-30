@@ -40,4 +40,4 @@ A relative clause modifier of an noun is a relative clause modifying the noun. T
 11	լինին	լինիլ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	լել	լինալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	5	acl:relcl	_	_
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:57 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:27 CEST -->

@@ -18,4 +18,4 @@ advcl:temp(jaghā́na, pītvā́)
 obj(pītvā́, asyá)
 nmod:appos(asyá, mádānām)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:04 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:33 CEST -->

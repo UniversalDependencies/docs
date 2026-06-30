@@ -15,4 +15,4 @@ This relation is a subtype of the [nmod]() relation, which covers only those pos
 2	դատաստանին	դատաստան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	3	nmod:poss	_	_
 3	աւրինակովն	աւրինակ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Def|Number=Sing|Style=Var	0	root	_	_
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:54 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:20 CEST -->

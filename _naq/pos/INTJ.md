@@ -22,4 +22,4 @@ As a special case of interjections, we recognize backannels particles such as _m
 * _mm_, _mhm_, _ah_, _aha_
 
 * _ok_
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:02 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:36 CEST -->

@@ -89,4 +89,4 @@ Note, that in Middle Armenian iterative is considered as a lexical feature of [v
 * _կոտրել/kotrel_ “break”, _<b>կոտրտել</b>/kotrtel_ “break into pieces”,
 * _ծռիլ/çṙil_ “warp”, _<b>ծռկտիլ</b>/çṙktil_ “squirm”,
 * _փնտռել/p’ntṙel_ “search”, _<b>փնտռտել</b>/p’ntṙtel_ “search several times”
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:09 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:42 CEST -->

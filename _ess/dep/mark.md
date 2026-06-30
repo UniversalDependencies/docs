@@ -14,4 +14,4 @@ mark(iglagtulghii, qayughllak)
 mark(he-used-a-loud-voice, because)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:47 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->

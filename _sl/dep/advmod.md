@@ -103,4 +103,4 @@ vložki iz krp , spletene volne , gobe in celo trave \n inserts made-of cloth, k
 advmod(trave,celo)
 advmod(even,grass)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:04 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:33 CEST -->

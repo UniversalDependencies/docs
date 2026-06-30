@@ -26,4 +26,4 @@ conj(dux, cuntes)
 cc(cuntes, e-7)
 det(cuntes, ses-8)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:05 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:30 CEST -->

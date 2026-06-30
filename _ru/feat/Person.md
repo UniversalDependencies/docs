@@ -42,4 +42,4 @@ speakers nor addressees.
 
 * _<b>делает</b>&nbsp;_ “<b>he/she/it does</b>”
 * _<b>делают</b>&nbsp;_ “<b>they</b> do”
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:39 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:09 CEST -->

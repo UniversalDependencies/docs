@@ -83,4 +83,4 @@ Expresses Non-first-hearer meaning. Glossed 'reportedly'. Annotated with the fea
 
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:38 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:08 CEST -->

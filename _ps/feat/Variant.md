@@ -78,4 +78,4 @@ Special type of personal pronouns used in contracted forms (which are separeted 
 #### Examples
 * with preposition: **ور**نسره _**war**sará_ “with him/her/it/them” **در**باندې _**dar**bấnde_ “upon you”
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:52 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:22 CEST -->

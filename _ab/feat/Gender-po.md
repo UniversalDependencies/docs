@@ -24,4 +24,4 @@ This feature marks gender agreement of the verb with the potential object.
 #### Examples
 
 * [ab] _б-а-з-бо-заарын_ [Subj.2Sg.Fem-<b>PO.3SgNH</b>-Pot-see-Pres.PastEvident] ‘evidently, it can have seen <b>you.Fem</b>’ `Dyn=Yes|Evident=Nfh2|Gender[po]=Neut|Gender[subj]=Fem|Number[po]=Sing|Number[subj]=Sing|Person[po]=3|Person[subj]=2|Reln=Pot|Tense=Pres|Trans=Yes|VerbForm=Fin`
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:23 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:55 CEST -->

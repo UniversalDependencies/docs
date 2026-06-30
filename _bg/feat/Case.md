@@ -44,4 +44,4 @@ The canonical sentence would be: _Той взе шапката ми_ / _Toj vze 
 * _кого, някого, никого_ / _kogo, njakogo, nikogo_ "whom, someone.ACC, nobody.ACC"
 * _на кого, на някого, на никого_ / _na kogo, na njakogo, na nikogo_ "to whom, to someone.ACC, to nobody.ACC"
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:11 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->

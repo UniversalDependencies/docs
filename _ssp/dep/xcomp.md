@@ -17,4 +17,4 @@ An open clausal complement (`xcomp`) of a verb or an adjective is a predicative 
 2	DORMIR	_	VERB	V	_	3	xcomp	_	Gloss=SLEEP
 3	QUEDAR	_	VERB	V.Loc	_	0	root	_	Gloss=TO-STAY
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:20 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:45 CEST -->

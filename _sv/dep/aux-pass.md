@@ -24,4 +24,4 @@ aux(mördad, har)
 nsubj(mördad, Kennedy)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:14 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:42 CEST -->

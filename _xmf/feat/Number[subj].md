@@ -26,4 +26,4 @@ udver: '2'
 #### Examples
 
 * _ვზიმუნდით (vzimundit)_ 'We were measuring', _დოვზიმუნდით (dɔvzimundit)_ 'We would measure' etc.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:36 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:07 CEST -->

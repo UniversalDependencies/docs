@@ -12,4 +12,4 @@ Baceŋa asessi utiaŋse mo pho . \n He.ERG my.kill.PURP they_came CIT REP .
 advcl:purp(utiaŋse, asessi)
 advcl:purp(they_came, my.kill.PURP)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:03 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:32 CEST -->

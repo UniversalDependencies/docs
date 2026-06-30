@@ -22,4 +22,4 @@ The feature marks transitivity of the verb.
 
 
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:51 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:21 CEST -->

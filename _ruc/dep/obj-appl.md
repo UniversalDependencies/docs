@@ -14,4 +14,4 @@ yakoleiree omukama waamwe . \n He_worked_for boss his .
 obj:appl(yakoleiree, omukama)
 obj:appl(He_worked_for, boss)
 ~~~
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:02 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:28 CEST -->

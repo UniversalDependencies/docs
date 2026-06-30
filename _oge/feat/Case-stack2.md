@@ -35,4 +35,4 @@ In Old Georgian, triple case stacking is encountered in the following cases:
 * _ძელისაჲსაჲთა_ 'with the wooden one' (Gen with Inst) etc.;
 * _ძელისაჲსაო_ 'O, wooden one' (Gen with Voc) etc.
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:12 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:45 CEST -->

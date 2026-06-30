@@ -23,4 +23,4 @@ Problem_the about Teodosiy Simeonov already not is at us .
 flat(Teodosiy-3, Simeonov-4)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:42 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->

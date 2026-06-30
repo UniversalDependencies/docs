@@ -13,4 +13,4 @@ advmod:tmod(вайисӧ, тӧн)
 
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:09 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:38 CEST -->

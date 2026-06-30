@@ -48,4 +48,4 @@ aux(қарап-7, тұр-8)
 punct(қарап-7, .-9)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:15 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:43 CEST -->

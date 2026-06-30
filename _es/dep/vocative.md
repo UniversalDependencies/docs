@@ -21,4 +21,4 @@ Señor , podemos entender
 vocative(entender, Señor)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:35:19 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->

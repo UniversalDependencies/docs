@@ -72,4 +72,4 @@ A list of all compound prepositions is as follows:
 </table>
 
 Examples taken from Christian Brothers 1994.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:43 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:14 CEST -->

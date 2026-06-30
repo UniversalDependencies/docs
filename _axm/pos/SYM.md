@@ -21,4 +21,4 @@ Some special charachters used in Middle Armenian texts for articulation, stenogr
 - _☉, ☽, ☿, ♃_
 - _+, −, ×, ÷, =_  
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:05 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->

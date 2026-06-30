@@ -31,4 +31,4 @@ The subject of the verb is affected by the action (patient). The doer (agent) is
 
 * _ოჭარუუ(ნ), აჭარუუ(ნ) (ɔt͡ʃʼɑruu(n), ɑt͡ʃʼɑruu(n))_'he/she makes to be written, he/she gets written'
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:54 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:24 CEST -->

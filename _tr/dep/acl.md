@@ -39,4 +39,4 @@ mark(görmüyorduk, ki)
 ~~~
 
 We currently do not mark (non-)relative clauses differently.
-<!-- Interlanguage links updated Út 30. června 2026, 10:33:55 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:25 CEST -->

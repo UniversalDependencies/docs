@@ -30,4 +30,4 @@ advcl(Namaľoval, nahú)
 advcl(He-painted, naked)
 ~~~
 
-<!-- Interlanguage links updated Út 30. června 2026, 10:34:03 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:31 CEST -->
