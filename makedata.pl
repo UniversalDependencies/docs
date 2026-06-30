@@ -114,24 +114,19 @@ for my $s (qw(pos feat dep)) {
             print $OUT "  - label: '$p'\n";
 
             #
-            # Rewrite the markdown file.
+            # Touch the file. Otherwise its HTML will not be re-rendered because only the YAML data file will change.
             #
             open(my $IN, "<", $file) or die "Cannot read $file: $!";
-            my @lines =
-                grep { !/<!-- Interlanguage links updated/ } <$IN>;
+            my @lines = grep { !/<!-- Interlanguage links updated/ } <$IN>;
             close($IN);
-
             my $tmp = "$file.tmp";
-
             open(my $TMP, ">", $tmp) or die "Cannot write $tmp: $!";
             print $TMP @lines;
-            print $TMP "<!-- Interlanguage links updated ",
-                       `date`,
-                       " -->\n";
+            my $timestamp = `date`;
+            $timestamp =~ s/\r?\n$//;
+            print $TMP "<!-- Interlanguage links updated $timestamp -->\n";
             close($TMP);
-
-            move($tmp, $file)
-                or die "Cannot replace $file: $!";
+            move($tmp, $file) or die "Cannot replace $file: $!";
         }
     }
 
