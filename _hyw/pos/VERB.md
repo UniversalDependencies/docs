@@ -11,18 +11,18 @@ A verb is a member of the syntactic class of words that typically denotes events
 
 Note that the `VERB` tag covers main verbs _(content verbs)_, but not auxiliary verbs or copulas, which are tagged [AUX](). See the description of `AUX` for more information on the borderline between `VERB` and `AUX`.
 
-Armenian verbs can take the following morphological forms:
+Western Armenian verbs can take the following morphological forms:
 
 - Infinitive (this is the citation form that shares properties of verbs and nouns),
-- Finite verb forms (indicative, imperative, subjunctive and conditional forms; necessitative forms are constructed periphrastically, connegative forms),
-- Participles (including imperfective, future-I, perfect, resultative, and processual participles, which are used to construct compound and secondary compound tense and mood forms),
+- Finite verb forms (indicative, imperative, and subjunctive forms; necessitative forms are constructed periphrastically, connegative forms),
+- Participles (including future, perfect, resultative participles, which are used to construct compound or secondary compound tense and mood forms),
 - Converb (also called adverbial participle).
 
 Some participial forms (_verbal adjectives_) are tagged as verbs rather than adjectives ([ADJ]()). See below for examples.
 
 ### Examples
 
-- _գրել_/_grel_, _գրել(ը)_/_grel(ë)_ “to write, (the) writing”,
+- _գրել_/_grel_ “to write”, _գրել(ը)_/_grel(ë)_ “(the) writing”,
 - _գրեցի_/_grec’i_ “I wrote”, _գրեցիր_/_grec’ir_ “you wrote”, _գրեց_/_grec’_ “he/she/it wrote”, _գրեցինք_/_grec’ink’_ “we wrote”, _գրեցիք_/_grec’ik’_ “you wrote”, _գրեցին_/_grec’in_ “they wrote”,
 - _ունեմ_/_ownem_ “I have”, _ունես_/_ownes_ “you have”, _ունի_/_owni_ “he/she/it has”, _ունենք_/_ownenk’_ “we have”, _ունեք_/_ownek’_ “you have”, _ունեն_/_ownen_ “they have”,
 - _գրի՛_/_gri_, _գրե՛ք_/_grek’_ “write!”, _կարդա՛_/_karda_, _կարդացե՛ք_/_kardac’ek’_ “read!” (imperative in different numbers),
