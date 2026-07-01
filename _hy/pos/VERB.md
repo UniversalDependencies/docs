@@ -15,7 +15,7 @@ Armenian verbs can take the following morphological forms:
 
 - Infinitive (this is the citation form that shares properties of verbs and nouns),
 - Finite verb forms (indicative, imperative, subjunctive and conditional forms; necessitative forms are constructed periphrastically, connegative forms),
-- Resultative, processual, imperfective, future-I, and perfect participles (used to construct secondary complex tenses and moods),
+- Resultative, processual, imperfective, future-I, and perfect participles (used to construct secondary compound tenses and moods),
 - Converb (also called adverbial participle).
 
 Some participial forms (_verbal adjectives_) are tagged as verbs rather than adjectives ([ADJ]()). See below for examples.
