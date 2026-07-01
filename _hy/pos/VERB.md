@@ -7,7 +7,7 @@ udver: '2'
 
 ### Definition
 
-A verb is a member of the syntactic class of words that typically denotes events and actions, can constitutes a minimal predicate in a clause, and governs the number and types of other constituents that may occur in the clause.
+A verb is a member of the syntactic class of words that typically denotes events and actions, can constitute a minimal predicate in a clause, and governs the number and types of other constituents that may occur in the clause.
 
 Note that the `VERB` tag covers main verbs _(content verbs)_, but not auxiliary verbs or copulas, which are tagged [AUX](). See the description of `AUX` for more information on the borderline between `VERB` and `AUX`.
 
