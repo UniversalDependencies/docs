@@ -7,7 +7,7 @@ udver: '2'
 
 ### Definition
 
-A verb is a member of the syntactic class of words that typically denote events and actions, can constitute a minimal predicate in a clause, and govern the number and types of other constituents that may occur in the clause.
+A verb is a member of the syntactic class of words that typically denotes events and actions, can constitutes a minimal predicate in a clause, and governs the number and types of other constituents that may occur in the clause.
 
 Note that the `VERB` tag covers main verbs _(content verbs)_, but not auxiliary verbs or copulas, which are tagged [AUX](). See the description of `AUX` for more information on the borderline between `VERB` and `AUX`.
 
@@ -15,7 +15,7 @@ Armenian verbs can take the following morphological forms:
 
 - Infinitive (this is the citation form that shares properties of verbs and nouns),
 - Finite verb forms (indicative, imperative, subjunctive and conditional forms; necessitative forms are constructed periphrastically, connegative forms),
-- Participles (imperfective, future-I, perfect, resultative, and processual participles used to construct compound and secondary compound tenses and moods),
+- Participles (including imperfective, future-I, perfect, resultative, and processual participles, which are used to construct compound and secondary compound tense and mood forms),
 - Converb (also called adverbial participle).
 
 Some participial forms (_verbal adjectives_) are tagged as verbs rather than adjectives ([ADJ]()). See below for examples.
@@ -33,11 +33,11 @@ Some participial forms (_verbal adjectives_) are tagged as verbs rather than adj
 - _չեմ <b>գրի</b>_/_čem <b>gri</b>_ “I shall not write”, _չեմ <b>գնա</b>_/_čem <b>gna</b>_ “I shall not go”, 
 - _գրած_/_graç_ “written”, _կարդացած_/_kardac’aç_ “read”, _գրում_/_growm_ “write”, _կարդում_/_kardowm_ “read”, _գրելու_/_grelow_ “(will) write”, _կարդալու_/_kardalow_ “(will) read”, _գրել_/_grel_ “have written”, _կարդացել_/_kardac’el_ “have read”, _գրի_/_gri_ “(will not) write”, _կարդա_/_karda_ “(will not) read” (participles),
 - _գրելիս_/_grelis_ “while writing”, _կարդալիս_/_kardalis_ “while reading” (converb),
-- _գրող_/_groġ_ “writing”, _կարդացող_/_kardac’oġ_ “reading”, _գրելիք_/_grelik’_ “(smth). to be written”, _կարդալիք_/_kardalik’_ “(smth.) to be read” (verbal adjectives).
+- _գրող_/_groġ_ “writing”, _կարդացող_/_kardac’oġ_ “reading”, _գրելիք_/_grelik’_ “(smth.) to be written”, _կարդալիք_/_kardalik’_ “(smth.) to be read” (verbal adjectives).
 
 ### Border cases
 
-Resultative, subject, and future-II participles are word forms that may share properties and functions of adjectives and verbs. Note that both core participial forms (used to form the moods) and participial adjectives (used in nominal predication with [copula](cop) and to modify nouns) are tagged [VERB](). For example:
+Resultative, subject, and future-II participles are word forms that may share properties and functions of adjectives and verbs. Note that both core participial forms and participial adjectives (used in nominal predication with [copula](cop) and to modify nouns) are tagged [VERB](). For example:
 
 -	Resultative: _<b>կառուցված</b> շենք_/_<b>kaṙowc’vaç</b> šenk’_ “a <b>built</b> house”,
 -	Subject: _<b>կառուցվող</b> շենք_/_<b>kaṙowc’voġ</b> šenk’_ “a house, that is <b>being built</b>”,
