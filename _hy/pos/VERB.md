@@ -15,7 +15,7 @@ Armenian verbs can take the following morphological forms:
 
 - Infinitive (this is the citation form that shares properties of verbs and nouns),
 - Finite verb forms (indicative, imperative, subjunctive and conditional forms; necessitative forms are constructed periphrastically, connegative forms),
-- Resultative, processual, imperfective, future-I, and perfect participles (used to construct compound tenses and moods),
+- Participles (imperfective, future-I, perfect, resultative, and processual participles used to construct compound and secondary compound tenses and moods),
 - Converb (also called adverbial participle).
 
 Some participial forms (_verbal adjectives_) are tagged as verbs rather than adjectives ([ADJ]()). See below for examples.
@@ -31,7 +31,7 @@ Some participial forms (_verbal adjectives_) are tagged as verbs rather than adj
 - _կգնամ_/_kgnam_ “I will go”, _կգնաս_/_kgnas_ “you will go”, _կգնա_/_kgna_ “he/she/it will go”, _կգնանք_/_kgnank’_ “we will go”, _կգնաք_/_kgnak’_ “you will go”, _կգնան_/_kgnan_ “they will go”,
 - _կգրեի_/_kgrei_ “I would write”, _կգրեիր_/_kgreir_ “you would write”, _կգրեր_/_kgrer_ “he/she/it would write”, _կգրեինք_/_kgreink’_ “we would write”, _կգրեիք_/_kgreik’_ “you would write”, _կգրեին_/_kgrein_ “they would write”,
 - _չեմ <b>գրի</b>_/_čem <b>gri</b>_ “I shall not write”, _չեմ <b>գնա</b>_/_čem <b>gna</b>_ “I shall not go”, 
-- _գրած_/_graç_ “written”, _կարդացած_/_kardac’aç_ “read”, _գրում_/_growm_ “write”, _կարդում_/_kardowm_ “read”, _գրելու_/_grelow_ “(will) write”, _կարդալու_/_kardalow_ “(will) read”, _գրել_/_grel_ “have written”, _կարդացել_/_kardac’el_ “have read”, _գրի_/_gri_ “write”, _կարդա_/_karda_ “read” (participles),
+- _գրած_/_graç_ “written”, _կարդացած_/_kardac’aç_ “read”, _գրում_/_growm_ “write”, _կարդում_/_kardowm_ “read”, _գրելու_/_grelow_ “(will) write”, _կարդալու_/_kardalow_ “(will) read”, _գրել_/_grel_ “have written”, _կարդացել_/_kardac’el_ “have read”, _գրի_/_gri_ “(will not) write”, _կարդա_/_karda_ “(will not) read” (participles),
 - _գրելիս_/_grelis_ “while writing”, _կարդալիս_/_kardalis_ “while reading” (converb),
 - _գրող_/_groġ_ “writing”, _կարդացող_/_kardac’oġ_ “reading”, _գրելիք_/_grelik’_ “(smth). to be written”, _կարդալիք_/_kardalik’_ “(smth.) to be read” (verbal adjectives).
 
