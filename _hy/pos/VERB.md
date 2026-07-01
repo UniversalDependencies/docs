@@ -38,9 +38,9 @@ Some participial forms (_verbal adjectives_) are tagged as verbs rather than adj
 
 ### Border cases
 
-Resultative, subject, and future-II participles are word forms that may share properties and usage of adjectives and verbs. Note that in release 2.2 both core participial forms (used to form the moods) and participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) are tagged [VERB](). For example:
+Resultative, subject, and future-II participles are word forms that may share properties and usage of adjectives and verbs. Note that both core participial forms (used to form the moods) and participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) are tagged [VERB](). For example:
 
--	Resultative: _<b>կառուցված</b> շենք_ “a <b>built</b> house”,
--	Subject: _<b>կառուցվող</b> շենք_ “a house, that is <b>being built</b>”,
--	Future-II: _<b>կառուցվելիք</b> շենք_ “a house that <b>will be built</b>”
+-	Resultative: _<b>կառուցված</b> շենք_/_<b>kaṙowc’vaç</b> šenk’_ “a <b>built</b> house”,
+-	Subject: _<b>կառուցվող</b> շենք_/_<b>kaṙowc’voġ</b> šenk’_ “a house, that is <b>being built</b>”,
+-	Future-II: _<b>կառուցվելիք</b> շենք_/_<b>kaṙowc’velik’</b> šenk’_ “a house that <b>will be built</b>”
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->
