@@ -12,37 +12,37 @@ udver: '2'
 </tr>
 </table>
 
-Boolean feature. Is this an abbreviation? Note that the abbreviated word typically belongs to a part of speech other than [X]().
+Boolean feature. Is this an abbreviation? Note that abbreviated forms typically belong to a part of speech other than [X]().
 
-### <a name="Yes">`Yes`</a>: it is abbreviation
+### <a name="Yes">`Yes`</a>: it is an abbreviation
 
 #### Examples
 
 * Acronyms:
-  _ՀՀ (Հայաստանի Հանրապետություն)&nbsp;_ “Republic of Armenia”,
-  _ՄԱԿ (Միավորված ազգերի կազմակերպություն)&nbsp;_ “United Nations Organization”,
-  _բուհ (բարձրագույն ուսումնական հաստատություն)&nbsp;_ “institute of higher education”,
-  _հէկ (հիդրոէլեկտրակայան)&nbsp;_ “hydroelectric power station”,
-  _սոցապ (սոցիալական ապահովություն)&nbsp;_ “social protection”,
-  _շրջժողկրթբաժին (շրջանային ժողովրդական կրթության բաժին)&nbsp;_ “local education authorities”,
-  _ՀամԼԿԵՄ (Համամիութենական լենինյան կոմունիստական երիտասարդական միություն)&nbsp;_ “The All-Union Leninist Young Communist League”
+  _ՀՀ (Հայաստանի Հանրապետություն)_ “Republic of Armenia”,
+  _ՄԱԿ (Միավորված ազգերի կազմակերպություն)_ “United Nations Organization”,
+  _բուհ (բարձրագույն ուսումնական հաստատություն)_ “institute of higher education”,
+  _հէկ (հիդրոէլեկտրակայան)_ “hydroelectric power station”,
+  _սոցապ (սոցիալական ապահովություն)_ “social protection”,
+  _շրջժողկրթբաժին (շրջանային ժողովրդական կրթության բաժին)_ “local education authorities”,
+  _ՀամԼԿԵՄ (Համամիութենական լենինյան կոմունիստական երիտասարդական միություն)_ “All-Union Leninist Young Communist League”
 * Initials: _<b>Հովհ</b>., <b>Թ</b>., <b>Հր</b>., <b>Ք</b>., <b>Վ</b>., <b>Տ</b>._
 * Abbreviations:
-  _<b>թ</b>. (թվական)&nbsp;_ “year”,
-  _<b>դդ</b>. (դարեր)&nbsp;_ “centuries”,
-  _<b>օր</b>. (օրինակ)&nbsp;_ “for example”,
-  _<b>փխբ</b>. (փոխաբերություն)&nbsp;_ “metaphor”,
-  _<b>հեռ</b>. (հեռախոս)&nbsp;_ “phone”,
-  _<b>հմմտ</b>. (համեմատել, համեմատիր)&nbsp;_ “compare”,
-  _<b>դ-ր</b> (դոկտոր)&nbsp;_ “Doctor”,
-  _<b>իմա</b> (իմացիր, այսինքն)&nbsp;_ “to be known”
+  _<b>թ</b>. (թվական)_/_<b>t’</b>. (t’vakan)_ “year”,
+  _<b>դդ</b>. (դարեր)_/ _<b>dd</b>. (darer)_ “centuries”,
+  _<b>օր</b>. (օրինակ)_/_<b>òr</b>. (òrinak)_ “for example”,
+  _<b>փխբ</b>. (փոխաբերություն)_/_<b>p’xb</b>. (p’oxaberowt’yown)_ “metaphor”,
+  _<b>հեռ</b>. (հեռախոս)_/_<b>heṙ</b>. (heṙaxos)_ “phone”,
+  _<b>հմմտ</b>. (համեմատել, համեմատիր)_/_<b>hmmt</b>. (hamematel, hamematir)_ “compare”,
+  _<b>դ-ր</b> (դոկտոր)_/_<b>d-r</b> (doktor)_ “Doctor”,
+  _<b>իմա</b> (իմացիր, այսինքն)_/_<b>ima</b> (imac’ir, aysink’n)_ “to be known”
 
-Note that the `Abbr` feature will be mentioned for foreign acronyms written in Amrenian: _ՏԱՍՍ (Телеграфное агентство Советского Союза)&nbsp;_ “TASS, Telegraph Agency of the Soviet Union”, _ՆԱՏՕ&nbsp;_ “NATO”, _ՕՊԵԿ&nbsp;_ “OPEC”.
+Note that the feature `Abbr=Yes` is also used for foreign acronyms written in Armenian: _ՏԱՍՍ_/_TASS_ (ТАСС / Телеграфное агентство Советского Союза)_ “TASS, Telegraph Agency of the Soviet Union”, _ՆԱՏՕ_/_NATÒ_ “NATO”, _ՕՊԵԿ_/_ÒPEK_ “OPEC”.
 
-#### Countrexamples
+#### Counterexamples
 
 * Some Russian acronyms are loan words in Armenian:
-  _զագս (ЗАГС / загс, запись актов гражданского состояния)&nbsp;_ “registry office”,
-  _սովխոզ (совхоз, советское хозяйство)&nbsp;_ “state farm, sovkhoz”
+  _զագս_/_zags_ (ЗАГС / загс, запись актов гражданского состояния)_ “registry office”,
+  _սովխոզ_/_sovxoz_ (совхоз, советское хозяйство)_ “state farm, sovkhoz”
   
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:40 CEST -->
