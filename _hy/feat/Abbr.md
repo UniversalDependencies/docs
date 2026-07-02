@@ -19,23 +19,23 @@ Boolean feature. Is this an abbreviation? Note that abbreviated forms typically 
 #### Examples
 
 * Acronyms:
-  _ՀՀ (Հայաստանի Հանրապետություն)_ “Republic of Armenia”,
-  _ՄԱԿ (Միավորված ազգերի կազմակերպություն)_ “United Nations Organization”,
-  _բուհ (բարձրագույն ուսումնական հաստատություն)_ “institute of higher education”,
-  _հէկ (հիդրոէլեկտրակայան)_ “hydroelectric power station”,
-  _սոցապ (սոցիալական ապահովություն)_ “social protection”,
-  _շրջժողկրթբաժին (շրջանային ժողովրդական կրթության բաժին)_ “local education authorities”,
-  _ՀամԼԿԵՄ (Համամիութենական լենինյան կոմունիստական երիտասարդական միություն)_ “All-Union Leninist Young Communist League”
+  _ՀՀ (Հայաստանի Հանրապետություն)_/_HH (Hayastani Hanrapetowt’yown)_ “Republic of Armenia”,
+  _ՄԱԿ (Միավորված ազգերի կազմակերպություն)_/_MAK (Miavorvaç azgeri kazmakerpowt’yown)_ “United Nations Organization”,
+  _բուհ (բարձրագույն ուսումնական հաստատություն)_/_bowh (barjragowyn owsowmnakan hastatowt’yown)_ “institute of higher education”,
+  _հէկ (հիդրոէլեկտրակայան)_/_hēk (hidroēlektrakayan)_ “hydroelectric power station”,
+  _սոցապ (սոցիալական ապահովություն)_/_soc’ap (soc’ialakan apahovowt’yown)_ “social protection”,
+  _շրջժողկրթբաժին (շրջանային ժողովրդական կրթության բաժին)_/_šrǰžoġkrt’bažin (šrǰanayin žoġovrdakan krt’owt’yan bažin)_ “local education authorities”,
+  _ՀամԼԿԵՄ (Համամիութենական լենինյան կոմունիստական երիտասարդական միություն)_/_HamLKEM (Hamamiowt’enakan leninyan komownistakan eritasardakan miowt’yown)_ “All-Union Leninist Young Communist League”.
 * Initials: _<b>Հովհ</b>., <b>Թ</b>., <b>Հր</b>., <b>Ք</b>., <b>Վ</b>., <b>Տ</b>._
 * Abbreviations:
   _<b>թ</b>. (թվական)_/_<b>t’</b>. (t’vakan)_ “year”,
-  _<b>դդ</b>. (դարեր)_/ _<b>dd</b>. (darer)_ “centuries”,
+  _<b>դդ</b>. (դարեր)_/_<b>dd</b>. (darer)_ “centuries”,
   _<b>օր</b>. (օրինակ)_/_<b>òr</b>. (òrinak)_ “for example”,
   _<b>փխբ</b>. (փոխաբերություն)_/_<b>p’xb</b>. (p’oxaberowt’yown)_ “metaphor”,
   _<b>հեռ</b>. (հեռախոս)_/_<b>heṙ</b>. (heṙaxos)_ “phone”,
   _<b>հմմտ</b>. (համեմատել, համեմատիր)_/_<b>hmmt</b>. (hamematel, hamematir)_ “compare”,
   _<b>դ-ր</b> (դոկտոր)_/_<b>d-r</b> (doktor)_ “Doctor”,
-  _<b>իմա</b> (իմացիր, այսինքն)_/_<b>ima</b> (imac’ir, aysink’n)_ “to be known”
+  _<b>իմա</b> (իմացիր, այսինքն)_/_<b>ima</b> (imac’ir, aysink’n)_ “to be known”.
 
 Note that the feature `Abbr=Yes` is also used for foreign acronyms written in Armenian: _ՏԱՍՍ_/_TASS_ (ТАСС / Телеграфное агентство Советского Союза)_ “TASS, Telegraph Agency of the Soviet Union”, _ՆԱՏՕ_/_NATÒ_ “NATO”, _ՕՊԵԿ_/_ÒPEK_ “OPEC”.
 
@@ -43,6 +43,6 @@ Note that the feature `Abbr=Yes` is also used for foreign acronyms written in Ar
 
 * Some Russian acronyms are loan words in Armenian:
   _զագս_/_zags_ (ЗАГС / загс, запись актов гражданского состояния)_ “registry office”,
-  _սովխոզ_/_sovxoz_ (совхоз, советское хозяйство)_ “state farm, sovkhoz”
+  _սովխոզ_/_sovxoz_ (совхоз, советское хозяйство)_ “state farm, sovkhoz”.
   
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:40 CEST -->
