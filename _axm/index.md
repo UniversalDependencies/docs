@@ -8,11 +8,10 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* Words are generally delimited by whitespace or punctuation. Description of exceptions follows.
-* According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words); this holds even for
-abbreviations such as *թվ.* “year” (two tokens).
+* Words are generally delimited by whitespace or punctuation.
+* According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words); this holds even for abbreviations such as *թվ.* “year” (two tokens).
 * Numerical expressions (including dates, expressions with hyphen and Middle Armenian case endings) are treated as single words and may contain punctuation or whitespace: ... “”.
-* Words, containing “infixed” punctuation (e.g. question, exclamation, emphasis and Middle Armenian abbreviation marks, contracted forms with an apostrophe), as in *ինչո՞ւ = ինչու + ՞* “why?”, *'ւ = ու/եւ*, *թ' = թէ* are treated as multi-word tokens and segmented to individual syntactic words. For more details, see [tokenization](tokenization.html).
+* Words, containing internal punctuation (e.g. question, exclamation, emphasis and Middle Armenian abbreviation marks, contracted forms with an apostrophe), as in *ինչո՞ւ = ինչու + ՞* “why?”, *'ւ = ու/եւ*, *թ' = թէ* are treated as multi-word tokens and segmented to individual syntactic words. For more details, see [tokenization](tokenization.html).
 
 ## Morphology
 
@@ -21,22 +20,23 @@ abbreviations such as *թվ.* “year” (two tokens).
 This is an overview only. For more detailed discussion and examples, see the list of [Middle Armenian POS tags](pos/index.html)
 and [Middle Armenian features](feat/index.html).
 
-* Armenian uses all 17 universal POS categories, including particles ([PART]()).
+* Middle Armenian uses all 17 universal POS categories, including particles ([PART]()).
 * The tag [DET]() is used for articles and pronominal words used with a determiner function (pro-adjectives), including possessives (the traditional grammar does not define determiners, but distinguishes pronominal modifiers). The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase. Pronominal quantifiers (which the traditional grammar includes in pronouns) are [DET]() as well.
 
-* Middle Armenian has several auxiliary verbs ([AUX]()) (_եմ/em_ “to be”, _լինիմ/linim_ “be, become”, _ունիմ/ownim_ “have”, _կամ/kam_ “exist”, _պիտի/piti_ “must/will”) amd particles that function like auxiliaries (_կու/kow_ “will”, negative auxiliaries _չի_  (_չ-_) “do(es) not” and _ոչ/oč_ “do(es) not”).
-  The auxiliary _եմ/em_ is used in the following constructions:
+* Middle Armenian has several auxiliary verbs ([AUX]()) (_եմ_/_em_ “to be”, _լինիմ_/_linim_ “be, become”, _ունիմ_/_ownim_ “have”, _կամ_/_kam_ “exist”, _պիտի_/_piti_ “must/will”) and particles that function like auxiliaries (_կու_/_kow_ “will”, negative auxiliaries _չի_  (_չ-_) “do(es) not” and _ոչ_/_oč_ “do(es) not”).
+  The auxiliary _եմ_/_em_ is used in the following constructions:
   * The copula with non-verbal predicates.
-  * Periphrastic present tense (present form of _եմ_ + resultative participle of the main verb).
-  * Periphrastic past tense (present form of _եմ_ + perfect of the main verb; imperfect form of _եմ_ + imperfective, perfect, past and resultative participles of the main verb).
-  * 
-  * Periphrastic future tense (present form of _եմ_ + future-I participle of the main verb).
-  * Periphrastic negated conditional (negated present or imperfect form of _եմ_ + connegative form of the main verb).
-  * Periphrastic “secondary compound tenses” (any form of _լինել_, including periphrastic forms, + processual, resultative and future-I participles of the main verb).
+  * Periphrastic tenses:
+    - present and imperfect resultative (present form of _եմ_ + resultative participle of the main verb; imperfect form of _եմ_ + resultative participle of the main verb),
+    - present and imperfect past (present form of _եմ_ + past participle of the main verb; imperfect form of _եմ_ + past participle of the main verb)
+    - present and imperfect perfect (present form of _եմ_ + perfect participle of the main verb; imperfect form of _եմ_ + perfect participle of the main verb)
+    - present and imperfect future (present form of _եմ_ + future participle of the main verb; imperfect form of _եմ_ + future participle of the main verb),
+    - periphrastic negated present and imperfect tenses of indicative and conditional moods (share the same form) (negated present or imperfect form of _եմ_ + connegative form of the main verb),
+  * Periphrastic “secondary compound tenses” (any form of _լինիլ_/_linil_, including periphrastic forms, + resultative and perfect participles of the main verb).
   * Periphrastic causative (any form of _տալ_, including periphrastic forms, + infinitve of the main verb).
 * In other words, _եմ, լինել_ and _տալ_ are the only lemmas that occur with the [AUX]() tag (Exception: finite existentials _կամ_ and _ունեմ_ in combination with resultative participle).
   Note, that _եմ_ and _լինել_ may also occur as normal [VERB]() if they are used in purely existential sentences
-  (i.e. they don't indicate location because if they do, then _եմ_ and _լինել_ will be treated as copula). 
+  (i.e. they don't indicate location because if they do, then _եմ_ and _լինել_ will be treated as copula).
 * Verbs with modal meaning are not considered to be auxiliaries in Armenian.
 * There are five main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
