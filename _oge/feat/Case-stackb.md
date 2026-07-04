@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Case[stack2]'
+title: 'Case[stackb]'
 shortdef: 'triple case stacking'
 udver: '2'
 ---
