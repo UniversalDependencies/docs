@@ -8,7 +8,7 @@ udver: '2'
 ### Definition
 Nouns are a part of speech typically denoting a person, place, thing, animal or idea.
 
-We distinguish common nouns (ʾNOUNʾ) from proper nouns (ʾPROPNʾ) and pronouns (ʾPRONʾ).
+We distinguish common nouns (`NOUN`) from proper nouns (`PROPN`) and pronouns (`PRON`).
 <br>While some derivational suffixes only form nouns (_-īh_ for nomina abstracta), most nouns can be used as adjectives by conversion. Deverbal nouns often inherited syntactic features from the verbal base.
 
 
@@ -22,7 +22,7 @@ Compounding is frequent in Middle Persian and can be complex.
 - _hukirbīh_ "beauty"
 - _wizōyišn_ "examination"
 - _rāhnimūdār_ "guide (lit. way-shower)"
-- _waxšabarburdārīh_ "transmission of divine speech (lit. message_over_carrier-ness)"
+- _waxšabarburdārīh_ "transmission of divine speech (lit. message-over-carrier-ness)"
 
 ### Border cases
 The clausal noun phrase is embedded like a noun and can trigger nominal syntax but it can also take its dependents like a verb.
