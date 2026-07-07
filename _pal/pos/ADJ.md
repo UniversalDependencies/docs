@@ -35,7 +35,7 @@ Adjective and nouns cannot always be distinguished. As any adjective can be used
 
 ### Border cases
 The reflexive _<b>xwēš</b>_ "own, self" is annotated as a pronoun are a possessive determiner.
-- pronoun: _pid ī <b>xwēš<b/>_ "the father of **her/him**"
+- pronoun: _pid ī <b>xwēš</b>_ "the father of **her/him**"
 - possessive determiner: _<b>xwēš</b> pid_ "**her/his** father"
 
 If an adverb modifies a deverbal noun, it is still annotated as an adverb.
