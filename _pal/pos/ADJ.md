@@ -18,7 +18,7 @@ They may also function as predicates, in case of which the copula can be omitted
 
 
 Ajectives are rarely inflected. They can be marked for plural, degree, and, possibly as a calque from Avestan, for gender.
-- _dēwān ī <b>xradstard-ān<b/>_ "the **mentally confused** demons"
+- _dēwān ī <b>xradstard-ān</b>_ "the **mentally confused** demons"
 - _ud <b>nazdīk-tar</b> rāh ō rāst wēzišn_ "the **nearest** way to the right choosing"
 - _<b>ašōnī</b> mēnōy_ (instead of _ašō_) "the **righteous** (fem.) spirit"
 
