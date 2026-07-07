@@ -14,13 +14,13 @@ Adjectives are words that typically modify nouns and specify their properties or
 They may also function as predicates, in case of which the copula can be omitted (especially with 3rd person subjects).
 - _u=šān xrad <b>weh</b>_ "and wisdom (is) **best** for them"
 - _ān=iz az=iš <b>weh nēst</b>_ "that one **is** also **not better** than that"
-- _pad hambārkirdan ī kirbag <b>tuxšāg bāš</b>_ "Be diligent in collecting good deeds!"
+- _pad hambārkirdan ī kirbag <b>tuxšāg bāš</b>_ "**Be diligent** in collecting good deeds!"
 
 
 Ajectives are rarely inflected. They can be marked for plural, degree, and, possibly as a calque from Avestan, for gender.
 - _dēwān ī <b>xradstard**ān**<b/>_ "the **mentally confused** demons"
 - _ud <b>nazdīk**tar**</b> rāh ō rāst wēzišn_ "the **nearest** way to the right choosing"
-- _<b>ašōnī</b> mēnōy_ (instead of _ašō_) "the righteous (fem.) spirit"
+- _<b>ašōnī</b> mēnōy_ (instead of _ašō_) "the **righteous** (fem.) spirit"
 
 Adjective and nouns cannot always be distinguished. As any adjective can be used as a noun (_ahlaw_ "righteous" or "the righteous person, believer") and nouns can be used as adjectives (_zardušt_ "(the prophet) Zardušt" vs. _zardušt-tom_ "being most similar to Zardušt").
 
