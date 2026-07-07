@@ -34,12 +34,12 @@ Adjective and nouns cannot always be distinguished. As any adjective can be used
 - _hišt_ "released"
 
 ### Border cases
-The reflexive _<b>xwēš</b>_ "own, self" is annotated as a pronoun are a possessive determiner.
+The reflexive _<b>xwēš</b>_ "own, self" is annotated as a pronoun or a possessive determiner.
 - pronoun: _pid ī <b>xwēš</b>_ "the father of **her/him**"
 - possessive determiner: _<b>xwēš</b> pid_ "**her/his** father"
 
 If an adverb modifies a deverbal noun, it is still annotated as an adverb.
-- _kōšišn ī **gyānapattūyīhā**_ "struggling **with dwindling life force**"
+- _kōšišn ī **gyānapattūyīhā**_ "the struggling **with dwindling life force**"
 
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:33 CEST -->
