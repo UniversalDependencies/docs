@@ -34,14 +34,14 @@ Boolean feature. Is this an abbreviation? Note that abbreviated forms typically 
   _<b>փխբ</b>. (փոխաբերություն)_/_<b>p’xb</b>. (p’oxaberowt’yown)_ “metaphor”,
   _<b>հեռ</b>. (հեռախոս)_/_<b>heṙ</b>. (heṙaxos)_ “phone”,
   _<b>հմմտ</b>. (համեմատել, համեմատիր)_/_<b>hmmt</b>. (hamematel, hamematir)_ “compare”,
-  _<b>դ-ր</b> (դոկտոր)_/_<b>d-r</b> (doktor)_ “Doctor”,
-  _<b>իմա</b> (իմացիր, այսինքն)_/_<b>ima</b> (imac’ir, aysink’n)_ “to be known”.
+  _<b>դ-ր</b> (դոկտոր)_/_<b>d-r</b> (doktor)_ “doctor”,
+  _<b>իմա</b> (իմացիր, այսինքն)_/_<b>ima</b> (imac’ir, aysink’n)_ “that is, note, i.e.”.
 
-Note that the feature `Abbr=Yes` is also used for foreign acronyms written in Armenian: _ՏԱՍՍ_/_TASS_ (ТАСС / Телеграфное агентство Советского Союза)_ “TASS, Telegraph Agency of the Soviet Union”, _ՆԱՏՕ_/_NATÒ_ “NATO”, _ՕՊԵԿ_/_ÒPEK_ “OPEC”.
+Note that the feature `Abbr=Yes` is also used for foreign acronyms written in Armenian: _ՏԱՍՍ_/_TASS_ (ТАСС / Телеграфное агентство Советского Союза) “TASS, Telegraph Agency of the Soviet Union”, _ՆԱՏՕ_/_NATÒ_ “NATO”, _ՕՊԵԿ_/_ÒPEK_ “OPEC”.
 
 #### Counterexamples
 
-* Some Russian acronyms are loan words in Armenian:
+* Some Russian acronyms are loanwords in Armenian:
   _զագս_/_zags_ (ЗАГС / загс, запись актов гражданского состояния)_ “registry office”,
   _սովխոզ_/_sovxoz_ (совхоз, советское хозяйство)_ “state farm, sovkhoz”.
   
