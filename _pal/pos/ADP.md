@@ -32,7 +32,7 @@ Denominal prepositions usually require a linking element, the so-called _ezāfe 
 In order to increase consistency, the adverbial and denominal adpositions are annotated as adpositions.
 
 Functional prepositions can be modified by adverbs to specify the relation:
-- _ō_ "to" vs. _andar ō_ "into" vs. _abar ō_ "up to" vs. _abāz ō_ "back to" etc.
+- _ō_ "to" vs. _andar ō_ "into" vs. _abar ō_ "onto" vs. _abāz ō_ "back to" vs. _tā ō_ "up to" etc.
 
 ### Examples
 - _az_ "from"
@@ -43,5 +43,8 @@ Functional prepositions can be modified by adverbs to specify the relation:
 ### Border cases
 As especially locative relations can be unflagged, denominal adpositions cannot always be distinguished from their nominal equivalent with certainty. If the noun is flagged by a preposition, the literal interpretation is preferred.
 _<b>az pēš ī</b> māh harwgāh dō wād hamē wazēd_ "two winds are continuously blowing **from the near side of** the moon at any time of day"
+
+If adverbs follow a prepositional phrase, we do not consider them postpositions of that prepositional phrase:
+- _pad šnūg <b>andar</b> ōbast_ "(he) fell on (his) knee" as (pad šnūg) + (andar ōbast) and not (pad šnūg andar) + (ōbast).
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:33 CEST -->
