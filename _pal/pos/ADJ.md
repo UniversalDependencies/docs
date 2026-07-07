@@ -18,8 +18,8 @@ They may also function as predicates, in case of which the copula can be omitted
 
 
 Ajectives are rarely inflected. They can be marked for plural, degree, and, possibly as a calque from Avestan, for gender.
-- _dēwān ī <b>xradstardān<b/>_ "the **mentally confused** demons"
-- _ud <b>nazdīk**tar**</b> rāh ō rāst wēzišn_ "the **nearest** way to the right choosing"
+- _dēwān ī <b>xradstard-ān<b/>_ "the **mentally confused** demons"
+- _ud <b>nazdīk-tar</b> rāh ō rāst wēzišn_ "the **nearest** way to the right choosing"
 - _<b>ašōnī</b> mēnōy_ (instead of _ašō_) "the **righteous** (fem.) spirit"
 
 Adjective and nouns cannot always be distinguished. As any adjective can be used as a noun (_ahlaw_ "righteous" or "the righteous person, believer") and nouns can be used as adjectives (_zardušt_ "(the prophet) Zardušt" vs. _zardušt-tom_ "being most similar to Zardušt").
