@@ -5,16 +5,23 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-This feature takes the following values: Anim, Hum, Inan, Nhum.
+This feature takes the following values: Anim, Hum, Inan, Nhum. 
+
+For Middle Persian, they have been facultatively annotated based on the semantic interpretation. In Zoroastrianism, many things like rivers or stars are or can be seen as animate. In case of doubt, animacy has not been indicated.
+
+Animacy does not appear to have any grammatical relevance in Middle Persian.
 
 ### <a name='Anim'>`Anim`: explanation of the value
+Animate is used for supernatural beings or unspecified general terms such as _gyānwar_ "living being".
 
 ### <a name='Hum'>`Hum`: explanation of the value
+Human is used for common nouns referring to humans as well as collectives such as _kār_ "people".
 
 ### <a name='Inan'>`Inan`: explanation of the value
+Inanimate is used for words denoting everything but living beings such as _sang_ "stone" or _dānišn_ "knowledge".
 
 ### <a name='Nhum'>`Nhum`: explanation of the value
+Non-human is used for animals but not for plants.
 
-#### Example
-Some examples of the feature and its use.
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:42 CEST -->
