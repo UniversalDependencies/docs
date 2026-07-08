@@ -13,11 +13,11 @@ udver: '2'
 </tr>
 </table>
 
-In Armenian animacy is a lexical feature of [nouns](NOUN) and some [pronouns](PRON). Note that since release 2.3 we distinguish two values, human vs. non-human.
+In Armenian, animacy is a lexical feature of [nouns](NOUN) and some [pronouns](PRON). Since release 2.3, we distinguish two values: `Hum` and `Nhum`.
 
 See also the related feature of [Definite]().
 
-Note also that some school grammars of Armenian distinguish between lexical `Hum` vs. `Nhum` or `Anim` vs. `Inan` features of nouns. There is antother classifaction: nouns that are human and inflected as `Hum` (as [obj](hy-dep/obj) in [Dat](Case)) vs. nouns that are animate or inanimate and inflected as `Anim` (as [obj](hy-dep/obj) in [Dat](Case)) vs. nouns that are human, animate or inanimate and inflected as `Inan` (as [obj](hy-dep/obj) in [Nom/Acc](Case)).
+Note that some school grammars of Armenian distinguish between lexical `Hum` vs. `Nhum` or `Anim` vs. `Inan` features of nouns. There is another classification: nouns that are human and inflected as `Hum` (as [obj](hy-dep/obj) in [Dat](Case)) vs. nouns that are animate or inanimate and inflected as `Anim` (as [obj](hy-dep/obj) in [Dat](Case)) vs. nouns that are human, animate or inanimate and inflected as `Inan` (as [obj](hy-dep/obj) in [Nom/Acc](Case)).
 
 ### <a name="Hum">`Hum`</a>: human
 
