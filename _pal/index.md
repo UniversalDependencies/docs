@@ -64,7 +64,7 @@ Middle Persian has little inflection.
 - PronType is used with pronouns ([u-dep/PRON]()), determiners ([u-dep/DET]()), and in the case of the relativizers with subordinators ([u-dep/SCONJ]()).
 - The [u-dep/Person]() feature is only annotated for personal pronouns (and verb forms). The pronoun of the 3SG can also appear as a demonstrative. It has been manually differentiated.
 - The [u-dep/Reflex]() feature is only used with explicit reflexive pronouns, which are not marked for person and number and usually refer to the logical subject of the clause. All reflexive pronouns are phoric, i.e. there are no inherently reflexive verbs.
-- Middle Persian texts make frequent use of resumptive pronouns and placeholders, which are annotated as [u-dep/dislocated:res](). Beside regular demonstratives, this also applies to the emphasizers *hamāg* 'all' (as in German _ich habe die Bücher <b>alle<\b> gelesen_) or *xwad* 'self' (as in German _ich habe dieses Buch <b>selbst<\b> geschrieben_).
+- Middle Persian texts make frequent use of resumptive pronouns and placeholders, which are annotated as [u-dep/dislocated:res](). Beside regular demonstratives, this also applies to the emphasizers *hamāg* 'all' (as in German _ich habe die Bücher <b>alle</b> gelesen_) or *xwad* 'self' (as in German _ich habe dieses Buch <b>selbst</b> geschrieben_).
 - Politeness
 -- Middle Persian can use the 2PL and possibly also the 3PL as a [u-dep/Polite]() form for a 2SG, or 3SG respectively (as with New Persian). There is an archaic enclitic pronoun for the 1PL *=n*, which can be used as a pluralis majestatis, which has also been annotated as a polite form.
 -- Nouns can be used instead of pronouns in order to mark politeness, e.g. *bandag* 'servant' for a 1SG or *xwadāy* 'lord' for a 2SG.
