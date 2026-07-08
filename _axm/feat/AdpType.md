@@ -37,7 +37,7 @@ Middle Armenian has postpositions, prepositions, and ambipositions, but no circu
 
 ### <a name="Comadp">`Comadp`</a>: dependent part of compound adposition 
 
-This value marks the dependent first or second part of a compound adposition. Such words cannot occur independently as adpositions. Not all compound adpositions contain words marked `Comadp`. Many compound prepositions consist of a preposition followed by a noun (e.g. _ի սեր_/_i ser_ “for the love of”, _ի պատիվ_/_i pativ_ “in honor of”). Some compound adpositions consist of two tokens, where the first one is an adposition, and the second one is historically derived from another part of speech but has become lexicalized as a postposition, e.g. _ի ձեռն_/_i jeṙn_ “by, through, by means of, via”.
+This value marks the dependent first or second part of a compound adposition. Such words cannot occur independently as adpositions. Not all compound adpositions contain words marked `Comadp`. Many compound prepositions consist of a preposition followed by a noun (e.g. _ի սեր_/_i ser_ “for the love of”, _ի պատիվ_/_i pativ_ “in honor of”). Some compound adpositions consist of two tokens, where the first is an adposition, and the second is historically derived from another part of speech but has become lexicalized as a postposition, as in _ի ձեռն_/_i jeṙn_ “by, through, by means of, via”.
 
 #### Examples
 
