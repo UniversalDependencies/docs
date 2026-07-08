@@ -15,33 +15,31 @@ udver: '2'
 </tr>
 </table>
 
-Western Armenian has prepositions, postpositions and ambipositions, but not circumpositions.
+Western Armenian has prepositions, postpositions, and ambipositions, but no circumpositions.
 
 ### <a name="Ambi">`Ambi`</a>: ambiposition
 
 #### Examples
 
-* _<b>փոխանակ</b>_ “instead of”, _<b>շնորհիւ</b>_ “thanks/owing to, in virtue of”, _<b>հանդէպ</b>_ “toward”, _<b>համեմատ</b>_ “compared to”
+* _<b>փոխանակ</b>_/_p’oxanak_ “instead of”, _<b>շնորհիւ</b>_/_šnorhiw_ “thanks to, by virtue of”, _<b>հանդէպ</b>_/_handēp_ “toward”, _<b>համեմատ</b>_/_hamemat_ “compared to”
 
 ### <a name="Prep">`Prep`</a>: preposition
 
 #### Examples
 
-* _<b>ի</b>_ “for the sake of”, _<b>առ</b>_ “up to”, _<b>յանուն</b>_ “for the sake of”, _<b>մինչեւ</b>_ “till”
+* _<b>ի</b>_/_i_ “for the sake of”, _<b>առ</b>_/_aṙ_ “to, towords, at, by”, _<b>յանուն</b>_/_yanown_ “for the sake of”, _<b>մինչեւ</b>_/_minčew_ “till”
 
 ### <a name="Post">`Post`</a>: postposition
 
 #### Examples
 
-* _<b>վրայ</b>_ “on”, _<b>քով</b>_ “at”, _<b>հետ</b>_ “with”, _<b>դէմ</b>_ “against”, _<b>մօտ</b>_ “at”, _<b>մէջ</b>_ “in”, _<b>զատ</b>_ “except”
+* _<b>վրայ</b>_/_vray_ “on”, _<b>քով</b>_/_k’ov_ “at”, _<b>հետ</b>_/_het_ “with”, _<b>դէմ</b>_/_dēm_ “against”, _<b>մօտ</b>_/_mòt_ “at”, _<b>մէջ</b>_/_mēǰ_ “in”, _<b>զատ</b>_/_zat_ “except”
 
 ### <a name="Comadp">`Comadp`</a>: dependent part of compound adposition
 
-This value marks dependent first or second part of a compound adposition. This word cannot occur alone. Not all compound adpositions contain words marked `Comadp`. Many compound prepositions consist of prepositions and a noun (e.g. _ի սեր_ “for the love of”, _ի պատիվ_ “in honor of” ). Sometimes there are just two words, the first one is normal postposition and the second one
-is a secondary postposition (etymologically some other part of speech, but it has been frozen as
-a postposition) as in _դեմ հանդիման_ “in front of”.
+This value marks the dependent first or second part of a compound adposition. Such words cannot occur independently as adpositions. Not all compound adpositions contain words marked `Comadp`. Many compound prepositions consist of a preposition followed by a noun (e.g. _ի սէր_/_i sēr_ “for the love of”, _ի պատիւ_/_i patiw_ “in honor of”), where the noun retains its nominal status. Some compound adpositions consist of two tokens, where the first is an adposition, and the second is historically derived from another part of speech but has become lexicalized as a postposition, as in _դէմ յանդիման_/_dēm yandiman_ “in front of, face to face”.
 
 #### Examples
 
-* _ի <b>հեճուկս</b>_ “to spite”
+* _ի <b>հեճուկս</b>_/_i heč̣owks_ “to spite, despite”
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:41 CEST -->
