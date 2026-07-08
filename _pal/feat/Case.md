@@ -15,9 +15,26 @@ This corresponds to the direct case, which is used for the object in an ergative
 
 #### Example
 
-||orthotone|enclitic (obl.)|
+- Case marking in the paradigm of personal pronouns
+
+||orthotone|enclitic (ACC)|
 |---|---|---|
 |1sg|_man_ (_an_ NOM)|_=im_|
+|2sg|_tō_|_=it_|
+|3sg|_ōy_|_=š_|
+|1pl|_amāh_|_=mān, =n_|
+|2pl|_ašmāh_|_=tān_|
+|3pl|_awēšān|_=šān, =š_|
+
+- Case marking the paradigm of kinship terms
+
+|"mother"|singular|plural|
+|---|---|---|
+|`NOM`|_mād_|_mādar_|
+|`ACC`|_mādar_|_mādarān_|
+
+The oblique forms _mādar, mādarān_ are generalised and not annotated as marked for case.
+
 
 Some examples of the feature and its use.
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->
