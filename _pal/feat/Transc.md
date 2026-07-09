@@ -7,7 +7,7 @@ udver: '2'
 
 This feature takes the following values: Yes.
 
-### <a name='Yes'>`Yes`: explanation of the value
+### <a name='Yes'>`Yes`: Transcendent
 The feature "transcendent" has been set up to mark supernatural beings, places fof the beyond, and to distinguish historical characters from eschatological ones.
 - _ohrmazd_ "(the god) Ohrmazd"
 - _wahišt_ "paradise"
