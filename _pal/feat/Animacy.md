@@ -11,16 +11,16 @@ For Middle Persian, they have been facultatively annotated based on the semantic
 
 Animacy does not appear to have any grammatical relevance in Middle Persian.
 
-### <a name='Anim'>`Anim`: explanation of the value
+### <a name='Anim'>`Anim`: Animate
 Animate is used for supernatural beings or unspecified general terms such as _gyānwar_ "living being".
 
-### <a name='Hum'>`Hum`: explanation of the value
+### <a name='Hum'>`Hum`: Human
 Human is used for common nouns referring to humans as well as collectives such as _kār_ "people".
 
-### <a name='Inan'>`Inan`: explanation of the value
+### <a name='Inan'>`Inan`: Inanimate
 Inanimate is used for words denoting everything but living beings such as _sang_ "stone" or _dānišn_ "knowledge".
 
-### <a name='Nhum'>`Nhum`: explanation of the value
+### <a name='Nhum'>`Nhum`: Non-human
 Non-human is used for animals but not for plants.
 
 
