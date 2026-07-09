@@ -7,16 +7,16 @@ udver: '2'
 
 This feature takes the following values: Deg, Loc, Man, Tim.
 
-### <a name='Deg'>`Deg`: explanation of the value
+### <a name='Deg'>`Deg`: Degree
 Adverbs indicating the degree such as _was_ "more, often".
 
-### <a name='Loc'>`Loc`: explanation of the value
+### <a name='Loc'>`Loc`: Location
 Adverbs indicating location such as _andar_ "in, inside, among", _awiš_ "thereto".
 
-### <a name='Man'>`Man`: explanation of the value
+### <a name='Man'>`Man`: Manner
 Adverbs indicating manner such as _dānāgīhā_ "wisely".
 
-### <a name='Tim'>`Tim`: explanation of the value
+### <a name='Tim'>`Tim`: Time
 Adverbs indicating time such as _fradāg_ "tomorrow".
 
 #### Example
