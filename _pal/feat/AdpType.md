@@ -7,19 +7,19 @@ udver: '2'
 
 This feature takes the following values: Post, Post,Circ, Prep, Prep,Circ.
 
-### <a name='Post'>`Post`: explanation of the value
+### <a name='Post'>`Post`: Postposition
 The adposition follows its complement:
 - _dānāgīh ud frazānagīh <b>rāy</b>_ "**because of** (his) knowledge and intelligene"
 
-### <a name='Post,Circ'>`Post,Circ`: explanation of the value
+### <a name='Post,Circ'>`Post,Circ`: Postpositional part of a circumposition
 Second part of a circumposition:
 - _pad čē kār <b>rāy</b>_ "**for** what task" (lit. at what task for)
 
-### <a name='Prep'>`Prep`: explanation of the value
+### <a name='Prep'>`Prep`: Preposition
 The adposition precedes its complement:
 - _<b>pad</b> ān zamān_ "**at** that time"
 
-### <a name='Prep,Circ'>`Prep,Circ`: explanation of the value
+### <a name='Prep,Circ'>`Prep,Circ`: Prepositional part of a circumposition
 First part of a circumposition:
 - _<b>pad</b> čē kār rāy_ "**for** what task" (lit. at what task for)
 
