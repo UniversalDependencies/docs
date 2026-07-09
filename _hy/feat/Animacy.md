@@ -22,7 +22,7 @@ Note that some school grammars of Armenian distinguish between lexical `Hum` vs.
 
 ### <a name="Hum">`Hum`</a>: human
 
-A subset of animate nouns that includes only human beings (fictional characters, names of professions and personified characters) but not animals (there may be exceptions that do not fit the class semantically but belong to it grammatically).
+A subset of animate nouns that includes only human beings (fictional characters, names of professions, and personified characters), but not animals (there may be exceptions that do not fit the class semantically, but belong to it grammatically).
 
 #### Examples
 
