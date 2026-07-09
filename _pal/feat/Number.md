@@ -18,8 +18,8 @@ The enclitic pronouns have regularised the plural by adding the nominal plural s
 ||regularised plural|inherited plural|
 |---|---|---|
 |1pl.|_=m-ān_|_=n_|
-|2pl.|_=t-ān|n/a|
-|3pl.|_=š-ān|_=š_|
+|2pl.|_=t-ān_|n/a|
+|3pl.|_=š-ān_|_=š_|
 
 There is a new pronominal plural suffix _-(ē/i)šān_, which is probably derived from the plural demonstrative _awēšān_ by reanalysis. It is attested in Manichaean Middle Persian (e.g. _imišān/imēšān_), but its existence in Zoroastrian Middle Persian is uncertain.
 
