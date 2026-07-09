@@ -43,7 +43,7 @@ Personal pronouns have orthotone and enclitic forms.
 |3sg.|_ōy_ (variant _away_?)|_=š_|
 |1pl.|_amāh_|_=mān_ (archaic _=n_)|
 |2pl.|_ašmāh_|_=tān_|
-|3pl.|_awēšān|_=šān| (archaic _=š_)|
+|3pl.|_awēšān_|_=šān_| (archaic _=š_)|
 
 ### <a name='Rcp'>`Rcp`: explanation of the value
 The reciprical pronoun is _ham_. Elements of analytic expressions such as _ēk ō did_ "one to the other" i.e. "to each other" are annotated individually.
