@@ -5,14 +5,24 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-This feature takes the following values: Emp, Neg, Vbp.
+This feature takes the following values: Emp, Mod, Neg, Vbp.
 
 ### <a name='Emp'>`Emp`: explanation of the value
+The emphatic particle is focus marking _=iz_.
+- _ud waranīgīhā xwaddōšagīh rāy <b>ān=iz kār</b> kē=š rāh ī ō wahišt padiš šāyēd būd xwēštan pad=iš nē ranǰēnd_ "And because of lecherous self-infatuation, (they) do not **even** care about **that deed**, through which the path to paradise (leads)!"
+
+### <a name='Mod'>`Mod`: explanation of the value
+Modal particles mark, e.g., the optative mood, _ēw_.
+- _xwāstag ī=m paydāg kird mihrēn <b>ē dārēd</b>_ "Mihrēn **shall possess** the object which I have indicated."
 
 ### <a name='Neg'>`Neg`: explanation of the value
+The are two negative particles in Middle Persian: _nē_, and prohibitive _ma_.
+- _az ēn dō tis šarm <b>nē abāyēd</b> kirdan ēk az wēmārīh ud ud dudīgar az xwēšāwand ī driyōš_ "Of these two things, (one) **should not** be ashamed: one, of illness, second, of a poor relative."
+- _xešmīh <b>ma gīr</b>_ "**Don't get** angry!" (lit. do not take anger)
 
 ### <a name='Vbp'>`Vbp`: explanation of the value
+The adverbs _bē_ "out, away" and _hamē(w)_ "continuously" develop to aspect and dependent markers. Wherever a literal interpretation is not possible, they are considered to be verbal particles.
+- _čē andar zamīg be mānd az ān tōhmag xrafstar <b>hamē hambūsēnēnd</b>_ "Whatever remained inside the earth, (they) **developed** (imperfective) noxious creatues out of that seed."
+- _asmān ǰudgōhrīh rāy ōwōn <b>be tarsīd</b> čiyōn mēš az gurg larzēd_ "The sky **was** so **afraid** (perfective) due to its substantial differentness, just like a sheep trembling before a wolf."
 
-#### Example
-Some examples of the feature and its use.
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:08 CEST -->
