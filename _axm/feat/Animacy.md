@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-In Middle Armenian animacy is a lexical feature of [nouns](NOUN) and some [pronouns](PRON). Since release 2.3 we distinguish two values: `Hum` and `Nhum`.
+In Middle Armenian, animacy is a lexical feature of [nouns](NOUN) and some [pronouns](PRON). Since release 2.3 we distinguish two values: `Hum` and `Nhum`.
 
 See also the related feature of [Definite]().
 
@@ -23,7 +23,7 @@ A subset of animate nouns that includes only human beings (fictional characters,
 
 #### Examples
 
-* _մարդ_/_mard_ “man”, _երեխա(յ)_/_erexa_ “child”, _տղա(յ)_/_tġa_ “boy”, _այրիկ_/_ayrik_ “husband”, _ուսուցիչ_/_owsowc’ič_ “teacher”, _թագավոր_/_t’agavor_ “king”, _պայլ_/_payl_ “prince”
+* _մարդ_/_mard_ “man”, _երեխա(յ)_/_erexa_ “child”, _տղա(յ)_/_tġa_ “boy”, _այրիկ_/_ayrik_ “husband”, _թագաւոր_/_t’agawor_ “king”, _պայլ_/_payl_ “prince”
 
 
 ### <a name="Nhum">`Nhum`</a>: non-human
