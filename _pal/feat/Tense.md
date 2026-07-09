@@ -15,10 +15,10 @@ Following traditions, these two stem are referred to as tense stem. Infinitives 
 
 The elements of analytic verb forms are analysed individually.
 
-### <a name='Past'>`Past`: explanation of the value
+### <a name='Past'>`Past`: Past tense (or perfective aspect, respectively)
 The feature 'past' is only annotated with the so-called past participle, e.g. _raft_ "moved, gone"
 
-### <a name='Pres'>`Pres`: explanation of the value
+### <a name='Pres'>`Pres`: Present tense (or imperfective aspect, respectively)
 The feature 'present' is annotated with finite verb forms and the present participle, e.g. _rawēnd_ "(they) move, go", _rawān_ "moving".
 
 
