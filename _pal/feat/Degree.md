@@ -9,13 +9,13 @@ This feature takes the following values: Abs, Cmp, Sup.
 
 The positive is not marked and can be used for all degrees. It is not indicated in the annotation. Analytic marking of grades is possible, notably by means of _wēš_ "more"
 
-### <a name='Abs'>`Abs`: explanation of the value
+### <a name='Abs'>`Abs`: Absolute superlative / elative
 A stylistic peculiarity is the combination of the comparative suffix and the superlative suffix forming an elative or absolute superlative, e.g. _frāz-dom-tar_ "even more advanced, single most advanced".
 
-### <a name='Cmp'>`Cmp`: explanation of the value
+### <a name='Cmp'>`Cmp`: Comparative
 Comparative degree, which can also express superlative degree, e.g. _frāz-dar_ "further, more advanced". If used without comparison, it evokes the notion of 'to a higher degree than normal'.
 
-### <a name='Sup'>`Sup`: explanation of the value
+### <a name='Sup'>`Sup`: Superlative
 Superlative degree, e.g. _frāz-dom_ "furthest, most advanced".
 
 #### Example
