@@ -5,12 +5,23 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-A brief description of the dependency relation.
+Adverbial modifiers can be specified as temporal.
 
+The word _pas_ "after" can both be spatial (following), temporal (then, afterwards), and logical (then, thus). In case of doubt, it is annotated without modification.<br>If _pas_ modifies a case relation, it is linked to the head of the case relation.
+
+- "Then (he) created Ardwahišt and then Šahrewar, then Spandārmad and then Hordād (and) Amurdād."
 ~~~ sdparse
-pad nām ī yazadān \n in name Ezafe gods
-case(nām, pad)
-det(yazadān, ī)
-nmod(nām, yazadān)
+pas ardwahišt ud pas šahrewar pas spandārmad ud pas hordād amurdād brēhēnīd \n after Ardwahišt and after Šahrewar after Spandārmad and after Hordād Amurdād created
+advmod:tmod(ardwahišt, pas)
+advmod:tmod(šahrewar, pas)
+advmod:tmod(spandārmad, pas)
+advmod:tmod(hordād, pas)
+~~~
+
+- "And after the judgement, (the soul is) in its own joy."
+~~~ sdparse
+ud pas az āmār pad ān ī xwēš urwāhm \n and after from consideration in that EZ own joy
+advmod:tmod(āmār, pas)
+case(āmār, az)
 ~~~
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:38 CEST -->
