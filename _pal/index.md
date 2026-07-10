@@ -22,21 +22,26 @@ udver: '2'
 ### Tags
 
 The MPCD makes use of all PoS categories except for SYM (as of February 2026). Naturally, interjections ([u-dep/INTJ]()) are rare in a historical corpus of written texts.
-- PART is used for
--- verbal negation ([u-dep/Neg]()) *nē* and the prohibitive particle ([u-dep/Mod](),[u-dep/Neg]()) *ma*, 
--- the optative particles ([u-dep/Mod]()), e.g. *ēw*, 
--- the enclitic focus marker ([u-dep/Emp]()) *=iz*,
---  and the grammatical particles ([u-dep/Vbp]()) *be* and *hamē*.
-- Pronouns and determiners have been manually distinguished based on the syntactic analysis.
--- Attributes are linked by the so-called Ezāfe particle to their headword. In contrast to New Iranic languages, this is still an independent word, though it tends to be enclitic. This particle has been annotated as a determiner ([u-dep/DET]()). 
-- Adpositions can be prepositions ([u-dep/Prep]()), postpositions ([u-dep/Post]()), and circumpositions ([u-dep/Prep,Circ]() and [u-dep/Post,Circ]()).
-- Auxiliaries include the copula and tense-aspect marking auxiliaries. Even though Persian auxiliaries allow for a hierarchical analysis, we follow UD in annotating a flat structure (e.g. *raft ēstād hēnd* with *hēnd* as person number marker of the auxiliary *ēstād* forming the pluperfect of the verb *raft*).
--- Modal verbs are considered full verbs due to the different case frame they establish, which is identical to their independent use (e.g., *abāyistan* 'to be necessary' and 'must').
--- The existential verb 'to be there, to exist', which is also used in the possessive construction of the *mihi-est* type, is considered a full verb.
-- We distinguish the following non-finite verb forms:
--- participle, which can also be used as a converb, and as an adjective or a noun;
--- infinitive (both the long and short infinitive), which can also be used as a necessitative and as a noun;
--- verbal noun in *-išn*, which can also be used as a necessitative and as a noun.
+
+PART is used for
+- verbal negation ([u-dep/Neg]()) *nē* and the prohibitive particle ([u-dep/Mod](),[u-dep/Neg]()) *ma*, 
+- the optative particles ([u-dep/Mod]()), e.g. *ēw*, 
+- the enclitic focus marker ([u-dep/Emp]()) *=iz*,
+-  and the grammatical particles ([u-dep/Vbp]()) *be* and *hamē*.
+
+Pronouns and determiners have been manually distinguished based on the syntactic analysis.
+- Attributes are linked by the so-called Ezāfe particle to their headword. In contrast to New Iranic languages, this is still an independent word, though it tends to be enclitic. This particle has been annotated as a determiner ([u-dep/DET]()). 
+
+Adpositions can be prepositions ([u-dep/Prep]()), postpositions ([u-dep/Post]()), and circumpositions ([u-dep/Prep,Circ]() and [u-dep/Post,Circ]()).
+
+Auxiliaries include the copula and tense-aspect marking auxiliaries. Even though Persian auxiliaries allow for a hierarchical analysis, we follow UD in annotating a flat structure (e.g. *raft ēstād hēnd* with *hēnd* as person number marker of the auxiliary *ēstād* forming the pluperfect of the verb *raft*).
+- Modal verbs are considered full verbs due to the different case frame they establish, which is identical to their independent use (e.g., *abāyistan* 'to be necessary' and 'must').
+- The existential verb 'to be there, to exist', which is also used in the possessive construction of the *mihi-est* type, is considered a full verb.
+
+We distinguish the following non-finite verb forms:
+- participle, which can also be used as a converb, and as an adjective or a noun;
+- infinitive (both the long and short infinitive), which can also be used as a necessitative and as a noun;
+- verbal noun in *-išn*, which can also be used as a necessitative and as a noun.
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
