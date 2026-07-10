@@ -71,8 +71,9 @@ In Armenian this form is used also for cases when the noun phrase somehow belong
 
 #### Examples
 
-* _պատվերներ պետք է տալ <b>նորոգողներին</b>_/_patverner petk’ ē tal <b>norogoġnerin</b>_ “” (_նորոգողներին_ “” is dative and _պատվերներ_ “” is nominative),
+* _պատվերներ պետք է տալ <b>նորոգողներին</b>_/_patverner petk’ ē tal <b>norogoġnerin</b>_ “we should give orders to the workers” (_նորոգողներին_ “workers” is dative and _պատվերներ_ “orders” is nominative),
 * _Երևանը <b>Հայաստանի</b> մայրաքաղաքն է։_/_Erewanë <b>Hayastani</b> mayrak’aġak’n ē_ “Yerevan is the capital <b>of Armenia</b>.”
+
 
 ### <a name="Acc">`Acc`</a>: accusative
 
@@ -81,7 +82,7 @@ This is the word form most frequently used for direct objects of verbs, see abov
 
 #### Examples
 
-* _Եղբայրս սիրում է <b>Աննային</b>։_ “My brother loves <b>Anna</b>.”
+* _Եղբայրս սիրում է <b>Աննային</b>։_/_Eġbayrs sirowm ē <b>Annayin</b>_ “My brother loves <b>Anna</b>.”
 
 ### <a name="Abl">`Abl`</a>: ablative
 
