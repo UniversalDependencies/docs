@@ -5,12 +5,12 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-A brief description of the dependency relation.
+Emphatic adverbial modifiers include _=iz_ "also, even" or _wēš_ "more" emphasizing the degree ("much more").
 
+- "then even the stars and the moon and the sun shine unwillingly on him"
 ~~~ sdparse
-pad nām ī yazadān \n in name Ezafe gods
-case(nām, pad)
-det(yazadān, ī)
-nmod(nām, yazadān)
+ā =š star =iz ud māh ud xwaršēd ahunsandīhā padiš tābēnd \n then him star even and moon and sun unwillingly thereon shine.3pl
+advmod:emph(star, =iz)
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:35 CEST -->
