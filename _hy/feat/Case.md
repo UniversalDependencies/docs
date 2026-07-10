@@ -36,10 +36,11 @@ Personal and some demonstrative pronouns distinguish between `Case=Gen` and `Cas
 
 #### Examples
 
-* singular nominative _դպրոց_ “school”, dative _դպրոցի(ն),_ ablative _դպրոցից,_ instrumental _դպրոցով,_ locative _դպրոցում_
-* singular nominative _ժամանակ_ “time”, dative _ժամանակի(ն), ժամանակվա(ն),_ ablative _ժամանակից, ժամանակվանից,_ instrumental _ժամանակով,_ locative _ժամանակում_
-* singular nominative _արյուն_ “blood”, dative _արյան(ը),_ ablative _արյունից,_ instrumental _արյունով, արյամբ_
+* singular nominative _դպրոց_/_dproc’_ “school”, dative _դպրոցի(ն)_/_dproc’i(n)_, ablative _դպրոցից_/_dproc’ic’_, instrumental _դպրոցով_/_dproc’ov_, locative _դպրոցում_/_dproc’owm_
+* singular nominative _ժամանակ_/_žamanak_ “time”, dative _ժամանակի(ն)_/_žamanaki(n)_, _ժամանակվա(ն)_/_žamanakva(n)_, ablative _ժամանակից, ժամանակվանից_/_žamanakic’, žamanakvanic’_, instrumental _ժամանակով_/_žamanakov_ locative _ժամանակում_/_žamanakowm_
+* singular nominative _արյուն_/_aryown_ “blood”, dative _արյան(ը)_/_aryan(ë)_, ablative _արյունից_/_aryownic’_, instrumental _արյունով, արյամբ_/_aryownov, aryamb_
 * singular nominative _մայր_ “mother”, dative _մոր(ը),_ ablative _մորից,_ instrumental _մորով_
+
 
 ### <a name="Nom">`Nom`</a>: nominative
 
@@ -48,17 +49,19 @@ In Armenian this is the word form used for subjects of clauses, for direct objec
 
 #### Examples
 
-* _դպրոց_ “school”
+* _դպրոց_/_dproc’_ “school”
+
 
 ### <a name="Gen">`Gen`</a>: genitive
 
 In many languages prototypical meaning of genitive is that the noun phrase somehow belongs to its governor.
 
-We do not recognize the genitive except for possessive personal, some demonstrative pronouns/determiners and _իր_ “one’s own”.
+We do not recognize the genitive except for possessive personal, some demonstrative pronouns/determiners and _իր_/_ir_ “one’s own”.
 
 #### Examples
 
-* _իր_ “one’s own”
+* _իր_/_ir_ “one’s own”
+
 
 ### <a name="Dat">`Dat`</a>: dative
 
@@ -68,9 +71,8 @@ In Armenian this form is used also for cases when the noun phrase somehow belong
 
 #### Examples
 
-* _Ես <b>եղբորս</b> նվեր տվեցի։_ “I gave my brother a present.”
-  (_եղբորս_ “my brother” is dative and _նվեր_ “present” is nominative.)
-* _Երևանը <b>Հայաստանի</b> մայրաքաղաքն է։_ “Yerevan is the capital <b>of Armenia</b>.”
+* _պատվերներ պետք է տալ <b>նորոգողներին</b>_/_patverner petk’ ē tal <b>norogoġnerin</b>_ “” (_նորոգողներին_ “” is dative and _պատվերներ_ “” is nominative),
+* _Երևանը <b>Հայաստանի</b> մայրաքաղաքն է։_/_Erewanë <b>Hayastani</b> mayrak’aġak’n ē_ “Yerevan is the capital <b>of Armenia</b>.”
 
 ### <a name="Acc">`Acc`</a>: accusative
 
