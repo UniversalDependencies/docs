@@ -20,7 +20,7 @@ advmod(sahist, ēg)
 ~~~
 
 - "Wirāz stood up as if (he) stood up from a comfortable dream."
-~~~
+~~~ sdparse
 wirāz abar āxist čiyōn ka az ān xwamn ī xwaš āxēzēd \n Wirāz up rose how when from that dream EZ comfortable rises
 advmod(āxēzēd, čiyōn)
 mark(āxēzēd, ka)
@@ -28,28 +28,28 @@ advcl(āxist, āxēzēd)
 ~~~
 
 - "Do not feel sinful envy so that your life does not become tasteless!"
-~~~
+~~~ sdparse
 arešk ī abārōn ma bar kū =t zīndagīh abēmizag nē bawēd \n envy EZ sinful not carry.IMP that your life tasteless not becomes
 mark(bawēd, tā)
 advcl(bar, bawēd)
 ~~~
 
 - "(After) the Cow's Soul had gone forth to the star level, (it) complained in the same manner."
-~~~
+~~~ sdparse
 frāz raft gōšurun tā starpāyag garzīd ham ēwēnag \n forth went Cow's_soul until star_level complained same manner
 nsubj(raft, gōšurun)
 advcl(garzīd, raft)
 ~~~
 
 - "And whoever is able to perform a number of meritorious deeds as a poor and to whom the gods are favourable, how could (they) ever be lonesome?"
-~~~
+~~~ sdparse
 ud kē hambār kirbag driyōš kirdan tuwān ud kē yazdān ayār ēwtāg čiyōn šāyēd būdan \n and who collection good_deed poor doing able and who gods friend lonesome how is_possible being
 advcl(kirdan, driyōš)
 nsubj:xsubj(driyōš, kē)
 ~~~
 
 - "When the wife has made her statement, the accuracy of what has been said should be taken into account by the children."
-~~~
+~~~ sdparse
 ka zan guft ud andar frazendān rāstīh ī ān ī guft āmār \n when woman said and among children correctness EZ that EZ said consideration
 mark(guft, ka)
 advcl(āmār, guft)
@@ -57,7 +57,7 @@ cc:nc(āmār, ud)
 ~~~
 
 - "(his) anima spread light highly and intensively, similar to the glow of fire, far into the distance"
-~~~
+~~~ sdparse
 "ǰān burzīhā ud stabrīhā brāh ātaxš homānāg ō dūr zamīg rōšnīh dād \n anima highly and intensively brilliance fire similar to far earth brightness gave
 obl(homānāg, brāh)
 nmod(brāh, ātaxš)
