@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Middle Persian has a huge variety of adverbial clause modifiers, which are as good as always introduced by subordinators. The order is usually iconic, i.e. anterior and conditional clauses appear before the matrix clause while purposive clauses follow. The subclause can be linked by means of _ud_ "and" to the matrix clause.<br>The subjunctor relation can be specified ("always when", "except when", "just as when" etc.), which is annotated as an adverbial modifier to the head of the adverbial clause. Some combinations univerbated in New Persian, e.g. _čiyōn ka_ "just as when" in New Persian _čonke_ "because".
+Middle Persian has a huge variety of adverbial clause modifiers, which are as good as always introduced by subordinators. The order is usually iconic, i.e. anterior and conditional clauses appear before the matrix clause while purposive clauses follow. The border od the subclause can be indicated by _ud_ "and".<br>The subjunctor relation can be specified ("always when", "except when", "just as when" etc.), which is annotated as an adverbial modifier to the head of the adverbial clause. Some combinations univerbated in New Persian, e.g. _čiyōn ka_ "just as when" in New Persian _čonke_ "because".
 
 Subject-verb inversion can be used to indicate a subclause.
 
