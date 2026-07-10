@@ -24,7 +24,7 @@ Note that some aspectual meanings in (secondary) compound tenses may be expresse
 
 ### <a name="Imp">`Imp`</a>: imperfect aspect
 
-The action took/takes/will take some time span and there is no information whether and when it was / will be completed.
+The action took, takes, or will take place over a period of time, without specifying whether or when it was, is, or will be completed.
 
 #### Examples
 
@@ -81,7 +81,7 @@ The action is in progress with respect to current or a reference time. The conve
 
 ### <a name="Dur">`Dur`</a>: durative aspect
 
-The situation extends over a period of time without reference to its endpoint.
+A situation or action that has persisted over a period of time and still continues.
 
 The subject participle expresses durative aspect.
 
@@ -95,7 +95,7 @@ The subject participle expresses durative aspect.
 
 Denotes repeated action, with multiplicative or distributive meanings. Armenian has three main iterative markers _-ատ_/_-at_, _-ոտ_/_-ot_, _-տ_/_-t_ or _root reduplication_.
 
-Note that in Armenian iterative is considered as a lexical feature of [verbs](VERB), hus they have morphologically related non-iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
+Note that in Armenian iterative is considered as a lexical feature of [verbs](VERB), thus they have morphologically related non-iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
 
 #### Examples
 
