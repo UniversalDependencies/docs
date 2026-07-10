@@ -20,7 +20,7 @@ udver: '2'
 
 Case is an inflectional feature of [nouns](NOUN) and [pronouns](PRON). It is also an inflectional feature of some [adpositions](ADP) (and not a valency feature indicating that the adposition requires its argument to be in a particular case).
 
-Case helps to specify the role of the noun phrase in the sentence.
+Case helps specify the role of the noun phrase in the sentence.
 
 Here on the level of morphosyntactic features we are dealing with case expressed morphologically, i.e. by bound morphemes (affixes). The descriptions of the individual case values below include semantic hints about the prototypical meaning of the case. Bear in mind that quite often a case will be used for a meaning that is totally unrelated to the meaning mentioned here. Valency of verbs, adpositions and other words will determine that the noun phrase must be in a particular grammatical case to fill a particular valency slot (semantic role).
 
@@ -39,7 +39,7 @@ Personal and some demonstrative pronouns distinguish between `Case=Gen` and `Cas
 * singular nominative _դպրոց_/_dproc’_ “school”, dative _դպրոցի(ն)_/_dproc’i(n)_, ablative _դպրոցից_/_dproc’ic’_, instrumental _դպրոցով_/_dproc’ov_, locative _դպրոցում_/_dproc’owm_
 * singular nominative _ժամանակ_/_žamanak_ “time”, dative _ժամանակի(ն)_/_žamanaki(n)_, _ժամանակվա(ն)_/_žamanakva(n)_, ablative _ժամանակից, ժամանակվանից_/_žamanakic’, žamanakvanic’_, instrumental _ժամանակով_/_žamanakov_ locative _ժամանակում_/_žamanakowm_
 * singular nominative _արյուն_/_aryown_ “blood”, dative _արյան(ը)_/_aryan(ë)_, ablative _արյունից_/_aryownic’_, instrumental _արյունով, արյամբ_/_aryownov, aryamb_
-* singular nominative _մայր_ “mother”, dative _մոր(ը),_ ablative _մորից,_ instrumental _մորով_
+* singular nominative _մայր_/_mayr_ “mother”, dative _մոր(ը)_/_mor(ë)_ ablative _մորից_/_moric’_ instrumental _մորով_/_morov_
 
 
 ### <a name="Nom">`Nom`</a>: nominative
