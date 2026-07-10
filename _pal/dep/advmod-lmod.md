@@ -12,6 +12,7 @@ Adverbial modifiers can be specified as locative. This also includes preverbs.
 ud gandag wād ī abāxtarīgīhā bē ō padīrag āyēd \n and foul wind EZ northern forth to against comes
 case(padīrag, ō)
 advmod:lmod(āyēd, padīrag)
+~~~
 
 - "and seat it (= the soul) on the richly decorated throne"
 ~~~ sdparse
