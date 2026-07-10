@@ -35,7 +35,7 @@ obl:lmod(kirrēnēnd, kū)
 acl:relcl(gyāg, kirrēnēnd)
 ~~~
 
-If the relative clause is a nominal clause and introduced by the relativizer _ī_, it is not always possible to distinguish it from an _ezāfe_ construction, where a nominal attribute is linked by the _ezāfe_ particle _ī_ to its headword. The copular verb is often missing in nominal clauses so that, formally, _mihrēn ī=m pid_ can be interpreted as "my father Mihrēn" or as "Mihrēn, wo (is) my father".
+If the relative clause is a nominal clause and introduced by the relativizer _ī_, it is not always possible to distinguish it from an _ezāfe_ construction, where a nominal attribute is linked by the _ezāfe_ particle _ī_ to its headword. The copular verb is often missing in nominal clauses so that, formally, _mihrēn ī=m pid_ can be interpreted as "my father Mihrēn" or as "Mihrēn, who (is) my father".
 
 - relative clause: "the vitalising spirit, which (is) between soul (and) body"
 - nominal modifier: "the vitalising spirit between soul (and) body"
