@@ -7,6 +7,26 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
 /*@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,400italic,600italic,700italic&subset=latin&effect=smoothing);*/
 
+/* Accordion panels start closed; _includes/accordion.html toggles them
+   via inline display. */
+.jquery-ui-accordion .ui-accordion-content {
+  display: none;
+}
+.jquery-ui-accordion .ui-accordion-header {
+  cursor: pointer;
+}
+/* Header hover, matching the redmond theme's ui-state-hover colors. */
+.jquery-ui-accordion .ui-accordion-header.ui-state-default:hover {
+  border: 1px solid #79b7e7;
+  background: #d0e5f5 url(images/ui-bg_glass_75_d0e5f5_1x400.png) 50% 50% repeat-x;
+  color: #1d5987;
+}
+/* Keyboard focus indicator (the theme's ui-helper-reset removes outlines). */
+.jquery-ui-accordion .ui-accordion-header:focus-visible {
+  outline: 2px solid #1d5987;
+  outline-offset: -2px;
+}
+
 /* override sentence number text style from brat style-vis.css */
 .sentnum text {
   display: none;
