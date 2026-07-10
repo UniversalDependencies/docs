@@ -1,29 +1,22 @@
-  <!-- Except for class="jquery-ui-subaccordion-closed", all attributes of the accordion-related div elements can be generated during initialization of the page. However, the initialization takes up to 10 seconds and we want something reasonably nice to be visible as soon as possible. -->
-
   <!-- start of English accordion row -->
-  <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
-    <span class="flagspan"><img class="flag" src="flags/svg/GB.svg" /></span>
-    <span class="doublewidespan">English</span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="97,681 tokens 97,681 words 97,681 nodes 5,124 sentences">97K</span></span>
-    <!-- English has so many genres that they no longer fit in doublewidespan. -->
-    <span class="triplewidespan"><span class="hint--top hint--info" data-hint="learner-essays"><i class="fa fa-edit"></i></span></span>
-    <span class="triplewidespan">IE, Germanic</span>
-  </div>
-  <!-- end of English accordion row -->
+  <details class="ud-accordion" name="ud-language-retired">
+    <summary id="language-retired-en">
+      <span class="flagspan"><img class="flag" src="flags/svg/GB.svg" alt="" loading="lazy" decoding="async" /></span>
+      <span class="doublewidespan">English</span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="97,681 tokens 97,681 words 97,681 nodes 5,124 sentences">97K</span></span>
+      <!-- English has so many genres that they no longer fit in doublewidespan. -->
+      <span class="triplewidespan"><span class="hint--top hint--info" data-hint="learner-essays"><i class="fa fa-edit"></i></span></span>
+      <span class="triplewidespan">IE, Germanic</span>
+    </summary>
+    <div class="ud-accordion-body">
 
-  <!-- start of English accordion body -->
-  <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="" role="tabpanel">
-  <!--initial style="height:558.8px; display: none" would make the page a bit better before setup is done but the height of the subaccordions would not be measured correctly-->
-
-    <!-- empty space so tooltip fits -->
     <h3>English treebanks</h3>
 
     <!-- start of English treebank list -->
-    <div class="jquery-ui-subaccordion-closed ui-accordion ui-widget ui-helper-reset ui-accordion-icons" role="tablist">
-      
-      <!-- start of English / ESL entry -->
-      <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
+    
+    <details class="ud-accordion ud-subaccordion" name="ud-treebank-retired-en">
+      <summary>
         <span class="flagspan"></span>
         <span class="doublewidespan">ESL</span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="97,681 tokens 97,681 words 97,681 nodes 5,124 sentences">97K</span></span>
@@ -32,8 +25,8 @@
         <span class="doublewidespan"><span class="hint--top hint--info" data-hint="learner-essays"><i class="fa fa-edit"></i></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-SA 4.0"><img class="license" src="logos/by-sa.svg" /></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="Size/quality/diversity score=0.000355"><img src="/img/stars00.png" style="max-height:1em; vertical-align:middle" /></span></span>
-      </div>
-      <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="height: 149.8px;">
+      </summary>
+      <div class="ud-accordion-body">
 
         UD English-ESL / Treebank of Learner English (TLE) contains manual POS tag and dependency annotations for 5,124 English as a Second Language (ESL) sentences drawn from the Cambridge Learner Corpus First Certificate in English (FCE) dataset.
 
@@ -45,11 +38,10 @@
           <li><a href="#download">Download</a></li>
         </ul>
 
-        <p>&nbsp;</p>
       </div>
-      <!-- end of English / ESL entry -->
-      
-    </div> <!-- end of English treebank list -->
+    </details>
+    
+    <!-- end of English treebank list -->
 
     
     See <a href="treebanks/en-comparison.html">here</a> for comparative statistics of English treebanks.
@@ -61,35 +53,29 @@
     See the <a href="en/index.html">language documentation page</a>.
     
 
-  </div>
-  <!-- end of English accordion body -->
-
-  <!-- Except for class="jquery-ui-subaccordion-closed", all attributes of the accordion-related div elements can be generated during initialization of the page. However, the initialization takes up to 10 seconds and we want something reasonably nice to be visible as soon as possible. -->
+    </div>
+  </details>
+  <!-- end of English accordion row -->
 
   <!-- start of French accordion row -->
-  <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
-    <span class="flagspan"><img class="flag" src="flags/svg/FR.svg" /></span>
-    <span class="doublewidespan">French</span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="556,064 tokens 573,370 words 573,370 nodes 18,535 sentences">573K</span></span>
-    <!-- English has so many genres that they no longer fit in doublewidespan. -->
-    <span class="triplewidespan"><span class="hint--top hint--info" data-hint="news"><i class="fa fa-newspaper-o"></i></span></span>
-    <span class="triplewidespan">IE, Romance</span>
-  </div>
-  <!-- end of French accordion row -->
+  <details class="ud-accordion" name="ud-language-retired">
+    <summary id="language-retired-fr">
+      <span class="flagspan"><img class="flag" src="flags/svg/FR.svg" alt="" loading="lazy" decoding="async" /></span>
+      <span class="doublewidespan">French</span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="556,064 tokens 573,370 words 573,370 nodes 18,535 sentences">573K</span></span>
+      <!-- English has so many genres that they no longer fit in doublewidespan. -->
+      <span class="triplewidespan"><span class="hint--top hint--info" data-hint="news"><i class="fa fa-newspaper-o"></i></span></span>
+      <span class="triplewidespan">IE, Romance</span>
+    </summary>
+    <div class="ud-accordion-body">
 
-  <!-- start of French accordion body -->
-  <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="" role="tabpanel">
-  <!--initial style="height:558.8px; display: none" would make the page a bit better before setup is done but the height of the subaccordions would not be measured correctly-->
-
-    <!-- empty space so tooltip fits -->
     <h3>French treebanks</h3>
 
     <!-- start of French treebank list -->
-    <div class="jquery-ui-subaccordion-closed ui-accordion ui-widget ui-helper-reset ui-accordion-icons" role="tablist">
-      
-      <!-- start of French / FTB entry -->
-      <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
+    
+    <details class="ud-accordion ud-subaccordion" name="ud-treebank-retired-fr">
+      <summary>
         <span class="flagspan"></span>
         <span class="doublewidespan">FTB</span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="556,064 tokens 573,370 words 573,370 nodes 18,535 sentences">573K</span></span>
@@ -98,8 +84,8 @@
         <span class="doublewidespan"><span class="hint--top hint--info" data-hint="news"><i class="fa fa-newspaper-o"></i></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="LGPL-LR"><img class="license" src="logos/gpl.svg" /></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="Size/quality/diversity score=0.000612"><img src="/img/stars00.png" style="max-height:1em; vertical-align:middle" /></span></span>
-      </div>
-      <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="height: 149.8px;">
+      </summary>
+      <div class="ud-accordion-body">
 
         The Universal Dependency version of the French Treebank (Abeillé et al., 2003), hereafter UD_French-FTB, is a treebank of sentences from the newspaper Le Monde, initially manually annotated with morphological information and phrase-structure and then converted to the Universal Dependencies annotation scheme.
 
@@ -111,11 +97,10 @@
           <li><a href="#download">Download</a></li>
         </ul>
 
-        <p>&nbsp;</p>
       </div>
-      <!-- end of French / FTB entry -->
-      
-    </div> <!-- end of French treebank list -->
+    </details>
+    
+    <!-- end of French treebank list -->
 
     
     See <a href="treebanks/fr-comparison.html">here</a> for comparative statistics of French treebanks.
@@ -127,35 +112,29 @@
     See the <a href="fr/index.html">language documentation page</a>.
     
 
-  </div>
-  <!-- end of French accordion body -->
-
-  <!-- Except for class="jquery-ui-subaccordion-closed", all attributes of the accordion-related div elements can be generated during initialization of the page. However, the initialization takes up to 10 seconds and we want something reasonably nice to be visible as soon as possible. -->
+    </div>
+  </details>
+  <!-- end of French accordion row -->
 
   <!-- start of Hindi English accordion row -->
-  <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
-    <span class="flagspan"><img class="flag" src="flags/svg/IN.svg" /></span>
-    <span class="doublewidespan">Hindi English</span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="26,909 tokens 26,909 words 26,909 nodes 1,898 sentences">26K</span></span>
-    <!-- English has so many genres that they no longer fit in doublewidespan. -->
-    <span class="triplewidespan"><span class="hint--top hint--info" data-hint="social"><i class="fa fa-feed"></i></span></span>
-    <span class="triplewidespan">Code switching</span>
-  </div>
-  <!-- end of Hindi English accordion row -->
+  <details class="ud-accordion" name="ud-language-retired">
+    <summary id="language-retired-qhe">
+      <span class="flagspan"><img class="flag" src="flags/svg/IN.svg" alt="" loading="lazy" decoding="async" /></span>
+      <span class="doublewidespan">Hindi English</span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="26,909 tokens 26,909 words 26,909 nodes 1,898 sentences">26K</span></span>
+      <!-- English has so many genres that they no longer fit in doublewidespan. -->
+      <span class="triplewidespan"><span class="hint--top hint--info" data-hint="social"><i class="fa fa-feed"></i></span></span>
+      <span class="triplewidespan">Code switching</span>
+    </summary>
+    <div class="ud-accordion-body">
 
-  <!-- start of Hindi English accordion body -->
-  <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="" role="tabpanel">
-  <!--initial style="height:558.8px; display: none" would make the page a bit better before setup is done but the height of the subaccordions would not be measured correctly-->
-
-    <!-- empty space so tooltip fits -->
     <h3>Hindi English treebanks</h3>
 
     <!-- start of Hindi English treebank list -->
-    <div class="jquery-ui-subaccordion-closed ui-accordion ui-widget ui-helper-reset ui-accordion-icons" role="tablist">
-      
-      <!-- start of Hindi English / HIENCS entry -->
-      <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
+    
+    <details class="ud-accordion ud-subaccordion" name="ud-treebank-retired-qhe">
+      <summary>
         <span class="flagspan"></span>
         <span class="doublewidespan">HIENCS</span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="26,909 tokens 26,909 words 26,909 nodes 1,898 sentences">26K</span></span>
@@ -164,8 +143,8 @@
         <span class="doublewidespan"><span class="hint--top hint--info" data-hint="social"><i class="fa fa-feed"></i></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-SA 4.0"><img class="license" src="logos/by-sa.svg" /></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="Size/quality/diversity score=0.000277"><img src="/img/stars00.png" style="max-height:1em; vertical-align:middle" /></span></span>
-      </div>
-      <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="height: 149.8px;">
+      </summary>
+      <div class="ud-accordion-body">
 
         The Hindi-English Code-switching treebank is based on code-switching tweets of Hindi and English multilingual speakers (mostly Indian) on Twitter. The treebank is manually annotated using UD sceheme. The training and evaluations sets were seperately annotated by different annotators using UD v2 and v1 guidelines respectively. The evaluation sets are automatically converted from UD v1 to v2.
 
@@ -177,11 +156,10 @@
           <li><a href="#download">Download</a></li>
         </ul>
 
-        <p>&nbsp;</p>
       </div>
-      <!-- end of Hindi English / HIENCS entry -->
-      
-    </div> <!-- end of Hindi English treebank list -->
+    </details>
+    
+    <!-- end of Hindi English treebank list -->
 
     
 
@@ -191,35 +169,29 @@
     The language hub documentation has not yet been created.
     
 
-  </div>
-  <!-- end of Hindi English accordion body -->
-
-  <!-- Except for class="jquery-ui-subaccordion-closed", all attributes of the accordion-related div elements can be generated during initialization of the page. However, the initialization takes up to 10 seconds and we want something reasonably nice to be visible as soon as possible. -->
+    </div>
+  </details>
+  <!-- end of Hindi English accordion row -->
 
   <!-- start of Japanese accordion row -->
-  <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
-    <span class="flagspan"><img class="flag" src="flags/svg/JP.svg" /></span>
-    <span class="doublewidespan">Japanese</span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="2 treebanks">2</span></span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="204,437 tokens 204,437 words 204,437 nodes 7,980 sentences">204K</span></span>
-    <!-- English has so many genres that they no longer fit in doublewidespan. -->
-    <span class="triplewidespan"><span class="hint--top hint--info" data-hint="news nonfiction"><i class="fa fa-newspaper-o"></i><i class="fa fa-info-circle"></i></span></span>
-    <span class="triplewidespan">Japanese</span>
-  </div>
-  <!-- end of Japanese accordion row -->
+  <details class="ud-accordion" name="ud-language-retired">
+    <summary id="language-retired-ja">
+      <span class="flagspan"><img class="flag" src="flags/svg/JP.svg" alt="" loading="lazy" decoding="async" /></span>
+      <span class="doublewidespan">Japanese</span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="2 treebanks">2</span></span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="204,437 tokens 204,437 words 204,437 nodes 7,980 sentences">204K</span></span>
+      <!-- English has so many genres that they no longer fit in doublewidespan. -->
+      <span class="triplewidespan"><span class="hint--top hint--info" data-hint="news nonfiction"><i class="fa fa-newspaper-o"></i><i class="fa fa-info-circle"></i></span></span>
+      <span class="triplewidespan">Japanese</span>
+    </summary>
+    <div class="ud-accordion-body">
 
-  <!-- start of Japanese accordion body -->
-  <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="" role="tabpanel">
-  <!--initial style="height:558.8px; display: none" would make the page a bit better before setup is done but the height of the subaccordions would not be measured correctly-->
-
-    <!-- empty space so tooltip fits -->
     <h3>Japanese treebanks</h3>
 
     <!-- start of Japanese treebank list -->
-    <div class="jquery-ui-subaccordion-closed ui-accordion ui-widget ui-helper-reset ui-accordion-icons" role="tablist">
-      
-      <!-- start of Japanese / Modern entry -->
-      <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
+    
+    <details class="ud-accordion ud-subaccordion" name="ud-treebank-retired-ja">
+      <summary>
         <span class="flagspan"></span>
         <span class="doublewidespan">Modern</span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="14,494 tokens 14,494 words 14,494 nodes 822 sentences">14K</span></span>
@@ -228,8 +200,8 @@
         <span class="doublewidespan"><span class="hint--top hint--info" data-hint="nonfiction"><i class="fa fa-info-circle"></i></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-ND 3.0"><img class="license" src="logos/by-nc-nd.svg" /></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="Size/quality/diversity score=0.002899"><img src="/img/stars00.png" style="max-height:1em; vertical-align:middle" /></span></span>
-      </div>
-      <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="height: 149.8px;">
+      </summary>
+      <div class="ud-accordion-body">
 
         This Universal Dependencies (UD) Japanese treebank is based on the definition of
 UD Japanese convention described in the UD documentation.
@@ -243,12 +215,11 @@ The original sentences are from `Corpus of Historical Japanese&#39; (CHJ).
           <li><a href="#download">Download</a></li>
         </ul>
 
-        <p>&nbsp;</p>
       </div>
-      <!-- end of Japanese / Modern entry -->
-      
-      <!-- start of Japanese / KTC entry -->
-      <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
+    </details>
+    
+    <details class="ud-accordion ud-subaccordion" name="ud-treebank-retired-ja">
+      <summary>
         <span class="flagspan"></span>
         <span class="doublewidespan">KTC</span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="189,943 tokens 189,943 words 189,943 nodes 7,158 sentences">189K</span></span>
@@ -257,8 +228,8 @@ The original sentences are from `Corpus of Historical Japanese&#39; (CHJ).
         <span class="doublewidespan"><span class="hint--top hint--info" data-hint="news"><i class="fa fa-newspaper-o"></i></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-SA 4.0"><img class="license" src="logos/by-sa.svg" /></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="Size/quality/diversity score=0.000347"><img src="/img/stars00.png" style="max-height:1em; vertical-align:middle" /></span></span>
-      </div>
-      <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="height: 149.8px;">
+      </summary>
+      <div class="ud-accordion-body">
 
         Please add a summary section to the treebank readme file
 
@@ -270,11 +241,10 @@ The original sentences are from `Corpus of Historical Japanese&#39; (CHJ).
           <li><a href="#download">Download</a></li>
         </ul>
 
-        <p>&nbsp;</p>
       </div>
-      <!-- end of Japanese / KTC entry -->
-      
-    </div> <!-- end of Japanese treebank list -->
+    </details>
+    
+    <!-- end of Japanese treebank list -->
 
     
     See <a href="treebanks/ja-comparison.html">here</a> for comparative statistics of Japanese treebanks.
@@ -286,35 +256,29 @@ The original sentences are from `Corpus of Historical Japanese&#39; (CHJ).
     See the <a href="ja/index.html">language documentation page</a>.
     
 
-  </div>
-  <!-- end of Japanese accordion body -->
-
-  <!-- Except for class="jquery-ui-subaccordion-closed", all attributes of the accordion-related div elements can be generated during initialization of the page. However, the initialization takes up to 10 seconds and we want something reasonably nice to be visible as soon as possible. -->
+    </div>
+  </details>
+  <!-- end of Japanese accordion row -->
 
   <!-- start of Khunsari accordion row -->
-  <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
-    <span class="flagspan"><img class="flag" src="flags/svg/IR.svg" /></span>
-    <span class="doublewidespan">Khunsari</span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="74 tokens 74 words 74 nodes 10 sentences">&lt;1K</span></span>
-    <!-- English has so many genres that they no longer fit in doublewidespan. -->
-    <span class="triplewidespan"><span class="hint--top hint--info" data-hint="grammar-examples spoken"><i class="fa fa-magic"></i><i class="fa fa-comment-o"></i></span></span>
-    <span class="triplewidespan">IE, Iranian</span>
-  </div>
-  <!-- end of Khunsari accordion row -->
+  <details class="ud-accordion" name="ud-language-retired">
+    <summary id="language-retired-kfm">
+      <span class="flagspan"><img class="flag" src="flags/svg/IR.svg" alt="" loading="lazy" decoding="async" /></span>
+      <span class="doublewidespan">Khunsari</span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="74 tokens 74 words 74 nodes 10 sentences">&lt;1K</span></span>
+      <!-- English has so many genres that they no longer fit in doublewidespan. -->
+      <span class="triplewidespan"><span class="hint--top hint--info" data-hint="grammar-examples spoken"><i class="fa fa-magic"></i><i class="fa fa-comment-o"></i></span></span>
+      <span class="triplewidespan">IE, Iranian</span>
+    </summary>
+    <div class="ud-accordion-body">
 
-  <!-- start of Khunsari accordion body -->
-  <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="" role="tabpanel">
-  <!--initial style="height:558.8px; display: none" would make the page a bit better before setup is done but the height of the subaccordions would not be measured correctly-->
-
-    <!-- empty space so tooltip fits -->
     <h3>Khunsari treebanks</h3>
 
     <!-- start of Khunsari treebank list -->
-    <div class="jquery-ui-subaccordion-closed ui-accordion ui-widget ui-helper-reset ui-accordion-icons" role="tablist">
-      
-      <!-- start of Khunsari / AHA entry -->
-      <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
+    
+    <details class="ud-accordion ud-subaccordion" name="ud-treebank-retired-kfm">
+      <summary>
         <span class="flagspan"></span>
         <span class="doublewidespan">AHA</span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="74 tokens 74 words 74 nodes 10 sentences">&lt;1K</span></span>
@@ -323,8 +287,8 @@ The original sentences are from `Corpus of Historical Japanese&#39; (CHJ).
         <span class="doublewidespan"><span class="hint--top hint--info" data-hint="grammar-examples spoken"><i class="fa fa-magic"></i><i class="fa fa-comment-o"></i></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-SA 4.0"><img class="license" src="logos/by-sa.svg" /></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="Size/quality/diversity score=0.003583"><img src="/img/stars00.png" style="max-height:1em; vertical-align:middle" /></span></span>
-      </div>
-      <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="height: 149.8px;">
+      </summary>
+      <div class="ud-accordion-body">
 
         The AHA Khunsari Treebank is a small treebank for contemporary Khunsari. Its corpus is collected and annotated manually. We have prepared this treebank based on interviews with Khunsari speakers.
 
@@ -336,11 +300,10 @@ The original sentences are from `Corpus of Historical Japanese&#39; (CHJ).
           <li><a href="#download">Download</a></li>
         </ul>
 
-        <p>&nbsp;</p>
       </div>
-      <!-- end of Khunsari / AHA entry -->
-      
-    </div> <!-- end of Khunsari treebank list -->
+    </details>
+    
+    <!-- end of Khunsari treebank list -->
 
     
 
@@ -350,35 +313,29 @@ The original sentences are from `Corpus of Historical Japanese&#39; (CHJ).
     See the <a href="kfm/index.html">language documentation page</a>.
     
 
-  </div>
-  <!-- end of Khunsari accordion body -->
-
-  <!-- Except for class="jquery-ui-subaccordion-closed", all attributes of the accordion-related div elements can be generated during initialization of the page. However, the initialization takes up to 10 seconds and we want something reasonably nice to be visible as soon as possible. -->
+    </div>
+  </details>
+  <!-- end of Khunsari accordion row -->
 
   <!-- start of Mbya Guarani accordion row -->
-  <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
-    <span class="flagspan"><img class="flag" src="flags/svg/PY.svg" /></span>
-    <span class="doublewidespan">Mbya Guarani</span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="11,771 tokens 11,771 words 11,771 nodes 1,046 sentences">11K</span></span>
-    <!-- English has so many genres that they no longer fit in doublewidespan. -->
-    <span class="triplewidespan"><span class="hint--top hint--info" data-hint="fiction"><i class="fa fa-book"></i></span></span>
-    <span class="triplewidespan">Tupian, Maweti-Guarani</span>
-  </div>
-  <!-- end of Mbya Guarani accordion row -->
+  <details class="ud-accordion" name="ud-language-retired">
+    <summary id="language-retired-gun">
+      <span class="flagspan"><img class="flag" src="flags/svg/PY.svg" alt="" loading="lazy" decoding="async" /></span>
+      <span class="doublewidespan">Mbya Guarani</span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="11,771 tokens 11,771 words 11,771 nodes 1,046 sentences">11K</span></span>
+      <!-- English has so many genres that they no longer fit in doublewidespan. -->
+      <span class="triplewidespan"><span class="hint--top hint--info" data-hint="fiction"><i class="fa fa-book"></i></span></span>
+      <span class="triplewidespan">Tupian, Maweti-Guarani</span>
+    </summary>
+    <div class="ud-accordion-body">
 
-  <!-- start of Mbya Guarani accordion body -->
-  <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="" role="tabpanel">
-  <!--initial style="height:558.8px; display: none" would make the page a bit better before setup is done but the height of the subaccordions would not be measured correctly-->
-
-    <!-- empty space so tooltip fits -->
     <h3>Mbya Guarani treebanks</h3>
 
     <!-- start of Mbya Guarani treebank list -->
-    <div class="jquery-ui-subaccordion-closed ui-accordion ui-widget ui-helper-reset ui-accordion-icons" role="tablist">
-      
-      <!-- start of Mbya Guarani / Dooley entry -->
-      <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
+    
+    <details class="ud-accordion ud-subaccordion" name="ud-treebank-retired-gun">
+      <summary>
         <span class="flagspan"></span>
         <span class="doublewidespan">Dooley</span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="11,771 tokens 11,771 words 11,771 nodes 1,046 sentences">11K</span></span>
@@ -387,8 +344,8 @@ The original sentences are from `Corpus of Historical Japanese&#39; (CHJ).
         <span class="doublewidespan"><span class="hint--top hint--info" data-hint="fiction"><i class="fa fa-book"></i></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-NC-SA 4.0"><img class="license" src="logos/by-nc-sa.svg" /></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="Size/quality/diversity score=0.000214"><img src="/img/stars00.png" style="max-height:1em; vertical-align:middle" /></span></span>
-      </div>
-      <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="height: 149.8px;">
+      </summary>
+      <div class="ud-accordion-body">
 
         UD Mbya_Guarani-Dooley is a corpus of narratives written in Mbyá Guaraní (Tupian) in Brazil, and collected by Robert Dooley. Due to copyright restrictions, the corpus that is distributed as part of UD only contains the annotation (tags, features, relations) while the FORM and LEMMA columns are empty.
 
@@ -400,11 +357,10 @@ The original sentences are from `Corpus of Historical Japanese&#39; (CHJ).
           <li><a href="#download">Download</a></li>
         </ul>
 
-        <p>&nbsp;</p>
       </div>
-      <!-- end of Mbya Guarani / Dooley entry -->
-      
-    </div> <!-- end of Mbya Guarani treebank list -->
+    </details>
+    
+    <!-- end of Mbya Guarani treebank list -->
 
     
     See <a href="treebanks/gun-comparison.html">here</a> for comparative statistics of Mbya Guarani treebanks.
@@ -416,35 +372,29 @@ The original sentences are from `Corpus of Historical Japanese&#39; (CHJ).
     See the <a href="gun/index.html">language documentation page</a>.
     
 
-  </div>
-  <!-- end of Mbya Guarani accordion body -->
-
-  <!-- Except for class="jquery-ui-subaccordion-closed", all attributes of the accordion-related div elements can be generated during initialization of the page. However, the initialization takes up to 10 seconds and we want something reasonably nice to be visible as soon as possible. -->
+    </div>
+  </details>
+  <!-- end of Mbya Guarani accordion row -->
 
   <!-- start of Nayini accordion row -->
-  <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
-    <span class="flagspan"><img class="flag" src="flags/svg/IR.svg" /></span>
-    <span class="doublewidespan">Nayini</span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="78 tokens 78 words 78 nodes 10 sentences">&lt;1K</span></span>
-    <!-- English has so many genres that they no longer fit in doublewidespan. -->
-    <span class="triplewidespan"><span class="hint--top hint--info" data-hint="grammar-examples spoken"><i class="fa fa-magic"></i><i class="fa fa-comment-o"></i></span></span>
-    <span class="triplewidespan">IE, Iranian</span>
-  </div>
-  <!-- end of Nayini accordion row -->
+  <details class="ud-accordion" name="ud-language-retired">
+    <summary id="language-retired-nyq">
+      <span class="flagspan"><img class="flag" src="flags/svg/IR.svg" alt="" loading="lazy" decoding="async" /></span>
+      <span class="doublewidespan">Nayini</span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="78 tokens 78 words 78 nodes 10 sentences">&lt;1K</span></span>
+      <!-- English has so many genres that they no longer fit in doublewidespan. -->
+      <span class="triplewidespan"><span class="hint--top hint--info" data-hint="grammar-examples spoken"><i class="fa fa-magic"></i><i class="fa fa-comment-o"></i></span></span>
+      <span class="triplewidespan">IE, Iranian</span>
+    </summary>
+    <div class="ud-accordion-body">
 
-  <!-- start of Nayini accordion body -->
-  <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="" role="tabpanel">
-  <!--initial style="height:558.8px; display: none" would make the page a bit better before setup is done but the height of the subaccordions would not be measured correctly-->
-
-    <!-- empty space so tooltip fits -->
     <h3>Nayini treebanks</h3>
 
     <!-- start of Nayini treebank list -->
-    <div class="jquery-ui-subaccordion-closed ui-accordion ui-widget ui-helper-reset ui-accordion-icons" role="tablist">
-      
-      <!-- start of Nayini / AHA entry -->
-      <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
+    
+    <details class="ud-accordion ud-subaccordion" name="ud-treebank-retired-nyq">
+      <summary>
         <span class="flagspan"></span>
         <span class="doublewidespan">AHA</span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="78 tokens 78 words 78 nodes 10 sentences">&lt;1K</span></span>
@@ -453,8 +403,8 @@ The original sentences are from `Corpus of Historical Japanese&#39; (CHJ).
         <span class="doublewidespan"><span class="hint--top hint--info" data-hint="grammar-examples spoken"><i class="fa fa-magic"></i><i class="fa fa-comment-o"></i></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-SA 4.0"><img class="license" src="logos/by-sa.svg" /></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="Size/quality/diversity score=0.003583"><img src="/img/stars00.png" style="max-height:1em; vertical-align:middle" /></span></span>
-      </div>
-      <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="height: 149.8px;">
+      </summary>
+      <div class="ud-accordion-body">
 
         The AHA Nayini Treebank is a small treebank for contemporary Nayini. Its corpus is collected and annotated manually. We have prepared this treebank based on interviews with Nayini speakers.
 
@@ -466,11 +416,10 @@ The original sentences are from `Corpus of Historical Japanese&#39; (CHJ).
           <li><a href="#download">Download</a></li>
         </ul>
 
-        <p>&nbsp;</p>
       </div>
-      <!-- end of Nayini / AHA entry -->
-      
-    </div> <!-- end of Nayini treebank list -->
+    </details>
+    
+    <!-- end of Nayini treebank list -->
 
     
 
@@ -480,35 +429,29 @@ The original sentences are from `Corpus of Historical Japanese&#39; (CHJ).
     See the <a href="nyq/index.html">language documentation page</a>.
     
 
-  </div>
-  <!-- end of Nayini accordion body -->
-
-  <!-- Except for class="jquery-ui-subaccordion-closed", all attributes of the accordion-related div elements can be generated during initialization of the page. However, the initialization takes up to 10 seconds and we want something reasonably nice to be visible as soon as possible. -->
+    </div>
+  </details>
+  <!-- end of Nayini accordion row -->
 
   <!-- start of Norwegian accordion row -->
-  <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
-    <span class="flagspan"><img class="flag" src="flags/svg/NO.svg" /></span>
-    <span class="doublewidespan">Norwegian</span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="55,410 tokens 55,410 words 55,410 nodes 5,250 sentences">55K</span></span>
-    <!-- English has so many genres that they no longer fit in doublewidespan. -->
-    <span class="triplewidespan"><span class="hint--top hint--info" data-hint="spoken"><i class="fa fa-comment-o"></i></span></span>
-    <span class="triplewidespan">IE, Germanic</span>
-  </div>
-  <!-- end of Norwegian accordion row -->
+  <details class="ud-accordion" name="ud-language-retired">
+    <summary id="language-retired-no">
+      <span class="flagspan"><img class="flag" src="flags/svg/NO.svg" alt="" loading="lazy" decoding="async" /></span>
+      <span class="doublewidespan">Norwegian</span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="55,410 tokens 55,410 words 55,410 nodes 5,250 sentences">55K</span></span>
+      <!-- English has so many genres that they no longer fit in doublewidespan. -->
+      <span class="triplewidespan"><span class="hint--top hint--info" data-hint="spoken"><i class="fa fa-comment-o"></i></span></span>
+      <span class="triplewidespan">IE, Germanic</span>
+    </summary>
+    <div class="ud-accordion-body">
 
-  <!-- start of Norwegian accordion body -->
-  <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="" role="tabpanel">
-  <!--initial style="height:558.8px; display: none" would make the page a bit better before setup is done but the height of the subaccordions would not be measured correctly-->
-
-    <!-- empty space so tooltip fits -->
     <h3>Norwegian treebanks</h3>
 
     <!-- start of Norwegian treebank list -->
-    <div class="jquery-ui-subaccordion-closed ui-accordion ui-widget ui-helper-reset ui-accordion-icons" role="tablist">
-      
-      <!-- start of Norwegian / NynorskLIA entry -->
-      <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
+    
+    <details class="ud-accordion ud-subaccordion" name="ud-treebank-retired-no">
+      <summary>
         <span class="flagspan"></span>
         <span class="doublewidespan">NynorskLIA</span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="55,410 tokens 55,410 words 55,410 nodes 5,250 sentences">55K</span></span>
@@ -517,8 +460,8 @@ The original sentences are from `Corpus of Historical Japanese&#39; (CHJ).
         <span class="doublewidespan"><span class="hint--top hint--info" data-hint="spoken"><i class="fa fa-comment-o"></i></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-SA 4.0"><img class="license" src="logos/by-sa.svg" /></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="Size/quality/diversity score=0.006970"><img src="/img/stars00.png" style="max-height:1em; vertical-align:middle" /></span></span>
-      </div>
-      <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="height: 149.8px;">
+      </summary>
+      <div class="ud-accordion-body">
 
         This Norwegian treebank is based on the LIA treebank of transcribed spoken Norwegian dialects.
 The treebank has been automatically converted to the UD scheme by Lilja Øvrelid at the University of Oslo.
@@ -531,11 +474,10 @@ The treebank has been automatically converted to the UD scheme by Lilja Øvrelid
           <li><a href="#download">Download</a></li>
         </ul>
 
-        <p>&nbsp;</p>
       </div>
-      <!-- end of Norwegian / NynorskLIA entry -->
-      
-    </div> <!-- end of Norwegian treebank list -->
+    </details>
+    
+    <!-- end of Norwegian treebank list -->
 
     
     See <a href="treebanks/no-comparison.html">here</a> for comparative statistics of Norwegian treebanks.
@@ -547,35 +489,29 @@ The treebank has been automatically converted to the UD scheme by Lilja Øvrelid
     See the <a href="no/index.html">language documentation page</a>.
     
 
-  </div>
-  <!-- end of Norwegian accordion body -->
-
-  <!-- Except for class="jquery-ui-subaccordion-closed", all attributes of the accordion-related div elements can be generated during initialization of the page. However, the initialization takes up to 10 seconds and we want something reasonably nice to be visible as soon as possible. -->
+    </div>
+  </details>
+  <!-- end of Norwegian accordion row -->
 
   <!-- start of Soi accordion row -->
-  <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
-    <span class="flagspan"><img class="flag" src="flags/svg/IR.svg" /></span>
-    <span class="doublewidespan">Soi</span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
-    <span class="widespan"><span class="hint--top hint--info" data-hint="55 tokens 55 words 55 nodes 8 sentences">&lt;1K</span></span>
-    <!-- English has so many genres that they no longer fit in doublewidespan. -->
-    <span class="triplewidespan"><span class="hint--top hint--info" data-hint="grammar-examples spoken"><i class="fa fa-magic"></i><i class="fa fa-comment-o"></i></span></span>
-    <span class="triplewidespan">IE, Iranian</span>
-  </div>
-  <!-- end of Soi accordion row -->
+  <details class="ud-accordion" name="ud-language-retired">
+    <summary id="language-retired-soj">
+      <span class="flagspan"><img class="flag" src="flags/svg/IR.svg" alt="" loading="lazy" decoding="async" /></span>
+      <span class="doublewidespan">Soi</span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="1 treebank">1</span></span>
+      <span class="widespan"><span class="hint--top hint--info" data-hint="55 tokens 55 words 55 nodes 8 sentences">&lt;1K</span></span>
+      <!-- English has so many genres that they no longer fit in doublewidespan. -->
+      <span class="triplewidespan"><span class="hint--top hint--info" data-hint="grammar-examples spoken"><i class="fa fa-magic"></i><i class="fa fa-comment-o"></i></span></span>
+      <span class="triplewidespan">IE, Iranian</span>
+    </summary>
+    <div class="ud-accordion-body">
 
-  <!-- start of Soi accordion body -->
-  <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" style="" role="tabpanel">
-  <!--initial style="height:558.8px; display: none" would make the page a bit better before setup is done but the height of the subaccordions would not be measured correctly-->
-
-    <!-- empty space so tooltip fits -->
     <h3>Soi treebanks</h3>
 
     <!-- start of Soi treebank list -->
-    <div class="jquery-ui-subaccordion-closed ui-accordion ui-widget ui-helper-reset ui-accordion-icons" role="tablist">
-      
-      <!-- start of Soi / AHA entry -->
-      <div class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" aria-selected="false" tabindex="-1">
+    
+    <details class="ud-accordion ud-subaccordion" name="ud-treebank-retired-soj">
+      <summary>
         <span class="flagspan"></span>
         <span class="doublewidespan">AHA</span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="55 tokens 55 words 55 nodes 8 sentences">&lt;1K</span></span>
@@ -584,8 +520,8 @@ The treebank has been automatically converted to the UD scheme by Lilja Øvrelid
         <span class="doublewidespan"><span class="hint--top hint--info" data-hint="grammar-examples spoken"><i class="fa fa-magic"></i><i class="fa fa-comment-o"></i></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="CC BY-SA 4.0"><img class="license" src="logos/by-sa.svg" /></span></span>
         <span class="widespan"><span class="hint--top hint--info" data-hint="Size/quality/diversity score=0.329638"><img src="/img/stars15.png" style="max-height:1em; vertical-align:middle" /></span></span>
-      </div>
-      <div class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="height: 149.8px;">
+      </summary>
+      <div class="ud-accordion-body">
 
         The AHA Soi Treebank is a small treebank for contemporary Soi. Its corpus is collected and annotated manually. We have prepared this treebank based on interviews with Soi speakers.
 
@@ -597,11 +533,10 @@ The treebank has been automatically converted to the UD scheme by Lilja Øvrelid
           <li><a href="#download">Download</a></li>
         </ul>
 
-        <p>&nbsp;</p>
       </div>
-      <!-- end of Soi / AHA entry -->
-      
-    </div> <!-- end of Soi treebank list -->
+    </details>
+    
+    <!-- end of Soi treebank list -->
 
     
 
@@ -611,6 +546,7 @@ The treebank has been automatically converted to the UD scheme by Lilja Øvrelid
     See the <a href="soj/index.html">language documentation page</a>.
     
 
-  </div>
-  <!-- end of Soi accordion body -->
+    </div>
+  </details>
+  <!-- end of Soi accordion row -->
 
