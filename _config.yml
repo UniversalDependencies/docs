@@ -573,6 +573,8 @@ collections:
     output: true
   ks:
     output: true
+  ce:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
