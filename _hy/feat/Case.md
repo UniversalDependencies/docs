@@ -26,11 +26,11 @@ Here on the level of morphosyntactic features we are dealing with case expressed
 
 Armenian linguistics distinguishes between five (morphological) and seven (syntactic) cases: `Nom`, `Gen`, `Dat`, `Acc`, `Abl`, `Ins` and `Loc` (this ordering is fixed in the grammar).
 
-Note, that the direct object of the verb can be formed in nominative or dative (syntactic accusative), this is related to [Animacy](). They will be tagged `Case=Nom` and `Case=Dat` and not `Case=Nom,Acc` or `Case=Gen,Dat` as in some Armenian grammars.
+Note that the direct object of the verb can be formed in nominative or dative (syntactic accusative), this is related to [Animacy](). They will be tagged `Case=Nom` and `Case=Dat` and not `Case=Nom,Acc` or `Case=Gen,Dat` as in some Armenian grammars.
 
-The difference between `Gen` and `Dat` is related to [definiteness](Definite). The `Gen` can not have `Definite=Def`.
+The difference between `Gen` and `Dat` is related to [definiteness](Definite). The `Gen` cannot have `Definite=Def`.
 
-Note also, that vocatives and noun modifiers as an attribute in nominative or as a genitive complement in genitive can not have `Definite=Def`. In these cases we declare `Definite=Ind`. Only this value will have also `Ins`, `Abl` and `Loc` cases.
+Note also that vocatives and noun modifiers as an attribute in nominative or as a genitive complement in genitive cannot have `Definite=Def`. In these cases we declare `Definite=Ind`. Only this value will have also `Ins`, `Abl` and `Loc` cases.
 
 Personal and some demonstrative pronouns distinguish between `Case=Gen` and `Case=Dat`. In genitive they will have `Poss=Yes`.
 
@@ -54,7 +54,7 @@ In Armenian this is the word form used for subjects of clauses, for direct objec
 
 ### <a name="Gen">`Gen`</a>: genitive
 
-In many languages prototypical meaning of genitive is that the noun phrase somehow belongs to its governor.
+In many languages, the prototypical meaning of the genitive is that the noun phrase somehow belongs to its governor.
 
 We do not recognize the genitive except for possessive personal, some demonstrative pronouns/determiners and _իր_/_ir_ “one’s own”.
 
@@ -67,7 +67,7 @@ We do not recognize the genitive except for possessive personal, some demonstrat
 
 This is the word form often used for indirect objects of verbs.
 
-In Armenian this form is used also for cases when the noun phrase somehow belongs to its governor (adnominal dative) or depends on the verb (adverbal dative), see above.
+In Armenian, this form is used also for cases when the noun phrase somehow belongs to its governor (adnominal dative) or depends on the verb (adverbal dative), see above.
 
 #### Examples
 
