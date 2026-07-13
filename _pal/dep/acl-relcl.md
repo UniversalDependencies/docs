@@ -24,7 +24,7 @@ mark(grift, kē)
 nsubj(grift, =š)
 acl:relcl(grift, dām)
 mark(āfurrīhist, ī)
-obl(āfurrīhist, =š2)
+obl(āfurrīhist, =š)
 acl:relcl(xwēškārīh, āfurrīhist)
 ~~~
 
