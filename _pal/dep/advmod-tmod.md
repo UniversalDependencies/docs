@@ -13,9 +13,9 @@ The word _pas_ "after" can both be spatial (following), temporal (then, afterwar
 ~~~ sdparse
 pas ardwahišt ud pas šahrewar pas spandārmad ud pas hordād amurdād brēhēnīd \n after Ardwahišt and after Šahrewar after Spandārmad and after Hordād Amurdād created
 advmod:tmod(ardwahišt, pas)
-advmod:tmod(šahrewar, pas)
-advmod:tmod(spandārmad, pas)
-advmod:tmod(hordād, pas)
+advmod:tmod(šahrewar, pas-4)
+advmod:tmod(spandārmad, pas-6)
+advmod:tmod(hordād, pas-9)
 ~~~
 
 - "And after the judgement, (the soul is) in its own joy."
