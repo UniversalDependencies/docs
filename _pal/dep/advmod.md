@@ -14,7 +14,7 @@ case(ēmēd, rāy)
 det(ranǰ, was)
 obj(padīrēnd, ranǰ)
 advmod(padīrēnd, kāmagīhā)
-case(grīw, ō)
+case(grīw, ō-12)
 obl(padīrēnd, grīw)
 ~~~
 
@@ -24,7 +24,7 @@ abar husrawīh ēdar bōzišn ī ānōh pādāšn ī andar harw dō \n on good_r
 advmod(husrawīh, ēdar)
 det(ānōh, ī)
 advmod(bōzišn, ānōh)
-det(dō, ī)
+det(dō, ī-8)
 case(dō, andar)
 det(dō, harw)
 nmod(pādāšn, dō)
