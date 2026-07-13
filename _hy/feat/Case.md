@@ -18,7 +18,7 @@ udver: '2'
 </tr>
 </table>
 
-Case is an inflectional feature of [nouns](NOUN) and [pronouns](PRON). It is also an inflectional feature of some [adpositions](ADP) (and not a valency feature indicating that the adposition requires its argument to be in a particular case).
+Case is an inflectional feature of [nouns](NOUN) and [pronouns](PRON). It is also an inflectional feature of certain [adpositions](ADP) (and not a valency feature indicating that the adposition requires its argument to be in a particular case).
 
 Case helps specify the role of the noun phrase in the sentence.
 
@@ -37,9 +37,9 @@ Personal and some demonstrative pronouns distinguish between `Case=Gen` and `Cas
 #### Examples
 
 * singular nominative _դպրոց_/_dproc’_ “school”, dative _դպրոցի(ն)_/_dproc’i(n)_, ablative _դպրոցից_/_dproc’ic’_, instrumental _դպրոցով_/_dproc’ov_, locative _դպրոցում_/_dproc’owm_
-* singular nominative _ժամանակ_/_žamanak_ “time”, dative _ժամանակի(ն)_/_žamanaki(n)_, _ժամանակվա(ն)_/_žamanakva(n)_, ablative _ժամանակից, ժամանակվանից_/_žamanakic’, žamanakvanic’_, instrumental _ժամանակով_/_žamanakov_ locative _ժամանակում_/_žamanakowm_
+* singular nominative _ժամանակ_/_žamanak_ “time”, dative _ժամանակի(ն)_/_žamanaki(n)_, _ժամանակվա(ն)_/_žamanakva(n)_, ablative _ժամանակից, ժամանակվանից_/_žamanakic’, žamanakvanic’_, instrumental _ժամանակով_/_žamanakov_, locative _ժամանակում_/_žamanakowm_
 * singular nominative _արյուն_/_aryown_ “blood”, dative _արյան(ը)_/_aryan(ë)_, ablative _արյունից_/_aryownic’_, instrumental _արյունով, արյամբ_/_aryownov, aryamb_
-* singular nominative _մայր_/_mayr_ “mother”, dative _մոր(ը)_/_mor(ë)_ ablative _մորից_/_moric’_ instrumental _մորով_/_morov_
+* singular nominative _մայր_/_mayr_ “mother”, dative _մոր(ը)_/_mor(ë)_, ablative _մորից_/_moric’_, instrumental _մորով_/_morov_
 
 
 ### <a name="Nom">`Nom`</a>: nominative
@@ -56,7 +56,7 @@ In Armenian this is the word form used for subjects of clauses, for direct objec
 
 In many languages, the prototypical meaning of the genitive is that the noun phrase somehow belongs to its governor.
 
-We do not recognize the genitive except for possessive personal, some demonstrative pronouns/determiners and _իր_/_ir_ “one’s own”.
+We recognize genitive only for possessive personal pronouns, certain demonstrative pronouns/determiners, and _իր_/_ir_ “one’s own”.
 
 #### Examples
 
@@ -67,22 +67,23 @@ We do not recognize the genitive except for possessive personal, some demonstrat
 
 This is the word form often used for indirect objects of verbs.
 
-In Armenian, this form is used also for cases when the noun phrase somehow belongs to its governor (adnominal dative) or depends on the verb (adverbal dative), see above.
+In Armenian, this form is also used for cases when the noun phrase somehow belongs to its governor (adnominal dative) or depends on the verb (adverbal dative), see above.
 
 #### Examples
 
-* _պատվերներ պետք է տալ <b>նորոգողներին</b>_/_patverner petk’ ē tal <b>norogoġnerin</b>_ “we should give orders to the workers” (_նորոգողներին_ “workers” is dative and _պատվերներ_ “orders” is nominative),
+* _պատվերներ պետք է տալ <b>նորոգողներին</b>_/_patverner petk’ ē tal <b>norogoġnerin</b>_ “orders should be give to the repairmen” (_նորոգողներին_ “repairmen” is dative and _պատվերներ_ “orders” is nominative),
 * _Երևանը <b>Հայաստանի</b> մայրաքաղաքն է։_/_Erewanë <b>Hayastani</b> mayrak’aġak’n ē_ “Yerevan is the capital <b>of Armenia</b>.”
 
 
 ### <a name="Acc">`Acc`</a>: accusative
 
-Perhaps the second most widely spread morphological case.
-This is the word form most frequently used for direct objects of verbs, see above.
+Although accusative is one of the most widespread morphological cases cross-linguistically, we do not distinguish a separate morphological accusative. Direct objects are expressed by nominative or dative forms (see above).
 
 #### Examples
 
+* _այդպիսի <b>բաներ</b> շատ են սիրում_/_aydpisi <b>baner</b> šat en sirowm_ “(they) like such <b>things</b> very much”
 * _Եղբայրս սիրում է <b>Աննային</b>։_/_Eġbayrs sirowm ē <b>Annayin</b>_ “My brother loves <b>Anna</b>.”
+
 
 ### <a name="Abl">`Abl`</a>: ablative
 
@@ -90,21 +91,23 @@ Prototypical meaning: direction from some point (object, location or time).
 
 #### Examples
 
-* _սեղանից_ "from the table"
-* _ծովափից_ "from the beach"
-* _ամառվանից_ "from the summer"
+* _սեղանից_/_seġanic’_ "from the table"
+* _ծովափից_/_çovap’ic’_ "from the beach"
+* _ամառվանից_/_amaṙvanic’_ "from the summer"
+
 
 ### <a name="Ins">`Ins`</a>: instrumental
 
-The role from which the name of the instrumental case is derived isthat the noun is used as instrument to do something (as in _գրել<b>գրիչով</b>_ “to write <b>using a pen</b>”).
+The role from which the name of the instrumental case is derived is that the noun is used as instrument to do something (as in _գրել<b>գրիչով</b>_/_grel<b>gričov</b>_ “to write <b>with a pen</b>”).
 Many other meanings are possible, for example the instrumental is required and it includes the meaning expressed in other languages by adverbs of manner.
 
 In Armenian the instrumental is also used for the agent-object in passive constructions (cf. the English preposition _by, with_).
 
 #### Examples
 
-* _Օրինագիծը <b>դժվարությամբ</b> հաստատվեց։_ “This bill was approved <b>with difficulty</b>.”
-* _Գետնինը ծածկվեց <b>ձյունով</b>։_ “The earth has been covered <b>with snow</b>.” (Passive example)
+* _Օրինագիծը <b>դժվարությամբ</b> հաստատվեց։_/_Òrinagiçë <b>džvarowt’yamb</b> hastatvec’։_ “The bill was approved <b>with difficulty</b>.”
+* _Գետնինը ծածկվեց <b>ձյունով</b>։_/_Getninë çaçkvec’ <b>jyownov</b>։_ “The earth has been covered <b>with snow</b>.” (Passive example)
+
 
 ### <a name="Loc">`Loc`</a>: locative
 
@@ -113,6 +116,6 @@ may be expressed using other cases (e.g. because those cases are required by a p
 
 #### Examples
 
-* _Հուլիսին ես <b>Շվեդիայում</b> էի։_ “In July I was in <b>Sweden</b>.”
-* _Մի <b>ժամում</b> հասավ։_ “lit: He got there in an <b>hour</b>.”
+* _Նա 7-10 օր անցկացնելու է <b>Հայաստանում</b>։_/_Na 7-10 òr anc’kac’nelow ē <b>Hayastanowm</b>։_ “He/She will spend 7-10 days <b>in Armenia</b>.”
+* _փլվեց տասը <b>օրում</b>_/_p’lvec’ tasë <b>òrowm</b>_ “it collapsed <b>in ten days</b>”
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->
