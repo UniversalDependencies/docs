@@ -41,12 +41,12 @@ If the relative clause is a nominal clause and introduced by the relativizer _ī
 - nominal modifier: "the vitalising spirit between soul (and) body"
 ~~~ sdparse
 mēnōy ī zīyēnāg ī andarg ruwān tan \n spirit EZ vitalising REL between soul body
-mark(ruwān, ī)
+mark(ruwān, ī-4)
 acl:relcl(mēnōy, ruwān)
 ~~~
 ~~~ sdparse
 mēnōy ī zīyēnāg ī andarg ruwān tan \n spirit EZ vitalising EZ between soul body
-det(ruwān, ī)
+det(ruwān, ī-4)
 nmod(mēnōy, ruwān)
 ~~~
 
