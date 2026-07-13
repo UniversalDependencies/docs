@@ -24,28 +24,26 @@ Case helps specify the role of the noun phrase in the sentence.
 
 Here on the level of morphosyntactic features we are dealing with case expressed morphologically, i.e. by bound morphemes (affixes). The descriptions of the individual case values below include semantic hints about the prototypical meaning of the case. Bear in mind that quite often a case will be used for a meaning that is totally unrelated to the meaning mentioned here. Valency of verbs, adpositions and other words will determine that the noun phrase must be in a particular grammatical case to fill a particular valency slot (semantic role).
 
-Armenian linguistics distinguishes between five (morphological) and seven (syntactic) cases: `Nom`, `Gen`, `Dat`, `Acc`, `Abl`, `Ins` and `Loc` (this ordering is fixed in the grammar).
-
-Note that the direct object of the verb can be formed in nominative or dative (syntactic accusative), this is related to [Animacy](). They will be tagged `Case=Nom` and `Case=Dat` and not `Case=Nom,Acc` or `Case=Gen,Dat` as in some Armenian grammars.
+Western Armenian linguistics distinguishes between four (morphological) and six (syntactic) cases: `Nom`, `Gen`, `Dat`, `Acc`, `Abl` and `Ins`.
 
 The difference between `Gen` and `Dat` is related to [definiteness](Definite). The `Gen` cannot have `Definite=Def`.
 
-Note also that vocatives and noun modifiers as an attribute in nominative or as a genitive complement in genitive cannot have `Definite=Def`. In these cases we declare `Definite=Ind`. Only this value will have also `Ins`, `Abl` and `Loc` cases.
+Note also that vocatives and noun modifiers in nominative cannot have `Definite=Def`. In these cases we declare `Definite=Ind`. Only this value will have also `Ins` and `Abl` cases.
 
 Personal and some demonstrative pronouns distinguish between `Case=Gen` and `Case=Dat`. In genitive they will have `Poss=Yes`.
 
 #### Examples
 
-* singular nominative _դպրոց_/_dproc’_ “school”, dative _դպրոցի(ն)_/_dproc’i(n)_, ablative _դպրոցից_/_dproc’ic’_, instrumental _դպրոցով_/_dproc’ov_, locative _դպրոցում_/_dproc’owm_
-* singular nominative _ժամանակ_/_žamanak_ “time”, dative _ժամանակի(ն)_/_žamanaki(n)_, _ժամանակվա(ն)_/_žamanakva(n)_, ablative _ժամանակից, ժամանակվանից_/_žamanakic’, žamanakvanic’_, instrumental _ժամանակով_/_žamanakov_, locative _ժամանակում_/_žamanakowm_
-* singular nominative _արյուն_/_aryown_ “blood”, dative _արյան(ը)_/_aryan(ë)_, ablative _արյունից_/_aryownic’_, instrumental _արյունով, արյամբ_/_aryownov, aryamb_
-* singular nominative _մայր_/_mayr_ “mother”, dative _մոր(ը)_/_mor(ë)_, ablative _մորից_/_moric’_, instrumental _մորով_/_morov_
+* singular nominative _դպրոց_/_dproc’_ “school”, dative _դպրոցի(ն)_/_dproc’i(n)_, ablative _դպրոցէ_/_dproc’ē_, instrumental _դպրոցով_/_dproc’ov_,
+* singular nominative _ժամանակ_/_žamanak_ “time”, dative _ժամանակի(ն)_/_žamanaki(n)_, _ժամանակվա(ն)_/_žamanakva(n)_, ablative _ժամանակէ_/_žamanakē_, instrumental _ժամանակով_/_žamanakov_,
+* singular nominative _արիւն_/_ariwn_ “blood”, dative _արիւնի, արեան_/_ariwni, arean_, ablative _արյունէ_/_aryownic’_, instrumental _արիւնով_/_ariwnov_
+* singular nominative _մայր_/_mayr_ “mother”, dative _մօր(ը)_/_mòr(ë)_, ablative _մօրէ_/_mòrē_, instrumental _մօրով_/_morov_
 
 
 ### <a name="Nom">`Nom`</a>: nominative
 
 The base form of the noun, also used as citation form (lemma).
-In Armenian this is the word form used for subjects of clauses, for direct objects of verbs and for addressing someone.
+In Western Armenian this is the word form used for subjects of clauses, for direct objects of verbs and for addressing someone.
 
 #### Examples
 
@@ -56,7 +54,7 @@ In Armenian this is the word form used for subjects of clauses, for direct objec
 
 In many languages, the prototypical meaning of the genitive is that the noun phrase somehow belongs to its governor.
 
-We recognize genitive only for possessive personal pronouns, certain demonstrative pronouns/determiners, and _իր_/_ir_ “one’s own”.
+We recognize genitive only for possessive personal pronouns and _իր_/_ir_ “one’s own”.
 
 #### Examples
 
@@ -67,11 +65,11 @@ We recognize genitive only for possessive personal pronouns, certain demonstrati
 
 This is the word form often used for indirect objects of verbs.
 
-In Armenian, this form is also used for cases when the noun phrase somehow belongs to its governor (adnominal dative) or depends on the verb (adverbal dative), see above.
+In Western Armenian, this form is also used for cases when the noun phrase somehow belongs to its governor (adnominal dative) or depends on the verb (adverbal dative), see above.
 
 #### Examples
 
-* _պատվերներ պետք է տալ <b>նորոգողներին</b>_/_patverner petk’ ē tal <b>norogoġnerin</b>_ “orders should be give to the repairmen” (_նորոգողներին_ “repairmen” is dative and _պատվերներ_ “orders” is nominative),
+* _գրականութիւնը կրնայ ծառայել զանգուածին ալ <b>շահերուն</b>_/_grakanowt’iwnë krnay çaṙayel zangowaçin al <b>šaherown</b>_ “Literature can also serve the interests of the masses”
 * _Երևանը <b>Հայաստանի</b> մայրաքաղաքն է։_/_Erewanë <b>Hayastani</b> mayrak’aġak’n ē_ “Yerevan is the capital <b>of Armenia</b>.”
 
 
