@@ -14,10 +14,10 @@ nmod(šudan, rāh)
 det(wahišt, ī)
 case(wahišt, ō)
 nsubj(šudan, wirrōyišn)
-det(rāst, ī)
+det(rāst, ī-7)
 amod(wirrōyišn, rāst)
 conj(wirrōyišn, kunišn)
-det(nēk, ī)
+det(nēk, ī-10)
 amod(kunišn, nēk)
 ~~~
 
