@@ -22,14 +22,14 @@ compound:lvc(kirdan, uzēnag)
 obj(kirdan, bar)
 ~~~
 
-- preferred analysis: "The spirit of wisdom replied that wisdom, which (is) not accompanied by goodness cannot be considered as wisdom."
+- preferred analysis: "The spirit of wisdom replied that wisdom which (is) not accompanied by goodness cannot be considered as wisdom."
 ~~~ sdparse
 mēnōy ī xrad passox kird kū xrad kē =š wehīh nē abāg pad xrad nē dārišn \n spirit EZ wisdom reply made that wisdom REL it goodness not with as wisdom not consider.NEC
 compound:lvc(kird, passox)
 mark(dārišn, kū)
 ccomp(kird, dārišn)
 ~~~
-- dispreferred analysis: "The spirit of wisdom gave the answer that wisdom, which (is) not accompanied by goodness cannot be considered as wisdom."
+- dispreferred analysis: "The spirit of wisdom gave the answer that wisdom which (is) not accompanied by goodness cannot be considered as wisdom."
 ~~~ sdparse
 mēnōy ī xrad passox kird kū xrad kē =š wehīh nē abāg pad xrad nē dārišn \n spirit EZ wisdom reply made that wisdom REL it goodness not with as wisdom not consider.NEC
 obj(kird, passox)
