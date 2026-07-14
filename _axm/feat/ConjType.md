@@ -12,14 +12,12 @@ udver: '2'
   </tr>
 </table>
 
-This feature further subclassifies the parts of speech [CCONJ]() and [SCONJ]();
-in Middle Armenian it is used only with `CCONJ`. The main distinction between coordinating and
-subordinating conjunctions is done already at the part-of-speech level.
+This feature further subclassifies the parts of speech [CCONJ]() and [SCONJ](); in Middle Armenian it is used only with `CCONJ`. The main distinction between coordinating and subordinating conjunctions is done already at the part-of-speech level.
 
 ### <a name="Comp">`Comp`</a>: comparing conjunction
 
 #### Examples 
 
-* _<b>ոչ եթե</b>... <b>այլ</b>_ “not... but”
+* _<b>ոչ եթե</b>... <b>այլ</b>_/_<b>oč et’e</b>... <b>ayl</b>_ “not... but”
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:47 CEST -->
