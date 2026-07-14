@@ -78,7 +78,7 @@ Note that the meaning of `Dat` is also expressed by a preposition with a noun in
 
 ### <a name="Acc">`Acc`</a>: accusative
 
-The accusative case is most frequently used for direct objects of transitive verbs. Singular nouns in accusative have the same form as the nominative but they are usually combined with the proclitic particle _զ/z_.
+The accusative case is most frequently used for direct objects of transitive verbs. Singular nouns in accusative have the same form as the nominative, but they are usually combined with the proclitic particle _զ/z_.
 Plural nouns ending with the plural suffix _ք_/_k'_ have distinct nominative and accusative forms because of the plural suffix, which becomes _ս_/_s_.
 
 #### Examples
@@ -89,7 +89,7 @@ Plural nouns ending with the plural suffix _ք_/_k'_ have distinct nominative an
 
 ### <a name="Abl">`Abl`</a>: ablative
 
-Prototypical meaning: direction from some point (object, location or time). In Middle Armenian, the ablative case is expressed in different ways: with or without the preposition _ի_/_i_, combined with a noun in the dative or ablative case; hence, ablative meaning is determined only by context.
+Prototypical meaning: direction from some point (object, location or time). In Middle Armenian, the ablative case is expressed in different ways: with or without the preposition _ի_/_i_, combined with a noun in the dative or ablative case; hence, ablative meaning is determined by context.
 
 #### Examples
 
@@ -109,13 +109,14 @@ The role from which the name of the instrumental case is derived is that the nou
 * _<b>կամօքն</b> Աստուծոյ_/_kamòk’n Astowçoy_ “by the will of God”
 * _Եւ <b>քարամբ</b> խիստ քարկոծեցաւ_/_Ew k’aramb xist k’arkoçec’aw_ “And he was severely pelted with <b>stones</b>.” (Passive example)
 
+
 ### <a name="Loc">`Loc`</a>: locative
 
 The locative case often expresses location in space or time. As elsewhere, non-locational meanings also exist and they are not rare.
-In Middle Armenian pronouns do not have `Loc` case. It's also rarely used with nouns. In most cases, its meaning is expressed by a preposition with a noun in the`Gen`-`Dat` (genarally for singular nouns) and in the `Acc` (generally for plural nouns).
+In Middle Armenian pronouns do not have `Loc` case. It's also rare with nouns. In most cases, its meaning is expressed by a preposition with a noun in the `Gen`-`Dat` (generally for singular nouns) and in the `Acc` (generally for plural nouns).
 
 #### Examples
 
-* _Ձագերն ձայն ածեն <b>յայգին</b>։_/_Jagern jayn açen yaygin_ “(Some animals') young ones are making noise <b>in the garden</b>.”
+* _Ձագերն ձայն ածեն <b>յայգին</b>։_/_Jagern jayn açen yaygin_ “(Some animals') young ones are making noise <b>in the garden</b>”
 * _<b>յաւազանն</b> մտանէ_/_yawazann mtanē_ “he gets <b>into the pool</b>”
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->
