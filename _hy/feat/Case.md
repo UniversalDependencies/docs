@@ -98,7 +98,7 @@ Prototypical meaning: direction from some point (object, location or time).
 
 ### <a name="Ins">`Ins`</a>: instrumental
 
-The role from which the name of the instrumental case is derived is that the noun is used as instrument to do something (as in _գրել<b>գրիչով</b>_/_grel<b>gričov</b>_ “to write <b>with a pen</b>”).
+The role from which the name of the instrumental case is derived is that the noun is used as instrument to do something (as in _գրել <b>գրիչով</b>_/_grel <b>gričov</b>_ “to write <b>with a pen</b>”).
 Many other meanings are possible, for example the instrumental is required and it includes the meaning expressed in other languages by adverbs of manner.
 
 In Armenian the instrumental is also used for the agent-object in passive constructions (cf. the English preposition _by, with_).
