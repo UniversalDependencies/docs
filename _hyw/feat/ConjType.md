@@ -13,23 +13,21 @@ udver: '2'
 </tr>
 </table>
 
-This feature further subclassifies the parts of speech [CCONJ]() and [SCONJ](); in Western Armenian it is used only with `CCONJ`. The main distinction between coordinating and
-subordinating conjunctions is done already at the part-of-speech level.
+This feature further subclassifies the parts of speech [CCONJ]() and [SCONJ](); in Western Armenian it is used only with `CCONJ`. The main distinction between coordinating and subordinating conjunctions is done already at the part-of-speech level.
 
 ### <a name="Comp">`Comp`</a>: comparing conjunction
 
 #### Examples 
 
-* _<b>ոչ միայն</b>... <b>այլեւ</b>_ “as... than”
-* _<b>ոչ թէ</b>... <b>այլ</b>_ “...”
+* _<b>ոչ միայն</b> ... <b>այլեւ</b>_/_<b>oč miayn</b> ... <b>aylew</b>_ “not only ... but also”
+* _<b>ոչ թէ</b> ... <b>այլ</b>_/_<b>oč t’ē</b> ... <b>ayl</b>_ “not ... but”
 
 ### <a name="Oper">`Oper`</a>: mathematical operator
 
-Note that operators can be expressed either using [symbols](SYM) or using words.
-The words are considered special kind of coordinating conjunctions and they are marked using
-`ConjType=Oper`.
+Mathematical operators may be expressed either by [symbols](SYM) or by words.
+Word operators are treated as a special subtype of coordinating conjunctions and are marked with `ConjType=Oper`.
 
 #### Examples
 
-* _<b>x</b>_ “×”, _<b>անգամ</b>_ “times”
+* _<b>x</b>_, _<b>անգամ</b>_/_angam_ “times”
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:47 CEST -->
