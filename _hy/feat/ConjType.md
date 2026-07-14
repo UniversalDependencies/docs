@@ -13,14 +13,14 @@ udver: '2'
 </tr>
 </table>
 
-This feature further subclassifies the parts of speech [CCONJ]() and [SCONJ](); in Armenian it is used only with `CCONJ`. The main distinction between coordinating and subordinating conjunctions is done already at the part-of-speech level.
+This feature further subclassifies the parts of speech [CCONJ]() and [SCONJ](); in Armenian it is used only with `CCONJ`. The main distinction between coordinating and subordinating conjunctions is already done at the part-of-speech level.
 
 ### <a name="Comp">`Comp`</a>: comparing conjunction
 
 #### Examples 
 
-* _<b>ոչ միայն</b> ... <b>այլ նաև</b>_/_<b>oč miayn</b> ... <b>ayl naew</b>_ “not only... but also”
-* _<b>ոչ թե</b> ... <b>այլ</b>_/_<b>oč t’e</b> ... <b>ayl</b>_ “not... but”
+* _<b>ոչ միայն</b> ... <b>այլ նաև</b>_/_<b>oč miayn</b> ... <b>ayl naew</b>_ “not only ... but also”
+* _<b>ոչ թե</b> ... <b>այլ</b>_/_<b>oč t’e</b> ... <b>ayl</b>_ “not ... but”
 
 ### <a name="Oper">`Oper`</a>: mathematical operator
 
@@ -29,5 +29,5 @@ They are considered special kind of coordinating conjunctions and they are marke
 
 #### Examples
 
-* _<b>x</b>_, _<b>անգամ</b>_/_angam_ “times”
+* _<b>x</b>, <b>անգամ</b>_/_angam_ “times”
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:47 CEST -->
