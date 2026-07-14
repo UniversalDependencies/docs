@@ -20,6 +20,7 @@ However, the coordinating conjunction ud 'and' is written with a simple stroke t
 hamāg pad =iš bowandagspāsīhā pad ham stāyišnīgīh ham paristišnīh \n all at it deeply_grateful at also praiseworthiness also reverence
 cc:preconj(stāyišnīgīh, ham-6)
 cc(paristišnīh, ham-8)
+conj(stāyišnīgīh, paristišnīh)
 ~~~
 
 - "and he has both a 'first-level' son and an adopted (son)"
@@ -27,6 +28,7 @@ cc(paristišnīh, ham-8)
 ā =š ud pus ī pāduxšāyīhā ud padīriftag ast \n there him and son EZ authorised and adopted is
 cc:preconj(pus, ud-3)
 cc(padīriftag, ud-7)
+conj(pus, padīriftag)
 ~~~
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:46 CEST -->
