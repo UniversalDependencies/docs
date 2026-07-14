@@ -9,13 +9,8 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 - We have separated words by space. In the manuscripts depending on a scribe's preferences, words are separated by space, are directly adjacent, written together, or ligatures of a single word are separated by space (i.e. one word can look like many).
-- Punctuation exists in Pahlavi texts with divergent use: for highlighting, for indicating a semantic unit, a change of language, or it can be a reading device. We have annotated punctuation as an independent token (represented by ",") unless it appears inside a word (represented by ";" following the given word). It is related to its nearest suitable head unless it clearly marks the end of the sentence, in case of which it depends on the root.
+- Punctuation exists in Pahlavi texts with divergent use: for highlighting, for indicating a semantic unit, a change of language, or it can be a reading device. We have annotated punctuation as an independent token (represented by "," unless it appears inside a word, then represented by ";" following the given word). It is related to its nearest suitable head unless it clearly marks the end of the sentence, in case of which it depends on the root.
 - Compounds are annotated as one word.
-
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
 
 ## Morphology
 
