@@ -12,7 +12,7 @@ udver: '2'
   </tr>
 </table>
 
-This feature further subclassifies the parts of speech [CCONJ]() and [SCONJ](); in Middle Armenian it is used only with `CCONJ`. The main distinction between coordinating and subordinating conjunctions is done already at the part-of-speech level.
+This feature further subclassifies the parts of speech [CCONJ]() and [SCONJ](); in Middle Armenian it is used only with `CCONJ`. The main distinction between coordinating and subordinating conjunctions is already done at the part-of-speech level.
 
 ### <a name="Comp">`Comp`</a>: comparing conjunction
 
