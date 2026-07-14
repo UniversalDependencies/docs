@@ -45,7 +45,7 @@ There are complex prepositions whose original dependency relation is often trans
 ~~~ sdparse
 ud ast ī ka nihānāg ud ast ī ka āškārag mayān ī mardōmān rōyēd \n and is that when secretly and is that when openly middle EZ humans grows
 case(mardōmān, mayān)
-fixed(mayān, ī)
+fixed(mayān, ī-12)
 obl:lmod(rōyēd, mardōmān)
 ~~~
 
@@ -72,8 +72,9 @@ dēwān az tan tarsand čiyōn mēš ī gurgānxwist ka az gurg bōy frāz tarsa
 case(mēš, čiyōn)
 amod(mēš, gurgānxwist)
 det(gurgānxwist, ī)
-acl(mēš, tarsand)
-mark(tarsand, ka)
+obl(tarsand-4, mēš)
+acl(mēš, tarsand-14)
+mark(tarsand-14, ka)
 ~~~
 
 Even though the attributive linker *ezāfe* is comparable to a case marker when it comes to nouns modifying other nouns, the very same linker is used for adjectives, adverbs, appositions, and infinite attributive clauses, which show no sign of substantivization. The *ezāfe* particle is annotated as a determiner.
