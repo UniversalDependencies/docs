@@ -7,7 +7,7 @@ udver: '2'
 
 Adjectival modifiers depend on nominals. The adjectival head can have dependents of its own. The more complex the phrase, the likelier it is an attributive clause. Adjectival modifiers are often linked by the _ezāfe_ particle to their headword.
 
-- "To follow the path to paradise (is) the right believing (and) the good doing."
+- "To follow the path to paradise (is) the right believing (and) the good acting."
 ~~~ sdparse
 rāh ī ō wahišt šudan wirrōyišn ī rāst kunišn ī nēk \n way EZ to paradise going believing EZ right doing EZ good
 nmod(šudan, rāh)
