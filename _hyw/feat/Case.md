@@ -26,18 +26,16 @@ Here on the level of morphosyntactic features we are dealing with case expressed
 
 Western Armenian linguistics distinguishes between four (morphological) and six (syntactic) cases: `Nom`, `Gen`, `Dat`, `Acc`, `Abl` and `Ins`.
 
-The difference between `Gen` and `Dat` is related to [definiteness](Definite). The `Gen` cannot have `Definite=Def`.
+For nouns, the difference between `Gen` and `Dat` is related to [definiteness](Definite). The `Gen` cannot have `Definite=Def`. Personal pronouns, however, distinguish the two cases morphologically. In genitive they will have `Poss=Yes`. Likewise, the nominative and accusative are morphologically distinct only in the paradigms of certain pronouns.
 
-Note also that vocatives and noun modifiers in nominative cannot have `Definite=Def`. In these cases we declare `Definite=Ind`. Only this value will have also `Ins` and `Abl` cases.
-
-Personal and some demonstrative pronouns distinguish between `Case=Gen` and `Case=Dat`. In genitive they will have `Poss=Yes`.
+Note also that vocatives and noun modifiers in nominative cannot have `Definite=Def`. In these cases we declare `Definite=Ind`.
 
 #### Examples
 
 * singular nominative _դպրոց_/_dproc’_ “school”, dative _դպրոցի(ն)_/_dproc’i(n)_, ablative _դպրոցէ_/_dproc’ē_, instrumental _դպրոցով_/_dproc’ov_,
 * singular nominative _ժամանակ_/_žamanak_ “time”, dative _ժամանակի(ն)_/_žamanaki(n)_, _ժամանակվա(ն)_/_žamanakva(n)_, ablative _ժամանակէ_/_žamanakē_, instrumental _ժամանակով_/_žamanakov_,
-* singular nominative _արիւն_/_ariwn_ “blood”, dative _արիւնի, արեան_/_ariwni, arean_, ablative _արյունէ_/_aryownic’_, instrumental _արիւնով_/_ariwnov_
-* singular nominative _մայր_/_mayr_ “mother”, dative _մօր(ը)_/_mòr(ë)_, ablative _մօրէ_/_mòrē_, instrumental _մօրով_/_morov_
+* singular nominative _արիւն_/_ariwn_ “blood”, dative _արիւնի, արեան_/_ariwni, arean_, ablative _արիւնէ_/_ariwnē_, instrumental _արիւնով_/_ariwnov_
+* singular nominative _մայր_/_mayr_ “mother”, dative _մօր(ը)_/_mòr(ë)_, ablative _մօրէ_/_mòrē_, instrumental _մօրով_/_mòrov_
 
 
 ### <a name="Nom">`Nom`</a>: nominative
@@ -54,11 +52,13 @@ In Western Armenian this is the word form used for subjects of clauses, for dire
 
 In many languages, the prototypical meaning of the genitive is that the noun phrase somehow belongs to its governor.
 
-We recognize genitive only for possessive personal pronouns and _իր_/_ir_ “one’s own”.
+We recognize genitive only for possessive personal pronouns and the emphatic pronoun _իր_/_ir_ “one’s own” (see above).
 
 #### Examples
 
-* _իր_/_ir_ “one’s own”
+* _իր_/_ir_ “one's own”
+* _անոր_/_anor_ “his/her”
+* _մեր_/_mer_ “our”
 
 
 ### <a name="Dat">`Dat`</a>: dative
@@ -70,17 +70,17 @@ In Western Armenian, this form is also used for cases when the noun phrase someh
 #### Examples
 
 * _գրականութիւնը կրնայ ծառայել զանգուածին ալ <b>շահերուն</b>_/_grakanowt’iwnë krnay çaṙayel zangowaçin al <b>šaherown</b>_ “Literature can also serve the interests of the masses”
-* _Երևանը <b>Հայաստանի</b> մայրաքաղաքն է։_/_Erewanë <b>Hayastani</b> mayrak’aġak’n ē_ “Yerevan is the capital <b>of Armenia</b>.”
+* _կը սկսին <b>Քէսապի լեռներուն եւ ձորերուն</b> հրաշալի տեսարանները_/_kë sksin <b>K’ēsapi leṙnerown ew jorerown</b> hrašali tesarannerë_ “The wonderful scenery <b>of Kassab's mountains and valleys</b> unfolds.”
 
 
 ### <a name="Acc">`Acc`</a>: accusative
 
-Although accusative is one of the most widespread morphological cases cross-linguistically, we do not distinguish a separate morphological accusative. Direct objects are expressed by nominative or dative forms (see above).
+Although accusative is one of the most widespread morphological cases cross-linguistically, Western Armenian does not distinguish a separate morphological accusative. Direct objects are expressed by nominative forms (see above).
 
 #### Examples
 
 * _այդպիսի <b>բաներ</b> շատ են սիրում_/_aydpisi <b>baner</b> šat en sirowm_ “(they) like such <b>things</b> very much”
-* _Եղբայրս սիրում է <b>Աննային</b>։_/_Eġbayrs sirowm ē <b>Annayin</b>_ “My brother loves <b>Anna</b>.”
+* _Կը սիրէ՞ր արդեօք այն <b>երիտասարդը</b>, որ իր ամուսինը եղած էր_/_Kë sirē՞r ardeòk’ ayn <b>eritasardë</b>, or ir amowsinë eġaç ēr_ “Did she really love <b>the young man</b> who was her husband?”
 
 
 ### <a name="Abl">`Abl`</a>: ablative
@@ -89,31 +89,21 @@ Prototypical meaning: direction from some point (object, location or time).
 
 #### Examples
 
-* _սեղանից_/_seġanic’_ "from the table"
-* _ծովափից_/_çovap’ic’_ "from the beach"
-* _ամառվանից_/_amaṙvanic’_ "from the summer"
+* _գիւղէն_/_giwġēn_ “from the village”
+* _մակերեսէն_/_makeresēn_ “from the surface”
+* _պայքարելէ_/_payk’arelē_ “from struggling”
+* _սկիզբէն_/_skizbēn_ “from the beginning”
 
 
 ### <a name="Ins">`Ins`</a>: instrumental
 
-The role from which the name of the instrumental case is derived is that the noun is used as instrument to do something (as in _գրել<b>գրիչով</b>_/_grel<b>gričov</b>_ “to write <b>with a pen</b>”).
+The role from which the name of the instrumental case is derived is that the noun is used as instrument to do something (as in _<b>ջուրով</b> լուալ_/_<b>ǰowrov</b> lowal_ “to wash <b>with water</b>”).
 Many other meanings are possible, for example the instrumental is required and it includes the meaning expressed in other languages by adverbs of manner.
 
-In Armenian the instrumental is also used for the agent-object in passive constructions (cf. the English preposition _by, with_).
+In Western Armenian the instrumental is also used for the agent-object in passive constructions (cf. the English preposition _by, with_).
 
 #### Examples
 
-* _Օրինագիծը <b>դժվարությամբ</b> հաստատվեց։_/_Òrinagiçë <b>džvarowt’yamb</b> hastatvec’։_ “The bill was approved <b>with difficulty</b>.”
-* _Գետնինը ծածկվեց <b>ձյունով</b>։_/_Getninë çaçkvec’ <b>jyownov</b>։_ “The earth has been covered <b>with snow</b>.” (Passive example)
-
-
-### <a name="Loc">`Loc`</a>: locative
-
-The locative case often expresses location in space or time, which gave it its name. As elsewhere, non-locational meanings also exist and they are not rare. On the other hand, some location roles
-may be expressed using other cases (e.g. because those cases are required by a preposition).
-
-#### Examples
-
-* _Նա 7-10 օր անցկացնելու է <b>Հայաստանում</b>։_/_Na 7-10 òr anc’kac’nelow ē <b>Hayastanowm</b>։_ “He/She will spend 7-10 days <b>in Armenia</b>.”
-* _փլվեց տասը <b>օրում</b>_/_p’lvec’ tasë <b>òrowm</b>_ “it collapsed <b>in ten days</b>”
+* _<b>արհամարհանքով</b> կ՚ըսէին_/_<b>arhamarhank’ov</b> k՚ësēin_ “They used to say <b>with contempt</b>.”
+* _մազերը երկար կտրուած են եւ <b>սանտրով</b> մը բռնուած գլխուն ետեւը_/_mazerë erkar ktrowaç en ew <b>santrov</b> më bṙnowaç glxown etewë_ “The hair is cut long and held at the back of the head <b>with a comb</b>.” (Passive example)
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->
