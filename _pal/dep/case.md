@@ -29,7 +29,7 @@ mark(šud, kē)
 acl:relcl(ōy, šud)
 ~~~
 
-Case relations can be specified by adverbials (*ō* 'to', *andar ō* 'into', *abar ō* 'onto', *bē ō* 'forth/away to', *tā ō* 'up to', etc.). Against UD, we do not analyse those as combinations of prepositions We have to follow UD in assuming a flat structure.
+Case relations can be specified by adverbials (*ō* 'to', *andar ō* 'into', *abar ō* 'onto', *bē ō* 'forth/away to', *tā ō* 'up to', etc.). We have to follow UD in assuming a flat structure. Against UD, we do not analyse those as combinations of prepositions as the prepositional meaning of the single elements may differ (e.g. *bē ō* 'forth/away to', but prepositional *bē* 'without, except').
 
 - "time, which was unlimited up to the act of creation"
 ~~~ sdparse
