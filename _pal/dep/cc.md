@@ -5,12 +5,21 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-A brief description of the dependency relation.
+Coordinating conjunctions in Middle Persian include
+- *ud* 'and'
+- *ayāb* 'or'
+- *bē* 'but'
+- *=iz* 'also, and'
 
+They appear between the coordinated conjuncts except for enclitic *=iz*, which may follow the second.<br>In Middle Persian, clause is usually introduced by a junctor, which is frequently *ud*.
+
+- "And by these five things, a man either becomes evil or dishonoured."
 ~~~ sdparse
-pad nām ī yazadān \n in name Ezafe gods
-case(nām, pad)
-det(yazadān, ī)
-nmod(nām, yazadān)
+ud pad ēn panǰ tis mard druwand ayāb dusraw bawēd \n and by this five thing man evil or dishonoured becomes
+cc(bawēd, ud)
+cc(dusraw, ud)
+conj(druwand, dusraw)
+xcomp(bawēd, druwand)
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:46 CEST -->
