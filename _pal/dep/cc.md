@@ -16,8 +16,8 @@ They appear between the coordinated conjuncts except for enclitic *=iz*, which m
 - "And by these five things, a man either becomes evil or dishonoured."
 ~~~ sdparse
 ud pad ēn panǰ tis mard druwand ayāb dusraw bawēd \n and by this five thing man evil or dishonoured becomes
-cc(bawēd, ud)
-cc(dusraw, ud)
+cc(bawēd, ud-1)
+cc(dusraw, ayāb)
 conj(druwand, dusraw)
 xcomp(bawēd, druwand)
 ~~~
