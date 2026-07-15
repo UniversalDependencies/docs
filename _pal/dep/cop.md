@@ -9,6 +9,7 @@ The copular verb is an independent verb in Middle Persian, which can fully infle
 
 - Despite the hierarchical formation of the copular verb, the person and number marking auxiliary is related to the nominal head.
 <br>"For when I was praiseworthy, then you have made me even more praiseworthy."
+
 ~~~ sdparse
 čē ka burzišnīg būd ham ēg =it burzišnīgtar be kird ham \n for when praiseworthy been am then you more_praiseworthy PFV made am
 mark(burzišnīg, ka)
@@ -19,6 +20,7 @@ aux(burzišnīg, ham)
 - The negation follows its head, which otherwise never happens. Compare *hušnūd nē būd hēnd* with the periphrastic verb form of an optative plurperfect *nē kird ēstād hē*.
 <br>negated copular verb: "And (they) were never satisfied."
 <br>negated full verb: "if (he) has not been clearly branded"
+
 ~~~ sdparse
 ud hagriz hušnūd nē būd hēnd \n and ever satisfied not been are
 advmod(hušnūd, nē)
