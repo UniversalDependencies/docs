@@ -26,8 +26,9 @@ See also the related features of [Person[psor]]() and [Number[psor]]().
 #### Examples
 
 * _մի_/_mi_ (_մն_/_mn_) “a/an, one”
-* _թագուոր մի կայր/t’agowor mi kayr_ “there was a king”
-* _սակաւմն/sakawmn_ “a little”
+* _թագուոր մի կայր_/_t’agowor mi kayr_ “there was a king”
+* _սակաւմն_/_sakawmn_ “a little”
+
 
 ### <a name="Def">`Def`</a>: definite
 
