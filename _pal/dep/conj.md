@@ -21,7 +21,7 @@ nmod(āsānīh, gētī)
 ~~~ sdparse
 u =š amahraspandān ud mēnōy ī xrad čiyōn dād \n and him Amahraspand.PL and spirit EZ wisdom how created
 obj(dād, amahraspandān)
-conj(amahraspandān, mēnōy
+conj(amahraspandān, mēnōy)
 cc(mēnōy, ud)
 det(xrad, ī)
 nmod(mēnōy, xrad)
@@ -33,7 +33,7 @@ ud kē gufsišn ud afsōsgarīh handēšēd dūr dāštan \n and who gossip and 
 nsubj(handēšēd, kē)
 obj(handēšēd, gufsišn)
 cc(afsōsgarīh, ud-4)
-conj(gufsišn, asōsgarīh)
+conj(gufsišn, afsōsgarīh)
 ~~~
 
 Middle Persian has a relatively low referential density and omission of identical parts in coordination is common. This does not pose a problem if coordination only affects two equal parts (e.g. two objects). However, it is also possible to coordinate pairs. In English, these may seem like two coordinated sentences with simple omission of identical parts, e.g. <br>'Peter gives a book to Mary and a voucher to John.' as short for 'Peter gives a book to Mary and (Peter gives) a voucher to John.'<br>In Middle Persian, the most common word order would be: 'Peter a book to Mary and a voucher to John gives.' Following the UD principle of linking conjuncts only to what precedes them would result in a verbless head clause 'Peter a book to Mary' as head of 'and a voucher to John gives.', which is not felicitous.
