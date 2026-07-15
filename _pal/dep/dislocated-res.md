@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-A brief description of the dependency relation.
+mention here expl
 
 ~~~ sdparse
 pad nām ī yazadān \n in name Ezafe gods
