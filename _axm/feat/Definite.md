@@ -17,7 +17,7 @@ udver: '2'
 Definiteness is typically a feature of nouns and articles. Its value distinguishes whether we are talking about something known and concrete, or something general or unknown.
 It can be marked on indefinite [articles](DET), or directly on [nouns](NOUN).
 
-In Middle Armenian, definiteness is expressed by a postposed definite article attached to the noun (_իշխանքն_/_išxankʼn_ “princes-the”). IIndefiniteness is expressed either by the indefinite article _մի/mi (մն/mn)_ “a/an, one” or by the absence of an article (zero marking). Note that the article _մի/mi (մն/mn)_ may sometimes occur attached to the preceding word.
+In Middle Armenian, definiteness is expressed by a postposed definite article _ն_/_n_ attached to the noun (_իշխանքն_/_išxankʼn_ “princes-the”). Indefiniteness is expressed either by the indefinite article _մի/mi (մն/mn)_ “a/an, one” or by the absence of an article (zero marking). Note that the article _մի/mi (մն/mn)_ may sometimes occur attached to the preceding word.
 
 See also the related features of [Person[psor]]() and [Number[psor]]().
 
@@ -27,6 +27,7 @@ See also the related features of [Person[psor]]() and [Number[psor]]().
 
 * _մի_/_mi_ (_մն_/_mn_) “a/an, one”
 * _թագուոր մի կայր_/_t’agowor mi kayr_ “there was a king”
+* _վարդապետի մն խօսքն_/_vardapeti mn xòskʼn_ “the speach of an archpriest (vardapet)”
 * _սակաւմն_/_sakawmn_ “a little”
 
 
