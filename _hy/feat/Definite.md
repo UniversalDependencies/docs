@@ -14,12 +14,10 @@ udver: '2'
 </tr>
 </table>
 
-Definiteness is typically a feature of nouns and
-articles. Its value distinguishes whether we are talking about
-something known and concrete, or something general or unknown.
+Definiteness is typically a feature of nouns and articles. Its value distinguishes whether we are talking about something known and concrete, or something general or unknown.
 It can be marked on indefinite [articles](DET), or directly on [nouns](NOUN).
 
-In Armenian there are definite and indefinite articles. The definite article is part of the word, in postposition (_շունը, շունն_ “dog-the”). The indefinite articles can be: the form _մի_ “a/an, one” or the zero marker.
+In Armenian, definiteness is expressed by a postposed definite article attached to the noun (_շունը, շունն_/_šownë, šownn_ “dog-the”). Indefiniteness is expressed either by the indefinite article _մի_/_mi_ “a/an, one” or by the absence of an article (zero marking).
 
 See also the related features of [Person[psor]]() and [Number[psor]]().
 
@@ -27,12 +25,12 @@ See also the related features of [Person[psor]]() and [Number[psor]]().
 
 #### Examples
 
-* _մի_ “a/an, one”
-* _(մի) <b>շուն</b>_ “(a) <b>dog</b>”
+* _մի_/_mi_ “a/an, one”
+* _(մի) <b>շուն</b>_/_(mi) <b>šown</b>_ “(a) <b>dog</b>”
 
 ### <a name="Def">`Def`</a>: definite
 
 #### Examples
 
-* _<b>շունը, շունն</b>_ “the dog”
+* _<b>շունը, շունն</b>_/_šownë, šownn_ “the dog”
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->
