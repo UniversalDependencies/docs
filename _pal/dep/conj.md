@@ -58,7 +58,7 @@ In the following example, the resumption of the subject by the enclitic pronoun 
 cc(ōzad, u)
 nsubj(ōzad, =m)
 obj(ōzad, duxt)
-nummod(duxt, dō)
+nummod(duxt, nō)
 det(spitāmān, ī)
 nmod(duxt, spitāmān)
 ~~~
@@ -67,13 +67,13 @@ In the following example, the identical verb of the relative clauses has been om
 - "A legal predecessor who (sold) an object to a person and the person whom that object has been sold to, are litigant regarding that object in another town." (omitted word in parantheses)
 ~~~ sdparse
 dastwar kē xwāstag ō kas ud kas kē ān xwāstag awi =š frōxt pad ān xwāstag pad any šahr hamēmāl hēnd \b legal_predecessor REL object to person and person REL that object to him sold at that object in other town litigant are
-cc(kas, ud)
-conj(dastwar, kas)
+cc(kas-7, ud)
+conj(dastwar, kas-7)
 nsubj(hamēmāl, dastwar)
 mark(frōxt, kē-8)
-acl:relcl(kas, frōxt)
-det(xwāstag, det)
-nsubj:pass(frōxt, xwāstag)
+acl:relcl(kas-7, frōxt)
+det(xwāstag-10, det)
+nsubj:pass(frōxt, xwāstag-10)
 case(=š, awi)
 obl(frōxt, =š)
 ~~~
