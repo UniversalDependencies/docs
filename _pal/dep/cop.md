@@ -17,7 +17,7 @@ cop(burzišnīg, būd)
 aux(burzišnīg, ham)
 ~~~
 
-- The negation follows its head, which otherwise never happens. Compare *hušnūd nē būd hēnd* with the periphrastic verb form of an optative plurperfect *nē kird ēstād hē*.
+- The negation follows its head, which otherwise never happens. Compare *hušnūd **nē** būd hēnd* with the periphrastic verb form of an optative plurperfect ***nē** kird ēstād hē*.
 <br>negated copular verb: "And (they) were never satisfied."
 <br>negated full verb: "if (he) has not been clearly branded"
 
