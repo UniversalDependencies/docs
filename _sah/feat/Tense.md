@@ -29,10 +29,6 @@ The present tense form of the third person singular is formed with the help of t
 * _<b>тохтуубун</b>&nbsp;_ “I stop”
 * _<b>көрөр</b>&nbsp;_ “He sees”
 * _<b>олороллор</b>&nbsp;_ “They sit”
-  
-</tr>
-</table>
-
 
 ### <a name="Fut">`Fut`</a>: Future
 
@@ -43,10 +39,6 @@ The future tense is formed with the help of the affix _-ыах_, to which the po
 * _<b>барыаҕым</b>&nbsp;_ “I will go”
 * _<b>барыаҕыҥ</b>&nbsp;_ “You will go”
 * _<b>барыахтара</b>&nbsp;_ “They will go”
-
-</tr>
-</table>
-
 
 ### <a name="NearPast">`NearPast`</a>: Near past (categorical past)
 
@@ -60,9 +52,6 @@ The affixex _-т_, _-д_, _-л_, _-н_ are added to the verb stems, which are fo
 The plural is used with the help of a complex suffix, to which the plural suffix _-лар_ is added.
 * _<b>оонньотулар</b>&nbsp;_ “They played (recently)”
 
-</tr>
-</table>
-
 ### <a name="PastPart">`PastPart`</a>: Past Participle
 
 The past participle is formed from the stem of the verb by the affix _-быт_, _-пыт_, _-мыт_ .
@@ -72,9 +61,6 @@ The past participle is formed from the stem of the verb by the affix _-быт_, 
 * _<b>ууга түспүтүм</b>&nbsp;_ “I fell into water”
 * _<b>түспүт хаар</b>&nbsp;_ “Fallen snow”
 
-</tr>
-</table>
-
 
 ### <a name="Past">`Past`</a>: Past
 
@@ -83,8 +69,6 @@ The past participle is formed from the stem of the verb by the affix _-быт_, 
 * _<b></b>&nbsp;_ “”
 * _<b></b>&nbsp;_ “”
 
-</tr>
-</table>
 
 ### <a name="PastPerf">`PastPerf`</a>: PastPerf
 
@@ -93,8 +77,6 @@ The past participle is formed from the stem of the verb by the affix _-быт_, 
 * _<b></b>&nbsp;_ “”
 * _<b></b>&nbsp;_ “”
 
-</tr>
-</table>
 
 ### <a name="PastResultI">`PastResultI`</a>: PastResultI
 
@@ -102,9 +84,6 @@ The past participle is formed from the stem of the verb by the affix _-быт_, 
 
 * _<b></b>&nbsp;_ “”
 * _<b></b>&nbsp;_ “”
-
-</tr>
-</table>
 
 
 
