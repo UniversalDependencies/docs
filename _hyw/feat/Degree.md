@@ -17,9 +17,9 @@ udver: '2'
 
 Degree of comparison is a grammatical feature of qualitative [adjectives](hy-pos/ADJ) and some [adverbs](hy-pos/ADV).
 
-The comparative (second) degree is formed periphrastically with the adverb _ավելի_ “more” e.g. _աւելի գեղեցիկ_ “more beautiful”, _աւելի արագ_ “more quickly”. We annotate this adverb with the second degree feature.
+The comparative (second) degree is formed periphrastically with the adverb _ավելի_ “more” e.g. _աւելի գեղեցիկ_/_aweli geġecʼik_ “more beautiful”, _աւելի արագ_/_aweli arag_ “more quickly”. We annotate this adverb with the second degree feature.
 
-Note that the superlative degree of adverbs in Armenian is constructed with the definite article, but it is not annotated with the feature [Definite](Definite).
+Note that the superlative degree of adverbs in Armenian is constructed with the definite article (e.g. _նուազագոյնը_/_nowazagoynë_ “at least”), but it is not annotated with the feature [Definite](Definite).
 
 ### <a name="Pos">`Pos`</a>: positive, first degree
 
@@ -27,10 +27,10 @@ This is the base form that merely states a quality of something, without compari
 
 #### Examples
 
-* _<b>խելացի</b> մարդ_/_<b>xelacʼi</b> mard_ “a <b>clever</b> man”
-* _<b>լավ</b> երաժիշտ_/_<b>lav</b> eražišt_ “a <b>good</b> musician”
-* _<b>նոր</b> նմուշ_/_<b>nor</b> nmowš_ “a <b>new</b> specimen”
-* _Նա <b>արագ</b> է քայլում։_/_Na <b>arag</b> ē kʼaylowm._ “He walks <b>quickly</b>.”
+* _<b>խելացի</b> տղայ_/_<b>xelacʼi</b> tġay_ “a <b>clever</b> boy”
+* _<b>լավ</b> լուր_/_<b>lav</b> lowr_ “<b>good</b> news”
+* _<b>նոր</b> երգեր_/_<b>nor</b> erger_ “<b>new</b> songs”
+* _<b>արագ</b> դուրս կ՚ելլեմ_/_<b>arag</b> dowrs k՚ellem_ “I go out <b>quickly</b>.”
 
 ### <a name="Cmp">`Cmp`</a>: comparative, second degree
 
@@ -38,11 +38,11 @@ The quality of one object is compared to the same quality of another object.
 
 #### Examples
 
-* _<b>ավելի</b> խելացի մարդ_/_<b>aveli</b> xelacʼi mard_ “a <b>cleverer</b> man”
-* _Այս մարդն ինձնից <b>(ավելի)</b> խելացի է։_/_Ays mardn injnicʼ <b>(aveli)</b> xelacʼi ē._ “The man is <b>cleverer</b> than me.”
-* _<b>ավելի</b> լավ երաժիշտ_/_<b>aveli</b> lav eražišt_ “a <b>better</b> musician”
-* _<b>ավելի</b> նոր նմուշ_/_<b>aveli</b> nor nmowš_ “a <b>newer</b> specimen”
-* _Նա <b>ավելի</b> արագ է քայլում։_/_Na <b>aveli</b> arag ē kʼaylowm._ “He/She walks <b>more quickly</b>.”
+* _<b>աւելի</b> խելացի տղայ_/_<b>aweli</b> xelacʼi tġay_ “a <b>cleverer</b> boy”
+* _Այս տղան ինձմէ <b>աւելի</b> խելացի է։_/_Ays mardn injnicʼ <b>aweli</b> xelacʼi ē._ “The boy is <b>cleverer</b> than me.”
+* _<b>աւելի</b> լաւ լուր_/_<b>aveli</b> law lowr_ “<b>better</b> news”
+* _<b>աւելի</b> նոր երգեր_/_<b>aweli</b> nor erger_ “<b>newer</b> songs”
+*_<b>աւելի</b> արագ դուրս կ՚ելլեմ_/_<b>aweli</b> arag dowrs k՚ellem_  “I go out <b>more</b> quickly.”
 
 ### <a name="Sup">`Sup`</a>: superlative, third degree
 
