@@ -19,7 +19,7 @@ Degree of comparison is a grammatical feature of qualitative [adjectives](hy-pos
 
 The comparative (second) degree is formed periphrastically with the adverb _ավելի_ “more” e.g. _ավելի գեղեցիկ_ “more beautiful”, _ավելի արագ_ “more quickly”. We annotate this adverb with the second degree feature.
 
-Note that the superlative degree of adverbs in Armenian is constructed with the definite article, but it is not annotated with the feature [Definite](Definite).
+Note that the superlative degree of adverbs in Armenian is constructed with the definite article (e.g. _Նվազագույնը_/_nvazagowynë_ “at least”), but it is not annotated with the feature [Definite](Definite).
 
 ### <a name="Pos">`Pos`</a>: positive, first degree
 
