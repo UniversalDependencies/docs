@@ -96,7 +96,7 @@ case(wahišt, ō)
 nmod(rāh, wahišt)
 ~~~
 
-**Adjectives *pro nomen***
+**Adjectives *pro nomen* in case of head omission**
 
 Adjectives and nouns are not clearly distinguished in Middle Persian. Still, there is a specific construction, which is used when the nominal head is omitted.
 
