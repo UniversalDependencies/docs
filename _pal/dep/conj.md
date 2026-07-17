@@ -66,7 +66,7 @@ nmod(duxt, spitāmān)
 In the following example, the identical verb of the relative clauses has been omitted in the first one. Due to the ergative construction, *frōxt* can be interpreted as both active and passive.
 - "A legal predecessor who (sold) an object to a person and the person whom that object has been sold to, are litigant regarding that object in another town." (omitted word in parantheses)
 ~~~ sdparse
-dastwar kē xwāstag ō kas ud kas kē ān xwāstag awi =š frōxt pad ān xwāstag pad any šahr hamēmāl hēnd \b legal_predecessor REL object to person and person REL that object to him sold at that object in other town litigant are
+dastwar kē xwāstag ō kas ud kas kē ān xwāstag awi =š frōxt pad ān xwāstag pad any šahr hamēmāl hēnd \n legal_predecessor REL object to person and person REL that object to him sold at that object in other town litigant are
 cc(kas-7, ud)
 conj(dastwar, kas-7)
 nsubj(hamēmāl, dastwar)
