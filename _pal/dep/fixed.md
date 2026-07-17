@@ -8,13 +8,12 @@ udver: '2'
 The fixed relation is mainly used for denominal prepositions. Similar to German, where denominal adpositions govern the genitive, Middle Persian denominal prepositions require an *ezāfe* particle as if the complement noun was a nominal modifier, i.e. the original construction is preserved with a new reading.
 
 
-- "amid the crowd"
+- "amid the crowd" (constructed example)
 ~~~ sdparse
 mayān ī grōh \n middle EZ crowd
 case(grōh, mayān)
 fixed(mayān, ī)
 ~~~
-
 ~~~ sdparse
 mayān grōh \n middle crowd
 case(grōh, mayān)
