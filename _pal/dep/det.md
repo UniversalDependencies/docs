@@ -102,7 +102,7 @@ Adjectives and nouns are not clearly distinguished in Middle Persian. Still, the
 
 - "of the spiritual creation and also of the material (one)"
 ~~~ sdparse
-az dahišn mēnōyīg az =iz ān ī gētīyīg from creation spiritual from also that EZ material
+az dahišn mēnōyīg az =iz ān ī gētīyīg \n from creation spiritual from also that EZ material
 case(dahišn, az-1)
 amod(dahišn, mēnōyīg)
 case(gētīyīg, az-4)
