@@ -7,7 +7,7 @@ udver: '2'
 
 Flat structures are rare in Middle Persian because personal names usually take the family name as a dependent. Titles like *kay* can be in a dependent relation but they also occur juxtaposed and can even become part of the name, e.g. *kay us* → *kayus* → *kay kayus*.
 
-- "Kay Wištāsp" (something even written as one word)
+- "Kay Wištāsp" (sometimes even written as one word)
 ~~~ sdparse
 kay wištāsp \n Kay Wištāsp
 flat(wištāsp, kay)
