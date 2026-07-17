@@ -17,13 +17,13 @@ advcl(tuwān-8, tuwān-5)
 - "Then Ohrmazd, the Lord, says: Do not ask anything from him!"
 ~~~ sdparse
 pas ohrmazd ī xwadāy gōwēd kū =š ma saxwan aziš pursēd \n then Ohrmazd EZ lord says that him not words therefrom ask.2PL.IMV
-mark(pursēd, mark)
+mark(pursēd, kū)
 ccomp(gōwēd, pursēd)
 ~~~
 
 - "Mount Kudrawasp (is) in the land of Tūs, on which the lake Sūwar (is).
 ~~~ sdparse
-kudrawasp kōf pad tūs šahr kē =š war ī sūwar pad sar \ Kudrawasp mountain in Tūs land REL it lake EZ Sūwar in head
+kudrawasp kōf pad tūs šahr kē =š war ī sūwar pad sar \n Kudrawasp mountain in Tūs land REL it lake EZ Sūwar in head
 mark(sar, kē)
 obl(sar, =š)
 nsubj(sar, war)
