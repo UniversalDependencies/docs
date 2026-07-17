@@ -39,21 +39,21 @@ The quality of one object is compared to the same quality of another object.
 #### Examples
 
 * _<b>աւելի</b> խելացի տղայ_/_<b>aweli</b> xelacʼi tġay_ “a <b>cleverer</b> boy”
-* _Այս տղան ինձմէ <b>աւելի</b> խելացի է։_/_Ays mardn injnicʼ <b>aweli</b> xelacʼi ē._ “The boy is <b>cleverer</b> than me.”
+* _Այս տղան ինձմէ <b>աւելի</b> խելացի է։_/_Ays tġan injnicʼ <b>aweli</b> xelacʼi ē._ “The boy is <b>cleverer</b> than me.”
 * _<b>աւելի</b> լաւ լուր_/_<b>aveli</b> law lowr_ “<b>better</b> news”
 * _<b>աւելի</b> նոր երգեր_/_<b>aweli</b> nor erger_ “<b>newer</b> songs”
-*_<b>աւելի</b> արագ դուրս կ՚ելլեմ_/_<b>aweli</b> arag dowrs k՚ellem_  “I go out <b>more</b> quickly.”
+* _<b>աւելի</b> արագ դուրս կ՚ելլեմ_/_<b>aweli</b> arag dowrs k՚ellem_  “I go out <b>more</b> quickly.”
 
 ### <a name="Sup">`Sup`</a>: superlative, third degree
 
-The quality of one object is compared to the same quality of all other objects within a set. Most Armenian qualitative adjectives and adverbs have both morphological and periphrastic superlative forms, modified through the inflected pronouns _ամենից_ or _բոլորից_ “most of all”.
+The quality of one object is compared to the same quality of all other objects within a set. Most Armenian qualitative adjectives and adverbs have both morphological and periphrastic superlative forms, modified through the inflected pronoun _ամէնէն_/_amēnēn_ “most of all”.
 
 #### Examples
 
-* _Նա մեր խմբի <b>ամենախելացի</b> / <b>ամենից խելացի</b> / <b>բոլորից խելացի</b> մարդն է։_/_Na mer xmbi <b>amenaxelacʼi</b> / <b>amenicʼ xelacʼi</b> / <b>boloricʼ xelacʼi</b> mardn ē._ “He/She is the <b>cleverest</b> man in our group.”
-* _Նա մեր խմբի <b>լավագույն</b> / <b>ամենից լավ</b> / <b>բոլորից լավ</b> երաժիշտն է։_ “He/She is the <b>best</b> musician in our group.”
-* _Սա <b>ամենանորագույն</b> / <b>ամենից նոր</b> / <b>բոլորից</b> նոր նմուշն է։_/_Sa <b>amenanoragowyn</b> / <b>amenicʼ nor</b> / <b>boloricʼ</b> nor nmowšn ē._ “This is the <b>newest</b> specimen.”
-* _Նա <b>ամենաարագն</b> / <b>ամենից արագն</b> / <b>բոլորից արագն</b> է քայլում։_/_Na <b>amenaaragn</b> / <b>amenicʼ aragn</b> / <b>boloricʼ aragn</b> ē kʼaylowm._ “He/She walks <b>the most quickly</b>.”
+* _Նա մեր խումբի <b>ամէնախելացի</b> / <b>ամէնէն խելացի</b> տղան է։_/_Na mer xumbi <b>amēnaxelacʼi</b> / <b>amenēn xelacʼi</b> tġan ē._ “He/She is the <b>cleverest</b> boy in our group.”
+* _Նա մեր խումբի <b>լաւագոյն</b> / <b>ամենէն լաւ</b> երաժիշտն է։_/_Na mer xowmbi <b>lawagoyn</b> / <b>amenēn law</b> eražištn ē._ “He/She is the <b>best</b> musician in our group.”
+* _Ասիկա <b>ամէնանոր</b> / <b>ամենէն նոր</b> նմուշն է։_/_Asika <b>amēnanor</b> / <b>amenēn nor</b> nmowšn ē._ “This is the <b>newest</b> example.”
+* _Ան <b>ամէնաարագը</b> / <b>ամէնէն արագը</b> կը քալէ։_/_An <b>amēnaaragë</b> / <b>amēnēn aragë</b> kë kʼalē._ “He/She walks <b>the fastest</b>.”
 
 ### <a name="Abs">`Abs`</a>: absolute superlative
 
@@ -61,6 +61,6 @@ The quality of the given object is so strong that there is hardly any other obje
 
 #### Examples
 
-* _հզոր_/_hzor_ “powerful”; _<b>գերհզոր</b>_/_<b>gerhzor</b>_ “<b>indescribably, super powerful</b>”
-* _մարդկային_/_mardkayin_ “human”; _<b>գերմարդկային</b>_/_germardkayin_ “<b>superhuman</b>”
+* _հզօր_/_hzòr_ “powerful”; _<b>գերհզօր</b>_/_<b>gerhzòr</b>_ “super powerful”
+* _զգայուն_/_zgayown_ “sensitive”; _<b>գերզգայուն</b>_/_gerzgayown_ “hypersensitive”
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->
