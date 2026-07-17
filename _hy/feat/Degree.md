@@ -41,7 +41,7 @@ The quality of one object is compared to the same quality of another object.
 * _<b>ավելի</b> խելացի մարդ_/_<b>aveli</b> xelacʼi mard_ “a <b>cleverer</b> man”
 * _Այս մարդն ինձնից <b>(ավելի)</b> խելացի է։_/_Ays mardn injnicʼ <b>(aveli)</b> xelacʼi ē._ “The man is <b>cleverer</b> than me.”
 * _<b>ավելի</b> լավ երաժիշտ_/_<b>aveli</b> lav eražišt_ “a <b>better</b> musician”
-* _<b>ավելի</b> նոր նմուշ_/_<b>aveli</b> nor nmowš_ “a <b>newer</b> specimen”
+* _<b>ավելի</b> նոր նմուշ_/_<b>aveli</b> nor nmowš_ “a <b>newer</b> example”
 * _Նա <b>ավելի</b> արագ է քայլում։_/_Na <b>aveli</b> arag ē kʼaylowm._ “He/She walks <b>more quickly</b>.”
 
 ### <a name="Sup">`Sup`</a>: superlative, third degree
@@ -51,9 +51,9 @@ The quality of one object is compared to the same quality of all other objects w
 #### Examples
 
 * _Նա մեր խմբի <b>ամենախելացի</b> / <b>ամենից խելացի</b> / <b>բոլորից խելացի</b> մարդն է։_/_Na mer xmbi <b>amenaxelacʼi</b> / <b>amenicʼ xelacʼi</b> / <b>boloricʼ xelacʼi</b> mardn ē._ “He/She is the <b>cleverest</b> man in our group.”
-* _Նա մեր խմբի <b>լավագույն</b> / <b>ամենից լավ</b> / <b>բոլորից լավ</b> երաժիշտն է։_ “He/She is the <b>best</b> musician in our group.”
-* _Սա <b>ամենանորագույն</b> / <b>ամենից նոր</b> / <b>բոլորից</b> նոր նմուշն է։_/_Sa <b>amenanoragowyn</b> / <b>amenicʼ nor</b> / <b>boloricʼ</b> nor nmowšn ē._ “This is the <b>newest</b> specimen.”
-* _Նա <b>ամենաարագն</b> / <b>ամենից արագն</b> / <b>բոլորից արագն</b> է քայլում։_/_Na <b>amenaaragn</b> / <b>amenicʼ aragn</b> / <b>boloricʼ aragn</b> ē kʼaylowm._ “He/She walks <b>the most quickly</b>.”
+* _Նա մեր խմբի <b>լավագույն</b> / <b>ամենից լավ</b> / <b>բոլորից լավ</b> երաժիշտն է։_/_Na mer xmbi <b>lavagowyn</b> / <b>amenicʼ lav</b> / <b>boloricʼ lav</b> eražištn ē._ “He/She is the <b>best</b> musician in our group.”
+* _Սա <b>ամենանորագույն</b> / <b>ամենից նոր</b> / <b>բոլորից</b> նոր նմուշն է։_/_Sa <b>amenanoragowyn</b> / <b>amenicʼ nor</b> / <b>boloricʼ</b> nor nmowšn ē._ “This is the <b>newest</b> example.”
+* _Նա <b>ամենաարագն</b> / <b>ամենից արագն</b> / <b>բոլորից արագն</b> է քայլում։_/_Na <b>amenaaragn</b> / <b>amenicʼ aragn</b> / <b>boloricʼ aragn</b> ē kʼaylowm._ “He/She walks <b>the fastest</b>.”
 
 ### <a name="Abs">`Abs`</a>: absolute superlative
 
