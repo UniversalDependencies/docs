@@ -30,7 +30,7 @@ yə̄ səuuištō ahurō mazdā̊scā , čiyōn pad gāhān bawēd , se guftan \
 flat(yə̄, səuuištō)
 flat(yə̄, ahurō)
 flat(yə̄, mazdā̊scā)
-obj(guftan, yə̄)
+nsubj:pass(guftan, yə̄)
 ~~~
 
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->
