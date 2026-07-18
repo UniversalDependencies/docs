@@ -26,7 +26,7 @@ The entity is close to the reference point (e.g., to the speaker).
 
 #### Examples
 
-* _սա_/_sa_ “this”, _այս_/_ays_ “this”, _այսպիսի_/_ayspisi_ “such”, _այսքան_/_ayskʼan_ “this many”, _այստեղ_/_aysteġ_ “here”, _սույն_/_sowyn_ “this, this”
+* _սա_/_sa_ “this”, _ասիկա_/_asika_ “this”, _այսպէս_/_ayspēs_ “this way, like this”, _այսքան_/_ayskʼan_ “this many”, _հոս_/_hos_ “here”, _սոյն_/_sowyn_ “this”
 
 ### <a name="Med">`Med`</a>: medial
 
@@ -34,7 +34,7 @@ The entity is neither close nor far away from the reference point (e.g., from th
 
 #### Examples
 
-* _դա_/_da_ “that”, _այդ_/_ayd_ “that”, _այդպիսի_/_aydpisi_ “such”, _այդքան_/_aydkʼan_ “that many”, _այդտեղ_/_aydteġ_ “there”
+* _դա_/_da_ “that”, _ադիկա_/_adika_ “that”, _այդպէս_/_aydpēs_ “that way”, _այդքան_/_aydkʼan_ “that many”, _հոդ_/_hod_ “there”
 
 ### <a name="Remt">`Remt`</a>: remote, distal
 
@@ -42,5 +42,5 @@ The entity is far away from the reference point (e.g., from the speaker).
 
 #### Examples
 
-* _այն_/_ayn_ “that”, _այնպիսի_/_aynpisi_ “such”, _այնքան_/_aynkʼan_ “that many”, _այնտեղ_/_aynteġ_ “there”, _նույն_/_nowyn_ “same”
+* _այն_/_ayn_ “that”, _անիկա_/_anika_ “that”, _այնպէս_/_aynpēs_ “that way”, _այնքան_/_aynkʼan_ “that many”, _հոն_/_hon_ “there”, _նոյն_/_nowyn_ “same”
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->
