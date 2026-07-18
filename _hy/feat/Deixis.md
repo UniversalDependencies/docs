@@ -26,7 +26,7 @@ The entity is close to the reference point (e.g., to the speaker).
 
 #### Examples
 
-* _սա, այս, այսպիսի, այսքան, այստեղ, սույն_ “this, this, such, this many, here, this”
+* _սա_/_sa_ “this”, _այս_/_ays_ “this”, _այսպիսի_/_ayspisi_ “such”, _այսքան_/_ayskʼan_ “this many”, _այստեղ_/_aysteġ_ “here”, _սույն_/_sowyn_ “this, this”
 
 ### <a name="Med">`Med`</a>: medial
 
@@ -34,7 +34,7 @@ The entity is neither close nor far away from the reference point (e.g., from th
 
 #### Examples
 
-* _դա, այդ, այդպիսի, այդքան, այդտեղ_ “that, that, such, that many, there”
+* _դա_/_da_ “that”, _այդ_/_ayd_ “that”, _այդպիսի_/_aydpisi_ “such”, _այդքան_/_aydkʼan_ “that many”, _այդտեղ_/_aydteġ_ “there”
 
 ### <a name="Remt">`Remt`</a>: remote, distal
 
@@ -42,5 +42,5 @@ The entity is far away from the reference point (e.g., from the speaker).
 
 #### Examples
 
-* _այն, այնպիսի, այնքան, այնտեղ, նույն_ “that, such, to many, there, same”
+* _այն_/_ayn_ “that”, _այնպիսի_/_aynpisi_ “such”, _այնքան_/_aynkʼan_ “that many”, _այնտեղ_/_aynteġ_ “there”, _նույն_/_nowyn_ “same”
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->
