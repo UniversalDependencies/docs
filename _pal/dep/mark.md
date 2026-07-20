@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Subordinators introduce subclauses including relative clauses that are introduced by *ī* or *kē*. Only relative clauses without specific reference ('free' relative clauses) are assumed to be introduced by relative pronouns, which are probably the interrogative pronouns, which are identical in form.
+Subordinators introduce subclauses (exx. 1-2) including relative clauses that are introduced by *ī* or *kē* (ex. 3). Only relative clauses without specific reference ('free' relative clauses) are assumed to be introduced by relative pronouns, which are probably the interrogative pronouns, which are identical in form (ex. 4).
 
 - "And if he is not able, why is (he) not able?"
 ~~~ sdparse
