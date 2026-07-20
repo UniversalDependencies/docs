@@ -8,12 +8,11 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Med">Med</a></td>
   <td><a href="#Prox">Prox</a></td>
 </tr>
 </table>
 
-Armenian uses `Deixis[psor]` as layered feature for [NOUN](hy-pos/NOUN) to encode the position of an entity relative to either the speaker or the hearer.
+Armenian uses `Deixis[psor]` as a layered feature for [NOUN](hy-pos/NOUN) to encode the position of an entity relative to either the speaker or the hearer.
 
 ### <a name="Prox">`Prox`</a>: proximal
 
@@ -22,7 +21,7 @@ The entity is close to the reference point (e.g., to the speaker).
 #### Examples
 
 * _քաղցկեղից <b>վերջերս</b> մահացավ_/_kʼaġcʼkeġicʼ <b>verǰers</b> mahacʼav_ “He/She died of cancer recently.” lit. _these recent times_,
-* _<b>օրերս</b> են դիմել կառավարությանը_/<b>òrers</b> en dimel kaṙavarowtʼyanë_ “They have applied to the government in recent days.” lit. _these days_,
-* _<b>վերջինիս</b> շնորհիվ է, որ..._/_<b>verǰinis</b> šnorhiv ē, or..._ “It is thanks to the latter that...”
+* _<b>օրերս</b> են դիմել կառավարությանը_/_<b>òrers</b> en dimel kaṙavarowtʼyanë_ “They have applied to the government in recent days.” lit. _these days_,
+* _<b>վերջինիս</b> շնորհիվ է, որ..._/_<b>verǰinis</b> šnorhiv ē, or..._ “It is thanks to the latter that...”.
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:50 CEST -->
