@@ -19,7 +19,7 @@ mayān grōh \n middle crowd
 case(grōh, mayān)
 ~~~
 
-- "in the middle of the crows" (constructed example)
+- "in the middle of the crowd" (constructed example)
 ~~~ sdparse
 pad mayān ī grōh \n in middle EZ crowd
 case(mayān, pad)
