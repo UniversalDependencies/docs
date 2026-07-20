@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Nominal modifiers can be linked by means of the *ezāfe* particle to their head word and appear before or after it. They include nouns, pronouns, proper names including adpositional phrases head by such parts-of-speech.
+Nominal modifiers can be linked by means of the *ezāfe* particle to their head word and appear before or after it. They include nouns, pronouns, proper names including adpositional phrases headed by such parts-of-speech.
 
 - "in the name of the gods"
 ~~~ sdparse
@@ -40,7 +40,7 @@ case(xwābarīh, pad)
 nmod(xwābarīh, yazdān)
 ~~~
 
-A peculiarity is the clausal noun phrase in Middle Persian. Deverbal nouns can be embedded like any other noun but inherited the verbal structure of their base, as if a whole clause is derived. For now, the dependents of such deverbal nouns are annotated as nominal dependents, which ignored however their respective syntactic embedding.
+A peculiarity is the clausal noun phrase in Middle Persian. Deverbal nouns can be embedded like any other noun but inherited the verbal structure of their base, as if a whole clause is derived. For now, the dependents of such deverbal nouns are annotated as nominal dependents, which unfortunately ignores their respective syntactic embedding.
 
 - "And the guardian and the mistress of the house take legal action as to **whether the mistress of the house but not the guardian shall take the oath**." (lit. about the guardian-not-but-mistress-of-the-house-oath-taking-ness)
 ~~~ sdparse
