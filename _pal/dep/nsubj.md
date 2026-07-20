@@ -5,7 +5,9 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-The nominal subject relation is used for nouns, pronouns, and proper names. In the ergative construction the so-called A participant is taken as the subject. If the ergative construction received a passive reading, the object is annotated as `nsubj:pass`. Clausal subjects are annotated as `csubj`. Subjects of clausal predicates are annotated as `nsubj:outer`. Note that subjects are frequently omitted. Expletive subjects have not been identified so far.
+The nominal subject relation is used for nouns, pronouns, and proper names. In the ergative construction the so-called A participant is taken as the subject. If the ergative construction received a passive reading, the object is annotated as `nsubj:pass`. Clausal subjects are annotated as `csubj`. Subjects of clausal predicates are annotated as `nsubj:outer`. In a possessive construction, the possessum is encoded as subject and the possessor as an oblique.
+
+Note that subjects are frequently omitted. Expletive subjects have not been identified so far.
 
 - "And so, the gods have created the dogs and flyers (the birds) according to their nature as carrion eaters."
 ~~~ sdparse
@@ -84,7 +86,7 @@ cc(abāyēd, u)
 - Oblique experiencer: "Which one appears more useful to you."
 ~~~ sdparse
 kadār =tān sūdōmandtar sahēd \n which you.OBL more_useful seems
-nsubj(sahēd, kadām)
+nsubj(sahēd, kadār)
 xcomp(sahēd, sūdōmandtar)
 obl(sahēd, =tān)
 ~~~
@@ -92,9 +94,9 @@ obl(sahēd, =tān)
 - Oblique experiencer: "Then (it) seemed more sensible to me to separate and sort the questions topic by topic."
 ~~~ sdparse
 ēg =im pursišn dar dar ǰudāg ud wizihāgīhātar kirdan čimīgtar sahist \n then me question topic topic separate and more_assortedly making more_reasonable seemed
-nsubj(dahist, =im)
+nsubj(sahist, =im)
 xcomp(sahist, čimīgtar)
-xcomp(čimīgtar, kirdan
+xcomp(čimīgtar, kirdan)
 xcomp(kirdan, ǰudāg)
 conj(ǰudāg, wizihāgīhātar)
 cc(wizihāgīhātar, ud)
