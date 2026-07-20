@@ -24,7 +24,7 @@ advmod((padīrift, čim)
 u =š pad nērōg abāz abganēd \n and him by strength back throws
 cc(abganēd, u)
 obj(abganēd, =š)
-case(nērōh, pad)
+case(nērōg, pad)
 obl(abganēd, nērōg)
 advmod(abganēd, abāz)
 ~~~
