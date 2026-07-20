@@ -5,12 +5,24 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-A brief description of the dependency relation.
+Middle Persian does not have a grammaticalized passive diathesis (at least in all centuries of its attestations). There are the following patterns that can be expressed by a passive in the target language of translation:
+1. intransitivization by the suffix *-īh-* : this suffix is used to form intransitive verbs from nouns or other parts-of-speech, and to reduce the valency of a verb by -1. With transitive verbs, this can result in a passive reading, with intransitive verbs, it may be a middle. Some texts apply this suffix so regularly to transitive verbs that it can be considered a grammaticalized passive suffix.
+2. middle verbs: verbs ending in *°xtan* can form a middle in the so-called present tense (e.g. *hammōxtan* with *hammōz-* 'to teach' and *hammōxt-* 'to learn').
+3. subject demotion in the active: the subject referent can left unexpressed and the verb is a 3sg. or 3pl. This corresponds to English constructions with 'one' or 'you' without specific reference.
+4. ergative construction: if the oblique subject referent is not expressed, the construction allows for an active reading assuming subject omission (topic drop) or a passive reading.
+5. participle + *būdan* 'to become': Combining the resultative (aka past) participle with the verb 'to become' results in various readings among which the terminative reading is close to a passive interpretation.
 
+Patterns 1+2 represent intransitive constructions, 3+4 transitive constructions, 5 is a copular construction including an external-subject relation.
+
+It is only for pattern 4 that the relation `nsubj:pass` is applied to ensure a correct interpretation of the semantic roles.
+
+- "If an amortisation (of a debt) is to be made by a family"
 ~~~ sdparse
-pad nām ī yazadān \n in name Ezafe gods
-case(nām, pad)
-det(yazadān, ī)
-nmod(nām, yazadān)
+ka az dūdag tōzišn bē kunišn \n if from family amortisation off do.NEC
+mark(kunišn, ka)
+case(dūdag, az)
+obl:agent(kunišn, dūdag)
+nsubj:pass(kunišn, tōzišn)
+advmod(kunišn, bē)
 ~~~
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:25 CEST -->
