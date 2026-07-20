@@ -23,11 +23,11 @@ punct(šāyēd, ,)
 ka šōy kunēd , pādixšāy zanīh bawēd , \n when husband makes , high_status marriage becomes
 mark(kunēd, ka)
 obj(kunēd, šōy)
-punct(kunēd, ,)
+punct(kunēd, ,-4)
 advcl(bawēd, kunēd)
 xcomp(bawēd, zanīh)
 amod(zanīh, pādixšāy)
-punct(bawēd, ,)
+punct(bawēd, ,-8)
 ~~~
 
 - "For humans, the most blessed aspects (are) knowledge and donation."
