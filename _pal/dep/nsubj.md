@@ -9,7 +9,7 @@ The nominal subject relation is used for nouns, pronouns, and proper names. In t
 
 - "And so, the gods have created the dogs and flyers (the birds) according to their nature as carrion eaters."
 ~~~ sdparse
-ōh =iz ān sagān ud wayān murwān xwadčihrag yazdān kirbxwār dād ēstēnd \ thus also that dogs and flyers birds instinctive gods scavenging created stand.3PL
+ōh =iz ān sagān ud wayān murwān xwadčihrag yazdān kirbxwār dād ēstēnd \n thus also that dogs and flyers birds instinctive gods scavenging created stand.3PL
 nsubj(dād, yazdān)
 aux(dād, ēstēnd)
 obj(dād, sagān)
@@ -30,7 +30,7 @@ aux(dād, hēnd)
 - "He, Ohrmazd, said: I created you, bird Warīšag!"
 ~~~ sdparse
 guft =iš ohrmazd kū =m dād hē tō murw warīšag \n said him Ohrmazd that me created are.2SG you bird Warīšag
-nsubj(dād, =im
+nsubj(dād, =m)
 aux(dād, hē)
 obj(dād, tō)
 ~~~
@@ -84,16 +84,23 @@ cc(abāyēd, u)
 - Oblique experiencer: "Which one appears more useful to you."
 ~~~ sdparse
 kadār =tān sūdōmandtar sahēd \n which you.OBL more_useful seems
-case(nām, pad)
-det(yazadān, ī)
-nmod(nām, yazadān)
+nsubj(sahēd, kadām)
+xcomp(sahēd, sūdōmandtar)
+obl(sahēd, =tān)
 ~~~
 
 - Oblique experiencer: "Then (it) seemed more sensible to me to separate and sort the questions topic by topic."
 ~~~ sdparse
 ēg =im pursišn dar dar ǰudāg ud wizihāgīhātar kirdan čimīgtar sahist \n then me question topic topic separate and more_assortedly making more_reasonable seemed
+nsubj(dahist, =im)
+xcomp(sahist, čimīgtar)
+xcomp(čimīgtar, kirdan
+xcomp(kirdan, ǰudāg)
+conj(ǰudāg, wizihāgīhātar)
+cc(wizihāgīhātar, ud)
 compound:redup(dar-4, dar-5)
 obl(kirdan, dar-4)
+advmod(sahist, ēg)
 ~~~
 
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:22 CEST -->
