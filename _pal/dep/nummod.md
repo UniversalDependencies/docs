@@ -19,10 +19,10 @@ nummod(tis, dō)
 ~~~ sdparse
 harw pursišn =ēw pad dar =ēw nibišt \n every question one in chapter one wrote
 det(pursišn, harw)
-nummod(pursišn, =ēw)
+nummod(pursišn, =ēw-3)
 obj(nibišt, pursišn)
 case(dar, pad)
-nummod(dar, =ēw)
+nummod(dar, =ēw-6)
 obl:lmod(nibišt, dar)
 ~~~
 
