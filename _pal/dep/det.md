@@ -7,9 +7,9 @@ udver: '2'
 
 Determiner relations usually holds between a nominal head and a demonstrative, quantifier or possessive pronoun (`det:poss`).
 
-The enclitic numeral *=ēw* 'one' also appears to be used as a marker for indefiniteness ('(some)one') or specificity ('a certain') as with New Persian. It is not fully clear whether this relation is a result of interference of New Persian copyists of Middle Persian texts or simple writing errors in the manuscripts (often written by a small hook only).
+The enclitic numeral *=ēw* 'one' also appears to be used as a marker for indefiniteness ('(some)one') or specificity ('a certain') as with New Persian. It is not fully clear whether this relation is a result of interference of New Persian copyists of Middle Persian texts or simple writing errors in the manuscripts (*=ēw* often written by a small hook only).
 
-Determiners always precede their head with the except of the enclitic numeral *=ēw*.
+Determiners always precede their head with the exception of the enclitic numeral *=ēw*.
  
 - "that way, the way"
 ~~~ sdparse
@@ -98,7 +98,7 @@ nmod(rāh, wahišt)
 
 **Adjectives *pro nomen* in case of head omission**
 
-Adjectives and nouns are not clearly distinguished in Middle Persian. Still, there is a specific construction, which is used when the nominal head is omitted.
+Adjectives and nouns are not clearly distinguished in Middle Persian. Still, there is a specific construction, which is used when the nominal head is omitted and the remaining attributive adjective is raised to head position.
 
 - "of the spiritual creation and also of the material (one)"
 ~~~ sdparse
