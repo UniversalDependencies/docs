@@ -9,41 +9,30 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Ech">Ech</a></td>
-  <td><a href="#Rdp">Rdp</a></td>
-</tr>
+  </tr>
 </table>
 
-This covers a range of compound reduplicated forms or echo words in Armenian. Reduplicative and echo words get the same POS tag as the head word or will be tagged according to their basic use.
+This feature covers echo words in Western Armenian. Echo words get the same POS tag as the head word unless they are tagged according to their basic lexical use.
 
 See also the related feature [Hyph]().
 
-### <a name="Rdp">`Rdp`</a>: reduplicative
-
-The word is a copy of a previous word. This would add the meaning of distribution, separation, variety, diversity or just emphasis.
-
-#### Examples
-
-* _երկու-<b>երկու</b>_/_erkow-<b>erkow</b>_ “two by two”,
-* _զույգ-<b>զույգ</b>_/_zowyg-<b>zowyg</b>_ “in pairs”,
-* _փունջ-<b>փունջ</b>_/_pʼownǰ-<b>pʼownǰ</b>_ “each bunch separately”,
-* _մեծ-<b>մեծ</b>_/_meç-<b>meç</b>_ “too big”,
-* _գույն-<b>գույն</b>_/_gowyn-<b>gowyn</b>_ “of many colors”,
-* _պես-<b>պես</b>_/_pes-<b>pes</b>_ “different, of many types”.
-
-In some cases, one of the words in reduplicated forms may also be modified individually by other words.
-
-* _ինձ ու <b>ինձ</b>_/_inj ow <b>inj</b>_ “to myself”,
-* _րոպե առ <b>րոպե</b>_/_rope aṙ <b>rope</b>_ “each minute separately”
-
 ### <a name="Ech">`Ech`</a>: echo
 
-The word fully or partially rhymes with a previous or following word but it is not identical to it and typically does not have any meaning of its own. The echoed part is a form that does not occur elsewhere than in compounds.
-In Armenian, it generalizes or specifies the meaning of the previous or following word and is translated as “or something”, “etc.”, “like that” etc.
+The word fully or partially rhymes with a previous or following word but it is not identical to it and typically does not have any meaning of its own. The echoed part is a form that does not occur independently outside such compounds.
+In Western Armenian, it generalizes or specifies the meaning of the previous or following word and is translated as “or something”, “and the like” etc.
 
 #### Examples
 
-* _հագուստ-<b>կապուստ</b>_/_hagowst-kapowst_ “attire, outfit”
-* _շիփ-<b>շիտակ</b>_/_šipʼ <b>šitak_ “direct and honest”,
-* _միս-մինակ_/_mis-<b>minak</b>_ “all alone, completely alone”,
-* _ափեղ-<b>ցփեղ</b>_/_apʼeġ-<b>cʼpʼeġ</b>_ “good and proper”.
+* _հագուստ-<b>կապուստ</b>_/_hagowst-<b>kapowst</b>_ “attire, outfit”,
+* _<b>շիփ</b>-շիտակ_/_<b>šipʼ</b>-šitak_ “direct and honest”,
+* _<b>միս</b>-մինակ_/_<b>mis</b>-minak_ “all alone, completely alone”,
+* _ափեղ-<b>ցփեղ</b>_/_apʼeġ-<b>cʼpʼeġ</b>_ “nonsensical, absurd”,
+* _ձայն <b>ձուն</b>_/_jayn <b>jown</b>_ “(not) a peep, (not) a sound”.
+
+Note that in the Western Armenian UD treebank reduplicative compounds (e.g. _կում կում_/_kowm kowm_ “sip by sip, in sips”, _մեծ-մեծ_/_meç-meç_ “very big; in large pieces/chunks”, _երկար-երկար_/_erkar-erkar_ “very long”, _զատ զատ_/_zat zat_ “separately, one by one”) are not annotated with `Echo=Rdp`. Instead, both components are annotated according to their regular lexical properties, and the reduplicative relation between them is represented by the dependency relation `compound:redup`.
+
+In some cases, one of the components of a reduplicative compound may itself be modified by other words.
+
+* _լի ու լի_/_li ow li_ “to the fullest, more than enough”,
+* _դէմ առ դէմ_/_dēm aṙ dēm_ “face to face”
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:51 CEST -->
