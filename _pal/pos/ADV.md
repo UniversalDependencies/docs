@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 ### Definition
-Adverbs in the literal sense  modify the semantics of a [VERB]() (traditionally called 'preverbs') or express the manner of a verb. Sentential adverbs modify the whole clause (manner, space, time). This class of part-of-speech is also used for words modifying adjectives ([ADJ]()) or other adverbs. Under certain conditions, adverbs can also modify nouns ([NOUN]()).
+Adverbs in the literal sense  modify the semantics of a [verb](VERB) (traditionally called 'preverbs') or express the manner of a verb. Sentential adverbs modify the whole clause (manner, space, time). This class of part-of-speech is also used for words modifying [adjectives](ADJ) or other adverbs. Under certain conditions, adverbs can also modify [nouns](NOUN).
 
 A word can be marked as an adverb by the suffix _-īhā_, which happens to be homophonous with the collective suffix.
 
@@ -57,7 +57,7 @@ Deverbal nouns can inherit the respective adverbial from the verb, which is link
 - _=iz_ "also, even, and"
 
 ### Border cases
-Adjectives can be used as adverbs without morphological derivation. Adverbs can appear like postpositions if following a prepositional phrase.
-Interrogatives habe been annotated as pronouns (see [PRON]()).
+Adjectives can be used as [adverbs](ADV) without morphological derivation. Adverbs can appear like postpositions if following a prepositional phrase.
+Interrogatives habe been annotated as [pronouns](PRON).
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:34 CEST -->
