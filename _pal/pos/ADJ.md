@@ -18,11 +18,11 @@ They may also function as predicates, in case of which the copula can be omitted
 
 
 Ajectives are rarely inflected. They can be marked for plural, degree, and, possibly as a calque from Avestan, for gender.
-- _dēwān ī <b>xradstard-ān</b>_ "the **mentally confused** demons"
-- _ud <b>nazdīk-tar</b> rāh ō rāst wēzišn_ "the **nearest** way to the right choosing"
+- _dēwān ī <b>xradstard-ān</b>_ (plural *-ān*) "the **mentally confused** demons"
+- _ud <b>nazdīk-tar</b> rāh ō rāst wēzišn_ (comparative *-tar*) "the **nearest** way to the right choosing"
 - _<b>ašōnī</b> mēnōy_ (instead of _ašō_) "the **righteous** (fem.) spirit"
 
-Adjective and nouns cannot always be distinguished. As any adjective can be used as a noun (_ahlaw_ "righteous" or "the righteous person, believer") and nouns can be used as adjectives (_zardušt_ "(the prophet) Zardušt" vs. _zardušt-tom_ "being most similar to Zardušt").
+Adjective and [noun]() cannot always be distinguished. As any adjective can be used as a noun (_ahlaw_ "righteous" or "the righteous person, believer") and nouns can be used as adjectives (_zardušt_ "(the prophet) Zardušt" vs. _zardušt-tom_ "being most similar to Zardušt").
 
 ### Examples
 - _wuzurg_ "big"
@@ -34,11 +34,11 @@ Adjective and nouns cannot always be distinguished. As any adjective can be used
 - _hišt_ "released"
 
 ### Border cases
-The reflexive _<b>xwēš</b>_ "own, self" is annotated as a pronoun or a possessive determiner.
+The reflexive _<b>xwēš</b>_ "own, self" is annotated as a pronoun ([PRON]()) or a possessive determiner (see [DET]() and [det:poss]()).
 - pronoun: _pid ī <b>xwēš</b>_ "the father of **her/him**"
 - possessive determiner: _<b>xwēš</b> pid_ "**her/his** father"
 
-If an adverb modifies a deverbal noun, it is still annotated as an adverb.
+If an adverb ([ADV]()) modifies a deverbal noun, it is still annotated as an adverb.
 - _kōšišn ī **gyānapattūyīhā**_ "the struggling **with dwindling life force**"
 
 
