@@ -8,7 +8,7 @@ udver: '2'
 This feature takes the following values: Ech, Rdp.
 
 ### <a name='Ech'>`Ech`: Echoed
-Doubling a word with phonetic change of second element, e.g. _galaγ-u-gilag-ōbār_ "suppressing all complaints"
+Doubling a word with phonetic change of second element, e.g. _galaγ-u-gilag-ōbār_ "suppressing all complaints".
 
 ### <a name='Rdp'>`Rdp`: Reduplicated
 Doubling a word to express distribution ("one X each"), separation (e.g. "sit separately"), variety, diversity, or emphasis.
