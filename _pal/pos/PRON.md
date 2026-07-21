@@ -6,11 +6,11 @@ udver: '2'
 ---
 
 ### Definition
-Pronouns are words that substitute for nouns or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Pronouns under this definition function like nouns.
+Pronouns are words that substitute for [noun](nouns) or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Pronouns under this definition function like nouns.
 
-In Middle Persian, all personal pronouns have an oblique variant, i.e. the enclitic pronouns. Only the 1st singular pronoun preserves case marking for the orthotone variant: direct case _an_ vs. oblique case _man_. Since the oblique form becomes generalised, it is not annotated as marked for case, only the exceptional direct case form _an_ is annotated as marked for case.
+In Middle Persian, all personal pronouns have an oblique variant, viz. the enclitic pronouns. Only the 1st singular pronoun preserves case marking for the orthotone variant: direct case _an_ vs. oblique case _man_. Since the oblique form becomes generalised, it is not annotated as marked for case, only the exceptional direct case form _an_ is annotated as marked for case.
 
-Number marking is rare unless a form is inherently plural (e.g. _awēšān_ "those"). According to Early New Persian evidence (_ū_ vs. _vey_), the 3rd singular pronoun and demonstrative pronoun _ōy_ should have had a variant _away_ (or similar). However, it is not possible to distinguish them in writing.
+[Number]() marking is rare unless a form is inherently plural (e.g. _awēšān_ "those"). According to Early New Persian evidence (_ū_ vs. _vey_), the 3rd singular pronoun and demonstrative pronoun _ōy_ should have had a variant _away_ (or similar). However, it is not possible to distinguish them in writing.
 
 Middle Persian makes extensive use of placeholders and resumptive pronouns. All pronouns can be used as determiners though some texts show preferences as to which pronoun to pick. Personal pronouns and the reflexive pronoun _xwēš_ are considered possessive determiners if they precede their headword. The relfexive pronouns mirror the person and number features of the subject.
 - _<b>man</b> pid_ "my father"
