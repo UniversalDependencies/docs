@@ -25,5 +25,4 @@ Adverbs indicating time such as _fradāg_ "tomorrow".
 - manner: _xwarišn nē <b>tanīhā</b> xward_ "not to eat food **alone**"
 - time: _ud andak āhōg ī xwēš be wirāstan <b>pas</b> āhōg kasān bē guftan_ "And (one) has to correct one's own smallest fault, **then** point the fault of others!"
 
-Some examples of the feature and its use.
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:41 CEST -->
