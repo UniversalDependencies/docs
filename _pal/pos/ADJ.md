@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 ### Definition
-Adjectives are words that typically modify nouns and specify their properties or attributes. 
+Adjectives are words that typically modify [noun]()s and specify their properties or attributes. 
 - _<b>čahārom</b> rōz_ or _rōz ī <b>čahārom</b>_ "the **fourth** day"
 - _abārīg <b>hamahl ud anōšmār</b> axtarān_ "the other **equally ranking and innumerable** stellar constellations"
 
