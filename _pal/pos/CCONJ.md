@@ -6,10 +6,10 @@ udver: '2'
 ---
 
 ### Definition
-The coordinating conjunctions of Middle Persian do not specify the relationship of the coordinated syntactic units. These can be clauses, phrases but also phrasal pairs (cf. [dep:conj]() for the latter).
+The coordinating conjunctions of Middle Persian do not specify the relationship of the coordinated syntactic units. These can be clauses, phrases but also [phrasal pairs](dep:conj).
 - _ān ī az tō keh pad hamtāg <b>ud</b> hamtāg pad meh <b>ud</b> azišmeh pad sālār <b>ud</b> sālār pad xwadāy dār_ "Treat the one inferior to you as an equal, and the equal one as greater, and the superior one as a master, and the master as a lord!"
 
-Middle Persian tends to begin sentences with _ud_ "and", which can also link a subclause with its matrix clause, which may better be described as connectors.
+Middle Persian tends to begin sentences with _ud_ "and", which can also link a subclause with its matrix clause, which may better be described as [connectors](cc:nc).
 
 ### Examples
 - _ud_ "and"
@@ -17,7 +17,7 @@ Middle Persian tends to begin sentences with _ud_ "and", which can also link a s
 - _bē_ "but"
 
 ### Border cases
-The word _bē_ can appear as both the junctor "but" and the adverb "however".<br>
+The word _bē_ can appear as both the junctor "but" and the [adverb](ADV) "however".<br>
 The enclitic _=iz_ is an additive particle, which conveys the meaning "also, and" but also appears as a focus marker.
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:35 CEST -->
