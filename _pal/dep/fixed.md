@@ -34,7 +34,18 @@ The fixed relation is also employed when two words appear instead of one. In the
 tan ī mardōmān az darrišn dard ōwōn mārēd kū ka ruwān hamkadag ī tan \n body EZ humans from tearing pain such perceives that when soul inherent EZ body
 fixed(kū, ka)
 mark(hamkadag, kū)
-nsubj(hamkadag, ruwān)
+
+Avestan quotations in Middle Persian are annotated as `flat` when they represent a more or less accidental sequence of Avestan words, e.g., referring to a specific text passage. If they represent a fixed expression, the relation is fixed.
+
+- "The reservations is thus required that (one) knows that a dog has not seen the corpse, and that the size of the corpse is at least *nōit̰ maxši.bərətō*." <br>(A corpse has to be ritually treated, which includes its presentation to a dog, who scares away the demon of death. The expression *nōit̰ maxši.bərətō* lit. 'not carried by a fly' is a technical term for the smallest unit relevant for a purification ritual of dead matter.)
+~~~ sdparse
+handāzīh ōh abāyēd kū dānēnd kū sag nē dīd nasā paymānag hambuniz , nōit̰ maxšibərətō , \n restriction thus is_necessary that know.3PL that dog not saw corpse measure definitely , nōit̰ maxšibərətō ,
+nsubj(nōit̰, paymānag)
+nmod(paymānag, nasā)
+advmod(nōit̰, hambuniz)
+punct(nōit̰, ,-13)
+punct(nōit̰, ,-16)
+fixed(nōit̰, maxšibərətō)
 ~~~
 
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:08 CEST -->
