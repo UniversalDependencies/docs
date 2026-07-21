@@ -8,11 +8,11 @@ udver: '2'
 ### Definition
 Nouns are a part of speech typically denoting a person, place, thing, animal or idea.
 
-We distinguish common nouns (`NOUN`) from proper nouns ([PROPN]()) and pronouns ([PRON]()).
-<br>While some derivational suffixes only form nouns (_-īh_ for nomina abstracta), most nouns can be used as [adj]()ectives by conversion. Deverbal nouns often inherited syntactic features from the verbal base.
+We distinguish common nouns (`NOUN`) from [proper nouns](PROPN) and [pronouns](PRON).
+<br>While some derivational suffixes only form nouns (_-īh_ for nomina abstracta), most nouns can be used as [adjectives](ADJ) by conversion. Deverbal nouns often inherited syntactic features from the verbal base.
 
 
-In Middle Persian, nouns can be marked for plural, which is facultative if plurality is indicated elsewhere (e.g. by a quantifier, the agreement marker on the verb, or the context). The unmarked form is used for generic reference. It is not possible to mark the singular except for the use of the numeral "one", which has an enclitic variant that can at times be interpreted as a specifier (see [NUM]() and [DET]()).
+In Middle Persian, nouns can be marked for [plural](Number), which is facultative if plurality is indicated elsewhere (e.g. by a quantifier, the agreement marker on the verb, or the context). The unmarked form is used for generic reference. It is not possible to mark the singular except for the use of the [numeral](NUM) "one", which has an enclitic variant that can at times be interpreted as a [specifier](DET).
 
 Compounding is frequent in Middle Persian and can be complex.
 
