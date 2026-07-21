@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 ### Definition
-Determiners are words that modify [noun]()s or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc.
+Determiners are words that modify [nouns](noun) or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc.
 
 Middle Persian does not have a grammaticalized article, but demonstratives are frequently used to specify the referents of the discourse (notably the demonstrative of far deixis _ān_ "that").
 - _ka gōwēd kū=m <b>ēn</b> dastgird ō tō dād <b>ān</b> dastgird ud harw čē pad <b>ān</b> dastgird dāšt ēstēd dād bawēd_ <br>"If (someone) says: I hereby give you this property!, (then) that property and whatever is contained in that property are considered to have been given."
@@ -20,7 +20,7 @@ Middle Persian exhibits a particle that links any kind of attribute to the headw
 - prepositional nominal modifier: _az druzbēkirdan <b>ī az gēhān</b>_ "by driving the Druz out of the world (lit. from the druz-out-making _ezāfe_ from the world)"
 
 NB:
-<br>The _ezāfe_ particle was described as a genitive case marker by some scholars. This is not a suitable analysis because the *ezāfe* particle can be separated from the headword by the enclitic [num]()eral "one"; the _ezāfe_ phrase is mobile and can appear before the headword or be dislocated; the _ezāfe_ particle can be repeated and is then attached to the modifier.
+<br>The _ezāfe_ particle was described as a genitive case marker by some scholars. This is not a suitable analysis because the *ezāfe* particle can be separated from the headword by the enclitic [numeral](NUM) "one"; the _ezāfe_ phrase is mobile and can appear before the headword or be dislocated; the _ezāfe_ particle can be repeated and is then attached to the modifier.
 The _ezāfe_ particle has also been analysed as a preposition, which is challenged by the syntax of the dependents, which can be adjectival phrases, nominal phrases including appositions and adpositional phrases, adverbial phrases, and clauses.
 
 ### Examples
