@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 ### Definition
-Pronouns are words that substitute for [noun](nouns) or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Pronouns under this definition function like nouns.
+Pronouns are words that substitute for [nouns](noun) or noun phrases, whose meaning is recoverable from the linguistic or extralinguistic context. Pronouns under this definition function like nouns.
 
 In Middle Persian, all personal pronouns have an oblique variant, viz. the enclitic pronouns. Only the 1st singular pronoun preserves case marking for the orthotone variant: direct case _an_ vs. oblique case _man_. Since the oblique form becomes generalised, it is not annotated as marked for case, only the exceptional direct case form _an_ is annotated as marked for case.
 
