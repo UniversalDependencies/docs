@@ -30,7 +30,7 @@ The echoed part is a form that does not occur independently outside such compoun
 * _սուտ ու <b>փութ</b>_/_sowt ow p’owt’_ “false, pretended”,
 * _<b>աժնել</b> բաժնել_/_ažnel bažnel_ “separate from each other”.
 
-Note that in the Middle Armenian UD treebank reduplicative compounds (e.g. _ատեն ատեն_/_aten aten_ “from time to time”, _կաթ կաթ_/_kat’ kat’_ “drop by drop”, _հանկուստ հանկուստ_/_hankowst hankowst_ “knotted, having knots”, _հատ <b>հատ</b>_/_hat hat_ “one by one”, _շիթ շիթ_/_šit’ šit’_ “in jets, jet by jet”, _ծվէն ծվէն_/_çvēn çvēn_ “in shreds, in tatters”) are not annotated with `Echo=Rdp`. Instead, both components are annotated according to their ordinary lexical properties, and the reduplicative relation between them is represented by the dependency relation `compound:redup`.
+Note that in the Middle Armenian UD treebank reduplicative compounds (e.g. _ատեն ատեն_/_aten aten_ “from time to time”, _կաթ կաթ_/_kat’ kat’_ “drop by drop”, _հանկուստ հանկուստ_/_hankowst hankowst_ “knotted, having knots”, _հատ <b>հատ</b>_/_hat hat_ “one by one”, _շիթ շիթ_/_šit’ šit’_ “in jets, jet by jet”, _ծվէն ծվէն_/_çvēn çvēn_ “in shreds, in tatters”) are not annotated with `Echo=Rdp`. Instead, both components are annotated according to their regular lexical properties, and the reduplicative relation between them is represented by the dependency relation `compound:redup`.
 
 In some cases, one of the components of a reduplicative compound may itself be modified by other words.
 
