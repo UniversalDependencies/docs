@@ -22,7 +22,7 @@ Ajectives are rarely inflected. They can be marked for plural, degree, and, poss
 - _ud <b>nazdīk-tar</b> rāh ō rāst wēzišn_ (comparative *-tar*) "the **nearest** way to the right choosing"
 - _<b>ašōnī</b> mēnōy_ (instead of _ašō_) "the **righteous** (fem.) spirit"
 
-Adjective and [noun]() cannot always be distinguished. As any adjective can be used as a noun (_ahlaw_ "righteous" or "the righteous person, believer") and nouns can be used as adjectives (_zardušt_ "(the prophet) Zardušt" vs. _zardušt-tom_ "being most similar to Zardušt").
+Adjective and [NOUN]() cannot always be distinguished. As any adjective can be used as a noun (_ahlaw_ "righteous" or "the righteous person, believer") and nouns can be used as adjectives (_zardušt_ "(the prophet) Zardušt" vs. _zardušt-tom_ "being most similar to Zardušt").
 
 ### Examples
 - _wuzurg_ "big"
