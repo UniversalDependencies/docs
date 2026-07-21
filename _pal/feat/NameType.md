@@ -7,7 +7,7 @@ udver: '2'
 
 This feature takes the following values: Geo, Giv, Oth, Pat, Prs.
 
-Nations, Organisation, Product, and Surname have not been used yet, but might be applied if fitting. However, designation of people are taken as common nouns.
+Nations, Organisation, Product, and Surname have not been used yet, but might be applied if fitting. However, designation of people are taken as [common nouns](NOUN).
 
 ### <a name='Geo'>`Geo`: Geographical name
 For geographical names, e.g. _pārs_ "Persia"
