@@ -6,9 +6,9 @@ udver: '2'
 ---
 
 ### Definition
-A proper noun is a noun (or nominal content word) that is the name (or part of the name) of a specific individual or place. In the Middle Persian text corpus, the next biggest group of proper names are texts or ceremonies, which are often referred to by an Avestan name.
+A proper noun is a [noun]() (or nominal content word) that is the name (or part of the name) of a specific individual or place. In the Middle Persian text corpus, the next biggest group of proper names are texts or ceremonies, which are often referred to by an Avestan name.
 
-A patronym is often linked as an attribute to the given name of a person. Names of divine or demonic beings are annotated as given names.
+A [patronym](NameType) is often linked as an attribute to the given name of a person. Names of divine or demonic beings are annotated as [given](NameType) names.
 
 Note that the script cannot highlight names by capitalisation, but the name of the evil adversary is often written upside down.
 
@@ -25,6 +25,6 @@ Note that the script cannot highlight names by capitalisation, but the name of t
 - _hadōxt_ (name of a text and a liturgy)
 
 ### Border cases
-Names of plants and animals are annotated as common nouns.
+Names of plants and animals are annotated as [common nouns](NOUN).
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->
