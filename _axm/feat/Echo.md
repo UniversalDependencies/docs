@@ -12,7 +12,7 @@ udver: '2'
   </tr>
 </table>
 
-This feature covers echo words in Middle Armenian. Echo words get the same POS tag as the head word unless they are tagged according to their basic use.
+This feature covers echo words in Middle Armenian. Echo words get the same POS tag as the head word unless they are tagged according to their basic lexical use.
 
 See also the related feature [Hyph]().
 
@@ -20,7 +20,7 @@ See also the related feature [Hyph]().
 ### <a name="Ech">`Ech`</a>: echo
 
 The word fully or partially rhymes with a previous or following word but it is not identical to it and typically it does not have any meaning of its own. 
-The echoed part is a form that does not occur independently outside such compounds. In Middle Armenian it generalizes or specifies the meaning of the previous or following word and is translated as “or something”, “etc.”, “and the like” etc.
+The echoed part is a form that does not occur independently outside such compounds. In Middle Armenian it generalizes or specifies the meaning of the previous or following word and is translated as “or something”, “and the like” etc.
 
 #### Examples
 
