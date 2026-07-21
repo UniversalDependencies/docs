@@ -23,30 +23,15 @@ udver: '2'
 </tr>
 </table>
 
-This feature differs significantly from all other features: It describes neither the lexical category,
-nor the inflectional paradigm slot of the token it appears on. Rather than to the individual token,
-it pertains to a multiword expression and indicates the part of speech that the expression would get
-if it were analyzed as a single word. `ExtPos` is annotated at the head node of the multiword
-expression. The possible values are taken from the defined [UPOS tags](/u/pos/index.html) and no other
-values are allowed (not even at the language-specific level). The main motivation for `ExtPos` is that
-the multiword expression may behave like a part of speech different from the UPOS of the head node;
-however, `ExtPos` is sometimes used even if it is identical to the UPOS of the head node. Also, it is
-not strictly necessary that the expression is multiword – if one of the words of the expression is
-omitted by mistake, or if a single word has been coerced into a part of speech different from its
-lexical one, `ExtPos` may be used to signal it.
+This feature differs significantly from all other features: It describes neither the lexical category, nor the inflectional paradigm slot of the token it appears on. Rather than to the individual token, it pertains to a multiword expression and indicates the part of speech that the expression would get if it were analyzed as a single word. `ExtPos` is annotated at the head node of the multiword expression. The possible values are taken from the defined [UPOS tags](/u/pos/index.html) and no other values are allowed (not even at the language-specific level). The main motivation for `ExtPos` is that the multiword expression may behave like a part of speech different from the UPOS of the head node; however, `ExtPos` is sometimes used even if it is identical to the UPOS of the head node. Also, it is not strictly necessary that the expression is multiword – if one of the words of the expression is omitted by mistake, or if a single word has been coerced into a part of speech different from its lexical one, `ExtPos` may be used to signal it.
 
-`ExtPos` is strongly recommended for fixed functional multiword expressions (the head node has one
-or more children attached via the [fixed]() relation). These should normally lead to `ExtPos` values
-`ADP`, `ADV`, `AUX`, `CCONJ`, `DET`, `PRON`, `SCONJ` (the `fixed` relation should not be used for compounds
-that work like content words). However, `ExtPos` is occasionally useful in other situations, too:
-for example, when a multiword expression acts as a proper noun (although its parts behave like other
-words) or as an interjection.
+`ExtPos` is strongly recommended for fixed functional multiword expressions (the head node has one or more children attached via the [fixed]() relation). These should normally lead to `ExtPos` values `ADP`, `ADV`, `AUX`, `CCONJ`, `DET`, `PRON`, `SCONJ` (the `fixed` relation should not be used for compounds that work like content words). However, `ExtPos` is occasionally useful in other situations, too: for example, when a multiword expression acts as a proper noun (although its parts behave like other words) or as an interjection.
 
 ### <a name="ADJ">`ADJ`</a>: adjective-like expression
 
 #### Examples
 
-* _<b>հազար ու մի</b>_ (a multiword adjective paraphrasable as “numerous”, lit. "thousand and one"; the first node is [NUM]())
+* _<b>հազար ու մի</b>_/_<b>hazar ow mi</b>_ (a multiword adjective paraphrasable as “numerous”, lit. "thousand and one"; the first node is [NUM]())
 
 ### <a name="ADP">`ADP`</a>: adposition-like expression
 
@@ -54,20 +39,20 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 
 #### Examples
 
-* _<b>ի շահ</b>_ “<b>in favour of</b>” (here the first node is the technical head and it is a preposition itself, so UPOS = `ExtPos`)
-* _<b>սկսած</b> հունվարից_ “<b>starting</b> from January” (here the first node is a [VERB]())
+* _<b>ի շահ</b>_/_<b>i šah</b>_ “in favour of” (here the first node is the technical head and it is a preposition itself, so UPOS = `ExtPos`)
+* _<b>սկսած</b> հունվարից_/_<b>sksaç</b> hownvaricʼ_ “<b>starting</b> from January” (here the first node is a [VERB]())
 
 ### <a name="ADV">`ADV`</a>: adverb-like expression
 
 #### Examples
 
-* _<b>մի կերպ</b>_ (a multiword adverb paraphrasable as “somehow”; the first node is [DET]())
+* _<b>մի կերպ</b>_/_<b>mi kerp</b>_ (a multiword adverb paraphrasable as “somehow”; the first node is [DET]())
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
 #### Examples
 
-* _<b>ոչ միայն</b>_ “not only” (_ոչ_ = [PART]())
+* _<b>ոչ միայն</b>_/_<b>oč miayn</b>_ “not only” (_ոչ_ = [PART]())
 
 ### <a name="DET">`DET`</a>: determiner-like expression
 
