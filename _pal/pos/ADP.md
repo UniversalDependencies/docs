@@ -25,7 +25,7 @@ They can only appear together with a complement noun or pronoun.
 - _u=<b>š</b> dard <b>abar</b> mad ēstēd_ "and pain has overcome it (=the soul)" vs. _ud dard <b>abar ōy</b> mad ēstēd_ "and pain has come over it"
 - _se zrē ī meh ud sī zrē keh <b>az=iš</b> būd_ "three bigger seas and thirty smaller seas emerged from it" vs. _se zrē ī meh ud sī zrē keh <b>az ōy</b> būd_ ibid.
 
-Functional prepositions can be modified by adverbs to specify the relation (see [case]()):
+Functional prepositions can be modified by [adverbs](ADV) to specify the relation (see [case]()):
 - _ō_ "to" vs. _andar ō_ "into" vs. _abar ō_ "onto" vs. _abāz ō_ "back to" vs. _tā ō_ "up to" etc.
 
 
