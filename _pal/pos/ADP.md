@@ -43,7 +43,7 @@ In order to increase consistency, the adverbial and denominal adpositions are an
 
 ### Border cases
 As especially locative relations can be unflagged, denominal adpositions cannot always be distinguished from their nominal equivalent with certainty. If the noun is flagged by a preposition, the literal interpretation is preferred.<br>
-_<b>az pēš ī</b> māh harwgāh dō wād hamē wazēd_ "two winds are continuously blowing **from the near side of** the moon at any time of day"
+- _<b>az pēš ī</b> māh harwgāh dō wād hamē wazēd_ "two winds are continuously blowing **from the near side of** the moon at any time of day"
 
 If adverbs follow a prepositional phrase, we do *not* consider them postpositions of that prepositional phrase:
 - _pad šnūg <b>andar</b> ōbast_ "(he) fell on (his) knee" <br>as (pad šnūg) + (andar ōbast) and not (pad šnūg andar) + (ōbast).
