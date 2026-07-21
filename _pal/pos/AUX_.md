@@ -15,7 +15,7 @@ We find written evidence for some auxiliaries becoming enclitics.
 ### Examples
 
 - copula verb *būdan* following the resultative participle for marking person and number of the so-called 'past' tense: *raft hēnd* 'they went'
-- *ēstādan* "stand" following the resultative participle for the formation of present and past perfect: *raft ēstēnd* 'they have gone'
+- *ēstādan* "stand" following the resultative participle for the formation of present and past perfect: *raft ēstēnd* 'they have gone', *raft ēstād hēnd* 'they had gone'
 
 ### Border cases
 - The copula verb *būdan* is also used as the existential verb 'to be there, to exist' and it is homophonous with 'to become' except for the so-called 'present tense' (*h-* 'be' vs. *baw-* 'become').
