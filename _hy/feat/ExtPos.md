@@ -23,7 +23,7 @@ udver: '2'
 </tr>
 </table>
 
-This feature differs significantly from all other features: It describes neither the lexical category, nor the inflectional paradigm slot of the token it appears on. Rather than to the individual token, it pertains to a multiword expression and indicates the part of speech that the expression would get if it were analyzed as a single word. `ExtPos` is annotated at the head node of the multiword expression. The possible values are taken from the defined [UPOS tags](/u/pos/index.html) and no other values are allowed (not even at the language-specific level). The main motivation for `ExtPos` is that the multiword expression may behave like a part of speech different from the UPOS of the head node; however, `ExtPos` is sometimes used even if it is identical to the UPOS of the head node. Also, it is not strictly necessary that the expression is multiword – if one of the words of the expression is omitted by mistake, or if a single word has been coerced into a part of speech different from its lexical one, `ExtPos` may be used to signal it.
+This feature differs significantly from all other features: it describes neither the lexical category, nor the inflectional paradigm slot of the token it appears on. Rather than to the individual token, it pertains to a multiword expression and indicates the part of speech that the expression would get if it were analyzed as a single word. `ExtPos` is annotated at the head node of the multiword expression. The possible values are taken from the defined [UPOS tags](/u/pos/index.html) and no other values are allowed (not even at the language-specific level). The main motivation for `ExtPos` is that the multiword expression may behave like a part of speech different from the UPOS of the head node; however, `ExtPos` is sometimes used even if it is identical to the UPOS of the head node. Also, it is not strictly necessary that the expression is multiword – if one of the words of the expression is omitted by mistake, or if a single word has been coerced into a part of speech different from its lexical one, `ExtPos` may be used to signal it.
 
 `ExtPos` is strongly recommended for fixed functional multiword expressions (the head node has one or more children attached via the [fixed]() relation). These should normally lead to `ExtPos` values `ADP`, `ADV`, `AUX`, `CCONJ`, `DET`, `PRON`, `SCONJ` (the `fixed` relation should not be used for compounds that work like content words). However, `ExtPos` is occasionally useful in other situations, too: for example, when a multiword expression acts as a proper noun (although its parts behave like other words) or as an interjection.
 
@@ -46,42 +46,41 @@ Multiword adpositions are often grammaticalized prepositional phrases.
 
 #### Examples
 
-* _<b>մի կերպ</b>_/_<b>mi kerp</b>_ (a multiword adverb paraphrasable as “somehow”; the first node is [DET]())
+* _<b>մի կերպ</b>_/_<b>mi kerp</b>_ (a multiword adverb paraphrasable as “somehow”; the first node _մի_/_mi_ is [DET]())
 
 ### <a name="CCONJ">`CCONJ`</a>: coordinating conjunction-like expression
 
 #### Examples
 
-* _<b>ոչ միայն</b>_/_<b>oč miayn</b>_ “not only” (_ոչ_ = [PART]())
+* _<b>ոչ միայն</b>_/_<b>oč miayn</b>_ “not only” (_ոչ_/_oč_ = [PART]())
 
 ### <a name="DET">`DET`</a>: determiner-like expression
 
 #### Examples
 
-* _<b>ոչ մի</b>_ “not any” (_ոչ_ = `PART`)
+* _<b>ոչ մի</b>_/_<b>oč mi</b>_ “not any” (_ոչ_/_oč_ = [PART]())
 
 ### <a name="PRON">`PRON`</a>: pronoun-like expression
 
 #### Examples
 
-* _<b>ամեն ինչ</b>_ (a multiword determiner paraphrasable as _everything_, _ամեն_= [DET]())
+* _<b>ամեն ինչ</b>_/_<b>amen inč</b>_ (a multiword determiner paraphrasable as “everything”, _ամեն_/_amen_ = [DET]())
 
 ### <a name="PROPN">`PROPN`</a>: proper noun-like expression
 
 #### Examples
 
-* _<b>Վայոց ձոր</b>_ (_<b>Վայ</b>ոց_ = [NOUN]())
+* _<b>Վայոց ձոր</b>_/_<b>Vayocʼ jor</b>_ (_<b>Վայ</b>ոց_/_<b>Vay</b>ocʼ_ = [NOUN]())
 
 ### <a name="SCONJ">`SCONJ`</a>: subordinator-like expression
 
 #### Examples
 
-* _<b>հենց որ</b>_ “as soon as” (_հենց_ = `ADV`)
+* _<b>հենց որ</b>_/_<b>hencʼ or</b>_ “as soon as” (_հենց_ = [ADV]())
 
 ### <a name="PART">`PART`</a>: particle-like expression
 
 #### Examples
 
-* _<b>ի վերջո</b>_ (a multiword particle paraphrasable as “eventually”; the first node is [ADP]())
-
+* _<b>ի վերջո</b>_/_<b>i verǰo</b>_ (a multiword particle paraphrasable as “eventually”; the first node is [ADP]())
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->
