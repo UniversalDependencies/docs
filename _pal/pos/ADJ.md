@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 ### Definition
-Adjectives are words that typically modify [noun]()s and specify their properties or attributes. 
+Adjectives are words that typically modify [nouns](noun) and specify their properties or attributes. 
 - _<b>čahārom</b> rōz_ or _rōz ī <b>čahārom</b>_ "the **fourth** day"
 - _abārīg <b>hamahl ud anōšmār</b> axtarān_ "the other **equally ranking and innumerable** stellar constellations"
 
@@ -34,11 +34,11 @@ Adjective and [NOUN]() cannot always be distinguished. As any adjective can be u
 - _hišt_ "released"
 
 ### Border cases
-The reflexive _<b>xwēš</b>_ "own, self" is annotated as a pronoun ([PRON]()) or a possessive determiner (see [DET]() and [det:poss]()).
+The reflexive _<b>xwēš</b>_ "own, self" is annotated as a [pronoun](PRON) or a possessive [determiner](DET) (see [det:poss]()).
 - pronoun: _pid ī <b>xwēš</b>_ "the father of **her/him**"
 - possessive determiner: _<b>xwēš</b> pid_ "**her/his** father"
 
-If an adverb ([ADV]()) modifies a deverbal noun, it is still annotated as an adverb.
+If an [adverb](ADV) modifies a deverbal noun, it is still annotated as an adverb.
 - _kōšišn ī **gyānapattūyīhā**_ "the struggling **with dwindling life force**"
 
 
