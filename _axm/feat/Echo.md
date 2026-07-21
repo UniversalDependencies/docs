@@ -34,6 +34,6 @@ Note that in the Middle Armenian UD treebank reduplicative compounds (e.g. _ատ
 
 In some cases, one of the components of a reduplicative compound may itself be modified by other words.
 
-* _եռ ընդ <b>եռ</b>/eṙ ënd eṙ_ “boiling hot”,
-* _գող ի <b>գող</b>/goġ i goġ_ “stealthily”
+* _եռ ընդ եռ_/_eṙ ënd eṙ_ “boiling hot”,
+* _գող ի գող_/_goġ i goġ_ “stealthily”
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:51 CEST -->
