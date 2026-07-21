@@ -30,7 +30,7 @@ In Armenian, it generalizes or specifies the meaning of the previous or followin
 * _<b>դափ</b>-դատարկ_/_<b>dapʼ</b>-datark_ “completely empty”,
 * _<b>նոփ</b>-նոր_/_<b>nopʼ</b>-nor_ “completely new”.
 
-Note that in the Armenian UD treebanks reduplicative compounds (e.g. _երկու-<b>երկու</b>_/_erkow-<b>erkow</b>_ “two by two”, _մեծ-<b>մեծ</b>_/_meç-<b>meç</b>_ “very big; in large pieces/chunks”, _գույն-<b>գույն</b>_/_gowyn-<b>gowyn</b>_ “of many colors”, _պես-<b>պես</b>_/_pes-<b>pes</b>_ “different, of various kinds”) are not annotated with `Echo=Rdp`. Instead, both components are annotated according to their ordinary lexical properties, and the reduplicative relation between them is represented by the dependency relation `compound:redup`.
+Note that in the Armenian UD treebanks reduplicative compounds (e.g. _երկու-երկու_/_erkow-erkow_ “two by two”, _մեծ-մեծ_/_meç-meç_ “very big; in large pieces/chunks”, _գույն-գույն_/_gowyn-gowyn_ “of many colors”, _պես-պես_/_pes-pes_ “different, of various kinds”) are not annotated with `Echo=Rdp`. Instead, both components are annotated according to their ordinary lexical properties, and the reduplicative relation between them is represented by the dependency relation `compound:redup`.
 
 In some cases, one of the components of a reduplicative compound may itself be modified by other words.
 
