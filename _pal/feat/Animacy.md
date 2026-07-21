@@ -21,7 +21,7 @@ Human is used for common nouns referring to humans as well as collectives such a
 Inanimate is used for words denoting everything but living beings such as _sang_ "stone" or _dānišn_ "knowledge".
 
 ### <a name='Nhum'>`Nhum`: Non-human
-Non-human is used for animals but not for plants.
+Non-human is used for animals but not for plants, e.g. *sag* "dog".
 
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:42 CEST -->
