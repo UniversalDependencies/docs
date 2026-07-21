@@ -7,7 +7,7 @@ udver: '2'
 
 This feature takes the following values: Abs, Cmp, Sup.
 
-The positive is not marked and can be used for all degrees. It is not indicated in the annotation. Analytic marking of grades is possible, notably by means of _wēš_ "more"
+The positive is not marked and can be used for all degrees. It is not indicated in the annotation. Analytic marking of grades is possible, notably by means of _wēš_ "more".
 
 ### <a name='Abs'>`Abs`: Absolute superlative / elative
 A stylistic peculiarity is the combination of the comparative suffix and the superlative suffix forming an elative or absolute superlative, e.g. _frāz-dom-tar_ "even more advanced, single most advanced".
