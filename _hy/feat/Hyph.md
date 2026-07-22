@@ -15,7 +15,7 @@ udver: '2'
 Boolean feature. Is this part of a hyphenated compound?
 
 Hyphenated compound [adjectives](ADJ), such as _անգլո-ամերիկյան_/_<b>anglo</b>-amerikyan_ “Anglo-American” get split during tokenization. The final part is an independent adjective (_ամերիկյան_/_amerikyan_). However, the first part, _անգլո_/_anglo_ is a form that does not occur outside such compounds (the independent form would be _անգլիական_/_angliakan_).
-`Hyph` is also used for articles, case endings, and derivational suffixes that are attached by a hyphen to numerals, abbreviations, acronyms, similar forms.
+`Hyph` is also used for articles, case endings, and derivational suffixes that are attached with or without a hyphen to numerals, abbreviations, acronyms and similar forms.
 
 ### <a name="Yes">`Yes`</a>: it is part of hyphenated compound
 
