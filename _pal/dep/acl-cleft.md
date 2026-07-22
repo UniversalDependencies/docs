@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-In Middle Persian, dependent clauses in cleft sentences are in all aspects identical to relative clauses. As such, this annotation identifies the presence of clefting in the sentence. It is used for focus marking as well as avoiding clausal arguments.
+In Middle Persian, dependent clauses in cleft sentences are in all aspects identical to [relative clauses](acl:relcl). As such, this annotation identifies the presence of clefting in the sentence. It is used for focus marking as well as avoiding clausal arguments.
 
 - "Who (is) the one who should not be accepted as a witness?"
 ~~~ sdparse
