@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-This feature takes the following values: Fin, Inf, Part, Vnoun.
+This feature takes the following values: Conv, Fin, Inf, Part, Vnoun.
 
 ### <a name='Conv'>`Conv`: Converb
 `Participals` (see below) can be used as converbs in Middle Persian, notably the resultative participle with an anterior reading. Since the same form can also be read as a finite verb form, the analysis relies on contextual information or peculiar word ordering.
