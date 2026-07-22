@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Compound relations are usually specified as either `compound:lvc` or `compound:redup`. Since regular compounds are annotated as a single orthographic word, few cases remain such as:
+Compound relations are usually specified as either [compound:lvc]() or [compound:redup](). Since regular compounds are annotated as a single orthographic word, few cases remain such as:
 
 - "Even if in addition to this here (it) has to be considered that the body is contaminated with our pregnancy and some parts of the demons have infiltrated the body, even then the relationship (lit. come-and-go), as (it is) obvious, shall not be seen as odd."
 ~~~ sdparse
