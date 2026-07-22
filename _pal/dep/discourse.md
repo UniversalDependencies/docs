@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-The discourse relation is used for interjections and vocative particles.
+The discourse relation is used for [interjections](INTJ) and [vocative](PART) particles.
 
 - "(She) replied to him: O evil one! I am your Dēn, who (is) your own actions." (i.e. the personification of his actions in life)
 ~~~ sdparse
