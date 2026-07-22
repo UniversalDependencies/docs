@@ -11,7 +11,7 @@ Coordinating conjunctions in Middle Persian include
 - *bē* 'but'
 - *=iz* 'also, and'
 
-They appear between the coordinated conjuncts except for enclitic *=iz*, which may follow the second.<br>In Middle Persian, clause is usually introduced by a junctor, which is frequently *ud*.
+They appear between the coordinated conjuncts except for enclitic *=iz*, which may follow the second.<br>In Middle Persian, a clause is usually introduced by a [junctor](parataxis), which is frequently *ud*.
 
 - "And by these five things, a man either becomes evil or dishonoured."
 ~~~ sdparse
