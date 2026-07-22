@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-The parataxis relation links two elements that are linked without any explicit co- or subordination. It is not always clear whether to assume coordination, parataxis, or two consecutive sentences. As many clauses are introduced by *ud* 'and' in the Middle Persian corpus, the presence of this junctor is not clear evidence for coordination, and "run-on sentences" or pairing "with non-conjunction connectives" figure in our data only rarely. <br>Parataxis is used when assuming two independent sentences is not felicitous.
+The parataxis relation links two elements that are linked without any explicit [co-](CCONJ) or [subordination](SCONJ). It is not always clear whether to assume [coordination](conj), `parataxis`, or two consecutive sentences. As many clauses are introduced by *[ud](cc:nc)* 'and' in the Middle Persian corpus, the presence of this junctor is not clear evidence for coordination, and "run-on sentences" or pairing "with non-conjunction connectives" figure in our data only rarely. <br>Parataxis is used when assuming two independent sentences is not felicitous.
 
 
 - "And he, Gayōmart, said: Now that the Adversary has come, humans will emerge from my seed. For a matter of fact, this (is) good if acts virtuously."
@@ -45,7 +45,7 @@ case(pas, ō-17)
 advmod(dwārišn-15, pas)
 ~~~
 
-The complement clause is sometimes interrupted by the speech verb. Contrary to the regular UD procedure, this is not annotated as a parataxis relation because the complement clause is still marked as subordinated by the subjunctor kū.
+The [complement](ccomp) clause is sometimes interrupted by the speech verb. Contrary to the regular UD procedure, this is not annotated as a parataxis relation because the complement clause is still marked as subordinated by the subjunctor *kū*.
 
 - "If two men jointly sell an object to a man (...), Wahrām said that (the vendee) is authorised to request the guarantee from whomever he wishes."
 ~~~ sdparse
