@@ -13,7 +13,7 @@ The nominal plural form is always marked, most commonly by _-ān_ (historically 
 Some pronouns can take the nominal plural suffix, e.g. interrogative _kēān_ "who":
 - _kē hē az <b>kēān</b> hē_ "Who are (you)? From whom (pl.) are (you)?"
 
-The enclitic pronouns have regularised the plural by adding the nominal plural suffix to the singular form:
+The [enclitic pronouns](case) have regularised the plural by adding the nominal plural suffix to the singular form:
 
 ||regularised plural|inherited plural|
 |---|---|---|
@@ -26,7 +26,7 @@ There is a new pronominal plural suffix _-(ē/i)šān_, which is probably derive
 Verb forms have special portmanteau suffix for person and number, e.g. _bar-ēd_ "carry.3sg" vs. _bar-ēnd_ "carry.3pl".
 
 ### <a name='Sing'>`Sing`: Singular
-The singular is the unmarked category in Middle Persian. This form can also be used in plural context and for generic reference. As such, it is only annotated for explicit singular forms such as personal pronouns and verb forms but not for nouns, adjectives, and demonstratives.
+The singular is the unmarked category in Middle Persian. This form can also be used in plural context and for generic reference. As such, it is only annotated for explicit singular forms such as [personal pronouns](PRON) and [verb](VERB) forms but not for [nouns](NOUN), [adjectives](ADJ), and [demonstratives](PRON).
 
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->
