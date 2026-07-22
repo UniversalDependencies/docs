@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Outer subjects have a clausal predicate, which itself may have a(n inner) subject of its own. Placeholders and resumptive pronouns are annotated as `dislocated:res`.
+Outer subjects have a clausal predicate, which itself may have a(n inner) subject of its own. Placeholders and resumptive pronouns are annotated as [dislocated:res]().
 
 - "The reply (is) this that the creator created the creation for the attainment of his plan."
 ~~~ sdparse
