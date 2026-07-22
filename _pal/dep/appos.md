@@ -42,4 +42,29 @@ det(hamīn-14, ī-13)
 nmod(bun, hamīn-14)
 ~~~
 
+If a Middle Persian word explains an Avestan phrase or is inserted into a Middle Persian translation as additional information, it is annotated as `appos`.
+
+- "I keep bestowing upon you, who are the Amahraspands, liturgies (publicly) and acts of veneration (Ustōfrīt-offerings)."
+~~~ sdparse
+frāz ašmāh rādēnam kē amahraspand =ēd yazišn āšnāg niyāyišn ustōfrīt \n forth you.PL bestow.1SG REL Amahraspand are.2PL liturgy public veneration Ustōfrīt
+advmod(rādēnam, frāz)
+iobj(rādēnam, ašmāh)
+obj(rādēnam, yazišn)
+mark(amahraspand, kē)
+acl:relcl(ašmāh, amahraspand)
+cop(amahraspand, =ēd)
+appos(yazišn, āšnāg)
+conj(yazišn, niyāyišn)
+appos(niyāyišn, ustōfrīt)
+~~~
+
+- "And he is producing *Fšūš* for us (good things)."
+~~~ sdparse
+u =mān fšūš kirdār nēkīh \n and us Fšūš making goodness
+cc(kirdār, u)
+obl(kirdār, =mān)
+obj(kirdār, fšūš)
+appos(fšūš, nēkīh)
+~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:40 CEST -->
