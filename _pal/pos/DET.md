@@ -11,7 +11,7 @@ Determiners are words that modify [nouns](noun) or noun phrases and express the 
 Middle Persian does not have a grammaticalized article, but demonstratives are frequently used to specify the referents of the discourse (notably the demonstrative of far deixis _ān_ "that").
 - _ka gōwēd kū=m <b>ēn</b> dastgird ō tō dād <b>ān</b> dastgird ud harw čē pad <b>ān</b> dastgird dāšt ēstēd dād bawēd_ <br>"If (someone) says: I hereby give you this property!, (then) that property and whatever is contained in that property are considered to have been given."
 
-Middle Persian exhibits a particle that links any kind of attribute to the headword, the so-called `ezāfe particle *ī*`. It derives from a relative pronoun and can still be used as such. We analyse the _ezāfe_ particle as a determiner as it links the determinans to the determinatum and thereby indicates a modification of the reference (see [det]()). The attributive phrase can be dislocated together with the _ezāfe_ particle, and if more than one attribute is linked, the _ezāfe_ particle can be repeated.
+Middle Persian exhibits a particle that links any kind of attribute to the headword, the so-called `ezāfe particle ī`. It derives from a relative pronoun and can still be used as such. We analyse the _ezāfe_ particle as a determiner as it links the determinans to the determinatum and thereby indicates a modification of the reference (see [det]()). The attributive phrase can be dislocated together with the _ezāfe_ particle, and if more than one attribute is linked, the _ezāfe_ particle can be repeated.
 
 - adjectival modifiers: _dēn <b>ī rāst ī abēzag</b>_
 - adjectival modifier preposed: _pad ōy <b>ī dagr</b> wurrōyišnīh_ "regarding the steady faith"
