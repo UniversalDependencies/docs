@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Middle Persian frequently uses placeholders of clausal complements. The `ccomp` canonically follows the speech verb. It is possible that the position of nominal objects before the speech verb is filled by a pronoun. Strictly speaking, this pronoun would be the object of the speech verb, and the complement clause would be dislocated. However, this would basically result in a total absence of `ccomp` relations, which also runs against canonical word order, i.e. considering frequency, the postverbal placement of complement clauses *is* the base position. Placeholder can also directly follow the clausal constituent.<br>Middle Persian does not require the use of expletives as omission of constituents or zero-constituents is the preferred strategy. The placeholder is not an expletive as it does fill the respective argument position. It can also be modified by 'also' and differ in deixis (typically *ēn* or *ēd* 'this, but also *ān* 'that'). The personal pronoun *ōy* 'he, she, it' does not appear as a placeholder.
+Middle Persian frequently uses placeholders of clausal complements. The [ccomp]() canonically follows the speech verb. It is possible that the position of nominal objects before the speech verb is filled by a [pronoun](PRON). Strictly speaking, this pronoun would be the object of the speech verb, and the complement clause would be dislocated. However, this would basically result in a total absence of `ccomp` relations, which also runs against canonical word order, i.e. considering frequency, the postverbal placement of complement clauses *is* the base position. Placeholder can also directly follow the clausal constituent.<br>Middle Persian does not require the use of [expletives](expl) as omission of constituents or zero-constituents are the preferred strategy. The placeholder is not an expletive as it does fill the respective argument position. It can also be modified by 'also' and differ in deixis (typically *ēn* or *ēd* 'this, but also *ān* 'that'). The personal pronoun *ōy* 'he, she, it' does not appear as a placeholder.
 
 - "And (he) has to be without doubt about this that the gods give goodness to humans."
 ~~~ sdparse
@@ -60,7 +60,7 @@ csubj(rasēd, dād)
 dislocated:res(rasēd, ōy)
 ~~~
 
-Certain texts show highger frequency of doubled subjects in ergative constructions. This may have started as an imitation of Avestan word order one the one hand and fulfilling Middle Persian word-order preferences on the other. However, this construction is a bridging context for enclitic pronouns developing to verbal agreement markers as it is prevalent in a good number of New Iranic languages (Jügel/Samvelian 2016: Les pronoms enclitiques dans les langues ouest-iraniennes, Bulletin de la Société de Linguistique de Paris 111, pp. 391-432).
+Certain texts show highger frequency of doubled subjects in ergative constructions. This may have started as an imitation of Avestan word order on the one hand and fulfilling Middle Persian word-order preferences on the other. However, this construction is a bridging context for enclitic pronouns developing to verbal agreement markers as it is prevalent in a good number of New Iranic languages (Jügel/Samvelian 2016: Les pronoms enclitiques dans les langues ouest-iraniennes, Bulletin de la Société de Linguistique de Paris 111, pp. 391-432).
 
 - "And he, Zardušt, said: Reverence to Hōm!" (ergative construction!)
 ~~~ sdparse
