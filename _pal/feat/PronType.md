@@ -11,7 +11,7 @@ This feature takes the following values: Dem, Emp, Exc, Ind, Int, Neg, Prs, Rcp,
 Demonstrative pronouns can be proximal (like _ēn_) and remote (like _ān_), but there function in discourse reference has not been fully understood yet.<br>"this" _ēn, ēd, im_, "that" _ān, ōy_, "those" _awēšān_
 
 ### <a name='Emp'>`Emp`: Emphatic pronoun
-The reflexive pronouns _xwad_ can be used as an intensifier, in case of which it receives the feature emphatic.
+The reflexive pronoun _xwad_ can be used as an intensifier, in case of which it receives the feature emphatic.
 - _dušox <b>xwad</b> tisē wattar kū bīm_ "Hell **itself** (is) something worse than fear."
 - _u=šān <b>xwad</b> pad xwad ān ī abārōn arešk abar burd_ "And they **themselves** brought sinful envy upon themselves."
 
@@ -49,7 +49,7 @@ Personal pronouns have orthotone and enclitic forms.
 The reciprical pronoun is _ham_. Elements of analytic expressions such as _ēk ō did_ "one to the other" i.e. "to each other" are annotated individually.
 
 ### <a name='Rel'>`Rel`: Relative pronoun
-All interrogative pronouns can be used as relative pronouns and the word _ī_, which is also used as a linker for attributes to their headword.
+The word _ī_, which is also used as a [linker](det) for attributes to their headword, and all interrogative pronouns can be used as relative pronouns.
 
 ### <a name='Tot'>`Tot`: Total pronoun
 Total pronouns are _harw_ "every", _hamāg_ and _(har)wisp_ "all".
