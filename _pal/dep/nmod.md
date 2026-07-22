@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Nominal modifiers can be linked by means of the *ezāfe* particle to their head word and appear before or after it. They include nouns, pronouns, proper names including adpositional phrases headed by such parts-of-speech.
+Nominal modifiers can be linked by means of the *[ezāfe](det)* particle to their head word and appear before or after it. They include [nouns](NOUN), [pronouns](PRON], [proper names](PROPN) including adpositional phrases headed by such parts-of-speech.
 
 - "in the name of the gods"
 ~~~ sdparse
