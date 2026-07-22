@@ -14,7 +14,7 @@ Middle Persian does not have a grammaticalized passive diathesis (at least in al
 
 Patterns 1+2 represent intransitive constructions, 3+4 transitive constructions, 5 is a copular construction including an [external-subject](nsubj:xsubj) relation.
 
-It is only for pattern 4 that the relation `csubj:pass` is applied to ensure a correct interpretation of the semantic roles. The passive reading is certain when the agent is encoded by a preposition phrase with *az*.
+It is only for pattern 4 that the relation `csubj:pass` is applied to ensure a correct interpretation of the semantic roles. The passive reading is certain when the [agent](obl:agent) is encoded by a preposition phrase with *az*.
 
 - "(It) was said by Siyāwaxš that (Farrox) is compliant to rules when (he) does not amortise the sum of money until (Mihrēn) gives back that deed."
 ~~~ sdparse
