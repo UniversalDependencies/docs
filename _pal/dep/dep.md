@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 Unspecified dependency appears frequently in the MPCD corpus for:
-1. non-tokens, which are usually errors in the manuscript;
+1. [non-tokens](X), which are usually errors in the manuscript;
 2. tokens that are not understood and whose position in the clause cannot be determined;
 3. orphaned tokens due to loss of text, i.e. the relation of tokens cannot be determined because part of the clause is missing;
 4. inserted tokens by editors, which actually do not occur in the manuscript and can therefor not be used to prove anything.
