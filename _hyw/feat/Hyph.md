@@ -15,7 +15,7 @@ udver: '2'
 Boolean feature. Is this part of a hyphenated compound?
 
 Hyphenated compound [adjectives](ADJ), such as _առասպելա-բանաստեղծական_/_aṙaspela-banasteġçakan_/ “mythopoetic” get split during tokenization. The final part is an independent adjective (_բանաստեղծական_/_banasteġçakan_). However, the first part, _առասպելա_/_aṙaspela_ is a form that does not occur outside such compounds (the independent form would be _առասպելական_/_aṙaspelakan_).
-`Hyph` is also used for articles, case endings, and derivational suffixes that are attached by a hyphen to numerals, abbreviations, acronyms, and similar forms.
+`Hyph` is also used for articles, case endings, and derivational suffixes that are attached with or without a hyphen to numerals, abbreviations, acronyms, and similar forms.
 
 ### <a name="Yes">`Yes`</a>: it is part of hyphenated compound
 
