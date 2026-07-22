@@ -12,24 +12,26 @@ udver: '2'
 - Punctuation exists in Pahlavi texts with divergent use: for highlighting, for indicating a semantic unit, a change of language, or it can be a reading device. We have annotated punctuation as an independent token (represented by "," unless it appears inside a word, then represented by ";" following the given word). It is related to its nearest suitable head unless it clearly marks the end of the sentence, in case of which it depends on the root.
 - Compounds are annotated as one word.
 
+---
+
 ## Morphology
 
 ### Tags
 
 The MPCD makes use of all PoS categories except for SYM (as of February 2026). Naturally, interjections ([u-dep/INTJ]()) are rare in a historical corpus of written texts.
 
-PART is used for
+Particle ([PART]()) is used for
 - verbal negation ([u-dep/Neg]()) *nē* and the prohibitive particle ([u-dep/Mod](),[u-dep/Neg]()) *ma*, 
 - the optative particles ([u-dep/Mod]()), e.g. *ēw*, 
 - the enclitic focus marker ([u-dep/Emp]()) *=iz*,
 -  and the grammatical particles ([u-dep/Vbp]()) *be* and *hamē*.
 
-Pronouns and determiners have been manually distinguished based on the syntactic analysis.
-- Attributes are linked by the so-called Ezāfe particle to their headword. In contrast to New Iranic languages, this is still an independent word, though it tends to be enclitic. This particle has been annotated as a determiner ([u-dep/DET]()). 
+[Pronouns](PRON) and [determiners](DET] have been manually distinguished based on the syntactic analysis. Determiners are co-referential with their nominal head. Pronouns have their own individual reference. Determiners usually precede their nominal head while nominally dependent pronouns usually appear in a specific attributive construction, called *ezāfe* construction.
+- Attributes are linked by the so-called *[ezāfe](_pal/dep/det.md)* particle to their headword. In contrast to New Iranic languages, this is still an independent word, though it tends to be enclitic. This particle has been annotated as a determiner ([u-dep/DET]()). 
 
 Adpositions can be prepositions ([u-dep/Prep]()), postpositions ([u-dep/Post]()), and circumpositions ([u-dep/Prep,Circ]() and [u-dep/Post,Circ]()).
 
-Auxiliaries include the copula and tense-aspect marking auxiliaries. Even though Persian auxiliaries allow for a hierarchical analysis, we follow UD in annotating a flat structure (e.g. *raft ēstād hēnd* with *hēnd* as person number marker of the auxiliary *ēstād* forming the pluperfect of the verb *raft*).
+Auxiliaries include the copula and tense-aspect marking auxiliary verbs. Even though Persian auxiliaries allow for a hierarchical analysis, we follow UD in annotating a flat structure (e.g. *raft ēstād hēnd* with *hēnd* as person number marker of the auxiliary *ēstād* forming the pluperfect of the verb *raft*).
 - Modal verbs are considered full verbs due to the different case frame they establish, which is identical to their independent use (e.g., *abāyistan* 'to be necessary' and 'must').
 - The existential verb 'to be there, to exist', which is also used in the possessive construction of the *mihi-est* type, is considered a full verb.
 
@@ -39,14 +41,11 @@ We distinguish the following non-finite verb forms:
 - verbal noun in *-išn*, which can also be used as a necessitative and as a noun.
 
 ---
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Agreement<br>
 Middle Persian has little inflection.
 - Adjectives and determiners rarely agree in plurality with their head.
-- Subject and verb always agree in person. Number agreement is facultative in the 3rd person. Note that Middle Persian exhibits an ergative construction where the object is in agreement with the verb derived from the perfective participle.
+- Subject and verb always agree in person. Number agreement is facultative in the 3rd person. Note that Middle Persian exhibits an ergative construction for all verb forms derived from the resultative participle, where the object is in agreement with the verb. In a few cases, an indirect object may agree with the verb instead.
 - In nominal clauses, the copula can be omitted, which is very common with a 3rd person subject.
 
 
@@ -63,11 +62,12 @@ Middle Persian has little inflection.
 - Animacy has been annotated facultatively as a semantic feature. It is not morphologically marked but is known to have lexical effects, e.g., selection of adpositions.
 - PronType is used with pronouns ([u-dep/PRON]()), determiners ([u-dep/DET]()), and in the case of the relativizers with subordinators ([u-dep/SCONJ]()).
 - The [u-dep/Person]() feature is only annotated for personal pronouns (and verb forms). The pronoun of the 3SG can also appear as a demonstrative. It has been manually differentiated.
-- The [u-dep/Reflex]() feature is only used with explicit reflexive pronouns, which are not marked for person and number and usually refer to the logical subject of the clause. All reflexive pronouns are phoric, i.e. there are no inherently reflexive verbs.
+- The [u-dep/Reflex]() feature is only used with explicit reflexive pronouns, which are not marked for person and number and usually refer to the topic of the clause (mostly the subject). All reflexive pronouns are phoric, i.e. there are no inherently reflexive verbs.
 - Middle Persian texts make frequent use of resumptive pronouns and placeholders, which are annotated as [u-dep/dislocated:res](). Beside regular demonstratives, this also applies to the emphasizers *hamāg* 'all' (as in German _ich habe die Bücher <b>alle</b> gelesen_) or *xwad* 'self' (as in German _ich habe dieses Buch <b>selbst</b> geschrieben_).
-- Politeness
+- Politeness is a facultative feature in Middle Persian:
 -- Middle Persian can use the 2PL and possibly also the 3PL as a [u-dep/Polite]() form for a 2SG, or 3SG respectively (as with New Persian). There is an archaic enclitic pronoun for the 1PL *=n*, which can be used as a pluralis majestatis, which has also been annotated as a polite form.
 -- Nouns can be used instead of pronouns in order to mark politeness, e.g. *bandag* 'servant' for a 1SG or *xwadāy* 'lord' for a 2SG.
+- [Transcendent](_pal/feat/Transc.md) has been established as a corpus-specific feature to mark supernatural beings, places of the beyond, and to distinguish historical characters from eschatological ones.
 
 ### Degree and Polarity<br>
 - Adjectives and adverbs are marked for degree by suffixes while few words preserve an inflected form.
@@ -78,11 +78,8 @@ Middle Persian has little inflection.
 - The [u-dep/Poss]() feature appears with personal pronouns as [u-dep/DET](), e.g. _<b>man</b> pid_ 'my father', and reflexive pronouns, e.g. _<b>xwēš</b> pid_ '(someone's) own father' interpreted as 'her father' if the subject is 3SG.FEM.
 
 ### Verbal Features
-- Diathesis is not morphologically annotated except for the present participle ([u-dep/Act]()), see syntax for analytic expressions of the passive diathesis.
+- Diathesis is not morphologically annotated except for the present participle ([u-dep/Act]()), see syntax below for analytic expressions of the passive diathesis.
 - Verb stems in Middle Persian were originally marked for aspect (perfective vs. imperfective) but changed their semantics during the Middle Persian period. Tradition considers them marked for tense (present and past), which we follow purely for practical reasons.
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
 
 ---
 
@@ -127,10 +124,9 @@ Middle Persian has little inflection.
 
 ## Treebanks
 
-There are [N](../treebanks/pal-comparison.html) Middle Persian UD treebanks:
+There is [1](../treebanks/pal-comparison.html) Middle Persian UD treebanks:
 
   * [Middle Persian-A](../treebanks/pal_a/index.html)
-  * [Middle Persian-B](../treebanks/pal_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
