@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-The fixed relation is mainly used for denominal prepositions. Similar to German, where denominal adpositions govern the genitive, Middle Persian denominal prepositions require an *ezāfe* particle as if the complement noun was a nominal modifier, i.e. the original construction is preserved with a new reading.
+The fixed relation is mainly used for denominal prepositions. Similar to German, where denominal adpositions govern the genitive case, Middle Persian denominal prepositions require an *[ezāfe](det)* particle as if the complement noun was a nominal modifier, i.e. the original construction is preserved with a new reading.
 
 
 - "amid the crowd" (constructed example)
