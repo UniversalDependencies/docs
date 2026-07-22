@@ -12,11 +12,11 @@ The emphatic particle is focus marking _=iz_.
 - _ud waranīgīhā xwaddōšagīh rāy <b>ān=iz kār</b> kē=š rāh ī ō wahišt padiš šāyēd būd xwēštan pad=iš nē ranǰēnd_ "And because of lecherous self-infatuation, (they) do not **even** care about **that deed**, through which the path to paradise (leads)!"
 
 ### <a name='Mod'>`Mod`: Modal particle
-Modal particles mark, e.g., the optative mood, _ēw_.
+Modal particles mark, e.g., the optative mood, _ē(w)_.
 - _xwāstag ī=m paydāg kird mihrēn <b>ē dārēd</b>_ "Mihrēn **shall possess** the object which I have indicated."
 
 ### <a name='Neg'>`Neg`: Negative particle
-The are two negative particles in Middle Persian: _nē_, and prohibitive _ma_.
+There are two negative particles in Middle Persian: _nē_, and prohibitive _ma_.
 - _az ēn dō tis šarm <b>nē abāyēd</b> kirdan ēk az wēmārīh ud ud dudīgar az xwēšāwand ī driyōš_ "Of these two things, (one) **should not** be ashamed: one, of illness, second, of a poor relative."
 - _xešmīh <b>ma gīr</b>_ "**Don't get** angry!" (lit. do not take anger)
 
