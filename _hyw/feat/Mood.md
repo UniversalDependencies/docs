@@ -41,7 +41,7 @@ The speaker uses the imperative to order or ask the addressee to do the action o
 * _<b>կեցի՛ր</b>_/_<b>kecʼi՛r</b>_ “stop!”,
 * _<b>կեցէ՛ք</b>_/_<b>kecʼē՛kʼ</b>_ “stop!” (plural),
 * _վստահ <b>եղիր</b>_/_vstah <b>eġirʼ</b>_ “be sure!”
-* _վստահ <b>եղէք</b>_/_vstah <b>eġēkʼ</b>_ “be sure!”(plural).
+* _վստահ <b>եղէք</b>_/_vstah <b>eġēkʼ</b>_ “be sure!” (plural).
 
 
 ### <a name="Sub">`Sub`</a>: subjunctive / conjunctive / optative
@@ -50,12 +50,10 @@ The subjunctive mood is used primarily in subordinate clauses, typically for act
 
 #### Examples
 
-* _<b>գնայի</b> տուն_/_<b>gnayi</b> town_ “(I wish) <b>I could go</b> home”,
-* _<b>գնամ</b> տուն_/_<b>gnam</b> town_ “<b>I'd (better) go</b> home”,
-* _վազելու <b>լինեի</b>_/_vazelow <b>linei</b>_ “(if) <b>I would intend</b> to run”,
-* _վազելու <b>լինեմ</b>_/_vazelow <b>linem</b>_ “(if) <b>I intend</b> to run”,
-* _տուն <b>ունենայի</b>_/_town <b>ownenayi</b>_ “I wish <b>I had</b> a house”,
-* _տուն <b>ունենամ</b>_/_town <b>ownenam</b>_ “<b>I'd (better) have</b> a house; (if) <b>I have</b> a house”
+* _<b>երթաք</b> բարի_/_<b>ertʼakʼ</b> bari_ “(I wish) <b>you go</b> in peace”,
+* _թող <b>ըլլայ</b>_/_tʼoġ <b>ëllay</b>_ “let it <b>be</b>”,
+* _որ <b>սպասէիք</b>_/_or <b>spasēikʼ</b>_ “if <b>you had waited</b>”,
+* _եթէ խօսելու <b>ըլլայ</b>_/_etʼē xòselow <b>ëllay</b>_ “if he/she were to speak”,
 
 ### <a name="Nec">`Nec`</a>: necessitative
 
