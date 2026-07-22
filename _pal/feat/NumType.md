@@ -31,7 +31,7 @@ Ordinal numbers are derived from cardinal numbers by the suffix _-om_. The first
 - "third": _seyom_, _sidīgar_
 -  "fourth": _čahārom_, _tasom_
 
-### <a name='Sets'>`Sets`: explanation of the value
+### <a name='Sets'>`Sets`: Sets
 If a word meaning "pair" is used as a quantifier, e.g. _ǰuxt_.
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->
