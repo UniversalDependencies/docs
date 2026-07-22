@@ -111,8 +111,8 @@ Middle Persian has little inflection.
 <br>-- Coordinators are also used as connectives (at the beginning of an utterance, connecting a subclause with its matrix clause).
 <br>-- Since the subject can be omitted, and object and verb tend to appear towards the end of a clause, coordination with head-deletion usually displays the most complete member at the end. Applying the UD principle that the root is the first member results in a quirky annotation with truncated root clauses. We therefore use the [u-dep/dep:conj]() relation.
 - Apposition [u-dep/appos]() applies as expected with two special cases. A part of our corpus consists of Middle Persian translations of Avestan texts. The translators usually imitated Avestan to the highest degree possible, which often results in an incomprehensible or ambiguous structure or expression, which is then repeated in idiomatic Middle Persian linked to the first by a subordinator or a discourse particle. We treat the relation of two synonymous expressions as appositional:
--- [u-dep/appos]() for nominal phrases rephrased by a nominal phrase;
--- [u-dep/apposcl]() for nominal phrases or clauses rephrased by a clause (i.e. appositional clause).
+<br>-- [u-dep/appos]() for nominal phrases rephrased by a nominal phrase;
+<br>-- [u-dep/apposcl]() for nominal phrases or clauses rephrased by a clause (i.e. appositional clause).
   
 ---
 
