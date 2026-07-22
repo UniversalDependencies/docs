@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Clausal complements can fill the object position in Middle Persian. This is typical for *verba dicendi* and similar verbs. The complement clause is always introduced by a subjunctor, usually *kū*. Direct speech cannot be distinguished from reported speech as there is no person or tense shift in reported speech. Still, complement clauses that appear like direct speech also display features of indirect speech like enclitic pronouns as the seemingly first word of the speech.<br>The complement clause is sometimes interrupted by the speech verb. Contrary to the regular UD procedure, this is not annotated as a parataxis relation because the complement clause is still marked as subordinated by the subjunctor *kū*.
+Clausal complements can fill the object position in Middle Persian. This is typical for *verba dicendi* and similar verbs. The complement clause is always introduced by a [subjunctor](SCONJ), usually *kū*. Direct speech cannot be distinguished from reported speech as there is no person or tense shift in reported speech. Still, complement clauses that appear like direct speech also display features of indirect speech like enclitic pronouns as the seemingly first word of the speech.<br>The complement clause is sometimes interrupted by the speech verb. Contrary to the regular UD procedure, this is not annotated as a [parataxis]() relation because the complement clause is still marked as subordinated by the subjunctor *kū*.
 
 - "(He) asked: What does exist and what does not exist?"
 ~~~ sdparse
@@ -32,7 +32,7 @@ mark(pādixšāy, kū)
 ccomp(guft, pādixšāy)
 ~~~
 
-The complement clause usually follows the main verb, and a resumptive pronoun can appear in situ. As one can argue that the postverbal position of complement clauses is the regular position, it is not considered dislocated. Instead, the resumptive pronoun is annotated as `dislocated:res`. Otherwise, there would basically be no `ccomp` relations in Middle Persian.
+The complement clause usually follows the main verb, and a resumptive pronoun can appear in situ. As one can argue that the postverbal position of complement clauses is the regular position, it is not considered dislocated. Instead, the resumptive pronoun is annotated as [dislocated:res](). Otherwise, there would basically be no `ccomp` relations in Middle Persian.
 
 - "The authorities of the religion also say this that the Foul Spirit wanted to mis-create these wolf species secretly."
 ~~~ sdparse
