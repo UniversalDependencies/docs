@@ -5,7 +5,9 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-The numeric modifier relation is used for cardinal numbers only which are used as quantifiers. The number 'one' can appear as an enclitic, which must be distinguished from its use as a `determiner`. Cardinal numerals can also head nominal phrases and are then annotated accordingly. Note that *harw dō* is analysed as *all two* (i.e. 'both') with *harw* as determiner of *dō*.
+The numeric modifier relation is used for cardinal [numbers](NumType) only which are used as quantifiers. The number 'one' can appear as an enclitic, which must be distinguished from its use as a [determiner](det). Cardinal numerals can also head nominal phrases and are then annotated accordingly.
+
+Note that *harw dō* is analysed as *all two* (i.e. 'both') with *harw* as determiner of *dō*.
 
 - "of these two things"
 ~~~ sdparse
