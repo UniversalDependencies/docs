@@ -8,10 +8,10 @@ udver: '2'
 This feature takes the following values: Past, Pres.
 
 There are two stems in Middle Persian:
-- the inherited imperfective stem for the so-called 'present', in which injunctive, indicative and imperfect coincided
-- the inherited verbal adjective, which became a perfective participle and eventually a stem, which is commonly referred to as past stem.
+- the inherited imperfective stem for the so-called 'present', in which injunctive, indicative and imperfect coincided;
+- the inherited verbal adjective, which became a resultative participle and eventually a stem, which is commonly referred to as past stem.
 
-Following traditions, these two stem are referred to as tense stem. Infinitives and verbal nouns are not marked for tense.
+Following traditions, these two stems are referred to as tense stems. Infinitives and verbal nouns are not marked for tense.
 
 The elements of analytic verb forms are analysed individually.
 
