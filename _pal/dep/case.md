@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Middle Persian makes frequent use of prepositions. There is one well-established postposition (*rāy* 'for'), the existence of other postpositions and circumpositions is debatable.
+Middle Persian makes frequent use of [prepositions](ADP). There is one well-established postposition (*rāy* 'for'), the existence of other postpositions and circumpositions is debatable.
 <br>The adposition usually delimits the adpositional phrase. Only long dependents (e.g. relative clauses) may be dislocated to after the adpositional phrase.
 
 - "(It) says about Dahāg whom (they) also call Bēwarasp (that...)"
@@ -29,7 +29,7 @@ mark(šud, kē)
 acl:relcl(ōy, šud)
 ~~~
 
-Case relations can be specified by adverbials (*ō* 'to', *andar ō* 'into', *abar ō* 'onto', *bē ō* 'forth/away to', *tā ō* 'up to', etc.). We have to follow UD in assuming a flat structure. Against UD, we do not analyse those as combinations of prepositions as the prepositional meaning of the single elements may differ (e.g. *bē ō* 'forth/away to', but prepositional *bē* 'without, except').
+Case relations can be specified by [adverbials](ADV) (*ō* 'to', *andar ō* 'into', *abar ō* 'onto', *bē ō* 'forth/away to', *tā ō* 'up to', etc.). We have to follow UD in assuming a [flat]() structure. Against UD, we do not analyse those as combinations of prepositions as the prepositional meaning of the single elements may differ (e.g. *bē ō* 'forth/away to', but prepositional *bē* 'without, except').
 
 - "time, which was unlimited up to the act of creation"
 ~~~ sdparse
@@ -56,7 +56,7 @@ case(mayān, andar)
 nmod(mayān, asmān)
 ~~~
 
-Some adpositions are also used as adverbs or subjunctors, e.g. *tā* as ADV 'until then, so long, up', as ADP 'until, throughout', as SCONJ 'as long as, until, so that'. At times, it is difficult to distinguish them because elliptical clauses are possible and morphological case marking is sparse in Middle Persian. In case of doubt, we opted for the simpler structure.
+Some adpositions are also used as [adverbs](ADV) or [subjunctors](SCONJ), e.g. *tā* as ADV 'until then, so long, up', as ADP 'until, throughout', as SCONJ 'as long as, until, so that'. At times, it is difficult to distinguish them because elliptical clauses are possible and morphological case marking is sparse in Middle Persian. In case of doubt, we opted for the simpler structure.
 
 - 'mark' relation: "And the sky is so afraid of him as small livestock (is afraid) of the wolf."
 ~~~ sdparse
@@ -77,6 +77,6 @@ acl(mēš, tarsand-14)
 mark(tarsand-14, ka)
 ~~~
 
-Even though the attributive linker *ezāfe* is comparable to a case marker when it comes to nouns modifying other nouns, the very same linker is used for adjectives, adverbs, appositions, and infinite attributive clauses, which show no sign of substantivization. The *ezāfe* particle is annotated as a determiner.
+Even though the attributive linker *ezāfe* is comparable to a case marker when it comes to nouns modifying other nouns, the very same linker is used for adjectives, adverbs, appositions, and infinite attributive clauses, which show no sign of substantivization. The *ezāfe* particle is annotated as a [determiner](DET).
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:44 CEST -->
