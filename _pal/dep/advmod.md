@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Adverbial modifiers includes sentential and verbal adverbs as well as particles. They typically modify verbs but can also depend on nouns, especially action nouns.
+Adverbial modifiers includes sentential and verbal [adverbs](ADV) as well as [particles](PART). They typically modify verbs but can also depend on nouns, especially action nouns.
 
 - "in the hope of peace in paradise, (they) willingly take on a great deal of trouble"
 ~~~ sdparse
