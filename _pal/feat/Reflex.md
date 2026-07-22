@@ -12,6 +12,8 @@ There are few words that are inherently marked as reflexive. They are usually no
 - _xwad_ and _xwēštan_, which are typically used as reflexive pronouns;
 - _xwēš_, which is typically used as a possessive pronoun that is co-referential with the topic of the clause.
 
+There are no inherently reflexive verbs in Middle Persian.
+
 #### Example
 - anaphoric _xwēštan_: _čē kē xešm aweštābēd u=š <b>xwēštan</b> wirāstan tuwān pad wehīh_ "For whoever is overcome by anger can (once again) calm **themselves** through goodness."
 - possessive _xwēš_: _mard=ē kē duxt <b>ī xwēš</b> rāy gōwēd_ "a man says about **his** daughter"
