@@ -7,7 +7,7 @@ udver: '2'
 
 Adverbial modifiers can be specified as temporal.
 
-The word _pas_ "after" can both be spatial (following), temporal (then, afterwards), and logical (then, thus). In case of doubt, it is annotated without modification.<br>If _pas_ modifies a case relation, it is linked to the head of the case relation.
+The word _pas_ "after" can both be spatial (following), temporal (then, afterwards), and logical (then, thus). In case of doubt, it is annotated without modification.<br>If _pas_ modifies a [case]() relation, it is linked to the head of the case relation.
 
 - "Then (he) created Ardwahišt and then Šahrewar, then Spandārmad and then Hordād (and) Amurdād."
 ~~~ sdparse
