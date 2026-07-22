@@ -5,9 +5,9 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-The nominal subject relation is used for nouns, pronouns, and proper names. In the ergative construction the so-called A participant is taken as the subject. If the ergative construction received a passive reading, the object is annotated as `nsubj:pass`. Clausal subjects are annotated as `csubj`. Subjects of clausal predicates are annotated as `nsubj:outer`. In a possessive construction, the possessum is encoded as subject and the possessor as an oblique.
+The nominal subject relation is used for [nouns](NOUN), [pronouns](PRON), and [proper names](PROPN). In the ergative construction the so-called A participant is taken as the subject. If the ergative construction received a passive reading, the object is annotated as [nsubj:pass](). Clausal subjects are annotated as [csubj](). Subjects of clausal predicates are annotated as [nsubj:outer](), external subjects of predicatives or dependent verbs are annotated as [nsubj:xsubj](). In a possessive construction, the possessum is encoded as `subject` and the possessor as an [oblique](obl).
 
-Note that subjects are frequently omitted. Expletive subjects have not been identified so far.
+Note that subjects are frequently omitted. [Expletive](expl) subjects have not been identified so far.
 
 - "And so, the gods have created the dogs and flyers (the birds) according to their nature as carrion eaters."
 ~~~ sdparse
@@ -58,7 +58,7 @@ cc(mēnōy, ud-4)
 
 **On oblique subjects**
 1. The oblique A participant of the ergative construction is in `nsubj` relation to its head. (For examples see above.)
-2. The oblique A or S participant of modal constructions is in `nsubj` relation to the modal verb (*abāyistan* 'must').
+2. The oblique A or S participant of modal constructions is in `nsubj` relation to the modal verb (e.g., *abāyistan* 'must').
 3. The Experiencer participant is in `obl` relation to its head (e.g., *sahistan* 'to seem', *abāyistan* 'to be necessary').
 
 - Oblique experiencer: "As long as (he is) alive, (he is) authorized to take back the guardianship whenever there is a need for him."
