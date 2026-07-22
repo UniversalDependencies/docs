@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-An open clausal complement of a verb or an adjective is (i) a core argument of the verb, (ii) which is without its own subject and (iii) for which the reference of the subject is necessarily determined by an argument external to the `xcomp`. This relation is typical for modal verbs: 'for someone it is necessary to do something' i.e. 'someone must do something', or verbs like 'to make' or 'to become'.
+An open clausal complement of a [verb]() or an [adjective](ADJ) is (i) a core argument of the verb, (ii) which is without its own subject and (iii) for which the reference of the subject is necessarily determined by an argument external to the `xcomp`. This relation is typical for modal verbs: 'for someone it is necessary to do something' i.e. 'someone must do something', or verbs like 'to make' or 'to become'.
 
 - "Which one appears more useful to you."
 ~~~ sdparse
