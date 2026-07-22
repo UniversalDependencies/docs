@@ -7,7 +7,7 @@ udver: '2'
 
 The `acl:relcl` relation is used for a relative clause modifier of a nominal. 
 
-The nominal headword (aka antecedent) of the relative clause usually precedes the relative clause and can be resumed in it. As with New Persian, there are attestations of antecedent marking by means of the specifier _=ēw_ (probably pronounced _ī_ at that time). The relativizer is in most cases not pronominal.<br>Middle Persian relative clauses are finite and can be dislocated.
+The nominal headword (aka antecedent) of the relative clause usually precedes the relative clause and can be resumed in it. As with New Persian, there are attestations of antecedent marking by means of the [specifier](Definite) _=ēw_ (probably pronounced _ī_ at that time). The relativizer is in most cases not pronominal.<br>Middle Persian relative clauses are finite and can be dislocated.
 
 - "(it) took away the things which have fallen there"
 ~~~ sdparse
