@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-The indirect object relation is rare in Middle Persian because it is mostly the subject and direct object that appear without adpositional flagging. The indirect object is usually flagged by the preposition *ō* 'to' so that recipients, addressees, and goals are formally indistinguishable.
+The indirect object relation is rare in Middle Persian because it is mostly the [subject](nsubj) and [direct object](obj) that appear without adpositional flagging. The indirect object is usually [flagged by the preposition](obl) *ō* 'to' so that recipients, addressees, and goals are formally indistinguishable.
 
 As the category of indirect objects is not well-defined for Middle Persian, only those constituents are annotated as `iobj` whose core argument status is certain and which are not flagged by a preposition. These are mostly enclitic personal pronouns.
 
