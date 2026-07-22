@@ -5,7 +5,9 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Appositional modifiers are co-referential nouns, i.e. the appositional modifier and its head refer to the same referent so that either of them could represent the referent on its own. Middle Persian does not make use of punctuation marks so that flat relations cannot always be clearly distinguished from appositional relations. If the attribute linking *ezāfe* particle is present, it is definitely an appositional relation as the second element is clearly marked as dependent.
+Appositional modifiers are co-referential [nouns](NOUN) or [proper nouns](PROP), i.e. the appositional modifier and its head refer to the same referent so that either of them could represent the referent on its own.
+
+Middle Persian does not make use of punctuation marks so that [flat]() relations cannot always be clearly distinguished from appositional relations. If the attribute linking [*ezāfe* particle](DET) is present, it is definitely an appositional relation as the second element is clearly marked as dependent.
 
 - "Ohrmazd, the Lord"
 ~~~ sdparse
