@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Light-verb constructions are prevalent in New Persian and they appear in Middle Persian texts as well. In a number of cases, the construction is ambiguous. In *passox kirdan* 'to make the answer', the noun can be taken as object and the complement clause as an attributive clause of that object. However, as *passox kirdan* appears like a speech verb, the analysis as a light-verb construction is preferred.
+Light-verb constructions are prevalent in New Persian and they appear in Middle Persian texts as well. In a number of cases, the construction is ambiguous. In *passox kirdan* 'to make the answer', the noun can be taken as object and the complement clause as an [attributive](acl) clause of that object. However, as *passox kirdan* appears like a speech verb, the analysis as a light-verb construction is preferred.
 
 - "(One) should not be ashamed of these two things: one, of illnes, and second, of a poor relative."
 ~~~ sdparse
