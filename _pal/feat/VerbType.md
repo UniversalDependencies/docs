@@ -31,6 +31,6 @@ Most common modal verbs include:
 - _šāyistan_ 'to be possible' i.e. 'can, may'
 
 ### <a name='Quasi'>`Quasi`: Quasi verb
-The word _tuwān_ is used as a noun "might, power" but is also employed like a modal verb. However, it does not inflect (except for later texts) and is therefore annotated as 'something like a verb'.
+The word _tuwān_ is used as a noun "might, power" but is also employed like a modal verb 'can, be able'. However, it does not inflect (except for later texts) and is therefore annotated as 'something like a verb'.
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
