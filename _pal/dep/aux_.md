@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Auxiliary verbs represent independent verb forms in Middle Persian, which can fully inflect. Nevertheless, they receive a flat structure according to UD rules.
+Auxiliary verbs represent independent verb forms in Middle Persian, which can fully inflect. Nevertheless, they receive a [flat]() structure according to UD rules.
 <br>For instance, the pluperfect is formed with the resultative participle of the main verb followed by the 'past' of the auxiliary verb, i.e. the resultative participle of the auxiliary verb *ēstādan* followed by the person and number marking copula verb: (PP (PP+COP)).
 
 - "the authorities who had come"
