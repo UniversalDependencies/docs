@@ -5,7 +5,8 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-The object relation is used for the secondary participant of transitive verbs. In an ergative construction, the object is in direct case and triggers person-number agreement with the verb. If an ergative construction receives a passive interpretation, the object is annotated as `nsubj:pass`. Object clauses are annotated as `ccomp`. In a possessive construction, the possessum is encoded as subject.<br>Indirect objects can formally not be differentiated from direct objects. We identify that participant as indirect, which is normally flagged with a preposition in other attestations (typically the recipient or addressee).
+The object relation is used for the secondary participant of [transitive](Subcat) verbs. In an ergative construction, the object is in direct case and triggers person-number agreement with the verb. If an ergative construction receives a passive interpretation, the object is annotated as [nsubj:pass](). Object clauses are annotated as [ccomp](). In a possessive construction, the possessum is encoded as [subject](nsubj).<br>
+[Indirect](iobj) objects can formally not be differentiated from direct objects. We identify that participant as indirect, which is normally flagged with a preposition in other attestations (typically the recipient or addressee).
 
 Objects are frequently omitted as known, active referents.
 
