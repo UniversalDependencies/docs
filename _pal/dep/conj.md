@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Conjunct relations are underspecified in Middle Persian. They can link equal parts in a flat structure where the sequence is of no relevance. Further dependents following a conjunct can dependent on the coordinated phrase, i.e. modify both parts, or only to the last. In the latter case, the sequence does matter.
+Conjunct relations are underspecified in Middle Persian. They can link equal parts in a [flat]() structure where the sequence is of no relevance. Further dependents following a conjunct can dependent on the coordinated phrase, i.e. modify both parts, or only on the last. In the latter case, the sequence does matter.
 
 - "ease and bliss on earth" (i.e. ease on earth and bliss on earth)
 ~~~ sdparse
@@ -36,7 +36,7 @@ cc(afsōsgarīh, ud-4)
 conj(gufsišn, afsōsgarīh)
 ~~~
 
-Middle Persian has a relatively low referential density and omission of identical parts in coordination is common. This does not pose a problem if coordination only affects two equal parts (e.g. two objects). However, it is also possible to coordinate pairs. In English, these may seem like two coordinated sentences with simple omission of identical parts, e.g. <br>'Peter gives a book to Mary and a voucher to John.' as short for 'Peter gives a book to Mary and (Peter gives) a voucher to John.'<br>In Middle Persian, the most common word order would be: 'Peter a book to Mary and a voucher to John gives.' Following the UD principle of linking conjuncts only to what precedes them would result in a verbless head clause 'Peter a book to Mary' as head of 'and a voucher to John gives.', which is not felicitous.
+Middle Persian has a relatively low referential density and omission of identical parts in coordination is common. This does not pose a problem if coordination only affects two equal parts (e.g. two objects). However, it is also possible to coordinate pairs. In English, these may seem like two coordinated sentences with simple omission of identical parts, e.g. <br>'Peter gives a book to Mary and a voucher to John.' as short for 'Peter gives a book to Mary and (Peter gives) a voucher to John.'<br>In Middle Persian, the most common word order would be: 'Peter a book to Mary and a voucher to John gives.' Following the UD principle of linking `conjuncts` only to what precedes them would result in a verbless head clause 'Peter a book to Mary' as head of 'and a voucher to John gives.', which is not felicitous.
 
 - "A woman (is not allowed) not to take a husband and a man is not allowed not to take a wife." (omitted word in parantheses)
 ~~~ sdparse
@@ -78,12 +78,12 @@ case(=š, awi)
 obl(frōxt, =š)
 ~~~
 
-<br>An alternative analysis would be an embedded conjunct clause: 'Peter a book to Mary (embedded: and a voucher to John) gives.' but this cannot be reconstructed as two full clauses without change of word order because the direct reconstruction results in an ungrammatical structure: 'Peter a book to Mary and (Peter) a voucher to John (gives) gives.' This analysis would also violate the principle of linking conjuncts to what precedes them.
+<br>An alternative analysis would be an embedded `conjunct` clause: 'Peter a book to Mary (embedded: and a voucher to John) gives.' but this cannot be reconstructed as two full clauses without change of word order because the direct reconstruction results in an ungrammatical structure: 'Peter a book to Mary and (Peter) a voucher to John (gives) gives.' This analysis would also violate the principle of linking conjuncts to what precedes them.
 
-The obviously correct analysis is that it is possible to coordinate not only single parts but also pairs, which is something that cannot be annotated in UD. The solution is to assume the first part to be the conjunct dependent of the second: 'Peter a book to Mary (gives) and (Peter) a voucher to John gives.' Omission of continued subjects is regular in Middle Persian so that one can assume two rules: 
+The obviously correct analysis is that it is possible to coordinate not only single parts but also pairs, which is something that cannot be annotated in UD. The solution is to assume the first part to be the `conjunct` dependent of the second: 'Peter a book to Mary (gives) and (Peter) a voucher to John gives.' Omission of continued subjects is regular in Middle Persian so that one can assume two rules: 
 1. Omit continued subject: 'Peter a book to Mary gives. (Peter) a voucher to John gives.'
 2. Coordinate and omit identical parts: 'Peter a book to Mary (gives) and a voucher to John gives.'
-The remaining problem is the UD principle of linking conjuncts to what precedes them, which we solve by renaming such dependent relations as `dep:conj`.
+The remaining problem is the UD principle of linking conjuncts to what precedes them, which we solve by renaming such dependent relations as [dep:conj]().
 
 - "A woman (is not allowed) not to take a husband and a man is not allowed not to take a wife." (omitted word in parantheses)
 ~~~ sdparse
@@ -100,7 +100,7 @@ orphan(zan-1, kirdan-4)
 dep:conj(pāduxšāy, zan-1)
 ~~~
 
-Coordination in Middle Persian is also semantically underspecified. This becomes easily apparent in the law book where one finds statements preceded by several conditions, which may or may not share identical participants. Some coordinated clauses form one single conditions (annotated as a conjunct), other coordinated clauses form a second condition (annotated as another subclause). In the latter case, Middle Persian tends to repeat the subjunctor but this does not seem to be obligatory. Thus, clause order matters and the logic of coordination differs ('and, as well' vs. 'also, in addition'). Apparently, this logical difference is not important enough to receive a different structural or lexical representation in Middle Persian, even though it is likely that the intonation pattern differed. However, the manuscripts do not give any hints on that.
+Coordination in Middle Persian is also semantically underspecified. This becomes apparent in the law book where one finds statements preceded by several conditions, which may or may not share identical participants. Some coordinated clauses form one single conditions (annotated as a `conjunct`), other coordinated clauses form a second condition (annotated as another subclause). In the latter case, Middle Persian tends to repeat the subjunctor but this does not seem to be obligatory. Thus, clause order matters and the logic of coordination differs ('and, as well' vs. 'also, in addition'). Apparently, this logical difference is not important enough to receive a different structural or lexical representation in Middle Persian, even though it is likely that the intonation pattern differed. However, the manuscripts do not give any hints on that.
 
 - "If (he) does not agree to the good deed and (it is) not his by law, even if (they) are doing (it) for him, then (it) will not count in his favour."
 ~~~ sdparse
