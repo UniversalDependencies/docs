@@ -5,9 +5,9 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-The copular verb is an independent verb in Middle Persian, which can fully inflect. The decision by UD to give a flat structure to the copular verb results in a number of oddities.
+The copular verb is an independent [verb](VERB) in Middle Persian, which can fully inflect. The decision by UD to give a [flat]() structure to the copular verb results in a number of oddities.
 
-(1) Despite the hierarchical formation of the copular verb, the person and number marking auxiliary is related to the nominal head.
+(1) Despite the hierarchical formation of the copular verb, the person and number marking [auxiliary](aux_) is related to the nominal head.
 - "For when I was praiseworthy, then you have made me even more praiseworthy."
 
 ~~~ sdparse
@@ -38,7 +38,7 @@ aux(kird, ēstād)
 aux(kird, hē)
 ~~~
 
-(3) The infinitive which is dependent of a modal verb often follows the modal verb directly, while the rest of the infinitive clause precedes the modalverb. Even though copular constructions comply to this pattern, they have to be annotated differently.
+(3) The infinitive which is [dependent](xcomp) of a modal verb often follows the modal verb directly, while the rest of the infinitive clause precedes the modalverb. Even though copular constructions comply to this pattern, they have to be annotated differently.
 - copular construction dependent of a modal verb: "(It) cannot be otherwise!"
 - full verb dependent of a modal verb: "For how long should (you) not drink water?"
 
