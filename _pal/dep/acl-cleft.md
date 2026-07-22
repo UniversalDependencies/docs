@@ -5,11 +5,30 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-A brief description of the dependency relation.
+In Middle Persian, dependent clauses in cleft sentences are in all aspects identical to relative clauses. As such, this annotation identifies the presence of clefting in the sentence. It is used for focus marking as well as avoiding clausal arguments.
 
+- "Who (is) the one who should not be accepted as a witness?"
 ~~~ sdparse
-pad nām ī yazadān \n in name Ezafe gods
-case(nām, pad)
-det(yazadān, ī)
-nmod(nām, yazadān)
+kē ān ī pad gugāy nē padīrišn \n who that REL as witness not accept.NEC
+nsubj(ān, kē)
+mark(padīrišn, ī)
+acl:cleft(ān, padīrišn)
+~~~
+
+- "(It) is knowledge that one never has enough of." (lit. of which one does not know satiation)
+~~~ sdparse
+dānāgīh ast kē kas sērīh az =iš nē dānēd \n knowledge is REL someone satiation from it not knows
+cop(dānāgīh, ast)
+mark(dānēd, kē)
+acl:cleft(dānāgīh, dānēd)
+~~~
+
+- "The words of that one (are) best who speaks most directly."
+~~~ sdparse
+gōwišn ī ōy xūbtar kē rāsttar gōwēd \n speaking EZ that better REL more_straight speaks
+nsubj(xūbtar, gōwišn)
+nmod(gōwišn, ōy)
+det(ōy, ī)
+mark(gōwēd, kē)
+acl:cleft(ōy, gōwēd)
 ~~~
