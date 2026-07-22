@@ -5,7 +5,7 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
-Oblique relations are flagged by adpositions in Middle Persian. An exception can be adverbial expressions of time (`obl:tmod`) and space (`obl:lmod`) as well as possessors, experiencers and, possibly, beneficiaries. What figures as an indirect object in many languages appears as a prepositional phrase in Middle Persian (usually with *ō* 'to').
+Oblique relations are flagged by [adpositions](ADP) in Middle Persian. An exception can be adverbial expressions of time ([obl:tmod]()) and space ([obl:lmod]()) as well as possessors, experiencers and, possibly, beneficiaries. What figures as an indirect object in many languages appears as a prepositional phrase in Middle Persian (usually with *ō* 'to').
 
 - "And may you get the same degree of kindness and benevolence from the gods as your own!"
 ~~~ sdparse
