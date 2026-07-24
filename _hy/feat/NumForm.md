@@ -16,8 +16,7 @@ udver: '2'
 </tr>
 </table>
 
-Feature of all [number types](NumType). Is the number expressed by
-digits or as a word? Several types of nouns can also have this feature, adjectives and adverbs can too.
+Feature of all [number types](NumType). Is the number expressed by digits or as a word? Several types of nouns, as well as adjectives and adverbs, can also have this feature.
 
 ### <a name="Word">`Word`</a>: number expressed as a word
 
