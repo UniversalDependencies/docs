@@ -70,6 +70,6 @@ This could be considered a subtype of cardinal numbers (provided tokenization le
 
 #### Examples
 
-* _4-5 (չորս-հինգ)_/_4-5 (čors-hing)_ “four or five” 
-* _10-15 (տասից տասնհինգ)_/_10-15 (tasicʼ tasnhing)_ “from ten to fifteen”
+* _4-5 (չորս-հինգ)_/_4-5 (čors-hing)_ “four or five”
+* _10-15 (տասը-տասնհինգ)_/_10-15 (tasë-tasnhing)_ “from ten to fifteen”
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->
