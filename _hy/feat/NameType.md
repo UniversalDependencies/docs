@@ -23,7 +23,7 @@ Classification of named entities (token-based, no nesting of entities etc.). The
 
 ### <a name="Geo">`Geo`</a>: geographical name
 
-Names of cities, countries, rivers, mountains, etc. This feature is also used for adjectives derived from geographical names (e.g. _ֆրանսիական_/_fransiakan_ “french”).
+Names of cities, countries, rivers, mountains, etc.
 
 #### Examples
 
