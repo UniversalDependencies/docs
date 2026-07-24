@@ -28,13 +28,12 @@ Note that there are no _adverbial ordinal_ and _multiplicative numerals_ in Midd
 
 ### <a name="Card">`Card`</a>: cardinal number
 
-Note that in some Indo-European languages there is a fuzzy borderline
-between numerals and nouns for _thousand, million_ and _billion._
+Note that in some Indo-European languages there is a fuzzy borderline between numerals and nouns for _thousand_, _million_ and _billion._
 
 #### Examples
 
 * _1, 2, 3_
-*  _մեկ/mek, երկու/erkow, իրեք (երեք)/irek’ (erek’)_ “one, two, three”
+* _մեկ_/_mek_ “one”, _երկու_/_erkow_ “two”, _իրեք (երեք)_/_irek’ (erek’)_ “three”
 
 ### <a name="Ord">`Ord`</a>: ordinal number
 
@@ -42,7 +41,7 @@ This is a subtype of adjective.
 
 #### Examples
 
-* _առջի/aṙǰi, երկուսում/erkowsowm, իրեքում/irek’owm_ “first, second, third”
+* _առջի_/_aṙǰi_ “first”, _երկուսում_/_erkowsowm_ “second”, _իրեքում_/_irek’owm_ “third”
 
 ### <a name="Frac">`Frac`</a>: fraction
 
@@ -50,8 +49,8 @@ This is a subtype of cardinal numbers. It may denote a fraction or just the deno
 
 #### Examples
 
-* _կէս/kēs, չարէկ/čarēk_ “one-half, quarter”
-* _երեքակ/erek’ak, հնկակ/hnkak, տասնակ/tasnak_ “one third, one fifth, one tenth”
+* _կէս_/_kēs_ “one-half”, _չարէկ_/_čarēk_ “quarter”
+* _երեքակ_/_erek’ak_ “one third”, _հնկակ_/_hnkak_ “one fifth”, _տասնակ_/_tasnak_ “one tenth”
 
 ### <a name="Dist">`Dist`</a>: distributive numeral
 
@@ -59,7 +58,7 @@ Used to express that the same quantity is distributed to each member in a set of
 
 #### Examples
 
-*_մէկ-մէկ/mēk-mēk, երկու-երկու/erkow-erkow, իրեք-իրեք/irek’-irek’_ “one at a time, two at a time, three at a time”
+* _մէկ-մէկ_/_mēk-mēk_ “one at a time”, _երկու-երկու_/_erkow-erkow_ “two at a time”, _իրեք-իրեք_/_irek’-irek’_ “three at a time”
 
 ### <a name="Range">`Range`</a>: range of values
 
@@ -67,6 +66,6 @@ This could be considered a subtype of cardinal numbers (provided tokenization le
 
 #### Examples
 
-* _4-5 (չորս-հինգ)_ “four-five” (“either four or five”)
-* _10-15 (տասն-տասնուհինկ)_ “ten fifteen” (“from ten to fifteen”)
+* _4-5 (չորս-հինգ)_/_4-5 (čors-hing)_ “four or five”
+* _10-15 (տասն-տասնուհինկ)_/_10-15 (tasn-tasnowhink)_ “from ten to fifteen”
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->
