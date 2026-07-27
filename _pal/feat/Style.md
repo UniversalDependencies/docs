@@ -5,6 +5,21 @@ shortdef: 'style'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Arch">Coll</a></td>
+  <td><a href="#Coll">Coll</a></td>
+  <td><a href="#Expr">Expr</a></td>
+  <td><a href="#Form">Coll</a></td>
+  <td><a href="#Rare">Rare</a></td>
+  <td><a href="#Slng">Slng</a></td>
+  <td><a href="#Vrnc">Vrnc</a></td>
+  <td><a href="#Vulg">Vulg</a></td>
+</tr>
+</table>
+
+
 This feature takes the following values: Arch, Coll, Expr, Form, Rare, Slng, Vrnc, Vulg
 
 Stylistic features are facultatively added if the context makes it possible to identify them.
