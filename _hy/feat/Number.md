@@ -16,11 +16,11 @@ udver: '2'
 </tr>
 </table>
 
-In Armenian, `Number` is a feature of [nouns](NOUN) and of parts of speech that agree with nouns, such as personal [pronouns](PRON), and [verbs](VERB). 
+In Armenian, `Number` is a feature of [nouns](NOUN) and of parts of speech that agree with nouns, such as personal [pronouns](PRON) and [verbs](VERB). 
 
 ### <a name="Sing">`Sing`</a>: singular number
 
-A singular noun denotes one person, animal or thing.
+A singular noun denotes one person, animal, or thing.
 
 #### Examples:
 
@@ -32,7 +32,7 @@ Pronouns that refer to a single person, an animal or a thing are also marked wit
 * _<b>դու, ինքդ, քո</b>_/_dow, inkʼd, kʼo_ “you, yourself, your”
 * _<b>նա, ինքը, իր</b>_/_na, inkʼë, ir_ “he, himself, his; she, herself, her; it, itself, its”
 
-Demonstrative pronouns referring to singular entities, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
+Demonstrative pronouns referring to singular entities are marked with this feature, whereas demonstrative determiners are not, regardless of whether the modified noun is singular or plural (e.g. _<b>այս գիրքը/գրքերը</b>_/_ays girkʼë/grkʼerë_ “this book/books”; _<b>այդ գիրքը/գրքերը</b>_/_ayd girkʼë/grkʼerë_ “that book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_/_ayn girkʼë/grkʼerë_ “that book/books”).
 
 * _<b>սա</b>_/_sa_ “this”
 * _<b>դա</b>_/_da_ “that (medial)”
@@ -41,7 +41,7 @@ Demonstrative pronouns referring to singular entities, but not demonstrative det
 
 ### <a name="Plur">`Plur`</a>: plural number
 
-A plural noun denotes several persons, animals or things.
+A plural noun denotes several persons, animals, or things.
 
 #### Examples:
 
@@ -53,7 +53,7 @@ Pronouns that refer to several persons, animals or things are also marked with t
 * _<b>դուք, ինքներդ, ձեր</b>_ “you, yourselves, your”
 * _<b>նրանք, ինքները, իրենց</b>_ “they, themselves, their”
 
-Demonstrative pronouns referring to plural entities, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_/_ays girkʼë/grkʼerë_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_/_ayd girkʼë/grkʼerë_ “that/those book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_/_ayn girkʼë/grkʼerë_ “that/those book/books”), are also marked with this feature.
+Demonstrative pronouns referring to plural entities, are marked with this feature, whereas demonstrative determiners are not, regardless of whether the modified noun is singular or plural (e.g. _<b>այս գիրքը/գրքերը</b>_/_ays girkʼë/grkʼerë_ “this book/books”; _<b>այդ գիրքը/գրքերը</b>_/_ayd girkʼë/grkʼerë_ “that book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_/_ayn girkʼë/grkʼerë_ “that book/books”).
 
 * _<b>սրանք</b>_/_srankʼ_ “these”
 * _<b>դրանք</b>_/_drankʼ_ “those (medial)”
@@ -72,9 +72,9 @@ Some geographical or biological/botanical names appear only in the plural form e
 
 ### <a name="Assoc">`Assoc`</a>: associative plural
 
-In Armenian some nouns, proper nouns and pronouns appear in the plural form, which denotes constructions like ‘X and other people associated with X’. These plural forms consist of a noun X (typically of human reference, usually a person's name or a kin term) and one of the suffixes _<b>-ենք</b>_/_-enkʼ_, _<b>-անք</b>_/_-ankʼ_, _<b>-ոնք</b>_/_-onkʼ_, _<b>-ունք</b>_/_-ownkʼ_.
+In Armenian, some nouns, proper nouns and pronouns appear in the plural form that denote constructions like ‘X and other people associated with X’. These plural forms consist of a noun X (typically referring to humans, usually a person's name or a kin term) and one of the suffixes _<b>-ենք</b>_/_-enkʼ_, _<b>-անք</b>_/_-ankʼ_, _<b>-ոնք</b>_/_-onkʼ_, _<b>-ունք</b>_/_-ownkʼ_.
 
-As nominal syntactic subjects, associative plural forms are grammaticalty indefinte (even though they are known and concrete).
+As nominal syntactic subjects, associative plural forms are grammatically indefinite (even though they are known and concrete).
 
 #### Examples:
 
@@ -89,7 +89,7 @@ As nominal syntactic subjects, associative plural forms are grammaticalty indefi
 
 ### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
 
-Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. Although in Armenian they are able to form plural. In practice the plural form means “several sorts of” or “several packages of”. We mark these forms as `Plur`.
+Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. Although in Armenian they can form plural, in practice the plural form means “several sorts of” or “several packages of”. We mark these forms as `Plur`.
 
 #### Examples:
 
