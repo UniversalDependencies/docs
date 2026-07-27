@@ -15,4 +15,3 @@ bodhisatto mātukucchiṃ okkami \n bodhisattva-NOM.M.SG mother-womb-AKK.SG.M de
 obl:goal(mātukucchiṃ)
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:26 CET -->

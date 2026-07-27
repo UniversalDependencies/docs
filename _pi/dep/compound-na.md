@@ -22,7 +22,7 @@ compound:tp(savaṇa, adhamma-)
 compound:tp(listening, false-teaching)
 ~~~
 
-Despite being a tatpuruṣa with a negation, *adhammasavaṇa* is _not_ a nañtatpuruṣa.
+Despite being a tatpuruṣa with a negation, *adhammasavaṇa* is not a nañtatpuruṣa.
 
 ## When to use `compound:na`
 

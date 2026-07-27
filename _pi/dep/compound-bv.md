@@ -4,10 +4,13 @@ title: 'compound:bv'
 shortdef: 'bahuvrīhi compound'
 udver: '2'
 ---
-Bahuvrīhi compound: exocentric compounds indicating possessive relationship
+
+Bahuvrīhi compounds are exocentric compounds indicating a possessive relationship:
 
 ~~~ sdparse
-sa- devake /n with god-PL.M.NOM.
-compound:bv{devake, sa-}
+sa- devake /n with gods
+
+compound:bv(devake, sa-)
+compound:bv(gods, with)
 ~~~
 

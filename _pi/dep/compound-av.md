@@ -4,11 +4,12 @@ title: 'compound:av'
 shortdef: 'avyayībhāva compound'
 udver: '2'
 ---
-avyayībhāva compound: adverbial compounds whose first member is an indeclinable elements
+
+Avyayībhāva compounds are adverbial compounds whose first member is an indeclinable element.
 
 ~~~ sdparse
-yathā- kamma /n according_to action
-compound:av{kamma, yathā-}
+yathā- kamma /n according-to action
 
+compound:av(kamma, yathā-)
+compound:av(action, according-to)
 ~~~
-
