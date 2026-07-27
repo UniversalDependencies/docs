@@ -12,7 +12,8 @@ udver: '2'
 </tr>
 </table>
 
-Western Armenian uses `Deixis[psor]` as a layered feature for [NOUN]() to encode the position of an entity relative to either the speaker or the hearer.
+Western Armenian uses `Deixis[psor]` as a layered feature for [NOUN](hy-pos/NOUN) to encode the position of an entity relative to the speaker or the hearer.
+Note that the subscript [psor] does not denote a possessor in this feature. It is adopted by analogy with Person[psor], because the same article morphemes in Western Armenian serve demonstrative, person-indexing, and possessive functions. Their function can only be determined from the context. In Western Armenian, the only productive demonstrative article is -ս/-s.
 
 ### <a name="Prox">`Prox`</a>: proximal
 
