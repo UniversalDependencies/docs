@@ -119,7 +119,7 @@ Participles have the following `FEATS`:
 
 ## Syntax
 
-*
+Since all the participles have VERB in UPOS, they cannot be used as amod. They are either `acl` if they modify a noun or `advcl` if they modify a verb or a clause.  
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
