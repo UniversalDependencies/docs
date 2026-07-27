@@ -14,7 +14,8 @@ udver: '2'
 </tr>
 </table>
 
-Middle Armenian uses `Deixis[psor]` as layered feature for [NOUN]() to encode the position of an entity relative to either the speaker or the hearer.
+Middle Armenian uses `Deixis[psor]` as a layered feature for [NOUN](hy-pos/NOUN) to encode the position of an entity relative to the speaker or the hearer.
+Note that the subscript [psor] does not denote a possessor in this feature. It is adopted by analogy with Person[psor], because the same article morphemes in Middle Armenian serve demonstrative, person-indexing, and possessive functions. Their function can only be determined from the context.
 
 ### <a name="Prox">`Prox`</a>: proximal
 
