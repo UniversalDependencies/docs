@@ -30,7 +30,7 @@ advmod(abzāyēd, be)
 apposcl(frādahišnīh, abzāyēd)
 ~~~
 
-- "Unitl the time of Rapihwin the scoundrel heated, i.e. he started to feel hot, (he) perspired, i.e. (he) becomes quick on his feet."
+- "Unitl the time of Rapihwin the scoundrel heated, i.e. he started to feel hot, (he) perspired, i.e. (he) became quick on his feet."
 ~~~ sdparse
 tā ō rapihwinzamān taft mar kū =š garm būd xwīst kū dōpāy būd \n until to Rapihwin_time heated scoundrel that him warm became sweated that two_footed became
 advmod(rapihwinzamān, tā)
