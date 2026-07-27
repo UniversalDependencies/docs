@@ -15,8 +15,6 @@ udver: '2'
 </tr>
 </table>
 
-This feature takes the following values: Post, Post,Circ, Prep, Prep,Circ.
-
 ### <a name='Post'>`Post`: Postposition
 The adposition follows its complement:
 - _dānāgīh ud frazānagīh <b>rāy</b>_ "**because of** (his) knowledge and intelligene"
