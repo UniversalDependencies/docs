@@ -5,6 +5,16 @@ shortdef: '<shortdef>'
 udver: '2'
 ---
 
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Post">Post</a></td>
+  <td><a href="#Post,Circ">Post,Circ</a></td>
+  <td><a href="#Prep">Prep</a></td>
+  <td><a href="#Prep,Circ">Prep,Circ</a></td>
+</tr>
+</table>
+
 This feature takes the following values: Post, Post,Circ, Prep, Prep,Circ.
 
 ### <a name='Post'>`Post`: Postposition
