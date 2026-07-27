@@ -8,6 +8,6 @@ Dvandva compound: compounds that express a coordinative relation
 
 ~~~ sdparse
 candima- sūriyā \n moon sun
-compound:dg{sūriyā, candima-}
+compound:dv{sūriyā, candima-}
 ~~~
 
