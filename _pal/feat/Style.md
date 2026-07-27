@@ -19,9 +19,6 @@ udver: '2'
 </tr>
 </table>
 
-
-This feature takes the following values: Arch, Coll, Expr, Form, Rare, Slng, Vrnc, Vulg
-
 Stylistic features are facultatively added if the context makes it possible to identify them.
 
 ### <a name='Arch'>`Arch`: Archaic/obsolete
