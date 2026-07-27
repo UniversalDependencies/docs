@@ -8,7 +8,7 @@ avyayībhāva compound: adverbial compounds whose first member is an indeclinabl
 
 ~~~ sdparse
 yathā- kamma /n according_to action
-compound:av(kamma, yathā-)
+compound:av{kamma, yathā-}
 
 ~~~
 
