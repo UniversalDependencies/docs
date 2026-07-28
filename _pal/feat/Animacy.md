@@ -4,8 +4,20 @@ title: 'Animacy'
 shortdef: '<shortdef>'
 udver: '2'
 ---
+This feature takes the following values:
 
-This feature takes the following values: Anim, Hum, Inan, Nhum. 
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Anim">Anim</a></td>
+  <td><a href="#Hum">Hum</a></td>
+  <td><a href="#Inan">Inan</a></td>
+  <td><a href="#Nhum">Nhum</a></td>
+</tr>
+</table>
+
+Anim, Hum, Inan, Nhum. 
 
 For Middle Persian, they have been facultatively annotated based on the semantic interpretation. In Zoroastrianism, many things like rivers or stars are or can be seen as animate. In case of doubt, animacy has not been indicated.
 
