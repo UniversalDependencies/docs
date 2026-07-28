@@ -6,7 +6,6 @@ udver: '2'
 ---
 This feature takes the following values:
 
-
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
@@ -16,8 +15,6 @@ This feature takes the following values:
   <td><a href="#Nhum">Nhum</a></td>
 </tr>
 </table>
-
-Anim, Hum, Inan, Nhum. 
 
 For Middle Persian, they have been facultatively annotated based on the semantic interpretation. In Zoroastrianism, many things like rivers or stars are or can be seen as animate. In case of doubt, animacy has not been indicated.
 
