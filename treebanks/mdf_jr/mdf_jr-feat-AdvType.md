@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 6 different values: `Deg`, `Loc`, `Man`, `Mod`, `Sta`, `Tim`.
 
-207 tokens (5%) have a non-empty value of `AdvType`.
+209 tokens (5%) have a non-empty value of `AdvType`.
 92 types (4%) occur at least once with a non-empty value of `AdvType`.
 75 lemmas (5%) occur at least once with a non-empty value of `AdvType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (198; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (200; 4% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (8; 0% instances), <tt><a href="mdf_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-198 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (46% of all `ADV` tokens) have a non-empty value of `AdvType`.
+200 <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> tokens (45% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (171; 86%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (173; 87%).
 
 `ADV` tokens may have the following values of `AdvType`:
 
-* `Deg` (34; 17% of non-empty `AdvType`): <em>пяк, сяда, сяшкава, конашкава, тяшкава, ёфcи, ёфси</em>
+* `Deg` (35; 18% of non-empty `AdvType`): <em>пяк, сяда, сяшкава, конашкава, тяшкава, ёфcи, ёфси</em>
 * `Loc` (5; 3% of non-empty `AdvType`): <em>тов, алу, меки, тяза</em>
-* `Man` (44; 22% of non-empty `AdvType`): <em>лац, тяфта, вишкста, цебярьста, Кода, мазыста, савор, весяласта, кальдявста, павазуста</em>
+* `Man` (45; 23% of non-empty `AdvType`): <em>лац, тяфта, Кода, вишкста, цебярьста, мазыста, савор, весяласта, кальдявста, павазуста</em>
 * `Mod` (5; 3% of non-empty `AdvType`): <em>бта, пади, Стаки</em>
 * `Sta` (1; 1% of non-empty `AdvType`): <em>кяпе</em>
 * `Tim` (109; 55% of non-empty `AdvType`): <em>нинге, ни, эста, меле, тага, кунара, тяни, Кали, илять, рана</em>

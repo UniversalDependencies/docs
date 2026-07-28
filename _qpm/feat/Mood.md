@@ -55,4 +55,4 @@ Pomak  forms  deterring imperatives with the particles {\em na/ne} and {\em nam�
         - *<b>Namójte barzá</b>, ráno sí je* "Do not hurry, it is still early"   
         - *<b>Namój zabaravǽ</b> kutrí tí pamógna da atvóriš dükǽnate* "Do not forget, who helped you open the shop" 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:24 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->

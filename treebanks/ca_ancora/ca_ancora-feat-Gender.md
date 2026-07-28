@@ -10,22 +10,22 @@ This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 Some words have combined values of the feature; 1 combinations have been observed: `Fem|Masc`.
 
-194766 tokens (36%) have a non-empty value of `Gender`.
-14350 types (44%) occur at least once with a non-empty value of `Gender`.
-9829 lemmas (42%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (86128; 16% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (75857; 14% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (20208; 4% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (6814; 1% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (3742; 1% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (1358; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (651; 0% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (8; 0% instances).
+194854 tokens (36%) have a non-empty value of `Gender`.
+14351 types (44%) occur at least once with a non-empty value of `Gender`.
+9831 lemmas (42%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (86216; 16% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (75857; 14% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (20210; 4% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (6812; 1% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (3742; 1% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt> (1358; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (651; 0% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt> (8; 0% instances).
 
 ### `NOUN`
 
-86128 <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> tokens (87% of all `NOUN` tokens) have a non-empty value of `Gender`.
+86216 <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> tokens (87% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (59389; 69%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (59475; 69%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (41906; 49% of non-empty `Gender`): <em>pessetes, persones, obres, obra, empresa, llei, ciutat, zona, cosa, situació</em>
-* `Masc` (44222; 51% of non-empty `Gender`): <em>anys, milions, any, president, temps, grup, projecte, cas, partit, director</em>
-* `EMPTY` (12518): <em>any, través, cap, juny, part, partir, dia, terme, fa, tal</em>
+* `Fem` (41912; 49% of non-empty `Gender`): <em>pessetes, persones, obres, obra, empresa, llei, ciutat, zona, cosa, situació</em>
+* `Masc` (44304; 51% of non-empty `Gender`): <em>anys, milions, any, president, temps, grup, projecte, cas, partit, director</em>
+* `EMPTY` (12445): <em>any, través, cap, juny, part, partir, dia, terme, fa, tal</em>
 
 <table>
   <tr><th>Paradigm <i>cas</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -33,7 +33,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>casos</em></td><td><em>cas</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (6523) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (6524) occur only with one value of `Gender`.
 
 ### `DET`
 
@@ -62,15 +62,15 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `ADJ`
 
-20208 <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> tokens (67% of all `ADJ` tokens) have a non-empty value of `Gender`.
+20210 <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> tokens (67% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (14619; 72%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14061; 70%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (14622; 72%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14064; 70%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (9120; 45% of non-empty `Gender`): <em>primera, nova, catalana, noves, política, segona, única, pública, bona, espanyola</em>
-* `Masc` (11088; 55% of non-empty `Gender`): <em>passat, primer, nou, espanyol, nous, català, públic, últims, polític, últim</em>
-* `EMPTY` (9874): <em>gran, general, grans, actual, important, social, baix, possible, municipal, anterior</em>
+* `Fem` (9123; 45% of non-empty `Gender`): <em>primera, nova, catalana, noves, política, segona, única, pública, bona, espanyola</em>
+* `Masc` (11087; 55% of non-empty `Gender`): <em>passat, primer, nou, espanyol, nous, català, públic, últims, polític, últim</em>
+* `EMPTY` (9875): <em>gran, general, grans, actual, important, social, baix, possible, municipal, anterior</em>
 
 <table>
   <tr><th>Paradigm <i>nou</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -80,15 +80,15 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `VERB`
 
-6814 <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Gender`.
+6812 <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> tokens (16% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6814; 100%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6814; 100%), <tt><a href="ca_ancora-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6814; 100%), <tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (6814; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6563; 96%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6812; 100%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6812; 100%), <tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (6812; 100%), <tt><a href="ca_ancora-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6811; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6560; 96%).
 
 `VERB` tokens may have the following values of `Gender`:
 
 * `Fem` (341; 5% of non-empty `Gender`): <em>dictada, aprovada, presentada, considerada, donada, atesa, inclosa, inaugurada, traslladada, coneguda</em>
-* `Masc` (6473; 95% of non-empty `Gender`): <em>fet, explicat, dit, presentat, tingut, assegurat, destacat, passat, demanat, assenyalat</em>
-* `EMPTY` (35082): <em>fer, té, ha, fa, dir, tenir, donar, arribar, tenen, aconseguir</em>
+* `Masc` (6471; 95% of non-empty `Gender`): <em>fet, explicat, dit, presentat, tingut, assegurat, destacat, passat, demanat, assenyalat</em>
+* `EMPTY` (35056): <em>fer, té, ha, fa, dir, tenir, donar, arribar, tenen, aconseguir</em>
 
 <table>
   <tr><th>Paradigm <i>fer</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -108,7 +108,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `Fem,Masc` (176; 5% of non-empty `Gender`): <em>l'</em>
 * `Masc` (2324; 62% of non-empty `Gender`): <em>un, tot, el, ell, uns, lo, ells, alguns, aquest, tots</em>
 * `Neut` (333; 9% of non-empty `Gender`): <em>ho, -ho</em>
-* `EMPTY` (19712): <em>que, es, s', hi, se, li, on, què, això, qual</em>
+* `EMPTY` (19713): <em>que, es, s', hi, se, li, on, què, això, qual</em>
 
 <table>
   <tr><th>Paradigm <i>ell</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -156,19 +156,19 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 * `Fem` (4; 50% of non-empty `Gender`): <em>Seu, Companyia, Font</em>
 * `Masc` (4; 50% of non-empty `Gender`): <em>Cobain, Justícia, Kurt, Pla</em>
-* `EMPTY` (46582): <em>Catalunya, Barcelona, Generalitat, Govern, sant, Ajuntament, Girona, Josep, CiU, PP</em>
+* `EMPTY` (46581): <em>Catalunya, Barcelona, Generalitat, Govern, sant, Ajuntament, Girona, Josep, CiU, PP</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="ca_ancora-dep-det.html">det</a></tt>]--> DET</tt> (56323; 82%),
-<tt>NOUN --[<tt><a href="ca_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14924; 64%),
-<tt>NOUN --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2733; 53%),
-<tt>NOUN --[<tt><a href="ca_ancora-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1058; 51%),
+<tt>NOUN --[<tt><a href="ca_ancora-dep-det.html">det</a></tt>]--> DET</tt> (56329; 82%),
+<tt>NOUN --[<tt><a href="ca_ancora-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14930; 64%),
+<tt>NOUN --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2731; 53%),
+<tt>NOUN --[<tt><a href="ca_ancora-dep-appos.html">appos</a></tt>]--> NOUN</tt> (1060; 51%),
 <tt>ADJ --[<tt><a href="ca_ancora-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (528; 60%),
 <tt>ADJ --[<tt><a href="ca_ancora-dep-det.html">det</a></tt>]--> DET</tt> (448; 60%),
 <tt>ADJ --[<tt><a href="ca_ancora-dep-conj.html">conj</a></tt>]--> ADJ</tt> (428; 52%),
-<tt>PRON --[<tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (411; 72%),
-<tt>NOUN --[<tt><a href="ca_ancora-dep-acl.html">acl</a></tt>]--> ADJ</tt> (127; 60%),
-<tt>ADJ --[<tt><a href="ca_ancora-dep-obj.html">obj</a></tt>]--> NOUN</tt> (109; 52%).
+<tt>PRON --[<tt><a href="ca_ancora-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (412; 72%),
+<tt>NOUN --[<tt><a href="ca_ancora-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (116; 71%),
+<tt>ADJ --[<tt><a href="ca_ancora-dep-obj.html">obj</a></tt>]--> NOUN</tt> (107; 51%).
 

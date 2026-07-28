@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
-5036 tokens (1%) have a non-empty value of `NumForm`.
+5033 tokens (1%) have a non-empty value of `NumForm`.
 531 types (2%) occur at least once with a non-empty value of `NumForm`.
 360 lemmas (3%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (5036; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (5033; 1% instances).
 
 ### `NUM`
 
-5036 <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> tokens (97% of all `NUM` tokens) have a non-empty value of `NumForm`.
+5033 <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> tokens (97% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4384; 87%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4193; 83%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2952; 59%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4381; 87%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4190; 83%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2951; 59%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
 * `Digit` (1770; 35% of non-empty `NumForm`): <em>2, 3, 4, 7, 12, 5, 1, 6, 10, 8</em>
 * `Roman` (31; 1% of non-empty `NumForm`): <em>16, întîiu, I, XIV, XX, XXI, XXII, XXIII, XXIV, XXV</em>
-* `Word` (3235; 64% of non-empty `NumForm`): <em>trei, doi, doao, cinci, patru, întîiu, treia, mii, două, doa</em>
+* `Word` (3232; 64% of non-empty `NumForm`): <em>trei, doi, doao, cinci, patru, întîiu, treia, mii, două, doa</em>
 
 <table>
   <tr><th>Paradigm <i>trei</i></th><th><tt>Roman</tt></th><th><tt>Word</tt></th></tr>

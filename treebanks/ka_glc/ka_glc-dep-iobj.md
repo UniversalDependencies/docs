@@ -39,7 +39,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 13	fgColor:white
 # visual-style 13 8 iobj	color:blue
 1	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=igi
-2	ითვლება	ითვლება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=itʻvleba
+2	ითვლება	თვლის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=itʻvleba
 3	თანამედროვე	თანამედროვე	ADJ	Adj	Case=Gen|Number=Sing	4	amod	_	Translit=tʻanamedrove
 4	ჩეხური	ჩეხური	ADJ	Adj	Case=Gen|Number=Sing	5	amod	_	Translit=čʻexuri
 5	ისტორიოგრაფიის	ისტორიოგრაფია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	6	nmod	_	Translit=istoriograpʻiis

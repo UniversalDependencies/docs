@@ -10,7 +10,7 @@ This relation is universal.
 
 354 nodes (0%) are attached to their parents as `nummod`.
 
-287 instances of `nummod` (81%) are right-to-left (child precedes parent).
+286 instances of `nummod` (81%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.35028248587571.
 
 The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (316; 89% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (22; 6% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="sv_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-SYM.html">SYM</a></tt>-<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="sv_lines-pos-X.html">X</a></tt>-<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (1; 0% instances).

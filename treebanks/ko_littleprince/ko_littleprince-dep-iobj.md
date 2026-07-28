@@ -11,9 +11,9 @@ This relation is universal.
 76 nodes (1%) are attached to their parents as `iobj`.
 
 76 instances of `iobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.26315789473684.
+Average distance between parent and child is 2.22368421052632.
 
-The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="ko_littleprince-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_littleprince-pos-ADV.html">ADV</a></tt> (51; 67% instances), <tt><a href="ko_littleprince-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ko_littleprince-pos-ADV.html">ADV</a></tt> (11; 14% instances), <tt><a href="ko_littleprince-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ko_littleprince-pos-ADV.html">ADV</a></tt> (5; 7% instances), <tt><a href="ko_littleprince-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_littleprince-pos-ADV.html">ADV</a></tt> (5; 7% instances), <tt><a href="ko_littleprince-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_littleprince-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="ko_littleprince-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_littleprince-pos-ADV.html">ADV</a></tt> (2; 3% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="ko_littleprince-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_littleprince-pos-ADV.html">ADV</a></tt> (50; 66% instances), <tt><a href="ko_littleprince-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ko_littleprince-pos-ADV.html">ADV</a></tt> (12; 16% instances), <tt><a href="ko_littleprince-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ko_littleprince-pos-ADV.html">ADV</a></tt> (5; 7% instances), <tt><a href="ko_littleprince-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_littleprince-pos-ADV.html">ADV</a></tt> (5; 7% instances), <tt><a href="ko_littleprince-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_littleprince-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="ko_littleprince-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_littleprince-pos-ADV.html">ADV</a></tt> (2; 3% instances).
 
 
 ~~~ conllu

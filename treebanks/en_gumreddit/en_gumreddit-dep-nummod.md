@@ -87,7 +87,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=mean|Len=5|MSeg=mean-s
 3	_	_	SCONJ	IN	_	31	mark	31:mark	Lem=_|Len=4
 4	_	_	SCONJ	IN	_	7	mark	7:mark	Discourse=contingency-condition:19->22:0:dm-if-108-gold+mrf-md-133-_|Entity=(22-event-new-nnnnn-cf6-28-disc|Lem=_|Len=2|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:108:105-107,128-137:109-127
-5	_	_	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Bridge=3<23|Entity=(23-organization-acc:inf-nnsss-cf3-2-coref|Lem=_|Len=3
+5	_	_	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Bridge=8<23:entity-associative|Entity=(23-organization-acc:inf-nnsss-cf4-2-coref|Lem=_|Len=3
 6	_	_	NOUN	NN	Number=Sing|Typo=Yes	7	nsubj	7:nsubj|9:nsubj:xsubj	CorrectForm=government|Entity=23)|Lem=government|Len=4|XML=<sic ana:::"government"></sic>
 7	_	_	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	advcl	31:advcl:if	CxnElt=31:Conditional-UnspecifiedEpistemic-NoInversion.Protasis|Lem=decide|Len=7|MSeg=decid-ed
 8	_	_	PART	TO	_	9	mark	9:mark	Lem=_|Len=2
@@ -109,7 +109,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 24	_	_	DET	DT	Definite=Def|PronType=Art	25	det	25:det	Discourse=same-unit_m:22->18:0:_|Entity=(26-abstract-new-nnnnn-cf5-2-sgl|Lem=_|Len=3
 25	_	_	NOUN	NN	Number=Sing	31	nsubj	31:nsubj	Lem=_|Len=5
 26	_	_	ADP	IN	_	28	case	28:case	Lem=_|Len=2
-27	_	_	DET	DT	Definite=Def|PronType=Art	28	det	28:det	Bridge=24<27|Entity=(27-abstract-acc:inf-nnnnn-cf4-2-coref-United_States_dollar|Lem=_|Len=3
+27	_	_	DET	DT	Definite=Def|PronType=Art	28	det	28:det	Entity=(27-abstract-auto-nnnnn-cf3-2-coref-United_States_dollar|Lem=_|Len=3
 28	_	_	NOUN	NN	Number=Sing	25	nmod	25:nmod:of	Entity=27)26)|Lem=_|Len=6
 29	_	_	AUX	MD	VerbForm=Fin	31	aux	31:aux	Lem=_|Len=5
 30	_	_	ADV	RB	Degree=Pos	31	advmod	31:advmod	Lem=_|Len=8|MSeg=probab-ly

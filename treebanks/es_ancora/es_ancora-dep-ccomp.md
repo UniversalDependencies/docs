@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6086 nodes (1%) are attached to their parents as `ccomp`.
+6082 nodes (1%) are attached to their parents as `ccomp`.
 
-5000 instances of `ccomp` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.09497206703911.
+4995 instances of `ccomp` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.10621506083525.
 
-The following 27 pairs of parts of speech are connected with `ccomp`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (4248; 70% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (512; 8% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (511; 8% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (469; 8% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (107; 2% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (57; 1% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (46; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (27; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (21; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (17; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (16; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `ccomp`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (4271; 70% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (516; 8% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (484; 8% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (476; 8% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (99; 2% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (58; 1% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (47; 1% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (24; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (21; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (17; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="es_ancora-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,6 +42,31 @@ The following 27 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 ~~~ conllu
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 11 ccomp	color:blue
+1	"	"	PUNCT	fe	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
+2	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
+3	contra	contra	NOUN	ncfs000	_	11	nsubj	11:nsubj	MWE=contra_reloj|MWEPOS=NOUN|ArgTem=arg1:tem
+4	reloj	reloj	NOUN	_	_	3	compound	3:compound	_
+5	de	de	ADP	spcms	_	8	case	8:case	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	8:det	_
+7	último	último	ADJ	ao0ms0	Gender=Masc|Number=Sing|NumType=Ord	8	amod	8:amod	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
+8	día	día	NOUN	ncms000	Gender=Masc|Number=Sing	3	nmod	3:nmod	Entity=NOCOREF:Gen)NOCOREF:Gen)
+9	también	también	ADV	rg	_	11	advmod	11:advmod	_
+10	será	ser	AUX	vsif3s0	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	cop	11:cop	ArgTem=arg1:pat
+11	bonita	bonito	ADJ	aq0fs0	Gender=Fem|Number=Sing	14	ccomp	14:ccomp	ArgTem=arg2:atr|SpaceAfter=No
+12	"	"	PUNCT	fe	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
+13	,	,	PUNCT	fc	PunctType=Comm	11	punct	11:punct	_
+14	dijo	decir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
+15	.	.	PUNCT	fp	PunctType=Peri	14	punct	14:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 11 ccomp	color:blue
@@ -56,33 +81,8 @@ The following 27 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 9	no	no	ADV	rn	Polarity=Neg	11	advmod	11:advmod	_
 10	se	él	PRON	p0000000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pass	11:expl:pass	_
 11	consigue	conseguir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	3:ccomp	ArgTem=arg2:atr|Cxn=Conditional-NeutralEpistemic|CxnElt=11:Conditional-NeutralEpistemic.Apodosis@p
-12	nada	nada	PRON	pi0cs000	Number=Sing|PronType=Neg	11	nsubj	11:nsubj	SpaceAfter=No|ArgTem=arg1:pat
+12	nada	nada	PRON	pi0cs000	Number=Sing|PronType=Neg	11	nsubj	11:nsubj	ArgTem=arg1:pat|SpaceAfter=No
 13	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 11 ccomp	color:blue
-1	"	"	PUNCT	fe	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
-2	La	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	3:det	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
-3	contra	contra	NOUN	ncfs000	_	11	nsubj	11:nsubj	MWE=contra_reloj|MWEPOS=NOUN|ArgTem=arg1:tem
-4	reloj	reloj	NOUN	_	_	3	compound	3:compound	_
-5	de	de	ADP	spcms	_	8	case	8:case	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	8:det	_
-7	último	último	ADJ	ao0ms0	Gender=Masc|Number=Sing|NumType=Ord	8	amod	8:amod	Entity=(NOCOREF:Gen--2-gstype:gen,HomoDD
-8	día	día	NOUN	ncms000	Gender=Masc|Number=Sing	3	nmod	3:nmod	Entity=NOCOREF:Gen)NOCOREF:Gen)
-9	también	también	ADV	rg	_	11	advmod	11:advmod	_
-10	será	ser	AUX	vsif3s0	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	11	cop	11:cop	ArgTem=arg1:pat
-11	bonita	bonito	ADJ	aq0fs0	Gender=Fem|Number=Sing	14	ccomp	14:ccomp	SpaceAfter=No|ArgTem=arg2:atr
-12	"	"	PUNCT	fe	PunctType=Quot	11	punct	11:punct	SpaceAfter=No
-13	,	,	PUNCT	fc	PunctType=Comm	11	punct	11:punct	_
-14	dijo	decir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-15	.	.	PUNCT	fp	PunctType=Peri	14	punct	14:punct	_
 
 ~~~
 

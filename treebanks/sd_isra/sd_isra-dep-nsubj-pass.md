@@ -22,7 +22,7 @@ The following 8 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 nsubj:pass	color:blue
-1	سو	سو	CCONJ	CC	_	7	cc	_	_
+1	سو	سو	SCONJ	CS	_	7	mark	_	_
 2	انهن	ان	DET	PRD	Case=Acc|Number=Plur|PronType=Dem	7	obl	_	_
 3	لاءِ	لاءِ	ADP	PSP	_	2	case	_	_
 4	شينهن	شينهن	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	_

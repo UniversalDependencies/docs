@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 * `Imp` (3; 19% of non-empty `Mood`): <em>hi</em>
 * `Opt` (13; 81% of non-empty `Mood`): <em>aakaj, ibarin, akaːj, amraːj, idʔiːn, nhaː, tdiːn, thiːw, tkatiːm, tkaːj</em>
-* `EMPTY` (2394): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
+* `EMPTY` (2392): <em>eːn, indi, ini, jʔi, tindi, iːfi, jʔeːn, jʔeːtiːt, iːbri, akeːna</em>
 
 ### `AUX`
 
@@ -48,5 +48,5 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 
 * `Opt` (11; 92% of non-empty `Mood`): <em>ba=, bi=, idi, idiː, kaːj, tdiː</em>
 * `Pot` (1; 8% of non-empty `Mood`): <em>ʔeːnaj</em>
-* `EMPTY` (272): <em>=u, =i, =a, andi, akajeː, aki, nijad, =wa, iki, dannʔi</em>
+* `EMPTY` (276): <em>=u, =i, =a, andi, akajeː, aki, nijad, =wa, iki, dannʔi</em>
 

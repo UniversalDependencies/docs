@@ -28,4 +28,4 @@ are used similarly to articles, especially in spoken language.
 
 No `DET` tag (or related) is annotated in TDT, and `DET` is
 not used in the current version of the UD Finnish corpus.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:48 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:35 CEST -->

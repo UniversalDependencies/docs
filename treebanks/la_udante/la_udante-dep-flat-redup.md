@@ -62,7 +62,7 @@ The following 2 pairs of parts of speech are connected with `flat:redup`: <tt><a
 # visual-style 53	bgColor:blue
 # visual-style 53	fgColor:white
 # visual-style 53 54 flat:redup	color:blue
-1	Verum	uerum	CCONJ	r	_	56	cc	_	_
+1	Verum	uero	ADV	r	_	56	advmod	_	_
 2	quia	quia	SCONJ	cs	PronType=Rel	9	mark	_	_
 3	naturalis	naturalis	ADJ	ams2n	Case=Nom|Gender=Masc|InflClass=IndEurI|Number=Sing	4	amod	_	_
 4	amor	amor	NOUN	sms3n	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	9	nsubj	_	_

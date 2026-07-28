@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Yiddish-YiTB: POS Tags: `X`
 
-There are 1 `X` lemmas (0%), 10 `X` types (0%) and 60 `X` tokens (0%).
-Out of 16 observed tags, the rank of `X` is: 16 in number of lemmas, 14 in number of types and 15 in number of tokens.
+There are 10 `X` lemmas (0%), 10 `X` types (0%) and 60 `X` tokens (0%).
+Out of 16 observed tags, the rank of `X` is: 14 in number of lemmas, 14 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>_</em>
+The 10 most frequent `X` lemmas: <em>דאַן, _, בשם, הגדה, הוא, לא, מעלטשלימוס, מרעיש־עולמות, פּסח, שלען</em>
 
 The 10 most frequent `X` types:  <em>dn, Iudaeus, בשמים, בײַ, הגדה, הוא, לא, מרעיש־עולמות, פּסח, של</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="yi_yitb-pos-DET.html">DET</a></tt> 221, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 110, <tt><a href="yi_yitb-pos-X.html">X</a></tt> 60, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 26, <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> 6, <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="yi_yitb-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>דאַן</em> (<tt><a href="yi_yitb-pos-X.html">X</a></tt> 51, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 1), <em>הגדה</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="yi_yitb-pos-X.html">X</a></tt> 1), <em>פּסח</em> (<tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="yi_yitb-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>בײַ</em> (<tt><a href="yi_yitb-pos-ADP.html">ADP</a></tt> 66, <tt><a href="yi_yitb-pos-X.html">X</a></tt> 1), <em>הגדה</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="yi_yitb-pos-X.html">X</a></tt> 1), <em>פּסח</em> (<tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="yi_yitb-pos-X.html">X</a></tt> 1)
 
@@ -30,9 +30,13 @@ The 10 most frequent ambiguous types:  <em>בײַ</em> (<tt><a href="yi_yitb-pos
 
 ## Morphology
 
-The form / lemma ratio of `X` is 10.000000 (the average of all parts of speech is 1.264753).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.222136).
 
-The 1st highest number of forms (10) was observed with the lemma “_”: <em>Iudaeus, dn, בשמים, בײַ, הגדה, הוא, לא, מרעיש־עולמות, פּסח, של</em>.
+The 1st highest number of forms (1) was observed with the lemma “_”: <em>בײַ</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “בשם”: <em>בשמים</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “דאַן”: <em>dn</em>.
 
 `X` does not occur with any features.
 

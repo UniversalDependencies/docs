@@ -11,16 +11,9 @@ a limitation in software, a parser error, or because of an unresolved long dista
 Note that we also use this relation to link the inflectional bound morphemes that are separated due to tokenization to the _main_ part of the word (usually the last
 word of phrases or sentences used as names or after abbreviations).
 
-~~~ sdparse
-1937/NUM[NumForm=Digit|NumType=Card] թ/NOUN[Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|Hyph=Yes|Number=Sing] ./PUNCT —/PUNCT ին/NOUN[Animacy=Nhum|Case=Dat|Definite=Ind|Hyph=Yes|Number=Sing] \n 1937 year - in
-nummod(թ, 1937)
-punct(թ, .)
-punct(ին, —)
-dep(թ, ին)
-punct(in, -)
-dep(year, in)
-
+~~~ conllu
+# visual-style 0 0 dep color:blue
 ~~~
 
 For more details see the [tokenization page](http://universaldependencies.org/hy/tokenization.html).
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:42 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:58 CEST -->

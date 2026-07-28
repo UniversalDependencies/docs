@@ -23,21 +23,21 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 9	fgColor:white
 # visual-style 9 14 vocative	color:blue
 1	ⲡⲉϫⲉ	ⲡⲉϫⲉ	VERB	VBD	Mood=Ind|VerbForm=Fin	0	root	_	_
-2	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
+2	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	Entity=(person
 3	ⲓⲱⲧ	ⲓⲱⲧ	NOUN	N	_	1	nsubj	_	_
 4	ⲁⲡⲁ	ⲁⲡⲁ	NOUN	N	Foreign=Yes	3	appos	_	OrigLang=heb
-5	ϣⲉⲛⲟⲩϯ	ϣⲉⲛⲟⲩϯ	PROPN	NPROP	_	4	flat	_	_
+5	ϣⲉⲛⲟⲩϯ	ϣⲉⲛⲟⲩϯ	PROPN	NPROP	_	4	flat	_	Entity=person)
 6	ⲛⲁ	ⲛⲁ	ADP	PREP	_	7	case	_	_
 7	ϥ	ⲛⲑⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	obl	_	_
 8	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	9	mark	_	_
 9	ⲁⲣⲓ	ⲓⲣⲓ	VERB	VIMP	Mood=Imp|VerbForm=Fin	1	ccomp	_	_
-10	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
-11	ⲙⲉⲩⲓ	ⲙⲉⲩⲓ	NOUN	N	_	9	obj	_	Orig=ⲙⲉⲩⲓ̀
+10	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	Entity=(abstract
+11	ⲙⲉⲩⲓ	ⲙⲉⲩⲓ	NOUN	N	_	9	obj	_	Entity=abstract)|Orig=ⲙⲉⲩⲓ̀
 12	ⲱ	ⲱ	PART	PTC	Foreign=Yes	14	discourse	_	Orig=ⲱ̀|OrigLang=grc
-13	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	_
+13	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	Entity=(person
 14	ⲓⲱⲧ	ⲓⲱⲧ	NOUN	N	_	9	vocative	_	Orig=ⲓ̀ⲱⲧ
 15	ⲉⲑ	ⲉⲧⲉ	SCONJ	CREL	_	16	mark	_	_
-16	ⲟⲩⲁⲃ	ⲟⲩⲁⲃ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	14	acl:relcl	_	_
+16	ⲟⲩⲁⲃ	ⲟⲩⲁⲃ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	14	acl:relcl	_	Entity=person)
 17	.	.	PUNCT	PUNCT	_	1	punct	_	_
 
 ~~~
@@ -56,17 +56,17 @@ The following 9 pairs of parts of speech are connected with `vocative`: <tt><a h
 5	ϣⲉⲛ	ϣⲓⲛⲓ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	Cxn=Interrogative-WHInfo-Direct,Interrogative-WHInfo-Indirect|CxnElt=5:Interrogative-Polar-Direct.Clause
 6	ϥ	ⲛⲑⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 7	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	12	mark	_	_
-8	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
+8	ⲡⲁ	ⲡⲁ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	Entity=(person
 9	ⲓⲱⲧ	ⲓⲱⲧ	NOUN	N	_	12	vocative	_	Orig=ⲓ̀ⲱⲧ
 10	ⲉⲑ	ⲉⲧⲉ	SCONJ	CREL	_	11	mark	_	_
-11	ⲟⲩⲁⲃ	ⲟⲩⲁⲃ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	9	acl:relcl	_	_
-12	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Int	5	ccomp	_	CxnElt=5:Interrogative-Polar-Direct.WHWord
+11	ⲟⲩⲁⲃ	ⲟⲩⲁⲃ	VERB	VSTAT	Mood=Ind|VerbForm=Fin	9	acl:relcl	_	Entity=person)
+12	ⲛⲓⲙ	ⲛⲓⲙ	PRON	PINT	PronType=Int	5	ccomp	_	CxnElt=5:Interrogative-Polar-Direct.WHWord|Entity=(person)
 13	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	12	cop	_	_
-14	ⲫⲁⲓ	ⲫⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	_
+14	ⲫⲁⲓ	ⲫⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	nsubj	_	Entity=(person
 15	ⲉⲧ	ⲉⲧⲉ	SCONJ	CREL	_	16	mark	_	_
 16	ⲥⲁϫⲓ	ⲥⲁϫⲓ	VERB	V	Mood=Ind|VerbForm=Fin	14	acl:relcl	_	_
 17	ⲛⲉⲙⲁ	ⲛⲉⲙ	ADP	PREP	_	18	case	_	_
-18	ⲕ	ⲛⲑⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	16	obl	_	_
+18	ⲕ	ⲛⲑⲟⲕ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	16	obl	_	Entity=person)
 19	ⲟⲩⲟϩ	ⲟⲩⲟϩ	CCONJ	CONJ	_	27	cc	_	_
 20	ⲉⲧ	ⲉⲧ	AUX	APREC	_	23	aux	_	Orig=ⲉ̀ⲧ
 21	ⲁ	ⲁ	AUX	APST	_	23	aux	_	_

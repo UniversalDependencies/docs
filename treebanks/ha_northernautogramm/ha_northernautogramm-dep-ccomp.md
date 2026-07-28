@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-64 nodes (2%) are attached to their parents as `ccomp`.
+310 nodes (2%) are attached to their parents as `ccomp`.
 
-64 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.171875.
+310 instances of `ccomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.82903225806452.
 
-The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (56; 88% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 18 pairs of parts of speech are connected with `ccomp`: <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (243; 78% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (19; 6% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt> (11; 4% instances), <tt><a href="ha_northernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (8; 3% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="ha_northernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_northernautogramm-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ha_northernautogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ha_northernautogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ha_northernautogramm-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ha_northernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_northernautogramm-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,63 +23,60 @@ The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 5 ccomp	color:blue
 1	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	dislocated	_	AlignBegin=40250|AlignEnd=40477|Gloss=3Plur.Nom
-2	sunkà	_	AUX	yak	Aspect=PerfBkg|Number=Plur|Person=3	3	aux	_	AlignBegin=40477|AlignEnd=40704|Background=Yes|Gloss=3Plur.PerfBkg
+2	sunkà	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	3	aux	_	AlignBegin=40477|AlignEnd=40704|Gloss=3Plur.Perf.Rel|Relative=Yes
 3	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=40704|AlignEnd=40931|Gloss=say
-4	sun	_	AUX	yaː	Aspect=Perf|Number=Plur|Person=3	5	aux	_	AlignBegin=40931|AlignEnd=41158|Gloss=3Plur.Perf
+4	sun	yaː	AUX	_	Aspect=Perf|Number=Plur|Person=3	5	aux	_	AlignBegin=40931|AlignEnd=41158|Gloss=3Plur.Perf
 5	gàji	gaz-	VERB	_	_	3	ccomp	_	AlignBegin=41158|AlignEnd=41385|Gloss=get_tired
 6	dà	dà	ADP	_	_	7	case	_	AlignBegin=41385|AlignEnd=41612|Gloss=with
 7	bìyam	bi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	5	obl:arg	_	AlignBegin=41612|AlignEnd=41839|Gloss=follow.Vnoun.Fem.Cons
-8	mutàːneː	mùtunèː	NOUN	_	Definite=Ind|Number=Plur	7	nmod	_	AlignBegin=41839|AlignEnd=42066|Gloss=human.Plur
+8	mutàːneː	mùtunèː	NOUN	_	Number=Plur	7	obj	_	AlignBegin=41839|AlignEnd=42066|Gloss=human.Plur
 9	//	//	PUNCT	_	_	3	punct	_	AlignBegin=42066|AlignEnd=42290|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 14 ccomp	color:blue
-1	ɗan	ɗaː	ADJ	_	Definite=Cons|Gender=Masc	2	amod	_	AlignBegin=253727|AlignEnd=253894|Gloss=small.Masc.Cons
-2	gùdaː-gudàn	gùdaː	NOUN	_	Definite=Cons|Gender=Masc	10	dislocated	_	AlignBegin=253894|AlignEnd=254061|Gloss=one_only.Masc.Cons
-3	ga	ga	DET	_	Deixis=Prox|PronType=Dem	2	det	_	AlignBegin=254061|AlignEnd=254228|Gloss=Prox
-4	dà	dà	SCONJ	_	_	7	mark	_	AlignBegin=254228|AlignEnd=254395|Gloss=REL
-5	ad	_	AUX	ak	_	7	cop	_	AlignBegin=254395|AlignEnd=254562|Background=Yes|Gloss=Ident.Bkg
-6	dà	dà	ADP	_	_	7	case	_	AlignBegin=254562|AlignEnd=254729|Gloss=with
-7	saurattà	sauraː	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=3	2	acl:relcl	_	AlignBegin=254729|AlignEnd=254896|Gloss=remains.Fem.Cons.3Fem.Gen|wordform=saurat
-8	kuma	kuma	PART	_	PartType=Top	2	discourse	_	AlignBegin=254896|AlignEnd=255063|Gloss=also
-9	<	<	PUNCT	_	_	2	punct	_	AlignBegin=255063|AlignEnd=255230|Gloss=PUNCT
-10	gàː	gàː	PART	_	PartType=Pred	0	root	_	AlignBegin=255230|AlignEnd=255397|Gloss=here_is
-11	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	nsubj	_	AlignBegin=255397|AlignEnd=255564|Gloss=3Masc
-12	yâu	yâu	ADV	_	_	14	advmod	_	AlignBegin=255564|AlignEnd=255731|Gloss=today
-13	zâːshi	_	AUX	zâi	Gender=Masc|Person=3|Tense=Fut	14	aux	_	AlignBegin=255731|AlignEnd=255898|Gloss=Fut.3Sing
-14	mutuwàː	mat-	VERB	_	ExtPos=NOUN|Gender=Fem|VerbForm=Vnoun	10	ccomp	_	AlignBegin=256065|AlignEnd=256232|Gloss=die.Vnoun.Fem
-15	//	//	PUNCT	_	_	10	punct	_	AlignBegin=256232|AlignEnd=256400|Gloss=PUNCT
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 13 ccomp	color:blue
+1	yaz	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	aux	_	AlignBegin=119032|AlignEnd=119418|Gloss=3Masc.Perf.Rel|Relative=Yes
+2	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=119418|AlignEnd=119804|Gloss=go
+3	|c	|c	PUNCT	_	_	5	punct	_	AlignBegin=119804|AlignEnd=120190|Gloss=PUNCT
+4	ya'	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	5	aux	_	AlignBegin=120190|AlignEnd=120576|Gloss=3Masc.Perf.Rel|Relative=Yes
+5	îskèː	isk-	VERB	_	_	2	conj	_	AlignBegin=120576|AlignEnd=120962|Gloss=find
+6	mùzuːruː	mùzuːruː	NOUN	_	Gender=Masc	5	obj	_	AlignBegin=120962|AlignEnd=121348|Gloss=cat.Masc
+7	|c	|c	PUNCT	_	_	9	punct	_	AlignBegin=121348|AlignEnd=121734|Gloss=PUNCT
+8	yac	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	aux	_	AlignBegin=121734|AlignEnd=122120|Gloss=3Masc.Perf.Rel|Relative=Yes
+9	cêː	cêː	VERB	_	_	2	conj	_	AlignBegin=122120|AlignEnd=122506|Gloss=say
+10	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	9	iobj	_	AlignBegin=122506|AlignEnd=122892|Gloss=3Masc.Dat
+11	[	[	PUNCT	_	_	13	punct	_	AlignBegin=122892|AlignEnd=123278|Gloss=PUNCT
+12	inàː	nàː	AUX	_	Aspect=Prog|Number=Sing|Person=1	13	aux	_	AlignBegin=123278|AlignEnd=123664|Gloss=1Sing.Prog
+13	gàyyaː	gàyyaː	NOUN	_	Gender=Fem	9	ccomp	_	AlignBegin=123664|AlignEnd=124050|Gloss=communal_farming.Fem
+14	//]	//]	PUNCT	_	_	13	punct	_	AlignBegin=124050|AlignEnd=124436|Gloss=PUNCT
+15	//	//	PUNCT	_	_	2	punct	_	AlignBegin=124436|AlignEnd=124821|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 7 ccomp	color:blue
-1	kàreː	kàreː	NOUN	_	Definite=Ind|Gender=Masc	3	nsubj	_	AlignBegin=137500|AlignEnd=137724|Gloss=dog.Masc
-2	yac	_	AUX	yak	Aspect=PerfBkg|Gender=Masc|Person=3	3	aux	_	AlignBegin=137724|AlignEnd=137948|Background=Yes|Gloss=3Masc.PerfBkg
-3	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=137948|AlignEnd=138172|Gloss=say
-4	mai	mai	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	3	iobj	_	AlignBegin=138172|AlignEnd=138396|Gloss=3Masc.Dat
-5	[	[	PUNCT	_	_	7	punct	_	AlignBegin=138396|AlignEnd=138620|Gloss=PUNCT
-6	kanàː	_	AUX	nàː	Aspect=Prog|Gender=Masc|Person=2	7	aux	_	AlignBegin=138620|AlignEnd=138844|Gloss=2Masc.Prog
-7	gàyyaː	gàyyaː	NOUN	_	Definite=Ind|Gender=Fem	3	ccomp	_	AlignBegin=138844|AlignEnd=139068|Gloss=communal_hunting.Fem
-8	//=	//=	PUNCT	_	_	11	punct	_	AlignBegin=139068|AlignEnd=139292|Gloss=PUNCT
-9	ìn	_	AUX	ø	Aspect=Aor|Number=Sing|Person=1	10	aux	_	AlignBegin=139292|AlignEnd=139516|Gloss=1Sing.Aor
-10	ji	ji	VERB	_	_	11	parataxis	_	AlignBegin=139516|AlignEnd=139740|Gloss=hear
-11	baːbù	baːbù	PART	_	PartType=Pred|Polarity=Neg	7	parataxis	_	AlignBegin=139740|AlignEnd=139964|Gloss=there_is.Neg
-12	dàːmisàː	dàːmisàː	NOUN	_	Definite=Ind|Gender=Fem	11	nsubj	_	AlignBegin=139964|AlignEnd=140188|Gloss=leopard.Fem
-13	?//]	?//]	PUNCT	_	_	7	punct	_	AlignBegin=140188|AlignEnd=140412|Gloss=PUNCT
-14	//	//	PUNCT	_	_	3	punct	_	AlignBegin=140412|AlignEnd=140640|Gloss=PUNCT
+# visual-style 3 5 ccomp	color:blue
+1	Dikkò	Dikkò	PROPN	_	_	3	nsubj	_	Gloss=Dikkò
+2	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	3	aux	_	Gloss=3Fem.Perf.Rel|Relative=Yes
+3	cèː	cêː	VERB	_	_	0	root	_	Gloss=say
+4	"	"	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+5	naː	yaː	AUX	_	Aspect=Perf|Number=Sing|Person=1	3	ccomp	_	Gloss=1Sing.Perf
+6	gàːhwàrceː	gaːfart-	VERB	_	_	5	ccomp	_	Gloss=forgive
+7	kà	ka	PRON	_	Case=Acc|Gender=Masc|Person=2|PronType=Prs	6	obl:mod	_	Gloss=2Masc.Acc|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
+9	Garbà	Garbà	PROPN	_	_	5	vocative	_	Gloss=Garbà|SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
+11	"	"	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 ~~~
 

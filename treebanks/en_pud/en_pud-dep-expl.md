@@ -24,7 +24,7 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 4 3 expl	color:blue
 1	Still	still	ADV	RB	_	4	advmod	4:advmod	SpaceAfter=No
 2	,	,	PUNCT	,	_	4	punct	4:punct	_
-3	there	there	PRON	EX	_	4	expl	4:expl	_
+3	there	there	PRON	EX	PronType=Dem	4	expl	4:expl	_
 4	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 5	questions	question	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
 6	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	5:acl	_
@@ -67,7 +67,7 @@ The following 6 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 2 expl	color:blue
 1	"	"	PUNCT	``	_	4	punct	4:punct	SpaceAfter=No
-2	There	there	PRON	EX	_	4	expl	4:expl	_
+2	There	there	PRON	EX	PronType=Dem	4	expl	4:expl	_
 3	will	will	AUX	MD	VerbForm=Fin	4	aux	4:aux	_
 4	be	be	AUX	VB	VerbForm=Inf	19	ccomp	19:ccomp	_
 5	protests	protest	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_

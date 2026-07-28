@@ -21,14 +21,14 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="fr_pud-pos-AUX.h
 * <em>a</em>
   * <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> 287: <em>Guitariste passionné , il <b>a</b> participé à un concert la même année .</em>
   * <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> 30: <em>Notre pays n' <b>a</b> pas besoin de ça , mes amis .</em>
-  * <tt><a href="fr_pud-pos-X.html">X</a></tt> 4: <em>Dans l’ album « On <b>a</b> Wing and <b>a</b> Prayer » ( 1992 ) , il retrouve son partenaire Joe Egan , de le groupe Stealers Wheel , dans plusieurs morceaux .</em>
+  * <tt><a href="fr_pud-pos-X.html">X</a></tt> 4: <em>Dans l' album « On <b>a</b> Wing and <b>a</b> Prayer » ( 1992 ) , il retrouve son partenaire Joe Egan , de le groupe Stealers Wheel , dans plusieurs morceaux .</em>
   * <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> 1: <em>Correspondant par e-mail avec Woods , je m' essayais <b>a</b> l' étymologie .</em>
 * <em>BBC</em>
   * <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> 3: <em>Il a travaillé pour la <b>BBC</b> pendant une décennie .</em>
   * <tt><a href="fr_pud-pos-X.html">X</a></tt> 1: <em>Il a ensuite passé 4 ans à la radio de <b>BBC</b> World Service à Bush House .</em>
 * <em>Bank</em>
-  * <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> 1: <em>La South <b>Bank</b> Tower , emblématique de Londres , a retenu les services de Rachel Winham , architecte d’ intérieur , pour l’ aménagement de l’ appartement témoin .</em>
-  * <tt><a href="fr_pud-pos-X.html">X</a></tt> 1: <em>Les clients de la <b>Bank</b> of Scotland , cependant , obtiennent un taux d’ intérêt sur les soldes de £ 3000 à £ 5000 quand l’ option gratuite de le compte « Vantage » est ajoutée .</em>
+  * <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> 1: <em>La South <b>Bank</b> Tower , emblématique de Londres , a retenu les services de Rachel Winham , architecte d' intérieur , pour l' aménagement de l' appartement témoin .</em>
+  * <tt><a href="fr_pud-pos-X.html">X</a></tt> 1: <em>Les clients de la <b>Bank</b> of Scotland , cependant , obtiennent un taux d' intérêt sur les soldes de £ 3000 à £ 5000 quand l' option gratuite de le compte « Vantage » est ajoutée .</em>
 * <em>Cape</em>
   * <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> 1: <em>Le gouvernement local de <b>Cape</b> Town est la « City of Cape Town » , une municipalité métropolitaine .</em>
   * <tt><a href="fr_pud-pos-X.html">X</a></tt> 1: <em>Le gouvernement local de Cape Town est la « City of <b>Cape</b> Town » , une municipalité métropolitaine .</em>
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="fr_pud-pos-AUX.h
   * <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>En 1856 éclate la seconde guerre de l' Opium ; les chinois furent de nouveau vaincus et contraints de respecter les termes de le Traité de Tientsin de 1858 et de la <b>Convention</b> de Pékin de 1860 .</em>
   * <tt><a href="fr_pud-pos-X.html">X</a></tt> 1: <em>Le Yerba Buena Garden a été construit à le début de les années 1990 et se trouve sur le toit de le Moscone North <b>Convention</b> Center .</em>
 * <em>Disney</em>
-  * <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> 3: <em>Walt <b>Disney</b> a également découvert qu’ Universal détenait les droits de propriété intellectuelle d' Oswald .</em>
+  * <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> 3: <em>Walt <b>Disney</b> a également découvert qu' Universal détenait les droits de propriété intellectuelle d' Oswald .</em>
   * <tt><a href="fr_pud-pos-X.html">X</a></tt> 1: <em>Cette même année , elle est brièvement apparue en tant que réceptionniste de Mlle Piggy dans « Les Muppets , le retour » ( 2011 ) , de Walt <b>Disney</b> Pictures .</em>
 * <em>Glasgow</em>
   * <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> 1: <em>Catalano est retourné habiter dans la région , après avoir habité Londres et puis <b>Glasgow</b> , où il avait étudié la créationn de bijoux à la Glasgow School of Art .</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="fr_pud-pos-AUX.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.013423 (the average of all parts of speech is 1.300944).
+The form / lemma ratio of `X` is 1.013423 (the average of all parts of speech is 1.297042).
 
 The 1st highest number of forms (3) was observed with the lemma “_”: <em>Or, hui, ème</em>.
 

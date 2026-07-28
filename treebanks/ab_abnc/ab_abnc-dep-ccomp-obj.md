@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Abkhaz-AbNC: Relations: `ccomp:obj`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-ccomp.html">ccomp</a></tt>.
 There are also 6 other language-specific subtypes of `ccomp`: <tt><a href="ab_abnc-dep-ccomp-iobj.html">ccomp:iobj</a></tt>, <tt><a href="ab_abnc-dep-ccomp-lo.html">ccomp:lo</a></tt>, <tt><a href="ab_abnc-dep-ccomp-poss.html">ccomp:poss</a></tt>, <tt><a href="ab_abnc-dep-ccomp-purp.html">ccomp:purp</a></tt>, <tt><a href="ab_abnc-dep-ccomp-quote.html">ccomp:quote</a></tt>, <tt><a href="ab_abnc-dep-ccomp-ro.html">ccomp:ro</a></tt>.
 
-81 nodes (1%) are attached to their parents as `ccomp:obj`.
+104 nodes (1%) are attached to their parents as `ccomp:obj`.
 
-73 instances of `ccomp:obj` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.35802469135802.
+95 instances of `ccomp:obj` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29807692307692.
 
-The following 3 pairs of parts of speech are connected with `ccomp:obj`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (79; 98% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `ccomp:obj`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (102; 98% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -49,8 +49,8 @@ The following 3 pairs of parts of speech are connected with `ccomp:obj`: <tt><a 
 9	агәҭаны	а-гәҭаны́	ADP	PP_Poss:3SgNH	Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3	8	case	_	LMSeg:а-гәҭаны́
 10	ҩ-шьаҿак	а-шьаҿа́	NOUN	Noun_NH_Sg_Indet_NumPfx	Animacy=Nhum|Number=Card	11	iobj:ro	_	LMSeg:а-шьаҿа́
 11	иазынаҧшуа	а-зы́наҧшра	VERB	V_Dyn_Intr_NonFin_Cnv_Abs_Pres_S:3_RO:3SgNH_Reln:For	Dyn=Yes|Gender[ro]=Neut|Number[ro]=Sing|Person[ro]=3|Person[subj]=3|Reln=Ben|Subcat=Intr|Tense=Pres|VerbForm=NonFin	12	advcl:conv	_	LMSeg:а-зы́·на·ҧш-ра
-12	набжьаҵаны	а-бжьаҵара́	VERB	V_Dyn_Tr_NonFin_Cnv_Abs_Aor_FPv:на_DO:3_DO:Ad_LO:3SgNH	Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[obj]=3|Subcat=Tran|Tense=Aor|VerbForm=NonFin	13	advcl:conv	_	LMSeg:а-бжьа·ҵа-ра́
-13	иаадиргылт	а́-дыргылара	VERB	V_Dyn_Intr_Caus_Fin_Aor_FPv:аа_S:3SgM_DO:3_LO:3SgNH	Dyn=Yes|Gender[lo]=Neut|Gender[subj]=Masc|Mood=Ind|Number[lo]=Sing|Number[subj]=Sing|Person[lo]=3|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin|Voice=Cau	0	root	_	LMSeg:а́-ды·р:гыла-ра|SpaceAfter=No
+12	набжьаҵаны	а-бжьаҵара́	VERB	V_Dyn_Tr_NonFin_Cnv_Abs_Aor_FPv:на_DO:3_DO:Ad_LO:SgNH	Dyn=Yes|Person[obj]=3|Subcat=Tran|Tense=Aor|VerbForm=NonFin	13	advcl:conv	_	LMSeg:а-бжьа·ҵа-ра́
+13	иаадиргылт	а́-дыргылара	VERB	V_Dyn_Intr_Caus_Fin_Aor_FPv:аа_S:3SgM_DO:3_LO:SgNH	Dyn=Yes|Gender[subj]=Masc|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin|Voice=Cau	0	root	_	LMSeg:а́-ды·р:гыла-ра|SpaceAfter=No
 14	.	.	PUNCT	Punct_Period	_	13	punct	_	LMSeg:.
 
 ~~~

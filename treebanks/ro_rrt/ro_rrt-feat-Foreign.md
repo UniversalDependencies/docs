@@ -10,9 +10,9 @@ This feature is universal.
 It occurs with 1 different values: `Yes`.
 
 121 tokens (0%) have a non-empty value of `Foreign`.
-114 types (0%) occur at least once with a non-empty value of `Foreign`.
-114 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (59; 0% instances), <tt><a href="ro_rrt-pos-X.html">X</a></tt> (31; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (22; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+113 types (0%) occur at least once with a non-empty value of `Foreign`.
+113 lemmas (1%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (59; 0% instances), <tt><a href="ro_rrt-pos-X.html">X</a></tt> (31; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (23; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `PROPN`
 
@@ -21,44 +21,44 @@ The feature is used with 7 part-of-speech tags: <tt><a href="ro_rrt-pos-PROPN.ht
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (59; 100% of non-empty `Foreign`): <em>Act, Albion, Award, Awards, Beauty, Book, Boyer, Breisgau, Bromwich, Carlo</em>
-* `EMPTY` (5826): <em>România, Winston, României, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien</em>
+* `EMPTY` (5824): <em>România, Winston, României, București, Timișoara, Iași, Ion, Paris, Alexandru, O'Brien</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (59) occur only with one value of `Foreign`.
 
 ### `X`
 
-31 <tt><a href="ro_rrt-pos-X.html">X</a></tt> tokens (19% of all `X` tokens) have a non-empty value of `Foreign`.
+31 <tt><a href="ro_rrt-pos-X.html">X</a></tt> tokens (20% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
 * `Yes` (31; 100% of non-empty `Foreign`): <em>alia, A­, Book, IN, LEARNING, Mode, OUT, Records, Road, Sybir</em>
-* `EMPTY` (132): <em>000, 500, 100, mp, 0, 2, 5a, American, K., dată</em>
+* `EMPTY` (121): <em>000, 500, 100, 0, 2, 5a, American, K., dată, un</em>
 
 `Foreign` seems to be **lexical feature** of `X`. 100% lemmas (30) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
-22 <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+23 <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (21; 95%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 91%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (19; 86%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (19; 86%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (22; 96%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21; 91%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (20; 87%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (20; 87%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (22; 100% of non-empty `Foreign`): <em>of, Flag, goldies, mail, Corner, Design, Deum, End, Forum, Play</em>
+* `Yes` (23; 100% of non-empty `Foreign`): <em>e-mail, of, Flag, goldies, Corner, Design, Deum, End, Forum, Play</em>
 * `EMPTY` (54234): <em>ani, timp, cazul, conformitate, loc, timpul, membre, mod, statele, acord</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (19) occur only with one value of `Foreign`.
 
 ### `ADJ`
 
-6 <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
+5 <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (6; 100%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (5; 83%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5; 100%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (4; 80%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 80%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 60%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 
-* `Yes` (6; 100% of non-empty `Foreign`): <em>Dance, Felin, Industrial, admirari, normal, poetica</em>
-* `EMPTY` (15291): <em>mare, asemenea, europene, prezentul, nou, necesare, prezenta, europeană, mari, european</em>
+* `Yes` (5; 100% of non-empty `Foreign`): <em>Dance, Felin, Industrial, normal, poetica</em>
+* `EMPTY` (15281): <em>mare, asemenea, europene, prezentul, nou, necesare, prezenta, europeană, mari, european</em>
 
 ### `ADP`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>de</em>
-* `EMPTY` (31054): <em>de, în, la, cu, din, pe, pentru, prin, după, ca</em>
+* `EMPTY` (31052): <em>de, în, la, cu, din, pe, pentru, prin, după, ca</em>
 
 ### `NUM`
 
@@ -80,7 +80,7 @@ The most frequent other feature values with which `NUM` and `Foreign` co-occurre
 `NUM` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>II</em>
-* `EMPTY` (5548): <em>1, 2, 3, două, 4, trei, 5, 6, primul, doi</em>
+* `EMPTY` (5551): <em>1, 2, 3, două, 4, trei, 5, 6, primul, doi</em>
 
 ### `VERB`
 

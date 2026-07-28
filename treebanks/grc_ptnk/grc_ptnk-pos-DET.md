@@ -28,13 +28,13 @@ The form / lemma ratio of `DET` is 23.000000 (the average of all parts of speech
 
 The 1st highest number of forms (23) was observed with the lemma “ὁ”: <em>αἱ, οἱ, οἳ, τά, τήν, ταῖς, τοὺς, τοῖς, τοῦ, τόν, τὰ, τὰς, τὴν, τὸ, τὸν, τῆς, τῇ, τῶν, τῷ, ἡ, ὁ, ὃ, ὅ</em>.
 
-`DET` occurs with 5 features: <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt> (5157; 100% instances), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt> (5157; 100% instances), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt> (5157; 100% instances), <tt><a href="grc_ptnk-feat-PronType.html">PronType</a></tt> (5157; 100% instances), <tt><a href="grc_ptnk-feat-Definite.html">Definite</a></tt> (4253; 82% instances)
+`DET` occurs with 5 features: <tt><a href="grc_ptnk-feat-Case.html">Case</a></tt> (5157; 100% instances), <tt><a href="grc_ptnk-feat-Definite.html">Definite</a></tt> (5157; 100% instances), <tt><a href="grc_ptnk-feat-Gender.html">Gender</a></tt> (5157; 100% instances), <tt><a href="grc_ptnk-feat-Number.html">Number</a></tt> (5157; 100% instances), <tt><a href="grc_ptnk-feat-PronType.html">PronType</a></tt> (5157; 100% instances)
 
 `DET` occurs with 14 feature-value pairs: `Case=Acc`, `Case=Acc,Nom`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Definite=Def`, `Gender=Fem`, `Gender=Fem,Masc,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `PronType=Art`
 
-`DET` occurs with 21 feature combinations.
-The most frequent feature combination is `Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art` (633 tokens).
-Examples: <em>τοῦ</em>
+`DET` occurs with 30 feature combinations.
+The most frequent feature combination is `Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (591 tokens).
+Examples: <em>ὁ, ὃ, ὅ</em>
 
 
 ## Relations

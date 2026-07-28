@@ -16,4 +16,4 @@ statistika për të vdekurit në luftë \n statistics on the dead in war
 det:noun(vdekurit, të)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:46 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:02 CEST -->

@@ -11,9 +11,9 @@ This relation is universal.
 170 nodes (13%) are attached to their parents as `root`.
 
 170 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.44117647058824.
+Average distance between parent and child is 5.43529411764706.
 
-The following 4 pairs of parts of speech are connected with `root`: -<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (155; 91% instances), -<tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (7; 4% instances), -<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), -<tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `root`: -<tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (154; 91% instances), -<tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt> (8; 5% instances), -<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), -<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

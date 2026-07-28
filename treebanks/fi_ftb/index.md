@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 The following people have contributed to making this treebank part of UD: Jussi Piitulainen, Hanna Nurmi, Jack Rueter.
 
 Repository: [UD_Finnish-FTB](https://github.com/UniversalDependencies/UD_Finnish-FTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ftb217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ftb218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY 4.0
 
@@ -102,7 +102,7 @@ training set, 1 into development set, and 1 into test set.
 
 ## Relations
 
-[acl](fi_ftb-dep-acl.html) – [advcl](fi_ftb-dep-advcl.html) – [advmod](fi_ftb-dep-advmod.html) – [amod](fi_ftb-dep-amod.html) – [appos](fi_ftb-dep-appos.html) – [aux](fi_ftb-dep-aux.html) – [case](fi_ftb-dep-case.html) – [cc](fi_ftb-dep-cc.html) – [cc:preconj](fi_ftb-dep-cc-preconj.html) – [ccomp](fi_ftb-dep-ccomp.html) – [compound](fi_ftb-dep-compound.html) – [compound:nn](fi_ftb-dep-compound-nn.html) – [compound:prt](fi_ftb-dep-compound-prt.html) – [conj](fi_ftb-dep-conj.html) – [cop](fi_ftb-dep-cop.html) – [csubj](fi_ftb-dep-csubj.html) – [csubj:cop](fi_ftb-dep-csubj-cop.html) – [dep](fi_ftb-dep-dep.html) – [det](fi_ftb-dep-det.html) – [discourse](fi_ftb-dep-discourse.html) – [expl](fi_ftb-dep-expl.html) – [fixed](fi_ftb-dep-fixed.html) – [flat](fi_ftb-dep-flat.html) – [goeswith](fi_ftb-dep-goeswith.html) – [mark](fi_ftb-dep-mark.html) – [nmod](fi_ftb-dep-nmod.html) – [nmod:gobj](fi_ftb-dep-nmod-gobj.html) – [nmod:gsubj](fi_ftb-dep-nmod-gsubj.html) – [nmod:poss](fi_ftb-dep-nmod-poss.html) – [nsubj](fi_ftb-dep-nsubj.html) – [nsubj:cop](fi_ftb-dep-nsubj-cop.html) – [nsubj:outer](fi_ftb-dep-nsubj-outer.html) – [nummod](fi_ftb-dep-nummod.html) – [obj](fi_ftb-dep-obj.html) – [obl](fi_ftb-dep-obl.html) – [obl:agent](fi_ftb-dep-obl-agent.html) – [orphan](fi_ftb-dep-orphan.html) – [punct](fi_ftb-dep-punct.html) – [reparandum](fi_ftb-dep-reparandum.html) – [root](fi_ftb-dep-root.html) – [vocative](fi_ftb-dep-vocative.html) – [xcomp](fi_ftb-dep-xcomp.html) – [xcomp:ds](fi_ftb-dep-xcomp-ds.html)
+[acl](fi_ftb-dep-acl.html) – [advcl](fi_ftb-dep-advcl.html) – [advmod](fi_ftb-dep-advmod.html) – [amod](fi_ftb-dep-amod.html) – [appos](fi_ftb-dep-appos.html) – [aux](fi_ftb-dep-aux.html) – [case](fi_ftb-dep-case.html) – [cc](fi_ftb-dep-cc.html) – [cc:preconj](fi_ftb-dep-cc-preconj.html) – [ccomp](fi_ftb-dep-ccomp.html) – [compound](fi_ftb-dep-compound.html) – [compound:nn](fi_ftb-dep-compound-nn.html) – [compound:prt](fi_ftb-dep-compound-prt.html) – [conj](fi_ftb-dep-conj.html) – [cop](fi_ftb-dep-cop.html) – [cop:own](fi_ftb-dep-cop-own.html) – [csubj](fi_ftb-dep-csubj.html) – [csubj:cop](fi_ftb-dep-csubj-cop.html) – [dep](fi_ftb-dep-dep.html) – [det](fi_ftb-dep-det.html) – [discourse](fi_ftb-dep-discourse.html) – [expl](fi_ftb-dep-expl.html) – [fixed](fi_ftb-dep-fixed.html) – [flat](fi_ftb-dep-flat.html) – [goeswith](fi_ftb-dep-goeswith.html) – [mark](fi_ftb-dep-mark.html) – [nmod](fi_ftb-dep-nmod.html) – [nmod:gobj](fi_ftb-dep-nmod-gobj.html) – [nmod:gsubj](fi_ftb-dep-nmod-gsubj.html) – [nmod:poss](fi_ftb-dep-nmod-poss.html) – [nsubj](fi_ftb-dep-nsubj.html) – [nsubj:cop](fi_ftb-dep-nsubj-cop.html) – [nsubj:outer](fi_ftb-dep-nsubj-outer.html) – [nummod](fi_ftb-dep-nummod.html) – [obj](fi_ftb-dep-obj.html) – [obl](fi_ftb-dep-obl.html) – [obl:agent](fi_ftb-dep-obl-agent.html) – [orphan](fi_ftb-dep-orphan.html) – [punct](fi_ftb-dep-punct.html) – [reparandum](fi_ftb-dep-reparandum.html) – [root](fi_ftb-dep-root.html) – [vocative](fi_ftb-dep-vocative.html) – [xcomp](fi_ftb-dep-xcomp.html) – [xcomp:ds](fi_ftb-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -167,8 +167,8 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</li>
-    <li>VERB: on, oli, ole, tulee, tuli, saa, ei, sanoi, ovat, sai</li>
+    <li>AUX: on, ei, oli, ovat, ole, en, voi, olisi, olen, eivät</li>
+    <li>VERB: on, oli, tulee, ole, tuli, saa, ei, sanoi, ovat, sai</li>
   </ul>
   </li>
 </ul>
@@ -347,7 +347,7 @@ training set, 1 into development set, and 1 into test set.
   <li>Gen
     <ul>
       <li>ADJ: uuden, oman, pienen, suomalaisen, ensimmäisen, erityisen, mahdollisimman, suomalaisten, hyvän, nuorten</li>
-      <li>AUX-Part: olevan, olevansa, voitavan, voivan, olleen, olevani, voivani, voivansa</li>
+      <li>AUX-Part: olevan, olevansa, olleen, voitavan, voivan, olevani, voivani, voivansa</li>
       <li>DET: sen, tämän, muutaman, niiden, jonka, jonkin, kaiken, kaikkien, muiden, jokaisen</li>
       <li>NOUN: vuoden, kerran, ajan, miehen, auton, päivän, kirjan, talon, asian, ihmisen</li>
       <li>NUM: kahden, yhden, viiden, kolmen, kymmenen, miljoonan, neljän, parin, puolen, sadan</li>
@@ -539,7 +539,7 @@ training set, 1 into development set, and 1 into test set.
   <li>Ind
     <ul>
       <li>AUX-Fin: on, ei, oli, ovat, en, ole, voi, olen, eivät, eikä</li>
-      <li>VERB-Fin: on, oli, ole, tulee, tuli, saa, ei, sanoi, ovat, sai</li>
+      <li>VERB-Fin: on, oli, tulee, tuli, ole, saa, ei, sanoi, ovat, sai</li>
     </ul>
   </li>
 </ul>
@@ -570,7 +570,7 @@ training set, 1 into development set, and 1 into test set.
   <li>Past
     <ul>
       <li>AUX-Fin: oli, olivat, olin, ollut, piti, saattoi, oliko, olikin, voinut, oltiin</li>
-      <li>VERB-Fin: oli, tuli, sanoi, sai, meni, ollut, jäi, teki, lähti, olivat</li>
+      <li>VERB-Fin: oli, tuli, sanoi, sai, meni, jäi, ollut, teki, lähti, olivat</li>
     </ul>
   </li>
 </ul>
@@ -579,7 +579,7 @@ training set, 1 into development set, and 1 into test set.
   <li>Pres
     <ul>
       <li>AUX-Fin: on, ovat, ole, voi, olen, pitää, täytyy, onko, olet, saattaa</li>
-      <li>VERB-Fin: on, ole, tulee, saa, ovat, sanoo, onko, tiedä, kuuluu, haluaa</li>
+      <li>VERB-Fin: on, tulee, ole, saa, ovat, sanoo, onko, tiedä, kuuluu, haluaa</li>
     </ul>
   </li>
 </ul>
@@ -591,10 +591,10 @@ training set, 1 into development set, and 1 into test set.
 <ul>
   <li>Act
     <ul>
-      <li>AUX-Fin: on, ei, oli, ovat, en, ole, voi, olisi, olen, eivät</li>
+      <li>AUX-Fin: on, ei, oli, ovat, ole, en, voi, olisi, olen, eivät</li>
       <li>AUX-Inf: olla, olemaan, voida, ollen, olemasta, ollakseen, ollapa, ollessa, ollessani, täytyä</li>
-      <li>AUX-Part: ollut, olevan, voinut, olleet, pitänyt, ollu, täytynyt, voineet, olevansa, saattanut</li>
-      <li>VERB-Fin: on, oli, ole, tulee, tuli, saa, ei, sanoi, ovat, sai</li>
+      <li>AUX-Part: ollut, olevan, voinut, olleet, pitänyt, ollu, täytynyt, voineet, olevansa, olleen</li>
+      <li>VERB-Fin: on, oli, tulee, ole, tuli, saa, ei, sanoi, ovat, sai</li>
       <li>VERB-Inf: olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</li>
       <li>VERB-Part: ollut, saanut, tullut, olevan, oleva, käynyt, sanonut, tehnyt, nähnyt, ollu</li>
     </ul>
@@ -1109,7 +1109,7 @@ training set, 1 into development set, and 1 into test set.
       </li>
       <li>Past
         <ul>
-          <li>AUX-Part: ollut, voinut, olleet, pitänyt, ollu, voitu, täytynyt, oltu, voineet, saattanut</li>
+          <li>AUX-Part: ollut, voinut, olleet, pitänyt, ollu, voitu, täytynyt, oltu, voineet, olleen</li>
           <li>VERB-Part: ollut, saanut, tullut, tehty, käynyt, sanonut, tehnyt, nähnyt, ollu, saaneet</li>
         </ul>
       </li>
@@ -1217,7 +1217,7 @@ training set, 1 into development set, and 1 into test set.
           <li>PRON: mä, sä, mun, tää, sun, sulle, mulla, sulla, mie, mua</li>
           <li>PROPN: Soiliki, iiässäs, Ailii, Alfas, Annillakkii, Dödö, Hesaris, Hiakal, Jokine, Juttutupaa</li>
           <li>SCONJ: ett, et, ku, vaikk, ko, kun, jott, Vaik, ette, joss</li>
-          <li>VERB-Fin: sano, oo, onks, ollu, aattelin, o, olis, ois, oot, katotaan</li>
+          <li>VERB-Fin: sano, oo, onks, ollu, aattelin, olis, oot, katotaan, o, ois</li>
           <li>VERB-Inf: tehä, lähtee, rassaa, kattoo, kattoon, laittaan, lähtie, saadas, sanoo, tekee</li>
           <li>VERB-Part: ollu, tullu, käyny, menny, ottanu, saanu, tehny, nähny, heränny, jättäny</li>
         </ul>
@@ -1262,28 +1262,28 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-All (1)</li>
       <li>VERB-Fin--NOUN-Ela (92)</li>
       <li>VERB-Fin--NOUN-Gen (7)</li>
-      <li>VERB-Fin--NOUN-Nom (4226)</li>
-      <li>VERB-Fin--NOUN-Par (1054)</li>
+      <li>VERB-Fin--NOUN-Nom (4167)</li>
+      <li>VERB-Fin--NOUN-Par (1013)</li>
       <li>VERB-Fin--PRON-Acc (7)</li>
       <li>VERB-Fin--PRON-All (1)</li>
       <li>VERB-Fin--PRON-Ela (44)</li>
       <li>VERB-Fin--PRON-Gen (22)</li>
       <li>VERB-Fin--PRON-Gen-ADP(kanssa) (1)</li>
       <li>VERB-Fin--PRON-Nom (3054)</li>
-      <li>VERB-Fin--PRON-Par (120)</li>
+      <li>VERB-Fin--PRON-Par (116)</li>
       <li>VERB-Inf--NOUN-Ela (13)</li>
       <li>VERB-Inf--NOUN-Gen (167)</li>
-      <li>VERB-Inf--NOUN-Nom (385)</li>
+      <li>VERB-Inf--NOUN-Nom (384)</li>
       <li>VERB-Inf--NOUN-Par (54)</li>
       <li>VERB-Inf--PRON-All (1)</li>
       <li>VERB-Inf--PRON-Ela (3)</li>
       <li>VERB-Inf--PRON-Gen (174)</li>
-      <li>VERB-Inf--PRON-Nom (223)</li>
+      <li>VERB-Inf--PRON-Nom (222)</li>
       <li>VERB-Inf--PRON-Par (11)</li>
       <li>VERB-Part--NOUN-Ela (18)</li>
       <li>VERB-Part--NOUN-Gen (141)</li>
-      <li>VERB-Part--NOUN-Nom (527)</li>
-      <li>VERB-Part--NOUN-Par (112)</li>
+      <li>VERB-Part--NOUN-Nom (524)</li>
+      <li>VERB-Part--NOUN-Par (105)</li>
       <li>VERB-Part--PRON-All (1)</li>
       <li>VERB-Part--PRON-Ela (13)</li>
       <li>VERB-Part--PRON-Gen (102)</li>
@@ -1300,7 +1300,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen (889)</li>
       <li>VERB-Fin--NOUN-Ill (2)</li>
       <li>VERB-Fin--NOUN-Nom (726)</li>
-      <li>VERB-Fin--NOUN-Par (1990)</li>
+      <li>VERB-Fin--NOUN-Par (1987)</li>
       <li>VERB-Fin--NOUN-Par-ADP(paitsi) (3)</li>
       <li>VERB-Fin--NOUN-Par-ADP(vaille) (1)</li>
       <li>VERB-Fin--NOUN-Tra (1)</li>
@@ -1357,6 +1357,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>csubj:cop</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>obl:agent</a>, <a>xcomp:ds</a></li>
+<li>This corpus uses 12 relation subtypes: <a>cc:preconj</a>, <a>compound:nn</a>, <a>compound:prt</a>, <a>cop:own</a>, <a>csubj:cop</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>nsubj:outer</a>, <a>obl:agent</a>, <a>xcomp:ds</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>parataxis</a></li>
 </ul>

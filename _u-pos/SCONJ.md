@@ -35,4 +35,4 @@ without fulfilling a syntactic role in the clause. Relative and resumptive prono
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a subordinating conjunction?](https://glossary.sil.org/term/subordinating-conjunction)
 - [Wikipedia](http://en.wikipedia.org/wiki/Conjunction_(grammar))
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:56 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->

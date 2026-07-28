@@ -68,8 +68,8 @@ The 3rd highest number of forms (1) was observed with the lemma “Allianplace�
 `X` occurs with 10 feature-value pairs: `Abbr=Yes`, `Echo=Ech`, `ExtPos=PROPN`, `Foreign=Yes`, `Hyph=Yes`, `Style=Arch`, `Style=Coll`, `Style=Rare`, `Style=Vrnc`, `Typo=Yes`
 
 `X` occurs with 12 feature combinations.
-The most frequent feature combination is `Foreign=Yes` (119 tokens).
-Examples: <em>Բի, իսլամի, Սի, ֆարգո, Community, Daily, In, Metal, Nas, ZipLine</em>
+The most frequent feature combination is `_` (119 tokens).
+Examples: <em>թույլ, ո, նկատի, ր, շ, մ, ու, տանուլ, շուռ, կոյունլու</em>
 
 
 ## Relations

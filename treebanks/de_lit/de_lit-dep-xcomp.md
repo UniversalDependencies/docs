@@ -50,7 +50,7 @@ The following 29 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 3	,	,	PUNCT	$,	_	6	punct	_	_
 4	was	was	PRON	PRELS	Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel	6	nsubj	_	_
 5	nur	nur	ADV	ADV	_	6	advmod	_	_
-6	lang	lang	ADJ	ADJD	_	2	acl	_	_
+6	lang	lang	ADJ	ADJD	_	2	acl:relcl	_	_
 7	ist	sein	AUX	VAFIN	_	6	cop	_	SpaceAfter=No
 8	,	,	PUNCT	$,	_	6	punct	_	_
 9	nennt	nennen	VERB	VVFIN	_	0	root	_	_

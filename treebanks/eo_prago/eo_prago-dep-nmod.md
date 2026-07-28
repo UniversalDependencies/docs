@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="eo_prago-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-294 nodes (9%) are attached to their parents as `nmod`.
+296 nodes (9%) are attached to their parents as `nmod`.
 
-248 instances of `nmod` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.39795918367347.
+250 instances of `nmod` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.41891891891892.
 
-The following 16 pairs of parts of speech are connected with `nmod`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (161; 55% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (51; 17% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (24; 8% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (11; 4% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (10; 3% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `nmod`: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (162; 55% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (52; 18% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (24; 8% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (11; 4% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (10; 3% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -79,7 +79,7 @@ The following 16 pairs of parts of speech are connected with `nmod`: <tt><a href
 15	pri	pri	ADP	_	_	16	case	_	_
 16	Dio	dio	NOUN	_	Case=Nom|Number=Sing	14	nmod	_	_
 17	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	_
-18	alia	alia	PRON	_	Case=Nom|Number=Sing	10	acl:relcl	_	_
+18	alia	alia	PRON	_	Case=Nom|Number=Sing|PronType=Dem	10	acl:relcl	_	_
 19	ol	ol	CCONJ	_	_	20	cc	_	_
 20	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	18	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	4	punct	_	_

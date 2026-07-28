@@ -49,7 +49,7 @@ The following 2 pairs of parts of speech are connected with `obl:final`: <tt><a 
 6	ა	ყოფნა	AUX	V_MedPass_Pres_S:3Sg_Encl	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	5	cop	_	LMSeg:ყოფნ[ა]/არ
 7	ვიცოდეთ	ცოდნა	VERB	V_MedPass_ConjPres_S:1Pl_DO:3	Mood=Sub|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Tense=Pres|VerbForm=Fin	5	csubj	_	LMSeg:ცოდნ[ა]/ც|SpaceAfter=No
 8	,	,	PUNCT	Punct_Comma	_	9	punct	_	LMSeg:,
-9	როგორი	როგორი	PRON	Pron_Int_Nom_Sg	Case=Nom|Number=Sing	7	ccomp	_	LMSeg:როგორ·ი
+9	როგორი	როგორი	PRON	Pron_Int_Nom_Sg	Case=Nom|Number=Sing|PronType=Int	7	ccomp	_	LMSeg:როგორ·ი
 10	იყო	ყოფნა	AUX	V_Pass_Aor_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	9	cop	_	LMSeg:ყოფნ[ა]/ყ[ავ]
 11	სამყაროს	სამყარო	NOUN	N_Gen_Sg	Case=Gen|Number=Sing	13	nmod	_	LMSeg:სამყარო
 12	მითოლოგიური	მითოლოგიური	ADJ	A_Nom_Att	Case=Nom	13	amod	_	LMSeg:მითოლოგიურ·ი

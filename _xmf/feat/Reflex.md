@@ -13,4 +13,4 @@ Boolean feature of pronouns. It tells whether the word is reflexive.
 
 - reflexive pronouns: _თვითონ (tvitɔn)_ 'himself, herself or itself' etc.
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:46 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:17 CEST -->

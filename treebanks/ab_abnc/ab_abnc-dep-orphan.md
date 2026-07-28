@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 9 10 orphan	color:blue
 1	Ашәқәа	а́-шә	NOUN	Noun_NH_Pl_Det	Animacy=Nhum|Definite=Def|Number=Plur	3	nsubj	_	LMSeg:а́-шә
 2	ҩба	ҩба́	NUM	Num_NH_Card	Animacy=Nhum|NumType=Card	1	nummod	_	LMSeg:ҩба́
-3	ҿан	а-ҿазаара́	VERB	V_Stat_Fin_Impf_S:3_S:Ad_[LO:3SgNH]	Dyn=No|Gender[lo]=Neut|Mood=Ind|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а-ҿа-заа-ра́|SpaceAfter=No
+3	ҿан	а-ҿазаара́	VERB	V_Stat_Fin_Impf_S:3_S:Ad	Dyn=No|Mood=Ind|Person[subj]=3|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а-ҿа-заа-ра́|SpaceAfter=No
 4	,	,	PUNCT	Punct_Comma	_	7	punct	_	LMSeg:,
 5	руакы	руакы́	PRON	Pron_Indef_NH_Sg_Poss:3Pl	Animacy=Nhum|Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Ind	7	nsubj	_	LMSeg:руакы́
 6	ашьашьма	а-шьашьма́	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	7	iobj	_	LMSeg:а-шьашьма́

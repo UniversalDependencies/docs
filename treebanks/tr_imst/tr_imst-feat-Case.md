@@ -139,7 +139,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 2148 <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1802; 84%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1802; 84%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1695; 79%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (1248; 58%), <tt><a href="tr_imst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1189; 55%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1802; 84%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1802; 84%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1695; 79%), <tt><a href="tr_imst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1367; 64%), <tt><a href="tr_imst-feat-Person.html">Person</a></tt><tt>=3</tt> (1248; 58%).
 
 `PRON` tokens may have the following values of `Case`:
 
@@ -205,13 +205,13 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> NOUN</tt> (589; 81%),
-<tt>NOUN --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (232; 63%),
+<tt>NOUN --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> NOUN</tt> (592; 81%),
+<tt>NOUN --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (233; 63%),
 <tt>PROPN --[<tt><a href="tr_imst-dep-flat.html">flat</a></tt>]--> PROPN</tt> (227; 76%),
 <tt>NOUN --[<tt><a href="tr_imst-dep-compound.html">compound</a></tt>]--> NOUN</tt> (147; 65%),
-<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (103; 86%),
+<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (105; 86%),
 <tt>NOUN --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (102; 77%),
-<tt>PROPN --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (90; 84%),
+<tt>PROPN --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (91; 84%),
 <tt>PROPN --[<tt><a href="tr_imst-dep-flat.html">flat</a></tt>]--> NOUN</tt> (86; 66%),
 <tt>PROPN --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> PROPN</tt> (72; 82%),
 <tt>ADJ --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> NOUN</tt> (59; 51%).

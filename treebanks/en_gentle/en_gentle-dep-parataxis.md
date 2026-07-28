@@ -27,7 +27,7 @@ The following 41 pairs of parts of speech are connected with `parataxis`: <tt><a
 3	faith	faith	NOUN	NN	Number=Sing	2	obj	2:obj	Entity=(137-abstract-giv:inact-snsnn-cf1-1-coref)|MSeg=fai-th
 4	in	in	ADP	IN	_	2	obl	2:obl	SpaceAfter=No
 5	;	;	PUNCT	:	_	7	punct	7:punct	_
-6	to	to	PART	TO	_	7	mark	7:mark	Discourse=joint-list_m:117->116:0:_
+6	to	to	PART	TO	_	7	mark	7:mark	Discourse=joint-list_m:117->116:0:grf-semcol-579-_
 7	rely	rely	VERB	VB	VerbForm=Inf	2	parataxis	2:parataxis	_
 8	on	on	ADP	IN	_	7	obl	7:obl	_
 9	for	for	ADP	IN	_	11	case	11:case	_
@@ -46,7 +46,7 @@ The following 41 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 parataxis	color:blue
-1	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=joint-list_m:60->58:0:_|Entity=(86-abstract-acc:com-nnnnn-cf1-3-sgl|XML=<hi rend:::"italic">
+1	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=joint-list_m:60->58:0:sem-lxchn-252,266-gold|Entity=(86-abstract-acc:com-nnnnn-cf1-3-sgl|XML=<hi rend:::"italic">
 2	next	next	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	chapter	chapter	NOUN	NN	Number=Sing	0	root	0:root	Entity=86)|SpaceAfter=No
 4	;	;	PUNCT	:	_	7	punct	7:punct	_
@@ -69,7 +69,7 @@ The following 41 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 parataxis	color:blue
-1	2.	2.	X	LS	_	5	discourse	5:discourse	Discourse=joint-list_m:72->71:0:_
+1	2.	2.	X	LS	_	5	discourse	5:discourse	Discourse=joint-list_m:72->71:0:grf-seq-411,422-_
 2	Resolving	resolve	VERB	VBG	VerbForm=Ger	5	amod	5:amod	MSeg=Resolv-ing
 3	left	left	ADJ	JJ	Degree=Pos	4	amod	4:amod	Entity=(5-object-giv:inact-sssss-cf2-3-coref
 4	gluteal	gluteal	ADJ	JJ	Degree=Pos	5	amod	5:amod	MSeg=glut-eal

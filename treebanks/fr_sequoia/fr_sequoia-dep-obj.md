@@ -12,9 +12,9 @@ There are 2 language-specific subtypes of `obj`: <tt><a href="fr_sequoia-dep-obj
 2199 nodes (3%) are attached to their parents as `obj`.
 
 1956 instances of `obj` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.39927239654388.
+Average distance between parent and child is 2.39790814006367.
 
-The following 14 pairs of parts of speech are connected with `obj`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1801; 82% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (274; 12% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (75; 3% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (28; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `obj`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1787; 81% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (274; 12% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (75; 3% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (28; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (14; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,11 +23,11 @@ The following 14 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 obj	color:blue
-1	M.	monsieur	NOUN	_	Number=Sing	3	nsubj	_	Gender[lex]=Masc
-2	Hosneld	Hosneld	PROPN	_	_	1	flat:name	_	Gender[lex]=Unknown
+1	M.	monsieur	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	Exponence[Gender]=Inherent
+2	Hosneld	Hosneld	PROPN	_	_	1	flat:name	_	_
 3	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-4	44	44	NUM	_	NumType=Card	5	nummod	_	Number[lex]=Plur
-5	ans	an	NOUN	_	Number=Plur	3	obj	_	Gender[lex]=Masc|SpaceAfter=No
+4	44	44	NUM	_	Number=Plur|NumType=Card	5	nummod	_	Exponence[Number]=Inherent
+5	ans	an	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	Exponence[Gender]=Inherent|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -45,7 +45,7 @@ The following 14 pairs of parts of speech are connected with `obj`: <tt><a href=
 4	cela	cela	PRON	_	Number=Sing|Person=3|PronType=Dem	3	obj	_	_
 5	à	à	ADP	_	_	7	case	_	_
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	sérieux	sérieux	ADJ	_	Gender=Masc	3	obl:arg	_	Number[ctxt]=Sing|SpaceAfter=No
+7	sérieux	sérieux	ADJ	_	Gender=Masc|Number=Sing	3	obl:arg	_	Exponence[Number]=Absent|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -60,7 +60,7 @@ The following 14 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	N'	ne	ADV	_	Polarity=Neg	2	advmod	_	SpaceAfter=No
 2	utilisez	utiliser	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	jamais	jamais	ADV	_	Polarity=Neg	2	advmod	_	_
-4	Angiox	Angiox	PROPN	_	_	2	obj	_	Gender[lex]=Unknown
+4	Angiox	Angiox	PROPN	_	_	2	obj	_	_
 5	:	:	PUNCT	_	_	2	punct	_	_
 
 ~~~

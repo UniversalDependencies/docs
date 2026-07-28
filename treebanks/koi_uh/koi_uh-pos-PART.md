@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `PART`
 
 There are 5 `PART` lemmas (1%), 5 `PART` types (1%) and 6 `PART` tokens (1%).
-Out of 15 observed tags, the rank of `PART` is: 13 in number of lemmas, 13 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `PART` is: 14 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>жӧ, а, и, нӧ, я</em>
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>а</em> (<tt><a href="koi_uh-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.250000).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.260870).
 
 The 1st highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
 

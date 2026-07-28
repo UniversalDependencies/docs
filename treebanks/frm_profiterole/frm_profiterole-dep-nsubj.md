@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Middle_French-PROFITEROLE: Relations: `nsubj`
 
 This relation is universal.
+There are 1 language-specific subtypes of `nsubj`: <tt><a href="frm_profiterole-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
-6467 nodes (7%) are attached to their parents as `nsubj`.
+7702 nodes (6%) are attached to their parents as `nsubj`.
 
-5401 instances of `nsubj` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.76279573217875.
+6338 instances of `nsubj` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.64593612048819.
 
-The following 31 pairs of parts of speech are connected with `nsubj`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (3703; 57% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1856; 29% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (240; 4% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (213; 3% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (161; 2% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (116; 2% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (50; 1% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (27; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (23; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 30 pairs of parts of speech are connected with `nsubj`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (4274; 55% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2193; 28% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (344; 4% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (271; 4% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (203; 3% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (153; 2% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (55; 1% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (46; 1% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (44; 1% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (30; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,22 +36,19 @@ The following 31 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 3 nsubj	color:blue
-1	mais	mais1	CCONJ	CONcoo	_	11	cc:nc	_	XmlId=w_32_02442
-2	le	le	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_32_02443
-3	neu	noeud	NOUN	NOMcom	_	11	nsubj	_	XmlId=w_32_02444
-4	de	de	ADP	PRE	_	6	case	_	XmlId=w_32_02445
-5	ceste	cist	DET	DETdem	PronType=Dem	6	det	_	XmlId=w_32_02446
-6	matière	matière	NOUN	NOMcom	_	3	nmod	_	XmlId=w_32_02447
-7	ne	ne1	ADV	ADVneg	PronType=Neg	11	advmod	_	XmlId=w_32_02448
-8	luy	lui	PRON	PROper	PronType=Prs	11	iobj	_	XmlId=w_32_02449
-9	fut	être	AUX	VERcjg	VerbForm=Fin	11	aux:pass	_	XmlId=w_32_02450
-10	jamais	jamais	ADV	ADVgen	_	11	advmod	_	XmlId=w_32_02451
-11	descouvert	découvrir	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_32_02452
+# visual-style 3 8 nsubj	color:blue
+1	Incontinent	incontinent2	ADV	ADVgen	_	3	advmod	_	XmlId=w_32_02469
+2	se	se1	PRON	PROper	PronType=Prs	5	expl	_	XmlId=w_32_02470
+3	commencèrent	commencer	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_02471
+4	à	à	ADP	PRE	_	5	mark	_	XmlId=w_32_02472
+5	mectre	mettre	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_32_02473
+6	sus	sus	ADV	ADVgen	_	5	advmod	_	XmlId=w_32_02474
+7	les	le	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_32_02475
+8	gens	gens	NOUN	NOMcom	_	3	nsubj	_	XmlId=w_32_02476
 
 ~~~
 
@@ -67,8 +65,8 @@ The following 31 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 4	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_08872
 5	dit	dire1	VERB	VERcjg	VerbForm=Fin	13	parataxis	_	XmlId=w_42_08873
 6	Jehan	Jean	PROPN	NOMpro	_	5	nsubj	_	XmlId=w_42_08874
-7	de	de	ADP	PRE	_	6	flat	_	XmlId=w_42_08875
-8	Paris	Paris	PROPN	NOMpro	_	6	flat	_	SpaceAfter=No|XmlId=w_42_08876
+7	de	de	ADP	PRE	_	8	case	_	XmlId=w_42_08875
+8	Paris	Paris	PROPN	NOMpro	_	6	nmod	_	SpaceAfter=No|XmlId=w_42_08876
 9	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_08877
 10	«	«	PUNCT	PONpga	_	13	punct	_	XmlId=w_42_08878
 11	vous	vous	PRON	PROper	PronType=Prs	13	nsubj	_	XmlId=w_42_08879

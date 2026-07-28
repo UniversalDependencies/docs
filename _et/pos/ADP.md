@@ -8,4 +8,4 @@ shortdef: 'adposition'
 
 Adposition is a cover term for prepositions, e.g. <i>üle</i> 'over' and postpositions e.g. <i>alla</i> 'under', <i>peale</i> 'on', both present in Estonian.<br/>
 Several adpositions can also function as adverbs or verbal particles in particle verbs, e.g. <i>alla andma</i> 'surrender, lit. 'give under', they are tagged as adverbs ADV.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:44 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:33 CEST -->

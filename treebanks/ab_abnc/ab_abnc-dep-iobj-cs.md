@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-iobj.html">iobj</a></tt>.
 There are also 4 other language-specific subtypes of `iobj`: <tt><a href="ab_abnc-dep-iobj-lo.html">iobj:lo</a></tt>, <tt><a href="ab_abnc-dep-iobj-po.html">iobj:po</a></tt>, <tt><a href="ab_abnc-dep-iobj-poss.html">iobj:poss</a></tt>, <tt><a href="ab_abnc-dep-iobj-ro.html">iobj:ro</a></tt>.
 
-1 nodes (0%) are attached to their parents as `iobj:cs`.
+4 nodes (0%) are attached to their parents as `iobj:cs`.
 
-1 instances of `iobj:cs` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+4 instances of `iobj:cs` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25.
 
-The following 1 pairs of parts of speech are connected with `iobj:cs`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `iobj:cs`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (4; 100% instances).
 
 
 ~~~ conllu

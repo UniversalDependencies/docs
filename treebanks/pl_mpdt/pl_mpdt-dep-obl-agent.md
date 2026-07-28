@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-MPDT: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="pl_mpdt-dep-obl.html">obl</a></tt>.
-There are also 2 other language-specific subtypes of `obl`: <tt><a href="pl_mpdt-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="pl_mpdt-dep-obl-cmpr.html">obl:cmpr</a></tt>.
+There are also 2 other language-specific subtypes of `obl`: <tt><a href="pl_mpdt-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="pl_mpdt-dep-obl-cmp.html">obl:cmp</a></tt>.
 
 91 nodes (0%) are attached to their parents as `obl:agent`.
 

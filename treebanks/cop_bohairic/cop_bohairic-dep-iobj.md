@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 4	ϣⲉⲛ	ϣⲓⲛⲓ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	ⲟⲩ	ⲛⲑⲱⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	4	iobj	_	_
 6	ϫⲉ	ϫⲉ	SCONJ	CONJ	_	9	mark	_	_
-7	ⲁⲣⲉ	ⲁⲣⲉ	PART	CFOC	_	9	mark	_	_
+7	ⲁⲣⲉ	ⲁⲣⲉ	PART	CFOC	Emph=Yes	9	mark	_	_
 8	ⲧⲉⲛ	ⲛⲑⲱⲧⲉⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	_
 9	ⲕⲱϯ	ⲕⲱϯ	VERB	V	Mood=Ind|VerbForm=Fin	4	ccomp	_	Cxn=Interrogative-WHInfo-Indirect|CxnElt=9:Interrogative-Polar-Direct.Clause
 10	ⲛⲥⲁ	ⲛⲥⲁ	ADP	PREP	_	11	case	_	_

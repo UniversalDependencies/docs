@@ -6,30 +6,30 @@ udver: '2'
 
 ## Treebank Statistics: UD_Spanish-PUD: POS Tags: `ADV`
 
-There are 163 `ADV` lemmas (3%), 165 `ADV` types (3%) and 893 `ADV` tokens (4%).
+There are 162 `ADV` lemmas (3%), 164 `ADV` types (3%) and 879 `ADV` tokens (4%).
 Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>no, más, también, cuando, antes, después, ya, muy, tanto, donde</em>
+The 10 most frequent `ADV` lemmas: <em>no, más, también, cuando, antes, después, ya, muy, donde, solo</em>
 
-The 10 most frequent `ADV` types:  <em>no, más, también, cuando, después, ya, muy, tanto, antes, donde</em>
+The 10 most frequent `ADV` types:  <em>no, más, también, cuando, después, ya, muy, antes, donde, solo</em>
 
-The 10 most frequent ambiguous lemmas: <em>solo</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 4), <em>poco</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 6, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>ahora</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 11, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>bien</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 8, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>mientras</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 8, <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 6, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 5), <em>mucho</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 29, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6), <em>tarde</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>como</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 125, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 5), <em>junto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 2), <em>cuanto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>solo</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 4), <em>tanto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 6), <em>poco</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 6, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 3), <em>ahora</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 11, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>bien</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 8, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>mucho</em> (<tt><a href="es_pud-pos-DET.html">DET</a></tt> 29, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6), <em>tarde</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>como</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 125, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 5), <em>junto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 4, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 2), <em>cuanto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>solo</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 2), <em>poco</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>ahora</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>mientras</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 7, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 4), <em>mucho</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 2, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>tarde</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>como</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 122, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 4), <em>fuera</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 1), <em>cuanto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2), <em>justo</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>solo</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 15, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 2), <em>tanto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 6), <em>poco</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 14, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>ahora</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 10, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>mucho</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="es_pud-pos-DET.html">DET</a></tt> 2, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>tarde</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>como</em> (<tt><a href="es_pud-pos-ADP.html">ADP</a></tt> 122, <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 7, <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 4), <em>fuera</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> 1), <em>cuanto</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 2), <em>justo</em> (<tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 1)
 
 
 * <em>solo</em>
   * <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 15: <em>Anteriormente , <b>solo</b> blogueros habían visto los jets .</em>
   * <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> 2: <em>Se halla <b>solo</b> frente a el público y , en el fondo , tiene que sacar lo mejor de sí mismo para hacer reír a el espectador .</em>
+* <em>tanto</em>
+  * <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 14: <em>Por lo <b>tanto</b> , el resultado no es precisamente genial .</em>
+  * <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> 6: <em>Mientras <b>tanto</b> , Hong Kong parece estar se preparando para una oleada de protestas .</em>
 * <em>poco</em>
   * <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 14: <em>En danés , el término se puede emplear incluso para lagunas <b>poco</b> profundas .</em>
   * <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 2: <em>Todavía da un <b>poco</b> de asco la idea de comprar y de llevar puestas las partes de el cuerpo de otra persona , afirma .</em>
 * <em>ahora</em>
   * <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 10: <em>¿ Está funcionando la segunda serie hasta <b>ahora</b> ?</em>
   * <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Para el año 2009 , el total de ventas de El poder de el <b>ahora</b> y Una nueva tierra se había estimado en tres millones y cinco millones respectivamente .</em>
-* <em>mientras</em>
-  * <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 7: <em>Winstone conoció a su esposa , Elaine , <b>mientras</b> rodaban That Summer en 1979 .</em>
-  * <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Cuatro de cada 10 adultos han resultado heridos por causa de el mal tiempo , <b>mientras</b> que nueve de cada 10 subestiman lo frío que puede ser el Reino Unido en invierno .</em>
 * <em>mucho</em>
   * <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> 6: <em>Hoy en día nuestros teléfonos móviles son <b>mucho</b> más que teléfonos .</em>
   * <tt><a href="es_pud-pos-DET.html">DET</a></tt> 2: <em>Quizás no importe , ya que no estaré preocupado por <b>mucho</b> tiempo .</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>solo</em> (<tt><a href="es_pud-pos-AD
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.012270 (the average of all parts of speech is 1.314341).
+The form / lemma ratio of `ADV` is 1.012346 (the average of all parts of speech is 1.320249).
 
 The 1st highest number of forms (2) was observed with the lemma “antes”: <em>a., antes</em>.
 
@@ -61,32 +61,32 @@ The 2nd highest number of forms (2) was observed with the lemma “después”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “abiertamente”: <em>abiertamente</em>.
 
-`ADV` occurs with 6 features: <tt><a href="es_pud-feat-Polarity.html">Polarity</a></tt> (126; 14% instances), <tt><a href="es_pud-feat-Degree.html">Degree</a></tt> (114; 13% instances), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt> (50; 6% instances), <tt><a href="es_pud-feat-ExtPos.html">ExtPos</a></tt> (35; 4% instances), <tt><a href="es_pud-feat-Abbr.html">Abbr</a></tt> (16; 2% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (3; 0% instances)
+`ADV` occurs with 6 features: <tt><a href="es_pud-feat-Polarity.html">Polarity</a></tt> (128; 15% instances), <tt><a href="es_pud-feat-Degree.html">Degree</a></tt> (114; 13% instances), <tt><a href="es_pud-feat-PronType.html">PronType</a></tt> (66; 8% instances), <tt><a href="es_pud-feat-ExtPos.html">ExtPos</a></tt> (35; 4% instances), <tt><a href="es_pud-feat-Abbr.html">Abbr</a></tt> (16; 2% instances), <tt><a href="es_pud-feat-Foreign.html">Foreign</a></tt> (3; 0% instances)
 
-`ADV` occurs with 9 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=SCONJ`, `Foreign=Yes`, `Polarity=Neg`, `PronType=Rel`
+`ADV` occurs with 10 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=SCONJ`, `Foreign=Yes`, `Polarity=Neg`, `PronType=Dem`, `PronType=Rel`
 
-`ADV` occurs with 11 feature combinations.
-The most frequent feature combination is `_` (550 tokens).
-Examples: <em>también, después, muy, tanto, antes, ya, solo, poco, luego, además</em>
+`ADV` occurs with 12 feature combinations.
+The most frequent feature combination is `_` (518 tokens).
+Examples: <em>también, después, muy, antes, ya, solo, poco, luego, además, ahora</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 12 different relations: <tt><a href="es_pud-dep-advmod.html">advmod</a></tt> (784; 88% instances), <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (25; 3% instances), <tt><a href="es_pud-dep-xcomp.html">xcomp</a></tt> (24; 3% instances), <tt><a href="es_pud-dep-discourse.html">discourse</a></tt> (15; 2% instances), <tt><a href="es_pud-dep-case.html">case</a></tt> (10; 1% instances), <tt><a href="es_pud-dep-mark.html">mark</a></tt> (10; 1% instances), <tt><a href="es_pud-dep-cc-preconj.html">cc:preconj</a></tt> (9; 1% instances), <tt><a href="es_pud-dep-conj.html">conj</a></tt> (6; 1% instances), <tt><a href="es_pud-dep-cc.html">cc</a></tt> (5; 1% instances), <tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="es_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-obj.html">obj</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 12 different relations: <tt><a href="es_pud-dep-advmod.html">advmod</a></tt> (778; 89% instances), <tt><a href="es_pud-dep-xcomp.html">xcomp</a></tt> (24; 3% instances), <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (19; 2% instances), <tt><a href="es_pud-dep-discourse.html">discourse</a></tt> (15; 2% instances), <tt><a href="es_pud-dep-case.html">case</a></tt> (10; 1% instances), <tt><a href="es_pud-dep-cc-preconj.html">cc:preconj</a></tt> (9; 1% instances), <tt><a href="es_pud-dep-mark.html">mark</a></tt> (9; 1% instances), <tt><a href="es_pud-dep-cc.html">cc</a></tt> (5; 1% instances), <tt><a href="es_pud-dep-conj.html">conj</a></tt> (5; 1% instances), <tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="es_pud-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (536; 60% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (129; 14% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (121; 14% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (45; 5% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (19; 2% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (19; 2% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (527; 60% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (131; 15% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (121; 14% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (44; 5% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (19; 2% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (13; 1% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (3; 0% instances), <tt><a href="es_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-662 (74%) `ADV` nodes are leaves.
+647 (74%) `ADV` nodes are leaves.
 
-166 (19%) `ADV` nodes have one child.
+168 (19%) `ADV` nodes have one child.
 
 45 (5%) `ADV` nodes have two children.
 
-20 (2%) `ADV` nodes have three or more children.
+19 (2%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 4.
 
-Children of `ADV` nodes are attached using 13 different relations: <tt><a href="es_pud-dep-obl.html">obl</a></tt> (94; 29% instances), <tt><a href="es_pud-dep-punct.html">punct</a></tt> (61; 19% instances), <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (44; 14% instances), <tt><a href="es_pud-dep-advmod.html">advmod</a></tt> (38; 12% instances), <tt><a href="es_pud-dep-xcomp.html">xcomp</a></tt> (31; 10% instances), <tt><a href="es_pud-dep-case.html">case</a></tt> (30; 9% instances), <tt><a href="es_pud-dep-obl-tmod.html">obl:tmod</a></tt> (8; 3% instances), <tt><a href="es_pud-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="es_pud-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="es_pud-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="es_pud-dep-det.html">det</a></tt> (2; 1% instances), <tt><a href="es_pud-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances)
+Children of `ADV` nodes are attached using 13 different relations: <tt><a href="es_pud-dep-obl.html">obl</a></tt> (94; 29% instances), <tt><a href="es_pud-dep-punct.html">punct</a></tt> (60; 19% instances), <tt><a href="es_pud-dep-fixed.html">fixed</a></tt> (45; 14% instances), <tt><a href="es_pud-dep-advmod.html">advmod</a></tt> (37; 12% instances), <tt><a href="es_pud-dep-xcomp.html">xcomp</a></tt> (31; 10% instances), <tt><a href="es_pud-dep-case.html">case</a></tt> (30; 9% instances), <tt><a href="es_pud-dep-obl-tmod.html">obl:tmod</a></tt> (8; 3% instances), <tt><a href="es_pud-dep-cc.html">cc</a></tt> (5; 2% instances), <tt><a href="es_pud-dep-conj.html">conj</a></tt> (3; 1% instances), <tt><a href="es_pud-dep-advcl.html">advcl</a></tt> (2; 1% instances), <tt><a href="es_pud-dep-det.html">det</a></tt> (2; 1% instances), <tt><a href="es_pud-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="es_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 12 different parts of speech: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (76; 24% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (63; 20% instances), <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> (61; 19% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (45; 14% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (31; 10% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (24; 8% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (8; 3% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (4; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Children of `ADV` nodes belong to 12 different parts of speech: <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (76; 24% instances), <tt><a href="es_pud-pos-ADP.html">ADP</a></tt> (64; 20% instances), <tt><a href="es_pud-pos-PUNCT.html">PUNCT</a></tt> (60; 19% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt> (44; 14% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (31; 10% instances), <tt><a href="es_pud-pos-PROPN.html">PROPN</a></tt> (24; 8% instances), <tt><a href="es_pud-pos-CCONJ.html">CCONJ</a></tt> (8; 3% instances), <tt><a href="es_pud-pos-SYM.html">SYM</a></tt> (4; 1% instances), <tt><a href="es_pud-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

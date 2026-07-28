@@ -14,4 +14,4 @@ winneːt / naʃʃalam -a kam // aː# eː= kina mitti -a =b // iː- biri -n //
 text_en: They had very athletic camels, even pure breeds
 acl(kaːm, mitti) ("camel", "pure breed")
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:56 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:24 CEST -->

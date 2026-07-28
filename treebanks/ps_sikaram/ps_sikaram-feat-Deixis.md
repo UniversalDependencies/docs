@@ -9,39 +9,41 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Prox`, `Remt`.
 
-129 tokens (3%) have a non-empty value of `Deixis`.
-19 types (2%) occur at least once with a non-empty value of `Deixis`.
-13 lemmas (2%) occur at least once with a non-empty value of `Deixis`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (80; 2% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (40; 1% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt> (9; 0% instances).
+174 tokens (3%) have a non-empty value of `Deixis`.
+25 types (2%) occur at least once with a non-empty value of `Deixis`.
+16 lemmas (2%) occur at least once with a non-empty value of `Deixis`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (106; 2% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (55; 1% instances), <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt> (13; 0% instances).
 
 ### `DET`
 
-80 <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> tokens (51% of all `DET` tokens) have a non-empty value of `Deixis`.
+106 <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> tokens (54% of all `DET` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (80; 100%), <tt><a href="ps_sikaram-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (80; 100%), <tt><a href="ps_sikaram-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (80; 100%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (63; 79%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (61; 76%), <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt> (43; 54%).
+The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (106; 100%), <tt><a href="ps_sikaram-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (106; 100%), <tt><a href="ps_sikaram-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (106; 100%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (82; 77%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (78; 74%), <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt> (54; 51%).
 
 `DET` tokens may have the following values of `Deixis`:
 
-* `Prox` (56; 70% of non-empty `Deixis`): <em>دغه, دې, داسې, همدغه, دغسې, دا, دغو, همدغو, همدې</em>
-* `Remt` (24; 30% of non-empty `Deixis`): <em>هغه, هماغه, هماغسې</em>
+* `Prox` (76; 72% of non-empty `Deixis`): <em>دغه, دې, داسې, همدغه, دا, دغسې, همدې, دغو, دغې, همدغسې</em>
+* `Remt` (30; 28% of non-empty `Deixis`): <em>هغه, هماغه, هغو, هماغسې</em>
+
+`Deixis` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `Deixis`.
 
 ### `PRON`
 
-40 <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> tokens (20% of all `PRON` tokens) have a non-empty value of `Deixis`.
+55 <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> tokens (25% of all `PRON` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (40; 100%), <tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (39; 98%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (24; 60%), <tt><a href="ps_sikaram-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (24; 60%).
+The most frequent other feature values with which `PRON` and `Deixis` co-occurred: <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (55; 100%), <tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (54; 98%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (33; 60%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt> (28; 51%), <tt><a href="ps_sikaram-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (28; 51%).
 
 `PRON` tokens may have the following values of `Deixis`:
 
-* `Prox` (27; 68% of non-empty `Deixis`): <em>دا, دې, دوی, همدا, داسې, همدغه</em>
-* `Remt` (13; 33% of non-empty `Deixis`): <em>هغوی, هغۀ, هغې, هغه</em>
+* `Prox` (38; 69% of non-empty `Deixis`): <em>دا, دې, ده, دوی, همدا, داسې, دی, همدغه</em>
+* `Remt` (17; 31% of non-empty `Deixis`): <em>هغه, هغوی, هغې, هغۀ</em>
 
 ### `ADV`
 
-9 <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Deixis`.
+13 <tt><a href="ps_sikaram-pos-ADV.html">ADV</a></tt> tokens (6% of all `ADV` tokens) have a non-empty value of `Deixis`.
 
 `ADV` tokens may have the following values of `Deixis`:
 
-* `Prox` (6; 67% of non-empty `Deixis`): <em>داسې, همدا</em>
-* `Remt` (3; 33% of non-empty `Deixis`): <em>هلته, هسې</em>
+* `Prox` (10; 77% of non-empty `Deixis`): <em>همدا, داسې, دلته</em>
+* `Remt` (3; 23% of non-empty `Deixis`): <em>هلته, هسې</em>
 

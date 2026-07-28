@@ -37,13 +37,13 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (4; 100% of non-empty `NumType`): <em>мӧдэд, Коймедсэ, сизимед</em>
-* `EMPTY` (94): <em>ас, бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем</em>
+* `EMPTY` (95): <em>ас, бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем</em>
 
 ### `PRON`
 
 2 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `NumType`:
 
@@ -63,14 +63,14 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 ### `DET`
 
-1 <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `NumType`.
+1 <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (1; 100%).
 
 `DET` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>мӧд</em>
-* `EMPTY` (9): <em>уна, Став, всю, какой, кымын, ставыс, такое, унджык</em>
+* `EMPTY` (8): <em>уна, Став, всю, какой, кымын, ставыс, унджык</em>
 
 ## Relations with Agreement in `NumType`
 

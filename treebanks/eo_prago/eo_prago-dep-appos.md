@@ -81,7 +81,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 28	konscienco	konscienco	NOUN	_	Case=Nom|Number=Sing	25	nmod	_	_
 29	kaj	kaj	CCONJ	_	_	32	cc	_	_
 30	por	por	ADP	_	_	32	case	_	_
-31	la	la	DET	_	Definite=Def	32	det	_	_
+31	la	la	DET	_	Definite=Def|PronType=Art	32	det	_	_
 32	bezonoj	bezonoj	NOUN	_	Case=Nom|Number=Plur	28	conj	_	_
 33	de	de	ADP	_	_	35	case	_	_
 34	mia	mia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	35	nmod:poss	_	_
@@ -176,7 +176,7 @@ The following 5 pairs of parts of speech are connected with `appos`: <tt><a href
 123	al	al	ADP	_	_	125	case	_	_
 124	ĝia	ĝia	PRON	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	125	amod	_	_
 125	nomo	nomo	NOUN	_	Case=Nom|Number=Sing	122	nmod	_	_
-126	la	la	DET	_	Definite=Def	127	det	_	_
+126	la	la	DET	_	Definite=Def|PronType=Art	127	det	_	_
 127	vorton	vorto	NOUN	_	Case=Acc|Number=Sing	122	obj	_	_
 128	«	«	PUNCT	_	_	129	punct	_	SpaceAfter=No
 129	liberkreda	liberkreda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	127	appos	_	SpaceAfter=No

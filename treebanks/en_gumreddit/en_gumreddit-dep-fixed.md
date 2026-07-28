@@ -22,26 +22,26 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 18	bgColor:blue
 # visual-style 18	fgColor:white
 # visual-style 18 19 fixed	color:blue
-1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=joint-other_m:145->133:5:_|Entity=(139-abstract-new-n____-cf2-3-coref|Lem=*LOWER*|Len=3
+1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=joint-other_m:145->133:5:_|Entity=(139-abstract-new-nnnnn-cf2-3-coref|Lem=*LOWER*|Len=3
 2	_	_	NUM	CD	NumForm=Word|NumType=Card	3	nummod	3:nummod	Lem=*LOWER*|Len=3|XML=<hi rend:::"bold"></hi>
 3	_	_	NOUN	NN	Number=Sing	15	nsubj:outer	15:nsubj:outer|30:nsubj:xsubj	Lem=_|Len=10|MSeg=differ-ence
 4	_	_	ADP	IN	_	6	case	6:case	Lem=_|Len=7|MSeg=be-tween
-5	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	Entity=(140-object-new-n____-cf5-2-sgl|Lem=_|Len=5
+5	_	_	NOUN	NN	Number=Sing	6	compound	6:compound	Entity=(140-object-new-nnnnn-cf5-2-sgl|Lem=_|Len=5
 6	_	_	NOUN	NN	Number=Sing	3	nmod	3:nmod:between	Entity=140)|Lem=_|Len=8|MSeg=currenc-y
 7	_	_	CCONJ	CC	_	8	cc	8:cc	Lem=_|Len=3
 8	_	_	NOUN	NN	Number=Sing	6	conj	3:nmod:between|6:conj:and	Entity=(99-substance-giv:act-snnnn-cf1*-1-coref)139)|Lem=_|Len=4
 9	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	15:cop	Lem=be|Len=2
-10	_	_	SCONJ	IN	_	15	mark	15:mark	Entity=(139-abstract-giv:act-n____-cf2-6,19-coref|Lem=_|Len=4
-11	_	_	SYM	$	_	15	nsubj	15:nsubj|30:nsubj:xsubj	Entity=(141-object-new-n____-cf3-1-sgl|Lem=_|Len=1
+10	_	_	SCONJ	IN	_	15	mark	15:mark	Entity=(139-abstract-giv:act-nnnnn-cf2-6,19-coref|Lem=_|Len=4
+11	_	_	SYM	$	_	15	nsubj	15:nsubj|30:nsubj:xsubj	Entity=(141-object-new-nnnnn-cf3-1-sgl|Lem=_|Len=1
 12	_	_	NUM	CD	NumForm=Digit|NumType=Card	11	nummod	11:nummod	Lem=100000|Len=7
 13	_	_	ADP	IN	_	14	case	14:case	Lem=_|Len=2
-14	_	_	NOUN	NN	Number=Sing	11	nmod	11:nmod:in	Entity=(142-object-new-n____-cf6-1-sgl)141)|Lem=_|Len=4
+14	_	_	NOUN	NN	Number=Sing	11	nmod	11:nmod:in	Entity=(142-object-new-nnnnn-cf6-1-sgl)141)|Lem=_|Len=4
 15	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=weigh|Len=6|MSeg=weigh-s
 16	_	_	DET	DT	Definite=Ind|PronType=Art	17	det	17:det	Lem=_|Len=1
 17	_	_	NOUN	NN	Number=Sing	18	obl:unmarked	18:obl:unmarked	Lem=_|Len=3
 18	_	_	ADV	RBR	Degree=Cmp|ExtPos=ADV	21	advmod	21:advmod	Lem=_|Len=4
 19	_	_	ADP	IN	_	18	fixed	18:fixed	Lem=_|Len=4
-20	_	_	SYM	$	_	15	obj	15:obj	Entity=(143-substance-new-n____-cf4-1-sgl|Lem=_|Len=1
+20	_	_	SYM	$	_	15	obj	15:obj	Entity=(143-substance-new-nnnnn-cf4-1-sgl|Lem=_|Len=1
 21	_	_	NUM	CD	NumForm=Digit|NumType=Card	20	nummod	20:nummod	Lem=100000|Len=7
 22	_	_	ADP	IN	_	23	case	23:case	Lem=_|Len=2
 23	_	_	NOUN	NN	Number=Sing	20	nmod	20:nmod:in	Entity=(99-substance-giv:act-snnnn-cf1*-1-coref)143)|Lem=_|Len=4
@@ -64,19 +64,19 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 fixed	color:blue
-1	_	_	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	0	root	0:root	Discourse=attribution-positive:122->123:0:lex-indwd-911-_+sem-atsrc-911-_+syn-rpr-912-913,915-919,925-_|Lem=*LOWER*|Len=6
+1	_	_	VERB	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	0:root	Discourse=attribution-positive:122->123:0:sem-atsrc-911-_+lex-indwd-911-_+syn-rpr-912-913,915-919,925-_|Lem=*LOWER*|Len=6
 2	_	_	SCONJ	IN	_	10	mark	10:mark	Discourse=explanation-justify:123->121:1:_;joint-list:123->121:1:1:orp-also-915-gold|Lem=_|Len=4
-3	_	_	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	Entity=(97-abstract-new-nnnnn-cf1-1,2-sgl-Iron_Chef_America|Lem=_|Len=4
+3	_	_	PROPN	NNP	Number=Sing	10	nsubj	10:nsubj	Entity=(97-abstract-new-nnnnn-cf2-1,2-coref-Iron_Chef_America|Lem=_|Len=4
 4	_	_	PROPN	NNP	Number=Sing	3	flat	3:flat	Entity=97)|Lem=_|Len=4
 5	_	_	ADV	RB	_	10	advmod	10:advmod	Lem=_|Len=4|PDTB=Explicit:Expansion.Conjunction:also:915:888-910:911-914,916-926
 6	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	10:cop	Lem=be|Len=3
 7	_	_	PART	RB	Polarity=Neg	10	advmod	10:advmod	Lem=not|Len=3|Negation=Yes
-8	_	_	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Entity=(98-abstract-new-nnnnn-cf2-3-sgl|Lem=_|Len=1
+8	_	_	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	Entity=(98-abstract-new-nnnnn-cf3-3-sgl|Lem=_|Len=1
 9	_	_	ADJ	JJ	Degree=Pos	10	amod	10:amod	Lem=_|Len=5
 10	_	_	NOUN	NN	Number=Sing	1	ccomp	1:ccomp	Entity=98)|Lem=_|Len=8
 11	_	_	ADP	IN	ExtPos=ADP	15	case	15:case	Lem=_|Len=2
 12	_	_	ADP	IN	_	11	fixed	11:fixed	Lem=_|Len=2
-13	_	_	DET	DT	Definite=Def|PronType=Art	15	det	15:det	Entity=(99-substance-new-nnnnn-cf3-3-sgl|Lem=_|Len=3
+13	_	_	DET	DT	Definite=Def|PronType=Art	15	det	15:det	Bridge=97<99:entity-associative|Entity=(99-substance-acc:inf-nnnnn-cf1-3-sgl|Lem=_|Len=3
 14	_	_	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	15	amod	15:amod	Lem=feature|Len=8|MSeg=featur-ed
 15	_	_	NOUN	NN	Number=Sing	10	nmod	10:nmod:as_to	Entity=99)|Lem=_|Len=10|SpaceAfter=No
 16	_	_	PUNCT	.	_	1	punct	1:punct	Lem=_|Len=1

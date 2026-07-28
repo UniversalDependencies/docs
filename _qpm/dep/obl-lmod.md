@@ -12,4 +12,4 @@ plývom faf denízane
 "I swim in the sea"
 obl:lmod (plývom, denízane)  
 ~~~ 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:27 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:34 CEST -->

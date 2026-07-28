@@ -27,7 +27,7 @@ The following 9 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	saanut	saada	VERB	_	Case=Nom|Number=Sing|PartForm=Past|VerbForm=Part|Voice=Act	2	conj	_	_
 5	punasoluja	puna#solu	NOUN	_	Case=Par|Number=Plur	8	nmod	_	_
-6	paineella	paine	NOUN	_	Case=Ade|Number=Sing	8	obl	_	_
+6	paineella	paine	NOUN	_	Case=Ade|Number=Sing	4	obl	_	_
 7	8	8	NUM	_	NumType=Card	8	nummod	_	_
 8	pussia	pussi	NOUN	_	Case=Par|Number=Sing	4	obj	_	_
 9	sekä	sekä	CCONJ	_	_	10	cc	_	_

@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>A</em> (<tt><a href="es_coser-pos-ADP
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.466179).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.476980).
 
 The 1st highest number of forms (1) was observed with the lemma “a”: <em>A</em>.
 
@@ -61,15 +61,15 @@ Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="es_cose
 
 3 (11%) `X` nodes are leaves.
 
-11 (41%) `X` nodes have one child.
+10 (37%) `X` nodes have one child.
 
 9 (33%) `X` nodes have two children.
 
-4 (15%) `X` nodes have three or more children.
+5 (19%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 4.
 
-Children of `X` nodes are attached using 9 different relations: <tt><a href="es_coser-dep-punct.html">punct</a></tt> (20; 48% instances), <tt><a href="es_coser-dep-case.html">case</a></tt> (8; 19% instances), <tt><a href="es_coser-dep-det.html">det</a></tt> (7; 17% instances), <tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt> (2; 5% instances), <tt><a href="es_coser-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="es_coser-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="es_coser-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="es_coser-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="es_coser-dep-obj.html">obj</a></tt> (1; 2% instances)
+Children of `X` nodes are attached using 9 different relations: <tt><a href="es_coser-dep-punct.html">punct</a></tt> (22; 50% instances), <tt><a href="es_coser-dep-case.html">case</a></tt> (8; 18% instances), <tt><a href="es_coser-dep-det.html">det</a></tt> (7; 16% instances), <tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt> (2; 5% instances), <tt><a href="es_coser-dep-advmod.html">advmod</a></tt> (1; 2% instances), <tt><a href="es_coser-dep-aux.html">aux</a></tt> (1; 2% instances), <tt><a href="es_coser-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="es_coser-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="es_coser-dep-obj.html">obj</a></tt> (1; 2% instances)
 
-Children of `X` nodes belong to 8 different parts of speech: <tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (20; 48% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (8; 19% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (5; 12% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (5; 12% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="es_coser-pos-X.html">X</a></tt> (1; 2% instances)
+Children of `X` nodes belong to 8 different parts of speech: <tt><a href="es_coser-pos-PUNCT.html">PUNCT</a></tt> (22; 50% instances), <tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (8; 18% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (5; 11% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (5; 11% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="es_coser-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="es_coser-pos-X.html">X</a></tt> (1; 2% instances)
 

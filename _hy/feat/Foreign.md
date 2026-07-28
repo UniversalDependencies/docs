@@ -12,18 +12,16 @@ udver: '2'
 </tr>
 </table>
 
-Boolean feature. Is this a foreign word? Not a loan word
-but a genuinely foreign word appearing inside native
-text, e.g. inside direct speech, titles of books etc.
+Boolean feature. Is this a foreign word? Not a loanword but a genuinely foreign word appearing inside native text, e.g. in direct speech, book titles, etc.
 
 This feature would apply either to the [X]() part of speech (unanalyzable token), or to other parts of speech if we know and are willing to annotate the class to which the word belongs in its original language.
 
-Note, that the articles, prepositions in foreign names (_դը, դե, դ՚, ֆոն, դել, վան_) are tagged [X]().
+Note that the articles and prepositions in foreign names (_դը_/_dë_, _դե_/_de_, _դ՚_/_d'_, _ֆոն_/_fon_, _դել_/_del_, _վան_/_van_) are tagged [X]().
 
 ### <a name="Yes">`Yes`</a>: it is foreign
 
 #### Examples
 
-* _... <b>«ՌԻԱ Նովոստի»</b> գործակալությունը&nbsp;_ (the news agency <b>RIA Novosti</b>)
-* _... <b>CNN</b> գործակալությունը&nbsp;_ (the news agency <b>CNN</b>)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:16 CET -->
+* _<b>«ՌԻԱ Նովոստի»</b> գործակալությունը_/_<b>«ṘIA Novosti»</b> gorçakalowtʼyownë_ “the news agency <b>RIA Novosti</b>”,
+* _<b>CNN</b> գործակալությունը_/_<b>CNN</b> gorçakalowtʼyownë_ “the news agency <b>CNN</b>”.
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:53 CEST -->

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-12776 tokens (12%) have a non-empty value of `Tense`.
-2419 types (16%) occur at least once with a non-empty value of `Tense`.
-1800 lemmas (17%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (7460; 7% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (4339; 4% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (934; 1% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (43; 0% instances).
+12777 tokens (12%) have a non-empty value of `Tense`.
+2420 types (16%) occur at least once with a non-empty value of `Tense`.
+1801 lemmas (17%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 4 part-of-speech tags: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (7460; 7% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (4339; 4% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (935; 1% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (43; 0% instances).
 
 ### `VERB`
 
@@ -53,17 +53,17 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `ADJ`
 
-934 <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `Tense`.
+935 <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (934; 100%), <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (930; 100%), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (917; 98%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (655; 70%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (508; 54%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="sv_lines-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (935; 100%), <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (930; 99%), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (918; 98%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (656; 70%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (509; 54%).
 
 `ADJ` tokens may have the following values of `Tense`:
 
 * `Past` (542; 58% of non-empty `Tense`): <em>taget, flyttade, intresserad, dolda, beredd, grupperade, komplicerat, oväntade, anpassad, civiliserade</em>
-* `Pres` (392; 42% of non-empty `Tense`): <em>följande, leende, lysande, motsvarande, strålande, beroende, flåsande, grundläggande, levande, liknande</em>
-* `EMPTY` (6221): <em>andra, själv, hela, samma, första, annat, många, enda, stor, flera</em>
+* `Pres` (393; 42% of non-empty `Tense`): <em>följande, leende, lysande, motsvarande, strålande, beroende, flåsande, grundläggande, levande, liknande</em>
+* `EMPTY` (6223): <em>andra, själv, hela, samma, första, annat, många, enda, stor, flera</em>
 
-`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (620) occur only with one value of `Tense`.
+`Tense` seems to be **lexical feature** of `ADJ`. 100% lemmas (621) occur only with one value of `Tense`.
 
 ### `ADV`
 
@@ -75,7 +75,7 @@ The most frequent other feature values with which `ADV` and `Tense` co-occurred:
 
 * `Past` (2; 5% of non-empty `Tense`): <em>detaljerat, ohämmat</em>
 * `Pres` (41; 95% of non-empty `Tense`): <em>förfärande, uteslutande, ingående, skrattande, svävande, ursäktande, dragande, frågande, frånvarande, förbluffande</em>
-* `EMPTY` (7713): <em>så, där, ut, upp, in, bara, hur, här, också, nu</em>
+* `EMPTY` (7710): <em>så, där, ut, upp, in, bara, hur, här, också, nu</em>
 
 `Tense` seems to be **lexical feature** of `ADV`. 100% lemmas (35) occur only with one value of `Tense`.
 

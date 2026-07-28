@@ -63,7 +63,7 @@ The following 6 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	Welche	welcher	DET	PWAT	Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel	2	det	_	_
 2	Ausrichtung	Ausrichtung	NOUN	NN	Gender=Fem|Number=Sing	8	obj	_	_
 3	das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	4	det	_	_
-4	Magazin	Magazin	NOUN	NN	Gender=Neut|Number=Sing	8	nsubj	_	_
+4	Magazin	Magazin	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
 5	nach	nach	ADP	APPR	AdpType=Prep|Case=Dat	7	case	_	_
 6	diesem	dieser	DET	PDAT	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
 7	Relaunch	unknown	NOUN	NN	_	8	nmod	_	_

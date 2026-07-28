@@ -39,7 +39,7 @@ The following 3 pairs of parts of speech are connected with `xcomp:pred`: <tt><a
 # visual-style 6	fgColor:white
 # visual-style 6 8 xcomp:pred	color:blue
 1	Ta	ten	DET	adj:sg:nom:f:pos	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	det	3:det	_
-2	wyidealizowana	wyidealizować	ADJ	ppas:sg:nom:f:perf:aff	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	3	acl	3:acl	_
+2	wyidealizowana	wyidealizować	ADJ	ppas:sg:nom:f:perf:aff	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	3	amod	3:amod	_
 3	wizja	wizja	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	6:nsubj	_
 4	monarchii	monarchia	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	3	nmod:arg	3:nmod:arg	_
 5	Romanowów	Romanow	PROPN	subst:pl:gen:m1	Animacy=Hum|Case=Gen|Gender=Masc|Number=Plur	4	nmod	4:nmod	_
@@ -73,7 +73,7 @@ The following 3 pairs of parts of speech are connected with `xcomp:pred`: <tt><a
 9	mu	on	PRON	ppron3:sg:dat:m1:ter:nakc:npraep	Animacy=Hum|Case=Dat|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Short	8	iobj	8:iobj	_
 10	kandydowania	kandydować	NOUN	ger:sg:gen:n:imperf:aff	Aspect=Imp|Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	8	obj	8:obj	_
 11	na	na	ADP	prep:acc	AdpType=Prep	12	case	12:case	Case=Acc
-12	konsula	konsul	NOUN	subst:sg:acc:m1	Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing	10	obl:arg	10:obl:arg	_
+12	konsula	konsul	NOUN	subst:sg:acc:m1	Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing	10	nmod:arg	10:nmod:arg	_
 13	i	i	CCONJ	conj	_	14	cc	14:cc	_
 14	dając	dawać	VERB	pcon:imperf	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	8	conj	6:advcl|8:conj	_
 15	mu	on	PRON	ppron3:sg:dat:m1:ter:nakc:npraep	Animacy=Hum|Case=Dat|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Short	14	iobj	14:iobj	_

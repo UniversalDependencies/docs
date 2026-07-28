@@ -22,24 +22,24 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 dislocated	color:blue
-1	‹	qo'yi	PUNCT	N	_	3	punct	_	_
-2	‹	qo'yi	PUNCT	N	_	3	punct	_	_
-3	normandi	norman	NOUN	N	_	7	nmod	_	_
-4	›	norman	PUNCT	N	_	3	punct	_	_
-5	›	norman	PUNCT	Y	_	3	punct	_	_
-6	ga	norman	X	X	_	3	dislocated	_	_
+1	‹	‹	PUNCT	N	_	3	punct	_	_
+2	‹	‹	PUNCT	N	_	3	punct	_	_
+3	normandi	normandi	NOUN	N	_	7	nmod	_	_
+4	›	›	PUNCT	N	_	3	punct	_	_
+5	›	›	PUNCT	Y	_	3	punct	_	_
+6	ga	ga	X	X	_	3	dislocated	_	_
 7	oʻxshash	oʻxsha	ADJ	A	_	11	amod	_	_
-8	bu	oʻxsha	PRON	P	Case=Nom|PronType=Dem	9	det	_	_
+8	bu	bu	PRON	P	Case=Nom|PronType=Dem	9	det	_	_
 9	xildaki	xil	NOUN	N	Case=Nom	11	nmod	_	_
-10	angliya	angliy	NOUN	N	_	11	compound	_	_
-11	paraxotlirining	paraxotli	NOUN	N	_	13	nmod:poss	_	_
+10	angliya	angliya	NOUN	N	_	11	compound	_	_
+11	paraxotlarining	paraxot	NOUN	N	_	13	nmod:poss	_	_
 12	tunda	tun	NOUN	N	Case=Loc	13	nmod	_	_
-13	yurushidan	yurmoq	VERB	N	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	14	obl	_	_
-14	xavotirlanishning	xavotirlani	VERB	V	_	16	nmod:poss	_	_
-15	hojati	hoj	NOUN	N	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	16	compound	_	_
+13	yurushidan	yu	VERB	N	Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3	14	obl	_	_
+14	xavotirlanishning	xavotirlan	VERB	V	_	16	nmod:poss	_	_
+15	hojati	hojat	NOUN	N	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	16	compound	_	_
 16	yoʻq	yoʻq	ADJ	A	_	0	root	_	_
-17	edi	yoʻq	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	_
-18	.	yoʻq	PUNCT	Y	_	16	punct	_	_
+17	edi	edi	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	_
+18	.	.	PUNCT	Y	_	16	punct	_	_
 
 ~~~
 

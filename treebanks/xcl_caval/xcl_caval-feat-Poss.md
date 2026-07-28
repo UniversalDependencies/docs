@@ -23,5 +23,5 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (609; 100% of non-empty `Poss`): <em>իւրում, իւրոց, մեր, իւրոյ, իմոյ, իւր, մերոյ, իմմէ, մերոց, քում</em>
-* `EMPTY` (6489): <em>ն, ս, ամենայն, դ, մի, բազում, որ, այս, ինչ, այն</em>
+* `EMPTY` (6494): <em>ն, ս, ամենայն, դ, մի, բազում, որ, այս, ինչ, այն</em>
 

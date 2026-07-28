@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-510 nodes (6%) are attached to their parents as `root`.
+643 nodes (6%) are attached to their parents as `root`.
 
-510 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.93921568627451.
+643 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.07776049766719.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (366; 72% instances), -<tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (66; 13% instances), -<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (58; 11% instances), -<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> (8; 2% instances), -<tt><a href="sv_swell-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), -<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (3; 1% instances), -<tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), -<tt><a href="sv_swell-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (1; 0% instances), -<tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (462; 72% instances), -<tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (89; 14% instances), -<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (69; 11% instances), -<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> (8; 1% instances), -<tt><a href="sv_swell-pos-INTJ.html">INTJ</a></tt> (4; 1% instances), -<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (4; 1% instances), -<tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), -<tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="sv_swell-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 5 root	color:blue
 1	10	10	NUM	_	Case=Nom|NumType=Card	2	nummod	_	_
 2	månader	månad	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	5	obl	_	_
-3	däref$nt	däref$nt	ADV	_	Typo=Yes	2	advmod	_	CorrectionLabels=O
+3	däref$nt	därefter	ADV	_	Typo=Yes	2	advmod	_	CorrectionLabels=O|SurfaceLemma=däref$nt
 4	vi	vi	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	5	nsubj	_	_
 5	bestämde	bestämma	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	CorrectionLabels=S-FinV
 6	oss	vi	PRON	_	Case=Acc|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	5	obj	_	_

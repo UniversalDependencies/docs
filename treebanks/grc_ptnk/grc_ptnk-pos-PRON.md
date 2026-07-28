@@ -42,7 +42,7 @@ The 3rd highest number of forms (17) was observed with the lemma “ὅς”: <e
 
 `PRON` occurs with 24 feature-value pairs: `Case=Acc`, `Case=Acc,Nom`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Masc,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rcp`, `PronType=Rel`, `Reflex=Yes`
 
-`PRON` occurs with 123 feature combinations.
+`PRON` occurs with 125 feature combinations.
 The most frequent feature combination is `Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs` (650 tokens).
 Examples: <em>αὐτοῦ</em>
 

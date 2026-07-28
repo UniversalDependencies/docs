@@ -23,5 +23,5 @@ The most frequent other feature values with which `ADV` and `Definite` co-occurr
 `ADV` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>мылякӧ</em>
-* `EMPTY` (93): <em>кыдз, ни, сэсся, кытӧн, кӧр, сё, талун, чожа, эшӧ, дасöтiсь</em>
+* `EMPTY` (101): <em>кыдз, ни, сэсся, кытӧн, кӧр, сё, талун, чожа, эшӧ, дасöтiсь</em>
 

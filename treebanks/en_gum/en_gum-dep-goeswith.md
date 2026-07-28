@@ -47,7 +47,7 @@ The following 6 pairs of parts of speech are connected with `goeswith`: <tt><a h
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 12 goeswith	color:blue
-1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=adversative-contrast_m:102->97:1:_|Entity=(100-abstract-new-nnnnn-cf2-3-sgl
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Bridge=44<100:entity-associative|Discourse=adversative-contrast_m:102->97:1:_|Entity=(100-abstract-acc:inf-nnnnn-cf2-3-sgl|PDTB=Implicit:Comparison.Contrast:but:_:691-711:712-724
 2	simplest	simple	ADJ	JJS	Degree=Sup	3	amod	3:amod	_
 3	way	way	NOUN	NN	Number=Sing	7	nsubj:outer	7:nsubj:outer	Entity=100)
 4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_

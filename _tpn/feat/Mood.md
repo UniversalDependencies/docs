@@ -82,4 +82,4 @@ The Irrealis mood is marked by _-reme_  .
 
 The PDT tagset does not distinguish `Ptan` from `Plur` and `Coll` from `Sing`,
 therefore this distinction is not being made in the converted data.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:24 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->

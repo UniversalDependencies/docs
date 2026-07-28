@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.13 release
 The following people have contributed to making this treebank part of UD: Irina Lobzhanidze.
 
 Repository: [UD_Georgian-GLC](https://github.com/UniversalDependencies/UD_Georgian-GLC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udka_glc217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udka_glc218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -34,7 +34,7 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | assigned by a program, not checked manually |
+| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
 | UPOS | assigned by a program, with some manual corrections, but not a full manual verification |
 | XPOS | assigned by a program, not checked manually |
 | Features | assigned by a program, with some manual corrections, but not a full manual verification |
@@ -76,11 +76,11 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
 
 ## Features
 
-[Abbr](ka_glc-feat-Abbr.html) – [AdpType](ka_glc-feat-AdpType.html) – [AdvType](ka_glc-feat-AdvType.html) – [Animacy](ka_glc-feat-Animacy.html) – [Aspect](ka_glc-feat-Aspect.html) – [Case](ka_glc-feat-Case.html) – [Degree](ka_glc-feat-Degree.html) – [Evident](ka_glc-feat-Evident.html) – [ExtPos](ka_glc-feat-ExtPos.html) – [Foreign](ka_glc-feat-Foreign.html) – [Mood](ka_glc-feat-Mood.html) – [NameType](ka_glc-feat-NameType.html) – [Number](ka_glc-feat-Number.html) – [Number[io]](ka_glc-feat-Number-io.html) – [Number[obj]](ka_glc-feat-Number-obj.html) – [Number[subj]](ka_glc-feat-Number-subj.html) – [NumForm](ka_glc-feat-NumForm.html) – [NumType](ka_glc-feat-NumType.html) – [PartType](ka_glc-feat-PartType.html) – [Person](ka_glc-feat-Person.html) – [Person[io]](ka_glc-feat-Person-io.html) – [Person[obj]](ka_glc-feat-Person-obj.html) – [Person[subj]](ka_glc-feat-Person-subj.html) – [Poss](ka_glc-feat-Poss.html) – [PronType](ka_glc-feat-PronType.html) – [PunctType](ka_glc-feat-PunctType.html) – [Subcat](ka_glc-feat-Subcat.html) – [Tense](ka_glc-feat-Tense.html) – [VerbForm](ka_glc-feat-VerbForm.html) – [Voice](ka_glc-feat-Voice.html)
+[Abbr](ka_glc-feat-Abbr.html) – [AdpType](ka_glc-feat-AdpType.html) – [AdvType](ka_glc-feat-AdvType.html) – [Animacy](ka_glc-feat-Animacy.html) – [Aspect](ka_glc-feat-Aspect.html) – [Case](ka_glc-feat-Case.html) – [Degree](ka_glc-feat-Degree.html) – [Evident](ka_glc-feat-Evident.html) – [Foreign](ka_glc-feat-Foreign.html) – [Mood](ka_glc-feat-Mood.html) – [NameType](ka_glc-feat-NameType.html) – [Number](ka_glc-feat-Number.html) – [Number[io]](ka_glc-feat-Number-io.html) – [Number[obj]](ka_glc-feat-Number-obj.html) – [Number[subj]](ka_glc-feat-Number-subj.html) – [NumForm](ka_glc-feat-NumForm.html) – [NumType](ka_glc-feat-NumType.html) – [PartType](ka_glc-feat-PartType.html) – [Person](ka_glc-feat-Person.html) – [Person[io]](ka_glc-feat-Person-io.html) – [Person[obj]](ka_glc-feat-Person-obj.html) – [Person[subj]](ka_glc-feat-Person-subj.html) – [Poss](ka_glc-feat-Poss.html) – [PronType](ka_glc-feat-PronType.html) – [PunctType](ka_glc-feat-PunctType.html) – [Subcat](ka_glc-feat-Subcat.html) – [Tense](ka_glc-feat-Tense.html) – [VerbForm](ka_glc-feat-VerbForm.html) – [Voice](ka_glc-feat-Voice.html)
 
 ## Relations
 
-[acl](ka_glc-dep-acl.html) – [acl:relcl](ka_glc-dep-acl-relcl.html) – [advcl](ka_glc-dep-advcl.html) – [advmod](ka_glc-dep-advmod.html) – [advmod:lmod](ka_glc-dep-advmod-lmod.html) – [amod](ka_glc-dep-amod.html) – [appos](ka_glc-dep-appos.html) – [aux](ka_glc-dep-aux.html) – [case](ka_glc-dep-case.html) – [cc](ka_glc-dep-cc.html) – [ccomp](ka_glc-dep-ccomp.html) – [compound](ka_glc-dep-compound.html) – [conj](ka_glc-dep-conj.html) – [cop](ka_glc-dep-cop.html) – [csubj](ka_glc-dep-csubj.html) – [dep](ka_glc-dep-dep.html) – [det](ka_glc-dep-det.html) – [det:poss](ka_glc-dep-det-poss.html) – [discourse](ka_glc-dep-discourse.html) – [expl](ka_glc-dep-expl.html) – [fixed](ka_glc-dep-fixed.html) – [flat](ka_glc-dep-flat.html) – [flat:foreign](ka_glc-dep-flat-foreign.html) – [flat:name](ka_glc-dep-flat-name.html) – [iobj](ka_glc-dep-iobj.html) – [mark](ka_glc-dep-mark.html) – [nmod](ka_glc-dep-nmod.html) – [nsubj](ka_glc-dep-nsubj.html) – [nsubj:outer](ka_glc-dep-nsubj-outer.html) – [nsubj:pass](ka_glc-dep-nsubj-pass.html) – [nummod](ka_glc-dep-nummod.html) – [obj](ka_glc-dep-obj.html) – [obl](ka_glc-dep-obl.html) – [obl:tmod](ka_glc-dep-obl-tmod.html) – [orphan](ka_glc-dep-orphan.html) – [parataxis](ka_glc-dep-parataxis.html) – [punct](ka_glc-dep-punct.html) – [root](ka_glc-dep-root.html) – [xcomp](ka_glc-dep-xcomp.html)
+[acl](ka_glc-dep-acl.html) – [acl:relcl](ka_glc-dep-acl-relcl.html) – [advcl](ka_glc-dep-advcl.html) – [advmod](ka_glc-dep-advmod.html) – [advmod:lmod](ka_glc-dep-advmod-lmod.html) – [amod](ka_glc-dep-amod.html) – [appos](ka_glc-dep-appos.html) – [aux](ka_glc-dep-aux.html) – [case](ka_glc-dep-case.html) – [cc](ka_glc-dep-cc.html) – [ccomp](ka_glc-dep-ccomp.html) – [compound](ka_glc-dep-compound.html) – [conj](ka_glc-dep-conj.html) – [cop](ka_glc-dep-cop.html) – [csubj](ka_glc-dep-csubj.html) – [dep](ka_glc-dep-dep.html) – [det](ka_glc-dep-det.html) – [det:poss](ka_glc-dep-det-poss.html) – [discourse](ka_glc-dep-discourse.html) – [expl](ka_glc-dep-expl.html) – [flat](ka_glc-dep-flat.html) – [flat:foreign](ka_glc-dep-flat-foreign.html) – [flat:name](ka_glc-dep-flat-name.html) – [iobj](ka_glc-dep-iobj.html) – [mark](ka_glc-dep-mark.html) – [nmod](ka_glc-dep-nmod.html) – [nsubj](ka_glc-dep-nsubj.html) – [nsubj:outer](ka_glc-dep-nsubj-outer.html) – [nsubj:pass](ka_glc-dep-nsubj-pass.html) – [nummod](ka_glc-dep-nummod.html) – [obj](ka_glc-dep-obj.html) – [obl](ka_glc-dep-obl.html) – [obl:tmod](ka_glc-dep-obl-tmod.html) – [orphan](ka_glc-dep-orphan.html) – [parataxis](ka_glc-dep-parataxis.html) – [punct](ka_glc-dep-punct.html) – [root](ka_glc-dep-root.html) – [xcomp](ka_glc-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -429,7 +429,7 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
   <li>Imp
     <ul>
       <li>AUX: მინდოდა</li>
-      <li>VERB-Fin: ჰქონდა, ხდებოდა, გამოიყენებოდა, იყენებდნენ, ვითარდებოდა, თვლიდა, არსებობდა, გულისხმობდა, იყენებდა, მდებარეობდა</li>
+      <li>VERB-Fin: ხდებოდა, ჰქონდა, ამოდიოდა, აპრიალებდნენ, არსებობდა, აღნიშნავდნენ, აღწერდნენ, აძლევდა, ახდენდა, ახსოვდა</li>
     </ul>
   </li>
 </ul>
@@ -508,7 +508,6 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
   <li>Nfh
     <ul>
       <li>PART: ო</li>
-      <li>VERB-Fin: ამყოფო</li>
     </ul>
   </li>
 </ul>
@@ -730,18 +729,6 @@ Lobzhanidze, I. (2022). Finite-State Computational Morphology: An Analyzer and G
       <li>Tim
         <ul>
           <li>ADV: შემდეგ, პირველად, ზოგჯერ, ჯერ, ამჟამად, უკვე, თავდაპირველად, დღეს, მოგვიანებით, ბოლოს</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li><a>ExtPos</a>
-    <ul>
-      <li>ADV
-        <ul>
-          <li>ADJ: უპირველეს</li>
         </ul>
       </li>
     </ul>
@@ -1052,9 +1039,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (9)</li>
       <li>VERB-Fin--NOUN-Dat (172)</li>
-      <li>VERB-Fin--NOUN-Erg (153)</li>
+      <li>VERB-Fin--NOUN-Erg (154)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1518)</li>
+      <li>VERB-Fin--NOUN-Nom (1523)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Dat (55)</li>
       <li>VERB-Fin--PRON-Erg (38)</li>
@@ -1075,13 +1062,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Nom (2)</li>
       <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--NOUN-Dat (1254)</li>
+      <li>VERB-Fin--NOUN-Dat (1259)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(ზე) (1)</li>
       <li>VERB-Fin--NOUN-Erg (2)</li>
       <li>VERB-Fin--NOUN-Ess (4)</li>
       <li>VERB-Fin--NOUN-Gen (4)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Nom (621)</li>
+      <li>VERB-Fin--NOUN-Nom (625)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(შესახებ) (1)</li>
       <li>VERB-Fin--PRON-Dat (78)</li>
       <li>VERB-Fin--PRON-Ess (2)</li>
@@ -1117,5 +1104,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>advmod:lmod</a>, <a>det:poss</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

@@ -34,4 +34,4 @@ fixed(despite,the-fact)
 fixed(despite,that)
 punct(despite,,-8)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:54 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->

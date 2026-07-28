@@ -48,7 +48,7 @@ The most frequent other feature values with which `NOUN` and `Typo` co-occurred:
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (1; 100% of non-empty `Typo`): <em>Porte-d’</em>
+* `Yes` (1; 100% of non-empty `Typo`): <em>Porte-d'</em>
 
 ### `NUM`
 

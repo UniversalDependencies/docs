@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ka_gnc-dep-nmod.html">nmod</a></tt>.
 There are also 3 other language-specific subtypes of `nmod`: <tt><a href="ka_gnc-dep-nmod-agent.html">nmod:agent</a></tt>, <tt><a href="ka_gnc-dep-nmod-iobj.html">nmod:iobj</a></tt>, <tt><a href="ka_gnc-dep-nmod-pred.html">nmod:pred</a></tt>.
 
-91 nodes (0%) are attached to their parents as `nmod:name`.
+93 nodes (0%) are attached to their parents as `nmod:name`.
 
-91 instances of `nmod:name` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02197802197802.
+93 instances of `nmod:name` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.02150537634409.
 
-The following 2 pairs of parts of speech are connected with `nmod:name`: <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (81; 89% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (10; 11% instances).
+The following 2 pairs of parts of speech are connected with `nmod:name`: <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (83; 89% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (10; 11% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 2 pairs of parts of speech are connected with `nmod:name`: <tt><a 
 3	დათა	დათა	PROPN	N_Prop_Anthr_FirstName_Nom_Att	Case=Nom|NameType=Prs	4	nmod:name	_	LMSeg:დათა
 4	თუთაშხია	თუთაშხია	PROPN	N_Prop_Anthr_LastName_Nom	Case=Nom|NameType=Prs	7	nsubj	_	LMSeg:თუთაშხია
 5	პასუხისგებას	პასუხისგება	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	7	iobj	_	LMSeg:პასუხისგებ[ა]
-6	თავს	თავი	PRON	Pron_Refl_Dat	Case=Dat	7	obj	_	LMSeg:თავ·ი
+6	თავს	თავი	PRON	Pron_Refl_Dat	Case=Dat|PronType=Prs|Reflex=Yes	7	obj	_	LMSeg:თავ·ი
 7	არიდებს	რიდება	VERB	V_Act_Pres_S:3Sg_DO:3_IO:3	Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:*·რიდებ[ა]/რიდ|SpaceAfter=No
 8	.	.	PUNCT	Punct_Period	_	7	punct	_	LMSeg:.
 

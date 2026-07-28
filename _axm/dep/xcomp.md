@@ -10,10 +10,19 @@ determined by an argument external to the `xcomp` (normally by the subject of th
 These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers, such as a purpose clause.
 The name `xcomp` is borrowed from Lexical-Functional Grammar.
 
-~~~ sdparse
-Քրիստոսի դատաստանին աւրինակովն պարտի թագաւորն զիր իրաւունքն տանել ըղորդ ։ \n After the example of Christ's judgment, the king ought to carry out his justice uprightly .
-xcomp(պարտի, տանել)
-xcomp(ought, to-carry)
+~~~ conllu
+# visual-style 4 9 advcl:relcl color:blue
+1	Քրիստոսի	Քրիստոս	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Prs|Number=Sing	2	nmod:poss	_	_
+2	դատաստանին	դատաստան	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	3	nmod:poss	_	_
+3	աւրինակովն	աւրինակ	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Def|Number=Sing|Style=Var	4	obl	_	_
+4	պարտի	պարտել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	թագաւորն	թագաւոր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	4	nsubj	_	_
+6-7	զիր	_	_	_	_	_	_	_	_
+6	զ	զ	ADP	_	AdpType=Prep	8	case	_	_
+7	իր	իր	DET	_	Case=Acc|Number=Sing|Person=3|PronType=Poss|Reflex=Yes	8	det:poss	_	_
+8	իրաւունքն	իրաւունք	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing	9	obj	_	_
+9	տանել	տանել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	4	xcomp	_	_
+10	ըղորդ	ըղորդ	ADV	_	_	9	advmod	_	_
 ~~~
 
 Note that the above condition “without its own subject” does not mean that a clause is an `xcomp` just because its subject is not _overt._
@@ -25,4 +34,4 @@ higher clause, [ccomp]() should be used instead. This includes cases of arbitrar
 
 The `xcomp` relation is also used in constructions that are known as _secondary predicates_ or _predicatives_.
 Remember that `xcomp` is used for core arguments of clausal predicates so it will not be used for other instances of secondary predication.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:42 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->

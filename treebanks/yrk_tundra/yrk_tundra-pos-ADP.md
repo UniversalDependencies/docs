@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Nenets-Tundra: POS Tags: `ADP`
 
-There are 32 `ADP` lemmas (9%), 39 `ADP` types (7%) and 92 `ADP` tokens (7%).
+There are 31 `ADP` lemmas (9%), 38 `ADP` types (7%) and 91 `ADP` tokens (7%).
 Out of 12 observed tags, the rank of `ADP` is: 4 in number of lemmas, 4 in number of types and 5 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>серʼ, няʼ, мюʼ, ниʼ, нид, няна, мюд, ниня, няюʼ, тяхад</em>
@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>нимня</em> (<tt><a href="yrk_tun
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.218750 (the average of all parts of speech is 1.619469).
+The form / lemma ratio of `ADP` is 1.225806 (the average of all parts of speech is 1.622419).
 
 The 1st highest number of forms (3) was observed with the lemma “мюд”: <em><er>мюд, мюд, мюд?</em>.
 
@@ -53,17 +53,17 @@ The 3rd highest number of forms (2) was observed with the lemma “нер-”: <
 `ADP` occurs with 3 feature-value pairs: `Number=Sing`, `Person=1`, `Person=3`
 
 `ADP` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (88 tokens).
+The most frequent feature combination is `_` (87 tokens).
 Examples: <em>серʼ, няʼ, мюʼ, ниʼ, нид, няна, няюʼ, тяхад, мюня, ниня</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="yrk_tundra-dep-case.html">case</a></tt> (68; 74% instances), <tt><a href="yrk_tundra-dep-dep.html">dep</a></tt> (16; 17% instances), <tt><a href="yrk_tundra-dep-mark.html">mark</a></tt> (6; 7% instances), <tt><a href="yrk_tundra-dep-obl-mod.html">obl:mod</a></tt> (1; 1% instances), <tt><a href="yrk_tundra-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
+`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="yrk_tundra-dep-case.html">case</a></tt> (68; 75% instances), <tt><a href="yrk_tundra-dep-dep.html">dep</a></tt> (15; 16% instances), <tt><a href="yrk_tundra-dep-mark.html">mark</a></tt> (6; 7% instances), <tt><a href="yrk_tundra-dep-obl-mod.html">obl:mod</a></tt> (1; 1% instances), <tt><a href="yrk_tundra-dep-reparandum.html">reparandum</a></tt> (1; 1% instances)
 
-Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (64; 70% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (17; 18% instances), <tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (4; 4% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> (2; 2% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt> (1; 1% instances)
+Parents of `ADP` nodes belong to 6 different parts of speech: <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (63; 69% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt> (17; 19% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (5; 5% instances), <tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (4; 4% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> (1; 1% instances)
 
-85 (92%) `ADP` nodes are leaves.
+84 (92%) `ADP` nodes are leaves.
 
 6 (7%) `ADP` nodes have one child.
 

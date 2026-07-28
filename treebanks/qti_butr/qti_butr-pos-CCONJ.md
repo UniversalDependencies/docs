@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish_English-BUTR: POS Tags: `CCONJ`
 
-There are 7 `CCONJ` lemmas (3%), 7 `CCONJ` types (3%) and 12 `CCONJ` tokens (3%).
+There are 7 `CCONJ` lemmas (3%), 7 `CCONJ` types (2%) and 13 `CCONJ` tokens (3%).
 Out of 14 observed tags, the rank of `CCONJ` is: 9 in number of lemmas, 10 in number of types and 8 in number of tokens.
 
-The 10 most frequent `CCONJ` lemmas: <em>yani, ama, and, but, da, de, ve</em>
+The 10 most frequent `CCONJ` lemmas: <em>ama, yani, and, but, da, de, ve</em>
 
-The 10 most frequent `CCONJ` types:  <em>yani, ama, and, but, da, de, ve</em>
+The 10 most frequent `CCONJ` types:  <em>ama, yani, and, but, da, de, ve</em>
 
-The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> 2, <tt><a href="qti_butr-pos-CCONJ.html">CCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>de</em> (<tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> 3, <tt><a href="qti_butr-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.152263).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.154982).
 
 The 1st highest number of forms (1) was observed with the lemma “ama”: <em>ama</em>.
 
@@ -34,11 +34,11 @@ The 3rd highest number of forms (1) was observed with the lemma “but”: <em>b
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="qti_butr-dep-cc.html">cc</a></tt> (5; 42% instances), <tt><a href="qti_butr-dep-discourse.html">discourse</a></tt> (5; 42% instances), <tt><a href="qti_butr-dep-advmod.html">advmod</a></tt> (2; 17% instances)
+`CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="qti_butr-dep-cc.html">cc</a></tt> (6; 46% instances), <tt><a href="qti_butr-dep-discourse.html">discourse</a></tt> (5; 38% instances), <tt><a href="qti_butr-dep-advmod.html">advmod</a></tt> (2; 15% instances)
 
-Parents of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="qti_butr-pos-ADJ.html">ADJ</a></tt> (4; 33% instances), <tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> (3; 25% instances), <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> (3; 25% instances), <tt><a href="qti_butr-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt> (1; 8% instances)
+Parents of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="qti_butr-pos-ADJ.html">ADJ</a></tt> (5; 38% instances), <tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> (3; 23% instances), <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> (3; 23% instances), <tt><a href="qti_butr-pos-ADV.html">ADV</a></tt> (1; 8% instances), <tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt> (1; 8% instances)
 
-11 (92%) `CCONJ` nodes are leaves.
+12 (92%) `CCONJ` nodes are leaves.
 
 0 (0%) `CCONJ` nodes have one child.
 

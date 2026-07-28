@@ -18,3 +18,4 @@ advmod:cop(teacher, NEG.COP)
 nsubj(musomesya, Omukali)
 nsubj(teacher, The_woman)
 ~~~
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:34 CEST -->

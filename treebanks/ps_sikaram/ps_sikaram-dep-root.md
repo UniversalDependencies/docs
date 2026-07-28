@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-155 nodes (4%) are attached to their parents as `root`.
+200 nodes (4%) are attached to their parents as `root`.
 
-155 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 10.6387096774194.
+200 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 11.315.
 
-The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (99; 64% instances), -<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (34; 22% instances), -<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (9; 6% instances), -<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (4; 3% instances), -<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (4; 3% instances), -<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), -<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), -<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (1; 1% instances), -<tt><a href="ps_sikaram-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `root`: -<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (134; 67% instances), -<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (39; 20% instances), -<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (12; 6% instances), -<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (4; 2% instances), -<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (4; 2% instances), -<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (3; 2% instances), -<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), -<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), -<tt><a href="ps_sikaram-pos-PART.html">PART</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

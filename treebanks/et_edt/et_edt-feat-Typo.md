@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-291 tokens (0%) have a non-empty value of `Typo`.
-149 types (0%) occur at least once with a non-empty value of `Typo`.
-183 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 10 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (237; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (21; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+294 tokens (0%) have a non-empty value of `Typo`.
+152 types (0%) occur at least once with a non-empty value of `Typo`.
+186 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 10 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (237; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (21; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `NUM`
 
@@ -52,11 +52,11 @@ The most frequent other feature values with which `ADJ` and `Typo` co-occurred: 
 
 ### `ADV`
 
-4 <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
+7 <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
 
 `ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (4; 100% of non-empty `Typo`): <em>18,1, keskelt, näteks, valimis</em>
+* `Yes` (7; 100% of non-empty `Typo`): <em>18,1, keskelt, mõlkkis, näteks, tuduvalt, tõenoliselt, valimis</em>
 
 ### `PROPN`
 

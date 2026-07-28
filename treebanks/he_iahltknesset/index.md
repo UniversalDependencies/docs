@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.15 release
 The following people have contributed to making this treebank part of UD: Amir Zeldes, Avner Algom, Noam Ordan, Yifat Ben Moshe, Nick Howell, Shira Wigderson, Omer Strass, Israel Landau, Netanel Dahan, Yael Minerbi, Hilla Merhav, Emmanuelle Kowner, Shuly Wintner, Gili Goldin, Ella Rabinovich, Vladimir Gurevich.
 
 Repository: [UD_Hebrew-IAHLTknesset](https://github.com/UniversalDependencies/UD_Hebrew-IAHLTknesset)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_iahltknesset217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_iahltknesset218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 

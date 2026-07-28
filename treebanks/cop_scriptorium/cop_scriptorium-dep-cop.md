@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-500 nodes (1%) are attached to their parents as `cop`.
+506 nodes (1%) are attached to their parents as `cop`.
 
-493 instances of `cop` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.068.
+499 instances of `cop` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.06126482213439.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (227; 45% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (110; 22% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (95; 19% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (43; 9% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (16; 3% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (228; 45% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (114; 23% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (96; 19% instances), <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (43; 8% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (16; 3% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -76,7 +76,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 12 cop	color:blue
-1	ⲉ	ⲉⲣⲉ	PART	CFOC	_	3	mark	_	_
+1	ⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	3	mark	_	_
 2	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Orig=ⲧⲉⲧ︤ⲛ︥
 3	ϣⲡϩⲓⲥⲉ	ϣⲡϩⲓⲥⲉ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	MSeg=ϣⲡ-ϩⲓⲥⲉ|Orig=ϣ︤ⲡ︥ϩⲓⲥⲉ
 4	ⲙⲛ	ⲙⲛ	ADP	PREP	_	5	case	_	Orig=ⲙ︤ⲛ︥

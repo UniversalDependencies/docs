@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Cebuano-GJA: POS Tags: `NUM`
 
 There are 6 `NUM` lemmas (1%), 7 `NUM` types (1%) and 12 `NUM` tokens (1%).
-Out of 14 observed tags, the rank of `NUM` is: 10 in number of lemmas, 10 in number of types and 11 in number of tokens.
+Out of 14 observed tags, the rank of `NUM` is: 10 in number of lemmas, 10 in number of types and 12 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>tulo, duha, usa, sayis, thirty, tres</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>usa</em> (<tt><a href="ceb_gja-pos-NU
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.166667 (the average of all parts of speech is 1.162162).
+The form / lemma ratio of `NUM` is 1.166667 (the average of all parts of speech is 1.162584).
 
 The 1st highest number of forms (2) was observed with the lemma “duha”: <em>Duhay, duha</em>.
 

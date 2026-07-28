@@ -39,4 +39,4 @@ The location nominalizer, previously indicated by `Derivation=Anin` has been mig
 </table>
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:26 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:02 CEST -->

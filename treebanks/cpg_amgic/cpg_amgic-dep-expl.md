@@ -8,32 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (1%) are attached to their parents as `expl`.
+9 nodes (1%) are attached to their parents as `expl`.
 
-3 instances of `expl` (60%) are right-to-left (child precedes parent).
+6 instances of `expl` (67%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="cpg_amgic-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_amgic-pos-PRON.html">PRON</a></tt> (5; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="cpg_amgic-pos-VERB.html">VERB</a></tt>-<tt><a href="cpg_amgic-pos-PRON.html">PRON</a></tt> (9; 100% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 expl	color:blue
-1	Ksevasám'	ksevánu	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	ta	(e)γó	PRON	PRON	Case=Acc|Clitic=Yes|Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
-3	na	na	AUX	Subj	_	4	aux	_	_
-4	kiriós'	kir(y)iónu	VERB	VERB	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	1	advcl	_	#Final_clause_here
-5	tu	(ο)	DET	DET	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
-6	psomí	psomí	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	SpaceAfter=No|#Double_cliting
-7	,	,	PUNCT	PUNCT	_	1	punct	_	_
-8	és'kam'	séknu	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	parataxis	_	_
-9	da	(e)γó	PRON	PRON	Case=Acc|Clitic=Yes|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
-10	pisárin	pisárin	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
-11	apésu	apésu	ADV	ADV	_	8	advmod	_	LC=YES|MorphSynC=SynIn|MorphSynSC=HFinPost|SpaceAfter=No|#adverbial construction possible in MG but with a PrPhr/here_exclusively_"left_branching"_(postposition?)
-12	.	.	PUNCT	PUNCT	_	8	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 expl	color:blue
+1	fikirsúzis	fikirsúzis	ADJ	ADJ	Case=Voc|Gender=Masc|Number=Sing	3	amod	_	Orig=fikirsiz|OrigLang=tr
+2	mu	(e)γó	PRON	PRON	Case=Gen|Clitic=Yes|Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod	_	_
+3	ádras	ádras	NOUN	NOUN	Case=Voc|Gender=Masc|Number=Sing	8	vocative	_	_
+4	tiyá	tiás	DET	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	5	det	_	_
+5	kalaǰí	kalaǰí	NOUN	NOUN	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+6	ne	ne	PRON	Ques	PronType=Int	7	obl	_	Foreign=Yes|Lang=tr
+7	deyí	deyí	ADP	_	_	8	case	_	Foreign=Yes|Lang=tr
+8	ípis	léγu	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+9	ta	(e)γó	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	_	#weak_clitic_form_double_cliting
+10	mi	mi	AUX	_	_	8	aux:q	_	LC=Yes|MorphSynC=FrGrEl|MorphSynSC=QPart|Orig=mI|OrigLang=tr|SpaceAfter=No
+11	?	?	PUNCT	PUNCT	_	8	punct	_	_
 
 ~~~
 

@@ -91,4 +91,4 @@ In Beja the vocative is a suffix on nouns that marks the addressee.
 
 #### Examples
 - _maːlk<b>-i jhaː</b>_ Malik!"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:04 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->

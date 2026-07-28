@@ -15,4 +15,4 @@ list(Γιώργος, E-mail)
 appos(Τηλέφωνο, 2100447000)
 appos(E-mail, gpapadopoulos@paradeigma.com)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:01 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:13 CEST -->

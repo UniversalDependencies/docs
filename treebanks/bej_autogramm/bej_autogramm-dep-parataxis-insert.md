@@ -51,8 +51,8 @@ The following 1 pairs of parts of speech are connected with `parataxis:insert`: 
 26	w=	_	PRON	REL	Definite=Def|Gender=Masc|Number=Sing|PronType=Rel	28	obj	_	AlignBegin=23188|AlignEnd=23356|Gloss=DEF.SG.M=|RX=[REL]=|TokenType=Clit
 27	haːj	_	ADP	POSTP	Case=Com	28	dep	_	AlignBegin=23356|AlignEnd=23525|Gloss=COM|RX=[POSTP]|TokenType=Root
 28	jʔab	_	VERB	V2	Gender=Masc|VerbClass=2	29	ccomp	_	AlignBegin=23525|AlignEnd=23862|Gloss=come|MGloss=come-CVB.MNR-INDF.M.ACC|MSeg=jʔ-a-b|RX=[V2].[IRG]-[PRF]-[DET]|TokenType=Root
-29	akati	_	VERB	AUX	Aspect=Imp|Number=Sing	30	dep:comp	_	AlignBegin=23862|AlignEnd=24030|Gloss=become\IPFV|MGloss=1SG-become\IPFV|MSeg=a-kati|RX=[PNG]-[AUX].[PRF]|TokenType=Root
-30	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	25	acl:relcl	_	AlignBegin=24030|AlignEnd=24114|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+29	akati	_	VERB	AUX	Aspect=Imp|Number=Sing	30	dep:comp	_	AlignBegin=23862|AlignEnd=24030|Gloss=become\IPFV|MGloss=1SG-become\IPFV|MSeg=a-kati|RelRole=Obj|RX=[PNG]-[AUX].[PRF]|TokenType=Root
+30	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	25	acl:relcl	_	AlignBegin=24030|AlignEnd=24114|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 31	=wa	_	CCONJ	CONJ	_	30	cc	_	AlignBegin=24114|AlignEnd=24199|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 32	/	_	PUNCT	_	_	25	punct	_	AlignBegin=24199|AlignEnd=24534|Gloss=/|TokenType=Break
 33	kass	_	ADJ	DET	_	25	dislocated:mod	_	AlignBegin=24534|AlignEnd=24699|Gloss=all|RX=[ADJ]|TokenType=Root

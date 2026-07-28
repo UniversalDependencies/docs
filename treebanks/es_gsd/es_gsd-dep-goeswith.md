@@ -33,7 +33,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 9	una	uno	NUM	_	Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	10	nummod	_	_
 10	semana	semana	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
 11	y	y	CCONJ	_	_	12	cc	_	_
-12	quedo	quedo	VERB	_	Gender=Masc|Number=Sing|Typo=Yes|VerbForm=Fin	3	conj	_	CorrectForm=quedó
+12	quedo	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin	3	conj	_	CorrectForm=quedó
 13	encantada	encantado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	12	xcomp	_	_
 14	con	con	ADP	_	_	16	case	_	_
 15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
@@ -58,7 +58,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 34	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	35	obj	_	_
 35	agradece	agradecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	_
 36	porque	porque	SCONJ	_	_	37	mark	_	_
-37	trabajo	trabajo	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	35	advcl	_	_
+37	trabajo	trabajar	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	35	advcl	_	_
 38	en	en	ADP	_	_	40	case	_	_
 39	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
 40	obra	obra	NOUN	_	Gender=Fem|Number=Sing	37	obl	_	_
@@ -85,8 +85,8 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 7	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
 8	granadino	granadino	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
 9	de	de	ADP	_	_	10	case	_	_
-10	Güéjar	güéjar	PROPN	_	_	7	nmod	_	_
-11	Sierra	sierra	PROPN	_	_	10	flat	_	_
+10	Güéjar	Güéjar	PROPN	_	_	7	nmod	_	_
+11	Sierra	Sierra	PROPN	_	_	10	flat	_	_
 12	y	y	CCONJ	_	_	14	cc	_	_
 13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 14	propiedad	propiedad	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
@@ -96,16 +96,16 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 18	:	:	PUNCT	_	PunctType=Colo	21	punct	_	_
 19	D	doña	NOUN	_	Abbr=Yes|Gender=Fem|Number=Sing|Typo=Yes	21	nmod	_	CorrectForm=Dª
 20	ª	_	X	_	_	19	goeswith	_	_
-21	Antonia	antonia	PROPN	_	_	17	appos	_	_
-22	Pérez	pérez	PROPN	_	_	21	flat	_	_
-23	Moreno	moreno	PROPN	_	_	21	flat	_	SpaceAfter=No
+21	Antonia	Antonia	PROPN	_	_	17	appos	_	_
+22	Pérez	Pérez	PROPN	_	_	21	flat	_	_
+23	Moreno	Moreno	PROPN	_	_	21	flat	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 25	viuda	viuda	NOUN	_	Gender=Fem|Number=Sing	21	appos	_	_
 26	de	de	ADP	_	_	28	case	_	_
 27	D.	don	NOUN	_	Abbr=Yes|Gender=Masc|Number=Sing	28	nmod	_	_
-28	Rafael	rafael	PROPN	_	_	25	nmod	_	_
-29	Rodriguez	rodriguez	PROPN	_	_	28	flat	_	_
-30	Cantos	cantos	PROPN	_	_	28	flat	_	SpaceAfter=No
+28	Rafael	Rafael	PROPN	_	_	25	nmod	_	_
+29	Rodriguez	Rodriguez	PROPN	_	_	28	flat	_	_
+30	Cantos	Cantos	PROPN	_	_	28	flat	_	SpaceAfter=No
 31	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 ~~~

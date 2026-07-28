@@ -144,7 +144,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (27; 6% of non-empty `Definite`): <em>daudzajiem, savējie, savējo, savējos, daudzo, daudzās, mūsējie, savējiem, Mūsējo, daudzos</em>
 * `Ind` (432; 94% of non-empty `Definite`): <em>daudzi, vairāki, vairākas, vairākus, daudzas, vairākiem, vairāku, daudzus, daudziem, vairākās</em>
-* `EMPTY` (14869): <em>to, tas, tā, tās, savu, šo, tam, visu, šī, kuru</em>
+* `EMPTY` (14870): <em>to, tas, tā, tās, savu, šo, tam, visu, šī, kuru</em>
 
 <table>
   <tr><th>Paradigm <i>daudzi</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>

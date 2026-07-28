@@ -9,16 +9,31 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-35063 tokens (16%) have a non-empty value of `Person`.
-4369 types (14%) occur at least once with a non-empty value of `Person`.
-1472 lemmas (9%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (12273; 6% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (11800; 5% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (7137; 3% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (3853; 2% instances).
+35042 tokens (16%) have a non-empty value of `Person`.
+4366 types (14%) occur at least once with a non-empty value of `Person`.
+1470 lemmas (9%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (12303; 6% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (12273; 6% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (7137; 3% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (3329; 2% instances).
+
+### `PRON`
+
+12303 <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
+
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (10190; 83%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8885; 72%), <tt><a href="ro_rrt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (8367; 68%), <tt><a href="ro_rrt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7740; 63%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6791; 55%), <tt><a href="ro_rrt-feat-Strength.html">Strength</a></tt><tt>=Weak</tt> (6202; 50%).
+
+`PRON` tokens may have the following values of `Person`:
+
+* `1` (644; 5% of non-empty `Person`): <em>ne, mă, eu, noi, m-, -mi, mi-, ne-, mine, îmi</em>
+* `2` (525; 4% of non-empty `Person`): <em>dumneavoastră, vă, te, -ți, v-, tu, îți, ți-, -vă, te-</em>
+* `3` (11134; 90% of non-empty `Person`): <em>se, care, ce, s-, el, lui, ei, -l, o, își</em>
+* `EMPTY` (10): <em>ș.a., dvs., Î.P.S.</em>
+
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (48) occur only with one value of `Person`.
 
 ### `VERB`
 
 12273 <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12273; 100%), <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12272; 100%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10450; 85%), <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8953; 73%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (12273; 100%), <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12272; 100%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10450; 85%), <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8954; 73%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -42,33 +57,18 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>poată</em></td></tr>
 </table>
 
-### `PRON`
-
-11800 <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
-
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9738; 83%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (8721; 74%), <tt><a href="ro_rrt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7864; 67%), <tt><a href="ro_rrt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7240; 61%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6806; 58%), <tt><a href="ro_rrt-feat-Strength.html">Strength</a></tt><tt>=Weak</tt> (6197; 53%).
-
-`PRON` tokens may have the following values of `Person`:
-
-* `1` (644; 5% of non-empty `Person`): <em>ne, mă, eu, noi, m-, -mi, mi-, mine, ne-, îmi</em>
-* `2` (525; 4% of non-empty `Person`): <em>dumneavoastră, vă, te, -ți, v-, tu, ți-, îți, -vă, te-</em>
-* `3` (10631; 90% of non-empty `Person`): <em>se, care, ce, s-, el, le, o, își, -și, -l</em>
-* `EMPTY` (8): <em>ș.a., dvs., Î.P.S.</em>
-
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (49) occur only with one value of `Person`.
-
 ### `AUX`
 
 7137 <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> tokens (83% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4501; 63%), <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4346; 61%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4344; 61%), <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4344; 61%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4498; 63%), <tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4348; 61%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4346; 61%), <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4346; 61%).
 
 `AUX` tokens may have the following values of `Person`:
 
-* `1` (381; 5% of non-empty `Person`): <em>am, aș, vom, eram, sunt, voi, suntem, fiu, -aș, fim</em>
-* `2` (167; 2% of non-empty `Person`): <em>ai, ați, veți, sunteți, ești, fii, erai, vei, -ai, oi</em>
-* `3` (6589; 92% of non-empty `Person`): <em>a, este, au, sunt, ar, era, va, fie, e, vor</em>
-* `EMPTY` (1437): <em>fi, fost, fiind, nefiind, fiindu, este</em>
+* `1` (381; 5% of non-empty `Person`): <em>am, aș, vom, eram, sunt, voi, suntem, fiu, -am, -aș</em>
+* `2` (166; 2% of non-empty `Person`): <em>ai, ați, veți, sunteți, ești, fii, erai, vei, -ai, oi</em>
+* `3` (6590; 92% of non-empty `Person`): <em>a, este, au, sunt, ar, era, va, fie, e, vor</em>
+* `EMPTY` (1436): <em>fi, fost, fiind, nefiind, fiindu</em>
 
 <table>
   <tr><th>Paradigm <i>fi</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -77,7 +77,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>fu</em></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt></tt></td><td></td><td></td><td><em>fusese</em></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td><em>-i, E-</em></td></tr>
-  <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sunt</em></td><td><em>ești</em></td><td><em>este, e, Sunt, îi</em></td></tr>
+  <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sunt</em></td><td><em>ești</em></td><td><em>este, e, îi</em></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td></td><td></td><td><em>erau</em></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>fură</em></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt></tt></td><td></td><td></td><td><em>fuseseră</em></td></tr>
@@ -91,18 +91,18 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `DET`
 
-3853 <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> tokens (32% of all `DET` tokens) have a non-empty value of `Person`.
+3329 <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> tokens (29% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="ro_rrt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2842; 74%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (2234; 58%), <tt><a href="ro_rrt-feat-Position.html">Position</a></tt><tt>=EMPTY</tt> (1937; 50%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="ro_rrt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2843; 85%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (2235; 67%), <tt><a href="ro_rrt-feat-Position.html">Position</a></tt><tt>=Prenom</tt> (1798; 54%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1774; 53%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1756; 53%).
 
 `DET` tokens may have the following values of `Person`:
 
 * `1` (179; 5% of non-empty `Person`): <em>mea, meu, noastre, nostru, noastră, mele, mei, noștri, însumi, -mea</em>
 * `2` (46; 1% of non-empty `Person`): <em>ta, tău, dumitale, tale, voastră, vostru, voștri, tăi, voastre</em>
-* `3` (3628; 94% of non-empty `Person`): <em>acest, lui, lor, orice, toate, această, aceste, alte, fiecare, ei</em>
-* `EMPTY` (8171): <em>o, un, a, al, ale, lui, unei, unui, cel, unor</em>
+* `3` (3104; 93% of non-empty `Person`): <em>acest, orice, toate, această, aceste, alte, fiecare, multe, său, sale</em>
+* `EMPTY` (8195): <em>o, un, a, al, ale, lui, unei, unui, cel, unor</em>
 
-`Person` seems to be **lexical feature** of `DET`. 100% lemmas (36) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `DET`. 100% lemmas (34) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 
@@ -111,7 +111,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="ro_rrt-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (1530; 68%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1277; 76%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-expl-pass.html">expl:pass</a></tt>]--> PRON</tt> (880; 78%),
-<tt>VERB --[<tt><a href="ro_rrt-dep-obl.html">obl</a></tt>]--> PRON</tt> (461; 54%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-obl.html">obl</a></tt>]--> PRON</tt> (473; 55%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-expl.html">expl</a></tt>]--> PRON</tt> (312; 57%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-expl-impers.html">expl:impers</a></tt>]--> PRON</tt> (109; 84%),
 <tt>PRON --[<tt><a href="ro_rrt-dep-acl.html">acl</a></tt>]--> VERB</tt> (88; 52%),

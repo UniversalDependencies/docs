@@ -13,24 +13,24 @@ The 10 most frequent `INTJ` lemmas: <em>ну, вай, аф, вов, и, эрь, 
 
 The 10 most frequent `INTJ` types:  <em>ну, вай, Вов, аф, И, Эрь, Эх</em>
 
-The 10 most frequent ambiguous lemmas: <em>аф</em> (<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 110, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 2), <em>и</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 80, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> 1), <em>эрь</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 5, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>аф</em> (<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 120, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 2), <em>и</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 81, <tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> 1, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="mdf_jr-pos-PART.html">PART</a></tt> 1), <em>эрь</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 6, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>аф</em> (<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 73, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>И</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>Эрь</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>аф</em> (<tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 78, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>И</em> (<tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1), <em>Эрь</em> (<tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2, <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>аф</em>
-  * <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 73: <em>А касан пяк савор , нинге школавга <b>аф</b> якан .</em>
+  * <tt><a href="mdf_jr-pos-AUX.html">AUX</a></tt> 78: <em>А касан пяк савор , нинге школавга <b>аф</b> якан .</em>
   * <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1: <em>Тон лоткат тячи или <b>аф</b> ?</em>
 * <em>И</em>
   * <tt><a href="mdf_jr-pos-CCONJ.html">CCONJ</a></tt> 7: <em><b>И</b> уендихть сенем менельть потмоса , кода оцю морява .</em>
   * <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1: <em><b>И</b> , пади , няевонь кеветиешка кизоса цёранякс .</em>
 * <em>Эрь</em>
-  * <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 1: <em><b>Эрь</b> шиня стяшендан табуреткать лангс и кяднень венепнесайне поталакти , а поталаксь нинге вяре , вяре .</em>
+  * <tt><a href="mdf_jr-pos-DET.html">DET</a></tt> 2: <em><b>Эрь</b> од васьфтемась канды ломаттненди од кенярдема , оцю паваз .</em>
   * <tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> 1: <em><b>Эрь</b> , аванят , аф озадонь седи улефтяряль , дяряй сявольхце илянь пря урмать , ...</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.555478).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.563574).
 
 The 1st highest number of forms (1) was observed with the lemma “аф”: <em>аф</em>.
 

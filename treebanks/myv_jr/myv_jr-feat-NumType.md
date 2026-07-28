@@ -44,7 +44,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Mult` (26; 67% of non-empty `NumType`): <em>весть, сеедьстэ, Ламоксть, колмоксть, зярыяксть, Чуросто, вестькак, кавксть, кеменьшкаксть, Кавкстешкаксть</em>
 * `Mult,Ord` (7; 18% of non-empty `NumType`): <em>омбоцеде, колмоцеде, васенцеде</em>
 * `Ord` (2; 5% of non-empty `NumType`): <em>васенцеде, васняяк</em>
-* `EMPTY` (1634): <em>ансяк, кода, пек, истя, мейле, ней, уш, седе, прок, яла</em>
+* `EMPTY` (1639): <em>ансяк, кода, пек, истя, ней, мейле, уш, седе, прок, яла</em>
 
 <table>
   <tr><th>Paradigm <i>васенцеде</i></th><th><tt>Mult,Ord</tt></th><th><tt>Ord</tt></th></tr>
@@ -65,7 +65,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 * `Card` (9; 26% of non-empty `NumType`): <em>вейкесь, вейкеськак</em>
 * `Dist` (4; 11% of non-empty `NumType`): <em>Конат-конат, Мезе-мезе, кинь-кинь, кона-кона</em>
 * `Sets` (22; 63% of non-empty `NumType`): <em>кавонест, колмонест, ськамонзо, ламонест, ниленест, ськамон, ськамонк</em>
-* `EMPTY` (1164): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
+* `EMPTY` (1170): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
 
 `NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `NumType`.
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (33; 100% of non-empty `NumType`): <em>омбоце, васенце, омбоцесь, колмоцесь, Васенценть, Колмоце, Колмоцекс, васень, кеменце, омбоценть</em>
-* `EMPTY` (868): <em>од, паро, покш, кодамо, арась, якстере, мазый, сэрей, лембе, пиже</em>
+* `EMPTY` (869): <em>од, паро, покш, кодамо, арась, якстере, мазый, сэрей, лембе, пиже</em>
 
 ### `DET`
 
@@ -101,7 +101,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Frac` (1; 100% of non-empty `NumType`): <em>пель</em>
-* `EMPTY` (5119): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
+* `EMPTY` (5141): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, ялгат, кедензэ, кудов, прянзо</em>
 
 ## Relations with Agreement in `NumType`
 

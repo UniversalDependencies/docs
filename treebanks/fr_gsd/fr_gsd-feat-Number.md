@@ -11,20 +11,22 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_gsd-feat-Number.html">Number</a></tt>, <tt><a href="fr_gsd-feat-Number-psor.html">Number[psor]</a></tt>.
 
-209213 tokens (52%) have a non-empty value of `Number`.
-26851 types (63%) occur at least once with a non-empty value of `Number`.
-17013 lemmas (52%) occur at least once with a non-empty value of `Number`.
-The feature is used with 10 part-of-speech tags: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (71815; 18% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (61067; 15% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (24570; 6% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (22775; 6% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (12226; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (11255; 3% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (4979; 1% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (419; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (106; 0% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+223951 tokens (56%) have a non-empty value of `Number`.
+29148 types (68%) occur at least once with a non-empty value of `Number`.
+19194 lemmas (58%) occur at least once with a non-empty value of `Number`.
+The feature is used with 10 part-of-speech tags: <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (75029; 19% instances), <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (61068; 15% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (24570; 6% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (23820; 6% instances), <tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (12226; 3% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (11255; 3% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (10479; 3% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (4979; 1% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (419; 0% instances), <tt><a href="fr_gsd-pos-X.html">X</a></tt> (106; 0% instances).
 
 ### `NOUN`
 
-71815 <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> tokens (95% of all `NOUN` tokens) have a non-empty value of `Number`.
+75029 <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (41650; 56%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (18058; 25% of non-empty `Number`): <em>ans, années, enfants, habitants, personnes, jours, droits, points, hommes, membres</em>
-* `Sing` (53757; 75% of non-empty `Number`): <em>ville, partie, nom, monde, région, commune, groupe, famille, année, siècle</em>
-* `EMPTY` (3516): <em>pays, fois, temps, cours, prix, mars, mois, cas, fils, grâce</em>
+* `Plur` (18669; 25% of non-empty `Number`): <em>ans, années, enfants, pays, habitants, personnes, jours, droits, points, hommes</em>
+* `Sing` (56360; 75% of non-empty `Number`): <em>ville, partie, nom, monde, région, commune, groupe, temps, famille, année</em>
+* `EMPTY` (301): <em>grâce, peu, suite, face, contre, Grace, Hc, IP, NO, castor</em>
 
 <table>
   <tr><th>Paradigm <i>année</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -33,14 +35,14 @@ The feature is used with 10 part-of-speech tags: <tt><a href="fr_gsd-pos-NOUN.ht
 
 ### `DET`
 
-61067 <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+61068 <tt><a href="fr_gsd-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (53441; 88%), <tt><a href="fr_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (43302; 71%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_gsd-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (53439; 88%), <tt><a href="fr_gsd-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (43302; 71%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (14170; 23% of non-empty `Number`): <em>les, des, ses, ces, de, plusieurs, leurs, quelques, d', certains</em>
-* `Sing` (46897; 77% of non-empty `Number`): <em>le, la, l', un, une, son, sa, cette, ce, leur</em>
+* `Plur` (14172; 23% of non-empty `Number`): <em>les, des, ses, ces, de, plusieurs, leurs, quelques, d', certains</em>
+* `Sing` (46896; 77% of non-empty `Number`): <em>le, la, l', un, une, son, sa, cette, ce, leur</em>
 * `EMPTY` (30): <em>d', de</em>
 
 <table>
@@ -50,12 +52,12 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="fr_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt></tt></td><td></td><td><em>les</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=NOUN</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>le</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>le</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>le, L'</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>le, l'</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>le</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la, l'</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>la, là</em></td><td></td></tr>
-  <tr><td><tt></tt></td><td><em>l', l</em></td><td><em>les</em></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>L</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>l'</em></td><td><em>les</em></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>l</em></td><td></td></tr>
 </table>
 
 ### `VERB`
@@ -99,13 +101,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-22775 <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Number`.
+23820 <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12726; 53%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (6282; 28% of non-empty `Number`): <em>autres, tous, toutes, nombreuses, politiques, jeunes, premiers, propres, économiques, grands</em>
-* `Sing` (16493; 72% of non-empty `Number`): <em>même, premier, première, autre, politique, deuxième, française, dernier, grande, grand</em>
-* `EMPTY` (1046): <em>français, nombreux, anglais, chaleureux, religieux, beau, super, vieux, gros, néerlandais</em>
+* `Plur` (6649; 28% of non-empty `Number`): <em>autres, tous, nombreux, toutes, nombreuses, premiers, grands, premières, grandes, derniers</em>
+* `Sing` (17171; 72% of non-empty `Number`): <em>premier, première, même, français, française, dernier, grande, grand, nouveau, autre</em>
 
 <table>
   <tr><th>Paradigm <i>premier</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -153,7 +156,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PRON`
 
-11255 <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> tokens (62% of all `PRON` tokens) have a non-empty value of `Number`.
+11255 <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> tokens (64% of all `PRON` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="fr_gsd-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (11102; 99%), <tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt> (9470; 84%), <tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt> (8352; 74%), <tt><a href="fr_gsd-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (8195; 73%), <tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7256; 64%), <tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6757; 60%).
 
@@ -161,27 +164,44 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (2029; 18% of non-empty `Number`): <em>ils, nous, vous, les, elles, autres, ceux, eux, leur, tous</em>
 * `Sing` (9226; 82% of non-empty `Number`): <em>il, elle, c', on, lui, je, le, j', l', un</em>
-* `EMPTY` (6834): <em>qui, se, s', y, où, ce, dont, en, qu', que</em>
+* `EMPTY` (6432): <em>qui, se, s', y, ce, dont, en, qu', que, quoi</em>
 
 <table>
   <tr><th>Paradigm <i>lui</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>le</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>la</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt></tt></td><td><em>l'</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt></tt></td><td><em>l'</em></td><td><em>les</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>lui</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt></tt></td><td><em>lui</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt></tt></td><td><em>lui</em></td><td><em>leur</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>il</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>il, -il</em></td><td><em>ils</em></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>il, -il</em></td><td><em>ils, -ils</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>il</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>elle, -elle</em></td><td><em>elles</em></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>elle</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>-t-il, -il, le, lui</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>elle</em></td><td><em>Elles</em></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>-t-il, -il, le, lui</em></td><td><em>-ils</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>t-il, -il, -le, t'il</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>-t-elle, -elle, la</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt></tt></td><td><em>l'</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=Yes</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>lui</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>-t-elle, -elle, la</em></td><td><em>-elles, ELLES</em></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=No</tt></tt></td><td><em>l'</em></td><td><em>les, leur</em></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=Yes</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>lui</em></td><td><em>eux</em></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=Yes</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_gsd-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>-eux</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Emph.html">Emph</a></tt><tt>=Yes</tt>|<tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>elle</em></td><td><em>elles</em></td></tr>
 </table>
+
+### `NUM`
+
+10479 <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `Number`.
+
+`NUM` tokens may have the following values of `Number`:
+
+* `Plur` (3878; 37% of non-empty `Number`): <em>deux, trois, quatre, 2, cinq, 3, 4, six, 5, 20</em>
+* `Sing` (6601; 63% of non-empty `Number`): <em>2010, 2009, 2008, 2011, 2007, 2006, II, 2005, 2, 2002</em>
+
+<table>
+  <tr><th>Paradigm <i>deux</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>deux</em></td><td><em>deux</em></td></tr>
+</table>
+
+`Number` seems to be **lexical feature** of `NUM`. 92% lemmas (1705) occur only with one value of `Number`.
 
 ### `PROPN`
 
@@ -235,26 +255,17 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 
 `Number` seems to be **lexical feature** of `X`. 100% lemmas (104) occur only with one value of `Number`.
 
-### `NUM`
-
-1 <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Number`.
-
-`NUM` tokens may have the following values of `Number`:
-
-* `Plur` (1; 100% of non-empty `Number`): <em>1961</em>
-* `EMPTY` (10479): <em>deux, trois, 2, 3, 5, quatre, 2010, 4, 20, 2009</em>
-
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="fr_gsd-dep-det.html">det</a></tt>]--> DET</tt> (51195; 96%),
-<tt>NOUN --[<tt><a href="fr_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (17658; 91%),
-<tt>NOUN --[<tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (12318; 59%),
-<tt>VERB --[<tt><a href="fr_gsd-dep-obl-mod.html">obl:mod</a></tt>]--> NOUN</tt> (5313; 55%),
-<tt>VERB --[<tt><a href="fr_gsd-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (5038; 72%),
+<tt>NOUN --[<tt><a href="fr_gsd-dep-det.html">det</a></tt>]--> DET</tt> (53409; 100%),
+<tt>NOUN --[<tt><a href="fr_gsd-dep-amod.html">amod</a></tt>]--> ADJ</tt> (19244; 99%),
+<tt>NOUN --[<tt><a href="fr_gsd-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (13362; 64%),
+<tt>VERB --[<tt><a href="fr_gsd-dep-obl-mod.html">obl:mod</a></tt>]--> NOUN</tt> (5692; 59%),
+<tt>VERB --[<tt><a href="fr_gsd-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (5039; 72%),
+<tt>VERB --[<tt><a href="fr_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4774; 91%),
 <tt>PROPN --[<tt><a href="fr_gsd-dep-det.html">det</a></tt>]--> DET</tt> (4773; 99%),
-<tt>VERB --[<tt><a href="fr_gsd-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4653; 88%),
-<tt>NOUN --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4041; 77%),
-<tt>NOUN --[<tt><a href="fr_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (2953; 70%),
-<tt>VERB --[<tt><a href="fr_gsd-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (2834; 84%).
+<tt>NOUN --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4260; 81%),
+<tt>NOUN --[<tt><a href="fr_gsd-dep-acl.html">acl</a></tt>]--> VERB</tt> (3064; 72%),
+<tt>NOUN --[<tt><a href="fr_gsd-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2910; 92%).
 

@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	Sam	Sam	PROPN	_	_	3	vocative	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	malfermu	malfermi	VERB	_	Mood=Imp|VerbForm=Fin	0	root	_	_
-4	la	la	DET	_	_	5	det	_	_
+4	la	la	DET	_	Definite=Def|PronType=Art	5	det	_	_
 5	fenestron	fenestro	NOUN	_	Case=Acc|Number=Sing	3	obj	_	SpaceAfter=No
 6	!	!	PUNCT	_	_	3	punct	_	_
 

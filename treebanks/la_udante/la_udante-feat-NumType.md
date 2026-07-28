@@ -37,7 +37,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 * `Dist` (3; 1% of non-empty `NumType`): <em>duodena, singulis, tredena</em>
 * `Ord` (284; 99% of non-empty `NumType`): <em>prima, primo, primum, primi, secundo, quarto, secunda, primus, tertio, tertium</em>
-* `EMPTY` (3683): <em>humanum, manifestum, necesse, verum, romanorum, illustre, romanus, falsum, inpossibile, propria</em>
+* `EMPTY` (3682): <em>humanum, manifestum, necesse, verum, romanorum, illustre, romanus, falsum, inpossibile, propria</em>
 
 <table>
   <tr><th>Paradigm <i>singuli</i></th><th><tt>Ord</tt></th><th><tt>Dist</tt></th></tr>
@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Card` (60; 50% of non-empty `NumType`): <em>tantum, multum, plus, quantum, plurimum</em>
 * `Mult` (6; 5% of non-empty `NumType`): <em>semel, bis, dupliciter, ter, multotiens</em>
 * `Ord` (55; 45% of non-empty `NumType`): <em>primo, primum, tertio, secundo, quinto, Quarto, primitus, tertium</em>
-* `EMPTY` (2964): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
+* `EMPTY` (2971): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
 
 `NumType` seems to be **lexical feature** of `ADV`. 100% lemmas (16) occur only with one value of `NumType`.
 

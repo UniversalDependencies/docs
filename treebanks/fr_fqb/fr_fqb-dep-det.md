@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3805 nodes (16%) are attached to their parents as `det`.
+3814 nodes (16%) are attached to their parents as `det`.
 
-3805 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.11406044678055.
+3814 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11379129522811.
 
-The following 8 pairs of parts of speech are connected with `det`: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3190; 84% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (538; 14% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (53; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (7; 0% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `det`: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3200; 84% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (538; 14% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (53; 1% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

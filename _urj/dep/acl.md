@@ -10,4 +10,4 @@ udver: '2'
 `acl` is used for finite and non-finite clauses that modify nominals. In Uralic
 languages we recommend also the subtype of use [acl:relcl](), otherwise the
 Universal guidelines give a good overview of the dependency relation.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:57 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:25 CEST -->

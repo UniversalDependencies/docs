@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-PUD: Relations: `aux:caus`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="fr_pud-dep-aux.html">aux</a></tt>.
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_pud-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="fr_pud-dep-aux-tense.html">aux:tense</a></tt>.
 
 9 nodes (0%) are attached to their parents as `aux:caus`.
@@ -27,7 +27,7 @@ The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a h
 2	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	ce	ce	PRON	PDEM	PronType=Dem	0	root	_	_
 4	qui	qui	PRON	WP	PronType=Rel	7	nsubj:caus	_	_
-5	nous	le	PRON	PRP	Number=Plur|Person=1|PronType=Prs	7	obj:agent	_	_
+5	nous	nous	PRON	PRP	Number=Plur|Person=1|PronType=Prs	7	obj:agent	_	_
 6	fait	faire	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:caus	_	_
 7	revenir	revenir	VERB	VB	VerbForm=Inf	3	acl:relcl	_	_
 8	encore	encore	ADV	RB	_	7	advmod	_	_

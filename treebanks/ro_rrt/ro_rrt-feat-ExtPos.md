@@ -9,21 +9,21 @@ udver: '2'
 This feature is language-specific.
 It occurs with 8 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `DET`, `INTJ`, `PRON`, `SCONJ`.
 
-4195 tokens (2%) have a non-empty value of `ExtPos`.
+4198 tokens (2%) have a non-empty value of `ExtPos`.
 114 types (0%) occur at least once with a non-empty value of `ExtPos`.
-70 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 12 part-of-speech tags: <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (3302; 2% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (548; 0% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (106; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (81; 0% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (76; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (62; 0% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+69 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 12 part-of-speech tags: <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (3305; 2% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (548; 0% instances), <tt><a href="ro_rrt-pos-SCONJ.html">SCONJ</a></tt> (106; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (81; 0% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (76; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (62; 0% instances), <tt><a href="ro_rrt-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (5; 0% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `ADP`
 
-3302 <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> tokens (11% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+3305 <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> tokens (11% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADP` and `ExtPos` co-occurred: <tt><a href="ro_rrt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (3302; 100%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3300; 100%).
+The most frequent other feature values with which `ADP` and `ExtPos` co-occurred: <tt><a href="ro_rrt-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (3305; 100%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (3303; 100%).
 
 `ADP` tokens may have the following values of `ExtPos`:
 
 * `ADJ` (59; 2% of non-empty `ExtPos`): <em>în, de, din, fără, la, pe</em>
-* `ADP` (1874; 57% of non-empty `ExtPos`): <em>de, în, cu, din, până, pe, prin, de-a, de-, spre</em>
+* `ADP` (1877; 57% of non-empty `ExtPos`): <em>de, în, cu, din, până, pe, prin, de-, de-a, spre</em>
 * `ADV` (1043; 32% of non-empty `ExtPos`): <em>în, de, pe, din, cu, la, ca, in, prin, după</em>
 * `SCONJ` (326; 10% of non-empty `ExtPos`): <em>după, pentru, în, pe, de, cu, din, fără, până</em>
 

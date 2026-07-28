@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Spanish-GSD: Relations: `expl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `expl`: <tt><a href="es_gsd-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="es_gsd-dep-expl-pv.html">expl:pv</a></tt>.
+There are 3 language-specific subtypes of `expl`: <tt><a href="es_gsd-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="es_gsd-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="es_gsd-dep-expl-pv.html">expl:pv</a></tt>.
 
-10 nodes (0%) are attached to their parents as `expl`.
+11 nodes (0%) are attached to their parents as `expl`.
 
-9 instances of `expl` (90%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4.
+10 instances of `expl` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.27272727272727.
 
-The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (10; 100% instances).
+The following 1 pairs of parts of speech are connected with `expl`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (11; 100% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 3 expl	color:blue
 1	A	a	ADP	_	_	2	case	_	_
-2	Piñera	piñera	PROPN	_	_	5	obl:arg	_	_
+2	Piñera	Piñera	PROPN	_	_	5	obl:arg	_	_
 3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
 4	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	ido	ir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_

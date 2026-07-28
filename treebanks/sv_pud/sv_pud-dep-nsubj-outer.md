@@ -33,8 +33,8 @@ The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 8	varje	varje	DET	DT|UTR/NEU|SIN|IND	Definite=Ind|Number=Sing|PronType=Tot	10	det	10:det	_
 9	specialiserat	specialiserad	ADJ	PC|PRF|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	10	amod	10:amod	_
 10	distrikt	distrikt	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	6	conj	6:conj:och|11:nsubj	_
-11	tar	ta	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-12	upp	upp	ADV	PL	_	11	compound:prt	11:compound:prt	_
+11	tar	ta	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	ParsemeMWE=1:IVPC.full
+12	upp	upp	ADV	PL	_	11	compound:prt	11:compound:prt	ParsemeMWE=1
 13	ett	en	DET	DT|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	15	det	15:det	_
 14	helt	hel	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	15	amod	15:amod	_
 15	fält	fält	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	11	obj	11:obj	SpaceAfter=No

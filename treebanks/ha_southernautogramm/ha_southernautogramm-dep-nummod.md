@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-46 nodes (0%) are attached to their parents as `nummod`.
+47 nodes (0%) are attached to their parents as `nummod`.
 
-46 instances of `nummod` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.1304347826087.
+47 instances of `nummod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.12765957446809.
 
-The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> (46; 100% instances).
+The following 1 pairs of parts of speech are connected with `nummod`: <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> (47; 100% instances).
 
 
 ~~~ conllu
@@ -26,10 +26,10 @@ The following 1 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=355696|AlignEnd=355908|Gloss=PUNCT
 3	daːwàː	daːwàː	NOUN	_	Definite=Ind	6	dislocated	_	AlignBegin=355908|AlignEnd=356120|Gloss=guinea-corn
 4	<	<	PUNCT	_	_	3	punct	_	AlignBegin=356120|AlignEnd=356332|Gloss=PUNCT
-5	mukàn	_	AUX	kàn	Aspect=Hab|Number=Plur|Person=1	6	aux	_	AlignBegin=356332|AlignEnd=356544|Gloss=1Plur.Hab
+5	mukàn	kàn	AUX	_	Aspect=Hab|Number=Plur|Person=1	6	aux	_	AlignBegin=356332|AlignEnd=356544|Gloss=1Plur.Hab
 6	iyà	iyàː	VERB	_	_	0	root	_	AlignBegin=356544|AlignEnd=356756|Gloss=can
 7	saːmùn	saːm-	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	6	obj	_	AlignBegin=356756|AlignEnd=356862|Gloss=get.Vnoun.Cons|wordform=saːmù
-8	bùhuː	bùhuː	NOUN	_	Definite=Ind	7	nmod	_	AlignBegin=356968|AlignEnd=357180|Gloss=sack
+8	bùhuː	bùhuː	NOUN	_	Definite=Ind	7	obj	_	AlignBegin=356968|AlignEnd=357180|Gloss=sack
 9	kàman	kàman	ADP	_	_	10	discourse	_	AlignBegin=357180|AlignEnd=357392|Gloss=like
 10	goːmà	goːmà	NUM	_	_	8	nummod	_	AlignBegin=357392|AlignEnd=357604|Gloss=ten
 11	hakà	hakà	ADV	_	_	10	advmod	_	AlignBegin=357604|AlignEnd=357816|Gloss=like_this

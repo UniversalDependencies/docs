@@ -24,4 +24,4 @@ The `NOUN` tag is intended for common nouns only. See [PROPN](naq-pos/PROPN) for
 * _mîǁguib_ "decision"
 
 * _mîs_ "saying"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:50 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:36 CEST -->

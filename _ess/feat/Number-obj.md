@@ -24,4 +24,4 @@ The Yupik transitive verb inflects for the number (and person) of object. If obj
 #### Examples
 
 * [ess] _Pagunghaat <b>aavgii</b>._ "<b>She/he divided</b> the crowberries in two." The verb ending _-i_ `Number[obj]=Plur` in _aavgii_ agrees with the object _pagunghaat_ "crowberries" `Number=Plur` in number.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:30 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:05 CEST -->

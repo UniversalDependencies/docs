@@ -24,4 +24,4 @@ This feature marks gender agreement of a causative verb with the causee.
 #### Examples
 
 * [ab] _и-<b>а</b>-сы-р:ба-п_ [DO.3Sg-<b>Causee.3SgNH</b>-Subj.1Sg-CAUS.see-Fut1] ‘I will show it to it.NonHum’ `Dyn=Yes|Gender[cs]=Neut|Number[cs]=Sing|Number[subj]=Sing|Person[cs]=3|Person[obj]=3|Person[subj]=1|Tense=Fut|Trans=Yes|VerbForm=Fin|Voice=Cau`
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:17 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:54 CEST -->

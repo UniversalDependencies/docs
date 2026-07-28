@@ -44,7 +44,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Card` (1; 20% of non-empty `NumType`): <em>ӧтикӧ</em>
 * `Dist,Mult` (2; 40% of non-empty `NumType`): <em>кыкисьӧн, кыкисьӧн-куимисьӧн</em>
 * `Mult,Ord` (2; 40% of non-empty `NumType`): <em>дасöтiсь</em>
-* `EMPTY` (89): <em>кыдз, ни, сэсся, кытӧн, кӧр, сё, талун, чожа, эшӧ, кынымкӧ</em>
+* `EMPTY` (97): <em>кыдз, ни, сэсся, кытӧн, кӧр, сё, талун, чожа, эшӧ, кынымкӧ</em>
 
 ### `ADJ`
 
@@ -66,5 +66,5 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Sets` (1; 100% of non-empty `NumType`): <em>кыкнаннысӧ</em>
-* `EMPTY` (108): <em>сія, ме, тэ, менам, мый, сійӧ, тэнат, Сiя, меным, сылӧ</em>
+* `EMPTY` (120): <em>сія, ме, тэ, менам, мый, тэнат, сійӧ, Сiя, меным, нія</em>
 

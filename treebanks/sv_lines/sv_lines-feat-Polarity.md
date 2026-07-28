@@ -32,5 +32,5 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (124; 100% of non-empty `Polarity`): <em>aldrig, ingalunda, knappast</em>
-* `EMPTY` (7632): <em>så, där, ut, upp, in, bara, hur, här, också, nu</em>
+* `EMPTY` (7629): <em>så, där, ut, upp, in, bara, hur, här, också, nu</em>
 

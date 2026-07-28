@@ -13,7 +13,7 @@ This relation is universal.
 1096 instances of `mark` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 4.00546946216955.
 
-The following 21 pairs of parts of speech are connected with `mark`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (451; 41% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (396; 36% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (73; 7% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (51; 5% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (47; 4% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (13; 1% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (11; 1% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 21 pairs of parts of speech are connected with `mark`: <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (451; 41% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (396; 36% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (73; 7% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (51; 5% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (47; 4% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (15; 1% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (13; 1% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (12; 1% instances), <tt><a href="fr_rhapsodie-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-CCONJ.html">CCONJ</a></tt> (6; 1% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="fr_rhapsodie-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_rhapsodie-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_rhapsodie-pos-AUX.html">AUX</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-DET.html">DET</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_rhapsodie-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_rhapsodie-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_rhapsodie-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_rhapsodie-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,11 +24,11 @@ The following 21 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 8 6 mark	color:blue
 1	euh	euh	INTJ	_	_	4	discourse	_	AlignBegin=134351|AlignEnd=134744|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=134744|AlignEnd=134986
-3	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=134986|AlignEnd=135171
-4	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=135171|AlignEnd=135234
+3	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=134986|AlignEnd=135171|Exponence[Number]=Inherent|Exponence[Person]=Inherent
+4	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=135171|AlignEnd=135234|Exponence[Person]=Absent
 5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	AlignBegin=135234|AlignEnd=135309
 6	si	si	SCONJ	_	_	8	mark	_	AlignBegin=135309|AlignEnd=135369
-7	vous	vous	PRON	_	Case=Nom|Emph=No|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	AlignBegin=135369|AlignEnd=135429|Polite=Unknown
+7	vous	vous	PRON	_	Case=Nom|Emph=No|Number=Plur|Person=2|PronType=Prs	8	nsubj	_	AlignBegin=135369|AlignEnd=135429|Exponence[Number]=Inherent|Exponence[Person]=Inherent|Polite=Unknown
 8	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	ccomp	_	AlignBegin=135429|AlignEnd=135556
 9	savoir	savoir	VERB	_	VerbForm=Inf	8	xcomp	_	AlignBegin=135556|AlignEnd=135761|Subject=SubjRaising
 10	pourquoi	pourquoi	ADV	_	PronType=Int	9	obj	_	AlignBegin=135761|AlignEnd=136175|SpaceAfter=No
@@ -45,16 +45,16 @@ The following 21 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 6 5 mark	color:blue
 1	là	là	ADV	_	_	4	advmod	_	AlignBegin=84365|AlignEnd=84445|SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=84445|AlignEnd=84445
-3	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=84445|AlignEnd=84475
-4	viens	venir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=84475|AlignEnd=84605
+3	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	AlignBegin=84445|AlignEnd=84475|Exponence[Number]=Inherent|Exponence[Person]=Inherent
+4	viens	venir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=84475|AlignEnd=84605|Exponence[Person]=Absent
 5	de	de	ADP	_	_	6	mark	_	AlignBegin=84605|AlignEnd=84685
 6	faire	faire	VERB	_	VerbForm=Inf	4	xcomp	_	AlignBegin=84685|AlignEnd=84855|Subject=SubjRaising
-7	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	9	reparandum	_	AlignBegin=84855|AlignEnd=84995|SpaceAfter=No
+7	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	9	reparandum	_	AlignBegin=84855|AlignEnd=84995|HasSpokenGender=OnlySingExceptWithLiaison|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	AlignBegin=84995|AlignEnd=84995
 9	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	10	det	_	AlignBegin=84995|AlignEnd=85095
-10	vaccins	vaccin	NOUN	_	_	6	obj	_	AlignBegin=85095|AlignEnd=85415|Gender[lex]=Masc|Number[ctxt]=Plur
+10	vaccins	vaccin	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	AlignBegin=85095|AlignEnd=85415|Exponence[Gender]=Inherent|Exponence[Number]=Absent
 11	par	par	ADP	_	_	12	case	_	AlignBegin=85415|AlignEnd=85555
-12	exemple	exemple	NOUN	_	_	4	obl:mod	_	AlignBegin=85555|AlignEnd=85835|Gender[lex]=Masc|Number[ctxt]=Sing|SpaceAfter=No
+12	exemple	exemple	NOUN	_	Gender=Masc|Number=Sing	4	obl:mod	_	AlignBegin=85555|AlignEnd=85835|Exponence[Gender]=Inherent|Exponence[Number]=Absent|LiaisonPossibleBefore=Yes|SpaceAfter=No
 13	.	.	PUNCT	_	_	4	punct	_	AlignBegin=85835|AlignEnd=85835
 
 ~~~
@@ -73,11 +73,11 @@ The following 21 pairs of parts of speech are connected with `mark`: <tt><a href
 5	,	,	PUNCT	_	_	9	punct	_	AlignBegin=137750|AlignEnd=137750
 6	euh	euh	INTJ	_	_	9	discourse	_	AlignBegin=137750|AlignEnd=138460|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	AlignBegin=138460|AlignEnd=138460
-8	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	AlignBegin=138460|AlignEnd=138570
-9	travaille	travailler	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=138570|AlignEnd=138870
+8	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	AlignBegin=138460|AlignEnd=138570|Exponence[Number]=Inherent|Exponence[Person]=Inherent
+9	travaille	travailler	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=138570|AlignEnd=138870|Exponence[Person]=Absent
 10	dans	dans	ADP	_	_	12	case	_	AlignBegin=138870|AlignEnd=138970
-11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	AlignBegin=138970|AlignEnd=139000
-12	privé	privé	NOUN	_	_	9	obl:arg	_	AlignBegin=139000|AlignEnd=139400|Gender[lex]=Masc|Number[ctxt]=Sing
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	AlignBegin=138970|AlignEnd=139000|HasSpokenGender=OnlySingExceptWithLiaison
+12	privé	privé	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	AlignBegin=139000|AlignEnd=139400|Exponence[Gender]=Inherent|Exponence[Number]=Absent
 13	là	là	ADV	_	_	12	discourse	_	AlignBegin=139400|AlignEnd=139700|SpaceAfter=No
 14	.	.	PUNCT	_	_	9	punct	_	AlignBegin=139700|AlignEnd=139700
 

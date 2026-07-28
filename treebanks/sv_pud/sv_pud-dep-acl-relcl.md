@@ -77,7 +77,7 @@ The following 17 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 5	Joseph	Joseph	PROPN	PM|NOM	Case=Nom	2	obl:agent	2:obl:agent|8:nsubj|10:nsubj	_
 6	Burgoyne	Burgoyne	PROPN	PM|NOM	Case=Nom	5	flat:name	5:flat:name	_
 7	som	som	PRON	HP|-|-|-	PronType=Int,Rel	8	nsubj	5:ref	_
-8	avsåg	avse	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl:relcl	_
+8	avsåg	avse	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	5:acl:relcl	ParsemeMWE=1:NotMWE
 9	att	att	PART	IE	_	10	mark	10:mark	_
 10	nå	nå	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	8	xcomp	8:xcomp	_
 11	Albany	Albany	PROPN	PM|NOM	Case=Nom	10	obj	10:obj	SpaceAfter=No

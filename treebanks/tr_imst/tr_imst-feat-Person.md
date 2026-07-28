@@ -134,7 +134,7 @@ The most frequent other feature values with which `PROPN` and `Person` co-occurr
 
 2148 <tt><a href="tr_imst-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1802; 84%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1802; 84%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1695; 79%), <tt><a href="tr_imst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1189; 55%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="tr_imst-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1802; 84%), <tt><a href="tr_imst-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1802; 84%), <tt><a href="tr_imst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1695; 79%), <tt><a href="tr_imst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1367; 64%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -219,14 +219,14 @@ The most frequent other feature values with which `NUM` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>NOUN --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1895; 100%),
-<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1094; 65%),
-<tt>NOUN --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> NOUN</tt> (726; 100%),
-<tt>NOUN --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (698; 100%),
+<tt>NOUN --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (1896; 100%),
+<tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1095; 65%),
+<tt>NOUN --[<tt><a href="tr_imst-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (797; 100%),
+<tt>NOUN --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> NOUN</tt> (730; 100%),
 <tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (416; 67%),
 <tt>VERB --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (390; 81%),
 <tt>ADJ --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (367; 98%),
-<tt>NOUN --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (366; 100%),
+<tt>NOUN --[<tt><a href="tr_imst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (367; 100%),
 <tt>NOUN --[<tt><a href="tr_imst-dep-amod.html">amod</a></tt>]--> NOUN</tt> (340; 100%),
 <tt>NOUN --[<tt><a href="tr_imst-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (333; 100%).
 

@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Add`.
 
-278 tokens (1%) have a non-empty value of `Clitic`.
-228 types (3%) occur at least once with a non-empty value of `Clitic`.
-190 lemmas (6%) occur at least once with a non-empty value of `Clitic`.
-The feature is used with 11 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (114; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (49; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (42; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (30; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (16; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+280 tokens (1%) have a non-empty value of `Clitic`.
+230 types (3%) occur at least once with a non-empty value of `Clitic`.
+192 lemmas (6%) occur at least once with a non-empty value of `Clitic`.
+The feature is used with 11 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (114; 1% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (50; 0% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (43; 0% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (30; 0% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (16; 0% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -28,31 +28,31 @@ The most frequent other feature values with which `NOUN` and `Clitic` co-occurre
 
 ### `VERB`
 
-49 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Clitic`.
+50 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `VERB` and `Clitic` co-occurred: <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (48; 98%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (48; 98%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (37; 76%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (36; 73%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (36; 73%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (35; 71%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (35; 71%).
+The most frequent other feature values with which `VERB` and `Clitic` co-occurred: <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (49; 98%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (49; 98%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (38; 76%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (37; 74%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (37; 74%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (36; 72%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (36; 72%).
 
 `VERB` tokens may have the following values of `Clitic`:
 
-* `Add` (49; 100% of non-empty `Clitic`): <em>кортамскак, соваськак, теезьгак, Оймсемеяк, Содавлиньгак, Ярсамодояк, аздытькак, арсеяк, булдордыяк, валомояк</em>
+* `Add` (50; 100% of non-empty `Clitic`): <em>кортамскак, соваськак, теезьгак, Оймсемеяк, Содавлиньгак, Ярсамодояк, аздытькак, арсеяк, булдордыяк, валомояк</em>
 
-`Clitic` seems to be **lexical feature** of `VERB`. 100% lemmas (40) occur only with one value of `Clitic`.
+`Clitic` seems to be **lexical feature** of `VERB`. 100% lemmas (41) occur only with one value of `Clitic`.
 
 ### `ADV`
 
-42 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Clitic`.
+43 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Clitic`.
 
-The most frequent other feature values with which `ADV` and `Clitic` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (42; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (34; 81%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (30; 71%).
+The most frequent other feature values with which `ADV` and `Clitic` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (35; 81%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (31; 72%).
 
 `ADV` tokens may have the following values of `Clitic`:
 
-* `Add` (42; 100% of non-empty `Clitic`): <em>седеяк, алкукскак, васняяк, нейгак, Секскак, башкаяк, вестькак, икелеяк, истяяк, лиякскак</em>
+* `Add` (43; 100% of non-empty `Clitic`): <em>седеяк, алкукскак, васняяк, нейгак, Секскак, башкаяк, вестькак, икелеяк, истяяк, кодаяк</em>
 
-`Clitic` seems to be **lexical feature** of `ADV`. 100% lemmas (17) occur only with one value of `Clitic`.
+`Clitic` seems to be **lexical feature** of `ADV`. 100% lemmas (18) occur only with one value of `Clitic`.
 
 ### `PRON`
 
-30 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Clitic`.
+30 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Clitic`.
 
 The most frequent other feature values with which `PRON` and `Clitic` co-occurred: <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (27; 90%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (22; 73%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (19; 63%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (19; 63%).
 

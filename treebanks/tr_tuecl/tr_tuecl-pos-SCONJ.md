@@ -13,7 +13,7 @@ The 10 most frequent `SCONJ` lemmas: <em>ki, eğer, çünkü</em>
 
 The 10 most frequent `SCONJ` types:  <em>ki, Eğer, çünkü</em>
 
-The 10 most frequent ambiguous lemmas: <em>ki</em> (<tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> 3, <tt><a href="tr_tuecl-pos-SCONJ.html">SCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>ki</em> (<tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="tr_tuecl-pos-SCONJ.html">SCONJ</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="tr_tuecl-pos-SCONJ.html">SCONJ</a></tt> 2)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ki</em> (<tt><a href="tr_tuecl-pos-NO
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.501916).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.503846).
 
 The 1st highest number of forms (1) was observed with the lemma “eğer”: <em>Eğer</em>.
 

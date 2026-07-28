@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-72 tokens (2%) have a non-empty value of `Polarity`.
-8 types (1%) occur at least once with a non-empty value of `Polarity`.
-6 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ps_sikaram-pos-PART.html">PART</a></tt> (58; 1% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (5; 0% instances).
+92 tokens (2%) have a non-empty value of `Polarity`.
+10 types (1%) occur at least once with a non-empty value of `Polarity`.
+8 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ps_sikaram-pos-PART.html">PART</a></tt> (83; 2% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (9; 0% instances).
 
 ### `PART`
 
-58 <tt><a href="ps_sikaram-pos-PART.html">PART</a></tt> tokens (73% of all `PART` tokens) have a non-empty value of `Polarity`.
+83 <tt><a href="ps_sikaram-pos-PART.html">PART</a></tt> tokens (78% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (58; 100% of non-empty `Polarity`): <em>نه, نۀ</em>
-* `EMPTY` (21): <em>بايد, دې, باید</em>
+* `Neg` (83; 100% of non-empty `Polarity`): <em>نه, نۀ, ونه, ورنه, ونۀ, پرې</em>
+* `EMPTY` (23): <em>بايد, دې, باید</em>
 
 ### `ADJ`
 
@@ -32,16 +32,5 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (9; 100% of non-empty `Polarity`): <em>ناسمه, ناخبره, ناسم, ناشونې</em>
-* `EMPTY` (426): <em>نورو, زيات, ښه, ټولنیزو, زده, سمه, ټولنیز, پوهنیزو, اړوند, جوړ</em>
-
-### `AUX`
-
-5 <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> tokens (2% of all `AUX` tokens) have a non-empty value of `Polarity`.
-
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (5; 100%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (5; 100%).
-
-`AUX` tokens may have the following values of `Polarity`:
-
-* `Neg` (5; 100% of non-empty `Polarity`): <em>ونه, ونۀ</em>
-* `EMPTY` (211): <em>ده, شي, به, وي, کېږي, دي, دی, شوی, شوي, دﺉ</em>
+* `EMPTY` (577): <em>نورو, زده, زيات, ښه, سمه, ټولنیز, ټولنیزو, پوهنیزو, اړ, جوړ</em>
 

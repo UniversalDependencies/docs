@@ -30,4 +30,4 @@ _which_, _what_, _whatever_            | `PronType=Int` or `PronType=Rel`
 
 \*\* Except reciprocal _each other_ and _one another_: see [PRON](https://universaldependencies.org/en/pos/PRON.html#reciprocal-pronouns)
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:48 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:35 CEST -->

@@ -25,13 +25,13 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	_	_	ADV	WRB	PronType=Int	3	advmod	3:advmod	Discourse=contingency-condition:15->16:1:dm-when-85-gold|Entity=(17-event-new-nnnnn-cf6-9-disc|Lem=*LOWER*|Len=4|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:when:85:91-104:86-90
 2	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Entity=(5-person-giv:inact-nnnnn-cf1-1-ana)|Lem=_|Len=3
 3	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	9:advcl:when	Lem=_|Len=5
-4	_	_	ADJ	JJR	Degree=Cmp	5	amod	5:amod	Entity=(18-object-new-nnsnn-cf3-2-sgl|Lem=_|Len=4
+4	_	_	ADJ	JJR	Degree=Cmp	5	amod	5:amod	Entity=(18-object-new-nnsnn-cf3-2-coref|Lem=_|Len=4
 5	_	_	NOUN	NN	Number=Sing	3	obj	3:obj	Entity=18)|Lem=_|Len=5|SpaceAfter=No
 6	_	_	PUNCT	,	_	3	punct	3:punct	Lem=_|Len=1
 7	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	9:nsubj	Discourse=joint-other_m:16->7:3:_|Entity=(5-person-giv:act-nnnnn-cf1-1-ana)|Lem=_|Len=3
 8	_	_	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	aux	9:aux	Lem=be|Len=3
 9	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	Lem=devalue|Len=9|MSeg=de-valu-ing
-10	_	_	DET	DT	Definite=Def|PronType=Art	11	det	11:det	Entity=(19-abstract-new-nnnnn-cf2-2-sgl|Lem=_|Len=3
+10	_	_	DET	DT	Definite=Def|PronType=Art	11	det	11:det	Bridge=18<19:comparison-relative|Entity=(19-abstract-acc:inf-nnnnn-cf2-2-sgl|Lem=_|Len=3
 11	_	_	NOUN	NN	Number=Sing	9	obj	9:obj	Lem=_|Len=4
 12	_	_	ADP	IN	_	14	case	14:case	Lem=_|Len=2
 13	_	_	DET	DT	Definite=Def|PronType=Art	14	det	14:det	Entity=(20-abstract-new-nnnnn-cf4-2-sgl|Lem=_|Len=3
@@ -52,7 +52,7 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 19	bgColor:blue
 # visual-style 19	fgColor:white
 # visual-style 19 20 obj	color:blue
-1	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	Discourse=adversative-contrast_m:38->34:2:sem-mrnym-228-231,250-253-_|Entity=(41-object-giv:inact-nnnnn-cf4-3,4-coref(5-person-giv:inact-nnnnn-cf3-1-ana)|Lem=*LOWER*|Len=4
+1	_	_	PRON	PRP$	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	4:nmod:poss	Discourse=adversative-contrast_m:38->34:2:sem-mrnym-211,238-241-_+sem-mrnym-223-225,238-241-_|Entity=(41-object-giv:inact-nnnnn-cf4-3,4-coref(5-person-giv:inact-nnnnn-cf3-1-ana)|Lem=*LOWER*|Len=4
 2	_	_	PROPN	NNP	Number=Sing	4	compound	4:compound	Entity=(42-person-giv:act-nnnnn-cf2*-1,2-coref-Sammy_Sosa|Lem=_|Len=5|MSeg=Samm-y
 3	_	_	PROPN	NNP	Number=Sing	2	flat	2:flat	Entity=42)|Lem=_|Len=4
 4	_	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=41)|Lem=_|Len=4
@@ -64,7 +64,7 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 10	_	_	SCONJ	IN	_	12	mark	12:mark	Discourse=causal-cause:39->38:0:dm-because-247-gold|Lem=_|Len=7|MSeg=be-cause|PDTB=Explicit:Contingency.Cause.Reason:because:247:238-246:248-259
 11	_	_	PRON	EX	PronType=Dem	12	expl	12:expl	Lem=_|Len=5
 12	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	7:advcl:because	Cxn=Existential-CopPred-ThereExpl|Lem=be|Len=3
-13	_	_	ADV	RB	_	14	advmod	14:advmod	Bridge=45<47|Entity=(47-object-acc:inf-nnnnn-cf1-2-coref|Lem=_|Len=2
+13	_	_	ADV	RB	_	14	advmod	14:advmod	Bridge=41<47:comparison-sense;set-subset|Entity=(47-object-acc:inf-nnnnn-cf1-2-coref|Lem=_|Len=2
 14	_	_	ADJ	JJ	Degree=Pos	12	nsubj	12:nsubj	CxnElt=12:Existential-CopPred-ThereExpl.Pivot|Lem=_|Len=4
 15	_	_	ADP	IN	_	16	case	16:case	Lem=_|Len=2
 16	_	_	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	obl	14:obl:of	Entity=47)|Lem=they|Len=4
@@ -84,7 +84,7 @@ The following 12 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 obj	color:blue
-1	_	_	VERB	VB	Person=2|VerbForm=Inf	0	root	0:root	Cxn=Interrogative-Polar-Direct|CxnElt=1:Interrogative-Polar-Direct.Clause|Discourse=context-background:8->16:2:_|Lem=*LOWER*|Len=8
+1	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Cxn=Interrogative-Polar-Direct|CxnElt=1:Interrogative-Polar-Direct.Clause|Discourse=context-background:8->16:2:_|Lem=*LOWER*|Len=8
 2	_	_	ADV	WRB	PronType=Rel	1	obj	1:obj	Lem=_|Len=4
 3	_	_	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj|13:nsubj	Entity=(13-person-new-nnnnn-cf2-1,2-coref-Anne_Burrell|Lem=_|Len=4
 4	_	_	PROPN	NNP	Number=Sing	3	flat	3:flat	Entity=13)|Lem=_|Len=7

@@ -24,16 +24,16 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 3 4 nummod	color:blue
 1	ita	ita	PRON	_	Gender=Fem|Person=3	7	dislocated	_	Gloss=3Fem
 2	maː	maː	PART	_	PartType=Top	1	discourse	_	Gloss=even
-3	ɗaː	ɗaː	NOUN	_	Definite=Ind|Gender=Masc	1	appos	_	Gloss=son.Masc
-4	tar̃à	tar̃à	NUM	_	_	3	nummod	_	Gloss=nine
+3	ɗaː	ɗaː	NOUN	_	Gender=Masc	1	appos	_	Gloss=son.Masc
+4	tar̃à	tar̃à	NUM	_	_	3	nummod	_	Gloss=nine|SpaceAfter=No
 5	,	,	PUNCT	_	_	7	punct	_	Gloss=PUNCT
-6	à	_	AUX	ø	Aspect=Aor|Person=4	7	aux	_	Gloss=4.Aor
+6	à	yà	AUX	_	Mood=Sub|Person=4	7	aux	_	Gloss=4.Sub
 7	ƙanƙàr̃è	ƙanƙàr̃eː	VERB	_	_	0	root	_	Gloss=break.Ach
-8	kwàlhwaː	kwàlhwaː	NOUN	_	Definite=Ind|Gender=Fem	7	obj	_	Gloss=nutshell.Fem
+8	kwàlhwaː	kwàlhwaː	NOUN	_	Gender=Fem	7	obj	_	Gloss=nutshell.Fem|SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
-10	à	_	AUX	ø	Aspect=Aor|Person=4	11	aux	_	Gloss=4.Aor
+10	à	yà	AUX	_	Mood=Sub|Person=4	11	aux	_	Gloss=4.Sub
 11	ajè	ajèː	VERB	_	_	7	parataxis	_	Gloss=put_aside
-12	ɗiyân	ɗiyaː	NOUN	_	Definite=Def|Number=Plur	11	obj	_	Gloss=daughter/seed.Plur.Def
+12	ɗiyân	ɗiyaː	NOUN	_	Definite=Def|Number=Plur	11	obj	_	Gloss=daughter/seed.Plur.Def|SpaceAfter=No
 13	.	.	PUNCT	_	_	7	punct	_	Gloss=.
 
 ~~~
@@ -46,17 +46,17 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 6	fgColor:white
 # visual-style 6 7 nummod	color:blue
 1	in	in	SCONJ	_	_	3	mark	_	Gloss=if
-2	ankà	_	AUX	(n)kà	Aspect=PerfBkg|Person=4	3	aux	_	Background=Yes|Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Person=4	3	aux	_	Gloss=4.Perf.Rel|Relative=Yes
 3	sàːmu	saːmùː	VERB	_	_	11	advcl	_	Gloss=get
 4	kàːjîn	kàːjiː	NOUN	_	Definite=Cons|Number=Plur	3	obj	_	Gloss=hen.Plur.Cons
-5	nan	nan	DET	_	Definite=Def|PronType=Dem	4	det	_	Gloss=Def
+5	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	4	det	_	Gloss=ProxH
 6	suː	suː	PRON	_	Number=Plur|Person=3	4	nmod	_	Gloss=3Plur
-7	huɗu	huɗu	NUM	_	_	6	nummod	_	Gloss=four
+7	huɗu	huɗu	NUM	_	_	6	nummod	_	Gloss=four|SpaceAfter=No
 8	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 9	sai	sai	ADV	_	_	11	advmod	_	Gloss=then
-10	à	_	AUX	ø	Aspect=Aor|Person=4	11	aux	_	Gloss=4.Aor
+10	à	yà	AUX	_	Mood=Sub|Person=4	11	aux	_	Gloss=4.Sub
 11	yankèː	yankèː	VERB	_	_	0	root	_	Gloss=kill
-12	su	su	PRON	_	Person=3	11	obj	_	Gloss=3.Pl
+12	su	su	PRON	_	Person=3	11	obj	_	Gloss=3.Pl|SpaceAfter=No
 13	.	.	PUNCT	_	_	11	punct	_	Gloss=.
 
 ~~~

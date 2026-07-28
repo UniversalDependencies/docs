@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17068 nodes (12%) are attached to their parents as `punct`.
+18737 nodes (12%) are attached to their parents as `punct`.
 
-16884 instances of `punct` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.20014061401453.
+18553 instances of `punct` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.19234669370764.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (9388; 55% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (5284; 31% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (1077; 6% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (1004; 6% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (111; 1% instances), <tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (88; 1% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (45; 0% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (31; 0% instances), <tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (18; 0% instances), <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances).
+The following 13 pairs of parts of speech are connected with `punct`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (10262; 55% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (5804; 31% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (1303; 7% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (1039; 6% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (120; 1% instances), <tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (88; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (45; 0% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (32; 0% instances), <tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (18; 0% instances), <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 punct	color:blue
-1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+1	저는	저+는	PRON	NP+JX	PronType=Prs	5	nsubj	_	_
 2	6월	6+월	NOUN	SN+NNB	_	5	obl	_	_
 3	20일에	20+일+에	ADV	SN+NNB+JKB	_	2	flat	_	_
 4	여행을	여행+을	NOUN	NNG+JKO	_	5	obj	_	_

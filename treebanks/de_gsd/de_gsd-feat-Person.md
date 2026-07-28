@@ -102,8 +102,8 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="de_gsd-dep-expl.html">expl</a></tt>]--> PRON</tt> (282; 79%),
 <tt>VERB --[<tt><a href="de_gsd-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (191; 88%),
 <tt>VERB --[<tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (120; 51%),
+<tt>VERB --[<tt><a href="de_gsd-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (37; 56%),
 <tt>AUX --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> AUX</tt> (10; 100%),
 <tt>VERB --[<tt><a href="de_gsd-dep-dep.html">dep</a></tt>]--> VERB</tt> (10; 63%),
-<tt>AUX --[<tt><a href="de_gsd-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 60%),
-<tt>AUX --[<tt><a href="de_gsd-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3; 60%).
+<tt>AUX --[<tt><a href="de_gsd-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 60%).
 

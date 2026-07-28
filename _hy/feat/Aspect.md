@@ -18,90 +18,89 @@ udver: '2'
 </tr>
 </table>
 
-Aspect is a feature that specifies duration of the action in time,
-whether the action has been completed etc. In Armenian some tenses are actually combinations of tense and aspect. 
+Aspect is a feature that specifies the temporal structure of an action, such as its duration or whether it is completed. In Armenian, some tenses are combinations of tense and aspect.
 
-Note, that some aspectual meanings in (secondary) compound tenses may be expressed at participles.
+Note that some aspectual meanings in (secondary) compound tenses may be expressed at participles.
 
 ### <a name="Imp">`Imp`</a>: imperfect aspect
 
-The action took / takes / will take some time span and there is no
-information whether and when it was / will be completed.
+The action took, takes, or will take place over a period of time, without specifying whether or when it was, is, or will be completed.
 
 #### Examples
 
-* _<b>վազում</b> եմ տուն&nbsp;_ “I run / am running home”,
-* _<b>վազում</b> էի տուն&nbsp;_ “I was running home”
+* _<b>վազում</b> եմ տուն_/_<b>vazowm</b> em town_ “I run / am running home”,
+* _<b>վազում</b> էի տուն_/_<b>vazowm</b> ēi town_ “I was running home”
+
 
 ### <a name="Perf">`Perf`</a>: perfect aspect
 
-The action has been / will have been completed. Since there is
-emphasis on one point on the time scale (the point of completion),
-this aspect does not work well with the present tense.
+The action is presented as completed. Since this aspect focuses on the point of completion, it does not work well with the present tense.
 
-The forms with resultative participles might better be defined as ‘perfect stative’.
+Forms with resultative participles might better be defined as ‘perfect stative’.
 
 #### Examples
 
-* _<b>վազեցի</b> տուն&nbsp;_ “I ran home”,
-* _<b>վազել</b> եմ տուն&nbsp;_ “I have run home”,
-* _<b>վազել</b> էի տուն&nbsp;_ “I had run home”,
-* _<b>նստած </b> եմ տանը&nbsp;_ “I am sitting at home”,
-* _<b>նստած </b> էի տանը&nbsp;_ “I was sitting at home”
+* _<b>վազեցի</b> տուն_/_<b>vazec’i</b> town_ “I ran home”,
+* _<b>վազել</b> եմ տուն_/_<b>vazel</b> em town_ “I have run home”,
+* _<b>վազել</b> էի տուն_/_<b>vazel</b> ēi town_ “I had run home”,
+* _<b>նստած</b> եմ տանը_/_<b>nstaç</b> em tanë_ “I am sitting at home”,
+* _<b>նստած</b> էի տանը_/_<b>nstaç</b> ēi tanë_ “I was sitting at home”
+
 
 ### <a name="Prosp">`Prosp`</a>: prospective aspect
 
-In general, prospective aspect can be described as relative future:
-the action is/was/will be expected to take place at a moment that
-follows the reference point; the reference point itself can be
-in past, present or future.
+In general, prospective aspect can be described as relative future: the action is/was/will be expected to take place at a moment that follows the reference point; the reference point itself can be in past, present or future.
 
-In some contexts subjunctive and conditional forms may also indicate prospective aspect and signal an event that expected to take place. `Prosp` meaning prevails in conditional imperfect forms.
+In some contexts, subjunctive and conditional forms may also indicate prospective aspect and signal an event that is expected to take place. The prospective meaning is especially common in conditional imperfect forms.
 
-The future-II participle also indicate progressive aspect.
+The future-II participle also indicates prospective aspect.
 
 #### Examples
 
-* _<b>վազելու</b> եմ տուն&nbsp;_ “I shall run home”,
-* _<b>վազելու</b> էի տուն&nbsp;_ “I should run home”,
-* _<b>վազեմ</b> տուն&nbsp;_ “(I'd better) run home”,
-* _<b>վազեի</b> տուն&nbsp;_ “I wish I ran home”
-* _<b>կվազեմ</b> տուն&nbsp;_ “I shall run home”,
-* _<b>կվազեի</b> տուն&nbsp;_ “I shall run home”
-* _<b>կառուցվելիք</b> շենք&nbsp;_ “a house that will be built”
-* _<b>հնչելիք</b> զանգ&nbsp;_ “a call that will ring”
+* _<b>վազելու</b> եմ տուն_/_<b>vazelow</b> em town_ “I shall run home”,
+* _<b>վազելու</b> էի տուն_/_<b>vazelow</b> ēi town_ “I should run home”,
+* _<b>վազեմ</b> տուն_/_<b>vazem</b> town_ “(I'd better) run home”,
+* _<b>վազեի</b> տուն_/_<b>vazei</b> town_ “If only I ran home”
+* _<b>կվազեմ</b> տուն_/_<b>kvazem</b> town_ “I will run home”,
+* _<b>կվազեի</b> տուն_/_<b>kvazei</b> town_ “I would run home”
+* _վազի՛ր_/_vazir_ “run!”
+* _<b>կառուցվելիք</b> շենք_/_<b>kaṙowc’velik’</b> šenk’_ “a house that will be built”
+* _<b>հնչելիք</b> զանգ_/_<b>hnčelik’</b> zang_ “a bell that will ring”
+  
 
 ### <a name="Prog">`Prog`</a>: progressive aspect
 
-Action is in progress with respect to current or a reference time. The converb indicates progressive aspect.
+The action is in progress with respect to the current or a reference time. The converb expresses progressive aspect.
 
 #### Examples
 
-* _<b>վազելիս</b> ընկա&nbsp;_ “I fell while running”
-* _<b>վազելիս</b> ընկնում եմ&nbsp;_ “I am falling while running”
-* _<b>վազելիս</b> ընկնեի&nbsp;_ “(I wish) I would have fallen while running”
+* _<b>վազելիս</b> ընկա_/_<b>vazelis</b> ënka_ “I fell while running”
+* _<b>վազելիս</b> ընկնում եմ_/_<b>vazelis</b> ënknowm em_ “I fall while running”
+* _<b>վազելիս</b> ընկնեի_/_<b>vazelis</b> ënknei_ “(If) I would have fallen while running”
+
 
 ### <a name="Dur">`Dur`</a>: durative aspect
 
-A situation or action that has persisted over a period of time and still continues.
+The situation extends over a period of time without reference to its endpoint.
 
-The subject participle indicates durative aspect.
+The subject participle expresses durative aspect.
 
 #### Examples
 
-* _<b>կառուցվող</b> շենք&nbsp;_ “a house, that is being built”
-* _<b>հնչող</b> զանգ&nbsp;_ “a call that ringed”
+* _<b>կառուցվող</b> շենք_/_<b>kaṙowc’voġ</b> šenk’_ “a house, that is being built”
+* _<b>հնչող</b> զանգ_/_<b>hnčoġ</b> zang_ “a ringing bell”
+
 
 ### <a name="Iter">`Iter`</a>: iterative
 
-Denotes repeated action, with multiplicative or distributive meanings. Armenian has three main iterative markers _-ատ&nbsp;, -ոտ&nbsp;, -տ&nbsp;_ or _root reduplication_.
+Denotes repeated action, with multiplicative or distributive meanings. Armenian has three main iterative markers _-ատ_/_-at_, _-ոտ_/_-ot_, _-տ_/_-t_ or _root reduplication_.
 
-Note, that in Armenian iterative is considered as a lexical feature of [verbs](VERB), thus they have morphologically related not iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
+Note that in Armenian iterative is considered as a lexical feature of [verbs](VERB), thus they have morphologically related non-iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
 
 #### Examples
 
-* _ցատկել&nbsp;_ “jump”, _<b>ցատկոտել</b>&nbsp;_ “jump several times”,
-* _կտրել&nbsp;_ “cut”, _<b>կտրատել</b>&nbsp;_ “chop, cut in pieces”,
-* _փնտրել&nbsp;_ “search”, _<b>փնտրտել</b>&nbsp;_ “search several times”,
-* _վազել&nbsp;_ “to run”, _<b>վազվզել</b>&nbsp;_ “to run around, to run often”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:02 CET -->
+* _ցատկել_/_c’atkel_ “jump”, _<b>ցատկոտել</b>_/_c’atkotel_ “jump several times”,
+* _կտրել_/_ktrel_ “cut”, _<b>կտրատել</b>_/_ktratel_ “chop, cut in pieces”,
+* _փնտրել_/_p’ntrel_ “search”, _<b>փնտրտել</b>_ “search several times”,
+* _վազել_ “to run”, _<b>վազվզել</b>_ “to run around, to run often”
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:43 CEST -->

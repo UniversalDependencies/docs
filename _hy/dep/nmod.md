@@ -63,7 +63,7 @@ nmod(girl, gold)
 case(gold, like)
 ~~~
 
-Note, that so-called “bare noun compounds” (e.g. _թղթակից անդամ&nbsp;_ “corresponding member”) marked using the [compound]() relation.
+Note, that so-called “bare noun compounds” (e.g. _թղթակից անդամ&nbsp;_ “corresponding member”) are marked using the [compound]() relation.
 
 * for an explicative attribute of a noun or for noun modifier specifying the whole-part relation: a typical example is a title/profession attached to a name of a person. The relation is similar to the [flat]() relation that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
 
@@ -95,4 +95,4 @@ punct(president, ,)
 amod(president, the-first)
 appos(Levon, president)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:05 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:16 CEST -->

@@ -12,93 +12,108 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="de_hdt-feat-Gender.html">Gender</a></tt>, <tt><a href="de_hdt-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
-1236231 tokens (36%) have a non-empty value of `Gender`.
-116362 types (62%) occur at least once with a non-empty value of `Gender`.
-93342 lemmas (64%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (684408; 20% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (395438; 11% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (84146; 2% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (44113; 1% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (27734; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (188; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (178; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (26; 0% instances).
+1392292 tokens (40%) have a non-empty value of `Gender`.
+125497 types (67%) occur at least once with a non-empty value of `Gender`.
+99515 lemmas (69%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> (687983; 20% instances), <tt><a href="de_hdt-pos-DET.html">DET</a></tt> (456716; 13% instances), <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> (175354; 5% instances), <tt><a href="de_hdt-pos-PRON.html">PRON</a></tt> (44113; 1% instances), <tt><a href="de_hdt-pos-PROPN.html">PROPN</a></tt> (27734; 1% instances), <tt><a href="de_hdt-pos-ADV.html">ADV</a></tt> (188; 0% instances), <tt><a href="de_hdt-pos-X.html">X</a></tt> (178; 0% instances), <tt><a href="de_hdt-pos-NUM.html">NUM</a></tt> (26; 0% instances).
 
 ### `NOUN`
 
-684408 <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> tokens (94% of all `NOUN` tokens) have a non-empty value of `Gender`.
+687983 <tt><a href="de_hdt-pos-NOUN.html">NOUN</a></tt> tokens (94% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (608205; 89%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (450011; 66%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (453591; 66%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (270252; 39% of non-empty `Gender`): <em>Millionen, Mark, Milliarden, Firma, Angaben, Software, Zeit, Firmen, Version, Informationen</em>
-* `Masc` (249767; 36% of non-empty `Gender`): <em>US-Dollar, Euro, Markt, Dollar, Hersteller, Computer, Umsatz, Preis, Anfang, Mitarbeiter</em>
-* `Neut` (164389; 24% of non-empty `Gender`): <em>Prozent, Internet, Unternehmen, Jahr, Ende, Quartal, Jahres, Jahren, Netz, Daten</em>
-* `EMPTY` (44692): <em>Kunden, Teil, Pentium, Kunde, Teile, Steuern, Befragten, Beschäftigten, informations-, Angestellten</em>
+* `Fem` (271365; 39% of non-empty `Gender`): <em>Millionen, Mark, Milliarden, Firma, Angaben, Software, Zeit, Firmen, Version, Informationen</em>
+* `Masc` (251513; 37% of non-empty `Gender`): <em>US-Dollar, Euro, Markt, Dollar, Hersteller, Umsatz, Computer, Preis, Anfang, Mitarbeiter</em>
+* `Neut` (165105; 24% of non-empty `Gender`): <em>Prozent, Internet, Unternehmen, Jahr, Ende, Quartal, Jahres, Jahren, Netz, Daten</em>
+* `EMPTY` (41117): <em>Kunden, Pentium, Teil, Teile, Steuern, Befragten, Beschäftigten, informations-, Angestellten, Deutschen</em>
 
 <table>
-  <tr><th>Paradigm <i>Deutsch</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Deutschen</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Deutsche, Deutscher</em></td><td></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td><em>Deutsche, Deutscher</em></td><td><em>Deutsch, Deutsche, Deutschen</em></td></tr>
+  <tr><th>Paradigm <i>unknown</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>256bittigen</em></td><td><em>Milliardstel</em></td><td><em>48bittige, COmputergestütztes</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>Wirtschaftswissenschaftlichen</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Milliaren</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Internationbalen</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Rekonfigurierbaren</em></td><td><em>128bittigen, Zellularen</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Miliarden, Milliardenn</em></td><td><em>Amyotrophe</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Kostenpflichtige</em></td><td><em>Regenerative</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (85727) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (86791) occur only with one value of `Gender`.
 
 ### `DET`
 
-395438 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (80% of all `DET` tokens) have a non-empty value of `Gender`.
+456716 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (92% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (394888; 100%), <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (356613; 90%), <tt><a href="de_hdt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (326526; 83%), <tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (287699; 73%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="de_hdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (417891; 91%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (394985; 86%), <tt><a href="de_hdt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (387796; 85%), <tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (348969; 76%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (158053; 40% of non-empty `Gender`): <em>die, der, eine, einer, diese, seiner, seine, dieser, keine, ihre</em>
-* `Masc` (108580; 27% of non-empty `Gender`): <em>der, den, des, dem, einen, ein, einem, eines, diesem, seinen</em>
-* `Masc,Neut` (47860; 12% of non-empty `Gender`): <em>dem</em>
-* `Neut` (80945; 20% of non-empty `Gender`): <em>das, ein, des, dem, einem, allem, dies, dieses, eines, diesem</em>
-* `EMPTY` (98929): <em>die, der, den, alle, ihre, diese, keine, viele, anderen, seine</em>
+* `Fem` (178082; 39% of non-empty `Gender`): <em>die, der, eine, einer, den, diese, seiner, seine, dieser, keine</em>
+* `Masc` (162453; 36% of non-empty `Gender`): <em>dem, der, den, die, des, einen, ein, einem, eines, diesem</em>
+* `Masc,Neut` (3768; 1% of non-empty `Gender`): <em>dem</em>
+* `Neut` (112413; 25% of non-empty `Gender`): <em>das, dem, ein, des, die, einem, der, den, allem, dies</em>
+* `EMPTY` (37651): <em>die, den, der, alle, ihre, diese, keine, viele, anderen, seine</em>
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>den, der</em></td><td></td><td><em>die</em></td><td><em>das, 's</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>dem, des</em></td><td><em>dem</em></td><td><em>der, die</em></td><td><em>dem, das, des</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>des, der</em></td><td></td><td><em>der</em></td><td><em>des</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>der</em></td><td></td><td><em>die, der</em></td><td><em>das</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>den, der</em></td><td></td><td><em>die</em></td><td><em>das, 's</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>die, den</em></td><td></td><td><em>die</em></td><td><em>die</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>dem, des, den</em></td><td><em>dem</em></td><td><em>der, die</em></td><td><em>dem, das, des</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>den, die, der</em></td><td></td><td><em>den, der</em></td><td><em>den, der, die</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>des, der</em></td><td></td><td><em>der</em></td><td><em>des</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>der</em></td><td></td><td><em>der</em></td><td><em>der</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>der</em></td><td></td><td><em>die, der</em></td><td><em>das</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>die, der</em></td><td></td><td><em>die</em></td><td><em>die</em></td></tr>
 </table>
 
 ### `ADJ`
 
-84146 <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> tokens (32% of all `ADJ` tokens) have a non-empty value of `Gender`.
+175354 <tt><a href="de_hdt-pos-ADJ.html">ADJ</a></tt> tokens (67% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="de_hdt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (84145; 100%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (75312; 90%), <tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (74297; 88%), <tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (55347; 66%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="de_hdt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (175352; 100%), <tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (147844; 84%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (115545; 66%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (38429; 46% of non-empty `Gender`): <em>neue, deutsche, erste, weitere, eigene, große, nächste, deutschen, digitale, letzte</em>
-* `Masc` (26557; 32% of non-empty `Gender`): <em>neuen, neue, ersten, neuer, deutsche, deutschen, großen, größte, erste, eigenen</em>
-* `Neut` (19160; 23% of non-empty `Gender`): <em>neue, neues, erste, weiteres, ersten, laufende, neuen, eigenes, erstes, zweite</em>
-* `EMPTY` (178465): <em>neuen, ersten, deutschen, neue, vergangenen, eigenen, letzten, nächsten, möglich, gut</em>
+* `Fem` (72803; 42% of non-empty `Gender`): <em>neue, deutsche, neuen, weitere, eigenen, deutschen, erste, ersten, eigene, große</em>
+* `Masc` (59147; 34% of non-empty `Gender`): <em>neuen, neue, ersten, deutschen, heutigen, 1., großen, letzten, neuer, eigenen</em>
+* `Neut` (43404; 25% of non-empty `Gender`): <em>ersten, neue, neuen, vergangenen, letzten, nächsten, erste, zweiten, neues, dritten</em>
+* `EMPTY` (87257): <em>möglich, gut, ganz, weltweit, deutlich, beiden, knapp, künftig, bekannt, schnell</em>
 
 <table>
   <tr><th>Paradigm <i>neu</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuen</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neuen</em></td><td><em>neuen</em></td><td><em>neuen</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neueren</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuesten</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neuesten</em></td><td><em>neuesten, neusten</em></td><td><em>neuesten, neusten</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuen</em></td><td><em>neuen, neuer</em></td><td><em>neuen</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neuen</em></td><td><em>neuen</em></td><td><em>neuen</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neueren</em></td><td><em>neueren</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>neuesten</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>neuesten</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neuen, neuer</em></td><td><em>neuer, neuen</em></td><td><em>neuer, neuen</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neue, neuer</em></td><td></td><td><em>neues</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neuen</em></td><td><em>neuen</em></td><td><em>neuen</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuere, neuerer</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neueren</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neueste, neuester, neuste</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>neuesten</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuen</em></td><td><em>neue, neuen, neuer</em></td><td><em>neues, neue, neuen</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neue</em></td><td><em>neue, neuen</em></td><td><em>neue, neuen</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neueren</em></td><td><em>neuere, neueren, neuerer</em></td><td><em>neuere, neueres</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Neuere</em></td><td><em>Neuere</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuesten</em></td><td><em>neueste, neuester, neuesten, neusten</em></td><td><em>neueste, neuestes, neuesten</em></td></tr>
-  <tr><td><tt><tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>neueste</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuen</em></td><td><em>neue</em></td><td><em>neues, neue</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neue, neuen</em></td><td><em>neue, neuen</em></td><td><em>neue, neuen</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neueren</em></td><td><em>neuere</em></td><td><em>neueres</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>neuere, neueren</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuesten</em></td><td><em>neueste</em></td><td><em>neueste, neuestes</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neuesten</em></td><td><em>neuesten, neueste, neusten</em></td><td><em>neuesten, neueste, neusten</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuen, neuem</em></td><td><em>neuen, neuer, neue</em></td><td><em>neuen, neuem</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neuen</em></td><td><em>neuen, neue</em></td><td><em>neuen, neue</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neueren</em></td><td><em>neueren, neuerer</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neueren</em></td><td><em>neueren</em></td><td><em>neueren</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuesten, neuestem, neusten</em></td><td><em>neuesten, neuester, neusten</em></td><td><em>neuesten, neuestem, neusten</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neuesten</em></td><td><em>neuesten</em></td><td><em>neuesten</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuen</em></td><td><em>neuen, neue</em></td><td><em>neuen, neues</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neuer, neuen</em></td><td><em>neuer, neuen</em></td><td><em>neuer, neuen, neue</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neueren</em></td><td><em>neueren</em></td><td><em>neueren</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>neueren</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuesten</em></td><td><em>neuesten</em></td><td><em>neuesten</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>neuesten, neuester</em></td><td><em>neuesten</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neue, neuer</em></td><td><em>neue</em></td><td><em>neue, neues</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neuen, neue</em></td><td><em>neuen, neue</em></td><td><em>neuen, neue</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuere, neuerer</em></td><td><em>neuere</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neueren</em></td><td><em>Neuere</em></td><td><em>Neuere, neueren</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neueste, neuester, neuste</em></td><td><em>neueste</em></td><td><em>neueste</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neuesten</em></td><td><em>neuesten</em></td><td><em>neuesten</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>neuen</em></td><td><em>neue, neuer, neuen</em></td><td><em>neues, neue, neuen</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>neue, neuen</em></td><td><em>neue, neuen, Internet/Neue</em></td><td><em>neue, neuen</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>neuere, neueres</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>neuere</em></td><td><em>neuere</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>neueste, neuester</em></td><td><em>neuestes, neueste, neuesten</em></td></tr>
+  <tr><td><tt><tt><a href="de_hdt-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>neueste, neuesten</em></td><td><em>neueste, neuesten</em></td></tr>
 </table>
 
 ### `PRON`
@@ -199,14 +214,14 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="de_hdt-dep-det.html">det</a></tt>]--> DET</tt> (297197; 67%),
+<tt>NOUN --[<tt><a href="de_hdt-dep-det.html">det</a></tt>]--> DET</tt> (406003; 92%),
+<tt>NOUN --[<tt><a href="de_hdt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (166389; 97%),
+<tt>ADJ --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (2043; 97%),
 <tt>DET --[<tt><a href="de_hdt-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1262; 65%),
-<tt>ADJ --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (592; 77%),
 <tt>NOUN --[<tt><a href="de_hdt-dep-expl.html">expl</a></tt>]--> PRON</tt> (250; 61%),
+<tt>NOUN --[<tt><a href="de_hdt-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (204; 51%),
+<tt>NOUN --[<tt><a href="de_hdt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (67; 63%),
 <tt>DET --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> NOUN</tt> (50; 52%),
-<tt>DET --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> DET</tt> (44; 54%),
-<tt>DET --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (44; 54%),
-<tt>DET --[<tt><a href="de_hdt-dep-det.html">det</a></tt>]--> PRON</tt> (35; 100%),
-<tt>PRON --[<tt><a href="de_hdt-dep-appos.html">appos</a></tt>]--> DET</tt> (31; 97%),
-<tt>ADJ --[<tt><a href="de_hdt-dep-det.html">det</a></tt>]--> PRON</tt> (29; 97%).
+<tt>DET --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> DET</tt> (48; 59%),
+<tt>DET --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (44; 54%).
 

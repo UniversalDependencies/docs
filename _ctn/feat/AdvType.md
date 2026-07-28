@@ -51,4 +51,4 @@ Marked by the extensional *-ʌti*, which denotes the same quantity as a referent
 #### Examples
 
 * *utti* "that much", *katti* "how much"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:00 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:41 CEST -->

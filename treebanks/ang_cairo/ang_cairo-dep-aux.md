@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 1 aux	color:blue
 1	Ƿilt	ƿillan	AUX	MD	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	Gloss=want|Hyperlemma=will|Root=*welh₁
-2	þu	þu	PRON	PRP	Case=Nom|Number=Sing|Person=2	3	nsubj	_	Gloss=you|Hyperlemma=thou|Root=*tuh₂
+2	þu	þu	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you|Hyperlemma=thou|Root=*tuh₂
 3	gan	gan	VERB	VB	Number=Sing	0	root	_	Gloss=go|Hyperlemma=go|Root=*ǵʰeh₁|SpaceAfter=No
 4	?	?	PUNCT	.	_	3	punct	_	Gloss=?|Hyperlemma=?|Root=_
 

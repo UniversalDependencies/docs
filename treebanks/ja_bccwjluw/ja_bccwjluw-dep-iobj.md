@@ -11,9 +11,9 @@ This relation is universal.
 56 nodes (0%) are attached to their parents as `iobj`.
 
 56 instances of `iobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.98214285714286.
+Average distance between parent and child is 3.21428571428571.
 
-The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (48; 86% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (5; 9% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (49; 88% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-PRON.html">PRON</a></tt> (4; 7% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ja_bccwjluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_bccwjluw-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ja_bccwjluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_bccwjluw-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

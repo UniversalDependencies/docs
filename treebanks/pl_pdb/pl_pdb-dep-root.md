@@ -11,9 +11,9 @@ This relation is universal.
 22152 nodes (6%) are attached to their parents as `root`.
 
 22152 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.98496749729144.
+Average distance between parent and child is 4.98243950884796.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (18582; 84% instances), -<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (1549; 7% instances), -<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1451; 7% instances), -<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (210; 1% instances), -<tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (205; 1% instances), -<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (77; 0% instances), -<tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (39; 0% instances), -<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (16; 0% instances), -<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (15; 0% instances), -<tt><a href="pl_pdb-pos-X.html">X</a></tt> (5; 0% instances), -<tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (2; 0% instances), -<tt><a href="pl_pdb-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (18581; 84% instances), -<tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (1549; 7% instances), -<tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1451; 7% instances), -<tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (209; 1% instances), -<tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (204; 1% instances), -<tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (78; 0% instances), -<tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (39; 0% instances), -<tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (17; 0% instances), -<tt><a href="pl_pdb-pos-INTJ.html">INTJ</a></tt> (16; 0% instances), -<tt><a href="pl_pdb-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

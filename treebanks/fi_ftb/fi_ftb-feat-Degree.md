@@ -133,7 +133,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 `VERB` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>korostavampana</em>
-* `EMPTY` (27325): <em>on, oli, ole, tulee, olla, tuli, ollut, saa, ei, sanoi</em>
+* `EMPTY` (27196): <em>on, oli, tulee, ole, tuli, olla, ollut, saa, ei, sanoi</em>
 
 ## Relations with Agreement in `Degree`
 

@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Estonian-EDT: Relations: `compound`
 
 This relation is universal.
-There are 1 language-specific subtypes of `compound`: <tt><a href="et_edt-dep-compound-prt.html">compound:prt</a></tt>.
+There are 2 language-specific subtypes of `compound`: <tt><a href="et_edt-dep-compound-idiom.html">compound:idiom</a></tt>, <tt><a href="et_edt-dep-compound-prt.html">compound:prt</a></tt>.
 
-601 nodes (0%) are attached to their parents as `compound`.
+582 nodes (0%) are attached to their parents as `compound`.
 
-482 instances of `compound` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.2712146422629.
+473 instances of `compound` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.2680412371134.
 
-The following 17 pairs of parts of speech are connected with `compound`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (340; 57% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (148; 25% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (54; 9% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (17; 3% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (15; 2% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `compound`: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (340; 58% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (131; 23% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (54; 9% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (17; 3% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (15; 3% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (7; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt>-<tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -50,8 +50,8 @@ The following 17 pairs of parts of speech are connected with `compound`: <tt><a 
 3	Paabule	Paap	PROPN	S	Case=All|Number=Sing	2	obl	2:obl	NE=B-Per
 4	kätte	käsi	NOUN	S	Case=Add|Number=Sing	2	compound	2:compound	_
 5	1979.	1979.	ADJ	N	NumForm=Digit|NumType=Ord	6	amod	6:amod	_
-6	aastal	aasta	NOUN	S	Case=Ade|Number=Sing	2	obl	2:obl	_
-7	Moskvas	Moskva	PROPN	S	Case=Ine|Number=Sing	2	obl	2:obl	NE=B-Loc|SpaceAfter=No
+6	aastal	aasta	NOUN	S	Case=Ade|Number=Sing	2	obl:tmod	2:obl	_
+7	Moskvas	Moskva	PROPN	S	Case=Ine|Number=Sing	2	obl:lmod	2:obl	NE=B-Loc|SpaceAfter=No
 8	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 ~~~
@@ -63,7 +63,7 @@ The following 17 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 compound	color:blue
-1	CQL-il	CQL	NOUN	Y	Abbr=Yes|Case=Ade|Number=Sing	7	obl	7:obl	NE=B-Prod
+1	CQL-il	CQL	NOUN	Y	Abbr=Yes|Case=Ade|Number=Sing	7	obl:arg	7:obl	NE=B-Prod
 2	(	(	PUNCT	Z	_	5	punct	5:punct	SpaceAfter=No
 3	Continous	continious	ADJ	T	Degree=Pos	4	amod	4:amod	Lang=en|NE=B-Prod
 4	Query	query	NOUN	T	Number=Sing	5	compound	5:compound	Lang=en|NE=I-Prod

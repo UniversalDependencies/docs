@@ -177,4 +177,4 @@ One can reinsert a subject into the complement clause as a test to separate the 
   - CONCLUSION: matrix verb 覺得 'feel' in (3) → `xcomp`
 
 See [xcomp]() for another test for differentiating between `ccomp` and object-control `xcomp`.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:26 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:47 CEST -->

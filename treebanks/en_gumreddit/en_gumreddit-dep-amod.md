@@ -22,7 +22,7 @@ The following 11 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 amod	color:blue
-1	_	_	SCONJ	IN	_	7	mark	7:mark	Discourse=context-background:2->5:0:dm-if-3-gold+ref-prs-4-6,20-_|Entity=(2-abstract-new-nnssn-cf3-19-disc|Lem=*LOWER*|Len=2|PDTB=Explicit:Comparison.Contrast:if:3:18-23:4-17
+1	_	_	SCONJ	IN	_	7	mark	7:mark	Discourse=context-background:2->5:0:ref-prs-4-6,20-_;contingency-condition:2->5:2:0:orp-if-3-gold|Entity=(2-abstract-new-nnssn-cf3-19-disc|Lem=*LOWER*|Len=2|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:3:18-23:4-17
 2	_	_	DET	DT	PronType=Ind	4	det	4:det	Entity=(3-place-new-snsss-cf1-3-coref|Lem=_|Len=5
 3	_	_	ADJ	JJ	Degree=Pos	4	amod	4:amod	Lem=_|Len=5
 4	_	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=3)|Lem=_|Len=7
@@ -53,17 +53,17 @@ The following 11 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 amod	color:blue
-1	_	_	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj|5:nsubj:xsubj	Discourse=attribution-positive:34->35:0:sem-atsrc-239-_+lex-indwd-243-_|Entity=(38-abstract-new-nnnnn-cf4-3-disc(21-abstract-giv:inact-nnnnn-cf1-1-coref)|Lem=*LOWER*|Len=4
+1	_	_	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj|5:nsubj:xsubj	Discourse=attribution-positive:34->35:0:sem-atsrc-239-_+lex-indwd-243-_|Entity=(39-abstract-new-nnnnn-cf4-3-disc(22-abstract-giv:inact-nnnnn-cf1-1-coref)|Lem=*LOWER*|Len=4
 2	_	_	AUX	MD	VerbForm=Fin	3	aux	3:aux	Lem=_|Len=5
 3	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Lem=_|Len=4
 4	_	_	PART	TO	_	5	mark	5:mark	Lem=_|Len=2
 5	_	_	VERB	VB	VerbForm=Inf	3	xcomp	3:xcomp	Lem=_|Len=7
-6	_	_	NOUN	NNS	Number=Plur	11	nsubj	11:nsubj	Discourse=joint-other_m:35->24:3:_|Entity=(39-person-new-nnnnn-cf2-1-sgl)|Lem=parent|Len=7|MSeg=parent-s
+6	_	_	NOUN	NNS	Number=Plur	11	nsubj	11:nsubj	Discourse=joint-other_m:35->24:3:_|Entity=(40-person-new-nnnnn-cf2-1-sgl)|Lem=parent|Len=7|MSeg=parent-s
 7	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	11:aux	Lem=be|Len=3
 8	_	_	PART	RB	Polarity=Neg	11	advmod	11:advmod	Lem=not|Len=3|Negation=Yes
-9	_	_	DET	DT	PronType=Tot	10	compound	10:compound	Entity=(40-person-new-nnnnn-cf3-3-sgl|Lem=_|Len=3
+9	_	_	DET	DT	PronType=Tot	10	compound	10:compound	Entity=(41-person-new-nnnnn-cf3-3-sgl|Lem=_|Len=3
 10	_	_	VERB	VBG	VerbForm=Ger	11	amod	11:amod	Lem=know|Len=7|MSeg=know-ing
-11	_	_	NOUN	NNS	Number=Plur	5	ccomp	5:ccomp	Entity=40)38)|Lem=genius|Len=8|SpaceAfter=No
+11	_	_	NOUN	NNS	Number=Plur	5	ccomp	5:ccomp	Entity=41)39)|Lem=genius|Len=8|SpaceAfter=No
 12	_	_	PUNCT	.	_	3	punct	3:punct	Lem=_|Len=1
 
 ~~~

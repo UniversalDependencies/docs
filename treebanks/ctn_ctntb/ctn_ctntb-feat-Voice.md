@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Chintang-CTNTB: Features: `Voice`
 
-This feature is universal but the values `CauRcp`, `CauRefl`, `Refl` are language-specific.
-It occurs with 6 different values: `Act`, `Cau`, `CauRcp`, `CauRefl`, `Rcp`, `Refl`.
+This feature is universal but the values `CauRcp`, `CauRfl`, `Rfl` are language-specific.
+It occurs with 6 different values: `Act`, `Cau`, `CauRcp`, `CauRfl`, `Rcp`, `Rfl`.
 
 3240 tokens (22%) have a non-empty value of `Voice`.
 2287 types (52%) occur at least once with a non-empty value of `Voice`.
@@ -25,13 +25,13 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 * `Act` (3132; 97% of non-empty `Voice`): <em>yuŋno, konno, khaiʔma, numma, lino, cama, khade, konnoʔ, lise, khada</em>
 * `Cau` (41; 1% of non-empty `Voice`): <em>lapmettoko, wahumeiʔma, wahumeiʔmalaŋtoŋ, Maĩkhaŋmettaʔ, aneamettukuce, ataĩmettukucum, chommeʔma, cokkhaune, hakmettuce, hapmettaʔ</em>
 * `CauRcp` (1; 0% of non-empty `Voice`): <em>Hapmeiʔkameiʔ</em>
-* `CauRefl` (7; 0% of non-empty `Voice`): <em>khaŋmetnace, Immetnaŋnace, Lapmeʔnacce, Luʔmeʔnace, khumeʔnaʔãce, mɨkseĩkhaŋmeiʔkameiʔ</em>
+* `CauRfl` (7; 0% of non-empty `Voice`): <em>khaŋmetnace, Immetnaŋnace, Lapmeʔnacce, Luʔmeʔnace, khumeʔnaʔãce, mɨkseĩkhaŋmeiʔkameiʔ</em>
 * `Rcp` (17; 1% of non-empty `Voice`): <em>khasɨŋkasɨŋ, tɨŋkatɨŋ, Copkacop, Pamkapam, Pokkathaka, apkaap, caiʔkacaiʔ, khaŋkakhaŋ, lapkalap, lekale</em>
-* `Refl` (25; 1% of non-empty `Voice`): <em>sɨknalɨknancĩyehẽ, tomcĩsaŋa, Bopnaadhennaʔãce, Kaʔnace, Kɨnadhennaace, Tommancĩ, ahinaʔacenɨŋ, apamnaceʔ, ateknaʔãce, atɨŋnaʔãce</em>
+* `Rfl` (25; 1% of non-empty `Voice`): <em>sɨknalɨknancĩyehẽ, tomcĩsaŋa, Bopnaadhennaʔãce, Kaʔnace, Kɨnadhennaace, Tommancĩ, ahinaʔacenɨŋ, apamnaceʔ, ateknaʔãce, atɨŋnaʔãce</em>
 * `EMPTY` (103): <em>khice, bane, roke, bite, janme, joge, khole, pas, pode, podhe</em>
 
 <table>
-  <tr><th>Paradigm <i>khag</i></th><th><tt>Act</tt></th><th><tt>Rcp</tt></th><th><tt>Cau</tt></th><th><tt>CauRefl</tt></th></tr>
+  <tr><th>Paradigm <i>khag</i></th><th><tt>Act</tt></th><th><tt>Rcp</tt></th><th><tt>Cau</tt></th><th><tt>CauRfl</tt></th></tr>
   <tr><td><tt><tt><a href="ctn_ctntb-feat-Aspect.html">Aspect</a></tt><tt>=ComplPerf</tt>|<tt><a href="ctn_ctntb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ctn_ctntb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ctn_ctntb-feat-Number-p.html">Number[p]</a></tt><tt>=Sing</tt>|<tt><a href="ctn_ctntb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ctn_ctntb-feat-Person-p.html">Person[p]</a></tt><tt>=3</tt>|<tt><a href="ctn_ctntb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ctn_ctntb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>khawanduŋsuhẽ</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ctn_ctntb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ctn_ctntb-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="ctn_ctntb-feat-Number-p.html">Number[p]</a></tt><tt>=Plur</tt>|<tt><a href="ctn_ctntb-feat-Person-p.html">Person[p]</a></tt><tt>=3</tt>|<tt><a href="ctn_ctntb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>khaŋmace</em></td><td></td><td><em>khaŋnummace</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ctn_ctntb-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ctn_ctntb-feat-Case.html">Case</a></tt><tt>=Abs</tt>|<tt><a href="ctn_ctntb-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>khaŋma</em></td><td></td><td></td><td></td></tr>

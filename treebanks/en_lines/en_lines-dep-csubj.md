@@ -44,10 +44,10 @@ The following 16 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 6 csubj	color:blue
 1	Is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-2	it	it	PRON	PERS-SG	_	3	expl	_	_
+2	it	it	PRON	PERS-SG	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 3	possible	possible	ADJ	POS	Degree=Pos	0	root	_	_
 4	that	that	SCONJ	_	_	6	mark	_	_
-5	you	you	PRON	PERS-P2	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	_
+5	you	you	PRON	PERS-P2	Person=2|PronType=Prs	6	nsubj	_	_
 6	know	know	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	3	csubj	_	_
 7	the	the	DET	DEF	Definite=Def|PronType=Art	8	det	_	_
 8	people	people	NOUN	PL-NOM	Number=Plur	6	obj	_	_

@@ -16,4 +16,4 @@ advmod:tmod(озыть-4, Мейле-1)
 xcomp(озыть-4, нарвамо-3)
 punct(озыть-4, .-5)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:07 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:18 CEST -->

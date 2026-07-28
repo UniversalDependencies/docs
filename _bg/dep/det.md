@@ -33,4 +33,4 @@ det(curiosity-4, her.SHORT-5)
 ~~~
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:45 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:01 CEST -->

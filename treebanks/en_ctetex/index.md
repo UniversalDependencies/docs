@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Naïma Hassert, Pierre André Ménard, Edith Galy.
 
 Repository: [UD_English-CTeTex](https://github.com/UniversalDependencies/UD_English-CTeTex)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ctetex217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ctetex218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 

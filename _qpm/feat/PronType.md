@@ -122,4 +122,4 @@ Emphatic pro-adjectives (determiners) emphasize the nominal they depend on. Ther
 #### Examples
 * _samýj_ "alone"
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:43 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:14 CEST -->

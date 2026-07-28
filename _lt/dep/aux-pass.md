@@ -18,4 +18,4 @@ Stalas yra išneštas į kiemą . \n The-table is taken-out to the-yard .
 aux:pass(išneštas, yra)
 aux:pass(taken-out, is)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:20 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:42 CEST -->

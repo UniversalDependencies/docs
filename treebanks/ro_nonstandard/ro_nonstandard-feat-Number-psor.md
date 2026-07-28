@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt>, <tt><a href="ro_nonstandard-feat-Number-psor.html">Number[psor]</a></tt>.
 
-4930 tokens (1%) have a non-empty value of `Number[psor]`.
-68 types (0%) occur at least once with a non-empty value of `Number[psor]`.
-11 lemmas (0%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (4753; 1% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (177; 0% instances).
+4929 tokens (1%) have a non-empty value of `Number[psor]`.
+67 types (0%) occur at least once with a non-empty value of `Number[psor]`.
+10 lemmas (0%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (4753; 1% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (176; 0% instances).
 
 ### `DET`
 
@@ -51,9 +51,9 @@ The most frequent other feature values with which `DET` and `Number[psor]` co-oc
 
 ### `PRON`
 
-177 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
+176 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (177; 100%), <tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (177; 100%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (134; 76%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (118; 67%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt> (92; 52%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (91; 51%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="ro_nonstandard-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (176; 100%), <tt><a href="ro_nonstandard-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (176; 100%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Sing</tt> (134; 76%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (117; 66%), <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=1</tt> (91; 52%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (90; 51%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 

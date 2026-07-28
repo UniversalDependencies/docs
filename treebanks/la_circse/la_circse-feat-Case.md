@@ -9,27 +9,27 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Loc`, `Nom`, `Voc`.
 
-15487 tokens (62%) have a non-empty value of `Case`.
-6545 types (70%) occur at least once with a non-empty value of `Case`.
-3108 lemmas (77%) occur at least once with a non-empty value of `Case`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (7657; 31% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (3407; 14% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (1317; 5% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1214; 5% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (939; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (896; 4% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (51; 0% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (6; 0% instances).
+17875 tokens (62%) have a non-empty value of `Case`.
+6997 types (69%) occur at least once with a non-empty value of `Case`.
+3239 lemmas (77%) occur at least once with a non-empty value of `Case`.
+The feature is used with 8 part-of-speech tags: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (8807; 30% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (3862; 13% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt> (1620; 6% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1379; 5% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (1179; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (966; 3% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> (56; 0% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt> (6; 0% instances).
 
 ### `NOUN`
 
-7657 <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
+8807 <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4842; 63%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5634; 64%).
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Abl` (1676; 22% of non-empty `Case`): <em>manu, caelo, ferro, ore, sanguine, caede, dextra, loco, uultu, gradu</em>
-* `Acc` (2494; 33% of non-empty `Case`): <em>caput, manus, deos, diem, caelum, bella, regna, aras, arma, mare</em>
-* `Dat` (427; 6% of non-empty `Case`): <em>patri, malis, regi, rebus, manibus, populis, genti, matri, superis, uulneri</em>
-* `Gen` (836; 11% of non-empty `Case`): <em>mundi, deorum, domus, regis, regni, gentis, lucis, maris, patris, regum</em>
+* `Abl` (1886; 21% of non-empty `Case`): <em>manu, ferro, sanguine, caelo, ore, dextra, loco, armis, caede, regno</em>
+* `Acc` (2933; 33% of non-empty `Case`): <em>caput, manus, deos, diem, arma, regna, caelum, bella, manum, poenas</em>
+* `Dat` (504; 6% of non-empty `Case`): <em>malis, matri, patri, regi, rebus, manibus, populis, superis, uiro, uulneri</em>
+* `Gen` (964; 11% of non-empty `Case`): <em>patris, regni, mundi, regis, deorum, domus, parentis, gentis, lucis, maris</em>
 * `Loc` (3; 0% of non-empty `Case`): <em>domi, humi</em>
-* `Nom` (2051; 27% of non-empty `Case`): <em>tellus, pars, turba, fides, arma, dies, pater, uia, domus, labor</em>
-* `Voc` (170; 2% of non-empty `Case`): <em>genitor, anime, coniunx, pater, parens, famuli, nate, rector, decus, genus</em>
-* `EMPTY` (27): <em>nefas, fas, opus</em>
+* `Nom` (2311; 26% of non-empty `Case`): <em>tellus, pars, pater, animus, turba, fides, parens, arma, uia, mater</em>
+* `Voc` (206; 2% of non-empty `Case`): <em>genitor, parens, anime, pater, coniunx, nate, famuli, rector, regina, uirgo</em>
+* `EMPTY` (40): <em>nefas, fas, opus</em>
 
 <table>
   <tr><th>Paradigm <i>domus</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Loc</tt></th><th><tt>Abl</tt></th></tr>
@@ -41,19 +41,19 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `ADJ`
 
-3407 <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
+3862 <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="la_circse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2695; 79%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2358; 69%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="la_circse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3119; 81%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2688; 70%).
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Abl` (624; 18% of non-empty `Case`): <em>graui, magno, primo, alto, longo, medio, altis, impio, ingenti, leui</em>
-* `Acc` (957; 28% of non-empty `Case`): <em>regium, saeua, Germanos, certum, graues, leuem, nouum, clarum, feros, fortem</em>
-* `Dat` (109; 3% of non-empty `Case`): <em>fessis, miseris, Cadmeis, fortibus, iratae, nouis, singulis, Ausonio, Batauis, Cadmeae</em>
-* `Gen` (304; 9% of non-empty `Case`): <em>magni, Germanorum, noui, Tonantis, atri, Gallorum, audacis, ignotae, immensae, irati</em>
-* `Nom` (1321; 39% of non-empty `Case`): <em>grauis, tristis, maior, prima, alta, felix, ferox, noua, primus, dubius</em>
-* `Voc` (92; 3% of non-empty `Case`): <em>consors, demens, dira, fallax, fortes, magnanime, magne, misera, miseranda, potens</em>
-* `EMPTY` (9): <em>satis, necesse, sat, sati</em>
+* `Abl` (699; 18% of non-empty `Case`): <em>magno, graui, longo, primo, altis, leui, alto, medio, alta, gemino</em>
+* `Acc` (1115; 29% of non-empty `Case`): <em>graues, maius, regium, saeua, nouum, Germanos, certum, nobilem, nocentes, clarum</em>
+* `Dat` (130; 3% of non-empty `Case`): <em>fessis, miseris, Cadmeis, Herculeo, fortibus, furenti, iratae, nouis, saeuis, singulis</em>
+* `Gen` (347; 9% of non-empty `Case`): <em>magni, Germanorum, noui, Tonantis, atri, irati, Gallorum, alieni, audacis, ignotae</em>
+* `Nom` (1469; 38% of non-empty `Case`): <em>grauis, prima, alta, tristis, maior, saeua, felix, ferox, nocens, noua</em>
+* `Voc` (102; 3% of non-empty `Case`): <em>magnanime, cara, consors, demens, dira, fallax, ferox, fortes, fortis, magne</em>
+* `EMPTY` (12): <em>satis, necesse, sat, sati</em>
 
 <table>
   <tr><th>Paradigm <i>magnus</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Abl</tt></th></tr>
@@ -84,19 +84,19 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `DET`
 
-1317 <tt><a href="la_circse-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Case`.
+1620 <tt><a href="la_circse-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="la_circse-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1099; 83%), <tt><a href="la_circse-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1004; 76%), <tt><a href="la_circse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1004; 76%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (905; 69%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (772; 59%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="la_circse-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1343; 83%), <tt><a href="la_circse-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1236; 76%), <tt><a href="la_circse-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1236; 76%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1123; 69%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (964; 60%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Abl` (203; 15% of non-empty `Case`): <em>hoc, ipso, illo, omni, suis, nullo, sua, suo, tantis, meis</em>
-* `Acc` (416; 32% of non-empty `Case`): <em>hoc, quicquid, hunc, omnis, hanc, suum, omne, suos, tuam, illum</em>
-* `Dat` (96; 7% of non-empty `Case`): <em>cuique, meis, omnibus, nulli, suis, illi, nostris, illis, suo, tuis</em>
-* `Gen` (82; 6% of non-empty `Case`): <em>omnium, nostri, huius, mei, nostrae, tui, sui, suae, ipsius, aliarum</em>
-* `Nom` (514; 39% of non-empty `Case`): <em>ipse, ille, hic, hoc, haec, ipsa, nulla, quisquis, illa, ista</em>
+* `Abl` (250; 15% of non-empty `Case`): <em>hoc, ipso, illo, nullo, omni, suis, toto, meis, sua, tantis</em>
+* `Acc` (542; 33% of non-empty `Case`): <em>hoc, hunc, quicquid, hanc, omne, omnis, haec, meos, suos, suum</em>
+* `Dat` (117; 7% of non-empty `Case`): <em>meis, cuique, omnibus, suis, nulli, tuis, suo, illi, illis, nostris</em>
+* `Gen` (104; 6% of non-empty `Case`): <em>omnium, mei, nostrae, nostri, tui, huius, sui, tanti, suae, meorum</em>
+* `Nom` (601; 37% of non-empty `Case`): <em>ipse, ille, hoc, hic, haec, nulla, ipsa, quisquis, omnis, ista</em>
 * `Voc` (6; 0% of non-empty `Case`): <em>ipsa, ipsae, ipse, nulla, talis</em>
-* `EMPTY` (16): <em>tot, quot, idem, totidem</em>
+* `EMPTY` (21): <em>tot, quot, idem, totidem</em>
 
 <table>
   <tr><th>Paradigm <i>ipse</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Abl</tt></th></tr>
@@ -113,51 +113,50 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ipsa</em></td><td></td><td></td><td></td><td><em>ipsa</em></td><td><em>ipsa</em></td></tr>
   <tr><td><tt><tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td><em>ipsae</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ipsum</em></td><td></td><td></td><td></td><td></td><td><em>ipso</em></td></tr>
+  <tr><td><tt><tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ipsa</em></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `VERB`
 
-1214 <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> tokens (23% of all `VERB` tokens) have a non-empty value of `Case`.
+1379 <tt><a href="la_circse-pos-VERB.html">VERB</a></tt> tokens (22% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="la_circse-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1214; 100%), <tt><a href="la_circse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1214; 100%), <tt><a href="la_circse-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1214; 100%), <tt><a href="la_circse-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1170; 96%), <tt><a href="la_circse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1008; 83%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (909; 75%), <tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (856; 71%), <tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (794; 65%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt> (618; 51%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="la_circse-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1379; 100%), <tt><a href="la_circse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1379; 100%), <tt><a href="la_circse-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1379; 100%), <tt><a href="la_circse-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1331; 97%), <tt><a href="la_circse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1173; 85%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1029; 75%), <tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (960; 70%), <tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (894; 65%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatX</tt> (702; 51%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Abl` (221; 18% of non-empty `Case`): <em>relicto, rupta, rupto, caeso, acceptis, acto, congesto, deiecto, discussa, exceptis</em>
-* `Acc` (276; 23% of non-empty `Case`): <em>cadentes, debitas, raptum, uictos, ausos, captas, clausum, data, datum, detracta</em>
-* `Dat` (36; 3% of non-empty `Case`): <em>petenti, uicto, abeunti, aestimanti, agendis, bellantibus, carenti, concupiscentibus, cremandis, cupienti</em>
-* `Gen` (50; 4% of non-empty `Case`): <em>cadentis, captae, aedificandi, coercendi, coeuntium, deuicti, electorum, emergentis, eruentis, euersi</em>
-* `Nom` (613; 50% of non-empty `Case`): <em>gerens, iussus, furens, uicta, intuens, iuncta, uictus, comitata, fusus, genitus</em>
-* `Voc` (18; 1% of non-empty `Case`): <em>armati, assidens, congresse, coniuncta, efferens, infectae, oblite, occurrens, petens, quatiens</em>
-* `EMPTY` (4101): <em>tulit, iacet, potest, precor, uenit, licet, stetit, dedit, iuuat, tenet</em>
+* `Abl` (243; 18% of non-empty `Case`): <em>relicto, rupta, rupto, caeso, iubente, acceptis, acto, congesto, deiecto, discussa</em>
+* `Acc` (328; 24% of non-empty `Case`): <em>cadentes, debitas, dominantem, editum, raptum, uictos, uinctum, abstrusum, ausos, captas</em>
+* `Dat` (42; 3% of non-empty `Case`): <em>petenti, pugnanti, uicto, abeunti, aestimanti, agendis, bellantibus, carenti, collatis, concupiscentibus</em>
+* `Gen` (64; 5% of non-empty `Case`): <em>cadentis, captae, aedificandi, clausi, coercendi, coeuntium, dati, deiecti, deuicti, electorum</em>
+* `Nom` (683; 50% of non-empty `Case`): <em>gerens, iussus, furens, uicta, comitata, intuens, iuncta, trahens, uictus, fugiens</em>
+* `Voc` (19; 1% of non-empty `Case`): <em>armati, assidens, congresse, coniuncta, efferens, infectae, oblite, occurrens, petens, quatiens</em>
+* `EMPTY` (4963): <em>potest, precor, uenit, tulit, dedit, licet, iacet, mori, iuuat, stetit</em>
 
 <table>
-  <tr><th>Paradigm <i>uinco</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th></tr>
-  <tr><td><tt><tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_circse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_circse-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurI</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td></td><td></td><td><em>uincens</em></td></tr>
-  <tr><td><tt><tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_circse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="la_circse-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>uictum</em></td><td><em>uicto</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_circse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_circse-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>uictus</em></td><td></td><td><em>uicto</em></td><td><em>uicti</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_circse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_circse-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>uicti</em></td><td><em>uictos</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_circse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_circse-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurA</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>uicta</em></td><td><em>uictam</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_circse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_circse-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>uicta</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_circse-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>uictus</em></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_circse-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>uicti</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>peto</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt><tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_circse-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurI</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_circse-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td></td><td></td><td><em>petens</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc,Neut</tt>|<tt><a href="la_circse-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurI</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_circse-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>petens</em></td><td></td><td><em>petenti</em></td><td><em>petentis</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_circse-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurI</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_circse-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>petenti</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_circse-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_circse-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>petitus</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_circse-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_circse-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>petita</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_circse-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="la_circse-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=IndEurO</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_circse-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt>|<tt><a href="la_circse-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>petendo</em></td></tr>
 </table>
 
 ### `PRON`
 
-939 <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Case`.
+1179 <tt><a href="la_circse-pos-PRON.html">PRON</a></tt> tokens (98% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (783; 83%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (543; 58%), <tt><a href="la_circse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (513; 55%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1004; 85%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=LatPron</tt> (652; 55%), <tt><a href="la_circse-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (634; 54%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Abl` (79; 8% of non-empty `Case`): <em>te, quo, me, qua, se, quibus, eo, nobis, aliqua, aliquo</em>
-* `Acc` (359; 38% of non-empty `Case`): <em>te, me, quid, quod, se, quem, quae, quas, quam, quos</em>
-* `Dat` (134; 14% of non-empty `Case`): <em>tibi, mihi, cui, quibus, sibi, nobis, uobis, cuiquam, quis, tibimet</em>
-* `Gen` (44; 5% of non-empty `Case`): <em>cuius, sui, eius, quorum, eorum, nostri, tui, earum, mei</em>
-* `Nom` (298; 32% of non-empty `Case`): <em>qui, quae, quis, quid, quod, tu, nemo, ego, id, aliquis</em>
-* `Voc` (25; 3% of non-empty `Case`): <em>tu, uos</em>
-* `EMPTY` (19): <em>nihil, nil, nonnihil</em>
+* `Abl` (107; 9% of non-empty `Case`): <em>te, me, quo, qua, se, quibus, eo, nobis, aliqua, aliquo</em>
+* `Acc` (441; 37% of non-empty `Case`): <em>te, me, quod, quid, se, quem, quae, quas, quam, quos</em>
+* `Dat` (167; 14% of non-empty `Case`): <em>tibi, mihi, cui, quibus, sibi, nobis, uobis, cuiquam, quis, tibimet</em>
+* `Gen` (51; 4% of non-empty `Case`): <em>cuius, sui, eius, quorum, tui, eorum, mei, nostri, earum</em>
+* `Nom` (386; 33% of non-empty `Case`): <em>qui, quae, quis, quod, quid, ego, tu, nemo, id, aliquis</em>
+* `Voc` (27; 2% of non-empty `Case`): <em>tu, uos</em>
+* `EMPTY` (25): <em>nil, nihil, nonnihil</em>
 
 <table>
   <tr><th>Paradigm <i>tu</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Voc</tt></th><th><tt>Abl</tt></th></tr>
@@ -166,18 +165,18 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `PROPN`
 
-896 <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
+966 <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (774; 86%), <tt><a href="la_circse-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (721; 80%), <tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (541; 60%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (831; 86%), <tt><a href="la_circse-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (777; 80%), <tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (578; 60%).
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Abl` (84; 9% of non-empty `Case`): <em>Ioue, Erebo, Hercule, Marte, Thebis, Uenere, Alcide, Alcmena, Austro, Baccho</em>
-* `Acc` (173; 19% of non-empty `Case`): <em>Manes, Herculem, Iouem, Rhenum, Mycenas, Phoebum, Styga, Germaniam, Lares, Penates</em>
-* `Dat` (69; 8% of non-empty `Case`): <em>Ioui, Phoebo, Alcidae, Fortunae, Oceano, Thebis, Achilli, Baccho, Danais, Diti</em>
-* `Gen` (201; 22% of non-empty `Case`): <em>Ditis, Germaniae, Phoebi, Herculis, Bacchi, Iouis, Alcidae, Stygis, Tartari, Rheni</em>
-* `Nom` (317; 35% of non-empty `Case`): <em>Phoebus, Lycus, Titan, Alcides, Fortuna, Troia, Agamemnon, Cithaeron, Eurystheus, Thebae</em>
-* `Voc` (52; 6% of non-empty `Case`): <em>Theseu, Phoebe, Aegisthe, Iuno, Alcide, Argos, Bacche, Cassandra, Fortuna, Oresta</em>
+* `Abl` (86; 9% of non-empty `Case`): <em>Ioue, Erebo, Hercule, Lare, Marte, Thebis, Uenere, Alcide, Alcmena, Austro</em>
+* `Acc` (186; 19% of non-empty `Case`): <em>Manes, Herculem, Iouem, Penates, Rhenum, Lares, Mycenas, Phoebum, Styga, Thebas</em>
+* `Dat` (76; 8% of non-empty `Case`): <em>Ioui, Phoebo, Thebis, Alcidae, Baccho, Fortunae, Oceano, Achilli, Danais, Diti</em>
+* `Gen` (215; 22% of non-empty `Case`): <em>Ditis, Germaniae, Phoebi, Herculis, Bacchi, Iouis, Alcidae, Stygis, Tartari, Cadmi</em>
+* `Nom` (348; 36% of non-empty `Case`): <em>Phoebus, Lycus, Titan, Alcides, Cithaeron, Fortuna, Troia, Agamemnon, Thebae, Eurystheus</em>
+* `Voc` (55; 6% of non-empty `Case`): <em>Theseu, Phoebe, Aegisthe, Iuno, Alcide, Fortuna, Argos, Bacche, Cassandra, Cithaeron</em>
 * `EMPTY` (4): <em>Manto, Tempe</em>
 
 <table>
@@ -187,18 +186,18 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `NUM`
 
-51 <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> tokens (75% of all `NUM` tokens) have a non-empty value of `Case`.
+56 <tt><a href="la_circse-pos-NUM.html">NUM</a></tt> tokens (74% of all `NUM` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="la_circse-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (51; 100%), <tt><a href="la_circse-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (47; 92%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 78%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt> (27; 53%).
+The most frequent other feature values with which `NUM` and `Case` co-occurred: <tt><a href="la_circse-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (56; 100%), <tt><a href="la_circse-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (52; 93%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 71%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt> (31; 55%).
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Abl` (14; 27% of non-empty `Case`): <em>uno, una, tribus</em>
-* `Acc` (12; 24% of non-empty `Case`): <em>unum, duos, tris, duas, milia, tria</em>
-* `Dat` (3; 6% of non-empty `Case`): <em>uni</em>
-* `Gen` (3; 6% of non-empty `Case`): <em>unius</em>
-* `Nom` (19; 37% of non-empty `Case`): <em>una, unus, ducenti, duo, tria, unum</em>
-* `EMPTY` (17): <em>decem, mille, septem, centum, quinque, sex, sexaginta</em>
+* `Abl` (14; 25% of non-empty `Case`): <em>uno, una, tribus</em>
+* `Acc` (16; 29% of non-empty `Case`): <em>duos, unum, duas, tris, milia, tria</em>
+* `Dat` (4; 7% of non-empty `Case`): <em>uni, duobus</em>
+* `Gen` (3; 5% of non-empty `Case`): <em>unius</em>
+* `Nom` (19; 34% of non-empty `Case`): <em>una, unus, ducenti, duo, tria, unum</em>
+* `EMPTY` (20): <em>decem, mille, septem, centum, quinque, sex, sexaginta</em>
 
 <table>
   <tr><th>Paradigm <i>unus</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Abl</tt></th></tr>
@@ -220,19 +219,19 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 `ADV` tokens may have the following values of `Case`:
 
 * `Loc` (6; 100% of non-empty `Case`): <em>hinc, hic</em>
-* `EMPTY` (1266): <em>iam, nunc, quid, semper, sic, tamen, etiam, hinc, tam, et</em>
+* `EMPTY` (1485): <em>iam, nunc, quid, semper, hinc, sic, tamen, et, etiam, tam</em>
 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="la_circse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2250; 100%),
-<tt>NOUN --[<tt><a href="la_circse-dep-det.html">det</a></tt>]--> DET</tt> (740; 97%),
-<tt>NOUN --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (629; 97%),
-<tt>NOUN --[<tt><a href="la_circse-dep-acl.html">acl</a></tt>]--> VERB</tt> (428; 96%),
-<tt>PROPN --[<tt><a href="la_circse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (221; 100%),
-<tt>ADJ --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (159; 98%),
-<tt>VERB --[<tt><a href="la_circse-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (131; 54%),
-<tt>NOUN --[<tt><a href="la_circse-dep-det.html">det</a></tt>]--> PRON</tt> (88; 95%),
-<tt>ADJ --[<tt><a href="la_circse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (86; 97%),
-<tt>PROPN --[<tt><a href="la_circse-dep-acl.html">acl</a></tt>]--> VERB</tt> (78; 98%).
+<tt>NOUN --[<tt><a href="la_circse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2558; 99%),
+<tt>NOUN --[<tt><a href="la_circse-dep-det.html">det</a></tt>]--> DET</tt> (894; 96%),
+<tt>NOUN --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (703; 97%),
+<tt>NOUN --[<tt><a href="la_circse-dep-acl.html">acl</a></tt>]--> VERB</tt> (508; 96%),
+<tt>PROPN --[<tt><a href="la_circse-dep-amod.html">amod</a></tt>]--> ADJ</tt> (237; 100%),
+<tt>ADJ --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (176; 98%),
+<tt>VERB --[<tt><a href="la_circse-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (139; 53%),
+<tt>ADJ --[<tt><a href="la_circse-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (94; 95%),
+<tt>NOUN --[<tt><a href="la_circse-dep-det.html">det</a></tt>]--> PRON</tt> (94; 95%),
+<tt>PROPN --[<tt><a href="la_circse-dep-acl.html">acl</a></tt>]--> VERB</tt> (88; 98%).
 

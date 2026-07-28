@@ -32,4 +32,4 @@ Jensen, Hans. 1959. Altarmenische Grammatik. Heidelberg: Winter.
 Klein, Jared. 2017. The syntax of Armenian. In: J. Klein et al. (eds.), _Handbook of comparative and historical Indo-European linguistics_. Berlin, Boston: Walter de Gruyter: 1097‒1115.
 
 Ouzounian, Agnès. 1992. _Le discours rapporté en arménien classique_. Louvain-La-Neuve: Peeters, 1992.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:02 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->

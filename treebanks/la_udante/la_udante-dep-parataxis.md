@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `parataxis`: <tt><a 
 4	sese	sui	PRON	ppp3pma	Case=Acc|Form=Emp|InflClass=LatAnom|Person=3|PronType=Prs|Reflex=Yes	8	obj	_	_
 5	investigati	inuestigo	VERB	vp1prsng	Aspect=Perf|Case=Gen|Gender=Neut|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	7	acl	_	TraditionalMood=Participium|TraditionalTense=Perfectum
 6	vulgaris	uulgare	NOUN	sns3g	Case=Gen|Gender=Neut|InflClass=IndEurI|Number=Sing	5	nsubj:pass	_	_
-7	honore	honos	NOUN	sms3b	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	8	obl	_	_
+7	honore	honor	NOUN	sms3b	Case=Abl|Gender=Masc|InflClass=IndEurX|Number=Sing	8	obl	_	_
 8	dignantur	dignor	VERB	vd1ipp3	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|TraditionalMood=Indicativus|TraditionalTense=Praesens
 9	;	;	PUNCT	Pu	_	10	punct	_	_
 10	et	et	CCONJ	co	_	22	cc	_	_

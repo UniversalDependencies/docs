@@ -7,49 +7,59 @@ udver: '2'
 ## Treebank Statistics: UD_Turkish-BOUN: Features: `PronType`
 
 This feature is universal but the values `Loc` are language-specific.
-It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Loc`, `Prs`, `Rcp`.
+It occurs with 7 different values: `Dem`, `Ind`, `Int`, `Loc`, `Neg`, `Prs`, `Rcp`.
 
-2228 tokens (2%) have a non-empty value of `PronType`.
-218 types (1%) occur at least once with a non-empty value of `PronType`.
-68 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (2224; 2% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+8667 tokens (7%) have a non-empty value of `PronType`.
+466 types (1%) occur at least once with a non-empty value of `PronType`.
+145 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="tr_boun-pos-DET.html">DET</a></tt> (5098; 4% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (3565; 3% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+
+### `DET`
+
+5098 <tt><a href="tr_boun-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+
+`DET` tokens may have the following values of `PronType`:
+
+* `Dem` (2117; 42% of non-empty `PronType`): <em>bu, her, o, tüm, bütün, şu, diğer, ...Bu, bütü, het</em>
+* `Ind` (2854; 56% of non-empty `PronType`): <em>bir, bazı, birkaç, birçok, kimi, çok, herhangi, çoğu, birtakım, BİR</em>
+* `Int` (33; 1% of non-empty `PronType`): <em>hangi, kaç</em>
+* `Neg` (94; 2% of non-empty `PronType`): <em>hiçbir, hiç</em>
+
+`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (31) occur only with one value of `PronType`.
 
 ### `PRON`
 
-2224 <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> tokens (62% of all `PRON` tokens) have a non-empty value of `PronType`.
+3565 <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2208; 99%), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2208; 99%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1631; 73%), <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (1342; 60%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (2810; 79%), <tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (2810; 79%), <tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2645; 74%), <tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt> (2330; 65%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (453; 20% of non-empty `PronType`): <em>bu, bunu, bunun, buna, bunlar, bundan, bunları, bunların, o, şunu</em>
-* `Ind` (8; 0% of non-empty `PronType`): <em>kimi, Tasviri, biribirine, böylesine, diri, çoğu</em>
-* `Int` (272; 12% of non-empty `PronType`): <em>ne, kim, neler, nedir, nerede, nereye, neyi, nereden, nerde, neye</em>
-* `Loc` (133; 6% of non-empty `PronType`): <em>orada, burada, buraya, buradan, oradan, oraya, burda, şuradan, Adadan, Buranın</em>
-* `Prs` (1354; 61% of non-empty `PronType`): <em>ben, bana, benim, onun, o, onu, beni, biz, bizim, ona</em>
-* `Rcp` (4; 0% of non-empty `PronType`): <em>birbirlerini, birbirinden, birbirine</em>
-* `EMPTY` (1358): <em>kendi, biri, ne, ben, kendini, benim, bana, kendisine, onun, beni</em>
+* `Dem` (602; 17% of non-empty `PronType`): <em>bu, bunu, bunun, buna, bunlar, bundan, bunları, bunların, o, burada</em>
+* `Ind` (303; 8% of non-empty `PronType`): <em>biri, hepsi, bazıları, birisi, hepimiz, birinin, hepsinin, hepsini, kimse, birinden</em>
+* `Int` (364; 10% of non-empty `PronType`): <em>ne, kim, neler, nedir, nereye, nerede, neden, neyi, nereden, neye</em>
+* `Loc` (133; 4% of non-empty `PronType`): <em>orada, burada, buraya, buradan, oradan, oraya, burda, şuradan, Adadan, Buranın</em>
+* `Prs` (2128; 60% of non-empty `PronType`): <em>ben, benim, bana, onun, kendi, beni, onu, o, bizim, biz</em>
+* `Rcp` (35; 1% of non-empty `PronType`): <em>birbirine, birbirlerine, birbirinden, birbirlerini, birbirimize, birbirimizi, birbirinin, Birbiri, birbirini, birbirinize</em>
 
 <table>
-  <tr><th>Paradigm <i>o</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ondan</em></td><td><em>Ondan</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>onlardan</em></td><td><em>onlardan</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>onu</em></td><td><em>onu</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>onları, onlar</em></td><td><em>onları</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ona</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>onlara</em></td><td><em>onlara</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Equ</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>onca</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>onun</em></td><td><em>onun</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>onların</em></td><td><em>onların</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>onunla</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>onlarla</em></td><td><em>onlarla</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>onda</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>o</em></td><td><em>o, On</em></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>onlar, Onların</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>O</em></td></tr>
+  <tr><th>Paradigm <i>bu</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th><th><tt>Ind</tt></th></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>bu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>bundan</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>bunlardan</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_boun-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>Bunu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>bunu, bu, bun</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>bunları</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>buna</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>bunlara</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>bunun</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>bunların</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>bununla</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>bunda</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>bunlarda</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>bu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_boun-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_boun-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_boun-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>bunlar</em></td><td><em>bunlar</em></td><td><em>Bu</em></td></tr>
 </table>
-
-`PronType` seems to be **lexical feature** of `PRON`. 92% lemmas (61) occur only with one value of `PronType`.
 
 ### `NOUN`
 
@@ -60,7 +70,7 @@ The most frequent other feature values with which `NOUN` and `PronType` co-occur
 `NOUN` tokens may have the following values of `PronType`:
 
 * `Int` (2; 100% of non-empty `PronType`): <em>Niceden, başhekim</em>
-* `EMPTY` (38349): <em>var, yok, zaman, gün, şey, içinde, yıl, arasında, yer, üzerine</em>
+* `EMPTY` (38363): <em>var, yok, zaman, gün, şey, içinde, yıl, arasında, yer, üzerine</em>
 
 ### `NUM`
 
@@ -76,8 +86,11 @@ The most frequent other feature values with which `NUM` and `PronType` co-occurr
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (6; 100%),
-<tt>PRON --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 57%),
-<tt>PRON --[<tt><a href="tr_boun-dep-obj.html">obj</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="tr_boun-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt>]--> PRON</tt> (15; 100%),
+<tt>PRON --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> PRON</tt> (9; 69%),
+<tt>DET --[<tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt>]--> DET</tt> (2; 100%),
+<tt>PRON --[<tt><a href="tr_boun-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (2; 100%),
+<tt>DET --[<tt><a href="tr_boun-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
+<tt>DET --[<tt><a href="tr_boun-dep-det.html">det</a></tt>]--> DET</tt> (1; 100%),
+<tt>PRON --[<tt><a href="tr_boun-dep-obj.html">obj</a></tt>]--> PRON</tt> (1; 100%).
 

@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>da</em> (<tt><a href="sr_set-pos-SCON
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.040000 (the average of all parts of speech is 1.845341).
+The form / lemma ratio of `SCONJ` is 1.040000 (the average of all parts of speech is 1.845258).
 
 The 1st highest number of forms (2) was observed with the lemma “zato”: <em>zato, zašto</em>.
 

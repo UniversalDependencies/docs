@@ -9,70 +9,68 @@ udver: '2'
 This feature is universal.
 It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`.
 
-3939 tokens (4%) have a non-empty value of `PronType`.
-88 types (2%) occur at least once with a non-empty value of `PronType`.
-27 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (2909; 3% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (927; 1% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (99; 0% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+3827 tokens (4%) have a non-empty value of `PronType`.
+132 types (3%) occur at least once with a non-empty value of `PronType`.
+24 lemmas (1%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (2894; 3% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (929; 1% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 ### `DET`
 
-2909 <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+2894 <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="tr_tourism-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1930; 66%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="tr_tourism-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (1930; 67%).
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Art` (2909; 100% of non-empty `PronType`): <em>BİR, HER, BU, O, HİÇBİR, ŞU, TÜM, BAZI, ÇOK, DÖRTLÜK</em>
-
-`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `PronType`.
+* `Art` (1904; 66% of non-empty `PronType`): <em>bir, hiçbir</em>
+* `Dem` (385; 13% of non-empty `PronType`): <em>bu, o, şu, Su, bir</em>
+* `Ind` (564; 19% of non-empty `PronType`): <em>her, tüm, bazı, Hep</em>
+* `Neg` (41; 1% of non-empty `PronType`): <em>hiçbir</em>
+* `EMPTY` (15): <em>çok, dörtlük</em>
 
 ### `PRON`
 
-927 <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+929 <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="tr_tourism-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (831; 90%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="tr_tourism-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (833; 90%), <tt><a href="tr_tourism-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (646; 70%), <tt><a href="tr_tourism-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (646; 70%), <tt><a href="tr_tourism-feat-Person.html">Person</a></tt><tt>=1</tt> (540; 58%), <tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt> (487; 52%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (54; 6% of non-empty `PronType`): <em>ONLAR, O, BU, BUNDAN, BUNA, BUNUN, BUNLAR, BUNU, ONDAN, ONLARA</em>
-* `Ind` (182; 20% of non-empty `PronType`): <em>HEPSİ, HERKESE, HERKES, HEPSİNE, HEPSİNDEN, BİRİ, HEPSİNİ, KİMSE, BAZILARI, BİRİSİ</em>
-* `Int` (4; 0% of non-empty `PronType`): <em>KİM, NE</em>
-* `Neg` (2; 0% of non-empty `PronType`): <em>HİÇBİRİ</em>
-* `Prs` (684; 74% of non-empty `PronType`): <em>BEN, BİZİMLE, BENCE, BANA, BİZİ, BİZE, BENİ, BİZ, BENİM, KENDİSİ</em>
-* `Rcp` (1; 0% of non-empty `PronType`): <em>BİRBİRİNE</em>
+* `Dem` (54; 6% of non-empty `PronType`): <em>onlar, o, bu, Bundan, Bunun, buna, Bunlar, bunu, ondan, onlara</em>
+* `Ind` (174; 19% of non-empty `PronType`): <em>hepsi, herkese, herkes, hepsine, Hepsinden, biri, Hepsini, bazıları, birisi, hepsinin</em>
+* `Int` (4; 0% of non-empty `PronType`): <em>kim, ne</em>
+* `Neg` (12; 1% of non-empty `PronType`): <em>kimse, kimseye, Hiçbiri</em>
+* `Prs` (684; 74% of non-empty `PronType`): <em>ben, bizimle, bence, bana, bizi, bize, kendisi, beni, biz, benim</em>
+* `Rcp` (1; 0% of non-empty `PronType`): <em>birbirine</em>
 
 <table>
   <tr><th>Paradigm <i>o</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>ONLAR, ONUN, O, ONA, ONLARA, ONUNLA</em></td><td><em>ONLAR, O, ONDAN, ONLARA, ONLARDAN, ONUN, ONA, ONUNLA</em></td></tr>
+  <tr><td><tt><tt><a href="tr_tourism-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ondan</em></td></tr>
+  <tr><td><tt><tt><a href="tr_tourism-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>onlardan</em></td></tr>
+  <tr><td><tt><tt><a href="tr_tourism-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ona</em></td><td><em>ona</em></td></tr>
+  <tr><td><tt><tt><a href="tr_tourism-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Onlara</em></td><td><em>onlara</em></td></tr>
+  <tr><td><tt><tt><a href="tr_tourism-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>onun</em></td><td><em>onun</em></td></tr>
+  <tr><td><tt><tt><a href="tr_tourism-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>onunla</em></td><td><em>onunla</em></td></tr>
+  <tr><td><tt><tt><a href="tr_tourism-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_tourism-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Onlar</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_tourism-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>o</em></td><td><em>o</em></td></tr>
+  <tr><td><tt><tt><a href="tr_tourism-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>onlar</em></td><td><em>onlar, Onlara</em></td></tr>
 </table>
 
 `PronType` seems to be **lexical feature** of `PRON`. 95% lemmas (18) occur only with one value of `PronType`.
-
-### `ADV`
-
-99 <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `PronType`.
-
-`ADV` tokens may have the following values of `PronType`:
-
-* `Ind` (66; 67% of non-empty `PronType`): <em>HEP</em>
-* `Int` (33; 33% of non-empty `PronType`): <em>NE, NASIL</em>
-* `EMPTY` (7181): <em>ÇOK, OLARAK, DAHA, BİRAZ, GAYET, HİÇ, SADECE, ÖZELLİKLE, PEK, KESİNLİKLE</em>
 
 ### `AUX`
 
 4 <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `AUX` and `PronType` co-occurred: <tt><a href="tr_tourism-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="tr_tourism-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="tr_tourism-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="tr_tourism-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="tr_tourism-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4; 100%).
+The most frequent other feature values with which `AUX` and `PronType` co-occurred: <tt><a href="tr_tourism-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="tr_tourism-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="tr_tourism-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="tr_tourism-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="tr_tourism-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3; 75%).
 
 `AUX` tokens may have the following values of `PronType`:
 
-* `Int` (4; 100% of non-empty `PronType`): <em>MİYİM, MU, MİYDİ</em>
-* `EMPTY` (1301): <em>DEĞİLDİ, DEĞİL, DEĞİLİM, DEĞİLLERDİ, DEĞİLLER, DEĞİLDİM, DEĞİLDİK, DEĞİLDİLER, DEĞİLDİR</em>
+* `Int` (4; 100% of non-empty `PronType`): <em>miyim, miydi, mu</em>
+* `EMPTY` (1301): <em>değildi, değil, değilim, değillerdi, değiller, değildim, değildik, değildiler, değildir</em>
 
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>DET --[<tt><a href="tr_tourism-dep-det.html">det</a></tt>]--> DET</tt> (3; 100%),
-<tt>DET --[<tt><a href="tr_tourism-dep-fixed.html">fixed</a></tt>]--> DET</tt> (2; 100%),
 <tt>PRON --[<tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2; 100%).
 

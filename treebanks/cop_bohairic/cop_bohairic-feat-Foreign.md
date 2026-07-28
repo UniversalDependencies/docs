@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-2527 tokens (8%) have a non-empty value of `Foreign`.
+2528 tokens (8%) have a non-empty value of `Foreign`.
 557 types (27%) occur at least once with a non-empty value of `Foreign`.
 551 lemmas (31%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 13 part-of-speech tags: <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (1141; 3% instances), <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (442; 1% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (314; 1% instances), <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> (185; 1% instances), <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (151; 0% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> (123; 0% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (108; 0% instances), <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> (51; 0% instances), <tt><a href="cop_bohairic-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="cop_bohairic-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 13 part-of-speech tags: <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt> (1141; 3% instances), <tt><a href="cop_bohairic-pos-PART.html">PART</a></tt> (442; 1% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt> (314; 1% instances), <tt><a href="cop_bohairic-pos-CCONJ.html">CCONJ</a></tt> (185; 1% instances), <tt><a href="cop_bohairic-pos-SCONJ.html">SCONJ</a></tt> (151; 0% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt> (123; 0% instances), <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> (109; 0% instances), <tt><a href="cop_bohairic-pos-ADP.html">ADP</a></tt> (51; 0% instances), <tt><a href="cop_bohairic-pos-X.html">X</a></tt> (7; 0% instances), <tt><a href="cop_bohairic-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -21,7 +21,7 @@ The feature is used with 13 part-of-speech tags: <tt><a href="cop_bohairic-pos-N
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (1141; 100% of non-empty `Foreign`): ⲁⲡⲁ, ⲭⲣⲓⲥⲧⲟⲥ, ⲡⲛⲉⲩⲙⲁ, ⲙⲁⲑⲏⲧⲏⲥ, ⲕⲟⲥⲙⲟⲥ, ⲥⲱⲙⲁ, ⲯⲩⲭⲏ, ⲇⲁⲓⲙⲱⲛ, ⲁⲣⲉⲧⲏ, ⲡⲣⲟⲫⲏⲧⲏⲥ
-* `EMPTY` (3895): ⲛⲟⲩϯ, ⲣⲏϯ, ⲣⲱⲙⲓ, ⲙⲏϣ, ⲧⲏⲣ, ⲓⲱⲧ, ϩⲏⲧ, ⲙⲁ, ⲥⲁϫⲓ, ϭⲟⲉⲓⲥ
+* `EMPTY` (3896): ⲛⲟⲩϯ, ⲣⲏϯ, ⲣⲱⲙⲓ, ⲙⲏϣ, ⲧⲏⲣ, ⲓⲱⲧ, ϩⲏⲧ, ⲙⲁ, ⲥⲁϫⲓ, ϭⲟⲉⲓⲥ
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (317) occur only with one value of `Foreign`.
 
@@ -78,22 +78,22 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (123; 100% of non-empty `Foreign`): ⲉⲣⲥⲕⲁⲛⲇⲁⲗⲓⲍⲉⲥⲑⲉ, ⲉⲣⲭⲣⲓⲁ, ⲉⲣⲁⲛⲁⲭⲱⲣⲓⲛ, ⲉⲣϩⲉⲗⲡⲓⲥ, ⲉⲣⲁⲡⲁⲛⲧⲁⲛ, ⲉⲣⲉⲧⲓⲛ, ⲉⲣⲉⲡⲓⲧⲓⲙⲁⲛ, ⲉⲣⲛⲏⲥⲧⲉⲩⲓⲛ, ⲉⲣⲡⲣⲟⲕⲟⲡⲧⲉⲓⲛ, ⲧⲟⲓ
-* `EMPTY` (3794): ⲓ, ϣⲱⲡⲓ, ϫⲱ, ⲟⲩⲁⲃ, ⲛⲁⲩ, ⲡⲉϫⲁ, ⲟⲩⲟⲛ, ⲉⲣ, ⲥⲱⲧⲉⲙ, ϣⲉ
+* `EMPTY` (3793): ⲓ, ϣⲱⲡⲓ, ϫⲱ, ⲟⲩⲁⲃ, ⲛⲁⲩ, ⲡⲉϫⲁ, ⲟⲩⲟⲛ, ⲉⲣ, ⲥⲱⲧⲉⲙ, ϣⲉ
 
 `Foreign` seems to be **lexical feature** of `VERB`. 100% lemmas (78) occur only with one value of `Foreign`.
 
 ### `ADV`
 
-108 <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `Foreign`.
+109 <tt><a href="cop_bohairic-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADV` and `Foreign` co-occurred: <tt><a href="cop_bohairic-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (108; 100%), <tt><a href="cop_bohairic-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (106; 98%).
+The most frequent other feature values with which `ADV` and `Foreign` co-occurred: <tt><a href="cop_bohairic-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (109; 100%), <tt><a href="cop_bohairic-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (106; 97%).
 
 `ADV` tokens may have the following values of `Foreign`:
 
-* `Yes` (108; 100% of non-empty `Foreign`): ⲧⲟⲧⲉ, ⲙⲁⲗⲗⲟⲛ, ⲕⲁⲗⲱⲥ, ⲡⲁⲗⲓⲛ, ⲡⲱⲥ, ⲗⲟⲓⲡⲟⲛ, ϩⲏⲇⲏ, ⲉⲧⲓ, ϩⲟⲗⲱⲥ, ⲁⲗⲏⲑⲱⲥ
-* `EMPTY` (996): ⲉⲃⲟⲗ, ⲁⲛ, ⲉϧⲟⲩⲛ, ⲟⲛ, ⲙⲙⲁⲩ, ⲛ, ϣⲧⲉⲙ, ⲥⲁⲃⲟⲗ, ⲉϧⲣⲏⲓ, ⲉϩⲣⲏⲓ
+* `Yes` (109; 100% of non-empty `Foreign`): ⲧⲟⲧⲉ, ⲙⲁⲗⲗⲟⲛ, ⲕⲁⲗⲱⲥ, ⲡⲁⲗⲓⲛ, ⲡⲱⲥ, ⲗⲟⲓⲡⲟⲛ, ϩⲏⲇⲏ, ⲉⲧⲓ, ϩⲟⲗⲱⲥ, ⲁⲗⲏⲑⲱⲥ
+* `EMPTY` (995): ⲉⲃⲟⲗ, ⲁⲛ, ⲉϧⲟⲩⲛ, ⲟⲛ, ⲙⲙⲁⲩ, ⲛ, ϣⲧⲉⲙ, ⲥⲁⲃⲟⲗ, ⲉϧⲣⲏⲓ, ⲉϩⲣⲏⲓ
 
-`Foreign` seems to be **lexical feature** of `ADV`. 100% lemmas (23) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `ADV`. 100% lemmas (24) occur only with one value of `Foreign`.
 
 ### `ADP`
 

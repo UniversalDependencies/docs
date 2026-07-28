@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-268 nodes (1%) are attached to their parents as `xcomp`.
+270 nodes (1%) are attached to their parents as `xcomp`.
 
-263 instances of `xcomp` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.40298507462687.
+265 instances of `xcomp` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.40740740740741.
 
-The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (177; 66% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (47; 18% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (29; 11% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-X.html">X</a></tt> (5; 2% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt>-<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="el_gud-pos-AUX.html">AUX</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (178; 66% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (47; 17% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (31; 11% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-X.html">X</a></tt> (5; 2% instances), <tt><a href="el_gud-pos-AUX.html">AUX</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt>-<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,12 +22,12 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 xcomp	color:blue
-1	«	«	PUNCT	_	_	2	punct	_	PunctType=Quot
+1	«	«	PUNCT	_	_	2	punct	_	PunctType=Quot|SpaceAfter=No
 2	Έλα	έρχομαι	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	να	να	SCONJ	_	_	6	mark	_	_
 4	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
 5	τα	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	6	obj	_	_
-6	πεις	λέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	xcomp	_	_
+6	πεις	λέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	2	xcomp	_	SpaceAfter=No
 7	»	»	PUNCT	_	_	2	punct	_	PunctType=Quot|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	PunctType=Peri
 
@@ -59,13 +59,13 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 xcomp	color:blue
-1	«	«	PUNCT	_	_	6	punct	_	PunctType=Quot
+1	«	«	PUNCT	_	_	6	punct	_	PunctType=Quot|SpaceAfter=No
 2	Γιατί	γιατί	ADV	_	PronType=Int	6	advmod	_	_
 3	τα	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
 4	παθήματα	πάθημα	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	_
 5	μού	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	6	obl	_	_
 6	γίνονται	γίνομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-7	μαθήματα	μάθημα	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	xcomp	_	_
+7	μαθήματα	μάθημα	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	6	xcomp	_	SpaceAfter=No
 8	»	»	PUNCT	_	_	6	punct	_	PunctType=Quot|SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	PunctType=Peri
 

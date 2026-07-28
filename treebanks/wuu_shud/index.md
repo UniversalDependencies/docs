@@ -19,12 +19,12 @@ This treebank has been part of Universal Dependencies since the UD v2.17 release
 The following people have contributed to making this treebank part of UD: Qizhen Yang.
 
 Repository: [UD_Shanghainese-ShUD](https://github.com/UniversalDependencies/UD_Shanghainese-ShUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udwuu_shud217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udwuu_shud218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
-Genre: grammar-examples
+Genre: spoken
 
 Questions, comments?
 General annotation questions (either Shanghainese-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).

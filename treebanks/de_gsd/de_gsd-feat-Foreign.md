@@ -23,7 +23,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (2068; 100% of non-empty `Foreign`): <em>of, de, la, University, d', for, di, a, do, du</em>
-* `EMPTY` (28348): <em>Deutschland, US, Berlin, SPD, St., Oktober, Frankreich, August, New, Mai</em>
+* `EMPTY` (27696): <em>Deutschland, US, Berlin, SPD, St., Frankreich, New, USA, Peter, Weltkrieg</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1359) occur only with one value of `Foreign`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (106; 100% of non-empty `Foreign`): <em>Bass, Top, facto, Arrondissement, Love, name, Armée, Atun, Banking, Chief</em>
-* `EMPTY` (52190): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52842): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (94) occur only with one value of `Foreign`.
 

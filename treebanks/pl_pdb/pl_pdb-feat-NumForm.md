@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
-4662 tokens (1%) have a non-empty value of `NumForm`.
+4660 tokens (1%) have a non-empty value of `NumForm`.
 832 types (1%) occur at least once with a non-empty value of `NumForm`.
 748 lemmas (3%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 3 part-of-speech tags: <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (2633; 1% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1159; 0% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt> (870; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="pl_pdb-pos-NUM.html">NUM</a></tt> (2633; 1% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (1159; 0% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt> (868; 0% instances).
 
 ### `NUM`
 
@@ -43,16 +43,16 @@ The most frequent other feature values with which `ADJ` and `NumForm` co-occurre
 
 ### `X`
 
-870 <tt><a href="pl_pdb-pos-X.html">X</a></tt> tokens (82% of all `X` tokens) have a non-empty value of `NumForm`.
+868 <tt><a href="pl_pdb-pos-X.html">X</a></tt> tokens (77% of all `X` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `X` and `NumForm` co-occurred: <tt><a href="pl_pdb-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (870; 100%).
+The most frequent other feature values with which `X` and `NumForm` co-occurred: <tt><a href="pl_pdb-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (868; 100%).
 
 `X` tokens may have the following values of `NumForm`:
 
-* `Digit` (858; 99% of non-empty `NumForm`): <em>2, 1, 3, 4, 5, 6, 7, 8, 14, 9</em>
+* `Digit` (856; 99% of non-empty `NumForm`): <em>2, 1, 3, 4, 5, 6, 7, 8, 14, 9</em>
 * `Roman` (12; 1% of non-empty `NumForm`): <em>I, IV, II, III, VI, XI</em>
 
-`NumForm` seems to be **lexical feature** of `X`. 100% lemmas (277) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `X`. 100% lemmas (276) occur only with one value of `NumForm`.
 
 ## Relations with Agreement in `NumForm`
 

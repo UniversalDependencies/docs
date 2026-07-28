@@ -23,17 +23,17 @@ The following 1 pairs of parts of speech are connected with `compound:svc`: <tt>
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 compound:svc	color:blue
-1	હું	હું	PRON	_	_	2	nsubj	_	_
-2	પહોંચી	પહોંચી	VERB	_	_	0	root	_	_
-3	ના	ના	PART	_	_	2	advmod	_	_
-4	વળ્યો	વળ્યો	VERB	_	_	2	compound:svc	_	_
-5	કારણકે	કારણકે	SCONJ	_	_	9	mark	_	_
-6	તે	તે	PRON	_	_	9	nsubj	_	_
-7	ખૂબ	ખૂબ	ADV	_	_	8	advmod	_	_
-8	ઝડપી	ઝડપી	ADJ	_	_	9	amod	_	_
-9	દોડી	દોડી	VERB	_	_	2	advcl	_	_
-10	ગયો	ગયું	AUX	_	_	9	aux	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+1	હું	હું	PRON	_	_	2	nsubj	_	LTranslit=huṁ|Translit=huṁ
+2	પહોંચી	પહોંચી	VERB	_	_	0	root	_	LTranslit=pahoṁcī|Translit=pahoṁcī
+3	ના	ના	PART	_	_	2	advmod	_	LTranslit=nā|Translit=nā
+4	વળ્યો	વળ્યો	VERB	_	_	2	compound:svc	_	LTranslit=vaḷyo|Translit=vaḷyo
+5	કારણકે	કારણકે	SCONJ	_	_	9	mark	_	LTranslit=kāraṇake|Translit=kāraṇake
+6	તે	તે	PRON	_	_	9	nsubj	_	LTranslit=te|Translit=te
+7	ખૂબ	ખૂબ	ADV	_	_	8	advmod	_	LTranslit=khūba|Translit=khūba
+8	ઝડપી	ઝડપી	ADJ	_	_	9	amod	_	LTranslit=jhaḍapī|Translit=jhaḍapī
+9	દોડી	દોડી	VERB	_	_	2	advcl	_	LTranslit=doḍī|Translit=doḍī
+10	ગયો	ગયું	AUX	_	_	9	aux	_	LTranslit=gayuṁ|SpaceAfter=No|Translit=gayo
+11	.	.	PUNCT	_	_	2	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 

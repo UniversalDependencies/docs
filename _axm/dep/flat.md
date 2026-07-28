@@ -15,31 +15,47 @@ these expressions do not have any internal syntactic structure and that the stru
 
 In Middle Armenian the [flat:name]() relation as a specialization of `flat` is used to join the first (or middle) and the last name of a person. In general, names are
 annotated in a `flat:name`, head-initial structure, in which all words in the name modify the head using the `flat:name` label.
-
-~~~ sdparse
-Վանա/ADJ[NameType=Geo|Poss=Yes] լիճ/NOUN \n Lake Van
-amod(լիճ, Վանա)
-amod(Lake, Van)
-~~~
-
 Note, that the titles/honorifics, when immediately following the first noun, are analyzed using the `flat:name` relation. They are treated as a part of the names: (see also [nmod]() and [apposition](appos)):
 
-~~~ sdparse
-Մխիթար Հերացի \n Mkhitar Heratsi
-flat:name(Մխիթար, Հերացի)
-flat:name(Mkhitar, Heratsi)
+~~~ conllu
+# visual-style 1 2 flat:name color:blue
+1	Մխիթար	Մխիթար	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
+2	Հերացի	Հերացի	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Prs|Number=Sing	1	flat:name	_	_
 ~~~
+
+~~~ conllu
+# visual-style 1 2 flat:name color:blue
+1	Հեթում	Հեթում	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
+2	արքայ	արքայ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	1	flat:name	_	_
+~~~
+
 
 ## Dates and Complex Numerals
 
 The `flat` relation is also used for numerals and numerical expressions that lack phrasal structure. The most left numeral is the head, the other numerals are attached as its modifiers.
 
-~~~ sdparse
-հարոյր տասնուիաւթն \n one hundred seventeen
-flat(հարոյր, տասնուիաւթն)
-flat(hundred, seventeen)
+~~~ conllu
+# visual-style 1 2 flat color:blue
+1	հարոյր	հարոյր	NUM	_	NumForm=Word|NumType=Card	0	root	_	_
+2	տասնուիաւթն	տասնուիաւթն	NUM	_	NumForm=Word|NumType=Card	1	flat	_	_
+~~~
+
+This relation is also used for synonymic or antonymic coordinative compounds. These are analytical constructions where two distinct words combine to form a single semantic unit with a collective or intensified meaning.
+
+~~~ conllu
+# visual-style 1 3 flat color:blue
+1	ահ	ահ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
+2	ու	ու	CCONJ	_	_	3	cc	_	_
+3	դող	դող	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	flat	_	_
+~~~
+
+~~~ conllu
+# visual-style 1 3 flat color:blue
+1	չար	չար	ADJ	_	Degree=Pos	0	root	_	_
+2	ու	ու	CCONJ	_	_	3	cc	_	_
+3	բարի	բարի	ADJ	_	Degree=Pos	1	flat	_	_
 ~~~
 
 Date expressions which have a very clear syntactic structure, should be annotated with regular dependency relations. In
 other cases, they have a flat structure with no clearly discernible head.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:55 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->

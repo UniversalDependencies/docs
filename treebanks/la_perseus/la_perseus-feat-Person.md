@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 * `1` (641; 17% of non-empty `Person`): <em>vidi, audivi, potui, puto, cogor, habemus, possum, quaeso, coepi, volo</em>
 * `2` (443; 12% of non-empty `Person`): <em>potes, putes, vides, cave, facias, vis, habes, aspice, cunctamini, iaces</em>
 * `3` (2702; 71% of non-empty `Person`): <em>habet, inquit, dixit, coepit, dedit, fecit, iussit, potest, venit, dicit</em>
-* `EMPTY` (2003): <em>habere, dicere, facere, posse, ire, dicens, dicentem, vivere, dicentes, afferri</em>
+* `EMPTY` (2005): <em>habere, dicere, facere, posse, ire, dicens, dicentem, vivere, dicentes, afferri</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -105,7 +105,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (540; 90%),
+<tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (539; 90%),
 <tt>PRON --[<tt><a href="la_perseus-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (28; 56%),
 <tt>VERB --[<tt><a href="la_perseus-dep-advcl-cmp.html">advcl:cmp</a></tt>]--> VERB</tt> (7; 64%),
 <tt>VERB --[<tt><a href="la_perseus-dep-nsubj-outer.html">nsubj:outer</a></tt>]--> PRON</tt> (1; 100%).

@@ -22,9 +22,9 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 11 discourse	color:blue
-1	Som	som	SCONJ	KN	_	2	mark	2:mark	_
-2	tur	tur	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	9	advcl	9:advcl	_
-3	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	2:cop	_
+1	Som	som	SCONJ	KN	_	2	mark	2:mark	ParsemeMWE=1:AdpID
+2	tur	tur	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	9	advcl	9:advcl	ParsemeMWE=1
+3	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	2:cop	ParsemeMWE=1
 4	var	vara	AUX	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	9:cop	_
 5	någon	någon	PRON	PN|UTR|SIN|IND|SUB/OBJ	Definite=Ind|Gender=Com|Number=Sing|PronType=Ind	9	nsubj	9:nsubj	_
 6	hos	hos	ADP	PP	_	7	case	7:case	_
@@ -34,12 +34,12 @@ The following 1 pairs of parts of speech are connected with `discourse`: <tt><a 
 10	”	”	PUNCT	MID	_	15	punct	15:punct	SpaceAfter=No
 11	Jo	jo	INTJ	IN	_	15	discourse	15:discourse	SpaceAfter=No
 12	,	,	PUNCT	MID	_	15	punct	15:punct	_
-13	förresten	förresten	ADV	AB	_	15	advmod	15:advmod	SpaceAfter=No
+13	förresten	förresten	ADV	AB	_	15	advmod	15:advmod	SpaceAfter=No|ParsemeMWE=2:NotMWE
 14	,	,	PUNCT	MID	_	15	punct	15:punct	_
 15	märkte	märka	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	9	parataxis	9:parataxis	_
 16	ni	ni	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	15	nsubj	15:nsubj	_
-17	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	15	obj	15:obj	_
-18	här	här	ADV	AB	_	17	advmod	17:advmod	SpaceAfter=No
+17	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	15	obj	15:obj	ParsemeMWE=3:PronID
+18	här	här	ADV	AB	_	17	advmod	17:advmod	SpaceAfter=No|ParsemeMWE=3
 19	?	?	PUNCT	MID	_	15	punct	15:punct	SpaceAfter=No
 20	”	”	PUNCT	PAD	_	15	punct	15:punct	SpaceAfter=No
 21	,	,	PUNCT	MID	_	22	punct	22:punct	_

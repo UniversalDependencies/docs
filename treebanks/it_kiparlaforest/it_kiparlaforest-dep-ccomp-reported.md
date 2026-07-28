@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_kiparlaforest-dep-ccomp.html">ccomp</a></tt>.
 
-21 nodes (0%) are attached to their parents as `ccomp:reported`.
+23 nodes (0%) are attached to their parents as `ccomp:reported`.
 
-20 instances of `ccomp:reported` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.76190476190476.
+22 instances of `ccomp:reported` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.65217391304348.
 
-The following 10 pairs of parts of speech are connected with `ccomp:reported`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (11; 52% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (2; 10% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (1; 5% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (1; 5% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
+The following 10 pairs of parts of speech are connected with `ccomp:reported`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (13; 57% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (2; 9% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (1; 4% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -42,7 +42,7 @@ The following 10 pairs of parts of speech are connected with `ccomp:reported`: <
 # visual-style 7	fgColor:white
 # visual-style 7 9 ccomp:reported	color:blue
 1	ah	ah	INTJ	_	_	2	discourse	_	Begin=1627.671|KID=1034-0
-2	sì	sì	INTJ	_	_	0	root	_	Intonation=Rising|KID=1034-1
+2	sì	sì	ADV	_	_	0	root	_	Intonation=Rising|KID=1034-1
 3	e	e	CCONJ	_	_	7	cc	_	KID=1034-2
 4	lei	egli	PRON	_	Gender=Fem|Number=Sing|PronType=Prs	7	nsubj	_	KID=1034-3
 5	cos'	cosa	ADV	_	PronType=Int	7	obj	_	KID=1034-4|SpaceAfter=No

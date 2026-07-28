@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (0%) are attached to their parents as `discourse`.
+19 nodes (0%) are attached to their parents as `discourse`.
 
-18 instances of `discourse` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.
+19 instances of `discourse` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.21052631578947.
 
-The following 6 pairs of parts of speech are connected with `discourse`: <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> (7; 39% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-PART.html">PART</a></tt> (6; 33% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (2; 11% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (1; 6% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-PART.html">PART</a></tt> (1; 6% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-INTJ.html">INTJ</a></tt> (1; 6% instances).
+The following 7 pairs of parts of speech are connected with `discourse`: <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-ADV.html">ADV</a></tt> (7; 37% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-PART.html">PART</a></tt> (6; 32% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (2; 11% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-NUM.html">NUM</a></tt> (1; 5% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-INTJ.html">INTJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -59,11 +59,11 @@ The following 6 pairs of parts of speech are connected with `discourse`: <tt><a 
 8	jag	jag	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	7	nsubj	_	_
 9	min	jag	PRON	_	Definite=Def|Gender=Com|Number=Sing|Poss=Yes|PronType=Prs	11	nmod:poss	_	_
 10	första	första	ADJ	_	Case=Nom|NumType=Ord	11	amod	_	_
-11	kärlik	kärlik	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Typo=Yes	7	obj	_	CorrectionLabels=O
+11	kärlik	kärlek	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Typo=Yes	7	obj	_	CorrectionLabels=O|SurfaceLemma=kärlik
 12	som	som	PRON	_	PronType=Rel	16	obj	_	_
 13	jag	jag	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	16	nsubj	_	_
 14	kommer	komma	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	_
-15	alderig	alderig	ADV	_	Typo=Yes	16	advmod	_	CorrectionLabels=O;S-Adv
+15	alderig	aldrig	ADV	_	Typo=Yes	16	advmod	_	CorrectionLabels=O;S-Adv|SurfaceLemma=alderig
 16	glömma	glömma	VERB	_	VerbForm=Inf|Voice=Act	11	acl:relcl	_	_
 17	.	.	PUNCT	_	_	7	punct	_	_
 

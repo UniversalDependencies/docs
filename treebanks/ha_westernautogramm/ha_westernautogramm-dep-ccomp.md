@@ -11,9 +11,9 @@ This relation is universal.
 157 nodes (1%) are attached to their parents as `ccomp`.
 
 157 instances of `ccomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.43949044585987.
+Average distance between parent and child is 3.45859872611465.
 
-The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> (112; 71% instances), <tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> (14; 9% instances), <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt> (9; 6% instances), <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt> (8; 5% instances), <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ha_westernautogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_westernautogramm-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> (111; 71% instances), <tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> (15; 10% instances), <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt> (8; 5% instances), <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_westernautogramm-pos-PART.html">PART</a></tt> (3; 2% instances), <tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ha_westernautogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,13 +23,13 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 6	fgColor:white
 # visual-style 6 7 ccomp	color:blue
 1	in	in	SCONJ	_	_	3	mark	_	Gloss=if
-2	an	_	AUX	yaː	Aspect=Perf|Person=4	3	aux	_	Gloss=4.Perf
-3	tankàɗeː	tankàɗeː	VERB	_	_	6	advcl	_	Gloss=sieve
+2	an	yaː	AUX	_	Aspect=Perf|Person=4	3	aux	_	Gloss=4.Perf
+3	tankàɗeː	tankàɗeː	VERB	_	_	6	advcl	_	Gloss=sieve|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-5	à	_	AUX	ø	Aspect=Aor|Person=4	6	aux	_	Gloss=4.Aor
+5	à	yà	AUX	_	Mood=Sub|Person=4	6	aux	_	Gloss=4.Sub
 6	ƙaːràː	ƙaːràː	VERB	_	_	0	root	_	Gloss=increase/continue
 7	dakà	dakàː	VERB	_	_	6	ccomp	_	Gloss=pound
-8	s'àkiː	s'àkiː	NOUN	_	Definite=Ind|Gender=Masc	7	obj	_	Gloss=siftings.Masc
+8	s'àkiː	s'àkiː	NOUN	_	Gender=Masc	7	obj	_	Gloss=siftings.Masc|SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 ~~~
@@ -43,41 +43,42 @@ The following 11 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 3 4 ccomp	color:blue
 1	niː	niː	PRON	_	Person=1	3	dislocated	_	Gloss=1Sing
 2	kâu	kàu	PART	_	PartType=Top	1	discourse	_	Gloss=whereas
-3	nik	_	AUX	(n)kà	Aspect=PerfBkg|Person=1	0	root	_	Background=Yes|Gloss=1Sing.PerfBkg
-4	kaːwoː	kai	VERB	_	_	3	ccomp	_	Gloss=reach/take_to.Dir|wordform=kaːw
-5	mikì	mikì	PRON	_	Gender=Fem|Person=2	4	obl	_	Gloss=2Fem.Dat
+3	nik	yaː	AUX	_	Aspect=Perf|Person=1	0	root	_	Gloss=1Sing.Perf.Rel|Relative=Yes
+4	kaːwoː	kai	VERB	_	_	3	ccomp	_	Gloss=reach/take_to.Dir
+5	mikì	mikì	PRON	_	Gender=Fem|Person=2	4	obl:mod	_	Gloss=2Fem.Dat|SpaceAfter=No
 6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-7	kuma	kuma	PART	_	PartType=Disc	9	discourse	_	Gloss=also
-8	yaː	_	AUX	yaː	Aspect=Perf|Gender=Masc|Person=3	9	aux	_	Gloss=3Masc.Perf
-9	yoː	yi	VERB	_	_	3	parataxis	_	Gloss=do.Dir|wordform=y
+7	kuma	kuma	CCONJ	_	_	9	cc	_	Gloss=also
+8	yaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	9	aux	_	Gloss=3Masc.Perf
+9	yoː	yi	VERB	_	_	3	conj	_	Gloss=do.Dir
 10	mun	minì	PRON	_	Person=1	9	iobj	_	Gloss=1Sing.Dat
-11	sàːƙoː	sàːƙoː	NOUN	_	Definite=Ind|Gender=Masc	9	obj	_	Gloss=message.Masc
-12	wurinkì	wurinkì	ADP	_	Gender=Fem|Person=2	9	obl:arg	_	Gloss=to.2Fem.Poss|wordform=wurin
+11	sàːƙoː	sàːƙoː	NOUN	_	Gender=Masc	9	obj	_	Gloss=message.Masc
+12	wurinkì	wuriː	NOUN	_	Gender=Masc	9	obl:arg	_	CaseAf=Gen|GenderAf=Fem|Gloss=place.Masc.Cons-2FemGen|MSeg=wurin-kì|PersonAf=2|Poss=Yes|SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 12 ccomp	color:blue
-1	in	in	SCONJ	_	_	3	mark	_	Gloss=if
-2	tag	_	AUX	(n)kà	Aspect=PerfBkg|Gender=Fem|Person=3	3	aux	_	Background=Yes|Gloss=3Fem.PerfBkg
-3	gamà	gamàː	VERB	_	_	7	csubj	_	Gloss=finish
-4	mur̃nàː	mur̃nàː	NOUN	_	Definite=Ind|Gender=Fem	3	obj	_	Gloss=joy.Fem
-5	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
-6	tà	_	AUX	ø	Aspect=Aor|Gender=Fem|Person=3	7	aux	_	Gloss=3Fem.Aor
-7	cêː	cêː	VERB	_	_	0	root	_	Gloss=say
-8	“	“	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-9	allàː	allàː	PROPN	_	_	12	nsubj	_	Gloss=God
-10	shì	_	AUX	ø	Aspect=Aor|Gender=Masc|Person=3	12	cop	_	Gloss=3Masc.Aor.[do]
-11	mai	mai	PRON	_	Gender=Masc|Person=3	12	iobj	_	Gloss=3Masc.Dat
-12	àlbar̃kàː	àlbar̃kàː	NOUN	_	Definite=Ind|Gender=Fem	7	ccomp	_	Gloss=prosperity.Fem
-13	”	”	PUNCT	_	_	12	punct	_	Gloss=PUNCT
-14	.	.	PUNCT	_	_	7	punct	_	Gloss=.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 ccomp	color:blue
+1	tac	yaː	AUX	_	Aspect=Perf|Gender=Fem|Person=3	2	aux	_	Gloss=3Fem.Perf.Rel|Relative=Yes
+2	cêː	cêː	VERB	_	_	0	root	_	Gloss=say
+3	mai	mai	PRON	_	Gender=Masc|Person=3	2	iobj	_	Gloss=3Masc.Dat
+4	:	:	PUNCT	_	_	7	punct	_	Gloss=PUNCT
+5	àsheː	àsheː	INTJ	_	_	7	discourse	_	Gloss=you_don't_say!|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	Gloss=PUNCT
+7	kaː	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=2	2	ccomp	_	Gloss=2Masc.Perf
+8	sam	sanìː	VERB	_	_	7	ccomp	_	Gloss=know
+9	munàː	nàː	AUX	_	Aspect=Prog|Number=Plur|Person=1	11	aux	_	Copula=Yes|Gloss=1Plur.Prog
+10	dà	dà	ADP	_	_	11	case	_	Gloss=with
+11	kissà	kissà	NOUN	_	Gender=Fem	8	ccomp	_	Gloss=deception.Fem
+12	?	?	PUNCT	_	_	13	punct	_	Gloss=?
+13	muː	muː	PRON	_	Number=Plur|Person=1	11	dislocated	_	Gloss=1Plur
+14	maːtaː	maːtaː	NOUN	_	Number=Plur	13	appos	_	Gloss=woman.Plur
+15	?	?	PUNCT	_	_	7	punct	_	Gloss=?
 
 ~~~
 

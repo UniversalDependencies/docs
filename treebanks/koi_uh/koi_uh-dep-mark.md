@@ -8,26 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (1%) are attached to their parents as `mark`.
+15 nodes (1%) are attached to their parents as `mark`.
 
-13 instances of `mark` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.92857142857143.
+14 instances of `mark` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.93333333333333.
 
-The following 6 pairs of parts of speech are connected with `mark`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> (6; 43% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (4; 29% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> (1; 7% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> (1; 7% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 7% instances).
+The following 6 pairs of parts of speech are connected with `mark`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> (7; 47% instances), <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (4; 27% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> (1; 7% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 7% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-SCONJ.html">SCONJ</a></tt> (1; 7% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 mark	color:blue
-1	Меным	ме	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	obl	_	GTtags=Pers,Sg1,Dat
-2	кажитчӧ	кажитчыны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-3	,	,	PUNCT	_	_	5	punct	_	_
-4	что	что	SCONJ	_	_	5	mark	_	_
-5	зэрӧ	зэрны	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	GTtags=Ind,Prs,Sg3|SpaceAfter=No
-6	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 mark	color:blue
+1	Кагасö	кага	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obj	_	GTtags=Prop,Sg,Acc,PxSg3
+2	видзöтлы	видзӧтлыны	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	GTtags=ConNeg|SpaceAfter=No
+3	,	,	PUNCT	CLB	_	2	punct	_	GTtags=CLB
+4	мед	мед	SCONJ	CS	_	6	mark	_	GTtags=
+5	эз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	6	aux:neg	_	GTtags=Neg,Ind,Prt1,Sg3
+6	усь	усьны	VERB	V	Connegative=Yes	2	ccomp	_	GTtags=ConNeg|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	2	punct	_	GTtags=CLB
 
 ~~~
 

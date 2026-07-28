@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-250 nodes (3%) are attached to their parents as `cop`.
+330 nodes (3%) are attached to their parents as `cop`.
 
-227 instances of `cop` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.972.
+299 instances of `cop` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.96060606060606.
 
-The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (149; 60% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (77; 31% instances), <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (8; 3% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (7; 3% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (7; 3% instances), <tt><a href="sv_swell-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (207; 63% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (91; 28% instances), <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (10; 3% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (9; 3% instances), <tt><a href="sv_swell-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_swell-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

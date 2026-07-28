@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Polish-PDB: POS Tags: `X`
 
-There are 382 `X` lemmas (1%), 381 `X` types (1%) and 1056 `X` tokens (0%).
-Out of 17 observed tags, the rank of `X` is: 7 in number of lemmas, 7 in number of types and 15 in number of tokens.
+There are 439 `X` lemmas (1%), 437 `X` types (1%) and 1122 `X` tokens (0%).
+Out of 17 observed tags, the rank of `X` is: 6 in number of lemmas, 7 in number of types and 15 in number of tokens.
 
 The 10 most frequent `X` lemmas: <em>2, 1, 3, 4, 5, 6, 7, 8, de, 14</em>
 
@@ -61,7 +61,7 @@ The 10 most frequent ambiguous types:  <em>2</em> (<tt><a href="pl_pdb-pos-X.htm
 
 ## Morphology
 
-The form / lemma ratio of `X` is 0.997382 (the average of all parts of speech is 1.966055).
+The form / lemma ratio of `X` is 0.995444 (the average of all parts of speech is 1.965463).
 
 The 1st highest number of forms (2) was observed with the lemma “1948”: <em>1948, 48</em>.
 
@@ -69,32 +69,32 @@ The 2nd highest number of forms (2) was observed with the lemma “1975”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “44”: <em>41-44, 44</em>.
 
-`X` occurs with 2 features: <tt><a href="pl_pdb-feat-NumForm.html">NumForm</a></tt> (870; 82% instances), <tt><a href="pl_pdb-feat-Foreign.html">Foreign</a></tt> (167; 16% instances)
+`X` occurs with 3 features: <tt><a href="pl_pdb-feat-NumForm.html">NumForm</a></tt> (868; 77% instances), <tt><a href="pl_pdb-feat-Foreign.html">Foreign</a></tt> (235; 21% instances), <tt><a href="pl_pdb-feat-ExtPos.html">ExtPos</a></tt> (10; 1% instances)
 
-`X` occurs with 3 feature-value pairs: `Foreign=Yes`, `NumForm=Digit`, `NumForm=Roman`
+`X` occurs with 7 feature-value pairs: `ExtPos=ADJ`, `ExtPos=ADP`, `ExtPos=PART`, `ExtPos=X`, `Foreign=Yes`, `NumForm=Digit`, `NumForm=Roman`
 
-`X` occurs with 4 feature combinations.
-The most frequent feature combination is `NumForm=Digit` (858 tokens).
+`X` occurs with 9 feature combinations.
+The most frequent feature combination is `NumForm=Digit` (855 tokens).
 Examples: <em>2, 1, 3, 4, 5, 6, 7, 8, 14, 9</em>
 
 
 ## Relations
 
-`X` nodes are attached to their parents using 21 different relations: <tt><a href="pl_pdb-dep-amod.html">amod</a></tt> (433; 41% instances), <tt><a href="pl_pdb-dep-list.html">list</a></tt> (249; 24% instances), <tt><a href="pl_pdb-dep-conj.html">conj</a></tt> (110; 10% instances), <tt><a href="pl_pdb-dep-flat.html">flat</a></tt> (88; 8% instances), <tt><a href="pl_pdb-dep-flat-foreign.html">flat:foreign</a></tt> (51; 5% instances), <tt><a href="pl_pdb-dep-obl.html">obl</a></tt> (42; 4% instances), <tt><a href="pl_pdb-dep-fixed.html">fixed</a></tt> (20; 2% instances), <tt><a href="pl_pdb-dep-parataxis-insert.html">parataxis:insert</a></tt> (15; 1% instances), <tt><a href="pl_pdb-dep-appos.html">appos</a></tt> (11; 1% instances), <tt><a href="pl_pdb-dep-iobj.html">iobj</a></tt> (6; 1% instances), <tt><a href="pl_pdb-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="pl_pdb-dep-nmod.html">nmod</a></tt> (5; 0% instances), <tt><a href="pl_pdb-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="pl_pdb-dep-nmod-arg.html">nmod:arg</a></tt> (4; 0% instances), <tt><a href="pl_pdb-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="pl_pdb-dep-advmod-emph.html">advmod:emph</a></tt> (2; 0% instances), <tt><a href="pl_pdb-dep-obl-cmpr.html">obl:cmpr</a></tt> (2; 0% instances), <tt><a href="pl_pdb-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-parataxis-obj.html">parataxis:obj</a></tt> (1; 0% instances)
+`X` nodes are attached to their parents using 21 different relations: <tt><a href="pl_pdb-dep-amod.html">amod</a></tt> (443; 39% instances), <tt><a href="pl_pdb-dep-list.html">list</a></tt> (249; 22% instances), <tt><a href="pl_pdb-dep-conj.html">conj</a></tt> (120; 11% instances), <tt><a href="pl_pdb-dep-flat.html">flat</a></tt> (89; 8% instances), <tt><a href="pl_pdb-dep-flat-foreign.html">flat:foreign</a></tt> (87; 8% instances), <tt><a href="pl_pdb-dep-obl.html">obl</a></tt> (36; 3% instances), <tt><a href="pl_pdb-dep-fixed.html">fixed</a></tt> (20; 2% instances), <tt><a href="pl_pdb-dep-appos.html">appos</a></tt> (16; 1% instances), <tt><a href="pl_pdb-dep-parataxis-insert.html">parataxis:insert</a></tt> (15; 1% instances), <tt><a href="pl_pdb-dep-nsubj.html">nsubj</a></tt> (10; 1% instances), <tt><a href="pl_pdb-dep-nmod-arg.html">nmod:arg</a></tt> (8; 1% instances), <tt><a href="pl_pdb-dep-iobj.html">iobj</a></tt> (7; 1% instances), <tt><a href="pl_pdb-dep-nmod.html">nmod</a></tt> (6; 1% instances), <tt><a href="pl_pdb-dep-root.html">root</a></tt> (6; 1% instances), <tt><a href="pl_pdb-dep-obj.html">obj</a></tt> (3; 0% instances), <tt><a href="pl_pdb-dep-advmod-emph.html">advmod:emph</a></tt> (2; 0% instances), <tt><a href="pl_pdb-dep-acl-cmp.html">acl:cmp</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-nmod-cmp.html">nmod:cmp</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-nsubj-pass.html">nsubj:pass</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-parataxis-obj.html">parataxis:obj</a></tt> (1; 0% instances)
 
-Parents of `X` nodes belong to 12 different parts of speech: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (505; 48% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (192; 18% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt> (175; 17% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (125; 12% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (34; 3% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (10; 1% instances),  (5; 0% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `X` nodes belong to 12 different parts of speech: <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (518; 46% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt> (226; 20% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (197; 18% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (119; 11% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (36; 3% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (10; 1% instances),  (6; 1% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
-436 (41%) `X` nodes are leaves.
+465 (41%) `X` nodes are leaves.
 
-460 (44%) `X` nodes have one child.
+475 (42%) `X` nodes have one child.
 
-106 (10%) `X` nodes have two children.
+116 (10%) `X` nodes have two children.
 
-54 (5%) `X` nodes have three or more children.
+66 (6%) `X` nodes have three or more children.
 
 The highest child degree of a `X` node is 15.
 
-Children of `X` nodes are attached using 19 different relations: <tt><a href="pl_pdb-dep-punct.html">punct</a></tt> (519; 60% instances), <tt><a href="pl_pdb-dep-conj.html">conj</a></tt> (123; 14% instances), <tt><a href="pl_pdb-dep-flat.html">flat</a></tt> (76; 9% instances), <tt><a href="pl_pdb-dep-flat-foreign.html">flat:foreign</a></tt> (51; 6% instances), <tt><a href="pl_pdb-dep-case.html">case</a></tt> (32; 4% instances), <tt><a href="pl_pdb-dep-cc.html">cc</a></tt> (27; 3% instances), <tt><a href="pl_pdb-dep-fixed.html">fixed</a></tt> (10; 1% instances), <tt><a href="pl_pdb-dep-amod.html">amod</a></tt> (7; 1% instances), <tt><a href="pl_pdb-dep-nmod.html">nmod</a></tt> (5; 1% instances), <tt><a href="pl_pdb-dep-parataxis-insert.html">parataxis:insert</a></tt> (4; 0% instances), <tt><a href="pl_pdb-dep-cop.html">cop</a></tt> (3; 0% instances), <tt><a href="pl_pdb-dep-advmod-emph.html">advmod:emph</a></tt> (2; 0% instances), <tt><a href="pl_pdb-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="pl_pdb-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-nmod-arg.html">nmod:arg</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-nmod-flat.html">nmod:flat</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-vocative.html">vocative</a></tt> (1; 0% instances)
+Children of `X` nodes are attached using 19 different relations: <tt><a href="pl_pdb-dep-punct.html">punct</a></tt> (550; 58% instances), <tt><a href="pl_pdb-dep-conj.html">conj</a></tt> (125; 13% instances), <tt><a href="pl_pdb-dep-flat-foreign.html">flat:foreign</a></tt> (87; 9% instances), <tt><a href="pl_pdb-dep-flat.html">flat</a></tt> (74; 8% instances), <tt><a href="pl_pdb-dep-case.html">case</a></tt> (35; 4% instances), <tt><a href="pl_pdb-dep-cc.html">cc</a></tt> (30; 3% instances), <tt><a href="pl_pdb-dep-fixed.html">fixed</a></tt> (10; 1% instances), <tt><a href="pl_pdb-dep-amod.html">amod</a></tt> (9; 1% instances), <tt><a href="pl_pdb-dep-nmod.html">nmod</a></tt> (7; 1% instances), <tt><a href="pl_pdb-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="pl_pdb-dep-cop.html">cop</a></tt> (3; 0% instances), <tt><a href="pl_pdb-dep-parataxis-insert.html">parataxis:insert</a></tt> (3; 0% instances), <tt><a href="pl_pdb-dep-advmod-emph.html">advmod:emph</a></tt> (2; 0% instances), <tt><a href="pl_pdb-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-nmod-arg.html">nmod:arg</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-nmod-flat.html">nmod:flat</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="pl_pdb-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Children of `X` nodes belong to 14 different parts of speech: <tt><a href="pl_pdb-pos-PUNCT.html">PUNCT</a></tt> (519; 60% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt> (175; 20% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (80; 9% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (33; 4% instances), <tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (27; 3% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (17; 2% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Children of `X` nodes belong to 14 different parts of speech: <tt><a href="pl_pdb-pos-PUNCT.html">PUNCT</a></tt> (550; 58% instances), <tt><a href="pl_pdb-pos-X.html">X</a></tt> (226; 24% instances), <tt><a href="pl_pdb-pos-PROPN.html">PROPN</a></tt> (69; 7% instances), <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (36; 4% instances), <tt><a href="pl_pdb-pos-CCONJ.html">CCONJ</a></tt> (30; 3% instances), <tt><a href="pl_pdb-pos-NOUN.html">NOUN</a></tt> (18; 2% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="pl_pdb-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pl_pdb-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pl_pdb-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

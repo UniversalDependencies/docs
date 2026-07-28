@@ -23,12 +23,12 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 5 cc	color:blue
-1	There	there	PRON	EX	_	2	expl	2:expl	_
+1	There	there	PRON	EX	PronType=Dem	2	expl	2:expl	_
 2	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3	no	no	DET	DT	PronType=Neg	4	det	4:det	_
 4	parade	parade	NOUN	NN	Number=Sing	2	nsubj	2:nsubj	_
 5	and	and	CCONJ	CC	_	9	cc	9:cc	_
-6	there	there	PRON	EX	_	9	expl	9:expl	_
+6	there	there	PRON	EX	PronType=Dem	9	expl	9:expl	_
 7	never	never	ADV	RB	PronType=Neg	9	advmod	9:advmod	_
 8	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 9	been	be	VERB	VBN	Tense=Past|VerbForm=Part	2	conj	2:conj:and	SpaceAfter=No

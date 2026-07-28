@@ -9,23 +9,23 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Card`, `Frac`, `Mult`, `Ord`.
 
-3401 tokens (1%) have a non-empty value of `NumType`.
+3400 tokens (1%) have a non-empty value of `NumType`.
 300 types (1%) occur at least once with a non-empty value of `NumType`.
 127 lemmas (1%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (3401; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (3400; 1% instances).
 
 ### `NUM`
 
-3401 <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> tokens (66% of all `NUM` tokens) have a non-empty value of `NumType`.
+3400 <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> tokens (66% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ro_nonstandard-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (3235; 95%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2614; 77%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2544; 75%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2135; 63%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="ro_nonstandard-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (3232; 95%), <tt><a href="ro_nonstandard-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2613; 77%), <tt><a href="ro_nonstandard-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2543; 75%), <tt><a href="ro_nonstandard-feat-Number.html">Number</a></tt><tt>=Plur</tt> (2135; 63%).
 
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (2318; 68% of non-empty `NumType`): <em>trei, doi, doao, cinci, patru, mii, două, nouă, sute, mie</em>
 * `Frac` (58; 2% of non-empty `NumType`): <em>giumătate, jumătate, Jumate, amîndoă, fercu-, giumătati, șverturi</em>
 * `Mult` (14; 0% of non-empty `NumType`): <em>îndoit, tustrii, înbe, Cîtetrele, cîtenouă, tretii, tustreli, îndoită, îndzăcit</em>
-* `Ord` (1011; 30% of non-empty `NumType`): <em>întîiu, treia, doa, întăiu, dentîiu, întîi, patra, dintîiu, doua, dintîi</em>
+* `Ord` (1010; 30% of non-empty `NumType`): <em>întîiu, treia, doa, întăiu, dentîiu, întîi, patra, dintîiu, doua, dintîi</em>
 * `EMPTY` (1772): <em>2, 3, 4, 7, 12, 5, 1, 6, 10, 8</em>
 
 <table>

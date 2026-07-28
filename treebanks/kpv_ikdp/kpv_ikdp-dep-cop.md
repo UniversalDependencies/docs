@@ -24,7 +24,7 @@ The following 4 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 5 2 cop	color:blue
 1	Миян	ми	PRON	Pron	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	nmod	_	_
 2	выйым	эм	AUX	V	Number=Sing	5	cop	_	_
-3	асланум	ас	PRON	Pron	Case=Gen|Person=1|Reflex=Yes	5	nmod	_	SpaceAfter=No
+3	асланум	ас	PRON	Pron	Case=Gen|Person=1|PronType=Prs|Reflex=Yes	5	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	CLB	_	5	punct	_	_
 5	керка	керка	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	CLB	_	7	punct	_	_

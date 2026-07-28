@@ -7,20 +7,20 @@ udver: '2'
 ## Treebank Statistics: UD_Abkhaz-AbNC: Features: `Person[refl]`
 
 This feature is language-specific.
-It occurs with 3 different values: `1`, `2`, `3`.
+It occurs with 4 different values: `1`, `2`, `3`, `Rel`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ab_abnc-feat-Person.html">Person</a></tt>, <tt><a href="ab_abnc-feat-Person-cs.html">Person[cs]</a></tt>, <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt>, <tt><a href="ab_abnc-feat-Person-lo.html">Person[lo]</a></tt>, <tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt>, <tt><a href="ab_abnc-feat-Person-po.html">Person[po]</a></tt>, <tt><a href="ab_abnc-feat-Person-psor.html">Person[psor]</a></tt>, <tt><a href="ab_abnc-feat-Person-refl.html">Person[refl]</a></tt>, <tt><a href="ab_abnc-feat-Person-ro.html">Person[ro]</a></tt>, <tt><a href="ab_abnc-feat-Person-subj.html">Person[subj]</a></tt>.
 
-24 tokens (0%) have a non-empty value of `Person[refl]`.
-24 types (1%) occur at least once with a non-empty value of `Person[refl]`.
-17 lemmas (1%) occur at least once with a non-empty value of `Person[refl]`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (24; 0% instances).
+27 tokens (0%) have a non-empty value of `Person[refl]`.
+27 types (1%) occur at least once with a non-empty value of `Person[refl]`.
+20 lemmas (1%) occur at least once with a non-empty value of `Person[refl]`.
+The feature is used with 1 part-of-speech tags: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (27; 0% instances).
 
 ### `VERB`
 
-24 <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Person[refl]`.
+27 <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Person[refl]`.
 
-The most frequent other feature values with which `VERB` and `Person[refl]` co-occurred: <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=Yes</tt> (24; 100%), <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="ab_abnc-feat-RelType.html">RelType</a></tt><tt>=EMPTY</tt> (24; 100%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (22; 92%), <tt><a href="ab_abnc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (18; 75%), <tt><a href="ab_abnc-feat-Gender-lo.html">Gender[lo]</a></tt><tt>=EMPTY</tt> (17; 71%), <tt><a href="ab_abnc-feat-Number-lo.html">Number[lo]</a></tt><tt>=EMPTY</tt> (17; 71%), <tt><a href="ab_abnc-feat-Person-lo.html">Person[lo]</a></tt><tt>=EMPTY</tt> (17; 71%), <tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt> (15; 63%).
+The most frequent other feature values with which `VERB` and `Person[refl]` co-occurred: <tt><a href="ab_abnc-feat-Dyn.html">Dyn</a></tt><tt>=Yes</tt> (27; 100%), <tt><a href="ab_abnc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="ab_abnc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="ab_abnc-feat-RelType.html">RelType</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="ab_abnc-feat-Person-lo.html">Person[lo]</a></tt><tt>=EMPTY</tt> (26; 96%), <tt><a href="ab_abnc-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (25; 93%), <tt><a href="ab_abnc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt> (21; 78%), <tt><a href="ab_abnc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (17; 63%), <tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=EMPTY</tt> (16; 59%), <tt><a href="ab_abnc-feat-Tense.html">Tense</a></tt><tt>=Aor</tt> (15; 56%).
 
 `VERB` tokens may have the following values of `Person[refl]`:
 

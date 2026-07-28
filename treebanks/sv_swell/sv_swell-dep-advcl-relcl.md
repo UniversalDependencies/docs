@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sv_swell-dep-advcl.html">advcl</a></tt>.
 
-8 nodes (0%) are attached to their parents as `advcl:relcl`.
+9 nodes (0%) are attached to their parents as `advcl:relcl`.
 
-8 instances of `advcl:relcl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.5.
+9 instances of `advcl:relcl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.55555555555556.
 
-The following 3 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (6; 75% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (1; 13% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (1; 13% instances).
+The following 4 pairs of parts of speech are connected with `advcl:relcl`: <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (6; 67% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (1; 11% instances), <tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sv_swell-pos-VERB.html">VERB</a></tt> (1; 11% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt> (1; 11% instances).
 
 
 ~~~ conllu
@@ -119,7 +119,7 @@ The following 3 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 1	Jag	jag	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	2	nsubj	_	_
 2	tror	tro	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	CorrectionLabels=L-W
 3	att	att	SCONJ	_	_	6	mark	_	_
-4	romane	romane	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur|Typo=Yes	6	nsubj	_	CorrectionLabels=O
+4	romane	roman	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur|Typo=Yes	6	nsubj	_	CorrectionLabels=O|SurfaceLemma=romane
 5	var	vara	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
 6	lärande	lärande	ADJ	_	Case=Nom|Degree=Pos|Tense=Pres|VerbForm=Part	2	ccomp	_	CorrectionLabels=L-W
 7	och	och	CCONJ	_	_	8	cc	_	_
@@ -134,20 +134,20 @@ The following 3 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 16	inte	inte	PART	_	_	15	advmod	_	CorrectionLabels=S-Adv|Polarity=Neg
 17	om	om	ADP	_	_	18	case	_	CorrectionLabels=L-W
 18	den	den	DET	_	Definite=Def|Gender=Com|Number=Sing|PronType=Art	15	obl	_	CorrectionLabels=S-R
-19	eftrsom	eftrsom	SCONJ	_	Typo=Yes	22	mark	_	CorrectionLabels=O
+19	eftrsom	eftersom	SCONJ	_	Typo=Yes	22	mark	_	CorrectionLabels=O|SurfaceLemma=eftrsom
 20	jag	jag	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	22	nsubj	_	_
 21	som	som	PRON	_	PronType=Rel	22	dep	_	CorrectionLabels=S-R
 22	kommer	komma	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	_
-23	frön	frön	ADP	_	Typo=Yes	25	case	_	CorrectionLabels=O
+23	frön	från	ADP	_	Typo=Yes	25	case	_	CorrectionLabels=O|SurfaceLemma=frön
 24	ett	en	DET	_	Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	25	det	_	_
 25	land	land	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	22	obj	_	_
 26	i	i	ADP	_	_	27	case	_	_
-27	melanöster	melanöster	PROPN	_	Case=Nom|Typo=Yes	25	nmod	_	CorrectionLabels=M-Def;O;O-Cap
+27	melanöster	Mellanöster	PROPN	_	Case=Nom|Typo=Yes	25	nmod	_	CorrectionLabels=M-Def;O;O-Cap|SurfaceLemma=melanöster
 28	vet	veta	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	27	advcl:relcl	_	CorrectionLabels=S-Clause
 29	vi	vi	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	28	nsubj	_	_
 30	inte	inte	PART	_	_	32	advmod	_	Polarity=Neg
 31	så	så	ADV	_	_	32	advmod	_	_
-32	mycke	mycke	ADV	_	Typo=Yes	28	advmod	_	CorrectionLabels=O
+32	mycke	mycket	ADV	_	Typo=Yes	28	advmod	_	CorrectionLabels=O|SurfaceLemma=mycke
 33	om	om	ADP	_	_	35	case	_	_
 34	Amerikansk	amerikansk	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing|Typo=Yes	35	amod	_	CorrectionLabels=M-Num;O-Cap
 35	länder	land	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	28	obl	_	_
@@ -158,7 +158,7 @@ The following 3 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 40	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	38	acl:relcl	_	_
 41	eller	eller	CCONJ	_	_	44	cc	_	_
 42	hur	hur	ADV	_	_	44	advmod	_	_
-43	mäniskors	mäniska	NOUN	_	Case=Gen|Definite=Ind|Gender=Com|Number=Plur|Typo=Yes	44	nmod:poss	_	CorrectionLabels=O
+43	mäniskors	människa	NOUN	_	Case=Gen|Definite=Ind|Gender=Com|Number=Plur|Typo=Yes	44	nmod:poss	_	CorrectionLabels=O|SurfaceLemma=mäniska
 44	liv	liv	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	40	conj	_	_
 45	är	vara	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	44	cop	_	_
 46	där	där	ADV	_	_	40	advmod	_	_

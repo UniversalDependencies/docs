@@ -15,4 +15,4 @@ case(VGDI@b@en, INUTI)
 VIKTIG DÖV(L) FÖRENING POSS VERKSAMHET(J)^HET@b TYCKA PRO1 \n The Deaf club's work is important, I think
 case(VERKSAMHET(J)^HET@b, POSS)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:22 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:44 CEST -->

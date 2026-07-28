@@ -11,9 +11,26 @@ This relation is a language-specific subtype of <tt><a href="sd_isra-dep-nmod.ht
 7 nodes (0%) are attached to their parents as `nmod:poss`.
 
 7 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.
+Average distance between parent and child is 5.42857142857143.
 
-The following 5 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (3; 43% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1; 14% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1; 14% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1; 14% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (1; 14% instances).
+The following 5 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (2; 29% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (2; 29% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1; 14% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1; 14% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt> (1; 14% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 nmod:poss	color:blue
+1	مان	مان	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=1	5	nmod:poss	_	_
+2	پاڻ	پاڻ	PRON	PRP	Case=Acc	5	nsubj	_	_
+3	ان	ان	DET	PRD	Case=Acc|Number=Sing|PronType=Dem	5	obl	_	_
+4	سان	سان	ADP	PSP	_	3	case	_	_
+5	سهمت	_	NOUN	NN	Case=Nom|Number=Sing	0	root	_	_
+6	آهيان	آهي	AUX	VAUX	Gender=Masc|Number=Sing|Tense=Pres	5	cop	_	SpaceAfter=No
+7	،	،	PUNCT	PUNCT	_	5	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -107,23 +124,6 @@ The following 5 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 59	ماتحت	ماتحت	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	49	advcl	_	_
 60	آهي	آهي	AUX	VAUX	Number=Sing|Tense=Pres	59	cop	_	SpaceAfter=No
 61	،	،	PUNCT	PUNCT	_	59	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 nmod:poss	color:blue
-1	مان	مان	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=1	5	nmod:poss	_	_
-2	پاڻ	پاڻ	PRON	PRP	Case=Acc	5	nsubj	_	_
-3	ان	ان	DET	PRD	Case=Acc|Number=Sing|PronType=Dem	5	obl	_	_
-4	سان	سان	ADP	PSP	_	3	case	_	_
-5	سهمت	_	NOUN	NN	Case=Nom|Number=Sing	0	root	_	_
-6	آهيان	آهي	AUX	VAUX	Gender=Masc|Number=Sing|Tense=Pres	5	cop	_	SpaceAfter=No
-7	،	،	PUNCT	PUNCT	_	5	punct	_	_
 
 ~~~
 

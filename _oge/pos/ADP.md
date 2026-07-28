@@ -21,4 +21,4 @@ _გლახაკთა <b>ზედა</b>_ *glaxaktʻa zeda* "on beggars, in
 _<b>წინაშე</b> ბერძენთა მეფისა_ *cinaše berżentʻa mepʻisa* "in front of the King of Greece"
 _კაც<b>ებრ</b>_ *kacʻ<b>ebr</b>* "like a man"
 _კაცთა<b>თჳს</b>_ *kacʻtʻa<b>tʻws</b>* "for men"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:44 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:33 CEST -->

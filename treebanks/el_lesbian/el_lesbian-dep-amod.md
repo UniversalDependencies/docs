@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-61 nodes (1%) are attached to their parents as `amod`.
+66 nodes (1%) are attached to their parents as `amod`.
 
-50 instances of `amod` (82%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.37704918032787.
+55 instances of `amod` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.36363636363636.
 
-The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (40; 66% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (13; 21% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (4; 7% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (43; 65% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (15; 23% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (4; 6% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -28,8 +28,8 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 4	πτάρια	πτάρ	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	6	nmod	_	_
 5	ένα	ένας	NUM	_	Case=Acc|Gender=Masc|Number=Sing|NumType=Card	6	nummod	_	_
 6	γάβανο	γάβανους	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
-7	μεγάλου	μιγάλους	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	6	amod	_	_
-8	.	.	PUNCT	_	_	3	punct	_	_
+7	μεγάλου	μιγάλους	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	6	amod	_	SpaceAfter=No
+8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -48,8 +48,8 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 6	που	που	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	8	nsubj	_	_
 7	μ’	ιγώ	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
 8	ήθιλις	θέλου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
-9	παντριγιά	παντρειγιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Typo=Yes	8	obj	_	CorrectForm=παντρειγιά
-10	.	.	PUNCT	_	_	2	punct	_	_
+9	παντριγιά	παντρειγιά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Typo=Yes	8	obj	_	CorrectForm=παντρειγιά|SpaceAfter=No
+10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -64,8 +64,8 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 2	σ	σι	ADP	_	_	5	case	_	_
 3	το	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 4	πάνω	πάνου	ADV	_	_	5	amod	_	_
-5	χέρ’	χέρ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	_
-6	.	.	PUNCT	_	_	1	punct	_	_
+5	χέρ’	χέρ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	SpaceAfter=No
+6	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4584 nodes (5%) are attached to their parents as `root`.
+5971 nodes (5%) are attached to their parents as `root`.
 
-4584 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.49629144851658.
+5971 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.4027801038352.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (4129; 90% instances), -<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (207; 5% instances), -<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (150; 3% instances), -<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (36; 1% instances), -<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (23; 1% instances), -<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (17; 0% instances), -<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (12; 0% instances), -<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), -<tt><a href="frm_profiterole-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), -<tt><a href="frm_profiterole-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (5338; 89% instances), -<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (289; 5% instances), -<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (190; 3% instances), -<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (57; 1% instances), -<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (38; 1% instances), -<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (25; 0% instances), -<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), -<tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt> (13; 0% instances), -<tt><a href="frm_profiterole-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), -<tt><a href="frm_profiterole-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="frm_profiterole-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), -<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,11 +24,11 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0 11 root	color:blue
 1	mais	mais1	CCONJ	CONcoo	_	11	cc:nc	_	XmlId=w_32_02442
 2	le	le	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_32_02443
-3	neu	noeud	NOUN	NOMcom	_	11	nsubj	_	XmlId=w_32_02444
+3	neu	noeud	NOUN	NOMcom	_	11	nsubj:pass	_	XmlId=w_32_02444
 4	de	de	ADP	PRE	_	6	case	_	XmlId=w_32_02445
 5	ceste	cist	DET	DETdem	PronType=Dem	6	det	_	XmlId=w_32_02446
 6	matière	matière	NOUN	NOMcom	_	3	nmod	_	XmlId=w_32_02447
-7	ne	ne1	ADV	ADVneg	PronType=Neg	11	advmod	_	XmlId=w_32_02448
+7	ne	ne1	ADV	ADVneg	Polarity=Neg	11	advmod	_	XmlId=w_32_02448
 8	luy	lui	PRON	PROper	PronType=Prs	11	iobj	_	XmlId=w_32_02449
 9	fut	être	AUX	VERcjg	VerbForm=Fin	11	aux:pass	_	XmlId=w_32_02450
 10	jamais	jamais	ADV	ADVgen	_	11	advmod	_	XmlId=w_32_02451

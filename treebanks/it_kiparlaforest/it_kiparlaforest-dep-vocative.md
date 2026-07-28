@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-10 nodes (0%) are attached to their parents as `vocative`.
+13 nodes (0%) are attached to their parents as `vocative`.
 
-6 instances of `vocative` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.6.
+8 instances of `vocative` (62%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.46153846153846.
 
-The following 4 pairs of parts of speech are connected with `vocative`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (5; 50% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (3; 30% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1; 10% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (1; 10% instances).
+The following 7 pairs of parts of speech are connected with `vocative`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (5; 38% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (3; 23% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (1; 8% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 8% instances).
 
 
 ~~~ conllu
@@ -68,7 +68,7 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 6	in	in	ADP	_	_	7	case	_	KID=0-7
 7	quattro	quattro	NUM	_	NumType=Card	12	obl	_	KID=0-8
 8	poi	poi	ADV	_	_	12	advmod	_	KID=0-9
-9	comunque	comunque	CCONJ	_	_	12	discourse	_	End=4.03|KID=0-10
+9	comunque	comunque	CCONJ	_	_	12	cc	_	End=4.03|KID=0-10
 10	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	12	expl	_	Begin=4.45|Clitic=Yes|KID=2-0
 11	si	si	PRON	_	Person=3|PronType=Prs	12	expl:impers	_	Clitic=Yes|KID=2-1
 12	parla	parlare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	KID=2-2

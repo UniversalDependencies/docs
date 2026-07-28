@@ -83,13 +83,13 @@ The following 8 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 12 8 reparandum	color:blue
 1	Kommer	komma	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	du	du	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	1	nsubj	_	_
-3	ihag	ihag	ADV	_	Typo=Yes	1	compound:prt	_	CorrectionLabels=O
+3	ihag	ihåg	ADV	_	Typo=Yes	1	compound:prt	_	CorrectionLabels=O|SurfaceLemma=ihag
 4	for	for	SCONJ	_	_	7	mark	_	CorrectionLabels=S-R
 5	vi	vi	PRON	_	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	7	nsubj	_	_
 6	ska	skola	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
 7	ge	ge	VERB	_	VerbForm=Inf|Voice=Act	1	ccomp	_	_
 8	till	till	ADP	_	_	12	reparandum	_	CorrectionLabels=S-R
-9	bröllopsprecent	bröllopsprecent	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Typo=Yes	7	obj	_	CorrectionLabels=O
+9	bröllopsprecent	bröllopspresent	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Typo=Yes	7	obj	_	CorrectionLabels=O|SurfaceLemma=bröllopsprecent
 10	till	till	ADP	_	_	12	case	_	_
 11	mina	jag	PRON	_	Definite=Def|Number=Plur|Poss=Yes|PronType=Prs	12	nmod:poss	_	_
 12	vänner	vän	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	7	obl	_	_

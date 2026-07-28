@@ -11,9 +11,9 @@ This relation is universal.
 285 nodes (17%) are attached to their parents as `root`.
 
 285 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.50877192982456.
+Average distance between parent and child is 3.49122807017544.
 
-The following 3 pairs of parts of speech are connected with `root`: -<tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (205; 72% instances), -<tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (70; 25% instances), -<tt><a href="en_pronouns-pos-ADJ.html">ADJ</a></tt> (10; 4% instances).
+The following 4 pairs of parts of speech are connected with `root`: -<tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (200; 70% instances), -<tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (70; 25% instances), -<tt><a href="en_pronouns-pos-ADJ.html">ADJ</a></tt> (10; 4% instances), -<tt><a href="en_pronouns-pos-ADV.html">ADV</a></tt> (5; 2% instances).
 
 
 ~~~ conllu

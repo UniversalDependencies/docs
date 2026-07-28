@@ -23,4 +23,4 @@ A numeric modifier of a noun is any number phrase that serves to modify the mean
 8	CASA	_	NOUN	N	_	9	nsubj	_	Gloss=HOME
 9	DESAPARECER	_	VERB	V	_	0	root	_	Gloss=DISAPPEAR
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:18 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:27 CEST -->

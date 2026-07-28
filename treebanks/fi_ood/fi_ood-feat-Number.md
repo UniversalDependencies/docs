@@ -275,7 +275,7 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="fi_ood-dep-amod.html">amod</a></tt>]--> ADJ</tt> (740; 94%),
-<tt>VERB --[<tt><a href="fi_ood-dep-obl.html">obl</a></tt>]--> NOUN</tt> (706; 69%),
+<tt>VERB --[<tt><a href="fi_ood-dep-obl.html">obl</a></tt>]--> NOUN</tt> (707; 69%),
 <tt>VERB --[<tt><a href="fi_ood-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (480; 84%),
 <tt>VERB --[<tt><a href="fi_ood-dep-obj.html">obj</a></tt>]--> NOUN</tt> (471; 62%),
 <tt>VERB --[<tt><a href="fi_ood-dep-aux.html">aux</a></tt>]--> AUX</tt> (265; 62%),

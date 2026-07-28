@@ -66,8 +66,8 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 11 10 amod	color:blue
 1	Vi	vi	PRON	PN|UTR|PLU|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	2	nsubj	2:nsubj	_
 2	upplever	uppleva	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	i	i	ADP	PP	_	4	case	4:case	_
-4	dag	dag	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	obl	2:obl:i	_
+3	i	i	ADP	PP	_	4	case	4:case	ParsemeMWE=1:AdvID
+4	dag	dag	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	obl	2:obl:i	ParsemeMWE=1
 5	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	6	det	6:det	_
 6	rotlöshet	rotlöshet	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	obj	2:obj	_
 7	och	och	CCONJ	KN	_	8	cc	8:cc	_

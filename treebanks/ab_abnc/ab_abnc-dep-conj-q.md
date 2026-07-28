@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-conj.html">conj</a></tt>.
 
-2 nodes (0%) are attached to their parents as `conj:q`.
+1 nodes (0%) are attached to their parents as `conj:q`.
 
-2 instances of `conj:q` (100%) are left-to-right (parent precedes child).
+1 instances of `conj:q` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `conj:q`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (2; 100% instances).
+The following 1 pairs of parts of speech are connected with `conj:q`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 100% instances).
 
 
 ~~~ conllu

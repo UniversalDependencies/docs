@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 4	,	,	PUNCT	,	_	7	punct	7:punct	_
 5	do	do	AUX	VB	VerbForm=Inf	7	aux	7:aux	Discourse=joint-list_m:131->130:0:_
 6	n't	not	PART	RB	Polarity=Neg	7	advmod	7:advmod	Negation=Yes
-7	hold	hold	VERB	VB	Mood=Imp|Person=2|VerbForm=Fin	1	parataxis	1:parataxis	_
+7	hold	hold	VERB	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	parataxis	1:parataxis	_
 8	up	up	ADP	RP	_	7	compound:prt	7:compound:prt	_
 9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	10:det	Entity=(170-abstract-acc:com-nnnnn-cf1-2-sgl
 10	queue	queue	NOUN	NN	Number=Sing	7	obj	7:obj	Entity=170)|SpaceAfter=No
@@ -43,21 +43,21 @@ The following 3 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 compound:prt	color:blue
-1	So	so	INTJ	UH	_	5	discourse	5:discourse	Discourse=evaluation-comment:43->40:3:_;explanation-motivation:43->40:1:3:orp-so-259-_|PDTB=Explicit:Contingency.Cause.Result:so:259:238-258:260-280
+1	So	so	INTJ	UH	_	5	discourse	5:discourse	Discourse=evaluation-comment:43->40:3:lex-indwd-263-_;explanation-motivation:43->40:1:3:orp-so-259-gold|PDTB=Explicit:Contingency.Cause.Result:so:259:238-258:260-280
 2	you	you	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	Entity=(1-person-giv:act-sssss-cf1*-1-ana)
 3	will	will	AUX	MD	VerbForm=Fin	5	aux	5:aux	_
 4	be	be	AUX	VB	VerbForm=Inf	5	cop	5:cop	_
 5	better	good	ADJ	JJR	Degree=Cmp	0	root	0:root	MSeg=bett-er
 6	off	off	ADP	RP	_	5	compound:prt	5:compound:prt	_
-7	or	or	CCONJ	CC	_	10	cc	10:cc	Discourse=adversative-antithesis:44->43:0:dm-or-265-_|PDTB=Explicit:Comparison.Concession.Arg1-as-denier:or:265:259-264:266-280
+7	or	or	CCONJ	CC	_	10	cc	10:cc	Discourse=adversative-antithesis:44->43:0:dm-or-265-gold|PDTB=Explicit:Comparison.Concession.Arg1-as-denier:or:265:259-264:266-280
 8	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	Entity=(8-person-giv:act-sssss-cf2-1-ana)
 9	will	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
 10	do	do	VERB	VB	VerbForm=Inf	5	conj	5:conj:or	_
-11	what	whatever	PRON	GW	Typo=Yes	10	obj	10:obj	CorrectForm=whatever|Entity=(30-abstract-new-nnsnn-cf5-6-sgl|XML=<sic ana:::"whatever">
+11	what	whatever	PRON	GW	PronType=Rel|Typo=Yes	10	obj	10:obj	CorrectForm=whatever|Entity=(30-abstract-new-nnsnn-cf5-6-sgl|XML=<sic ana:::"whatever">
 12	ever	_	X	WP	_	11	goeswith	11:goeswith	CorrectForm=_|XML=</sic>
 13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	14:nsubj	Entity=(31-event-new-nnnnn-cf4-1-cata)
 14	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	11:acl:relcl	MSeg=take-s
-15	to	to	PART	TO	_	16	mark	16:mark	Discourse=purpose-goal:45->44:0:_|Entity=(31-event-acc:com-nnnnn-cf4-2-coref|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:265-272:273-280
+15	to	to	PART	TO	_	16	mark	16:mark	Discourse=purpose-goal:45->44:0:syn-inf-273-_|Entity=(31-event-acc:com-nnnnn-cf4-2-coref|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:265-272:273-280
 16	have	have	VERB	VB	VerbForm=Inf	10	advcl	10:advcl:to	_
 17	you	you	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs	16	obj	16:obj|19:nsubj:xsubj	Entity=(1-person-giv:act-sssss-cf1*-1-ana)
 18	in	in	ADP	IN	_	19	case	19:case	_

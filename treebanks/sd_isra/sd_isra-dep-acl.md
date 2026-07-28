@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="sd_isra-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-465 nodes (0%) are attached to their parents as `acl`.
+471 nodes (0%) are attached to their parents as `acl`.
 
-436 instances of `acl` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.23870967741935.
+442 instances of `acl` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.23779193205945.
 
-The following 17 pairs of parts of speech are connected with `acl`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (386; 83% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (12; 3% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (12; 3% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 17 pairs of parts of speech are connected with `acl`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (391; 83% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (12; 3% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (12; 3% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (8; 2% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 17 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 acl	color:blue
-1	ائين	ائين	PRON	PRL	Case=Nom	2	obl	_	_
+1	ائين	ائين	PRON	PRL	Case=Nom|PronType=Rel	2	obl	_	_
 2	ڪرڻ	ڪر	VERB	VM	Aspect=Imp|VerbForm=Inf	11	advcl	_	_
 3	بعد	بعد	ADP	PSP	_	2	mark	_	_
 4	مس	مس	ADV	ADV	_	6	advmod	_	_

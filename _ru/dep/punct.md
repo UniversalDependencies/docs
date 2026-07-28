@@ -61,4 +61,4 @@ punct(for-example, "-16)
 punct(означает, .-8)
 punct(means, .-17)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:39 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->

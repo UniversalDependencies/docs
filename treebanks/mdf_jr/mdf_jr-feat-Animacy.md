@@ -16,14 +16,14 @@ The feature is used with 3 part-of-speech tags: <tt><a href="mdf_jr-pos-PROPN.ht
 
 ### `PROPN`
 
-27 <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> tokens (32% of all `PROPN` tokens) have a non-empty value of `Animacy`.
+27 <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> tokens (31% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
 The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (24; 89%), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 67%), <tt><a href="mdf_jr-feat-NameType.html">NameType</a></tt><tt>=Sur</tt> (17; 63%), <tt><a href="mdf_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (16; 59%), <tt><a href="mdf_jr-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16; 59%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
 * `Hum` (27; 100% of non-empty `Animacy`): <em>Петровна, Варвара, Васильевичекс, Васильевна, Вельдинонь, Голенков, Девинонь, Девятаев, Елена, Злобинонь</em>
-* `EMPTY` (58): <em>Петя, Иван, Игорь, Марья, Алда-баба, Алдуван, Анна, Архипонь, Браун, Валентинонди</em>
+* `EMPTY` (59): <em>Петя, Иван, Игорь, Марья, Пашуть, Алда-баба, Алдуван, Анна, Архипонь, Браун</em>
 
 `Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (24) occur only with one value of `Animacy`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 `NOUN` tokens may have the following values of `Animacy`:
 
 * `Hum` (2; 100% of non-empty `Animacy`): <em>тядяц</em>
-* `EMPTY` (1132): <em>лангс, ломаттне, шись, тячи, шиня, ава, лангса, паксянь, пингть, Тишка</em>
+* `EMPTY` (1155): <em>лангс, ломаттне, шись, тячи, шиня, ава, лангса, паксянь, пингть, Тишка</em>
 
 ### `PRON`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Hum` (1; 100% of non-empty `Animacy`): <em>Кинди</em>
-* `EMPTY` (227): <em>сон, мон, сонь, тя, синь, минь, ся, мезе, тон, тейнза</em>
+* `EMPTY` (235): <em>сон, мон, сонь, тя, синь, минь, ся, мезе, тон, тейнза</em>
 
 ## Relations with Agreement in `Animacy`
 

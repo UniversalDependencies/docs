@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `advcl`: <tt><a href="ps_sikaram-dep-advcl-relcl.html">advcl:relcl</a></tt>.
 
-55 nodes (1%) are attached to their parents as `advcl`.
+73 nodes (1%) are attached to their parents as `advcl`.
 
-29 instances of `advcl` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 11.4545454545455.
+38 instances of `advcl` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 10.8219178082192.
 
-The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (37; 67% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (5; 9% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (5; 9% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (52; 71% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (8; 11% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 # visual-style 4 7 advcl	color:blue
 1	هغه	هغه	DET	_	Case=Nom|Deixis=Remt|PronType=Dem	2	det	_	Translit=háġa|LTranslit=háġa|Gloss=that
 2	څوک	څوک	PRON	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	13	nsubj	_	Translit=cok|LTranslit=cok|Gloss=anybody
-3	چې	چې	PRON	_	PronType=Rel	4	nsubj	_	Translit=če|LTranslit=če|Gloss=who
+3	چې	چې	SCONJ	_	_	4	mark	_	Translit=če|LTranslit=če|Gloss=that
 4	غواړي	غوښتل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	Translit=ġwâṛí|LTranslit=ġux̌të́l|Gloss=wants
 5	پاړسي	پاړسي	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	7	obj	_	Translit=pâṛsí|LTranslit=pâṛsí|Gloss=Persian
 6	زده	زده	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	compound:lvc	_	Translit=zda|LTranslit=zda|Gloss=learn
@@ -97,7 +97,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 18	کې	کې	ADP	_	Case=Loc	17	case	_	Translit=ke|LTranslit=ke|Gloss=among
 19	اسلام	اسلام	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	Translit=islấm|LTranslit=islấm|Gloss=Islam
 20	لا	لا	ADV	_	_	22	advmod	_	Translit=lâ|LTranslit=lâ|Gloss=more
-21	غزونې	غزونه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Vnoun	22	obj	_	Translit=ġazawë́ne|LTranslit=ġazawë́na|Gloss=extensions
+21	غزونې	غزونه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Vnoun	22	obj	_	Translit=ġazawë́ne|LTranslit=ġazawë́na|Gloss=extensions|LDeriv=غزول|LDTranslit=ġazawë́l
 22	وکړي	کول	VERB	_	Mood=Sub|Number=Plur|Person=3|Variant=Long|VerbForm=Fin	14	conj	_	Translit=wë́kṛi|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
 23	،	،	PUNCT	_	_	14	punct	_	Translit=,|LTranslit=,|Gloss=,
 24	په	پۀ	ADP	_	Case=Loc	25	case	_	Translit=pë|LTranslit=pë|Gloss=at
@@ -109,7 +109,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 30	کې	کې	ADP	_	Case=Loc	29	case	_	Translit=ke|LTranslit=ke|Gloss=in
 31	ماشومانو	ماشوم	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	37	obl	_	Translit=mâšumấno|LTranslit=mâšúm|Gloss=children
 32	ته	ته	ADP	_	Case=Acc	31	case	_	Translit=ta|LTranslit=ta|Gloss=to
-33	تدريسېدونکي	تدريسېدونکی	ADJ	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	34	amod	_	Translit=tadrisedúnki|LTranslit=tadrisedúnkay|Gloss=text
+33	تدريسېدونکي	تدريسېدونکی	ADJ	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	34	amod	_	Translit=tadrisedúnki|LTranslit=tadrisedúnkay|Gloss=text|LDeriv=تدريسېدل|LDTranslit=tadrisedë́l
 34	کتابونه	کتاب	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	37	nsubj:pass	_	Translit=kitâbúna|LTranslit=kitấb|Gloss=books
 35	په	پۀ	ADP	_	Case=Loc	36	case	_	Translit=pë|LTranslit=pë|Gloss=at
 36	پښتو	پښتو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	37	obl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
@@ -119,7 +119,7 @@ The following 9 pairs of parts of speech are connected with `advcl`: <tt><a href
 40	البته	البته	ADV	_	_	42	advmod	_	Translit=albatá|LTranslit=albatá|Gloss=of-course
 41	هغه	هغه	DET	_	Case=Nom|Deixis=Remt|PronType=Dem	42	det	_	Translit=háġa|LTranslit=háġa|Gloss=those
 42	کتابونه	کتاب	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	34	appos	_	Translit=kitâbúna|LTranslit=kitấb|Gloss=books
-43	چې	چې	PRON	_	PronType=Rel	48	nsubj	_	Translit=če|LTranslit=če|Gloss=that
+43	چې	چې	SCONJ	_	_	48	mark	_	Translit=če|LTranslit=če|Gloss=that
 44	په	پۀ	ADP	_	Case=Loc	48	case	_	Translit=pë|LTranslit=pë|Gloss=at
 45	پاړسي	پاړسي	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	48	nmod	_	Translit=pâṛsí|LTranslit=pâṛsí|Gloss=Parsi
 46	يا	يا	CCONJ	_	_	47	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or

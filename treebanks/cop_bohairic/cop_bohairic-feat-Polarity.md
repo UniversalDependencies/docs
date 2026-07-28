@@ -43,7 +43,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (51; 100% of non-empty `Polarity`): ⲙⲙⲟⲛ, ⲙⲙⲟⲛⲧⲉ, ⲙⲙⲟⲛⲧ, ⲙⲙⲟⲛⲛⲧⲁ, ⲙⲙⲟⲛⲧⲱ
-* `EMPTY` (3866): ⲓ, ϣⲱⲡⲓ, ϫⲱ, ⲟⲩⲁⲃ, ⲛⲁⲩ, ⲡⲉϫⲁ, ⲟⲩⲟⲛ, ⲉⲣ, ⲥⲱⲧⲉⲙ, ϣⲉ
+* `EMPTY` (3865): ⲓ, ϣⲱⲡⲓ, ϫⲱ, ⲟⲩⲁⲃ, ⲛⲁⲩ, ⲡⲉϫⲁ, ⲟⲩⲟⲛ, ⲉⲣ, ⲥⲱⲧⲉⲙ, ϣⲉ
 
 ### `CCONJ`
 

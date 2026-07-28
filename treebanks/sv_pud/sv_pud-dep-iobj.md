@@ -26,8 +26,8 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
 3	svårt	svår	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	0:root	_
 4	att	att	PART	IE	_	5	mark	5:mark	_
-5	tänka	tänka	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	3	csubj	3:csubj	_
-6	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	5	iobj	5:iobj	_
+5	tänka	tänka	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	3	csubj	3:csubj	ParsemeMWE=1:IRV
+6	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	5	iobj	5:iobj	ParsemeMWE=1
 7	att	att	SCONJ	SN	_	9	mark	9:mark	_
 8	Italien	Italien	PROPN	PM|NOM	Case=Nom	9	nsubj	9:nsubj	_
 9	har	ha	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	5:ccomp	_
@@ -47,8 +47,8 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 12 iobj	color:blue
-1	I	i	ADP	PP	_	2	case	2:case	_
-2	nuläget	nuläge	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	6	obl	6:obl:i	_
+1	I	i	ADP	PP	_	2	case	2:case	ParsemeMWE=1:AdvID
+2	nuläget	nuläge	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	6	obl	6:obl:i	ParsemeMWE=1;2:NotMWE
 3	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	6:cop	_
 4	den	den	DET	DT|UTR|SIN|DEF	Definite=Def|Gender=Com|Number=Sing|PronType=Art	6	det	6:det	_
 5	högsta	hög	ADJ	JJ|SUV|UTR/NEU|SIN/PLU|DEF|NOM	Case=Nom|Definite=Def|Degree=Sup	6	amod	6:amod	_
@@ -73,8 +73,8 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 5 iobj	color:blue
 1	Tidigare	tidigt	ADV	AB|KOM	Degree=Cmp	4	advmod	4:advmod	_
-2	i	i	ADP	PP	_	3	case	3:case	_
-3	år	år	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	nmod	1:nmod:i	_
+2	i	i	ADP	PP	_	3	case	3:case	ParsemeMWE=1:AdvID
+3	år	år	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	nmod	1:nmod:i	ParsemeMWE=1
 4	gavs	ge	VERB	VB|PRT|SFO	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 5	Seagal	Seagal	PROPN	PM|NOM	Case=Nom	4	iobj	4:iobj	_
 6	serbiskt	serbisk	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	7	amod	7:amod	_

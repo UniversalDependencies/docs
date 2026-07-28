@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `reparandum`: <tt><a
 4	ті-і	тэ	PRON	Pron	Case=Nom|Number=Plur|Person=2|PronType=Prs	5	nsubj:cop	_	GTtags=Pers,2,Pl,Nom
 5	сэтшӧм-татшӧмъяс	сэтшӧм-татшӧм	ADJ	A	Case=Nom|Number=Plur|PronType=Dem	7	reparandum	_	GTtags=Dem,Pl,Nom|SpaceAfter=No
 6	...	...	PUNCT	CLB	_	5	punct	_	_
-7	котраланныд	котравны	VERB	V	Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=IV,Der,Der/Ан,PrsPrc,N,Sg,Nom|PxPl2
+7	котраланныд	котравны	VERB	V	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	GTtags=IV,Der,Der/Ан,PrsPrc,N,Sg,Nom|PxPl2
 8	кыті	кыті	ADV	Adv	Case=Tra|PronType=Int	7	advmod	_	GTtags=Tra,Interr
 9	оз	оз	AUX	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	10	aux	_	GTtags=Neg,Ind,Prs,Sg3
 10	ков	ковны	AUX	V	Connegative=Yes	8	advcl	_	GTtags=IV,ConNeg|SpaceAfter=No

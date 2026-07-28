@@ -45,4 +45,4 @@ The LSE makes very little use of adpositions and it is common for nominals that 
 2	IR	_	VERB	V.Loc	_	0	root	_	Gloss=GO
 3	cl.d(1):lugar	_	NOUN	N.D	_	2	obl	_	Gloss=cl
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:22 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:30 CEST -->

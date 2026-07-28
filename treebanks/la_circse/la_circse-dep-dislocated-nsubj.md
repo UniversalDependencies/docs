@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-CIRCSE: Relations: `dislocated:nsubj`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="la_circse-dep-dislocated.html">dislocated</a></tt>.
 There are also 1 other language-specific subtypes of `dislocated`: <tt><a href="la_circse-dep-dislocated-csubj.html">dislocated:csubj</a></tt>.
 
 4 nodes (0%) are attached to their parents as `dislocated:nsubj`.

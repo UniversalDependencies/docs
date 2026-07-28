@@ -22,10 +22,10 @@ The following 4 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 punct	color:blue
-1	Þæt	se	DET	DT	Case=Nom|Gender=Neut|Number=Sing	2	det	_	Gloss=the|Hyperlemma=the|Root=*so
+1	Þæt	se	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	Gloss=the|Hyperlemma=the|Root=*so
 2	mæden	mæden	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	Gloss=girl|Hyperlemma=maiden|Root=*mogʰ
 3	ƿrat	ƿritan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=wrote|Hyperlemma=write|Root=*wrey
-4	hyre	heo	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing	5	nmod:poss	_	Gloss=her|Hyperlemma=she|Root=*ḱey
+4	hyre	heo	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	nmod:poss	_	Gloss=her|Hyperlemma=she|Root=*ḱey
 5	freonde	freond	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	Gloss=friend|Hyperlemma=friend|Root=*preyH
 6	ærend-ƿrit	ærend-ƿrit	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	Gloss=letter|Hyperlemma=errand-writ|Root=*h₂eyeri-wrey|SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	_	Gloss=.|Hyperlemma=.|Root=_

@@ -32,7 +32,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (612; 100% of non-empty `Polarity`): <em>mitte, ega, ei, Egä</em>
-* `EMPTY` (41485): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, kus</em>
+* `EMPTY` (41499): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, kus</em>
 
 ### `CCONJ`
 
@@ -52,5 +52,5 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (163; 100% of non-empty `Polarity`): <em>pole, polnud, polegi, poleks, polnudki, kasutata, olevat, polekski</em>
-* `EMPTY` (47695): <em>tuleb, on, teha, ütles, saada, sai, saanud, tuli, saab, jääb</em>
+* `EMPTY` (47698): <em>tuleb, on, teha, ütles, saada, sai, saanud, tuli, saab, jääb</em>
 

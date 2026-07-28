@@ -22,13 +22,13 @@ The following 3 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 case	color:blue
-1	La	la	DET	_	_	2	det	_	_
+1	La	la	DET	_	Definite=Def|PronType=Art	2	det	_	_
 2	najbaro	najbaro	NOUN	_	Case=Nom|Number=Sing	6	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	Petro	Petro	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	_
 5	ruĝe	ruĝe	ADV	_	_	6	advmod	_	_
 6	farbis	farbi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-7	la	la	DET	_	_	8	det	_	_
+7	la	la	DET	_	Definite=Def|PronType=Art	8	det	_	_
 8	barilon	barilo	NOUN	_	Case=Acc|Number=Sing	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -41,7 +41,7 @@ The following 3 pairs of parts of speech are connected with `case`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 case	color:blue
-1	La	la	DET	_	_	2	det	_	_
+1	La	la	DET	_	Definite=Def|PronType=Art	2	det	_	_
 2	knabino	knabino	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	skribis	skribi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	leteron	letero	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_

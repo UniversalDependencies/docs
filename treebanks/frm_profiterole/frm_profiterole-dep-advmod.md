@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5799 nodes (6%) are attached to their parents as `advmod`.
+7546 nodes (6%) are attached to their parents as `advmod`.
 
-4368 instances of `advmod` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.41110536299362.
+5793 instances of `advmod` (77%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.60164325470448.
 
-The following 16 pairs of parts of speech are connected with `advmod`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (4224; 73% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (586; 10% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (448; 8% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (375; 6% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (72; 1% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (25; 0% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (22; 0% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-DET.html">DET</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `advmod`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (5298; 70% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (838; 11% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (619; 8% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (551; 7% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (89; 1% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (49; 1% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (39; 1% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (23; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="frm_profiterole-pos-ADP.html">ADP</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -24,11 +24,11 @@ The following 16 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 11 7 advmod	color:blue
 1	mais	mais1	CCONJ	CONcoo	_	11	cc:nc	_	XmlId=w_32_02442
 2	le	le	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_32_02443
-3	neu	noeud	NOUN	NOMcom	_	11	nsubj	_	XmlId=w_32_02444
+3	neu	noeud	NOUN	NOMcom	_	11	nsubj:pass	_	XmlId=w_32_02444
 4	de	de	ADP	PRE	_	6	case	_	XmlId=w_32_02445
 5	ceste	cist	DET	DETdem	PronType=Dem	6	det	_	XmlId=w_32_02446
 6	matière	matière	NOUN	NOMcom	_	3	nmod	_	XmlId=w_32_02447
-7	ne	ne1	ADV	ADVneg	PronType=Neg	11	advmod	_	XmlId=w_32_02448
+7	ne	ne1	ADV	ADVneg	Polarity=Neg	11	advmod	_	XmlId=w_32_02448
 8	luy	lui	PRON	PROper	PronType=Prs	11	iobj	_	XmlId=w_32_02449
 9	fut	être	AUX	VERcjg	VerbForm=Fin	11	aux:pass	_	XmlId=w_32_02450
 10	jamais	jamais	ADV	ADVgen	_	11	advmod	_	XmlId=w_32_02451

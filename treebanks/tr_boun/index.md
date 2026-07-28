@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Büşra Marşan, Furkan Akkurt, Utku Türk, Furkan Atmaca, Şaziye Betül Özateş, Gözde Berk, Seyyit Talha Bedir, Abdullatif Köksal, Balkız Öztürk Başaran, Tunga Güngör, Arzucan Özgür.
 
 Repository: [UD_Turkish-BOUN](https://github.com/UniversalDependencies/UD_Turkish-BOUN)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_boun217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_boun218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -52,8 +52,7 @@ This is a Turkish dependency treebank in the Universal Dependencies (UD) annotat
 
 The BOUN Treebank includes a total of 9,761 manually annotated sentences from various topics including biographical texts, national newspapers, instructional texts, popular culture articles, and essays. The texts are taken from the [Turkish National Corpus (TNC)](https://www.tnc.org.tr/).
 
-The dependency relations in the BOUN Treebank is manually annotated in the UD framework. The morphological features and UPOS information are first retrieved from the morphological parser of [Sak et al. (2011)](https://link.springer.com/article/10.1007/s10579-010-9128-6) and converted to UD morphology automatically using [our script](https://github.com/boun-tabi/UD_docs/blob/main/convert_sak_morp_to_ud_morp.py). The morphological features, UPOS tags, XPOS tags, and lemma forms are then manually corrected in a systematic way.
-
+The dependency relations in the BOUN Treebank are manually annotated in the UD framework. The morphological features and UPOS information are first retrieved from the morphological parser of [Sak et al. (2011)](https://link.springer.com/article/10.1007/s10579-010-9128-6) and converted to UD morphology automatically using [our script](https://github.com/boun-tabi/UD_docs/blob/main/convert_sak_morp_to_ud_morp.py). The morphological features, UPOS tags, XPOS tags, and lemma forms are then manually corrected in a systematic way.
 
 ## Acknowledgments
 
@@ -99,11 +98,11 @@ doi = {10.1007/s10579-021-09558-0}
 
 ## Features
 
-[Abbr](tr_boun-feat-Abbr.html) – [Aspect](tr_boun-feat-Aspect.html) – [Case](tr_boun-feat-Case.html) – [Echo](tr_boun-feat-Echo.html) – [Evident](tr_boun-feat-Evident.html) – [Mood](tr_boun-feat-Mood.html) – [Number](tr_boun-feat-Number.html) – [Number[psor]](tr_boun-feat-Number-psor.html) – [NumType](tr_boun-feat-NumType.html) – [Person](tr_boun-feat-Person.html) – [Person[psor]](tr_boun-feat-Person-psor.html) – [Polarity](tr_boun-feat-Polarity.html) – [Polite](tr_boun-feat-Polite.html) – [PronType](tr_boun-feat-PronType.html) – [Reflex](tr_boun-feat-Reflex.html) – [Tense](tr_boun-feat-Tense.html) – [Typo](tr_boun-feat-Typo.html) – [VerbForm](tr_boun-feat-VerbForm.html) – [Voice](tr_boun-feat-Voice.html)
+[Abbr](tr_boun-feat-Abbr.html) – [Aspect](tr_boun-feat-Aspect.html) – [Case](tr_boun-feat-Case.html) – [Echo](tr_boun-feat-Echo.html) – [Evident](tr_boun-feat-Evident.html) – [ExtPos](tr_boun-feat-ExtPos.html) – [Mood](tr_boun-feat-Mood.html) – [Number](tr_boun-feat-Number.html) – [Number[psor]](tr_boun-feat-Number-psor.html) – [NumType](tr_boun-feat-NumType.html) – [Person](tr_boun-feat-Person.html) – [Person[psor]](tr_boun-feat-Person-psor.html) – [Polarity](tr_boun-feat-Polarity.html) – [Polite](tr_boun-feat-Polite.html) – [PronType](tr_boun-feat-PronType.html) – [Reflex](tr_boun-feat-Reflex.html) – [Tense](tr_boun-feat-Tense.html) – [Typo](tr_boun-feat-Typo.html) – [VerbForm](tr_boun-feat-VerbForm.html) – [Voice](tr_boun-feat-Voice.html)
 
 ## Relations
 
-[acl](tr_boun-dep-acl.html) – [advcl](tr_boun-dep-advcl.html) – [advmod](tr_boun-dep-advmod.html) – [advmod:emph](tr_boun-dep-advmod-emph.html) – [amod](tr_boun-dep-amod.html) – [appos](tr_boun-dep-appos.html) – [aux](tr_boun-dep-aux.html) – [aux:q](tr_boun-dep-aux-q.html) – [case](tr_boun-dep-case.html) – [cc](tr_boun-dep-cc.html) – [cc:preconj](tr_boun-dep-cc-preconj.html) – [ccomp](tr_boun-dep-ccomp.html) – [clf](tr_boun-dep-clf.html) – [compound](tr_boun-dep-compound.html) – [compound:lvc](tr_boun-dep-compound-lvc.html) – [compound:redup](tr_boun-dep-compound-redup.html) – [conj](tr_boun-dep-conj.html) – [cop](tr_boun-dep-cop.html) – [csubj](tr_boun-dep-csubj.html) – [csubj:outer](tr_boun-dep-csubj-outer.html) – [dep](tr_boun-dep-dep.html) – [dep:der](tr_boun-dep-dep-der.html) – [det](tr_boun-dep-det.html) – [discourse](tr_boun-dep-discourse.html) – [discourse:q](tr_boun-dep-discourse-q.html) – [dislocated](tr_boun-dep-dislocated.html) – [fixed](tr_boun-dep-fixed.html) – [flat](tr_boun-dep-flat.html) – [iobj](tr_boun-dep-iobj.html) – [list](tr_boun-dep-list.html) – [mark](tr_boun-dep-mark.html) – [nmod](tr_boun-dep-nmod.html) – [nmod:part](tr_boun-dep-nmod-part.html) – [nmod:poss](tr_boun-dep-nmod-poss.html) – [nsubj](tr_boun-dep-nsubj.html) – [nsubj:outer](tr_boun-dep-nsubj-outer.html) – [nummod](tr_boun-dep-nummod.html) – [obj](tr_boun-dep-obj.html) – [obl](tr_boun-dep-obl.html) – [obl:tmod](tr_boun-dep-obl-tmod.html) – [orphan](tr_boun-dep-orphan.html) – [parataxis](tr_boun-dep-parataxis.html) – [punct](tr_boun-dep-punct.html) – [root](tr_boun-dep-root.html) – [vocative](tr_boun-dep-vocative.html) – [xcomp](tr_boun-dep-xcomp.html)
+[acl](tr_boun-dep-acl.html) – [advcl](tr_boun-dep-advcl.html) – [advmod](tr_boun-dep-advmod.html) – [advmod:emph](tr_boun-dep-advmod-emph.html) – [amod](tr_boun-dep-amod.html) – [appos](tr_boun-dep-appos.html) – [aux](tr_boun-dep-aux.html) – [aux:q](tr_boun-dep-aux-q.html) – [case](tr_boun-dep-case.html) – [cc](tr_boun-dep-cc.html) – [cc:preconj](tr_boun-dep-cc-preconj.html) – [ccomp](tr_boun-dep-ccomp.html) – [clf](tr_boun-dep-clf.html) – [compound](tr_boun-dep-compound.html) – [compound:lvc](tr_boun-dep-compound-lvc.html) – [compound:redup](tr_boun-dep-compound-redup.html) – [conj](tr_boun-dep-conj.html) – [cop](tr_boun-dep-cop.html) – [csubj](tr_boun-dep-csubj.html) – [csubj:outer](tr_boun-dep-csubj-outer.html) – [dep](tr_boun-dep-dep.html) – [dep:der](tr_boun-dep-dep-der.html) – [det](tr_boun-dep-det.html) – [discourse](tr_boun-dep-discourse.html) – [discourse:q](tr_boun-dep-discourse-q.html) – [dislocated](tr_boun-dep-dislocated.html) – [fixed](tr_boun-dep-fixed.html) – [flat](tr_boun-dep-flat.html) – [flat:name](tr_boun-dep-flat-name.html) – [iobj](tr_boun-dep-iobj.html) – [list](tr_boun-dep-list.html) – [mark](tr_boun-dep-mark.html) – [nmod](tr_boun-dep-nmod.html) – [nmod:part](tr_boun-dep-nmod-part.html) – [nmod:poss](tr_boun-dep-nmod-poss.html) – [nmod:tmod](tr_boun-dep-nmod-tmod.html) – [nsubj](tr_boun-dep-nsubj.html) – [nsubj:outer](tr_boun-dep-nsubj-outer.html) – [nummod](tr_boun-dep-nummod.html) – [obj](tr_boun-dep-obj.html) – [obl](tr_boun-dep-obl.html) – [obl:tmod](tr_boun-dep-obl-tmod.html) – [orphan](tr_boun-dep-orphan.html) – [parataxis](tr_boun-dep-parataxis.html) – [punct](tr_boun-dep-punct.html) – [root](tr_boun-dep-root.html) – [vocative](tr_boun-dep-vocative.html) – [xcomp](tr_boun-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -143,11 +142,11 @@ doi = {10.1007/s10579-021-09558-0}
 </ul>
 
 <ul>
-<li>This corpus contains 137 lemmas tagged as pronouns (PRON): "O'nun, "biz", 'Bu, Basten, Bize, Bunlar, Burada, Buradan, Buğday, Kimsenin, Nitekim, Oğuz, Senî, Sizi, Tasvir, ada, ayakkabı, bahçe, bakan, baston, bazı, başhekim, başka, beden, ben, bence, bende, bensiz, benzin, bina, bir, birara, birbiri, birey, biri, biribiri, birkaç, birkaçı, birlik, birliktelik, birçok, biz, bizim, bu, bun, bura, bölge, böyle, böylesine, bürokrasi, ceset, deniz, din, diri, diz, dizin, düzen, düşman, enerji, ev, fakirlik, gençlik, gündüz, güven, had, hangi, hep, hepsi, herkes, hiçbiri, hâkim, insan, irade, iç, iş, işkence, işsiz, kaç, kendi, ki, kim, kimi, kimler, kimse, kisi, kişilik, kriz, kuzen, kız, liman, meden, metin, ne, neden, nere, o, o'nun, on, onay, operasyon, ora, oracık, orası, ordu, organiz, orman, ortam, san, sanat, sanatçı, sanayi, sayfa, sen, sensiz, servis, ses, sevinç, siz, sizinle, sofra, sıra, tansiyon, tüm, uyku, volta, yurt, Çekemoğlu, çekim, çeviri, çevren, çok, çoğu, ülke, şey, şiir, şu, şura</li>
+<li>This corpus contains 126 lemmas tagged as pronouns (PRON): "O'nun, "biz", 'Bu, Bize, Bunlar, Burada, Buradan, Kimsenin, Nitekim, Senî, Sizi, Tasvir, ada, ayakkabı, bahçe, bakan, baston, bazı, başhekim, başka, beden, ben, bence, bende, bensiz, benzin, bina, bir, birbiri, birey, biri, biribiri, birkaç, birkaçı, birlik, birliktelik, birçok, biz, bizim, bu, bun, bura, bölge, böyle, böylesine, bürokrasi, ceset, deniz, din, diri, diz, dizin, düzen, düşman, enerji, ev, fakirlik, gençlik, gündüz, güven, had, hangi, hep, hepsi, herkes, hiçbiri, hâkim, insan, irade, iç, iş, işkence, işsiz, kaç, kendi, kim, kimi, kimler, kimse, kişilik, kriz, kuzen, kız, liman, meden, metin, ne, neden, nere, o, o'nun, on, operasyon, ora, oracık, orası, ordu, organiz, orman, ortam, san, sanat, sanatçı, sanayi, sen, sensiz, servis, ses, sevinç, siz, sizinle, sofra, tansiyon, tüm, uyku, Çekemoğlu, çekim, çeviri, çevren, çok, çoğu, ülke, şey, şiir, şu, şura</li>
 </ul>
 
 <ul>
-<li>This corpus contains 27 lemmas tagged as determiners (DET): ...bu, bazı, başka, bir, birkaç, birtakım, birçok, bu, bunca, bütün, diğer, hangi, hep, her, herhangi, hiç, hiçbir, ilk, kaç, kimi, o, tüm, unperiodismo, çok, çoğu, öteki, şu</li>
+<li>This corpus contains 26 lemmas tagged as determiners (DET): ...bu, bazı, başka, bir, birkaç, birtakım, birçok, bu, bunca, bütün, diğer, hangi, hep, her, herhangi, hiç, hiçbir, ilk, kaç, kimi, o, tüm, çok, çoğu, öteki, şu</li>
 </ul>
 
 <ul>
@@ -798,8 +797,9 @@ doi = {10.1007/s10579-021-09558-0}
 <ul>
   <li>Dem
     <ul>
+      <li>DET: bu, her, o, tüm, bütün, şu, diğer, ...Bu, bütü, het</li>
       <li>NUM: On, onca</li>
-      <li>PRON: bu, bunu, bunun, buna, bunlar, bundan, bunları, bunların, o, şunu</li>
+      <li>PRON: bu, bunu, bunun, buna, bunlar, bundan, bunları, bunların, o, burada</li>
     </ul>
   </li>
 </ul>
@@ -807,7 +807,8 @@ doi = {10.1007/s10579-021-09558-0}
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: kimi, Tasviri, biribirine, böylesine, diri, çoğu</li>
+      <li>DET: bir, bazı, birkaç, birçok, kimi, çok, herhangi, çoğu, birtakım, BİR</li>
+      <li>PRON: biri, hepsi, bazıları, birisi, hepimiz, birinin, hepsinin, hepsini, kimse, birinden</li>
     </ul>
   </li>
 </ul>
@@ -815,8 +816,9 @@ doi = {10.1007/s10579-021-09558-0}
 <ul>
   <li>Int
     <ul>
+      <li>DET: hangi, kaç</li>
       <li>NOUN: Niceden, başhekim</li>
-      <li>PRON: ne, kim, neler, nedir, nerede, nereye, neyi, nereden, nerde, neye</li>
+      <li>PRON: ne, kim, neler, nedir, nereye, nerede, neden, neyi, nereden, neye</li>
     </ul>
   </li>
 </ul>
@@ -830,9 +832,17 @@ doi = {10.1007/s10579-021-09558-0}
 </ul>
 
 <ul>
+  <li>Neg
+    <ul>
+      <li>DET: hiçbir, hiç</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Prs
     <ul>
-      <li>PRON: ben, bana, benim, onun, o, onu, beni, biz, bizim, ona</li>
+      <li>PRON: ben, benim, bana, onun, kendi, beni, onu, o, bizim, biz</li>
     </ul>
   </li>
 </ul>
@@ -840,7 +850,7 @@ doi = {10.1007/s10579-021-09558-0}
 <ul>
   <li>Rcp
     <ul>
-      <li>PRON: birbirlerini, birbirinden, birbirine</li>
+      <li>PRON: birbirine, birbirlerine, birbirinden, birbirlerini, birbirimize, birbirimizi, birbirinin, Birbiri, birbirini, birbirinize</li>
     </ul>
   </li>
 </ul>
@@ -1027,6 +1037,43 @@ doi = {10.1007/s10579-021-09558-0}
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADP
+        <ul>
+          <li>ADP: yanı</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADV: Ne, Tabi, Öyle, bir, iki</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: ya, ne, hem</li>
+        </ul>
+      </li>
+      <li>DET
+        <ul>
+          <li>DET: bir, her, hiç</li>
+        </ul>
+      </li>
+      <li>INTJ
+        <ul>
+          <li>INTJ: sakın</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>PRON: Bir</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Person[psor]</a>
     <ul>
       <li>1
@@ -1113,12 +1160,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (2)</li>
       <li>VERB--NOUN-Abl (1)</li>
-      <li>VERB--NOUN-Acc (64)</li>
+      <li>VERB--NOUN-Acc (69)</li>
       <li>VERB--NOUN-Dat (7)</li>
       <li>VERB--NOUN-Gen (60)</li>
       <li>VERB--NOUN-Ins (3)</li>
       <li>VERB--NOUN-Loc (2)</li>
-      <li>VERB--NOUN-Nom (2004)</li>
+      <li>VERB--NOUN-Nom (2006)</li>
       <li>VERB--NOUN-Nom-ADP(dahil) (1)</li>
       <li>VERB--NOUN-Nom-ADP(dâhi) (1)</li>
       <li>VERB--NOUN-Nom-ADP(ile) (4)</li>
@@ -1129,26 +1176,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Gen-ADP(kiler) (1)</li>
       <li>VERB--PRON-Ins (1)</li>
       <li>VERB--PRON-Loc-ADP(de) (1)</li>
-      <li>VERB--PRON-Nom (409)</li>
+      <li>VERB--PRON-Nom (408)</li>
       <li>VERB--PRON-Nom-ADP(kadar) (1)</li>
       <li>VERB-Conv--NOUN-Acc (7)</li>
       <li>VERB-Conv--NOUN-Gen (19)</li>
-      <li>VERB-Conv--NOUN-Nom (88)</li>
+      <li>VERB-Conv--NOUN-Nom (89)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Conv--PRON-Gen (2)</li>
       <li>VERB-Conv--PRON-Nom (17)</li>
       <li>VERB-Part--NOUN-ADP('nin) (1)</li>
-      <li>VERB-Part--NOUN-Acc (45)</li>
+      <li>VERB-Part--NOUN-Acc (48)</li>
       <li>VERB-Part--NOUN-Dat (2)</li>
-      <li>VERB-Part--NOUN-Gen (447)</li>
+      <li>VERB-Part--NOUN-Gen (448)</li>
       <li>VERB-Part--NOUN-Ins (6)</li>
       <li>VERB-Part--NOUN-Loc (1)</li>
-      <li>VERB-Part--NOUN-Nom (668)</li>
+      <li>VERB-Part--NOUN-Nom (669)</li>
       <li>VERB-Part--NOUN-Nom-ADP(ile) (3)</li>
       <li>VERB-Part--PRON-Abl (1)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Gen (53)</li>
-      <li>VERB-Part--PRON-Nom (113)</li>
+      <li>VERB-Part--PRON-Nom (112)</li>
       <li>VERB-Vnoun--NOUN-Acc (9)</li>
       <li>VERB-Vnoun--NOUN-Dat (1)</li>
       <li>VERB-Vnoun--NOUN-Gen (216)</li>
@@ -1166,44 +1213,44 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (4)</li>
       <li>VERB--NOUN-ADP(yi) (1)</li>
       <li>VERB--NOUN-Abl (16)</li>
-      <li>VERB--NOUN-Acc (1837)</li>
+      <li>VERB--NOUN-Acc (1818)</li>
       <li>VERB--NOUN-Acc-ADP(filan) (1)</li>
       <li>VERB--NOUN-Acc-ADP(gibi) (1)</li>
       <li>VERB--NOUN-Acc-ADP(ile) (1)</li>
-      <li>VERB--NOUN-Dat (129)</li>
+      <li>VERB--NOUN-Dat (127)</li>
       <li>VERB--NOUN-Gen (2)</li>
-      <li>VERB--NOUN-Ins (19)</li>
-      <li>VERB--NOUN-Loc (10)</li>
-      <li>VERB--NOUN-Nom (300)</li>
+      <li>VERB--NOUN-Ins (18)</li>
+      <li>VERB--NOUN-Loc (8)</li>
+      <li>VERB--NOUN-Nom (295)</li>
       <li>VERB--NOUN-Nom-ADP(li) (1)</li>
       <li>VERB--PRON-Abl (1)</li>
-      <li>VERB--PRON-Acc (344)</li>
-      <li>VERB--PRON-Dat (17)</li>
+      <li>VERB--PRON-Acc (341)</li>
+      <li>VERB--PRON-Dat (15)</li>
       <li>VERB--PRON-Gen (1)</li>
-      <li>VERB--PRON-Ins (4)</li>
+      <li>VERB--PRON-Ins (3)</li>
       <li>VERB--PRON-Loc (1)</li>
-      <li>VERB--PRON-Nom (20)</li>
+      <li>VERB--PRON-Nom (19)</li>
       <li>VERB-Conv--NOUN (1)</li>
       <li>VERB-Conv--NOUN-Abl (6)</li>
-      <li>VERB-Conv--NOUN-Acc (287)</li>
-      <li>VERB-Conv--NOUN-Dat (15)</li>
+      <li>VERB-Conv--NOUN-Acc (284)</li>
+      <li>VERB-Conv--NOUN-Dat (12)</li>
       <li>VERB-Conv--NOUN-Ins (4)</li>
-      <li>VERB-Conv--NOUN-Nom (54)</li>
+      <li>VERB-Conv--NOUN-Nom (53)</li>
       <li>VERB-Conv--NOUN-Nom-ADP(ile) (1)</li>
-      <li>VERB-Conv--PRON-Acc (25)</li>
+      <li>VERB-Conv--PRON-Acc (24)</li>
       <li>VERB-Part--NOUN (3)</li>
       <li>VERB-Part--NOUN-ADP(ı) (1)</li>
-      <li>VERB-Part--NOUN-Abl (11)</li>
-      <li>VERB-Part--NOUN-Acc (1169)</li>
+      <li>VERB-Part--NOUN-Abl (10)</li>
+      <li>VERB-Part--NOUN-Acc (1164)</li>
       <li>VERB-Part--NOUN-Acc-ADP(dil) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(diye) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(diye)-ADP(diye)-ADP(diye)-ADP(diye)-ADP(diye) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(ile) (4)</li>
       <li>VERB-Part--NOUN-Acc-ADP(Ü) (1)</li>
       <li>VERB-Part--NOUN-Acc-ADP(İ) (1)</li>
-      <li>VERB-Part--NOUN-Dat (57)</li>
-      <li>VERB-Part--NOUN-Gen (3)</li>
-      <li>VERB-Part--NOUN-Ins (15)</li>
+      <li>VERB-Part--NOUN-Dat (55)</li>
+      <li>VERB-Part--NOUN-Gen (2)</li>
+      <li>VERB-Part--NOUN-Ins (14)</li>
       <li>VERB-Part--NOUN-Loc (2)</li>
       <li>VERB-Part--NOUN-Nom (185)</li>
       <li>VERB-Part--NOUN-Nom-ADP(e) (1)</li>
@@ -1215,16 +1262,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Nom (6)</li>
       <li>VERB-Vnoun--NOUN (2)</li>
       <li>VERB-Vnoun--NOUN-Abl (5)</li>
-      <li>VERB-Vnoun--NOUN-Acc (510)</li>
+      <li>VERB-Vnoun--NOUN-Acc (511)</li>
       <li>VERB-Vnoun--NOUN-Acc-ADP(ile) (1)</li>
       <li>VERB-Vnoun--NOUN-Acc-ADP(ni) (1)</li>
       <li>VERB-Vnoun--NOUN-Dat (23)</li>
       <li>VERB-Vnoun--NOUN-Gen (3)</li>
       <li>VERB-Vnoun--NOUN-Ins (4)</li>
       <li>VERB-Vnoun--NOUN-Loc (2)</li>
-      <li>VERB-Vnoun--NOUN-Nom (87)</li>
+      <li>VERB-Vnoun--NOUN-Nom (86)</li>
       <li>VERB-Vnoun--NOUN-Nom-ADP(gibi) (1)</li>
-      <li>VERB-Vnoun--PRON-Acc (54)</li>
+      <li>VERB-Vnoun--PRON-Acc (55)</li>
       <li>VERB-Vnoun--PRON-Dat (2)</li>
       <li>VERB-Vnoun--PRON-Ins (2)</li>
       <li>VERB-Vnoun--PRON-Nom (2)</li>
@@ -1261,12 +1308,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 74 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: hisset kendimi, at kendini, ada kendini, hisset kendinizi, sev kendini, çek kendini, özgü kendine, ait kendinize, al kendimi, aldat kendisini, alıkoy kendini, anlat kendimi, anlat kendinizi, aş kendimizi, bak kendinize, benze kendine, bul kendimi, bul kendisini, bırak kendini, dinle kendimizi, dinle kendisini, doğrula kendini, edebiyatçı kendimi, ez kendini, feda kendisini, geliş kendini, gönder kendine, gönder kendisine, gör kendini, göster kendini, haberdar kendinizi, hayal kendilerini, hisset kendilerini, hiçle kendini, ifade kendini, ifade kendisini, ilan kendini, ilân kendisini, inan kendilerini, ispat kendilerini, ispatla kendini, izin kendisinden, içeri kendilerini, kabullen kendimi, kanıtladım kendimi, kap kendini, kazan kendini, konuş kendimle, koyver kendilerini, kurban kendisini</li>
+  <li>This corpus contains 72 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: hisset kendimi, at kendini, ada kendini, hisset kendinizi, sev kendini, çek kendini, özgü kendine, ait kendinize, al kendimi, aldat kendisini, alıkoy kendini, anlat kendimi, anlat kendinizi, aş kendimizi, bak kendinize, benze kendine, bul kendimi, bul kendisini, bırak kendini, dinle kendimizi, dinle kendisini, doğrula kendini, edebiyatçı kendimi, ez kendini, feda kendisini, geliş kendini, gönder kendine, gönder kendisine, gör kendini, göster kendini, haberdar kendinizi, hayal kendilerini, hisset kendilerini, hiçle kendini, ifade kendini, ifade kendisini, ilan kendini, ilân kendisini, inan kendilerini, ispat kendilerini, ispatla kendini, izin kendisinden, içeri kendilerini, kabullen kendimi, kanıtladım kendimi, kap kendini, kazan kendini, koyver kendilerini, kurban kendisini, kurtar kendimizi</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 12 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>csubj:outer</a>, <a>dep:der</a>, <a>discourse:q</a>, <a>nmod:part</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 14 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>csubj:outer</a>, <a>dep:der</a>, <a>discourse:q</a>, <a>flat:name</a>, <a>nmod:part</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>obl:tmod</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

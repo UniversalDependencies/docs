@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 9 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rel`, `Tot`.
 
-3386 tokens (21%) have a non-empty value of `PronType`.
+3390 tokens (21%) have a non-empty value of `PronType`.
 1 types (0) occur at least once with a non-empty value of `PronType`.
 1 lemmas (0) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1963; 12% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1232; 8% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (191; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> (1963; 12% instances), <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> (1236; 8% instances), <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> (191; 1% instances).
 
 ### `PRON`
 
@@ -25,26 +25,24 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Dem` (191; 10% of non-empty `PronType`): <em>_</em>
 * `Emp` (1; 0% of non-empty `PronType`): <em>_</em>
 * `Ind` (65; 3% of non-empty `PronType`): <em>_</em>
-* `Int` (24; 1% of non-empty `PronType`): <em>_</em>
+* `Int` (21; 1% of non-empty `PronType`): <em>_</em>
 * `Neg` (11; 1% of non-empty `PronType`): <em>_</em>
 * `Prs` (1493; 76% of non-empty `PronType`): <em>_</em>
-* `Rel` (157; 8% of non-empty `PronType`): <em>_</em>
+* `Rel` (160; 8% of non-empty `PronType`): <em>_</em>
 * `Tot` (21; 1% of non-empty `PronType`): <em>_</em>
 
 ### `DET`
 
-1232 <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+1236 <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (963; 78% of non-empty `PronType`): <em>_</em>
-* `Dem` (96; 8% of non-empty `PronType`): <em>_</em>
-* `Ind` (94; 8% of non-empty `PronType`): <em>_</em>
+* `Dem` (93; 8% of non-empty `PronType`): <em>_</em>
+* `Ind` (113; 9% of non-empty `PronType`): <em>_</em>
 * `Int` (11; 1% of non-empty `PronType`): <em>_</em>
 * `Neg` (28; 2% of non-empty `PronType`): <em>_</em>
-* `Rel` (1; 0% of non-empty `PronType`): <em>_</em>
-* `Tot` (39; 3% of non-empty `PronType`): <em>_</em>
-* `EMPTY` (4): <em>_</em>
+* `Tot` (28; 2% of non-empty `PronType`): <em>_</em>
 
 ### `ADV`
 

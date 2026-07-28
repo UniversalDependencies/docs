@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="yrk_tundra-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-38 nodes (3%) are attached to their parents as `nmod`.
+37 nodes (3%) are attached to their parents as `nmod`.
 
-38 instances of `nmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.23684210526316.
+37 instances of `nmod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21621621621622.
 
-The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (31; 82% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (5; 13% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (1; 3% instances).
+The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (30; 81% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (5; 14% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -43,11 +43,11 @@ The following 4 pairs of parts of speech are connected with `nmod`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 1 nmod	color:blue
 1	тикы	тикы	PRON	_	PronType=Dem	2	nmod	_	AlignBegin=36757.2862218|AlignEnd=36965.9788721|Gloss=that|LTranslit=ťiki|Translit=ťiki
-2	падда	пад	NOUN	_	_	5	nsubj	_	AlignBegin=36965.9788721|AlignEnd=37400.2047336|Gloss=bag|LTranslit=pad|Translit=padda
+2	падда	пад	NOUN	_	_	4	nsubj	_	AlignBegin=36965.9788721|AlignEnd=37400.2047336|Gloss=bag|LTranslit=pad|Translit=padda
 3	тарсиʼ	тарсиʼ	ADV	_	_	4	advmod	_	AlignBegin=37400.2047336|AlignEnd=37721.097508|Gloss=very|LTranslit=tarśiʔ|Translit=tarśiʔ
-4	ӈарка	ӈарка	ADJ	_	_	5	obj	_	AlignBegin=37721.097508|AlignEnd=38006.7713401|Gloss=big|LTranslit=ŋarka|Translit=ŋarka
-5	ӈэванонда	ӈa	VERB	_	_	0	root	_	AlignBegin=38006.7713401|AlignEnd=38679.5891537|LTranslit=ŋa|MGloss=be-aud-poss.3sg|MSeg=ӈэ-ванон-да|Translit=ŋæwanonda
-6	<p>	<p>	PUNCT	_	_	5	punct	_	AlignBegin=38679.5891537|AlignEnd=39371.9095957|Gloss=SIL|LTranslit=<p>|Translit=<p>
+4	ӈарка	ӈарка	ADJ	_	_	0	root	_	AlignBegin=37721.097508|AlignEnd=38006.7713401|Gloss=big|LTranslit=ŋarka|Translit=ŋarka
+5	ӈэванонда	ӈa	AUX	_	_	4	cop	_	AlignBegin=38006.7713401|AlignEnd=38679.5891537|LTranslit=ŋa|MGloss=be-audptcp|MSeg=ӈэ-ванон-да|Translit=ŋæwanonda
+6	<p>	<p>	PUNCT	_	_	4	punct	_	AlignBegin=38679.5891537|AlignEnd=39371.9095957|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 ~~~
 

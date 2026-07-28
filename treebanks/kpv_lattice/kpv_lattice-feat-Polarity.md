@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-194 tokens (2%) have a non-empty value of `Polarity`.
+196 tokens (2%) have a non-empty value of `Polarity`.
 37 types (1%) occur at least once with a non-empty value of `Polarity`.
 16 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 7 part-of-speech tags: <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (150; 2% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (15; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (3; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (152; 2% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (15; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (3; 0% instances).
 
 ### `AUX`
 
-150 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (49% of all `AUX` tokens) have a non-empty value of `Polarity`.
+152 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (49% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (142; 95%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (139; 93%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (92; 61%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (86; 57%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (144; 95%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (141; 93%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=3</tt> (94; 62%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (88; 58%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Neg` (150; 100% of non-empty `Polarity`): <em>эз, оз, абу, он, эг, ог, эн, ни, абуӧсь, оз-ӧ</em>
-* `EMPTY` (158): <em>вӧлі, колӧ, вермы, вӧліны, кутіс, кут, не, лоны, позьӧ, эм</em>
+* `Neg` (152; 100% of non-empty `Polarity`): <em>эз, оз, абу, он, эг, ог, эн, ни, абуӧсь, оз-ӧ</em>
+* `EMPTY` (160): <em>вӧлі, колӧ, вермы, вӧліны, кутіс, кут, не, эм, лоны, позьӧ</em>
 
 ### `PRON`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (15; 100% of non-empty `Polarity`): <em>некод, нинӧм, некодысь, некодӧн, некодӧс, нем, нинӧмысь, нинӧмӧн</em>
-* `EMPTY` (519): <em>сійӧ, тайӧ, ме, сы, ми, мый, сійӧс, найӧ, тэ, быд</em>
+* `EMPTY` (523): <em>сійӧ, тайӧ, ме, сы, ми, мый, сійӧс, найӧ, тэ, быд</em>
 
 ### `ADV`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (11; 100% of non-empty `Polarity`): <em>некор, некыдз, недыр, некӧн, неуна, ни</em>
-* `EMPTY` (866): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
+* `EMPTY` (877): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
 
 ### `DET`
 
@@ -56,7 +56,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (6; 100% of non-empty `Polarity`): <em>некутшӧм, ниӧти</em>
-* `EMPTY` (45): <em>став, уна, ас, татшӧм, коймӧдъяс, мӧд, мӧдъяс, ставыс, Кымынкӧ, Уналӧн</em>
+* `EMPTY` (46): <em>уна, став, ас, татшӧм, коймӧдъяс, мӧд, мӧдъяс, ставыс, Кымынкӧ, Уналӧн</em>
 
 ### `ADJ`
 
@@ -67,7 +67,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (5; 100% of non-empty `Polarity`): <em>неыджыд, Неылысса, некутшӧм</em>
-* `EMPTY` (488): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
+* `EMPTY` (494): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
 
 ### `CCONJ`
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (4; 100% of non-empty `Polarity`): <em>ни</em>
-* `EMPTY` (330): <em>да, и, a, но, а, либӧ, дай, ни, ли, Ho</em>
+* `EMPTY` (333): <em>да, и, но, a, а, либӧ, дай, ни, ли, Ho</em>
 
 ### `VERB`
 
@@ -87,5 +87,5 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (3; 100% of non-empty `Polarity`): <em>Абу, гӧгӧрвотӧмыс, ог</em>
-* `EMPTY` (1348): <em>воис, идралӧм, лои, лоны, шуны, идралӧмын, мунны, мунӧ, Локтас, видзӧдліс</em>
+* `EMPTY` (1363): <em>воис, идралӧм, лои, лоны, шуны, видзӧдліс, идралӧмын, кыліс, мунны, мунӧ</em>
 

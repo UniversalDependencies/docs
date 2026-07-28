@@ -45,19 +45,19 @@ Examples: <em>Tverin, Karjalan, Anuksen, Petroskoin, Tuuksen, Koverin, Lihoslavl
 
 `PROPN` nodes are attached to their parents using 10 different relations: <tt><a href="olo_kkpp-dep-nmod-poss.html">nmod:poss</a></tt> (28; 35% instances), <tt><a href="olo_kkpp-dep-obl.html">obl</a></tt> (18; 22% instances), <tt><a href="olo_kkpp-dep-conj.html">conj</a></tt> (10; 12% instances), <tt><a href="olo_kkpp-dep-flat-name.html">flat:name</a></tt> (9; 11% instances), <tt><a href="olo_kkpp-dep-nsubj.html">nsubj</a></tt> (9; 11% instances), <tt><a href="olo_kkpp-dep-appos.html">appos</a></tt> (3; 4% instances), <tt><a href="olo_kkpp-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-dep-parataxis.html">parataxis</a></tt> (1; 1% instances), <tt><a href="olo_kkpp-dep-vocative.html">vocative</a></tt> (1; 1% instances)
 
-Parents of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (31; 38% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (25; 31% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (23; 28% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (2; 2% instances)
+Parents of `PROPN` nodes belong to 4 different parts of speech: <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (31; 38% instances), <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> (26; 32% instances), <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (22; 27% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (2; 2% instances)
 
 48 (59%) `PROPN` nodes are leaves.
 
 21 (26%) `PROPN` nodes have one child.
 
-9 (11%) `PROPN` nodes have two children.
+10 (12%) `PROPN` nodes have two children.
 
-3 (4%) `PROPN` nodes have three or more children.
+2 (2%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 4.
 
-Children of `PROPN` nodes are attached using 11 different relations: <tt><a href="olo_kkpp-dep-conj.html">conj</a></tt> (10; 20% instances), <tt><a href="olo_kkpp-dep-flat-name.html">flat:name</a></tt> (10; 20% instances), <tt><a href="olo_kkpp-dep-punct.html">punct</a></tt> (9; 18% instances), <tt><a href="olo_kkpp-dep-cc.html">cc</a></tt> (8; 16% instances), <tt><a href="olo_kkpp-dep-nmod-poss.html">nmod:poss</a></tt> (5; 10% instances), <tt><a href="olo_kkpp-dep-orphan.html">orphan</a></tt> (2; 4% instances), <tt><a href="olo_kkpp-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="olo_kkpp-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="olo_kkpp-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="olo_kkpp-dep-obj.html">obj</a></tt> (1; 2% instances), <tt><a href="olo_kkpp-dep-obl.html">obl</a></tt> (1; 2% instances)
+Children of `PROPN` nodes are attached using 10 different relations: <tt><a href="olo_kkpp-dep-conj.html">conj</a></tt> (10; 21% instances), <tt><a href="olo_kkpp-dep-flat-name.html">flat:name</a></tt> (10; 21% instances), <tt><a href="olo_kkpp-dep-punct.html">punct</a></tt> (9; 19% instances), <tt><a href="olo_kkpp-dep-cc.html">cc</a></tt> (8; 17% instances), <tt><a href="olo_kkpp-dep-nmod-poss.html">nmod:poss</a></tt> (5; 10% instances), <tt><a href="olo_kkpp-dep-orphan.html">orphan</a></tt> (2; 4% instances), <tt><a href="olo_kkpp-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="olo_kkpp-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="olo_kkpp-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="olo_kkpp-dep-obj.html">obj</a></tt> (1; 2% instances)
 
-Children of `PROPN` nodes belong to 5 different parts of speech: <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (23; 47% instances), <tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (9; 18% instances), <tt><a href="olo_kkpp-pos-CCONJ.html">CCONJ</a></tt> (8; 16% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (8; 16% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (1; 2% instances)
+Children of `PROPN` nodes belong to 5 different parts of speech: <tt><a href="olo_kkpp-pos-PROPN.html">PROPN</a></tt> (22; 46% instances), <tt><a href="olo_kkpp-pos-PUNCT.html">PUNCT</a></tt> (9; 19% instances), <tt><a href="olo_kkpp-pos-CCONJ.html">CCONJ</a></tt> (8; 17% instances), <tt><a href="olo_kkpp-pos-NOUN.html">NOUN</a></tt> (8; 17% instances), <tt><a href="olo_kkpp-pos-ADJ.html">ADJ</a></tt> (1; 2% instances)
 

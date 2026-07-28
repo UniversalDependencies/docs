@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
 Repository: [UD_French-ParTUT](https://github.com/UniversalDependencies/UD_French-ParTUT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -84,21 +84,21 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 
 ## Features
 
-[Definite](fr_partut-feat-Definite.html) – [Foreign](fr_partut-feat-Foreign.html) – [Gender](fr_partut-feat-Gender.html) – [Mood](fr_partut-feat-Mood.html) – [Number](fr_partut-feat-Number.html) – [Number[psor]](fr_partut-feat-Number-psor.html) – [NumType](fr_partut-feat-NumType.html) – [Person](fr_partut-feat-Person.html) – [Person[psor]](fr_partut-feat-Person-psor.html) – [Polarity](fr_partut-feat-Polarity.html) – [Poss](fr_partut-feat-Poss.html) – [PronType](fr_partut-feat-PronType.html) – [Tense](fr_partut-feat-Tense.html) – [Typo](fr_partut-feat-Typo.html) – [VerbForm](fr_partut-feat-VerbForm.html)
+[Definite](fr_partut-feat-Definite.html) – [ExtPos](fr_partut-feat-ExtPos.html) – [Foreign](fr_partut-feat-Foreign.html) – [Gender](fr_partut-feat-Gender.html) – [Mood](fr_partut-feat-Mood.html) – [Number](fr_partut-feat-Number.html) – [Number[psor]](fr_partut-feat-Number-psor.html) – [NumType](fr_partut-feat-NumType.html) – [Person](fr_partut-feat-Person.html) – [Person[psor]](fr_partut-feat-Person-psor.html) – [Polarity](fr_partut-feat-Polarity.html) – [Poss](fr_partut-feat-Poss.html) – [PronType](fr_partut-feat-PronType.html) – [Reflex](fr_partut-feat-Reflex.html) – [Tense](fr_partut-feat-Tense.html) – [Typo](fr_partut-feat-Typo.html) – [VerbForm](fr_partut-feat-VerbForm.html)
 
 ## Relations
 
-[acl](fr_partut-dep-acl.html) – [acl:relcl](fr_partut-dep-acl-relcl.html) – [advcl](fr_partut-dep-advcl.html) – [advmod](fr_partut-dep-advmod.html) – [amod](fr_partut-dep-amod.html) – [appos](fr_partut-dep-appos.html) – [aux](fr_partut-dep-aux.html) – [aux:caus](fr_partut-dep-aux-caus.html) – [aux:pass](fr_partut-dep-aux-pass.html) – [case](fr_partut-dep-case.html) – [cc](fr_partut-dep-cc.html) – [ccomp](fr_partut-dep-ccomp.html) – [compound](fr_partut-dep-compound.html) – [conj](fr_partut-dep-conj.html) – [cop](fr_partut-dep-cop.html) – [csubj](fr_partut-dep-csubj.html) – [csubj:pass](fr_partut-dep-csubj-pass.html) – [dep](fr_partut-dep-dep.html) – [det](fr_partut-dep-det.html) – [discourse](fr_partut-dep-discourse.html) – [dislocated](fr_partut-dep-dislocated.html) – [expl](fr_partut-dep-expl.html) – [fixed](fr_partut-dep-fixed.html) – [flat](fr_partut-dep-flat.html) – [flat:foreign](fr_partut-dep-flat-foreign.html) – [flat:name](fr_partut-dep-flat-name.html) – [iobj](fr_partut-dep-iobj.html) – [iobj:agent](fr_partut-dep-iobj-agent.html) – [mark](fr_partut-dep-mark.html) – [nmod](fr_partut-dep-nmod.html) – [nsubj](fr_partut-dep-nsubj.html) – [nsubj:caus](fr_partut-dep-nsubj-caus.html) – [nsubj:pass](fr_partut-dep-nsubj-pass.html) – [nummod](fr_partut-dep-nummod.html) – [obj](fr_partut-dep-obj.html) – [obj:agent](fr_partut-dep-obj-agent.html) – [obl](fr_partut-dep-obl.html) – [obl:agent](fr_partut-dep-obl-agent.html) – [orphan](fr_partut-dep-orphan.html) – [parataxis](fr_partut-dep-parataxis.html) – [punct](fr_partut-dep-punct.html) – [root](fr_partut-dep-root.html) – [vocative](fr_partut-dep-vocative.html) – [xcomp](fr_partut-dep-xcomp.html)
+[acl](fr_partut-dep-acl.html) – [acl:relcl](fr_partut-dep-acl-relcl.html) – [advcl](fr_partut-dep-advcl.html) – [advmod](fr_partut-dep-advmod.html) – [amod](fr_partut-dep-amod.html) – [appos](fr_partut-dep-appos.html) – [aux](fr_partut-dep-aux.html) – [aux:caus](fr_partut-dep-aux-caus.html) – [aux:pass](fr_partut-dep-aux-pass.html) – [case](fr_partut-dep-case.html) – [cc](fr_partut-dep-cc.html) – [ccomp](fr_partut-dep-ccomp.html) – [compound](fr_partut-dep-compound.html) – [conj](fr_partut-dep-conj.html) – [cop](fr_partut-dep-cop.html) – [csubj](fr_partut-dep-csubj.html) – [csubj:pass](fr_partut-dep-csubj-pass.html) – [dep](fr_partut-dep-dep.html) – [det](fr_partut-dep-det.html) – [discourse](fr_partut-dep-discourse.html) – [dislocated](fr_partut-dep-dislocated.html) – [expl](fr_partut-dep-expl.html) – [expl:pass](fr_partut-dep-expl-pass.html) – [expl:pv](fr_partut-dep-expl-pv.html) – [fixed](fr_partut-dep-fixed.html) – [flat](fr_partut-dep-flat.html) – [flat:foreign](fr_partut-dep-flat-foreign.html) – [flat:name](fr_partut-dep-flat-name.html) – [iobj](fr_partut-dep-iobj.html) – [iobj:agent](fr_partut-dep-iobj-agent.html) – [mark](fr_partut-dep-mark.html) – [nmod](fr_partut-dep-nmod.html) – [nsubj](fr_partut-dep-nsubj.html) – [nsubj:caus](fr_partut-dep-nsubj-caus.html) – [nsubj:pass](fr_partut-dep-nsubj-pass.html) – [nummod](fr_partut-dep-nummod.html) – [obj](fr_partut-dep-obj.html) – [obj:agent](fr_partut-dep-obj-agent.html) – [obl](fr_partut-dep-obl.html) – [obl:agent](fr_partut-dep-obl-agent.html) – [obl:arg](fr_partut-dep-obl-arg.html) – [obl:mod](fr_partut-dep-obl-mod.html) – [orphan](fr_partut-dep-orphan.html) – [parataxis](fr_partut-dep-parataxis.html) – [punct](fr_partut-dep-punct.html) – [reparandum](fr_partut-dep-reparandum.html) – [root](fr_partut-dep-root.html) – [vocative](fr_partut-dep-vocative.html) – [xcomp](fr_partut-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1020 sentences, 27638 tokens and 28576 syntactic words.</li>
+<li>This corpus contains 1020 sentences, 27637 tokens and 28580 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4142 tokens (15%) that are not followed by a space.</li>
+<li>This corpus contains 4051 tokens (15%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -106,12 +106,12 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 </ul>
 
 <ul>
-<li>This corpus contains 50 types of words that contain both letters and punctuation. Examples: l', d', qu', n', s', c', j', M., aujourd'hui, jusqu', l'on, -il, -ce, celui-ci, ci-dessus, m', ceux-ci, procès-verbal, au-delà, celle-ci, vis-à-vis, -vous, ci-après, -on, bien-être, c'est-à-dire, elle-même, moi-même, p., peut-être, puisqu', -là, -moi, -nous, IV-438, Royaume-uni, Wulf-Mathies, bien-fondé, ci-dessous, eux-mêmes, garde-meubles, lorsqu', là-dessus, mm., outre-mer, quelqu', savoir-faire, sous-sol, sud-est, États-Unis</li>
+<li>This corpus contains 50 types of words that contain both letters and punctuation. Examples: l', d', qu', n', s', c', j', M., aujourd'hui, jusqu', l'on, -il, -ce, celui-ci, ci-dessus, m', ceux-ci, procès-verbal, au-delà, celle-ci, vis-à-vis, -vous, ci-après, -on, bien-être, c'est-à-dire, elle-même, moi-même, p., peut-être, puisqu', -là, -moi, -nous, IV-438, Royaume-uni, Wulf-Mathies, bien-fondé, ci-dessous, eux-mêmes, garde-meubles, lorsqu', là-dessus, mm., outre-mer, quelqu'un, savoir-faire, sous-sol, sud-est, États-Unis</li>
 </ul>
 
 <ul>
-<li>This corpus contains 938 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 4 types of multi-word tokens. Examples: des, du, au, aux.</li>
+<li>This corpus contains 943 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 6 types of multi-word tokens. Examples: des, du, au, aux, auxquelles, auxquels.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -127,15 +127,15 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 </ul>
 
 <ul>
-<li>This corpus contains 48 lemmas tagged as pronouns (PRON): aucun, auquel, autre, autrui, beaucoup, ce, ceci, cela, celle, celui, celui-ci, certain, ceux, chacun, dernier, dont, elle, en, il, je, le, lequel, leur, lui, lui-même, me, moi, moi-même, nous, nul, on, où, personne, premier, que, quel, qui, quiconque, quoi, rien, se, si, sien, soi, tout, un, vous, y</li>
+<li>This corpus contains 39 lemmas tagged as pronouns (PRON): aucun, autre, autrui, beaucoup, ce, ceci, cela, celui, celui-ci, certains, chacun, dernier, dont, en, eux-mêmes, lequel, lui, lui-même, moi, moi-même, nous, nul, on, personne, premier, que, quel, quelqu'un, qui, quiconque, quoi, rien, sien, soi, tous, tout, un, vous, y</li>
 </ul>
 
 <ul>
-<li>This corpus contains 27 lemmas tagged as determiners (DET): aucun, autre, ce, certain, ces, cet, cette, chaque, de, le, leur, maint, mon, nombreux, nos, notre, plusieurs, quel, quelconque, quelque, son, tel, tout, un, uno, vos, votre</li>
+<li>This corpus contains 14 lemmas tagged as determiners (DET): aucun, ce, certains, chaque, du, le, plusieurs, quel, quelque, quelques, son, tel, tout, un</li>
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: aucun, autre, ce, certain, le, leur, quel, tout, un</li>
+<li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: aucun, ce, certains, quel, tout, un</li>
 </ul>
 
 <ul>
@@ -153,7 +153,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: est, a, sont, ont, sera, soient, soit, étaient, suis, était</li>
+    <li>AUX: est, a, sont, ont, sera, soit, soient, étaient, suis, était</li>
     <li>VERB: a, peut, voudrais, doit, est, devrait, convient, ont, peuvent, fait</li>
   </ul>
   </li>
@@ -188,9 +188,10 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
   <li>Fem
     <ul>
       <li>ADJ: présente, grande, dangereuses, telle, sociale, dérivée, première, nouvelle, collective, publiques</li>
+      <li>ADP: grâce</li>
       <li>DET: la, une, cette, des, toute, sa, leur, aucune, toutes, votre</li>
       <li>NOUN: commission, oeuvre, sécurité, directive, mesures, protection, exigences, décision, madame, matière</li>
-      <li>PRON: elle, elles, laquelle, celle, une, auxquelles, celle-ci, la, aucune, celles</li>
+      <li>PRON: elle, elles, laquelle, celle, lesquelles, une, celle-ci, la, aucune, celles</li>
       <li>VERB-Part: dite, dites, accordée, adoptées, harmonisées, prise, prévues, rendues, établie, appliquées</li>
     </ul>
   </li>
@@ -220,9 +221,9 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
     <ul>
       <li>ADJ: autres, nécessaires, applicables, structurels, dangereuses, mêmes, communautaires, techniques, disponibles, publicitaires</li>
       <li>AUX-Fin: sont, ont, soient, étaient, sommes, avons, avez, êtes, seront, aient</li>
-      <li>DET: les, des, ces, tous, ses, leurs, certains, nos, de, toutes</li>
-      <li>NOUN: membres, états, droits, fonds, mesures, exigences, produits, pays, termes, transports</li>
-      <li>PRON: nous, vous, ils, elles, ceux, tous, autres, ceux-ci, leur, auxquelles</li>
+      <li>DET: les, des, ces, tous, ses, leurs, de, nos, certains, toutes</li>
+      <li>NOUN: membres, états, droits, mesures, exigences, fonds, produits, pays, termes, conditions</li>
+      <li>PRON: nous, vous, ils, elles, ceux, tous, autres, ceux-ci, lesquelles, lesquels</li>
       <li>VERB-Fin: ont, peuvent, pouvez, devons, doivent, font, devraient, devrions, espérons, allons</li>
       <li>VERB-Part: dites, utilisés, adoptées, harmonisées, nommés, prévues, rendues, accordés, appliquées, concernées</li>
     </ul>
@@ -232,8 +233,9 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: présent, technique, européen, possible, communautaire, présente, nécessaire, économique, autre, applicable</li>
-      <li>AUX: est, a, été, sera, soit, suis, était, ai, ait, serait</li>
+      <li>ADJ: présent, technique, européen, possible, communautaire, présente, autre, nécessaire, économique, applicable</li>
+      <li>ADP: grâce</li>
+      <li>AUX: est, a, été, soit, sera, suis, était, ai, ait, serait</li>
       <li>AUX-Fin: est, a, sera, soit, suis, était, ai, ait, serait, avait</li>
       <li>AUX-Part: été, ayant, fait, étant</li>
       <li>DET: le, la, l', une, un, ce, cette, toute, son, votre</li>
@@ -255,7 +257,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Def
     <ul>
-      <li>DET: le, les, la, l', des, d', de</li>
+      <li>DET: le, les, la, l', des, d'</li>
     </ul>
   </li>
 </ul>
@@ -324,8 +326,8 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Sub
     <ul>
-      <li>AUX-Fin: soient, soit, ait, aient, ayons, soyons</li>
-      <li>VERB-Fin: ait, permettent, prenne, soit, fonctionne, puissions, accélèrent, agisse, atteigne, clarifie</li>
+      <li>AUX-Fin: soit, soient, ait, aient, ayons, soyons</li>
+      <li>VERB-Fin: ait, permettent, prenne, fonctionne, puissions, accélèrent, agisse, atteigne, clarifie, examine</li>
     </ul>
   </li>
 </ul>
@@ -366,7 +368,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
   <li>Pres
     <ul>
       <li>AUX: est, a, sont, ont, soit, soient, suis, étaient, étant, sommes</li>
-      <li>AUX-Fin: est, a, sont, ont, soient, soit, suis, étaient, sommes, ai</li>
+      <li>AUX-Fin: est, a, sont, ont, soit, soient, suis, étaient, sommes, ai</li>
       <li>AUX-Part: étant, ayant, faisant</li>
       <li>VERB: a, peut, voudrais, doit, est, devrait, concernant, convient, ont, peuvent</li>
       <li>VERB-Fin: a, peut, voudrais, doit, est, devrait, convient, ont, peuvent, fait</li>
@@ -388,7 +390,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Art
     <ul>
-      <li>DET: le, les, la, l', une, un, des, d', de, du</li>
+      <li>DET: le, les, la, l', une, un, des, de, d', du</li>
     </ul>
   </li>
 </ul>
@@ -396,7 +398,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Dem
     <ul>
-      <li>DET: ce, cette, ces, cet, de, d', Des, telles</li>
+      <li>DET: ce, cette, ces, cet</li>
       <li>PRON: c', ce, cela, ceux, ça, ceci, celui, -ce, celle, celui-ci</li>
     </ul>
   </li>
@@ -413,8 +415,9 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Ind
     <ul>
-      <li>DET: toute, tous, tout, certains, aucune, toutes, chaque, quelques, aucun, autres</li>
-      <li>PRON: chacun, tous, l'on, Nul, autres, beaucoup, un, Quiconque, aucune, autre</li>
+      <li>ADJ: autres</li>
+      <li>DET: toute, tous, tout, certains, toutes, chaque, quelques, certaines, plusieurs, quelque</li>
+      <li>PRON: on, chacun, tous, l'on, Nul, un, autres, beaucoup, une, certains</li>
     </ul>
   </li>
 </ul>
@@ -432,6 +435,8 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
   <li>Neg
     <ul>
       <li>ADV: non</li>
+      <li>DET: aucune, aucun</li>
+      <li>PRON: personne</li>
     </ul>
   </li>
 </ul>
@@ -440,7 +445,7 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
   <li>Prs
     <ul>
       <li>DET: son, votre, sa, leur, ses, notre, leurs, mon, nos, vos</li>
-      <li>PRON: nous, il, je, vous, s', y, se, on, en, ils</li>
+      <li>PRON: nous, il, je, vous, s', se, y, en, ils, j'</li>
     </ul>
   </li>
 </ul>
@@ -448,7 +453,8 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: qui, que, qu', dont, où, laquelle, quoi, lequel, auxquelles, lesquels</li>
+      <li>ADV: où</li>
+      <li>PRON: qui, que, qu', dont, laquelle, quoi, lequel, lesquelles, lesquels</li>
     </ul>
   </li>
 </ul>
@@ -486,6 +492,17 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
   </li>
 </ul>
 
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: s', se, m', me</li>
+    </ul>
+  </li>
+</ul>
 
 <ul>
   <li><a>Person</a></li>
@@ -516,10 +533,10 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 <ul>
   <li>3
     <ul>
-      <li>AUX: est, a, sont, ont, sera, soit, soient, étaient, était, ait</li>
-      <li>AUX-Fin: est, a, sont, ont, sera, soient, soit, étaient, était, ait</li>
+      <li>AUX: est, a, sont, ont, soit, sera, soient, étaient, était, ait</li>
+      <li>AUX-Fin: est, a, sont, ont, sera, soit, soient, étaient, était, ait</li>
       <li>DET: une</li>
-      <li>PRON: il, ce, s', se, on, ils, le, elle, elles, l'</li>
+      <li>PRON: il, ce, s', se, y, on, ils, le, elle, elles</li>
       <li>VERB-Fin: a, peut, doit, est, devrait, convient, ont, peuvent, fait, concerne</li>
     </ul>
   </li>
@@ -551,6 +568,53 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
 
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADJ
+        <ul>
+          <li>ADP: en</li>
+        </ul>
+      </li>
+      <li>ADP
+        <ul>
+          <li>ADP: en, d', à, grâce</li>
+          <li>ADV: quant</li>
+          <li>NOUN: face, grâce</li>
+          <li>PRON: il</li>
+        </ul>
+      </li>
+      <li>ADV
+        <ul>
+          <li>ADP: en, de, à, par, dès, d'</li>
+          <li>ADV: tout, non, autant, plus, pas</li>
+          <li>DET: le, un, quelque</li>
+          <li>NOUN: jour</li>
+          <li>SCONJ: quand</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>ADV: ainsi</li>
+        </ul>
+      </li>
+      <li>PRON
+        <ul>
+          <li>ADP: Près</li>
+          <li>ADV: peu</li>
+          <li>DET: le</li>
+        </ul>
+      </li>
+      <li>SCONJ
+        <ul>
+          <li>ADV: parce, alors, tant, tandis, Bien, autrement</li>
+          <li>SCONJ: parce</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Foreign</a>
     <ul>
       <li>Yes
@@ -579,6 +643,8 @@ We are deeply grateful to Project Syndicate© for letting us download and exploi
     <ul>
       <li>Yes
         <ul>
+          <li>ADJ: meilleueres</li>
+          <li>PRON: toute</li>
           <li>PUNCT: ­</li>
         </ul>
       </li>
@@ -608,11 +674,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (1)</li>
       <li>VERB-Fin--NOUN (357)</li>
       <li>VERB-Fin--NOUN-ADP(de) (5)</li>
-      <li>VERB-Fin--PRON (586)</li>
-      <li>VERB-Inf--PRON (4)</li>
-      <li>VERB-Part--NOUN (91)</li>
+      <li>VERB-Fin--PRON (587)</li>
+      <li>VERB-Inf--PRON (2)</li>
+      <li>VERB-Part--NOUN (89)</li>
       <li>VERB-Part--NOUN-ADP(de) (1)</li>
-      <li>VERB-Part--PRON (95)</li>
+      <li>VERB-Part--PRON (96)</li>
     </ul>
   </li>
 </ul>
@@ -620,16 +686,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (347)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (3)</li>
-      <li>VERB-Fin--NOUN-ADP(jusque) (1)</li>
-      <li>VERB-Fin--PRON (95)</li>
+      <li>VERB-Fin--NOUN (345)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (2)</li>
+      <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (1)</li>
+      <li>VERB-Fin--PRON (75)</li>
       <li>VERB-Fin--PRON-ADP(de) (1)</li>
-      <li>VERB-Inf--NOUN (345)</li>
-      <li>VERB-Inf--PRON (69)</li>
+      <li>VERB-Inf--NOUN (344)</li>
+      <li>VERB-Inf--PRON (62)</li>
       <li>VERB-Inf--PRON-ADP(de) (1)</li>
-      <li>VERB-Part--NOUN (168)</li>
-      <li>VERB-Part--PRON (45)</li>
+      <li>VERB-Part--NOUN (167)</li>
+      <li>VERB-Part--PRON (38)</li>
     </ul>
   </li>
 </ul>
@@ -637,19 +703,36 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (48)</li>
-      <li>VERB-Inf--PRON (27)</li>
-      <li>VERB-Part--PRON (31)</li>
+      <li>VERB-Fin--PRON (41)</li>
+      <li>VERB-Inf--PRON (25)</li>
+      <li>VERB-Inf--PRON-ADP(à) (2)</li>
+      <li>VERB-Part--PRON (25)</li>
+      <li>VERB-Part--PRON-ADP(à) (3)</li>
     </ul>
   </li>
 </ul>
 
+<h3>Reflexive Verbs</h3>
 
+<ul>
+  <li>This corpus contains 44 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: abonner s', agir s', faire se, accumuler s', exprimer s', passer se, avérer s', dérouler se, occuper s', refléter se, référer se, trouver se, accommoder m', accorder s', attendre s', consacrer s', consacrer se, creuser se, efforcer s', effriter s', engager s', exercer s', imaginer s', incruster s', livrer se, marier se, opposer s', permettre me, permettre se, poursuivre se, produire s', produire se, prévaloir se, rapporter s', rapporter se, remettre m', rendre se, reproduire se, réunir se, saisir s', servir se, souvenir me, écouler s', étendre s'</li>
+</ul>
 
+<h3>Reflexive Passive</h3>
+
+<ul>
+  <li>This corpus contains 15 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: appliquer s', développer se, former se, inscrire s', afficher s', articuler s', développer s', expliquer s', identifier s', limiter se, poursuivre se, stabiliser s', tenir s', traduire se, établir s'</li>
+</ul>
+
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 12 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: affilier s', associer m', associer s', attendre se, conformer se, donner se, débarrasser se, déclarer se, engager s', engager se, réserver se, sentir se</li>
+</ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 15 relation subtypes: <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a></li>
 </ul>

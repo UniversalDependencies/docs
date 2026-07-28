@@ -22,4 +22,4 @@ Noun Prop:	Proper noun
 _იაკობ_ *iakob* 'Jacob'
 _მცხეთა_ *mcʻxetʻa* 'Mtskheta'
 _ლიახვი_ *liaxvi* 'Liakhvi'
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:54 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->

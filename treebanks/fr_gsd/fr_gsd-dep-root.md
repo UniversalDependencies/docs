@@ -11,9 +11,9 @@ This relation is universal.
 16342 nodes (4%) are attached to their parents as `root`.
 
 16342 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.44431526128993.
+Average distance between parent and child is 7.44364214906376.
 
-The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (11969; 73% instances), -<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (2904; 18% instances), -<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (992; 6% instances), -<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (176; 1% instances), -<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (157; 1% instances), -<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (50; 0% instances), -<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (28; 0% instances), -<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (24; 0% instances), -<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (15; 0% instances), -<tt><a href="fr_gsd-pos-X.html">X</a></tt> (11; 0% instances), -<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (10; 0% instances), -<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (3; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (11969; 73% instances), -<tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (2905; 18% instances), -<tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (992; 6% instances), -<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (176; 1% instances), -<tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (157; 1% instances), -<tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (50; 0% instances), -<tt><a href="fr_gsd-pos-INTJ.html">INTJ</a></tt> (28; 0% instances), -<tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (24; 0% instances), -<tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (15; 0% instances), -<tt><a href="fr_gsd-pos-X.html">X</a></tt> (11; 0% instances), -<tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (10; 0% instances), -<tt><a href="fr_gsd-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="fr_gsd-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -27,9 +27,9 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 3	faire	faire	VERB	_	VerbForm=Inf	0	root	_	Subject=Generic
 4	dans	dans	ADP	_	_	6	case	_	_
 5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	contexte	contexte	NOUN	_	Number=Sing	3	obl:mod	_	Gender[lex]=Masc
+6	contexte	contexte	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	Exponence[Gender]=Inherent
 7	structurellement	structurellement	ADV	_	_	8	advmod	_	_
-8	raciste	raciste	ADJ	_	Number=Sing	6	amod	_	Gender[ctxt]=Masc
+8	raciste	raciste	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	Exponence[Gender]=Absent
 9	?	?	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -49,9 +49,9 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 6	futur	futur	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
 7	baptisé	baptiser	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	9	obl:mod	_	Tense[denom]=Past
 8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	changement	changement	NOUN	_	Number=Sing	0	root	_	Gender[lex]=Masc
+9	changement	changement	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Exponence[Gender]=Inherent
 10	de	de	ADP	_	_	11	case	_	_
-11	cap	cap	NOUN	_	Number=Sing	9	nmod	_	Gender[lex]=Masc|SpaceAfter=No
+11	cap	cap	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
 12	.	.	PUNCT	_	_	9	punct	_	_
 
 ~~~
@@ -70,9 +70,9 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 5	que	que	ADV	_	Polarity=Neg	10	advmod	_	_
 6	durant	durant	ADP	_	_	10	case	_	_
 7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	_
-8	10	10	NUM	_	_	10	nummod	_	Number[lex]=Plur
+8	10	10	NUM	_	Number=Plur	10	nummod	_	Exponence[Number]=Inherent
 9	premières	premier	ADJ	_	Gender=Fem|Number=Plur	10	amod	_	_
-10	parties	partie	NOUN	_	Number=Plur	4	obl:mod	_	Gender[lex]=Fem|SpaceAfter=No
+10	parties	partie	NOUN	_	Gender=Fem|Number=Plur	4	obl:mod	_	Exponence[Gender]=Inherent|SpaceAfter=No
 11	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

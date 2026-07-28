@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.12 release
 The following people have contributed to making this treebank part of UD: Tatsuya Aoyama, Shabnam Behzad, Luke Gessler, Lauren Levine, Yi-Ju Jessica Lin, Yang Janet Liu, Siyao Logan Peng, Yilun Zhu, Amir Zeldes.
 
 Repository: [UD_English-GENTLE](https://github.com/UniversalDependencies/UD_English-GENTLE)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gentle217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_gentle218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -156,7 +156,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
   <li>Inf
   <ul>
     <li>AUX: be, have, do, get</li>
-    <li>VERB: have, get, do, make, see, try, take, become, continue, go</li>
+    <li>VERB: have, do, get, see, make, take, try, become, continue, go</li>
   </ul>
   </li>
 </ul>
@@ -212,9 +212,9 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
       <li>AUX-Fin: are, 're, were, have, do, 've, did, art, is, was</li>
       <li>DET: these, those</li>
       <li>NOUN: days, fees, people, weeks, Structures, players, tools, Algorithms, angels, games</li>
-      <li>PRON: we, they, our, them, you, their, us, those, these, Ourselves</li>
+      <li>PRON: we, they, our, you, them, their, us, those, these, Ourselves</li>
       <li>PROPN: Does, Champions, Services, Antonyms, Reversals, States, Tools, Affairs, Americans, Disputes</li>
-      <li>VERB-Fin: have, know, are, need, had, name, passed, brought, diverged, get</li>
+      <li>VERB-Fin: have, know, are, get, need, had, name, passed, use, brought</li>
     </ul>
   </li>
 </ul>
@@ -234,9 +234,9 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
       <li>DET: this, that</li>
       <li>NOUN: x, week, T, project, S, school, y, time, party, trust</li>
       <li>PRON: I, you, he, it, his, my, your, me, that, this</li>
-      <li>PROPN: Company, JavaScript, Book, Proposition, Court, English, Week, Career, React, Agreement</li>
+      <li>PROPN: Company, JavaScript, Book, English, Proposition, Court, Week, Career, React, Agreement</li>
       <li>SYM: %</li>
-      <li>VERB-Fin: has, said, follows, is, think, Quoth, came, had, heard, took</li>
+      <li>VERB-Fin: has, let, said, Suppose, follows, is, see, think, Quoth, came</li>
     </ul>
   </li>
 </ul>
@@ -431,7 +431,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
   <li>Dem
     <ul>
       <li>ADV: then, here, there</li>
-      <li>DET: this, that, these, such, those</li>
+      <li>DET: this, that, these, those</li>
       <li>PRON: there, that, this, those, these</li>
     </ul>
   </li>
@@ -448,7 +448,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
 <ul>
   <li>Ind
     <ul>
-      <li>DET: any, all, some, every, another, each, both, such, ∀</li>
+      <li>DET: all, any, some, every, another, either, each, such, both, ∀</li>
       <li>PRON: something, anything, anyone, someone, some, somebody</li>
     </ul>
   </li>
@@ -590,7 +590,6 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
       <li>AUX-Fin: are, do, 're, 've, have, be, ’re</li>
       <li>PRON: you, your, yourself, thou, yours</li>
       <li>VERB-Fin: let, Suppose, see, get, tell, consider, know, take, think, Call</li>
-      <li>VERB-Inf: Let, see, do, drop, have, quaff, take, use, Articulate, Become</li>
     </ul>
   </li>
 </ul>
@@ -738,7 +737,7 @@ This repository contains release versions of the Genre Tests for Linguistic Eval
           <li>DET: all, know</li>
           <li>NOUN: visiter, p, principal</li>
           <li>PART: too</li>
-          <li>PRON: what, it, some, the, wich, you</li>
+          <li>PRON: it, some, the, what, wich, you</li>
           <li>PROPN: Pharoah, Torooh, israelities</li>
           <li>VERB: Be, here, Trying, arranged, broke, deem, know, pick, ran, reverse</li>
           <li>VERB-Fin: deem, here, pick, reverse</li>

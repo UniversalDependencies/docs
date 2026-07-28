@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 5	valdivonyliopiston	valdivonyliopisto	NOUN	NOUN	Case=Gen|Number=Sing	6	nmod:poss	_	_
 6	Toive-ansambli	Toive-ansambli	NOUN	NOUN	Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	9	punct	_	_
-8	Kuittizes	Kuittine	PROPN	PROPN	Case=Ela|Number=Sing	11	obl	_	_
+8	Kuittizes	Kuittine	PROPN	PROPN	Case=Ela|Number=Sing	9	obl	_	_
 9	ezittyy	ezittyö	VERB	VERB	Number=Sing|Person=3|Tense=Pres	3	conj	_	_
 10	"	"	PUNCT	PUNCT	_	11	punct	_	SpaceAfter=No
 11	Kajahuš	Kajahuš	PROPN	PROPN	Case=Nom|Number=Sing	9	nsubj	_	SpaceAfter=No

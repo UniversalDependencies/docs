@@ -26,7 +26,7 @@ The following 75 pairs of parts of speech are connected with `obl`: <tt><a href=
 1	یعنی	یعنی	INTJ	PSUS	_	13	obl	_	LTranslit=īʿnī|Translit=īʿnī
 2	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	LTranslit=mā|Translit=mā
 3	به	به	ADP	PREP	_	5	case	_	LTranslit=bh|Translit=bh
-4	این	این	DET	PREM_DEMAJ	_	5	det	_	LTranslit=āīn|Translit=āīn
+4	این	این	DET	PREM_DEMAJ	PronType=Dem	5	det	_	LTranslit=āīn|Translit=āīn
 5	ترتیب	ترتیب	NOUN	N_IANM	Number=Sing	13	obl	_	LTranslit=trtīb|Translit=trtīb
 6	فقط	فقط	ADV	ADV_SADV	_	7	advmod	_	LTranslit=fqṭ|Translit=fqṭ
 7	یک	یک	NUM	PRENUM	_	8	nummod	_	LTranslit=īk|Translit=īk

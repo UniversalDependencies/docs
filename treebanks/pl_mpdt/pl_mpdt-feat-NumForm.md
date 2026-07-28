@@ -49,6 +49,6 @@ The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="pl_mpdt-dep-list.html">list</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="pl_mpdt-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="pl_mpdt-dep-obl-arg.html">obl:arg</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="pl_mpdt-dep-obl-cmpr.html">obl:cmpr</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="pl_mpdt-dep-obl-cmp.html">obl:cmp</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="pl_mpdt-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (1; 100%).
 

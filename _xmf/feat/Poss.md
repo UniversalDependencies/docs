@@ -13,4 +13,4 @@ Boolean feature of pronouns. It tells whether the word is possessive.
 
 - possessive pronouns: _ჩქიმი (t͡ʃkimi)_ 'my' etc.
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:41 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:13 CEST -->

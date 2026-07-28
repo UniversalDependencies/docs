@@ -24,4 +24,4 @@ Ordinal numbers are adjectives that denote the order of objects in a sequence.
 * _första, andra, tredje, 11:e, III_
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:33 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->

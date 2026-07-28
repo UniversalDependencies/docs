@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-590 nodes (2%) are attached to their parents as `ccomp`.
+589 nodes (2%) are attached to their parents as `ccomp`.
 
-384 instances of `ccomp` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.06101694915254.
+382 instances of `ccomp` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.06451612903226.
 
-The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (491; 83% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (43; 7% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (21; 4% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (490; 83% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (43; 7% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (21; 4% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (11; 2% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (3; 1% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 ccomp	color:blue
-1	“	“	PUNCT	_	_	2	punct	_	PunctType=Quot
+1	“	“	PUNCT	_	_	2	punct	_	PunctType=Quot|SpaceAfter=No
 2	Θέλετε	θέλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	να	να	SCONJ	_	_	4	mark	_	_
 4	πάθετε	παθαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	2	ccomp	_	_
@@ -30,7 +30,7 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 6	που	που	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	7	obj	_	_
 7	έπαθε	παθαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
 8	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	εφοπλιστής	εφοπλιστής	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+9	εφοπλιστής	εφοπλιστής	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	SpaceAfter=No
 10	;	;	PUNCT	_	_	2	punct	_	PunctType=Qest
 
 ~~~
@@ -45,9 +45,9 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 1	Δε	δεν	PART	_	Polarity=Neg	2	advmod	_	_
 2	θέλουμε	θέλω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	να	να	SCONJ	_	_	6	mark	_	_
-4	είμαστε	είμαι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	6	cop	_	_
+4	είμαστε	είμαι	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
 5	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	6	det	_	_
-6	κέντρο	κέντρο	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	ccomp	_	_
+6	κέντρο	κέντρο	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	ccomp	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	PunctType=Comm
 8	αλλά	αλλά	CCONJ	_	_	10	cc	_	_
 9	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -63,7 +63,7 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 10 ccomp	color:blue
-1	«	«	PUNCT	_	_	2	punct	_	PunctType=Quot
+1	«	«	PUNCT	_	_	2	punct	_	PunctType=Quot|SpaceAfter=No
 2	Πιστεύεις	πιστεύω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	ότι	ότι	SCONJ	_	_	10	mark	_	_
 4	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -71,9 +71,9 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 6	και	και	CCONJ	_	_	8	cc	_	_
 7	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	έκρηξη	έκρηξη	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	_
-9	ήταν	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	10	cop	_	_
-10	βαλτές	βαλτός	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	2	ccomp	_	_
-11	;	;	PUNCT	_	_	2	punct	_	PunctType=Qest
+9	ήταν	είμαι	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
+10	βαλτές	βαλτός	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	2	ccomp	_	SpaceAfter=No
+11	;	;	PUNCT	_	_	2	punct	_	PunctType=Qest|SpaceAfter=No
 12	»	»	PUNCT	_	_	2	punct	_	PunctType=Quot
 
 ~~~

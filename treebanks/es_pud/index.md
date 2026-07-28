@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Hector Fernandez Alcalde, Laura Moreno Romero, Martin Popel, Daniel Zeman, Héctor Martínez Alonso.
 
 Repository: [UD_Spanish-PUD](https://github.com/UniversalDependencies/UD_Spanish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 3.0
 
@@ -113,7 +113,7 @@ employ ten-fold cross-validation.
 
 <ul>
 <li>This corpus contains 467 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 63 types of multi-word tokens. Examples: del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, Didn't, Don't, admitiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse, concentrase, convertirse, convirtiéndola, darle, dedicarme, dedicarse, deduciéndolo, deslizándose, desplazarse, desplegarse, detenerse, enfrentarse, enfriarse, esperarnos, estarse, examinarlo, formarse, gastarse, haberse, iluminarse, impidiéndole, irritándote, llevarlo, movilizarse, pidiéndole, ponerse, poniéndole, poniéndose, presionarles, protegerse, quedarse, referirse, registrarse, relajarse, reunirse.</li>
+<li>There are 63 types of multi-word tokens. Examples: del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, Didn't, Don't, admitiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse, concentrarse, convertirse, convirtiéndola, darle, dedicarme, dedicarse, deduciéndolo, deslizándose, desplazarse, desplegarse, detenerse, enfrentarse, enfriarse, esperarnos, estarse, examinarlo, formarse, gastarse, haberse, iluminarse, impidiéndole, irritándote, llevarlo, movilizarse, pidiéndole, ponerse, poniéndole, poniéndose, presionarles, protegerse, quedarse, referirse, registrarse, relajarse, reunirse.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -129,15 +129,15 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>This corpus contains 18 lemmas tagged as pronouns (PRON): I, cual, cuanto, cuál, cuáles, her, my, que, quien, quién, qué, su, suyo, tú, uno, yo, you, él</li>
+<li>This corpus contains 20 lemmas tagged as pronouns (PRON): I, cual, cualquiera, cuanto, cuál, cuáles, her, my, que, quien, quién, qué, su, suyo, tanto, tú, uno, yo, you, él</li>
 </ul>
 
 <ul>
-<li>This corpus contains 32 lemmas tagged as determiners (DET): a, alguno, ambo, ambos, aquel, aquello, cada, cierto, cualquier, cuyo, el, en, ese, eso, este, esto, le, mi, mucho, ninguno, ningún, nuestro, otro, poco, que, qué, that, the, todo, tu, uno, vario</li>
+<li>This corpus contains 32 lemmas tagged as determiners (DET): a, alguno, ambo, ambos, aquel, aquello, cada, cierto, cualquiera, cuyo, el, en, ese, eso, este, esto, le, mi, mucho, ninguno, ningún, nuestro, otro, poco, que, qué, that, the, todo, tu, uno, vario</li>
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: que, qué, uno</li>
+<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: cualquiera, que, qué, uno</li>
 </ul>
 
 <ul>
@@ -156,7 +156,7 @@ employ ten-fold cross-validation.
   <li>Fin
   <ul>
     <li>AUX: es, fue, ha, había, está, era, puede, son, fueron, han</li>
-    <li>VERB: dijo, tiene, es, hay, hace, está, tienen, dice, escrito, afirmó</li>
+    <li>VERB: dijo, tiene, es, hay, hace, está, tienen, dice, afirmó, convirtió</li>
   </ul>
   </li>
 </ul>
@@ -174,7 +174,7 @@ employ ten-fold cross-validation.
   <li>Inf
   <ul>
     <li>AUX: ser, haber, estar, poder</li>
-    <li>VERB: hacer, tener, ver, establecer, ayudar, dejar, enviar, producir, asegurar, construir</li>
+    <li>VERB: hacer, tener, ver, establecer, ayudar, dejar, enviar, pesar, producir, asegurar</li>
   </ul>
   </li>
 </ul>
@@ -182,8 +182,9 @@ employ ten-fold cross-validation.
 <ul>
   <li>Part
   <ul>
+    <li>ADJ: Unidos, Unido, pasado, abierto, anticipado, cualificados, involucrados, pesada, privado, abierta</li>
     <li>AUX: sido, estado</li>
-    <li>VERB: debido, hecho, tenido, dado, dejado, dirigida, visto, acusado, declarado, desarrollado</li>
+    <li>VERB: debido, hecho, escrito, tenido, dado, dejado, dirigida, visto, acusado, declarado</li>
   </ul>
   </li>
 </ul>
@@ -198,13 +199,13 @@ employ ten-fold cross-validation.
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ: primera, nueva, británica, gran, mayor, segunda, nuevas, americana, nacional, propia</li>
+      <li>ADJ: primera, nueva, británica, mayor, segunda, nuevas, americana, nacional, propia, última</li>
+      <li>ADJ-Part: pesada, abierta, acentuadas, aclamada, adecuada, agavillada, aplicada, apropiada, armada, armadas</li>
       <li>DET: la, las, una, esta, muchas, todas, otra, cada, varias, estas</li>
       <li>NOUN: guerra, parte, ciudad, vez, personas, historia, región, mayoría, vida, veces</li>
       <li>NUM: dos, tres, 10, 760, cuatro, diez, ocho, 10.000, 12.000, 125</li>
       <li>PRON: su, que, sus, ella, la, cual, cuales, una, Her, las</li>
       <li>PROPN: Clinton, BBC, Kesha, Rona, luna, Blunt, Guinea, Jasmine, UE, Anaya</li>
-      <li>VERB-Fin: coescritas, escritas, incluídas, resueltas</li>
       <li>VERB-Part: dirigida, consideradas, coprotagonizada, derrotada, destruida, dividida, formada, llamada, localizadas, perdidas</li>
     </ul>
   </li>
@@ -213,15 +214,15 @@ employ ten-fold cross-validation.
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: gran, primer, últimos, nuevos, Unidos, grandes, mayor, nacional, Unido, mismo</li>
+      <li>ADJ: primer, últimos, nuevos, Unidos, grandes, mayor, nacional, nuevo, Unido, mismo</li>
+      <li>ADJ-Part: Unidos, Unido, pasado, abierto, anticipado, cualificados, involucrados, privado, acomodado, afortunado</li>
       <li>AUX-Part: sido, estado</li>
       <li>DET: el, los, un, este, esto, ese, cada, muchos, eso, estos</li>
       <li>NOUN: años, año, lugar, gobierno, estado, millones, día, embargo, mar, mundo</li>
       <li>NUM: dos, 1, 10, 3, mil, tres, seis, 70, cuatro, 100</li>
-      <li>PRON: que, lo, su, sus, ellos, él, cual, los, cuales, ello</li>
+      <li>PRON: que, lo, su, sus, ellos, él, cual, tanto, los, cuales</li>
       <li>PROPN: C., Trump, mediterráneo, EUA, C, Donald, Caribe, Joseph, Rafferty, Andes</li>
-      <li>VERB-Fin: escrito, atraído, construído, contruídos, disuelto</li>
-      <li>VERB-Part: debido, hecho, tenido, dado, dejado, visto, acusado, declarado, desarrollado, dicho</li>
+      <li>VERB-Part: debido, hecho, escrito, tenido, dado, dejado, visto, acusado, declarado, desarrollado</li>
     </ul>
   </li>
 </ul>
@@ -235,6 +236,7 @@ employ ten-fold cross-validation.
   <li>Plur
     <ul>
       <li>ADJ: grandes, últimos, nuevos, Unidos, diferentes, nuevas, primeros, importantes, Olímpicos, electrónicos</li>
+      <li>ADJ-Part: Unidos, cualificados, involucrados, acentuadas, apasionados, armadas, basadas, cerrados, combinadas, desarrollados</li>
       <li>AUX-Fin: son, fueron, han, habían, pueden, estaban, están, eran, hayan, debemos</li>
       <li>DET: los, las, muchos, estos, muchas, otros, todas, varios, esos, unos</li>
       <li>NOUN: años, millones, personas, estados, veces, ciudades, datos, elecciones, inversores, meses</li>
@@ -249,7 +251,8 @@ employ ten-fold cross-validation.
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: gran, primera, mayor, nueva, nacional, primer, británica, segunda, Unido, mismo</li>
+      <li>ADJ: gran, primera, mayor, nueva, nacional, posible, siguiente, primer, británica, increíble</li>
+      <li>ADJ-Part: Unido, pasado, abierto, anticipado, pesada, privado, abierta, aclamada, acomodado, adecuada</li>
       <li>AUX-Fin: es, fue, ha, había, está, era, puede, estaba, podría, sea</li>
       <li>AUX-Part: sido, estado</li>
       <li>DET: el, la, un, una, este, esta, esto, cada, ese, eso</li>
@@ -257,7 +260,7 @@ employ ten-fold cross-validation.
       <li>PRON: su, que, lo, le, cual, me, él, ella, quien, la</li>
       <li>PROPN: China, Europa, Italia, Australia, Pekín, Albania, Francia, Trump, Bretaña, C.</li>
       <li>VERB-Fin: dijo, tiene, es, hay, hace, está, dice, afirmó, convirtió, declaró</li>
-      <li>VERB-Part: debido, hecho, tenido, dado, dejado, dirigida, visto, acusado, declarado, desarrollado</li>
+      <li>VERB-Part: debido, hecho, escrito, tenido, dado, dejado, dirigida, visto, acusado, declarado</li>
     </ul>
   </li>
 </ul>
@@ -468,7 +471,7 @@ employ ten-fold cross-validation.
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: era, estaba, podría, estaban, eran, podía, sería, debería, podrían, debía</li>
+      <li>AUX-Fin: era, estaba, estaban, eran, podía, debía, fueran, debían, estuviese, fuera</li>
       <li>VERB-Fin: era, tenía, tenían, consideraba, decía, estaba, fuese, parecía, quería, Aparecía</li>
     </ul>
   </li>
@@ -515,7 +518,9 @@ employ ten-fold cross-validation.
 <ul>
   <li>Dem
     <ul>
+      <li>ADV: tanto</li>
       <li>DET: este, esta, esto, ese, eso, estos, esos, estas, esa, esas</li>
+      <li>PRON: tanto</li>
     </ul>
   </li>
 </ul>
@@ -524,7 +529,7 @@ employ ten-fold cross-validation.
   <li>Ind
     <ul>
       <li>DET: muchos, muchas, otros, varios, otra, otro, algunos, varias, otras, algunas</li>
-      <li>PRON: una, Ya</li>
+      <li>PRON: una, Ya, cualquiera</li>
     </ul>
   </li>
 </ul>
@@ -590,7 +595,15 @@ employ ten-fold cross-validation.
     <ul>
       <li>DET: muchos, muchas, ambos, poca, mucha, mucho, pocos, Ambas</li>
       <li>NUM: dos, tres, 1, 10, cuatro, 3, mil, seis, 70, 100</li>
-      <li>PRON: cuanto</li>
+      <li>PRON: tanto, cuanto</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: primera, primer, primeros, tercer, primeras, tercera</li>
     </ul>
   </li>
 </ul>
@@ -723,6 +736,7 @@ employ ten-fold cross-validation.
           <li>ADJ: Tal</li>
           <li>ADP: a, en, por, sobre, de, per</li>
           <li>ADV: alrededor, hoy, Claro, mas, Más</li>
+          <li>SCONJ: Mientras</li>
           <li>VERB-Fin: puede, es</li>
         </ul>
       </li>
@@ -738,7 +752,7 @@ employ ten-fold cross-validation.
           <li>ADV: ya, así, siempre</li>
           <li>DET: una</li>
           <li>SCONJ: a, mientras, hasta, como, de, para, En, sin</li>
-          <li>VERB-Part: dado, debido</li>
+          <li>VERB-Part: debido</li>
         </ul>
       </li>
     </ul>
@@ -895,7 +909,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (499)</li>
+      <li>VERB-Fin--NOUN (498)</li>
       <li>VERB-Fin--PRON (132)</li>
       <li>VERB-Fin--PRON-Acc,Nom (13)</li>
       <li>VERB-Fin--PRON-Nom (4)</li>
@@ -906,7 +920,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON (5)</li>
       <li>VERB-Inf--PRON-Acc,Nom (2)</li>
       <li>VERB-Part--NOUN (64)</li>
-      <li>VERB-Part--PRON (17)</li>
+      <li>VERB-Part--PRON (18)</li>
       <li>VERB-Part--PRON-Acc,Nom (2)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
@@ -916,7 +930,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (392)</li>
+      <li>VERB-Fin--NOUN (391)</li>
       <li>VERB-Fin--PRON (24)</li>
       <li>VERB-Fin--PRON-Acc (25)</li>
       <li>VERB-Fin--PRON-Acc,Dat (4)</li>
@@ -927,7 +941,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON (5)</li>
       <li>VERB-Inf--PRON-Acc (13)</li>
       <li>VERB-Inf--PRON-Acc,Dat (1)</li>
-      <li>VERB-Part--NOUN (38)</li>
+      <li>VERB-Part--NOUN (39)</li>
       <li>VERB-Part--PRON (4)</li>
       <li>VERB-Part--PRON-Acc (5)</li>
     </ul>

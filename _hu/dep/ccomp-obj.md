@@ -22,4 +22,4 @@ obj(újítja, szerződéseit)
 amod:att(szerződéseit, olajszállítási)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:27 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:47 CEST -->

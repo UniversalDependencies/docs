@@ -11,16 +11,16 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="apu_ufpa-feat-Number.html">Number</a></tt>, <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="apu_ufpa-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt>.
 
-58 tokens (6%) have a non-empty value of `Number[subj]`.
-45 types (12%) occur at least once with a non-empty value of `Number[subj]`.
-32 lemmas (11%) occur at least once with a non-empty value of `Number[subj]`.
-The feature is used with 4 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (41; 4% instances), <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (2; 0% instances).
+74 tokens (7%) have a non-empty value of `Number[subj]`.
+55 types (14%) occur at least once with a non-empty value of `Number[subj]`.
+39 lemmas (13%) occur at least once with a non-empty value of `Number[subj]`.
+The feature is used with 4 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (51; 5% instances), <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (18; 2% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (2; 0% instances).
 
 ### `VERB`
 
-41 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (19% of all `VERB` tokens) have a non-empty value of `Number[subj]`.
+51 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (21% of all `VERB` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `VERB` and `Number[subj]` co-occurred: <tt><a href="apu_ufpa-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (40; 98%), <tt><a href="apu_ufpa-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (40; 98%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=Past,Pres</tt> (39; 95%), <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (36; 88%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (33; 80%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (33; 80%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (33; 80%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt> (27; 66%).
+The most frequent other feature values with which `VERB` and `Number[subj]` co-occurred: <tt><a href="apu_ufpa-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (49; 96%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=Past,Pres</tt> (49; 96%), <tt><a href="apu_ufpa-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (49; 96%), <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (44; 86%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (42; 82%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (41; 80%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (35; 69%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt> (29; 57%).
 
 `VERB` tokens may have the following values of `Number[subj]`:
 
@@ -32,16 +32,29 @@ The most frequent other feature values with which `VERB` and `Number[subj]` co-o
   <tr><td><tt><tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt></tt></td><td></td><td><em>nawa</em></td></tr>
 </table>
 
-`Number[subj]` seems to be **lexical feature** of `VERB`. 93% lemmas (25) occur only with one value of `Number[subj]`.
+`Number[subj]` seems to be **lexical feature** of `VERB`. 94% lemmas (32) occur only with one value of `Number[subj]`.
 
 ### `AUX`
 
-12 <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> tokens (67% of all `AUX` tokens) have a non-empty value of `Number[subj]`.
+18 <tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> tokens (72% of all `AUX` tokens) have a non-empty value of `Number[subj]`.
 
-The most frequent other feature values with which `AUX` and `Number[subj]` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="apu_ufpa-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (12; 100%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=Past,Pres</tt> (12; 100%), <tt><a href="apu_ufpa-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (11; 92%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (11; 92%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (9; 75%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt> (8; 67%).
+The most frequent other feature values with which `AUX` and `Number[subj]` co-occurred: <tt><a href="apu_ufpa-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (18; 100%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=Past,Pres</tt> (18; 100%), <tt><a href="apu_ufpa-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (18; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (15; 83%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (15; 83%), <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (14; 78%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt> (14; 78%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (13; 72%).
 
 `AUX` tokens may have the following values of `Number[subj]`:
 
+
+<table>
+  <tr><th>Paradigm <i>txa</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td><em>itxary</em></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>itxaryna</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td><em>itxary</em></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Fem</tt>|<tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td><em>utxawa</em></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td><em>itxane</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt>|<tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt></tt></td><td></td><td><em>itxa, itxawa, ytxa</em></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=Plur</tt>|<tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=1</tt>|<tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td></td><td><em>pitxawa</em></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt></tt></td><td></td><td><em>nhitxawa</em></td></tr>
+  <tr><td><tt><tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt></tt></td><td></td><td><em>pitxa</em></td></tr>
+</table>
 
 ### `NOUN`
 
@@ -55,6 +68,8 @@ The most frequent other feature values with which `NOUN` and `Number[subj]` co-o
 ### `ADV`
 
 2 <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> tokens (3% of all `ADV` tokens) have a non-empty value of `Number[subj]`.
+
+The most frequent other feature values with which `ADV` and `Number[subj]` co-occurred: <tt><a href="apu_ufpa-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `ADV` tokens may have the following values of `Number[subj]`:
 

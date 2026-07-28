@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (2308; 100% of non-empty `Degree`): <em>més, menys</em>
-* `EMPTY` (13174): <em>no, també, ja, després, ahir, molt, avui, només, ara, així</em>
+* `EMPTY` (13322): <em>no, també, ja, després, ahir, molt, avui, només, ara, així</em>
 
 ### `ADJ`
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADJ` tokens may have the following values of `Degree`:
 
 * `Cmp` (248; 100% of non-empty `Degree`): <em>millor, major, millors, pitjor, menor, majors, menors, pitjors</em>
-* `EMPTY` (29834): <em>passat, gran, primer, nou, primera, general, nova, catalana, espanyol, grans</em>
+* `EMPTY` (29837): <em>passat, gran, primer, nou, primera, general, nova, catalana, espanyol, grans</em>
 
 ## Relations with Agreement in `Degree`
 

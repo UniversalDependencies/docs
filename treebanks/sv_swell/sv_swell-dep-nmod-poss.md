@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sv_swell-dep-nmod.html">nmod</a></tt>.
 
-173 nodes (2%) are attached to their parents as `nmod:poss`.
+210 nodes (2%) are attached to their parents as `nmod:poss`.
 
-173 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.17919075144509.
+210 instances of `nmod:poss` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1952380952381.
 
-The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (140; 81% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (26; 15% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt> (7; 4% instances).
+The following 4 pairs of parts of speech are connected with `nmod:poss`: <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (175; 83% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (27; 13% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt> (7; 3% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,8 +23,8 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 3	fgColor:white
 # visual-style 3 1 nmod:poss	color:blue
 1	Mitt	jag	PRON	_	Definite=Def|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	3	nmod:poss	_	CorrectionLabels=M-Gend
-2	favoritt	favoritt	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing|Typo=Yes	3	amod	_	CorrectionLabels=O;O-Comp
-3	plats	plats	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Typo=Yes	0	root	_	CorrectionLabels=O:2;O-Comp:2
+2	favoritt	favorit	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing|Typo=Yes	3	amod	_	CorrectionLabels=O;O-Comp|SurfaceLemma=favoritt
+3	plats	plats	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|Typo=Yes	0	root	_	CorrectionLabels=O-Comp:2
 4	?	?	PUNCT	_	_	3	punct	_	_
 
 ~~~

@@ -12,30 +12,31 @@ Some words have combined values of the feature; 1 combinations have been observe
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="uz_uzudt-feat-Number.html">Number</a></tt>, <tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt>.
 
-444 tokens (6%) have a non-empty value of `Number[psor]`.
-332 types (11%) occur at least once with a non-empty value of `Number[psor]`.
-295 lemmas (12%) occur at least once with a non-empty value of `Number[psor]`.
-The feature is used with 5 part-of-speech tags: <tt><a href="uz_uzudt-pos-NOUN.html">NOUN</a></tt> (396; 5% instances), <tt><a href="uz_uzudt-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="uz_uzudt-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="uz_uzudt-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="uz_uzudt-pos-NUM.html">NUM</a></tt> (5; 0% instances).
+445 tokens (6%) have a non-empty value of `Number[psor]`.
+329 types (11%) occur at least once with a non-empty value of `Number[psor]`.
+236 lemmas (14%) occur at least once with a non-empty value of `Number[psor]`.
+The feature is used with 5 part-of-speech tags: <tt><a href="uz_uzudt-pos-NOUN.html">NOUN</a></tt> (397; 5% instances), <tt><a href="uz_uzudt-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="uz_uzudt-pos-ADJ.html">ADJ</a></tt> (12; 0% instances), <tt><a href="uz_uzudt-pos-PRON.html">PRON</a></tt> (12; 0% instances), <tt><a href="uz_uzudt-pos-NUM.html">NUM</a></tt> (5; 0% instances).
 
 ### `NOUN`
 
-396 <tt><a href="uz_uzudt-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
+397 <tt><a href="uz_uzudt-pos-NOUN.html">NOUN</a></tt> tokens (16% of all `NOUN` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="uz_uzudt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (375; 95%), <tt><a href="uz_uzudt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (325; 82%).
+The most frequent other feature values with which `NOUN` and `Number[psor]` co-occurred: <tt><a href="uz_uzudt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (376; 95%), <tt><a href="uz_uzudt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (325; 82%).
 
 `NOUN` tokens may have the following values of `Number[psor]`:
 
 
 <table>
   <tr><th>Paradigm <i>bola</i></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th></tr>
-  <tr><td><tt><tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uz_uzudt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt></tt></td><td><em>bolalarini</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>bolasini</em></td></tr>
-  <tr><td><tt><tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="uz_uzudt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt></tt></td><td><em>bolalarining</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uz_uzudt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt></tt></td><td><em>bolalari</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt></tt></td><td><em>bolasi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uz_uzudt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="uz_uzudt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>bolalarini</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="uz_uzudt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>bolasini</em></td></tr>
+  <tr><td><tt><tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="uz_uzudt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="uz_uzudt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>bolalarining</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uz_uzudt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="uz_uzudt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>bolalari</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="uz_uzudt-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td></td><td><em>bolam</em></td></tr>
+  <tr><td><tt><tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="uz_uzudt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>bolasi</em></td><td></td></tr>
 </table>
 
-`Number[psor]` seems to be **lexical feature** of `NOUN`. 95% lemmas (253) occur only with one value of `Number[psor]`.
+`Number[psor]` seems to be **lexical feature** of `NOUN`. 90% lemmas (192) occur only with one value of `Number[psor]`.
 
 ### `VERB`
 
@@ -47,13 +48,11 @@ The most frequent other feature values with which `VERB` and `Number[psor]` co-o
 
 
 <table>
-  <tr><th>Paradigm <i>boʻlmoq</i></th><th><tt>Plur</tt></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><th>Paradigm <i>boʻl</i></th><th><tt>Plur</tt></th><th><tt>Plur,Sing</tt></th><th><tt>Sing</tt></th></tr>
   <tr><td><tt><tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="uz_uzudt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>boʻlishi</em></td><td></td></tr>
   <tr><td><tt><tt><a href="uz_uzudt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="uz_uzudt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="uz_uzudt-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="uz_uzudt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="uz_uzudt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td><em>boʻlganim</em></td></tr>
   <tr><td><tt><tt><a href="uz_uzudt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="uz_uzudt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="uz_uzudt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="uz_uzudt-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td><em>boʻlishgani</em></td><td></td><td></td></tr>
 </table>
-
-`Number[psor]` seems to be **lexical feature** of `VERB`. 94% lemmas (15) occur only with one value of `Number[psor]`.
 
 ### `ADJ`
 
@@ -68,7 +67,7 @@ The most frequent other feature values with which `VERB` and `Number[psor]` co-o
 
 12 <tt><a href="uz_uzudt-pos-PRON.html">PRON</a></tt> tokens (3% of all `PRON` tokens) have a non-empty value of `Number[psor]`.
 
-The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="uz_uzudt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="uz_uzudt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="uz_uzudt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7; 58%).
+The most frequent other feature values with which `PRON` and `Number[psor]` co-occurred: <tt><a href="uz_uzudt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="uz_uzudt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="uz_uzudt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12; 100%), <tt><a href="uz_uzudt-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7; 58%).
 
 `PRON` tokens may have the following values of `Number[psor]`:
 

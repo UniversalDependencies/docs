@@ -11,14 +11,14 @@ It occurs with 3 different values: `Fin`, `Part`, `Vnoun`.
 
 4052 tokens (7%) have a non-empty value of `VerbForm`.
 1619 types (11%) occur at least once with a non-empty value of `VerbForm`.
-874 lemmas (10%) occur at least once with a non-empty value of `VerbForm`.
+781 lemmas (9%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 1 part-of-speech tags: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (4052; 7% instances).
 
 ### `VERB`
 
 4052 <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ka_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3936; 97%), <tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3634; 90%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3634; 90%), <tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (3486; 86%), <tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (3481; 86%), <tt><a href="ka_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (3004; 74%), <tt><a href="ka_glc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2809; 69%), <tt><a href="ka_glc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (2080; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="ka_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3936; 97%), <tt><a href="ka_glc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3634; 90%), <tt><a href="ka_glc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3634; 90%), <tt><a href="ka_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (3486; 86%), <tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=EMPTY</tt> (3481; 86%), <tt><a href="ka_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (3004; 74%), <tt><a href="ka_glc-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2808; 69%), <tt><a href="ka_glc-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (2080; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Vnoun` (96; 2% of non-empty `VerbForm`): <em>გამოსხივების, დარაიონება, გამოსხივებას, დაგეგმარების, დაკრისტალების, დაპროექტებისა, მოკვლევისა, მორწყვის, შეკავშირების, შესიტყვება</em>
 * `EMPTY` (3): <em>იხ.</em>
 
-`VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (874) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `VERB`. 100% lemmas (781) occur only with one value of `VerbForm`.
 
 ## Relations with Agreement in `VerbForm`
 

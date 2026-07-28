@@ -60,7 +60,7 @@ The 10 most frequent ambiguous types:  <em>ve</em> (<tt><a href="tr_boun-pos-CCO
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 0.972973 (the average of all parts of speech is 2.412899).
+The form / lemma ratio of `CCONJ` is 0.972973 (the average of all parts of speech is 2.413877).
 
 The 1st highest number of forms (2) was observed with the lemma “de”: <em>da, de</em>.
 
@@ -68,14 +68,20 @@ The 2nd highest number of forms (2) was observed with the lemma “ile”: <em>i
 
 The 3rd highest number of forms (1) was observed with the lemma “Adjani”: <em>Adjani</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="tr_boun-feat-ExtPos.html">ExtPos</a></tt> (64; 2% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (3606 tokens).
+Examples: <em>ve, ama, ile, de, da, ya, ancak, hem, veya, yani</em>
 
 
 ## Relations
 
 `CCONJ` nodes are attached to their parents using 18 different relations: <tt><a href="tr_boun-dep-cc.html">cc</a></tt> (2869; 78% instances), <tt><a href="tr_boun-dep-case.html">case</a></tt> (278; 8% instances), <tt><a href="tr_boun-dep-cc-preconj.html">cc:preconj</a></tt> (148; 4% instances), <tt><a href="tr_boun-dep-advmod-emph.html">advmod:emph</a></tt> (116; 3% instances), <tt><a href="tr_boun-dep-fixed.html">fixed</a></tt> (63; 2% instances), <tt><a href="tr_boun-dep-discourse.html">discourse</a></tt> (44; 1% instances), <tt><a href="tr_boun-dep-nmod.html">nmod</a></tt> (44; 1% instances), <tt><a href="tr_boun-dep-root.html">root</a></tt> (41; 1% instances), <tt><a href="tr_boun-dep-compound.html">compound</a></tt> (28; 1% instances), <tt><a href="tr_boun-dep-conj.html">conj</a></tt> (18; 0% instances), <tt><a href="tr_boun-dep-advmod.html">advmod</a></tt> (8; 0% instances), <tt><a href="tr_boun-dep-flat.html">flat</a></tt> (4; 0% instances), <tt><a href="tr_boun-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="tr_boun-dep-nmod-poss.html">nmod:poss</a></tt> (2; 0% instances), <tt><a href="tr_boun-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (1680; 46% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (1102; 30% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (328; 9% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (295; 8% instances), <tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> (64; 2% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> (63; 2% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (42; 1% instances),  (41; 1% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (32; 1% instances), <tt><a href="tr_boun-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="tr_boun-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (1681; 46% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (1100; 30% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (328; 9% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (296; 8% instances), <tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> (64; 2% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> (63; 2% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (42; 1% instances),  (41; 1% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (32; 1% instances), <tt><a href="tr_boun-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="tr_boun-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 3532 (96%) `CCONJ` nodes are leaves.
 

@@ -108,7 +108,7 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 18	՝	՝	PUNCT	_	_	22	punct	_	Translit=;|LTranslit=;
 19	եւ	եւ	CCONJ	_	_	22	cc	_	Translit=ew|LTranslit=ew|Gloss=and
 20	այնչափ	այնչափ	ADV	_	_	22	advmod	_	Translit=aynčʻapʻ|LTranslit=aynčʻapʻ|Gloss=that_much
-21	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	22	nmod	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=something
+21	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing|PronType=Ind	22	nsubj	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=something
 22	կայր	կալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	SpaceAfter=No|Translit=kayr|LTranslit=kal|Gloss=stand
 23	.	.	PUNCT	_	_	26	punct	_	Translit=:|LTranslit=:
 24	եւ	եւ	CCONJ	_	_	26	cc	_	Translit=ew|LTranslit=ew|Gloss=and

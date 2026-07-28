@@ -59,4 +59,4 @@ native tagset also calles it "modal".
 * [bg] _<b>апропо</b>_
 * [cs] _<b>možno</b>_ “possible”, _<b>nutno</b>_ “necessary”, _<b>radno</b>_ “adviseable”, _<b>třeba</b>_ “necessary”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:00 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:41 CEST -->

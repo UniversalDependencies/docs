@@ -31,8 +31,8 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 6	man	man	PRON	PN|UTR|SIN|IND|SUB	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|PronType=Ind	8	nsubj	8:nsubj	_
 7	får	få	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	8:aux	_
 8	gno	gno	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	4	csubj	4:csubj	_
-9	hela	hel	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	10	amod	10:amod	_
-10	tiden	tid	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	8	obl	8:obl	SpaceAfter=No
+9	hela	hel	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	10	amod	10:amod	ParsemeMWE=1:AdvID
+10	tiden	tid	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	8	obl	8:obl	SpaceAfter=No|ParsemeMWE=1
 11	.	.	PUNCT	MAD	_	4	punct	4:punct	_
 
 ~~~
@@ -50,8 +50,8 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 4	'	'	PUNCT	PAD	_	5	punct	5:punct	SpaceAfter=No
 5	praktikant	praktikant	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	obj	2:obj	SpaceAfter=No
 6	'	'	PUNCT	PAD	_	5	punct	5:punct	_
-7	lönar	löna	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-8	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	7	obj	7:obj	_
+7	lönar	löna	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	ParsemeMWE=1:IRV
+8	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	7	obj	7:obj	ParsemeMWE=1
 9	verkligen	verkligen	ADV	AB	_	7	advmod	7:advmod	_
 10	inte	inte	PART	AB	Polarity=Neg	7	advmod	7:advmod	SpaceAfter=No
 11	.	.	PUNCT	MAD	_	7	punct	7:punct	_
@@ -70,10 +70,10 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 3	problem	problem	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	0:root	_
 4	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	3:cop	_
 5	att	att	SCONJ	SN	_	7	mark	7:mark	_
-6	u-landsbarnen	u-landsbarn	NOUN	NN|NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	7	nsubj	7:nsubj	_
-7	får	få	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj	3:csubj	_
+6	u-landsbarnen	u-landsbarn	NOUN	NN|NEU|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Plur	7	nsubj	7:nsubj	ParsemeMWE=1:NID
+7	får	få	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj	3:csubj	ParsemeMWE=2:LVC.full
 8	fel	fel	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	9	amod	9:amod	_
-9	utbildning	utbildning	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	7	obj	7:obj	SpaceAfter=No
+9	utbildning	utbildning	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	7	obj	7:obj	SpaceAfter=No|ParsemeMWE=2
 10	.	.	PUNCT	MAD	_	3	punct	3:punct	_
 
 ~~~

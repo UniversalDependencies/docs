@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `advmod:arg`: <tt><a
 23	jednak	jednak	CCONJ	conj	_	24	cc	24:cc	Translit=iednak
 24	świeci	świecić	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	7:ccomp|14:conj	Translit=świeći
 25	pięknie	pięknie	ADV	adv:pos	Degree=Pos	24	advmod	24:advmod	Translit=pięknie
-26	jako	jako	ADV	adv	_	25	obl:cmpr	25:obl:cmpr	Translit=iáko
+26	jako	jako	ADV	adv	_	25	obl:cmp	25:obl:cmp	Translit=iáko
 27	zawsze	zawsze	ADV	adv	PronType=Tot	26	advmod:arg	26:advmod:arg	SpaceAfter=No|Translit=zawsze
 28	:	:	PUNCT	interp	PunctType=Colo	14	punct	14:punct	Translit=:
 

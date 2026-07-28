@@ -11,9 +11,9 @@ This relation is universal.
 1807 nodes (7%) are attached to their parents as `root`.
 
 1807 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.75041505257333.
+Average distance between parent and child is 4.75484228002214.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (1538; 85% instances), -<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (113; 6% instances), -<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (72; 4% instances), -<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (25; 1% instances), -<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (18; 1% instances), -<tt><a href="el_gud-pos-DET.html">DET</a></tt> (16; 1% instances), -<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), -<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (7; 0% instances), -<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (6; 0% instances), -<tt><a href="el_gud-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="el_gud-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="el_gud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (1539; 85% instances), -<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (111; 6% instances), -<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (71; 4% instances), -<tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (27; 1% instances), -<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (18; 1% instances), -<tt><a href="el_gud-pos-DET.html">DET</a></tt> (17; 1% instances), -<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (7; 0% instances), -<tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (6; 0% instances), -<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (6; 0% instances), -<tt><a href="el_gud-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="el_gud-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="el_gud-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 2	Ζαχαράκης	Ζαχαράκης	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 3	το	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 4	σκέφτεται	σκέφτομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-5	λίγο	λίγο	ADV	_	_	4	advmod	_	SpaceAfter=No
+5	λίγο	λίγο	ADV	_	PronType=Ind	4	advmod	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	4	punct	_	PunctType=Peri
 
 ~~~
@@ -41,7 +41,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 1	Αλλά	αλλά	CCONJ	_	_	4	cc	_	_
 2	για	για	ADP	_	_	4	case	_	_
 3	τη	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	δουλειά	δουλειά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	_
+4	δουλειά	δουλειά	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 5	;	;	PUNCT	_	_	4	punct	_	PunctType=Qest
 
 ~~~
@@ -53,7 +53,7 @@ The following 12 pairs of parts of speech are connected with `root`: -<tt><a hre
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 2 root	color:blue
-1	Είναι	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2	cop	_	_
+1	Είναι	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	προφανές	προφανής	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 3	ότι	ότι	SCONJ	_	_	6	mark	_	_
 4	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_

@@ -6,18 +6,21 @@ udver: '2'
 
 ## Treebank Statistics: UD_Moksha-JR: POS Tags: `PROPN`
 
-There are 73 `PROPN` lemmas (5%), 79 `PROPN` types (4%) and 85 `PROPN` tokens (2%).
+There are 73 `PROPN` lemmas (5%), 79 `PROPN` types (3%) and 86 `PROPN` tokens (2%).
 Out of 16 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 10 in number of tokens.
 
-The 10 most frequent `PROPN` lemmas: <em>Петя, Василий, Иван, Игорь, Марья, Маря, Миша, Париж, Петровна, Туганов</em>
+The 10 most frequent `PROPN` lemmas: <em>Петя, Василий, Иван, Игорь, Марья, Маря, Миша, Париж, Пашу, Петровна</em>
 
-The 10 most frequent `PROPN` types:  <em>Петя, Иван, Игорь, Марья, Петровна, Алда-баба, Алдуван, Анна, Архипонь, Браун</em>
+The 10 most frequent `PROPN` types:  <em>Петя, Иван, Игорь, Марья, Пашуть, Петровна, Алда-баба, Алдуван, Анна, Архипонь</em>
 
-The 10 most frequent ambiguous lemmas: <em>Петя</em> (<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Маря</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 2), <em>Миша</em> (<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Анна</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Елена</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Людмила</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Маринка</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Пашу</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Тишка</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>мокша</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>Петя</em> (<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Маря</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 2), <em>Миша</em> (<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Пашу</em> (<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Анна</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Елена</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Людмила</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Маринка</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Тишка</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>мокша</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>Елена</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Людмила</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Маринкась</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Пашуть</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Тишка</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>Пашуть</em> (<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1), <em>Елена</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Людмила</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Маринкась</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1), <em>Тишка</em> (<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1)
 
 
+* <em>Пашуть</em>
+  * <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 2: <em>Станя или аф — ломанень потмось шобда , архт вешеньк , мезенкса кадозе мирденц , архт кизефнек , мезенкса сяшкава кельгозе <b>Пашуть</b> .</em>
+  * <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1: <em>Сондейнза визькс <b>Пашуть</b> инкса .</em>
 * <em>Елена</em>
   * <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Елена</b> Васильевнань эряфса тя ульсь омбоце оцю ризфсь-пичефкссь .</em>
   * <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1: <em><b>Елена</b> Васильевна каяфтозе мирденц шинеленц , валхтозе вазенц .</em>
@@ -27,16 +30,13 @@ The 10 most frequent ambiguous types:  <em>Елена</em> (<tt><a href="mdf_jr-
 * <em>Маринкась</em>
   * <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 2: <em>Рана шобдава <b>Маринкась</b> тусь работама .</em>
   * <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1: <em>И <b>Маринкась</b> сргозсь ранакиге .</em>
-* <em>Пашуть</em>
-  * <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 1: <em>Сондейнза визькс <b>Пашуть</b> инкса .</em>
-  * <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1: <em>Станя или аф — ломанень потмось шобда , архт вешеньк , мезенкса кадозе мирденц , архт кизефнек , мезенкса сяшкава кельгозе <b>Пашуть</b> .</em>
 * <em>Тишка</em>
   * <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> 4: <em>Тяфтама мяльса <b>Тишка</b> мольсь родной паксянзон эзга .</em>
   * <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> 1: <em>Или ялга сать ? » — кизефтезе <b>Тишка</b> ...</em>
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.082192 (the average of all parts of speech is 1.555478).
+The form / lemma ratio of `PROPN` is 1.082192 (the average of all parts of speech is 1.563574).
 
 The 1st highest number of forms (2) was observed with the lemma “Василий”: <em>Васильевичекс, Васильевна</em>.
 
@@ -44,7 +44,7 @@ The 2nd highest number of forms (2) was observed with the lemma “Маря”: 
 
 The 3rd highest number of forms (2) was observed with the lemma “Миша”: <em>Миша, Мишазе</em>.
 
-`PROPN` occurs with 12 features: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt> (84; 99% instances), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt> (84; 99% instances), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt> (81; 95% instances), <tt><a href="mdf_jr-feat-NameType.html">NameType</a></tt> (61; 72% instances), <tt><a href="mdf_jr-feat-Animacy.html">Animacy</a></tt> (27; 32% instances), <tt><a href="mdf_jr-feat-Gender.html">Gender</a></tt> (24; 28% instances), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt> (2; 2% instances), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt> (2; 2% instances), <tt><a href="mdf_jr-feat-Derivation.html">Derivation</a></tt> (1; 1% instances), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt> (1; 1% instances), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt> (1; 1% instances), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt> (1; 1% instances)
+`PROPN` occurs with 12 features: <tt><a href="mdf_jr-feat-Case.html">Case</a></tt> (85; 99% instances), <tt><a href="mdf_jr-feat-Number.html">Number</a></tt> (85; 99% instances), <tt><a href="mdf_jr-feat-Definite.html">Definite</a></tt> (82; 95% instances), <tt><a href="mdf_jr-feat-NameType.html">NameType</a></tt> (61; 71% instances), <tt><a href="mdf_jr-feat-Animacy.html">Animacy</a></tt> (27; 31% instances), <tt><a href="mdf_jr-feat-Gender.html">Gender</a></tt> (24; 28% instances), <tt><a href="mdf_jr-feat-Number-psor.html">Number[psor]</a></tt> (2; 2% instances), <tt><a href="mdf_jr-feat-Person-psor.html">Person[psor]</a></tt> (2; 2% instances), <tt><a href="mdf_jr-feat-Derivation.html">Derivation</a></tt> (1; 1% instances), <tt><a href="mdf_jr-feat-Number-subj.html">Number[subj]</a></tt> (1; 1% instances), <tt><a href="mdf_jr-feat-Person-subj.html">Person[subj]</a></tt> (1; 1% instances), <tt><a href="mdf_jr-feat-Tense.html">Tense</a></tt> (1; 1% instances)
 
 `PROPN` occurs with 23 feature-value pairs: `Animacy=Hum`, `Case=Dat`, `Case=Gen`, `Case=Ine`, `Case=Nom`, `Case=Tra`, `Definite=Def`, `Definite=Ind`, `Derivation=Wife`, `Gender=Fem`, `Gender=Masc`, `NameType=Geo`, `NameType=Giv`, `NameType=Pat`, `NameType=Sur`, `Number=Plur,Sing`, `Number=Sing`, `Number[psor]=Sing`, `Number[subj]=Sing`, `Person[psor]=1`, `Person[psor]=2`, `Person[subj]=1`, `Tense=Pres`
 
@@ -55,11 +55,11 @@ Examples: <em>Петя, Марья, Алда-баба, Анна, Василь, �
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 14 different relations: <tt><a href="mdf_jr-dep-nsubj.html">nsubj</a></tt> (25; 29% instances), <tt><a href="mdf_jr-dep-flat-name.html">flat:name</a></tt> (13; 15% instances), <tt><a href="mdf_jr-dep-obl.html">obl</a></tt> (8; 9% instances), <tt><a href="mdf_jr-dep-nmod.html">nmod</a></tt> (7; 8% instances), <tt><a href="mdf_jr-dep-nsubj-cop.html">nsubj:cop</a></tt> (6; 7% instances), <tt><a href="mdf_jr-dep-conj.html">conj</a></tt> (5; 6% instances), <tt><a href="mdf_jr-dep-nmod-poss.html">nmod:poss</a></tt> (5; 6% instances), <tt><a href="mdf_jr-dep-obj.html">obj</a></tt> (4; 5% instances), <tt><a href="mdf_jr-dep-compound-nn.html">compound:nn</a></tt> (3; 4% instances), <tt><a href="mdf_jr-dep-vocative.html">vocative</a></tt> (3; 4% instances), <tt><a href="mdf_jr-dep-flat.html">flat</a></tt> (2; 2% instances), <tt><a href="mdf_jr-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="mdf_jr-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="mdf_jr-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+`PROPN` nodes are attached to their parents using 14 different relations: <tt><a href="mdf_jr-dep-nsubj.html">nsubj</a></tt> (25; 29% instances), <tt><a href="mdf_jr-dep-flat-name.html">flat:name</a></tt> (13; 15% instances), <tt><a href="mdf_jr-dep-obl.html">obl</a></tt> (8; 9% instances), <tt><a href="mdf_jr-dep-nmod.html">nmod</a></tt> (7; 8% instances), <tt><a href="mdf_jr-dep-nsubj-cop.html">nsubj:cop</a></tt> (6; 7% instances), <tt><a href="mdf_jr-dep-conj.html">conj</a></tt> (5; 6% instances), <tt><a href="mdf_jr-dep-nmod-poss.html">nmod:poss</a></tt> (5; 6% instances), <tt><a href="mdf_jr-dep-obj.html">obj</a></tt> (5; 6% instances), <tt><a href="mdf_jr-dep-compound-nn.html">compound:nn</a></tt> (3; 3% instances), <tt><a href="mdf_jr-dep-vocative.html">vocative</a></tt> (3; 3% instances), <tt><a href="mdf_jr-dep-flat.html">flat</a></tt> (2; 2% instances), <tt><a href="mdf_jr-dep-root.html">root</a></tt> (2; 2% instances), <tt><a href="mdf_jr-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="mdf_jr-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
-Parents of `PROPN` nodes belong to 5 different parts of speech: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (42; 49% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (21; 25% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (14; 16% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (6; 7% instances),  (2; 2% instances)
+Parents of `PROPN` nodes belong to 5 different parts of speech: <tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (43; 50% instances), <tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (21; 24% instances), <tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (14; 16% instances), <tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (6; 7% instances),  (2; 2% instances)
 
-58 (68%) `PROPN` nodes are leaves.
+59 (69%) `PROPN` nodes are leaves.
 
 17 (20%) `PROPN` nodes have one child.
 

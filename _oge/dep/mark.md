@@ -13,4 +13,4 @@ ccomp(ჰგონებთ, იტყოდა)
 mark(იტყოდა, ვითარმედ)
 nsubj(იტყოდა, წინაწარმეტყუელი)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:15:38 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->

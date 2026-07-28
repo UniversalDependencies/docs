@@ -18,4 +18,4 @@ Coordinate clauses are treated the same way as coordination of other constituent
 Ion a sosit , dar Maria întârzie . \n John has arrived , but Mary is_late .
 conj(sosit, întârzie)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:35 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:54 CEST -->

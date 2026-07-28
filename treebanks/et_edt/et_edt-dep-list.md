@@ -36,7 +36,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 12	liini	liin	NOUN	S	Case=Gen|Number=Sing	13	nmod	13:nmod	_
 13	number	number	NOUN	S	Case=Nom|Number=Sing	9	list	9:list	SpaceAfter=No
 14	"	"	PUNCT	Z	_	9	punct	9:punct	_
-15	lühinumbrile	lühi_number	NOUN	S	Case=All|Number=Sing	4	obl	4:obl	Arg=saatma_Arg_4
+15	lühinumbrile	lühi_number	NOUN	S	Case=All|Number=Sing	4	obl:lmod	4:obl	Arg=saatma_Arg_4
 16	1311	1311	NUM	N	NumForm=Digit|NumType=Card	15	nummod	15:nummod	SpaceAfter=No
 17	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
@@ -54,7 +54,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 3	paindlikkus	paindlikkus	NOUN	S	Case=Nom|Number=Sing	4	nsubj	4:nsubj	Arg=väljenduma_Arg_1
 4	väljendub	väljenduma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Verb=väljenduma
 5	tööturu	töö_turg	NOUN	S	Case=Gen|Number=Sing	6	nmod	6:nmod	_
-6	parameetrites	parameeter	NOUN	S	Case=Ine|Number=Plur	4	obl	4:obl	Arg=väljenduma_Arg_2
+6	parameetrites	parameeter	NOUN	S	Case=Ine|Number=Plur	4	obl:arg	4:obl	Arg=väljenduma_Arg_2
 7	nagu	nagu	SCONJ	J	_	13	mark	13:mark	SpaceAfter=No
 8	:	:	PUNCT	Z	_	13	punct	13:punct	_
 9	·	·	PUNCT	Z	_	13	punct	13:punct	_
@@ -110,7 +110,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 10	kulutataks	kulutama	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	0:root	Verb=kulutama
 11	täiendav	täiendav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	12:acl	_
 12	sissetulek	sisse_tulek	NOUN	S	Case=Nom|Number=Sing	10	obj	10:obj	Arg=kulutama_Arg_1
-13	tarbimisele	tarbimine	NOUN	S	Case=All|Number=Sing	10	obl	10:obl	Arg=kulutama_Arg_2|SpaceAfter=No
+13	tarbimisele	tarbimine	NOUN	S	Case=All|Number=Sing	10	obl:arg	10:obl	Arg=kulutama_Arg_2|SpaceAfter=No
 14	,	,	PUNCT	Z	_	23	punct	23:punct	_
 15	suurema	suurem	ADJ	A	Case=Gen|Degree=Cmp|Number=Sing	16	amod	16:amod	_
 16	sissetulekuga	sisse_tulek	NOUN	S	Case=Com|Number=Sing	17	nmod	17:nmod	_

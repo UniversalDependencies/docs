@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="cop_scriptorium-dep-nmod.html">nmod</a></tt>.
 There are also 1 other language-specific subtypes of `nmod`: <tt><a href="cop_scriptorium-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-177 nodes (0%) are attached to their parents as `nmod:unmarked`.
+183 nodes (0%) are attached to their parents as `nmod:unmarked`.
 
-169 instances of `nmod:unmarked` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.44067796610169.
+175 instances of `nmod:unmarked` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.44262295081967.
 
-The following 11 pairs of parts of speech are connected with `nmod:unmarked`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (119; 67% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (22; 12% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (19; 11% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 11 pairs of parts of speech are connected with `nmod:unmarked`: <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (122; 67% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (22; 12% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (22; 12% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (7; 4% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -34,7 +34,7 @@ The following 11 pairs of parts of speech are connected with `nmod:unmarked`: <t
 9	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	4	obl	_	Entity=(person)
 10	·	·	PUNCT	PUNCT	_	15	punct	_	_
 11	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	15	cc	_	Orig=Ⲁⲩⲱ
-12	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	_	15	mark	_	_
+12	ⲉⲣⲉ	ⲉⲣⲉ	PART	CFOC	Emph=Yes	15	mark	_	_
 13	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	Entity=(person
 14	ⲣⲣⲟ	ⲣⲣⲟ	NOUN	N	_	15	nsubj	_	Entity=person)|Orig=ⲣ̄ⲣⲟ
 15	ⲙⲉ	ⲙⲉ	VERB	V	Mood=Ind|VerbForm=Fin	1	conj	_	_
@@ -42,29 +42,6 @@ The following 11 pairs of parts of speech are connected with `nmod:unmarked`: <t
 17	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	15	obj	_	_
 18	ⲉⲙⲁⲧⲉ	ⲉⲙⲁⲧⲉ	ADV	ADV	_	15	advmod	_	Entity=person)|Orig=ⲉⲙⲁⲁⲧⲉ
 19	·	·	PUNCT	PUNCT	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 nmod:unmarked	color:blue
-1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
-2	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	4	aux	_	Orig=ⲛ̄
-3	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Orig=ⲧⲉⲧ︤ⲛ︥
-4	ⲥⲱⲱϥ	ⲥⲱⲱϥ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
-5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲙ̄
-6	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	Entity=(place
-7	ⲣⲡⲉ	ⲣⲡⲉ	NOUN	N	_	4	obj	_	Orig=ⲣ̄ⲡⲉ
-8	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
-9	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	7	acl:relcl	_	Orig=ⲛ̄ⲧⲱⲧ︤ⲛ︥
-10	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	9	cop	_	_
-11	ⲙⲙⲓⲛⲙⲙⲱ	ⲙⲙⲓⲛⲙⲙⲟ	NOUN	IMOD	Definite=Def|PronType=Prs|Reflex=Yes	9	nmod:unmarked	_	Orig=ⲙ̄ⲙⲓⲛⲙ̄ⲙⲱ
-12	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	11	nmod:poss	_	Entity=place)|Orig=ⲧ︤ⲛ︥
-13	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 
@@ -95,6 +72,29 @@ The following 11 pairs of parts of speech are connected with `nmod:unmarked`: <t
 18	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	19	case	_	_
 19	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
 20	.	.	PUNCT	PUNCT	_	17	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 nmod:unmarked	color:blue
+1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	4	cc	_	_
+2	ⲛ	ⲛⲧⲉ	AUX	ACONJ	_	4	aux	_	Orig=ⲛ̄
+3	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	Orig=ⲧⲉⲧ︤ⲛ︥
+4	ⲥⲱⲱϥ	ⲥⲱⲱϥ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	_
+5	ⲙ	ⲛ	ADP	PREP	_	7	case	_	Orig=ⲙ̄
+6	ⲡⲉϥ	ⲡⲉϥ	DET	PPOS	Definite=Def|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	Entity=(place
+7	ⲣⲡⲉ	ⲣⲡⲉ	NOUN	N	_	4	obj	_	Orig=ⲣ̄ⲡⲉ
+8	ⲉⲧⲉ	ⲉⲧⲉⲣⲉ	SCONJ	CREL	_	9	mark	_	_
+9	ⲛⲧⲱⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERI	Definite=Def|Number=Plur|Person=2|PronType=Prs	7	acl:relcl	_	Orig=ⲛ̄ⲧⲱⲧ︤ⲛ︥
+10	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	9	cop	_	_
+11	ⲙⲙⲓⲛⲙⲙⲱ	ⲙⲙⲓⲛⲙⲙⲟ	NOUN	IMOD	Definite=Def|PronType=Prs|Reflex=Yes	9	nmod:unmarked	_	Orig=ⲙ̄ⲙⲓⲛⲙ̄ⲙⲱ
+12	ⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	11	nmod:poss	_	Entity=place)|Orig=ⲧ︤ⲛ︥
+13	·	·	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~
 

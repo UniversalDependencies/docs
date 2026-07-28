@@ -25,7 +25,7 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 1	Üks	üks	NUM	N	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	7	nummod	7:nummod	_
 2	40	40000	NUM	N	NumForm=Digit|NumType=Card|Typo=Yes	7	nummod	7:nummod	CorrectForm=40000st
 3	000st	_	X	_	_	2	goeswith	2:goeswith	_
-4	Shveitsi	Šveits	PROPN	S	Case=Add|Number=Sing	5	obl	5:obl	NE=B-Loc
+4	Shveitsi	Šveits	PROPN	S	Case=Add|Number=Sing	5	obl:lmod	5:obl	NE=B-Loc
 5	pagenud	page=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	7	acl	7:acl	_
 6	Kosovo	Kosovo	PROPN	S	Case=Gen|Number=Sing	7	nmod	7:nmod	NE=B-Gep
 7	albaanlasest	albaanlane	NOUN	S	Case=Ela|Number=Sing	0	root	0:root	SpaceAfter=No
@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 2	000-naelasele	_	X	_	_	1	goeswith	1:goeswith	_
 3	Man	Man	PROPN	S	Case=Nom|Number=Sing	5	nmod	5:nmod	NE=B-Muu
 4	Bookeri	Booker	PROPN	S	Case=Gen|Number=Sing	3	flat	3:flat	NE=I-Muu
-5	auhinnale	au_hind	NOUN	S	Case=All|Number=Sing	6	obl	6:obl	NE=I-Muu
+5	auhinnale	au_hind	NOUN	S	Case=All|Number=Sing	6	obl:arg	6:obl	NE=I-Muu
 6	kandideerivad	kandideerima	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
 7	:	:	PUNCT	Z	_	6	punct	6:punct	_
 
@@ -62,7 +62,7 @@ The following 5 pairs of parts of speech are connected with `goeswith`: <tt><a h
 3	jooksevad	jooksma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Verb=jooksma_3
 4	uhketes	uhke	ADJ	A	Case=Ine|Degree=Pos|Number=Plur	6	amod	6:amod	_
 5	peatänavate	pea_tänav	NOUN	S	Case=Gen|Number=Plur	6	nmod	6:nmod	_
-6	kinodes	kino	NOUN	S	Case=Ine|Number=Plur	3	obl	3:obl	_
+6	kinodes	kino	NOUN	S	Case=Ine|Number=Plur	3	obl:lmod	3:obl	_
 7	ja	ja	CCONJ	J	_	8	cc	8:cc	_
 8	võistlevad	võistlema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	0:root|3:conj	Verb=võistlema
 9	vaatajate	vaataja	NOUN	S	Case=Gen|Number=Plur	10	nmod	10:nmod	_

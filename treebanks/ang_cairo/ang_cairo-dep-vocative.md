@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 1	Sam	Sam	PROPN	NNP	Case=Nom|Gender=Masc|Number=Sing	3	vocative	_	Gloss=Sam|Hyperlemma=Sam|Root=_|SpaceAfter=No
 2	,	,	PUNCT	,	_	3	punct	_	Gloss=,|Hyperlemma=,|Root=_
 3	ontyne	ontynan	VERB	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	Gloss=open|Hyperlemma=ontynan|Root=*dewh₂
-4	þæt	se	DET	DT	Case=Acc|Gender=Neut|Number=Sing	5	det	_	Gloss=the|Hyperlemma=the|Root=*so
+4	þæt	se	DET	DT	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	Gloss=the|Hyperlemma=the|Root=*so
 5	eagþyrel	eagþyrel	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	Gloss=window|Hyperlemma=eye-through|Root=*h₃ekʷ-terh₂|SpaceAfter=No
 6	!	!	PUNCT	.	_	3	punct	_	Gloss=!|Hyperlemma=!|Root=_
 

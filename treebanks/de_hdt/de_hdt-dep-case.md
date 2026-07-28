@@ -22,10 +22,10 @@ The following 28 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 case	color:blue
-1	Die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	Nachrichten	Nachricht	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	_
 3	von	von	ADP	APPR	AdpType=Prep|Case=Dat	5	case	_	_
-4	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	5	det	_	_
+4	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	Konkurs	Konkurs	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	2	nmod	_	_
 6	entbehren	entbehren	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	jeder	jeder	DET	PIDAT	Case=Gen|Gender=Fem|Number=Sing|PronType=Tot	8	det	_	_

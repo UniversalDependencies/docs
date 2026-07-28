@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Masanori Oya.
 
 Repository: [UD_Esperanto-Prago](https://github.com/UniversalDependencies/UD_Esperanto-Prago)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeo_prago217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeo_prago218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -77,11 +77,11 @@ https://lingvo.org/prago/eo.php
 
 
 <ul>
-<li>This corpus contains 131 sentences and 3165 tokens.</li>
+<li>This corpus contains 131 sentences and 3166 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 454 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 455 tokens (14%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -383,7 +383,7 @@ https://lingvo.org/prago/eo.php
     <ul>
       <li>ADJ: alia</li>
       <li>DET: tiun, tiu, tiuj, tiujn, Tia, alia</li>
-      <li>PRON: tio, tiuj, tiun</li>
+      <li>PRON: tio, alia, tion, tiuj, tiun, unu</li>
     </ul>
   </li>
 </ul>
@@ -425,7 +425,7 @@ https://lingvo.org/prago/eo.php
   <li>Rel
     <ul>
       <li>ADJ: kia, kies</li>
-      <li>PRON: kiu, kiuj, kiujn, kies, kiun, kian, kia</li>
+      <li>PRON: kiu, kiuj, kiujn, kiun, kies, kian, kia</li>
     </ul>
   </li>
 </ul>
@@ -608,8 +608,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc (2)</li>
       <li>VERB-Fin--NOUN-Acc (60)</li>
       <li>VERB-Fin--NOUN-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(laŭ) (1)</li>
-      <li>VERB-Fin--PRON-Acc (25)</li>
+      <li>VERB-Fin--PRON-Acc (23)</li>
       <li>VERB-Inf--NOUN-Acc (36)</li>
       <li>VERB-Inf--PRON-Acc (8)</li>
       <li>VERB-Part--NOUN-Acc (4)</li>
@@ -622,6 +621,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN-Nom (1)</li>
+      <li>VERB-Fin--PRON-Acc (2)</li>
       <li>VERB-Inf--PRON-Nom-ADP(al) (1)</li>
     </ul>
   </li>

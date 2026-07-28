@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-45 nodes (1%) are attached to their parents as `nummod`.
+58 nodes (1%) are attached to their parents as `nummod`.
 
-45 instances of `nummod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.51111111111111.
+58 instances of `nummod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.63793103448276.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (41; 91% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-SYM.html">SYM</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (53; 91% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="ps_sikaram-pos-SYM.html">SYM</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -97,13 +97,13 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 6	:	:	PUNCT	_	_	8	punct	_	Translit=:|LTranslit=:|Gloss=:
 7	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	8	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
 8	هغه	هغه	PRON	_	Case=Nom|Deixis=Remt|PronType=Dem	4	appos	_	Translit=háġa|LTranslit=háġa|Gloss=that
-9	چې	چې	PRON	_	PronType=Rel	10	nsubj	_	Translit=če|LTranslit=če|Gloss=which
+9	چې	چې	SCONJ	_	_	10	mark	_	Translit=če|LTranslit=če|Gloss=that
 10	ژوندۍ	ژوندی	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	8	acl:relcl	_	Translit=žwandë́y|LTranslit=žwandáy|Gloss=alive
 11	ده	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	Translit=da|LTranslit=wël|Gloss=is|SpaceAfter=No
 12	،	،	PUNCT	_	_	14	punct	_	Translit=,|LTranslit=,|Gloss=,
 13	هغه	هغه	DET	_	Case=Nom|Deixis=Remt|PronType=Dem	14	det	_	Translit=háġa|LTranslit=háġa|Gloss=that
 14	ژبه	ژبه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	8	conj	_	Translit=žë́ba|LTranslit=žë́ba|Gloss=language
-15	چې	چې	PRON	_	PronType=Rel	29	obl	_	Translit=če|LTranslit=če|Gloss=which
+15	چې	چې	SCONJ	_	_	29	mark	_	Translit=če|LTranslit=če|Gloss=that
 16	د	د	ADP	_	Case=Acc	20	case	_	Translit=dë|LTranslit=dë|Gloss=of
 17	یوه	یو	NUM	_	Case=Acc|Gender=Masc|NumType=Card	20	nummod	_	Translit=yawë́|LTranslit=yaw|Gloss=one
 18	يا	يا	CCONJ	_	_	19	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
@@ -111,7 +111,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 20	ملتونو	ملت	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	21	nmod	_	Translit=milatúno|LTranslit=milát|Gloss=nations
 21	وګړي	وګړی	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	29	nsubj	_	Translit=wagë́ṛi|LTranslit=wagë́ṛay|Gloss=people
 22	پر	پر	ADP	_	Case=Loc	23	case	_	Translit=për|LTranslit=për|Gloss=on
-23	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	15	nmod	_	Translit=ye|LTranslit=ye|Gloss=it
+23	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	29	obl	_	Translit=ye|LTranslit=ye|Gloss=it
 24	خبرې	خبره	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	29	obj	_	Translit=xabë́re|LTranslit=xabë́ra|Gloss=talk
 25	او	او	CCONJ	_	_	26	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 26	لیک	لیک	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	24	conj	_	Translit=lik|LTranslit=lik|Gloss=writing|SpaceAfter=No

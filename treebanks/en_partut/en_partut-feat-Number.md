@@ -132,7 +132,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="en_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1784; 59%),
+<tt>NOUN --[<tt><a href="en_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1787; 59%),
 <tt>NOUN --[<tt><a href="en_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (693; 80%),
 <tt>NOUN --[<tt><a href="en_partut-dep-cop.html">cop</a></tt>]--> AUX</tt> (229; 75%),
 <tt>NOUN --[<tt><a href="en_partut-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (109; 67%),

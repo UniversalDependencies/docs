@@ -32,7 +32,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	logement	logement	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 9	si	si	SCONJ	_	_	11	mark	_	_
-10	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+10	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
 11	vis	vivre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 12	en	en	ADP	_	_	13	case	_	_
 13	couple	couple	NOUN	_	Number=Sing	11	obl:mod	_	_

@@ -11,7 +11,7 @@ This relation is universal.
 101 nodes (1%) are attached to their parents as `ccomp`.
 
 96 instances of `ccomp` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.98019801980198.
+Average distance between parent and child is 5.97029702970297.
 
 The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> (70; 69% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> (8; 8% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt>-<tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt>-<tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-INTJ.html">INTJ</a></tt> (2; 2% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt>-<tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt>-<tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
@@ -73,7 +73,7 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 5	wos	_	PRON	_	_	8	nsubj	_	GermanLemma=was
 6	zu	_	PART	_	_	8	mark	_	GermanLemma=zu
 7	m	_	DET	_	_	8	det	_	GermanLemma=das
-8	Tuan	_	NOUN	_	_	2	ccomp	_	GermanLemma=Tun
+8	Tuan	_	NOUN	_	_	2	ccomp	_	GermanLemma=tun
 9	is	_	AUX	_	_	8	cop	_	GermanLemma=sein|SpaceAfter=No
 10	,	_	PUNCT	_	_	13	punct	_	GermanLemma=,
 11	und	_	CCONJ	_	_	13	cc	_	GermanLemma=und

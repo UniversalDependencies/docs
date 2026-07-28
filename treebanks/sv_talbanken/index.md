@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Aaron Smith, Victor Norrman.
 
 Repository: [UD_Swedish-Talbanken](https://github.com/UniversalDependencies/UD_Swedish-Talbanken)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_talbanken217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_talbanken218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -58,18 +58,30 @@ directly from the original MAMBA annotation, while the morphological annotation 
 based on the reannotation performed when incorporating Talbanken into the Swedish
 Treebank (Nivre and Megyesi, 2007). Tokenization mostly follows the standard of the
 Stockholm-Umeå Corpus, Version 2.0 (2006), and lemmatization is based on Saldo
-(Borin et al., 2008).
+(Borin et al., 2008), with some revisions to harmonize with other Swedish treebanks.
 
 ## Acknowledgments
 
 The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala
 University. A semi-automatic correction of features and lemmas was done by Victor
-Norrman and Joakim Nivre. We thank everyone who has been involved in previous
-conversion efforts at Växjö University and Uppsala University, including Bengt
-Dahlqvist, Sofia Gustafson-Capkova, Johan Hall, Anna Sågvall Hein, Beáta Megyesi,
-Jens Nilsson, and Filip Salomonsson. Special thanks also to Lars Borin and Markus
-Forsberg at Språkbanken for help with the lemmatization. Finally, we owe a huge
-debt to the team who produced the original treebank in the 1970s.
+Norrman and Joakim Nivre. Recent harmonization efforts were carried out in collaboration
+with Lars Ahrenberg, Aleksandrs Berdicevskis, and Adriana Masciolini. Recent work to
+improve the annotation has benefited greatly from discussions within UniDive
+(COST Action CA21167).
+
+We thank everyone who has been involved in previous conversion efforts at Växjö
+University and Uppsala University, including Bengt Dahlqvist, Sofia Gustafson-Capkova,
+Johan Hall, Anna Sågvall Hein, Beáta Megyesi, Jens Nilsson, and Filip Salomonsson.
+Special thanks also to Lars Borin and Markus Forsberg at Språkbanken for help with
+the lemmatization. Finally, we owe a huge debt to the team who produced the original
+treebank in the 1970s.
+
+Annotations for constructions according to the UCxn framework were added by Joakim
+Nivre and Victor Norrman.
+
+Annotations for multiword expressions according to the PARSEME framework were added
+by Sara Stymne, based on manual annotations by Astrid Berntsson Ingelstam,
+Sara Stymne, Eva Petterson, Stella Lundqvist, and Ida Nilsson.
 
 ## References
 
@@ -751,13 +763,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (11)</li>
-      <li>VERB-Fin--NOUN-Nom (2040)</li>
+      <li>VERB-Fin--NOUN-Nom (2041)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(till) (2)</li>
-      <li>VERB-Fin--PRON (1053)</li>
+      <li>VERB-Fin--PRON (1052)</li>
       <li>VERB-Fin--PRON-Nom (1027)</li>
       <li>VERB-Inf--NOUN (1)</li>
       <li>VERB-Inf--NOUN-Nom (489)</li>
-      <li>VERB-Inf--PRON (192)</li>
+      <li>VERB-Inf--PRON (185)</li>
       <li>VERB-Inf--PRON-Nom (506)</li>
       <li>VERB-Sup--NOUN (3)</li>
       <li>VERB-Sup--NOUN-Nom (272)</li>

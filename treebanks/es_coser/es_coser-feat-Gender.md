@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-2052 tokens (25%) have a non-empty value of `Gender`.
+2053 tokens (25%) have a non-empty value of `Gender`.
 743 types (49%) occur at least once with a non-empty value of `Gender`.
-602 lemmas (58%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 9 part-of-speech tags: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (886; 11% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (692; 9% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (292; 4% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (127; 2% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (46; 1% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-X.html">X</a></tt> (1; 0% instances).
+593 lemmas (58%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 9 part-of-speech tags: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (886; 11% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (692; 9% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (292; 4% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (128; 2% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (46; 1% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 * `Fem` (430; 49% of non-empty `Gender`): <em>gente, casa, cosas, cosa, leche, madre, misa, vez, agua, tierra</em>
 * `Masc` (456; 51% of non-empty `Gender`): <em>años, días, día, pueblo, hijos, marido, ejemplo, aceite, año, cerdo</em>
-* `EMPTY` (41): <em>mejor, fin, vez, mano, pesetas, Avena, Tal, abril, agosto, año</em>
+* `EMPTY` (40): <em>mejor, fin, vez, mano, pesetas, Avena, Tal, abril, agosto, año</em>
 
 <table>
   <tr><th>Paradigm <i>hijo</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 692 <tt><a href="es_coser-pos-DET.html">DET</a></tt> tokens (94% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="es_coser-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (562; 81%), <tt><a href="es_coser-feat-Number.html">Number</a></tt><tt>=Sing</tt> (533; 77%), <tt><a href="es_coser-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (425; 61%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="es_coser-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (563; 81%), <tt><a href="es_coser-feat-Number.html">Number</a></tt><tt>=Sing</tt> (533; 77%), <tt><a href="es_coser-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (425; 61%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -74,23 +74,21 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `ADJ`
 
-127 <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> tokens (73% of all `ADJ` tokens) have a non-empty value of `Gender`.
+128 <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> tokens (73% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="es_coser-feat-Number.html">Number</a></tt><tt>=Sing</tt> (104; 82%), <tt><a href="es_coser-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (100; 79%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="es_coser-feat-Number.html">Number</a></tt><tt>=Sing</tt> (105; 82%), <tt><a href="es_coser-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (102; 80%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Fem` (41; 32% of non-empty `Gender`): <em>buena, apretás, pequeña, sola, viejas, ancha, baja, blanca, buenas, cerrás</em>
-* `Masc` (86; 68% of non-empty `Gender`): <em>buen, bueno, criollo, mismo, Enrazao, alto, bonito, duro, enterrao, espesito</em>
-* `EMPTY` (46): <em>grande, natural, diferente, joven, igual, mayor, Fenomenal, acotumago, amables, buen</em>
+* `Masc` (87; 68% of non-empty `Gender`): <em>buen, bueno, criollo, mismo, Enrazao, San, alto, bonito, duro, enterrao</em>
+* `EMPTY` (48): <em>grande, natural, diferente, joven, igual, mayor, Fenomenal, acotumago, amables, buen</em>
 
 <table>
-  <tr><th>Paradigm <i>primero</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt></tt></td><td></td><td><em>primera</em></td></tr>
-  <tr><td><tt><tt><a href="es_coser-feat-NumType.html">NumType</a></tt><tt>=Ord</tt></tt></td><td><em>primer, primero</em></td><td></td></tr>
+  <tr><th>Paradigm <i>buen</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="es_coser-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>buen, bueno</em></td><td><em>buena</em></td></tr>
+  <tr><td><tt><tt><a href="es_coser-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>buenos</em></td><td><em>buenas</em></td></tr>
 </table>
-
-`Gender` seems to be **lexical feature** of `ADJ`. 97% lemmas (88) occur only with one value of `Gender`.
 
 ### `VERB`
 
@@ -130,12 +128,12 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 ### `PROPN`
 
-1 <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Gender`.
+1 <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt> tokens (2% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
 `PROPN` tokens may have the following values of `Gender`:
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>Munguí</em>
-* `EMPTY` (67): <em>NP, Pamplona, España, Madrid, San, virgen, Alemania, Ana, Arroa, Bolívar</em>
+* `EMPTY` (65): <em>NP, Pamplona, España, Madrid, virgen, Alemania, Ana, Arroa, Bolívar, Cargadero</em>
 
 ### `X`
 
@@ -150,13 +148,13 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> DET</tt> (548; 90%),
-<tt>NOUN --[<tt><a href="es_coser-dep-amod.html">amod</a></tt>]--> ADJ</tt> (42; 68%),
-<tt>NOUN --[<tt><a href="es_coser-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (38; 54%),
+<tt>NOUN --[<tt><a href="es_coser-dep-amod.html">amod</a></tt>]--> ADJ</tt> (41; 66%),
+<tt>NOUN --[<tt><a href="es_coser-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (40; 55%),
 <tt>DET --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> DET</tt> (15; 100%),
 <tt>ADJ --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> DET</tt> (14; 88%),
 <tt>PRON --[<tt><a href="es_coser-dep-det.html">det</a></tt>]--> DET</tt> (10; 53%),
 <tt>PRON --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (9; 100%),
-<tt>NOUN --[<tt><a href="es_coser-dep-obl.html">obl</a></tt>]--> NOUN</tt> (8; 57%),
 <tt>NOUN --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (7; 100%),
-<tt>DET --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (6; 55%).
+<tt>DET --[<tt><a href="es_coser-dep-reparandum.html">reparandum</a></tt>]--> DET</tt> (6; 55%),
+<tt>NOUN --[<tt><a href="es_coser-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (6; 60%).
 

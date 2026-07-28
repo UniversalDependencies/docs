@@ -24,9 +24,9 @@ The following 19 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 15 14 acl	color:blue
 1	同僚教師	同僚教師	NOUN	名詞-普通名詞-一般	_	3	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ドウリョウ;キョウシ,同僚;教師,同僚;教師,同僚;教師,ドーリョー;キョーシ,;,;,ドウリョウ;キョウシ,ドウリョウキョウシ,同僚教師
 2	の	の	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ノ,の,の,の,ノ,,,ノ,ノ,の
-3	すみれ	すみれ	PROPN	名詞-固有名詞-人名-名	_	5	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=スミレ,スミレ,すみれ,すみれ,スミレ,,,スミレ,スミレ,すみれ
+3	すみれ	すみれ	PROPN	名詞-固有名詞-人名-名	_	10	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=スミレ,スミレ,すみれ,すみれ,スミレ,,,スミレ,スミレ,すみれ
 4	と	と	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
-5	彩	彩	PROPN	名詞-固有名詞-人名-名	_	10	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=アヤ,アヤ,彩,彩,アヤ,,,アヤ,アヤ,彩
+5	彩	彩	PROPN	名詞-固有名詞-人名-名	_	3	conj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=アヤ,アヤ,彩,彩,アヤ,,,アヤ,アヤ,彩
 6	は	は	ADP	助詞-係助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ハ,は,は,は,ワ,,,ハ,ハ,は
 7	そんな	そんな	PRON	連体詞	_	8	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ソンナ,そんな,そんな,そんな,ソンナ,,,ソンナ,ソンナ,そんな
 8	夕子	夕子	PROPN	名詞-固有名詞-人名-名	_	10	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ユウコ,ユウコ,夕子,夕子,ユーコ,,,ユウコ,ユウコ,夕子
@@ -55,9 +55,9 @@ The following 19 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 3 1 acl	color:blue
 1	多彩	多彩	ADJ	形状詞-一般	_	3	acl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=タサイ,多彩,多彩,多彩,タサイ,,,タサイ,タサイ,多彩
 2	な	だ	AUX	助動詞-助動詞-ダ	_	1	aux	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ダ,だ,な,だ,ナ,,,ダ,ダ,だ
-3	ライブアクト	ライブアクト	NOUN	名詞-普通名詞-一般	_	5	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ライブ;アクト,ライブ;アクト,ライブ;アクト,ライブ;アクト,ライブ;アクト,;,;,ライブ;アクト,ライブアクト,ライブアクト
+3	ライブアクト	ライブアクト	NOUN	名詞-普通名詞-一般	_	14	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ライブ;アクト,ライブ;アクト,ライブ;アクト,ライブ;アクト,ライブ;アクト,;,;,ライブ;アクト,ライブアクト,ライブアクト
 4	と	と	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
-5	とも	共	NOUN	名詞-普通名詞-一般	_	14	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=トモ,共,とも,とも,トモ,,,トモ,トモ,共
+5	とも	共	NOUN	名詞-普通名詞-一般	_	3	conj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=トモ,共,とも,とも,トモ,,,トモ,トモ,共
 6	に	に	ADP	助詞-格助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ニ,に,に,に,ニ,,,ニ,ニ,に
 7	、	、	PUNCT	補助記号-読点	_	5	punct	_	BunsetuBILabel=I|BunsetuPositionType=CONT|SpaceAfter=No|UnidicInfo=,、,、,、,,,,,,、
 8	祝日前	祝日前	NOUN	名詞-普通名詞-一般	_	12	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=シュクジツ;マエ,祝日;前,祝日;前,祝日;前,シュクジツ;マエ,;,;,シュクジツ;マエ,シュクジツマエ,祝日前

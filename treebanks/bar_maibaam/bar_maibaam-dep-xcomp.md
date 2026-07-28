@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-69 nodes (0%) are attached to their parents as `xcomp`.
+65 nodes (0%) are attached to their parents as `xcomp`.
 
-50 instances of `xcomp` (72%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.71014492753623.
+47 instances of `xcomp` (72%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.44615384615385.
 
-The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> (45; 65% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> (9; 13% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> (8; 12% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt> (3; 4% instances), <tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 8 pairs of parts of speech are connected with `xcomp`: <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> (42; 65% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt> (9; 14% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt> (7; 11% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

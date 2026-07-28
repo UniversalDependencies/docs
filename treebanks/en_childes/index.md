@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Xiulin Yang, Zhuoxuan Ju, Lanni Bu, Zoey Liu, Nathan Schneider.
 
 Repository: [UD_English-CHILDES](https://github.com/UniversalDependencies/UD_English-CHILDES)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_childes217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_childes218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 

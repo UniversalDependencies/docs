@@ -10,4 +10,4 @@ Boolean feature. Is this an abbreviation?
 ### <a name="Yes">`Yes`</a>: it is abbreviation
 
 Examples: [sv] _<b>t.ex.</b>, <b>ca</b>_
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:59 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:40 CEST -->

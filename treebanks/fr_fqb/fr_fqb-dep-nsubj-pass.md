@@ -32,7 +32,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	logement	logement	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 9	si	si	SCONJ	_	_	11	mark	_	_
-10	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+10	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
 11	vis	vivre	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 12	en	en	ADP	_	_	13	case	_	_
 13	couple	couple	NOUN	_	Number=Sing	11	obl:mod	_	_
@@ -52,7 +52,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	J.	J.	PROPN	_	_	2	flat:name	_	_
 4	Famalaro	Famalaro	PROPN	_	_	2	flat:name	_	_
 5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	SpaceAfter=No
-6	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	_
+6	-il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	_
 7	accusé	accuser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 8	d'	de	ADP	_	_	10	mark	_	SpaceAfter=No
 9	avoir	avoir	AUX	_	VerbForm=Inf	10	aux:tense	_	_

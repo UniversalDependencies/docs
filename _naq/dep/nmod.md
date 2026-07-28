@@ -24,4 +24,4 @@ case(Amob, (di))
 nmod:poss(book, Amos)
 case(Amos, ('s))
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:05 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:16 CEST -->

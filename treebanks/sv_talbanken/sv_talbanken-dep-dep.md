@@ -22,9 +22,9 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 6 dep	color:blue
-1	Lägg	lägga	VERB	VB|IMP|AKT	Mood=Imp|VerbForm=Fin|Voice=Act	0	root	0:root	_
-2	märke	märke	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	compound:prt	1:compound:prt	_
-3	till	till	ADP	PP	_	5	case	5:case	SpaceAfter=No
+1	Lägg	lägga	VERB	VB|IMP|AKT	Mood=Imp|VerbForm=Fin|Voice=Act	0	root	0:root	ParsemeMWE=1:NotMWE;2:VID
+2	märke	märke	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	1	compound:prt	1:compound:prt	ParsemeMWE=1;2
+3	till	till	ADP	PP	_	5	case	5:case	SpaceAfter=No|ParsemeMWE=2
 4	:	:	PUNCT	MID	_	5	punct	5:punct	_
 5	för	för	ADP	PP	_	1	obl	1:obl:till	_
 6	att	att	PART	IE	_	5	dep	5:dep	SpaceAfter=No

@@ -21,5 +21,5 @@ The feature is used with 1 part-of-speech tags: <tt><a href="es_ancora-pos-PROPN
 `PROPN` tokens may have the following values of `Abbr`:
 
 * `Yes` (1; 100% of non-empty `Abbr`): <em>Inc</em>
-* `EMPTY` (42388): <em>Gobierno, España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados</em>
+* `EMPTY` (41324): <em>España, Madrid, Barcelona, José, Estado, PP, Juan, Nacional, Estados, Aznar</em>
 

@@ -18,4 +18,4 @@ The nmod:nisba relation is used for a nominal dependent of a nisba adjective use
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:03 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:19 CEST -->

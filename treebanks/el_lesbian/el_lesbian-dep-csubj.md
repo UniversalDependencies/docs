@@ -29,8 +29,8 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 5	μαγειρέψιν	μαγειρεύγου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	3	advcl	_	_
 6	κουμάτ	κουμμάτ	ADV	_	Typo=Yes	5	advmod	_	CorrectForm=κουμμάτ
 7	φαγί	φαγί	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
-8	λαδουμένου	λαδουμένους	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	7	amod	_	_
-9	.	.	PUNCT	_	_	1	punct	_	_
+8	λαδουμένου	λαδουμένους	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 
@@ -45,7 +45,7 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	λέγου	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	πους	πους	SCONJ	_	_	6	mark	_	_
 4	δεν	δεν	PART	_	Polarity=Neg	6	advmod	_	_
-5	ένι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	cop	_	_
+5	ένι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 6	σουστό	σουστός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	2	ccomp	_	_
 7	να	να	SCONJ	_	_	8	mark	_	_
 8	γλιντούμι	γλιντώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	csubj	_	_
@@ -53,8 +53,8 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 10	τουν	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	καημό	καημός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
 12	τ’	η	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	αλλουνού	άλλους	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Int	11	nmod	_	_
-14	.	.	PUNCT	_	_	2	punct	_	_
+13	αλλουνού	άλλους	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Int	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -69,27 +69,27 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 2	μωρό	μουρό	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	_
 3	χρόνια	χρόνους	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	4	obl	_	_
 4	φορούσα	φουρώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	μαύρα	μαύρους	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
-6	,	,	PUNCT	_	_	7	punct	_	_
+5	μαύρα	μαύρους	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	SpaceAfter=No
+6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
 7	έπρεπε	πρέπ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
 8	να	να	SCONJ	_	_	9	mark	_	_
 9	φουρώ	φουρώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	_
 10	τσαι	τσι	CCONJ	_	_	12	cc	_	_
 11	το	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
-12	βρατσί	βρατσί	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
-13	,	,	PUNCT	_	_	15	punct	_	_
+12	βρατσί	βρατσί	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	SpaceAfter=No
+13	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 14	του	ιγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
 15	λέγαμι	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
-16	‘μείς	ιγώ	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	_
-17	,	,	PUNCT	_	_	21	punct	_	_
+16	‘μείς	ιγώ	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	SpaceAfter=No
+17	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 18	τσαι	τσι	CCONJ	_	_	21	cc	_	_
 19	το	η	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	_
 20	βρατσί	βρατσί	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	21	dislocated	_	_
 21	έπρεπε	πρέπ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	_
 22	να	να	SCONJ	_	_	24	mark	_	_
-23	είναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	24	cop	_	_
-24	μαύρο	μαύρους	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	21	csubj	_	_
-25	.	.	PUNCT	_	_	4	punct	_	_
+23	είναι	είμι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
+24	μαύρο	μαύρους	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	21	csubj	_	SpaceAfter=No
+25	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 ~~~
 

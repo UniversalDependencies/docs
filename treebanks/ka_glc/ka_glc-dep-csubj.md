@@ -47,7 +47,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 3	იმ	ის	PRON	Pron	Case=Dat|Number=Sing|Person=3|PronType=Dem	4	det	_	Translit=im
 4	პერიოდ	პერიოდი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	6	obl	_	Translit=period
 5	ში	ში	ADP	Post	AdpType=Post|Case=Dat	4	case	_	Translit=ši
-6	დადგინდა	დგინდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=dadginda
+6	დადგინდა	ადგენს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=dadginda
 7	,	,	PUNCT	F	PunctType=Comm	17	punct	_	Translit=,
 8	რომ	რომ	SCONJ	Conj	_	17	mark	_	Translit=rom
 9	დედამიწა	დედამიწა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	17	nsubj	_	Translit=dedamica
@@ -58,7 +58,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 14	განსხვავებული	განსხვავებული	ADJ	Adj	Case=Gen|Number=Sing	15	amod	_	Translit=gansxvavebuli
 15	მატერიისა	მატერია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	obl	_	Translit=materiisa
 16	გან	გან	ADP	Post	AdpType=Post|Case=Gen	15	case	_	Translit=gan
-17	შედგებოდა	დგას	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Act	6	csubj	_	SpaceAfter=No|Translit=šedgeboda
+17	შედგებოდა	დგას	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	6	csubj	_	SpaceAfter=No|Translit=šedgeboda
 18	,	,	PUNCT	F	PunctType=Comm	21	punct	_	Translit=,
 19	ვიდრე	ვიდრე	SCONJ	Conj	_	21	mark	_	Translit=vidre
 20	დედამიწური	დედამიწური	ADJ	Adj	Case=Nom|Number=Sing	21	amod	_	Translit=dedamicuri

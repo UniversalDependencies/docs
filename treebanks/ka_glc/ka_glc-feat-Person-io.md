@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 571 tokens (1%) have a non-empty value of `Person[io]`.
 291 types (2%) occur at least once with a non-empty value of `Person[io]`.
-198 lemmas (2%) occur at least once with a non-empty value of `Person[io]`.
+182 lemmas (2%) occur at least once with a non-empty value of `Person[io]`.
 The feature is used with 1 part-of-speech tags: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (571; 1% instances).
 
 ### `VERB`
@@ -26,11 +26,11 @@ The most frequent other feature values with which `VERB` and `Person[io]` co-occ
 
 
 <table>
-  <tr><th>Paradigm <i>ჩნდება</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="ka_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ka_glc-feat-Number-io.html">Number[io]</a></tt><tt>=Sing</tt>|<tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=1</tt>|<tt><a href="ka_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>მიაჩნდეს</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ka_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=3</tt>|<tt><a href="ka_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>უჩნდება</em></td></tr>
-  <tr><td><tt><tt><a href="ka_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=3</tt>|<tt><a href="ka_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>გააჩნდეს, აღმოჩნდეს</em></td></tr>
+  <tr><th>Paradigm <i>ადგენს</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="ka_glc-feat-Number-io.html">Number[io]</a></tt><tt>=Plur</tt>|<tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=1</tt>|<tt><a href="ka_glc-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt>|<tt><a href="ka_glc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt>|<tt><a href="ka_glc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>წარმოგვიდგინა</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=3</tt>|<tt><a href="ka_glc-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="ka_glc-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>დადგინდეს</em></td></tr>
+  <tr><td><tt><tt><a href="ka_glc-feat-Person-io.html">Person[io]</a></tt><tt>=3</tt>|<tt><a href="ka_glc-feat-Subcat.html">Subcat</a></tt><tt>=Intr</tt>|<tt><a href="ka_glc-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>დადგინდეს</em></td></tr>
 </table>
 
-`Person[io]` seems to be **lexical feature** of `VERB`. 98% lemmas (194) occur only with one value of `Person[io]`.
+`Person[io]` seems to be **lexical feature** of `VERB`. 97% lemmas (176) occur only with one value of `Person[io]`.
 

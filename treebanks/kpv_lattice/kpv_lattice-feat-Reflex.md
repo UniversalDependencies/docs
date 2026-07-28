@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-47 tokens (1%) have a non-empty value of `Reflex`.
+48 tokens (1%) have a non-empty value of `Reflex`.
 21 types (1%) occur at least once with a non-empty value of `Reflex`.
 1 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (43; 1% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (4; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (44; 1% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (4; 0% instances).
 
 ### `PRON`
 
-43 <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> tokens (8% of all `PRON` tokens) have a non-empty value of `Reflex`.
+44 <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> tokens (8% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (37; 86%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (44; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (43; 100% of non-empty `Reflex`): <em>ас, аслас, ачым, ачыс, асьсӧ, асланым, ассьыныс, ассьыс, ачымӧс, Асьныд</em>
-* `EMPTY` (491): <em>сійӧ, тайӧ, ме, сы, ми, мый, сійӧс, найӧ, тэ, быд</em>
+* `Yes` (44; 100% of non-empty `Reflex`): <em>ас, аслас, ачым, ачыс, асьсӧ, асланым, ассьыныс, ассьыс, ачымӧс, Асьныд</em>
+* `EMPTY` (494): <em>сійӧ, тайӧ, ме, сы, ми, мый, сійӧс, найӧ, тэ, быд</em>
 
 ### `DET`
 
@@ -34,5 +34,5 @@ The most frequent other feature values with which `DET` and `Reflex` co-occurred
 `DET` tokens may have the following values of `Reflex`:
 
 * `Yes` (4; 100% of non-empty `Reflex`): <em>ас</em>
-* `EMPTY` (47): <em>став, уна, некутшӧм, татшӧм, коймӧдъяс, мӧд, мӧдъяс, ниӧти, ставыс, Кымынкӧ</em>
+* `EMPTY` (48): <em>уна, став, некутшӧм, татшӧм, коймӧдъяс, мӧд, мӧдъяс, ниӧти, ставыс, Кымынкӧ</em>
 

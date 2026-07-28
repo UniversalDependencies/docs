@@ -6,28 +6,25 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-FQB: POS Tags: `NUM`
 
-There are 67 `NUM` lemmas (2%), 67 `NUM` types (2%) and 116 `NUM` tokens (0%).
+There are 67 `NUM` lemmas (2%), 67 `NUM` types (2%) and 117 `NUM` tokens (0%).
 Out of 16 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 13 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>deux, 1994, 1993, 1989, 1990, 1991, 1992, 1988, 10, 1929</em>
 
 The 10 most frequent `NUM` types:  <em>deux, 1994, 1993, 1989, 1990, 1991, 1992, 1988, 10, 1929</em>
 
-The 10 most frequent ambiguous lemmas: <em>2000</em> (<tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> 1, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 1), <em>cent</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>cent</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>2000</em> (<tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> 1, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 1), <em>cent</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>cent</em> (<tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> 1)
 
 
-* <em>2000</em>
-  * <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> 1: <em>À quel chef d' État fut décerné le prix Nobel de la paix en <b>2000</b> ?</em>
-  * <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 1: <em>Quand le Dow a -t-il atteint <b>2000</b> pour la première fois ?</em>
 * <em>cent</em>
   * <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 2: <em>De qui est la tête figurant sur le 10 <b>cent</b> ?</em>
   * <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> 1: <em>Quelle ville écossaise mythique apparaît une journée tous les <b>cent</b> ans ?</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.165243).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.169482).
 
 The 1st highest number of forms (1) was observed with the lemma “1”: <em>1</em>.
 
@@ -35,22 +32,22 @@ The 2nd highest number of forms (1) was observed with the lemma “10”: <em>10
 
 The 3rd highest number of forms (1) was observed with the lemma “100”: <em>100</em>.
 
-`NUM` occurs with 2 features: <tt><a href="fr_fqb-feat-NumType.html">NumType</a></tt> (115; 99% instances), <tt><a href="fr_fqb-feat-Foreign.html">Foreign</a></tt> (1; 1% instances)
+`NUM` occurs with 3 features: <tt><a href="fr_fqb-feat-NumType.html">NumType</a></tt> (116; 99% instances), <tt><a href="fr_fqb-feat-ExtPos.html">ExtPos</a></tt> (1; 1% instances), <tt><a href="fr_fqb-feat-Foreign.html">Foreign</a></tt> (1; 1% instances)
 
-`NUM` occurs with 2 feature-value pairs: `Foreign=Yes`, `NumType=Card`
+`NUM` occurs with 3 feature-value pairs: `ExtPos=PRON`, `Foreign=Yes`, `NumType=Card`
 
-`NUM` occurs with 3 feature combinations.
+`NUM` occurs with 4 feature combinations.
 The most frequent feature combination is `NumType=Card` (114 tokens).
 Examples: <em>deux, 1994, 1993, 1989, 1990, 1991, 1992, 1988, 10, 1929</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 4 different relations: <tt><a href="fr_fqb-dep-obl-mod.html">obl:mod</a></tt> (57; 49% instances), <tt><a href="fr_fqb-dep-nummod.html">nummod</a></tt> (50; 43% instances), <tt><a href="fr_fqb-dep-nmod.html">nmod</a></tt> (8; 7% instances), <tt><a href="fr_fqb-dep-obj.html">obj</a></tt> (1; 1% instances)
+`NUM` nodes are attached to their parents using 4 different relations: <tt><a href="fr_fqb-dep-obl-mod.html">obl:mod</a></tt> (57; 49% instances), <tt><a href="fr_fqb-dep-nummod.html">nummod</a></tt> (50; 43% instances), <tt><a href="fr_fqb-dep-nmod.html">nmod</a></tt> (8; 7% instances), <tt><a href="fr_fqb-dep-obj.html">obj</a></tt> (2; 2% instances)
 
-Parents of `NUM` nodes belong to 4 different parts of speech: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (60; 52% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (48; 41% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (2; 2% instances)
+Parents of `NUM` nodes belong to 4 different parts of speech: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (60; 51% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (49; 42% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (6; 5% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (2; 2% instances)
 
-54 (47%) `NUM` nodes are leaves.
+55 (47%) `NUM` nodes are leaves.
 
 57 (49%) `NUM` nodes have one child.
 

@@ -11,7 +11,7 @@ It occurs with 2 different values: `Card`, `Ord`.
 
 135 tokens (2%) have a non-empty value of `NumType`.
 53 types (4%) occur at least once with a non-empty value of `NumType`.
-41 lemmas (4%) occur at least once with a non-empty value of `NumType`.
+40 lemmas (4%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 4 part-of-speech tags: <tt><a href="es_coser-pos-NUM.html">NUM</a></tt> (91; 1% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt> (33; 0% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt> (5; 0% instances).
 
 ### `NUM`
@@ -46,7 +46,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (6; 100% of non-empty `NumType`): <em>segundo, primer, primero, segunda, último</em>
-* `EMPTY` (167): <em>grande, buen, buena, bueno, natural, criollo, diferente, joven, mismo, Enrazao</em>
+* `EMPTY` (170): <em>grande, buen, buena, bueno, natural, criollo, diferente, joven, mismo, Enrazao</em>
 
 ### `PRON`
 

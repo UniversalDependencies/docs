@@ -14,4 +14,4 @@ A special usage of `X` is for cases of code-switching where it is not possible (
 ### Example
 
 - 佢 突然 話 ：「<b>lkjwe ashwi oiucs</b>」 / _keoi5 dat6jin4 waa6：「lkjwe ashwi oiucs」_ "He suddenly said, 'lkjwe ashwi oiucs'."
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:58 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:40 CEST -->

@@ -28,7 +28,7 @@ The following 40 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	Entity=(74-abstract-new-nnnnn-cf4-2-coref
 4	mile	mile	NOUN	NN	Number=Sing	7	obl:unmarked	7:obl:unmarked	Entity=74)
 5	or	or	CCONJ	CC	_	6	cc	6:cc	_
-6	two	two	NUM	CD	NumForm=Word|NumType=Card	4	conj	4:conj:or|7:obl:unmarked	Bridge=74<75|Entity=(75-abstract-acc:inf-nnnnn-cf2-1-sgl)
+6	two	two	NUM	CD	NumForm=Word|NumType=Card	4	conj	4:conj:or|7:obl:unmarked	Bridge=74<75:comparison-sense|Entity=(75-abstract-acc:inf-nnnnn-cf2-1-sgl)
 7	away	away	ADV	RB	Degree=Pos	2	advmod	2:advmod	MSeg=a-way|SpaceAfter=No
 8	,	,	PUNCT	,	_	12	punct	12:punct	_
 9	in	in	ADP	IN	_	12	case	12:case	_

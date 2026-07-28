@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="tr_tuecl-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.501916).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.503846).
 
 The 1st highest number of forms (1) was observed with the lemma “ama”: <em>ama</em>.
 
@@ -32,7 +32,13 @@ The 2nd highest number of forms (1) was observed with the lemma “ne”: <em>ne
 
 The 3rd highest number of forms (1) was observed with the lemma “ve”: <em>ve</em>.
 
-`CCONJ` does not occur with any features.
+`CCONJ` occurs with 1 features: <tt><a href="tr_tuecl-feat-ExtPos.html">ExtPos</a></tt> (1; 7% instances)
+
+`CCONJ` occurs with 1 feature-value pairs: `ExtPos=CCONJ`
+
+`CCONJ` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (13 tokens).
+Examples: <em>ama, ve, Ne, yoksa</em>
 
 
 ## Relations

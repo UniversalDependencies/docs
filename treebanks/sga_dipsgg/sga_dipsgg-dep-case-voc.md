@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="sga_dipsgg-dep-case
 5 instances of `case:voc` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.4.
 
-The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (2; 40% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (2; 40% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 20% instances).
+The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (3; 60% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 20% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -31,6 +31,19 @@ The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a h
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 case:voc	color:blue
+1	a	a	PART	_	PartType=Voc	2	case:voc	_	SpaceAfter=No
+2	thv	tú	PRON	_	Number=Sing|Person=2|PronType=Prs	0	root	_	SpaceAfter=No
+3	sv	so	PRON	_	Number=Sing|Person=2|PronType=Emp	2	amod	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
@@ -43,19 +56,6 @@ The following 3 pairs of parts of speech are connected with `case:voc`: <tt><a h
 5	aithne	aithne	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 6	a	a	PART	_	PartType=Voc	7	case:voc	_	SpaceAfter=No
 7	máelecán	maellecan	PROPN	_	Case=Voc|Number=Sing	1	vocative	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 case:voc	color:blue
-1	a	a	PART	_	PartType=Voc	2	case:voc	_	SpaceAfter=No
-2	thv	tú	PRON	_	Number=Sing|Person=2|PronType=Prs	0	root	_	SpaceAfter=No
-3	sv	so	PRON	_	Number=Sing|Person=2|PronType=Emp	2	amod	_	_
 
 ~~~
 

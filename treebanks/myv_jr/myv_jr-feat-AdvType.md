@@ -9,26 +9,26 @@ udver: '2'
 This feature is language-specific.
 It occurs with 7 different values: `Deg`, `Ideoph`, `Loc`, `Man`, `Mod`, `Sta`, `Tim`.
 
-1051 tokens (5%) have a non-empty value of `AdvType`.
+1053 tokens (5%) have a non-empty value of `AdvType`.
 263 types (4%) occur at least once with a non-empty value of `AdvType`.
 184 lemmas (6%) occur at least once with a non-empty value of `AdvType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (876; 4% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (126; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (29; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (20; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (878; 4% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (126; 1% instances), <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (29; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (20; 0% instances).
 
 ### `ADV`
 
-876 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (52% of all `ADV` tokens) have a non-empty value of `AdvType`.
+878 <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> tokens (52% of all `ADV` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (758; 87%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (720; 82%).
+The most frequent other feature values with which `ADV` and `AdvType` co-occurred: <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (760; 87%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (722; 82%).
 
 `ADV` tokens may have the following values of `AdvType`:
 
-* `Deg` (81; 9% of non-empty `AdvType`): <em>пек, вельть, тунь, кода, самай, байтяк</em>
+* `Deg` (82; 9% of non-empty `AdvType`): <em>пек, вельть, тунь, кода, самай, байтяк</em>
 * `Ideoph` (9; 1% of non-empty `AdvType`): <em>тяп-ляп, Чикорк, дубушки, жой, лоцьк, општ, тарск, дуборсо</em>
 * `Loc` (123; 14% of non-empty `AdvType`): <em>икелев, мекев, васоло, васов, пелев, тесэ, потс, тов, алов, верев</em>
 * `Man` (183; 21% of non-empty `AdvType`): <em>истя, кода, парсте, кодаяк, нусманясто, мазыйстэ, кеместэ, стамбарнэ, кода-бути, Видестэ</em>
 * `Mod` (21; 2% of non-empty `AdvType`): <em>паряк, нама, Эно</em>
 * `Sta` (20; 2% of non-empty `AdvType`): <em>ласте, озадо, нусманясто, панжадо, пульзядо, ялго, ялгояк</em>
-* `Tim` (439; 50% of non-empty `AdvType`): <em>мейле, ней, уш, яла, курок, эщо, таго, зярдо, умок, икеле</em>
+* `Tim` (440; 50% of non-empty `AdvType`): <em>ней, мейле, уш, яла, курок, эщо, таго, зярдо, умок, икеле</em>
 
 <table>
   <tr><th>Paradigm <i>кода</i></th><th><tt>Deg</tt></th><th><tt>Man</tt></th><th><tt>Tim</tt></th></tr>

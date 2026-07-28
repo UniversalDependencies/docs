@@ -48,4 +48,4 @@ The `expl` relation is not used in Naija. Instead, we use the `nsubj:expl` subre
 Note : not all _im get_ constructions use expletive subjects. When the pronoun has an antecedent, the `nsubj` relation is used as usual.
 
 + _sey <b>person wey neva see money take chop now</b> na im you come say make im come go start. <b>im</b> get money start better business._
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:14 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:24 CEST -->

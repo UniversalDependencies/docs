@@ -9,30 +9,28 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-xcomp.html">xcomp</a></tt>.
 There are also 1 other language-specific subtypes of `xcomp`: <tt><a href="ab_abnc-dep-xcomp-subj.html">xcomp:subj</a></tt>.
 
-34 nodes (0%) are attached to their parents as `xcomp:lo`.
+47 nodes (0%) are attached to their parents as `xcomp:lo`.
 
-34 instances of `xcomp:lo` (100%) are right-to-left (child precedes parent).
+47 instances of `xcomp:lo` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `xcomp:lo`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (34; 100% instances).
+The following 1 pairs of parts of speech are connected with `xcomp:lo`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (47; 100% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 xcomp:lo	color:blue
-1	Уи	уи́	PRON	Pron_Dem_Dist_Sg	Number=Sing|PronType=Dem	3	obj	_	LMSeg:уи́
-2	схы	а-хы́	NOUN	Noun_NH_Sg_Poss:1Sg	Animacy=Nhum|Number=Sing|Number[psor]=Sing|Person[psor]=1	3	iobj	_	LMSeg:а-хы́
-3	иархәаны	а́-рхәара	VERB	V_Dyn_Intr_Caus_NonFin_Cnv_Abs_Aor_DO:3_IO:3SgNH	Dyn=Yes|Gender[io]=Neut|Number[io]=Sing|Person[io]=3|Person[obj]=3|Subcat=Intr|Tense=Aor|VerbForm=NonFin|Voice=Cau	9	advcl:conv	_	LMSeg:а́-р:хәа-ра
-4	смыццакӡакәа	а́-ццакра	VERB	V_Dyn_Intr_NonFin_Cnv_Abs_Aor_Neg_Emph_S:1Sg	Dyn=Yes|Number[subj]=Sing|Person[subj]=1|Polarity=Neg|Subcat=Intr|Tense=Aor|VerbForm=NonFin	9	advcl:conv	_	LMSeg:а́-ццак-ра
-5	зегьы	зегьы́	PRON	Pron_Quant	_	8	obj	_	LMSeg:зегьы́
-6	аахтны	аахтны́	ADV	Adv_S:Ad	_	8	advmod	_	LMSeg:аахтны́
-7	ашәҟәы	а-шәҟәы́	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	8	iobj:lo	_	LMSeg:а-шәҟәы́
-8	анҵара	а-нҵара́	VERB	VN_Dyn_Sg_Det_Tr_[LO:3SgNH]	Definite=Def|Dyn=Yes|Gender[lo]=Neut|Number=Sing|Number[lo]=Sing|Person[lo]=3|Subcat=Tran|VerbForm=Vnoun	9	xcomp:lo	_	LMSeg:а-н·ҵа-ра́
-9	саҿуп	а-ҿы́заара	VERB	V_Stat_Fin_Pres_S:1Sg_LO:3SgNH	Dyn=No|Gender[lo]=Neut|Mood=Ind|Number[lo]=Sing|Number[subj]=Sing|Person[lo]=3|Person[subj]=1|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:а-ҿы́-заа-ра|SpaceAfter=No
-10	.	.	PUNCT	Punct_Period	_	9	punct	_	LMSeg:.
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 xcomp:lo	color:blue
+1	Дшыҿаа-ҿаауаз	а́-ҿаа-ҿаара	VERB	V_Dyn_Intr_NonFin_Cnv_Impf_How_S:3SgH	Dyn=Yes|Gender[subj]=Com|Number[subj]=Sing|Person[subj]=3|RelType=Mnr|Subcat=Intr|Tense=Imp|VerbForm=NonFin	2	advcl	_	LMSeg:а́-ҿаа-ҿаа-ра
+2	дгәыҕьуан	а-гәы́ҕьра	VERB	V_Dyn_Intr_Fin_Impf_S:3SgH	Dyn=Yes|Gender[subj]=Com|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а-гәы́ҕь-ра|SpaceAfter=No
+3	,	,	PUNCT	Punct_Comma	_	7	punct	_	LMSeg:,
+4	нас	нас	ADV	Adv	_	7	advmod	_	LMSeg:нас
+5	еиҭа	еиҭа́	ADV	Adv	_	6	advmod	_	LMSeg:еиҭа́
+6	аҳәҳәара	а́-ҳәҳәара	VERB	VN_Dyn_Sg_Det_Intr	Definite=Def|Dyn=Yes|Number=Sing|Subcat=Intr|VerbForm=Vnoun	7	xcomp:lo	_	LMSeg:а́-ҳәҳәа-ра
+7	далагон	а́-лагара	VERB	V_Dyn_Intr_Fin_Impf_S:3SgH_LO:SgNH	Dyn=Yes|Gender[subj]=Com|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin	2	conj	_	LMSeg:а́-ла·га-ра|SpaceAfter=No
+8	.	.	PUNCT	Punct_Period	_	2	punct	_	LMSeg:.
 
 ~~~
 

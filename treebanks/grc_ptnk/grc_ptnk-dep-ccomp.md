@@ -24,7 +24,7 @@ The following 13 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 2 6 ccomp	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_1.3
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_1.3
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_1.3
+3	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_1.3
 4	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=god|Ref=GEN_1.3|SpaceAfter=No
 5	·	·	PUNCT	_	_	6	punct	_	Ref=GEN_1.3
 6	γενηθήτω	γίνομαι	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	ccomp	_	Gloss=to-become,come-to-be|Ref=GEN_1.3

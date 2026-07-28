@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `conj`: <tt><a href=
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 conj	color:blue
-1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	Gloss=he|Hyperlemma=he|Root=*ḱís
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|Hyperlemma=he|Root=*ḱís
 2	ȝesohte	ȝesecan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=tried|Hyperlemma=seek|Root=*seh₂ǵ
 3	to	to	PART	TO	_	4	case	_	Gloss=to|Hyperlemma=to|Root=*de
 4	ȝesƿicanne	ȝesƿican	VERB	VB	Number=Sing|VerbForm=Inf	2	xcomp	_	Gloss=stop|Hyperlemma=geswican|Root=*sweyg

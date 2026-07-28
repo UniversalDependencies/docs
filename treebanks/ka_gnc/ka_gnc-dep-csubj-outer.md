@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `csubj:outer`: <tt><
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 11 csubj:outer	color:blue
-1	ყველა	ყველა	DET	A_Quant_Dat_Sg_PP_PP:ზე	Case=Dat|Number=Sing	3	advmod	_	LMSeg:ყველა|SpaceAfter=No
+1	ყველა	ყველა	DET	A_Quant_Dat_Sg_PP_PP:ზე	Case=Dat|Number=Sing|PronType=Tot	3	advmod	_	LMSeg:ყველა|SpaceAfter=No
 2	ზე	_ზე	ADP	Pp	_	1	case	_	LMSeg:_ზე
 3	მთავარი	მთავარი	ADJ	A_Nom_Sg_Encl:Aux	Case=Nom|Number=Sing	5	nsubj	_	LMSeg:მთავ[ა]რ·ი|SpaceAfter=No
 4	ა	ყოფნა	AUX	V_MedPass_Pres_S:3Sg_Encl	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	5	cop	_	LMSeg:ყოფნ[ა]/არ

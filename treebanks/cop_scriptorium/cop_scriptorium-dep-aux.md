@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3478 nodes (6%) are attached to their parents as `aux`.
+3627 nodes (6%) are attached to their parents as `aux`.
 
-3478 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.11414606095457.
+3627 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.11166253101737.
 
-The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (3437; 99% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (33; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="cop_scriptorium-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (3584; 99% instances), <tt><a href="cop_scriptorium-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (34; 1% instances), <tt><a href="cop_scriptorium-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-DET.html">DET</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="cop_scriptorium-pos-X.html">X</a></tt>-<tt><a href="cop_scriptorium-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -73,46 +73,45 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 aux	color:blue
+# visual-style 19	bgColor:blue
+# visual-style 19	fgColor:white
+# visual-style 22	bgColor:blue
+# visual-style 22	fgColor:white
+# visual-style 22 19 aux	color:blue
 1	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	6	cc	_	_
-2	ⲛⲁⲓ	ⲡⲁⲓ	DET	PDEM	Definite=Def|Number=Plur|PronType=Dem	6	dislocated	_	Entity=(abstract)
-3	ⲛⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	6	aux	_	_
-4	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	6	nsubj	_	_
-5	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	6	case	_	_
-6	ⲟⲩ	ⲛⲧⲟⲟⲩ	PRON	PPERO	Definite=Def|Number=Plur|Person=3|PronType=Prs	0	root	_	_
-7	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	6	cop	_	_
-8	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	11	cc	_	OrigLang=grc
-9	ⲁ	ⲁ	AUX	APST	_	11	aux	_	_
-10	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	11	nsubj	_	_
-11	ϫⲉⲕⲙ	ϫⲱⲕⲙ	VERB	V	Mood=Ind|VerbForm=Fin	6	conj	_	_
-12	ⲧⲏⲩⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERO	Definite=Def|Number=Plur|Person=2|PronType=Prs	11	obj	_	_
-13	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	16	cc	_	OrigLang=grc
-14	ⲁ	ⲁ	AUX	APST	_	16	aux	_	_
-15	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	16	nsubj	_	_
-16	ⲧⲃⲃⲟ	ⲧⲃⲃⲟ	VERB	V	Mood=Ind|VerbForm=Fin	6	conj	_	_
-17	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	20	cc	_	OrigLang=grc
-18	ⲁ	ⲁ	AUX	APST	_	20	aux	_	_
-19	ⲧⲉⲧⲛ	ⲛⲧⲱⲧⲛ	PRON	PPERS	Definite=Def|Number=Plur|Person=2|PronType=Prs	20	nsubj	_	_
-20	ⲧⲙⲁⲉⲓⲟ	ⲧⲙⲁⲉⲓⲟ	VERB	V	Mood=Ind|VerbForm=Fin	6	conj	_	_
-21	ϩⲙ	ϩⲛ	ADP	PREP	_	23	case	_	_
-22	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	Entity=(abstract
-23	ⲣⲁⲛ	ⲣⲁⲛ	NOUN	N	_	20	obl	_	_
-24	ⲙ	ⲛ	ADP	PREP	_	26	case	_	_
-25	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	26	nmod:poss	_	Entity=(person-Jesus
-26	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	23	nmod	_	_
-27	ⲓⲏⲥⲟⲩⲥ	ⲓⲏⲥⲟⲩⲥ	PROPN	NPROP	Foreign=Yes	26	appos	_	Entity=person-Jesus)abstract)|OrigLang=heb
-28	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	31	cc	_	_
-29	ϩⲙ	ϩⲛ	ADP	PREP	_	31	case	_	_
-30	ⲡⲉ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	Entity=(abstract
-31	ⲡⲛⲉⲩⲙⲁ	ⲡⲛⲉⲩⲙⲁ	NOUN	N	Foreign=Yes	23	conj	_	OrigLang=grc
-32	ⲙ	ⲛ	ADP	PREP	_	34	case	_	_
-33	ⲡⲉⲛ	ⲡⲉⲛ	DET	PPOS	Definite=Def|Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	34	nmod:poss	_	Entity=(person
-34	ⲛⲟⲩⲧⲉ	ⲛⲟⲩⲧⲉ	NOUN	N	_	31	nmod	_	Entity=person)abstract)
-35	.	.	PUNCT	PUNCT	_	6	punct	_	_
+2	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	Entity=(person
+3	ϫⲟⲉⲓⲥ	ϫⲟⲉⲓⲥ	NOUN	N	_	6	dislocated	_	Entity=person)
+4	ⲁ	ⲁ	AUX	APST	_	6	aux	_	_
+5	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
+6	ⲟⲩⲉϩⲥⲁϩⲛⲉ	ⲟⲩⲉϩⲥⲁϩⲛⲉ	VERB	V	Mood=Ind|VerbForm=Fin	0	root	_	MSeg=ⲟⲩⲉϩ-ⲥⲁϩⲛⲉ|Orig=ⲟⲩⲉϩⲥ[ⲁ]ϩⲛⲉ
+7	ⲛ	ⲛ	ADP	PREP	_	9	case	_	_
+8	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	9	det	_	Entity=(animal
+9	ⲛⲟϭ	ⲛⲟϭ	NOUN	N	_	6	obj	_	_
+10	ⲛ	ⲛ	ADP	PREP	_	11	case	_	_
+11	ⲕⲏⲧⲟⲥ	ⲕⲏⲧⲟⲥ	NOUN	N	Foreign=Yes	9	nmod	_	Entity=animal)|OrigLang=grc
+12	ⲁ	ⲁ	AUX	APST	_	14	aux	_	_
+13	ϥ	ⲛⲧⲟϥ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+14	ⲱⲙⲕ	ⲱⲙⲕ	VERB	V	Mood=Ind|VerbForm=Fin	6	parataxis	_	_
+15	ⲛ	ⲛ	ADP	PREP	_	16	case	_	_
+16	ⲓⲱⲛⲁⲥ	ⲓⲱⲛⲁⲥ	PROPN	NPROP	Foreign=Yes	14	obl	_	Entity=(person-Jonah)|OrigLang=heb
+17	:	:	PUNCT	PUNCT	_	22	punct	_	_
+18	ⲁⲩⲱ	ⲁⲩⲱ	CCONJ	CONJ	_	22	cc	_	_
+19	ⲛⲉⲣⲉ	ⲛⲉⲣⲉ	AUX	CPRET	_	22	aux	_	_
+20	ⲓⲱⲛⲁ	ⲓⲱⲛⲁ	PROPN	NPROP	Foreign=Yes	22	nsubj	_	Entity=(person-Jonah)|OrigLang=heb
+21	ⲛϩⲏⲧ	ϩⲛ	ADP	PREP	_	22	case	_	_
+22	ϥ	ⲛⲧⲟϥ	PRON	PPERO	Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	conj	_	_
+23	ⲛ	ⲛ	ADP	PREP	_	25	case	_	_
+24	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	Entity=(animal
+25	ⲕⲏⲧⲟⲥ	ⲕⲏⲧⲟⲥ	NOUN	N	Foreign=Yes	22	nmod	_	Entity=animal)|OrigLang=grc
+26	ⲛ	ⲛ	ADP	PREP	_	29	case	_	_
+27	ϣⲟⲙⲛⲧ	ϣⲟⲙⲛⲧ	NUM	NUM	NumType=Card	29	nummod	_	Entity=(time
+28	ⲛ	ⲛ	ADP	PREP	_	29	case	_	_
+29	ϩⲟⲟⲩ	ϩⲟⲟⲩ	NOUN	N	_	22	obl	_	Entity=time)
+30	ⲙⲛ	ⲙⲛ	ADP	PREP	_	33	cc	_	_
+31	ϣⲟⲙⲧⲉ	ϣⲟⲙⲧⲉ	NUM	NUM	NumType=Card	33	nummod	_	Entity=(time
+32	ⲛ	ⲛ	ADP	PREP	_	33	case	_	_
+33	ⲟⲩϣⲏ	ⲟⲩϣⲏ	NOUN	N	_	29	conj	_	Entity=time)
+34	:	:	PUNCT	PUNCT	_	6	punct	_	_
 
 ~~~
 

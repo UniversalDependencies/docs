@@ -42,4 +42,4 @@ feature in the UD treebanks.
 * _Ella compró un regalo para sí misma._ "She bought a gift for herself."
 
 In these examples, _mí_, _ti_, and _sí_ are pronoun forms used after a preposition.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:42 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:14 CEST -->

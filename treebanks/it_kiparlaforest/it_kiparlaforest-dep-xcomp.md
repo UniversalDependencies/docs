@@ -8,30 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-66 nodes (1%) are attached to their parents as `xcomp`.
+159 nodes (1%) are attached to their parents as `xcomp`.
 
-66 instances of `xcomp` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.06060606060606.
+159 instances of `xcomp` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.05660377358491.
 
-The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (30; 45% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (14; 21% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (6; 9% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
+The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (80; 50% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (28; 18% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (19; 12% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (4; 3% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 xcomp	color:blue
-1	bellissimo	bello	ADJ	_	Degree=Abs|Gender=Masc|Number=Sing	4	discourse	_	Begin=122.464|KID=82-0|OverlappingGroup=11
-2	qua~	quattro	NUM	_	_	5	reparandum	_	Interrupted=Yes|KID=82-1
-3	ci	ci	PRON	_	Number=Plur|Person=1|PronType=Prs	4	expl	_	Clitic=Yes|KID=82-2
-4	metti	mettere	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	KID=82-3
-5	quattro	quattro	NUM	_	NumType=Card	6	nummod	_	KID=82-4
-6	secondi	secondo	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	KID=82-5
-7	a	a	ADP	_	_	8	mark	_	KID=82-6
-8	trascrivere	trascrivere	VERB	_	VerbForm=Inf	4	xcomp	_	KID=82-7
-9	quella	quello	DET	_	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	KID=82-8
-10	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	End=125.19|KID=82-9
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 xcomp	color:blue
+1	ma	ma	CCONJ	_	_	7	discourse	_	Begin=1246.694|KID=312-0|OverlappingGroup=62
+2	in	in	ADP	_	_	3	case	_	KID=312-1
+3	realtà	realtà	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	KID=312-2
+4	anche	anche	ADV	_	_	6	advmod	_	KID=312-3
+5	a	a	ADP	_	_	6	case	_	KID=312-4
+6	bologna	Bologna	PROPN	_	_	7	obl	_	KID=312-5
+7	stanno	stare	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=312-6
+8	a	a	ADP	_	_	9	mark	_	KID=312-7
+9	fa'	fare	VERB	_	_	7	xcomp	_	KID=312-8|Truncated=Yes
+10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	KID=312-9
+11	po'	po'	NOUN	_	_	9	obl	_	KID=312-10
+12	'sto	questo	DET	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	KID=312-11|Truncated=Yes
+13	lavoro	lavoro	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	End=1249.39|Intonation=Falling|KID=312-12
 
 ~~~
 

@@ -60,18 +60,18 @@ The 2nd highest number of forms (4) was observed with the lemma “kiu”: <em>k
 
 The 3rd highest number of forms (4) was observed with the lemma “ni”: <em>mi, ni, nia, nian</em>.
 
-`PRON` occurs with 8 features: <tt><a href="eo_prago-feat-Case.html">Case</a></tt> (288; 99% instances), <tt><a href="eo_prago-feat-Number.html">Number</a></tt> (286; 98% instances), <tt><a href="eo_prago-feat-PronType.html">PronType</a></tt> (269; 92% instances), <tt><a href="eo_prago-feat-Person.html">Person</a></tt> (213; 73% instances), <tt><a href="eo_prago-feat-Poss.html">Poss</a></tt> (74; 25% instances), <tt><a href="eo_prago-feat-Number-psor.html">Number[psor]</a></tt> (71; 24% instances), <tt><a href="eo_prago-feat-Reflex.html">Reflex</a></tt> (14; 5% instances), <tt><a href="eo_prago-feat-ExtPos.html">ExtPos</a></tt> (3; 1% instances)
+`PRON` occurs with 8 features: <tt><a href="eo_prago-feat-PronType.html">PronType</a></tt> (291; 100% instances), <tt><a href="eo_prago-feat-Case.html">Case</a></tt> (288; 99% instances), <tt><a href="eo_prago-feat-Number.html">Number</a></tt> (286; 98% instances), <tt><a href="eo_prago-feat-Person.html">Person</a></tt> (213; 73% instances), <tt><a href="eo_prago-feat-Poss.html">Poss</a></tt> (74; 25% instances), <tt><a href="eo_prago-feat-Number-psor.html">Number[psor]</a></tt> (71; 24% instances), <tt><a href="eo_prago-feat-Reflex.html">Reflex</a></tt> (14; 5% instances), <tt><a href="eo_prago-feat-ExtPos.html">ExtPos</a></tt> (3; 1% instances)
 
 `PRON` occurs with 20 feature-value pairs: `Case=Acc`, `Case=Nom`, `ExtPos=ADP`, `ExtPos=SCONJ`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=2`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Emp`, `PronType=Neg`, `PronType=Prs`, `PronType=Rel`, `PronType=Tot`, `Reflex=Yes`
 
-`PRON` occurs with 50 feature combinations.
-The most frequent feature combination is `Case=Nom|Number=Sing|Person=1|PronType=Prs` (69 tokens).
+`PRON` occurs with 43 feature combinations.
+The most frequent feature combination is `Case=Nom|Number=Sing|Person=1|PronType=Prs` (75 tokens).
 Examples: <em>mi</em>
 
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 12 different relations: <tt><a href="eo_prago-dep-nsubj.html">nsubj</a></tt> (128; 44% instances), <tt><a href="eo_prago-dep-nmod-poss.html">nmod:poss</a></tt> (73; 25% instances), <tt><a href="eo_prago-dep-obj.html">obj</a></tt> (36; 12% instances), <tt><a href="eo_prago-dep-nmod.html">nmod</a></tt> (34; 12% instances), <tt><a href="eo_prago-dep-obl.html">obl</a></tt> (9; 3% instances), <tt><a href="eo_prago-dep-det.html">det</a></tt> (4; 1% instances), <tt><a href="eo_prago-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="eo_prago-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="eo_prago-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="eo_prago-dep-iobj.html">iobj</a></tt> (1; 0% instances), <tt><a href="eo_prago-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="eo_prago-dep-root.html">root</a></tt> (1; 0% instances)
+`PRON` nodes are attached to their parents using 12 different relations: <tt><a href="eo_prago-dep-nsubj.html">nsubj</a></tt> (128; 44% instances), <tt><a href="eo_prago-dep-nmod-poss.html">nmod:poss</a></tt> (73; 25% instances), <tt><a href="eo_prago-dep-nmod.html">nmod</a></tt> (34; 12% instances), <tt><a href="eo_prago-dep-obj.html">obj</a></tt> (34; 12% instances), <tt><a href="eo_prago-dep-obl.html">obl</a></tt> (9; 3% instances), <tt><a href="eo_prago-dep-det.html">det</a></tt> (4; 1% instances), <tt><a href="eo_prago-dep-iobj.html">iobj</a></tt> (3; 1% instances), <tt><a href="eo_prago-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="eo_prago-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="eo_prago-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="eo_prago-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="eo_prago-dep-root.html">root</a></tt> (1; 0% instances)
 
 Parents of `PRON` nodes belong to 6 different parts of speech: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (179; 62% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (101; 35% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (6; 2% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (1; 0% instances),  (1; 0% instances)
 

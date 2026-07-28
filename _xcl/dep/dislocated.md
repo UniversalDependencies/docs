@@ -22,4 +22,4 @@ in UD_Classical_Armenian-CAVaL, the `dislocated` relation is also used for front
 obj(յարմարել, բանս)
 dilocated(բանս, զ)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:50 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:05 CEST -->

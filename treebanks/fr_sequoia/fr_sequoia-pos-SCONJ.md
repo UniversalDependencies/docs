@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_sequoia-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.571429 (the average of all parts of speech is 1.408433).
+The form / lemma ratio of `SCONJ` is 1.571429 (the average of all parts of speech is 1.408837).
 
 The 1st highest number of forms (2) was observed with the lemma “lorsque”: <em>lorsqu', lorsque</em>.
 
@@ -63,7 +63,7 @@ Examples: <em>que, qu', si, comme, quand, lorsqu', s', lorsque, puisqu', puisque
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="fr_sequoia-dep-mark.html">mark</a></tt> (621; 82% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (91; 12% instances), <tt><a href="fr_sequoia-dep-case.html">case</a></tt> (46; 6% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="fr_sequoia-dep-mark.html">mark</a></tt> (621; 82% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (89; 12% instances), <tt><a href="fr_sequoia-dep-case.html">case</a></tt> (46; 6% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-dep-comp.html">dep:comp</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (1; 0% instances)
 
 Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (510; 67% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (81; 11% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (60; 8% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (59; 8% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (20; 3% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (12; 2% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 

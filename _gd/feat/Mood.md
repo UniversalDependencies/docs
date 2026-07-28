@@ -41,4 +41,4 @@ Otherwise we use `PartType=Int` on the particle.
 #### Examples
 
 * _Rudeigin mu dheidhinn sgrìob a Venezuela, <b>an</b> e?_ "Something about a trip to Venezuela, isn't it?" (f02\_054a)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:24 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->

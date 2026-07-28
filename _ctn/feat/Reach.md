@@ -31,4 +31,4 @@ Prefix *a*- "REMOTE" marks locations that are perceived as unfamiliar, unlikely,
 #### Examples
 
 * *Mo <b>ammu</b> hoŋkubhamu, Khaboŋ hoŋkubhamu thaihẽ.* "We arrived down, way down at the river, the river Khabong."
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:45 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:16 CEST -->

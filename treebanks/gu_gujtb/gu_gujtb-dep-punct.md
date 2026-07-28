@@ -22,13 +22,13 @@ The following 8 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 punct	color:blue
-1	છોક્રીએ	છોકરું	NOUN	_	_	6	nsubj	_	_
-2	તે	તું	PRON	_	_	4	nmod	_	_
-3	ની	ની	ADP	_	_	2	case	_	_
-4	બહેનપણીને	બહેનપણી	NOUN	_	_	6	iobj	_	_
-5	પત્ર	પત્ર	NOUN	_	_	6	obj	_	_
-6	લખ્યો	લખવું	VERB	_	_	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
+1	છોક્રીએ	છોકરું	NOUN	_	_	6	nsubj	_	LTranslit=chokaruṁ|Translit=chokrīe
+2	તે	તું	PRON	_	_	4	nmod	_	LTranslit=tuṁ|Translit=te
+3	ની	ની	ADP	_	_	2	case	_	LTranslit=nī|Translit=nī
+4	બહેનપણીને	બહેનપણી	NOUN	_	_	6	iobj	_	LTranslit=bahenapaṇī|Translit=bahenapaṇīne
+5	પત્ર	પત્ર	NOUN	_	_	6	obj	_	LTranslit=patra|Translit=patra
+6	લખ્યો	લખવું	VERB	_	_	0	root	_	LTranslit=lakhavuṁ|SpaceAfter=No|Translit=lakhyo
+7	.	.	PUNCT	_	_	6	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -39,15 +39,15 @@ The following 8 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 punct	color:blue
-1	શું	શું	AUX	_	_	7	aux	_	_
-2	ઇગુઆઝુ	ઇગુઆઝુ	PROPN	_	_	7	nsubj	_	_
-3	એક	એક	DET	_	_	4	det	_	_
-4	મોટો	મોટો	ADJ	_	_	7	amod	_	_
-5	કે	કે	CCONJ	_	_	6	cc	_	_
-6	નાનો	નાનો	ADJ	_	_	4	conj	_	_
-7	દેશ	દેશ	NOUN	_	_	0	root	_	_
-8	છે	છે	AUX	_	_	7	cop	_	_
-9	?	?	PUNCT	_	_	7	punct	_	SpaceAfter=No
+1	શું	શું	AUX	_	_	7	aux	_	LTranslit=śuṁ|Translit=śuṁ
+2	ઇગુઆઝુ	ઇગુઆઝુ	PROPN	_	_	7	nsubj	_	LTranslit=iguājhu|Translit=iguājhu
+3	એક	એક	DET	_	_	4	det	_	LTranslit=eka|Translit=eka
+4	મોટો	મોટો	ADJ	_	_	7	amod	_	LTranslit=moṭo|Translit=moṭo
+5	કે	કે	CCONJ	_	_	6	cc	_	LTranslit=ke|Translit=ke
+6	નાનો	નાનો	ADJ	_	_	4	conj	_	LTranslit=nāno|Translit=nāno
+7	દેશ	દેશ	NOUN	_	_	0	root	_	LTranslit=deśa|Translit=deśa
+8	છે	છે	AUX	_	_	7	cop	_	LTranslit=che|Translit=che
+9	?	?	PUNCT	_	_	7	punct	_	LTranslit=?|SpaceAfter=No|Translit=?
 
 ~~~
 
@@ -58,15 +58,15 @@ The following 8 pairs of parts of speech are connected with `punct`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 9 punct	color:blue
-1	મારા	હું	PRON	_	_	2	nmod	_	_
-2	પપ્પા	પપ્પા	NOUN	_	_	7	nsubj	_	_
-3	તારા	તું	PRON	_	_	4	nmod	_	_
-4	પપ્પા	પપ્પા	NOUN	_	_	7	obl	_	_
-5	કરતાં	કરતાં	ADP	_	_	4	case	_	_
-6	વધારે	વધારે	ADV	_	_	7	advmod	_	_
-7	કૂલ	કૂલ	ADJ	_	_	0	root	_	_
-8	છે	છે	AUX	_	_	7	cop	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	7	punct	_	SpaceAfter=No
+1	મારા	હું	PRON	_	_	2	nmod	_	LTranslit=huṁ|Translit=mārā
+2	પપ્પા	પપ્પા	NOUN	_	_	7	nsubj	_	LTranslit=pappā|Translit=pappā
+3	તારા	તું	PRON	_	_	4	nmod	_	LTranslit=tuṁ|Translit=tārā
+4	પપ્પા	પપ્પા	NOUN	_	_	7	obl	_	LTranslit=pappā|Translit=pappā
+5	કરતાં	કરતાં	ADP	_	_	4	case	_	LTranslit=karatāṁ|Translit=karatāṁ
+6	વધારે	વધારે	ADV	_	_	7	advmod	_	LTranslit=vadhāre|Translit=vadhāre
+7	કૂલ	કૂલ	ADJ	_	_	0	root	_	LTranslit=kūla|Translit=kūla
+8	છે	છે	AUX	_	_	7	cop	_	LTranslit=che|SpaceAfter=No|Translit=che
+9	.	.	PUNCT	_	_	7	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 

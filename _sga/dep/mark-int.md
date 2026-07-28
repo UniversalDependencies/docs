@@ -21,4 +21,4 @@ _<b>in</b> naci_ "do you see?"
 in naci \n do you_see
 mark:prt(naci, in)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:03 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:15 CEST -->

@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-82 tokens (0%) have a non-empty value of `Foreign`.
+84 tokens (0%) have a non-empty value of `Foreign`.
 52 types (0%) occur at least once with a non-empty value of `Foreign`.
-52 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (50; 0% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (24; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+53 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 7 part-of-speech tags: <tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (50; 0% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (24; 0% instances), <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="sv_lines-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (50; 100% of non-empty `Foreign`): <em>Language, Stylesheet, Transformation, Consortium, World, calme, Station, Web, Morituri, Protocol</em>
-* `EMPTY` (17790): <em>sätt, år, gång, far, fält, man, sidan, del, väg, tiden</em>
+* `EMPTY` (17793): <em>sätt, år, gång, far, fält, man, sidan, del, väg, tiden</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (32) occur only with one value of `Foreign`.
 
@@ -36,28 +36,28 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (24; 100% of non-empty `Foreign`): <em>Extensible, Wide, Visual, Advanced, Advertising, Arabic, Central, Grand, Political, Universal</em>
-* `EMPTY` (7131): <em>andra, själv, hela, samma, första, annat, många, enda, stor, flera</em>
+* `EMPTY` (7134): <em>andra, själv, hela, samma, första, annat, många, enda, stor, flera</em>
 
 `Foreign` seems to be **lexical feature** of `ADJ`. 100% lemmas (14) occur only with one value of `Foreign`.
 
 ### `ADP`
 
-2 <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Foreign`.
+4 <tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Foreign`.
 
 `ADP` tokens may have the following values of `Foreign`:
 
-* `Yes` (2; 100% of non-empty `Foreign`): <em>ad, for</em>
-* `EMPTY` (11101): <em>i, på, av, med, för, till, som, om, från, över</em>
+* `Yes` (4; 100% of non-empty `Foreign`): <em>de, ad, for</em>
+* `EMPTY` (11087): <em>i, på, av, med, för, till, om, som, från, över</em>
 
 ### `DET`
 
 2 <tt><a href="sv_lines-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="sv_lines-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="sv_lines-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2; 100%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 100%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="sv_lines-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (2; 100%).
 
 `DET` tokens may have the following values of `Foreign`:
 
-* `Yes` (2; 100% of non-empty `Foreign`): <em>du</em>
+* `Yes` (2; 100% of non-empty `Foreign`): <em>le</em>
 * `EMPTY` (5321): <em>en, ett, den, det, de, alla, någon, denna, något, detta</em>
 
 ### `PROPN`

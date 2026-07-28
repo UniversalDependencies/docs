@@ -22,21 +22,21 @@ The following 1 pairs of parts of speech are connected with `iobj:agent`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 iobj:agent	color:blue
-1	Ils	eux	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj:caus	_	_
+1	Ils	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj:caus	_	_
 2	lui	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	iobj:agent	_	_
 3	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 4	fait	faire	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	5	aux:caus	_	Tense[denom]=Past
 5	subir	subir	VERB	_	VerbForm=Inf	0	root	_	_
 6	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	7	det	_	_
-7	chocs	choc	NOUN	_	Number=Plur	5	obj	_	Gender[lex]=Masc
-8	électriques	électrique	ADJ	_	Number=Plur	7	amod	_	Gender[ctxt]=Masc
+7	chocs	choc	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	Exponence[Gender]=Inherent
+8	électriques	électrique	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	Exponence[Gender]=Absent
 9	sur	sur	ADP	_	_	11	case	_	_
 10	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	11	det	_	_
-11	parties	partie	NOUN	_	Number=Plur	7	nmod	_	Gender[lex]=Fem
-12	sensibles	sensible	ADJ	_	Number=Plur	11	amod	_	Gender[ctxt]=Fem
+11	parties	partie	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	Exponence[Gender]=Inherent
+12	sensibles	sensible	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	Exponence[Gender]=Absent
 13	de	de	ADP	_	_	15	case	_	_
 14	son	son	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	15	det	_	_
-15	corps	corps	NOUN	_	_	11	nmod	_	Gender[lex]=Masc|Number[ctxt]=Sing|SpaceAfter=No
+15	corps	corps	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 16	.	.	PUNCT	_	_	11	punct	_	_
 
 ~~~

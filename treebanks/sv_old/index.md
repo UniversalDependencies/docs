@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.17 release
 The following people have contributed to making this treebank part of UD: Lars Ahrenberg, Lars Borin, Astrid Berntsson Ingelstam, Joakim Nivre, Eva Pettersson, Sara Stymne.
 
 Repository: [UD_Swedish-Old](https://github.com/UniversalDependencies/UD_Swedish-Old)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_old217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_old218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -54,7 +54,7 @@ Currently, the treebank contains only one text: "Här sigx aff abotum allum skem
 
 The conversion from MAÞiR Trees to UD has been performed by Astrid Berntsson Ingelstam and Joakim Nivre, with support by Lars Ahrenberg, Gerlof Bouma, Lars Borin, Erik Magnusson Petzell, Eva Pettersson, and Sara Stymne.
 
-This work is funded by the Swedish national research infrastructure Språkbanken, jointly financially supported by the Swedish Research Council (2025–2028; grant 2023-00161) and the 10 participating partner institutions.
+This work is funded by the Swedish national research infrastructure Språkbanken, jointly financially supported by the Swedish Research Council (2025–2028; grant 2023-00161) and the 10 participating partner institutions. We acknowledge the support of the UniDive COST Action (CA21167).
 
 
 # Statistics of UD Swedish Old

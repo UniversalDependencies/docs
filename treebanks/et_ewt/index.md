@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Kadri Muischnek, Kaili Müürisep, Tiina Puolakainen, Dage Särg, Sandra Eiche, Andriela Rääbis.
 
 Repository: [UD_Estonian-EWT](https://github.com/UniversalDependencies/UD_Estonian-EWT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_ewt217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_ewt218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -1082,11 +1082,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (21)</li>
+      <li>VERB-Fin--NOUN (20)</li>
       <li>VERB-Fin--NOUN-Nom (1503)</li>
-      <li>VERB-Fin--NOUN-Par (249)</li>
+      <li>VERB-Fin--NOUN-Par (250)</li>
       <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Nom (1714)</li>
+      <li>VERB-Fin--PRON-Nom (1715)</li>
       <li>VERB-Fin--PRON-Par (52)</li>
       <li>VERB-Inf--NOUN (3)</li>
       <li>VERB-Inf--NOUN-Gen (2)</li>
@@ -1117,24 +1117,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Nom (2)</li>
       <li>VERB-Conv--PRON-Par (7)</li>
       <li>VERB-Fin--NOUN (17)</li>
-      <li>VERB-Fin--NOUN-Gen (356)</li>
+      <li>VERB-Fin--NOUN-Gen (357)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(üle) (1)</li>
       <li>VERB-Fin--NOUN-Nom (211)</li>
-      <li>VERB-Fin--NOUN-Par (1021)</li>
+      <li>VERB-Fin--NOUN-Par (1019)</li>
       <li>VERB-Fin--NOUN-Par-ADP(mööda) (1)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
       <li>VERB-Fin--PRON-Gen (43)</li>
       <li>VERB-Fin--PRON-Nom (69)</li>
-      <li>VERB-Fin--PRON-Par (472)</li>
+      <li>VERB-Fin--PRON-Par (473)</li>
       <li>VERB-Inf--NOUN (7)</li>
       <li>VERB-Inf--NOUN-Gen (70)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(of) (1)</li>
       <li>VERB-Inf--NOUN-Nom (158)</li>
-      <li>VERB-Inf--NOUN-Par (518)</li>
+      <li>VERB-Inf--NOUN-Par (519)</li>
       <li>VERB-Inf--NOUN-Par-ADP(of) (1)</li>
       <li>VERB-Inf--PRON-Gen (4)</li>
       <li>VERB-Inf--PRON-Nom (25)</li>
-      <li>VERB-Inf--PRON-Par (237)</li>
+      <li>VERB-Inf--PRON-Par (238)</li>
       <li>VERB-Part--NOUN (6)</li>
       <li>VERB-Part--NOUN-Gen (52)</li>
       <li>VERB-Part--NOUN-Nom (121)</li>

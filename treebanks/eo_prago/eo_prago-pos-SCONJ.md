@@ -58,7 +58,7 @@ The 3rd highest number of forms (1) was observed with the lemma “dum”: <em>D
 
 `SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="eo_prago-dep-mark.html">mark</a></tt> (70; 95% instances), <tt><a href="eo_prago-dep-cc.html">cc</a></tt> (4; 5% instances)
 
-Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (60; 81% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (7; 9% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Parents of `SCONJ` nodes belong to 7 different parts of speech: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (59; 80% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (8; 11% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (3; 4% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 
 74 (100%) `SCONJ` nodes are leaves.
 

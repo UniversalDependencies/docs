@@ -25,7 +25,7 @@ The following 41 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 10 9 obl	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_3.4
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_3.4
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_3.4
+3	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_3.4
 4	ὄφις	ὄφις	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=snake,serpent|Ref=GEN_3.4
 5	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_3.4
 6	γυναικί	γυνή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	iobj	_	Gloss=wife,woman|Ref=GEN_3.4|SpaceAfter=No
@@ -49,7 +49,7 @@ The following 41 pairs of parts of speech are connected with `obl`: <tt><a href=
 3	Ἁβραὰμ	Ἁβραάμ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Abraham|Ref=GEN_17.18
 4	πρὸς	πρός	ADP	_	_	6	case	_	Gloss=+D=at;-+A=to,toward|Ref=GEN_17.18
 5	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_17.18
-6	θεόν	θεός	NOUN	_	Case=Acc|Gender=Fem,Masc|Number=Sing	1	obl	_	Gloss=god|Ref=GEN_17.18
+6	θεόν	θεός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	Gloss=god|Ref=GEN_17.18
 7	Ἰσμαὴλ	Ἰσμαήλ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Gloss=Ishmael|Ref=GEN_17.18
 8	οὗτος	οὗτος	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	Gloss=this|Ref=GEN_17.18
 9	ζήτω	ζάω	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	Gloss=to-live|Ref=GEN_17.18
@@ -73,7 +73,7 @@ The following 41 pairs of parts of speech are connected with `obl`: <tt><a href=
 5	αὐτὸν	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	3	obl	_	Gloss=he,she,it,-self,same|Ref=GEN_17.22
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next|Ref=GEN_17.22
 7	ἀνέβη	ἀναβαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-ascend,mount|Ref=GEN_17.22
-8	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Gloss=the;-oh|Ref=GEN_17.22
+8	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Gloss=the;-oh|Ref=GEN_17.22
 9	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Gloss=god|Ref=GEN_17.22
 10	ἀπὸ	ἀπό	ADP	_	_	11	case	_	Gloss=from,away-from|Ref=GEN_17.22
 11	Ἁβραάμ	Ἁβραάμ	PROPN	_	Gender=Masc|Number=Sing	7	obl	_	Gloss=Abraham|Ref=GEN_17.22|SpaceAfter=No

@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Pass` (240; 100% of non-empty `Voice`): <em>adnojuvvo, álggahuvvui, addojuvvo, dárbbašuvvojit, filbmejuvvon, gáibiduvvo, mearriduvvo, ráddjejuvvon, ráhkaduvvon, vuođđuduvvon</em>
-* `EMPTY` (4070): <em>lea, leat, lei, ledje, bođii, boahtá, manai, vuolgit, ožžon, dieđe</em>
+* `EMPTY` (4069): <em>lea, leat, lei, ledje, bođii, boahtá, manai, vuolgit, ožžon, dieđe</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (129) occur only with one value of `Voice`.
 

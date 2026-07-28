@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-PUD: Relations: `aux:tense`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="fr_pud-dep-aux.html">aux</a></tt>.
 There are also 2 other language-specific subtypes of `aux`: <tt><a href="fr_pud-dep-aux-caus.html">aux:caus</a></tt>, <tt><a href="fr_pud-dep-aux-pass.html">aux:pass</a></tt>.
 
 568 nodes (2%) are attached to their parents as `aux:tense`.
@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `aux:tense`: <tt><a 
 7	)	)	PUNCT	)	_	6	punct	_	_
 8	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:tense	_	_
 9	été	être	AUX	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	cop	_	_
-10	l’	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No|wordform=l'
+10	l'	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	SpaceAfter=No
 11	une	une	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 12	de	de	ADP	IN	_	15	case	_	_
 13	ses	son	DET	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	15	det	_	_

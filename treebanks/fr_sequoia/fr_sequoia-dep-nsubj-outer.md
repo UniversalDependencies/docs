@@ -24,11 +24,11 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 13	fgColor:white
 # visual-style 13 2 nsubj:outer	color:blue
 1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	problème	problème	NOUN	_	Number=Sing	13	nsubj:outer	_	Gender[lex]=Masc
+2	problème	problème	NOUN	_	Gender=Masc|Number=Sing	13	nsubj:outer	_	Exponence[Gender]=Inherent
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 4	que	que	SCONJ	_	_	13	mark	_	_
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	législateur	législateur	NOUN	_	Number=Sing	13	nsubj	_	Gender[lex]=Masc|SpaceAfter=No
+6	législateur	législateur	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	Exponence[Gender]=Inherent|SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	_
 8	tant	tant	ADV	_	_	9	advmod	_	_
 9	national	national	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
@@ -39,11 +39,11 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 14	à	à	ADP	_	_	15	mark	_	_
 15	adapter	adapter	VERB	_	VerbForm=Inf	13	xcomp	_	Subject=SubjRaising
 16	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	pays	pays	NOUN	_	_	15	obj	_	Gender[lex]=Masc|Number[ctxt]=Sing
+17	pays	pays	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 18	légal	légal	ADJ	_	Gender=Masc|Number=Sing	17	amod	_	_
 19	à	à	ADP	_	_	21	case	_	_
 20	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	pays	pays	NOUN	_	_	15	obl:arg	_	Gender[lex]=Masc|Number[ctxt]=Sing
+21	pays	pays	NOUN	_	Gender=Masc|Number=Sing	15	obl:arg	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 22	réel	réel	ADJ	_	Gender=Masc|Number=Sing	21	amod	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	13	punct	_	_
 
@@ -64,39 +64,39 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 6	doit	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	constituer	constituer	VERB	_	VerbForm=Inf	6	xcomp	_	Subject=SubjRaising
 8	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	incitation	incitation	NOUN	_	Number=Sing	7	obj	_	Gender[lex]=Fem
+9	incitation	incitation	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	Exponence[Gender]=Inherent
 10	et	et	CCONJ	_	_	13	cc	_	_
 11	pas	pas	ADV	_	Polarity=Neg	13	advmod	_	_
 12	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	obstacle	obstacle	NOUN	_	Number=Sing	9	conj	_	Gender[lex]=Masc
+13	obstacle	obstacle	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	Exponence[Gender]=Inherent
 14	-	-	PUNCT	_	_	17	punct	_	SpaceAfter=No
 15	pas	pas	ADV	_	Polarity=Neg	17	advmod	_	_
 16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	obstacle	obstacle	NOUN	_	Number=Sing	13	appos	_	Gender[lex]=Masc|SpaceAfter=No
+17	obstacle	obstacle	NOUN	_	Gender=Masc|Number=Sing	13	appos	_	Exponence[Gender]=Inherent|SpaceAfter=No
 18	,	,	PUNCT	_	_	17	punct	_	_
 19	j'	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	20	nsubj	_	SpaceAfter=No
 20	insiste	insister	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	parataxis:insert	_	SpaceAfter=No
 21	-	-	PUNCT	_	_	17	punct	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	24	punct	_	_
 23	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
-24	incitation	incitation	NOUN	_	Number=Sing	9	conj	_	Gender[lex]=Fem
+24	incitation	incitation	NOUN	_	Gender=Fem|Number=Sing	9	conj	_	Exponence[Gender]=Inherent
 25	pour	pour	ADP	_	_	28	case	_	_
 26	tous	tout	ADJ	_	Gender=Masc|Number=Plur	28	amod	_	_
 27	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	28	det	_	_
-28	pays	pays	NOUN	_	_	24	nmod	_	Gender[lex]=Masc|Number[ctxt]=Plur
+28	pays	pays	NOUN	_	Gender=Masc|Number=Plur	24	nmod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 29	membres	membre	ADJ	_	Gender=Masc|Number=Plur	28	amod	_	_
 30	à	à	ADP	_	_	34	case	_	_
 31	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
 32	plus	plus	ADV	_	_	33	advmod	_	_
 33	grande	grand	ADJ	_	Gender=Fem|Number=Sing	34	amod	_	_
-34	participation	participation	NOUN	_	Number=Sing	24	nmod	_	Gender[lex]=Fem|SpaceAfter=No
+34	participation	participation	NOUN	_	Gender=Fem|Number=Sing	24	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
 35	,	,	PUNCT	_	_	37	punct	_	_
 36	en	en	ADP	_	_	37	case	_	_
-37	profondeur	profondeur	NOUN	_	Number=Sing	34	nmod	_	Gender[lex]=Fem|SpaceAfter=No
+37	profondeur	profondeur	NOUN	_	Gender=Fem|Number=Sing	34	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
 38	,	,	PUNCT	_	_	41	punct	_	_
 39	à	à	ADP	_	_	41	case	_	_
 40	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	41	det	_	_
-41	procédures	procédure	NOUN	_	Number=Plur	34	nmod	_	Gender[lex]=Fem
+41	procédures	procédure	NOUN	_	Gender=Fem|Number=Plur	34	nmod	_	Exponence[Gender]=Inherent
 42	européennes	européen	ADJ	_	Gender=Fem|Number=Plur	41	amod	_	SpaceAfter=No
 43	.	.	PUNCT	_	_	6	punct	_	_
 

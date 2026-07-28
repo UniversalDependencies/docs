@@ -1,39 +1,32 @@
 ---
 layout: base
-title:  'Statistics of case in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of case in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `case`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `case`
 
 This relation is universal.
 
-185 nodes (2%) are attached to their parents as `case`.
+352 nodes (2%) are attached to their parents as `case`.
 
-185 instances of `case` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32432432432432.
+352 instances of `case` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.30113636363636.
 
-The following 17 pairs of parts of speech are connected with `case`: <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (113; 61% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (23; 12% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (17; 9% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (11; 6% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (4; 2% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances).
+The following 20 pairs of parts of speech are connected with `case`: <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt> (206; 59% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt> (44; 13% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt> (37; 11% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt> (22; 6% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt> (6; 2% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt>-<tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> (2; 1% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt>-<tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 case	color:blue
-1	Pero	pero	CCONJ	_	_	3	mark	3:mark	NormalizedForm=Pero|NormalizedLemma=pero
-2	siki	siki	PRON	_	_	3	nsubj	3:nsubj	NormalizedForm=siki|NormalizedLemma=siki
-3	faltan	faltar	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=faltan|NormalizedLemma=faltar|Number[subj]=Plur|Person[subj]=3|Subcat=Intr
-4	de	de	ADP	_	Foreign=Yes	5	case	5:case	NormalizedForm=de|NormalizedLemma=de
-5	papeles	papel	NOUN	_	Foreign=Yes|Gender=Masc|Number=Plur	3	obl	3:obl	NormalizedForm=papeles|NormalizedLemma=papel|SpaceAfter=No
-6	,	,	PUNCT	_	_	8	punct	8:punct	NormalizedForm=,|NormalizedLemma=,
-7	amo	amo	ADV	_	Polarity=Neg	8	advmod	8:advmod	NormalizedForm=amo|NormalizedLemma=amo
-8	kwale	kwali	ADJ	_	Number=Sing	3	parataxis	3:parataxis	NormalizedForm=kwale|NormalizedLemma=kwali|SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	11:punct	NormalizedForm=,|NormalizedLemma=,
-10	amo	amo	ADV	_	Polarity=Neg	11	advmod	11:advmod	NormalizedForm=amo|NormalizedLemma=amo
-11	oyahkeh	yowi	VERB	_	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	3:parataxis	NormalizedForm=yahkeh|NormalizedLemma=yowi|Number[subj]=Plur|Person[subj]=3|SpaceAfter=No|Subcat=Intr|wordform=yahkeh
-12	.	.	PUNCT	_	_	3	punct	3:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 4 2 case	color:blue
+1	Oquis	quisa	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	0	root	0:root	_
+2	de	de	ADP	_	_	4	case	4:case	_
+3	n	in	DET	_	_	4	det	4:det	_
+4	calihtic	calli	NOUN	_	Number[subj]=Sing|Person[subj]=3	1	obl	1:obl	_
+5	onechtlahpaloco	tlahpaloa	VERB	_	Movement=Ven|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Subcat=Tran|Tense=Past	1	parataxis	1:parataxis	SpaceAfter=No
 
 ~~~
 
@@ -44,38 +37,28 @@ The following 17 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 case	color:blue
-1	solamente	solamente	ADV	_	_	8	advmod	8:advmod	NormalizedForm=solamente|NormalizedLemma=solamente
-2	cada	cada	DET	_	Foreign=Yes	3	det	3:det	NormalizedForm=cada|NormalizedLemma=cada
-3	semeh	semeh	PRON	_	_	8	obj	8:obj	NormalizedForm=semeh|NormalizedLemma=semeh
-4	de	de	ADP	_	Foreign=Yes	5	case	5:case	NormalizedForm=de|NormalizedLemma=de
-5	tehwah	tehwah	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nmod	3:nmod	NormalizedForm=tehwah|NormalizedLemma=tehwah
-6	n	in	DET	_	_	7	det	7:det	NormalizedForm=n|NormalizedLemma=n
-7	dios	dios	PROPN	_	Foreign=Yes	8	nsubj	8:nsubj	NormalizedForm=dios|NormalizedLemma=dios
-8	techmaka	maka	VERB	_	Mood=Ind|VerbForm=Fin	0	root	0:root	NormalizedForm=techmaka|NormalizedLemma=maka|Number[dat]=Plur|Number[subj]=Sing|Person[dat]=1|Person[subj]=3|SpaceAfter=No|Subcat=Tran
-9	.	.	PUNCT	_	_	8	punct	8:punct	NormalizedForm=.|NormalizedLemma=.
+1	Amo	amo	ADV	_	_	3	advmod	3:advmod	_
+2	tlen	tlen	PRON	_	_	3	obj	3:obj	_
+3	nicniqui	niqui	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Pres	0	root	0:root	_
+4	de	de	ADP	_	Foreign=Yes	5	case	5:case	_
+5	non	non	PRON	_	PronType=Prs	3	obl	3:obl	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 case	color:blue
-1	Igual	igual	ADV	_	_	2	advmod	2:advmod	NormalizedForm=igual|NormalizedLemma=igual
-2	mocelebraroa	celebraroa	VERB	_	Mood=Ind|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=mocelebraroa|NormalizedLemma=selebraroa|Number[subj]=Sing|Person[subj]=3|Subcat=Tran
-3	de	de	ADP	_	Foreign=Yes	4	case	4:case	NormalizedForm=de|NormalizedLemma=de
-4	señor	seór	NOUN	_	Foreign=Yes|Number=Sing	2	obl	2:obl	NormalizedForm=señor|NormalizedLemma=_
-5	de	de	ADP	_	Foreign=Yes	6	case	6:case	NormalizedForm=de|NormalizedLemma=de
-6	patrón	patrón	NOUN	_	Foreign=Yes|Number=Sing	4	nmod	4:nmod	NormalizedForm=patrón|NormalizedLemma=_
-7	de	de	ADP	_	Foreign=Yes	8	case	8:case	NormalizedForm=de|NormalizedLemma=de
-8	aquí	aquí	ADV	_	_	6	nmod	6:nmod	NormalizedForm=aquí|NormalizedLemma=_|SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	11:punct	NormalizedForm=,|NormalizedLemma=,
-10	de	de	ADP	_	Foreign=Yes	11	case	11:case	NormalizedForm=de|NormalizedLemma=de
-11	San	san	PROPN	_	_	4	appos	4:appos	NormalizedForm=san|NormalizedLemma=san
-12	Francisco	francisco	PROPN	_	_	11	flat	11:flat	NormalizedForm=francisco|NormalizedLemma=francisco|SpaceAfter=No
-13	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 7 6 case	color:blue
+1	Amo	amo	ADV	_	Polarity=Neg	2	advmod	2:advmod	_
+2	nimihmati	mihmati	VERB	_	Mood=Ind|Number[subj]=Sing|Subcat=Tran	0	root	0:root	_
+3	ica	ca	NOUN	_	NounType=Relat|Number[psor]=Sing|Number[subj]=Sing|Person[psor]=3|Person[subj]=3	2	obl	2:obl	_
+4	n	in	DET	_	_	5	det	5:det	_
+5	tlacual	tlacual	NOUN	_	Case=Abs|Number[subj]=Sing|Person[subj]=3	3	nmod	3:nmod	_
+6	de	de	ADP	_	Foreign=Yes	7	case	7:case	_
+7	nican	nican	ADV	_	_	5	advmod	5:advmod	SpaceAfter=No
 
 ~~~
 

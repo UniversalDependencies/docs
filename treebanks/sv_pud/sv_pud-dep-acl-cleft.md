@@ -34,10 +34,10 @@ The following 4 pairs of parts of speech are connected with `acl:cleft`: <tt><a 
 9	det	den	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	13	expl	13:expl	_
 10	ett	en	DET	DT|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	13	det	13:det	_
 11	mer	mycket	ADV	AB|KOM	Degree=Cmp	12	advmod	12:advmod	_
-12	oroväckande	oroväckande	ADJ	PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	13	amod	13:amod	_
+12	oroväckande	oroväckande	ADJ	PC|PRS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	13	amod	13:amod	ParsemeMWE=1:NotMWE
 13	hot	hot	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	0:root	_
 14	som	som	PRON	HP|-|-|-	PronType=Int,Rel	15	nsubj	15:nsubj	_
-15	upptar	uppta	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:cleft	13:acl:cleft	_
+15	upptar	uppta	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:cleft	13:acl:cleft	ParsemeMWE=2:IVPC.full
 16	Karels	Karel	PROPN	PM|UTR|SIN|GEN	Case=Gen|Gender=Com|Number=Sing	17	nmod:poss	17:nmod:poss	_
 17	uppmärksamhet	uppmärksamhet	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	15	obj	15:obj	SpaceAfter=No
 18	.	.	PUNCT	MAD	_	13	punct	13:punct	_
@@ -57,8 +57,8 @@ The following 4 pairs of parts of speech are connected with `acl:cleft`: <tt><a 
 4	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	_
 5	därför	därför	ADV	AB	_	2	ccomp	2:ccomp	_
 6	de	de	PRON	PN|UTR/NEU|PLU|DEF|SUB	Case=Nom|Definite=Def|Number=Plur|PronType=Prs	7	nsubj	7:nsubj	_
-7	fördjupat	fördjupa	VERB	VB|SUP|AKT	VerbForm=Sup|Voice=Act	5	acl:cleft	5:acl:cleft	_
-8	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	7	obj	7:obj	_
+7	fördjupat	fördjupa	VERB	VB|SUP|AKT	VerbForm=Sup|Voice=Act	5	acl:cleft	5:acl:cleft	ParsemeMWE=1:IRV
+8	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	7	obj	7:obj	ParsemeMWE=1
 9	i	i	ADP	PP	_	10	case	10:case	_
 10	mönster	mönster	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	7	obl	7:obl:i	_
 11	och	och	CCONJ	KN	_	12	cc	12:cc	_

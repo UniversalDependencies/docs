@@ -34,4 +34,4 @@ nsubj(nyisd-2, Te-1)
 ## Discussion 
 
 See issue 320[https://github.com/UniversalDependencies/docs/issues/320]
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:41 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->

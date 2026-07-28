@@ -9,21 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-795 tokens (47%) have a non-empty value of `Number`.
+800 tokens (47%) have a non-empty value of `Number`.
 35 types (45%) occur at least once with a non-empty value of `Number`.
 21 lemmas (33%) occur at least once with a non-empty value of `Number`.
-The feature is used with 4 part-of-speech tags: <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (320; 19% instances), <tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> (240; 14% instances), <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (130; 8% instances), <tt><a href="en_pronouns-pos-AUX.html">AUX</a></tt> (105; 6% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> (325; 19% instances), <tt><a href="en_pronouns-pos-NOUN.html">NOUN</a></tt> (240; 14% instances), <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> (125; 7% instances), <tt><a href="en_pronouns-pos-AUX.html">AUX</a></tt> (110; 6% instances).
 
 ### `PRON`
 
-320 <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Number`.
+325 <tt><a href="en_pronouns-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="en_pronouns-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (320; 100%), <tt><a href="en_pronouns-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (285; 89%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=3</tt> (192; 60%), <tt><a href="en_pronouns-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (171; 53%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="en_pronouns-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (325; 100%), <tt><a href="en_pronouns-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (285; 88%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=3</tt> (197; 61%), <tt><a href="en_pronouns-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (171; 53%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Sing` (320; 100% of non-empty `Number`): <em>hers, his, mine, theirs, yours, it</em>
-* `EMPTY` (10): <em>There, it</em>
+* `Sing` (325; 100% of non-empty `Number`): <em>hers, his, mine, theirs, yours, it</em>
 
 ### `NOUN`
 
@@ -41,14 +40,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `VERB`
 
-130 <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> tokens (49% of all `VERB` tokens) have a non-empty value of `Number`.
+125 <tt><a href="en_pronouns-pos-VERB.html">VERB</a></tt> tokens (48% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="en_pronouns-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (130; 100%), <tt><a href="en_pronouns-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (125; 96%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=3</tt> (83; 64%), <tt><a href="en_pronouns-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (80; 62%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="en_pronouns-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (125; 100%), <tt><a href="en_pronouns-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (120; 96%), <tt><a href="en_pronouns-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (80; 64%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=3</tt> (78; 62%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (30; 23% of non-empty `Number`): <em>like, sell, sold</em>
-* `Sing` (100; 77% of non-empty `Number`): <em>cleaned, drove, is, sold, accelerated, broke, get, hit, parks, saw</em>
+* `Plur` (30; 24% of non-empty `Number`): <em>like, sell, sold</em>
+* `Sing` (95; 76% of non-empty `Number`): <em>cleaned, drove, sold, accelerated, broke, get, hit, is, parks, saw</em>
 * `EMPTY` (135): <em>cleaned, seeing, gave, knew, liked, Take, came, clean, cleaning, do</em>
 
 <table>
@@ -65,22 +64,22 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `AUX`
 
-105 <tt><a href="en_pronouns-pos-AUX.html">AUX</a></tt> tokens (95% of all `AUX` tokens) have a non-empty value of `Number`.
+110 <tt><a href="en_pronouns-pos-AUX.html">AUX</a></tt> tokens (96% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="en_pronouns-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (105; 100%), <tt><a href="en_pronouns-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (105; 100%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=3</tt> (91; 87%), <tt><a href="en_pronouns-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (80; 76%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="en_pronouns-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (110; 100%), <tt><a href="en_pronouns-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (110; 100%), <tt><a href="en_pronouns-feat-Person.html">Person</a></tt><tt>=3</tt> (96; 87%), <tt><a href="en_pronouns-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (85; 77%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Sing` (105; 100% of non-empty `Number`): <em>'s, is, was, ai</em>
+* `Sing` (110; 100% of non-empty `Number`): <em>'s, is, was, ai</em>
 * `EMPTY` (5): <em>'ll</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>PRON --[<tt><a href="en_pronouns-dep-cop.html">cop</a></tt>]--> AUX</tt> (70; 100%),
-<tt>VERB --[<tt><a href="en_pronouns-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (55; 73%),
+<tt>VERB --[<tt><a href="en_pronouns-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (50; 71%),
+<tt>PRON --[<tt><a href="en_pronouns-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (40; 100%),
 <tt>PRON --[<tt><a href="en_pronouns-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (35; 100%),
-<tt>PRON --[<tt><a href="en_pronouns-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (35; 88%),
 <tt>NOUN --[<tt><a href="en_pronouns-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (20; 100%),
 <tt>NOUN --[<tt><a href="en_pronouns-dep-appos.html">appos</a></tt>]--> PRON</tt> (5; 100%),
 <tt>PRON --[<tt><a href="en_pronouns-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (5; 100%),

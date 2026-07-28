@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (0%) are attached to their parents as `iobj`.
+8 nodes (0%) are attached to their parents as `iobj`.
 
-2 instances of `iobj` (67%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.33333333333333.
+6 instances of `iobj` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.625.
 
-The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (2; 67% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
+The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (2; 25% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PRON.html">PRON</a></tt> (2; 25% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (2; 25% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 7	quis	qui	PRON	J	Case=Dat|Gender=Fem,Masc,Neut|InflClass=LatPron|Number=Plur|PronType=Rel	9	obl:arg	_	LASLAVariant=1|LiLaflcat=p
 8	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	LASLAVariant=1|LiLaflcat=v6
 9	liber	liber	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	3	acl:relcl	_	LASLAVariant=2|LiLaflcat=n6
-10	etiamnum	etiamnunc	ADV	M	Degree=Pos	9	advmod	_	LiLaflcat=i
+10	etiamnum	etiamnunc	ADV	M	Degree=Pos	9	advmod:tmod	_	LiLaflcat=i
 11	status	status	NOUN	A4	Case=Nom|Gender=Masc|InflClass=IndEurU|Number=Sing	9	nsubj	_	LASLAVariant=1|LiLaflcat=n4
 12	tibi	tu	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	14	obl	_	LiLaflcat=p
 13	iam	iam	ADV	M	Degree=Pos	14	advmod:tmod	_	LiLaflcat=i
@@ -63,6 +63,40 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 11	et	et	CCONJ	S	_	12	cc	_	LASLAVariant=2|LiLaflcat=i
 12	Danai	danai	PROPN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|NameType=Nat|Number=Plur	10	conj	_	LASLAVariant=N|LiLaflcat=n2
 13	rogant	rogo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	LiLaflcat=v1
+
+~~~
+
+
+~~~ conllu
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 10 iobj	color:blue
+1	si	si	SCONJ	T	_	3	mark	_	_
+2	pacis	pax	NOUN	A3	Case=Gen|Gender=Fem|InflClass=IndEurX|Number=Sing	3	nmod	_	_
+3	odium	odium	NOUN	A2	Case=Nom|Gender=Neut|InflClass=IndEurO|Number=Sing	5	advcl	_	_
+4	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+5	furere	furo	VERB	B3	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Act	0	root	_	_
+6	si	si	SCONJ	T	_	8	mark	_	_
+7	bello	bellum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	8	obl	_	_
+8	placet	placeo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
+9	inducias	indutiae	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Plur	13	obj	_	_
+10	te	tu	PRON	E	Case=Acc|InflClass=LatAnom|Number=Sing|Person=2|PronType=Prs	13	iobj	_	_
+11	mater	mater	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	13	nsubj	_	_
+12	exiguas	exiguus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Plur	9	amod	_	_
+13	rogat	rogo	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
+14	ferat	fero	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	_
+15	ut	ut	SCONJ	T	_	14	mark	_	_
+16	reuerso	reuertor	VERB	B3	Aspect=Perf|Case=Dat|Degree=Pos|Gender=Masc|InflClass=LatX|InflClass[nominal]=IndEurO|Number=Sing|VerbForm=Part|Voice=Pass	19	acl	_	_
+17	post	post	ADP	R	AdpType=Prep	18	case	_	_
+18	fugam	fuga	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	16	obl:tmod	_	_
+19	nato	natus	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Sing	14	obl:arg	_	_
+20	oscula	osculum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	14	obj	_	_
+21	uel	uel	CCONJ	S	_	22	cc	_	_
+22	prima	primus	ADJ	D2	Case=Acc|Degree=Abs|Gender=Neut|InflClass=IndEurO|Number=Plur|NumType=Ord	20	amod	_	_
+23	uel	uel	CCONJ	S	_	24	cc	_	_
+24	suprema	superus	ADJ	C1	Case=Acc|Degree=Abs|Gender=Neut|InflClass=IndEurO|Number=Plur	22	conj	_	_
 
 ~~~
 

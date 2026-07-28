@@ -19,4 +19,4 @@ The `ccomp:poss` relation marks an a sentence complement referenced by a possess
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:27 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:47 CEST -->

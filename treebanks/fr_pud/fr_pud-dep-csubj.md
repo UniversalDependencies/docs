@@ -23,7 +23,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 csubj	color:blue
-1	Il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	wordform=il
+1	Il	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	wordform=il
 2	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	difficile	difficile	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 4	de	de	ADP	IN	_	5	mark	_	_
@@ -76,7 +76,7 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 14	fgColor:white
 # visual-style 14 7 csubj	color:blue
 1	«	«	PUNCT	``	_	3	punct	_	_
-2	Je	il	PRON	PRP	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	wordform=je
+2	Je	moi	PRON	PRP	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	wordform=je
 3	dois	devoir	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	féliciter	féliciter	VERB	VB	VerbForm=Inf	3	xcomp	_	_
 5	Andy	Andy	PROPN	NNP	Gender=Masc|Number=Sing	4	obj	_	SpaceAfter=No
@@ -87,13 +87,13 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 10	mondial	mondial	ADJ	JJ	Gender=Masc|Number=Sing	8	amod	_	_
 11	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 12	vraiment	vraiment	ADV	RB	_	14	advmod	_	_
-13	quelque	quelque	ADJ	JJ	Gender=Fem|Number=Sing	14	amod	_	_
+13	quelque	quelque	DET	JJ	Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
 14	chose	chose	NOUN	NN	Gender=Fem|Number=Sing	3	parataxis	_	_
 15	»	»	PUNCT	''	_	3	punct	_	SpaceAfter=No
 16	,	,	PUNCT	,	_	3	punct	_	_
 17	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux:tense	_	_
 18	constaté	constater	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	parataxis	_	_
-19	l’	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No|wordform=l'
+19	l'	le	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
 20	américain	américain	NOUN	NN	Gender=Masc|Number=Sing	18	nsubj	_	SpaceAfter=No
 21	.	.	PUNCT	.	_	18	punct	_	_
 

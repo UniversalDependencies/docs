@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="olo_kkpp-pos-VERB.h
 
 253 <tt><a href="olo_kkpp-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (199; 79%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (190; 75%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (155; 61%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="olo_kkpp-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (200; 79%), <tt><a href="olo_kkpp-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (190; 75%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=3</tt> (155; 61%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 

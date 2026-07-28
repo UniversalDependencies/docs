@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `iobj`: <tt><a href="fr_gsd-dep-iobj-agent.html">iobj:agent</a></tt>.
 
-896 nodes (0%) are attached to their parents as `iobj`.
+870 nodes (0%) are attached to their parents as `iobj`.
 
-887 instances of `iobj` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.49553571428571.
+861 instances of `iobj` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.47126436781609.
 
-The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (869; 97% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (27; 3% instances).
+The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (843; 97% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (27; 3% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 2	lui	lui	PRON	_	Case=Dat|Emph=No|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
 3	donne	donner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	aspect	aspect	NOUN	_	Number=Sing	3	obj	_	Gender[lex]=Masc
+5	aspect	aspect	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Exponence[Gender]=Inherent
 6	«	«	PUNCT	_	_	7	punct	_	_
 7	formel	formel	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
 8	»	»	PUNCT	_	_	7	punct	_	SpaceAfter=No

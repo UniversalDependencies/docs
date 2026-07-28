@@ -1,19 +1,19 @@
 ---
 layout: base
-title:  'Statistics of advmod:neg in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of advmod:neg in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `advmod:neg`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `advmod:neg`
 
-This relation is a language-specific subtype of <tt><a href="nhi_itml-dep-advmod.html">advmod</a></tt>.
+This relation is a language-specific subtype of <tt><a href="nhi_mesotree-dep-advmod.html">advmod</a></tt>.
 
 4 nodes (0%) are attached to their parents as `advmod:neg`.
 
 4 instances of `advmod:neg` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.25.
 
-The following 1 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (4; 100% instances).
+The following 1 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (4; 100% instances).
 
 
 ~~~ conllu

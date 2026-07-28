@@ -8,12 +8,35 @@ udver: '2'
 
 This relation is universal.
 
-185 nodes (2%) are attached to their parents as `nmod`.
+627 nodes (3%) are attached to their parents as `nmod`.
 
-175 instances of `nmod` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.41621621621622.
+609 instances of `nmod` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.67145135566188.
 
-The following 22 pairs of parts of speech are connected with `nmod`: <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (83; 45% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (47; 25% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (8; 4% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (1; 1% instances).
+The following 42 pairs of parts of speech are connected with `nmod`: <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (354; 56% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (87; 14% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (29; 5% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (22; 4% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (17; 3% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (12; 2% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (10; 2% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="it_kiparlaforest-pos-AUX.html">AUX</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="it_kiparlaforest-pos-X.html">X</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt>-<tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-DET.html">DET</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 13 nmod	color:blue
+1	allora	allora	ADV	_	_	7	discourse	_	Begin=9.19|KID=4-0
+2	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	KID=4-1
+3	mia	mio	ADJ	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	4	amod	_	KID=4-2
+4	casa	casa	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	KID=4-3|Prolonged=Yes
+5	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	KID=4-4|Prolonged=Yes
+6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	KID=4-5|Prolonged=Yes
+7	villa	villa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	End=13.92|KID=4-6|Prolonged=Yes
+8	mh	mh	INTJ	_	_	7	discourse	_	Begin=14.54|KID=5-0|Prolonged=Yes
+9	in	in	ADP	_	ExtPos=ADP	13	case	_	KID=5-1
+10	mezzo	mezzo	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	KID=5-2
+11	a	a	ADP	_	_	9	fixed	_	KID=5-3a
+12	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	KID=5-3b
+13	natura	natura	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	End=16.62|Intonation=WeaklyRising|KID=5-4
+
+~~~
 
 
 ~~~ conllu
@@ -22,27 +45,15 @@ The following 22 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 nmod	color:blue
-1	sì	sì	INTJ	_	_	2	discourse	_	Begin=29.322|Intonation=Falling|KID=25-0
-2	apostrofo	apostrofo	NOUN	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Coconstruct=conj::BOA3017_24-1|KID=25-1
-3	'mbare	'mbare	NOUN	_	_	2	nmod	_	End=30.557|KID=25-2
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 nmod	color:blue
-1	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Begin=157.417|KID=104-0
-2	monologo	monologo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	KID=104-1
-3	di	di	ADP	_	_	4	case	_	KID=104-2
-4	andrea	Andrea	PROPN	_	_	2	nmod	_	Anonymyzed=Yes|KID=104-3
-5	verdi	Verdì	PROPN	_	_	4	flat:name	_	Anonymyzed=Yes|KID=104-4
-6	per	per	ADP	_	_	8	case	_	KID=104-5
-7	dodici	dodici	NUM	_	NumType=Card	8	nummod	_	KID=104-6
-8	ore	ora	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	End=160.007|KID=104-7
+1	anche	anche	ADV	_	_	2	advmod	_	Begin=877.223|KID=225-0|OverlappingGroup=39
+2	zona	zono	NOUN	_	Gender=Fem|Number=Sing	0	root	_	KID=225-1
+3	murri	Murri	PROPN	_	_	2	nmod	_	KID=225-2|Prolonged=Yes
+4	dove	dove	ADV	_	_	5	advmod	_	KID=225-3|Prolonged=Yes
+5	abita	abitare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	KID=225-4|OverlappingGroup=40
+6	leo	Leo	PROPN	_	_	5	nsubj	_	Anonymized=Yes|End=880.165|KID=225-5|OverlappingGroup=40
+7	cioè	cioè	CCONJ	_	_	9	cc	_	Begin=881.05|KID=227-0
+8	là	là	ADV	_	_	9	advmod	_	KID=227-1|Prolonged=Yes
+9	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	2	conj	_	End=882.1|KID=227-2|OverlappingGroup=41
 
 ~~~
 

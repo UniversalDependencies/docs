@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 5	fgColor:white
 # visual-style 5 3 aux:pass	color:blue
 1	Comment	comment	ADV	_	PronType=Int	5	advmod	_	_
-2	Angiox	Angiox	PROPN	_	_	5	nsubj:pass	_	Gender[lex]=Unknown
+2	Angiox	Angiox	PROPN	_	_	5	nsubj:pass	_	_
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	SpaceAfter=No
 4	-il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	expl:subj	_	_
 5	utilisé	utiliser	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past

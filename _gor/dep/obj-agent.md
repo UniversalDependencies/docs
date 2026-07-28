@@ -23,3 +23,4 @@ iobj:instrument(peeling, knife)
 
 “Dewi is peeling the knife with a knife.”
 
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:28 CEST -->

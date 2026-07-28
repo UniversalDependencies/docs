@@ -12,19 +12,19 @@ It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 1776 tokens (7%) have a non-empty value of `Mood`.
 554 types (9%) occur at least once with a non-empty value of `Mood`.
 329 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (901; 4% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (875; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (900; 4% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (876; 4% instances).
 
 ### `VERB`
 
-901 <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> tokens (40% of all `VERB` tokens) have a non-empty value of `Mood`.
+900 <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> tokens (40% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (901; 100%), <tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (901; 100%), <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (841; 93%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (645; 72%), <tt><a href="fr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (620; 69%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fr_pud-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (900; 100%), <tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (900; 100%), <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (840; 93%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (644; 72%), <tt><a href="fr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (619; 69%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (59; 7% of non-empty `Mood`): <em>pourrait, pourraient, devrait, aurait, devraient, serait, irait, aiderait, autoriserait, choisirait</em>
 * `Imp` (5; 1% of non-empty `Mood`): <em>Disons, Laisse, Tiens, Voilà</em>
-* `Ind` (825; 92% of non-empty `Mood`): <em>a, est, peut, avait, était, peuvent, sont, ont, dit, va</em>
+* `Ind` (824; 92% of non-empty `Mood`): <em>a, est, peut, avait, était, peuvent, sont, ont, dit, va</em>
 * `Sub` (12; 1% of non-empty `Mood`): <em>puisse, ait, aperçoive, chante, donne, décide, fasse, finisse, fût</em>
 * `EMPTY` (1352): <em>eu, déclaré, faire, dit, fait, commencé, indiqué, avoir, voir, devenir</em>
 
@@ -46,14 +46,14 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-875 <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> tokens (85% of all `AUX` tokens) have a non-empty value of `Mood`.
+876 <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> tokens (85% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (875; 100%), <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (850; 97%), <tt><a href="fr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (699; 80%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (646; 74%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="fr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (876; 100%), <tt><a href="fr_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (851; 97%), <tt><a href="fr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (700; 80%), <tt><a href="fr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (647; 74%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (16; 2% of non-empty `Mood`): <em>auraient, aurait, serait, serais</em>
-* `Ind` (841; 96% of non-empty `Mood`): <em>a, est, ont, sont, était, avait, fut, avaient, étaient, ai</em>
+* `Ind` (842; 96% of non-empty `Mood`): <em>a, est, ont, sont, était, avait, fut, avaient, étaient, ai</em>
 * `Sub` (18; 2% of non-empty `Mood`): <em>aient, soit, soient, ait, fussent</em>
 * `EMPTY` (154): <em>été, être, avoir, ayant, faire, étant, Etant, fait</em>
 

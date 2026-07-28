@@ -25,7 +25,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 1	یعنی	یعنی	INTJ	PSUS	_	13	obl	_	LTranslit=īʿnī|Translit=īʿnī
 2	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	LTranslit=mā|Translit=mā
 3	به	به	ADP	PREP	_	5	case	_	LTranslit=bh|Translit=bh
-4	این	این	DET	PREM_DEMAJ	_	5	det	_	LTranslit=āīn|Translit=āīn
+4	این	این	DET	PREM_DEMAJ	PronType=Dem	5	det	_	LTranslit=āīn|Translit=āīn
 5	ترتیب	ترتیب	NOUN	N_IANM	Number=Sing	13	obl	_	LTranslit=trtīb|Translit=trtīb
 6	فقط	فقط	ADV	ADV_SADV	_	7	advmod	_	LTranslit=fqṭ|Translit=fqṭ
 7	یک	یک	NUM	PRENUM	_	8	nummod	_	LTranslit=īk|Translit=īk
@@ -47,7 +47,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
 1	جهان	جهان	NOUN	N_IANM	Number=Sing	4	nsubj	_	LTranslit=jhān|Translit=jhān
-2	چه	چه	DET	PREM_EXAJ	_	3	det	_	LTranslit=čh|Translit=čh
+2	چه	چه	DET	PREM_EXAJ	PronType=Exc	3	det	_	LTranslit=čh|Translit=čh
 3	بی‌دریغ	بی‌دریغ	ADJ	ADJ_AJP	_	4	advmod	_	LTranslit=bīdrīġ|Translit=bīdrīġ
 4	می‌فرسود	فرسود	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	LTranslit=frsūd|OrigLemma=فرسود#فرسا|SpaceAfter=No|Translit=mīfrsūd
 5	.	.	PUNCT	PUNC	_	4	punct	_	LTranslit=.|Translit=.
@@ -62,7 +62,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 2 det	color:blue
 1	در	در	ADP	PREP	_	3	case	_	LTranslit=dr|Translit=dr
-2	همان	همان	DET	PREM_DEMAJ	_	3	det	_	LTranslit=hmān|Translit=hmān
+2	همان	همان	DET	PREM_DEMAJ	PronType=Dem	3	det	_	LTranslit=hmān|Translit=hmān
 3	غدیر	غدیر	PROPN	N_IANM	Number=Sing	10	obl:arg	_	LTranslit=ġdīr|Translit=ġdīr
 4	که	که	SCONJ	SUBR	_	5	mark	_	LTranslit=kh|Translit=kh
 5	نام	نام	NOUN	N_IANM	Number=Sing	3	acl	_	LTranslit=nām|Translit=nām

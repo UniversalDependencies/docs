@@ -41,4 +41,4 @@ The indirect object is the third core argument of a verb, after the subject and 
 7	him."	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:00 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:12 CEST -->

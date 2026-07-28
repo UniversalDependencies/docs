@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>–</em> (<tt><a href="ka_glc-pos-PUN
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.047619 (the average of all parts of speech is 1.674782).
+The form / lemma ratio of `PUNCT` is 1.047619 (the average of all parts of speech is 1.692057).
 
 The 1st highest number of forms (2) was observed with the lemma ““”: <em>“, “-</em>.
 
@@ -48,7 +48,7 @@ Examples: <em>,</em>
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ka_glc-dep-punct.html">punct</a></tt> (10428; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (4736; 45% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (3655; 35% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (819; 8% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (389; 4% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (265; 3% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (148; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (136; 1% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (134; 1% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (76; 1% instances), <tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> (22; 0% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt> (14; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="ka_glc-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ka_glc-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (4746; 46% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (3655; 35% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (809; 8% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (389; 4% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (265; 3% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (148; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (136; 1% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (134; 1% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (76; 1% instances), <tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> (22; 0% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt> (14; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (11; 0% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="ka_glc-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ka_glc-pos-INTJ.html">INTJ</a></tt> (2; 0% instances)
 
 10424 (100%) `PUNCT` nodes are leaves.
 

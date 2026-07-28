@@ -77,7 +77,7 @@ The following 5 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 6	es	es	PRON	PPER	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 7	sonst	sonst	ADV	ADV	_	9	advmod	_	_
 8	nicht	nicht	PART	PTKNEG	_	9	advmod	_	_
-9	haben	haben	AUX	VAINF	_	3	acl	_	_
+9	haben	haben	AUX	VAINF	_	3	acl:relcl	_	_
 10	würden	werden	AUX	VAFIN	_	9	aux:pass	_	SpaceAfter=No
 11	,	,	PUNCT	$,	_	9	punct	_	_
 12	erhalten	erhalten	VERB	VVFIN	_	0	root	_	_

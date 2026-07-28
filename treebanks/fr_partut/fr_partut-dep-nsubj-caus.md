@@ -26,7 +26,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 1	Les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
 2	conséquences	conséquence	NOUN	S	Gender=Fem|Number=Plur	7	nsubj:caus	_	_
 3	ne	ne	PART	PART	Polarity=Neg	7	advmod	_	_
-4	se	se	PRON	P	Person=3|PronType=Prs	7	obj:agent	_	_
+4	se	soi	PRON	P	Person=3|PronType=Prs|Reflex=Yes	7	obj	_	_
 5	font	faire	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux:caus	_	_
 6	pas	pas	ADV	BN	Polarity=Neg	7	advmod	_	_
 7	attendre	attendre	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
@@ -41,9 +41,9 @@ The following 2 pairs of parts of speech are connected with `nsubj:caus`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 1 nsubj:caus	color:blue
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:caus	_	_
+1	Il	lui	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj:caus	_	_
 2	fait	faire	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:caus	_	_
-3	s'	se	PRON	P	PronType=Prs	4	expl	_	SpaceAfter=No
+3	s'	soi	PRON	P	PronType=Prs|Reflex=Yes	4	expl:pv	_	SpaceAfter=No
 4	effriter	effriter	VERB	V	VerbForm=Inf	0	root	_	_
 5	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	rochers	rocher	NOUN	S	Gender=Fem|Number=Plur	4	obj:agent	_	SpaceAfter=No

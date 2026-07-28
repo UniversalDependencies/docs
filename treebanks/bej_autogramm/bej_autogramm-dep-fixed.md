@@ -25,7 +25,7 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 1	jaː	_	PART	PTCL	ExtPos=INTJ	7	discourse	_	AlignBegin=382634|AlignEnd=382898|Gloss=ADRF|Idiom=Yes|RX=[PTCL]|TokenType=Root
 2	iraːnaj	_	INTJ	_	_	1	fixed	_	AlignBegin=382898|AlignEnd=383162|Gloss=gosh|InIdiom=Yes|RX=[EXCL]|TokenType=Root
 3	bak	_	PART	DEICT	_	4	advmod	_	AlignBegin=383162|AlignEnd=383426|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
-4	tʔiit	_	NOUN	V1	_	5	dep:comp	_	AlignBegin=383426|AlignEnd=383558|Gloss=resemble|MGloss=resemble-VN|MSeg=tʔi-it|RX=[V1].[IRG]-[N].[V]|TokenType=Root
+4	tʔiit	_	NOUN	V1	_	5	dep:comp	_	AlignBegin=383426|AlignEnd=383558|Gloss=resemble|MGloss=resemble-VN|MSeg=tʔi-it|RelRole=Obj|RX=[V1].[IRG]-[N].[V]|TokenType=Root
 5	=eː	_	SCONJ	CONJ.REL	PronType=Rel	6	acl:relcl	_	AlignBegin=383558|AlignEnd=383624|Gloss==REL|RX==[CONJ]|TokenType=Clit
 6	=na	_	NOUN	CONJ	_	7	obj	_	AlignBegin=383624|AlignEnd=383690|Gloss==thing|RX==[N.F]|TokenType=Clit
 7	hadran	_	VERB	V2	Number=Sing|VerbClass=2	8	ccomp	_	AlignBegin=383690|AlignEnd=383954|Gloss=attend|MGloss=attend-PFV.1SG|MSeg=hadr-an|Reported=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
@@ -65,7 +65,7 @@ The following 7 pairs of parts of speech are connected with `fixed`: <tt><a href
 1	beːn	_	DET	DEM	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=76156|AlignEnd=76440|Gloss=DIST.SG.M.NOM|RX=[DEM]|TokenType=Root
 2	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	det	_	AlignBegin=76440|AlignEnd=76582|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
 3	nda	_	NOUN	N	Gender=Masc|Number=Plur	4	nsubj	_	AlignBegin=76582|AlignEnd=76724|Gloss=man\PL|RX=[SBJ].[N].[M]|TokenType=Root
-4	ʔeːjaːn	_	VERB	V2,IRG	Aspect=Perf|Number=Plur|VerbClass=2	5	dep:comp	_	AlignBegin=76724|AlignEnd=76914|Gloss=come\PFV|MGloss=come\PFV-3PL|MSeg=ʔeːjaː-n|RX=[V2].[IRG]-[PNG]|TokenType=Root
+4	ʔeːjaːn	_	VERB	V2,IRG	Aspect=Perf|Number=Plur|VerbClass=2	5	dep:comp	_	AlignBegin=76724|AlignEnd=76914|Gloss=come\PFV|MGloss=come\PFV-3PL|MSeg=ʔeːjaː-n|RelRole=Obj|RX=[V2].[IRG]-[PNG]|TokenType=Root
 5	=eːb	_	SCONJ	CONJ	ExtPos=SCONJ|Gender=Masc|PronType=Rel	13	dep	_	AlignBegin=76914|AlignEnd=77009|Gloss==REL.M|Idiom=Yes|RX==[CONJ]|TokenType=Clit
 6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	5	fixed	_	AlignBegin=77009|AlignEnd=77151|Gloss=DEF.SG.M.ACC=|InIdiom=Yes|RX=[DET]=|TokenType=Clit
 7	doːr	_	NOUN	N	Gender=Masc	5	fixed	_	AlignBegin=77151|AlignEnd=77293|Gloss=time|InIdiom=Yes|RX=[N].[M]|TokenType=Root

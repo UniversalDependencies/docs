@@ -674,7 +674,7 @@ udver: '2'
             <li>DET: sellele, kõigile, ühele, teistele, igale, paljudele, samale, mõnele, teisele, kõikidele</li>
             <li>NOUN: tööle, lastele, inimestele, inimesele, tööhõivele, teele, ebavõrdsusele, riigile, küsimusele, põrandale</li>
             <li>NOUN-Part: tulnule, allakirjutanule, deporteeritutele, edasijõudnutele, eelnenule, elavatele, kannatanutele, käinutele, lahkunuile, läinutele</li>
-            <li>NUM: kahele, ühele, neljale, paarile, kuuele, kolmele, kümnele, sadadele, 32-le, 4-le</li>
+            <li>NUM: ühele, kahele, neljale, paarile, kuuele, kolmele, kümnele, sadadele, 32-le, 4-le</li>
             <li>PRON: talle, endale, mulle, neile, sellele, meile, kellele, sulle, millele, teile</li>
             <li>PROPN: Eestile, Postimehele, Venemaale, Maale, Tõnule, Saksamaale, Inglismaale, Janile, Hiinale, Kerdile</li>
             <li>SYM: %-le, i-le</li>
@@ -1026,7 +1026,7 @@ udver: '2'
             <li>ADJ: selgeks, heaks, oluliseks, kindlaks, paremaks, esimeseks, puhtaks, suuremaks, tänaseks, nüüdseks</li>
             <li>ADJ-Part: sobivaks, iseseisvaks, juhtivaks, kättesaadavaks, määravaks, vähendavaks, soovitavaks, õnnestunuks, algavaks, enesestmõistetavaks</li>
             <li>DET: üheks, selleks, igaks, mõneks, mitmeks, teiseks, esimeseks, samaks, selliseks, Nendeks</li>
-            <li>NOUN: lisaks, põhjuseks, aluseks, aastaks, eesmärgiks, ajaks, lõpuks, kasuks, õnneks, ülesandeks</li>
+            <li>NOUN: lisaks, põhjuseks, aluseks, aastaks, eesmärgiks, ajaks, lõpuks, kasuks, ülesandeks, saamiseks</li>
             <li>NOUN-Part: viibinuks, väljavalituteks</li>
             <li>NUM: kaheks, kolmeks, üheks, neljaks, viieks, paariks, kuueks, pooleks, 10ks, 51-ks</li>
             <li>PRON: selleks, omaks, milleks, samaks, nendeks, selliseks, iseendaks, kõigeks, kelleks, paljuks</li>
@@ -2205,7 +2205,7 @@ udver: '2'
             </li>
             <li>ADV
               <ul>
-                <li>ADV: rohkem, enam, kas, vähem, ükskõik, nii, peaaegu, á, ilma, kuidas</li>
+                <li>ADV: rohkem, enam, kas, vähem, ükskõik, nii, peaaegu, tahes, á, ilma</li>
                 <li>INTJ: oi</li>
                 <li>NUM: ühelt</li>
                 <li>PRON: ühelt, teiselt, igal, omalt, mitmel, mõnel, igale, igalt, mõlemalt, teisel</li>
@@ -2481,7 +2481,7 @@ udver: '2'
               <ul>
                 <li>ADJ: 125, 15-69, 16,4, 20-, 200, 3,5, 30, 50, 500, 82</li>
                 <li>ADP: eest</li>
-                <li>ADV: 18,1, keskelt, näteks, valimis</li>
+                <li>ADV: 18,1, keskelt, mõlkkis, näteks, tuduvalt, tõenoliselt, valimis</li>
                 <li>AUX-Fin: oli</li>
                 <li>DET: niiguse, sama, to</li>
                 <li>NOUN: Los, eestirahvas, inimestel, keskkofnnaasjadest, külalsed, laeivapalukest, nishi, pealvaatajat, progrmmeerija, protsessor-</li>
@@ -2611,11 +2611,11 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (21)</li>
+            <li>VERB-Fin--NOUN (20)</li>
             <li>VERB-Fin--NOUN-Nom (1503)</li>
-            <li>VERB-Fin--NOUN-Par (249)</li>
+            <li>VERB-Fin--NOUN-Par (250)</li>
             <li>VERB-Fin--PRON (1)</li>
-            <li>VERB-Fin--PRON-Nom (1714)</li>
+            <li>VERB-Fin--PRON-Nom (1715)</li>
             <li>VERB-Fin--PRON-Par (52)</li>
             <li>VERB-Inf--NOUN (3)</li>
             <li>VERB-Inf--NOUN-Gen (2)</li>
@@ -2694,24 +2694,24 @@ udver: '2'
             <li>VERB-Conv--PRON-Nom (2)</li>
             <li>VERB-Conv--PRON-Par (7)</li>
             <li>VERB-Fin--NOUN (17)</li>
-            <li>VERB-Fin--NOUN-Gen (356)</li>
+            <li>VERB-Fin--NOUN-Gen (357)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(üle) (1)</li>
             <li>VERB-Fin--NOUN-Nom (211)</li>
-            <li>VERB-Fin--NOUN-Par (1021)</li>
+            <li>VERB-Fin--NOUN-Par (1019)</li>
             <li>VERB-Fin--NOUN-Par-ADP(mööda) (1)</li>
             <li>VERB-Fin--PRON-Acc (1)</li>
             <li>VERB-Fin--PRON-Gen (43)</li>
             <li>VERB-Fin--PRON-Nom (69)</li>
-            <li>VERB-Fin--PRON-Par (472)</li>
+            <li>VERB-Fin--PRON-Par (473)</li>
             <li>VERB-Inf--NOUN (7)</li>
             <li>VERB-Inf--NOUN-Gen (70)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(of) (1)</li>
             <li>VERB-Inf--NOUN-Nom (158)</li>
-            <li>VERB-Inf--NOUN-Par (518)</li>
+            <li>VERB-Inf--NOUN-Par (519)</li>
             <li>VERB-Inf--NOUN-Par-ADP(of) (1)</li>
             <li>VERB-Inf--PRON-Gen (4)</li>
             <li>VERB-Inf--PRON-Nom (25)</li>
-            <li>VERB-Inf--PRON-Par (237)</li>
+            <li>VERB-Inf--PRON-Par (238)</li>
             <li>VERB-Part--NOUN (6)</li>
             <li>VERB-Part--NOUN-Gen (52)</li>
             <li>VERB-Part--NOUN-Nom (121)</li>
@@ -2788,7 +2788,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obl:agent</a></li>
+      <li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advmod:lmod</a>, <a>advmod:tmod</a>, <a>cc:preconj</a>, <a>compound:idiom</a>, <a>compound:prt</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>reparandum</a></li>
       </ul>
     </td>

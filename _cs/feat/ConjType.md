@@ -25,4 +25,4 @@ The words are considered special kind of coordinating conjunctions and they are 
 #### Examples
 
 * _<b>x</b>_ “×”, _<b>krát</b>_ “times”, _<b>plus</b>_ “plus”, _<b>minus</b>_ “minus”, _<b>kráte</b>_ “times”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:07 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:47 CEST -->

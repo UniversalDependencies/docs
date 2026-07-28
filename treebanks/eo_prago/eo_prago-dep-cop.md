@@ -91,7 +91,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 18	,	,	PUNCT	_	_	25	punct	_	_
 19	ke	ke	SCONJ	_	_	25	mark	_	_
 20	en	en	ADP	_	_	23	case	_	_
-21	la	la	DET	_	Definite=Def	23	det	_	_
+21	la	la	DET	_	Definite=Def|PronType=Art	23	det	_	_
 22	publikaj	publika	ADJ	_	Case=Nom|Number=Plur	23	amod	_	_
 23	institucioj	institucio	NOUN	_	Case=Nom|Number=Plur	25	obl	_	_
 24	estu	esti	AUX	_	Mood=Imp|VerbForm=Fin	25	aux	_	_
@@ -104,7 +104,7 @@ The following 5 pairs of parts of speech are connected with `cop`: <tt><a href="
 31	ke	ke	SCONJ	_	_	38	mark	_	_
 32	almenaŭ	almenaŭ	ADV	_	_	38	advmod	_	_
 33	krom	krom	ADP	_	_	36	case	_	_
-34	la	la	DET	_	Definite=Def	36	det	_	_
+34	la	la	DET	_	Definite=Def|PronType=Art	36	det	_	_
 35	gentlingvaj	gentlingva	ADJ	_	Case=Nom|Number=Plur	36	amod	_	_
 36	kulturejoj	kulturejo	NOUN	_	Case=Nom|Number=Plur	38	obl	_	_
 37	tie	tie	ADV	_	_	38	advmod	_	_

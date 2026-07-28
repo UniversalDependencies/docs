@@ -19,4 +19,4 @@ In Old Egyptian, a dislocated subject is a noun that usually appears at the begi
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:51 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:06 CEST -->

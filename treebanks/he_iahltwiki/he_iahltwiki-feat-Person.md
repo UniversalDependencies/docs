@@ -127,7 +127,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-conj.html">conj</a></tt>]--> VERB</tt> (1280; 93%),
-<tt>VERB --[<tt><a href="he_iahltwiki-dep-obl.html">obl</a></tt>]--> PRON</tt> (606; 72%),
+<tt>VERB --[<tt><a href="he_iahltwiki-dep-obl.html">obl</a></tt>]--> PRON</tt> (608; 72%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (355; 91%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (286; 65%),
 <tt>VERB --[<tt><a href="he_iahltwiki-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (202; 71%),

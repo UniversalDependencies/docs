@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-453 nodes (14%) are attached to their parents as `punct`.
+454 nodes (14%) are attached to their parents as `punct`.
 
-293 instances of `punct` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.29580573951435.
+294 instances of `punct` (65%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.28854625550661.
 
-The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (223; 49% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (157; 35% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (21; 5% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (20; 4% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (16; 4% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (8; 2% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (223; 49% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (158; 35% instances), <tt><a href="eo_prago-pos-NUM.html">NUM</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (21; 5% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (20; 4% instances), <tt><a href="eo_prago-pos-ADV.html">ADV</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (16; 4% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (8; 2% instances), <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (5; 1% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="eo_prago-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
@@ -9,18 +9,18 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Western Sierra Puebla Nahuatl ITML
+# UD Western Sierra Puebla Nahuatl MesoTree
 
 Language: [Western Sierra Puebla Nahuatl](/nhi/index.html) (code: `nhi`)<br/>
 Family: Uto-Aztecan
 
 This treebank has been part of Universal Dependencies since the UD v2.11 release.
 
-The following people have contributed to making this treebank part of UD: Robert Pugh, Marivel Huerta Mendez, Mitsuya Sasaki, Francis Tyers.
+The following people have contributed to making this treebank part of UD: Robert Pugh, Marivel Huerta Mendez, Mitsuya Sasaki, Francis Tyers, María Ximena Juarez Huerta, Ángeles Márquez Hernández.
 
-Repository: [UD_Western_Sierra_Puebla_Nahuatl-ITML](https://github.com/UniversalDependencies/UD_Western_Sierra_Puebla_Nahuatl-ITML)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnhi_itml217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Repository: [UD_Western_Sierra_Puebla_Nahuatl-MesoTree](https://github.com/UniversalDependencies/UD_Western_Sierra_Puebla_Nahuatl-MesoTree)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udnhi_mesotree218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -28,7 +28,7 @@ Genre: spoken, fiction, grammar-examples, nonfiction
 
 Questions, comments?
 General annotation questions (either Western Sierra Puebla Nahuatl-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Western_Sierra_Puebla_Nahuatl-ITML/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Western_Sierra_Puebla_Nahuatl-MesoTree/issues).
 If you want to collaborate, please contact [pughrob&nbsp;(æt)&nbsp;iu&nbsp;•&nbsp;edu].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -44,14 +44,13 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-
-
-UD Western Sierra Puebla Nahuatl-IU is a treebank consisting of sentences from written fiction and non-fiction, spontaenous speech, and grammar examples.
+UD Western Sierra Puebla Nahuatl-MesoTree is a combination of the existing UD Western Sierra Puebla Nahuatl-IU treebank (ITML) (with some updates to annotations due to caught errors or changes annotation decisions) and new sentences annotated as part of the NSF-funded project, "Syntactically-annotated corpora for endangered languages in areal contact" (MesoTree).
 
 
 
-The treebank was pre-annotated for morphology using the [`apertium-nhi`](https://github.com/apertium/apertium-nhi/) (Pugh et al, 2021).
-The morphological analyses were disambiguated and annotated for dependency structure by hand.
+The ITML treebank was pre-annotated for morphology using the [`apertium-nhi`](https://github.com/apertium/apertium-nhi/) (Pugh et al, 2021). The morphological analyses were disambiguated and annotated for dependency structure by hand. The MesoTree data does not include morphological analyses at this time.
+
+The treebank consists of sentences from written fiction and non-fiction, spontanenous speech, and grammar examples. The new additions also consist of a large chunk of sentences (ALIMG) translated into two subvarieties of the language, one from San Miguel Tenango, Zacatlán, and another from Omitlán, Tepetzintla.
 
 ## Acknowledgments
 We would like to thank the following for giving permission to use their sentences.
@@ -67,29 +66,29 @@ We would like to thank the following for giving permission to use their sentence
 * Pugh, R., Tyers, F., and Huerta Mendez, M. (2021). Towards an open source finite-state morphological analyzer for Zacatlán-Ahuacatlán-Tepetzintla Nahuatl. In Proceedings of the 4th Workshop on the Use of Computational Methods in the Study of Endangered Languages Volume 1 (Papers), pages 80–85.
 
 
-# Statistics of UD Western Sierra Puebla Nahuatl ITML
+# Statistics of UD Western Sierra Puebla Nahuatl MesoTree
 
 ## POS Tags
 
-[ADJ](nhi_itml-pos-ADJ.html) – [ADP](nhi_itml-pos-ADP.html) – [ADV](nhi_itml-pos-ADV.html) – [AUX](nhi_itml-pos-AUX.html) – [CCONJ](nhi_itml-pos-CCONJ.html) – [DET](nhi_itml-pos-DET.html) – [INTJ](nhi_itml-pos-INTJ.html) – [NOUN](nhi_itml-pos-NOUN.html) – [NUM](nhi_itml-pos-NUM.html) – [PRON](nhi_itml-pos-PRON.html) – [PROPN](nhi_itml-pos-PROPN.html) – [PUNCT](nhi_itml-pos-PUNCT.html) – [SCONJ](nhi_itml-pos-SCONJ.html) – [VERB](nhi_itml-pos-VERB.html) – [X](nhi_itml-pos-X.html)
+[ADJ](nhi_mesotree-pos-ADJ.html) – [ADP](nhi_mesotree-pos-ADP.html) – [ADV](nhi_mesotree-pos-ADV.html) – [AUX](nhi_mesotree-pos-AUX.html) – [CCONJ](nhi_mesotree-pos-CCONJ.html) – [DET](nhi_mesotree-pos-DET.html) – [INTJ](nhi_mesotree-pos-INTJ.html) – [NOUN](nhi_mesotree-pos-NOUN.html) – [NUM](nhi_mesotree-pos-NUM.html) – [PART](nhi_mesotree-pos-PART.html) – [PRON](nhi_mesotree-pos-PRON.html) – [PROPN](nhi_mesotree-pos-PROPN.html) – [PUNCT](nhi_mesotree-pos-PUNCT.html) – [SCONJ](nhi_mesotree-pos-SCONJ.html) – [VERB](nhi_mesotree-pos-VERB.html) – [X](nhi_mesotree-pos-X.html)
 
 ## Features
 
-[Aspect](nhi_itml-feat-Aspect.html) – [Case](nhi_itml-feat-Case.html) – [Degree](nhi_itml-feat-Degree.html) – [ExtPos](nhi_itml-feat-ExtPos.html) – [Foreign](nhi_itml-feat-Foreign.html) – [Gender](nhi_itml-feat-Gender.html) – [Mood](nhi_itml-feat-Mood.html) – [Number](nhi_itml-feat-Number.html) – [Number[obj]](nhi_itml-feat-Number-obj.html) – [Number[subj]](nhi_itml-feat-Number-subj.html) – [Person](nhi_itml-feat-Person.html) – [Person[obj]](nhi_itml-feat-Person-obj.html) – [Person[subj]](nhi_itml-feat-Person-subj.html) – [Polarity](nhi_itml-feat-Polarity.html) – [Polite](nhi_itml-feat-Polite.html) – [PronType](nhi_itml-feat-PronType.html) – [Reflex](nhi_itml-feat-Reflex.html) – [Tense](nhi_itml-feat-Tense.html) – [Typo](nhi_itml-feat-Typo.html) – [VerbForm](nhi_itml-feat-VerbForm.html) – [Voice](nhi_itml-feat-Voice.html)
+[Aspect](nhi_mesotree-feat-Aspect.html) – [Case](nhi_mesotree-feat-Case.html) – [Degree](nhi_mesotree-feat-Degree.html) – [ExtPos](nhi_mesotree-feat-ExtPos.html) – [Foreign](nhi_mesotree-feat-Foreign.html) – [Gender](nhi_mesotree-feat-Gender.html) – [Mood](nhi_mesotree-feat-Mood.html) – [Movement](nhi_mesotree-feat-Movement.html) – [NounType](nhi_mesotree-feat-NounType.html) – [Number](nhi_mesotree-feat-Number.html) – [Number[obj]](nhi_mesotree-feat-Number-obj.html) – [Number[psor]](nhi_mesotree-feat-Number-psor.html) – [Number[subj]](nhi_mesotree-feat-Number-subj.html) – [Person](nhi_mesotree-feat-Person.html) – [Person[obj]](nhi_mesotree-feat-Person-obj.html) – [Person[psor]](nhi_mesotree-feat-Person-psor.html) – [Person[subj]](nhi_mesotree-feat-Person-subj.html) – [Polarity](nhi_mesotree-feat-Polarity.html) – [Polite](nhi_mesotree-feat-Polite.html) – [PronType](nhi_mesotree-feat-PronType.html) – [Reflex](nhi_mesotree-feat-Reflex.html) – [Subcat](nhi_mesotree-feat-Subcat.html) – [Tense](nhi_mesotree-feat-Tense.html) – [Typo](nhi_mesotree-feat-Typo.html) – [VerbForm](nhi_mesotree-feat-VerbForm.html) – [Voice](nhi_mesotree-feat-Voice.html)
 
 ## Relations
 
-[acl](nhi_itml-dep-acl.html) – [acl:relcl](nhi_itml-dep-acl-relcl.html) – [advcl](nhi_itml-dep-advcl.html) – [advmod](nhi_itml-dep-advmod.html) – [advmod:neg](nhi_itml-dep-advmod-neg.html) – [amod](nhi_itml-dep-amod.html) – [appos](nhi_itml-dep-appos.html) – [aux](nhi_itml-dep-aux.html) – [case](nhi_itml-dep-case.html) – [cc](nhi_itml-dep-cc.html) – [ccomp](nhi_itml-dep-ccomp.html) – [compound](nhi_itml-dep-compound.html) – [conj](nhi_itml-dep-conj.html) – [cop](nhi_itml-dep-cop.html) – [csubj](nhi_itml-dep-csubj.html) – [dep](nhi_itml-dep-dep.html) – [det](nhi_itml-dep-det.html) – [discourse](nhi_itml-dep-discourse.html) – [dislocated](nhi_itml-dep-dislocated.html) – [fixed](nhi_itml-dep-fixed.html) – [flat](nhi_itml-dep-flat.html) – [goeswith](nhi_itml-dep-goeswith.html) – [iobj](nhi_itml-dep-iobj.html) – [mark](nhi_itml-dep-mark.html) – [nmod](nhi_itml-dep-nmod.html) – [nsubj](nhi_itml-dep-nsubj.html) – [nummod](nhi_itml-dep-nummod.html) – [obj](nhi_itml-dep-obj.html) – [obl](nhi_itml-dep-obl.html) – [orphan](nhi_itml-dep-orphan.html) – [parataxis](nhi_itml-dep-parataxis.html) – [punct](nhi_itml-dep-punct.html) – [reparandum](nhi_itml-dep-reparandum.html) – [root](nhi_itml-dep-root.html) – [vocative](nhi_itml-dep-vocative.html) – [xcomp](nhi_itml-dep-xcomp.html)
+[acl](nhi_mesotree-dep-acl.html) – [acl:relcl](nhi_mesotree-dep-acl-relcl.html) – [advcl](nhi_mesotree-dep-advcl.html) – [advmod](nhi_mesotree-dep-advmod.html) – [advmod:neg](nhi_mesotree-dep-advmod-neg.html) – [amod](nhi_mesotree-dep-amod.html) – [appos](nhi_mesotree-dep-appos.html) – [aux](nhi_mesotree-dep-aux.html) – [case](nhi_mesotree-dep-case.html) – [cc](nhi_mesotree-dep-cc.html) – [ccomp](nhi_mesotree-dep-ccomp.html) – [compound](nhi_mesotree-dep-compound.html) – [conj](nhi_mesotree-dep-conj.html) – [cop](nhi_mesotree-dep-cop.html) – [csubj](nhi_mesotree-dep-csubj.html) – [dep](nhi_mesotree-dep-dep.html) – [det](nhi_mesotree-dep-det.html) – [discourse](nhi_mesotree-dep-discourse.html) – [dislocated](nhi_mesotree-dep-dislocated.html) – [fixed](nhi_mesotree-dep-fixed.html) – [flat](nhi_mesotree-dep-flat.html) – [goeswith](nhi_mesotree-dep-goeswith.html) – [iobj](nhi_mesotree-dep-iobj.html) – [mark](nhi_mesotree-dep-mark.html) – [nmod](nhi_mesotree-dep-nmod.html) – [nsubj](nhi_mesotree-dep-nsubj.html) – [nummod](nhi_mesotree-dep-nummod.html) – [obj](nhi_mesotree-dep-obj.html) – [obl](nhi_mesotree-dep-obl.html) – [orphan](nhi_mesotree-dep-orphan.html) – [parataxis](nhi_mesotree-dep-parataxis.html) – [punct](nhi_mesotree-dep-punct.html) – [reparandum](nhi_mesotree-dep-reparandum.html) – [root](nhi_mesotree-dep-root.html) – [vocative](nhi_mesotree-dep-vocative.html) – [xcomp](nhi_mesotree-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 909 sentences, 9217 tokens and 9461 syntactic words.</li>
+<li>This corpus contains 3024 sentences, 19191 tokens and 19535 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1828 tokens (20%) that are not followed by a space.</li>
+<li>This corpus contains 4988 tokens (26%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -97,12 +96,12 @@ We would like to thank the following for giving permission to use their sentence
 </ul>
 
 <ul>
-<li>This corpus does not contain words that contain both letters and punctuation.</li>
+<li>This corpus contains 2 types of words that contain both letters and punctuation. Examples: inchancahuan:, tetame:</li>
 </ul>
 
 <ul>
-<li>This corpus contains 239 multi-word tokens. On average, one multi-word token consists of 2.02 syntactic words.</li>
-<li>There are 183 types of multi-word tokens. Examples: okatka, yen, nisihtzin, den, nakin, nicniu, mai, mokiseguiro, santipitzin, yotiehkokeh, Yomononotskeh, del, manioh, matiakan, matikchiwakah, moito, momoskalti, naquin, nikankah, nima, nokse, ocatca, onicatca, saoyah, yocholoh, yomic, yomotlaleh, yotiquitiya, yowalah, Amotlen, Ikanon, Inyajtiwitzis, Mattemotin, Natentli, Nichan, Ninchan, Oksikin, Oticatca, Sayeh, Ticpintzin, Tlakej, Yatmitzontlacamtisqueh, Yeh, Yokanki, Yotlaocox, Yotquitac, acmo, amo, calihtic, darles.</li>
+<li>This corpus contains 336 multi-word tokens. On average, one multi-word token consists of 2.02 syntactic words.</li>
+<li>There are 246 types of multi-word tokens. Examples: den, ican, yen, okatka, nisihtzin, nakin, nicniu, ocatca, yopeu, amotlen, mai, mokiseguiro, nima, santipitzin, yomic, yotiehkokeh, Yomononotskeh, del, intlaxcal, manioh, matiakan, matikchiwakah, moito, momoskalti, naquin, natl, nikankah, nohtli, nokse, ococh, onicatca, saoyah, yocatca, yocholoh, yomotlaleh, yotiquitiya, yowalah, Amocaten, Ikanon, Incaxmeh, Inyajtiwitzis, Ixcatqui, Mattemotin, Moyolcatl, Natentli, Nepaca, Nichan, Ninchan, Ninmitlauan, Nocse.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -110,31 +109,32 @@ We would like to thank the following for giving permission to use their sentence
 <h3>Tags</h3>
 
 <ul>
-<li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: PART, SYM</li>
+<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
+<li>This corpus does not use the following tags: SYM</li>
 </ul>
 
 <ul>
+<li>This corpus contains 1 word types tagged as particles (PART): amo</li>
 </ul>
 
 <ul>
-<li>This corpus contains 85 lemmas tagged as pronouns (PRON): akaj, akih, akij, akin, akinoh, algo, aquih, aquin, ce, ciqui, ese, eso, itlah, les, lo, miak, mik, mowisiotzin, nada, nakin, namehuan, namejwan, nehhuatl, nehuatl, nehuatluatl, nehwatl, nej, nejuatl, nejwatl, nicanca, nicancah, nikanka, nin, ninih, nochi, nomehwah, non, nonoh, notewah, ocsiquin, okse, oksikin, que, se, semeh, siki, sikin, tehhuan, tehhuatl, tehuan, tehuat, tehuatl, tehwa, tehwah, tehwan, tehwatl, tej, tejuatl, tejwan, tercero, tlan, tleh, tlen, tleno, tlenoh, tlenohoh, tlenoj, tlensaso, todo, touatzin, ye, yehhuan, yehhuatl, yehua, yehuan, yehuatl, yehwa, yehwah, yehwatl, yehwuatl, yej, yejuatl, yejwan, yejwatl, yo</li>
+<li>This corpus contains 119 lemmas tagged as pronouns (PRON): akaj, akih, akij, akin, akinoh, algo, ana, aqui, aquih, aquihque, aquin, atl, catli, catliye, ce, ciqui, ese, eso, eua, inin, itl, itlah, les, lo, miac, miak, mik, miqui, mowisiotzin, nada, nakin, namehuan, namejwan, ne, neca, necah, necateh, neci, nehhuatl, nehuatl, nehuatluatl, nehwatl, nej, nejuatl, nejwatl, nicanca, nicancah, nikanka, nin, ninih, nochi, nomehwah, non, nonoh, notewah, noyohca, ocsiqui, ocsiquin, okse, oksikin, que, quen, quesqui, quexquich, se, semeh, sihtli, siki, sikin, siqui, tatita, te, teh, tehhuan, tehhuatl, tehuan, tehuat, tehuatl, tehuatzin, tehwa, tehwah, tehwan, tehwatl, tej, tejuatl, tejwan, temiston, tercero, tlan, tleh, tlen, tlenic, tleno, tlenoh, tlenohoh, tlenoj, tlenon, tlensa, tlensaso, todo, touatzin, tzocotzi, uan, ye, yeh, yehhuan, yehhuatl, yehua, yehuan, yehuatl, yehwa, yehwah, yehwatl, yehwuatl, yej, yejuatl, yejwan, yejwatl, yo</li>
 </ul>
 
 <ul>
-<li>This corpus contains 43 lemmas tagged as determiners (DET): cada, catqui, ce, ciqui, cualquier, det, dion, el, in, incoyotl, la, las, miac, miak, mic, mik, miqui, nakin, neca, necah, nicanca, nicancah, nikanka, nikankah, nin, nochi, nochtin, non, nonoh, occe, occiqui, ok, okse, oksiki, quesqui, se, siki, sikin, siqui, tlen, tlenoh, un, uno</li>
+<li>This corpus contains 66 lemmas tagged as determiners (DET): cada, catli, catliye, catqui, ce, ciqui, comitl, cualquier, de, det, dion, ecan, el, icanca, in, incoyotl, inin, itscuintli, la, las, miac, miak, miaqui, mic, mik, miqui, mismo, n, nakin, neca, necah, nicanca, nicancah, nicxi, nikanka, nikankah, nin, nion, nitil, nochi, nochin, nochtin, non, nonoh, oc, occe, occiqui, ocse, ocsiqui, ok, okse, oksiki, quesqui, se, siki, sikin, siqui, siquin, temachtani, tich, tlaxcal, tlen, tleno, tlenoh, un, uno</li>
 </ul>
 
 <ul>
-<li>Out of the above, 18 lemmas occurred sometimes as PRON and sometimes as DET: ce, ciqui, miak, mik, nakin, nicanca, nicancah, nikanka, nin, nochi, non, nonoh, okse, se, siki, sikin, tlen, tlenoh</li>
+<li>Out of the above, 29 lemmas occurred sometimes as PRON and sometimes as DET: catli, catliye, ce, ciqui, inin, miac, miak, mik, miqui, nakin, neca, necah, nicanca, nicancah, nikanka, nin, nochi, non, nonoh, ocsiqui, okse, quesqui, se, siki, sikin, siqui, tlen, tleno, tlenoh</li>
 </ul>
 
 <ul>
-<li>This corpus contains 20 lemmas tagged as auxiliaries (AUX): _, catqui, estar, haber, huili, i, katki, kisa, ma, mach, mo, nimi, o, pehua, pewi, ser, uili, wili, witsi, witzi</li>
+<li>This corpus contains 24 lemmas tagged as auxiliaries (AUX): _, catqui, estar, haber, huili, i, katki, kisa, ma, mach, mo, nimi, o, oc, pehua, peua, pewi, ser, uili, wili, witsi, witzi, yen, youi</li>
 </ul>
 
 <ul>
-<li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: _, catqui, huili, katki, kisa, pewi, ser, wili, witsi</li>
+<li>Out of the above, 14 lemmas occurred sometimes as AUX and sometimes as VERB: _, catqui, huili, i, katki, kisa, nimi, peua, pewi, ser, uili, wili, witsi, youi</li>
 </ul>
 
 <ul>
@@ -192,10 +192,10 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: diferentes, huehhueyen, tlaltitikten, tzahtzayactique, wehwinyi, wihwinyeh, xitlatztiqueh, amables, malos, patronales</li>
+      <li>ADJ: diferentes, huehhueyen, tlaltitikten, tzahtzayactique, wehwinyi, wihwinyeh, xitlatztiqueh, amables, chichiltiqueh, malos</li>
       <li>NOUN: tokniwah, ceraokwilimeh, coyomeh, mopiluan, niconeuan, tipemeh, ichcame, siwameh, danzas, años</li>
       <li>NUM: nahuen, naweh, yeyen, millones</li>
-      <li>PRON: tehwah, yejwan, tehuan, yehuan, yehwah, tehhuan, notewah, tehwan, tejwan, yehhuan</li>
+      <li>PRON: tehwah, yejwan, tehuan, yehuan, yehwah, tehhuan, ninqueh, notewah, tehwan, tejwan</li>
       <li>PROPN: estados, unidos</li>
     </ul>
   </li>
@@ -276,7 +276,8 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Imp
     <ul>
-      <li>AUX: katka, catca, nicatca, Okatka, catcah, ticatca, ticatcah, uilia, uiliah</li>
+      <li>AUX: katka, catca, nicatca, ocatca, Okatka, catcah, ticatca, ticatcah, uilia, uiliah</li>
+      <li>VERB: okatka, onipiyaya, ocatca, oniniquiya, ocmatia, ocpiyaya, onechilhuaya, oniquilhuaya, otiquitiya, oyaya</li>
       <li>VERB-Fin: okatka, onipiyaya, ocatca, oniniquiya, ocmatia, ocpiyaya, onechilhuaya, oniquilhuaya, otiquitiya, oyaya</li>
     </ul>
   </li>
@@ -285,6 +286,7 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Perf
     <ul>
+      <li>VERB: oquihtoh, onauat, oyah, opew, opeu, oyahkeh, ocholoh, octlahtlanih, owits, oyaj</li>
       <li>VERB-Fin: oquihtoh, onauat, oyah, opew, opeu, oyahkeh, ocholoh, octlahtlanih, owits, oyaj</li>
     </ul>
   </li>
@@ -293,6 +295,7 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Prog
     <ul>
+      <li>VERB: tikitok, kichihchiwtok, kipixtok, nitiquitoc, tentok, tsikwintok, cholohtokeh, cualantoc, molevantarohtok, niyolpactoc</li>
       <li>VERB-Fin: tikitok, kichihchiwtok, kipixtok, nitiquitoc, tentok, tsikwintok, cholohtokeh, cualantoc, molevantarohtok, niyolpactoc</li>
     </ul>
   </li>
@@ -313,6 +316,7 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Imp
     <ul>
+      <li>VERB: xiyo, ixquita, Ixcochi, ixmeua, ixtlaocoya, nikixmati, xiyahkah, xoncualani, Ixcaqui, Ixnechmaka</li>
       <li>VERB-Fin: xiyo, ixquita, Ixcochi, ixmeua, ixtlaocoya, nikixmati, xiyahkah, xoncualani, Ixcaqui, Ixnechmaka</li>
     </ul>
   </li>
@@ -321,6 +325,8 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Ind
     <ul>
+      <li>AUX: huili, o, opeu</li>
+      <li>VERB: katki, oquihtoh, onauat, oyah, mota, niquihtoz, yuwi, nesi, niquihlnamiqui, niyaz</li>
       <li>VERB-Fin: katki, oquihtoh, onauat, oyah, mota, niquihtoz, yuwi, nesi, niquihlnamiqui, niyaz</li>
       <li>VERB-Inf: ver, dar</li>
     </ul>
@@ -331,7 +337,16 @@ We would like to thank the following for giving permission to use their sentence
   <li>Opt
     <ul>
       <li>AUX: ito</li>
+      <li>VERB: kiseguiro, Chaueh, Ixcana, cequitta, moskalti, motlamochiwa, tiakan, Chuhue, ceicxipalti, cequimpiya</li>
       <li>VERB-Fin: kiseguiro, Chaueh, cequitta, moskalti, motlamochiwa, tiakan, Chuhue, ceicxipalti, cequimpiya, cpiyacan</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prp
+    <ul>
+      <li>VERB: oquinpaleuito</li>
     </ul>
   </li>
 </ul>
@@ -352,6 +367,7 @@ We would like to thank the following for giving permission to use their sentence
   <li>Fut
     <ul>
       <li>AUX: wilis, niiski, pewis, uilis</li>
+      <li>VERB: niquihtoz, niyaz, niyas, tiyas, itmatis, tlamis, icchiuas, itkwalikas, Tikwikas, atliz</li>
       <li>VERB-Fin: niquihtoz, niyaz, tiyas, itmatis, niyas, tlamis, icchiuas, itkwalikas, Tikwikas, atliz</li>
     </ul>
   </li>
@@ -361,6 +377,7 @@ We would like to thank the following for giving permission to use their sentence
   <li>Past
     <ul>
       <li>AUX: katka, peuh, catca, nicatca, opeh, Okatka, catcah, ticatca, ticatcah, uilia</li>
+      <li>VERB: oquihtoh, onauat, oyah, okatka, opew, onipiyaya, opeu, oyahkeh, ocatca, ocholoh</li>
       <li>VERB-Fin: oquihtoh, onauat, oyah, okatka, opew, onipiyaya, opeu, oyahkeh, ocatca, ocholoh</li>
     </ul>
   </li>
@@ -377,7 +394,7 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Pres
     <ul>
-      <li>AUX: pewi, wili, huili, katej, nica, peweh</li>
+      <li>AUX: pewi, wili, huili, catqui, katej, nica, peweh, o</li>
       <li>VERB: katki, yuwi, kah, yuweh, kateh, moweyilihtih, nesi, tikitok, ehko, kinchiwaj</li>
       <li>VERB-Fin: katki, yuwi, kah, yuweh, kateh, moweyilihtih, nesi, tikitok, ehko, kinchiwaj</li>
     </ul>
@@ -407,7 +424,7 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: neh, yeh, teh, yej, tehwah, yejwan, touatzin, tlenoh, ye, nehwatl</li>
+      <li>PRON: neh, yeh, teh, yej, tehwah, yejwan, ye, non, tlen, tlenoh</li>
     </ul>
   </li>
 </ul>
@@ -462,13 +479,33 @@ We would like to thank the following for giving permission to use their sentence
   <li>Form
     <ul>
       <li>NOUN: tonnomaman</li>
-      <li>PRON: touatzin</li>
+      <li>PRON: touatzin, Tojuatzin</li>
+      <li>VERB: oxnechoncaquinih, xoncualani, Inmitzontlasoj, Inmitzontlatlawtia, Innamechonnonotzas, Itkomonikiltijtzinowa, Ixnechonmaka, inmitzontlalilis, itconchiuas, itkonikis</li>
       <li>VERB-Fin: oxnechoncaquinih, xoncualani, Inmitzontlasoj, Inmitzontlatlawtia, Innamechonnonotzas, Itkomonikiltijtzinowa, Ixnechonmaka, itconchiuas, itkonikis, itkonkowas</li>
     </ul>
   </li>
 </ul>
 
 
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>NOUN: tlaxcal, tocniuan</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>NOUN: ica, itich, iixco, ich, imaman, iuan, nocax, noconeu, temachtani</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
@@ -530,8 +567,8 @@ We would like to thank the following for giving permission to use their sentence
           <li>NOUN: pueblo, topueblo, escuela, rana, danzas, irana, burro, guerra, vez, años</li>
           <li>NUM: ocho, quince, dieciocho, nueve, siete, veinte, millones</li>
           <li>PRON: eso, que, nada, tercero, todo</li>
-          <li>PROPN: estados, unidos, español, dios</li>
-          <li>SCONJ: porque, que, como, cuando, hasta, para, Mejor</li>
+          <li>PROPN: Juan, estados, unidos, español, Juana, dios</li>
+          <li>SCONJ: porque, que, como, cuando, para, hasta, Mejor</li>
           <li>VERB-Fin: sé, Anda, ponen, sale, sea, sirves</li>
           <li>VERB-Inf: ver, dar</li>
         </ul>
@@ -541,10 +578,45 @@ We would like to thank the following for giving permission to use their sentence
 </ul>
 
 <ul>
+  <li><a>Movement</a>
+    <ul>
+      <li>And
+        <ul>
+          <li>VERB: nitiquititi</li>
+        </ul>
+      </li>
+      <li>Ven
+        <ul>
+          <li>VERB: onechtlahpaloco, otualah</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>NounType</a>
+    <ul>
+      <li>Relat
+        <ul>
+          <li>NOUN: ica, itich, ich, iuan</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Number[obj]</a>
     <ul>
+      <li>Plur
+        <ul>
+          <li>VERB: onquimitac</li>
+        </ul>
+      </li>
       <li>Sing
         <ul>
+          <li>VERB: Xictiqui, cniqui, nechnamiqui, nicmati, nicniqui, nictlamia, nitlatooctoc, onechtlahpaloco, onicpahpactoya, oniquinamacac</li>
           <li>VERB-Fin: cniqui</li>
         </ul>
       </li>
@@ -555,8 +627,20 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li><a>Number[subj]</a>
     <ul>
+      <li>Plur
+        <ul>
+          <li>ADJ: chichiltiqueh</li>
+          <li>AUX: ocatca</li>
+          <li>NOUN: caxmeh, telpocameh, tocniuan</li>
+          <li>VERB: Onicsoquiyoteh, cocoxqueh, mouiqueh, oquinpaleuito, otechpanouihque, oticaxitihqueh, otimocauqueh, xitechon</li>
+        </ul>
+      </li>
       <li>Sing
         <ul>
+          <li>ADJ: istac, tliltic</li>
+          <li>AUX: catqui, huili, o, opeu</li>
+          <li>NOUN: ica, itich, tlacatl, altipetl, atl, cali, corral, pouitl, calihtic, comal</li>
+          <li>VERB: nitiquititi, niyas, omic, ticpatla, tolohtoc, Ixnechnextili, Oquis, Xictiqui, Xinechmaca, chocholoca</li>
           <li>VERB-Fin: cniqui</li>
         </ul>
       </li>
@@ -567,9 +651,32 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li><a>Person[obj]</a>
     <ul>
+      <li>1
+        <ul>
+          <li>VERB: onechtlahpaloco, otinechtlaocole</li>
+        </ul>
+      </li>
       <li>3
         <ul>
+          <li>VERB: Xictiqui, cniqui, nechnamiqui, nicmati, nicniqui, nictlamia, niliutoc, nitlatooctoc, onicpahpactoya, oniquinamacac</li>
           <li>VERB-Fin: cniqui</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Person[psor]</a>
+    <ul>
+      <li>1
+        <ul>
+          <li>NOUN: noconeu, tocniuan</li>
+        </ul>
+      </li>
+      <li>3
+        <ul>
+          <li>NOUN: ica, itich, iixco, ich, imaman, iuan, temachtani, tlaxcal</li>
         </ul>
       </li>
     </ul>
@@ -579,9 +686,42 @@ We would like to thank the following for giving permission to use their sentence
 <ul>
   <li><a>Person[subj]</a>
     <ul>
+      <li>1
+        <ul>
+          <li>VERB: nitiquititi, niyas, nicmati, nicniqui, oniquinamacac, oniyectlacua, onquimitac</li>
+        </ul>
+      </li>
+      <li>2
+        <ul>
+          <li>NOUN: caxmeh</li>
+          <li>VERB: Ixnechnextili, ixmomachihchicaua, otinechtlaocole, otiuala, otualah, xitiquiti</li>
+        </ul>
+      </li>
       <li>3
         <ul>
+          <li>ADJ: chichiltiqueh, istac, tliltic</li>
+          <li>AUX: catqui, huili, o, ocatca</li>
+          <li>NOUN: ica, itich, tlacatl, altipetl, atl, cali, caxmeh, corral, pouitl, calihtic</li>
+          <li>VERB: tolohtoc, Oquis, Xictiqui, chocholoca, cniqui, cocoxqueh, micqui, mocaua, mouiqueh, nechnamiqui</li>
           <li>VERB-Fin: cniqui</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Subcat</a>
+    <ul>
+      <li>Intr
+        <ul>
+          <li>AUX: catqui, ocatca, huili, o</li>
+          <li>VERB: nitiquititi, niyas, tolohtoc, Oquis, cocoxqueh, mouiqueh, omic, otiuala, peua, tookatoc</li>
+        </ul>
+      </li>
+      <li>Tran
+        <ul>
+          <li>VERB: Onictlapan, onictlame, Ixnechnextili, Xictiqui, Xinechmaca, ixmomachihchicaua, nacacuah, nechnamiqui, nicmati, nicniqui</li>
         </ul>
       </li>
     </ul>
@@ -593,8 +733,12 @@ We would like to thank the following for giving permission to use their sentence
     <ul>
       <li>Yes
         <ul>
-          <li>ADV: Amo</li>
-          <li>DET: ok</li>
+          <li>ADJ: poyic</li>
+          <li>ADV: oc, Amo</li>
+          <li>AUX: Uislis</li>
+          <li>DET: ok, oc</li>
+          <li>NOUN: mo, no, láps</li>
+          <li>VERB: in, nimo, oc, otimo, se, xic, ik, xitechon</li>
           <li>VERB-Fin: in, ik</li>
         </ul>
       </li>
@@ -607,11 +751,11 @@ We would like to thank the following for giving permission to use their sentence
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 11 lemmas as copulas (<a>cop</a>). Examples: katki, catqui, yehwatl, ye, ser, yehuatl, yejuatl, i, yehhuatl, yej, yejwatl.</li>
+<li>This corpus uses 14 lemmas as copulas (<a>cop</a>). Examples: catqui, yehuatl, katki, yehwatl, youi, ye, ser, yeh, yejuatl, i, yehhuatl, yej, yejwatl, yen.</li>
 </ul>
 
 <ul>
-<li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: ma, mo, o, pewi, mach, wili, _, uili, huili, kisa, pehua, estar, haber, nimi, witsi, witzi.</li>
+<li>This corpus uses 19 lemmas as auxiliaries (<a>aux</a>). Examples: ma, uili, o, mo, peua, pewi, oc, mach, wili, _, huili, catqui, kisa, pehua, estar, haber, nimi, witsi, witzi.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -620,9 +764,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (3)</li>
-      <li>VERB--NOUN-Abs (2)</li>
-      <li>VERB--PRON (3)</li>
+      <li>VERB--NOUN (378)</li>
+      <li>VERB--NOUN-ADP(icanca) (1)</li>
+      <li>VERB--NOUN-Abs (10)</li>
+      <li>VERB--PRON (289)</li>
       <li>VERB-Fin--NOUN (215)</li>
       <li>VERB-Fin--NOUN-ADP(de) (2)</li>
       <li>VERB-Fin--NOUN-Abs (109)</li>
@@ -635,10 +780,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (3)</li>
-      <li>VERB--NOUN-Abs (1)</li>
-      <li>VERB--PRON (2)</li>
-      <li>VERB-Fin--NOUN (218)</li>
+      <li>VERB--NOUN (513)</li>
+      <li>VERB--NOUN-Abs (12)</li>
+      <li>VERB--PRON (67)</li>
+      <li>VERB-Fin--NOUN (217)</li>
       <li>VERB-Fin--NOUN-ADP(de) (1)</li>
       <li>VERB-Fin--NOUN-Abs (100)</li>
       <li>VERB-Fin--NOUN-Abs-ADP(quemeh) (1)</li>
@@ -651,7 +796,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (6)</li>
+      <li>VERB--NOUN (11)</li>
+      <li>VERB--NOUN-ADP(para) (1)</li>
+      <li>VERB--PRON (7)</li>
+      <li>VERB-Fin--NOUN (7)</li>
       <li>VERB-Fin--PRON (2)</li>
       <li>VERB-Inf--NOUN-ADP(a) (1)</li>
       <li>VERB-Inf--PRON (1)</li>

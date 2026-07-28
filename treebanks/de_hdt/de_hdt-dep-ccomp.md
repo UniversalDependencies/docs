@@ -50,7 +50,7 @@ The following 49 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 2	Kaufen	Kaufen	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 3	,	,	PUNCT	$,	PunctType=Comm	7	punct	_	_
 4	wenn	wenn	SCONJ	KOUS	_	7	mark	_	_
-5	die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	6	det	_	_
+5	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	Kanonen	Kanone	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	_
 7	donnern	donnern	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 8	"	"	PUNCT	$(	PunctType=Brck	2	punct	_	_

@@ -12,7 +12,7 @@ It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Vo
 57758 tokens (59%) have a non-empty value of `Case`.
 15434 types (84%) occur at least once with a non-empty value of `Case`.
 7674 lemmas (80%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23810; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10967; 11% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (9376; 10% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7408; 8% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3490; 4% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2403; 2% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (304; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="sr_set-pos-NOUN.html">NOUN</a></tt> (23810; 24% instances), <tt><a href="sr_set-pos-ADJ.html">ADJ</a></tt> (10967; 11% instances), <tt><a href="sr_set-pos-ADP.html">ADP</a></tt> (9376; 10% instances), <tt><a href="sr_set-pos-PROPN.html">PROPN</a></tt> (7408; 8% instances), <tt><a href="sr_set-pos-DET.html">DET</a></tt> (3488; 4% instances), <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> (2405; 2% instances), <tt><a href="sr_set-pos-NUM.html">NUM</a></tt> (304; 0% instances).
 
 ### `NOUN`
 
@@ -115,15 +115,15 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `DET`
 
-3490 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Case`.
+3488 <tt><a href="sr_set-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="sr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3119; 89%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3118; 89%), <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2728; 78%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2383; 68%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="sr_set-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (3117; 89%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3116; 89%), <tt><a href="sr_set-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (2726; 78%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2381; 68%).
 
 `DET` tokens may have the following values of `Case`:
 
 * `Acc` (704; 20% of non-empty `Case`): <em>svoje, koju, to, koje, svoj, svoju, sve, taj, koji, tu</em>
 * `Dat` (82; 2% of non-empty `Case`): <em>tome, kojima, onima, toj, svim, tom, našoj, njegovoj, onoj, svojim</em>
-* `Gen` (618; 18% of non-empty `Case`): <em>ove, toga, tog, ovog, svog, svojih, te, svih, tih, svoje</em>
+* `Gen` (616; 18% of non-empty `Case`): <em>ove, toga, tog, ovog, svog, svojih, te, svih, tih, svoje</em>
 * `Ins` (147; 4% of non-empty `Case`): <em>kojim, kojima, kojom, tim, time, svojim, svim, svojom, nekim, takvim</em>
 * `Loc` (354; 10% of non-empty `Case`): <em>tom, kojoj, kojem, tome, svom, kojima, ovom, svojoj, toj, nekim</em>
 * `Nom` (1585; 45% of non-empty `Case`): <em>koji, koja, to, koje, neki, taj, ta, sve, njegova, svi</em>
@@ -143,15 +143,15 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 ### `PRON`
 
-2403 <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+2405 <tt><a href="sr_set-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2133; 89%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1721; 72%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1719; 72%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1654; 69%), <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (1451; 60%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sr_set-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2133; 89%), <tt><a href="sr_set-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1723; 72%), <tt><a href="sr_set-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1719; 71%), <tt><a href="sr_set-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1654; 69%), <tt><a href="sr_set-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (1451; 60%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Acc` (1619; 67% of non-empty `Case`): <em>se, ga, ih, šta, što, je, ništa, nas, sebe, koga</em>
 * `Dat` (97; 4% of non-empty `Case`): <em>im, mu, nam, joj, mi, sebi, vam, kome, nikome, njemu</em>
-* `Gen` (56; 2% of non-empty `Case`): <em>njih, njega, nas, čega, ih, sebe, nje, kog, nekoga</em>
+* `Gen` (58; 2% of non-empty `Case`): <em>njih, njega, nas, čega, ih, sebe, nje, svega, kog, nekoga</em>
 * `Ins` (34; 1% of non-empty `Case`): <em>čime, njima, sobom, njim, Njime, njom, nama</em>
 * `Loc` (34; 1% of non-empty `Case`): <em>njemu, njima, čemu, sebi, vama, kome, njoj, kom, nama, nečemu</em>
 * `Nom` (563; 23% of non-empty `Case`): <em>on, što, ona, oni, mi, ko, ono, niko, ja, šta</em>

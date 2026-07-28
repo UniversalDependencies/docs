@@ -9,23 +9,21 @@ udver: '2'
 
 Determiners are words that modify [nouns](NOUN) or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc.
 
-Determiners under this definition include both _articles_ and _pro-adjectives (pronominal adjectives)_. An important point to note is that the traditional grammar of Armenian does not define determiners as a separate word class. Most determiners are traditionally called pronouns; that is, a UD-conformant annotation of Armenian must distinguish between substantive pronouns (UD tag [PRON]()) and attributive pronouns (UD tag `DET`).
+Under this definition, determiners include both _articles_ and _pro-adjectives (pronominal adjectives)_. An important point to note is that the traditional grammar of Armenian does not define determiners as a separate word class. Most determiners are traditionally called pronouns; that is, a UD-conformant annotation of Armenian must distinguish between substantive pronouns (UD tag [PRON]()) and attributive pronouns (UD tag `DET`).
 
-Also note that the `DET` tag includes (pronominal) _quantifiers_ (words
-like _քանի, այսքան, մի քանի, բոլոր, ողջ&nbsp;_ “how many, this many, several, all, whole”), which the traditional grammar classifies
-as a special subclass of [pronouns](PRON).
+Also note that the `DET` tag includes (pronominal) _quantifiers_ (words like _քանի_/_k’ani_ “how many”, _այսքան_/_aysk’an_ “this many”, _մի քանի_/_mi k’ani_ “several”, _բոլոր_/_bolor_ “all”, _ողջ_/_oġǰ_ “whole”), which the traditional grammar classifies as a special subclass of [pronouns](PRON).
 
-Note that in Armenian nominal usually allows one `DET` modifier, but there are occasional cases of _addeterminers_, which appear outside the usual determiner, such as _այս_ in _<b>այս</b> բոլոր հարցերը&nbsp;_ “all <b>these</b> questions.” In such cases, both _այս&nbsp;_ “these” and _բոլոր&nbsp;_ “all” are given the POS `DET`.
+Note that Armenian noun phrases usually allow one `DET` modifier, but there are occasional cases of _addeterminers_, which appear outside the usual determiner, such as _այս_/_ays_ in _<b>այս բոլոր</b> հարցերը_/_<b>ays bolor</b> harc’erë_ “ <b>all these</b> questions.” In such cases, both _այս_/_ays_ “these” and _բոլոր_/_bolor_ “all” are given the POS `DET`.
 
 ### Examples
 
-- indefinite article: _մի&nbsp;_ “a, an”
-- possessive determiners: _իմ, քո, նրա, մեր, ձեր, նրանց, իրենց&nbsp;_ “my, your, his/her/its, our, your, their”
-- reflexive possessive determiners: _իր, իրենց&nbsp;_ “one's own, themselves”
-- demonstrative determiners: _այս&nbsp;_ as in _<b>Այս</b> մեքենան ես երեկ տեսել եմ։&nbsp;_ “I saw <b>this</b> car yesterday.”
-- interrogative determiners: _ո՞ր&nbsp;_ as in _<b>Ո՞ր</b> մեքենան ես հավանում։&nbsp;_ “<b>Which</b> car do you like?”
-- relative determiners: _որ&nbsp;_ as in _Հետաքրքիր է՝ <b>որ</b> մեքենան ես հավանում։&nbsp;_ “I wonder <b>which</b> car you like.”
-- indefinite determiners: _ոմն, ինչ-որ, ինչ-ինչ, մի քանի, ուրիշ, այլ, որոշ, որևէ, որևիցե, այսինչ, այնինչ, մի&nbsp;_ “someone, some (of one thing), some (of many thing), several, another, other, definite, one or another, one or another, such, such, some/several”
-- total determiners: _ամեն, ամեն մի, բոլոր, յուրաքանչյուր, ողջ, ամբողջ, համայն, ամենյան;_ “every, each, all, each, whole, all, whole, all”
-- negative determiner: _ոչ մի&nbsp;_ “no” as in _Հիմա <b>ոչ մի</b> մեքենա չունենք։&nbsp;_ “We have <b>no</b> cars available.”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:48 CET -->
+- indefinite article: _մի_/_mi_ “a, an”
+- possessive determiners: _իմ_/_im_ “my”, _քո_/_k’o_ “your”, _նրա_/_nra_ “his/her/its”, _մեր_/_mer_ “our”, _ձեր_/_jer_ “your”, _նրանց_/_nranc’_ “their”, _իրենց_/_irenc’_ “their”
+- reflexive possessive determiners: _իր_/_ir_ “his/her own”, _իրենց_/_irenc’_ “their own”
+- demonstrative determiners: _այս_/_ays_ as in _<b>Այս</b> հարցադրումներն էլ չկան։_/_<b>Ays</b> harc’adrowmnern ēl čkan_ “<b>These</b> issues no longer exist.”
+- interrogative determiners: _ո՞ր_/_or_ as in _<b>Ո՞ր</b> բառը_/_<b>Or</b> baṙë_ “<b>Which</b> word?”
+- relative determiners: _որ_/_or_ as in _նա գիտե, թե <b>որ</b> կեռմանում ինչպես պետք է վարվել արգելակների հետ_/_na gite, t’e <b>or</b> keṙmanowm inčpes petk’ ē varvel argelakneri het_ “He knows how to handle the brakes at each bend.”, lit. He knows how to act with the brakes at <b>which</b> bend. 
+- indefinite determiners: _ոմն_/_omn_ “some (person)”, _ինչ-որ_/_inč-or_ “some (of one thing)”, _ինչ-ինչ_/_inč-inč_ “some (of many things)”, _մի քանի_/_mi k’ani_ “several”, _ուրիշ_/_owriš_ “another”, _այլ_/_ayl_ “other”, _որոշ_/_oroš_ “certain”, _որևէ_/_orewē_ “one or another”, _որևիցե_/_orewic’e_ “one or another”, _այսինչ_/_aysinč_ “such”, _այնինչ_/_ayninč_ “such”, _մի_/_mi_ “some/several”
+- total determiners: _ամեն_/_amen_ “every”, _ամեն մի_/_amen mi_ “each”, _բոլոր_/_bolor_ “all”, _յուրաքանչյուր_/_yowrak’ančyowr_ “each”, _ողջ_/_oġǰ_ “whole”, _ամբողջ_/_amboġǰ_ “all”, _համայն_/_hamayn_ “whole”, _ամենայն_/_amenayn_ “all”
+- negative determiner: _ոչ մի_/_oč mi_ “no” as in _Հիմա <b>ոչ մի</b> մեքենա չունենք։_/_Hima <b>oč mi</b> mek’ena čownenk’_ “We have <b>no</b> cars right now.”
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:35 CEST -->

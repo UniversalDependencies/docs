@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-94 nodes (1%) are attached to their parents as `expl`.
+123 nodes (1%) are attached to their parents as `expl`.
 
-75 instances of `expl` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.67021276595745.
+101 instances of `expl` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.72357723577236.
 
-The following 5 pairs of parts of speech are connected with `expl`: <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (51; 54% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (30; 32% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (7; 7% instances), <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (5; 5% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `expl`: <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (65; 53% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (40; 33% instances), <tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (10; 8% instances), <tt><a href="sv_swell-pos-ADV.html">ADV</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (6; 5% instances), <tt><a href="sv_swell-pos-NUM.html">NUM</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sv_swell-pos-PRON.html">PRON</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 6	mycket	mycket	ADV	_	Degree=Pos	7	advmod	_	_
 7	svårt	svår	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 8	att	att	PART	_	_	9	mark	_	_
-9	forklara	forklara	VERB	_	Typo=Yes|VerbForm=Inf|Voice=Act	7	csubj	_	CorrectionLabels=O
+9	forklara	förklara	VERB	_	Typo=Yes|VerbForm=Inf|Voice=Act	7	csubj	_	CorrectionLabels=O|SurfaceLemma=forklara
 10	allt	all	PRON	_	Definite=Ind|Gender=Neut|Number=Sing|PronType=Tot	9	obj	_	_
 11	om	om	ADP	_	_	12	case	_	_
 12	relation	relation	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	10	nmod	_	CorrectionLabels=M-Num

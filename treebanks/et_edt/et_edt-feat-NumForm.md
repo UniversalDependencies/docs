@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Digit`, `Roman`, `Word`.
 
-11429 tokens (3%) have a non-empty value of `NumForm`.
+11430 tokens (3%) have a non-empty value of `NumForm`.
 2115 types (3%) occur at least once with a non-empty value of `NumForm`.
 1780 lemmas (4%) occur at least once with a non-empty value of `NumForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (8912; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2487; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (24; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (6; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (8913; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2487; 1% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (24; 0% instances), <tt><a href="et_edt-pos-SYM.html">SYM</a></tt> (6; 0% instances).
 
 ### `NUM`
 
-8912 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
+8913 <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> tokens (99% of all `NUM` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (8250; 93%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5516; 62%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5516; 62%).
+The most frequent other feature values with which `NUM` and `NumForm` co-occurred: <tt><a href="et_edt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (8251; 93%), <tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5516; 62%), <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5516; 62%).
 
 `NUM` tokens may have the following values of `NumForm`:
 
 * `Digit` (5548; 62% of non-empty `NumForm`): <em>1, 2, 10, 3, 4, 5, 15, 20, 6, 12</em>
 * `Roman` (3; 0% of non-empty `NumForm`): <em>I, IX, XII</em>
-* `Word` (3361; 38% of non-empty `NumForm`): <em>kaks, üks, kolm, kahe, ühe, miljonit, viis, miljoni, neli, kolme</em>
+* `Word` (3362; 38% of non-empty `NumForm`): <em>kaks, üks, kolm, kahe, ühe, miljonit, viis, miljoni, neli, kolme</em>
 
 `NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (1435) occur only with one value of `NumForm`.
 

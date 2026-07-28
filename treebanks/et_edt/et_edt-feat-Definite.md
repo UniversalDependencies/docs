@@ -24,7 +24,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (29; 97% of non-empty `Definite`): <em>the, der</em>
 * `Ind` (1; 3% of non-empty `Definite`): <em>A</em>
-* `EMPTY` (7183): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, nende</em>
+* `EMPTY` (7184): <em>see, kõik, kogu, selle, üks, iga, need, seda, sel, nende</em>
 
 ### `ADJ`
 

@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>mùntàleːtàː</em> (<tt><a href="h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.458157).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.624060).
 
 The 1st highest number of forms (1) was observed with the lemma “mùntàleːtàː”: <em>mùntàleːtàː</em>.
 
@@ -37,13 +37,7 @@ The 1st highest number of forms (1) was observed with the lemma “mùntàleːt�
 
 Parents of `X` nodes belong to 1 different parts of speech: <tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 100% instances)
 
-0 (0%) `X` nodes are leaves.
+1 (100%) `X` nodes are leaves.
 
-1 (100%) `X` nodes have one child.
-
-The highest child degree of a `X` node is 1.
-
-Children of `X` nodes are attached using 1 different relations: <tt><a href="ha_westernautogramm-dep-parataxis.html">parataxis</a></tt> (1; 100% instances)
-
-Children of `X` nodes belong to 1 different parts of speech: <tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 100% instances)
+The highest child degree of a `X` node is 0.
 

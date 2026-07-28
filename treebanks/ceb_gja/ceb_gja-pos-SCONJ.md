@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>kay</em> (<tt><a href="ceb_gja-pos-SC
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.162162).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.162584).
 
 The 1st highest number of forms (1) was observed with the lemma “apan”: <em>apan</em>.
 

@@ -18,4 +18,4 @@ obl(taxawal, xarnub)
 case(xarnub, ci)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:21 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:29 CEST -->

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.11 release
 The following people have contributed to making this treebank part of UD: Christian Ebert, Artan Islamaj, Adrian Kuqi, Barbara Sonnenhauser, Paul Widmer, Magdalena Plamada.
 
 Repository: [UD_Gheg-GPS](https://github.com/UniversalDependencies/UD_Gheg-GPS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaln_gps217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaln_gps218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 

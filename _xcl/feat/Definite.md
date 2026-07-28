@@ -58,4 +58,4 @@ Klein, Jared S. 1997. Indefinite Pronouns, Polarity, and Related Phenomena in Cl
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>).
 
 Müth, Angelika. 2011. Categories of definiteness in Classical Armenian. In: E. Welo (ed.) _Indo-European syntax and pragmatics: contrastive approaches._ Oslo Studies in Language 3(3), 2011: 11–25.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:09 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->

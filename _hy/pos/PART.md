@@ -7,21 +7,19 @@ udver: '2'
 
 ### Definition
 
-Particles are function words that must be associated with another word or phrase to impart meaning and that do not satisfy definitions of other universal parts of speech (e.g.  [adpositions](ADP), [coordinating conjunctions](CCONJ), [subordinating conjunctions](SCONJ)
-or [auxiliary verbs](AUX)). Particles may encode grammatical categories such as negation, mood, tense etc. Particles are not inflected. The only exception is _ոչ_ as independent negation particle, inflect for [Polarity](). 
+Particles are function words that must be associated with another word or phrase to impart meaning and that do not satisfy the definitions of other universal parts of speech (e.g.  [adpositions](ADP), [coordinating conjunctions](CCONJ), [subordinating conjunctions](SCONJ) or [auxiliary verbs](AUX)). Particles may encode grammatical categories such as negation, mood, tense etc. Particles are not inflected. The only exception is the independent negation particle _ոչ_/_oč_, which inflects for [Polarity](). 
  
-Note that particles like _այո_ “yes”, _ոչ, չէ_ “no”, _անշուշտ_ “sure”, etc. as response words (as feedback particles) are considered as interjections under the UD standard.
+Note that particles like _այո_/_ayo_ “yes”, _ոչ, չէ_/_oč, čē_ “no”, _անշուշտ_/_anšowšt_ “sure”, etc. when used as response words (feedback particles) are considered interjections under the UD standard.
 
 ### Examples
 
-- Affirmativ particle: _անպատճառ, իհարկե, հարկավ_
-- Concession particle: _ինչևէ, այնուամենայնիվ_
-- Demonstration particle: _ահա, ահավասիկ_
-- Dubitation particle: _ասես, գուցե, կարծես, հավանաբար_
-- Emphatic particle: _ախար, մանավանդ, հատկապես_
-- Limitation particle: _գեթ, լոկ, միայն_
-- Negation particle: _ոչ, չէ, բնավ, ամենևին_
-- Wish particle: _երանի, երնեկ_
-- Volition particle: _ապա, դե, թող_
-
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:52 CET -->
+- Affirmative particles: _անպատճառ_/_anpatč̣aṙ_ “by all means”, _իհարկե_/_iharke_ “of course”, _հարկավ_/_harkav_ “surely”
+- Concessive particles: _ինչևէ_/_inčewē_ “anyway”, _այնուամենայնիվ_/_aynowamenayniv_ “nevertheless”
+- Demonstrative particles: _ահա, ահավասիկ_/_aha, ahavasik_ “here is, behold”
+- Dubitative particles: _գուցե_/_gowc’e_ “perhaps”, _թերևս_/_t’erews_ “possibly”
+- Emphatic particles: _ախար_/_axar_ “after all”, _մանավանդ_/_manavand_ “especially”, _էլ_/_ēl_ (no direct English equivalent; used in combinations such as _ոչ էլ_/_oč ēl_ “nor”, _այնքան էլ_/_aynk’an ēl_ “not that”, _կամ էլ_/_kam ēl_ “or else”)
+- Limiting particles: _գեթ_/_get’_ “at least”, _լոկ_/_lok_ “merely”, _միայն_/_miayn_ “only”
+- Negative particles: _ոչ, չէ_/_oč, čē_ “not, no”
+- Wish particles: _երանի, երնեկ_/_erani, ernek_ “if only, would that, I wish”
+- Volitional particles: _հապա_/_hapa_ “well, well then”
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

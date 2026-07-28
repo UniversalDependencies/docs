@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Barbara Francioni, Natalia Romanova, Rayan Ziane, Khensa Daoudi, Pierre Larrivée.
 
 Repository: [UD_Old_Occitan-CorAG](https://github.com/UniversalDependencies/UD_Old_Occitan-CorAG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpro_corag217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpro_corag218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -41,45 +41,33 @@ Development of the treebank happens directly in the UD repository, so you may su
 | Relations | annotated manually, natively in UD style |
 
 ## Description
-UD_Old_Occitan-CorAG (Corpus de l'Ancien Gascon) is a corpus of medieval legal texts in Gascon, a variety of Old Occitan. The texts were digitized from printed editions and subsequently manually annotated in Universal Dependencies (PoS, functions and some morphological features).
+UD_Old_Occitan-CorAG (Corpus de l'Ancien Gascon) is a corpus of medieval and early modern legal texts in Gascon, a variety of Old Occitan. The texts were digitized from existing editions and subsequently manually annotated in Universal Dependencies (PoS, functions and some morphological features).
 
 
 
-In October 2025, CorAG corpus contains six medieval texts:
+In May 2026, CorAG corpus contains six medieval texts and a section of a sixteenth-century text:
 
-|Title |Year | Edition | Sentences| Tokens |
-| :------------------------------------------- |:--------: |:----------------------: | :------: | ----: |
-| Coutumes et Privilèges de l’Entre-Deux-Mers | 1214-1342 | Lépicier 1861 | 344 | 11,978 |
-| Coutume de Banières | 1251 | | 77 | 3,099 |
-| Coutume de Banières | 1260 | | 33 | 1,699 |
-| Charte des Boucheries d’Orthez | 1270 | | 34 | 1,274 |
-| Charte d’Herrère | 1278 | | 53 | 1,835 |
-| Les Fors Anciens de Béarn | 1560 | Ourliac & Gilles 1990 | 750 | 26,795 |
-| **Total** | | | **1,291**| **46,680**|
 
-**Editions:**
-Lépicier, Jules, 1861. « Coutumes et privilèges de l’Entre-Deux-Mers », _Archives historiques du département de la Gironde_, 101-130.
-Ourliac, Paul & Gilles, Monique, 1990. _Les Fors anciens de Béarn_. Paris: Éditions du Centre National de la Recherche Scientifique.
+|Title | Year |Code | Edition |
+| :-------------------------------------------:|:--------: |:-------------: | :---------------------:|
+| Coutumes et Privilèges de l’Entre-Deux-Mers | 1214-1342 | 1214-1342_Deux |Lépicier 1861 |
+| Coutume de Banières | 1251 | 1251_Bagn |Maldonado 2022 |
+| Coutume de Banières | 1260 | 1260_Bagn |Maldonado 2022 |
+| Charte des Boucheries d’Orthez | 1270 | 1270_Orthez |Glessgen 2022 |
+| Charte d’Herrère | 1278 | 1278_Herr |Glessgen (unpublished) |
+| Les Fors Anciens de Béarn | 1460 | 1460_Bearn |Ourliac & Gilles 1990 |
+| Stil de la justicy (partial) | 1564 | 1564_Stil |Rovier 1663 |
 
-Electronic editions of _Coutume de Banières_ (1251 and 1260), _Charte des Boucheries d'Orthez_ (1270) and _Charte d'Herrère_ were generously shared with us by Professor Martin Glessgen (University of Zurich).
-
-**Train/Dev/Test split**
-
-| Set | Sentences| Tokens |
-| :---------------- | :------: | ----: |
-| Train | 912 | 32,606 |
-| Dev | 98 | 3,713 |
-| Test | 281 | 10,361 |
-| **Total** | **1,291**| **46,680**|
-
-Please note that CorAG treebank is still under development. A campain of revision and morphological annotation is underway and new material is being added to the collection. The structure of the treebank is therefore likely to change in subsequent releases. Please do not hesitate to contact us if you have any questions, suggestions or comments.
 
 ## Acknowledgments
 The corpus is part of Professor Pierre Larrivée's (University of Caen) [Senior membership project](https://www.iufrance.fr/les-membres-de-liuf/membre/2346-pierre-larrivee.html) with the Institut Universitaire de France.
 
-Manual annotation was performed by Barbara Francioni and Natasha Romanova. Technical support by Rayan Ziane and Khensa Daoudi. Digitization by Christelle Violette. Project coordination by Natasha Romanova.
+Manual annotation was performed by [Barbara Francioni](https://cv.hal.science/barbara-francioni) with the help from [Natasha Romanova](https://cv.hal.science/natasha-romanova). Technical support by [Rayan Ziane](https://cv.hal.science/rayan-ziane) and Khensa Daoudi. Digitization by Christelle Violette. Project coordination by Natasha Romanova.
 
 We thank Professor Martin Glessgen and his team at the University of Zurich (authors of the online resource [Documents linguistiques galloromans](https://gallrom.linguistik.uzh.ch/#/) for provinding us with their editions of the thirteenth-century texts included in the corpus.
+
+The version of the treebank from November 2025 can also be consulted and queried via the CRISCO Lab (University of Caen) [TXM portal](https://txm-crisco.huma-num.fr/txm/) where 1240-1314_Deux and 1460_Bearn are also available consultation as a digital edition (Larrivée P. & Francioni B. (ed.) 2026. CorAG Corpus, v. 1.2 (EA 4255). Caen: CRISCO).
+
 
 We thank the members of the Modern Occitan [Tolosa Treebank](https://github.com/UniversalDependencies/UD_Occitan-TTB) for their help and advice in the early stages of the annotation process.
 
@@ -100,7 +88,7 @@ See also:
 
 ## Features
 
-[ExtPos](pro_corag-feat-ExtPos.html) – [Gender](pro_corag-feat-Gender.html) – [Mood](pro_corag-feat-Mood.html) – [Number](pro_corag-feat-Number.html) – [Person](pro_corag-feat-Person.html) – [Poss](pro_corag-feat-Poss.html) – [PronType](pro_corag-feat-PronType.html) – [Reflex](pro_corag-feat-Reflex.html) – [Tense](pro_corag-feat-Tense.html) – [VerbForm](pro_corag-feat-VerbForm.html) – [Voice](pro_corag-feat-Voice.html)
+[ExtPos](pro_corag-feat-ExtPos.html) – [Gender](pro_corag-feat-Gender.html) – [Mood](pro_corag-feat-Mood.html) – [Number](pro_corag-feat-Number.html) – [Person](pro_corag-feat-Person.html) – [Polarity](pro_corag-feat-Polarity.html) – [Poss](pro_corag-feat-Poss.html) – [PronType](pro_corag-feat-PronType.html) – [Reflex](pro_corag-feat-Reflex.html) – [Tense](pro_corag-feat-Tense.html) – [VerbForm](pro_corag-feat-VerbForm.html) – [Voice](pro_corag-feat-Voice.html)
 
 ## Relations
 
@@ -110,11 +98,11 @@ See also:
 
 
 <ul>
-<li>This corpus contains 1291 sentences, 44085 tokens and 45389 syntactic words.</li>
+<li>This corpus contains 1486 sentences, 51028 tokens and 52539 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 4978 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 4978 tokens (10%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -122,12 +110,12 @@ See also:
 </ul>
 
 <ul>
-<li>This corpus contains 305 types of words that contain both letters and punctuation. Examples: de-, -lo, -los, a-, l', d', que-, e-, s', n', d’, no-, ss., -n, -s, -u, -us, .vi., l’, -la, Entre-dos-Mars, en-, P., si-, .LXVI., -lodit, -m, .i., .v., .xx., B., -en, -lodeyt, Arn., W., lo-, qui-, -si, .XXX., .iii., .x., .XL., -Arnaut, -que, .ix., so-, -i, -las, -nos, .lx.</li>
+<li>This corpus contains 335 types of words that contain both letters and punctuation. Examples: de-, -lo, a-, l', -los, d', que-, s', e-, n', d’, no-, ss., -n, -s, -u, -lodit, -us, .vi., l’, -la, Entre-dos-Mars, en-, P., si-, .LXVI., -losdits, -en, -m, .i., .v., .xx., B., c., -lodeyt, Arn., W., lo-, qui-, -que, -si, .XXX., .iii., .x., qu', &c., .XL., -Arnaut, -queres, .ix.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1304 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 188 types of multi-word tokens. Examples: deu, au, del, dels, deus, aus, que-ls, e-ls, als, que-n, que-u, no-s, al, e-l, lo-n, que-l, que-us, de-la, e-si, deudit, no-l, no-n, deudeyt, que-s, a-ffase, a-la, dequeg, e-nos, e-u, en-la, nou, per-abenture, ausquaus, e-la, eus, lo, pe-us, que-m, qui-ls, qui-s, si-l, a-ffar, audit, deldeyt, dequetz, fe-y, la-m, no-m, soque, a-nos.</li>
+<li>This corpus contains 1511 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 213 types of multi-word tokens. Examples: deu, au, del, dels, deus, aus, que-ls, e-ls, als, que-n, deudit, que-u, aux, no-s, al, e-l, lo-n, que-l, que-us, de-la, e-si, audit, dequeres, no-l, no-n, ausdits, deudeyt, deusdits, que-s, a-ffase, a-la, dequeg, dequere, e-nos, e-u, en-la, nou, per-abenture, ausquaus, e-la, eus, lo, pe-us, que-m, qui-ls, qui-s, sen, si-l, a-ffar, deldeyt.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -170,8 +158,8 @@ See also:
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: es, fo, sie, aura, ere, son, a, ave, sera, sien</li>
-    <li>VERB: deu, ha, pot, es, judya, fe, fasse, ditz, dam, a</li>
+    <li>AUX: es, sera, fo, sie, son, aura, seran, ere, a, sien</li>
+    <li>VERB: deu, es, pot, ha, judya, fe, fasse, a, ditz, dam</li>
   </ul>
   </li>
 </ul>
@@ -179,8 +167,8 @@ See also:
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: esser, ester, avere, eser, estar, estre</li>
-    <li>VERB: far, dar, aver, pagar, judyar, jurar, bener, coelher, prener, responer</li>
+    <li>AUX: esser, ester, aver, estar, estre, avere, eser, esta, haber</li>
+    <li>VERB: far, dar, aver, estar, pagar, jurar, prener, responer, judyar, bener</li>
   </ul>
   </li>
 </ul>
@@ -188,9 +176,9 @@ See also:
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: avantditz, degude, dits, ditz, pleyteyantz, sabude, soberdiites, soberdit, soberdites, sobredeyt</li>
-    <li>AUX: estat, estade, estad, estatz</li>
-    <li>VERB: feyt, judyat, establit, feyte, dat, diit, tengut, feit, feytes, prees</li>
+    <li>ADJ: sobredeyt, sobredeytas, sobredeyta, sobredeytz, sobredeyts, avantditz, quitis, degude, degudas, dits</li>
+    <li>AUX: estat, estade, estant, estad, estada, estadas, estades, estats, estatz</li>
+    <li>VERB: feyt, judyat, feyte, establit, tengut, dat, feytes, passat, deyt, diit</li>
   </ul>
   </li>
 </ul>
@@ -205,11 +193,12 @@ See also:
 <ul>
   <li>Fem
     <ul>
-      <li>ADJ-Part: degude, sabude, soberdiites, soberdites, sobredeyta, susdites, dite, goarreyade, judyade, pleyteyantz</li>
-      <li>AUX-Part: estade</li>
-      <li>PRON: la, las, ere, aquere, la-, aqueres, cascune, aquestes, degune, une</li>
+      <li>ADJ-Part: sobredeytas, sobredeyta, degude, degudas, susdites, irade, sabude, soberdiites, soberdites, connegude</li>
+      <li>AUX-Part: estade, estada, estadas, estades</li>
+      <li>DET: augune</li>
+      <li>PRON: la, las, aqueres, aquere, aqueras, ere, questas, -queres, autras, la-</li>
       <li>VERB-Fin: mande</li>
-      <li>VERB-Part: feyte, feytes, dade, Conegude, audides, conoguda, tengudes, escriutes, pagade, prese</li>
+      <li>VERB-Part: feyte, feytes, feyta, dade, Conegude, passade, recebudes, audides, conoguda, bailhade</li>
     </ul>
   </li>
 </ul>
@@ -217,11 +206,21 @@ See also:
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ-Part: avantditz, dits, ditz, soberdit, sobredeyt, avantdit, complitz, conogud, deputat, feytz</li>
-      <li>AUX-Part: estat, estad, estatz</li>
-      <li>PRON: lo, autre, -los, hom, los, so, ac, asso, eg, aqueg</li>
-      <li>VERB-Fin: audit, restituit</li>
-      <li>VERB-Part: feyt, judyat, establit, dat, diit, tengut, feit, prees, mort, estan</li>
+      <li>ADJ-Part: sobredeyt, sobredeytz, sobredeyts, avantditz, quitis, dits, amat, amatz, deputat, ditz</li>
+      <li>AUX-Part: estat, estant, estad, estats, estatz</li>
+      <li>DET: augun</li>
+      <li>PRON: lo, los, -los, luy, hom, lor, asso, ac, eg, aqueg</li>
+      <li>VERB-Fin: audit, deu, restituit</li>
+      <li>VERB-Part: feyt, judyat, establit, tengut, dat, passat, deyt, diit, feit, acostumat</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neut
+    <ul>
+      <li>PRON: so, ag, ac, ço, -ço, o, -quero, -quet, acquet</li>
+      <li>VERB-Part: Notum, Actum</li>
     </ul>
   </li>
 </ul>
@@ -234,12 +233,12 @@ See also:
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ-Part: avantditz, dits, ditz, pleyteyantz, soberdiites, soberdites, susdites, complitz, feytz, obligatz</li>
-      <li>AUX-Fin: son, sien, an, auran, eren, seran, avem, fon, fossen, aven</li>
-      <li>AUX-Part: estatz</li>
-      <li>PRON: nos, -los, los, lor, -us, autres, las, aquegs, vos, aquetz</li>
-      <li>VERB-Fin: dam, autreiam, deven, devem, an, fassen, poden, son, bolem, pusquen</li>
-      <li>VERB-Part: feytes, estatz, audides, feytz, tengudes, datz, escriutes, tengutz, dadas, espleytatz</li>
+      <li>ADJ-Part: sobredeytas, sobredeytz, sobredeyts, avantditz, degudas, dits, susdites, amatz, ditz, pleyteyantz</li>
+      <li>AUX-Fin: son, seran, sien, an, avem, sian, auran, eran, eren, fossen</li>
+      <li>AUX-Part: estadas, estades, estats, estatz</li>
+      <li>PRON: nos, los, -los, lor, vos, autres, edz, -us, las, aquetz</li>
+      <li>VERB-Fin: dam, autreiam, deven, deben, son, devem, an, fassen, poden, bolem</li>
+      <li>VERB-Part: feytes, estatz, feytz, recebudes, audides, passats, tengutz, datz, feytas, tengudes</li>
     </ul>
   </li>
 </ul>
@@ -247,12 +246,13 @@ See also:
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ-Part: degude, sabude, soberdit, sobredeyta, avantdit, conogud, deputat, dite, goarreyade, judyade</li>
-      <li>AUX-Fin: es, fo, sie, aura, ere, a, ave, sera, fos, ha</li>
-      <li>AUX-Part: estat, estade, estad</li>
-      <li>PRON: lo, autre, l', hom, so, ac, asso, eg, jo, la</li>
-      <li>VERB-Fin: deu, ha, pot, es, judya, fe, fasse, ditz, a, ave</li>
-      <li>VERB-Part: feyt, judyat, establit, feyte, dat, diit, tengut, feit, prees, mort</li>
+      <li>ADJ-Part: sobredeyt, sobredeyta, quitis, degude, amat, deputat, irade, requerit, retardat, sabude</li>
+      <li>AUX-Fin: es, sera, fo, sie, aura, ere, a, ave, fos, ha</li>
+      <li>AUX-Part: estat, estade, estant, estad, estada</li>
+      <li>DET: augun, augune</li>
+      <li>PRON: lo, autre, so, l', luy, hom, asso, ac, eg, jo</li>
+      <li>VERB-Fin: deu, es, pot, ha, judya, fe, fasse, a, ditz, ave</li>
+      <li>VERB-Part: feyt, judyat, feyte, establit, tengut, dat, deyt, diit, feit, passat</li>
     </ul>
   </li>
 </ul>
@@ -264,6 +264,22 @@ See also:
 
 
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADJ: nulle, augun</li>
+      <li>ADP: sens, senhs, sentz, ses, chens, senes</li>
+      <li>ADV: no, no-, non, que, gayres, mes, -no, mais, plus, augunement</li>
+      <li>CCONJ: ni, ne, ny, ni-, ne-</li>
+      <li>DET: nulh, nulhe, aucuna, nulhs, null, degune, aucun, degun, nulha, negune</li>
+      <li>PRON: res, negun, augune, aucun, augun, augunes, degun, nulhs, re</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
@@ -277,7 +293,8 @@ See also:
 <ul>
   <li>Cnd
     <ul>
-      <li>VERB-Fin: requerie, habundarie</li>
+      <li>AUX-Fin: aye</li>
+      <li>VERB-Fin: requerie, habundarie, poeyré</li>
     </ul>
   </li>
 </ul>
@@ -285,8 +302,8 @@ See also:
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: avem, es, fo, son</li>
-      <li>VERB-Fin: deu, dam, autreiam, devem, deven, dey, do, pot, alargam, armat</li>
+      <li>AUX-Fin: sera, seran, es, son, aura, à, auran, ere, ey, avem</li>
+      <li>VERB-Fin: deu, dam, autreiam, es, poeyra, pot, bailhera, devem, fara, poeyran</li>
     </ul>
   </li>
 </ul>
@@ -294,8 +311,8 @@ See also:
 <ul>
   <li>Sub
     <ul>
-      <li>AUX-Fin: sie, fos, sien, fosse, sies</li>
-      <li>VERB-Fin: fasse, pagui, digue, pagas, aye, fes, pusque, adobi, ani, daunas</li>
+      <li>AUX-Fin: sie, sien, fos, fosse, fossen, ayen, sia, sies</li>
+      <li>VERB-Fin: fasse, pagui, aye, digue, fasats, pagas, fes, pusque, adobi, ani</li>
     </ul>
   </li>
 </ul>
@@ -307,8 +324,19 @@ See also:
 <ul>
   <li>Fut
     <ul>
-      <li>VERB-Fin: aura, dara, dare, parceran, pravare, tornara, valera</li>
-      <li>VERB-Part: applicadore, aveniduy, ordenaduy</li>
+      <li>ADJ-Part: iuratory, decisory, defendaduyra, fasedeyra, fasedor, frustratoris, habeduyra, juraduyra, sequideyra, servadeyra</li>
+      <li>AUX-Fin: sera, seran, aura, auran, son</li>
+      <li>VERB-Fin: poeyra, bailhera, fara, poeyran, aura, sera, viendran, bailheran, demorera, appartiendra</li>
+      <li>VERB-Part: applicadors, MISsoris, anadurs, applicadore, arbitradore, aveniduy, contingut, donadeyra, donadeyras, fasadeyra</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: ere, fosse, fossen</li>
+      <li>VERB-Fin: accordassen, fasse, passabe, purgasse, recusasse, troubassen</li>
     </ul>
   </li>
 </ul>
@@ -316,11 +344,11 @@ See also:
 <ul>
   <li>Past
     <ul>
-      <li>ADJ-Part: avantditz, degude, dits, ditz, sabude, soberdiites, soberdit, soberdites, sobredeyt, sobredeyta</li>
+      <li>ADJ-Part: sobredeyt, sobredeytas, sobredeyta, sobredeytz, sobredeyts, avantditz, quitis, degude, degudas, dits</li>
       <li>AUX-Fin: fos, fo, fosse</li>
-      <li>AUX-Part: estat, estade, estad, estatz</li>
+      <li>AUX-Part: estat, estade, estad, estada, estadas, estades, estats, estatz</li>
       <li>VERB-Fin: pagas, fes, daunas, tengos, audit, cumplis, exis, proas, abengos, abengosen</li>
-      <li>VERB-Part: feyt, judyat, establit, feyte, dat, diit, tengut, feit, feytes, prees</li>
+      <li>VERB-Part: feyt, judyat, feyte, establit, tengut, dat, feytes, passat, deyt, diit</li>
     </ul>
   </li>
 </ul>
@@ -328,10 +356,11 @@ See also:
 <ul>
   <li>Pres
     <ul>
-      <li>ADJ-Part: pleyteyantz, estan, viandant</li>
-      <li>AUX-Fin: sie, sien, avem, es, fosse, sies, son</li>
-      <li>VERB-Fin: deu, dam, autreiam, fasse, devem, pagui, digue, aye, pusque, adobi</li>
-      <li>VERB-Part: estan, disen, disent, contrastan, fasen, fazen, sercan, aven, ceden, clamant</li>
+      <li>ADJ-Part: pleyteyantz, alugantz, comparentes, domandante, enseguens, estan, impetrante, mentagutz, partens, requerente</li>
+      <li>AUX-Fin: es, sie, sien, son, à, ey, avem, ez, a, aye</li>
+      <li>AUX-Part: estant</li>
+      <li>VERB-Fin: deu, dam, autreiam, fasse, es, pot, devem, pagui, aye, digue</li>
+      <li>VERB-Part: estan, disen, seguin, disent, fasen, reffondin, contrastan, declaran, fazen, requeren</li>
     </ul>
   </li>
 </ul>
@@ -343,9 +372,9 @@ See also:
 <ul>
   <li>Pass
     <ul>
-      <li>ADJ-Part: avantditz, dits, ditz, sabude, soberdiites, soberdit, soberdites, sobredeyt, sobredeyta, susdites</li>
+      <li>ADJ-Part: sobredeyt, sobredeytas, sobredeyta, sobredeytz, sobredeyts, avantditz, quitis, degudas, dits, susdites</li>
       <li>VERB-Fin: audit, restituit</li>
-      <li>VERB-Part: judyat, establit, feyt, feyte, diit, tengut, Conegude, dade, audides, conoguda</li>
+      <li>VERB-Part: judyat, feyt, establit, feyte, tengut, deyt, diit, feyta, feytes, dit</li>
     </ul>
   </li>
 </ul>
@@ -361,7 +390,7 @@ See also:
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: so, ac, asso, aqueg, aquero, a-, aqued, aquegs, a, aquetz</li>
+      <li>PRON: so, asso, ac, aqueg, ag, aquetz, aquero, a-, aqued, aquegs</li>
     </ul>
   </li>
 </ul>
@@ -369,15 +398,7 @@ See also:
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: autre, hom, autres, un, cascun, tot, totz, aute, mes, arres</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Int
-    <ul>
-      <li>PRON: qui</li>
+      <li>PRON: autre, hom, autres, c., un, augu, &c., tot, augun, totz</li>
     </ul>
   </li>
 </ul>
@@ -385,7 +406,8 @@ See also:
 <ul>
   <li>Neg
     <ul>
-      <li>PRON: augu, augun, negun, auguns, degun, degune, nulhs, aucun, neg, negu</li>
+      <li>DET: augun, augune, augunes</li>
+      <li>PRON: negun, res, augun, auguns, ren, degun, degune, aucun, augune, augunes</li>
     </ul>
   </li>
 </ul>
@@ -393,7 +415,7 @@ See also:
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: y, lo, en, se, ne, -n, n', i, s', nos</li>
+      <li>PRON: se, lo, nos, y, los, en, s', l', -los, luy</li>
     </ul>
   </li>
 </ul>
@@ -401,7 +423,7 @@ See also:
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: qui, que, ont, qui-, on, loquoau, losquoaus, que-, cui, losquaus</li>
+      <li>PRON: qui, que, losquaus, ont, lasquaus, loquau, qui-, laquau, on, -que</li>
     </ul>
   </li>
 </ul>
@@ -414,7 +436,7 @@ See also:
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: sons, lors, soes, sos</li>
+      <li>PRON: sons, nostre, nostres, sonx, lors, soes, sont, sos, vostres</li>
     </ul>
   </li>
 </ul>
@@ -426,7 +448,7 @@ See also:
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: se, s', -s, si, me, -m, -se, si-, sii, en</li>
+      <li>PRON: se, s', -s, si, me, s'-, -m, -se, si-, sii</li>
     </ul>
   </li>
 </ul>
@@ -438,9 +460,9 @@ See also:
 <ul>
   <li>1
     <ul>
-      <li>AUX-Fin: avem, ey, suy, auem, agu, aiam, em</li>
-      <li>PRON: nos, jo, mi, me, -m, -nos, m', io, yo, -mi</li>
-      <li>VERB-Fin: dam, autreiam, devem, dey, bolem, dic, ey, manam, mandam, avem</li>
+      <li>AUX-Fin: avem, ey, suy, auem, em, agu, aiam, ayam, eram, siam</li>
+      <li>PRON: nos, jo, mi, me, -m, -nos, io, m', nous, -mi</li>
+      <li>VERB-Fin: dam, autreiam, devem, dey, bolem, mandam, dic, ey, manam, avem</li>
     </ul>
   </li>
 </ul>
@@ -448,8 +470,9 @@ See also:
 <ul>
   <li>2
     <ul>
-      <li>PRON: -us, vos, bos, t'</li>
-      <li>VERB-Fin: ditz, fasatz, suple, Sapiatz, deffendat, devetz, fassatz, gardatz, leschiat, mandetz</li>
+      <li>AUX-Fin: edz, avetz, serat</li>
+      <li>PRON: vos, -us, vous, bos, t', vostres</li>
+      <li>VERB-Fin: ditz, fasats, sapiat, fassatz, sapiatz, suple, audiretz, fasatz, saubets, Intellige</li>
     </ul>
   </li>
 </ul>
@@ -457,9 +480,11 @@ See also:
 <ul>
   <li>3
     <ul>
-      <li>AUX-Fin: es, fo, sie, aura, ere, son, a, ave, sera, sien</li>
-      <li>PRON: lo, se, s', autre, l', -los, hom, los, eg, -s</li>
-      <li>VERB-Fin: deu, ha, pot, es, judya, fe, fasse, ditz, a, ave</li>
+      <li>AUX-Fin: es, sera, fo, sie, son, aura, seran, ere, a, sien</li>
+      <li>AUX-Part: estats</li>
+      <li>PRON: se, lo, y, los, en, s', l', -los, luy, lor</li>
+      <li>VERB-Fin: deu, es, pot, ha, judya, fe, fasse, a, ditz, ave</li>
+      <li>VERB-Part: pribat, damouran, estan, feyt, reffondin, testimoniats</li>
     </ul>
   </li>
 </ul>
@@ -475,33 +500,33 @@ See also:
     <ul>
       <li>ADP
         <ul>
-          <li>ADP: entro, per, contra, ob, saub, ses, Seis, ab, am, aprees</li>
-          <li>ADV: fore, no, quant, ensemps, for, senes, sino</li>
-          <li>SCONJ: cum</li>
+          <li>ADP: entro, per, d', saub, contra, ob, ses, Seis, ab, am</li>
+          <li>ADV: fore, quant, no, abant, afin, comme, ensemps, for, sino, senes</li>
+          <li>SCONJ: cum, si</li>
         </ul>
       </li>
       <li>ADV
         <ul>
-          <li>ADP: per</li>
-          <li>ADV: tant, ayssi, no, aixi, assi, ayssi-, certas, sino, tantes, tot</li>
-          <li>PRON: so, so-</li>
-          <li>SCONJ: si, -si, ayssicum, se</li>
+          <li>ADP: per, de</li>
+          <li>ADV: tant, ayssi, no, aixi, assi, ayssi-, certas, cum, si, sino</li>
+          <li>PRON: so, so-, ço</li>
+          <li>SCONJ: si, cum, -si, ayssicum, se</li>
           <li>VERB-Fin: es</li>
         </ul>
       </li>
       <li>CCONJ
         <ul>
-          <li>ADV: ayssi, aixi, ayssi-</li>
+          <li>ADV: ayssi, tout, aixi, ayssi-, ensemps</li>
         </ul>
       </li>
       <li>SCONJ
         <ul>
-          <li>ADP: entro, per, ab, en, segont, de, exceptat, saub, segon, a</li>
-          <li>ADV: ayssi, tant, sino, aixi, apres, puix, ont, aissi, abantz, asi</li>
+          <li>ADP: entro, per, en, ab, de, segont, à, saub, senhs, a</li>
+          <li>ADV: tant, ayssi, sino, aixi, sinon, apres, puix, auparauant, ont, aissi</li>
           <li>CCONJ: pero</li>
-          <li>NOUN: rason</li>
-          <li>SCONJ: si, jassia, jassie, affin, cum, mentra, sinauque</li>
-          <li>VERB-Part: pausat, actendut</li>
+          <li>NOUN: rason, sobres</li>
+          <li>SCONJ: si, jassia, jassie, affin, cum, mentra, dequé, que, sinauque</li>
+          <li>VERB-Part: pausat, actendut, expausat</li>
         </ul>
       </li>
     </ul>
@@ -527,15 +552,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (181)</li>
-      <li>VERB--NOUN-ADP(_) (1)</li>
-      <li>VERB--PRON (195)</li>
-      <li>VERB-Fin--NOUN (794)</li>
-      <li>VERB-Fin--PRON (537)</li>
-      <li>VERB-Inf--NOUN (3)</li>
-      <li>VERB-Inf--PRON (3)</li>
-      <li>VERB-Part--NOUN (227)</li>
-      <li>VERB-Part--PRON (176)</li>
+      <li>VERB-Fin--NOUN (1015)</li>
+      <li>VERB-Fin--PRON (730)</li>
+      <li>VERB-Inf--NOUN (8)</li>
+      <li>VERB-Inf--PRON (4)</li>
+      <li>VERB-Part--NOUN (426)</li>
+      <li>VERB-Part--NOUN-ADP(_) (2)</li>
+      <li>VERB-Part--PRON (268)</li>
     </ul>
   </li>
 </ul>
@@ -543,17 +566,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (207)</li>
-      <li>VERB--PRON (103)</li>
-      <li>VERB-Fin--NOUN (698)</li>
+      <li>VERB-Fin--NOUN (898)</li>
       <li>VERB-Fin--NOUN-ADP(_) (2)</li>
-      <li>VERB-Fin--PRON (343)</li>
-      <li>VERB-Inf--NOUN (302)</li>
-      <li>VERB-Inf--NOUN-ADP(_) (1)</li>
-      <li>VERB-Inf--PRON (156)</li>
-      <li>VERB-Part--NOUN (146)</li>
+      <li>VERB-Fin--PRON (447)</li>
+      <li>VERB-Inf--NOUN (446)</li>
+      <li>VERB-Inf--NOUN-ADP(_) (3)</li>
+      <li>VERB-Inf--PRON (204)</li>
+      <li>VERB-Part--NOUN (218)</li>
       <li>VERB-Part--NOUN-ADP(_) (1)</li>
-      <li>VERB-Part--PRON (108)</li>
+      <li>VERB-Part--PRON (132)</li>
     </ul>
   </li>
 </ul>
@@ -561,10 +582,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--PRON (15)</li>
-      <li>VERB-Fin--PRON (182)</li>
-      <li>VERB-Inf--PRON (42)</li>
-      <li>VERB-Part--PRON (47)</li>
+      <li>VERB-Fin--PRON (201)</li>
+      <li>VERB-Inf--PRON (49)</li>
+      <li>VERB-Part--PRON (61)</li>
     </ul>
   </li>
 </ul>
@@ -574,7 +594,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 3 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: _ -s, _ se, _ si-</li>
+  <li>This corpus contains 3 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: _ se, _ -s, _ si-</li>
 </ul>
 
 <h3>Relations Overview</h3>

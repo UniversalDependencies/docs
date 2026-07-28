@@ -30,7 +30,7 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	Entity=(114-time-giv:act-nnnnn-cf1-3-pred
 6	good	good	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 7	time	time	NOUN	NN	Number=Sing	0	root	0:root	_
-8	to	to	PART	TO	_	9	mark	9:mark	Discourse=purpose-attribute:83->82:0:_
+8	to	to	PART	TO	_	9	mark	9:mark	Discourse=purpose-attribute:83->82:0:syn-mdf-388-_+syn-inf-389-_
 9	meet	meet	VERB	VB	VerbForm=Inf	7	acl	7:acl:to	Entity=114)|SpaceAfter=No
 10	.	.	PUNCT	.	_	7	punct	7:punct	XML=</hi>
 
@@ -69,15 +69,15 @@ The following 13 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 9 acl	color:blue
-1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	root	0:root|4:nsubj	Discourse=joint-disjunction_m:59->46:1:_|Entity=(83-abstract-new-nnnnn-cf4-1-sgl
-2	which	which	PRON	WDT	PronType=Rel	4	nsubj	1:ref	Discourse=elaboration-attribute:60->59:0:_
+1	That	that	PRON	DT	Number=Sing|PronType=Dem	0	root	0:root|4:nsubj	Discourse=joint-disjunction_m:59->46:1:grf-seq-_-_+grf-semcol-311,316-_|Entity=(83-abstract-new-nnnnn-cf4-1-sgl
+2	which	which	PRON	WDT	PronType=Rel	4	nsubj	1:ref	Discourse=elaboration-attribute:60->59:0:syn-mdf-305-_+syn-relcl-306,308-_
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass|6:aux:pass	_
 4	committed	commit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	acl:relcl	1:acl:relcl	MSeg=committ-ed
 5	or	or	CCONJ	CC	_	6	cc	6:cc	_
 6	entrusted	entrust	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	conj	1:acl:relcl|4:conj:or	Entity=83)|MSeg=en-trust-ed|SpaceAfter=No
 7	;	;	PUNCT	:	_	8	punct	8:punct	_
 8	something	something	PRON	NN	Number=Sing|PronType=Ind	1	parataxis	1:parataxis	Discourse=same-unit_m:61->59:1:_|Entity=(84-abstract-new-nnnnn-cf1-1-sgl|MSeg=some-thing
-9	received	receive	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	Discourse=elaboration-attribute:62->61:0:_|MSeg=receiv-ed
+9	received	receive	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	acl	8:acl	Discourse=elaboration-attribute:62->61:0:syn-mdf-312-_+syn-nmn-313-_|MSeg=receiv-ed
 10	in	in	ADP	IN	_	11	case	11:case	_
 11	confidence	confidence	NOUN	NN	Number=Sing	9	obl	9:obl:in	Entity=(85-abstract-new-nnnnn-cf2-1-sgl)84)|MSeg=confid-ence|SpaceAfter=No
 12	;	;	PUNCT	:	_	14	punct	14:punct	_

@@ -51,7 +51,7 @@ The following 5 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 3	université	université	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
 4	dont	dont	PRON	_	PronType=Rel	8	nmod	_	_
 5	Woodrow	Woodrow	PROPN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
-6	Wilson	Wilson	PROPN	_	Gender=Masc|Number=Sing	5	flat:name	_	_
+6	Wilson	Wilson	PROPN	_	_	5	flat:name	_	_
 7	fut	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
 8	président	président	NOUN	_	Gender=Masc|Number=Sing	3	acl:relcl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	1	punct	_	_

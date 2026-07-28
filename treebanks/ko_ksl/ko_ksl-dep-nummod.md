@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-403 nodes (0%) are attached to their parents as `nummod`.
+463 nodes (0%) are attached to their parents as `nummod`.
 
-398 instances of `nummod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.06451612903226.
+458 instances of `nummod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.06479481641469.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (334; 83% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (60; 15% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (386; 83% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (65; 14% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (7; 2% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

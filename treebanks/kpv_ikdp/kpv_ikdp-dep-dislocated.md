@@ -42,7 +42,7 @@ The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 10	fgColor:white
 # visual-style 10 13 dislocated	color:blue
 1	И	и	CCONJ	CC	_	2	cc	_	_
-2	сы	сійӧ	PRON	Pron	PronType=Dem	10	obl	_	GTtags=Dem
+2	сы	сійӧ	PRON	Pron	Case=Adp|PronType=Dem	10	obl	_	GTtags=Dem
 3	кузя	кузя	ADP	Adp	AdpType=Post	2	case	_	GTtags=Po
 4	нин	нин	ADV	Adv	AdvType=Tim	2	advmod	_	GTtags=Sem/Time|SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	7	punct	_	_

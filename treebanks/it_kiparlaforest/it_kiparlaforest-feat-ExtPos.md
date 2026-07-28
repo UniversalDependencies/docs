@@ -7,16 +7,16 @@ udver: '2'
 ## Treebank Statistics: UD_Italian-KIParlaForest: Features: `ExtPos`
 
 This feature is language-specific.
-It occurs with 3 different values: `ADP`, `ADV`, `SCONJ`.
+It occurs with 4 different values: `ADP`, `ADV`, `CCONJ`, `SCONJ`.
 
-39 tokens (0%) have a non-empty value of `ExtPos`.
-15 types (1%) occur at least once with a non-empty value of `ExtPos`.
-15 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (13; 0% instances).
+40 tokens (0%) have a non-empty value of `ExtPos`.
+16 types (1%) occur at least once with a non-empty value of `ExtPos`.
+16 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 3 part-of-speech tags: <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> (26; 0% instances), <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-26 <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+26 <tt><a href="it_kiparlaforest-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
 The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="it_kiparlaforest-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (26; 100%).
 
@@ -33,7 +33,7 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 ### `ADP`
 
-13 <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+13 <tt><a href="it_kiparlaforest-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
@@ -44,6 +44,14 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
   <tr><th>Paradigm <i>a</i></th><th><tt>ADP</tt></th><th><tt>SCONJ</tt></th></tr>
   <tr><td><tt></tt></td><td><em>a</em></td><td><em>a</em></td></tr>
 </table>
+
+### `CCONJ`
+
+1 <tt><a href="it_kiparlaforest-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
+
+`CCONJ` tokens may have the following values of `ExtPos`:
+
+* `CCONJ` (1; 100% of non-empty `ExtPos`): <em>se</em>
 
 ## Relations with Agreement in `ExtPos`
 

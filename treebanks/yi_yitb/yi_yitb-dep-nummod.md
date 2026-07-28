@@ -28,7 +28,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	שטיק	שטיק	NOUN	_	_	0	root	_	Translit=shtik|Translit_Lemma=shtik
 5	פֿלײש	פֿלײַש	NOUN	_	_	4	nmod	_	Translit=fleysh|Translit_Lemma=flaysh
 6	מיט	מיט	ADP	_	_	8	case	_	Translit=mit|Translit_Lemma=mit
-7	צװײ	_	NUM	_	_	8	nummod	_	Translit=tsvey
+7	צװײ	צװײ	NUM	_	_	8	nummod	_	Translit=tsvey|Translit_Lemma=tsvey
 8	אױגן	אױג	NOUN	_	_	4	nmod	_	SpaceAfter=No|Translit=oygn|Translit_Lemma=oyg
 9	.	.	PUNCT	_	_	4	punct	_	Translit=.|Translit_Lemma=.
 
@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	באָלשעוויק	באָלשעוויק	NOUN	_	_	3	xcomp	_	Translit=bolshevik|Translit_Lemma=bolshevik
 6	אין	אין	ADP	_	_	7	case	_	Translit=in|Translit_Lemma=in
 7	אָקטאָבער	אָקטאָבער	PROPN	_	_	5	obl	_	Translit=oktober|Translit_Lemma=oktober
-8	1917	_	NUM	_	_	7	nummod	_	SpaceAfter=No|Translit=1917
+8	1917	גנבֿה	NUM	_	_	7	nummod	_	SpaceAfter=No|Translit=1917|Translit_Lemma=gneyve
 9	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
 ~~~
@@ -64,7 +64,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 2	בין	זײַן	AUX	_	_	7	cop	_	Translit=bin|Translit_Lemma=zayn
 3	פֿינף	פֿינף	NOUN	_	_	6	nummod	_	Translit=finf|Translit_Lemma=finf
 4	און	און	CCONJ	_	_	5	cc	_	Translit=un|Translit_Lemma=un
-5	צוואַנציק	_	NUM	_	_	3	compound	_	Translit=tsvantsik
+5	צוואַנציק	צװאַנציק	NUM	_	_	3	compound	_	Translit=tsvantsik|Translit_Lemma=tsvantsik
 6	יאָר	יאָר	NOUN	_	_	7	obl	_	Translit=yor|Translit_Lemma=yor
 7	אַלט	אַלט	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=alt|Translit_Lemma=alt
 8	.	.	PUNCT	_	_	7	punct	_	Translit=.|Translit_Lemma=.

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Kadri Muischnek, Kaili Müürisep, Tiina Puolakainen, Andriela Rääbis, Liisi Torga.
 
 Repository: [UD_Estonian-EDT](https://github.com/UniversalDependencies/UD_Estonian-EDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_edt217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udet_edt218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -82,7 +82,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 
 ## Relations
 
-[acl](et_edt-dep-acl.html) – [acl:relcl](et_edt-dep-acl-relcl.html) – [advcl](et_edt-dep-advcl.html) – [advmod](et_edt-dep-advmod.html) – [amod](et_edt-dep-amod.html) – [appos](et_edt-dep-appos.html) – [aux](et_edt-dep-aux.html) – [case](et_edt-dep-case.html) – [cc](et_edt-dep-cc.html) – [cc:preconj](et_edt-dep-cc-preconj.html) – [ccomp](et_edt-dep-ccomp.html) – [compound](et_edt-dep-compound.html) – [compound:prt](et_edt-dep-compound-prt.html) – [conj](et_edt-dep-conj.html) – [cop](et_edt-dep-cop.html) – [csubj](et_edt-dep-csubj.html) – [csubj:cop](et_edt-dep-csubj-cop.html) – [dep](et_edt-dep-dep.html) – [det](et_edt-dep-det.html) – [discourse](et_edt-dep-discourse.html) – [fixed](et_edt-dep-fixed.html) – [flat](et_edt-dep-flat.html) – [flat:foreign](et_edt-dep-flat-foreign.html) – [goeswith](et_edt-dep-goeswith.html) – [list](et_edt-dep-list.html) – [mark](et_edt-dep-mark.html) – [nmod](et_edt-dep-nmod.html) – [nmod:poss](et_edt-dep-nmod-poss.html) – [nsubj](et_edt-dep-nsubj.html) – [nsubj:cop](et_edt-dep-nsubj-cop.html) – [nummod](et_edt-dep-nummod.html) – [obj](et_edt-dep-obj.html) – [obl](et_edt-dep-obl.html) – [obl:agent](et_edt-dep-obl-agent.html) – [orphan](et_edt-dep-orphan.html) – [parataxis](et_edt-dep-parataxis.html) – [punct](et_edt-dep-punct.html) – [root](et_edt-dep-root.html) – [vocative](et_edt-dep-vocative.html) – [xcomp](et_edt-dep-xcomp.html)
+[acl](et_edt-dep-acl.html) – [acl:relcl](et_edt-dep-acl-relcl.html) – [advcl](et_edt-dep-advcl.html) – [advmod](et_edt-dep-advmod.html) – [advmod:lmod](et_edt-dep-advmod-lmod.html) – [advmod:tmod](et_edt-dep-advmod-tmod.html) – [amod](et_edt-dep-amod.html) – [appos](et_edt-dep-appos.html) – [aux](et_edt-dep-aux.html) – [case](et_edt-dep-case.html) – [cc](et_edt-dep-cc.html) – [cc:preconj](et_edt-dep-cc-preconj.html) – [ccomp](et_edt-dep-ccomp.html) – [compound](et_edt-dep-compound.html) – [compound:idiom](et_edt-dep-compound-idiom.html) – [compound:prt](et_edt-dep-compound-prt.html) – [conj](et_edt-dep-conj.html) – [cop](et_edt-dep-cop.html) – [csubj](et_edt-dep-csubj.html) – [csubj:cop](et_edt-dep-csubj-cop.html) – [dep](et_edt-dep-dep.html) – [det](et_edt-dep-det.html) – [discourse](et_edt-dep-discourse.html) – [fixed](et_edt-dep-fixed.html) – [flat](et_edt-dep-flat.html) – [flat:foreign](et_edt-dep-flat-foreign.html) – [goeswith](et_edt-dep-goeswith.html) – [list](et_edt-dep-list.html) – [mark](et_edt-dep-mark.html) – [nmod](et_edt-dep-nmod.html) – [nmod:poss](et_edt-dep-nmod-poss.html) – [nsubj](et_edt-dep-nsubj.html) – [nsubj:cop](et_edt-dep-nsubj-cop.html) – [nummod](et_edt-dep-nummod.html) – [obj](et_edt-dep-obj.html) – [obl](et_edt-dep-obl.html) – [obl:agent](et_edt-dep-obl-agent.html) – [obl:arg](et_edt-dep-obl-arg.html) – [obl:lmod](et_edt-dep-obl-lmod.html) – [obl:tmod](et_edt-dep-obl-tmod.html) – [orphan](et_edt-dep-orphan.html) – [parataxis](et_edt-dep-parataxis.html) – [punct](et_edt-dep-punct.html) – [root](et_edt-dep-root.html) – [vocative](et_edt-dep-vocative.html) – [xcomp](et_edt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -346,7 +346,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>DET: sellele, kõigile, ühele, teistele, igale, paljudele, samale, mõnele, teisele, kõikidele</li>
       <li>NOUN: tööle, lastele, inimestele, inimesele, tööhõivele, teele, ebavõrdsusele, riigile, küsimusele, põrandale</li>
       <li>NOUN-Part: tulnule, allakirjutanule, deporteeritutele, edasijõudnutele, eelnenule, elavatele, kannatanutele, käinutele, lahkunuile, läinutele</li>
-      <li>NUM: kahele, ühele, neljale, paarile, kuuele, kolmele, kümnele, sadadele, 32-le, 4-le</li>
+      <li>NUM: ühele, kahele, neljale, paarile, kuuele, kolmele, kümnele, sadadele, 32-le, 4-le</li>
       <li>PRON: talle, endale, mulle, neile, sellele, meile, kellele, sulle, millele, teile</li>
       <li>PROPN: Eestile, Postimehele, Venemaale, Maale, Tõnule, Saksamaale, Inglismaale, Janile, Hiinale, Kerdile</li>
       <li>SYM: %-le, i-le</li>
@@ -508,7 +508,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
       <li>ADJ: selgeks, heaks, oluliseks, kindlaks, paremaks, esimeseks, puhtaks, suuremaks, tänaseks, nüüdseks</li>
       <li>ADJ-Part: sobivaks, iseseisvaks, juhtivaks, kättesaadavaks, määravaks, vähendavaks, soovitavaks, õnnestunuks, algavaks, enesestmõistetavaks</li>
       <li>DET: üheks, selleks, igaks, mõneks, mitmeks, teiseks, esimeseks, samaks, selliseks, Nendeks</li>
-      <li>NOUN: lisaks, põhjuseks, aluseks, aastaks, eesmärgiks, ajaks, lõpuks, kasuks, õnneks, ülesandeks</li>
+      <li>NOUN: lisaks, põhjuseks, aluseks, aastaks, eesmärgiks, ajaks, lõpuks, kasuks, ülesandeks, saamiseks</li>
       <li>NOUN-Part: viibinuks, väljavalituteks</li>
       <li>NUM: kaheks, kolmeks, üheks, neljaks, viieks, paariks, kuueks, pooleks, 10ks, 51-ks</li>
       <li>PRON: selleks, omaks, milleks, samaks, nendeks, selliseks, iseendaks, kõigeks, kelleks, paljuks</li>
@@ -987,7 +987,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
       </li>
       <li>ADV
         <ul>
-          <li>ADV: rohkem, enam, kas, vähem, ükskõik, nii, peaaegu, á, ilma, kuidas</li>
+          <li>ADV: rohkem, enam, kas, vähem, ükskõik, nii, peaaegu, tahes, á, ilma</li>
           <li>INTJ: oi</li>
           <li>NUM: ühelt</li>
           <li>PRON: ühelt, teiselt, igal, omalt, mitmel, mõnel, igale, igalt, mõlemalt, teisel</li>
@@ -1128,7 +1128,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
         <ul>
           <li>ADJ: 125, 15-69, 16,4, 20-, 200, 3,5, 30, 50, 500, 82</li>
           <li>ADP: eest</li>
-          <li>ADV: 18,1, keskelt, näteks, valimis</li>
+          <li>ADV: 18,1, keskelt, mõlkkis, näteks, tuduvalt, tõenoliselt, valimis</li>
           <li>AUX-Fin: oli</li>
           <li>DET: niiguse, sama, to</li>
           <li>NOUN: Los, eestirahvas, inimestel, keskkofnnaasjadest, külalsed, laeivapalukest, nishi, pealvaatajat, progrmmeerija, protsessor-</li>
@@ -1260,6 +1260,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obl:agent</a></li>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advmod:lmod</a>, <a>advmod:tmod</a>, <a>cc:preconj</a>, <a>compound:idiom</a>, <a>compound:prt</a>, <a>csubj:cop</a>, <a>flat:foreign</a>, <a>nmod:poss</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:lmod</a>, <a>obl:tmod</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>reparandum</a></li>
 </ul>

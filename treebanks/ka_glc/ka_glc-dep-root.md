@@ -13,7 +13,7 @@ This relation is universal.
 3164 instances of `root` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 6.70101137800253.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (2148; 68% instances), -<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (784; 25% instances), -<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (206; 7% instances), -<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (11; 0% instances), -<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (7; 0% instances), -<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (2; 0% instances), -<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="ka_glc-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (2148; 68% instances), -<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (786; 25% instances), -<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (204; 6% instances), -<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (11; 0% instances), -<tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (7; 0% instances), -<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (2; 0% instances), -<tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (2; 0% instances), -<tt><a href="ka_glc-pos-X.html">X</a></tt> (2; 0% instances), -<tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

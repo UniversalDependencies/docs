@@ -31,7 +31,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 6	Τοῦτό	οὗτος	PRON	_	Case=Acc,Nom|Gender=Neut|Number=Sing|PronType=Dem	10	nsubj:outer	_	Gloss=this|Outer=Yes|Ref=GEN_42.14
 7	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	Gloss=to-be|Ref=GEN_42.14|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	Ref=GEN_42.14
-9	ὃ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	10	nsubj	_	Gloss=who,which,that|Ref=GEN_42.14
+9	ὃ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nsubj	_	Gloss=who,which,that|Ref=GEN_42.14
 10	εἴρηκα	ἐρέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	Gloss=to-say|Ref=GEN_42.14
 11	ὑμῖν	ὑμεῖς	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	10	iobj	_	Gloss=you|Ref=GEN_42.14
 12	λέγων	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	Gloss=to-say|Ref=GEN_42.14
@@ -56,7 +56,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 4	εὐνούχους	εὐνοῦχος	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	Gloss=eunuch|Ref=GEN_40.7
 5	Φαραώ	Φαραώ	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	4	nmod:poss	_	Gloss=Pharaoh|Ref=GEN_40.7|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Ref=GEN_40.7
-7	οἳ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	13	nsubj	_	Gloss=who,which,that|Ref=GEN_40.7
+7	οἳ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	nsubj	_	Gloss=who,which,that|Ref=GEN_40.7
 8	ἦσαν	εἰμί	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	Gloss=to-be|Ref=GEN_40.7
 9	μετ᾿	μετά	ADP	_	_	10	case	_	Gloss=+G=with;-+A=after|Ref=GEN_40.7
 10	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	13	obl	_	Gloss=he,she,it,-self,same|Ref=GEN_40.7
@@ -64,7 +64,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 12	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	Gloss=the|Ref=GEN_40.7
 13	φυλακῇ	φυλακή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	4	acl:relcl	_	Gloss=guard,guarding;-prison|Ref=GEN_40.7
 14	παρὰ	παρά	ADP	_	_	16	case	_	Gloss=+G=from;-+D=before;-+A=beside,along|Ref=GEN_40.7
-15	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	16	det	_	Gloss=the|Ref=GEN_40.7
+15	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	Gloss=the|Ref=GEN_40.7
 16	κυρίῳ	κύριος	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	13	nmod	_	Gloss=lord|Ref=GEN_40.7
 17	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	16	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_40.7|SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	Ref=GEN_40.7

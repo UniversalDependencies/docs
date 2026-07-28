@@ -40,7 +40,7 @@ The 10 most frequent ambiguous types:  <em>non</em> (<tt><a href="la_udante-pos-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.047619 (the average of all parts of speech is 2.130133).
+The form / lemma ratio of `PART` is 1.047619 (the average of all parts of speech is 2.131437).
 
 The 1st highest number of forms (2) was observed with the lemma “namque”: <em>namque, nanque</em>.
 
@@ -59,7 +59,7 @@ Examples: <em>non, ni, ne</em>
 
 ## Relations
 
-`PART` nodes are attached to their parents using 11 different relations: <tt><a href="la_udante-dep-discourse.html">discourse</a></tt> (717; 48% instances), <tt><a href="la_udante-dep-advmod-neg.html">advmod:neg</a></tt> (699; 47% instances), <tt><a href="la_udante-dep-advmod-emph.html">advmod:emph</a></tt> (34; 2% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (14; 1% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (12; 1% instances), <tt><a href="la_udante-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="la_udante-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-obl.html">obl</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 11 different relations: <tt><a href="la_udante-dep-discourse.html">discourse</a></tt> (716; 48% instances), <tt><a href="la_udante-dep-advmod-neg.html">advmod:neg</a></tt> (700; 47% instances), <tt><a href="la_udante-dep-advmod-emph.html">advmod:emph</a></tt> (34; 2% instances), <tt><a href="la_udante-dep-conj.html">conj</a></tt> (14; 1% instances), <tt><a href="la_udante-dep-orphan.html">orphan</a></tt> (12; 1% instances), <tt><a href="la_udante-dep-root.html">root</a></tt> (4; 0% instances), <tt><a href="la_udante-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="la_udante-dep-advcl-cmp.html">advcl:cmp</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt> (1; 0% instances), <tt><a href="la_udante-dep-obl.html">obl</a></tt> (1; 0% instances)
 
 Parents of `PART` nodes belong to 13 different parts of speech: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (985; 66% instances), <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (200; 13% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (105; 7% instances), <tt><a href="la_udante-pos-ADV.html">ADV</a></tt> (79; 5% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (56; 4% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (16; 1% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (15; 1% instances), <tt><a href="la_udante-pos-ADP.html">ADP</a></tt> (4; 0% instances),  (4; 0% instances), <tt><a href="la_udante-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

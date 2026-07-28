@@ -26,4 +26,4 @@ _kilt_ is an ordinary [NOUN]().
 ### Examples
 
 - _A on pak akorát <b>xfgh pdl jklw</b>&nbsp;_ “And then he just <b>xfgh pdl jklw</b>”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:57 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->

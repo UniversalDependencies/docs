@@ -11,23 +11,23 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt>, <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt>.
 
-1360 tokens (17%) have a non-empty value of `Person`.
-778 types (22%) occur at least once with a non-empty value of `Person`.
-483 lemmas (21%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (794; 10% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (319; 4% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (247; 3% instances).
+1372 tokens (17%) have a non-empty value of `Person`.
+781 types (22%) occur at least once with a non-empty value of `Person`.
+484 lemmas (21%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (800; 10% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (322; 4% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (250; 3% instances).
 
 ### `VERB`
 
-794 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Person`.
+800 <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (794; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (784; 99%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (764; 96%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (571; 72%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (500; 63%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (800; 100%), <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (790; 99%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (771; 96%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (575; 72%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (505; 63%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (80; 10% of non-empty `Person`): <em>аддза, думайта, гӧгӧрволім, мӧдӧдчи, пукси, сувті, шуам, юалі, Арендуйтам, Ветла</em>
 * `2` (52; 7% of non-empty `Person`): <em>Кӧсъян, аддзан, бӧрйы, Аддзывлан, Вайӧ, Водінныд, Идралін, Кутчысь, Кывзы, Локтін</em>
-* `3` (662; 83% of non-empty `Person`): <em>воис, лои, мунӧ, Локтас, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс</em>
-* `EMPTY` (557): <em>идралӧм, лоны, шуны, идралӧмын, мунны, вӧчны, пов, восьлавны, жалит, кольӧм</em>
+* `3` (668; 84% of non-empty `Person`): <em>воис, лои, видзӧдліс, кыліс, мунӧ, Локтас, воисны, муніс, шуис, шыасис</em>
+* `EMPTY` (566): <em>идралӧм, лоны, шуны, идралӧмын, мунны, вӧчны, пов, восьлавны, жалит, кольӧм</em>
 
 <table>
   <tr><th>Paradigm <i>шуны</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -37,55 +37,52 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>шуам</em></td><td></td><td><em>шуӧны</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `VERB`. 90% lemmas (420) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `VERB`. 90% lemmas (421) occur only with one value of `Person`.
 
 ### `PRON`
 
-319 <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> tokens (60% of all `PRON` tokens) have a non-empty value of `Person`.
+322 <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> tokens (60% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (306; 96%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (226; 71%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (315; 98%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (228; 71%).
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (110; 34% of non-empty `Person`): <em>ме, ми, миян, менам, меным, менӧ, ачым, миянлысь, асланым, ачымӧс</em>
+* `1` (111; 34% of non-empty `Person`): <em>ме, ми, миян, менам, меным, менӧ, ачым, миянлысь, асланым, ачымӧс</em>
 * `2` (39; 12% of non-empty `Person`): <em>тэ, ті, тэнад, тэкӧд, тэныд, тіян, Асьныд, Коднаныд, Ставныд, аскӧдныд</em>
-* `3` (170; 53% of non-empty `Person`): <em>сійӧ, сы, сійӧс, найӧ, сылӧн, сылы, найӧс, аслас, ачыс, асьсӧ</em>
-* `EMPTY` (215): <em>тайӧ, мый, быд, кодъяс, коді, ас, став, мыйкӧ, мукӧд, ставыс</em>
+* `3` (172; 53% of non-empty `Person`): <em>сійӧ, сы, сійӧс, найӧ, сылӧн, сылы, найӧс, аслас, ачыс, асьсӧ</em>
+* `EMPTY` (216): <em>тайӧ, мый, быд, кодъяс, коді, ас, став, мыйкӧ, мукӧд, ставыс</em>
 
 <table>
   <tr><th>Paradigm <i>ас</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ачымӧс</em></td><td></td><td><em>асьсӧ</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>асьсӧ</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ачымӧс</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ачымӧс</em></td><td></td><td><em>асьсӧ</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>ачымӧс</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>аскӧдыс</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>аскӧдныд</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>аслыс</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>ассьыс</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>аскӧдныд</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>аслыс</em></td></tr>
   <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ассьыс</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>ассьыныс</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>ассьыныс</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>асланым, асланымъяс</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>аслас</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ачым</em></td><td><em>аслад, ачыд</em></td><td><em>ачыс</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ачым</em></td><td></td><td><em>ачыс</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>асьным</em></td><td><em>Асьныд</em></td><td><em>асьныс</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ачым</em></td><td></td><td><em>ачыс</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>аслас</em></td></tr>
-  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>асланыс</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>ассьыныс</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Ela</tt></tt></td><td></td><td></td><td><em>ассьыныс</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>асланым, асланымъяс</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td></td><td><em>аслас</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ачым</em></td><td><em>аслад, ачыд</em></td><td><em>ачыс</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>асьным</em></td><td><em>Асьныд</em></td><td><em>асьныс</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>ачым</em></td><td></td><td><em>ачыс</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>аслас</em></td></tr>
+  <tr><td><tt><tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>асланыс</em></td></tr>
 </table>
 
 ### `AUX`
 
-247 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (80% of all `AUX` tokens) have a non-empty value of `Person`.
+250 <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> tokens (80% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (244; 99%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (240; 97%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (168; 68%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (134; 54%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (129; 52%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="kpv_lattice-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (246; 98%), <tt><a href="kpv_lattice-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (243; 97%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (170; 68%), <tt><a href="kpv_lattice-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (136; 54%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (131; 52%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (27; 11% of non-empty `Person`): <em>эг, ог, лоам, Огыд, верми, вӧлі, вӧлім, кута, огӧ, эз</em>
 * `2` (20; 8% of non-empty `Person`): <em>он, эн, вай, верман, кутан</em>
-* `3` (200; 81% of non-empty `Person`): <em>эз, оз, вӧлі, колӧ, вӧліны, кутіс, позьӧ, вермас, лоас, пондіс</em>
-* `EMPTY` (61): <em>абу, вермы, кут, не, лоны, абуӧсь, вӧв, позь, должен, ни</em>
+* `3` (203; 81% of non-empty `Person`): <em>эз, оз, вӧлі, колӧ, вӧліны, кутіс, позьӧ, вермас, лоас, пондіс</em>
+* `EMPTY` (62): <em>абу, вермы, кут, не, лоны, абуӧсь, вӧв, позь, должен, ни</em>
 
 <table>
   <tr><th>Paradigm <i>оз</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -106,7 +103,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> VERB</tt> (161; 70%),
-<tt>VERB --[<tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (84; 64%),
+<tt>VERB --[<tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (85; 64%),
 <tt>VERB --[<tt><a href="kpv_lattice-dep-aux-tense.html">aux:tense</a></tt>]--> AUX</tt> (10; 67%),
 <tt>PRON --[<tt><a href="kpv_lattice-dep-cop.html">cop</a></tt>]--> AUX</tt> (3; 75%),
 <tt>PRON --[<tt><a href="kpv_lattice-dep-det.html">det</a></tt>]--> PRON</tt> (3; 100%),

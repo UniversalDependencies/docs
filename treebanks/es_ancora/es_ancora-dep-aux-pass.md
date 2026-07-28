@@ -8,32 +8,32 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="es_ancora-dep-aux.html">aux</a></tt>.
 
-15 nodes (0%) are attached to their parents as `aux:pass`.
+24 nodes (0%) are attached to their parents as `aux:pass`.
 
-15 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+24 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (14; 93% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1; 7% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (23; 96% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 aux:pass	color:blue
-1	Eramos	ser	AUX	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	aux:pass	2:aux:pass	_
-2	considerados	considerar	VERB	vmp00pm	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	11	ccomp	11:ccomp	_
-3	como	como	SCONJ	cs	_	4	mark	4:mark	_
-4	gente	gente	NOUN	ncfs000	Gender=Fem|Number=Sing	2	xcomp	2:xcomp	ArgTem=arg2:atr|Entity=(CESSCASTP2000030234c11--1-gstype:gen
-5	que	que	PRON	pr0cn000	PronType=Rel	6	nsubj	6:nsubj	ArgTem=arg0:agt|Entity=(CESSCASTP2000030234c11--1-CorefType:ident,gstype:gen)
-6	hacía	hacer	VERB	vmii3s0	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	acl	4:acl	_
-7	su	su	DET	dp3cs0	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	8:det	Entity=(NOCOREF:Gen--2-gstype:gen
-8	vida	vida	NOUN	ncfs000	Gender=Fem|Number=Sing	6	obj	6:obj	ArgTem=arg1:pat|Entity=NOCOREF:Gen)CESSCASTP2000030234c11)
-9	"	"	PUNCT	fe	PunctType=Quot	2	punct	2:punct	SpaceAfter=No
-10	,	,	PUNCT	fc	PunctType=Comm	2	punct	2:punct	_
-11	matizó	matizar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	SpaceAfter=No
-12	.	.	PUNCT	fp	PunctType=Peri	11	punct	11:punct	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 aux:pass	color:blue
+1	Se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pv	2:expl:pv	_
+2	mostró	mostrar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	cauto	cauto	ADJ	aq0ms0	Gender=Masc|Number=Sing	2	obj	2:obj	ArgTem=arg2:atr
+4	a	a	ADP	spcms	_	7	mark	7:mark	_
+5	el	el	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	7:det	_
+6	ser	ser	AUX	vsn0000	VerbForm=Inf	7	aux:pass	7:aux:pass	_
+7	preguntado	preguntar	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	2:advcl	ArgTem=argM:tmp
+8	sobre	sobre	ADP	sps00	_	11	case	11:case	_
+9	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	11:det	Entity=(CESSCASTP1998120167c7--3-gstype:gen,HomoDD
+10	futuros	futuro	ADJ	aq0mp0	Gender=Masc|Number=Plur	11	amod	11:amod	_
+11	sorteos	sorteo	NOUN	ncmp000	Gender=Masc|Number=Plur	7	obl:arg	7:obl:arg	ArgTem=arg2:tem|Entity=CESSCASTP1998120167c7)|SpaceAfter=No
+12	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 ~~~
 
@@ -65,7 +65,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 19	menor	menor	ADJ	aq0cs0	Degree=Cmp|Number=Sing	20	amod	20:amod	_
 20	vencimiento	vencimiento	NOUN	ncms000	Gender=Masc|Number=Sing	7	conj	7:conj	_
 21	de	de	ADP	sps00	_	22	case	22:case	_
-22	deuda	deuda	NOUN	ncfs000	Gender=Fem|Number=Sing	20	nmod	20:nmod	SpaceAfter=No|ArgTem=arg1:tem|Entity=(CESSCASTAA2000092824050c9--1-gstype:gen)CESSCASTAA2000092824050c7)
+22	deuda	deuda	NOUN	ncfs000	Gender=Fem|Number=Sing	20	nmod	20:nmod	ArgTem=arg1:tem|Entity=(CESSCASTAA2000092824050c9--1-gstype:gen)CESSCASTAA2000092824050c7)|SpaceAfter=No
 23	,	,	PUNCT	fc	PunctType=Comm	26	punct	26:punct	_
 24	que	que	PRON	pr0cn000	PronType=Rel	26	nsubj	26:nsubj	ArgTem=arg0:agt|Entity=(CESSCASTAA2000092824050c6_PLUS_CESSCASTAA2000092824050c7--1-CorefType:ident,gstype:gen)|SplitAnte=CESSCASTAA2000092824050c6<CESSCASTAA2000092824050c6_PLUS_CESSCASTAA2000092824050c7,CESSCASTAA2000092824050c7<CESSCASTAA2000092824050c6_PLUS_CESSCASTAA2000092824050c7
 25	han	haber	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	aux	26:aux	_
@@ -76,7 +76,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 30	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	33:det	Entity=(NOCOREF:Gen--4-gstype:gen,HomoDD
 31	últimos	último	ADJ	ao0mp0	Gender=Masc|Number=Plur|NumType=Ord	33	amod	33:amod	_
 32	cuatro	cuatro	NUM	dn0cp0	Number=Plur|NumForm=Word|NumType=Card	33	nummod	33:nummod	_
-33	años	año	NOUN	ncmp000	Gender=Masc|Number=Plur	38	obl	38:obl	SpaceAfter=No|ArgTem=argM:tmp|Entity=NOCOREF:Gen)
+33	años	año	NOUN	ncmp000	Gender=Masc|Number=Plur	38	obl	38:obl	ArgTem=argM:tmp|Entity=NOCOREF:Gen)|SpaceAfter=No
 34	,	,	PUNCT	fc	PunctType=Comm	33	punct	33:punct	_
 35	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	36:det	Entity=(CESSCASTAA2000092824050c3-organization-2-CorefType:ident,gstype:spec
 36	Tesoro	Tesoro	PROPN	np00000	_	38	nsubj	38:nsubj	ArgTem=arg0:cau|Entity=CESSCASTAA2000092824050c3)
@@ -92,7 +92,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 46	obtener	obtener	VERB	vmn0000	VerbForm=Inf	43	acl:relcl	43:acl:relcl	_
 47	en	en	ADP	sps00	_	49	case	49:case	_
 48	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	49	det	49:det	Entity=(CESSCASTAA2000092824050c24--2-gstype:gen,HomoDD
-49	mercados	mercado	NOUN	ncmp000	Gender=Masc|Number=Plur	46	obl	46:obl	SpaceAfter=No|ArgTem=argM:loc|Entity=CESSCASTAA2000092824050c24)CESSCASTAA2000092824050c8)
+49	mercados	mercado	NOUN	ncmp000	Gender=Masc|Number=Plur	46	obl	46:obl	ArgTem=argM:loc|Entity=CESSCASTAA2000092824050c24)CESSCASTAA2000092824050c8)|SpaceAfter=No
 50	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~

@@ -22,10 +22,10 @@ The following 1 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 cop	color:blue
-1	ବିଦ୍ୟାର୍ଥୀମାନେ	_	NOUN	N_NN	_	3	nsubj	_	Translit=bidŷārthīmāne
-2	ବିଦ୍ୟାରେ	_	NOUN	N_NN	_	1	nmod	_	Translit=bidŷāre
-3	ଅମନଯୋଗୀ	_	ADJ	JJ	_	0	root	_	Translit=amanayogi
-4	ହେବେ	_	AUX	V_VAUX	_	3	cop	_	Translit=hebe
+1	ବିଦ୍ୟାର୍ଥୀମାନେ	_	NOUN	N_NN	Case=Nom|Number=Plur	3	nsubj	_	Entity=(e5-group-1-new-sgl)|Translit=bidŷārthīmāne
+2	ବିଦ୍ୟାରେ	_	NOUN	N_NN	Case=Loc	1	nmod	_	Translit=bidŷāre
+3	ଅମନଯୋଗୀ	_	ADJ	JJ	Degree=Pos	0	root	_	Translit=amanayogī
+4	ହେବେ	_	AUX	V_VAUX	Number=Plur	3	cop	_	Translit=hebe
 5	।	_	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n|Translit=.
 
 ~~~

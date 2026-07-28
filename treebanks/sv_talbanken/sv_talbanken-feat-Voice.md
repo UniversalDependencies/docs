@@ -12,17 +12,17 @@ It occurs with 2 different values: `Act`, `Pass`.
 13846 tokens (14%) have a non-empty value of `Voice`.
 2641 types (17%) occur at least once with a non-empty value of `Voice`.
 1229 lemmas (12%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (9483; 10% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (4363; 5% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (9482; 10% instances), <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (4364; 5% instances).
 
 ### `VERB`
 
-9483 <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Voice`.
+9482 <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5495; 58%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5292; 56%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5494; 58%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (5291; 56%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (7960; 84% of non-empty `Voice`): <em>har, blir, få, får, ha, gäller, behöver, ger, går, se</em>
+* `Act` (7959; 84% of non-empty `Voice`): <em>har, blir, få, får, ha, gäller, behöver, ger, går, se</em>
 * `Pass` (1523; 16% of non-empty `Voice`): <em>kallas, användas, behövs, anses, beräknas, tas, används, ges, användes, förändras</em>
 * `EMPTY` (307): <em>finns, tycks, fanns, finnas, fordras, känns, hoppas, syns, trivas, fattas</em>
 
@@ -37,13 +37,13 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 
 ### `AUX`
 
-4363 <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
+4364 <tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3943; 90%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3931; 90%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3552; 81%).
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="sv_talbanken-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3944; 90%), <tt><a href="sv_talbanken-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3932; 90%), <tt><a href="sv_talbanken-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3553; 81%).
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (4363; 100% of non-empty `Voice`): <em>är, kan, har, måste, skall, vara, skulle, ska, var, kommer</em>
+* `Act` (4364; 100% of non-empty `Voice`): <em>är, kan, har, måste, skall, vara, skulle, ska, var, kommer</em>
 
 `Voice` seems to be **lexical feature** of `AUX`. 100% lemmas (13) occur only with one value of `Voice`.
 

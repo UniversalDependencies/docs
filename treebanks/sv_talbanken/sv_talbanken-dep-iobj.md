@@ -24,8 +24,8 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3 4 iobj	color:blue
 1	Man	man	PRON	PN|UTR|SIN|IND|SUB	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|PronType=Ind	3	nsubj	3:nsubj	_
 2	kan	kunna	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	3:aux	_
-3	fråga	fråga	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	0:root	_
-4	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	3	iobj	3:iobj	_
+3	fråga	fråga	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	0:root	ParsemeMWE=1:IRV
+4	sig	sig	PRON	PN|UTR/NEU|SIN/PLU|DEF|OBJ	Case=Acc|Definite=Def|PronType=Prs	3	iobj	3:iobj	ParsemeMWE=1
 5	hur	hur	ADV	HA	_	8	advmod	8:advmod	CxnElt=8:Interrogative-WHInfo-Indirect.WHWord
 6	dessa	denna	DET	DT|UTR/NEU|PLU|DEF	Definite=Def|Number=Plur|PronType=Dem	7	det	7:det	_
 7	barn	barn	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	8	nsubj	8:nsubj	_
@@ -42,10 +42,10 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 3 iobj	color:blue
 1	Giftermålsbalken	giftermålsbalk	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	2	nsubj	2:nsubj	_
-2	ger	ge	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	ger	ge	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	ParsemeMWE=1:LVC.full
 3	makarna	make	NOUN	NN|UTR|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	2	iobj	2:iobj	_
 4	formell	formell	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	5	amod	5:amod	_
-5	likställighet	likställighet	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	obj	2:obj	_
+5	likställighet	likställighet	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	obj	2:obj	ParsemeMWE=1
 6	i	i	ADP	PP	_	7	case	7:case	_
 7	äktenskapet	äktenskap	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	5	nmod	5:nmod:i	SpaceAfter=No
 8	.	.	PUNCT	MAD	_	2	punct	2:punct	_
@@ -60,7 +60,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 11	fgColor:white
 # visual-style 11 13 iobj	color:blue
 1	Lite	lite	ADV	AB|POS	Degree=Pos	2	advmod	2:advmod	_
-2	senare	sen	ADV	AB|KOM	Degree=Cmp	5	advmod	5:advmod	_
+2	senare	sent	ADV	AB|KOM	Degree=Cmp	5	advmod	5:advmod	_
 3	i	i	ADP	PP	_	4	case	4:case	_
 4	livet	liv	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	obl	2:obl:i	_
 5	använder	använda	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_

@@ -47,7 +47,7 @@ The following 8 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	Miljövårdare	miljövårdare	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	nsubj	2:nsubj	_
 2	välkomnar	välkomna	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 3	kommissionens	kommission	NOUN	NN|UTR|SIN|DEF|GEN	Case=Gen|Definite=Def|Gender=Com|Number=Sing	4	nmod:poss	4:nmod:poss	_
-4	tillkännagivande	tillkännagivande	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	2	obj	2:obj	SpaceAfter=No
+4	tillkännagivande	tillkännagivande	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	2	obj	2:obj	SpaceAfter=No|ParsemeMWE=1:NV.VID
 5	.	.	PUNCT	MAD	_	2	punct	2:punct	_
 
 ~~~

@@ -12,4 +12,4 @@ Corrado Passera. Ministro dello Sviluppo Economico
 parataxis:appos(Corrado, Ministro) 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:34 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:39 CEST -->

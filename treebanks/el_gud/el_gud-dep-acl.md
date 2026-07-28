@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 9 acl	color:blue
-1	«	«	PUNCT	_	_	3	punct	_	PunctType=Quot
+1	«	«	PUNCT	_	_	3	punct	_	PunctType=Quot|SpaceAfter=No
 2	Δεν	δεν	PART	_	Polarity=Neg	3	advmod	_	_
 3	είχα	έχω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	14	ccomp	_	_
 4	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
@@ -33,7 +33,7 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 8	το	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 9	πω	λέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	5	acl	_	_
 10	μόνος	μόνος	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	9	advcl	_	_
-11	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	10	nmod	_	_
+11	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	10	nmod	_	SpaceAfter=No
 12	»	»	PUNCT	_	_	3	punct	_	PunctType=Quot
 13	της	εγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	iobj	_	_
 14	εξηγώ	εξηγώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
@@ -62,7 +62,7 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 12	δολοφονία	δολοφονία	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	_	_
 13	του	ο	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	Σωτηρόπουλου	Σωτηρόπουλος	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
-15	είναι	είμαι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	cop	_	mwe=1:VID
+15	είναι	είμαι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	mwe=1:VID
 16	ένα	ένας	NUM	_	Case=Nom|Gender=Neut|Number=Sing|NumType=Card	17	nummod	_	mwe=1
 17	βήμα	βήμα	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	acl	_	mwe=1
 18	από	από	ADP	_	_	20	case	_	mwe=1
@@ -80,8 +80,8 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 3	fgColor:white
 # visual-style 3 7 acl	color:blue
 1	Ένα	ένας	DET	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	3	nsubj	_	_
-2	είναι	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	cop	_	_
-3	βέβαιο	βέβαιος	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	είναι	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	βέβαιο	βέβαιος	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
 4	:	:	PUNCT	_	_	3	punct	_	PunctType=Colo
 5	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	Σωτηρόπουλος	Σωτηρόπουλος	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_

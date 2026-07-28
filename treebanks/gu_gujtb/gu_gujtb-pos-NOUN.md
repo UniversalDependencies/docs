@@ -67,13 +67,13 @@ The 2nd highest number of forms (3) was observed with the lemma “લોકો�
 
 The 3rd highest number of forms (2) was observed with the lemma “જવાનો”: <em>_, જવાનો</em>.
 
-`NOUN` occurs with 4 features: <tt><a href="gu_gujtb-feat-Case.html">Case</a></tt> (12; 3% instances), <tt><a href="gu_gujtb-feat-Gender.html">Gender</a></tt> (11; 3% instances), <tt><a href="gu_gujtb-feat-Number.html">Number</a></tt> (6; 1% instances), <tt><a href="gu_gujtb-feat-Typo.html">Typo</a></tt> (2; 0% instances)
+`NOUN` occurs with 1 features: <tt><a href="gu_gujtb-feat-Typo.html">Typo</a></tt> (2; 0% instances)
 
-`NOUN` occurs with 13 feature-value pairs: `Case=Abs`, `Case=Acc`, `Case=All`, `Case=Dat`, `Case=Erg`, `Case=Gen`, `Case=Tem`, `Gender=Fem`, `Gender=Masc`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Typo=Yes`
+`NOUN` occurs with 1 feature-value pairs: `Typo=Yes`
 
-`NOUN` occurs with 14 feature combinations.
-The most frequent feature combination is `_` (396 tokens).
-Examples: <em>_, રાજકુમાર, કામ, કલમ, ગાડી, ઘરે, દિવસ, ફૂલો, રાજકુમારે, આરોપ</em>
+`NOUN` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (423 tokens).
+Examples: <em>_, રાજકુમાર, કામ, કલમ, કાલે, ગાડી, ઘરે, દિવસ, ફૂલો, રાજકુમારે</em>
 
 
 ## Relations

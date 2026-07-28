@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.17 release.
 
-The following people have contributed to making this treebank part of UD: Arianna Masciolini, Aleksandrs Berdicevskis, Maria Irena Szawerna.
+The following people have contributed to making this treebank part of UD: Arianna Masciolini, Aleksandrs Berdicevskis, Maria Irena Szawerna, Caroline Grand-Clement.
 
 Repository: [UD_Swedish-SweLL](https://github.com/UniversalDependencies/UD_Swedish-SweLL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_swell217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_swell218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -49,15 +49,20 @@ A treebank of learner Swedish based on SweLL, the Swedish Learner Language corpu
 
 UD_Swedish-SweLL is a parallel learner treebank based on [SweLL](https://spraakbanken.gu.se/en/resources/swell), the Swedish Learner Language corpus.
 
-As of it first release, UD_Swedish-SweLL consists of a test set comprising 510 randomly selected sentences from [SweLL-gold](https://spraakbanken.gu.se/en/resources/swell-gold), a corpus of essays written by adult learners of Swedish as a second language (L2).
+More specifically, the treebank currently features 643 sentences from [SweLL-gold](https://spraakbanken.gu.se/en/resources/swell-gold), a corpus of essays written by adult learners of Swedish as a second language (L2):
+- a test set consisting of 509 randomly selected sentences
+- 134 sentences auhtored by French speakers (added in v2.18)
+
 All essays in SweLL-gold are manually pseudonymized, error-labelled and _normalized_, i.e. accompanied by a correction hypothesis.
-While the official UD 2.17 release only includes original learner sentences, such corrections are available in the [`not-to-release`](not-to-release/sv_swell-ud-test-trg.conllu) folder of this repository.
+Error labels are available in the MISC field.
+While the current UD release only includes original learner sentences, such corrections are available in the [`not-to-release`](not-to-release/sv_swell-ud-test-trg.conllu) folder of this repository.
 
 ## Acknowledgments
-The manual annotation work has been carried out by Arianna Masciolini, Aleksandrs Berdicevskis and Maria Irena Szawerna, who thank Elena Volodina for her work on the source corpus, as well as for her participation in the initial UD annotation experiments.
+The manual annotation work has been carried out by Arianna Masciolini, Aleksandrs Berdicevskis, Maria Irena Szawerna, and Caroline Grand-Clement with the support of the creators of the source corpus.
+In particular, we want to thank Elena Volodina for her participation in the initial annotation experiments and Lisa Rudebeck for her clarifications about the original error annotations.
 
 This work is funded by the Swedish national research infrastructure Språkbanken, jointly financially supported by the Swedish Research Council (2025–2028; grant 2023-00161) and the 10 participating partner institutions.
-It received further support by the CA21167 COST action UniDive, funded by COST (European Cooperation in Science and Technology).
+It received further support by the CA21167 COST action [UniDive -- Universality, diversity and idiosyncrasy in language technology](https://unidive.lisn.upsaclay.fr/).
 
 
 # Statistics of UD Swedish SweLL
@@ -68,7 +73,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 
 ## Features
 
-[Abbr](sv_swell-feat-Abbr.html) – [Case](sv_swell-feat-Case.html) – [Definite](sv_swell-feat-Definite.html) – [Degree](sv_swell-feat-Degree.html) – [ExtPos](sv_swell-feat-ExtPos.html) – [Foreign](sv_swell-feat-Foreign.html) – [Gender](sv_swell-feat-Gender.html) – [Mood](sv_swell-feat-Mood.html) – [Number](sv_swell-feat-Number.html) – [NumType](sv_swell-feat-NumType.html) – [Poss](sv_swell-feat-Poss.html) – [PronType](sv_swell-feat-PronType.html) – [Tense](sv_swell-feat-Tense.html) – [Typo](sv_swell-feat-Typo.html) – [VerbForm](sv_swell-feat-VerbForm.html) – [Voice](sv_swell-feat-Voice.html)
+[Abbr](sv_swell-feat-Abbr.html) – [Case](sv_swell-feat-Case.html) – [Definite](sv_swell-feat-Definite.html) – [Degree](sv_swell-feat-Degree.html) – [ExtPos](sv_swell-feat-ExtPos.html) – [Foreign](sv_swell-feat-Foreign.html) – [Gender](sv_swell-feat-Gender.html) – [Mood](sv_swell-feat-Mood.html) – [Number](sv_swell-feat-Number.html) – [NumType](sv_swell-feat-NumType.html) – [Polarity](sv_swell-feat-Polarity.html) – [Poss](sv_swell-feat-Poss.html) – [PronType](sv_swell-feat-PronType.html) – [Tense](sv_swell-feat-Tense.html) – [Typo](sv_swell-feat-Typo.html) – [VerbForm](sv_swell-feat-VerbForm.html) – [Voice](sv_swell-feat-Voice.html)
 
 ## Relations
 
@@ -78,7 +83,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 
 
 <ul>
-<li>This corpus contains 510 sentences and 8644 tokens.</li>
+<li>This corpus contains 643 sentences and 10895 tokens.</li>
 </ul>
 
 <ul>
@@ -90,7 +95,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 </ul>
 
 <ul>
-<li>This corpus contains 10 types of words that contain both letters and punctuation. Examples: email@dot.com, 16-åringar, 18-åringar, buss-stationer, dn.se, levnads-, osv., språk-café, t.ex, t.ex.</li>
+<li>This corpus contains 12 types of words that contain both letters and punctuation. Examples: email@dot.com, 16-åringar, 18-åringar, 20-årig, buss-stationer, dn.se, ex., levnads-, osv., språk-café, t.ex, t.ex.</li>
 </ul>
 
 <ul>
@@ -110,11 +115,11 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 </ul>
 
 <ul>
-<li>This corpus contains 33 lemmas tagged as pronouns (PRON): all, annan, båda, de, den, denna, dom, du, en, fler, han, hen, hon, ingen, ingenting, jag, man, mycket, många, mången, ni, någon, någonting, nånting, sig, som, somlig, vad, varandra, vem, vi, vilken, viss</li>
+<li>This corpus contains 34 lemmas tagged as pronouns (PRON): all, annan, båda, de, den, denna, dom, du, en, fler, han, hen, hon, ingen, ingenting, jag, man, mycket, många, mången, ni, någon, någonting, nånting, sig, som, somlig, vad, var, varandra, vem, vi, vilken, viss</li>
 </ul>
 
 <ul>
-<li>This corpus contains 11 lemmas tagged as determiners (DET): all, de, den, denna, en, ingen, no, någon, varj, varje, vilken</li>
+<li>This corpus contains 10 lemmas tagged as determiners (DET): all, de, den, denna, en, ingen, no, någon, varje, vilken</li>
 </ul>
 
 <ul>
@@ -136,8 +141,8 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: är, kan, ska, har, var, skulle, måste, vill, får, kommer</li>
-    <li>VERB: har, tycker, finns, kommer, blir, bor, är, handlar, tror, känner</li>
+    <li>AUX: är, kan, ska, var, har, måste, skulle, vill, får, kommer</li>
+    <li>VERB: har, tycker, finns, kommer, behöver, blir, bor, ser, vill, gör</li>
   </ul>
   </li>
 </ul>
@@ -146,7 +151,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
   <li>Inf
   <ul>
     <li>AUX: vara, kunna, få, bli, ha, vilja, villja</li>
-    <li>VERB: lära, ha, göra, köpa, ta, gå, få, bli, se, förstå</li>
+    <li>VERB: ha, lära, ta, göra, köpa, få, gå, bli, klä, förstå</li>
   </ul>
   </li>
 </ul>
@@ -154,7 +159,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Part
   <ul>
-    <li>ADJ: beroende, jämfört, tvungen, övertygad, baserade, begagnade, begränsad, chockad, dominerande, fungerande</li>
+    <li>ADJ: beroende, jämfört, tvungen, övertygad, anpassat, baserade, begagnade, begränsad, beröende, berömda</li>
     <li>VERB: anpassade, dömd, fylled, lurade, utsatt</li>
   </ul>
   </li>
@@ -164,7 +169,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
   <li>Sup
   <ul>
     <li>AUX: blivit, varit</li>
-    <li>VERB: blivit, utvecklats, förlorat, växt, anmält, anmälts, befriat, betalt, bott, flyttat</li>
+    <li>VERB: blivit, utvecklats, förlorat, gjort, sökt, växt, anmält, anmälts, befriat, besökt</li>
   </ul>
   </li>
 </ul>
@@ -179,12 +184,12 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Com
     <ul>
-      <li>ADJ: stor, själv, viktig, annan, lång, glad, ny, ensam, fin, gammal</li>
-      <li>ADJ-Part: tvungen, övertygad, begränsad, chockad, född, förbnnad, förlamad, given, kallad, njöd</li>
-      <li>DET: en, den, ingen, vilken, denna, all</li>
-      <li>NOUN: människor, kläder, pengar, plats, familj, kärlek, saker, tid, världen, boken</li>
+      <li>ADJ: själv, stor, viktig, annan, glad, lång, ny, gammal, lycklig, rik</li>
+      <li>ADJ-Part: tvungen, övertygad, begränsad, chockad, född, förbnnad, förlamad, given, intresserad, kallad</li>
+      <li>DET: en, den, vilken, ingen, denna, all, någon</li>
+      <li>NOUN: kläder, människor, pengar, plats, saker, tid, kärlek, lycka, familj, kläderna</li>
       <li>NUM: en</li>
-      <li>PRON: jag, man, vi, mig, du, min, oss, han, sin, hon</li>
+      <li>PRON: jag, man, vi, mig, du, min, oss, han, hon, sin</li>
       <li>PROPN: Haga, Segerstad</li>
       <li>VERB-Part: dömd, fylled, utsatt</li>
     </ul>
@@ -192,15 +197,23 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 </ul>
 
 <ul>
+  <li>Fem
+    <ul>
+      <li>NOUN: temperature</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Neut
     <ul>
-      <li>ADJ: viktigt, svårt, nytt, dyrt, allmänmänskligt, eget, jämfört, jätte, möjligt, svenskt</li>
-      <li>ADJ-Part: jämfört, sett</li>
+      <li>ADJ: viktigt, svårt, nytt, annat, dyrt, allmänmänskligt, eget, gammalt, gott, jämfört</li>
+      <li>ADJ-Part: jämfört, anpassat, sett</li>
       <li>DET: ett, det, detta, inget, allt, et, något</li>
-      <li>NOUN: språk, barn, sätt, år, språket, land, samhället, liv, jobb, exempel</li>
+      <li>NOUN: språk, barn, sätt, år, land, samhället, språket, jobb, exempel, liv</li>
       <li>NUM: ett, en</li>
-      <li>PRON: det, vad, mitt, sitt, vilket, detta, allt, ditt, någonting, annat</li>
-      <li>PROPN: Mongoliet, Linsbiblioteket</li>
+      <li>PRON: det, vad, mitt, sitt, vilket, detta, allt, ditt, någonting, vårt</li>
+      <li>PROPN: Linsbiblioteket, Mongoliet, Bungahjulet</li>
     </ul>
   </li>
 </ul>
@@ -213,11 +226,11 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: nya, andra, olika, flera, vissa, viktiga, allmänmänskliga, själva, stora, centrala</li>
-      <li>ADJ-Part: baserade, begagnade, förstörda, klädda, kopplade, okomplicerade, sökta, utbildade</li>
+      <li>ADJ: nya, andra, olika, vissa, flera, viktiga, personliga, allmänmänskliga, själva, stora</li>
+      <li>ADJ-Part: baserade, begagnade, berömda, förstörda, klädda, kopplade, nämda, okomplicerade, sökta, utbildade</li>
       <li>DET: de, alla, några, dessa, vilka, inga, dem</li>
-      <li>NOUN: människor, kläder, pengar, barn, saker, år, språk, föräldrar, länder, personer</li>
-      <li>PRON: vi, de, oss, sina, mina, andra, dem, alla, varandra, våra</li>
+      <li>NOUN: kläder, människor, pengar, barn, saker, kläderna, år, länder, barnen, språk</li>
+      <li>PRON: vi, de, oss, sina, mina, dem, andra, varandra, alla, våra</li>
       <li>VERB-Part: anpassade, lurade</li>
     </ul>
   </li>
@@ -226,13 +239,13 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: viktigt, svårt, stor, mycket, själv, viktig, annan, lång, glad, ny</li>
-      <li>ADJ-Part: jämfört, tvungen, övertygad, begränsad, chockad, född, förbnnad, förlamad, given, kallad</li>
-      <li>DET: en, den, ett, det, varje, detta, ingen, vilken, denna, inget</li>
-      <li>NOUN: plats, språk, språket, familj, kärlek, samhället, land, sätt, liv, tid</li>
+      <li>ADJ: viktigt, själv, stor, viktig, svårt, mycket, nytt, annan, glad, lång</li>
+      <li>ADJ-Part: jämfört, tvungen, övertygad, anpassat, begränsad, chockad, född, förbnnad, förlamad, given</li>
+      <li>DET: en, ett, den, det, varje, detta, vilken, ingen, denna, inget</li>
+      <li>NOUN: plats, språk, tid, kärlek, lycka, samhället, språket, familj, land, sätt</li>
       <li>NUM: ett, en</li>
-      <li>PRON: jag, det, man, mig, du, min, vad, han, sin, hon</li>
-      <li>PROPN: Mongoliet, Haga, Linsbiblioteket, Segerstad</li>
+      <li>PRON: jag, det, man, mig, du, min, vad, han, hon, sin</li>
+      <li>PROPN: Linsbiblioteket, Mongoliet, Bungahjulet, Haga, Segerstad</li>
       <li>VERB-Part: dömd, fylled, utsatt</li>
     </ul>
   </li>
@@ -245,7 +258,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Acc
     <ul>
-      <li>PRON: sig, mig, oss, dem, varandra, henne, dig, honom</li>
+      <li>PRON: sig, mig, oss, dem, varandra, dig, henne, honom</li>
     </ul>
   </li>
 </ul>
@@ -253,7 +266,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Gen
     <ul>
-      <li>NOUN: litteraturens, Forsknings, familjens, kyrkans, landets, systerns, Pengarnas, barnets, barns, brors</li>
+      <li>NOUN: litteraturens, Forsknings, familjens, kyrkans, landets, omgivningens, systerns, Pengarnas, barnets, barns</li>
       <li>PRON: ens</li>
       <li>PROPN: Sveriges, Göteborgs, Isaks, Rikes, Levis</li>
     </ul>
@@ -263,13 +276,13 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Nom
     <ul>
-      <li>ADJ: många, olika, bra, nya, andra, viktigt, bästa, bättre, svårt, stor</li>
-      <li>ADJ-Part: beroende, jämfört, tvungen, övertygad, baserade, begagnade, begränsad, chockad, dominerande, fungerande</li>
+      <li>ADJ: olika, många, bra, andra, nya, viktigt, bättre, första, själv, stor</li>
+      <li>ADJ-Part: beroende, jämfört, tvungen, övertygad, anpassat, baserade, begagnade, begränsad, beröende, berömda</li>
       <li>ADV: bra</li>
-      <li>NOUN: människor, kläder, språk, barn, pengar, plats, sätt, år, språket, familj</li>
-      <li>NUM: två, 1, 18, tre, ett, 2, 4, fyra, 1-12, 10</li>
+      <li>NOUN: kläder, människor, språk, barn, pengar, sätt, plats, år, saker, tid</li>
+      <li>NUM: två, 18, 1, tre, ett, fyra, 2, 25, 4, 50</li>
       <li>PRON: jag, man, vi, de, du, han, hon, ni, hen, nånting</li>
-      <li>PROPN: Sverige, Bagdad, Finland, Sund, Haga, Segerstad, Caracas, Paris, Peru, Sara</li>
+      <li>PROPN: sverige, Bagdad, Finland, Sund, Haga, Segerstad, Anna, Caracas, Danmark, Karin</li>
       <li>VERB-Part: anpassade, dömd, fylled, lurade, utsatt</li>
     </ul>
   </li>
@@ -283,12 +296,12 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Def
     <ul>
-      <li>ADJ: bästa, flesta, viktigaste, sista, svenska, hela, andra, ena, små, egna</li>
+      <li>ADJ: bästa, flesta, viktigaste, andra, sista, svenska, hela, egna, ena, små</li>
       <li>ADJ-Part: liknade</li>
-      <li>DET: den, de, det, detta, denna, dessa, dem</li>
-      <li>NOUN: språket, samhället, världen, boken, livet, landet, personen, sidan, tiden, barnen</li>
-      <li>PRON: jag, det, vi, de, sig, mig, du, min, oss, han</li>
-      <li>PROPN: Mongoliet, Linsbiblioteket</li>
+      <li>DET: den, de, det, detta, dessa, denna, dem</li>
+      <li>NOUN: samhället, språket, kläderna, världen, livet, barnen, boken, jobbet, landet, personen</li>
+      <li>PRON: jag, det, vi, sig, de, mig, du, min, oss, han</li>
+      <li>PROPN: Linsbiblioteket, Mongoliet, Bungahjulet</li>
     </ul>
   </li>
 </ul>
@@ -296,12 +309,12 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Ind
     <ul>
-      <li>ADJ: nya, andra, viktigt, svårt, stor, mycket, själv, viktig, annan, lång</li>
-      <li>ADJ-Part: jämfört, tvungen, övertygad, baserade, begagnade, begränsad, chockad, född, förbnnad, förlamad</li>
-      <li>DET: en, ett, varje, ingen, några, vilken, vilka, inga, inget, allt</li>
-      <li>NOUN: människor, kläder, språk, barn, pengar, plats, sätt, år, familj, kärlek</li>
+      <li>ADJ: nya, viktigt, andra, själv, stor, viktig, svårt, mycket, vissa, nytt</li>
+      <li>ADJ-Part: jämfört, tvungen, övertygad, anpassat, baserade, begagnade, begränsad, berömda, chockad, född</li>
+      <li>DET: en, ett, varje, några, vilken, ingen, vilka, inga, inget, allt</li>
+      <li>NOUN: kläder, människor, språk, barn, pengar, sätt, plats, år, saker, tid</li>
       <li>NUM: ett, en</li>
-      <li>PRON: man, vad, andra, alla, vilket, allt, vem, många, någon, någonting</li>
+      <li>PRON: man, vad, andra, vilket, alla, allt, vem, många, någonting, någon</li>
       <li>PROPN: Haga, Segerstad</li>
       <li>VERB-Part: dömd, fylled, utsatt</li>
     </ul>
@@ -318,7 +331,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Cmp
     <ul>
-      <li>ADJ: bättre, mer, äldre, enklare, lättare, mindre, svårare, biligare, färre, viktigare</li>
+      <li>ADJ: bättre, mer, äldre, enklare, lättare, mindre, svårare, biligare, billigare, färre</li>
       <li>ADV: mer, bättre, vidare, mindre, Tidigare, fortta, hårdare, oftare, senare, snabbare</li>
     </ul>
   </li>
@@ -327,9 +340,10 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Pos
     <ul>
-      <li>ADJ: många, olika, bra, nya, andra, viktigt, svårt, stor, mycket, själv</li>
-      <li>ADJ-Part: beroende, jämfört, tvungen, övertygad, baserade, begagnade, begränsad, chockad, dominerande, fungerande</li>
-      <li>ADV: mycket, bra, lite, väldigt, Självklart, helt, hårt, direkt, indirekt, jättemycket</li>
+      <li>ADJ: olika, många, bra, nya, andra, viktigt, själv, stor, viktig, svårt</li>
+      <li>ADJ-Part: beroende, jämfört, tvungen, övertygad, anpassat, baserade, begagnade, begränsad, beröende, berömda</li>
+      <li>ADV: mycket, bra, lite, ofta, väldigt, helt, generellt, absolut, hårt, snart</li>
+      <li>NOUN: salt, familig</li>
     </ul>
   </li>
 </ul>
@@ -337,12 +351,23 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Sup
     <ul>
-      <li>ADJ: bästa, flesta, viktigaste, sista, bekvämaste, farligaste, forsta, värsta</li>
-      <li>ADV: minst, Sist, mest, näst, bäst, främst, innerst</li>
+      <li>ADJ: bästa, flesta, viktigaste, sista, viktigast, bekvämaste, best, farligaste, forsta, lyckligaste</li>
+      <li>ADV: mest, minst, sist, bäst, näst, främst, innerst, framst, oftas</li>
     </ul>
   </li>
 </ul>
 
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>PART: inte</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
@@ -364,8 +389,8 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: är, kan, ska, har, var, skulle, måste, vill, får, kommer</li>
-      <li>VERB-Fin: har, tycker, finns, kommer, blir, bor, är, handlar, tror, känner</li>
+      <li>AUX-Fin: är, kan, ska, var, har, måste, skulle, vill, får, kommer</li>
+      <li>VERB-Fin: har, tycker, finns, kommer, behöver, blir, bor, ser, vill, gör</li>
     </ul>
   </li>
 </ul>
@@ -377,9 +402,9 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Past
     <ul>
-      <li>ADJ-Part: jämfört, tvungen, övertygad, baserade, begagnade, begränsad, chockad, född, förbnnad, förlamad</li>
-      <li>AUX-Fin: var, skulle, hade, kunde, borde, ville</li>
-      <li>VERB-Fin: kom, pratade, började, var, blev, brukade, hade, såg, flyttade, gick</li>
+      <li>ADJ-Part: jämfört, tvungen, övertygad, anpassat, baserade, begagnade, begränsad, berömda, chockad, född</li>
+      <li>AUX-Fin: var, skulle, hade, kunde, ville, borde, fick</li>
+      <li>VERB-Fin: kom, hade, pratade, brukade, började, såg, var, blev, gick, bodde</li>
       <li>VERB-Part: anpassade, dömd, fylled, lurade, utsatt</li>
     </ul>
   </li>
@@ -388,9 +413,9 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Pres
     <ul>
-      <li>ADJ-Part: beroende, dominerande, fungerande, grundläggande, liknande, lärande, tagande, ökande</li>
+      <li>ADJ-Part: beroende, beröende, dominerande, fungerande, grundläggande, liknande, lärande, tagande, tillhörande, ökande</li>
       <li>AUX-Fin: är, kan, ska, har, måste, vill, får, kommer, blir, bör</li>
-      <li>VERB-Fin: har, tycker, finns, kommer, blir, bor, är, handlar, tror, känner</li>
+      <li>VERB-Fin: har, tycker, finns, kommer, behöver, blir, bor, ser, vill, gör</li>
     </ul>
   </li>
 </ul>
@@ -402,12 +427,12 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Act
     <ul>
-      <li>AUX-Fin: är, kan, ska, har, var, skulle, måste, vill, får, kommer</li>
+      <li>AUX-Fin: är, kan, ska, var, har, måste, skulle, vill, får, kommer</li>
       <li>AUX-Inf: vara, kunna, få, bli, ha, vilja, villja</li>
       <li>AUX-Sup: blivit, varit</li>
-      <li>VERB-Fin: har, tycker, kommer, blir, bor, handlar, tror, är, känner, ser</li>
-      <li>VERB-Inf: lära, ha, göra, köpa, ta, gå, få, bli, se, förstå</li>
-      <li>VERB-Sup: blivit, förlorat, växt, anmält, befriat, betalt, bott, flyttat, fått, följt</li>
+      <li>VERB-Fin: har, tycker, kommer, behöver, blir, bor, ser, vill, gör, tror</li>
+      <li>VERB-Inf: ha, lära, ta, göra, köpa, få, gå, bli, klä, förstå</li>
+      <li>VERB-Sup: blivit, förlorat, gjort, sökt, växt, anmält, befriat, besökt, betalt, bott</li>
     </ul>
   </li>
 </ul>
@@ -434,7 +459,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Art
     <ul>
-      <li>DET: en, den, ett, de, det, dem, et</li>
+      <li>DET: en, ett, den, de, det, dem, et</li>
       <li>PRON: ett</li>
     </ul>
   </li>
@@ -443,7 +468,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Dem
     <ul>
-      <li>DET: detta, denna, dessa</li>
+      <li>DET: detta, dessa, denna</li>
       <li>PRON: detta, dessa</li>
     </ul>
   </li>
@@ -452,8 +477,8 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Ind
     <ul>
-      <li>DET: några, något</li>
-      <li>PRON: man, andra, ens, många, någon, någonting, något, Vissa, annat, fler</li>
+      <li>DET: några, någon, något</li>
+      <li>PRON: man, andra, ens, många, någonting, någon, något, Vissa, annat, fler</li>
     </ul>
   </li>
 </ul>
@@ -479,7 +504,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Prs
     <ul>
-      <li>PRON: jag, det, vi, de, sig, mig, du, min, oss, han</li>
+      <li>PRON: jag, det, vi, sig, de, mig, du, min, oss, han</li>
     </ul>
   </li>
 </ul>
@@ -505,7 +530,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
   <li>Tot
     <ul>
       <li>DET: varje, alla, all, allt, varj</li>
-      <li>PRON: alla, allt, båda</li>
+      <li>PRON: alla, allt, Var, båda</li>
     </ul>
   </li>
 </ul>
@@ -517,7 +542,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Card
     <ul>
-      <li>NUM: två, 1, 18, tre, ett, 2, 4, 6-8000, fyra, 1-12</li>
+      <li>NUM: två, 18, 1, tre, ett, fyra, 2, 25, 4, 50</li>
     </ul>
   </li>
 </ul>
@@ -525,7 +550,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Ord
     <ul>
-      <li>ADJ: första, andra, Tredja, firsta, tredje</li>
+      <li>ADJ: första, andra, tredje, Tredja, firsta</li>
     </ul>
   </li>
 </ul>
@@ -537,7 +562,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 <ul>
   <li>Yes
     <ul>
-      <li>PRON: min, sin, mitt, sina, sitt, mina, deras, vår, ditt, hans</li>
+      <li>PRON: min, sin, sina, mina, mitt, sitt, deras, hennes, vår, våra</li>
     </ul>
   </li>
 </ul>
@@ -555,8 +580,9 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
     <ul>
       <li>Yes
         <ul>
+          <li>ADJ: ex.</li>
           <li>ADV: Mvh, osv, osv., t.ex., t.ex</li>
-          <li>NOUN: kilo, 200m, ex</li>
+          <li>NOUN: C, kilo, kr, 200m, ex</li>
           <li>PROPN: sfi</li>
         </ul>
       </li>
@@ -574,7 +600,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
       </li>
       <li>ADV
         <ul>
-          <li>ADV: fram, länge</li>
+          <li>ADV: Till, fram, länge</li>
         </ul>
       </li>
       <li>CCONJ
@@ -596,9 +622,9 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: second</li>
+          <li>ADJ: second, best</li>
           <li>DET: no</li>
-          <li>NOUN: hand, refunds, seafood</li>
+          <li>NOUN: hand, crush, refunds, seafood, temperature</li>
         </ul>
       </li>
     </ul>
@@ -610,21 +636,23 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
     <ul>
       <li>Yes
         <ul>
-          <li>ADJ: jätte, biligare, Amerikansk, Svenska, dimokratiskt, dromm, favorit, favoritt, forsta, färlig</li>
-          <li>ADJ-Part: förbnnad, njöd, tagande</li>
-          <li>ADP: I, for, frön, undet</li>
-          <li>ADV: tillbacka, Alltid, Sit, Tillsammans, Tillsist, ackså, alderig, dagligen, däref$nt, engom</li>
+          <li>ADJ: jätte, biligare, Amerikansk, Svenska, Tustar, bekvämma, beröende, best, blygg, dimokratiskt</li>
+          <li>ADJ-Part: beröende, förbnnad, njöd, nämda, tagande</li>
+          <li>ADP: i, till, Pa, for, frön, med, undet</li>
+          <li>ADV: tillbacka, Alltid, Förrut, Sit, Tillsammans, Tillsist, ackså, alderig, dagligen, ditt</li>
+          <li>AUX: här, maste, ska, villja</li>
+          <li>AUX-Fin: maste, ska</li>
           <li>AUX-Inf: villja</li>
           <li>CCONJ: men</li>
           <li>DET: det, et, varj</li>
           <li>INTJ: Ju</li>
-          <li>NOUN: plats, havdet, kurs, kärlek, manniskor, sommras, 200m, Buss, Engelska, Hat</li>
+          <li>NOUN: fotbolsplan, klädelsen, plats, bill, bus, familig, hand, havdet, kläder, kurs</li>
           <li>NUM: 16, 50, fimtio, tva</li>
           <li>PRON: det, du</li>
-          <li>PROPN: Svarige, Christiana, Levis, Raid, Tenerife, facebook, frost, melanöster, sfi, tinder</li>
+          <li>PROPN: Svarige, Africa, Christiana, Levis, Raid, Tenerife, facebook, frost, melanöster, sfi</li>
           <li>SCONJ: an, eftrsom, som</li>
-          <li>VERB-Fin: Kommer, använd, böhver, forstår, funkerade, förklar, försker, försoker, förståd, försätt</li>
-          <li>VERB-Inf: breätta, cycka, cyckla, forklara, förtstå, föstå, hällsa, hälpa, jälpa, liva</li>
+          <li>VERB-Fin: Kommer, Tar, Tittar, Tycker, använd, berör, böhver, fins, forstår, funkerade</li>
+          <li>VERB-Inf: Ta, aka, ampassa, breätta, cycka, cyckla, exprimera, forklara, förtstå, förtså</li>
           <li>VERB-Part: fylled</li>
           <li>VERB-Sup: förstot, komnit</li>
         </ul>
@@ -642,7 +670,7 @@ It received further support by the CA21167 COST action UniDive, funded by COST (
 </ul>
 
 <ul>
-<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: kunna, skola, ha, vilja, måste, få, komma, böra, bli, vara.</li>
+<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: kunna, skola, ha, måste, vilja, få, komma, böra, bli, vara.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bli.</li>
 </ul>
 
@@ -652,17 +680,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Nom (148)</li>
-      <li>VERB-Fin--PRON (105)</li>
+      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin--NOUN-Nom (179)</li>
+      <li>VERB-Fin--PRON (134)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Nom (312)</li>
-      <li>VERB-Inf--NOUN-Nom (23)</li>
-      <li>VERB-Inf--PRON (14)</li>
+      <li>VERB-Fin--PRON-Nom (401)</li>
+      <li>VERB-Inf--NOUN-Nom (31)</li>
+      <li>VERB-Inf--PRON (16)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Nom (135)</li>
-      <li>VERB-Sup--NOUN-Nom (10)</li>
-      <li>VERB-Sup--PRON (3)</li>
-      <li>VERB-Sup--PRON-Nom (14)</li>
+      <li>VERB-Inf--PRON-Nom (180)</li>
+      <li>VERB-Sup--NOUN-Nom (11)</li>
+      <li>VERB-Sup--PRON (4)</li>
+      <li>VERB-Sup--PRON-Nom (17)</li>
     </ul>
   </li>
 </ul>
@@ -670,19 +699,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3)</li>
-      <li>VERB-Fin--NOUN-Nom (175)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(frön) (1)</li>
+      <li>VERB-Fin--NOUN (5)</li>
+      <li>VERB-Fin--NOUN-Nom (228)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(från) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
-      <li>VERB-Fin--PRON (41)</li>
-      <li>VERB-Fin--PRON-Acc (37)</li>
-      <li>VERB-Inf--NOUN-Nom (160)</li>
-      <li>VERB-Inf--PRON (24)</li>
-      <li>VERB-Inf--PRON-Acc (19)</li>
-      <li>VERB-Inf--PRON-Nom (3)</li>
-      <li>VERB-Sup--NOUN-Nom (12)</li>
+      <li>VERB-Fin--PRON (49)</li>
+      <li>VERB-Fin--PRON-Acc (44)</li>
+      <li>VERB-Fin--PRON-Nom (1)</li>
+      <li>VERB-Inf--NOUN-Nom (206)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(på) (1)</li>
+      <li>VERB-Inf--PRON (33)</li>
+      <li>VERB-Inf--PRON-Acc (37)</li>
+      <li>VERB-Inf--PRON-Nom (5)</li>
+      <li>VERB-Sup--NOUN-Nom (16)</li>
       <li>VERB-Sup--PRON (4)</li>
-      <li>VERB-Sup--PRON-Acc (3)</li>
+      <li>VERB-Sup--PRON-Acc (4)</li>
     </ul>
   </li>
 </ul>
@@ -691,9 +722,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Acc (5)</li>
+      <li>VERB-Fin--PRON-Acc (6)</li>
       <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (22)</li>
+      <li>VERB-Inf--PRON-Acc (23)</li>
     </ul>
   </li>
 </ul>

@@ -5,8 +5,7 @@ shortdef: 'clausal complement'
 udver: '2'
 ---
 
-A clausal complement of a verb or adjective is a dependent clause 
-which is a core argument. That is, it functions like an object of the verb, or
+A clausal complement of a verb or adjective is a dependent clause which is a core argument. That is, it functions like an object of the verb, or
 adjective.
 
 ~~~ sdparse
@@ -15,16 +14,28 @@ ccomp(говорит, работает)
 ccomp(says, works)
 ~~~
 
-Such clausal complements may be finite or nonfinite. However, if the
-subject of the clausal complement is controlled (that is, must be the same
-as the higher subject or object, with no other possible interpretation)
-the appropriate relation is [xcomp]().
+~~~ sdparse
+Я рада , что мы встретились . \n I am glad that we met .
+ccomp(рада, встретились)
+ccomp(glad, met)
+~~~
+
+Note that if the clausal complements is nonfinite (infinitive), then it is labeled [xcomp](). In the first sentence below the 
+subject of the clausal complement is not controlled (that is, it can be different as the higher subject or object, with no other possible interpretation).
+
+~~~ sdparse
+Генерал потребовал , чтобы мы вышли . \n General demanded that we leave .
+ccomp(потребовал, вышли)
+ccomp(demanded, leave)
+~~~
 
 ~~~ sdparse
 Генерал приказал нам выйти . \n General ordered us to-leave .
-ccomp(приказал, выйти)
-ccomp(ordered, to-leave)
+xcomp(приказал, выйти)
+xcomp(ordered, to-leave)
 ~~~
+
+[xcomp]() is typical for modal and phase verbs.  
 
 ~~~ sdparse
 Мы начали писать тест . \n We started to-write test .
@@ -32,8 +43,12 @@ xcomp(начали, писать)
 xcomp(started, to-write)
 ~~~
 
-The key difference here is that, while it is possible to interpret the first
-sentence to mean that the general will not be leaving, in the second
-sentence it is clear that the subject of __writing__ can only be __we__. This is
-what distinguishes `ccomp` and `xcomp`.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:26 CET -->
+If the correlative pronoun _to_ 'that' etc. is used with the head predicate, then the clausal complements is attached to the pronoun with [acl]():  
+
+~~~ sdparse
+Я верю в то , что все будет хорошо . \n I believe in that that everything will be fine .
+acl(то, хорошо)
+acl(that-15, fine)
+~~~
+
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:46 CEST -->

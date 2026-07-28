@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-47529 nodes (11%) are attached to their parents as `punct`.
+47474 nodes (11%) are attached to their parents as `punct`.
 
-26009 instances of `punct` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.79056996780913.
+25968 instances of `punct` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 8.79553018494334.
 
-The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (20620; 43% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (13156; 28% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (6962; 15% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (2303; 5% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (1484; 3% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (790; 2% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (714; 2% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (707; 1% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (304; 1% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (204; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (109; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (83; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (32; 0% instances), <tt><a href="es_gsd-pos-PART.html">PART</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (24; 0% instances), <tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (16; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (16; 0% instances), <tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances).
+The following 17 pairs of parts of speech are connected with `punct`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (20649; 43% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (13213; 28% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (6843; 14% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (2307; 5% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (1484; 3% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (793; 2% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (705; 1% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (679; 1% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (305; 1% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (195; 0% instances), <tt><a href="es_gsd-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (105; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (85; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (32; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (32; 0% instances), <tt><a href="es_gsd-pos-PART.html">PART</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (24; 0% instances), <tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (16; 0% instances), <tt><a href="es_gsd-pos-INTJ.html">INTJ</a></tt>-<tt><a href="es_gsd-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 5	por	por	ADP	_	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	Ejército	ejército	NOUN	_	_	4	obl:agent	_	_
-8	Blanco	blanco	PROPN	_	_	7	amod	_	SpaceAfter=No
+8	Blanco	Blanco	PROPN	_	_	7	amod	_	SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
@@ -70,9 +70,9 @@ The following 17 pairs of parts of speech are connected with `punct`: <tt><a hre
 3	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
 4	cercana	cercano	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
 5	a	a	ADP	_	_	6	case	_	_
-6	Ist	ist	PROPN	_	_	4	nmod	_	_
+6	Ist	Ist	PROPN	_	_	4	nmod	_	_
 7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	Zadar	zadar	PROPN	_	_	0	root	_	SpaceAfter=No
+8	Zadar	Zadar	PROPN	_	_	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 ~~~

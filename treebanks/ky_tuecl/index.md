@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Bermet Chontaeva, Çağrı Çöltekin.
 
 Repository: [UD_Kyrgyz-TueCL](https://github.com/UniversalDependencies/UD_Kyrgyz-TueCL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udky_tuecl217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udky_tuecl218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -65,7 +65,7 @@ This resource is significant as it represents the first fully aligned parallel U
 
 ## Acknowledgments
 
-This work was supported by COST Action CA21167 - Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)). We thank the [Turkic UD working group](https://github.com/ud-turkic) for fruitful discussions of linguistic issues and annotation approaches.
+This work was supported by COST Action CA21167 — Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)). We thank the [Turkic UD working group](https://github.com/ud-turkic) for fruitful discussions of linguistic issues and annotation approaches.
 We extend special thanks to the Kyrgyz team — [Jonathan North Washington](https://github.com/jonorthwash), Aida Kasieva, Gulnura Dzumalieva, Aigul Tursunova, Meerim Ryspakova, and Aizat Kadyrbekova — for their consistent support, as well as their valuable weekly meetings and discussions that greatly contributed to this work.
 
 ## References

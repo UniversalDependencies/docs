@@ -64,7 +64,7 @@ Examples: <em>ʔèá, hɛ̰̀, ʔé, ʔòé, mɛ̀, hḭ̀ḭ́, bèè, sí-ɗò
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 7 different relations: <tt><a href="gya_autogramm-dep-advmod.html">advmod</a></tt> (145; 85% instances), <tt><a href="gya_autogramm-dep-obl-arg.html">obl:arg</a></tt> (14; 8% instances), <tt><a href="gya_autogramm-dep-obj.html">obj</a></tt> (4; 2% instances), <tt><a href="gya_autogramm-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="gya_autogramm-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="gya_autogramm-dep-vocative.html">vocative</a></tt> (1; 1% instances), <tt><a href="gya_autogramm-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+`ADV` nodes are attached to their parents using 7 different relations: <tt><a href="gya_autogramm-dep-advmod.html">advmod</a></tt> (146; 86% instances), <tt><a href="gya_autogramm-dep-obl-arg.html">obl:arg</a></tt> (14; 8% instances), <tt><a href="gya_autogramm-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="gya_autogramm-dep-obj.html">obj</a></tt> (3; 2% instances), <tt><a href="gya_autogramm-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="gya_autogramm-dep-vocative.html">vocative</a></tt> (1; 1% instances), <tt><a href="gya_autogramm-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
 Parents of `ADV` nodes belong to 6 different parts of speech: <tt><a href="gya_autogramm-pos-VERB.html">VERB</a></tt> (140; 82% instances), <tt><a href="gya_autogramm-pos-AUX.html">AUX</a></tt> (12; 7% instances), <tt><a href="gya_autogramm-pos-NOUN.html">NOUN</a></tt> (11; 6% instances),  (4; 2% instances), <tt><a href="gya_autogramm-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="gya_autogramm-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

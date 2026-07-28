@@ -49,4 +49,4 @@ In particular:
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a pronoun?](https://glossary.sil.org/term/pronoun)
 - [Wikipedia](http://en.wikipedia.org/wiki/Pronoun)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:53 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

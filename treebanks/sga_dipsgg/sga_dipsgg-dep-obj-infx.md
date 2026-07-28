@@ -38,7 +38,7 @@ The following 1 pairs of parts of speech are connected with `obj:infx`: <tt><a h
 14	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	15	det	_	SpaceAfter=No
 15	sin	sin	PART	_	PronType=Dem	13	amod	_	_
 16	a	a	PART	_	PartType=Voc	17	case:voc	_	SpaceAfter=No
-17	mail	mael	PROPN	_	Case=Voc|Number=Sing	13	vocative	_	_
+17	mail	mael	NOUN	_	Case=Voc|Number=Sing	13	vocative	_	_
 18	bachal	bachall	NOUN	_	Case=Gen|Number=Plur	17	nmod	_	_
 19	ro	ro	PART	_	PartType=Aug	21	compound:prt	_	SpaceAfter=No
 20	t	t_1	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	19	obj:infx	_	_

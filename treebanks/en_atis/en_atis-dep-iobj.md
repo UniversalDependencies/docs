@@ -41,7 +41,7 @@ The following 2 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 6 iobj	color:blue
 1	on	on	ADP	_	_	2	case	_	_
-2	august	August	NOUN	_	Number=Sing	5	obl:tmod	_	_
+2	august	August	NOUN	_	Number=Sing	5	obl:unmarked	_	_
 3	thirtieth	thirty	ADJ	_	Degree=Pos	2	amod	_	_
 4	please	please	VERB	_	VerbForm=Inf	5	discourse	_	_
 5	schedule	schedule	NOUN	_	Number=Sing	0	root	_	_

@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>but</em> (<tt><a href="en_gentle-pos-
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.071429 (the average of all parts of speech is 1.148610).
+The form / lemma ratio of `CCONJ` is 1.071429 (the average of all parts of speech is 1.149474).
 
 The 1st highest number of forms (2) was observed with the lemma “and”: <em>an, and</em>.
 

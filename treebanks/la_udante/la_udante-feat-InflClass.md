@@ -13,8 +13,8 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 31824 tokens (57%) have a non-empty value of `InflClass`.
 11593 types (97%) occur at least once with a non-empty value of `InflClass`.
-4792 lemmas (85%) occur at least once with a non-empty value of `InflClass`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (10040; 18% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (8217; 15% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3969; 7% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (3602; 6% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2670; 5% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2200; 4% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (1009; 2% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (117; 0% instances).
+4791 lemmas (85%) occur at least once with a non-empty value of `InflClass`.
+The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (10040; 18% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (8218; 15% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3968; 7% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (3602; 6% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2670; 5% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2200; 4% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (1009; 2% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (117; 0% instances).
 
 ### `NOUN`
 
@@ -40,17 +40,17 @@ The most frequent other feature values with which `NOUN` and `InflClass` co-occu
   <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>fides</em></td><td></td></tr>
 </table>
 
-`InflClass` seems to be **lexical feature** of `NOUN`. 100% lemmas (1861) occur only with one value of `InflClass`.
+`InflClass` seems to be **lexical feature** of `NOUN`. 100% lemmas (1860) occur only with one value of `InflClass`.
 
 ### `VERB`
 
-8217 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `InflClass`.
+8218 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `InflClass`.
 
-The most frequent other feature values with which `VERB` and `InflClass` co-occurred: <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (5896; 72%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5891; 72%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5891; 72%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5870; 71%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5208; 63%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4979; 61%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4799; 58%).
+The most frequent other feature values with which `VERB` and `InflClass` co-occurred: <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (5896; 72%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5891; 72%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5891; 72%), <tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5870; 71%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5229; 64%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4980; 61%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4799; 58%).
 
 `VERB` tokens may have the following values of `InflClass`:
 
-* `LatA` (2117; 26% of non-empty `InflClass`): <em>vocamus, restat, ligare, dubitat, appellamus, constat, probatum, probatur, causatum, datum</em>
+* `LatA` (2118; 26% of non-empty `InflClass`): <em>vocamus, restat, ligare, dubitat, appellamus, constat, probatum, probatur, causatum, datum</em>
 * `LatAnom` (648; 8% of non-empty `InflClass`): <em>potest, possit, possunt, posset, vult, posse, velle, possumus, potuit, poterat</em>
 * `LatE` (1391; 17% of non-empty `InflClass`): <em>patet, habet, videtur, habere, oportet, debet, videntur, habeat, habent, videmus</em>
 * `LatI` (406; 5% of non-empty `InflClass`): <em>sciendum, convenit, invenire, venire, invenimus, reperitur, sentire, audiant, inveniri, invenitur</em>
@@ -122,19 +122,19 @@ The most frequent other feature values with which `VERB` and `InflClass` co-occu
   <tr><td><tt><tt><a href="la_udante-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt>|<tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>dicenda</em></td></tr>
 </table>
 
-`InflClass` seems to be **lexical feature** of `VERB`. 97% lemmas (1509) occur only with one value of `InflClass`.
+`InflClass` seems to be **lexical feature** of `VERB`. 97% lemmas (1510) occur only with one value of `InflClass`.
 
 ### `ADJ`
 
-3969 <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `InflClass`.
+3968 <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `InflClass`.
 
-The most frequent other feature values with which `ADJ` and `InflClass` co-occurred: <tt><a href="la_udante-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (3568; 90%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3382; 85%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2800; 71%).
+The most frequent other feature values with which `ADJ` and `InflClass` co-occurred: <tt><a href="la_udante-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (3567; 90%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3380; 85%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2798; 71%).
 
 `ADJ` tokens may have the following values of `InflClass`:
 
 * `IndEurA` (813; 20% of non-empty `InflClass`): <em>prima, propria, humane, divine, secunda, divina, humana, propriam, publice, divinam</em>
 * `IndEurI` (993; 25% of non-empty `InflClass`): <em>necesse, illustre, inpossibile, impossibile, universalis, temporalis, illustres, potissima, principalis, curiale</em>
-* `IndEurO` (1900; 48% of non-empty `InflClass`): <em>humanum, manifestum, verum, primo, primum, romanorum, romanus, falsum, primi, secundo</em>
+* `IndEurO` (1899; 48% of non-empty `InflClass`): <em>humanum, manifestum, verum, primo, primum, romanorum, romanus, falsum, primi, secundo</em>
 * `IndEurX` (263; 7% of non-empty `InflClass`): <em>inferioribus, maior, inferiora, melius, superioribus, superiorem, inferior, maioris, superiora, minorem</em>
 
 <table>

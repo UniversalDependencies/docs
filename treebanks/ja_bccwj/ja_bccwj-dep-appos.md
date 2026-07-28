@@ -24,14 +24,14 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 30 45 appos	color:blue
 1	_	_	VERB	_	_	3	acl	_	BBIL=B|BPT=1|LBIL=B|LPOS=34|SpaceAfter=No|UI=21868
 2	_	_	AUX	_	_	1	aux	_	BBIL=I|BPT=2|LBIL=B|LPOS=7|SpaceAfter=No|UI=7
-3	_	_	NOUN	_	_	5	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=20497
+3	_	_	NOUN	_	_	5	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=20497
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=5
-5	_	_	NOUN	_	_	10	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=17756
+5	_	_	NOUN	_	_	49	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=17756
 6	_	_	ADP	_	_	5	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|UI=8
 7	_	_	NOUN	_	_	8	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=159786
 8	_	_	NOUN	_	_	10	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=148127
 9	_	_	ADP	_	_	8	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
-10	_	_	NOUN	_	_	30	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=11720
+10	_	_	NOUN	_	_	5	conj	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=11720
 11	_	_	ADP	_	_	10	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 12	_	_	PUNCT	_	_	16	punct	_	BBIL=B|BPT=0|LBIL=B|LPOS=14|SpaceAfter=No|UI=16
 13	_	_	NUM	_	_	16	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=10|SpaceAfter=No|UI=19954
@@ -85,14 +85,14 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 30 34 appos	color:blue
 1	_	_	VERB	_	_	3	acl	_	BBIL=B|BPT=1|LBIL=B|LPOS=34|SpaceAfter=No|UI=21868
 2	_	_	AUX	_	_	1	aux	_	BBIL=I|BPT=2|LBIL=B|LPOS=7|SpaceAfter=No|UI=7
-3	_	_	NOUN	_	_	5	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=20497
+3	_	_	NOUN	_	_	5	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=20497
 4	_	_	ADP	_	_	3	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=5
-5	_	_	NOUN	_	_	10	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=17756
+5	_	_	NOUN	_	_	49	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=17756
 6	_	_	ADP	_	_	5	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|UI=8
 7	_	_	NOUN	_	_	8	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=159786
 8	_	_	NOUN	_	_	10	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=148127
 9	_	_	ADP	_	_	8	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
-10	_	_	NOUN	_	_	30	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=11720
+10	_	_	NOUN	_	_	5	conj	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=11720
 11	_	_	ADP	_	_	10	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 12	_	_	PUNCT	_	_	16	punct	_	BBIL=B|BPT=0|LBIL=B|LPOS=14|SpaceAfter=No|UI=16
 13	_	_	NUM	_	_	16	compound	_	BBIL=I|BPT=0|LBIL=B|LPOS=10|SpaceAfter=No|UI=19954

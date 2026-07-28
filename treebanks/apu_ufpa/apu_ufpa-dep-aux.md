@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="apu_ufpa-dep-aux-exhort.html">aux:exhort</a></tt>.
 
-11 nodes (1%) are attached to their parents as `aux`.
+17 nodes (2%) are attached to their parents as `aux`.
 
-7 instances of `aux` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.81818181818182.
+10 instances of `aux` (59%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.52941176470588.
 
-The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (5; 45% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (4; 36% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (2; 18% instances).
+The following 3 pairs of parts of speech are connected with `aux`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (11; 65% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (4; 24% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt>-<tt><a href="apu_ufpa-pos-AUX.html">AUX</a></tt> (2; 12% instances).
 
 
 ~~~ conllu

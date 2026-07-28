@@ -34,13 +34,13 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 `NOUN` tokens may have the following values of `Abbr`:
 
 * `Yes` (31; 100% of non-empty `Abbr`): <em>_</em>
-* `EMPTY` (2626): <em>_</em>
+* `EMPTY` (2625): <em>_</em>
 
 ### `VERB`
 
 5 <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="en_gumreddit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4; 80%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 60%), <tt><a href="en_gumreddit-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 60%).
+The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="en_gumreddit-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4; 80%), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 60%), <tt><a href="en_gumreddit-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 60%).
 
 `VERB` tokens may have the following values of `Abbr`:
 

@@ -34,11 +34,11 @@ The following 113 pairs of parts of speech are connected with `dep`: <tt><a href
 10	_	_	AUX	_	_	8	fixed	_	BBIL=I|BPT=2|LBIL=I|LPOS=1|SpaceAfter=No|UI=136
 11	_	_	NOUN	_	_	13	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=1782
 12	_	_	ADP	_	_	11	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
-13	_	_	NOUN	_	_	17	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=3788
+13	_	_	NOUN	_	_	20	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=3788
 14	_	_	ADP	_	_	13	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 15	_	_	VERB	_	_	17	acl	_	BBIL=B|BPT=1|LBIL=B|LPOS=40|SpaceAfter=No|UI=359
 16	_	_	AUX	_	_	15	aux	_	BBIL=I|BPT=2|LBIL=B|LPOS=26|SpaceAfter=No|UI=119
-17	_	_	NOUN	_	_	20	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=1031
+17	_	_	NOUN	_	_	13	conj	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=1031
 18	_	_	ADP	_	_	17	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=1|SpaceAfter=No|UI=157
 19	_	_	VERB	_	_	18	fixed	_	BBIL=I|BPT=2|LBIL=I|LPOS=1|SpaceAfter=No|UI=158
 20	_	_	NOUN	_	_	0	root	_	BBIL=B|BPT=4|LBIL=B|LPOS=0|SpaceAfter=No|UI=579

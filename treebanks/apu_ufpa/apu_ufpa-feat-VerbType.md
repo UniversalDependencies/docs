@@ -11,12 +11,12 @@ It occurs with 1 different values: `Vido`.
 
 19 tokens (2%) have a non-empty value of `VerbType`.
 15 types (4%) occur at least once with a non-empty value of `VerbType`.
-14 lemmas (5%) occur at least once with a non-empty value of `VerbType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (15; 2% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+14 lemmas (4%) occur at least once with a non-empty value of `VerbType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (15; 1% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-15 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `VerbType`.
+15 <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `VerbType`.
 
 The most frequent other feature values with which `VERB` and `VerbType` co-occurred: <tt><a href="apu_ufpa-feat-Gender-obj.html">Gender[obj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="apu_ufpa-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (15; 100%), <tt><a href="apu_ufpa-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="apu_ufpa-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="apu_ufpa-feat-Tense.html">Tense</a></tt><tt>=Past,Pres</tt> (15; 100%), <tt><a href="apu_ufpa-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (15; 100%), <tt><a href="apu_ufpa-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (14; 93%), <tt><a href="apu_ufpa-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (13; 87%), <tt><a href="apu_ufpa-feat-Gender-subj.html">Gender[subj]</a></tt><tt>=Masc</tt> (10; 67%).
 
@@ -38,7 +38,9 @@ The most frequent other feature values with which `NOUN` and `VerbType` co-occur
 
 ### `ADV`
 
-1 <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `VerbType`.
+1 <tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `VerbType`.
+
+The most frequent other feature values with which `ADV` and `VerbType` co-occurred: <tt><a href="apu_ufpa-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `ADV` tokens may have the following values of `VerbType`:
 

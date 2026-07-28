@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of .
 
-129 nodes (10%) are attached to their parents as `obl:mod`.
+127 nodes (10%) are attached to their parents as `obl:mod`.
 
-129 instances of `obl:mod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.05426356589147.
+127 instances of `obl:mod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.04724409448819.
 
-The following 6 pairs of parts of speech are connected with `obl:mod`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (117; 91% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (6; 5% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrk_tundra-pos-AUX.html">AUX</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `obl:mod`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (115; 91% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> (7; 6% instances), <tt><a href="yrk_tundra-pos-ADV.html">ADV</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="yrk_tundra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrk_tundra-pos-AUX.html">AUX</a></tt>-<tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

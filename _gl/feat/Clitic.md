@@ -20,4 +20,4 @@ Galician has clitic pronouns, syntactic independent morphemes which depend phono
 
 * _díxo<b>lles</b>_ "[(s)he] told them"
 * _Non <b>te</b> ouviu_ "[(s)he] did not hear you"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:05 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:46 CEST -->

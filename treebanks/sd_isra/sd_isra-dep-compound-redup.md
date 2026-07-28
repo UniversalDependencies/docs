@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sd_isra-dep-compound.html">compound</a></tt>.
 
-31 nodes (0%) are attached to their parents as `compound:redup`.
+33 nodes (0%) are attached to their parents as `compound:redup`.
 
-31 instances of `compound:redup` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.12903225806452.
+33 instances of `compound:redup` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.12121212121212.
 
-The following 7 pairs of parts of speech are connected with `compound:redup`: <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (10; 32% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (7; 23% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (4; 13% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (4; 13% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (3; 10% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (2; 6% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1; 3% instances).
+The following 7 pairs of parts of speech are connected with `compound:redup`: <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-ADV.html">ADV</a></tt> (10; 30% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt> (9; 27% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt> (4; 12% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (4; 12% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (3; 9% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-NUM.html">NUM</a></tt> (2; 6% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1; 3% instances).
 
 
 ~~~ conllu

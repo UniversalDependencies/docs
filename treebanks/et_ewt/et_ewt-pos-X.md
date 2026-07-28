@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="et_ewt-pos-X.ht
 
 ## Morphology
 
-The form / lemma ratio of `X` is 2.016129 (the average of all parts of speech is 1.733681).
+The form / lemma ratio of `X` is 2.016129 (the average of all parts of speech is 1.733800).
 
 The 1st highest number of forms (65) was observed with the lemma “_”: <em>+++, -, -1, -dega, -e, -ga, 000, 02, 3, 300, 472, AT, a, aastasele, aegaset, arvuti, de, desid, eestist, füüsikat, ga, gravitatsioonist, homme, hot.ee, iganes, itaaliast, karantiin, keemikud, kingades, konkurent, kord, korealane, koreas, kraadise, kõik, meeskonnal, mõistusele, n, ne, olla, osa, panek, parameeter, pealt, refereri, relva, s, sama, sele, seni, sest, sinane, st, sõbralik, tasandil, teadus, tehas, tehnoloogia, tulesid, täht, u, valdkonnas, versiooni, vähem, üks</em>.
 

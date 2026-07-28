@@ -64,7 +64,13 @@ The 2nd highest number of forms (3) was observed with the lemma “નું”:
 
 The 3rd highest number of forms (2) was observed with the lemma “ના”: <em>_, ના</em>.
 
-`ADP` does not occur with any features.
+`ADP` occurs with 1 features: <tt><a href="gu_gujtb-feat-ExtPos.html">ExtPos</a></tt> (2; 1% instances)
+
+`ADP` occurs with 1 feature-value pairs: `ExtPos=ADP`
+
+`ADP` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (150 tokens).
+Examples: <em>_, ની, ના, માટે, પર, નો, સાથે, નું, જેવા, જેવું</em>
 
 
 ## Relations

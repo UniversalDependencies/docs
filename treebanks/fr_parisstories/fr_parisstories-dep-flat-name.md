@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-ParisStories: Relations: `flat:name`
 
 This relation is a language-specific subtype of <tt><a href="fr_parisstories-dep-flat.html">flat</a></tt>.
+There are also 1 other language-specific subtypes of `flat`: <tt><a href="fr_parisstories-dep-flat-foreign.html">flat:foreign</a></tt>.
 
 31 nodes (0%) are attached to their parents as `flat:name`.
 
@@ -23,16 +24,16 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 8	fgColor:white
 # visual-style 8 9 flat:name	color:blue
 1	euh	euh	INTJ	_	_	3	discourse	_	_
-2	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-3	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent
+3	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Exponence[Person]=Absent
 4	plus	plus	ADV	_	_	3	advmod	_	_
 5	si	si	SCONJ	_	_	8	mark	_	_
-6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	SpaceAfter=No
+6	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	nsubj	_	Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No
 7	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
-8	France	France	PROPN	_	_	3	ccomp	_	Gender[lex]=Unknown
-9	Inter	Inter	PROPN	_	_	8	flat:name	_	Gender[lex]=Unknown
+8	France	France	PROPN	_	_	3	ccomp	_	_
+9	Inter	Inter	PROPN	_	_	8	flat:name	_	_
 10	ou	ou	CCONJ	_	_	11	cc	_	_
-11	RMC	RMC	PROPN	_	_	8	conj	_	Gender[lex]=Unknown|SpaceAfter=No
+11	RMC	RMC	PROPN	_	_	8	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -46,15 +47,15 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 4 5 flat:name	color:blue
 1	justement	justement	ADV	_	_	4	advmod	_	_
 2	avec	avec	ADP	_	_	4	case	_	_
-3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
-4	drags	drag	NOUN	_	_	0	root	_	Gender[lex]=Fem|Number[ctxt]=Plur
-5	queens	queen	NOUN	_	_	4	flat:name	_	Gender[lex]=Fem|Number[ctxt]=Plur|SpaceAfter=No
+3	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	HasSpokenGender=OnlySingExceptWithLiaison
+4	drags	drag	NOUN	_	Gender=Fem|Number=Plur	0	root	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
+5	queens	queen	NOUN	_	Gender=Fem|Number=Plur	4	flat:name	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
 7	qui	qui	PRON	_	PronType=Rel	8	nsubj	_	_
 8	sont	être	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 9	dans	dans	ADP	_	_	11	case	_	_
-10	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	_
-11	émission	émission	NOUN	_	_	8	obl:arg	_	Gender[lex]=Fem|Number[ctxt]=Sing|SpaceAfter=No
+10	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	11	det	_	Exponence[Gender]=Absent|HasSpokenGender=OnlySingExceptWithLiaison|LiaisonAfter=Yes
+11	émission	émission	NOUN	_	Gender=Fem|Number=Sing	8	obl:arg	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|LiaisonPossibleBefore=Yes|SpaceAfter=No
 12	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -68,20 +69,20 @@ The following 4 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 3 5 flat:name	color:blue
 1	euh	euh	INTJ	_	_	12	discourse	_	_
 2	à	à	ADP	_	_	3	case	_	_
-3	Roissy	Roissy	PROPN	_	_	12	obl:mod	_	Gender[lex]=Unknown
-4	Charles	Charles	PROPN	_	_	3	flat:name	_	Gender[lex]=Unknown
+3	Roissy	Roissy	PROPN	_	_	12	obl:mod	_	_
+4	Charles	Charles	PROPN	_	_	3	flat:name	_	_
 5	de	de	ADP	_	_	3	flat:name	_	_
-6	Gaulle	Gaulle	PROPN	_	_	3	flat:name	_	Gender[lex]=Unknown|SpaceAfter=No
+6	Gaulle	Gaulle	PROPN	_	_	3	flat:name	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	12	punct	_	_
 8	et	et	CCONJ	_	_	12	cc	_	_
 9	euh	euh	INTJ	_	_	12	discourse	_	_
-10	on	on	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	12	nsubj	_	_
+10	on	on	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	12	nsubj	_	Exponence[Gender]=Absent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
 11	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux:tense	_	_
-12	attendu	attendre	VERB	_	VerbForm=Part|Voice=Act	0	root	_	Gender[ctxt]=Masc|Number[ctxt]=Sing|Tense[denom]=Past
-13	une	un	NUM	_	_	16	nummod	_	Number[lex]=Plur
+12	attendu	attendre	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|PastPartHasSpokenGender=NotInThisDialect|Tense[denom]=Past
+13	une	un	NUM	_	Number=Plur	16	nummod	_	Exponence[Number]=Inherent
 14	ou	ou	CCONJ	_	_	15	cc	_	_
-15	deux	deux	NUM	_	_	13	conj	_	Number[lex]=Plur
-16	heures	heure	NOUN	_	_	12	obj	_	Gender[lex]=Fem|Number[ctxt]=Plur|SpaceAfter=No
+15	deux	deux	NUM	_	Number=Plur	13	conj	_	Exponence[Number]=Inherent
+16	heures	heure	NOUN	_	Gender=Fem|Number=Plur	12	obj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|LiaisonPossibleBefore=Yes|SpaceAfter=No
 17	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~

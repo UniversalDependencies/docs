@@ -201,4 +201,4 @@ _ויסע אברם הלוך ונסוע הנגבה׃ פ_
 _ṿayisaʻ ʼavram halokh ṿenasoʻa hanegbah  p_
 
 _And Abram departed, walking and departing, to the south._
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:54 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->

@@ -34,4 +34,4 @@ non-canonical parts of speech ([PART](), [NUM](), [SYM](), and [PUNCT]()) may be
 ### Examples
 
 - _And then he just <b>xfgh pdl jklw</b>_
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:58 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:40 CEST -->

@@ -22,15 +22,15 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 ccomp	color:blue
-1	મને	હું	PRON	_	_	2	nsubj	_	_
-2	લાગે	લાગવું	VERB	_	_	0	root	_	_
-3	છે	છે	AUX	_	_	2	aux	_	_
-4	કે	કે	SCONJ	_	_	6	mark	_	_
-5	વરસાદ	વરસાદ	NOUN	_	_	6	nsubj	_	_
-6	વરસી	વરસવું	VERB	_	_	2	ccomp	_	_
-7	રહ્યો	રહેવું	AUX	_	_	6	aux	_	_
-8	છે	છે	AUX	_	_	6	aux	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	6	punct	_	_
+1	મને	હું	PRON	_	_	2	nsubj	_	LTranslit=huṁ|Translit=mane
+2	લાગે	લાગવું	VERB	_	_	0	root	_	LTranslit=lāgavuṁ|Translit=lāge
+3	છે	છે	AUX	_	_	2	aux	_	LTranslit=che|Translit=che
+4	કે	કે	SCONJ	_	_	6	mark	_	LTranslit=ke|Translit=ke
+5	વરસાદ	વરસાદ	NOUN	_	_	6	nsubj	_	LTranslit=varasāda|Translit=varasāda
+6	વરસી	વરસવું	VERB	_	_	2	ccomp	_	LTranslit=varasavuṁ|Translit=varasī
+7	રહ્યો	રહેવું	AUX	_	_	6	aux	_	LTranslit=rahevuṁ|Translit=rahyo
+8	છે	છે	AUX	_	_	6	aux	_	LTranslit=che|SpaceAfter=No|Translit=che
+9	.	.	PUNCT	_	_	6	punct	_	LTranslit=.|Translit=.
 
 ~~~
 
@@ -41,14 +41,14 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 ccomp	color:blue
-1	તેમને	તેમને	PRON	_	_	3	nsubj	_	_
-2	કોઈ	કોઈ	DET	_	_	3	det	_	_
-3	ખ્યાલ	ખ્યાલ	NOUN	_	_	0	root	_	_
-4	નથી	છે	AUX	_	_	3	cop	_	Polarity=Neg
-5	કોણે	કોણે	PRON	_	_	6	nsubj	_	_
-6	લખ્યું	લખ્યું	VERB	_	_	3	ccomp	_	_
-7	છે	છે	AUX	_	_	6	aux	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+1	તેમને	તેમને	PRON	_	_	3	nsubj	_	LTranslit=temane|Translit=temane
+2	કોઈ	કોઈ	DET	_	_	3	det	_	LTranslit=koī|Translit=koī
+3	ખ્યાલ	ખ્યાલ	NOUN	_	_	0	root	_	LTranslit=khyāla|Translit=khyāla
+4	નથી	છે	AUX	_	_	3	cop	_	LTranslit=che|Polarity=Neg|Translit=nathī
+5	કોણે	કોણે	PRON	_	_	6	nsubj	_	LTranslit=koṇe|Translit=koṇe
+6	લખ્યું	લખ્યું	VERB	_	_	3	ccomp	_	LTranslit=lakhyuṁ|Translit=lakhyuṁ
+7	છે	છે	AUX	_	_	6	aux	_	LTranslit=che|SpaceAfter=No|Translit=che
+8	.	.	PUNCT	_	_	3	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 
@@ -59,17 +59,17 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 7 ccomp	color:blue
-1	વડાપ્રધાન	વડાપ્રધાન	PROPN	_	_	4	nmod	_	_
-2	_	મોદી	PROPN	_	_	1	flat	_	_
-3	_	ની	ADP	_	_	1	case	_	_
-4	ઉપલબ્ધિઓ	ઉપલબ્ધિ	NOUN	_	Number=Plur	7	obl	_	_
-5	પર	પર	ADP	_	_	4	case	_	_
-6	ભારતને	ભારત	NOUN	_	Case=Dat	7	nsubj	_	_
-7	ગર્વ	ગર્વ	NOUN	_	_	10	ccomp	_	_
-8	છે	છે	AUX	_	_	7	cop	_	_
-9	:	:	PUNCT	_	_	10	punct	_	_
-10	અભિજિત	અભિજિત	PROPN	_	_	0	root	_	_
-11	બેનરજી	બેનરજી	PROPN	_	_	10	flat	_	SpaceAfter=No
+1	વડાપ્રધાન	વડાપ્રધાન	PROPN	_	_	4	nmod	_	LTranslit=vaḍāpradhāna|Translit=vaḍāpradhāna
+2	_	મોદી	PROPN	_	_	1	flat	_	LTranslit=modī
+3	_	ની	ADP	_	_	1	case	_	LTranslit=nī
+4	ઉપલબ્ધિઓ	ઉપલબ્ધિ	NOUN	_	_	7	obl	_	LTranslit=upalabdhi|Translit=upalabdhio
+5	પર	પર	ADP	_	_	4	case	_	LTranslit=para|Translit=para
+6	ભારતને	ભારત	NOUN	_	_	7	nsubj	_	LTranslit=bhārata|Translit=bhāratane
+7	ગર્વ	ગર્વ	NOUN	_	_	10	ccomp	_	LTranslit=garva|Translit=garva
+8	છે	છે	AUX	_	_	7	cop	_	LTranslit=che|Translit=che
+9	:	:	PUNCT	_	_	10	punct	_	LTranslit=:|Translit=:
+10	અભિજિત	અભિજિત	PROPN	_	_	0	root	_	LTranslit=abhijita|Translit=abhijita
+11	બેનરજી	બેનરજી	PROPN	_	_	10	flat	_	LTranslit=benarajī|SpaceAfter=No|Translit=benarajī
 
 ~~~
 

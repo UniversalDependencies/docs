@@ -8,29 +8,28 @@ udver: '2'
 
 This relation is universal.
 
-3165 nodes (30%) are attached to their parents as `punct`.
+3831 nodes (29%) are attached to their parents as `punct`.
 
-1649 instances of `punct` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.53996840442338.
+1919 instances of `punct` (50%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.76220308013573.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (2836; 90% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (140; 4% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (83; 3% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (44; 1% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (38; 1% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="ab_abnc-pos-PART.html">PART</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ab_abnc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (3439; 90% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (183; 5% instances), <tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (90; 2% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (51; 1% instances), <tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (43; 1% instances), <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="ab_abnc-pos-PART.html">PART</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="ab_abnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ab_abnc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ab_abnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 9 punct	color:blue
-1	Сара	сара́	PRON	Pron_Pers_1Sg	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	LMSeg:сара́
-2	Сталини	Сталин	PROPN	Noun_Prop_Anthr_LastName_Coord	NameType=Prs	4	obj	_	LMSeg:Сталин
-3	Бериеи	Бериа	PROPN	Noun_Prop_Anthr_LastName_Coord	NameType=Prs	2	conj	_	LMSeg:Бериа
-4	сшьырцаз	а-шьра́	VERB	V_Dyn_Tr_NonFin_Purp_S:1Sg_DO:3_DO:Ad	Dyn=Yes|Mood=Prp|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|VerbForm=NonFin	8	ccomp:purp	_	LMSeg:а-шь-ра́
-5	Лакоба	Лакоба	PROPN	Noun_Prop_Anthr_LastName	NameType=Prs	6	nsubj	_	LMSeg:Лакоба
-6	исиҭаз	а́-ҭара	VERB	V_Dyn_Tr_NonFin_PastIndef_S:3SgM_DO:Rel_IO:1Sg_Rel	Dyn=Yes|Gender[subj]=Masc|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[obj]=Rel|Person[subj]=3|Subcat=Tran|Tense=Past|VerbForm=NonFin	7	acl:relcl	_	LMSeg:а́-ҭа-ра
-7	адҵа	а-дҵа́	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	8	obj	_	LMSeg:а-дҵа́
-8	насыгӡон	а́-нагӡара	VERB	V_Dyn_Tr_Fin_Impf_S:1Sg_DO:3_DO:Ad	Dyn=Yes|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а́-на·гӡа-ра|SpaceAfter=No
-9	.	.	PUNCT	Punct_Period	_	8	punct	_	LMSeg:.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 8 punct	color:blue
+1	аҵабырг	а-ҵа́бырг	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	3	obj	_	LMSeg:а-ҵа́бырг
+2	мҩа	а́-мҩа	NOUN	Noun_NH_Sg	Animacy=Nhum|Number=Sing	3	xcomp	_	LMSeg:а́-мҩа
+3	иқәиҵарц	а́-қәҵара	VERB	V_Dyn_Tr_NonFin_Purp_S:3SgM_DO:3	Dyn=Yes|Gender[subj]=Masc|Mood=Prp|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|VerbForm=NonFin	0	root	_	LMSeg:а́-қә·ҵа-ра
+4	ари	ари́	PRON	Pron_Dem_Prox_Sg	Number=Sing|PronType=Dem	5	det	_	LMSeg:ари́
+5	адгьыл	а́дгьыл	NOUN	Noun_NH_Sg_[Det]	Animacy=Nhum|Number=Sing	7	obl	_	LMSeg:а́дгьыл
+6	ахь	а́хь	ADP	PP_Poss:3SgNH	Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3	5	case	_	LMSeg:а́хь
+7	дшаашьҭыз	а́ашьҭра	VERB	V_Dyn_Tr_StatPass_NonFin_Cnv_Impf_How_S:3SgH	Dyn=No|Gender[subj]=Com|Number[subj]=Sing|Person[subj]=3|RelType=Mnr|Subcat=Tran|Tense=Imp|VerbForm=NonFin|Voice=Pass	3	advcl	_	LMSeg:а́а·шьҭ-ра|SpaceAfter=No
+8	.	.	PUNCT	Punct_Period	_	3	punct	_	LMSeg:.
 
 ~~~
 

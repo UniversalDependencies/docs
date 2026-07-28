@@ -13,4 +13,4 @@ The following English words (only) are currently being treated as `PART` in Engl
 (This is a slightly motley list and we may still want to rethink this category for English....)
 
 This covers PTB tags POS and some (old PTB style) or all uses of TO, and the subset of RB that is negation.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:51 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

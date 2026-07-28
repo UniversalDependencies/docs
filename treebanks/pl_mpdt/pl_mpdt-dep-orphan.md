@@ -68,7 +68,7 @@ The following 42 pairs of parts of speech are connected with `orphan`: <tt><a hr
 1	wyprowadzili	wyprowadzić	VERB	praet:pl:manim1:perf	Animacy=Hum|Aspect=Perf|Gender=Masc|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Translit=wyprowádźili
 2	Aniołowie	anioł	NOUN	subst:pl:nom:manim1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Plur	1	nsubj	1:nsubj	Translit=Aniołowie
 3	Pannę	panna	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	1	obj	1:obj	Translit=Pánnę
-4	jako	jako	SCONJ	comp	_	1	obl:cmpr	1:obl:cmpr	Translit=iáko
+4	jako	jako	SCONJ	comp	_	1	obl:cmp	1:obl:cmp	Translit=iáko
 5	Lota	Lot	PROPN	subst:sg:acc:manim2	Animacy=Nhum|Case=Acc|Gender=Masc|Number=Sing	4	dep	4:dep	Translit=Lothá
 6	z	z	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	7	case	7:case	Case=Gen|Translit=z
 7	Sodomy	sodoma	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	5	orphan	5:orphan	Translit=Sodomy

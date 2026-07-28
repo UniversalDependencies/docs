@@ -18,3 +18,4 @@ nsubj:agent(cooked, Dewi)
 ~~~
 
 “Dewi cooked the fish.” (actor voice)
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:23 CEST -->

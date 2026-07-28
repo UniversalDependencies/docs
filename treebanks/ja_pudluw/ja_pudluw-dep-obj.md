@@ -11,7 +11,7 @@ This relation is universal.
 840 nodes (4%) are attached to their parents as `obj`.
 
 840 instances of `obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.59166666666667.
+Average distance between parent and child is 2.63928571428571.
 
 The following 10 pairs of parts of speech are connected with `obj`: <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (727; 87% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (58; 7% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-PRON.html">PRON</a></tt> (23; 3% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-NUM.html">NUM</a></tt> (13; 2% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pudluw-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ja_pudluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ja_pudluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pudluw-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 

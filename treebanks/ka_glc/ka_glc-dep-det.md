@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `det`: <tt><a href="ka_glc-dep-det-pos
 1093 instances of `det` (99%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.40452488687783.
 
-The following 9 pairs of parts of speech are connected with `det`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (957; 87% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (66; 6% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (40; 4% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (24; 2% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `det`: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (961; 87% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (62; 6% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (40; 4% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (24; 2% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,7 +63,7 @@ The following 9 pairs of parts of speech are connected with `det`: <tt><a href="
 2	შემდეგ	შემდეგ	ADV	Adv	AdvType=Tim	5	advmod	_	SpaceAfter=No|Translit=šemdeg
 3	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
 4	პარაზიტი	პარაზიტი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	5	nsubj	_	Translit=paraziti
-5	ხდება	ხდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=xdeba
+5	ხდება	ხდის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=xdeba
 6	თევზის	თევზი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	7	nmod	_	Translit=tʻevzis
 7	ენის	ენა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=enis
 8	ნაწილი	ნაწილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	xcomp	_	SpaceAfter=No|Translit=nacili

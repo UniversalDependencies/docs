@@ -39,4 +39,4 @@ See also [here](../../sla/pos/PRON.html) for a Slavic-wide discussion of the dis
 
 - [Loos, Eugene E., et al. 2003. Glossary of linguistic terms: What is a pronoun?](http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAPronoun.htm)
 - [Wikipedia](http://en.wikipedia.org/wiki/Pronoun)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:52 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

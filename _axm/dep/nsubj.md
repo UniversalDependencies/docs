@@ -12,19 +12,24 @@ See [nsubj:pass](), [csubj:pass](), and [nsubj:caus]() for when the subject is n
 The governor of the `nsubj` relation might not always be a verb: when the verb is a copular verb, the root of the clause is the complement
 of the copular verb, which can be an adjective or noun (including a noun marked by a preposition).
 
-~~~ sdparse
-ստամոքն ցաւէ \n stamok’n c’awē \n he stomach aches
-nsubj(ցաւէ, ստամոքն)
-nsubj(aches, stomach)
+~~~ conllu
+# visual-style 2 1 nsubj color:blue
+1	ստամոքն	ստամոք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
+2	ցաւէ	ցաւել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
 ~~~
 
-~~~ sdparse
-այսոր ուժ չուննայ \n aysor owž čownnay \n He has no strength (lit.: of this (person) has no strength)
+~~~ conllu
+# visual-style 3 1 nsubj color:blue
+1	այսոր	այս	PRON	_	Case=Dat|Deixis=Prox|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	ուժ	ուժ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	3	obj	_	_
+3	չուննայ	ուննալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 ~~~
 
-~~~ sdparse
-իւր թոյնքն տաք է \n iwr t’oynk’n tak’ ē \n its venom is hot
-nsubj(տաք, թոյնքն)
-nsubj(hot, venom)
+~~~ conllu
+# visual-style 3 2 nsubj color:blue
+1	իւր	իւր	DET	_	Case=Nom|Number=Sing|Person=3|PronType=Poss|Style=Arch	2	det:poss	_	_
+2	թոյնքն	թոյն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	3	nsubj	_	_
+3	տաք	տաք	ADJ	_	Degree=Pos	0	root	_	_
+4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	_
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:12 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:22 CEST -->

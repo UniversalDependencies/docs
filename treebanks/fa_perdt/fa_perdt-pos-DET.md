@@ -71,7 +71,13 @@ The 2nd highest number of forms (2) was observed with the lemma “این”: ا
 
 The 3rd highest number of forms (2) was observed with the lemma “همه”: همه, همهٔ.
 
-`DET` does not occur with any features.
+`DET` occurs with 1 features: <tt><a href="fa_perdt-feat-PronType.html">PronType</a></tt> (7267; 70% instances)
+
+`DET` occurs with 3 feature-value pairs: `PronType=Dem`, `PronType=Exc`, `PronType=Int`
+
+`DET` occurs with 4 feature combinations.
+The most frequent feature combination is `PronType=Dem` (6760 tokens).
+Examples: این، آن، همان، همین، چنین، ین، چنان، ان، هر، ابن
 
 
 ## Relations

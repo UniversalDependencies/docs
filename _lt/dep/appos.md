@@ -42,4 +42,4 @@ Vytauto Didžiojo universitetas ( VDU ). \n Vytautas Magnus University ( VMU ).
 appos(universitetas, VDU)
 appos(University, VMU)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:16 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:40 CEST -->

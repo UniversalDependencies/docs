@@ -43,9 +43,9 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 nmod:poss	color:blue
-1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=explanation-evidence:77->73:2:_|Entity=(103-person-new-nnnnn-cf1-1-ana)
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	Discourse=explanation-evidence:77->73:2:_|Entity=(103-person-new-nnnnn-cf1-1-ana)|PDTB=Implicit:Contingency.Cause.Result:so:_:360-380:381-390
 2	put	put	VERB	VBD	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	0:root	_
-3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	Entity=(104-place-new-nnnnn-cf2-2-sgl
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	Bridge=103<104:entity-associative|Entity=(104-place-acc:inf-nnnnn-cf2-2-sgl
 4	house	house	NOUN	NN	Number=Sing	2	obj	2:obj	Entity=104)
 5	into	into	ADP	IN	_	9	case	9:case	MSeg=in-to
 6	my	my	PRON	PRP$	Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	7:nmod:poss	Entity=(105-abstract-new-nnnnn-cf4-4-sgl(106-person-new-nnnnn-cf3-2-sgl(103-person-giv:act-nnnnn-cf1-1-ana)

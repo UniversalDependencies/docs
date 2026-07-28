@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_rhapsodie-p
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.500000 (the average of all parts of speech is 1.357880).
+The form / lemma ratio of `SCONJ` is 1.500000 (the average of all parts of speech is 1.361064).
 
 The 1st highest number of forms (2) was observed with the lemma “lorsque”: <em>lorsqu', lorsque</em>.
 

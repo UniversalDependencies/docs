@@ -28,7 +28,7 @@ The following 23 pairs of parts of speech are connected with `nmod`: <tt><a href
 3	ἡ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	Gloss=the|Ref=GEN_41.47
 4	γῆ	γῆ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Gloss=earth|Ref=GEN_41.47
 5	ἐν	ἐν	ADP	_	_	8	case	_	Gloss=in,on,by,with,to|Ref=GEN_41.47
-6	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Art	8	det	_	Gloss=the|Ref=GEN_41.47
+6	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	8	det	_	Gloss=the|Ref=GEN_41.47
 7	ἑπτὰ	ἑπτά	NUM	_	NumType=Card	8	nummod	_	Gloss=seven|Ref=GEN_41.47
 8	ἔτεσιν	ἔτος	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	2	obl	_	Gloss=year|Ref=GEN_41.47
 9	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	Gloss=the|Ref=GEN_41.47
@@ -46,7 +46,7 @@ The following 23 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 1	fgColor:white
 # visual-style 1 3 nmod	color:blue
 1	χαροποὶ	χαροπός	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Gloss=glassy-eyed|Ref=GEN_49.12
-2	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	3	det	_	Gloss=the|Ref=GEN_49.12
+2	οἱ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	Gloss=the|Ref=GEN_49.12
 3	ὀφθαλμοὶ	ὀφθαλμός	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	nmod	_	Gloss=eye|Ref=GEN_49.12
 4	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	3	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_49.12
 5	ἀπὸ	ἀπό	ADP	_	_	6	case	_	Gloss=from,away-from|Ref=GEN_49.12
@@ -54,7 +54,7 @@ The following 23 pairs of parts of speech are connected with `nmod`: <tt><a href
 7	,	,	PUNCT	_	_	8	punct	_	Ref=GEN_49.12
 8	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next|Ref=GEN_49.12
 9	λευκοὶ	λευκός	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	Gloss=white|Ref=GEN_49.12
-10	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	11	det	_	Gloss=the|Ref=GEN_49.12
+10	οἱ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	Gloss=the|Ref=GEN_49.12
 11	ὀδόντες	ὀδούς	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	Gloss=tooth|Ref=GEN_49.12
 12	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	11	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_49.12
 13	ἢ	ἤ	ADP	_	_	14	case	_	Gloss=or,either,than;-+πριν=before|Ref=GEN_49.12
@@ -72,12 +72,12 @@ The following 23 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 9 12 nmod	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_9.8
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_9.8
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_9.8
+3	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_9.8
 4	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=god|Ref=GEN_9.8
-5	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_9.8
+5	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_9.8
 6	Νῶε	Νῶε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Gloss=Noah|Ref=GEN_9.8
 7	καὶ	καί	CCONJ	_	_	9	cc	_	Gloss=and,also,even,then,next|Ref=GEN_9.8
-8	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Art	9	det	_	Gloss=the|Ref=GEN_9.8
+8	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	Gloss=the|Ref=GEN_9.8
 9	υἱοῖς	υἱός	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	6	conj	_	Gloss=son|Ref=GEN_9.8
 10	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	9	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_9.8
 11	μετ᾿	μετά	ADP	_	_	12	case	_	Gloss=+G=with;-+A=after|Ref=GEN_9.8

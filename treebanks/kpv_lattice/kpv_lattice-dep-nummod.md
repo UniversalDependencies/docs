@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-55 nodes (1%) are attached to their parents as `nummod`.
+57 nodes (1%) are attached to their parents as `nummod`.
 
-51 instances of `nummod` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21818181818182.
+53 instances of `nummod` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21052631578947.
 
-The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (54; 98% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `nummod`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (56; 98% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu

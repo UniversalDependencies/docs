@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PDB: Relations: `advcl:relcl`
 
 This relation is a language-specific subtype of <tt><a href="pl_pdb-dep-advcl.html">advcl</a></tt>.
-There are also 1 other language-specific subtypes of `advcl`: <tt><a href="pl_pdb-dep-advcl-cmpr.html">advcl:cmpr</a></tt>.
+There are also 1 other language-specific subtypes of `advcl`: <tt><a href="pl_pdb-dep-advcl-cmp.html">advcl:cmp</a></tt>.
 
 83 nodes (0%) are attached to their parents as `advcl:relcl`.
 

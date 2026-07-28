@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Utku Türk, Şaziye Betül Özateş, Büşra Marşan, Furkan Akkurt, Çağrı Çöltekin, Gülşen Cebiroğlu Eryiğit, Memduh Gökırmak, Hüner Kaşıkara, Umut Sulubacak, Francis Tyers.
 
 Repository: [UD_Turkish-IMST](https://github.com/UniversalDependencies/UD_Turkish-IMST)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_imst217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_imst218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 4.0
 
@@ -48,27 +48,43 @@ The UD Turkish Treebank, also called the IMST-UD Treebank, is a semi-automatic c
 
 
 
-
 The UD Turkish Treebank, also called the IMST-UD Treebank, is a semi-automatic conversion of the IMST Treebank (Sulubacak & Eryiğit, 2018; Sulubacak et al., 2016), which is itself a reannotated version of the METU-Sabancı Turkish Treebank (Oflazer et al., 2003). All three treebanks share the same raw data, a set of 5635 sentences collected from daily news reports and novels.
 
-Validation errors in the dataset were corrected by BOUN TABILAB/TULAP team in UD v2.11 release.
+Validation errors were corrected by the BOUN TABILAB/TULAP team for the UD v2.11 release.
 
 The sentences were reorganized by Furkan Akkurt for v2.13 based on the original [METU Turkish Corpus (MTC)](https://ii.metu.edu.tr/metu-corpora-research-group) so that sentences from the same document once again form a contiguous segment in the original order. Document ids were added and documents are no longer split between train, dev and test (that is, the data split had to be exceptionally changed between releases). Moreover, the new data split is compatible with the data split of the ITCC dataset in [CorefUD 1.1](https://ufal.mff.cuni.cz/corefud), which is partially based on the same documents from MTC. The scripts used to do the reorganization are kept [here](https://github.com/furkanakkurt1335/imst-mtc-reorganization).
 
-
 ## Acknowledgments
-
-The IMST-UD Treebank is licensed under Creative Commons (BY-NC-SA 4.0). A summary for the terms of the license is given below (see here for more information). Under the terms of the license,
-
-If you would use this treebank in any form of publication, please cite the following papers:
-
--Umut Sulubacak, Gülşen Eryiğit. Implementing Universal Dependency, Morphology and Multiword Expression Annotation Standards for Turkish Language Processing. Turkish Journal of Electrical Engineering & Computer Sciences, DOI: 10.3906/elk-1706-81):1–23. May 2018.
-
--Umut Sulubacak, Memduh Gökırmak, Francis Tyers, Çağrı Çöltekin, Joakim Nivre, and Gülşen Eryiğit. Universal Dependencies for Turkish. In Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics. Osaka, Japan, December 2016.
 
 This treebank follows a set of morphosyntactic annotation guidelines based on those established by Çağrı Çöltekin, and later revised and restructured by Memduh Gökırmak, Francis Tyers, and Umut Sulubacak. The conversion from the IMST Treebank (available from http://tools.nlp.itu.edu.tr/Datasets) was done by Umut Sulubacak. The contributors would also like to thank Birsel Karakoç, Hüner Kaşıkara, and Tuğba Pamay for their discussions and insights.
 
+The IMST-UD Treebank is licensed under Creative Commons (CC BY-NC-SA 4.0).
 
+## References
+
+If you use this treebank in any form of publication, please cite the following papers:
+
+```
+@article{SulubacakEryigit2018,
+title={Implementing Universal Dependency, Morphology and Multiword Expression Annotation Standards for Turkish Language Processing},
+author={Sulubacak, Umut and Eryi{\u{g{% raw %}}}{% endraw %}it, G{\"u}l{\c{s{% raw %}}}{% endraw %}en},
+journal={Turkish Journal of Electrical Engineering \& Computer Sciences},
+doi={10.3906/elk-1706-81},
+pages={1--23},
+year={2018}
+}
+```
+
+```
+@inproceedings{SulubacakEtAl2016,
+title={Universal Dependencies for Turkish},
+author={Sulubacak, Umut and G{\"o}k{\i}rmak, Memduh and Tyers, Francis and {\c{C{% raw %}}}{% endraw %}{\"o}ltekin, {\c{C{% raw %}}}{% endraw %}a{\u{g{% raw %}}}{% endraw %}r{\i} and Nivre, Joakim and Eryi{\u{g{% raw %}}}{% endraw %}it, G{\"u}l{\c{s{% raw %}}}{% endraw %}en},
+booktitle={Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics},
+address={Osaka, Japan},
+month = dec,
+year={2016}
+}
+```
 
 
 # Statistics of UD Turkish IMST
@@ -79,7 +95,7 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
 
 ## Features
 
-[Abbr](tr_imst-feat-Abbr.html) – [Aspect](tr_imst-feat-Aspect.html) – [Case](tr_imst-feat-Case.html) – [Echo](tr_imst-feat-Echo.html) – [Evident](tr_imst-feat-Evident.html) – [Mood](tr_imst-feat-Mood.html) – [Number](tr_imst-feat-Number.html) – [Number[psor]](tr_imst-feat-Number-psor.html) – [NumType](tr_imst-feat-NumType.html) – [Person](tr_imst-feat-Person.html) – [Person[psor]](tr_imst-feat-Person-psor.html) – [Polarity](tr_imst-feat-Polarity.html) – [Polite](tr_imst-feat-Polite.html) – [PronType](tr_imst-feat-PronType.html) – [Reflex](tr_imst-feat-Reflex.html) – [Tense](tr_imst-feat-Tense.html) – [VerbForm](tr_imst-feat-VerbForm.html) – [Voice](tr_imst-feat-Voice.html)
+[Abbr](tr_imst-feat-Abbr.html) – [Aspect](tr_imst-feat-Aspect.html) – [Case](tr_imst-feat-Case.html) – [Echo](tr_imst-feat-Echo.html) – [Evident](tr_imst-feat-Evident.html) – [ExtPos](tr_imst-feat-ExtPos.html) – [Mood](tr_imst-feat-Mood.html) – [Number](tr_imst-feat-Number.html) – [Number[psor]](tr_imst-feat-Number-psor.html) – [NumType](tr_imst-feat-NumType.html) – [Person](tr_imst-feat-Person.html) – [Person[psor]](tr_imst-feat-Person-psor.html) – [Polarity](tr_imst-feat-Polarity.html) – [Polite](tr_imst-feat-Polite.html) – [PronType](tr_imst-feat-PronType.html) – [Reflex](tr_imst-feat-Reflex.html) – [Tense](tr_imst-feat-Tense.html) – [VerbForm](tr_imst-feat-VerbForm.html) – [Voice](tr_imst-feat-Voice.html)
 
 ## Relations
 
@@ -681,6 +697,7 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
 <ul>
   <li>Dem
     <ul>
+      <li>DET: bu, o, her, tüm, şu, bütün, böyle, öyle</li>
       <li>PRON: bu, o, bunu, bunlar, buna, bunun, bunları, onu, onun, şunları</li>
     </ul>
   </li>
@@ -689,7 +706,25 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
 <ul>
   <li>Ind
     <ul>
+      <li>DET: bir, birkaç, bazı, birçok, kimi, başka, çok, birer, birtakım, biraz</li>
       <li>PRON: biri, hepsi, birbirimize, birbirlerine, kimi, hiçbiri, birbirine, birisi, hepimiz, hepsinin</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>DET: kaç</li>
+      <li>PRON: ne, ?, neden, kim, nereden, nereye, neler, nerede, neye, kime</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>DET: hiçbir, hiç</li>
     </ul>
   </li>
 </ul>
@@ -866,6 +901,23 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
 </ul>
 
 <ul>
+  <li><a>ExtPos</a>
+    <ul>
+      <li>ADV
+        <ul>
+          <li>ADV: Yine</li>
+        </ul>
+      </li>
+      <li>CCONJ
+        <ul>
+          <li>CCONJ: ya, hem, ve, ne</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>Person[psor]</a>
     <ul>
       <li>1
@@ -932,14 +984,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Gen (6)</li>
       <li>VERB--NOUN-Ins (2)</li>
       <li>VERB--NOUN-Loc-ADP(ki) (2)</li>
-      <li>VERB--NOUN-Nom (1064)</li>
+      <li>VERB--NOUN-Nom (1065)</li>
       <li>VERB--NOUN-Nom-ADP(_) (2)</li>
       <li>VERB--NOUN-Nom-ADP(ile)-ADP(birlikte) (1)</li>
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB--PRON-Gen (3)</li>
       <li>VERB--PRON-Gen-ADP(ki) (1)</li>
       <li>VERB--PRON-Ins (1)</li>
-      <li>VERB--PRON-Nom (306)</li>
+      <li>VERB--PRON-Nom (307)</li>
       <li>VERB--PRON-Nom-ADP(kadar) (1)</li>
       <li>VERB-Conv--NOUN-Abl (1)</li>
       <li>VERB-Conv--NOUN-Acc (4)</li>
@@ -977,7 +1029,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN-Abl (8)</li>
-      <li>VERB--NOUN-Acc (578)</li>
+      <li>VERB--NOUN-Acc (573)</li>
       <li>VERB--NOUN-Dat (36)</li>
       <li>VERB--NOUN-Dat-ADP(_) (1)</li>
       <li>VERB--NOUN-Dat-ADP(dair) (2)</li>
@@ -985,14 +1037,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Ins (5)</li>
       <li>VERB--NOUN-Loc (2)</li>
       <li>VERB--NOUN-Loc-ADP(ki) (1)</li>
-      <li>VERB--NOUN-Nom (489)</li>
+      <li>VERB--NOUN-Nom (483)</li>
       <li>VERB--NOUN-Nom-ADP(ci) (1)</li>
       <li>VERB--NOUN-Nom-ADP(ile) (1)</li>
       <li>VERB--NOUN-Nom-ADP(olarak) (1)</li>
       <li>VERB--PRON-Abl (2)</li>
       <li>VERB--PRON-Acc (213)</li>
       <li>VERB--PRON-Dat (7)</li>
-      <li>VERB--PRON-Nom (39)</li>
+      <li>VERB--PRON-Nom (38)</li>
       <li>VERB--PRON-Nom-ADP(siz) (1)</li>
       <li>VERB-Conv--NOUN-Acc (112)</li>
       <li>VERB-Conv--NOUN-Dat (3)</li>
@@ -1019,7 +1071,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Vnoun--NOUN-Equ (1)</li>
       <li>VERB-Vnoun--NOUN-Gen (1)</li>
       <li>VERB-Vnoun--NOUN-Ins (2)</li>
-      <li>VERB-Vnoun--NOUN-Nom (112)</li>
+      <li>VERB-Vnoun--NOUN-Nom (109)</li>
       <li>VERB-Vnoun--NOUN-Nom-ADP(ile) (1)</li>
       <li>VERB-Vnoun--NOUN-Nom-ADP(siz)-ADP(_) (1)</li>
       <li>VERB-Vnoun--PRON-Abl (1)</li>

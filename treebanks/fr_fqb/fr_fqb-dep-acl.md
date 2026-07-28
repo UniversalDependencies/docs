@@ -23,11 +23,11 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 10 acl	color:blue
-1	Je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	étudiant	étudiant	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	et	et	CCONJ	_	_	6	cc	_	_
-5	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	cherche	chercher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	aide	aide	NOUN	_	Number=Sing	6	obj	_	_
@@ -46,9 +46,9 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 12 acl	color:blue
-1	Il	il_y_a	PRON	_	ExtPos=ADP|PronType=Prs	0	root	_	_
-2	y	_	PRON	_	PronType=Prs	1	fixed	_	_
-3	a	_	VERB	_	Mood=Ind|VerbForm=Fin	1	fixed	_	_
+1	Il	lui	PRON	_	ExtPos=ADP|PronType=Prs	0	root	_	_
+2	y	y	PRON	_	Person=3|PronType=Prs	1	fixed	_	_
+3	a	avoir	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	1	fixed	_	_
 4	combien	combien	ADV	_	PronType=Int	1	obj	_	_
 5	d'	de	ADP	_	_	6	case	_	SpaceAfter=No
 6	années	année	NOUN	_	Gender=Fem|Number=Plur	4	obl:arg	_	_

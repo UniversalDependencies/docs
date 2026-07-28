@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `parataxis`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 parataxis	color:blue
-1	J'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
+1	J'	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No
 2	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
 3	contracté	contracter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `parataxis`: <tt><a 
 6	:	:	PUNCT	_	_	5	punct	_	_
 7	comment	comment	ADV	_	PronType=Int	8	advmod	_	_
 8	dois	devoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	parataxis	_	SpaceAfter=No
-9	-je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+9	-je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 10	remplir	remplir	VERB	_	VerbForm=Inf	8	xcomp	_	_
 11	mon	son	DET	_	Number=Sing|Poss=Yes|PronType=Prs	12	det	_	_
 12	questionnaire	questionnaire	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_

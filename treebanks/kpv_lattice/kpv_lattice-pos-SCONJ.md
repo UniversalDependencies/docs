@@ -6,20 +6,20 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: POS Tags: `SCONJ`
 
-There are 13 `SCONJ` lemmas (1%), 14 `SCONJ` types (0%) and 110 `SCONJ` tokens (1%).
+There are 13 `SCONJ` lemmas (1%), 14 `SCONJ` types (0%) and 112 `SCONJ` tokens (1%).
 Out of 15 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 10 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>мый, кӧ, кӧть, мед, медым, быттьӧ, сӧмын, кор, да, мыйла</em>
 
 The 10 most frequent `SCONJ` types:  <em>мый, кӧ, кӧть, мед, медым, быттьӧ, сӧмын, кор, да, мыйла</em>
 
-The 10 most frequent ambiguous lemmas: <em>мый</em> (<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 20), <em>кӧть</em> (<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2), <em>мед</em> (<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>быттьӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2), <em>сӧмын</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 24, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4), <em>кор</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 11, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 3), <em>да</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 127, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2), <em>мыйла</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2), <em>быттьӧкӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 1), <em>моз</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 6, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>мый</em> (<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 38, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 20), <em>кӧть</em> (<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2), <em>мед</em> (<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>быттьӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2), <em>сӧмын</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 24, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4), <em>кор</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 11, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 3), <em>да</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 128, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2), <em>мыйла</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2), <em>быттьӧкӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 1), <em>моз</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 6, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>мый</em> (<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 7), <em>кӧть</em> (<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2), <em>быттьӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2), <em>сӧмын</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 21, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4), <em>кор</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 9, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>да</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 124, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>быттьӧкӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 1), <em>моз</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 6, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>мый</em> (<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 38, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 7), <em>кӧть</em> (<tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 9, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2), <em>быттьӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2), <em>сӧмын</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 21, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4), <em>кор</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 9, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1), <em>да</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 125, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>быттьӧкӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 1), <em>моз</em> (<tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> 6, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 1)
 
 
 * <em>мый</em>
-  * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 37: <em>— Он ӧд тӧд , <b>мый</b> татшӧма зэрны-гымавны кутас , — нурбыльті сӧмын .</em>
+  * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 38: <em>— Он ӧд тӧд , <b>мый</b> татшӧма зэрны-гымавны кутас , — нурбыльті сӧмын .</em>
   * <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 7: <em>Неприятель страшнӧй , бура кӧ он тӧд , кӧні сійӧ и <b>мый</b> сійӧ вӧчӧ .</em>
 * <em>кӧть</em>
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 9: <em>Мед жӧ нин , мися , <b>кӧть</b> кутшӧмкӧ тӧвру пӧльыштлас , думайта ас кежысь .</em>
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>мый</em> (<tt><a href="kpv_lattice
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 3: <em>И шензи нӧшта , <b>кор</b> тӧдмалі , мый шерыслӧн туйыс зэв векньыдик и вӧлӧма .</em>
   * <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1: <em>... том пожӧм сора кыдз - пипу сора берегыс кос , асъя югыд шонді син веравтӧдзыд серӧдӧма лыс да <b>кор</b> пырыс ялаа ягсӧ ...</em>
 * <em>да</em>
-  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 124: <em>Вундігӧн <b>да</b> тэчигӧн му вылӧ усьӧ уна шеп .</em>
+  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 125: <em>Вундігӧн <b>да</b> тэчигӧн му вылӧ усьӧ уна шеп .</em>
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4: <em>— Менамӧсь эськӧ <b>да</b> .</em>
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2: <em>И еджыд чериыс чукӧра олӧ , кульмыны жӧ лӧсьӧдчӧ <b>да</b> .</em>
   * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1: <em>Думайта <b>да</b> , мед кӧтӧдас .</em>
@@ -50,7 +50,7 @@ The 10 most frequent ambiguous types:  <em>мый</em> (<tt><a href="kpv_lattice
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.076923 (the average of all parts of speech is 1.476307).
+The form / lemma ratio of `SCONJ` is 1.076923 (the average of all parts of speech is 1.477594).
 
 The 1st highest number of forms (2) was observed with the lemma “мед”: <em>мед, медысь</em>.
 
@@ -63,17 +63,17 @@ The 3rd highest number of forms (1) was observed with the lemma “быттьӧ�
 `SCONJ` occurs with 3 feature-value pairs: `Case=Ela`, `Case=Nom`, `Number=Sing`
 
 `SCONJ` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (108 tokens).
+The most frequent feature combination is `_` (110 tokens).
 Examples: <em>мый, кӧ, кӧть, мед, медым, быттьӧ, сӧмын, кор, да, мыйла</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="kpv_lattice-dep-mark.html">mark</a></tt> (102; 93% instances), <tt><a href="kpv_lattice-dep-cc.html">cc</a></tt> (5; 5% instances), <tt><a href="kpv_lattice-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-dep-obj.html">obj</a></tt> (1; 1% instances)
+`SCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="kpv_lattice-dep-mark.html">mark</a></tt> (104; 93% instances), <tt><a href="kpv_lattice-dep-cc.html">cc</a></tt> (5; 4% instances), <tt><a href="kpv_lattice-dep-fixed.html">fixed</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt> (1; 1% instances), <tt><a href="kpv_lattice-dep-obj.html">obj</a></tt> (1; 1% instances)
 
-Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (85; 77% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (11; 10% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (8; 7% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (2; 2% instances)
+Parents of `SCONJ` nodes belong to 5 different parts of speech: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (86; 77% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (12; 11% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (8; 7% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (2; 2% instances)
 
-107 (97%) `SCONJ` nodes are leaves.
+109 (97%) `SCONJ` nodes are leaves.
 
 2 (2%) `SCONJ` nodes have one child.
 

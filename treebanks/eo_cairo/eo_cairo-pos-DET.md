@@ -27,12 +27,12 @@ The 1st highest number of forms (2) was observed with the lemma “tiu”: <em>t
 
 The 2nd highest number of forms (1) was observed with the lemma “la”: <em>la</em>.
 
-`DET` occurs with 3 features: <tt><a href="eo_cairo-feat-Case.html">Case</a></tt> (2; 20% instances), <tt><a href="eo_cairo-feat-Number.html">Number</a></tt> (2; 20% instances), <tt><a href="eo_cairo-feat-PronType.html">PronType</a></tt> (1; 10% instances)
+`DET` occurs with 4 features: <tt><a href="eo_cairo-feat-PronType.html">PronType</a></tt> (10; 100% instances), <tt><a href="eo_cairo-feat-Definite.html">Definite</a></tt> (8; 80% instances), <tt><a href="eo_cairo-feat-Case.html">Case</a></tt> (2; 20% instances), <tt><a href="eo_cairo-feat-Number.html">Number</a></tt> (2; 20% instances)
 
-`DET` occurs with 4 feature-value pairs: `Case=Acc`, `Case=Nom`, `Number=Sing`, `PronType=Dem`
+`DET` occurs with 6 feature-value pairs: `Case=Acc`, `Case=Nom`, `Definite=Def`, `Number=Sing`, `PronType=Art`, `PronType=Dem`
 
 `DET` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (8 tokens).
+The most frequent feature combination is `Definite=Def|PronType=Art` (8 tokens).
 Examples: <em>la</em>
 
 

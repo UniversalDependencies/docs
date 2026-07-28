@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-517 nodes (6%) are attached to their parents as `case`.
+531 nodes (7%) are attached to their parents as `case`.
 
-506 instances of `case` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5705996131528.
+520 instances of `case` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.55555555555556.
 
-The following 11 pairs of parts of speech are connected with `case`: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (330; 64% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (67; 13% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (39; 8% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (34; 7% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (15; 3% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (10; 2% instances), <tt><a href="es_coser-pos-X.html">X</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (8; 2% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `case`: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (346; 65% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (67; 13% instances), <tt><a href="es_coser-pos-ADV.html">ADV</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (39; 7% instances), <tt><a href="es_coser-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (34; 6% instances), <tt><a href="es_coser-pos-VERB.html">VERB</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (13; 2% instances), <tt><a href="es_coser-pos-NUM.html">NUM</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (10; 2% instances), <tt><a href="es_coser-pos-X.html">X</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (8; 2% instances), <tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (7; 1% instances), <tt><a href="es_coser-pos-DET.html">DET</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="es_coser-pos-AUX.html">AUX</a></tt>-<tt><a href="es_coser-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

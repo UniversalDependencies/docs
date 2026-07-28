@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 3 language-specific subtypes of `nmod`: <tt><a href="en_gentle-dep-nmod-desc.html">nmod:desc</a></tt>, <tt><a href="en_gentle-dep-nmod-poss.html">nmod:poss</a></tt>, <tt><a href="en_gentle-dep-nmod-unmarked.html">nmod:unmarked</a></tt>.
 
-638 nodes (4%) are attached to their parents as `nmod`.
+641 nodes (4%) are attached to their parents as `nmod`.
 
-628 instances of `nmod` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.39968652037618.
+632 instances of `nmod` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.43057722308892.
 
-The following 30 pairs of parts of speech are connected with `nmod`: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (416; 65% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (60; 9% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (35; 5% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (22; 3% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (15; 2% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (10; 2% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt>-<tt><a href="en_gentle-pos-X.html">X</a></tt> (10; 2% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (7; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 30 pairs of parts of speech are connected with `nmod`: <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (419; 65% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (61; 10% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (35; 5% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (22; 3% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (15; 2% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (10; 2% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt>-<tt><a href="en_gentle-pos-X.html">X</a></tt> (10; 2% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (7; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (4; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-DET.html">DET</a></tt> (4; 1% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-DET.html">DET</a></tt>-<tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt>-<tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="en_gentle-pos-X.html">X</a></tt>-<tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,21 +38,21 @@ The following 30 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 3 nmod	color:blue
-1	(	(	PUNCT	-LRB-	_	3	punct	3:punct	Discourse=context-circumstance:35->38:1:_|SpaceAfter=No
-2	Northern	Northern	ADJ	NNP	Degree=Pos	3	amod	3:amod	Entity=(53-place-new-nnnnn-cf4-1,2-sgl-Northern_England|MSeg=North-ern|XML=<ref target:::"https://en.wikipedia.org/wiki/English_language_in_Northern_England">
-3	England	England	PROPN	NNP	Number=Sing	10	nmod	10:nmod	Entity=53)|SpaceAfter=No|XML=</ref>
-4	)	)	PUNCT	-RRB-	_	3	punct	3:punct	_
-5	IPA	IPA	PROPN	NNP	Number=Sing	10	dep	10:dep	Discourse=organization-preparation:36->38:0:_|Entity=(51-abstract-giv:act-nsnnn-cf1*-1-coref-International_Phonetic_Alphabet)|SpaceAfter=No|XML=<w><ref target:::"https://en.wiktionary.org/wiki/Wiktionary:International_Phonetic_Alphabet"></ref>
-6	(	(	PUNCT	-LRB-	_	7	punct	7:punct	Discourse=elaboration-additional:37->36:0:_|SpaceAfter=No
-7	key	key	NOUN	NN	Number=Sing	5	parataxis	5:parataxis	Entity=(52-abstract-giv:act-nnnnn-cf2-1-coref)|SpaceAfter=No|XML=<ref target:::"https://en.wiktionary.org/wiki/Appendix:English_pronunciation"></ref>
-8	)	)	PUNCT	-RRB-	_	7	punct	7:punct	SpaceAfter=No|XML=</w>
-9	:	:	PUNCT	:	_	5	punct	5:punct	_
-10	/trʊst/	/trʊst/	NOUN	NN	Number=Sing	0	root	0:root	Discourse=joint-other_m:38->31:2:_|Entity=(6-abstract-giv:act-snsnn-cf3-1-coref)
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 8 nmod	color:blue
+1	letw1k3	letw1k3	PROPN	NNP	Number=Sing	2	nsubj	2:nsubj	Discourse=joint-sequence_m:103->97:2:_|Entity=(115-person-giv:inact-ssnnn-cf1-1-coref)
+2	pick	pick	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	0:root	CorrectForm=picks|XML=<sic ana:::"picks"></sic>
+3	up	up	ADP	RP	_	2	compound:prt	2:compound:prt	_
+4	his	his	PRON	PRP$	Case=Gen|Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	6:nmod:poss	Entity=(120-event-new-nnnnn-cf3-3-coref(115-person-giv:act-ssnnn-cf1-1-ana)
+5	first	first	ADJ	JJ	Degree=Pos|NumForm=Word|NumType=Ord	6	amod	6:amod	_
+6	elimination	elimination	NOUN	NN	Number=Sing	2	obj	2:obj	MSeg=eliminat-ion
+7	of	of	ADP	IN	_	8	case	8:case	_
+8	Game	Game	PROPN	NNP	Number=Sing	6	nmod	6:nmod:of	Entity=(38-event-giv:inact-nnsnn-cf2-1,2-coref
+9	six	six	NUM	CD	NumForm=Word|NumType=Card	8	flat	8:flat	Entity=38)120)|SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 
@@ -63,7 +63,7 @@ The following 30 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 13 nmod	color:blue
-1	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=joint-list_m:60->58:0:_|Entity=(86-abstract-acc:com-nnnnn-cf1-3-sgl|XML=<hi rend:::"italic">
+1	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=joint-list_m:60->58:0:sem-lxchn-252,266-gold|Entity=(86-abstract-acc:com-nnnnn-cf1-3-sgl|XML=<hi rend:::"italic">
 2	next	next	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
 3	chapter	chapter	NOUN	NN	Number=Sing	0	root	0:root	Entity=86)|SpaceAfter=No
 4	;	;	PUNCT	:	_	7	punct	7:punct	_

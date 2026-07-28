@@ -28,7 +28,7 @@ The following 13 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 3	Mi	mi	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 4	naskiĝis	naskiĝi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 5	en	en	ADP	_	_	7	case	_	_
-6	la	la	DET	_	Definite=Def	7	det	_	_
+6	la	la	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	jaro	jaro	NOUN	_	Case=Nom|Number=Sing	4	obl	_	SpaceAfter=No
 8	:	:	PUNCT	_	_	4	punct	_	_
 

@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 4	απογοητεύτηκε	απογοητεύω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	11	advcl	_	_
 5	από	από	ADP	_	_	7	case	_	_
 6	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	είδηση	είδηση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obl:agent	_	_
+7	είδηση	είδηση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obl:agent	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	4	punct	_	PunctType=Comm
 9	δεν	δεν	PART	_	Polarity=Neg	11	advmod	_	_
 10	το	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
@@ -68,7 +68,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 16	fgColor:white
 # visual-style 16 15 obl:agent	color:blue
 1	Αυτά	αυτός	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Dem	16	nsubj:pass	_	_
-2	που	που	PRON	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Rel	4	obj	_	_
+2	που	που	PRON	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	4	obj	_	_
 3	σου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
 4	είπε	λέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	_
 5	ο	ο	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_

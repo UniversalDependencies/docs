@@ -66,7 +66,7 @@ The following 1 pairs of parts of speech are connected with `orphan:objobl`: <tt
 41	دغسې	دغسې	DET	_	Deixis=Prox|PronType=Dem|Variant=Long	42	det	_	Translit=dáġase|LTranslit=dáġase|Gloss=like-this
 42	خرافاتو	خرافه	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	46	nmod	_	Translit=xirâfấto|LTranslit=xirâfá|Gloss=myths
 43	او	او	CCONJ	_	_	45	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-44	لارورکوونکو	لارورکوونکی	ADJ	_	Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	45	amod	_	Translit=lârwrëkawúnko|LTranslit=lârwrëkawúnkay|Gloss=stray
+44	لارورکوونکو	لارورکوونکی	ADJ	_	Case=Acc|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	45	amod	_	Translit=lârwrëkawúnko|LTranslit=lârwrëkawúnkay|Gloss=stray|LDeriv=لارورکول|LDTranslit=lârwrëkawë́l
 45	هنرونو	هنر	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	42	conj	_	Translit=hunarúno|LTranslit=hunár|Gloss=arts
 46	مخه	مخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	48	obj	_	Translit=më́xa|LTranslit=më́xa|Gloss=way
 47	هم	هم	ADV	_	_	48	advmod	_	Translit=ham|LTranslit=ham|Gloss=also

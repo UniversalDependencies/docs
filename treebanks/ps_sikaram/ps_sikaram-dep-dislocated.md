@@ -103,10 +103,10 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 10	نو	نو	ADV	_	_	21	advmod	_	Translit=no|LTranslit=no|Gloss=so
 11	یوه	یو	NUM	_	Case=Nom|Gender=Fem|NumType=Card	12	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
 12	ستونزه	ستونزه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	21	dislocated	_	Translit=stúnza|LTranslit=stúnza|Gloss=difficulty
-13	چې	چې	PRON	_	PronType=Rel	19	obl	_	Translit=če|LTranslit=če|Gloss=that
+13	چې	چې	SCONJ	_	_	19	mark	_	Translit=če|LTranslit=če|Gloss=that
 14	زموږ	موږ	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	15	nmod	_	Translit=zmuǧ|LTranslit=muǧ|Gloss=our
 15	لیکوال	لیکوال	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	Translit=likwấl|LTranslit=likwấl|Gloss=writer
-16	ور	ور	PRON	_	Person=3|PronType=Prs|Variant=Dir	13	nmod	_	Translit=war|LTranslit=war|Gloss=it
+16	ور	ور	PRON	_	Person=3|PronType=Prs|Variant=Dir	13	obl	_	Translit=war|LTranslit=war|Gloss=it
 17	سره	سره	ADP	_	Case=Acc	16	case	_	Translit=sará|LTranslit=sará|Gloss=with
 18	مخ	مخ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	19	compound:lvc	_	Translit=mëx|LTranslit=mëx|Gloss=face
 19	کېږي	کېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	Translit=kéǧi|LTranslit=kedë́l|Gloss=is-done|SpaceAfter=No

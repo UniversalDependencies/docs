@@ -25,7 +25,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	Cem	Cem	PROPN	_	Case=Nom|Number=Sing|Person=3	3	nsubj	_	Lang=tr
 2	Yılmaz	Yılmaz	PROPN	_	Case=Nom|Number=Sing|Person=3	1	flat	_	Lang=tr
 3	yapsa	yap	VERB	_	Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Pres	6	advcl	_	Lang=tr
-4	I	I	PRON	_	_	6	nsubj	_	Lang=en
+4	I	I	PRON	_	PronType=Prs	6	nsubj	_	Lang=en
 5	would	would	AUX	_	_	6	aux	_	Lang=en
 6	laugh	laugh	VERB	_	_	0	root	_	Lang=en
 7	yani	yani	CCONJ	_	_	6	discourse	_	Lang=tr|SpaceAfter=No

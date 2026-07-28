@@ -31,4 +31,4 @@ the `NomAg` and `Vnoun` value can also be used with [nouns](kpv-pos/Noun).
 
 - _вайӧ_ “he/she/it brings (something)”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:52 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:22 CEST -->

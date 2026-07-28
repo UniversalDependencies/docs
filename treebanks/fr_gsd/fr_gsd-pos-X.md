@@ -81,9 +81,9 @@ Examples: <em>the, of, and, de, in, for, Company, a, me, live</em>
 
 Parents of `X` nodes belong to 11 different parts of speech: <tt><a href="fr_gsd-pos-X.html">X</a></tt> (1511; 51% instances), <tt><a href="fr_gsd-pos-NOUN.html">NOUN</a></tt> (648; 22% instances), <tt><a href="fr_gsd-pos-PROPN.html">PROPN</a></tt> (464; 16% instances), <tt><a href="fr_gsd-pos-VERB.html">VERB</a></tt> (254; 9% instances), <tt><a href="fr_gsd-pos-ADJ.html">ADJ</a></tt> (23; 1% instances), <tt><a href="fr_gsd-pos-PRON.html">PRON</a></tt> (15; 1% instances), <tt><a href="fr_gsd-pos-NUM.html">NUM</a></tt> (12; 0% instances),  (11; 0% instances), <tt><a href="fr_gsd-pos-ADV.html">ADV</a></tt> (9; 0% instances), <tt><a href="fr_gsd-pos-SYM.html">SYM</a></tt> (6; 0% instances), <tt><a href="fr_gsd-pos-ADP.html">ADP</a></tt> (4; 0% instances)
 
-1885 (64%) `X` nodes are leaves.
+1886 (64%) `X` nodes are leaves.
 
-244 (8%) `X` nodes have one child.
+243 (8%) `X` nodes have one child.
 
 242 (8%) `X` nodes have two children.
 

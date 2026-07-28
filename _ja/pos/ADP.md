@@ -19,4 +19,4 @@ Note that some particles (助詞) in Japanese are classified to other Universal 
 - _<b>を</b>&nbsp;_ accusative case postpositional particle (`particle (case)` / 助詞-格助詞)
 - _<b>は</b>&nbsp;_ a binding particle mainly used as a topic marker (`particle (binding)` / 助詞-係助詞)
 - _<b>だけ</b>&nbsp;_ an adverbial particle (`particle (adverbial)` / 助詞-副助詞)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:44 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:33 CEST -->

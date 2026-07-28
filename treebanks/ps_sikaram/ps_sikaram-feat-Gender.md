@@ -9,132 +9,134 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Fem`, `Masc`.
 
-1740 tokens (43%) have a non-empty value of `Gender`.
-821 types (76%) occur at least once with a non-empty value of `Gender`.
-653 lemmas (78%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (870; 21% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (434; 11% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (147; 4% instances), <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (86; 2% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (78; 2% instances), <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (71; 2% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (41; 1% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (13; 0% instances).
+2379 tokens (44%) have a non-empty value of `Gender`.
+1071 types (78%) occur at least once with a non-empty value of `Gender`.
+823 lemmas (79%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1156; 21% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (578; 11% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (217; 4% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> (137; 3% instances), <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (123; 2% instances), <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (88; 2% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (52; 1% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (28; 1% instances).
 
 ### `NOUN`
 
-870 <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+1156 <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (614; 71%), <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt> (477; 55%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (824; 71%), <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt> (602; 52%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (380; 44% of non-empty `Gender`): <em>ژبه, ژبې, ژباړې, ژباړه, ژبو, توګه, خوا, مانا, برخه, خبرې</em>
-* `Masc` (490; 56% of non-empty `Gender`): <em>کار, خلکو, کتابونه, خلک, ډول, کتابونو, کسان, وخت, ژوند, ارزښت</em>
+* `Fem` (498; 43% of non-empty `Gender`): <em>ژبه, ژبې, خوا, ژباړې, ژباړه, ژبو, توګه, خبرې, برخه, ستونزه</em>
+* `Masc` (658; 57% of non-empty `Gender`): <em>کار, کتابونه, وخت, خلکو, ډول, خلک, کتابونو, کسان, ډګر, دود</em>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (382) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (481) occur only with one value of `Gender`.
 
 ### `ADJ`
 
-434 <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
+578 <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt> (301; 69%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (270; 62%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt> (389; 67%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (366; 63%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (172; 40% of non-empty `Gender`): <em>سمه, نورو, ناسمه, ښه, اصلي, زياتې, بله, نورې, زياته, ستره</em>
-* `Masc` (262; 60% of non-empty `Gender`): <em>زيات, نورو, زده, ټولنیز, اړوند, جوړ, نور, ټولنیزو, پوهنیزو, اسلامي</em>
-* `EMPTY` (1): <em>خپور</em>
+* `Fem` (227; 39% of non-empty `Gender`): <em>سمه, نورو, بله, ناسمه, ښه, اصلي, زياتې, زياته, ستره, نورې</em>
+* `Masc` (351; 61% of non-empty `Gender`): <em>زده, زيات, نورو, ټولنیز, پوهنیزو, اړ, جوړ, نور, اړوند, لږ</em>
+* `EMPTY` (8): <em>ق, هـ, خپور, م</em>
 
 <table>
   <tr><th>Paradigm <i>نور</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>نورو</em></td><td><em>نورو</em></td></tr>
   <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>نورو</em></td><td><em>نورو</em></td></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>نور</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>نور</em></td><td><em>نوره</em></td></tr>
   <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>نور</em></td><td><em>نورې</em></td></tr>
 </table>
 
 ### `PROPN`
 
-147 <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Gender`.
+217 <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (131; 89%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (192; 88%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (79; 54% of non-empty `Gender`): <em>پښتو, اردو, پاړسي, عربي, مریم, امريکا, انګرېزۍ, انګرېزي, ايینې, براون</em>
-* `Masc` (68; 46% of non-empty `Gender`): <em>پښتانه, احمد, وحید, پښتنو, پیتر, پنج, کتاب, افغان, ايران, ايرانیان</em>
+* `Fem` (108; 50% of non-empty `Gender`): <em>پښتو, اردو, پاړسي, عربي, دري, مریم, امريکا, انګرېزۍ, کوټه, انګرېزي</em>
+* `Masc` (109; 50% of non-empty `Gender`): <em>پښتانه, افغانستان, پښتنو, کابل, احمد, بابا, وحید, پیتر, خوشال, پنج</em>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 100% lemmas (53) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (67) occur only with one value of `Gender`.
+
+### `VERB`
+
+137 <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> tokens (31% of all `VERB` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (135; 99%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (99; 72%), <tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (79; 58%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt> (79; 58%), <tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (79; 58%), <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (77; 56%).
+
+`VERB` tokens may have the following values of `Gender`:
+
+* `Fem` (51; 37% of non-empty `Gender`): <em>کړې, کړه, شوه, شوې, موندلې, وه, وکړه, تدريسوله, خوړلې, درلوده</em>
+* `Masc` (86; 63% of non-empty `Gender`): <em>شو, شوي, شوی, کړی, وواهه, ويلي, کاوه, وکړ, کول, کړ</em>
+* `EMPTY` (311): <em>لري, کوي, کړي, کېږي, شي, کولای, شته, ورکوي, ژباړل, راځي</em>
+
+<table>
+  <tr><th>Paradigm <i>کول</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>کاوه</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>کول</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="ps_sikaram-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>کوو</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=Long</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>وکړ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>کړه, وکړه</em></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>کړ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>کړل</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>کړی</em></td><td><em>کړې</em></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>کړي</em></td><td></td></tr>
+</table>
 
 ### `AUX`
 
-86 <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> tokens (40% of all `AUX` tokens) have a non-empty value of `Gender`.
+123 <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> tokens (45% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (84; 98%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (76; 88%), <tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (72; 84%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt> (72; 84%), <tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (72; 84%), <tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (60; 70%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (118; 96%), <tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (103; 84%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (103; 84%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt> (103; 84%), <tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (103; 84%), <tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (72; 59%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Fem` (46; 53% of non-empty `Gender`): <em>ده, وه, دي, شوې</em>
-* `Masc` (40; 47% of non-empty `Gender`): <em>دی, شوی, شوي, دﺉ, و, وو, شو, کېدل</em>
-* `EMPTY` (130): <em>شي, به, وي, کېږي, دي, ونه, شو, شوای, شې, وای</em>
+* `Fem` (65; 53% of non-empty `Gender`): <em>ده, وه, شوې, دي, شوه, شوي, وې</em>
+* `Masc` (58; 47% of non-empty `Gender`): <em>دی, شوی, شوي, و, وو, دﺉ, شول, شو, کېدل</em>
+* `EMPTY` (148): <em>شي, به, دي, وي, کېږي, شو, شوای, شې, وای, وکولای</em>
 
 <table>
   <tr><th>Paradigm <i>ول</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>و</em></td><td><em>وه</em></td></tr>
   <tr><td><tt><tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>دی, دﺉ</em></td><td><em>ده</em></td></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>وو</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>وو</em></td><td><em>وې</em></td></tr>
   <tr><td><tt><tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>دي</em></td></tr>
-</table>
-
-### `VERB`
-
-78 <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> tokens (24% of all `VERB` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (77; 99%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (55; 71%), <tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (42; 54%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt> (42; 54%), <tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (42; 54%), <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (40; 51%).
-
-`VERB` tokens may have the following values of `Gender`:
-
-* `Fem` (23; 29% of non-empty `Gender`): <em>کړه, کړې, شوه, شوې, درلوده, رسولې, شویو, لوېدلې, ورکړې, وهله</em>
-* `Masc` (55; 71% of non-empty `Gender`): <em>کړی, شو, شوي, شوی, وواهه, کړل, کړي, کښل, تړلي, راوغزول</em>
-* `EMPTY` (249): <em>کوي, لري, کړي, شي, کېږي, ژباړل, کولای, ورکوي, شته, وايي</em>
-
-<table>
-  <tr><th>Paradigm <i>کول</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>کاوه</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=Long</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>وکړ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>کړه, وکړه</em></td></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>کړ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="ps_sikaram-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>کړل</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>کړی</em></td><td><em>کړې</em></td></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ps_sikaram-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>کړي</em></td><td></td></tr>
 </table>
 
 ### `DET`
 
-71 <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> tokens (45% of all `DET` tokens) have a non-empty value of `Gender`.
+88 <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> tokens (45% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (63; 89%), <tt><a href="ps_sikaram-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (54; 76%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (49; 69%), <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (49; 69%), <tt><a href="ps_sikaram-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (49; 69%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (78; 89%), <tt><a href="ps_sikaram-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (64; 73%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (62; 70%), <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (62; 70%), <tt><a href="ps_sikaram-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (62; 70%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (37; 52% of non-empty `Gender`): <em>دې, خپله, هرې, هره, ټوله, ټولې, کومه, کومې, هغه, همدې</em>
-* `Masc` (34; 48% of non-empty `Gender`): <em>خپل, هر, کوم, ټول, خپلو, دغه, دې, هغه, هماغه</em>
-* `EMPTY` (87): <em>دغه, هغه, داسې, ځینې, څو, دې, همدغه, دغسې, هماغه, ځینو</em>
+* `Fem` (47; 53% of non-empty `Gender`): <em>دې, کومه, خپله, هرې, هره, هغه, همدې, ټوله, ټولې, کومې</em>
+* `Masc` (41; 47% of non-empty `Gender`): <em>خپل, هر, کوم, خپلو, ټول, دغه, دې, هغه, هماغه</em>
+* `EMPTY` (108): <em>دغه, هغه, دې, ځینې, څو, داسې, همدغه, دا, دغسې, هماغه</em>
 
 <table>
-  <tr><th>Paradigm <i>خپل</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>خپل</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>خپلو</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>خپل</em></td><td><em>خپله</em></td></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>خپل</em></td><td><em>خپله</em></td></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>خپل</em></td><td></td></tr>
+  <tr><th>Paradigm <i>دا</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>دې</em></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>دې</em></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>دې</em></td><td><em>دې</em></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td><em>دې</em></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>دې</em></td></tr>
 </table>
 
 ### `NUM`
 
-41 <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> tokens (89% of all `NUM` tokens) have a non-empty value of `Gender`.
+52 <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> tokens (75% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (41; 100%), <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt> (28; 68%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (52; 100%), <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Nom</tt> (36; 69%).
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (21; 51% of non-empty `Gender`): <em>یوه, یوې, دوې</em>
-* `Masc` (20; 49% of non-empty `Gender`): <em>یو, یوه, دوه</em>
-* `EMPTY` (5): <em>دوو, 1, 30, 40</em>
+* `Fem` (30; 58% of non-empty `Gender`): <em>یوه, یوې, دوې</em>
+* `Masc` (22; 42% of non-empty `Gender`): <em>یو, یوه, دوه</em>
+* `EMPTY` (17): <em>دوو, 0053, 1, 1032, 1044, 1075, 1100, 1106, 1525, 1858</em>
 
 <table>
   <tr><th>Paradigm <i>یو</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -146,33 +148,33 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 ### `PRON`
 
-13 <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Gender`.
+28 <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> tokens (13% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 92%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7; 54%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=Sing</tt> (27; 96%), <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (24; 86%), <tt><a href="ps_sikaram-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (20; 71%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=3</tt> (16; 57%), <tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Acc</tt> (15; 54%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (8; 62% of non-empty `Gender`): <em>دې, هغې, دا</em>
-* `Masc` (5; 38% of non-empty `Gender`): <em>هغۀ, ټولو, څوک</em>
-* `EMPTY` (183): <em>يې, چې, ور, دا, دوی, دې, هغوی, یې, ځان, زموږ</em>
+* `Fem` (14; 50% of non-empty `Gender`): <em>خپله, هغې, دا, دې</em>
+* `Masc` (14; 50% of non-empty `Gender`): <em>ده, هغۀ, هغه, دی, ټولو, څوک</em>
+* `EMPTY` (188): <em>يې, ور, دا, یې, دوی, دې, هغوی, ځان, څه, زموږ</em>
 
 <table>
   <tr><th>Paradigm <i>هغه</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>هغۀ</em></td><td><em>هغې</em></td></tr>
+  <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>هغۀ, هغه</em></td><td><em>هغې</em></td></tr>
   <tr><td><tt><tt><a href="ps_sikaram-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td></td><td><em>هغې</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="ps_sikaram-dep-amod.html">amod</a></tt>]--> ADJ</tt> (253; 100%),
-<tt>NOUN --[<tt><a href="ps_sikaram-dep-conj.html">conj</a></tt>]--> NOUN</tt> (51; 62%),
-<tt>NOUN --[<tt><a href="ps_sikaram-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (38; 93%),
-<tt>NOUN --[<tt><a href="ps_sikaram-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (26; 60%),
-<tt>ADJ --[<tt><a href="ps_sikaram-dep-conj.html">conj</a></tt>]--> ADJ</tt> (25; 96%),
-<tt>ADJ --[<tt><a href="ps_sikaram-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (22; 88%),
-<tt>ADJ --[<tt><a href="ps_sikaram-dep-cop.html">cop</a></tt>]--> AUX</tt> (20; 63%),
-<tt>VERB --[<tt><a href="ps_sikaram-dep-aux-perf.html">aux:perf</a></tt>]--> AUX</tt> (12; 60%),
-<tt>NOUN --[<tt><a href="ps_sikaram-dep-compound.html">compound</a></tt>]--> NOUN</tt> (10; 100%),
-<tt>ADJ --[<tt><a href="ps_sikaram-dep-appos.html">appos</a></tt>]--> ADJ</tt> (7; 100%).
+<tt>NOUN --[<tt><a href="ps_sikaram-dep-amod.html">amod</a></tt>]--> ADJ</tt> (329; 99%),
+<tt>NOUN --[<tt><a href="ps_sikaram-dep-conj.html">conj</a></tt>]--> NOUN</tt> (65; 61%),
+<tt>NOUN --[<tt><a href="ps_sikaram-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (48; 91%),
+<tt>NOUN --[<tt><a href="ps_sikaram-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (44; 62%),
+<tt>ADJ --[<tt><a href="ps_sikaram-dep-conj.html">conj</a></tt>]--> ADJ</tt> (35; 97%),
+<tt>ADJ --[<tt><a href="ps_sikaram-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (28; 93%),
+<tt>VERB --[<tt><a href="ps_sikaram-dep-conj.html">conj</a></tt>]--> VERB</tt> (27; 52%),
+<tt>ADJ --[<tt><a href="ps_sikaram-dep-cop.html">cop</a></tt>]--> AUX</tt> (26; 63%),
+<tt>VERB --[<tt><a href="ps_sikaram-dep-aux-perf.html">aux:perf</a></tt>]--> AUX</tt> (26; 70%),
+<tt>PROPN --[<tt><a href="ps_sikaram-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (16; 100%).
 

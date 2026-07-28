@@ -29,7 +29,7 @@ The following 16 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 5	αὐτὸν	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Prs	3	obl	_	Gloss=he,she,it,-self,same|Ref=GEN_17.22
 6	καὶ	καί	CCONJ	_	_	7	cc	_	Gloss=and,also,even,then,next|Ref=GEN_17.22
 7	ἀνέβη	ἀναβαίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	Gloss=to-ascend,mount|Ref=GEN_17.22
-8	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Gloss=the;-oh|Ref=GEN_17.22
+8	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	Gloss=the;-oh|Ref=GEN_17.22
 9	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Gloss=god|Ref=GEN_17.22
 10	ἀπὸ	ἀπό	ADP	_	_	11	case	_	Gloss=from,away-from|Ref=GEN_17.22
 11	Ἁβραάμ	Ἁβραάμ	PROPN	_	Gender=Masc|Number=Sing	7	obl	_	Gloss=Abraham|Ref=GEN_17.22|SpaceAfter=No

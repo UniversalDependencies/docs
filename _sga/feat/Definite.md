@@ -38,4 +38,4 @@ Prepositions which precede determiners other than the article, even definite det
 * _cosmail <b>leiss</b>_ "alike <b>to him</b>"
 * _arropad maith <b>lim</b>sa_ "for it should be fine <b>with me</b>"
 * _isairdircc <b>í</b>cachthír_ "it is well known <b>in</b> every country"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:09 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->

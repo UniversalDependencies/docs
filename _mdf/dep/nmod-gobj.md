@@ -16,4 +16,4 @@ obl(суван-4, Кинди-1)
 xcomp(суван-4, петема-3)
 punct(суван-4, ?-5)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:07 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:18 CEST -->

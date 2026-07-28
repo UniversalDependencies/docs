@@ -33,7 +33,7 @@ The following 1 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 9	Eminem	Eminem	PROPN	S	Case=Nom|Number=Sing	10	nsubj	10:nsubj|13:nsubj	Arg=minema_Arg_0|NE=B-Per
 10	läks	minema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	Verb=minema_1
 11	keset	keset	ADP	K	AdpType=Prep	12	case	12:case	_
-12	kontserti	kontsert	NOUN	S	Case=Par|Number=Sing	10	obl	10:obl	_
+12	kontserti	kontsert	NOUN	S	Case=Par|Number=Sing	10	obl:tmod	10:obl	_
 13	kaklema	kaklema	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	10	xcomp	10:xcomp	Arg=minema_Arg_5
 14	pealtvaatajaga	pealt_vaataja	NOUN	S	Case=Com|Number=Sing	13	obl	13:obl	SpaceAfter=No
 15	.	.	PUNCT	Z	_	10	punct	10:punct	_

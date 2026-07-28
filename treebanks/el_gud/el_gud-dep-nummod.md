@@ -10,8 +10,8 @@ This relation is universal.
 
 84 nodes (0%) are attached to their parents as `nummod`.
 
-78 instances of `nummod` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.26190476190476.
+79 instances of `nummod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.23809523809524.
 
 The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (77; 92% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (4; 5% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt>-<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
@@ -45,7 +45,7 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Ανακρίνατε	ανακρίνω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	τους	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 3	δυο	δύο	NUM	_	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	4	nummod	_	_
-4	Ασιάτες	Ασιάτης	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	_
+4	Ασιάτες	Ασιάτης	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
 5	;	;	PUNCT	_	_	1	punct	_	PunctType=Qest
 
 ~~~
@@ -57,14 +57,14 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 6 nummod	color:blue
-1	«	«	PUNCT	_	_	2	punct	_	PunctType=Quot
+1	«	«	PUNCT	_	_	2	punct	_	PunctType=Quot|SpaceAfter=No
 2	Ένας	ένας	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	0	root	_	_
 3	από	από	ADP	_	_	6	case	_	_
 4	τους	ο	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 5	μεγαλύτερους	μεγάλος	ADJ	_	Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	6	amod	_	_
 6	εφοπλιστές	εφοπλιστής	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	2	nummod	_	_
 7	που	που	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	8	obj	_	_
-8	έχουμε	έχω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	_
+8	έχουμε	έχω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	SpaceAfter=No
 9	»	»	PUNCT	_	_	2	punct	_	PunctType=Quot|SpaceAfter=No
 10	.	.	PUNCT	_	_	2	punct	_	PunctType=Peri
 

@@ -9,25 +9,25 @@ udver: '2'
 This feature is language-specific.
 It occurs with 7 different values: `Ast`, `Geo`, `Giv`, `Met`, `Nat`, `Rel`, `Sur`.
 
-1260 tokens (5%) have a non-empty value of `NameType`.
-783 types (8%) occur at least once with a non-empty value of `NameType`.
-499 lemmas (12%) occur at least once with a non-empty value of `NameType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (833; 3% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (273; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (154; 1% instances).
+1350 tokens (5%) have a non-empty value of `NameType`.
+816 types (8%) occur at least once with a non-empty value of `NameType`.
+512 lemmas (12%) occur at least once with a non-empty value of `NameType`.
+The feature is used with 3 part-of-speech tags: <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (901; 3% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (295; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (154; 1% instances).
 
 ### `PROPN`
 
-833 <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `NameType`.
+901 <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (715; 86%), <tt><a href="la_circse-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (660; 79%), <tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (506; 61%).
+The most frequent other feature values with which `PROPN` and `NameType` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (770; 85%), <tt><a href="la_circse-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (715; 79%), <tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (543; 60%).
 
 `PROPN` tokens may have the following values of `NameType`:
 
-* `Ast` (15; 2% of non-empty `NameType`): <em>Arctos, Hesperum, Luna, Aurora, Auroram, Bootes, Lucifer, Luciferi, Orion, Perseus</em>
-* `Geo` (253; 30% of non-empty `NameType`): <em>Germaniae, Troia, Argos, Cithaeron, Rhenum, Stygis, Tartari, Thebis, Mycenas, Styga</em>
-* `Giv` (264; 32% of non-empty `NameType`): <em>Alcidae, Herculis, Lycus, Theseu, Alcides, Herculem, Agamemnon, Alcide, Aegisthe, Eurystheus</em>
+* `Ast` (16; 2% of non-empty `NameType`): <em>Arctos, Hesperum, Luna, Aurora, Auroram, Bootes, Hesperus, Lucifer, Luciferi, Orion</em>
+* `Geo` (284; 32% of non-empty `NameType`): <em>Germaniae, Cithaeron, Thebis, Argos, Troia, Rhenum, Stygis, Tartari, Mycenas, Styga</em>
+* `Giv` (278; 31% of non-empty `NameType`): <em>Alcidae, Herculis, Lycus, Theseu, Alcides, Herculem, Agamemnon, Alcide, Cadmi, Aegisthe</em>
 * `Met` (17; 2% of non-empty `NameType`): <em>Auster, Austro, Notus, Zephyri, Aquilo, Boreae, Boreas, Corus, Euro, Eurus</em>
-* `Nat` (39; 5% of non-empty `NameType`): <em>Danaum, Phrygibus, Phrygum, Danais, Iliades, Indos, Troades, Aethiopas, Amazon, Arabas</em>
-* `Rel` (228; 27% of non-empty `NameType`): <em>Phoebus, Ditis, Manes, Phoebi, Titan, Fortuna, Bacchi, Iouis, Iuno, Iouem</em>
+* `Nat` (39; 4% of non-empty `NameType`): <em>Danaum, Phrygibus, Phrygum, Danais, Iliades, Indos, Troades, Aethiopas, Amazon, Arabas</em>
+* `Rel` (250; 28% of non-empty `NameType`): <em>Phoebus, Ditis, Manes, Phoebi, Fortuna, Titan, Penates, Bacchi, Iouis, Iuno</em>
 * `Sur` (17; 2% of non-empty `NameType`): <em>Carbone, Aurelio, Caepione, Caesari, Caesaris, Cassio, Druso, Drusus, Iulius, Mallio</em>
 
 <table>
@@ -39,31 +39,30 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
   <tr><td><tt><tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Hercules</em></td><td></td></tr>
 </table>
 
-`NameType` seems to be **lexical feature** of `PROPN`. 98% lemmas (293) occur only with one value of `NameType`.
+`NameType` seems to be **lexical feature** of `PROPN`. 98% lemmas (302) occur only with one value of `NameType`.
 
 ### `ADJ`
 
-273 <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `NameType`.
+295 <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> tokens (8% of all `ADJ` tokens) have a non-empty value of `NameType`.
 
-The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="la_circse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (209; 77%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt> (164; 60%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (155; 57%).
+The most frequent other feature values with which `ADJ` and `NameType` co-occurred: <tt><a href="la_circse-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (231; 78%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt> (176; 60%), <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (167; 57%).
 
 `ADJ` tokens may have the following values of `NameType`:
 
-* `Geo` (133; 49% of non-empty `NameType`): <em>Thebana, Argolicas, Delphico, Gnosius, Libycus, Stygias, Stygios, Thracis, Actaea, Aegaeo</em>
-* `Giv` (45; 16% of non-empty `NameType`): <em>Herculea, Herculeis, Cadmea, Cadmeis, Herculeae, Herculeas, Herculeo, Pelopia, Agamemnonias, Amphionios</em>
-* `Nat` (84; 31% of non-empty `NameType`): <em>Germanorum, Germanos, Germani, Gallorum, Parthi, Romana, Romanis, Gallica, Gallos, Germanis</em>
-* `Rel` (11; 4% of non-empty `NameType`): <em>Phoebea, Herceum, Cyclopia, Eoo, Gorgoneo, Phoebei, Phoebeos, Zminthea</em>
+* `Geo` (146; 49% of non-empty `NameType`): <em>Thebana, Argolicas, Delphico, Gnosius, Libycus, Stygias, Stygios, Thracis, Actaea, Aegaea</em>
+* `Giv` (49; 17% of non-empty `NameType`): <em>Cadmea, Herculea, Herculeis, Herculeo, Cadmeis, Herculeae, Herculeas, Pelopia, Agamemnonias, Amphionios</em>
+* `Nat` (88; 30% of non-empty `NameType`): <em>Germanorum, Germanos, Germani, Gallorum, Parthi, Romana, Romanis, Gallica, Gallos, Germanis</em>
+* `Rel` (12; 4% of non-empty `NameType`): <em>Phoebea, Herceum, Cyclopia, Eoo, Gorgoneo, Phoebei, Phoebeos, Zminthea</em>
 
 <table>
-  <tr><th>Paradigm <i>eous</i></th><th><tt>Geo</tt></th><th><tt>Rel</tt></th></tr>
-  <tr><td><tt><tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Eoo</em></td></tr>
-  <tr><td><tt><tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Eois</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Eoos</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=IndEurA</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Eoae</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Eoi</em></td><td></td></tr>
+  <tr><th>Paradigm <i>argolicus</i></th><th><tt>Geo</tt></th><th><tt>Nat</tt></th></tr>
+  <tr><td><tt><tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Argolicas</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Argolicis</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Argolicae</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Argolica</em></td></tr>
 </table>
 
-`NameType` seems to be **lexical feature** of `ADJ`. 98% lemmas (134) occur only with one value of `NameType`.
+`NameType` seems to be **lexical feature** of `ADJ`. 98% lemmas (138) occur only with one value of `NameType`.
 
 ### `NOUN`
 
@@ -84,7 +83,7 @@ The most frequent other feature values with which `NOUN` and `NameType` co-occur
 ## Relations with Agreement in `NameType`
 
 The 10 most frequent relations where parent and child node agree in `NameType`:
-<tt>PROPN --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> PROPN</tt> (41; 76%),
+<tt>PROPN --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> PROPN</tt> (42; 75%),
 <tt>NOUN --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> NOUN</tt> (34; 77%),
 <tt>ADJ --[<tt><a href="la_circse-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5; 83%),
 <tt>PROPN --[<tt><a href="la_circse-dep-orphan.html">orphan</a></tt>]--> PROPN</tt> (5; 71%),

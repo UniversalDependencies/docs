@@ -69,7 +69,7 @@ The following 30 pairs of parts of speech are connected with `advmod`: <tt><a hr
 5	problem	problem	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 6	nepostojanje	nepostojanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
 7	pravih	prav	ADJ	Agpmpgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	_
-8	sindikata	sindikat	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
+8	sindikata	sindikat	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	Z	_	5	punct	_	_
 
 ~~~

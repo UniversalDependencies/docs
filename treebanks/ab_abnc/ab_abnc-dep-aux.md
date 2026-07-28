@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-19 nodes (0%) are attached to their parents as `aux`.
+27 nodes (0%) are attached to their parents as `aux`.
 
-19 instances of `aux` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.05263157894737.
+27 instances of `aux` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03703703703704.
 
-The following 1 pairs of parts of speech are connected with `aux`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (19; 100% instances).
+The following 1 pairs of parts of speech are connected with `aux`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-AUX.html">AUX</a></tt> (27; 100% instances).
 
 
 ~~~ conllu

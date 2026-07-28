@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-667 nodes (1%) are attached to their parents as `fixed`.
+665 nodes (1%) are attached to their parents as `fixed`.
 
-667 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.01499250374813.
+665 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.01654135338346.
 
-The following 11 pairs of parts of speech are connected with `fixed`: <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (398; 60% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (188; 28% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (44; 7% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (15; 2% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (10; 1% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `fixed`: <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (398; 60% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (186; 28% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (44; 7% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (15; 2% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (10; 2% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt>-<tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt>-<tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 6	fgColor:white
 # visual-style 6 7 fixed	color:blue
 1	ոչ	ոչ	PART	_	Polarity=Neg	2	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
-2	կարէ	կարել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=karē|LTranslit=karel|Gloss=be_able
+2	կարէ	կարել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=karē|LTranslit=karel|LId=1|Gloss=be_able
 3	քաղաք	քաղաք	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	Translit=kʻałakʻ|LTranslit=kʻałakʻ|Gloss=city
 4	թաքչել	թաքչել	VERB	_	VerbForm=Inf	2	xcomp	_	Translit=tʻakʻčʻel|LTranslit=tʻakʻčʻel|Gloss=hide
 5	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	9	nsubj	_	Translit=or|LTranslit=or|Gloss=who
@@ -78,7 +78,7 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 10	ետ	տալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	Translit=et|LTranslit=tal|Gloss=give
 11	ի	ի	ADP	_	ExtPos=ADP	13	case	_	Translit=i|LTranslit=i|LId=ի-1|Gloss=to
 12	ձեռս	ձեռն	NOUN	_	Case=Acc|Number=Plur	11	fixed	_	Translit=jeṙs|LTranslit=jeṙn|Gloss=hand
-13	նորա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	10	nmod	_	SpaceAfter=No|Translit=nora|LTranslit=na|Gloss=he/she/it
+13	նորա	նա	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	10	obl	_	SpaceAfter=No|Translit=nora|LTranslit=na|Gloss=he/she/it
 14	:	:	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 ~~~

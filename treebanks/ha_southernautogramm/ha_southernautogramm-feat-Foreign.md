@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (34; 100% of non-empty `Foreign`): <em>poison, police, kilaːs, sùkûːl, Eːbìːyù, TV, bitch, bìr̃êːk, chemistry, drinks</em>
-* `EMPTY` (1757): <em>àbin, àbîn, loːkàcîn, gidaː, zaːmàniː, àbù, irìn, ruwaː, zoːmoː, gàriː</em>
+* `EMPTY` (1778): <em>àbin, àbîn, loːkàcîn, gidaː, zaːmàniː, àbù, irìn, ruwaː, zoːmoː, gàriː</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (26) occur only with one value of `Foreign`.
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `INTJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (16; 100% of non-empty `Foreign`): <em>OK, lìllaːhì, àlhamdù, sòː</em>
-* `EMPTY` (904): <em>tòː, eː, ƙwar̃ai, ai, mː, na'àm, kâi, m̀ː, àː, tôː</em>
+* `EMPTY` (905): <em>tòː, eː, ƙwar̃ai, ai, mː, na'àm, kâi, m̀ː, àː, tôː</em>
 
 ### `VERB`
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (4; 100% of non-empty `Foreign`): <em>checking, escaping, pr̃etending</em>
-* `EMPTY` (2036): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
+* `EMPTY` (2037): <em>yi, cêː, jeː, ci, zoː, ga, sâː, baː, san, ganiː</em>
 
 ### `ADJ`
 
@@ -71,12 +71,10 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 
 1 <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADP` and `Foreign` co-occurred: <tt><a href="ha_southernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%).
-
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>of</em>
-* `EMPTY` (642): <em>dà, à, na, mài, kàman, cikin, dàgà, mà, wajen, ta</em>
+* `EMPTY` (482): <em>dà, à, kàman, dàgà, mà, cikin, ta, wajen, kân, baːyan</em>
 
 ### `ADV`
 
@@ -87,7 +85,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>especia~</em>
-* `EMPTY` (853): <em>sai, yànzu, dâː, hakà, nan, wai, ɗan, gàske, nân, ìnaː</em>
+* `EMPTY` (818): <em>sai, yànzu, dâː, hakà, nan, ɗan, gàske, nân, ìnaː, yandà</em>
 
 ### `CCONJ`
 

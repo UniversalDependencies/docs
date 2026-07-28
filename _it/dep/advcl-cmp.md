@@ -11,4 +11,4 @@ Comparative clause
 che è occulto come in erba l' angue .
 advcl:cmp(occulto, angue)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:02 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:29 CEST -->

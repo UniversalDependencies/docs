@@ -25,4 +25,4 @@ Word tokens consisting of digits and (optionally) punctuation characters are gen
 
 * _ǀgui_ "one", _ǀgam_ "two", _ǃnona_ "three", _ǀoadīsi_ "thousand"
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:51 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:36 CEST -->

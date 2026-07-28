@@ -8,30 +8,30 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ka_gnc-dep-acl.html">acl</a></tt>.
 
-137 nodes (1%) are attached to their parents as `acl:relcl`.
+140 nodes (1%) are attached to their parents as `acl:relcl`.
 
-133 instances of `acl:relcl` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.03649635036496.
+136 instances of `acl:relcl` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.03571428571429.
 
-The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (92; 67% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (16; 12% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (94; 67% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (16; 11% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (5; 4% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 9 acl:relcl	color:blue
-1	სახლს	სახლი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	5	nsubj	_	LMSeg:სახლ·ი
-2	ნახევარი	ნახევარი	NUM	Num_Frac_Alpha_Nom_Att	Case=Nom|NumType=Frac	3	nummod	_	LMSeg:ნახევ[ა]რ·ი
-3	ქცევა	ქცევა	NOUN	N_Meas_Nom_Att	Case=Nom	4	nmod	_	LMSeg:ქცევ[ა]
-4	მიწა	მიწა	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	5	obj	_	LMSeg:მიწ[ა]
-5	ჰქონდა	ქონა	VERB	V_MedPass_Inv_Impf_S:3Sg_DO:3	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin|Voice=Inv	0	root	_	LMSeg:ქონ[ა]/ქონ|SpaceAfter=No
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 9 acl:relcl	color:blue
+1	თურმე	თურმე	ADV	Adv_Comm	_	5	advmod	_	LMSeg:თურმე
+2	თავხედებად	თავხედი	ADJ	A_Advb_Pl_NewPl	Case=Ess|Number=Plur	5	advmod	_	LMSeg:თავხედ·ი
+3	იმდენნი	იმდენი	NOUN	N_Nom_Pl_OldPl_Guess	Case=Nom|Number=Plur	5	nsubj	_	LMSeg:იმდენ·ი
+4	არ	არ	ADV	Adv_Neg	_	5	advmod:neg	_	LMSeg:არ
+5	იბადებიან	დაბადება	VERB	V_Pass_Pres_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:და·ბადებ[ა]/ბად|SpaceAfter=No
 6	,	,	PUNCT	Punct_Comma	_	9	punct	_	LMSeg:,
-7	რომელსაც	რომელი	PRON	Pron_Rel_Dat_Sg_Rel:ც	Case=Dat|Number=Sing|PronType=Rel	9	iobj	_	LMSeg:რომ[ე]ლ·ი
-8	ბაღს	ბაღი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	9	xcomp	_	LMSeg:ბაღ·ი
-9	ეძახოდნენ	ძახება	VERB	V_MedAct_Impf_S:3Pl_IO:3	Mood=Ind|Number[subj]=Plur|Person[io]=3|Person[subj]=3|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	LMSeg:ძახებ[ა]/ძახ|SpaceAfter=No
-10	.	.	PUNCT	Punct_Period	_	5	punct	_	LMSeg:.
+7	რამდენნიც	რამდენი	PRON	Pron_Rel_Nom_Pl_OldPl_Rel:ც	Case=Nom|Number=Plur|PronType=Rel	9	nsubj	_	LMSeg:რამდენ·ი
+8	მერე	მერე	ADV	Adv_Temp	AdvType=Tim	9	advmod	_	LMSeg:მერე
+9	ხდებიან	ხდომა	VERB	V_Pass_Pres_S:3Pl	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	LMSeg:*·ხდომ[ა]/ხდ|SpaceAfter=No
+10	.	.	PUNCT	Punct_Period	_	9	punct	_	LMSeg:.
 
 ~~~
 
@@ -45,7 +45,7 @@ The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 1	ვნახოთ	ნახვა	VERB	V_Act_Opt_S:1Pl_DO:3	Mood=Sub|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Tense=Past|VerbForm=Fin	0	root	_	LMSeg:ნახვ[ა]/ნახ|SpaceAfter=No
 2	,	,	PUNCT	Punct_Comma	_	5	punct	_	LMSeg:,
 3	თუ	თუ	SCONJ	Cj_Sub	_	5	mark	_	LMSeg:თუ
-4	ვისმე	ვინ:მე	PRON	Pron_SIndef_Hum_Dat	Animacy=Anim|Case=Dat	5	nsubj	_	LMSeg:ვინ:მე
+4	ვისმე	ვინ:მე	PRON	Pron_SIndef_Hum_Dat	Animacy=Anim|Case=Dat|PronType=Ind	5	nsubj	_	LMSeg:ვინ:მე
 5	დამართნია	დამართება	VERB	V_MedPass_Inv_Perf_Pv_S:3Sg_DO:3	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=PastPerf|VerbForm=Fin|Voice=Inv	1	ccomp	_	LMSeg:და·მართებ[ა]/მართ
 6	იმისი	იმისი	PRON	Pron_Poss_Poss3Sg_Dist_Nom_Att	Case=Nom|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det:poss	_	LMSeg:იმის·ი
 7	მსგავსი	მსგავსი	ADJ	A_Nom_Sg	Case=Nom|Number=Sing	5	obj	_	LMSeg:მსგავს·ი|SpaceAfter=No
@@ -59,29 +59,19 @@ The following 13 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 17 acl:relcl	color:blue
-1	მწერი	მწერი	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	2	nsubj	_	LMSeg:მწერ·ი
-2	გრძნობს	გრძნობა	VERB	V_MedAct_Pres_S:3Sg_DO:3	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:გრძნობ[ა]/გრძნ|SpaceAfter=No
-3	,	,	PUNCT	Punct_Comma	_	7	punct	_	LMSeg:,
-4	რომ	რომ	SCONJ	Cj_Sub	_	7	mark	_	LMSeg:რომ
-5	მას	ის	PRON	Pron_Pers_3_Dat_Sg_PP_PP:ში	Case=Dat|Number=Sing|PronType=Prs	7	obl	_	LMSeg:ის|SpaceAfter=No
-6	ში	_ში	ADP	Pp	_	5	case	_	LMSeg:_ში
-7	თვლემს	თვლემა	VERB	V_Act_Pres_S:3Sg_DO:3	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	LMSeg:*·თვლემ[ა]/თვლემ
-8	ის	ის	PRON	Pron_Dem_Nom_Att	Case=Nom|PronType=Dem	9	det	_	LMSeg:ის
-9	ძალა	ძალა	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	7	nsubj	_	LMSeg:ძალ[ა]|SpaceAfter=No
-10	,	,	PUNCT	Punct_Comma	_	17	punct	_	LMSeg:,
-11	რომლის	რომელი	PRON	Pron_Rel_Gen_Sg_PP_PP:თვის_Rel:ც	Case=Gen|Number=Sing|PronType=Rel	17	obl	_	LMSeg:რომ[ე]ლ·ი|SpaceAfter=No
-12	თვისაც	_თვის	ADP	Pp	_	11	case	_	LMSeg:_თვის
-13	მხოლოდ	მხოლოდ	ADV	Adv_Deg	_	14	advmod	_	LMSeg:მხოლოდ
-14	მუსიკა	მუსიკა	NOUN	N_Nom_Sg	Case=Nom|Number=Sing	17	nsubj	_	LMSeg:მუსიკ[ა]
-15	არ	არ	ADV	Adv_Neg	_	17	advmod:neg	_	LMSeg:არ
-16	არის	ყოფნა	AUX	V_MedPass_Pres_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	17	cop	_	LMSeg:ყოფნ[ა]/არ
-17	საკმარისი	საკმარისი	ADJ	A_Nom_Sg	Case=Nom|Number=Sing	9	acl:relcl	_	LMSeg:საკმარის·ი|SpaceAfter=No
-18	.	.	PUNCT	Punct_Period	_	2	punct	_	LMSeg:.
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 acl:relcl	color:blue
+1	და	და	CCONJ	Cj_Coord	_	3	cc	_	LMSeg:და
+2	გულწრფელად	გულწრფელად	ADV	A_Advb_Sg	_	3	advmod	_	LMSeg:გულწრფელად
+3	მჯეროდა	ჯერება	VERB	V_MedAct_Impf_S:3Sg_IO:1Sg	Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:*·ჯერებ[ა]/ჯერ
+4	ყველაფერი	ყველაფერი	DET	A_Quant_Nom_Sg	Case=Nom|Number=Sing|PronType=Tot	3	obj	_	LMSeg:ყველაფ[ე]რ·ი|SpaceAfter=No
+5	,	,	PUNCT	Punct_Comma	_	7	punct	_	LMSeg:,
+6	რასაც	რა	PRON	Pron_Rel_Nonhum_Dat_Rel:ც	Case=Dat|PronType=Rel	7	iobj	_	LMSeg:რ[ა]
+7	ვლაპარაკობდი	ლაპარაკი	VERB	V_MedAct_Impf_S:1Sg_DO:3	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Imp|VerbForm=Fin	4	acl:relcl	_	LMSeg:ლაპარაკ·ი/ლაპარაკ|SpaceAfter=No
+8	.	.	PUNCT	Punct_Period	_	3	punct	_	LMSeg:.
 
 ~~~
 

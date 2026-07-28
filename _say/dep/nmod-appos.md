@@ -13,4 +13,4 @@ nmod:appos(lə̂p, Ɓóngaː)
 ~~~
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:21 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:16 CEST -->

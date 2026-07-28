@@ -23,7 +23,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 `DET` tokens may have the following values of `Poss`:
 
 * `Yes` (1459; 100% of non-empty `Poss`): <em>savu, savas, savā, savus, saviem, mans, sava, mana, savām, manu</em>
-* `EMPTY` (13869): <em>to, tas, tā, tās, šo, tam, visu, šī, kuru, kurš</em>
+* `EMPTY` (13870): <em>to, tas, tā, tās, šo, tam, visu, šī, kuru, kurš</em>
 
 `Poss` seems to be **lexical feature** of `DET`. 100% lemmas (10) occur only with one value of `Poss`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `PRON` and `Poss` co-occurred:
 `PRON` tokens may have the following values of `Poss`:
 
 * `Yes` (3; 100% of non-empty `Poss`): <em>Tawa, savas, savu</em>
-* `EMPTY` (10525): <em>kas, es, viņa, viņš, ko, man, mēs, viņu, viņi, tu</em>
+* `EMPTY` (10524): <em>kas, es, viņa, viņš, ko, man, mēs, viņu, viņi, tu</em>
 
 ## Relations with Agreement in `Poss`
 

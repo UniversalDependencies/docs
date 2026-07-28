@@ -69,4 +69,4 @@ employ the feature.
 #### Examples
 
 * _<b>Чи не</b> найбільший у світі_ "perhaps the largest in the world" (_чи_ = `PART`)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:15 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->

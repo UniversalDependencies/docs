@@ -1,91 +1,86 @@
 ---
 layout: base
-title:  'Statistics of appos in UD_Egyptian-UJaen'
+title:  'Statistics of appos in UD_Egyptian-PC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Egyptian-UJaen: Relations: `appos`
+## Treebank Statistics: UD_Egyptian-PC: Relations: `appos`
 
 This relation is universal.
 
-599 nodes (2%) are attached to their parents as `appos`.
+814 nodes (2%) are attached to their parents as `appos`.
 
-599 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.51919866444073.
+814 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.52457002457002.
 
-The following 22 pairs of parts of speech are connected with `appos`: <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> (191; 32% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (176; 29% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> (74; 12% instances), <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (74; 12% instances), <tt><a href="egy_ujaen-pos-NUM.html">NUM</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (19; 3% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (12; 2% instances), <tt><a href="egy_ujaen-pos-DET.html">DET</a></tt>-<tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> (11; 2% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (10; 2% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="egy_ujaen-pos-DET.html">DET</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-pos-X.html">X</a></tt>-<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-pos-DET.html">DET</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-pos-NUM.html">NUM</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_ujaen-pos-X.html">X</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 appos	color:blue
-1	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc	3	vocative	_	Hiero=𓊨:𓁹|Name=God
-2	Wnꞽś	Wnꞽś	PROPN	_	Gender=Masc	1	appos	_	Hiero=𓍹(𓃹:𓈖)𓇋𓋴𓍺|Name=King
-3	wp	wpi̯	VERB	_	Mood=Sub|VerbClass=3aeinf|VerbForm=Fin	0	root	_	Hiero=𓅱(𓊪:𓄋)|SPC=Sub
-4	⸗ꞽ	⸗ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Hiero=𓇋|Pron=SFP
-5	n	n	ADP	_	_	6	case	_	Hiero=𓈖|Status=Pron
-6	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl:arg	_	Hiero=𓎡|Pron=SFP
-7	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Hiero=𓂋:𓏤|Hierocl=𓏤
-8	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	7	nmod	_	Hiero=𓎡|Pron=SFP
-9	|	|	PUNCT	_	_	10	punct	_	LINE=Punct
-10	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	_	Hiero=𓊹
-11	Šmꜥ.w	Šmꜥ.w	PROPN	_	Gender=Masc	10	nmod:poss	_	Hiero=𓇗|Name=Place
-12	bꞽꜣ	bꞽꜣ	NOUN	_	Gender=Masc|Number=Sing	11	appos	_	Hiero=𓃀𓊌
-13	nčr	nčr	NOUN	_	Gender=Masc|Number=Sing	11	conj	_	Hiero=𓊹
-14	Mḥ.w	Mḥ.w	PROPN	_	Gender=Masc	13	nmod:poss	_	Hiero=𓇉|Name=Place
-15	bꞽꜣ	bꞽꜣ	NOUN	_	Gender=Masc|Number=Sing	13	appos	_	Hiero=(𓈟:UC_13F47)𓊌
-
-~~~
+The following 24 pairs of parts of speech are connected with `appos`: <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt> (294; 36% instances), <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> (212; 26% instances), <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt> (101; 12% instances), <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> (96; 12% instances), <tt><a href="egy_pc-pos-NUM.html">NUM</a></tt>-<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> (32; 4% instances), <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> (13; 2% instances), <tt><a href="egy_pc-pos-DET.html">DET</a></tt>-<tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> (10; 1% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> (8; 1% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt> (8; 1% instances), <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="egy_pc-pos-DET.html">DET</a></tt>-<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="egy_pc-pos-NUM.html">NUM</a></tt>-<tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="egy_pc-pos-X.html">X</a></tt>-<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="egy_pc-pos-DET.html">DET</a></tt>-<tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-NUM.html">NUM</a></tt>-<tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt>-<tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="egy_pc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt>-<tt><a href="egy_pc-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 14 appos	color:blue
-1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓
-2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃
-3	sp	sp	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Hiero=𓊗
-4	4	4	NUM	_	NumType=Card	3	nummod	_	Hiero=𓏽
-5	m	m	VERB	_	Mood=Imp|Number=Sing|VerbClass=Def|VerbForm=Fin	1	ccomp	_	Hiero=𓅓
-6	pr	pri̯	VERB	_	Mood=Sub|VerbClass=3aeinf|VerbForm=Fin	5	advcl	_	Clause=Final|Hiero=𓉐:𓂋|SPC=Sub
-7	tꞽ	tꞽ	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	Hiero=𓍘𓇋|Imprs=Man
-8	n	n	ADP	_	Case=Ben	9	case	_	Hiero=𓈖|Status=Pron
-9	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	obl	_	Hiero=𓎡|Pron=SFP
-10	ḫrw	ḫrw	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	Hiero=𓊤(𓐍:𓂋)𓃭|MWE=Yes
-11	|	|	PUNCT	_	_	12	punct	_	LINE=Punct
-12	ḳbḥ.w	ḳbḥ.w	NOUN	_	Gender=Masc|Number=Sing	1	parataxis	_	Hiero=𓏂
-13	bṭ	bṭ	NOUN	_	Gender=Masc|Number=Sing	12	conj	_	Hiero=UC_14104
-14	čꜣ	čꜣ	NOUN	_	Gender=Masc|Number=Sing	13	appos	_	Hiero=𓅷𓃉|Hierocl=𓃉
-15	2	2	NUM	_	NumType=Card	14	nummod	_	Hiero=𓏻
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 5 appos	color:blue
-1	m	m	VERB	_	Mood=Imp|Number=Sing|VerbClass=Def|VerbForm=Fin	0	root	_	Hiero=𓅓
-2	mnč̣	mnč̣	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=(𓏠:𓈖)(𓆓:𓂑)|Hierocl=𓂑
-3	śn.t	śn.t	NOUN	_	Gender=Fem|Number=Sing	2	nmod:poss	_	Hiero=𓌢𓏏
-4	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Emp	3	nmod	_	Hiero=𓎡|Pron=SFP
-5	Ꜣś.t	Ꜣś.t	PROPN	_	Gender=Fem	3	appos	_	Hiero=𓊨𓏏|Name=God
-6	bsꜣ.t	bsꜣ.t	X	_	_	5	dep	_	Hiero=𓃀𓎂𓄿𓏏
-7	ꞽčč	ꞽči̯	VERB	_	Mood=Ind|SubForm=AbstRel|Tense=Pres|VerbClass=3aeinf|VerbForm=Fin|Voice=Act	2	acl:relcl	_	Hiero=𓎁:𓍿|SPC=Pres
-8	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Hiero=𓎡|Pron=SFP
-9	r	r	ADP	_	_	10	case	_	Hiero=𓂋|Status=Cons
-10	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	Hiero=𓂋
-11	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronType=Prs	10	nmod	_	Hiero=𓎡|Pron=SFP
-12	|	|	PUNCT	_	_	13	punct	_	LINE=Punct
-13	mnsꜣ	mnsꜣ	NOUN	_	Gender=Masc|Number=Sing	1	parataxis	_	Hiero=𓏠:𓎂
-14	šw	šwi̯	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	ADJ=Yes|Hiero=𓈙𓆄𓎿|Hierocl=𓎿
+# visual-style 3 4 appos	color:blue
+1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810
+2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃|ID=78150
+3	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc|NameType=God	5	vocative	_	Hiero=(𓊨:𓁹)|ID=49460
+4	Ppy	Ppy	PROPN	_	Gender=Masc|NameType=King	3	appos	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺|ID=400313
+5	ꞽn<.n>	ꞽni̯	VERB	_	Conjug=Suffix|Mood=Ind|SubForm=Pred|Tense=Past|VerbClass=Anom|VerbForm=Fin|Voice=Act	1	ccomp:speech	_	Hiero=(𓏎:𓈖)|ID=26870
+6	(⸗ꞽ)	ꞽ	PRON	_	Gender=Com|Number=Sing|Person=1|PronClass=Suffix|PronType=Prs	5	nsubj	_	Hiero=No|ID=10030_Add
+7	n	n	ADP	_	Case=Dat|StatPrep=Pron	8	case	_	Hiero=𓈖|ID=400055
+8	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Suffix|PronType=Prs	5	obl:arg	_	Hiero=𓎡|ID=10110
+9	sꜣ	sꜣ	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	Hiero=𓅭|ID=125510
+10	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	9	nmod	_	Hiero=𓎡|ID=10110
+11	mrr.w	mri̯	VERB	_	Conjug=Suffix|Gender=Masc|Mood=Ind|Number=Sing|SubForm=RelForm|Tense=Pres|VerbClass=3aeinf|VerbForm=Fin	9	acl:relcl	_	Hiero=𓌸(𓂋:𓂋)𓅱|ID=72470
+12	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|PronClass=Suffix|PronType=Prs	11	nsubj	_	Hiero=𓎡|ID=10110
+13	wp	wpi̯	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbClass=3aeinf|VerbForm=Part|Voice=Act	9	acl	_	Hiero=𓄋|ID=45640
+14	rʾ	rʾ	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	Hiero=𓂋|ID=92560
+15	⸗k	k	PRON	_	Gender=Masc|Number=Sing|Person=2|Poss=Yes|PronClass=Suffix|PronType=Prs	14	nmod	_	Hiero=𓎡|ID=10110
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 13 appos	color:blue
+1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810
+2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃|ID=78150
+3	Č̣ḥw.tꞽ	Č̣ḥw.tꞽ	PROPN	_	Gender=Masc|NameType=God	4	vocative	_	Hiero=𓅝|ID=185290
+4	(w)ṭ	wṭi̯	VERB	_	Mood=Imp|Number=Sing|VerbClass=3aeinf|VerbForm=Fin	1	ccomp:speech	_	Hiero=𓂧|ID=51510
+5	n	n	ADP	_	Case=Dat|StatPrep=Pron	6	case	_	Hiero=𓈖|ID=400055
+6	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	4	obl:arg	_	Hiero=𓆑|ID=10050
+7	ṭp	ṭp	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	Hiero=𓁶|ID=170860
+8	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronClass=Suffix|PronType=Prs	7	nmod	_	Hiero=𓆑|ID=10050
+9	ꞽr	r	ADP	_	Case=All|StatPrep=Pron	10	case	_	Hiero=𓇋𓂋|ID=91901
+10	⸗f	f	PRON	_	Gender=Masc|Number=Sing|Person=3|PronClass=Suffix|PronType=Prs	4	obl	_	Hiero=𓆑|ID=10050
+11	|	|	PUNCT	_	_	12	punct	_	ID=.|LINE=Punct
+12	mw	mw	NOUN	_	Gender=Masc|Number=Plur	1	parataxis	_	Hiero=𓈗|ID=69000
+13	ṭś	ṭś	NOUN	_	Gender=Masc|Number=Sing	12	appos	_	Hiero=𓂧𓋴𔎱|Hierocl=𔎱|ID=180600
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 appos	color:blue
+1	č̣(ṭ)	č̣ṭ	VERB	_	Gender=Masc|VerbClass=2lit|VerbForm=Inf	0	root	_	Hiero=𓆓|ID=185810
+2	mṭw	mṭw	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	Hiero=𓌃|ID=78150
+3	ꞽm	m	VERB	_	Mood=Imp|Number=Sing|VerbClass=Def|VerbForm=Fin	1	ccomp:speech	_	Hiero=𓇋𓅓|ID=67780
+4	ꞽr.t(ꞽ)	ꞽr.t	NOUN	_	Gender=Fem|Number=Dual	3	obj	_	Hiero=𓥳|ID=28250
+5	wr	wr	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	Hiero=𓅨|ID=47280
+6	pn	pn	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	Hiero=(𓊪:𓈖)|ID=59920
+7	Wśr(.w)	Wśr.w	PROPN	_	Gender=Masc|NameType=God	5	appos	_	Hiero=(𓊨:𓁹)|ID=49460
+8	Ppy	Ppy	PROPN	_	Gender=Masc|NameType=King	7	appos	_	Hiero=𓍹(𓊪:𓊪)𓇋𓇋𓍺|ID=400313
+9	Nfr	Nfr	PROPN	_	Gender=Masc|NameType=King|Number=Sing	8	appos	_	Hiero=𓄤|ID=550034
+10	kꜣ	kꜣ	NOUN	_	Gender=Masc|Number=Sing	9	flat:name	_	Hiero=𓂓|ID=162870
+11	Rꜥw	Rꜥw	PROPN	_	Gender=Masc|NameType=God	9	flat:name	_	Hiero=𓇳|ID=400015
 
 ~~~
 

@@ -15,4 +15,4 @@ flat:foreign(Ich-12, das-14)
 ~~~
 
 `flat:foreign` includes not just natural languages, but also notational systems that are considered external to natural language proper and are governed by separate rules (e.g. musical chord progressions, software code excerpts).
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:56 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:10 CEST -->

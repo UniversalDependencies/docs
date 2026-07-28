@@ -62,10 +62,10 @@ The following 7 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 7 5 reparandum	color:blue
 1	грушаˮ	груша	NOUN	_	_	10	nsubj	_	AlignBegin=39371.9095957|AlignEnd=40059.7208966|LTranslit=gruša|MGloss=pear-pl|MSeg=груша-ˮ|Translit=grušaʡ
 2	<p>	<p>	INTJ	_	_	1	discourse	_	AlignBegin=40059.7208966|AlignEnd=41009.5479267|Gloss=X|LTranslit=<p>|Translit=<p>
-3	<f>сусанаваˮ	сусана	VERB	_	_	5	ccomp	_	AlignBegin=41009.5479267|AlignEnd=41759.5555017|LTranslit=susana|MGloss=end-ptcp.prf-gen|MSeg=<f>сусана-ва-ˮ|Translit=<f>susanawaʡ
+3	<f>сусанаваˮ	сусана	VERB	_	_	5	advcl	_	AlignBegin=41009.5479267|AlignEnd=41759.5555017|LTranslit=susana|MGloss=end-ptcp.prf-gen|MSeg=<f>сусана-ва-ˮ|Translit=<f>susanawaʡ
 4	<er>сусанаваˮ	сусана	VERB	_	_	3	reparandum	_	AlignBegin=41759.5555017|AlignEnd=42304.3898367|LTranslit=susana|MGloss=end-ptcp.prf-gen|MSeg=<er>сусана-ва-ˮ|Translit=<er>susanawaʡ
 5	<f>тоˮолха	тоˮолха	ADJ	_	_	7	reparandum	_	AlignBegin=42304.3898367|AlignEnd=42736.2962863|Gloss=similar|LTranslit=toʡolxa|Translit=<f>toʡolxa
-6	сусаваˮ	суса	VERB	_	_	7	ccomp	_	AlignBegin=42736.2962863|AlignEnd=43196.2130319|LTranslit=susa|MGloss=run.out-ptcp.prf-gen|MSeg=суса-ва-ˮ|Translit=susawaʡ
+6	сусаваˮ	суса	VERB	_	_	7	advcl	_	AlignBegin=42736.2962863|AlignEnd=43196.2130319|LTranslit=susa|MGloss=run.out-ptcp.prf-gen|MSeg=суса-ва-ˮ|Translit=susawaʡ
 7	тоˮолха	тоˮолха	ADJ	_	_	10	advcl	_	AlignBegin=43196.2130319|AlignEnd=43452.9541497|Gloss=similar|LTranslit=toʡolxa|Translit=toʡolxa
 8	ӈобʼ	ӈобʼ	ADV	_	_	10	advmod	_	AlignBegin=43452.9541497|AlignEnd=43694.1330264|Gloss=once|LTranslit=ŋobʔ|Translit=ŋobʔ
 9	ни	ни	AUX	_	_	10	aux	_	AlignBegin=43694.1330264|AlignEnd=44349.6681454|Gloss=NEG|LTranslit=ńi|Translit=ńi

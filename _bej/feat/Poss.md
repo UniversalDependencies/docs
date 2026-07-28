@@ -22,4 +22,4 @@ means that empty value has the `No` meaning.)
 
 #### Examples
 - _kaːm <b>=i</b>_ "<my> camel"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:41 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:13 CEST -->

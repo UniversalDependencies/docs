@@ -30,7 +30,7 @@ The 10 most frequent ambiguous types:  <em>ხოლო</em> (<tt><a href="ka_gl
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.674782).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.692057).
 
 The 1st highest number of forms (1) was observed with the lemma “ან”: <em>ან</em>.
 

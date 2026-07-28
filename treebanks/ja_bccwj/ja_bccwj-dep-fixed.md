@@ -26,9 +26,9 @@ The following 41 pairs of parts of speech are connected with `fixed`: <tt><a hre
 2	_	_	NOUN	_	_	25	advcl	_	BBIL=B|BPT=1|LBIL=B|LPOS=41|PUDL=よう|SpaceAfter=No|UI=35
 3	_	_	AUX	_	_	2	cop	_	BBIL=I|BPT=2|LBIL=B|LPOS=8|SpaceAfter=No|UI=21
 4	_	_	PUNCT	_	_	2	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=2|SpaceAfter=No|UI=1
-5	_	_	PROPN	_	_	7	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=43|SpaceAfter=No|UI=594
+5	_	_	PROPN	_	_	10	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=43|SpaceAfter=No|UI=594
 6	_	_	ADP	_	_	5	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
-7	_	_	PROPN	_	_	10	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=43|SpaceAfter=No|UI=366
+7	_	_	PROPN	_	_	5	conj	_	BBIL=B|BPT=1|LBIL=B|LPOS=43|SpaceAfter=No|UI=366
 8	_	_	ADP	_	_	7	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 9	_	_	ADP	_	_	7	case	_	BBIL=I|BPT=3|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 10	_	_	NOUN	_	_	25	nsubj	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=339

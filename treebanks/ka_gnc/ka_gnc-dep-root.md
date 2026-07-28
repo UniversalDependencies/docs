@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1818 nodes (8%) are attached to their parents as `root`.
+1878 nodes (8%) are attached to their parents as `root`.
 
-1818 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.76567656765677.
+1878 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.75718849840256.
 
-The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (1529; 84% instances), -<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (150; 8% instances), -<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (77; 4% instances), -<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (25; 1% instances), -<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (24; 1% instances), -<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), -<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (4; 0% instances), -<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `root`: -<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (1577; 84% instances), -<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (157; 8% instances), -<tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (80; 4% instances), -<tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (26; 1% instances), -<tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (25; 1% instances), -<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (8; 0% instances), -<tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (4; 0% instances), -<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

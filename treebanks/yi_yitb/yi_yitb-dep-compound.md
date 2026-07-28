@@ -28,7 +28,7 @@ The following 11 pairs of parts of speech are connected with `compound`: <tt><a 
 3	לאָקשן	לאָקש	NOUN	_	_	4	compound	_	Translit=lokshn|Translit_Lemma=loksh
 4	זופּ	זופּ	NOUN	_	_	1	obj	_	Translit=zup|Translit_Lemma=zup
 5	ביטע	ביטע	ADV	_	_	1	advmod	_	SpaceAfter=No|Translit=bite|Translit_Lemma=bite
-6	.	.	PUNCT	_	_	1	punct	_	Translit=.|Translit_Lemma=.
+6	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No|Translit=.|Translit_Lemma=.
 7	"	"	PUNCT	_	_	1	punct	_	Translit="|Translit_Lemma="
 
 ~~~
@@ -62,7 +62,7 @@ The following 11 pairs of parts of speech are connected with `compound`: <tt><a 
 2	ווערט	װערן	AUX	_	_	3	aux:pass	_	Translit=vert|Translit_Lemma=vern
 3	באניצט	באניצן	VERB	_	_	0	root	_	Translit=banitst|Translit_Lemma=banitsn
 4	ביי	ביי	ADP	_	_	7	case	_	Translit=bey|Translit_Lemma=bey
-5	פיל	_	DET	_	_	7	det	_	Translit=fil
+5	פיל	פּילן	DET	_	_	7	det	_	Translit=fil|Translit_Lemma=piln
 6	חסידישע	חסידיש	ADJ	_	_	7	amod	_	Translit=khosidishe|Translit_Lemma=khosidish
 7	קהילות	קהילות	NOUN	_	_	3	obl:agent	_	Translit=kehiles|Translit_Lemma=kehiles
 8	אין	אין	ADP	_	_	10	case	_	Translit=in|Translit_Lemma=in

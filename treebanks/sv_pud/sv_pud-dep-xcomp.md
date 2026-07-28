@@ -45,9 +45,9 @@ The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 7	fgColor:white
 # visual-style 7 11 xcomp	color:blue
 1	Jag	jag	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	2	nsubj	2:nsubj	_
-2	tar	ta	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	tar	ta	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	ParsemeMWE=1:VID
 3	inte	inte	PART	AB	Polarity=Neg	2	advmod	2:advmod	_
-4	lätt	lätt	ADV	AB|POS	Degree=Pos	2	advmod	2:advmod	_
+4	lätt	lätt	ADV	AB|POS	Degree=Pos	2	advmod	2:advmod	ParsemeMWE=1
 5	på	på	ADP	PP	_	7	mark	7:mark	_
 6	att	att	PART	IE	_	7	mark	7:mark	_
 7	kalla	kalla	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	2	advcl	2:advcl:att	_

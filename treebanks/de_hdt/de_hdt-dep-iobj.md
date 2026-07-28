@@ -56,7 +56,7 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 iobj	color:blue
-1	Gefälschte	fälschen	ADJ	ADJA	Degree=Pos|Number=Plur	2	amod	_	_
+1	Gefälschte	fälschen	ADJ	ADJA	Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
 2	Telefonkarten	Telefonkarte	NOUN	NN	Gender=Fem|Number=Plur	3	nsubj	_	_
 3	kosten	kosten	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	Telekom	Telekom	PROPN	NE	Gender=Fem|Number=Sing	3	iobj	_	_

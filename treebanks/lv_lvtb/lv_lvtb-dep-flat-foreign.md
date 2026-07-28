@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `flat`: <tt><a href="lv_lvt
 128 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.453125.
 
-The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (124; 97% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2; 2% instances).
+The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-X.html">X</a></tt> (126; 98% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt>-<tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (2; 2% instances).
 
 
 ~~~ conllu
@@ -36,55 +36,6 @@ The following 3 pairs of parts of speech are connected with `flat:foreign`: <tt>
 11	citā	cita	DET	pi0fsln	Case=Loc|Gender=Fem|Number=Sing|PronType=Ind	12	det	12:det	LvtbNodeId=a-d29-p82s4w11
 12	krāsā	krāsa	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	5	acl	5:acl	LvtbNodeId=a-d29-p82s4w12|SpaceAfter=No
 13	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-d29-p82s4w13
-
-~~~
-
-
-~~~ conllu
-# visual-style 34	bgColor:blue
-# visual-style 34	fgColor:white
-# visual-style 32	bgColor:blue
-# visual-style 32	fgColor:white
-# visual-style 32 34 flat:foreign	color:blue
-1	Piedāvāju	piedāvāt	VERB	vmnipt21san	Evident=Fh|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	LvtbNodeId=a-p7249-p3s1w1
-2	jūsu	jūs	PRON	pp20pgn	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	nmod	3:nmod	LvtbNodeId=a-p7249-p3s1w2
-3	vērtējumam	vērtējums	NOUN	ncmsd1	Case=Dat|Gender=Masc|Number=Sing	1	iobj	1:iobj	LvtbNodeId=a-p7249-p3s1w3
-4	četrus	četri	NUM	mcsmpa	Case=Acc|Gender=Masc|Number=Plur|NumType=Card	5	nummod	5:nummod	LvtbNodeId=a-p7249-p3s1w4
-5	modeļus	modelis	NOUN	ncmpa2	Case=Acc|Gender=Masc|Number=Plur	1	obj	1:obj	LvtbNodeId=a-p7249-p3s1w5|SpaceAfter=No
-6	,	,	PUNCT	zc	_	8	punct	8:punct	LvtbNodeId=a-p7249-p3s1w6
-7	kas	kas	PRON	pr000nn	Case=Nom|PronType=Rel	8	nsubj:pass	8:nsubj:pass	LvtbNodeId=a-p7249-p3s1w7
-8	veidoti	veidot	VERB	vmnpdmpnpsnpn	Aspect=Perf|Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Pass	5	acl	5:acl	LvtbNodeId=a-p7249-p3s1w8|SpaceAfter=No
-9	,	,	PUNCT	zc	_	10	punct	10:punct	LvtbNodeId=a-p7249-p3s1w9
-10	ņemot	ņemt	VERB	vmnpu0000000n	Polarity=Pos|VerbForm=Conv	8	advcl	8:advcl	LvtbNodeId=a-p7249-p3s1w10
-11	vērā	vērā	ADV	r0n	_	10	advmod	10:advmod	LvtbNodeId=a-p7249-p3s1w11
-12	aktuālās	aktuāls	ADJ	affpayp	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	13	amod	13:amod	LvtbNodeId=a-p7249-p3s1w12
-13	modes	mode	NOUN	ncfsg5	Case=Gen|Gender=Fem|Number=Sing	14	nmod	14:nmod:gen	LvtbNodeId=a-p7249-p3s1w13
-14	tendences	tendence	NOUN	ncfpa5	Case=Acc|Gender=Fem|Number=Plur	10	obj	10:obj	LvtbNodeId=a-p7249-p3s1w14|SpaceAfter=No
-15	:	:	PUNCT	zo	_	17	punct	17:punct	LvtbNodeId=a-p7249-p3s1w15
-16	[	[	PUNCT	zb	_	17	punct	17:punct	LvtbNodeId=a-p7249-p3s1w16|SpaceAfter=No
-17	EX	ex	X	xf	Foreign=Yes	5	dep	5:dep	LvtbNodeId=a-p7249-p3s1w17|SpaceAfter=No
-18	]	]	PUNCT	zb	_	17	punct	17:punct	LvtbNodeId=a-p7249-p3s1w18
-19	HE	he	X	xf	Foreign=Yes	17	flat:foreign	17:flat:foreign	LvtbNodeId=a-p7249-p3s1w19|SpaceAfter=No
-20	,	,	PUNCT	zc	_	22	punct	22:punct	LvtbNodeId=a-p7249-p3s1w20
-21	[	[	PUNCT	zb	_	22	punct	22:punct	LvtbNodeId=a-p7249-p3s1w21|SpaceAfter=No
-22	EX	ex	X	xf	Foreign=Yes	17	conj	5:dep|17:conj	LvtbNodeId=a-p7249-p3s1w22|SpaceAfter=No
-23	]	]	PUNCT	zb	_	22	punct	22:punct	LvtbNodeId=a-p7249-p3s1w23
-24	SHE	she	X	xf	Foreign=Yes	22	flat:foreign	22:flat:foreign	LvtbNodeId=a-p7249-p3s1w24|SpaceAfter=No
-25	,	,	PUNCT	zc	_	27	punct	27:punct	LvtbNodeId=a-p7249-p3s1w25
-26	[	[	PUNCT	zb	_	27	punct	27:punct	LvtbNodeId=a-p7249-p3s1w26|SpaceAfter=No
-27	EX	ex	X	xf	Foreign=Yes	17	conj	5:dep|17:conj	LvtbNodeId=a-p7249-p3s1w27|SpaceAfter=No
-28	]	]	PUNCT	zb	_	27	punct	27:punct	LvtbNodeId=a-p7249-p3s1w28
-29	UNI	UNI	NOUN	yn	Abbr=Yes	27	flat:foreign	27:flat:foreign	LvtbNodeId=a-p7249-p3s1w29
-30	un	un	CCONJ	cc	_	32	cc	32:cc	LvtbNodeId=a-p7249-p3s1w30
-31	[	[	PUNCT	zb	_	32	punct	32:punct	LvtbNodeId=a-p7249-p3s1w31|SpaceAfter=No
-32	EX	ex	X	xf	Foreign=Yes	17	conj	5:dep|17:conj	LvtbNodeId=a-p7249-p3s1w32|SpaceAfter=No
-33	]	]	PUNCT	zb	_	32	punct	32:punct	LvtbNodeId=a-p7249-p3s1w33
-34	LUMI	LUMI	NOUN	yn	Abbr=Yes	32	flat:foreign	32:flat:foreign	LvtbNodeId=a-p7249-p3s1w34|SpaceAfter=No
-35	,	,	PUNCT	zc	_	38	punct	38:punct	LvtbNodeId=a-p7249-p3s1w35
-36	kas	kas	PRON	pr000nn	Case=Nom|PronType=Rel	38	nsubj	38:nsubj	LvtbNodeId=a-p7249-p3s1w36
-37	tumsā	tumsa	NOUN	ncfsl4	Case=Loc|Gender=Fem|Number=Sing	38	obl	38:obl:loc	LvtbNodeId=a-p7249-p3s1w37
-38	spīd	spīdēt	VERB	vmnipi330an	Evident=Fh|Mood=Ind|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	32	acl	32:acl	LvtbNodeId=a-p7249-p3s1w38|SpaceAfter=No
-39	.	.	PUNCT	zs	_	1	punct	1:punct	LvtbNodeId=a-p7249-p3s1w39
 
 ~~~
 

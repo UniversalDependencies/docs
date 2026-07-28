@@ -12,4 +12,4 @@ A negation adverbial modifier is a subtype of the `advmod` relation, e.g., ა�
 'It is not fitting, then, to be the killer of oneself.'
 advmod:neg(არ, ჯერ-არს)
 ~~~
-<!-- Interlanguage links updated So 10. května 2025, 18:14:56 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:37 CEST -->

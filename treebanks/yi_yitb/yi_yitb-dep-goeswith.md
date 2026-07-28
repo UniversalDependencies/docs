@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `goeswith`: <tt><a h
 4	די	דער	DET	_	_	5	det	_	Translit=di|Translit_Lemma=der
 5	אױטאָס	אױטאָ	NOUN	_	_	3	obj	_	SpaceAfter=No|Translit=oytos|Translit_Lemma=oyto
 6	,	,	PUNCT	_	_	9	punct	_	Translit=,|Translit_Lemma=,
-7	דער	דער	ADV	_	Typo=Yes	9	advmod	_	Translit=der|Translit_Lemma=der
+7	דער	דערבײַ	ADV	_	Typo=Yes	9	advmod	_	Translit=der|Translit_Lemma=derbay
 8	בײַ	_	X	_	_	7	goeswith	_	Translit=bay
 9	געשלאָגן	שליגן	VERB	_	_	2	conj	_	SpaceAfter=No|Translit=geshlogn|Translit_Lemma=shlign
 10	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.

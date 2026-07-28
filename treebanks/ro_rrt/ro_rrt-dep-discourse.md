@@ -39,8 +39,8 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 1	Și	și	CCONJ	Crssp	Polarity=Pos	6	cc	_	_
 2	iaca	iaca	INTJ	I	_	3	discourse	_	_
 3	așa	așa	ADV	Rgp	Degree=Pos	6	advmod	_	_
-4	i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	6	expl	_	SpaceAfter=No
-5	-a	avea	AUX	Va--3s----y	Number=Sing|Person=3|Variant=Short	6	aux	_	_
+4	i-	el	PRON	Pp3-sd--y-----w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak|Variant=Short	6	expl	_	SpaceAfter=No
+5	a	avea	AUX	Va--3s	Number=Sing|Person=3	6	aux	_	_
 6	tras	trage	VERB	Vmp--sm	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 7	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
 8	mamă	mamă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	6	obj	_	_

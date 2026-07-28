@@ -56,7 +56,7 @@ The following 6 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 7	med	med	ADP	PP	_	8	case	8:case	_
 8	årslänkar	årslänk	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	6	nmod	6:nmod:med	_
 9	vilket	vilken	PRON	HP|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Rel	10	nsubj	10:nsubj	_
-10	innebär	innebära	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl:relcl	3:advcl:relcl	_
+10	innebär	innebära	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl:relcl	3:advcl:relcl	ParsemeMWE=1:NotMWE
 11	att	att	SCONJ	SN	_	14	mark	14:mark	_
 12	man	man	PRON	PN|UTR|SIN|IND|SUB	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|PronType=Ind	14	nsubj	14:nsubj	_
 13	kan	kunna	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	14	aux	14:aux	_
@@ -79,7 +79,7 @@ The following 6 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 1	Denna	denna	PRON	PN|UTR|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Com|Number=Sing|PronType=Dem	4	nsubj	4:nsubj	_
 2	kan	kunna	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
 3	dock	dock	ADV	AB	_	4	advmod	4:advmod	_
-4	utebli	utebli	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	0:root	_
+4	utebli	utebli	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	0:root	ParsemeMWE=1:NotMWE
 5	av	av	ADP	PP	_	7	case	7:case	_
 6	andra	annan	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	7	amod	7:amod	_
 7	orsaker	orsak	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	4	obl	4:obl:av	SpaceAfter=No
@@ -94,7 +94,7 @@ The following 6 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 16	på	på	ADP	PP	_	19	mark	19:mark	_
 17	att	att	SCONJ	SN	_	19	mark	19:mark	_
 18	graviditet	graviditet	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	19	nsubj	19:nsubj	_
-19	föreligger	föreligga	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl	15:acl:att	SpaceAfter=No
+19	föreligger	föreligga	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	15	acl	15:acl:att	SpaceAfter=No|ParsemeMWE=2:NotMWE
 20	.	.	PUNCT	MAD	_	4	punct	4:punct	_
 
 ~~~

@@ -60,11 +60,11 @@ The 2nd highest number of forms (2) was observed with the lemma “that”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “this”: <em>these, this</em>.
 
-`DET` occurs with 6 features: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt> (2076; 100% instances), <tt><a href="en_pud-feat-Definite.html">Definite</a></tt> (1885; 91% instances), <tt><a href="en_pud-feat-Number.html">Number</a></tt> (91; 4% instances), <tt><a href="en_pud-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances), <tt><a href="en_pud-feat-NumForm.html">NumForm</a></tt> (1; 0% instances), <tt><a href="en_pud-feat-NumType.html">NumType</a></tt> (1; 0% instances)
+`DET` occurs with 6 features: <tt><a href="en_pud-feat-PronType.html">PronType</a></tt> (2080; 100% instances), <tt><a href="en_pud-feat-Definite.html">Definite</a></tt> (1885; 91% instances), <tt><a href="en_pud-feat-Number.html">Number</a></tt> (91; 4% instances), <tt><a href="en_pud-feat-ExtPos.html">ExtPos</a></tt> (2; 0% instances), <tt><a href="en_pud-feat-NumForm.html">NumForm</a></tt> (1; 0% instances), <tt><a href="en_pud-feat-NumType.html">NumType</a></tt> (1; 0% instances)
 
 `DET` occurs with 15 feature-value pairs: `Definite=Def`, `Definite=Ind`, `ExtPos=PRON`, `NumForm=Word`, `NumType=Frac`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rcp`, `PronType=Rel`, `PronType=Tot`
 
-`DET` occurs with 12 feature combinations.
+`DET` occurs with 11 feature combinations.
 The most frequent feature combination is `Definite=Def|PronType=Art` (1441 tokens).
 Examples: <em>the</em>
 

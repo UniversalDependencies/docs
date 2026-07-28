@@ -18,4 +18,4 @@ det(ⲙⲛⲧⲁⲕⲁⲑⲁⲣⲧⲟⲥ, ⲛⲓⲙ)
 ~~~
 
 The first coordinate points right to the second (`conj` goes from the first member in the coordination to all other members, left to right). 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:35 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:53 CEST -->

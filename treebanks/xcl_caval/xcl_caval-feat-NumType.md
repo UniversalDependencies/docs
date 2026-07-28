@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (65; 100% of non-empty `NumType`): <em>երրորդ, երկրորդ, երիր, չորրորդ, վեցերորդ, երրորդի, երկրորդի, եւթներորդ, իններորդ, մետասաներորդ</em>
-* `EMPTY` (3009): <em>մեծ, առաջին, այլ, բարի, միւս, չար, ճշմարիտ, այղ, սուրբ, արժան</em>
+* `EMPTY` (3007): <em>մեծ, առաջին, այլ, բարի, միւս, չար, ճշմարիտ, այղ, սուրբ, արժան</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (12) occur only with one value of `NumType`.
 
@@ -62,7 +62,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 `ADV` tokens may have the following values of `NumType`:
 
 * `Mult` (22; 100% of non-empty `NumType`): <em>երիցս, կրկին, հարիւրապատիկ, երկիցս, եւթանասնակին</em>
-* `EMPTY` (3302): <em>վերայ, որպէս, եւս, արդ, ամէն, յայնժամ, անդ, ապա, ուր, դարձեալ</em>
+* `EMPTY` (3304): <em>վերայ, որպէս, եւս, արդ, ամէն, յայնժամ, անդ, ապա, ուր, դարձեալ</em>
 
 ## Relations with Agreement in `NumType`
 

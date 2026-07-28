@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Georgian-GNC: POS Tags: `PUNCT`
 
-There are 12 `PUNCT` lemmas (0%), 12 `PUNCT` types (0%) and 4157 `PUNCT` tokens (18%).
+There are 12 `PUNCT` lemmas (0%), 12 `PUNCT` types (0%) and 4320 `PUNCT` tokens (18%).
 Out of 15 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 14 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>,, ., –, :, ?, !, „, ”, (, )</em>
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.616911).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.623660).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -34,11 +34,11 @@ The 3rd highest number of forms (1) was observed with the lemma “)”: <em>)</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ka_gnc-dep-punct.html">punct</a></tt> (4157; 100% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ka_gnc-dep-punct.html">punct</a></tt> (4320; 100% instances)
 
-Parents of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (3247; 78% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (482; 12% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (205; 5% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (69; 2% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (67; 2% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (59; 1% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="ka_gnc-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `PUNCT` nodes belong to 11 different parts of speech: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (3373; 78% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (502; 12% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (212; 5% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt> (72; 2% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (71; 2% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (62; 1% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (14; 0% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="ka_gnc-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
-4157 (100%) `PUNCT` nodes are leaves.
+4320 (100%) `PUNCT` nodes are leaves.
 
 The highest child degree of a `PUNCT` node is 0.
 

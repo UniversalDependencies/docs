@@ -66,7 +66,7 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 17	σὲ	σέ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	16	obj	_	Gloss=you|Ref=GEN_30.30
 18	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	Gloss=lord|Ref=GEN_30.30
 19	ἐπὶ	ἐπί	ADP	_	_	21	case	_	Gloss=on,upon,against|Ref=GEN_30.30
-20	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	21	det	_	Gloss=the|Ref=GEN_30.30
+20	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	Gloss=the|Ref=GEN_30.30
 21	ποδί	πούς	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	16	obl	_	Gloss=foot|Ref=GEN_30.30
 22	μου	ἐγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	21	nmod:poss	_	Gloss=me,my|Ref=GEN_30.30|SpaceAfter=No
 23	.	.	PUNCT	_	_	16	punct	_	Ref=GEN_30.30

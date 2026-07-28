@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Permyak-UH: POS Tags: `AUX`
 
-There are 10 `AUX` lemmas (2%), 21 `AUX` types (4%) and 39 `AUX` tokens (4%).
-Out of 15 observed tags, the rank of `AUX` is: 8 in number of lemmas, 6 in number of types and 7 in number of tokens.
+There are 10 `AUX` lemmas (2%), 21 `AUX` types (3%) and 45 `AUX` tokens (4%).
+Out of 15 observed tags, the rank of `AUX` is: 8 in number of lemmas, 6 in number of types and 6 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>оз, абу, вермыны, вӧвны, не, бы, ковны, овлыны, овны, позьны</em>
 
-The 10 most frequent `AUX` types:  <em>эз, оз, абу, эг, вермы, вӧлі, не, озӧ, абуöсь, бы</em>
+The 10 most frequent `AUX` types:  <em>оз, эз, абу, эг, вермы, вӧлі, не, озӧ, эн, абуöсь</em>
 
-The 10 most frequent ambiguous lemmas: <em>оз</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 21, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1), <em>абу</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 5, <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1), <em>вермыны</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 3, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1), <em>не</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 2, <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 2), <em>ковны</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1), <em>овны</em> (<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 2, <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>оз</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 27, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1), <em>абу</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 5, <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt> 1), <em>вермыны</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 3, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1), <em>не</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 2, <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 2), <em>ковны</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1), <em>овны</em> (<tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 2, <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>вермы</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 2, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1), <em>не</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 2, <tt><a href="koi_uh-pos-CCONJ.html">CCONJ</a></tt> 2), <em>овны</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1), <em>эд</em> (<tt><a href="koi_uh-pos-AUX.html">AUX</a></tt> 1, <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> 1)
 
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>вермы</em> (<tt><a href="koi_uh-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.100000 (the average of all parts of speech is 1.250000).
+The form / lemma ratio of `AUX` is 2.100000 (the average of all parts of speech is 1.260870).
 
 The 1st highest number of forms (9) was observed with the lemma “оз”: <em>ог, оз, озӧ, он, эг, эгö, эд, эз, эн</em>.
 
@@ -41,28 +41,28 @@ The 2nd highest number of forms (2) was observed with the lemma “абу”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “вермыны”: <em>верман, вермы</em>.
 
-`AUX` occurs with 10 features: <tt><a href="koi_uh-feat-Person.html">Person</a></tt> (26; 67% instances), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt> (26; 67% instances), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt> (26; 67% instances), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt> (25; 64% instances), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt> (25; 64% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (24; 62% instances), <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt> (4; 10% instances), <tt><a href="koi_uh-feat-VerbType.html">VerbType</a></tt> (2; 5% instances), <tt><a href="koi_uh-feat-ExtPos.html">ExtPos</a></tt> (1; 3% instances), <tt><a href="koi_uh-feat-Number-subj.html">Number[subj]</a></tt> (1; 3% instances)
+`AUX` occurs with 10 features: <tt><a href="koi_uh-feat-Person.html">Person</a></tt> (32; 71% instances), <tt><a href="koi_uh-feat-Polarity.html">Polarity</a></tt> (32; 71% instances), <tt><a href="koi_uh-feat-Tense.html">Tense</a></tt> (32; 71% instances), <tt><a href="koi_uh-feat-Mood.html">Mood</a></tt> (31; 69% instances), <tt><a href="koi_uh-feat-Number.html">Number</a></tt> (30; 67% instances), <tt><a href="koi_uh-feat-VerbForm.html">VerbForm</a></tt> (25; 56% instances), <tt><a href="koi_uh-feat-Connegative.html">Connegative</a></tt> (4; 9% instances), <tt><a href="koi_uh-feat-VerbType.html">VerbType</a></tt> (2; 4% instances), <tt><a href="koi_uh-feat-ExtPos.html">ExtPos</a></tt> (1; 2% instances), <tt><a href="koi_uh-feat-Number-subj.html">Number[subj]</a></tt> (1; 2% instances)
 
 `AUX` occurs with 16 feature-value pairs: `Connegative=Yes`, `ExtPos=AUX`, `Mood=Cnd`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Number[subj]=Plur`, `Person=1`, `Person=2`, `Person=3`, `Polarity=Neg`, `Tense=Past`, `Tense=Pres`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbType=Aux`
 
-`AUX` occurs with 21 feature combinations.
+`AUX` occurs with 24 feature combinations.
 The most frequent feature combination is `Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin` (5 tokens).
 Examples: <em>оз</em>
 
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="koi_uh-dep-aux.html">aux</a></tt> (26; 67% instances), <tt><a href="koi_uh-dep-aux-neg.html">aux:neg</a></tt> (6; 15% instances), <tt><a href="koi_uh-dep-cop.html">cop</a></tt> (5; 13% instances), <tt><a href="koi_uh-dep-aux-pot.html">aux:pot</a></tt> (1; 3% instances), <tt><a href="koi_uh-dep-root.html">root</a></tt> (1; 3% instances)
+`AUX` nodes are attached to their parents using 5 different relations: <tt><a href="koi_uh-dep-aux.html">aux</a></tt> (26; 58% instances), <tt><a href="koi_uh-dep-aux-neg.html">aux:neg</a></tt> (12; 27% instances), <tt><a href="koi_uh-dep-cop.html">cop</a></tt> (5; 11% instances), <tt><a href="koi_uh-dep-aux-pot.html">aux:pot</a></tt> (1; 2% instances), <tt><a href="koi_uh-dep-root.html">root</a></tt> (1; 2% instances)
 
-Parents of `AUX` nodes belong to 6 different parts of speech: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (28; 72% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (4; 10% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (3; 8% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (2; 5% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 3% instances),  (1; 3% instances)
+Parents of `AUX` nodes belong to 6 different parts of speech: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt> (34; 76% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt> (4; 9% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt> (3; 7% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt> (2; 4% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (1; 2% instances),  (1; 2% instances)
 
-37 (95%) `AUX` nodes are leaves.
+43 (96%) `AUX` nodes are leaves.
 
-1 (3%) `AUX` nodes have one child.
+1 (2%) `AUX` nodes have one child.
 
 0 (0%) `AUX` nodes have two children.
 
-1 (3%) `AUX` nodes have three or more children.
+1 (2%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 3.
 

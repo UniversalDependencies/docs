@@ -47,7 +47,7 @@ The following 2 pairs of parts of speech are connected with `appos`: <tt><a href
 3	en	en	ADP	_	_	4	case	_	_
 4	Parizo	Parizo	PROPN	_	Case=Nom|Number=Sing	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
-6	la	la	DET	_	_	7	det	_	_
+6	la	la	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	ĉefurbo	ĉefurbo	NOUN	_	Case=Nom|Number=Sing	4	appos	_	_
 8	de	de	ADP	_	_	9	case	_	_
 9	Francio	Francio	NOUN	_	Case=Nom|Number=Sing	7	nmod	_	SpaceAfter=No

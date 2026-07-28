@@ -15,4 +15,4 @@ typically carries the conditional modality found in finite verbal forms but not 
 aux:cnd(Мунан, бы)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:18 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:41 CEST -->

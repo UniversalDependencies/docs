@@ -25,7 +25,7 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 * `Card` (821; 80% of non-empty `NumType`): <em>XIX, XX, ორი, ერთი, სამი, ერთ, XVII, XVIII, II, ორ</em>
 * `Mult` (1; 0% of non-empty `NumType`): <em>ორჯერ</em>
 * `Ord` (202; 20% of non-empty `NumType`): <em>პირველი, მეორე, პირველ, ბევრი, მესამე, ბევრ, მეოცე, ორივე, პირველმა, მე-20</em>
-* `EMPTY` (1): <em>მეხუთედი</em>
+* `EMPTY` (2): <em>მეხუთედი, უპირველეს</em>
 
 <table>
   <tr><th>Paradigm <i>ორი</i></th><th><tt>Card</tt></th><th><tt>Ord</tt></th><th><tt>Mult</tt></th></tr>

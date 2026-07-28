@@ -9,20 +9,38 @@ udver: '2'
 This feature is language-specific.
 It occurs with 11 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `DET`, `INTJ`, `NOUN`, `PRON`, `PROPN`, `SCONJ`, `VERB`.
 
-672 tokens (1%) have a non-empty value of `ExtPos`.
-88 types (1%) occur at least once with a non-empty value of `ExtPos`.
-62 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 12 part-of-speech tags: <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (241; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (215; 0% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (108; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (35; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (35; 0% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+782 tokens (1%) have a non-empty value of `ExtPos`.
+89 types (1%) occur at least once with a non-empty value of `ExtPos`.
+64 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 12 part-of-speech tags: <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (254; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (239; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (180; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (35; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (35; 0% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (14; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (8; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+
+### `SYM`
+
+254 <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> tokens (98% of all `SYM` tokens) have a non-empty value of `ExtPos`.
+
+The most frequent other feature values with which `SYM` and `ExtPos` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Plur</tt> (146; 57%).
+
+`SYM` tokens may have the following values of `ExtPos`:
+
+* `ADP` (90; 35% of non-empty `ExtPos`): <em>/, <</em>
+* `CCONJ` (14; 6% of non-empty `ExtPos`): <em>/, -</em>
+* `NOUN` (146; 57% of non-empty `ExtPos`): <em>%</em>
+* `VERB` (4; 2% of non-empty `ExtPos`): <em>=, <</em>
+
+<table>
+  <tr><th>Paradigm <i>/</i></th><th><tt>ADP</tt></th><th><tt>CCONJ</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>/</em></td><td><em>/</em></td></tr>
+</table>
 
 ### `ADP`
 
-241 <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `ExtPos`.
+239 <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> tokens (2% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
 `ADP` tokens may have the following values of `ExtPos`:
 
 * `ADJ` (7; 3% of non-empty `ExtPos`): <em>d', en, à, de</em>
 * `ADP` (56; 23% of non-empty `ExtPos`): <em>en, d', à, pour, avant</em>
-* `ADV` (134; 56% of non-empty `ExtPos`): <em>à, de, en, d', dès, auprès, entre, pour, A, Par</em>
+* `ADV` (132; 55% of non-empty `ExtPos`): <em>à, de, en, d', dès, entre, pour, A, Par, comme</em>
 * `CCONJ` (5; 2% of non-empty `ExtPos`): <em>à</em>
 * `DET` (36; 15% of non-empty `ExtPos`): <em>de</em>
 * `NOUN` (1; 0% of non-empty `ExtPos`): <em>pour</em>
@@ -36,49 +54,33 @@ The feature is used with 12 part-of-speech tags: <tt><a href="fr_sequoia-pos-ADP
 
 ### `ADV`
 
-215 <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> tokens (8% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+180 <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> tokens (7% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="fr_sequoia-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (204; 95%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="fr_sequoia-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (169; 94%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
 * `ADP` (2; 1% of non-empty `ExtPos`): <em>tout, non</em>
-* `ADV` (79; 37% of non-empty `ExtPos`): <em>lors, bien, quant, tout, non, aussi, ne</em>
-* `CCONJ` (19; 9% of non-empty `ExtPos`): <em>ainsi</em>
-* `DET` (1; 0% of non-empty `ExtPos`): <em>n'</em>
-* `PRON` (76; 35% of non-empty `ExtPos`): <em>plus, près, moins, beaucoup, davantage, peu, trop, autant, suffisamment, combien</em>
-* `SCONJ` (38; 18% of non-empty `ExtPos`): <em>alors, bien, parce, même, tandis, quand</em>
+* `ADV` (44; 24% of non-empty `ExtPos`): <em>bien, quant, tout, non, aussi, ne</em>
+* `CCONJ` (19; 11% of non-empty `ExtPos`): <em>ainsi</em>
+* `DET` (1; 1% of non-empty `ExtPos`): <em>n'</em>
+* `PRON` (76; 42% of non-empty `ExtPos`): <em>plus, près, moins, beaucoup, davantage, peu, trop, autant, suffisamment, combien</em>
+* `SCONJ` (38; 21% of non-empty `ExtPos`): <em>alors, bien, parce, même, tandis, quand</em>
 
 <table>
   <tr><th>Paradigm <i>ne</i></th><th><tt>ADV</tt></th><th><tt>DET</tt></th></tr>
   <tr><td><tt></tt></td><td><em>ne</em></td><td><em>n'</em></td></tr>
 </table>
 
-### `SYM`
-
-108 <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> tokens (95% of all `SYM` tokens) have a non-empty value of `ExtPos`.
-
-`SYM` tokens may have the following values of `ExtPos`:
-
-* `ADP` (90; 83% of non-empty `ExtPos`): <em>/, <</em>
-* `CCONJ` (14; 13% of non-empty `ExtPos`): <em>/, -</em>
-* `VERB` (4; 4% of non-empty `ExtPos`): <em>=, <</em>
-
-<table>
-  <tr><th>Paradigm <i>/</i></th><th><tt>ADP</tt></th><th><tt>CCONJ</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>/</em></td><td><em>/</em></td></tr>
-</table>
-
 ### `NOUN`
 
 35 <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (33; 94%).
+The most frequent other feature values with which `NOUN` and `ExtPos` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (33; 94%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (30; 86%).
 
 `NOUN` tokens may have the following values of `ExtPos`:
 
-* `ADP` (29; 83% of non-empty `ExtPos`): <em>suite, grâce, face</em>
-* `ADV` (1; 3% of non-empty `ExtPos`): <em>compte</em>
+* `ADV` (30; 86% of non-empty `ExtPos`): <em>suite, grâce, face, compte</em>
 * `PROPN` (5; 14% of non-empty `ExtPos`): <em>Fusillé, Fusillés, charniers, honneur, possession</em>
 
 ### `PRON`
@@ -125,6 +127,19 @@ The most frequent other feature values with which `DET` and `ExtPos` co-occurred
   <tr><td><tt></tt></td><td><em>le</em></td><td><em>le</em></td></tr>
 </table>
 
+### `X`
+
+8 <tt><a href="fr_sequoia-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `ExtPos`.
+
+The most frequent other feature values with which `X` and `ExtPos` co-occurred: <tt><a href="fr_sequoia-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (8; 100%).
+
+`X` tokens may have the following values of `ExtPos`:
+
+* `ADJ` (3; 38% of non-empty `ExtPos`): <em>in</em>
+* `ADV` (2; 25% of non-empty `ExtPos`): <em>a</em>
+* `NOUN` (2; 25% of non-empty `ExtPos`): <em>220725478X, B01AE06</em>
+* `PROPN` (1; 13% of non-empty `ExtPos`): <em>M05BA08</em>
+
 ### `CCONJ`
 
 6 <tt><a href="fr_sequoia-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `ExtPos`.
@@ -133,27 +148,6 @@ The most frequent other feature values with which `DET` and `ExtPos` co-occurred
 
 * `ADJ` (5; 83% of non-empty `ExtPos`): <em>et</em>
 * `CCONJ` (1; 17% of non-empty `ExtPos`): <em>ou</em>
-
-### `X`
-
-5 <tt><a href="fr_sequoia-pos-X.html">X</a></tt> tokens (2% of all `X` tokens) have a non-empty value of `ExtPos`.
-
-The most frequent other feature values with which `X` and `ExtPos` co-occurred: <tt><a href="fr_sequoia-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (5; 100%).
-
-`X` tokens may have the following values of `ExtPos`:
-
-* `ADJ` (3; 60% of non-empty `ExtPos`): <em>in</em>
-* `ADV` (2; 40% of non-empty `ExtPos`): <em>a</em>
-
-### `VERB`
-
-3 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
-
-The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2; 67%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2; 67%), <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (2; 67%).
-
-`VERB` tokens may have the following values of `ExtPos`:
-
-* `ADP` (3; 100% of non-empty `ExtPos`): <em>vu</em>
 
 ### `ADJ`
 
@@ -174,4 +168,22 @@ The most frequent other feature values with which `INTJ` and `ExtPos` co-occurre
 `INTJ` tokens may have the following values of `ExtPos`:
 
 * `INTJ` (1; 100% of non-empty `ExtPos`): <em>Eh</em>
+
+### `VERB`
+
+1 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
+
+The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_sequoia-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1; 100%).
+
+`VERB` tokens may have the following values of `ExtPos`:
+
+* `ADP` (1; 100% of non-empty `ExtPos`): <em>vu</em>
+
+## Relations with Agreement in `ExtPos`
+
+The 10 most frequent relations where parent and child node agree in `ExtPos`:
+<tt>SYM --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> SYM</tt> (20; 100%),
+<tt>SYM --[<tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (2; 100%),
+<tt>SYM --[<tt><a href="fr_sequoia-dep-obl-mod.html">obl:mod</a></tt>]--> SYM</tt> (2; 100%),
+<tt>SYM --[<tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt>]--> SYM</tt> (1; 100%).
 

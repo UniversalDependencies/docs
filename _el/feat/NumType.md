@@ -80,4 +80,4 @@ The feature is assigned to set denoting nouns.
 
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:32 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->

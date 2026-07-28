@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-168 nodes (4%) are attached to their parents as `cc`.
+238 nodes (4%) are attached to their parents as `cc`.
 
-165 instances of `cc` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.97619047619048.
+233 instances of `cc` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.23529411764706.
 
-The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (77; 46% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (52; 31% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (26; 15% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (11; 7% instances), <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt>-<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt>-<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `cc`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (102; 43% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (82; 34% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (38; 16% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (14; 6% instances), <tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt>-<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt>-<tt><a href="ps_sikaram-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

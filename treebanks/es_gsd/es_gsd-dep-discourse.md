@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 discourse	color:blue
-1	Bueno	bueno	ADJ	_	_	7	discourse	_	SpaceAfter=No
+1	Bueno	buen	ADJ	_	_	7	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 3	cuando	cuando	SCONJ	_	_	4	mark	_	_
 4	llegue	llegar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
@@ -95,8 +95,8 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 7	fgColor:white
 # visual-style 7 1 discourse	color:blue
 1	C.	c.	X	_	_	7	discourse	_	_
-2	Mientras	mientras	ADV	_	ExtPos=ADV	7	advmod	_	_
-3	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	2	fixed	_	SpaceAfter=No
+2	Mientras	mientras	SCONJ	_	ExtPos=ADV	7	advmod	_	_
+3	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	2	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 5	Hidrieo	hidrieo	NOUN	_	_	7	nsubj	_	_
 6	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
@@ -105,7 +105,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 9	parte	parte	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
 10	enviando	enviar	VERB	_	VerbForm=Ger	9	acl	_	_
 11	a	a	ADP	_	_	12	case	_	_
-12	Chipre	chipre	PROPN	_	_	10	obl	_	_
+12	Chipre	Chipre	PROPN	_	_	10	obl	_	_
 13	40	40	NUM	_	NumForm=Digit|NumType=Card	14	nummod	_	_
 14	navíos	navío	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
 15	y	y	CCONJ	_	_	17	cc	_	_
@@ -117,7 +117,7 @@ The following 3 pairs of parts of speech are connected with `discourse`: <tt><a 
 21	de	de	ADP	_	_	23	case	_	_
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	ateniense	ateniense	NOUN	_	Number=Sing	20	nmod	_	_
-24	Foción	foción	PROPN	_	_	23	appos	_	_
+24	Foción	Foción	PROPN	_	_	23	appos	_	_
 25	y	y	CCONJ	_	_	27	cc	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	líder	líder	NOUN	_	Number=Sing	20	conj	_	_

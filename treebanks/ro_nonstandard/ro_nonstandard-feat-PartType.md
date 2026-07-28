@@ -9,19 +9,19 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Inf`, `Sub`.
 
-12454 tokens (2%) have a non-empty value of `PartType`.
+12440 tokens (2%) have a non-empty value of `PartType`.
 22 types (0%) occur at least once with a non-empty value of `PartType`.
 13 lemmas (0%) occur at least once with a non-empty value of `PartType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (12454; 2% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (12440; 2% instances).
 
 ### `PART`
 
-12454 <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> tokens (100% of all `PART` tokens) have a non-empty value of `PartType`.
+12440 <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> tokens (100% of all `PART` tokens) have a non-empty value of `PartType`.
 
 `PART` tokens may have the following values of `PartType`:
 
-* `Inf` (1568; 13% of non-empty `PartType`): <em>a, -a, a-, n-, s-</em>
-* `Sub` (10886; 87% of non-empty `PartType`): <em>să, s-, să-, se, sâ, -să, a, ca, s, -a</em>
+* `Inf` (1566; 13% of non-empty `PartType`): <em>a, -a, a-, n-, s-</em>
+* `Sub` (10874; 87% of non-empty `PartType`): <em>să, s-, să-, se, sâ, -să, a, ca, s, -a</em>
 
 <table>
   <tr><th>Paradigm <i>să</i></th><th><tt>Inf</tt></th><th><tt>Sub</tt></th></tr>

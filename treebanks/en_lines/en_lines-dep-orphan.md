@@ -30,7 +30,7 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 6	,	,	PUNCT	Comma	_	13	punct	_	_
 7	and	and	CCONJ	_	_	13	cc	_	_
 8	that	that	PRON	DEM-SG	Number=Sing|PronType=Dem	13	dislocated	_	_
-9	one	one	PRON	IND-P3SG	_	13	nsubj	_	_
+9	one	one	PRON	IND-P3SG	Number=Sing|PronType=Ind	13	nsubj	_	_
 10	ca	can	AUX	PRES-AUX	Mood=Ind|VerbForm=Fin	13	aux	_	_
 11	n't	not	PART	NEG	Polarity=Neg	13	advmod	_	_
 12	be	be	AUX	INF	VerbForm=Inf	13	cop	_	_
@@ -82,7 +82,7 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 15 orphan	color:blue
-1	You	you	PRON	PERS-P2	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	_
+1	You	you	PRON	PERS-P2	Person=2|PronType=Prs	3	nsubj	_	_
 2	can	can	AUX	PRES-AUX	Mood=Ind|VerbForm=Fin	3	aux	_	_
 3	change	change	VERB	INF	VerbForm=Inf	0	root	_	_
 4	the	the	DET	DEF	Definite=Def|PronType=Art	5	det	_	_

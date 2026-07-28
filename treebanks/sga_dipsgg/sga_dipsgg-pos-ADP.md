@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_Irish-DipSGG: POS Tags: `ADP`
 
 There are 14 `ADP` lemmas (6%), 25 `ADP` types (8%) and 41 `ADP` tokens (10%).
-Out of 16 observed tags, the rank of `ADP` is: 5 in number of lemmas, 4 in number of types and 2 in number of tokens.
+Out of 16 observed tags, the rank of `ADP` is: 4 in number of lemmas, 4 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>do, i, de, ar, for, fri, la, ó, úas, eter</em>
 

@@ -86,4 +86,4 @@ The advcl:relcl relation is used in the Polish [PDB-UD](http://universaldependen
 18	Flores	_	_	_	_	_	_	_	_
 19	?	_	_	_	_	_	_	_	_
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:06 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:32 CEST -->

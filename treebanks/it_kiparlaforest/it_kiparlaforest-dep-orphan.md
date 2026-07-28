@@ -58,24 +58,22 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 13 orphan	color:blue
-1	se	se	SCONJ	_	_	4	mark	_	KID=262-15
-2	l'	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Clitic=Yes|KID=262-16|SpaceAfter=No
-3	ha	avere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	KID=262-17
-4	detto	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	KID=262-18
-5	martina	Martina	PROPN	_	_	4	nsubj	_	Anonymized=Yes|KID=262-19
-6	perché	perché	ADV	_	_	10	advmod	_	KID=262-20
-7	lei	lei	PRON	_	Gender=Fem|Number=Sing|PronType=Prs	10	nsubj	_	KID=262-21
-8	lo	lo	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	Clitic=Yes|KID=262-22
-9	può	potere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	KID=262-23
-10	dire	dire	VERB	_	VerbForm=Inf	0	root	_	KID=262-24
-11	e	e	CCONJ	_	_	13	cc	_	KID=262-25
-12	io	io	PRON	_	Number=Sing|Person=1|PronType=Prs	13	nsubj	_	KID=262-26
-13	no	no	ADV	_	_	10	orphan	_	Intonation=Rising|KID=262-27
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 11 orphan	color:blue
+1	okay	ok	INTJ	_	_	4	discourse	_	Backchannel=BOD2018_16b::11|Begin=49.76|End=50.42|KID=17-0
+2	e	e	CCONJ	_	_	4	discourse	_	Begin=50.735|KID=18-0
+3	si	si	PRON	_	Person=3|PronType=Prs	4	expl	_	Clitic=Yes|KID=18-1
+4	trova	trovare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=18-2
+5	in	in	ADP	_	_	6	case	_	KID=18-3
+6	centro	centro	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	KID=18-4|Prolonged=Yes
+7	a	a	ADP	_	_	9	case	_	KID=18-5a
+8	la	il	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	KID=18-5b
+9	città	città	NOUN	_	Gender=Fem	6	nmod	_	KID=18-6|Prolonged=Yes
+10	o	o	CCONJ	_	_	11	cc	_	KID=18-7
+11	fuori	fuori	ADV	_	_	4	orphan	_	End=53.755|Intonation=Rising|KID=18-8
 
 ~~~
 

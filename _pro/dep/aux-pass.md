@@ -19,4 +19,4 @@ Other auxiliaries associated with the same main verb are not labeled `aux:pass` 
 Asso es estat judyat per Bernat de Tholose\n This has been judged by Bernard of Toulouse
 aux:pass(judyat, estat)
 aux(judyat, es)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:20 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:42 CEST -->

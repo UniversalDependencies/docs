@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Yiddish-YiTB: POS Tags: `NUM`
 
-There are 1 `NUM` lemmas (0%), 51 `NUM` types (1%) and 110 `NUM` tokens (0%).
-Out of 16 observed tags, the rank of `NUM` is: 15 in number of lemmas, 9 in number of types and 14 in number of tokens.
+There are 45 `NUM` lemmas (1%), 51 `NUM` types (1%) and 110 `NUM` tokens (0%).
+Out of 16 observed tags, the rank of `NUM` is: 8 in number of lemmas, 9 in number of types and 14 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>_</em>
+The 10 most frequent `NUM` lemmas: <em>צװײ, אײן, דרײַען, דרײַסיק, אַכט, גנבֿה, זיבעציק, געװינס, זיבן, ליד</em>
 
 The 10 most frequent `NUM` types:  <em>צוויי, איין, צװײ, דרײַ, אײן, דרײַסיק, אַכט, זיבעציק, צען, איינס</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="yi_yitb-pos-DET.html">DET</a></tt> 221, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 110, <tt><a href="yi_yitb-pos-X.html">X</a></tt> 60, <tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> 26, <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> 6, <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> 1, <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="yi_yitb-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ליד</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2), <em>מיליאָן</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2), <em>פֿיר</em> (<tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> 5, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2), <em>אַנטיסעמיט</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>הונדערן</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>הימל</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>טױזנט</em> (<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>נעבעך</em> (<tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>רעליגיע</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 17, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>מיליאָן</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2), <em>פֿיר</em> (<tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 2, <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> 2), <em>הונדערט</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1), <em>פֿינף</em> (<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> 1)
 
@@ -33,9 +33,13 @@ The 10 most frequent ambiguous types:  <em>מיליאָן</em> (<tt><a href="yi_
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 51.000000 (the average of all parts of speech is 1.264753).
+The form / lemma ratio of `NUM` is 1.133333 (the average of all parts of speech is 1.222136).
 
-The 1st highest number of forms (51) was observed with the lemma “_”: <em>1.5, 10, 11, 12, 18,000, 1806, 1859, 1916, 1917, 1929, 1939, 1984, 1988, 2002, 2019, 3, 3,142,560, 32, 4, 5, 53, 60, 75, 800, אַכט, אַכצן, אַנטיסעמיטין, אַרבע, איין, איינס, אײן, דריי, דרײַ, דרײַסיק, הונדערט, זיבן, זיבעציק, זעכציק, טויזנט, מיליאָן, נול, נײַנציק, נײַנצן, פֿופֿציק, פֿינף, פֿיר, צוואַנציק, צוויי, צען, צװאַנציק, צװײ</em>.
+The 1st highest number of forms (3) was observed with the lemma “אײן”: <em>איין, איינס, אײן</em>.
+
+The 2nd highest number of forms (3) was observed with the lemma “גנבֿה”: <em>1.5, 11, 1917</em>.
+
+The 3rd highest number of forms (2) was observed with the lemma “געװינס”: <em>18,000, 1984</em>.
 
 `NUM` does not occur with any features.
 

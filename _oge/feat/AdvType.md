@@ -55,4 +55,4 @@ The `AdvType` feature typically applies to [adverbs](_oge/pos/ADV).
 
 * _ვითარ_ 'in the manner like', _რაჟამს_ 'at the time when' etc.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:13:54 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:41 CEST -->

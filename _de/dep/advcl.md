@@ -26,4 +26,4 @@ advl(grillen, kochen)
 Ich warte , bis sie kommt . \n I am waiting , until she comes .
 advl(warte, kommt)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:00 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:27 CEST -->

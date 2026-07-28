@@ -41,7 +41,7 @@ The 10 most frequent ambiguous types:  <em>quoque</em> (<tt><a href="la_perseus-
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.058824 (the average of all parts of speech is 2.101803).
+The form / lemma ratio of `PART` is 1.058824 (the average of all parts of speech is 2.102438).
 
 The 1st highest number of forms (2) was observed with the lemma “enim”: <em>enim, enimvero</em>.
 

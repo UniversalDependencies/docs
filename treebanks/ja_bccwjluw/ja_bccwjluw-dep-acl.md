@@ -83,7 +83,7 @@ The following 29 pairs of parts of speech are connected with `acl`: <tt><a href=
 9	_	_	AUX	_	_	8	aux	_	BBIL=I|BPT=1|PUDL=だ|SpaceAfter=No|UI=26
 10	_	_	SCONJ	_	_	8	mark	_	BBIL=I|BPT=3|SpaceAfter=No|UI=6
 11	_	_	PUNCT	_	_	8	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=1
-12	_	_	NOUN	_	_	15	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=6373
+12	_	_	NOUN	_	_	15	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=6373
 13	_	_	ADP	_	_	12	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=79
 14	_	_	ADP	_	_	12	case	_	BBIL=I|BPT=3|SpaceAfter=No|UI=10
 15	_	_	NOUN	_	_	17	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=10626

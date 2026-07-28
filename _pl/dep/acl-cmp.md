@@ -43,3 +43,4 @@ In Polish, comparative expressions that depend on nouns can also be realised as 
 13	police
 ...
 ~~~
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:25 CEST -->

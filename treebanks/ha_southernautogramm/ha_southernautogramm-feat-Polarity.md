@@ -11,25 +11,25 @@ It occurs with 1 different values: `Neg`.
 
 331 tokens (2%) have a non-empty value of `Polarity`.
 31 types (2%) occur at least once with a non-empty value of `Polarity`.
-6 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
+7 lemmas (1%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 3 part-of-speech tags: <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (232; 2% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (91; 1% instances), <tt><a href="ha_southernautogramm-pos-INTJ.html">INTJ</a></tt> (8; 0% instances).
 
 ### `PART`
 
-232 <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> tokens (27% of all `PART` tokens) have a non-empty value of `Polarity`.
+232 <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> tokens (22% of all `PART` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="ha_southernautogramm-feat-PartType.html">PartType</a></tt><tt>=Neg</tt> (232; 100%).
+The most frequent other feature values with which `PART` and `Polarity` co-occurred: <tt><a href="ha_southernautogramm-feat-PartType.html">PartType</a></tt><tt>=Neg</tt> (208; 90%).
 
 `PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (232; 100% of non-empty `Polarity`): <em>ba, bàː, bà, bâː, kar̃, kaɗà, bà~, bâ</em>
-* `EMPTY` (636): <em>maː, dai, kuma, nèː, gàː, kèːnan, àkwai, fa, kòː, ta</em>
+* `EMPTY` (811): <em>na, maː, dai, kuma, nèː, gàː, kèːnan, àkwai, mài, fa</em>
 
 ### `AUX`
 
 91 <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (58; 64%), <tt><a href="ha_southernautogramm-feat-Aspect.html">Aspect</a></tt><tt>=PerfNeg</tt> (56; 62%), <tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (51; 56%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="ha_southernautogramm-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (91; 100%), <tt><a href="ha_southernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (58; 64%), <tt><a href="ha_southernautogramm-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (56; 62%), <tt><a href="ha_southernautogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (47; 52%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
@@ -43,7 +43,7 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 `INTJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (8; 100% of non-empty `Polarity`): <em>baːbù, ba, bâː</em>
-* `EMPTY` (912): <em>tòː, eː, ƙwar̃ai, ai, mː, na'àm, kâi, m̀ː, àː, tôː</em>
+* `EMPTY` (913): <em>tòː, eː, ƙwar̃ai, ai, mː, na'àm, kâi, m̀ː, àː, tôː</em>
 
 ## Relations with Agreement in `Polarity`
 

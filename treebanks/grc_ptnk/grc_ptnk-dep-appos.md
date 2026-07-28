@@ -32,7 +32,7 @@ The following 23 pairs of parts of speech are connected with `appos`: <tt><a hre
 8	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	5	advcl	_	Gloss=to-become,come-to-be|Ref=GEN_21.5
 9	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	8	iobj	_	Gloss=he,she,it,-self,same|Ref=GEN_21.5
 10	Ἰσαὰκ	Ἰσαάκ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Gloss=Isaac|Ref=GEN_21.5
-11	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Gloss=the;-oh|Ref=GEN_21.5
+11	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Gloss=the;-oh|Ref=GEN_21.5
 12	υἱὸς	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	Gloss=son|Ref=GEN_21.5
 13	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	12	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_21.5|SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	Ref=GEN_21.5
@@ -77,7 +77,7 @@ The following 23 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	χάριν	χάρις	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	Gloss=Adv:-on-account-of;-Noun:-grace,favour,thanks|Ref=GEN_6.8
 5	ἐναντίον	ἐναντίον	ADP	_	_	6	case	_	Gloss=before|Ref=GEN_6.8
 6	κυρίου	κύριος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	Gloss=lord|Ref=GEN_6.8
-7	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	8	det	_	Gloss=the|Ref=GEN_6.8
+7	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	Gloss=the|Ref=GEN_6.8
 8	θεοῦ	θεός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	Gloss=god|Ref=GEN_6.8|SpaceAfter=No
 9	.	.	PUNCT	_	_	8	punct	_	Ref=GEN_6.8
 

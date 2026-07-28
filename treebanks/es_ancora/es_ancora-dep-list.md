@@ -24,12 +24,12 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 23 28 list	color:blue
 1	Anotación	anotación	NOUN	ncfs000	Gender=Fem|Number=Sing	0	root	0:root	Entity=(NOCOREF:Gen--1-gstype:gen
 2	por	por	ADP	sps00	_	3	case	3:case	_
-3	cuartos	cuarto	NOUN	ncmp000	Gender=Masc|Number=Plur	1	nmod	1:nmod	SpaceAfter=No|Entity=(NOCOREF:Gen--1-gstype:gen)
+3	cuartos	cuarto	NOUN	ncmp000	Gender=Masc|Number=Plur	1	nmod	1:nmod	Entity=(NOCOREF:Gen--1-gstype:gen)|SpaceAfter=No
 4	:	:	PUNCT	fd	PunctType=Colo	5	punct	5:punct	_
-5	1ro	1	ADJ	_	NumForm=Digit|NumType=Ord	1	appos	1:appos	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
-6	2do	2	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
-7	3ro	3	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
-8	4to	4	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
+5	1ro	1ro	ADJ	_	NumForm=Digit|NumType=Ord	1	appos	1:appos	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
+6	2do	2do	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
+7	3ro	3ro	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
+8	4to	4to	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 9	PO	PO	NOUN	np00000	_	5	list	5:list	MWE=PO_Total|MWEPOS=PROPN|Entity=(NOCOREF:Spec.other-other-1-gstype:spec
 10	Total	Total	NOUN	_	_	5	list	5:list	Entity=NOCOREF:Spec.other)
 11	-	-	PUNCT	fg	PunctType=Dash	13	punct	13:punct	_
@@ -49,7 +49,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 25	19	19	NUM	_	NumForm=Digit|NumType=Card	23	list	23:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 26	25	25	NUM	_	NumForm=Digit|NumType=Card	23	list	23:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 27	18	18	NUM	_	NumForm=Digit|NumType=Card	23	list	23:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
-28	125	125	NUM	_	NumForm=Digit|NumType=Card	23	list	23:list	SpaceAfter=No|Entity=(NOCOREF:Spec.number-number-1-gstype:spec)NOCOREF:Gen)
+28	125	125	NUM	_	NumForm=Digit|NumType=Card	23	list	23:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)NOCOREF:Gen)|SpaceAfter=No
 29	.	.	PUNCT	fp	PunctType=Peri	1	punct	1:punct	_
 
 ~~~
@@ -61,19 +61,19 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 26 list	color:blue
-1	'	'	PUNCT	fz	PunctType=Quot	3	punct	3:punct	SpaceAfter=No|Entity=(CESSCASTP1999110181c4-other-3-gstype:spec
+1	'	'	PUNCT	fz	PunctType=Quot	3	punct	3:punct	Entity=(CESSCASTP1999110181c4-other-3-gstype:spec|SpaceAfter=No
 2	El	el	DET	np00000	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	MWE=El_caso_Winslow|MWEPOS=PROPN
 3	caso	caso	NOUN	_	Gender=Masc|Number=Sing	0	root	0:root	_
 4	Winslow	Winslow	PROPN	_	_	3	nmod	3:nmod	SpaceAfter=No
 5	'	'	PUNCT	fz	PunctType=Quot	3	punct	3:punct	Entity=CESSCASTP1999110181c4)
-6	Director	director	NOUN	ncms000	Gender=Masc|Number=Sing	3	list	3:list	SpaceAfter=No|Entity=(NOCOREF:Gen--1-gstype:gen
+6	Director	director	NOUN	ncms000	Gender=Masc|Number=Sing	3	list	3:list	Entity=(NOCOREF:Gen--1-gstype:gen|SpaceAfter=No
 7	:	:	PUNCT	fd	PunctType=Colo	8	punct	8:punct	Entity=(CESSCASTP1999110181c2-person-2-gstype:spec
 8	David	David	PROPN	np00000	_	6	appos	6:appos	MWE=David_Mamet|MWEPOS=PROPN
 9	Mamet	Mamet	PROPN	_	_	8	flat	8:flat	Entity=CESSCASTP1999110181c2)NOCOREF:Gen)
 10	Intérpretes	intérprete	NOUN	nccp000	Number=Plur	3	list	3:list	SpaceAfter=No
 11	:	:	PUNCT	fd	PunctType=Colo	12	punct	12:punct	_
 12	Nigel	Nigel	PROPN	np00000	_	10	appos	10:appos	MWE=Nigel_Hawthorne|MWEPOS=PROPN|Entity=(CESSCASTP1999110181c17--1
-13	Hawthorne	Hawthorne	PROPN	_	_	12	flat	12:flat	SpaceAfter=No|Entity=CESSCASTP1999110181c17)
+13	Hawthorne	Hawthorne	PROPN	_	_	12	flat	12:flat	Entity=CESSCASTP1999110181c17)|SpaceAfter=No
 14	,	,	PUNCT	fc	PunctType=Comm	15	punct	15:punct	_
 15	Rebecca	Rebecca	PROPN	np00000	_	12	conj	12:conj	MWE=Rebecca_Pidgeon|MWEPOS=PROPN
 16	Pidgeon	Pidgeon	PROPN	_	_	15	flat	15:flat	SpaceAfter=No
@@ -93,9 +93,9 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 30	Boliche	Boliche	PROPN	np00000	_	28	conj	28:conj	_
 31	y	y	CCONJ	cc	_	32	cc	32:cc	_
 32	Verdi	Verdi	PROPN	np00000	_	28	conj	28:conj	_
-33	(	(	PUNCT	fpa	PunctSide=Ini|PunctType=Brck	34	punct	34:punct	SpaceAfter=No|Entity=(NOCOREF:Spec.other-other-2-gstype:spec
+33	(	(	PUNCT	fpa	PunctSide=Ini|PunctType=Brck	34	punct	34:punct	Entity=(NOCOREF:Spec.other-other-2-gstype:spec|SpaceAfter=No
 34	VOSE	VOSE	PROPN	np00000	_	32	flat	32:flat	SpaceAfter=No
-35	)	)	PUNCT	fpt	PunctSide=Fin|PunctType=Brck	34	punct	34:punct	SpaceAfter=No|Entity=NOCOREF:Spec.other)
+35	)	)	PUNCT	fpt	PunctSide=Fin|PunctType=Brck	34	punct	34:punct	Entity=NOCOREF:Spec.other)|SpaceAfter=No
 36	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
 
 ~~~
@@ -109,12 +109,12 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 # visual-style 5 8 list	color:blue
 1	Anotación	anotación	NOUN	ncfs000	Gender=Fem|Number=Sing	0	root	0:root	Entity=(NOCOREF:Gen--1-gstype:gen
 2	por	por	ADP	sps00	_	3	case	3:case	_
-3	cuartos	cuarto	NOUN	ncmp000	Gender=Masc|Number=Plur	1	nmod	1:nmod	SpaceAfter=No|Entity=(NOCOREF:Gen--1-gstype:gen)
+3	cuartos	cuarto	NOUN	ncmp000	Gender=Masc|Number=Plur	1	nmod	1:nmod	Entity=(NOCOREF:Gen--1-gstype:gen)|SpaceAfter=No
 4	:	:	PUNCT	fd	PunctType=Colo	5	punct	5:punct	_
-5	1ro	1	ADJ	_	NumForm=Digit|NumType=Ord	1	appos	1:appos	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
-6	2do	2	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
-7	3ro	3	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
-8	4to	4	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
+5	1ro	1ro	ADJ	_	NumForm=Digit|NumType=Ord	1	appos	1:appos	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
+6	2do	2do	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
+7	3ro	3ro	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
+8	4to	4to	ADJ	_	NumForm=Digit|NumType=Ord	5	list	5:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 9	PO	PO	NOUN	np00000	_	5	list	5:list	MWE=PO_Total|MWEPOS=PROPN|Entity=(NOCOREF:Spec.other-other-1-gstype:spec
 10	Total	Total	NOUN	_	_	5	list	5:list	Entity=NOCOREF:Spec.other)
 11	-	-	PUNCT	fg	PunctType=Dash	13	punct	13:punct	_
@@ -134,7 +134,7 @@ The following 5 pairs of parts of speech are connected with `list`: <tt><a href=
 25	19	19	NUM	_	NumForm=Digit|NumType=Card	23	list	23:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 26	25	25	NUM	_	NumForm=Digit|NumType=Card	23	list	23:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
 27	18	18	NUM	_	NumForm=Digit|NumType=Card	23	list	23:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)
-28	125	125	NUM	_	NumForm=Digit|NumType=Card	23	list	23:list	SpaceAfter=No|Entity=(NOCOREF:Spec.number-number-1-gstype:spec)NOCOREF:Gen)
+28	125	125	NUM	_	NumForm=Digit|NumType=Card	23	list	23:list	Entity=(NOCOREF:Spec.number-number-1-gstype:spec)NOCOREF:Gen)|SpaceAfter=No
 29	.	.	PUNCT	fp	PunctType=Peri	1	punct	1:punct	_
 
 ~~~

@@ -32,5 +32,5 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (12; 100% of non-empty `Polarity`): <em>չիք, չիկ</em>
-* `EMPTY` (10491): <em>նա, որ, նորա, ձեզ, նոսա, նմա, իմ, նոցա, իս, իւր</em>
+* `EMPTY` (10486): <em>նա, որ, նորա, ձեզ, նոսա, նմա, իմ, նոցա, իս, իւր</em>
 

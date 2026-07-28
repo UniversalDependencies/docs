@@ -11,7 +11,7 @@ It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
 
 36628 tokens (38%) have a non-empty value of `Case`.
 12608 types (84%) occur at least once with a non-empty value of `Case`.
-8604 lemmas (82%) occur at least once with a non-empty value of `Case`.
+8604 lemmas (81%) occur at least once with a non-empty value of `Case`.
 The feature is used with 6 part-of-speech tags: <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (22431; 23% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (8472; 9% instances), <tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (2609; 3% instances), <tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (1733; 2% instances), <tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (1334; 1% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (49; 0% instances).
 
 ### `NOUN`
@@ -71,7 +71,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Acc` (726; 28% of non-empty `Case`): <em>sig, dem, oss, dig, varandra, mig, henne, honom, sej, varann</em>
 * `Nom` (1883; 72% of non-empty `Case`): <em>man, de, vi, du, han, jag, hon, ni, bägge, en</em>
-* `EMPTY` (4137): <em>det, som, den, sin, detta, vad, sina, deras, sitt, våra</em>
+* `EMPTY` (4142): <em>det, som, den, sin, detta, vad, sina, deras, sitt, våra</em>
 
 <table>
   <tr><th>Paradigm <i>de</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -117,7 +117,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 `VERB` tokens may have the following values of `Case`:
 
 * `Nom` (49; 100% of non-empty `Case`): <em>påverkade, vald, vänd, hörselskadad, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade</em>
-* `EMPTY` (9741): <em>har, finns, blir, få, får, ha, gäller, behöver, ger, går</em>
+* `EMPTY` (9740): <em>har, finns, blir, få, får, ha, gäller, behöver, ger, går</em>
 
 `Case` seems to be **lexical feature** of `VERB`. 100% lemmas (39) occur only with one value of `Case`.
 

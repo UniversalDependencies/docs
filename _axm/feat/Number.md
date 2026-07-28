@@ -15,67 +15,64 @@ udver: '2'
 </tr>
 </table>
 
-In Middle Armenian, `Number` is a feature of [nouns](NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](PRON), and [verbs](VERB). 
+In Middle Armenian, `Number` is a feature of [nouns](NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](PRON) and [verbs](VERB). 
 
 ### <a name="Sing">`Sing`</a>: singular number
 
-A singular noun denotes one person, animal or thing.
+A singular noun denotes one person, animal, or thing.
 
 #### Examples:
 
-* _<b>գրաստ</b>/grast_ “beast of burden”
-* _<b>մանուկ</b>/manuk_ “child”
-* _<b>ծառայ</b>/çaṙay_ “servant”
-* _<b>տուն</b>/town_ “house”
+* _<b>գրաստ</b>_/_grast_ “beast of burden”
+* _<b>մանուկ</b>_/_manuk_ “child”
+* _<b>ծառայ</b>_/_çaṙay_ “servant”
+* _<b>տուն</b>_/_town_ “house”
 
-Pronouns that refer to a single person, an animal or a thing are also marked with this feature.
+Pronouns that refer to a single person, animal, or thing are also marked with this feature.
 
-* _<b>Ես</b>/es_ “I”
-* _<b>իմ</b>/im_ “my”
-* _<b>դու</b>/du_ “you”
-* _<b>քո</b>/k'o_ “your”
-* _<b>ինք</b>/ink'_ “he/she/it”
-* _<b>իւր(իր)</b>/iwr(ir)_ “his/her/its”
+* _<b>Ես</b>_/_es_ “I”
+* _<b>իմ</b>_/_im_ “my”
+* _<b>դու</b>_/_du_ “you”
+* _<b>քո</b>_/_k'o_ “your”
+* _<b>ինք</b>-/_ink'_ “he/she/it”
+* _<b>իւր(իր)</b>_/_iwr(ir)_ “his/her/its”
 
-Demonstrative pronouns that refer to singular nouns, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
+Demonstrative pronouns referring to singular entities are marked with this feature, whereas demonstrative determiners are not, regardless of whether the modified noun is singular or plural (e.g. _<b>այս դեղս</b>_/_ays deġs_ “this medicine”; _<b>այս դեղերն</b>_/_ays deġern_ “these medicines” _<b>այդ երկիրն</b>_/_ayd erkirn_ “that country (medial)”, _<b>այդ պռկունքդ</b>_/_ayd pṙkownkʼd_ “those your lips”).
 
-* _<b>սա</b>/sa_ “this”
-* _<b>դա</b>/da_ “that (medial)”
-* _<b>նա</b>/na_ “that”
-* _<b>այն</b>/ayn_ “that, it”
+* _<b>սա</b>_/_sa_ “this”
+* _<b>դա</b>_/_da_ “that (medial)”
+* _<b>նա</b>_/_na_ “that”
+* _<b>այն</b>_/_ayn_ “that, it”
 
 ### <a name="Plur">`Plur`</a>: plural number
 
-A plural noun denotes several persons, animals or things. There are many endings to mark the plurality of the word in Middle Armenian, such as _-ք/k', -եր/-er, -եար/-ear, -ան/-an, -նի/-ni, -տի/-ti, -վի/-vi, -վտի/-vti,
--ստան/-stan, -ներ/ner_ etc.
+A plural noun denotes several persons, animals or things. Middle Armenian has several plural suffixes, including _-ք/k', -եր/-er, -եար/-ear, -ան/-an, -նի/-ni, -տի/-ti, -վի/-vi, -վտի/-vti, -ստան/-stan, -ներ/ner_ etc.
 
 #### Examples:
 
-* _<b>գրաստնի</b>/grastni_ “beasts of burden”
-* _<b>մանկտի</b>/mankti_ “children”
-* _<b>ծառայք</b>/çaṙayk'_ “servants”
-* _<b>տներ</b>/tner_ “houses”
+* _<b>գրաստնի</b>_/_grastni_ “beasts of burden”
+* _<b>մանկտի</b>_/_mankti_ “children”
+* _<b>ծառայք</b>_/_çaṙayk'_ “servants”
+* _<b>տներ</b>_/_tner_ “houses”
   
 Pronouns that refer to several persons, animals or things are also marked with this feature.
 
-* _<b>մեք</b>/mek'_ “we”
-* _<b>մեր</b>/mer_ “our”
-* _<b>դուք</b>/duk'_ “you (pl.)”
-* _<b>ձեր</b>/jer_ “yours (pl.)”
-* _<b>իրենք</b>/irenk'_ “they”
-* _<b>իրենց (իրանց, իւրեանց, իւրենց)</b>/irenc’ (iranc’, iwreanc’, iwrenc’)_ “their”
+* _<b>մեք</b>_/_mek'_ “we”
+* _<b>մեր</b>_/_mer_ “our”
+* _<b>դուք</b>_/_duk'_ “you (pl.)”
+* _<b>ձեր</b>_/_jer_ “yours (pl.)”
+* _<b>իրենք</b>_/_irenk'_ “they”
+* _<b>իրենց (իրանց, իւրեանց, իւրենց)</b>_/_irenc’ (iranc’, iwreanc’, iwrenc’)_ “their”
+* _<b>սոքա</b>_/_sok’a_ “these”
+* _<b>դոքա</b>_/_dok’a_ “those (medial)”
+* _<b>նոքա</b>_/_nok’a_ “those”
+* _<b>այնոք</b>_/_aynok'_ “those”
 
-Demonstrative pronouns that refer to plural nouns, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
-
-* _<b>սոքա</b>/sok’a_ “these”
-* _<b>դոքա</b>/dok’a_ “those (medial)”
-* _<b>նոքա</b>/nok’a_ “those”
-* _<b>այնոք</b>/aynok'_ “those”
-
+Demonstrative pronouns referring to plural entities are marked with this feature, whereas demonstrative determiners are not, regardless of whether the modified noun is singular or plural (see above).
 
 ### <a name="Ptan">`Ptan`</a>: plurale tantum
 
-Some geographical or biological/botanical names appear only in the plural form even though they denote one thing (semantic singular). We mark these [proper nouns](PROPN) as `Ptan` (plurale tantum). Grammatically they behave like singulars, so `Ptan` is obviously the back-off value here.
+Some geographical or biological/botanical names appear only in the plural form even though they denote one thing (semantic singular). These [proper nouns](PROPN) are marked as `Ptan` (plurale tantum). Grammatically they behave like singulars, so `Ptan` is obviously the back-off value here.
 
 #### Examples
 
@@ -86,11 +83,11 @@ Some geographical or biological/botanical names appear only in the plural form e
   
 ### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
 
-Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. Although in Armenian they are able to form plural. In practice the plural form means “several sorts of” or “several packages of”. We mark these forms as `Plur`.
+Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. Although in Armenian they are able to form plural, in practice the plural form means “several sorts of” or “several packages of”. We mark these forms as `Plur`.
 
 #### Examples:
 
-* _<b>դահութիւն</b>/dahowt’iwn_ “old age”
-* _<b>խիփ</b>/xip’_ “shame, reverence”
-* _<b>պօղպատ</b>/pòġpat_ “steel”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:28 CET -->
+* _<b>դահութիւն</b>_/_dahowt’iwn_ “old age”
+* _<b>խիփ</b>_/_xip’_ “shame, reverence”
+* _<b>պօղպատ</b>_/_pòġpat_ “steel”
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->

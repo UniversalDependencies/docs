@@ -44,7 +44,7 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 vocative	color:blue
-1	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	3	nsubj	_	Gloss=the|Ref=GEN_42.10
+1	οἱ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	nsubj	_	Gloss=the|Ref=GEN_42.10
 2	δὲ	δέ	CCONJ	_	_	3	cc	_	Gloss=but,and,however|Ref=GEN_42.10
 3	εἶπαν	λέγω	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_42.10|SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	Ref=GEN_42.10
@@ -52,7 +52,7 @@ The following 11 pairs of parts of speech are connected with `vocative`: <tt><a 
 6	,	,	PUNCT	_	_	7	punct	_	Ref=GEN_42.10
 7	κύριε	κύριος	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	Gloss=lord|Ref=GEN_42.10|SpaceAfter=No
 8	·	·	PUNCT	_	_	9	punct	_	Ref=GEN_42.10
-9	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	10	det	_	Gloss=the|Ref=GEN_42.10
+9	οἱ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	Gloss=the|Ref=GEN_42.10
 10	παῖδές	παῖς	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	Gloss=child,servant|Ref=GEN_42.10
 11	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	10	nmod:poss	_	Gloss=you,your|Ref=GEN_42.10
 12	ἤλθομεν	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	Gloss=to-come,go|Ref=GEN_42.10

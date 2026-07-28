@@ -67,7 +67,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 `SCONJ` tokens may have the following values of `PronType`:
 
 * `Rel` (27; 100% of non-empty `PronType`): <em>quam</em>
-* `EMPTY` (750): <em>ut, si, cum, ne, quod, dum, nisi, ubi, quia, postquam</em>
+* `EMPTY` (749): <em>ut, si, cum, ne, quod, dum, nisi, ubi, quia, postquam</em>
 
 ### `ADV`
 

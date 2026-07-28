@@ -85,7 +85,7 @@ The following 3 pairs of parts of speech are connected with `aux:imp`: <tt><a hr
 10	1989	1989	ADJ	adj:sg:gen:m3:pos	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|NumForm=Digit|NumType=Ord	11	amod:flat	11:amod:flat	_
 11	roku	rok	NOUN	subst:sg:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	nmod:flat	9:nmod:flat	SpaceAfter=No
 12	,	,	PUNCT	interp	PunctType=Comm	13	punct	13:punct	_
-13	zapytany	zapytać	ADJ	ppas:sg:nom:m1:perf:aff	Animacy=Hum|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	26	acl	26:acl	_
+13	zapytany	zapytać	ADJ	ppas:sg:nom:m1:perf:aff	Animacy=Hum|Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	26	amod	26:amod	_
 14	przez	przez	ADP	prep:acc:nwok	AdpType=Prep|Variant=Short	15	case	15:case	Case=Acc
 15	prowadzącego	prowadzący	NOUN	subst:sg:acc:m1	Animacy=Hum|Case=Acc|Gender=Masc|Number=Sing	13	obl:agent	13:obl:agent	SpaceAfter=No
 16	,	,	PUNCT	interp	PunctType=Comm	18	punct	18:punct	_

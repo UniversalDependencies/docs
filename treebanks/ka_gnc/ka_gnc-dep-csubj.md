@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `csubj`: <tt><a href="ka_gnc-dep-csubj
 41 instances of `csubj` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.29268292682927.
 
-The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (19; 46% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (11; 27% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (4; 10% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (4; 10% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (20; 49% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (11; 27% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (4; 10% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -61,7 +61,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 csubj	color:blue
-1	რა	რა	PRON	Pron_Int_Nonhum_Nom_Att	Case=Nom	2	amod	_	LMSeg:რ[ა]
+1	რა	რა	PRON	Pron_Int_Nonhum_Nom_Att	Case=Nom|PronType=Int	2	amod	_	LMSeg:რ[ა]
 2	უსამართლობა	უსამართლობა	NOUN	N_Nom_Sg_Encl:Aux	Case=Nom|Number=Sing	0	root	_	LMSeg:უსამართლობ[ა]|SpaceAfter=No
 3	ა	ყოფნა	AUX	V_MedPass_Pres_S:3Sg_Encl	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	2	cop	_	LMSeg:ყოფნ[ა]/არ|SpaceAfter=No
 4	,	,	PUNCT	Punct_Comma	_	8	punct	_	LMSeg:,

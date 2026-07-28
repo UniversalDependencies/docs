@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1743 nodes (2%) are attached to their parents as `cop`.
+1746 nodes (2%) are attached to their parents as `cop`.
 
-1668 instances of `cop` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.06024096385542.
+1671 instances of `cop` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.05899198167239.
 
-The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (787; 45% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (652; 37% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (125; 7% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (72; 4% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (56; 3% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (36; 2% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (788; 45% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (652; 37% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (127; 7% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (72; 4% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (56; 3% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (36; 2% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="en_lines-pos-PART.html">PART</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="en_lines-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,7 +38,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 7 4 cop	color:blue
 1	Identifying	identify	VERB	ING	Tense=Pres|VerbForm=Part	0	root	_	_
 2	filters	filter	NOUN	PL-NOM	Number=Plur	1	obj	_	_
-3	that	that	PRON	REL	PronType=Rel	7	nsubj	_	_
+3	that	that	PRON	REL	Number=Sing|PronType=Dem	7	nsubj	_	_
 4	are	be	AUX	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	_
 5	currently	currently	ADV	_	_	7	advmod	_	_
 6	in	in	ADP	_	_	7	case	_	_

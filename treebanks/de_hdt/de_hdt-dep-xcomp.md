@@ -28,7 +28,7 @@ The following 47 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	sich	sich	PRON	PRF	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	2	obj	_	_
 5	auch	auch	ADV	ADV	_	8	advmod	_	_
 6	ohne	ohne	ADP	APPR	AdpType=Prep|Case=Acc	8	case	_	_
-7	zusätzliche	zusätzlich	ADJ	ADJA	Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
+7	zusätzliche	zusätzlich	ADJ	ADJA	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
 8	Hardware	Hardware	NOUN	NN	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
 9	nutzen	nutzen	VERB	VVINF	VerbForm=Inf	2	xcomp	_	_
 10	.	.	PUNCT	$.	PunctType=Peri	2	punct	_	_
@@ -67,7 +67,7 @@ The following 47 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	Zeit	Zeit	NOUN	NN	Gender=Fem|Number=Sing	2	nsubj	_	_
 5	,	,	PUNCT	$,	PunctType=Comm	8	punct	_	_
 6	auf	auf	ADP	APPR	AdpType=Prep|Case=Dat	7	case	_	_
-7	Bundesebene	Bundesebene	NOUN	NN	Gender=Fem|Number=Sing	8	obl	_	_
+7	Bundesebene	Bundesebene	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	_
 8	nachzuziehen	nachziehen	VERB	VVIZU	VerbForm=Inf	4	xcomp	_	_
 9	.	.	PUNCT	$.	PunctType=Peri	2	punct	_	_
 

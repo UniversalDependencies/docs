@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-206 nodes (1%) are attached to their parents as `nummod`.
+210 nodes (1%) are attached to their parents as `nummod`.
 
-204 instances of `nummod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19417475728155.
+208 instances of `nummod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19047619047619.
 
-The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (198; 96% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `nummod`: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (201; 96% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 5 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 nummod	color:blue
-1	ვინ	ვინ	PRON	Pron_Int_Hum_Nom	Animacy=Anim|Case=Nom	4	nsubj	_	LMSeg:ვინ
+1	ვინ	ვინ	PRON	Pron_Int_Hum_Nom	Animacy=Anim|Case=Nom|PronType=Int	4	nsubj	_	LMSeg:ვინ
 2	იყო	ყოფნა	AUX	V_Pass_Aor_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past|VerbForm=Fin	4	cop	_	LMSeg:ყოფნ[ა]/ყ[ავ]
 3	ეს	ეს	PRON	Pron_Dem_Nom_Att	Case=Nom|PronType=Dem	4	det	_	LMSeg:ეს
 4	ჰილდე	ჰილდე	PROPN	N_Prop_Anthr_FirstName_Nom	Case=Nom|NameType=Prs	0	root	_	LMSeg:ჰილდე|SpaceAfter=No

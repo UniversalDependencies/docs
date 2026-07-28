@@ -86,7 +86,7 @@ The following 1 pairs of parts of speech are connected with `dislocated`: <tt><a
 62	viel	viel	ADV	ADV	_	65	advmod	_	_
 63	philologischen	philologisch	ADJ	ADJA	_	64	amod	_	_
 64	Geist	Geist	NOUN	NN	Case=Acc	65	obj	_	_
-65	hat	haben	AUX	VAFIN	_	58	acl	_	SpaceAfter=No
+65	hat	haben	AUX	VAFIN	_	58	acl:relcl	_	SpaceAfter=No
 66	,	,	PUNCT	$,	_	65	punct	_	_
 67	gefallen	gefallen	VERB	VVINF	_	68	xcomp	_	_
 68	lassen	lassen	VERB	VVINF	_	53	acl	_	_

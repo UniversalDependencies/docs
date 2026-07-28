@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-243 nodes (22%) are attached to their parents as `punct`.
+257 nodes (22%) are attached to their parents as `punct`.
 
-152 instances of `punct` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.67489711934156.
+166 instances of `punct` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.56420233463035.
 
-The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (166; 68% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (29; 12% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (15; 6% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (11; 5% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (10; 4% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (7; 3% instances), <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="koi_uh-pos-VERB.html">VERB</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (179; 70% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (29; 11% instances), <tt><a href="koi_uh-pos-ADJ.html">ADJ</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (15; 6% instances), <tt><a href="koi_uh-pos-ADV.html">ADV</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (11; 4% instances), <tt><a href="koi_uh-pos-PROPN.html">PROPN</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (10; 4% instances), <tt><a href="koi_uh-pos-PRON.html">PRON</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (8; 3% instances), <tt><a href="koi_uh-pos-INTJ.html">INTJ</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="koi_uh-pos-NUM.html">NUM</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (2; 1% instances), <tt><a href="koi_uh-pos-AUX.html">AUX</a></tt>-<tt><a href="koi_uh-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

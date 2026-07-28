@@ -22,12 +22,12 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 3 vocative	color:blue
-1	cauchemar	cauchemar	NOUN	_	_	6	dislocated	_	AlignBegin=75156|AlignEnd=75415|Gender[lex]=Masc|Number[ctxt]=Sing|SpaceAfter=No
+1	cauchemar	cauchemar	NOUN	_	Gender=Masc|Number=Sing	6	dislocated:obj	_	AlignBegin=75156|AlignEnd=75415|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 2	,	,	PUNCT	_	_	3	punct	_	AlignBegin=75415|AlignEnd=75415
-3	meuf	meuf	NOUN	_	_	6	vocative	_	AlignBegin=75415|AlignEnd=75674|Gender[lex]=Fem|Number[ctxt]=Sing|SpaceAfter=No
+3	meuf	meuf	NOUN	_	Gender=Fem|Number=Sing	6	vocative	_	AlignBegin=75415|AlignEnd=75674|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=75674|AlignEnd=75674
-5	tu	toi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	AlignBegin=75674|AlignEnd=75933
-6	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=75933|AlignEnd=76193
+5	tu	toi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=2|PronType=Prs	6	nsubj	_	AlignBegin=75674|AlignEnd=75933|Exponence[Number]=Inherent|Exponence[Person]=Inherent
+6	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=75933|AlignEnd=76193|Exponence[Person]=Absent
 7	même	même	ADV	_	_	6	advmod	_	AlignBegin=76193|AlignEnd=76452
 8	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	AlignBegin=76452|AlignEnd=76711
 9	savoir	savoir	VERB	_	VerbForm=Inf	6	xcomp	_	AlignBegin=76711|AlignEnd=76970|SpaceAfter=No|Subject=SubjRaising
@@ -42,16 +42,16 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 10 vocative	color:blue
-1	il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Exponence[Person]=Inherent
 2	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	cop	_	_
 3	là	là	ADV	_	_	0	root	_	_
 4	en	en	ADP	_	ExtPos=ADP	9	mark	_	Idiom=Yes
-5	mode	mode	NOUN	_	_	4	fixed	_	InIdiom=Yes|Number[ctxt]=Sing
+5	mode	mode	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|InIdiom=Yes
 6	mais	mais	CCONJ	_	_	9	cc	_	_
-7	vous	vous	PRON	_	Case=Nom|Emph=No|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	Polite=Yes
+7	vous	vous	PRON	_	Case=Nom|Emph=No|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent|Polite=Yes
 8	êtes	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	cop	_	Reported=Yes
-9	sûre	sûr	ADJ	_	_	3	advcl	_	Gender[ctxt]=Fem|Number[ctxt]=Sing
-10	madame	madame	NOUN	_	_	9	vocative	_	Gender[lex]=Fem|Number[ctxt]=Sing|SpaceAfter=No
+9	sûre	sûr	ADJ	_	Gender=Fem|Number=Sing	3	advcl	_	Exponence[Gender]=Absent|Exponence[Number]=Absent|HasSpokenGender=No|HasSpokenNumber=OnlyWithLiaison
+10	madame	madame	NOUN	_	Gender=Fem|Number=Sing	9	vocative	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	euh	euh	INTJ	_	_	9	discourse	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	9	punct	_	_
@@ -66,23 +66,23 @@ The following 7 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 11	fgColor:white
 # visual-style 11 8 vocative	color:blue
 1	et	et	CCONJ	_	_	5	cc	_	AlignBegin=120176|AlignEnd=120295
-2	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=120295|AlignEnd=120414
-3	lui	lui	PRON	_	Case=Dat|Emph=No|Number=Sing|Person=3|PronType=Prs	5	iobj	_	AlignBegin=120414|AlignEnd=120533
+2	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	AlignBegin=120295|AlignEnd=120414|Exponence[Number]=Inherent|Exponence[Person]=Inherent
+3	lui	lui	PRON	_	Case=Dat|Emph=No|Number=Sing|Person=3|PronType=Prs	5	iobj	_	AlignBegin=120414|AlignEnd=120533|Exponence[Person]=Inherent
 4	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux:tense	_	AlignBegin=120533|AlignEnd=120652
-5	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=120652|AlignEnd=120771
+5	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=120652|AlignEnd=120771|Exponence[Person]=Absent
 6	bon	bon	INTJ	_	_	11	discourse	_	AlignBegin=120771|AlignEnd=120967|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	AlignBegin=120967|AlignEnd=120967
 8	XXX	XXX	X	_	ExtPos=PROPN	11	vocative	_	AlignBegin=120967|AlignEnd=121163|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	AlignBegin=121163|AlignEnd=121163
 10	euh	euh	INTJ	_	_	11	discourse	_	AlignBegin=121163|AlignEnd=121359
-11	dis	dire	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	ccomp	_	AlignBegin=121359|AlignEnd=121555|Reported=Yes|SpaceAfter=No
-12	-moi	moi	PRON	_	Emph=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	AlignBegin=121359|AlignEnd=121555|Reported=Yes
-13	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	obj	_	AlignBegin=121555|AlignEnd=121752
+11	dis	dire	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	ccomp	_	AlignBegin=121359|AlignEnd=121555|Exponence[Person]=Absent|Reported=Yes|SpaceAfter=No
+12	-moi	moi	PRON	_	Emph=Yes|Number=Sing|Person=1|PronType=Prs	11	iobj	_	AlignBegin=121359|AlignEnd=121555|Exponence[Number]=Inherent|Exponence[Person]=Inherent|Reported=Yes
+13	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	11	obj	_	AlignBegin=121555|AlignEnd=121752|Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent
 14	que	que	PRON	_	PronType=Rel	19	obj	_	AlignBegin=121752|AlignEnd=121948
-15	tu	toi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=2|PronType=Prs	16	nsubj	_	AlignBegin=121948|AlignEnd=122144
+15	tu	toi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=2|PronType=Prs	16	nsubj	_	AlignBegin=121948|AlignEnd=122144|Exponence[Number]=Inherent|Exponence[Person]=Inherent
 16	as	avoir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	AlignBegin=122144|AlignEnd=122340
 17	à	à	ADP	_	_	19	mark	_	AlignBegin=122340|AlignEnd=122340
-18	me	moi	PRON	_	Case=Dat|Emph=No|Number=Sing|Person=1|PronType=Prs	19	iobj	_	AlignBegin=122340|AlignEnd=122536
+18	me	moi	PRON	_	Case=Dat|Emph=No|Number=Sing|Person=1|PronType=Prs	19	iobj	_	AlignBegin=122340|AlignEnd=122536|Exponence[Number]=Inherent|Exponence[Person]=Inherent
 19	dire	dire	VERB	_	VerbForm=Inf	16	xcomp	_	AlignBegin=122536|AlignEnd=122732|SpaceAfter=No|Subject=SubjRaising
 20	.	.	PUNCT	_	_	11	punct	_	AlignBegin=122732|AlignEnd=122732
 

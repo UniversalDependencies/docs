@@ -34,7 +34,7 @@ The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 9	han	haber	AUX	VBC	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
 10	pedido	pedir	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
 11	en	en	ADP	IN	_	13	case	_	_
-12	reiteradas	reiterado	ADJ	JJ	Gender=Fem|Number=Plur	13	amod	_	_
+12	reiteradas	reiterado	ADJ	JJ	Gender=Fem|Number=Plur|VerbForm=Part	13	amod	_	_
 13	ocasiones	ocasión	NOUN	NN	Gender=Fem|Number=Plur	10	obl	_	_
 14	derogar	derogar	VERB	VB	VerbForm=Inf	10	xcomp	_	_
 15	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
@@ -82,7 +82,7 @@ The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 21	Slate	Slate	PROPN	NNP	Number=Sing	9	obl	_	_
 22	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	año	año	NOUN	NN	Gender=Masc|Number=Sing	9	obl:tmod	_	_
-24	pasado	pasado	ADJ	JJ	Gender=Masc|Number=Sing	23	amod	_	SpaceAfter=No
+24	pasado	pasado	ADJ	JJ	Gender=Masc|Number=Sing|VerbForm=Part	23	amod	_	SpaceAfter=No
 25	.	.	PUNCT	.	PunctType=Peri	9	punct	_	_
 
 ~~~

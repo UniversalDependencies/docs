@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (27; 100% of non-empty `Foreign`): <em>cápita, News, Approach, Brands, Company, Dead, Engagement, Father, Forums, Ground</em>
-* `EMPTY` (4790): <em>años, año, guerra, lugar, parte, gobierno, ciudad, mar, estado, millones</em>
+* `EMPTY` (4780): <em>años, año, guerra, lugar, parte, gobierno, ciudad, mar, estado, millones</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (24) occur only with one value of `Foreign`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Foreign` co-occurr
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (7; 100% of non-empty `Foreign`): <em>Breaking, Buck, Controlled, Go, Knuck, Like, Love</em>
-* `EMPTY` (2258): <em>dijo, tiene, es, hacer, hay, hace, tener, está, tienen, debido</em>
+* `EMPTY` (2263): <em>dijo, tiene, es, hacer, hay, hace, tener, está, tienen, debido</em>
 
 ### `DET`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>My, You, Her, Me</em>
-* `EMPTY` (1033): <em>se, que, su, lo, sus, le, cual, ellos, me, él</em>
+* `EMPTY` (1040): <em>se, que, su, lo, sus, le, cual, ellos, me, él</em>
 
 ### `ADJ`
 
@@ -69,7 +69,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>American, Stranger, Talking</em>
-* `EMPTY` (1477): <em>gran, primera, mayor, nueva, nacional, grandes, primer, últimos, británica, nuevos</em>
+* `EMPTY` (1482): <em>gran, primera, mayor, nueva, nacional, grandes, primer, últimos, británica, nuevos</em>
 
 ### `ADP`
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>Over, per</em>
-* `EMPTY` (3962): <em>de, en, a, por, con, para, como, que, entre, durante</em>
+* `EMPTY` (3952): <em>de, en, a, por, con, para, como, que, entre, durante</em>
 
 ### `ADV`
 
@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>Really, Anyway</em>
-* `EMPTY` (890): <em>no, más, también, cuando, después, ya, muy, tanto, antes, donde</em>
+* `EMPTY` (876): <em>no, más, también, cuando, después, ya, muy, antes, donde, solo</em>
 
 ### `PROPN`
 
@@ -100,7 +100,7 @@ The most frequent other feature values with which `PROPN` and `Foreign` co-occur
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>Decca, Scotsman, Wall</em>
-* `EMPTY` (1250): <em>China, Trump, C., mediterráneo, Europa, Hong, Italia, Kong, Albania, Australia</em>
+* `EMPTY` (1249): <em>China, Trump, C., mediterráneo, Europa, Hong, Italia, Kong, Albania, Australia</em>
 
 ### `AUX`
 
@@ -161,7 +161,7 @@ The most frequent other feature values with which `PUNCT` and `Foreign` co-occur
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>If</em>
-* `EMPTY` (260): <em>que, si, como, aunque, porque, a, mientras, de, hasta, para</em>
+* `EMPTY` (278): <em>que, si, mientras, como, aunque, porque, a, de, hasta, para</em>
 
 ### `X`
 
@@ -180,9 +180,9 @@ The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>NOUN --[<tt><a href="es_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-det.html">det</a></tt>]--> PRON</tt> (3; 100%),
 <tt>VERB --[<tt><a href="es_pud-dep-advmod.html">advmod</a></tt>]--> ADV</tt> (3; 100%),
-<tt>ADP --[<tt><a href="es_pud-dep-fixed.html">fixed</a></tt>]--> NOUN</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="es_pud-dep-compound.html">compound</a></tt>]--> PROPN</tt> (2; 100%),
 <tt>VERB --[<tt><a href="es_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="es_pud-dep-aux.html">aux</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="es_pud-dep-obj.html">obj</a></tt>]--> PRON</tt> (2; 100%).
+<tt>VERB --[<tt><a href="es_pud-dep-obj.html">obj</a></tt>]--> PRON</tt> (2; 100%),
+<tt>NOUN --[<tt><a href="es_pud-dep-acl.html">acl</a></tt>]--> VERB</tt> (1; 100%).
 

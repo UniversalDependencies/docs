@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>M</em> (<tt><a href="la_perseus-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.357143 (the average of all parts of speech is 2.101803).
+The form / lemma ratio of `PROPN` is 1.357143 (the average of all parts of speech is 2.102438).
 
 The 1st highest number of forms (6) was observed with the lemma “Iuppiter”: <em>Ioui, Iouis, Iove, Iovem, Iovis, Iuppiter</em>.
 

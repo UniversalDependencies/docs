@@ -73,8 +73,8 @@ The following 20 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4 7 parataxis	color:blue
 1	ETA	ETA	PROPN	PM|NOM	Case=Nom	4	nsubj	4:nsubj	_
 2	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	4:cop	_
-3	på	på	ADP	PP	_	4	case	4:case	_
-4	väg	väg	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	0:root	_
+3	på	på	ADP	PP	_	4	case	4:case	ParsemeMWE=1:AdjID
+4	väg	väg	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	0	root	0:root	ParsemeMWE=1
 5	ut	ut	ADV	AB	_	4	advmod	4:advmod	SpaceAfter=No
 6	,	,	PUNCT	MID	_	7	punct	7:punct	_
 7	avslöjade	avslöja	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	4:parataxis	_

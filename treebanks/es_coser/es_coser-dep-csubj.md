@@ -66,7 +66,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 21	le	él	PRON	pc3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	22	obj	_	_
 22	escuchamos	escuchar	VERB	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	conj	_	_
 23	bien	bien	ADV	rg	_	22	advmod	_	SpaceAfter=No
-24	,	,	PUNCT	fc	PunctType=Comm	22	punct	_	_
+24	,	,	PUNCT	fc	PunctType=Comm	25	punct	_	_
 25	hay	haber	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	_	_
 26	mucho	mucho	DET	di0ms0	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	27	det	_	_
 27	ruido	ruido	NOUN	ncms000	Gender=Masc|Number=Sing	25	obj	_	SpaceAfter=No
@@ -89,7 +89,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 6	a	a	ADP	sps00	_	7	mark	_	_
 7	trabajar	trabajar	VERB	vmn0000	VerbForm=Inf	5	xcomp	_	_
 8	a	a	ADP	sps00	_	7	case	_	SpaceAfter=No
-9	,	,	PUNCT	fc	PunctType=Comm	5	punct	_	_
+9	,	,	PUNCT	fc	PunctType=Comm	15	punct	_	_
 10	porque	porque	SCONJ	cs	_	12	mark	_	_
 11	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	mayoría	mayoría	NOUN	ncfs000	Gender=Fem|Number=Sing	15	nmod	_	_
@@ -98,7 +98,7 @@ The following 4 pairs of parts of speech are connected with `csubj`: <tt><a href
 15	gente	gente	NOUN	ncfs000	Gender=Fem|Number=Sing	5	advcl	_	_
 16	de	de	ADP	sps00	_	17	case	_	_
 17	aquí	aquí	ADV	rg	_	15	advmod	_	SpaceAfter=No
-18	,	,	PUNCT	fc	PunctType=Comm	15	punct	_	_
+18	,	,	PUNCT	fc	PunctType=Comm	21	punct	_	_
 19	de	de	ADP	sps00	_	21	case	_	_
 20	este	este	DET	dd0ms0	Gender=Masc|Number=Sing|PronType=Dem	21	det	_	_
 21	pueblo	pueblo	NOUN	ncms000	Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No

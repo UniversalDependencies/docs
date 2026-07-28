@@ -51,3 +51,4 @@ Plural object prefixes include the first person plural _tu-_, second person plur
 * _mu<b>ba</b>yamba_<br>
   2pl.SBJ-**NC2.OBJ**-help<br>
   "you help them"
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:06 CEST -->

@@ -30,3 +30,4 @@ The finer-grained value of this marker is annotated as [NounClass[psed]]().
 * _amaizi <b>ga</b>-ange_<br>
   NC6.water **NC6.PSED**-1sg.PSOR<br>
   "my water" 
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:11 CEST -->

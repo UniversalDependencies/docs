@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: POS Tags: `PART`
 
-There are 15 `PART` lemmas (1%), 15 `PART` types (0%) and 28 `PART` tokens (0%).
+There are 15 `PART` lemmas (1%), 15 `PART` types (0%) and 29 `PART` tokens (0%).
 Out of 15 observed tags, the rank of `PART` is: 11 in number of lemmas, 12 in number of types and 14 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>весиг, и, ӧд, быттьӧ, вӧлӧмкӧ, да, нӧ, вот, гашкӧ, дерт</em>
 
 The 10 most frequent `PART` types:  <em>весиг, и, ӧд, быттьӧ, вӧлӧмкӧ, да, нӧ, Ну, вот, гашкӧ</em>
 
-The 10 most frequent ambiguous lemmas: <em>весиг</em> (<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 5, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 3), <em>и</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 83, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 37, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 4), <em>ӧд</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 8, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2), <em>быттьӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2), <em>да</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 127, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2), <em>нӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 9, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2), <em>вот</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>гашкӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>дерт</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>пӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 5, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>весиг</em> (<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 5, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 3), <em>и</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 83, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 38, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 5), <em>ӧд</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 8, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 2), <em>быттьӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2), <em>да</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 128, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2), <em>нӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 9, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2), <em>вот</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>гашкӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>дерт</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>пӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 5, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>весиг</em> (<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>и</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 64, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 37, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 3), <em>ӧд</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 7, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2), <em>быттьӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2), <em>да</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 124, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>нӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 9, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2), <em>вот</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>гашкӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>дерт</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>пӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 5, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>весиг</em> (<tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 3, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>и</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 64, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 38, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 4), <em>ӧд</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 7, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2), <em>быттьӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2), <em>да</em> (<tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 125, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4, <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>нӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 9, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2), <em>вот</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1, <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>гашкӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 3, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>дерт</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1), <em>пӧ</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 5, <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1)
 
 
 * <em>весиг</em>
@@ -23,8 +23,8 @@ The 10 most frequent ambiguous types:  <em>весиг</em> (<tt><a href="kpv_lat
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1: <em>Асныров тӧдіс : олӧмыд либӧ кулӧмыд , шудыд либӧ нешудыд вермас лоны <b>весиг</b> ӧти воськов сайын ...</em>
 * <em>и</em>
   * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 64: <em>Коркӧ век нин гымалас <b>и</b> зэрас .</em>
-  * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 37: <em>Корсюрӧ семьяяс <b>и</b> нимкодясьлісны .</em>
-  * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 3: <em>Эг <b>и</b> тӧдлы , кыдзи юр весьтын ӧти бӧрся мӧд тыдовтчисны кымӧрторъяс .</em>
+  * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 38: <em>Корсюрӧ семьяяс <b>и</b> нимкодясьлісны .</em>
+  * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 4: <em>Эг <b>и</b> тӧдлы , кыдзи юр весьтын ӧти бӧрся мӧд тыдовтчисны кымӧрторъяс .</em>
 * <em>ӧд</em>
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 7: <em>— Кутшӧм <b>ӧд</b> тӧлкаӧсь да сӧстӧмӧсь ставныс !</em>
   * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2: <em>— Он <b>ӧд</b> тӧд , мый татшӧма зэрны-гымавны кутас , — нурбыльті сӧмын .</em>
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>весиг</em> (<tt><a href="kpv_lat
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Ставсӧ тӧдӧ , <b>быттьӧ</b> Кӧчӧг Витьӧясын и олӧ .</em>
   * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 2: <em>Гым-биясыс <b>быттьӧ</b> дзик орччӧн орӧдлісны сынӧдсӧ .</em>
 * <em>да</em>
-  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 124: <em>Вундігӧн <b>да</b> тэчигӧн му вылӧ усьӧ уна шеп .</em>
+  * <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 125: <em>Вундігӧн <b>да</b> тэчигӧн му вылӧ усьӧ уна шеп .</em>
   * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 4: <em>— Менамӧсь эськӧ <b>да</b> .</em>
   * <tt><a href="kpv_lattice-pos-SCONJ.html">SCONJ</a></tt> 2: <em>И еджыд чериыс чукӧра олӧ , кульмыны жӧ лӧсьӧдчӧ <b>да</b> .</em>
   * <tt><a href="kpv_lattice-pos-PART.html">PART</a></tt> 1: <em>Думайта <b>да</b> , мед кӧтӧдас .</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>весиг</em> (<tt><a href="kpv_lat
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.476307).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.477594).
 
 The 1st highest number of forms (1) was observed with the lemma “быттьӧ”: <em>быттьӧ</em>.
 
@@ -69,13 +69,13 @@ The 3rd highest number of forms (1) was observed with the lemma “вот”: <e
 
 ## Relations
 
-`PART` nodes are attached to their parents using 2 different relations: <tt><a href="kpv_lattice-dep-advmod.html">advmod</a></tt> (27; 96% instances), <tt><a href="kpv_lattice-dep-advmod-deg.html">advmod:deg</a></tt> (1; 4% instances)
+`PART` nodes are attached to their parents using 2 different relations: <tt><a href="kpv_lattice-dep-advmod.html">advmod</a></tt> (28; 97% instances), <tt><a href="kpv_lattice-dep-advmod-deg.html">advmod:deg</a></tt> (1; 3% instances)
 
-Parents of `PART` nodes belong to 4 different parts of speech: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (20; 71% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (3; 11% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (2; 7% instances)
+Parents of `PART` nodes belong to 4 different parts of speech: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (20; 69% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (4; 14% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (3; 10% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (2; 7% instances)
 
-27 (96%) `PART` nodes are leaves.
+28 (97%) `PART` nodes are leaves.
 
-1 (4%) `PART` nodes have one child.
+1 (3%) `PART` nodes have one child.
 
 The highest child degree of a `PART` node is 1.
 

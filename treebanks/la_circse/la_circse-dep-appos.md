@@ -8,33 +8,38 @@ udver: '2'
 
 This relation is universal.
 
-59 nodes (0%) are attached to their parents as `appos`.
+62 nodes (0%) are attached to their parents as `appos`.
 
-59 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.38983050847458.
+62 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.41935483870968.
 
-The following 13 pairs of parts of speech are connected with `appos`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (26; 44% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (9; 15% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (8; 14% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 13 pairs of parts of speech are connected with `appos`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (29; 47% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (9; 15% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (8; 13% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
+# visual-style 17	bgColor:blue
+# visual-style 17	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 appos	color:blue
-1	is	is	PRON	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	LiLaflcat=p|UniqueTokenId=TacGerma-Q-01-237_1
-2	adesse	assum	VERB	B6	Aspect=Imp|InflClass=LatAnom|VerbForm=Inf|Voice=Act	5	ccomp	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Infinitivus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-237_2
-3	penetrali	penetrale	NOUN	A3	Case=Dat|Gender=Neut|InflClass=IndEurI|Number=Sing	2	obl:arg	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-237_3
-4	deam	dea	NOUN	A1	Case=Acc|Gender=Fem|InflClass=IndEurA|Number=Sing	2	nsubj	_	LiLaflcat=n1|UniqueTokenId=TacGerma-Q-01-237_4
-5	intellegit	intelligo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3|TraditionalMood=Indicativus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-237_5
-6	uectam	ueho	VERB	B3	Aspect=Perf|Case=Acc|Gender=Fem|InflClass=LatX|InflClass[nominal]=IndEurA|Number=Sing|VerbForm=Part|Voice=Pass	13	advcl:pred	_	LiLaflcat=v3|TraditionalMood=Participium|TraditionalTense=Perfectum|UniqueTokenId=TacGerma-Q-01-237_6
-7	que	que	CCONJ	S	_	13	cc	_	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-237_7
-8	bubus	bos	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Plur	6	obl:agent	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-237_8
-9	feminis	femina	NOUN	A1	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur	8	appos	_	LiLaflcat=n1|UniqueTokenId=TacGerma-Q-01-237_9
-10	multa	multus	DET	C1	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Sing|NumType=Card|PronType=Ind	12	det	_	LiLaflcat=n6|UniqueTokenId=TacGerma-Q-01-237_10
-11	cum	cum	ADP	R	_	12	case	_	LASLAVariant=2|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-237_11
-12	ueneratione	ueneratio	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	13	obl	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-237_12
-13	prosequitur	prosequor	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	conj	_	LiLaflcat=v3|TraditionalMood=Indicativus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-237_13
+# visual-style 9 17 appos	color:blue
+1	Labdaci	labdacus	PROPN	A2	Case=Gen|Gender=Masc|InflClass=IndEurO|NameType=Giv|Number=Sing	3	nmod	_	_
+2	claram	clarus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	3	amod	_	_
+3	domum	domus	NOUN	A6	Case=Acc|Gender=Fem|InflClass=IndEurU|Number=Sing	8	obj	_	_
+4	opulenta	opulentus	ADJ	C1	Case=Acc|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Plur	6	amod	_	_
+5	ferro	ferrum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	8	obl	_	_
+6	regna	regnum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	3	conj	_	_
+7	germani	germanus	NOUN	A2	Case=Nom|Gender=Masc|InflClass=IndEurO|Number=Plur	8	nsubj	_	_
+8	petant	peto	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	pars	pars	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurI|Number=Sing	15	nsubj	_	_
+10	summa	superus	ADJ	C1	Case=Nom|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Sing	9	amod	_	_
+11	magno	magnus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	14	amod	_	_
+12	patris	pater	NOUN	A3	Case=Gen|Gender=Masc|InflClass=IndEurX|Number=Sing	14	nmod	_	_
+13	e	ex	ADP	R	AdpType=Prep	14	case	_	_
+14	regno	regnum	NOUN	A2	Case=Abl|Gender=Neut|InflClass=IndEurO|Number=Sing	10	obl	_	_
+15	mea	meus	DET	F	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	8	conj	_	_
+16	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
+17	pater	pater	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	9	appos	_	_
+18	ipse	ipse	DET	I	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Dem	17	det	_	_
 
 ~~~
 

@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>dà</em> (<tt><a href="ha_southernaut
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.111111 (the average of all parts of speech is 1.357040).
+The form / lemma ratio of `CCONJ` is 1.111111 (the average of all parts of speech is 1.352436).
 
 The 1st highest number of forms (2) was observed with the lemma “wàːtòː”: <em>wàːtòn, wàːtòː</em>.
 
@@ -60,7 +60,7 @@ Examples: <em>dà, koː, àmmaː, kuma, koːkòː, sai, wàːtòn, bàllàntàna
 
 `CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="ha_southernautogramm-dep-cc.html">cc</a></tt> (150; 77% instances), <tt><a href="ha_southernautogramm-dep-discourse.html">discourse</a></tt> (40; 20% instances), <tt><a href="ha_southernautogramm-dep-cc-preconj.html">cc:preconj</a></tt> (4; 2% instances), <tt><a href="ha_southernautogramm-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-dep-mark.html">mark</a></tt> (1; 1% instances)
 
-Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (62; 32% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (48; 24% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (41; 21% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (13; 7% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (11; 6% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (7; 4% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (6; 3% instances), <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
+Parents of `CCONJ` nodes belong to 13 different parts of speech: <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (64; 33% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (48; 24% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (41; 21% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (11; 6% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (11; 6% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (7; 4% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (6; 3% instances), <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-INTJ.html">INTJ</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ha_southernautogramm-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances)
 
 189 (96%) `CCONJ` nodes are leaves.
 

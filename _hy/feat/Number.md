@@ -16,83 +16,85 @@ udver: '2'
 </tr>
 </table>
 
-In Armenian, `Number` is a feature of [nouns](NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](PRON), and [verbs](VERB). 
+In Armenian, `Number` is a feature of [nouns](NOUN) and of parts of speech that agree with nouns, such as personal [pronouns](PRON) and [verbs](VERB). 
 
 ### <a name="Sing">`Sing`</a>: singular number
 
-A singular noun denotes one person, animal or thing.
+A singular noun denotes one person, animal, or thing.
 
 #### Examples:
 
-* _<b>գիրք</b>_ “book”, _<b>լեռ</b>_ “mountain”, _<b>խնձոր</b>_ “apple”, _<b>գնացք</b>_ “train”
+* _<b>գիրք</b>_/_girkʼ_ “book”, _<b>լեռ</b>_/_leṙ_ “mountain”, _<b>խնձոր</b>_/_xnjor_ “apple”, _<b>գնացք</b>_/_gnacʼkʼ_ “train”
 
 Pronouns that refer to a single person, an animal or a thing are also marked with this feature.
 
-* _<b>Ես, ինքս, իմ; դու, ինքդ, քո; նա, ինքը, իր</b>_
-* _I, myself, my; you, yourself, your; he, himself, his; she, herself, her; it, itself, its_
+* _<b>Ես, ինքս, իմ</b>_/<b>es, inkʼs, im</b> “I, myself, my”
+* _<b>դու, ինքդ, քո</b>_/_dow, inkʼd, kʼo_ “you, yourself, your”
+* _<b>նա, ինքը, իր</b>_/_na, inkʼë, ir_ “he, himself, his; she, herself, her; it, itself, its”
 
-Demonstrative pronouns that refer to singular nouns, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
+Demonstrative pronouns referring to singular entities are marked with this feature, whereas demonstrative determiners are not, regardless of whether the modified noun is singular or plural (e.g. _<b>այս գիրքը/գրքերը</b>_/_ays girkʼë/grkʼerë_ “this book/books”; _<b>այդ գիրքը/գրքերը</b>_/_ayd girkʼë/grkʼerë_ “that book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_/_ayn girkʼë/grkʼerë_ “that book/books”).
 
-* _<b>սա</b>_ “this”
-* _<b>դա</b>_ “that (medial)”
-* _<b>նա</b>_ “that”
-* _<b>այն</b>_ “that, it”
+* _<b>սա</b>_/_sa_ “this”
+* _<b>դա</b>_/_da_ “that (medial)”
+* _<b>նա</b>_/_na_ “that”
+* _<b>այն</b>_/_ayn_ “that, it”
 
 ### <a name="Plur">`Plur`</a>: plural number
 
-A plural noun denotes several persons, animals or things.
+A plural noun denotes several persons, animals, or things.
 
 #### Examples:
 
-* _<b>գրքեր</b>_ “books”, _<b>լեռներ</b>_ “mountains”, _<b>խնձորներ</b>_ “apples”, _<b>գնացքներ</b>_ “trains”
+* _<b>գրքեր</b>_/_grkʼer_ “books”, _<b>լեռներ</b>_/_leṙner_ “mountains”, _<b>խնձորներ</b>_/_xnjorner_ “apples”, _<b>գնացքներ</b>_ “trains”
 
 Pronouns that refer to several persons, animals or things are also marked with this feature.
 
-* _<b>մենք, ինքներս, մեր; դուք, ինքներդ, ձեր; նրանք, ինքները, իրենց</b>_
-* _we, ourselves, our; you, yourselves, your; they, themselves, their_
+* _<b>մենք, ինքներս, մեր</b>_/_menkʼ, inkʼners, mer_ “we, ourselves, our”
+* _<b>դուք, ինքներդ, ձեր</b>_ “you, yourselves, your”
+* _<b>նրանք, ինքները, իրենց</b>_ “they, themselves, their”
 
-Demonstrative pronouns that refer to plural nouns, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
+Demonstrative pronouns referring to plural entities, are marked with this feature, whereas demonstrative determiners are not, regardless of whether the modified noun is singular or plural (e.g. _<b>այս գիրքը/գրքերը</b>_/_ays girkʼë/grkʼerë_ “this book/books”; _<b>այդ գիրքը/գրքերը</b>_/_ayd girkʼë/grkʼerë_ “that book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_/_ayn girkʼë/grkʼerë_ “that book/books”).
 
-* _<b>սրանք</b>_ “these”
-* _<b>դրանք</b>_ “those (medial)”
-* _<b>նրանք</b>_ “those”
+* _<b>սրանք</b>_/_srankʼ_ “these”
+* _<b>դրանք</b>_/_drankʼ_ “those (medial)”
+* _<b>նրանք</b>_/_nrankʼ_ “those”
 
 ### <a name="Ptan">`Ptan`</a>: plurale tantum
 
-Some geographical or biological/botanical names appear only in the plural form even though they denote one thing (semantic singular). We mark these [proper nouns](PROPN) as `Ptan` (plurale tantum). Grammatically they behave like singulars, so `Ptan` is obviously the back-off value here.
+Some geographical or biological/botanical names appear only in the plural form even though they denote one thing (semantic singular). These [proper nouns](PROPN) are marked as `Ptan` (plurale tantum). Grammatically they behave like singulars, so `Ptan` is obviously the back-off value here.
 
 #### Examples
 
-* _<b>Ալպեր</b>_ “The Alps”
-* _<b>Ապալաչներ</b>_ “Appalachian Mountains”
-* _<b>կատվազգիներ</b>_ “Felidae”
-* _<b>վարդազգիներ</b>_ “Rosaceae”
+* _<b>Ալպեր</b>_/_Alper_ “The Alps”
+* _<b>Ապալաչներ</b>_/_Apalačner_ “Appalachian Mountains”
+* _<b>կատվազգիներ</b>_/_katvazginer_ “Felidae”
+* _<b>վարդազգիներ</b>_/_vardazginer_ “Rosaceae”
 
 ### <a name="Assoc">`Assoc`</a>: associative plural
 
-In Armenian some nouns, proper nouns and pronouns appear in the plural form, which denotes constructions like ‘X and other people associated with X’. These plural forms consist of a noun X (typically of human reference, usually a person's name or a kin term) and one of the suffixes _<b>-ենք</b>_, _<b>-անք</b>_, _<b>-ոնք</b>_, _<b>-ունք</b>_.
+In Armenian, some nouns, proper nouns and pronouns appear in the plural form that denote constructions like ‘X and other people associated with X’. These plural forms consist of a noun X (typically referring to humans, usually a person's name or a kin term) and one of the suffixes _<b>-ենք</b>_/_-enkʼ_, _<b>-անք</b>_/_-ankʼ_, _<b>-ոնք</b>_/_-onkʼ_, _<b>-ունք</b>_/_-ownkʼ_.
 
-As nominal syntactic subjects, associative plural forms are grammaticalty indefinte (even though they are known and concrete).
+As nominal syntactic subjects, associative plural forms are grammatically indefinite (even though they are known and concrete).
 
 #### Examples:
 
-* _<b>պապոնք</b>_ “the grandfather and other people associated with him”
-* _<b>հայրիկենք</b>_ “the father and other people associated with him”
-* _<b>իմոնք</b>_ “me and other people associated with me”
-* _<b>մերոնք</b>_ “we and other people associated with us”
-* _<b>քոնոնք</b>_ “you (`Sing`) and other people associated with you”
-* _<b>ձերոնք</b>_ “you (`Plur`) and other people associated with you”
-* _<b>Վարդանանք</b>_ “Vardan and other people associated with him”
-* _<b>Արամենք</b>_ “Aram and other people associated with him”
+* _<b>պապոնք</b>_/_paponkʼ_ “the grandfather and other people associated with him”
+* _<b>հայրիկենք</b>_/_hayrikenkʼ_ “the father and other people associated with him”
+* _<b>իմոնք</b>_/_imonkʼ_ “me and other people associated with me”
+* _<b>մերոնք</b>_/_meronkʼ_ “we and other people associated with us”
+* _<b>քոնոնք</b>_/_kʼononkʼ_ “you (`Sing`) and other people associated with you”
+* _<b>ձերոնք</b>_/_jeronkʼ_ “you (`Plur`) and other people associated with you”
+* _<b>Վարդանանք</b>_/_Vardanankʼ_ “Vardan and other people associated with him”
+* _<b>Արամենք</b>_/_Aramenkʼ_ “Aram and other people associated with him”
 
 ### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
 
-Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. Although in Armenian they are able to form plural. In practice the plural form means “several sorts of” or “several packages of”. We mark these forms as `Plur`.
+Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. Although in Armenian they can form plural, in practice the plural form means “several sorts of” or “several packages of”. We mark these forms as `Plur`.
 
 #### Examples:
 
-* _<b>մարդկություն</b>_ “mankind”
-* _<b>գութ</b>_ “compassion”
-* _<b>կաթ</b>_ “milk”
-* _<b>պողպատ</b>_ “steel”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:28 CET -->
+* _<b>մարդկություն</b>_/_mardkowtʼyown_ “mankind”
+* _<b>գութ</b>_/_gowtʼ_ “compassion”
+* _<b>կաթ</b>_/_katʼ_ “milk”
+* _<b>պողպատ</b>_/_poġpat_ “steel”
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->

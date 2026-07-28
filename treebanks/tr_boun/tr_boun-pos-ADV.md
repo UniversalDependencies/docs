@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-BOUN: POS Tags: `ADV`
 
-There are 665 `ADV` lemmas (4%), 700 `ADV` types (2%) and 5411 `ADV` tokens (4%).
+There are 666 `ADV` lemmas (4%), 701 `ADV` types (2%) and 5412 `ADV` tokens (4%).
 Out of 16 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>çok, daha, en, hiç, sonra, bile, böyle, artık, önce, yine</em>
@@ -62,7 +62,7 @@ The 10 most frequent ambiguous types:  <em>çok</em> (<tt><a href="tr_boun-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.052632 (the average of all parts of speech is 2.412899).
+The form / lemma ratio of `ADV` is 1.052553 (the average of all parts of speech is 2.413877).
 
 The 1st highest number of forms (6) was observed with the lemma “gün”: <em>gün, günden, gündür, günlerce, günlerden, günümüzde</em>.
 
@@ -70,22 +70,22 @@ The 2nd highest number of forms (5) was observed with the lemma “o”: <em>o, 
 
 The 3rd highest number of forms (4) was observed with the lemma “bir”: <em>bir, birden, bire, birer</em>.
 
-`ADV` occurs with 1 features: <tt><a href="tr_boun-feat-Typo.html">Typo</a></tt> (2; 0% instances)
+`ADV` occurs with 2 features: <tt><a href="tr_boun-feat-ExtPos.html">ExtPos</a></tt> (5; 0% instances), <tt><a href="tr_boun-feat-Typo.html">Typo</a></tt> (2; 0% instances)
 
-`ADV` occurs with 1 feature-value pairs: `Typo=Yes`
+`ADV` occurs with 2 feature-value pairs: `ExtPos=ADV`, `Typo=Yes`
 
-`ADV` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (5409 tokens).
+`ADV` occurs with 3 feature combinations.
+The most frequent feature combination is `_` (5407 tokens).
 Examples: <em>çok, daha, en, hiç, bile, sonra, böyle, artık, önce, yine</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 30 different relations: <tt><a href="tr_boun-dep-advmod.html">advmod</a></tt> (4680; 86% instances), <tt><a href="tr_boun-dep-advmod-emph.html">advmod:emph</a></tt> (234; 4% instances), <tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt> (100; 2% instances), <tt><a href="tr_boun-dep-amod.html">amod</a></tt> (98; 2% instances), <tt><a href="tr_boun-dep-discourse.html">discourse</a></tt> (54; 1% instances), <tt><a href="tr_boun-dep-root.html">root</a></tt> (54; 1% instances), <tt><a href="tr_boun-dep-conj.html">conj</a></tt> (35; 1% instances), <tt><a href="tr_boun-dep-case.html">case</a></tt> (33; 1% instances), <tt><a href="tr_boun-dep-obl.html">obl</a></tt> (28; 1% instances), <tt><a href="tr_boun-dep-advcl.html">advcl</a></tt> (19; 0% instances), <tt><a href="tr_boun-dep-ccomp.html">ccomp</a></tt> (11; 0% instances), <tt><a href="tr_boun-dep-compound.html">compound</a></tt> (10; 0% instances), <tt><a href="tr_boun-dep-nmod-poss.html">nmod:poss</a></tt> (9; 0% instances), <tt><a href="tr_boun-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="tr_boun-dep-cc.html">cc</a></tt> (7; 0% instances), <tt><a href="tr_boun-dep-obl-tmod.html">obl:tmod</a></tt> (5; 0% instances), <tt><a href="tr_boun-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="tr_boun-dep-cc-preconj.html">cc:preconj</a></tt> (3; 0% instances), <tt><a href="tr_boun-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="tr_boun-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="tr_boun-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="tr_boun-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="tr_boun-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="tr_boun-dep-compound-lvc.html">compound:lvc</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-vocative.html">vocative</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 31 different relations: <tt><a href="tr_boun-dep-advmod.html">advmod</a></tt> (4680; 86% instances), <tt><a href="tr_boun-dep-advmod-emph.html">advmod:emph</a></tt> (234; 4% instances), <tt><a href="tr_boun-dep-compound-redup.html">compound:redup</a></tt> (100; 2% instances), <tt><a href="tr_boun-dep-amod.html">amod</a></tt> (98; 2% instances), <tt><a href="tr_boun-dep-discourse.html">discourse</a></tt> (54; 1% instances), <tt><a href="tr_boun-dep-root.html">root</a></tt> (54; 1% instances), <tt><a href="tr_boun-dep-conj.html">conj</a></tt> (35; 1% instances), <tt><a href="tr_boun-dep-case.html">case</a></tt> (33; 1% instances), <tt><a href="tr_boun-dep-obl.html">obl</a></tt> (25; 0% instances), <tt><a href="tr_boun-dep-advcl.html">advcl</a></tt> (19; 0% instances), <tt><a href="tr_boun-dep-ccomp.html">ccomp</a></tt> (11; 0% instances), <tt><a href="tr_boun-dep-compound.html">compound</a></tt> (10; 0% instances), <tt><a href="tr_boun-dep-nmod-poss.html">nmod:poss</a></tt> (9; 0% instances), <tt><a href="tr_boun-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="tr_boun-dep-cc.html">cc</a></tt> (7; 0% instances), <tt><a href="tr_boun-dep-nmod.html">nmod</a></tt> (6; 0% instances), <tt><a href="tr_boun-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="tr_boun-dep-cc-preconj.html">cc:preconj</a></tt> (3; 0% instances), <tt><a href="tr_boun-dep-fixed.html">fixed</a></tt> (3; 0% instances), <tt><a href="tr_boun-dep-obl-tmod.html">obl:tmod</a></tt> (3; 0% instances), <tt><a href="tr_boun-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="tr_boun-dep-nmod-tmod.html">nmod:tmod</a></tt> (2; 0% instances), <tt><a href="tr_boun-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="tr_boun-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="tr_boun-dep-compound-lvc.html">compound:lvc</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="tr_boun-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 14 different parts of speech: <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (2656; 49% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (1290; 24% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (758; 14% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> (457; 8% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (63; 1% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (59; 1% instances),  (54; 1% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (30; 1% instances), <tt><a href="tr_boun-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="tr_boun-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="tr_boun-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 14 different parts of speech: <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt> (2657; 49% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (1291; 24% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt> (759; 14% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt> (457; 8% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt> (63; 1% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (58; 1% instances),  (54; 1% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt> (30; 1% instances), <tt><a href="tr_boun-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="tr_boun-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="tr_boun-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="tr_boun-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="tr_boun-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
 
-4085 (75%) `ADV` nodes are leaves.
+4086 (75%) `ADV` nodes are leaves.
 
 1075 (20%) `ADV` nodes have one child.
 

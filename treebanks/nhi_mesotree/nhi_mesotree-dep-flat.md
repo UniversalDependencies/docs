@@ -1,40 +1,31 @@
 ---
 layout: base
-title:  'Statistics of flat in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of flat in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `flat`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `flat`
 
 This relation is universal.
 
-37 nodes (0%) are attached to their parents as `flat`.
+47 nodes (0%) are attached to their parents as `flat`.
 
-37 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13513513513514.
+47 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.1063829787234.
 
-The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (24; 65% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (3; 8% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> (2; 5% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (2; 5% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (1; 3% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (1; 3% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt>-<tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (1; 3% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (1; 3% instances).
+The following 11 pairs of parts of speech are connected with `flat`: <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (33; 70% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt> (2; 4% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt> (2; 4% instances), <tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt>-<tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 flat	color:blue
-1	Igual	igual	ADV	_	_	2	advmod	2:advmod	NormalizedForm=igual|NormalizedLemma=igual
-2	mocelebraroa	celebraroa	VERB	_	Mood=Ind|Reflex=Yes|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=mocelebraroa|NormalizedLemma=selebraroa|Number[subj]=Sing|Person[subj]=3|Subcat=Tran
-3	de	de	ADP	_	Foreign=Yes	4	case	4:case	NormalizedForm=de|NormalizedLemma=de
-4	señor	seór	NOUN	_	Foreign=Yes|Number=Sing	2	obl	2:obl	NormalizedForm=señor|NormalizedLemma=_
-5	de	de	ADP	_	Foreign=Yes	6	case	6:case	NormalizedForm=de|NormalizedLemma=de
-6	patrón	patrón	NOUN	_	Foreign=Yes|Number=Sing	4	nmod	4:nmod	NormalizedForm=patrón|NormalizedLemma=_
-7	de	de	ADP	_	Foreign=Yes	8	case	8:case	NormalizedForm=de|NormalizedLemma=de
-8	aquí	aquí	ADV	_	_	6	nmod	6:nmod	NormalizedForm=aquí|NormalizedLemma=_|SpaceAfter=No
-9	,	,	PUNCT	_	_	11	punct	11:punct	NormalizedForm=,|NormalizedLemma=,
-10	de	de	ADP	_	Foreign=Yes	11	case	11:case	NormalizedForm=de|NormalizedLemma=de
-11	San	san	PROPN	_	_	4	appos	4:appos	NormalizedForm=san|NormalizedLemma=san
-12	Francisco	francisco	PROPN	_	_	11	flat	11:flat	NormalizedForm=francisco|NormalizedLemma=francisco|SpaceAfter=No
-13	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 flat	color:blue
+1	itoca	toca	NOUN	_	_	0	root	0:root	Error=TokenLevel
+2	José	josé	PROPN	_	_	1	nsubj	1:nsubj	_
+3	Hernández	hernandez	PROPN	_	_	2	flat	2:flat	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	2:punct	_
 
 ~~~
 

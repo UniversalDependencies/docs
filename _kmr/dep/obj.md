@@ -19,4 +19,4 @@ obj(dişînin, pereyan)
 obj(send, money)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:20 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:28 CEST -->

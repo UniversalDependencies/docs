@@ -12,3 +12,4 @@ It can be dropped for present perfect tense.
 #### Examples
 ~~~ sdparse
 ~~~
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:42 CEST -->

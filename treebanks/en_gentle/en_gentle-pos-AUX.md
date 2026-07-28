@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>is</em> (<tt><a href="en_gentle-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 3.076923 (the average of all parts of speech is 1.148610).
+The form / lemma ratio of `AUX` is 3.076923 (the average of all parts of speech is 1.149474).
 
 The 1st highest number of forms (14) was observed with the lemma “be”: <em>'m, 're, 's, am, are, art, be, been, being, is, s, was, were, ’re</em>.
 
@@ -61,7 +61,7 @@ The 2nd highest number of forms (6) was observed with the lemma “have”: <em>
 
 The 3rd highest number of forms (4) was observed with the lemma “would”: <em>'d, 'ed, d, would</em>.
 
-`AUX` occurs with 7 features: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt> (753; 100% instances), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt> (483; 64% instances), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt> (463; 61% instances), <tt><a href="en_gentle-feat-Person.html">Person</a></tt> (463; 61% instances), <tt><a href="en_gentle-feat-Number.html">Number</a></tt> (462; 61% instances), <tt><a href="en_gentle-feat-Style.html">Style</a></tt> (4; 1% instances), <tt><a href="en_gentle-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`AUX` occurs with 7 features: <tt><a href="en_gentle-feat-VerbForm.html">VerbForm</a></tt> (753; 100% instances), <tt><a href="en_gentle-feat-Tense.html">Tense</a></tt> (483; 64% instances), <tt><a href="en_gentle-feat-Mood.html">Mood</a></tt> (463; 61% instances), <tt><a href="en_gentle-feat-Number.html">Number</a></tt> (463; 61% instances), <tt><a href="en_gentle-feat-Person.html">Person</a></tt> (463; 61% instances), <tt><a href="en_gentle-feat-Style.html">Style</a></tt> (4; 1% instances), <tt><a href="en_gentle-feat-Typo.html">Typo</a></tt> (1; 0% instances)
 
 `AUX` occurs with 14 feature-value pairs: `Mood=Imp`, `Mood=Ind`, `Number=Plur`, `Number=Sing`, `Person=1`, `Person=2`, `Person=3`, `Style=Arch`, `Tense=Past`, `Tense=Pres`, `Typo=Yes`, `VerbForm=Fin`, `VerbForm=Inf`, `VerbForm=Part`
 

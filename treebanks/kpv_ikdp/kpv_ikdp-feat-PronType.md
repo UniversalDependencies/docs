@@ -9,25 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rel`, `Tot`.
 
-192 tokens (8%) have a non-empty value of `PronType`.
-79 types (8%) occur at least once with a non-empty value of `PronType`.
-35 lemmas (5%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (171; 7% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+210 tokens (9%) have a non-empty value of `PronType`.
+93 types (9%) occur at least once with a non-empty value of `PronType`.
+44 lemmas (6%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 5 part-of-speech tags: <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> (186; 8% instances), <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="kpv_ikdp-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="kpv_ikdp-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="kpv_ikdp-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-171 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `PronType`.
+186 <tt><a href="kpv_ikdp-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (115; 67%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (89; 52%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (121; 65%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (96; 52%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (24; 14% of non-empty `PronType`): <em>сыа, сы, мӧд, сіе, Та, Тае, налэн, ная, сэтшем, татшӧм</em>
-* `Ind` (13; 8% of non-empty `PronType`): <em>мыйке, кодке, мукедъясыс, мыйкесэ, никод, никодэс, нинӧм</em>
-* `Int` (6; 4% of non-empty `PronType`): <em>мый, мыен</em>
-* `Prs` (121; 71% of non-empty `PronType`): <em>ме, миян, сыа, сы, сія, ми, менам, менэ, сіе, сіен</em>
-* `Tot` (7; 4% of non-empty `PronType`): <em>быд, ставыс, быдӧнӧс, куимнансэ</em>
-* `EMPTY` (15): <em>ачыс, что, Всё, асланум, ачум, куимнан, мӧдджык, мӧдъясыслэн, ныа, ныес</em>
+* `Dem` (26; 14% of non-empty `PronType`): <em>сыа, мӧд, сы, сіе, Та, Тае, налэн, ная, ныа, сэтшем</em>
+* `Ind` (19; 10% of non-empty `PronType`): <em>мыйке, что, кодке, мукедъясыс, мыйкесэ, мӧдджык, мӧдъясыслэн, никод, никодэс, нинӧм</em>
+* `Int` (6; 3% of non-empty `PronType`): <em>мый, мыен</em>
+* `Prs` (126; 68% of non-empty `PronType`): <em>ме, миян, сыа, сы, сія, ми, менам, менэ, ачум, сіе</em>
+* `Tot` (9; 5% of non-empty `PronType`): <em>быд, ставыс, Всё, быдӧнӧс, куимнан, куимнансэ</em>
 
 <table>
   <tr><th>Paradigm <i>сійӧ</i></th><th><tt>Prs</tt></th><th><tt>Dem</tt></th></tr>
@@ -44,7 +43,19 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="kpv_ikdp-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>Ная</em></td><td></td></tr>
 </table>
 
-`PronType` seems to be **lexical feature** of `PRON`. 97% lemmas (28) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `PRON`. 94% lemmas (34) occur only with one value of `PronType`.
+
+### `DET`
+
+9 <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="kpv_ikdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 89%), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="kpv_ikdp-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (8; 89%), <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (7; 78%).
+
+`DET` tokens may have the following values of `PronType`:
+
+* `Ind` (5; 56% of non-empty `PronType`): <em>уна, какой, мӧд, унджык</em>
+* `Int` (1; 11% of non-empty `PronType`): <em>кымын</em>
+* `Tot` (3; 33% of non-empty `PronType`): <em>Став, всю, ставыс</em>
 
 ### `ADV`
 
@@ -73,20 +84,7 @@ The most frequent other feature values with which `ADJ` and `PronType` co-occurr
 
 * `Dem` (2; 33% of non-empty `PronType`): <em>сэтшем</em>
 * `Prs` (4; 67% of non-empty `PronType`): <em>ас</em>
-* `EMPTY` (92): <em>бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем, кык-суда</em>
-
-### `DET`
-
-6 <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> tokens (60% of all `DET` tokens) have a non-empty value of `PronType`.
-
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 83%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 83%).
-
-`DET` tokens may have the following values of `PronType`:
-
-* `Ind` (3; 50% of non-empty `PronType`): <em>уна, унджык</em>
-* `Int` (1; 17% of non-empty `PronType`): <em>кымын</em>
-* `Tot` (2; 33% of non-empty `PronType`): <em>Став, ставыс</em>
-* `EMPTY` (4): <em>всю, какой, мӧд, такое</em>
+* `EMPTY` (93): <em>бур, второй, небыд, бия, выль, дзолясянь, дик, корейскей, кутшем, кык-суда</em>
 
 ### `INTJ`
 

@@ -25,7 +25,7 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 1	یعنی	یعنی	INTJ	PSUS	_	13	obl	_	LTranslit=īʿnī|Translit=īʿnī
 2	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	LTranslit=mā|Translit=mā
 3	به	به	ADP	PREP	_	5	case	_	LTranslit=bh|Translit=bh
-4	این	این	DET	PREM_DEMAJ	_	5	det	_	LTranslit=āīn|Translit=āīn
+4	این	این	DET	PREM_DEMAJ	PronType=Dem	5	det	_	LTranslit=āīn|Translit=āīn
 5	ترتیب	ترتیب	NOUN	N_IANM	Number=Sing	13	obl	_	LTranslit=trtīb|Translit=trtīb
 6	فقط	فقط	ADV	ADV_SADV	_	7	advmod	_	LTranslit=fqṭ|Translit=fqṭ
 7	یک	یک	NUM	PRENUM	_	8	nummod	_	LTranslit=īk|Translit=īk
@@ -70,14 +70,14 @@ The following 14 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 6 punct	color:blue
 1	می‌گفت	گفت	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	LTranslit=gft|OrigLemma=گفت#گو|Translit=mīgft
-2	این	این	DET	PREM_DEMAJ	_	4	det	_	LTranslit=āīn|Translit=āīn
+2	این	این	DET	PREM_DEMAJ	PronType=Dem	4	det	_	LTranslit=āīn|Translit=āīn
 3	سرکار	سرکار	PROPN	IDEN	Number=Sing	4	nmod	_	LTranslit=srkār|Translit=srkār
 4	خانم	خانم	NOUN	N_ANM	Number=Sing	11	nsubj	_	LTranslit=ḫānm|Translit=ḫānm
 5	محترمه	محترمه	ADJ	ADJ_AJP	_	4	amod	_	LTranslit=mḥtrmh|SpaceAfter=No|Translit=mḥtrmh
 6	،	،	PUNCT	PUNC	_	5	punct	_	LTranslit=,|Translit=,
 7	از	از	ADP	PREP	_	8	case	_	LTranslit=āz|Translit=āz
 8	نویسندگان	نویسنده	NOUN	N_ANM	Number=Plur	11	xcomp	_	LTranslit=nūīsndh|Translit=nūīsndgān
-9	همان	همان	DET	PREM_DEMAJ	_	10	det	_	LTranslit=hmān|Translit=hmān
+9	همان	همان	DET	PREM_DEMAJ	PronType=Dem	10	det	_	LTranslit=hmān|Translit=hmān
 10	نشریه	نشریه	NOUN	N_IANM	Number=Sing	8	nmod	_	LTranslit=nšrīh|Translit=nšrīh
 11	بوده	بود	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	1	ccomp	_	LTranslit=būd|OrigLemma=بود#باش|Translit=būdh
 12	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	LTranslit=āst|OrigLemma=#است|SpaceAfter=No|Translit=āst

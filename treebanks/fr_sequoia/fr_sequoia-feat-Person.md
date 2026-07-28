@@ -13,12 +13,12 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 6046 tokens (9%) have a non-empty value of `Person`.
 1061 types (11%) occur at least once with a non-empty value of `Person`.
-525 lemmas (8%) occur at least once with a non-empty value of `Person`.
+523 lemmas (8%) occur at least once with a non-empty value of `Person`.
 The feature is used with 3 part-of-speech tags: <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (2164; 3% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2104; 3% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (1778; 3% instances).
 
 ### `PRON`
 
-2164 <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Person`.
+2164 <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_sequoia-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1815; 84%), <tt><a href="fr_sequoia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1764; 82%), <tt><a href="fr_sequoia-feat-Emph.html">Emph</a></tt><tt>=No</tt> (1323; 61%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1303; 60%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1247; 58%), <tt><a href="fr_sequoia-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1086; 50%).
 
@@ -27,9 +27,9 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (459; 21% of non-empty `Person`): <em>nous, je, j', me, m', moi, -nous, -je, -moi, moi-même</em>
 * `2` (136; 6% of non-empty `Person`): <em>vous, -vous, Toi, vous-même</em>
 * `3` (1569; 73% of non-empty `Person`): <em>il, se, s', elle, ce, ils, y, c', cela, en</em>
-* `EMPTY` (627): <em>qui, que, où, dont, qu', laquelle, lequel, rien, lesquelles, lesquels</em>
+* `EMPTY` (577): <em>qui, que, dont, qu', laquelle, lequel, rien, lesquelles, lesquels, quoi</em>
 
-`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (29) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (27) occur only with one value of `Person`.
 
 ### `VERB`
 

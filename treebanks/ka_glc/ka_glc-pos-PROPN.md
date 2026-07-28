@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Georgian-GLC: POS Tags: `PROPN`
 
 There are 801 `PROPN` lemmas (9%), 934 `PROPN` types (6%) and 1564 `PROPN` tokens (3%).
-Out of 16 observed tags, the rank of `PROPN` is: 4 in number of lemmas, 4 in number of types and 9 in number of tokens.
+Out of 16 observed tags, the rank of `PROPN` is: 3 in number of lemmas, 4 in number of types and 9 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: <em>საქართველო, თბილისი, ევროპა, ამერიკა, ალექსანდრე, აზერბაიჯანი, არისტოტელე, კავკასია, რუსეთი, ქართლი</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>კავკასიის</em> (<tt
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.166042 (the average of all parts of speech is 1.674782).
+The form / lemma ratio of `PROPN` is 1.166042 (the average of all parts of speech is 1.692057).
 
 The 1st highest number of forms (5) was observed with the lemma “თბილისი”: <em>თბილის, თბილისი, თბილისის, თბილისისა, თბილისს</em>.
 
@@ -72,7 +72,7 @@ Examples: <em>საქართველოს, თბილისის, ა�
 
 `PROPN` nodes are attached to their parents using 13 different relations: <tt><a href="ka_glc-dep-nmod.html">nmod</a></tt> (580; 37% instances), <tt><a href="ka_glc-dep-flat-name.html">flat:name</a></tt> (354; 23% instances), <tt><a href="ka_glc-dep-obl.html">obl</a></tt> (201; 13% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (177; 11% instances), <tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt> (123; 8% instances), <tt><a href="ka_glc-dep-appos.html">appos</a></tt> (97; 6% instances), <tt><a href="ka_glc-dep-obj.html">obj</a></tt> (16; 1% instances), <tt><a href="ka_glc-dep-iobj.html">iobj</a></tt> (7; 0% instances), <tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-amod.html">amod</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-nsubj-pass.html">nsubj:pass</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ka_glc-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (777; 50% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (405; 26% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (270; 17% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (78; 5% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (10; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (778; 50% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (405; 26% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (270; 17% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (77; 5% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (10; 1% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 805 (51%) `PROPN` nodes are leaves.
 

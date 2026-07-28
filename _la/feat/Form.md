@@ -46,4 +46,4 @@ This feature and its implementation will be slightly reworked.
 
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:16 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:53 CEST -->

@@ -197,14 +197,14 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (593; 74%),
+<tt>VERB --[<tt><a href="tr_imst-dep-conj.html">conj</a></tt>]--> VERB</tt> (595; 74%),
 <tt>VERB --[<tt><a href="tr_imst-dep-aux-q.html">aux:q</a></tt>]--> AUX</tt> (76; 72%),
 <tt>VERB --[<tt><a href="tr_imst-dep-compound.html">compound</a></tt>]--> VERB</tt> (49; 71%),
 <tt>VERB --[<tt><a href="tr_imst-dep-cop.html">cop</a></tt>]--> AUX</tt> (35; 64%),
 <tt>VERB --[<tt><a href="tr_imst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (30; 65%),
 <tt>VERB --[<tt><a href="tr_imst-dep-compound-redup.html">compound:redup</a></tt>]--> VERB</tt> (29; 85%),
 <tt>VERB --[<tt><a href="tr_imst-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (18; 69%),
-<tt>VERB --[<tt><a href="tr_imst-dep-obl.html">obl</a></tt>]--> VERB</tt> (8; 53%),
+<tt>VERB --[<tt><a href="tr_imst-dep-obl.html">obl</a></tt>]--> VERB</tt> (9; 53%),
 <tt>AUX --[<tt><a href="tr_imst-dep-aux-q.html">aux:q</a></tt>]--> AUX</tt> (5; 100%),
 <tt>VERB --[<tt><a href="tr_imst-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (5; 63%).
 

@@ -25,9 +25,9 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 1	Se	él	PRON	pc0cn000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pass	_	_
 2	le	él	PRON	pc3csd00	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 3	echa	echar	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	...	...	PUNCT	_	PunctType=Comm	3	punct	_	_
+4	...	...	PUNCT	_	PunctType=Comm	5	punct	_	_
 5	vinagre	vinagre	NOUN	ncms000	Gender=Masc|Number=Sing	3	obj	_	SpaceAfter=No
-6	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
+6	,	,	PUNCT	fc	PunctType=Comm	8	punct	_	_
 7	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	8	punct	_	SpaceAfter=No
 8	sabes	saber	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
 9	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	8	punct	_	_
@@ -69,7 +69,7 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 6	vienen	viener	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	fascistas	fascista	NOUN	ncmp000	Gender=Masc|Number=Plur	6	nsubj	_	SpaceAfter=No
-9	,	,	PUNCT	fc	PunctType=Comm	6	punct	_	_
+9	,	,	PUNCT	fc	PunctType=Comm	11	punct	_	_
 10	los	el	DET	da0mp0	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	fascistas	fascista	NOUN	ncmp000	Gender=Masc|Number=Plur	6	conj	_	SpaceAfter=No
 12	,	,	PUNCT	fc	PunctType=Comm	11	punct	_	_
@@ -78,7 +78,7 @@ The following 14 pairs of parts of speech are connected with `parataxis`: <tt><a
 15	rojos	rojo	NOUN	ncmp000	Gender=Masc|Number=Plur	17	nsubj	_	_
 16	se	él	PRON	pc0cn000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl:pv	_	_
 17	van	ir	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	SpaceAfter=No
-18	!	!	PUNCT	fat	PunctSide=Fin|PunctType=Excl	17	punct	_	SpaceAfter=No
+18	!	!	PUNCT	fat	PunctSide=Fin|PunctType=Excl	6	punct	_	SpaceAfter=No
 19	.	.	PUNCT	fp	PunctType=Peri	6	punct	_	_
 
 ~~~

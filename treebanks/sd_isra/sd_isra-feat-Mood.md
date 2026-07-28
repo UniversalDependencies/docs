@@ -34,5 +34,5 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 `VERB` tokens may have the following values of `Mood`:
 
 * `Sub` (3; 100% of non-empty `Mood`): <em>اڇجانءِ, وينداسين, پيئجي</em>
-* `EMPTY` (13090): <em>ڪري, چيو, ڪرڻ, ويو, ڪيو, وڃي, ڪئي, اچي, ويا, پيو</em>
+* `EMPTY` (13068): <em>ڪري, چيو, ڪرڻ, ويو, ڪيو, وڃي, ڪئي, اچي, ويا, پيو</em>
 

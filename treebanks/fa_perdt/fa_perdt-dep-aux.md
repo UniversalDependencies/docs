@@ -23,7 +23,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 6	fgColor:white
 # visual-style 6 7 aux	color:blue
 1	مشابه	مشابه	NOUN	N_IANM	Number=Sing	6	nsubj	_	LTranslit=mšābh|Translit=mšābh
-2	این	این	DET	PREM_DEMAJ	_	3	det	_	LTranslit=āīn|Translit=āīn
+2	این	این	DET	PREM_DEMAJ	PronType=Dem	3	det	_	LTranslit=āīn|Translit=āīn
 3	کارها	کار	NOUN	N_IANM	Number=Plur	1	nmod	_	LTranslit=kār|Translit=kārhā
 4	هم	هم	ADV	ADV_SADV	_	3	dep	_	LTranslit=hm|Translit=hm
 5	نهی	نهی	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=nhī|Translit=nhī

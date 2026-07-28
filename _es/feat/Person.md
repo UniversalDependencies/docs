@@ -46,4 +46,4 @@ In Spanish, the third person singular (él/ella/ello, "he/she/it") and third per
 * _Él habla_ "He speaks"
 * _Ellas comen_ "They eat"
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:35 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:09 CEST -->

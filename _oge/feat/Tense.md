@@ -13,6 +13,7 @@ udver: '2'
   <td><a href="#Fut">Fut</a></td>
   <td><a href="#Past">Past</a></td>
   <td><a href="#PastPerf">PastPerf</a></td>
+  <td><a href="#Pf">Perf</a></td>
   <td><a href="#Pqp">Pqp</a></td>
 </tr>
 </table>
@@ -49,7 +50,7 @@ The past (aorist) denotes a completed action in the past.
 
 #### Examples
 
-* _<b>შევიპყარ</b> იგი და არა გაუტეო იგი. _ 'I seized him and did not let him go.'
+* _<b>შევიპყარ</b> იგი და არა გაუტეო იგი._ 'I seized him and did not let him go.'
 
 ### <a name="PastPerf">`PastPerf`</a>: past perfect
 
@@ -57,7 +58,15 @@ The past perfect expresses an action completed before another past action or emp
 
 #### Examples
 
-*  _ნეტარ არიან, რომელთა არა <b>უხილავ</b> და ვჰრწმენე._ 'Blessed are those who have not seen and yet have believed.'
+* _ნეტარ არიან, რომელთა არა <b>უხილავ</b> და ვჰრწმენე._ 'Blessed are those who have not seen and yet have believed.'
+
+### <a name="Pf">`Pf`</a>: perfect tense
+
+The perfect expresses an action completed in the past and has current relevance. 
+
+#### Examples
+
+* _და მე **მიბრძანებიეს**_ 'I have ordered'
 
 ### <a name="Pqp">`Pqp`</a>: pluperfect tense
 
@@ -67,4 +76,4 @@ The pluperfect denotes an action completed before another past event.
 
 * _ხოლო კორნილიოს მიელოდა მათ, <b>შემოეკრიბა</b>	 თესლ-ტომი მისი <lb/> და საყუარელნი მეგობარნი მისნი._ 'But Cornelius was waiting for them, and had gathered his relatives and close friends.'
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:37 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->

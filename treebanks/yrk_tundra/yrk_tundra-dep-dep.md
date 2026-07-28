@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-21 nodes (2%) are attached to their parents as `dep`.
+18 nodes (1%) are attached to their parents as `dep`.
 
-15 instances of `dep` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.33333333333333.
+13 instances of `dep` (72%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.5.
 
-The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (10; 48% instances), <tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (4; 19% instances), <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (2; 10% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-NUM.html">NUM</a></tt> (2; 10% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> (2; 10% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> (1; 5% instances).
+The following 5 pairs of parts of speech are connected with `dep`: <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (10; 56% instances), <tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (4; 22% instances), <tt><a href="yrk_tundra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yrk_tundra-pos-NUM.html">NUM</a></tt> (2; 11% instances), <tt><a href="yrk_tundra-pos-DET.html">DET</a></tt>-<tt><a href="yrk_tundra-pos-ADP.html">ADP</a></tt> (1; 6% instances), <tt><a href="yrk_tundra-pos-VERB.html">VERB</a></tt>-<tt><a href="yrk_tundra-pos-DET.html">DET</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 3	<p>	<p>	X	_	_	6	discourse	_	AlignBegin=47605.5841684|AlignEnd=47773.5701088|Gloss=X|LTranslit=<p>|Translit=<p>
 4	пирця	пирця	ADJ	_	_	5	amod	_	AlignBegin=47773.5701088|AlignEnd=48117.6703416|Gloss=tall|LTranslit=ṕirća|Translit=ṕirća
 5	харадмʼ	харад	NOUN	_	_	6	obj	_	AlignBegin=48117.6703416|AlignEnd=48591.8242056|LTranslit=xarad|MGloss=house-acc|MSeg=харад-мʼ|Translit=xaradmʔ
-6	манэˮӈадмʼ	манэˮ-ӈа	VERB	_	_	0	root	_	AlignBegin=48591.8242056|AlignEnd=49410.4035536|LTranslit=manæʡ-ŋa|MGloss=see-cosee-co-1sg|MSeg=манэˮ-ӈа-дмʼ|Translit=manæʡŋadmʔ
+6	манэˮӈадмʼ	манэˮ-ӈа	VERB	_	_	0	root	_	AlignBegin=48591.8242056|AlignEnd=49410.4035536|LTranslit=manæʡ-ŋa|MGloss=see-co-1sg|MSeg=манэˮ-ӈа-дмʼ|Translit=manæʡŋadmʔ
 7	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=49410.4035536|AlignEnd=49793.0348731|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 ~~~
@@ -44,26 +44,29 @@ The following 6 pairs of parts of speech are connected with `dep`: <tt><a href="
 3	<p>	<p>	X	_	_	6	discourse	_	AlignBegin=47605.5841684|AlignEnd=47773.5701088|Gloss=X|LTranslit=<p>|Translit=<p>
 4	пирця	пирця	ADJ	_	_	5	amod	_	AlignBegin=47773.5701088|AlignEnd=48117.6703416|Gloss=tall|LTranslit=ṕirća|Translit=ṕirća
 5	харадмʼ	харад	NOUN	_	_	6	obj	_	AlignBegin=48117.6703416|AlignEnd=48591.8242056|LTranslit=xarad|MGloss=house-acc|MSeg=харад-мʼ|Translit=xaradmʔ
-6	манэˮӈадмʼ	манэˮ-ӈа	VERB	_	_	0	root	_	AlignBegin=48591.8242056|AlignEnd=49410.4035536|LTranslit=manæʡ-ŋa|MGloss=see-cosee-co-1sg|MSeg=манэˮ-ӈа-дмʼ|Translit=manæʡŋadmʔ
+6	манэˮӈадмʼ	манэˮ-ӈа	VERB	_	_	0	root	_	AlignBegin=48591.8242056|AlignEnd=49410.4035536|LTranslit=manæʡ-ŋa|MGloss=see-co-1sg|MSeg=манэˮ-ӈа-дмʼ|Translit=manæʡŋadmʔ
 7	<p>	<p>	PUNCT	_	_	6	punct	_	AlignBegin=49410.4035536|AlignEnd=49793.0348731|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 dep	color:blue
-1	ӈэмда	ӈэ	NOUN	_	_	7	obj	_	AlignBegin=159099.99663|AlignEnd=159402.915289|LTranslit=ŋæ|MGloss=leg-acc-poss.3sg|MSeg=ӈэ-м-да|Translit=ŋæmda
-2	велосипед?мэ?	велосипед	NOUN	_	_	4	nmod:poss	_	AlignBegin=159402.915289|AlignEnd=160398.794051|Gloss=bicycle|LTranslit=welośiṕed|Translit=welośiṕed?mæ?
-3	нярхалда	нярхалё	VERB	_	_	4	acl	_	AlignBegin=160398.794051|AlignEnd=160998.575316|LTranslit=ńarxaľo|MGloss=lie.accros-ptcp.cont|MSeg=нярхал-да|Translit=ńarxalda
-4	есяʼ	еся	NOUN	_	_	7	obl:mod	_	AlignBegin=160998.575316|AlignEnd=161295.208084|LTranslit=eśa|MGloss=iron-gen|MSeg=еся-ʼ|Translit=eśaʔ
-5	нябиʼ	няби	DET	_	_	7	dep	_	AlignBegin=161295.208084|AlignEnd=161578.129457|LTranslit=ńab́i|MGloss=other-gen|MSeg=няби-ʼ|Translit=ńab́iʔ
-6	няюʼ	няюʼ	ADP	_	_	5	dep	_	AlignBegin=161578.129457|AlignEnd=161902.744505|Gloss=towards.dat|LTranslit=ńajuʔ|Translit=ńajuʔ
-7	мода	мо	VERB	_	_	0	root	_	AlignBegin=161902.744505|AlignEnd=162413.032527|LTranslit=mo|MGloss=throw-3sg.sg|MSeg=мо-да|Translit=moda
-8	<p>	<p>	PUNCT	_	_	7	punct	_	AlignBegin=162413.032527|AlignEnd=163094.0259|Gloss=SIL|LTranslit=<p>|Translit=<p>
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 dep	color:blue
+1	сидя	сидя	NUM	_	_	2	dep	_	AlignBegin=12149.0106819|AlignEnd=12586.7149385|Gloss=two|LTranslit=śiďa|Translit=śiďa
+2	тэхэʼ	ты	NOUN	_	_	10	obl:mod	_	AlignBegin=12586.7149385|AlignEnd=12824.7997081|LTranslit=ti|MGloss=reindeer-du|MSeg=тэ-хэʼ|Translit=tæxæʔ
+3	няд	няд	ADP	_	_	2	case	_	AlignBegin=12824.7997081|AlignEnd=13239.2264462|Gloss=at.abl|LTranslit=ńad|Translit=ńad
+4	<p>	<p>	X	_	_	2	discourse	_	AlignBegin=13239.2264462|AlignEnd=13464.7800314|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
+5	марядʼ	марˮ	NOUN	_	Number=Sing|Person=2	6	nmod:poss	_	AlignBegin=13464.7800314|AlignEnd=13846.8221338|LTranslit=marʡ|MGloss=fence-gen.poss.2sg|MSeg=маря-дʼ|Translit=maŕadʔ
+6	нимня	ни-	NOUN	_	_	10	obl:mod	_	AlignBegin=13846.8221338|AlignEnd=14562.1629269|LTranslit=ńi-|MGloss=top-prol|MSeg=ни-мня|Translit=ńimńa
+7	<p>	<p>	X	_	_	6	discourse	_	AlignBegin=14562.1629269|AlignEnd=15559.9120313|Gloss=PAUSE|LTranslit=<p>|Translit=<p>
+8	марядʼ	марˮ	NOUN	_	Number=Sing|Person=2	10	obl:mod	_	AlignBegin=15559.9120313|AlignEnd=15896.6739308|LTranslit=marʡ|MGloss=fence-gen.poss.2sg|MSeg=маря-дʼ|Translit=maŕadʔ
+9	тяхаʼ	тяхаʼ	ADP	_	_	8	case	_	AlignBegin=15896.6739308|AlignEnd=16227.66983|Gloss=over|LTranslit=ťaxaʔ|Translit=ťaxaʔ
+10	санэйвʼ	санэй-	VERB	_	_	0	root	_	AlignBegin=16227.66983|AlignEnd=17169.0871481|LTranslit=sanæj-|MGloss=jump-1sg.refl|MSeg=санэй-вʼ|Translit=sanæjwʔ
+11	<p>	<p>	PUNCT	_	_	10	punct	_	AlignBegin=17169.0871481|AlignEnd=17763.2745385|Gloss=SIL|LTranslit=<p>|Translit=<p>
 
 ~~~
 

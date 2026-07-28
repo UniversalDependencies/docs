@@ -41,4 +41,4 @@ punct(see-15, .-17)
 
 The [csubj:pass]() relation subtype is used for the clausal subject of a passive verb. If the subject is of a copular clause whose predicate is itself a clause, [csubj:outer]() is used.
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:39 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:56 CEST -->

@@ -8,31 +8,35 @@ udver: '2'
 
 This relation is universal.
 
-3078 nodes (7%) are attached to their parents as `conj`.
+3511 nodes (7%) are attached to their parents as `conj`.
 
-3078 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.40643274853801.
+3511 instances of `conj` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.2620336086585.
 
-The following 43 pairs of parts of speech are connected with `conj`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1158; 38% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (950; 31% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (264; 9% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (93; 3% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (77; 3% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (72; 2% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (71; 2% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (54; 2% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (49; 2% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (48; 2% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (37; 1% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (36; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (28; 1% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (18; 1% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (11; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (8; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-DET.html">DET</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-AUX.html">AUX</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-DET.html">DET</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-DET.html">DET</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-DET.html">DET</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 46 pairs of parts of speech are connected with `conj`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1350; 38% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1092; 31% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (264; 8% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (94; 3% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (93; 3% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (85; 2% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (78; 2% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (68; 2% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (49; 1% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (47; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (43; 1% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (42; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (31; 1% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (20; 1% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (16; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (16; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (7; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-ADP.html">ADP</a></tt>-<tt><a href="pro_corag-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-DET.html">DET</a></tt>-<tt><a href="pro_corag-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-AUX.html">AUX</a></tt>-<tt><a href="pro_corag-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-DET.html">DET</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-DET.html">DET</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-DET.html">DET</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-DET.html">DET</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 conj	color:blue
-1	et	_	CCONJ	_	_	2	cc	_	_
-2	requerin	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
-3	lo	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
-4	que-	_	SCONJ	_	_	6	mark	_	_
-5	-us	_	PRON	_	Gender=Masc|Number=Plur|Person=2|PronType=Prs	6	obj	_	_
-6	tengos	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	_
-7	en	_	ADP	_	_	8	case	_	_
-8	fors	_	NOUN	_	_	6	obl	_	_
-9	et	_	CCONJ	_	_	10	cc	_	_
-10	costumes	_	NOUN	_	_	8	conj	_	SpaceAfter=No
-11	;	_	PUNCT	_	_	2	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 11 conj	color:blue
+1	Sover	_	ADP	_	_	3	case	_	_
+2	lo	_	DET	_	_	3	det	_	_
+3	pleyt	_	NOUN	_	_	0	root	_	_
+4	d'	_	ADP	_	_	5	case	_	SpaceAfter=No
+5	En	_	NOUN	_	_	3	nmod	_	_
+6	Bernat	_	PROPN	_	_	5	flat	_	_
+7	de	_	ADP	_	_	8	case	_	_
+8	Salier	_	PROPN	_	_	6	nmod	_	_
+9	et	_	CCONJ	_	_	11	cc	_	_
+10	d'	_	ADP	_	_	11	case	_	SpaceAfter=No
+11	En	_	NOUN	_	_	5	conj	_	_
+12	Bernat	_	PROPN	_	_	11	flat	_	_
+13	lo	_	DET	_	_	14	det	_	_
+14	Bon	_	NOUN	_	_	12	appos	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -40,42 +44,44 @@ The following 43 pairs of parts of speech are connected with `conj`: <tt><a href
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 conj	color:blue
-1	et	_	CCONJ	_	_	2	cc	_	_
-2	anan	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
-3	lo	_	PRON	_	Gender=Masc|Number=Sing|PronType=Prs	4	obj	_	_
-4	coelher	_	VERB	_	VerbForm=Inf	2	xcomp	_	_
-5	et	_	CCONJ	_	_	6	cc	_	_
-6	fen	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	2	conj	_	_
-7	lo	_	DET	_	_	6	obj	_	_
-8	senhor	_	NOUN	_	_	6	xcomp	_	_
-9	dus	_	NUM	_	_	10	nummod	_	_
-10	antz	_	NOUN	_	_	6	obl	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 conj	color:blue
+1	que	_	SCONJ	_	_	3	mark	_	_
+2	la	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
+3	pusque	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	12	advcl	_	_
+4	possedir	_	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	ni	_	CCONJ	_	_	6	cc	_	_
+6	pague	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	3	conj	_	_
+7	lo	_	DET	_	_	8	det	_	_
+8	ceys	_	NOUN	_	_	6	obj	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	3	punct	_	_
+10	crubar	_	VERB	_	VerbForm=Inf	12	xcomp	_	_
+11	la	_	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	10	obj	_	_
+12	deu	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	12	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 conj	color:blue
-1	De	_	ADP	_	_	2	case	_	_
-2	Bonetanc	_	PROPN	_	_	0	root	_	_
-3	capellan	_	NOUN	_	_	2	appos	_	SpaceAfter=No
-4	,	_	PUNCT	_	_	2	punct	_	_
-5	Arn.	_	PROPN	_	_	2	conj	_	_
-6	Robert	_	PROPN	_	_	5	flat	_	_
-7	et	_	CCONJ	_	_	8	cc	_	_
-8	Arn.	_	PROPN	_	_	2	conj	_	_
-9	de	_	ADP	_	_	11	case	_	_
-10	las	_	DET	_	_	11	det	_	_
-11	Mazeras	_	PROPN	_	_	8	nmod	_	SpaceAfter=No
-12	;	_	PUNCT	_	_	2	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 conj	color:blue
+1	mas	_	CCONJ	_	_	5	cc	_	_
+2	las	_	DET	_	_	3	det	_	_
+3	parropias	_	NOUN	_	_	5	nsubj	_	_
+4	son	_	AUX	_	Number=Plur|Person=3|VerbForm=Fin	5	cop	_	_
+5	questas	_	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	0	root	_	SpaceAfter=No
+6	:	_	PUNCT	_	_	5	punct	_	_
+7	Logoiran	_	PROPN	_	_	5	appos	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	7	punct	_	_
+9	Lesteac	_	PROPN	_	_	7	conj	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	9	punct	_	_
+11	Fau	_	PROPN	_	_	7	conj	_	SpaceAfter=No
+12	.	_	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

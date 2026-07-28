@@ -13,18 +13,16 @@ The `NOUN` tag is intended for common nouns only. See [PROPN]() for proper nouns
 
 Armenian nouns have lexical feature [Animacy](). Furthermore, the nouns inflect for [Case](), [Definite](), [Number](), [Number[psor]]() and [Person[psor]]().
 
-Note that _gerundives_ in Armenian share properties and usage of nouns and verbs. They are tagged [VERB]() (e.g. _վազել_&nbsp; “to run” and _վազելը_&nbsp; “the running”). They have full case and reduced number inflectional paradigms.
+Note that Armenian infinitives share properties of both nouns and verbs and are tagged [VERB](). They can take nominal morphology, including case marking and a reduced number paradigm (e.g. _վազել_/_vazel_ “to run” and _վազելը_/_vazelë_ “running”). In contrast, lexicalized verbal nouns are tagged `NOUN`.
 
-Verbal noun is tagged `NOUN`.
 
 ### Examples
 
-- _աղջիկ_&nbsp; “girl”
-- _կատու_&nbsp; “cat”
-- _ծառ_&nbsp; “tree”
-- _օդ_&nbsp; “air”
-- _գեղեցկություն_&nbsp; “beauty”
-- _լող_&nbsp; “swimming”
-- _վազք_&nbsp; “run”
-- _վազելը_&nbsp; “running”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:50 CET -->
+- _աղջիկ_/_aġǰik_ “girl”
+- _կատու_/_katow_ “cat”
+- _ծառ_/_çaṙ_ “tree”
+- _օդ_/_òd_ “air”
+- _գեղեցկություն_/_geġec’kowt’yown_ “beauty”
+- _լող_/_loġ_ “swimming”
+- _վազք_/_vazk’_ “run (the act of running), races”
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:36 CEST -->

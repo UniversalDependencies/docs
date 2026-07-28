@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `ADJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (187; 100% of non-empty `Polarity`): <em>inpossibile, impossibile, iniustum, inmeritus, inconveniens, ignari, impari, impius, incorruptibilis, inopina</em>
-* `EMPTY` (3783): <em>humanum, manifestum, necesse, prima, verum, primo, primum, romanorum, illustre, romanus</em>
+* `EMPTY` (3782): <em>humanum, manifestum, necesse, prima, verum, primo, primum, romanorum, illustre, romanus</em>
 
 `Polarity` seems to be **lexical feature** of `ADJ`. 100% lemmas (79) occur only with one value of `Polarity`.
 
@@ -45,7 +45,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 `CCONJ` tokens may have the following values of `Polarity`:
 
 * `Neg` (179; 100% of non-empty `Polarity`): <em>nec, neque, necnon, nedum</em>
-* `EMPTY` (2856): <em>et, sed, vel, que, sive, atque, scilicet, aut, ac, videlicet</em>
+* `EMPTY` (2849): <em>et, sed, vel, que, sive, atque, scilicet, aut, ac, videlicet</em>
 
 ### `SCONJ`
 
@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (46; 100% of non-empty `Polarity`): <em>nunquam, nondum, inconvenienter, iniuste, nequaquam, nichil, nimirum, inconsulte, inmediate, nequicquam</em>
-* `EMPTY` (3039): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
+* `EMPTY` (3046): <em>sic, ergo, etiam, vero, nunc, unde, tamen, bene, iam, magis</em>
 
 `Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (11) occur only with one value of `Polarity`.
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (18; 100% of non-empty `Polarity`): <em>nescio, nescit, ignoscendum, ignoscet, incomitatum, indignata, infirmari, insanisse, insperate, invidere</em>
-* `EMPTY` (8216): <em>potest, patet, habet, dicimus, videtur, dicit, consequens, dico, habere, oportet</em>
+* `EMPTY` (8217): <em>potest, patet, habet, dicimus, videtur, dicit, consequens, dico, habere, oportet</em>
 
 ### `NOUN`
 

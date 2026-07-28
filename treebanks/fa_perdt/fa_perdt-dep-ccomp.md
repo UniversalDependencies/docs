@@ -23,14 +23,14 @@ The following 54 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 11 ccomp	color:blue
 1	می‌گفت	گفت	VERB	V_ACT	Number=Sing|Person=3|Voice=Act	0	root	_	LTranslit=gft|OrigLemma=گفت#گو|Translit=mīgft
-2	این	این	DET	PREM_DEMAJ	_	4	det	_	LTranslit=āīn|Translit=āīn
+2	این	این	DET	PREM_DEMAJ	PronType=Dem	4	det	_	LTranslit=āīn|Translit=āīn
 3	سرکار	سرکار	PROPN	IDEN	Number=Sing	4	nmod	_	LTranslit=srkār|Translit=srkār
 4	خانم	خانم	NOUN	N_ANM	Number=Sing	11	nsubj	_	LTranslit=ḫānm|Translit=ḫānm
 5	محترمه	محترمه	ADJ	ADJ_AJP	_	4	amod	_	LTranslit=mḥtrmh|SpaceAfter=No|Translit=mḥtrmh
 6	،	،	PUNCT	PUNC	_	5	punct	_	LTranslit=,|Translit=,
 7	از	از	ADP	PREP	_	8	case	_	LTranslit=āz|Translit=āz
 8	نویسندگان	نویسنده	NOUN	N_ANM	Number=Plur	11	xcomp	_	LTranslit=nūīsndh|Translit=nūīsndgān
-9	همان	همان	DET	PREM_DEMAJ	_	10	det	_	LTranslit=hmān|Translit=hmān
+9	همان	همان	DET	PREM_DEMAJ	PronType=Dem	10	det	_	LTranslit=hmān|Translit=hmān
 10	نشریه	نشریه	NOUN	N_IANM	Number=Sing	8	nmod	_	LTranslit=nšrīh|Translit=nšrīh
 11	بوده	بود	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|VerbForm=Part|Voice=Act	1	ccomp	_	LTranslit=būd|OrigLemma=بود#باش|Translit=būdh
 12	است	است	AUX	AUX	Number=Sing|Person=3|Tense=Pres	11	aux	_	LTranslit=āst|OrigLemma=#است|SpaceAfter=No|Translit=āst
@@ -48,7 +48,7 @@ The following 54 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 1	صلاح	صلاح	NOUN	N_IANM	Number=Sing	2	xcomp	_	LTranslit=ṣlāḥ|Translit=ṣlāḥ
 2	ندیدم	دید	VERB	V_ACT	Number=Sing|Person=3|Polarity=Neg|Tense=Past|Voice=Act	0	root	_	LTranslit=dīd|OrigLemma=دید#بین|Translit=ndīdm
 3	که	که	SCONJ	SUBR	_	2	ccomp	_	LTranslit=kh|Translit=kh
-4	این	این	DET	PREM_DEMAJ	_	5	det	_	LTranslit=āīn|Translit=āīn
+4	این	این	DET	PREM_DEMAJ	PronType=Dem	5	det	_	LTranslit=āīn|Translit=āīn
 5	کتاب	کتاب	NOUN	N_IANM	Number=Sing	9	obj	_	LTranslit=ktāb|Translit=ktāb
 6	را	را	ADP	POSTP	_	5	case	_	LTranslit=rā|Translit=rā
 7	وقف	وقف	NOUN	N_IANM	Number=Sing	9	xcomp	_	LTranslit=ūqf|Translit=ūqf

@@ -42,4 +42,4 @@ A polícia informou que foram 40 mil vítimas do golpe . \n The police reported 
 ccomp(informou,foram)
 mark(foram,que)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:28 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:49 CEST -->

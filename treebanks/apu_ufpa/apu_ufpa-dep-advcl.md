@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (1%) are attached to their parents as `advcl`.
+12 nodes (1%) are attached to their parents as `advcl`.
 
-7 instances of `advcl` (64%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.09090909090909.
+8 instances of `advcl` (67%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.08333333333333.
 
-The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (7; 64% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (2; 18% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 9% instances).
+The following 4 pairs of parts of speech are connected with `advcl`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (8; 67% instances), <tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (2; 17% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (1; 8% instances), <tt><a href="apu_ufpa-pos-ADJ.html">ADJ</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (1; 8% instances).
 
 
 ~~~ conllu

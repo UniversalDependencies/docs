@@ -62,16 +62,16 @@ The following 2 pairs of parts of speech are connected with `det:numgov`: <tt><a
 16	wyłączenie	wyłączyć	NOUN	ger:sg:acc:n:perf:aff	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	14	obj	14:obj	_
 17	popularnych	popularny	ADJ	adj:pl:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	18	amod	18:amod	_
 18	stron	strona	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	16	obj	16:obj	_
-19	takich	taki	DET	adj:pl:gen:f:pos	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	18	det	18:det	_
-20	jak	jak	SCONJ	comp	ConjType=Comp	21	mark	21:mark|23:mark|25:mark|28:mark	_
-21	Reddit	Reddit	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	obl:cmpr	19:obl:cmpr	SpaceAfter=No
+19	takich	taki	DET	adj:pl:gen:f:pos	Case=Gen|Gender=Fem|Number=Plur|PronType=Dem	18	amod:cmp	18:amod:cmp	_
+20	jak	jak	SCONJ	comp	_	21	mark	21:mark|23:mark|25:mark|28:mark	_
+21	Reddit	Reddit	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	19	ccomp	19:ccomp	SpaceAfter=No
 22	,	,	PUNCT	interp	PunctType=Comm	23	punct	23:punct	_
-23	Twitter	twitter	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	conj	19:obl:cmpr|21:conj	SpaceAfter=No
+23	Twitter	twitter	NOUN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	conj	19:ccomp|21:conj	SpaceAfter=No
 24	,	,	PUNCT	interp	PunctType=Comm	25	punct	25:punct	_
-25	Spotify	Spotify	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	conj	19:obl:cmpr|21:conj	_
+25	Spotify	Spotify	PROPN	subst:sg:nom:m3	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	21	conj	19:ccomp|21:conj	_
 26	i	i	CCONJ	conj	_	28	cc	28:cc	_
 27	wiele	wiele	DET	num:pl:nom:f:rec	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	28	det:numgov	28:det:numgov	_
-28	innych	inny	ADJ	adj:pl:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	21	conj	19:obl:cmpr|21:conj	SpaceAfter=No
+28	innych	inny	ADJ	adj:pl:gen:f:pos	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	21	conj	19:ccomp|21:conj	SpaceAfter=No
 29	.	.	PUNCT	interp	PunctType=Peri	8	punct	8:punct	_
 
 ~~~

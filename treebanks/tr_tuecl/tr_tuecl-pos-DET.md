@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_tuecl-pos-D
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.501916).
+The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech is 1.503846).
 
 The 1st highest number of forms (1) was observed with the lemma “bir”: <em>bir</em>.
 
@@ -35,11 +35,11 @@ The 2nd highest number of forms (1) was observed with the lemma “bu”: <em>bu
 
 The 3rd highest number of forms (1) was observed with the lemma “bütün”: <em>bütün</em>.
 
-`DET` occurs with 2 features: <tt><a href="tr_tuecl-feat-PronType.html">PronType</a></tt> (13; 93% instances), <tt><a href="tr_tuecl-feat-Definite.html">Definite</a></tt> (10; 71% instances)
+`DET` occurs with 2 features: <tt><a href="tr_tuecl-feat-PronType.html">PronType</a></tt> (14; 100% instances), <tt><a href="tr_tuecl-feat-Definite.html">Definite</a></tt> (10; 71% instances)
 
 `DET` occurs with 5 feature-value pairs: `Definite=Def`, `Definite=Ind`, `PronType=Art`, `PronType=Dem`, `PronType=Int`
 
-`DET` occurs with 5 feature combinations.
+`DET` occurs with 4 feature combinations.
 The most frequent feature combination is `Definite=Ind|PronType=Art` (7 tokens).
 Examples: <em>bir</em>
 

@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `nmod:desc`: <tt><a 
 # visual-style 5	fgColor:white
 # visual-style 5 4 nmod:desc	color:blue
 1	Thank	thank	VERB	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	you	you	PRON	PERS-P2	Case=Acc|Person=2|PronType=Prs	1	obj	_	SpaceAfter=No
+2	you	you	PRON	PERS-P2	Person=2|PronType=Prs	1	obj	_	SpaceAfter=No
 3	,	,	PUNCT	Comma	_	5	punct	_	_
 4	Mr	Mr	NOUN	SG-NOM	Number=Sing	5	nmod:desc	_	_
 5	Donnay	Donnay	PROPN	SG-NOM	Number=Sing	1	vocative	_	SpaceAfter=No

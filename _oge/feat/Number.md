@@ -30,4 +30,4 @@ A plural noun denotes several persons, animals or things.
 #### Examples
 
 * _ქალაქ<b>ებ</b>ი, _ქალაქ<b>ნ</b>ი_ "cities", _სძლ<b>ებ</b>, სძლ<b>ებ</b>ი, სძალ<b>ნ</b>ი_ "daughter's in law" etc.
-<!-- Interlanguage links updated So 10. května 2025, 18:14:18 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->

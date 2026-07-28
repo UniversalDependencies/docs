@@ -77,7 +77,7 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 
 * `Ind` (45; 92% of non-empty `Mood`): <em>mag, Jahrhundert, War, 3/8-Takte, Balken, Bin, Erbvogt, Familien, Flotte, Gemüt</em>
 * `Sub` (4; 8% of non-empty `Mood`): <em>Komme, biene, ha, service</em>
-* `EMPTY` (52247): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52899): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 <table>
   <tr><th>Paradigm <i>kommen</i></th><th><tt>Ind</tt></th><th><tt>Sub</tt></th></tr>
@@ -98,7 +98,7 @@ The most frequent other feature values with which `PROPN` and `Mood` co-occurred
 * `Imp` (5; 11% of non-empty `Mood`): <em>EVTA, Kambodschas, Verzeih, aG, flieg</em>
 * `Ind` (35; 80% of non-empty `Mood`): <em>ist, 1st, Gibt, Glaube, Sankt, Verden, ausnutzen, bru, colt, corde</em>
 * `Sub` (4; 9% of non-empty `Mood`): <em>Kemble, Roden, fläke, régime</em>
-* `EMPTY` (30372): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (29720): <em>Deutschland, de, of, US, Berlin, SPD, St., Frankreich, new, la</em>
 
 `Mood` seems to be **lexical feature** of `PROPN`. 100% lemmas (41) occur only with one value of `Mood`.
 
@@ -118,6 +118,7 @@ The most frequent other feature values with which `X` and `Mood` co-occurred: <t
 The 10 most frequent relations where parent and child node agree in `Mood`:
 <tt>VERB --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1076; 64%),
 <tt>VERB --[<tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (122; 51%),
+<tt>VERB --[<tt><a href="de_gsd-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (39; 59%),
 <tt>AUX --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> AUX</tt> (10; 100%),
 <tt>VERB --[<tt><a href="de_gsd-dep-dep.html">dep</a></tt>]--> VERB</tt> (10; 63%),
 <tt>AUX --[<tt><a href="de_gsd-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 60%),

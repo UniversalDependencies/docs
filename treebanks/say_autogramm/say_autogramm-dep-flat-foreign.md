@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="say_autogramm-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="say_autogramm-dep-flat-name.html">flat:name</a></tt>.
 
-88 nodes (0%) are attached to their parents as `flat:foreign`.
+93 nodes (0%) are attached to their parents as `flat:foreign`.
 
-88 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.88636363636364.
+93 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.86021505376344.
 
-The following 13 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-X.html">X</a></tt> (62; 70% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (4; 5% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="say_autogramm-pos-X.html">X</a></tt> (4; 5% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-X.html">X</a></tt> (4; 5% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-X.html">X</a></tt> (67; 72% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="say_autogramm-pos-X.html">X</a></tt> (4; 4% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-X.html">X</a></tt> (4; 4% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (3; 3% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="say_autogramm-pos-X.html">X</a></tt>-<tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,9 +26,9 @@ The following 13 pairs of parts of speech are connected with `flat:foreign`: <tt
 1	shi	shi	X	_	Foreign=Yes	5	discourse	_	AlignBegin=170171|AlignEnd=170294|Gloss=3Sing.M|Lang=ha
 2	ya	ya	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=170294|AlignEnd=170417|Gloss=3.Sing.PFV|Lang=ha
 3	sa	sa	X	_	Foreign=Yes	1	flat:foreign	_	AlignBegin=170417|AlignEnd=170540|Gloss=cause|Lang=ha
-4	ʧáː	_	AUX	yáː	Aspect=Imp|Number=Sing|Person=3	5	aux	_	AlignBegin=170540|AlignEnd=170832|Gloss=3Sing.Imp
+4	ʧáː	yáː	AUX	_	Aspect=Imp|Number=Sing|Person=3	5	aux	_	AlignBegin=170540|AlignEnd=170832|Gloss=3Sing.Imp
 5	pol	pol	VERB	_	_	0	root	_	AlignBegin=170832|AlignEnd=170978|Gloss=please
-6	ɣə	kə	PRON	_	Number=Sing|Person=2|PronType=Prs	5	obj	_	AlignBegin=170978|AlignEnd=171125|Gloss=2Sing.Obj|wordform==ɣə
+6	ɣə	kə	PRON	_	Number=Sing|Person=2|PronType=Prs	5	obj	_	AlignBegin=170978|AlignEnd=171125|Gloss=2Sing.Acc|wordform==ɣə
 7	Féːlêks	Féːlêks	PROPN	_	_	5	nsubj	_	AlignBegin=171125|AlignEnd=171329|Gloss=Felix
 8	éy	éy	INTJ	_	_	5	discourse	_	AlignBegin=171329|AlignEnd=171533|Gloss=indeed
 9	!//	!//	PUNCT	_	_	5	punct	_	AlignBegin=171533|AlignEnd=171737|Gloss=PUNCT

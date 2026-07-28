@@ -26,7 +26,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 2	amanecer	amanecer	NOUN	ncms000	Gender=Masc|Number=Sing	4	nsubj	4:nsubj	ArgTem=arg0:cau
 3	me	yo	PRON	pp1cs000	Case=Acc|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obj	4:obj	ArgTem=arg1:tem
 4	sorprendió	sorprender	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-5	ojeroso	ojeroso	ADJ	aq0ms0	Gender=Masc|Number=Sing	4	obj	4:obj	ArgTem=argM:atr
+5	ojeroso	ojeroso	ADJ	aq0ms0	Gender=Masc|Number=Sing	4	xcomp	4:xcomp	ArgTem=argM:atr
 6	y	y	CCONJ	cc	_	7	cc	7:cc	_
 7	agotado	agotado	ADJ	aq0msp	Gender=Masc|Number=Sing|VerbForm=Part	5	conj	5:conj	SpaceAfter=No
 8	,	,	PUNCT	fc	PunctType=Comm	9	punct	9:punct	_
@@ -39,7 +39,7 @@ The following 1 pairs of parts of speech are connected with `vocative`: <tt><a h
 15	padres	padre	NOUN	ncmp000	Gender=Masc|Number=Plur	12	nmod	12:nmod	_
 16	que	que	PRON	pr0cn000	PronType=Rel	18	nsubj	18:nsubj	ArgTem=arg1:tem
 17	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	expl:pv	18:expl:pv	_
-18	ven	ver	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl	15:acl	_
+18	ven	ver	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	15:acl:relcl	_
 19	sometidos	sometido	ADJ	aq0mpp	Gender=Masc|Number=Plur|VerbForm=Part	18	obj	18:obj	ArgTem=arg2:atr
 20	a	a	ADP	spcms	_	23	case	23:case	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	23:det	_

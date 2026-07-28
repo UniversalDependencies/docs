@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-192 tokens (1%) have a non-empty value of `Connegative`.
-136 types (2%) occur at least once with a non-empty value of `Connegative`.
-121 lemmas (4%) occur at least once with a non-empty value of `Connegative`.
-The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (183; 1% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (9; 0% instances).
+196 tokens (1%) have a non-empty value of `Connegative`.
+137 types (2%) occur at least once with a non-empty value of `Connegative`.
+122 lemmas (4%) occur at least once with a non-empty value of `Connegative`.
+The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (187; 1% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (9; 0% instances).
 
 ### `VERB`
 
-183 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `Connegative`.
+187 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (5% of all `VERB` tokens) have a non-empty value of `Connegative`.
 
-The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (183; 100%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (183; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (183; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (183; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (183; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (183; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (182; 99%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (182; 99%).
+The most frequent other feature values with which `VERB` and `Connegative` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (187; 100%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (187; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (187; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (187; 100%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (187; 100%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (187; 100%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (186; 99%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (186; 99%).
 
 `VERB` tokens may have the following values of `Connegative`:
 
-* `Yes` (183; 100% of non-empty `Connegative`): <em>учо, жаля, капша, корта, пеле, сода, кенерть, пра, редя, сатстне</em>
+* `Yes` (187; 100% of non-empty `Connegative`): <em>учо, жаля, капша, корта, пеле, сода, кенерть, лотксе, пра, редя</em>
 
-`Connegative` seems to be **lexical feature** of `VERB`. 100% lemmas (118) occur only with one value of `Connegative`.
+`Connegative` seems to be **lexical feature** of `VERB`. 100% lemmas (119) occur only with one value of `Connegative`.
 
 ### `AUX`
 

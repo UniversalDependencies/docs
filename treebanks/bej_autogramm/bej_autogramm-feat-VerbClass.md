@@ -12,28 +12,28 @@ It occurs with 2 different values: `1`, `2`.
 2368 tokens (20%) have a non-empty value of `VerbClass`.
 997 types (52%) occur at least once with a non-empty value of `VerbClass`.
 1 lemmas (0) occur at least once with a non-empty value of `VerbClass`.
-The feature is used with 2 part-of-speech tags: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (2353; 20% instances), <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (15; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (2352; 20% instances), <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> (16; 0% instances).
 
 ### `VERB`
 
-2353 <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbClass`.
+2352 <tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `VerbClass`.
 
-The most frequent other feature values with which `VERB` and `VerbClass` co-occurred: <tt><a href="bej_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2042; 87%), <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1322; 56%), <tt><a href="bej_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1288; 55%), <tt><a href="bej_autogramm-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1207; 51%).
+The most frequent other feature values with which `VERB` and `VerbClass` co-occurred: <tt><a href="bej_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2041; 87%), <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1322; 56%), <tt><a href="bej_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1287; 55%), <tt><a href="bej_autogramm-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (1207; 51%).
 
 `VERB` tokens may have the following values of `VerbClass`:
 
-* `1` (1591; 68% of non-empty `VerbClass`): <em>eːn, indi, ini, iːfi, tindi, diːtiːt, akajeː, difeː, iːbri, akeːna</em>
+* `1` (1590; 68% of non-empty `VerbClass`): <em>eːn, indi, ini, iːfi, tindi, diːtiːt, akajeː, difeː, iːbri, akeːna</em>
 * `2` (762; 32% of non-empty `VerbClass`): <em>jʔeːtiːt, jʔi, jʔeːn, hiːreːreː, ɖaːbeː, ʔiːbaːbeː, ɖaːbeːti, rhan, jʔiːni, jʔan</em>
 
 ### `AUX`
 
-15 <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> tokens (5% of all `AUX` tokens) have a non-empty value of `VerbClass`.
+16 <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> tokens (6% of all `AUX` tokens) have a non-empty value of `VerbClass`.
 
-The most frequent other feature values with which `AUX` and `VerbClass` co-occurred: <tt><a href="bej_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="bej_autogramm-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="bej_autogramm-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (14; 93%), <tt><a href="bej_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12; 80%).
+The most frequent other feature values with which `AUX` and `VerbClass` co-occurred: <tt><a href="bej_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="bej_autogramm-feat-VerbType.html">VerbType</a></tt><tt>=EMPTY</tt> (16; 100%), <tt><a href="bej_autogramm-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (14; 88%), <tt><a href="bej_autogramm-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13; 81%).
 
 `AUX` tokens may have the following values of `VerbClass`:
 
-* `1` (15; 100% of non-empty `VerbClass`): <em>iki, aki, nʔati, tiki, ani, anʔa, idʔana, ini, inʔakʷn, taki</em>
+* `1` (16; 100% of non-empty `VerbClass`): <em>iki, aki, nʔati, tiki, ani, anʔa, idʔana, ini, inʔakʷn, iːd</em>
 
 ## Relations with Agreement in `VerbClass`
 

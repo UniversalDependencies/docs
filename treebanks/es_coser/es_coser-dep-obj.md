@@ -59,7 +59,7 @@ The following 18 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	Y	y	CCONJ	cc	_	2	cc	_	_
 2	salen	salir	VERB	vmip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	mu	mucho	ADV	rg	_	4	advmod	_	Ortho=muy
-4	buenos	bueno	ADJ	aq0mp0	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
+4	buenos	buen	ADJ	aq0mp0	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
 5	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
 ~~~

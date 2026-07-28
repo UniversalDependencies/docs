@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Niko Partanen, KyungTae Lim, Thierry Poibeau, Jack Rueter.
 
 Repository: [UD_Komi_Zyrian-Lattice](https://github.com/UniversalDependencies/UD_Komi_Zyrian-Lattice)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_lattice217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udkpv_lattice218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -86,21 +86,21 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 
 ## Features
 
-[Abbr](kpv_lattice-feat-Abbr.html) – [AdpType](kpv_lattice-feat-AdpType.html) – [AdvType](kpv_lattice-feat-AdvType.html) – [Animacy](kpv_lattice-feat-Animacy.html) – [Case](kpv_lattice-feat-Case.html) – [Clitic](kpv_lattice-feat-Clitic.html) – [Connegative](kpv_lattice-feat-Connegative.html) – [Definite](kpv_lattice-feat-Definite.html) – [Degree](kpv_lattice-feat-Degree.html) – [Derivation](kpv_lattice-feat-Derivation.html) – [Evident](kpv_lattice-feat-Evident.html) – [ExtPos](kpv_lattice-feat-ExtPos.html) – [Mood](kpv_lattice-feat-Mood.html) – [Nomzr](kpv_lattice-feat-Nomzr.html) – [NounType](kpv_lattice-feat-NounType.html) – [Number](kpv_lattice-feat-Number.html) – [Number[psor]](kpv_lattice-feat-Number-psor.html) – [Number[subj]](kpv_lattice-feat-Number-subj.html) – [NumType](kpv_lattice-feat-NumType.html) – [PartForm](kpv_lattice-feat-PartForm.html) – [Person](kpv_lattice-feat-Person.html) – [Person[psor]](kpv_lattice-feat-Person-psor.html) – [Polarity](kpv_lattice-feat-Polarity.html) – [PronType](kpv_lattice-feat-PronType.html) – [Reflex](kpv_lattice-feat-Reflex.html) – [Tense](kpv_lattice-feat-Tense.html) – [Variant](kpv_lattice-feat-Variant.html) – [VerbForm](kpv_lattice-feat-VerbForm.html) – [Voice](kpv_lattice-feat-Voice.html)
+[Abbr](kpv_lattice-feat-Abbr.html) – [AdpType](kpv_lattice-feat-AdpType.html) – [AdvType](kpv_lattice-feat-AdvType.html) – [Animacy](kpv_lattice-feat-Animacy.html) – [Case](kpv_lattice-feat-Case.html) – [Clitic](kpv_lattice-feat-Clitic.html) – [Connegative](kpv_lattice-feat-Connegative.html) – [Definite](kpv_lattice-feat-Definite.html) – [Degree](kpv_lattice-feat-Degree.html) – [Derivation](kpv_lattice-feat-Derivation.html) – [Evident](kpv_lattice-feat-Evident.html) – [ExtPos](kpv_lattice-feat-ExtPos.html) – [Mood](kpv_lattice-feat-Mood.html) – [NameType](kpv_lattice-feat-NameType.html) – [Nomzr](kpv_lattice-feat-Nomzr.html) – [NounType](kpv_lattice-feat-NounType.html) – [Number](kpv_lattice-feat-Number.html) – [Number[psor]](kpv_lattice-feat-Number-psor.html) – [Number[subj]](kpv_lattice-feat-Number-subj.html) – [NumType](kpv_lattice-feat-NumType.html) – [PartForm](kpv_lattice-feat-PartForm.html) – [Person](kpv_lattice-feat-Person.html) – [Person[psor]](kpv_lattice-feat-Person-psor.html) – [Polarity](kpv_lattice-feat-Polarity.html) – [PronType](kpv_lattice-feat-PronType.html) – [Reflex](kpv_lattice-feat-Reflex.html) – [Tense](kpv_lattice-feat-Tense.html) – [Variant](kpv_lattice-feat-Variant.html) – [VerbForm](kpv_lattice-feat-VerbForm.html)
 
 ## Relations
 
-[acl](kpv_lattice-dep-acl.html) – [acl:relcl](kpv_lattice-dep-acl-relcl.html) – [advcl](kpv_lattice-dep-advcl.html) – [advmod](kpv_lattice-dep-advmod.html) – [advmod:deg](kpv_lattice-dep-advmod-deg.html) – [advmod:emph](kpv_lattice-dep-advmod-emph.html) – [amod](kpv_lattice-dep-amod.html) – [appos](kpv_lattice-dep-appos.html) – [aux](kpv_lattice-dep-aux.html) – [aux:neg](kpv_lattice-dep-aux-neg.html) – [aux:tense](kpv_lattice-dep-aux-tense.html) – [case](kpv_lattice-dep-case.html) – [cc](kpv_lattice-dep-cc.html) – [cc:preconj](kpv_lattice-dep-cc-preconj.html) – [ccomp](kpv_lattice-dep-ccomp.html) – [compound](kpv_lattice-dep-compound.html) – [compound:nn](kpv_lattice-dep-compound-nn.html) – [conj](kpv_lattice-dep-conj.html) – [cop](kpv_lattice-dep-cop.html) – [csubj](kpv_lattice-dep-csubj.html) – [csubj:cop](kpv_lattice-dep-csubj-cop.html) – [det](kpv_lattice-dep-det.html) – [discourse](kpv_lattice-dep-discourse.html) – [dislocated](kpv_lattice-dep-dislocated.html) – [fixed](kpv_lattice-dep-fixed.html) – [flat](kpv_lattice-dep-flat.html) – [flat:name](kpv_lattice-dep-flat-name.html) – [flat:num](kpv_lattice-dep-flat-num.html) – [list](kpv_lattice-dep-list.html) – [mark](kpv_lattice-dep-mark.html) – [nmod](kpv_lattice-dep-nmod.html) – [nmod:obj](kpv_lattice-dep-nmod-obj.html) – [nmod:poss](kpv_lattice-dep-nmod-poss.html) – [nmod:subj](kpv_lattice-dep-nmod-subj.html) – [nsubj](kpv_lattice-dep-nsubj.html) – [nsubj:cop](kpv_lattice-dep-nsubj-cop.html) – [nummod](kpv_lattice-dep-nummod.html) – [obj](kpv_lattice-dep-obj.html) – [obl](kpv_lattice-dep-obl.html) – [obl:agent](kpv_lattice-dep-obl-agent.html) – [obl:cmp](kpv_lattice-dep-obl-cmp.html) – [orphan](kpv_lattice-dep-orphan.html) – [parataxis](kpv_lattice-dep-parataxis.html) – [punct](kpv_lattice-dep-punct.html) – [reparandum](kpv_lattice-dep-reparandum.html) – [root](kpv_lattice-dep-root.html) – [vocative](kpv_lattice-dep-vocative.html) – [xcomp](kpv_lattice-dep-xcomp.html)
+[acl](kpv_lattice-dep-acl.html) – [acl:relcl](kpv_lattice-dep-acl-relcl.html) – [advcl](kpv_lattice-dep-advcl.html) – [advmod](kpv_lattice-dep-advmod.html) – [advmod:deg](kpv_lattice-dep-advmod-deg.html) – [advmod:emph](kpv_lattice-dep-advmod-emph.html) – [amod](kpv_lattice-dep-amod.html) – [appos](kpv_lattice-dep-appos.html) – [aux](kpv_lattice-dep-aux.html) – [aux:neg](kpv_lattice-dep-aux-neg.html) – [aux:tense](kpv_lattice-dep-aux-tense.html) – [case](kpv_lattice-dep-case.html) – [cc](kpv_lattice-dep-cc.html) – [cc:preconj](kpv_lattice-dep-cc-preconj.html) – [ccomp](kpv_lattice-dep-ccomp.html) – [compound](kpv_lattice-dep-compound.html) – [compound:nn](kpv_lattice-dep-compound-nn.html) – [conj](kpv_lattice-dep-conj.html) – [cop](kpv_lattice-dep-cop.html) – [csubj](kpv_lattice-dep-csubj.html) – [csubj:cop](kpv_lattice-dep-csubj-cop.html) – [dep](kpv_lattice-dep-dep.html) – [det](kpv_lattice-dep-det.html) – [discourse](kpv_lattice-dep-discourse.html) – [dislocated](kpv_lattice-dep-dislocated.html) – [fixed](kpv_lattice-dep-fixed.html) – [flat](kpv_lattice-dep-flat.html) – [flat:name](kpv_lattice-dep-flat-name.html) – [flat:num](kpv_lattice-dep-flat-num.html) – [list](kpv_lattice-dep-list.html) – [mark](kpv_lattice-dep-mark.html) – [nmod](kpv_lattice-dep-nmod.html) – [nmod:obj](kpv_lattice-dep-nmod-obj.html) – [nmod:poss](kpv_lattice-dep-nmod-poss.html) – [nmod:subj](kpv_lattice-dep-nmod-subj.html) – [nsubj](kpv_lattice-dep-nsubj.html) – [nsubj:cop](kpv_lattice-dep-nsubj-cop.html) – [nummod](kpv_lattice-dep-nummod.html) – [obj](kpv_lattice-dep-obj.html) – [obl](kpv_lattice-dep-obl.html) – [obl:agent](kpv_lattice-dep-obl-agent.html) – [obl:cmp](kpv_lattice-dep-obl-cmp.html) – [orphan](kpv_lattice-dep-orphan.html) – [parataxis](kpv_lattice-dep-parataxis.html) – [punct](kpv_lattice-dep-punct.html) – [reparandum](kpv_lattice-dep-reparandum.html) – [root](kpv_lattice-dep-root.html) – [vocative](kpv_lattice-dep-vocative.html) – [xcomp](kpv_lattice-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 663 sentences, 8030 tokens and 8083 syntactic words.</li>
+<li>This corpus contains 673 sentences, 8144 tokens and 8196 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 1427 tokens (18%) that are not followed by a space.</li>
+<li>This corpus contains 1444 tokens (18%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -108,12 +108,12 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 </ul>
 
 <ul>
-<li>This corpus contains 55 types of words that contain both letters and punctuation. Examples: Ту-ри-яс, гоз-мӧдысь, оз-ӧ, ӧтарӧ-мӧдарӧ, Вӧр-ва, Гым-биясыс, Нёль-ӧ-вит, Тома-пӧрыся, Усть-Сысольскын, Чой-вок, Э-э-э, Югыд-Ляга, агитационно-массӧвӧй, ай-мам, арӧсӧн-джынйӧн, асыв-войвывсянь, асыв-войвывсяньыс, ая-пиа, бӧра-водза, вылын-паськыд, вын-эбӧстӧ, вын-эбӧсӧй, вӧр-пу, гортас-ӧ, гымавны-чардавны, гымаліс-чардаліс, деда-внука, зверь-пӧтка, зэрны-гымавны, кыдзкӧ-мыйкӧ, кӧм-паськӧмӧс, лун-вой, мӧда-мӧд, ныв-зон, нывбабаыс-а, ныла-зятя, общественно-политическӧй, партийно-комсомольскӧй, пила-чер, пырысь-пыр, с.в., сикт-грездын, сэтшӧм-татшӧм, сэтшӧм-татшӧмъяс, сідз-тадз, тусьӧсь-тусьӧсь, тэа-меа, ті-і, уна-ӧ, чой-вокыс</li>
+<li>This corpus contains 56 types of words that contain both letters and punctuation. Examples: Ту-ри-яс, гоз-мӧдысь, оз-ӧ, ӧтарӧ-мӧдарӧ, Вӧр-ва, Гым-биясыс, Нёль-ӧ-вит, Тома-пӧрыся, Усть-Сысольскын, Чой-вок, Э-э-э, Югыд-Ляга, агитационно-массӧвӧй, ай-мам, арӧсӧн-джынйӧн, асыв-войвывсянь, асыв-войвывсяньыс, ая-пиа, бӧра-водза, вылын-паськыд, вын-эбӧстӧ, вын-эбӧсӧй, вӧр-пу, гортас-ӧ, гымавны-чардавны, гымаліс-чардаліс, деда-внука, збыль-ӧ, зверь-пӧтка, зэрны-гымавны, кыдзкӧ-мыйкӧ, кӧм-паськӧмӧс, лун-вой, мӧда-мӧд, ныв-зон, нывбабаыс-а, ныла-зятя, общественно-политическӧй, партийно-комсомольскӧй, пила-чер, пырысь-пыр, с.в., сикт-грездын, сэтшӧм-татшӧм, сэтшӧм-татшӧмъяс, сідз-тадз, тусьӧсь-тусьӧсь, тэа-меа, ті-і, уна-ӧ</li>
 </ul>
 
 <ul>
-<li>This corpus contains 29 multi-word tokens. On average, one multi-word token consists of 2.83 syntactic words.</li>
-<li>There are 29 types of multi-word tokens. Examples: yв-йӧг, ай-мам, босьтӧма-лӧсьӧдӧма, вевттьӧма-сайӧдӧма, вӧрсалӧн, вӧчысь-тэчысьясыс, гӧрисны-кӧдзисны, дзӧрны-катласьны, довгыны-мунны, кокъясасӧ, кыдз-пипу, кӧм-пась, кӧм-паськӧм, лебмӧм-сісьмӧм, лыдтӧм-тшӧттӧм, мукӧдлӧнысь, нырисасӧ, нязгис-ворсіс, няръялӧма-песӧма, пуритӧ-быдмӧ, пусьӧма-нӧгыльтчӧма, сиктсаяслы, сир-ёкыш, сьӧла-тар, шкоргис-узис, шлопкӧбтӧ-пуктӧ, шонтӧ-керӧ, шӧтӧ-локтӧ, ыркалӧм-сьӧктаммӧм.</li>
+<li>This corpus contains 28 multi-word tokens. On average, one multi-word token consists of 2.86 syntactic words.</li>
+<li>There are 28 types of multi-word tokens. Examples: yв-йӧг, ай-мам, босьтӧма-лӧсьӧдӧма, вевттьӧма-сайӧдӧма, вӧрсалӧн, вӧчысь-тэчысьясыс, гӧрисны-кӧдзисны, дзӧрны-катласьны, довгыны-мунны, кокъясасӧ, кыдз-пипу, кӧм-пась, кӧм-паськӧм, лебмӧм-сісьмӧм, лыдтӧм-тшӧттӧм, мукӧдлӧнысь, нязгис-ворсіс, няръялӧма-песӧма, пуритӧ-быдмӧ, пусьӧма-нӧгыльтчӧма, сиктсаяслы, сир-ёкыш, сьӧла-тар, шкоргис-узис, шлопкӧбтӧ-пуктӧ, шонтӧ-керӧ, шӧтӧ-локтӧ, ыркалӧм-сьӧктаммӧм.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -130,7 +130,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 </ul>
 
 <ul>
-<li>This corpus contains 45 lemmas tagged as pronouns (PRON): _, ас, быд, быдӧн, даснаныс, кодкӧ, коднаныд, кодсюрӧ, коді, кутшӧм, кутшӧмкӧ, кутшӧмсюрӧ, кыкнан, кыкнанным, кыкнанныс, кыкнаныс, ме, ми, мукӧд, мый, мыйкӧ, мыйсюрӧ, мыйта, мӧд, мӧда-мӧд, найӧ, некод, нем, нинӧм, став, сы, сійӧ, та, тайӧ, татшӧм, тэ, тэа-меа, ті, уна, ыс, эсійӧ, ӧта-мӧд, ӧтар, ӧти, ӧткымын</li>
+<li>This corpus contains 44 lemmas tagged as pronouns (PRON): ас, быд, быдӧн, даснаныс, код, кодкӧ, коднаныд, кодсюрӧ, коді, кутшӧм, кутшӧмкӧ, кутшӧмсюрӧ, кыкнан, кыкнанным, кыкнанныс, кыкнаныс, ме, ми, мукӧд, мый, мыйкӧ, мыйсюрӧ, мыйта, мӧд, мӧда-мӧд, найӧ, некод, нем, нинӧм, став, сы, сійӧ, тайӧ, татшӧм, тэ, тэа-меа, ті, уна, ыс, эсійӧ, ӧта-мӧд, ӧтар, ӧти, ӧткымын</li>
 </ul>
 
 <ul>
@@ -150,7 +150,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 </ul>
 
 <ul>
-<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+<li>There are 6 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
 <ul>
@@ -165,7 +165,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
   <li>Fin
   <ul>
     <li>AUX: эз, вӧлі, оз, колӧ, абу, он, эг, ог, вӧліны, кутіс</li>
-    <li>VERB: воис, лои, мунӧ, Локтас, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс</li>
+    <li>VERB: воис, лои, видзӧдліс, кыліс, мунӧ, Локтас, воисны, муніс, шуис, шыасис</li>
   </ul>
   </li>
 </ul>
@@ -180,9 +180,17 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 </ul>
 
 <ul>
+  <li>NomAg
+  <ul>
+    <li>VERB: сулалысь, дзирдалысь, локтысь, Вӧралысь, видзысьяс, воысьясӧс, вӧтчысь, вӧчысь, дзользьысь, индалысьясным</li>
+  </ul>
+  </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
-    <li>VERB: идралӧм, идралӧмын, кольӧм, октӧм, Бырӧдӧм, Вӧралысь, аддзанаӧн, бонзьӧдӧм, босьтӧм, быдмӧм</li>
+    <li>VERB: идралӧм, идралӧмын, кольӧм, октӧм, Бырӧдӧм, аддзанаӧн, бонзьӧдӧм, босьтӧм, быдмӧм, вайӧм</li>
   </ul>
   </li>
 </ul>
@@ -190,7 +198,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: вайӧм, кульыштӧм, подмӧм, Мудзӧм, баитӧмъяснысӧ, босьтӧмаяс, ветлӧм, видзӧдлӧмъясыс, воӧм, воӧмсянь</li>
+    <li>VERB: вайӧм, кульыштӧм, подмӧм, Мудзӧм, баитӧмъяснысӧ, бергӧдчылӧмӧн, босьтӧмаяс, буксӧм, ветлӧм, видзӧдлӧмъясыс</li>
   </ul>
   </li>
 </ul>
@@ -207,7 +215,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
   <li>Hum
     <ul>
       <li>NOUN: Ваньӧ, Павел, Гриш, Свежов, Варук, Вась, Демит, Микитлӧн, Саш, Асныров</li>
-      <li>PROPN: Нетулика, Прокоп, Пӧлашысь, Сеня, Тулика</li>
+      <li>PROPN: Вика, Лариса, Лихачёв, Нетулика, Прокоп, Пӧлашысь, Сеня, Тулика</li>
     </ul>
   </li>
 </ul>
@@ -221,16 +229,17 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>ADJ: белӧйяс, авъяӧсь, визулӧсь, еджыд, посньыдикӧсь, сераяс, сэтшӧмъясыслӧн, шаньӧсь, Татшӧмъясыд, Томъяс</li>
       <li>ADV: водзтіястӧ, лунтыръясӧн, войбыдъясӧн, коръясӧ, кытсюрӧясті, мукӧдлаясын, ӧтлаынӧсь</li>
-      <li>AUX: эз, вӧліны, оз, вӧвны, лоам, лоины, эг, эмӧсь, Эн, вермасны</li>
+      <li>AUX: эз, вӧліны, оз, эмӧсь, вӧвны, лоам, лоины, эг, Эн, вермасны</li>
       <li>AUX-Fin: эз, вӧліны, оз, лоам, лоины, эг, эмӧсь, Эн, вермасны, вермисны</li>
       <li>DET: коймӧдъяс, мӧдъяс, Ӧтияс</li>
       <li>NOUN: кодзувъяс, колхозъясса, председательяс, казакъяс, колхозницаяс, коръяс, культураяс, кӧдзыдъяс, машинаяс, местаясыс</li>
       <li>NUM: ветымынъяс, витъяс</li>
       <li>PRON: ми, найӧ, миян, кодъяс, найӧс, ті, миянлысь, налӧн, асланым, кыкнанныс</li>
-      <li>VERB: Радейтісны, воисны, мӧдӧдчисны, сулалісны, висьталӧны, вунӧдны, гӧгӧрволім, кыссьӧны, кӧсйӧны, новлӧдлӧны</li>
+      <li>VERB: воисны, Радейтісны, мӧдӧдчисны, сулалісны, висьталӧны, вунӧдны, гӧгӧрволім, кыссьӧны, кӧсйӧны, новлӧдлӧны</li>
       <li>VERB-Conv: Вермасигъясад, Пуктысигъясӧ, Рытйысигъясын, келалігъясын, кыйигъясӧн, мыськасигъясын, пуръясигъясын, сувтлігъясӧ, чышкасигъясын, шонтысигъясӧ</li>
-      <li>VERB-Fin: Радейтісны, воисны, мӧдӧдчисны, сулалісны, висьталӧны, гӧгӧрволім, кыссьӧны, кӧсйӧны, новлӧдлӧны, нуӧмаӧсь</li>
+      <li>VERB-Fin: воисны, Радейтісны, мӧдӧдчисны, сулалісны, висьталӧны, гӧгӧрволім, кыссьӧны, кӧсйӧны, новлӧдлӧны, нуӧмаӧсь</li>
       <li>VERB-Inf: косявныяс, петныяс, шойтчыныястӧ</li>
+      <li>VERB-NomAg: видзысьяс, воысьясӧс, индалысьясным, кулысьясӧс, лэдзысьяслӧн, стрӧитчысьясыслысь, сюртчысьяс, сёрнитысьясӧс, тэчысьясыс, чужысьясӧс</li>
       <li>VERB-Part: горзӧмъяс, лыйсьӧмъяс</li>
       <li>VERB-Vnoun: баитӧмъяснысӧ, босьтӧмаяс, видзӧдлӧмъясыс, вувзьысьӧмъяс, усьӧмъяссьыс, шойччалӧмъясӧн</li>
     </ul>
@@ -241,21 +250,22 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
   <li>Sing
     <ul>
       <li>ADJ: ыджыд, кодь, бур, важ, мича, ичӧтик, сэтшӧм, еджыд, том, выль</li>
-      <li>ADP: вылӧ, вылын, йылысь, бӧрын, дінӧ, вылас, дорын, дорӧ, ордӧ, сайын</li>
-      <li>ADV: кӧні, нин, быдсӧн, воддза, выльысь, гатшӧннас, друг, ичӧтика, унакодь, ӧд</li>
+      <li>ADP: вылӧ, вылын, дінӧ, йылысь, бӧрын, вылас, дорын, дорӧ, ордӧ, сайын</li>
+      <li>ADV: кӧні, нин, быдсӧн, воддза, выльысь, гатшӧннас, друг, дыр, ичӧтика, унакодь</li>
       <li>AUX: вӧлі, эз, оз, колӧ, абу, он, кутіс, эг, ог, позьӧ</li>
       <li>AUX-Fin: вӧлі, эз, оз, колӧ, абу, он, кутіс, эг, ог, позьӧ</li>
-      <li>DET: став, некутшӧм, татшӧм, ниӧти, ставыс, Уналӧн, ас, быд, кыкнан, мӧд</li>
-      <li>NOUN: урожай, удж, шонді, лун, ва, вӧр, во, му, пу, ю</li>
+      <li>DET: став, некутшӧм, татшӧм, ниӧти, ставыс, уна, Уналӧн, ас, быд, кыкнан</li>
+      <li>NOUN: урожай, удж, шонді, лун, ва, во, вӧр, керка, му, пу</li>
       <li>NUM: кык, ӧти, дас, комын, куим, 12-20, 16, 18, 1940, 29</li>
       <li>PRON: сійӧ, тайӧ, ме, сы, сійӧс, тэ, коді, сылӧн, мый, сылы</li>
-      <li>PROPN: Ворошилов, Климент, Ефремович, Краснӧй, Сталин, Валентина, Волгалань, Ворошиловӧс, Ефремовичкӧд, Ивановна</li>
+      <li>PROPN: Ворошилов, Климент, Ефремович, Краснӧй, Сталин, Ёгор, Валентина, Вера, Вика, Волгалань</li>
       <li>SCONJ: мед, медысь</li>
-      <li>VERB: воис, идралӧм, лои, идралӧмын, мунӧ, Локтас, видзӧдліс, кыліс, муніс, шуис</li>
+      <li>VERB: воис, идралӧм, лои, видзӧдліс, идралӧмын, кыліс, мунӧ, Локтас, муніс, шуис</li>
       <li>VERB-Conv: босьтігас, велӧдчиганыс, куйліганыс, лэдзигӧн, петігӧн, пуксигӧн, пыригам, уджалігӧн, ӧвтыштліганыс</li>
-      <li>VERB-Fin: воис, лои, мунӧ, Локтас, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс</li>
+      <li>VERB-Fin: воис, лои, видзӧдліс, кыліс, мунӧ, Локтас, муніс, шуис, шыасис, юаліс</li>
+      <li>VERB-NomAg: сулалысь, дзирдалысь, локтысь, Вӧралысь, вӧтчысь, вӧчысь, дзользьысь, командуйтысь, кужысь, куйлысь</li>
       <li>VERB-Part: идралӧм, идралӧмын, кольӧм, аддзанаӧн, босьтӧм, вартӧм, вооружитчӧм, воӧм, вӧйӧм, грымгӧм</li>
-      <li>VERB-Vnoun: Мудзӧм, ветлӧм, воӧм, воӧмсянь, вурӧм, вӧйтчӧмӧн, вӧчӧм, гызьылӧм, гӧтрасьӧмысь, дзользьӧмӧн</li>
+      <li>VERB-Vnoun: Мудзӧм, бергӧдчылӧмӧн, буксӧм, ветлӧм, воӧм, воӧмсянь, вурӧм, вӧйтчӧмӧн, вӧчӧм, гызьылӧм</li>
     </ul>
   </li>
 </ul>
@@ -278,7 +288,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>NOUN: ягыслысь, Люсялысь, Пронялысь, воинлысь, гӧтырыдлысь, зверлысь, козйыслысь, колхозниклысь, овмӧслысь, олӧмыслысь</li>
       <li>PRON: миянлысь, сылысь, кодлыськӧ</li>
-      <li>VERB: стрӧитчысьясыслысь</li>
+      <li>VERB-NomAg: стрӧитчысьясыслысь</li>
     </ul>
   </li>
 </ul>
@@ -292,7 +302,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       <li>NUM: Нёльӧнӧс</li>
       <li>PRON: сійӧс, менӧ, найӧс, ставсӧ, асьсӧ, ачымӧс, кодӧс, тайӧс, Мыйсӧ, кодъясӧс</li>
       <li>PROPN: Ворошиловӧс</li>
-      <li>VERB: баитӧмъяснысӧ, воысьясӧс, кулысьясӧс, кылӧмсӧ, полӧмсӧ, сёрнитысьясӧс, туӧмсӧ, чужысьясӧс</li>
+      <li>VERB-NomAg: воысьясӧс, кулысьясӧс, сёрнитысьясӧс, чужысьясӧс</li>
       <li>VERB-Vnoun: баитӧмъяснысӧ, кылӧмсӧ, полӧмсӧ, туӧмсӧ</li>
     </ul>
   </li>
@@ -301,7 +311,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 <ul>
   <li>Adp
     <ul>
-      <li>PRON: сы, на</li>
+      <li>PRON: сы, на, та</li>
     </ul>
   </li>
 </ul>
@@ -348,7 +358,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>ADJ: воддзаыскӧд, коркӧяыскӧд</li>
       <li>NOUN: Венякӧд, Верӧсыскӧд, Владикыскӧд, Лёнякӧд, Понпиянкӧд, Прокопейыскӧд, батьыдкӧд, вошӧмъяскӧд, гӧтырыскӧд, мастерыскӧд</li>
-      <li>PRON: сыкӧд, мекӧд, тэкӧд, Коднаныд, аскӧдныд, аскӧдыс</li>
+      <li>PRON: сыкӧд, мекӧд, тэкӧд, Коднаныд, аскӧдныд, аскӧдыс, миянкӧд</li>
       <li>PROPN: Ефремовичкӧд</li>
       <li>VERB: паськӧд</li>
     </ul>
@@ -388,7 +398,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       <li>PRON: ассьыныс, ассьыс, мукӧдъясысь, таысь, Мыйысь, менсьым, некодысь, нинӧмысь, сыысь, ысь</li>
       <li>PROPN: Мӧдлапӧлысь, Пӧлашысь</li>
       <li>SCONJ: медысь</li>
-      <li>VERB: гӧтрасьӧмысь, инмӧмысь, кывзысьысьӧсь, саймовтчӧмысь, сыныштӧмысь, усьӧмъяссьыс</li>
+      <li>VERB-NomAg: кывзысьысьӧсь</li>
       <li>VERB-Vnoun: гӧтрасьӧмысь, инмӧмысь, саймовтчӧмысь, сыныштӧмысь, усьӧмъяссьыс</li>
     </ul>
   </li>
@@ -402,7 +412,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       <li>NOUN: Микитлӧн, Гришлӧн, Митяяслӧн, мортлӧн, мортыдлӧн, Анялӧн, Ворошиловлӧн, Елькинлӧн, Епимъяслӧн, Павеллӧн</li>
       <li>PRON: миян, сылӧн, менам, налӧн, тэнад, асланым, тіян, Кодлӧн, Менамӧсь, Уналӧн</li>
       <li>PROPN: Петилӧн</li>
-      <li>VERB: кольччӧмлӧн, лэдзысьяслӧн</li>
+      <li>VERB-NomAg: лэдзысьяслӧн</li>
       <li>VERB-Part: кольччӧмлӧн</li>
     </ul>
   </li>
@@ -413,7 +423,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>ADJ: прӧстӧ, ыджыдад</li>
       <li>ADP: вылӧ, дінӧ, вылас, дорӧ, ордӧ, кежлӧ, вылад, дінас, улӧ, бердӧ</li>
-      <li>ADV: водзӧ, бӧрӧ, весьшӧрӧ, кытчӧкӧ, матӧ, ылӧ, вылӧ, кытчӧ, мӧдарӧ, коръясӧ</li>
+      <li>ADV: водзӧ, бӧрӧ, весьшӧрӧ, кытчӧкӧ, матӧ, ылӧ, вылӧ, кытчӧ, мӧдарӧ, улӧ</li>
       <li>NOUN: карӧ, чукӧрӧ, аскадӧ, бокӧ, ваӧ, кадӧ, кывйӧ, лунӧ, муӧ, радӧ</li>
       <li>PRON: меӧ, ставнысӧ</li>
       <li>VERB: Вермасигъясад, Гымалігад, Зэригас, Пуктысигъясӧ, босьтігас, велӧдчиганыс, куйліганыс, пыригам, сувтлігъясӧ, чӧвтанінӧ</li>
@@ -439,17 +449,17 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 <ul>
   <li>Ins
     <ul>
-      <li>ADJ: Бӧръяӧн, важӧн, вежӧраӧн, йӧйӧн, ковтӧмӧн, кодьӧн, коланаӧн, озырджыкӧн, приданнӧйӧн, сьӧлӧманас</li>
+      <li>ADJ: Бӧръяӧн, важӧн, вежӧраӧн, выльӧн, йӧйӧн, ковтӧмӧн, кодьӧн, коланаӧн, озырджыкӧн, приданнӧйӧн</li>
       <li>ADP: Бӧртинас, чӧжӧн</li>
-      <li>ADV: орччӧн, вочасӧн, гусьӧн, бурӧн, лунтыръясӧн, надзӧникӧн, неважӧн, регыдӧн, сёрӧн, Тадзнад</li>
+      <li>ADV: орччӧн, вочасӧн, гусьӧн, бурӧн, другӧн, лунтыръясӧн, надзӧникӧн, неважӧн, регыдӧн, сёрӧн</li>
       <li>NOUN: кинас, синмӧн, другъясӧн, катшасинӧн, командирӧн, корӧсьӧн, кылӧн, лымйӧн, нагрузкаӧн, специалистъясӧн</li>
       <li>NUM: кыкнас, Ӧтнам, ӧтнад</li>
       <li>PRON: кыкнанӧн, мыйӧнкӧ, некодӧн, нинӧмӧн, ставӧн</li>
       <li>PROPN: Сталинградӧн</li>
-      <li>VERB: петігӧн, Вундігӧн, аддзанаӧн, вӧйтчӧмӧн, дзользьӧмӧн, дивитӧмӧн, жуялӧмӧн, китшкӧмӧн, кыйигъясӧн, ланьтӧдчӧмӧн</li>
+      <li>VERB: петігӧн, Вундігӧн, аддзанаӧн, бергӧдчылӧмӧн, вӧйтчӧмӧн, дзользьӧмӧн, дивитӧмӧн, жуялӧмӧн, китшкӧмӧн, кыйигъясӧн</li>
       <li>VERB-Conv: петігӧн, Вундігӧн, кыйигъясӧн, лэдзигӧн, пуксигӧн, тэчигӧн, уджалігӧн</li>
       <li>VERB-Part: аддзанаӧн</li>
-      <li>VERB-Vnoun: вӧйтчӧмӧн, дзользьӧмӧн, дивитӧмӧн, жуялӧмӧн, китшкӧмӧн, ланьтӧдчӧмӧн, пӧлыньтлӧмӧн, ружӧктӧмӧн, сайӧдӧмӧн, серӧктӧмӧн</li>
+      <li>VERB-Vnoun: бергӧдчылӧмӧн, вӧйтчӧмӧн, дзользьӧмӧн, дивитӧмӧн, жуялӧмӧн, китшкӧмӧн, ланьтӧдчӧмӧн, пӧлыньтлӧмӧн, ружӧктӧмӧн, сайӧдӧмӧн</li>
     </ul>
   </li>
 </ul>
@@ -467,18 +477,19 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
   <li>Nom
     <ul>
       <li>ADJ: ыджыд, кодь, бур, важ, мича, ичӧтик, сэтшӧм, еджыд, том, выль</li>
-      <li>ADP: гӧгӧр, пасьта, чӧж, бӧрся, кодь, моз, нога, пырыс</li>
-      <li>ADV: нин, водзтіястӧ, быдсӧн, воддза, друг, ичӧтика, унакодь, ӧд, ӧтка</li>
+      <li>ADP: гӧгӧр, пасьта, чӧж, бӧрся, дорыс, кодь, моз, нога, пырыс</li>
+      <li>ADV: нин, водзтіястӧ, быдсӧн, воддза, друг, дыр, ичӧтика, унакодь, ӧд, ӧтка</li>
       <li>AUX: должен</li>
-      <li>DET: став, некутшӧм, татшӧм, коймӧдъяс, мӧдъяс, ниӧти, ставыс, ас, быд, кыкнан</li>
-      <li>NOUN: урожай, удж, шонді, лун, ва, ю, во, вӧр, му, пу</li>
+      <li>DET: став, некутшӧм, татшӧм, коймӧдъяс, мӧдъяс, ниӧти, ставыс, уна, ас, быд</li>
+      <li>NOUN: урожай, удж, шонді, лун, ва, во, керка, ю, вӧр, му</li>
       <li>NUM: кык, ӧти, дас, ветымынъяс, комын, куим, 12-20, 16, 18, 1940</li>
       <li>PRON: сійӧ, тайӧ, ме, ми, мый, найӧ, тэ, кодъяс, коді, став</li>
-      <li>PROPN: Ворошилов, Климент, Ефремович, Краснӧй, Сталин, Валентина, Ивановна, Калинин, Мери, Нетулика</li>
+      <li>PROPN: Ворошилов, Климент, Ефремович, Краснӧй, Сталин, Ёгор, Валентина, Вера, Вика, Гриш</li>
       <li>SCONJ: мед</li>
-      <li>VERB: идралӧм, сулалысь, воӧм, дзирдалысь, кольӧм, локтысь, Мудзӧм, босьтӧм, босьтӧмаыс, босьтӧмаяс</li>
+      <li>VERB: идралӧм, сулалысь, воӧм, дзирдалысь, кольӧм, локтысь, Вӧралысь, Мудзӧм, босьтӧм, босьтӧмаыс</li>
+      <li>VERB-NomAg: сулалысь, дзирдалысь, локтысь, Вӧралысь, видзысьяс, вӧтчысь, вӧчысь, дзользьысь, индалысьясным, командуйтысь</li>
       <li>VERB-Part: идралӧм, кольӧм, босьтӧм, вартӧм, вооружитчӧм, воӧм, вӧйӧм, горзӧмъяс, грымгӧм, жугласьӧм</li>
-      <li>VERB-Vnoun: Мудзӧм, босьтӧмаяс, ветлӧм, видзӧдлӧмъясыс, воӧм, вувзьысьӧмъяс, вурӧм, вӧчӧм, гызьылӧм, кыпӧдӧм</li>
+      <li>VERB-Vnoun: Мудзӧм, босьтӧмаяс, буксӧм, ветлӧм, видзӧдлӧмъясыс, воӧм, вувзьысьӧмъяс, вурӧм, вӧчӧм, гызьылӧм</li>
     </ul>
   </li>
 </ul>
@@ -496,7 +507,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 <ul>
   <li>Prp
     <ul>
-      <li>NOUN: ваа, Кӧра, Сюра, бисера, бушколъяса, керкаяса, кокъяса, коръя, морӧсъяса, мыгӧръяса</li>
+      <li>NOUN: ваа, рӧма, Кӧра, Сюра, бисера, бушколъяса, гозъя, керкаяса, кокъяса, коръя</li>
     </ul>
   </li>
 </ul>
@@ -550,7 +561,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>ADJ: бурджык, зумышджыкӧсь, ичӧтджык, косджыкъяссӧ, лёкджык, озырджыкӧн, олӧмаджык, отаджыкӧсь, паськыдджыкӧсь, томджыкъясӧс</li>
       <li>ADV: ӧдйӧджык, Меліджыка, Тэрыбджыка, бокынджык, бурджыка, водзджык, дырджык, кокниджыка, надзӧнджык, унджык</li>
-      <li>NOUN: вылӧджык, мастерджыкыс, ыліджыкъясті</li>
+      <li>NOUN: мастерджыкыс, ыліджыкъясті</li>
     </ul>
   </li>
 </ul>
@@ -625,8 +636,9 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 <ul>
   <li>Ind
     <ul>
+      <li>AUX: эз, вӧлі, оз, колӧ, абу, он, эг, ог, вӧліны, кутіс</li>
       <li>AUX-Fin: эз, вӧлі, оз, колӧ, абу, он, эг, ог, вӧліны, кутіс</li>
-      <li>VERB-Fin: воис, лои, мунӧ, Локтас, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс</li>
+      <li>VERB-Fin: воис, лои, видзӧдліс, кыліс, мунӧ, Локтас, воисны, муніс, шуис, шыасис</li>
     </ul>
   </li>
 </ul>
@@ -648,7 +660,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
   <li>Past
     <ul>
       <li>AUX-Fin: эз, вӧлі, эг, вӧліны, кутіс, пондіс, эн, вӧлӧма, коліс, лоины</li>
-      <li>VERB-Fin: воис, лои, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс, Радейтісны, быри</li>
+      <li>VERB-Fin: воис, лои, видзӧдліс, кыліс, воисны, муніс, шуис, шыасис, юаліс, Радейтісны</li>
       <li>VERB-Part: идралӧм, идралӧмын, кольӧм, октӧм, Бырӧдӧм, бонзьӧдӧм, босьтӧм, быдмӧм, вайӧм, вартӧм</li>
       <li>VERB-Vnoun: мойдӧмсӧ, олӧмсӧ</li>
     </ul>
@@ -658,6 +670,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 <ul>
   <li>Pres
     <ul>
+      <li>AUX: оз, колӧ, он, ог, позьӧ, эм, эмӧсь, лоам, оз-ӧ, Овлывлӧ</li>
       <li>AUX-Fin: оз, колӧ, он, ог, позьӧ, эм, лоам, оз-ӧ, эмӧсь, Овлывлӧ</li>
       <li>VERB-Fin: мунӧ, аддза, воӧ, думайта, кажитчӧ, локтӧ, пукалӧ, тыдалӧ, Кӧсъян, аддзан</li>
       <li>VERB-Part: аддзанаӧн, шедан</li>
@@ -665,17 +678,6 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
   </li>
 </ul>
 
-<ul>
-  <li><a>Voice</a></li>
-</ul>
-
-<ul>
-  <li>Act
-    <ul>
-      <li>VERB-Part: Вӧралысь, кыйсьысь, шептасьысь</li>
-    </ul>
-  </li>
-</ul>
 
 <ul>
   <li><a>Evident</a></li>
@@ -702,7 +704,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>ADJ: сэтшӧм, мӧд, сэтшӧмӧсь, Татшӧмъясыд, сэтшӧм-татшӧм, сэтшӧм-татшӧмъяс, сэтшӧмъясыслӧн, татшӧмсӧ</li>
       <li>DET: татшӧм</li>
-      <li>PRON: тайӧ, сы, мӧд, татшӧм, тайӧс, таысь, Тайӧяс, тайӧяслӧн, таӧдз, эсійӧ</li>
+      <li>PRON: тайӧ, сы, мӧд, татшӧм, тайӧс, таысь, Тайӧяс, та, тайӧяслӧн, таӧдз</li>
     </ul>
   </li>
 </ul>
@@ -711,8 +713,8 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
   <li>Ind
     <ul>
       <li>ADV: коркӧ, кӧнкӧ, мыйлакӧ, кытчӧкӧ</li>
-      <li>DET: уна, некутшӧм, кымын, мыйта, ниӧти, Уналӧн</li>
-      <li>PRON: мыйкӧ, мукӧд, кодкӧ, некод, кутшӧмкӧ, нинӧм, мукӧдъясысь, мыйта, Кодсюрӧяс, Кодъяскӧ</li>
+      <li>DET: уна, некутшӧм, мӧд, коймӧдъяс, кымын, мыйта, мӧдъяс, ниӧти, Кымынкӧ, Уналӧн</li>
+      <li>PRON: мыйкӧ, мукӧд, кодкӧ, некод, кутшӧмкӧ, нинӧм, мукӧдъясысь, мыйта, ӧтияс, Кодсюрӧяс</li>
     </ul>
   </li>
 </ul>
@@ -722,7 +724,15 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>ADJ: Кутшӧм</li>
       <li>ADV: кыдзи, кыдз, кӧні, кымын, Кытчӧ, Кытысь, кор, кыті, кӧнӧсь</li>
-      <li>PRON: мый, кодъяс, коді, Кутшӧм, Мыйсӧ, Мыйысь, кодӧс</li>
+      <li>PRON: мый, кодъяс, коді, Кутшӧм, Мыйсӧ, Мыйыс, Мыйысь, кодӧс</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>PRON: нем</li>
     </ul>
   </li>
 </ul>
@@ -731,7 +741,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
   <li>Prs
     <ul>
       <li>DET: ас</li>
-      <li>PRON: сійӧ, ме, ми, сы, сійӧс, найӧ, тэ, миян, сылӧн, сылы</li>
+      <li>PRON: сійӧ, ме, ми, сы, сійӧс, найӧ, тэ, миян, сылӧн, ас</li>
     </ul>
   </li>
 </ul>
@@ -757,7 +767,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 <ul>
   <li>Tot
     <ul>
-      <li>DET: став, ставыс, быд, ставныс, ставсӧ</li>
+      <li>DET: став, ставыс, быд, кыкнан, ставныс, ставсӧ, ӧтиным</li>
       <li>PRON: быд, став, ставыс, ставсӧ, кыкнанныс, ставныс, Коднаныд, Кыкнанным, Ставныд, быдӧн</li>
     </ul>
   </li>
@@ -874,8 +884,8 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       <li>AUX: эз, оз, вӧлі, колӧ, вӧліны, кутіс, позьӧ, вермас, лоас, пондіс</li>
       <li>AUX-Fin: эз, оз, вӧлі, колӧ, вӧліны, кутіс, позьӧ, вермас, лоас, пондіс</li>
       <li>PRON: сійӧ, сы, сійӧс, найӧ, сылӧн, сылы, найӧс, аслас, ачыс, асьсӧ</li>
-      <li>VERB: воис, лои, мунӧ, Локтас, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс</li>
-      <li>VERB-Fin: воис, лои, мунӧ, Локтас, видзӧдліс, кыліс, муніс, шуис, шыасис, юаліс</li>
+      <li>VERB: воис, лои, видзӧдліс, кыліс, мунӧ, Локтас, воисны, муніс, шуис, шыасис</li>
+      <li>VERB-Fin: воис, лои, видзӧдліс, кыліс, мунӧ, Локтас, воисны, муніс, шуис, шыасис</li>
     </ul>
   </li>
 </ul>
@@ -895,6 +905,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       <li>PRON: ставныс, ставнысӧ, ӧта-мӧднымӧс</li>
       <li>VERB: Пӧттӧдзныс, баитӧмъяснысӧ, велӧдчиганыс, индалысьясным, куйліганыс, чӧвтігкостаныс, ӧвтыштліганыс</li>
       <li>VERB-Conv: велӧдчиганыс, куйліганыс, ӧвтыштліганыс</li>
+      <li>VERB-NomAg: индалысьясным</li>
       <li>VERB-Vnoun: баитӧмъяснысӧ</li>
     </ul>
   </li>
@@ -922,6 +933,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       <li>PROPN: Льӧмватӧгыс</li>
       <li>VERB: Вермасигъясад, Гымалігад, Зэригас, Мунігмозыс, босьтігас, босьтӧмаыс, быдмӧмаыс, велӧдчигкостаыс, веравтӧдзыд, видзӧдлӧмъясыс</li>
       <li>VERB-Conv: Вермасигъясад, Гымалігад, Зэригас, Мунігмозыс, босьтігас, велӧдчигкостаыс, пыригам</li>
+      <li>VERB-NomAg: лэбалысьыд, стрӧитчысьясыслысь, тэчысьясыс</li>
       <li>VERB-Part: гӧгӧрвотӧмыс</li>
       <li>VERB-Vnoun: видзӧдлӧмъясыс, кылӧмсӧ, полӧмсӧ, пуксьӧмсяньыс, сюмалӧмыс, тешитӧмыд, туӧмсӧ, усьӧмъяссьыс</li>
     </ul>
@@ -948,7 +960,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>Post
         <ul>
-          <li>ADP: вылӧ, вӧсна, вылын, йылысь, бӧрын, дінӧ, дырйи, кузя, моз, вылас</li>
+          <li>ADP: вылӧ, вӧсна, вылын, дінӧ, йылысь, бӧрын, дырйи, кузя, моз, вылас</li>
           <li>NOUN: вывсьыс, дінад, мозӧй</li>
         </ul>
       </li>
@@ -1000,6 +1012,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       </li>
       <li>O
         <ul>
+          <li>ADJ: збыль-ӧ</li>
           <li>ADV: уна-ӧ</li>
           <li>AUX-Fin: оз-ӧ</li>
           <li>NOUN: гортас-ӧ</li>
@@ -1180,14 +1193,25 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 </ul>
 
 <ul>
-  <li><a>Nomzr</a>
+  <li><a>NameType</a>
     <ul>
-      <li>Ag
+      <li>Giv
         <ul>
-          <li>VERB: сулалысь, дзирдалысь, локтысь, Вӧралысь, видзысьяс, воысьясӧс, вӧтчысь, вӧчысь, дзользьысь, индалысьясным</li>
-          <li>VERB-Part: Вӧралысь, кыйсьысь, шептасьысь</li>
+          <li>PROPN: Вика, Лариса</li>
         </ul>
       </li>
+      <li>Sur
+        <ul>
+          <li>PROPN: Лихачёв</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Nomzr</a>
+    <ul>
       <li>Loc
         <ul>
           <li>NOUN: бергӧдчанінӧдзыс, вӧчанінас, лэдзанінын, оланіныс, петанін, сёянінсьыныс, тӧдсаинӧ, узянінлань</li>
@@ -1203,7 +1227,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
     <ul>
       <li>Relat
         <ul>
-          <li>NOUN: выв, вылысь, вылад, водзсьыныс, вывсьыс, вывсӧ, вылын, вылӧджык, кост, пасьталаыс</li>
+          <li>NOUN: выв, вылысь, вылад, водзсьыныс, вывсьыс, вывсӧ, вылын, кост, пасьталаыс, ув</li>
         </ul>
       </li>
     </ul>
@@ -1223,6 +1247,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
           <li>NOUN: вӧрынӧсь, Льӧмшорынӧсь, баракынӧсь, вылынӧсь, гортынӧсь, гӧгӧраӧсь, дінынӧсь, местаынӧсь, мортлӧнӧсь, помтӧмӧсь</li>
           <li>PRON: Менамӧсь, кутшӧмӧсь, тэнадӧсь</li>
           <li>VERB: вердтӧмӧсь, вӧрзьӧдланаӧсь, йывдытӧмӧсь, кывзысьысьӧсь, чуксаланаӧсь, юктавтӧмӧсь, ӧлӧданаӧсь</li>
+          <li>VERB-NomAg: кывзысьысьӧсь</li>
         </ul>
       </li>
     </ul>
@@ -1235,11 +1260,6 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
       <li>Neg
         <ul>
           <li>VERB: вермытӧм, Тыдавлытӧм, Тӧдтӧм, ветлытӧм, вердтӧмӧсь, гӧгӧрвотӧм, йывдытӧмӧсь, юктавтӧмӧсь</li>
-        </ul>
-      </li>
-      <li>Pres
-        <ul>
-          <li>VERB-Part: Вӧралысь, шептасьысь</li>
         </ul>
       </li>
     </ul>
@@ -1257,8 +1277,8 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
           <li>NOUN: Мамӧй, лолӧй, олӧмӧс, Войвыланым, Паськӧмӧй, Петкӧдласъясным, Пуртӧ, Тасмаӧс, арлыдӧй, аслыспӧлӧслунным</li>
           <li>NUM: Ӧтнам</li>
           <li>PRON: ӧта-мӧднымӧс</li>
-          <li>VERB: индалысьясным, пыригам</li>
           <li>VERB-Conv: пыригам</li>
+          <li>VERB-NomAg: индалысьясным</li>
         </ul>
       </li>
       <li>2
@@ -1271,6 +1291,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
           <li>NUM: кыкӧныдлы, ӧтнад</li>
           <li>VERB: Вермасигъясад, Гымалігад, веравтӧдзыд, лэбалысьыд, тешитӧмыд, шедӧмаясыд</li>
           <li>VERB-Conv: Вермасигъясад, Гымалігад</li>
+          <li>VERB-NomAg: лэбалысьыд</li>
           <li>VERB-Vnoun: тешитӧмыд</li>
         </ul>
       </li>
@@ -1287,6 +1308,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
           <li>VERB: Зэригас, Мунігмозыс, Пӧттӧдзныс, баитӧмъяснысӧ, босьтігас, босьтӧмаыс, быдмӧмаыс, велӧдчиганыс, велӧдчигкостаыс, видзӧдлӧмъясыс</li>
           <li>VERB-Conv: Зэригас, Мунігмозыс, босьтігас, велӧдчиганыс, велӧдчигкостаыс, куйліганыс, ӧвтыштліганыс</li>
           <li>VERB-Inf: висьтавныс, прӧщайтчыныс</li>
+          <li>VERB-NomAg: стрӧитчысьясыслысь, тэчысьясыс</li>
           <li>VERB-Part: гӧгӧрвотӧмыс</li>
           <li>VERB-Vnoun: баитӧмъяснысӧ, видзӧдлӧмъясыс, кылӧмсӧ, полӧмсӧ, пуксьӧмсяньыс, сюмалӧмыс, туӧмсӧ, усьӧмъяссьыс</li>
         </ul>
@@ -1300,7 +1322,7 @@ In release 2.7 various sentences used in the Komi-language grammar *Ӧнія к�
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: вӧвны, лоны, эм, вӧвлыны, эмышт.</li>
+<li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: вӧвны, эм, лоны, вӧвлыны, эмышт.</li>
 </ul>
 
 <ul>
@@ -1314,20 +1336,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB--NOUN (1)</li>
-      <li>VERB--NOUN-Nom (26)</li>
+      <li>VERB--NOUN-Nom (27)</li>
       <li>VERB--PRON-Nom (17)</li>
       <li>VERB-Fin--NOUN-Abe (1)</li>
       <li>VERB-Fin--NOUN-Ela (1)</li>
       <li>VERB-Fin--NOUN-Ill (1)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Nom (313)</li>
+      <li>VERB-Fin--NOUN-Nom (316)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(вылысь) (1)</li>
       <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Nom (114)</li>
+      <li>VERB-Fin--PRON-Nom (115)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
       <li>VERB-Inf--NOUN-Nom (17)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(пытшкын) (1)</li>
       <li>VERB-Inf--PRON-Nom (7)</li>
+      <li>VERB-NomAg--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Nom (1)</li>
       <li>VERB-Vnoun--NOUN-Nom (2)</li>
     </ul>
@@ -1339,7 +1362,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN (1)</li>
       <li>VERB--NOUN-Acc (11)</li>
-      <li>VERB--NOUN-Nom (6)</li>
+      <li>VERB--NOUN-Nom (5)</li>
       <li>VERB--PRON-Acc (6)</li>
       <li>VERB--PRON-Ill (1)</li>
       <li>VERB--PRON-Nom (1)</li>
@@ -1356,6 +1379,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Nom-ADP(йылысь) (1)</li>
       <li>VERB-Inf--PRON-Acc (10)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
+      <li>VERB-NomAg--NOUN-Nom (2)</li>
     </ul>
   </li>
 </ul>
@@ -1379,5 +1403,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advmod:deg</a>, <a>advmod:emph</a>, <a>aux:neg</a>, <a>aux:tense</a>, <a>cc:preconj</a>, <a>compound:nn</a>, <a>csubj:cop</a>, <a>flat:name</a>, <a>flat:num</a>, <a>nmod:obj</a>, <a>nmod:poss</a>, <a>nmod:subj</a>, <a>nsubj:cop</a>, <a>obl:agent</a>, <a>obl:cmp</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>goeswith</a>, <a>dep</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>iobj</a>, <a>expl</a>, <a>clf</a>, <a>goeswith</a></li>
 </ul>

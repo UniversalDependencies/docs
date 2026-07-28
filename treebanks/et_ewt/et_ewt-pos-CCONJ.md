@@ -6,24 +6,24 @@ udver: '2'
 
 ## Treebank Statistics: UD_Estonian-EWT: POS Tags: `CCONJ`
 
-There are 20 `CCONJ` lemmas (0%), 27 `CCONJ` types (0%) and 3391 `CCONJ` tokens (4%).
+There are 20 `CCONJ` lemmas (0%), 27 `CCONJ` types (0%) and 3390 `CCONJ` tokens (4%).
 Out of 17 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 15 in number of types and 9 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>ja, aga, või, ning, kuid, ehk, vaid, ega, kui, e</em>
 
 The 10 most frequent `CCONJ` types:  <em>ja, aga, või, ning, kuid, ehk, vaid, ega, kui, e.</em>
 
-The 10 most frequent ambiguous lemmas: <em>ja</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 1989, <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 1), <em>aga</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 564, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 90), <em>või</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 315, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 17, <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 1), <em>ehk</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 59, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 46), <em>vaid</em> (<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 61, <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 53), <em>ega</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 50, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 46), <em>kui</em> (<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> 871, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 51, <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 22), <em>e</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> 1), <em>&</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> 2), <em>a</em> (<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 9, <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="et_ewt-pos-DET.html">DET</a></tt> 2, <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>ja</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 1989, <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 1), <em>aga</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 563, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 91), <em>või</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 315, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 17, <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 1), <em>ehk</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 59, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 46), <em>vaid</em> (<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 61, <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 53), <em>ega</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 50, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 46), <em>kui</em> (<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> 871, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 51, <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 22), <em>e</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> 1), <em>&</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> 2), <em>a</em> (<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> 22, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 9, <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="et_ewt-pos-DET.html">DET</a></tt> 2, <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 1842, <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> 14), <em>aga</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 417, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 88), <em>või</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 275, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 16, <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> 1, <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 1), <em>ehk</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 51, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 31), <em>vaid</em> (<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 60, <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 53), <em>ega</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 50, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 22), <em>kui</em> (<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> 697, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 43, <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 22), <em>&</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> 2), <em>a</em> (<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 9, <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="et_ewt-pos-DET.html">DET</a></tt> 2, <tt><a href="et_ewt-pos-X.html">X</a></tt> 2, <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> 1), <em>J</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 1842, <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> 14), <em>aga</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 416, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 89), <em>või</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 275, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 16, <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> 1, <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> 1), <em>ehk</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 51, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 31), <em>vaid</em> (<tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 60, <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 53), <em>ega</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 50, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 22), <em>kui</em> (<tt><a href="et_ewt-pos-SCONJ.html">SCONJ</a></tt> 697, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 43, <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 22), <em>&</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 7, <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> 2), <em>a</em> (<tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 9, <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 4, <tt><a href="et_ewt-pos-DET.html">DET</a></tt> 2, <tt><a href="et_ewt-pos-X.html">X</a></tt> 2, <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> 1), <em>J</em> (<tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>ja</em>
   * <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 1842: <em><b>ja</b> pärast kodumaale naastes istutaks ühe tammepuu minu mälestuseks</em>
   * <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> 14: <em>oh <b>ja</b></em>
 * <em>aga</em>
-  * <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 417: <em>Kurb <b>aga</b> nii see on ....</em>
-  * <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 88: <em>Käivad <b>aga</b> väljas ja lasevad veini ja head söögipoolist ette tuua .</em>
+  * <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 416: <em>Kurb <b>aga</b> nii see on ....</em>
+  * <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 89: <em>Käivad <b>aga</b> väljas ja lasevad veini ja head söögipoolist ette tuua .</em>
 * <em>või</em>
   * <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> 275: <em>Soovitus kuhugi toppida <b>või</b> vorstiks teha on inetu .</em>
   * <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> 16: <em>minu poolest tehku <b>või</b> vorstiks mind</em>
@@ -58,7 +58,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="et_ewt-pos-CCON
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.350000 (the average of all parts of speech is 1.733681).
+The form / lemma ratio of `CCONJ` is 1.350000 (the average of all parts of speech is 1.733800).
 
 The 1st highest number of forms (5) was observed with the lemma “või”: <em>ja/või, v, voi, vòi, või</em>.
 
@@ -71,17 +71,17 @@ The 3rd highest number of forms (2) was observed with the lemma “e”: <em>e, 
 `CCONJ` occurs with 3 feature-value pairs: `Abbr=Yes`, `Polarity=Neg`, `Typo=Yes`
 
 `CCONJ` occurs with 4 feature combinations.
-The most frequent feature combination is `_` (3320 tokens).
+The most frequent feature combination is `_` (3319 tokens).
 Examples: <em>ja, aga, või, ning, kuid, ehk, vaid, kui, ent, &</em>
 
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="et_ewt-dep-cc.html">cc</a></tt> (3384; 100% instances), <tt><a href="et_ewt-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="et_ewt-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="et_ewt-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 5 different relations: <tt><a href="et_ewt-dep-cc.html">cc</a></tt> (3383; 100% instances), <tt><a href="et_ewt-dep-root.html">root</a></tt> (3; 0% instances), <tt><a href="et_ewt-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="et_ewt-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1660; 49% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (906; 27% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (304; 9% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (211; 6% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (139; 4% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (120; 4% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (25; 1% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (4; 0% instances),  (3; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 14 different parts of speech: <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (1661; 49% instances), <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (904; 27% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (304; 9% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (211; 6% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (139; 4% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (120; 4% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (25; 1% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (9; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="et_ewt-pos-AUX.html">AUX</a></tt> (4; 0% instances),  (3; 0% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="et_ewt-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-X.html">X</a></tt> (1; 0% instances)
 
-3388 (100%) `CCONJ` nodes are leaves.
+3387 (100%) `CCONJ` nodes are leaves.
 
 3 (0%) `CCONJ` nodes have one child.
 

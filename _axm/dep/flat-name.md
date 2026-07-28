@@ -7,39 +7,35 @@ udver: '2'
 
 The `flat:name` relation is a specialization of [flat]() used for names.
 
-~~~ sdparse
-Յովանէս Թլկուրանցի
-flat:name(Յովանէս, Թլկուրանցի)
+~~~ conllu
+# visual-style 1 2 flat:name color:blue
+1	Յովանէս	Յովանէս	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
+2	Թլկուրանցի	Թլկուրանցի	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Prs|Number=Sing	1	flat:name	_	_
 ~~~
 
 Names are annotated in a flat, head-initial structure, in which all words in the name modify the first one using the `flat:name` label. This also works for numerals that 
 are part of the names.
 Words joined by `flat:name` should all be part of a minimal noun phrase; otherwise regular syntactic relations should be used. 
 
-~~~ sdparse
-Գարեգին/PROPN[Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing] Բ/ADJ[NumForm=Armenian|NumType=Ord]
-flat:name(Գարեգին, Բ)
+~~~ conllu
+# visual-style 1 2 flat:name color:blue
+1	Գարեգին	Գարեգին	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
+2	Բ	Բ	ADJ	_	NumForm=Armenian|NumType=Ord	1	flat:name	_	_
 ~~~
 
 The titles/honorifics, when immediately following the first noun, are analyzed using the `flat:name` relation. They are treated as a part of the names: (see also [nmod]() and [apposition](appos)): 
 
-~~~ sdparse
-Խոսրով Գ Կոտակ \n Khosrov III the-Small
-flat:name(Խոսրով, Կոտակ)
-flat:name(Khosrov, the-Small)
-flat:name(Խոսրով, Գ)
-flat:name(Khosrov, III)
+~~~ conllu
+# visual-style 1 2 flat:name color:blue
+# visual-style 1 3 flat:name color:blue
+1	Խոսրով	Խոսրով	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
+2	Գ	Գ	ADJ	_	NumForm=Armenian|NumType=Ord	1	flat:name	_	_
+3	Կոտակ	կոտակ	ADJ	_	Style=Vrnc	1	flat:name	_	_
 ~~~
 
-~~~ sdparse
-Արշակ թագավոր \n King Arshak 
-flat:name(Արշակ, թագավոր)
-flat:name(King, Arshak)
+~~~ conllu
+# visual-style 1 2 flat:name color:blue
+1	Սմբատ	Սմբատ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
+2	գունդուստապլ	գունդուստապլ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	1	flat:name	_	_
 ~~~
-
-~~~ sdparse
-Զարեհ էֆենդի \n Zareh Efendi 
-flat:name(Զարեհ, էֆենդի)
-flat:name(Zareh, Efendi)
-~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:57 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:10 CEST -->

@@ -109,7 +109,7 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 20	իմ	ես	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	23	obl	_	Translit=im|LTranslit=es|Gloss=I
 21	ոչ	ոչ	PART	_	Polarity=Neg	22	advmod	_	Translit=očʻ|LTranslit=očʻ|Gloss=not
 22	ինչ	ինչ	PRON	_	Animacy=Inan|Case=Acc|Definite=Ind|Number=Sing|PronType=Ind	24	obj	_	Translit=inčʻ|LTranslit=inčʻ|Gloss=something
-23	կարէք	կարել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	Translit=karēkʻ|LTranslit=karel|Gloss=be_able
+23	կարէք	կարել	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	Translit=karēkʻ|LTranslit=karel|LId=1|Gloss=be_able
 24	առնել	առնել	VERB	_	VerbForm=Inf	23	xcomp	_	SpaceAfter=No|Translit=aṙnel|LTranslit=aṙnel|Gloss=make
 25	:	:	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.
 

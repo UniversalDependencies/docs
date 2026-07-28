@@ -40,4 +40,4 @@ udver: '2'
 * _<b>tacendo</b> e <b>lagrimando</b>_ "being silent and weeping"
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:54 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->

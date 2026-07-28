@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3325 nodes (10%) are attached to their parents as `det`.
+3324 nodes (10%) are attached to their parents as `det`.
 
-3249 instances of `det` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.02796992481203.
+3248 instances of `det` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.02797833935018.
 
-The following 10 pairs of parts of speech are connected with `det`: <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (3105; 93% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (73; 2% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (64; 2% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (58; 2% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (10; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `det`: <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (3105; 93% instances), <tt><a href="cop_bohairic-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (74; 2% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (64; 2% instances), <tt><a href="cop_bohairic-pos-NUM.html">NUM</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (58; 2% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-VERB.html">VERB</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt>-<tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="cop_bohairic-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

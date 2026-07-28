@@ -23,14 +23,14 @@ The following 2 pairs of parts of speech are connected with `obj:advneg`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 obj:advneg	color:blue
-1	Et	_	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_qgraal_cm_5204
-2	il	_	PRON	PROper	_	3	nsubj	_	XmlId=w_qgraal_cm_5205
-3	dist	_	VERB	VERcjg	_	0	root	_	XmlId=w_qgraal_cm_5206
-4	qu'	_	SCONJ	CONsub	_	7	mark	_	SpaceAfter=No|XmlId=w_qgraal_cm_5207
-5	il	_	PRON	PROper	_	7	nsubj	_	XmlId=w_qgraal_cm_5208
-6	nel	_	PRON	ADVneg.PROper	_	7	obj:advneg	_	XmlId=w_qgraal_cm_5209
-7	cuidera	_	VERB	VERcjg	_	3	ccomp	_	XmlId=w_qgraal_cm_5210
-8	jamés	_	ADV	ADVgen	_	7	advmod	_	XmlId=w_qgraal_cm_5211
+1	Et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_qgraal_cm_5204
+2	il	il	PRON	PROper	PronType=Prs	3	nsubj	_	XmlId=w_qgraal_cm_5205
+3	dist	dire1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_qgraal_cm_5206
+4	qu'	que	SCONJ	CONsub	_	7	mark	_	SpaceAfter=No|XmlId=w_qgraal_cm_5207
+5	il	il	PRON	PROper	PronType=Prs	7	nsubj	_	XmlId=w_qgraal_cm_5208
+6	nel	ne1.le	PRON	ADVneg.PROper	Polarity=Neg|PronType=Prs	7	obj:advneg	_	XmlId=w_qgraal_cm_5209
+7	cuidera	cuider	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_qgraal_cm_5210
+8	jamés	jamais	ADV	ADVgen	_	7	advmod	_	XmlId=w_qgraal_cm_5211
 
 ~~~
 
@@ -41,11 +41,11 @@ The following 2 pairs of parts of speech are connected with `obj:advneg`: <tt><a
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 obj:advneg	color:blue
-1	jamais	_	ADV	ADVgen	_	4	advmod	_	XmlId=w_58_06209
-2	nes	_	ADV	ADVgen	_	4	obj:advneg	_	XmlId=w_58_06210
-3	en	_	ADV	PROadv	_	4	obl:mod	_	XmlId=w_58_06211
-4	verrez	_	VERB	VERcjg	_	0	root	_	XmlId=w_58_06212
-5	;	_	PUNCT	PONfbl	_	4	punct	_	XmlId=w_58_06213
+1	jamais	jamais	ADV	ADVgen	_	4	advmod	_	XmlId=w_58_06209
+2	nes	ne1.le	ADV	ADVgen	_	4	obj:advneg	_	XmlId=w_58_06210
+3	en	en2	ADV	PROadv	PronType=Dem	4	obl:mod	_	XmlId=w_58_06211
+4	verrez	voir1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_06212
+5	;	;	PUNCT	PONfbl	_	4	punct	_	XmlId=w_58_06213
 
 ~~~
 

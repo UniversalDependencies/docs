@@ -53,4 +53,4 @@ them as adpositions/adverbs and add this feature?
 
 Examples: [de] _vor_ (in _stellen Sie sich vor_)
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:35 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:08 CEST -->

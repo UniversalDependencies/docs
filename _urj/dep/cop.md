@@ -9,4 +9,4 @@ A `cop` (copula) is the relation of a function word used to link a subject to a
 nonverbal predicate. Copula is used in many Uralic languages in addition to
 usual structures, for example with the possessive structure where owner is
 indicated with a specific case.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:37 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:55 CEST -->

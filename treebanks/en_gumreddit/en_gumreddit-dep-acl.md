@@ -23,7 +23,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 6 acl	color:blue
-1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=evaluation-comment:29->16:4:_|Entity=(34-abstract-new-nnnnn-cf5-3-sgl|Lem=*LOWER*|Len=3
+1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=evaluation-comment:29->16:4:_|Entity=(34-abstract-new-nnnnn-cf5-3-sgl|Lem=*LOWER*|Len=3|PDTB=Implicit:Expansion.Conjunction:but:_:143-166:167-196
 2	_	_	ADJ	JJ	Degree=Pos	3	amod	3:amod	Lem=_|Len=4
 3	_	_	NOUN	NN	Number=Sing	17	nsubj:outer	17:nsubj:outer	Lem=_|Len=6
 4	_	_	SCONJ	IN	_	6	mark	6:mark	Discourse=elaboration-attribute:30->29:0:syn-mdf-169-_+syn-nmn-170,172-_|Lem=_|Len=4
@@ -42,7 +42,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 17	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=_|Len=5
 18	_	_	PROPN	NNP	Abbr=Yes|Number=Sing	17	obj	17:obj	Entity=(27-abstract-giv:inact-nnnnn-cf2-1-coref-United_States_dollar)|Lem=_|Len=3
 19	_	_	CCONJ	CC	_	23	cc	23:cc	Discourse=joint-list_m:32->31:0:sem-mrnym-184,186-188-_+sem-lxchn-184,188-gold+dm-and-185-gold|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:185:167-169,176-184:186-196
-20	_	_	DET	DT	Number=Sing|PronType=Dem	22	det	22:det	Bridge=27<38|Entity=(38-object-acc:inf-nnnnn-cf3-3-sgl|Lem=_|Len=4
+20	_	_	DET	DT	Number=Sing|PronType=Dem	22	det	22:det	Bridge=27<38:entity-associative|Entity=(38-object-acc:inf-nnnnn-cf3-3-sgl|Lem=_|Len=4
 21	_	_	NOUN	NN	Number=Sing	22	compound	22:compound	Lem=_|Len=5
 22	_	_	NOUN	NN	Number=Sing	23	nsubj	23:nsubj	Entity=38)|Lem=_|Len=8|MSeg=currenc-y
 23	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	17:conj:and	Lem=represent|Len=10|MSeg=represent-s
@@ -68,8 +68,8 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 3	_	_	ADP	IN	_	4	case	4:case	Lem=_|Len=2
 4	_	_	NUM	CD	NumForm=Word|NumType=Card	2	nmod	2:nmod:of	Entity=(16-organization-new-nnnnn-cf7-1-sgl|Lem=_|Len=3
 5	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=2
-6	_	_	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Entity=(17-organization-new-nnnnn-cf5-2-sgl|Lem=_|Len=3
-7	_	_	NOUN	NNS	Number=Plur	4	nmod	4:nmod:of	Entity=17)16)|Lem=business|Len=10|MSeg=businesse-s
+6	_	_	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Entity=(17-organization-new-nnnnn-cf6-2-sgl|Lem=_|Len=3
+7	_	_	NOUN	NNS	Number=Plur	4	nmod	4:nmod:of	Entity=17)16)|Lem=business|Len=10|MSeg=business-es
 8	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	9:nsubj	Discourse=elaboration-attribute:12->11:0:syn-mdf-74-_+syn-relcl-76-_|Entity=(4-person-giv:act-sssss-cf1*-1-ana)|Lem=_|Len=1
 9	_	_	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	acl:relcl	7:acl:relcl	Entity=2)|Lem=_|Len=7
 10	_	_	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux	11:aux	Discourse=same-unit_m:13->11:1:_|Lem=have|Len=3
@@ -89,7 +89,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 24	_	_	ADP	IN	_	25	case	25:case	Lem=_|Len=2
 25	_	_	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	obl	21:obl:to	Entity=(18-object-giv:act-ssnnn-cf3-1-ana)|Lem=_|Len=2
 26	_	_	ADP	IN	_	29	case	29:case	Lem=_|Len=4
-27	_	_	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	nmod:poss	29:nmod:poss	Entity=(20-object-new-nnnnn-cf6-3-coref(2-person-giv:act-sssss-cf2-1-ana)|Lem=_|Len=3
+27	_	_	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	nmod:poss	29:nmod:poss	Bridge=18<20:comparison-relative|Entity=(20-object-acc:inf-nnnnn-cf5-3-coref(2-person-giv:act-sssss-cf2-1-ana)|Lem=_|Len=3
 28	_	_	ADJ	JJ	Degree=Pos	29	amod	29:amod	Lem=_|Len=3
 29	_	_	NOUN	NN	Number=Sing	21	obl	21:obl:from	Entity=20)19)|Lem=_|Len=5|SpaceAfter=No
 30	_	_	PUNCT	.	_	11	punct	11:punct	Lem=_|Len=1
@@ -103,7 +103,7 @@ The following 12 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 11 acl	color:blue
-1	_	_	SCONJ	IN	_	7	mark	7:mark	Discourse=context-background:2->5:0:dm-if-3-gold+ref-prs-4-6,20-_|Entity=(2-abstract-new-nnssn-cf3-19-disc|Lem=*LOWER*|Len=2|PDTB=Explicit:Comparison.Contrast:if:3:18-23:4-17
+1	_	_	SCONJ	IN	_	7	mark	7:mark	Discourse=context-background:2->5:0:ref-prs-4-6,20-_;contingency-condition:2->5:2:0:orp-if-3-gold|Entity=(2-abstract-new-nnssn-cf3-19-disc|Lem=*LOWER*|Len=2|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:3:18-23:4-17
 2	_	_	DET	DT	PronType=Ind	4	det	4:det	Entity=(3-place-new-snsss-cf1-3-coref|Lem=_|Len=5
 3	_	_	ADJ	JJ	Degree=Pos	4	amod	4:amod	Lem=_|Len=5
 4	_	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=3)|Lem=_|Len=7

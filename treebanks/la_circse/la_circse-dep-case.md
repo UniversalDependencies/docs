@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-812 nodes (3%) are attached to their parents as `case`.
+938 nodes (3%) are attached to their parents as `case`.
 
-760 instances of `case` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.35960591133005.
+881 instances of `case` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.363539445629.
 
-The following 9 pairs of parts of speech are connected with `case`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (625; 77% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (77; 9% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (38; 5% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (31; 4% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (30; 4% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `case`: <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (715; 76% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (102; 11% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (39; 4% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (39; 4% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (31; 3% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (6; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt>-<tt><a href="la_circse-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,21 +58,22 @@ The following 9 pairs of parts of speech are connected with `case`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 case	color:blue
-1	tandem	tandem	ADV	M	Degree=Pos	2	advmod:tmod	_	LiLaflcat=i
-2	reuertor	reuertor	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	LiLaflcat=v3
-3	sospes	sospes	ADJ	C2	Case=Nom|Degree=Pos|Gender=Fem,Masc,Neut|InflClass=IndEurX|Number=Sing	2	advcl:pred	_	LiLaflcat=n7
-4	ad	ad	ADP	R	AdpType=Prep	6	case	_	LASLAVariant=2|LiLaflcat=i
-5	patrios	patrius	ADJ	C1	Case=Acc|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Plur	6	amod	_	LiLaflcat=n6
-6	Lares	lar	PROPN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|NameType=Rel|Number=Plur	2	obl	_	LASLAVariant=N|LiLaflcat=n3
-7	o	o	PART	U	PartType=Emp	10	advmod:emph	_	LiLaflcat=i
-8	cara	carus	ADJ	C1	Case=Voc|Degree=Pos|Gender=Fem|InflClass=IndEurA|Number=Sing	10	amod	_	LiLaflcat=n6
-9	salue	salueo	VERB	B2	Aspect=Imp|InflClass=LatE|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	LiLaflcat=v2
-10	terra	terra	NOUN	A1	Case=Voc|Gender=Fem|InflClass=IndEurA|Number=Sing	9	vocative	_	LiLaflcat=n1
+# visual-style 4 3 case	color:blue
+1	ruat	ruo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v3
+2	ira	ira	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	1	nsubj	_	LiLaflcat=n1
+3	in	in	ADP	R	AdpType=Prep	4	case	_	LiLaflcat=i
+4	omnis	omnis	DET	L	Case=Acc|Gender=Fem,Masc|InflClass=IndEurI|Number=Plur|PronType=Tot	1	obl	_	LiLaflcat=n7
+5	hostis	hostis	NOUN	A3	Case=Nom|Gender=Fem,Masc|InflClass=IndEurI|Number=Sing	1	conj	_	LiLaflcat=n3
+6	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	LASLAVariant=1|LiLaflcat=v6
+7	quisquis	quisquis	DET	J	Case=Nom|Gender=Fem,Masc|InflClass=LatPron|Number=Sing|PronType=Rel	10	nsubj	_	LASLAVariant=1|LiLaflcat=p
+8	mihi	ego	PRON	E	Case=Dat|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs	10	obl:arg	_	LiLaflcat=p
+9	non	non	PART	P	Polarity=Neg	10	advmod:neg	_	LiLaflcat=i
+10	monstrat	monstro	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	csubj:relcl	_	LiLaflcat=v1
+11	hostem	hostis	NOUN	A3	Case=Acc|Gender=Fem,Masc|InflClass=IndEurI|Number=Sing	10	obj	_	LiLaflcat=n3
 
 ~~~
 

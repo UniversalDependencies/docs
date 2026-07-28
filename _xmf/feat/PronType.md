@@ -74,4 +74,4 @@ See also the [Poss](_xmf/feat/Poss) feature that distinguishes normal personal p
 * _ართიანი (ɑrtiɑni)_ 'each other' etc.
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:43 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:15 CEST -->

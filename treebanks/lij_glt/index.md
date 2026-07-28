@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.9 release.
 The following people have contributed to making this treebank part of UD: Stefano Lusito, Jean Maillard.
 
 Repository: [UD_Ligurian-GLT](https://github.com/UniversalDependencies/UD_Ligurian-GLT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlij_glt217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlij_glt218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: C-UDA 1.0
 

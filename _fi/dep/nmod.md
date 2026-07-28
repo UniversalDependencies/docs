@@ -23,4 +23,4 @@ nmod(oli-2, pöydän-3)
 case(pöydän-3, päällä-4)
 punct(oli-2, .-5)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:04 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:16 CEST -->

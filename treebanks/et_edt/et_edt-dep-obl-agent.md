@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Estonian-EDT: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="et_edt-dep-obl.html">obl</a></tt>.
+There are also 3 other language-specific subtypes of `obl`: <tt><a href="et_edt-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="et_edt-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="et_edt-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-384 nodes (0%) are attached to their parents as `obl:agent`.
+403 nodes (0%) are attached to their parents as `obl:agent`.
 
-368 instances of `obl:agent` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.75.
+376 instances of `obl:agent` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.78163771712159.
 
-The following 9 pairs of parts of speech are connected with `obl:agent`: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (104; 27% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (101; 26% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (49; 13% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (48; 13% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (46; 12% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (32; 8% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `obl:agent`: <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (114; 28% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (109; 27% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (49; 12% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (48; 12% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (47; 12% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (32; 8% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt>-<tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt>-<tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +29,7 @@ The following 9 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 4	toetuvad	toetuma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Verb=toetuma
 5	riigid	riik	NOUN	S	Case=Nom|Number=Plur	4	nsubj	4:nsubj	Arg=toetuma_Arg_0
 6	neljale	neli	NUM	N	Case=All|Number=Sing|NumForm=Word|NumType=Card	7	nummod	7:nummod	_
-7	sambale	sammas	NOUN	S	Case=All|Number=Sing	4	obl	4:obl	Arg=toetuma_Arg_1|SpaceAfter=No
+7	sambale	sammas	NOUN	S	Case=All|Number=Sing	4	obl:arg	4:obl	Arg=toetuma_Arg_1|SpaceAfter=No
 8	.	.	PUNCT	Z	_	4	punct	4:punct	_
 
 ~~~
@@ -64,7 +65,7 @@ The following 9 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 5	ka	ka	ADV	D	_	8	advmod	8:advmod	_
 6	enda	ise	PRON	P	Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes	7	obl:agent	7:obl:agent	_
 7	juhitavas	juhi=tav	ADJ	A	Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	8	acl	8:acl	_
-8	ettevõttes	ette_võte	NOUN	S	Case=Ine|Number=Sing	2	obl	2:obl	SpaceAfter=No
+8	ettevõttes	ette_võte	NOUN	S	Case=Ine|Number=Sing	2	obl:lmod	2:obl	SpaceAfter=No
 9	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
 ~~~

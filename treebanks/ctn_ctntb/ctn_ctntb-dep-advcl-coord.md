@@ -24,7 +24,7 @@ The following 1 pairs of parts of speech are connected with `advcl:coord`: <tt><
 # visual-style 3	fgColor:white
 # visual-style 3 2 advcl:coord	color:blue
 1	Latthiŋa	latthi	NOUN	_	Case=Erg|Number=Sing	2	iobj	2:iobj	Gloss=stick-ERG|MSeg=latthi-ŋa
-2	tomcĩsaŋa	tomd	VERB	CVB.COORD	Aspect=Imp|ConvType=Coord|VerbForm=Conv|Voice=Refl	3	advcl:coord	3:advcl:coord	Gloss=support-REFL-CVB.COORD|MSeg=tomd-ncĩ-saŋa
+2	tomcĩsaŋa	tomd	VERB	CVB.COORD	Aspect=Imp|ConvType=Coord|VerbForm=Conv|Voice=Rfl	3	advcl:coord	3:advcl:coord	Gloss=support-REFL-CVB.COORD|MSeg=tomd-ncĩ-saŋa
 3	phanno	phan	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	Gloss=move-IND.NPST[.3SG.S]|MSeg=phan-nok|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	3:punct	SpacesAfter=\n
 

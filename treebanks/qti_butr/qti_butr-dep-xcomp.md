@@ -8,7 +8,7 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (2%) are attached to their parents as `xcomp`.
+6 nodes (1%) are attached to their parents as `xcomp`.
 
 3 instances of `xcomp` (50%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.5.
@@ -42,8 +42,8 @@ The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	fgColor:white
 # visual-style 2 1 xcomp	color:blue
 1	Terapötik	terapötik	ADV	_	_	2	xcomp	_	Lang=tr
-2	duyuldu	duy	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass	0	root	_	Lang=tr
-3	bana	ben	PRON	_	Case=Dat|Number=Sing|Person=1	2	obl	_	Lang=tr|SpaceAfter=No
+2	duyuldu	duy	VERB	_	Aspect=Perf|Evident=Fh|Number=Sing|Person=3|Polarity=Pos|Tense=Past|Voice=Pass	0	root	_	Lang=tr|LoanTrans=en:it_sounded
+3	bana	ben	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	2	obl	_	Lang=tr|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

@@ -19,4 +19,4 @@ The object of a verb is the second most prominent argument of a verb after the s
 3	COMER2(2Msu)	_	VERB	V	_	0	root	_	Gloss=EAT2(2Hsuc)
 4	FRUTA	_	NOUN	N	_	3	obj	_	Gloss=FRUIT
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:20 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:28 CEST -->

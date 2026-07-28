@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-advcl.html">advcl</a></tt>.
 There are also 5 other language-specific subtypes of `advcl`: <tt><a href="ab_abnc-dep-advcl-cond.html">advcl:cond</a></tt>, <tt><a href="ab_abnc-dep-advcl-conv.html">advcl:conv</a></tt>, <tt><a href="ab_abnc-dep-advcl-purp.html">advcl:purp</a></tt>, <tt><a href="ab_abnc-dep-advcl-quote.html">advcl:quote</a></tt>, <tt><a href="ab_abnc-dep-advcl-seq.html">advcl:seq</a></tt>.
 
-31 nodes (0%) are attached to their parents as `advcl:compar`.
+42 nodes (0%) are attached to their parents as `advcl:compar`.
 
-24 instances of `advcl:compar` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.7741935483871.
+31 instances of `advcl:compar` (74%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.26190476190476.
 
-The following 2 pairs of parts of speech are connected with `advcl:compar`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (30; 97% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 2 pairs of parts of speech are connected with `advcl:compar`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (41; 98% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -57,7 +57,7 @@ The following 2 pairs of parts of speech are connected with `advcl:compar`: <tt>
 14	ихәыҷи	а-хәыҷы́	NOUN	Noun_H_Sg_Poss:3SgM_Coord	Animacy=Hum|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	13	conj	_	LMSeg:а-хәыҷы́
 15	ракәызшәа	а́кәзаара	AUX	V_Stat_NonFin_Impf_AsIf_S:3_IO:3Pl_Cop	Dyn=No|Number[io]=Plur|Person[io]=3|Person[subj]=3|Tense=Imp|VerbForm=NonFin	13	cop	_	LMSeg:а́кә-заа-ра
 16	игәы	а-гәы́	NOUN	Noun_NH_Sg_Poss:3SgM	Animacy=Nhum|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	17	iobj:lo	_	LMSeg:а-гәы́
-17	иныҵаххит	а́-ҵаххра	VERB	V_Dyn_Intr_Fin_Aor_FPv:на_S:3_[LO:3SgNH]	Dyn=Yes|Gender[lo]=Neut|Mood=Ind|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin	10	conj	_	LMSeg:а́-ҵа·хх-ра|SpaceAfter=No
+17	иныҵаххит	а́-ҵаххра	VERB	V_Dyn_Intr_Fin_Aor_FPv:на_S:3	Dyn=Yes|Mood=Ind|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin	10	conj	_	LMSeg:а́-ҵа·хх-ра|SpaceAfter=No
 18	.	.	PUNCT	Punct_Period	_	10	punct	_	LMSeg:.
 
 ~~~

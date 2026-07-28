@@ -79,7 +79,7 @@ The following 7 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 9	Znany	znać	ADJ	ppas:sg:nom:m:imperf:aff:pos	Aspect=Imp|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	0	root	0:root	Translit=Znany
 10	tylko	tylko	SCONJ	comp	_	12	mark	12:mark	Translit=tylko
 11	od	od	ADP	prep:gen:nwok	AdpType=Prep|Variant=Short	12	case	12:case	Case=Gen|Translit=od
-12	Izraelitów	Izraelita	PROPN	subst:pl:gen:m	Case=Gen|Gender=Masc|Number=Plur	8	obl:cmpr	8:obl:cmpr	SpaceAfter=No|Translit=Israelitow
+12	Izraelitów	Izraelita	PROPN	subst:pl:gen:m	Case=Gen|Gender=Masc|Number=Plur	8	obl:cmp	8:obl:cmp	SpaceAfter=No|Translit=Israelitow
 13	?	?	PUNCT	interp	PunctType=Qest	9	punct	9:punct	Translit=?
 
 ~~~

@@ -31,7 +31,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 7	געפֿאַנגען	פֿאַנגען	VERB	_	_	3	acl:relcl	_	Translit=gefangen|Translit_Lemma=fangen
 8	געוואָרן	װערן	AUX	_	_	7	aux:pass	_	SpaceAfter=No|Translit=gevorn|Translit_Lemma=vern
 9	,	,	PUNCT	_	_	10	punct	_	Translit=,|Translit_Lemma=,
-10	אָקיי	_	INTJ	_	_	2	discourse	_	SpaceAfter=No|Translit=okey
+10	אָקיי	אָקײ	INTJ	_	_	2	discourse	_	SpaceAfter=No|Translit=okey|Translit_Lemma=okey
 11	?	?	PUNCT	_	_	2	punct	_	Translit=?|Translit_Lemma=?
 
 ~~~
@@ -43,7 +43,7 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 discourse	color:blue
-1	נו	_	INTJ	_	_	5	discourse	_	SpaceAfter=No|Translit=nu
+1	נו	נוען	INTJ	_	_	5	discourse	_	SpaceAfter=No|Translit=nu|Translit_Lemma=nuen
 2	,	,	PUNCT	_	_	1	punct	_	Translit=,|Translit_Lemma=,
 3	איר	איר	PRON	_	_	5	nsubj	_	Translit=ir|Translit_Lemma=ir
 4	זײַט	זײַן	AUX	_	_	5	cop	_	Translit=zayt|Translit_Lemma=zayn

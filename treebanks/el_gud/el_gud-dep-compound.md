@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 16 compound	color:blue
-1	«	«	PUNCT	_	_	2	punct	_	PunctType=Quot
+1	«	«	PUNCT	_	_	2	punct	_	PunctType=Quot|SpaceAfter=No
 2	Λένε	λέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	ccomp	_	_
 3	πως	πως	SCONJ	_	_	9	mark	_	_
 4	από	από	ADP	_	_	7	case	_	_
@@ -41,7 +41,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 17	μισθό	μισθός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	_
 18	σ	σε	ADP	_	_	20	case	_	_
 19	το	ο	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	20	det	_	_
-20	Δημόσιο	Δημόσιο	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	_
+20	Δημόσιο	Δημόσιο	PROPN	_	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	SpaceAfter=No
 21	»	»	PUNCT	_	_	2	punct	_	PunctType=Quot
 22	μου	εγώ	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	23	iobj	_	_
 23	εξηγεί	εξηγώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
@@ -64,16 +64,16 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 6	πλάγιο	πλάγιος	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	7	amod	_	_
 7	βλέμμα	βλέμμα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
 8	και	και	CCONJ	_	_	9	cc	_	_
-9	κρυφογελάει	κρυφογελώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+9	κρυφογελάει	κρυφογελώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	17	punct	_	PunctType=Comm
 11	αλλά	αλλά	CCONJ	_	_	17	cc	_	_
 12	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	14	det	_	_
-13	«	«	PUNCT	_	_	14	punct	_	PunctType=Quot
-14	κρυφό	κρυφός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	_
+13	«	«	PUNCT	_	_	14	punct	_	PunctType=Quot|SpaceAfter=No
+14	κρυφό	κρυφός	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	SpaceAfter=No
 15	»	»	PUNCT	_	_	14	punct	_	PunctType=Quot
-16	είναι	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	17	cop	_	_
+16	είναι	είμαι	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
 17	σχήμα	σχήμα	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	conj	_	_
-18	λόγου	λόγος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	17	compound	_	_
+18	λόγου	λόγος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	17	compound	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	25	punct	_	PunctType=Comm
 20	γιατί	γιατί	SCONJ	_	_	25	mark	_	_
 21	της	ο	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
@@ -81,7 +81,7 @@ The following 6 pairs of parts of speech are connected with `compound`: <tt><a h
 23	δεν	δεν	PART	_	Polarity=Neg	25	advmod	_	_
 24	της	εγώ	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	25	expl	_	_
 25	ξεφεύγει	ξεφεύγω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	_
-26	τίποτα	τίποτα	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	25	nsubj	_	SpaceAfter=No
+26	τίποτα	τίποτα	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Neg	25	nsubj	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	4	punct	_	PunctType=Peri
 
 ~~~

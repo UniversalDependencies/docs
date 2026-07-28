@@ -14,4 +14,4 @@ aux(kewaʼ, taj)
 det(alajibʼ, ri)
 nsubj(kewaʼ, alajibʼ)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:12 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:37 CEST -->

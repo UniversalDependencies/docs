@@ -12,24 +12,24 @@ It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `No
 398 tokens (44%) have a non-empty value of `Case`.
 210 types (55%) occur at least once with a non-empty value of `Case`.
 138 lemmas (55%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (221; 24% instances), <tt><a href="tr_tuecl-pos-PROPN.html">PROPN</a></tt> (92; 10% instances), <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (38; 4% instances), <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt> (36; 4% instances), <tt><a href="tr_tuecl-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="tr_tuecl-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="tr_tuecl-pos-ADV.html">ADV</a></tt> (2; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (223; 25% instances), <tt><a href="tr_tuecl-pos-PROPN.html">PROPN</a></tt> (92; 10% instances), <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (36; 4% instances), <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt> (36; 4% instances), <tt><a href="tr_tuecl-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="tr_tuecl-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="tr_tuecl-pos-ADV.html">ADV</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-221 <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
+223 <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (204; 92%), <tt><a href="tr_tuecl-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (173; 78%), <tt><a href="tr_tuecl-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (172; 78%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (206; 92%), <tt><a href="tr_tuecl-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (174; 78%), <tt><a href="tr_tuecl-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (173; 78%).
 
 `NOUN` tokens may have the following values of `Case`:
 
 * `Abl` (5; 2% of non-empty `Case`): <em>arkadaşlarından, kardeşinden, odadan, restorandan, yemekten</em>
-* `Acc` (31; 14% of non-empty `Case`): <em>kitabı, annesini, arabayı, saçını, Soğanları, Yarını, akşamları, hedefleri, kapıyı, penceresini</em>
+* `Acc` (32; 14% of non-empty `Case`): <em>kitabı, annesini, arabayı, saçını, Soğanları, Yarını, akşamları, hedefleri, kapıyı, kini</em>
 * `Dat` (20; 9% of non-empty `Case`): <em>okula, eve, arkadaşına, kocasına, çocuklara, Gençlere, dünyaya, hizmetine, kardeşine</em>
-* `Gen` (10; 5% of non-empty `Case`): <em>Annesinin, Evin, arkadaşının, babasının, halkın, kinin, mutfağın, odasının, çocuğun</em>
+* `Gen` (11; 5% of non-empty `Case`): <em>Annesinin, kinin, Evin, arkadaşının, babasının, halkın, mutfağın, odasının, çocuğun</em>
 * `Ins` (4; 2% of non-empty `Case`): <em>arkadaşınla, gözle, iple, kardeşiyle</em>
 * `Loc` (38; 17% of non-empty `Case`): <em>evde, kitaplıkta, evdeki, odada, okulda, zamanında, Markette, Masada, aylarında, ofiste</em>
 * `Nom` (113; 51% of non-empty `Case`): <em>kitap, sabah, çocuk, doktor, ekmek, Öğretmen, alkol, araba, başkenti, bisiklet</em>
-* `EMPTY` (2): <em>arabalık, kitapsız</em>
+* `EMPTY` (3): <em>arabalık, kinden, kitapsız</em>
 
 <table>
   <tr><th>Paradigm <i>ev</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th></tr>
@@ -58,19 +58,19 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `PRON`
 
-38 <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Case`.
+36 <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (33; 87%), <tt><a href="tr_tuecl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (22; 58%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (31; 86%), <tt><a href="tr_tuecl-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (25; 69%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Abl` (3; 8% of non-empty `Case`): <em>benden, ondan, senin</em>
-* `Acc` (3; 8% of non-empty `Case`): <em>birbirlerini, bunu, kini</em>
-* `Dat` (9; 24% of non-empty `Case`): <em>bana, neye, Sana, buralara, kendine, kendisine</em>
-* `Gen` (7; 18% of non-empty `Case`): <em>Benim, Bunun, kimin, kinin</em>
+* `Acc` (2; 6% of non-empty `Case`): <em>birbirlerini, bunu</em>
+* `Dat` (9; 25% of non-empty `Case`): <em>bana, neye, Sana, buralara, kendine, kendisine</em>
+* `Gen` (6; 17% of non-empty `Case`): <em>Benim, Bunun, kimin</em>
 * `Ins` (1; 3% of non-empty `Case`): <em>bizimle</em>
-* `Nom` (15; 39% of non-empty `Case`): <em>O, Sen, Onlar, kendi</em>
-* `EMPTY` (2): <em>kinden, nerede</em>
+* `Nom` (15; 42% of non-empty `Case`): <em>O, Sen, Onlar, kendi</em>
+* `EMPTY` (1): <em>nerede</em>
 
 <table>
   <tr><th>Paradigm <i>sen</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Abl</tt></th></tr>
@@ -151,7 +151,6 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>PROPN --[<tt><a href="tr_tuecl-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2; 100%),
 <tt>NOUN --[<tt><a href="tr_tuecl-dep-compound.html">compound</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="tr_tuecl-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="tr_tuecl-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="tr_tuecl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="tr_tuecl-dep-orphan.html">orphan</a></tt>]--> NOUN</tt> (1; 100%).
 

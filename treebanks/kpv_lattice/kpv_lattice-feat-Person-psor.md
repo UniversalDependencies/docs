@@ -11,16 +11,16 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt>, <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt>.
 
-606 tokens (7%) have a non-empty value of `Person[psor]`.
-512 types (15%) occur at least once with a non-empty value of `Person[psor]`.
-369 lemmas (16%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 10 part-of-speech tags: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (462; 6% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (54; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (33; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (21; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+610 tokens (7%) have a non-empty value of `Person[psor]`.
+516 types (15%) occur at least once with a non-empty value of `Person[psor]`.
+372 lemmas (16%) occur at least once with a non-empty value of `Person[psor]`.
+The feature is used with 10 part-of-speech tags: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (465; 6% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (55; 1% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (33; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (21; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-462 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (23% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+465 <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> tokens (23% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (422; 91%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (379; 82%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (425; 91%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (382; 82%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
@@ -36,9 +36,9 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 
 ### `ADP`
 
-54 <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> tokens (20% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
+55 <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> tokens (20% of all `ADP` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `ADP` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (50; 93%), <tt><a href="kpv_lattice-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (49; 91%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (45; 83%).
+The most frequent other feature values with which `ADP` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (51; 93%), <tt><a href="kpv_lattice-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (50; 91%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (46; 84%).
 
 `ADP` tokens may have the following values of `Person[psor]`:
 
@@ -90,7 +90,7 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
 
 6 <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> tokens (12% of all `DET` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 100%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 83%), <tt><a href="kpv_lattice-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (4; 67%).
+The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 100%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 83%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (5; 83%), <tt><a href="kpv_lattice-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (4; 67%).
 
 `DET` tokens may have the following values of `Person[psor]`:
 
@@ -143,5 +143,6 @@ The 10 most frequent relations where parent and child node agree in `Person[psor
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> NOUN</tt> (18; 86%),
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-appos.html">appos</a></tt>]--> ADP</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NOUN --[<tt><a href="kpv_lattice-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%),
 <tt>NOUN --[<tt><a href="kpv_lattice-dep-nmod-poss.html">nmod:poss</a></tt>]--> ADJ</tt> (1; 100%).
 

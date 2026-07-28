@@ -6,46 +6,46 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-GUM: POS Tags: `PART`
 
-There are 3 `PART` lemmas (0%), 15 `PART` types (0%) and 5765 `PART` tokens (2%).
+There are 3 `PART` lemmas (0%), 15 `PART` types (0%) and 6433 `PART` tokens (3%).
 Out of 17 observed tags, the rank of `PART` is: 17 in number of lemmas, 17 in number of types and 12 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>to, not, 's</em>
 
 The 10 most frequent `PART` types:  <em>to, not, n't, 's, ’s, n’t, na, ', ’, ta</em>
 
-The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 3289, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1877, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 45, <tt><a href="en_gum-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 3667, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 2085, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 48, <tt><a href="en_gum-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 3082, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1852, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 45, <tt><a href="en_gum-pos-DET.html">DET</a></tt> 1, <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 1, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_gum-pos-X.html">X</a></tt> 1), <em>'s</em> (<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 826, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 478, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 96, <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 43), <em>’s</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 208, <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 200, <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 17, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 12), <em>na</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 133, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 4), <em>'</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 164, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 50, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 2), <em>’</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 31, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 24), <em>ta</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 11, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 4), <em>s</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 4, <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 1, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_gum-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="en_gum-pos-DET.html">DET</a></tt> 4058, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 4, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 2, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 1, <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 1, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 1), <em>do</em> (<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 442, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 284, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 3452, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 2060, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 48, <tt><a href="en_gum-pos-DET.html">DET</a></tt> 1, <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 1, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_gum-pos-X.html">X</a></tt> 1), <em>'s</em> (<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 907, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 537, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 108, <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 48), <em>’s</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 244, <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 208, <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 18, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 12), <em>na</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 137, <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 4), <em>'</em> (<tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 178, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 57, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 2), <em>’</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 37, <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 26), <em>ta</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 11, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 4), <em>s</em> (<tt><a href="en_gum-pos-PART.html">PART</a></tt> 4, <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 1, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1, <tt><a href="en_gum-pos-X.html">X</a></tt> 1), <em>a</em> (<tt><a href="en_gum-pos-DET.html">DET</a></tt> 4448, <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 4, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 2, <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> 1, <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 1, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 1), <em>do</em> (<tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 479, <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 311, <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="en_gum-pos-PART.html">PART</a></tt> 1)
 
 
 * <em>to</em>
-  * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 3082: <em>However , it is not enough <b>to</b> have attained such native - like levels .</em>
-  * <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 1852: <em>His lack of moderation was not restricted <b>to</b> physical exercise .</em>
-  * <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 45: <em>I look forward <b>to</b> going over manuscript with you when you return .</em>
+  * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 3452: <em>However , it is not enough <b>to</b> have attained such native - like levels .</em>
+  * <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 2060: <em>His lack of moderation was not restricted <b>to</b> physical exercise .</em>
+  * <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 48: <em>I look forward <b>to</b> going over manuscript with you when you return .</em>
   * <tt><a href="en_gum-pos-DET.html">DET</a></tt> 1: <em>There is so much beauty all around the island , it is difficult not the appreciate <b>to</b> magnificent scenery and wildlife .</em>
   * <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> 1: <em>There are <b>to</b> ways out : 1) according to Paragraph 1 & 2 of this page and the preceeding paragraph , as we see it .</em>
   * <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1: <em>Allow 4 - 7 days for the whole trail depending on experience and your desired pace , but it is also possible do <b>to</b> day trips along the route .</em>
   * <tt><a href="en_gum-pos-X.html">X</a></tt> 1: <em>He advanced the theories of Rank and Nexus in Danish in two papers : Sprogets logik ( 1913 ) and De <b>to</b> hovedarter af grammatiske forbindelser ( 1921 ) .</em>
 * <em>'s</em>
-  * <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 826: <em>What <b>'s</b> up with that ?</em>
-  * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 478: <em>One of Norton <b>'s</b> undated proclamations</em>
-  * <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 96: <em>There <b>'s</b> Jeff [ Drake ] , who is behind the camera .</em>
-  * <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 43: <em>Alright so let <b>'s</b> start off with the bed and the couch area .</em>
+  * <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 907: <em>What <b>'s</b> up with that ?</em>
+  * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 537: <em>One of Norton <b>'s</b> undated proclamations</em>
+  * <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 108: <em>There <b>'s</b> Jeff [ Drake ] , who is behind the camera .</em>
+  * <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 48: <em>Alright so let <b>'s</b> start off with the bed and the couch area .</em>
 * <em>’s</em>
-  * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 208: <em>I mean , for God <b>’s</b> sakes , he was only there like –</em>
-  * <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 200: <em>He <b>’s</b> not the only one .</em>
-  * <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 17: <em>For example , let <b>’s</b> say you want to build a treehouse in the backyard .</em>
+  * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 244: <em>I mean , for God <b>’s</b> sakes , he was only there like –</em>
+  * <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 208: <em>He <b>’s</b> not the only one .</em>
+  * <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> 18: <em>For example , let <b>’s</b> say you want to build a treehouse in the backyard .</em>
   * <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 12: <em>For one thing , there <b>’s</b> the matter of agency .</em>
 * <em>na</em>
-  * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 133: <em>Gon <b>na</b> rip your purse .</em>
+  * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 137: <em>Gon <b>na</b> rip your purse .</em>
   * <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> 4: <em>Na <b>na</b> , <b>na</b> <b>na</b> <b>na</b> .</em>
 * <em>'</em>
-  * <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 164: <em>I 'm not sure , but we could go over to Toys <b>'</b> R <b>'</b> Us .</em>
-  * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 50: <em>Galois <b>'</b> fatal duel took place on 30 May . [ 17 ]</em>
+  * <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 178: <em>I 'm not sure , but we could go over to Toys <b>'</b> R <b>'</b> Us .</em>
+  * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 57: <em>Galois <b>'</b> fatal duel took place on 30 May . [ 17 ]</em>
   * <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 2: <em>Marina : 54 º 55,7 <b>'</b> N 10 º 30,0 <b>'</b> E ; VHF ; 10 berths at ? DKK ; Depth : 2 m ; Speed : 3 knots .</em>
 * <em>’</em>
-  * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 31: <em>It ’s best to wash adults <b>’</b> overalls alone , especially men ’s .</em>
-  * <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 24: <em>She was right . <b>’</b></em>
+  * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 37: <em>It ’s best to wash adults <b>’</b> overalls alone , especially men ’s .</em>
+  * <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> 26: <em>She was right . <b>’</b></em>
 * <em>ta</em>
   * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 11: <em>And you got <b>ta</b> have somebody .</em>
   * <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 4: <em>We all drank a whole lot <b>ta</b> shit .</em>
@@ -56,7 +56,7 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_gum-pos-PART
   * <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 1: <em>There <b>s</b> [ sic ] something in the hilarious anarchy of the net that produces these ' events ' every now and again . "</em>
   * <tt><a href="en_gum-pos-X.html">X</a></tt> 1: <em>For example if the word Bird is ' Vogelaviatiolap ' then why not make the word Birds ' Vogelaviatiolaps ' since the suffix ' <b>s</b> ' is added at the end for most languages at plurals .</em>
 * <em>a</em>
-  * <tt><a href="en_gum-pos-DET.html">DET</a></tt> 4058: <em>Our plan is to organize <b>a</b> maximum of 6 clinics , each one full day .</em>
+  * <tt><a href="en_gum-pos-DET.html">DET</a></tt> 4448: <em>Our plan is to organize <b>a</b> maximum of 6 clinics , each one full day .</em>
   * <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> 4: <em>And and , I can see all kind <b>a</b> things in it .</em>
   * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 2: <em>I 'm <b>a</b> just put all the Dose of Color in a separate pile cuz that 's kind of weird .</em>
   * <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> 2: <em>The singing sailors hauled us aboard chanting , He ’s <b>a</b> coming - ha ! He ’s <b>a</b> coming - ha !</em>
@@ -65,15 +65,15 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="en_gum-pos-PART
   * <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 1: <em>The prize was awarded to Dvořák in 1874 [ <b>a</b> ] and again in 1876 and in 1877 , when Brahms and the prominent critic Eduard Hanslick , also a member of the jury , made themselves known to him .</em>
   * <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 1: <em>Universidad Nacional de Educación <b>a</b> Distancia , Spain</em>
 * <em>do</em>
-  * <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 442: <em>But I did n't spend the night , and I <b>do</b> n't deserve this .</em>
-  * <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 284: <em>What 'd you <b>do</b> Sabrina ?</em>
+  * <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> 479: <em>But I did n't spend the night , and I <b>do</b> n't deserve this .</em>
+  * <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> 311: <em>What 'd you <b>do</b> Sabrina ?</em>
   * <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> 3: <em>Create a to - <b>do</b> list .</em>
   * <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> 3: <em>The Escola <b>do</b> Cérebro is a platform that integrates seven digital games into a database .</em>
   * <tt><a href="en_gum-pos-PART.html">PART</a></tt> 1: <em>Allow 4 - 7 days for the whole trail depending on experience and your desired pace , but it is also possible <b>do</b> to day trips along the route .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 5.000000 (the average of all parts of speech is 1.243967).
+The form / lemma ratio of `PART` is 5.000000 (the average of all parts of speech is 1.248450).
 
 The 1st highest number of forms (6) was observed with the lemma “to”: <em>a, do, na, ta, the, to</em>.
 
@@ -81,32 +81,32 @@ The 2nd highest number of forms (5) was observed with the lemma “'s”: <em>',
 
 The 3rd highest number of forms (4) was observed with the lemma “not”: <em>n't, n`t, not, n’t</em>.
 
-`PART` occurs with 3 features: <tt><a href="en_gum-feat-Polarity.html">Polarity</a></tt> (1703; 30% instances), <tt><a href="en_gum-feat-Style.html">Style</a></tt> (11; 0% instances), <tt><a href="en_gum-feat-Typo.html">Typo</a></tt> (3; 0% instances)
+`PART` occurs with 3 features: <tt><a href="en_gum-feat-Polarity.html">Polarity</a></tt> (1885; 29% instances), <tt><a href="en_gum-feat-Style.html">Style</a></tt> (11; 0% instances), <tt><a href="en_gum-feat-Typo.html">Typo</a></tt> (3; 0% instances)
 
 `PART` occurs with 3 feature-value pairs: `Polarity=Neg`, `Style=Coll`, `Typo=Yes`
 
 `PART` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (4049 tokens).
+The most frequent feature combination is `_` (4535 tokens).
 Examples: <em>to, 's, ’s, na, ', ’, s, a</em>
 
 
 ## Relations
 
-`PART` nodes are attached to their parents using 13 different relations: <tt><a href="en_gum-dep-mark.html">mark</a></tt> (3240; 56% instances), <tt><a href="en_gum-dep-advmod.html">advmod</a></tt> (1665; 29% instances), <tt><a href="en_gum-dep-case.html">case</a></tt> (773; 13% instances), <tt><a href="en_gum-dep-xcomp.html">xcomp</a></tt> (31; 1% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (18; 0% instances), <tt><a href="en_gum-dep-root.html">root</a></tt> (11; 0% instances), <tt><a href="en_gum-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt> (7; 0% instances), <tt><a href="en_gum-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="en_gum-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="en_gum-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="en_gum-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+`PART` nodes are attached to their parents using 13 different relations: <tt><a href="en_gum-dep-mark.html">mark</a></tt> (3616; 56% instances), <tt><a href="en_gum-dep-advmod.html">advmod</a></tt> (1841; 29% instances), <tt><a href="en_gum-dep-case.html">case</a></tt> (881; 14% instances), <tt><a href="en_gum-dep-xcomp.html">xcomp</a></tt> (34; 1% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (20; 0% instances), <tt><a href="en_gum-dep-root.html">root</a></tt> (13; 0% instances), <tt><a href="en_gum-dep-acl.html">acl</a></tt> (8; 0% instances), <tt><a href="en_gum-dep-reparandum.html">reparandum</a></tt> (7; 0% instances), <tt><a href="en_gum-dep-advcl.html">advcl</a></tt> (4; 0% instances), <tt><a href="en_gum-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="en_gum-dep-orphan.html">orphan</a></tt> (2; 0% instances), <tt><a href="en_gum-dep-nmod.html">nmod</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 15 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (4245; 74% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (557; 10% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (466; 8% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (280; 5% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (66; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (58; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (44; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (16; 0% instances),  (11; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `PART` nodes belong to 15 different parts of speech: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (4730; 74% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (615; 10% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt> (523; 8% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (312; 5% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (78; 1% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (68; 1% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (49; 1% instances), <tt><a href="en_gum-pos-NUM.html">NUM</a></tt> (19; 0% instances),  (13; 0% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (5; 0% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 0% instances)
 
-5702 (99%) `PART` nodes are leaves.
+6364 (99%) `PART` nodes are leaves.
 
-42 (1%) `PART` nodes have one child.
+45 (1%) `PART` nodes have one child.
 
-8 (0%) `PART` nodes have two children.
+9 (0%) `PART` nodes have two children.
 
-13 (0%) `PART` nodes have three or more children.
+15 (0%) `PART` nodes have three or more children.
 
 The highest child degree of a `PART` node is 9.
 
-Children of `PART` nodes are attached using 13 different relations: <tt><a href="en_gum-dep-punct.html">punct</a></tt> (49; 42% instances), <tt><a href="en_gum-dep-cc.html">cc</a></tt> (19; 16% instances), <tt><a href="en_gum-dep-advmod.html">advmod</a></tt> (12; 10% instances), <tt><a href="en_gum-dep-cop.html">cop</a></tt> (10; 9% instances), <tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt> (9; 8% instances), <tt><a href="en_gum-dep-mark.html">mark</a></tt> (5; 4% instances), <tt><a href="en_gum-dep-discourse.html">discourse</a></tt> (4; 3% instances), <tt><a href="en_gum-dep-obl.html">obl</a></tt> (3; 3% instances), <tt><a href="en_gum-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-nsubj-outer.html">nsubj:outer</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
+Children of `PART` nodes are attached using 13 different relations: <tt><a href="en_gum-dep-punct.html">punct</a></tt> (52; 41% instances), <tt><a href="en_gum-dep-cc.html">cc</a></tt> (21; 16% instances), <tt><a href="en_gum-dep-advmod.html">advmod</a></tt> (13; 10% instances), <tt><a href="en_gum-dep-cop.html">cop</a></tt> (12; 9% instances), <tt><a href="en_gum-dep-nsubj.html">nsubj</a></tt> (11; 9% instances), <tt><a href="en_gum-dep-mark.html">mark</a></tt> (6; 5% instances), <tt><a href="en_gum-dep-discourse.html">discourse</a></tt> (5; 4% instances), <tt><a href="en_gum-dep-obl.html">obl</a></tt> (3; 2% instances), <tt><a href="en_gum-dep-case.html">case</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-conj.html">conj</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-det.html">det</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-nsubj-outer.html">nsubj:outer</a></tt> (1; 1% instances), <tt><a href="en_gum-dep-parataxis.html">parataxis</a></tt> (1; 1% instances)
 
-Children of `PART` nodes belong to 13 different parts of speech: <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (49; 42% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (19; 16% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (10; 9% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (10; 9% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (9; 8% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (5; 4% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (4; 3% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (4; 3% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `PART` nodes belong to 13 different parts of speech: <tt><a href="en_gum-pos-PUNCT.html">PUNCT</a></tt> (52; 41% instances), <tt><a href="en_gum-pos-CCONJ.html">CCONJ</a></tt> (21; 16% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt> (12; 9% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt> (11; 9% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt> (11; 9% instances), <tt><a href="en_gum-pos-SCONJ.html">SCONJ</a></tt> (6; 5% instances), <tt><a href="en_gum-pos-INTJ.html">INTJ</a></tt> (5; 4% instances), <tt><a href="en_gum-pos-DET.html">DET</a></tt> (4; 3% instances), <tt><a href="en_gum-pos-PART.html">PART</a></tt> (2; 2% instances), <tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

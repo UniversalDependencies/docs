@@ -22,4 +22,4 @@ Noun Prop:	Proper noun
 _მარია (mɑriɑ)_ 'Maria'
 _მცხეთა (mt͡sxɛtɑ)_ 'Mtskheta'
 _ლიახვი (liɑxvi)_ 'Liakhvi'
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:54 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->

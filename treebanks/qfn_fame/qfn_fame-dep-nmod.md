@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="qfn_fame-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-134 nodes (4%) are attached to their parents as `nmod`.
+135 nodes (4%) are attached to their parents as `nmod`.
 
-110 instances of `nmod` (82%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.98507462686567.
+111 instances of `nmod` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.98518518518519.
 
-The following 14 pairs of parts of speech are connected with `nmod`: <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (68; 51% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt> (27; 20% instances), <tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt> (10; 7% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (9; 7% instances), <tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt>-<tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `nmod`: <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (68; 50% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt> (27; 20% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (10; 7% instances), <tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt> (10; 7% instances), <tt><a href="qfn_fame-pos-PROPN.html">PROPN</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (5; 4% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> (4; 3% instances), <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="qfn_fame-pos-ADV.html">ADV</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt>-<tt><a href="qfn_fame-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt>-<tt><a href="qfn_fame-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt>-<tt><a href="qfn_fame-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="qfn_fame-pos-VERB.html">VERB</a></tt>-<tt><a href="qfn_fame-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -58,19 +58,16 @@ The following 14 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 6 nmod	color:blue
-1	freegje	_	VERB	_	_	0	root	_	Lang=fy
-2	de	_	DET	_	_	3	det	_	Lang=fy
-3	Provinsjale	_	PROPN	_	_	1	nsubj	_	Lang=fy
-4	Staten	_	PROPN	_	_	3	flat:name	_	Lang=nl
-5	fan	_	ADP	_	_	6	case	_	Lang=fy
-6	Fryslân	_	PROPN	_	_	4	nmod	_	Lang=fy
-7	it	_	DET	_	_	8	det	_	Lang=fy
-8	KOVS	_	PROPN	_	_	1	iobj	_	Lang=fy
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nmod	color:blue
+1	is	_	AUX	_	_	5	cop	_	Lang=fy
+2	der	_	PRON	_	_	5	expl	_	Lang=fy
+3	helemaal	_	ADV	_	_	4	advmod	_	Lang=nl
+4	gjin	_	PRON	_	_	5	nmod	_	Lang=fy
+5	ferskil	_	NOUN	_	_	0	root	_	Lang=fy
 
 ~~~
 

@@ -101,10 +101,10 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> VERB</tt> (13821; 86%),
-<tt>VERB --[<tt><a href="ro_nonstandard-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1405; 58%),
+<tt>VERB --[<tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt>]--> VERB</tt> (13823; 86%),
+<tt>VERB --[<tt><a href="ro_nonstandard-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1406; 58%),
 <tt>VERB --[<tt><a href="ro_nonstandard-dep-advcl-tcl.html">advcl:tcl</a></tt>]--> VERB</tt> (1194; 62%),
-<tt>VERB --[<tt><a href="ro_nonstandard-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (757; 56%),
+<tt>VERB --[<tt><a href="ro_nonstandard-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (749; 56%),
 <tt>VERB --[<tt><a href="ro_nonstandard-dep-ccomp-pmod.html">ccomp:pmod</a></tt>]--> VERB</tt> (75; 64%),
 <tt>VERB --[<tt><a href="ro_nonstandard-dep-appos.html">appos</a></tt>]--> VERB</tt> (43; 68%),
 <tt>VERB --[<tt><a href="ro_nonstandard-dep-obl.html">obl</a></tt>]--> VERB</tt> (7; 58%),

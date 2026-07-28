@@ -35,7 +35,7 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 11	con	con	ADP	IN	_	13	case	_	_
 12	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	retórica	retórica	NOUN	NN	Gender=Fem|Number=Sing	10	obl	_	_
-14	precedente	precedente	ADJ	JJ	Gender=Fem|Number=Sing	13	amod	_	_
+14	precedente	precedente	ADJ	JJ	Number=Sing	13	amod	_	_
 15	sobre	sobre	ADP	IN	_	17	case	_	_
 16	la	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	restricción	restricción	NOUN	NN	Gender=Fem|Number=Sing	13	nmod	_	_
@@ -48,11 +48,11 @@ The following 3 pairs of parts of speech are connected with `dep`: <tt><a href="
 24	si	si	SCONJ	IN	_	25	mark	_	_
 25	fuese	ir	VERB	VBC	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	27	advcl	_	_
 26	presidente	presidente	NOUN	NN	Gender=Masc|Number=Sing	25	xcomp	_	_
-27	reconocería	reconocer	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	ccomp	_	_
+27	reconocería	reconocer	VERB	VBC	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	22	ccomp	_	_
 28	a	a	ADP	IN	_	32	case	_	_
 29	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 30	"	"	PUNCT	``	PunctType=Quot	32	punct	_	SpaceAfter=No
-31	gran	gran	ADJ	JJ	Gender=Masc|Number=Sing	32	amod	_	_
+31	gran	gran	ADJ	JJ	Number=Sing	32	amod	_	_
 32	número	número	NOUN	NN	Gender=Masc|Number=Sing	27	obl	_	SpaceAfter=No
 33	"	"	PUNCT	''	PunctType=Quot	32	punct	_	_
 34	inmigrantes	inmigrante	NOUN	NN	Gender=Masc|Number=Plur	32	dep	_	_

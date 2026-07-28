@@ -9,29 +9,24 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="apu_ufpa-dep-advmod.html">advmod</a></tt>.
 There are also 1 other language-specific subtypes of `advmod`: <tt><a href="apu_ufpa-dep-advmod-lmod.html">advmod:lmod</a></tt>.
 
-15 nodes (2%) are attached to their parents as `advmod:tmod`.
+1 nodes (0%) are attached to their parents as `advmod:tmod`.
 
-15 instances of `advmod:tmod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.2.
+1 instances of `advmod:tmod` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (15; 100% instances).
+The following 1 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 advmod:tmod	color:blue
-1	Inhinhiã	inhinhiã	ADV	Adv	_	5	advmod:tmod	_	gloss[pt]=então
-2	ĩkana	ĩkana	ADV	Adv	_	5	advmod:tmod	_	gloss[pt]=?novamente
-3	iie	ie	DET	Det	Gender=Masc	4	det	_	gloss[pt]=esse-M
-4	iãkynytikinhi	iãkynytikinhi	NOUN	XPOS=3SG.M-rastro.de-atrás	Gender=Masc|Gender[psor]=Masc	5	obl	_	gloss[pt]=3SG.M-rastro.de-atrás
-5	sããputa	sa	VERB	XPOS=ir-ALEAT-VBLZ	_	0	root	_	gloss[pt]=ir-ALEAT-VBLZ
-6	era	era	ADV	XPOS=lá	_	7	advmod:lmod	_	gloss[pt]=lá
-7	apukary	apuka	VERB	XPOS=achar	Number[obj]=Sing|Person[obj]=3	5	conj	_	gloss[pt]=achar-3SG.M.O
-8	ymata	mata	NOUN	XPOS=3SG.M-pele,	Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Possessed=Yes	7	obj	_	gloss[pt]=3SG.M-pele,couro,casca.de|SpaceAfter=No
-9	.	.	PUNCT	CLB	_	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 advmod:tmod	color:blue
+1	Ximaky	ximaky	NOUN	N	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	2	obj	_	_
+2	paxitha	axitha	VERB	V	Mood=Ind|Number[subj]=Sing|Person[subj]=2|Tense=Past,Pres|VerbForm=Fin	0	root	_	_
+3	mitxi	mitxi	ADV	Adv	AdvType=Tim	2	advmod:tmod	_	SpaceAfter=No
+4	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

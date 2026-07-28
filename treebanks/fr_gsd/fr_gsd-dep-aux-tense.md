@@ -31,7 +31,7 @@ The following 10 pairs of parts of speech are connected with `aux:tense`: <tt><a
 6	passé	passer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Tense[denom]=Past
 7	du	du	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 8	bon	bon	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
-9	temps	temps	NOUN	_	_	6	obj	_	Gender[lex]=Masc|Number[ctxt]=Sing
+9	temps	temps	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 10	et	et	CCONJ	_	_	11	cc	_	_
 11	compte	compter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
 12	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	13	iobj	_	_
@@ -51,10 +51,10 @@ The following 10 pairs of parts of speech are connected with `aux:tense`: <tt><a
 2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 3	également	également	ADV	_	_	5	advmod	_	_
 4	été	être	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	5	cop	_	Tense[denom]=Past
-5	capitaine	capitaine	NOUN	_	Number=Sing	0	root	_	Gender[lex]=Masc
+5	capitaine	capitaine	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Exponence[Gender]=Inherent
 6	de	de	ADP	_	_	8	case	_	_
-7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	Gender[ctxt]=Fem|SpaceAfter=No
-8	équipe	équipe	NOUN	_	Number=Sing	5	nmod	_	Gender[lex]=Fem
+7	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Exponence[Gender]=Absent|SpaceAfter=No
+8	équipe	équipe	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	Exponence[Gender]=Inherent
 9	bruxelloise	bruxellois	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -68,7 +68,7 @@ The following 10 pairs of parts of speech are connected with `aux:tense`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 3 aux:tense	color:blue
 1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	wordform=la
-2	pose	pose	NOUN	_	Number=Sing	5	nsubj	_	Gender[lex]=Fem
+2	pose	pose	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	Exponence[Gender]=Inherent
 3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:tense	_	_
 4	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin	5	cop	_	CorrectForm=été|CorrectVerbForm=Part
 5	parfaite	parfait	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_

@@ -57,7 +57,7 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
 1	–	–	PUNCT	PUNCT	_	4	punct	_	_
-2	Iče	iče	PRON	PRON	Case=Nom|Reflex=Yes	4	nsubj:cop	_	_
+2	Iče	iče	PRON	PRON	Case=Nom|PronType=Prs|Reflex=Yes	4	nsubj:cop	_	_
 3	olen	olla	AUX	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 4	karjalaine	karjalaine	ADJ	ADJ	Case=Nom|Number=Sing	0	root	_	_
 5	Kiihtelysvuaraspäi	Kiihtelysvuara	PROPN	PROPN	Case=Ela|Number=Sing	4	obl	_	SpaceAfter=No

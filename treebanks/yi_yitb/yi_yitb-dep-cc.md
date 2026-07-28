@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-673 nodes (2%) are attached to their parents as `cc`.
+674 nodes (2%) are attached to their parents as `cc`.
 
-673 instances of `cc` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.95096582466568.
+674 instances of `cc` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.94807121661721.
 
-The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (327; 49% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (173; 26% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (71; 11% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (58; 9% instances), <tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (16; 2% instances), <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (12; 2% instances), <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (8; 1% instances), <tt><a href="yi_yitb-pos-DET.html">DET</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances).
+The following 9 pairs of parts of speech are connected with `cc`: <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (328; 49% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (173; 26% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (71; 11% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (58; 9% instances), <tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (16; 2% instances), <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (12; 2% instances), <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (8; 1% instances), <tt><a href="yi_yitb-pos-DET.html">DET</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (5; 1% instances), <tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt>-<tt><a href="yi_yitb-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

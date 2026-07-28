@@ -22,7 +22,7 @@ The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 xcomp	color:blue
-1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	nsubj	_	Gloss=he|Hyperlemma=he|Root=*ḱís
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he|Hyperlemma=he|Root=*ḱís
 2	ȝesohte	ȝesecan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=tried|Hyperlemma=seek|Root=*seh₂ǵ
 3	to	to	PART	TO	_	4	case	_	Gloss=to|Hyperlemma=to|Root=*de
 4	ȝesƿicanne	ȝesƿican	VERB	VB	Number=Sing|VerbForm=Inf	2	xcomp	_	Gloss=stop|Hyperlemma=geswican|Root=*sweyg
@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	Peteres	Petrus	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	2	nmod:poss	_	Gloss=Petrus's|Hyperlemma=Petrus|Root=_
 2	neah-ȝebur	neah-ȝebur	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Gloss=neighbor|Hyperlemma=neighbor|Root=*h₂neḱ-bʰuHt
 3	hæfð	habban	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	Gloss=has|Hyperlemma=have|Root=*keh₂p
-4	þone	se	DET	DT	Case=Acc|Gender=Masc|Number=Sing	5	det	_	Gloss=the|Hyperlemma=the|Root=*so
+4	þone	se	DET	DT	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the|Hyperlemma=the|Root=*so
 5	eodor	eodor	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	Gloss=fence|Hyperlemma=edder|Root=*h₁odʰ
 6	readne	read	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	7	xcomp	_	Gloss=red|Hyperlemma=red|Root=*h₁rewdʰ
 7	onȝemet	onmetan	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	Gloss=painted|Hyperlemma=onmetan|Root=*med|SpaceAfter=No

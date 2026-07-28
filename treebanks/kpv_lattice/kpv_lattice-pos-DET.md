@@ -6,24 +6,24 @@ udver: '2'
 
 ## Treebank Statistics: UD_Komi_Zyrian-Lattice: POS Tags: `DET`
 
-There are 14 `DET` lemmas (1%), 21 `DET` types (1%) and 51 `DET` tokens (1%).
+There are 14 `DET` lemmas (1%), 21 `DET` types (1%) and 52 `DET` tokens (1%).
 Out of 15 observed tags, the rank of `DET` is: 12 in number of lemmas, 10 in number of types and 12 in number of tokens.
 
 The 10 most frequent `DET` lemmas: <em>став, уна, мӧд, ас, некутшӧм, татшӧм, коймӧд, ниӧти, ӧти, быд</em>
 
-The 10 most frequent `DET` types:  <em>став, уна, ас, некутшӧм, татшӧм, коймӧдъяс, мӧд, мӧдъяс, ниӧти, ставыс</em>
+The 10 most frequent `DET` types:  <em>уна, став, ас, некутшӧм, татшӧм, коймӧдъяс, мӧд, мӧдъяс, ниӧти, ставыс</em>
 
-The 10 most frequent ambiguous lemmas: <em>став</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 25, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 13), <em>уна</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 10, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 2), <em>мӧд</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 5, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 5, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>ас</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 44, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 4), <em>некутшӧм</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 4, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 1), <em>татшӧм</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 4, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 3), <em>ӧти</em> (<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 14, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 3, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 2), <em>быд</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 14, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1), <em>кыкнан</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 2, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1), <em>кымын</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2, <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>став</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 25, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 13), <em>уна</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 11, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 6, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 2), <em>мӧд</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 5, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 5, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 1), <em>ас</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 44, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 4), <em>некутшӧм</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 4, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 1), <em>татшӧм</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 4, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 3), <em>ӧти</em> (<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> 14, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 3, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 2), <em>быд</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 14, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1), <em>кыкнан</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 2, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1), <em>кымын</em> (<tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 2, <tt><a href="kpv_lattice-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>став</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 8, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 6), <em>уна</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 8, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 5), <em>ас</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 10, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 3), <em>некутшӧм</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 4, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 1), <em>татшӧм</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 3, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 2, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 1), <em>мӧд</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 2, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 2, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 1), <em>ставыс</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 5, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 2), <em>Уналӧн</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 1), <em>быд</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 10, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1), <em>кыкнан</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>уна</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 9, <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 5), <em>став</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 8, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 6), <em>ас</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 10, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 3), <em>некутшӧм</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 4, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 1), <em>татшӧм</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 3, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 2, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 1), <em>мӧд</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 2, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 2, <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> 1), <em>ставыс</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 5, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 2), <em>Уналӧн</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 1), <em>быд</em> (<tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 10, <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1), <em>кыкнан</em> (<tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 1, <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 1)
 
 
+* <em>уна</em>
+  * <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 9: <em>Кык норма вӧрын Педьӧ тыртіс дай босьтіс <b>уна</b> сьӧм да мукӧдтор .</em>
+  * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 5: <em>Вундігӧн да тэчигӧн му вылӧ усьӧ <b>уна</b> шеп .</em>
 * <em>став</em>
   * <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 8: <em>А <b>став</b> ӧдзӧсъяссьыс , воротаяссьыс , калиткаяссьыс мотор шум вылӧ котӧртісны нин вооружитчӧм йӧз .</em>
   * <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 6: <em>И быттьӧ бырлӧны <b>став</b> дойясыд ...</em>
-* <em>уна</em>
-  * <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 8: <em>Кык норма вӧрын Педьӧ тыртіс дай босьтіс <b>уна</b> сьӧм да мукӧдтор .</em>
-  * <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> 5: <em>Вундігӧн да тэчигӧн му вылӧ усьӧ <b>уна</b> шеп .</em>
 * <em>ас</em>
   * <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> 10: <em>Быд мортлӧн , шуӧны тунъяс , Енвевтын <b>ас</b> Кодзув эм ...</em>
   * <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> 3: <em>Мед жӧ нин , мися , кӧть кутшӧмкӧ тӧвру пӧльыштлас , думайта <b>ас</b> кежысь .</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>став</em> (<tt><a href="kpv_latti
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.500000 (the average of all parts of speech is 1.476307).
+The form / lemma ratio of `DET` is 1.500000 (the average of all parts of speech is 1.477594).
 
 The 1st highest number of forms (4) was observed with the lemma “став”: <em>став, ставныс, ставсӧ, ставыс</em>.
 
@@ -61,22 +61,22 @@ The 2nd highest number of forms (3) was observed with the lemma “мӧд”: <e
 
 The 3rd highest number of forms (2) was observed with the lemma “уна”: <em>Уналӧн, уна</em>.
 
-`DET` occurs with 9 features: <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt> (40; 78% instances), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt> (36; 71% instances), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt> (36; 71% instances), <tt><a href="kpv_lattice-feat-NumType.html">NumType</a></tt> (9; 18% instances), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt> (6; 12% instances), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt> (6; 12% instances), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt> (6; 12% instances), <tt><a href="kpv_lattice-feat-Reflex.html">Reflex</a></tt> (4; 8% instances), <tt><a href="kpv_lattice-feat-Definite.html">Definite</a></tt> (1; 2% instances)
+`DET` occurs with 9 features: <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt> (52; 100% instances), <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt> (37; 71% instances), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt> (37; 71% instances), <tt><a href="kpv_lattice-feat-NumType.html">NumType</a></tt> (9; 17% instances), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt> (6; 12% instances), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt> (6; 12% instances), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt> (6; 12% instances), <tt><a href="kpv_lattice-feat-Reflex.html">Reflex</a></tt> (4; 8% instances), <tt><a href="kpv_lattice-feat-Definite.html">Definite</a></tt> (1; 2% instances)
 
 `DET` occurs with 19 feature-value pairs: `Case=Acc`, `Case=Gen`, `Case=Nom`, `Definite=Ind`, `NumType=Card`, `NumType=Ord`, `NumType=Sets`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person[psor]=1`, `Person[psor]=3`, `Polarity=Neg`, `PronType=Dem`, `PronType=Ind`, `PronType=Prs`, `PronType=Tot`, `Reflex=Yes`
 
-`DET` occurs with 19 feature combinations.
-The most frequent feature combination is `PronType=Ind` (10 tokens).
-Examples: <em>уна, некутшӧм, кымын, мыйта, ниӧти, Уналӧн</em>
+`DET` occurs with 18 feature combinations.
+The most frequent feature combination is `PronType=Ind` (11 tokens).
+Examples: <em>уна, некутшӧм, мӧд, коймӧдъяс, кымын, мыйта, мӧдъяс, ниӧти, Кымынкӧ, Уналӧн</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 6 different relations: <tt><a href="kpv_lattice-dep-det.html">det</a></tt> (38; 75% instances), <tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt> (7; 14% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (3; 6% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obj.html">obj</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt> (1; 2% instances)
+`DET` nodes are attached to their parents using 6 different relations: <tt><a href="kpv_lattice-dep-det.html">det</a></tt> (39; 75% instances), <tt><a href="kpv_lattice-dep-nsubj.html">nsubj</a></tt> (7; 13% instances), <tt><a href="kpv_lattice-dep-conj.html">conj</a></tt> (3; 6% instances), <tt><a href="kpv_lattice-dep-nmod.html">nmod</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obj.html">obj</a></tt> (1; 2% instances), <tt><a href="kpv_lattice-dep-obl.html">obl</a></tt> (1; 2% instances)
 
-Parents of `DET` nodes belong to 2 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (39; 76% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (12; 24% instances)
+Parents of `DET` nodes belong to 2 different parts of speech: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (40; 77% instances), <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (12; 23% instances)
 
-43 (84%) `DET` nodes are leaves.
+44 (85%) `DET` nodes are leaves.
 
 5 (10%) `DET` nodes have one child.
 

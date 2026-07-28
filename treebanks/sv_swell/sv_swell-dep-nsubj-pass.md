@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="sv_swell-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="sv_swell-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-47 nodes (1%) are attached to their parents as `nsubj:pass`.
+48 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-41 instances of `nsubj:pass` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.93617021276596.
+42 instances of `nsubj:pass` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.9375.
 
-The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (22; 47% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (22; 47% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-NOUN.html">NOUN</a></tt> (23; 48% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (22; 46% instances), <tt><a href="sv_swell-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_swell-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="sv_swell-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_swell-pos-PRON.html">PRON</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	medvetna	medveten	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	0	root	_	_
 4	att	att	SCONJ	_	_	6	mark	_	_
 5	miljön	miljö	NOUN	_	Case=Nom|Definite=Def|Gender=Com|Number=Sing	6	nsubj:pass	_	_
-6	förstörs	förstöra	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	3	advcl	_	_
+6	förstörs	förstöra	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	3	ccomp	_	_
 7	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

@@ -16,4 +16,4 @@ obl:agent(destroyed, troops)
 case(Truppen, von)
 case(troops, by)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:23 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:31 CEST -->

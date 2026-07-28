@@ -27,4 +27,4 @@ The `Evident` feature applies to [NOUN](_ka/pos/NOUN), [PROPN](_ka/pos/PROPN), [
 
 * _ხვდება<b>ო</b>_ 'he/she/it meets him/her/it/them as smb. said', _ხვდებიან<b>ო</b>_ 'they meet him/her/it/them as smb. said' etc.
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:14 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->

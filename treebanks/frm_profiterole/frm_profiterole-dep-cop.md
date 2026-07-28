@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-775 nodes (1%) are attached to their parents as `cop`.
+998 nodes (1%) are attached to their parents as `cop`.
 
-705 instances of `cop` (91%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.80903225806452.
+921 instances of `cop` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.88376753507014.
 
-The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (341; 44% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (327; 42% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (60; 8% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (24; 3% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (458; 46% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (421; 42% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (66; 7% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (24; 2% instances), <tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (11; 1% instances), <tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="frm_profiterole-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

@@ -21,7 +21,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="yrk_tundra-pos-NOUN
 `NOUN` tokens may have the following values of `Number`:
 
 * `Sing` (28; 100% of non-empty `Number`): <em>марядʼ, махалэянда, нёнда, тарканда, сидеранда, харданда, <er>марядʼ, нёнд<un>, сэвˮни, таркахаюта</em>
-* `EMPTY` (333): <em>хасава, яхаʼ, пулʼ, яхамʼ, ӈацекы, танцяʼ, харадмʼ, нёʼ, си, хыдяʼ</em>
+* `EMPTY` (331): <em>хасава, яхаʼ, пулʼ, яхамʼ, ӈацекы, танцяʼ, харадмʼ, нёʼ, си, хыдяʼ</em>
 
 `Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `Number`.
 
@@ -32,7 +32,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="yrk_tundra-pos-NOUN
 `VERB` tokens may have the following values of `Number`:
 
 * `Sing` (8; 100% of non-empty `Number`): <em>таня, миманиʼ, танявыˮ, танявэхэˮ, ядваниʼ, яӈговы</em>
-* `EMPTY` (243): <em>ядадмʼ, мадав, нэкалӈав, манэˮӈадмʼ, ӈохолё, имбытадотана, сырӈадмʼ, сюртев, мэда, тарпывʼ</em>
+* `EMPTY` (246): <em>ядадмʼ, мадав, нэкалӈав, манэˮӈадмʼ, ӈохолё, имбытадотана, сырӈадмʼ, сюртев, мэда, тарпывʼ</em>
 
 ### `ADP`
 
@@ -41,30 +41,30 @@ The feature is used with 5 part-of-speech tags: <tt><a href="yrk_tundra-pos-NOUN
 `ADP` tokens may have the following values of `Number`:
 
 * `Sing` (4; 100% of non-empty `Number`): <em>нерни, нерниʼ, нянда</em>
-* `EMPTY` (88): <em>серʼ, няʼ, мюʼ, ниʼ, нид, няна, няюʼ, тяхад, мюня, ниня</em>
+* `EMPTY` (87): <em>серʼ, няʼ, мюʼ, ниʼ, нид, няна, няюʼ, тяхад, мюня, ниня</em>
 
 ### `AUX`
 
-2 <tt><a href="yrk_tundra-pos-AUX.html">AUX</a></tt> tokens (29% of all `AUX` tokens) have a non-empty value of `Number`.
+2 <tt><a href="yrk_tundra-pos-AUX.html">AUX</a></tt> tokens (22% of all `AUX` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="yrk_tundra-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Sing` (2; 100% of non-empty `Number`): <em>тара, ӈэвы</em>
-* `EMPTY` (5): <em>ни, нивы, таранархасиʼ, ӈаˮ, ӈаваˮ</em>
+* `EMPTY` (7): <em>ни, нивы, таранархасиʼ, ӈаˮ, ӈаваˮ, ӈэванонда, ӈэвы</em>
 
 ### `PRON`
 
-2 <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> tokens (11% of all `PRON` tokens) have a non-empty value of `Number`.
+2 <tt><a href="yrk_tundra-pos-PRON.html">PRON</a></tt> tokens (10% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="yrk_tundra-feat-Person.html">Person</a></tt><tt>=1</tt> (2; 100%), <tt><a href="yrk_tundra-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="yrk_tundra-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (1; 50% of non-empty `Number`): <em>ваˮ</em>
 * `Sing` (1; 50% of non-empty `Number`): <em>нерниʼ</em>
-* `EMPTY` (17): <em>тикы, тикар, ӈамгэ, няанда, нянда, та, тика, тикандоʼ?мэ?, тикыʼ, тюку</em>
+* `EMPTY` (19): <em>тикы, тикар, ӈамгэ, няанда, нябиʼ, нябир, нянда, та, тика, тикандоʼ?мэ?</em>
 
 ## Relations with Agreement in `Number`
 

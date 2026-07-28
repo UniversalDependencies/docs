@@ -15,23 +15,22 @@ udver: '2'
 </tr>
 </table>
 
-Degree of comparison is inflectional feature of  qualitative [adjectives](hy-pos/ADJ) and some [adverbs](hy-pos/ADV).
+Degree of comparison is a grammatical feature of qualitative [adjectives](hy-pos/ADJ) and some [adverbs](hy-pos/ADV).
 
-The second degree of adjective or adverb is modified through the adverb _ավելի_ “more” e.g. _ավելի գեղեցիկ_ “more beautiful”; _ավելի արագ_ “more quickly”. We annotate this adverb with the second degree feature.
+The comparative (second) degree is formed periphrastically with the adverb _ավելի_ “more” e.g. _ավելի գեղեցիկ_ “more beautiful”, _ավելի արագ_ “more quickly”. We annotate this adverb with the second degree feature.
 
-Note that the third degree of adverbs in Armenian is constructed with the feature of [Definite](Definite).
+Note that the superlative degree of adverbs in Armenian is constructed with the definite article (e.g. _Նվազագույնը_/_nvazagowynë_ “at least”), but it is not annotated with the feature [Definite](Definite).
 
 ### <a name="Pos">`Pos`</a>: positive, first degree
 
-This is the base form that merely states a quality of something, without comparing it to qualities of others. Note that although this
-degree is traditionally called "positive", negative properties can be compared, too.
+This is the base form that merely states a quality of something, without comparing it to qualities of others. Note that although this degree is traditionally called "positive", negative properties can be compared, too.
 
 #### Examples
 
-* _<b>խելացի</b> մարդ&nbsp;_ “<b>clever</b> man”
-* _<b>լավ</b> երաժիշտ&nbsp;_ “<b>good</b> musician”
-* _<b>նոր</b> նմուշ&nbsp;_ “<b>new</b> exemplar”
-* _Նա <b>արագ</b> է քայլում։&nbsp;_ “He walks <b>quickly</b>.”
+* _<b>խելացի</b> մարդ_/_<b>xelacʼi</b> mard_ “a <b>clever</b> man”
+* _<b>լավ</b> երաժիշտ_/_<b>lav</b> eražišt_ “a <b>good</b> musician”
+* _<b>նոր</b> նմուշ_/_<b>nor</b> nmowš_ “a <b>new</b> specimen”
+* _Նա <b>արագ</b> է քայլում։_/_Na <b>arag</b> ē kʼaylowm._ “He walks <b>quickly</b>.”
 
 ### <a name="Cmp">`Cmp`</a>: comparative, second degree
 
@@ -39,11 +38,11 @@ The quality of one object is compared to the same quality of another object.
 
 #### Examples
 
-* _<b>ավելի</b> խելացի մարդ&nbsp;_ “<b>cleverer</b> man”
-* _Այս մարդն ինձնից <b>(ավելի)</b> խելացի է։&nbsp;_ “The man is <b>cleverer</b> than me.”
-* _<b>ավելի</b> լավ երաժիշտ&nbsp;_ “<b>better</b> musician”
-* _<b>ավելի</b> նոր նմուշ&nbsp;_ “<b>newer</b> exemplar”
-* _Նա <b>ավելի</b> արագ է քայլում։&nbsp;_ “He/She walks <b>more quickly</b>.”
+* _<b>ավելի</b> խելացի մարդ_/_<b>aveli</b> xelacʼi mard_ “a <b>cleverer</b> man”
+* _Այս մարդն ինձնից <b>(ավելի)</b> խելացի է։_/_Ays mardn injnicʼ <b>(aveli)</b> xelacʼi ē._ “The man is <b>cleverer</b> than me.”
+* _<b>ավելի</b> լավ երաժիշտ_/_<b>aveli</b> lav eražišt_ “a <b>better</b> musician”
+* _<b>ավելի</b> նոր նմուշ_/_<b>aveli</b> nor nmowš_ “a <b>newer</b> example”
+* _Նա <b>ավելի</b> արագ է քայլում։_/_Na <b>aveli</b> arag ē kʼaylowm._ “He/She walks <b>more quickly</b>.”
 
 ### <a name="Sup">`Sup`</a>: superlative, third degree
 
@@ -51,19 +50,17 @@ The quality of one object is compared to the same quality of all other objects w
 
 #### Examples
 
-* _Նա մեր խմբի <b>ամենախելացի</b> / <b>ամենից խելացի</b> / <b>բոլորից խելացի</b> մարդն է։&nbsp;_ “He/She is the <b>cleverest</b> man in our group.”
-* _Նա մեր խմբի <b>լավագույն</b> / <b>ամենից լավ</b> / <b>բոլորից լավ</b> երաժիշտն է։&nbsp;_ “He/She is the <b>best</b> musician in our group.”
-* _Սա <b>ամենանորագույն</b> / <b>ամենից նոր</b> / <b>բոլորից</b> նոր նմուշն է։&nbsp;_ “This is the <b>very newest</b> exemplar.”
-* _Նա <b>ամենաարագն</b> / <b>ամենից արագն</b> / <b>բոլորից արագն</b> է քայլում։&nbsp;_ “He/She walks <b>the most quickly</b>.”
+* _Նա մեր խմբի <b>ամենախելացի</b> / <b>ամենից խելացի</b> / <b>բոլորից խելացի</b> մարդն է։_/_Na mer xmbi <b>amenaxelacʼi</b> / <b>amenicʼ xelacʼi</b> / <b>boloricʼ xelacʼi</b> mardn ē._ “He/She is the <b>cleverest</b> man in our group.”
+* _Նա մեր խմբի <b>լավագույն</b> / <b>ամենից լավ</b> / <b>բոլորից լավ</b> երաժիշտն է։_/_Na mer xmbi <b>lavagowyn</b> / <b>amenicʼ lav</b> / <b>boloricʼ lav</b> eražištn ē._ “He/She is the <b>best</b> musician in our group.”
+* _Սա <b>ամենանորագույն</b> / <b>ամենից նոր</b> / <b>բոլորից</b> նոր նմուշն է։_/_Sa <b>amenanoragowyn</b> / <b>amenicʼ nor</b> / <b>boloricʼ</b> nor nmowšn ē._ “This is the <b>newest</b> example.”
+* _Նա <b>ամենաարագն</b> / <b>ամենից արագն</b> / <b>բոլորից արագն</b> է քայլում։_/_Na <b>amenaaragn</b> / <b>amenicʼ aragn</b> / <b>boloricʼ aragn</b> ē kʼaylowm._ “He/She walks <b>the fastest</b>.”
 
 ### <a name="Abs">`Abs`</a>: absolute superlative
 
-The quality of the given object is so strong that there is hardly any other object
-exceeding it. The quality is not actually compared to any particular
-set of objects.
+The quality of the given object is so strong that there is hardly any other object exceeding it. The quality is not actually compared to any particular set of objects.
 
 #### Examples
 
-* _հզոր&nbsp;_ “powerful”; _<b>գերհզոր</b>&nbsp;_ “<b>indescribably, super powerful</b>”
-* _մարդկային&nbsp;_ “human”; _<b>գերմարդկային</b>&nbsp;_ “<b>super human</b>”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:10 CET -->
+* _հզոր_/_hzor_ “powerful”; _<b>գերհզոր</b>_/_<b>gerhzor</b>_ “<b>indescribably, super powerful</b>”
+* _մարդկային_/_mardkayin_ “human”; _<b>գերմարդկային</b>_/_germardkayin_ “<b>superhuman</b>”
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->

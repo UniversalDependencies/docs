@@ -63,4 +63,4 @@ The `xcomp:subj` relation is used in the Polish [PDB-UD](http://universaldepende
 11	retorted	_	_	_	_	_	_	_	_
 12	.	_	_	_	_	_	_	_	_
 ~~~	
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:44 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:46 CEST -->

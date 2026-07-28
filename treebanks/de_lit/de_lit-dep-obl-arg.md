@@ -68,7 +68,7 @@ The following 13 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 3	,	,	PUNCT	$,	_	6	punct	_	_
 4	was	was	PRON	PRELS	Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel	6	nsubj	_	_
 5	jenem	jener	DET	PDS	Case=Dat|PronType=Dem	6	obl:arg	_	_
-6	fehlt	fehlen	VERB	VVFIN	_	2	acl	_	SpaceAfter=No
+6	fehlt	fehlen	VERB	VVFIN	_	2	acl:relcl	_	SpaceAfter=No
 7	,	,	PUNCT	$,	_	6	punct	_	_
 8	hat	haben	AUX	VAFIN	_	0	root	_	_
 9	dieser	dieser	DET	PDS	Case=Nom|PronType=Dem	8	nsubj	_	SpaceAfter=No

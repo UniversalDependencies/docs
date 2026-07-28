@@ -56,7 +56,7 @@ The following 50 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 5 6 advmod	color:blue
 1	Auch	auch	ADV	ADV	_	4	advmod	_	_
 2	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	Europäische	europäisch	ADJ	ADJA	Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+3	Europäische	europäisch	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
 4	Kommission	Kommission	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
 5	reagierte	reagieren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	verhalten	verhalten	ADJ	ADJD	Degree=Pos|Variant=Short	5	advmod	_	_

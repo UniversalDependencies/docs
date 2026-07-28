@@ -60,7 +60,7 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 19	Außenministern	Außenminister	NOUN	NN	Case=Dat|Gender=Masc|Number=Plur	22	obl	_	_
 20	der	der	DET	ART	Case=Gen|Definite=Def|Number=Plur|PronType=Art	21	det	_	_
 21	Mitgliedstaaten	Mitgliedstaat	NOUN	NN	Case=Gen|Gender=Masc|Number=Plur	19	nmod	_	_
-22	rotierte	rotieren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl	_	_
+22	rotierte	rotieren	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
 23	und	und	CCONJ	KON	_	34	cc	_	_
 24	dessen	der	PRON	PRELAT	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem,Rel	25	nmod	_	_
 25	Aufgaben	Aufgabe	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	34	nsubj	_	_
@@ -93,7 +93,7 @@ The following 3 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 7	auf	auf	ADP	APPR	_	9	case	_	_
 8	den	der	DET	ART	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	Mund	Mund	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	_
-10	lenkt	lenken	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+10	lenkt	lenken	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 11	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 12	gut	gut	ADJ	ADJD	Degree=Pos	15	ccomp	_	SpaceAfter=No
 13	''	''	PUNCT	$(	_	12	punct	_	SpaceAfter=No

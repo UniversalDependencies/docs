@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-148 nodes (1%) are attached to their parents as `ccomp`.
+150 nodes (1%) are attached to their parents as `ccomp`.
 
-146 instances of `ccomp` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.60135135135135.
+148 instances of `ccomp` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.56666666666667.
 
-The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (123; 83% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (11; 7% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (11; 7% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (125; 83% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt> (11; 7% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (11; 7% instances), <tt><a href="es_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -46,11 +46,11 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 # visual-style 9 13 ccomp	color:blue
 1	El	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	año	año	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	_
-3	pasado	pasado	ADJ	JJ	Gender=Masc|Number=Sing	2	amod	_	_
+3	pasado	pasado	ADJ	JJ	Gender=Masc|Number=Sing|VerbForm=Part	2	amod	_	_
 4	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 5	un	uno	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	año	año	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
-7	increíble	increíble	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
+7	increíble	increíble	ADJ	JJ	Number=Sing	6	amod	_	_
 8	y	y	CCONJ	CC	_	9	cc	_	_
 9	espero	esperar	VERB	VBC	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	conj	_	_
 10	que	que	SCONJ	IN	_	13	mark	_	_

@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (2104; 100% of non-empty `Degree`): <em>más, menos</em>
-* `EMPTY` (16247): <em>no, también, ya, hoy, ayer, muy, sólo, después, ahora, donde</em>
+* `EMPTY` (16422): <em>no, también, hoy, ya, ayer, muy, sólo, después, ahora, donde</em>
 
 ### `ADJ`
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Abs` (47; 5% of non-empty `Degree`): <em>importantísimo, altísimo, dificilísimo, importantísima, muchísimas, rapidísimo, altísima, anticuadísimo, buenísima, buenísimo</em>
 * `Cmp` (679; 75% of non-empty `Degree`): <em>mayor, mejor, mayores, menor, mejores, peor, menores, peores</em>
 * `Sup` (174; 19% of non-empty `Degree`): <em>máximo, máxima, mínimo, máximos, mínimas, mínima, mínimos, pésimo, máximas, óptima</em>
-* `EMPTY` (35527): <em>pasado, primer, gran, nuevo, primera, próximo, nueva, últimos, general, ex</em>
+* `EMPTY` (35973): <em>pasado, primer, gran, primera, nuevo, nueva, próximo, últimos, general, ex</em>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 100% lemmas (41) occur only with one value of `Degree`.
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Abs` (4; 100% of non-empty `Degree`): <em>mismísimo, muchísimos</em>
-* `EMPTY` (84427): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (84430): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 ### `PRON`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `PRON` and `Degree` co-occurre
 `PRON` tokens may have the following values of `Degree`:
 
 * `Abs` (1; 100% of non-empty `Degree`): <em>muchísimos</em>
-* `EMPTY` (25184): <em>que, se, lo, le, me, nos, uno, quien, la, les</em>
+* `EMPTY` (25306): <em>que, se, lo, le, me, nos, uno, quien, la, les</em>
 
 ## Relations with Agreement in `Degree`
 

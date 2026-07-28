@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="bej_autogramm-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-154 nodes (1%) are attached to their parents as `nmod`.
+156 nodes (1%) are attached to their parents as `nmod`.
 
-86 instances of `nmod` (56%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.14935064935065.
+87 instances of `nmod` (56%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.18589743589744.
 
-The following 15 pairs of parts of speech are connected with `nmod`: <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (44; 29% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (31; 20% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (29; 19% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (13; 8% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> (12; 8% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="bej_autogramm-pos-X.html">X</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 15 pairs of parts of speech are connected with `nmod`: <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (42; 27% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> (33; 21% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (29; 19% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (15; 10% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> (12; 8% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> (5; 3% instances), <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="bej_autogramm-pos-X.html">X</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bej_autogramm-pos-X.html">X</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -41,17 +41,23 @@ The following 15 pairs of parts of speech are connected with `nmod`: <tt><a href
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 nmod	color:blue
-1	mhaj	_	NUM	NUM	_	3	nummod	_	AlignBegin=187726|AlignEnd=187909|Gloss=three|RX=[NUM]|TokenType=Root
-2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=187909|AlignEnd=188092|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-3	taːga	_	NOUN	N	Gender=Fem	7	obj	_	AlignBegin=188092|AlignEnd=188458|Gloss=bolt|RX=[N].[F]|TokenType=Root
-4	halaka	_	NOUN	N	Gender=Masc|Number=Plur	5	dep:comp	_	AlignBegin=188458|AlignEnd=188641|Gloss=cloth|MGloss=cloth-PL|MSeg=halak-a|RX=[N].[M]-.|TokenType=Root
-5	=jeː	_	ADP	CASE	Case=Gen|Number=Plur	3	nmod	_	AlignBegin=188641|AlignEnd=188732|Gloss==GEN.PL|RX==[CASE]|TokenType=Clit
-6	=t	_	DET	DET	Gender=Fem	5	det	_	AlignBegin=188732|AlignEnd=188824|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-7	eːwna	_	VERB	V1	Aspect=Imp|Number=Plur|Person=3|VerbClass=1	0	root	_	AlignBegin=188824|AlignEnd=189190|Gloss=give\IPFV.3PL|RX=[V1].[IRG]|TokenType=Root
-8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=189190|AlignEnd=189556|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 nmod	color:blue
+1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=140130|AlignEnd=140233|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
+2	ragad	_	NOUN	N	Gender=Masc	11	nsubj	_	AlignBegin=140233|AlignEnd=140336|Gloss=leg|RX=[SBJ].[N].[M]|TokenType=Root
+3	/	_	PUNCT	_	_	2	punct	_	AlignBegin=140336|AlignEnd=140541|Gloss=/|TokenType=Break
+4	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	5	det	_	AlignBegin=140541|AlignEnd=140633|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
+5	harʔiː	_	ADP	N	_	2	nmod	_	AlignBegin=140633|AlignEnd=140725|Gloss=behind|RX=[POSTP]|TokenType=Root
+6	=wwa	_	CCONJ	CONJ	_	5	cc	_	AlignBegin=140817|AlignEnd=140911|Gloss==COORD|RX==[CONJ]|TokenType=Clit
+7	i=	_	DET	DET	Gender=Masc	8	det	_	AlignBegin=140911|AlignEnd=141003|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
+8	suːriː	_	ADP	N	_	5	dep:conj	_	AlignBegin=141003|AlignEnd=141095|Gloss=in_font_of|RX=[POSTP]|TokenType=Root
+9	=wwa	_	CCONJ	CONJ	_	8	cc	_	AlignBegin=141187|AlignEnd=141281|Gloss==COORD|RX==[CONJ]|TokenType=Clit
+10	/	_	PUNCT	_	_	8	punct	_	AlignBegin=141281|AlignEnd=141652|Gloss=/|TokenType=Break
+11	taɖoːmaːb	_	VERB	V2	Gender=Masc|VerbClass=2	0	root	_	AlignBegin=141652|AlignEnd=141937|Gloss=be_fastened|MGloss=be_fastened-CVB.MNR-INDF.M.ACC|MSeg=taɖoːm-aː-b|RX=[V2]-[PRF]-[DET]|TokenType=Root
+12	=a	_	AUX	CONJ.COP	Number=Plur|Person=3|VerbType=Cop	11	cop	_	AlignBegin=141937|AlignEnd=142032|Gloss==COP.3PL|RX==[CONJ]|TokenType=Clit
+13	=ajt	_	SCONJ	CONJ	_	11	dep	_	AlignBegin=142032|AlignEnd=142125|Gloss==CSL|RX==[CONJ]|TokenType=Clit
+14	//	_	PUNCT	_	_	11	punct	_	AlignBegin=142125|AlignEnd=142598|Gloss=//|TokenType=Break
 
 ~~~
 

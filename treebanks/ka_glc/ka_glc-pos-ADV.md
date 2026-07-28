@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>შემდეგ</em> (<tt><a href=
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.051597 (the average of all parts of speech is 1.674782).
+The form / lemma ratio of `ADV` is 1.051597 (the average of all parts of speech is 1.692057).
 
 The 1st highest number of forms (3) was observed with the lemma “მიხედვით”: <em>მიხედვით, მიხედვითა, მიხედვითაც</em>.
 
@@ -73,7 +73,7 @@ Examples: <em>ასევე, აგრეთვე, მიხედვით, 
 
 `ADV` nodes are attached to their parents using 12 different relations: <tt><a href="ka_glc-dep-advmod.html">advmod</a></tt> (1607; 94% instances), <tt><a href="ka_glc-dep-advmod-lmod.html">advmod:lmod</a></tt> (43; 3% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (40; 2% instances), <tt><a href="ka_glc-dep-obl.html">obl</a></tt> (9; 1% instances), <tt><a href="ka_glc-dep-parataxis.html">parataxis</a></tt> (4; 0% instances), <tt><a href="ka_glc-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-root.html">root</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="ka_glc-dep-mark.html">mark</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 14 different parts of speech: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (1075; 63% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (363; 21% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (170; 10% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (61; 4% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (16; 1% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 14 different parts of speech: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (1075; 63% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (364; 21% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (169; 10% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (61; 4% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (16; 1% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (8; 0% instances), <tt><a href="ka_glc-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ka_glc-pos-SYM.html">SYM</a></tt> (1; 0% instances)
 
 1120 (65%) `ADV` nodes are leaves.
 

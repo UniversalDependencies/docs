@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="bar_maibaam-dep-aux-pass.html">aux:pass</a></tt>.
 
-575 nodes (4%) are attached to their parents as `aux`.
+576 nodes (4%) are attached to their parents as `aux`.
 
-394 instances of `aux` (69%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.99130434782609.
+394 instances of `aux` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.98611111111111.
 
-The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (547; 95% instances), <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (11; 2% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (10; 2% instances), <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (548; 95% instances), <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (11; 2% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (10; 2% instances), <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt>-<tt><a href="bar_maibaam-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -18,4 +18,4 @@ The `nmod:pred` relation denotes a nominal dependent of a verbal noun that is an
 5	გადაქცევას	გადაქცევა	NOUN	_	Case=Dat|Number=Sing|VerbForm=Vnoun	2	obj	_	LMSeg:გადა·ქცევ[ა]/ქც
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:10 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:20 CEST -->

@@ -11,7 +11,7 @@ This relation is universal.
 18 nodes (0%) are attached to their parents as `iobj`.
 
 18 instances of `iobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.5.
+Average distance between parent and child is 3.77777777777778.
 
 The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (13; 72% instances), <tt><a href="ja_gsdluw-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="ja_gsdluw-pos-ADV.html">ADV</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_gsdluw-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-NUM.html">NUM</a></tt> (1; 6% instances), <tt><a href="ja_gsdluw-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_gsdluw-pos-PRON.html">PRON</a></tt> (1; 6% instances).
 
@@ -24,9 +24,9 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 20 16 iobj	color:blue
 1	同僚教師	同僚教師	NOUN	名詞-普通名詞-一般	_	3	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ドウリョウ;キョウシ,同僚;教師,同僚;教師,同僚;教師,ドーリョー;キョーシ,;,;,ドウリョウ;キョウシ,ドウリョウキョウシ,同僚教師
 2	の	の	ADP	助詞-格助詞	_	1	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ノ,の,の,の,ノ,,,ノ,ノ,の
-3	すみれ	すみれ	PROPN	名詞-固有名詞-人名-名	_	5	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=スミレ,スミレ,すみれ,すみれ,スミレ,,,スミレ,スミレ,すみれ
+3	すみれ	すみれ	PROPN	名詞-固有名詞-人名-名	_	10	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=スミレ,スミレ,すみれ,すみれ,スミレ,,,スミレ,スミレ,すみれ
 4	と	と	ADP	助詞-格助詞	_	3	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ト,と,と,と,ト,,,ト,ト,と
-5	彩	彩	PROPN	名詞-固有名詞-人名-名	_	10	nsubj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=アヤ,アヤ,彩,彩,アヤ,,,アヤ,アヤ,彩
+5	彩	彩	PROPN	名詞-固有名詞-人名-名	_	3	conj	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=アヤ,アヤ,彩,彩,アヤ,,,アヤ,アヤ,彩
 6	は	は	ADP	助詞-係助詞	_	5	case	_	BunsetuBILabel=I|BunsetuPositionType=SYN_HEAD|SpaceAfter=No|UnidicInfo=ハ,は,は,は,ワ,,,ハ,ハ,は
 7	そんな	そんな	PRON	連体詞	_	8	nmod	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ソンナ,そんな,そんな,そんな,ソンナ,,,ソンナ,ソンナ,そんな
 8	夕子	夕子	PROPN	名詞-固有名詞-人名-名	_	10	obl	_	BunsetuBILabel=B|BunsetuPositionType=SEM_HEAD|SpaceAfter=No|UnidicInfo=ユウコ,ユウコ,夕子,夕子,ユーコ,,,ユウコ,ユウコ,夕子

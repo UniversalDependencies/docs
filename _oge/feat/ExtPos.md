@@ -74,4 +74,4 @@ The `ExtPos` feature applies to [NOUN](_oge/pos/NOUN), [PROPN](_oge/pos/PROPN), 
 
 * _უკუეთუ კი_ 'if indeed'
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:05 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->

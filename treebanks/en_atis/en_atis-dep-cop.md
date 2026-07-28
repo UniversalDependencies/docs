@@ -59,7 +59,7 @@ The following 9 pairs of parts of speech are connected with `cop`: <tt><a href="
 2	many	many	ADJ	_	Degree=Pos	10	nsubj	_	_
 3	of	of	ADP	_	_	7	case	_	_
 4	delta	Delta	PROPN	_	Number=Sing	6	nmod:poss	_	_
-5	's	be	PART	_	_	4	case	_	_
+5	's	's	PART	_	_	4	case	_	_
 6	night	night	NOUN	_	Number=Sing	7	compound	_	_
 7	flights	flight	NOUN	_	Number=Plur	2	nmod	_	_
 8	are	be	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	_

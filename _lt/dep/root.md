@@ -75,4 +75,4 @@ ROOT Dėstytojas kalba , studentai klauso . \n ROOT The-lecturer speaks , the-st
 root(ROOT-1, kalba)
 root(ROOT-9, speaks)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:40 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->

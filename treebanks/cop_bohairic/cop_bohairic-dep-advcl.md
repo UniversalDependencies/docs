@@ -52,17 +52,17 @@ The following 15 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	ⲟⲩⲟϩ	ⲟⲩⲟϩ	CCONJ	CONJ	_	4	cc	_	_
 2	ⲡⲁⲓ	ⲫⲁⲓ	DET	PDEM	Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
 3	ⲣⲏϯ	ⲣⲏϯ	NOUN	N	_	4	nmod:unmarked	_	_
-4	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	0	root	_	Cxn=NPN|CxnElt=4:NPN.N1,4:NPN.N2,4:NPN.P
+4	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	0	root	_	Cxn=NPN|CxnElt=4:NPN.N1,4:NPN.N2,4:NPN.P|Entity=(person)
 5	ⲥⲁ	ⲥⲁ	ADP	PREP	_	6	case	_	_
-6	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	4	nmod	_	_
+6	ⲟⲩⲟⲛ	ⲟⲩⲟⲛ	NOUN	N	_	4	nmod	_	Entity=(person)
 7	ⲕⲁⲧⲁ	ⲕⲁⲧⲁ	ADP	PREP	Foreign=Yes	8	case	_	OrigLang=grc
-8	ⲧⲁⲝⲓⲥ	ⲧⲁⲝⲓⲥ	NOUN	N	Foreign=Yes	4	obl	_	OrigLang=grc
+8	ⲧⲁⲝⲓⲥ	ⲧⲁⲝⲓⲥ	NOUN	N	Foreign=Yes	4	obl	_	Entity=(abstract)|OrigLang=grc
 9	ϣⲁⲧⲉ	ϣⲁⲧⲉ	AUX	ALIM	_	11	aux	_	_
 10	ⲕ	ⲛⲑⲟⲕ	PRON	PPERS	Definite=Def|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	nsubj	_	_
 11	ⲓ	ⲓ	VERB	V	Mood=Ind|VerbForm=Fin	4	advcl	_	_
 12	ⲉ	ⲉ	ADP	PREP	_	14	case	_	_
-13	ⲛⲓ	ⲡⲓ	DET	ART	Definite=Def|Number=Plur|PronType=Art	14	det	_	_
-14	ϧⲁⲉⲩ	ϧⲁⲉ	NOUN	N	_	11	obl	_	_
+13	ⲛⲓ	ⲡⲓ	DET	ART	Definite=Def|Number=Plur|PronType=Art	14	det	_	Entity=(person
+14	ϧⲁⲉⲩ	ϧⲁⲉ	NOUN	N	_	11	obl	_	Entity=person)
 15	.	.	PUNCT	PUNCT	_	4	punct	_	_
 
 ~~~

@@ -9,32 +9,32 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Greek`.
 
-208 tokens (1%) have a non-empty value of `Variant`.
-123 types (1%) occur at least once with a non-empty value of `Variant`.
-108 lemmas (3%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 3 part-of-speech tags: <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (179; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (23; 0% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (6; 0% instances).
+224 tokens (1%) have a non-empty value of `Variant`.
+128 types (1%) occur at least once with a non-empty value of `Variant`.
+111 lemmas (3%) occur at least once with a non-empty value of `Variant`.
+The feature is used with 3 part-of-speech tags: <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> (193; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (25; 0% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (6; 0% instances).
 
 ### `PROPN`
 
-179 <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> tokens (20% of all `PROPN` tokens) have a non-empty value of `Variant`.
+193 <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt> tokens (20% of all `PROPN` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PROPN` and `Variant` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (166; 93%), <tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=Nom</tt> (102; 57%), <tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (92; 51%).
+The most frequent other feature values with which `PROPN` and `Variant` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (180; 93%), <tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=Nom</tt> (111; 58%), <tt><a href="la_circse-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (97; 50%).
 
 `PROPN` tokens may have the following values of `Variant`:
 
-* `Greek` (179; 100% of non-empty `Variant`): <em>Titan, Theseu, Alcides, Argos, Cithaeron, Agamemnon, Styga, Eurystheus, Pallas, Achilles</em>
+* `Greek` (193; 100% of non-empty `Variant`): <em>Cithaeron, Titan, Theseu, Alcides, Argos, Agamemnon, Styga, Eurystheus, Pallas, Achilles</em>
 
-`Variant` seems to be **lexical feature** of `PROPN`. 100% lemmas (93) occur only with one value of `Variant`.
+`Variant` seems to be **lexical feature** of `PROPN`. 100% lemmas (96) occur only with one value of `Variant`.
 
 ### `NOUN`
 
-23 <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Variant`.
+25 <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `NOUN` and `Variant` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23; 100%), <tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=Nom</tt> (18; 78%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt> (17; 74%).
+The most frequent other feature values with which `NOUN` and `Variant` co-occurred: <tt><a href="la_circse-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 100%), <tt><a href="la_circse-feat-Case.html">Case</a></tt><tt>=Nom</tt> (20; 80%), <tt><a href="la_circse-feat-InflClass.html">InflClass</a></tt><tt>=IndEurX</tt> (19; 76%).
 
 `NOUN` tokens may have the following values of `Variant`:
 
-* `Greek` (23; 100% of non-empty `Variant`): <em>chaos, aer, aether, maenas, syrma, aedon, chelyn, chelys, delphin, lampada</em>
+* `Greek` (25; 100% of non-empty `Variant`): <em>chaos, aer, aether, maenas, syrma, aedon, chelyn, chelys, delphin, lampada</em>
 
 ### `ADJ`
 

@@ -25,7 +25,7 @@ The following 10 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 14 13 compound	color:blue
 1	Yerba	Yerba	PROPN	PM|NOM	Case=Nom	2	compound	2:compound	_
 2	Buena-trädgården	Buena-trädgård	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	3	nsubj	3:nsubj	_
-3	anlades	anlägga	VERB	VB|PRT|SFO	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
+3	anlades	anlägga	VERB	VB|PRT|SFO	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	ParsemeMWE=1:NotMWE
 4	i	i	ADP	PP	_	5	case	5:case	_
 5	början	början	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	3	obl	3:obl:i	_
 6	av	av	ADP	PP	_	7	case	7:case	_
@@ -57,8 +57,8 @@ The following 10 pairs of parts of speech are connected with `compound`: <tt><a 
 7	ett	en	DET	DT|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Art	8	det	8:det	_
 8	möte	möte	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	5	obl	5:obl:under|10:nsubj	_
 9	som	som	PRON	HP|-|-|-	PronType=Int,Rel	10	nsubj	8:ref	_
-10	ägde	äga	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	8:acl:relcl	_
-11	rum	rum	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	10	compound:prt	10:compound:prt	_
+10	ägde	äga	VERB	VB|PRT|AKT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	8	acl:relcl	8:acl:relcl	ParsemeMWE=1:VID
+11	rum	rum	NOUN	NN|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	10	compound:prt	10:compound:prt	ParsemeMWE=1
 12	i	i	ADP	PP	_	13	case	13:case	_
 13	Rom	Rom	PROPN	PM|NOM	Case=Nom	10	obl	10:obl:i	SpaceAfter=No
 14	.	.	PUNCT	MAD	_	5	punct	5:punct	_

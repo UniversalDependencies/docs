@@ -8,7 +8,7 @@ udver: '2'
 The label `acl:relcl` is used to mark relative clauses that modify a nominal (a noun or pronoun). In Lithuanian, these clauses begin with relative pronouns (_kuris (which / who / that), katras (which one), koks (what kind of / which), kas (who / what)_).
 
 ~~~ sdparse
-Dviratis yra toks , kokio aš norėjau . \n The-bicycle is such as I wanted. 
+Dviratis yra toks , kokio aš norėjau . \n The-bicycle is such as I wanted . 
 acl:relcl(toks, norėjau)
 acl:relcl(such, wanted)
 ~~~
@@ -24,3 +24,4 @@ Valstybė daro tai , ką ir turi daryti. \n The-state does that what it-has to-d
 acl:relcl(tai, turi)
 acl:relcl(that, it-has)
 ~~~
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:27 CEST -->

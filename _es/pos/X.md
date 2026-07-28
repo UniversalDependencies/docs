@@ -7,4 +7,4 @@ udver: '2'
 ### Definition
 
 The `X` tag is used for words that for some reason cannot be assigned a real part-of-speech category.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:57 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->

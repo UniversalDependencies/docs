@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 `NOUN` tokens may have the following values of `Degree`:
 
 * `Pos` (6; 100% of non-empty `Degree`): <em>SVÎNT, orb, plata, venitori, vergurele, Îndrăcitul</em>
-* `EMPTY` (96777): <em>vodă, domnul, doamne, țara, țară, omul, om, domnului, oaste, cuvîntul</em>
+* `EMPTY` (96776): <em>vodă, domnul, doamne, țara, țară, omul, om, domnului, oaste, cuvîntul</em>
 
 ## Relations with Agreement in `Degree`
 

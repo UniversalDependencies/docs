@@ -50,7 +50,7 @@ The following 20 pairs of parts of speech are connected with `csubj`: <tt><a hre
 5	هر	هر	DET	PREM_AMBAJ	_	6	det	_	LTranslit=hr|Translit=hr
 6	نسلی	نسل	NOUN	N_ANM	Number=Sing	12	nsubj	_	LTranslit=nsl|SpaceAfter=No|Translit=nslī
 7	،	،	PUNCT	PUNC	_	6	punct	_	LTranslit=,|Translit=,
-8	آن	آن	DET	PREM_DEMAJ	_	9	det	_	LTranslit=Ān|Translit=Ān
+8	آن	آن	DET	PREM_DEMAJ	PronType=Dem	9	det	_	LTranslit=Ān|Translit=Ān
 9	چه	چه	NOUN	N_IANM	Number=Sing	16	obj	_	LTranslit=čh|Translit=čh
 10	در	در	ADP	PREP	_	11	case	_	LTranslit=dr|Translit=dr
 11	توان	توان	NOUN	N_IANM	Number=Sing	12	obl	_	LTranslit=tūān|Translit=tūān
@@ -71,7 +71,7 @@ The following 20 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 3	fgColor:white
 # visual-style 3 5 csubj	color:blue
 1	از	از	ADP	PREP	_	3	case	_	LTranslit=āz|Translit=āz
-2	آن	آن	DET	PREM_DEMAJ	_	3	det	_	LTranslit=Ān|Translit=Ān
+2	آن	آن	DET	PREM_DEMAJ	PronType=Dem	3	det	_	LTranslit=Ān|Translit=Ān
 3	روز	روز	NOUN	N_IANM	Number=Sing	0	root	_	LTranslit=rūz|Translit=rūz
 4	بود	بود	AUX	AUX	Number=Sing|Person=3	3	cop	_	LTranslit=būd|OrigLemma=بود#باش|Translit=būd
 5	که	که	SCONJ	SUBR	_	3	csubj	_	LTranslit=kh|Translit=kh
@@ -81,7 +81,7 @@ The following 20 pairs of parts of speech are connected with `csubj`: <tt><a hre
 9	میانهٔ	میانه	NOUN	N_IANM	Number=Sing	14	obl	_	LTranslit=mīānh|Translit=mīānhٔ
 10	راه	راه	NOUN	N_IANM	Number=Sing	9	nmod	_	LTranslit=rāh|Translit=rāh
 11	به	به	ADP	PREP	_	13	case	_	LTranslit=bh|Translit=bh
-12	این	این	DET	PREM_DEMAJ	_	13	det	_	LTranslit=āīn|Translit=āīn
+12	این	این	DET	PREM_DEMAJ	PronType=Dem	13	det	_	LTranslit=āīn|Translit=āīn
 13	کاروان	کاروان	NOUN	N_IANM	Number=Sing	14	obl:arg	_	LTranslit=kārūān|Translit=kārūān
 14	پیوسته	پیوست	VERB	V_ACT	Number=Sing|Person=3|Tense=Past|Voice=Act	5	ccomp	_	LTranslit=pīūst|OrigLemma=پیوست#پیوند|Translit=pīūsth
 15	بودیم	بود	AUX	AUX	Number=Plur|Person=1|Tense=Past	14	aux	_	LTranslit=būd|OrigLemma=بود#باش|SpaceAfter=No|Translit=būdīm

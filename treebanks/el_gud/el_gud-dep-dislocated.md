@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-51 nodes (0%) are attached to their parents as `dislocated`.
+50 nodes (0%) are attached to their parents as `dislocated`.
 
-50 instances of `dislocated` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.66666666666667.
+49 instances of `dislocated` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.58.
 
-The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (23; 45% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (12; 24% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-DET.html">DET</a></tt> (11; 22% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gud-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances).
+The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (22; 44% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (12; 24% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-DET.html">DET</a></tt> (11; 22% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt>-<tt><a href="el_gud-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,9 +22,9 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 dislocated	color:blue
-1	Είναι	είμαι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	cop	_	_
+1	Είναι	είμαι	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 2	το	ο	DET	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	3	det	_	_
-3	λιγότερο	λίγος	ADJ	_	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	_
+3	λιγότερο	λίγος	DET	_	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing|PronType=Ind	0	root	_	_
 4	που	που	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	5	dislocated	_	_
 5	μπορούμε	μπορώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl:relcl	_	_
 6	να	να	SCONJ	_	_	8	mark	_	_
@@ -41,8 +41,8 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 5 dislocated	color:blue
-1	«	«	PUNCT	_	_	9	punct	_	PunctType=Quot
-2	Βέβαια	βέβαια	ADV	_	_	9	advmod	_	_
+1	«	«	PUNCT	_	_	9	punct	_	PunctType=Quot|SpaceAfter=No
+2	Βέβαια	βέβαια	ADV	_	_	9	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	PunctType=Comm
 4	η	ο	DET	_	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	περίπτωση	περίπτωση	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	dislocated	_	_
@@ -51,7 +51,7 @@ The following 7 pairs of parts of speech are connected with `dislocated`: <tt><a
 8	δεν	δεν	PART	_	Polarity=Neg	9	advmod	_	_
 9	μπορεί	μπορώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 10	να	να	SCONJ	_	_	11	mark	_	_
-11	αποκλεισθεί	αποκλείω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	9	csubj	_	_
+11	αποκλεισθεί	αποκλείω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	9	csubj	_	SpaceAfter=No
 12	»	»	PUNCT	_	_	9	punct	_	PunctType=Quot|SpaceAfter=No
 13	.	.	PUNCT	_	_	9	punct	_	PunctType=Peri
 

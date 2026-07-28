@@ -25,4 +25,4 @@ This feature marks gender agreement of the verb with the indirect object or of p
 
 * [abq] _<b>а</b>-пны_ [<b>3SG.M.IO</b>-near] ‘near <b>it</b>’ `Gender[io]=Masc|Number[io]=Sing|Person[io]=3`
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:17 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:54 CEST -->

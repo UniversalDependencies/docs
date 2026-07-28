@@ -9,94 +9,94 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-161 tokens (1%) have a non-empty value of `Typo`.
-131 types (5%) occur at least once with a non-empty value of `Typo`.
-111 lemmas (6%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 12 part-of-speech tags: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (49; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (36; 0% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (15; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (12; 0% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+177 tokens (1%) have a non-empty value of `Typo`.
+141 types (5%) occur at least once with a non-empty value of `Typo`.
+117 lemmas (7%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 12 part-of-speech tags: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (52; 0% instances), <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (42; 0% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> (16; 0% instances), <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> (15; 0% instances), <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> (13; 0% instances), <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="yrl_complin-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-49 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
+52 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (1% of all `VERB` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (49; 100%), <tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (46; 94%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (29; 59%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=3</tt> (25; 51%).
+The most frequent other feature values with which `VERB` and `Typo` co-occurred: <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (52; 100%), <tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (49; 94%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (28; 54%).
 
 `VERB` tokens may have the following values of `Typo`:
 
-* `Yes` (49; 100% of non-empty `Typo`): <em>ipiama, Humbú, Pempisasúa, Yapituú, a, akanhemu, imaasí, imbiú, kapí, karekó</em>
+* `Yes` (52; 100% of non-empty `Typo`): <em>ipiama, Humbú, Pempisasúa, Xamuarpakwári, Xapetika, Xenheẽ, Yapituú, a, akanhemu, imaasí</em>
 
-`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (42) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `VERB`. 100% lemmas (43) occur only with one value of `Typo`.
 
 ### `NOUN`
 
-36 <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Typo`.
+42 <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (33; 92%), <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (24; 67%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (39; 93%), <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (30; 71%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (36; 100% of non-empty `Typo`): <em>kunhãbukú, mirikú, rupirunawa, uka, Mukura, Sumura-etá, ara, así, igara, iní</em>
+* `Yes` (42; 100% of non-empty `Typo`): <em>kaxiwer, kunhã, kunhãbukú, mirikú, rupirunawa, uka, Mukura, Sumura-etá, Tapayuma, ara</em>
 
-`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (27) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (29) occur only with one value of `Typo`.
 
 ### `ADP`
 
-18 <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Typo`.
+19 <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> tokens (1% of all `ADP` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADP` and `Typo` co-occurred: <tt><a href="yrl_complin-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (18; 100%), <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (16; 89%).
+The most frequent other feature values with which `ADP` and `Typo` co-occurred: <tt><a href="yrl_complin-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (19; 100%), <tt><a href="yrl_complin-feat-Rel.html">Rel</a></tt><tt>=EMPTY</tt> (17; 89%).
 
 `ADP` tokens may have the following values of `Typo`:
 
-* `Yes` (18; 100% of non-empty `Typo`): <em>rũ, aresé, pu, suí, aramé, iruma, pipé, rumu</em>
+* `Yes` (19; 100% of non-empty `Typo`): <em>rũ, aresé, pu, suí, aramé, iruma, pipé, rumu</em>
 
 ### `PRON`
 
-15 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
+16 <tt><a href="yrl_complin-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14; 93%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 60%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9; 60%), <tt><a href="yrl_complin-feat-Case.html">Case</a></tt><tt>=Gen</tt> (8; 53%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="yrl_complin-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (15; 94%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 56%), <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9; 56%).
 
 `PRON` tokens may have the following values of `Typo`:
 
-* `Yes` (15; 100% of non-empty `Typo`): <em>maã, i, Nhaã, U, intá, intí, n, se, su</em>
+* `Yes` (16; 100% of non-empty `Typo`): <em>maã, i, Nhaã, U, intá, intí, n, se, su</em>
 
 ### `ADV`
 
-13 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Typo`.
+15 <tt><a href="yrl_complin-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (8; 62%).
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="yrl_complin-feat-PronType.html">PronType</a></tt><tt>=Int</tt> (10; 67%).
 
 `ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (13; 100% of non-empty `Typo`): <em>Maí, inte, Arareneíma, Mairamé, Mamé, Maramé, iramé, maãkití, mené, mumi</em>
+* `Yes` (15; 100% of non-empty `Typo`): <em>Maí, Mairamé, inte, Arareneíma, Mamé, Maramé, iramé, maãkití, mené, mumi</em>
 
 `Typo` seems to be **lexical feature** of `ADV`. 100% lemmas (10) occur only with one value of `Typo`.
 
 ### `PART`
 
-12 <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Typo`.
+13 <tt><a href="yrl_complin-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PART` and `Typo` co-occurred: <tt><a href="yrl_complin-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="yrl_complin-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="yrl_complin-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (10; 83%).
+The most frequent other feature values with which `PART` and `Typo` co-occurred: <tt><a href="yrl_complin-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="yrl_complin-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="yrl_complin-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (10; 77%), <tt><a href="yrl_complin-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (7; 54%).
 
 `PART` tokens may have the following values of `Typo`:
 
-* `Yes` (12; 100% of non-empty `Typo`): <em>Aé, Ti, Aikuré, Intí, Masekúi, inté, maã, p, saĩ, tu</em>
+* `Yes` (13; 100% of non-empty `Typo`): <em>Aé, Ti, p, Aikuré, Intí, Masekúi, inté, maã, saĩ, tu</em>
 
 ### `ADJ`
 
-7 <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Typo`.
+8 <tt><a href="yrl_complin-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
 `ADJ` tokens may have the following values of `Typo`:
 
-* `Yes` (7; 100% of non-empty `Typo`): <em>Iwatí, katú, puranga-itá, puriaisúa, suai, xapanema, xapuriaisúa</em>
+* `Yes` (8; 100% of non-empty `Typo`): <em>Iwatí, katú, menasara, puranga-itá, puriaisúa, suai, xapanema, xapuriaisúa</em>
 
 ### `DET`
 
-5 <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Typo`.
+6 <tt><a href="yrl_complin-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="yrl_complin-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 80%), <tt><a href="yrl_complin-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (3; 60%).
+The most frequent other feature values with which `DET` and `Typo` co-occurred: <tt><a href="yrl_complin-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (5; 83%), <tt><a href="yrl_complin-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (4; 67%).
 
 `DET` tokens may have the following values of `Typo`:
 
-* `Yes` (5; 100% of non-empty `Typo`): <em>muyepé, Maã, amu, riya</em>
+* `Yes` (6; 100% of non-empty `Typo`): <em>muyepé, Maã, amu, paiu, riya</em>
 
 ### `AUX`
 

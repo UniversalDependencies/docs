@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.17 release
 The following people have contributed to making this treebank part of UD: Olesea Caftanatov, Atul Kr. Ojha.
 
 Repository: [UD_Romanian-MolDoRo](https://github.com/UniversalDependencies/UD_Romanian-MolDoRo)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_moldoro217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_moldoro218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 

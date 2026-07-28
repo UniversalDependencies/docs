@@ -22,7 +22,7 @@ The following 12 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 advmod	color:blue
-1	La	la	DET	_	Definite=Def	5	det	_	_
+1	La	la	DET	_	Definite=Def|PronType=Art	5	det	_	_
 2	ĉi	ĉi	PART	_	_	3	advmod	_	_
 3	tie	tie	ADV	_	_	4	advmod	_	_
 4	donata	doni	VERB	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	5	amod	_	_

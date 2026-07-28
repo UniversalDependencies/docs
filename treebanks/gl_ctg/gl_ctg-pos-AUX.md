@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Galician-CTG: POS Tags: `AUX`
 
 There are 12 `AUX` lemmas (0%), 134 `AUX` types (1%) and 2738 `AUX` tokens (2%).
-Out of 16 observed tags, the rank of `AUX` is: 11 in number of lemmas, 7 in number of types and 10 in number of tokens.
+Out of 17 observed tags, the rank of `AUX` is: 11 in number of lemmas, 7 in number of types and 10 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>ser, poder, estar, deber, haber, ter, ir, seguir, deixar, vir</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="gl_ctg-pos-AUX.
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 11.166667 (the average of all parts of speech is 1.523050).
+The form / lemma ratio of `AUX` is 11.166667 (the average of all parts of speech is 1.522661).
 
 The 1st highest number of forms (25) was observed with the lemma “ser”: <em>Fomos, era, eran, es, foi, for, fora, foran, foron, fose, fosen, fun, sendo, ser, seremos, seren, será, serán, sería, serían, sexa, sexan, somos, son, é</em>.
 
@@ -64,17 +64,19 @@ The 3rd highest number of forms (18) was observed with the lemma “estar”: <e
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 2 different relations: <tt><a href="gl_ctg-dep-cop.html">cop</a></tt> (1540; 56% instances), <tt><a href="gl_ctg-dep-aux.html">aux</a></tt> (1198; 44% instances)
+`AUX` nodes are attached to their parents using 3 different relations: <tt><a href="gl_ctg-dep-cop.html">cop</a></tt> (1540; 56% instances), <tt><a href="gl_ctg-dep-aux.html">aux</a></tt> (1197; 44% instances), <tt><a href="gl_ctg-dep-conj.html">conj</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (1396; 51% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (614; 22% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (521; 19% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (151; 6% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (18; 1% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (6; 0% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (4; 0% instances)
+Parents of `AUX` nodes belong to 11 different parts of speech: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (1398; 51% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (630; 23% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (613; 22% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (22; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (20; 1% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (16; 1% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (7; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (4; 0% instances)
 
-2697 (99%) `AUX` nodes are leaves.
+2695 (98%) `AUX` nodes are leaves.
 
-41 (1%) `AUX` nodes have one child.
+42 (2%) `AUX` nodes have one child.
 
-The highest child degree of a `AUX` node is 1.
+1 (0%) `AUX` nodes have two children.
 
-Children of `AUX` nodes are attached using 2 different relations: <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (39; 95% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (2; 5% instances)
+The highest child degree of a `AUX` node is 2.
 
-Children of `AUX` nodes belong to 2 different parts of speech: <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (39; 95% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (2; 5% instances)
+Children of `AUX` nodes are attached using 3 different relations: <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (40; 91% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (3; 7% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (1; 2% instances)
+
+Children of `AUX` nodes belong to 3 different parts of speech: <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (40; 91% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (3; 7% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (1; 2% instances)
 

@@ -9,28 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="es_coser-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-9 nodes (0%) are attached to their parents as `acl`.
+5 nodes (0%) are attached to their parents as `acl`.
 
-9 instances of `acl` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.
+5 instances of `acl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.8.
 
-The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (5; 56% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (3; 33% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 11% instances).
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 acl	color:blue
-1	Y	y	CCONJ	cc	_	5	cc	_	_
-2	lo	él	PRON	da0ns0	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	det	_	_
-3	demás	demás	PRON	aq0cn0	Number=Plur|PronType=Ind	0	root	_	_
-4	para	para	ADP	sps00	_	5	mark	_	_
-5	sembrar	sembrar	VERB	vmn0000	VerbForm=Inf	3	acl	_	SpaceAfter=No
-6	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
-
-~~~
+The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (2; 40% instances), <tt><a href="es_coser-pos-PRON.html">PRON</a></tt>-<tt><a href="es_coser-pos-VERB.html">VERB</a></tt> (2; 40% instances), <tt><a href="es_coser-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_coser-pos-ADJ.html">ADJ</a></tt> (1; 20% instances).
 
 
 ~~~ conllu
@@ -53,6 +37,22 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 acl	color:blue
+1	Y	y	CCONJ	cc	_	5	cc	_	_
+2	lo	él	PRON	da0ns0	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	det	_	_
+3	demás	demás	PRON	aq0cn0	Number=Plur|PronType=Ind	0	root	_	_
+4	para	para	ADP	sps00	_	5	mark	_	_
+5	sembrar	sembrar	VERB	vmn0000	VerbForm=Inf	3	acl	_	SpaceAfter=No
+6	.	.	PUNCT	fp	PunctType=Peri	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 25	bgColor:blue
 # visual-style 25	fgColor:white
 # visual-style 22	bgColor:blue
@@ -62,7 +62,7 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 2	cantaban	cantar	VERB	vmii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 3	pues	pues	SCONJ	cs	_	4	mark	_	_
 4	versos	verso	NOUN	ncmp000	Gender=Masc|Number=Plur	2	obj	_	SpaceAfter=No
-5	,	,	PUNCT	fc	PunctType=Comm	2	punct	_	_
+5	,	,	PUNCT	fc	PunctType=Comm	13	punct	_	_
 6	pues	pues	SCONJ	cs	_	8	discourse	_	_
 7	te	tú	PRON	pc2cs000	Case=Acc|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	8	obj	_	_
 8	ponían	poner	VERB	vmii3p0	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	reparandum	_	_
@@ -74,7 +74,7 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 14	pues	pues	SCONJ	cs	_	13	discourse	_	_
 15	muy	mucho	ADV	rg	_	16	advmod	_	_
 16	bien	bien	ADV	rg	_	13	advmod	_	SpaceAfter=No
-17	,	,	PUNCT	fc	PunctType=Comm	13	punct	_	_
+17	,	,	PUNCT	fc	PunctType=Comm	19	punct	_	_
 18	muy	mucho	ADV	rg	_	19	advmod	_	_
 19	bien	bien	ADV	rg	_	13	advmod	_	SpaceAfter=No
 20	,	,	PUNCT	fc	PunctType=Comm	19	punct	_	_
@@ -82,7 +82,7 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 22	versos	verso	NOUN	ncmp000	Gender=Masc|Number=Plur	13	obl	_	_
 23	que	que	SCONJ	pr0cn000	_	25	nsubj	_	_
 24	eras	ser	AUX	vsii2s0	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	25	cop	_	_
-25	maravillosa	maravillosa	ADJ	aq0fs0	Gender=Fem|Number=Sing	22	acl	_	_
+25	maravillosa	maravilloso	ADJ	aq0fs0	Gender=Fem|Number=Sing	22	acl	_	_
 26	y	y	CCONJ	cc	_	30	cc	_	_
 27	que	que	SCONJ	pr0cn000	_	30	mark	_	_
 28	eras	ser	AUX	vsii2s0	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	30	aux	_	_
@@ -100,12 +100,12 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 40	de	de	ADP	sps00	_	41	case	_	_
 41	estas	este	PRON	dd0fp0	Gender=Fem|Number=Plur|PronType=Dem	39	nmod	_	_
 42	y	y	CCONJ	cc	_	46	cc	_	SpaceAfter=No
-43	,	,	PUNCT	fc	PunctType=Comm	46	punct	_	_
+43	,	,	PUNCT	fc	PunctType=Comm	42	punct	_	_
 44	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	46	punct	_	SpaceAfter=No
 45	no	no	ADV	rn	Polarity=Neg	46	advmod	_	_
 46	sabes	saber	VERB	vmip2s0	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	30	conj	_	SpaceAfter=No
 47	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	46	punct	_	SpaceAfter=No
-48	,	,	PUNCT	fc	PunctType=Comm	46	punct	_	_
+48	,	,	PUNCT	fc	PunctType=Comm	49	punct	_	_
 49	muy	mucho	ADV	rg	_	46	advmod	_	_
 50	así	así	ADV	rg	_	46	advmod	_	SpaceAfter=No
 51	...	...	PUNCT	_	PunctType=Comm	2	punct	_	_

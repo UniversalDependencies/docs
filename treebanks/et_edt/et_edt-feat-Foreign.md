@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (28; 100% of non-empty `Foreign`): <em>Bullshit, Content, Disk, Help, Quality, Scramble, Self, System, acid, chef</em>
-* `EMPTY` (115671): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
+* `EMPTY` (115652): <em>aasta, aastal, aastat, raha, osa, krooni, korda, ajal, sissetulekute, mõju</em>
 
 `Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (28) occur only with one value of `Foreign`.
 

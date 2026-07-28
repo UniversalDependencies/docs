@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Galician-CTG: POS Tags: `ADV`
 
-There are 380 `ADV` lemmas (3%), 380 `ADV` types (2%) and 3350 `ADV` tokens (2%).
-Out of 16 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
+There are 381 `ADV` lemmas (3%), 381 `ADV` types (2%) and 3350 `ADV` tokens (2%).
+Out of 17 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>máis, tamén, así, xa, tanto, aínda, só, moi, dentro, ademais</em>
 
@@ -46,14 +46,14 @@ The 10 most frequent ambiguous types:  <em>tanto</em> (<tt><a href="gl_ctg-pos-A
   * <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Por outro lado , o gráfico 12 demostra que , a o marxe de as intensas flutuacións sufridas por os dous fluxos de comercio exterior , tanto as ventas <b>como</b> as compras en os mercados internacionais crecen a un ritmo moi superior a o de a produción doméstica .</em>
 * <em>arredor</em>
   * <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> 9: <em>O valor engadido medio de o complexo pesqueiro en a Galicia costeira sitúa se <b>arredor</b> de o 15 % de o valor engadido total de dito espacio costeiro .</em>
-  * <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> 2: <em>Isto implica a necesidade de contar con mecanismos de análise de a realidade social e de a realidade xuvenil que lles proporcionen ás entidades unha visión en permanente actualización sobre o que acontece a o seu <b>arredor</b> .</em>
+  * <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> 2: <em>Isto implica a necesidade de contar con mecanismos de análise de a realidade social e de a realidade xuvenil que lles proporcionen a as entidades unha visión en permanente actualización sobre o que acontece a o seu <b>arredor</b> .</em>
 * <em>igual</em>
   * <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> 10: <em>Algúns de eles orixinan , ademais , un agravio comparativo , porque a restricción non existe de <b>igual</b> maneira para todas as comunidades autónomas .</em>
   * <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> 7: <em>A o <b>igual</b> ca en o comercio tradicional , en os mercados electrónicos destaca tamén o primeiro de eles en ter me os de volume de transaccións e ritmo de crecemento .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.523050).
+The form / lemma ratio of `ADV` is 1.000000 (the average of all parts of speech is 1.522661).
 
 The 1st highest number of forms (2) was observed with the lemma “igual”: <em>igual, igualmente</em>.
 
@@ -72,21 +72,21 @@ Examples: <em>máis, tamén, así, xa, tanto, aínda, só, moi, dentro, ademais<
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 12 different relations: <tt><a href="gl_ctg-dep-case.html">case</a></tt> (1756; 52% instances), <tt><a href="gl_ctg-dep-advmod.html">advmod</a></tt> (1400; 42% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (114; 3% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (25; 1% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (17; 1% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (13; 0% instances), <tt><a href="gl_ctg-dep-root.html">root</a></tt> (12; 0% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (8; 0% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 12 different relations: <tt><a href="gl_ctg-dep-advmod.html">advmod</a></tt> (1933; 58% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (1192; 36% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (114; 3% instances), <tt><a href="gl_ctg-dep-conj.html">conj</a></tt> (34; 1% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (23; 1% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (14; 0% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (13; 0% instances), <tt><a href="gl_ctg-dep-root.html">root</a></tt> (13; 0% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (10; 0% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (2; 0% instances), <tt><a href="gl_ctg-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="gl_ctg-dep-obj.html">obj</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (1913; 57% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (741; 22% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (472; 14% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (60; 2% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (50; 1% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (45; 1% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (32; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (13; 0% instances),  (12; 0% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (10; 0% instances), <tt><a href="gl_ctg-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (1922; 57% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (738; 22% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (517; 15% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (50; 1% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (48; 1% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (22; 1% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (14; 0% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (13; 0% instances),  (13; 0% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="gl_ctg-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="gl_ctg-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-2604 (78%) `ADV` nodes are leaves.
+2584 (77%) `ADV` nodes are leaves.
 
-497 (15%) `ADV` nodes have one child.
+507 (15%) `ADV` nodes have one child.
 
-173 (5%) `ADV` nodes have two children.
+185 (6%) `ADV` nodes have two children.
 
-76 (2%) `ADV` nodes have three or more children.
+74 (2%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 6.
 
-Children of `ADV` nodes are attached using 14 different relations: <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (638; 57% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (141; 13% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (103; 9% instances), <tt><a href="gl_ctg-dep-advmod.html">advmod</a></tt> (52; 5% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (43; 4% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (40; 4% instances), <tt><a href="gl_ctg-dep-nummod.html">nummod</a></tt> (25; 2% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (21; 2% instances), <tt><a href="gl_ctg-dep-mark.html">mark</a></tt> (13; 1% instances), <tt><a href="gl_ctg-dep-cop.html">cop</a></tt> (12; 1% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (8; 1% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (7; 1% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (2; 0% instances)
+Children of `ADV` nodes are attached using 15 different relations: <tt><a href="gl_ctg-dep-punct.html">punct</a></tt> (627; 55% instances), <tt><a href="gl_ctg-dep-case.html">case</a></tt> (136; 12% instances), <tt><a href="gl_ctg-dep-obl.html">obl</a></tt> (108; 10% instances), <tt><a href="gl_ctg-dep-advmod.html">advmod</a></tt> (51; 4% instances), <tt><a href="gl_ctg-dep-cc.html">cc</a></tt> (47; 4% instances), <tt><a href="gl_ctg-dep-det.html">det</a></tt> (43; 4% instances), <tt><a href="gl_ctg-dep-ccomp.html">ccomp</a></tt> (42; 4% instances), <tt><a href="gl_ctg-dep-nummod.html">nummod</a></tt> (25; 2% instances), <tt><a href="gl_ctg-dep-mark.html">mark</a></tt> (14; 1% instances), <tt><a href="gl_ctg-dep-cop.html">cop</a></tt> (12; 1% instances), <tt><a href="gl_ctg-dep-xcomp.html">xcomp</a></tt> (8; 1% instances), <tt><a href="gl_ctg-dep-conj.html">conj</a></tt> (6; 1% instances), <tt><a href="gl_ctg-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="gl_ctg-dep-dep.html">dep</a></tt> (5; 0% instances), <tt><a href="gl_ctg-dep-nmod.html">nmod</a></tt> (5; 0% instances)
 
-Children of `ADV` nodes belong to 14 different parts of speech: <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (638; 57% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (153; 14% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (82; 7% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (50; 5% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (41; 4% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (39; 4% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (30; 3% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (20; 2% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (14; 1% instances), <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (12; 1% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (10; 1% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt> (4; 0% instances)
+Children of `ADV` nodes belong to 14 different parts of speech: <tt><a href="gl_ctg-pos-PUNCT.html">PUNCT</a></tt> (627; 55% instances), <tt><a href="gl_ctg-pos-ADP.html">ADP</a></tt> (139; 12% instances), <tt><a href="gl_ctg-pos-NOUN.html">NOUN</a></tt> (95; 8% instances), <tt><a href="gl_ctg-pos-ADV.html">ADV</a></tt> (50; 4% instances), <tt><a href="gl_ctg-pos-CCONJ.html">CCONJ</a></tt> (47; 4% instances), <tt><a href="gl_ctg-pos-DET.html">DET</a></tt> (43; 4% instances), <tt><a href="gl_ctg-pos-NUM.html">NUM</a></tt> (40; 4% instances), <tt><a href="gl_ctg-pos-VERB.html">VERB</a></tt> (30; 3% instances), <tt><a href="gl_ctg-pos-PRON.html">PRON</a></tt> (17; 1% instances), <tt><a href="gl_ctg-pos-SCONJ.html">SCONJ</a></tt> (14; 1% instances), <tt><a href="gl_ctg-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="gl_ctg-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="gl_ctg-pos-ADJ.html">ADJ</a></tt> (6; 1% instances), <tt><a href="gl_ctg-pos-PART.html">PART</a></tt> (4; 0% instances)
 

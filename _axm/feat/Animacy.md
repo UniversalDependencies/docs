@@ -13,25 +13,25 @@ udver: '2'
 </tr>
 </table>
 
-In Middle Armenian animacy is a lexical feature of [nouns](NOUN) and some [pronouns](PRON). Note that since release 2.3 we distinguish two values, human vs. non-human.
+In Middle Armenian, animacy is a lexical feature of [nouns](NOUN) and some [pronouns](PRON). Since release 2.3 we distinguish two values: `Hum` and `Nhum`.
 
 See also the related feature of [Definite]().
 
 ### <a name="Hum">`Hum`</a>: human
 
-A subset of animates that only includes human beings (fictional characters, names of professions and personified characters)
-but not animals (there may be exceptions that do not fit the class semantically but belong to it grammatically).
+A subset of animate nouns that includes only human beings (fictional characters, names of professions, and personified characters), but not animals (there may be exceptions that do not fit the class semantically, but belong to it grammatically).
 
 #### Examples
 
-* _մարդ/mard_ “man”, _երեխա(յ)/erexa_ “child”, _տղա(յ)/tġa_ “boy”, _այրիկ/ayrik_ “husband”, _ուսուցիչ/owsowc’ič_ “teacher”, _թագավոր/t’agavor_ “king”, _պայլ/payl_ “prince”
+* _մարդ_/_mard_ “man”, _երեխա(յ)_/_erexa_ “child”, _տղա(յ)_/_tġa_ “boy”, _այրիկ_/_ayrik_ “husband”, _թագաւոր_/_t’agawor_ “king”, _պայլ_/_payl_ “prince”
+
 
 ### <a name="Nhum">`Nhum`</a>: non-human
 
-This value in Middle Armenian is used for non-human animates (incl. animals) and inanimates .
+This value is used for all non-human referents, including both animals and inanimate entities.
 
 #### Examples
 
-* _տարի/tari_ “year”, _դարպաս_ “palace, court”, _լեռ_ “mountain”, _ծառ_ “tree”
-* _ձի_ “horse”, _կով_ “cow”, _առուծ_ “lion”, _խաչափար_ “crawfish”, _ձուկ_ “fish”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:01 CET -->
+* _տարի_/_tari_ “year”, _դարպաս_/_darpas_ “palace, court”, _լեռ_/_leṙ_ “mountain”, _ծառ_/_çaṙ_ “tree”
+* _ձի_/_ji_ “horse”, _կով_/_kov_ “cow”, _առուծ_/_aṙowç_ “lion”, _խաչափար_/_xačap’ar_ “crawfish”, _ձուկ_/_jowk_ “fish”
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:42 CEST -->

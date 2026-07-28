@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.287707).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 2.287810).
 
 The 1st highest number of forms (1) was observed with the lemma “,”: <em>,</em>.
 
@@ -36,7 +36,7 @@ The 3rd highest number of forms (1) was observed with the lemma “:”: <em>:</
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="xcl_caval-dep-punct.html">punct</a></tt> (14536; 100% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (9827; 68% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1968; 14% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (796; 5% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (673; 5% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (440; 3% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (409; 3% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (109; 1% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt> (74; 1% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (60; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (59; 0% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (48; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (28; 0% instances), <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (24; 0% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="xcl_caval-pos-X.html">X</a></tt> (10; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (9829; 68% instances), <tt><a href="xcl_caval-pos-NOUN.html">NOUN</a></tt> (1968; 14% instances), <tt><a href="xcl_caval-pos-ADJ.html">ADJ</a></tt> (797; 5% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (672; 5% instances), <tt><a href="xcl_caval-pos-PROPN.html">PROPN</a></tt> (440; 3% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (409; 3% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (107; 1% instances), <tt><a href="xcl_caval-pos-INTJ.html">INTJ</a></tt> (74; 1% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (60; 0% instances), <tt><a href="xcl_caval-pos-NUM.html">NUM</a></tt> (59; 0% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (48; 0% instances), <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (28; 0% instances), <tt><a href="xcl_caval-pos-CCONJ.html">CCONJ</a></tt> (24; 0% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="xcl_caval-pos-X.html">X</a></tt> (10; 0% instances)
 
 14536 (100%) `PUNCT` nodes are leaves.
 

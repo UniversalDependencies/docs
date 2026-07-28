@@ -1,35 +1,33 @@
 ---
 layout: base
-title:  'Statistics of aux in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of aux in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: Relations: `aux`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: Relations: `aux`
 
 This relation is universal.
 
-113 nodes (1%) are attached to their parents as `aux`.
+196 nodes (1%) are attached to their parents as `aux`.
 
-98 instances of `aux` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.30973451327434.
+179 instances of `aux` (91%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.20918367346939.
 
-The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (90; 80% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (14; 12% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (5; 4% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (2; 2% instances).
+The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt>-<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> (165; 84% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> (14; 7% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt>-<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> (7; 4% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> (6; 3% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt>-<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt>-<tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 aux	color:blue
-1	Wan	wan	CCONJ	_	_	2	cc	2:cc	NormalizedForm=wan|NormalizedLemma=wan
-2	kitsahtsilihtok	tsahtsilia	VERB	_	Aspect=Prog|Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	NormalizedForm=kitsahtsilihtok|NormalizedLemma=tsahtsilia|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran
-3	n	in	DET	_	_	4	det	4:det	NormalizedForm=n|NormalizedLemma=in
-4	irana	rana	NOUN	_	Foreign=Yes|Gender=Fem|Number=Sing	2	obj	2:obj	NormalizedForm=irana|NormalizedLemma=rana|Number[psor]=Sing|Person[psor]=3
-5	mach	mach	AUX	_	_	7	aux	7:aux	NormalizedForm=mach|NormalizedLemma=mach
-6	kanih	kani	ADV	_	_	7	advmod	7:advmod	NormalizedForm=kanih|NormalizedLemma=kani
-7	kah	katki	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	2:ccomp	NormalizedForm=kah|NormalizedLemma=katki|Number[subj]=Sing|Person[subj]=3|SpaceAfter=No|Subcat=Intr
-8	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.|NormalizedLemma=.
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 aux	color:blue
+1	Oc	oc	AUX	_	_	2	aux	2:aux	_
+2	nicpixtoc	piya	VERB	_	_	0	root	0:root	_
+3	in	in	DET	_	_	4	det	4:det	_
+4	machite	machite	NOUN	_	_	2	obj	2:obj	_
+5	tlen	tlen	PRON	_	PronType=Prs	6	nsubj	6:nsubj	_
+6	otinechtlaocole	tlaocolia	VERB	_	Mood=Ind|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=1|Person[subj]=2|Tense=Past	4	acl	4:acl	_
 
 ~~~
 
@@ -52,19 +50,18 @@ The following 5 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 aux	color:blue
-1	kinih	kinih	ADV	_	_	5	advmod	5:advmod	NormalizedForm=kinih|NormalizedLemma=kinih
-2	o	o	AUX	_	_	5	aux	5:aux	NormalizedForm=o|NormalizedLemma=o
-3	katka	katki	AUX	_	Aspect=Imp|Tense=Past	5	cop	5:cop	NormalizedForm=katka|NormalizedLemma=katki|Number[subj]=Plur|Person[subj]=3|Subcat=Intr
-4	n	in	DET	_	_	5	det	5:det	NormalizedForm=n|NormalizedLemma=n
-5	tikitl	tikitl	NOUN	_	Case=Abs|Number=Sing	0	root	0:root	NormalizedForm=tikitl|NormalizedLemma=tikitl
-6	n	in	DET	_	_	7	det	7:det	NormalizedForm=n|NormalizedLemma=n
-7	canadá	canadá	PROPN	_	_	5	obl	5:obl	NormalizedForm=canadá|NormalizedLemma=canadá|SpaceAfter=No
-8	?	?	PUNCT	_	_	5	punct	5:punct	NormalizedForm=?|NormalizedLemma=?
+# visual-style 2 3 aux	color:blue
+1	¿	¿	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
+2	Canih	cani	ADV	_	_	0	root	0:root	_
+3	o	catqui	AUX	_	_	2	aux	2:aux	_
+4	catca	catqui	AUX	_	_	2	cop	2:cop	_
+5	Juan	uan	PROPN	_	Foreign=Yes	2	nsubj	2:nsubj	_
+6	Yalua	yalua	ADV	_	_	2	advmod	2:advmod	SpaceAfter=No
+7	?	?	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
 
 ~~~
 

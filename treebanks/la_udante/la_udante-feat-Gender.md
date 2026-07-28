@@ -11,8 +11,8 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
 23125 tokens (42%) have a non-empty value of `Gender`.
 8420 types (70%) occur at least once with a non-empty value of `Gender`.
-4090 lemmas (73%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (10040; 18% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3969; 7% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (3593; 6% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2326; 4% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2064; 4% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (1009; 2% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (116; 0% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (8; 0% instances).
+4089 lemmas (73%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 8 part-of-speech tags: <tt><a href="la_udante-pos-NOUN.html">NOUN</a></tt> (10040; 18% instances), <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> (3968; 7% instances), <tt><a href="la_udante-pos-DET.html">DET</a></tt> (3593; 6% instances), <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (2327; 4% instances), <tt><a href="la_udante-pos-PRON.html">PRON</a></tt> (2064; 4% instances), <tt><a href="la_udante-pos-PROPN.html">PROPN</a></tt> (1009; 2% instances), <tt><a href="la_udante-pos-NUM.html">NUM</a></tt> (116; 0% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (8; 0% instances).
 
 ### `NOUN`
 
@@ -38,19 +38,19 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>offitium</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (1859) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (1858) occur only with one value of `Gender`.
 
 ### `ADJ`
 
-3969 <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
+3968 <tt><a href="la_udante-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="la_udante-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (3568; 90%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3382; 85%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2800; 71%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="la_udante-feat-NameType.html">NameType</a></tt><tt>=EMPTY</tt> (3567; 90%), <tt><a href="la_udante-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3380; 85%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2798; 71%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
 * `Fem` (1213; 31% of non-empty `Gender`): <em>prima, propria, humane, divine, secunda, divina, humana, universalis, propriam, publice</em>
-* `Masc` (1316; 33% of non-empty `Gender`): <em>primo, Romanorum, romanus, romani, secundo, quarto, primus, Latinorum, pius, primi</em>
-* `Neut` (1440; 36% of non-empty `Gender`): <em>humanum, manifestum, necesse, verum, illustre, falsum, inpossibile, primum, impossibile, digna</em>
+* `Masc` (1313; 33% of non-empty `Gender`): <em>primo, Romanorum, romanus, romani, secundo, quarto, primus, Latinorum, pius, primi</em>
+* `Neut` (1442; 36% of non-empty `Gender`): <em>humanum, manifestum, necesse, verum, illustre, falsum, inpossibile, primum, impossibile, digna</em>
 * `EMPTY` (1): <em>nequam</em>
 
 <table>
@@ -71,7 +71,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
   <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>primorum</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurA</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>prima</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurA</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="la_udante-feat-Proper.html">Proper</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>Prima</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>primus</em></td><td></td><td><em>primum</em></td></tr>
+  <tr><td><tt><tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_udante-feat-InflClass.html">InflClass</a></tt><tt>=IndEurO</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>primus, primi</em></td><td></td><td><em>primum</em></td></tr>
 </table>
 
 ### `DET`
@@ -103,14 +103,14 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 ### `VERB`
 
-2326 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (28% of all `VERB` tokens) have a non-empty value of `Gender`.
+2327 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (28% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2326; 100%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2326; 100%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2326; 100%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2326; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1633; 70%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1485; 64%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2327; 100%), <tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2327; 100%), <tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2327; 100%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2327; 100%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1634; 70%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Pass</tt> (1486; 64%).
 
 `VERB` tokens may have the following values of `Gender`:
 
 * `Fem` (518; 22% of non-empty `Gender`): <em>recta, considerata, diversas, facta, querenda, detecta, existente, adiuta, assumpta, contexta</em>
-* `Masc` (855; 37% of non-empty `Gender`): <em>dicens, existente, factus, usi, dicentes, dicentem, loquens, poetati, volentes, agens</em>
+* `Masc` (856; 37% of non-empty `Gender`): <em>dicens, existente, factus, usi, dicentes, dicentem, loquens, poetati, volentes, agens</em>
 * `Neut` (953; 41% of non-empty `Gender`): <em>consequens, dictum, sciendum, dicendum, converso, factum, dicta, consequentis, loquendo, canenda</em>
 * `EMPTY` (5908): <em>potest, patet, habet, dicimus, videtur, dicit, dico, habere, oportet, dicitur</em>
 
@@ -248,8 +248,8 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="la_udante-dep-acl.html">acl</a></tt>]--> VERB</tt> (421; 91%),
 <tt>NOUN --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> NOUN</tt> (362; 54%),
 <tt>ADJ --[<tt><a href="la_udante-dep-conj.html">conj</a></tt>]--> ADJ</tt> (260; 94%),
-<tt>ADJ --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (160; 95%),
-<tt>NOUN --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> PRON</tt> (105; 94%),
+<tt>ADJ --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (159; 95%),
+<tt>NOUN --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> PRON</tt> (105; 93%),
 <tt>ADJ --[<tt><a href="la_udante-dep-det.html">det</a></tt>]--> DET</tt> (84; 97%),
 <tt>PROPN --[<tt><a href="la_udante-dep-amod.html">amod</a></tt>]--> ADJ</tt> (83; 94%),
 <tt>ADJ --[<tt><a href="la_udante-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (81; 92%).

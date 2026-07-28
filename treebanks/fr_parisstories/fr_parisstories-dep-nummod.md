@@ -23,13 +23,13 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 5	fgColor:white
 # visual-style 5 4 nummod	color:blue
 1	et	et	CCONJ	_	_	5	cc	_	_
-2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	SpaceAfter=No
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	5	nsubj	_	Exponence[Gender]=Inherent|Exponence[Number]=Inherent|Exponence[Person]=Inherent|SpaceAfter=No
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	soixante-quinze	soixante-quinze	NUM	_	_	5	nummod	_	Number[lex]=Plur
-5	grammes	gramme	NOUN	_	_	0	root	_	Gender[lex]=Masc|Number[ctxt]=Plur
+4	soixante-quinze	soixante-quinze	NUM	_	Number=Plur	5	nummod	_	Exponence[Number]=Inherent
+5	grammes	gramme	NOUN	_	Gender=Masc|Number=Plur	0	root	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 6	de	de	ADP	_	_	7	case	_	_
-7	beurre	beurre	NOUN	_	_	5	nmod	_	Gender[lex]=Masc|Number[ctxt]=Sing|SpaceAfter=No
-8	,	,	PUNCT	_	_	5	punct	_	_
+7	beurre	beurre	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
@@ -43,27 +43,27 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	et	et	CCONJ	_	_	10	cc	_	_
 2	donc	donc	ADV	_	_	10	discourse	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	HasSpokenGender=OnlySingExceptWithLiaison
 5	deux	deux	NUM	_	_	6	nummod	_	_
-6	premières	premier	ADJ	_	Gender=Fem	7	amod	_	Number[ctxt]=Plur
-7	semaines	semaine	NOUN	_	_	10	obl:mod	_	Gender[lex]=Fem|Number[ctxt]=Plur|SpaceAfter=No
+6	premières	premier	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	Exponence[Number]=Absent|HasSpokenGender=YesExceptSingWithLiaison|HasSpokenNumber=OnlyWithLiaison
+7	semaines	semaine	NOUN	_	Gender=Fem|Number=Plur	10	obl:mod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 8	,	,	PUNCT	_	_	7	punct	_	_
-9	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
-10	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	je	moi	PRON	_	Case=Nom|Emph=No|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	Exponence[Number]=Inherent|Exponence[Person]=Inherent
+10	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	Exponence[Person]=Absent
 11	à	à	ADP	_	_	12	mark	_	_
 12	aller	aller	VERB	_	VerbForm=Inf	10	xcomp	_	Subject=SubjRaising
 13	à	à	ADP	_	_	15	case	_	_
-14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	salle	salle	NOUN	_	_	12	obl:arg	_	Gender[lex]=Fem|Number[ctxt]=Sing
+14	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	HasSpokenGender=OnlySingExceptWithLiaison
+15	salle	salle	NOUN	_	Gender=Fem|Number=Sing	12	obl:arg	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 16	de	de	ADP	_	_	15	compound	_	_
-17	sport	sport	NOUN	_	_	16	compound	_	Gender[lex]=Masc|Number[ctxt]=Sing|SpaceAfter=No
+17	sport	sport	NOUN	_	Gender=Masc|Number=Sing	16	compound	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 18	,	,	PUNCT	_	_	22	punct	_	_
 19	donc	donc	ADV	_	_	22	discourse	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	19	punct	_	_
 21	à	à	ADP	_	_	22	mark	_	_
 22	prendre	prendre	VERB	_	VerbForm=Inf	12	conj	_	Subject=SubjRaising
-23	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	24	det	_	_
-24	marques	marque	NOUN	_	_	22	obj	_	Gender[lex]=Fem|Number[ctxt]=Plur
+23	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	24	det	_	HasSpokenGender=OnlySingExceptWithLiaison
+24	marques	marque	NOUN	_	Gender=Fem|Number=Plur	22	obj	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 25	etc	etc	ADV	_	_	24	conj	_	SpaceAfter=No|wordform=etcétéra
 26	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -81,8 +81,8 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 3	,	,	PUNCT	_	_	4	punct	_	AlignBegin=58963|AlignEnd=58963
 4	euh	euh	INTJ	_	_	2	discourse	_	AlignBegin=58963|AlignEnd=59337|SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	AlignBegin=59337|AlignEnd=59337
-6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=59337|AlignEnd=59710
-7	génération	génération	NOUN	_	_	0	root	_	AlignBegin=59710|AlignEnd=60083|Gender[lex]=Fem|Number[ctxt]=Sing|SpaceAfter=No
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=59337|AlignEnd=59710|HasSpokenGender=OnlySingExceptWithLiaison
+7	génération	génération	NOUN	_	Gender=Fem|Number=Sing	0	root	_	AlignBegin=59710|AlignEnd=60083|Exponence[Gender]=Inherent|Exponence[Number]=Absent|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	AlignBegin=60083|AlignEnd=60083
 9	euh	euh	INTJ	_	_	7	discourse	_	AlignBegin=60083|AlignEnd=60456
 10	…	…	PUNCT	_	_	7	punct	_	AlignBegin=60456|AlignEnd=60456

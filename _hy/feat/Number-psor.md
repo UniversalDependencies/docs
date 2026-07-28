@@ -13,30 +13,26 @@ udver: '2'
 </tr>
 </table>
 
-Possessives may have two different numbers: that of the possessed object (number
-agreement with modified noun) and that of the possessor. The
-`Number[psor]` feature captures the possessor's number. 
+Possessives may have two different numbers: that of the possessed object (number agreement with modified noun) and that of the possessor. The `Number[psor]` feature captures the possessor's number. 
 
-Note that in traditional Armenian grammars besides the definite article, possessive, demonstrative and personal articles (suffixes) are distinguished. These make a distinction between the objects, that are near to the speaker (proximal, first person), near to the addressee (second person), and far from both (third person) or are possessed to them. We do not distinguish them as separate features.
+Note that in traditional Armenian grammars, in addition to the definite article, possessive, demonstrative and personal articles (suffixes) are distinguished. These articles distinguish whether the referent is near the speaker (proximal, first person), near the addressee (second person), or far from both (third person), and they also express possession.
 
-See also the relatived feature [Person[psor]]().
+See also the related feature [Person[psor]]().
 
 ### <a name="Sing">`Sing`</a>: singular possessor
 
 #### Examples
 
-* _տուն<b>ս</b>_ “<b>my</b> house” `Number[psor]=Sing|Number=Sing`
-* _տներ<b>ս</b>_ “<b>my</b> houses” `Number[psor]=Sing|Number=Plur`
-* _գալ<b>ս</b>_ “<b>my</b> coming” `Number[psor]=Sing|Number=Coll`
-* _ինք<b>ս</b>_ “<b>I myself</b>” `Number[psor]=Sing|Number=Sing`
-* _հետ<b>ս</b>_ “with <b>me</b>” `Number[psor]=Sing`
+* _տուն<b>ս</b>_/_town<b>s</b>_ “<b>my</b> house” `Number[psor]=Sing|Number=Sing`
+* _տներ<b>ս</b>_/_tner<b>s</b>_ “<b>my</b> houses” `Number[psor]=Sing|Number=Plur`
+* _գալ<b>ս</b>_/_gal<b>s</b>_ “<b>my</b> coming” `Number[psor]=Sing|Number=Coll`
+* _հետ<b>ս</b>_/_het<b>s</b>_ “with <b>me</b>” `Number[psor]=Sing`
 
 ### <a name="Plur">`Plur`</a>: plural possessor
 
 #### Examples
 
-* _տուն<b>ներս</b>_ “<b>our</b> houses” `Number[psor]=Plur|Number=Plur`
-* _գալ<b>ներս</b>_ “<b>our</b> coming” `Number[psor]=Plur|Number=Coll`
-* _ինք<b>ներս</b>_ “<b>we ourselves</b>” `Number[psor]=Plur|Number=Sing`
-* _հետ<b>ներս</b>_ “with <b>us</b>” `Number[psor]=Plur`
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:31 CET -->
+* _տուն<b>ներս</b>_/_town<b>ners</b>_ “<b>our</b> houses” `Number[psor]=Plur|Number=Plur`
+* _գալ<b>ներս</b>_/_gal<b>ners</b>_ “<b>our</b> coming” `Number[psor]=Plur|Number=Coll`
+* _հետ<b>ներս</b>_/_het<b>ners</b>_ “with <b>us</b>” `Number[psor]=Plur`
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:06 CEST -->

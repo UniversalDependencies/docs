@@ -77,7 +77,7 @@ The following 6 pairs of parts of speech are connected with `ccomp`: <tt><a href
 11	kathathahn	kathathahn	ADV	_	_	9	advmod	9:advmod	_
 12	re	re	PART	REP	_	9	mark	9:mark	_
 13	rungami	rungami	NOUN	_	Number=Sing	0	root	0:root	_
-14	raga	raga	AUX	HORT	Mood=Hort	13	aux	13:aux	SpacesAfter=\n
+14	raga	raga	AUX	HORT	Mood=Hrt	13	aux	13:aux	SpacesAfter=\n
 
 ~~~
 

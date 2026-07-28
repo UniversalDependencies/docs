@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
-The following people have contributed to making this treebank part of UD: Željko Agić, Nikola Ljubešić, Daniel Zeman.
+The following people have contributed to making this treebank part of UD: Tanja Samardžić, Aleksandra Miletić, Nikola Ljubešić, Željko Agić, Daniel Zeman.
 
 Repository: [UD_Croatian-SET](https://github.com/UniversalDependencies/UD_Croatian-SET)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhr_set217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhr_set218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -29,7 +29,7 @@ Genre: news, web, wiki
 Questions, comments?
 General annotation questions (either Croatian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Croatian-SET/issues).
-If you want to collaborate, please contact [zeljko&nbsp;•&nbsp;agic&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
+If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(æt)&nbsp;uzh&nbsp;•&nbsp;ch].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
 Do not submit pull requests against the UD repository.
@@ -105,7 +105,7 @@ See file LICENSE.txt for further licensing information.
 
 ## Features
 
-[Animacy](hr_set-feat-Animacy.html) – [Case](hr_set-feat-Case.html) – [Definite](hr_set-feat-Definite.html) – [Degree](hr_set-feat-Degree.html) – [Foreign](hr_set-feat-Foreign.html) – [Gender](hr_set-feat-Gender.html) – [Gender[psor]](hr_set-feat-Gender-psor.html) – [Mood](hr_set-feat-Mood.html) – [Number](hr_set-feat-Number.html) – [Number[psor]](hr_set-feat-Number-psor.html) – [NumType](hr_set-feat-NumType.html) – [Person](hr_set-feat-Person.html) – [Polarity](hr_set-feat-Polarity.html) – [Poss](hr_set-feat-Poss.html) – [PronType](hr_set-feat-PronType.html) – [Reflex](hr_set-feat-Reflex.html) – [Tense](hr_set-feat-Tense.html) – [VerbForm](hr_set-feat-VerbForm.html) – [Voice](hr_set-feat-Voice.html)
+[Animacy](hr_set-feat-Animacy.html) – [Case](hr_set-feat-Case.html) – [Definite](hr_set-feat-Definite.html) – [Degree](hr_set-feat-Degree.html) – [Foreign](hr_set-feat-Foreign.html) – [Gender](hr_set-feat-Gender.html) – [Mood](hr_set-feat-Mood.html) – [Number](hr_set-feat-Number.html) – [Number[psor]](hr_set-feat-Number-psor.html) – [NumType](hr_set-feat-NumType.html) – [Person](hr_set-feat-Person.html) – [Polarity](hr_set-feat-Polarity.html) – [Poss](hr_set-feat-Poss.html) – [PronType](hr_set-feat-PronType.html) – [Reflex](hr_set-feat-Reflex.html) – [Tense](hr_set-feat-Tense.html) – [VerbForm](hr_set-feat-VerbForm.html) – [Voice](hr_set-feat-Voice.html)
 
 ## Relations
 
@@ -767,25 +767,6 @@ See file LICENSE.txt for further licensing information.
 </ul>
 
 
-<ul>
-  <li><a>Gender[psor]</a></li>
-</ul>
-
-<ul>
-  <li>Fem
-    <ul>
-      <li>DET: njezina, njezine, njezin, njen, njezinu, njezinih, njene, njezino, njezinom, njena</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Masc,Neut
-    <ul>
-      <li>DET: njegova, njegov, njegove, njegovu, njegovim, njegovoj, njegovog, njegovo, njegovih, njegovom</li>
-    </ul>
-  </li>
-</ul>
 
 <ul>
   <li><a>Number[psor]</a></li>

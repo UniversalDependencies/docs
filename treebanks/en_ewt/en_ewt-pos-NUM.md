@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-EWT: POS Tags: `NUM`
 
-There are 1227 `NUM` lemmas (7%), 1243 `NUM` types (5%) and 5051 `NUM` tokens (2%).
+There are 1226 `NUM` lemmas (7%), 1243 `NUM` types (5%) and 5051 `NUM` tokens (2%).
 Out of 17 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 13 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>one, two, 2, 1, 3, 5, 4, 10, million, three</em>
@@ -67,7 +67,7 @@ The 10 most frequent ambiguous types:  <em>one</em> (<tt><a href="en_ewt-pos-NUM
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.013040 (the average of all parts of speech is 1.243456).
+The form / lemma ratio of `NUM` is 1.013866 (the average of all parts of speech is 1.250484).
 
 The 1st highest number of forms (3) was observed with the lemma “billion”: <em>b, billion, bn</em>.
 
@@ -75,12 +75,12 @@ The 2nd highest number of forms (2) was observed with the lemma “'72”: <em>'
 
 The 3rd highest number of forms (2) was observed with the lemma “'73”: <em>'73, ’73</em>.
 
-`NUM` occurs with 5 features: <tt><a href="en_ewt-feat-NumForm.html">NumForm</a></tt> (5036; 100% instances), <tt><a href="en_ewt-feat-NumType.html">NumType</a></tt> (5036; 100% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (84; 2% instances), <tt><a href="en_ewt-feat-ExtPos.html">ExtPos</a></tt> (56; 1% instances), <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (2; 0% instances)
+`NUM` occurs with 5 features: <tt><a href="en_ewt-feat-NumForm.html">NumForm</a></tt> (5036; 100% instances), <tt><a href="en_ewt-feat-NumType.html">NumType</a></tt> (5036; 100% instances), <tt><a href="en_ewt-feat-Abbr.html">Abbr</a></tt> (84; 2% instances), <tt><a href="en_ewt-feat-ExtPos.html">ExtPos</a></tt> (56; 1% instances), <tt><a href="en_ewt-feat-Typo.html">Typo</a></tt> (3; 0% instances)
 
 `NUM` occurs with 8 feature-value pairs: `Abbr=Yes`, `ExtPos=PROPN`, `NumForm=Digit`, `NumForm=Roman`, `NumForm=Word`, `NumType=Card`, `NumType=Frac`, `Typo=Yes`
 
 `NUM` occurs with 9 feature combinations.
-The most frequent feature combination is `NumForm=Digit|NumType=Card` (3719 tokens).
+The most frequent feature combination is `NumForm=Digit|NumType=Card` (3718 tokens).
 Examples: <em>2, 1, 3, 5, 4, 10, 20, 6, 2005, 2003</em>
 
 

@@ -11,7 +11,7 @@ This relation is universal.
 6038 nodes (6%) are attached to their parents as `root`.
 
 6038 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.17240808214641.
+Average distance between parent and child is 5.1730705531633.
 
 The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (4386; 73% instances), -<tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (940; 16% instances), -<tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (535; 9% instances), -<tt><a href="sv_talbanken-pos-PRON.html">PRON</a></tt> (61; 1% instances), -<tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (58; 1% instances), -<tt><a href="sv_talbanken-pos-PROPN.html">PROPN</a></tt> (35; 1% instances), -<tt><a href="sv_talbanken-pos-NUM.html">NUM</a></tt> (17; 0% instances), -<tt><a href="sv_talbanken-pos-INTJ.html">INTJ</a></tt> (4; 0% instances), -<tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="sv_talbanken-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 

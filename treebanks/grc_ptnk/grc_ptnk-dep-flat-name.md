@@ -24,7 +24,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 28 29 flat:name	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_50.11
 2	εἶδον	ὁράω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-see|Ref=GEN_50.11
-3	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	4	det	_	Gloss=the|Ref=GEN_50.11
+3	οἱ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	Gloss=the|Ref=GEN_50.11
 4	κάτοικοι	κάτοικος	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	Gloss=inhabitant|Ref=GEN_50.11
 5	τῆς	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_50.11
 6	γῆς	γῆ	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod:poss	_	Gloss=earth,land|Ref=GEN_50.11
@@ -40,7 +40,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 16	μέγα	μέγας	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	15	amod	_	Gloss=big,great|Ref=GEN_50.11
 17	τοῦτό	οὗτος	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	15	nsubj	_	Gloss=this|Ref=GEN_50.11
 18	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	Gloss=to-be|Ref=GEN_50.11
-19	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Art	20	det	_	Gloss=the|Ref=GEN_50.11
+19	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	Gloss=the|Ref=GEN_50.11
 20	Αἰγυπτίοις	Αἰγύπτιος	PROPN	_	Case=Dat|Gender=Masc|Number=Plur	15	iobj	_	Gloss=Egyptian|Ref=GEN_50.11|SpaceAfter=No
 21	·	·	PUNCT	_	_	22	punct	_	Ref=GEN_50.11
 22	διὰ	διά	ADP	_	_	23	case	_	Gloss=+G=through,by;-+A=because-of|Ref=GEN_50.11
@@ -52,10 +52,10 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 28	Πένθος	πένθος	NOUN	_	Case=Acc,Nom|Gender=Neut|Number=Sing	24	xcomp	_	Gloss=mourning|Ref=GEN_50.11
 29	Αἰγύπτου	Αἴγυπτος	PROPN	_	Gender=Fem|Number=Sing	28	flat:name	_	Gloss=Egypt|Ref=GEN_50.11|SpaceAfter=No
 30	,	,	PUNCT	_	_	31	punct	_	Ref=GEN_50.11
-31	ὅ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	35	nsubj	_	Gloss=who,which,that;-+enclitic=the|Ref=GEN_50.11
+31	ὅ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	nsubj	_	Gloss=who,which,that;-+enclitic=the|Ref=GEN_50.11
 32	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	35	cop	_	Gloss=to-be|Ref=GEN_50.11
 33	πέραν	πέραν	ADP	_	_	35	case	_	Gloss=beyond|Ref=GEN_50.11
-34	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	35	det	_	Gloss=the|Ref=GEN_50.11
+34	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	Gloss=the|Ref=GEN_50.11
 35	Ἰορδάνου	Ἰορδάνης	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	28	acl:relcl	_	Gloss=Jordan|Ref=GEN_50.11|SpaceAfter=No
 36	.	.	PUNCT	_	_	35	punct	_	Ref=GEN_50.11
 
@@ -114,15 +114,15 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 20 21 flat:name	color:blue
 1	ἐν	ἐν	ADP	_	_	5	case	_	Gloss=in,on,by,with,to|Ref=GEN_14.5
 2	δὲ	δέ	CCONJ	_	_	6	cc	_	Gloss=but,and,however|Ref=GEN_14.5
-3	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	5	det	_	Gloss=the|Ref=GEN_14.5
+3	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	Gloss=the|Ref=GEN_14.5
 4	τεσσαρεσκαιδεκάτῳ	τεσσαρεσκαιδέκατος	NUM	_	Case=Dat|Gender=Masc,Neut|Number=Sing|NumType=Ord	5	nummod	_	Gloss=fourteenth|Ref=GEN_14.5
 5	ἔτει	ἔτος	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	obl:tmod	_	Gloss=year|Ref=GEN_14.5
 6	ἦλθεν	ἔρχομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-come,go|Ref=GEN_14.5
 7	Χοδολλογομὸρ	Χοδολλογομόρ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Gloss=Chedorlaomer|Ref=GEN_14.5
 8	καὶ	καί	CCONJ	_	_	10	cc	_	Gloss=and,also,even,then,next|Ref=GEN_14.5
-9	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	10	det	_	Gloss=the|Ref=GEN_14.5
-10	βασιλεῖς	βασιλεύς	NOUN	_	Case=Acc,Nom|Gender=Masc|Number=Plur	7	conj	_	Gloss=kings|Ref=GEN_14.5
-11	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	13	nsubj	_	Gloss=the|Ref=GEN_14.5
+9	οἱ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	Gloss=the|Ref=GEN_14.5
+10	βασιλεῖς	βασιλεύς	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	conj	_	Gloss=kings|Ref=GEN_14.5
+11	οἱ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	nsubj	_	Gloss=the|Ref=GEN_14.5
 12	μετ᾿	μετά	ADP	_	_	13	case	_	Gloss=+G=with;-+A=after|Ref=GEN_14.5
 13	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	10	acl:relcl	_	Gloss=he,she,it,-self,same|Ref=GEN_14.5
 14	καὶ	καί	CCONJ	_	_	15	cc	_	Gloss=and,also,even,then,next|Ref=GEN_14.5
@@ -151,7 +151,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 37	Χορραίους	Χορραῖος	PROPN	_	Case=Acc|Gender=Masc|Number=Plur	17	conj	_	Gloss=Horites|Ref=GEN_14.6
 38	τοὺς	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	41	nsubj	_	Gloss=the|Ref=GEN_14.6
 39	ἐν	ἐν	ADP	_	_	41	case	_	Gloss=in,on,by,with,to|Ref=GEN_14.6
-40	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Art	41	det	_	Gloss=the|Ref=GEN_14.6
+40	τοῖς	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	41	det	_	Gloss=the|Ref=GEN_14.6
 41	ὄρεσιν	ὄρος	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	37	acl:relcl	_	Gloss=mountains|Ref=GEN_14.6
 42	Σηὶρ	Σηΐρ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	41	appos	_	Gloss=Seir|Ref=GEN_14.6
 43	ἕως	ἕως	CCONJ	_	_	45	case	_	Gloss=as-far-as,until,up-to|Ref=GEN_14.6
@@ -164,7 +164,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 50	ἐστιν	εἰμί	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	53	cop	_	Gloss=to-be|Ref=GEN_14.6
 51	ἐν	ἐν	ADP	_	_	53	case	_	Gloss=in,on,by,with,to|Ref=GEN_14.6
 52	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	53	det	_	Gloss=the|Ref=GEN_14.6
-53	ἐρήμῳ	ἔρημος	NOUN	_	Case=Dat|Gender=Fem,Masc,Neut|Number=Sing	45	acl:relcl	_	Gloss=wilderness|Ref=GEN_14.6|SpaceAfter=No
+53	ἐρήμῳ	ἔρημος	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	45	acl:relcl	_	Gloss=wilderness|Ref=GEN_14.6|SpaceAfter=No
 54	.	.	PUNCT	_	_	53	punct	_	Ref=GEN_14.6
 
 ~~~

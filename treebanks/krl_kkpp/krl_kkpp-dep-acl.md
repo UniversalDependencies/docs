@@ -74,7 +74,7 @@ The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="
 17	festivalih	festivali	NOUN	NOUN	Case=Ill|Number=Sing	16	obl	_	_
 18	rahvahan-	rahvaš	NOUN	NOUN	Case=Gen|Number=Sing	16	obj	_	_
 19	ta	ta	CCONJ	CCONJ	_	20	cc	_	_
-20	folkloriteatterija	folklori#teatteri	NOUN	NOUN	Case=Par|Number=Plur	16	obj	_	SpaceAfter=No
+20	folkloriteatterija	folklori#teatteri	NOUN	NOUN	Case=Par|Number=Plur	18	conj	_	SpaceAfter=No
 21	,	,	PUNCT	PUNCT	_	22	punct	_	_
 22	tanšši-	tanšši	NOUN	NOUN	Case=Nom|Number=Sing	20	conj	_	SpaceAfter=No
 23	,	,	PUNCT	PUNCT	_	24	punct	_	_

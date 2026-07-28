@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-151 nodes (1%) are attached to their parents as `cop`.
+67 nodes (0%) are attached to their parents as `cop`.
 
-99 instances of `cop` (66%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.60927152317881.
+50 instances of `cop` (75%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.40298507462687.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt> (113; 75% instances), <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt> (24; 16% instances), <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="ha_westernautogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt> (3; 2% instances), <tt><a href="ha_westernautogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt> (52; 78% instances), <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt> (5; 7% instances), <tt><a href="ha_westernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt> (4; 6% instances), <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt> (3; 4% instances), <tt><a href="ha_westernautogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt> (2; 3% instances), <tt><a href="ha_westernautogramm-pos-NUM.html">NUM</a></tt>-<tt><a href="ha_westernautogramm-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,39 +23,18 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 7 cop	color:blue
 1	in	in	SCONJ	_	_	3	mark	_	Gloss=if
-2	ankà	_	AUX	(n)kà	Aspect=PerfBkg|Person=4	3	aux	_	Background=Yes|Gloss=4.PerfBkg
+2	ankà	yaː	AUX	_	Aspect=Perf|Person=4	3	aux	_	Gloss=4.Perf.Rel|Relative=Yes
 3	sàːmu	saːmùː	VERB	_	_	12	advcl	_	Gloss=get
-4	kaːshinsù	kaːshiːsù	NOUN	_	Definite=Cons|Gender=Masc|Number=Plur|Person=3	3	obj	_	Gloss=faeces.Masc.Def.3Plur.Poss|wordform=kaːshîn
+4	kaːshinsù	kaːshiː	NOUN	_	Definite=Cons|Gender=Masc	3	obj	_	CaseAf=Gen|Gloss=faeces.Masc.Def.Cons-3PlurGen|MSeg=kaːshin-sù|NumberAf=Plur|PersonAf=3|Poss=Yes|SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
 6	wandà	wandà	PRON	_	Gender=Masc|PronType=Rel	4	appos	_	Gloss=who.Masc
-7	as	_	AUX	ak	_	8	cop	_	Background=Yes|Gloss=Ident/Foc.Bkg
-8	sàhiːhìː	sàhiːhìː	NOUN	_	Definite=Ind|Gender=Masc	6	acl:relcl	_	Gloss=good_health.Masc
+7	as	neː	AUX	_	_	8	cop	_	Copula=Yes|Gloss=Ident/Foc.Rel|Relative=Yes
+8	sàhiːhìː	sàhiːhìː	NOUN	_	Gender=Masc	6	acl:relcl	_	Gloss=good_health.Masc|SpaceAfter=No
 9	,	,	PUNCT	_	_	3	punct	_	Gloss=PUNCT
 10	sai	sai	ADV	_	_	12	advmod	_	Gloss=then
-11	à	_	AUX	ø	Aspect=Aor|Person=4	12	aux	_	Gloss=4.Aor
-12	ajèː	ajèː	VERB	_	_	0	root	_	Gloss=put_aside
+11	à	yà	AUX	_	Mood=Sub|Person=4	12	aux	_	Gloss=4.Sub
+12	ajèː	ajèː	VERB	_	_	0	root	_	Gloss=put_aside|SpaceAfter=No
 13	.	.	PUNCT	_	_	12	punct	_	Gloss=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 cop	color:blue
-1	sunàː	_	AUX	nàː	Number=Plur|Person=3	2	cop	_	Gloss=3Plur.Pred/Loc
-2	nan	nan	ADV	_	Definite=Def|PronType=Dem	0	root	_	Gloss=Def
-3	sunàː	_	AUX	nàː	Aspect=Prog|Number=Plur|Person=3	4	aux	_	Gloss=3Plur.Prog
-4	yîn	yi	VERB	_	Definite=Cons|ExtPos=NOUN|Gender=Masc	2	parataxis	_	Gloss=do.Nmlz.Masc|wordform=yî
-5	hakànan	hakànan	ADV	_	_	4	advmod	_	Gloss=thus|wordform=hakà
-6	,	,	PUNCT	_	_	9	punct	_	Gloss=PUNCT
-7	har̃	har̃	SCONJ	_	_	9	mark	_	Gloss=until
-8	sù	_	AUX	ø	Aspect=Aor|Number=Plur|Person=3	9	aux	_	Gloss=3Plur.Aor
-9	yi	yi	VERB	_	_	4	acl	_	Gloss=do
-10	kwaːnaː	kwaːnaː	VERB	_	ExtPos=NOUN|Gender=Masc	9	xcomp	_	Gloss=spend_night.Nmlz.Masc
-11	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~
 
@@ -67,11 +46,36 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 1	fgColor:white
 # visual-style 1 2 cop	color:blue
 1	shiː	shiː	PRON	_	Gender=Masc|Person=3	0	root	_	Gloss=3Masc
-2	neː	_	AUX	neː	Gender=Masc|Number=Plur	1	cop	_	Gloss=be.Masc/Plur
-3	zuːgàl	zuːgàl	NOUN	_	Definite=Ind	1	dislocated	_	Gloss=love_charm
-4	na	na/ta	ADP	_	_	5	case	_	Gloss=of
-5	maːgàniː	maːgàniː	NOUN	_	Definite=Ind|Gender=Masc	3	nmod	_	Gloss=medicine/charm.Masc
+2	neː	neː	AUX	_	Gender=Masc|Number=Plur	1	cop	_	Copula=Yes|Gloss=be.Masc/Plur
+3	zuːgàl	zuːgàl	NOUN	_	_	1	dislocated	_	Gloss=love_charm
+4	na	na	PART	_	Case=Gen|PartType=Case	5	case	_	Gloss=Gen
+5	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	3	nmod	_	Gloss=medicine/charm.Masc|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 cop	color:blue
+1	sabòːdà	sabòːdà	ADP	_	_	2	case	_	Gloss=because
+2	hakànan	hakànan	ADV	_	_	0	root	_	Gloss=thus|SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	Gloss=PUNCT
+4	ab	neː	AUX	_	_	6	cop	_	Copula=Yes|Gloss=Ident/Foc.Rel|Relative=Yes
+5	bâː’a	nàː	AUX	_	Aspect=Prog|Person=4|Polarity=Neg	6	aux	_	Gloss=4.ProgNeg
+6	mâː	mâː	VERB	_	_	2	advcl:cleft	_	Gloss=do.Dat
+7	màccè	màccè	NOUN	_	Gender=Fem	6	iobj	_	Gloss=female.Fem
+8	maːgàniː	maːgàniː	NOUN	_	Gender=Masc	6	obj	_	Gloss=medicine/charm.Masc|SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	Gloss=PUNCT
+10	sai	sai	ADP	_	_	11	case	_	Gloss=except
+11	waddà	waddà	PRON	_	Gender=Fem|PronType=Rel	6	obl:mod	_	Gloss=who.Fem
+12	akà	nàː	AUX	_	Aspect=Prog|Person=4	13	aux	_	Gloss=4.Prog.Rel|Relative=Yes
+13	sôː	sôː	VERB	_	ExtPos=NOUN|Gender=Masc	11	acl:relcl	_	Gloss=like/love/want.Nmlz.Masc
+14	ƙwar̃ai	ƙwar̃ai	ADV	_	_	13	advmod	_	Gloss=completely|SpaceAfter=No
+15	.	.	PUNCT	_	_	2	punct	_	Gloss=PUNCT
 
 ~~~
 

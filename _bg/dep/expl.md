@@ -34,4 +34,4 @@ expl(started-4, REFL-3)
 ~~~
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:52 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:07 CEST -->

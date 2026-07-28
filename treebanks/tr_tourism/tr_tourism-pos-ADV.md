@@ -6,90 +6,87 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-Tourism: POS Tags: `ADV`
 
-There are 177 `ADV` lemmas (6%), 201 `ADV` types (4%) and 7280 `ADV` tokens (8%).
+There are 137 `ADV` lemmas (6%), 143 `ADV` types (3%) and 6366 `ADV` tokens (7%).
 Out of 15 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 5 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>çok, ol, daha, biraz, gayet, hiç, sadece, özellikle, pek, kesinlikle</em>
+The 10 most frequent `ADV` lemmas: <em>çok, daha, biraz, gayet, hiç, sadece, özellikle, pek, kesinlikle, en</em>
 
-The 10 most frequent `ADV` types:  <em>ÇOK, OLARAK, DAHA, BİRAZ, GAYET, HİÇ, SADECE, ÖZELLİKLE, PEK, KESİNLİKLE</em>
+The 10 most frequent `ADV` types:  <em>çok, daha, biraz, gayet, hiç, sadece, özellikle, pek, kesinlikle, en</em>
 
-The 10 most frequent ambiguous lemmas: <em>çok</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 3620, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 23, <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 12, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 2), <em>ol</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 748, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 653, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 222, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 122), <em>hep</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 66, <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1), <em>bile</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 43, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 5), <em>tekrar</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 43, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 1), <em>ilk</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 29, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1), <em>ne</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 28, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1), <em>yıl</em> (<tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 29, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 21), <em>yok</em> (<tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 479, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 165, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 20), <em>fazla</em> (<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 212, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 53, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 19, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>çok</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 3620, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 25, <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 12), <em>hep</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 66, <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1), <em>bile</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 43, <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> 4), <em>tekrar</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 43, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 1), <em>ilk</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 29, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1), <em>ne</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 28, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1), <em>yok</em> (<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 644, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 20), <em>fazla</em> (<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 267, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 19), <em>sonra</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 17, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 5), <em>hatta</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 16)
 
-The 10 most frequent ambiguous types:  <em>ÇOK</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 3620, <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 12, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 2), <em>HEP</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 66, <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 4, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1), <em>HAKKINDA</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 53, <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> 2), <em>İLK</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 29, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1), <em>NE</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 28, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1), <em>YOK</em> (<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 165, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 20), <em>FAZLA</em> (<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 208, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 19), <em>HATTA</em> (<tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 16), <em>HEM</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 16, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 4), <em>BAYAĞI</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 12, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 9)
+The 10 most frequent ambiguous types:  <em>çok</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 2238, <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 8), <em>ne</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 25, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1), <em>yok</em> (<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 162, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 20), <em>fazla</em> (<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 164, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 15), <em>ilk</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 19, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1), <em>hatta</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 7, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 4), <em>hem</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 8, <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 2), <em>bayağı</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 4, <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 3), <em>tam</em> (<tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 31, <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 5), <em>yerine</em> (<tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 10, <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 1)
 
 
-* <em>ÇOK</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 3620: <em>ANİMASYON EKİBİ <b>ÇOK</b> BAŞARILI .</em>
-  * <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 12: <em>BİR <b>ÇOK</b> İNSANA VESİLE OLUP GÖNÜL RAHATLIĞIYLA PARK OTELE GETİRİYORUM .</em>
-  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 2: <em><b>ÇOK</b> EFENDİLER .</em>
-* <em>HEP</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 66: <em><b>HEP</b> AYNIYDI .</em>
-  * <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 4: <em><b>HEP</b> TERCİH EDERİM .</em>
-  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1: <em><b>HEP</b> AYNI ŞEYLER VARDI .</em>
-  * <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1: <em><b>HEP</b> TAVUK VARDI .</em>
-* <em>HAKKINDA</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 53: <em>KAMPANYALAR <b>HAKKINDA</b> SMS İLE BİLGİLENDİRİLMEK İSTİYORUM .</em>
-  * <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> 2: <em>ART BODRUM <b>HAKKINDA</b> .</em>
-* <em>İLK</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 29: <em>SADECE <b>İLK</b> GÜN GÖRDÜK .</em>
-  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1: <em>MİSAFİRLERİMİZ 40 KİŞİLİK GRUP HALİNDE <b>İLK</b> KEZ YAPTIRIYORLAR .</em>
-* <em>NE</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 28: <em>ÇOK İYİ FATURAMI <b>NE</b> ZAMAN ALABİLİRİM .</em>
-  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 6: <em><b>NE</b> İYİ <b>NE</b> KÖTÜ .</em>
-  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1: <em>HER ŞEY DAHİL TESİSLERDE <b>NE</b> YİYECEĞİNİ ŞAŞIRIYOR İNSAN AMA BURADA GERÇEKTEN YİYEBİLECEĞİN AZ ÖZ YEMEK ÇEŞİDİ İLE BİZE YETTİ DE ARTTI BİLE .</em>
-  * <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1: <em>FATURAMI <b>NE</b> ZAMAN ALABİLİRİM .</em>
-* <em>YOK</em>
-  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 165: <em>ANİMASYON <b>YOK</b> DENİLECEK KADAR BAŞARISIZDI .</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 20: <em>DENİZİN KUM ÇAKIL PLAJI <b>YOK</b> .</em>
-* <em>FAZLA</em>
-  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 208: <em>HİZMETE GÖRE ÜCRET <b>FAZLA</b> .</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 19: <em>ÇOK <b>FAZLA</b> GÖRMEDİM .</em>
-* <em>HATTA</em>
-  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 17: <em><b>HATTA</b> 10 PUAN BİLE VEREBİLİRİM .</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 16: <em><b>HATTA</b> 5'İN ÜSTÜNDE PUAN VERİYORUM .</em>
-* <em>HEM</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 16: <em><b>HEM</b> ÇEŞİT <b>HEM</b> LEZZET YETERSİZDİ .</em>
-  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 4: <em><b>HEM</b> LEZZET <b>HEM</b> ÇEŞİT AÇISINDAN BEĞENMEDİM .</em>
-* <em>BAYAĞI</em>
-  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 12: <em>LEZZET İYİYDİ <b>BAYAĞI</b> .</em>
-  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 9: <em><b>BAYAĞI</b> İLGİLENDİ .</em>
+* <em>çok</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 2238: <em>Animasyon ekibi <b>çok</b> başarılı .</em>
+  * <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> 8: <em>Bir <b>çok</b> insana vesile olup gönül rahatlığıyla park otele getiriyorum .</em>
+* <em>ne</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 25: <em>Çok iyi faturamı <b>ne</b> zaman alabilirim .</em>
+  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 3: <em>Ne iyi <b>ne</b> kötü .</em>
+  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1: <em>Her şey dahil tesislerde <b>ne</b> yiyeceğini şaşırıyor insan ama burada gerçekten yiyebileceğin az öz yemek çeşidi ile bize yetti de arttı bile .</em>
+  * <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> 1: <em>Faturamı <b>ne</b> zaman alabilirim .</em>
+* <em>yok</em>
+  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 162: <em>Animasyon <b>yok</b> denilecek kadar başarısızdı .</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 20: <em>Denizin kum çakıl plajı <b>yok</b> .</em>
+* <em>fazla</em>
+  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 164: <em>Hizmete göre ücret <b>fazla</b> .</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 15: <em>Çok <b>fazla</b> görmedim .</em>
+* <em>ilk</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 19: <em>Sadece <b>ilk</b> gün gördük .</em>
+  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 1: <em>Misafirlerimiz 40 kişilik grup halinde <b>ilk</b> kez yaptırıyorlar .</em>
+* <em>hatta</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 7: <em>10 puan veririm <b>hatta</b> .</em>
+  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 4: <em>10 puan veriyorum <b>hatta</b> .</em>
+* <em>hem</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 8: <em>Hem çeşit <b>hem</b> lezzet yetersizdi .</em>
+  * <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Hem lezzet <b>hem</b> çeşit açısından beğenmedim .</em>
+* <em>bayağı</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 4: <em>Lezzet iyiydi <b>bayağı</b> .</em>
+  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 3: <em>Bizimle <b>bayağı</b> ilgilendi .</em>
+* <em>tam</em>
+  * <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> 31: <em>Genel olarak servis ve hizmet <b>tam</b> istediğimiz gibiydi .</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 5: <em>Ödediğim ücretin <b>tam</b> olarak karşılığını alamadım .</em>
+* <em>yerine</em>
+  * <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> 10: <em>Verilen sözler <b>yerine</b> getirilmedi .</em>
+  * <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> 1: <em>İlgilendiler ama sorun her zaman kadıköydeki <b>yerine</b> gidiyordum .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.135593 (the average of all parts of speech is 1.825646).
+The form / lemma ratio of `ADV` is 1.043796 (the average of all parts of speech is 2.231287).
 
-The 1st highest number of forms (4) was observed with the lemma “gel”: <em>GELELİ, GELEREK, GELMEDEN, GELİP</em>.
+The 1st highest number of forms (2) was observed with the lemma “asla”: <em>asla, insan</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “et”: <em>EDEREK, EDİP, ETMEDEN</em>.
+The 2nd highest number of forms (2) was observed with the lemma “birşey”: <em>birşey, şey</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “git”: <em>GİDERKEN, GİDİLİP, GİDİP</em>.
+The 3rd highest number of forms (2) was observed with the lemma “evet”: <em>Teşekkür, evet</em>.
 
-`ADV` occurs with 2 features: <tt><a href="tr_tourism-feat-Degree.html">Degree</a></tt> (511; 7% instances), <tt><a href="tr_tourism-feat-PronType.html">PronType</a></tt> (99; 1% instances)
+`ADV` occurs with 3 features: <tt><a href="tr_tourism-feat-Degree.html">Degree</a></tt> (511; 8% instances), <tt><a href="tr_tourism-feat-Polarity.html">Polarity</a></tt> (20; 0% instances), <tt><a href="tr_tourism-feat-ExtPos.html">ExtPos</a></tt> (11; 0% instances)
 
-`ADV` occurs with 4 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `PronType=Ind`, `PronType=Int`
+`ADV` occurs with 4 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `ExtPos=ADV`, `Polarity=Neg`
 
 `ADV` occurs with 5 feature combinations.
-The most frequent feature combination is `_` (6670 tokens).
-Examples: <em>ÇOK, OLARAK, BİRAZ, GAYET, HİÇ, SADECE, ÖZELLİKLE, PEK, KESİNLİKLE, GERÇEKTEN</em>
+The most frequent feature combination is `_` (5824 tokens).
+Examples: <em>çok, biraz, gayet, hiç, sadece, özellikle, pek, kesinlikle, hep, gerçekten</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 21 different relations: <tt><a href="tr_tourism-dep-advmod.html">advmod</a></tt> (5734; 79% instances), <tt><a href="tr_tourism-dep-case.html">case</a></tt> (549; 8% instances), <tt><a href="tr_tourism-dep-advcl.html">advcl</a></tt> (312; 4% instances), <tt><a href="tr_tourism-dep-amod.html">amod</a></tt> (253; 3% instances), <tt><a href="tr_tourism-dep-root.html">root</a></tt> (132; 2% instances), <tt><a href="tr_tourism-dep-discourse.html">discourse</a></tt> (101; 1% instances), <tt><a href="tr_tourism-dep-obl.html">obl</a></tt> (53; 1% instances), <tt><a href="tr_tourism-dep-compound.html">compound</a></tt> (50; 1% instances), <tt><a href="tr_tourism-dep-cc.html">cc</a></tt> (27; 0% instances), <tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt> (18; 0% instances), <tt><a href="tr_tourism-dep-parataxis.html">parataxis</a></tt> (17; 0% instances), <tt><a href="tr_tourism-dep-conj.html">conj</a></tt> (9; 0% instances), <tt><a href="tr_tourism-dep-fixed.html">fixed</a></tt> (7; 0% instances), <tt><a href="tr_tourism-dep-acl.html">acl</a></tt> (4; 0% instances), <tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="tr_tourism-dep-obj.html">obj</a></tt> (4; 0% instances), <tt><a href="tr_tourism-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="tr_tourism-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="tr_tourism-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="tr_tourism-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="tr_tourism-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 20 different relations: <tt><a href="tr_tourism-dep-advmod.html">advmod</a></tt> (5675; 89% instances), <tt><a href="tr_tourism-dep-amod.html">amod</a></tt> (253; 4% instances), <tt><a href="tr_tourism-dep-root.html">root</a></tt> (122; 2% instances), <tt><a href="tr_tourism-dep-discourse.html">discourse</a></tt> (101; 2% instances), <tt><a href="tr_tourism-dep-case.html">case</a></tt> (41; 1% instances), <tt><a href="tr_tourism-dep-obl.html">obl</a></tt> (40; 1% instances), <tt><a href="tr_tourism-dep-compound.html">compound</a></tt> (39; 1% instances), <tt><a href="tr_tourism-dep-cc.html">cc</a></tt> (27; 0% instances), <tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt> (21; 0% instances), <tt><a href="tr_tourism-dep-advcl.html">advcl</a></tt> (11; 0% instances), <tt><a href="tr_tourism-dep-parataxis.html">parataxis</a></tt> (11; 0% instances), <tt><a href="tr_tourism-dep-fixed.html">fixed</a></tt> (7; 0% instances), <tt><a href="tr_tourism-dep-conj.html">conj</a></tt> (4; 0% instances), <tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="tr_tourism-dep-obj.html">obj</a></tt> (4; 0% instances), <tt><a href="tr_tourism-dep-mark.html">mark</a></tt> (2; 0% instances), <tt><a href="tr_tourism-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="tr_tourism-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="tr_tourism-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="tr_tourism-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 11 different parts of speech: <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (3676; 50% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (2229; 31% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (971; 13% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (219; 3% instances),  (132; 2% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (11; 0% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-INTJ.html">INTJ</a></tt> (3; 0% instances)
+Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (3829; 60% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (1593; 25% instances), <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (588; 9% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (183; 3% instances),  (122; 2% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (19; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (12; 0% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="tr_tourism-pos-X.html">X</a></tt> (5; 0% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="tr_tourism-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (1; 0% instances)
 
-6481 (89%) `ADV` nodes are leaves.
+5896 (93%) `ADV` nodes are leaves.
 
-618 (8%) `ADV` nodes have one child.
+340 (5%) `ADV` nodes have one child.
 
-149 (2%) `ADV` nodes have two children.
+109 (2%) `ADV` nodes have two children.
 
-32 (0%) `ADV` nodes have three or more children.
+21 (0%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 6.
 
-Children of `ADV` nodes are attached using 21 different relations: <tt><a href="tr_tourism-dep-advmod.html">advmod</a></tt> (282; 28% instances), <tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt> (204; 20% instances), <tt><a href="tr_tourism-dep-punct.html">punct</a></tt> (135; 13% instances), <tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt> (112; 11% instances), <tt><a href="tr_tourism-dep-compound.html">compound</a></tt> (48; 5% instances), <tt><a href="tr_tourism-dep-obl.html">obl</a></tt> (33; 3% instances), <tt><a href="tr_tourism-dep-det.html">det</a></tt> (32; 3% instances), <tt><a href="tr_tourism-dep-amod.html">amod</a></tt> (26; 3% instances), <tt><a href="tr_tourism-dep-obj.html">obj</a></tt> (26; 3% instances), <tt><a href="tr_tourism-dep-xcomp.html">xcomp</a></tt> (26; 3% instances), <tt><a href="tr_tourism-dep-fixed.html">fixed</a></tt> (16; 2% instances), <tt><a href="tr_tourism-dep-cc.html">cc</a></tt> (14; 1% instances), <tt><a href="tr_tourism-dep-conj.html">conj</a></tt> (14; 1% instances), <tt><a href="tr_tourism-dep-case.html">case</a></tt> (12; 1% instances), <tt><a href="tr_tourism-dep-nummod.html">nummod</a></tt> (11; 1% instances), <tt><a href="tr_tourism-dep-advcl.html">advcl</a></tt> (10; 1% instances), <tt><a href="tr_tourism-dep-discourse.html">discourse</a></tt> (7; 1% instances), <tt><a href="tr_tourism-dep-aux.html">aux</a></tt> (5; 0% instances), <tt><a href="tr_tourism-dep-parataxis.html">parataxis</a></tt> (5; 0% instances), <tt><a href="tr_tourism-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="tr_tourism-dep-acl.html">acl</a></tt> (2; 0% instances)
+Children of `ADV` nodes are attached using 19 different relations: <tt><a href="tr_tourism-dep-advmod.html">advmod</a></tt> (165; 26% instances), <tt><a href="tr_tourism-dep-punct.html">punct</a></tt> (125; 20% instances), <tt><a href="tr_tourism-dep-nsubj.html">nsubj</a></tt> (99; 16% instances), <tt><a href="tr_tourism-dep-nmod.html">nmod</a></tt> (93; 15% instances), <tt><a href="tr_tourism-dep-det.html">det</a></tt> (32; 5% instances), <tt><a href="tr_tourism-dep-compound.html">compound</a></tt> (21; 3% instances), <tt><a href="tr_tourism-dep-fixed.html">fixed</a></tt> (21; 3% instances), <tt><a href="tr_tourism-dep-amod.html">amod</a></tt> (13; 2% instances), <tt><a href="tr_tourism-dep-obl.html">obl</a></tt> (12; 2% instances), <tt><a href="tr_tourism-dep-conj.html">conj</a></tt> (8; 1% instances), <tt><a href="tr_tourism-dep-case.html">case</a></tt> (7; 1% instances), <tt><a href="tr_tourism-dep-cc.html">cc</a></tt> (7; 1% instances), <tt><a href="tr_tourism-dep-discourse.html">discourse</a></tt> (6; 1% instances), <tt><a href="tr_tourism-dep-advcl.html">advcl</a></tt> (5; 1% instances), <tt><a href="tr_tourism-dep-aux.html">aux</a></tt> (5; 1% instances), <tt><a href="tr_tourism-dep-parataxis.html">parataxis</a></tt> (4; 1% instances), <tt><a href="tr_tourism-dep-nummod.html">nummod</a></tt> (3; 0% instances), <tt><a href="tr_tourism-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="tr_tourism-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 14 different parts of speech: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (411; 40% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (219; 21% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (140; 14% instances), <tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (135; 13% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (38; 4% instances), <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (30; 3% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (16; 2% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (13; 1% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="tr_tourism-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Children of `ADV` nodes belong to 14 different parts of speech: <tt><a href="tr_tourism-pos-NOUN.html">NOUN</a></tt> (204; 32% instances), <tt><a href="tr_tourism-pos-ADV.html">ADV</a></tt> (183; 29% instances), <tt><a href="tr_tourism-pos-PUNCT.html">PUNCT</a></tt> (125; 20% instances), <tt><a href="tr_tourism-pos-DET.html">DET</a></tt> (43; 7% instances), <tt><a href="tr_tourism-pos-ADJ.html">ADJ</a></tt> (22; 3% instances), <tt><a href="tr_tourism-pos-CCONJ.html">CCONJ</a></tt> (15; 2% instances), <tt><a href="tr_tourism-pos-VERB.html">VERB</a></tt> (14; 2% instances), <tt><a href="tr_tourism-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="tr_tourism-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="tr_tourism-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="tr_tourism-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="tr_tourism-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="tr_tourism-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 

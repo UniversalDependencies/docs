@@ -17,4 +17,4 @@ advmod:cau(given_birth_to_me-9, why-6)
 
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:08 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:33 CEST -->

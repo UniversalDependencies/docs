@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="tr_boun-dep-dep.htm
 582 instances of `dep:der` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.01718213058419.
 
-The following 9 pairs of parts of speech are connected with `dep:der`: <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_boun-pos-PART.html">PART</a></tt> (440; 76% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_boun-pos-PART.html">PART</a></tt> (81; 14% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_boun-pos-PART.html">PART</a></tt> (21; 4% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_boun-pos-PART.html">PART</a></tt> (20; 3% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_boun-pos-PART.html">PART</a></tt> (13; 2% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_boun-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_boun-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_boun-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `dep:der`: <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_boun-pos-PART.html">PART</a></tt> (440; 76% instances), <tt><a href="tr_boun-pos-PROPN.html">PROPN</a></tt>-<tt><a href="tr_boun-pos-PART.html">PART</a></tt> (81; 14% instances), <tt><a href="tr_boun-pos-PRON.html">PRON</a></tt>-<tt><a href="tr_boun-pos-PART.html">PART</a></tt> (21; 4% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_boun-pos-PART.html">PART</a></tt> (20; 3% instances), <tt><a href="tr_boun-pos-VERB.html">VERB</a></tt>-<tt><a href="tr_boun-pos-PART.html">PART</a></tt> (13; 2% instances), <tt><a href="tr_boun-pos-ADV.html">ADV</a></tt>-<tt><a href="tr_boun-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="tr_boun-pos-NUM.html">NUM</a></tt>-<tt><a href="tr_boun-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="tr_boun-pos-ADJ.html">ADJ</a></tt>-<tt><a href="tr_boun-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt>-<tt><a href="tr_boun-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 9 pairs of parts of speech are connected with `dep:der`: <tt><a hr
 3	pop	pop	NOUN	_	Case=Acc|Number=Sing|Person=3	9	obj	_	_
 4	ve	ve	CCONJ	_	_	5	cc	_	_
 5	arabeski	arabesk	NOUN	_	Case=Acc|Number=Sing|Person=3	3	conj	_	_
-6	hiçbir	hiçbir	DET	Det	_	8	det	_	_
+6	hiçbir	hiçbir	DET	Det	PronType=Neg	8	det	_	_
 7	ağırlık	ağırlık	NOUN	_	Case=Nom|Number=Sing|Person=3	8	nmod:poss	_	DerivedFrom=ağır
 8	kavramına	kavram	NOUN	_	Case=Dat|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3	9	iobj	_	_
 9	sokamayız	sok	VERB	_	Aspect=Hab|Number=Plur|Person=1|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
@@ -62,7 +62,7 @@ The following 9 pairs of parts of speech are connected with `dep:der`: <tt><a hr
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 dep:der	color:blue
-1	Bizim	biz	PRON	Pers	Case=Nom|Number=Plur|Person=3	5	nsubj	_	_
+1	Bizim	biz	PRON	Pers	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
 2	kiler	ki	PART	Attr	_	1	dep:der	_	_
 3	Nasrettin	Nasrettin	PROPN	_	Case=Nom|Number=Sing|Person=3	5	obl	_	_
 4	Hocaya	hoca	PROPN	_	Case=Dat|Number=Sing|Person=3	3	flat	_	_

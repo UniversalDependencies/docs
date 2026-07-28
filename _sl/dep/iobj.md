@@ -51,4 +51,4 @@ iobj(pomagala,jim)
 iobj(help,them) 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:00 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:12 CEST -->

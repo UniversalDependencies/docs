@@ -13,7 +13,7 @@ The 10 most frequent `INTJ` lemmas: <em>ҳа́и, иҭабу́п, мшыбзи́
 
 The 10 most frequent `INTJ` types:  <em>Ҳаи, Иҭабуп, Мшыбзиа, Иа, Уа, аа, абаак, амарџьа, амарџьақәа, ввы</em>
 
-The 10 most frequent ambiguous lemmas: <em>уа́</em> (<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> 3, <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>уа́</em> (<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> 4, <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>Уа</em> (<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ab_abnc-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>Уа</em> (<tt><a href="ab_abnc-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.324324).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 2.358593).
 
 The 1st highest number of forms (1) was observed with the lemma “аа́”: <em>аа</em>.
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Giuseppe G. A. Celano, Daniel Zeman, Federica Gamba.
 
 Repository: [UD_Latin-Perseus](https://github.com/UniversalDependencies/UD_Latin-Perseus)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 2.5
 
@@ -117,13 +117,13 @@ Further details can be found at:
 
 ## Relations
 
-[acl](la_perseus-dep-acl.html) – [acl:relcl](la_perseus-dep-acl-relcl.html) – [advcl](la_perseus-dep-advcl.html) – [advcl:abs](la_perseus-dep-advcl-abs.html) – [advcl:cmp](la_perseus-dep-advcl-cmp.html) – [advcl:pred](la_perseus-dep-advcl-pred.html) – [advmod](la_perseus-dep-advmod.html) – [advmod:emph](la_perseus-dep-advmod-emph.html) – [advmod:lmod](la_perseus-dep-advmod-lmod.html) – [advmod:neg](la_perseus-dep-advmod-neg.html) – [advmod:tmod](la_perseus-dep-advmod-tmod.html) – [amod](la_perseus-dep-amod.html) – [appos](la_perseus-dep-appos.html) – [aux](la_perseus-dep-aux.html) – [aux:pass](la_perseus-dep-aux-pass.html) – [case](la_perseus-dep-case.html) – [cc](la_perseus-dep-cc.html) – [ccomp](la_perseus-dep-ccomp.html) – [ccomp:reported](la_perseus-dep-ccomp-reported.html) – [conj](la_perseus-dep-conj.html) – [conj:expl](la_perseus-dep-conj-expl.html) – [cop](la_perseus-dep-cop.html) – [csubj](la_perseus-dep-csubj.html) – [csubj:pass](la_perseus-dep-csubj-pass.html) – [det](la_perseus-dep-det.html) – [det:numgov](la_perseus-dep-det-numgov.html) – [discourse](la_perseus-dep-discourse.html) – [flat](la_perseus-dep-flat.html) – [flat:name](la_perseus-dep-flat-name.html) – [flat:redup](la_perseus-dep-flat-redup.html) – [iobj](la_perseus-dep-iobj.html) – [mark](la_perseus-dep-mark.html) – [nmod](la_perseus-dep-nmod.html) – [nsubj](la_perseus-dep-nsubj.html) – [nsubj:outer](la_perseus-dep-nsubj-outer.html) – [nsubj:pass](la_perseus-dep-nsubj-pass.html) – [nummod](la_perseus-dep-nummod.html) – [obj](la_perseus-dep-obj.html) – [obl](la_perseus-dep-obl.html) – [obl:arg](la_perseus-dep-obl-arg.html) – [orphan](la_perseus-dep-orphan.html) – [parataxis](la_perseus-dep-parataxis.html) – [punct](la_perseus-dep-punct.html) – [root](la_perseus-dep-root.html) – [vocative](la_perseus-dep-vocative.html) – [xcomp](la_perseus-dep-xcomp.html)
+[acl](la_perseus-dep-acl.html) – [acl:relcl](la_perseus-dep-acl-relcl.html) – [advcl](la_perseus-dep-advcl.html) – [advcl:abs](la_perseus-dep-advcl-abs.html) – [advcl:cmp](la_perseus-dep-advcl-cmp.html) – [advcl:pred](la_perseus-dep-advcl-pred.html) – [advmod](la_perseus-dep-advmod.html) – [advmod:emph](la_perseus-dep-advmod-emph.html) – [advmod:lmod](la_perseus-dep-advmod-lmod.html) – [advmod:neg](la_perseus-dep-advmod-neg.html) – [advmod:tmod](la_perseus-dep-advmod-tmod.html) – [amod](la_perseus-dep-amod.html) – [appos](la_perseus-dep-appos.html) – [aux](la_perseus-dep-aux.html) – [aux:pass](la_perseus-dep-aux-pass.html) – [case](la_perseus-dep-case.html) – [cc](la_perseus-dep-cc.html) – [ccomp](la_perseus-dep-ccomp.html) – [ccomp:reported](la_perseus-dep-ccomp-reported.html) – [conj](la_perseus-dep-conj.html) – [conj:expl](la_perseus-dep-conj-expl.html) – [cop](la_perseus-dep-cop.html) – [csubj](la_perseus-dep-csubj.html) – [csubj:pass](la_perseus-dep-csubj-pass.html) – [det](la_perseus-dep-det.html) – [det:numgov](la_perseus-dep-det-numgov.html) – [discourse](la_perseus-dep-discourse.html) – [flat](la_perseus-dep-flat.html) – [flat:name](la_perseus-dep-flat-name.html) – [flat:redup](la_perseus-dep-flat-redup.html) – [iobj](la_perseus-dep-iobj.html) – [mark](la_perseus-dep-mark.html) – [nmod](la_perseus-dep-nmod.html) – [nsubj](la_perseus-dep-nsubj.html) – [nsubj:outer](la_perseus-dep-nsubj-outer.html) – [nsubj:pass](la_perseus-dep-nsubj-pass.html) – [nummod](la_perseus-dep-nummod.html) – [nummod:gov](la_perseus-dep-nummod-gov.html) – [obj](la_perseus-dep-obj.html) – [obl](la_perseus-dep-obl.html) – [obl:arg](la_perseus-dep-obl-arg.html) – [obl:cmp](la_perseus-dep-obl-cmp.html) – [orphan](la_perseus-dep-orphan.html) – [parataxis](la_perseus-dep-parataxis.html) – [punct](la_perseus-dep-punct.html) – [root](la_perseus-dep-root.html) – [vocative](la_perseus-dep-vocative.html) – [xcomp](la_perseus-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 2273 sentences, 28868 tokens and 29221 syntactic words.</li>
+<li>This corpus contains 2273 sentences, 28868 tokens and 29223 syntactic words.</li>
 </ul>
 
 <ul>
@@ -139,8 +139,8 @@ Further details can be found at:
 </ul>
 
 <ul>
-<li>This corpus contains 353 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 218 types of multi-word tokens. Examples: neque, nec, mecum, seque, secum, magisque, itemque, manusque, militiaeque, nonne, Dumque, ceterosque, digitosque, ibique, magnaque, namque, plerique, remque, tecum, Aliamque, Animosque, Apidanusque, Appositaque, Calumniamque, Cavoque, Clarumque, Cogitque, Frenumque, Fugantque, Hominisque, Hominumque, Imbresque, Interque, Iubetque, Lignumque, Margaritamque, Meropisque, Nidoque, Novoque, Officioque, Ovesque, Patareaque, Pictisque, Praedamque, Quaesitisque, Questuque, Romamque, Sanctamque, Servumque, Tandemque.</li>
+<li>This corpus contains 355 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 219 types of multi-word tokens. Examples: neque, nec, mecum, seque, secum, magisque, itemque, manusque, militiaeque, nonne, Dumque, ceterosque, cumque, digitosque, ibique, magnaque, namque, plerique, remque, tecum, Aliamque, Animosque, Apidanusque, Appositaque, Calumniamque, Cavoque, Clarumque, Cogitque, Frenumque, Fugantque, Hominisque, Hominumque, Imbresque, Interque, Iubetque, Lignumque, Margaritamque, Meropisque, Nidoque, Novoque, Officioque, Ovesque, Patareaque, Pictisque, Praedamque, Quaesitisque, Questuque, Romamque, Sanctamque, Servumque.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -247,7 +247,7 @@ Further details can be found at:
       <li>ADJ-Part: contentum, notus, contentus, doctior, irati, munitus, parati, tutos</li>
       <li>DET: ille, illi, ipse, illum, illos, illis, hic, hoc, omnes, omnium</li>
       <li>NOUN: amor, nemo, animus, hominum, senatus, amore, homines, loco, locum, more</li>
-      <li>NUM: duo, duobus, uno, unum, duos, uni, unus, duorum, octingentos, trecentos</li>
+      <li>NUM: duo, duobus, uno, unum, duos, uni, unus, duorum, octingentos, sexagenos</li>
       <li>PRON: qui, eius, quem, quis, eos, eorum, eum, quos, quibus, is</li>
       <li>PROPN: Catilina, Trimalchio, M, Caesar, L, C, Catilinae, Catilinam, Iove, Q</li>
       <li>VERB-Conv: cubitum</li>
@@ -265,7 +265,7 @@ Further details can be found at:
       <li>DET: hoc, haec, omnia, multa, suum, illa, mea, sua, quicquam, suis</li>
       <li>NOUN: caelo, bello, nomen, bellum, verba, caput, tempore, imperium, verbis, consilium</li>
       <li>NOUN-Part: meriti</li>
-      <li>NUM: duo, millia, milia, uno, unum, XII, duobus, milibus, millibus, tria</li>
+      <li>NUM: duo, millia, milia, uno, unum, duobus, milibus, millibus, trecentis, tria</li>
       <li>PRON: quod, quid, quae, nihil, id, ea, quo, nil, quibus, quicquid</li>
       <li>PROPN: Capitolio, Actium, Arimino, Capitolia, Ilium, Latio, Lavini, Lupercale, Lupercalibus, Maenala</li>
       <li>VERB-Part: facta, scriptum, falso, dicens, faciendum, facto, factum, incenso, interposito, iussa</li>
@@ -342,7 +342,7 @@ Further details can be found at:
       <li>AUX-Part: futuram</li>
       <li>DET: haec, hoc, illum, omnia, hanc, illos, suam, suum, illam, meam</li>
       <li>NOUN: rem, vocem, terram, locum, domum, nomen, bellum, senatum, dies, verba</li>
-      <li>NUM: unum, duas, duo, duos, milia, XII, millia, octingentos, trecentos</li>
+      <li>NUM: unum, duas, duo, duos, milia, millia, octingentos, sexagenos, trecentos</li>
       <li>PRON: me, te, se, quid, quod, quae, quem, eos, eum, quam</li>
       <li>PROPN: Catilinam, L, Actium, Hispanias, Iovem, Lentulum, Pisonem, Antonium, Baias, C</li>
       <li>VERB-Conv: cubitum</li>
@@ -357,7 +357,7 @@ Further details can be found at:
       <li>ADJ: publicae, Germanicis, ingrato, miserae, Argivis, Corneliis, Dardanio, Diuo, Fabianis, Fabio</li>
       <li>DET: illi, illis, huic, meis, omnibus, suis, meo, nostris, tuae, tuo</li>
       <li>NOUN: ecclesiis, rei, consuli, terrae, amicis, auribus, collo, homini, labori, lacrimis</li>
-      <li>NUM: uni, duabus, millibus</li>
+      <li>NUM: uni, duabus, millibus, trecentis</li>
       <li>PRON: mihi, tibi, sibi, nobis, quibus, cui, vobis, ei, iis, mi</li>
       <li>PROPN: Trimalchioni, Achilli, Aeneae, Aesopo, Agamemnoni, Antonio, Apuliae, C, Caesari, Carioni</li>
       <li>VERB-Part: audienti, habenti, monitis, querenti, reposcenti, victis, Afflictis, Docto, absenti, adeuntibus</li>
@@ -695,6 +695,7 @@ Further details can be found at:
   <li>Dist
     <ul>
       <li>ADJ: singulas, singulos, binas, binos, quaternum, singula, singuli, singulis</li>
+      <li>NUM: sexagenos</li>
     </ul>
   </li>
 </ul>
@@ -849,7 +850,7 @@ Further details can be found at:
     <ul>
       <li>Roman
         <ul>
-          <li>NUM: DC, II, VII, XV, XXVIII</li>
+          <li>NUM: XII, DC, II, VII, XV, XXVIII</li>
         </ul>
       </li>
       <li>Word
@@ -927,7 +928,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (5)</li>
-      <li>VERB-Fin--NOUN-Nom (723)</li>
+      <li>VERB-Fin--NOUN-Nom (722)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
       <li>VERB-Fin--PRON (4)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
@@ -952,7 +953,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN-Abl (46)</li>
-      <li>VERB-Fin--NOUN-Acc (1123)</li>
+      <li>VERB-Fin--NOUN-Acc (1122)</li>
       <li>VERB-Fin--NOUN-Gen (8)</li>
       <li>VERB-Fin--NOUN-Nom (7)</li>
       <li>VERB-Fin--PRON (9)</li>
@@ -998,6 +999,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 18 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>flat:name</a>, <a>flat:redup</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
+<li>This corpus uses 20 relation subtypes: <a>acl:relcl</a>, <a>advcl:abs</a>, <a>advcl:cmp</a>, <a>advcl:pred</a>, <a>advmod:emph</a>, <a>advmod:lmod</a>, <a>advmod:neg</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>ccomp:reported</a>, <a>conj:expl</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>flat:name</a>, <a>flat:redup</a>, <a>nsubj:outer</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a>, <a>obl:cmp</a></li>
 <li>The following 9 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

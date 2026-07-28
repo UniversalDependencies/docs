@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5553 nodes (1%) are attached to their parents as `cop`.
+5612 nodes (1%) are attached to their parents as `cop`.
 
-5362 instances of `cop` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.892490545651.
+5418 instances of `cop` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.8971846044191.
 
-The following 13 pairs of parts of speech are connected with `cop`: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (2416; 44% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (2396; 43% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (290; 5% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (126; 2% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (123; 2% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (64; 1% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (49; 1% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (45; 1% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (29; 1% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="es_ancora-pos-PART.html">PART</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="es_ancora-pos-X.html">X</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (2441; 43% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (2436; 43% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (290; 5% instances), <tt><a href="es_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (126; 2% instances), <tt><a href="es_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (125; 2% instances), <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (73; 1% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (51; 1% instances), <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (45; 1% instances), <tt><a href="es_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="es_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="es_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 13 pairs of parts of speech are connected with `cop`: <tt><a href=
 3	baratos	barato	ADJ	aq0mp0	Gender=Masc|Number=Plur	1	obj	1:obj	ArgTem=arg2:atr
 4	para	para	ADP	sps00	_	6	mark	6:mark	_
 5	ser	ser	AUX	vsn0000	VerbForm=Inf	6	cop	6:cop	ArgTem=argM:fin
-6	buenos	buen	ADJ	aq0mp0	Gender=Masc|Number=Plur	1	advcl	1:advcl	SpaceAfter=No|ArgTem=arg2:atr
+6	buenos	buen	ADJ	aq0mp0	Gender=Masc|Number=Plur	1	advcl	1:advcl	ArgTem=arg2:atr|SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	1	punct	1:punct	_
 
 ~~~

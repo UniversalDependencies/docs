@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-9869 nodes (9%) are attached to their parents as `det`.
+9875 nodes (9%) are attached to their parents as `det`.
 
-9867 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.48738474009525.
+9873 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.48729113924051.
 
-The following 12 pairs of parts of speech are connected with `det`: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (9280; 94% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (187; 2% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (182; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (107; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (59; 1% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `det`: <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (9285; 94% instances), <tt><a href="en_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (194; 2% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (182; 2% instances), <tt><a href="en_lines-pos-PRON.html">PRON</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (100; 1% instances), <tt><a href="en_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (59; 1% instances), <tt><a href="en_lines-pos-NUM.html">NUM</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (20; 0% instances), <tt><a href="en_lines-pos-ADV.html">ADV</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (16; 0% instances), <tt><a href="en_lines-pos-DET.html">DET</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="en_lines-pos-X.html">X</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_lines-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="en_lines-pos-SYM.html">SYM</a></tt>-<tt><a href="en_lines-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -72,7 +72,7 @@ The following 12 pairs of parts of speech are connected with `det`: <tt><a href=
 1	I	I	PRON	PERS-P1SG-NOM	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	'm	be	AUX	PRES	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	afraid	afraid	ADJ	POS	Degree=Pos	0	root	_	_
-4	you	you	PRON	PERS-P2	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	_
+4	you	you	PRON	PERS-P2	Person=2|PronType=Prs	6	nsubj	_	_
 5	've	have	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	got	get	VERB	PERF	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	_
 7	the	the	DET	DEF	Definite=Def|PronType=Art	9	det	_	_

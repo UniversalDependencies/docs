@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="kpv_lattice-dep-flat-name.html">flat:name</a></tt>, <tt><a href="kpv_lattice-dep-flat-num.html">flat:num</a></tt>.
 
-3 nodes (0%) are attached to their parents as `flat`.
+4 nodes (0%) are attached to their parents as `flat`.
 
-3 instances of `flat` (100%) are left-to-right (parent precedes child).
+4 instances of `flat` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 2 pairs of parts of speech are connected with `flat`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 67% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 33% instances).
+The following 3 pairs of parts of speech are connected with `flat`: <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt>-<tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt>-<tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (1; 25% instances), <tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt>-<tt><a href="kpv_lattice-pos-PROPN.html">PROPN</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -61,6 +61,25 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 12	вӧрын	вӧр	NOUN	N	Case=Ine|Number=Sing	13	obl	_	GTtags=Sg,Ine
 13	келавны	келавны	VERB	V	VerbForm=Inf	11	xcomp	_	GTtags=IV,Inf|SpaceAfter=No
 14	.	.	PUNCT	PUNCT	_	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 flat	color:blue
+1	Тайӧ	тайӧ	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	8	nsubj	_	GTtags=Dem,Sg,Nom
+2	—	—	PUNCT	PUNCT	_	3	punct	_	GTtags=PUNCT
+3	Ювеналий	Ювеналий	PROPN	N	Case=Nom|Number=Sing	1	appos	_	GTtags=Prop,Sg,Nom
+4	Лихачёв	Лихачёв	PROPN	N	Animacy=Hum|Case=Nom|NameType=Sur|Number=Sing	3	flat	_	GTtags=Prop,Sem/Sur-Mal,Sg,Nom|SpaceAfter=No
+5	,	,	PUNCT	CLB	_	3	punct	_	GTtags=CLB
+6	миянкӧд	ме	PRON	Pron	Case=Com|Number=Plur|Person=1|PronType=Prs	8	obl	_	GTtags=?
+7	жӧ	жӧ	ADV	Adv	_	6	advmod	_	GTtags=Parenthetic
+8	мунысь	мунны	VERB	V	Case=Nom|Number=Sing|VerbForm=NomAg	0	root	_	GTtags=IV,Der,Der/NomAg,N,Sg,Nom|SpaceAfter=No
+9	...	...	PUNCT	CLB	_	8	punct	_	GTtags=CLB
 
 ~~~
 

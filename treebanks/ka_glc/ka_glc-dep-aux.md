@@ -25,9 +25,9 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	ჩემს	ჩემი	PRON	Pron	Case=Dat|Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	Translit=čʻems
 2	ნერვებს	ნერვი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Plur	4	obj	_	Translit=nervebs
 3	უნდა	უნდა	AUX	Aux	Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	4	aux	_	Translit=unda
-4	გავუფრთხილდე	უფრთხილდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=1|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=gavupʻrtʻxilde
+4	გავუფრთხილდე	ფრთხილობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=1|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=gavupʻrtʻxilde
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
-6	დამჭირდება	ჭირდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Subcat=Intr|Tense=Fut|VerbForm=Fin|Voice=Act	4	parataxis	_	SpaceAfter=No|Translit=damčirdeba
+6	დამჭირდება	სჭირს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Subcat=Intr|Tense=Fut|VerbForm=Fin|Voice=Act	4	parataxis	_	SpaceAfter=No|Translit=damčirdeba
 7	.	.	PUNCT	F	PunctType=Peri	4	punct	_	Translit=.
 
 ~~~
@@ -41,7 +41,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 12 15 aux	color:blue
 1	მოქმედება	მოქმედება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	12	nsubj	_	Translit=mokʻmedeba
 2	რომელსაც	რომელი	PRON	Pron	Case=Dat|Number=Sing|PronType=Rel	3	obj	_	Translit=romelsacʻ
-3	ეფუძნება	ეფუძნება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	1	acl	_	Translit=epʻużneba
+3	ეფუძნება	აფუძნებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	1	acl	_	Translit=epʻużneba
 4	ადამიანის	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	5	nmod	_	Translit=adamianis
 5	ნეტარება	ნეტარება	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	3	nsubj	_	SpaceAfter=No|Translit=netareba
 6	,	,	PUNCT	F	PunctType=Comm	8	punct	_	Translit=,

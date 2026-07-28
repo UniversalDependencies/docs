@@ -13,4 +13,4 @@ other universal parts of speech.
 PART is currently not used in Tatar.
 In some languages like Turkish, negative particles for non-verbal predicates (e.g., _değil_ in Turkish) may be tagged with PART,
 but in Tatar _түгел_ "not" is tagged as AUX with DEPREL to its head as aux.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:52 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

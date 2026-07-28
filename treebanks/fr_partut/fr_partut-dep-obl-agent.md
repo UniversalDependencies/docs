@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-ParTUT: Relations: `obl:agent`
 
 This relation is a language-specific subtype of <tt><a href="fr_partut-dep-obl.html">obl</a></tt>.
+There are also 2 other language-specific subtypes of `obl`: <tt><a href="fr_partut-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="fr_partut-dep-obl-mod.html">obl:mod</a></tt>.
 
 69 nodes (0%) are attached to their parents as `obl:agent`.
 
@@ -44,21 +45,21 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
 # visual-style 16 19 obl:agent	color:blue
-1	Elle	elle	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+1	Elle	lui	PRON	PE	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	contenait	contenir	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 3	200	200	NUM	N	NumType=Card	8	nummod	_	_
 4	à	à	ADP	E	_	5	case	_	_
 5	300	300	NUM	N	NumType=Card	3	nummod	_	_
 6	à	à	ADP	E	_	7	case	_	_
 7	400	400	NUM	N	NumType=Card	5	nummod	_	_
-8	fois	foi	NOUN	S	Gender=Fem|Number=Plur	11	nmod	_	_
-9	plus	plus	ADV	B	_	8	advmod	_	_
+8	fois	fois	NOUN	S	Gender=Fem|Number=Plur	9	nmod	_	_
+9	plus	plus	ADV	B	_	2	advmod	_	_
 10	de	de	ADP	E	_	11	case	_	_
-11	produits	produit	NOUN	S	Gender=Masc|Number=Plur	2	obl	_	_
+11	produits	produit	NOUN	S	Gender=Masc|Number=Plur	9	obl:arg	_	_
 12	toxiques	toxique	ADJ	A	Number=Plur	11	amod	_	_
 13	que	que	ADP	E	_	15	case	_	_
 14	les	le	DET	RD	Definite=Def|Number=Plur|PronType=Art	15	det	_	_
-15	taux	taux	NOUN	S	Gender=Masc|Number=Plur	8	nmod	_	_
+15	taux	taux	NOUN	S	Gender=Masc|Number=Plur	9	obj	_	_
 16	autorisés	autoriser	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	15	acl	_	_
 17	par	par	ADP	E	_	19	case	_	_
 18	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_

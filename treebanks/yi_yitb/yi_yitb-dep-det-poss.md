@@ -60,7 +60,7 @@ The following 5 pairs of parts of speech are connected with `det:poss`: <tt><a h
 # visual-style 15	fgColor:white
 # visual-style 15 14 det:poss	color:blue
 1	אין	אין	ADP	_	_	4	case	_	Translit=in|Translit_Lemma=in
-2	אַלע	_	DET	_	_	4	det	_	Translit=ale
+2	אַלע	אַלע	DET	_	_	4	det	_	Translit=ale|Translit_Lemma=ale
 3	דײַנע	דײַן	DET	_	_	4	det:poss	_	Translit=dayne|Translit_Lemma=dayn
 4	װעגן	וועג	NOUN	_	_	5	obl	_	Translit=vegn|Translit_Lemma=veg
 5	טו	טאָן	VERB	_	_	0	root	_	Translit=tu|Translit_Lemma=ton

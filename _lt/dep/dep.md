@@ -18,7 +18,8 @@ dep(is-convened, when)
 ~~~
 
 ~~~ sdparse
-Buvo iš 23 klausimai . \n 23 questions from were included .
+Buvo įtraukti iš 23 klausimai . \n 23 questions from were included .
 dep(įtraukti, iš)
-dep(from, included)
+dep(included, from)
 ~~~
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:58 CEST -->

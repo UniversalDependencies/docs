@@ -32,8 +32,8 @@ The following 1 pairs of parts of speech are connected with `advcl:relcl`: <tt><
 8	Paris-avtalet	paris-avtal	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	11	nsubj	11:nsubj	_
 9	kommer	komma	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	11:aux	_
 10	att	att	PART	IE	_	11	mark	11:mark	_
-11	sakta	sakta	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	2	parataxis	2:parataxis	_
-12	ner	ner	ADV	PL	_	11	compound:prt	11:compound:prt	_
+11	sakta	sakta	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	2	parataxis	2:parataxis	ParsemeMWE=1:IVPC.semi
+12	ner	ner	ADV	PL	_	11	compound:prt	11:compound:prt	ParsemeMWE=1
 13	klimatförändringarna	klimatförändring	NOUN	NN|UTR|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	11	obj	11:obj	SpaceAfter=No
 14	,	,	PUNCT	MID	_	26	punct	26:punct	_
 15	vilket	vilket	PRON	HP|NEU|SIN|IND	Definite=Ind|Gender=Neut|Number=Sing|PronType=Int,Rel	26	obj	26:obj	_

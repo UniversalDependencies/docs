@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `orphan`.
+6 nodes (0%) are attached to their parents as `orphan`.
 
-5 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.8.
+6 instances of `orphan` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.66666666666667.
 
-The following 4 pairs of parts of speech are connected with `orphan`: <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (2; 40% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 20% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
+The following 5 pairs of parts of speech are connected with `orphan`: <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (2; 33% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 17% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 17% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 17% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 40	bgColor:blue
 # visual-style 40	fgColor:white
 # visual-style 40 41 orphan	color:blue
-1	Mora	mora	PROPN	_	_	4	nsubj	_	_
+1	Mora	Mora	PROPN	_	_	4	nsubj	_	_
 2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	cantón	cantón	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
@@ -59,11 +59,11 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	provincia	provincia	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
 10	de	de	ADP	_	_	12	case	_	_
-11	San	san	PROPN	_	_	12	amod	_	_
-12	José	josé	PROPN	_	_	9	nmod	_	SpaceAfter=No
+11	San	santo	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
+12	José	José	PROPN	_	_	9	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-14	Costa	costa	PROPN	_	_	9	appos	_	_
-15	Rica	rica	PROPN	_	_	14	amod	_	SpaceAfter=No
+14	Costa	Costa	PROPN	_	_	9	appos	_	_
+15	Rica	Rica	PROPN	_	_	14	amod	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 17	establecido	establecer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	acl	_	_
 18	en	en	ADP	_	_	19	case	_	_
@@ -71,9 +71,9 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 20	con	con	ADP	_	_	22	case	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
-23	indígena	indígeno	ADJ	_	Gender=Masc|Number=Sing	22	amod	_	_
+23	indígena	indígena	ADJ	_	Number=Sing	22	amod	_	_
 24	de	de	ADP	_	_	25	case	_	_
-25	Pacaca	pacaca	PROPN	_	_	22	nmod	_	SpaceAfter=No
+25	Pacaca	Pacaca	PROPN	_	_	22	nmod	_	SpaceAfter=No
 26	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
 27	que	que	SCONJ	_	_	31	mark	_	_
 28	en	en	ADP	_	_	30	case	_	_
@@ -110,7 +110,7 @@ The following 4 pairs of parts of speech are connected with `orphan`: <tt><a hre
 6	Salón	salón	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
 7	Aeronáutico	aeronáutico	ADJ	_	_	6	amod	_	_
 8	de	de	ADP	_	_	9	case	_	_
-9	Farnborough	farnborough	PROPN	_	_	6	nmod	_	SpaceAfter=No
+9	Farnborough	Farnborough	PROPN	_	_	6	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	aerolínea	aerolínea	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_

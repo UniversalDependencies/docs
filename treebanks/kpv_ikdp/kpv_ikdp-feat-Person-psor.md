@@ -82,9 +82,9 @@ The most frequent other feature values with which `NUM` and `Person[psor]` co-oc
 
 ### `DET`
 
-1 <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Person[psor]`.
+1 <tt><a href="kpv_ikdp-pos-DET.html">DET</a></tt> tokens (11% of all `DET` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `Person[psor]` co-occurred: <tt><a href="kpv_ikdp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="kpv_ikdp-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (1; 100%).
 
 `DET` tokens may have the following values of `Person[psor]`:
 

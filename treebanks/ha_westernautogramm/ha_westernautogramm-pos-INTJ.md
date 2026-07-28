@@ -7,13 +7,13 @@ udver: '2'
 ## Treebank Statistics: UD_Hausa-WesternAutogramm: POS Tags: `INTJ`
 
 There are 9 `INTJ` lemmas (1%), 9 `INTJ` types (1%) and 42 `INTJ` tokens (0%).
-Out of 16 observed tags, the rank of `INTJ` is: 13 in number of lemmas, 14 in number of types and 14 in number of tokens.
+Out of 16 observed tags, the rank of `INTJ` is: 13 in number of lemmas, 15 in number of types and 14 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>tôː, iː, shiːkèːnan, m, maːdàlla, ai, hány, kâi, àsheː</em>
 
 The 10 most frequent `INTJ` types:  <em>tôː, iː, shiːkèːnan, m, maːdàlla, ai, hány, kâi, àsheː</em>
 
-The 10 most frequent ambiguous lemmas: <em>shiːkèːnan</em> (<tt><a href="ha_westernautogramm-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 1), <em>kâi</em> (<tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt> 5, <tt><a href="ha_westernautogramm-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>shiːkèːnan</em> (<tt><a href="ha_westernautogramm-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 1), <em>kâi</em> (<tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt> 14, <tt><a href="ha_westernautogramm-pos-INTJ.html">INTJ</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>shiːkèːnan</em> (<tt><a href="ha_westernautogramm-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> 1), <em>kâi</em> (<tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt> 4, <tt><a href="ha_westernautogramm-pos-INTJ.html">INTJ</a></tt> 1)
 
@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>shiːkèːnan</em> (<tt><a href="ha_w
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.458157).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.624060).
 
 The 1st highest number of forms (1) was observed with the lemma “ai”: <em>ai</em>.
 

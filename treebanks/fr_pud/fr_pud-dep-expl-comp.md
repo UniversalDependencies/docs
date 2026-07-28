@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-PUD: Relations: `expl:comp`
 
 This relation is a language-specific subtype of .
-There are also 2 other language-specific subtypes of `expl`: <tt><a href="fr_pud-dep-expl-pv.html">expl:pv</a></tt>, <tt><a href="fr_pud-dep-expl-subj.html">expl:subj</a></tt>.
+There are also 3 other language-specific subtypes of `expl`: <tt><a href="fr_pud-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="fr_pud-dep-expl-pv.html">expl:pv</a></tt>, <tt><a href="fr_pud-dep-expl-subj.html">expl:subj</a></tt>.
 
 28 nodes (0%) are attached to their parents as `expl:comp`.
 
@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 expl:comp	color:blue
-1	Il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	wordform=il
+1	Il	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	wordform=il
 2	y	y	PRON	PRP	Person=3|PronType=Prs	3	expl:comp	_	_
 3	a	avoir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	encore	encore	ADV	RB	_	3	advmod	_	_

@@ -30,16 +30,16 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `PRON`
 
-14 <tt><a href="ang_cairo-pos-PRON.html">PRON</a></tt> tokens (50% of all `PRON` tokens) have a non-empty value of `Gender`.
+14 <tt><a href="ang_cairo-pos-PRON.html">PRON</a></tt> tokens (52% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ang_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 100%), <tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9; 64%), <tt><a href="ang_cairo-feat-Person.html">Person</a></tt><tt>=3</tt> (9; 64%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ang_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 100%), <tt><a href="ang_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14; 100%), <tt><a href="ang_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (10; 71%), <tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9; 64%), <tt><a href="ang_cairo-feat-Person.html">Person</a></tt><tt>=3</tt> (9; 64%).
 
 `PRON` tokens may have the following values of `Gender`:
 
 * `Fem` (7; 50% of non-empty `Gender`): <em>heo, hyre, hire, seo</em>
 * `Masc` (4; 29% of non-empty `Gender`): <em>he, his</em>
 * `Neut` (3; 21% of non-empty `Gender`): <em>hit</em>
-* `EMPTY` (14): <em>þu, Ic, Hie, Hit, Hƿæt, Min, heom, hƿa, sƿa, þin</em>
+* `EMPTY` (13): <em>þu, Ic, Hie, Hit, Hƿæt, Min, heom, hƿa, þin</em>
 
 ### `PROPN`
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 8 <tt><a href="ang_cairo-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ang_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 100%), <tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Acc</tt> (5; 63%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ang_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 100%), <tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Acc</tt> (5; 63%), <tt><a href="ang_cairo-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (5; 63%), <tt><a href="ang_cairo-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (5; 63%).
 
 `DET` tokens may have the following values of `Gender`:
 

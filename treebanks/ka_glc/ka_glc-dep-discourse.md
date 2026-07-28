@@ -76,7 +76,7 @@ The following 2 pairs of parts of speech are connected with `discourse`: <tt><a 
 1	1959	1959	NUM	Num	NumForm=Digit|NumType=Card	2	nummod	_	Translit=1959
 2	წელს	წელი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl:tmod	_	Translit=cels
 3	ინსტიტუტს	ინსტიტუტი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obj	_	Translit=instituts
-4	შეუერთდა	ერთდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=šeuertʻda
+4	შეუერთდა	აერთიანებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=šeuertʻda
 5	საქართველოს	საქართველო	PROPN	Prop	Case=Gen|NameType=Geo|Number=Sing	6	nmod	_	Translit=sakʻartʻvelos
 6	ვეტერინარიის	ვეტერინარია	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=veterinariis
 7	სამეცნიერო-კვლევითი	სამეცნიერო-კვლევითი	ADJ	Adj	Case=Nom|Number=Sing	8	amod	_	Translit=samecʻniero-kvlevitʻi

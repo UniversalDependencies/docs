@@ -38,7 +38,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 13	тэныд	тэ	PRON	Pron	Case=Dat|Number=Sing|Person=2|PronType=Prs	12	obl	_	GTtags=Pers,Sg2,Dat|SpaceAfter=No
 14	,	,	PUNCT	CLB	_	17	punct	_	_
 15	коръясӧ	кор	ADV	Adv	AdvType=Tim|Case=Ill|Number=Plur|PronType=Rel	17	advmod	_	GTtags=Sem/Time,Pl,Ill,Rel
-16	тэа-меа	тэа-меа	PRON	Pron	_	17	nsubj	_	_
+16	тэа-меа	тэа-меа	PRON	Pron	PronType=Prs	17	nsubj	_	_
 17	окыштчылім	окыштчывны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	12	ccomp	_	GTtags=IV,Ind,Prt1,Pl1|SpaceAfter=No
 18	.	.	PUNCT	CLB	_	12	punct	_	_
 
@@ -59,7 +59,7 @@ The following 2 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 6	вайӧм	вайны	VERB	V	VerbForm=Vnoun	7	acl:relcl	_	GTtags=TV,Der,Der/ӧм,PastPtc
 7	шудсӧ	шуд	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obj	_	GTtags=Sg,Acc,PxSg3
 8	гӧгӧрволім	гӧгӧрволыны	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	GTtags=TV,Ind,Prt1,Pl1
-9	ас	ас	PRON	Pron	Case=Nom|Number=Sing	10	det	_	GTtags=Sg,Nom
+9	ас	ас	PRON	Pron	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	10	det	_	GTtags=Sg,Nom
 10	ног	ног	NOUN	N	Case=Nom|Number=Sing	8	obl	_	GTtags=Sg,Nom|SpaceAfter=No
 11	.	.	PUNCT	PUNCT	_	8	punct	_	_
 

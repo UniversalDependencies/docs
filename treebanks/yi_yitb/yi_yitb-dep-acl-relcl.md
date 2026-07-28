@@ -27,8 +27,8 @@ The following 21 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 3	זײַן	זײַן	AUX	_	_	8	cop	_	Translit=zayn|Translit_Lemma=zayn
 4	אַז	אַז	SCONJ	_	_	8	mark	_	Translit=az|Translit_Lemma=az
 5	ער	ער	PRON	_	_	8	nsubj	_	Translit=er|Translit_Lemma=er
-6	איז	זײַן	AUX	_	_	8	aux	_	Translit=iz|Translit_Lemma=zayn
-7	יענער	_	DET	_	_	8	det	_	Translit=yener
+6	איז	זײַן	AUX	_	_	8	cop	_	Translit=iz|Translit_Lemma=zayn
+7	יענער	יענער	DET	_	_	8	det	_	Translit=yener|Translit_Lemma=yener
 8	אָרעמאַן	אָרעמאַן	NOUN	_	_	0	root	_	Translit=oreman|Translit_Lemma=oreman
 9	װאָס	װאָס	SCONJ	_	_	11	mark	_	Translit=vos|Translit_Lemma=vos
 10	מען	מען	PRON	_	_	11	nsubj	_	Translit=men|Translit_Lemma=men

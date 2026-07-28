@@ -19,4 +19,4 @@ aux(განტევებაჲ, უნდა)
 aux(სახელი, ჰქონდა)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:00 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:43 CEST -->

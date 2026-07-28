@@ -13,9 +13,9 @@ The 10 most frequent `INTJ` lemmas: <em>yes, well, no, oh, please, ah, eh, adieu
 
 The 10 most frequent `INTJ` types:  <em>yes, well, no, oh, please, ah, eh, Adieu, Yeah, good-by</em>
 
-The 10 most frequent ambiguous lemmas: <em>well</em> (<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 58, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 29), <em>no</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 176, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 35, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 28, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 2), <em>please</em> (<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 10, <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> 8), <em>boom</em> (<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 1), <em>so</em> (<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 200, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>well</em> (<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 58, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 29), <em>no</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 176, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 36, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 28, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 1), <em>please</em> (<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 10, <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> 8), <em>boom</em> (<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 1), <em>so</em> (<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 200, <tt><a href="en_lines-pos-SCONJ.html">SCONJ</a></tt> 37, <tt><a href="en_lines-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>well</em> (<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 47, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 8), <em>no</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 152, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 34, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 9, <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 1), <em>please</em> (<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> 1), <em>Aha</em> (<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> 2), <em>boom</em> (<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>well</em> (<tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 47, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 8), <em>no</em> (<tt><a href="en_lines-pos-DET.html">DET</a></tt> 152, <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 35, <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 9), <em>please</em> (<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 6, <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> 1), <em>Aha</em> (<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="en_lines-pos-PROPN.html">PROPN</a></tt> 2), <em>boom</em> (<tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="en_lines-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>well</em>
@@ -23,9 +23,8 @@ The 10 most frequent ambiguous types:  <em>well</em> (<tt><a href="en_lines-pos-
   * <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 8: <em><b>well</b> , of course , you know .</em>
 * <em>no</em>
   * <tt><a href="en_lines-pos-DET.html">DET</a></tt> 152: <em>Anyway , it 's <b>no</b> big deal . It 's just a book .</em>
-  * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 34: <em>Surely <b>no</b> more than a minute or two .</em>
+  * <tt><a href="en_lines-pos-ADV.html">ADV</a></tt> 35: <em>Surely <b>no</b> more than a minute or two .</em>
   * <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 9: <em>But <b>no</b> , that did not seem possible .</em>
-  * <tt><a href="en_lines-pos-PRON.html">PRON</a></tt> 1: <em>The only product of any significance is canned tomatoes , but even they account for <b>no</b> more than 7 -% of the market .</em>
 * <em>please</em>
   * <tt><a href="en_lines-pos-INTJ.html">INTJ</a></tt> 6: <em>No questions , <b>please</b> , the young man said at last .</em>
   * <tt><a href="en_lines-pos-VERB.html">VERB</a></tt> 1: <em>Or was Mr Eichelberger simply an executive with a client to <b>please</b> and a job to do a pure professional ?</em>
@@ -38,7 +37,7 @@ The 10 most frequent ambiguous types:  <em>well</em> (<tt><a href="en_lines-pos-
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.236954).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.236968).
 
 The 1st highest number of forms (1) was observed with the lemma “Aha”: <em>Aha</em>.
 

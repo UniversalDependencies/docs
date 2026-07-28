@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="yi_yitb-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="yi_yitb-dep-obl-agent.html">obl:agent</a></tt>.
 
-158 nodes (1%) are attached to their parents as `obl:arg`.
+174 nodes (1%) are attached to their parents as `obl:arg`.
 
-82 instances of `obl:arg` (52%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.54430379746835.
+92 instances of `obl:arg` (53%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.66091954022989.
 
-The following 9 pairs of parts of speech are connected with `obl:arg`: <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (106; 67% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (23; 15% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> (14; 9% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (6; 4% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `obl:arg`: <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (108; 62% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (37; 21% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> (14; 8% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (6; 3% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

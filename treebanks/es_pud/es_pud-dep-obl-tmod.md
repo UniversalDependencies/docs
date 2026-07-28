@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="es_pud-dep-obl.html">obl</a></tt>.
 There are also 2 other language-specific subtypes of `obl`: <tt><a href="es_pud-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="es_pud-dep-obl-arg.html">obl:arg</a></tt>.
 
-68 nodes (0%) are attached to their parents as `obl:tmod`.
+67 nodes (0%) are attached to their parents as `obl:tmod`.
 
-48 instances of `obl:tmod` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.67647058823529.
+47 instances of `obl:tmod` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.67164179104478.
 
-The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (43; 63% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (16; 24% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (8; 12% instances), <tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `obl:tmod`: <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (43; 64% instances), <tt><a href="es_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="es_pud-pos-NUM.html">NUM</a></tt> (16; 24% instances), <tt><a href="es_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="es_pud-pos-NOUN.html">NOUN</a></tt> (8; 12% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 4	fgColor:white
 # visual-style 4 7 obl:tmod	color:blue
 1	La	el	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	alegre	alegre	ADJ	JJ	Gender=Fem|Number=Sing	3	amod	_	_
+2	alegre	alegre	ADJ	JJ	Number=Sing	3	amod	_	_
 3	dedicatoria	dedicatoria	NOUN	NN	Gender=Fem|Number=Sing	4	nsubj	_	_
 4	tuvo	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	lugar	lugar	NOUN	NN	Gender=Masc|Number=Sing	4	obj	_	_
@@ -84,7 +84,7 @@ The following 4 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 14	Jutting	Jutting	PROPN	NNP	Gender=Masc|Number=Sing	15	nsubj	_	_
 15	apareció	aparecer	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 16	mayormente	mayormente	ADV	RB	_	15	advmod	_	_
-17	compuesto	compuesto	ADJ	JJ	Gender=Masc|Number=Sing	15	xcomp	_	SpaceAfter=No
+17	compuesto	compuesto	ADJ	JJ	Gender=Masc|Number=Sing|VerbForm=Part	15	xcomp	_	SpaceAfter=No
 18	.	.	PUNCT	.	PunctType=Peri	15	punct	_	_
 
 ~~~

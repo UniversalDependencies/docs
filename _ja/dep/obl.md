@@ -13,4 +13,4 @@ obl(食べる, レストラン)
 case(レストラン, を)
 punct(食べる, 。)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:22 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:30 CEST -->

@@ -109,4 +109,4 @@ https://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllide
 
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:43 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:33 CEST -->

@@ -9,30 +9,28 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `xcomp`: <tt><a href="ab_abnc-dep-xcomp-lo.html">xcomp:lo</a></tt>, <tt><a href="ab_abnc-dep-xcomp-subj.html">xcomp:subj</a></tt>.
 
-56 nodes (1%) are attached to their parents as `xcomp`.
+74 nodes (1%) are attached to their parents as `xcomp`.
 
-55 instances of `xcomp` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.30357142857143.
+73 instances of `xcomp` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.44594594594595.
 
-The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (37; 66% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (14; 25% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (49; 66% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (16; 22% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (4; 5% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="ab_abnc-pos-ADP.html">ADP</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 xcomp	color:blue
-1	Наҳар	Наҳар	PROPN	Noun_Prop_Anthr_M	NameType=Prs	4	nsubj	_	LMSeg:Наҳар
-2	илымҳа	а-лы́мҳа	NOUN	Noun_NH_Sg_Poss:3SgM	Animacy=Nhum|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	obj	_	LMSeg:а-лы́мҳа
-3	кыдҵаны	а-кы́дҵара	VERB	V_Dyn_Tr_NonFin_Cnv_Abs_Aor_DO:3_DO:Ad_[LO:3SgNH]	Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[obj]=3|Subcat=Tran|Tense=Aor|VerbForm=NonFin	4	advcl:conv	_	LMSeg:а-кы́д·ҵа-ра
-4	дӡырҩуан	а́-ӡырҩра	VERB	V_Dyn_Intr_Fin_Impf_S:3SgH	Dyn=Yes|Gender[subj]=Com|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а́-ӡырҩ-ра
-5	уи	уи́	PRON	Pron_Dem_Dist_Sg	Number=Sing|PronType=Dem	6	det	_	LMSeg:уи́
-6	аҧҳәыс	а-ҧҳәы́с	NOUN	Noun_H_F_Sg_Det	Animacy=Hum|Definite=Def|Number=Sing	8	nsubj	_	LMSeg:а-ҧҳәы́с
-7	аҭакс	а-ҭа́к	NOUN	Noun_NH_Sg_Det_Advb	Animacy=Nhum|Case=Ess|Definite=Def|Number=Sing	8	xcomp	_	LMSeg:а-ҭа́к
-8	иҟалҵарызеи	а́-ҟаҵара	VERB	V_Dyn_Tr_NonFin_Fut-I_QWhat_S:3SgF_DO:Rel_Rel	Dyn=Yes|Gender[subj]=Fem|Number[subj]=Sing|Person[obj]=Rel|Person[subj]=3|Subcat=Tran|Tense=Fut|VerbForm=NonFin	4	advcl:quote	_	LMSeg:а́-ҟа·ҵа-ра
-9	ҳәа	ҳәа́	PART	Prt_Quote	_	8	mark	_	LMSeg:ҳәа́|SpaceAfter=No
-10	.	.	PUNCT	Punct_Period	_	4	punct	_	LMSeg:.
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 xcomp	color:blue
+1	аҵабырг	а-ҵа́бырг	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	3	obj	_	LMSeg:а-ҵа́бырг
+2	мҩа	а́-мҩа	NOUN	Noun_NH_Sg	Animacy=Nhum|Number=Sing	3	xcomp	_	LMSeg:а́-мҩа
+3	иқәиҵарц	а́-қәҵара	VERB	V_Dyn_Tr_NonFin_Purp_S:3SgM_DO:3	Dyn=Yes|Gender[subj]=Masc|Mood=Prp|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|VerbForm=NonFin	0	root	_	LMSeg:а́-қә·ҵа-ра
+4	ари	ари́	PRON	Pron_Dem_Prox_Sg	Number=Sing|PronType=Dem	5	det	_	LMSeg:ари́
+5	адгьыл	а́дгьыл	NOUN	Noun_NH_Sg_[Det]	Animacy=Nhum|Number=Sing	7	obl	_	LMSeg:а́дгьыл
+6	ахь	а́хь	ADP	PP_Poss:3SgNH	Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3	5	case	_	LMSeg:а́хь
+7	дшаашьҭыз	а́ашьҭра	VERB	V_Dyn_Tr_StatPass_NonFin_Cnv_Impf_How_S:3SgH	Dyn=No|Gender[subj]=Com|Number[subj]=Sing|Person[subj]=3|RelType=Mnr|Subcat=Tran|Tense=Imp|VerbForm=NonFin|Voice=Pass	3	advcl	_	LMSeg:а́а·шьҭ-ра|SpaceAfter=No
+8	.	.	PUNCT	Punct_Period	_	3	punct	_	LMSeg:.
 
 ~~~
 
@@ -64,7 +62,7 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	акәхеит	а́кәхара	VERB	V_Dyn_Intr_Fin_Aor_S:3_IO:3SgNH_Cop	Dyn=Yes|Gender[io]=Neut|Mood=Ind|Number[io]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а́кә·ха-ра|SpaceAfter=No
 3	,	,	PUNCT	Punct_Comma	_	5	punct	_	LMSeg:,
 4	иҳәыҧыӡыҧуа	а-ҳәҧы́ӡыҧра	VERB	V_Dyn_Intr_NonFin_Cnv_Abs_Pres_S:3	Dyn=Yes|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=NonFin	5	advcl:conv	_	LMSeg:а-ҳәҧы́ӡыҧ-ра
-5	иаалахеит	а́-лахара	VERB	V_Dyn_Intr_Fin_Aor_FPv:аа_S:3_[LO:3SgNH]	Dyn=Yes|Gender[lo]=Neut|Mood=Ind|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin	2	conj	_	LMSeg:а́-ла·ха-ра|SpaceAfter=No
+5	иаалахеит	а-ла́хара	VERB	V_Dyn_Intr_Fin_Aor_FPv:аа_S:3	Dyn=Yes|Mood=Ind|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin	2	conj	_	LMSeg:а-ла́·ха-ра|SpaceAfter=No
 6	.	.	PUNCT	Punct_Period	_	5	punct	_	LMSeg:.
 
 ~~~

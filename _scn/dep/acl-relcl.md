@@ -12,4 +12,4 @@ Chisti èranu cosi ca iḍḍu avìa a risòrbiri
 acl:relcl(cosi, risòrbiri)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:59 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:27 CEST -->

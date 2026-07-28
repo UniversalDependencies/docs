@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Bernadeta Griciūtė, Victor Norrman.
 
 Repository: [UD_Swedish-PUD](https://github.com/UniversalDependencies/UD_Swedish-PUD)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_pud218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -61,7 +61,11 @@ Aaron Smith and Joakim, and available from https://github.com/robertostling/efse
 The syntactic annotation was checked and corrected manually by Joakim Nivre.
 The morphological annotation was checked and corrected by Bernadeta Griciūtė.
 Later, a semi-automatic correction of features and lemmas was done by
-Victor Norrman and Joakim Nivre.
+Victor Norrman and Joakim Nivre. Further work on refining and harmonizing the
+treebank with other treebanks for Swedish has been supported by the UniDive COST
+Action (CA21167). Annotations for multiword expressions according to the PARSEME
+framework were added by Sara Stymne, based on manual annotations by Astrid Berntsson
+Ingelstam, Sara Stymne, Eva Petterson, Stella Lundqvist, and Ida Nilsson.
 
 
 # Statistics of UD Swedish PUD

@@ -14,4 +14,4 @@ udver: '2'
 * Negation particles: _garhe_, _khama_
 * Reportative particles after quotes and labels: _re_, _reha_
 * Discourse particles: _la_ (contrastive)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:52 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

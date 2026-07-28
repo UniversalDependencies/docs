@@ -61,4 +61,4 @@ advmod(δακανίδι, Ντάκα)
 ~~~
 
 -----------------------------
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:07 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:33 CEST -->

@@ -9,45 +9,44 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-1071 tokens (63%) have a non-empty value of `Number`.
-552 types (78%) occur at least once with a non-empty value of `Number`.
-145 lemmas (64%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (338; 20% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (232; 14% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (150; 9% instances), <tt><a href="xpg_kul-pos-DET.html">DET</a></tt> (107; 6% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (105; 6% instances), <tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> (92; 5% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (20; 1% instances), <tt><a href="xpg_kul-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt> (13; 1% instances).
+1214 tokens (63%) have a non-empty value of `Number`.
+664 types (76%) occur at least once with a non-empty value of `Number`.
+221 lemmas (65%) occur at least once with a non-empty value of `Number`.
+The feature is used with 9 part-of-speech tags: <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> (389; 20% instances), <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> (253; 13% instances), <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> (156; 8% instances), <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> (153; 8% instances), <tt><a href="xpg_kul-pos-DET.html">DET</a></tt> (113; 6% instances), <tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> (94; 5% instances), <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> (28; 1% instances), <tt><a href="xpg_kul-pos-PART.html">PART</a></tt> (14; 1% instances), <tt><a href="xpg_kul-pos-X.html">X</a></tt> (14; 1% instances).
 
 ### `NOUN`
 
-338 <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Number`.
+389 <tt><a href="xpg_kul-pos-NOUN.html">NOUN</a></tt> tokens (97% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (196; 58%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt> (175; 52%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (210; 54%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (71; 21% of non-empty `Number`): <em>ζεμελως, δεως, διως, δεος, ειροι, ζεμελος, σζεμελως, [δ]ε[ω]ς, [δ]ε̣[ως, [δεως]</em>
-* `Sing` (267; 79% of non-empty `Number`): <em>κακουν, κνουμανει, κακον, κνουμανε, κνουμανι, ουταν, βεκος, μανκα, μανκαι, μανκαν</em>
-* `EMPTY` (9): <em>αργου, κοροκα, νουκτον, ο̣μ̣ο̣υσασαι, ονομα, ορβουν, ουεβρα, ουελας, παρτης</em>
+* `Plur` (81; 21% of non-empty `Number`): <em>ζεμελως, δεως, διως, γουμεις, δεος, ειροι, ζεμελος, σζεμελως, ...ẹkẹs, [δ]ε̣[ως</em>
+* `Sing` (308; 79% of non-empty `Number`): <em>κακουν, κνουμανει, κακον, κνουμανε, κνουμανι, ουταν, βεκος, μανκα, μανκαι, μανκαν</em>
+* `EMPTY` (14): <em>..ρ̣ο̣ς̣, i?.., manaṇ, matẹṛ[--], αργου, κοροκα, νουκτον, ο̣μ̣ο̣υσασαι, ονομα, ορβουν</em>
 
 <table>
   <tr><th>Paradigm <i>κακουν</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>κ]ακο[υν</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>κακουν, κακον, κακ[ου]ν, κακο[υν, κακου]ν̣, [κ]α̣κου̣[ν, [κα]κον, [κακο]υν, [κακου]ν, [κακουν, κ[ακ][ον, κ[ακουν], κ]α̣κουν, κ̣[ακον, κ̣[ακον], κ̣α̣κ̣ον, κ̣α̣κουν, κα[κον], κα[κου]ν̣, κα[κουν, κα]κου[ν], κα]κουν, κα̣κ[ουν, κακ[ου]ν̣, κακ]ο[υν], κακ̣[ουν], κακ̣ο̣υ[ν, κακο[υ]ν, κακον̣, κακυν, κακων, ⟨κακουν⟩</em></td><td><em>κακα</em></td></tr>
+  <tr><td><tt></tt></td><td><em>κακουν, κακον, κακ[ου]ν, κακο[υν, κακου]ν̣, [κ]α̣κου̣[ν, [κα]κον, [κακο]υν, [κακου]ν, [κακουν, κ[ακ][ον, κ[ακουν], κ]α̣κουν, κ]ακο[υν, κ̣[ακον, κ̣[ακον], κ̣α̣κ̣ον, κ̣α̣κουν, κα[κον], κα[κου]ν̣, κα[κουν, κα]κου[ν], κα]κουν, κα̣κ[ουν, κακ[ου]ν̣, κακ]ο[υν], κακ̣[ουν], κακ̣ο̣υ[ν, κακο[υ]ν, κακον̣, κακυν, κακων, ⟨κακουν⟩</em></td><td><em>κακα</em></td></tr>
 </table>
 
 ### `VERB`
 
-232 <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Number`.
+253 <tt><a href="xpg_kul-pos-VERB.html">VERB</a></tt> tokens (99% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="xpg_kul-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (137; 59%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (135; 58%), <tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (135; 58%), <tt><a href="xpg_kul-feat-Person.html">Person</a></tt><tt>=3</tt> (135; 58%), <tt><a href="xpg_kul-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (133; 57%), <tt><a href="xpg_kul-feat-Voice.html">Voice</a></tt><tt>=Mid</tt> (122; 53%), <tt><a href="xpg_kul-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (121; 52%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="xpg_kul-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (156; 62%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (154; 61%), <tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (154; 61%), <tt><a href="xpg_kul-feat-Person.html">Person</a></tt><tt>=3</tt> (152; 60%), <tt><a href="xpg_kul-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (146; 58%), <tt><a href="xpg_kul-feat-Voice.html">Voice</a></tt><tt>=Mid</tt> (134; 53%), <tt><a href="xpg_kul-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (128; 51%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (10; 4% of non-empty `Number`): <em>γερε[ν/τ], δακαρεν, δεδασσιννι, εγουννου, ενσταρνα̣, ισνιο[υ], ουρν̣ουσαεν, τιττ[ετικμενοι, τιττετικμ̣[ε]νοι, τιττετικμενα</em>
-* `Sing` (222; 96% of non-empty `Number`): <em>αδδακετ, αδακετ, τιττετικμενος, τιτετικμενος, εγεδου, γεγρειμεναν, δακετ, αββερετ, αββερετοι, αδδακ[ετ</em>
-* `EMPTY` (2): <em>εδαες, ριδιτι</em>
+* `Plur` (14; 6% of non-empty `Number`): <em>γερε[ν/τ], δακαρεν, δεδασσιννι, εγουννου, ενσταρνα̣, ισνιο[υ], νεκοινουν, ο̣[υ]ε̣λ̣α̣σ̣κοννου, ουελασκοννου, ουρν̣ουσαεν</em>
+* `Sing` (239; 94% of non-empty `Number`): <em>αδδακετ, αδακετ, τιττετικμενος, τιτετικμενος, εγεδου, γεγρειμεναν, edaes, δακετ, αββερετ, αββερετοι</em>
+* `EMPTY` (3): <em>edaie, εδαες, ριδιτι</em>
 
 <table>
   <tr><th>Paradigm <i>αδδακετ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="xpg_kul-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="xpg_kul-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="xpg_kul-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="xpg_kul-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>δακαρεν</em></td></tr>
-  <tr><td><tt><tt><a href="xpg_kul-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="xpg_kul-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="xpg_kul-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εδαες</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="xpg_kul-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="xpg_kul-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>edaes, εδαες, ẹḍaẹ[s]</em></td><td></td></tr>
   <tr><td><tt><tt><a href="xpg_kul-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="xpg_kul-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xpg_kul-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>αδδακετ, αδακετ, δακετ, αδδακ[ετ, [α]δδακετ, [α]δδακεττ, [αδ]δ[ακετ], [αδακετ, [αδδακ]εν, α]δδακετ, α̣δ[δ]ακετ, α̣δ̣δ̣α̣κ̣ε̣τ̣, αδ[δ]ακετ, αδ[δα]κε, αδ[δακετ, αδ]δ̣[ακ]ετ, αδ̣[δακε]τ̣, αδ̣ακ˹ετ˺, αδ̣δακετ, αδα[κ]ετ, αδακε, αδακε[τ, αδακε̣τ̣, αδακεν, αδδ[α]κετ, αδδα]κετ̣, αδδακ]ε̣τ̣, αδδακεκ, αδδακεμ, αδδακετ], αδοκετ, δα][κετ, δοκε[τ, δοκετ, ⟨αδδακ⟩ε⟨τ⟩</em></td><td></td></tr>
   <tr><td><tt><tt><a href="xpg_kul-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="xpg_kul-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xpg_kul-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>[αδδ]α̣κετορ, αδα]κκιτορ, αδδα̣κεττο̣ρ, αδδακετορ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="xpg_kul-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="xpg_kul-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="xpg_kul-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>δεδασσιννι</em></td></tr>
@@ -55,83 +54,86 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PRON`
 
-150 <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+156 <tt><a href="xpg_kul-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (132; 88%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Nom</tt> (119; 79%), <tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (106; 71%), <tt><a href="xpg_kul-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (81; 54%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (135; 87%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Nom</tt> (123; 79%), <tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (109; 70%), <tt><a href="xpg_kul-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (85; 54%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (1; 1% of non-empty `Number`): <em>τις</em>
-* `Sing` (149; 99% of non-empty `Number`): <em>ιος, [ιος, οι, [ι]ος, ις, τος, ιοι, κος, ταν, [ιο]ς</em>
+* `Sing` (155; 99% of non-empty `Number`): <em>ιος, [ιος, οι, [ι]ος, ις, τος, ιοι, κος, ταν, [ιο]ς</em>
 
-`Number` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Number`.
+
+### `PROPN`
+
+153 <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (132; 86%).
+
+`PROPN` tokens may have the following values of `Number`:
+
+* `Plur` (1; 1% of non-empty `Number`): <em>perkạmạṇeiṣ</em>
+* `Sing` (152; 99% of non-empty `Number`): <em>τιε, τι, τιος, ates, τιη, βας, τιαν, midas, βαταν, atas</em>
+* `EMPTY` (1): <em>αδεν⟨π⟩ατω</em>
+
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (63) occur only with one value of `Number`.
 
 ### `DET`
 
-107 <tt><a href="xpg_kul-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Number`.
+113 <tt><a href="xpg_kul-pos-DET.html">DET</a></tt> tokens (97% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (103; 96%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt> (99; 93%), <tt><a href="xpg_kul-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (94; 88%), <tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (79; 74%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="xpg_kul-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (108; 96%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt> (103; 91%), <tt><a href="xpg_kul-feat-ExtPos.html">ExtPos</a></tt><tt>=EMPTY</tt> (99; 88%), <tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (82; 73%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (3; 3% of non-empty `Number`): <em>σως, τας</em>
-* `Sing` (104; 97% of non-empty `Number`): <em>σεμουν, σεμον, σα, σας, σεμου, οι, ουα, σαι, σεμ[ουν, σεμουν]</em>
-* `EMPTY` (1): <em>σεμουν</em>
+* `Plur` (4; 4% of non-empty `Number`): <em>σως, veiṢ, τας</em>
+* `Sing` (109; 96% of non-empty `Number`): <em>σεμουν, σεμον, σα, σας, σεμου, οι, ουα, σαι, σεμ[ουν, σεμουν]</em>
+* `EMPTY` (3): <em>Sit, σας, σεμουν</em>
 
 <table>
   <tr><th>Paradigm <i>σεμουν</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>σ̣ο̣υ̣ν</em></td><td></td></tr>
   <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>{σεμον}, σεμουν</em></td><td></td></tr>
   <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="xpg_kul-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>σα, σας</em></td><td></td></tr>
   <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="xpg_kul-feat-ExtPos.html">ExtPos</a></tt><tt>=DET</tt>|<tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>σεμον, σεμουν, [σεμουν, σ[εμ]ον, σεμ[ουν, σεμ̣[ουν]</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>σα, σαι, σ]α, σαν, σας</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>σα, σαι, σ]α, σ̣α̣, σαν, σας</em></td><td></td></tr>
   <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>σεμουν, σεμον, σεμου, σεμουν], [σ]εμον, [σε]μ̣ου̣ν, σ[εμουν, σ]εμ̣ουν, σ̣[εμουν, σ̣εμον, σε]μ̣ον, σε]μον, σεμ[ουν, σεμ[υ]ν, σεμ]ουν, σεμ̣[ουν, σεμ̣ιν, σεμιν, σεμιντ, σεμο]υ̣ν, σεμον̣, σεμου[ν, σεμου]ν, σεμουν̣, σεμ⟨ου⟩ν, σιμουν, ⟨σ⟩εμ̣[ουν</em></td><td></td></tr>
   <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>σεμ]ον</em></td><td><em>σως</em></td></tr>
   <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>σας</em></td><td></td></tr>
 </table>
 
-### `PROPN`
-
-105 <tt><a href="xpg_kul-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (90; 86%), <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Dat</tt> (58; 55%).
-
-`PROPN` tokens may have the following values of `Number`:
-
-* `Sing` (105; 100% of non-empty `Number`): <em>τιε, τι, τιος, τιη, βας, τιαν, βαταν, εινεα̣͜, τι]ε, [Τι]</em>
-* `EMPTY` (1): <em>αδεν⟨π⟩ατω</em>
-
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (30) occur only with one value of `Number`.
-
 ### `AUX`
 
-92 <tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Number`.
+94 <tt><a href="xpg_kul-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="xpg_kul-feat-Person.html">Person</a></tt><tt>=3</tt> (92; 100%), <tt><a href="xpg_kul-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (92; 100%), <tt><a href="xpg_kul-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (92; 100%), <tt><a href="xpg_kul-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (92; 100%), <tt><a href="xpg_kul-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (89; 97%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="xpg_kul-feat-Person.html">Person</a></tt><tt>=3</tt> (94; 100%), <tt><a href="xpg_kul-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (94; 100%), <tt><a href="xpg_kul-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (94; 100%), <tt><a href="xpg_kul-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (93; 99%), <tt><a href="xpg_kul-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (90; 96%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (5; 5% of non-empty `Number`): <em>αδειννου, ειν]νου, ιννου, ισνου, ⟨ι⟩ννου</em>
-* `Sing` (87; 95% of non-empty `Number`): <em>ειτου, αδειτου, ειτου], ειτο[υ], [ειτου], ε̣ιτου, ειτ[ου], [ειτ]ου, [ειτο]υ, α[δειτου]</em>
+* `Plur` (4; 4% of non-empty `Number`): <em>αδειννου, ειν]νου, ιννου, ⟨ι⟩ννου</em>
+* `Sing` (90; 96% of non-empty `Number`): <em>ειτου, αδειτου, ειτου], ειτο[υ], [ειτου], ε̣ιτου, ειτ[ου], [ειτ]ου, [ειτο]υ, en</em>
 
 <table>
   <tr><th>Paradigm <i>ituv</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="xpg_kul-feat-Mood.html">Mood</a></tt><tt>=Imp</tt></tt></td><td><em>ειτου, αδειτου, ειτου], ειτο[υ], [ειτου], ε̣ιτου, ειτ[ου], [ειτ]ου, [ειτο]υ, α[δειτου], α̣δ̣ειτου, αδ]ειτου, αδ̣ειτ̣ου, αδε[ι]του, αδε̣[ι]του, αδει[του, αδει[του], ε[ι]τ̣ου, ε̣ι[τ]ο[υ, ε̣ιτου̣, ειδο[υ], εινν̣ο̣υ̣, ειτ͜ου, ειτου̣, ειτυ, ητου, ιτου</em></td><td><em>αδειννου, ειν]νου, ιννου, ισνου, ⟨ι⟩ννου</em></td></tr>
-  <tr><td><tt><tt><a href="xpg_kul-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>ειτου</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="xpg_kul-feat-Mood.html">Mood</a></tt><tt>=Ind</tt></tt></td><td><em>en</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="xpg_kul-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ειτου, αδειτου, ειτου], ειτο[υ], [ειτου], ε̣ιτου, ειτ[ου], [ειτ]ου, [ειτο]υ, α[δειτου], α̣δ̣ειτου, αδ]ειτου, αδ̣ειτ̣ου, αδε[ι]του, αδε̣[ι]του, αδει[του, αδει[του], ε[ι]τ̣ου, ε̣ι[τ]ο[υ, ε̣ιτου̣, ειδο[υ], εινν̣ο̣υ̣, ειτ͜ου, ειτου̣, ειτυ, ητου, ιτου</em></td><td><em>αδειννου, ειν]νου, ιννου, ⟨ι⟩ννου</em></td></tr>
+  <tr><td><tt><tt><a href="xpg_kul-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="xpg_kul-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ειτου</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
-20 <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> tokens (95% of all `ADJ` tokens) have a non-empty value of `Number`.
+28 <tt><a href="xpg_kul-pos-ADJ.html">ADJ</a></tt> tokens (93% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 60%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Nom</tt> (18; 64%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (2; 10% of non-empty `Number`): <em>ειλικρινη, παντα</em>
-* `Sing` (18; 90% of non-empty `Number`): <em>ακκαλος, ακκαλο̣[ς, αμι̣α̣σιαν, αωρω, ζως, μεκα, μεκαν, μοναν, ναδροτος, νιοισιος</em>
-* `EMPTY` (1): <em>παρταν</em>
+* `Plur` (4; 14% of non-empty `Number`): <em>ειλικρινη, ομαστα, παντα, παντης</em>
+* `Sing` (24; 86% of non-empty `Number`): <em>ακκαλος, maneion, mekas, ακκαλο̣[ς, αμι̣α̣σιαν, αωρω, γλουρεος, ζως, λαπτα, μακραν</em>
+* `EMPTY` (2): <em>mlalin, παρταν</em>
 
-`Number` seems to be **lexical feature** of `ADJ`. 100% lemmas (15) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADJ`. 100% lemmas (20) occur only with one value of `Number`.
 
 ### `PART`
 
@@ -142,19 +144,17 @@ The most frequent other feature values with which `PART` and `Number` co-occurre
 `PART` tokens may have the following values of `Number`:
 
 * `Sing` (14; 100% of non-empty `Number`): <em>του, τι, το, τ[ο]υ, τ[ου], τ̣ο, του]</em>
-* `EMPTY` (72): <em>νι, [νι, με, ν[ι, ν̣[ι, ν̣ι̣, υ</em>
+* `EMPTY` (74): <em>νι, [νι, με, ν[ι, ν̣[ι, ν̣ι̣, υ</em>
 
 ### `X`
 
-13 <tt><a href="xpg_kul-pos-X.html">X</a></tt> tokens (16% of all `X` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `X` and `Number` co-occurred: <tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7; 54%).
+14 <tt><a href="xpg_kul-pos-X.html">X</a></tt> tokens (14% of all `X` tokens) have a non-empty value of `Number`.
 
 `X` tokens may have the following values of `Number`:
 
-* `Plur` (7; 54% of non-empty `Number`): <em>αστοι, δεκμουταης, δεκμουταις, μουρσα̣, οκαυγοσι, οκκαυγοι, παρτης</em>
-* `Sing` (6; 46% of non-empty `Number`): <em>α̣σ̣τ̣αι̣, λο̣δ̣ιμ̣ον, μειομον, νου[.], πασε, σαυναμαν</em>
-* `EMPTY` (69): <em>κοννου, --, ----, -----, ---], -.Ο̣....Ο̣Υ̣, ..]ι, [---]οι, [................]ι, [...........]ει</em>
+* `Plur` (7; 50% of non-empty `Number`): <em>αστοι, δεκμουταης, δεκμουταις, μουρσα̣, οκαυγοσι, οκκαυγοι, παρτης</em>
+* `Sing` (7; 50% of non-empty `Number`): <em>α̣σ̣τ̣αι̣, λο̣δ̣ιμ̣ον, μειομον, νου[.], πασε, ποκραιου, σαυναμαν</em>
+* `EMPTY` (85): <em>--, ----, -----, ---], -.Ο̣....Ο̣Υ̣, ..]ι, [---]gen, [---]οι, [---]ḷiake, [---]ṣạbas</em>
 
 <table>
   <tr><th>Paradigm <i>ασται</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -162,17 +162,19 @@ The most frequent other feature values with which `X` and `Number` co-occurred: 
   <tr><td><tt><tt><a href="xpg_kul-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="xpg_kul-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>αστοι</em></td></tr>
 </table>
 
+`Number` seems to be **lexical feature** of `X`. 91% lemmas (10) occur only with one value of `Number`.
+
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="xpg_kul-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (104; 100%),
-<tt>VERB --[<tt><a href="xpg_kul-dep-obj.html">obj</a></tt>]--> NOUN</tt> (104; 97%),
-<tt>NOUN --[<tt><a href="xpg_kul-dep-det.html">det</a></tt>]--> DET</tt> (97; 95%),
-<tt>VERB --[<tt><a href="xpg_kul-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (88; 96%),
-<tt>VERB --[<tt><a href="xpg_kul-dep-cop.html">cop</a></tt>]--> AUX</tt> (82; 100%),
-<tt>VERB --[<tt><a href="xpg_kul-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (69; 100%),
+<tt>VERB --[<tt><a href="xpg_kul-dep-obj.html">obj</a></tt>]--> NOUN</tt> (110; 96%),
+<tt>VERB --[<tt><a href="xpg_kul-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (107; 100%),
+<tt>NOUN --[<tt><a href="xpg_kul-dep-det.html">det</a></tt>]--> DET</tt> (103; 95%),
+<tt>VERB --[<tt><a href="xpg_kul-dep-iobj.html">iobj</a></tt>]--> NOUN</tt> (90; 96%),
+<tt>VERB --[<tt><a href="xpg_kul-dep-cop.html">cop</a></tt>]--> AUX</tt> (84; 100%),
+<tt>VERB --[<tt><a href="xpg_kul-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (72; 100%),
 <tt>VERB --[<tt><a href="xpg_kul-dep-obl.html">obl</a></tt>]--> PROPN</tt> (47; 96%),
-<tt>NOUN --[<tt><a href="xpg_kul-dep-conj.html">conj</a></tt>]--> NOUN</tt> (31; 82%),
-<tt>PRON --[<tt><a href="xpg_kul-dep-acl.html">acl</a></tt>]--> VERB</tt> (14; 100%),
-<tt>DET --[<tt><a href="xpg_kul-dep-fixed.html">fixed</a></tt>]--> PART</tt> (13; 100%).
+<tt>NOUN --[<tt><a href="xpg_kul-dep-conj.html">conj</a></tt>]--> NOUN</tt> (33; 80%),
+<tt>PRON --[<tt><a href="xpg_kul-dep-acl.html">acl</a></tt>]--> VERB</tt> (15; 100%),
+<tt>VERB --[<tt><a href="xpg_kul-dep-conj.html">conj</a></tt>]--> VERB</tt> (14; 100%).
 

@@ -10,23 +10,23 @@ This feature is universal.
 It occurs with 2 different values: `Imp`, `Ind`.
 Some words have combined values of the feature; 1 combinations have been observed: `Imp|Ind`.
 
-4707 tokens (18%) have a non-empty value of `Mood`.
-1326 types (48%) occur at least once with a non-empty value of `Mood`.
-511 lemmas (29%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (4177; 16% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (530; 2% instances).
+4870 tokens (18%) have a non-empty value of `Mood`.
+1369 types (48%) occur at least once with a non-empty value of `Mood`.
+524 lemmas (29%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (4320; 16% instances), <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> (550; 2% instances).
 
 ### `VERB`
 
-4177 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Mood`.
+4320 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4177; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2504; 60%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=3</tt> (2457; 59%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4320; 100%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2573; 60%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=3</tt> (2519; 58%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Imp` (193; 5% of non-empty `Mood`): <em>remaã, yuri, Epurú, Iruri, retirika, Ekũi, eyuri, ikũi, pemunhã, remeẽ</em>
-* `Imp,Ind` (157; 4% of non-empty `Mood`): <em>rerikú, remunhã, resú, Remaã, remundú, reruri, pemaã, pemunhã, rembeú, remenari</em>
-* `Ind` (3827; 92% of non-empty `Mood`): <em>unheẽ, usú, usika, umaã, umunhã, urikú, upitá, upisika, umbeú, uri</em>
-* `EMPTY` (110): <em>yumunhã, putari, rasú, yuká, munhã, nupá, ukwawasawa, watá, kwáu, pemanduarisawa</em>
+* `Imp` (201; 5% of non-empty `Mood`): <em>remaã, yuri, Ekũi, Epurú, Iruri, retirika, eyuri, ikũi, pemunhã, remeẽ</em>
+* `Imp,Ind` (162; 4% of non-empty `Mood`): <em>rerikú, remunhã, resú, Remaã, remundú, rembeú, reruri, pemaã, pemunhã, pewatá</em>
+* `Ind` (3957; 92% of non-empty `Mood`): <em>unheẽ, usú, usika, umaã, umunhã, urikú, upitá, upisika, umbeú, uri</em>
+* `EMPTY` (114): <em>yumunhã, putari, rasú, yuká, munhã, nupá, ukwawasawa, watá, kutuka, kwáu</em>
 
 <table>
   <tr><th>Paradigm <i>sú</i></th><th><tt>Imp,Ind</tt></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -44,16 +44,16 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-530 <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Mood`.
+550 <tt><a href="yrl_complin-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="yrl_complin-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (530; 100%), <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (530; 100%), <tt><a href="yrl_complin-feat-Style.html">Style</a></tt><tt>=EMPTY</tt> (466; 88%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=3</tt> (286; 54%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (285; 54%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="yrl_complin-feat-Compound.html">Compound</a></tt><tt>=EMPTY</tt> (550; 100%), <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (550; 100%), <tt><a href="yrl_complin-feat-Style.html">Style</a></tt><tt>=EMPTY</tt> (479; 87%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (295; 54%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=3</tt> (295; 54%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Imp` (17; 3% of non-empty `Mood`): <em>Ekũi, Kũi, resú, Pekũi, pesú</em>
-* `Imp,Ind` (13; 2% of non-empty `Mood`): <em>reikú, resú, pesú, Pepuderi</em>
-* `Ind` (500; 94% of non-empty `Mood`): <em>uikú, usú, yasú, asú, xaikú, aikú, xasú, yaikú, reikú, upuderi</em>
-* `EMPTY` (169): <em>putari, kwáu, ikú, kari, kwá, vutari</em>
+* `Imp,Ind` (14; 3% of non-empty `Mood`): <em>reikú, resú, pesú, Pepuderi</em>
+* `Ind` (519; 94% of non-empty `Mood`): <em>uikú, usú, yasú, asú, xaikú, xasú, aikú, yaikú, reikú, upuderi</em>
+* `EMPTY` (186): <em>putari, kwáu, ikú, kari, kwá, vutari</em>
 
 <table>
   <tr><th>Paradigm <i>sú</i></th><th><tt>Imp,Ind</tt></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th></tr>
@@ -70,12 +70,14 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="yrl_complin-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (603; 89%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (404; 86%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-aux.html">aux</a></tt>]--> AUX</tt> (371; 69%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (244; 79%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (116; 91%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-conj.html">conj</a></tt>]--> VERB</tt> (82; 96%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (617; 89%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (414; 86%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-aux.html">aux</a></tt>]--> AUX</tt> (389; 68%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (253; 79%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (121; 91%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-conj.html">conj</a></tt>]--> VERB</tt> (85; 96%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (3; 75%),
 <tt>VERB --[<tt><a href="yrl_complin-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 100%),
-<tt>VERB --[<tt><a href="yrl_complin-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2; 67%).
+<tt>AUX --[<tt><a href="yrl_complin-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="yrl_complin-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%).
 

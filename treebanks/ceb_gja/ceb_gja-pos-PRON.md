@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>ka</em> (<tt><a href="ceb_gja-pos-PRO
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 2.111111 (the average of all parts of speech is 1.162162).
+The form / lemma ratio of `PRON` is 2.111111 (the average of all parts of speech is 1.162584).
 
 The 1st highest number of forms (7) was observed with the lemma “ako”: <em>Akoy, ako, ko, koy, nako, taka, tika</em>.
 

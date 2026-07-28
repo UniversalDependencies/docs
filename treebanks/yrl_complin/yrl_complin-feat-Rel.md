@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `Abs`, `Cont`, `NCont`.
 
-1177 tokens (5%) have a non-empty value of `Rel`.
-277 types (10%) occur at least once with a non-empty value of `Rel`.
-146 lemmas (8%) occur at least once with a non-empty value of `Rel`.
-The feature is used with 4 part-of-speech tags: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (841; 3% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (219; 1% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (115; 0% instances), <tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
+1204 tokens (4%) have a non-empty value of `Rel`.
+282 types (10%) occur at least once with a non-empty value of `Rel`.
+150 lemmas (8%) occur at least once with a non-empty value of `Rel`.
+The feature is used with 4 part-of-speech tags: <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> (858; 3% instances), <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> (226; 1% instances), <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> (118; 0% instances), <tt><a href="yrl_complin-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-841 <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> tokens (18% of all `NOUN` tokens) have a non-empty value of `Rel`.
+858 <tt><a href="yrl_complin-pos-NOUN.html">NOUN</a></tt> tokens (18% of all `NOUN` tokens) have a non-empty value of `Rel`.
 
-The most frequent other feature values with which `NOUN` and `Rel` co-occurred: <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (781; 93%).
+The most frequent other feature values with which `NOUN` and `Rel` co-occurred: <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (798; 93%).
 
 `NOUN` tokens may have the following values of `Rel`:
 
-* `Abs` (198; 24% of non-empty `Rel`): <em>uka, tatá, ukara, tuixawa, tetama, timbiú, ukena, pé, teapú, tendawa</em>
-* `Cont` (406; 48% of non-empty `Rel`): <em>ruka, raíra, ramunha, retama, rimirikú, rapé, rera, rupitá, rangawa, resá</em>
-* `NCont` (237; 28% of non-empty `Rel`): <em>suka, sera, ximirikú, taíra, ximiára, sesá, suaxara, sakakwera, sawa, sukwera</em>
+* `Abs` (201; 23% of non-empty `Rel`): <em>uka, tatá, ukara, tuixawa, tetama, timbiú, ukena, pé, teapú, tendawa</em>
+* `Cont` (418; 49% of non-empty `Rel`): <em>ruka, raíra, ramunha, retama, rimirikú, rapé, rera, rupitá, rangawa, resá</em>
+* `NCont` (239; 28% of non-empty `Rel`): <em>suka, sera, ximirikú, taíra, ximiára, sesá, suaxara, sakakwera, sawa, sukwera</em>
 
 <table>
   <tr><th>Paradigm <i>uka</i></th><th><tt>Abs</tt></th><th><tt>Cont</tt></th><th><tt>NCont</tt></th></tr>
@@ -38,14 +38,14 @@ The most frequent other feature values with which `NOUN` and `Rel` co-occurred: 
 
 ### `ADP`
 
-219 <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> tokens (12% of all `ADP` tokens) have a non-empty value of `Rel`.
+226 <tt><a href="yrl_complin-pos-ADP.html">ADP</a></tt> tokens (12% of all `ADP` tokens) have a non-empty value of `Rel`.
 
-The most frequent other feature values with which `ADP` and `Rel` co-occurred: <tt><a href="yrl_complin-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (213; 97%).
+The most frequent other feature values with which `ADP` and `Rel` co-occurred: <tt><a href="yrl_complin-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (220; 97%).
 
 `ADP` tokens may have the following values of `Rel`:
 
-* `Cont` (174; 79% of non-empty `Rel`): <em>resé, resewara, ruakí, rakakwera, renundé, aresé, rakwera, ruaxara, renuné, rikuyara</em>
-* `NCont` (45; 21% of non-empty `Rel`): <em>sesé, suakí, sesewara, sakakwera, suaxara</em>
+* `Cont` (180; 80% of non-empty `Rel`): <em>resé, resewara, ruakí, rakakwera, renundé, aresé, rakwera, ruaxara, renuné, rikuyara</em>
+* `NCont` (46; 20% of non-empty `Rel`): <em>sesé, suakí, sakakwera, sesewara, suaxara</em>
 
 <table>
   <tr><th>Paradigm <i>resé</i></th><th><tt>Cont</tt></th><th><tt>NCont</tt></th></tr>
@@ -59,14 +59,14 @@ The most frequent other feature values with which `ADP` and `Rel` co-occurred: <
 
 ### `VERB`
 
-115 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Rel`.
+118 <tt><a href="yrl_complin-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Rel`.
 
-The most frequent other feature values with which `VERB` and `Rel` co-occurred: <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (114; 99%), <tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (113; 98%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (76; 66%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=3</tt> (76; 66%).
+The most frequent other feature values with which `VERB` and `Rel` co-occurred: <tt><a href="yrl_complin-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (117; 99%), <tt><a href="yrl_complin-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (116; 98%), <tt><a href="yrl_complin-feat-Number.html">Number</a></tt><tt>=Sing</tt> (78; 66%), <tt><a href="yrl_complin-feat-Person.html">Person</a></tt><tt>=3</tt> (78; 66%).
 
 `VERB` tokens may have the following values of `Rel`:
 
-* `Cont` (39; 34% of non-empty `Rel`): <em>rurí, resarái, rikwé, raisú, ranhẽ, rakú, rapí, rawa, renúi, ripiaka</em>
-* `NCont` (76; 66% of non-empty `Rel`): <em>surí, sasí, sakú, tiapú, sikwé, setá, tipí, Ikupukú, sesaíma, sawa</em>
+* `Cont` (40; 34% of non-empty `Rel`): <em>rurí, resarái, raisú, rikwé, ranhẽ, rakú, rapí, rawa, renúi, ripiaka</em>
+* `NCont` (78; 66% of non-empty `Rel`): <em>surí, sasí, tiapú, sakú, sikwé, setá, tipí, Ikupukú, sesaíma, sawa</em>
 
 <table>
   <tr><th>Paradigm <i>rurí</i></th><th><tt>Cont</tt></th><th><tt>NCont</tt></th></tr>

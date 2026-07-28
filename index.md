@@ -24,7 +24,7 @@ If you are new to UD, you should start by reading the first part of the Short In
   <td rowspan="2" style="padding-left: 1em"><a href="guidelines.html">Annotation guidelines</a> (<a href="changes.html">changes</a>)<br/>
   &nbsp;&nbsp;&nbsp;<a href="u/pos/index.html">UPOS tags</a> ▪ <a href="u/feat/index.html">feats</a> ▪ <a href="u/dep/index.html">deprels</a> ▪ <a href="format.html">CoNLL-U format</a></td>
   <td rowspan="2" style="padding-left: 1em" id="download">Download UD treebanks: <a href="download.html">all releases</a><br/>
-                  ☞ <a href="http://hdl.handle.net/11234/1-6036">Release 2.17</a> <small>(November 15, 2025)</small></td>
+                  ☞ <a href="http://hdl.handle.net/11234/1-6149">Release 2.18</a> <small>(May 15, 2026)</small></td>
   <td style="padding-left: 1em"><a href="https://lists.uu.se/sympa/info/lingfil-ud">UD mailing list</a></td>
 </tr>
 <tr>
@@ -49,7 +49,8 @@ If you are new to UD, you should start by reading the first part of the Short In
  <a href="https://ufal.mff.cuni.cz/universal-derivations">UDer: Universal Derivations</a> ▪
  <a href="https://gitlab.com/parseme/corpora/-/wikis/home">PARSEME: Multiword expressions</a> ▪
  <a href="https://unidive.lisn.upsaclay.fr/doku.php?id=start">UniDive COST Action</a> ▪
- <a href="https://github.com/LeonieWeissweiler/UCxn">UCxn: Universal Constructions</a>
+ <a href="https://github.com/LeonieWeissweiler/UCxn">UCxn: Universal Constructions</a> ▪
+ <a href="https://huggingface.co/datasets/universal-dependencies/universal_dependencies">UD on Hugging Face</a>
 </td></tr>
 </table>
 
@@ -93,3 +94,18 @@ longer maintained and they have been excluded from the most recent release.
 </div>
 
 <small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
+
+## Diversity of the Latest Release
+
+### Languages per Family (Genus)
+
+<img style="max-height: 300px" src="img/lang_per_fam.png" />
+<img style="max-height: 300px" src="img/lang_per_gen_ie.png" />
+
+### Words per Family (Genus)
+
+<img style="max-height: 300px" src="img/word_per_fam.png" />
+<img style="max-height: 300px" src="img/word_per_gen_ie.png" />
+
+See also separate pages with a [list of UD languages](languages.html) and
+a [list of scripts](survey-scripts.html) used in UD treebanks.

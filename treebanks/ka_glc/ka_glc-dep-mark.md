@@ -13,7 +13,7 @@ This relation is universal.
 644 instances of `mark` (98%) are right-to-left (child precedes parent).
 Average distance between parent and child is 3.89345509893455.
 
-The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (344; 52% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (213; 32% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (66; 10% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (344; 52% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (214; 33% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (65; 10% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (13; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (4; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt>-<tt><a href="ka_glc-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,7 +25,7 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 1	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	4	advmod	_	Translit=mxolod
 2	მეშვიდე	შვიდი	NUM	Num	Case=Dat|NumType=Ord	3	nummod	_	Translit=mešvide
 3	დღეს	დღე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=dġes
-4	შეთანხმდნენ	თანხმდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=šetʻanxmdnen
+4	შეთანხმდნენ	ითანხმებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=šetʻanxmdnen
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 6	რომ	რომ	SCONJ	Conj	_	9	mark	_	Translit=rom
 7	მე	მე	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Translit=me
@@ -69,7 +69,7 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 6	მცენარეულ	მცენარეული	ADJ	Adj	Case=Dat|Number=Sing	7	amod	_	Translit=mcʻenareul
 7	ორგანიზმ	ორგანიზმი	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	9	obl	_	Translit=organizm
 8	ში	ში	ADP	Post	AdpType=Post|Case=Dat	7	case	_	Translit=ši
-9	გვხვდება	ხვდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Subcat=Indir|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=gvxvdeba
+9	გვხვდება	ახვედრებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[io]=Plur|Number[subj]=Sing|Person[io]=1|Person[subj]=3|Subcat=Indir|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=gvxvdeba
 10	.	.	PUNCT	F	PunctType=Peri	9	punct	_	Translit=.
 
 ~~~

@@ -26,7 +26,7 @@ The following 8 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	6:aux	_
 3	Vermeeri	Vermeer	PROPN	S	Case=Gen|Number=Sing	4	nmod	4:nmod	NE=B-Per
 4	looming	looming	NOUN	S	Case=Nom|Number=Sing	6	nsubj	6:nsubj	_
-5	alati	alati	ADV	D	_	6	advmod	6:advmod	_
+5	alati	alati	ADV	D	_	6	advmod:tmod	6:advmod	_
 6	fastsineerinud	fastsineerima	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	SpaceAfter=No
 7	.	.	PUNCT	Z	_	6	punct	6:punct	_
 

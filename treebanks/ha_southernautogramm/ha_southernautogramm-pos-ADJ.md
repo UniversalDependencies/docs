@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hausa-SouthernAutogramm: POS Tags: `ADJ`
 
 There are 23 `ADJ` lemmas (2%), 27 `ADJ` types (1%) and 45 `ADJ` tokens (0%).
-Out of 16 observed tags, the rank of `ADJ` is: 9 in number of lemmas, 10 in number of types and 16 in number of tokens.
+Out of 16 observed tags, the rank of `ADJ` is: 8 in number of lemmas, 11 in number of types and 16 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>ɗan, ainihiː, fariː, jaː, kalàː-kalàː, saːboː, tsoːhoː, baƙa-baƙaː, baƙiː, bàbbaː</em>
 
@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>ɗan</em> (<tt><a href="ha_southernau
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.173913 (the average of all parts of speech is 1.357040).
+The form / lemma ratio of `ADJ` is 1.173913 (the average of all parts of speech is 1.352436).
 
 The 1st highest number of forms (3) was observed with the lemma “ɗan”: <em>ƴan, ƴar̃, ɗan</em>.
 
@@ -77,7 +77,7 @@ Parents of `ADJ` nodes belong to 6 different parts of speech: <tt><a href="ha_so
 
 The highest child degree of a `ADJ` node is 5.
 
-Children of `ADJ` nodes are attached using 12 different relations: <tt><a href="ha_southernautogramm-dep-punct.html">punct</a></tt> (5; 25% instances), <tt><a href="ha_southernautogramm-dep-compound.html">compound</a></tt> (2; 10% instances), <tt><a href="ha_southernautogramm-dep-cop.html">cop</a></tt> (2; 10% instances), <tt><a href="ha_southernautogramm-dep-dislocated.html">dislocated</a></tt> (2; 10% instances), <tt><a href="ha_southernautogramm-dep-flat-foreign.html">flat:foreign</a></tt> (2; 10% instances), <tt><a href="ha_southernautogramm-dep-advmod.html">advmod</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-dep-case.html">case</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-dep-cc.html">cc</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-dep-discourse.html">discourse</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-dep-nsubj.html">nsubj</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-dep-obl.html">obl</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-dep-parataxis.html">parataxis</a></tt> (1; 5% instances)
+Children of `ADJ` nodes are attached using 13 different relations: <tt><a href="ha_southernautogramm-dep-punct.html">punct</a></tt> (5; 25% instances), <tt><a href="ha_southernautogramm-dep-compound.html">compound</a></tt> (2; 10% instances), <tt><a href="ha_southernautogramm-dep-dislocated.html">dislocated</a></tt> (2; 10% instances), <tt><a href="ha_southernautogramm-dep-flat-foreign.html">flat:foreign</a></tt> (2; 10% instances), <tt><a href="ha_southernautogramm-dep-advmod.html">advmod</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-dep-aux.html">aux</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-dep-case.html">case</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-dep-cc.html">cc</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-dep-cop.html">cop</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-dep-discourse.html">discourse</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-dep-nsubj.html">nsubj</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-dep-obl-mod.html">obl:mod</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-dep-parataxis.html">parataxis</a></tt> (1; 5% instances)
 
 Children of `ADJ` nodes belong to 10 different parts of speech: <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (6; 30% instances), <tt><a href="ha_southernautogramm-pos-PUNCT.html">PUNCT</a></tt> (5; 25% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt> (2; 10% instances), <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-pos-CCONJ.html">CCONJ</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (1; 5% instances)
 

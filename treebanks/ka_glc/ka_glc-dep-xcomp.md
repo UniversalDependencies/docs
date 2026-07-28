@@ -13,7 +13,7 @@ This relation is universal.
 23 instances of `xcomp` (50%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.60869565217391.
 
-The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (20; 43% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (16; 35% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (7; 15% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (20; 43% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (16; 35% instances), <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (7; 15% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -31,7 +31,7 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 7	ზე	ზე	ADP	Post	AdpType=Post|Case=Dat	6	case	_	Translit=ze
 8	ნაკლებად	ნაკლები	ADJ	Adj	Case=Ess|Number=Sing	9	amod	_	Translit=naklebad
 9	ორიენტირებული	ორიენტირებული	ADJ	Adj	Case=Nom|Number=Sing	10	xcomp	_	Translit=orientirebuli
-10	გახდა	ხდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=gaxda
+10	გახდა	ხდის	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=gaxda
 11	.	.	PUNCT	F	PunctType=Peri	10	punct	_	Translit=.
 
 ~~~
@@ -47,7 +47,7 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 2	შემდეგ	შემდეგ	ADV	Adv	AdvType=Tim	5	advmod	_	SpaceAfter=No|Translit=šemdeg
 3	,	,	PUNCT	F	PunctType=Comm	5	punct	_	Translit=,
 4	პარაზიტი	პარაზიტი	NOUN	Noun	Animacy=Anim|Case=Nom|Number=Sing	5	nsubj	_	Translit=paraziti
-5	ხდება	ხდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=xdeba
+5	ხდება	ხდის	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=xdeba
 6	თევზის	თევზი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	7	nmod	_	Translit=tʻevzis
 7	ენის	ენა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	8	nmod	_	Translit=enis
 8	ნაწილი	ნაწილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	5	xcomp	_	SpaceAfter=No|Translit=nacili
@@ -65,7 +65,7 @@ The following 6 pairs of parts of speech are connected with `xcomp`: <tt><a href
 1	ეს	ეს	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Dem	3	nsubj	_	Translit=es
 2	საშუალებას	საშუალება	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	3	obj	_	Translit=sašualebas
 3	იძლევა	იძლევა	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=iżleva
-4	გადაწყდეს	წყდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|VerbForm=Fin|Voice=Act	3	xcomp	_	Translit=gadacqdes
+4	გადაწყდეს	აწყობს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Indir|Tense=Past|VerbForm=Fin|Voice=Act	3	xcomp	_	Translit=gadacqdes
 5	მნიშვნელოვანი	მნიშვნელოვანი	ADJ	Adj	Case=Nom|Degree=Pos|Number=Sing	6	amod	_	Translit=mnišvnelovani
 6	პრობლემები	პრობლემა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Plur	4	nsubj	_	Translit=problemebi
 7	განსაკუთრებული	განსაკუთრებული	ADJ	Adj	Case=Gen|Number=Sing	8	amod	_	Translit=gansakutʻrebuli

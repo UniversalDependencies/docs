@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Pashto-Sikaram: Relations: `compound`
 
 This relation is universal.
-There are 1 language-specific subtypes of `compound`: <tt><a href="ps_sikaram-dep-compound-lvc.html">compound:lvc</a></tt>.
+There are 2 language-specific subtypes of `compound`: <tt><a href="ps_sikaram-dep-compound-lvc.html">compound:lvc</a></tt>, <tt><a href="ps_sikaram-dep-compound-prt.html">compound:prt</a></tt>.
 
-14 nodes (0%) are attached to their parents as `compound`.
+21 nodes (0%) are attached to their parents as `compound`.
 
-10 instances of `compound` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.5.
+11 instances of `compound` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.38095238095238.
 
-The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (10; 71% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (2; 14% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 7% instances).
+The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (11; 52% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (8; 38% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -45,54 +45,32 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 41	bgColor:blue
-# visual-style 41	fgColor:white
-# visual-style 42	bgColor:blue
-# visual-style 42	fgColor:white
-# visual-style 42 41 compound	color:blue
-1	زموږ	موږ	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	3	nmod	_	Translit=zmuǧ|LTranslit=muǧ|Gloss=our
-2	زيات	زيات	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	3	amod	_	Translit=zyât|LTranslit=zyât|Gloss=many
-3	ملايان	ملا	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	Translit=mulâyấn|LTranslit=mulấ|Gloss=mullahs
-4	همدا	همدا	ADV	_	Deixis=Prox|PronType=Dem	19	advmod	_	Translit=hamdấ|LTranslit=hamdấ|Gloss=just
-5	اوس	اوس	ADV	_	_	19	advmod	_	Translit=os|LTranslit=os|Gloss=now
-6	هم	هم	ADV	_	_	19	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
-7	په	پۀ	ADP	_	Case=Loc	8	case	_	Translit=pë|LTranslit=pë|Gloss=at
-8	کلیو	کلی	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	19	obl	_	Translit=kë́liyo|LTranslit=kë́lay|Gloss=villages
-9	کې	کې	ADP	_	Case=Loc	8	case	_	Translit=ke|LTranslit=ke|Gloss=in
-10	که	کۀ	SCONJ	_	_	19	mark	_	Translit=kë|LTranslit=kë|Gloss=if
-11	قدوري	قدوري	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	19	obj	_	Translit=qudurí|LTranslit=qudurí|Gloss=Quduri|SpaceAfter=No
-12	،	،	PUNCT	_	_	13	punct	_	Translit=,|LTranslit=,|Gloss=,
-13	خلاصه	خلاصه	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	11	conj	_	Translit=xulâsá|LTranslit=xulâsá|Gloss=Khulasa
-14	او	او	CCONJ	_	_	16	cc	_	Translit=aw|LTranslit=aw|Gloss=and
-15	يا	يا	CCONJ	_	_	16	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
-16	پنج	پنج	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	Translit=panǰ|LTranslit=panǰ|Gloss=Five
-17	کتاب	کتاب	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	16	flat	_	Translit=kitấb|LTranslit=kitấb|Gloss=Books
-18	تشرېح	تشرېح	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	19	compound:lvc	_	Translit=tašréh|LTranslit=tašréh|Gloss=explanation
-19	کوي	کول	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	advcl	_	Translit=kawí|LTranslit=kawë́l|Gloss=does|SpaceAfter=No
-20	،	،	PUNCT	_	_	19	punct	_	Translit=,|LTranslit=,|Gloss=,
-21	ترجمه	ترجمه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	24	nsubj	_	Translit=tarǰumá|LTranslit=tarǰumá|Gloss=translation
-22	يې	يې	PRON	_	Person=3|Poss=Yes|PronType=Prs|Variant=Weak	21	nmod	_	Translit=ye|LTranslit=ye|Gloss=their
-23	په	پۀ	ADP	_	Case=Loc	24	case	_	Translit=pë|LTranslit=pë|Gloss=at
-24	پاړسي	پاړسي	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	0	root	_	Translit=pâṛsí|LTranslit=pâṛsí|Gloss=Parsi
-25	يا	يا	CCONJ	_	_	26	cc	_	Translit=yâ|LTranslit=yâ|Gloss=or
-26	اردو	اردو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	24	conj	_	Translit=urdú|LTranslit=urdú|Gloss=Urdu
-27	وي	ول	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	24	cop	_	Translit=wi|LTranslit=wël|Gloss=is|SpaceAfter=No
-28	،	،	PUNCT	_	_	37	punct	_	Translit=,|LTranslit=,|Gloss=,
-29	چې	چې	PRON	_	PronType=Rel	37	obj	_	Translit=če|LTranslit=če|Gloss=that
-30	نه	نۀ	PART	_	Polarity=Neg	33	advmod	_	Translit=në|LTranslit=në|Gloss=not
-31	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	29	nmod	_	Translit=ye|LTranslit=ye|Gloss=it
-32	زيات	زيات	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	33	amod	_	Translit=zyât|LTranslit=zyât|Gloss=many
-33	ښوونکي	ښوونکی	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	37	nsubj	_	Translit=x̌owúnki|LTranslit=x̌owúnkay|Gloss=teacher
-34	په	پۀ	ADP	_	Case=Loc	36	case	_	Translit=pë|LTranslit=pë|Gloss=at
-35	پوره	پوره	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	36	amod	_	Translit=purá|LTranslit=purá|Gloss=complete
-36	مانا	_	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	37	obl	_	Translit=mânấ|LTranslit=|Gloss=meaning
-37	پوهېږي	پوهېدل	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	Translit=pohéǧi|LTranslit=pohedë́l|Gloss=understand|SpaceAfter=No
-38	،	،	PUNCT	_	_	42	punct	_	Translit=,|LTranslit=,|Gloss=,
-39	نه	نۀ	PART	_	Polarity=Neg	42	advmod	_	Translit=në|LTranslit=në|Gloss=not
-40	هم	هم	ADV	_	_	42	advmod	_	Translit=ham|LTranslit=ham|Gloss=also
-41	زده	زده	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	42	compound	_	Translit=zda|LTranslit=zda|Gloss=learned
-42	کوونکي	کوونکی	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	33	conj	_	Translit=kawúnki|LTranslit=kawúnkay|Gloss=doing|SpaceAfter=No
-43	.	.	PUNCT	_	_	24	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 compound	color:blue
+1	دغه	دغه	DET	_	Case=Nom|Deixis=Prox|PronType=Dem|Variant=Long	2	det	_	Translit=dáġa|LTranslit=dáġa|Gloss=this
+2	وزارت	وزارت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Translit=wazârát|LTranslit=wazârát|Gloss=ministry
+3	په	پۀ	ADP	_	Case=Loc	5	case	_	Translit=pë|LTranslit=pë|Gloss=at
+4	دې	دا	DET	_	Case=Loc|Deixis=Prox|PronType=Dem	5	det	_	Translit=de|LTranslit=dâ|Gloss=this
+5	ډول	ډول	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	Translit=ḍawl|LTranslit=ḍawl|Gloss=manner
+6	غواړي	غوښتل	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=ġwâṛí|LTranslit=ġux̌të́l|Gloss=wants|SpaceAfter=No
+7	،	،	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,|Gloss=,
+8	د	د	ADP	_	Case=Acc	10	case	_	Translit=dë|LTranslit=dë|Gloss=of
+9	زده	زده	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	compound	_	Translit=zda|LTranslit=zda|Gloss=learn
+10	کوونکو	کوونکی	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	12	nmod	_	Translit=kawúnko|LTranslit=kawúnkay|Gloss=doing
+11	په	پۀ	ADP	_	Case=Loc	12	case	_	Translit=pë|LTranslit=pë|Gloss=at
+12	ذهنونو	ذهن	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	19	obl	_	Translit=zihnúno|LTranslit=zihn|Gloss=minds
+13	کې	کې	ADP	_	Case=Loc	12	case	_	Translit=ke|LTranslit=ke|Gloss=in
+14	د	د	ADP	_	Case=Acc	17	case	_	Translit=dë|LTranslit=dë|Gloss=of
+15	وېشل	وېشل	VERB	_	Aspect=Imp|Case=Nom|VerbForm=Inf	17	xcomp	_	Translit=wešë́l|LTranslit=wešë́l|Gloss=divided
+16	شوي	کېدل	AUX	_	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	aux:pass	_	Translit=šë́wi|LTranslit=kedë́l|Gloss=being
+17	افغانستان	افغانستان	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	18	nmod	_	Translit=afġânistấn|LTranslit=afġânistấn|Gloss=Afghanistan
+18	انځور	انځور	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	20	obj	_	Translit=anżúr|LTranslit=anżúr|Gloss=picture
+19	ژوندی	ژوندی	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	20	xcomp	_	Translit=žwandáy|LTranslit=žwandáy|Gloss=alive
+20	وساتي	ساتل	VERB	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	6	advcl	_	Translit=wë́sâti|LTranslit=sâtë́l|Gloss=keep|SpaceAfter=No
+21	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 
@@ -120,7 +98,7 @@ The following 4 pairs of parts of speech are connected with `compound`: <tt><a h
 15	فلم	فلم	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Translit=film|LTranslit=film|Gloss=movie
 16	دی	ول	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=dëy|LTranslit=wël|Gloss=is|SpaceAfter=No
 17	،	،	PUNCT	_	_	24	punct	_	Translit=,|LTranslit=,|Gloss=,
-18	چې	چې	PRON	_	PronType=Rel	24	nsubj	_	Translit=če|LTranslit=če|Gloss=which
+18	چې	چې	SCONJ	_	_	24	mark	_	Translit=če|LTranslit=če|Gloss=that
 19	په	پۀ	ADP	_	Case=Loc	21	case	_	Translit=pë|LTranslit=pë|Gloss=at
 20	دې	دا	DET	_	Case=Loc|Deixis=Prox|PronType=Dem|Variant=Short	21	det	_	Translit=de|LTranslit=dâ|Gloss=this
 21	وروستیو	وروستی	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	24	obl	_	Translit=wrustë́yo|LTranslit=wrustáy|Gloss=recent

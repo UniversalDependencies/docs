@@ -83,7 +83,7 @@ The following 11 pairs of parts of speech are connected with `reparandum`: <tt><
 5	,	,	PUNCT	CLB	_	6	punct	_	_
 6	потому	потому	SCONJ	CS	ExtPos=SCONJ	11	mark	_	Lang=ru
 7	что	что	SCONJ	CS	_	6	fixed	_	Lang=ru
-8	мӧд	мӧд	DET	Det	Case=Nom|Number=Sing|NumType=Ord	10	reparandum	_	SpaceAfter=No
+8	мӧд	мӧд	DET	Det	Case=Nom|Number=Sing|NumType=Ord|PronType=Ind	10	reparandum	_	SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
 10	мӧдэд	мӧдӧд	ADJ	A	Case=Nom|NumType=Ord	11	amod	_	_
 11	луныс	лун	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	advcl	_	SpaceAfter=No

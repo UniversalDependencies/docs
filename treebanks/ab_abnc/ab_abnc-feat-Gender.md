@@ -11,20 +11,20 @@ It occurs with 2 different values: `Fem`, `Masc`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ab_abnc-feat-Gender.html">Gender</a></tt>, <tt><a href="ab_abnc-feat-Gender-cs.html">Gender[cs]</a></tt>, <tt><a href="ab_abnc-feat-Gender-io.html">Gender[io]</a></tt>, <tt><a href="ab_abnc-feat-Gender-lo.html">Gender[lo]</a></tt>, <tt><a href="ab_abnc-feat-Gender-obj.html">Gender[obj]</a></tt>, <tt><a href="ab_abnc-feat-Gender-po.html">Gender[po]</a></tt>, <tt><a href="ab_abnc-feat-Gender-psor.html">Gender[psor]</a></tt>, <tt><a href="ab_abnc-feat-Gender-refl.html">Gender[refl]</a></tt>, <tt><a href="ab_abnc-feat-Gender-ro.html">Gender[ro]</a></tt>, <tt><a href="ab_abnc-feat-Gender-subj.html">Gender[subj]</a></tt>.
 
-114 tokens (1%) have a non-empty value of `Gender`.
+129 tokens (1%) have a non-empty value of `Gender`.
 17 types (0%) occur at least once with a non-empty value of `Gender`.
 4 lemmas (0%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 1 part-of-speech tags: <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (114; 1% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (129; 1% instances).
 
 ### `PRON`
 
-114 <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> tokens (21% of all `PRON` tokens) have a non-empty value of `Gender`.
+129 <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> tokens (20% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ab_abnc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (114; 100%), <tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (114; 100%), <tt><a href="ab_abnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (114; 100%), <tt><a href="ab_abnc-feat-Person.html">Person</a></tt><tt>=3</tt> (68; 60%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ab_abnc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (129; 100%), <tt><a href="ab_abnc-feat-Number.html">Number</a></tt><tt>=Sing</tt> (129; 100%), <tt><a href="ab_abnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (129; 100%), <tt><a href="ab_abnc-feat-Person.html">Person</a></tt><tt>=3</tt> (76; 59%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (33; 29% of non-empty `Gender`): <em>лара, бара, бареи, ларгьы, баргьы</em>
-* `Masc` (81; 71% of non-empty `Gender`): <em>уара, иара, иаргьы, уаргьы, иареи, уареи</em>
-* `EMPTY` (440): <em>уи, сара, зегьы, акгьы, ҳара, аӡәгьы, саргьы, ари, урҭ, шәара</em>
+* `Fem` (35; 27% of non-empty `Gender`): <em>лара, бара, ларгьы, бареи, баргьы</em>
+* `Masc` (94; 73% of non-empty `Gender`): <em>уара, иара, иаргьы, уаргьы, иареи, уареи</em>
+* `EMPTY` (522): <em>уи, сара, зегьы, акгьы, ҳара, аӡәгьы, ари, убри, саргьы, урҭ</em>
 

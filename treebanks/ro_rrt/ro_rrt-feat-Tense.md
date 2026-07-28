@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 5 different values: `Fut`, `Imp`, `Past`, `Pqp`, `Pres`.
 
-17689 tokens (8%) have a non-empty value of `Tense`.
-4335 types (14%) occur at least once with a non-empty value of `Tense`.
-1525 lemmas (9%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (14254; 7% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (3425; 2% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (10; 0% instances).
+17686 tokens (8%) have a non-empty value of `Tense`.
+4337 types (14%) occur at least once with a non-empty value of `Tense`.
+1522 lemmas (9%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> (14253; 7% instances), <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> (3423; 2% instances), <tt><a href="ro_rrt-pos-PART.html">PART</a></tt> (10; 0% instances).
 
 ### `VERB`
 
-14254 <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Tense`.
+14253 <tt><a href="ro_rrt-pos-VERB.html">VERB</a></tt> tokens (62% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14254; 100%), <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12160; 85%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (10772; 76%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10447; 73%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14253; 100%), <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (12160; 85%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (10772; 76%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (10447; 73%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Imp` (2060; 14% of non-empty `Tense`): <em>avea, era, putea, trebuia, făcea, stătea, știa, părea, aveau, erau</em>
+* `Imp` (2059; 14% of non-empty `Tense`): <em>avea, era, putea, trebuia, făcea, stătea, știa, părea, aveau, erau</em>
 * `Past` (600; 4% of non-empty `Tense`): <em>zise, începu, făcu, scoase, luă, întoarse, opri, puse, putu, duse</em>
 * `Pqp` (547; 4% of non-empty `Tense`): <em>începuse, făcuse, văzuse, trecuse, fusese, devenise, scosese, avusese, petrecuse, rănise</em>
 * `Pres` (11047; 78% of non-empty `Tense`): <em>poate, trebuie, pot, are, face, putea, există, au, trebui, avea</em>
-* `EMPTY` (8736): <em>avut, prevăzute, făcut, având, spus, putut, rupt, dat, murit, devenit</em>
+* `EMPTY` (8737): <em>avut, prevăzute, făcut, având, spus, putut, rupt, dat, murit, devenit</em>
 
 <table>
   <tr><th>Paradigm <i>putea</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th><th><tt>Pqp</tt></th></tr>
@@ -43,24 +43,24 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-3425 <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> tokens (40% of all `AUX` tokens) have a non-empty value of `Tense`.
+3423 <tt><a href="ro_rrt-pos-AUX.html">AUX</a></tt> tokens (40% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2791; 81%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (2708; 79%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2575; 75%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1836; 54%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2789; 81%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (2709; 79%), <tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2573; 75%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1833; 54%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Imp` (454; 13% of non-empty `Tense`): <em>era, erau, avea, eram, erai, aveau, aveam</em>
 * `Past` (11; 0% of non-empty `Tense`): <em>fu, fură</em>
 * `Pqp` (42; 1% of non-empty `Tense`): <em>fusese, fuseseră</em>
-* `Pres` (2918; 85% of non-empty `Tense`): <em>este, sunt, fi, fie, e, -i, sunteți, ești, fii, suntem</em>
-* `EMPTY` (5149): <em>a, au, fost, va, ar, am, fiind, vor, ai, ați</em>
+* `Pres` (2916; 85% of non-empty `Tense`): <em>este, sunt, fi, fie, e, -i, sunteți, ești, fii, suntem</em>
+* `EMPTY` (5150): <em>a, au, fost, va, ar, am, fiind, vor, ai, ați</em>
 
 <table>
   <tr><th>Paradigm <i>fi</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th><th><tt>Pqp</tt></th></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sunt</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ești</em></td><td></td><td><em>erai</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>-i, E-</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>este, e, Sunt, îi</em></td><td><em>fu</em></td><td><em>era</em></td><td><em>fusese</em></td></tr>
+  <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>este, e, îi</em></td><td><em>fu</em></td><td><em>era</em></td><td><em>fusese</em></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>suntem</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sunteți</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=Short</tt>|<tt><a href="ro_rrt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>-s</em></td><td></td><td></td><td></td></tr>
@@ -82,14 +82,14 @@ The most frequent other feature values with which `PART` and `Tense` co-occurred
 
 `PART` tokens may have the following values of `Tense`:
 
-* `Fut` (10; 100% of non-empty `Tense`): <em>o</em>
-* `EMPTY` (4875): <em>să, nu, a, n-, s-, a-, -a</em>
+* `Fut` (10; 100% of non-empty `Tense`): <em>o, -o</em>
+* `EMPTY` (4875): <em>să, nu, a, n-, s-</em>
 
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="ro_rrt-dep-conj.html">conj</a></tt>]--> VERB</tt> (1397; 77%),
-<tt>VERB --[<tt><a href="ro_rrt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1027; 50%),
+<tt>VERB --[<tt><a href="ro_rrt-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1028; 50%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (24; 57%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (14; 52%),
 <tt>VERB --[<tt><a href="ro_rrt-dep-appos.html">appos</a></tt>]--> VERB</tt> (10; 83%),

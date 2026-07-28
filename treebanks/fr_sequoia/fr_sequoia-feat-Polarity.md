@@ -16,12 +16,12 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_sequoia-pos-ADV.
 
 ### `ADV`
 
-791 <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> tokens (30% of all `ADV` tokens) have a non-empty value of `Polarity`.
+791 <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> tokens (29% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (791; 100% of non-empty `Polarity`): <em>pas, n', ne, non, que, plus, jamais, qu', guère</em>
-* `EMPTY` (1845): <em>plus, moins, très, également, aussi, bien, alors, lors, peu, afin</em>
+* `EMPTY` (1897): <em>plus, moins, très, également, aussi, bien, où, alors, lors, peu</em>
 
 ### `INTJ`
 

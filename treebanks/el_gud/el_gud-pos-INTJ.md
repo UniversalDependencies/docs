@@ -32,7 +32,7 @@ The 10 most frequent ambiguous types:  <em>όχι</em> (<tt><a href="el_gud-pos-
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.674712).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.675929).
 
 The 1st highest number of forms (1) was observed with the lemma “Καλημέρα”: <em>Καλημέρα</em>.
 
@@ -40,32 +40,32 @@ The 2nd highest number of forms (1) was observed with the lemma “άντε”: 
 
 The 3rd highest number of forms (1) was observed with the lemma “εντάξει”: <em>Εντάξει</em>.
 
-`INTJ` occurs with 4 features: <tt><a href="el_gud-feat-Polarity.html">Polarity</a></tt> (18; 36% instances), <tt><a href="el_gud-feat-Case.html">Case</a></tt> (6; 12% instances), <tt><a href="el_gud-feat-Gender.html">Gender</a></tt> (6; 12% instances), <tt><a href="el_gud-feat-Number.html">Number</a></tt> (6; 12% instances)
+`INTJ` occurs with 5 features: <tt><a href="el_gud-feat-Polarity.html">Polarity</a></tt> (18; 36% instances), <tt><a href="el_gud-feat-Case.html">Case</a></tt> (6; 12% instances), <tt><a href="el_gud-feat-Gender.html">Gender</a></tt> (6; 12% instances), <tt><a href="el_gud-feat-Number.html">Number</a></tt> (6; 12% instances), <tt><a href="el_gud-feat-ExtPos.html">ExtPos</a></tt> (1; 2% instances)
 
-`INTJ` occurs with 8 feature-value pairs: `Case=Acc`, `Case=Nom`, `Gender=Fem`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Polarity=Neg`, `Polarity=Pos`
+`INTJ` occurs with 9 feature-value pairs: `Case=Acc`, `Case=Nom`, `ExtPos=INTJ`, `Gender=Fem`, `Gender=Neut`, `Number=Plur`, `Number=Sing`, `Polarity=Neg`, `Polarity=Pos`
 
-`INTJ` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (26 tokens).
-Examples: <em>λοιπόν, καλά, Καλέ, Μα, Μπράβο, Εντάξει, Καλημέρα, Μάλιστα, Νά, άντε</em>
+`INTJ` occurs with 7 feature combinations.
+The most frequent feature combination is `_` (25 tokens).
+Examples: <em>λοιπόν, καλά, Καλέ, Μα, Μπράβο, Εντάξει, Καλημέρα, Μάλιστα, άντε, μπαμ</em>
 
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 7 different relations: <tt><a href="el_gud-dep-discourse.html">discourse</a></tt> (35; 70% instances), <tt><a href="el_gud-dep-root.html">root</a></tt> (7; 14% instances), <tt><a href="el_gud-dep-ccomp.html">ccomp</a></tt> (3; 6% instances), <tt><a href="el_gud-dep-obj.html">obj</a></tt> (2; 4% instances), <tt><a href="el_gud-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="el_gud-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="el_gud-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
+`INTJ` nodes are attached to their parents using 7 different relations: <tt><a href="el_gud-dep-discourse.html">discourse</a></tt> (36; 72% instances), <tt><a href="el_gud-dep-root.html">root</a></tt> (6; 12% instances), <tt><a href="el_gud-dep-ccomp.html">ccomp</a></tt> (3; 6% instances), <tt><a href="el_gud-dep-obj.html">obj</a></tt> (2; 4% instances), <tt><a href="el_gud-dep-appos.html">appos</a></tt> (1; 2% instances), <tt><a href="el_gud-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="el_gud-dep-nsubj.html">nsubj</a></tt> (1; 2% instances)
 
-Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (32; 64% instances),  (7; 14% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (5; 10% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (3; 6% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
+Parents of `INTJ` nodes belong to 7 different parts of speech: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (33; 66% instances),  (6; 12% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (5; 10% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (3; 6% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt> (1; 2% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 
-17 (34%) `INTJ` nodes are leaves.
+18 (36%) `INTJ` nodes are leaves.
 
 17 (34%) `INTJ` nodes have one child.
 
 6 (12%) `INTJ` nodes have two children.
 
-10 (20%) `INTJ` nodes have three or more children.
+9 (18%) `INTJ` nodes have three or more children.
 
 The highest child degree of a `INTJ` node is 5.
 
-Children of `INTJ` nodes are attached using 10 different relations: <tt><a href="el_gud-dep-punct.html">punct</a></tt> (44; 68% instances), <tt><a href="el_gud-dep-nmod.html">nmod</a></tt> (6; 9% instances), <tt><a href="el_gud-dep-vocative.html">vocative</a></tt> (5; 8% instances), <tt><a href="el_gud-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="el_gud-dep-conj.html">conj</a></tt> (2; 3% instances), <tt><a href="el_gud-dep-det.html">det</a></tt> (2; 3% instances), <tt><a href="el_gud-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="el_gud-dep-fixed.html">fixed</a></tt> (1; 2% instances), <tt><a href="el_gud-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="el_gud-dep-xcomp.html">xcomp</a></tt> (1; 2% instances)
+Children of `INTJ` nodes are attached using 9 different relations: <tt><a href="el_gud-dep-punct.html">punct</a></tt> (41; 68% instances), <tt><a href="el_gud-dep-nmod.html">nmod</a></tt> (6; 10% instances), <tt><a href="el_gud-dep-vocative.html">vocative</a></tt> (5; 8% instances), <tt><a href="el_gud-dep-cc.html">cc</a></tt> (2; 3% instances), <tt><a href="el_gud-dep-det.html">det</a></tt> (2; 3% instances), <tt><a href="el_gud-dep-amod.html">amod</a></tt> (1; 2% instances), <tt><a href="el_gud-dep-fixed.html">fixed</a></tt> (1; 2% instances), <tt><a href="el_gud-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="el_gud-dep-xcomp.html">xcomp</a></tt> (1; 2% instances)
 
-Children of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="el_gud-pos-PUNCT.html">PUNCT</a></tt> (44; 68% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (6; 9% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 2% instances)
+Children of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="el_gud-pos-PUNCT.html">PUNCT</a></tt> (41; 68% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (6; 10% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (3; 5% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="el_gud-pos-CCONJ.html">CCONJ</a></tt> (2; 3% instances), <tt><a href="el_gud-pos-DET.html">DET</a></tt> (2; 3% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="el_gud-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

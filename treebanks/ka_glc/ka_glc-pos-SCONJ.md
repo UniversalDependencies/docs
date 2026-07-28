@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>როგორც</em> (<tt><a href=
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.361111 (the average of all parts of speech is 1.674782).
+The form / lemma ratio of `SCONJ` is 1.361111 (the average of all parts of speech is 1.692057).
 
 The 1st highest number of forms (8) was observed with the lemma “რომელი”: <em>რომელზედაც, რომელზეც, რომელი, რომლებ, რომლებმაც, რომლითაც, რომლისგანაც, რომლისთვისაც</em>.
 
@@ -73,7 +73,7 @@ Examples: <em>როგორც, რომ, რაც, თუმცა, თუ,
 
 `SCONJ` nodes are attached to their parents using 7 different relations: <tt><a href="ka_glc-dep-mark.html">mark</a></tt> (653; 93% instances), <tt><a href="ka_glc-dep-acl.html">acl</a></tt> (38; 5% instances), <tt><a href="ka_glc-dep-cc.html">cc</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="ka_glc-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="ka_glc-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ka_glc-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (354; 50% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (247; 35% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (67; 10% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (14; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (2; 0% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="ka_glc-pos-VERB.html">VERB</a></tt> (354; 50% instances), <tt><a href="ka_glc-pos-NOUN.html">NOUN</a></tt> (248; 35% instances), <tt><a href="ka_glc-pos-ADJ.html">ADJ</a></tt> (66; 9% instances), <tt><a href="ka_glc-pos-PRON.html">PRON</a></tt> (14; 2% instances), <tt><a href="ka_glc-pos-ADV.html">ADV</a></tt> (8; 1% instances), <tt><a href="ka_glc-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="ka_glc-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="ka_glc-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ka_glc-pos-X.html">X</a></tt> (2; 0% instances)
 
 621 (89%) `SCONJ` nodes are leaves.
 

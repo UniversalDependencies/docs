@@ -47,7 +47,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 2	yhtyigi	yhtyö	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	Periodika-julguamo	Periodika-julguamo	NOUN	NOUN	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	PUNCT	_	2	punct	_	_
-5	festivualil	festivuali	NOUN	NOUN	Case=Ade|Number=Plur	8	obl	_	_
+5	festivualil	festivuali	NOUN	NOUN	Case=Ade|Number=Plur	6	obl	_	_
 6	sai	suaja	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
 7	ostua	ostua	VERB	VERB	VerbForm=Inf	6	ccomp	_	_
 8	kniigua	kniigu	NOUN	NOUN	Case=Par|Number=Sing	7	obj	_	SpaceAfter=No

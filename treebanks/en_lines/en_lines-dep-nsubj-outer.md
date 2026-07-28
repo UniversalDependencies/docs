@@ -76,10 +76,10 @@ The following 6 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 11	's	's	PART	GEN	_	10	case	_	_
 12	opinion	opinion	NOUN	SG-NOM	Number=Sing	5	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	Comma	_	3	punct	_	_
-14	it	it	PRON	PERS-SG	_	20	nsubj:outer	_	_
+14	it	it	PRON	PERS-SG	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	nsubj:outer	_	_
 15	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
 16	that	that	SCONJ	_	_	20	mark	_	_
-17	it	it	PRON	PERS-SG	_	20	nsubj	_	_
+17	it	it	PRON	PERS-SG	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	_
 18	is	be	AUX	PRES	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
 19	too	too	ADV	_	_	20	advmod	_	_
 20	one-sided	one-sided	ADJ	POS	Degree=Pos	0	root	_	SpaceAfter=No

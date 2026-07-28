@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15 nodes (0%) are attached to their parents as `parataxis`.
+20 nodes (0%) are attached to their parents as `parataxis`.
 
-14 instances of `parataxis` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.26666666666667.
+19 instances of `parataxis` (95%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.45.
 
-The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (5; 33% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (4; 27% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 7% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 7% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 7% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 7% instances).
+The following 10 pairs of parts of speech are connected with `parataxis`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (5; 25% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (4; 20% instances), <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> (4; 20% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (1; 5% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -66,28 +66,69 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 16 parataxis	color:blue
-1	–	–	PUNCT	_	_	12	punct	_	Translit=–|LTranslit=–|Gloss=–
-2	د	د	ADP	_	Case=Acc	3	case	_	Translit=dë|LTranslit=dë|Gloss=of
-3	ښار	ښار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	nmod	_	Translit=x̌âr|LTranslit=x̌âr|Gloss=city
-4	په	پۀ	ADP	_	Case=Loc	6	case	_	Translit=pë|LTranslit=pë|Gloss=at
-5	وروستۍ	وروستی	ADJ	_	Case=Loc|Gender=Fem|Number=Sing	6	amod	_	Translit=wrustë́y|LTranslit=wrustáy|Gloss=last
-6	برخه	برخه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	12	obl	_	Translit=bárxa|LTranslit=bárxa|Gloss=section
-7	کې	کې	ADP	_	Case=Loc	6	case	_	Translit=ke|LTranslit=ke|Gloss=in
-8	د	د	ADP	_	Case=Acc	9	case	_	Translit=dë|LTranslit=dë|Gloss=of
-9	خلکو	خلک	NOUN	_	Case=Acc|Gender=Masc|Number=Coll	10	nmod	_	Translit=xálko|LTranslit=xalk|Gloss=people
-10	ګڼه	ګڼ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	11	compound	_	Translit=gáṇa|LTranslit=gaṇ|Gloss=dense
-11	ګوڼه	ګوڼه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	Translit=gúṇa|LTranslit=gúṇa|Gloss=
-12	زياته	زيات	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	Translit=zyấta|LTranslit=zyât|Gloss=high
-13	وه	ول	AUX	_	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	cop	_	Translit=wa|LTranslit=wël|Gloss=was|SpaceAfter=No
-14	.	.	PUNCT	_	_	12	punct	_	Translit=.|LTranslit=.|Gloss=.
-15	(	(	PUNCT	_	_	16	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
-16	سمه	سم	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	12	parataxis	_	Translit=sáma|LTranslit=sam|Gloss=correct|SpaceAfter=No
-17	)	)	PUNCT	_	_	16	punct	_	Translit=)|LTranslit=)|Gloss=)|SpaceAfter=No
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 parataxis	color:blue
+1	بايزيد	بايزيد	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	25	nsubj	_	Translit=bâyazíd|LTranslit=bâyazíd|Gloss=Bayazid
+2	روښان	روښان	PROPN	_	Case=Acc|Gender=Masc|Number=Sing	1	flat:name	_	Translit=rox̌ấn|LTranslit=rox̌ấn|Gloss=Roshan
+3	(	(	PUNCT	_	_	4	punct	_	Translit=(|LTranslit=(|Gloss=(|SpaceAfter=No
+4	1525	1525	NUM	_	NumType=Card	1	parataxis	_	Translit=1525|LTranslit=1525|Gloss=1525|SpaceAfter=No
+5	-	-	PUNCT	_	_	6	punct	_	Translit=-|LTranslit=-|Gloss=-|SpaceAfter=No
+6	1858	1858	NUM	_	NumType=Card|Typo=Yes	4	conj	_	Translit=1858|LTranslit=1858|Gloss=1858|CorrectForm=1585|CLTranslit=1585|SpaceAfter=No
+7	م	م	ADJ	_	Abbr=Yes	4	nmod	_	Translit=m|LTranslit=m|Gloss=miladi-era
+8	مړ	مړل	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	parataxis	_	Translit=mëṛ|LTranslit=mṛël|Gloss=dead|SpaceAfter=No
+9	)	)	PUNCT	_	_	4	punct	_	Translit=)|LTranslit=)|Gloss=)
+10	چې	چې	SCONJ	_	ExtPos=SCONJ	20	mark	_	Translit=če|LTranslit=če|Gloss=that
+11	کله	کله	ADV	_	_	10	fixed	_	Translit=kë́la|LTranslit=kë́la|Gloss=when
+12	د	د	ADP	_	Case=Acc	13	case	_	Translit=dë|LTranslit=dë|Gloss=of
+13	میرې	میره	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	17	nmod	_	Translit=mayré|LTranslit=mayrá|Gloss=stepmother
+14	او	او	CCONJ	_	_	15	cc	_	Translit=aw|LTranslit=aw|Gloss=and
+15	پلار	پلار	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	13	conj	_	Translit=plâr|LTranslit=plâr|Gloss=father
+16	له	له	ADP	_	Case=Acc	17	case	_	Translit=la|LTranslit=la|Gloss=from
+17	توجه	_	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	19	obl	_	Translit=tawaǰú|LTranslit=|Gloss=attention
+18	څخه	څخه	ADP	_	Case=Acc	17	case	_	Translit=cë́xa|LTranslit=cë́xa|Gloss=from
+19	محروم	محروم	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	20	compound:lvc	_	Translit=mahrúm|LTranslit=mahrúm|Gloss=deprived
+20	شو	کېدل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	advcl	_	Translit=šow|LTranslit=kedë́l|Gloss=became|SpaceAfter=No
+21	،	،	PUNCT	_	_	20	punct	_	Translit=,|LTranslit=,|Gloss=,
+22	غوښتل	غوښتل	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=ġux̌të́l|LTranslit=ġux̌të́l|Gloss=wanted
+23	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	22	nsubj	_	Translit=ye|LTranslit=ye|Gloss=he
+24	زده	زده	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	25	compound:lvc	_	Translit=zda|LTranslit=zda|Gloss=learnt
+25	کړه	کړه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	26	obj	_	Translit=kṛa|LTranslit=kṛa|Gloss=doing
+26	وکړي	کول	VERB	_	Mood=Sub|Number=Sing|Person=3|Variant=Long|VerbForm=Fin	22	advcl	_	Translit=wë́kṛi|LTranslit=kawë́l|Gloss=does|SpaceAfter=No
+27	،	،	PUNCT	_	_	22	punct	_	Translit=,|LTranslit=,|Gloss=,
+28	له	له	ADP	_	Case=Abl	30	case	_	Translit=la|LTranslit=la|Gloss=from
+29	همدې	همدا	DET	_	Case=Abl|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	30	det	_	Translit=hamdé|LTranslit=hamdấ|Gloss=this
+30	کبله	کبله	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	33	obl	_	Translit=kabála|LTranslit=kabála|Gloss=reason
+31	له	له	ADP	_	Case=Abl	30	case	_	Translit=la|LTranslit=la|Gloss=from
+32	کوره	کور	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	33	obl	_	Translit=kóra|LTranslit=kor|Gloss=home
+33	ووت	وتل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	conj	_	Translit=wë́wot|LTranslit=watë́l|Gloss=went-out
+34	او	او	CCONJ	_	_	40	cc	_	Translit=aw|LTranslit=aw|Gloss=and
+35	په	پۀ	ADP	_	Case=Loc	37	case	_	Translit=pë|LTranslit=pë|Gloss=at
+36	زده	زده	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	37	compound	_	Translit=zda|LTranslit=zda|Gloss=learnt
+37	کړې	کړه	NOUN	_	Case=Loc|Gender=Fem|Number=Sing|Typo=Yes	40	obl	_	Translit=kṛe|LTranslit=kṛa|Gloss=doing|CorrectForm=کړه|CLTranslit=kṛa
+38	پسې	پسې	ADP	_	Case=Loc	37	case	_	Translit=pësé|LTranslit=pësé|Gloss=for
+39	روان	روان	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	40	compound:lvc	_	Translit=rawấn|LTranslit=rawấn|Gloss=walking
+40	شو	کېدل	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	33	conj	_	Translit=šu|LTranslit=kedë́l|Gloss=became|SpaceAfter=No
+41	،	،	PUNCT	_	_	47	punct	_	Translit=,|LTranslit=,|Gloss=,
+42	بیا	بیا	ADV	_	_	47	advmod	_	Translit=byâ|LTranslit=byâ|Gloss=then
+43	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	47	nsubj	_	Translit=ye|LTranslit=ye|Gloss=he
+44	تصوف	تصوف	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	47	obl	_	Translit=tasawúf|LTranslit=tasawúf|Gloss=Sufism
+45	ته	ته	ADP	_	Case=Acc	44	case	_	Translit=ta|LTranslit=ta|Gloss=to
+46	مخه	مخه	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	47	compound:lvc	_	Translit=më́xa|LTranslit=më́xa|Gloss=way
+47	شوه	کېدل	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|Variant=Short|VerbForm=Fin	33	conj	_	Translit=šwa|LTranslit=kedë́l|Gloss=become|SpaceAfter=No
+48	،	،	PUNCT	_	_	57	punct	_	Translit=,|LTranslit=,|Gloss=,
+49	پنځه	پنځۀ	NUM	_	Case=Nom|NumType=Card	50	nummod	_	Translit=pinżë́|LTranslit=pinżë́|Gloss=five
+50	کاله	کال	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	57	obl	_	Translit=kấla|LTranslit=kâl|Gloss=years
+51	يې	يې	PRON	_	Person=3|PronType=Prs|Variant=Weak	57	nsubj	_	Translit=ye|LTranslit=ye|Gloss=he
+52	په	پۀ	ADP	_	Case=Loc	54	case	_	Translit=pë|LTranslit=pë|Gloss=at
+53	یوه	یو	NUM	_	Case=Loc|Gender=Fem|NumType=Card	54	nummod	_	Translit=yawá|LTranslit=yaw|Gloss=one
+54	کوټه	کوټه	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	57	obl	_	Translit=koṭá|LTranslit=koṭá|Gloss=room
+55	کې	کې	ADP	_	Case=Loc	54	case	_	Translit=ke|LTranslit=ke|Gloss=in
+56	رياضت	رياضت	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	57	obj	_	Translit=riyâzát|LTranslit=riyâzát|Gloss=meditation
+57	وکړ	کول	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|Variant=Long|VerbForm=Fin	47	conj	_	Translit=wë́këṛ|LTranslit=kawë́l|Gloss=did|SpaceAfter=No
+58	.	.	PUNCT	_	_	33	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
 ~~~
 

@@ -9,32 +9,28 @@ udver: '2'
 This relation is universal.
 There are 6 language-specific subtypes of `advcl`: <tt><a href="ab_abnc-dep-advcl-compar.html">advcl:compar</a></tt>, <tt><a href="ab_abnc-dep-advcl-cond.html">advcl:cond</a></tt>, <tt><a href="ab_abnc-dep-advcl-conv.html">advcl:conv</a></tt>, <tt><a href="ab_abnc-dep-advcl-purp.html">advcl:purp</a></tt>, <tt><a href="ab_abnc-dep-advcl-quote.html">advcl:quote</a></tt>, <tt><a href="ab_abnc-dep-advcl-seq.html">advcl:seq</a></tt>.
 
-299 nodes (3%) are attached to their parents as `advcl`.
+372 nodes (3%) are attached to their parents as `advcl`.
 
-266 instances of `advcl` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.21739130434783.
+328 instances of `advcl` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.35483870967742.
 
-The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (276; 92% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (14; 5% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `advcl`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (347; 93% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (15; 4% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (4; 1% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 4 advcl	color:blue
-1	Георги	Георги	PROPN	Noun_Prop_Anthr_M	NameType=Prs	2	nmod:poss	_	LMSeg:Георги
-2	иаара	аа-ра́	VERB	VN_Dyn_Sg_Intr_Poss:3SgM	Dyn=Yes|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Subcat=Intr|VerbForm=Vnoun	3	nmod:poss	_	LMSeg:аа-ра́
-3	аамҭа	а́амҭа	NOUN	Noun_NH_Sg_Poss:3SgNH	Animacy=Nhum|Gender[psor]=Neut|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	LMSeg:а́амҭа
-4	анахыҧаӡа	а-хы́ҧара	VERB	V_Dyn_Intr_NonFin_Cnv_Aor_When_Emph_S:3_S:Ad_LO:3SgNH	Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|RelType=Tmp|Subcat=Intr|Tense=Aor|VerbForm=NonFin	8	advcl	_	LMSeg:а-хы́·ҧа-ра|SpaceAfter=No
-5	,	,	PUNCT	Punct_Comma	_	8	punct	_	LMSeg:,
-6	Лиудмила	Лиудмила	PROPN	Noun_Prop_Anthr_F	NameType=Prs	8	nsubj	_	LMSeg:Лиудмила
-7	аҭел	а-ҭе́л	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	8	iobj	_	LMSeg:а-ҭе́л
-8	дасит	а́-сра	VERB	V_Dyn_Intr_Fin_Aor_S:3SgH_IO:3SgNH	Dyn=Yes|Gender[io]=Neut|Gender[subj]=Com|Mood=Ind|Number[io]=Sing|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=Fin	0	root	_	LMSeg:а́-с-ра|SpaceAfter=No
-9	,	,	PUNCT	Punct_Comma	_	11	punct	_	LMSeg:,
-10	аха	аха́	CCONJ	Cj_Coord	_	11	cc	_	LMSeg:аха́
-11	ҿимҭит	а-ҿҭра́	VERB	V_Dyn_Tr_Fin_Aor_Neg_S:3SgM_DO:ҿ	Dyn=Yes|Gender[subj]=Masc|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Polarity=Neg|Subcat=Tran|Tense=Aor|VerbForm=Fin	8	conj	_	LMSeg:а-ҿ·ҭ-ра́|SpaceAfter=No
-12	.	.	PUNCT	Punct_Period	_	11	punct	_	LMSeg:.
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 advcl	color:blue
+1	аҵабырг	а-ҵа́бырг	NOUN	Noun_NH_Sg_Det	Animacy=Nhum|Definite=Def|Number=Sing	3	obj	_	LMSeg:а-ҵа́бырг
+2	мҩа	а́-мҩа	NOUN	Noun_NH_Sg	Animacy=Nhum|Number=Sing	3	xcomp	_	LMSeg:а́-мҩа
+3	иқәиҵарц	а́-қәҵара	VERB	V_Dyn_Tr_NonFin_Purp_S:3SgM_DO:3	Dyn=Yes|Gender[subj]=Masc|Mood=Prp|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|VerbForm=NonFin	0	root	_	LMSeg:а́-қә·ҵа-ра
+4	ари	ари́	PRON	Pron_Dem_Prox_Sg	Number=Sing|PronType=Dem	5	det	_	LMSeg:ари́
+5	адгьыл	а́дгьыл	NOUN	Noun_NH_Sg_[Det]	Animacy=Nhum|Number=Sing	7	obl	_	LMSeg:а́дгьыл
+6	ахь	а́хь	ADP	PP_Poss:3SgNH	Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3	5	case	_	LMSeg:а́хь
+7	дшаашьҭыз	а́ашьҭра	VERB	V_Dyn_Tr_StatPass_NonFin_Cnv_Impf_How_S:3SgH	Dyn=No|Gender[subj]=Com|Number[subj]=Sing|Person[subj]=3|RelType=Mnr|Subcat=Tran|Tense=Imp|VerbForm=NonFin|Voice=Pass	3	advcl	_	LMSeg:а́а·шьҭ-ра|SpaceAfter=No
+8	.	.	PUNCT	Punct_Period	_	3	punct	_	LMSeg:.
 
 ~~~
 

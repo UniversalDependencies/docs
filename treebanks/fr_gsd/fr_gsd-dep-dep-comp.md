@@ -28,7 +28,7 @@ The following 4 pairs of parts of speech are connected with `dep:comp`: <tt><a h
 4	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	-on	on	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	nsubj	_	wordform=on
 6	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	_
-7	confiance	confiance	NOUN	_	Number=Sing	4	obj:lvc	_	Gender[lex]=Fem
+7	confiance	confiance	NOUN	_	Gender=Fem|Number=Sing	4	obj:lvc	_	Exponence[Gender]=Inherent
 8	?	?	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -42,15 +42,15 @@ The following 4 pairs of parts of speech are connected with `dep:comp`: <tt><a h
 # visual-style 13 14 dep:comp	color:blue
 1	À	à	ADP	_	_	3	case	_	wordform=à
 2	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
-3	occasion	occasion	NOUN	_	Number=Sing	13	obl:mod	_	Gender[lex]=Fem|SpaceAfter=No
+3	occasion	occasion	NOUN	_	Gender=Fem|Number=Sing	13	obl:mod	_	Exponence[Gender]=Inherent|SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
-5	François	François	PROPN	_	_	13	nsubj	_	Gender[lex]=Unknown
-6	Fillon	Fillon	PROPN	_	_	5	flat:name	_	Gender[lex]=Unknown
+5	François	François	PROPN	_	_	13	nsubj	_	_
+6	Fillon	Fillon	PROPN	_	_	5	flat:name	_	_
 7	alors	alors	ADV	_	_	8	advmod	_	_
-8	ministre	ministre	NOUN	_	Number=Sing	5	appos	_	Gender[lex]=Masc
+8	ministre	ministre	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	Exponence[Gender]=Inherent
 9	de	de	ADP	_	_	11	case	_	_
-10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	Gender[ctxt]=Fem|SpaceAfter=No
-11	Éducation	éducation	NOUN	_	Number=Sing	8	nmod	_	Gender[lex]=Fem|wordform=éducation
+10	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Exponence[Gender]=Absent|SpaceAfter=No
+11	Éducation	éducation	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	Exponence[Gender]=Inherent|wordform=éducation
 12	nationale	national	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	_
 13	déclare	déclarer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	que	que	SCONJ	_	_	13	dep:comp	_	SpaceAfter=No
@@ -66,20 +66,20 @@ The following 4 pairs of parts of speech are connected with `dep:comp`: <tt><a h
 # visual-style 19	fgColor:white
 # visual-style 19 24 dep:comp	color:blue
 1	Cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	wordform=cette
-2	théorie	théorie	NOUN	_	Number=Sing	7	nsubj	_	Gender[lex]=Fem
+2	théorie	théorie	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	Exponence[Gender]=Inherent
 3	issue	issu	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	psychologie	psychologie	NOUN	_	Number=Sing	3	obl:arg	_	Gender[lex]=Fem
+6	psychologie	psychologie	NOUN	_	Gender=Fem|Number=Sing	3	obl:arg	_	Exponence[Gender]=Inherent
 7	suppose	supposer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	que	que	SCONJ	_	_	11	mark	_	_
-9	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	10	det	_	Gender[ctxt]=Masc|SpaceAfter=No
-10	individu	individu	NOUN	_	Number=Sing	11	nsubj	_	Gender[lex]=Masc
+9	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	Exponence[Gender]=Absent|SpaceAfter=No
+10	individu	individu	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	Exponence[Gender]=Inherent
 11	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
-12	sens	sens	NOUN	_	_	11	obj:lvc	_	Gender[lex]=Masc|Number[ctxt]=Sing
+12	sens	sens	NOUN	_	Gender=Masc|Number=Sing	11	obj:lvc	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
 13	de	de	ADP	_	_	15	case	_	_
 14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	monde	monde	NOUN	_	Number=Sing	11	obl:arg	_	Gender[lex]=Masc
+15	monde	monde	NOUN	_	Gender=Masc|Number=Sing	11	obl:arg	_	Exponence[Gender]=Inherent
 16	qui	qui	PRON	_	PronType=Rel	18	nsubj	_	_
 17	l'	lui	PRON	_	Case=Acc|Emph=No|Number=Sing|Person=3|PronType=Prs	18	obj	_	SpaceAfter=No
 18	entoure	entourer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
@@ -87,7 +87,7 @@ The following 4 pairs of parts of speech are connected with `dep:comp`: <tt><a h
 20	partir	partir	VERB	_	VerbForm=Inf	19	fixed	_	InIdiom=Yes
 21	de	de	ADP	_	_	24	case	_	_
 22	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	24	det	_	_
-23	propres	propre	ADJ	_	Number=Plur	24	amod	_	Gender[ctxt]=Masc
+23	propres	propre	ADJ	_	Gender=Masc|Number=Plur	24	amod	_	Exponence[Gender]=Absent
 24	construits	construire	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part|Voice=Pass	19	dep:comp	_	SpaceAfter=No|Tense[denom]=Past
 25	.	.	PUNCT	_	_	7	punct	_	_
 

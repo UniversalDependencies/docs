@@ -9,28 +9,27 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_circse-dep-advmod.html">advmod</a></tt>.
 There are also 3 other language-specific subtypes of `advmod`: <tt><a href="la_circse-dep-advmod-emph.html">advmod:emph</a></tt>, <tt><a href="la_circse-dep-advmod-lmod.html">advmod:lmod</a></tt>, <tt><a href="la_circse-dep-advmod-tmod.html">advmod:tmod</a></tt>.
 
-249 nodes (1%) are attached to their parents as `advmod:neg`.
+296 nodes (1%) are attached to their parents as `advmod:neg`.
 
-242 instances of `advmod:neg` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.30120481927711.
+288 instances of `advmod:neg` (97%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.23986486486486.
 
-The following 11 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (124; 50% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (61; 24% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (32; 13% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (12; 5% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (7; 3% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (5; 2% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `advmod:neg`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (153; 52% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (67; 23% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (39; 13% instances), <tt><a href="la_circse-pos-ADV.html">ADV</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (14; 5% instances), <tt><a href="la_circse-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (7; 2% instances), <tt><a href="la_circse-pos-DET.html">DET</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (6; 2% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (4; 1% instances), <tt><a href="la_circse-pos-NUM.html">NUM</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="la_circse-pos-AUX.html">AUX</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_circse-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 advmod:neg	color:blue
-1	non	non	PART	P	Polarity=Neg	2	advmod:neg	_	LiLaflcat=i
-2	capit	capio	VERB	B5	Aspect=Imp|InflClass=LatI2|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LASLAVariant=2|LiLaflcat=v5
-3	terra	terra	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	2	nsubj	_	LiLaflcat=n1
-4	Herculem	hercules	PROPN	A3	Case=Acc|Gender=Masc|InflClass=IndEurI|NameType=Giv|Number=Sing	2	obj	_	LASLAVariant=N|LiLaflcat=n3
-5	tandem	tandem	ADV	M	Degree=Pos	8	advmod:tmod	_	LiLaflcat=i
-6	que	que	CCONJ	S	_	8	cc	_	LiLaflcat=i
-7	superis	superi	NOUN	A2	Case=Dat|Gender=Masc|InflClass=IndEurO|Number=Plur	8	obl:arg	_	LiLaflcat=n2
-8	reddit	reddo	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	LiLaflcat=v3
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 advmod:neg	color:blue
+1	quid	quis	PRON	K	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int	2	obj	_	_
+2	optem	opto	VERB	B1	Aspect=Imp|InflClass=LatA|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	quid	quis	PRON	K	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Int	5	obj	_	_
+4	ue	ue	CCONJ	S	_	3	cc	_	_
+5	decernam	decerno	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp:relcl	_	_
+6	haut	haud	PART	P	Polarity=Neg	7	advmod:neg	_	_
+7	scio	scio	VERB	B4	Aspect=Imp|InflClass=LatI|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	orphan	_	_
 
 ~~~
 
@@ -51,19 +50,20 @@ The following 11 pairs of parts of speech are connected with `advmod:neg`: <tt><
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 advmod:neg	color:blue
-1	non	non	PART	P	Polarity=Neg	5	advmod:neg	_	LiLaflcat=i
-2	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	LASLAVariant=1|LiLaflcat=v6
-3	ad	ad	ADP	R	AdpType=Prep	4	case	_	LASLAVariant=2|LiLaflcat=i
-4	astra	astrum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	5	obl:lmod	_	LiLaflcat=n2
-5	mollis	mollis	ADJ	C4	Case=Nom|Degree=Pos|Gender=Fem|InflClass=IndEurI|Number=Sing	0	root	_	LiLaflcat=n7
-6	e	ex	ADP	R	AdpType=Prep	7	case	_	LiLaflcat=i
-7	terris	terra	NOUN	A1	Case=Abl|Gender=Fem|InflClass=IndEurA|Number=Plur	5	obl:lmod	_	LiLaflcat=n1
-8	uia	uia	NOUN	A1	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing	5	nsubj	_	LiLaflcat=n1
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 advmod:neg	color:blue
+1	scelere	scelus	NOUN	A3	Case=Abl|Gender=Neut|InflClass=IndEurX|Number=Sing	2	obl:agent	_	_
+2	defungi	defungor	VERB	B3	Aspect=Imp|InflClass=LatX|InflClass[nominal]=Ind|VerbForm=Inf|Voice=Pass	9	xcomp	_	_
+3	haut	haud	PART	P	Polarity=Neg	4	advmod:neg	_	_
+4	leui	leuis	ADJ	C4	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurI|Number=Sing	1	amod	_	_
+5	haut	haud	PART	P	Polarity=Neg	6	advmod:neg	_	_
+6	usitato	usitatus	ADJ	C1	Case=Abl|Degree=Pos|Gender=Neut|InflClass=IndEurO|Number=Sing	4	conj	_	_
+7	tanta	tantus	DET	I	Case=Nom|Gender=Fem|InflClass=IndEurA|Number=Sing|PronType=Dem	8	det	_	_
+8	nobilitas	nobilitas	NOUN	A3	Case=Nom|Gender=Fem|InflClass=IndEurX|Number=Sing	9	nsubj	_	_
+9	potest	possum	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 
 ~~~
 

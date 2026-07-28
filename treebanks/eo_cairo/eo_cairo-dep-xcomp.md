@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `xcomp`: <tt><a href
 3	sian	si	PRON	_	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	4	nmod:poss	_	_
 4	edzon	edzo	NOUN	_	Case=Acc|Number=Sing	2	obj	_	_
 5	lavi	lavi	VERB	_	VerbForm=Inf	4	xcomp	_	_
-6	la	la	DET	_	_	7	det	_	_
+6	la	la	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	aŭton	aŭto	NOUN	_	Case=Acc|Number=Sing	5	obj	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 

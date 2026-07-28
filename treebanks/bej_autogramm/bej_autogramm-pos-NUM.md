@@ -13,7 +13,7 @@ The 10 most frequent `NUM` lemmas: <em>_</em>
 
 The 10 most frequent `NUM` types:  <em>mhaj, gaːl, mhall, alif, asarama, gali, gaːt, mhali, awwal, faɖig</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> 2410, <tt><a href="bej_autogramm-pos-PUNCT.html">PUNCT</a></tt> 2363, <tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> 1736, <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> 1719, <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> 819, <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> 766, <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> 594, <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 338, <tt><a href="bej_autogramm-pos-PART.html">PART</a></tt> 321, <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> 284, <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> 191, <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> 149, <tt><a href="bej_autogramm-pos-X.html">X</a></tt> 73, <tt><a href="bej_autogramm-pos-INTJ.html">INTJ</a></tt> 66, <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> 63, <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> 59)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="bej_autogramm-pos-VERB.html">VERB</a></tt> 2408, <tt><a href="bej_autogramm-pos-PUNCT.html">PUNCT</a></tt> 2363, <tt><a href="bej_autogramm-pos-DET.html">DET</a></tt> 1736, <tt><a href="bej_autogramm-pos-NOUN.html">NOUN</a></tt> 1719, <tt><a href="bej_autogramm-pos-PRON.html">PRON</a></tt> 821, <tt><a href="bej_autogramm-pos-ADP.html">ADP</a></tt> 767, <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> 585, <tt><a href="bej_autogramm-pos-CCONJ.html">CCONJ</a></tt> 338, <tt><a href="bej_autogramm-pos-PART.html">PART</a></tt> 321, <tt><a href="bej_autogramm-pos-AUX.html">AUX</a></tt> 288, <tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> 192, <tt><a href="bej_autogramm-pos-ADJ.html">ADJ</a></tt> 149, <tt><a href="bej_autogramm-pos-X.html">X</a></tt> 73, <tt><a href="bej_autogramm-pos-INTJ.html">INTJ</a></tt> 66, <tt><a href="bej_autogramm-pos-PROPN.html">PROPN</a></tt> 63, <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> 59)
 
 The 10 most frequent ambiguous types:  <em>ʔawwal</em> (<tt><a href="bej_autogramm-pos-ADV.html">ADV</a></tt> 1, <tt><a href="bej_autogramm-pos-NUM.html">NUM</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>ʔawwal</em> (<tt><a href="bej_autogr
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 15.000000 (the average of all parts of speech is 126.875000).
+The form / lemma ratio of `NUM` is 15.000000 (the average of all parts of speech is 127.062500).
 
 The 1st highest number of forms (15) was observed with the lemma “_”: <em>alif, asarama, awwal, faɖig, gali, gaːl, gaːlnaːj, gaːt, mhaj, mhali, mhall, mhallaː, mhaloː, ʃeː, ʔawwal</em>.
 

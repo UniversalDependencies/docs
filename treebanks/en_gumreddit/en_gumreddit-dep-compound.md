@@ -23,7 +23,7 @@ The following 18 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 22	bgColor:blue
 # visual-style 22	fgColor:white
 # visual-style 22 21 compound	color:blue
-1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=evaluation-comment:29->16:4:_|Entity=(34-abstract-new-nnnnn-cf5-3-sgl|Lem=*LOWER*|Len=3
+1	_	_	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Discourse=evaluation-comment:29->16:4:_|Entity=(34-abstract-new-nnnnn-cf5-3-sgl|Lem=*LOWER*|Len=3|PDTB=Implicit:Expansion.Conjunction:but:_:143-166:167-196
 2	_	_	ADJ	JJ	Degree=Pos	3	amod	3:amod	Lem=_|Len=4
 3	_	_	NOUN	NN	Number=Sing	17	nsubj:outer	17:nsubj:outer	Lem=_|Len=6
 4	_	_	SCONJ	IN	_	6	mark	6:mark	Discourse=elaboration-attribute:30->29:0:syn-mdf-169-_+syn-nmn-170,172-_|Lem=_|Len=4
@@ -42,7 +42,7 @@ The following 18 pairs of parts of speech are connected with `compound`: <tt><a 
 17	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=_|Len=5
 18	_	_	PROPN	NNP	Abbr=Yes|Number=Sing	17	obj	17:obj	Entity=(27-abstract-giv:inact-nnnnn-cf2-1-coref-United_States_dollar)|Lem=_|Len=3
 19	_	_	CCONJ	CC	_	23	cc	23:cc	Discourse=joint-list_m:32->31:0:sem-mrnym-184,186-188-_+sem-lxchn-184,188-gold+dm-and-185-gold|Lem=_|Len=3|PDTB=Explicit:Expansion.Conjunction:and:185:167-169,176-184:186-196
-20	_	_	DET	DT	Number=Sing|PronType=Dem	22	det	22:det	Bridge=27<38|Entity=(38-object-acc:inf-nnnnn-cf3-3-sgl|Lem=_|Len=4
+20	_	_	DET	DT	Number=Sing|PronType=Dem	22	det	22:det	Bridge=27<38:entity-associative|Entity=(38-object-acc:inf-nnnnn-cf3-3-sgl|Lem=_|Len=4
 21	_	_	NOUN	NN	Number=Sing	22	compound	22:compound	Lem=_|Len=5
 22	_	_	NOUN	NN	Number=Sing	23	nsubj	23:nsubj	Entity=38)|Lem=_|Len=8|MSeg=currenc-y
 23	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	17:conj:and	Lem=represent|Len=10|MSeg=represent-s
@@ -63,25 +63,25 @@ The following 18 pairs of parts of speech are connected with `compound`: <tt><a 
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 compound	color:blue
-1	_	_	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Discourse=evaluation-comment:24->16:3:lex-indwd-162-_|Entity=(22-event-giv:act-nnnnn-cf1*-1-coref)|Lem=*LOWER*|Len=4
+1	_	_	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	3:nsubj	Discourse=evaluation-comment:24->16:3:lex-indwd-162-_|Entity=(22-event-giv:act-nnnnn-cf1*-1-coref)|Lem=*LOWER*|Len=4|PDTB=Implicit:Expansion.Conjunction:furthermore:_:105-142:143-166
 2	_	_	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	3:cop	Lem=be|Len=2
 3	_	_	ADJ	JJ	Degree=Pos	0	root	0:root	Lem=_|Len=7|MSeg=relat-ed
 4	_	_	SCONJ	IN	_	6	mark	6:mark	Discourse=causal-cause:25->24:0:dm-because-146-gold|Lem=_|Len=7|MSeg=be-cause|PDTB=Explicit:Contingency.Cause.Reason:because:146:143-145:147-166
 5	_	_	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	Entity=(28-event-new-nnnnn-cf9-2-disc(29-person-new-nnnnn-cf7-1-sgl)|Lem=person|Len=6
 6	_	_	VERB	VBP	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	3:advcl:because	Lem=_|Len=3
-7	_	_	NOUN	NN	Number=Sing	6	obj	6:obj	Entity=(12-abstract-giv:inact-sssss-cf4-1-coref)|Lem=_|Len=5
+7	_	_	NOUN	NN	Number=Sing	6	obj	6:obj	Entity=(12-abstract-giv:inact-sssss-cf5-1-coref)|Lem=_|Len=5
 8	_	_	PART	TO	_	9	mark	9:mark	Discourse=purpose-goal:26->25:0:syn-inf-150-_|Lem=_|Len=2|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:146-149:150-153
 9	_	_	VERB	VB	VerbForm=Inf	6	advcl	6:advcl:to	Lem=_|Len=3
 10	_	_	PROPN	NNP	Abbr=Yes|Number=Sing	11	compound	11:compound	Entity=(30-abstract-new-nnnnn-cf8-2-sgl(31-place-new-nnssn-cf3-1-coref-United_States)|Lem=_|Len=2
 11	_	_	NOUN	NN	Number=Sing	9	obj	9:obj	Entity=30)|Lem=_|Len=4
-12	_	_	PUNCT	:	_	15	punct	15:punct	Discourse=elaboration-additional:27->25:1:sem-lxchn-149,157-gold+sem-mrnym-149,161-165-_+sem-rpt-152,159-_|Lem=-|Len=2
-13	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	15:nsubj	Entity=(32-person-acc:com-nnnnn-cf5-1-ana)|Lem=_|Len=2
+12	_	_	PUNCT	:	_	15	punct	15:punct	Discourse=elaboration-additional:27->25:1:sem-lxchn-149,157-gold+sem-rpt-152,159-_|Lem=-|Len=2
+13	_	_	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	15:nsubj	Entity=(32-person-acc:com-nnnnn-cf6-1-ana)|Lem=_|Len=2
 14	_	_	AUX	VBP	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	15	aux	15:aux	Lem=be|Len=3
 15	_	_	VERB	VBG	Tense=Pres|VerbForm=Part	6	parataxis	6:parataxis	Cxn=Ditransitive|CxnElt=15:Ditransitive.V|Lem=loan|Len=7|MSeg=loan-ing
 16	_	_	DET	DT	Definite=Def|PronType=Art	18	det	18:det	Entity=(23-organization-giv:act-nnsss-cf2-3-coref|Lem=_|Len=3
 17	_	_	PROPN	NNP	Abbr=Yes|Number=Sing	18	compound	18:compound	Entity=(31-place-giv:act-nnssn-cf3-1-coref-United_States)|Lem=_|Len=2
 18	_	_	NOUN	NN	Number=Sing|Typo=Yes	15	iobj	15:iobj	CorrectForm=government|CxnElt=15:Ditransitive.Rec|Entity=23)|Lem=government|Len=4|XML=<sic ana:::"government"></sic>
-19	_	_	DET	DT	Definite=Def|PronType=Art	21	det	21:det	Bridge=12<33|Entity=(33-abstract-acc:inf-nnnnn-cf6-3-sgl|Lem=_|Len=3
+19	_	_	DET	DT	Definite=Def|PronType=Art	21	det	21:det	Entity=(33-abstract-auto-nnnnn-cf4-3-sgl|Lem=_|Len=3
 20	_	_	ADJ	JJ	Degree=Pos	21	amod	21:amod	Lem=_|Len=4
 21	_	_	NOUN	NN	Number=Sing	15	obj	15:obj	CxnElt=15:Ditransitive.Theme|Lem=_|Len=5
 22	_	_	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	23	nsubj	23:nsubj	Discourse=elaboration-attribute:28->27:0:syn-mdf-163-_+syn-relcl-165-_|Entity=(23-organization-giv:act-nnsss-cf2-1-ana)|Lem=_|Len=2

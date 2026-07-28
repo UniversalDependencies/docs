@@ -22,10 +22,10 @@ The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 nmod:poss	color:blue
-1	Þæt	se	DET	DT	Case=Nom|Gender=Neut|Number=Sing	2	det	_	Gloss=the|Hyperlemma=the|Root=*so
+1	Þæt	se	DET	DT	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	Gloss=the|Hyperlemma=the|Root=*so
 2	mæden	mæden	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	Gloss=girl|Hyperlemma=maiden|Root=*mogʰ
 3	ƿrat	ƿritan	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=wrote|Hyperlemma=write|Root=*wrey
-4	hyre	heo	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing	5	nmod:poss	_	Gloss=her|Hyperlemma=she|Root=*ḱey
+4	hyre	heo	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	5	nmod:poss	_	Gloss=her|Hyperlemma=she|Root=*ḱey
 5	freonde	freond	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	3	iobj	_	Gloss=friend|Hyperlemma=friend|Root=*preyH
 6	ærend-ƿrit	ærend-ƿrit	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	Gloss=letter|Hyperlemma=errand-writ|Root=*h₂eyeri-wrey|SpaceAfter=No
 7	.	.	PUNCT	.	_	3	punct	_	Gloss=.|Hyperlemma=.|Root=_
@@ -42,7 +42,7 @@ The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 1	Peteres	Petrus	PROPN	NNP	Case=Gen|Gender=Masc|Number=Sing	2	nmod:poss	_	Gloss=Petrus's|Hyperlemma=Petrus|Root=_
 2	neah-ȝebur	neah-ȝebur	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Gloss=neighbor|Hyperlemma=neighbor|Root=*h₂neḱ-bʰuHt
 3	hæfð	habban	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	Gloss=has|Hyperlemma=have|Root=*keh₂p
-4	þone	se	DET	DT	Case=Acc|Gender=Masc|Number=Sing	5	det	_	Gloss=the|Hyperlemma=the|Root=*so
+4	þone	se	DET	DT	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the|Hyperlemma=the|Root=*so
 5	eodor	eodor	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	Gloss=fence|Hyperlemma=edder|Root=*h₁odʰ
 6	readne	read	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	7	xcomp	_	Gloss=red|Hyperlemma=red|Root=*h₁rewdʰ
 7	onȝemet	onmetan	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	Gloss=painted|Hyperlemma=onmetan|Root=*med|SpaceAfter=No

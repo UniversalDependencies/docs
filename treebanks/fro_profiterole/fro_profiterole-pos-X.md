@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Old_French-PROFITEROLE: POS Tags: `X`
 
-There are 1 `X` lemmas (7%), 2 `X` types (0%) and 9 `X` tokens (0%).
+There are 2 `X` lemmas (0%), 2 `X` types (0%) and 9 `X` tokens (0%).
 Out of 15 observed tags, the rank of `X` is: 15 in number of lemmas, 15 in number of types and 15 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>_</em>
+The 10 most frequent `X` lemmas: <em>_, explicit</em>
 
 The 10 most frequent `X` types:  <em>qu', Explycit</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 35620, <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> 31692, <tt><a href="fro_profiterole-pos-PUNCT.html">PUNCT</a></tt> 31401, <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> 29739, <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> 25148, <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> 20494, <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> 19977, <tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> 12417, <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> 8278, <tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> 7506, <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> 7480, <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> 6855, <tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> 1047, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 159, <tt><a href="fro_profiterole-pos-X.html">X</a></tt> 9)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fro_profiterole-pos-VERB.html">VERB</a></tt> 13207, <tt><a href="fro_profiterole-pos-NOUN.html">NOUN</a></tt> 12804, <tt><a href="fro_profiterole-pos-PUNCT.html">PUNCT</a></tt> 12347, <tt><a href="fro_profiterole-pos-DET.html">DET</a></tt> 11020, <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> 10386, <tt><a href="fro_profiterole-pos-ADP.html">ADP</a></tt> 9918, <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> 9278, <tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> 4482, <tt><a href="fro_profiterole-pos-PROPN.html">PROPN</a></tt> 3203, <tt><a href="fro_profiterole-pos-AUX.html">AUX</a></tt> 2986, <tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> 2870, <tt><a href="fro_profiterole-pos-ADJ.html">ADJ</a></tt> 2419, <tt><a href="fro_profiterole-pos-NUM.html">NUM</a></tt> 300, <tt><a href="fro_profiterole-pos-INTJ.html">INTJ</a></tt> 47, <tt><a href="fro_profiterole-pos-X.html">X</a></tt> 8)
 
 The 10 most frequent ambiguous types:  <em>qu'</em> (<tt><a href="fro_profiterole-pos-SCONJ.html">SCONJ</a></tt> 1238, <tt><a href="fro_profiterole-pos-PRON.html">PRON</a></tt> 334, <tt><a href="fro_profiterole-pos-CCONJ.html">CCONJ</a></tt> 17, <tt><a href="fro_profiterole-pos-X.html">X</a></tt> 8, <tt><a href="fro_profiterole-pos-ADV.html">ADV</a></tt> 3)
 
@@ -27,11 +27,19 @@ The 10 most frequent ambiguous types:  <em>qu'</em> (<tt><a href="fro_profiterol
 
 ## Morphology
 
-The form / lemma ratio of `X` is 2.000000 (the average of all parts of speech is 1383.200000).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 3.463337).
 
-The 1st highest number of forms (2) was observed with the lemma “_”: <em>Explycit, qu'</em>.
+The 1st highest number of forms (1) was observed with the lemma “_”: <em>qu'</em>.
 
-`X` does not occur with any features.
+The 2nd highest number of forms (1) was observed with the lemma “explicit”: <em>Explycit</em>.
+
+`X` occurs with 1 features: <tt><a href="fro_profiterole-feat-Foreign.html">Foreign</a></tt> (1; 11% instances)
+
+`X` occurs with 1 feature-value pairs: `Foreign=Yes`
+
+`X` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (8 tokens).
+Examples: <em>qu'</em>
 
 
 ## Relations

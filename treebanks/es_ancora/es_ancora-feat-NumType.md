@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Card`, `Frac`, `Ord`.
 
-11808 tokens (2%) have a non-empty value of `NumType`.
-1743 types (4%) occur at least once with a non-empty value of `NumType`.
-1651 lemmas (6%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (9174; 2% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (1960; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (496; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (178; 0% instances).
+11914 tokens (2%) have a non-empty value of `NumType`.
+1745 types (4%) occur at least once with a non-empty value of `NumType`.
+1652 lemmas (6%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> (9175; 2% instances), <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> (2012; 0% instances), <tt><a href="es_ancora-pos-DET.html">DET</a></tt> (496; 0% instances), <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> (231; 0% instances).
 
 ### `NUM`
 
-9174 <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+9175 <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6313; 69%), <tt><a href="es_ancora-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (5473; 60%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6314; 69%), <tt><a href="es_ancora-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (5474; 60%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (9172; 100% of non-empty `NumType`): <em>dos, ciento, tres, cinco, cuatro, seis, 20, 30, ambos, siete</em>
+* `Card` (9173; 100% of non-empty `NumType`): <em>dos, ciento, tres, cinco, cuatro, seis, 20, 30, ambos, siete</em>
 * `Frac` (2; 0% of non-empty `NumType`): <em>1-0</em>
 
 <table>
@@ -34,16 +34,16 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 ### `ADJ`
 
-1960 <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `NumType`.
+2012 <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> tokens (5% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (1960; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1534; 78%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1099; 56%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2012; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1577; 78%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1119; 56%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
-* `Ord` (1960; 100% of non-empty `NumType`): <em>primer, primera, últimos, segunda, segundo, último, última, primeros, últimas, tercera</em>
-* `EMPTY` (34467): <em>pasado, gran, nuevo, mayor, próximo, nueva, mejor, general, ex, posible</em>
+* `Ord` (2012; 100% of non-empty `NumType`): <em>primer, primera, últimos, segunda, segundo, último, última, primeros, últimas, primero</em>
+* `EMPTY` (34861): <em>pasado, gran, nuevo, nueva, mayor, próximo, mejor, general, ex, posible</em>
 
-`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (31) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (28) occur only with one value of `NumType`.
 
 ### `DET`
 
@@ -54,18 +54,18 @@ The most frequent other feature values with which `DET` and `NumType` co-occurre
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (496; 100% of non-empty `NumType`): <em>muchos, muchas, mucha, pocos, mucho, pocas, poca, tanta, tantas, tanto</em>
-* `EMPTY` (83935): <em>el, la, los, un, las, una, su, sus, este, esta</em>
+* `EMPTY` (83938): <em>el, la, los, un, las, una, su, sus, este, esta</em>
 
 ### `PRON`
 
-178 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `NumType`.
+231 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (178; 100%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (178; 100%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (178; 100%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (178; 100%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (158; 89%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (149; 84%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt> (104; 58%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (231; 100%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (231; 100%), <tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (231; 100%), <tt><a href="es_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (231; 100%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (202; 87%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (158; 68%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (126; 55%).
 
 `PRON` tokens may have the following values of `NumType`:
 
-* `Card` (178; 100% of non-empty `NumType`): <em>muchos, poco, muchas, pocos, mucho, cuanto, cuánto, tanta, cuántos, Deu</em>
-* `EMPTY` (25007): <em>que, se, lo, le, me, nos, uno, quien, la, les</em>
+* `Card` (231; 100% of non-empty `NumType`): <em>muchos, tanto, poco, muchas, pocos, mucho, cuanto, cuánto, tanta, cuántos</em>
+* `EMPTY` (25076): <em>que, se, lo, le, me, nos, uno, quien, la, les</em>
 
 ## Relations with Agreement in `NumType`
 

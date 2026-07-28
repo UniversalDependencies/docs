@@ -16,11 +16,11 @@ Family: IE
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
-The following people have contributed to making this treebank part of UD: Tanja Samardžić, Nikola Ljubešić.
+The following people have contributed to making this treebank part of UD: Tanja Samardžić, Aleksandra Miletić, Nikola Ljubešić.
 
 Repository: [UD_Serbian-SET](https://github.com/UniversalDependencies/UD_Serbian-SET)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsr_set217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsr_set218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -58,7 +58,7 @@ additional news documents from the Serbian web.
 
 ## Features
 
-[Animacy](sr_set-feat-Animacy.html) – [Case](sr_set-feat-Case.html) – [Definite](sr_set-feat-Definite.html) – [Degree](sr_set-feat-Degree.html) – [Foreign](sr_set-feat-Foreign.html) – [Gender](sr_set-feat-Gender.html) – [Gender[psor]](sr_set-feat-Gender-psor.html) – [Mood](sr_set-feat-Mood.html) – [Number](sr_set-feat-Number.html) – [Number[psor]](sr_set-feat-Number-psor.html) – [NumType](sr_set-feat-NumType.html) – [Person](sr_set-feat-Person.html) – [Polarity](sr_set-feat-Polarity.html) – [Poss](sr_set-feat-Poss.html) – [PronType](sr_set-feat-PronType.html) – [Reflex](sr_set-feat-Reflex.html) – [Tense](sr_set-feat-Tense.html) – [VerbForm](sr_set-feat-VerbForm.html) – [Voice](sr_set-feat-Voice.html)
+[Animacy](sr_set-feat-Animacy.html) – [Case](sr_set-feat-Case.html) – [Definite](sr_set-feat-Definite.html) – [Degree](sr_set-feat-Degree.html) – [Foreign](sr_set-feat-Foreign.html) – [Gender](sr_set-feat-Gender.html) – [Mood](sr_set-feat-Mood.html) – [Number](sr_set-feat-Number.html) – [Number[psor]](sr_set-feat-Number-psor.html) – [NumType](sr_set-feat-NumType.html) – [Person](sr_set-feat-Person.html) – [Polarity](sr_set-feat-Polarity.html) – [Poss](sr_set-feat-Poss.html) – [PronType](sr_set-feat-PronType.html) – [Reflex](sr_set-feat-Reflex.html) – [Tense](sr_set-feat-Tense.html) – [VerbForm](sr_set-feat-VerbForm.html) – [Voice](sr_set-feat-Voice.html)
 
 ## Relations
 
@@ -99,7 +99,7 @@ additional news documents from the Serbian web.
 </ul>
 
 <ul>
-<li>This corpus contains 15 lemmas tagged as pronouns (PRON): išta, ja, ko, mi, neko, nešto, niko, ništa, on, oni, sebe, svako, vi, šta, što</li>
+<li>This corpus contains 16 lemmas tagged as pronouns (PRON): išta, ja, ko, mi, neko, nešto, niko, ništa, on, oni, sebe, svako, sve, vi, šta, što</li>
 </ul>
 
 <ul>
@@ -107,7 +107,7 @@ additional news documents from the Serbian web.
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: ko, mi, što</li>
+<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: ko, mi, sve, što</li>
 </ul>
 
 <ul>
@@ -328,7 +328,7 @@ additional news documents from the Serbian web.
       <li>DET: ove, toga, tog, ovog, svog, svojih, te, svih, tih, svoje</li>
       <li>NOUN: godine, evra, godina, zemlje, poslova, miliona, zemalja, vlade, nedelje, dana</li>
       <li>NUM: jedne, jednog, dveju, dve, oba, obeju</li>
-      <li>PRON: njih, njega, nas, čega, ih, sebe, nje, kog, nekoga</li>
+      <li>PRON: njih, njega, nas, čega, ih, sebe, nje, svega, kog, nekoga</li>
       <li>PROPN: Kosova, Srbije, Turske, Evrope, UN-a, Makedonije, Hrvatske, Bugarske, NATO-a, Albanije</li>
     </ul>
   </li>
@@ -611,7 +611,7 @@ additional news documents from the Serbian web.
     <ul>
       <li>ADV: uvek, svakako, svuda</li>
       <li>DET: sve, svi, svih, svaki, svim, svaka, svake, svega, svakog, sva</li>
-      <li>PRON: svako</li>
+      <li>PRON: svako, svega</li>
     </ul>
   </li>
 </ul>
@@ -708,25 +708,6 @@ additional news documents from the Serbian web.
 </ul>
 
 
-<ul>
-  <li><a>Gender[psor]</a></li>
-</ul>
-
-<ul>
-  <li>Fem
-    <ul>
-      <li>DET: njen, njenog, njenu, njena, njene, njenom, njenih, njeno, njeni, njenim</li>
-    </ul>
-  </li>
-</ul>
-
-<ul>
-  <li>Masc,Neut
-    <ul>
-      <li>DET: njegova, njegov, njegovog, njegove, njegovom, njegovih, njegovim, njegovu, njegovoj, njegovi</li>
-    </ul>
-  </li>
-</ul>
 
 <ul>
   <li><a>Number[psor]</a></li>

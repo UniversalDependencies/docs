@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-51 nodes (13%) are attached to their parents as `root`.
+58 nodes (13%) are attached to their parents as `root`.
 
-51 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.19607843137255.
+58 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.17241379310345.
 
-The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> (36; 71% instances), -<tt><a href="qti_butr-pos-ADJ.html">ADJ</a></tt> (8; 16% instances), -<tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt> (4; 8% instances), -<tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> (2; 4% instances), -<tt><a href="qti_butr-pos-ADV.html">ADV</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `root`: -<tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> (42; 72% instances), -<tt><a href="qti_butr-pos-ADJ.html">ADJ</a></tt> (9; 16% instances), -<tt><a href="qti_butr-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), -<tt><a href="qti_butr-pos-PRON.html">PRON</a></tt> (2; 3% instances), -<tt><a href="qti_butr-pos-ADV.html">ADV</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -22,9 +22,9 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 5 root	color:blue
-1	Bunun	bu	PRON	_	Case=Gen|Number=Sing|Person=3	5	advcl	_	Lang=tr
+1	Bunun	bu	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Dem	5	advcl	_	Lang=tr
 2	için	için	ADP	_	_	1	case	_	Lang=tr
-3	bir	bir	DET	_	_	4	det	_	Lang=tr
+3	bir	bir	DET	_	PronType=Art	4	det	_	Lang=tr
 4	toplantı	toplantı	NOUN	_	Case=Nom|Number=Sing|Person=3	5	compound	_	Lang=tr
 5	alabiliriz	al	VERB	_	Aspect=Imp|Mood=Pot|Number=Plur|Person=1|Polarity=Pos|Tense=Pres	0	root	_	Lang=tr|LoanTrans=en:get_a_meeting|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
@@ -44,7 +44,7 @@ The following 5 pairs of parts of speech are connected with `root`: -<tt><a href
 4	etmek	et	VERB	_	Case=Nom|Polarity=Pos	5	nsubj	_	Lang=tr
 5	kolay	kolay	ADJ	_	_	0	root	_	Lang=tr
 6	değil	değil	AUX	_	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	5	aux	_	Lang=tr|SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
+7	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

@@ -11,9 +11,9 @@ This relation is universal.
 4685 nodes (1%) are attached to their parents as `cop`.
 
 4502 instances of `cop` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.94258271077908.
+Average distance between parent and child is 1.94450373532551.
 
-The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (2115; 45% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (1940; 41% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (223; 5% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (129; 3% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (74; 2% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (72; 2% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (54; 1% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (32; 1% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (22; 0% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (10; 0% instances).
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (2124; 45% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (1940; 41% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (223; 5% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (129; 3% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (74; 2% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (72; 2% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (54; 1% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (32; 1% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (22; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (5; 0% instances).
 
 
 ~~~ conllu
@@ -53,7 +53,7 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 8	hem	haver	AUX	vaip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	aux	11:aux	_
 9	d'	de	ADP	sps00	_	11	mark	11:mark	SpaceAfter=No
 10	anar	anar	AUX	vmn0000	VerbForm=Inf	11	aux	11:aux	_
-11	superant	superar	VERB	vmg0000	VerbForm=Ger	6	acl	6:acl	SpaceAfter=No|Entity=CESSCATA2001031527617c6)
+11	superant	superar	VERB	vmg0000	VerbForm=Ger	6	acl:relcl	6:acl:relcl	SpaceAfter=No|Entity=CESSCATA2001031527617c6)
 12	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 ~~~

@@ -23,7 +23,7 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 6 fixed	color:blue
 1	Das	der	DET	ART	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
-2	Papier	Papier	NOUN	NN	Gender=Neut|Number=Sing	3	nsubj	_	_
+2	Papier	Papier	NOUN	NN	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
 3	kostet	kosten	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	derzeit	derzeit	ADV	ADV	_	3	advmod	_	_
 5	um	um	ADP	APPR	AdpType=Prep|Case=Acc|ExtPos=ADV	7	advmod	_	_
@@ -46,10 +46,10 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 3	nun	nun	ADV	ADV	_	6	advmod	_	_
 4	an	an	ADP	APPR	AdpType=Prep|Case=Dat	6	case	_	_
 5	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	Zeit	Zeit	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
+6	Zeit	Zeit	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	0	root	_	_
 7	,	,	PUNCT	$,	PunctType=Comm	14	punct	_	_
-8	die	der	DET	ART	Case=Acc|Definite=Def|Number=Plur|PronType=Art	9	det	_	_
-9	Unsicherheiten	Unsicherheit	NOUN	NN	Gender=Fem|Number=Plur	14	obj	_	_
+8	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	Unsicherheiten	Unsicherheit	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	14	obj	_	_
 10	ein	ein	DET	ART	Case=Acc|Definite=Ind|ExtPos=ADV|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	14	advmod	_	_
 11	für	für	ADP	APPR	AdpType=Prep|Case=Acc	10	fixed	_	_
 12	alle	alle	DET	PIS	Case=Acc|Number=Plur|PronType=Tot	10	fixed	_	_
@@ -71,10 +71,10 @@ The following 5 pairs of parts of speech are connected with `fixed`: <tt><a href
 3	nun	nun	ADV	ADV	_	6	advmod	_	_
 4	an	an	ADP	APPR	AdpType=Prep|Case=Dat	6	case	_	_
 5	der	der	DET	ART	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	Zeit	Zeit	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
+6	Zeit	Zeit	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	0	root	_	_
 7	,	,	PUNCT	$,	PunctType=Comm	14	punct	_	_
-8	die	der	DET	ART	Case=Acc|Definite=Def|Number=Plur|PronType=Art	9	det	_	_
-9	Unsicherheiten	Unsicherheit	NOUN	NN	Gender=Fem|Number=Plur	14	obj	_	_
+8	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	Unsicherheiten	Unsicherheit	NOUN	NN	Case=Acc|Gender=Fem|Number=Plur	14	obj	_	_
 10	ein	ein	DET	ART	Case=Acc|Definite=Ind|ExtPos=ADV|Gender=Neut|Number=Sing|NumType=Card|PronType=Art	14	advmod	_	_
 11	für	für	ADP	APPR	AdpType=Prep|Case=Acc	10	fixed	_	_
 12	alle	alle	DET	PIS	Case=Acc|Number=Plur|PronType=Tot	10	fixed	_	_

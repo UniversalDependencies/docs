@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="la_circse-dep-aux.html">aux</a></tt>.
 
-64 nodes (0%) are attached to their parents as `aux:pass`.
+74 nodes (0%) are attached to their parents as `aux:pass`.
 
-52 instances of `aux:pass` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.671875.
+57 instances of `aux:pass` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.62162162162162.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (63; 98% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (73; 99% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 12	dic	dico	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	LASLAVariant=2|LiLaflcat=v3
 13	uera	uerum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	12	obj	_	LASLAVariant=1|LiLaflcat=n2
 14	quis	quis	PRON	K	Case=Nom|Gender=Fem,Masc|InflClass=LatPron|Number=Sing|PronType=Int	12	conj	_	LiLaflcat=p
-15	nam	nam	ADV	M	_	14	advmod	_	LiLaflcat=i
+15	nam	nam	ADV	M	_	14	discourse	_	LiLaflcat=i
 
 ~~~
 

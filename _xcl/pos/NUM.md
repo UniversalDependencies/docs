@@ -27,4 +27,4 @@ Cardinal numbers are tagged as `NUM` whether they are expressed by words (չոր
 Jensen, Hans. 1959. Altarmenische Grammatik. Heidelberg: Winter.
 
 Meillet, Antoine. 1913. _Altarmenisches Elementarbuch._ Heidelberg: Winters (<a href="https://archive.org/details/altarmenischesel00meil/page/n5/mode/2up" target="_blank">Internet Archive</a>)
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:51 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

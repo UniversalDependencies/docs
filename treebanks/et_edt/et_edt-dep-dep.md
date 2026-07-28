@@ -46,7 +46,7 @@ The following 8 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 11 dep	color:blue
-1	Lõpuks	lõpuks	ADV	D	_	4	advmod	4:advmod	_
+1	Lõpuks	lõpuks	ADV	D	_	4	advmod:tmod	4:advmod	_
 2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	4:aux	_
 3	välja	välja	ADV	D	_	4	compound:prt	4:compound	_
 4	toodud	tooma	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	0:root	_

@@ -66,4 +66,4 @@ They cannot be considered as illocutary units since they are not autonomous.
 16	?	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:35 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:39 CEST -->

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1806 nodes (1%) are attached to their parents as `case`.
+2033 nodes (1%) are attached to their parents as `case`.
 
-1789 instances of `case` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.20431893687708.
+2015 instances of `case` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.19626168224299.
 
-The following 10 pairs of parts of speech are connected with `case`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1242; 69% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (339; 19% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (134; 7% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (16; 1% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (15; 1% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (12; 1% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `case`: <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1388; 68% instances), <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (380; 19% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (163; 8% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (27; 1% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (25; 1% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (21; 1% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (14; 1% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (12; 1% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PART.html">PART</a></tt>-<tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

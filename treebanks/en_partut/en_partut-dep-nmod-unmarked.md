@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_partut-dep-nmod.html">nmod</a></tt>.
 There are also 2 other language-specific subtypes of `nmod`: <tt><a href="en_partut-dep-nmod-desc.html">nmod:desc</a></tt>, <tt><a href="en_partut-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-192 nodes (0%) are attached to their parents as `nmod:unmarked`.
+194 nodes (0%) are attached to their parents as `nmod:unmarked`.
 
-171 instances of `nmod:unmarked` (89%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.61979166666667.
+173 instances of `nmod:unmarked` (89%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.62886597938144.
 
-The following 13 pairs of parts of speech are connected with `nmod:unmarked`: <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (71; 37% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (63; 33% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (18; 9% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (18; 9% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="en_partut-pos-X.html">X</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 13 pairs of parts of speech are connected with `nmod:unmarked`: <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (71; 37% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (63; 32% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (20; 10% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (18; 9% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (7; 4% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="en_partut-pos-X.html">X</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (3; 2% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="en_partut-pos-ADV.html">ADV</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="en_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="en_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -48,23 +48,23 @@ The following 13 pairs of parts of speech are connected with `nmod:unmarked`: <t
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 nmod:unmarked	color:blue
-1	Shakespeare	Shakespeare	PROPN	SP	_	2	nsubj	_	_
-2	continued	continue	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	to	to	PART	PART	_	4	mark	_	_
-4	visit	visit	VERB	V	VerbForm=Inf	2	xcomp	_	_
-5	London	London	PROPN	SP	_	4	obj	_	_
-6	during	during	ADP	E	_	8	case	_	_
-7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
-8	years	year	NOUN	S	Number=Plur	4	obl	_	_
-9	1611	1611	NUM	N	NumType=Card	8	nmod:unmarked	_	SpaceAfter=No
-10	–	–	SYM	X	_	11	case	_	SpaceAfter=No
-11	1614	1614	NUM	N	NumType=Card	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	FS	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 nmod:unmarked	color:blue
+1	As	as	ADP	E	ExtPos=ADP	3	case	_	_
+2	of	of	ADP	E	_	1	fixed	_	_
+3	April	April	PROPN	SP	_	6	obl	_	_
+4	1828	1828	NUM	N	NumType=Card	3	nmod:unmarked	_	_
+5	Balzac	Balzac	PROPN	SP	_	6	nsubj	_	_
+6	owed	owe	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	50,000	50,000	NUM	N	NumType=Card	8	nummod	_	_
+8	francs	franc	NOUN	S	Number=Plur	6	obj	_	_
+9	to	to	ADP	E	_	11	case	_	_
+10	his	his	DET	AP	Poss=Yes|PronType=Prs	11	nmod:poss	_	_
+11	mother	mother	NOUN	S	Number=Sing	6	obl	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	6	punct	_	_
 
 ~~~
 

@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-3326 tokens (3%) have a non-empty value of `Voice`.
-699 types (7%) occur at least once with a non-empty value of `Voice`.
-350 lemmas (7%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (3222; 3% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (104; 0% instances).
+3319 tokens (3%) have a non-empty value of `Voice`.
+695 types (7%) occur at least once with a non-empty value of `Voice`.
+348 lemmas (7%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> (3215; 3% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt> (104; 0% instances).
 
 ### `VERB`
 
-3222 <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `Voice`.
+3215 <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt> tokens (25% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sd_isra-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3044; 94%), <tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2578; 80%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2507; 78%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2254; 70%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="sd_isra-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3039; 95%), <tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2573; 80%), <tt><a href="sd_isra-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2500; 78%), <tt><a href="sd_isra-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2247; 70%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (2873; 89% of non-empty `Voice`): <em>ڪري, وڃي, چيو, ٿيندو, رهي, ٿيندي, ڪندي, پئي, اچي, هوندو</em>
+* `Act` (2866; 89% of non-empty `Voice`): <em>ڪري, وڃي, چيو, ٿيندو, رهي, ٿيندي, ڪندي, پئي, اچي, هوندو</em>
 * `Pass` (349; 11% of non-empty `Voice`): <em>گهرجي, ڪيل, گھرجي, بڻجي, پئجي, ڪجي, مارجي, گهرجن, ڏنل, گهٽجي</em>
-* `EMPTY` (9871): <em>ڪرڻ, ويو, ڪيو, چيو, ڪري, ڪئي, ويا, اچي, ڏنو, پيو</em>
+* `EMPTY` (9856): <em>ڪرڻ, ويو, ڪيو, چيو, ڪري, ڪئي, ويا, اچي, ڏنو, پيو</em>
 
 <table>
   <tr><th>Paradigm <i>ڪر</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -51,7 +51,7 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
   <tr><td><tt><tt><a href="sd_isra-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="sd_isra-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td><em>ڪري</em></td><td></td></tr>
 </table>
 
-`Voice` seems to be **lexical feature** of `VERB`. 92% lemmas (322) occur only with one value of `Voice`.
+`Voice` seems to be **lexical feature** of `VERB`. 92% lemmas (320) occur only with one value of `Voice`.
 
 ### `AUX`
 

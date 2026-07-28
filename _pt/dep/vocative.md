@@ -22,4 +22,4 @@ Sr. Oliveira , o seu filme é o meu favorito .
 vocative(favorito, Oliveira)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:41 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->

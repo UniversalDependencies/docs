@@ -11,23 +11,23 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fr_parisstories-feat-Person.html">Person</a></tt>, <tt><a href="fr_parisstories-feat-Person-psor.html">Person[psor]</a></tt>.
 
-10429 tokens (24%) have a non-empty value of `Person`.
-572 types (18%) occur at least once with a non-empty value of `Person`.
-287 lemmas (12%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (5952; 14% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (2284; 5% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (2189; 5% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (4; 0% instances).
+10428 tokens (24%) have a non-empty value of `Person`.
+571 types (18%) occur at least once with a non-empty value of `Person`.
+286 lemmas (12%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> (5951; 14% instances), <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> (2284; 5% instances), <tt><a href="fr_parisstories-pos-AUX.html">AUX</a></tt> (2189; 5% instances), <tt><a href="fr_parisstories-pos-X.html">X</a></tt> (4; 0% instances).
 
 ### `PRON`
 
-5952 <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> tokens (93% of all `PRON` tokens) have a non-empty value of `Person`.
+5951 <tt><a href="fr_parisstories-pos-PRON.html">PRON</a></tt> tokens (93% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5012; 84%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3943; 66%), <tt><a href="fr_parisstories-feat-Emph.html">Emph</a></tt><tt>=No</tt> (3889; 65%), <tt><a href="fr_parisstories-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3171; 53%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5013; 84%), <tt><a href="fr_parisstories-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3943; 66%), <tt><a href="fr_parisstories-feat-Emph.html">Emph</a></tt><tt>=No</tt> (3889; 65%), <tt><a href="fr_parisstories-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3171; 53%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (1675; 28% of non-empty `Person`): <em>je, j', me, moi, nous, m', toi, -moi, moi-même</em>
 * `2` (357; 6% of non-empty `Person`): <em>tu, vous, te, t', toi</em>
-* `3` (3920; 66% of non-empty `Person`): <em>on, c', il, ça, y, elle, s', se, lui, ils</em>
-* `EMPTY` (477): <em>qui, que, où, qu', quoi, rien, personne, dont, le, lesquelles</em>
+* `3` (3919; 66% of non-empty `Person`): <em>on, c', il, ça, y, elle, s', se, lui, ils</em>
+* `EMPTY` (424): <em>qui, que, qu', quoi, rien, personne, dont, le, lesquelles, les</em>
 
 <table>
   <tr><th>Paradigm <i>moi</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
@@ -42,13 +42,13 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="fr_parisstories-feat-Emph.html">Emph</a></tt><tt>=Yes</tt></tt></td><td><em>moi, -moi</em></td><td><em>moi</em></td></tr>
 </table>
 
-`Person` seems to be **lexical feature** of `PRON`. 93% lemmas (25) occur only with one value of `Person`.
+`Person` seems to be **lexical feature** of `PRON`. 92% lemmas (24) occur only with one value of `Person`.
 
 ### `VERB`
 
 2284 <tt><a href="fr_parisstories-pos-VERB.html">VERB</a></tt> tokens (54% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_parisstories-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2283; 100%), <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2274; 100%), <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2181; 95%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2137; 94%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1483; 65%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fr_parisstories-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (2283; 100%), <tt><a href="fr_parisstories-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2279; 100%), <tt><a href="fr_parisstories-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2230; 98%), <tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2189; 96%), <tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2145; 94%), <tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1484; 65%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -81,6 +81,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 <table>
   <tr><th>Paradigm <i>être</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="fr_parisstories-feat-ExtPos.html">ExtPos</a></tt><tt>=VERB</tt>|<tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td></td><td></td><td><em>était</em></td></tr>
   <tr><td><tt><tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>serait</em></td></tr>
   <tr><td><tt><tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>seraient</em></td></tr>
   <tr><td><tt><tt><a href="fr_parisstories-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="fr_parisstories-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_parisstories-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>sois</em></td><td></td></tr>
@@ -102,19 +103,19 @@ The most frequent other feature values with which `X` and `Person` co-occurred: 
 `X` tokens may have the following values of `Person`:
 
 * `3` (4; 100% of non-empty `Person`): <em>a~, d~, s~, é~</em>
-* `EMPTY` (121): <em>XXX, s~, d~, j~, re~, euh~, i~, m~, pl~, qu~</em>
+* `EMPTY` (123): <em>XXX, s~, d~, j~, re~, euh~, i~, m~, pl~, qu~</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1718; 62%),
-<tt>VERB --[<tt><a href="fr_parisstories-dep-expl-comp.html">expl:comp</a></tt>]--> PRON</tt> (249; 84%),
+<tt>VERB --[<tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1730; 62%),
 <tt>VERB --[<tt><a href="fr_parisstories-dep-expl-subj.html">expl:subj</a></tt>]--> PRON</tt> (248; 92%),
+<tt>VERB --[<tt><a href="fr_parisstories-dep-expl-comp.html">expl:comp</a></tt>]--> PRON</tt> (225; 92%),
 <tt>AUX --[<tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (143; 96%),
-<tt>PRON --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (96; 95%),
+<tt>PRON --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (95; 95%),
+<tt>VERB --[<tt><a href="fr_parisstories-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (79; 67%),
 <tt>VERB --[<tt><a href="fr_parisstories-dep-conj.html">conj</a></tt>]--> VERB</tt> (76; 52%),
-<tt>VERB --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (71; 68%),
-<tt>PRON --[<tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (66; 67%),
-<tt>VERB --[<tt><a href="fr_parisstories-dep-dislocated.html">dislocated</a></tt>]--> PRON</tt> (57; 54%),
-<tt>PRON --[<tt><a href="fr_parisstories-dep-cop.html">cop</a></tt>]--> AUX</tt> (53; 56%).
+<tt>VERB --[<tt><a href="fr_parisstories-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (72; 68%),
+<tt>PRON --[<tt><a href="fr_parisstories-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (54; 68%),
+<tt>PRON --[<tt><a href="fr_parisstories-dep-cop.html">cop</a></tt>]--> AUX</tt> (53; 57%).
 

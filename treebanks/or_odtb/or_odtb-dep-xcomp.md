@@ -8,12 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-14 nodes (1%) are attached to their parents as `xcomp`.
+103 nodes (2%) are attached to their parents as `xcomp`.
 
-10 instances of `xcomp` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.21428571428571.
+87 instances of `xcomp` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.54368932038835.
 
-The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-VERB.html">VERB</a></tt> (7; 50% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-VERB.html">VERB</a></tt> (3; 21% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt> (2; 14% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (2; 14% instances).
+The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt> (40; 39% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-VERB.html">VERB</a></tt> (28; 27% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (23; 22% instances), <tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="or_odtb-pos-VERB.html">VERB</a></tt> (5; 5% instances), <tt><a href="or_odtb-pos-VERB.html">VERB</a></tt>-<tt><a href="or_odtb-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="or_odtb-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-ADP.html">ADP</a></tt>-<tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-AUX.html">AUX</a></tt>-<tt><a href="or_odtb-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="or_odtb-pos-PRON.html">PRON</a></tt>-<tt><a href="or_odtb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 xcomp	color:blue
+1	ଏହି	_	DET	DM_DMD	PronType=Dem	2	det	_	Translit=ehi
+2	ବୈଠକରେ	_	NOUN	N_NN	Case=Loc	10	obl	_	Translit=baiṭhakare
+3	ଭାରତୀୟ	_	ADJ	JJ	Degree=Pos	6	amod	_	Entity=(e12-location-1-new-sgl)|Translit=bhāratīŷa
+4	କ୍ରିକେଟ	_	NOUN	N_NN	_	5	compound	_	Translit=krikeṭa
+5	ଦଳର	_	NOUN	N_NN	Case=Gen	6	nmod	_	Translit=daḷara
+6	ଅଧିନାୟକ	_	NOUN	N_NN	_	10	nsubj	_	Translit=adhināŷaka
+7	ବିରାଟ	_	PROPN	N_NNP	_	6	flat	_	Translit=birāṭa
+8	କୋହଲି	_	PROPN	N_NNP	_	7	flat	_	Translit=kohali
+9	ଉପସ୍ଥିତ	_	ADJ	JJ	Degree=Pos	10	xcomp	_	Translit=upasthita
+10	ଥିଲେ	_	VERB	V_VM_VF	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Translit=thile
+11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n|Translit=.
+
+~~~
 
 
 ~~~ conllu
@@ -22,56 +43,31 @@ The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 xcomp	color:blue
-1	ଏହାଯୋଗୁ	_	PRON	PR_PRP	_	2	nmod	_	Translit=ehāyogu
-2	ଭୁଲ୍	_	NOUN	N_NN	_	3	nmod	_	Translit=bhul
-3	କରିବାର	_	VERB	V_VM_VNF	_	5	xcomp	_	Translit=karibāra
-4	ବିପଦ	_	NOUN	N_NN	_	5	nsubj	_	Translit=bipada
-5	ବଢ଼ିଯାଇଥାଏ	_	VERB	V_VM_VF	_	0	root	_	Translit=baṛhiyāithāe
+1	ଏହାଯୋଗୁ	_	PRON	PR_PRP	Case=Nom|Number=Sing|Person=3|PronType=Dem	2	nmod	_	Translit=ehāyogu
+2	ଭୁଲ୍	_	NOUN	N_NN	Case=Acc|Number=Sing	5	nmod	_	Translit=bhul
+3	କରିବାର	_	VERB	V_VM_VNF	VerbForm=Inf	5	xcomp	_	Translit=karibāra
+4	ବିପଦ	_	NOUN	N_NN	Case=Nom|Number=Sing	5	nsubj	_	Translit=bipada
+5	ବଢ଼ିଯାଇଥାଏ	_	VERB	V_VM_VF	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=baṛhiyāithāe
 6	।	_	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n|Translit=.
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 xcomp	color:blue
-1	ରିପୋର୍ଟ	_	NOUN	N_NN	_	9	nmod	_	Translit=riporṭa
-2	ଲେଖା	_	NOUN	N_NNV	_	1	nmod	_	Translit=lekhā
-3	ହେବା	_	VERB	V_VM_VNG	_	2	xcomp	_	Translit=hebā
-4	ପର୍ଯ୍ୟନ୍ତ	_	ADP	PSP	_	3	case	_	Translit=paryŷanta
-5	ଏନେଇ	_	PRON	PR_PRI	_	9	obj	_	Translit=enei
-6	ଅଧିକ	_	NUM	QT_QTF	_	7	nummod	_	Translit=adhika
-7	ଖବର	_	NOUN	N_NN	_	9	nsubj	_	Translit=khabara
-8	ହସ୍ତଗତ	_	ADJ	JJ	_	9	amod	_	Translit=hastagata
-9	ହୋଇପାରିନାହିଁ	_	VERB	V_VM_VF	_	0	root	_	Translit=hoipārināhim̃
-10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n|Translit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 12 xcomp	color:blue
-1	ସୂତ୍ର	_	NOUN	N_NN	_	2	nmod	_	Translit=sūtra
-2	ଅନୁଯାୟୀ	_	ADJ	JJ	_	13	obl	_	Translit=anuyāŷī
-3	ଯୁବରାଜ	_	PROPN	N_NNP	_	4	compound	_	Translit=yubarāja
-4	ସିଂହଙ୍କ	_	PROPN	N_NNP	_	6	nmod	_	Translit=siṁhaṅka
-5	ମା’	_	NOUN	N_NN	_	6	nmod	_	Translit=mā’
-6	ଶବନମ	_	PROPN	N_NNP	_	13	nsubj	_	Translit=śabanama
-7	ବି	_	PART	RP_RPD	_	6	discourse	_	Translit=bi
-8	ଏହି	_	DET	DM_DMD	_	10	det	_	Translit=ehi
-9	ୱେବ	_	NOUN	N_NN	_	10	compound	_	Translit=weba
-10	ସିରିଜ	_	NOUN	N_NN	_	11	nmod	_	Translit=sirija
-11	ସହ	_	ADP	PSP	_	13	obl	_	Translit=saha
-12	ଜଡିତ	_	ADJ	JJ	_	13	xcomp	_	Translit=jaḍita
-13	ଅଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No|Translit=achanti
-14	।	_	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n|Translit=.
+# visual-style 3 8 xcomp	color:blue
+1	କ୍ରିଷ୍ଟିଆନ	_	PROPN	N_NNP	Number=Sing	3	nsubj	_	Entity=(e14-person-1,2-new-sgl)|Translit=kriṣṭiāna
+2	ରୋନାଲ୍ଡୋ	_	PROPN	N_NNP	Number=Sing	1	flat	_	Entity=e14|Translit=ronālḍo
+3	ହେଲେ	_	VERB	V_VM_VF	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Translit=hele
+4	ଫୁଟବଲ	_	NOUN	N_NN	Number=Sing	5	compound	_	Translit=phuṭabala
+5	ଇତିହାସର	_	NOUN	N_NN	Case=Gen|Number=Sing	8	nmod	_	Entity=(e15-abstract-5-new-sgl)|Translit=itihāsara
+6	ସର୍ବାଧିକ	_	ADJ	JJ	Degree=Pos	8	amod	_	Translit=sarbādhika
+7	ଗୋଲ	_	NOUN	N_NN	Number=Sing	8	compound	_	Translit=gola
+8	ସ୍କୋରର	_	NOUN	N_NN	Number=Sing	3	xcomp	_	Translit=skorara
+9	।	_	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n|Translit=.
 
 ~~~
 

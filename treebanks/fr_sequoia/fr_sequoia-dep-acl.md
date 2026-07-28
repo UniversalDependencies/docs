@@ -14,7 +14,7 @@ There are 1 language-specific subtypes of `acl`: <tt><a href="fr_sequoia-dep-acl
 1066 instances of `acl` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 3.11869158878505.
 
-The following 11 pairs of parts of speech are connected with `acl`: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1005; 94% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (35; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (17; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `acl`: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1004; 94% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (35; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (17; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -26,13 +26,13 @@ The following 11 pairs of parts of speech are connected with `acl`: <tt><a href=
 1	Quel	quel	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	risque	risque	NOUN	_	Number=Sing	1	nsubj	_	Gender[lex]=Masc
+4	risque	risque	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	Exponence[Gender]=Inherent
 5	associé	associer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	4	acl	_	Tense[denom]=Past
 6	à	à	ADP	_	_	8	case	_	_
-7	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	8	det	_	Gender[ctxt]=Fem|SpaceAfter=No
-8	utilisation	utilisation	NOUN	_	Number=Sing	5	obl:arg	_	Gender[lex]=Fem
+7	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Exponence[Gender]=Absent|SpaceAfter=No
+8	utilisation	utilisation	NOUN	_	Gender=Fem|Number=Sing	5	obl:arg	_	Exponence[Gender]=Inherent
 9	d'	de	ADP	_	_	10	case	_	SpaceAfter=No
-10	Aclasta	Aclasta	PROPN	_	_	8	nmod	_	Gender[lex]=Unknown
+10	Aclasta	Aclasta	PROPN	_	_	8	nmod	_	_
 11	?	?	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -45,17 +45,17 @@ The following 11 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 2	fgColor:white
 # visual-style 2 14 acl	color:blue
 1	-	-	PUNCT	_	_	2	punct	_	_
-2	Jean-Claude	Jean-Claude	PROPN	_	_	0	root	_	Gender[lex]=Unknown
-3	Méry	Méry	PROPN	_	_	2	flat:name	_	Gender[lex]=Unknown|SpaceAfter=No
+2	Jean-Claude	Jean-Claude	PROPN	_	_	0	root	_	_
+3	Méry	Méry	PROPN	_	_	2	flat:name	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
 5	ancien	ancien	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
-6	collecteur	collecteur	NOUN	_	Number=Sing	2	appos	_	Gender[lex]=Masc
+6	collecteur	collecteur	NOUN	_	Gender=Masc|Number=Sing	2	appos	_	Exponence[Gender]=Inherent
 7	de	de	ADP	_	_	8	case	_	_
-8	fonds	fonds	NOUN	_	_	6	nmod	_	Gender[lex]=Masc|Number[ctxt]=Plur
-9	occulte	occulte	ADJ	_	Number=Sing|Typo=Yes	8	amod	_	CorrectForm=occultes|CorrectNumber=Plur|Gender[ctxt]=Masc
+8	fonds	fonds	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	Exponence[Gender]=Inherent|Exponence[Number]=Absent
+9	occulte	occulte	ADJ	_	Gender=Masc|Number=Sing|Typo=Yes	8	amod	_	CorrectForm=occultes|CorrectNumber=Plur|Exponence[Gender]=Absent
 10	de	de	ADP	_	_	12	case	_	_
 11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	RPR	RPR	PROPN	_	_	8	nmod	_	Gender[lex]=Unknown|SpaceAfter=No
+12	RPR	RPR	PROPN	_	_	8	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	6	punct	_	_
 14	décédé	décéder	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	SpaceAfter=No|Tense[denom]=Past
 15	.	.	PUNCT	_	_	2	punct	_	_
@@ -70,15 +70,15 @@ The following 11 pairs of parts of speech are connected with `acl`: <tt><a href=
 # visual-style 14	fgColor:white
 # visual-style 14 19 acl	color:blue
 1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	_
-2	Irakiens	irakien	NOUN	_	Number=Plur	5	nsubj	_	Gender[lex]=Masc
+2	Irakiens	irakien	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	Exponence[Gender]=Inherent
 3	lui	lui	PRON	_	Case=Dat|Emph=No|Number=Sing|Person=3|PronType=Prs	5	iobj	_	_
 4	avaient	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	aux:tense	_	_
 5	plongé	plonger	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Tense[denom]=Past
 6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	tête	tête	NOUN	_	Number=Sing	5	obj	_	Gender[lex]=Fem
+7	tête	tête	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	Exponence[Gender]=Inherent
 8	dans	dans	ADP	_	_	10	case	_	_
 9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	bassin	bassin	NOUN	_	Number=Sing	5	obl:arg	_	Gender[lex]=Masc|SpaceAfter=No
+10	bassin	bassin	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	Exponence[Gender]=Inherent|SpaceAfter=No
 11	,	,	PUNCT	_	_	5	punct	_	_
 12	jusqu'	jusque	ADP	_	_	14	case	_	SpaceAfter=No
 13	à	à	ADP	_	_	14	case	_	_

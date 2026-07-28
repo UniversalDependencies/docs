@@ -146,4 +146,4 @@ The Locative and topic markers can be combined.
 #### Examples
 
 * _Tye <b>desknahndi</b> szuraire yoan_ "Look nicely **at that desk**"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:04 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->

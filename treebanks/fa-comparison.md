@@ -788,7 +788,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Dem
+          <ul>
+            <li>DET: این, آن, همان, همین, چنین, ین, چنان, ان, هر, ابن</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -798,6 +804,20 @@ udver: '2'
           </ul>
         </li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Exc
+          <ul>
+            <li>DET: چه, عجب, چقدر</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+
     </td>
   </tr>
   <tr>
@@ -816,7 +836,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-
+      <ul>
+        <li>Int
+          <ul>
+            <li>DET: چه, کدام, چند, کدامین, چگونه, چقدر, چنان</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="50%" valign="top">
       <ul>

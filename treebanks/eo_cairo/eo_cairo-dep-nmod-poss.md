@@ -22,7 +22,7 @@ The following 1 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 nmod:poss	color:blue
-1	La	la	DET	_	_	2	det	_	_
+1	La	la	DET	_	Definite=Def|PronType=Art	2	det	_	_
 2	knabino	knabino	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 3	skribis	skribi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	leteron	letero	NOUN	_	Case=Acc|Number=Sing	3	obj	_	_

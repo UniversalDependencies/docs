@@ -23,4 +23,4 @@ udver: '2'
 
 * _დაევიწყნენ_ 'they got forgotten', _აქუნდეს_ 'that he/she/it may have' etc.
 
-<!-- Interlanguage links updated So 10. května 2025, 18:14:40 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->

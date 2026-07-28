@@ -46,4 +46,4 @@ A final consonant is termed slender if the preceding vowel is slender (e, é, i,
 
 * _na heagra<b>i</b>s dheonacha_
 * _thua<b>i</b>the cháilitheacha_
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:27 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->

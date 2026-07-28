@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 6 amod	color:blue
 1	Su	su	PRON	DTP$	Gender=Masc|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
-2	primer	primer	ADJ	JJ	Gender=Masc|Number=Sing	3	amod	_	_
+2	primer	primero	ADJ	JJ	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
 3	rey	rey	NOUN	NN	Gender=Masc|Number=Sing	0	root	_	_
 4	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
 5	Mojmír	Mojmír	PROPN	NNP	Gender=Masc|Number=Sing	3	nsubj	_	_
@@ -76,13 +76,13 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	público	público	NOUN	NN	Gender=Masc|Number=Sing	2	obl	_	_
 8	y	y	CCONJ	CC	_	14	cc	_	SpaceAfter=No
-9	,	,	PUNCT	,	PunctType=Comm	14	punct	_	_
+9	,	,	PUNCT	,	PunctType=Comm	8	punct	_	_
 10	en	en	ADP	IN	_	14	discourse	_	_
 11	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	fixed	_	_
 12	fondo	fondo	NOUN	NN	Gender=Masc|Number=Sing	10	fixed	_	SpaceAfter=No
 13	,	,	PUNCT	,	PunctType=Comm	10	punct	_	_
 14	tiene	tener	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
-15	que	que	ADP	IN	_	14	fixed	_	_
+15	que	que	ADP	IN	_	16	mark	_	_
 16	sacar	sacar	VERB	VB	VerbForm=Inf	14	xcomp	_	_
 17	lo	él	PRON	DT	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	det	_	_
 18	mejor	mejor	NOUN	NN	Gender=Masc|Number=Sing	14	obj	_	_
@@ -91,7 +91,7 @@ The following 5 pairs of parts of speech are connected with `amod`: <tt><a href=
 21	mismo	mismo	ADJ	JJ	Gender=Masc|Number=Sing	20	amod	_	_
 22	para	para	ADP	IN	_	23	case	_	_
 23	hacer	hacer	VERB	VB	VerbForm=Inf	16	xcomp	_	_
-24	reír	reír	VERB	VB	Tense=Imp|VerbForm=Fin	23	xcomp	_	_
+24	reír	reír	VERB	VB	VerbForm=Inf	23	xcomp	_	_
 25	a	a	ADP	INDT	_	27	case	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	espectador	espectador	NOUN	NN	Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No

@@ -127,4 +127,16 @@ appos(Friday, 18-11)
 flat(18-11, December)
 flat(18-11, 2015-13)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:55 CET -->
+
+The `flat` relation is used also for synonymic or antonymic coordinative compounds. These are analytical constructions where two distinct words combine to form a single semantic unit with a collective or intensified meaning.
+
+~~~ conllu
+# visual-style 2 4 flat:redup color:blue
+1	առանց	առանց	ADP	_	AdpType=Prep	5	case	_	Translit=aṙanc’|LTranslit=aṙanc’
+2	երկար	երկար	ADV	_	Degree=Pos	5	advmod	_	Translit=erkar|LTranslit=erkar|SpaceAfter=No
+3	-	-	PUNCT	_	_	4	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+4	բարակ	բարակ	ADV	_	Degree=Pos	2	flat:redup	_	Translit=barak|LTranslit=barak
+5	մտածելու	մտածել	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	6	obl	_	Translit=mtaçelow|LTranslit=mtaçel
+6	առա	առնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=aṙa|LTranslit=aṙnel|SpaceAfter=No
+~~~
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:09 CEST -->

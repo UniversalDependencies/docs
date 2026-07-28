@@ -14,4 +14,4 @@ list(Branko-1,e-pošta)
 list(Branko-15,phone)
 list(Branko-15,email)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:01 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->

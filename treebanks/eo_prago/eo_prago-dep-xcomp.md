@@ -24,10 +24,10 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 10 11 xcomp	color:blue
 1	Mi	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	aprobas	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	la	_	DET	_	Definite=Def	4	det	_	_
+3	la	_	DET	_	Definite=Def|PronType=Art	4	det	_	_
 4	esencon	_	NOUN	_	Case=Acc|Number=Sing	2	obj	_	_
 5	de	_	ADP	_	_	7	case	_	_
-6	la	_	DET	_	Definite=Def	7	det	_	_
+6	la	_	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	Homaranismo	_	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
 8	kaj	_	CCONJ	_	_	10	cc	_	_
 9	mi	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
@@ -35,10 +35,10 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 11	enskribi	_	VERB	_	VerbForm=Inf	10	xcomp	_	_
 12	min	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
 13	en	_	ADP	_	_	15	case	_	_
-14	la	_	DET	_	Definite=Def	15	det	_	_
+14	la	_	DET	_	Definite=Def|PronType=Art	15	det	_	_
 15	adresaron	_	NOUN	_	Case=Acc|Number=Sing	11	nmod	_	_
 16	de	_	ADP	_	_	18	case	_	_
-17	la	_	DET	_	Definite=Def	18	det	_	_
+17	la	_	DET	_	Definite=Def|PronType=Art	18	det	_	_
 18	Homaranoj	_	NOUN	_	Case=Nom|Number=Plur	15	nmod	_	SpaceAfter=No
 19	.	_	PUNCT	_	_	2	punct	_	_
 
@@ -53,7 +53,7 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 # visual-style 15 19 xcomp	color:blue
 1	Tio	tio	PRON	_	Case=Nom|Number=Sing|PronType=Dem	4	nsubj	_	_
 2	estas	esti	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
-3	la	la	DET	_	Definite=Def	4	det	_	_
+3	la	la	DET	_	Definite=Def|PronType=Art	4	det	_	_
 4	kaŭzo	kaŭzo	NOUN	_	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	13	punct	_	_
 6	pro	pro	ADP	_	_	7	case	_	_
@@ -64,7 +64,7 @@ The following 5 pairs of parts of speech are connected with `xcomp`: <tt><a href
 11	longa	longa	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	12	amod	_	_
 12	tempo	tempo	NOUN	_	Case=Nom|Number=Sing	13	nmod	_	_
 13	havis	havi	VERB	_	Mood=Ind|Tense=Fut|VerbForm=Fin	4	advcl:relcl	_	_
-14	la	la	DET	_	Definite=Def	15	det	_	_
+14	la	la	DET	_	Definite=Def|PronType=Art	15	det	_	_
 15	intencon	intenco	NOUN	_	Case=Acc|Number=Sing	13	obj	_	_
 16	aŭ	aŭ	CCONJ	_	_	19	cc	_	_
 17	tute	tute	ADV	_	_	18	advmod	_	_

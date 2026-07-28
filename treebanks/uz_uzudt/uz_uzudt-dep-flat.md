@@ -28,10 +28,10 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 4	,	,	PUNCT	Y	_	2	punct	_	_
 5	bu	bu	PRON	P	Case=Nom|PronType=Dem	7	det	_	_
 6	besh	besh	NUM	M	_	7	nummod	_	_
-7	qizni	qizni	NOUN	N	Case=Acc	9	obj	_	_
-8	daryodan	daryodan	NOUN	N	_	10	obl	_	_
-9	oʻtkazib	oʻtkazib	VERB	V	Aspect=Perf|VerbForm=Inf	10	xcomp	_	_
-10	qoʻysangiz	qoʻysangiz	VERB	V	_	0	root	_	_
+7	qizni	qiz	NOUN	N	Case=Acc	9	obj	_	_
+8	daryodan	daryo	NOUN	N	_	10	obl	_	_
+9	oʻtkazib	oʻt	VERB	V	Aspect=Perf|VerbForm=Inf	10	xcomp	_	_
+10	qoʻysangiz	qoʻy	VERB	V	_	0	root	_	_
 11	,	,	PUNCT	Y	_	10	punct	_	_
 
 ~~~
@@ -50,7 +50,7 @@ The following 2 pairs of parts of speech are connected with `flat`: <tt><a href=
 5	buvi	buvi	NOUN	N	Case=Nom	8	vocative	_	_
 6	,	,	PUNCT	Y	_	5	punct	_	_
 7	yaxshi	yaxshi	ADV	R	_	8	advmod	_	_
-8	yuribsizmi	yurmoq	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	yuribsizmi	yur	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	?	?	PUNCT	Y	_	8	punct	_	_
 
 ~~~

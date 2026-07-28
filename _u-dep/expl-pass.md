@@ -5,16 +5,21 @@ shortdef: 'reflexive pronoun used in reflexive passive'
 udver: '2'
 ---
 
-Reflexive pronouns (see the feature [cs-feat/Reflex]()) are used in various constructions in Czech,
-including so-called _reflexive passive._
-In PDT, their relation to the verb is labeled `AuxR`.
-The corresponding label in Czech UD is called `expl:pass`
-(since UD 2.0; in previous versions it was labeled `auxpass:reflex`).
+Reflexive pronouns (see the feature [Reflex]()) are used in various constructions in Slavic, Romance and Germanic languages,
+including so-called _reflexive passive,_ which in UD uses the relation subtype `expl:pass`.
+
+For example, in Czech:
 
 ~~~ sdparse
 To se řekne snadno . \n It is said easily .
 expl:pass(řekne, se)
 expl:pass(said, is)
+nsubj:pass(řekne, To)
+nsubj:pass(said, It)
+advmod(řekne, snadno)
+advmod(said, easily)
+punct(řekne, .-5)
+punct(said, .-11)
 ~~~
 
 In the following Czech example, _archeologická výstava_ “archaeological exhibition” has switched to the nominative,
@@ -56,4 +61,4 @@ amod(wystawę, archeologiczną)
 amod(exhibition, archaeological)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:53 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:07 CEST -->

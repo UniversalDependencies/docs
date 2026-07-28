@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Pashto-Sikaram: Relations: `aux:fut`
 
-This relation is a language-specific subtype of <tt><a href="ps_sikaram-dep-aux.html">aux</a></tt>.
-There are also 5 other language-specific subtypes of `aux`: <tt><a href="ps_sikaram-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="ps_sikaram-dep-aux-hab.html">aux:hab</a></tt>, <tt><a href="ps_sikaram-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="ps_sikaram-dep-aux-perf.html">aux:perf</a></tt>, <tt><a href="ps_sikaram-dep-aux-pot.html">aux:pot</a></tt>.
+This relation is a language-specific subtype of .
+There are also 6 other language-specific subtypes of `aux`: <tt><a href="ps_sikaram-dep-aux-cnd.html">aux:cnd</a></tt>, <tt><a href="ps_sikaram-dep-aux-hab.html">aux:hab</a></tt>, <tt><a href="ps_sikaram-dep-aux-pass.html">aux:pass</a></tt>, <tt><a href="ps_sikaram-dep-aux-perf.html">aux:perf</a></tt>, <tt><a href="ps_sikaram-dep-aux-pot.html">aux:pot</a></tt>, <tt><a href="ps_sikaram-dep-aux-sub.html">aux:sub</a></tt>.
 
-20 nodes (0%) are attached to their parents as `aux:fut`.
+23 nodes (0%) are attached to their parents as `aux:fut`.
 
-19 instances of `aux:fut` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.35.
+22 instances of `aux:fut` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.39130434782609.
 
-The following 3 pairs of parts of speech are connected with `aux:fut`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (17; 85% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (2; 10% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 5% instances).
+The following 3 pairs of parts of speech are connected with `aux:fut`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (20; 87% instances), <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (2; 9% instances), <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ps_sikaram-pos-AUX.html">AUX</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -62,8 +62,8 @@ The following 3 pairs of parts of speech are connected with `aux:fut`: <tt><a hr
 20	نورو	نور	ADJ	_	Case=Loc|Gender=Fem|Number=Plur	21	amod	_	Translit=nóro|LTranslit=nor|Gloss=other
 21	خواوو	خوا	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	25	obl	_	Translit=xwấwo|LTranslit=xwâ|Gloss=sides
 22	زياتې	زيات	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	23	amod	_	Translit=zyấte|LTranslit=zyât|Gloss=more
-23	څرګندونې	څرګندونه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Vnoun	25	obj	_	Translit=cërgandawë́ne|LTranslit=cërgandawë́na|Gloss=research
-24	ونه	ونۀ	AUX	_	Aspect=Perf|Polarity=Neg	25	aux	_	Translit=wënë́|LTranslit=wënë́|Gloss=not
+23	څرګندونې	څرګندونه	NOUN	_	Case=Nom|Gender=Fem|Number=Plur|VerbForm=Vnoun	25	obj	_	Translit=cërgandawë́ne|LTranslit=cërgandawë́na|Gloss=research|LDeriv=څرګندول|LDTranslit=cërgandawë́l
+24	ونه	ونۀ	PART	_	Aspect=Perf|Polarity=Neg	25	compound:prt	_	Translit=wënë́|LTranslit=wënë́|Gloss=not
 25	کړو	کول	VERB	_	Mood=Sub|Number=Plur|Person=1|VerbForm=Fin	15	acl	_	Translit=kṛu|LTranslit=kawë́l|Gloss=do|SpaceAfter=No
 26	.	.	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.|Gloss=.|SpaceAfter=No
 
@@ -106,21 +106,21 @@ The following 3 pairs of parts of speech are connected with `aux:fut`: <tt><a hr
 28	اخیستلای	اخیستل	VERB	_	Aspect=Imp|Mood=Cnd|VerbForm=Fin	19	conj	_	Translit=axistë́lây|LTranslit=axistë́l|Gloss=take
 29	شي	کېدل	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	28	aux:pot	_	Translit=ši|LTranslit=kedë́l|Gloss=can|SpaceAfter=No
 30	،	،	PUNCT	_	_	48	punct	_	Translit=,|LTranslit=,|Gloss=,
-31	لکه	لکه	ADV	_	_	48	advmod	_	Translit=lë́ka|LTranslit=lë́ka|Gloss=like
-32	څنګه	څنګه	ADV	_	_	48	advmod	_	Translit=cë́nga|LTranslit=cë́nga|Gloss=how
-33	چې	چې	SCONJ	_	_	48	mark	_	Translit=če|LTranslit=če|Gloss=that
+31	لکه	لکه	SCONJ	_	ExtPos=SCONJ	48	mark	_	Translit=lë́ka|LTranslit=lë́ka|Gloss=like
+32	څنګه	څنګه	ADV	_	_	31	fixed	_	Translit=cë́nga|LTranslit=cë́nga|Gloss=how
+33	چې	چې	SCONJ	_	_	31	fixed	_	Translit=če|LTranslit=če|Gloss=that
 34	په	پۀ	ADP	_	Case=Loc	36	case	_	Translit=pë|LTranslit=pë|Gloss=at
 35	دې	دا	DET	_	Case=Loc|Deixis=Prox|PronType=Dem|Variant=Short	36	det	_	Translit=de|LTranslit=dâ|Gloss=this
 36	وروستیو	وروستی	ADJ	_	Case=Loc|Gender=Masc|Number=Plur	48	obl	_	Translit=wrustë́yo|LTranslit=wrustáy|Gloss=recently
 37	کې	کې	ADP	_	Case=Loc	36	case	_	Translit=ke|LTranslit=ke|Gloss=in
 38	ښاغلي	ښاغلی	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	39	amod	_	Translit=x̌âġë́li|LTranslit=x̌âġë́lay|Gloss=Mr.
 39	جان	جان	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	48	nsubj	_	Translit=ǰân|LTranslit=ǰân|Gloss=John
-40	محمد	محمد	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	39	flat	_	Translit=muhámad|LTranslit=muhámad|Gloss=Muhammad
-41	کاکړ	کاکړ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	39	flat	_	Translit=kâkáṛ|LTranslit=kâkáṛ|Gloss=Kakar
+40	محمد	محمد	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	39	flat:name	_	Translit=muhámad|LTranslit=muhámad|Gloss=Muhammad
+41	کاکړ	کاکړ	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	39	flat:name	_	Translit=kâkáṛ|LTranslit=kâkáṛ|Gloss=Kakar
 42	قدوري	قدوري	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	48	obj	_	Translit=qudurí|LTranslit=qudurí|Gloss=Quduri
 43	او	او	CCONJ	_	_	44	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 44	نور	نور	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	42	conj	_	Translit=nur|LTranslit=nur|Gloss=Nur
-45	ظلم	ظلم	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	44	flat	_	Translit=zë́lëm|LTranslit=zë́lëm|Gloss=Zalam
+45	ظلم	ظلم	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	44	flat:name	_	Translit=zë́lëm|LTranslit=zë́lëm|Gloss=Zalam
 46	په	پۀ	ADP	_	Case=Loc	47	case	_	Translit=pë|LTranslit=pë|Gloss=at
 47	پښتو	پښتو	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	48	obl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 48	ژباړلي	ژباړل	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	28	advcl	_	Translit=žbâṛë́li|LTranslit=žbâṛë́l|Gloss=translated|SpaceAfter=No
@@ -133,7 +133,7 @@ The following 3 pairs of parts of speech are connected with `aux:fut`: <tt><a hr
 55	که	کۀ	SCONJ	_	_	58	mark	_	Translit=kë|LTranslit=kë|Gloss=if
 56	پښتو	پښتو	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	58	obl	_	Translit=pax̌tó|LTranslit=pax̌tó|Gloss=Pashto
 57	ته	ته	ADP	_	Case=Acc	56	case	_	Translit=ta|LTranslit=ta|Gloss=to
-58	واړول	اړول	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	63	advcl	_	Translit=wâṛawë́l|LTranslit=aṛawë́l|Gloss=changed
+58	واړول	اړول	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	63	advcl	_	Translit=wấṛawël|LTranslit=aṛawë́l|Gloss=changed
 59	شي	کېدل	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	58	aux:pass	_	Translit=ši|LTranslit=kedë́l|Gloss=became|SpaceAfter=No
 60	،	،	PUNCT	_	_	58	punct	_	Translit=,|LTranslit=,|Gloss=,
 61	هم	هم	ADV	_	_	63	advmod	_	Translit=ham|LTranslit=ham|Gloss=also

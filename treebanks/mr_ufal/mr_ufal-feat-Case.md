@@ -186,8 +186,8 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (11; 58%),
 <tt>ADJ --[<tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (9; 90%),
 <tt>NOUN --[<tt><a href="mr_ufal-dep-amod.html">amod</a></tt>]--> NOUN</tt> (5; 56%),
+<tt>NOUN --[<tt><a href="mr_ufal-dep-compound.html">compound</a></tt>]--> NOUN</tt> (4; 80%),
 <tt>ADJ --[<tt><a href="mr_ufal-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3; 100%),
-<tt>NOUN --[<tt><a href="mr_ufal-dep-compound.html">compound</a></tt>]--> NOUN</tt> (3; 75%),
 <tt>NOUN --[<tt><a href="mr_ufal-dep-flat.html">flat</a></tt>]--> NOUN</tt> (3; 75%),
 <tt>PRON --[<tt><a href="mr_ufal-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (3; 100%),
 <tt>ADJ --[<tt><a href="mr_ufal-dep-compound.html">compound</a></tt>]--> ADJ</tt> (2; 100%).

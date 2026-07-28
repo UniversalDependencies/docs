@@ -23,7 +23,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 det	color:blue
-1	_	_	SCONJ	IN	_	7	mark	7:mark	Discourse=context-background:2->5:0:dm-if-3-gold+ref-prs-4-6,20-_|Entity=(2-abstract-new-nnssn-cf3-19-disc|Lem=*LOWER*|Len=2|PDTB=Explicit:Comparison.Contrast:if:3:18-23:4-17
+1	_	_	SCONJ	IN	_	7	mark	7:mark	Discourse=context-background:2->5:0:ref-prs-4-6,20-_;contingency-condition:2->5:2:0:orp-if-3-gold|Entity=(2-abstract-new-nnssn-cf3-19-disc|Lem=*LOWER*|Len=2|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:3:18-23:4-17
 2	_	_	DET	DT	PronType=Ind	4	det	4:det	Entity=(3-place-new-snsss-cf1-3-coref|Lem=_|Len=5
 3	_	_	ADJ	JJ	Degree=Pos	4	amod	4:amod	Lem=_|Len=5
 4	_	_	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	Entity=3)|Lem=_|Len=7
@@ -54,7 +54,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 1 det	color:blue
-1	_	_	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Discourse=joint-list_m:21->4:4:grf-seq-_-_|Entity=(26-abstract-new-nnnnn-cf3-4,5,6-sgl|Lem=*LOWER*|Len=3
+1	_	_	DET	DT	Definite=Def|PronType=Art	6	det	6:det	Bridge=14<26:entity-associative|Discourse=joint-list_m:21->4:4:grf-seq-_-_+sem-mrnym-104,184-189-_|Entity=(26-abstract-acc:inf-nnnnn-cf3-4,5,6-sgl|Lem=*LOWER*|Len=3
 2	_	_	DET	DT	PronType=Ind	4	det	4:det	Lem=*LOWER*|Len=3|SpaceAfter=No|XML=<w>
 3	_	_	PUNCT	HYPH	_	2	punct	2:punct	Lem=_|Len=1|SpaceAfter=No
 4	_	_	PROPN	NNP	Number=Sing	6	compound	6:compound	Lem=_|Len=4|XML=</w>
@@ -62,7 +62,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 6	_	_	PROPN	NNP	Number=Sing	7	nsubj	7:nsubj	Entity=26)|Lem=_|Len=6
 7	_	_	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	Lem=cover|Len=6|MSeg=cover-s
 8	_	_	ADV	RB	_	9	advmod	9:advmod	Lem=_|Len=4
-9	_	_	PROPN	NNPS	Number=Plur	7	obj	7:obj	Entity=(7-organization-giv:inact-snnnn-cf2-1,3-coref-Monsters%2C_Inc.|Lem=Monster|Len=8|MSeg=Monster-s|SpaceAfter=No
+9	_	_	PROPN	NNPS	Number=Plur	7	obj	7:obj	Entity=(7-organization-giv:inact-snnnn-cf2-1-coref-Monsters%2C_Inc.|Lem=Monster|Len=8|MSeg=Monster-s|SpaceAfter=No
 10	_	_	PUNCT	,	_	11	punct	11:punct	Lem=_|Len=1
 11	_	_	PROPN	NNP	Number=Sing	9	nmod:desc	9:nmod:desc	Entity=7)|Lem=_|Len=3|SpaceAfter=No
 12	_	_	PUNCT	,	_	15	punct	15:punct	Lem=_|Len=1
@@ -101,7 +101,7 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 7	_	_	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Lem=_|Len=3
 8	_	_	ADJ	JJS	Degree=Sup	0	root	0:root	Lem=bad|Len=5
 9	_	_	ADP	IN	_	12	case	12:case	Lem=_|Len=2
-10	_	_	DET	PDT	PronType=Tot	12	det:predet	12:det:predet	Entity=(82-person-giv:act-nnnnn-cf1-3-coref|Lem=_|Len=3
+10	_	_	DET	PDT	PronType=Ind	12	det:predet	12:det:predet	Entity=(82-person-giv:act-nnnnn-cf1-3-coref|Lem=_|Len=3
 11	_	_	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Lem=_|Len=3
 12	_	_	NOUN	NNS	Number=Plur	8	obl	8:obl:of	Entity=82)|Lem=_|Len=7|SpaceAfter=No
 13	_	_	PUNCT	.	_	8	punct	8:punct	Lem=_|Len=1

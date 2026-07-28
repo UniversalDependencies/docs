@@ -9,116 +9,104 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 
-9941 tokens (39%) have a non-empty value of `Gender`.
-2535 types (56%) occur at least once with a non-empty value of `Gender`.
-1783 lemmas (66%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 9 part-of-speech tags: <tt><a href="el_gud-pos-DET.html">DET</a></tt> (3744; 15% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (3204; 13% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (1166; 5% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (842; 3% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (753; 3% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (120; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (73; 0% instances), <tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt> (33; 0% instances), <tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (6; 0% instances).
+9914 tokens (39%) have a non-empty value of `Gender`.
+2532 types (56%) occur at least once with a non-empty value of `Gender`.
+1780 lemmas (66%) occur at least once with a non-empty value of `Gender`.
+The feature is used with 9 part-of-speech tags: <tt><a href="el_gud-pos-DET.html">DET</a></tt> (3753; 15% instances), <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (3201; 13% instances), <tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (1130; 4% instances), <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (847; 3% instances), <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (753; 3% instances), <tt><a href="el_gud-pos-NUM.html">NUM</a></tt> (120; 0% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt> (73; 0% instances), <tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt> (31; 0% instances), <tt><a href="el_gud-pos-INTJ.html">INTJ</a></tt> (6; 0% instances).
 
 ### `DET`
 
-3744 <tt><a href="el_gud-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Gender`.
+3753 <tt><a href="el_gud-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3153; 84%), <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2979; 80%), <tt><a href="el_gud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2936; 78%), <tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2181; 58%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3159; 84%), <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2987; 80%), <tt><a href="el_gud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2939; 78%), <tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2182; 58%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (1458; 39% of non-empty `Gender`): <em>την, η, τη, της, τις, μια, οι, άλλη, καμία, κάποια</em>
-* `Masc` (1037; 28% of non-empty `Gender`): <em>ο, τον, του, οι, τους, το, έναν, αυτός, όλοι, αυτοί</em>
-* `Neut` (1249; 33% of non-empty `Gender`): <em>το, τα, ένα, του, αυτό, αυτά, άλλο, τίποτα, όλα, άλλα</em>
-* `EMPTY` (53): <em>κάτι, τόσο, πόσο, Μόνο, κάθε, λίγο, τίποτ', τίποτα</em>
+* `Fem` (1461; 39% of non-empty `Gender`): <em>την, η, τη, της, τις, μια, οι, άλλη, καμία, άλλες</em>
+* `Masc` (1040; 28% of non-empty `Gender`): <em>ο, τον, του, οι, τους, το, έναν, αυτός, των, όλοι</em>
+* `Neut` (1252; 33% of non-empty `Gender`): <em>το, τα, ένα, του, αυτό, αυτά, άλλο, τίποτα, όλα, άλλα</em>
+* `EMPTY` (49): <em>κάτι, τόσο, πόσο, Μόνο, κάθε, λίγο</em>
 
 <table>
   <tr><th>Paradigm <i>ο</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>τον, το</em></td><td><em>την, τη</em></td><td><em>το</em></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td></td><td><em>το</em></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>τους</em></td><td><em>τις</em></td><td><em>τα, τ'</em></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>του</em></td><td><em>της</em></td><td><em>του</em></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>των</em></td><td><em>των</em></td><td><em>των</em></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>ο</em></td><td><em>η</em></td><td><em>το</em></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Emp</tt></tt></td><td><em>Ο</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>οι</em></td><td><em>οι, αι</em></td><td><em>τα</em></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>οι</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>τον, το</em></td><td><em>την, τη</em></td><td><em>το</em></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td></td><td><em>το</em></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>τους</em></td><td><em>τις</em></td><td><em>τα, τ'</em></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>του, τού</em></td><td><em>της</em></td><td><em>του</em></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>των</em></td><td><em>των</em></td><td><em>των</em></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>ο</em></td><td><em>η</em></td><td><em>το</em></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Emp</tt></tt></td><td><em>Ο</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>οι</em></td><td><em>οι, αι</em></td><td><em>τα</em></td></tr>
 </table>
 
 ### `NOUN`
 
-3204 <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
+3201 <tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2448; 76%), <tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2139; 67%).
+The most frequent other feature values with which `NOUN` and `Gender` co-occurred: <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2445; 76%), <tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (2134; 67%).
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (1486; 46% of non-empty `Gender`): <em>πόρτα, δολοφονία, φορά, δουλειά, αστυνομία, εταιρείες, μέρα, έρευνα, γυναίκα, ληστεία</em>
-* `Masc` (564; 18% of non-empty `Gender`): <em>αστυνόμε, υπολογιστή, χρόνο, καφέ, δρόμο, υπαρχηγός, φόνο, αριθμό, υπαρχηγό, κλειδαρά</em>
-* `Neut` (1154; 36% of non-empty `Gender`): <em>σπίτι, γραφείο, τηλέφωνο, λεφτά, κεφάλι, χρόνια, κινητό, χέρι, δωμάτιο, βλέμμα</em>
+* `Fem` (1483; 46% of non-empty `Gender`): <em>πόρτα, δολοφονία, φορά, δουλειά, αστυνομία, εταιρείες, μέρα, έρευνα, γυναίκα, ληστεία</em>
+* `Masc` (566; 18% of non-empty `Gender`): <em>αστυνόμε, υπολογιστή, χρόνο, καφέ, δρόμο, υπαρχηγός, φόνο, αριθμό, υπαρχηγό, κλειδαρά</em>
+* `Neut` (1152; 36% of non-empty `Gender`): <em>σπίτι, γραφείο, τηλέφωνο, λεφτά, κεφάλι, χρόνια, κινητό, χέρι, δωμάτιο, βλέμμα</em>
 * `EMPTY` (8): <em>ΚΕΑΝ, Αστυνόμε, αυτοφώρω, γουάι-φάι, μεσάνυχτα, στραβάδι</em>
 
 <table>
-  <tr><th>Paradigm <i>λιμενικός</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>λιμενικούς</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>Λιμενικού</em></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>λιμενικών</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>λιμενικοί</em></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>χρόνος</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>χρόνο</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>χρόνια</em></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>χρόνου</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (1120) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (1117) occur only with one value of `Gender`.
 
 ### `PRON`
 
-1166 <tt><a href="el_gud-pos-PRON.html">PRON</a></tt> tokens (58% of all `PRON` tokens) have a non-empty value of `Gender`.
+1130 <tt><a href="el_gud-pos-PRON.html">PRON</a></tt> tokens (56% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="el_gud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (938; 80%), <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (883; 76%), <tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (862; 74%), <tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt> (762; 65%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="el_gud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (935; 83%), <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (859; 76%), <tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (832; 74%), <tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt> (766; 68%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (236; 20% of non-empty `Gender`): <em>της, που, την, τη, μου, σου, τις, Εγώ, Εσύ, με</em>
-* `Masc` (602; 52% of non-empty `Gender`): <em>του, τον, τους, που, σας, μου, σου, Εγώ, μας, με</em>
-* `Neut` (328; 28% of non-empty `Gender`): <em>το, που, τα, τι, τ', του, Ποιο, οποία, ό,τι</em>
-* `EMPTY` (861): <em>μου, μας, με, σας, εγώ, σου, που, εμείς, εμένα, εσείς</em>
+* `Fem` (227; 20% of non-empty `Gender`): <em>της, που, την, τη, μου, τις, Εγώ, Εσύ, σε, Ποιες</em>
+* `Masc` (572; 51% of non-empty `Gender`): <em>του, τον, τους, που, σας, μου, Εγώ, με, ποιος, σου</em>
+* `Neut` (331; 29% of non-empty `Gender`): <em>το, που, τα, τι, τ', του, Ποιο, οποία, ό,τι</em>
+* `EMPTY` (894): <em>μου, μας, με, σας, εγώ, σου, που, εμείς, εμένα, εσείς</em>
 
 <table>
   <tr><th>Paradigm <i>εγώ</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Σ</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>με, εμένα</em></td><td><em>με</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>σε, Σ'</em></td><td><em>σε</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>τον, Tον</em></td><td><em>την, τη</em></td><td><em>το, τ'</em></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>την</em></td><td><em>το</em></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>με</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>εμάς</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>σας, εσάς</em></td><td><em>σας</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>τους, τούς</em></td><td><em>τις</em></td><td><em>τα, τ'</em></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="el_gud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>μου</em></td><td><em>μου</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="el_gud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>μου</em></td><td><em>μου</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>μου</em></td><td><em>μου</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="el_gud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>σου</em></td><td><em>σου</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>σου</em></td><td><em>σου</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_gud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>του, τού</em></td><td><em>της</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>του, τού</em></td><td><em>της</em></td><td><em>του</em></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>της</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="el_gud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>μας</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>μας</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="el_gud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>σας</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>σας</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_gud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>τους, τούς</em></td><td><em>τους</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>τους</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>Εγώ</em></td><td><em>Εγώ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>Εσύ</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>'γώ</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="el_gud-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>Εμείς</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>με, εμένα</em></td><td><em>με</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>σε, Σ'</em></td><td><em>σε</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>τον, Tον</em></td><td><em>την, τη</em></td><td><em>το, τ'</em></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>εμάς</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>σας, εσάς</em></td><td><em>σας</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>τους, τούς</em></td><td><em>τις</em></td><td><em>τα, τ'</em></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>μου</em></td><td><em>μου</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>σου</em></td><td><em>σου</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_gud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>του</em></td><td><em>της</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>του, τού</em></td><td><em>της</em></td><td><em>του</em></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>μας</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>σας</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="el_gud-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>τους, τούς</em></td><td><em>τους</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>τους</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>Εγώ, 'γώ</em></td><td><em>Εγώ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td><em>Εσύ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gud-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>Εμείς</em></td><td></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
-842 <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Gender`.
+847 <tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> tokens (99% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (632; 75%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (633; 75%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (296; 35% of non-empty `Gender`): <em>πρώτη, δική, δεύτερη, μεγάλη, ναυτιλιακές, κυρία, ανοιχτή, εύκολη, άδεια, απλή</em>
+* `Fem` (298; 35% of non-empty `Gender`): <em>πρώτη, δική, δεύτερη, μεγάλη, ναυτιλιακές, κυρία, ανοιχτή, εύκολη, τελευταία, άδεια</em>
 * `Masc` (268; 32% of non-empty `Gender`): <em>κύριε, Ασιάτη, Γεωργιανοί, Αγίου, πρώτος, Ασιάτης, αμίλητος, Έλληνες, Ασιάτες, βέβαιος</em>
-* `Neut` (278; 33% of non-empty `Gender`): <em>αστυνομικό, πρώτο, απλό, μαύρο, μαύρου, τελευταίο, υπόλοιπα, απίθανο, γεμάτα, δεύτερο</em>
-* `EMPTY` (9): <em>Τελευταία, Ωραία, ανοιχτά, αρχικά, νυν, σκάρτη, υπόλοιπα, υπόλοιποι, χειρότερα</em>
+* `Neut` (281; 33% of non-empty `Gender`): <em>αστυνομικό, πρώτο, απλό, μαύρο, μαύρου, τελευταίο, υπόλοιπα, υστέρων, απίθανο, γεμάτα</em>
+* `EMPTY` (8): <em>Ωραία, ανοιχτά, αρχικά, νυν, σκάρτη, υπόλοιπα, υπόλοιποι, χειρότερα</em>
 
 <table>
   <tr><th>Paradigm <i>κύριος</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -132,14 +120,14 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 753 <tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> tokens (97% of all `PROPN` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (736; 98%).
+The most frequent other feature values with which `PROPN` and `Gender` co-occurred: <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (737; 98%).
 
 `PROPN` tokens may have the following values of `Gender`:
 
 * `Fem` (251; 33% of non-empty `Gender`): <em>Αδριανή, Ελλάδα, Κούλα, Κατερίνα, Μάνια, Αθήνα, Ελλάδας, Οδησσό, Ταϊλάνδη, Κηφισίας</em>
-* `Masc` (449; 60% of non-empty `Gender`): <em>Ούλι, Σωτηρόπουλος, Χαρδάκου, Λαλόπουλου, Βλασόπουλος, Γκίκα, Παπαδάκης, Σωτηρόπουλου, Δημητρίου, Γκίκας</em>
-* `Neut` (53; 7% of non-empty `Gender`): <em>Δήλεσι, Πάσχα, Σέατ, Ιράκ, Χαλάνδρι, Ελγίνεια, Λονδίνο, Κερατσίνι, Ναρκωτικών, δημόσιο</em>
-* `EMPTY` (27): <em>Καϊμάν, ΚΕΑΝ, Άουντι, Τζέιν, Όγκντεν, Αθηνών, ΕΔΕ, ΕΟΤ, Ισβέστια, Κονδύλη</em>
+* `Masc` (450; 60% of non-empty `Gender`): <em>Ούλι, Σωτηρόπουλος, Χαρδάκου, Λαλόπουλου, Βλασόπουλος, Γκίκα, Παπαδάκης, Σωτηρόπουλου, Δημητρίου, Γκίκας</em>
+* `Neut` (52; 7% of non-empty `Gender`): <em>Δήλεσι, Πάσχα, Σέατ, Ιράκ, Χαλάνδρι, Ελγίνεια, Λονδίνο, Κερατσίνι, Ναρκωτικών, δημόσιο</em>
+* `EMPTY` (26): <em>Καϊμάν, ΚΕΑΝ, Άουντι, Τζέιν, Όγκντεν, Αθηνών, ΕΔΕ, ΕΟΤ, Ισβέστια, Κονδύλη</em>
 
 <table>
   <tr><th>Paradigm <i>Κώστας</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -155,18 +143,18 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 120 <tt><a href="el_gud-pos-NUM.html">NUM</a></tt> tokens (94% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="el_gud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (117; 98%), <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (100; 83%), <tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (67; 56%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="el_gud-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (119; 99%), <tt><a href="el_gud-feat-Number.html">Number</a></tt><tt>=Plur</tt> (101; 84%), <tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (67; 56%).
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (43; 36% of non-empty `Gender`): <em>δύο, δυο, τρεις, μία, μια, δέκα, έντεκα, έξι, εννιά, οκτώ</em>
+* `Fem` (42; 35% of non-empty `Gender`): <em>δύο, δυο, τρεις, μία, μια, δέκα, έντεκα, έξι, εννιά, οκτώ</em>
 * `Masc` (32; 27% of non-empty `Gender`): <em>δύο, δυο, ένας, τρεις, έναν, εννιά, τέσσερις, τριών</em>
-* `Neut` (45; 38% of non-empty `Gender`): <em>δύο, δυο, ένα, πενήντα, δέκα, πέντε, τρία, διακόσια, δωδεκάμιση, είκοσι</em>
-* `EMPTY` (8): <em>16, 14/5, 24, 28/5, 5522, Τρακόσια, ντυο</em>
+* `Neut` (46; 38% of non-empty `Gender`): <em>δύο, δυο, ένα, πενήντα, δέκα, πέντε, τρία, τρακόσια, διακόσια, δωδεκάμιση</em>
+* `EMPTY` (7): <em>16, 14/5, 24, 28/5, 5522, ντυο</em>
 
 <table>
   <tr><th>Paradigm <i>δύο</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>δύο, δυο</em></td><td><em>δύο, δυο</em></td><td><em>δύο, δυο</em></td></tr>
+  <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>δύο, δυο</em></td><td><em>δύο, δυο</em></td><td><em>δυο, δύο</em></td></tr>
   <tr><td><tt><tt><a href="el_gud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>δύο, δυο</em></td><td><em>δυο, δύο</em></td><td><em>δύο, δυο</em></td></tr>
 </table>
 
@@ -181,7 +169,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (22; 30% of non-empty `Gender`): <em>αγαπημένη, αποφασισμένη, αυξανόμενη, αυξανόμενης, βεβιασμένη, εγκατεστημένη, εισαγόμενης, εντοιχισμένη, καθιερωμένη, κεκτημένη</em>
 * `Masc` (23; 32% of non-empty `Gender`): <em>ευχαριστημένος, αναστατωμένος, βυθισμένος, δυσαρεστημένος, εκβιαζόμενος, εμπλεκόμενος, καλεσμένοι, καλμαρισμένος, καταχαρούμενοι, κουρδισμένος</em>
 * `Neut` (28; 38% of non-empty `Gender`): <em>αγανακτισμένο, αγαπημένα, αναμμένα, αναστατωμένο, απασχολημένο, βουρκωμένα, βυθισμένο, δαγκωμένα, δηλωμένο, διανθισμένο</em>
-* `EMPTY` (3776): <em>λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, κάνει, έχω, ξέρω, ρωτάει</em>
+* `EMPTY` (3775): <em>λέει, λέω, μπορεί, απαντάει, πρέπει, έχει, κάνει, έχω, ξέρω, ρωτάει</em>
 
 <table>
   <tr><th>Paradigm <i>αγαπημένος</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -193,14 +181,13 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `SCONJ`
 
-33 <tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `Gender`.
+31 <tt><a href="el_gud-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `Gender`.
 
 `SCONJ` tokens may have the following values of `Gender`:
 
-* `Fem` (1; 3% of non-empty `Gender`): <em>που</em>
-* `Masc` (11; 33% of non-empty `Gender`): <em>ποιος, ποιον, ποιοι</em>
-* `Neut` (21; 64% of non-empty `Gender`): <em>τι, ποια, ποιο</em>
-* `EMPTY` (1311): <em>να, ότι, αν, γιατί, όταν, πως, που, ενώ, επειδή, μόλις</em>
+* `Masc` (11; 35% of non-empty `Gender`): <em>ποιος, ποιον, ποιοι</em>
+* `Neut` (20; 65% of non-empty `Gender`): <em>τι, ποια, ποιο</em>
+* `EMPTY` (1319): <em>να, ότι, αν, γιατί, όταν, που, πως, ενώ, επειδή, μόλις</em>
 
 <table>
   <tr><th>Paradigm <i>ποιος</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
@@ -224,14 +211,14 @@ The most frequent other feature values with which `INTJ` and `Gender` co-occurre
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="el_gud-dep-det.html">det</a></tt>]--> DET</tt> (2404; 99%),
-<tt>PROPN --[<tt><a href="el_gud-dep-det.html">det</a></tt>]--> DET</tt> (650; 95%),
-<tt>NOUN --[<tt><a href="el_gud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (408; 99%),
-<tt>ADJ --[<tt><a href="el_gud-dep-det.html">det</a></tt>]--> DET</tt> (139; 90%),
-<tt>DET --[<tt><a href="el_gud-dep-det.html">det</a></tt>]--> DET</tt> (70; 89%),
-<tt>NOUN --[<tt><a href="el_gud-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (70; 91%),
+<tt>NOUN --[<tt><a href="el_gud-dep-det.html">det</a></tt>]--> DET</tt> (2409; 100%),
+<tt>PROPN --[<tt><a href="el_gud-dep-det.html">det</a></tt>]--> DET</tt> (653; 96%),
+<tt>NOUN --[<tt><a href="el_gud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (408; 100%),
+<tt>ADJ --[<tt><a href="el_gud-dep-det.html">det</a></tt>]--> DET</tt> (140; 92%),
+<tt>NOUN --[<tt><a href="el_gud-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (71; 92%),
+<tt>DET --[<tt><a href="el_gud-dep-det.html">det</a></tt>]--> DET</tt> (65; 92%),
 <tt>NOUN --[<tt><a href="el_gud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (64; 52%),
 <tt>ADJ --[<tt><a href="el_gud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (50; 98%),
-<tt>PROPN --[<tt><a href="el_gud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (30; 97%),
-<tt>NOUN --[<tt><a href="el_gud-dep-amod.html">amod</a></tt>]--> VERB</tt> (29; 100%).
+<tt>NOUN --[<tt><a href="el_gud-dep-amod.html">amod</a></tt>]--> VERB</tt> (29; 100%),
+<tt>PROPN --[<tt><a href="el_gud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (29; 97%).
 

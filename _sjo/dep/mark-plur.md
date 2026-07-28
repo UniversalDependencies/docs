@@ -11,4 +11,4 @@ The plural suffix `ᠰᠠ`/sa sometimes is written independently as a token.
 ᡠᠰᡞᠰᡞ ᠰᠠ
 mark:plur(ᡠᠰᡞᠰᡞ︐ ᠰᠠ)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:03 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:15 CEST -->

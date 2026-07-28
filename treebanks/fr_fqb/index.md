@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Djamé Seddah, Marie Candito, Bruno Guillaume.
 
 Repository: [UD_French-FQB](https://github.com/UniversalDependencies/UD_French-FQB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_fqb218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: LGPL-LR
 
@@ -80,17 +80,17 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 
 ## Relations
 
-[acl](fr_fqb-dep-acl.html) – [acl:relcl](fr_fqb-dep-acl-relcl.html) – [advcl](fr_fqb-dep-advcl.html) – [advcl:cleft](fr_fqb-dep-advcl-cleft.html) – [advmod](fr_fqb-dep-advmod.html) – [amod](fr_fqb-dep-amod.html) – [appos](fr_fqb-dep-appos.html) – [aux:caus](fr_fqb-dep-aux-caus.html) – [aux:pass](fr_fqb-dep-aux-pass.html) – [aux:tense](fr_fqb-dep-aux-tense.html) – [case](fr_fqb-dep-case.html) – [cc](fr_fqb-dep-cc.html) – [ccomp](fr_fqb-dep-ccomp.html) – [conj](fr_fqb-dep-conj.html) – [cop](fr_fqb-dep-cop.html) – [dep](fr_fqb-dep-dep.html) – [det](fr_fqb-dep-det.html) – [dislocated](fr_fqb-dep-dislocated.html) – [expl:comp](fr_fqb-dep-expl-comp.html) – [expl:subj](fr_fqb-dep-expl-subj.html) – [fixed](fr_fqb-dep-fixed.html) – [flat:foreign](fr_fqb-dep-flat-foreign.html) – [flat:name](fr_fqb-dep-flat-name.html) – [goeswith](fr_fqb-dep-goeswith.html) – [iobj](fr_fqb-dep-iobj.html) – [mark](fr_fqb-dep-mark.html) – [nmod](fr_fqb-dep-nmod.html) – [nsubj](fr_fqb-dep-nsubj.html) – [nsubj:caus](fr_fqb-dep-nsubj-caus.html) – [nsubj:pass](fr_fqb-dep-nsubj-pass.html) – [nummod](fr_fqb-dep-nummod.html) – [obj](fr_fqb-dep-obj.html) – [obl:agent](fr_fqb-dep-obl-agent.html) – [obl:arg](fr_fqb-dep-obl-arg.html) – [obl:mod](fr_fqb-dep-obl-mod.html) – [orphan](fr_fqb-dep-orphan.html) – [parataxis](fr_fqb-dep-parataxis.html) – [punct](fr_fqb-dep-punct.html) – [root](fr_fqb-dep-root.html) – [xcomp](fr_fqb-dep-xcomp.html)
+[acl](fr_fqb-dep-acl.html) – [acl:relcl](fr_fqb-dep-acl-relcl.html) – [advcl](fr_fqb-dep-advcl.html) – [advcl:cleft](fr_fqb-dep-advcl-cleft.html) – [advmod](fr_fqb-dep-advmod.html) – [amod](fr_fqb-dep-amod.html) – [appos](fr_fqb-dep-appos.html) – [aux:caus](fr_fqb-dep-aux-caus.html) – [aux:pass](fr_fqb-dep-aux-pass.html) – [aux:tense](fr_fqb-dep-aux-tense.html) – [case](fr_fqb-dep-case.html) – [cc](fr_fqb-dep-cc.html) – [ccomp](fr_fqb-dep-ccomp.html) – [conj](fr_fqb-dep-conj.html) – [cop](fr_fqb-dep-cop.html) – [dep](fr_fqb-dep-dep.html) – [det](fr_fqb-dep-det.html) – [dislocated](fr_fqb-dep-dislocated.html) – [expl:comp](fr_fqb-dep-expl-comp.html) – [expl:pass](fr_fqb-dep-expl-pass.html) – [expl:pv](fr_fqb-dep-expl-pv.html) – [expl:subj](fr_fqb-dep-expl-subj.html) – [fixed](fr_fqb-dep-fixed.html) – [flat:foreign](fr_fqb-dep-flat-foreign.html) – [flat:name](fr_fqb-dep-flat-name.html) – [goeswith](fr_fqb-dep-goeswith.html) – [iobj](fr_fqb-dep-iobj.html) – [mark](fr_fqb-dep-mark.html) – [nmod](fr_fqb-dep-nmod.html) – [nsubj](fr_fqb-dep-nsubj.html) – [nsubj:caus](fr_fqb-dep-nsubj-caus.html) – [nsubj:pass](fr_fqb-dep-nsubj-pass.html) – [nummod](fr_fqb-dep-nummod.html) – [obj](fr_fqb-dep-obj.html) – [obl:agent](fr_fqb-dep-obl-agent.html) – [obl:arg](fr_fqb-dep-obl-arg.html) – [obl:mod](fr_fqb-dep-obl-mod.html) – [orphan](fr_fqb-dep-orphan.html) – [parataxis](fr_fqb-dep-parataxis.html) – [punct](fr_fqb-dep-punct.html) – [root](fr_fqb-dep-root.html) – [xcomp](fr_fqb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 2289 sentences, 23345 tokens and 23897 syntactic words.</li>
+<li>This corpus contains 2289 sentences, 23344 tokens and 23896 syntactic words.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2283 tokens (10%) that are not followed by a space.</li>
+<li>This corpus contains 2282 tokens (10%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -119,15 +119,15 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 </ul>
 
 <ul>
-<li>This corpus contains 26 lemmas tagged as pronouns (PRON): 2000, _, autre, ce, cela, celui, celui-ci, dont, il, il_y_a, l'on, le, le/lui, lequel, où, que, quelqu'un, quels, qui, quoi, soi, t-il, tout, un, y, y_compris</li>
+<li>This corpus contains 23 lemmas tagged as pronouns (PRON): autre, ce, cela, celui, celui-ci, dont, il, l'on, lequel, lui, moi, nous, on, que, quel, quelqu'un, qui, quoi, soi, tout, un, vous, y</li>
 </ul>
 
 <ul>
-<li>This corpus contains 12 lemmas tagged as determiners (DET): _, ce, certain, chaque, du, le, plusieurs, quel, quelque, son, tout, un</li>
+<li>This corpus contains 11 lemmas tagged as determiners (DET): ce, certains, chaque, du, le, plusieurs, quel, quelque, son, tout, un</li>
 </ul>
 
 <ul>
-<li>Out of the above, 5 lemmas occurred sometimes as PRON and sometimes as DET: _, ce, le, tout, un</li>
+<li>Out of the above, 4 lemmas occurred sometimes as PRON and sometimes as DET: ce, quel, tout, un</li>
 </ul>
 
 <ul>
@@ -163,6 +163,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 <ul>
   <li>Part
   <ul>
+    <li>ADJ: affilé</li>
     <li>AUX: été, ayant, étant, fait</li>
     <li>VERB: inventé, né, situé, écrit, mort, connu, joué, eu, fait, remporté</li>
   </ul>
@@ -180,7 +181,6 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
   <li>Fem
     <ul>
       <li>ADJ: quelle, première, américaine, quelles, principale, grande, haute, dernière, foncière, télévisée</li>
-      <li>ADP: de</li>
       <li>DET: la, quelle, une, sa, ma, quelles, certaines, cette</li>
       <li>NOUN: année, ville, compagnie, population, capitale, guerre, date, taxe, université, équipe</li>
       <li>PRON: -t-elle, -elle, laquelle, -elles, une, celle, celle-ci, elle, elles, lesquelles</li>
@@ -194,11 +194,12 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
   <li>Masc
     <ul>
       <li>ADJ: quel, premier, américain, grand, Quels, mondial, anglais, national, personnel, calleux</li>
+      <li>ADJ-Part: affilé</li>
       <li>AUX-Part: fait</li>
-      <li>DET: le, quel, un, les, quels, ce, cet, du, tout</li>
+      <li>DET: le, quel, un, les, quels, ce, cet, d', du, tout</li>
       <li>NOUN: nom, pays, président, état, lieu, logement, film, prix, corps, temps</li>
       <li>PRON: -t-il, -il, -ils, il, lequel, le, un, l'on, quelqu'un, celui</li>
-      <li>PROPN: Alaska, John, York, Charles, Kentucky, Jackson, Japon, Mississippi, Londres, Reims</li>
+      <li>PROPN: Alaska, John, Kentucky, Japon, Mississippi, Londres, Reims, Croix-Rouge, Bob, Canada</li>
       <li>VERB-Part: inventé, né, situé, écrit, mort, connu, joué, eu, fait, remporté</li>
     </ul>
   </li>
@@ -214,7 +215,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
     <ul>
       <li>ADJ: Quels, quelles, américains, olympiques, touristiques, Unies, acides, généraux, militaires, solaires</li>
       <li>AUX-Fin: sont, ont, étaient, avez, furent, êtes, soient, aient</li>
-      <li>DET: les, des, mes, quelles, de, ses, quels, vos, ces, d'</li>
+      <li>DET: les, des, mes, quelles, de, ses, quels, vos, d', ces</li>
       <li>NOUN: enfants, gens, habitants, impôts, lettres, pièces, revenus, Nations, années, automobiles</li>
       <li>PRON: -ils, vous, -elles, -vous, les, ceux, elles, eux, lesquelles, nous</li>
       <li>PROPN: Philippines, Alpes, Bahamas, Fidji, Pays-Bas, Pyrénées</li>
@@ -228,13 +229,13 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
   <li>Sing
     <ul>
       <li>ADJ: quel, quelle, premier, première, célèbre, américain, grand, autre, américaine, islamique</li>
-      <li>ADP: de</li>
+      <li>ADJ-Part: affilé</li>
       <li>AUX-Fin: est, a, était, fut, ai, suis, soit, ait, sera</li>
       <li>AUX-Part: fait</li>
       <li>DET: le, la, l', quelle, quel, un, une, mon, sa, ma</li>
       <li>NOUN: nom, année, ville, aide, président, état, lieu, espace, logement, film</li>
       <li>PRON: -t-il, -il, -je, -t-elle, je, -t-on, -elle, -on, j', il</li>
-      <li>PROPN: Californie, Logan, Alaska, John, San, York, Charles, Kentucky, Marley, Australie</li>
+      <li>PROPN: Californie, Logan, Alaska, John, Kentucky, San, Australie, Japon, Mississippi, Angleterre</li>
       <li>VERB-Fin: trouve, est, a, signifie, puis, eut, dois, fait, ai, nomme</li>
       <li>VERB-Part: inventé, né, situé, écrit, mort, connu, joué, eu, fait, remporté</li>
     </ul>
@@ -291,7 +292,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 <ul>
   <li>Cnd
     <ul>
-      <li>VERB-Fin: devrait, pourrait, prendrait, procurerait, recevrait, voudrais</li>
+      <li>VERB-Fin: devrait, pourrait, prendrait, coureriez, procurerait, recevrait, voudrais</li>
     </ul>
   </li>
 </ul>
@@ -346,6 +347,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 <ul>
   <li>Past
     <ul>
+      <li>ADJ-Part: affilé</li>
       <li>AUX-Fin: fut, furent</li>
       <li>AUX-Part: été, fait</li>
       <li>VERB-Fin: eut, signa, vécut, agit, apprit, connut, construisit, débuta, détint, développa</li>
@@ -405,8 +407,8 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 <ul>
   <li>Ind
     <ul>
-      <li>DET: chaque, certaines, plusieurs, quelqu'</li>
-      <li>PRON: -t-on, -on, un, autre, autres, l'on, quelqu'un, une, on, tout</li>
+      <li>DET: chaque, certaines, plusieurs, quelqu', tout</li>
+      <li>PRON: -t-on, -on, un, autre, l'on, quelqu'un, une, on, tout</li>
     </ul>
   </li>
 </ul>
@@ -425,7 +427,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
   <li>Prs
     <ul>
       <li>DET: mon, mes, sa, ma, son, votre, ses, vos, leur, leurs</li>
-      <li>PRON: -t-il, se, -il, -je, -t-elle, je, -elle, s', y, -ils</li>
+      <li>PRON: -t-il, se, -il, -je, -t-elle, je, -elle, s', -ils, y</li>
     </ul>
   </li>
 </ul>
@@ -433,7 +435,8 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 <ul>
   <li>Rel
     <ul>
-      <li>PRON: qui, que, dont, laquelle, lequel, qu', où, lesquelles</li>
+      <li>ADV: où</li>
+      <li>PRON: qui, que, dont, laquelle, lequel, qu', lesquelles</li>
     </ul>
   </li>
 </ul>
@@ -447,7 +450,6 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
     <ul>
       <li>NOUN: milles, mille, cent, cents, million, millions</li>
       <li>NUM: deux, 1994, 1993, 1989, 1990, 1991, 1992, 1988, 10, 1929</li>
-      <li>PRON: 2000</li>
     </ul>
   </li>
 </ul>
@@ -528,34 +530,29 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
 <ul>
   <li><a>ExtPos</a>
     <ul>
-      <li>ADJ
-        <ul>
-          <li>ADP: d'</li>
-        </ul>
-      </li>
       <li>ADP
         <ul>
-          <li>ADP: à, en, Par, d'</li>
-          <li>ADV: lord, près, auprès, afin, autour</li>
+          <li>ADP: en, d', à</li>
+          <li>ADV: auprès, autour, lord, près</li>
           <li>NOUN: suite</li>
           <li>PRON: Il</li>
         </ul>
       </li>
       <li>ADV
         <ul>
-          <li>ADP: en, pour</li>
-          <li>ADV: aujourd', ne</li>
+          <li>ADP: à, d', pour</li>
+          <li>ADV: dès</li>
         </ul>
       </li>
       <li>CCONJ
         <ul>
-          <li>CCONJ: et</li>
           <li>PRON: y</li>
+          <li>SYM: /</li>
         </ul>
       </li>
       <li>DET
         <ul>
-          <li>ADP: de, d'</li>
+          <li>ADP: de</li>
         </ul>
       </li>
       <li>NOUN
@@ -567,12 +564,7 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
         <ul>
           <li>ADV: moins, plus</li>
           <li>DET: le, quelqu', un</li>
-        </ul>
-      </li>
-      <li>SCONJ
-        <ul>
-          <li>ADP: pour</li>
-          <li>ADV: afin, alors, après, avant, dès</li>
+          <li>NUM: 2000</li>
         </ul>
       </li>
     </ul>
@@ -597,8 +589,10 @@ The original annotation scheme versions (phrase-structure, surface dependencies 
     <ul>
       <li>Yes
         <ul>
-          <li>NOUN: Porto</li>
-          <li>VERB-Fin: on</li>
+          <li>ADV: lord</li>
+          <li>NOUN: Porto, titres</li>
+          <li>PRON: t-il</li>
+          <li>VERB-Fin: coureriez, on</li>
         </ul>
       </li>
     </ul>
@@ -637,11 +631,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (254)</li>
       <li>VERB-Fin--NOUN-ADP(de) (4)</li>
-      <li>VERB-Fin--PRON (71)</li>
+      <li>VERB-Fin--PRON (73)</li>
       <li>VERB-Inf--NOUN (135)</li>
-      <li>VERB-Inf--PRON (29)</li>
+      <li>VERB-Inf--PRON (32)</li>
       <li>VERB-Part--NOUN (192)</li>
-      <li>VERB-Part--PRON (14)</li>
+      <li>VERB-Part--PRON (18)</li>
     </ul>
   </li>
 </ul>
@@ -651,23 +645,36 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Inf--PRON (2)</li>
-      <li>VERB-Part--PRON (4)</li>
+      <li>VERB-Part--PRON (2)</li>
     </ul>
   </li>
 </ul>
 
+<h3>Reflexive Verbs</h3>
 
+<ul>
+  <li>This corpus contains 30 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: trouver se, nommer se, appeler s', dérouler s', passer se, élever s', rendre s', situer se, jeter se, accoupler s', adonner s', adresser m', agir s', disloquer s', déplacer se, dérouler se, emparer s', envoler s', forcer s', inspirer s', intituler s', louer se, marier se, marier vous, produire se, suicider s', suicider se, écouler s', écraser s', épeler s'</li>
+</ul>
+
+<h3>Reflexive Passive</h3>
+
+<ul>
+  <li>This corpus contains 6 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: tenir s', terminer s', étendre s', développer s', tenir se, terminer se</li>
+</ul>
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 1 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: adresser m'</li>
+  <li>This corpus contains 9 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: joindre s', mensualiser me, engager se, installer se, mensualiser se, nourrir se, présenter s', présenter se, toucher se</li>
+    <ul>
+      <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: mensualiser, joindre</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>expl:comp</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
+<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>aux:tense</a>, <a>expl:comp</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>expl:subj</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
 <li>The following 4 main types are not used alone, they are always subtyped: <a>aux</a>, <a>expl</a>, <a>flat</a>, <a>obl</a></li>
 <li>The following 7 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

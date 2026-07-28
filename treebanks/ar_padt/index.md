@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Zdeněk Žabokrtský, Shadi Saleh.
 
 Repository: [UD_Arabic-PADT](https://github.com/UniversalDependencies/UD_Arabic-PADT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar_padt217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar_padt218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-NC-SA 3.0
 
@@ -89,6 +89,9 @@ and Kamila Hassanová.
 
 Further corrections of additional data (not part of PADT release 1.0) were done by
 Shadi Saleh and Zdeněk Žabokrtský.
+
+The improvements done in 2023–2026 benefited from
+the COST Action CA21167 [UniDive](https://unidive.lisn.upsaclay.fr/).
 
 
 ## References

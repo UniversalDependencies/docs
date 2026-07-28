@@ -66,4 +66,4 @@ Plural number:
 * _tǽhan_ their" 
 * _ídot_ "they come" 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:36 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:09 CEST -->

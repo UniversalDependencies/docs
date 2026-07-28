@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PUD: Relations: `obl:orphan`
 
 This relation is a language-specific subtype of <tt><a href="pl_pud-dep-obl.html">obl</a></tt>.
-There are also 3 other language-specific subtypes of `obl`: <tt><a href="pl_pud-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="pl_pud-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="pl_pud-dep-obl-cmpr.html">obl:cmpr</a></tt>.
+There are also 3 other language-specific subtypes of `obl`: <tt><a href="pl_pud-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="pl_pud-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="pl_pud-dep-obl-cmp.html">obl:cmp</a></tt>.
 
 1 nodes (0%) are attached to their parents as `obl:orphan`.
 

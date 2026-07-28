@@ -52,7 +52,7 @@ The following 3 pairs of parts of speech are connected with `nummod`: <tt><a hre
 8	de	de	ADP	INDT	_	10	case	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	agua	agua	NOUN	NN	Gender=Fem|Number=Sing	4	obl	_	_
-11	alpina	alpino	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No|Proper=True
+11	alpina	alpino	ADJ	JJ	Gender=Fem|Number=Sing	10	amod	_	Proper=True|SpaceAfter=No
 12	.	.	PUNCT	.	PunctType=Peri	4	punct	_	_
 
 ~~~

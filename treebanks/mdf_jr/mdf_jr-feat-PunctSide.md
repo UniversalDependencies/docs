@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="mdf_jr-pos-PUNCT.ht
 
 ### `PUNCT`
 
-24 <tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> tokens (3% of all `PUNCT` tokens) have a non-empty value of `PunctSide`.
+24 <tt><a href="mdf_jr-pos-PUNCT.html">PUNCT</a></tt> tokens (2% of all `PUNCT` tokens) have a non-empty value of `PunctSide`.
 
 `PUNCT` tokens may have the following values of `PunctSide`:
 

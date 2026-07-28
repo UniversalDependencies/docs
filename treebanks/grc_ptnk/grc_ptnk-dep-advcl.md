@@ -26,9 +26,9 @@ The following 20 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_8.15
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_8.15
 3	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=lord|Ref=GEN_8.15
-4	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the;-oh|Ref=GEN_8.15
+4	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the;-oh|Ref=GEN_8.15
 5	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	Gloss=god|Ref=GEN_8.15
-6	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=GEN_8.15
+6	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=GEN_8.15
 7	Νῶε	Νῶε	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Gloss=Noah|Ref=GEN_8.15
 8	λέγων	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	Gloss=to-say|Ref=GEN_8.15|SpaceAfter=No
 9	,	,	PUNCT	_	_	8	punct	_	Ref=GEN_8.15
@@ -52,7 +52,7 @@ The following 20 pairs of parts of speech are connected with `advcl`: <tt><a hre
 8	ἐγένετο	γίνομαι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	5	advcl	_	Gloss=to-become,come-to-be|Ref=GEN_21.5
 9	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	8	iobj	_	Gloss=he,she,it,-self,same|Ref=GEN_21.5
 10	Ἰσαὰκ	Ἰσαάκ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	Gloss=Isaac|Ref=GEN_21.5
-11	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Gloss=the;-oh|Ref=GEN_21.5
+11	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Gloss=the;-oh|Ref=GEN_21.5
 12	υἱὸς	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	Gloss=son|Ref=GEN_21.5
 13	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	12	nmod:poss	_	Gloss=he,she,it,-self,same|Ref=GEN_21.5|SpaceAfter=No
 14	.	.	PUNCT	_	_	13	punct	_	Ref=GEN_21.5
@@ -74,7 +74,7 @@ The following 20 pairs of parts of speech are connected with `advcl`: <tt><a hre
 6	Μὴ	μή	ADV	_	Polarity=Neg	7	advmod	_	Gloss=no,not|Ref=GEN_50.19
 7	φοβεῖσθε	φοβέω	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	2	ccomp	_	Gloss=to-fear|Ref=GEN_50.19|SpaceAfter=No
 8	·	·	PUNCT	_	_	9	punct	_	Ref=GEN_50.19
-9	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	11	det	_	Gloss=the|Ref=GEN_50.19
+9	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the|Ref=GEN_50.19
 10	γὰρ	γάρ	SCONJ	_	_	11	mark	_	Gloss=for,because|Ref=GEN_50.19
 11	θεοῦ	θεός	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	advcl	_	Gloss=god|Ref=GEN_50.19
 12	εἰμι	εἰμί	AUX	_	Mood=Ind,Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	Gloss=to-be|Ref=GEN_50.19

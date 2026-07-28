@@ -15,4 +15,4 @@ A negation adverbial modifier is a subtype of the `advmod` relation, e.g., ა�
 2	ვიცი	ცოდნა	VERB	_	Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Tense=Pres	0	root	_	LMSeg:ცოდნ[ა]/ც|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	LMSeg:.
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:12 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:37 CEST -->

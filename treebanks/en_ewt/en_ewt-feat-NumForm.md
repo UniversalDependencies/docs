@@ -11,7 +11,7 @@ It occurs with 4 different values: `Combi`, `Digit`, `Roman`, `Word`.
 
 5608 tokens (2%) have a non-empty value of `NumForm`.
 1347 types (7%) occur at least once with a non-empty value of `NumForm`.
-1299 lemmas (8%) occur at least once with a non-empty value of `NumForm`.
+1298 lemmas (8%) occur at least once with a non-empty value of `NumForm`.
 The feature is used with 5 part-of-speech tags: <tt><a href="en_ewt-pos-NUM.html">NUM</a></tt> (5036; 2% instances), <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (257; 0% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (155; 0% instances), <tt><a href="en_ewt-pos-NOUN.html">NOUN</a></tt> (151; 0% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (9; 0% instances).
 
 ### `NUM`
@@ -26,7 +26,7 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 * `Roman` (52; 1% of non-empty `NumForm`): <em>ii, VI, iii, i, v, XIII, iv, VII, VIII</em>
 * `Word` (1057; 21% of non-empty `NumForm`): <em>one, two, three, four, m, million, five, six, k, billion</em>
 
-`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (1231) occur only with one value of `NumForm`.
+`NumForm` seems to be **lexical feature** of `NUM`. 100% lemmas (1230) occur only with one value of `NumForm`.
 
 ### `ADJ`
 

@@ -14,4 +14,4 @@ udver: '2'
 
 - _食べ <b>て</b> 寝る&nbsp;_ “eat, _then_ sleep” (`particle (conjunctive)` / 助詞-接続助詞)
 - _食べる <b>の</b> が好き&nbsp;_ “(I) like _to_ eat” (`particle (nominal)` / 助詞-準体助詞): nominal particle "の"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:55 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->

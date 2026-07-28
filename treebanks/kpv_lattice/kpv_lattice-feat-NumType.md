@@ -10,21 +10,21 @@ This feature is universal but the values `Appr` are language-specific.
 It occurs with 6 different values: `Appr`, `Card`, `Dist`, `Mult`, `Ord`, `Sets`.
 Some words have combined values of the feature; 1 combinations have been observed: `Mult|Ord`.
 
-100 tokens (1%) have a non-empty value of `NumType`.
+102 tokens (1%) have a non-empty value of `NumType`.
 55 types (2%) occur at least once with a non-empty value of `NumType`.
 39 lemmas (2%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (64; 1% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> (66; 1% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-64 <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> tokens (97% of all `NUM` tokens) have a non-empty value of `NumType`.
+66 <tt><a href="kpv_lattice-pos-NUM.html">NUM</a></tt> tokens (97% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (56; 88%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (56; 88%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (58; 88%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (58; 88%).
 
 `NUM` tokens may have the following values of `NumType`:
 
 * `Appr` (1; 2% of non-empty `NumType`): <em>Нёль-ӧ-вит</em>
-* `Card` (60; 94% of non-empty `NumType`): <em>кык, ӧти, дас, ветымынъяс, комын, куим, 12-20, 16, 18, 1940</em>
+* `Card` (62; 94% of non-empty `NumType`): <em>кык, ӧти, дас, ветымынъяс, комын, куим, 12-20, 16, 18, 1940</em>
 * `Dist` (2; 3% of non-empty `NumType`): <em>Нёльӧнӧс, кыкӧныдлы</em>
 * `Ord` (1; 2% of non-empty `NumType`): <em>Кызьӧд</em>
 * `EMPTY` (2): <em>Ӧтнам, ӧтнад</em>
@@ -42,7 +42,7 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 * `Dist` (3; 23% of non-empty `NumType`): <em>кыкӧныс, Унаӧнӧсь, быдсӧн</em>
 * `Mult` (8; 62% of non-empty `NumType`): <em>унаысь, ӧтчыд, Гоз-мӧдысь, выльысь, кыкысь, мӧдысь</em>
 * `Mult,Ord` (2; 15% of non-empty `NumType`): <em>гоз-мӧдысь, мӧдысь</em>
-* `EMPTY` (864): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
+* `EMPTY` (875): <em>нин, жӧ, на, и, сӧмын, сэсся, зэв, кыдзи, пыр, бара</em>
 
 <table>
   <tr><th>Paradigm <i>гоз-мӧдысь</i></th><th><tt>Mult,Ord</tt></th><th><tt>Mult</tt></th></tr>
@@ -53,27 +53,27 @@ The most frequent other feature values with which `ADV` and `NumType` co-occurre
 
 13 <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10; 77%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10; 77%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (8; 62%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 54%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (10; 77%), <tt><a href="kpv_lattice-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (10; 77%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 54%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (7; 54%).
 
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (3; 23% of non-empty `NumType`): <em>ӧтияс, ӧти</em>
 * `Ord` (3; 23% of non-empty `NumType`): <em>Мӧдыс, мӧд, мӧдыслы</em>
 * `Sets` (7; 54% of non-empty `NumType`): <em>кыкнанныс, Коднаныд, Кыкнанным, даснаныс, кыкнан, кыкнанӧн</em>
-* `EMPTY` (521): <em>сійӧ, тайӧ, ме, сы, ми, мый, сійӧс, найӧ, тэ, быд</em>
+* `EMPTY` (525): <em>сійӧ, тайӧ, ме, сы, ми, мый, сійӧс, найӧ, тэ, быд</em>
 
 ### `DET`
 
-9 <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> tokens (18% of all `DET` tokens) have a non-empty value of `NumType`.
+9 <tt><a href="kpv_lattice-pos-DET.html">DET</a></tt> tokens (17% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9; 100%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7; 78%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (7; 78%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt> (5; 56%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9; 100%), <tt><a href="kpv_lattice-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="kpv_lattice-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7; 78%), <tt><a href="kpv_lattice-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (7; 78%), <tt><a href="kpv_lattice-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (7; 78%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Plur</tt> (5; 56%).
 
 `DET` tokens may have the following values of `NumType`:
 
 * `Card` (2; 22% of non-empty `NumType`): <em>Ӧтияс, ӧтиным</em>
 * `Ord` (6; 67% of non-empty `NumType`): <em>коймӧдъяс, мӧдъяс, мӧд, мӧдным</em>
 * `Sets` (1; 11% of non-empty `NumType`): <em>кыкнан</em>
-* `EMPTY` (42): <em>став, уна, ас, некутшӧм, татшӧм, ниӧти, ставыс, Кымынкӧ, Уналӧн, быд</em>
+* `EMPTY` (43): <em>уна, став, ас, некутшӧм, татшӧм, ниӧти, ставыс, Кымынкӧ, Уналӧн, быд</em>
 
 ### `ADJ`
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (1; 100% of non-empty `NumType`): <em>татшӧм</em>
-* `EMPTY` (492): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
+* `EMPTY` (498): <em>ыджыд, кодь, бур, важ, мича, еджыд, ичӧтик, сэтшӧм, том, выль</em>
 
 ## Relations with Agreement in `NumType`
 

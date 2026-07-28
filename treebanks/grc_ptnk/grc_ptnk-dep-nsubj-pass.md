@@ -25,7 +25,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 6 7 nsubj:pass	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_1.3
 2	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_1.3
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_1.3
+3	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_1.3
 4	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=god|Ref=GEN_1.3|SpaceAfter=No
 5	·	·	PUNCT	_	_	6	punct	_	Ref=GEN_1.3
 6	γενηθήτω	γίνομαι	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	ccomp	_	Gloss=to-become,come-to-be|Ref=GEN_1.3
@@ -48,7 +48,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	ἀπεκρίθη	ἀποκρίνω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-answer|Ref=GEN_23.14
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Ref=GEN_23.14
 3	Ἐφρὼν	Ἐφρών	PROPN	_	Gender=Masc|Number=Sing	1	nsubj:pass	_	Gloss=Ephron|Ref=GEN_23.14
-4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	5	det	_	Gloss=the|Ref=GEN_23.14
+4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the|Ref=GEN_23.14
 5	Ἁβραὰμ	Ἁβραάμ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	obj	_	Gloss=Abraham|Ref=GEN_23.14
 6	λέγων	λέγω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	Gloss=to-say|Ref=GEN_23.14|SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	Ref=GEN_23.14
@@ -79,7 +79,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 15	,	,	PUNCT	_	_	16	punct	_	Ref=GEN_45.11
 16	σὺ	σύ	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	14	nsubj:pass	_	Gloss=you|Ref=GEN_45.11
 17	καὶ	καί	CCONJ	_	_	19	cc	_	Gloss=and,also,even,then,next|Ref=GEN_45.11
-18	οἱ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	19	det	_	Gloss=the|Ref=GEN_45.11
+18	οἱ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	Gloss=the|Ref=GEN_45.11
 19	υἱοί	υἱός	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	16	conj	_	Gloss=sons|Ref=GEN_45.11
 20	σου	σύ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	19	nmod:poss	_	Gloss=you,your|Ref=GEN_45.11
 21	καὶ	καί	CCONJ	_	_	22	cc	_	Gloss=and,also,even,then,next|Ref=GEN_45.11

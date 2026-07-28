@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Polish-PUD: Relations: `parataxis:insert`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="pl_pud-dep-parataxis.html">parataxis</a></tt>.
 There are also 1 other language-specific subtypes of `parataxis`: <tt><a href="pl_pud-dep-parataxis-obj.html">parataxis:obj</a></tt>.
 
-27 nodes (0%) are attached to their parents as `parataxis:insert`.
+26 nodes (0%) are attached to their parents as `parataxis:insert`.
 
-22 instances of `parataxis:insert` (81%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.77777777777778.
+21 instances of `parataxis:insert` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.92307692307692.
 
-The following 10 pairs of parts of speech are connected with `parataxis:insert`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (8; 30% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (5; 19% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (3; 11% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (3; 11% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (2; 7% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (2; 7% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1; 4% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl_pud-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
+The following 8 pairs of parts of speech are connected with `parataxis:insert`: <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (8; 31% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (5; 19% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (3; 12% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (3; 12% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-PROPN.html">PROPN</a></tt> (2; 8% instances), <tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl_pud-pos-NOUN.html">NOUN</a></tt> (2; 8% instances), <tt><a href="pl_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt> (2; 8% instances), <tt><a href="pl_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pl_pud-pos-VERB.html">VERB</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -88,7 +88,7 @@ The following 10 pairs of parts of speech are connected with `parataxis:insert`:
 8	nad	nad	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	9	case	9:case	Case=Ins
 9	klawiaturą	klawiatura	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	4	obl	4:obl	SpaceAfter=No
 10	,	,	PUNCT	interp	PunctType=Comm	11	punct	11:punct	_
-11	oczekiwany	oczekiwać	ADJ	ppas:sg:acc:m3:imperf:aff	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	6	acl	6:acl	_
+11	oczekiwany	oczekiwać	ADJ	ppas:sg:acc:m3:imperf:aff	Animacy=Inan|Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part|Voice=Pass	6	amod	6:amod	_
 12	według	według	ADP	prep:gen	AdpType=Prep	13	case	13:case	Case=Gen
 13	pogłosek	pogłoska	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	11	parataxis:insert	11:parataxis:insert	SpaceAfter=No
 14	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	_

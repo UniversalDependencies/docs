@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Polish-PDB: Relations: `nmod:pred`
 
 This relation is a language-specific subtype of <tt><a href="pl_pdb-dep-nmod.html">nmod</a></tt>.
-There are also 3 other language-specific subtypes of `nmod`: <tt><a href="pl_pdb-dep-nmod-arg.html">nmod:arg</a></tt>, <tt><a href="pl_pdb-dep-nmod-flat.html">nmod:flat</a></tt>, <tt><a href="pl_pdb-dep-nmod-poss.html">nmod:poss</a></tt>.
+There are also 4 other language-specific subtypes of `nmod`: <tt><a href="pl_pdb-dep-nmod-arg.html">nmod:arg</a></tt>, <tt><a href="pl_pdb-dep-nmod-cmp.html">nmod:cmp</a></tt>, <tt><a href="pl_pdb-dep-nmod-flat.html">nmod:flat</a></tt>, <tt><a href="pl_pdb-dep-nmod-poss.html">nmod:poss</a></tt>.
 
 12 nodes (0%) are attached to their parents as `nmod:pred`.
 

@@ -6,14 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Pashto-Sikaram: Relations: `flat:foreign`
 
-This relation is a language-specific subtype of <tt><a href="ps_sikaram-dep-flat.html">flat</a></tt>.
+This relation is a language-specific subtype of .
+There are also 1 other language-specific subtypes of `flat`: <tt><a href="ps_sikaram-dep-flat-name.html">flat:name</a></tt>.
 
-35 nodes (1%) are attached to their parents as `flat:foreign`.
+39 nodes (1%) are attached to their parents as `flat:foreign`.
 
-35 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.82857142857143.
+39 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.58974358974359.
 
-The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (35; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="ps_sikaram-pos-X.html">X</a></tt>-<tt><a href="ps_sikaram-pos-X.html">X</a></tt> (39; 100% instances).
 
 
 ~~~ conllu

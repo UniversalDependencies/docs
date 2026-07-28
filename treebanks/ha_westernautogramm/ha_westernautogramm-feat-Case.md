@@ -7,32 +7,32 @@ udver: '2'
 ## Treebank Statistics: UD_Hausa-WesternAutogramm: Features: `Case`
 
 This feature is universal.
-It occurs with 1 different values: `Gen`.
+It occurs with 2 different values: `Acc`, `Gen`.
 
-22 tokens (0%) have a non-empty value of `Case`.
-11 types (1%) occur at least once with a non-empty value of `Case`.
-11 lemmas (1%) occur at least once with a non-empty value of `Case`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt> (21; 0% instances), <tt><a href="ha_westernautogramm-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+77 tokens (1%) have a non-empty value of `Case`.
+3 types (0%) occur at least once with a non-empty value of `Case`.
+2 lemmas (0%) occur at least once with a non-empty value of `Case`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ha_westernautogramm-pos-PART.html">PART</a></tt> (76; 1% instances), <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
-### `NOUN`
+### `PART`
 
-21 <tt><a href="ha_westernautogramm-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `Case`.
+76 <tt><a href="ha_westernautogramm-pos-PART.html">PART</a></tt> tokens (20% of all `PART` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="ha_westernautogramm-feat-Definite.html">Definite</a></tt><tt>=Cons</tt> (20; 95%), <tt><a href="ha_westernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (19; 90%), <tt><a href="ha_westernautogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (15; 71%).
+The most frequent other feature values with which `PART` and `Case` co-occurred: <tt><a href="ha_westernautogramm-feat-PartType.html">PartType</a></tt><tt>=Case</tt> (76; 100%), <tt><a href="ha_westernautogramm-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (76; 100%), <tt><a href="ha_westernautogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (75; 99%).
 
-`NOUN` tokens may have the following values of `Case`:
+`PART` tokens may have the following values of `Case`:
 
-* `Gen` (21; 100% of non-empty `Case`): <em>jìkinkà, sàràkkuwakkà, bàːkinkà, gidankà, màːtakkà, bùtuːnai, gòːshinkà, kânkà, zaːzakkà, àkàihunkà</em>
-* `EMPTY` (2499): <em>mùtun, sarkiː, maːlàm, maːlàmiː, maːgàniː, maːtaː, bùdurwaː, gidaː, maːgànîn, ƙarhèː</em>
+* `Gen` (76; 100% of non-empty `Case`): <em>na, ta</em>
+* `EMPTY` (298): <em>ba, kuma, kâu, mài, ta, dai, bâː, maː, àkwai, màːsu</em>
 
-`Case` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `Case`.
+### `PRON`
 
-### `ADP`
+1 <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Case`.
 
-1 <tt><a href="ha_westernautogramm-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Case`.
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ha_westernautogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ha_westernautogramm-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="ha_westernautogramm-feat-Person.html">Person</a></tt><tt>=1</tt> (1; 100%), <tt><a href="ha_westernautogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
-`ADP` tokens may have the following values of `Case`:
+`PRON` tokens may have the following values of `Case`:
 
-* `Gen` (1; 100% of non-empty `Case`): <em>wurinkà</em>
-* `EMPTY` (749): <em>dà, cikin, gà, na, mà, mài, wurin, wurim, sai, cikim</em>
+* `Acc` (1; 100% of non-empty `Case`): <em>mù</em>
+* `EMPTY` (833): <em>shiː, shi, ita, ta, tà, mutà, wandà, suː, su, shì</em>
 

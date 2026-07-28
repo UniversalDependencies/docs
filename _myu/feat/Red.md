@@ -22,4 +22,4 @@ The exmaple below has the root *xat* 'food' reduplicated.
 
 * _<b>Awawa i-xa-xet</b>&nbsp;_ “Grandma has fod”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:45 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:16 CEST -->

@@ -18,4 +18,4 @@ Onomatopoeic words (擬聲詞 / _ji4sing1ci4_) should only be treated as interje
 - 哦 / _o4_
 - 哎呀 / _ai6jaa4_
 - 咦 / _ji2_
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:49 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:36 CEST -->

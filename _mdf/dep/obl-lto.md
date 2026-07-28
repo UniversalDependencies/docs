@@ -28,4 +28,4 @@ obl:lto(лиссь-2, ульцяв-4)
 obl:lto(went_out-2, into_the_street-4)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:28 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:34 CEST -->

@@ -42,17 +42,17 @@ The 3rd highest number of forms (1) was observed with the lemma “!//”: <em>!
 
 `PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="pcm_nsc-dep-punct.html">punct</a></tt> (39702; 100% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (20740; 52% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (7345; 19% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (2608; 7% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2513; 6% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1558; 4% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1051; 3% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (945; 2% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (760; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (493; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (463; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (375; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (310; 1% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (296; 1% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (146; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (75; 0% instances), <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (24; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="pcm_nsc-pos-VERB.html">VERB</a></tt> (20737; 52% instances), <tt><a href="pcm_nsc-pos-NOUN.html">NOUN</a></tt> (7344; 18% instances), <tt><a href="pcm_nsc-pos-ADV.html">ADV</a></tt> (2608; 7% instances), <tt><a href="pcm_nsc-pos-PRON.html">PRON</a></tt> (2517; 6% instances), <tt><a href="pcm_nsc-pos-ADJ.html">ADJ</a></tt> (1558; 4% instances), <tt><a href="pcm_nsc-pos-PROPN.html">PROPN</a></tt> (1051; 3% instances), <tt><a href="pcm_nsc-pos-INTJ.html">INTJ</a></tt> (945; 2% instances), <tt><a href="pcm_nsc-pos-AUX.html">AUX</a></tt> (760; 2% instances), <tt><a href="pcm_nsc-pos-X.html">X</a></tt> (493; 1% instances), <tt><a href="pcm_nsc-pos-NUM.html">NUM</a></tt> (463; 1% instances), <tt><a href="pcm_nsc-pos-DET.html">DET</a></tt> (374; 1% instances), <tt><a href="pcm_nsc-pos-ADP.html">ADP</a></tt> (311; 1% instances), <tt><a href="pcm_nsc-pos-PART.html">PART</a></tt> (296; 1% instances), <tt><a href="pcm_nsc-pos-SCONJ.html">SCONJ</a></tt> (147; 0% instances), <tt><a href="pcm_nsc-pos-CCONJ.html">CCONJ</a></tt> (75; 0% instances), <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (23; 0% instances)
 
-39679 (100%) `PUNCT` nodes are leaves.
+39680 (100%) `PUNCT` nodes are leaves.
 
-22 (0%) `PUNCT` nodes have one child.
+21 (0%) `PUNCT` nodes have one child.
 
 1 (0%) `PUNCT` nodes have two children.
 
 The highest child degree of a `PUNCT` node is 2.
 
-Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="pcm_nsc-dep-punct.html">punct</a></tt> (24; 100% instances)
+Children of `PUNCT` nodes are attached using 1 different relations: <tt><a href="pcm_nsc-dep-punct.html">punct</a></tt> (23; 100% instances)
 
-Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (24; 100% instances)
+Children of `PUNCT` nodes belong to 1 different parts of speech: <tt><a href="pcm_nsc-pos-PUNCT.html">PUNCT</a></tt> (23; 100% instances)
 

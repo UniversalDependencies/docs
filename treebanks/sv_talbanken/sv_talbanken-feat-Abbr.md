@@ -11,7 +11,7 @@ It occurs with 1 different values: `Yes`.
 
 790 tokens (1%) have a non-empty value of `Abbr`.
 120 types (1%) occur at least once with a non-empty value of `Abbr`.
-81 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
+82 lemmas (1%) occur at least once with a non-empty value of `Abbr`.
 The feature is used with 5 part-of-speech tags: <tt><a href="sv_talbanken-pos-ADV.html">ADV</a></tt> (378; 0% instances), <tt><a href="sv_talbanken-pos-NOUN.html">NOUN</a></tt> (347; 0% instances), <tt><a href="sv_talbanken-pos-ADJ.html">ADJ</a></tt> (57; 0% instances), <tt><a href="sv_talbanken-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="sv_talbanken-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `ADV`
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 * `Yes` (347; 100% of non-empty `Abbr`): <em>kr, %, dr, s., kap., proc, KPI, milj, mån, kl</em>
 * `EMPTY` (22648): <em>år, barn, del, äktenskapet, procent, barnen, människor, tid, sätt, samhället</em>
 
-`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (51) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (52) occur only with one value of `Abbr`.
 
 ### `ADJ`
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `VERB` and `Abbr` co-occurred:
 `VERB` tokens may have the following values of `Abbr`:
 
 * `Yes` (7; 100% of non-empty `Abbr`): <em>jfr</em>
-* `EMPTY` (9783): <em>har, finns, blir, få, får, ha, gäller, behöver, ger, går</em>
+* `EMPTY` (9782): <em>har, finns, blir, få, får, ha, gäller, behöver, ger, går</em>
 
 ### `ADP`
 

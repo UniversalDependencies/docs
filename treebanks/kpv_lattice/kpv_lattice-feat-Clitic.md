@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `A`, `Add`, `O`, `So`, `To`.
 
-37 tokens (0%) have a non-empty value of `Clitic`.
-32 types (1%) occur at least once with a non-empty value of `Clitic`.
-30 lemmas (1%) occur at least once with a non-empty value of `Clitic`.
-The feature is used with 6 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+38 tokens (0%) have a non-empty value of `Clitic`.
+33 types (1%) occur at least once with a non-empty value of `Clitic`.
+31 lemmas (1%) occur at least once with a non-empty value of `Clitic`.
+The feature is used with 7 part-of-speech tags: <tt><a href="kpv_lattice-pos-VERB.html">VERB</a></tt> (16; 0% instances), <tt><a href="kpv_lattice-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="kpv_lattice-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="kpv_lattice-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="kpv_lattice-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -76,6 +76,16 @@ The most frequent other feature values with which `AUX` and `Clitic` co-occurred
 `AUX` tokens may have the following values of `Clitic`:
 
 * `O` (2; 100% of non-empty `Clitic`): <em>оз-ӧ</em>
+
+### `ADJ`
+
+1 <tt><a href="kpv_lattice-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Clitic`.
+
+The most frequent other feature values with which `ADJ` and `Clitic` co-occurred: <tt><a href="kpv_lattice-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="kpv_lattice-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+
+`ADJ` tokens may have the following values of `Clitic`:
+
+* `O` (1; 100% of non-empty `Clitic`): <em>збыль-ӧ</em>
 
 ### `PRON`
 

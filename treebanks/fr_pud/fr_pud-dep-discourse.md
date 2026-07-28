@@ -29,7 +29,7 @@ The following 8 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	position	position	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
 7	de	de	ADP	IN	_	9	case	_	_
-8	l’	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No|wordform=l'
+8	l'	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
 9	Australie	Australie	PROPN	NNP	Gender=Fem|Number=Sing	6	nmod	_	_
 10	?	?	PUNCT	.	_	3	punct	_	_
 
@@ -50,7 +50,7 @@ The following 8 pairs of parts of speech are connected with `discourse`: <tt><a 
 6	ou	ou	CCONJ	CC	_	7	cc	_	_
 7	prépayé	prépayé	ADJ	JJ	Gender=Masc|Number=Sing	5	conj	_	_
 8	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	SpaceAfter=No
-9	-il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_
+9	-il	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_
 10	cher	cher	ADJ	JJ	Gender=Masc|Number=Sing	0	root	_	_
 11	?	?	PUNCT	.	_	10	punct	_	_
 

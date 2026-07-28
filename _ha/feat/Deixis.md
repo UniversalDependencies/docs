@@ -53,4 +53,4 @@ The remote deictic points to a referent outside the sight of the speakers. Its l
 
 <b>Reference</b>: Jaggar, Philip J. & Malami Buba. 1996. The Space and Time Adverbials nan/can in Hausa: Cracking the Deictic Code. In Petr Zima (ed.), _Proceedings of the Workshop on Space in Languages_, Prague 1995, 82–124.
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:55 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->

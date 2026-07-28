@@ -12,11 +12,9 @@ udver: '2'
 </tr>
 </table>
 
-Boolean feature of verbs ([VERB]() and [AUX]()), marking a word as
-being in connegative form.
+Boolean feature of verbs ([VERB]() and [AUX]()) marking a word as being in the connegative form.
 
-In Armenian negated conditional mood is formed of the auxiliary negative verb (*չեմ*) in present or imperfect tenses and the main verb, the latter of which typically appears in
-connegative form (traditionally called _negative participle_).
+In Armenian, negated conditional mood is formed of the negative auxiliary verb (*չեմ*) in the present or imperfect tenses and the main verb, which typically appears in the connegative form (traditionally called _negative participle_).
 
 Note that there is no `No` value. If the word is not connegative, the
 `Connegative` feature will not appear.
@@ -25,8 +23,8 @@ Note that there is no `No` value. If the word is not connegative, the
 
 #### Examples
 
-* _չեմ, չես, չի, չենք, չեք, չեն <b>գրի</b>_ “I; you; he/she/it; we; you; they will not <b>write</b>”,
-* _չէի, չէիր, չէր, չէինք, չէիք, չէին <b>ասի</b>_ “I; you; he/she/it; we; you; they would not <b>say</b>”,
-* _չեմ, չես, չի, չենք, չեք, չեն <b>կարդա</b>_ “I; you; he/she/it; we; you; they will not <b>read</b>”,
-* _չէի, չէիր, չէր, չէինք, չէիք, չէին <b>մոտենա</b>_ “I; you; he/she/it; we; you; they would not <b>approach</b>”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:08 CET -->
+* _չեմ, չես, չի, չենք, չեք, չեն <b>գրի</b>_/_čem, čes, či, čenk’, ček’, čen <b>gri</b>_ “I, you, he/she/it, we, you, they will not <b>write</b>”,
+* _չէի, չէիր, չէր, չէինք, չէիք, չէին <b>ասի</b>_՞ _čēi, čēir, čēr, čēink’, čēik’, čēin <b>asi</b>_ “I, you, he/she/it, we, you, they would not <b>say</b>”,
+* _չեմ, չես, չի, չենք, չեք, չեն <b>կարդա</b>_/_čem, čes, či, čenk’, ček’, čen <b>karda</b>_ “I, you, he/she/it, we, you, they will not <b>read</b>”,
+* _չէի, չէիր, չէր, չէինք, չէիք, չէին <b>մոտենա</b>_/_čēi, čēir, čēr, čēink’, čēik’, čēin <b>motena</b>_ “I, you, he/she/it, we, you, they would not <b>approach</b>”
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:48 CEST -->

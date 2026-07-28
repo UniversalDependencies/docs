@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-39 tokens (0%) have a non-empty value of `Typo`.
-36 types (0%) occur at least once with a non-empty value of `Typo`.
-34 lemmas (1%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 6 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+40 tokens (0%) have a non-empty value of `Typo`.
+37 types (0%) occur at least once with a non-empty value of `Typo`.
+35 lemmas (1%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 6 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (10; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `VERB`
 
@@ -28,19 +28,21 @@ The most frequent other feature values with which `VERB` and `Typo` co-occurred:
 
 ### `NOUN`
 
-9 <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+10 <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 78%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8; 80%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 70%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (9; 100% of non-empty `Typo`): <em>sus, Edition, bâtiment, conseil, donnée, gouvenement, matches, patient, personnel</em>
+* `Yes` (10; 100% of non-empty `Typo`): <em>Associations, Edition, bâtiment, conseil, donnée, gouvenement, matches, patient, personnel, sus</em>
+
+`Typo` seems to be **lexical feature** of `NOUN`. 100% lemmas (10) occur only with one value of `Typo`.
 
 ### `ADJ`
 
 5 <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 80%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 80%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 60%).
 
 `ADJ` tokens may have the following values of `Typo`:
 

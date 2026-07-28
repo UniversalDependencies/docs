@@ -8,77 +8,74 @@ udver: '2'
 
 This relation is universal.
 
-1189 nodes (3%) are attached to their parents as `amod`.
+1396 nodes (3%) are attached to their parents as `amod`.
 
-595 instances of `amod` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.22035323801514.
+731 instances of `amod` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.21060171919771.
 
-The following 8 pairs of parts of speech are connected with `amod`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1095; 92% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (51; 4% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (29; 2% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-DET.html">DET</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `amod`: <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1295; 93% instances), <tt><a href="pro_corag-pos-PRON.html">PRON</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (55; 4% instances), <tt><a href="pro_corag-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (29; 2% instances), <tt><a href="pro_corag-pos-ADV.html">ADV</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-DET.html">DET</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pro_corag-pos-NUM.html">NUM</a></tt>-<tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 amod	color:blue
-1	et	_	CCONJ	_	_	10	cc	_	_
-2	la	_	DET	_	_	4	det	_	_
-3	mesquina	_	ADJ	_	_	4	amod	_	_
-4	vepda	_	NOUN	_	_	10	nsubj	_	_
-5	que	_	PRON	_	_	7	nsubj	_	_
-6	no	_	ADV	_	_	7	advmod	_	_
-7	a	_	VERB	_	_	4	acl:relcl	_	_
-8	galina	_	NOUN	_	_	7	obj	_	_
-9	es	_	AUX	_	_	10	aux:pass	_	_
-10	despulhada	_	VERB	_	_	0	root	_	_
-11	de	_	ADP	_	_	12	case	_	_
-12	palli	_	NOUN	_	_	10	obl	_	SpaceAfter=No
-13	.	_	PUNCT	_	_	10	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 amod	color:blue
-1	et	_	CCONJ	_	_	2	cc	_	_
-2	aquero	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	0	root	_	_
-3	medix	_	ADJ	_	_	2	amod	_	_
-4	de	_	ADP	_	_	5	case	_	_
-5	quegs	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Dem	2	nmod	_	_
-6	qui	_	PRON	_	PronType=Rel	7	nsubj	_	_
-7	auran	_	VERB	_	Number=Plur|Person=3|VerbForm=Fin	5	acl:relcl	_	_
-8	batalhe	_	NOUN	_	_	7	obj	_	_
-9	de	_	ADP	_	_	10	case	_	_
-10	targue	_	NOUN	_	_	8	nmod	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	2	punct	_	_
+# visual-style 3 4 amod	color:blue
+1	Per	_	ADP	_	_	3	case	_	_
+2	lo	_	DET	_	_	3	det	_	_
+3	Rey	_	NOUN	_	_	0	root	_	_
+4	medeys	_	ADJ	_	_	3	amod	_	_
+5	et	_	CCONJ	_	_	7	cc	_	_
+6	lo	_	DET	_	_	7	det	_	_
+7	conselh	_	NOUN	_	_	3	conj	_	SpaceAfter=No
+8	.	_	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 amod	color:blue
-1	Aço	_	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	3	nsubj	_	_
-2	fo	_	AUX	_	Number=Sing|Person=3|VerbForm=Fin	3	aux:pass	_	_
-3	feit	_	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
-4	lo	_	DET	_	_	5	det	_	_
-5	dilus	_	NOUN	_	_	3	obl	_	_
-6	proxima	_	ADJ	_	_	5	amod	_	_
-7	davant	_	ADP	_	_	9	case	_	_
-8	la	_	DET	_	_	9	det	_	_
-9	festa	_	NOUN	_	_	3	obl	_	_
-10	de	_	ADP	_	_	12	case	_	_
-11	Sent	_	ADJ	_	_	12	amod	_	_
-12	Clemente	_	PROPN	_	_	9	nmod	_	SpaceAfter=No
-13	.	_	PUNCT	_	_	3	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 amod	color:blue
+1	e	_	CCONJ	_	_	11	cc	_	_
+2	si-	_	SCONJ	_	_	4	mark	_	_
+3	-no	_	ADV	_	Polarity=Neg	4	advmod	_	_
+4	pod	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	11	advcl	_	_
+5	lui	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obj	_	_
+6	aver	_	VERB	_	VerbForm=Inf	4	xcomp	_	_
+7	a	_	ADP	_	_	8	case	_	_
+8	dret	_	NOUN	_	_	6	obl	_	_
+9	ed	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	_
+10	medix	_	ADJ	_	_	9	amod	_	_
+11	fase	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+12	so	_	PRON	_	Gender=Neut|Number=Sing|PronType=Dem	11	obj	_	_
+13	que	_	PRON	_	PronType=Rel	16	obj	_	_
+14	ed	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
+15	deu	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	12	acl:relcl	_	_
+16	far	_	VERB	_	VerbForm=Inf	15	xcomp	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	11	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 amod	color:blue
+1	Sober	_	ADP	_	_	3	case	_	_
+2	lo	_	DET	_	_	3	det	_	_
+3	pleyt	_	NOUN	_	_	0	root	_	_
+4	de	_	ADP	_	_	6	case	_	_
+5	Sent	_	ADJ	_	_	6	amod	_	_
+6	Polit	_	PROPN	_	_	3	nmod	_	_
+7	de	_	ADP	_	_	8	case	_	_
+8	Ossau	_	PROPN	_	_	6	nmod	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

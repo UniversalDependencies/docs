@@ -85,14 +85,14 @@ The following 19 pairs of parts of speech are connected with `advmod`: <tt><a hr
 5	ⲫ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Entity=(person
 6	ⲛⲟⲩϯ	ⲛⲟⲩϯ	NOUN	N	_	2	nmod	_	Entity=person)place)
 7	ⲛ	ⲛ	ADV	NEG	Polarity=Neg	12	advmod	_	_
-8	ⲁ	ⲁⲣⲉ	PART	CFOC	_	12	mark	_	_
+8	ⲁ	ⲁⲣⲉ	PART	CFOC	Emph=Yes	12	mark	_	_
 9	ⲥ	ⲛⲑⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
 10	ϧⲉⲛ	ϧⲉⲛ	ADP	PREP	_	12	case	_	_
 11	ⲡ	ⲡ	DET	ART	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	Entity=(abstract
 12	ⲥⲁϫⲓ	ⲥⲁϫⲓ	NOUN	N	_	0	root	_	Entity=abstract)
 13	ⲁⲛ	ⲁⲛ	ADV	NEG	Polarity=Neg	12	advmod	_	_
 14	ⲁⲗⲗⲁ	ⲁⲗⲗⲁ	CCONJ	CONJ	Foreign=Yes	19	cc	_	OrigLang=grc
-15	ⲁ	ⲁⲣⲉ	PART	CFOC	_	19	mark	_	_
+15	ⲁ	ⲁⲣⲉ	PART	CFOC	Emph=Yes	19	mark	_	_
 16	ⲥ	ⲛⲑⲟⲥ	PRON	PPERS	Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	nsubj	_	_
 17	ϧⲉⲛ	ϧⲉⲛ	VERB	V	Mood=Ind|VerbForm=Fin	19	case	_	_
 18	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	19	det	_	Entity=(abstract

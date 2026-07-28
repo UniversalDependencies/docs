@@ -1,92 +1,93 @@
 ---
 layout: base
-title:  'Statistics of ADJ in UD_Egyptian-UJaen'
+title:  'Statistics of ADJ in UD_Egyptian-PC'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Egyptian-UJaen: POS Tags: `ADJ`
+## Treebank Statistics: UD_Egyptian-PC: POS Tags: `ADJ`
 
-There are 80 `ADJ` lemmas (4%), 167 `ADJ` types (5%) and 943 `ADJ` tokens (4%).
+There are 87 `ADJ` lemmas (4%), 205 `ADJ` types (5%) and 1315 `ADJ` tokens (4%).
 Out of 16 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 4 in number of types and 6 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: <em>n, m, nb, wr, ḥr, ḫnt, ꞽꜣb.t, ꜥꜣ, ẖr, ḥč̣</em>
+The 10 most frequent `ADJ` lemmas: <em>n, m, wr, nb, ꜥꜣ, ḥr, ꞽꜣb.t, ḫnt, r, ṭp</em>
 
-The 10 most frequent `ADJ` types:  <em>n(.ꞽ), ꞽm(.ꞽ), wr, nb, n.t, ꞽm.t, wr.t, ꞽm.(ꞽ)w, ḫnt(.ꞽ), nb(.t)</em>
+The 10 most frequent `ADJ` types:  <em>n(.ꞽ), ꞽm(.ꞽ), wr, wr.t, nb, ꞽm.t, n.t, ḥr(.ꞽ), ꞽm.(ꞽ)w, nb(.t)</em>
 
-The 10 most frequent ambiguous lemmas: <em>n</em> (<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> 940, <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 358, <tt><a href="egy_ujaen-pos-SCONJ.html">SCONJ</a></tt> 14, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> 2), <em>m</em> (<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> 1117, <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 137, <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 104, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 67, <tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> 23, <tt><a href="egy_ujaen-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> 4), <em>nb</em> (<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 85, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 57), <em>wr</em> (<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 69, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> 2), <em>ḥr</em> (<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> 166, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 120, <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 28), <em>ḫnt</em> (<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 20, <tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> 17, <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 3), <em>ꞽꜣb.t</em> (<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 21, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 7), <em>ꜥꜣ</em> (<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 32, <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> 1), <em>ẖr</em> (<tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> 25, <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 16, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 8), <em>ḥč̣</em> (<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 5)
+The 10 most frequent ambiguous lemmas: <em>n</em> (<tt><a href="egy_pc-pos-ADP.html">ADP</a></tt> 1278, <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 461, <tt><a href="egy_pc-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="egy_pc-pos-X.html">X</a></tt> 8, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 2), <em>m</em> (<tt><a href="egy_pc-pos-ADP.html">ADP</a></tt> 1537, <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 140, <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 133, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 85, <tt><a href="egy_pc-pos-PART.html">PART</a></tt> 30, <tt><a href="egy_pc-pos-SCONJ.html">SCONJ</a></tt> 12, <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="egy_pc-pos-X.html">X</a></tt> 2, <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> 1), <em>wr</em> (<tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 128, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 66, <tt><a href="egy_pc-pos-ADV.html">ADV</a></tt> 2), <em>nb</em> (<tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 108, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 68, <tt><a href="egy_pc-pos-X.html">X</a></tt> 10), <em>ꜥꜣ</em> (<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 74, <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 43, <tt><a href="egy_pc-pos-ADV.html">ADV</a></tt> 2), <em>ḥr</em> (<tt><a href="egy_pc-pos-ADP.html">ADP</a></tt> 268, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 166, <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 40, <tt><a href="egy_pc-pos-SCONJ.html">SCONJ</a></tt> 1, <tt><a href="egy_pc-pos-X.html">X</a></tt> 1), <em>ꞽꜣb.t</em> (<tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 36, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 10), <em>ḫnt</em> (<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 51, <tt><a href="egy_pc-pos-ADP.html">ADP</a></tt> 35, <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt> 8, <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 2), <em>r</em> (<tt><a href="egy_pc-pos-ADP.html">ADP</a></tt> 717, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 36, <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 25, <tt><a href="egy_pc-pos-SCONJ.html">SCONJ</a></tt> 6, <tt><a href="egy_pc-pos-X.html">X</a></tt> 3), <em>ṭp</em> (<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 115, <tt><a href="egy_pc-pos-ADP.html">ADP</a></tt> 58, <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 21, <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 2)
 
-The 10 most frequent ambiguous types:  <em>n(.ꞽ)</em> (<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 302, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 7), <em>ꞽm(.ꞽ)</em> (<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 48, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 37), <em>wr</em> (<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 40, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 15, <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 9, <tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> 2), <em>nb</em> (<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 40, <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 35), <em>n.t</em> (<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 5), <em>ꞽm.t</em> (<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 26, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 6), <em>wr.t</em> (<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 25, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 4), <em>ꞽm.(ꞽ)w</em> (<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 19, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 17), <em>ḫnt(.ꞽ)</em> (<tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 6), <em>ḥr(.ꞽ)</em> (<tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 13, <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 12)
+The 10 most frequent ambiguous types:  <em>n(.ꞽ)</em> (<tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 391, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 1), <em>ꞽm(.ꞽ)</em> (<tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 62, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 38), <em>wr</em> (<tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 59, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 25, <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 10, <tt><a href="egy_pc-pos-ADV.html">ADV</a></tt> 2), <em>wr.t</em> (<tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 57, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="egy_pc-pos-ADV.html">ADV</a></tt> 1), <em>nb</em> (<tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 52, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 49), <em>ꞽm.t</em> (<tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 36, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 7), <em>n.t</em> (<tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 35, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 5), <em>ḥr(.ꞽ)</em> (<tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 22, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 16), <em>ꞽm.(ꞽ)w</em> (<tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 24, <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 21), <em>n.(ꞽ)w</em> (<tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>n(.ꞽ)</em>
-  * <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 302: <em>rʾ ⸗k rʾ <b>n(.ꞽ)</b> bḥs ꞽr(č).t hrw mś(.w) ⸗f ꞽm | bṭ Mḥ.w čꜣ 5 Š.t p.t</em>
-  * <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 7: <em><b>n(.ꞽ)</b> č̣.t ⸗k (ꞽ)ḫ.(w)t nb(.wt)</em>
+  * <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 391: <em>Ḥr.w ꞽ:wn rʾ <b>n(.ꞽ)</b> Ppy pn</em>
+  * <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 1: <em>ꜥḥꜥ śn ⸗k ḥꜣ ⸗k ꜥḥꜥ <b>n(.ꞽ)</b> ś(w) ⸗k ḥꜣ ⸗k</em>
 * <em>ꞽm(.ꞽ)</em>
-  * <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 48: <em>ḥtp n ⸗k Rꜥw <b>ꞽm(.ꞽ)</b> p.t</em>
-  * <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 37: <em>m rn ⸗k <b>ꞽm(.ꞽ)</b> Ꞽwn.w nč̣ṭnč̣ṭ ⸗f m č̣ṭ(ꞽ).t ⸗f</em>
+  * <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 62: <em>č̣(ṭ) mṭw Ḥr.w <b>ꞽm(.ꞽ)</b> Wśr(.w) Ppy ḥtm(.w) ⸗k m ꞽr.t Ḥr.w</em>
+  * <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 38: <em>m rn ⸗k <b>ꞽm(.ꞽ)</b> Ꞽwn.w nč̣ṭnč̣ṭ ⸗f m č̣ṭ(ꞽ).t ⸗f</em>
 * <em>wr</em>
-  * <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 40: <em>ꞽw.n ⸗f ḫr ⸗k ꞽt(ꞽ) ⸗f [ꞽ]w.n ⸗f ḫr ⸗k Śmꜣ <b>wr</b></em>
-  * <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 15: <em><b>wr</b> ꞽt(ꞽ) (⸗ꞽ) pč̣ čw m rn ⸗k pꜣč̣</em>
-  * <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> 9: <em><b>wr</b> ⸗čn nb.w</em>
-  * <tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> 2: <em>[...] ḫrp sḥ n(.ꞽ) Rꜥw śmś.w ꞽs.t n(.ꞽ) Ptḥ č̣i̯ <⸗k> n Ttꞽ <b>wr</b> [...] [m] ꞽ(w)f ⸗f</em>
-* <em>nb</em>
-  * <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 40: <em>ṭwꜣ.w ⸗k n Wnꞽś <b>nb</b> (ꞽ)ḫ.t nb(.t)</em>
-  * <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 35: <em>č̣wꞽ ⸗k kꜣ ⸗k Wśr(.w) ꞽś ḫw ⸗f kw m ꜥw č̣nṭ <b>nb</b> n.ꞽ m(w)t</em>
-* <em>n.t</em>
-  * <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 30: <em>Wśr(.w) Wnꞽś m n ⸗k ꞽr.t Ḥr.w pꜣ.t ⸗k wnm ⸗k | pꜣ.t <b>n.t</b> wṭn</em>
-  * <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 5: <em>ꞽr.t Ḥr.w ꞽm.t ḥw.(w)t <b>n.t</b> m ḥtp</em>
-* <em>ꞽm.t</em>
-  * <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 26: <em>ꞽr.t Ḥr.w <b>ꞽm.t</b> Ṭp m ḥtp</em>
-  * <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 6: <em><b>ꞽm.t</b> ḥꜣ.t Ḥr.w čn(ꞽ) ꞽ:wn ⸗č</em>
+  * <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 59: <em>sḫs n ⸗k śꜣ.w Pr <b>wr</b> rw n ⸗k Pr nsr</em>
+  * <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 25: <em>č̣(ṭ) mṭw ꞽm ꞽr.t(ꞽ) <b>wr</b> pn Wśr(.w) Ppy Nfr kꜣ Rꜥw</em>
+  * <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> 10: <em><b>wr</b> ⸗čn nb.w</em>
+  * <tt><a href="egy_pc-pos-ADV.html">ADV</a></tt> 2: <em>[...] ḫrp sḥ n(.ꞽ) Rꜥw śmś.w ꞽs.t n(.ꞽ) Ptḥ ꞽmi̯ n Ttꞽ <b>wr</b> [...] [m] ꞽ(w)f ⸗f</em>
 * <em>wr.t</em>
-  * <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 25: <em>nꞽ šsp(.w) hm.t ⸗f ḥr mẖn.t <b>wr.t</b></em>
-  * <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 4: <em>č̣(ṭ) mṭw Nw.t pr.n ꞽr.t(ꞽ) m ṭp ⸗č ꞽč.n ⸗č Ḥr.w <b>wr.t</b> ⸗f ḥkꜣ(.w) ꞽśč ꞽč.n ⸗č Śtẖ <b>wr.t</b> ⸗f ḥkꜣ(.w) ꞽśč</em>
-* <em>ꞽm.(ꞽ)w</em>
-  * <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 19: <em>rś.(ꞽ)w <b>ꞽm.(ꞽ)w</b> tꜣ n Wnꞽś pn</em>
-  * <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 17: <em><b>ꞽm.(ꞽ)w</b> nn.t n Wnꞽś pn</em>
-* <em>ḫnt(.ꞽ)</em>
-  * <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 14: <em>wp ⸗č wꜣ.t ⸗f ḫnt ꜣḫ(.w) ꜥḥꜥ ⸗f ḫnt ꜣḫ(.w) Ꞽnp.w ꞽś <b>ḫnt(.ꞽ)</b> ꞽmn.t(ꞽ)w</em>
-  * <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 6: <em><b>ḫnt(.ꞽ)</b> ḳꜣ.t ꞽmn.t(ꞽ)t ꞽp ⸗f ꞽb(.w) śḫm ⸗f m ḥꜣ.t(ꞽw)</em>
+  * <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 57: <em>mś.n čw (Ꞽ)ḫ.t <b>wr.t</b> ś:škr.n čw (Ꞽ)ḫ.t wt.t</em>
+  * <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 2: <em>č̣(ṭ) mṭw Nw.t pr.n ꞽr.t(ꞽ) m ṭp ⸗č ꞽč.n ⸗č Ḥr.w <b>wr.t</b> ⸗f ḥkꜣ(.w) ꞽśč ꞽč.n ⸗č Śtẖ <b>wr.t</b> ⸗f ḥkꜣ(.w) ꞽśč</em>
+  * <tt><a href="egy_pc-pos-ADV.html">ADV</a></tt> 1: <em>č̣(ṭ) mṭw č̣ṭ(.w) ḳꜣ.ꞽ <b>wr.t</b> m m śbꜣ(.w) ꞽ:ḫm.w śk.ꞽ nꞽ śk ⸗k č̣.t</em>
+* <em>nb</em>
+  * <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 52: <em>ꞽč ⸗č n ⸗f <ꞽḫ.t> <nb.t> r bw <b>nb</b> mrr ꞽb ⸗f ꞽm</em>
+  * <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 49: <em>śčp (ꞽ)r ⸗f Ppy Nfr kꜣ Rꜥw ꞽr p.t ꞽr č̣bꜥ(.wꞽ) nčr <b>nb</b> mꜣḳ.t |</em>
+* <em>ꞽm.t</em>
+  * <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 36: <em>šsp Ppy Nfr kꜣ Rꜥw ś.t ⸗f <b>ꞽm.t</b> ḳbḥ.w</em>
+  * <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 7: <em><b>ꞽm.t</b> ḥꜣ.t Ḥr.w čn(ꞽ) ꞽ:wn ⸗č</em>
+* <em>n.t</em>
+  * <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 35: <em>č̣(ṭ) mṭw Wśr(.w) Ppy Nfr kꜣ Rꜥw ꞽr.t tn tw <b>n.t</b> Ḥr.w ṭbḥ.tn ⸗f m ꜥw Śtẖ</em>
+  * <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 5: <em>ꞽr.t Ḥr.w ꞽm.t ḥw.(w)t <b>n.t</b> m ḥtp</em>
 * <em>ḥr(.ꞽ)</em>
-  * <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> 13: <em>wč̣ św Rꜥw n <b>ḥr(.ꞽ)</b> śnm(.w) n(.ꞽ) rnp.t tn</em>
-  * <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> 12: <em>ꞽꞽ r ⸗f Wnꞽś pn ꜣḫ ꞽ:ḫm śk(.w) ṭwꜣ ꞽś <b>ḥr(.ꞽ)</b> Ḥ(ꜥ)p(ꞽ)</em>
+  * <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 22: <em>č̣św n ⸗k M(ꞽ)n.t wr.t mr ꜥḥꜥ nꞽ wrč̣.n ⸗f <b>ḥr(.ꞽ)</b> ꞽb Ꜣbč̣.w</em>
+  * <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 16: <em>wč̣ św Rꜥw n <b>ḥr(.ꞽ)</b> śnm(.w) n(.ꞽ) rnp.t tn</em>
+* <em>ꞽm.(ꞽ)w</em>
+  * <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 24: <em><b>ꞽm.(ꞽ)w</b> nn.t n Wnꞽś pn</em>
+  * <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 21: <em>č̣(ṭ) mṭw Wśr(.w) Ppy Nfr kꜣ Rꜥw ꞽm mw <b>ꞽm.(ꞽ)w</b> ⸗k</em>
+* <em>n.(ꞽ)w</em>
+  * <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> 18: <em>mw <b>n.(ꞽ)w</b> Wnꞽś m ꞽrp mr Rꜥw</em>
+  * <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> 1: <em>mr.n św Ḥr.w ꞽr mśy.t ⸗f smꜣ.n ⸗k ḥnꜥ <b>n.(ꞽ)w</b> ẖ.t ⸗f mr.n ⸗śn čw</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 2.087500 (the average of all parts of speech is 1.667992).
+The form / lemma ratio of `ADJ` is 2.356322 (the average of all parts of speech is 1.926618).
 
-The 1st highest number of forms (11) was observed with the lemma “m”: <em>(ꞽ)m(.ꞽ), (ꞽ)m.t, [ꞽm.](ꞽ)[w], [ꞽm.t], [ꞽm].t, ꞽm(.ꞽ), ꞽm(.ꞽw), ꞽm.(w)t, ꞽm.(ꞽ)w, ꞽm.(ꞽw)t, ꞽm.t</em>.
+The 1st highest number of forms (12) was observed with the lemma “m”: <em>(ꞽ)m(.ꞽ), (ꞽ)m.t, [ꞽm.(ꞽ)w], [ꞽm.t], [ꞽm].t, ꞽm(.ꞽ), ꞽm(.ꞽw), ꞽm.(w)t, ꞽm.(ꞽ)w, ꞽm.(ꞽw)t, ꞽm.t, ꞽm.tꞽ</em>.
 
-The 2nd highest number of forms (10) was observed with the lemma “nb”: <em><nb.t>, [nb(.t)], [nb], nb, nb(.t), nb(.w), nb(.wt), nb.t, nb.w, nb<.t></em>.
+The 2nd highest number of forms (9) was observed with the lemma “nb”: <em><nb.t>, [nb(.t)], [nb], nb, nb(.t), nb(.w), nb(.wt), nb.t, nb.w</em>.
 
-The 3rd highest number of forms (7) was observed with the lemma “n”: <em>[n(.ꞽ)], [n.t], n(.t), n(.ꞽ), n.(ꞽ)w, n.t, n.ꞽ</em>.
+The 3rd highest number of forms (8) was observed with the lemma “n”: <em>[n(.ꞽ)], [n.t], n(.t), n(.ꞽ), n.(ꞽ)w, n.t, n.ꞽ, ˹n˺(.ꞽ)</em>.
 
-`ADJ` occurs with 12 features: <tt><a href="egy_ujaen-feat-Number.html">Number</a></tt> (943; 100% instances), <tt><a href="egy_ujaen-feat-Gender.html">Gender</a></tt> (942; 100% instances), <tt><a href="egy_ujaen-feat-Case.html">Case</a></tt> (501; 53% instances), <tt><a href="egy_ujaen-feat-VerbClass.html">VerbClass</a></tt> (22; 2% instances), <tt><a href="egy_ujaen-feat-Tense.html">Tense</a></tt> (20; 2% instances), <tt><a href="egy_ujaen-feat-VerbForm.html">VerbForm</a></tt> (20; 2% instances), <tt><a href="egy_ujaen-feat-Voice.html">Voice</a></tt> (20; 2% instances), <tt><a href="egy_ujaen-feat-Poss.html">Poss</a></tt> (13; 1% instances), <tt><a href="egy_ujaen-feat-Polarity.html">Polarity</a></tt> (12; 1% instances), <tt><a href="egy_ujaen-feat-Prefix.html">Prefix</a></tt> (12; 1% instances), <tt><a href="egy_ujaen-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-feat-Nominal.html">Nominal</a></tt> (1; 0% instances)
+`ADJ` occurs with 14 features: <tt><a href="egy_pc-feat-Gender.html">Gender</a></tt> (1313; 100% instances), <tt><a href="egy_pc-feat-Number.html">Number</a></tt> (1313; 100% instances), <tt><a href="egy_pc-feat-Nisba.html">Nisba</a></tt> (864; 66% instances), <tt><a href="egy_pc-feat-Case.html">Case</a></tt> (643; 49% instances), <tt><a href="egy_pc-feat-VerbClass.html">VerbClass</a></tt> (19; 1% instances), <tt><a href="egy_pc-feat-Tense.html">Tense</a></tt> (16; 1% instances), <tt><a href="egy_pc-feat-VerbForm.html">VerbForm</a></tt> (16; 1% instances), <tt><a href="egy_pc-feat-Poss.html">Poss</a></tt> (15; 1% instances), <tt><a href="egy_pc-feat-Voice.html">Voice</a></tt> (14; 1% instances), <tt><a href="egy_pc-feat-Polarity.html">Polarity</a></tt> (12; 1% instances), <tt><a href="egy_pc-feat-Prefix.html">Prefix</a></tt> (12; 1% instances), <tt><a href="egy_pc-feat-Nominal.html">Nominal</a></tt> (5; 0% instances), <tt><a href="egy_pc-feat-ExtPos.html">ExtPos</a></tt> (1; 0% instances), <tt><a href="egy_pc-feat-NameType.html">NameType</a></tt> (1; 0% instances)
 
-`ADJ` occurs with 23 feature-value pairs: `Case=Dis`, `Case=Equ`, `Case=Gen`, `Case=Loc`, `Case=Sub`, `Case=Sup`, `ExtPos=ADJ`, `Gender=Fem`, `Gender=Masc`, `Nominal=Yes`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Polarity=Neg`, `Poss=Yes`, `Prefix=Yodh`, `Tense=Past`, `Tense=Pres`, `VerbClass=2lit`, `VerbClass=3aeinf`, `VerbClass=3lit`, `VerbForm=Part`, `Voice=Act`
+`ADJ` occurs with 27 feature-value pairs: `Case=Dis`, `Case=Equ`, `Case=Gen`, `Case=Loc`, `Case=Sub`, `ExtPos=ADJ`, `Gender=Fem`, `Gender=Masc`, `NameType=Epith`, `Nisba=DeNom`, `Nisba=DePrep`, `Nominal=Yes`, `Number=Dual`, `Number=Plur`, `Number=Sing`, `Polarity=Neg`, `Poss=Yes`, `Prefix=Yodh`, `Tense=Fut`, `Tense=Past`, `Tense=Pres`, `VerbClass=2lit`, `VerbClass=3aeinf`, `VerbClass=3lit`, `VerbForm=Part`, `Voice=Act`, `Voice=Pass`
 
-`ADJ` occurs with 34 feature combinations.
-The most frequent feature combination is `Case=Gen|Gender=Masc|Number=Sing` (304 tokens).
-Examples: <em>n(.ꞽ), [n(.ꞽ)], n.ꞽ</em>
+`ADJ` occurs with 45 feature combinations.
+The most frequent feature combination is `Case=Gen|Gender=Masc|Nisba=DePrep|Number=Sing` (385 tokens).
+Examples: <em>n(.ꞽ), [n(.ꞽ)], n.ꞽ, ˹n˺(.ꞽ)</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 12 different relations: <tt><a href="egy_ujaen-dep-amod.html">amod</a></tt> (840; 89% instances), <tt><a href="egy_ujaen-dep-root.html">root</a></tt> (33; 3% instances), <tt><a href="egy_ujaen-dep-compound.html">compound</a></tt> (27; 3% instances), <tt><a href="egy_ujaen-dep-flat.html">flat</a></tt> (22; 2% instances), <tt><a href="egy_ujaen-dep-conj.html">conj</a></tt> (8; 1% instances), <tt><a href="egy_ujaen-dep-ccomp.html">ccomp</a></tt> (3; 0% instances), <tt><a href="egy_ujaen-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="egy_ujaen-dep-nmod-poss.html">nmod:poss</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-dep-list.html">list</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-dep-obj.html">obj</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 15 different relations: <tt><a href="egy_pc-dep-amod.html">amod</a></tt> (1138; 87% instances), <tt><a href="egy_pc-dep-compound.html">compound</a></tt> (51; 4% instances), <tt><a href="egy_pc-dep-flat-name.html">flat:name</a></tt> (42; 3% instances), <tt><a href="egy_pc-dep-root.html">root</a></tt> (38; 3% instances), <tt><a href="egy_pc-dep-conj.html">conj</a></tt> (16; 1% instances), <tt><a href="egy_pc-dep-fixed.html">fixed</a></tt> (13; 1% instances), <tt><a href="egy_pc-dep-ccomp-speech.html">ccomp:speech</a></tt> (6; 0% instances), <tt><a href="egy_pc-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="egy_pc-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="egy_pc-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="egy_pc-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-list.html">list</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 8 different parts of speech: <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (763; 81% instances), <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> (116; 12% instances),  (33; 3% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (17; 2% instances), <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Parents of `ADJ` nodes belong to 9 different parts of speech: <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> (1052; 80% instances), <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt> (157; 12% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> (45; 3% instances),  (38; 3% instances), <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> (15; 1% instances), <tt><a href="egy_pc-pos-X.html">X</a></tt> (4; 0% instances), <tt><a href="egy_pc-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="egy_pc-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-334 (35%) `ADJ` nodes are leaves.
+508 (39%) `ADJ` nodes are leaves.
 
-552 (59%) `ADJ` nodes have one child.
+732 (56%) `ADJ` nodes have one child.
 
-42 (4%) `ADJ` nodes have two children.
+55 (4%) `ADJ` nodes have two children.
 
-15 (2%) `ADJ` nodes have three or more children.
+20 (2%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 5.
 
-Children of `ADJ` nodes are attached using 19 different relations: <tt><a href="egy_ujaen-dep-obl.html">obl</a></tt> (567; 83% instances), <tt><a href="egy_ujaen-dep-nsubj.html">nsubj</a></tt> (38; 6% instances), <tt><a href="egy_ujaen-dep-discourse.html">discourse</a></tt> (19; 3% instances), <tt><a href="egy_ujaen-dep-conj.html">conj</a></tt> (14; 2% instances), <tt><a href="egy_ujaen-dep-compound.html">compound</a></tt> (13; 2% instances), <tt><a href="egy_ujaen-dep-advcl.html">advcl</a></tt> (8; 1% instances), <tt><a href="egy_ujaen-dep-parataxis.html">parataxis</a></tt> (6; 1% instances), <tt><a href="egy_ujaen-dep-amod.html">amod</a></tt> (3; 0% instances), <tt><a href="egy_ujaen-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="egy_ujaen-dep-vocative.html">vocative</a></tt> (3; 0% instances), <tt><a href="egy_ujaen-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="egy_ujaen-dep-nmod-poss.html">nmod:poss</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-dep-punct.html">punct</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-dep-flat.html">flat</a></tt> (1; 0% instances), <tt><a href="egy_ujaen-dep-nmod.html">nmod</a></tt> (1; 0% instances)
+Children of `ADJ` nodes are attached using 31 different relations: <tt><a href="egy_pc-dep-obl-nisba.html">obl:nisba</a></tt> (627; 69% instances), <tt><a href="egy_pc-dep-obl.html">obl</a></tt> (108; 12% instances), <tt><a href="egy_pc-dep-nsubj.html">nsubj</a></tt> (42; 5% instances), <tt><a href="egy_pc-dep-conj.html">conj</a></tt> (26; 3% instances), <tt><a href="egy_pc-dep-compound-a.html">compound:a</a></tt> (15; 2% instances), <tt><a href="egy_pc-dep-discourse.html">discourse</a></tt> (15; 2% instances), <tt><a href="egy_pc-dep-compound.html">compound</a></tt> (14; 2% instances), <tt><a href="egy_pc-dep-advcl.html">advcl</a></tt> (8; 1% instances), <tt><a href="egy_pc-dep-parataxis.html">parataxis</a></tt> (7; 1% instances), <tt><a href="egy_pc-dep-appos.html">appos</a></tt> (6; 1% instances), <tt><a href="egy_pc-dep-amod.html">amod</a></tt> (5; 1% instances), <tt><a href="egy_pc-dep-punct.html">punct</a></tt> (4; 0% instances), <tt><a href="egy_pc-dep-vocative.html">vocative</a></tt> (4; 0% instances), <tt><a href="egy_pc-dep-acl.html">acl</a></tt> (3; 0% instances), <tt><a href="egy_pc-dep-advmod-neg.html">advmod:neg</a></tt> (3; 0% instances), <tt><a href="egy_pc-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="egy_pc-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="egy_pc-dep-nmod-poss.html">nmod:poss</a></tt> (3; 0% instances), <tt><a href="egy_pc-dep-xcomp.html">xcomp</a></tt> (3; 0% instances), <tt><a href="egy_pc-dep-advcl-tcl.html">advcl:tcl</a></tt> (2; 0% instances), <tt><a href="egy_pc-dep-csubj.html">csubj</a></tt> (2; 0% instances), <tt><a href="egy_pc-dep-expl.html">expl</a></tt> (2; 0% instances), <tt><a href="egy_pc-dep-advcl-purp.html">advcl:purp</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-dislocated-nsubj.html">dislocated:nsubj</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-flat-name.html">flat:name</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-nmod-nisba.html">nmod:nisba</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-obl-arg.html">obl:arg</a></tt> (1; 0% instances), <tt><a href="egy_pc-dep-reparandum.html">reparandum</a></tt> (1; 0% instances)
 
-Children of `ADJ` nodes belong to 12 different parts of speech: <tt><a href="egy_ujaen-pos-NOUN.html">NOUN</a></tt> (343; 50% instances), <tt><a href="egy_ujaen-pos-PROPN.html">PROPN</a></tt> (213; 31% instances), <tt><a href="egy_ujaen-pos-VERB.html">VERB</a></tt> (55; 8% instances), <tt><a href="egy_ujaen-pos-PRON.html">PRON</a></tt> (34; 5% instances), <tt><a href="egy_ujaen-pos-INTJ.html">INTJ</a></tt> (14; 2% instances), <tt><a href="egy_ujaen-pos-ADJ.html">ADJ</a></tt> (9; 1% instances), <tt><a href="egy_ujaen-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="egy_ujaen-pos-PART.html">PART</a></tt> (3; 0% instances), <tt><a href="egy_ujaen-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="egy_ujaen-pos-X.html">X</a></tt> (2; 0% instances)
+Children of `ADJ` nodes belong to 12 different parts of speech: <tt><a href="egy_pc-pos-NOUN.html">NOUN</a></tt> (455; 50% instances), <tt><a href="egy_pc-pos-PROPN.html">PROPN</a></tt> (286; 31% instances), <tt><a href="egy_pc-pos-VERB.html">VERB</a></tt> (74; 8% instances), <tt><a href="egy_pc-pos-PRON.html">PRON</a></tt> (43; 5% instances), <tt><a href="egy_pc-pos-ADJ.html">ADJ</a></tt> (15; 2% instances), <tt><a href="egy_pc-pos-NUM.html">NUM</a></tt> (11; 1% instances), <tt><a href="egy_pc-pos-INTJ.html">INTJ</a></tt> (9; 1% instances), <tt><a href="egy_pc-pos-PART.html">PART</a></tt> (7; 1% instances), <tt><a href="egy_pc-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="egy_pc-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="egy_pc-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="egy_pc-pos-ADV.html">ADV</a></tt> (2; 0% instances)
 

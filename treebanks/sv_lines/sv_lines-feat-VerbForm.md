@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fin`, `Inf`, `Part`, `Sup`.
 
-18269 tokens (18%) have a non-empty value of `VerbForm`.
-4063 types (26%) occur at least once with a non-empty value of `VerbForm`.
-2321 lemmas (21%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (12387; 12% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (4884; 5% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (955; 1% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (43; 0% instances).
+18270 tokens (18%) have a non-empty value of `VerbForm`.
+4064 types (26%) occur at least once with a non-empty value of `VerbForm`.
+2322 lemmas (21%) occur at least once with a non-empty value of `VerbForm`.
+The feature is used with 4 part-of-speech tags: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (12387; 12% instances), <tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (4884; 5% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (956; 1% instances), <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (43; 0% instances).
 
 ### `VERB`
 
@@ -66,16 +66,16 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 ### `ADJ`
 
-955 <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+956 <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> tokens (13% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (943; 99%), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (918; 96%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (666; 70%), <tt><a href="sv_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (542; 57%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (510; 53%).
+The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="sv_lines-feat-Case.html">Case</a></tt><tt>=Nom</tt> (943; 99%), <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (919; 96%), <tt><a href="sv_lines-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (667; 70%), <tt><a href="sv_lines-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (542; 57%), <tt><a href="sv_lines-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (511; 53%).
 
 `ADJ` tokens may have the following values of `VerbForm`:
 
-* `Part` (955; 100% of non-empty `VerbForm`): <em>följande, taget, flyttade, intresserad, leende, dolda, lysande, motsvarande, strålande, beredd</em>
-* `EMPTY` (6200): <em>andra, själv, hela, samma, första, annat, många, enda, stor, flera</em>
+* `Part` (956; 100% of non-empty `VerbForm`): <em>följande, taget, flyttade, intresserad, leende, dolda, lysande, motsvarande, strålande, beredd</em>
+* `EMPTY` (6202): <em>andra, själv, hela, samma, första, annat, många, enda, stor, flera</em>
 
-`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (639) occur only with one value of `VerbForm`.
+`VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (640) occur only with one value of `VerbForm`.
 
 ### `ADV`
 
@@ -86,7 +86,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Part` (43; 100% of non-empty `VerbForm`): <em>förfärande, uteslutande, ingående, skrattande, svävande, ursäktande, detaljerat, dragande, frågande, frånvarande</em>
-* `EMPTY` (7713): <em>så, där, ut, upp, in, bara, hur, här, också, nu</em>
+* `EMPTY` (7710): <em>så, där, ut, upp, in, bara, hur, här, också, nu</em>
 
 `VerbForm` seems to be **lexical feature** of `ADV`. 100% lemmas (35) occur only with one value of `VerbForm`.
 

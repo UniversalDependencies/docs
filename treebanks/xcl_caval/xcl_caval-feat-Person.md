@@ -11,21 +11,21 @@ It occurs with 3 different values: `1`, `2`, `3`.
 
 18123 tokens (18%) have a non-empty value of `Person`.
 3007 types (33%) occur at least once with a non-empty value of `Person`.
-652 lemmas (17%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (11508; 12% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (3422; 3% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (2581; 3% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (612; 1% instances).
+650 lemmas (17%) occur at least once with a non-empty value of `Person`.
+The feature is used with 4 part-of-speech tags: <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> (11507; 12% instances), <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> (3419; 3% instances), <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> (2582; 3% instances), <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> (615; 1% instances).
 
 ### `VERB`
 
-11508 <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Person`.
+11507 <tt><a href="xcl_caval-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11507; 100%), <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11507; 100%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8594; 75%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7657; 67%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6859; 60%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5798; 50%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="xcl_caval-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (11506; 100%), <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (11506; 100%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (8594; 75%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7657; 67%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6858; 60%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (5798; 50%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `1` (1158; 10% of non-empty `Person`): <em>ասեմ, գիտեմ, ասացի, երթամ, գիտեմք, եկի, կամիմ, արարից, ունիմ, խաւսեցայ</em>
-* `2` (1895; 16% of non-empty `Person`): <em>երթ, գիտէք, արարէք, երթայք, տուր, տուք, կացէք, ունիք, եկայք, տեսանիցէք</em>
+* `2` (1894; 16% of non-empty `Person`): <em>երթ, գիտէք, արարէք, երթայք, տուր, տուք, կացէք, ունիք, եկայք, տեսանիցէք</em>
 * `3` (8455; 73% of non-empty `Person`): <em>ասէ, ետ, ասեն, ասեին, եկն, ասաց, գայ, ասէր, ել, ետես</em>
-* `EMPTY` (3106): <em>եկեալ, ասել, առեալ, մատուցեալ, գրեալ, ելեալ, առնել, մտանել, տալ, տեսեալ</em>
+* `EMPTY` (3109): <em>եկեալ, ասել, առեալ, մատուցեալ, գրեալ, ելեալ, առնել, մտանել, տալ, տեսեալ</em>
 
 <table>
   <tr><th>Paradigm <i>ասել</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -51,29 +51,29 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-3422 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (33% of all `PRON` tokens) have a non-empty value of `Person`.
+3419 <tt><a href="xcl_caval-pos-PRON.html">PRON</a></tt> tokens (33% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (3422; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3422; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2251; 66%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (3419; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (3419; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2248; 66%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (1360; 40% of non-empty `Person`): <em>իմ, իս, ես, մեզ, ինձ, մեր, մեք, ինէն, մէնջ, ինեւ</em>
-* `2` (1563; 46% of non-empty `Person`): <em>ձեզ, քո, քեզ, դու, դուք, ձեր, քէն, ձէնջ, քեւ</em>
-* `3` (499; 15% of non-empty `Person`): <em>իւր, ինքն, իւրեանց, իւրեանս, իւրեւ, իւրոյ, իւրոց, իւրեաւ, իւրում, ինքեան</em>
-* `EMPTY` (7081): <em>նա, որ, նորա, նոսա, նմա, նոցա, ինչ, ոք, այս, զինչ</em>
+* `2` (1562; 46% of non-empty `Person`): <em>ձեզ, քեզ, քո, դու, դուք, ձեր, քէն, ձէնջ, քեւ</em>
+* `3` (497; 15% of non-empty `Person`): <em>իւր, ինքն, իւրեանց, իւրեանս, իւրեւ, իւրոյ, իւրոց, իւրեաւ, իւրում, ինքեան</em>
+* `EMPTY` (7079): <em>նա, որ, նորա, նոսա, նմա, նոցա, ինչ, ոք, այս, զինչ</em>
 
 ### `AUX`
 
-2581 <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Person`.
+2582 <tt><a href="xcl_caval-pos-AUX.html">AUX</a></tt> tokens (94% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2579; 100%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2153; 83%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2090; 81%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2029; 79%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1658; 64%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="xcl_caval-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2580; 100%), <tt><a href="xcl_caval-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (2153; 83%), <tt><a href="xcl_caval-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2090; 81%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2029; 79%), <tt><a href="xcl_caval-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1659; 64%).
 
 `AUX` tokens may have the following values of `Person`:
 
 * `1` (162; 6% of non-empty `Person`): <em>եմ, իցեմ, եի, եմք, եաք, եղէց, եղեաք, եղիցուք, ետու, էի</em>
-* `2` (229; 9% of non-empty `Person`): <em>ես, էք, լերուք, եղերուք, եղիջիք, իցես, լեր, եիր, իցէք, լինիջիք</em>
+* `2` (230; 9% of non-empty `Person`): <em>ես, էք, լերուք, եղերուք, եղիջիք, իցես, լեր, եիր, իցէք, լինիջիք</em>
 * `3` (2190; 85% of non-empty `Person`): <em>է, էր, եղեւ, իցէ, են, եին, եղիցի, իցեն, լինիցի, լիցի</em>
-* `EMPTY` (156): <em>լինել, լեալ, եղեալ, լինելոյ, լիեալ, լեր, լինելոց, եղելոյ, լինելով, եղանել</em>
+* `EMPTY` (153): <em>լինել, լեալ, եղեալ, լինելոյ, լիեալ, լեր, եղելոյ, լինելով, եղանել, եղեալս</em>
 
 <table>
   <tr><th>Paradigm <i>եմ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -95,21 +95,21 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `DET`
 
-612 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (9% of all `DET` tokens) have a non-empty value of `Person`.
+615 <tt><a href="xcl_caval-pos-DET.html">DET</a></tt> tokens (9% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (612; 100%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (612; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (612; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (416; 68%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (615; 100%), <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (615; 100%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (615; 100%), <tt><a href="xcl_caval-feat-Number.html">Number</a></tt><tt>=Sing</tt> (419; 68%).
 
 `DET` tokens may have the following values of `Person`:
 
 * `1` (229; 37% of non-empty `Person`): <em>մեր, իմոյ, մերոյ, իմմէ, մերոց, իմոց, իմում, իմ, մերում, իմով</em>
-* `2` (136; 22% of non-empty `Person`): <em>քում, ձերոց, քոց, քումմէ, քո, ձերոյ, ձերմէ, ձերում, քոյ, քով</em>
-* `3` (247; 40% of non-empty `Person`): <em>իւրում, իւրոց, իւրոյ, իւր, իւրմէ, իւրով, իւրեանց, իւրովք, ինքն, իրում</em>
-* `EMPTY` (6486): <em>ն, ս, ամենայն, դ, մի, բազում, որ, այս, ինչ, այն</em>
+* `2` (137; 22% of non-empty `Person`): <em>քում, ձերոց, քոց, քումմէ, քո, ձերոյ, ձերմէ, ձերում, քոյ, քով</em>
+* `3` (249; 40% of non-empty `Person`): <em>իւրում, իւրոց, իւրոյ, իւր, իւրմէ, իւրով, իւրեանց, իւրովք, ինքն, իրում</em>
+* `EMPTY` (6488): <em>ն, ս, ամենայն, դ, մի, բազում, որ, այս, ինչ, այն</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (2504; 87%),
+<tt>VERB --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (2509; 87%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (170; 77%),
 <tt>VERB --[<tt><a href="xcl_caval-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (118; 79%),
 <tt>AUX --[<tt><a href="xcl_caval-dep-conj.html">conj</a></tt>]--> VERB</tt> (25; 83%),

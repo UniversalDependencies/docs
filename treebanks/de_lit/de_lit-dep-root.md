@@ -29,7 +29,7 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 5	,	,	PUNCT	$,	_	8	punct	_	_
 6	die	der	PRON	PRELS	Case=Nom|PronType=Dem,Rel	8	nsubj	_	_
 7	eigentlich	eigentlich	ADV	ADV	_	8	advmod	_	_
-8	Kunstwerke	Kunstwerk	NOUN	NN	Case=Nom	3	acl	_	_
+8	Kunstwerke	Kunstwerk	NOUN	NN	Case=Nom	3	acl:relcl	_	_
 9	der	der	DET	ART	Definite=Def|PronType=Art	10	det	_	_
 10	Natur	Natur	NOUN	NN	_	8	nmod	_	_
 11	sind	sein	AUX	VAFIN	_	8	cop	_	SpaceAfter=No

@@ -26,7 +26,7 @@ The following 14 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 1	Ἐν	ἐν	ADP	_	_	2	case	_	Gloss=in,on,by,with,to|Ref=GEN_1.1
 2	ἀρχῇ	ἀρχή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	obl:tmod	_	Gloss=beginning,ruler,office|Ref=GEN_1.1
 3	ἐποίησεν	ποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-do,make|Ref=GEN_1.1
-4	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the;-oh|Ref=GEN_1.1
+4	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the;-oh|Ref=GEN_1.1
 5	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Gloss=god|Ref=GEN_1.1
 6	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=GEN_1.1
 7	οὐρανὸν	οὐρανός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Gloss=heaven,sky|Ref=GEN_1.1
@@ -47,7 +47,7 @@ The following 14 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 1	εἶπεν	εἶπον	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-say|Ref=GEN_41.41
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Ref=GEN_41.41
 3	Φαραὼ	Φαραώ	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	Gloss=Pharaoh|Ref=GEN_41.41
-4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	5	det	_	Gloss=the|Ref=GEN_41.41
+4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the|Ref=GEN_41.41
 5	Ἰωσήφ	Ἰωσήφ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	Gloss=Joseph|Ref=GEN_41.41|SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	Ref=GEN_41.41
 7	Ἰδοὺ	ἰδού	INTJ	_	_	8	discourse	_	Gloss=look!,behold!|Ref=GEN_41.41
@@ -71,9 +71,9 @@ The following 14 pairs of parts of speech are connected with `obl:tmod`: <tt><a 
 # visual-style 18 15 obl:tmod	color:blue
 1	καὶ	καί	CCONJ	_	_	2	cc	_	Gloss=and,also,even,then,next|Ref=GEN_40.4
 2	συνέστησεν	συνίστημι	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-bring-together|Ref=GEN_40.4
-3	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_40.4
+3	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the;-oh|Ref=GEN_40.4
 4	ἀρχιδεσμώτης	ἀρχιδεσμώτης	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=chief-jailer|Ref=GEN_40.4
-5	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_40.4
+5	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Gloss=the|Ref=GEN_40.4
 6	Ἰωσὴφ	Ἰωσήφ	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	Gloss=Joseph|Ref=GEN_40.4
 7	αὐτούς	αὐτός	PRON	_	Case=Acc|Gender=Masc|Number=Plur|PronType=Prs	2	obj	_	Gloss=he,she,it,-self,same|Ref=GEN_40.4|SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	Ref=GEN_40.4

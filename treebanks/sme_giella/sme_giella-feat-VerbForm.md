@@ -12,17 +12,17 @@ It occurs with 5 different values: `Fin`, `Ger`, `Inf`, `Part`, `Sup`.
 6304 tokens (23%) have a non-empty value of `VerbForm`.
 2223 types (29%) occur at least once with a non-empty value of `VerbForm`.
 786 lemmas (18%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (4310; 16% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (1994; 7% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (4309; 16% instances), <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> (1995; 7% instances).
 
 ### `VERB`
 
-4310 <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+4309 <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sme_giella-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (3827; 89%), <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2659; 62%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sme_giella-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (3826; 89%), <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2658; 62%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (2890; 67% of non-empty `VerbForm`): <em>lea, leat, lei, ledje, bođii, boahtá, manai, dieđe, lohká, lean</em>
+* `Fin` (2889; 67% of non-empty `VerbForm`): <em>lea, leat, lei, ledje, bođii, boahtá, manai, dieđe, lohká, lean</em>
 * `Ger` (128; 3% of non-empty `VerbForm`): <em>beroškeahttá, boahtimin, manadettiin, orodettiin, ráhkadettiin, vácci, fárremin, leamen, čierastallame, čuoigga</em>
 * `Inf` (793; 18% of non-empty `VerbForm`): <em>leat, vuolgit, boahtit, bargat, mannat, geahččat, oastit, oažžut, dahkat, ráhkadit</em>
 * `Part` (498; 12% of non-empty `VerbForm`): <em>oaidnán, ožžon, boahtán, leamaš, mannan, oahppan, čállán, bargan, dahkan, váldán</em>
@@ -62,13 +62,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-1994 <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+1995 <tt><a href="sme_giella-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1842; 92%), <tt><a href="sme_giella-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1564; 78%), <tt><a href="sme_giella-feat-Person.html">Person</a></tt><tt>=3</tt> (1411; 71%), <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1200; 60%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1175; 59%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sme_giella-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1843; 92%), <tt><a href="sme_giella-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1565; 78%), <tt><a href="sme_giella-feat-Person.html">Person</a></tt><tt>=3</tt> (1412; 71%), <tt><a href="sme_giella-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1200; 60%), <tt><a href="sme_giella-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1175; 59%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (1922; 96% of non-empty `VerbForm`): <em>lea, leat, ii, lei, eai, ledje, galgá, lean, sáhttá, in</em>
+* `Fin` (1923; 96% of non-empty `VerbForm`): <em>lea, leat, ii, lei, eai, ledje, galgá, lean, sáhttá, in</em>
 * `Ger` (3; 0% of non-empty `VerbForm`): <em>leamen, áigume, áigumin</em>
 * `Inf` (38; 2% of non-empty `VerbForm`): <em>leat, beassat, sáhttit, leahkit, máhttit, álgit</em>
 * `Part` (25; 1% of non-empty `VerbForm`): <em>leamaš, beassan, berren, gártan, leamašan, sáhttán</em>

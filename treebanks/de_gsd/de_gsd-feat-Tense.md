@@ -75,7 +75,7 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 
 * `Past` (18; 37% of non-empty `Tense`): <em>War, 3/8-Takte, Flotte, Kam, beginn, diente, erschienen, folgten, fusionierte, gehörte</em>
 * `Pres` (31; 63% of non-empty `Tense`): <em>mag, Jahrhundert, Balken, Bin, Erbvogt, Familien, Gemüt, Komme, Liegt, Lohnt</em>
-* `EMPTY` (52247): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
+* `EMPTY` (52899): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 <table>
   <tr><th>Paradigm <i>gut</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -95,7 +95,7 @@ The most frequent other feature values with which `PROPN` and `Tense` co-occurre
 
 * `Past` (10; 26% of non-empty `Tense`): <em>corde, ergoss, estate, handelte, las, plb, schweiz, semisecco, spring, war</em>
 * `Pres` (29; 74% of non-empty `Tense`): <em>ist, 1st, Gibt, Glaube, Kemble, Roden, Sankt, Verden, ausnutzen, bru</em>
-* `EMPTY` (30377): <em>Deutschland, de, of, US, Berlin, SPD, St., Oktober, Frankreich, new</em>
+* `EMPTY` (29725): <em>Deutschland, de, of, US, Berlin, SPD, St., Frankreich, new, la</em>
 
 <table>
   <tr><th>Paradigm <i>sein</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
@@ -120,6 +120,7 @@ The most frequent other feature values with which `ADJ` and `Tense` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (1025; 61%),
+<tt>VERB --[<tt><a href="de_gsd-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (34; 52%),
 <tt>AUX --[<tt><a href="de_gsd-dep-conj.html">conj</a></tt>]--> AUX</tt> (7; 70%),
 <tt>AUX --[<tt><a href="de_gsd-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (3; 60%),
 <tt>VERB --[<tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%),

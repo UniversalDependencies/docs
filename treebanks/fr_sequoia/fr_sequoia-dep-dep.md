@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `dep`: <tt><a href="fr_sequoia-dep-dep-comp.html">dep:comp</a></tt>.
 
-74 nodes (0%) are attached to their parents as `dep`.
+72 nodes (0%) are attached to their parents as `dep`.
 
-58 instances of `dep` (78%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.05405405405405.
+56 instances of `dep` (78%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.18055555555556.
 
-The following 15 pairs of parts of speech are connected with `dep`: <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (26; 35% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14; 19% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 5% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 14 pairs of parts of speech are connected with `dep`: <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (26; 36% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (14; 19% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (5; 7% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 6% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (3; 4% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (2; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -27,18 +27,18 @@ The following 15 pairs of parts of speech are connected with `dep`: <tt><a href=
 2	agissant	agir	VERB	_	VerbForm=Part	13	advcl	_	Tense[denom]=Pres
 3	de	de	ADP	_	_	5	case	_	_
 4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	maladie	maladie	NOUN	_	Number=Sing	2	obl:arg	_	Gender[lex]=Fem
+5	maladie	maladie	NOUN	_	Gender=Fem|Number=Sing	2	obl:arg	_	Exponence[Gender]=Inherent
 6	de	de	ADP	_	_	7	case	_	_
-7	Paget	Paget	PROPN	_	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+7	Paget	Paget	PROPN	_	Gender=Fem|Number=Sing	5	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
 8	,	,	PUNCT	_	_	2	punct	_	_
-9	Aclasta	Aclasta	PROPN	_	_	13	nsubj	_	Gender[lex]=Unknown
+9	Aclasta	Aclasta	PROPN	_	_	13	nsubj	_	_
 10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:tense	_	_
 11	été	être	AUX	_	VerbForm=Part	13	cop	_	Tense[denom]=Past
 12	plus	plus	ADV	_	_	13	advmod	_	_
-13	efficace	efficace	ADJ	_	Number=Sing	0	root	_	Gender[ctxt]=Masc
+13	efficace	efficace	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Exponence[Gender]=Absent
 14	que	que	SCONJ	_	_	16	case	_	_
 15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	risédronate	risédronate	NOUN	_	Number=Sing	13	dep	_	Gender[lex]=Masc|SpaceAfter=No
+16	risédronate	risédronate	NOUN	_	Gender=Masc|Number=Sing	13	dep	_	Exponence[Gender]=Inherent|SpaceAfter=No
 17	.	.	PUNCT	_	_	13	punct	_	_
 
 ~~~
@@ -51,26 +51,26 @@ The following 15 pairs of parts of speech are connected with `dep`: <tt><a href=
 # visual-style 12	fgColor:white
 # visual-style 12 18 dep	color:blue
 1	L'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
-2	estimation	estimation	NOUN	_	Number=Sing	7	nsubj	_	Gender[lex]=Fem
+2	estimation	estimation	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	Exponence[Gender]=Inherent
 3	financière	financier	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	projet	projet	NOUN	_	Number=Sing	2	nmod	_	Gender[lex]=Masc
+6	projet	projet	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	Exponence[Gender]=Inherent
 7	reste	rester	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	valable	valable	ADJ	_	Number=Sing	7	xcomp	_	Gender[ctxt]=Fem
+8	valable	valable	ADJ	_	Gender=Fem|Number=Sing	7	xcomp	_	Exponence[Gender]=Absent
 9	tant	tant	ADV	_	_	12	advmod	_	_
 10	sur	sur	ADP	_	_	12	case	_	_
 11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	plan	plan	NOUN	_	Number=Sing	8	obl:mod	_	Gender[lex]=Masc
+12	plan	plan	NOUN	_	Gender=Masc|Number=Sing	8	obl:mod	_	Exponence[Gender]=Inherent
 13	de	de	ADP	_	_	14	case	_	_
-14	financement	financement	NOUN	_	Number=Sing	12	nmod	_	Gender[lex]=Masc
+14	financement	financement	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	Exponence[Gender]=Inherent
 15	que	que	SCONJ	_	_	18	mark	_	_
 16	pour	pour	ADP	_	_	18	case	_	_
-17	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	18	det	_	Gender[ctxt]=Fem|SpaceAfter=No
-18	évolution	évolution	NOUN	_	Number=Sing	12	dep	_	Gender[lex]=Fem
+17	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	Exponence[Gender]=Absent|SpaceAfter=No
+18	évolution	évolution	NOUN	_	Gender=Fem|Number=Sing	12	dep	_	Exponence[Gender]=Inherent
 19	de	de	ADP	_	_	21	case	_	_
 20	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
-21	dette	dette	NOUN	_	Number=Sing	18	nmod	_	Gender[lex]=Fem|SpaceAfter=No
+21	dette	dette	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	Exponence[Gender]=Inherent|SpaceAfter=No
 22	.	.	PUNCT	_	_	7	punct	_	_
 
 ~~~
@@ -95,8 +95,8 @@ The following 15 pairs of parts of speech are connected with `dep`: <tt><a href=
 11	,	,	PUNCT	_	_	6	punct	_	_
 12	doit	devoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	comporter	comporter	VERB	_	VerbForm=Inf	12	xcomp	_	Subject=SubjRaising
-14	deux	deux	NUM	_	NumType=Card	15	nummod	_	Number[lex]=Plur
-15	éléments	élément	NOUN	_	Number=Plur	13	obj	_	Gender[lex]=Masc|SpaceAfter=No
+14	deux	deux	NUM	_	Number=Plur|NumType=Card	15	nummod	_	Exponence[Number]=Inherent
+15	éléments	élément	NOUN	_	Gender=Masc|Number=Plur	13	obj	_	Exponence[Gender]=Inherent|SpaceAfter=No
 16	.	.	PUNCT	_	_	12	punct	_	_
 
 ~~~

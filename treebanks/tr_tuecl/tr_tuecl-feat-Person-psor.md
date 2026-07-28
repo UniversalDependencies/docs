@@ -14,26 +14,24 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 82 tokens (9%) have a non-empty value of `Person[psor]`.
 65 types (17%) occur at least once with a non-empty value of `Person[psor]`.
 45 lemmas (18%) occur at least once with a non-empty value of `Person[psor]`.
-The feature is used with 5 part-of-speech tags: <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (49; 5% instances), <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt> (24; 3% instances), <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="tr_tuecl-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="tr_tuecl-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> (51; 6% instances), <tt><a href="tr_tuecl-pos-VERB.html">VERB</a></tt> (24; 3% instances), <tt><a href="tr_tuecl-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="tr_tuecl-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
-49 <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> tokens (22% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
+51 <tt><a href="tr_tuecl-pos-NOUN.html">NOUN</a></tt> tokens (23% of all `NOUN` tokens) have a non-empty value of `Person[psor]`.
 
-The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="tr_tuecl-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (47; 96%), <tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41; 84%).
+The most frequent other feature values with which `NOUN` and `Person[psor]` co-occurred: <tt><a href="tr_tuecl-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (49; 96%), <tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (43; 84%).
 
 `NOUN` tokens may have the following values of `Person[psor]`:
 
 
 <table>
-  <tr><th>Paradigm <i>arkadaş</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="tr_tuecl-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_tuecl-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>arkadaşlarından</em></td></tr>
-  <tr><td><tt><tt><a href="tr_tuecl-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_tuecl-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>arkadaşına</em></td></tr>
-  <tr><td><tt><tt><a href="tr_tuecl-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_tuecl-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>arkadaşının</em></td></tr>
-  <tr><td><tt><tt><a href="tr_tuecl-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_tuecl-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>arkadaşınla</em></td><td></td></tr>
+  <tr><th>Paradigm <i>ki</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
+  <tr><td><tt><tt><a href="tr_tuecl-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_tuecl-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>kinin</em></td></tr>
+  <tr><td><tt><tt><a href="tr_tuecl-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_tuecl-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>kinden</em></td><td></td></tr>
 </table>
 
-`Person[psor]` seems to be **lexical feature** of `NOUN`. 93% lemmas (28) occur only with one value of `Person[psor]`.
+`Person[psor]` seems to be **lexical feature** of `NOUN`. 90% lemmas (28) occur only with one value of `Person[psor]`.
 
 ### `VERB`
 
@@ -56,21 +54,6 @@ The most frequent other feature values with which `VERB` and `Person[psor]` co-o
 
 `Person[psor]` seems to be **lexical feature** of `VERB`. 91% lemmas (10) occur only with one value of `Person[psor]`.
 
-### `PRON`
-
-4 <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> tokens (10% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
-
-The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%), <tt><a href="tr_tuecl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="tr_tuecl-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 75%).
-
-`PRON` tokens may have the following values of `Person[psor]`:
-
-
-<table>
-  <tr><th>Paradigm <i>ki</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="tr_tuecl-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_tuecl-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td><em>kinin</em></td></tr>
-  <tr><td><tt><tt><a href="tr_tuecl-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_tuecl-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt></tt></td><td><em>kinden</em></td><td></td></tr>
-</table>
-
 ### `ADJ`
 
 3 <tt><a href="tr_tuecl-pos-ADJ.html">ADJ</a></tt> tokens (7% of all `ADJ` tokens) have a non-empty value of `Person[psor]`.
@@ -87,6 +70,15 @@ The most frequent other feature values with which `ADJ` and `Person[psor]` co-oc
 The most frequent other feature values with which `AUX` and `Person[psor]` co-occurred: <tt><a href="tr_tuecl-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="tr_tuecl-feat-Evident.html">Evident</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="tr_tuecl-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="tr_tuecl-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="tr_tuecl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="tr_tuecl-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="tr_tuecl-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="tr_tuecl-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2; 100%), <tt><a href="tr_tuecl-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Person[psor]`:
+
+
+### `PRON`
+
+2 <tt><a href="tr_tuecl-pos-PRON.html">PRON</a></tt> tokens (5% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
+
+The most frequent other feature values with which `PRON` and `Person[psor]` co-occurred: <tt><a href="tr_tuecl-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`PRON` tokens may have the following values of `Person[psor]`:
 
 
 ## Relations with Agreement in `Person[psor]`

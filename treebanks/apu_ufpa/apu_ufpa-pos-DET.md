@@ -34,7 +34,7 @@ The 10 most frequent ambiguous types:  <em>kaiãapukury</em> (<tt><a href="apu_u
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.400000 (the average of all parts of speech is 1.250825).
+The form / lemma ratio of `DET` is 1.400000 (the average of all parts of speech is 1.264438).
 
 The 1st highest number of forms (2) was observed with the lemma “ie”: <em>iia, iie</em>.
 

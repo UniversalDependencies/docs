@@ -57,4 +57,4 @@ The present tense denotes actions that are happening right now or that usually h
 #### Examples
 
 * _(დო)ზიმუდ(უ)კო(ნი) ((dɔ)zimud(u)kʼɔ(ni))_ 'he/she would probably measured smth.' etc.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:51 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:21 CEST -->

@@ -66,11 +66,11 @@ The following 11 pairs of parts of speech are connected with `advmod`: <tt><a hr
 7	_	_	PUNCT	_	_	4	punct	_	BBIL=I|BPT=2|SpaceAfter=No|UI=1
 8	_	_	NOUN	_	_	10	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=2979
 9	_	_	ADP	_	_	8	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
-10	_	_	NOUN	_	_	14	obl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=2125
+10	_	_	NOUN	_	_	19	nsubj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=2125
 11	_	_	ADP	_	_	10	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=8
 12	_	_	NOUN	_	_	14	nmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=9706
 13	_	_	ADP	_	_	12	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=0
-14	_	_	NOUN	_	_	19	nsubj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=74451
+14	_	_	NOUN	_	_	10	conj	_	BBIL=B|BPT=0|SpaceAfter=No|UI=74451
 15	_	_	ADP	_	_	14	case	_	BBIL=I|BPT=1|SpaceAfter=No|UI=6
 16	_	_	ADV	_	_	17	advmod	_	BBIL=B|BPT=0|SpaceAfter=No|UI=1375
 17	_	_	ADJ	_	_	19	advcl	_	BBIL=B|BPT=0|SpaceAfter=No|UI=322

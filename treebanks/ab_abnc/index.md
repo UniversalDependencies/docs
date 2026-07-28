@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Paul Meurer.
 
 Repository: [UD_Abkhaz-AbNC](https://github.com/UniversalDependencies/UD_Abkhaz-AbNC)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udab_abnc217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udab_abnc218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -81,17 +81,17 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 
 ## Relations
 
-[acl](ab_abnc-dep-acl.html) – [acl:relcl](ab_abnc-dep-acl-relcl.html) – [advcl](ab_abnc-dep-advcl.html) – [advcl:compar](ab_abnc-dep-advcl-compar.html) – [advcl:cond](ab_abnc-dep-advcl-cond.html) – [advcl:conv](ab_abnc-dep-advcl-conv.html) – [advcl:purp](ab_abnc-dep-advcl-purp.html) – [advcl:quote](ab_abnc-dep-advcl-quote.html) – [advcl:seq](ab_abnc-dep-advcl-seq.html) – [advmod](ab_abnc-dep-advmod.html) – [advmod:q](ab_abnc-dep-advmod-q.html) – [amod](ab_abnc-dep-amod.html) – [appos](ab_abnc-dep-appos.html) – [aux](ab_abnc-dep-aux.html) – [case](ab_abnc-dep-case.html) – [cc](ab_abnc-dep-cc.html) – [ccomp:iobj](ab_abnc-dep-ccomp-iobj.html) – [ccomp:lo](ab_abnc-dep-ccomp-lo.html) – [ccomp:obj](ab_abnc-dep-ccomp-obj.html) – [ccomp:poss](ab_abnc-dep-ccomp-poss.html) – [ccomp:purp](ab_abnc-dep-ccomp-purp.html) – [ccomp:quote](ab_abnc-dep-ccomp-quote.html) – [ccomp:ro](ab_abnc-dep-ccomp-ro.html) – [compound](ab_abnc-dep-compound.html) – [compound:pred](ab_abnc-dep-compound-pred.html) – [compound:prt](ab_abnc-dep-compound-prt.html) – [conj](ab_abnc-dep-conj.html) – [conj:q](ab_abnc-dep-conj-q.html) – [cop](ab_abnc-dep-cop.html) – [csubj](ab_abnc-dep-csubj.html) – [csubj:outer](ab_abnc-dep-csubj-outer.html) – [csubj:quote](ab_abnc-dep-csubj-quote.html) – [det](ab_abnc-dep-det.html) – [discourse](ab_abnc-dep-discourse.html) – [dislocated](ab_abnc-dep-dislocated.html) – [flat](ab_abnc-dep-flat.html) – [flat:name](ab_abnc-dep-flat-name.html) – [iobj](ab_abnc-dep-iobj.html) – [iobj:cs](ab_abnc-dep-iobj-cs.html) – [iobj:lo](ab_abnc-dep-iobj-lo.html) – [iobj:po](ab_abnc-dep-iobj-po.html) – [iobj:poss](ab_abnc-dep-iobj-poss.html) – [iobj:ro](ab_abnc-dep-iobj-ro.html) – [mark](ab_abnc-dep-mark.html) – [nmod](ab_abnc-dep-nmod.html) – [nmod:poss](ab_abnc-dep-nmod-poss.html) – [nmod:quote](ab_abnc-dep-nmod-quote.html) – [nsubj](ab_abnc-dep-nsubj.html) – [nsubj:outer](ab_abnc-dep-nsubj-outer.html) – [nummod](ab_abnc-dep-nummod.html) – [obj](ab_abnc-dep-obj.html) – [obl](ab_abnc-dep-obl.html) – [orphan](ab_abnc-dep-orphan.html) – [parataxis](ab_abnc-dep-parataxis.html) – [punct](ab_abnc-dep-punct.html) – [root](ab_abnc-dep-root.html) – [vocative](ab_abnc-dep-vocative.html) – [xcomp](ab_abnc-dep-xcomp.html) – [xcomp:lo](ab_abnc-dep-xcomp-lo.html) – [xcomp:subj](ab_abnc-dep-xcomp-subj.html)
+[acl](ab_abnc-dep-acl.html) – [acl:relcl](ab_abnc-dep-acl-relcl.html) – [advcl](ab_abnc-dep-advcl.html) – [advcl:compar](ab_abnc-dep-advcl-compar.html) – [advcl:cond](ab_abnc-dep-advcl-cond.html) – [advcl:conv](ab_abnc-dep-advcl-conv.html) – [advcl:purp](ab_abnc-dep-advcl-purp.html) – [advcl:quote](ab_abnc-dep-advcl-quote.html) – [advcl:seq](ab_abnc-dep-advcl-seq.html) – [advmod](ab_abnc-dep-advmod.html) – [advmod:q](ab_abnc-dep-advmod-q.html) – [amod](ab_abnc-dep-amod.html) – [appos](ab_abnc-dep-appos.html) – [aux](ab_abnc-dep-aux.html) – [case](ab_abnc-dep-case.html) – [cc](ab_abnc-dep-cc.html) – [ccomp](ab_abnc-dep-ccomp.html) – [ccomp:iobj](ab_abnc-dep-ccomp-iobj.html) – [ccomp:lo](ab_abnc-dep-ccomp-lo.html) – [ccomp:obj](ab_abnc-dep-ccomp-obj.html) – [ccomp:poss](ab_abnc-dep-ccomp-poss.html) – [ccomp:purp](ab_abnc-dep-ccomp-purp.html) – [ccomp:quote](ab_abnc-dep-ccomp-quote.html) – [ccomp:ro](ab_abnc-dep-ccomp-ro.html) – [compound](ab_abnc-dep-compound.html) – [compound:pred](ab_abnc-dep-compound-pred.html) – [compound:prt](ab_abnc-dep-compound-prt.html) – [conj](ab_abnc-dep-conj.html) – [conj:q](ab_abnc-dep-conj-q.html) – [cop](ab_abnc-dep-cop.html) – [csubj](ab_abnc-dep-csubj.html) – [csubj:outer](ab_abnc-dep-csubj-outer.html) – [csubj:quote](ab_abnc-dep-csubj-quote.html) – [det](ab_abnc-dep-det.html) – [discourse](ab_abnc-dep-discourse.html) – [dislocated](ab_abnc-dep-dislocated.html) – [flat](ab_abnc-dep-flat.html) – [flat:name](ab_abnc-dep-flat-name.html) – [iobj](ab_abnc-dep-iobj.html) – [iobj:cs](ab_abnc-dep-iobj-cs.html) – [iobj:lo](ab_abnc-dep-iobj-lo.html) – [iobj:po](ab_abnc-dep-iobj-po.html) – [iobj:poss](ab_abnc-dep-iobj-poss.html) – [iobj:ro](ab_abnc-dep-iobj-ro.html) – [mark](ab_abnc-dep-mark.html) – [nmod](ab_abnc-dep-nmod.html) – [nmod:poss](ab_abnc-dep-nmod-poss.html) – [nmod:quote](ab_abnc-dep-nmod-quote.html) – [nsubj](ab_abnc-dep-nsubj.html) – [nsubj:outer](ab_abnc-dep-nsubj-outer.html) – [nummod](ab_abnc-dep-nummod.html) – [obj](ab_abnc-dep-obj.html) – [obl](ab_abnc-dep-obl.html) – [orphan](ab_abnc-dep-orphan.html) – [parataxis](ab_abnc-dep-parataxis.html) – [punct](ab_abnc-dep-punct.html) – [root](ab_abnc-dep-root.html) – [vocative](ab_abnc-dep-vocative.html) – [xcomp](ab_abnc-dep-xcomp.html) – [xcomp:lo](ab_abnc-dep-xcomp-lo.html) – [xcomp:subj](ab_abnc-dep-xcomp-subj.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 
 <ul>
-<li>This corpus contains 1316 sentences and 10585 tokens.</li>
+<li>This corpus contains 1545 sentences and 13054 tokens.</li>
 </ul>
 
 <ul>
-<li>This corpus contains 2445 tokens (23%) that are not followed by a space.</li>
+<li>This corpus contains 2970 tokens (23%) that are not followed by a space.</li>
 </ul>
 
 <ul>
@@ -99,7 +99,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 </ul>
 
 <ul>
-<li>This corpus contains 64 types of words that contain both letters and punctuation. Examples: Ҷына-ҟәыбҷа, Жәа-минуҭк, ана-ара, аху-хуҳәа, уахыки-ҽнаки, шәкы-шәкы, 33-тәи, 35-тәи, 40-ҟа, 45-ҟа, Аҟыр-ҟырҳәа, Днаҧшы-ааҧшуа, Дцо-дцо, Енџьы-Ҳаным, Зны-зынла, Знык-ҩынтә, Иаҳа-иаҳа, Леонид-иҧа, Уахи-ҽни, Укәыкәы-цыкәуа, Хыш-хырҵәыла, аа-лак, аа-махҽк, аз-уадак, аҭҳара-аҭҳараҳәа, аҿартә-контрреволиуциатә-террористтә, дгьыли-жәҩани, дныҩнаҧшы-ааҩнаҧшын, дҕьаҵәы-ҕьаҵәуан, иааҟрым-ҿрымит, иахьца/лак, издыру/аз, изнеи/ра, икылҧш-кылӡырҩуа, инарықәтәа-аарықәтәо, инықәнашь-аақәнашьит, иҿы-инапы, лассы-ласс, лассы-лассы, мааҭк-мааҭк, маҷ-маҷ, рырахә-рышәахә, с-Ҷына-ҟәыбҷа, таҧ-таҧуа, уажәы-уашьҭан, уахгьы-ҽынгьы, х-мааҭк, х-минуҭк, хара-хара, хә-минуҭк</li>
+<li>This corpus contains 82 types of words that contain both letters and punctuation. Examples: Ҷына-ҟәыбҷа, Жәа-минуҭк, акы-ҩба, ана-ара, аху-хуҳәа, дҕьаҵәы-ҕьаҵәуан, дҿаа-ҿаауа, ихы-иҿы, уахыки-ҽнаки, шәкы-шәкы, 33-тәи, 35-тәи, 40-ҟа, 45-ҟа, Аҟыр-ҟырҳәа, Днаҧшы-ааҧшуа, Дцо-дцо, Дшыҿаа-ҿаауаз, Енџьы-Ҳаным, Зны-зынла, Знык-ҩынтә, Иаҳа-иаҳа, Иҟам-иным, Леонид-иҧа, Уахи-ҽни, Укәыкәы-цыкәуа, Хыш-хырҵәыла, Хәба-хәба, аа-лак, аа-махҽк, аз-уадак, акуа-иашьҭуа, ахи-аҵыхәеи, аҭҳара-аҭҳараҳәа, аҿартә-контрреволиуциатә-террористтә, дгьыли-жәҩани, дныҩнаҧшы-ааҩнаҧшын, дымшәа-дмырҳа, жәа-мааҭк, иааҟрым-ҿрымит, иахьца/лак, издыру/аз, изнеи/ра, икылҧш-кылӡырҩуа, инарықәтәа-аарықәтәо, инықәнашь-аақәнашьит, ихы-игәы, ихәы-ижьы, иҿы-инапы, лассы-ласс</li>
 </ul>
 
 <ul>
@@ -115,11 +115,11 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 </ul>
 
 <ul>
-<li>This corpus contains 3 word types tagged as particles (PART): уҳәа, шҧа, ҳәа</li>
+<li>This corpus contains 4 word types tagged as particles (PART): уҳәа, шҧа, ҳәа, ҳәагьы</li>
 </ul>
 
 <ul>
-<li>This corpus contains 37 lemmas tagged as pronouns (PRON): а́рҭ, аба́рҭ, абни́, абри́, акгьы́, акы́, акы́заҵәк, акы́мзарак, ари́, аӡәы́, аӡәы́р, бара́, да́ҽаӡә, дара́, дасу́, даҽа́, егьи́, зегьы́, знтәы́к, иара́, лара́, руакы́, руаӡәы́к, сара́, у́рҭ, уара́, уба́рҭ, убри́, уи́, шаҟаҩы́, шьоукы́, шәара́, џьоукы́, џьоукы́х, ҳа́рҭ, ҳара́, ҳара́-ҳара</li>
+<li>This corpus contains 39 lemmas tagged as pronouns (PRON): а́рҭ, аба́рҭ, абни́, абри́, акгьы́, акы́, акы́заҵәк, акы́мзарак, ани́, ари́, аӡәы́, аӡәы́р, бара́, да́ҽаӡә, дара́, дасу́, даҽа́, егьи́, зегьы́, знтәы́к, иара́, лара́, руакы́, руаӡәы́, руаӡәы́к, са́, сара́, у́рҭ, уара́, уба́рҭ, убри́, уи́, шьоукы́, шәара́, џьоукы́, џьоукы́х, ҳа́рҭ, ҳара́, ҳара́-ҳара</li>
 </ul>
 
 <ul>
@@ -144,8 +144,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: ауп, акәын, соуп, иоуп, иакәын, лоуп, акәхарын, оуп, акәхап, боуп</li>
-    <li>VERB: иҳәеит, аҳәеит, иалагеит, ҿаанаҭит, дцеит, иҳәан, лҳәеит, рҳәеит, иаҿын, ицеит</li>
+    <li>AUX: ауп, акәын, соуп, оуп, иоуп, акәхап, иакәын, лоуп, акәхарын, роуп</li>
+    <li>VERB: иҳәеит, аҳәеит, иҳәан, иалагеит, лҳәеит, далагеит, дцеит, рҳәеит, ҿаанаҭит, иаҿын</li>
   </ul>
   </li>
 </ul>
@@ -153,8 +153,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>NonFin
   <ul>
-    <li>AUX: акәзар, аума, акәу, акәымзар, лакәзаргьы, ракәызшәа, ракәым, ракәымкәа, роума, соума</li>
-    <li>VERB: иҟаз, анакәха, инеиз, иҟоу, Иҟалаз, аашьҭыхны, закәызеи, илҳәаз, итәаз, ахьгылаз</li>
+    <li>AUX: акәзар, акәымзар, аума, уоума, шакәу, ҟалома, акәны, акәу, акәым, ами</li>
+    <li>VERB: иҟаз, игылаз, илҳәаз, инеиз, итәаз, иҟоу, анакәха, Иҟалаз, аашьҭыхны, днеины</li>
   </ul>
   </li>
 </ul>
@@ -162,7 +162,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Vnoun
   <ul>
-    <li>VERB: аҳәара, ашәаҳәара, аҵәыуара, иаара, Ҳәарас, аизгара, анҵара, арыцқьара, ахәаара, ацара</li>
+    <li>VERB: аҳәара, ашәаҳәара, аҵәыуара, аҳәҳәара, иаара, Ҳәарас, аизгара, анҵара, арыцқьара, ахәаара</li>
   </ul>
   </li>
 </ul>
@@ -177,7 +177,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Fem
     <ul>
-      <li>PRON: лара, бара, бареи, ларгьы, баргьы</li>
+      <li>PRON: лара, бара, ларгьы, бареи, баргьы</li>
     </ul>
   </li>
 </ul>
@@ -198,12 +198,12 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
   <li>Hum
     <ul>
       <li>ADV: ирацәаҩны</li>
-      <li>NOUN: аҧшәма, анцәа, аҩсҭаа, акапитан, Ашаҩы, аҧҳәыс, ауаа, аҧсуа, ахәыҷқәа, иан</li>
-      <li>NUM: хәҩык, ҩыџьа, ахҩыкгьы, быжьҩык, хҩык, ҳҩыџьагь, Бжьҩы, Рҩыџьагьы, шәҩыџьагьы, Ҩажәижәаҩык</li>
-      <li>PRON: аӡәгьы, аӡәы, аӡә, дасу, шьоукы, џьоукы, аӡәыр, шаҟаҩы, Руаӡәк, даҽаӡә</li>
-      <li>VERB: иреиҳабыз, ҳаиҩызцәазааит, Иеибацәан, Иеиҳабу, Иуадаҩцәамкәан, Шәуаами, дкапитанын, дреиуоуп, дсықәлоуп, дыӡҕабушәа</li>
-      <li>VERB-Fin: ҳаиҩызцәазааит, Иеибацәан, дкапитанын, дреиуоуп, дсықәлоуп, иреиуоуп, сагьҳәынҭқаруп, саҧсыуоуп, саҳауп, сеиҳабуп</li>
-      <li>VERB-NonFin: иреиҳабыз, Иеиҳабу, Иуадаҩцәамкәан, Шәуаами, дыӡҕабушәа, еиҭымцәаны, иреиуаз, иуааны, шеиҩызцәаз</li>
+      <li>NOUN: анцәа, аҧшәма, аусеилыргаҩ, аҩсҭаа, акапитан, аҧҳәыс, Ашаҩы, ауаа, аҧсуа, ахәыҷқәа</li>
+      <li>NUM: ҩыџьа, хҩык, хәҩык, ҳҩыџьагь, ахҩыкгьы, быжьҩык, Бжьҩы, Рҩыџьагьы, бжьҩык, шәҩыџьагьы</li>
+      <li>PRON: аӡәгьы, аӡәы, шьоукы, аӡә, дасу, џьоукы, аӡәыр, Руаӡәк, даҽаӡә, руаӡә</li>
+      <li>VERB: иреиҳабыз, шаҟаҩы, ҳаиҩызцәазааит, Иеибацәан, Иеиҳабу, Иуадаҩцәамкәан, Шәуаами, дкапитанын, дреиуоуп, дсықәлоуп</li>
+      <li>VERB-Fin: ҳаиҩызцәазааит, Иеибацәан, дкапитанын, дреиуоуп, дсықәлоуп, дыҧсын, иреиуоуп, сагьҳәынҭқаруп, саҧсыуоуп, саҳауп</li>
+      <li>VERB-NonFin: иреиҳабыз, Иеиҳабу, Иуадаҩцәамкәан, Шәуаами, дызусҭаз, дызусҭоу, дыӡҕабушәа, еиҭымцәаны, иреиуаз, иуааны</li>
     </ul>
   </li>
 </ul>
@@ -211,13 +211,13 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Nhum
     <ul>
-      <li>ADV: Шаҟа</li>
-      <li>NOUN: аҧара, Абгахәыҷы, амилициа, ашә, аҩны, амашьына, амшын, астол, Аҵысҕра, аамҭа</li>
-      <li>NUM: аҩбагьы, акы, ҩба, 40-ҟа, 45-ҟа, Жәаба, Хышәҟа, Хҧаҟа, жәабаҟа, жәабаҿы</li>
+      <li>ADV: Шаҟа, шаҟантә</li>
+      <li>NOUN: ашә, аҧара, амилициа, Абгахәыҷы, амашьына, астол, аҩны, игәы, аамҭа, амшын</li>
+      <li>NUM: аҩбагьы, акы, акы-ҩба, ҩба, 40-ҟа, 45-ҟа, Жәаба, Хышәҟа, Хҧаҟа, Хәба-хәба</li>
       <li>PRON: акгьы, акы, ак, руакы, Акызаҵәык, Акымзарак, руак</li>
-      <li>VERB: Ииашоуп, иуцәажәашьоузеи, иаамҭоуп, Закә, Иабыкәу, Измааноу, Измааноузеи, Ишоуроуп, ашәақәоу, дзеиҧшроузеи</li>
-      <li>VERB-Fin: Ииашоуп, иаамҭоуп, Ишоуроуп, дҭаацәараӡам, ирыхәҭоуп, исусӡам, ишәусым, ламысдароуп, митәуп, сыжәлоуп</li>
-      <li>VERB-NonFin: иуцәажәашьоузеи, Закә, Иабыкәу, Измааноу, Измааноузеи, ашәақәоу, дзеиҧшроузеи, змааназ, зыхьӡыз, зыхәҭоугьы</li>
+      <li>VERB: Ииашоуп, иуцәажәашьоузеи, иаамҭоуп, Закә, Иабыкәу, Иахьӡузеи, Измааноу, Измааноузеи, Ишоуроуп, ашәақәоу</li>
+      <li>VERB-Fin: Ииашоуп, иаамҭоуп, Ишоуроуп, дҭаацәараӡам, иашоуп, илан, ирыхәҭоуп, исусӡам, ишәусым, иҳәан</li>
+      <li>VERB-NonFin: иуцәажәашьоузеи, Закә, Иабыкәу, Иахьӡузеи, Измааноу, Измааноузеи, ашәақәоу, дзеиҧшроузеи, змааназ, зыхьӡыз</li>
     </ul>
   </li>
 </ul>
@@ -229,7 +229,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Card
     <ul>
-      <li>NOUN: Жәа-минуҭк, Хәышықәса, аа-лак, аа-махҽк, аамшҟа, х-мааҭк, х-минуҭк, хышықәсаны, хә-минуҭк, ҧшь-класск</li>
+      <li>NOUN: Жәа-минуҭк, Хәышықәса, аа-лак, аа-махҽк, аамшҟа, жәа-мааҭк, х-мааҭк, х-минуҭк, хышықәсаны, хә-минуҭк</li>
       <li>VERB-Fin: хымшуп</li>
     </ul>
   </li>
@@ -238,12 +238,12 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: хәыҷқәа, дуқәа, бзиақәа, дуқәак, дуӡӡақәа, ҟәымшәышәқәа, ҵарқәа, ихәыҷқәа, схәыҷқәа</li>
-      <li>NOUN: ауаа, аҟәарасақәа, ахәыҷқәа, ажьақәа, аашьаҩцәа, аҧсшьаҩцәа, аҩызцәа, иашьцәа, алақәа, аҧарақәа</li>
-      <li>PRON: ҳара, урҭ, шәара, ҳарҭ, дара, абарҭ, даргьы, шьоукы, џьоукы, Абарҭқәа</li>
+      <li>ADJ: хәыҷқәа, дуқәа, бзиақәа, дуқәак, дуӡӡақәа, еиқәаҵәақәа, шкәакәақәа, ҟәымшәышәқәа, ҵарқәа, агәырхынҳәыгақәа</li>
+      <li>NOUN: ауаа, аҟәарасақәа, ахәыҷқәа, аҧааимбарцәа, ажьақәа, аашьаҩцәа, аҧсшьаҩцәа, аҩызцәа, иашьцәа, алақәа</li>
+      <li>PRON: ҳара, урҭ, шәара, ҳарҭ, дара, даргьы, шьоукы, абарҭ, џьоукы, Арҭ</li>
       <li>PROPN: Кәынҵалраа, Масладубоваа, Чачаа, Шәлиманраа</li>
       <li>VERB-Fin: ҳаиҩызцәазааит, Иеибацәан, уаан</li>
-      <li>VERB-NonFin: Иуадаҩцәамкәан, Шәуаами, ашәақәоу, еиҭымцәаны, иуааны, цәгьақәам, шеиҩызцәаз</li>
+      <li>VERB-NonFin: Иуадаҩцәамкәан, Шәуаами, ашәақәоу, еиҭымцәаны, иуааны, ишҳақьымцәоу, цәгьақәам, шеиҩызцәаз</li>
     </ul>
   </li>
 </ul>
@@ -251,13 +251,13 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: хәыҷык, ду, рацәак, аиҵбы, дук, хәыҷы, Бзиа, дуӡӡак, еиҵбы, хьанҭа</li>
-      <li>NOUN: аҧара, Абгахәыҷы, амилициа, ашә, аҧшәма, анцәа, аҩны, аҩсҭаа, амашьына, амшын</li>
-      <li>PRON: сара, уи, уара, иара, акгьы, лара, аӡәгьы, саргьы, ари, иаргьы</li>
-      <li>VERB: аҳәара, ибзиоуп, ашәаҳәара, еиҕьуп, хәыҷызар, Ииашоуп, аҵәыуара, иаара, иуцәажәашьоузеи, шҧахәыҷыз</li>
-      <li>VERB-Fin: ибзиоуп, еиҕьуп, Ииашоуп, Ицәгьам, Иҳаиҕьӡам, иаамҭоуп, маҷуп, сеиҳабуп, уиашоуп, хәыҷызаарын</li>
-      <li>VERB-NonFin: хәыҷызар, иуцәажәашьоузеи, шҧахәыҷыз, иреиҳабыз, мариоу, Иеиҳабу, Измааноу, Измааноузеи, Ииашам, Ирацәаны</li>
-      <li>VERB-Vnoun: аҳәара, ашәаҳәара, аҵәыуара, иаара, Ҳәарас, аизгара, анҵара, арыцқьара, ахәаара, ацара</li>
+      <li>ADJ: хәыҷык, ду, рацәак, аиҵбы, дук, еиҵбы, хәыҷы, Бзиа, аиҳабы, дуӡӡак</li>
+      <li>NOUN: ашә, аҧара, амилициа, Абгахәыҷы, амашьына, анцәа, астол, аҧшәма, аҩны, игәы</li>
+      <li>PRON: сара, уи, уара, иара, акгьы, лара, аӡәгьы, ари, убри, саргьы</li>
+      <li>VERB: аҳәара, ибзиоуп, еиҕьуп, ашәаҳәара, аҵәыуара, хәыҷызар, Ииашоуп, аҳәҳәара, иаара, иуцәажәашьоузеи</li>
+      <li>VERB-Fin: ибзиоуп, еиҕьуп, Ииашоуп, Ицәгьам, Иҳаиҕьӡам, иаамҭоуп, мариам, маҷуп, сеиҳабуп, уадаҩуп</li>
+      <li>VERB-NonFin: хәыҷызар, иуцәажәашьоузеи, шҧахәыҷыз, иреиҳабыз, Иахьӡузеи, Иеиҳабу, Измааноу, Измааноузеи, Ииашам, Ирацәаны</li>
+      <li>VERB-Vnoun: аҳәара, ашәаҳәара, аҵәыуара, аҳәҳәара, иаара, Ҳәарас, аизгара, анҵара, арыцқьара, ахәаара</li>
     </ul>
   </li>
 </ul>
@@ -269,7 +269,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Abe
     <ul>
-      <li>NOUN: рахәыда, Уажәада</li>
+      <li>NOUN: рахәыда, хаҧыцда</li>
     </ul>
   </li>
 </ul>
@@ -278,8 +278,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
   <li>Ben
     <ul>
       <li>ADJ: Аказы, зназы</li>
-      <li>NOUN: аамҭаз, аамҭазы, Аҧсшьаразы, ацәыргақәҵазы, Ҳгыламҭаз</li>
-      <li>VERB-Vnoun: ишьразы, ргаразы</li>
+      <li>NOUN: аамҭаз, аамҭазы, Аҧсшьаразы, ацәыргақәҵазы, шықәсазы, Ҳгыламҭаз</li>
+      <li>VERB-Vnoun: аҽыкәабараз, ишьразы, иҿыхразы, ргаразы</li>
     </ul>
   </li>
 </ul>
@@ -287,8 +287,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Ess
     <ul>
-      <li>ADJ: џьашьатәыс</li>
-      <li>NOUN: ахықәан, ажәабжьыс, ақәцәан, аҭакс, гәырҩас, Бгас, Гашьас, Гәнаҳарас, аҭакыс, аҿықәан</li>
+      <li>ADJ: аҵаҩтәыс, џьашьатәыс</li>
+      <li>NOUN: ахықәан, ажәабжьыс, ақәцәан, аҭакс, гәырҩас, Бгас, Гашьас, ақыҭан, ақәҵатәыс, аҭакыс</li>
       <li>VERB-Vnoun: Ҳәарас</li>
     </ul>
   </li>
@@ -297,7 +297,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Ine
     <ul>
-      <li>NOUN: ауадаҿы, баҕәазаҿы, аусураҿы, аҧарашьҭаҵарҭаҿы, Алаҿы, Ачараҿ, Аҧсабараҿы, Аҩнаҭаҿы, Иусумҭаҿы, Суадаҿы</li>
+      <li>NOUN: ауадаҿы, баҕәазаҿы, аусураҿы, аҧарашьҭаҵарҭаҿы, ивараҿы, Алаҿы, Ачараҿ, Аҧсабараҿы, Аҩнаҭаҿы, Иусумҭаҿы</li>
       <li>NUM: жәабаҿы</li>
     </ul>
   </li>
@@ -307,7 +307,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
   <li>Ins
     <ul>
       <li>ADJ: ҷыдала</li>
-      <li>NOUN: ҟамчыла, ажәала, лаҧшыла, машьынала, џьабаала, Қәрала, Хыш-хырҵәыла, аамҭала, архала, ашьҭахьала</li>
+      <li>NOUN: машьынала, ҟамчыла, аамҭала, ажәала, лаҧшыла, џьабаала, Қәрала, Хыш-хырҵәыла, архала, ашьҭахьала</li>
     </ul>
   </li>
 </ul>
@@ -316,8 +316,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
   <li>Lat
     <ul>
       <li>ADJ: Еиқәахь</li>
-      <li>NOUN: суадахь, ашьашьмахьы, луадахь, Ауадахь, абнахь, акрыфарҭахь, ақыҭахь, иуадахь, ҳуадахь, Амилициахь</li>
-      <li>VERB-Vnoun: анҵәарахьы</li>
+      <li>NOUN: суадахь, ашьашьмахьы, луадахь, Ауадахь, абнахь, акрыфарҭахь, амашьынахь, ақыҭахь, иуадахь, ҳуадахь</li>
+      <li>VERB-Vnoun: алыбаарахь, анҵәарахьы</li>
     </ul>
   </li>
 </ul>
@@ -346,10 +346,11 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Def
     <ul>
-      <li>ADJ: ахатә, аҳаиртә, аҵыхәтәантәи, агәыбжьанытәгьы, араионтә, асасааирҭатә, ашьҭахьтәи, аҩнуҵҟатәи, аҿартә-контрреволиуциатә-террористтә, Аказы</li>
-      <li>NOUN: аҧара, Абгахәыҷы, амилициа, аҧшәма, анцәа, аҩны, амашьына, амшын, астол, Аҵысҕра</li>
+      <li>ADJ: аҵыхәтәантәи, ахатә, ашьҭахьтәи, аҳаиртә, Аӡынтәи, агәыбжьанытәгьы, акынтәи, араионтә, асасааирҭатә, аҧышәаратә</li>
+      <li>NOUN: аҧара, амилициа, Абгахәыҷы, ашә, амашьына, анцәа, астол, аҧшәма, аҩны, аусеилыргаҩ</li>
       <li>NUM: аҩбагьы, ахҩыкгьы</li>
-      <li>VERB-Vnoun: аҳәара, ашәаҳәара, аҵәыуара, аизгара, ахәаара, ацара, Афар, Ацәысра, Ақәҧара, Аҭагалара</li>
+      <li>PRON: руаӡә</li>
+      <li>VERB-Vnoun: аҳәара, ашәаҳәара, аҵәыуара, аҳәҳәара, аизгара, анҵара, ахәаара, ацара, Афар, Ацәысра</li>
     </ul>
   </li>
 </ul>
@@ -365,10 +366,11 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Neg
     <ul>
-      <li>AUX-Fin: ыҟам, акәӡамызт, ракәым, сакәым, ҟалом, ҟамлеит</li>
-      <li>AUX-NonFin: акәымзар, ракәым, ракәымкәа</li>
-      <li>VERB-Fin: сыздыруам, сыздырам, сымам, ыҟаӡам, ҩашьомызт, дыҟамызт, рымамызт, ҟалом, Ицәгьам, Иҳаиҕьӡам</li>
-      <li>VERB-NonFin: умбои, акәымзар, мҳәакәа, бмаҳаӡеи, дмыццакӡо, сзымдыруа, сыҟамзар, узымдырӡои, уҭахымзар, Амшәгьы</li>
+      <li>AUX-Fin: ыҟам, акәмызт, акәӡамызт, залшомызт, ракәым, сакәым, ҟалом, ҟамлеит</li>
+      <li>AUX-NonFin: акәымзар, акәым, ракәым, ракәымкәа, уакәӡами</li>
+      <li>VERB-Fin: сыздыруам, сымам, сыздырам, ыҟаӡам, ҩашьомызт, дыҟам, дыҟамызт, рымамызт, сзаҵаҩуам, ҟалом</li>
+      <li>VERB-NonFin: акәымзар, умбои, мҳәакәа, Исзымдыруа, анимк, бмаҳаӡеи, дмыццакӡо, изаамго, изымчҳакәа, сзеилымкаауа</li>
+      <li>VERB-Vnoun: Умтәара</li>
     </ul>
   </li>
 </ul>
@@ -384,7 +386,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Iter
     <ul>
-      <li>VERB-Fin: далацалоит, сузыӡырҩлоит, узааргалоит, узгалап, ҳаицыхынҳәлон, ҳнеиааилап</li>
+      <li>VERB-Fin: далацалоит, сузыӡырҩлоит, сышьҭихлон, сҳәалон, узааргалоит, узгалап, ҳаицыхынҳәлон, ҳнеиааилап</li>
       <li>VERB-NonFin: дшаалоз, илҳәалоз</li>
     </ul>
   </li>
@@ -398,7 +400,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
   <li>Cnd
     <ul>
       <li>AUX-NonFin: акәзар, акәымзар, лакәзаргьы</li>
-      <li>VERB-NonFin: хәыҷызар, акәымзар, инаҧшызар, сыҟамзар, уҭахымзар, ҳарфар, Днеизар, Еилукаазар, Иаакылсыр, Ибымҳәар</li>
+      <li>VERB-NonFin: акәымзар, хәыҷызар, инаҧшызар, сыҟамзар, уҭахымзар, ҳарфар, Днеизар, Еилукаазар, Иаабар, Иаакылсыр</li>
     </ul>
   </li>
 </ul>
@@ -406,7 +408,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Cnd2
     <ul>
-      <li>VERB-NonFin: иааннамкылозҭгьы, иҩнамлазҭгьы, симамызҭгьы, сыдрымкылазҭгьы, уҧшуазҭгьы</li>
+      <li>VERB-NonFin: иааннамкылозҭгьы, иоузҭгьы, иҩнамлазҭгьы, симамызҭгьы, сыдрымкылазҭгьы, уҧшуазҭгьы</li>
     </ul>
   </li>
 </ul>
@@ -414,7 +416,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Imp
     <ul>
-      <li>VERB-Fin: сықәыртәа, уца, исышәҭ, саҭоумҵан, уааи, уаангылишь, уааскьа, уаҧырҵ, уҳацхраа, шәаала</li>
+      <li>VERB-Fin: сықәыртәа, уца, Иаажәг, исышәҭ, саҭоумҵан, уааи, уаангылишь, уааскьа, уаҧырҵ, утәа</li>
     </ul>
   </li>
 </ul>
@@ -422,8 +424,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Ind
     <ul>
-      <li>AUX-Fin: ауп, акәын, соуп, иоуп, иакәын, лоуп, акәхарын, оуп, акәхап, боуп</li>
-      <li>VERB-Fin: иҳәеит, аҳәеит, иалагеит, ҿаанаҭит, дцеит, иҳәан, лҳәеит, рҳәеит, иаҿын, ицеит</li>
+      <li>AUX-Fin: ауп, акәын, соуп, оуп, иоуп, акәхап, иакәын, лоуп, акәхарын, роуп</li>
+      <li>VERB-Fin: иҳәеит, аҳәеит, иҳәан, иалагеит, лҳәеит, далагеит, дцеит, рҳәеит, ҿаанаҭит, иаҿын</li>
     </ul>
   </li>
 </ul>
@@ -432,7 +434,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
   <li>Int
     <ul>
       <li>AUX-Fin: оума</li>
-      <li>AUX-NonFin: аума, акәу, роума, соума, уоума, ҟалома</li>
+      <li>AUX-NonFin: аума, уоума, ҟалома, акәу, ами, рами, роума, соума, уакәӡами</li>
       <li>VERB-NonFin: умбои, бмаҳаӡеи, изгама, изуҭахузеи, узымдырӡои, шҧоубои, шәабацеи, Баҳама, Иабацеи, Иабаҟоу</li>
     </ul>
   </li>
@@ -441,7 +443,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Nec
     <ul>
-      <li>VERB-Fin: иҳауҳәароуп, сыҩналароуп, ҭашәырцәыроуп, ҳасроуп</li>
+      <li>VERB-Fin: иҳауҳәароуп, снеироуп, усыцхраароуп, ҭашәырцәыроуп, ҳасроуп, ҳзынхароуп</li>
     </ul>
   </li>
 </ul>
@@ -449,7 +451,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Opt
     <ul>
-      <li>VERB-NonFin: аабгандаз, жәдыруандаз, сҿамҳандаз, удыруандаз</li>
+      <li>VERB-NonFin: аабгандаз, акрысзиҿаҵанда, жәдыруандаз, сҿамҳандаз, удыруандаз</li>
     </ul>
   </li>
 </ul>
@@ -457,7 +459,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Prp
     <ul>
-      <li>VERB-NonFin: ааигарц, ааргарц, ааҳхәарц, агарц, адырырц, арӡырц, аҽамнахырц, баблырц, диҿадыргыларц, днатәарц</li>
+      <li>VERB-NonFin: уахыччарц, Иукьыҧхьырц, ааигарц, ааиланамыргыларц, ааргарц, ааҳхәарц, агарц, адырырц, арӡырц, ақәуҭәарц</li>
     </ul>
   </li>
 </ul>
@@ -465,7 +467,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Sub
     <ul>
-      <li>VERB-Fin: ирымазааит, убааит, ҳаиҩызцәазааит, Ишәеиҳәоз, аабзиахааит, бзиазааит, дааиааит, дгылазааит, иамазааит, иҧижәааит</li>
+      <li>VERB-Fin: ирымазааит, убааит, ҳаиҩызцәазааит, Ишәеиҳәоз, Саҭамзааит, аабзиахааит, бзиазааит, дааиааит, дгылазааит, ддырхынҳәааит</li>
     </ul>
   </li>
 </ul>
@@ -478,8 +480,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
   <li>Aor
     <ul>
       <li>AUX-Fin: ҟамлеит</li>
-      <li>VERB-Fin: иҳәеит, аҳәеит, иалагеит, ҿаанаҭит, дцеит, лҳәеит, рҳәеит, ицеит, аҿынанахеит, дҵааит</li>
-      <li>VERB-NonFin: анакәха, аашьҭыхны, кны, Ишәыхьзеи, данца, днеины, дыҩны, иааҟәыҵны, иҟалеи, мҳәакәа</li>
+      <li>VERB-Fin: иҳәеит, аҳәеит, иалагеит, лҳәеит, далагеит, дцеит, рҳәеит, ҿаанаҭит, ицеит, аҿынанахеит</li>
+      <li>VERB-NonFin: анакәха, аашьҭыхны, днеины, кны, Ишәыхьзеи, аартны, дааины, данца, дыҩны, иааҟәыҵны</li>
     </ul>
   </li>
 </ul>
@@ -488,6 +490,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
   <li>Cnd
     <ul>
       <li>AUX-Fin: акәхарын</li>
+      <li>VERB-Fin: иаақәыскрын</li>
       <li>VERB-NonFin: Дзыршанхарыз, Излихрыз, дааирызу, дзыҳәарыз, игарызу, изгарыдаз, ишысшәысҵарыз, иҟарҵарыз</li>
     </ul>
   </li>
@@ -496,7 +499,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Cnd2
     <ul>
-      <li>VERB-NonFin: Иҟалашаз, дахьтәашаз, дахьышьҭарҵашаз, излацәаҕәашаз, илфашаз, сшыҟалашаз</li>
+      <li>VERB-NonFin: дахьтәашаз, Иҟалашаз, дахьышьҭарҵашаз, излацәаҕәашаз, илфашаз, сшыҟалашаз</li>
     </ul>
   </li>
 </ul>
@@ -505,8 +508,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
   <li>Fut
     <ul>
       <li>AUX-Fin: акәхап, ҟалап</li>
-      <li>VERB-Fin: акәхап, ааиҭаскып, аасрыхып, аасшьап, аласыгӡап, дахьӡап, дақәсыртәап, еилазгарым, еиқәсырхап, збап</li>
-      <li>VERB-NonFin: иҟаҳҵарызеи, Изалшарыма, Изуцәызӡарызеи, Ишәзызура, аакылнаҵәарашәа, дцараны, ииҳәараны, исарҳәари, исҳәараны, ицарашәа</li>
+      <li>VERB-Fin: акәхап, ааиҭаскып, аасрыхып, аасшьап, аласыгӡап, ббап, дахьӡап, дақәсыртәап, еилазгарым, еиқәсырхап</li>
+      <li>VERB-NonFin: иҟаҳҵарызеи, Изалшарыма, Изуцәызӡарызеи, Ишәзызура, ааихыҵрашәа, аакылнаҵәарашәа, дцараны, ииҳәараны, исарҳәари, исҳәараны</li>
     </ul>
   </li>
 </ul>
@@ -522,10 +525,10 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Imp
     <ul>
-      <li>AUX-Fin: акәын, иакәын, ракәын, акәӡамызт, лакәын, ҟалон</li>
+      <li>AUX-Fin: акәын, иакәын, ракәын, акәмызт, акәӡамызт, алшон, залшомызт, лакәын, ҟалон</li>
       <li>AUX-NonFin: ракәызшәа, шакәыз, шакәызгьы, шиакәыз, шракәыз</li>
-      <li>VERB-Fin: иаҿын, дыҟан, ишьҭан, ҩашьомызт, дыҟамызт, игылан, иман, иҟан, рымамызт, сҭахын</li>
-      <li>VERB-NonFin: иҟаз, закәызеи, итәаз, иҭаз, ахьгылаз, дышнеиуаз, игылаз, шҧахәыҷыз, ахьтәаз, данааиуаз</li>
+      <li>VERB-Fin: иаҿын, дыҟан, игылан, ишьҭан, ыҟан, ҩашьомызт, дыҟамызт, иман, иҟан, рымамызт</li>
+      <li>VERB-NonFin: иҟаз, закәызеи, игылаз, итәаз, иҭаз, ахьгылаз, дышнеиуаз, иамаз, ирымаз, шыҟаз</li>
     </ul>
   </li>
 </ul>
@@ -533,8 +536,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Past
     <ul>
-      <li>VERB-Fin: иҳәан, аҳәан, даахьаҳәын, Сҩагылан, ааиган, дааин, днарысын, иҩаҵҟьан, иҿынеихан, ҳцан</li>
-      <li>VERB-NonFin: инеиз, Иҟалаз, илҳәаз, дзыниаз, иаҳаз, иаҳәаз, изҭаз, исҳәаз, Исыхьыз, ахьырбаз</li>
+      <li>VERB-Fin: иҳәан, аҳәан, даахьаҳәын, дааин, иҿынеихан, Сҩагылан, ааиган, днарысын, днеин, дҩаҵҟьан</li>
+      <li>VERB-NonFin: илҳәаз, инеиз, Иҟалаз, ииҳәаз, дахьтәаз, дзыниаз, дшыныҩналаз, иаҳаз, иаҳәаз, изҭаз</li>
     </ul>
   </li>
 </ul>
@@ -542,8 +545,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Pqp
     <ul>
-      <li>VERB-Fin: аахьан, адыркхьан, аҽазнакхьан, днеихьан, дныҟәахьан, дрыцқьахьан, дыҧсхьан, еизахьан, еимырдахьан, иалагахьан</li>
-      <li>VERB-NonFin: Иаҳахьаз, абазбахьаз, дышдыргәаҟхьаз, иаахьаз, иааҧсахьаз, иҟасҵахьази, шыҩналахьаз</li>
+      <li>VERB-Fin: аахьан, адыркхьан, аҽазнакхьан, дизамыҧхьаӡацызт, днеихьан, дныҟәахьан, дрыцқьахьан, дыҧсхьан, еизахьан, еимырдахьан</li>
+      <li>VERB-NonFin: Иаҳахьаз, абазбахьаз, дышдыргәаҟхьаз, иаахьаз, иааҧсахьаз, иеиҳәахьаз, ииҩхьаз, шыҩналахьаз</li>
     </ul>
   </li>
 </ul>
@@ -551,10 +554,10 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Pres
     <ul>
-      <li>AUX-Fin: ауп, соуп, иоуп, лоуп, оуп, боуп, роуп, алшоит, ыҟам, оума</li>
-      <li>AUX-NonFin: акәзар, аума, акәу, акәымзар, лакәзаргьы, ракәым, ракәымкәа, роума, соума, уакәны</li>
-      <li>VERB-Fin: иҟоуп, ибзиоуп, сыздыруам, еиҕьуп, иаауеит, избоит, сыздырам, сымам, ыҟаӡам, Ииашоуп</li>
-      <li>VERB-NonFin: иҟоу, иаҭахузеи, умбои, хәыҷызар, ҳаицны, акәымзар, иуцәажәашьоузеи, иҩноу, иҷырҷыруа, Иазууазеи</li>
+      <li>AUX-Fin: ауп, соуп, оуп, иоуп, лоуп, роуп, боуп, алшоит, ыҟам, ҟалоит</li>
+      <li>AUX-NonFin: акәзар, акәымзар, аума, уоума, шакәу, ҟалома, акәны, акәу, акәым, ами</li>
+      <li>VERB-Fin: иҟоуп, ибзиоуп, сыздыруам, еиҕьуп, сымам, иаауеит, избоит, сыздырам, ыҟаӡам, Ииашоуп</li>
+      <li>VERB-NonFin: иҟоу, акәымзар, иаҭахузеи, умбои, хәыҷызар, ҳаицны, иуцәажәашьоузеи, иҩноу, иҷырҷыруа, Иазууазеи</li>
     </ul>
   </li>
 </ul>
@@ -562,8 +565,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Prf
     <ul>
-      <li>VERB-Fin: Дымнеицт, дырҭихьазаарын, дҭамлаӡацт, еилыҵхьеит, здырхьеит, имаацт, имшьацт, ирысҭахьеит, исзеиҭалҳәахьеит, ишәаҳахьеит</li>
-      <li>VERB-NonFin: Ишәасымҳәахьеи, базхәыцхьоу, балаҧшхьоу, дызҿыц, еицныҟәахьаны, ииҳәац, инеихьада, ишаҿыц, ишыҟаиҵац, нысххьазар</li>
+      <li>VERB-Fin: Дымнеицт, акриҿасымҵаӡацт, дырҭихьазаарын, дҭамлаӡацт, дҭымҵыц, еилыҵхьеит, здырхьеит, имаацт, имшьацт, ирысҭахьеит</li>
+      <li>VERB-NonFin: Ишәасымҳәахьеи, базхәыцхьоу, балаҧшхьоу, дызҿыц, еицныҟәахьаны, ииҳәац, инеихьада, ишаҿыц, иштәац, ишыҟаиҵац</li>
     </ul>
   </li>
 </ul>
@@ -575,9 +578,9 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Cau
     <ul>
-      <li>VERB-Fin: диртәеит, сықәыртәа, еиқәурхеит, инеилыркит, ааирххеит, аалыртын, аасрыхып, аасыкәиршеит, аасыртит, аахнарџьаџьеит</li>
-      <li>VERB-NonFin: аартны, иархәаны, Дзыршанхарыз, Ицырҕызуа, Лҽаарманшәаланы, Рҽырмазеины, Шәныҵеибарҟьа, ааиланаргьежьызшәа, ааруны, аарҵысны</li>
-      <li>VERB-Vnoun: арыцқьара, аилыргара, ашьақәырҕәҕәара</li>
+      <li>VERB-Fin: диртәеит, сықәыртәа, дархәыцит, еиқәурхеит, инеилыркит, ааибарччеит, ааимаирџахәын, ааиртын, ааирххеит, аалыртын</li>
+      <li>VERB-NonFin: аартны, иархәаны, рханы, Дзыршанхарыз, Ицырҕызуа, Лҽаарманшәаланы, Рҽырмазеины, Шәныҵеибарҟьа, ааиланамыргыларц, ааиланаргьежьызшәа</li>
+      <li>VERB-Vnoun: арыцқьара, аартра, аилыргара, арҟәыҷра, ашьақәырҕәҕәара, зыргәаҟра, ирҳәацәара, лырҳәацәара</li>
     </ul>
   </li>
 </ul>
@@ -585,8 +588,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Pass
     <ul>
-      <li>VERB-Fin: аҿаҟаҵан, деилаҳәоуп, кнаҳан, гоуп, дааӡан, деилкаам, днаилагахт, иацхраатәуп, идҵам, икнаҳан</li>
-      <li>VERB-NonFin: ивҵрааз, Икнаҳан, Ушааҧхьаз, анеилкааха, дахьжыз, дҭаҩызу, злашәоу, зышәҭаххаз, иаартыз, иакәыршаз</li>
+      <li>VERB-Fin: аҿаҟаҵан, деилаҳәоуп, кнаҳан, амхуп, аушьҭуп, гоуп, дааӡан, деилкаам, днаилагахт, еилкаауп</li>
+      <li>VERB-NonFin: ивҵрааз, Икнаҳан, Ушааҧхьаз, анеилкааха, дахьжыз, дкаршәзар, дшаашьҭыз, дҭаҩызу, злашәоу, зышәҭаххаз</li>
     </ul>
   </li>
 </ul>
@@ -598,7 +601,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Nfh
     <ul>
-      <li>VERB-Fin: дааргазаап, дхәыҷызаап, иауазаап, иаҳазаап, иҟазаап, кыдгылазаап, Ҳиашамзаап</li>
+      <li>VERB-Fin: дааргазаап, дхәыҷызаап, иауазаап, иаҳазаап, иҟазаап, иҟалазаап, кыдгылазаап, Ҳиашамзаап</li>
     </ul>
   </li>
 </ul>
@@ -606,7 +609,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Nfh2
     <ul>
-      <li>VERB-Fin: хәыҷызаарын, дырҭихьазаарын, игылазаарын, шәырфахьазаарын</li>
+      <li>VERB-Fin: хәыҷызаарын, дишьҭазаарын, дырҭихьазаарын, игылазаарын, шәырфахьазаарын</li>
     </ul>
   </li>
 </ul>
@@ -621,7 +624,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Dem
     <ul>
-      <li>PRON: уи, ари, убри, уигьы, егьи, урҭ, абарҭ, абри, Абарҭқәа, Арҭ</li>
+      <li>PRON: уи, ари, убри, уигьы, абри, егьи, урҭ, абарҭ, Арҭ, Абарҭқәа</li>
     </ul>
   </li>
 </ul>
@@ -629,7 +632,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Ind
     <ul>
-      <li>PRON: акгьы, аӡәгьы, акы, аӡәы, ак, аӡә, шьоукы, џьоукы, аӡәыр, руакы</li>
+      <li>PRON: акгьы, аӡәгьы, акы, аӡәы, ак, шьоукы, аӡә, џьоукы, аӡәыр, руакы</li>
     </ul>
   </li>
 </ul>
@@ -643,13 +646,21 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 </ul>
 
 <ul>
+  <li>Tot
+    <ul>
+      <li>PRON: зегьы, зегь, дасу</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>NumType</a></li>
 </ul>
 
 <ul>
   <li>Card
     <ul>
-      <li>NUM: аҩбагьы, хәҩык, ҩыџьа, 12, акы, ахҩыкгьы, быжьҩык, хҩык, ҩба, ҳҩыџьагь</li>
+      <li>NUM: аҩбагьы, ҩыџьа, хҩык, хәҩык, ҳҩыџьагь, 12, 1931, 21, 400, акы</li>
     </ul>
   </li>
 </ul>
@@ -657,7 +668,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Ord
     <ul>
-      <li>NUM: аҩбатәи, 33-тәи, 35-тәи</li>
+      <li>NUM: аҩбатәи, 33-тәи, 35-тәи, Аҧшьбатәи</li>
     </ul>
   </li>
 </ul>
@@ -679,7 +690,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>1
     <ul>
-      <li>PRON: сара, ҳара, саргьы, ҳарҭ, сареи, Ҳара-ҳара, ҳаргьы, ҳарҭгьы</li>
+      <li>PRON: сара, ҳара, саргьы, ҳарҭ, сареи, са, Ҳара-ҳара, ҳаргьы, ҳарҭгьы</li>
     </ul>
   </li>
 </ul>
@@ -687,7 +698,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>2
     <ul>
-      <li>PRON: уара, шәара, бара, уаргьы, бареи, баргьы, уареи</li>
+      <li>PRON: уара, шәара, бара, уаргьы, бареи, уареи, баргьы</li>
     </ul>
   </li>
 </ul>
@@ -711,8 +722,9 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
       <li>ADJ: бхәыҷы</li>
       <li>ADP: лзы, лыда, лышҟа, лаҵкыс, леиҧш, лышьҭахь, лыҩнуҵҟа, лҿы</li>
       <li>ADV: лхаҭа</li>
-      <li>NOUN: лгәы, лыбжьы, лнапы, луадахь, лхы, Лхахәы, бгәы, лажәа, лылахь, лыхцәы</li>
-      <li>VERB-Vnoun: бнеира, лазҵаарагьы</li>
+      <li>NOUN: лыбжьы, лгәы, лнапы, лажәа, луадахь, лхы, Бхаҵа, Лхахәы, бгәы, бхәыҷы</li>
+      <li>VERB-Fin: лҿыналхеит</li>
+      <li>VERB-Vnoun: бнеира, лазҵаарагьы, лырҳәацәара</li>
     </ul>
   </li>
 </ul>
@@ -720,13 +732,13 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: имазеины, ихатә, ихәыҷқәа, иҕәҕәаны, иҵәыҵәӡа</li>
-      <li>ADP: иаҧхьа, ишьҭахь, уаҧхьа, ида, Иеиҳагьы, иеиҧш, изыҳәан, иҟны, иҟынӡа, иҭыҧан</li>
-      <li>ADV: имацара, ихазы, ухала, изхара, ихала, ихаҭа</li>
-      <li>NOUN: игәы, иан, ибжьы, ихы, иашьцәа, ила, имашьына, инапы, иангьы, иашҭа</li>
+      <li>ADJ: имазеины, иусуратә, ихатә, ихәыҷқәа, иҕәҕәаны, иҵәыҵәӡа</li>
+      <li>ADP: иаҧхьа, ишьҭахь, ида, уаҧхьа, иахь, иҟны, Иеиҳагьы, иаҳасабала, иаҵкыс, иаҵкысгьы</li>
+      <li>ADV: ихала, имацара, ихазы, ихаҭа, ухала, изхара, ихаҭагьы</li>
+      <li>NOUN: игәы, ибжьы, ихы, иан, иашьцәа, инапы, ишьапы, ила, илахь, имашьына</li>
       <li>VERB-Fin: иҿынеихан, иҿынеихеит, иҿааихеит, сихәарҭоуп, уҿааха</li>
       <li>VERB-NonFin: иуцәажәашьоузеи, иуцәажәашьоу, ишиусыз</li>
-      <li>VERB-Vnoun: иаара, идырра, изҵаара, ишьразы</li>
+      <li>VERB-Vnoun: иаара, Умтәара, еилагара, идырра, изҵаара, ирҳәацәара, ишьразы, иҽаҩра, иҿыхразы</li>
     </ul>
   </li>
 </ul>
@@ -735,12 +747,12 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
   <li>Neut
     <ul>
       <li>ADJ: аҩнуҵҟантәи</li>
-      <li>ADP: еиҧш, ашьҭахь, азы, аҿы, ахь, ала, аҧхьа, ашҟа, аҟны, аҟара</li>
+      <li>ADP: еиҧш, ашьҭахь, азы, аҿы, ахь, ала, ашҟа, аҧхьа, аҟны, аҟара</li>
       <li>ADV: азхараҵәҟьа, ахала</li>
-      <li>NOUN: акапитан, агәра, ашә, абжьы, азыбжак, аусзуҩы, ахықәан, аӡбахә, аамҭа, аџьыба</li>
-      <li>VERB-Fin: аҿынанахеит, аҿаанахеит, аҿынанахон, иақәхом, уабаҟаз</li>
-      <li>VERB-NonFin: еиҕьу, иеиҳабугьы, иеиҵбугьы</li>
-      <li>VERB-Vnoun: аилыргара, аицәахареи, анҵара, анҵәареи, арыцқьара, ахцәажәара, ашьақәырҕәҕәара</li>
+      <li>NOUN: агәра, акапитан, ашә, аусзуҩы, аамҭа, абжьы, азыбжак, ахықәан, аӡбахә, агәы</li>
+      <li>VERB-Fin: аҿынанахеит, аҿаанахеит, аҿынанахон, иақәхом, иаҿаҵахәхеит, уабаҟаз</li>
+      <li>VERB-NonFin: Иахьӡузеи, еиҕьу, иеиҳабугьы, иеиҵбугьы</li>
+      <li>VERB-Vnoun: аилкаара, аилыргара, аицәахареи, анҵәареи, арыцқьара, арҟәыҷра, ахцәажәара, ахҩылаара, ашьақәырҕәҕәара, аҳәара</li>
     </ul>
   </li>
 </ul>
@@ -752,16 +764,16 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Plur
     <ul>
-      <li>ADJ: Шәхатә, рааигәа, реиҵбы, рхатәы, шәаҧсуа</li>
-      <li>ADP: рҿы, реиҧш, шәаасҭа, рахь, рышьҭахь, ҳҿы, раҧхьа, рзы, рҟны, ҳаҟны</li>
-      <li>ADV: рхаҭақәа, шәызхараҵәҟьа, шәымацара, ҳазхараҵәҟьа</li>
+      <li>ADJ: Шәхатә, рааигәа, реиҳабы, реиҵбы, реиҵыбӡа, рхатәы, шәаҧсуа, Ҳаучасткатә</li>
+      <li>ADP: рҿы, реиҧш, раҧхьа, шәаасҭа, рахь, рышьҭахь, ҳҿы, рзы, рыда, рҟны</li>
+      <li>ADV: рхаҭақәа, Рхала, шәызхараҵәҟьа, шәымацара, ҳазхараҵәҟьа</li>
       <li>INTJ: шәанаџьалбеит</li>
-      <li>NOUN: ран, рыҧсы, ҳаҧшәма, реиҳабы, рхы, рҭыҧ, шәгәы, Ҳан, ҳамш, ҳгәы</li>
+      <li>NOUN: ран, реиҳабы, рыҧсы, ҳаҧшәма, рхы, рҭыҧ, шәгәы, Ҳан, ҳамш, ҳгәы</li>
       <li>NUM: ҳҩыџьагь, Рҩыџьагьы, рыҩбагьы, шәҩыџьагьы</li>
-      <li>PRON: руакы, Руаӡәк, руак, рызынтәык</li>
-      <li>VERB-Fin: ҳҿынаҳхеит, Иҳаиҕьӡам, дреиуоуп, иреиуоуп, ирыхәҭоуп, ишәусым, рҿаархеит, рҿынархеит, среиуоуп</li>
-      <li>VERB-NonFin: иреиҳабыз, иреиуаз, ирлахьынҵахаз, рҿанынарха, уҳаиҕьушәа</li>
-      <li>VERB-Vnoun: Шәҭазаара, раагара, ргаразы, рыфара</li>
+      <li>PRON: руакы, Руаӡәк, руак, руаӡә, рызынтәык</li>
+      <li>VERB-Fin: ҳҿынаҳхеит, Иҳаиҕьӡам, рҿаархеит, дреиуоуп, иреиуоуп, ирыхәҭоуп, ишәусым, рҿынархеит, среиуоуп</li>
+      <li>VERB-NonFin: иреиҳабыз, иреиуаз, ирлахьынҵахаз, рҿанынарха, уҳаиҕьушәа, ҳхәарҭам</li>
+      <li>VERB-Vnoun: Шәҭазаара, раагара, ргаразы, рыфара, рыҭгара, ҳаиқәшәара</li>
     </ul>
   </li>
 </ul>
@@ -769,14 +781,15 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 <ul>
   <li>Sing
     <ul>
-      <li>ADJ: аҩнуҵҟантәи, бхәыҷы, имазеины, ихатә, ихәыҷқәа, иҕәҕәаны, иҵәыҵәӡа, схәыҷқәа</li>
-      <li>ADP: еиҧш, ашьҭахь, азы, аҿы, ахь, ала, аҧхьа, ашҟа, аҟны, аҟара</li>
-      <li>ADV: имацара, ихазы, лхаҭа, ухала, азхараҵәҟьа, ахала, изхара, ихала, ихаҭа, сымала</li>
-      <li>NOUN: игәы, иан, ибжьы, акапитан, ихы, сгәы, агәра, иашьцәа, сан, сашьцәа</li>
+      <li>ADJ: аҩнуҵҟантәи, бхәыҷы, имазеины, иусуратә, ихатә, ихәыҷқәа, иҕәҕәаны, иҵәыҵәӡа, сусуратә, схәыҷқәа</li>
+      <li>ADP: еиҧш, ашьҭахь, азы, аҿы, ахь, ала, ашҟа, аҧхьа, аҟны, аҟара</li>
+      <li>ADV: ихала, имацара, ихазы, ихаҭа, лхаҭа, схала, ухала, азхараҵәҟьа, ахала, изхара</li>
+      <li>NOUN: игәы, ибжьы, ихы, иан, агәра, сгәы, акапитан, ашә, схы, иашьцәа</li>
       <li>PROPN: с-Ҷына-ҟәыбҷа</li>
-      <li>VERB-Fin: аҿынанахеит, иҿынеихан, иҿынеихеит, сҿынасхеит, аҿаанахеит, аҿынанахон, дсықәлоуп, иақәхом, исусӡам, иҿааихеит</li>
-      <li>VERB-NonFin: иуцәажәашьоузеи, еиҕьу, иеиҳабугьы, иеиҵбугьы, иуцәажәашьоу, ишиусыз, сгәҭаны, сҿаасхоны, сҿанынасха</li>
-      <li>VERB-Vnoun: иаара, аилыргара, аицәахареи, анҵара, анҵәареи, арыцқьара, ахцәажәара, ашьақәырҕәҕәара, бнеира, идырра</li>
+      <li>VERB: аҿынанахеит, иаара, иуцәажәашьоузеи, иҿынеихан, иҿынеихеит, сҿынасхеит, Иахьӡузеи, Умтәара, аилкаара, аилыргара</li>
+      <li>VERB-Fin: аҿынанахеит, иҿынеихан, иҿынеихеит, сҿынасхеит, аҿаанахеит, аҿынанахон, дсықәлоуп, иақәхом, иаҿаҵахәхеит, исусӡам</li>
+      <li>VERB-NonFin: иуцәажәашьоузеи, Иахьӡузеи, еиҕьу, иеиҳабугьы, иеиҵбугьы, иуцәажәашьоу, ишиусыз, сҿаасхоны, сҿанынасха</li>
+      <li>VERB-Vnoun: иаара, Умтәара, аилкаара, аилыргара, аицәахареи, анҵәареи, арыцқьара, арҟәыҷра, ахцәажәара, ахҩылаара</li>
     </ul>
   </li>
 </ul>
@@ -789,21 +802,21 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>No
         <ul>
-          <li>AUX-Fin: ауп, акәын, соуп, иоуп, иакәын, лоуп, оуп, боуп, ракәын, роуп</li>
-          <li>AUX-NonFin: акәзар, аума, акәу, акәымзар, лакәзаргьы, ракәызшәа, ракәым, ракәымкәа, роума, соума</li>
-          <li>VERB: иҟаз, иаҿын, иҟоуп, дыҟан, ибзиоуп, иҟоу, закәызеи, еиҕьуп, иаҭахузеи, итәаз</li>
-          <li>VERB-Fin: иаҿын, иҟоуп, дыҟан, ибзиоуп, еиҕьуп, ишьҭан, сымам, ыҟаӡам, Ииашоуп, дыҟамызт</li>
-          <li>VERB-NonFin: иҟаз, иҟоу, закәызеи, иаҭахузеи, итәаз, иҭаз, хәыҷызар, ҳаицны, акәымзар, ахьгылаз</li>
+          <li>AUX-Fin: ауп, акәын, соуп, оуп, иоуп, иакәын, лоуп, роуп, боуп, ракәын</li>
+          <li>AUX-NonFin: акәзар, акәымзар, аума, уоума, шакәу, акәны, акәу, акәым, ами, лакәзаргьы</li>
+          <li>VERB: иҟаз, иаҿын, иҟоу, иҟоуп, дыҟан, ибзиоуп, еиҕьуп, закәызеи, игылаз, игылан</li>
+          <li>VERB-Fin: иаҿын, иҟоуп, дыҟан, ибзиоуп, еиҕьуп, игылан, сымам, ишьҭан, ыҟан, ыҟаӡам</li>
+          <li>VERB-NonFin: иҟаз, иҟоу, закәызеи, игылаз, акәымзар, иаҭахузеи, итәаз, иҭаз, хәыҷызар, ҳаицны</li>
           <li>VERB-Vnoun: Шәҭазаара, аҟазаара, лара</li>
         </ul>
       </li>
       <li>Yes
         <ul>
-          <li>AUX-Fin: акәхарын, акәхап, алшоит, ҟалап, ҟалоит, ҟалом, ҟалон, ҟамлеит</li>
+          <li>AUX-Fin: акәхап, акәхарын, алшоит, ҟалоит, алшон, залшомызт, ҟалап, ҟалом, ҟалон, ҟамлеит</li>
           <li>AUX-NonFin: ҟалома</li>
-          <li>VERB-Fin: иҳәеит, аҳәеит, иалагеит, ҿаанаҭит, дцеит, иҳәан, лҳәеит, рҳәеит, ицеит, аҳәан</li>
-          <li>VERB-NonFin: анакәха, инеиз, Иҟалаз, аашьҭыхны, илҳәаз, кны, умбои, Ишәыхьзеи, данца, дзыниаз</li>
-          <li>VERB-Vnoun: аҳәара, ашәаҳәара, аҵәыуара, иаара, Ҳәарас, аизгара, анҵара, арыцқьара, ахәаара, ацара</li>
+          <li>VERB-Fin: иҳәеит, аҳәеит, иҳәан, иалагеит, лҳәеит, далагеит, дцеит, рҳәеит, ҿаанаҭит, ицеит</li>
+          <li>VERB-NonFin: илҳәаз, инеиз, анакәха, Иҟалаз, аашьҭыхны, днеины, кны, ииҳәаз, умбои, Ишәыхьзеи</li>
+          <li>VERB-Vnoun: аҳәара, ашәаҳәара, аҵәыуара, аҳәҳәара, иаара, Ҳәарас, аизгара, анҵара, арыцқьара, ахәаара</li>
         </ul>
       </li>
     </ul>
@@ -815,17 +828,20 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>Fem
         <ul>
-          <li>VERB-Fin: лдыржәуан, налирбеит, налсыркит</li>
+          <li>VERB-Fin: илдырҳәеит, лдыржәуан, налирбеит, налсыркит</li>
+          <li>VERB-NonFin: данылдыркы</li>
         </ul>
       </li>
       <li>Masc
         <ul>
-          <li>VERB-Fin: инеилыркит, инеисырбеит, иусырбап</li>
+          <li>VERB-Fin: иирбеит, ииркит, инеилыркит, инеисырбеит, иусырбап, неисырбеит</li>
+          <li>VERB-NonFin: иахьисырбаз</li>
         </ul>
       </li>
       <li>Neut
         <ul>
-          <li>VERB-NonFin: ааруны, аруны</li>
+          <li>VERB-Fin: асыруит, иасырбом</li>
+          <li>VERB-NonFin: ааруны, аруны, иасырбаз</li>
         </ul>
       </li>
     </ul>
@@ -839,25 +855,25 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
         <ul>
           <li>AUX-Fin: лоуп, боуп, лакәын</li>
           <li>AUX-NonFin: лакәзаргьы</li>
-          <li>VERB-Fin: дынлазҵааит, сналазҵааит, баҳаит, блацәажәа, илиҭеит, илмаҳаит, лоухьеит, налыцхрааит, слазҵааит, сналеихырхәан</li>
+          <li>VERB-Fin: дынлазҵааит, сналазҵааит, баҳаит, блацәажәа, илиҭеит, илмаҳаит, лоухьеит, лысҭахьан, налыцхрааит, слазҵааит</li>
           <li>VERB-NonFin: Илыхьзеи, бмаҳаӡеи, лыманы, Баҳама, Илгаҵәҟьаны, Илхарамкәа, Слазҵаанӡа, анлаҳа, анлысҭа, былмацәажәо</li>
         </ul>
       </li>
       <li>Masc
         <ul>
           <li>AUX-Fin: иоуп, иакәын</li>
-          <li>AUX-NonFin: уакәны, уоума, шиакәу, шиакәыз</li>
-          <li>VERB-Fin: иман, диҳәон, дукәыхшоуп, шәит, Ихьӡын, деиҭаиазҵааит, диазҵааит, днаиазҵааит, днаиацәажәеит, днаисын</li>
-          <li>VERB-NonFin: изҭаз, иаҳаз, иманы, анисҭа, ахьимамыз, диазҵаазшәа, диазҵаауа, диҳәацыҧхьаӡа, днаиҧызаны, иаҳауаз</li>
+          <li>AUX-NonFin: уоума, уакәны, уакәӡами, шиакәу, шиакәыз</li>
+          <li>VERB-Fin: иман, диҳәон, дукәыхшоуп, иоуит, шәит, Ихьӡын, деиҭаиазҵааит, диазҵааит, днаиазҵааит, днаиацәажәеит</li>
+          <li>VERB-NonFin: изҭаз, иаҳаз, иманы, Иумазар, ааисны, анимоуӡа, анисҭа, ахьимамыз, диазҵаазшәа, диазҵаауа</li>
           <li>VERB-Vnoun: Иҳәара</li>
         </ul>
       </li>
       <li>Neut
         <ul>
-          <li>AUX-Fin: ауп, акәын, акәхарын, оуп, акәхап, акәӡамызт, оума</li>
-          <li>AUX-NonFin: акәзар, аума, акәу, акәымзар, шакәу, шакәыз, шакәызгьы</li>
-          <li>VERB-Fin: иаацәажәеит, акәхап, акәхеит, иахьӡын, Иаҳаит, Иаҳзаҧсам, адыркхьан, акәым, алыркит, амамызт</li>
-          <li>VERB-NonFin: анакәха, акәымзар, аманы, иамаз, иархәаны, акәу, акәымзи, акәӡамзи, аман, аума</li>
+          <li>AUX-Fin: ауп, акәын, оуп, акәхап, акәхарын, акәмызт, акәӡамызт, оума</li>
+          <li>AUX-NonFin: акәзар, акәымзар, аума, шакәу, акәны, акәу, акәым, ами, шакәыз, шакәызгьы</li>
+          <li>VERB-Fin: иаацәажәеит, акәхеит, акәхап, иахьӡын, Иаҳаит, Иаҳзаҧсам, Саҭамзааит, адыркхьан, акәым, алыркит</li>
+          <li>VERB-NonFin: анакәха, акәымзар, иамаз, аманы, деигәырҕьаны, иархәаны, акәу, акәымзи, акәӡамзи, аман</li>
           <li>VERB-Vnoun: аисра, аҭара, лазҵаарагьы</li>
         </ul>
       </li>
@@ -870,22 +886,15 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>Fem
         <ul>
-          <li>VERB-Fin: сналыхәаҧшит, даалыдгылт, длықәҳәҳәеит, дылҟәаҵуамызт, дынлыхәаҧшит, ибхашҭит, илеиҳәеит, илыдиҵеит, илықәуп, илықәыҧсоуп</li>
-          <li>VERB-NonFin: быдызҵада, дбыдыбкылома, длыхәазырҧшы, илыҕроу, лықәҧсаны, лыҵамкәа, лҧыраҳәаны, лҿыкьасо, налҿаба, сналыдгыланы</li>
+          <li>VERB-Fin: сналыхәаҧшит, даалыдгылт, длықәҳәҳәеит, дылҟәаҵуамызт, дынлыхәаҧшит, ибхашҭит, илеиҳәеит, илыдиҵеит, илықәлан, илықәуп</li>
+          <li>VERB-NonFin: Уналҿаҧшыр, быдызҵада, дбыдыбкылома, длыхәазырҧшы, илыҕроу, лықәҧсаны, лыҵамкәа, лҧыраҳәаны, лҿыкьасо, налҿаба</li>
         </ul>
       </li>
       <li>Masc
         <ul>
-          <li>VERB-Fin: ишьҭан, Снеиҧылт, ааинырҟьеит, ааихьнашьуан, акриҿеиҵан, дааигәалашәеит, дааиҧылеит, дааиҧылт, диватәеит, дихәаҧшуан</li>
-          <li>VERB-NonFin: ивҵрааз, Иахьиоуҳәалак, Иҧылаз, ааишәҵаны, данихәаҧш, диҵаланы, диҿадыргыларц, диҿамҧалози, ззигәахәуаз, иааумхны</li>
-        </ul>
-      </li>
-      <li>Neut
-        <ul>
-          <li>AUX-Fin: алшоит</li>
-          <li>VERB-Fin: иалагеит, иаҿын, иналагеит, далагеит, дныҩнаҧшит, сықәыртәа, аҿаҟаҵан, даалацәажәеит, дааҩнашылт, даҿын</li>
-          <li>VERB-NonFin: иааҟәыҵны, иҭаз, данҭала, дҭыҵны, иаҿыз, илаланы, инамҵасны, ишаҿыз, иҩноу, иҭоу</li>
-          <li>VERB-Vnoun: анҵара</li>
+          <li>VERB-Fin: дихәаҧшуан, иаҩуцеит, игәаҧхеит, иеиҳәеит, ишьҭан, Снеиҧылт, ааинырҟьеит, ааихьнашьуан, акриҿасымҵаӡацт, акриҿеиҵан</li>
+          <li>VERB-NonFin: ивҵрааз, Иахьиоуҳәалак, Иҧылаз, ааихмырҧаӡакәа, ааихыҵрашәа, ааишәҵаны, акрысзиҿаҵанда, акрышиҿабҵо, ахьиеиҳәаз, данихәаҧш</li>
+          <li>VERB-Vnoun: акриҿаҵара</li>
         </ul>
       </li>
     </ul>
@@ -897,20 +906,20 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>Com
         <ul>
-          <li>VERB-Fin: диртәеит, даалырҽхәеит, дааргазаап, дааргон, даарыцҳасшьеит, дакит, дархәыцит, дақәсыртәап, даҳҵәахит, ддырхәыцит</li>
-          <li>VERB-NonFin: Даазышьҭыз, Дзыршанхарыз, Дшаагәанаҭаз, дааигеижьҭеи, дааргаанӡа, дабар, дагар, данимбаӡа, даниныҳәоз, данырымба</li>
+          <li>VERB-Fin: диртәеит, дархәыцит, даадиргылт, даадәылиган, даалырҽхәеит, дааргазаап, дааргон, даарыцҳасшьеит, дааҩнаргалт, дакит</li>
+          <li>VERB-NonFin: Даазышьҭыз, Дзыршанхарыз, Дшаагәанаҭаз, дааганы, дааигеижьҭеи, дааишьҭыз, дааргаанӡа, дааргартә, дабар, дагар</li>
         </ul>
       </li>
       <li>Fem
         <ul>
-          <li>VERB-Fin: Бахызбаауам</li>
+          <li>VERB-Fin: Бахызбаауам, бақәиҭаҳтәуеит</li>
           <li>VERB-NonFin: баблырц, бшакуа</li>
         </ul>
       </li>
       <li>Masc
         <ul>
-          <li>VERB-Fin: уаабеит, уафоит, уааигоит, уазрыцҳамхааит, уаҳҭоит, уеиқәнархом, узбоит, узгалап, урыцҳасшьоит, усырӡыҭуеит</li>
-          <li>VERB-NonFin: Уахьыржьо, уаашьҭыхны, уанбалгои, уганы, узымдырӡои, улкагәа, уҭахызар</li>
+          <li>VERB-Fin: уаабеит, уафоит, уааигоит, уазрыцҳамхааит, уасҳәап, уаҳзааигеит, уеиқәнархом, узбоит, узгалап, урыцҳасшьоит</li>
+          <li>VERB-NonFin: Уахьыржьо, уаашьҭыхны, уанбалгои, уарымҳәаӡеи, уахьырҭаху, уганы, узымдырӡои, узыҳәо, улкагәа, уҭахызар</li>
         </ul>
       </li>
     </ul>
@@ -922,14 +931,14 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>Fem
         <ul>
-          <li>VERB-Fin: илызҳәаӡом, илызҳәомызт, лзыҭкаауамызт</li>
+          <li>VERB-Fin: илыздыруамызт, илызҳәаӡом, илызҳәомызт, лзыҭкаауамызт</li>
           <li>VERB-NonFin: бзымдырӡои, лзеилымкаазшәа, лызгәамҭазшәа, лҽылзаанымкылаӡакәа</li>
         </ul>
       </li>
       <li>Masc
         <ul>
           <li>VERB-Fin: узҳәомызт, изалымхит, изамхӡом, изгом, изгәамҭаӡеит, издыруамызт, изычҳауамызт</li>
-          <li>VERB-NonFin: иааузымчҳаратәы, изымчҳакәа, узымдырӡои, шҧоузымдыруеи</li>
+          <li>VERB-NonFin: изаамго, изымчҳакәа, иааузымчҳаратәы, изымго, узымдырӡои, шҧоузымдыруеи</li>
         </ul>
       </li>
       <li>Neut
@@ -953,7 +962,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
       </li>
       <li>Masc
         <ul>
-          <li>VERB-Fin: иҽазикит, иҽақәиршәон, иҽыназикит, иҽыназикт, иҽынирхацәеит, уҽаанкыл, уҽыкноуҳауеит</li>
+          <li>VERB-Fin: Уҽеилаҳәа, иҽазикит, иҽақәиршәон, иҽыназикит, иҽыназикт, иҽынирхацәеит, уҽаанкыл, уҽеилых, уҽыкноуҳауеит</li>
           <li>VERB-NonFin: Иҽкамыжькәа</li>
         </ul>
       </li>
@@ -972,19 +981,19 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>Fem
         <ul>
-          <li>VERB-Fin: бзаанагеит, ҳалцәымцхәын</li>
+          <li>VERB-Fin: бзаанагеит, лызҳауан, ҳалцәымцхәын</li>
           <li>VERB-NonFin: дылцәыӡызшәа</li>
         </ul>
       </li>
       <li>Masc
         <ul>
-          <li>VERB-Fin: изыҧшуп, изааибамгеит, изгылан, изеиҭасҳәоит, изыманшәалоуп, изыҧшын, инеизеиҭасҳәеит, иузынҳажьуеит, ицныҟәом, ицылҳәеит</li>
-          <li>VERB-NonFin: Изалшарыма, Изуцәызӡарызеи, Ицырҕызуа, Ишҧоуцәыӡуаз, изирхынҳәырц, изнеиз, изынхаз, изыҧшыз, изыӡырҩуаз, илаланы</li>
+          <li>VERB-Fin: изыҧшуп, ицәыӡит, дизамыҧхьаӡацызт, дизыҧшуан, дизыӡырҩуан, дизҵааит, изааибамгеит, изгылан, изеиҭасҳәоит, изнаргеит</li>
+          <li>VERB-NonFin: изыҧшыз, Изалшарыма, Изуцәызӡарызеи, Ицырҕызуа, Ицәнымхо, Ишҧоуцәыӡуаз, данизаҧхьа, дышизҵаауаз, изирхынҳәырц, изнеиз</li>
         </ul>
       </li>
       <li>Neut
         <ul>
-          <li>VERB-Fin: дазыҧшын, сазыразуп, аздырхеит, азызымуит, азыразхан, алаахә, аҽазнакхьан, базыӡырҩла, дазааҭгылеит, далацалоит</li>
+          <li>VERB-Fin: дазыҧшын, сазыразуп, аздырхеит, азызымуит, азымҩаӡеит, азыразхан, алаахә, аҽазнакхьан, базыӡырҩла, дазааҭгылеит</li>
           <li>VERB-NonFin: Иазууазеи, дазыҧшызшәа, иазызуазеи, иазынаҧшуа, Иалаасхәо, Иацәымаашьакәа, Сабацахуеи, Уазыразума, азылур, азымхозшәа</li>
         </ul>
       </li>
@@ -997,27 +1006,29 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>Com
         <ul>
-          <li>ADV: деиҿкааӡа, дҕьаҵәыҕьаҵәуа</li>
-          <li>VERB-Fin: дцеит, дыҟан, дҵааит, даацәажәеит, далагеит, днеит, даасҿаҧшит, даахьаҳәын, дныҩнаҧшит, дынлазҵааит</li>
-          <li>VERB-NonFin: данца, дзыниаз, днеины, дышнеиуаз, дыҩны, дааины, дазыҧшызшәа, данааиуаз, данҭала, дахьнеиз</li>
+          <li>ADV: Деибархха, деиҿкааӡа, дкылкааны, дласны, дымшәа-дмырҳа, дҕьаҵәыҕьаҵәуа</li>
+          <li>VERB-Fin: далагеит, дцеит, даацәажәеит, дыҟан, дҵааит, даахьаҳәын, днеит, дааин, даасҿаҧшит, днатәеит</li>
+          <li>VERB-NonFin: днеины, дааины, данца, дахьгылаз, дахьтәаз, дгыланы, дзыниаз, дшыныҩналаз, дышгылаз, дышнеиуаз</li>
         </ul>
       </li>
       <li>Fem
         <ul>
-          <li>VERB-Fin: лҳәеит, ибгеит, инеилыркит, аалыртын, аалҟьеит, алыркит, ақәыҿылымҭит, базыӡырҩла, блацәажәа, бца</li>
-          <li>VERB-NonFin: илҳәаз, Ибымбои, Ибымҳәар, Илкыз, Илымгаҵәҟьазар, Ишылгаз, аабгандаз, азылур, анылба, баахәыци</li>
+          <li>VERB-Fin: лҳәеит, ибгеит, инеилыркит, лҳәан, аалыртын, аалҟьеит, аамылхуан, аахылтын, ааҭылган, алыркит</li>
+          <li>VERB-NonFin: илҳәаз, Ианылҭаху, Ибымбои, Ибымҳәар, Илкыз, Илымгаҵәҟьазар, Ишылгаз, аабгандаз, азылур, акрышиҿабҵо</li>
         </ul>
       </li>
       <li>Masc
         <ul>
-          <li>VERB-Fin: иҳәеит, иҳәан, ибеит, диртәеит, сибоит, уца, ҿааиҭит, ааиган, еиқәурхеит, иааимидеит</li>
-          <li>VERB-NonFin: умбои, Иазууазеи, изуҭахузеи, иишаз, ииҳәаз, иҟауҵо, узҿузеи, уҭахымзар, уҳәаратәы, шҧоубои</li>
+          <li>ADV: Уҟьантазӡа</li>
+          <li>VERB: иҳәеит, иҳәан, ибеит, ииҳәаз, умбои, диртәеит, икит, иҿынеихан, иҿынеихеит, сибоит</li>
+          <li>VERB-Fin: иҳәеит, иҳәан, ибеит, диртәеит, икит, иҿынеихан, иҿынеихеит, сибоит, уца, ҟаиҵеит</li>
+          <li>VERB-NonFin: ииҳәаз, умбои, Иазууазеи, анимк, изуҭахузеи, иишаз, ииҭахыз, иҟауҵо, уахыччарц, удырратәы</li>
         </ul>
       </li>
       <li>Neut
         <ul>
-          <li>VERB-Fin: аҳәеит, ҿаанаҭит, аҳәан, аҿынанахеит, иаагәанаҭеит, иакит, ишьҭнахит, ныҟанаҵеит, уафоит, аабжьнахит</li>
-          <li>VERB-NonFin: иаҭахузеи, иаҳәаз, анаба, Амшәгьы, Дшаагәанаҭаз, Ианаҭахыз, Иаҭаху, Иаҳахьаз, Сабацахуеи, ааиланаргьежьызшәа</li>
+          <li>VERB-Fin: аҳәеит, ҿаанаҭит, аҳәан, аҿынанахеит, дархәыцит, иаагәанаҭеит, иакит, ишьҭнахит, ныҟанаҵеит, уафоит</li>
+          <li>VERB-NonFin: иаҭахузеи, иаҳәаз, анаба, Амшәгьы, Дшаагәанаҭаз, Ианаҭахыз, Иаҭаху, Иаҳахьаз, Сабацахуеи, ааиланамыргыларц</li>
         </ul>
       </li>
     </ul>
@@ -1029,7 +1040,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>Geo
         <ul>
-          <li>PROPN: Аҧсны, Жьабнагьы, Қарҭҟа, Адлер, Аҟәа, Аҧсныҟа, Гәылрыҧшь, Жьабнеи, Лыхны, Москва</li>
+          <li>PROPN: Аҧсны, Жьабнагьы, Қарҭтәи, Қарҭҟа, Адлер, Аҟәа, Аҧсныҟа, Гәылрыҧшь, Жьабнеи, Лыхны</li>
         </ul>
       </li>
       <li>Oth
@@ -1039,7 +1050,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
       </li>
       <li>Prs
         <ul>
-          <li>PROPN: Леонид, Мкан, Ира, Ҷына-ҟәыбҷа, Заира, Лакоба, Мариа, Аҧсуа, Шараҭ, Ҵыхәакьаҿ</li>
+          <li>PROPN: Леонид, Мкан, Наҳар, Ира, Ҷына-ҟәыбҷа, Буҭхузи, Заира, Лакоба, Мариа, Аҧсуа</li>
         </ul>
       </li>
     </ul>
@@ -1056,8 +1067,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
       </li>
       <li>Sing
         <ul>
-          <li>VERB-Fin: инеилыркит, инеисырбеит, исиркит, иусырбап, лдыржәуан, налирбеит, налсыркит, сдыршәоит</li>
-          <li>VERB-NonFin: ааруны, аруны, смырҳәакәа</li>
+          <li>VERB-Fin: асыруит, иасырбом, иирбеит, ииркит, илдырҳәеит, инеилыркит, инеисырбеит, исиркит, иусырбап, лдыржәуан</li>
+          <li>VERB-NonFin: ааруны, аруны, данылдыркы, иасырбаз, иахьисырбаз, смырҳәакәа</li>
         </ul>
       </li>
     </ul>
@@ -1069,18 +1080,18 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>Plur
         <ul>
-          <li>AUX-Fin: ракәын, роуп, ракәым, шәоуп, ҳауп</li>
-          <li>AUX-NonFin: ракәызшәа, ракәым, ракәымкәа, роума, шракәыз</li>
-          <li>VERB-Fin: ирымазааит, рымамызт, днаразҵааит, днарысын, иҳаҧхьеит, рыман, рымоуп, уҳацхраа, Дҳазҵааит, Иҳамаҵәҟьам</li>
-          <li>VERB-NonFin: Ишәыхьзеи, ирымаз, Иҳауаз, Иҳахьыз, анраҳа, аншәысҭа, ахьрымам, дахьрацәажәауа, дахьыртәыз, ираҳаратәы</li>
+          <li>AUX-Fin: роуп, ракәын, ракәым, шәоуп, ҳауп</li>
+          <li>AUX-NonFin: ракәызшәа, ракәым, ракәымкәа, рами, роума, шракәыз</li>
+          <li>VERB-Fin: ирымазааит, рымамызт, днаразҵааит, днарысын, дрыҳәеит, иҳаҧхьеит, рыман, рымоуп, уҳацхраа, Дҳазҵааит</li>
+          <li>VERB-NonFin: Ишәыхьзеи, ирымаз, Иҳауаз, Иҳахьыз, анраҳа, аншәысҭа, ахьрымам, данрыҳәа, дахьрацәажәауа, дахьыртәыз</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>AUX-Fin: ауп, акәын, соуп, иоуп, иакәын, лоуп, акәхарын, оуп, акәхап, боуп</li>
-          <li>AUX-NonFin: акәзар, аума, акәу, акәымзар, лакәзаргьы, соума, уакәны, уоума, шакәу, шакәыз</li>
-          <li>VERB-Fin: иаацәажәеит, сымам, дынлазҵааит, иман, сналазҵааит, акәхап, акәхеит, диҳәон, дсазҵааит, дукәыхшоуп</li>
-          <li>VERB-NonFin: анакәха, акәымзар, иаҳаз, изҭаз, Илыхьзеи, Исыхьыз, аманы, бмаҳаӡеи, иамаз, иархәаны</li>
+          <li>AUX-Fin: ауп, акәын, соуп, оуп, иоуп, акәхап, иакәын, лоуп, акәхарын, боуп</li>
+          <li>AUX-NonFin: акәзар, акәымзар, аума, уоума, шакәу, акәны, акәу, акәым, ами, лакәзаргьы</li>
+          <li>VERB-Fin: иаацәажәеит, сымам, акәхеит, дынлазҵааит, иман, сналазҵааит, акәхап, диҳәон, дсазҵааит, дукәыхшоуп</li>
+          <li>VERB-NonFin: анакәха, акәымзар, иамаз, иаҳаз, изҭаз, Илыхьзеи, Исыхьыз, аманы, бмаҳаӡеи, деигәырҕьаны</li>
           <li>VERB-Vnoun: Иҳәара, аисра, аҭара, лазҵаарагьы</li>
         </ul>
       </li>
@@ -1094,15 +1105,14 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
       <li>Plur
         <ul>
           <li>VERB-Fin: рылеибахит, ҳҧылеит, Ишәеиҳәоз, даҳхылаҧшуеит, днарышьҭалан, днаҳҿаҧшит, дрыҵаҟьеит, дрыҿцәажәеит, дҩаҳабжьалт, иаарыдгылт</li>
-          <li>VERB-NonFin: Ирҿыҵуа, Ишәасымҳәахьеи, Ишәгәаҧхозар, Ишәылшозеи, анышәҭахха, дааҳҧыларгьы, дрыцклаҧшны, дышрыхәаҧшуаз, дҳашьҭаланы, иаарылҵынгьы</li>
+          <li>VERB-NonFin: ирыбжьакны, Ирҿыҵуа, Ишәасымҳәахьеи, Ишәгәаҧхозар, Ишәылшозеи, аархаабыцуа, анышәҭахха, дааҳҧыларгьы, дрыбжьаргыланы, дрыцклаҧшны</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>AUX-Fin: алшоит</li>
-          <li>VERB-Fin: иалагеит, иаҿын, иналагеит, далагеит, даасҿаҧшит, дныҩнаҧшит, сықәыртәа, аҿаҟаҵан, даалацәажәеит, дааҩнашылт</li>
-          <li>VERB-NonFin: иааҟәыҵны, иҭаз, данҭала, дҭыҵны, иаҿыз, ивҵрааз, илаланы, инамҵасны, исылшо, ишаҿыз</li>
-          <li>VERB-Vnoun: анҵара</li>
+          <li>VERB-Fin: даасҿаҧшит, дихәаҧшуан, иаҩуцеит, игәаҧхеит, иеиҳәеит, исгәалашәеит, исгәаҧхеит, ишьҭан, сгәалашәом, сналыхәаҧшит</li>
+          <li>VERB-NonFin: ивҵрааз, исылшо, Иахьиоуҳәалак, Исгәалашәаз, Исеиҳәаз, Исылшоз, Иҧылаз, Уналҿаҧшыр, ааихмырҧаӡакәа, ааихыҵрашәа</li>
+          <li>VERB-Vnoun: акриҿаҵара</li>
         </ul>
       </li>
     </ul>
@@ -1114,14 +1124,14 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>Plur
         <ul>
-          <li>VERB-Fin: Шәыздыруеит, шәамырҧхашьааит, шәырфахьазаарын, шәырхәышәтәуеит, шәырҭахуп, Ҳаибадырит, Ҳаибадырп, ҳаибадыруан, ҳаибарыҩуеит, ҳарфааит</li>
-          <li>VERB-NonFin: ҳарфар, Шәанаазга, Шәныҵеибарҟьа, шәаанызкылои, шәақәдмыргәыҕӡои, шәеибашьуама, шәзыхьчо, шәхагала, Ҳзыхьчогьы, ҳазшаз</li>
+          <li>VERB-Fin: Шәыздыруеит, шәамырҧхашьааит, шәырфахьазаарын, шәырхәышәтәуеит, шәырҭахуп, Ҳаибадырит, Ҳаибадырп, ҳаанарҧшит, ҳаибадыруан, ҳаибарыҩуеит</li>
+          <li>VERB-NonFin: ҳарфар, Шәанаазга, Шәныҵеибарҟьа, шәаанызкылои, шәақәдмыргәыҕӡои, шәеибашьуама, шәеиҿадмыргылеи, шәзыхьчо, шәхагала, Ҳзыхьчогьы</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>VERB-Fin: диртәеит, сибоит, сықәыртәа, саҭоумҵан, уаабеит, уафоит, Бахызбаауам, даалырҽхәеит, дааргазаап, дааргон</li>
-          <li>VERB-NonFin: Даазышьҭыз, Дзыршанхарыз, Дшаагәанаҭаз, Саазгаз, Сабацахуеи, Уахьыржьо, баблырц, бшакуа, дааигеижьҭеи, дааргаанӡа</li>
+          <li>VERB-Fin: диртәеит, сибоит, сықәыртәа, дархәыцит, саҭоумҵан, уаабеит, уафоит, Бахызбаауам, бақәиҭаҳтәуеит, даадиргылт</li>
+          <li>VERB-NonFin: Даазышьҭыз, Дзыршанхарыз, Дшаагәанаҭаз, Саазгаз, Сабацахуеи, Уахьыржьо, баблырц, бшакуа, дааганы, дааигеижьҭеи</li>
         </ul>
       </li>
     </ul>
@@ -1134,13 +1144,13 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
       <li>Plur
         <ul>
           <li>VERB-Fin: ирзыфом, рзымуит, рыздырӡом, шәзеилымкаацт</li>
-          <li>VERB-NonFin: анырзымхәыц, шҧашәзеилымкаац, шәзыҟаҵозаргьы</li>
+          <li>VERB-NonFin: анырзымхәыц, рзымкуа, шҧашәзеилымкаац, шәзыҟаҵозаргьы</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>VERB-Fin: сыздыруам, сыздырам, узҳәомызт, Исзеилымкааит, азхамҵеит, азыгәаҕьуамызт, изалымхит, изамхӡом, изгом, изгәамҭаӡеит</li>
-          <li>VERB-NonFin: сзымдыруа, Исзымдыруа, бзымдырӡои, иааузымчҳаратәы, иазымычҳакәа, изымчҳакәа, исзымычҳакәа, лзеилымкаазшәа, лызгәамҭазшәа, лҽылзаанымкылаӡакәа</li>
+          <li>VERB-Fin: сыздыруам, сыздырам, сзаҵаҩуам, сызгәамҭаӡеит, узҳәомызт, Исзеилымкааит, азхамҵеит, азыгәаҕьуамызт, изалымхит, изамхӡом</li>
+          <li>VERB-NonFin: Исзымдыруа, изаамго, изымчҳакәа, сзеилымкаауа, сзымдыруа, акрысзиҿаҵанда, бзымдырӡои, иааузымчҳаратәы, иазымычҳакәа, изымго</li>
         </ul>
       </li>
     </ul>
@@ -1153,12 +1163,12 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
       <li>Plur
         <ul>
           <li>VERB-Fin: рҽыршәеит, шәҽаанышәкыл</li>
-          <li>VERB-NonFin: Рҽырмазеины, рҽааизганы</li>
+          <li>VERB-NonFin: рҽааизганы</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>VERB-Fin: аҽазнакхьан, аҽаргәыбзыҕит, аҽаҟьеит, иҽазикит, иҽақәиршәон, иҽыназикит, иҽыназикт, иҽынирхацәеит, лҽааиқәылкит, лҽеиҭалкхьан</li>
+          <li>VERB-Fin: Уҽеилаҳәа, аҽазнакхьан, аҽаргәыбзыҕит, аҽаҟьеит, иҽазикит, иҽақәиршәон, иҽыназикит, иҽыназикт, иҽынирхацәеит, лҽааиқәылкит</li>
           <li>VERB-NonFin: Иҽкамыжькәа, Лҽаарманшәаланы, Сҽааиҭакны, Сҽызласыҧсахуа, аҽакәыршаны, аҽамнахырц, лҽылзаанымкылаӡакәа, сҽеиҭаскыр</li>
         </ul>
       </li>
@@ -1172,13 +1182,13 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
       <li>Plur
         <ul>
           <li>VERB-Fin: шәызхоит, Иаҳзааргеит, Иаҳзаҧсам, даарызхәыцит, даҳцәыҧсуеит, еиҭаҳзаалгеит, иаарызхәыцит, ирзамуит, ирзамыҧхьеит, ирзишеит</li>
-          <li>VERB-NonFin: иҳацәшәо, Ишәзызура, иаҳзыҧшу, ирзаауазеи, ирзишаз, ирзызузгьы, ирцәугаз, ишрызҳаз, ишышәзеиҭеиҳәаз, иҳацааз</li>
+          <li>VERB-NonFin: ирзаауазеи, иҳацәшәо, Ишәзызура, дахьҳзааз, иаҳзыҧшу, ирзишаз, ирзызузгьы, ирцәугаз, ишрызҳаз, ишышәзеиҭеиҳәаз</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>VERB-Fin: дазыҧшын, изыҧшуп, сазыразуп, Исцәымӡӡеит, аздырхеит, азызымуит, азыразхан, алаахә, аҽазнакхьан, базыӡырҩла</li>
-          <li>VERB-NonFin: Иазууазеи, дазыҧшызшәа, иазызуазеи, иазынаҧшуа, Иалаасхәо, Иацәымаашьакәа, Изалшарыма, Изуцәызӡарызеи, Ицырҕызуа, Ишҧоуцәыӡуаз</li>
+          <li>VERB-Fin: дазыҧшын, изыҧшуп, ицәыӡит, сазыразуп, Исцәымӡӡеит, аздырхеит, азызымуит, азымҩаӡеит, азыразхан, алаахә</li>
+          <li>VERB-NonFin: Иазууазеи, дазыҧшызшәа, иазызуазеи, иазынаҧшуа, изыҧшыз, Иалаасхәо, Иацәымаашьакәа, Изалшарыма, Изуцәызӡарызеи, Ицырҕызуа</li>
         </ul>
       </li>
     </ul>
@@ -1190,15 +1200,17 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>Plur
         <ul>
-          <li>VERB-Fin: рҳәеит, ҳҿынаҳхеит, еимаркит, ирҳәоит, исышәҭ, рбеит, рҳәом, уаабеит, шәаала, шәаангылишь</li>
-          <li>VERB-NonFin: ҳаицны, ахьырбаз, ишәҳәаз, иҟаҳҵарызеи, шәабацеи, шәанаахыҵ, ҳаннеиуаз, ҳанҭыҵ, ҳарфар, Ижәбаз</li>
+          <li>ADV: ҳгәырҕьаҵәа</li>
+          <li>VERB-Fin: рҳәеит, ҳҿынаҳхеит, Иаажәг, еимаркит, ирҳәоит, исышәҭ, рбеит, рҳәом, рҿаархеит, уаабеит</li>
+          <li>VERB-NonFin: ҳаицны, ахьырбаз, ишәҳәаз, иҟаҳҵарызеи, шәабацеи, шәанаахыҵ, ҳаннеиуаз, ҳанҭыҵ, ҳарфар, Иаабар</li>
         </ul>
       </li>
       <li>Sing
         <ul>
-          <li>ADV: деиҿкааӡа, дҕьаҵәыҕьаҵәуа</li>
-          <li>VERB-Fin: иҳәеит, аҳәеит, ҿаанаҭит, дцеит, иҳәан, лҳәеит, аҳәан, аҿынанахеит, дыҟан, дҵааит</li>
-          <li>VERB-NonFin: илҳәаз, иаҭахузеи, умбои, данца, дзыниаз, днеины, дышнеиуаз, дыҩны, иаҳәаз, исҳәаз</li>
+          <li>ADV: Деибархха, Сгәанала, Уҟьантазӡа, деиҿкааӡа, дкылкааны, дласны, дымшәа-дмырҳа, дҕьаҵәыҕьаҵәуа, скалкало</li>
+          <li>VERB: иҳәеит, аҳәеит, иҳәан, лҳәеит, далагеит, дцеит, ҿаанаҭит, илҳәаз, аҳәан, аҿынанахеит</li>
+          <li>VERB-Fin: иҳәеит, аҳәеит, иҳәан, лҳәеит, далагеит, дцеит, ҿаанаҭит, аҳәан, аҿынанахеит, даацәажәеит</li>
+          <li>VERB-NonFin: илҳәаз, днеины, иаҭахузеи, ииҳәаз, умбои, дааины, данца, дахьгылаз, дахьтәаз, дгыланы</li>
         </ul>
       </li>
     </ul>
@@ -1210,7 +1222,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>1
         <ul>
-          <li>VERB-Fin: исиркит, сдыршәоит</li>
+          <li>VERB-Fin: исиркит, сдыршәоит, слырбомызт</li>
           <li>VERB-NonFin: смырҳәакәа</li>
         </ul>
       </li>
@@ -1221,8 +1233,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
       </li>
       <li>3
         <ul>
-          <li>VERB-Fin: днарбом, инеилыркит, инеисырбеит, лдыржәуан, налирбеит, налсыркит</li>
-          <li>VERB-NonFin: ааруны, аруны</li>
+          <li>VERB-Fin: асыруит, днарбом, иасырбом, иирбеит, ииркит, илдырҳәеит, инеилыркит, инеисырбеит, лдыржәуан, налирбеит</li>
+          <li>VERB-NonFin: ааруны, аруны, данылдыркы, иасырбаз, иахьисырбаз</li>
         </ul>
       </li>
     </ul>
@@ -1236,24 +1248,24 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
         <ul>
           <li>AUX-Fin: соуп, сакәым, ҳауп</li>
           <li>AUX-NonFin: соума</li>
-          <li>VERB-Fin: сымам, дсазҵааит, исаҳаит, исмаҳаит, истәуп, исышәҭ, иҳаҧхьеит, саҳаит, сымоуп, уҳацхраа</li>
-          <li>VERB-NonFin: Исыхьыз, Иҳауаз, Иҳахьыз, ансаҳауази, зсумҭозеи, иансмаҳауази, исиҭаз, исыгыз, исымаз, исымои</li>
+          <li>VERB-Fin: сымам, дсазҵааит, исаҳаит, исмаҳаит, истәуп, исымоуп, исышәҭ, иҳаҧхьеит, саҳаит, саҳауеит</li>
+          <li>VERB-NonFin: Исыхьыз, Иҳауаз, Иҳахьыз, ансаҳауази, зсумҭозеи, иансмаҳауази, ианҳамаз, исиҭаз, исыгыз, исымаз</li>
         </ul>
       </li>
       <li>2
         <ul>
           <li>AUX-Fin: боуп, шәоуп</li>
-          <li>AUX-NonFin: уакәны, уоума</li>
-          <li>VERB-Fin: дукәыхшоуп, баҳаит, исызуҭаӡом, ишәаҳахьеит, ишәмаҳаӡеит, суазҵаауеит, сшәыцхраауеит, усҭоит, шәырҭоит, шәысҭоит</li>
-          <li>VERB-NonFin: Ишәыхьзеи, бмаҳаӡеи, Баҳама, аншәысҭа, изумоузеи, иухьзеи, ишәмаҳаи, ишәымазар, ишәыхәозар, уаҳахьоума</li>
+          <li>AUX-NonFin: уоума, уакәны, уакәӡами</li>
+          <li>VERB-Fin: дукәыхшоуп, баҳаит, исызуҭаӡом, ишәаҳахьеит, ишәмаҳаӡеит, суазҵаауеит, сшәыцхраауеит, уаҳҭоит, усҭоит, шәырҭоит</li>
+          <li>VERB-NonFin: Ишәыхьзеи, бмаҳаӡеи, Баҳама, Иумазар, аншәысҭа, изумоузеи, иуоур, иухьзеи, ишумоу, ишуоуа</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>AUX-Fin: ауп, акәын, иоуп, иакәын, лоуп, акәхарын, оуп, акәхап, ракәын, роуп</li>
-          <li>AUX-NonFin: акәзар, аума, акәу, акәымзар, лакәзаргьы, ракәызшәа, ракәым, ракәымкәа, роума, шакәу</li>
-          <li>VERB-Fin: иаацәажәеит, дынлазҵааит, иман, ирымазааит, рымамызт, сналазҵааит, акәхап, акәхеит, диҳәон, днаразҵааит</li>
-          <li>VERB-NonFin: анакәха, акәымзар, иаҳаз, изҭаз, Илыхьзеи, аманы, иамаз, иархәаны, иманы, ирымаз</li>
+          <li>AUX-Fin: ауп, акәын, оуп, иоуп, акәхап, иакәын, лоуп, акәхарын, роуп, ракәын</li>
+          <li>AUX-NonFin: акәзар, акәымзар, аума, шакәу, акәны, акәу, акәым, ами, лакәзаргьы, ракәызшәа</li>
+          <li>VERB-Fin: иаацәажәеит, акәхеит, дынлазҵааит, иман, ирымазааит, рымамызт, сналазҵааит, акәхап, диҳәон, днаразҵааит</li>
+          <li>VERB-NonFin: анакәха, акәымзар, иамаз, иаҳаз, изҭаз, ирымаз, Илыхьзеи, аманы, деигәырҕьаны, иархәаны</li>
           <li>VERB-Vnoun: Иҳәара, аисра, аҭара, лазҵаарагьы</li>
         </ul>
       </li>
@@ -1264,7 +1276,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
       </li>
       <li>Rel
         <ul>
-          <li>VERB-NonFin: закәызеи, заҳаз, Закә, дзыҳәарыз, зауаз, захьӡыз, заҳада, змаз, змам, змоу</li>
+          <li>VERB-NonFin: закәызеи, заҳаз, змаз, Закә, дзыҳәарыз, дызусҭаз, дызусҭоу, зауаз, захьӡыз, заҳада</li>
         </ul>
       </li>
     </ul>
@@ -1276,29 +1288,28 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>1
         <ul>
-          <li>VERB-Fin: даасҿаҧшит, исгәалашәеит, ҳҧылеит, Исгәалашәоит, Исгәалашәом, Исгәаҧхеит, Шәсышьҭал, аасгәахәит, аасыкәиршеит, даасыдгылт</li>
-          <li>VERB-NonFin: исылшо, Исгәалашәаз, Исеиҳәаз, Исылшоз, аасгәахәаанӡа, анысгәахә, дааҳҧыларгьы, днасықәтәаны, дшаасыдххылаз, дҳашьҭаланы</li>
+          <li>VERB-Fin: даасҿаҧшит, исгәалашәеит, исгәаҧхеит, сгәалашәом, ҳҧылеит, Исгәалашәоит, Исгәалашәом, Шәсышьҭал, аасгәахәит, аасыкәиршеит</li>
+          <li>VERB-NonFin: исылшо, Исгәалашәаз, Исеиҳәаз, Исылшоз, аасгәахәаанӡа, анбасықәшәои, анысгәахә, дааҳҧыларгьы, днасықәтәаны, дшаасыдххылаз</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB-Fin: Ишәеиҳәоз, ибхашҭит, иуҧылоит, ишәгәаласыршәап, ишәҿасҵап, уасҳәап, унаалом, шәҿыҵакын</li>
-          <li>VERB-NonFin: Ишәасымҳәахьеи, Ишәгәаҧхозар, Ишәылшозеи, анышәҭахха, быдызҵада, дбыдыбкылома, иааумхны, ианышәҭахха, иахьынӡаулшо, ишәыду</li>
+          <li>VERB-Fin: Ишәеиҳәоз, ибхашҭит, иуҧылоит, ишәгәаласыршәап, ишәҿасҵап, унаалом, шәҿыҵакын</li>
+          <li>VERB-NonFin: Ишәасымҳәахьеи, Ишәгәаҧхозар, Ишәылшозеи, анышәҭахха, быдызҵада, дбыдыбкылома, иааумхны, ианышәҭахха, иахьынӡаулшо, ишәабжьарго</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>AUX-Fin: алшоит</li>
-          <li>VERB-Fin: иалагеит, иаҿын, иналагеит, далагеит, дныҩнаҧшит, сықәыртәа, аҿаҟаҵан, даалацәажәеит, дааҩнашылт, даҿын</li>
-          <li>VERB-NonFin: иааҟәыҵны, иҭаз, данҭала, дҭыҵны, иаҿыз, ивҵрааз, илаланы, инамҵасны, ишаҿыз, иҩноу</li>
-          <li>VERB-Vnoun: анҵара</li>
+          <li>VERB-Fin: дихәаҧшуан, иаҩуцеит, игәаҧхеит, иеиҳәеит, ишьҭан, рылеибахит, сналыхәаҧшит, Снеиҧылт, ааинырҟьеит, ааихьнашьуан</li>
+          <li>VERB-NonFin: ивҵрааз, ирыбжьакны, Иахьиоуҳәалак, Ирҿыҵуа, Иҧылаз, Уналҿаҧшыр, ааихмырҧаӡакәа, ааихыҵрашәа, ааишәҵаны, аархаабыцуа</li>
+          <li>VERB-Vnoun: акриҿаҵара</li>
         </ul>
       </li>
       <li>Rec
         <ul>
-          <li>VERB-Fin: еилыскааит, еиқәурхеит, иааимидеит, еидшылеит, еилыркааит, еимаадеит, еимырдахьан, еиқәнархеит, еиқәсырхап, еиқәшәан</li>
-          <li>VERB-NonFin: Иааибыҳәаны, еидкылашәа, еимдо, еинааланы, еишьҭагыланы, еиқәирхаз, еиқәшаҳаҭны, еиқәшәазгьы, еиқәыз, еиқәыршәаны</li>
-          <li>VERB-Vnoun: аилыргара, аиқәҧара</li>
+          <li>VERB-Fin: еилыскааит, еиқәурхеит, иааимидеит, Иҩеихаҵгылт, еидшылеит, еилсыргом, еилыркааит, еимаадеит, еимырдахьан, еиқәнархеит</li>
+          <li>VERB-NonFin: Иааибыҳәаны, еидкылашәа, еикәшаны, еимдо, еинааланы, еихымҵуа, еишьҭагыланы, еиқәирхаз, еиқәшаҳаҭны, еиқәшәазгьы</li>
+          <li>VERB-Vnoun: аилыргара, аиқәҧара, ҳаиқәшәара</li>
         </ul>
       </li>
       <li>Rel
@@ -1315,25 +1326,25 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>1
         <ul>
-          <li>VERB-Fin: сибоит, сықәыртәа, саҭоумҵан, сааирҽхәеит, саарыҧхьоит, саргылт, саргәааит, слыршәеит, сналгеит, сықәнамгалацызт</li>
-          <li>VERB-NonFin: ҳарфар, Саазгаз, Сабацахуеи, сзырҭахымзеи, суфома, сшиҭахым, сырблыр, сырҧхашьаны, сырӡызшәа, сышҧоубаз</li>
+          <li>VERB-Fin: сибоит, сықәыртәа, саҭоумҵан, сааирҽхәеит, саарыҧхьоит, саргылт, саргәааит, сарҧхашьеит, слыршәеит, сналгеит</li>
+          <li>VERB-NonFin: ҳарфар, Саазгаз, Сабацахуеи, саазырҧшыз, саарыханы, сгәаҭаны, сзырҭахымзеи, суфома, сшиҭахым, сшыҩнадырҧалаз</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB-Fin: уаабеит, уафоит, Бахызбаауам, Шәыздыруеит, уааигоит, уазрыцҳамхааит, уаҳҭоит, уеиқәнархом, узбоит, узгалап</li>
-          <li>VERB-NonFin: Уахьыржьо, Шәанаазга, Шәныҵеибарҟьа, баблырц, бшакуа, уаашьҭыхны, уанбалгои, уганы, узымдырӡои, улкагәа</li>
+          <li>VERB-Fin: уаабеит, уафоит, Бахызбаауам, Шәыздыруеит, бақәиҭаҳтәуеит, уааигоит, уазрыцҳамхааит, уасҳәап, уаҳзааигеит, уеиқәнархом</li>
+          <li>VERB-NonFin: Уахьыржьо, Шәанаазга, Шәныҵеибарҟьа, баблырц, бшакуа, уаашьҭыхны, уанбалгои, уарымҳәаӡеи, уахьырҭаху, уганы</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>VERB-Fin: иҳәеит, аҳәеит, иҳәан, лҳәеит, рҳәеит, аҳәан, ибеит, избеит, избоит, диртәеит</li>
-          <li>VERB-NonFin: аашьҭыхны, кны, умбои, изҭаз, мҳәакәа, ҩышьҭыхны, аартны, анаба, ахьырбаз, еизганы</li>
+          <li>VERB-Fin: иҳәеит, аҳәеит, иҳәан, лҳәеит, рҳәеит, аҳәан, ибеит, избеит, избоит, сҳәеит</li>
+          <li>VERB-NonFin: аашьҭыхны, кны, умбои, аартны, изҭаз, мҳәакәа, ҟазҵаз, ҟаҵаны, ҩышьҭыхны, аанкыланы</li>
         </ul>
       </li>
       <li>Rel
         <ul>
-          <li>VERB-NonFin: илҳәаз, иаҭахузеи, иаҳәаз, исҳәаз, Иазууазеи, иаанагои, иазызуазеи, иишаз, ииҳәаз, ишәҳәаз</li>
+          <li>VERB-NonFin: илҳәаз, иаҭахузеи, ииҳәаз, иаҳәаз, исҳәаз, Иазууазеи, иаанагои, иазызуазеи, иишаз, ииҭахыз</li>
         </ul>
       </li>
     </ul>
@@ -1345,8 +1356,8 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>1
         <ul>
-          <li>VERB-Fin: сыздыруам, сыздырам, Исзеилымкааит, исзеилкаауам, исзымдырит, исызгәамҭеит, исызуҭаӡом, сзаҭом, сзаҵаҩуам, сзыҟамҵеит</li>
-          <li>VERB-NonFin: сзымдыруа, Исзымдыруа, исзымычҳакәа, сзеилымкаауа</li>
+          <li>VERB-Fin: сыздыруам, сыздырам, сзаҵаҩуам, сызгәамҭаӡеит, Исзеилымкааит, исзаагом, исзеилкаауам, исзымдырит, исызгәамҭеит, исызуҭаӡом</li>
+          <li>VERB-NonFin: Исзымдыруа, сзеилымкаауа, сзымдыруа, акрысзиҿаҵанда, исзымычҳакәа</li>
         </ul>
       </li>
       <li>2
@@ -1357,8 +1368,13 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
       </li>
       <li>3
         <ul>
-          <li>VERB-Fin: азхамҵеит, азыгәаҕьуамызт, изалымхит, изамхӡом, изгом, изгәамҭаӡеит, издыруамызт, изычҳауамызт, илызҳәаӡом, илызҳәомызт</li>
-          <li>VERB-NonFin: анырзымхәыц, иазымычҳакәа, изымчҳакәа, лзеилымкаазшәа, лызгәамҭазшәа, лҽылзаанымкылаӡакәа, уазыхьчо</li>
+          <li>VERB-Fin: азхамҵеит, азыгәаҕьуамызт, изалымхит, изамхӡом, изгом, изгәамҭаӡеит, издыруамызт, изычҳауамызт, илыздыруамызт, илызҳәаӡом</li>
+          <li>VERB-NonFin: изаамго, изымчҳакәа, анырзымхәыц, иазымычҳакәа, изымго, лзеилымкаазшәа, лызгәамҭазшәа, лҽылзаанымкылаӡакәа, рзымкуа, уазыхьчо</li>
+        </ul>
+      </li>
+      <li>Rel
+        <ul>
+          <li>VERB-NonFin: ззымчҳаз</li>
         </ul>
       </li>
     </ul>
@@ -1370,48 +1386,51 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>1
         <ul>
-          <li>ADJ: схәыҷқәа</li>
-          <li>ADP: сышҟа, ҳҿы, саҧхьа, сышьҭахь, ҳаҟны, сахь, саҵкыс, саҵкьыс, сыда, сыдагьы</li>
-          <li>ADV: сымала, ҳазхараҵәҟьа</li>
-          <li>NOUN: сгәы, сан, сашьцәа, ҳаҧшәма, сашьа, суадахь, схы, сыҧсы, сашҭа, сџьыба</li>
+          <li>ADJ: сусуратә, схәыҷқәа, Ҳаучасткатә</li>
+          <li>ADP: сышҟа, ҳҿы, саҧхьа, саҵкьыс, сышьҭахь, ҳаҟны, сахь, саҵкыс, сеиҧш, сзы</li>
+          <li>ADV: схала, сымала, ҳазхараҵәҟьа</li>
+          <li>NOUN: сгәы, схы, сан, снапы, сашьцәа, схәыҷы, ҳаҧшәма, сашьа, суадахь, сыҧсы</li>
           <li>NUM: ҳҩыџьагь</li>
           <li>PROPN: с-Ҷына-ҟәыбҷа</li>
+          <li>VERB: ҳҿынаҳхеит, Иҳаиҕьӡам, сҿынасхеит, дсықәлоуп, исусӡам, сыжәлоуп, сыхьӡуп, сҿаасхоны, сҿанынасха, усаҧыза</li>
           <li>VERB-Fin: ҳҿынаҳхеит, Иҳаиҕьӡам, сҿынасхеит, дсықәлоуп, исусӡам, сыжәлоуп, сыхьӡуп</li>
-          <li>VERB-NonFin: сгәҭаны, сҿаасхоны, сҿанынасха, уҳаиҕьушәа</li>
+          <li>VERB-NonFin: сҿаасхоны, сҿанынасха, уҳаиҕьушәа, ҳхәарҭам</li>
+          <li>VERB-Vnoun: ҳаиқәшәара</li>
         </ul>
       </li>
       <li>2
         <ul>
           <li>ADJ: Шәхатә, бхәыҷы, шәаҧсуа</li>
-          <li>ADP: шәаасҭа, уаҧхьа, Шәыда, уда, уеиҳа, узы, узыҳәан, шәышҟа</li>
+          <li>ADP: шәаасҭа, уаҧхьа, Шәыда, уда, уеиҳа, узы, узыҳәан, шәышҟа, шәҿы</li>
           <li>ADV: ухала, шәызхараҵәҟьа, шәымацара</li>
           <li>INTJ: шәанаџьалбеит</li>
-          <li>NOUN: уашәа, уҟәаҟәа, шәгәы, бгәы, уан, угәы, ухаҵкы, уҧшәма, шәуалафахәы, шәхәы</li>
+          <li>NOUN: унапы, уашәа, угәы, уҟәаҟәа, шәгәы, Бхаҵа, бгәы, бхәыҷы, уан, уашьа</li>
           <li>NUM: шәҩыџьагьы</li>
           <li>VERB-Fin: ишәусым, уҿааха</li>
           <li>VERB-NonFin: иуцәажәашьоузеи, иуцәажәашьоу</li>
-          <li>VERB-Vnoun: Шәҭазаара, бнеира</li>
+          <li>VERB-Vnoun: Умтәара, Шәҭазаара, бнеира</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>ADJ: аҩнуҵҟантәи, имазеины, ихатә, ихәыҷқәа, иҕәҕәаны, иҵәыҵәӡа, рааигәа, реиҵбы, рхатәы</li>
-          <li>ADP: еиҧш, ашьҭахь, азы, аҿы, ахь, ала, аҧхьа, ашҟа, аҟны, рҿы</li>
-          <li>ADV: имацара, ихазы, лхаҭа, рхаҭақәа, азхараҵәҟьа, ахала, изхара, ихала, ихаҭа</li>
-          <li>NOUN: игәы, иан, ибжьы, акапитан, ихы, ран, агәра, иашьцәа, рыҧсы, ашә</li>
+          <li>ADJ: аҩнуҵҟантәи, имазеины, иусуратә, ихатә, ихәыҷқәа, иҕәҕәаны, иҵәыҵәӡа, рааигәа, реиҳабы, реиҵбы</li>
+          <li>ADP: еиҧш, ашьҭахь, азы, аҿы, ахь, рҿы, ала, ашҟа, аҧхьа, аҟны</li>
+          <li>ADV: ихала, имацара, ихазы, ихаҭа, лхаҭа, рхаҭақәа, Рхала, азхараҵәҟьа, ахала, изхара</li>
+          <li>NOUN: игәы, ибжьы, ихы, иан, агәра, акапитан, ашә, ран, иашьцәа, лыбжьы</li>
           <li>NUM: Рҩыџьагьы, рыҩбагьы</li>
-          <li>PRON: руакы, Руаӡәк, руак, рызынтәык</li>
-          <li>VERB-Fin: аҿынанахеит, иҿынеихан, иҿынеихеит, аҿаанахеит, аҿынанахон, дреиуоуп, иақәхом, иреиуоуп, ирыхәҭоуп, иҿааихеит</li>
-          <li>VERB-NonFin: иреиҳабыз, еиҕьу, иеиҳабугьы, иеиҵбугьы, иреиуаз, ирлахьынҵахаз, ишиусыз, рҿанынарха</li>
-          <li>VERB-Vnoun: иаара, аилыргара, аицәахареи, анҵара, анҵәареи, арыцқьара, ахцәажәара, ашьақәырҕәҕәара, идырра, изҵаара</li>
+          <li>PRON: руакы, Руаӡәк, руак, руаӡә, рызынтәык</li>
+          <li>VERB-Fin: аҿынанахеит, иҿынеихан, иҿынеихеит, рҿаархеит, аҿаанахеит, аҿынанахон, дреиуоуп, иақәхом, иаҿаҵахәхеит, иреиуоуп</li>
+          <li>VERB-NonFin: иреиҳабыз, Иахьӡузеи, еиҕьу, иеиҳабугьы, иеиҵбугьы, иреиуаз, ирлахьынҵахаз, ишиусыз, рҿанынарха</li>
+          <li>VERB-Vnoun: иаара, аилкаара, аилыргара, аицәахареи, анҵәареи, арыцқьара, арҟәыҷра, ахцәажәара, ахҩылаара, ашьақәырҕәҕәара</li>
         </ul>
       </li>
       <li>Rel
         <ul>
           <li>ADJ: зхатәы</li>
           <li>ADP: зеиҧш, зыҟны</li>
-          <li>NOUN: зыҧсы, згәы, Зыгәра, зыбжьы, зылыҧха, зымаҵ, зыхә, зыӡбахә, зҿахәы</li>
+          <li>NOUN: зыҧсы, згәы, Зыгәра, Зҿы, зхы, зыбжьы, зылыҧха, зымаҵ, зыхә, зыӡбахә</li>
           <li>VERB-NonFin: Измааноу, Измааноузеи, змааназ, зыхьӡыз, зыхәҭоугьы, изхарахо</li>
+          <li>VERB-Vnoun: зыргәаҟра</li>
         </ul>
       </li>
     </ul>
@@ -1423,18 +1442,24 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>1
         <ul>
+          <li>VERB-Fin: сҽысшьуеит</li>
           <li>VERB-NonFin: Сҽааиҭакны, Сҽызласыҧсахуа, сҽеиҭаскыр</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB-Fin: уҽаанкыл, уҽыкноуҳауеит, шәҽаанышәкыл</li>
+          <li>VERB-Fin: Уҽеилаҳәа, уҽаанкыл, уҽеилых, уҽыкноуҳауеит, шәҽаанышәкыл</li>
         </ul>
       </li>
       <li>3
         <ul>
           <li>VERB-Fin: аҽазнакхьан, аҽаргәыбзыҕит, аҽаҟьеит, иҽазикит, иҽақәиршәон, иҽыназикит, иҽыназикт, иҽынирхацәеит, лҽааиқәылкит, лҽеиҭалкхьан</li>
-          <li>VERB-NonFin: Иҽкамыжькәа, Лҽаарманшәаланы, Рҽырмазеины, аҽакәыршаны, аҽамнахырц, лҽылзаанымкылаӡакәа, рҽааизганы</li>
+          <li>VERB-NonFin: Иҽкамыжькәа, Лҽаарманшәаланы, аҽакәыршаны, аҽамнахырц, лҽылзаанымкылаӡакәа, рҽааизганы</li>
+        </ul>
+      </li>
+      <li>Rel
+        <ul>
+          <li>VERB-NonFin: зҽырбабаны</li>
         </ul>
       </li>
     </ul>
@@ -1446,20 +1471,20 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>1
         <ul>
-          <li>VERB-Fin: Иаҳзааргеит, Иаҳзаҧсам, Исцәымӡӡеит, даҳцәыҧсуеит, дысзыҧшын, дысцәагоит, еиҭаҳзаалгеит, исзаага, исзеиҭалҳәахьеит, сзаага</li>
-          <li>VERB-NonFin: иҳацәшәо, иаҳзыҧшу, исцәызгозеи, иҳацааз, сцәукуама, ҳацәшәаны</li>
+          <li>VERB-Fin: Иаҳзааргеит, Иаҳзаҧсам, Исцәымӡӡеит, даҳцәыҧсуеит, дысзыҧшын, дысцәагоит, еиҭаҳзаалгеит, исзаага, исзеиҭалҳәахьеит, исцәымҕуп</li>
+          <li>VERB-NonFin: иҳацәшәо, дахьҳзааз, иаҳзыҧшу, исцәызгозеи, исыцҭаз, иҳацааз, сцәукуама, ҳацәшәаны, ҳзынхаратәы</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB-Fin: шәызхоит, бзаанагеит, иузынҳажьуеит, сузлеиуеит, сузыӡырҩлоит, суццоит, узааргалоит, шәзыҟарҵоит</li>
+          <li>VERB-Fin: шәызхоит, бзаанагеит, иузынҳажьуеит, иузыцәгьахоит, сузлеиуеит, сузыӡырҩлоит, суццоит, узааргалоит, уцәаагоит, шәзыҟарҵоит</li>
           <li>VERB-NonFin: Изуцәызӡарызеи, Ишҧоуцәыӡуаз, Ишәзызура, иузыҧшу, ишышәзеиҭеиҳәаз, шәзаанхама, шәзеиҭасҳәар</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>VERB-Fin: дазыҧшын, изыҧшуп, сазыразуп, аздырхеит, азызымуит, азыразхан, алаахә, аҽазнакхьан, базыӡырҩла, даарызхәыцит</li>
-          <li>VERB-NonFin: Иазууазеи, дазыҧшызшәа, иазызуазеи, иазынаҧшуа, Иалаасхәо, Иацәымаашьакәа, Изалшарыма, Ицырҕызуа, Сабацахуеи, Уазыразума</li>
+          <li>VERB-Fin: дазыҧшын, изыҧшуп, ицәыӡит, сазыразуп, аздырхеит, азызымуит, азымҩаӡеит, азыразхан, алаахә, аҽазнакхьан</li>
+          <li>VERB-NonFin: Иазууазеи, дазыҧшызшәа, иазызуазеи, иазынаҧшуа, изыҧшыз, ирзаауазеи, Иалаасхәо, Иацәымаашьакәа, Изалшарыма, Ицырҕызуа</li>
         </ul>
       </li>
       <li>Rec
@@ -1470,7 +1495,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
       </li>
       <li>Rel
         <ul>
-          <li>VERB-NonFin: Сҽызласыҧсахуа, Шәызлеиҕьу, дызлалацәажәо, ззигәахәуаз, злашәоу, злоубазеи, излагәаҭоу, излацоз, излацәаҕәаша, излацәаҕәашаз</li>
+          <li>VERB-NonFin: Сҽызласыҧсахуа, Шәызлеиҕьу, дызлалацәажәо, ззигәахәуаз, зларҧсны, злашәоу, злоубазеи, зцәыӡыз, излагәаҭоу, излацоз</li>
         </ul>
       </li>
     </ul>
@@ -1482,35 +1507,38 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>1
         <ul>
-          <li>VERB-Fin: избеит, избоит, сналазҵааит, снатәеит, снеит, сҭахын, ҳҿынаҳхеит, Сҩагылан, еилыскааит, изымбеит</li>
-          <li>VERB-NonFin: ҳаицны, исҳәаз, иазызуазеи, изгама, ишысҭаху, иҟаҳҵарызеи, сыҟамзар, ҳаннеиуаз, ҳанҭыҵ, Иалаасхәо</li>
+          <li>ADV: Сгәанала, скалкало, ҳгәырҕьаҵәа</li>
+          <li>VERB-Fin: избеит, избоит, салагеит, сҳәеит, сналазҵааит, снатәеит, снеит, сҭахын, ҳҿынаҳхеит, Ианысҵом</li>
+          <li>VERB-NonFin: ҳаицны, исҳәаз, иазызуазеи, изгама, ишысҭаху, иҟаҳҵарызеи, сыҟамзар, сыҟан, ҳаннеиуаз, ҳанҭыҵ</li>
         </ul>
       </li>
       <li>2
         <ul>
-          <li>VERB-Fin: уца, еиқәурхеит, иаҩуцеит, ибгеит, исышәҭ, саҭоумҵан, уааи, уаангылишь, уааскьа, уаҧырҵ</li>
-          <li>VERB-NonFin: умбои, Иазууазеи, изуҭахузеи, ишәҳәаз, иҟауҵо, узҿузеи, уҭахымзар, уҳәаратәы, шҧоубои, шәабацеи</li>
+          <li>ADV: Уҟьантазӡа</li>
+          <li>VERB: умбои, уааи, уца, Иаажәг, Иазууазеи, еиқәурхеит, иаҩуцеит, ибгеит, изуҭахузеи, исышәҭ</li>
+          <li>VERB-Fin: уца, Иаажәг, еиқәурхеит, иаҩуцеит, ибгеит, исышәҭ, саҭоумҵан, уааи, уаангылишь, уааскьа</li>
+          <li>VERB-NonFin: умбои, Иазууазеи, изуҭахузеи, ишәҳәаз, иҟауҵо, уахыччарц, удырратәы, узҿузеи, уҭахымзар, уҳәаратәы</li>
         </ul>
       </li>
       <li>3
         <ul>
-          <li>ADV: Ииашаны, имаҷны, иҕарҧшарӡа, Инаган, Ирацәаны, Ишьҭхысаа, изныкымкәа, ихахаӡа, ихәхәаӡа, ицқьаны</li>
-          <li>AUX-Fin: ауп, акәын, соуп, иоуп, иакәын, лоуп, акәхарын, оуп, акәхап, боуп</li>
-          <li>AUX-NonFin: акәзар, аума, акәу, акәымзар, лакәзаргьы, ракәызшәа, ракәым, ракәымкәа, роума, соума</li>
-          <li>VERB: иҳәеит, аҳәеит, иалагеит, ҿаанаҭит, дцеит, иҳәан, лҳәеит, рҳәеит, анакәха, иаҿын</li>
-          <li>VERB-Fin: иҳәеит, аҳәеит, иалагеит, ҿаанаҭит, дцеит, иҳәан, лҳәеит, рҳәеит, иаҿын, ицеит</li>
-          <li>VERB-NonFin: анакәха, закәызеи, илҳәаз, ахьгылаз, иаҭахузеи, хәыҷызар, акәымзар, ахьтәаз, данца, дзыниаз</li>
+          <li>ADV: Ииашаны, имаҷны, иҕарҧшарӡа, Инаган, Ирацәаны, Ишьҭхысаа, еиужьны, изныкымкәа, ииашаҵәҟьаны, ирацәаҩны</li>
+          <li>AUX-Fin: ауп, акәын, соуп, оуп, иоуп, акәхап, иакәын, лоуп, акәхарын, роуп</li>
+          <li>AUX-NonFin: акәзар, акәымзар, аума, уоума, шакәу, ҟалома, акәны, акәу, акәым, ами</li>
+          <li>VERB: иҳәеит, аҳәеит, иҳәан, иалагеит, лҳәеит, далагеит, дцеит, рҳәеит, ҿаанаҭит, иаҿын</li>
+          <li>VERB-Fin: иҳәеит, аҳәеит, иҳәан, иалагеит, лҳәеит, далагеит, дцеит, рҳәеит, ҿаанаҭит, иаҿын</li>
+          <li>VERB-NonFin: илҳәаз, анакәха, днеины, закәызеи, акәымзар, ахьгылаз, иаҭахузеи, ииҳәаз, хәыҷызар, ахьтәаз</li>
         </ul>
       </li>
       <li>Rec
         <ul>
-          <li>VERB-Fin: рылеибахит, еибабон, еибарбылгьеит, изааибамгеит, нибархон, Ҳаибадырит, Ҳаибадырп, ҳаибадыруан, ҳаибарыҩуеит, ҳкеибажьуамызт</li>
+          <li>VERB-Fin: рылеибахит, ааибарччеит, еибабон, еибарбылгьеит, изааибамгеит, инеибагеит, нибархон, Ҳаибадырит, Ҳаибадырп, ҳаибадыруан</li>
           <li>VERB-NonFin: Шәныҵеибарҟьа, нибархар, рибамҭо, шнибархаз, шәеибашьуама, ҳаибадыруазшәа, ҳнибарҵәар</li>
         </ul>
       </li>
       <li>Rel
         <ul>
-          <li>VERB-NonFin: иҟаз, инеиз, иҟоу, Иҟалаз, итәаз, игылаз, Ишәыхьзеи, иаҳаз, изҭаз, иуцәажәашьоузеи</li>
+          <li>VERB-NonFin: иҟаз, игылаз, инеиз, итәаз, иҟоу, Иҟалаз, Ишәыхьзеи, иамаз, иаҳаз, изҭаз</li>
         </ul>
       </li>
     </ul>
@@ -1527,18 +1555,18 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
       </li>
       <li>Loc
         <ul>
-          <li>VERB-NonFin: ахьгылаз, ахьтәаз, иахьцалак, ахьырбаз, дахьнеиз, дахьышьҭаз, иахьтәаз, шәабацеи, Дахьгылаз, Дахьыныҩналаз</li>
+          <li>VERB-NonFin: ахьгылаз, ахьтәаз, дахьгылаз, дахьтәаз, иахьцалак, ахьырбаз, дахьнеиз, дахьнеиуаз, дахьтәашаз, дахьышьҭаз</li>
         </ul>
       </li>
       <li>Mnr
         <ul>
           <li>AUX-NonFin: шакәу, шакәыз, шакәызгьы, шиакәу, шиакәыз, шракәыз</li>
-          <li>VERB-NonFin: дышнеиуаз, иштәаз, шҧахәыҷыз, дшааиуаз, ишааиуаз, ишаҿыз, ишеицыз, ишнеиуаз, ишысҭаху, шыҟаз</li>
+          <li>VERB-NonFin: дшыныҩналаз, дышгылаз, дышнеиуаз, иштәаз, шыҟаз, шҧахәыҷыз, дшааиуаз, ишааиуаз, ишаҿыз, ишеицыз</li>
         </ul>
       </li>
       <li>Tmp
         <ul>
-          <li>VERB-NonFin: анакәха, данца, анаба, данааиуаз, данҭала, ианынаскьа, шәанаахыҵ, ҳаннеиуаз, ҳанҭыҵ, Анааилашәшәлак</li>
+          <li>VERB-NonFin: анакәха, данца, анаба, анимк, данааиуаз, данцоз, данҭала, ианынаскьа, шәанаахыҵ, ҳаннеиуаз</li>
         </ul>
       </li>
     </ul>
@@ -1550,34 +1578,35 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>Ben
         <ul>
-          <li>VERB-Fin: дазыҧшын, изыҧшуп, сазыразуп, шәызхоит, Иаҳзааргеит, Иаҳзаҧсам, ааизникылт, аздырхеит, азызымуит, азыразхан</li>
-          <li>VERB-NonFin: Иазууазеи, дазыҧшызшәа, иазызуазеи, иазынаҧшуа, Изалшарыма, Ишәзызура, Уазыразума, азылур, азымхозшәа, базхәыцхьоу</li>
+          <li>VERB-Fin: дазыҧшын, изыҧшуп, сазыразуп, шәызхоит, Иаҳзааргеит, Иаҳзаҧсам, ааизникылт, аздырхеит, азызымуит, азымҩаӡеит</li>
+          <li>VERB-NonFin: Иазууазеи, дазыҧшызшәа, иазызуазеи, иазынаҧшуа, изыҧшыз, ирзаауазеи, Изалшарыма, Ишәзызура, Уазыразума, азылур</li>
           <li>VERB-Vnoun: изҵаара</li>
         </ul>
       </li>
       <li>Com
         <ul>
           <li>VERB-Fin: ицныҟәом, ицылҳәеит, сиццеит, суццоит</li>
-          <li>VERB-NonFin: Ицырҕызуа, Сабацахуеи, иҳацааз, шәызцынхода</li>
+          <li>VERB-NonFin: Ицырҕызуа, Сабацахуеи, исыцҭаз, иҳацааз, шәызцынхода</li>
         </ul>
       </li>
       <li>Ins
         <ul>
           <li>VERB-Fin: алаахә, далацалоит, наласырхәт, салацеит, урыланха</li>
-          <li>VERB-NonFin: Иалаасхәо, Сҽызласыҧсахуа, Шәызлеиҕьу, дызлалацәажәо, злашәоу, злоубазеи, излагәаҭоу, излацоз, излацәаҕәаша, излацәаҕәашаз</li>
+          <li>VERB-NonFin: Иалаасхәо, Сҽызласыҧсахуа, Шәызлеиҕьу, дызлалацәажәо, зларҧсны, злашәоу, злоубазеи, излагәаҭоу, излацоз, излацәаҕәаша</li>
         </ul>
       </li>
       <li>Mal
         <ul>
-          <li>VERB-Fin: Исцәымӡӡеит, даҳцәыҧсуеит, дысцәагоит, ирцәырҵәахит, ицәыӡит, рыцәцеит, рыцәҩашьеит, ҳалцәымцхәын, ҳрыцәшәоит</li>
-          <li>VERB-NonFin: иҳацәшәо, Иацәымаашьакәа, Изуцәызӡарызеи, Ишҧоуцәыӡуаз, дылцәыӡызшәа, ирцәугаз, исцәызгозеи, ицәыуадаҩны, ишзацәымцоз, срыцәшәо</li>
+          <li>VERB-Fin: ицәыӡит, Исцәымӡӡеит, даҳцәыҧсуеит, дысцәагоит, ирцәымыҕхан, ирцәырҵәахит, исцәымҕуп, ицәымыҕхан, ицәырымкит, рыцәцеит</li>
+          <li>VERB-NonFin: иҳацәшәо, Иацәымаашьакәа, Изуцәызӡарызеи, Ицәнымхо, Ишҧоуцәыӡуаз, дылцәыӡызшәа, зцәыӡыз, ирцәугаз, исцәызгозеи, ицәыуадаҩны</li>
           <li>VERB-Vnoun: Ацәысра</li>
         </ul>
       </li>
       <li>Pot
         <ul>
-          <li>VERB-Fin: сыздыруам, сыздырам, узҳәомызт, Дзыҧырӡом, Исзеилымкааит, азхамҵеит, азыгәаҕьуамызт, изалымхит, изамхӡом, изгом</li>
-          <li>VERB-NonFin: сзымдыруа, Изымгазар, Исзымдыруа, анырзымхәыц, бзымдырӡои, иааузымчҳаратәы, иазымычҳакәа, изымчҳакәа, исзымычҳакәа, ишзахәоз</li>
+          <li>AUX-Fin: залшомызт</li>
+          <li>VERB-Fin: сыздыруам, сыздырам, сзаҵаҩуам, сызгәамҭаӡеит, узҳәомызт, Дзыҧырӡом, Исзеилымкааит, азхамҵеит, азыгәаҕьуамызт, дзымтәеит</li>
+          <li>VERB-NonFin: Исзымдыруа, изаамго, изымчҳакәа, сзеилымкаауа, сзымдыруа, Изымгазар, акрысзиҿаҵанда, анырзымхәыц, бзымдырӡои, дзымаазар</li>
         </ul>
       </li>
     </ul>
@@ -1589,18 +1618,18 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
     <ul>
       <li>Intr
         <ul>
-          <li>AUX-Fin: акәхарын, акәхап, алшоит, ҟалап, ҟалоит, ҟалом, ҟалон, ҟамлеит</li>
+          <li>AUX-Fin: акәхап, акәхарын, алшоит, ҟалоит, алшон, залшомызт, ҟалап, ҟалом, ҟалон, ҟамлеит</li>
           <li>AUX-NonFin: ҟалома</li>
-          <li>VERB-Fin: иалагеит, дцеит, ицеит, дҵааит, иаацәажәеит, иналагеит, даацәажәеит, далагеит, днеит, иаагылеит</li>
-          <li>VERB-NonFin: анакәха, инеиз, Иҟалаз, Ишәыхьзеи, данца, дзыниаз, днеины, дышнеиуаз, дыҩны, иааҟәыҵны</li>
-          <li>VERB-Vnoun: ашәаҳәара, аҵәыуара, иаара, арыцқьара, ахәаара, ацара, ныҟәара, Аилашәшәра, Ацәысра, Ақәҧара</li>
+          <li>VERB-Fin: иалагеит, далагеит, дцеит, ицеит, даацәажәеит, дҵааит, иаацәажәеит, иналагеит, даахьаҳәын, днеит</li>
+          <li>VERB-NonFin: инеиз, анакәха, Иҟалаз, днеины, Ишәыхьзеи, аартны, дааины, данца, дахьтәаз, дзыниаз</li>
+          <li>VERB-Vnoun: ашәаҳәара, аҵәыуара, аҳәҳәара, иаара, арыцқьара, ахәаара, ацара, ныҟәара, Аилашәшәра, Ацәысра</li>
         </ul>
       </li>
       <li>Tran
         <ul>
-          <li>VERB-Fin: иҳәеит, аҳәеит, ҿаанаҭит, иҳәан, лҳәеит, рҳәеит, аҳәан, аҿынанахеит, сыздыруам, ибеит</li>
-          <li>VERB-NonFin: аашьҭыхны, илҳәаз, иаҭахузеи, кны, умбои, иаҳәаз, изҭаз, исҳәаз, мҳәакәа, ҩышьҭыхны</li>
-          <li>VERB-Vnoun: аҳәара, Ҳәарас, аизгара, анҵара, Афар, Аҭагалара, Аҽшьра, ааҧхьара, акрыфара, анагӡара</li>
+          <li>VERB-Fin: иҳәеит, аҳәеит, иҳәан, лҳәеит, рҳәеит, ҿаанаҭит, аҳәан, аҿынанахеит, ибеит, сыздыруам</li>
+          <li>VERB-NonFin: илҳәаз, аашьҭыхны, кны, иаҭахузеи, ииҳәаз, умбои, иаҳәаз, изҭаз, исҳәаз, мҳәакәа</li>
+          <li>VERB-Vnoun: аҳәара, Ҳәарас, аизгара, анҵара, Афар, Аҭагалара, Аҽшьра, ааҧхьара, ажра, аилкаара</li>
         </ul>
       </li>
     </ul>
@@ -1616,7 +1645,7 @@ I am grateful to Saida Adzhindzhal (Suchum) for helping me understand some of th
 </ul>
 
 <ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: а́кәхара, а́-ҟалара, а́-лшара, а́-ҟазаара, а́кәзаара.</li>
+<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: а́кәхара, а́-ҟалара, а́-лшара, а́кәзаара, а́-ҟазаара.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1625,10 +1654,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (430)</li>
-      <li>VERB-Fin--PRON (166)</li>
-      <li>VERB-NonFin--NOUN (205)</li>
-      <li>VERB-NonFin--PRON (76)</li>
+      <li>VERB-Fin--NOUN (502)</li>
+      <li>VERB-Fin--PRON (189)</li>
+      <li>VERB-NonFin--NOUN (273)</li>
+      <li>VERB-NonFin--PRON (88)</li>
     </ul>
   </li>
 </ul>
@@ -1636,12 +1665,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (191)</li>
-      <li>VERB-Fin--PRON (31)</li>
-      <li>VERB-NonFin--NOUN (158)</li>
+      <li>VERB-Fin--NOUN (234)</li>
+      <li>VERB-Fin--PRON (37)</li>
+      <li>VERB-NonFin--NOUN (210)</li>
       <li>VERB-NonFin--PRON (20)</li>
       <li>VERB-NonFin--PRON-ADP(а́иҧш) (1)</li>
-      <li>VERB-Vnoun--NOUN (10)</li>
+      <li>VERB-Vnoun--NOUN (16)</li>
       <li>VERB-Vnoun--PRON (1)</li>
     </ul>
   </li>
@@ -1650,10 +1679,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (39)</li>
-      <li>VERB-Fin--PRON (15)</li>
-      <li>VERB-NonFin--NOUN (27)</li>
-      <li>VERB-NonFin--PRON (12)</li>
+      <li>VERB-Fin--NOUN (45)</li>
+      <li>VERB-Fin--PRON (18)</li>
+      <li>VERB-NonFin--NOUN (35)</li>
+      <li>VERB-NonFin--PRON (14)</li>
       <li>VERB-Vnoun--PRON (1)</li>
     </ul>
   </li>
@@ -1666,6 +1695,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 31 relation subtypes: <a>acl:relcl</a>, <a>advcl:compar</a>, <a>advcl:cond</a>, <a>advcl:conv</a>, <a>advcl:purp</a>, <a>advcl:quote</a>, <a>advcl:seq</a>, <a>advmod:q</a>, <a>ccomp:iobj</a>, <a>ccomp:lo</a>, <a>ccomp:obj</a>, <a>ccomp:poss</a>, <a>ccomp:purp</a>, <a>ccomp:quote</a>, <a>ccomp:ro</a>, <a>compound:pred</a>, <a>compound:prt</a>, <a>conj:q</a>, <a>csubj:outer</a>, <a>csubj:quote</a>, <a>flat:name</a>, <a>iobj:cs</a>, <a>iobj:lo</a>, <a>iobj:po</a>, <a>iobj:poss</a>, <a>iobj:ro</a>, <a>nmod:poss</a>, <a>nmod:quote</a>, <a>nsubj:outer</a>, <a>xcomp:lo</a>, <a>xcomp:subj</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>ccomp</a></li>
 <li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

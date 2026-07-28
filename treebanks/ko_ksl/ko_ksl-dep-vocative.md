@@ -55,7 +55,7 @@ The following 8 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 6 2 vocative	color:blue
 1	사랑하는	사랑+하+는	VERB	NNG+XSV+ETM	_	2	acl	_	_
 2	친구에게	친구+에게	ADV	NNG+JKB	_	6	vocative	_	_
-3	그	그	DET	MM	_	4	det	_	_
+3	그	그	DET	MM	PronType=Dem	4	det	_	_
 4	동안	동안	NOUN	NNG	_	6	obl	_	_
 5	잘	잘	ADV	MAG	_	6	advmod	_	_
 6	지냈어	지내+었+어	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No

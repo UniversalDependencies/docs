@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_kiparlaforest-dep-nsubj.html">nsubj</a></tt>.
 
-9 nodes (0%) are attached to their parents as `nsubj:pass`.
+24 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-6 instances of `nsubj:pass` (67%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.33333333333333.
+18 instances of `nsubj:pass` (75%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.79166666666667.
 
-The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (5; 56% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (2; 22% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (1; 11% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (1; 11% instances).
+The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-NOUN.html">NOUN</a></tt> (12; 50% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (7; 29% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-PRON.html">PRON</a></tt> (3; 13% instances), <tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_kiparlaforest-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances), <tt><a href="it_kiparlaforest-pos-VERB.html">VERB</a></tt>-<tt><a href="it_kiparlaforest-pos-ADJ.html">ADJ</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
@@ -32,57 +32,35 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 13 nsubj:pass	color:blue
-1	sì	sì	INTJ	_	_	3	discourse	_	Begin=32.735|KID=12-0|Prolonged=Yes
-2	ci	ci	PRON	_	PronType=Prs	3	expl	_	Clitic=Yes|KID=12-1
-3	sono	essere	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	KID=12-2|Prolonged=Yes
-4	tre	tre	NUM	_	NumType=Card	5	nummod	_	KID=12-3
-5	piani	piano	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	End=34.93|Intonation=WeaklyRising|KID=12-4
-6	e	e	CCONJ	_	_	12	cc	_	Begin=35.477|KID=14-0|OverlappingGroup=1
-7	l'	il	DET	_	Definite=Def|Number=Sing|PronType=Art	9	det	_	KID=14-1|OverlappingGroup=1|SpaceAfter=No
-8	ultimo	ultimo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	KID=14-2|OverlappingGroup=1
-9	piano	piano	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	KID=14-3|Prolonged=Yes
-10	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	KID=14-4|Prolonged=Yes
-11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	KID=14-5
-12	soffitta	soffitta	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	KID=14-6
-13	che	che	PRON	_	PronType=Rel	17	nsubj:pass	_	KID=14-7|Prolonged=Yes
-14	in	in	ADP	_	_	15	case	_	KID=14-8
-15	realtà	realtà	NOUN	_	Gender=Fem	17	obl	_	KID=14-9|Prolonged=Yes
-16	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux:pass	_	KID=14-10
-17	abitata	abitare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	acl:relcl	_	KID=14-11|Prolonged=Yes
-18	da	da	ADP	_	_	19	case	_	KID=14-12
-19	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	17	obl:agent	_	KID=14-13
-20	di	di	ADP	_	_	23	case	_	KID=14-14a
-21	i	il	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	KID=14-14b
-22	miei	mio	ADJ	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	23	amod	_	KID=14-15
-23	zii	zio	NOUN	_	Gender=Masc|Number=Plur	19	nmod	_	End=41.26|KID=14-16
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 nsubj:pass	color:blue
+1	e	e	CCONJ	_	_	5	reparandum	_	Begin=2038.267|KID=796-0|PauseAfter=Yes
+2	e	e	CCONJ	_	_	5	cc	_	KID=796-2
+3	che	che	SCONJ	_	PronType=Rel	5	nsubj:pass	_	KID=796-3
+4	viene	venire	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	KID=796-4
+5	scritta	scrivere	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	End=2039.727|KID=796-5
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 nsubj:pass	color:blue
-1	testa	testa	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	Begin=1388.047|KID=899-0
-2	di	di	ADP	_	_	3	case	_	KID=899-1
-3	cazzo	cazzo	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	KID=899-2
-4	si	si	PRON	_	Person=3|PronType=Prs	5	expl:impers	_	Clitic=Yes|KID=899-3
-5	scrive	scrivere	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	End=1389.531|KID=899-4
-6	a~	a~	X	_	_	8	reparandum	_	Begin=1390.03|KID=902-0|OverlappingGroup=148
-7	doppia	doppio	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	KID=902-1|OverlappingGroup=148
-8	parentesi	parentesi	NOUN	_	Gender=Fem	5	parataxis	_	KID=902-2|OverlappingGroup=148
-9	testa	testa	NOUN	_	Gender=Fem|Number=Sing	8	conj	_	KID=902-3
-10	di	di	ADP	_	_	11	case	_	KID=902-4
-11	cazzo	cazzo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	End=1392.197|KID=902-5
-12	chiusa	chiuso	VERB	_	Gender=Fem|Number=Sing	8	conj	_	Begin=1392.242|KID=903-0
-13	doppia	doppio	ADJ	_	Gender=Fem|Number=Sing	12	nsubj:pass	_	End=1395.141|KID=903-1
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 nsubj:pass	color:blue
+1	quindi	quindi	CCONJ	_	_	3	cc	_	Begin=2589.131|KID=1010-0
+2	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	3	nsubj	_	KID=1010-1|PaceSlow=Yes
+3	potre~	potre~	X	_	_	7	reparandum	_	Interrupted=Yes|KID=1010-2
+4	questa	questo	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	7	nsubj:pass	_	KID=1010-3
+5	è	essere	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	KID=1010-4
+6	stata	essere	AUX	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	aux:pass	_	KID=1010-5
+7	trovata	trovare	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	KID=1010-6
+8	molto	molto	ADV	_	_	9	advmod	_	KID=1010-7|PauseAfter=Yes
+9	recentemente	recentemente	ADV	_	_	7	advmod	_	End=2592.504|KID=1010-9
 
 ~~~
 

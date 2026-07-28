@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-5789 tokens (20%) have a non-empty value of `Voice`.
-4227 types (42%) occur at least once with a non-empty value of `Voice`.
+5791 tokens (20%) have a non-empty value of `Voice`.
+4229 types (42%) occur at least once with a non-empty value of `Voice`.
 1407 lemmas (30%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 1 part-of-speech tags: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5789; 20% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5791; 20% instances).
 
 ### `VERB`
 
-5789 <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
+5791 <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Voice`.
 
 The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4513; 78%), <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4513; 78%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3815; 66%), <tt><a href="la_perseus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3786; 65%), <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3447; 60%), <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2985; 52%).
 
 `VERB` tokens may have the following values of `Voice`:
 
 * `Act` (4451; 77% of non-empty `Voice`): <em>habet, inquit, dixit, vidi, coepit, dedit, audivi, fecit, habere, iussit</em>
-* `Pass` (1338; 23% of non-empty `Voice`): <em>videtur, afferri, cogor, fieri, videbatur, conscripti, datur, dicitur, fertur, scriptum</em>
+* `Pass` (1340; 23% of non-empty `Voice`): <em>videtur, afferri, cogor, fieri, videbatur, conscripti, datur, dicitur, fertur, scriptum</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
@@ -76,8 +76,8 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
-<tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (637; 84%),
-<tt>VERB --[<tt><a href="la_perseus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (569; 70%),
+<tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (636; 84%),
+<tt>VERB --[<tt><a href="la_perseus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (569; 71%),
 <tt>VERB --[<tt><a href="la_perseus-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (268; 69%),
 <tt>VERB --[<tt><a href="la_perseus-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (229; 69%),
 <tt>VERB --[<tt><a href="la_perseus-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (76; 72%),

@@ -110,13 +110,13 @@ The following 13 pairs of parts of speech are connected with `advmod`: <tt><a hr
 8	_	_	PUNCT	_	_	5	punct	_	BBIL=I|BPT=0|LBIL=B|LPOS=2|SpaceAfter=No|UI=1
 9	_	_	NOUN	_	_	11	nmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=3739
 10	_	_	ADP	_	_	9	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
-11	_	_	NOUN	_	_	17	obl	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=2624
+11	_	_	NOUN	_	_	22	nsubj	_	BBIL=B|BPT=1|LBIL=B|LPOS=0|SpaceAfter=No|UI=2624
 12	_	_	ADP	_	_	11	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=8
 13	_	_	NOUN	_	_	14	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=13190
 14	_	_	NOUN	_	_	17	nmod	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=13020
 15	_	_	ADP	_	_	14	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=0
 16	_	_	NOUN	_	_	17	compound	_	BBIL=B|BPT=0|LBIL=B|LPOS=0|SpaceAfter=No|UI=147148
-17	_	_	NOUN	_	_	22	nsubj	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=94271
+17	_	_	NOUN	_	_	11	conj	_	BBIL=I|BPT=1|LBIL=I|LPOS=0|SpaceAfter=No|UI=94271
 18	_	_	ADP	_	_	17	case	_	BBIL=I|BPT=2|LBIL=B|LPOS=1|SpaceAfter=No|UI=6
 19	_	_	ADV	_	_	20	advmod	_	BBIL=B|BPT=1|LBIL=B|LPOS=10|SpaceAfter=No|UI=1675
 20	_	_	ADJ	_	_	22	advcl	_	BBIL=B|BPT=1|LBIL=B|LPOS=15|SpaceAfter=No|UI=380

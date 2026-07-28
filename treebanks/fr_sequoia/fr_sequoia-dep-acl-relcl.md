@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="fr_sequoia-dep-acl.
 520 instances of `acl:relcl` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.60576923076923.
 
-The following 17 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (390; 75% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (47; 9% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (29; 6% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (20; 4% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (15; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `acl:relcl`: <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (387; 74% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (47; 9% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (29; 6% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (20; 4% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (15; 3% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-X.html">X</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -23,12 +23,12 @@ The following 17 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 # visual-style 2	fgColor:white
 # visual-style 2 4 acl:relcl	color:blue
 1	Une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	association	association	NOUN	_	Number=Sing	0	root	_	Gender[lex]=Fem
+2	association	association	NOUN	_	Gender=Fem|Number=Sing	0	root	_	Exponence[Gender]=Inherent
 3	qui	qui	PRON	_	PronType=Rel	4	nsubj	_	_
 4	compte	compter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 5	aujourd'hui	aujourd'hui	ADV	_	_	4	advmod	_	_
-6	39	39	NUM	_	NumType=Card	7	nummod	_	Number[lex]=Plur
-7	passionnés	passionné	NOUN	_	Number=Plur	4	obj	_	Gender[lex]=Masc|SpaceAfter=No
+6	39	39	NUM	_	Number=Plur|NumType=Card	7	nummod	_	Exponence[Number]=Inherent
+7	passionnés	passionné	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	Exponence[Gender]=Inherent|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
@@ -51,7 +51,7 @@ The following 17 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 9	adviendra	advenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	6	acl:relcl	_	_
 10	de	de	ADP	_	_	12	case	_	_
 11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	Kosovo	Kosovo	PROPN	_	_	9	obl:arg	_	Gender[lex]=Unknown|SpaceAfter=No
+12	Kosovo	Kosovo	PROPN	_	_	9	obl:arg	_	SpaceAfter=No
 13	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
@@ -69,15 +69,15 @@ The following 17 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 4	êtes	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
 5	traité(e)	traiter	VERB	_	VerbForm=Part|Voice=Pass	0	root	_	Tense[denom]=Past
 6	par	par	ADP	_	_	7	case	_	_
-7	Zometa	Zometa	PROPN	_	_	5	obl:mod	_	Gender[lex]=Unknown
+7	Zometa	Zometa	PROPN	_	_	5	obl:mod	_	_
 8	qui	qui	PRON	_	PronType=Rel	9	nsubj	_	_
 9	contient	contenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 10	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-11	même	même	ADJ	_	Number=Sing	12	amod	_	Gender[ctxt]=Fem
-12	substance	substance	NOUN	_	Number=Sing	9	obj	_	Gender[lex]=Fem
+11	même	même	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	Exponence[Gender]=Absent
+12	substance	substance	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	Exponence[Gender]=Inherent
 13	active	actif	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	_
 14	qu'	que	SCONJ	_	_	15	case	_	SpaceAfter=No
-15	Aclasta	Aclasta	PROPN	_	_	12	nmod	_	Gender[lex]=Unknown|SpaceAfter=No
+15	Aclasta	Aclasta	PROPN	_	_	12	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

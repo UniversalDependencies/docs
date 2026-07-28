@@ -16,7 +16,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="qti_butr-pos-ADJ.ht
 
 ### `ADJ`
 
-1 <tt><a href="qti_butr-pos-ADJ.html">ADJ</a></tt> tokens (4% of all `ADJ` tokens) have a non-empty value of `ExtPos`.
+1 <tt><a href="qti_butr-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `ExtPos`.
 
 `ADJ` tokens may have the following values of `ExtPos`:
 
@@ -33,6 +33,8 @@ The feature is used with 3 part-of-speech tags: <tt><a href="qti_butr-pos-ADJ.ht
 ### `DET`
 
 1 <tt><a href="qti_butr-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `ExtPos`.
+
+The most frequent other feature values with which `DET` and `ExtPos` co-occurred: <tt><a href="qti_butr-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="qti_butr-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (1; 100%).
 
 `DET` tokens may have the following values of `ExtPos`:
 

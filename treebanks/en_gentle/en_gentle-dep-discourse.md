@@ -22,7 +22,7 @@ The following 19 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 discourse	color:blue
-1	1.	1.	X	LS	_	2	discourse	2:discourse	Discourse=organization-heading:12->13:4:_|XML=<hi rend:::"bold">
+1	1.	1.	X	LS	_	2	discourse	2:discourse	Discourse=organization-heading:12->13:4:grf-ly-_-_+grf-seq-68-_+sem-rpt-69,141-144-_|XML=<hi rend:::"bold">
 2	Services	service	NOUN	NNS	Number=Plur	0	root	0:root	Entity=(4-abstract-giv:act-snnnn-cf1*-1-coref-Service_%28business%29)|MSeg=Service-s|XML=</hi>
 
 ~~~
@@ -34,14 +34,14 @@ The following 19 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 discourse	color:blue
-1	2.	2.	X	LS	_	3	discourse	3:discourse	Discourse=joint-list_m:46->42:4:_
+1	2.	2.	X	LS	_	3	discourse	3:discourse	Discourse=joint-list_m:46->42:4:grf-seq-322-_+grf-semcol-328-_
 2	Roe	Roe	PROPN	NNP	Number=Sing	3	nsubj	3:nsubj	Entity=(59-person-new-nnnns-cf3-1-coref-Norma_McCorvey)
 3	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	MSeg=ha-s
 4	standing	standing	NOUN	NN	Number=Sing	3	obj	3:obj	MSeg=stand-ing
 5	to	to	PART	TO	_	6	mark	6:mark	_
 6	sue	sue	VERB	VB	VerbForm=Inf	4	acl	4:acl:to	SpaceAfter=No
 7	;	;	PUNCT	:	_	12	punct	12:punct	_
-8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	Discourse=adversative-contrast_m:47->46:0:sem-ngt-334-_|Entity=(23-person-giv:inact-nnnnn-cf1-2-coref
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	9:det	Discourse=adversative-contrast_m:47->46:0:sem-ngt-334-gold|Entity=(23-person-giv:inact-nnnnn-cf1-2-coref
 9	Does	Doe	PROPN	NNPS	Number=Plur	12	nsubj	12:nsubj	Entity=23)|MSeg=Doe-s
 10	and	and	CCONJ	CC	_	11	cc	11:cc	_
 11	Hallford	Hallford	PROPN	NNP	Number=Sing	9	conj	9:conj:and|12:nsubj	Entity=(20-person-giv:inact-nnnnn-cf2-1-coref)
@@ -58,10 +58,10 @@ The following 19 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 discourse	color:blue
-1	5.	5.	X	LS	_	2	discourse	2:discourse	Discourse=organization-heading:126->127:4:_|XML=<hi rend:::"bold">
-2	Term	Term	PROPN	NNP	Number=Sing	0	root	0:root	Entity=(157-abstract-new-sssss-cf1-1-sgl-Contractual_term)
+1	5.	5.	X	LS	_	2	discourse	2:discourse	Discourse=organization-heading:126->127:4:grf-ly-_-_+grf-seq-915-_|XML=<hi rend:::"bold">
+2	Term	Term	PROPN	NNP	Number=Sing	0	root	0:root	Bridge=3<157:entity-associative|Entity=(157-abstract-acc:inf-sssss-cf1-1-sgl-Contractual_term)
 3	and	and	CCONJ	CC	_	4	cc	4:cc	_
-4	Survival	Survival	NOUN	NN	Number=Sing	2	conj	2:conj:and	Entity=(158-abstract-new-nnnnn-cf2-1-sgl)|XML=</hi>
+4	Survival	Survival	NOUN	NN	Number=Sing	2	conj	2:conj:and	Bridge=3<158:entity-associative|Entity=(158-abstract-acc:inf-nnnnn-cf2-1-sgl)|XML=</hi>
 
 ~~~
 

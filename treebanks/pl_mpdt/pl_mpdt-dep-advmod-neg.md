@@ -53,7 +53,7 @@ The following 14 pairs of parts of speech are connected with `advmod:neg`: <tt><
 6	paszą	pasza	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	4	conj	4:conj	Translit=paszą
 7	jako	jako	ADP	prep:nom	AdpType=Prep|ExtPos=CCONJ	9	case	9:case	Case=Nom|Translit=iáko
 8	i	i	PART	part	_	7	fixed	7:fixed	Translit=i
-9	Chrystus	Chrystus	PROPN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	6	obl:cmpr	6:obl:cmpr	SpaceAfter=No|Translit=Christus
+9	Chrystus	Chrystus	PROPN	subst:sg:nom:m	Case=Nom|Gender=Masc|Number=Sing	6	obl:cmp	6:obl:cmp	SpaceAfter=No|Translit=Christus
 10	.	.	PUNCT	interp	PunctType=Peri	4	punct	4:punct	Translit=.
 
 ~~~

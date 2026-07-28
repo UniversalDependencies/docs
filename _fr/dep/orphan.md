@@ -21,4 +21,4 @@ orphan(Marie-1, Miriam-7)
 case(Prague-9, à-8)
 orphan(Paris-5, Prague-9)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:32 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:38 CEST -->

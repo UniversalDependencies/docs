@@ -10,20 +10,20 @@ This feature is universal.
 It occurs with 8 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`, `Tot`.
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
-30269 tokens (7%) have a non-empty value of `PronType`.
+30267 tokens (7%) have a non-empty value of `PronType`.
 1006 types (1%) occur at least once with a non-empty value of `PronType`.
 96 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 5 part-of-speech tags: <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (22801; 5% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (7213; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (252; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 5 part-of-speech tags: <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (22798; 5% instances), <tt><a href="et_edt-pos-DET.html">DET</a></tt> (7214; 2% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (252; 0% instances), <tt><a href="et_edt-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `PRON`
 
-22801 <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+22798 <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17417; 76%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13750; 60%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17416; 76%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13747; 60%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (5102; 22% of non-empty `PronType`): <em>see, seda, selle, sellest, nende, need, neid, selleks, sellega, sellele</em>
+* `Dem` (5099; 22% of non-empty `PronType`): <em>see, seda, selle, sellest, nende, need, neid, selleks, sellega, sellele</em>
 * `Ind` (1253; 5% of non-empty `PronType`): <em>midagi, keegi, muud, üks, muu, paljud, kedagi, igaüks, kellelegi, miski</em>
 * `Int` (3; 0% of non-empty `PronType`): <em>what, kes</em>
 * `Int,Rel` (4193; 18% of non-empty `PronType`): <em>mis, kes, mida, mille, kelle, millest, millega, kellel, milles, keda</em>
@@ -43,15 +43,15 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 ### `DET`
 
-7213 <tt><a href="et_edt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
+7214 <tt><a href="et_edt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4652; 64%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4651; 64%).
 
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (29; 0% of non-empty `PronType`): <em>the, der, A</em>
-* `Dem` (3406; 47% of non-empty `PronType`): <em>see, selle, need, seda, sel, nende, samal, sama, teiste, selline</em>
-* `Ind` (2163; 30% of non-empty `PronType`): <em>üks, ühe, mitu, mingi, mingit, mõne, mõni, mõned, paljud, ühel</em>
+* `Dem` (3408; 47% of non-empty `PronType`): <em>see, selle, need, seda, sel, nende, samal, sama, teiste, selline</em>
+* `Ind` (2162; 30% of non-empty `PronType`): <em>üks, ühe, mitu, mingi, mingit, mõne, mõni, mõned, paljud, ühel</em>
 * `Int` (2; 0% of non-empty `PronType`): <em>The, milline</em>
 * `Int,Rel` (44; 1% of non-empty `PronType`): <em>mis, kumb, millise, millist, missugune, missugused, kumbagi, millised, missugust, Milliseid</em>
 * `Prs` (5; 0% of non-empty `PronType`): <em>nende, neist</em>
@@ -125,7 +125,7 @@ The most frequent other feature values with which `PROPN` and `PronType` co-occu
 `ADV` tokens may have the following values of `PronType`:
 
 * `Rel` (1; 100% of non-empty `PronType`): <em>kus</em>
-* `EMPTY` (42096): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
+* `EMPTY` (42110): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
 
 ## Relations with Agreement in `PronType`
 

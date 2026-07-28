@@ -1,90 +1,95 @@
 ---
 layout: base
-title:  'Statistics of ADV in UD_Western_Sierra_Puebla_Nahuatl-ITML'
+title:  'Statistics of ADV in UD_Western_Sierra_Puebla_Nahuatl-MesoTree'
 udver: '2'
 ---
 
-## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-ITML: POS Tags: `ADV`
+## Treebank Statistics: UD_Western_Sierra_Puebla_Nahuatl-MesoTree: POS Tags: `ADV`
 
-There are 217 `ADV` lemmas (12%), 219 `ADV` types (8%) and 1338 `ADV` tokens (14%).
-Out of 15 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 4 in number of tokens.
+There are 318 `ADV` lemmas (10%), 311 `ADV` types (6%) and 2582 `ADV` tokens (13%).
+Out of 16 observed tags, the rank of `ADV` is: 3 in number of lemmas, 3 in number of types and 4 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: <em>amo, ya, ompa, nikah, simi, san, después, ohcon, ohkon, axan</em>
+The 10 most frequent `ADV` lemmas: <em>amo, ya, simi, ompa, axan, yalua, nochipa, san, cani, nikah</em>
 
-The 10 most frequent `ADV` types:  <em>amo, ya, ompa, nikah, y, simi, ohcon, san, después, axan</em>
+The 10 most frequent `ADV` types:  <em>amo, ya, simi, ompa, axan, nochipa, yalua, y, nikah, san</em>
 
-The 10 most frequent ambiguous lemmas: <em>san</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 35, <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> 9), <em>igual</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 19, <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 4), <em>ok</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 19, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 1), <em>xamo</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 16, <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> 2), <em>kwali</em> (<tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 12), <em>cualli</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 8, <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 7), <em>quen</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 8, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 1), <em>queme</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 7, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1), <em>nochi</em> (<tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> 23, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 11, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> 2), <em>tleca</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>amo</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 470, <tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt> 7, <tt><a href="nhi_mesotree-pos-PART.html">PART</a></tt> 2, <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 1), <em>san</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 62, <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> 9), <em>cachi</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 30, <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 5), <em>igual</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 19, <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 4), <em>ok</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 19, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 1), <em>cualli</em> (<tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 18, <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 1), <em>xamo</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 18, <tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt> 2), <em>oc</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 17, <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 9, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 1), <em>ca</em> (<tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 87, <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 15, <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 14, <tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt> 5), <em>cualcan</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 15, <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 6)
 
-The 10 most frequent ambiguous types:  <em>y</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 43, <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 3), <em>igual</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 13, <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 4), <em>ok</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 18, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 8), <em>cualli</em> (<tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4), <em>kwale</em> (<tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 7, <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 7), <em>quen</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 5, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 1), <em>queme</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 6, <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1), <em>tleca</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 2), <em>dion</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3, <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 1), <em>bueno</em> (<tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 2, <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>amo</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 328, <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="nhi_mesotree-pos-PART.html">PART</a></tt> 1), <em>y</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 53, <tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt> 3), <em>nican</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 29, <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 1), <em>cuali</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 20, <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 1), <em>oc</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 17, <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 4, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 2, <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 1), <em>ocachi</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 19, <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 3), <em>igual</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 13, <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 4), <em>ok</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 18, <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 8), <em>cachi</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 16, <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 2), <em>cualtzin</em> (<tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 5, <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 4)
 
 
+* <em>amo</em>
+  * <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 328: <em>Neh <b>amo</b> tlen nicmati</em>
+  * <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 1: <em>In xitomatl simi cuali , huan <b>amo</b> patiyo .</em>
+  * <tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt> 1: <em><b>amo</b> , xinechomaca cachi tzocopintzi</em>
+  * <tt><a href="nhi_mesotree-pos-PART.html">PART</a></tt> 1: <em>Yalua <b>amo</b> onmitzitac itich in tianquisco</em>
 * <em>y</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 43: <em>Ya <b>y</b> okixteh n ipantuflas .</em>
-  * <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> 3: <em>Ohkon ahsis se ocho <b>y</b> media , ehko n tlen kirepartiroa tlaxkal .</em>
+  * <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 53: <em>¿ Mox quemaniyah <b>y</b> tiyahca uamantla ?</em>
+  * <tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt> 3: <em>Ohkon ahsis se ocho <b>y</b> media , ehko n tlen kirepartiroa tlaxkal .</em>
+* <em>nican</em>
+  * <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 29: <em>Amo nimihmati ica n tlacual de <b>nican</b></em>
+  * <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 1: <em>San de <b>nican</b> mismo .</em>
+* <em>cuali</em>
+  * <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 20: <em>Milahuac , oquito <b>cuali</b> .</em>
+  * <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 18: <em>¿ Onquito <b>cuali</b> ?</em>
+  * <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> 1: <em>¿ Tleno ocachi <b>cuali</b> para non ya huehueyin ?</em>
+* <em>oc</em>
+  * <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 17: <em>Axan <b>oc</b> nitlatooctoc</em>
+  * <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> 4: <em>¿ Isqui <b>oc</b> se tlamantli ?</em>
+  * <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 2: <em>¿ Cate <b>oc</b> siqui altipeme campa mitotiyan in santiagome ?</em>
+  * <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> 1: <em>¿ In tepatani <b>oc</b> tlali in itoca itich in acta ?</em>
+* <em>ocachi</em>
+  * <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 19: <em>¿ Tleno <b>ocachi</b> cuali para non ya huehueyin ?</em>
+  * <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 3: <em>Xamo tcompiya oc siqui <b>ocachi</b> amo patiyo ?</em>
 * <em>igual</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 13: <em>Setlami <b>igual</b> se las nueve , setlami non oras , sekitamachiwa a kilo .</em>
-  * <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 4: <em>Xan ich tercero n telpukatl pewi tlatemoa , <b>igual</b> que n itskwih pewi tlatemoa .</em>
+  * <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 13: <em>Setlami <b>igual</b> se las nueve , setlami non oras , sekitamachiwa a kilo .</em>
+  * <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 4: <em>Xan ich tercero n telpukatl pewi tlatemoa , <b>igual</b> que n itskwih pewi tlatemoa .</em>
 * <em>ok</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 18: <em>Wan mientras nikah ya osetlanki , <b>ok</b> kanakih n tlen poliwi .</em>
-  * <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 8: <em>A vez <b>ok</b> sikeh tokniwah okiabandonarowayah nin pueblo .</em>
-* <em>cualli</em>
-  * <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 7: <em>Nochi <b>cualli</b> o catca , asta que se cualcan otlacualanihqueh .</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 4: <em>Dios ocnanquilih : - - ¡ Amo ixtlaocoya ! Itlah <b>cualli</b> inchiuas ica mopiluan .</em>
-* <em>kwale</em>
-  * <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> 7: <em>Pero siki faltan de papeles , amo <b>kwale</b> , amo oyahkeh .</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 7: <em>kinwikah n ompa , kintrataroh <b>kwale</b> .</em>
-* <em>quen</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 5: <em>Huan nomama onechilhuaya , “ Amo <b>quen</b> ximati , teh xiyo in escuela .</em>
-  * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 1: <em>— Neh ontlacuah cualli — onauat Ticpintzin — , pero axan <b>quen</b> otahcotzicuinqueh ya nmayana .</em>
-* <em>queme</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 6: <em>Yaqui nipiya xa <b>queme</b> ce semana de milahuac ya nitiquitoc .</em>
-  * <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> 1: <em>Huan cochzoloni <b>queme</b> neh !</em>
-* <em>tleca</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 2: <em>Amati <b>tleca</b> ihcuac oahcia icah in atl oquitaya ocachi tzocotzitzin in tlaltitl , amo ocmatia <b>tleca</b> .</em>
-  * <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Opeuqueh icmotetzauiah <b>tleca</b> amo molinia .</em>
-* <em>dion</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 3: <em>Amo inpiya <b>dion</b> se cerillo .</em>
-  * <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> 1: <em>Tla se tlakatl namikej miki uan amo ikkautewa <b>dion</b> se ikonew .</em>
-* <em>bueno</em>
-  * <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> 2: <em>Pero <b>bueno</b> , sa amo tlen sekichiwa , nochi kwale kisa ( todo sale bien ) , nochi kwale .</em>
-  * <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> 1: <em>Pero <b>bueno</b> .</em>
+  * <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 18: <em>Wan mientras nikah ya osetlanki , <b>ok</b> kanakih n tlen poliwi .</em>
+  * <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> 8: <em>A vez <b>ok</b> sikeh tokniwah okiabandonarowayah nin pueblo .</em>
+* <em>cachi</em>
+  * <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 16: <em>In tiopantl catqui <b>cachi</b> tlaixpan</em>
+  * <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 2: <em>Neh amo <b>cachi</b> nitelpochtl</em>
+* <em>cualtzin</em>
+  * <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> 5: <em>In ticol <b>cualtzin</b> tlacauani</em>
+  * <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> 4: <em>In iayau simi <b>cualtzin</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.009217 (the average of all parts of speech is 1.468205).
+The form / lemma ratio of `ADV` is 0.977987 (the average of all parts of speech is 1.597641).
 
-The 1st highest number of forms (4) was observed with the lemma “kwali”: <em>kwale, kwali, kwaltsih, kwaltsin</em>.
+The 1st highest number of forms (4) was observed with the lemma “cani”: <em>cani, canic, canih, canin</em>.
 
-The 2nd highest number of forms (4) was observed with the lemma “ohkon”: <em>ohkon, ohkóh, ohkôn, ojkon</em>.
+The 2nd highest number of forms (4) was observed with the lemma “kwali”: <em>kwale, kwali, kwaltsih, kwaltsin</em>.
 
-The 3rd highest number of forms (3) was observed with the lemma “nochi”: <em>nochi, nochipa, nochten</em>.
+The 3rd highest number of forms (4) was observed with the lemma “ohkon”: <em>ohkon, ohkóh, ohkôn, ojkon</em>.
 
-`ADV` occurs with 5 features: <tt><a href="nhi_itml-feat-Polarity.html">Polarity</a></tt> (174; 13% instances), <tt><a href="nhi_itml-feat-Foreign.html">Foreign</a></tt> (115; 9% instances), <tt><a href="nhi_itml-feat-ExtPos.html">ExtPos</a></tt> (28; 2% instances), <tt><a href="nhi_itml-feat-Degree.html">Degree</a></tt> (5; 0% instances), <tt><a href="nhi_itml-feat-Typo.html">Typo</a></tt> (1; 0% instances)
+`ADV` occurs with 5 features: <tt><a href="nhi_mesotree-feat-Polarity.html">Polarity</a></tt> (177; 7% instances), <tt><a href="nhi_mesotree-feat-Foreign.html">Foreign</a></tt> (115; 4% instances), <tt><a href="nhi_mesotree-feat-ExtPos.html">ExtPos</a></tt> (28; 1% instances), <tt><a href="nhi_mesotree-feat-Typo.html">Typo</a></tt> (6; 0% instances), <tt><a href="nhi_mesotree-feat-Degree.html">Degree</a></tt> (5; 0% instances)
 
 `ADV` occurs with 6 feature-value pairs: `Degree=Dim`, `ExtPos=ADV`, `ExtPos=PRON`, `Foreign=Yes`, `Polarity=Neg`, `Typo=Yes`
 
-`ADV` occurs with 9 feature combinations.
-The most frequent feature combination is `_` (1024 tokens).
-Examples: <em>ya, ompa, nikah, y, simi, ohcon, san, axan, cimi, ohkon</em>
+`ADV` occurs with 10 feature combinations.
+The most frequent feature combination is `_` (2260 tokens).
+Examples: <em>amo, ya, simi, ompa, axan, nochipa, yalua, y, nikah, san</em>
 
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 23 different relations: <tt><a href="nhi_itml-dep-advmod.html">advmod</a></tt> (1197; 89% instances), <tt><a href="nhi_itml-dep-fixed.html">fixed</a></tt> (28; 2% instances), <tt><a href="nhi_itml-dep-discourse.html">discourse</a></tt> (25; 2% instances), <tt><a href="nhi_itml-dep-mark.html">mark</a></tt> (16; 1% instances), <tt><a href="nhi_itml-dep-root.html">root</a></tt> (15; 1% instances), <tt><a href="nhi_itml-dep-advcl.html">advcl</a></tt> (12; 1% instances), <tt><a href="nhi_itml-dep-conj.html">conj</a></tt> (7; 1% instances), <tt><a href="nhi_itml-dep-parataxis.html">parataxis</a></tt> (7; 1% instances), <tt><a href="nhi_itml-dep-advmod-neg.html">advmod:neg</a></tt> (4; 0% instances), <tt><a href="nhi_itml-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="nhi_itml-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="nhi_itml-dep-nsubj.html">nsubj</a></tt> (3; 0% instances), <tt><a href="nhi_itml-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="nhi_itml-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="nhi_itml-dep-ccomp.html">ccomp</a></tt> (2; 0% instances), <tt><a href="nhi_itml-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="nhi_itml-dep-obj.html">obj</a></tt> (2; 0% instances), <tt><a href="nhi_itml-dep-obl.html">obl</a></tt> (2; 0% instances), <tt><a href="nhi_itml-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="nhi_itml-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="nhi_itml-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="nhi_itml-dep-dislocated.html">dislocated</a></tt> (1; 0% instances), <tt><a href="nhi_itml-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 24 different relations: <tt><a href="nhi_mesotree-dep-advmod.html">advmod</a></tt> (2348; 91% instances), <tt><a href="nhi_mesotree-dep-root.html">root</a></tt> (54; 2% instances), <tt><a href="nhi_mesotree-dep-fixed.html">fixed</a></tt> (36; 1% instances), <tt><a href="nhi_mesotree-dep-discourse.html">discourse</a></tt> (25; 1% instances), <tt><a href="nhi_mesotree-dep-mark.html">mark</a></tt> (22; 1% instances), <tt><a href="nhi_mesotree-dep-conj.html">conj</a></tt> (18; 1% instances), <tt><a href="nhi_mesotree-dep-advcl.html">advcl</a></tt> (17; 1% instances), <tt><a href="nhi_mesotree-dep-parataxis.html">parataxis</a></tt> (10; 0% instances), <tt><a href="nhi_mesotree-dep-orphan.html">orphan</a></tt> (8; 0% instances), <tt><a href="nhi_mesotree-dep-obj.html">obj</a></tt> (6; 0% instances), <tt><a href="nhi_mesotree-dep-ccomp.html">ccomp</a></tt> (5; 0% instances), <tt><a href="nhi_mesotree-dep-advmod-neg.html">advmod:neg</a></tt> (4; 0% instances), <tt><a href="nhi_mesotree-dep-case.html">case</a></tt> (4; 0% instances), <tt><a href="nhi_mesotree-dep-nmod.html">nmod</a></tt> (4; 0% instances), <tt><a href="nhi_mesotree-dep-nsubj.html">nsubj</a></tt> (4; 0% instances), <tt><a href="nhi_mesotree-dep-appos.html">appos</a></tt> (3; 0% instances), <tt><a href="nhi_mesotree-dep-obl.html">obl</a></tt> (3; 0% instances), <tt><a href="nhi_mesotree-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="nhi_mesotree-dep-dislocated.html">dislocated</a></tt> (2; 0% instances), <tt><a href="nhi_mesotree-dep-flat.html">flat</a></tt> (2; 0% instances), <tt><a href="nhi_mesotree-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="nhi_mesotree-dep-amod.html">amod</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-dep-csubj.html">csubj</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (1038; 78% instances), <tt><a href="nhi_itml-pos-ADJ.html">ADJ</a></tt> (77; 6% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (77; 6% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (52; 4% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (31; 2% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (30; 2% instances),  (15; 1% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (6; 0% instances), <tt><a href="nhi_itml-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="nhi_itml-pos-X.html">X</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 12 different parts of speech: <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (1950; 76% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (177; 7% instances), <tt><a href="nhi_mesotree-pos-ADJ.html">ADJ</a></tt> (176; 7% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (101; 4% instances),  (54; 2% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (51; 2% instances), <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> (35; 1% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (13; 1% instances), <tt><a href="nhi_mesotree-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="nhi_mesotree-pos-X.html">X</a></tt> (1; 0% instances)
 
-1188 (89%) `ADV` nodes are leaves.
+2315 (90%) `ADV` nodes are leaves.
 
-94 (7%) `ADV` nodes have one child.
+157 (6%) `ADV` nodes have one child.
 
-24 (2%) `ADV` nodes have two children.
+40 (2%) `ADV` nodes have two children.
 
-32 (2%) `ADV` nodes have three or more children.
+70 (3%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 6.
 
-Children of `ADV` nodes are attached using 23 different relations: <tt><a href="nhi_itml-dep-punct.html">punct</a></tt> (60; 23% instances), <tt><a href="nhi_itml-dep-advmod.html">advmod</a></tt> (39; 15% instances), <tt><a href="nhi_itml-dep-fixed.html">fixed</a></tt> (29; 11% instances), <tt><a href="nhi_itml-dep-case.html">case</a></tt> (19; 7% instances), <tt><a href="nhi_itml-dep-appos.html">appos</a></tt> (18; 7% instances), <tt><a href="nhi_itml-dep-cc.html">cc</a></tt> (11; 4% instances), <tt><a href="nhi_itml-dep-csubj.html">csubj</a></tt> (11; 4% instances), <tt><a href="nhi_itml-dep-nsubj.html">nsubj</a></tt> (11; 4% instances), <tt><a href="nhi_itml-dep-mark.html">mark</a></tt> (10; 4% instances), <tt><a href="nhi_itml-dep-nmod.html">nmod</a></tt> (8; 3% instances), <tt><a href="nhi_itml-dep-obl.html">obl</a></tt> (7; 3% instances), <tt><a href="nhi_itml-dep-advcl.html">advcl</a></tt> (6; 2% instances), <tt><a href="nhi_itml-dep-conj.html">conj</a></tt> (6; 2% instances), <tt><a href="nhi_itml-dep-det.html">det</a></tt> (6; 2% instances), <tt><a href="nhi_itml-dep-acl.html">acl</a></tt> (5; 2% instances), <tt><a href="nhi_itml-dep-flat.html">flat</a></tt> (5; 2% instances), <tt><a href="nhi_itml-dep-cop.html">cop</a></tt> (4; 2% instances), <tt><a href="nhi_itml-dep-aux.html">aux</a></tt> (2; 1% instances), <tt><a href="nhi_itml-dep-discourse.html">discourse</a></tt> (2; 1% instances), <tt><a href="nhi_itml-dep-parataxis.html">parataxis</a></tt> (2; 1% instances), <tt><a href="nhi_itml-dep-reparandum.html">reparandum</a></tt> (2; 1% instances), <tt><a href="nhi_itml-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="nhi_itml-dep-goeswith.html">goeswith</a></tt> (1; 0% instances)
+Children of `ADV` nodes are attached using 24 different relations: <tt><a href="nhi_mesotree-dep-punct.html">punct</a></tt> (118; 23% instances), <tt><a href="nhi_mesotree-dep-advmod.html">advmod</a></tt> (83; 16% instances), <tt><a href="nhi_mesotree-dep-nsubj.html">nsubj</a></tt> (48; 9% instances), <tt><a href="nhi_mesotree-dep-case.html">case</a></tt> (40; 8% instances), <tt><a href="nhi_mesotree-dep-cop.html">cop</a></tt> (38; 7% instances), <tt><a href="nhi_mesotree-dep-fixed.html">fixed</a></tt> (31; 6% instances), <tt><a href="nhi_mesotree-dep-cc.html">cc</a></tt> (21; 4% instances), <tt><a href="nhi_mesotree-dep-appos.html">appos</a></tt> (18; 4% instances), <tt><a href="nhi_mesotree-dep-conj.html">conj</a></tt> (13; 3% instances), <tt><a href="nhi_mesotree-dep-advcl.html">advcl</a></tt> (12; 2% instances), <tt><a href="nhi_mesotree-dep-mark.html">mark</a></tt> (12; 2% instances), <tt><a href="nhi_mesotree-dep-obl.html">obl</a></tt> (12; 2% instances), <tt><a href="nhi_mesotree-dep-csubj.html">csubj</a></tt> (11; 2% instances), <tt><a href="nhi_mesotree-dep-nmod.html">nmod</a></tt> (11; 2% instances), <tt><a href="nhi_mesotree-dep-det.html">det</a></tt> (8; 2% instances), <tt><a href="nhi_mesotree-dep-aux.html">aux</a></tt> (7; 1% instances), <tt><a href="nhi_mesotree-dep-goeswith.html">goeswith</a></tt> (6; 1% instances), <tt><a href="nhi_mesotree-dep-acl.html">acl</a></tt> (5; 1% instances), <tt><a href="nhi_mesotree-dep-flat.html">flat</a></tt> (5; 1% instances), <tt><a href="nhi_mesotree-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="nhi_mesotree-dep-discourse.html">discourse</a></tt> (2; 0% instances), <tt><a href="nhi_mesotree-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="nhi_mesotree-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="nhi_mesotree-dep-vocative.html">vocative</a></tt> (1; 0% instances)
 
-Children of `ADV` nodes belong to 13 different parts of speech: <tt><a href="nhi_itml-pos-PUNCT.html">PUNCT</a></tt> (60; 23% instances), <tt><a href="nhi_itml-pos-ADV.html">ADV</a></tt> (52; 20% instances), <tt><a href="nhi_itml-pos-NOUN.html">NOUN</a></tt> (29; 11% instances), <tt><a href="nhi_itml-pos-PRON.html">PRON</a></tt> (27; 10% instances), <tt><a href="nhi_itml-pos-VERB.html">VERB</a></tt> (25; 9% instances), <tt><a href="nhi_itml-pos-ADP.html">ADP</a></tt> (21; 8% instances), <tt><a href="nhi_itml-pos-CCONJ.html">CCONJ</a></tt> (11; 4% instances), <tt><a href="nhi_itml-pos-DET.html">DET</a></tt> (11; 4% instances), <tt><a href="nhi_itml-pos-SCONJ.html">SCONJ</a></tt> (11; 4% instances), <tt><a href="nhi_itml-pos-PROPN.html">PROPN</a></tt> (9; 3% instances), <tt><a href="nhi_itml-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="nhi_itml-pos-INTJ.html">INTJ</a></tt> (4; 2% instances), <tt><a href="nhi_itml-pos-X.html">X</a></tt> (1; 0% instances)
+Children of `ADV` nodes belong to 13 different parts of speech: <tt><a href="nhi_mesotree-pos-PUNCT.html">PUNCT</a></tt> (118; 23% instances), <tt><a href="nhi_mesotree-pos-ADV.html">ADV</a></tt> (101; 20% instances), <tt><a href="nhi_mesotree-pos-NOUN.html">NOUN</a></tt> (71; 14% instances), <tt><a href="nhi_mesotree-pos-AUX.html">AUX</a></tt> (42; 8% instances), <tt><a href="nhi_mesotree-pos-ADP.html">ADP</a></tt> (41; 8% instances), <tt><a href="nhi_mesotree-pos-PRON.html">PRON</a></tt> (32; 6% instances), <tt><a href="nhi_mesotree-pos-VERB.html">VERB</a></tt> (32; 6% instances), <tt><a href="nhi_mesotree-pos-CCONJ.html">CCONJ</a></tt> (21; 4% instances), <tt><a href="nhi_mesotree-pos-DET.html">DET</a></tt> (14; 3% instances), <tt><a href="nhi_mesotree-pos-PROPN.html">PROPN</a></tt> (13; 3% instances), <tt><a href="nhi_mesotree-pos-SCONJ.html">SCONJ</a></tt> (13; 3% instances), <tt><a href="nhi_mesotree-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="nhi_mesotree-pos-INTJ.html">INTJ</a></tt> (4; 1% instances)
 

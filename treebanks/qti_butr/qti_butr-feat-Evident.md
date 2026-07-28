@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="qti_butr-pos-VERB.h
 
 ### `VERB`
 
-5 <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> tokens (7% of all `VERB` tokens) have a non-empty value of `Evident`.
+5 <tt><a href="qti_butr-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Evident`.
 
 The most frequent other feature values with which `VERB` and `Evident` co-occurred: <tt><a href="qti_butr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="qti_butr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="qti_butr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="qti_butr-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="qti_butr-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt> (4; 80%), <tt><a href="qti_butr-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 80%), <tt><a href="qti_butr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4; 80%), <tt><a href="qti_butr-feat-Person.html">Person</a></tt><tt>=3</tt> (3; 60%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Evident` co-occurr
 
 * `Fh` (1; 20% of non-empty `Evident`): <em>duyuldu</em>
 * `Nfh` (4; 80% of non-empty `Evident`): <em>Soggyleşmiş, Yemişsin, istemiyormuş, katletmişsin</em>
-* `EMPTY` (69): <em>ettim, geldi, go, yapmak, Depends, Gel, Let's, Seems, alabiliriz, alan</em>
+* `EMPTY` (79): <em>ettim, geldi, go, yapmak, Depends, Gel, Let's, Seems, alabiliriz, alan</em>
 
 ## Relations with Agreement in `Evident`
 

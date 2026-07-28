@@ -7,39 +7,36 @@ udver: '2'
 ## Treebank Statistics: UD_Hausa-WesternAutogramm: Features: `Deixis`
 
 This feature is language-specific.
-It occurs with 2 different values: `Prox`, `Remt`.
+It occurs with 4 different values: `Med`, `ProxH`, `ProxS`, `Remt`.
 
-67 tokens (0%) have a non-empty value of `Deixis`.
-12 types (1%) occur at least once with a non-empty value of `Deixis`.
-12 lemmas (1%) occur at least once with a non-empty value of `Deixis`.
-The feature is used with 3 part-of-speech tags: <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> (35; 0% instances), <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> (28; 0% instances), <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> (4; 0% instances).
+180 tokens (1%) have a non-empty value of `Deixis`.
+13 types (1%) occur at least once with a non-empty value of `Deixis`.
+4 lemmas (0%) occur at least once with a non-empty value of `Deixis`.
+The feature is used with 3 part-of-speech tags: <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> (113; 1% instances), <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> (63; 0% instances), <tt><a href="ha_westernautogramm-pos-PRON.html">PRON</a></tt> (4; 0% instances).
 
 ### `DET`
 
-35 <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> tokens (17% of all `DET` tokens) have a non-empty value of `Deixis`.
+113 <tt><a href="ha_westernautogramm-pos-DET.html">DET</a></tt> tokens (56% of all `DET` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="ha_westernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (35; 100%), <tt><a href="ha_westernautogramm-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (35; 100%), <tt><a href="ha_westernautogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (19; 54%).
+The most frequent other feature values with which `DET` and `Deixis` co-occurred: <tt><a href="ha_westernautogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (113; 100%), <tt><a href="ha_westernautogramm-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (113; 100%), <tt><a href="ha_westernautogramm-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (94; 83%).
 
 `DET` tokens may have the following values of `Deixis`:
 
-* `Prox` (26; 74% of non-empty `Deixis`): <em>wânnam, ga, wânga, wânnan, wa’ànga, wannàn</em>
-* `Remt` (9; 26% of non-empty `Deixis`): <em>wa’ànnan, can, wânnam</em>
-
-<table>
-  <tr><th>Paradigm <i>wânnan</i></th><th><tt>Prox</tt></th><th><tt>Remt</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>wânnam, wânnan</em></td><td><em>wânnam</em></td></tr>
-</table>
+* `ProxH` (99; 88% of non-empty `Deixis`): <em>nan, wânnam, wa’ànnan, wânnan</em>
+* `ProxS` (13; 12% of non-empty `Deixis`): <em>ga, wânga, wa’ànga, wannàn</em>
+* `Remt` (1; 1% of non-empty `Deixis`): <em>can</em>
 
 ### `ADV`
 
-28 <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> tokens (5% of all `ADV` tokens) have a non-empty value of `Deixis`.
+63 <tt><a href="ha_westernautogramm-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `Deixis`.
 
-The most frequent other feature values with which `ADV` and `Deixis` co-occurred: <tt><a href="ha_westernautogramm-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (28; 100%).
+The most frequent other feature values with which `ADV` and `Deixis` co-occurred: <tt><a href="ha_westernautogramm-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (63; 100%).
 
 `ADV` tokens may have the following values of `Deixis`:
 
-* `Prox` (3; 11% of non-empty `Deixis`): <em>nân</em>
-* `Remt` (25; 89% of non-empty `Deixis`): <em>can, nam</em>
+* `ProxH` (37; 59% of non-empty `Deixis`): <em>nan, nam</em>
+* `ProxS` (3; 5% of non-empty `Deixis`): <em>nân</em>
+* `Remt` (23; 37% of non-empty `Deixis`): <em>can</em>
 
 ### `PRON`
 
@@ -49,6 +46,14 @@ The most frequent other feature values with which `PRON` and `Deixis` co-occurre
 
 `PRON` tokens may have the following values of `Deixis`:
 
-* `Prox` (3; 75% of non-empty `Deixis`): <em>wânnan, wa’ànnàn</em>
-* `Remt` (1; 25% of non-empty `Deixis`): <em>wâncân</em>
+* `Med` (1; 25% of non-empty `Deixis`): <em>wâncân</em>
+* `ProxH` (2; 50% of non-empty `Deixis`): <em>wânnan</em>
+* `ProxS` (1; 25% of non-empty `Deixis`): <em>wa’ànnàn</em>
+
+## Relations with Agreement in `Deixis`
+
+The 10 most frequent relations where parent and child node agree in `Deixis`:
+<tt>ADV --[<tt><a href="ha_westernautogramm-dep-conj.html">conj</a></tt>]--> ADV</tt> (1; 100%),
+<tt>ADV --[<tt><a href="ha_westernautogramm-dep-fixed.html">fixed</a></tt>]--> ADV</tt> (1; 100%),
+<tt>ADV --[<tt><a href="ha_westernautogramm-dep-parataxis.html">parataxis</a></tt>]--> ADV</tt> (1; 100%).
 

@@ -46,9 +46,9 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	ei	ei	AUX	AUX	Mood=Ind|Number=Sing|Person=3	1	aux	_	_
 3	ole	olla	AUX	AUX	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop:own	_	_
 4	ovvostustu	ovvostus	NOUN	NOUN	Case=Par|Number=Sing	1	nsubj:cop	_	_
-5	sit	sit	PRON	PRON	Case=Par|Number=Sing	4	nmod	_	SpaceAfter=No
+5	sit	sit	PRON	PRON	Case=Par|Number=Sing|PronType=Dem	4	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	9	punct	_	_
-7	ken	ken	PRON	PRON	Case=Nom|Number=Sing	9	nsubj	_	PronType=Interr
+7	ken	ken	PRON	PRON	Case=Nom|Number=Sing|PronType=Int	9	nsubj	_	PronType=Interr
 8	sen	se	PRON	PRON	Case=Gen|Number=Sing|PronType=Dem	9	obj	_	_
 9	kirjutti	kirjuttua	VERB	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	1	punct	_	_

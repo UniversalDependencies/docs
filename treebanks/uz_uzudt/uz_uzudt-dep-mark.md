@@ -22,12 +22,12 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 mark	color:blue
-1	mana	man	PART	T	_	5	mark	_	_
-2	hozir	hoz	ADV	D	_	5	advmod	_	_
+1	mana	mana	PART	T	_	5	mark	_	_
+2	hozir	hozir	ADV	D	_	5	advmod	_	_
 3	rost	rost	ADJ	A	_	4	amod	_	_
 4	ishga	ish	NOUN	N	Case=Dat	5	obl	_	_
-5	aylandi	aylan	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-6	.	aylan	PUNCT	Y	_	5	punct	_	_
+5	aylandi	ayla	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	.	.	PUNCT	Y	_	5	punct	_	_
 
 ~~~
 
@@ -41,8 +41,8 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 1	shuningdek	shuningdek	ADV	C	_	5	mark	_	_
 2	,	,	PUNCT	Y	_	1	punct	_	_
 3	chaksiz	chaksiz	NOUN	N	_	4	nmod	_	_
-4	shodlikka	shodlikka	NOUN	N	Case=Dat	5	obl	_	_
-5	to'ldiradi	to'ldiradi	VERB	V	_	0	root	_	_
+4	shodlikka	shodlik	NOUN	N	Case=Dat	5	obl	_	_
+5	to'ldiradi	to'ldir	VERB	V	_	0	root	_	_
 6	.	.	PUNCT	Y	_	5	punct	_	_
 
 ~~~
@@ -56,10 +56,10 @@ The following 12 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 5 3 mark	color:blue
 1	inson	inson	NOUN	N	Case=Nom	2	nmod:poss	_	_
 2	qalbi	qalb	NOUN	N	Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3	5	nsubj	_	_
-3	go'ya	go'y	PART	T	_	5	mark	_	_
-4	bir	go'y	NUM	M	_	5	nummod	_	_
+3	go'yo	go'yo	PART	T	_	5	mark	_	_
+4	bir	bir	NUM	M	_	5	nummod	_	_
 5	dengiz	dengiz	NOUN	N	Case=Nom	0	root	_	_
-6	,	dengiz	PUNCT	Y	_	5	punct	_	_
+6	,	,	PUNCT	Y	_	5	punct	_	_
 
 ~~~
 

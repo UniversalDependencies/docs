@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Estonian-EDT: Relations: `compound:prt`
 
 This relation is a language-specific subtype of <tt><a href="et_edt-dep-compound.html">compound</a></tt>.
+There are also 1 other language-specific subtypes of `compound`: <tt><a href="et_edt-dep-compound-idiom.html">compound:idiom</a></tt>.
 
 4528 nodes (1%) are attached to their parents as `compound:prt`.
 
@@ -23,12 +24,12 @@ The following 7 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 3	fgColor:white
 # visual-style 3 6 compound:prt	color:blue
 1	Rootsi	Rootsi	PROPN	S	Case=Gen|Number=Sing	2	nmod	2:nmod	NE=B-Loc
-2	kirjanduses	kirjandus	NOUN	S	Case=Ine|Number=Sing	3	obl	3:obl	_
+2	kirjanduses	kirjandus	NOUN	S	Case=Ine|Number=Sing	3	obl:lmod	3:obl	_
 3	elati	elama	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	0:root	_
 4	see	see	DET	P	Case=Nom|Number=Sing|PronType=Dem	5	det	5:det	_
 5	periood	periood	NOUN	S	Case=Nom|Number=Sing	3	obj	3:obj	_
 6	läbi	läbi	ADV	D	_	3	compound:prt	3:compound	_
-7	1970ndatel	1970=s	ADJ	N	Case=Ade|Number=Plur|NumType=Ord	3	obl	3:obl	SpaceAfter=No
+7	1970ndatel	1970=s	ADJ	N	Case=Ade|Number=Plur|NumType=Ord	3	obl:tmod	3:obl	SpaceAfter=No
 8	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 ~~~

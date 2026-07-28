@@ -74,7 +74,7 @@ The following 7 pairs of parts of speech are connected with `csubj`: <tt><a href
 29	Konstytucje	konstytucja	NOUN	subst:pl:acc:f	Case=Acc|Gender=Fem|Number=Plur	30	obl:agent	30:obl:agent	Translit=Konstytucye
 30	pozwolone	pozwolić	ADJ	ppas:pl:nom:m:perf:aff:pos	Aspect=Perf|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part|Voice=Pass	32	acl	32:acl	Translit=pozwolone
 31	im	on	PRON	ppron3:pl:dat:m:ter:neut:npraep	Case=Dat|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs|Variant=Short	30	iobj	30:iobj	Translit=im
-32	Fundusze	fundusz	NOUN	subst:pl:nom:m	Case=Nom|Gender=Masc|Number=Plur	13	obl:cmpr	13:obl:cmpr	SpaceAfter=No|Translit=Fundusze
+32	Fundusze	fundusz	NOUN	subst:pl:nom:m	Case=Nom|Gender=Masc|Number=Plur	13	obl:cmp	13:obl:cmp	SpaceAfter=No|Translit=Fundusze
 33	?	?	PUNCT	interp	PunctType=Qest	6	punct	6:punct	Translit=?
 
 ~~~

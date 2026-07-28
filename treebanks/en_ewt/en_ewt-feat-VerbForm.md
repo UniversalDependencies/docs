@@ -11,7 +11,7 @@ It occurs with 4 different values: `Fin`, `Ger`, `Inf`, `Part`.
 
 43813 tokens (17%) have a non-empty value of `VerbForm`.
 4465 types (23%) occur at least once with a non-empty value of `VerbForm`.
-2021 lemmas (13%) occur at least once with a non-empty value of `VerbForm`.
+2005 lemmas (13%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 2 part-of-speech tags: <tt><a href="en_ewt-pos-VERB.html">VERB</a></tt> (27888; 11% instances), <tt><a href="en_ewt-pos-AUX.html">AUX</a></tt> (15925; 6% instances).
 
 ### `VERB`
@@ -105,7 +105,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2100; 74%),
+<tt>VERB --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> VERB</tt> (2101; 74%),
 <tt>VERB --[<tt><a href="en_ewt-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (386; 54%),
 <tt>AUX --[<tt><a href="en_ewt-dep-conj.html">conj</a></tt>]--> AUX</tt> (13; 81%),
 <tt>VERB --[<tt><a href="en_ewt-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (9; 64%),

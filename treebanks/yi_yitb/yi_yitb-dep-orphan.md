@@ -28,7 +28,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 4	מען	מען	PRON	_	_	3	nsubj	_	Translit=men|Translit_Lemma=men
 5	אױף	אױף	ADP	_	_	7	case	_	Translit=oyf|Translit_Lemma=oyf
 6	די	דער	DET	_	_	7	det	_	Translit=di|Translit_Lemma=der
-7	צײן	צײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַנצײַ	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=tseyn|Translit_Lemma=tsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsayntsaynts
+7	צײן	צאָן	NOUN	_	_	3	obl	_	SpaceAfter=No|Translit=tseyn|Translit_Lemma=tson
 8	;	;	PUNCT	_	_	11	punct	_	Translit=;|Translit_Lemma=;
 9	בײַ	בײַ	ADP	_	_	11	case	_	Translit=bay|Translit_Lemma=bay
 10	אַ	אַ	DET	_	_	11	det	_	Translit=a|Translit_Lemma=a

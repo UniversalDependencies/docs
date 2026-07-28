@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.4 release.
 The following people have contributed to making this treebank part of UD: Andrius Utka, Erika Rimkutė, Agnė Bielinskienė, Jolanta Kovalevskaitė, Loïc Boizou, Gabrielė Aleksandravičiūtė, Kristina Brokaitė, Daniel Zeman, Natalia Perkova, Bernadeta Griciūtė.
 
 Repository: [UD_Lithuanian-ALKSNIS](https://github.com/UniversalDependencies/UD_Lithuanian-ALKSNIS)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_alksnis217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlt_alksnis218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -80,6 +80,9 @@ being manually checked and corrected by a group of linguists.
 
 From v2.1 to v3.0 the treebank was developed within the project "Semantika2"
 (Nr. 02.3.1-CPVA-V-527-01-0002). The project was funded by European Structural Funds.
+
+The improvements done in 2023–2026 benefited from
+the COST Action CA21167 [UniDive](https://unidive.lisn.upsaclay.fr/).
 
 ## References
 

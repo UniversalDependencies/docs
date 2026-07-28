@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADV` and `PartType` co-occurr
 
 1 <tt><a href="sms_giellagas-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `PartType`.
 
-The most frequent other feature values with which `NOUN` and `PartType` co-occurred: <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `PartType` co-occurred: <tt><a href="sms_giellagas-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="sms_giellagas-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `PartType`:
 

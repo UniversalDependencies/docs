@@ -4,7 +4,7 @@ title:  'Old Georgian UD'
 udver: '2'
 ---
 
-# UD for Old Georgian <span class="flagspan"><img class="flag" src="../../flags/svg/OGE.svg" /></span>
+# UD for Old Georgian <span class="flagspan"><img class="flag" src="../../flags/svg/GE.svg" /></span>
 
 This is a **work-in-progress** overview of the UD annotation for Old Georgian.
 
@@ -25,11 +25,11 @@ This is a **work-in-progress** overview of the UD annotation for Old Georgian.
 Nominals: The lemma is consistently represented as the nominative singular form, providing a straightforward and standard approach.
 
 Verbs: Georgian verbs lack an infinitive form, resulting in two lemmatization strategies:
-* Verbal Noun (Masdar), which use the verbal noun as the lemma, treating it as an abstract root for verb generation. 
-* Third-Person Singular (Present/Future), which represents lemmas as finite verb forms, supplemented with grammatical information. 
+* Verbal Noun (Masdar), which use the verbal noun as the lemma, treating it as an abstract root for verb generation.
+* Third-Person Singular (Present/Future), which represents lemmas as finite verb forms, supplemented with grammatical information.
 
 ### Lemmatization in UD Treebanks
-For Universal Dependency (UD) treebanks, lemmatization practices typically reflect a hybrid approach, influenced by the diverse strategies used for Georgian verbs. 
+For Universal Dependency (UD) treebanks, lemmatization practices typically reflect a hybrid approach, influenced by the diverse strategies used for Georgian verbs.
 
 ---
 
@@ -49,22 +49,36 @@ For Universal Dependency (UD) treebanks, lemmatization practices typically refle
 
 #### Lexical Features
 
-* UD_Old_Georgian-GLC treebank uses all main lexical FEATS tags except of [REflex](https://universaldependencies.org/u/feat/Reflex.html)
+* UD_Old_Georgian-GLC treebank uses all main lexical FEATS tags except of [Reflex](https://universaldependencies.org/u/feat/Reflex.html)
 
 #### Inflectional Features
 ##### Nominal Features
 
 * The UD_Georgian treebanks use all main inflectional FEATS tags except of [Gender](https://universaldependencies.org/u/feat/Gender.html), [NounClass](https://universaldependencies.org/u/feat/NounClass.html) and [Definite](https://universaldependencies.org/u/feat/Definite.html).
-  * Nouns have inherent Animacy and inflect for Number (singular or plural) and Case (nominative, ergative, dative, genetive, instrumental, essive (adverbial) and vocative).
-  * Adjectives in the majority of cases agree with nouns (in both attributive and predicative position) with respect to Case. Many adjectives inflect for Degree (diminutive, positive, comparative, superlative), Case and Number.
-  * Numerals agree with nouns (in both attributive and predicative position) with respect to Case and inflect for Case and very rarely for Number: ორი *ori* 'two in Singular' -> ორნი *orni* 'two in Plural'.
-  * Many pronouns agree with nouns with respect to Case and inflect for Case and Number. Some types of pronouns (personal, demonstrative and possessive pronouns) reflect Person (1, 2, 3).
+  * Nouns have inherent [Animacy]() and inflect for [Number]() (singular or plural) and [Case]() (nominative, ergative, dative, genetive, instrumental, essive (adverbial) and vocative).
+  * Adjectives in the majority of cases agree with nouns (in both attributive and predicative position) with respect to [Case]().
+    Many adjectives inflect for [Degree]() (diminutive, positive, comparative, superlative), [Case]() and [Number]().
+  * Numerals agree with nouns (in both attributive and predicative position) with respect to Case and inflect for Case and
+    very rarely for Number: ორი *ori* 'two in Singular' -> ორნი *orni* 'two in Plural'.
+  * Many pronouns agree with nouns with respect to Case and inflect for Case and Number.
+    Some types of pronouns (personal, demonstrative and possessive pronouns) reflect Person (1, 2, 3).
 
 ##### Verbal Features
 
 * The UD_Old_Georgian_GLC treebank uses all main inflectional FEATS tags except of [Polarity](https://universaldependencies.org/u/feat/Polarity.html), [Polite](https://universaldependencies.org/u/feat/Polite.html) and [Clusivity](https://universaldependencies.org/u/feat/Clusivity.html).
-  * Verbs inflect for Tense (present, imperfect, future, aorist, perfect, pluperfect), Aspect (imperfective, perfective) and Mood (indicative, subjunctive, conditional, imperative) so-called TAM series, which specifies case-marking and so-called agreement relationships between participants such as agent and patient by means of preverbs, version markers and thematic suffixes. The category of voice can be subdivided into the active, autoactive, inactive, passive and mediopassive voices, but the traditional Georgian grammar (Shanidze 1961, 1973) distinguishes only active, middle and passive voices.
-  * The category of personality covers unipersonal, bipersonal and tripersonal verbs. As a result verbal morphology includes agreement between the verb and its arguments in terms of Person, Case and Number. While in Indo-European languages, the verb generally agrees with the subject of the sentence, in Georgian the verb agrees not only with the subject, but with its objects as well, both direct and/or indirect. The verb in Georgian has core and peripheral arguments. A core argument agrees morphologically with the verb by means of Person (1, 2, or 3 for Person[subj], Person[obj], Person[io]) and Number (singular or plural for Number[subj], Number[obj], Number[io]), while a peripheral argument does not. The number of core arguments affects the conjugation system as a whole, subdividing it into subject and object paradigms.
+  * Verbs inflect for [Tense]() (present, imperfect, future, aorist, perfect, pluperfect),
+    [Aspect]() (imperfective, perfective) and
+    [Mood]() (indicative, subjunctive, conditional, imperative) so-called TAM series,
+    which specifies case-marking and so-called agreement relationships between participants such as agent and patient by means of preverbs, version markers and thematic suffixes.
+    The category of voice can be subdivided into the active, autoactive, inactive, passive and mediopassive voices, but the traditional Georgian grammar (Shanidze 1961, 1973)
+    distinguishes only active, middle and passive voices.
+  * The category of personality covers unipersonal, bipersonal and tripersonal verbs.
+    As a result verbal morphology includes agreement between the verb and its arguments in terms of [Person](), [Case]() and [Number]().
+    While in Indo-European languages, the verb generally agrees with the subject of the sentence, in Georgian the verb agrees not only with the subject,
+    but with its objects as well, both direct and/or indirect. The verb in Georgian has core and peripheral arguments.
+    A core argument agrees morphologically with the verb by means of Person (1, 2, or 3 for [Person[subj]](), [Person[obj]](), [Person[io]]()) and
+    Number (Sing or Plur for [Number[subj]](), [Number[obj]](), [Number[io]]()), while a peripheral argument does not.
+    The number of core arguments affects the conjugation system as a whole, subdividing it into subject and object paradigms.
   * There are two types of nonfinite forms: participles and masdars.
 
 ---

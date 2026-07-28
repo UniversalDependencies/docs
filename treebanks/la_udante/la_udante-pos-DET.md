@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>quantum</em> (<tt><a href="la_udante-
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 6.470588 (the average of all parts of speech is 2.130133).
+The form / lemma ratio of `DET` is 6.470588 (the average of all parts of speech is 2.131437).
 
 The 1st highest number of forms (17) was observed with the lemma “hic”: <em>Harum, hac, hanc, has, hec, hee, hi, hic, hii, hiis, his, hoc, horum, hos, huic, huius, hunc</em>.
 

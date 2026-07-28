@@ -19,4 +19,4 @@ However, just like hashtags, whenever they are syntactically integrated into the
 RT @spleodar: Ní díreach @user ...Ach is maith linn é... léirigh cion inniu - nígh na soithí https://t.co/QaD247f1Dk
 nsubj(díreach, @user)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:41 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->

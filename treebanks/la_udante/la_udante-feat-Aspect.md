@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Inch`, `Prosp` are language-specific.
 It occurs with 4 different values: `Imp`, `Inch`, `Perf`, `Prosp`.
 
-10434 tokens (19%) have a non-empty value of `Aspect`.
-4787 types (40%) occur at least once with a non-empty value of `Aspect`.
-1567 lemmas (28%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (8234; 15% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2200; 4% instances).
+10435 tokens (19%) have a non-empty value of `Aspect`.
+4788 types (40%) occur at least once with a non-empty value of `Aspect`.
+1568 lemmas (28%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> (8235; 15% instances), <tt><a href="la_udante-pos-AUX.html">AUX</a></tt> (2200; 4% instances).
 
 ### `VERB`
 
-8234 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
+8235 <tt><a href="la_udante-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (5913; 72%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5908; 72%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5908; 72%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5222; 63%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4979; 60%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4799; 58%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="la_udante-feat-InflClass-nominal.html">InflClass[nominal]</a></tt><tt>=EMPTY</tt> (5913; 72%), <tt><a href="la_udante-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5908; 72%), <tt><a href="la_udante-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5908; 72%), <tt><a href="la_udante-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5243; 64%), <tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4980; 60%), <tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4799; 58%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Imp` (5883; 71% of non-empty `Aspect`): <em>potest, patet, habet, dicimus, videtur, dicit, consequens, dico, habere, oportet</em>
 * `Inch` (85; 1% of non-empty `Aspect`): <em>deposco, innotescere, cognoscat, cognoscere, cognoscitur, innotescet, innotescit, allubescentes, arescant, asciscere</em>
-* `Perf` (1784; 22% of non-empty `Aspect`): <em>dictum, fecit, inquit, dixit, factum, potuit, converso, facta, dicta, diximus</em>
+* `Perf` (1785; 22% of non-empty `Aspect`): <em>dictum, fecit, inquit, dixit, factum, potuit, converso, facta, dicta, diximus</em>
 * `Prosp` (482; 6% of non-empty `Aspect`): <em>sciendum, dicendum, loquendo, canenda, advertendum, agendum, dicenda, dicendorum, querenda, subiciendo</em>
 
 <table>
@@ -88,8 +88,8 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Imp` (2034; 92% of non-empty `Aspect`): <em>est, esse, sunt, sit, esset, sint, erat, erit, es, essent</em>
-* `Perf` (160; 7% of non-empty `Aspect`): <em>fuit, fuisse, fuisset, fuerit, fuerunt, fore, fuerat, fuerint, fuistis, fueram</em>
-* `Prosp` (6; 0% of non-empty `Aspect`): <em>futura, futuram, futuris, futuro, futurum</em>
+* `Perf` (155; 7% of non-empty `Aspect`): <em>fuit, fuisse, fuisset, fuerit, fuerunt, fuerat, fuerint, fuistis, fueram, fuere</em>
+* `Prosp` (11; 1% of non-empty `Aspect`): <em>fore, futura, futuram, futuris, futuro, futurum</em>
 
 <table>
   <tr><th>Paradigm <i>sum</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th><th><tt>Prosp</tt></th></tr>
@@ -127,7 +127,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
   <tr><td><tt><tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sitis</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>essent</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_udante-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="la_udante-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="la_udante-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="la_udante-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sint</em></td><td><em>fuerint</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>esse</em></td><td><em>fuisse, fore</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_udante-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td><em>esse</em></td><td><em>fuisse</em></td><td><em>fore</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Aspect`

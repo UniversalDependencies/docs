@@ -30,7 +30,7 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 6	როგორც	როგორც	ADP	Cj_Compar	_	8	mark	_	LMSeg:როგორც
 7	მისი	მისი	PRON	Pron_Poss_Poss3Sg_Nom_Att	Case=Nom|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	8	det:poss	_	LMSeg:მის·ი
 8	ქმარი	ქმარი	NOUN	N_Hum_Nom_Sg	Animacy=Anim|Case=Nom|Number=Sing	4	advcl	_	LMSeg:ქმ[ა]რ·ი
-9	თავის	თავისი	PRON	Pron_Poss_Refl_Poss3Sg_Dat_Att	Case=Dat|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det:poss	_	LMSeg:თავის·ი
+9	თავის	თავისი	PRON	Pron_Poss_Refl_Poss3Sg_Dat_Att	Case=Dat|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs|Reflex=Yes	11	det:poss	_	LMSeg:თავის·ი
 10	ქონიან	ქონიანი	ADJ	A_Dat_Att	Case=Dat	11	amod	_	LMSeg:ქონიან·ი
 11	დახლს	დახლი	NOUN	N_Dat_Sg	Case=Dat|Number=Sing	8	orphan	_	LMSeg:დახლ·ი|SpaceAfter=No
 12	.	.	PUNCT	Punct_Period	_	5	punct	_	LMSeg:.
@@ -82,11 +82,11 @@ The following 7 pairs of parts of speech are connected with `orphan`: <tt><a hre
 1	–	–	PUNCT	Punct_Dash	_	6	punct	_	LMSeg:–
 2	ამ	ეს	PRON	Pron_Dem_Advb_Att	Case=Ess|PronType=Dem	3	det	_	LMSeg:ეს
 3	ქვეყნად	ქვეყანა	NOUN	N_Advb_Sg	Case=Ess|Number=Sing	6	obl	_	LMSeg:ქვეყ[ა]ნ[ა]
-4	ზოგი	ზოგი	DET	A_Quant_Nom_Sg	Case=Nom|Number=Sing	6	nsubj	_	LMSeg:ზოგ·ი
+4	ზოგი	ზოგი	DET	A_Quant_Nom_Sg	Case=Nom|Number=Sing|PronType=Ind	6	nsubj	_	LMSeg:ზოგ·ი
 5	უნაგირით	უნაგირი	NOUN	N_Inst_Sg	Case=Ins|Number=Sing	6	obl	_	LMSeg:უნაგირ·ი
 6	იბადება	დაბადება	VERB	V_Pass_Pres_S:3Sg	Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:და·ბადებ[ა]/ბად|SpaceAfter=No
 7	,	,	PUNCT	Punct_Comma	_	8	punct	_	LMSeg:,
-8	ზოგი	ზოგი	DET	A_Quant_Nom_Sg	Case=Nom|Number=Sing	6	conj	_	LMSeg:ზოგ·ი
+8	ზოგი	ზოგი	DET	A_Quant_Nom_Sg	Case=Nom|Number=Sing|PronType=Ind	6	conj	_	LMSeg:ზოგ·ი
 9	კი	კი	ADV	Adv_Disc	_	8	advmod	_	LMSeg:კი
 10	დეზებით	დეზი	NOUN	N_Inst_Pl_NewPl	Case=Ins|Number=Plur	8	orphan	_	LMSeg:დეზ·ი
 11	და	და	CCONJ	Cj_Coord	_	12	cc	_	LMSeg:და

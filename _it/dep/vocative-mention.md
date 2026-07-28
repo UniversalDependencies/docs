@@ -19,4 +19,4 @@ However, just like hashtags, whenever they are syntactically integrated into the
 arriva @user
 nsubj(arriva, @user)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:41 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->

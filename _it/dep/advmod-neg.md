@@ -12,4 +12,4 @@ Io non Enea , io non Paulo sono ;
 advmod:neg(Enea, non)
 advmod:neg(Paulo, non)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:12 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:37 CEST -->

@@ -11,22 +11,22 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cop_bohairic-feat-Number.html">Number</a></tt>, <tt><a href="cop_bohairic-feat-Number-psor.html">Number[psor]</a></tt>.
 
-9337 tokens (29%) have a non-empty value of `Number`.
+9338 tokens (29%) have a non-empty value of `Number`.
 91 types (4%) occur at least once with a non-empty value of `Number`.
 51 lemmas (3%) occur at least once with a non-empty value of `Number`.
-The feature is used with 2 part-of-speech tags: <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (4930; 15% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (4407; 13% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> (4931; 15% instances), <tt><a href="cop_bohairic-pos-DET.html">DET</a></tt> (4407; 13% instances).
 
 ### `PRON`
 
-4930 <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `Number`.
+4931 <tt><a href="cop_bohairic-pos-PRON.html">PRON</a></tt> tokens (92% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cop_bohairic-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4639; 94%), <tt><a href="cop_bohairic-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4639; 94%), <tt><a href="cop_bohairic-feat-Person.html">Person</a></tt><tt>=3</tt> (3569; 72%), <tt><a href="cop_bohairic-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2510; 51%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cop_bohairic-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (4640; 94%), <tt><a href="cop_bohairic-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (4640; 94%), <tt><a href="cop_bohairic-feat-Person.html">Person</a></tt><tt>=3</tt> (3570; 72%), <tt><a href="cop_bohairic-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2510; 51%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (1514; 31% of non-empty `Number`): ⲩ, ⲟⲩ, ⲧⲉⲛ, ⲥⲉ, ⲛ, ⲑⲏⲛⲟⲩ, ⲧⲉⲧⲉⲛ, ⲛⲉ, ⲉⲩⲉ, ⲛⲑⲱⲧⲉⲛ
+* `Plur` (1515; 31% of non-empty `Number`): ⲩ, ⲟⲩ, ⲧⲉⲛ, ⲥⲉ, ⲛ, ⲑⲏⲛⲟⲩ, ⲧⲉⲧⲉⲛ, ⲛⲉ, ⲉⲩⲉ, ⲛⲑⲱⲧⲉⲛ
 * `Sing` (3416; 69% of non-empty `Number`): ϥ, ⲥ, ⲓ, ⲕ, ⲡⲉ, ϯ, ⲁⲛⲟⲕ, ⲛⲑⲟϥ, ⲉϥⲉ, ⲡ
-* `EMPTY` (428): ⲟⲩ, ϥ, ⲛⲓⲃⲉⲛ, ⲥ, ⲕ, ⲛⲓⲙ, ⲟⲩⲏⲣ, ⲁϣ, ⲑⲱⲛ, ⲛ
+* `EMPTY` (427): ⲟⲩ, ϥ, ⲛⲓⲃⲉⲛ, ⲥ, ⲕ, ⲛⲓⲙ, ⲟⲩⲏⲣ, ⲁϣ, ⲑⲱⲛ, ⲛ
 
 <table>
   <tr><th>Paradigm <i>ⲡⲉ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

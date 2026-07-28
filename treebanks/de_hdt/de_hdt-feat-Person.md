@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="de_hdt-pos-VERB.htm
 
 134430 <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> tokens (51% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (134430; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (134426; 100%), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (133686; 99%), <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (102877; 77%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (101546; 76%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (134430; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (134430; 100%), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (133684; 99%), <tt><a href="de_hdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (102877; 77%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (101546; 76%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -165,5 +165,5 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (317; 54%),
 <tt>VERB --[<tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (279; 54%),
 <tt>AUX --[<tt><a href="de_hdt-dep-expl.html">expl</a></tt>]--> PRON</tt> (97; 63%),
-<tt>AUX --[<tt><a href="de_hdt-dep-acl.html">acl</a></tt>]--> VERB</tt> (62; 55%).
+<tt>AUX --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (40; 78%).
 

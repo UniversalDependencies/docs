@@ -40,4 +40,4 @@ A verb that takes a direct object as argument (in addition to the subject).
 
 * _აღორენს (ɑɣɔrɛns)_ 'he/she is lying' etc.
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:49 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->

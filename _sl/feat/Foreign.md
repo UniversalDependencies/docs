@@ -18,4 +18,4 @@ udver: '2'
 ### Conversion from JOS
 
 All tokens with tag Residual and Type=foreign are converted to `X` and Foreign=Yes.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:16 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:53 CEST -->

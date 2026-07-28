@@ -29,7 +29,7 @@ The following 23 pairs of parts of speech are connected with `fixed`: <tt><a hre
 5	systemet	system	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	6	nsubj	6:nsubj	_
 6	tjänar	tjäna	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
 7	på	på	ADP	PP	_	8	case	8:case	_
-8	hemmafruarna	hemmafru	NOUN	NN|UTR|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	6	obl	6:obl:på	SpaceAfter=No
+8	hemmafruarna	hemmafru	NOUN	NN|UTR|PLU|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	6	obl	6:obl:på	SpaceAfter=No|ParsemeMWE=1:NID
 9	.	.	PUNCT	MAD	_	6	punct	6:punct	_
 
 ~~~
@@ -60,9 +60,9 @@ The following 23 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 fixed	color:blue
-1	I	i	ADP	PP	ExtPos=ADP	4	case	4:case	_
-2	och	och	CCONJ	KN	_	1	fixed	1:fixed	_
-3	med	med	ADP	PP	_	1	fixed	1:fixed	_
+1	I	i	ADP	PP	ExtPos=ADP	4	case	4:case	ParsemeMWE=1:AdpID
+2	och	och	CCONJ	KN	_	1	fixed	1:fixed	ParsemeMWE=1
+3	med	med	ADP	PP	_	1	fixed	1:fixed	ParsemeMWE=1
 4	parbildningen	parbildning	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	obl	7:obl:i_och_med	_
 5	och	och	CCONJ	KN	_	6	cc	6:cc	_
 6	bobyggandet	bobyggande	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	4	conj	4:conj:och|7:obl:i_och_med	_

@@ -39,4 +39,4 @@ compound(Buch, *Telefon)
 
 The subtype relation [compound:prt]() is used for particle verbs when
 particle and verb are separated.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:29 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:49 CEST -->

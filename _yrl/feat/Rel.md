@@ -52,4 +52,4 @@ Absolute is associated with certain subclasses of nouns, being phonetically empt
 * _<b>Yané kupixawa apekatú uka suí (Hartt, 377, apud Avila 2021)</b> &nbsp;_ “Our plantation is far from home.”
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:47 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:17 CEST -->

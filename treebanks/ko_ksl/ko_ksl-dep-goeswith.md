@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-266 nodes (0%) are attached to their parents as `goeswith`.
+287 nodes (0%) are attached to their parents as `goeswith`.
 
-266 instances of `goeswith` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04887218045113.
+287 instances of `goeswith` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.04529616724739.
 
-The following 11 pairs of parts of speech are connected with `goeswith`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (112; 42% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (70; 26% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (35; 13% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (25; 9% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (11; 4% instances), <tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (4; 2% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `goeswith`: <tt><a href="ko_ksl-pos-VERB.html">VERB</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (120; 42% instances), <tt><a href="ko_ksl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (76; 26% instances), <tt><a href="ko_ksl-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (35; 12% instances), <tt><a href="ko_ksl-pos-ADV.html">ADV</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (29; 10% instances), <tt><a href="ko_ksl-pos-AUX.html">AUX</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (13; 5% instances), <tt><a href="ko_ksl-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (4; 1% instances), <tt><a href="ko_ksl-pos-ADP.html">ADP</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="ko_ksl-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="ko_ksl-pos-NUM.html">NUM</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (2; 1% instances), <tt><a href="ko_ksl-pos-DET.html">DET</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="ko_ksl-pos-PRON.html">PRON</a></tt>-<tt><a href="ko_ksl-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,11 +22,11 @@ The following 11 pairs of parts of speech are connected with `goeswith`: <tt><a 
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 goeswith	color:blue
-1	나도	나+도	PRON	NP+JX	_	10	nsubj	_	_
+1	나도	나+도	PRON	NP+JX	PronType=Prs	10	nsubj	_	_
 2	환경	환경	NOUN	NNG	_	3	nmod	_	_
 3	보고를	보고+를	NOUN	NNG+JKO	_	4	obj	_	_
 4	위해	위하+아	VERB	VV+EC	_	6	advcl	_	_
-5	무엇을	무엇+을	PRON	NP+JKO	_	6	obj	_	_
+5	무엇을	무엇+을	PRON	NP+JKO	PronType=Int	6	obj	_	_
 6	해야하는	하+아야+하+는+지	VERB	VV+EC+VX+ETM+NA	Typo=Yes	9	ccomp	_	_
 7	지	_	X	_	_	6	goeswith	_	_
 8	잘	잘	ADV	MAG	_	9	advmod	_	_
@@ -65,8 +65,8 @@ The following 11 pairs of parts of speech are connected with `goeswith`: <tt><a 
 5	지금	지금	ADV	MAG	_	6	nsubj	_	_
 6	21세기	21+세기	NOUN	SN+NNG	_	13	advcl	_	_
 7	이고	이+고	ADP	VCP+EC	_	6	case	_	_
-8	우리가	우리+가	PRON	NP+JKS	_	13	nsubj	_	_
-9	이런	이런	DET	MM	_	11	det	_	_
+8	우리가	우리+가	PRON	NP+JKS	PronType=Prs	13	nsubj	_	_
+9	이런	이런	DET	MM	PronType=Dem	11	det	_	_
 10	옛날	옛날	NOUN	NNG	_	11	nmod	_	_
 11	제도들이	제도+들+이	NOUN	NNG+XSN+JKS	_	12	nsubj	_	_
 12	폐지하고	폐지+하+고	VERB	NNG+XSV+EC	_	0	root	_	_

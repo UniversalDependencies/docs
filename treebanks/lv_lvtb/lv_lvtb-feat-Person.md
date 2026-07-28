@@ -12,7 +12,7 @@ It occurs with 3 different values: `1`, `2`, `3`.
 46323 tokens (14%) have a non-empty value of `Person`.
 7645 types (14%) occur at least once with a non-empty value of `Person`.
 3101 lemmas (13%) occur at least once with a non-empty value of `Person`.
-The feature is used with 4 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (24526; 7% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (7942; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (7301; 2% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (6554; 2% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (24526; 7% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (7942; 2% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (7300; 2% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (6555; 2% instances).
 
 ### `VERB`
 
@@ -84,15 +84,15 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 ### `PRON`
 
-7301 <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> tokens (69% of all `PRON` tokens) have a non-empty value of `Person`.
+7300 <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> tokens (69% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7295; 100%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5174; 71%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3929; 54%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3864; 53%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (7295; 100%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5174; 71%), <tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3928; 54%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3864; 53%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (3121; 43% of non-empty `Person`): <em>es, man, mēs, mums, mūsu, mani, mūs, manis, manī, Tewi</em>
 * `2` (744; 10% of non-empty `Person`): <em>tu, jūs, tev, jums, jūsu, tevi, tevis, tevī, Tawa, jūsos</em>
-* `3` (3436; 47% of non-empty `Person`): <em>viņa, viņš, viņu, viņi, viņas, viņam, viņai, viņiem, viņus, viņām</em>
+* `3` (3435; 47% of non-empty `Person`): <em>viņa, viņš, viņu, viņi, viņas, viņam, viņai, viņiem, viņus, viņām</em>
 * `EMPTY` (3227): <em>kas, ko, sevi, sev, kam, neko, nekas, kā, sevis, sevī</em>
 
 <table>
@@ -106,14 +106,14 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 ### `DET`
 
-6554 <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> tokens (43% of all `DET` tokens) have a non-empty value of `Person`.
+6555 <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> tokens (43% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (6544; 100%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5083; 78%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4450; 68%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="lv_lvtb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (6545; 100%), <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5083; 78%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (4451; 68%).
 
 `DET` tokens may have the following values of `Person`:
 
 * `1` (10; 0% of non-empty `Person`): <em>mūsējie, Mūsējo, manējai, manējiem, manējo, manējām, mūsējais, mūsējiem, mūsējā</em>
-* `3` (6544; 100% of non-empty `Person`): <em>to, tas, tā, tās, šo, tam, šī, tie, šajā, šīs</em>
+* `3` (6545; 100% of non-empty `Person`): <em>to, tas, tā, tās, šo, tam, šī, tie, šajā, šīs</em>
 * `EMPTY` (8774): <em>savu, visu, kuru, kurš, kurā, kuri, kādu, kuras, visi, kura</em>
 
 ## Relations with Agreement in `Person`

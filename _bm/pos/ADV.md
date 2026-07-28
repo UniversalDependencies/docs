@@ -8,4 +8,4 @@ udver: '2'
 Adverbs are words that typically modify [VERB]() for such categories as time, place, direction or manner. In Bamana, the majority of adverbs are postposed, but there are several adverbs which are preposed.
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:45 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:34 CEST -->

@@ -45,4 +45,4 @@ The Digit form is used when the numeral is expressed using digits (0-9).
 * _X_ "ten"
 * _C_ "one hundred"
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:32 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->

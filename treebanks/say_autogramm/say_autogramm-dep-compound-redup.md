@@ -27,7 +27,7 @@ The following 6 pairs of parts of speech are connected with `compound:redup`: <t
 2	kúmá	kúmá	PART	_	PartType=Top	1	discourse	_	AlignBegin=104782|AlignEnd=105099|Gloss=also
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=105099|AlignEnd=105417|Gloss=PUNCT
 4	gòpès	gòpm	PRON	_	Definite=Def|Number=Plur|Person=1|PronType=Prs	6	dislocated	_	AlignBegin=105417|AlignEnd=105549|Gloss=1.PlurGen.Def
-5	ʧìn	_	AUX	yi	Number=Plur|Person=3	6	cop	_	AlignEnd=105945|Gloss=3Plur.be|wordform=yi
+5	ʧìn	yi	AUX	_	Number=Plur|Person=3	6	cop	_	AlignEnd=105945|Copula=Yes|Gloss=3Plur.be.Loc|wordform=yi
 6	məːri	məːri	ADJ	_	Number=Plur	0	root	_	AlignBegin=106209|AlignEnd=106473|Gloss=young
 7	nʤótn	nʤwâːtn	ADV	_	_	6	advmod	_	AlignBegin=106473|Gloss=small.INTENS|Ideo=Yes
 8	nʤótn	nʤwâːtn	ADV	_	_	7	compound:redup	_	AlignEnd=106737|Gloss=small.INTENS|Ideo=Yes
@@ -43,7 +43,7 @@ The following 6 pairs of parts of speech are connected with `compound:redup`: <t
 # visual-style 5	fgColor:white
 # visual-style 5 6 compound:redup	color:blue
 1	séː	séː	ADV	_	_	3	advmod	_	AlignBegin=71310|AlignEnd=71446|Gloss=then
-2	á	_	AUX	ø	Aspect=Aor|Number=Sing|Person=3	3	aux	_	AlignBegin=71446|AlignEnd=71582|Gloss=3Sing.Aor
+2	á	á	AUX	_	Number=Sing|Person=3|Tense=Pres	3	aux	_	AlignBegin=71446|AlignEnd=71582|Gloss=3Sing.Aor
 3	wû	wul	VERB	_	_	0	root	_	AlignBegin=71582|AlignEnd=71718|Gloss=say
 4	tu	tu	SCONJ	_	_	5	case	_	AlignBegin=71718|AlignEnd=71856|Gloss=Qot
 5	ʔḿ	ʔḿ	INTJ	_	_	3	obj	_	AlignBegin=71856|AlignEnd=72085|Gloss=good

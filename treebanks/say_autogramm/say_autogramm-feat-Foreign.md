@@ -9,34 +9,34 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-256 tokens (1%) have a non-empty value of `Foreign`.
-148 types (5%) occur at least once with a non-empty value of `Foreign`.
-146 lemmas (9%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 12 part-of-speech tags: <tt><a href="say_autogramm-pos-X.html">X</a></tt> (132; 1% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (48; 0% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="say_autogramm-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+259 tokens (1%) have a non-empty value of `Foreign`.
+149 types (5%) occur at least once with a non-empty value of `Foreign`.
+147 lemmas (10%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 12 part-of-speech tags: <tt><a href="say_autogramm-pos-X.html">X</a></tt> (131; 1% instances), <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> (49; 0% instances), <tt><a href="say_autogramm-pos-ADP.html">ADP</a></tt> (14; 0% instances), <tt><a href="say_autogramm-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="say_autogramm-pos-ADV.html">ADV</a></tt> (12; 0% instances), <tt><a href="say_autogramm-pos-SCONJ.html">SCONJ</a></tt> (11; 0% instances), <tt><a href="say_autogramm-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), <tt><a href="say_autogramm-pos-PROPN.html">PROPN</a></tt> (7; 0% instances), <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> (5; 0% instances), <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="say_autogramm-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances), <tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 ### `X`
 
-132 <tt><a href="say_autogramm-pos-X.html">X</a></tt> tokens (57% of all `X` tokens) have a non-empty value of `Foreign`.
+131 <tt><a href="say_autogramm-pos-X.html">X</a></tt> tokens (56% of all `X` tokens) have a non-empty value of `Foreign`.
 
 `X` tokens may have the following values of `Foreign`:
 
-* `Yes` (132; 100% of non-empty `Foreign`): <em>ba, shi, a, nan, ɗaya, ga, hau, ina, ne, sa</em>
+* `Yes` (131; 100% of non-empty `Foreign`): <em>ba, shi, a, nan, ɗaya, ga, gaba, hau, hár, ina</em>
 * `EMPTY` (101): <em>ʃèː, XX, X, ʃìːge, báːbáː, gàːta, gàːtáwâːn, gàː~, ki, kú~</em>
 
-`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (73) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `X`. 100% lemmas (72) occur only with one value of `Foreign`.
 
 ### `NOUN`
 
-48 <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+49 <tt><a href="say_autogramm-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="say_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (44; 92%), <tt><a href="say_autogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (43; 90%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="say_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (45; 92%), <tt><a href="say_autogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (44; 90%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
-* `Yes` (48; 100% of non-empty `Foreign`): <em>kura, dàːmuwa, aure, farko, kwana, aikimmu, aikin, amarya, bàyáːni, gida</em>
-* `EMPTY` (2507): <em>dzàŋ, ngə́tn, vìː, də̀n, gùŋ, lə̂p, mə́n, lə̌pm, longa, də̌ːr</em>
+* `Yes` (49; 100% of non-empty `Foreign`): <em>kura, dàːmuwa, aure, farko, kwana, aikimmu, aikin, amarya, bàyáːni, gida</em>
+* `EMPTY` (2500): <em>dzàŋ, ngə́tn, vìː, də̀n, gùŋ, lə̂p, mə́n, lə̌pm, longa, də̌ːr</em>
 
-`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (32) occur only with one value of `Foreign`.
+`Foreign` seems to be **lexical feature** of `NOUN`. 100% lemmas (33) occur only with one value of `Foreign`.
 
 ### `ADP`
 
@@ -45,9 +45,20 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (14; 100% of non-empty `Foreign`): <em>kafin, zuwa, a, baːya, da, dà, mai, of, tunda, á</em>
-* `EMPTY` (951): <em>tə́, á, ɣá, nə́, ɗa, ɗan, nə, kə́, ɣə́, teː</em>
+* `EMPTY` (970): <em>tə́, á, ɣá, nə́, ɗa, ɗan, nə, ɣə́, kə́, teː</em>
 
 `Foreign` seems to be **lexical feature** of `ADP`. 100% lemmas (10) occur only with one value of `Foreign`.
+
+### `PART`
+
+14 <tt><a href="say_autogramm-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Foreign`.
+
+The most frequent other feature values with which `PART` and `Foreign` co-occurred: <tt><a href="say_autogramm-feat-PartType.html">PartType</a></tt><tt>=Pred</tt> (11; 79%), <tt><a href="say_autogramm-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (11; 79%).
+
+`PART` tokens may have the following values of `Foreign`:
+
+* `Yes` (14; 100% of non-empty `Foreign`): <em>bâː, àkwéy, baːbù, kwaː, káɗá</em>
+* `EMPTY` (1921): <em>tôː, hŋ́, ɗi, bàː, aː, tòː, oː, ni, kúmá, máː</em>
 
 ### `ADV`
 
@@ -56,18 +67,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (12; 100% of non-empty `Foreign`): <em>dâːmáː, nan, allright, dole, kusan, quite, ƙasa, ɗan</em>
-* `EMPTY` (1014): <em>séː, séy, sòːséy, ʧík, ɗan, tá, káwây, káwêy, ɗa, máː</em>
-
-### `PART`
-
-11 <tt><a href="say_autogramm-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Foreign`.
-
-The most frequent other feature values with which `PART` and `Foreign` co-occurred: <tt><a href="say_autogramm-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (11; 100%), <tt><a href="say_autogramm-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (10; 91%), <tt><a href="say_autogramm-feat-PartType.html">PartType</a></tt><tt>=Pred</tt> (9; 82%).
-
-`PART` tokens may have the following values of `Foreign`:
-
-* `Yes` (11; 100% of non-empty `Foreign`): <em>bâː, kwaː, káɗá</em>
-* `EMPTY` (1796): <em>tôː, hŋ́, ɗi, bàː, tòː, oː, ni, aː, kúmá, máː</em>
+* `EMPTY` (1032): <em>séː, káwêy, séy, ɗa, sòːséy, ʧík, ɗan, tá, máː, ɣəndá</em>
 
 ### `SCONJ`
 
@@ -76,7 +76,7 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (11; 100% of non-empty `Foreign`): <em>tunda, domin, dàʧêːwáː, kafin, ko, kàːfin</em>
-* `EMPTY` (830): <em>tu, ɗan, yâːn, wéy, ɗa, séː, dón, hár, ín, kóː</em>
+* `EMPTY` (781): <em>tu, ɗan, yâːn, ɗa, séː, dón, hár, ín, kóː, dùmín</em>
 
 ### `INTJ`
 
@@ -100,18 +100,16 @@ The most frequent other feature values with which `PART` and `Foreign` co-occurr
 
 5 <tt><a href="say_autogramm-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="say_autogramm-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (5; 100%).
-
 `VERB` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>fàːrá, gáːné, rigá, san, saːké</em>
-* `EMPTY` (3640): <em>mán, fî, fi, ɬə́, yi, wûl, ɬíː, wul, tu, mân</em>
+* `EMPTY` (3641): <em>mán, fî, fi, ɬə́, yi, wûl, ɬíː, wul, tu, mân</em>
 
 ### `PRON`
 
 4 <tt><a href="say_autogramm-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="say_autogramm-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="say_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="say_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="say_autogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="say_autogramm-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="say_autogramm-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="say_autogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `PRON` tokens may have the following values of `Foreign`:
 
@@ -131,6 +129,8 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 
 2 <tt><a href="say_autogramm-pos-NUM.html">NUM</a></tt> tokens (2% of all `NUM` tokens) have a non-empty value of `Foreign`.
 
+The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="say_autogramm-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%).
+
 `NUM` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>eleven, first</em>
@@ -139,8 +139,8 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>X --[<tt><a href="say_autogramm-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (61; 98%),
-<tt>X --[<tt><a href="say_autogramm-dep-fixed.html">fixed</a></tt>]--> X</tt> (6; 100%),
+<tt>X --[<tt><a href="say_autogramm-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (66; 99%),
+<tt>PART --[<tt><a href="say_autogramm-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (5; 56%),
 <tt>SCONJ --[<tt><a href="say_autogramm-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (4; 100%),
 <tt>ADP --[<tt><a href="say_autogramm-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADV</tt> (3; 100%),
 <tt>X --[<tt><a href="say_autogramm-dep-parataxis.html">parataxis</a></tt>]--> X</tt> (3; 100%),

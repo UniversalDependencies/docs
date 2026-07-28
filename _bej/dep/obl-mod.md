@@ -11,4 +11,4 @@ In Beja-NSC treebank, we use the `obl:mod` relation for nominal adjuncts.
 da / bʔeː =b eːjaːn =heːb ini \n "Men came to me one day", he said.
 obl:mod(eːjaːn, bʔeː)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:28 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:34 CEST -->

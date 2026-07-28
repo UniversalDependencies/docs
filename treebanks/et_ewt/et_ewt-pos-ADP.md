@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>peale</em> (<tt><a href="et_ewt-pos-A
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.078125 (the average of all parts of speech is 1.733681).
+The form / lemma ratio of `ADP` is 1.078125 (the average of all parts of speech is 1.733800).
 
 The 1st highest number of forms (3) was observed with the lemma “juures”: <em>juure, juures, kuures</em>.
 
@@ -72,7 +72,7 @@ Examples: <em>eest, kohta, jaoks, peale, pärast, puhul, all, järgi, vastu, juu
 
 `ADP` nodes are attached to their parents using 7 different relations: <tt><a href="et_ewt-dep-case.html">case</a></tt> (1451; 100% instances), <tt><a href="et_ewt-dep-compound-prt.html">compound:prt</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-nsubj-cop.html">nsubj:cop</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="et_ewt-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1056; 72% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (242; 17% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (80; 5% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (42; 3% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (20; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (9; 1% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `ADP` nodes belong to 11 different parts of speech: <tt><a href="et_ewt-pos-NOUN.html">NOUN</a></tt> (1055; 72% instances), <tt><a href="et_ewt-pos-PRON.html">PRON</a></tt> (243; 17% instances), <tt><a href="et_ewt-pos-PROPN.html">PROPN</a></tt> (80; 5% instances), <tt><a href="et_ewt-pos-NUM.html">NUM</a></tt> (43; 3% instances), <tt><a href="et_ewt-pos-ADJ.html">ADJ</a></tt> (20; 1% instances), <tt><a href="et_ewt-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="et_ewt-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="et_ewt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="et_ewt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
 1452 (100%) `ADP` nodes are leaves.
 

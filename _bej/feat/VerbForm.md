@@ -32,4 +32,4 @@ We add the VerbForm feature on the affix tag [SCONJ](bej-pos/SCONJ).
 
 #### Examples
 - _tʔi <b>-it</b>_ " "  
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:53 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->

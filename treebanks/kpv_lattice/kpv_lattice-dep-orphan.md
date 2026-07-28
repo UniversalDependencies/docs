@@ -48,11 +48,11 @@ The following 9 pairs of parts of speech are connected with `orphan`: <tt><a hre
 3	кык	кык	NUM	Num	Case=Nom|Number=Sing|NumType=Card	4	nummod	_	GTtags=Card,Sg,Nom
 4	чой	чой	NOUN	N	Case=Nom|Number=Sing	1	appos	_	GTtags=Sg,Nom|SpaceAfter=No
 5	,	,	PUNCT	CLB	_	6	punct	_	_
-6	ӧтиным	ӧти	DET	Det	Case=Nom|Number=Sing|Number[psor]=Plur|NumType=Card|Person[psor]=1	4	conj	_	GTtags=Card,Sg,Nom,PxPl1
+6	ӧтиным	ӧти	DET	Det	Case=Nom|Number=Sing|Number[psor]=Plur|NumType=Card|Person[psor]=1|PronType=Tot	4	conj	_	GTtags=Card,Sg,Nom,PxPl1
 7	ва	ва	NOUN	N	Case=Nom|Number=Sing	8	nmod	_	GTtags=Sg,Nom
 8	дозйӧн	доз	NOUN	N	Case=Ins|Number=Sing	6	orphan	_	GTtags=Sg,Ins|SpaceAfter=No
 9	,	,	PUNCT	CLB	_	10	punct	_	_
-10	мӧдным	мӧд	DET	Det	Case=Nom|Number=Sing|Number[psor]=Plur|NumType=Ord|Person[psor]=1	4	conj	_	GTtags=Ord,Sg,Nom,PxPl1
+10	мӧдным	мӧд	DET	Det	Case=Nom|Number=Sing|Number[psor]=Plur|NumType=Ord|Person[psor]=1|PronType=Ind	4	conj	_	GTtags=Ord,Sg,Nom,PxPl1
 11	пес	пес	NOUN	N	Case=Nom|Number=Sing	12	nmod	_	GTtags=Sg,Nom
 12	моздорӧн	моздор	NOUN	N	Case=Ins|Number=Sing	10	orphan	_	GTtags=Sg,Ins|SpaceAfter=No
 13	,	,	PUNCT	CLB	_	10	punct	_	_

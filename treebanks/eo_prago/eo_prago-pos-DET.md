@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>ĉiu</em> (<tt><a href="eo_prago-pos-
   * <tt><a href="eo_prago-pos-DET.html">DET</a></tt> 11: <em>Sed mi forĵetis <b>tiun</b> intencon , ĉar mi trovis , ke tio estus nepardoninda senkuraĝeco .</em>
   * <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> 1: <em>Konsciante , ke religio devas esti nur afero de sincera kredo , sed ne ludi la rolon de hereda genta disigilo , mi nomas mia religio nur <b>tiun</b> religion aŭ religianstataŭantan sistemon , je kiu mi efektive kredas .</em>
 * <em>ĉiuj</em>
-  * <tt><a href="eo_prago-pos-DET.html">DET</a></tt> 11: <em>Ni asertas ke lingva malegaleco sekvigas komunikan malegalecon je <b>ĉiuj</b> niveloj , inkluzive de la internacia nivelo .</em>
+  * <tt><a href="eo_prago-pos-DET.html">DET</a></tt> 11: <em>Ni asertas , ke lingva malegaleco sekvigas komunikan malegalecon je <b>ĉiuj</b> niveloj , inkluzive de la internacia nivelo .</em>
   * <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> 1: <em>Ni asertas , ke la politiko de komunikado kaj evoluigo , se ĝi ne estas bazita sur respekto al kaj subteno de <b>ĉiuj</b> lingvoj , kondamnas al formorto la plimulton de la lingvoj de la mondo .</em>
 * <em>tiuj</em>
   * <tt><a href="eo_prago-pos-DET.html">DET</a></tt> 2: <em>Ĝis la tempo , kiam <b>tiuj</b> landoj ricevos nomojn neŭtralajn , mi devas almenaŭ en interparolado kun miaj samprincipanoj nomi tiujn landojn laŭ iliaj ĉefurboj kun aldono de la vortoj « regno » , « provinco » , k . t . p .</em>
@@ -54,12 +54,12 @@ The 2nd highest number of forms (4) was observed with the lemma “ĉiu”: <em>
 
 The 3rd highest number of forms (2) was observed with the lemma “ia”: <em>ia, iaj</em>.
 
-`DET` occurs with 8 features: <tt><a href="eo_prago-feat-Definite.html">Definite</a></tt> (182; 73% instances), <tt><a href="eo_prago-feat-PronType.html">PronType</a></tt> (123; 49% instances), <tt><a href="eo_prago-feat-Case.html">Case</a></tt> (65; 26% instances), <tt><a href="eo_prago-feat-Number.html">Number</a></tt> (65; 26% instances), <tt><a href="eo_prago-feat-Number-psor.html">Number[psor]</a></tt> (3; 1% instances), <tt><a href="eo_prago-feat-Person.html">Person</a></tt> (3; 1% instances), <tt><a href="eo_prago-feat-Poss.html">Poss</a></tt> (3; 1% instances), <tt><a href="eo_prago-feat-Reflex.html">Reflex</a></tt> (2; 1% instances)
+`DET` occurs with 8 features: <tt><a href="eo_prago-feat-PronType.html">PronType</a></tt> (249; 100% instances), <tt><a href="eo_prago-feat-Definite.html">Definite</a></tt> (183; 73% instances), <tt><a href="eo_prago-feat-Case.html">Case</a></tt> (66; 27% instances), <tt><a href="eo_prago-feat-Number.html">Number</a></tt> (66; 27% instances), <tt><a href="eo_prago-feat-Number-psor.html">Number[psor]</a></tt> (3; 1% instances), <tt><a href="eo_prago-feat-Person.html">Person</a></tt> (3; 1% instances), <tt><a href="eo_prago-feat-Poss.html">Poss</a></tt> (3; 1% instances), <tt><a href="eo_prago-feat-Reflex.html">Reflex</a></tt> (2; 1% instances)
 
 `DET` occurs with 15 feature-value pairs: `Case=Acc`, `Case=Nom`, `Definite=Def`, `Definite=Ind`, `Number=Plur`, `Number=Sing`, `Number[psor]=Sing`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Prs`, `PronType=Tot`, `Reflex=Yes`
 
-`DET` occurs with 18 feature combinations.
-The most frequent feature combination is `Definite=Def` (124 tokens).
+`DET` occurs with 16 feature combinations.
+The most frequent feature combination is `Definite=Def|PronType=Art` (181 tokens).
 Examples: <em>la</em>
 
 
@@ -69,13 +69,13 @@ Examples: <em>la</em>
 
 Parents of `DET` nodes belong to 5 different parts of speech: <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (239; 96% instances), <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (3; 1% instances), <tt><a href="eo_prago-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt> (1; 0% instances)
 
-243 (98%) `DET` nodes are leaves.
+242 (97%) `DET` nodes are leaves.
 
-6 (2%) `DET` nodes have one child.
+7 (3%) `DET` nodes have one child.
 
 The highest child degree of a `DET` node is 1.
 
-Children of `DET` nodes are attached using 3 different relations: <tt><a href="eo_prago-dep-conj.html">conj</a></tt> (3; 50% instances), <tt><a href="eo_prago-dep-advmod.html">advmod</a></tt> (2; 33% instances), <tt><a href="eo_prago-dep-cc.html">cc</a></tt> (1; 17% instances)
+Children of `DET` nodes are attached using 4 different relations: <tt><a href="eo_prago-dep-conj.html">conj</a></tt> (3; 43% instances), <tt><a href="eo_prago-dep-advmod.html">advmod</a></tt> (2; 29% instances), <tt><a href="eo_prago-dep-case.html">case</a></tt> (1; 14% instances), <tt><a href="eo_prago-dep-cc.html">cc</a></tt> (1; 14% instances)
 
-Children of `DET` nodes belong to 4 different parts of speech: <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (2; 33% instances), <tt><a href="eo_prago-pos-PART.html">PART</a></tt> (2; 33% instances), <tt><a href="eo_prago-pos-CCONJ.html">CCONJ</a></tt> (1; 17% instances), <tt><a href="eo_prago-pos-DET.html">DET</a></tt> (1; 17% instances)
+Children of `DET` nodes belong to 5 different parts of speech: <tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (2; 29% instances), <tt><a href="eo_prago-pos-PART.html">PART</a></tt> (2; 29% instances), <tt><a href="eo_prago-pos-ADP.html">ADP</a></tt> (1; 14% instances), <tt><a href="eo_prago-pos-CCONJ.html">CCONJ</a></tt> (1; 14% instances), <tt><a href="eo_prago-pos-DET.html">DET</a></tt> (1; 14% instances)
 

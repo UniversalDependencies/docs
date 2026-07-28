@@ -42,13 +42,7 @@ The 2nd highest number of forms (1) was observed with the lemma “03”: <em>03
 
 The 3rd highest number of forms (1) was observed with the lemma “1”: <em>1</em>.
 
-`NUM` occurs with 1 features: <tt><a href="gu_gujtb-feat-Case.html">Case</a></tt> (1; 3% instances)
-
-`NUM` occurs with 1 feature-value pairs: `Case=Ter`
-
-`NUM` occurs with 2 feature combinations.
-The most frequent feature combination is `_` (39 tokens).
-Examples: <em>એક, 80, ત્રણ, 03, 1, 1.5, 12GB, 15, 2016, 300</em>
+`NUM` does not occur with any features.
 
 
 ## Relations

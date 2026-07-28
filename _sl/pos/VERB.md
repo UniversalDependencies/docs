@@ -22,4 +22,4 @@ Word forms that etymologically derive from verbs, but have different syntactic p
 #### Conversion from JOS
 
 All verbs with Type=main have been converted to `VERB`. In addition, some instances of verb _biti_ with Type=auxiliary have also been converted to `VERB` based on pre-existing syntactic annotations, heuristics and manual disambiguation.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:57 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:39 CEST -->

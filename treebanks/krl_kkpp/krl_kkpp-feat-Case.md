@@ -192,7 +192,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="krl_kkpp-dep-amod.html">amod</a></tt>]--> ADJ</tt> (136; 91%),
-<tt>NOUN --[<tt><a href="krl_kkpp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (69; 85%),
+<tt>NOUN --[<tt><a href="krl_kkpp-dep-conj.html">conj</a></tt>]--> NOUN</tt> (72; 85%),
 <tt>NOUN --[<tt><a href="krl_kkpp-dep-det.html">det</a></tt>]--> PRON</tt> (30; 94%),
 <tt>PROPN --[<tt><a href="krl_kkpp-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (14; 67%),
 <tt>PROPN --[<tt><a href="krl_kkpp-dep-conj.html">conj</a></tt>]--> PROPN</tt> (11; 100%),

@@ -24,4 +24,4 @@ punct(dry, .-15)
 ~~~
 
 The clausal counterpart of this relation is [csubj:outer]().
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:16 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:25 CEST -->

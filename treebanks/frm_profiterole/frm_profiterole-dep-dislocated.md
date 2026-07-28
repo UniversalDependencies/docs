@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-46 nodes (0%) are attached to their parents as `dislocated`.
+54 nodes (0%) are attached to their parents as `dislocated`.
 
-36 instances of `dislocated` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 9.93478260869565.
+44 instances of `dislocated` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 11.2592592592593.
 
-The following 13 pairs of parts of speech are connected with `dislocated`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (20; 43% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (9; 20% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (6; 13% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 17 pairs of parts of speech are connected with `dislocated`: <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (21; 39% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (11; 20% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (6; 11% instances), <tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (2; 4% instances), <tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt>-<tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-AUX.html">AUX</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-NOUN.html">NOUN</a></tt>-<tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="frm_profiterole-pos-VERB.html">VERB</a></tt>-<tt><a href="frm_profiterole-pos-NUM.html">NUM</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -54,7 +54,7 @@ The following 13 pairs of parts of speech are connected with `dislocated`: <tt><
 4	bourgeois	bourgeois	NOUN	NOMcom	_	11	dislocated	_	SpaceAfter=No|XmlId=w_42_17431
 5	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_42_17432
 6	je	je	PRON	PROper	PronType=Prs	8	nsubj	_	XmlId=w_42_17433
-7	ne	ne1	ADV	ADVneg	PronType=Neg	8	advmod	_	XmlId=w_42_17434
+7	ne	ne1	ADV	ADVneg	Polarity=Neg	8	advmod	_	XmlId=w_42_17434
 8	sçay	savoir1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_17435
 9	que	que	SCONJ	CONsub	_	11	obj	_	XmlId=w_42_17436
 10	y	y2	ADV	PROadv	_	11	obl	_	XmlId=w_42_17437
@@ -75,14 +75,14 @@ The following 13 pairs of parts of speech are connected with `dislocated`: <tt><
 3	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_12782
 4	dit	dire1	VERB	VERcjg	VerbForm=Fin	14	parataxis	_	XmlId=w_42_12783
 5	Jehan	Jean	PROPN	NOMpro	_	4	nsubj	_	XmlId=w_42_12784
-6	de	de	ADP	PRE	_	5	flat	_	XmlId=w_42_12785
-7	Paris	Paris	PROPN	NOMpro	_	5	flat	_	SpaceAfter=No|XmlId=w_42_12786
+6	de	de	ADP	PRE	_	7	case	_	XmlId=w_42_12785
+7	Paris	Paris	PROPN	NOMpro	_	5	nmod	_	SpaceAfter=No|XmlId=w_42_12786
 8	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_12787
 9	d'	de	ADP	PRE	_	11	mark	_	SpaceAfter=No|XmlId=w_42_12789
-10	y	y2	ADV	PROadv	_	11	obl:mod	_	XmlId=w_42_12790
+10	y	y2	ADV	PROadv	_	11	obl	_	XmlId=w_42_12790
 11	aller	aller	VERB	VERinf	VerbForm=Inf	18	dislocated	_	XmlId=w_42_12791
 12	je	je	PRON	PROper	PronType=Prs	14	nsubj	_	XmlId=w_42_12792
-13	ne	ne1	ADV	ADVneg	PronType=Neg	14	advmod	_	XmlId=w_42_12793
+13	ne	ne1	ADV	ADVneg	Polarity=Neg	14	advmod	_	XmlId=w_42_12793
 14	sçay	savoir1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_12794
 15	que	que	PRON	PROrel	PronType=Rel	18	obj	_	XmlId=w_42_12795
 16	j'	je	PRON	PROper	PronType=Prs	18	nsubj	_	SpaceAfter=No|XmlId=w_42_12796

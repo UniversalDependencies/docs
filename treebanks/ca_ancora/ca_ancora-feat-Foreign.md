@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-29 tokens (0%) have a non-empty value of `Foreign`.
-27 types (0%) occur at least once with a non-empty value of `Foreign`.
-27 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
-The feature is used with 10 part-of-speech tags: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+31 tokens (0%) have a non-empty value of `Foreign`.
+29 types (0%) occur at least once with a non-empty value of `Foreign`.
+29 lemmas (0%) occur at least once with a non-empty value of `Foreign`.
+The feature is used with 10 part-of-speech tags: <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt> (9; 0% instances), <tt><a href="ca_ancora-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -23,7 +23,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (9; 100% of non-empty `Foreign`): <em>Ceguera, amor, amore, cadáver, difunto, disposición, gota, gratis, nicho</em>
-* `EMPTY` (98637): <em>any, anys, milions, pessetes, president, persones, dia, part, cas, grup</em>
+* `EMPTY` (98652): <em>any, anys, milions, pessetes, president, persones, dia, part, cas, grup</em>
 
 ### `ADP`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `ADP` tokens may have the following values of `Foreign`:
 
 * `Yes` (6; 100% of non-empty `Foreign`): <em>a, de, Por, en</em>
-* `EMPTY` (87970): <em>de, a, d', per, en, amb, entre, sobre, segons, des</em>
+* `EMPTY` (87972): <em>de, a, d', per, en, amb, entre, sobre, segons, des</em>
 
 ### `DET`
 
@@ -42,29 +42,29 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 
 `DET` tokens may have the following values of `Foreign`:
 
-* `Yes` (4; 100% of non-empty `Foreign`): <em>este, ningún, el, una</em>
+* `Yes` (4; 100% of non-empty `Foreign`): <em>el, este, ningún, una</em>
 * `EMPTY` (87263): <em>el, la, l', els, les, un, una, aquest, seva, aquesta</em>
 
 ### `VERB`
 
-3 <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
+4 <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ca_ancora-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ca_ancora-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="ca_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="ca_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="ca_ancora-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `VERB` tokens may have the following values of `Foreign`:
 
-* `Yes` (3; 100% of non-empty `Foreign`): <em>enterrar, queda, mató</em>
-* `EMPTY` (41893): <em>fer, té, ha, fa, fet, dir, tenir, donar, arribar, explicat</em>
+* `Yes` (4; 100% of non-empty `Foreign`): <em>enterrar, queda, mató, suppose</em>
+* `EMPTY` (41864): <em>fer, té, ha, fa, fet, dir, tenir, donar, arribar, explicat</em>
 
 ### `PRON`
 
-2 <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Foreign`.
+3 <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ca_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="ca_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ca_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ca_ancora-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="ca_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="ca_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 67%), <tt><a href="ca_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2; 67%).
 
 `PRON` tokens may have the following values of `Foreign`:
 
-* `Yes` (2; 100% of non-empty `Foreign`): <em>Quién, él</em>
+* `Yes` (3; 100% of non-empty `Foreign`): <em>I, Quién, él</em>
 * `EMPTY` (23452): <em>que, es, s', hi, se, un, li, tot, on, què</em>
 
 ### `ADJ`
@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>prohibido</em>
-* `EMPTY` (30081): <em>passat, gran, primer, nou, primera, general, nova, catalana, espanyol, grans</em>
+* `EMPTY` (30084): <em>passat, gran, primer, nou, primera, general, nova, catalana, espanyol, grans</em>
 
 ### `ADV`
 
@@ -87,7 +87,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 `ADV` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>más</em>
-* `EMPTY` (15481): <em>no, més, també, ja, després, ahir, molt, avui, només, ara</em>
+* `EMPTY` (15629): <em>no, més, també, ja, després, ahir, molt, avui, només, ara</em>
 
 ### `AUX`
 
@@ -116,7 +116,7 @@ The most frequent other feature values with which `AUX` and `Foreign` co-occurre
 `SCONJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (1; 100% of non-empty `Foreign`): <em>Como</em>
-* `EMPTY` (10549): <em>que, com, perquè, si, quan, segons, mentre, on, perqu, què</em>
+* `EMPTY` (10550): <em>que, com, perquè, si, quan, segons, mentre, on, perqu, què</em>
 
 ## Relations with Agreement in `Foreign`
 

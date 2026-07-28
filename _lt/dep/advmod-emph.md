@@ -56,3 +56,4 @@ Patys geriausi metai . \n The-very best year .
 advmod:emph(geriausi, Patys)
 advmod:emph(best, The-very)
 ~~~
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:35 CEST -->

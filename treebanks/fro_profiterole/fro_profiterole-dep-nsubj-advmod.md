@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Old_French-PROFITEROLE: Relations: `nsubj:advmod`
 
 This relation is a language-specific subtype of <tt><a href="fro_profiterole-dep-nsubj.html">nsubj</a></tt>.
-There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="fro_profiterole-dep-nsubj-obj.html">nsubj:obj</a></tt>, <tt><a href="fro_profiterole-dep-nsubj-outer.html">nsubj:outer</a></tt>.
+There are also 3 other language-specific subtypes of `nsubj`: <tt><a href="fro_profiterole-dep-nsubj-obj.html">nsubj:obj</a></tt>, <tt><a href="fro_profiterole-dep-nsubj-outer.html">nsubj:outer</a></tt>, <tt><a href="fro_profiterole-dep-nsubj-pass.html">nsubj:pass</a></tt>.
 
 2 nodes (0%) are attached to their parents as `nsubj:advmod`.
 
@@ -23,14 +23,14 @@ The following 1 pairs of parts of speech are connected with `nsubj:advmod`: <tt>
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj:advmod	color:blue
-1	kar	_	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_58_29355
-2	jon	_	PRON	PROper.PROper	_	3	nsubj:advmod	_	XmlId=w_58_29356
-3	irai	_	VERB	VERcjg	_	0	root	_	XmlId=w_58_29357
-4	en	_	ADP	PRE	_	6	case	_	XmlId=w_58_29358
-5	l'	_	DET	DETdef	_	6	det	_	SpaceAfter=No|XmlId=w_58_29359
-6	estree	_	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_58_29360
-7	.	_	PUNCT	PONfrt	_	3	punct	_	XmlId=w_58_29361
-8	»	_	PUNCT	PONpdr	_	3	punct	_	XmlId=w_58_29362
+1	kar	car	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_58_29355
+2	jon	je.en2	PRON	PROper.PROper	PronType=Prs	3	nsubj:advmod	_	XmlId=w_58_29356
+3	irai	aller	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_58_29357
+4	en	en1	ADP	PRE	_	6	case	_	XmlId=w_58_29358
+5	l'	le	DET	DETdef	Definite=Def|PronType=Art	6	det	_	SpaceAfter=No|XmlId=w_58_29359
+6	estree	estrée1	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_58_29360
+7	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_58_29361
+8	»	"	PUNCT	PONpdr	_	3	punct	_	XmlId=w_58_29362
 
 ~~~
 

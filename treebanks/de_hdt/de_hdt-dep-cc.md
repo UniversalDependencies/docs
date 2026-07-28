@@ -24,12 +24,12 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 6 5 cc	color:blue
 1	Anleitung	Anleitung	NOUN	NN	Gender=Fem|Number=Sing	0	root	_	_
 2	zu	zu	ADP	APPR	AdpType=Prep|Case=Dat	4	case	_	_
-3	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	4	det	_	_
+3	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	Kindesmißbrauch	Kindesmißbrauch	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	_
 5	und	und	CCONJ	KON	_	6	cc	_	_
 6	Mord	Mord	NOUN	NN	Gender=Masc|Number=Sing	4	conj	_	_
 7	in	in	ADP	APPR	AdpType=Prep|Case=Dat	9	case	_	_
-8	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	9	det	_	_
+8	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
 9	Internet	Internet	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	1	nmod	_	_
 
 ~~~
@@ -60,7 +60,7 @@ The following 16 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc	color:blue
-1	Deutsche	deutsch	ADJ	ADJA	Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+1	Deutsche	deutsch	ADJ	ADJA	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
 2	Bank	Bank	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
 3	24	24	NUM	CARD	Number=Plur|NumType=Card	2	flat	_	_
 4	und	und	CCONJ	KON	_	5	cc	_	_

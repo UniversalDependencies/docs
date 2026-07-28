@@ -18,4 +18,4 @@ For subordinating conjunctions, see [SCONJ]().
 * _nó_ "or" :  _le bliain <b>nó</b> dhó anuas_ "for one or two years"
 * _ach_ "but" :  _tháinig siad go luath <b>ach</b> níor fhan siad_ "they came early but they didn't stay"
 * _ná_ "than":  _is fearr liom úlla <b>ná</b> oráistí_ "I prefer apples to oranges"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:47 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:35 CEST -->

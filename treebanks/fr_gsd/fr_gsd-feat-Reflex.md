@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (2490; 100% of non-empty `Reflex`): <em>se, s', lui-même, elle-même, me, eux-mêmes, nous, vous, m', elles-mêmes</em>
-* `EMPTY` (15599): <em>il, qui, elle, c', on, y, ils, lui, où, ce</em>
+* `EMPTY` (15197): <em>il, qui, elle, c', on, y, ils, lui, ce, nous</em>
 
 `Reflex` seems to be **lexical feature** of `PRON`. 100% lemmas (10) occur only with one value of `Reflex`.
 

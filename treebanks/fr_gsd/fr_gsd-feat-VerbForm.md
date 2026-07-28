@@ -125,6 +125,7 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2468; 81%),
 <tt>VERB --[<tt><a href="fr_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (156; 57%),
 <tt>VERB --[<tt><a href="fr_gsd-dep-parataxis-insert.html">parataxis:insert</a></tt>]--> VERB</tt> (73; 54%),
+<tt>VERB --[<tt><a href="fr_gsd-dep-dislocated.html">dislocated</a></tt>]--> VERB</tt> (4; 67%),
 <tt>AUX --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="fr_gsd-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="fr_gsd-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),

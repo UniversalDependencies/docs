@@ -13,13 +13,13 @@ The 10 most frequent `DET` lemmas: <em>_</em>
 
 The 10 most frequent `DET` types:  <em>_</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2657, <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2045, <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1963, <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869, <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1293, <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1236, <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1182, <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1105, <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 998, <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> 600, <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> 522, <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 404, <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 238, <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 107, <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 59, <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> 53, <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 33)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2656, <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2045, <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1963, <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869, <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1293, <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1236, <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1182, <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1105, <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 998, <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> 600, <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> 522, <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 404, <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 238, <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 107, <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 60, <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> 53, <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 33)
 
-The 10 most frequent ambiguous types:  <em>_</em> (<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2657, <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2045, <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1963, <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869, <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1293, <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1236, <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1182, <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1105, <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 998, <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> 600, <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> 522, <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 404, <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 238, <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 107, <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 59, <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> 53, <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 33)
+The 10 most frequent ambiguous types:  <em>_</em> (<tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2656, <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2045, <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1963, <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869, <tt><a href="en_gumreddit-pos-ADP.html">ADP</a></tt> 1293, <tt><a href="en_gumreddit-pos-DET.html">DET</a></tt> 1236, <tt><a href="en_gumreddit-pos-AUX.html">AUX</a></tt> 1182, <tt><a href="en_gumreddit-pos-ADV.html">ADV</a></tt> 1105, <tt><a href="en_gumreddit-pos-ADJ.html">ADJ</a></tt> 998, <tt><a href="en_gumreddit-pos-PART.html">PART</a></tt> 600, <tt><a href="en_gumreddit-pos-CCONJ.html">CCONJ</a></tt> 522, <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 404, <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 238, <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 107, <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 60, <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> 53, <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 33)
 
 
 * <em>_</em>
-  * <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2657: <em>_ _ _ <b>_</b> _ _ <b>_</b> _ _ _ <b>_</b> _ _ <b>_</b> _ _ _ _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-NOUN.html">NOUN</a></tt> 2656: <em>_ _ _ <b>_</b> _ _ <b>_</b> _ _ _ <b>_</b> _ _ <b>_</b> _ _ _ _ _ _ _</em>
   * <tt><a href="en_gumreddit-pos-VERB.html">VERB</a></tt> 2045: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _</em>
   * <tt><a href="en_gumreddit-pos-PRON.html">PRON</a></tt> 1963: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _</em>
   * <tt><a href="en_gumreddit-pos-PUNCT.html">PUNCT</a></tt> 1869: <em>_ <b>_</b></em>
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>_</em> (<tt><a href="en_gumreddit-pos
   * <tt><a href="en_gumreddit-pos-SCONJ.html">SCONJ</a></tt> 404: <em><b>_</b> _ _ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _</em>
   * <tt><a href="en_gumreddit-pos-PROPN.html">PROPN</a></tt> 238: <em><b>_</b> _</em>
   * <tt><a href="en_gumreddit-pos-NUM.html">NUM</a></tt> 107: <em>_ _ _ _ _ _ <b>_</b> _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _</em>
-  * <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 59: <em><b>_</b> _ _ _ _ _ _ _</em>
+  * <tt><a href="en_gumreddit-pos-INTJ.html">INTJ</a></tt> 60: <em><b>_</b> _ _ _ _ _ _ _</em>
   * <tt><a href="en_gumreddit-pos-SYM.html">SYM</a></tt> 53: <em>_ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _ _ _ _ <b>_</b> _ _ _ _</em>
   * <tt><a href="en_gumreddit-pos-X.html">X</a></tt> 33: <em>_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ <b>_</b> _</em>
 
@@ -43,11 +43,11 @@ The form / lemma ratio of `DET` is 1.000000 (the average of all parts of speech 
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>_</em>.
 
-`DET` occurs with 4 features: <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt> (1232; 100% instances), <tt><a href="en_gumreddit-feat-Definite.html">Definite</a></tt> (963; 78% instances), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt> (93; 8% instances), <tt><a href="en_gumreddit-feat-Typo.html">Typo</a></tt> (4; 0% instances)
+`DET` occurs with 4 features: <tt><a href="en_gumreddit-feat-PronType.html">PronType</a></tt> (1236; 100% instances), <tt><a href="en_gumreddit-feat-Definite.html">Definite</a></tt> (963; 78% instances), <tt><a href="en_gumreddit-feat-Number.html">Number</a></tt> (93; 8% instances), <tt><a href="en_gumreddit-feat-Typo.html">Typo</a></tt> (4; 0% instances)
 
-`DET` occurs with 12 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Rel`, `PronType=Tot`, `Typo=Yes`
+`DET` occurs with 11 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Number=Plur`, `Number=Sing`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Neg`, `PronType=Tot`, `Typo=Yes`
 
-`DET` occurs with 13 feature combinations.
+`DET` occurs with 10 feature combinations.
 The most frequent feature combination is `Definite=Def|PronType=Art` (557 tokens).
 Examples: <em>_</em>
 

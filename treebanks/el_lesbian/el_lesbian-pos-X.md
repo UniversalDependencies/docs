@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  <em>σου</em> (<tt><a href="el_lesbian-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.142857 (the average of all parts of speech is 1.820961).
+The form / lemma ratio of `X` is 1.142857 (the average of all parts of speech is 1.811136).
 
 The 1st highest number of forms (2) was observed with the lemma “_”: <em>Αύγουστους, σου</em>.
 
@@ -33,13 +33,13 @@ The 2nd highest number of forms (1) was observed with the lemma “1916”: <em>
 
 The 3rd highest number of forms (1) was observed with the lemma “Facebook”: <em>Facebook</em>.
 
-`X` occurs with 2 features: <tt><a href="el_lesbian-feat-ExtPos.html">ExtPos</a></tt> (1; 13% instances), <tt><a href="el_lesbian-feat-Style.html">Style</a></tt> (1; 13% instances)
+`X` occurs with 1 features: <tt><a href="el_lesbian-feat-ExtPos.html">ExtPos</a></tt> (1; 13% instances)
 
-`X` occurs with 2 feature-value pairs: `ExtPos=INTJ`, `Style=Arch`
+`X` occurs with 1 feature-value pairs: `ExtPos=INTJ`
 
-`X` occurs with 3 feature combinations.
-The most frequent feature combination is `_` (6 tokens).
-Examples: <em>1916, Facebook, Αύγουστους, κουμπγιούτερ, σου, υγείαν</em>
+`X` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (7 tokens).
+Examples: <em>1916, Facebook, Αύγουστους, αναδράμου, κουμπγιούτερ, σου, υγείαν</em>
 
 
 ## Relations

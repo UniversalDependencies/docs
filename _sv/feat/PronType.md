@@ -87,4 +87,4 @@ do not use `PronType=Neg`, they use `Polarity=Neg` instead. See the
 
 * _man, någon, något, samma, några, en, andra_
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:43 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:14 CEST -->

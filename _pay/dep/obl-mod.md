@@ -14,4 +14,4 @@ kwi mãyh katuʃkari \n I worked for three years.
 obl:mod (katuʃkari, kwi)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:28 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:34 CEST -->

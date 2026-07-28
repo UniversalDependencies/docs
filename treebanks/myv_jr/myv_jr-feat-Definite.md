@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-6401 tokens (31%) have a non-empty value of `Definite`.
-3467 types (52%) occur at least once with a non-empty value of `Definite`.
-1751 lemmas (57%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 12 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4278; 21% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (692; 3% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (465; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (395; 2% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (211; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (137; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (123; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (73; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+6431 tokens (31%) have a non-empty value of `Definite`.
+3486 types (52%) occur at least once with a non-empty value of `Definite`.
+1759 lemmas (57%) occur at least once with a non-empty value of `Definite`.
+The feature is used with 12 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (4295; 21% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (699; 3% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (467; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (396; 2% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (214; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (137; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (123; 1% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (73; 0% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (13; 0% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-4278 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (84% of all `NOUN` tokens) have a non-empty value of `Definite`.
+4295 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (84% of all `NOUN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4270; 100%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4270; 100%).
+The most frequent other feature values with which `NOUN` and `Definite` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4287; 100%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4287; 100%).
 
 `NOUN` tokens may have the following values of `Definite`:
 
-* `Def` (1571; 37% of non-empty `Definite`): <em>бандитэсь, партизантнэ, кенкшенть, бандитнэ, бандитнэнь, чись, ломанесь, моданть, тайганть, цёрась</em>
-* `Ind` (2707; 63% of non-empty `Definite`): <em>лангс, ёнов, лангсо, кудов, тев, ялгат, ломань, течи, ёндо, ланга</em>
-* `EMPTY` (842): <em>кедензэ, прянзо, авазо, сельмензэ, аванзо, чамазо, кедьсэнзэ, лангозонзо, пильгензэ, седеезэ</em>
+* `Def` (1578; 37% of non-empty `Definite`): <em>бандитэсь, партизантнэ, кенкшенть, бандитнэ, бандитнэнь, чись, ломанесь, моданть, тайганть, цёрась</em>
+* `Ind` (2717; 63% of non-empty `Definite`): <em>лангс, ёнов, лангсо, кудов, тев, ялгат, ломань, течи, ёндо, ланга</em>
+* `EMPTY` (847): <em>кедензэ, прянзо, авазо, сельмензэ, аванзо, чамазо, кедьсэнзэ, лангозонзо, пильгензэ, седеезэ</em>
 
 <table>
   <tr><th>Paradigm <i>ланго</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -49,15 +49,15 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
 
 ### `PROPN`
 
-692 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (98% of all `PROPN` tokens) have a non-empty value of `Definite`.
+699 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (97% of all `PROPN` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (576; 83%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (487; 70%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (486; 70%), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (467; 67%), <tt><a href="myv_jr-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (362; 52%).
+The most frequent other feature values with which `PROPN` and `Definite` co-occurred: <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (583; 83%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (492; 70%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (491; 70%), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (467; 67%), <tt><a href="myv_jr-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (362; 52%).
 
 `PROPN` tokens may have the following values of `Definite`:
 
 * `Def` (10; 1% of non-empty `Definite`): <em>Ведеськак, Игаузусь, Инечись, Кучаевтнень, Нишкенть, Паргелесь, Равось, Ховра, Христозонть, Цярданесь</em>
-* `Ind` (682; 99% of non-empty `Definite`): <em>Микол, Ястребов, Любань, Палько, Люба, Федоров, Маря, Кирё, Кечай, Миколонь</em>
-* `EMPTY` (16): <em>Степан, Ардан, Баёвасо, Бездна, Кедяровонь, Надюм, Нефёдкань, Обранынкань, Олодимирэнь, Охон</em>
+* `Ind` (689; 99% of non-empty `Definite`): <em>Микол, Ястребов, Любань, Палько, Люба, Федоров, Маря, Кирё, Кечай, Миколонь</em>
+* `EMPTY` (18): <em>Степан, Ардан, Ашолисьмав, Баёвасо, Бездна, Кедяровонь, Кежендеень, Надюм, Нефёдкань, Обранынкань</em>
 
 <table>
   <tr><th>Paradigm <i>Цярдань</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -66,19 +66,19 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Цярдань</em></td><td><em>Цярданесь</em></td></tr>
 </table>
 
-`Definite` seems to be **lexical feature** of `PROPN`. 97% lemmas (177) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `PROPN`. 97% lemmas (180) occur only with one value of `Definite`.
 
 ### `PRON`
 
-465 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (39% of all `PRON` tokens) have a non-empty value of `Definite`.
+467 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (39% of all `PRON` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (465; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (465; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (328; 71%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (306; 66%).
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="myv_jr-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (467; 100%), <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (467; 100%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (330; 71%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (307; 66%).
 
 `PRON` tokens may have the following values of `Definite`:
 
 * `Def` (86; 18% of non-empty `Definite`): <em>вейкесь, мейсь, эрьвась, сь, конась, ламотне, нетне, нть, весементь, конасонть</em>
-* `Ind` (379; 82% of non-empty `Definite`): <em>весе, те, мезе, кона, конань, неть, конат, истямо, тень, мезень</em>
-* `EMPTY` (734): <em>сон, мон, сонзэ, тон, сонсь, минь, сынь, минек, тензэ, сынст</em>
+* `Ind` (381; 82% of non-empty `Definite`): <em>весе, те, мезе, неть, кона, конань, конат, истямо, тень, мезень</em>
+* `EMPTY` (738): <em>сон, мон, сонзэ, тон, сонсь, минь, сынь, тензэ, минек, сынст</em>
 
 <table>
   <tr><th>Paradigm <i>мезе</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -103,14 +103,14 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 ### `ADJ`
 
-395 <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> tokens (44% of all `ADJ` tokens) have a non-empty value of `Definite`.
+396 <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> tokens (44% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (374; 95%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (374; 95%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (374; 95%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (348; 88%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (316; 80%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (375; 95%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (375; 95%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (375; 95%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (349; 88%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (317; 80%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
 * `Def` (39; 10% of non-empty `Definite`): <em>омбоцесь, васенценть, вишкинетне, колмоцесь, омбоценть, Остаткась, Превеесь, Псись, беднойтне, берятнень</em>
-* `Ind` (356; 90% of non-empty `Definite`): <em>кодамо, од, омбоце, мазый, лембе, паро, покш, виев, кельме, кодат</em>
+* `Ind` (357; 90% of non-empty `Definite`): <em>кодамо, од, омбоце, мазый, лембе, паро, покш, виев, кельме, кодат</em>
 * `EMPTY` (506): <em>од, арась, паро, покш, якстере, пиже, сэрей, тусто, кедровой, берянь</em>
 
 <table>
@@ -124,26 +124,25 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 ### `VERB`
 
-211 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Definite`.
+214 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (211; 100%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (211; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (211; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (208; 99%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (208; 99%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (147; 70%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (122; 58%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (214; 100%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (214; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (214; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (211; 99%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (211; 99%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (192; 90%), <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt> (148; 69%).
 
 `VERB` tokens may have the following values of `Definite`:
 
 * `Def` (43; 20% of non-empty `Definite`): <em>молицятнень, сыцятнень, Ацирьгадоманть, Ванстыцясь, Неезденть, ванстомкась, ванстомкатне, ванстыцятне, вастнематне, видематнень</em>
-* `Ind` (168; 80% of non-empty `Definite`): <em>сэредиця, вечкевикс, касыця, молиця, Ярсамодо, аштиця, валгиця, вечкема, кадовозь, солавтозь</em>
-* `EMPTY` (3518): <em>мерсь, лиссь, ютась, мольсь, ашти, неяви, совась, маряви, саизе, сась</em>
+* `Ind` (171; 80% of non-empty `Definite`): <em>сэредиця, вечкевикс, касыця, молиця, Ярсамодо, аштиця, валгиця, вечкема, кадовозь, солавтозь</em>
+* `EMPTY` (3547): <em>мерсь, лиссь, мольсь, ютась, ашти, маряви, неяви, совась, лоткась, саизе</em>
 
 <table>
   <tr><th>Paradigm <i>молемс</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="myv_jr-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>молицятнень</em></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="myv_jr-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>молицятнень</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td><em>молеманть</em></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>молиця</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="myv_jr-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>молицякс</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=NomAg</tt></tt></td><td></td><td><em>молицятнень</em></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=NomAg</tt></tt></td><td><em>молиця</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=Tra</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=NomAg</tt></tt></td><td><em>молицякс</em></td><td></td></tr>
 </table>
 
-`Definite` seems to be **lexical feature** of `VERB`. 92% lemmas (140) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `VERB`. 92% lemmas (141) occur only with one value of `Definite`.
 
 ### `DET`
 
@@ -193,7 +192,7 @@ The most frequent other feature values with which `ADV` and `Definite` co-occurr
 `ADV` tokens may have the following values of `Definite`:
 
 * `Ind` (73; 100% of non-empty `Definite`): <em>колияк, ламо, зярдо-бути, зярдояк, истямо, мекев, аламо, аламодо, вельть, кодамо</em>
-* `EMPTY` (1600): <em>ансяк, кода, пек, истя, мейле, ней, уш, седе, прок, яла</em>
+* `EMPTY` (1605): <em>ансяк, кода, пек, истя, ней, мейле, уш, седе, прок, яла</em>
 
 `Definite` seems to be **lexical feature** of `ADV`. 100% lemmas (40) occur only with one value of `Definite`.
 
@@ -206,7 +205,7 @@ The most frequent other feature values with which `ADP` and `Definite` co-occurr
 `ADP` tokens may have the following values of `Definite`:
 
 * `Ind` (13; 100% of non-empty `Definite`): <em>перька, ваксс, вакссо, томбалев, ало, вакска, удалов</em>
-* `EMPTY` (463): <em>марто, мельга, кис, эйстэ, мельганзо, пачк, эйсэ, мартонзо, туртов, ваксс</em>
+* `EMPTY` (466): <em>марто, мельга, кис, эйстэ, мельганзо, пачк, эйсэ, мартонзо, туртов, ваксс</em>
 
 ### `PART`
 
@@ -224,7 +223,7 @@ The most frequent other feature values with which `ADP` and `Definite` co-occurr
 `INTJ` tokens may have the following values of `Definite`:
 
 * `Ind` (2; 100% of non-empty `Definite`): <em>Бах, Ой</em>
-* `EMPTY` (117): <em>вана, ох, виде, ну, вай, Арась, Эх, ура, Я, Да</em>
+* `EMPTY` (118): <em>вана, ох, виде, ну, вай, Арась, Эх, ура, Я, Да</em>
 
 ### `SCONJ`
 
@@ -242,7 +241,7 @@ The most frequent other feature values with which `SCONJ` and `Definite` co-occu
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> NOUN</tt> (153; 88%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (77; 63%),
-<tt>PROPN --[<tt><a href="myv_jr-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (23; 96%),
+<tt>PROPN --[<tt><a href="myv_jr-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (24; 96%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (20; 91%),
 <tt>PROPN --[<tt><a href="myv_jr-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (16; 89%),
 <tt>PROPN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> PROPN</tt> (13; 100%),

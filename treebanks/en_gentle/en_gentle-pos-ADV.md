@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_English-GENTLE: POS Tags: `ADV`
 
-There are 209 `ADV` lemmas (6%), 220 `ADV` types (5%) and 729 `ADV` tokens (4%).
+There are 212 `ADV` lemmas (6%), 223 `ADV` types (6%) and 736 `ADV` tokens (4%).
 Out of 17 observed tags, the rank of `ADV` is: 5 in number of lemmas, 5 in number of types and 10 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: <em>then, just, so, well, here, also, thus, how, where, now</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>just</em> (<tt><a href="en_gentle-pos
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.052632 (the average of all parts of speech is 1.148610).
+The form / lemma ratio of `ADV` is 1.051887 (the average of all parts of speech is 1.149474).
 
 The 1st highest number of forms (3) was observed with the lemma “well”: <em>best, better, well</em>.
 
@@ -62,7 +62,7 @@ The 2nd highest number of forms (2) was observed with the lemma “early”: <em
 
 The 3rd highest number of forms (2) was observed with the lemma “far”: <em>far, farther</em>.
 
-`ADV` occurs with 9 features: <tt><a href="en_gentle-feat-Degree.html">Degree</a></tt> (411; 56% instances), <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt> (113; 16% instances), <tt><a href="en_gentle-feat-ExtPos.html">ExtPos</a></tt> (19; 3% instances), <tt><a href="en_gentle-feat-NumForm.html">NumForm</a></tt> (10; 1% instances), <tt><a href="en_gentle-feat-NumType.html">NumType</a></tt> (10; 1% instances), <tt><a href="en_gentle-feat-Polarity.html">Polarity</a></tt> (5; 1% instances), <tt><a href="en_gentle-feat-Typo.html">Typo</a></tt> (4; 1% instances), <tt><a href="en_gentle-feat-Abbr.html">Abbr</a></tt> (3; 0% instances), <tt><a href="en_gentle-feat-Style.html">Style</a></tt> (1; 0% instances)
+`ADV` occurs with 9 features: <tt><a href="en_gentle-feat-Degree.html">Degree</a></tt> (411; 56% instances), <tt><a href="en_gentle-feat-PronType.html">PronType</a></tt> (113; 15% instances), <tt><a href="en_gentle-feat-ExtPos.html">ExtPos</a></tt> (19; 3% instances), <tt><a href="en_gentle-feat-NumForm.html">NumForm</a></tt> (10; 1% instances), <tt><a href="en_gentle-feat-NumType.html">NumType</a></tt> (10; 1% instances), <tt><a href="en_gentle-feat-Polarity.html">Polarity</a></tt> (5; 1% instances), <tt><a href="en_gentle-feat-Typo.html">Typo</a></tt> (4; 1% instances), <tt><a href="en_gentle-feat-Abbr.html">Abbr</a></tt> (3; 0% instances), <tt><a href="en_gentle-feat-Style.html">Style</a></tt> (1; 0% instances)
 
 `ADV` occurs with 18 feature-value pairs: `Abbr=Yes`, `Degree=Cmp`, `Degree=Pos`, `Degree=Sup`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=CCONJ`, `ExtPos=SCONJ`, `NumForm=Word`, `NumType=Frac`, `NumType=Mult`, `NumType=Ord`, `Polarity=Neg`, `PronType=Dem`, `PronType=Int`, `PronType=Rel`, `Style=Arch`, `Typo=Yes`
 
@@ -73,17 +73,17 @@ Examples: <em>well, still, back, ever, Therefore, above, down, nevermore, again,
 
 ## Relations
 
-`ADV` nodes are attached to their parents using 21 different relations: <tt><a href="en_gentle-dep-advmod.html">advmod</a></tt> (628; 86% instances), <tt><a href="en_gentle-dep-conj.html">conj</a></tt> (17; 2% instances), <tt><a href="en_gentle-dep-root.html">root</a></tt> (14; 2% instances), <tt><a href="en_gentle-dep-obl.html">obl</a></tt> (13; 2% instances), <tt><a href="en_gentle-dep-ccomp.html">ccomp</a></tt> (7; 1% instances), <tt><a href="en_gentle-dep-obj.html">obj</a></tt> (7; 1% instances), <tt><a href="en_gentle-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt> (6; 1% instances), <tt><a href="en_gentle-dep-fixed.html">fixed</a></tt> (5; 1% instances), <tt><a href="en_gentle-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="en_gentle-dep-amod.html">amod</a></tt> (4; 1% instances), <tt><a href="en_gentle-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="en_gentle-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="en_gentle-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="en_gentle-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-orphan.html">orphan</a></tt> (1; 0% instances)
+`ADV` nodes are attached to their parents using 21 different relations: <tt><a href="en_gentle-dep-advmod.html">advmod</a></tt> (635; 86% instances), <tt><a href="en_gentle-dep-conj.html">conj</a></tt> (17; 2% instances), <tt><a href="en_gentle-dep-root.html">root</a></tt> (14; 2% instances), <tt><a href="en_gentle-dep-obl.html">obl</a></tt> (13; 2% instances), <tt><a href="en_gentle-dep-ccomp.html">ccomp</a></tt> (7; 1% instances), <tt><a href="en_gentle-dep-obj.html">obj</a></tt> (7; 1% instances), <tt><a href="en_gentle-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="en_gentle-dep-parataxis.html">parataxis</a></tt> (6; 1% instances), <tt><a href="en_gentle-dep-fixed.html">fixed</a></tt> (5; 1% instances), <tt><a href="en_gentle-dep-xcomp.html">xcomp</a></tt> (5; 1% instances), <tt><a href="en_gentle-dep-amod.html">amod</a></tt> (4; 1% instances), <tt><a href="en_gentle-dep-case.html">case</a></tt> (3; 0% instances), <tt><a href="en_gentle-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="en_gentle-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="en_gentle-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="en_gentle-dep-reparandum.html">reparandum</a></tt> (2; 0% instances), <tt><a href="en_gentle-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-discourse.html">discourse</a></tt> (1; 0% instances), <tt><a href="en_gentle-dep-orphan.html">orphan</a></tt> (1; 0% instances)
 
-Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (405; 56% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (109; 15% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (88; 12% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (50; 7% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (19; 3% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (18; 2% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (14; 2% instances),  (14; 2% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (11; 2% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (1; 0% instances)
+Parents of `ADV` nodes belong to 10 different parts of speech: <tt><a href="en_gentle-pos-VERB.html">VERB</a></tt> (405; 55% instances), <tt><a href="en_gentle-pos-NOUN.html">NOUN</a></tt> (115; 16% instances), <tt><a href="en_gentle-pos-ADJ.html">ADJ</a></tt> (88; 12% instances), <tt><a href="en_gentle-pos-ADV.html">ADV</a></tt> (50; 7% instances), <tt><a href="en_gentle-pos-PROPN.html">PROPN</a></tt> (19; 3% instances), <tt><a href="en_gentle-pos-SYM.html">SYM</a></tt> (19; 3% instances), <tt><a href="en_gentle-pos-NUM.html">NUM</a></tt> (14; 2% instances),  (14; 2% instances), <tt><a href="en_gentle-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="en_gentle-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-552 (76%) `ADV` nodes are leaves.
+559 (76%) `ADV` nodes are leaves.
 
-113 (16%) `ADV` nodes have one child.
+113 (15%) `ADV` nodes have one child.
 
 31 (4%) `ADV` nodes have two children.
 
-33 (5%) `ADV` nodes have three or more children.
+33 (4%) `ADV` nodes have three or more children.
 
 The highest child degree of a `ADV` node is 7.
 

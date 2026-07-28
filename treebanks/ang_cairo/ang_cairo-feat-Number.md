@@ -11,27 +11,26 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 110 tokens (64%) have a non-empty value of `Number`.
 91 types (81%) occur at least once with a non-empty value of `Number`.
-76 lemmas (76%) occur at least once with a non-empty value of `Number`.
+76 lemmas (75%) occur at least once with a non-empty value of `Number`.
 The feature is used with 7 part-of-speech tags: <tt><a href="ang_cairo-pos-PRON.html">PRON</a></tt> (27; 16% instances), <tt><a href="ang_cairo-pos-NOUN.html">NOUN</a></tt> (23; 13% instances), <tt><a href="ang_cairo-pos-VERB.html">VERB</a></tt> (23; 13% instances), <tt><a href="ang_cairo-pos-PROPN.html">PROPN</a></tt> (15; 9% instances), <tt><a href="ang_cairo-pos-AUX.html">AUX</a></tt> (10; 6% instances), <tt><a href="ang_cairo-pos-DET.html">DET</a></tt> (9; 5% instances), <tt><a href="ang_cairo-pos-ADJ.html">ADJ</a></tt> (3; 2% instances).
 
 ### `PRON`
 
-27 <tt><a href="ang_cairo-pos-PRON.html">PRON</a></tt> tokens (96% of all `PRON` tokens) have a non-empty value of `Number`.
+27 <tt><a href="ang_cairo-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (18; 67%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ang_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (25; 93%), <tt><a href="ang_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (22; 81%), <tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt> (18; 67%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (2; 7% of non-empty `Number`): <em>Hie, heom</em>
 * `Sing` (25; 93% of non-empty `Number`): <em>hit, þu, he, heo, Ic, hyre, Hƿæt, Min, hire, his</em>
-* `EMPTY` (1): <em>sƿa</em>
 
 <table>
   <tr><th>Paradigm <i>he</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ang_cairo-feat-ExtPos.html">ExtPos</a></tt><tt>=PRON</tt>|<tt><a href="ang_cairo-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>heom</em></td></tr>
-  <tr><td><tt><tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ang_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ang_cairo-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>his</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ang_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>He</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ang_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ang_cairo-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="ang_cairo-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td><em>his</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ang_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ang_cairo-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>he</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ang_cairo-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>He</em></td><td></td></tr>
 </table>
 
 `Number` seems to be **lexical feature** of `PRON`. 92% lemmas (11) occur only with one value of `Number`.
@@ -94,7 +93,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 9 <tt><a href="ang_cairo-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Acc</tt> (5; 56%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ang_cairo-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (6; 67%), <tt><a href="ang_cairo-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (6; 67%), <tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Acc</tt> (5; 56%).
 
 `DET` tokens may have the following values of `Number`:
 

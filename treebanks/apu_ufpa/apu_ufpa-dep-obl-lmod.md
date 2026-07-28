@@ -9,7 +9,7 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="apu_ufpa-dep-obl.html">obl</a></tt>.
 There are also 1 other language-specific subtypes of `obl`: <tt><a href="apu_ufpa-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-16 nodes (2%) are attached to their parents as `obl:lmod`.
+16 nodes (1%) are attached to their parents as `obl:lmod`.
 
 10 instances of `obl:lmod` (63%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.9375.

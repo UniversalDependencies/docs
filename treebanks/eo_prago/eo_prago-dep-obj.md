@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-146 nodes (5%) are attached to their parents as `obj`.
+143 nodes (5%) are attached to their parents as `obj`.
 
-115 instances of `obj` (79%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.36986301369863.
+114 instances of `obj` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.32167832167832.
 
-The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (103; 71% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (36; 25% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (102; 71% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> (34; 24% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="eo_prago-pos-AUX.html">AUX</a></tt>-<tt><a href="eo_prago-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="eo_prago-pos-VERB.html">VERB</a></tt>-<tt><a href="eo_prago-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -22,7 +22,7 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 9 obj	color:blue
-1	La	la	DET	_	Definite=Def	5	det	_	_
+1	La	la	DET	_	Definite=Def|PronType=Art	5	det	_	_
 2	ĉi	ĉi	PART	_	_	3	advmod	_	_
 3	tie	tie	ADV	_	_	4	advmod	_	_
 4	donata	doni	VERB	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	5	amod	_	_
@@ -44,10 +44,10 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 # visual-style 11 12 obj	color:blue
 1	Mi	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	aprobas	_	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	la	_	DET	_	Definite=Def	4	det	_	_
+3	la	_	DET	_	Definite=Def|PronType=Art	4	det	_	_
 4	esencon	_	NOUN	_	Case=Acc|Number=Sing	2	obj	_	_
 5	de	_	ADP	_	_	7	case	_	_
-6	la	_	DET	_	Definite=Def	7	det	_	_
+6	la	_	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	Homaranismo	_	NOUN	_	Case=Nom|Number=Sing	4	nmod	_	_
 8	kaj	_	CCONJ	_	_	10	cc	_	_
 9	mi	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
@@ -55,10 +55,10 @@ The following 6 pairs of parts of speech are connected with `obj`: <tt><a href="
 11	enskribi	_	VERB	_	VerbForm=Inf	10	xcomp	_	_
 12	min	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	11	obj	_	_
 13	en	_	ADP	_	_	15	case	_	_
-14	la	_	DET	_	Definite=Def	15	det	_	_
+14	la	_	DET	_	Definite=Def|PronType=Art	15	det	_	_
 15	adresaron	_	NOUN	_	Case=Acc|Number=Sing	11	nmod	_	_
 16	de	_	ADP	_	_	18	case	_	_
-17	la	_	DET	_	Definite=Def	18	det	_	_
+17	la	_	DET	_	Definite=Def|PronType=Art	18	det	_	_
 18	Homaranoj	_	NOUN	_	Case=Nom|Number=Plur	15	nmod	_	SpaceAfter=No
 19	.	_	PUNCT	_	_	2	punct	_	_
 

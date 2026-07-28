@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ps_sikaram-dep-nsubj.html">nsubj</a></tt>.
 
-35 nodes (1%) are attached to their parents as `nsubj:pass`.
+41 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-35 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.71428571428571.
+41 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.90243902439024.
 
-The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (26; 74% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (4; 11% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (3; 9% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (2; 6% instances).
+The following 3 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> (34; 83% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> (4; 10% instances), <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt>-<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> (3; 7% instances).
 
 
 ~~~ conllu
@@ -48,11 +48,11 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 10 2 nsubj:pass	color:blue
 1	نۀ	نۀ	PART	_	Polarity=Neg	2	advmod	_	Translit=në|LTranslit=në|Gloss=not
 2	پیتر	پیتر	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj:pass	_	Translit=pitr|LTranslit=pitr|Gloss=Peter
-3	سمیس	سمیس	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	flat	_	Translit=smis|LTranslit=smis|Gloss=Smith
+3	سمیس	سمیس	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	flat:name	_	Translit=smis|LTranslit=smis|Gloss=Smith
 4	او	او	CCONJ	_	_	6	cc	_	Translit=aw|LTranslit=aw|Gloss=and
 5	نۀ	نۀ	PART	_	Polarity=Neg	6	advmod	_	Translit=në|LTranslit=në|Gloss=not
 6	مریم	مریم	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	Translit=maryám|LTranslit=maryám|Gloss=Mary
-7	براون	براون	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	flat	_	Translit=brâwn|LTranslit=brâwn|Gloss=Brown
+7	براون	براون	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	flat:name	_	Translit=brâwn|LTranslit=brâwn|Gloss=Brown
 8	کولای	کول	AUX	_	Aspect=Imp|Mood=Cnd|VerbForm=Fin	10	aux:pot	_	Translit=kawë́lây|LTranslit=kawë́l|Gloss=done
 9	شوای	کېدل	AUX	_	Aspect=Perf|Mood=Cnd|Variant=Short|VerbForm=Fin	10	aux:pot	_	Translit=šwây|LTranslit=kedë́l|Gloss=become
 10	وټاکل	ټاکل	VERB	_	Aspect=Perf|Case=Nom|VerbForm=Inf	0	root	_	Translit=wë́ṭâkël|LTranslit=ṭâkë́l|Gloss=select

@@ -128,7 +128,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 * `Int` (1; 0% of non-empty `PronType`): <em>quid</em>
 * `Rel` (283; 30% of non-empty `PronType`): <em>unde, quid, ubi, quando, quandoque, quam, quippe, qualiter, ubique, aliquando</em>
 * `Tot` (15; 2% of non-empty `PronType`): <em>omnino, totaliter</em>
-* `EMPTY` (2131): <em>ergo, etiam, vero, nunc, bene, iam, magis, maxime, semper, ibi</em>
+* `EMPTY` (2138): <em>ergo, etiam, vero, nunc, bene, iam, magis, maxime, semper, ibi</em>
 
 <table>
   <tr><th>Paradigm <i>quid</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
@@ -155,7 +155,7 @@ The most frequent other feature values with which `PART` and `PronType` co-occur
 `CCONJ` tokens may have the following values of `PronType`:
 
 * `Rel` (14; 100% of non-empty `PronType`): <em>quapropter, quia</em>
-* `EMPTY` (3021): <em>et, sed, vel, nec, que, sive, atque, scilicet, aut, ac</em>
+* `EMPTY` (3014): <em>et, sed, vel, nec, que, sive, atque, scilicet, aut, ac</em>
 
 ### `ADP`
 

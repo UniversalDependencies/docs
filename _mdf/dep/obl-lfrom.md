@@ -21,4 +21,4 @@ obj(таргась-2, сардонят-4)
 ~~~
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:27 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:33 CEST -->

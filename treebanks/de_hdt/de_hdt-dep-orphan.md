@@ -23,7 +23,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 2	fgColor:white
 # visual-style 2 5 orphan	color:blue
 1	Alle	alle	DET	PIDAT	Case=Nom|Number=Plur|PronType=Tot	2	det	_	_
-2	Schulen	Schule	NOUN	NN	Gender=Fem|Number=Plur	0	root	_	_
+2	Schulen	Schule	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	0	root	_	_
 3	an	an	ADP	APPR	AdpType=Prep|Case=Acc	5	case	_	_
 4	das	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	5	det	_	_
 5	Netz	Netz	NOUN	NN	Case=Acc|Gender=Neut|Number=Sing	2	orphan	_	_
@@ -31,7 +31,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 7	jedem	jeder	DET	PIAT	Case=Dat|Gender=Masc|Number=Sing|PronType=Tot	8	det	_	_
 8	Schüler	Schüler	NOUN	NN	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
 9	einen	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Masc|Number=Sing|NumType=Card|PronType=Art	10	det	_	_
-10	Laptop	Laptop	NOUN	NN	Gender=Masc|Number=Sing	8	orphan	_	_
+10	Laptop	Laptop	NOUN	NN	Case=Acc|Gender=Masc|Number=Sing	8	orphan	_	_
 
 ~~~
 
@@ -42,7 +42,7 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 # visual-style 21	bgColor:blue
 # visual-style 21	fgColor:white
 # visual-style 21 22 orphan	color:blue
-1	Die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	2	det	_	_
+1	Die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	Anwenderzahlen	Anwenderzahl	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
 3	liegen	liegen	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	nach	nach	ADV	ADV	_	3	advmod	_	_
@@ -78,20 +78,20 @@ The following 6 pairs of parts of speech are connected with `orphan`: <tt><a hre
 1	Gespräche	Gespräch	NOUN	NN	Gender=Neut|Number=Plur	5	nsubj	_	_
 2	in	in	ADP	APPR	AdpType=Prep|Case=Dat	4	case	_	_
 3	diesem	dieser	DET	PDAT	Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
-4	Bereich	Bereich	NOUN	NN	Gender=Masc|Number=Sing	1	nmod	_	_
+4	Bereich	Bereich	NOUN	NN	Case=Dat|Gender=Masc|Number=Sing	1	nmod	_	_
 5	kosten	kosten	VERB	VVFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	danach	danach	ADV	PROAV	_	5	advmod	_	_
 7	tagsüber	tagsüber	ADV	ADV	_	5	advmod	_	_
 8	18	18	NUM	CARD	Number=Plur|NumType=Card	9	nummod	_	_
 9	Pfennige	Pfennig	NOUN	NN	Gender=Masc|Number=Plur	5	obj	_	_
 10	pro	pro	ADP	APPR	AdpType=Prep|Case=Dat	11	case	_	_
-11	Minute	Minute	NOUN	NN	Gender=Fem|Number=Sing	9	nmod	_	_
+11	Minute	Minute	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	9	nmod	_	_
 12	,	,	PUNCT	$,	PunctType=Comm	13	punct	_	_
 13	abends	abends	ADV	ADV	_	19	orphan	_	_
 14	und	und	CCONJ	KON	_	17	cc	_	_
 15	an	an	ADP	APPR	AdpType=Prep|Case=Dat	17	case	_	_
-16	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	17	det	_	_
-17	Wochenende	Wochenende	NOUN	NN	Gender=Neut|Number=Sing	13	conj	_	_
+16	dem	der	DET	ART	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	17	det	_	_
+17	Wochenende	Wochenende	NOUN	NN	Case=Dat|Gender=Neut|Number=Sing	13	conj	_	_
 18	10	10	NUM	CARD	Number=Plur|NumType=Card	19	nummod	_	_
 19	Pfennige	Pfennig	NOUN	NN	Gender=Masc|Number=Plur	5	conj	_	_
 20	.	.	PUNCT	$.	PunctType=Peri	5	punct	_	_

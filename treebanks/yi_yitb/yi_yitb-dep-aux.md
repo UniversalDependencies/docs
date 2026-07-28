@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="yi_yitb-dep-aux-pass.html">aux:pass</a></tt>.
 
-1609 nodes (6%) are attached to their parents as `aux`.
+1640 nodes (6%) are attached to their parents as `aux`.
 
-1601 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.08266003729024.
+1632 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.06646341463415.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (1364; 85% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (129; 8% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (73; 5% instances), <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (20; 1% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (1396; 85% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (128; 8% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (74; 5% instances), <tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (19; 1% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt>-<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

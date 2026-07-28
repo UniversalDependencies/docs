@@ -22,14 +22,14 @@ The following 1 pairs of parts of speech are connected with `acl:relcl`: <tt><a 
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 7 acl:relcl	color:blue
-1	એવી	એવી	ADJ	_	_	2	amod	_	_
-2	ફિલમ	ફિલમ	NOUN	_	_	3	obj	_	_
-3	જોવો	જોવો	VERB	_	_	0	root	_	_
-4	જે	જે	PRON	_	_	7	nsubj	_	_
-5	પ્રેમ	પ્રેમભાવ	NOUN	_	Typo=Yes	7	obj	_	_
-6	ભાવ	_	X	_	_	5	goeswith	_	_
-7	લાવે	લાવે	VERB	_	_	3	acl:relcl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+1	એવી	એવી	ADJ	_	_	2	amod	_	LTranslit=evī|Translit=evī
+2	ફિલમ	ફિલમ	NOUN	_	_	3	obj	_	LTranslit=philama|Translit=philama
+3	જોવો	જોવો	VERB	_	_	0	root	_	LTranslit=jovo|Translit=jovo
+4	જે	જે	PRON	_	_	7	nsubj	_	LTranslit=je|Translit=je
+5	પ્રેમ	પ્રેમભાવ	NOUN	_	Typo=Yes	7	obj	_	LTranslit=premabhāva|Translit=prema
+6	ભાવ	_	X	_	_	5	goeswith	_	Translit=bhāva
+7	લાવે	લાવે	VERB	_	_	3	acl:relcl	_	LTranslit=lāve|SpaceAfter=No|Translit=lāve
+8	.	.	PUNCT	_	_	3	punct	_	LTranslit=.|SpaceAfter=No|Translit=.
 
 ~~~
 

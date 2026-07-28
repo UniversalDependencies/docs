@@ -25,7 +25,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 1	ἀνηγγέλη	ἀναγγέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-tell|Ref=GEN_31.22
 2	δὲ	δέ	CCONJ	_	_	1	cc	_	Gloss=but,and,however|Ref=GEN_31.22
 3	Λαβὰν	Λάβαν	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	1	iobj	_	Gloss=Laban|Ref=GEN_31.22
-4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	5	det	_	Gloss=the|Ref=GEN_31.22
+4	τῷ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the|Ref=GEN_31.22
 5	Σύρῳ	Σύρος	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	3	appos	_	Gloss=Syrian|Ref=GEN_31.22
 6	τῇ	ὁ	DET	_	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	Gloss=the|Ref=GEN_31.22
 7	τρίτῃ	τρίτος	NUM	_	Case=Dat|Gender=Fem|Number=Sing|NumType=Ord	8	nummod	_	Gloss=third|Ref=GEN_31.22

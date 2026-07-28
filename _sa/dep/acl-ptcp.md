@@ -15,4 +15,4 @@ nsubj(eti, vŕ̥ṣā)
 obl:soc(eti, vr̥ṣṭyā́)
 acl:ptcp(vŕ̥ṣā, stanáyan)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:59 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:26 CEST -->

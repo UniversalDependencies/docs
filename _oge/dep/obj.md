@@ -14,4 +14,4 @@ nsubj(იხილა, მან)
 nmod(დიდებაჲ, ღმრთისაჲ)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:53 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:28 CEST -->

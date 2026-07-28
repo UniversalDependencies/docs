@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-compound.html">compound</a></tt>.
 
-955 nodes (0%) are attached to their parents as `compound:prt`.
+1040 nodes (0%) are attached to their parents as `compound:prt`.
 
-954 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.2848167539267.
+1039 instances of `compound:prt` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.27596153846154.
 
-The following 6 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (935; 98% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (16; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `compound:prt`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1019; 98% instances), <tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (17; 2% instances), <tt><a href="en_gum-pos-ADV.html">ADV</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-AUX.html">AUX</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PRON.html">PRON</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="en_gum-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_gum-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,13 +22,13 @@ The following 6 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 14 compound:prt	color:blue
-1	Next	next	ADJ	JJ	Degree=Pos	2	amod	2:amod	Discourse=joint-other_m:115->109:3:_|Entity=(54-time-new-nnnnn-cf4-2-sgl
+1	Next	next	ADJ	JJ	Degree=Pos	2	amod	2:amod	Bridge=6<54:comparison-relative;comparison-time|Discourse=joint-other_m:115->109:3:_|Entity=(54-time-acc:inf-nnnnn-cf4-2-coref
 2	time	time	NOUN	NN	Number=Sing	12	obl:unmarked	12:obl:unmarked	Entity=54)
 3	if	if	SCONJ	IN	_	5	mark	5:mark	Discourse=contingency-condition:116->117:0:dm-if-634-_|PDTB=Explicit:Contingency.Condition.Arg2-as-cond:if:634:632-633,641-646:635-640
 4	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	Entity=(11-person-giv:inact-nssss-cf1-1-ana)
 5	leave	leave	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	12:advcl:if	CxnElt=12:Conditional-UnspecifiedEpistemic-NoInversion.Protasis
 6	in	in	ADP	IN	_	8	case	8:case	_
-7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Entity=(55-time-new-nnnnn-cf3-2-sgl
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Bridge=54<55:comparison-time;set-span-interval|Entity=(55-time-acc:inf-nnnnn-cf3-2-sgl
 8	morning	morning	NOUN	NN	Number=Sing	5	obl	5:obl:in	Entity=55)|MSeg=morn-ing|SpaceAfter=No
 9	,	,	PUNCT	,	_	5	punct	5:punct	_
 10	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	nsubj	12:nsubj	Discourse=same-unit_m:117->115:0:_|Entity=(11-person-giv:act-nssss-cf1-1-ana)
@@ -53,11 +53,11 @@ The following 6 pairs of parts of speech are connected with `compound:prt`: <tt>
 4	have	have	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	8:advcl:if	CxnElt=8:Conditional-UnspecifiedEpistemic-NoInversion.Protasis
 5	n't	not	PART	RB	Polarity=Neg	4	advmod	4:advmod	Negation=Yes
 6	already	already	ADV	RB	_	4	advmod	4:advmod	MSeg=al-ready
-7	be	be	AUX	VB	Mood=Imp|Person=2|VerbForm=Fin	8	cop	8:cop	Discourse=same-unit_m:176->174:0:_
+7	be	be	AUX	VB	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	8	cop	8:cop	Discourse=same-unit_m:176->174:0:_
 8	sure	sure	ADJ	JJ	Degree=Pos	0	root	0:root	Cxn=Conditional-UnspecifiedEpistemic-NoInversion|CxnElt=8:Conditional-UnspecifiedEpistemic-NoInversion.Apodosis
 9	to	to	PART	TO	_	10	mark	10:mark	_
 10	give	give	VERB	VB	VerbForm=Inf	8	xcomp	8:xcomp	Cxn=Ditransitive|CxnElt=10:Ditransitive.V
-11	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	12:det	Entity=(111-abstract-acc:com-nnnnn-cf2-2-sgl
+11	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	12:det	Entity=(111-abstract-acc:com-nnnnn-cf2-2-coref
 12	video	video	NOUN	NN	Number=Sing	10	iobj	10:iobj	CxnElt=10:Ditransitive.Rec|Entity=111)
 13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	14:det	Entity=(112-abstract-new-nnnnn-cf3-2-sgl
 14	thumbs	thumb	NOUN	NN	Number=Sing	10	obj	10:obj	CxnElt=10:Ditransitive.Theme
@@ -74,11 +74,11 @@ The following 6 pairs of parts of speech are connected with `compound:prt`: <tt>
 # visual-style 26	fgColor:white
 # visual-style 26 27 compound:prt	color:blue
 1	So	so	ADV	RB	_	5	advmod	5:advmod	Discourse=context-background:15->19:3:ref-dem-161-165,192-194-_+sem-synym-175,196-198-_|PDTB=Explicit:Contingency.Cause.Result:so:151:128-150:152-184
-2	Secretary	Secretary	PROPN	NNP	Number=Sing	3	nmod:desc	3:nmod:desc	Bridge=28<42|Entity=(42-person-acc:inf-snsnn-cf5-1,2-coref-Miguel_Cardona
+2	Secretary	Secretary	PROPN	NNP	Number=Sing	3	nmod:desc	3:nmod:desc	Entity=(42-person-auto-snsnn-cf3-2-coref-Miguel_Cardona
 3	Cardona	Cardona	PROPN	NNP	Number=Sing	5	nsubj	5:nsubj	Entity=42)
 4	again	again	ADV	RB	Degree=Pos	5	advmod	5:advmod	_
 5	invoked	invoke	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	Entity=(43-event-new-nnnnn-cf8-1-disc|MSeg=in-vok-ed
-6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Entity=(30-abstract-giv:inact-sssns-cf3-2,3-coref-Higher_Education_Relief_Opportunities_For_Students_Act
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	Entity=(30-abstract-giv:inact-sssns-cf4-2,3-coref-Higher_Education_Relief_Opportunities_For_Students_Act
 7	HEROES	HEROES	PROPN	NNP	Number=Sing	8	compound	8:compound	XML=<hi rend:::"caps"></hi>
 8	Act	Act	PROPN	NNP	Number=Sing	5	obj	5:obj	Entity=30)
 9	to	to	PART	TO	_	10	mark	10:mark	Discourse=purpose-goal:16->15:0:syn-inf-159-_|PDTB=Implicit:Contingency.Purpose.Arg2-as-goal:in order:_:151-158:159-165
@@ -103,7 +103,7 @@ The following 6 pairs of parts of speech are connected with `compound:prt`: <tt>
 28	in	in	ADP	IN	_	29	case	29:case	_
 29	relation	relation	NOUN	NN	Number=Sing	26	obl	26:obl:in	MSeg=relat-ion
 30	to	to	ADP	IN	_	33	case	33:case	_
-31	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	33	nmod:poss	33:nmod:poss	Entity=(27-abstract-giv:inact-ssnss-cf4-3-coref(26-person-giv:act-nnnsn-cf1-1-ana)
+31	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	33	nmod:poss	33:nmod:poss	Entity=(27-abstract-giv:inact-ssnss-cf5-3-coref(26-person-giv:act-nnnsn-cf1-1-ana)
 32	student	student	NOUN	NN	Number=Sing	33	compound	33:compound	MSeg=stud-ent
 33	loans	loan	NOUN	NNS	Number=Plur	29	nmod	29:nmod:to	Entity=27)43)|MSeg=loan-s|SpaceAfter=No
 34	.	.	PUNCT	.	_	5	punct	5:punct	_

@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	haben	haben	VERB	VVINF	_	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	$,	_	7	punct	_	_
 6	was	was	PRON	PRELS	Case=Nom|Gender=Neut|Number=Sing|PronType=Int,Rel	7	nsubj:pass	_	_
-7	mitgeteilt	mitteilen	VERB	VVPP	_	3	acl	_	_
+7	mitgeteilt	mitteilen	VERB	VVPP	_	3	acl:relcl	_	_
 8	werden	werden	AUX	VAINF	_	7	aux:pass	_	_
 9	soll	sollen	AUX	VMFIN	_	7	aux	_	SpaceAfter=No
 10	;	;	PUNCT	$.	_	16	punct	_	_
@@ -62,7 +62,7 @@ The following 2 pairs of parts of speech are connected with `nummod`: <tt><a hre
 18	dem	der	PRON	PRELS	Case=Dat|PronType=Dem,Rel	21	obl:arg	_	_
 19	man	man	PRON	PIS	Case=Nom|Number=Sing|PronType=Ind	21	nsubj	_	SpaceAfter=No
 20	's	es	PRON	PPER	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
-21	mitteilen	mitteilen	VERB	VVINF	_	15	acl	_	_
+21	mitteilen	mitteilen	VERB	VVINF	_	15	acl:relcl	_	_
 22	wollen	wollen	AUX	VMFIN	_	21	aux	_	_
 23	darf	dürfen	AUX	VMFIN	_	21	aux	_	SpaceAfter=No
 24	;	;	PUNCT	$.	_	31	punct	_	_

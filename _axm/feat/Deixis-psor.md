@@ -14,7 +14,8 @@ udver: '2'
 </tr>
 </table>
 
-Middle Armenian uses `Deixis[psor]` as layered feature for [NOUN]() to encode the position of an entity relative to either the speaker or the hearer.
+Middle Armenian uses `Deixis[psor]` as a layered feature for [NOUN](hy-pos/NOUN) to encode the position of an entity relative to the speaker or the hearer.
+Note that the subscript [psor] does not denote a possessor in this feature. It is adopted by analogy with Person[psor], because the same article morphemes in Middle Armenian serve demonstrative, person-indexing, and possessive functions. Their function can only be determined from the context.
 
 ### <a name="Prox">`Prox`</a>: proximal
 
@@ -44,4 +45,4 @@ The entity is far away from the reference point (e.g., from the speaker).
 * _երբ այս ազգ օձս խայթէ զմարդն, նայ հանց ցաւէ խիստ, որ այլազգ օձոյն<b>ն</b> չցաւէ_/_erb ays azg òjs xayt’ē zmardn, nay hanc’ c’awē xist, or aylazg òjoynn čc’awē_ “When this kind of snake bites a man, it tends to hurt so intensely that the (bite) of other kinds of snakes does not hurt ([in such a way)”
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:11 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->

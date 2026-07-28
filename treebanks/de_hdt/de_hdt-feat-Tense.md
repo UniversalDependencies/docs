@@ -40,7 +40,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 132986 <tt><a href="de_hdt-pos-VERB.html">VERB</a></tt> tokens (50% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (132986; 100%), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (132986; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (132984; 100%), <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=3</tt> (131085; 99%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (100435; 76%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="de_hdt-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (132986; 100%), <tt><a href="de_hdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (132986; 100%), <tt><a href="de_hdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (132986; 100%), <tt><a href="de_hdt-feat-Person.html">Person</a></tt><tt>=3</tt> (131085; 99%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (100435; 76%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -62,10 +62,11 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>AUX --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> VERB</tt> (360; 51%),
 <tt>VERB --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (300; 52%),
 <tt>AUX --[<tt><a href="de_hdt-dep-conj.html">conj</a></tt>]--> AUX</tt> (38; 76%),
+<tt>AUX --[<tt><a href="de_hdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (32; 63%),
 <tt>AUX --[<tt><a href="de_hdt-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (11; 73%),
 <tt>AUX --[<tt><a href="de_hdt-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (4; 67%),
 <tt>VERB --[<tt><a href="de_hdt-dep-obl.html">obl</a></tt>]--> AUX</tt> (3; 60%),
+<tt>AUX --[<tt><a href="de_hdt-dep-acl-relcl.html">acl:relcl</a></tt>]--> AUX</tt> (2; 67%),
 <tt>AUX --[<tt><a href="de_hdt-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>AUX --[<tt><a href="de_hdt-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%),
-<tt>VERB --[<tt><a href="de_hdt-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (1; 100%).
+<tt>AUX --[<tt><a href="de_hdt-dep-reparandum.html">reparandum</a></tt>]--> AUX</tt> (1; 100%).
 

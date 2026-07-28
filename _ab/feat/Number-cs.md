@@ -21,4 +21,4 @@ This feature marks number agreement of the verb with the indirect object or of p
 
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:29 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->

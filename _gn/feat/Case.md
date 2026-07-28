@@ -91,4 +91,4 @@ The vocative can be expressed, among others, by the sufix _we_ attached to the l
 
 * _<b></b>&nbsp;_ “”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:04 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->

@@ -25,7 +25,7 @@ The following 13 pairs of parts of speech are connected with `obj`: <tt><a href=
 1	Ἐν	ἐν	ADP	_	_	2	case	_	Gloss=in,on,by,with,to|Ref=GEN_1.1
 2	ἀρχῇ	ἀρχή	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	3	obl:tmod	_	Gloss=beginning,ruler,office|Ref=GEN_1.1
 3	ἐποίησεν	ποιέω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Gloss=to-do,make|Ref=GEN_1.1
-4	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the;-oh|Ref=GEN_1.1
+4	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=the;-oh|Ref=GEN_1.1
 5	θεὸς	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Gloss=god|Ref=GEN_1.1
 6	τὸν	ὁ	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=GEN_1.1
 7	οὐρανὸν	οὐρανός	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	Gloss=heaven,sky|Ref=GEN_1.1
@@ -52,7 +52,7 @@ The following 13 pairs of parts of speech are connected with `obj`: <tt><a href=
 7	ἐνετείλατο	ἐντέλλω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	4	acl:relcl	_	Gloss=to-command,order|Ref=GEN_7.5
 8	αὐτῷ	αὐτός	PRON	_	Case=Dat|Gender=Masc,Neut|Number=Sing|PronType=Prs	7	obj	_	Gloss=he,she,it,-self,same|Ref=GEN_7.5
 9	κύριος	κύριος	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	Gloss=lord|Ref=GEN_7.5
-10	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the;-oh|Ref=GEN_7.5
+10	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	Gloss=the;-oh|Ref=GEN_7.5
 11	θεός	θεός	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	9	appos	_	Gloss=god|Ref=GEN_7.5|SpaceAfter=No
 12	.	.	PUNCT	_	_	11	punct	_	Ref=GEN_7.5
 

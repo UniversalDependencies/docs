@@ -23,18 +23,18 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 13 nsubj:outer	color:blue
-1	Heather	heather	PROPN	_	_	2	nsubj	_	_
+1	Heather	Heather	PROPN	_	_	2	nsubj	_	_
 2	debutó	debutar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	en	en	ADP	_	_	5	case	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	música	música	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
 6	en	en	ADP	_	_	7	case	_	_
-7	Octubre	octubre	PROPN	_	_	2	obl	_	_
+7	Octubre	octubre	NOUN	_	_	2	obl	_	_
 8	de	de	ADP	_	_	9	case	_	_
 9	2002	2002	NUM	_	NumForm=Digit|NumType=Card	7	nmod	_	_
 10	con	con	ADP	_	_	12	case	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	Álbum	álbum	PROPN	_	Gender=Masc|Number=Sing	2	obl	_	_
+12	Álbum	Álbum	PROPN	_	Gender=Masc|Number=Sing	2	obl	_	_
 13	This	this	PRON	_	Foreign=Yes|Number=Sing|PronType=Dem	15	nsubj:outer	_	Lang=en
 14	Is	be	AUX	_	Foreign=Yes|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	Lang=en
 15	Who	who	PRON	_	Foreign=Yes|PronType=Int,Rel	12	appos	_	Lang=en
@@ -44,7 +44,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 19	de	de	ADP	_	_	21	case	_	_
 20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	disquera	disquera	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
-22	RCA	rca	PROPN	_	_	21	appos	_	SpaceAfter=No
+22	RCA	Rca	PROPN	_	_	21	appos	_	SpaceAfter=No
 23	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~

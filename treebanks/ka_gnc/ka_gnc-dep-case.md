@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1336 nodes (6%) are attached to their parents as `case`.
+1389 nodes (6%) are attached to their parents as `case`.
 
-1325 instances of `case` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.07709580838323.
+1375 instances of `case` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.07847372210223.
 
-The following 6 pairs of parts of speech are connected with `case`: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (1048; 78% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (169; 13% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (69; 5% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (25; 2% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (17; 1% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (8; 1% instances).
+The following 6 pairs of parts of speech are connected with `case`: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (1091; 79% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (175; 13% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (72; 5% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (25; 2% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (18; 1% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_gnc-pos-ADP.html">ADP</a></tt> (8; 1% instances).
 
 
 ~~~ conllu

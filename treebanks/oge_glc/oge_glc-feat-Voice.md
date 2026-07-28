@@ -1,0 +1,99 @@
+---
+layout: base
+title:  'Statistics of Voice in UD_Old_Georgian-GLC'
+udver: '2'
+---
+
+## Treebank Statistics: UD_Old_Georgian-GLC: Features: `Voice`
+
+This feature is universal.
+It occurs with 2 different values: `Act`, `Pass`.
+
+935 tokens (14%) have a non-empty value of `Voice`.
+635 types (23%) occur at least once with a non-empty value of `Voice`.
+409 lemmas (25%) occur at least once with a non-empty value of `Voice`.
+The feature is used with 2 part-of-speech tags: <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> (769; 11% instances), <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt> (166; 2% instances).
+
+### `VERB`
+
+769 <tt><a href="oge_glc-pos-VERB.html">VERB</a></tt> tokens (84% of all `VERB` tokens) have a non-empty value of `Voice`.
+
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="oge_glc-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (554; 72%), <tt><a href="oge_glc-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (554; 72%), <tt><a href="oge_glc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (506; 66%), <tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (410; 53%).
+
+`VERB` tokens may have the following values of `Voice`:
+
+* `Act` (466; 61% of non-empty `Voice`): <em>იტყჳს, აქუნდეს, თქუა, უჴმს, განვასაზღვრებთ, დავიცავთ, დასცხერინ, ვიტყჳთ, იკადროს, მოვიდეს</em>
+* `Pass` (303; 39% of non-empty `Voice`): <em>განიკუეთენ, შეკრებულთა, ჴელთდასხმულ, აღწერილთა, დაცვულისა, მოჴსენებულისა, ქმნილ, ღმერთშემოსილთა, დასხმულთა, დაცვულსა</em>
+* `EMPTY` (147): <em>ყოფაჲ, ქმნად, ყოფად, აღსაშენებელად, ყოფისა, აღსაარებად, განკუეთასა, განსამტკიცებელად, თქუმად, მომპოვნებელმან</em>
+
+<table>
+  <tr><th>Paradigm <i>თქმა</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ვიტყოდეთ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ვიტყჳთ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>იტყჳან</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ვიტყჳ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>იტყოდა</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>იტყჳს</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ვიტყოდით</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>იტყოდინ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>ითქუმოდედ</em></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>მიუთხარ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ვიტყჳთ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>თქუეს, მითხრეს, მიუთხოიეს</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>თქუა</em></td><td><em>ითქუა</em></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>იტყჳს</em></td><td></td></tr>
+</table>
+
+`Voice` seems to be **lexical feature** of `VERB`. 95% lemmas (386) occur only with one value of `Voice`.
+
+### `AUX`
+
+166 <tt><a href="oge_glc-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Voice`.
+
+The most frequent other feature values with which `AUX` and `Voice` co-occurred: <tt><a href="oge_glc-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (166; 100%), <tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (160; 96%), <tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (118; 71%), <tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (111; 67%), <tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (107; 64%), <tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (106; 64%).
+
+`AUX` tokens may have the following values of `Voice`:
+
+* `Act` (122; 73% of non-empty `Voice`): <em>არს, იყოს, იყვნენ, იყო, არიან, იყავნ, არსა, იყვენით, ქმნას, ეყავნ</em>
+* `Pass` (44; 27% of non-empty `Voice`): <em>იქმნა, იქმნეს, იქმენინ, იქმნნეს, იქმნებიან, იქმნებოდის, იქმნენ, იქმნების, ვიქმნებით, იქმნას</em>
+
+<table>
+  <tr><th>Paradigm <i>ყოფა</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>იყვენით, იქმოდეთ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>იქმნებოდინ</em></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>იქმნებოდის</em></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>იყავნ, ეყავნ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>იყვნენ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>არიან</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ვარ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=2</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ხარ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>იყო</em></td><td><em>იქმნებოდის</em></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>არს, არსა, იყავნ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>იყვნენ, იყვნეს</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>იქმნებოდედ</em></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>იყოს</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>იქმენინ</em></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-io.html">Number[io]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-io.html">Person[io]</a></tt><tt>=1</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Subcat.html">Subcat</a></tt><tt>=Tran</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>მექმნებიან</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=1</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>ვიქმნებით</em></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>ყვეს</em></td><td><em>იქმნნეს, იქმნებოდეს</em></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>იქმნებიან, იქმნენ</em></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td><em>იქმნების</em></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>იქმნა, იქმნებოდის</em></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Plur</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>იქმნენ, იქმნებიან, იქმნნეს</em></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>იყოს</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="oge_glc-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="oge_glc-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="oge_glc-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt>|<tt><a href="oge_glc-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt>|<tt><a href="oge_glc-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>იყოს, ქმნას, არს, ყოს</em></td><td><em>იქმნეს, იქმნას</em></td></tr>
+</table>
+
+## Relations with Agreement in `Voice`
+
+The 10 most frequent relations where parent and child node agree in `Voice`:
+<tt>VERB --[<tt><a href="oge_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (141; 77%),
+<tt>VERB --[<tt><a href="oge_glc-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (59; 54%),
+<tt>VERB --[<tt><a href="oge_glc-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (29; 71%),
+<tt>AUX --[<tt><a href="oge_glc-dep-conj.html">conj</a></tt>]--> VERB</tt> (10; 59%),
+<tt>VERB --[<tt><a href="oge_glc-dep-conj.html">conj</a></tt>]--> AUX</tt> (9; 64%),
+<tt>AUX --[<tt><a href="oge_glc-dep-conj.html">conj</a></tt>]--> AUX</tt> (5; 83%),
+<tt>VERB --[<tt><a href="oge_glc-dep-ccomp.html">ccomp</a></tt>]--> AUX</tt> (3; 100%),
+<tt>AUX --[<tt><a href="oge_glc-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="oge_glc-dep-nmod.html">nmod</a></tt>]--> VERB</tt> (1; 100%).
+

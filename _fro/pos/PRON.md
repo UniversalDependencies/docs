@@ -15,4 +15,4 @@ Pronouns are words that substitute for nouns or noun phrases. Their meaning is r
 - reflexive pronous: _me_, _se_
 - interrogative/relative pronouns: _qui, ki, que, qu', laquele_
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:52 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->

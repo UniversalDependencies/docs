@@ -77,7 +77,7 @@ German distinguishes both features in both dimensions
 If a feature is (can be) layered in a language, the name of the feature must
 indicate the layer. An additional identifier in square brackets is used to
 distinguish layers, e.g. `Gender[psor]` for the possessor's gender.
-We recommend that the layer identifiers consist of lowercase English letters
+The layer identifiers consist of lowercase English letters
 `[a-z]` and/or digits `[0-9]`.
 The layers, their meaning and their
 identifiers must be defined in a language-specific extension to this
@@ -258,7 +258,7 @@ Examples from the Multext-East Hungarian lexicon:
 
 Words marked for plural possessions are very rare, though. Note
 that in the following example from Multext-East, Columbus is marked
-for plural possession, but not for his own owner. 
+for plural possession, but not for his own owner.
 
 * <I>Kolumbuszéinál</I>
   * <I>Kolumbusz</I> = Columbus (singular)

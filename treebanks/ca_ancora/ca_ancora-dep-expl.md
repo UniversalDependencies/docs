@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Catalan-AnCora: Relations: `expl`
 
 This relation is universal.
-There are 1 language-specific subtypes of `expl`: <tt><a href="ca_ancora-dep-expl-pass.html">expl:pass</a></tt>.
+There are 3 language-specific subtypes of `expl`: <tt><a href="ca_ancora-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ca_ancora-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ca_ancora-dep-expl-pv.html">expl:pv</a></tt>.
 
-58 nodes (0%) are attached to their parents as `expl`.
+59 nodes (0%) are attached to their parents as `expl`.
 
-55 instances of `expl` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.62068965517241.
+56 instances of `expl` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.61016949152542.
 
-The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (57; 98% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `expl`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt> (58; 98% instances), <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -51,13 +51,13 @@ The following 2 pairs of parts of speech are connected with `expl`: <tt><a href=
 2	Grau	Grau	PROPN	np0000p	_	6	obl	6:obl	SpaceAfter=No|Entity=(CESSCATA2001031627750c2-person-1-CorefType:ident,gstype:spec)
 3	,	,	PUNCT	fc	PunctType=Comm	2	punct	2:punct	_
 4	'	'	PUNCT	fz	PunctType=Quot	6	punct	6:punct	SpaceAfter=No
-5	hi	hi	PRON	pp3cn000	Case=Loc|Person=3|PronType=Prs	6	obj	6:obj	_
+5	hi	hi	PRON	pp3cn000	Case=Loc|Person=3|PronType=Prs	6	obl:arg	6:obl:arg	_
 6	ha	haver	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	una	un	DET	di0fs0	Gender=Fem|Number=Sing|PronType=Ind	8	det	8:det	Entity=(CESSCATA2001031627750c21--2-gstype:gen
 8	ordre	ordre	NOUN	ncfs000	Gender=Fem|Number=Sing	6	obj	6:obj	ArgTem=arg1:tem
 9	espanyola	espanyol	ADJ	aq0fs0	Gender=Fem|Number=Sing	8	amod	8:amod	_
 10	que	que	PRON	pr0cn000	PronType=Rel	11	nsubj	11:nsubj	ArgTem=arg0:agt|Entity=(CESSCATA2001031627750c21--1-CorefType:ident,gstype:gen)
-11	diu	dir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	8:acl	_
+11	diu	dir	VERB	vmip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	8:acl:relcl	_
 12	que	que	SCONJ	cs	_	16	mark	16:mark	Entity=(CESSCATA2001031627750c23--5
 13	no	no	ADV	rn	Polarity=Neg	16	advmod	16:advmod	_
 14	ha	haver	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	16:aux	ArgTem=arg1:pat

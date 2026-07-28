@@ -50,7 +50,13 @@ The 2nd highest number of forms (1) was observed with the lemma “ainos”: <em
 
 The 3rd highest number of forms (1) was observed with the lemma “buitegu”: <em>buitegu</em>.
 
-`ADV` does not occur with any features.
+`ADV` occurs with 1 features: <tt><a href="olo_kkpp-feat-ExtPos.html">ExtPos</a></tt> (4; 4% instances)
+
+`ADV` occurs with 1 feature-value pairs: `ExtPos=ADV`
+
+`ADV` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (100 tokens).
+Examples: <em>sit, ainos, gu, muga, ylen, hyvin, jo, ližäkse, taaste, uvvessah</em>
 
 
 ## Relations

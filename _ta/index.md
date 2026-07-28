@@ -6,55 +6,45 @@ udver: '2'
 
 # UD for Tamil <span class="flagspan"><img class="flag" src="../../flags/svg/IN.svg" /></span> <span class="flagspan" style="padding-left:1em"><img class="flag" src="../../flags/svg/LK.svg" /></span>
 
-## Tokenization and Word Segmentation
+# Tamil UD Annotation Guidelines
 
-* Following most tokenization patterns, words are delimited by whitespace or punctuation.
-* Multiword tokens are relatively common in Tamil. For example, the coordinating clitic -உம் / _-um_ is analyzed as a separate syntactic word.
+This documentation provides practical guidelines for annotating Tamil data using the Universal Dependencies (UD) framework. The aim is to support consistent preprocessing, tokenisation, and morphological annotation of Tamil texts, while also documenting Tamil-specific issues such as Unicode normalisation, multiword tokenisation, clitic segmentation, case marking,  and sandhi.
 
-## Morphology
+These guidelines should be used together with the official UD documentation. Annotators should always consider the linguistic context before making annotation decisions, especially when a Tamil form can function differently across contexts.
 
-### Tags
+## Documentation Pages
 
-* Tamil uses 14 universal tags ([SCONJ](), [INTJ](), and [SYM]() do not occur in the corpus at present).
-* Auxiliary verbs ([AUX]()) include:
-  * போ / _po_ “go” for future tense, follows the infinitive of the main verb
-  * மாட்டேன் / _māṭṭen_ “will not” (lemma மாட்டு _māṭṭu_) for negative future tense with human subject
-  * படு / _paṭu_ “experience” for the passive voice
-  * வை / _vai_ “put” for the causative voice
-  * இல் / _il_ (இல்லை / _illai_) “not be” for negation
-  * உள் / _uḷ_ “within”, இரு / _iru_ “be”, வரு / _varu_ “come”, கொள் / _kòḷ_ “take”, செய் / _cèy_ “do”, விடு / _viṭu_ “let”, வா / _vā_ “come”
-  * வேண்டு / _veṇṭu_ “must”
-  * முடியும் / _muṭiyum_ “can” (lemma முடி _muṭi_): modal auxiliary, follows the infinitive of the main verb
+| Section | Description | Link |
+|---|---|---|
+| Preprocessing | Guidelines for Unicode normalisation, replacement of ambiguous characters, and preparation of text before annotation. | [Preprocessing](preprocessing.html) |
+| Tokenisation and Multiword Tokenisation | Guidelines for sentence tokenisation, word tokenisation, multiword tokenisation, clitic segmentation, ADP segmentation, and cases where forms should not be split. | [Tokenisation](./mwe/tokenisation.html) |
+| Morphological Features | Guidelines for annotating UD morphological features in Tamil, including Tamil-specific features such as deixis,  sandhi, and case. | [Morphological Features](features.html) |
+| Dependency Relations | Guidelines for Annotating UD Dependency Relations: Core Arguments, Oblique Nominals, Clausal Structures, Coordination, Complex Predicates, and Tamil-Specific Syntactic Relations in the MWTT Treebank | [Dependency Relations](relations.html) |
 
-### Features
+## How to Use These Guidelines
 
-* 7 cases are annotated as morphological features of nouns: nominative, genitive, dative, accusative, instrumental, comitative, locative. Tamil is an agglutinating language and other spatiotemporal and/or case-like morphemes may be analyzed as postpositions.
-* Verbs occur as finite forms, participles, infinitives, and gerunds.
+Annotators should begin with preprocessing, then apply tokenisation and multiword-tokenisation rules, and finally add morphological and syntactic annotation. Tokenisation decisions should be made before morphological and dependency annotation, because segmentation affects UPOS, features, and dependency relations.
 
-## Syntax
-
-* Tamil is a verb-final language; both SOV and OSV orders are possible.
-* Core arguments are marked by the morphological cases nominative (subject) and accusative (object).
-  Core arguments are bare noun phrases without postpositions.
-* Subjects have the following characteristics:
-  * Case marking: Subjects occur in nominative case without adpositions.
-  * Passivization: Subjects are suppressed when verbs are passivized.
-* Objects have the following characteristics:
-  * Case marking: Objects occur in accusative case without adpositions.
-  * Passivization: Objects become (non-expletive) subjects when verbs are passivized.
-* Bare nominal arguments (i.e., verb-licensed dependents) in the dative case are not considered core arguments. They are attached as `obl:arg`.
-* Prepositional arguments (i.e., verb-licensed dependents) are not considered core arguments. They are attached as `obl:arg`.
-
-Tamil uses 4 relation subtypes:
-* `advmod:emph` for adverbials emphasizing noun phrases
-* `compound:prt` to attach verbal particles to verbs
-* `nsubj:pass` for nominal subjects in passive clauses
-* `obl:arg` for oblique arguments (to distinguish them from other oblique dependents, i.e., adjuncts)
+The examples in these guidelines are intended to illustrate annotation decisions, not to exhaust all possible Tamil constructions. When uncertain, annotators should consult the UD guidelines, Tamil grammar references, dictionaries, and corpus evidence.
 
 ## References
 
-* See also [http://www.southasia.sas.upenn.edu/tamil/grammar/tamilgrammar12.html]()
-* [Tamil at the Language Gulper](http://www.languagesgulper.com/eng/Tamil.html)
+Abirami, A. M., Leong, W. Q., Rengarajan, H., Anitha, D., Suganya, R., Singh, H., ... & Shah, R. (2024, May). Aalamaram: A large-scale linguistically annotated treebank for the Tamil language. In *Proceedings of the 7th Workshop on Indian Language Data: Resources and Evaluation* (pp. 73–83).
+
+Butt, M., Rajamathangi, S., & Sarveswaran, K. (2020). Mixed categories in Tamil via complex categories. In *Proceedings of the LFG’20 Conference* (pp. 68–88). CSLI Publications.
+
+Krishnamurthy, P., & Sarveswaran, K. (2021, December). Towards building a modern written Tamil treebank. In *Proceedings of the 20th International Workshop on Treebanks and Linguistic Theories (TLT, SyntaxFest 2021)* (pp. 61–68).
+
+Lehmann, T. (1993). *A Grammar of Modern Tamil*. Pondicherry Institute of Linguistics and Culture.
+
+Nuhman, M. A. (1999). *Adippadai Tamil Ilakkanam* [Basic Tamil Grammar]. Readers’ Association.
+
+Ramasamy, L., & Žabokrtský, Z. (2012). Prague Dependency Style Treebank for Tamil. In *Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC’12)* (pp. 1888–1894). European Language Resources Association (ELRA).
+
+Sarveswaran, K. (2024). *Morphology and syntax of the Tamil language*. arXiv preprint arXiv:2401.08367.
+
+Sarveswaran, K., Dias, G., & Butt, M. (2021). ThamizhiMorph: A morphological parser for the Tamil language. *Machine Translation, 35*(1), 37–70.
+
 
 ---
 

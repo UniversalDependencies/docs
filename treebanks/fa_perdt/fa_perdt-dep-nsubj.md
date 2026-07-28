@@ -24,7 +24,7 @@ The following 35 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 6	fgColor:white
 # visual-style 6 1 nsubj	color:blue
 1	مشابه	مشابه	NOUN	N_IANM	Number=Sing	6	nsubj	_	LTranslit=mšābh|Translit=mšābh
-2	این	این	DET	PREM_DEMAJ	_	3	det	_	LTranslit=āīn|Translit=āīn
+2	این	این	DET	PREM_DEMAJ	PronType=Dem	3	det	_	LTranslit=āīn|Translit=āīn
 3	کارها	کار	NOUN	N_IANM	Number=Plur	1	nmod	_	LTranslit=kār|Translit=kārhā
 4	هم	هم	ADV	ADV_SADV	_	3	dep	_	LTranslit=hm|Translit=hm
 5	نهی	نهی	NOUN	N_IANM	Number=Sing	6	compound:lvc	_	LTranslit=nhī|Translit=nhī
@@ -44,7 +44,7 @@ The following 35 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 1	یعنی	یعنی	INTJ	PSUS	_	13	obl	_	LTranslit=īʿnī|Translit=īʿnī
 2	ما	ما	PRON	PR_SEPER	Number=Plur|Person=1|PronType=Prs	13	nsubj	_	LTranslit=mā|Translit=mā
 3	به	به	ADP	PREP	_	5	case	_	LTranslit=bh|Translit=bh
-4	این	این	DET	PREM_DEMAJ	_	5	det	_	LTranslit=āīn|Translit=āīn
+4	این	این	DET	PREM_DEMAJ	PronType=Dem	5	det	_	LTranslit=āīn|Translit=āīn
 5	ترتیب	ترتیب	NOUN	N_IANM	Number=Sing	13	obl	_	LTranslit=trtīb|Translit=trtīb
 6	فقط	فقط	ADV	ADV_SADV	_	7	advmod	_	LTranslit=fqṭ|Translit=fqṭ
 7	یک	یک	NUM	PRENUM	_	8	nummod	_	LTranslit=īk|Translit=īk

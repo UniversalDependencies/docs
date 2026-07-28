@@ -29,7 +29,7 @@ The following 5 pairs of parts of speech are connected with `discourse`: <tt><a 
 5	"	"	PUNCT	SS	_	10	punct	_	SpaceAfter=No
 6	"	"	PUNCT	SS	_	10	punct	_	SpaceAfter=No
 7	내일	내일	NOUN	NNG	_	10	nmod	_	_
-8	제가	제+가	PRON	NP+JKS	_	10	nsubj	_	_
+8	제가	제+가	PRON	NP+JKS	PronType=Prs	10	nsubj	_	_
 9	사진기를	사진기+를	NOUN	NNG+JKO	_	10	obj	_	_
 10	가지고	가지+고	VERB	VV+EC	_	15	ccomp	_	_
 11	올게요	오+ㄹ게요	VERB	VX+EF	_	10	advcl	_	SpaceAfter=No

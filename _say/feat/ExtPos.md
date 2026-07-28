@@ -35,4 +35,4 @@ It is kept in FEATS in the UD conversion.
 * _<b>séː deː</b>_ (_séː_ = `ADP`) "except"
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:15 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:52 CEST -->

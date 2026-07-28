@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>ir</em> (<tt><a href="lv_lvtb-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 27.000000 (the average of all parts of speech is 2.342913).
+The form / lemma ratio of `AUX` is 27.000000 (the average of all parts of speech is 2.342815).
 
 The 1st highest number of forms (56) was observed with the lemma “būt”: <em>bij, bij', bija, bijis, biju, bijusi, bijušajos, bijušajām, bijušas, bijuši, bijušo, bijām, bijāt, būdama, būdami, būdams, būs, būsi, būsiet, būsim, būt, būti, būtu, būšot, būšu, esam, esat, esi, esiet, esmu, esot, esoša, esošās, esu, ir, jābūt, jābūtot, nav, nebija, nebiju, nebijām, nebijāt, nebūdams, nebūs, nebūsi, nebūsiet, nebūsim, nebūt, nebūtu, nebūšot, nebūšu, neesam, neesat, neesi, neesmu, neesot</em>.
 

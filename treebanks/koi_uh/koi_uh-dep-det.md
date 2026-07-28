@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-11 nodes (1%) are attached to their parents as `det`.
+12 nodes (1%) are attached to their parents as `det`.
 
-11 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.27272727272727.
+12 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.25.
 
-The following 2 pairs of parts of speech are connected with `det`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-DET.html">DET</a></tt> (6; 55% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (5; 45% instances).
+The following 2 pairs of parts of speech are connected with `det`: <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-DET.html">DET</a></tt> (6; 50% instances), <tt><a href="koi_uh-pos-NOUN.html">NOUN</a></tt>-<tt><a href="koi_uh-pos-PRON.html">PRON</a></tt> (6; 50% instances).
 
 
 ~~~ conllu
@@ -40,15 +40,11 @@ The following 2 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	Эта	эта	PRON	_	Case=Nom|Number=Sing|PronType=Dem	2	det	_	GTtags=Dem,Sg,Nom
-2	гижӧтыс	гижӧт	NOUN	_	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	3	nsubj	_	GTtags=Sg,Nom,PxSg3
-3	Петрасянь	Петра	PROPN	_	Animacy=Hum|Case=Egr|NameType=Giv|Number=Sing	0	root	_	GTtags=Prop,Sg,Egr|SpaceAfter=No
-4	,	,	PUNCT	CLB	_	7	punct	_	_
-5	и	и	CCONJ	_	_	7	cc	_	_
-6	сійӧ	сія	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	7	obj	_	GTtags=Pers,Sg3,Acc
-7	вайисӧ	вайны	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	GTtags=Ind,Prt1,Pl3
-8	тӧн	тӧн	ADV	_	AdvType=Tim	7	advmod	_	SpaceAfter=No
-9	.	.	PUNCT	CLB	_	3	punct	_	_
+1	Тэнат	тэ	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	2	det	_	GTtags=Pers,Sg2,Gen
+2	юрыт	юр	NOUN	N	Animacy=Inan|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	4	nsubj	_	GTtags=Sem/Inanim,Sg,Nom,PxSg2
+3	быдлаö	быдлаӧ	ADV	Adv	Case=Ill	4	advmod	_	_
+4	висьö	висьны	VERB	V	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	GTtags=Imprt,Pl2|SpaceAfter=No
+5	.	.	PUNCT	CLB	_	4	punct	_	GTtags=CLB
 
 ~~~
 

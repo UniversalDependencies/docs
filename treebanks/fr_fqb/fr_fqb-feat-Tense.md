@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Fut`, `Imp`, `Past`, `Pres`.
 
-3303 tokens (14%) have a non-empty value of `Tense`.
-580 types (14%) occur at least once with a non-empty value of `Tense`.
-332 lemmas (9%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1678; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1625; 7% instances).
+3309 tokens (14%) have a non-empty value of `Tense`.
+584 types (14%) occur at least once with a non-empty value of `Tense`.
+333 lemmas (9%) occur at least once with a non-empty value of `Tense`.
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1678; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1630; 7% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `AUX`
 
@@ -41,17 +41,17 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 ### `VERB`
 
-1625 <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Tense`.
+1630 <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> tokens (86% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1396; 86%), <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1378; 85%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (856; 53%), <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (832; 51%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1396; 86%), <tt><a href="fr_fqb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (1383; 85%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (861; 53%), <tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (837; 51%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (3; 0% of non-empty `Tense`): <em>connaîtra, disposera, produira</em>
 * `Imp` (53; 3% of non-empty `Tense`): <em>avait, jouait, vivaient, coûtait, nommait, portait, produisait, était, aidait, appelait</em>
 * `Past` (815; 50% of non-empty `Tense`): <em>inventé, né, situé, eut, écrit, mort, connu, joué, eu, fait</em>
-* `Pres` (754; 46% of non-empty `Tense`): <em>trouve, est, a, signifie, Nommez, puis, dois, fait, ai, nomme</em>
-* `EMPTY` (265): <em>faire, obtenir, bénéficier, donner, payer, avoir, déclarer, trouver, déduire, partir</em>
+* `Pres` (759; 47% of non-empty `Tense`): <em>trouve, est, a, signifie, Nommez, puis, dois, fait, ai, nomme</em>
+* `EMPTY` (260): <em>faire, obtenir, bénéficier, donner, payer, avoir, déclarer, trouver, déduire, partir</em>
 
 <table>
   <tr><th>Paradigm <i>produire</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th><th><tt>Imp</tt></th></tr>
@@ -62,4 +62,15 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>produit</em></td><td><em>produira</em></td><td></td><td><em>produisait</em></td></tr>
   <tr><td><tt><tt><a href="fr_fqb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_fqb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>produisent</em></td><td></td><td></td><td></td></tr>
 </table>
+
+### `ADJ`
+
+1 <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Tense`.
+
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+
+`ADJ` tokens may have the following values of `Tense`:
+
+* `Past` (1; 100% of non-empty `Tense`): <em>affilé</em>
+* `EMPTY` (1511): <em>quel, quelle, premier, première, américain, grand, Quels, américaine, célèbre, quelles</em>
 

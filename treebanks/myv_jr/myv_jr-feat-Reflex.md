@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Reflex` co-occurre
 `PRON` tokens may have the following values of `Reflex`:
 
 * `Yes` (85; 100% of non-empty `Reflex`): <em>сонсь, эсензэ, эсест, эстензэ, сонськак, миньсинек, монсь, тонсь, минсенек, сынстемест</em>
-* `EMPTY` (1114): <em>сон, весе, те, мон, сонзэ, тон, мезе, минь, сынь, минек</em>
+* `EMPTY` (1120): <em>сон, весе, те, мон, сонзэ, тон, мезе, минь, сынь, тензэ</em>
 
 ### `DET`
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-251 nodes (4%) are attached to their parents as `cc`.
+285 nodes (4%) are attached to their parents as `cc`.
 
-246 instances of `cc` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.92828685258964.
+280 instances of `cc` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.89824561403509.
 
-The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (145; 58% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (55; 22% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (14; 6% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (10; 4% instances), <tt><a href="el_lesbian-pos-DET.html">DET</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (8; 3% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (7; 3% instances), <tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-X.html">X</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (168; 59% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (61; 21% instances), <tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (17; 6% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (10; 4% instances), <tt><a href="el_lesbian-pos-DET.html">DET</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (10; 4% instances), <tt><a href="el_lesbian-pos-PROPN.html">PROPN</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (7; 2% instances), <tt><a href="el_lesbian-pos-NUM.html">NUM</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (5; 2% instances), <tt><a href="el_lesbian-pos-PRON.html">PRON</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances), <tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt>-<tt><a href="el_lesbian-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt>-<tt><a href="el_lesbian-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="el_lesbian-pos-X.html">X</a></tt>-<tt><a href="el_lesbian-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -28,8 +28,8 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 4	δεν	δεν	PART	_	Polarity=Neg	5	advmod	_	_
 5	ήξιρι	ξέρου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
 6	τι	τι	SCONJ	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	7	obj	_	_
-7	έλιγι	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	_
-8	.	.	PUNCT	_	_	1	punct	_	_
+7	έλιγι	λέγου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	SpaceAfter=No
+8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 
@@ -50,8 +50,8 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 8	παίζαν	παίζου	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 9	τσι	τσι	CCONJ	_	_	10	cc	_	_
 10	σιόντου	σείου	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin|Voice=Pass	8	conj	_	CorrectForm=σειόντου
-11	κόσμους	κόσμους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	_
-12	.	.	PUNCT	_	_	8	punct	_	_
+11	κόσμους	κόσμους	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+12	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 ~~~
 
@@ -67,8 +67,8 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 3	Κόπς	Κόπς	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 4	ήσυχους	ήσυχους	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	advcl	_	_
 5	τσι	τσι	CCONJ	_	_	6	cc	_	_
-6	καλουσνάτους	καλουσνάτους	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
-7	.	.	PUNCT	_	_	1	punct	_	_
+6	καλουσνάτους	καλουσνάτους	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
+7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 ~~~
 

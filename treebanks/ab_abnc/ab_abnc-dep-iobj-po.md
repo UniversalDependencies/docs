@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ab_abnc-dep-iobj.html">iobj</a></tt>.
 There are also 4 other language-specific subtypes of `iobj`: <tt><a href="ab_abnc-dep-iobj-cs.html">iobj:cs</a></tt>, <tt><a href="ab_abnc-dep-iobj-lo.html">iobj:lo</a></tt>, <tt><a href="ab_abnc-dep-iobj-poss.html">iobj:poss</a></tt>, <tt><a href="ab_abnc-dep-iobj-ro.html">iobj:ro</a></tt>.
 
-18 nodes (0%) are attached to their parents as `iobj:po`.
+21 nodes (0%) are attached to their parents as `iobj:po`.
 
-16 instances of `iobj:po` (89%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.38888888888889.
+19 instances of `iobj:po` (90%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.23809523809524.
 
-The following 4 pairs of parts of speech are connected with `iobj:po`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (8; 44% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (7; 39% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (2; 11% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 6% instances).
+The following 4 pairs of parts of speech are connected with `iobj:po`: <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PRON.html">PRON</a></tt> (10; 48% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-NOUN.html">NOUN</a></tt> (8; 38% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-PROPN.html">PROPN</a></tt> (2; 10% instances), <tt><a href="ab_abnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ab_abnc-pos-ADV.html">ADV</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 4 pairs of parts of speech are connected with `iobj:po`: <tt><a hr
 2	еиҧш	а́иҧш	ADP	PP_Poss:3SgNH	Gender[psor]=Neut|Number[psor]=Sing|Person[psor]=3	1	case	_	LMSeg:а́иҧш
 3	сара	сара́	PRON	Pron_Pers_1Sg	Number=Sing|Person=1|PronType=Prs	5	iobj:po	_	LMSeg:сара́
 4	снапы	а-напы́	NOUN	Noun_NH_Sg_Poss:1Sg	Animacy=Nhum|Number=Sing|Number[psor]=Sing|Person[psor]=1	5	nsubj	_	LMSeg:а-напы́
-5	сзаҵаҩуам	а́-ҵаҩра	VERB	V_Dyn_Tr_Fin_Pot_Pres_Neg_S:3_S:Ad_LO:3SgNH_Reln:Pot_PO:1Sg	Dyn=Yes|Gender[lo]=Neut|Mood=Ind|Number[lo]=Sing|Number[po]=Sing|Person[lo]=3|Person[po]=1|Person[subj]=3|Polarity=Neg|Reln=Pot|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:а́-ҵа·ҩ-ра|SpaceAfter=No
+5	сзаҵаҩуам	а́-ҵаҩра	VERB	V_Dyn_Tr_Fin_Pot_Pres_Neg_S:3_S:Ad_Reln:Pot_PO:1Sg_LO:SgNH	Dyn=Yes|Mood=Ind|Number[po]=Sing|Person[po]=1|Person[subj]=3|Polarity=Neg|Reln=Pot|Subcat=Tran|Tense=Pres|VerbForm=Fin	0	root	_	LMSeg:а́-ҵа·ҩ-ра|SpaceAfter=No
 6	.	.	PUNCT	Punct_Period	_	5	punct	_	LMSeg:.
 
 ~~~
@@ -60,7 +60,7 @@ The following 4 pairs of parts of speech are connected with `iobj:po`: <tt><a hr
 3	изычҳауамызт	а́-чҳара	VERB	V_Dyn_Tr_Fin_Pot_Impf_Neg_S:3_S:Ad_Reln:Pot_PO:3SgM	Dyn=Yes|Gender[po]=Masc|Mood=Ind|Number[po]=Sing|Person[po]=3|Person[subj]=3|Polarity=Neg|Reln=Pot|Subcat=Tran|Tense=Imp|VerbForm=Fin	0	root	_	LMSeg:а́-чҳа-ра|SpaceAfter=No
 4	,	,	PUNCT	Punct_Comma	_	7	punct	_	LMSeg:,
 5	игәы	а-гәы́	NOUN	Noun_NH_Sg_Poss:3SgM	Animacy=Nhum|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	LMSeg:а-гәы́
-6	ҭыҵны	а-ҭы́ҵра	VERB	V_Dyn_Intr_NonFin_Cnv_Abs_Aor_S:3_S:Ad_[LO:3SgNH]	Dyn=Yes|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=NonFin	7	advcl:conv	_	LMSeg:а-ҭы́·ҵ-ра
+6	ҭыҵны	а-ҭы́ҵра	VERB	V_Dyn_Intr_NonFin_Cnv_Abs_Aor_S:3_S:Ad	Dyn=Yes|Person[subj]=3|Subcat=Intr|Tense=Aor|VerbForm=NonFin	7	advcl:conv	_	LMSeg:а-ҭы́·ҵ-ра
 7	ицон	а-цара́	VERB	V_Dyn_Intr_Fin_Impf_S:3	Dyn=Yes|Mood=Ind|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin	3	conj	_	LMSeg:а-ца-ра́|SpaceAfter=No
 8	.	.	PUNCT	Punct_Period	_	7	punct	_	LMSeg:.
 

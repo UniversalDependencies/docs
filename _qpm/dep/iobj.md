@@ -16,4 +16,4 @@ lit: the police him took the car astinomíjena mu zǿ tumafílene
 
 give me money daj mi parý |_iobj_| →
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:59 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:12 CEST -->

@@ -13,7 +13,7 @@ The 10 most frequent `SYM` lemmas: <em>_</em>
 
 The 10 most frequent `SYM` types:  <em>%</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> 10, <tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="ps_sikaram-pos-X.html">X</a></tt> 5, <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> 2, <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="ps_sikaram-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="ps_sikaram-pos-NOUN.html">NOUN</a></tt> 21, <tt><a href="ps_sikaram-pos-ADJ.html">ADJ</a></tt> 14, <tt><a href="ps_sikaram-pos-VERB.html">VERB</a></tt> 9, <tt><a href="ps_sikaram-pos-X.html">X</a></tt> 8, <tt><a href="ps_sikaram-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="ps_sikaram-pos-ADP.html">ADP</a></tt> 2, <tt><a href="ps_sikaram-pos-NUM.html">NUM</a></tt> 2, <tt><a href="ps_sikaram-pos-PART.html">PART</a></tt> 1, <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> 1, <tt><a href="ps_sikaram-pos-SYM.html">SYM</a></tt> 1)
 
 The 10 most frequent ambiguous types:  
 
@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.274688).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.318390).
 
 The 1st highest number of forms (1) was observed with the lemma “_”: <em>%</em>.
 

@@ -43,12 +43,12 @@ The following 9 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 # visual-style 7	fgColor:white
 # visual-style 7 5 obl:agent	color:blue
 1	Han	han	PRON	PN|UTR|SIN|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	2	nsubj	2:nsubj	_
-2	anför	anföra	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	anför	anföra	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	ParsemeMWE=1:IVPC.full
 3	en	man	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	8	det	8:det	_
 4	av	av	ADP	PP	_	5	case	5:case	_
 5	regeringen	regering	NOUN	NN|UTR|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	obl:agent	7:obl:agent	_
 6	särskilt	särskilt	ADV	AB	_	7	advmod	7:advmod	_
-7	utsedd	utsedd	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	8	amod	8:amod	_
+7	utsedd	utsedd	ADJ	PC|PRF|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing|Tense=Past|VerbForm=Part	8	amod	8:amod	ParsemeMWE=2:NotMWE
 8	innertrio	innertrio	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	obj	2:obj	SpaceAfter=No
 9	.	.	PUNCT	MAD	_	2	punct	2:punct	_
 

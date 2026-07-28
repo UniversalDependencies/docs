@@ -22,4 +22,4 @@ The `ccomp:obj` relation marks an a clausal complement cross-referenced by a dir
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:26 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:47 CEST -->

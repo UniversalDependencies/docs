@@ -69,7 +69,7 @@ The following 17 pairs of parts of speech are connected with `det`: <tt><a href=
 3	caliente	caliente	ADJ	aq0cs0	Number=Sing	2	amod	_	_
 4	a	a	ADP	sps00	_	6	case	_	_
 5	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	cáustica	cáustica	ADJ	aq0fs0	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
+6	cáustica	cáustico	ADJ	aq0fs0	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
 7	.	.	PUNCT	fp	PunctType=Peri	2	punct	_	_
 
 ~~~

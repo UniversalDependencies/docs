@@ -11,3 +11,4 @@ It depends with the `aux:pass` relation on the infinitive (imperfective or perfe
 #### Examples
 ~~~ sdparse
 ~~~
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:42 CEST -->

@@ -46,7 +46,7 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 # visual-style 11 5 csubj:outer	color:blue
 1	Vad	vad	PRON	HP|NEU|SIN|IND	Definite=Ind|Number=Sing|PronType=Rel	5	obj	5:obj	_
 2	man	man	PRON	PN|UTR|SIN|IND|SUB	Case=Nom|Definite=Ind|Gender=Com|Number=Sing|PronType=Ind	5	nsubj	5:nsubj	_
-3	allmänt	allmän	ADV	AB|POS	Degree=Pos	5	advmod	5:advmod	_
+3	allmänt	allmänt	ADV	AB|POS	Degree=Pos	5	advmod	5:advmod	_
 4	kan	kunna	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	5:aux	_
 5	konstatera	konstatera	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	11	csubj:outer	11:csubj:outer	_
 6	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	11:cop	_
@@ -56,11 +56,11 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 10	två	två	NUM	RG|NOM	Case=Nom|NumType=Card	11	nummod	11:nummod	_
 11	faktorer	faktor	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	0	root	0:root	_
 12	som	som	PRON	HP|-|-|-	PronType=Rel	14	nsubj	14:nsubj	_
-13	alltid	alltid	ADV	AB	_	14	advmod	14:advmod	_
-14	haft	ha	VERB	VB|SUP|AKT	VerbForm=Sup|Voice=Act	11	acl:cleft	11:acl:cleft	_
+13	alltid	alltid	ADV	AB	_	14	advmod	14:advmod	ParsemeMWE=1:NotMWE
+14	haft	ha	VERB	VB|SUP|AKT	VerbForm=Sup|Voice=Act	11	acl:cleft	11:acl:cleft	ParsemeMWE=2:LVC.full
 15	en	en	DET	DT|UTR|SIN|IND	Definite=Ind|Gender=Com|Number=Sing|PronType=Art	17	det	17:det	_
 16	central	central	ADJ	JJ|POS|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Com|Number=Sing	17	amod	17:amod	_
-17	funktion	funktion	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	14	obj	14:obj	SpaceAfter=No
+17	funktion	funktion	NOUN	NN|UTR|SIN|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	14	obj	14:obj	SpaceAfter=No|ParsemeMWE=2
 18	:	:	PUNCT	MID	_	11	punct	11:punct	_
 19	makarnas	make	NOUN	NN|UTR|PLU|DEF|GEN	Case=Gen|Definite=Def|Gender=Com|Number=Plur	21	nmod:poss	21:nmod:poss	_
 20	frivilliga	frivillig	ADJ	JJ|POS|UTR/NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Degree=Pos	21	amod	21:amod	_
@@ -70,8 +70,8 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 24	vid	vid	ADP	PP	_	25	case	25:case	_
 25	avgivandet	avgivande	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	23	nmod	23:nmod:vid	_
 26	av	av	ADP	PP	_	29	case	29:case	_
-27	det	den	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	29	det	29:det	_
-28	här	här	ADV	AB	_	29	advmod	29:advmod	_
+27	det	den	DET	DT|NEU|SIN|DEF	Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	29	det	29:det	ParsemeMWE=3:DetID
+28	här	här	ADV	AB	_	29	advmod	29:advmod	ParsemeMWE=3
 29	samtycket	samtycke	NOUN	NN|NEU|SIN|DEF|NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	25	nmod	25:nmod:av	SpaceAfter=No
 30	.	.	PUNCT	MAD	_	11	punct	11:punct	_
 

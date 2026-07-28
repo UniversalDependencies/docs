@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_circse-dep-csubj.html">csubj</a></tt>.
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="la_circse-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-41 nodes (0%) are attached to their parents as `csubj:relcl`.
+55 nodes (0%) are attached to their parents as `csubj:relcl`.
 
-30 instances of `csubj:relcl` (73%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.97560975609756.
+40 instances of `csubj:relcl` (73%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.21818181818182.
 
-The following 8 pairs of parts of speech are connected with `csubj:relcl`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (31; 76% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 2% instances).
+The following 9 pairs of parts of speech are connected with `csubj:relcl`: <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (41; 75% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-NOUN.html">NOUN</a></tt> (2; 4% instances), <tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_circse-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-PRON.html">PRON</a></tt>-<tt><a href="la_circse-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="la_circse-pos-VERB.html">VERB</a></tt>-<tt><a href="la_circse-pos-DET.html">DET</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -34,6 +34,30 @@ The following 8 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 
 
 ~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 csubj:relcl	color:blue
+1	tela	telum	NOUN	A2	Case=Acc|Gender=Neut|InflClass=IndEurO|Number=Plur	6	obj	_	_
+2	qui	qui	PRON	J	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	4	nsubj	_	_
+3	fuerit	sum	AUX	B6	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
+4	pius	pius	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	6	csubj:relcl	_	_
+5	rogante	rogo	VERB	B1	Aspect=Imp|Case=Abl|Degree=Pos|Gender=Fem|InflClass=LatA|InflClass[nominal]=IndEurI|Number=Sing|VerbForm=Part|Voice=Act	6	advcl:abs	_	_
+6	ponat	pono	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+7	matre	mater	NOUN	A3	Case=Abl|Gender=Fem|InflClass=IndEurX|Number=Sing	5	nsubj	_	_
+8	qui	qui	PRON	J	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	11	nsubj	_	_
+9	non	non	PART	P	Polarity=Neg	11	advmod:neg	_	_
+10	est	sum	AUX	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+11	pius	pius	ADJ	C1	Case=Nom|Degree=Pos|Gender=Masc|InflClass=IndEurO|Number=Sing	12	csubj:relcl	_	_
+12	incipiat	incipio	VERB	B5	Aspect=Imp|InflClass=LatI2|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
+13	a	ab	ADP	R	AdpType=Prep	14	case	_	_
+14	me	ego	PRON	E	Case=Abl|InflClass=LatAnom|Number=Sing|Person=1|PronType=Prs	12	obl	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 1	bgColor:blue
@@ -46,31 +70,6 @@ The following 8 pairs of parts of speech are connected with `csubj:relcl`: <tt><
 5	quod	qui	PRON	J	Case=Nom|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Rel	6	nsubj:pass	_	LASLAVariant=1|LiLaflcat=p
 6	petitur	peto	VERB	B3	Aspect=Imp|InflClass=LatX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	csubj:relcl	_	LiLaflcat=v3
 7	scias	scio	VERB	B4	Aspect=Imp|InflClass=LatI|Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LiLaflcat=v4
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 5 csubj:relcl	color:blue
-1	cum	cum	SCONJ	T	PronType=Rel	2	mark	_	LASLAVariant=3|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-128_1
-2	defecere	deficio	VERB	B5	Aspect=Perf|InflClass=LatI2|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	LiLaflcat=v5|TraditionalMood=Indicativus|TraditionalTense=Perfectum|UniqueTokenId=TacGerma-Q-01-128_2
-3	qui	qui	PRON	J	Case=Nom|Gender=Masc|InflClass=LatPron|Number=Sing|PronType=Rel	5	nsubj	_	LASLAVariant=1|LiLaflcat=p|UniqueTokenId=TacGerma-Q-01-128_3
-4	modo	modo	ADV	M	AdvType=Tim	5	advmod:tmod	_	LASLAVariant=1|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-128_4
-5	hospes	hospes	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	7	csubj:relcl	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-128_5
-6	fuerat	sum	AUX	B6	Aspect=Perf|InflClass=LatAnom|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Plusquamperfectum|UniqueTokenId=TacGerma-Q-01-128_6
-7	monstrator	monstrator	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	0	root	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-128_7
-8	hospitii	hospitium	NOUN	A2	Case=Gen|Gender=Neut|InflClass=IndEurO|Number=Sing	7	nmod	_	LiLaflcat=n2|UniqueTokenId=TacGerma-Q-01-128_8
-9	et	et	CCONJ	S	_	10	cc	_	LASLAVariant=2|LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-128_9
-10	comes	comes	NOUN	A3	Case=Nom|Gender=Masc|InflClass=IndEurX|Number=Sing	7	conj	_	LiLaflcat=n3|UniqueTokenId=TacGerma-Q-01-128_10
-11	proximam	propior	ADJ	C	Case=Acc|Degree=Abs|Gender=Fem|InflClass=IndEurA|Number=Sing	12	amod	_	LiLaflcat=null|UniqueTokenId=TacGerma-Q-01-128_11
-12	domum	domus	NOUN	A6	Case=Acc|Gender=Fem|InflClass=IndEurU|Number=Sing	15	obj	_	LiLaflcat=n4|UniqueTokenId=TacGerma-Q-01-128_12
-13	non	non	PART	P	Polarity=Neg	14	advmod:neg	_	LiLaflcat=i|UniqueTokenId=TacGerma-Q-01-128_13
-14	inuitati	inuito	VERB	B1	Aspect=Perf|Case=Nom|Gender=Masc|InflClass=LatA|InflClass[nominal]=IndEurO|Number=Plur|VerbForm=Part|Voice=Pass	15	advcl:pred	_	LiLaflcat=v1|TraditionalMood=Participium|TraditionalTense=Perfectum|UniqueTokenId=TacGerma-Q-01-128_14
-15	adeunt	adeo	VERB	B6	Aspect=Imp|InflClass=LatAnom|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	LASLAVariant=1|LiLaflcat=v6|TraditionalMood=Indicativus|TraditionalTense=Praesens|UniqueTokenId=TacGerma-Q-01-128_15
 
 ~~~
 

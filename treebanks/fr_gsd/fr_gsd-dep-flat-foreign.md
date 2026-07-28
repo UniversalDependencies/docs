@@ -27,8 +27,8 @@ The following 1 pairs of parts of speech are connected with `flat:foreign`: <tt>
 2	Out	Out	X	_	Foreign=Yes	1	flat:foreign	_	InTitle=Yes|Lang=en
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-5	deuxième	deuxième	ADJ	_	Number=Sing	6	amod	_	Gender[ctxt]=Masc
-6	album	album	NOUN	_	Number=Sing	0	root	_	Gender[lex]=Masc
+5	deuxième	deuxième	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	Exponence[Gender]=Absent
+6	album	album	NOUN	_	Gender=Masc|Number=Sing	0	root	_	Exponence[Gender]=Inherent
 7	de	de	ADP	_	_	8	case	_	_
 8	Peter	Peter	X	_	Foreign=Yes	6	nmod	_	Lang=en
 9	Bjorn	Bjorn	X	_	Foreign=Yes	8	flat:foreign	_	Lang=en

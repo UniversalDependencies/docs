@@ -31,5 +31,5 @@ The impersonal subject is expressed using a verb in the third person.
 
 tba
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:02 CET -->
 
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:57 CEST -->

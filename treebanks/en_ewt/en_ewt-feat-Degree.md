@@ -11,7 +11,7 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 17786 tokens (7%) have a non-empty value of `Degree`.
 2996 types (15%) occur at least once with a non-empty value of `Degree`.
-2421 lemmas (16%) occur at least once with a non-empty value of `Degree`.
+2408 lemmas (16%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 2 part-of-speech tags: <tt><a href="en_ewt-pos-ADJ.html">ADJ</a></tt> (16789; 7% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (997; 0% instances).
 
 ### `ADJ`
@@ -31,7 +31,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="en_ewt-pos-ADJ.html
   <tr><td><tt><tt><a href="en_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td><em>bast</em></td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (2344) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (2331) occur only with one value of `Degree`.
 
 ### `ADV`
 

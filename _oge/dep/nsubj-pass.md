@@ -15,4 +15,4 @@ obl(განიბნინნეს, შთამართსა)
 det(შთამართსა, მას)
 ~~~
 
-<!-- Interlanguage links updated So 10. května 2025, 18:15:50 CEST -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:25 CEST -->

@@ -9,18 +9,18 @@ udver: '2'
 This feature is language-specific.
 It occurs with 6 different values: `ADJ`, `ADP`, `ADV`, `CCONJ`, `PRON`, `SCONJ`.
 
-447 tokens (0%) have a non-empty value of `ExtPos`.
-71 types (0%) occur at least once with a non-empty value of `ExtPos`.
+450 tokens (0%) have a non-empty value of `ExtPos`.
+72 types (0%) occur at least once with a non-empty value of `ExtPos`.
 48 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 7 part-of-speech tags: <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (325; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (109; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (7; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> (326; 0% instances), <tt><a href="et_edt-pos-PRON.html">PRON</a></tt> (109; 0% instances), <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="et_edt-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="et_edt-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="et_edt-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-325 <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+326 <tt><a href="et_edt-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADV` (142; 44% of non-empty `ExtPos`): <em>rohkem, enam, kas, vähem, ükskõik, nii, peaaegu, á, ilma, kuidas</em>
+* `ADV` (143; 44% of non-empty `ExtPos`): <em>rohkem, enam, kas, vähem, ükskõik, nii, peaaegu, tahes, á, ilma</em>
 * `CCONJ` (3; 1% of non-empty `ExtPos`): <em>nii, küll</em>
 * `SCONJ` (180; 55% of non-empty `ExtPos`): <em>nii, enne, nõnda, ainult, eriti, ilma, isegi, just, samas, samuti</em>
 
@@ -51,14 +51,14 @@ The most frequent other feature values with which `PRON` and `ExtPos` co-occurre
 
 ### `VERB`
 
-7 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
+9 <tt><a href="et_edt-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7; 100%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7; 100%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt> (6; 86%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (5; 71%).
+The most frequent other feature values with which `VERB` and `ExtPos` co-occurred: <tt><a href="et_edt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 100%), <tt><a href="et_edt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (9; 100%), <tt><a href="et_edt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9; 100%), <tt><a href="et_edt-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (9; 100%), <tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt> (7; 78%), <tt><a href="et_edt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (6; 67%).
 
 `VERB` tokens may have the following values of `ExtPos`:
 
-* `ADV` (3; 43% of non-empty `ExtPos`): <em>teab, vaata</em>
-* `SCONJ` (4; 57% of non-empty `ExtPos`): <em>olgugi</em>
+* `ADV` (5; 56% of non-empty `ExtPos`): <em>teab, vaata</em>
+* `SCONJ` (4; 44% of non-empty `ExtPos`): <em>olgugi</em>
 
 ### `NUM`
 

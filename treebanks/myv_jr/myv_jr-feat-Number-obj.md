@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="myv_jr-pos-VERB.htm
 
 ### `VERB`
 
-505 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (14% of all `VERB` tokens) have a non-empty value of `Number[obj]`.
+505 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (13% of all `VERB` tokens) have a non-empty value of `Number[obj]`.
 
 The most frequent other feature values with which `VERB` and `Number[obj]` co-occurred: <tt><a href="myv_jr-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (505; 100%), <tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (505; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=3</tt> (468; 93%), <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (452; 90%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=3</tt> (397; 79%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=Sing</tt> (379; 75%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (324; 64%).
 

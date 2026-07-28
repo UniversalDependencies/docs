@@ -9,60 +9,60 @@ udver: '2'
 This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
-74 tokens (0%) have a non-empty value of `Typo`.
-43 types (0%) occur at least once with a non-empty value of `Typo`.
-64 lemmas (0%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 8 part-of-speech tags: <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (49; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (6; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+65 tokens (0%) have a non-empty value of `Typo`.
+40 types (0%) occur at least once with a non-empty value of `Typo`.
+56 lemmas (0%) occur at least once with a non-empty value of `Typo`.
+The feature is used with 8 part-of-speech tags: <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> (43; 0% instances), <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> (7; 0% instances), <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 ### `NUM`
 
-49 <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Typo`.
+43 <tt><a href="ro_rrt-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="ro_rrt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (49; 100%), <tt><a href="ro_rrt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (46; 94%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (46; 94%).
+The most frequent other feature values with which `NUM` and `Typo` co-occurred: <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (43; 100%), <tt><a href="ro_rrt-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (43; 100%), <tt><a href="ro_rrt-feat-NumForm.html">NumForm</a></tt><tt>=Digit</tt> (40; 93%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (40; 93%).
 
 `NUM` tokens may have the following values of `Typo`:
 
-* `Yes` (49; 100% of non-empty `Typo`): <em>1, 3, 2, 100, 5, 11, 12, 15, 4, 50</em>
+* `Yes` (43; 100% of non-empty `Typo`): <em>1, 2, 3, 100, 11, 15, 5, 50, 1/5, 12</em>
 
-`Typo` seems to be **lexical feature** of `NUM`. 100% lemmas (41) occur only with one value of `Typo`.
+`Typo` seems to be **lexical feature** of `NUM`. 100% lemmas (36) occur only with one value of `Typo`.
 
 ### `ADJ`
 
-8 <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
+7 <tt><a href="ro_rrt-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (8; 100%), <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (8; 100%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (7; 88%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (5; 63%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (5; 63%).
+The most frequent other feature values with which `ADJ` and `Typo` co-occurred: <tt><a href="ro_rrt-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (7; 100%), <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (7; 100%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (7; 100%), <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 57%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Plur</tt> (4; 57%).
 
 `ADJ` tokens may have the following values of `Typo`:
 
-* `Yes` (8; 100% of non-empty `Typo`): <em>post, N-, O-, fi, ne-, propriu, sub</em>
+* `Yes` (7; 100% of non-empty `Typo`): <em>post, N-, O-, fi, propriu, sub</em>
 
 ### `NOUN`
 
-6 <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
+5 <tt><a href="ro_rrt-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4; 67%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 67%).
+The most frequent other feature values with which `NOUN` and `Typo` co-occurred: <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (3; 60%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (3; 60%).
 
 `NOUN` tokens may have the following values of `Typo`:
 
-* `Yes` (6; 100% of non-empty `Typo`): <em>A-, L-, după, soarele</em>
+* `Yes` (5; 100% of non-empty `Typo`): <em>A-, L-, după, soarele-</em>
 
 ### `PROPN`
 
-4 <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
+3 <tt><a href="ro_rrt-pos-PROPN.html">PROPN</a></tt> tokens (0% of all `PROPN` tokens) have a non-empty value of `Typo`.
 
 `PROPN` tokens may have the following values of `Typo`:
 
-* `Yes` (4; 100% of non-empty `Typo`): <em>CYP, I-, L03AA02, P450</em>
+* `Yes` (3; 100% of non-empty `Typo`): <em>I-VAMA, L03AA02, P450</em>
 
 ### `ADV`
 
-3 <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
+2 <tt><a href="ro_rrt-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3; 100%), <tt><a href="ro_rrt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `ADV` and `Typo` co-occurred: <tt><a href="ro_rrt-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2; 100%), <tt><a href="ro_rrt-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `ADV` tokens may have the following values of `Typo`:
 
-* `Yes` (3; 100% of non-empty `Typo`): <em>o, de-</em>
+* `Yes` (2; 100% of non-empty `Typo`): <em>o</em>
 
 ### `DET`
 
@@ -74,6 +74,16 @@ The most frequent other feature values with which `DET` and `Typo` co-occurred: 
 
 * `Yes` (2; 100% of non-empty `Typo`): <em>nici</em>
 
+### `PRON`
+
+2 <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
+
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (2; 100%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (2; 100%), <tt><a href="ro_rrt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ro_rrt-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2; 100%).
+
+`PRON` tokens may have the following values of `Typo`:
+
+* `Yes` (2; 100% of non-empty `Typo`): <em>ceace, nici</em>
+
 ### `ADP`
 
 1 <tt><a href="ro_rrt-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Typo`.
@@ -83,16 +93,6 @@ The most frequent other feature values with which `ADP` and `Typo` co-occurred: 
 `ADP` tokens may have the following values of `Typo`:
 
 * `Yes` (1; 100% of non-empty `Typo`): <em>în</em>
-
-### `PRON`
-
-1 <tt><a href="ro_rrt-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
-
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="ro_rrt-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (1; 100%), <tt><a href="ro_rrt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1; 100%), <tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="ro_rrt-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="ro_rrt-feat-PronType.html">PronType</a></tt><tt>=Neg</tt> (1; 100%), <tt><a href="ro_rrt-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ro_rrt-feat-Strength.html">Strength</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ro_rrt-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1; 100%).
-
-`PRON` tokens may have the following values of `Typo`:
-
-* `Yes` (1; 100% of non-empty `Typo`): <em>nici</em>
 
 ## Relations with Agreement in `Typo`
 

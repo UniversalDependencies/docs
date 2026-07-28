@@ -28,7 +28,7 @@ The following 1 pairs of parts of speech are connected with `expl:comp`: <tt><a 
 3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	_
 5	aussi	aussi	ADV	_	_	6	advmod	_	_
-6	anxieux	anxieux	ADJ	_	Gender=Masc	0	root	_	Number[ctxt]=Sing
+6	anxieux	anxieux	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Exponence[Number]=Absent
 7	qu'	que	SCONJ	_	_	10	mark	_	SpaceAfter=No
 8	il	lui	PRON	_	Case=Nom|Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	expl:subj	_	_
 9	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	10	expl:comp	_	_

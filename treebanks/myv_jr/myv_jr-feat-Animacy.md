@@ -24,7 +24,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 * `Anim` (1; 0% of non-empty `Animacy`): <em>Бертяз</em>
 * `Hum` (469; 100% of non-empty `Animacy`): <em>Микол, Ястребов, Любань, Люба, Федоров, Маря, Кирё, Кечай, Миколонь, Лапшов</em>
-* `EMPTY` (238): <em>Палько, Волчок, Пальконень, Цярданев, Бертяз, Обран, Пальконь, Юрченко, Дёбаень, Елеськань</em>
+* `EMPTY` (247): <em>Палько, Волчок, Пальконень, Цярданев, Бертяз, Обран, Пальконь, Юрченко, Дёбаень, Елеськань</em>
 
 `Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (80) occur only with one value of `Animacy`.
 
@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 * `Anim` (8; 10% of non-empty `Animacy`): <em>карводо, карвот, маравдо, мекште, промодо, псака, укскадо, унжадо</em>
 * `Hum` (73; 90% of non-empty `Animacy`): <em>атясь, ломанесь, аванть, коммунист, коммунистан, коммунистэнь, кудазоравась, ломанде, ломантне, ломантненень</em>
-* `EMPTY` (5039): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, кедензэ, кудов, прянзо, тев</em>
+* `EMPTY` (5061): <em>лангс, ёнов, лангсо, бандитэсь, партизантнэ, ланга, кедензэ, кудов, прянзо, тев</em>
 
 `Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (44) occur only with one value of `Animacy`.
 
@@ -51,7 +51,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Hum` (31; 100% of non-empty `Animacy`): <em>ки, кие, кинь, кить, киян, кият, кинень</em>
-* `EMPTY` (1168): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
+* `EMPTY` (1174): <em>сон, весе, те, мон, сонзэ, тон, мезе, сонсь, минь, сынь</em>
 
 ## Relations with Agreement in `Animacy`
 

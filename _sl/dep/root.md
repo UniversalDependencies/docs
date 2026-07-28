@@ -23,4 +23,4 @@ ROOT Večno hvaležni udeleženci prometa v Ljubljani ! \n ROOT The-ever thankfu
 root(ROOT-1,udeleženci)
 root(ROOT-10,road-users)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:40 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->

@@ -9,25 +9,29 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Long`, `Short`.
 
-26909 tokens (8%) have a non-empty value of `Variant`.
+26907 tokens (8%) have a non-empty value of `Variant`.
 106 types (0%) occur at least once with a non-empty value of `Variant`.
 22 lemmas (0%) occur at least once with a non-empty value of `Variant`.
-The feature is used with 4 part-of-speech tags: <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (19626; 6% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (5131; 1% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (2139; 1% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (13; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> (19624; 6% instances), <tt><a href="pl_pdb-pos-PRON.html">PRON</a></tt> (5131; 1% instances), <tt><a href="pl_pdb-pos-AUX.html">AUX</a></tt> (2139; 1% instances), <tt><a href="pl_pdb-pos-ADJ.html">ADJ</a></tt> (13; 0% instances).
 
 ### `ADP`
 
-19626 <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> tokens (53% of all `ADP` tokens) have a non-empty value of `Variant`.
+19624 <tt><a href="pl_pdb-pos-ADP.html">ADP</a></tt> tokens (53% of all `ADP` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `ADP` and `Variant` co-occurred: <tt><a href="pl_pdb-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (19626; 100%).
+The most frequent other feature values with which `ADP` and `Variant` co-occurred: <tt><a href="pl_pdb-feat-AdpType.html">AdpType</a></tt><tt>=Prep</tt> (19624; 100%).
 
 `ADP` tokens may have the following values of `Variant`:
 
-* `Long` (818; 4% of non-empty `Variant`): <em>ze, we, przede, ode, przeze, beze, nade, pode</em>
+* `Long` (816; 4% of non-empty `Variant`): <em>ze, we, przede, ode, przeze, beze, nade, pode</em>
 * `Short` (18808; 96% of non-empty `Variant`): <em>w, z, od, przez, przed, pod, nad, bez, poprzez, spod</em>
 
 <table>
   <tr><th>Paradigm <i>w</i></th><th><tt>Long</tt></th><th><tt>Short</tt></th></tr>
   <tr><td><tt></tt></td><td><em>we</em></td><td><em>w</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-ExtPos.html">ExtPos</a></tt><tt>=ADP</tt></tt></td><td></td><td><em>w</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-ExtPos.html">ExtPos</a></tt><tt>=ADV</tt></tt></td><td></td><td><em>w</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-ExtPos.html">ExtPos</a></tt><tt>=PART</tt></tt></td><td></td><td><em>w</em></td></tr>
+  <tr><td><tt><tt><a href="pl_pdb-feat-ExtPos.html">ExtPos</a></tt><tt>=SCONJ</tt></tt></td><td></td><td><em>w</em></td></tr>
 </table>
 
 ### `PRON`

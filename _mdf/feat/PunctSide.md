@@ -23,4 +23,4 @@ udver: '2'
 * [mdf] _)_ 
 * [mdf] _]_ 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:44 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:15 CEST -->

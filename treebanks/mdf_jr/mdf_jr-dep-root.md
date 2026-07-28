@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-476 nodes (11%) are attached to their parents as `root`.
+490 nodes (11%) are attached to their parents as `root`.
 
-476 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.53361344537815.
+490 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.5530612244898.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (395; 83% instances), -<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (33; 7% instances), -<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (28; 6% instances), -<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (9; 2% instances), -<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (8; 2% instances), -<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), -<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="mdf_jr-pos-VERB.html">VERB</a></tt> (407; 83% instances), -<tt><a href="mdf_jr-pos-ADJ.html">ADJ</a></tt> (34; 7% instances), -<tt><a href="mdf_jr-pos-NOUN.html">NOUN</a></tt> (29; 6% instances), -<tt><a href="mdf_jr-pos-PRON.html">PRON</a></tt> (9; 2% instances), -<tt><a href="mdf_jr-pos-ADV.html">ADV</a></tt> (8; 2% instances), -<tt><a href="mdf_jr-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), -<tt><a href="mdf_jr-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -8,30 +8,34 @@ udver: '2'
 
 This relation is universal.
 
-291 nodes (1%) are attached to their parents as `iobj`.
+316 nodes (1%) are attached to their parents as `iobj`.
 
-269 instances of `iobj` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.4639175257732.
+294 instances of `iobj` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.49683544303797.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (286; 98% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="pro_corag-pos-VERB.html">VERB</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (311; 98% instances), <tt><a href="pro_corag-pos-ADJ.html">ADJ</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="pro_corag-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pro_corag-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 iobj	color:blue
-1	et	_	CCONJ	_	_	6	cc	_	_
-2	la	_	DET	_	_	3	det	_	_
-3	cort	_	NOUN	_	_	6	nsubj	_	_
-4	lo-	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
-5	-n	_	PRON	_	PronType=Prs	6	obl	_	_
-6	dara	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-7	per	_	ADP	_	_	9	case	_	_
-8	nau	_	NUM	_	_	9	nummod	_	_
-9	dies	_	NOUN	_	_	6	obl	_	SpaceAfter=No
-10	.	_	PUNCT	_	_	6	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 iobj	color:blue
+1	et	_	CCONJ	_	_	9	cc	_	_
+2	lo	_	DET	_	_	3	det	_	_
+3	senhor	_	NOUN	_	_	9	nsubj	_	_
+4	de	_	ADP	_	_	6	case	_	_
+5	l'	_	DET	_	_	6	det	_	SpaceAfter=No
+6	omi	_	NOUN	_	_	3	nmod	_	_
+7	que-	_	SCONJ	_	_	9	mark	_	_
+8	-u	_	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	iobj	_	_
+9	fasse	_	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+10	pagar	_	VERB	_	VerbForm=Inf	9	xcomp	_	_
+11	la	_	DET	_	_	12	det	_	_
+12	ley	_	NOUN	_	_	10	obj	_	_
+13	degude	_	ADJ	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	amod	_	SpaceAfter=No
+14	.	_	PUNCT	_	_	9	punct	_	_
 
 ~~~
 
@@ -120,7 +124,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 42	lor	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	39	obl	_	_
 43	et	_	CCONJ	_	_	47	cc	_	_
 44	que	_	SCONJ	_	_	47	mark	_	_
-45	no	_	ADV	_	_	47	advmod	_	_
+45	no	_	ADV	_	Polarity=Neg	47	advmod	_	_
 46	los	_	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	47	iobj	_	_
 47	fara	_	VERB	_	Number=Sing|Person=3|VerbForm=Fin	36	conj	_	_
 48	prejudici	_	NOUN	_	_	47	obj	_	SpaceAfter=No

@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-13874 tokens (58%) have a non-empty value of `Number`.
-2986 types (71%) occur at least once with a non-empty value of `Number`.
-2422 lemmas (67%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3830; 16% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3746; 16% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1603; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1584; 7% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1448; 6% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (986; 4% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (674; 3% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (3; 0% instances).
+13729 tokens (57%) have a non-empty value of `Number`.
+2928 types (69%) occur at least once with a non-empty value of `Number`.
+2368 lemmas (65%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (3831; 16% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (3765; 16% instances), <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1603; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (1584; 7% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1450; 6% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (822; 3% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (674; 3% instances).
 
 ### `DET`
 
-3830 <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+3831 <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3152; 82%), <tt><a href="fr_fqb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2777; 73%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3152; 82%), <tt><a href="fr_fqb-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2777; 72%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (481; 13% of non-empty `Number`): <em>les, des, mes, quelles, de, ses, quels, vos, ces, d'</em>
+* `Plur` (482; 13% of non-empty `Number`): <em>les, des, mes, quelles, de, ses, quels, vos, d', ces</em>
 * `Sing` (3349; 87% of non-empty `Number`): <em>le, la, l', quelle, quel, un, une, mon, sa, ma</em>
 * `EMPTY` (1): <em>quelqu'</em>
 
@@ -36,15 +36,15 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `NOUN`
 
-3746 <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> tokens (92% of all `NOUN` tokens) have a non-empty value of `Number`.
+3765 <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> tokens (93% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1970; 53%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1986; 53%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (515; 14% of non-empty `Number`): <em>enfants, gens, habitants, impôts, lettres, pièces, revenus, Nations, années, automobiles</em>
-* `Sing` (3231; 86% of non-empty `Number`): <em>nom, année, ville, aide, président, état, lieu, espace, logement, film</em>
-* `EMPTY` (305): <em>pays, prix, corps, temps, CNN, taux, avis, CPR, mois, cas</em>
+* `Plur` (516; 14% of non-empty `Number`): <em>enfants, gens, habitants, impôts, lettres, pièces, revenus, Nations, années, automobiles</em>
+* `Sing` (3249; 86% of non-empty `Number`): <em>nom, année, ville, aide, président, état, lieu, espace, logement, film</em>
+* `EMPTY` (289): <em>pays, prix, corps, temps, CNN, taux, avis, CPR, mois, fils</em>
 
 <table>
   <tr><th>Paradigm <i>nom</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -97,13 +97,13 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `ADJ`
 
-1448 <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Number`.
+1450 <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> tokens (96% of all `ADJ` tokens) have a non-empty value of `Number`.
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (159; 11% of non-empty `Number`): <em>Quels, quelles, américains, olympiques, touristiques, Unies, acides, généraux, militaires, solaires</em>
-* `Sing` (1289; 89% of non-empty `Number`): <em>quel, quelle, premier, première, célèbre, américain, grand, autre, américaine, islamique</em>
-* `EMPTY` (63): <em>anglais, calleux, japonais, vieux, français, Junior, chinois, 19e, B1, II</em>
+* `Plur` (160; 11% of non-empty `Number`): <em>Quels, quelles, américains, olympiques, touristiques, Unies, acides, généraux, militaires, solaires</em>
+* `Sing` (1290; 89% of non-empty `Number`): <em>quel, quelle, premier, première, célèbre, américain, grand, autre, américaine, islamique</em>
+* `EMPTY` (62): <em>anglais, calleux, japonais, vieux, français, Junior, chinois, 19e, B1, II</em>
 
 <table>
   <tr><th>Paradigm <i>quel</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -113,17 +113,17 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PROPN`
 
-986 <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> tokens (47% of all `PROPN` tokens) have a non-empty value of `Number`.
+822 <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> tokens (39% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (673; 68%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (539; 66%).
 
 `PROPN` tokens may have the following values of `Number`:
 
 * `Plur` (11; 1% of non-empty `Number`): <em>Philippines, Alpes, Bahamas, Fidji, Pays-Bas, Pyrénées</em>
-* `Sing` (975; 99% of non-empty `Number`): <em>Californie, Logan, Alaska, John, San, York, Charles, Kentucky, Marley, Australie</em>
-* `EMPTY` (1100): <em>États-Unis, New, Terre, Soleil, Nobel, Lune, Titanic, Angeles, Bowl, C.</em>
+* `Sing` (811; 99% of non-empty `Number`): <em>Californie, Logan, Alaska, John, Kentucky, San, Australie, Japon, Mississippi, Angleterre</em>
+* `EMPTY` (1264): <em>États-Unis, New, Terre, York, Soleil, Nobel, Lune, Titanic, Angeles, Bowl</em>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (501) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (433) occur only with one value of `Number`.
 
 ### `PRON`
 
@@ -135,32 +135,21 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Plur` (65; 10% of non-empty `Number`): <em>-ils, vous, -elles, -vous, les, ceux, elles, eux, lesquelles, nous</em>
 * `Sing` (609; 90% of non-empty `Number`): <em>-t-il, -il, -je, -t-elle, je, -t-on, -elle, -on, j', il</em>
-* `EMPTY` (984): <em>qui, qu', -ce, se, que, s', y, quoi, dont, Quels</em>
+* `EMPTY` (980): <em>qui, qu', -ce, se, que, s', y, quoi, dont, Quels</em>
 
 <table>
-  <tr><th>Paradigm <i>il</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>-t-il, -il, il</em></td><td><em>-ils</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>-t-elle, -elle, elle</em></td><td><em>-elles, elles</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>-je, je, j'</em></td><td><em>nous</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>vous, -vous</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td><em>-t-on, -on, on</em></td><td></td></tr>
+  <tr><th>Paradigm <i>lui</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>-t-il, -il, il, le</em></td><td><em>-ils, eux</em></td></tr>
+  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>-t-elle, -elle, elle</em></td><td><em>-elles, elles</em></td></tr>
+  <tr><td><tt></tt></td><td><em>l'</em></td><td><em>les</em></td></tr>
 </table>
-
-### `ADP`
-
-3 <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Number`.
-
-`ADP` tokens may have the following values of `Number`:
-
-* `Sing` (3; 100% of non-empty `Number`): <em>de</em>
-* `EMPTY` (2866): <em>de, à, d', en, dans, pour, sur, par, sous, comme</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="fr_fqb-dep-det.html">det</a></tt>]--> DET</tt> (2975; 93%),
+<tt>NOUN --[<tt><a href="fr_fqb-dep-det.html">det</a></tt>]--> DET</tt> (2983; 93%),
 <tt>NOUN --[<tt><a href="fr_fqb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (826; 91%),
-<tt>NOUN --[<tt><a href="fr_fqb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (769; 72%),
+<tt>NOUN --[<tt><a href="fr_fqb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (780; 72%),
 <tt>ADJ --[<tt><a href="fr_fqb-dep-cop.html">cop</a></tt>]--> AUX</tt> (545; 100%),
 <tt>ADJ --[<tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (499; 95%),
 <tt>VERB --[<tt><a href="fr_fqb-dep-aux-tense.html">aux:tense</a></tt>]--> AUX</tt> (443; 89%),

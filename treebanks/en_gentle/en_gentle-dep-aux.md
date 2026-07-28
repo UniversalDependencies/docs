@@ -43,12 +43,12 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 8 aux	color:blue
-1	After	after	SCONJ	IN	_	2	mark	2:mark	Discourse=context-circumstance:78->79:0:dm-after-480-_|PDTB=Explicit:Temporal.Asynchronous.Succession:after:480:485-491:481-484;NoRel:NoRel:_:_:452-479:480-491
+1	After	after	SCONJ	IN	_	2	mark	2:mark	Discourse=context-circumstance:78->79:0:dm-after-480-gold+syn-pres-481-_|PDTB=Explicit:Temporal.Asynchronous.Succession:after:480:485-491:481-484;NoRel:NoRel:_:_:452-479:480-491
 2	completing	complete	VERB	VBG	Tense=Pres|VerbForm=Part	10	advcl	10:advcl:after	MSeg=complet-ing
 3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	Entity=(1-abstract-giv:act-sssss-cf1*-2-coref
 4	course	course	NOUN	NN	Number=Sing	2	obj	2:obj	Entity=1)|SpaceAfter=No
 5	,	,	PUNCT	,	_	2	punct	2:punct	_
-6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Discourse=organization-preparation:79->80:2:_|Entity=(120-person-new-nnnnn-cf2-2-coref
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	7:det	Bridge=1<120:entity-associative|Discourse=organization-preparation:79->80:2:grf-col-491-_|Entity=(120-person-acc:inf-nnnnn-cf2-2-coref
 7	student	student	NOUN	NN	Number=Sing	10	nsubj	10:nsubj	Entity=120)|MSeg=stud-ent
 8	will	will	AUX	MD	VerbForm=Fin	10	aux	10:aux	_
 9	be	be	AUX	VB	VerbForm=Inf	10	cop	10:cop	_
@@ -72,7 +72,7 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	Entity=(114-time-giv:act-nnnnn-cf1-3-pred
 6	good	good	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
 7	time	time	NOUN	NN	Number=Sing	0	root	0:root	_
-8	to	to	PART	TO	_	9	mark	9:mark	Discourse=purpose-attribute:83->82:0:_
+8	to	to	PART	TO	_	9	mark	9:mark	Discourse=purpose-attribute:83->82:0:syn-mdf-388-_+syn-inf-389-_
 9	meet	meet	VERB	VB	VerbForm=Inf	7	acl	7:acl:to	Entity=114)|SpaceAfter=No
 10	.	.	PUNCT	.	_	7	punct	7:punct	XML=</hi>
 

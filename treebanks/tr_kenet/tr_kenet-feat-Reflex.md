@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-558 tokens (0%) have a non-empty value of `Reflex`.
+560 tokens (0%) have a non-empty value of `Reflex`.
 46 types (0%) occur at least once with a non-empty value of `Reflex`.
 1 lemmas (0%) occur at least once with a non-empty value of `Reflex`.
-The feature is used with 1 part-of-speech tags: <tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt> (558; 0% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt> (560; 0% instances).
 
 ### `PRON`
 
-558 <tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt> tokens (11% of all `PRON` tokens) have a non-empty value of `Reflex`.
+560 <tt><a href="tr_kenet-pos-PRON.html">PRON</a></tt> tokens (11% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="tr_kenet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (558; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="tr_kenet-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (560; 100%), <tt><a href="tr_kenet-feat-Number.html">Number</a></tt><tt>=Sing</tt> (503; 90%), <tt><a href="tr_kenet-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt> (503; 90%), <tt><a href="tr_kenet-feat-Person.html">Person</a></tt><tt>=3</tt> (468; 84%), <tt><a href="tr_kenet-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt> (468; 84%).
 
 `PRON` tokens may have the following values of `Reflex`:
 
-* `Yes` (558; 100% of non-empty `Reflex`): <em>kendi, kendini, kendisine, kendimi, kendine, kendisini, kendisi, kendilerini, kendime, kendisinden</em>
-* `EMPTY` (4431): <em>ben, bu, o, onun, onu, bana, sen, ona, beni, benim</em>
+* `Yes` (560; 100% of non-empty `Reflex`): <em>kendi, kendini, kendisine, kendimi, kendine, kendisini, kendisi, kendilerini, kendime, kendisinden</em>
+* `EMPTY` (4591): <em>ben, bu, o, onun, bana, onu, ona, sen, beni, benim</em>
 
 ## Relations with Agreement in `Reflex`
 

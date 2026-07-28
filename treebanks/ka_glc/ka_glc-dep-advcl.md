@@ -25,7 +25,7 @@ The following 19 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	მხოლოდ	მხოლოდ	ADV	Adv	AdvType=Man	4	advmod	_	Translit=mxolod
 2	მეშვიდე	შვიდი	NUM	Num	Case=Dat|NumType=Ord	3	nummod	_	Translit=mešvide
 3	დღეს	დღე	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	4	obl	_	Translit=dġes
-4	შეთანხმდნენ	თანხმდება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=šetʻanxmdnen
+4	შეთანხმდნენ	ითანხმებს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No|Translit=šetʻanxmdnen
 5	,	,	PUNCT	F	PunctType=Comm	4	punct	_	Translit=,
 6	რომ	რომ	SCONJ	Conj	_	9	mark	_	Translit=rom
 7	მე	მე	PRON	Pron	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Translit=me
@@ -45,7 +45,7 @@ The following 19 pairs of parts of speech are connected with `advcl`: <tt><a hre
 1	ყოველი	ყოველი	PRON	Pron	Case=Nom|Number=Sing|PronType=Tot	3	det	_	Translit=qoveli
 2	ფიზიკური	ფიზიკური	ADJ	Adj	Case=Nom|Number=Sing	3	amod	_	Translit=pʻizikuri
 3	მოვლენა	მოვლენა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj	_	Translit=movlena
-4	განიხილებოდა	იხილება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ganixileboda
+4	განიხილებოდა	განიხილავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Translit=ganixileboda
 5	როგორც	როგორც	SCONJ	Conj	_	10	mark	_	Translit=rogorcʻ
 6	ნაწილაკების	ნაწილაკი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	7	nmod	_	Translit=nacilakebis
 7	ურთიერთქმედებისა	ურთიერთქმედება	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	10	nmod	_	Translit=urtʻiertʻkʻmedebisa
@@ -74,7 +74,7 @@ The following 19 pairs of parts of speech are connected with `advcl`: <tt><a hre
 9	ადგილი	ადგილი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	12	obj	_	Translit=adgili
 10	ელექტრომაგნიტური	ელექტრომაგნიტური	ADJ	Adj	Case=Nom|Number=Sing	11	amod	_	Translit=elekʻtromagnituri
 11	ველი	ველი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	8	obj	_	Translit=veli
-12	ეწოდება	ეწოდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ecodeba
+12	ეწოდება	უწოდებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ecodeba
 13	.	.	PUNCT	F	PunctType=Peri	12	punct	_	Translit=.
 
 ~~~

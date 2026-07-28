@@ -32,7 +32,7 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 8	როგორც	როგორც	SCONJ	Conj	_	9	mark	_	Translit=rogorcʻ
 9	წესი	წესი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	11	parataxis	_	SpaceAfter=No|Translit=cesi
 10	,	,	PUNCT	F	PunctType=Comm	11	punct	_	Translit=,
-11	უკავშირდება	კავშირდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	Translit=ukavširdeba
+11	უკავშირდება	აკავშირებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[io]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	Translit=ukavširdeba
 12	სიყვარულის	სიყვარული	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	17	nmod	_	SpaceAfter=No|Translit=siqvarulis
 13	,	,	PUNCT	F	PunctType=Comm	14	punct	_	Translit=,
 14	გრძნობების	გრძნობა	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Plur	12	conj	_	Translit=grżnobebis
@@ -64,7 +64,7 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 12	განმავლობა	განმავლობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obl	_	Translit=ganmavloba
 13	ში	ში	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ši
 14	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj:pass	_	Translit=igi
-15	ვითარდებოდა	ვითარდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Pass	7	advcl	_	SpaceAfter=No|Translit=vitʻardeboda
+15	ვითარდებოდა	ავითარებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	7	advcl	_	SpaceAfter=No|Translit=vitʻardeboda
 16	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
 17	როგორც	როგორც	SCONJ	Conj	_	22	mark	_	Translit=rogorcʻ
 18	სხვა	სხვა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	19	det	_	Translit=sxva
@@ -97,7 +97,7 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 12	განმავლობა	განმავლობა	NOUN	Noun	Animacy=Inan|Case=Dat|Number=Sing	15	obl	_	Translit=ganmavloba
 13	ში	ში	ADP	Post	AdpType=Post|Case=Dat	12	case	_	Translit=ši
 14	იგი	იგი	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj:pass	_	Translit=igi
-15	ვითარდებოდა	ვითარდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Pass	7	advcl	_	SpaceAfter=No|Translit=vitʻardeboda
+15	ვითარდებოდა	ავითარებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Pass	7	advcl	_	SpaceAfter=No|Translit=vitʻardeboda
 16	,	,	PUNCT	F	PunctType=Comm	22	punct	_	Translit=,
 17	როგორც	როგორც	SCONJ	Conj	_	22	mark	_	Translit=rogorcʻ
 18	სხვა	სხვა	PRON	Pron	Case=Gen|Number=Sing|PronType=Tot	19	det	_	Translit=sxva

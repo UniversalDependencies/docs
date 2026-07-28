@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>ist</em> (<tt><a href="de_gsd-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 8.800000 (the average of all parts of speech is 1.193322).
+The form / lemma ratio of `AUX` is 8.800000 (the average of all parts of speech is 1.193374).
 
 The 1st highest number of forms (15) was observed with the lemma “sein”: <em>bin, bist, gewesen, is, ist, sei, seid, seien, sein, seyn, sind, war, waren, wäre, wären</em>.
 
@@ -73,7 +73,7 @@ Examples: <em>ist, hat, kann, wird, soll, muss, will, muß, darf, mag</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 14 different relations: <tt><a href="de_gsd-dep-cop.html">cop</a></tt> (3903; 37% instances), <tt><a href="de_gsd-dep-aux-pass.html">aux:pass</a></tt> (3422; 32% instances), <tt><a href="de_gsd-dep-aux.html">aux</a></tt> (3283; 31% instances), <tt><a href="de_gsd-dep-root.html">root</a></tt> (30; 0% instances), <tt><a href="de_gsd-dep-conj.html">conj</a></tt> (15; 0% instances), <tt><a href="de_gsd-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-reparandum.html">reparandum</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 14 different relations: <tt><a href="de_gsd-dep-cop.html">cop</a></tt> (3903; 37% instances), <tt><a href="de_gsd-dep-aux-pass.html">aux:pass</a></tt> (3422; 32% instances), <tt><a href="de_gsd-dep-aux.html">aux</a></tt> (3283; 31% instances), <tt><a href="de_gsd-dep-root.html">root</a></tt> (30; 0% instances), <tt><a href="de_gsd-dep-conj.html">conj</a></tt> (15; 0% instances), <tt><a href="de_gsd-dep-acl-relcl.html">acl:relcl</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-dep.html">dep</a></tt> (2; 0% instances), <tt><a href="de_gsd-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-appos.html">appos</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-reparandum.html">reparandum</a></tt> (1; 0% instances), <tt><a href="de_gsd-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
 Parents of `AUX` nodes belong to 12 different parts of speech: <tt><a href="de_gsd-pos-VERB.html">VERB</a></tt> (6655; 62% instances), <tt><a href="de_gsd-pos-ADJ.html">ADJ</a></tt> (1981; 19% instances), <tt><a href="de_gsd-pos-NOUN.html">NOUN</a></tt> (1726; 16% instances), <tt><a href="de_gsd-pos-PROPN.html">PROPN</a></tt> (151; 1% instances), <tt><a href="de_gsd-pos-DET.html">DET</a></tt> (52; 0% instances),  (30; 0% instances), <tt><a href="de_gsd-pos-ADV.html">ADV</a></tt> (18; 0% instances), <tt><a href="de_gsd-pos-AUX.html">AUX</a></tt> (14; 0% instances), <tt><a href="de_gsd-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="de_gsd-pos-PRON.html">PRON</a></tt> (11; 0% instances), <tt><a href="de_gsd-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="de_gsd-pos-X.html">X</a></tt> (6; 0% instances)
 

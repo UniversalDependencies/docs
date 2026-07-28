@@ -26,9 +26,14 @@ reparandum(building, build-)
 3. the speaker repeats the same word several times, e.g.,
 
 ~~~ sdparse
-Aš kalbėjau ir 1 ir 2 ir 3 mane pertraukė. \n I was-speaking and 1 and 2 and 3 I was-interrupted.
-reparandum(ir 3 , ir 2 ir 2 )
-reparandum(and 3 , and 1 and 2 )
+Aš kalbėjau ir ir ir mane pertraukė . \n I was-speaking and and and I was-interrupted .
+conj(pertraukė, ir-5)
+reparandum(ir-5, ir-3)
+reparandum(ir-5, ir-4)
+conj(was-interrupted, and-14)
+reparandum(and-14, and-12)
+reparandum(and-14, and-13)
 ~~~
 
 The correct word is the head. The dependency points from the correct word (the one corrected to) to the erroneous word. The erroneous word may be either full or partial.
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:43 CEST -->

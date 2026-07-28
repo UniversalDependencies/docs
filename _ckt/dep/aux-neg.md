@@ -43,4 +43,4 @@ aux:neg(аварде, иля)
 aux:neg(саво, эзь)
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:19 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:42 CEST -->

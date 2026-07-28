@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Catalan-AnCora: Relations: `aux`
 
 This relation is universal.
+There are 1 language-specific subtypes of `aux`: <tt><a href="ca_ancora-dep-aux-pass.html">aux:pass</a></tt>.
 
-16750 nodes (3%) are attached to their parents as `aux`.
+16749 nodes (3%) are attached to their parents as `aux`.
 
-16519 instances of `aux` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.28477611940298.
+16520 instances of `aux` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.28318108543794.
 
-The following 11 pairs of parts of speech are connected with `aux`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (15930; 95% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (365; 2% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (277; 2% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (48; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (41; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (31; 0% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (21; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (2; 0% instances).
+The following 11 pairs of parts of speech are connected with `aux`: <tt><a href="ca_ancora-pos-VERB.html">VERB</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (15927; 95% instances), <tt><a href="ca_ancora-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (367; 2% instances), <tt><a href="ca_ancora-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (277; 2% instances), <tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (48; 0% instances), <tt><a href="ca_ancora-pos-PRON.html">PRON</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (41; 0% instances), <tt><a href="ca_ancora-pos-NUM.html">NUM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (31; 0% instances), <tt><a href="ca_ancora-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (21; 0% instances), <tt><a href="ca_ancora-pos-ADV.html">ADV</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="ca_ancora-pos-DET.html">DET</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (12; 0% instances), <tt><a href="ca_ancora-pos-SYM.html">SYM</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (10; 0% instances), <tt><a href="ca_ancora-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ca_ancora-pos-AUX.html">AUX</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +29,7 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 4	,	,	PUNCT	fc	PunctType=Comm	3	punct	3:punct	_
 5	algunes	algun	PRON	pi0fp000	Gender=Fem|Number=Plur|PronType=Ind	9	nsubj	9:nsubj	ArgTem=arg1:pat
 6	no	no	ADV	rn	Polarity=Neg	9	advmod	9:advmod	_
-7	s'	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	obj	9:obj	SpaceAfter=No
+7	s'	ell	PRON	p0000000	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:impers	9:expl:impers	SpaceAfter=No
 8	han	haver	AUX	vaip3p0	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	9:aux	_
 9	obert	obrir	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
 10	a	a	ADP	spcms	_	12	case	12:case	_
@@ -45,9 +46,9 @@ The following 11 pairs of parts of speech are connected with `aux`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 aux	color:blue
-1	De	de	ADP	rg	ExtPos=ADV	8	advmod	8:advmod	MWE=De_fet|MWEPOS=ADV
-2	fet	fet	NOUN	_	_	1	fixed	1:fixed	SpaceAfter=No
-3	,	,	PUNCT	fc	PunctType=Comm	1	punct	1:punct	_
+1	De	de	ADP	rg	ExtPos=ADV	2	case	2:case	MWE=De_fet|MWEPOS=ADV
+2	fet	fet	NOUN	_	_	8	obl	8:obl	SpaceAfter=No
+3	,	,	PUNCT	fc	PunctType=Comm	2	punct	2:punct	_
 4	en	en	PRON	pp3cn000	Case=Gen|Person=3|PronType=Prs	8	nsubj	8:nsubj	ArgTem=arg2:atr|Entity=(CESSCATA2001031527617c4--1-CorefType:ident,gstype:gen)
 5	va	anar	AUX	vaip3s0	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	8:aux	_
 6	ser	ser	AUX	vsn0000	VerbForm=Inf	8	cop	8:cop	_

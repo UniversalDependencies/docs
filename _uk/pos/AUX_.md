@@ -11,4 +11,4 @@ udver: '2'
 ### Definition
 
 The only auxiliary verb in Ukrainian is _бути_ “to be”. It accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:46 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:34 CEST -->

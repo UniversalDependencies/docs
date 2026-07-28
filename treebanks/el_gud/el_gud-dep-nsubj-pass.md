@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="el_gud-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="el_gud-dep-nsubj-outer.html">nsubj:outer</a></tt>.
 
-65 nodes (0%) are attached to their parents as `nsubj:pass`.
+67 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-39 instances of `nsubj:pass` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.2.
+41 instances of `nsubj:pass` (61%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.17910447761194.
 
-The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (40; 62% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (11; 17% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-DET.html">DET</a></tt> (8; 12% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (5; 8% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
+The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-NOUN.html">NOUN</a></tt> (41; 61% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PROPN.html">PROPN</a></tt> (11; 16% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-DET.html">DET</a></tt> (9; 13% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-PRON.html">PRON</a></tt> (4; 6% instances), <tt><a href="el_gud-pos-VERB.html">VERB</a></tt>-<tt><a href="el_gud-pos-ADJ.html">ADJ</a></tt> (2; 3% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 4	απογοητεύτηκε	απογοητεύω	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	11	advcl	_	_
 5	από	από	ADP	_	_	7	case	_	_
 6	την	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-7	είδηση	είδηση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obl:agent	_	_
+7	είδηση	είδηση	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obl:agent	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	4	punct	_	PunctType=Comm
 9	δεν	δεν	PART	_	Polarity=Neg	11	advmod	_	_
 10	το	εγώ	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
@@ -62,7 +62,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 nsubj:pass	color:blue
-1	«	«	PUNCT	_	_	3	punct	_	PunctType=Quot
+1	«	«	PUNCT	_	_	3	punct	_	PunctType=Quot|SpaceAfter=No
 2	Αυτό	εγώ	DET	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	3	nsubj:pass	_	_
 3	γίνεται	γίνομαι	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 4	δυο	δύο	NUM	_	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	7	nummod	_	_
@@ -70,7 +70,7 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 6	τρεις	τρεις	NUM	_	Case=Acc|Gender=Fem|Number=Plur|NumType=Card	7	nummod	_	_
 7	φορές	φορά	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	obl	_	_
 8	τη	ο	DET	_	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	μέρα	μέρα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	_
+9	μέρα	μέρα	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
 10	»	»	PUNCT	_	_	3	punct	_	PunctType=Quot|SpaceAfter=No
 11	.	.	PUNCT	_	_	3	punct	_	PunctType=Peri
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-47 nodes (1%) are attached to their parents as `xcomp`.
+63 nodes (1%) are attached to their parents as `xcomp`.
 
-43 instances of `xcomp` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.29787234042553.
+55 instances of `xcomp` (87%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.20634920634921.
 
-The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (29; 62% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (11; 23% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (7; 15% instances).
+The following 4 pairs of parts of speech are connected with `xcomp`: <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt> (36; 57% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-NOUN.html">NOUN</a></tt> (16; 25% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-ADJ.html">ADJ</a></tt> (10; 16% instances), <tt><a href="el_lesbian-pos-VERB.html">VERB</a></tt>-<tt><a href="el_lesbian-pos-PART.html">PART</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 3	κοντολόγα	κουντουλουγώ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	νά	να	SCONJ	_	Typo=Yes	5	mark	_	CorrectForm=να
 5	βγει	βγαίνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	3	xcomp	_	_
-6	.	.	PUNCT	_	_	3	punct	_	_
+6	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 ~~~
 
@@ -48,8 +48,8 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 8	πάγ’	πγαίνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	xcomp	_	_
 9	σ	σι	ADP	_	_	11	case	_	_
 10	τουν	η	DET	_	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	απόπατου	απόπατους	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	_
-12	.	.	PUNCT	_	_	2	punct	_	_
+11	απόπατου	απόπατους	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 ~~~
 
@@ -68,8 +68,8 @@ The following 3 pairs of parts of speech are connected with `xcomp`: <tt><a href
 6	πληρώσουμε	πληρώνου	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	3	advcl	_	_
 7	τα	η	DET	_	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	8	det	_	_
 8	καμώματα	κάμουμα	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	_
-9	σ’	μ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	8	nmod	_	_
-10	.	.	PUNCT	_	_	3	punct	_	_
+9	σ’	ιγώ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 ~~~
 

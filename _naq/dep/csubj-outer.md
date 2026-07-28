@@ -24,4 +24,4 @@ obj(see-15, back_of_head)
 mark(see-15, NMLZ.OBL)
 mark(see-15, .-17)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:40 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:57 CEST -->

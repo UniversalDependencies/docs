@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="olo_kkpp-pos-PRON.h
 
 2 <tt><a href="olo_kkpp-pos-PRON.html">PRON</a></tt> tokens (2% of all `PRON` tokens) have a non-empty value of `Reflex`.
 
-The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="olo_kkpp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 100%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="olo_kkpp-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Reflex` co-occurred: <tt><a href="olo_kkpp-feat-Case.html">Case</a></tt><tt>=Nom</tt> (2; 100%), <tt><a href="olo_kkpp-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="olo_kkpp-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="olo_kkpp-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Reflex`:
 

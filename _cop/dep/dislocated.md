@@ -42,4 +42,4 @@ nsubj(ⲥⲱⲧⲙ, ϥ)
 In this example, a duplicate subject appears, which is coreferent with the pronoun ϥ ‘he’ (the lexical head 'devil' = 'he'). The lexical phrase is mediated by ⲛϭⲓ ‘namely, that is’, which is considered to be a case marker, like a preposition (but with nominative case - it can only mark extraposed subjects). 
 
 If a nominal subject or object is mentioned **before** an auxiliary and is then referred to by a pronoun in the verbal complex (e.g. ⲡⲣⲱⲙⲉ ⲁϥⲥⲱⲧⲙ ‘the man, he heard’), the pronoun is always treated as the subject or object, and the preceding noun is attached to the verb as `dislocated`. 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:50 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:05 CEST -->

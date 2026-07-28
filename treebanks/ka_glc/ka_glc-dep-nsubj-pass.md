@@ -26,7 +26,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 1	ნეოლითის	ნეოლითი	NOUN	Noun	Animacy=Inan|Case=Gen|Number=Sing	2	nmod	_	Translit=neolitʻis
 2	ხანი	ხანი	NOUN	Noun	Animacy=Inan|Case=Ins|Number=Sing	4	obl	_	Translit=xani
 3	დან	დან	ADP	Post	AdpType=Post|Case=Ins	2	case	_	Translit=dan
-4	აღინიშნება	ინიშნება	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Translit=aġinišneba
+4	აღინიშნება	აღნიშნავს	VERB	Verb	Aspect=Perf|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Translit=aġinišneba
 5	ადამიანის	ადამიანი	NOUN	Noun	Animacy=Anim|Case=Gen|Number=Sing	6	nmod	_	Translit=adamianis
 6	არსებობა	არსებობა	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	4	nsubj:pass	_	Translit=arseboba
 7	კავკასია	კავკასია	PROPN	Prop	Case=Dat|NameType=Geo|Number=Sing	4	obl	_	Translit=kavkasia
@@ -73,7 +73,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 12	,	,	PUNCT	F	PunctType=Comm	1	punct	_	Translit=,
 13	ნეიტრალური	ნეიტრალური	ADJ	Adj	Case=Nom|Number=Sing	14	amod	_	Translit=neitraluri
 14	ხსნარი	ხსნარი	NOUN	Noun	Animacy=Inan|Case=Nom|Number=Sing	15	obj	_	Translit=xsnari
-15	ეწოდება	ეწოდება	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ecodeba
+15	ეწოდება	უწოდებს	VERB	Verb	Aspect=Imp|Mood=Ind|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No|Translit=ecodeba
 16	.	.	PUNCT	F	PunctType=Peri	15	punct	_	Translit=.
 
 ~~~

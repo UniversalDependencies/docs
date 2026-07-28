@@ -55,7 +55,7 @@ The following 5 pairs of parts of speech are connected with `xcomp:subj`: <tt><a
 6	jedno	jedno	NOUN	subst:sg:nom:n	Case=Nom|Gender=Neut|Number=Sing	0	root	0:root	Translit=iedno
 7	co	co	SCONJ	comp	_	9	mark	9:mark	Translit=co
 8	cudaki	cudak	NOUN	subst:pl:acc:m	Case=Acc|Gender=Masc|Number=Plur	9	obj	9:obj	Translit=cudaki
-9	prawić	prawić	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	6	advcl:cmpr	6:advcl:cmpr	SpaceAfter=No|Translit=práwić
+9	prawić	prawić	VERB	inf:imperf	Aspect=Imp|VerbForm=Inf|Voice=Act	6	advcl:cmp	6:advcl:cmp	SpaceAfter=No|Translit=práwić
 10	.	.	PUNCT	interp	PunctType=Peri	6	punct	6:punct	Translit=.
 
 ~~~

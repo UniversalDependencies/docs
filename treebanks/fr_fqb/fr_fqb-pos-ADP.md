@@ -6,24 +6,24 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-FQB: POS Tags: `ADP`
 
-There are 39 `ADP` lemmas (1%), 21 `ADP` types (0%) and 2869 `ADP` tokens (12%).
-Out of 16 observed tags, the rank of `ADP` is: 8 in number of lemmas, 11 in number of types and 3 in number of tokens.
+There are 20 `ADP` lemmas (1%), 21 `ADP` types (0%) and 2868 `ADP` tokens (12%).
+Out of 16 observed tags, the rank of `ADP` is: 9 in number of lemmas, 11 in number of types and 3 in number of tokens.
 
-The 10 most frequent `ADP` lemmas: <em>de, à, en, dans, pour, sur, par, _, sous, comme</em>
+The 10 most frequent `ADP` lemmas: <em>de, à, en, dans, pour, sur, par, sous, comme, entre</em>
 
 The 10 most frequent `ADP` types:  <em>de, à, d', en, dans, pour, sur, par, sous, comme</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 30, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 23, <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 6, <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> 2, <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="fr_fqb-pos-SYM.html">SYM</a></tt> 1, <tt><a href="fr_fqb-pos-X.html">X</a></tt> 1), <em>du</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 3, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>après</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 4, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1), <em>avant</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 1372, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 8), <em>d'</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 248, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 2), <em>entre</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 14, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 1), <em>après</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 4, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1), <em>avant</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1), <em>vers</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 1372, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 8), <em>d'</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 247, <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 3), <em>entre</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 14, <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 1), <em>après</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 4, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1), <em>avant</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> 1), <em>vers</em> (<tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> 1)
 
 
 * <em>de</em>
   * <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 1372: <em>à partir <b>de</b> quand puis -je bénéficier d' une aide à le logement ?</em>
   * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 8: <em>Pourquoi n' avez -vous pas reçu <b>de</b> rendez-vous ?</em>
 * <em>d'</em>
-  * <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 248: <em>à partir de quand puis -je bénéficier <b>d'</b> une aide à le logement ?</em>
-  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 2: <em>Combien de personnes à les États-Unis n' ont pas <b>d'</b> assurance santé ?</em>
+  * <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 247: <em>à partir de quand puis -je bénéficier <b>d'</b> une aide à le logement ?</em>
+  * <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> 3: <em>Combien de personnes à les États-Unis n' ont pas <b>d'</b> assurance santé ?</em>
 * <em>entre</em>
   * <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> 14: <em>Combien de temps dure le voyage <b>entre</b> Tokyo et Niigata ?</em>
   * <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> 1: <em>D' où provient la majorité de la marijuana qui <b>entre</b> à les États-Unis ?</em>
@@ -39,40 +39,40 @@ The 10 most frequent ambiguous types:  <em>de</em> (<tt><a href="fr_fqb-pos-ADP.
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 0.538462 (the average of all parts of speech is 1.165243).
+The form / lemma ratio of `ADP` is 1.050000 (the average of all parts of speech is 1.169482).
 
-The 1st highest number of forms (4) was observed with the lemma “_”: <em>après, d', de, à</em>.
+The 1st highest number of forms (2) was observed with the lemma “de”: <em>d', de</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “de”: <em>d', de</em>.
+The 2nd highest number of forms (1) was observed with the lemma “après”: <em>après</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “après”: <em>après</em>.
+The 3rd highest number of forms (1) was observed with the lemma “avant”: <em>avant</em>.
 
-`ADP` occurs with 3 features: <tt><a href="fr_fqb-feat-ExtPos.html">ExtPos</a></tt> (43; 1% instances), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt> (3; 0% instances), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt> (3; 0% instances)
+`ADP` occurs with 1 features: <tt><a href="fr_fqb-feat-ExtPos.html">ExtPos</a></tt> (17; 1% instances)
 
-`ADP` occurs with 7 feature-value pairs: `ExtPos=ADJ`, `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=DET`, `ExtPos=SCONJ`, `Gender=Fem`, `Number=Sing`
+`ADP` occurs with 3 feature-value pairs: `ExtPos=ADP`, `ExtPos=ADV`, `ExtPos=DET`
 
-`ADP` occurs with 7 feature combinations.
-The most frequent feature combination is `_` (2826 tokens).
+`ADP` occurs with 4 feature combinations.
+The most frequent feature combination is `_` (2851 tokens).
 Examples: <em>de, à, d', en, dans, pour, sur, par, sous, comme</em>
 
 
 ## Relations
 
-`ADP` nodes are attached to their parents using 7 different relations: <tt><a href="fr_fqb-dep-case.html">case</a></tt> (2698; 94% instances), <tt><a href="fr_fqb-dep-mark.html">mark</a></tt> (120; 4% instances), <tt><a href="fr_fqb-dep-fixed.html">fixed</a></tt> (39; 1% instances), <tt><a href="fr_fqb-dep-det.html">det</a></tt> (7; 0% instances), <tt><a href="fr_fqb-dep-obl-arg.html">obl:arg</a></tt> (3; 0% instances), <tt><a href="fr_fqb-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="fr_fqb-dep-amod.html">amod</a></tt> (1; 0% instances)
+`ADP` nodes are attached to their parents using 5 different relations: <tt><a href="fr_fqb-dep-case.html">case</a></tt> (2729; 95% instances), <tt><a href="fr_fqb-dep-mark.html">mark</a></tt> (121; 4% instances), <tt><a href="fr_fqb-dep-advmod.html">advmod</a></tt> (6; 0% instances), <tt><a href="fr_fqb-dep-det.html">det</a></tt> (6; 0% instances), <tt><a href="fr_fqb-dep-fixed.html">fixed</a></tt> (6; 0% instances)
 
-Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (1823; 64% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (727; 25% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (114; 4% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (64; 2% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (59; 2% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (42; 1% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt> (13; 0% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (4; 0% instances)
+Parents of `ADP` nodes belong to 9 different parts of speech: <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (1852; 65% instances), <tt><a href="fr_fqb-pos-PROPN.html">PROPN</a></tt> (728; 25% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (116; 4% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (64; 2% instances), <tt><a href="fr_fqb-pos-NUM.html">NUM</a></tt> (59; 2% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (31; 1% instances), <tt><a href="fr_fqb-pos-X.html">X</a></tt> (13; 0% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (1; 0% instances)
 
-2828 (99%) `ADP` nodes are leaves.
+2851 (99%) `ADP` nodes are leaves.
 
-17 (1%) `ADP` nodes have one child.
+10 (0%) `ADP` nodes have one child.
 
-14 (0%) `ADP` nodes have two children.
+6 (0%) `ADP` nodes have two children.
 
-10 (0%) `ADP` nodes have three or more children.
+1 (0%) `ADP` nodes have three or more children.
 
 The highest child degree of a `ADP` node is 3.
 
-Children of `ADP` nodes are attached using 2 different relations: <tt><a href="fr_fqb-dep-fixed.html">fixed</a></tt> (74; 99% instances), <tt><a href="fr_fqb-dep-cc.html">cc</a></tt> (1; 1% instances)
+Children of `ADP` nodes are attached using 3 different relations: <tt><a href="fr_fqb-dep-fixed.html">fixed</a></tt> (19; 76% instances), <tt><a href="fr_fqb-dep-obl-arg.html">obl:arg</a></tt> (5; 20% instances), <tt><a href="fr_fqb-dep-cc.html">cc</a></tt> (1; 4% instances)
 
-Children of `ADP` nodes belong to 9 different parts of speech: <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (23; 31% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (20; 27% instances), <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (16; 21% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (5; 7% instances), <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> (4; 5% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (4; 5% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (1; 1% instances)
+Children of `ADP` nodes belong to 8 different parts of speech: <tt><a href="fr_fqb-pos-DET.html">DET</a></tt> (7; 28% instances), <tt><a href="fr_fqb-pos-ADV.html">ADV</a></tt> (5; 20% instances), <tt><a href="fr_fqb-pos-NOUN.html">NOUN</a></tt> (4; 16% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (4; 16% instances), <tt><a href="fr_fqb-pos-SCONJ.html">SCONJ</a></tt> (2; 8% instances), <tt><a href="fr_fqb-pos-ADJ.html">ADJ</a></tt> (1; 4% instances), <tt><a href="fr_fqb-pos-ADP.html">ADP</a></tt> (1; 4% instances), <tt><a href="fr_fqb-pos-CCONJ.html">CCONJ</a></tt> (1; 4% instances)
 

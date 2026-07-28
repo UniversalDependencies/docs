@@ -23,14 +23,14 @@ The following 2 pairs of parts of speech are connected with `csubj:outer`: <tt><
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 csubj:outer	color:blue
-1	Studying	study	VERB	VBG	VerbForm=Ger	7	csubj:outer	7:csubj:outer	Discourse=elaboration-additional:16->14:1:_|Entity=(27-event-new-nnnnn-cf1-1-disc|MSeg=Study-ing|PDTB=Implicit:Expansion.Level-of-detail.Arg2-as-detail:in fact:_:105-115:116-124
+1	Studying	study	VERB	VBG	VerbForm=Ger	7	csubj:outer	7:csubj:outer	Discourse=elaboration-additional:16->14:1:_|Entity=(27-event-new-nnnnn-cf1-1-disc|MSeg=Study-ing|PDTB=NoRel:NoRel:_:_:105-115:116-124
 2	groups	group	NOUN	NNS	Number=Plur	1	obj	1:obj	Entity=(28-abstract-new-nnnnn-cf2-1-sgl)27)|MSeg=group-s
 3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
 4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	5:det	_
 5	bit	bit	NOUN	NN	Number=Sing	7	obl:unmarked	7:obl:unmarked	_
 6	like	like	SCONJ	IN	_	7	mark	7:mark	_
 7	studying	study	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	MSeg=study-ing
-8	symmetry	symmetry	NOUN	NN	Number=Sing	7	obj	7:obj	Entity=(29-abstract-new-nnnnn-cf3-1-sgl)|SpaceAfter=No
+8	symmetry	symmetry	NOUN	NN	Number=Sing	7	obj	7:obj	Entity=(29-abstract-new-nnnnn-cf3-1-sgl)|MSeg=symmetr-y|SpaceAfter=No
 9	.	.	PUNCT	.	_	7	punct	7:punct	_
 
 ~~~

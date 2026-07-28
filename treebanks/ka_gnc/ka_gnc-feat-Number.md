@@ -11,28 +11,28 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="ka_gnc-feat-Number.html">Number</a></tt>, <tt><a href="ka_gnc-feat-Number-io.html">Number[io]</a></tt>, <tt><a href="ka_gnc-feat-Number-obj.html">Number[obj]</a></tt>, <tt><a href="ka_gnc-feat-Number-psor.html">Number[psor]</a></tt>, <tt><a href="ka_gnc-feat-Number-subj.html">Number[subj]</a></tt>.
 
-6109 tokens (27%) have a non-empty value of `Number`.
-3368 types (46%) occur at least once with a non-empty value of `Number`.
-2090 lemmas (48%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (4739; 21% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (755; 3% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (434; 2% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (93; 0% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (85; 0% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+6324 tokens (27%) have a non-empty value of `Number`.
+3472 types (46%) occur at least once with a non-empty value of `Number`.
+2144 lemmas (48%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> (4918; 21% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> (778; 3% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> (443; 2% instances), <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt> (93; 0% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt> (89; 0% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-4739 <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
+4918 <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt> tokens (98% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ka_gnc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4192; 88%), <tt><a href="ka_gnc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4042; 85%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ka_gnc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (4350; 88%), <tt><a href="ka_gnc-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4198; 85%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (547; 12% of non-empty `Number`): <em>ადამიანები, თვალები, ადამიანებს, კითხვებს, ფილოსოფოსები, ხელები, ადამიანების, კითხვები, ქაღალდები, ბატონებო</em>
-* `Sing` (4192; 88% of non-empty `Number`): <em>დედა, ოთახ, დროს, დრო, კითხვა, წლის, სამყარო, კაცი, პასუხი, ადამიანი</em>
-* `EMPTY` (81): <em>დედოფალ, გრაფ, მეფე, პოლიციელი, ქალბატონმა, ბ-ნ, ბატონ, ბატონი, ბატონო, ამხანაგი</em>
+* `Plur` (573; 12% of non-empty `Number`): <em>ადამიანები, თვალები, ადამიანებს, კითხვებს, ფილოსოფოსები, ხელები, ადამიანების, თვალებით, კითხვები, ქაღალდები</em>
+* `Sing` (4345; 88% of non-empty `Number`): <em>დედა, ოთახ, დრო, დროს, კითხვა, წლის, სამყარო, კაცი, პასუხი, ადამიანი</em>
+* `EMPTY` (83): <em>დედოფალ, გრაფ, მეფე, პოლიციელი, ქალბატონმა, ბ-ნ, ბატონ, ბატონი, ბატონო, ამხანაგი</em>
 
 <table>
   <tr><th>Paradigm <i>ადამიანი</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>ადამიანს, ადამიან</em></td><td><em>ადამიანებს, ადამიანებ</em></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ka_gnc-feat-Encl.html">Encl</a></tt><tt>=C</tt></tt></td><td></td><td><em>ადამიანებსაც</em></td></tr>
-  <tr><td><tt><tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Erg</tt></tt></td><td><em>ადამიანმა</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Erg</tt></tt></td><td><em>ადამიანმა</em></td><td><em>ადამიანებმა</em></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Ess</tt></tt></td><td><em>ადამიანად</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>ადამიანის</em></td><td><em>ადამიანების, ადამიანთა</em></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>ადამიანი</em></td><td><em>ადამიანები</em></td></tr>
@@ -40,15 +40,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `PRON`
 
-755 <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> tokens (46% of all `PRON` tokens) have a non-empty value of `Number`.
+778 <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt> tokens (46% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ka_gnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (751; 99%), <tt><a href="ka_gnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (751; 99%), <tt><a href="ka_gnc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (751; 99%), <tt><a href="ka_gnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (419; 55%), <tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (382; 51%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ka_gnc-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (774; 99%), <tt><a href="ka_gnc-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (774; 99%), <tt><a href="ka_gnc-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (774; 99%), <tt><a href="ka_gnc-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (432; 56%), <tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (390; 50%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (103; 14% of non-empty `Number`): <em>ჩვენ, ისინი, მათ, თქვენ, რომლებიც, ჩვენს, ასეთები, თქვენს, ჩვენც, ასეთთა</em>
-* `Sing` (652; 86% of non-empty `Number`): <em>მას, იგი, ეს, მე, ის, რომელიც, შენ, მის, რომელსაც, ამას</em>
-* `EMPTY` (872): <em>ამ, ეს, რა, მისი, თავის, იმ, ჩემი, მის, თავისი, ვინ</em>
+* `Plur` (105; 13% of non-empty `Number`): <em>ჩვენ, ისინი, მათ, თქვენ, რომლებიც, ჩვენს, ასეთები, თქვენს, ჩვენც, ასეთთა</em>
+* `Sing` (673; 87% of non-empty `Number`): <em>მას, იგი, ეს, მე, ის, რომელიც, შენ, მის, რომელსაც, ჩემ</em>
+* `EMPTY` (907): <em>ამ, ეს, რა, მისი, თავის, იმ, ჩემი, თავისი, მის, ვინ</em>
 
 <table>
   <tr><th>Paradigm <i>ის</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -71,15 +71,15 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `ADJ`
 
-434 <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> tokens (27% of all `ADJ` tokens) have a non-empty value of `Number`.
+443 <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt> tokens (27% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (284; 65%), <tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (239; 55%), <tt><a href="ka_gnc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (239; 55%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (290; 65%), <tt><a href="ka_gnc-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (243; 55%), <tt><a href="ka_gnc-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (243; 55%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (46; 11% of non-empty `Number`): <em>სხვები, სხვებ, სხვებს, თვალები, აპათიურთა, ბოროტნი, გულგრილთა, დამფრთხალნი, დაუპატიჟებლებმა, თავზარდაცემულნი</em>
-* `Sing` (388; 89% of non-empty `Number`): <em>საჭირო, რამ, სხვის, შეუძლებელი, გამომძიებლის, დაზარალებულის, ზემო, კარგი, ნათელი, საინტერესო</em>
-* `EMPTY` (1151): <em>სხვა, დიდი, პატარა, ახალი, საკუთარი, ერთადერთი, ახალ, მძიმე, საკუთარ, საფოსტო</em>
+* `Plur` (45; 10% of non-empty `Number`): <em>სხვები, სხვებ, სხვებს, თვალები, აპათიურთა, ბოროტნი, გულგრილთა, დამფრთხალნი, დაუპატიჟებლებმა, თავზარდაცემულნი</em>
+* `Sing` (398; 90% of non-empty `Number`): <em>საჭირო, რამ, სხვის, შეუძლებელი, გამომძიებლის, საინტერესო, დაზარალებულის, ზემო, კარგი, ნათელი</em>
+* `EMPTY` (1195): <em>სხვა, დიდი, პატარა, ახალი, საკუთარი, ერთადერთი, ახალ, მძიმე, საკუთარ, საფოსტო</em>
 
 <table>
   <tr><th>Paradigm <i>სხვა</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -89,7 +89,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt><tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>სხვა</em></td><td><em>სხვები</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `ADJ`. 98% lemmas (314) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `ADJ`. 98% lemmas (316) occur only with one value of `Number`.
 
 ### `VERB`
 
@@ -100,25 +100,26 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 `VERB` tokens may have the following values of `Number`:
 
 * `Sing` (93; 100% of non-empty `Number`): <em>დარწმუნებული, გატენილი, დამზადებული, აშენებული, მიღებული, მოკლებული, ამართული, ამოგლეჯილი, აღრენილი, აღძრული</em>
-* `EMPTY` (3197): <em>ჰქონდა, თქვა, იდგა, უთხრა, აქვს, გავიდა, ვიცი, მოხდა, იყო, იცის</em>
+* `EMPTY` (3331): <em>ჰქონდა, იდგა, უთხრა, თქვა, აქვს, გავიდა, ვიცი, მოხდა, იყო, იცის</em>
 
 `Number` seems to be **lexical feature** of `VERB`. 100% lemmas (81) occur only with one value of `Number`.
 
 ### `DET`
 
-85 <tt><a href="ka_gnc-pos-DET.html">DET</a></tt> tokens (45% of all `DET` tokens) have a non-empty value of `Number`.
+89 <tt><a href="ka_gnc-pos-DET.html">DET</a></tt> tokens (45% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (46; 54%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="ka_gnc-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (59; 66%), <tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Nom</tt> (47; 53%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (3; 4% of non-empty `Number`): <em>ყველანი</em>
-* `Sing` (82; 96% of non-empty `Number`): <em>ზოგი, ყველაფერი, ყველას, ყველა, ყველაფერს, მეტი, ბევრი, ზოგიც, ყველაფრის, ბევრს</em>
-* `EMPTY` (106): <em>მთელი, რამდენიმე, მთელ, მრავალი, ბევრი, ყველა, ყოველივე, ყოველ, არავითარ, ყოველი</em>
+* `Plur` (3; 3% of non-empty `Number`): <em>ყველანი</em>
+* `Sing` (86; 97% of non-empty `Number`): <em>ზოგი, ყველაფერი, ყველას, ყველა, ყველაფერს, მეტი, ბევრი, ზოგიც, ყველაფრის, ბევრს</em>
+* `EMPTY` (110): <em>რამდენიმე, მთელი, მთელ, მრავალი, ბევრი, ყველა, ყოველივე, ყოველ, არავითარ, ყოველი</em>
 
 <table>
   <tr><th>Paradigm <i>ყველა</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>ყველა, ყველას</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Erg</tt></tt></td><td><em>ყველამ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>ყველას, ყველასა</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ka_gnc-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>ყველანი</em></td></tr>
 </table>
@@ -133,7 +134,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 * `Plur` (1; 50% of non-empty `Number`): <em>კვაჭანტირაძენი</em>
 * `Sing` (1; 50% of non-empty `Number`): <em>თომასმა</em>
-* `EMPTY` (821): <em>ერიკა, სოფი, ერიკას, თუთაშხიას, დათა, სოფიმ, სოფის, სილიბისტრო, კვაჭის, თუთაშხია</em>
+* `EMPTY` (854): <em>ერიკა, სოფი, ერიკას, თუთაშხიას, დათა, სოფიმ, სოფის, სილიბისტრო, ვარდენ, კვაჭის</em>
 
 ### `AUX`
 
@@ -144,19 +145,19 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 `AUX` tokens may have the following values of `Number`:
 
 * `Sing` (1; 100% of non-empty `Number`): <em>ყოფნაც</em>
-* `EMPTY` (551): <em>ა, იყო, უნდა, არის, ხარ, შეიძლება, ვარ, იქნება, ვიყავი, იქნებოდა</em>
+* `EMPTY` (572): <em>ა, იყო, უნდა, არის, შეიძლება, ხარ, ვარ, იქნება, იქნებოდა, ვიყავი</em>
 
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ka_gnc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (529; 79%),
-<tt>NOUN --[<tt><a href="ka_gnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (242; 88%),
+<tt>NOUN --[<tt><a href="ka_gnc-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (558; 79%),
+<tt>NOUN --[<tt><a href="ka_gnc-dep-conj.html">conj</a></tt>]--> NOUN</tt> (246; 88%),
 <tt>ADJ --[<tt><a href="ka_gnc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (48; 94%),
-<tt>NOUN --[<tt><a href="ka_gnc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (38; 86%),
+<tt>NOUN --[<tt><a href="ka_gnc-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (39; 87%),
 <tt>ADJ --[<tt><a href="ka_gnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (36; 97%),
-<tt>NOUN --[<tt><a href="ka_gnc-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (31; 78%),
-<tt>NOUN --[<tt><a href="ka_gnc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (24; 80%),
+<tt>NOUN --[<tt><a href="ka_gnc-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (32; 76%),
 <tt>NOUN --[<tt><a href="ka_gnc-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (23; 62%),
+<tt>NOUN --[<tt><a href="ka_gnc-dep-obl.html">obl</a></tt>]--> NOUN</tt> (20; 80%),
 <tt>NOUN --[<tt><a href="ka_gnc-dep-appos.html">appos</a></tt>]--> NOUN</tt> (16; 89%),
 <tt>NOUN --[<tt><a href="ka_gnc-dep-conj.html">conj</a></tt>]--> ADJ</tt> (16; 89%).
 

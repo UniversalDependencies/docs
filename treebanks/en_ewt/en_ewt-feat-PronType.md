@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal but the values `Emp` are language-specific.
 It occurs with 10 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Prs`, `Rcp`, `Rel`, `Tot`.
 
-45852 tokens (18%) have a non-empty value of `PronType`.
-280 types (1%) occur at least once with a non-empty value of `PronType`.
+45854 tokens (18%) have a non-empty value of `PronType`.
+282 types (1%) occur at least once with a non-empty value of `PronType`.
 93 lemmas (1%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (23066; 9% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (20096; 8% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (2690; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> (23067; 9% instances), <tt><a href="en_ewt-pos-DET.html">DET</a></tt> (20096; 8% instances), <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> (2691; 1% instances).
 
 ### `PRON`
 
-23066 <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+23067 <tt><a href="en_ewt-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_ewt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (19321; 84%), <tt><a href="en_ewt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18229; 79%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12717; 55%), <tt><a href="en_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11604; 50%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="en_ewt-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (19322; 84%), <tt><a href="en_ewt-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (18230; 79%), <tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12718; 55%), <tt><a href="en_ewt-feat-Case.html">Case</a></tt><tt>=Nom</tt> (11604; 50%).
 
 `PRON` tokens may have the following values of `PronType`:
 
 * `Dem` (1460; 6% of non-empty `PronType`): <em>there, this, that, those, these, their, they</em>
 * `Emp` (47; 0% of non-empty `PronType`): <em>itself, themselves, myself, himself, herself, yourself, my, ourselves</em>
-* `Ind` (443; 2% of non-empty `PronType`): <em>anyone, something, anything, someone, anybody, somebody, any, any1, some, someon</em>
+* `Ind` (444; 2% of non-empty `PronType`): <em>anyone, something, anything, someone, anybody, somebody, any, any1, anyting, some</em>
 * `Int` (420; 2% of non-empty `PronType`): <em>what, who, which, whatever, whom, Wtf, waht, whoooooo, wht</em>
 * `Neg` (138; 1% of non-empty `PronType`): <em>nothing, none, one, nobody, noone</em>
 * `Prs` (18772; 81% of non-empty `PronType`): <em>i, you, it, they, my, we, he, your, me, their</em>
@@ -64,7 +64,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `ADV`
 
-2690 <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> tokens (21% of all `ADV` tokens) have a non-empty value of `PronType`.
+2691 <tt><a href="en_ewt-pos-ADV.html">ADV</a></tt> tokens (21% of all `ADV` tokens) have a non-empty value of `PronType`.
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -73,8 +73,8 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 * `Int` (912; 34% of non-empty `PronType`): <em>when, how, why, where, however, Wherever, were, who, y</em>
 * `Neg` (183; 7% of non-empty `PronType`): <em>never, nowhere, Neither, NEEEEEEEEEVERRRR, no</em>
 * `Rel` (140; 5% of non-empty `PronType`): <em>where, when, why, whenever, how, were, however, wherein, wherever, where-ever</em>
-* `Tot` (138; 5% of non-empty `PronType`): <em>always, everywhere</em>
-* `EMPTY` (9905): <em>so, just, very, also, even, only, as, back, well, really</em>
+* `Tot` (139; 5% of non-empty `PronType`): <em>always, everywhere, aways</em>
+* `EMPTY` (9904): <em>so, just, very, also, even, only, as, back, well, really</em>
 
 <table>
   <tr><th>Paradigm <i>when</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>

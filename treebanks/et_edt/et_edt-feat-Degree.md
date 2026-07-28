@@ -36,19 +36,19 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (1; 100% of non-empty `Degree`): <em>more</em>
-* `EMPTY` (42096): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
+* `EMPTY` (42110): <em>ka, siis, nii, kas, juba, välja, aga, veel, väga, mitte</em>
 
 ## Relations with Agreement in `Degree`
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="et_edt-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1397; 93%),
-<tt>ADJ --[<tt><a href="et_edt-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (52; 88%),
+<tt>ADJ --[<tt><a href="et_edt-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (54; 89%),
 <tt>ADJ --[<tt><a href="et_edt-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (37; 65%),
 <tt>ADJ --[<tt><a href="et_edt-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (28; 60%),
 <tt>ADJ --[<tt><a href="et_edt-dep-amod.html">amod</a></tt>]--> ADJ</tt> (19; 76%),
 <tt>ADJ --[<tt><a href="et_edt-dep-acl.html">acl</a></tt>]--> ADJ</tt> (11; 73%),
 <tt>ADJ --[<tt><a href="et_edt-dep-csubj-cop.html">csubj:cop</a></tt>]--> ADJ</tt> (9; 64%),
+<tt>ADJ --[<tt><a href="et_edt-dep-obl-tmod.html">obl:tmod</a></tt>]--> ADJ</tt> (5; 71%),
 <tt>ADJ --[<tt><a href="et_edt-dep-ccomp.html">ccomp</a></tt>]--> ADJ</tt> (4; 100%),
-<tt>ADJ --[<tt><a href="et_edt-dep-appos.html">appos</a></tt>]--> ADJ</tt> (2; 100%),
-<tt>ADJ --[<tt><a href="et_edt-dep-obl-agent.html">obl:agent</a></tt>]--> ADJ</tt> (2; 100%).
+<tt>ADJ --[<tt><a href="et_edt-dep-obl-arg.html">obl:arg</a></tt>]--> ADJ</tt> (3; 100%).
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Arofat Akhundjanova, Çağrı Çöltekin.
 
 Repository: [UD_Uzbek-TueCL](https://github.com/UniversalDependencies/UD_Uzbek-TueCL)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uduz_tuecl217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uduz_tuecl218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -52,7 +52,7 @@ Uzbek-TueCL consists of 148 carefully selected sentences (940 tokens) compiled f
 
 ## Acknowledgments
 
-This work was supported by COST Action CA21167 - Universality, diversity and idiosyncrasy in language technology (UniDive). We thank the Turkic UD working group for fruitful discussions of linguistic issues and annotation approaches.
+This work was supported by COST Action CA21167 — Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)). We thank the Turkic UD working group for fruitful discussions of linguistic issues and annotation approaches.
 
 
 

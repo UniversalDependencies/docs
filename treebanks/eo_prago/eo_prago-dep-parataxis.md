@@ -72,10 +72,10 @@ The following 2 pairs of parts of speech are connected with `parataxis`: <tt><a 
 10	gvidas	gvidi	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
 11	min	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	10	obj	_	_
 12	en	en	ADP	_	_	14	case	_	_
-13	la	la	DET	_	Definite=Def	14	det	_	_
+13	la	la	DET	_	Definite=Def|PronType=Art	14	det	_	_
 14	vivo	vivo	NOUN	_	Case=Nom|Number=Sing	10	obl	_	_
 15	per	per	ADP	_	_	18	case	_	_
-16	la	la	DET	_	Definite=Def	18	det	_	_
+16	la	la	DET	_	Definite=Def|PronType=Art	18	det	_	_
 17	sekvantaj	sekvanta	ADJ	_	Case=Nom|Number=Plur	18	amod	_	_
 18	principoj	principo	NOUN	_	Case=Nom|Number=Plur	10	obl	_	SpaceAfter=No
 19	:	:	PUNCT	_	_	3	punct	_	_

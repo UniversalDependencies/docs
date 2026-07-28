@@ -11,9 +11,9 @@ This relation is universal.
 1331 nodes (9%) are attached to their parents as `case`.
 
 1319 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.89857250187829.
+Average distance between parent and child is 1.89932381667919.
 
-The following 18 pairs of parts of speech are connected with `case`: <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (923; 69% instances), <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (192; 14% instances), <tt><a href="bar_maibaam-pos-NUM.html">NUM</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (72; 5% instances), <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (51; 4% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (23; 2% instances), <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (18; 1% instances), <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (17; 1% instances), <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (15; 1% instances), <tt><a href="bar_maibaam-pos-X.html">X</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-PART.html">PART</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bar_maibaam-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-X.html">X</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 18 pairs of parts of speech are connected with `case`: <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (924; 69% instances), <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (191; 14% instances), <tt><a href="bar_maibaam-pos-NUM.html">NUM</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (72; 5% instances), <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (51; 4% instances), <tt><a href="bar_maibaam-pos-NOUN.html">NOUN</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (23; 2% instances), <tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (17; 1% instances), <tt><a href="bar_maibaam-pos-DET.html">DET</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (17; 1% instances), <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (15; 1% instances), <tt><a href="bar_maibaam-pos-X.html">X</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (5; 0% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="bar_maibaam-pos-ADJ.html">ADJ</a></tt>-<tt><a href="bar_maibaam-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-PART.html">PART</a></tt>-<tt><a href="bar_maibaam-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-PRON.html">PRON</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-PROPN.html">PROPN</a></tt>-<tt><a href="bar_maibaam-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-VERB.html">VERB</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="bar_maibaam-pos-X.html">X</a></tt>-<tt><a href="bar_maibaam-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,12 +46,17 @@ The following 18 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 1 case	color:blue
 1	Bei	_	ADP	_	_	3	case	_	GermanLemma=bei
-2	m	_	DET	_	_	3	det	_	GermanLemma=der
-3	Haberertanz	_	PROPN	_	_	6	obl	_	GermanLemma=Haberertanz
-4	wean	_	AUX	_	_	6	aux:pass	_	GermanLemma=werden
-5	Hassgfui	_	NOUN	_	_	6	nsubj:pass	_	GermanLemma=Hassgefühle
-6	ausdruckt	_	VERB	_	_	0	root	_	GermanLemma=ausdrücken|SpaceAfter=No
-7	.	_	PUNCT	_	_	6	punct	_	GermanLemma=.
+2	m	_	DET	_	_	3	det	_	GermanLemma=das
+3	Haferltarock	_	PROPN	_	_	10	obl	_	GermanLemma=Haferltarock
+4	mou	_	AUX	_	_	10	aux	_	GermanLemma=müssen
+5	wej	_	SCONJ	_	_	8	mark	_	GermanLemma=wie
+6	bei	_	ADP	_	_	8	case	_	GermanLemma=bei
+7	m	_	DET	_	_	8	det	_	GermanLemma=das
+8	Schofkopf	_	PROPN	_	_	10	obl	_	GermanLemma=Schafkopf
+9	Foa	_	NOUN	_	_	10	nsubj:pass	_	GermanLemma=Farbe
+10	zougem	_	VERB	_	_	0	root	_	GermanLemma=zeigen
+11	wean	_	AUX	_	_	10	aux:pass	_	GermanLemma=werden|SpaceAfter=No
+12	.	_	PUNCT	_	_	10	punct	_	GermanLemma=.
 
 ~~~
 

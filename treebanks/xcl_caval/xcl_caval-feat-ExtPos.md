@@ -9,38 +9,38 @@ udver: '2'
 This feature is language-specific.
 It occurs with 5 different values: `ADP`, `ADV`, `DET`, `PRON`, `SCONJ`.
 
-661 tokens (1%) have a non-empty value of `ExtPos`.
-22 types (0%) occur at least once with a non-empty value of `ExtPos`.
-19 lemmas (0%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 4 part-of-speech tags: <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (633; 1% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (23; 0% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+660 tokens (1%) have a non-empty value of `ExtPos`.
+24 types (0%) occur at least once with a non-empty value of `ExtPos`.
+20 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 4 part-of-speech tags: <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> (633; 1% instances), <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> (24; 0% instances), <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="xcl_caval-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `ADP`
 
 633 <tt><a href="xcl_caval-pos-ADP.html">ADP</a></tt> tokens (5% of all `ADP` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADP` and `ExtPos` co-occurred: <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (633; 100%).
+The most frequent other feature values with which `ADP` and `ExtPos` co-occurred: <tt><a href="xcl_caval-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (632; 100%).
 
 `ADP` tokens may have the following values of `ExtPos`:
 
-* `ADP` (520; 82% of non-empty `ExtPos`): <em>ի, մինչեւ, առ, ընդ, մերձ, շուրջ, մաւտ, մինչ, վասն, բայց</em>
-* `ADV` (106; 17% of non-empty `ExtPos`): <em>ի, առ, մինչեւ</em>
+* `ADP` (517; 82% of non-empty `ExtPos`): <em>ի, մինչեւ, առ, ընդ, մերձ, շուրջ, մաւտ, մինչ, վասն, բայց</em>
+* `ADV` (109; 17% of non-empty `ExtPos`): <em>ի, առ, մինչեւ, յ</em>
 * `SCONJ` (7; 1% of non-empty `ExtPos`): <em>վասն, փոխանակ, մինչ</em>
 
 <table>
   <tr><th>Paradigm <i>ի</i></th><th><tt>ADP</tt></th><th><tt>ADV</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>ի</em></td><td><em>ի</em></td></tr>
+  <tr><td><tt></tt></td><td><em>ի</em></td><td><em>ի, յ</em></td></tr>
 </table>
 
 ### `ADV`
 
-23 <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+24 <tt><a href="xcl_caval-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (22; 96%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (13; 57%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="xcl_caval-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (23; 96%), <tt><a href="xcl_caval-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (13; 54%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADV` (11; 48% of non-empty `ExtPos`): <em>մանաւանդ, ընդ, Ամէն, ի, շուրջ, աստ, որչափ, որպէս</em>
-* `SCONJ` (12; 52% of non-empty `ExtPos`): <em>որպէս</em>
+* `ADV` (12; 50% of non-empty `ExtPos`): <em>մանաւանդ, ընդ, ի, Ամէն, շուրջ, աստ, որչափ, որպէս</em>
+* `SCONJ` (12; 50% of non-empty `ExtPos`): <em>որպէս</em>
 
 <table>
   <tr><th>Paradigm <i>որպէս</i></th><th><tt>ADV</tt></th><th><tt>SCONJ</tt></th></tr>
@@ -50,14 +50,14 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 ### `PART`
 
-4 <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `ExtPos`.
+2 <tt><a href="xcl_caval-pos-PART.html">PART</a></tt> tokens (0% of all `PART` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PART` and `ExtPos` co-occurred: <tt><a href="xcl_caval-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (4; 100%).
+The most frequent other feature values with which `PART` and `ExtPos` co-occurred: <tt><a href="xcl_caval-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt> (2; 100%).
 
 `PART` tokens may have the following values of `ExtPos`:
 
-* `DET` (1; 25% of non-empty `ExtPos`): <em>ոչ</em>
-* `PRON` (3; 75% of non-empty `ExtPos`): <em>ոչ</em>
+* `DET` (1; 50% of non-empty `ExtPos`): <em>ոչ</em>
+* `PRON` (1; 50% of non-empty `ExtPos`): <em>ոչ</em>
 
 <table>
   <tr><th>Paradigm <i>ոչ</i></th><th><tt>DET</tt></th><th><tt>PRON</tt></th></tr>

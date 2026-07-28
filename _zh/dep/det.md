@@ -71,4 +71,4 @@ Classifiers are treated as determiners when a noun phrase begins with a bare cla
 3	book"	_	_	_	_	0	_	_	_
 
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:46 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:01 CEST -->

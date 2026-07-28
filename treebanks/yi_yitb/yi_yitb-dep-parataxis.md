@@ -23,11 +23,11 @@ The following 24 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4	fgColor:white
 # visual-style 4 9 parataxis	color:blue
 1	אין	אין	ADP	_	_	2	case	_	Translit=in|Translit_Lemma=in
-2	שטעטל	שטאָט	NOUN	_	_	4	obl	_	Translit=shtetl|Translit_Lemma=shtot
+2	שטעטל	שטעטל	NOUN	_	_	4	obl	_	Translit=shtetl|Translit_Lemma=shtetl
 3	איז	זײַן	AUX	_	_	4	aux	_	Translit=iz|Translit_Lemma=zayn
 4	געװאָרן	װערן	VERB	_	_	0	root	_	Translit=gevorn|Translit_Lemma=vern
 5	אַ	אַ	DET	_	_	6	det	_	Translit=a|Translit_Lemma=a
-6	יללה	יללה	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Translit=yalole|Translit_Lemma=yalole
+6	יללה	יללה	NOUN	_	_	4	nsubj	_	SpaceAfter=No|Translit=yelole|Translit_Lemma=yelole
 7	:	:	PUNCT	_	_	9	punct	_	Translit=:|Translit_Lemma=:
 8	מע	מען	PRON	_	_	9	nsubj	_	Translit=me|Translit_Lemma=men
 9	שיקט	שיקן	VERB	_	_	4	parataxis	_	Translit=shikt|Translit_Lemma=shikn
@@ -70,7 +70,7 @@ The following 24 pairs of parts of speech are connected with `parataxis`: <tt><a
 4	,	,	PUNCT	_	_	7	punct	_	Translit=,|Translit_Lemma=,
 5	אין	אין	ADP	_	_	6	case	_	Translit=in|Translit_Lemma=in
 6	טאַטן	טאַטן	NOUN	_	_	7	obl	_	Translit=tatn|Translit_Lemma=tatn
-7	געראָטן	רעטן	VERB	_	_	3	parataxis	_	SpaceAfter=No|Translit=gerotn|Translit_Lemma=retn
+7	געראָטן	ראַטן	VERB	_	_	3	parataxis	_	SpaceAfter=No|Translit=gerotn|Translit_Lemma=ratn
 8	.	.	PUNCT	_	_	3	punct	_	Translit=.|Translit_Lemma=.
 
 ~~~

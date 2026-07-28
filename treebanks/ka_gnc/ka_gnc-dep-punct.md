@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-4157 nodes (18%) are attached to their parents as `punct`.
+4320 nodes (18%) are attached to their parents as `punct`.
 
-2186 instances of `punct` (53%) are right-to-left (child precedes parent).
-Average distance between parent and child is 5.01419292759201.
+2283 instances of `punct` (53%) are right-to-left (child precedes parent).
+Average distance between parent and child is 5.01967592592593.
 
-The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (3247; 78% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (482; 12% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (205; 5% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (69; 2% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (67; 2% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (59; 1% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="ka_gnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `punct`: <tt><a href="ka_gnc-pos-VERB.html">VERB</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (3373; 78% instances), <tt><a href="ka_gnc-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (502; 12% instances), <tt><a href="ka_gnc-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (212; 5% instances), <tt><a href="ka_gnc-pos-ADV.html">ADV</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (72; 2% instances), <tt><a href="ka_gnc-pos-PRON.html">PRON</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (71; 2% instances), <tt><a href="ka_gnc-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (62; 1% instances), <tt><a href="ka_gnc-pos-NUM.html">NUM</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances), <tt><a href="ka_gnc-pos-DET.html">DET</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="ka_gnc-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="ka_gnc-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ka_gnc-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ka_gnc-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

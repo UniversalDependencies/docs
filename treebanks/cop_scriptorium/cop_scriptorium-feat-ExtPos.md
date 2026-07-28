@@ -9,22 +9,22 @@ udver: '2'
 This feature is language-specific.
 It occurs with 3 different values: `ADP`, `ADV`, `SCONJ`.
 
-294 tokens (1%) have a non-empty value of `ExtPos`.
-13 types (0%) occur at least once with a non-empty value of `ExtPos`.
-13 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (266; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+313 tokens (1%) have a non-empty value of `ExtPos`.
+14 types (0%) occur at least once with a non-empty value of `ExtPos`.
+14 lemmas (1%) occur at least once with a non-empty value of `ExtPos`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> (285; 0% instances), <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> (15; 0% instances), <tt><a href="cop_scriptorium-pos-ADP.html">ADP</a></tt> (12; 0% instances), <tt><a href="cop_scriptorium-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
 
 ### `ADV`
 
-266 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (13% of all `ADV` tokens) have a non-empty value of `ExtPos`.
+285 <tt><a href="cop_scriptorium-pos-ADV.html">ADV</a></tt> tokens (14% of all `ADV` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (259; 97%).
+The most frequent other feature values with which `ADV` and `ExtPos` co-occurred: <tt><a href="cop_scriptorium-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (278; 98%).
 
 `ADV` tokens may have the following values of `ExtPos`:
 
-* `ADP` (225; 85% of non-empty `ExtPos`): ⲉⲃⲟⲗ, ⲉϩⲟⲩⲛ, ⲉϩⲣⲁⲓ, ⲉϩⲟⲩ, ⲛϩⲟⲩⲛ, ϫⲓⲛ
-* `ADV` (7; 3% of non-empty `ExtPos`): ⲟⲩ
-* `SCONJ` (34; 13% of non-empty `ExtPos`): ⲉⲃⲟⲗ
+* `ADP` (237; 83% of non-empty `ExtPos`): ⲉⲃⲟⲗ, ⲉϩⲣⲁⲓ, ⲉϩⲟⲩⲛ, ⲉϩⲟⲩ, ⲛϩⲟⲩⲛ, ϣⲁϩⲣⲁⲓ, ϫⲓⲛ
+* `ADV` (7; 2% of non-empty `ExtPos`): ⲟⲩ
+* `SCONJ` (41; 14% of non-empty `ExtPos`): ⲉⲃⲟⲗ
 
 <table>
   <tr><th>Paradigm <i>ⲉⲃⲟⲗ</i></th><th><tt>ADP</tt></th><th><tt>SCONJ</tt></th></tr>
@@ -35,7 +35,7 @@ The most frequent other feature values with which `ADV` and `ExtPos` co-occurred
 
 15 <tt><a href="cop_scriptorium-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PART` and `ExtPos` co-occurred: <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (15; 100%).
+The most frequent other feature values with which `PART` and `ExtPos` co-occurred: <tt><a href="cop_scriptorium-feat-Emph.html">Emph</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="cop_scriptorium-feat-Foreign.html">Foreign</a></tt><tt>=EMPTY</tt> (15; 100%).
 
 `PART` tokens may have the following values of `ExtPos`:
 

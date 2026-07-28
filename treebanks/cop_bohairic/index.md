@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.16 release
 The following people have contributed to making this treebank part of UD: Amir Zeldes, Nina Speransky.
 
 Repository: [UD_Coptic-Bohairic](https://github.com/UniversalDependencies/UD_Coptic-Bohairic)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_bohairic217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcop_bohairic218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY 4.0
 
@@ -69,7 +69,7 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 
 ## Features
 
-[Definite](cop_bohairic-feat-Definite.html) – [ExtPos](cop_bohairic-feat-ExtPos.html) – [Foreign](cop_bohairic-feat-Foreign.html) – [Gender](cop_bohairic-feat-Gender.html) – [Gender[psor]](cop_bohairic-feat-Gender-psor.html) – [Mood](cop_bohairic-feat-Mood.html) – [Number](cop_bohairic-feat-Number.html) – [Number[psor]](cop_bohairic-feat-Number-psor.html) – [NumType](cop_bohairic-feat-NumType.html) – [Person](cop_bohairic-feat-Person.html) – [Polarity](cop_bohairic-feat-Polarity.html) – [Poss](cop_bohairic-feat-Poss.html) – [PronType](cop_bohairic-feat-PronType.html) – [Reflex](cop_bohairic-feat-Reflex.html) – [VerbForm](cop_bohairic-feat-VerbForm.html)
+[Definite](cop_bohairic-feat-Definite.html) – [Emph](cop_bohairic-feat-Emph.html) – [ExtPos](cop_bohairic-feat-ExtPos.html) – [Foreign](cop_bohairic-feat-Foreign.html) – [Gender](cop_bohairic-feat-Gender.html) – [Gender[psor]](cop_bohairic-feat-Gender-psor.html) – [Mood](cop_bohairic-feat-Mood.html) – [Number](cop_bohairic-feat-Number.html) – [Number[psor]](cop_bohairic-feat-Number-psor.html) – [NumType](cop_bohairic-feat-NumType.html) – [Person](cop_bohairic-feat-Person.html) – [Polarity](cop_bohairic-feat-Polarity.html) – [Poss](cop_bohairic-feat-Poss.html) – [PronType](cop_bohairic-feat-PronType.html) – [Reflex](cop_bohairic-feat-Reflex.html) – [VerbForm](cop_bohairic-feat-VerbForm.html)
 
 ## Relations
 
@@ -79,7 +79,7 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 
 
 <ul>
-<li>This corpus contains 1001 sentences, 15255 tokens and 32723 syntactic words.</li>
+<li>This corpus contains 1001 sentences, 15257 tokens and 32723 syntactic words.</li>
 </ul>
 
 <ul>
@@ -95,8 +95,8 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 </ul>
 
 <ul>
-<li>This corpus contains 10307 multi-word tokens. On average, one multi-word token consists of 2.69 syntactic words.</li>
-<li>There are 5601 types of multi-word tokens. Examples: ⲙⲙⲟⲥ, ⲛⲁϥ, ⲙⲙⲟϥ, ⲉⲑⲟⲩⲁⲃ, ⲛⲱⲟⲩ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲙⲱⲟⲩ, ⲛⲧⲉⲫⲛⲟⲩϯ, ⲧⲏⲣⲟⲩ, ⲉⲣⲱⲟⲩ, ⲙⲫⲣⲏϯ, ⲛⲁⲕ, ⲛⲉⲙⲁϥ, ⲁϥⲓ, ⲉϥϫⲱ, ⲛⲏⲓ, ⲙⲫⲛⲟⲩϯ, ⲛϧⲏⲧϥ, ⲡⲭⲣⲓⲥⲧⲟⲥ, ⲙⲡⲁⲓⲣⲏϯ, ⲛϩⲏⲧ, ⲛⲁϥϫⲱ, ⲛⲱⲧⲉⲛ, ⲛⲉⲙⲛⲏ, ⲥⲁⲧⲟⲧϥ, ⲡⲁⲓⲣⲏϯ, ⲁⲥϣⲱⲡⲓ, ⲉⲧⲁϥⲓ, ⲛⲛⲏ, ⲙⲙⲟⲓ, ⲙⲙⲟⲕ, ⲛⲉϩⲟⲟⲩ, ⲛⲧⲟⲧϥ, ⲕⲁⲧⲁⲫⲣⲏϯ, ⲛϧⲏⲧⲟⲩ, ⲡⲓⲟⲩⲁⲓ, ϫⲉⲟⲩ, ϫⲉⲟⲩⲏⲓ, ⲁⲩⲓ, ⲉⲧⲉⲙⲙⲁⲩ, ⲛⲉⲙⲱⲟⲩ, ⲛⲥⲱϥ, ϧⲉⲛⲑⲏⲛⲟⲩ, ⲁϥϣⲉ, ⲉⲧϣⲟⲡ, ⲙⲫⲏ, ⲛⲉⲥⲱⲟⲩ, ⲟⲩⲙⲏϣ, ⲫⲛⲟⲩϯ.</li>
+<li>This corpus contains 10309 multi-word tokens. On average, one multi-word token consists of 2.69 syntactic words.</li>
+<li>There are 5602 types of multi-word tokens. Examples: ⲙⲙⲟⲥ, ⲛⲁϥ, ⲙⲙⲟϥ, ⲉⲑⲟⲩⲁⲃ, ⲛⲱⲟⲩ, ⲉⲣⲟϥ, ⲡⲉϫⲁϥ, ⲙⲙⲱⲟⲩ, ⲛⲧⲉⲫⲛⲟⲩϯ, ⲧⲏⲣⲟⲩ, ⲉⲣⲱⲟⲩ, ⲙⲫⲣⲏϯ, ⲛⲁⲕ, ⲛⲉⲙⲁϥ, ⲁϥⲓ, ⲉϥϫⲱ, ⲛⲏⲓ, ⲙⲫⲛⲟⲩϯ, ⲛϧⲏⲧϥ, ⲡⲭⲣⲓⲥⲧⲟⲥ, ⲙⲡⲁⲓⲣⲏϯ, ⲛϩⲏⲧ, ⲛⲁϥϫⲱ, ⲛⲱⲧⲉⲛ, ⲛⲉⲙⲛⲏ, ⲥⲁⲧⲟⲧϥ, ⲡⲁⲓⲣⲏϯ, ⲁⲥϣⲱⲡⲓ, ⲉⲧⲁϥⲓ, ⲛⲛⲏ, ⲙⲙⲟⲓ, ⲙⲙⲟⲕ, ⲛⲉϩⲟⲟⲩ, ⲛⲧⲟⲧϥ, ⲕⲁⲧⲁⲫⲣⲏϯ, ⲛϧⲏⲧⲟⲩ, ⲡⲓⲟⲩⲁⲓ, ϫⲉⲟⲩ, ϫⲉⲟⲩⲏⲓ, ⲁⲩⲓ, ⲉⲧⲉⲙⲙⲁⲩ, ⲛⲉⲙⲱⲟⲩ, ⲛⲥⲱϥ, ϧⲉⲛⲑⲏⲛⲟⲩ, ⲁϥϣⲉ, ⲉⲧϣⲟⲡ, ⲙⲫⲏ, ⲛⲉⲥⲱⲟⲩ, ⲟⲩⲙⲏϣ, ⲫⲛⲟⲩϯ.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -489,6 +489,19 @@ The underlying POS tagged material was produced as part of the project Coptic Sc
 
 
 <ul>
+  <li><a>Emph</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>PART: ⲁ, ⲉⲧ, ⲉ, ⲁⲣⲉ, ⲉⲣⲉ, ⲉⲧⲉ</li>
+          <li>PRON: ⲁⲣⲉ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
   <li><a>ExtPos</a>
     <ul>
       <li>ADP
@@ -553,7 +566,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (94)</li>
       <li>VERB--PRON (13)</li>
       <li>VERB-Fin--NOUN (282)</li>
-      <li>VERB-Fin--PRON (2611)</li>
+      <li>VERB-Fin--PRON (2612)</li>
     </ul>
   </li>
 </ul>

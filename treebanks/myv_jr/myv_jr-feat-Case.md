@@ -9,16 +9,16 @@ udver: '2'
 This feature is universal but the values `Cmp`, `Prl` are language-specific.
 It occurs with 15 different values: `Abe`, `Abl`, `Cmp`, `Com`, `Dat`, `Ela`, `Gen`, `Ill`, `Ine`, `Lat`, `Loc`, `Nom`, `Prl`, `Tem`, `Tra`.
 
-8784 tokens (42%) have a non-empty value of `Case`.
-4461 types (67%) occur at least once with a non-empty value of `Case`.
-2104 lemmas (68%) occur at least once with a non-empty value of `Case`.
-The feature is used with 13 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (5081; 25% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1161; 6% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (700; 3% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (514; 2% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (413; 2% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (372; 2% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (246; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (155; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (126; 1% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+8830 tokens (42%) have a non-empty value of `Case`.
+4484 types (67%) occur at least once with a non-empty value of `Case`.
+2112 lemmas (68%) occur at least once with a non-empty value of `Case`.
+The feature is used with 13 part-of-speech tags: <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> (5103; 25% instances), <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> (1167; 6% instances), <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> (707; 3% instances), <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> (522; 3% instances), <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> (414; 2% instances), <tt><a href="myv_jr-pos-ADV.html">ADV</a></tt> (372; 2% instances), <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> (248; 1% instances), <tt><a href="myv_jr-pos-DET.html">DET</a></tt> (155; 1% instances), <tt><a href="myv_jr-pos-NUM.html">NUM</a></tt> (126; 1% instances), <tt><a href="myv_jr-pos-PART.html">PART</a></tt> (11; 0% instances), <tt><a href="myv_jr-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="myv_jr-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-5081 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
+5103 <tt><a href="myv_jr-pos-NOUN.html">NOUN</a></tt> tokens (99% of all `NOUN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4282; 84%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4282; 84%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2705; 53%).
+The most frequent other feature values with which `NOUN` and `Case` co-occurred: <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (4299; 84%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (4299; 84%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (2715; 53%).
 
 `NOUN` tokens may have the following values of `Case`:
 
@@ -26,17 +26,17 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 * `Abl` (182; 4% of non-empty `Case`): <em>ёндо, пельде, ашотнеде, бандитнэде, иеде, пельдеяк, ёндояк, валдо, кавалдонть, ломанде</em>
 * `Cmp` (5; 0% of non-empty `Case`): <em>пештешка, иешка, сельмешка, чичавшка</em>
 * `Com` (5; 0% of non-empty `Case`): <em>веленек, буенек, эрицянек-мезнек</em>
-* `Dat` (112; 2% of non-empty `Case`): <em>кискатненень, кудонтень, ломантненень, мирденстэнь, тевентень, алтарентень, бандитэнтень, валдонтень, вальмантень, велентень</em>
+* `Dat` (114; 2% of non-empty `Case`): <em>кискатненень, кудонтень, ломантненень, мирденстэнь, тевентень, Цёрынентень, алтарентень, бандитэнтень, валдонтень, вальмантень</em>
 * `Ela` (205; 4% of non-empty `Case`): <em>лангсто, шкасто, кудостонть, таркастонть, кудосто, экшстэ, чистэ, шкастонть, велестэнть, вирьстэ</em>
-* `Gen` (1339; 26% of non-empty `Case`): <em>прянзо, велень, кедензэ, кенкшенть, бандитнэнь, моданть, тайганть, веленть, кудонть, роштятнень</em>
+* `Gen` (1347; 26% of non-empty `Case`): <em>прянзо, велень, кедензэ, кенкшенть, бандитнэнь, моданть, тайганть, веленть, кудонть, роштятнень</em>
 * `Ill` (319; 6% of non-empty `Case`): <em>лангс, каськас, кудос, ланкс, мельс, юткс, лангозонзо, пес, тевс, велес</em>
 * `Ine` (383; 8% of non-empty `Case`): <em>лангсо, вайгельсэ, кудосо, велесэнть, кедьсэнзэ, потсо, ютксо, велесэ, кедьсэ, ладсо</em>
 * `Lat` (106; 2% of non-empty `Case`): <em>ёнов, кудов, ушов, велев, пелев, тайгав, вальмалов, ульцяв, вирев, удалов</em>
 * `Loc` (5; 0% of non-empty `Case`): <em>томбале, Икелензэ, вальмало, пильгалонзо, ёно</em>
-* `Nom` (2212; 44% of non-empty `Case`): <em>бандитэсь, партизантнэ, тев, ялгат, ломань, течи, авазо, тол, бандитнэ, чись</em>
+* `Nom` (2223; 44% of non-empty `Case`): <em>бандитэсь, партизантнэ, тев, ялгат, ломань, течи, авазо, тол, бандитнэ, чись</em>
 * `Prl` (123; 2% of non-empty `Case`): <em>ланга, вирьганть, потмова, ульцява, юткова, кияванть, Менельганть, ваксканзо, вальмаванть, варяванть</em>
 * `Tem` (14; 0% of non-empty `Case`): <em>шкане, кизэне, пиземене</em>
-* `Tra` (58; 1% of non-empty `Case`): <em>ломанькс, пакшакс, паморьксэкс, председателькс, сиякс, ялгакс, Ацамокс, Пултокс, Урозокс, Цецякс</em>
+* `Tra` (59; 1% of non-empty `Case`): <em>ломанькс, пакшакс, паморьксэкс, председателькс, сиякс, ялгакс, Ацамокс, Пултокс, Урозокс, Цецякс</em>
 * `EMPTY` (39): <em>ялгай, тетяй, А., патяй, В., Валскень, Д., Е., И., П.</em>
 
 <table>
@@ -55,20 +55,20 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-1161 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Case`.
+1167 <tt><a href="myv_jr-pos-PRON.html">PRON</a></tt> tokens (97% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1026; 88%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (789; 68%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (697; 60%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (589; 51%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="myv_jr-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (1031; 88%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (794; 68%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (701; 60%), <tt><a href="myv_jr-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (593; 51%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Abe` (6; 1% of non-empty `Case`): <em>сынстемест, Тонтеметь, минстеменек, моньтемень, тентеме</em>
 * `Abl` (34; 3% of non-empty `Case`): <em>теде, мезде, седе, седеяк, сондензэ, весемеде, мезде-бути, мездеяк, де, киде</em>
-* `Dat` (140; 12% of non-empty `Case`): <em>тензэ, монень, тень, тонеть, тенст, теть, сонензэ, кинень, тенек, эстензэ</em>
+* `Dat` (141; 12% of non-empty `Case`): <em>тензэ, монень, тень, тонеть, тенст, теть, сонензэ, кинень, тенек, эстензэ</em>
 * `Ela` (1; 0% of non-empty `Case`): <em>конаньстэ</em>
 * `Gen` (272; 23% of non-empty `Case`): <em>сонзэ, минек, сынст, конань, монь, тень, тынк, мезень, кинь, тонь</em>
 * `Ill` (4; 0% of non-empty `Case`): <em>мезес</em>
 * `Ine` (7; 1% of non-empty `Case`): <em>мейсэ, конасонть, конатнесэ, мейсэль</em>
-* `Nom` (693; 60% of non-empty `Case`): <em>сон, весе, те, мон, тон, сонсь, мезе, минь, сынь, кие</em>
+* `Nom` (698; 60% of non-empty `Case`): <em>сон, весе, те, мон, тон, сонсь, мезе, минь, сынь, кие</em>
 * `Prl` (2; 0% of non-empty `Case`): <em>лиятневаяк, тнева</em>
 * `Tra` (2; 0% of non-empty `Case`): <em>лиякс, мезекс</em>
 * `EMPTY` (38): <em>кавонест, вейкест-вейкест, весе, колмонест, кият, ськамонзо, вейке-вейке, вейкенек-вейкенек, истямо, киян</em>
@@ -101,21 +101,21 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 ### `PROPN`
 
-700 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Case`.
+707 <tt><a href="myv_jr-pos-PROPN.html">PROPN</a></tt> tokens (99% of all `PROPN` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (682; 97%), <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (584; 83%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (487; 70%), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (469; 67%), <tt><a href="myv_jr-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (362; 52%).
+The most frequent other feature values with which `PROPN` and `Case` co-occurred: <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (689; 97%), <tt><a href="myv_jr-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (591; 84%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (492; 70%), <tt><a href="myv_jr-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (469; 66%), <tt><a href="myv_jr-feat-NameType.html">NameType</a></tt><tt>=Giv</tt> (362; 51%).
 
 `PROPN` tokens may have the following values of `Case`:
 
 * `Abl` (4; 1% of non-empty `Case`): <em>Дуняшиндэ, Громовдо, Елеськадо</em>
 * `Dat` (31; 4% of non-empty `Case`): <em>Пальконень, Марянень, Миколнэнь, Кечайнень, Любанень, Елеськанень, Иваннэнь, Кирёнень, Колчакнэнь, Лемдяйнень</em>
 * `Ela` (2; 0% of non-empty `Case`): <em>Зарецкойстэ, Инечистэ</em>
-* `Gen` (160; 23% of non-empty `Case`): <em>Любань, Миколонь, Дуняшинэнь, Рамконь, Елеськань, Пальконь, Улянь, Федоровонь, Дёбаень, Кечаень</em>
+* `Gen` (162; 23% of non-empty `Case`): <em>Любань, Миколонь, Дуняшинэнь, Рамконь, Елеськань, Пальконь, Улянь, Федоровонь, Дёбаень, Кечаень</em>
 * `Ine` (1; 0% of non-empty `Case`): <em>Парижсэ</em>
 * `Lat` (8; 1% of non-empty `Case`): <em>Цярданев, Оренбургов, Цярданевгак</em>
-* `Nom` (492; 70% of non-empty `Case`): <em>Микол, Ястребов, Палько, Люба, Федоров, Маря, Кирё, Кечай, Лапшов, Уля</em>
+* `Nom` (497; 70% of non-empty `Case`): <em>Микол, Ястребов, Палько, Люба, Федоров, Маря, Кирё, Кечай, Лапшов, Уля</em>
 * `Tra` (2; 0% of non-empty `Case`): <em>Паргелекс, Хомакс</em>
-* `EMPTY` (8): <em>Баёвасо, Бездна, Кедяровонь, Надюм, Нефёдкань, Обранынкань, Самынкань, Серьгунь</em>
+* `EMPTY` (10): <em>Ашолисьмав, Баёвасо, Бездна, Кедяровонь, Кежендеень, Надюм, Нефёдкань, Обранынкань, Самынкань, Серьгунь</em>
 
 <table>
   <tr><th>Paradigm <i>Елеська</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Abl</tt></th></tr>
@@ -127,31 +127,31 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 ### `VERB`
 
-514 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (14% of all `VERB` tokens) have a non-empty value of `Case`.
+522 <tt><a href="myv_jr-pos-VERB.html">VERB</a></tt> tokens (14% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (514; 100%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (514; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (514; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (511; 99%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (511; 99%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (424; 82%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="myv_jr-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (522; 100%), <tt><a href="myv_jr-feat-Number-obj.html">Number[obj]</a></tt><tt>=EMPTY</tt> (522; 100%), <tt><a href="myv_jr-feat-Person-obj.html">Person[obj]</a></tt><tt>=EMPTY</tt> (522; 100%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (519; 99%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (519; 99%), <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (500; 96%).
 
 `VERB` tokens may have the following values of `Case`:
 
-* `Abl` (38; 7% of non-empty `Case`): <em>Ярсамодо, Мадемадо, Неезденть, Ютазде, Ярсамодояк, аварьдемеде, валаськавтомадо, кавтолдомадо, кандомадо, каявомадо</em>
+* `Abl` (42; 8% of non-empty `Case`): <em>Ярсамодо, Мадемадо, Неезденть, Ютазде, Ярсамодояк, аварьдемеде, валаськавтомадо, дивсемеде, кавтолдомадо, кандомадо</em>
 * `Dat` (2; 0% of non-empty `Case`): <em>ледемантень, сыцятненень</em>
 * `Ela` (33; 6% of non-empty `Case`): <em>молемстэ, паломсто, чиемстэ, якамсто, Молемстэнзэ, аштемстэ, васодемстэ, вастомсто, вачкодемстэ, велявтомстост</em>
 * `Gen` (25; 5% of non-empty `Case`): <em>молицятнень, сыцятнень, Ацирьгадоманть, видематнень, дивсематнень, жалямонь, кундынь, ледицятнень, максыцянь, мизолдыцянть</em>
 * `Ill` (4; 1% of non-empty `Case`): <em>куломс, печтемс, пувамс, сыредемезэть</em>
 * `Ine` (4; 1% of non-empty `Case`): <em>самосонзо, сёрмадомасонтькак, туремасо, цяхамосост</em>
-* `Loc` (240; 47% of non-empty `Case`): <em>кортамо, оймсеме, тееме, сёрмадомо, ледеме, леднеме, эрямо, ярсамо, анокстамо, аштеме</em>
-* `Nom` (154; 30% of non-empty `Case`): <em>сэредиця, касыця, молиця, аштиця, валгиця, вечкема, кадовозь, солавтозь, эждязь, ютыця</em>
+* `Loc` (243; 47% of non-empty `Case`): <em>кортамо, оймсеме, тееме, сёрмадомо, ледеме, леднеме, эрямо, ярсамо, анокстамо, аштеме</em>
+* `Nom` (155; 30% of non-empty `Case`): <em>сэредиця, касыця, молиця, аштиця, валгиця, вечкема, кадовозь, солавтозь, эждязь, ютыця</em>
 * `Prl` (4; 1% of non-empty `Case`): <em>марямга, пансемга, таргамга</em>
 * `Tra` (10; 2% of non-empty `Case`): <em>вечкевикс, Мелявтыцякс, ваныцякс, гайгицякс, кулозекс, молицякс, пшкадицякс, талныцякс, ёвтнемакс</em>
-* `EMPTY` (3215): <em>мерсь, лиссь, ютась, мольсь, ашти, неяви, совась, маряви, саизе, сась</em>
+* `EMPTY` (3239): <em>мерсь, лиссь, мольсь, ютась, ашти, маряви, неяви, совась, лоткась, саизе</em>
 
 <table>
   <tr><th>Paradigm <i>самс</i></th><th><tt>Nom</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ine</tt></th><th><tt>Abl</tt></th></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Clitic.html">Clitic</a></tt><tt>=Add</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td><em>самоськак</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="myv_jr-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>сыцятненень</em></td><td><em>сыцятнень</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td><em>самось</em></td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Nomzr.html">Nomzr</a></tt><tt>=Ag</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>сыця</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=NomAg</tt></tt></td><td></td><td><em>сыцятненень</em></td><td><em>сыцятнень</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>Сы</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=NomAg</tt></tt></td><td><em>сыця</em></td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>самодо</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td><em>самодон</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="myv_jr-feat-VerbForm.html">VerbForm</a></tt><tt>=Vnoun</tt></tt></td><td></td><td></td><td></td><td></td><td><em>самосонзо</em></td><td></td></tr>
@@ -161,9 +161,9 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 ### `ADJ`
 
-413 <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> tokens (46% of all `ADJ` tokens) have a non-empty value of `Case`.
+414 <tt><a href="myv_jr-pos-ADJ.html">ADJ</a></tt> tokens (46% of all `ADJ` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (387; 94%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (386; 93%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (386; 93%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (356; 86%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (320; 77%).
+The most frequent other feature values with which `ADJ` and `Case` co-occurred: <tt><a href="myv_jr-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (388; 94%), <tt><a href="myv_jr-feat-Number-subj.html">Number[subj]</a></tt><tt>=EMPTY</tt> (387; 93%), <tt><a href="myv_jr-feat-Person-subj.html">Person[subj]</a></tt><tt>=EMPTY</tt> (387; 93%), <tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (357; 86%), <tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Sing</tt> (321; 78%).
 
 `ADJ` tokens may have the following values of `Case`:
 
@@ -174,7 +174,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `Ill` (2; 0% of non-empty `Case`): <em>Истямс, омбоцес</em>
 * `Ine` (3; 1% of non-empty `Case`): <em>мазысэ, омбоцесэнть, сэняжасонть</em>
 * `Lat` (1; 0% of non-empty `Case`): <em>чуморксов</em>
-* `Nom` (364; 88% of non-empty `Case`): <em>кодамо, од, омбоце, мазый, кодат, лембе, паро, покш, виев, кельме</em>
+* `Nom` (365; 88% of non-empty `Case`): <em>кодамо, од, омбоце, мазый, кодат, лембе, паро, покш, виев, кельме</em>
 * `Tra` (8; 2% of non-empty `Case`): <em>Ванькс, Колмоцекс, кондямокс, мазыйкс, меельцекс, сэтьмекс, тантейкс, чумокс</em>
 * `EMPTY` (488): <em>од, паро, арась, покш, якстере, пиже, сэрей, тусто, кедровой, берянь</em>
 
@@ -204,7 +204,7 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 * `Nom` (25; 7% of non-empty `Case`): <em>ламо, истямо, аламо, вельть, кодамо, теке, Ванды, Ков, алкукскак, байтяк</em>
 * `Prl` (16; 4% of non-empty `Case`): <em>кува, васолга, икельга, ланга, пельга, перька, тия, вакска, вальмалга, перть-пельга</em>
 * `Tra` (32; 9% of non-empty `Case`): <em>секс, мекс, лиякс, мекс-бути, лиякскак</em>
-* `EMPTY` (1301): <em>ансяк, кода, пек, истя, мейле, ней, уш, седе, прок, яла</em>
+* `EMPTY` (1306): <em>ансяк, кода, пек, истя, ней, мейле, уш, седе, прок, яла</em>
 
 <table>
   <tr><th>Paradigm <i>аламо</i></th><th><tt>Nom</tt></th><th><tt>Ill</tt></th><th><tt>Abl</tt></th></tr>
@@ -217,9 +217,9 @@ The most frequent other feature values with which `ADV` and `Case` co-occurred: 
 
 ### `ADP`
 
-246 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (52% of all `ADP` tokens) have a non-empty value of `Case`.
+248 <tt><a href="myv_jr-pos-ADP.html">ADP</a></tt> tokens (52% of all `ADP` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (154; 63%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (154; 63%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (152; 62%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (152; 62%).
+The most frequent other feature values with which `ADP` and `Case` co-occurred: <tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt> (156; 63%), <tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=EMPTY</tt> (156; 63%), <tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (154; 62%), <tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=EMPTY</tt> (154; 62%).
 
 `ADP` tokens may have the following values of `Case`:
 
@@ -227,15 +227,15 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 * `Dat` (8; 3% of non-empty `Case`): <em>туртов</em>
 * `Ela` (42; 17% of non-empty `Case`): <em>эйстэ, эйстэст, эйстэнзэ, эйстэнек, вакссто, маласто, пингстэ, пингстэяк, эйстэдест, эйстэяк</em>
 * `Ill` (36; 15% of non-empty `Case`): <em>ваксс, коряс, эйзэнзэ, таркас, эйс, вакс, ваксозон, ваксозонзо, каршозост, малазонзо</em>
-* `Ine` (64; 26% of non-empty `Case`): <em>эйсэ, эйсэнзэ, эйсэст, вакссо, эйсэнь, маласо, вакссонзо, кисэ, лацо, ладсо</em>
+* `Ine` (65; 26% of non-empty `Case`): <em>эйсэ, эйсэнзэ, вакссо, эйсэст, эйсэнь, маласо, вакссонзо, кисэ, лацо, ладсо</em>
 * `Lat` (20; 8% of non-empty `Case`): <em>икелев, алов, малав, томбалев, аловгак, удалов</em>
-* `Loc` (17; 7% of non-empty `Case`): <em>ало, икеле, Алонзо, Икелензэ, Икелень, икелест, томбале</em>
+* `Loc` (18; 7% of non-empty `Case`): <em>ало, икеле, Алонзо, Икелензэ, Икелень, икелест, томбале, удало</em>
 * `Prl` (50; 20% of non-empty `Case`): <em>перька, мельганзо, мельга, мельгаст, алга, кувалма, мельган, перьканок, Вакскан, вакска</em>
-* `EMPTY` (230): <em>марто, кис, мельга, пачк, мартонзо, перть, каршо, кисэ, кувалт, ладсо</em>
+* `EMPTY` (231): <em>марто, кис, мельга, пачк, мартонзо, перть, каршо, кисэ, кувалт, ладсо</em>
 
 <table>
   <tr><th>Paradigm <i>вакссо</i></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Prl</tt></th></tr>
-  <tr><td><tt><tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt></tt></td><td><em>вакснэ, вакссо</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt></tt></td><td><em>вакссо, вакснэ</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt>|<tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=Loc</tt></tt></td><td><em>вакссо</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt>|<tt><a href="myv_jr-feat-AdvType.html">AdvType</a></tt><tt>=Loc</tt>|<tt><a href="myv_jr-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="myv_jr-feat-Number.html">Number</a></tt><tt>=Plur,Sing</tt></tt></td><td><em>вакссо</em></td><td></td><td><em>вакска</em></td></tr>
   <tr><td><tt><tt><a href="myv_jr-feat-AdpType.html">AdpType</a></tt><tt>=Post</tt>|<tt><a href="myv_jr-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="myv_jr-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>вакссонзо</em></td><td></td><td></td></tr>
@@ -312,7 +312,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `AUX` tokens may have the following values of `Case`:
 
 * `Loc` (2; 100% of non-empty `Case`): <em>улеме</em>
-* `EMPTY` (784): <em>а, аволь, эзь, кармась, апак, ульнесь, кармасть, иля, эряви, ули</em>
+* `EMPTY` (789): <em>а, аволь, эзь, кармась, апак, ульнесь, иля, кармасть, эряви, ули</em>
 
 ### `INTJ`
 
@@ -321,7 +321,7 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 `INTJ` tokens may have the following values of `Case`:
 
 * `Nom` (2; 100% of non-empty `Case`): <em>Бах, Ой</em>
-* `EMPTY` (117): <em>вана, ох, виде, ну, вай, Арась, Эх, ура, Я, Да</em>
+* `EMPTY` (118): <em>вана, ох, виде, ну, вай, Арась, Эх, ура, Я, Да</em>
 
 ### `SCONJ`
 
@@ -341,9 +341,9 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> NOUN</tt> (22; 69%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> ADJ</tt> (20; 91%),
 <tt>ADJ --[<tt><a href="myv_jr-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (20; 74%),
-<tt>NOUN --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> PROPN</tt> (14; 100%),
+<tt>PRON --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> NOUN</tt> (15; 79%),
+<tt>NOUN --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> PROPN</tt> (14; 93%),
 <tt>NOUN --[<tt><a href="myv_jr-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (14; 52%),
-<tt>PRON --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> NOUN</tt> (14; 78%),
 <tt>PROPN --[<tt><a href="myv_jr-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (14; 78%),
 <tt>PROPN --[<tt><a href="myv_jr-dep-conj.html">conj</a></tt>]--> PROPN</tt> (13; 100%),
 <tt>PRON --[<tt><a href="myv_jr-dep-appos.html">appos</a></tt>]--> PROPN</tt> (12; 92%).

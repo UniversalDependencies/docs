@@ -37,7 +37,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 13	i	i	CCONJ	Cc	_	14	cc	_	_
 14	kršenja	kršenje	NOUN	Ncnsg	Case=Gen|Gender=Neut|Number=Sing	12	conj	_	_
 15	autorskih	autorski	ADJ	Agpnpgy	Case=Gen|Definite=Def|Degree=Pos|Gender=Neut|Number=Plur	16	amod	_	_
-16	prava	pravo	NOUN	Ncnpg	Case=Gen|Gender=Neut|Number=Plur	14	obl	_	_
+16	prava	pravo	NOUN	Ncnpg	Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	_
 17	--	--	PUNCT	Z	_	21	punct	_	_
 18	što	što	PRON	Pi3n-n	Case=Nom|Gender=Neut|PronType=Int,Rel	21	nsubj	_	_
 19	je	biti	AUX	Var3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
@@ -50,7 +50,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 26	Makedonije	Makedonija	PROPN	Npfsg	Case=Gen|Gender=Fem|Number=Sing	25	nmod	_	_
 27	za	za	ADP	Sa	Case=Acc	28	case	_	_
 28	pridruživanje	pridruživanje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	25	nmod	_	_
-29	EU	EU	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	28	obl	_	SpaceAfter=No
+29	EU	EU	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	28	nmod	_	SpaceAfter=No
 30	.	.	PUNCT	Z	_	1	punct	_	_
 
 ~~~

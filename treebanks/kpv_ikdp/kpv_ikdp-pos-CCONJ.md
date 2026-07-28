@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Komi_Zyrian-IKDP: POS Tags: `CCONJ`
 
 There are 6 `CCONJ` lemmas (1%), 6 `CCONJ` types (1%) and 123 `CCONJ` tokens (5%).
-Out of 16 observed tags, the rank of `CCONJ` is: 15 in number of lemmas, 15 in number of types and 6 in number of tokens.
+Out of 16 observed tags, the rank of `CCONJ` is: 14 in number of lemmas, 15 in number of types and 6 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>и, а, но, да, или, али</em>
 
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  <em>и</em> (<tt><a href="kpv_ikdp-pos-CC
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.341115).
+The form / lemma ratio of `CCONJ` is 1.000000 (the average of all parts of speech is 1.342857).
 
 The 1st highest number of forms (1) was observed with the lemma “а”: <em>а</em>.
 

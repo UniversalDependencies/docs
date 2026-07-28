@@ -23,4 +23,4 @@ obl:float(Understand, both)
 
 #### References
 Я. Г. Тестелец. Введение в общий синтаксис. М.: РГГУ, 2001.
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:26 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:32 CEST -->

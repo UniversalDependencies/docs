@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="eo_prago-pos-PRON.h
 
 213 <tt><a href="eo_prago-pos-PRON.html">PRON</a></tt> tokens (73% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="eo_prago-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (202; 95%), <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt> (172; 81%), <tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=Sing</tt> (164; 77%), <tt><a href="eo_prago-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (142; 67%), <tt><a href="eo_prago-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (142; 67%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="eo_prago-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (212; 100%), <tt><a href="eo_prago-feat-Case.html">Case</a></tt><tt>=Nom</tt> (172; 81%), <tt><a href="eo_prago-feat-Number.html">Number</a></tt><tt>=Sing</tt> (164; 77%), <tt><a href="eo_prago-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (142; 67%), <tt><a href="eo_prago-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (142; 67%).
 
 `PRON` tokens may have the following values of `Person`:
 

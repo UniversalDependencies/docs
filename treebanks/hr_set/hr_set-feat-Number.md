@@ -268,13 +268,13 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="hr_set-dep-amod.html">amod</a></tt>]--> ADJ</tt> (17182; 95%),
-<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9184; 62%),
+<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (9260; 62%),
 <tt>VERB --[<tt><a href="hr_set-dep-aux.html">aux</a></tt>]--> AUX</tt> (5315; 82%),
 <tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4898; 85%),
-<tt>VERB --[<tt><a href="hr_set-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3848; 51%),
+<tt>VERB --[<tt><a href="hr_set-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3849; 51%),
 <tt>NOUN --[<tt><a href="hr_set-dep-det.html">det</a></tt>]--> DET</tt> (3213; 98%),
 <tt>NOUN --[<tt><a href="hr_set-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2864; 78%),
 <tt>PROPN --[<tt><a href="hr_set-dep-flat.html">flat</a></tt>]--> PROPN</tt> (2390; 99%),
-<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2092; 74%),
+<tt>NOUN --[<tt><a href="hr_set-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (2101; 74%),
 <tt>VERB --[<tt><a href="hr_set-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (1769; 88%).
 

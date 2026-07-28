@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-680 nodes (2%) are attached to their parents as `amod`.
+713 nodes (3%) are attached to their parents as `amod`.
 
-679 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16764705882353.
+712 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15988779803647.
 
-The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (657; 97% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `amod`: <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (689; 97% instances), <tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (16; 2% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt>-<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -60,19 +60,22 @@ The following 7 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 amod	color:blue
-1	טאָמס	טאָם	PROPN	_	_	2	nmod:poss	_	Translit=toms|Translit_Lemma=tom
-2	משפּחה	משפּחה	NOUN	_	_	7	nsubj	_	Translit=mishpokhe|Translit_Lemma=mishpokhe
-3	איז	זײַן	AUX	_	_	7	cop	_	Translit=iz|Translit_Lemma=zayn
-4	פֿון	פֿון	ADP	_	_	7	case	_	Translit=fun|Translit_Lemma=fun
-5	די	דער	DET	_	_	7	det	_	Translit=di|Translit_Lemma=der
-6	אַלטשטאַמיקע	אַלטשטאַמיק	ADJ	_	_	7	amod	_	Translit=altshtamike|Translit_Lemma=altshtamik
-7	רײַכע	רײַך	ADJ	_	_	0	root	_	SpaceAfter=No|Translit=raykhe|Translit_Lemma=raykh
-8	.	.	PUNCT	_	_	7	punct	_	Translit=.|Translit_Lemma=.
+# visual-style 6 5 amod	color:blue
+1	עס	עס	PRON	_	_	6	nsubj	_	Translit=es|Translit_Lemma=es
+2	זענען	זײַן	AUX	_	_	6	aux	_	Translit=zenen|Translit_Lemma=zayn
+3	געװען	זײַן	AUX	_	_	6	cop	_	Translit=geven|Translit_Lemma=zayn
+4	צוויי	צװײ	NUM	_	_	6	nummod	_	Translit=tsvey|Translit_Lemma=tsvey
+5	הויפּט	הויפּט	NOUN	_	_	6	amod	_	Translit=hoypt|Translit_Lemma=hoypt
+6	גרופּעס	גרופּע	NOUN	_	_	0	root	_	Translit=grupes|Translit_Lemma=grupe
+7	פֿון	פֿון	ADP	_	_	10	case	_	Translit=fun|Translit_Lemma=fun
+8	די	דער	DET	_	_	10	det	_	Translit=di|Translit_Lemma=der
+9	יידישע	יידיש	ADJ	_	_	10	amod	_	Translit=yidishe|Translit_Lemma=yidish
+10	דיאלעקטן	דיאלעקט	NOUN	_	_	6	nmod	_	SpaceAfter=No|Translit=dielektn|Translit_Lemma=dyalekt
+11	.	.	PUNCT	_	_	6	punct	_	Translit=.|Translit_Lemma=.
 
 ~~~
 

@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.14 release
 The following people have contributed to making this treebank part of UD: Johnatan Bonilla.
 
 Repository: [UD_Spanish-COSER](https://github.com/UniversalDependencies/UD_Spanish-COSER)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_coser217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_coser218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -200,8 +200,8 @@ Daniel Zeman (guidelines consulting)
 <ul>
   <li>Masc
     <ul>
-      <li>ADJ: buen, bueno, criollo, mismo, Enrazao, alto, bonito, duro, enterrao, espesito</li>
-      <li>ADJ-Part: Enrazao, enterrao, sentao, Enrazado, aficionao, asao, asustado, delgao, delicado, dicho</li>
+      <li>ADJ: buen, bueno, criollo, mismo, Enrazao, San, alto, bonito, duro, enterrao</li>
+      <li>ADJ-Part: Enrazao, enterrao, sentao, Enrazado, aficionao, asao, asustado, delgao, dicho, educado</li>
       <li>AUX-Part: sío, estado, sido</li>
       <li>DET: el, un, los, todo, unos, otro, mucho, to, todos, muchos</li>
       <li>NOUN: años, días, día, pueblo, hijos, marido, ejemplo, aceite, año, cerdo</li>
@@ -237,7 +237,7 @@ Daniel Zeman (guidelines consulting)
   <li>Sing
     <ul>
       <li>ADJ: grande, natural, buen, diferente, joven, buena, bueno, criollo, igual, mismo</li>
-      <li>ADJ-Part: Enrazao, enterrao, sentao, Enrazado, aficionao, asao, asustado, delgao, delicado, dicho</li>
+      <li>ADJ-Part: Enrazao, enterrao, sentao, Enrazado, aficionao, asao, asustado, delgao, dicho, dá</li>
       <li>AUX-Fin: es, era, ha, he, sea, está, estaba, fue, fui, eres</li>
       <li>AUX-Part: sío, estado, sido</li>
       <li>DET: la, el, un, una, mi, todo, mucha, otra, su, esta</li>
@@ -490,7 +490,7 @@ Daniel Zeman (guidelines consulting)
 <ul>
   <li>Art
     <ul>
-      <li>DET: la, el, un, una, las, los, unos, unas, l</li>
+      <li>DET: la, el, un, una, las, los, unos, unas, l, lo</li>
     </ul>
   </li>
 </ul>
@@ -527,7 +527,6 @@ Daniel Zeman (guidelines consulting)
       <li>ADV: cuándo</li>
       <li>DET: Cuántos, cuantos</li>
       <li>PRON: cómo, qué, dónde, cuándo, quién, Cuántos</li>
-      <li>SCONJ: como</li>
     </ul>
   </li>
 </ul>

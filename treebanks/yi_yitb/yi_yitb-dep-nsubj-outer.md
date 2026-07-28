@@ -75,7 +75,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 10	װעט	װעלן	AUX	_	_	13	aux	_	Translit=vet|Translit_Lemma=veln
 11	ער	ער	PRON	_	_	13	nsubj	_	Translit=er|Translit_Lemma=er
 12	זיך	זיך	PRON	_	_	13	expl:pv	_	Translit=zikh|Translit_Lemma=zikh
-13	מערן	מער	VERB	_	_	2	parataxis	_	SpaceAfter=No|Translit=mern|Translit_Lemma=mer
+13	מערן	מערן	VERB	_	_	2	parataxis	_	SpaceAfter=No|Translit=mern|Translit_Lemma=mern
 14	,	,	PUNCT	_	_	31	punct	_	Translit=,|Translit_Lemma=,
 15	און	און	CCONJ	_	_	31	cc	_	Translit=un|Translit_Lemma=un
 16	עס	עס	PRON	_	_	31	nsubj:outer	_	Translit=es|Translit_Lemma=es
@@ -93,9 +93,9 @@ The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 28	װעט	װעלן	AUX	_	_	31	aux	_	Translit=vet|Translit_Lemma=veln
 29	ער	ער	PRON	_	_	31	nsubj	_	Translit=er|Translit_Lemma=er
 30	אױך	אױך	ADV	_	_	31	advmod	_	Translit=oykh|Translit_Lemma=oykh
-31	צושטײן	צושטײַנען	VERB	_	_	13	conj	_	Translit=tsushteyn|Translit_Lemma=tsushtaynen
+31	צושטײן	צושטײן	VERB	_	_	13	conj	_	Translit=tsushteyn|Translit_Lemma=tsushteyn
 32	צו	צו	ADP	_	_	34	case	_	Translit=tsu|Translit_Lemma=tsu
-33	אונדזערע	אונדזערע	DET	_	_	34	det:poss	_	Translit=undzere|Translit_Lemma=undzere
+33	אונדזערע	אונדזער	DET	_	_	34	det:poss	_	Translit=undzere|Translit_Lemma=undzer
 34	פֿײַנט	פֿײַנט	NOUN	_	_	31	obl	_	SpaceAfter=No|Translit=faynt|Translit_Lemma=faynt
 35	,	,	PUNCT	_	_	40	punct	_	Translit=,|Translit_Lemma=,
 36	און	און	CCONJ	_	_	40	cc	_	Translit=un|Translit_Lemma=un
@@ -108,7 +108,7 @@ The following 3 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 43	,	,	PUNCT	_	_	46	punct	_	Translit=,|Translit_Lemma=,
 44	און	און	CCONJ	_	_	46	cc	_	Translit=un|Translit_Lemma=un
 45	װעט	װעלן	AUX	_	_	46	aux	_	Translit=vet|Translit_Lemma=veln
-46	אַרױסגײן	אַרױסגײַן	VERB	_	_	13	conj	_	Translit=aroysgeyn|Translit_Lemma=aroysgayn
+46	אַרױסגײן	אַרױסגײן	VERB	_	_	13	conj	_	Translit=aroysgeyn|Translit_Lemma=aroysgeyn
 47	פֿון	פֿון	ADP	_	_	48	case	_	Translit=fun|Translit_Lemma=fun
 48	לאַנד	לאַנד	NOUN	_	_	46	obl	_	SpaceAfter=No|Translit=land|Translit_Lemma=land
 49	.	.	PUNCT	_	_	2	punct	_	Translit=.|Translit_Lemma=.

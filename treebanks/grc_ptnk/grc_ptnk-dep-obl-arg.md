@@ -23,12 +23,12 @@ The following 2 pairs of parts of speech are connected with `obl:arg`: <tt><a hr
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 7 obl:arg	color:blue
-1	ὁ	ὁ	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=the;-oh|Ref=GEN_9.6
+1	ὁ	ὁ	DET	_	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=the;-oh|Ref=GEN_9.6
 2	ἐκχέων	ἐκχέω	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	dislocated	_	Gloss=to-gush-out,shed|Ref=GEN_9.6
 3	αἷμα	αἷμα	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Gloss=blood|Ref=GEN_9.6
 4	ἀνθρώπου	ἄνθρωπος	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod:poss	_	Gloss=man|Ref=GEN_9.6
 5	ἀντὶ	ἀντί	ADP	_	_	7	case	_	Gloss=instead-of,against|Ref=GEN_9.6
-6	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=GEN_9.6
+6	τοῦ	ὁ	DET	_	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	7	det	_	Gloss=the|Ref=GEN_9.6
 7	αἵματος	αἷμα	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	9	obl:arg	_	Gloss=blood|Ref=GEN_9.6
 8	αὐτοῦ	αὐτός	PRON	_	Case=Gen|Gender=Masc,Neut|Number=Sing|PronType=Prs	9	nsubj:pass	_	Gloss=he,she,it,-self,same|Ref=GEN_9.6
 9	ἐκχυθήσεται	ἐκχέω	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	Gloss=to-gush-out,shed|Ref=GEN_9.6|SpaceAfter=No

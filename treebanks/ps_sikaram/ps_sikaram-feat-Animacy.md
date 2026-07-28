@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Hum`, `Nhum`.
 
-15 tokens (0%) have a non-empty value of `Animacy`.
+16 tokens (0%) have a non-empty value of `Animacy`.
 7 types (1%) occur at least once with a non-empty value of `Animacy`.
-5 lemmas (1%) occur at least once with a non-empty value of `Animacy`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (13; 0% instances), <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (2; 0% instances).
+5 lemmas (0%) occur at least once with a non-empty value of `Animacy`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> (14; 0% instances), <tt><a href="ps_sikaram-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `PRON`
 
-13 <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> tokens (7% of all `PRON` tokens) have a non-empty value of `Animacy`.
+14 <tt><a href="ps_sikaram-pos-PRON.html">PRON</a></tt> tokens (6% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="ps_sikaram-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (12; 92%).
+The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="ps_sikaram-feat-Deixis.html">Deixis</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="ps_sikaram-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="ps_sikaram-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="ps_sikaram-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (14; 100%), <tt><a href="ps_sikaram-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 93%), <tt><a href="ps_sikaram-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (13; 93%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
-* `Hum` (8; 62% of non-empty `Animacy`): <em>څوک, چا, هرڅوک, هیڅوک</em>
-* `Nhum` (5; 38% of non-empty `Animacy`): <em>څه, هرڅه</em>
-* `EMPTY` (183): <em>يې, چې, ور, دا, دې, دوی, هغوی, یې, ځان, زموږ</em>
+* `Hum` (8; 57% of non-empty `Animacy`): <em>څوک, چا, هرڅوک, هیڅوک</em>
+* `Nhum` (6; 43% of non-empty `Animacy`): <em>څه, هرڅه</em>
+* `EMPTY` (202): <em>يې, ور, دا, دې, یې, ده, دوی, هغه, هغوی, خپله</em>
 
 ### `DET`
 
@@ -35,5 +35,5 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 `DET` tokens may have the following values of `Animacy`:
 
 * `Nhum` (2; 100% of non-empty `Animacy`): <em>څه, څۀ</em>
-* `EMPTY` (156): <em>هغه, دغه, دې, خپل, داسې, هر, ځینې, څو, خپله, همدغه</em>
+* `EMPTY` (194): <em>هغه, دغه, دې, خپل, ځینې, څو, داسې, هر, همدغه, کوم</em>
 

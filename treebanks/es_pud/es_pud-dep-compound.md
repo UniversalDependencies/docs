@@ -38,14 +38,14 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 13	nunca	nunca	ADV	RB	_	11	advcl	_	_
 14	en	en	ADP	IN	_	16	case	_	_
 15	Wall	Wall	PROPN	NNP	Foreign=Yes|Number=Sing	16	compound	_	Lang=en
-16	Street	street	NOUN	NN	Foreign=Yes|Number=Sing	7	obl	_	Lang=en|SpaceAfter=No|Proper=True
-17	,	,	PUNCT	,	PunctType=Comm	19	punct	_	_
-18	incluso	incluso	ADV	RB	_	19	advmod	_	_
-19	más	más	ADV	RBR	Degree=Cmp	7	conj	_	_
-20	que	que	ADP	IN	_	23	case	_	_
-21	en	en	ADP	IN	_	23	obl	_	_
+16	Street	street	NOUN	NN	Foreign=Yes|Number=Sing	7	obl	_	Lang=en|Proper=True|SpaceAfter=No
+17	,	,	PUNCT	,	PunctType=Comm	23	punct	_	_
+18	incluso	incluso	ADV	RB	_	23	advmod	_	_
+19	más	más	ADV	RBR	Degree=Cmp	23	advmod	_	_
+20	que	que	ADP	IN	_	19	fixed	_	_
+21	en	en	ADP	IN	_	23	case	_	_
 22	Silicon	silicon	NOUN	NN	Foreign=Yes|Number=Sing	23	compound	_	Lang=en|Proper=True
-23	Valley	valley	NOUN	NN	Foreign=Yes|Number=Sing	19	obl	_	Lang=en|SpaceAfter=No|Proper=True
+23	Valley	valley	NOUN	NN	Foreign=Yes|Number=Sing	7	conj	_	Lang=en|Proper=True|SpaceAfter=No
 24	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
 
 ~~~
@@ -64,16 +64,16 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 5	,	,	PUNCT	,	PunctType=Comm	2	punct	_	_
 6	el	el	DET	DT	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	tratado	tratado	NOUN	NN	Gender=Masc|Number=Sing	12	nsubj:pass	_	_
-8	franco	franco	ADJ	AFX	Hyph=Yes	10	compound	_	SpaceAfter=No|Proper=True
+8	franco	franco	ADJ	AFX	Hyph=Yes	10	compound	_	Proper=True|SpaceAfter=No
 9	-	-	PUNCT	-	PunctType=Dash	8	punct	_	SpaceAfter=No
 10	monegasco	monegasco	ADJ	JJ	Gender=Masc|Number=Sing	7	amod	_	Proper=True
 11	fue	ser	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
 12	firmado	firmar	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 13	,	,	PUNCT	,	PunctType=Comm	14	punct	_	_
 14	ofreciendo	ofrecer	VERB	VBG	VerbForm=Ger	12	advcl	_	_
-15	limitada	limitado	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	_
+15	limitada	limitado	ADJ	JJ	Gender=Fem|Number=Sing|VerbForm=Part	16	amod	_	_
 16	protección	protección	NOUN	NN	Gender=Fem|Number=Sing	14	obj	_	_
-17	francesa	franceso	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	Proper=True
+17	francesa	francés	ADJ	JJ	Gender=Fem|Number=Sing	16	amod	_	Proper=True
 18	sobre	sobre	ADP	IN	_	19	case	_	_
 19	Mónaco	Mónaco	PROPN	NNP	Number=Sing	16	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	.	PunctType=Peri	12	punct	_	_
@@ -102,14 +102,14 @@ The following 8 pairs of parts of speech are connected with `compound`: <tt><a h
 13	nunca	nunca	ADV	RB	_	11	advcl	_	_
 14	en	en	ADP	IN	_	16	case	_	_
 15	Wall	Wall	PROPN	NNP	Foreign=Yes|Number=Sing	16	compound	_	Lang=en
-16	Street	street	NOUN	NN	Foreign=Yes|Number=Sing	7	obl	_	Lang=en|SpaceAfter=No|Proper=True
-17	,	,	PUNCT	,	PunctType=Comm	19	punct	_	_
-18	incluso	incluso	ADV	RB	_	19	advmod	_	_
-19	más	más	ADV	RBR	Degree=Cmp	7	conj	_	_
-20	que	que	ADP	IN	_	23	case	_	_
-21	en	en	ADP	IN	_	23	obl	_	_
+16	Street	street	NOUN	NN	Foreign=Yes|Number=Sing	7	obl	_	Lang=en|Proper=True|SpaceAfter=No
+17	,	,	PUNCT	,	PunctType=Comm	23	punct	_	_
+18	incluso	incluso	ADV	RB	_	23	advmod	_	_
+19	más	más	ADV	RBR	Degree=Cmp	23	advmod	_	_
+20	que	que	ADP	IN	_	19	fixed	_	_
+21	en	en	ADP	IN	_	23	case	_	_
 22	Silicon	silicon	NOUN	NN	Foreign=Yes|Number=Sing	23	compound	_	Lang=en|Proper=True
-23	Valley	valley	NOUN	NN	Foreign=Yes|Number=Sing	19	obl	_	Lang=en|SpaceAfter=No|Proper=True
+23	Valley	valley	NOUN	NN	Foreign=Yes|Number=Sing	7	conj	_	Lang=en|Proper=True|SpaceAfter=No
 24	.	.	PUNCT	.	PunctType=Peri	7	punct	_	_
 
 ~~~

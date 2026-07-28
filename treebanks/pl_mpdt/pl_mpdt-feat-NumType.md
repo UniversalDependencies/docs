@@ -55,5 +55,5 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>ADJ --[<tt><a href="pl_mpdt-dep-amod-flat.html">amod:flat</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="pl_mpdt-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="pl_mpdt-dep-nmod.html">nmod</a></tt>]--> ADJ</tt> (2; 67%),
-<tt>DET --[<tt><a href="pl_mpdt-dep-obl-cmpr.html">obl:cmpr</a></tt>]--> DET</tt> (2; 100%).
+<tt>DET --[<tt><a href="pl_mpdt-dep-obl-cmp.html">obl:cmp</a></tt>]--> DET</tt> (2; 100%).
 

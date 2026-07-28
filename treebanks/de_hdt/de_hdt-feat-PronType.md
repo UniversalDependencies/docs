@@ -19,7 +19,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="de_hdt-pos-DET.html
 
 494367 <tt><a href="de_hdt-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="de_hdt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (424406; 86%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (396067; 80%), <tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (359943; 73%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="de_hdt-feat-NumType.html">NumType</a></tt><tt>=EMPTY</tt> (424406; 86%), <tt><a href="de_hdt-feat-Number.html">Number</a></tt><tt>=Sing</tt> (396068; 80%), <tt><a href="de_hdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (359943; 73%).
 
 `DET` tokens may have the following values of `PronType`:
 

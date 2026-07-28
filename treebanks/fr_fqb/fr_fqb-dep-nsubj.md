@@ -46,7 +46,7 @@ The following 17 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 4 6 nsubj	color:blue
 1	à	à	ADP	_	_	2	case	_	_
 2	combien	combien	ADV	_	PronType=Int	4	obl:arg	_	_
-3	s'	le/lui	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:comp	_	SpaceAfter=No
+3	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	SpaceAfter=No
 4	élève	élever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	mon	son	DET	_	Number=Sing|Poss=Yes|PronType=Prs	6	det	_	_
 6	aide	aide	NOUN	_	Number=Sing	4	nsubj	_	_
@@ -65,7 +65,7 @@ The following 17 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 2 nsubj	color:blue
 1	Puis	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-2	-je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+2	-je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 3	avoir	avoir	VERB	_	VerbForm=Inf	1	xcomp	_	_
 4	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	aide	aide	NOUN	_	Number=Sing	3	obj	_	_

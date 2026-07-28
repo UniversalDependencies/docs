@@ -19,4 +19,4 @@ mark(píbanti, yátra)
 nsubj(píbanti, gā́vas)
 nmod(gā́vas, nas)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:04 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:31 CEST -->

@@ -88,4 +88,4 @@ counterpart in English, and thus the translations are approximate.
 * _sillä_ "because"
 * _sitten kun_ "then when"
 * _vähän kuin_ "a bit like"
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:02 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->

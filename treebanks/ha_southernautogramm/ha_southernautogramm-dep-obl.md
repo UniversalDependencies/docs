@@ -7,53 +7,58 @@ udver: '2'
 ## Treebank Statistics: UD_Hausa-SouthernAutogramm: Relations: `obl`
 
 This relation is universal.
-There are 1 language-specific subtypes of `obl`: <tt><a href="ha_southernautogramm-dep-obl-arg.html">obl:arg</a></tt>.
+There are 2 language-specific subtypes of `obl`: <tt><a href="ha_southernautogramm-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="ha_southernautogramm-dep-obl-mod.html">obl:mod</a></tt>.
 
-278 nodes (2%) are attached to their parents as `obl`.
+74 nodes (1%) are attached to their parents as `obl`.
 
-175 instances of `obl` (63%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.1294964028777.
+74 instances of `obl` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.39189189189189.
 
-The following 27 pairs of parts of speech are connected with `obl`: <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (151; 54% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (33; 12% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (12; 4% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (12; 4% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (9; 3% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (6; 2% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (5; 2% instances), <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (4; 1% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="ha_southernautogramm-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-ADP.html">ADP</a></tt>-<tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt>-<tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_southernautogramm-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-AUX.html">AUX</a></tt>-<tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt>-<tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `obl`: <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (47; 64% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-ADV.html">ADV</a></tt> (5; 7% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (5; 7% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (5; 7% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-PROPN.html">PROPN</a></tt> (4; 5% instances), <tt><a href="ha_southernautogramm-pos-PART.html">PART</a></tt>-<tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="ha_southernautogramm-pos-VERB.html">VERB</a></tt>-<tt><a href="ha_southernautogramm-pos-PRON.html">PRON</a></tt> (2; 3% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 1 obl	color:blue
-1	loːkàcin	loːkàcin	NOUN	_	Definite=Ind	9	obl	_	AlignBegin=14029|AlignEnd=14108|Gloss=time
-2	dà	dà	SCONJ	_	_	4	mark	_	AlignBegin=14187|AlignEnd=14345|Gloss=COMP
-3	ka	_	AUX	(n)kà	Aspect=PerfBkg|Gender=Masc|Person=2	4	aux	_	AlignBegin=14345|AlignEnd=14503|Background=Yes|Gloss=2Masc.Perf.Bkg
-4	zaunàː	zaun-	VERB	_	_	1	acl:relcl	_	AlignBegin=14503|AlignEnd=14661|Gloss=stay
-5	à	à	ADP	_	_	6	case	_	AlignBegin=14661|AlignEnd=14819|Gloss=at
-6	wurintà	wuriː	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=3	4	obl:arg	_	AlignBegin=14819|AlignEnd=14872|Gloss=place.Cons.3Fem.Gen|wordform=wurin
-7	<	<	PUNCT	_	_	1	punct	_	AlignBegin=14977|AlignEnd=15135|Gloss=PUNCT
-8	kaː	_	AUX	yaː	Aspect=Perf|Gender=Masc|Person=2	9	aux	_	AlignBegin=15135|AlignEnd=15293|Gloss=2Masc.Perf
-9	daɗèː	daɗèː	VERB	_	_	0	root	_	AlignBegin=15293|AlignEnd=15451|Gloss=last
-10	à	à	ADP	_	_	11	case	_	AlignBegin=15451|AlignEnd=15609|Gloss=at
-11	wurintà	wuriː	NOUN	_	Case=Gen|Definite=Cons|Gender=Fem|Person=3	9	obl:arg	_	AlignBegin=15609|AlignEnd=15662|Gloss=place.Cons.3Fem.Gen|wordform=wurin
-12	koː	koː	CCONJ	_	_	9	cc	_	AlignBegin=15767|AlignEnd=15925|Gloss=or
-13	kùwa	kùwa	PART	_	PartType=Top	9	discourse	_	AlignBegin=15925|AlignEnd=16083|Gloss=as_for
-14	?//	?//	PUNCT	_	_	9	punct	_	AlignBegin=16083|AlignEnd=16248|Gloss=PUNCT
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 13 obl	color:blue
+1	ìdan	ìdan	SCONJ	_	_	3	mark	_	AlignBegin=91596|AlignEnd=91815|Gloss=if
+2	an	yaː	AUX	_	Aspect=Perf|Person=4	3	aux	_	AlignBegin=91815|AlignEnd=92034|Gloss=4.Perf
+3	dafàː	dafàː	VERB	_	_	6	advcl	_	AlignBegin=92034|AlignEnd=92253|Gloss=cook
+4	<	<	PUNCT	_	_	6	punct	_	AlignBegin=92253|AlignEnd=92472|Gloss=PUNCT
+5	mukàn	kàn	AUX	_	Aspect=Hab|Number=Plur|Person=1	6	aux	_	AlignBegin=92472|AlignEnd=92582|Gloss=1Plur.Hab
+6	ɗaukàː	ɗauk-	VERB	_	_	0	root	_	AlignBegin=92582|AlignEnd=92691|Gloss=take
+7	sai	sai	ADV	_	_	9	advmod	_	AlignBegin=93129|AlignEnd=93348|Gloss=then
+8	mù	yà	AUX	_	Mood=Sub|Number=Plur|Person=1	9	aux	_	AlignBegin=93348|AlignEnd=93567|Gloss=1Plur.Sub
+9	jeː	jeː	VERB	_	_	6	parataxis	_	AlignBegin=93567|AlignEnd=93786|Gloss=go
+10	mù	yà	AUX	_	Mood=Sub|Number=Plur|Person=1	11	aux	_	AlignBegin=93786|AlignEnd=94005|Gloss=1Plur.Sub
+11	kai	kai	VERB	_	_	9	parataxis	_	AlignBegin=94005|AlignEnd=94224|Gloss=carry
+12	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	11	obj	_	AlignBegin=94224|AlignEnd=94443|Gloss=3Masc
+13	kàːsuwaː	kàːsuwaː	NOUN	_	Definite=Ind	11	obl	_	AlignBegin=94443|AlignEnd=94662|Gloss=market
+14	//	//	PUNCT	_	_	6	punct	_	AlignBegin=94662|AlignEnd=94884|Gloss=PUNCT
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 obl	color:blue
-1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	obl	_	AlignBegin=95002|AlignEnd=95141|Gloss=3Masc.Nom
-2	maː	maː	PART	_	PartType=Top	1	discourse	_	AlignBegin=95141|AlignEnd=95280|Gloss=even
-3	mù	_	AUX	ø	Aspect=Aor|Number=Plur|Person=1	4	aux	_	AlignBegin=95280|AlignEnd=95419|Gloss=1Plur.Aor
-4	jeː	jeː	VERB	_	_	0	root	_	AlignBegin=95419|AlignEnd=95558|Gloss=go
-5	mù	_	AUX	ø	Aspect=Aor|Number=Plur|Person=1	6	aux	_	AlignBegin=95558|AlignEnd=95697|Gloss=1Plur.Aor
-6	sayar̃	sayar̃	VERB	_	_	4	parataxis	_	AlignBegin=95697|AlignEnd=95836|Gloss=sell.Cau
-7	//	//	PUNCT	_	_	4	punct	_	AlignBegin=95836|AlignEnd=95978|Gloss=PUNCT
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 11 obl	color:blue
+1	takàn	kàn	AUX	_	Aspect=Hab|Gender=Fem|Person=3	2	aux	_	AlignBegin=68274|AlignEnd=68569|Gloss=3Fem.Hab
+2	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=68864|AlignEnd=69159|Gloss=come
+3	|c	|c	PUNCT	_	_	6	punct	_	AlignBegin=69159|AlignEnd=69454|Gloss=PUNCT
+4	eːàː	eːàː	INTJ	_	_	6	discourse	_	AlignBegin=69454|AlignEnd=69749|Gloss=FILL
+5	mù	yà	AUX	_	Mood=Sub|Number=Plur|Person=1	6	aux	_	AlignBegin=70044|AlignEnd=70339|Gloss=1Plur.Sub
+6	shiryàː	shiry-	VERB	_	_	2	conj	_	AlignBegin=70339|AlignEnd=70634|Gloss=get_ready
+7	|c	|c	PUNCT	_	_	10	punct	_	AlignBegin=70634|AlignEnd=70929|Gloss=PUNCT
+8	sai	sai	ADV	_	_	10	advmod	_	AlignBegin=70929|AlignEnd=71224|Gloss=then
+9	mù	yà	AUX	_	Mood=Sub|Number=Plur|Person=1	10	aux	_	AlignBegin=71224|AlignEnd=71519|Gloss=1Plur.Sub
+10	tàfi	taf-	VERB	_	_	2	conj	_	AlignBegin=71519|AlignEnd=71814|Gloss=go
+11	daːjì	daːjì	ADV	_	_	10	obl	_	AlignBegin=71814|AlignEnd=72109|Gloss=in_the_bush
+12	//	//	PUNCT	_	_	2	punct	_	AlignBegin=72109|AlignEnd=72399|Gloss=PUNCT
 
 ~~~
 
@@ -61,16 +66,16 @@ The following 27 pairs of parts of speech are connected with `obl`: <tt><a href=
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 obl	color:blue
-1	tòː	tòː	INTJ	_	_	6	discourse	_	AlignBegin=254245|AlignEnd=254337|Gloss=well
-2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	dislocated	_	AlignBegin=254337|AlignEnd=254428|Gloss=3Masc.Nom
-3	sân	sâː	NOUN	_	Definite=Def	2	appos	_	AlignBegin=254611|AlignEnd=254672|Gloss=bull.Def
-4	<	<	PUNCT	_	_	2	punct	_	AlignBegin=254733|AlignEnd=254794|Gloss=PUNCT
-5	loːkàcîn	loːkàciː	NOUN	_	Definite=Def	6	obl	_	AlignBegin=254977|AlignEnd=255069|Gloss=time.Def
-6	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	AlignBegin=255160|AlignEnd=255343|Gloss=there_is|Scrap=Yes
-7	&//	&//	PUNCT	_	_	6	punct	_	AlignBegin=255343|AlignEnd=255521|Gloss=PUNCT
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 obl	color:blue
+1	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	2	aux	_	AlignBegin=535025|AlignEnd=535219|Gloss=3Masc.Perf.Rel|Relative=Yes
+2	tahoː	tahoː	VERB	_	_	0	root	_	AlignBegin=535219|AlignEnd=535413|Gloss=go.DIR
+3	ya	yaː	AUX	_	Aspect=Perf|Gender=Masc|Person=3	4	aux	_	AlignBegin=535413|AlignEnd=535607|Gloss=3Masc.Perf.Rel|Relative=Yes
+4	jeː	jeː	VERB	_	_	2	parataxis	_	AlignBegin=535607|AlignEnd=535801|Gloss=go
+5	Ùngwan	Ùngwan	PROPN	_	Definite=Cons	4	obl	_	AlignBegin=535995|AlignEnd=536092|Gloss=ward.Cons
+6	Riːmiː	Riːmiː	PROPN	_	_	5	flat:name	_	AlignBegin=536189|AlignEnd=536383|Gloss=Rimi
+7	//	//	PUNCT	_	_	2	punct	_	AlignBegin=536383|AlignEnd=536575|Gloss=PUNCT
 
 ~~~
 

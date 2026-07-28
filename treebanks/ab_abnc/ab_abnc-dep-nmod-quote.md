@@ -54,7 +54,7 @@ The following 2 pairs of parts of speech are connected with `nmod:quote`: <tt><a
 9	дычмазаҩгәышьоуп	а́-чмазаҩзаара	VERB	V_Stat_Fin_Pres_Alas_S:3SgH	Dyn=No|Gender[subj]=Com|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Pres|VerbForm=Fin	5	conj	_	LMSeg:а́-чмазаҩ-заа-ра
 10	–	–	PUNCT	Punct_Dash	_	17	punct	_	LMSeg:–
 11	Смакәан	а-макәа́н	NOUN	Noun_NH_Sg_Poss:1Sg	Animacy=Nhum|Number=Sing|Number[psor]=Sing|Person[psor]=1	12	iobj:lo	_	LMSeg:а-макәа́н
-12	иҭоу	а-ҭа́заара	VERB	V_Stat_NonFin_Pres_S:Rel_LO:3SgNH_Rel	Dyn=No|Gender[lo]=Neut|Number[lo]=Sing|Person[lo]=3|Person[subj]=Rel|Tense=Pres|VerbForm=NonFin	13	ccomp:obj	_	LMSeg:а-ҭа́-заа-ра
+12	иҭоу	а-ҭа́заара	VERB	V_Stat_NonFin_Pres_Q_S:3	Dyn=No|Mood=Int|Person[subj]=3|Tense=Pres|VerbForm=NonFin	13	ccomp:obj	_	LMSeg:а-ҭа́-заа-ра
 13	аншәысҭа	а́-ҭара	VERB	V_Dyn_Tr_NonFin_Cnv_Aor_When_S:1Sg_DO:3_DO:Ad_IO:2Pl	Dyn=Yes|Number[io]=Plur|Number[subj]=Sing|Person[io]=2|Person[obj]=3|Person[subj]=1|RelType=Tmp|Subcat=Tran|Tense=Aor|VerbForm=NonFin	17	advcl	_	LMSeg:а́-ҭа-ра|SpaceAfter=No
 14	,	,	PUNCT	Punct_Comma	_	17	punct	_	LMSeg:,
 15	сан	а́н	NOUN	Noun_H_F_Sg_Poss:1Sg	Animacy=Hum|Number=Sing|Number[psor]=Sing|Person[psor]=1	17	obj	_	LMSeg:а́н

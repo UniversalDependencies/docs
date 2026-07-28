@@ -56,12 +56,12 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 7	ϩⲏⲧ	ϩⲏ	NOUN	N	_	6	obj	_	_
 8	ⲥ	ⲛⲑⲟⲥ	PRON	PPERO	Definite=Def|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
 9	ⲉ	ⲉ	ADP	PREP	_	11	case	_	_
-10	ϯ	ⲡⲓ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	ⲉⲡⲓⲥⲧⲟⲗⲏ	ⲉⲡⲓⲥⲧⲟⲗⲏ	NOUN	N	Foreign=Yes	6	obl	_	OrigLang=grc
+10	ϯ	ⲡⲓ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	Entity=(object
+11	ⲉⲡⲓⲥⲧⲟⲗⲏ	ⲉⲡⲓⲥⲧⲟⲗⲏ	NOUN	N	Foreign=Yes	6	obl	_	Entity=object)|OrigLang=grc
 12	ⲉⲃⲟⲗ	ⲉⲃⲟⲗ	ADV	ADV	ExtPos=ADP	15	case	_	_
 13	ϩⲓⲧⲉⲛ	ϩⲓⲧⲉⲛ	ADP	PREP	_	12	fixed	_	_
-14	ϯ	ⲡⲓ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	ⲙⲉⲧⲛⲁⲓⲁⲧⲥ	ⲙⲉⲧⲛⲁⲓⲁⲧⲥ	NOUN	N	_	6	obl	_	MSeg=ⲙⲉⲧ-ⲛⲁⲓⲁⲧ-ⲥ
+14	ϯ	ⲡⲓ	DET	ART	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	Entity=(abstract
+15	ⲙⲉⲧⲛⲁⲓⲁⲧⲥ	ⲙⲉⲧⲛⲁⲓⲁⲧⲥ	NOUN	N	_	6	obl	_	Entity=abstract)|MSeg=ⲙⲉⲧ-ⲛⲁⲓⲁⲧ-ⲥ
 
 ~~~
 
@@ -72,10 +72,10 @@ The following 12 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 9 csubj	color:blue
-1	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	2	det	_	_
+1	ⲟⲩ	ⲟⲩ	DET	ART	Definite=Ind|Number=Sing|PronType=Art	2	det	_	Entity=(object
 2	ⲑⲉⲣⲙⲏⲥⲓ	ⲑⲉⲣⲙⲏⲥⲓ	NOUN	N	Foreign=Yes	0	root	_	OrigLang=grc
 3	ⲛ	ⲛ	ADP	PREP	_	4	case	_	Orig=ⲛ̀
-4	ⲟⲩⲱⲧ	ⲟⲩⲱⲧ	NOUN	N	_	2	nmod	_	_
+4	ⲟⲩⲱⲧ	ⲟⲩⲱⲧ	NOUN	N	_	2	nmod	_	Entity=object)
 5	ⲡⲉ	ⲡⲉ	PRON	COP	Gender=Masc|Number=Sing|PronType=Dem	2	cop	_	_
 6	ⲉⲧ	ⲉⲧⲉ	SCONJ	CREL	_	9	mark	_	Orig=ⲉ̀ⲧ
 7	ⲁ	ⲁ	AUX	APST	_	9	aux	_	_

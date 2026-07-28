@@ -94,7 +94,6 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> VERB</tt> (324; 80%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (28; 61%),
-<tt>VERB --[<tt><a href="fr_sequoia-dep-mark.html">mark</a></tt>]--> VERB</tt> (2; 100%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).
 

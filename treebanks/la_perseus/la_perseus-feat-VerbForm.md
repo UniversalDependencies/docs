@@ -9,14 +9,14 @@ udver: '2'
 This feature is universal but the values `Conv` are language-specific.
 It occurs with 4 different values: `Conv`, `Fin`, `Inf`, `Part`.
 
-6176 tokens (21%) have a non-empty value of `VerbForm`.
-4283 types (43%) occur at least once with a non-empty value of `VerbForm`.
+6178 tokens (21%) have a non-empty value of `VerbForm`.
+4285 types (43%) occur at least once with a non-empty value of `VerbForm`.
 1418 lemmas (31%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5789; 20% instances), <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (369; 1% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (17; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> (5791; 20% instances), <tt><a href="la_perseus-pos-AUX.html">AUX</a></tt> (369; 1% instances), <tt><a href="la_perseus-pos-ADJ.html">ADJ</a></tt> (17; 0% instances), <tt><a href="la_perseus-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-5789 <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+5791 <tt><a href="la_perseus-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (4513; 78%), <tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4513; 78%), <tt><a href="la_perseus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4451; 77%), <tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3815; 66%), <tt><a href="la_perseus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (3447; 60%), <tt><a href="la_perseus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2985; 52%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 * `Conv` (1; 0% of non-empty `VerbForm`): <em>cubitum</em>
 * `Fin` (3786; 65% of non-empty `VerbForm`): <em>habet, inquit, dixit, vidi, coepit, dedit, audivi, fecit, iussit, potest</em>
 * `Inf` (727; 13% of non-empty `VerbForm`): <em>habere, dicere, facere, posse, ire, vivere, afferri, fieri, loqui, agere</em>
-* `Part` (1275; 22% of non-empty `VerbForm`): <em>dicens, dicentem, dicentes, sedentem, amantis, conscripti, scriptum, facta, falso, mota</em>
+* `Part` (1277; 22% of non-empty `VerbForm`): <em>dicens, dicentem, dicentes, sedentem, amantis, conscripti, scriptum, facta, falso, mota</em>
 
 <table>
   <tr><th>Paradigm <i>dico</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -149,7 +149,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Part` (17; 100% of non-empty `VerbForm`): <em>contentum, notus, tuta, auratum, contenta, contentus, conveniens, culta, doctior, irati</em>
-* `EMPTY` (2114): <em>magna, publicae, publicam, magno, magnum, publica, magnam, prima, mala, p</em>
+* `EMPTY` (2112): <em>magna, publicae, publicam, magno, magnum, publica, magnam, prima, mala, p</em>
 
 `VerbForm` seems to be **lexical feature** of `ADJ`. 100% lemmas (11) occur only with one value of `VerbForm`.
 
@@ -162,12 +162,12 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 `NOUN` tokens may have the following values of `VerbForm`:
 
 * `Part` (1; 100% of non-empty `VerbForm`): <em>meriti</em>
-* `EMPTY` (6252): <em>res, rem, rei, vocem, amor, caelo, manus, bello, manu, terrae</em>
+* `EMPTY` (6250): <em>res, rem, rei, vocem, amor, caelo, manus, bello, manu, terrae</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (736; 97%),
+<tt>VERB --[<tt><a href="la_perseus-dep-conj.html">conj</a></tt>]--> VERB</tt> (735; 97%),
 <tt>VERB --[<tt><a href="la_perseus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (468; 58%),
 <tt>VERB --[<tt><a href="la_perseus-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (62; 59%),
 <tt>VERB --[<tt><a href="la_perseus-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (40; 95%),

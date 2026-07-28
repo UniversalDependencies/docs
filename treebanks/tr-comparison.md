@@ -75,7 +75,7 @@ udver: '2'
   <tr>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 5432 sentences and 45907 tokens.</li>
+      <li>This corpus contains 5284 sentences and 44296 tokens.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -110,7 +110,7 @@ udver: '2'
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 16396 sentences and 183555 tokens.</li>
+      <li>This corpus contains 16395 sentences and 183612 tokens.</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -231,7 +231,7 @@ udver: '2'
   <tr>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 470 types of words that contain both letters and punctuation. Examples: Boston'dan, Francisco'ya, Denver'den, Denver'e, Atlanta'dan, Pittsburgh'tan, Atlanta'ya, Baltimore'ye, Boston'a, Dallas'a, Philadelphia'ya, Pittsburgh'a, Philadelphia'dan, Baltimore'den, Dallas'tan, St., Francisco'dan, City'e, Oakland'a, Washington'dan, City'den, washington'a, Milwaukee'den, Seattle'ye, Vegas'a, Milwaukee'ye, Chicago'dan, Orlando'ya, York'tan, dc'ye, Miami'ye, Oakland'dan, Indianapolis'ten, toronto'dan, Diego'ya, Chicago'ya, Phoenix'den, Temmuz'da, dc'den, Cleveland'dan, 6'dan, Charlotte'den, 5'ten, Memphis'ten, Newark'a, Houston'a, Newark'tan, Miami'den, 10'dan, Angeles'e</li>
+      <li>This corpus contains 455 types of words that contain both letters and punctuation. Examples: Boston'dan, Francisco'ya, Denver'den, Denver'e, Atlanta'dan, Pittsburgh'tan, Atlanta'ya, Baltimore'ye, Boston'a, Dallas'a, Philadelphia'ya, Pittsburgh'a, Philadelphia'dan, Baltimore'den, Dallas'tan, Francisco'dan, St., Oakland'a, City'e, Washington'dan, washington'a, City'den, Milwaukee'den, Seattle'ye, Vegas'a, Milwaukee'ye, Chicago'dan, York'tan, Oakland'dan, Orlando'ya, Miami'ye, Diego'ya, toronto'dan, Indianapolis'ten, Phoenix'den, Chicago'ya, dc'ye, dc'den, Charlotte'den, Memphis'ten, Newark'a, Newark'tan, Houston'a, Temmuz'da, 5'ten, Cleveland'dan, Miami'den, Angeles'e, Phoenix'e, Vegas'tan</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -266,12 +266,12 @@ udver: '2'
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 3528 types of words that contain both letters and punctuation. Examples: Corp., Co., Inc., Doları'na, $'dan, Doları'ndan, $'a, Borsası'nda, yen'e, A.B.D., Japonya'nın, S&P, yen'den, 1988'de, Moody's, York'ta, ABD'de, J., a.m, Japonya'da, Ltd., A.Ş, Dr., Journal'ın, alım-satım, A., Bush'un, Tokyo'da, 1990'da, Corp.'un, IBM'in, ABD'deki, Borsası'ndaki, Ekim'de, Kasım'da, W., 1987'de, Almanya'nın, Avrupa'da, Ağustos'ta, E., F., Inc.,, Çin'in, ABD'li, ABD'nin, Inc.'in, 100'e, B., Co.'nun</li>
+      <li>This corpus contains 3465 types of words that contain both letters and punctuation. Examples: Corp., Co., Inc., Doları'na, $'dan, Doları'ndan, $'a, Borsası'nda, yen'e, A.B.D., Japonya'nın, S&P, yen'den, 1988'de, Moody's, York'ta, ABD'de, J., a.m, Japonya'da, Ltd., A.Ş, Dr., Journal'ın, A., Bush'un, Tokyo'da, 1990'da, Corp.'un, IBM'in, alım-satım, ABD'deki, Avrupa'da, Borsası'ndaki, Ekim'de, Inc.,, Kasım'da, W., 1987'de, Almanya'nın, Ağustos'ta, E., F., Çin'in, ABD'li, ABD'nin, Inc.'in, 100'e, B., Co.'nun</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 25 types of words that contain both letters and punctuation. Examples: 7'DEN, 70'E, ANTALYA'NIN, ATLANTİS'TE, ETSTUR'U, İSTANBUL'A, BODRUM'A, HİLTON'A, M., V., 5'TEN, 5'İN, 7'DE, ALLAH'A, ARTEMiS'TEN, ARTEMİS'TEN, ATLANTİS'DE, ATİNA'YA, ETS'DEN, ETSTUR'DAN, ETSTUR'LA, KAYA'YA, SANTORİNİ'YE, SİVAS'IN, THERMAL'DE</li>
+      <li>This corpus contains 25 types of words that contain both letters and punctuation. Examples: 7'den, 70'e, Antalya'nın, Atlantis'te, Etstur'u, İstanbul'a, Artemis'ten, Atina'ya, Etstur'dan, Hilton'a, M., V., bodrum'a, 5'in, 5'ten, 7'de, Atlantis'de, Ets'den, Ets'ten, Etstur'la, Kaya'ya, Santorini'ye, Sivas'ın, Thermal'de, allah'a</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -339,8 +339,8 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>VERB</a></li>
-      <li>This corpus does not use the following tags: SCONJ, PART, SYM, X</li>
+      <li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: SCONJ, PART, SYM</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -485,7 +485,7 @@ udver: '2'
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 137 lemmas tagged as pronouns (PRON): "O'nun, "biz", 'Bu, Basten, Bize, Bunlar, Burada, Buradan, Buğday, Kimsenin, Nitekim, Oğuz, Senî, Sizi, Tasvir, ada, ayakkabı, bahçe, bakan, baston, bazı, başhekim, başka, beden, ben, bence, bende, bensiz, benzin, bina, bir, birara, birbiri, birey, biri, biribiri, birkaç, birkaçı, birlik, birliktelik, birçok, biz, bizim, bu, bun, bura, bölge, böyle, böylesine, bürokrasi, ceset, deniz, din, diri, diz, dizin, düzen, düşman, enerji, ev, fakirlik, gençlik, gündüz, güven, had, hangi, hep, hepsi, herkes, hiçbiri, hâkim, insan, irade, iç, iş, işkence, işsiz, kaç, kendi, ki, kim, kimi, kimler, kimse, kisi, kişilik, kriz, kuzen, kız, liman, meden, metin, ne, neden, nere, o, o'nun, on, onay, operasyon, ora, oracık, orası, ordu, organiz, orman, ortam, san, sanat, sanatçı, sanayi, sayfa, sen, sensiz, servis, ses, sevinç, siz, sizinle, sofra, sıra, tansiyon, tüm, uyku, volta, yurt, Çekemoğlu, çekim, çeviri, çevren, çok, çoğu, ülke, şey, şiir, şu, şura</li>
+      <li>This corpus contains 126 lemmas tagged as pronouns (PRON): "O'nun, "biz", 'Bu, Bize, Bunlar, Burada, Buradan, Kimsenin, Nitekim, Senî, Sizi, Tasvir, ada, ayakkabı, bahçe, bakan, baston, bazı, başhekim, başka, beden, ben, bence, bende, bensiz, benzin, bina, bir, birbiri, birey, biri, biribiri, birkaç, birkaçı, birlik, birliktelik, birçok, biz, bizim, bu, bun, bura, bölge, böyle, böylesine, bürokrasi, ceset, deniz, din, diri, diz, dizin, düzen, düşman, enerji, ev, fakirlik, gençlik, gündüz, güven, had, hangi, hep, hepsi, herkes, hiçbiri, hâkim, insan, irade, iç, iş, işkence, işsiz, kaç, kendi, kim, kimi, kimler, kimse, kişilik, kriz, kuzen, kız, liman, meden, metin, ne, neden, nere, o, o'nun, on, operasyon, ora, oracık, orası, ordu, organiz, orman, ortam, san, sanat, sanatçı, sanayi, sen, sensiz, servis, ses, sevinç, siz, sizinle, sofra, tansiyon, tüm, uyku, Çekemoğlu, çekim, çeviri, çevren, çok, çoğu, ülke, şey, şiir, şu, şura</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -515,7 +515,7 @@ udver: '2'
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 27 lemmas tagged as pronouns (PRON): bazı, ben, birbiri, birbirleri, biri, birçokları, birçoğu, biz, bu, diğeri, hangi, hep, hepsi, herkes, hiçbiri, kendi, kim, kimse, ne, nere, o, sen, siz, tümü, çoğu, öbür, şu</li>
+      <li>This corpus contains 28 lemmas tagged as pronouns (PRON): bazı, başkası, ben, birbiri, birbirleri, biri, birçokları, birçoğu, biz, bu, diğeri, hangi, hep, hepsi, herkes, hiçbiri, kendi, kim, kimse, ne, nere, o, sen, siz, tümü, çoğu, öbür, şu</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -525,7 +525,7 @@ udver: '2'
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 12 lemmas tagged as pronouns (PRON): ben, birbiri, biz, bu, bura, kendi, ki, kim, ne, nere, o, sen</li>
+      <li>This corpus contains 11 lemmas tagged as pronouns (PRON): ben, birbiri, biz, bu, bura, kendi, kim, ne, nere, o, sen</li>
       </ul>
     </td>
   </tr>
@@ -537,7 +537,7 @@ udver: '2'
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>This corpus contains 27 lemmas tagged as determiners (DET): ...bu, bazı, başka, bir, birkaç, birtakım, birçok, bu, bunca, bütün, diğer, hangi, hep, her, herhangi, hiç, hiçbir, ilk, kaç, kimi, o, tüm, unperiodismo, çok, çoğu, öteki, şu</li>
+      <li>This corpus contains 26 lemmas tagged as determiners (DET): ...bu, bazı, başka, bir, birkaç, birtakım, birçok, bu, bunca, bütün, diğer, hangi, hep, her, herhangi, hiç, hiçbir, ilk, kaç, kimi, o, tüm, çok, çoğu, öteki, şu</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -735,7 +735,7 @@ udver: '2'
   <tr>
     <td width="10%" valign="top">
       <ul>
-      <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -745,7 +745,7 @@ udver: '2'
     </td>
     <td width="10%" valign="top">
       <ul>
-      <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -789,7 +789,7 @@ udver: '2'
       <ul>
         <li>Conv
         <ul>
-          <li>VERB: uçuşunuz, uçuşlardır</li>
+          <li>VERB: ayrılıp, kalkıp, kullanarak, kalkarak, durarak, gidip, vererek, yaparak, giderken, olarak</li>
         </ul>
         </li>
       </ul>
@@ -805,7 +805,13 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Conv
+        <ul>
+          <li>VERB: olarak, görünce, gelip, bakıp, giderken, gidip, girip, olunca, olup, çıkınca</li>
+        </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -831,7 +837,7 @@ udver: '2'
       <ul>
         <li>Conv
         <ul>
-          <li>VERB: görüştü, kaçıştı, aldatıştır, alışıdır, buruşmuş, bölüştük, değişmiş, direnişler, dönüştü, düşüşteydi</li>
+          <li>VERB: olarak, alıp, görünce, gidip, ederek, gelince, olup, gelip, edip, bırakıp</li>
         </ul>
         </li>
       </ul>
@@ -850,7 +856,7 @@ udver: '2'
       <ul>
         <li>Conv
         <ul>
-          <li>VERB: arayışındalar, dönüştü, değişti, düşüşündedir, oluştu, yükseliştedir</li>
+          <li>VERB: olarak, artarak, düşerek, yükselerek, olmadan, olup, azalarak, kazanarak, değişmeden, ederek</li>
         </ul>
         </li>
       </ul>
@@ -859,7 +865,7 @@ udver: '2'
       <ul>
         <li>Conv
         <ul>
-          <li>VERB: GÖRÜŞTÜK</li>
+          <li>VERB: olarak, arayıp, severek, girerken, görüşüp, kalarak, araştırıp, edip, gelmeden, çıkarken</li>
         </ul>
         </li>
       </ul>
@@ -880,7 +886,7 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>VERB: göster, istiyorum, nedir, listeleyin, gösterin, listele, nelerdir, uçuyor, bul, ver</li>
+          <li>VERB: göster, istiyorum, listeleyin, gösterin, listele, uçuyor, bul, ver, kalkıyor, verin</li>
         </ul>
         </li>
       </ul>
@@ -892,7 +898,6 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: değildi, değilim</li>
           <li>VERB: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
         </ul>
         </li>
@@ -915,8 +920,7 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: değildir, değildi, değilse, değiliz, değilim, değilmiş, değildim, değilsin, değilsiniz, değildik</li>
-          <li>VERB: vardı, oldu, vardır, geldi, başladı, olur, çıktı, etti, olsun, yoktu</li>
+          <li>VERB: oldu, geldi, başladı, olur, çıktı, etti, olsun, vardı, dedi, eder</li>
         </ul>
         </li>
       </ul>
@@ -928,7 +932,6 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: değildir, değildi, değiliz, değilse, değillerdi, değilim, değildik, değildim, değillerdir, değilmiş</li>
           <li>VERB: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
         </ul>
         </li>
@@ -938,8 +941,7 @@ udver: '2'
       <ul>
         <li>Fin
         <ul>
-          <li>AUX: DEĞİLDİ, DEĞİLİM, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİK, DEĞİLDİLER, DEĞİLDİR</li>
-          <li>VERB: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, KALDIK, TESİSTİ, KALDIM, EDERİM, İLGİLİYDİ, İLGİLENDİ</li>
+          <li>VERB: görüşüldü, kaldık, kaldım, ederim, ilgilendi, veriyorum, kalmadım, istemiyorum, istiyorum, veririm</li>
         </ul>
         </li>
       </ul>
@@ -957,7 +959,13 @@ udver: '2'
   </tr>
   <tr>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Part
+        <ul>
+          <li>VERB: olan, kalkan, giden, varan, yapan, uçan, gelen, varacak, yapılacak, ayrılan</li>
+        </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -970,7 +978,13 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Part
+        <ul>
+          <li>VERB: olan, kalan, gelen, aldığı, eden, istediği, yaptığı, çıkan, geçer, giden</li>
+        </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -996,7 +1010,7 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>VERB: olduğudur, uyandım, uyanmışım, çakıştığıdır, bulandı, dövüşeceklerdi, esirgediğiniz, ettiğindeyse, ettiğiniz, geldiğidir</li>
+          <li>VERB: olan, olduğu, gelen, eden, olmayan, giden, kalan, duran, verdiği, olmuş</li>
         </ul>
         </li>
       </ul>
@@ -1014,7 +1028,7 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>VERB: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, etkilenenlerdi, ettiğidir</li>
+          <li>VERB: olan, edilen, eden, yapılan, olduğu, olmayan, gelen, gelecek, artan, bulunan</li>
         </ul>
         </li>
       </ul>
@@ -1023,7 +1037,7 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>VERB: VERDİĞİNİZ</li>
+          <li>VERB: ödediğim, verdiğim, aldığım, olduğum, olduğu, Verdiğimiz, beklediğim, kalmadığım, belirttiğim, olması</li>
         </ul>
         </li>
       </ul>
@@ -1044,7 +1058,7 @@ udver: '2'
       <ul>
         <li>Vnoun
         <ul>
-          <li>VERB: demektir, kısaltmasıdır</li>
+          <li>VERB: gidiş, dönüş, uçmak, gitmek, yapmak, görmek, almak, bulmak, etmek, bilmek</li>
         </ul>
         </li>
       </ul>
@@ -1063,7 +1077,7 @@ udver: '2'
       <ul>
         <li>Vnoun
         <ul>
-          <li>VERB: akmasın, sürümekti, yağlamaktı, yüzmekti</li>
+          <li>VERB: olanları, olduğu, almak, etmek, yapmak, etme, olduğunu, engellemek, gelene, olmadığını</li>
         </ul>
         </li>
       </ul>
@@ -1091,7 +1105,7 @@ udver: '2'
       <ul>
         <li>Vnoun
         <ul>
-          <li>VERB: demektir, demekti, olmasıdır, koymaktır, olmasın, akdetmesiydi, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır</li>
+          <li>VERB: olduğunu, olmak, etmek, olduğu, demek, etmeye, görmek, yapmak, almak, vermek</li>
         </ul>
         </li>
       </ul>
@@ -1110,7 +1124,7 @@ udver: '2'
       <ul>
         <li>Vnoun
         <ul>
-          <li>VERB: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktı</li>
+          <li>VERB: olduğunu, olmak, etmek, olacağını, olmadığını, alma, almak, yapmak, yapmayı, ettiğini</li>
         </ul>
         </li>
       </ul>
@@ -1119,7 +1133,7 @@ udver: '2'
       <ul>
         <li>Vnoun
         <ul>
-          <li>VERB: ORTALAMAYDI, KARŞILAMAYDI, DÜŞÜNMEMEKTEDİR</li>
+          <li>VERB: olması, yüzme, vermek, almak, olmak, Yeme, içme, katılmak, yapmak, bilgilendirilmek</li>
         </ul>
         </li>
       </ul>
@@ -1288,8 +1302,13 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>NOUN: uçuşları, uçuşlar, uçuşlarını, havayolları, uçuşların, fiyatlarını, havayollarını, havayollarının, günleri, ücretleri</li>
-            <li>VERB-Fin: listeleyin, gösterin, verin, söyleyin, yapın, bakalım, açıklayın, bahsedin, ayarlayın, bulun</li>
+            <li>ADJ: aktarmasızları</li>
+            <li>AUX: misiniz, musunuz</li>
+            <li>NOUN: uçuşları, uçuşlar, uçuşlarını, havayolları, uçuşların, fiyatlarını, havayollarının, havayollarını, günleri, ücretleri</li>
+            <li>PRON: hangileri, bunların, hepsi, hepsini, çoğunu</li>
+            <li>VERB-Fin: listeleyin, gösterin, verin, bulun, söyleyin, yapın, bakalım, açıklayın, bahsedin, ayarlayın</li>
+            <li>VERB-Vnoun: olanlar, gelişleri, olanları, varışları</li>
+            <li>X: nelerdir, neler</li>
           </ul>
         </li>
       </ul>
@@ -1318,9 +1337,15 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>NOUN: insanlar, şeyler, olanları, yıllar, çocuklar, gözleri, polisler, çocukları, gözlerini, işler</li>
+            <li>ADJ: gençler, Başkalarına, diğerlerine, Araplar, Bizimkiler, Bizimkilerin, Bucaklılar, Büyüklere, Eskilerden, Hainler</li>
+            <li>NOUN: insanlar, şeyler, yıllar, çocuklar, gözleri, polisler, çocukları, gözlerini, işler, öğrenciler</li>
+            <li>NUM: milyonları</li>
+            <li>PRON: biz, herkes, bizim, bize, hepsini, bizi, bunları, herkese, onların, siz</li>
             <li>PROPN: Ölenler</li>
             <li>VERB-Fin: ettiler, ettik, kaldık, aldık, aldılar, ediyorlar, koydular, çıktık, döndük, edelim</li>
+            <li>VERB-Part: Bakışlarındaki</li>
+            <li>VERB-Vnoun: olanları, gördüklerini, istediklerini, söylediklerini, düşündüklerini, gelenler, olanlar, söylediklerine, Davranışlarının, Duydukları</li>
+            <li>X: Neler</li>
           </ul>
         </li>
       </ul>
@@ -1366,12 +1391,17 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>AUX-Fin: değiliz</li>
+            <li>ADJ: başkalarının, gençler, başkaları, başkalarına, uzaklarda, büyüklerin, gelenlerin, gençleri, gençlerin, hastaları</li>
+            <li>AUX: değiliz, mısınız, misiniz, miydik, musunuz, muyuz, değilsiniz, mıyız, değildik, miydiniz</li>
             <li>NOUN: gözleri, gözlerini, şeyler, çocuklar, kadınlar, insanlar, elleri, ellerini, saçları, çocukları</li>
-            <li>PROPN: Türkçüler, Anafartalar'da, Avcılar, Babalar, Efendiler, Gençler, Güzeller, Kadınlar, Kimler, Zeyniler</li>
-            <li>VERB: ettiler, başladılar, bakalım, derler, ediyorlar, aldılar, ediyoruz, verdiler, ederler, ettik</li>
-            <li>VERB-Fin: ettiler, başladılar, bakalım, derler, ediyorlar, aldılar, ediyoruz, verdiler, ederler, ettik</li>
-            <li>VERB-Vnoun: sevişmelerimiz</li>
+            <li>NUM: binlerce, binlerle, milyonlar, milyonlarca, 1960'lar, binler, binlere, birinciler, biriz, yüzlerce</li>
+            <li>PRON: bizim, biz, bize, bunlar, hepsi, bizi, size, onlar, siz, onları</li>
+            <li>PROPN: Efendiler, Türkçüler, Anafartalar'da, Ankara'dakilere, Avcılar, Babalar, Gençler, Güzeller, Kadınlar, Kimler</li>
+            <li>VERB-Conv: eğlenirlerken, çevirirlerken, gülüşürlerken, isteşirlerken, otururlarken, çalışırlarken</li>
+            <li>VERB-Fin: ettiler, derler, başladılar, bakalım, ediyorlar, aldılar, ediyoruz, verdiler, ederler, ettik</li>
+            <li>VERB-Part: Bakışlarındaki</li>
+            <li>VERB-Vnoun: olanlar, olduklarını, bakışları, olanları, oldukları, olanlara, olanların, geldikleri, bakışlarını, dedikleri</li>
+            <li>X: neler, gibiydiler, kimler, kimseler, bizdeki, buyuz, hepimiz, şuyuz, Kiminiz, Sizler</li>
           </ul>
         </li>
       </ul>
@@ -1397,12 +1427,17 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>AUX: değiller, değiliz, değildik, değillerdir</li>
-            <li>AUX-Fin: değiliz, değildik, değillerdir</li>
-            <li>NOUN: fiyatları, hisseleri, kıymetler, satışlar, yatırımcılar, analistler, tahviller, şirketler, satışları, tahvilleri</li>
-            <li>PROPN: Kıymetler, CD'ler, Bolar, CD'lerde, A'lar, Avustralyalılar, Blanding'ler, Borsalar, CD'lerin, CFC'ler</li>
-            <li>VERB: söylediler, ediyorlar, istiyorlar, istiyoruz, söylüyorlar, ettiler, aldılar, verdiler, ediyoruz, yaptık</li>
-            <li>VERB-Fin: söylediler, ediyorlar, istiyorlar, istiyoruz, söylüyorlar, ettiler, aldılar, verdiler, ediyoruz, yaptık</li>
+            <li>ADJ: diğerleri, demokratlar, alacaklılara, diğerlerinden, alacaklılar, başkaları, diğerlerine, diğerlerinin, mükellefleri, siyahlara</li>
+            <li>AUX: değiller, değiliz, musunuz, değildik, mıydık, değillerdir, misiniz, miyiz, muyuz, müydünüz</li>
+            <li>NOUN: fiyatları, hisseleri, kıymetler, satışlar, yatırımcılar, analistler, yetkilileri, tahviller, şirketler, tahvilleri</li>
+            <li>NUM: 1980'lerin, 1970'lerin, milyarlar, 1980'ler, 1980'lerde, 1990'lar, 1990'lara, 1990'larda, 1990'ların, milyonlarla</li>
+            <li>PRON: onlar, onların, bazıları, biz, onları, bunlar, hepsi, onlara, bunların, çoğu</li>
+            <li>PROPN: Kıymetler, CD'ler, Bolar, CD'lerde, Karolina'nınlar, A'lar, Avustralyalılar, Blanding'ler, Borsalar, CD'lerin</li>
+            <li>VERB-Conv: alırlarken</li>
+            <li>VERB-Fin: söylediler, ediyorlar, istiyorlar, ettiler, istiyoruz, söylüyorlar, aldılar, verdiler, ediyoruz, yaptık</li>
+            <li>VERB-Part: uçuşlarındaki</li>
+            <li>VERB-Vnoun: olanlar, olduklarını, oldukları, yaptıkları, kaybedenleri, kazananlar, almalar, olanların, verenler, yaptıklarını</li>
+            <li>X: neler, çoğundaki, üzereyiz</li>
           </ul>
         </li>
       </ul>
@@ -1411,12 +1446,15 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>AUX: DEĞİLLER, DEĞİLDİK, DEĞİLDİLER</li>
-            <li>AUX-Fin: DEĞİLDİK, DEĞİLDİLER</li>
-            <li>NOUN: YEMEKLER, YEMEKLERİ, PERSONELLERİ, PERSONELLER, AİLELER, ODALAR, OLANAKLARI, İMKANLARI, TEŞEKKÜRLER, AİLELERE</li>
-            <li>PROPN: KİMLER</li>
-            <li>VERB: KALDIK, İLGİLENDİLER, EDERİZ, EDİYORUZ, MEMNUNUZ, BEĞENDİK, OLDULAR, GÖRÜŞTÜK, YAŞAMADIK, KALMADIK</li>
-            <li>VERB-Fin: KALDIK, İLGİLENDİLER, EDERİZ, EDİYORUZ, MEMNUNUZ, BEĞENDİK, OLDULAR, GÖRÜŞTÜK, YAŞAMADIK, KALMADIK</li>
+            <li>ADJ: memnunuz, memnunduk, ilgiliydiler, iyiydiler, güleryüzlüler, güleryüzlüydüler, çiftlerine, alakalıydılar, iyiler, iyilerini</li>
+            <li>AUX: değiller, değildik, değildiler</li>
+            <li>NOUN: yemekler, yemekleri, personelleri, personeller, aileler, odalar, olanakları, imkanları, teşekkürler, ailelere</li>
+            <li>NUM: Onlar</li>
+            <li>PRON: bizimle, hepsi, herkese, bizi, bize, onlar, herkes, biz, hepsine, size</li>
+            <li>PROPN: Kimler</li>
+            <li>VERB-Fin: kaldık, ilgilendiler, ederiz, ediyoruz, beğendik, oldular, görüştük, yaşamadık, kalmadık, aradılar</li>
+            <li>VERB-Vnoun: olanlara, aksamalar, düşünmediklerini, çalışmalar, verdiklerinde, Değiştireceklerini, Gecikmeler, Satılanlara, Yazdıklarım, almalarını</li>
+            <li>X: gibiler, kimler</li>
           </ul>
         </li>
       </ul>
@@ -1440,12 +1478,16 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>NOUN: uçuş, günü, uçuşu, akşam, öğleden, dönüş, gidiş, sabah, saat, ihtiyacım</li>
-            <li>PROPN: San, Boston'dan, Francisco'ya, Denver'den, Denver'e, Atlanta'dan, Pittsburgh'tan, çarşamba, Atlanta'ya, Baltimore'ye</li>
-            <li>VERB: göster, istiyorum, nedir, listele, nelerdir, uçuyor, bul, ver, kalkıyor, geliyor</li>
-            <li>VERB-Conv: uçuşunuz, uçuşlardır</li>
-            <li>VERB-Fin: göster, istiyorum, nedir, listele, nelerdir, uçuyor, bul, ver, kalkıyor, geliyor</li>
-            <li>VERB-Vnoun: demektir, kısaltmasıdır</li>
+            <li>ADJ: mevcuttur, uzakta, ucuza, uzaklıkta, vardır, seferinin, birde, mümkünse, nasıldır, boşta</li>
+            <li>AUX: mı, misin, mu, miyim, mü, mi, mısın, mıyım</li>
+            <li>NOUN: uçuş, günü, uçuşu, öğleden, akşam, sabah, saat, ihtiyacım, çarşamba, arasında</li>
+            <li>NUM: 5'ten, 10'dan, 6'dan, 8'den, 12'den, 4'ten, 9'dan, 7'den, 3'ten, 2'den</li>
+            <li>PRON: bana, hangi, ne, hangisi, bu, beni, benim, biri, neyin, bunu</li>
+            <li>PROPN: San, Boston'dan, Francisco'ya, Denver'den, Denver'e, Atlanta'dan, Pittsburgh'tan, Atlanta'ya, Baltimore'ye, Boston'a</li>
+            <li>VERB-Fin: göster, istiyorum, listele, uçuyor, bul, ver, kalkıyor, geliyor, gidiyor, gerekiyor</li>
+            <li>VERB-Part: varışlı, çıkışlı, kalkmalı, konaklamalı, olmalı, varmalı</li>
+            <li>VERB-Vnoun: gidiş, dönüş, uçmak, gitmek, yapmak, görmek, almak, bulmak, etmek, bilmek</li>
+            <li>X: nedir, hangileridir, hangisidir, kadardır</li>
           </ul>
         </li>
       </ul>
@@ -1477,12 +1519,17 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>AUX-Fin: değildi, değilim</li>
+            <li>ADJ: yoktu, iyiye, karşısında, iyiydi, geriye, güzeldi, soğuktan, tamamı, tamamını, vardı</li>
+            <li>AUX: mı, mu, mi, musun, değildi, değilim, mi?, misin, miydim, muydu</li>
             <li>NOUN: para, adam, çocuk, şey, gün, iş, şeyi, ay, işi, başına</li>
+            <li>NUM: bire, birincisi, ikiye, İkimiz, 1453'te, 1923'te, 2'yi, 3'te, Kırkı, altmışını</li>
+            <li>PRON: bu, onu, onun, ona, o, ben, bana, beni, sen, senin</li>
             <li>PROPN: Hanım, Nihal, Arsen, Jordan, Nihal'in, Seni, Ayşe, Firdevs, Rüştü, Türkiye</li>
-            <li>VERB: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
+            <li>VERB-Conv: görmemişçesine, istercesine, savrulurcasına, yanmışçasına</li>
             <li>VERB-Fin: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
-            <li>VERB-Vnoun: akmasın, sürümekti, yağlamaktı, yüzmekti</li>
+            <li>VERB-Part: çekişmeli</li>
+            <li>VERB-Vnoun: olduğu, almak, etmek, yapmak, etme, olduğunu, engellemek, gelene, olmadığını, olmak</li>
+            <li>X: Onunki, üzereydi</li>
           </ul>
         </li>
       </ul>
@@ -1532,15 +1579,17 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>AUX: değil, değildir, değildi, değilim, değilse, değiliz, değilmiş, değildim, değilsin, değilsiniz</li>
-            <li>AUX-Fin: değildir, değildi, değilse, değilim, değiliz, değilmiş, değildim, değilsin, değilsiniz, değildik</li>
-            <li>NOUN: gün, zaman, adam, şey, arasında, kadın, çocuk, iş, su, olduğunu</li>
-            <li>PROPN: Allah, Mustafa, Türkiye, İstanbul'a, İstanbul'un, İstanbul, Ali, Avrupa, Ben, Bey'in</li>
-            <li>VERB: vardı, oldu, vardır, geldi, başladı, olur, çıktı, etti, olsun, yoktu</li>
-            <li>VERB-Conv: görüştü, kaçıştı, aldatıştır, alışıdır, buruşmuş, bölüştük, değişmiş, direnişler, dönüştü, düşüşteydi</li>
-            <li>VERB-Fin: vardı, oldu, vardır, geldi, başladı, olur, çıktı, etti, olsun, yoktu</li>
-            <li>VERB-Part: olduğudur, uyandım, uyanmışım, çakıştığıdır, bulandı, dövüşeceklerdi, esirgediğiniz, ettiğindeyse, ettiğiniz, geldiğidir</li>
-            <li>VERB-Vnoun: demektir, demekti, olmasıdır, koymaktır, olmasın, akdetmesiydi, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır</li>
+            <li>ADJ: vardı, vardır, yoktu, yoktur, varsa, biri, karşısında, çoğu, lazımdır, uzaktan</li>
+            <li>AUX: mı, mi, değil, değildir, mu, değildi, değilim, mü, değilse, misin</li>
+            <li>NOUN: gün, zaman, adam, şey, arasında, kadın, çocuk, iş, su, gece</li>
+            <li>NUM: biri, birini, üçü, ikisi, ikinci, ikiye, İkisi, birinde, ikide, birinci</li>
+            <li>PRON: ben, bu, o, onun, bana, onu, kendi, ona, sen, beni</li>
+            <li>PROPN: İstanbul, Allah, Mustafa, Türkiye, Ali, İstanbul'a, İstanbul'un, Hanım, Efendi, Avrupa</li>
+            <li>VERB-Conv: istercesine, anımsarcasına, görmüşcesine, verircesine, Yarışırcasına, boşanırcasına, dondurulmuşçasına, düşercesine, etmişçesine, ezercesine</li>
+            <li>VERB-Fin: oldu, geldi, başladı, olur, çıktı, etti, olsun, vardı, dedi, eder</li>
+            <li>VERB-Part: bakışlı, sürmeli, Geçmeli, Yemeklik, aldatmamalı, bilmeli, bölmeli, büzmeli, dikişçi, düşmeli</li>
+            <li>VERB-Vnoun: olduğunu, olmak, etmek, olduğu, demek, etmeye, görmek, yapmak, almak, vermek</li>
+            <li>X: gibiydi, nedir, gibidir, oysa, biridir, biriydi, budur, benim, bizim, neydi</li>
           </ul>
         </li>
       </ul>
@@ -1569,15 +1618,17 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>AUX: değildir, değildi, değilim, değilse, değillerdi, değildim, değilmiş, değilsin</li>
-            <li>AUX-Fin: değildir, değildi, değilse, değillerdi, değilim, değildim, değilmiş</li>
-            <li>NOUN: bay, hisse, dolar, yıl, şirket, olduğunu, şekilde, satın, devam, gelir</li>
-            <li>PROPN: New, ABD, York, Corp., Dow, Jones, Wall, Cuma, Co., Inc.</li>
-            <li>VERB: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
-            <li>VERB-Conv: arayışındalar, dönüştü, değişti, düşüşündedir, oluştu, yükseliştedir</li>
+            <li>ADJ: vardı, azından, vardır, yoktu, çoğu, fazlasını, açığı, karşıtı, fazlası, karşısında</li>
+            <li>AUX: değildir, değildi, mi, mı, mu, değilim, değilse, mıydı, değillerdi, miydi</li>
+            <li>NOUN: bay, hisse, dolar, yıl, şirket, şekilde, satın, devam, gelir, günü</li>
+            <li>NUM: milyondan, milyardan, 1988'de, üçte, milyona, 1990'da, ikisi, 1987'de, milyara, 100'e</li>
+            <li>PRON: bu, kendi, onun, bunu, bunun, o, biri, buna, ben, ne</li>
+            <li>PROPN: New, ABD, York, Corp., Dow, Jones, Wall, Co., Inc., Inc</li>
+            <li>VERB-Conv: değişmezken</li>
             <li>VERB-Fin: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
-            <li>VERB-Part: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, etkilenenlerdi, ettiğidir</li>
-            <li>VERB-Vnoun: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktı</li>
+            <li>VERB-Part: inişli, çıkışlı, alınmasındaki, anlaşmasındaki, arttırmadaki, artırmalı, dönmesindeki, etmedeki, geliştirmeci, görüşlü</li>
+            <li>VERB-Vnoun: olduğunu, olmak, etmek, olacağını, olmadığını, alma, almak, yapmak, yapmayı, ettiğini</li>
+            <li>X: biridir, nedir, itibarendir, biriydi, gibiydi, aittir, aitti, budur, fazlaydı, gibidir</li>
           </ul>
         </li>
       </ul>
@@ -1586,15 +1637,16 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>AUX: DEĞİLDİ, DEĞİLİM, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİR</li>
-            <li>AUX-Fin: DEĞİLDİ, DEĞİLİM, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİR</li>
-            <li>NOUN: HİZMET, BEY, PUAN, KONUMU, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, DENİZİ</li>
-            <li>PROPN: ETS, MEHMET, EMRE, FATİH, ETSTUR, TOLGA, ALİ, DENİZ, HAKAN, GÖKHAN</li>
-            <li>VERB: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, TESİSTİ, KALDIM, EDERİM, İLGİLİYDİ, İLGİLENDİ, VARDI</li>
-            <li>VERB-Conv: GÖRÜŞTÜK</li>
-            <li>VERB-Fin: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, TESİSTİ, KALDIM, EDERİM, İLGİLİYDİ, İLGİLENDİ, VARDI</li>
-            <li>VERB-Part: VERDİĞİNİZ</li>
-            <li>VERB-Vnoun: ORTALAMAYDI, KARŞILAMAYDI, DÜŞÜNMEMEKTEDİR</li>
+            <li>ADJ: güzeldi, iyiydi, yoktu, ilgiliydi, kötüydü, azdı, vardı, küçüktü, temizdi, yetersizdi</li>
+            <li>AUX: değildi, değilim, değillerdi, değildim, miyim, değildir, miydi, mu</li>
+            <li>NOUN: hizmet, Bey, puan, konumu, çeşit, tavsiye, tesis, tesisti, personel, otel</li>
+            <li>NUM: dörtlüktü, yüzde, 5'in, 5'ten, 7'de, yedide, İkisi</li>
+            <li>PRON: ben, bence, bana, kendisi, beni, benim, kendisine, onun, benimle, kendisini</li>
+            <li>PROPN: Ets, Mehmet, Emre, Fatih, Etstur, Tolga, Ali, Deniz, Hakan, Gökhan</li>
+            <li>VERB-Fin: görüşüldü, kaldım, ederim, ilgilendi, veriyorum, kalmadım, istemiyorum, istiyorum, veririm, olabilirdi</li>
+            <li>VERB-Part: kullanışlı, kullanışsız</li>
+            <li>VERB-Vnoun: olması, yüzme, vermek, almak, olmak, Yeme, içme, katılmak, yapmak, bilgilendirilmek</li>
+            <li>X: gibiydi, yönelikti, biriydi, göreydi, oydu, birisiydi</li>
           </ul>
         </li>
       </ul>
@@ -1677,7 +1729,8 @@ udver: '2'
       <ul>
         <li>Abl
           <ul>
-            <li>NOUN: öğleden, 6'dan, 5'ten, 10'dan, üzerinden, 8'den, havaalanından, 12'den, dolardan, 4'ten</li>
+            <li>NOUN: öğleden, üzerinden, havaalanından, dolardan, şehrinden, havalimanından, Havaalanı'ndan, havalimanlarından, merkezinden, uçuşlardan</li>
+            <li>NUM: 5'ten, 10'dan, 6'dan, 8'den, 12'den, 4'ten, 9'dan, 7'den, 3'ten, 2'den</li>
             <li>PROPN: Boston'dan, Denver'den, Atlanta'dan, Pittsburgh'tan, Philadelphia'dan, Baltimore'den, Dallas'tan, Francisco'dan, Washington'dan, City'den</li>
           </ul>
         </li>
@@ -1707,8 +1760,11 @@ udver: '2'
       <ul>
         <li>Abl
           <ul>
-            <li>NOUN: kapıdan, elden, olaydan, altından, elinden, evden, içinden, taraftan, aldıktan, arkasından</li>
+            <li>ADJ: soğuktan, elimden, iyiden, Eskilerden, acımasızlığından, açıktan, hazırdan, küçüklüğünden, yanlıştan</li>
+            <li>NOUN: kapıdan, elden, olaydan, altından, elinden, evden, içinden, taraftan, arkasından, gözden</li>
+            <li>PRON: ondan, Bundan, Kimden, benden, herkesten, onlardan, senden, birbirinden, bizden</li>
             <li>PROPN: Bihter'den, Türkiye'den, İngilizce'den</li>
+            <li>VERB-Vnoun: aldıktan, ettikten, oturmaktan, yaptıktan, Beklemekten, Boşandıktan, Konuşmaktan, Sattıklarından, Söylediklerimden, Sözlerinden</li>
           </ul>
         </li>
       </ul>
@@ -1750,8 +1806,12 @@ udver: '2'
       <ul>
         <li>Abl
           <ul>
-            <li>NOUN: yandan, içinden, yerden, günden, altından, elinden, yerinden, arasından, arkasından, olmaktan</li>
+            <li>ADJ: uzaktan, azından, iyiden, sıcaktan, yüksekten, Derinlerden, ağırdan, kabîlinden, karşıdan, soğuktan</li>
+            <li>NOUN: yandan, içinden, yerden, günden, altından, elinden, yerinden, arasından, arkasından, başından</li>
+            <li>NUM: beşten, 1908'den, birinden, ikisinden, milyondan, yedisinden, yirmiden</li>
+            <li>PRON: ondan, bundan, benden, bizden, bunlardan, kendisinden, birbirinden, nereden, senden, herkesten</li>
             <li>PROPN: İstanbul'dan, Allah'tan, Anadolu'dan, Avrupa'dan, Bey'den, Eğrikaya'dan, Galata'dan, Kadıköy'den, İzmir'den, Amerika'dan</li>
+            <li>VERB-Vnoun: olmaktan, olduğundan, etmekten, olduktan, geçtikten, yedikten, ettikten, olmadığından, çıktıktan, aldıktan</li>
           </ul>
         </li>
       </ul>
@@ -1779,8 +1839,12 @@ udver: '2'
       <ul>
         <li>Abl
           <ul>
-            <li>NOUN: dolardan, tarafından, milyondan, milyardan, azından, seviyesinden, Doları'ndan, üzerinden, açısından, ortadan</li>
+            <li>ADJ: azından, diğerlerinden, normalden, yüksekten, uzaktan, Demokratlardan, acımasızından, ahşaptan, aktiflerinden, aktiften</li>
+            <li>NOUN: dolardan, seviyesinden, Doları'ndan, üzerinden, tarafından, açısından, ortadan, öğleden, gözden, açıdan</li>
+            <li>NUM: milyondan, milyardan, 1/2'den, 10'dan, 1987'den, 20'den, 50'den, birinden, 1'den, 1/8'den</li>
+            <li>PRON: bundan, bunlardan, onlardan, ondan, kendilerinden, birbirinden, neden, birinden, hepsinden, çoğundan</li>
             <li>PROPN: Yen'den, Co.'dan, York'tan, ABD'den, Kasım'dan, Londra'dan, İtalya'dan, Asya'dan, Ağustos'tan, Campeau'dan</li>
+            <li>VERB-Vnoun: yapmaktan, beklenenden, olduğundan, görmezden, kapandıktan, olmaktan, etmekten, harcamalardan, beklediğinden, edildikten</li>
           </ul>
         </li>
       </ul>
@@ -1789,8 +1853,12 @@ udver: '2'
       <ul>
         <li>Abl
           <ul>
-            <li>NOUN: TESİSTEN, OTELDEN, AÇISINDAN, YEMEKLERİNDEN, ŞEYDEN, YEMEKLERDEN, HİZMETTEN, ÜZERİNDEN, HİZMETİNDEN, PERSONELLERDEN</li>
-            <li>PROPN: ARTEMiS'TEN, ARTEMİS'TEN, ETS'DEN, ETSTUR'DAN</li>
+            <li>ADJ: dahiliden, olumsuzluklardan, aktan, İlgisizlikten, ucuzundan, yanından, yetersizliğinden</li>
+            <li>NOUN: tesisten, otelden, yemeklerinden, açısından, şeyden, yemeklerden, hizmetten, üzerinden, hizmetinden, personellerden</li>
+            <li>NUM: 5'ten</li>
+            <li>PRON: Hepsinden, Bundan, kendisinden, bizden, ondan, onlardan, bunlardan, kendilerinden</li>
+            <li>PROPN: Artemis'ten, Etstur'dan, Ets'den, Ets'ten</li>
+            <li>VERB-Vnoun: açısından, olmasından, Beklediğimden, kalmadığımdan, umduğumdan, Beklediğimizden, ettiğinizden, katılmadığımdan, olduğundan, olmadığından</li>
           </ul>
         </li>
       </ul>
@@ -1812,8 +1880,10 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>NOUN: uçuşlarını, listesini, fiyatlarını, havayollarını, uçuşları, ücretlerini, ücreti, ulaşımını, uçuşunu, olanaklarını</li>
+            <li>NOUN: uçuşu, uçuşlarını, fiyatlarını, listesini, havayollarını, ücretlerini, rezervasyonu, ücreti, ulaşımını, uçuşunu</li>
+            <li>PRON: beni, bunu, hepsini, çoğunu</li>
             <li>PROPN: Airlines'i, Field'i</li>
+            <li>VERB-Vnoun: olduğunu, zamanlarını, kullanıldığını, olmadığını, olmasını, dönüşü, bağlandığını, edilmesini, ettiğini, gelişleri</li>
           </ul>
         </li>
       </ul>
@@ -1841,8 +1911,12 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>NOUN: parasını, parayı, konuyu, arabayı, suyu, şeyi, arkasını, elini, gözünü, lirayı</li>
+            <li>ADJ: tamamını, kolayını, Ateisti, Firariyi, acısını, bildiklerini, elimdekini, geleni, güzellerini, hastayı</li>
+            <li>NOUN: parasını, parayı, konuyu, işi, şeyi, arabayı, suyu, topu, arkasını, elini</li>
+            <li>NUM: 2'yi, altmışını, ikisini, milyonları, ıcığını</li>
+            <li>PRON: onu, beni, hepsini, seni, bizi, bunları, bunu, kendini, kendisini, onları</li>
             <li>PROPN: Yusuf'u, İstanbul'u, Ankara'yı, Ayşe'yi, Aşk'ı, Behlül'ü, Gaugin'i, Hindistan'ı, Kâbe'yi, Picasso'yu</li>
+            <li>VERB-Vnoun: olanları, olduğunu, olmadığını, yapacağını, İstediğini, almayı, etmeyi, gördüklerini, istediklerini, söylediklerini</li>
           </ul>
         </li>
       </ul>
@@ -1885,8 +1959,12 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>NOUN: olduğunu, başını, gözlerini, beni, yüzünü, elini, ellerini, biri, kapıyı, suyu</li>
+            <li>ADJ: biri, birini, hissini, kolayını, zavallıyı, belini, fazlasını, çabukluğu, çoğunu, ağırlığını</li>
+            <li>NOUN: başını, gözlerini, beni, yüzünü, elini, ellerini, kapıyı, gözünü, suyu, dünyayı</li>
+            <li>NUM: birini, biri, ikisini, ikiyi, altmışını, beşini, ikimizi, kırkını, yetmişi, yüzünü</li>
+            <li>PRON: onu, beni, kendini, seni, bunu, bizi, onları, kendimi, kendisini, bunları</li>
             <li>PROPN: İstanbul'u, Ankara'yı, Anadolu'yu, Bey'i, Fikret'i, Aslan'ı, Efendi'yi, Gülizar'ı, Hanım'ı, Hıdırellez'i</li>
+            <li>VERB-Vnoun: olduğunu, olmadığını, olduklarını, ettiğini, olmasını, geldiğini, olacağını, yapacağını, bildiğini, etmeyi</li>
           </ul>
         </li>
       </ul>
@@ -1911,8 +1989,12 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>NOUN: olduğunu, olacağını, olmadığını, yapmayı, ettiğini, gerektiğini, günü, fiyatları, doları, hisselerini</li>
-            <li>PROPN: ABD'yi, Co'yu, onu, Co.'yu, Corp'u, Delmed'i, HUD'u, Inc'ı, Jaguar'ı, Kaliforniya'yı</li>
+            <li>ADJ: fazlasını, açığı, iyisini, çoğunu, tamamını, tersini, aksini, aktiflerini, aynısını, azını</li>
+            <li>NOUN: hisselerini, teklifini, yerini, hisseyi, işlerini, davayı, kısmını, doları, hissesini, işini</li>
+            <li>NUM: biri, ikisini, 10'u, 12'sini, 20'sini, birini, 10'unu, 100'ü, 13'ünü, 15'ini</li>
+            <li>PRON: bunu, onu, onları, kendini, bunları, kendilerini, çoğunu, kendisini, beni, şunları</li>
+            <li>PROPN: ABD'yi, Co'yu, Co.'yu, Corp'u, Delmed'i, HUD'u, Inc'ı, Jaguar'ı, Kaliforniya'yı, Kanada'yı</li>
+            <li>VERB-Vnoun: olduğunu, olacağını, olmadığını, yapmayı, ettiğini, gerektiğini, edeceğini, olabileceğini, aldığını, beklediğini</li>
           </ul>
         </li>
       </ul>
@@ -1921,8 +2003,11 @@ udver: '2'
       <ul>
         <li>Acc
           <ul>
-            <li>NOUN: KONUMU, DENİZİ, KARŞILIĞINI, YEMEKLERİ, HAVUZU, TEMİZLİĞİ, PERSONELLERİ, HİZMETİ, ÜCRETİ, PERSONELİ</li>
-            <li>PROPN: ETSTUR'U</li>
+            <li>ADJ: iyilerini, fedakarlığı, iyisini, Ferahlığı, fazlasını, geleni, yenisini</li>
+            <li>NOUN: konumu, denizi, karşılığını, yemekleri, havuzu, temizliği, personelleri, hizmeti, ücreti, personeli</li>
+            <li>PRON: bizi, beni, kendisini, Hepsini, sizi, kendimizi, bunu, Bizleri, Seni, sizleri</li>
+            <li>PROPN: Etstur'u</li>
+            <li>VERB-Vnoun: gitmeyi, olmadığını, olduğunu, düşünmediğini, alamadığımı, gelmeyi, haketmediğini, aldığımı, düşünmediklerini, geleni</li>
           </ul>
         </li>
       </ul>
@@ -1934,8 +2019,8 @@ udver: '2'
             <li>ADJ: maviyi</li>
             <li>AUX-Part: olduğunu</li>
             <li>AUX-Vnoun: olmayı</li>
-            <li>NOUN: kitabı, annesini, arabayı, saçını, Soğanları, Yarını, akşamları, hedefleri, kapıyı, penceresini</li>
-            <li>PRON: birbirlerini, bunu, kini</li>
+            <li>NOUN: kitabı, annesini, arabayı, saçını, Soğanları, Yarını, akşamları, hedefleri, kapıyı, kini</li>
+            <li>PRON: birbirlerini, bunu</li>
             <li>VERB: Okuduklarını, okumayı, bırakmayı, gelebileceğini, içmeyi, yapmayı, yazdığını, Okuduğunuzu, okumasını, okuyacaklarını</li>
             <li>VERB-Part: Okuduklarını, yazdığını, Okuduğunuzu, okuyacaklarını, yağdığını</li>
             <li>VERB-Vnoun: okumayı, bırakmayı, içmeyi, yapmayı, okumasını, uyumasını, uyuyacağını</li>
@@ -1949,8 +2034,12 @@ udver: '2'
       <ul>
         <li>Dat
           <ul>
+            <li>ADJ: ucuza, diğerine</li>
             <li>NOUN: uçuşa, uçağa, merkezine, anlama, şehrine, bilgiye, şehre, uçuşuna, bilgilerine, bilete</li>
-            <li>PROPN: Francisco'ya, Denver'e, Atlanta'ya, Baltimore'ye, Boston'a, Dallas'a, Philadelphia'ya, Pittsburgh'a, City'e, Oakland'a</li>
+            <li>NUM: 5'e, 9'a, 10'a, 1039'a, 2'ye, 230'a, 6'ya, 8'e</li>
+            <li>PRON: bana</li>
+            <li>PROPN: Francisco'ya, Denver'e, Atlanta'ya, Baltimore'ye, Boston'a, Dallas'a, Philadelphia'ya, Pittsburgh'a, Oakland'a, City'e</li>
+            <li>VERB-Vnoun: bulmaya, kurmaya, olacağına, uçmaya, varışa</li>
           </ul>
         </li>
       </ul>
@@ -1980,8 +2069,12 @@ udver: '2'
       <ul>
         <li>Dat
           <ul>
+            <li>ADJ: iyiye, geriye, Başkalarına, açığa, diğerlerine, hoşuna, kirliliğine, Aceleye, Beleşe, Büyüklere</li>
             <li>NOUN: başına, işe, eve, yere, altına, yola, üstüne, paraya, çocuğa, araya</li>
+            <li>NUM: bire, ikiye, birine</li>
+            <li>PRON: ona, bana, bize, herkese, kendine, kimseye, birbirine, kendime, onlara, size</li>
             <li>PROPN: Nihat'a, Tevfik'e, Akdeniz'e, Allah'a, Amerika'ya, Ayşe'ye, Berlin'e, Bey'e, Caddesi'ne, H7'ye</li>
+            <li>VERB-Vnoun: gelene, etmeye, demeye, durmamacasına, geçene, satışa, söylediklerine, uyumaya, yapabileceğine, çekmeye</li>
           </ul>
         </li>
       </ul>
@@ -2024,8 +2117,12 @@ udver: '2'
       <ul>
         <li>Dat
           <ul>
-            <li>NOUN: üstüne, yere, başına, içine, önüne, yana, yerine, eve, altına, ortaya</li>
+            <li>ADJ: boşa, açığa, güzele, başkalarına, iyiye, sıkıya, bire, doğruya, geriye, hastaya</li>
+            <li>NOUN: üstüne, yere, başına, içine, önüne, yana, eve, altına, yerine, ortaya</li>
+            <li>NUM: ikiye, bine, birine, bire, ikincisine, ona, yüze, yüzüne, Yirmisine, altıya</li>
+            <li>PRON: bana, ona, bize, sana, birbirine, size, kendisine, kendine, onlara, buna</li>
             <li>PROPN: İstanbul'a, Anadolu'ya, Ankara'ya, Allah'a, Bey'e, Tevfik'e, Almanya'ya, Atatürk'e, Berlin'e, Tanrı'ya</li>
+            <li>VERB-Vnoun: etmeye, olduğuna, yapmaya, bulmaya, vermeye, olmaya, çıkarmaya, çalmaya, gelinceye, görmeye</li>
           </ul>
         </li>
       </ul>
@@ -2051,8 +2148,12 @@ udver: '2'
       <ul>
         <li>Dat
           <ul>
+            <li>ADJ: açığa, tersine, ciddiye, alacaklılara, kötüye, ucuza, boşa, diğerlerine, fazlasına, hafife</li>
             <li>NOUN: dolara, başına, sona, seviyesine, Doları'na, ortaya, hale, işe, hisseye, yıla</li>
+            <li>NUM: milyona, milyara, 100'e, 1/4'e, 3/4'e, 1'e, 1969'a, 1/2'ye, 1\/8'e, 2'ye</li>
+            <li>PRON: buna, ona, onlara, bize, kendine, bana, birbirine, kendisine, kendilerine, size</li>
             <li>PROPN: Yen'e, Kasım'a, Dolar'a, ABD'ye, Amerika'ya, Washington'a, Avrupa'ya, Frank'a, Moskova'ya, Paribas'a</li>
+            <li>VERB-Vnoun: olduğuna, etmeye, yapmaya, almaya, kalmaya, olmaya, olmasına, satmaya, düşmeye, düşürmeye</li>
           </ul>
         </li>
       </ul>
@@ -2061,8 +2162,11 @@ udver: '2'
       <ul>
         <li>Dat
           <ul>
-            <li>NOUN: ÜCRETE, FİYATA, DENİZE, AİLELERE, FİYATINA, MERKEZE, ADINA, ANKETE, PARAYA, BEYE</li>
-            <li>PROPN: İSTANBUL'A, ATİNA'YA, KAYA'YA, SANTORİNİ'YE</li>
+            <li>ADJ: hoşuma, hoşumuza, çiftlerine, Mükemmele, sene, sona, Ucuza, Uyguna, başkalarına, boşa</li>
+            <li>NOUN: ücrete, fiyata, denize, ailelere, Fiyatına, merkeze, adına, ankete, paraya, beye</li>
+            <li>PRON: herkese, bana, bize, hepsine, size, kendisine, sizlere, ona, buna, kimseye</li>
+            <li>PROPN: İstanbul'a, Atina'ya, Kaya'ya, Santorini'ye</li>
+            <li>VERB-Vnoun: değerlendirmeye, çalışmasına, olmasına, olmaya, olanlara, yapmaya, görülmeye, aramasına, etmeye, Alabildiğine</li>
           </ul>
         </li>
       </ul>
@@ -2146,8 +2250,12 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>NOUN: uçuşların, havayollarının, uçuşun, uçuşlarının, uçuşunun, sabahın, havayolunun, uçmanın, ayın, doların</li>
-            <li>PROPN: Airlines'in, Delta'nın, United'in, American'ın, Continental'ın, air'in, Eastern'in, Express'in, Twa'nin, Airline'nin</li>
+            <li>ADJ: seferinin</li>
+            <li>NOUN: uçuşların, uçuşun, havayollarının, uçuşlarının, uçuşunun, sabahın, havayolunun, ayın, doların, biletin</li>
+            <li>NUM: 757'nin, 271'in, 281'in, 733'ün, 746'nın, 767'nin, altısının</li>
+            <li>PRON: benim, bunların, hangisinin</li>
+            <li>PROPN: Airlines'in, Delta'nın, United'in, American'ın, Continental'ın, Air'in, Eastern'in, Express'in, Twa'nin, Airline'nin</li>
+            <li>VERB-Vnoun: uçmanın, etmenin, gitmenin, olduğunun, uçabilmemin, yapmanın</li>
           </ul>
         </li>
       </ul>
@@ -2175,8 +2283,11 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>NOUN: işin, evin, Babasının, adamın, masanın, çocuğun, aklının, sahibinin, takımın, çocukların</li>
+            <li>ADJ: Bizimkilerin, Garibanın, aklının, gelenlerin, gerginliğin, hastanın, ustalarının, ustanın, zanlısının, şüphelinin</li>
+            <li>NOUN: işin, evin, Babasının, adamın, masanın, çocuğun, sahibinin, takımın, çocukların, Annesinin</li>
+            <li>PRON: onun, senin, bizim, benim, onların, hepimizin, herkesin, kimsenin, bunun, Bunların</li>
             <li>PROPN: Ahmet'in, Ali'nin, Arda'nın, Bey'in, Beşir'in, Dante'nin, Eylül'ün, Hamdi'nin, Irak'ın, Leman'ın</li>
+            <li>VERB-Vnoun: debelenmenin, Davranışlarının, Oturduğun, Söylediklerimin, Söylediklerinizin, ayırmanın, eleştirenlerin, etmenin, gecikenlerin, gelemeyeceğinin</li>
           </ul>
         </li>
       </ul>
@@ -2215,8 +2326,12 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
+            <li>ADJ: başkalarının, zavallının, hastanın, büyüklerin, gelenlerin, gençlerin, bizimkilerin, görselliğin, öksüzün, Doğuluların</li>
             <li>NOUN: evin, insanın, adamın, kadının, dünyanın, günün, işin, kapının, masanın, çocuğun</li>
-            <li>PROPN: İstanbul'un, Bey'in, Hanım'ın, Atatürk'ün, Tanrı'nın, Paşa'nın, Türkiye'nin, Kemal'in, Türk'ün, Ankara'nın</li>
+            <li>NUM: altının, ikinin, ikisinin, onun, yüzlerinin, Üçün, İkimizin, İkisinin</li>
+            <li>PRON: onun, benim, bizim, senin, bunun, onların, bunların, sizin, herkesin, birinin</li>
+            <li>PROPN: İstanbul'un, Bey'in, Hanım'ın, Atatürk'ün, Tanrı'nın, Paşa'nın, Türkiye'nin, Kemal'in, Türk'ün, Anadolu'nun</li>
+            <li>VERB-Vnoun: olmanın, olanların, etmenin, gözlerinin, konuşmanın, bulunanların, olanın, olduğunun, anlattıklarının, düşünenin</li>
           </ul>
         </li>
       </ul>
@@ -2241,8 +2356,12 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
+            <li>ADJ: diğerlerinin, açığın, başkalarının, beyazın, kötüsünün, siyahların, aktifin, atığın, azının, başkasının</li>
             <li>NOUN: şirketin, yılın, yatırımcıların, piyasanın, şirketlerin, yılının, hükümetin, dünyanın, şirketinin, hisselerin</li>
-            <li>PROPN: Japonya'nın, Bush'un, Journal'ın, Almanya'nın, Çin'in, ABD'nin, Co.'nun, Corp'un, Ford'un, Hazine'nin</li>
+            <li>NUM: 1980'lerin, 1988'in, 1969'un, 1987'nin, 1989'un, 1970'lerin, 10'unun, 1990'ların, 1990'ın, 1991'in</li>
+            <li>PRON: onun, bunun, onların, bunların, bizim, benim, kendisinin, sizin, çoğunun, birinin</li>
+            <li>PROPN: Japonya'nın, Journal'ın, Bush'un, Almanya'nın, Çin'in, ABD'nin, Co.'nun, Corp'un, Ford'un, Hazine'nin</li>
+            <li>VERB-Vnoun: olanların, olduğunun, olacağının, olmasının, yapmanın, almanın, etmenin, verenlerin, almasının, azaltmanın</li>
           </ul>
         </li>
       </ul>
@@ -2251,8 +2370,12 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>NOUN: OTELİN, TESİSİN, PERSONELLERİN, ÜCRETİN, PERSONELİN, YEMEKLERİN, PARANIN, ODANIN, ÇALIŞANLARIN, ODALARIN</li>
-            <li>PROPN: SİVAS'IN</li>
+            <li>ADJ: çiftin, çiftlerin</li>
+            <li>NOUN: otelin, tesisin, personellerin, ücretin, personelin, Yemeklerin, paranın, odanın, çalışanların, odaların</li>
+            <li>NUM: 5'in</li>
+            <li>PRON: benim, bizim, onun, sizin, Bunun, bizlerin, hepsinin, herkesin</li>
+            <li>PROPN: Sivas'ın</li>
+            <li>VERB-Vnoun: yapmanın, beklenenin, etmememin, çalışmasının, Beklediğimizin, Olabileceğin, aldığının, anlamayacağınızın, konaklayanların, olmasının</li>
           </ul>
         </li>
       </ul>
@@ -2261,8 +2384,8 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>NOUN: Annesinin, Evin, arkadaşının, babasının, halkın, kinin, mutfağın, odasının, çocuğun</li>
-            <li>PRON: Benim, Bunun, kimin, kinin</li>
+            <li>NOUN: Annesinin, kinin, Evin, arkadaşının, babasının, halkın, mutfağın, odasının, çocuğun</li>
+            <li>PRON: Benim, Bunun, kimin</li>
             <li>PROPN: Deniz'in, Fransanın, Hakan'ın, Peter'in</li>
           </ul>
         </li>
@@ -2274,8 +2397,10 @@ udver: '2'
       <ul>
         <li>Ins
           <ul>
-            <li>NOUN: uçuşlarla, uçuşla, havayollarıyla, fiyatlarıyla, tarifeyle, uçakla, uçuşuyla, olanaklarıyla, uçuşlarıyla, ücretleriyle</li>
-            <li>PROPN: Continental'la, Airlines'le, Delta'yla, United'le, Air'le, American'la, Boston'la, Denver'le, Nationair'le, Pittsburgh'la</li>
+            <li>ADJ: seferiyle</li>
+            <li>NOUN: uçuşla, uçuşlarla, havayollarıyla, tarifeyle, uçakla, uçuşuyla, olanaklarıyla, uçuşlarıyla, ücretleriyle, hizmetle</li>
+            <li>PROPN: Continental'la, Airlines'le, Delta'yla, Air'le, American'la, Boston'la, Denver'le, Nationair'le, Pittsburgh'la, United'le</li>
+            <li>VERB-Vnoun: uçmakla, fiyatlarıyla, gitmekle, yapmakla</li>
           </ul>
         </li>
       </ul>
@@ -2302,8 +2427,11 @@ udver: '2'
       <ul>
         <li>Ins
           <ul>
-            <li>NOUN: gözle, konuyla, gözüyle, zorla, arkadaşlarıyla, ateşle, boyayla, etkisiyle, gürültüyle, kürekle</li>
+            <li>ADJ: zorla, Acıyla, gücüyle</li>
+            <li>NOUN: gözle, konuyla, gözüyle, arkadaşlarıyla, ateşle, boyayla, etkisiyle, gürültüyle, kürekle, rubailerle</li>
+            <li>PRON: onunla, birbiriyle, benimle, Bizimle, biriyle, herkesle</li>
             <li>PROPN: Hasan'la, Behlül'le</li>
+            <li>VERB-Vnoun: bakışlarıyla, gözleriyle</li>
           </ul>
         </li>
       </ul>
@@ -2341,8 +2469,12 @@ udver: '2'
       <ul>
         <li>Ins
           <ul>
-            <li>NOUN: adımlarla, sesle, eliyle, olmakla, gözleriyle, sesiyle, gözlerle, zamanla, elleriyle, kadınla</li>
+            <li>ADJ: zorla, tersiyle, akla, acısıyla, boşlarla, elimle, gücüyle, hissiyle, çevikliğiyle, ılıklığıyla</li>
+            <li>NOUN: adımlarla, sesle, eliyle, sesiyle, gözlerle, zamanla, elleriyle, gözleriyle, kadınla, adamla</li>
+            <li>NUM: binlerle, biriyle, yüzle</li>
+            <li>PRON: onunla, bununla, benimle, birbiriyle, onlarla, bunlarla, seninle, birbirleriyle, bizimle, kendisiyle</li>
             <li>PROPN: Bey'le, Fahri'yle, Hasan'la, Keloğlan'la, Ahmet'le, Allah'la, Diyojen'le, Edirne'yle, Efendi'yle, Halil'le</li>
+            <li>VERB-Vnoun: olmakla, etmekle, yapmakla, gözleriyle, gülüşle, vermekle, atmakla, atıştırmakla, bölmeyle, gidişle</li>
           </ul>
         </li>
       </ul>
@@ -2364,8 +2496,12 @@ udver: '2'
       <ul>
         <li>Ins
           <ul>
-            <li>NOUN: artışla, düşüşle, itibariyle, nedenle, yükselişle, oranla, anlamıyla, hisseyle, deyişle, zamanla</li>
+            <li>ADJ: aceleyle, açığıyla, beyazla, dürüstlüğüyle, gücüyle, iyisiyle, kalplilikle, kurumsallıkla, meraklılarıyla, sakinleriyle</li>
+            <li>NOUN: artışla, düşüşle, itibariyle, nedenle, oranla, yükselişle, anlamıyla, hisseyle, deyişle, depremle</li>
+            <li>NUM: milyonlarla, 100'le, 3.69'la, 44'le, ikisiyle, milyonla</li>
+            <li>PRON: bununla, onunla, onlarla, seninle, Kendisiyle, birçoğuyla, bizimle, bunlarla, hiçbiriyle</li>
             <li>PROPN: Toyota'yla, CFC'lerle, Doğu'yla, Ford'la, Hut'la, Rubens'le</li>
+            <li>VERB-Vnoun: düşüşle, artışla, yükselişle, etmekle, olmakla, artmasıyla, ermesiyle, kaldırılmasıyla, olmasıyla, satmakla</li>
           </ul>
         </li>
       </ul>
@@ -2374,8 +2510,10 @@ udver: '2'
       <ul>
         <li>Ins
           <ul>
-            <li>NOUN: BEYLE, TELEFONLA, HANIMLA, YÖNÜYLE, KELİMEYLE, DOĞAYLA, ŞEYİYLE, ANLAMIYLA, ÜCRETLE, ARKADAŞIMLA</li>
-            <li>PROPN: ETSTUR'LA</li>
+            <li>NOUN: beyle, telefonla, hanımla, yönüyle, kelimeyle, doğayla, şeyiyle, anlamıyla, ücretle, Misafirimizle</li>
+            <li>PRON: bizimle, benimle, kendisiyle, bizle, bizlerle, herkesle, onunla</li>
+            <li>PROPN: Etstur'la</li>
+            <li>VERB-Vnoun: gezmekle, girmemizle, Yazmakla</li>
           </ul>
         </li>
       </ul>
@@ -2396,7 +2534,10 @@ udver: '2'
       <ul>
         <li>Loc
           <ul>
-            <li>NOUN: arasında, civarında, havayollarında, saatlerinde, saatlerde, uçuşta, uçuşunda, Havaalanı'nda, saatte, 1991'de</li>
+            <li>ADJ: uzakta, uzaklıkta, birde, boşta</li>
+            <li>NOUN: arasında, havayollarında, civarında, saatlerinde, saatlerde, uçuşta, uçuşunda, Havaalanı'nda, saatte, Havalimanı'nda</li>
+            <li>NUM: 1991'de, 7'de, 9'da, 5'te, 1'de, 8'de, 3'te, 630'da, 838'de, 10'da</li>
+            <li>PRON: nerede</li>
             <li>PROPN: Temmuz'da, Ağustos'ta, Denver'de, Haziran'da, Dallas'ta, Atlanta'da, Kasım'da, Nisan'da, Aralık'ta, Eylül'de</li>
           </ul>
         </li>
@@ -2426,8 +2567,12 @@ udver: '2'
       <ul>
         <li>Loc
           <ul>
-            <li>NOUN: şekilde, evde, anda, içinde, karşısında, yolda, arasında, elinde, konusunda, okulda</li>
+            <li>ADJ: karşısında, açıkta, zorunda, darda, geride, yükseklerde</li>
+            <li>NOUN: şekilde, evde, anda, içinde, yolda, arasında, elinde, konusunda, okulda, önünde</li>
+            <li>NUM: 1453'te, 1923'te, 3'te, altıda, ikide, üçte</li>
+            <li>PRON: bizde, bende</li>
             <li>PROPN: Alaçatı'da, Almanya'da, Amerika'da, Ankara'da, Açıkhava'da, Bursa'da, Ege'de, Halkapınar'da, Kadıköy'de, Karabükspor'da</li>
+            <li>VERB-Vnoun: girdiğimde, gittiğimde, gördüğümde, bittiğinde, bulamayacağımda, geldiklerinde, geldiğimde, girdiğinde, istediğinde, kalkışta</li>
           </ul>
         </li>
       </ul>
@@ -2467,8 +2612,12 @@ udver: '2'
       <ul>
         <li>Loc
           <ul>
-            <li>NOUN: arasında, üstünde, içinde, önünde, altında, hâlde, yerde, elinde, başında, arada</li>
+            <li>ADJ: karşısında, zorunda, uzakta, birinde, uzaklarda, birlikte, elimde, geride, Karşında, açıkta</li>
+            <li>NOUN: arasında, içinde, üstünde, önünde, altında, hâlde, yerde, elinde, başında, arada</li>
+            <li>NUM: birinde, ikide, İkide, dörtte, altıda, birde, üçte, 1522'de, 1683'te, 1826'da</li>
+            <li>PRON: birinde, bende, bizde, onda, bunda, kendimde, kendinde, nerede, Sende, neresinde</li>
             <li>PROPN: İstanbul'da, Ankara'da, Türkiye'de, Fransa'da, Viyana'da, Avrupa'da, Ay'da, Bursa'da, Frankfurt'ta, Makedonya'da</li>
+            <li>VERB-Vnoun: bakışta, başladığında, geldiğinde, çıktığında, dönüşte, gelişinde, vermekte, anladığında, anlamakta, anlattığında</li>
           </ul>
         </li>
       </ul>
@@ -2493,8 +2642,12 @@ udver: '2'
       <ul>
         <li>Loc
           <ul>
+            <li>ADJ: karşısında, genelinde, genelde, normalde, zorunda, uzakta, boşta, diğerlerinde, geride, birlikte</li>
             <li>NOUN: şekilde, arasında, konusunda, ayında, altında, anda, yılında, durumda, zamanda, ölçüde</li>
-            <li>PROPN: York'ta, ABD'de, Japonya'da, Tokyo'da, Kasım'da, Avrupa'da, Ağustos'ta, Ekim'de, Aralık'ta, Eylül'de</li>
+            <li>NUM: 1988'de, üçte, 1990'da, 1987'de, 1979'da, 1984'te, 1985'te, yüzde, 1981'de, 1992'de</li>
+            <li>PRON: birinde, bazında, birçoğunda, bunda, diğerinde, nerede, çoğunda, öbürlerinde</li>
+            <li>PROPN: York'ta, ABD'de, Japonya'da, Tokyo'da, Avrupa'da, Ekim'de, Kasım'da, Ağustos'ta, Aralık'ta, Eylül'de</li>
+            <li>VERB-Vnoun: karşılaştırıldığında, kıyaslandığında, olduğunda, alındığında, ettiğinde, geldiğinde, başladığında, etmekte, fiyatlandırmasında, vurduğunda</li>
           </ul>
         </li>
       </ul>
@@ -2503,8 +2656,12 @@ udver: '2'
       <ul>
         <li>Loc
           <ul>
-            <li>NOUN: GİRİŞTE, GENELDE, ANLAMDA, OTELDE, YEMEKLERDE, KONUSUNDA, ANDA, ODADA, ÇIKIŞTA, DIŞINDA</li>
-            <li>PROPN: ATLANTİS'TE</li>
+            <li>ADJ: genelde, genelinde, tarihinde, beraberimde, büyüklükte, varda, yanımızda</li>
+            <li>NOUN: girişte, anlamda, otelde, yemeklerde, anda, odada, konusunda, dışında, çıkışta, Hizmette</li>
+            <li>NUM: yüzde, 7'de, yedide</li>
+            <li>PRON: bende</li>
+            <li>PROPN: Atlantis'te</li>
+            <li>VERB-Vnoun: girişte, içerisinde, düşündüğünde, etmekte, konusunda, olduğunda, aradığımda, başladığında, verdiklerinde, Netleştiğinde</li>
           </ul>
         </li>
       </ul>
@@ -2526,8 +2683,12 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>NOUN: uçuşları, uçuş, uçuşlar, günü, uçuşu, akşam, dönüş, gidiş, sabah, saat</li>
-            <li>PROPN: San, çarşamba, Boston, Denver, Washington, New, St., Francisco, pazartesi, Dallas</li>
+            <li>ADJ: aktarmasızları, diğeri, ucuzu</li>
+            <li>NOUN: uçuşları, uçuş, uçuşlar, günü, akşam, sabah, saat, havayolları, ihtiyacım, çarşamba</li>
+            <li>NUM: 12'si, 16'sı, 733'ün, dokuzu, ikisi, sekizi, yedisi, üçü</li>
+            <li>PRON: hangi, ne, hangisi, hangileri, bu, biri, neyin, neyi, hepsi, şu</li>
+            <li>PROPN: San, Boston, Denver, New, St., Francisco, Washington, Dallas, Las, Pittsburgh</li>
+            <li>VERB-Vnoun: gidiş, dönüş, uçmak, gitmek, yapmak, görmek, almak, bulmak, etmek, bilmek</li>
           </ul>
         </li>
       </ul>
@@ -2558,8 +2719,12 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
+            <li>ADJ: gençler, tamamı, Bizimkiler, Boşu, Bucaklılar, Hainler, Körler, Olacaklar, Radikalliği, Serseriler</li>
             <li>NOUN: para, adam, çocuk, şey, gün, iş, ay, zaman, sabah, hafta</li>
+            <li>NUM: birincisi, İkimiz, Kırkı, ikisi, kırk</li>
+            <li>PRON: bu, o, ben, sen, biz, herkes, kendi, kimse, biri, ne</li>
             <li>PROPN: Hanım, Nihal, Arsen, Jordan, Nihal'in, Seni, Ayşe, Firdevs, Rüştü, Türkiye</li>
+            <li>VERB-Vnoun: olduğu, almak, etmek, yapmak, etme, engellemek, olmak, alabilmek, anlamak, açmak</li>
           </ul>
         </li>
       </ul>
@@ -2604,9 +2769,13 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
+            <li>ADJ: çoğu, biri, gençler, güzelim, aydınlık, başkaları, güzeli, baştan, gençleri, ayrılık</li>
             <li>AUX: değil, değilim</li>
             <li>NOUN: gün, zaman, adam, şey, kadın, çocuk, iş, su, gece, Türk</li>
-            <li>PROPN: Allah, Mustafa, Türkiye, İstanbul, Ali, Avrupa, Ben, Ömer, Ayşe, Hanım</li>
+            <li>NUM: ikisi, üçü, ikinci, biri, İkisi, birinci, İkinci, üçüncü, İkimiz, dokuzu</li>
+            <li>PRON: ben, bu, o, kendi, sen, biz, ne, kim, biri, bunlar</li>
+            <li>PROPN: İstanbul, Allah, Mustafa, Türkiye, Ali, Hanım, Efendi, Avrupa, Ömer, Ayşe</li>
+            <li>VERB-Vnoun: olmak, etmek, olduğu, demek, görmek, yapmak, almak, vermek, olanlar, çekmek</li>
           </ul>
         </li>
       </ul>
@@ -2632,9 +2801,13 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>AUX: değilim, değiller, değilsin</li>
-            <li>NOUN: bay, hisse, dolar, yıl, şirket, satın, devam, gelir, dün, Amerikan</li>
-            <li>PROPN: New, ABD, York, Corp., Dow, Jones, Wall, Cuma, Co., Inc.</li>
+            <li>ADJ: diğerleri, çoğu, karşıtı, fazlası, açığı, diğeri, demokratlar, tamamı, azı, yanlısı</li>
+            <li>AUX: değiller, değilim, değilsin</li>
+            <li>NOUN: bay, hisse, dolar, yıl, şirket, satın, devam, gelir, Amerikan, dün</li>
+            <li>NUM: ikisi, ikinci, üçü, İkisi, 10'u, biri, milyarlar, milyonu, 12'si, 1980'ler</li>
+            <li>PRON: bu, kendi, o, onlar, biri, ben, ne, bazıları, biz, bunlar</li>
+            <li>PROPN: New, ABD, York, Corp., Dow, Jones, Wall, Co., Inc., Inc</li>
+            <li>VERB-Vnoun: olmak, etmek, alma, almak, yapmak, olduğu, olması, devralma, verme, etme</li>
           </ul>
         </li>
       </ul>
@@ -2643,9 +2816,13 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>AUX: DEĞİLİM, DEĞİLLER</li>
-            <li>NOUN: HİZMET, BEY, PUAN, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, YEMEKLER, KONUMU</li>
-            <li>PROPN: ETS, MEHMET, EMRE, FATİH, ETSTUR, TOLGA, ALİ, DENİZ, HAKAN, GÖKHAN</li>
+            <li>ADJ: memnunum, kararsızım, yetersizliği, çifti, Ekstralar, güleryüzlüler, güzeli, soğuklar, yanı, yardımseverler</li>
+            <li>AUX: değilim, değiller</li>
+            <li>NOUN: hizmet, Bey, puan, çeşit, tavsiye, tesis, personel, otel, yemekler, konumu</li>
+            <li>NUM: Onlar, İkisi</li>
+            <li>PRON: ben, hepsi, kendisi, onlar, herkes, biz, kendimiz, o, biri, kimse</li>
+            <li>PROPN: Hanım, Ets, Mehmet, Emre, Fatih, Etstur, Tolga, Ali, Deniz, Hakan</li>
+            <li>VERB-Vnoun: olması, yüzme, vermek, almak, olmak, Yeme, içme, katılmak, yapmak, bilgilendirilmek</li>
           </ul>
         </li>
       </ul>
@@ -2752,7 +2929,7 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>DET: bu, her, o, şu</li>
+            <li>DET: tüm, bu, her, o, şu</li>
           </ul>
         </li>
       </ul>
@@ -2764,7 +2941,7 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>DET: bu, her, o, şu</li>
+            <li>DET: bu, her, o, tüm, şu</li>
           </ul>
         </li>
       </ul>
@@ -2786,7 +2963,7 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>DET: bu, her, o, şu</li>
+            <li>DET: bu, her, o, şu, tüm</li>
           </ul>
         </li>
       </ul>
@@ -2806,7 +2983,7 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>DET: bu, her, o, şu, herhangi</li>
+            <li>DET: bu, her, tüm, o, şu</li>
           </ul>
         </li>
       </ul>
@@ -2815,7 +2992,7 @@ udver: '2'
       <ul>
         <li>Def
           <ul>
-            <li>DET: HER, BU, O, ŞU, HEP, SU, BİR</li>
+            <li>DET: her, bu, o, şu, tüm, Hep, Su, bir</li>
           </ul>
         </li>
       </ul>
@@ -2847,7 +3024,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>DET: bir, birkaç, bazı</li>
+            <li>DET: bir, birkaç, birçok, bazı</li>
           </ul>
         </li>
       </ul>
@@ -2869,7 +3046,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>DET: bir, birkaç, bazı</li>
+            <li>DET: bir, birkaç, birçok, bazı, kimi</li>
           </ul>
         </li>
       </ul>
@@ -2888,7 +3065,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>DET: bir, bazı, birkaç, BİR, Bİr, birçok, hedef</li>
+            <li>DET: bir, bazı, birçok, birkaç, BİR, Bİr</li>
           </ul>
         </li>
       </ul>
@@ -2897,7 +3074,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>DET: BİR, BAZI, HİÇBİR</li>
+            <li>DET: bir, bazı, hiçbir</li>
           </ul>
         </li>
       </ul>
@@ -3030,7 +3207,7 @@ udver: '2'
       <ul>
         <li>Cmp
           <ul>
-            <li>ADV: daha, dağa</li>
+            <li>ADV: daha</li>
           </ul>
         </li>
       </ul>
@@ -3039,7 +3216,7 @@ udver: '2'
       <ul>
         <li>Cmp
           <ul>
-            <li>ADV: DAHA</li>
+            <li>ADV: daha</li>
           </ul>
         </li>
       </ul>
@@ -3101,7 +3278,7 @@ udver: '2'
       <ul>
         <li>Sup
           <ul>
-            <li>ADV: EN</li>
+            <li>ADV: en</li>
           </ul>
         </li>
       </ul>
@@ -3167,7 +3344,11 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
+            <li>AUX: değil</li>
+            <li>VERB-Conv: varmadan</li>
             <li>VERB-Fin: gitmem, bulmam, almam, geçirmem, görmem, istemiyorum, yaptırmam</li>
+            <li>VERB-Part: geçmeyen, olmayan</li>
+            <li>VERB-Vnoun: olmadığını, uçmadığı, verilmediğini, yapmadığını, yapmayacağını</li>
           </ul>
         </li>
       </ul>
@@ -3193,7 +3374,14 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>VERB-Fin: alamadı, demiyor, kalmadı, gelmez, alamıyordu, açamıyorum, başaramadı, dinlemedi, dinlemiyor, edememiş</li>
+            <li>ADJ: yoktu, yok, yokken</li>
+            <li>ADV: yok</li>
+            <li>AUX: değil, değildi, değilim</li>
+            <li>NOUN: yok, yoktu</li>
+            <li>VERB-Conv: gelmeden, geçmeden, göremeyince, olmadan, alamayınca, bulamayınca, durmaksızın, görmemişçesine, konuşmadan, vermeden</li>
+            <li>VERB-Fin: alamadı, demiyor, kalmadı, gelmez, alamıyordu, açamıyorum, başaramadı, dinlemedi, dinlemiyor, edemiyorum</li>
+            <li>VERB-Part: gelmez, geçmez, kalmamış, olmayan, tanımadığı, Beklemediğimiz, Sallanmaz, alamadığı, anlamadığı, anlaşamayan</li>
+            <li>VERB-Vnoun: olmadığını, durmamacasına, almamak, anlaşamadığı, bulamayacağımda, davranamayacağını, demediğini, etkilenmemesi, etmeyeceğini, gelemeyeceğinin</li>
           </ul>
         </li>
       </ul>
@@ -3235,8 +3423,14 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>VERB-Fin: olmaz, kalmadı, bilmem, olmasa, bilmiyorum, etmez, görmedim, gelmez, bilmez, olmazsa</li>
-            <li>VERB-Vnoun: istememektedirler, yağmamasındaymış</li>
+            <li>ADJ: yok, yoktu, yoktur, yokmuş, yokken, yoksa, yoksun, açıklanmayacak, bıçkınlaşma, enayileşme</li>
+            <li>ADV: yok</li>
+            <li>AUX: değil, değildir, değildi, değilim, değilse, değiliz, değilmiş, değildim, değilsin, değilsiniz</li>
+            <li>NOUN: yok, yoktur, yoktu, yoktan, bağlanmadım, canlandıramadı, canlanmaz, görevlendirilemez, ilgilendirmez, kaynaklanmıyordu</li>
+            <li>VERB-Conv: olmadan, geçmeden, almadan, etmeden, gelmeden, bakmadan, durmadan, girmeden, varmadan, çıkarmadan</li>
+            <li>VERB-Fin: olmaz, kalmadı, bilmem, etmez, olmasa, bilmiyorum, görmedim, gelmez, bilmez, olmazsa</li>
+            <li>VERB-Part: olmayan, olmaz, istemez, olmadığı, gelmeyen, çıkmaz, bilmeyen, vermeyen, bağdaşmayan, bilmediği</li>
+            <li>VERB-Vnoun: olmadığını, olmadığı, olmamak, olmadığından, etmemek, kalmadığını, olmadığına, bulamayanlar, bırakmamacasına, durmamacasına</li>
           </ul>
         </li>
       </ul>
@@ -3263,9 +3457,14 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>VERB-Fin: açıklanmadı, ulaşılamadı, yapmadı, değişmedi, etmedi, olmayacak, söylemedi, vermedi, sanmıyorum, beklemiyor</li>
-            <li>VERB-Part: bahsetmediğinizdir, olmadığıydı</li>
-            <li>VERB-Vnoun: beklenmemektedir, düşünmemesiydi, olmamasıdır, olmamasıydı, yönlendirememenizdir</li>
+            <li>ADJ: yok, yoktu, yoktur, yokluğunda, yoksa, yokmuş, yoksun</li>
+            <li>ADV: yok</li>
+            <li>AUX: değil, değildir, değildi, değilim, değiller, değiliz, değilse, değillerdi, depremsiz, değildik</li>
+            <li>NOUN: yok, derecelendirilmez, etiketlenmemiştir, sözleşme, sınırlandırmamaktadır</li>
+            <li>VERB-Conv: olmadan, değişmeden, geçmeden, göstermeden, almadan, bulunmadan, denemeden, etmeden, gelmeden, olmaksızın</li>
+            <li>VERB-Fin: açıklanmadı, ulaşılamadı, yapmadı, değişmedi, olmayacak, etmedi, söylemedi, vermedi, sanmıyorum, beklemiyor</li>
+            <li>VERB-Part: olmayan, olmadığı, ödenmemiş, edilmemiş, istenmeyen, gelişmemiş, içermeyen, olmamış, vermeyen, alınmayan</li>
+            <li>VERB-Vnoun: olmadığını, görmediğini, görmezden, olmaması, yapmadığını, olmadığı, olmayacağını, yapmayacağını, gelmediğini, olmadığına</li>
           </ul>
         </li>
       </ul>
@@ -3274,8 +3473,13 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>VERB-Fin: KALMADIM, İSTEMİYORUM, ETMEM, OLMADI, BEĞENMEDİM, KULLANMADIM, ALAMADIM, YAPTIRMADIM, GÖRMEDİM, KARŞILAMADI</li>
-            <li>VERB-Vnoun: DÜŞÜNMEMEKTEDİR</li>
+            <li>ADJ: yoktu, yok, yokmuş, yoktur</li>
+            <li>ADV: yok</li>
+            <li>AUX: değildi, değil, değilim, değillerdi, değiller, değildim, değildik, değildiler, değildir</li>
+            <li>VERB-Conv: gelmeden, etmeden, Unutmadan, demeyip, denemeden, çıkmayıp</li>
+            <li>VERB-Fin: kalmadım, istemiyorum, etmem, olmadı, beğenmedim, kullanmadım, alamadım, yaptırmadım, görmedim, karşılamadı</li>
+            <li>VERB-Part: kalmadığım, yaptırmadığım, katılmadığım, Kullanmadığım, olmadığı, beğenmediğim, bilmeyen, kalmadığımız, olmayan, yapmadığım</li>
+            <li>VERB-Vnoun: olmadığını, düşünmediğini, alamadığımı, haketmediğini, kalmadığım, kalmadığımdan, düşünmediklerini, etmeme, etmememin, katılmadığımdan</li>
           </ul>
         </li>
       </ul>
@@ -3302,9 +3506,10 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>VERB-Conv: uçuşunuz, uçuşlardır</li>
+            <li>VERB-Conv: ayrılıp, kalkıp, kullanarak, kalkarak, durarak, gidip, vererek, yaparak, giderken, olarak</li>
             <li>VERB-Fin: göster, istiyorum, listeleyin, gösterin, listele, uçuyor, bul, ver, kalkıyor, verin</li>
-            <li>VERB-Vnoun: demektir, kısaltmasıdır</li>
+            <li>VERB-Part: olan, kalkan, giden, varan, yapan, uçan, gelen, varacak, yapılacak, ayrılan</li>
+            <li>VERB-Vnoun: gidiş, dönüş, uçmak, gitmek, yapmak, görmek, almak, bulmak, etmek, bilmek</li>
           </ul>
         </li>
       </ul>
@@ -3333,8 +3538,12 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
+            <li>ADJ: katılaşmış</li>
+            <li>NOUN: adlandı, borçlandırıyordu, engellendi, hızlanalım, hızlandı, keçeleşmiş, kıvamlandı, lifleşmiş, saçaklandı</li>
+            <li>VERB-Conv: olarak, görünce, gelip, bakıp, giderken, gidip, girip, olunca, olup, çıkınca</li>
             <li>VERB-Fin: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
-            <li>VERB-Vnoun: akmasın, sürümekti, yağlamaktı, yüzmekti</li>
+            <li>VERB-Part: olan, kalan, gelen, aldığı, eden, istediği, yaptığı, çıkan, geçer, giden</li>
+            <li>VERB-Vnoun: olanları, olduğu, almak, etmek, yapmak, etme, olduğunu, engellemek, gelene, olmak</li>
           </ul>
         </li>
       </ul>
@@ -3368,10 +3577,12 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>VERB-Conv: görüştü, kaçıştı, aldatıştır, alışıdır, buruşmuş, bölüştük, değişmiş, direnişler, dönüştü, düşüşteydi</li>
-            <li>VERB-Fin: oldu, geldi, başladı, olur, vardı, çıktı, etti, olsun, dedi, aldı</li>
-            <li>VERB-Part: olduğudur, uyandım, uyanmışım, çakıştığıdır, bulandı, dövüşeceklerdi, esirgediğiniz, ettiğindeyse, ettiğiniz, geldiğidir</li>
-            <li>VERB-Vnoun: demektir, demekti, olmasıdır, koymaktır, olmasın, akdetmesiydi, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır</li>
+            <li>ADJ: gerginleştirmişti, hazırlanmış, iyileşti, afacanlaşıyor, aptallaşmış, aydınlanıyor, ağırlaşıyordu, barbarlaştı, barizleşiyordu, berraklaştı</li>
+            <li>NOUN: seslendi, canlandı, Başlanmış, Frenkleşmiş, Garplılaşırlar, anlaşılır, atlanmışlardı, ayaklanacakmış, aydınlandı, bağlanmış</li>
+            <li>VERB-Conv: olarak, alıp, görünce, gidip, ederek, gelince, olup, gelip, edip, bırakıp</li>
+            <li>VERB-Fin: oldu, geldi, başladı, olur, çıktı, etti, olsun, vardı, dedi, eder</li>
+            <li>VERB-Part: olan, olduğu, gelen, eden, giden, kalan, duran, verdiği, olmuş, çıkmış</li>
+            <li>VERB-Vnoun: olduğunu, olmak, etmek, olduğu, demek, etmeye, görmek, yapmak, almak, vermek</li>
           </ul>
         </li>
       </ul>
@@ -3397,10 +3608,12 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>VERB-Conv: arayışındalar, dönüştü, değişti, düşüşündedir, oluştu, yükseliştedir</li>
-            <li>VERB-Fin: söyledi, dedi, ediyor, oldu, etti, yükseldi, diyor, düştü, kapandı, geldi</li>
-            <li>VERB-Part: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, etkilenenlerdi, ettiğidir, getirdiğiydi</li>
-            <li>VERB-Vnoun: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktı</li>
+            <li>ADJ: amerikanlaştırdı, gerçekleştiriyor, gönülsüzleştirir, hassaslaşır, kötüleşti, sıkılaştırabilir, umutsuzlaşıyordu</li>
+            <li>NOUN: adlandırıldı, fiyatlandı, hızlandı, ağırlıklandırılmıştır, hızlandırın, adlandırılıyor, adlandırıyor, bağlantılandırdı, biçimlendirildi, değerlendirin</li>
+            <li>VERB-Conv: olarak, artarak, düşerek, yükselerek, olup, azalarak, kazanarak, ederek, kaybederek, alarak</li>
+            <li>VERB-Fin: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
+            <li>VERB-Part: olan, edilen, eden, yapılan, olduğu, gelen, gelecek, artan, bulunan, yapan</li>
+            <li>VERB-Vnoun: olduğunu, olmak, etmek, olacağını, alma, almak, yapmak, yapmayı, ettiğini, gerektiğini</li>
           </ul>
         </li>
       </ul>
@@ -3409,10 +3622,11 @@ udver: '2'
       <ul>
         <li>Pos
           <ul>
-            <li>VERB-Conv: GÖRÜŞTÜK</li>
-            <li>VERB-Fin: GÖRÜŞÜLDÜ, KALDIK, KALDIM, EDERİM, İLGİLENDİ, VERİYORUM, İSTİYORUM, VERİRİM, OLABİLİRDİ, VARDI</li>
-            <li>VERB-Part: VERDİĞİNİZ</li>
-            <li>VERB-Vnoun: ORTALAMAYDI, KARŞILAMAYDI</li>
+            <li>NOUN: aylan, endişelendirmişti, etkilendik, Anlan, konumlandırılmış</li>
+            <li>VERB-Conv: olarak, arayıp, severek, girerken, görüşüp, kalarak, araştırıp, edip, çıkarken, bakıp</li>
+            <li>VERB-Fin: görüşüldü, kaldık, kaldım, ederim, ilgilendi, veriyorum, istiyorum, veririm, olabilirdi, vardı</li>
+            <li>VERB-Part: ödediğim, verdiğim, aldığım, olduğum, olduğu, Verdiğimiz, beklediğim, belirttiğim, olması, yaşadığım</li>
+            <li>VERB-Vnoun: olması, yüzme, vermek, almak, olmak, Yeme, içme, katılmak, yapmak, bilgilendirilmek</li>
           </ul>
         </li>
       </ul>
@@ -3593,7 +3807,7 @@ udver: '2'
       <ul>
         <li>Hab
           <ul>
-            <li>VERB-Fin: söyleyebilir, alabilir, listeleyebilir, gösterebilir, söyler, bulabilir, varır, ederim, gitmem, gider</li>
+            <li>VERB-Fin: isterdim, olurdu</li>
           </ul>
         </li>
       </ul>
@@ -3617,7 +3831,7 @@ udver: '2'
       <ul>
         <li>Hab
           <ul>
-            <li>VERB-Fin: eder, olur, geçer, ederim, alır, çıkar, bilir, gelmez, girer, olursa</li>
+            <li>VERB-Fin: çıkardı, çıkarırdı, çıkardım, bakardı, beğendiremezdik, bilirdi, boylardı, bulundururdu, ederdi, etmezdi</li>
           </ul>
         </li>
       </ul>
@@ -3648,7 +3862,9 @@ udver: '2'
       <ul>
         <li>Hab
           <ul>
-            <li>VERB-Fin: olur, eder, alır, olursa, çıkar, bilir, olmaz, söyler, verir, geçer</li>
+            <li>ADJ: hazırlanırdı</li>
+            <li>NOUN: cevaplandırırdı, gerçekleştirebilirdik, içlenirdi, kilitlenirdi, yelelenirdi</li>
+            <li>VERB-Fin: çıkardı, ederdi, olurdu, dururdu, yapardı, çekerdi, gelirdi, kalırdı, bilirdi, verirdi</li>
           </ul>
         </li>
       </ul>
@@ -3671,7 +3887,7 @@ udver: '2'
       <ul>
         <li>Hab
           <ul>
-            <li>VERB-Fin: olabilir, eder, olursa, edebilir, olur, gerekir, içerir, dayanır, kıyaslanır, sanırım</li>
+            <li>VERB-Fin: çıkardı, olurdu, olabilirdi, isterdim, edebilirdi, gerekirdi, alırdı, birleştirirdi, değiştirebilirdi, ederdi</li>
           </ul>
         </li>
       </ul>
@@ -3680,7 +3896,7 @@ udver: '2'
       <ul>
         <li>Hab
           <ul>
-            <li>VERB-Fin: EDERİM, VERİRİM, ETMEM, EDERİZ, BAHSEDERİM, DEĞERLENDİRİRİM, OLABİLİR, OLURSA, VEREBİLİRİM, İSTERİM</li>
+            <li>VERB-Fin: olabilirdi, alabilirdim, beklerdim, ederdi, verirdim, kalabilirdim, olabilirlerdi, olurdu, alabilirdik, değmezdi</li>
           </ul>
         </li>
       </ul>
@@ -3699,7 +3915,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Fin: ayrılacağım, bulabileceğim, deneyeceğim, döneceğim, edeceğim, gidebileceğim, kalacağım, olacak, uçabileceğim, uçacağım</li>
+            <li>VERB-Part: varacak, yapılacak, gelecek, alabileceğim, olacak, duracak, yapabileceğim, gidecek, inecek, yapacak</li>
+            <li>VERB-Vnoun: kalkacağını, kullanılacağını, olacağına, olacağını, uçacağınızı, yapacağı, yapmayacağını</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -3715,7 +3939,15 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Fin: yapacak, göreceksin, olacak, alacak, atacak, edecek, edeceğim, geçeceğim, olacaksın, olmayacak</li>
+            <li>VERB-Part: yapacak, Anlatacağı, Olabilecekleri, açılacak, basılmayacak, gerçekleşecek, geçmeyeceği, gideceği, olabilecek, olmayacak</li>
+            <li>VERB-Vnoun: yapacağını, olacağını, yapabileceğine, çıkacağını, Kırılacakları, alabileceğini, atacağı, bulamayacağımda, buluşacağımızı, davranamayacağını</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -3732,16 +3964,42 @@ udver: '2'
 
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Imp
+          <ul>
+            <li>ADJ: açıklanmayacak, yenilenecek</li>
+            <li>NOUN: ayaklanacakmış, cezalandırılacaktır, kanlanacak</li>
+            <li>VERB-Fin: olacak, çıkacak, edecek, edeceğim, olacaktır, vereceğim, edeceğiz, yapacağım, edeceksiniz, göreceksin</li>
+            <li>VERB-Part: olacak, gelecek, edecek, verecek, yapılacak, açacak, alacak, gidecek, söyleyecek, yapacak</li>
+            <li>VERB-Vnoun: olacağını, yapacağını, olabileceğini, edeceğini, vereceğini, etmeyeceğini, geleceğini, gideceklerini, olabileceği, olacağına</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
 
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Fin: olacak, edecek, olacaktır, başlayacak, olmayacak, alacak, gelecek, kalacak, yapacak, ödeyecek</li>
+            <li>VERB-Part: gelecek, olacak, olacağı, yapılacak, edeceği, edilecek, erecek, geçirecek, olabilecek, sağlayacak</li>
+            <li>VERB-Vnoun: olacağını, edeceğini, olabileceğini, başlayacağını, edileceğini, vereceğini, yapacağını, alacağını, düşeceğini, edebileceğini</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Imp
+          <ul>
+            <li>VERB-Fin: gelecek, dolduracağım, edeceğim, katılamayacağım, veremeyeceğim, yapacak, yapacağım, yapamayacağım, gelecekler, gidilebilecek</li>
+            <li>VERB-Part: gidilebilecek, edebileceğim, edilebilecek, gideceği, edebileceği, edecekleri, gidebileceğimiz, yakışacak, yapacağınız, Gideceğim</li>
+            <li>VERB-Vnoun: yaşayabileceğimizi, arayacağını, olacağını, Değiştireceklerini, Getiremeyeceğini, Olabileceğin, anlamayacağınızın, bitmeyeceğine, coşturacağını, edemeyeceğimi</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -3760,7 +4018,9 @@ udver: '2'
       <ul>
         <li>Perf
           <ul>
-            <li>VERB-Fin: ayrılacağım, bulabileceğim, deneyeceğim, döneceğim, edeceğim, gidebileceğim, gideceğiz, isterdim, kalacağım, olacak</li>
+            <li>VERB-Fin: istedim, yedi</li>
+            <li>VERB-Part: kullandığı, verdiği, istediğim, olduğu, yaptığı, kullandıkları, olduğum, uçtuğu</li>
+            <li>VERB-Vnoun: olduğunu, kullanıldığını, olmadığını, verdiği, olduğunca, bağlandığını, ettiğini, gidildiğini, gittiğini, kalktığını</li>
           </ul>
         </li>
       </ul>
@@ -3784,9 +4044,13 @@ udver: '2'
       <ul>
         <li>Perf
           <ul>
-            <li>AUX-Fin: değildi</li>
+            <li>ADJ: yoktu, iyiydi, güzeldi, vardı, zengindi, hazırdı, kötüydü, Başarısızdı, Keyifsizdim, Soğuktu</li>
+            <li>AUX: değildi, miydim, muydu</li>
+            <li>NOUN: Sinirliydi, adammış, adlandı, dibeydi, dizdarlardı, engellendi, hızlandı, işti, keçeleşmiş, kıvamlandı</li>
+            <li>VERB-Conv: görmemişçesine, yanmışçasına</li>
             <li>VERB-Fin: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
-            <li>VERB-Vnoun: sürümekti, yağlamaktı, yüzmekti</li>
+            <li>VERB-Part: aldığı, istediği, yaptığı, gördüğü, sevdiği, süregelmiş, verdiği, Yaptığım, attığı, başladığı</li>
+            <li>VERB-Vnoun: olduğu, olduğunu, olmadığını, İstediğini, aldıktan, ettikten, girdiğimde, gördüklerini, istediklerini, söylediklerini</li>
           </ul>
         </li>
       </ul>
@@ -3823,11 +4087,14 @@ udver: '2'
       <ul>
         <li>Perf
           <ul>
-            <li>AUX-Fin: değildi, değilmiş, değildim, değildik, değillerdi</li>
-            <li>VERB-Conv: görüştü, kaçıştı, buruşmuş, bölüştük, değişmiş, dönüştü, düşüşteydi, geçirişti, girişmiş, giriştiler</li>
-            <li>VERB-Fin: vardı, oldu, geldi, başladı, çıktı, etti, yoktu, dedi, aldı, ediyordu</li>
-            <li>VERB-Part: uyandım, uyanmışım, bulandı, dövüşeceklerdi, kuracaklarmış, olanlardı, pişireniydi, tıkanmış, uyandı</li>
-            <li>VERB-Vnoun: demekti, akdetmesiydi, bastırılmasıydı, dalmaktı, etmekmiş, etmekteydi, hazırlanmaktaydı, istemeleriydi, kavuşmasıydı, olmalıydı</li>
+            <li>ADJ: vardı, yoktu, varmış, lazımdı, gençti, güzeldi, azdı, açıktı, meşguldü, ibaretti</li>
+            <li>AUX: değildi, mıydı, miydi, değilmiş, miydik, değildim, miydim, muydu, mıydım, değildik</li>
+            <li>NOUN: adamdı, şeydi, yoktu, içindeydi, kadındı, insanlardı, doluydu, etti, ettiler, gelirdi</li>
+            <li>NUM: binmiş, biriydi</li>
+            <li>VERB-Conv: görmüşcesine, dondurulmuşçasına, etmişçesine, görmemişçesine, temizlenmemişçesine, uğramışçasına, yanmışçasına</li>
+            <li>VERB-Fin: oldu, geldi, başladı, çıktı, etti, vardı, dedi, aldı, verdi, kaldı</li>
+            <li>VERB-Part: olduğu, verdiği, olmuş, çıkmış, aldığı, etmiş, geldiği, kalmış, düşmüş, yaptığı</li>
+            <li>VERB-Vnoun: olduğunu, olduğu, olduğuna, olmadığını, olduğundan, olduklarını, geldiği, ettiği, ettiğini, yaptığı</li>
           </ul>
         </li>
       </ul>
@@ -3851,11 +4118,13 @@ udver: '2'
       <ul>
         <li>Perf
           <ul>
-            <li>AUX-Fin: değildi, değillerdi, değildik, değildim, değilmiş</li>
-            <li>VERB-Conv: dönüştü, değişti, oluştu</li>
+            <li>ADJ: vardı, yoktu, yüksekti, düşüktü, karışıktı, kötüydü, büyüktü, durgundu, haklıydı, istekliydi</li>
+            <li>AUX: değildi, mıydı, değillerdi, miydi, değildik, değildim, mıydık, değilmiş, müydünüz</li>
+            <li>NOUN: sahipti, dolardı, dolarıydı, seviyesindeydi, yardımcısıydı, üzerindeydi, şeydi, altındaydı, durumdaydı, paydı</li>
+            <li>NUM: 14.2'ydi, 178.5'ti, 215.3'tü, 7.35'ti, 7.88'di, 7.962'deydi, 7.98'di, 9.51'di, beşti, milyondu</li>
             <li>VERB-Fin: söyledi, dedi, oldu, yükseldi, etti, düştü, kapandı, geldi, çıktı, aldı</li>
-            <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı, olanlardı, olmadığıydı</li>
-            <li>VERB-Vnoun: sözleşmeydi, almaktı, alınmasıydı, açıklanmasıydı, birleşmesiydi, desteklemekti, düşmesiydi, düşünmemesiydi, edilmeli, edinmekti</li>
+            <li>VERB-Part: olduğu, yaptığı, geçtiğimiz, verdiği, ettiği, olmadığı, aldığı, edilmiş, ödenmemiş, görmüş</li>
+            <li>VERB-Vnoun: olduğunu, olmadığını, ettiğini, gerektiğini, olduğu, olduğuna, aldığını, beklediğini, verdiğini, geldiğini</li>
           </ul>
         </li>
       </ul>
@@ -3864,10 +4133,13 @@ udver: '2'
       <ul>
         <li>Perf
           <ul>
-            <li>AUX-Fin: DEĞİLDİ, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİK, DEĞİLDİLER</li>
-            <li>VERB-Conv: GÖRÜŞTÜK</li>
-            <li>VERB-Fin: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, KALDIK, TESİSTİ, KALDIM, İLGİLİYDİ, İLGİLENDİ, VARDI</li>
-            <li>VERB-Vnoun: ORTALAMAYDI, KARŞILAMAYDI</li>
+            <li>ADJ: güzeldi, iyiydi, yoktu, ilgiliydi, kötüydü, azdı, vardı, küçüktü, temizdi, yetersizdi</li>
+            <li>AUX: değildi, değillerdi, değildim, değildik, değildiler, miydi</li>
+            <li>NOUN: tesisti, beydi, oteldi, hanımdı, odaydı, yüzlüydü, ilgililerdi, tatildi, gemiydi, ilgiliydi</li>
+            <li>NUM: dörtlüktü</li>
+            <li>VERB-Fin: görüşüldü, kaldık, kaldım, ilgilendi, kalmadım, vardı, olmadı, beğendim, aradı, beğenmedim</li>
+            <li>VERB-Part: ödediğim, verdiğim, aldığım, olduğum, olduğu, Verdiğimiz, beklediğim, kalmadığım, belirttiğim, yaşadığım</li>
+            <li>VERB-Vnoun: olmadığını, olduğunu, Beklediğimden, düşünmediğini, alamadığımı, haketmediğini, kalmadığım, kalmadığımdan, olduğu, umduğumdan</li>
           </ul>
         </li>
       </ul>
@@ -3892,7 +4164,8 @@ udver: '2'
       <ul>
         <li>Prog
           <ul>
-            <li>VERB-Fin: istiyorum, uçuyor, kalkıyor, geliyor, gerekiyor, gidiyor, varıyor, arıyorum, veriyor, kullanılıyor</li>
+            <li>VERB-Conv: kullanarak, kalkarak, durarak, vererek, yaparak, giderken, olarak, uçarken, başlayarak, ayrılarak</li>
+            <li>VERB-Fin: istiyorum, uçuyor, kalkıyor, geliyor, gidiyor, gerekiyor, varıyor, arıyorum, veriyor, kullanılıyor</li>
           </ul>
         </li>
       </ul>
@@ -3915,7 +4188,10 @@ udver: '2'
       <ul>
         <li>Prog
           <ul>
-            <li>VERB-Fin: ediyor, yapıyor, atıyor, bakıyor, alıyor, demiyor, ediyorlar, ediyorum, kesiyor, veriyor</li>
+            <li>ADJ: yokken</li>
+            <li>NOUN: borçlandırıyordu</li>
+            <li>VERB-Conv: olarak, giderken, alarak, atarak, koşarak, koşarken, yaparak, yaparken, Yürürken, anlatırken</li>
+            <li>VERB-Fin: ediyordu, ediyor, bakıyordu, yapıyor, atıyor, atıyordu, bakıyor, alıyor, alıyordu, demiyor</li>
           </ul>
         </li>
       </ul>
@@ -3943,7 +4219,11 @@ udver: '2'
       <ul>
         <li>Prog
           <ul>
-            <li>VERB-Fin: geliyor, ediyor, oluyor, bakıyor, gidiyor, duruyor, konuşuyor, görünüyor, bilmiyorum, ediyorlar</li>
+            <li>ADJ: varken, yokken, afacanlaşıyor, aydınlanıyor, ağırlaşıyordu, barizleşiyordu, berraklaşıyordu, hastalanıyordu, hazırlanıyordu, müstehcenleşiyor</li>
+            <li>AUX: değilken</li>
+            <li>NOUN: biçimlendiriyordu, bulutlanıyor, evlendiriyordum, filizleniyordu, güneşleniyorduk, helezonlaşıyordu, huysuzlanıyor, ilgilendiriyor, kaynaklanmıyordu, makineleşiyor</li>
+            <li>VERB-Conv: olarak, ederek, alarak, ederken, bakarak, bırakarak, titreyerek, açarak, oynarken, vererek</li>
+            <li>VERB-Fin: ediyordu, geliyor, ediyor, oluyor, oluyordu, geliyordu, bakıyor, duruyordu, bakıyordu, gidiyor</li>
           </ul>
         </li>
       </ul>
@@ -3963,7 +4243,10 @@ udver: '2'
       <ul>
         <li>Prog
           <ul>
-            <li>VERB-Fin: ediyor, diyor, söylüyor, bekleniyor, veriyor, gösteriyor, yapıyor, oluyor, düşünüyor, geliyor</li>
+            <li>ADJ: varken, gerçekleştiriyor, umutsuzlaşıyordu</li>
+            <li>NOUN: adlandırılıyor, adlandırıyor, hızlanıyor, kuvvetleniyor, maçolaşıyor, planlanıyor, sinirlendiriyor, sonuçlanıyor, sınırlandırmamaktadır, yataklanıyor</li>
+            <li>VERB-Conv: olarak, artarak, düşerek, yükselerek, azalarak, kazanarak, ederek, kaybederek, alarak, ederken</li>
+            <li>VERB-Fin: ediyor, diyor, söylüyor, bekleniyor, veriyor, gösteriyor, yapıyor, düşünüyor, geliyor, oluyor</li>
           </ul>
         </li>
       </ul>
@@ -3972,7 +4255,9 @@ udver: '2'
       <ul>
         <li>Prog
           <ul>
-            <li>VERB-Fin: VERİYORUM, İSTEMİYORUM, İSTİYORUM, EDİYORUM, EDİYORUZ, BİLMİYORUM, DÜŞÜNMÜYOR, DÜŞÜNÜYORUM, ETMİYORUM, HAKETMİYOR</li>
+            <li>ADJ: varken</li>
+            <li>VERB-Conv: olarak, severek, girerken, kalarak, çıkarken, ederek, beğenerek, ulaşarak, yüklenerek, gelerek</li>
+            <li>VERB-Fin: veriyorum, istemiyorum, istiyorum, ediyorum, ediyoruz, bilmiyorum, düşünmüyor, düşünüyorum, çıkıyordu, etmiyorum</li>
           </ul>
         </li>
       </ul>
@@ -4005,7 +4290,13 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Prosp
+          <ul>
+            <li>VERB-Fin: edecekti, ağılayacaktı, bulacaktı, dinecekti, düzelmeyecekti, işletecekti, oynamayacaktı, vermeyecekti, yakalayacaktım, çıkmayacaktı</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -4027,7 +4318,13 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Prosp
+          <ul>
+            <li>VERB-Fin: olacaktı, edecekti, yapacaktı, anlayacaktık, bulacaktım, edilecekti, gelecekti, gidecektim, görecekti, göremeyecekti</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -4039,10 +4336,22 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Prosp
+          <ul>
+            <li>VERB-Fin: olacaktı, edecekti, edilecekti, alacaktı, oluşturacaktı, alınmayacaktı, ayrılmayacaktı, bakacaktı, bulunmayacaktı, düşecekti</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Prosp
+          <ul>
+            <li>VERB-Fin: olacaktı, gelecekti</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -4089,7 +4398,10 @@ udver: '2'
       <ul>
         <li>Rapid
           <ul>
-            <li>VERB-Fin: atıver, aydınlanıversin, bulunuverse, buluverse, eşiver, gönderiver, görüver, uzatıver, yapıver</li>
+            <li>VERB-Conv: deyiverince</li>
+            <li>VERB-Fin: oluverir, oturuverir, atıver, aydınlanıversin, bulunuverse, buluverse, bırakıverirler, ediverirler, eşiver, gönderiver</li>
+            <li>VERB-Part: geliveren, titreyiveren</li>
+            <li>VERB-Vnoun: atıverirler, atıvermek, bırakılıvermek, fırlayıvermekten, kaçıvermek, oluvermek, söyleyiverirler</li>
           </ul>
         </li>
       </ul>
@@ -4161,13 +4473,7 @@ udver: '2'
   </tr>
   <tr>
     <td width="10%" valign="top">
-      <ul>
-        <li>Cnd
-          <ul>
-            <li>VERB-Fin: mümkünse</li>
-          </ul>
-        </li>
-      </ul>
+
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -4185,7 +4491,7 @@ udver: '2'
       <ul>
         <li>Cnd
           <ul>
-            <li>VERB-Fin: varsa, yaptıysa, geldiyse, kazanıyorsa, kuşattıysa, mümkünse, yazsa, yorulduysa, çalıştıysa</li>
+            <li>VERB-Fin: yaptıysa, geldiyse, kazanıyorsa, kuşattıysa, yorulduysa, çalıştıysa</li>
           </ul>
         </li>
       </ul>
@@ -4215,10 +4521,7 @@ udver: '2'
       <ul>
         <li>Cnd
           <ul>
-            <li>AUX-Fin: değilse</li>
-            <li>VERB-Fin: varsa, oysa, öyleyse, gelirse, ediyorsa, geldiyse, içinse, nedense, neyse, tutarsa</li>
-            <li>VERB-Part: ettiğindeyse</li>
-            <li>VERB-Vnoun: etmektense, girmektense, giymektense, kesinlemekse, olmaktansa, sağlamaktansa, yapmaktansa, ölmektense</li>
+            <li>VERB-Fin: ise, olsa, olmasa, ediyorsa, geldiyse, olmasaydı, gelmişse, istedilerse, istiyorsan, işletiyorsa</li>
           </ul>
         </li>
       </ul>
@@ -4237,9 +4540,7 @@ udver: '2'
       <ul>
         <li>Cnd
           <ul>
-            <li>AUX-Fin: değilse</li>
-            <li>VERB-Fin: varsa, öyleyse, gerekiyorsa, düşüyorsa, gelirse, istiyorsa, olacaksa, yoksa, yüksek, adamlarıysa</li>
-            <li>VERB-Vnoun: yapmaktansa</li>
+            <li>VERB-Fin: ise, olsa, gerekiyorsa, düşüyorsa, istiyorsa, olacaksa, alacaksan, aldıysanız, almıyorsa, ağrıyorsa</li>
           </ul>
         </li>
       </ul>
@@ -4248,7 +4549,7 @@ udver: '2'
       <ul>
         <li>Cnd
           <ul>
-            <li>VERB-Fin: VARSA, İSTİYORSANIZ, YAPTIYSA, YAPINIZ, BİRSEN, DÜŞÜNÜYORSANIZ, GELDİYSENİZ</li>
+            <li>VERB-Fin: ise, istiyorsanız, yaptıysa, düşünüyorsanız, geldiyseniz</li>
           </ul>
         </li>
       </ul>
@@ -4303,7 +4604,7 @@ udver: '2'
       <ul>
         <li>CndGen
           <ul>
-            <li>VERB-Fin: olursa, olmazsa, ederse, isterse, isterseniz, bakılırsa, edilirse, etmezse, düşerse, bakarsan</li>
+            <li>VERB-Fin: olursa, olmazsa, ederse, isterse, isterseniz, bakılırsa, edilirse, etmezse, düşerse, ederlerse</li>
           </ul>
         </li>
       </ul>
@@ -4322,7 +4623,7 @@ udver: '2'
       <ul>
         <li>CndGen
           <ul>
-            <li>VERB-Fin: olursa, düşerse, kalırsa, olmazsa, olursak, alırsa, artarsa, bakılırsa, bulursa, gerekirse</li>
+            <li>VERB-Fin: olursa, düşerse, kalırsa, olursak, alırsa, artarsa, bakılırsa, bulursa, gelirse, gerekirse</li>
           </ul>
         </li>
       </ul>
@@ -4331,7 +4632,7 @@ udver: '2'
       <ul>
         <li>CndGen
           <ul>
-            <li>VERB-Fin: OLURSA, YENİLENİRSE, İSTERSENİZ, DÜZELİRSE, DÜŞÜNÜRSE, GELİRSE, OLUNURSA, ARAMAZSANIZ, BAŞARIRSANIZ, DÜZELTİRLERSE</li>
+            <li>VERB-Fin: olursa, Yenilenirse, isterseniz, düzelirse, düşünürse, gelirse, olunursa, aramazsanız, başarırsanız, düzeltirlerse</li>
           </ul>
         </li>
       </ul>
@@ -4384,7 +4685,7 @@ udver: '2'
       <ul>
         <li>CndGenPot
           <ul>
-            <li>VERB-Fin: alabilirse, alamazsa, bulabilirse, kaçınamazsa, yapamazlarsa, yönlendirilebilirse</li>
+            <li>VERB-Fin: alabilirse, alamazsa, bulabilirse, bulabilirseniz, kaçınamazsa, yapamazlarsa, yönlendirilebilirse</li>
           </ul>
         </li>
       </ul>
@@ -4393,7 +4694,7 @@ udver: '2'
       <ul>
         <li>CndGenPot
           <ul>
-            <li>VERB-Fin: GÖREBİLİRSENİZ, GİREBİLİRSENİZ</li>
+            <li>VERB-Fin: girebilirseniz, görebilirseniz</li>
           </ul>
         </li>
       </ul>
@@ -4458,7 +4759,7 @@ udver: '2'
       <ul>
         <li>CndPot
           <ul>
-            <li>VERB-Fin: denetleyebiliyorsa</li>
+            <li>VERB-Fin: denetleyebiliyorsa, yapabilseydi</li>
           </ul>
         </li>
       </ul>
@@ -4489,7 +4790,7 @@ udver: '2'
       <ul>
         <li>Des
           <ul>
-            <li>VERB-Fin: olsa, kalkışsa, atsa, bıraksak, demese, gelse, getirsek, geçirse, gitmesek, gitse</li>
+            <li>VERB-Fin: baksana, olsa, kalkışsa, atsa, bıraksak, demese, demlesene, eklesene, gelse, getirsek</li>
           </ul>
         </li>
       </ul>
@@ -4511,7 +4812,7 @@ udver: '2'
       <ul>
         <li>Des
           <ul>
-            <li>VERB-Fin: olsa, ise, olmasa, olsaydı, olmasaydı, gelse, görse, görsem, varsa, bulsam</li>
+            <li>VERB-Fin: olsa, olmasa, olsaydı, baksana, gelse, görse, görsem, olmasaydı, varsa, bulsam</li>
           </ul>
         </li>
       </ul>
@@ -4523,7 +4824,7 @@ udver: '2'
       <ul>
         <li>Des
           <ul>
-            <li>VERB-Fin: ise, olsa, olsaydı, olmasa, varsa, verse, Kazansam, artsa, artırmasaydık, aşsa</li>
+            <li>VERB-Fin: olsa, olsaydı, olmasa, verse, Kazansam, artsa, artırmasaydık, beklemese, borçlansa, bulsalar</li>
           </ul>
         </li>
       </ul>
@@ -4532,7 +4833,7 @@ udver: '2'
       <ul>
         <li>Des
           <ul>
-            <li>VERB-Fin: OLSA, BİTSE, KURTULSAK, OLMASA, VARSA, KALKSAM, OLSAK, OLSAYDI, İSE</li>
+            <li>VERB-Fin: olsa, bitse, kurtulsak, olmasa, varsa, kalksam, olsak, olsaydı</li>
           </ul>
         </li>
       </ul>
@@ -4585,7 +4886,7 @@ udver: '2'
       <ul>
         <li>DesPot
           <ul>
-            <li>VERB-Fin: alınabilse, edebilse, geçemese, yapabilseydi</li>
+            <li>VERB-Fin: alınabilse, edebilse, geçemese</li>
           </ul>
         </li>
       </ul>
@@ -4602,9 +4903,7 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>VERB-Conv: uçuşunuz, uçuşlardır</li>
-            <li>VERB-Fin: nedir, nelerdir, söyler, mevcuttur, havayoludur, varır, ederim, gitmem, gider, hangileridir</li>
-            <li>VERB-Vnoun: demektir, kısaltmasıdır</li>
+            <li>VERB-Fin: demektir, verilmektedir, sağlanmaktadır, gelmektedir, kullanmaktadır, kısaltmasıdır, sunmaktadır</li>
           </ul>
         </li>
       </ul>
@@ -4626,9 +4925,7 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>AUX-Fin: değilim</li>
-            <li>VERB-Fin: eder, olur, geçer, ederim, alır, çıkar, bilir, gelmez, girer, yapar</li>
-            <li>VERB-Vnoun: akmasın</li>
+            <li>VERB-Fin: etmiştir, gelmiştir, bulmuştur, doğmuştur, fethedilmiştir, geçmiştir, gülmüştür, hoşlanmışımdır, kurşunlanmıştır, olmaktadır</li>
           </ul>
         </li>
       </ul>
@@ -4658,11 +4955,7 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>AUX-Fin: değildir, değiliz, değilim, değilsin, değilsiniz</li>
-            <li>VERB-Conv: aldatıştır, alışıdır, oluşumdur, verilişidir</li>
-            <li>VERB-Fin: olur, vardır, eder, yoktur, alır, çıkar, bilir, olmaz, söyler, nedir</li>
-            <li>VERB-Part: olduğudur, çakıştığıdır, esirgediğiniz, ettiğiniz, geldiğidir, gelenlerindendir, getirenlerdendir, gördüğünüz, istediğiniz, olanlardır</li>
-            <li>VERB-Vnoun: demektir, olmasıdır, koymaktır, olmasın, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır, açmalıdırlar, baktırmasın</li>
+            <li>VERB-Fin: demektir, olmuştur, etmiştir, olacaktır, gelmiştir, kalmıştır, başlamıştır, edilmiştir, yazılmıştır, görmüştür</li>
           </ul>
         </li>
       </ul>
@@ -4683,11 +4976,7 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>AUX-Fin: değildir, değiliz, değilim, değillerdir</li>
-            <li>VERB-Conv: düşüşündedir, yükseliştedir</li>
-            <li>VERB-Fin: sahiptir, vardır, eder, şirketidir, biridir, dolardır, olur, nedir, gerekir, bağlıdır</li>
-            <li>VERB-Part: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, düşündüğüdür, ettiğidir, olacağıdır, olandır</li>
-            <li>VERB-Vnoun: olmasıdır, demektir, sağlamaktır, almaktır, bulmaktır, almadır, almalıyız, anlamasıdır, azalmasıdır, azaltmaktır</li>
+            <li>VERB-Fin: olacaktır, olmuştur, bulunmaktadır, etmektedir, içermektedir, vermektedir, edilmektedir, yükselmiştir, desteklenmektedir, edecektir</li>
           </ul>
         </li>
       </ul>
@@ -4696,10 +4985,7 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>AUX-Fin: DEĞİLİM, DEĞİLDİR</li>
-            <li>VERB-Fin: EDERİM, VERİRİM, ETMEM, EDERİZ, MEMNUNUM, BAHSEDERİM, DEĞERLENDİRİRİM, MEMNUNUZ, KARARSIZIM, İSTERİM</li>
-            <li>VERB-Part: VERDİĞİNİZ</li>
-            <li>VERB-Vnoun: DÜŞÜNMEMEKTEDİR</li>
+            <li>VERB-Fin: olacaktır, aranmamıştır, düşünmemektedir, yapacaktır, edecektir, sağlayacaktır, verecektir, verilmiştir, geleceklerdir, gelecektir</li>
           </ul>
         </li>
       </ul>
@@ -4760,7 +5046,7 @@ udver: '2'
       <ul>
         <li>GenNec
           <ul>
-            <li>VERB-Fin: kalmalıdır, olmalıdır, alınmalıdır, bulunmalıdır, heveslenmelidir, sayılmalıdır</li>
+            <li>VERB-Fin: alınmalıdır, kalmalıdır, olmalıdır, açmalıdırlar, bulunmalıdır, heveslenmelidir, oturtmalıdır, sayılmalıdır</li>
           </ul>
         </li>
       </ul>
@@ -4778,7 +5064,7 @@ udver: '2'
       <ul>
         <li>GenNec
           <ul>
-            <li>VERB-Fin: olmalıdır, yapmalıdır, etmelidir, getirmelidir, kaldırmalıdır, onaylamalıdır, yapılmalıdır, almalıdır, alınmalıdır, açıklıyor</li>
+            <li>VERB-Fin: olmalıdır, yapmalıdır, etmelidir, getirmelidir, kaldırmalıdır, onaylamalıdır, yapılmalıdır, almalıdır, alınmalıdır, bakmalıdır</li>
           </ul>
         </li>
       </ul>
@@ -4833,7 +5119,7 @@ udver: '2'
       <ul>
         <li>GenPot
           <ul>
-            <li>VERB-Fin: söyleyebilir, alabilir, listeleyebilir, gösterebilir, bulabilir, gidebilirim, verebilir, görebilir, uçabilir, alabilirim</li>
+            <li>VERB-Fin: söyleyebilir, gösterebilir, listeleyebilir, alabilir, bulabilir, gidebilirim, verebilir, görebilir, uçabilir, alabilirim</li>
           </ul>
         </li>
       </ul>
@@ -4880,8 +5166,7 @@ udver: '2'
       <ul>
         <li>GenPot
           <ul>
-            <li>VERB-Fin: olabilir, edebilir, edemez, edilemez, olamaz, verebilirim, yapamaz, alamaz, edemem, getirebilirim</li>
-            <li>VERB-Vnoun: koyabilmesidir</li>
+            <li>VERB-Fin: olabilir, edebilir, edemez, edilemez, olamaz, verebilirim, yapamaz, alamaz, edemem, gelebilirsin</li>
           </ul>
         </li>
       </ul>
@@ -4901,9 +5186,7 @@ udver: '2'
       <ul>
         <li>GenPot
           <ul>
-            <li>VERB-Fin: olabilir, edebilir, olabilirdi, olmayabilir, edilebilir, getirebilir, alabilir, olamaz, verebilir, gelebilir</li>
-            <li>VERB-Part: dönüştürülebileceğidir, olabileceğidir, yapabileceğimizdir</li>
-            <li>VERB-Vnoun: geçebilmesidir, kullanılabilmesidir, yönlendirememenizdir</li>
+            <li>VERB-Fin: olabilir, edebilir, olabilirdi, olmayabilir, edilebilir, getirebilir, kıyaslanabilir, olamaz, alabilir, verebilir</li>
           </ul>
         </li>
       </ul>
@@ -4912,7 +5195,7 @@ udver: '2'
       <ul>
         <li>GenPot
           <ul>
-            <li>VERB-Fin: OLABİLİRDİ, OLABİLİR, VEREBİLİRİM, VEREMEM, ALABİLİRDİM, GİDEBİLİR, DİYEBİLİRİM, OLAMAZ, ALABİLİR, ALABİLİRİM</li>
+            <li>VERB-Fin: olabilirdi, olabilir, verebilirim, veremem, alabilirdim, gidebilir, diyebilirim, olamaz, alabilir, alabilirim</li>
           </ul>
         </li>
       </ul>
@@ -4957,7 +5240,13 @@ udver: '2'
 
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>GenPotPot
+          <ul>
+            <li>VERB-Fin: alamayabilir, bulamayabilirsiniz, veremeyebilirim</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
 
@@ -4971,7 +5260,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>VERB-Fin: göster, listeleyin, gösterin, listele, bul, ver, verin, bulun, söyle, açıkla</li>
+            <li>VERB-Fin: göster, listeleyin, gösterin, listele, bul, ver, verin, bulun, söyle, dönüş</li>
           </ul>
         </li>
       </ul>
@@ -5022,7 +5311,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>VERB-Fin: olsun, bak, vardır, gel, var, söyle, gelsin, ol, bırak, bakın</li>
+            <li>VERB-Fin: olsun, bak, gel, vardır, söyle, gelsin, ol, bırak, bakın, ver</li>
           </ul>
         </li>
       </ul>
@@ -5042,7 +5331,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>VERB-Fin: olsun, kıyasla, dile, dönüş, et, al, git, bekleyin, düşünün, edin</li>
+            <li>VERB-Fin: olsun, al, et, kıyasla, dönüş, düşünün, git, bekleyin, edin, geçiş</li>
           </ul>
         </li>
       </ul>
@@ -5051,7 +5340,7 @@ udver: '2'
       <ul>
         <li>Imp
           <ul>
-            <li>VERB-Fin: OLSUN, ARAMAYIN, GELSİN, OLSUNLAR, GİDİN, SAĞOLUN, VAR, ANIL, CHECK, KALSIN</li>
+            <li>VERB-Fin: olsun, aramayın, gelsin, olsunlar, gidin, sağolun, var, check, kalsın, Anıl</li>
           </ul>
         </li>
       </ul>
@@ -5073,7 +5362,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>VERB-Fin: istiyorum, uçuyor, kalkıyor, geliyor, gerekiyor, gidiyor, varıyor, arıyorum, veriyor, kullanılıyor</li>
+            <li>VERB-Fin: istiyorum, uçuyor, kalkıyor, geliyor, gidiyor, gerekiyor, varıyor, arıyorum, veriyor, kullanılıyor</li>
           </ul>
         </li>
       </ul>
@@ -5097,9 +5386,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: değildi</li>
             <li>VERB-Fin: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
-            <li>VERB-Vnoun: sürümekti, yağlamaktı, yüzmekti</li>
           </ul>
         </li>
       </ul>
@@ -5139,11 +5426,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: değildi, değilmiş, değildim, değildik, değillerdi</li>
-            <li>VERB-Conv: görüştü, kaçıştı, buruşmuş, bölüştük, değişmiş, dönüştü, düşüşteydi, geçirişti, girişmiş, giriştiler</li>
-            <li>VERB-Fin: vardı, oldu, geldi, başladı, çıktı, etti, yoktu, dedi, aldı, ediyordu</li>
-            <li>VERB-Part: uyandım, uyanmışım, bulandı, dövüşeceklerdi, kuracaklarmış, olanlardı, pişireniydi, tıkanmış, uyandı</li>
-            <li>VERB-Vnoun: demekti, akdetmesiydi, bastırılmasıydı, dalmaktı, etmekmiş, etmekteydi, hazırlanmaktaydı, istemeleriydi, kavuşmasıydı, olmalıydı</li>
+            <li>VERB-Fin: oldu, geldi, başladı, olur, çıktı, etti, vardı, dedi, eder, aldı</li>
           </ul>
         </li>
       </ul>
@@ -5167,11 +5450,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: değildi, değillerdi, değildik, değildim, değilmiş</li>
-            <li>VERB-Conv: dönüştü, değişti, oluştu</li>
             <li>VERB-Fin: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
-            <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı, olanlardı, olmadığıydı</li>
-            <li>VERB-Vnoun: sözleşmeydi, almaktı, alınmasıydı, açıklanmasıydı, birleşmesiydi, desteklemekti, düşmesiydi, düşünmemesiydi, edilmeli, edinmekti</li>
           </ul>
         </li>
       </ul>
@@ -5180,10 +5459,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: DEĞİLDİ, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİK, DEĞİLDİLER</li>
-            <li>VERB-Conv: GÖRÜŞTÜK</li>
-            <li>VERB-Fin: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, KALDIK, TESİSTİ, KALDIM, İLGİLİYDİ, İLGİLENDİ, VARDI</li>
-            <li>VERB-Vnoun: ORTALAMAYDI, KARŞILAMAYDI</li>
+            <li>VERB-Fin: görüşüldü, kaldık, kaldım, ederim, ilgilendi, veriyorum, kalmadım, istemiyorum, istiyorum, veririm</li>
           </ul>
         </li>
       </ul>
@@ -5209,7 +5485,7 @@ udver: '2'
       <ul>
         <li>Nec
           <ul>
-            <li>VERB-Fin: binmeliyim, kalkmalı, olmalı, uçmalı, uçmalıyım, vermeli</li>
+            <li>VERB-Fin: binmeliyim, kalkmalı, ayrılmalıyım, olmalı, uçmalı, uçmalıyım, vermeli</li>
           </ul>
         </li>
       </ul>
@@ -5256,7 +5532,7 @@ udver: '2'
       <ul>
         <li>Nec
           <ul>
-            <li>VERB-Fin: olmalıydı, olmalı, etmeli, gelmeli, yazmalı, almalı, bilmeli, bitirilmeli, kaldırmalı, kazanmalıyım</li>
+            <li>VERB-Fin: olmalıydı, olmalı, etmeli, gelmeli, yazmalı, almalı, bilmeli, bitirilmeli, cezalanmalı, kaldırmalı</li>
           </ul>
         </li>
       </ul>
@@ -5276,7 +5552,7 @@ udver: '2'
       <ul>
         <li>Nec
           <ul>
-            <li>VERB-Fin: olmalı, etmeli, edilmeliydi, etmeliyiz, gitmeli, incelemeliyiz, olmalılar, olmalıydı, almalı, anlamalıyız</li>
+            <li>VERB-Fin: olmalı, etmeli, almalı, edilmeliydi, etmeliyiz, gitmeli, incelemeliyiz, olmalılar, olmalıydı, almalıyız</li>
           </ul>
         </li>
       </ul>
@@ -5285,7 +5561,7 @@ udver: '2'
       <ul>
         <li>Nec
           <ul>
-            <li>VERB-Fin: GİTMELİ, OLMALIYDI, ETMELİ, GİTMEMELİ, OLMALI, ÖDÜLLENDİRİLMELİ, YAPMALI, YAŞANMALI, ARAMALIYDI, EDİLMELİ</li>
+            <li>VERB-Fin: gitmeli, olmalıydı, etmeli, gitmemeli, olmalı, ödüllendirilmeli, yapmalı, yaşanmalı, aramalıydı, edilmeli</li>
           </ul>
         </li>
       </ul>
@@ -5411,7 +5687,7 @@ udver: '2'
       <ul>
         <li>Opt
           <ul>
-            <li>VERB-Fin: gide, olayım, satışa, Ola, Yaka, alalım, anlayalım, açıklayalım, bata, denemeyelim</li>
+            <li>VERB-Fin: gide, Ola, Yaka, akışına, alalım, anlayalım, açıklayalım, bata, denemeyelim, dile</li>
           </ul>
         </li>
       </ul>
@@ -5420,7 +5696,7 @@ udver: '2'
       <ul>
         <li>Opt
           <ul>
-            <li>VERB-Fin: VERMEYEYİM, DÖNE, GECE, SIRITA, BELİRTEYİM, GELELİM, GÖRÜŞELİM</li>
+            <li>VERB-Fin: vermeyeyim, Döne, gece, sırıta, Gelelim, belirteyim, görüşelim</li>
           </ul>
         </li>
       </ul>
@@ -5457,7 +5733,7 @@ udver: '2'
       <ul>
         <li>Pot
           <ul>
-            <li>VERB-Fin: alamadı, alamıyordu, açamıyorum, başaramadı, edememiş, edemiyorum, alabiliyordu, alamadım, alamıyorum, açınsayabildi</li>
+            <li>VERB-Fin: alamadı, alamıyordu, açamıyorum, başaramadı, edemiyorum, alabiliyordu, alamadım, alamıyorum, açınsayabildi, bilemedi</li>
           </ul>
         </li>
       </ul>
@@ -5492,7 +5768,6 @@ udver: '2'
         <li>Pot
           <ul>
             <li>VERB-Fin: bulamadım, edemiyorum, silkinemiyorum, yediremiyorum, anlayamadım, bulamadık, bulamıyordum, veremiyor, alabilecekler, alamıyor</li>
-            <li>VERB-Vnoun: keşfedebilmekteyim</li>
           </ul>
         </li>
       </ul>
@@ -5512,7 +5787,7 @@ udver: '2'
       <ul>
         <li>Pot
           <ul>
-            <li>VERB-Fin: ulaşılamadı, alamadı, ulaşamadık, yapamadı, alabiliyor, bulamadı, bulunamadı, edebiliyor, edemedi, edemiyor</li>
+            <li>VERB-Fin: ulaşılamadı, alamadı, ulaşamadık, yapamadı, alabiliyor, başaramadı, bulamadı, bulunamadı, edebiliyor, edemedi</li>
           </ul>
         </li>
       </ul>
@@ -5521,7 +5796,7 @@ udver: '2'
       <ul>
         <li>Pot
           <ul>
-            <li>VERB-Fin: ALAMADIM, ALAMADIK, GÖREMEDİK, GÖRÜŞEMEDİK, VEREMİYORUM, BULAMADIM, GÖREMEDİM, KATILAMAYACAĞIM, VEREMEYECEĞİM, YAPAMAYACAĞIM</li>
+            <li>VERB-Fin: alamadım, alamadık, göremedik, görüşemedik, veremiyorum, bulamadım, göremedim, katılamayacağım, veremeyeceğim, yapamayacağım</li>
           </ul>
         </li>
       </ul>
@@ -5669,7 +5944,9 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
-            <li>VERB-Fin: ayrılacağım, bulabileceğim, deneyeceğim, döneceğim, edeceğim, gidebileceğim, gideceğiz, kalacağım, olacak, uçabileceğim</li>
+            <li>VERB-Fin: ayrılacağım, bulabileceğim, deneyeceğim, döneceğim, edeceğim, gidebileceğim, kalacağım, olacak, uçabileceğim, uçacağım</li>
+            <li>VERB-Part: varacak, yapılacak, gelecek, alabileceğim, olacak, duracak, yapabileceğim, gidecek, inecek, yapacak</li>
+            <li>VERB-Vnoun: kalkacağını, kullanılacağını, olacağına, olacağını, uçacağınızı, yapacağı, yapmayacağını</li>
           </ul>
         </li>
       </ul>
@@ -5691,7 +5968,10 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
+            <li>VERB-Conv: bitecekken, olacakken</li>
             <li>VERB-Fin: yapacak, göreceksin, olacak, alacak, atacak, edecek, edeceğim, geçeceğim, olacaksın, olmayacak</li>
+            <li>VERB-Part: yapacak, Anlatacağı, Olabilecekleri, açılacak, basılmayacak, gerçekleşecek, geçmeyeceği, gideceği, olabilecek, olmayacak</li>
+            <li>VERB-Vnoun: yapacağını, olacağını, yapabileceğine, çıkacağını, Kırılacakları, alabileceğini, atacağı, bulamayacağımda, buluşacağımızı, davranamayacağını</li>
           </ul>
         </li>
       </ul>
@@ -5722,7 +6002,10 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
-            <li>VERB-Fin: olacak, edecek, çıkacak, olacaktır, edeceğim, edeceğiz, vereceğim, yapacağım, edeceksiniz, göreceksin</li>
+            <li>VERB-Conv: kılacakken, açacakken, verecekken, yapacakken</li>
+            <li>VERB-Fin: olacak, çıkacak, edecek, edeceğim, olacaktır, vereceğim, edeceğiz, yapacağım, edeceksiniz, göreceksin</li>
+            <li>VERB-Part: olacak, gelecek, edecek, verecek, yapılacak, açacak, alacak, gidecek, söyleyecek, yapacak</li>
+            <li>VERB-Vnoun: olacağını, yapacağını, olabileceğini, edeceğini, vereceğini, etmeyeceğini, geleceğini, gideceklerini, olabileceği, olacağına</li>
           </ul>
         </li>
       </ul>
@@ -5743,7 +6026,9 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
-            <li>VERB-Fin: olacak, edecek, olacaktır, başlayacak, alacak, olmayacak, kalacak, gelecek, yapacak, ödeyecek</li>
+            <li>VERB-Fin: olacak, edecek, olacaktır, başlayacak, olmayacak, alacak, gelecek, kalacak, yapacak, ödeyecek</li>
+            <li>VERB-Part: gelecek, olacak, olacağı, yapılacak, edeceği, edilecek, erecek, geçirecek, olabilecek, sağlayacak</li>
+            <li>VERB-Vnoun: olacağını, edeceğini, olabileceğini, başlayacağını, edileceğini, vereceğini, yapacağını, alacağını, düşeceğini, edebileceğini</li>
           </ul>
         </li>
       </ul>
@@ -5752,7 +6037,9 @@ udver: '2'
       <ul>
         <li>Fut
           <ul>
-            <li>VERB-Fin: GELECEK, DOLDURACAĞIM, EDECEĞİM, KATILAMAYACAĞIM, VEREMEYECEĞİM, YAPACAK, YAPACAĞIM, YAPAMAYACAĞIM, GELECEKLER, GİDİLEBİLECEK</li>
+            <li>VERB-Fin: gelecek, dolduracağım, edeceğim, katılamayacağım, veremeyeceğim, yapacak, yapacağım, yapamayacağım, gelecekler, gidilebilecek</li>
+            <li>VERB-Part: gidilebilecek, edebileceğim, edilebilecek, gideceği, edebileceği, edecekleri, gidebileceğimiz, yakışacak, yapacağınız, Gideceğim</li>
+            <li>VERB-Vnoun: yaşayabileceğimizi, arayacağını, olacağını, Değiştireceklerini, Getiremeyeceğini, Olabileceğin, anlamayacağınızın, bitmeyeceğine, coşturacağını, edemeyeceğimi</li>
           </ul>
         </li>
       </ul>
@@ -5821,7 +6108,9 @@ udver: '2'
       <ul>
         <li>Past
           <ul>
-            <li>VERB-Fin: isterdim, olurdu, yedi</li>
+            <li>VERB-Fin: istedim, isterdim, olurdu, yedi</li>
+            <li>VERB-Part: kullandığı, verdiği, istediğim, olduğu, yaptığı, kullandıkları, olduğum, uçtuğu</li>
+            <li>VERB-Vnoun: olduğunu, kullanıldığını, olmadığını, verdiği, olduğunca, bağlandığını, ettiğini, gidildiğini, gittiğini, kalktığını</li>
           </ul>
         </li>
       </ul>
@@ -5844,9 +6133,11 @@ udver: '2'
       <ul>
         <li>Past
           <ul>
-            <li>AUX-Fin: değildi</li>
+            <li>AUX: değildi, miydim, muydu</li>
+            <li>VERB-Conv: görmemişçesine, yanmışçasına</li>
             <li>VERB-Fin: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
-            <li>VERB-Vnoun: sürümekti, yağlamaktı, yüzmekti</li>
+            <li>VERB-Part: aldığı, istediği, yaptığı, gördüğü, sevdiği, süregelmiş, verdiği, Yaptığım, attığı, başladığı</li>
+            <li>VERB-Vnoun: olduğu, olduğunu, olmadığını, İstediğini, aldıktan, ettikten, girdiğimde, gördüklerini, istediklerini, söylediklerini</li>
           </ul>
         </li>
       </ul>
@@ -5882,11 +6173,11 @@ udver: '2'
       <ul>
         <li>Past
           <ul>
-            <li>AUX-Fin: değildi, değildim, değildik, değillerdi</li>
-            <li>VERB-Conv: görüştü, kaçıştı, bölüştük, dönüştü, düşüşteydi, geçirişti, giriştiler, karıştı, kaçıştık, kaçıştılar</li>
-            <li>VERB-Fin: vardı, oldu, geldi, başladı, çıktı, etti, yoktu, dedi, aldı, ediyordu</li>
-            <li>VERB-Part: uyandım, bulandı, dövüşeceklerdi, olanlardı, pişireniydi, uyandı</li>
-            <li>VERB-Vnoun: demekti, akdetmesiydi, bastırılmasıydı, dalmaktı, etmekteydi, hazırlanmaktaydı, istemeleriydi, kavuşmasıydı, olmalıydı, oynamalıydı</li>
+            <li>AUX: değildi, mıydı, miydi, değilmiş, miydik, değildim, miydim, muydu, mıydım, değildik</li>
+            <li>VERB-Conv: dalmışken, gelmişken, görmüşcesine, susamışken, çıkmışken, almışken, buluşmuşken, değmişken, dondurulmuşçasına, etmişçesine</li>
+            <li>VERB-Fin: oldu, geldi, başladı, çıktı, etti, vardı, dedi, aldı, ediyordu, verdi</li>
+            <li>VERB-Part: olduğu, verdiği, olmuş, çıkmış, aldığı, etmiş, geldiği, kalmış, düşmüş, yaptığı</li>
+            <li>VERB-Vnoun: olduğunu, olduğu, olduğuna, olmadığını, olduğundan, olduklarını, geldiği, ettiği, ettiğini, yaptığı</li>
           </ul>
         </li>
       </ul>
@@ -5907,11 +6198,11 @@ udver: '2'
       <ul>
         <li>Past
           <ul>
-            <li>AUX-Fin: değildi, değillerdi, değildik, değildim</li>
-            <li>VERB-Conv: dönüştü, değişti, oluştu</li>
+            <li>AUX: değildi, mıydı, değillerdi, miydi, değildik, değildim, mıydık, değilmiş, müydünüz</li>
+            <li>VERB-Conv: karışmışken</li>
             <li>VERB-Fin: söyledi, dedi, oldu, yükseldi, etti, düştü, kapandı, geldi, çıktı, aldı</li>
-            <li>VERB-Part: etkilenenlerdi, getirdiğiydi, kazananıydı, olanlardı, olmadığıydı</li>
-            <li>VERB-Vnoun: sözleşmeydi, almaktı, alınmasıydı, açıklanmasıydı, birleşmesiydi, desteklemekti, düşmesiydi, düşünmemesiydi, edilmeli, edinmekti</li>
+            <li>VERB-Part: olduğu, yaptığı, geçtiğimiz, verdiği, ettiği, olmadığı, aldığı, edilmiş, ödenmemiş, görmüş</li>
+            <li>VERB-Vnoun: olduğunu, olmadığını, ettiğini, gerektiğini, olduğu, olduğuna, aldığını, beklediğini, verdiğini, geldiğini</li>
           </ul>
         </li>
       </ul>
@@ -5920,10 +6211,10 @@ udver: '2'
       <ul>
         <li>Past
           <ul>
-            <li>AUX-Fin: DEĞİLDİ, DEĞİLLERDİ, DEĞİLDİM, DEĞİLDİK, DEĞİLDİLER</li>
-            <li>VERB-Conv: GÖRÜŞTÜK</li>
-            <li>VERB-Fin: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, KALDIK, TESİSTİ, KALDIM, İLGİLİYDİ, İLGİLENDİ, VARDI</li>
-            <li>VERB-Vnoun: ORTALAMAYDI, KARŞILAMAYDI</li>
+            <li>AUX: değildi, değillerdi, değildim, değildik, değildiler, miydi</li>
+            <li>VERB-Fin: görüşüldü, kaldık, kaldım, ilgilendi, kalmadım, olabilirdi, vardı, olmadı, beğendim, aradı</li>
+            <li>VERB-Part: ödediğim, verdiğim, aldığım, olduğum, olduğu, Verdiğimiz, beklediğim, kalmadığım, belirttiğim, yaşadığım</li>
+            <li>VERB-Vnoun: olmadığını, olduğunu, Beklediğimden, düşünmediğini, alamadığımı, haketmediğini, kalmadığım, kalmadığımdan, olduğu, umduğumdan</li>
           </ul>
         </li>
       </ul>
@@ -5951,7 +6242,13 @@ udver: '2'
 
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Pqp
+          <ul>
+            <li>VERB-Fin: etmişti, almıştı, çıkmıştı, almıştım, gelmişti, kaybetmişti, olmuştu, atanmıştı, açmıştı, ağrımıştı</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -5972,7 +6269,13 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Pqp
+          <ul>
+            <li>VERB-Fin: olmuştu, başlamıştı, kalmıştı, çıkmıştı, etmişti, gelmişti, vermişti, bulmuştu, almıştı, gitmişti</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -5985,10 +6288,22 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Pqp
+          <ul>
+            <li>VERB-Fin: olmuştu, düşmüştü, yapmıştı, almıştı, edilmişti, etmişti, gelmişti, öngörmüştü, ayırmıştı, belirtilmişti</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Pqp
+          <ul>
+            <li>VERB-Fin: edilmişti, olmuştu, eskimişti, katılmıştım, gitmiştim, bakmıştık, beklememiştim, beğenmiştim, görmüştüm, okumuştum</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -6006,10 +6321,11 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>VERB: göster, istiyorum, nedir, listeleyin, gösterin, listele, nelerdir, uçuyor, bul, ver</li>
-            <li>VERB-Conv: uçuşunuz, uçuşlardır</li>
-            <li>VERB-Fin: göster, istiyorum, nedir, listeleyin, gösterin, listele, nelerdir, uçuyor, bul, ver</li>
-            <li>VERB-Vnoun: demektir, kısaltmasıdır</li>
+            <li>AUX: mı, misin, mu, misiniz, miyim, mü, mi, musunuz, mısın, mıyım</li>
+            <li>VERB-Conv: giderken, uçarken</li>
+            <li>VERB-Fin: istiyorum, uçuyor, kalkıyor, geliyor, gidiyor, gerekiyor, varıyor, söyleyebilir, arıyorum, gösterebilir</li>
+            <li>VERB-Part: olan, kalkan, giden, varan, yapan, uçan, gelen, ayrılan, veren, eden</li>
+            <li>VERB-Vnoun: zamanlarını, olanlar, bulabilirim, fiyatlarıyla, olanları</li>
           </ul>
         </li>
       </ul>
@@ -6034,10 +6350,11 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>AUX-Fin: değilim</li>
-            <li>VERB: ediyor, eder, olur, yapıyor, atıyor, bakıyor, et, geçer, sallaya, bırak</li>
-            <li>VERB-Fin: ediyor, eder, olur, yapıyor, atıyor, bakıyor, et, geçer, sallaya, bırak</li>
-            <li>VERB-Vnoun: akmasın</li>
+            <li>AUX: mı, mu, mi, musun, değilim, mi?, misin, mü, mı?</li>
+            <li>VERB-Conv: giderken, koşarken, yaparken, Yürürken, anlatırken, hazırlarken, istercesine, konuşurken, çıkarken, Oynarken</li>
+            <li>VERB-Fin: ediyor, eder, olur, yapıyor, atıyor, bakıyor, geçer, ederim, alır, alıyor</li>
+            <li>VERB-Part: olan, kalan, gelen, eden, çıkan, geçer, giden, yaşayan, Akan, Sinirlenen</li>
+            <li>VERB-Vnoun: olanları, gelene, gelenler, geçene, olanlar, Eksileri, Sözlerinden, Yaşananlardan, anlatılanları, bağrışanlara</li>
           </ul>
         </li>
       </ul>
@@ -6075,12 +6392,11 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>AUX-Fin: değildir, değilse, değiliz, değilim, değilmiş, değilsin, değilsiniz</li>
-            <li>VERB: vardır, olur, olsun, olsa, eder, geliyor, ediyor, yoktur, oluyor, olmuş</li>
-            <li>VERB-Conv: aldatıştır, alışıdır, buruşmuş, değişmiş, direnişler, girişmiş, kalkışmış, karışmış, kaçışmış, oluşumdur</li>
-            <li>VERB-Fin: vardır, olur, olsun, olsa, eder, geliyor, ediyor, yoktur, oluyor, olmuş</li>
-            <li>VERB-Part: olduğudur, uyanmışım, çakıştığıdır, esirgediğiniz, ettiğindeyse, ettiğiniz, geldiğidir, gelenlerindendir, getirenlerdendir, gördüğünüz</li>
-            <li>VERB-Vnoun: demektir, olmasıdır, koymaktır, olmasın, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır, açmalıdırlar, baktırmasın</li>
+            <li>AUX: mı, mi, değildir, mu, mü, misin, musun, değilim, değiliz, midir</li>
+            <li>VERB-Conv: ederken, oynarken, geçerken, çıkarken, okurken, söylerken, dururken, girerken, derken, giderken</li>
+            <li>VERB-Fin: olur, eder, geliyor, ediyor, oluyor, alır, olursa, çıkar, bilir, gelir</li>
+            <li>VERB-Part: olan, gelen, eden, olmayan, giden, kalan, duran, bakan, veren, çıkan</li>
+            <li>VERB-Vnoun: olanlar, geleni, olanları, olanlara, olanların, sesleri, biteni, gözlerine, gözlerinin, içeri</li>
           </ul>
         </li>
       </ul>
@@ -6104,13 +6420,11 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>AUX: değildir, değiliz, değilse, değilim, değiller, değillerdir, değilmiş</li>
-            <li>AUX-Fin: değildir, değiliz, değilse, değilim, değillerdir, değilmiş</li>
-            <li>VERB: ediyor, diyor, söylüyor, olabilir, bekleniyor, veriyor, gösteriyor, yapıyor, oluyor, düşünüyor</li>
-            <li>VERB-Conv: arayışındalar, düşüşündedir, yükseliştedir</li>
-            <li>VERB-Fin: ediyor, diyor, söylüyor, olabilir, bekleniyor, veriyor, gösteriyor, yapıyor, oluyor, düşünüyor</li>
-            <li>VERB-Part: olduğudur, Gördüğünüz, Sunduğunuz, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, ettiğidir, olabileceğidir</li>
-            <li>VERB-Vnoun: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, Faturalandırmalar, almadır, almalıyız, anlamasıdır</li>
+            <li>AUX: değildir, mi, mı, mu, değiliz, değilim, musunuz, mü, mısın, değiller</li>
+            <li>VERB-Conv: ederken, düşerken, yükselirken, artarken, daraltırken, kazanırken, alırken, geçerken, azalırken, başlarken</li>
+            <li>VERB-Fin: ediyor, diyor, söylüyor, olabilir, bekleniyor, veriyor, gösteriyor, yapıyor, düşünüyor, geliyor</li>
+            <li>VERB-Part: olan, edilen, eden, yapılan, olmayan, gelen, artan, bulunan, yapan, verilen</li>
+            <li>VERB-Vnoun: olanlar, beklenenden, görmezden, kaybedenleri, kazananlar, olanların, olanı, verenler, edenler, gelenler</li>
           </ul>
         </li>
       </ul>
@@ -6119,12 +6433,11 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>AUX: DEĞİLİM, DEĞİLLER, DEĞİLDİR</li>
-            <li>AUX-Fin: DEĞİLİM, DEĞİLDİR</li>
-            <li>VERB: EDERİM, VERİYORUM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, EDİYORUM, EDERİZ, MEMNUNUM, BAHSEDERİM</li>
-            <li>VERB-Fin: EDERİM, VERİYORUM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, EDİYORUM, EDERİZ, MEMNUNUM, BAHSEDERİM</li>
-            <li>VERB-Part: VERDİĞİNİZ</li>
-            <li>VERB-Vnoun: DÜŞÜNMEMEKTEDİR</li>
+            <li>AUX: değilim, değiller, miyim, değildir, mu</li>
+            <li>VERB-Conv: girerken, çıkarken, Giderken, ayrılırken, eğlendirirken, temizlenirken, yaparken</li>
+            <li>VERB-Fin: ederim, veriyorum, istemiyorum, istiyorum, veririm, etmem, ediyorum, ederiz, bahsederim, değerlendiririm</li>
+            <li>VERB-Part: olan, karşılayan, güler, ilgilenen, verilen, yapan, arayan, gereken, uğurlayan, yazan</li>
+            <li>VERB-Vnoun: geleni, olanlara, beklenenin, gerekeni, koçanı, Satılanlara, ederim, gelenler, isteyenlere, konaklayanların</li>
           </ul>
         </li>
       </ul>
@@ -6202,7 +6515,9 @@ udver: '2'
       <ul>
         <li>Cau
           <ul>
-            <li>VERB-Fin: yaptırmam</li>
+            <li>VERB-Fin: anlat, yaptırmam</li>
+            <li>VERB-Part: ayırtabileceğim, gerektiren</li>
+            <li>VERB-Vnoun: ayırtmak, yaptırmak, başlatmak</li>
           </ul>
         </li>
       </ul>
@@ -6223,7 +6538,10 @@ udver: '2'
       <ul>
         <li>Cau
           <ul>
-            <li>VERB-Fin: çıkarırdı, kaçırdı, çıkarmış, çıkarıyor, aksettirdi, alıştırmışlar, arttıralım, attırmadı, azaltırsan, açtırmadı</li>
+            <li>VERB-Conv: arttırıp, yapıştırırken, çıkarıp, öksürtüp</li>
+            <li>VERB-Fin: çıkarırdı, kaçırdı, çıkarmış, çıkarıyor, aksettirdi, aldırdım, alıştırmışlar, arttıralım, attırmadı, azaltırsan</li>
+            <li>VERB-Part: artırdığı, fokurdatan, çıkaracak, çıkaran</li>
+            <li>VERB-Vnoun: çıkarmak, affettirmek, biriktirdiklerini, gerçekleştirmek, kurutmak, kurutmaya, yaptırmak, çalıştırmak, çıkarma</li>
           </ul>
         </li>
       </ul>
@@ -6255,8 +6573,10 @@ udver: '2'
       <ul>
         <li>Cau
           <ul>
-            <li>VERB-Fin: vardır, çıkardı, çıkarıyor, geçirdi, anlattı, yaptırdım, çıkarıyordu, değiştiriyor, doldurdu, geçiriyor</li>
-            <li>VERB-Vnoun: baktırmasın, bağdaştırmaktır, büyütmesidir, doyurmaktır, okutmasındandır, oturtmalıdır, yetiştirmektir, yükseltmektir</li>
+            <li>VERB-Conv: çıkarıp, çıkararak, ettirerek, çıkarmadan, hışırdatarak, geçirerek, indirerek, kaçırıp, yerleştirirken, yücelterek</li>
+            <li>VERB-Fin: vardır, çıkardı, çıkarıyor, yaptırdım, çıkarıyordu, anlattı, geçirdi, çıkarır, değiştiriyor, yaptırdı</li>
+            <li>VERB-Part: çıkardığı, çıkaran, dolduran, döndürücü, barındıran, kamaştıran, Kurutan, ağırlaştırıcı, baktıran, döndüren</li>
+            <li>VERB-Vnoun: çıkarmak, çıkarmaya, geçirmek, anlatmak, öldürmek, eğlendirmeye, geliştirmeye, kaçırmak, artırma, azaltmak</li>
           </ul>
         </li>
       </ul>
@@ -6277,8 +6597,10 @@ udver: '2'
       <ul>
         <li>Cau
           <ul>
-            <li>VERB-Fin: bildirdi, gerektiriyor, yükseltti, üretiyor, oluşturuyor, oluşturdu, yansıtıyor, çıkarıyor, geliştirdi, oluşturmaktadır</li>
-            <li>VERB-Vnoun: Faturalandırmalar, azaltmaktır, dönüştürmektir, geçirmektedir, işletmektedir, oluşturmaktadır, yönlendirememenizdir</li>
+            <li>VERB-Conv: çıkararak, alçaltmadan, aratarak, basitleştirerek, daraltırken, düzeltmeden, geciktirerek, geliştirerek, kutuplaştırmadan, uzatmadan</li>
+            <li>VERB-Fin: çıkarıyor, gerektiriyor, geliştirdi, arttırdı, oluşturdu, geçirdi, yükseltti, arttırıyor, bildirdi, hatırlattı</li>
+            <li>VERB-Part: gerektiren, rahatlatıcı, tanıtan, oluşturan, çıkaran, arttıracak, arttırmadaki, artırmalı, artırıcı, azaltan</li>
+            <li>VERB-Vnoun: çıkarma, geliştirmek, arttırmak, oluşturmak, çıkardığını, çıkarmak, çıkarmayı, artırma, başlatacağını, değiştirmeye</li>
           </ul>
         </li>
       </ul>
@@ -6287,7 +6609,9 @@ udver: '2'
       <ul>
         <li>Cau
           <ul>
-            <li>VERB-Fin: YAPTIRDI, YAPTIRMADIM, YÖNLENDİRDİ, YAPTIRDIM, SONLANDIRDI, YÖNLENDİRDİLER, BİLGİLENDİRDİ, ARATMADI, BEKLETTİLER, YAPTIRIYORUM</li>
+            <li>VERB-Fin: yaptırdı, yaptırmadım, yönlendirdi, yaptırdım, sonlandırdı, aratmadı, bilgilendirdi, yönlendirdiler, yaptırıyorum, aratmadılar</li>
+            <li>VERB-Part: yaptırmadığım, yaşattığı, yaptırdığı, doyurucu, eğlendiren, gerçekleştirmiş, pişiren, yaptırdığım, yaptırdığımız, yönlendirdiği</li>
+            <li>VERB-Vnoun: bilgilendirme, yönlendirme, çıkarmak, Değiştireceklerini, arttırmak, bilgilendirmeleri, değiştirmek, gerçekleştirmek, kestirmek, uzaklaştırmak</li>
           </ul>
         </li>
       </ul>
@@ -6409,7 +6733,13 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>CauPass
+          <ul>
+            <li>VERB-Part: çıkarılan</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -6438,8 +6768,10 @@ udver: '2'
       <ul>
         <li>CauPass
           <ul>
-            <li>VERB-Fin: düzeltildi, dolduruldu, içirildi, çıkarılamaz, anlatılmaz, bildirildi, bildirilmeyecekti, bitirilmeli, cezalandırılacaktır, cezalandırılamaz</li>
-            <li>VERB-Vnoun: bastırılmasıydı, oynatılmasıdır</li>
+            <li>VERB-Conv: boşaltılıp, doldurulup, geçirilerek, koparılıp, koparılırcasına, çıkarılınca</li>
+            <li>VERB-Fin: dolduruldu, düzeltildi, içirildi, çıkarılamaz, bildirilmeyecekti, bitirilmeli, doldurulmuş, eritildi, hatırlatılır, kapatıldı</li>
+            <li>VERB-Part: çıkarılan, kurutulmuş, akıtılmış, bayıltılmamış, değiştirilmeyen, kaldırılmış, kapatılan, sızdırılması, uyandırılmış, uydurulmuş</li>
+            <li>VERB-Vnoun: Anlatılanlara, anlatılmasından, arttırılmayacağı, belirtilenlerden, belletilmeye, birleştirilmelerde, değerlendirilmesi, geçirilmek, geçirilmesini, kaldırılması</li>
           </ul>
         </li>
       </ul>
@@ -6459,8 +6791,10 @@ udver: '2'
       <ul>
         <li>CauPass
           <ul>
-            <li>VERB-Fin: gerçekleştirildi, çıkarıldı, sınıflandırıldı, adlandırıldı, adlandırılıyor, ağırlıklandırılmıştır, derecelendirildi, değerlendirilmektedir, değiştirildi, durduruldu</li>
-            <li>VERB-Vnoun: değerlendirilmektedir, genişletilmektedir</li>
+            <li>VERB-Conv: korkutulunca, çıkartılarak</li>
+            <li>VERB-Fin: çıkarıldı, Geliştirilmekte, aksatılmaktadır, arındırılmamıştır, arındırılmıştır, attırılmadı, başlatıldı, büyütülmüştür, cezalandırılabilecek, cezalandırılabilir</li>
+            <li>VERB-Part: arttırılmış, geliştirilen, geliştirilmiş, kararlaştırılan, sadeleştirilmiş, yerleştirilen, bastırılan, belirtilen, durdurulan, dönüştürülebilir</li>
+            <li>VERB-Vnoun: geliştirilmesi, geliştirilmesine, serbestleştirilmesi, çıkarılması, çıkarılmasını, arttırılabileceğinden, artırılmasını, başlatılacağını, başlatıldığında, başlatılmayanlara</li>
           </ul>
         </li>
       </ul>
@@ -6469,7 +6803,8 @@ udver: '2'
       <ul>
         <li>CauPass
           <ul>
-            <li>VERB-Fin: ARTTIRILABİLİR, BEKLETİLDİK, BEKLETİLDİM, DEĞİŞTİRİLDİ, GELİŞTİRİLEBİLİR, GÜÇLENDİRİLMELİ, KALDIRILMIŞ, KONUMLANDIRILMIŞ, YÖNLENDİRİLDİK, YÖNLENDİRİLDİM</li>
+            <li>VERB-Fin: arttırılabilir, bekletildim, değiştirildi, geliştirilebilir, güçlendirilmeli, kaldırılmış, yönlendirildik, yönlendirildim</li>
+            <li>VERB-Vnoun: bilgilendirilmek, bilgilendirilmeden, yönlendirilmesini</li>
           </ul>
         </li>
       </ul>
@@ -6565,7 +6900,10 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>VERB-Fin: kullanılıyor, yapılıyor, verilmektedir, kullanılır, ediliyor, gidilir, sağlanmaktadır, ayrılır, bulun, bulunur</li>
+            <li>VERB-Conv: verilip</li>
+            <li>VERB-Fin: kullanılıyor, verilmektedir, kullanılır, ediliyor, yapılıyor, gidilir, sağlanmaktadır, ayrılmalıyım, ayrılır, bulunur</li>
+            <li>VERB-Part: yapılacak, ayrılan, yapılan, kullanılan, bağlanan, edilen, belirtilen, bulunan, kullanılacak, sağlanan</li>
+            <li>VERB-Vnoun: kullanıldığını, bağlandığını, edilmesini, gidildiğini, kullanılacağını, verilmediğini</li>
           </ul>
         </li>
       </ul>
@@ -6587,7 +6925,10 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
+            <li>VERB-Conv: açılıp, bağlanınca, kurulup, sürülünce</li>
             <li>VERB-Fin: edildi, kesildi, sallanıyor, çekildi, atıldı, devrildi, koyuldu, alınmaz, atanmıştı, atılmıştı</li>
+            <li>VERB-Part: açılan, yatırıldığı, Kesilen, Kovulan, alınan, açılacak, açılmış, basılmayacak, beklenen, bulunduğu</li>
+            <li>VERB-Vnoun: Kırılacakları, Yaşananlardan, anlatılanları, açılmasını, devrilmek, edildiğinden, ekilenler, kurulması, kısaltıldığı, taşınmak</li>
           </ul>
         </li>
       </ul>
@@ -6620,9 +6961,10 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>VERB-Conv: direnişler, verilişidir</li>
-            <li>VERB-Fin: açıldı, kesildi, çekildi, edilmiş, bulunur, koyuldu, sayılır, açılıyor, edilir, görülüyor</li>
-            <li>VERB-Vnoun: aktarılmalıdır, alınmalıdır, anlaşılmasıdır, benimsenmesidir, bulunmaktadır, edilmektedir</li>
+            <li>VERB-Conv: alınıp, açılıp, bulunup, kapanarak, alınarak, dağıtılarak, eğilerek, eğilip, gidilirken, görülünce</li>
+            <li>VERB-Fin: açıldı, kesildi, edilmiş, sayılır, çekildi, açılıyor, edilir, görülüyor, yapılır, açılmış</li>
+            <li>VERB-Part: denilen, edilen, verilen, yapılan, bulunan, yapılmış, açılan, edilmiş, sayılır, yapılacak</li>
+            <li>VERB-Vnoun: edilmesi, alınması, verilmesi, yapılacağından, yırtılmak, alınmasını, atılmak, açılmasını, bulunduğu, bulunmaktan</li>
           </ul>
         </li>
       </ul>
@@ -6643,9 +6985,10 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
+            <li>VERB-Conv: bulunmadan, sunulunca, yapılırken, aktarılıp, alınıp, açılmadan, belirtilmedikçe, boğulup, bulundurularak, bıçaklanarak</li>
             <li>VERB-Fin: edildi, bekleniyor, açıklanmadı, ulaşılamadı, bulundu, ediliyor, açıldı, seçildi, alındı, verildi</li>
-            <li>VERB-Part: dönüştürülebileceğidir, etkilenenlerdi</li>
-            <li>VERB-Vnoun: alınmasıydı, açıklanmasıydı, beklenmemektedir, bozulmasıdır, bölünmektedir, desteklenmektedir, edilmeli, indirilmesidir, korunmasızdı, kullanılabilmesidir</li>
+            <li>VERB-Part: edilen, yapılan, verilen, alınan, satılan, beklenen, kullanılan, görülen, yaşanan, listelenen</li>
+            <li>VERB-Vnoun: edilmesi, beklenenden, karşılaştırıldığında, alınması, edildiğini, kıyaslandığında, edileceğini, alındığında, beklendiğini, yapıldığını</li>
           </ul>
         </li>
       </ul>
@@ -6654,7 +6997,10 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>VERB-Fin: GÖRÜŞÜLDÜ, YAPILDI, VERİLDİ, ARANDIM, GİDİLEBİLECEK, EDİLMİŞTİ, SAYILIR, İLGİLENİLMEDİ, ANIL, ARANMADIM</li>
+            <li>VERB-Conv: yüklenerek, Gidilip</li>
+            <li>VERB-Fin: görüşüldü, yapıldı, verildi, arandım, gidilebilecek, edilmişti, sayılır, Yenilenirse, aranmadım, aranmamıştır</li>
+            <li>VERB-Part: gidilebilecek, verilen, bulunduğu, bulunan, edilebilecek, oluşturulan, yapılan, yenilenmiş, düzenlenen, sunulan</li>
+            <li>VERB-Vnoun: aranmak, görülmesi, görülmeye, beklenenin, iletilmesini, yapıldığını, yenilenmesi, çözülmesi, Bulunmaması, Satılanlara</li>
           </ul>
         </li>
       </ul>
@@ -6804,7 +7150,7 @@ udver: '2'
       <ul>
         <li>Rcp
           <ul>
-            <li>VERB-Fin: dönüş, kalkış</li>
+            <li>VERB-Fin: dönüş</li>
           </ul>
         </li>
       </ul>
@@ -6825,7 +7171,8 @@ udver: '2'
       <ul>
         <li>Rcp
           <ul>
-            <li>VERB-Fin: çekişe, elleşme, çöküştüler</li>
+            <li>VERB-Fin: çekişe, dolaş, elleşme, çöküştüler</li>
+            <li>VERB-Part: Çarpışan</li>
           </ul>
         </li>
       </ul>
@@ -6847,9 +7194,10 @@ udver: '2'
       <ul>
         <li>Rcp
           <ul>
-            <li>VERB-Fin: bakış, dikiş, dönüşmüştü, dönüşür, karıştırıyorum, satış, tutuştururlardı, uçuşuyordu, ışılaşır, Dönüş</li>
-            <li>VERB-Part: dövüşeceklerdi</li>
-            <li>VERB-Vnoun: boğuşmadır</li>
+            <li>VERB-Conv: ayrılışıp, gülüşerek, itişip, kalkışmadan, karıştırıp, ovuşturarak, ovuşturup, tutuşunca, uçuşurken, uğraşarak</li>
+            <li>VERB-Fin: dönüşmüştü, dönüşür, karşılaştım, tutuştururlardı, ışılaşır, Serpiştiriyordu, ağlaşır, bakışıyorlar, boğuşmadır, buluşacak</li>
+            <li>VERB-Part: bağdaşmış, değiştirmiş, fıkırdaşan, gelişmiş, gülüşen, kapıştığı, karşılaşan, kızışmış, maddeleşmiş, sıkışmış</li>
+            <li>VERB-Vnoun: anlaşmazlıklarını, atıştırmakla, dayatışma, dolaşması, dolaşmaya, gülüşmeler, haykırışma, haykırışırlar, karışması, karıştırdığımdan</li>
           </ul>
         </li>
       </ul>
@@ -6861,7 +7209,9 @@ udver: '2'
       <ul>
         <li>Rcp
           <ul>
-            <li>VERB-Fin: dönüştü, artış, karıştırıyor, satış, satışa, sıkılaştırıyor, uçuş, Anlaşma, değişmedi, dolaştıracak</li>
+            <li>VERB-Conv: değişmeden</li>
+            <li>VERB-Fin: dönüş, kapanış, dalışın, kapanıştı, karıştırıyor, kopuş, satış, sıkılaştırıyor, sıkışıyor, uçuş</li>
+            <li>VERB-Vnoun: anlaşma, araştırmalarının, soruşturma, soruşturmalar, soruşturmalara, soruşturmanın, ölçüşmek</li>
           </ul>
         </li>
       </ul>
@@ -6870,7 +7220,9 @@ udver: '2'
       <ul>
         <li>Rcp
           <ul>
-            <li>VERB-Fin: KARŞILAŞMADIK, KARŞILAŞTIM, KARŞILAŞAMADIK, KARŞILAŞMADIM, KARŞILAŞTIK, SIKIŞTIRMIŞLAR</li>
+            <li>VERB-Conv: karşılaştırınca, karşılaşınca</li>
+            <li>VERB-Fin: karşılaşmadık, karşılaştım, Karşılaşamadık, karşılaşmadım, karşılaştık, sıkıştırmışlar</li>
+            <li>VERB-Vnoun: buluşmak, dayanışmasına</li>
           </ul>
         </li>
       </ul>
@@ -6906,6 +7258,7 @@ udver: '2'
         <li>Rfl
           <ul>
             <li>VERB-Fin: taranıyor</li>
+            <li>VERB-Part: denen</li>
           </ul>
         </li>
       </ul>
@@ -6926,7 +7279,10 @@ udver: '2'
       <ul>
         <li>Rfl
           <ul>
-            <li>VERB-Fin: denir, denirdi, giyinmiş, Temizlenmeye, aranamaz, aranmış, dendi, denebilecek, denecek, denen</li>
+            <li>VERB-Conv: giyinip</li>
+            <li>VERB-Fin: denir, denirdi, Giyinmiş, deniyor, Temizlenmeye, aranamaz, aranmış, dendi, denebilecek, denecek</li>
+            <li>VERB-Part: denen, denecek, denir, aranan, denebilecek, kaşınan, taranmış</li>
+            <li>VERB-Vnoun: giyinmek, Yıkanmak, giyinmeye</li>
           </ul>
         </li>
       </ul>
@@ -6938,7 +7294,9 @@ udver: '2'
       <ul>
         <li>Rfl
           <ul>
-            <li>VERB-Fin: uyarlandı, dendi, denebilir, denebilirdi, denemez, denir, deniyordu, sabitlendi, uyarlanmadı, uyarlanır</li>
+            <li>VERB-Fin: uyarlandı, sabitlendi, akışına, dendi, denebilir, denebilirdi, denemez, denir, deniyordu, kaçışının</li>
+            <li>VERB-Part: uyarlanabilir</li>
+            <li>VERB-Vnoun: temizlenmesi, uyarlanmasında</li>
           </ul>
         </li>
       </ul>
@@ -6947,7 +7305,10 @@ udver: '2'
       <ul>
         <li>Rfl
           <ul>
-            <li>VERB-Fin: TEMİZLENDİ, TEMİZLENMİYORDU, TEMİZLENMEDİ, TEMİZLENİYORDU, DEN, DENECEK, DENMEDİ, TEMİZLENMEMİŞ, TEMİZLENİYOR</li>
+            <li>VERB-Conv: temizlenirken</li>
+            <li>VERB-Fin: temizlendi, temizlenmiyordu, temizleniyordu, temizlenmedi, den, denecek, denmedi, temizleniyor, temizlenmemiş</li>
+            <li>VERB-Part: Temizlenmiş, denecek</li>
+            <li>VERB-Vnoun: hazırlandığına, temizlenmeden, temizlenmediğini, temizlenmesi</li>
           </ul>
         </li>
       </ul>
@@ -6958,15 +7319,9 @@ udver: '2'
   </tr>
   <tr>
     <td width="10%" valign="top">
-
-    </td>
-    <td width="10%" valign="top">
       <ul>
         <li><a>Evident</a></li>
       </ul>
-    </td>
-    <td width="10%" valign="top">
-
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -6979,7 +7334,9 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li><a>Evident</a></li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -6987,10 +7344,24 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li><a>Evident</a></li>
+      </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li><a>Evident</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Evident</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Evident</a></li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -7000,7 +7371,16 @@ udver: '2'
   </tr>
   <tr>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Fh
+          <ul>
+            <li>VERB-Conv: giderken, uçarken</li>
+            <li>VERB-Fin: istiyorum, uçuyor, kalkıyor, geliyor, gidiyor, gerekiyor, varıyor, söyleyebilir, arıyorum, gösterebilir</li>
+            <li>VERB-Part: alabileceğim, yapabileceğim, söyleyebilir, bulabileceğim, ayırtabileceğim, gidebileceğim, listeleyebilir, taşınabilecek</li>
+            <li>VERB-Vnoun: zamanlarını, bulabilirim, fiyatlarıyla, uçabilmemin</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -7015,7 +7395,17 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Fh
+          <ul>
+            <li>AUX: değildi, miydim, muydu</li>
+            <li>VERB-Conv: giderken, göremeyince, koşarken, yaparken, Yürürken, alamayınca, anlatırken, bulamayınca, hazırlarken, istercesine</li>
+            <li>VERB-Fin: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, ettim, gitti</li>
+            <li>VERB-Part: geçer, gelmez, geçmez, Olabilecekleri, Sallanmaz, Sular, alamadığı, anlaşamayan, bulamadığı, görmez</li>
+            <li>VERB-Vnoun: alabilmek, edebilmek, yapabileceğine, Eksileri, Sözlerinden, alabileceğini, anlatabilmek, anlayabilmesi, anlaşamadığı, davranamayacağını</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -7034,16 +7424,46 @@ udver: '2'
 
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Fh
+          <ul>
+            <li>AUX: değildir, değildi, değilse, midir, mıdır, mıydı, miydi, miydik, değildim, miydim</li>
+            <li>VERB-Conv: ederken, oynarken, geçerken, çıkarken, okurken, söylerken, dururken, girerken, derken, giderken</li>
+            <li>VERB-Fin: oldu, geldi, başladı, olur, çıktı, etti, vardı, dedi, eder, aldı</li>
+            <li>VERB-Part: olur, olmaz, istemez, çatır, ister, güler, sayılır, çıkar, bilir, çıkmaz</li>
+            <li>VERB-Vnoun: alabilmek, sesleri, gözlerine, gözlerinin, içeri, olabileceğini, başlarını, derler, dişlerini, gözleriyle</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
 
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Fh
+          <ul>
+            <li>AUX: değildir, değildi, değilse, mıydı, değillerdi, miydi, değildik, değildim, mıydık, değillerdir</li>
+            <li>VERB-Conv: ederken, düşerken, yükselirken, artarken, daraltırken, kazanırken, alırken, geçerken, azalırken, başlarken</li>
+            <li>VERB-Fin: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
+            <li>VERB-Part: devredilebilir, karşılaştırılabilir, kıyaslanabilir, ayarlanabilir, edilebilir, anlaşılır, dönüştürülebilir, olabilecek, ödenebilir, anlaşılabilir</li>
+            <li>VERB-Vnoun: olabileceğini, görmezden, edebileceğini, alabileceğini, açıklayamadığını, olabileceklerini, olabileceğine, yapabileceğini, alabilme, alamayacağını</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Fh
+          <ul>
+            <li>AUX: değildi, değillerdi, değildim, değildik, değildiler, değildir, miydi</li>
+            <li>VERB-Conv: girerken, çıkarken, Giderken, ayrılırken, eğlendirirken, temizlenirken, yaparken</li>
+            <li>VERB-Fin: görüşüldü, kaldık, kaldım, ederim, ilgilendi, veriyorum, kalmadım, istemiyorum, istiyorum, veririm</li>
+            <li>VERB-Part: güler, gidilebilecek, edebileceğim, edilebilecek, edebileceği, gidebileceğimiz, Gidilebilir, bulabileceğiniz, bulamayacağınız, denilebilecek</li>
+            <li>VERB-Vnoun: alamadığımı, yaşayabileceğimizi, Alabildiğine, Getiremeyeceğini, Olabileceğin, bulamadığın, bulamamak, edemeyeceğimi, ederim, geçirebileceğiniz</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -7079,7 +7499,15 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Nfh
+          <ul>
+            <li>VERB-Conv: görmemişçesine, yanmışçasına</li>
+            <li>VERB-Fin: etmişti, almıştı, etmiş, olmuş, yapmış, çıkmıştı, almıştım, düşmüş, gelmişti, kaybetmişti</li>
+            <li>VERB-Part: süregelmiş, bütünleşmiş, dikilmiş, kalmamış, kalmış, kapanmış, yaşamış, Demlenmiş, Geçirmiş, abanmış</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -7108,7 +7536,17 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Nfh
+          <ul>
+            <li>AUX: değilmiş, muymuş, mıymış</li>
+            <li>VERB-Conv: dalmışken, gelmişken, görmüşcesine, susamışken, çıkmışken, almışken, bakıyormuşçasına, buluşmuşken, değmişken, dondurulmuşçasına</li>
+            <li>VERB-Fin: olmuş, gelmiş, çıkmış, etmiş, olmuştu, başlamıştı, kalmıştı, almış, çıkmıştı, oturmuş</li>
+            <li>VERB-Part: olmuş, çıkmış, etmiş, kalmış, düşmüş, gelmiş, yapılmış, almış, görmüş, edilmiş</li>
+            <li>VERB-Vnoun: Satılmışın, bağlamışlar, bozmuşlar, dokunulmamışından, düşürmüşüm, etmişler, etmişlerin, gecikmişliğe, gelmişime, girmişim</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -7122,10 +7560,27 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Nfh
+          <ul>
+            <li>AUX: değilmiş</li>
+            <li>VERB-Conv: karışmışken</li>
+            <li>VERB-Fin: olmuştur, olmuştu, yükselmiştir, düşmüş, düşmüştü, etmiştir, yapmıştı, artmıştır, edilmiştir, gelmiştir</li>
+            <li>VERB-Part: edilmiş, ödenmemiş, görmüş, olmuş, yapılmış, almış, edilmemiş, gelmiş, geçmiş, kazanmış</li>
+            <li>VERB-Vnoun: edilmişlerden</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Nfh
+          <ul>
+            <li>VERB-Fin: gelmiş, edilmişti, olmuştu, aranmamıştır, artmış, eskimişti, katılmıştım, yapmış, alınmamış, belirtmiş</li>
+            <li>VERB-Part: Vermiş, Ödemiş, belirtmiş, yenilenmiş, gitmiş, Eskimiş, Söylemiş, Temizlenmiş, edilmiş, gerçekleştirmiş</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -7229,7 +7684,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: tüm, bir, bu, her, o, şu</li>
+            <li>DET: bir</li>
           </ul>
         </li>
       </ul>
@@ -7241,7 +7696,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: bir, bu, her, tüm, o, hiçbir, birçok, şu, birkaç, bazı</li>
+            <li>DET: bir</li>
           </ul>
         </li>
       </ul>
@@ -7262,7 +7717,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: bir, bu, her, o, hiçbir, şu, birkaç, birçok, tüm, bazı</li>
+            <li>DET: bir</li>
           </ul>
         </li>
       </ul>
@@ -7274,7 +7729,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: bir, bu, birçok, tüm, her, bazı, hiçbir, o, birkaç, şu</li>
+            <li>DET: bir, BİR, Bİr</li>
           </ul>
         </li>
       </ul>
@@ -7283,7 +7738,7 @@ udver: '2'
       <ul>
         <li>Art
           <ul>
-            <li>DET: BİR, HER, BU, O, HİÇBİR, ŞU, TÜM, BAZI, ÇOK, DÖRTLÜK</li>
+            <li>DET: bir, hiçbir</li>
           </ul>
         </li>
       </ul>
@@ -7303,6 +7758,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
+            <li>DET: bu, o, şu</li>
             <li>PRON: bu, bunu, bunların, şu</li>
           </ul>
         </li>
@@ -7312,8 +7768,9 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
+            <li>DET: bu, her, o, tüm, bütün, şu, diğer, ...Bu, bütü, het</li>
             <li>NUM: On, onca</li>
-            <li>PRON: bu, bunu, bunun, buna, bunlar, bundan, bunları, bunların, o, şunu</li>
+            <li>PRON: bu, bunu, bunun, buna, bunlar, bundan, bunları, bunların, o, burada</li>
           </ul>
         </li>
       </ul>
@@ -7322,6 +7779,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
+            <li>DET: bu, o, şu</li>
             <li>PRON: bu, bunları, bunu, onların, Bundan, Bunlar, onlara, şunu, buna, bunun</li>
           </ul>
         </li>
@@ -7341,6 +7799,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
+            <li>DET: bu, o, her, tüm, şu, bütün, böyle, öyle</li>
             <li>PRON: bu, o, bunu, bunlar, buna, bunun, bunları, onu, onun, şunları</li>
           </ul>
         </li>
@@ -7350,7 +7809,8 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>PRON: bu, o, onun, bunlar, bunu, onu, bunun, onlar, ona, onları</li>
+            <li>DET: bu, o, şu</li>
+            <li>PRON: bu, o, onun, bunlar, bunu, onu, bunun, ona, onlar, onların</li>
           </ul>
         </li>
       </ul>
@@ -7362,7 +7822,8 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>PRON: bu, bunu, bunun, buna, bununla, onlar, bunlar, onun, onların, bunların</li>
+            <li>DET: bu, o, şu</li>
+            <li>PRON: bu, bunu, bunun, buna, bununla, onlar, bunlar, onların, bunların, onları</li>
           </ul>
         </li>
       </ul>
@@ -7371,7 +7832,8 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>PRON: ONLAR, O, BU, BUNDAN, BUNA, BUNUN, BUNLAR, BUNU, ONDAN, ONLARA</li>
+            <li>DET: bu, o, şu, Su, bir</li>
+            <li>PRON: onlar, o, bu, Bundan, Bunun, buna, Bunlar, bunu, ondan, onlara</li>
           </ul>
         </li>
       </ul>
@@ -7380,8 +7842,8 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>DET: bu, o</li>
-            <li>PRON: Bunun, O, bunu, kini, ondan</li>
+            <li>DET: bu, bütün, o</li>
+            <li>PRON: Bunun, O, bunu, buralara, ondan</li>
           </ul>
         </li>
       </ul>
@@ -7392,6 +7854,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
+            <li>DET: tüm, her</li>
             <li>PRON: biri, hepsi, hepsini, çoğunu</li>
           </ul>
         </li>
@@ -7401,7 +7864,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>PRON: kimi, Tasviri, biribirine, böylesine, diri, çoğu</li>
+            <li>DET: bir, bazı, birkaç, birçok, kimi, çok, herhangi, çoğu, birtakım, BİR</li>
+            <li>PRON: biri, hepsi, bazıları, birisi, hepimiz, birinin, hepsinin, hepsini, kimse, birinden</li>
           </ul>
         </li>
       </ul>
@@ -7410,8 +7874,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>ADV: hep</li>
-            <li>PRON: herkes, hepsini, kimse, biri, herkese, kimseye, hepimizin, hepsi, herkesin, kimsenin</li>
+            <li>DET: her, tüm, birkaç, birçok, bazı</li>
+            <li>PRON: herkes, hepsini, biri, herkese, hepimizin, hepsi, herkesin, birini, birisi, hepimizi</li>
           </ul>
         </li>
       </ul>
@@ -7429,6 +7893,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
+            <li>DET: bir, birkaç, bazı, birçok, kimi, başka, çok, birer, birtakım, biraz</li>
             <li>PRON: biri, hepsi, birbirimize, birbirlerine, kimi, hiçbiri, birbirine, birisi, hepimiz, hepsinin</li>
           </ul>
         </li>
@@ -7438,8 +7903,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>ADV: hep, kimsedir</li>
-            <li>PRON: biri, hepsi, herkes, birisi, kimse, hepsini, kimseye, birinde, bazıları, herkesin</li>
+            <li>DET: her, birkaç, birçok, bazı, birtakım, tüm, kimi</li>
+            <li>PRON: biri, hepsi, herkes, birisi, hepsini, birinde, herkesin, bazıları, birinin, öbürü</li>
           </ul>
         </li>
       </ul>
@@ -7457,8 +7922,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>ADV: hep</li>
-            <li>PRON: biri, bazıları, hepsi, çoğu, kimse, herkes, çoğunu, hepimiz, çoğunun, hepsinin</li>
+            <li>DET: bazı, her, birçok, tüm, birkaç</li>
+            <li>PRON: biri, bazıları, hepsi, çoğu, herkes, çoğunu, hepimiz, birçoğu, çoğunun, birinin</li>
           </ul>
         </li>
       </ul>
@@ -7467,8 +7932,8 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>ADV: HEP</li>
-            <li>PRON: HEPSİ, HERKESE, HERKES, HEPSİNE, HEPSİNDEN, BİRİ, HEPSİNİ, KİMSE, BAZILARI, BİRİSİ</li>
+            <li>DET: her, tüm, bazı, Hep</li>
+            <li>PRON: hepsi, herkese, herkes, hepsine, Hepsinden, biri, Hepsini, bazıları, birisi, hepsinin</li>
           </ul>
         </li>
       </ul>
@@ -7482,7 +7947,6 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>ADV: ne, nasıl</li>
             <li>AUX: mı, misin, mu, misiniz, miyim, mü, mi, musunuz, mısın, mıyım</li>
             <li>PRON: hangi, ne, hangisi, hangileri, neyin, neyi, hangisinin, nerede</li>
           </ul>
@@ -7493,8 +7957,9 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
+            <li>DET: hangi, kaç</li>
             <li>NOUN: Niceden, başhekim</li>
-            <li>PRON: ne, kim, neler, nedir, nerede, nereye, neyi, nereden, nerde, neye</li>
+            <li>PRON: ne, kim, neler, nedir, nereye, nerede, neden, neyi, nereden, neye</li>
           </ul>
         </li>
       </ul>
@@ -7503,7 +7968,6 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>ADV: ne, nasıl, kaçarak, kaçıp</li>
             <li>AUX: mı, mu, mi, musun, mi?, misin, miydim, muydu, mü, mı?</li>
             <li>PRON: ne, Kimden, neresi, Kimi, hangi, kim, kimin, neye</li>
           </ul>
@@ -7527,15 +7991,21 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Int
+          <ul>
+            <li>DET: kaç</li>
+            <li>PRON: ne, ?, neden, kim, nereden, nereye, neler, nerede, neye, kime</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
         <li>Int
           <ul>
-            <li>ADV: ne, nasıl, kaçırıp, kaçalı, kaçmaktayken, kaçınca, kaçıp, midir, neysek</li>
             <li>AUX: mı, mi, mu, mü, misin, musun, midir, mıdır, mıydı, miydi</li>
-            <li>PRON: ne, kim, kimi, nereden, hangi, nerede, nesi, neye, kimden, neresi</li>
+            <li>PRON: ne, kim, kimi, hangi, nereden, nesi, neye, kimden, nerede, neresi</li>
           </ul>
         </li>
       </ul>
@@ -7555,9 +8025,8 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>ADV: ne, nasıl, kaçıp, neler</li>
             <li>AUX: mi, mı, mu, mıydı, miydi, musunuz, mü, mısın, mıydık, Mİ</li>
-            <li>PRON: ne, kim, neden, hangi, kimin, neyin, kimi, neyi, kime, neye</li>
+            <li>PRON: ne, kim, hangi, kimin, neyin, kimi, neden, neyi, kime, neye</li>
           </ul>
         </li>
       </ul>
@@ -7566,9 +8035,8 @@ udver: '2'
       <ul>
         <li>Int
           <ul>
-            <li>ADV: NE, NASIL</li>
-            <li>AUX: MİYİM, MU, MİYDİ</li>
-            <li>PRON: KİM, NE</li>
+            <li>AUX: miyim, miydi, mu</li>
+            <li>PRON: kim, ne</li>
           </ul>
         </li>
       </ul>
@@ -7628,13 +8096,20 @@ udver: '2'
 
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Neg
+          <ul>
+            <li>DET: hiçbir, hiç</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
-            <li>PRON: Hiçbirimizi</li>
+            <li>DET: hiçbir</li>
+            <li>PRON: kimse, kimseye, kimsenin, Hiçbirimizi</li>
           </ul>
         </li>
       </ul>
@@ -7649,13 +8124,20 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Neg
+          <ul>
+            <li>DET: hiçbir, hiç</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
         <li>Neg
           <ul>
-            <li>PRON: hiçbiri, hiçbirini, Hiçbirine, hiçbirimiz, hiçbirimizin, hiçbirinde, hiçbirinden, hiçbirinin, hiçbirisi, hiçbirisinden</li>
+            <li>DET: hiçbir</li>
+            <li>PRON: kimse, kimseye, kimsenin, hiçbiri, hiçbirini, kimseden, Hiçbirine, hiçbirimiz, hiçbirimizin, hiçbirinde</li>
           </ul>
         </li>
       </ul>
@@ -7667,7 +8149,8 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>PRON: hiçbiri, hiçbirinin, hiçbirine, hiçbirini, hiçbiriyle</li>
+            <li>DET: hiçbir</li>
+            <li>PRON: kimse, hiçbiri, kimsenin, hiçbirinin, hiçbirine, hiçbirini, hiçbiriyle, kimseye</li>
           </ul>
         </li>
       </ul>
@@ -7676,7 +8159,8 @@ udver: '2'
       <ul>
         <li>Neg
           <ul>
-            <li>PRON: HİÇBİRİ</li>
+            <li>DET: hiçbir</li>
+            <li>PRON: kimse, kimseye, Hiçbiri</li>
           </ul>
         </li>
       </ul>
@@ -7699,7 +8183,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: ben, bana, benim, onun, o, onu, beni, biz, bizim, ona</li>
+            <li>PRON: ben, benim, bana, onun, kendi, beni, onu, o, bizim, biz</li>
           </ul>
         </li>
       </ul>
@@ -7735,7 +8219,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: ben, o, onun, bana, sen, beni, onu, benim, bizim, biz</li>
+            <li>PRON: ben, bana, o, onun, kendi, sen, beni, onu, benim, bizim</li>
           </ul>
         </li>
       </ul>
@@ -7747,7 +8231,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: onun, kendi, o, ben, onlar, onu, biz, ona, onların, onları</li>
+            <li>PRON: kendi, onun, o, ben, onu, onlar, biz, ona, onların, kendisi</li>
           </ul>
         </li>
       </ul>
@@ -7756,7 +8240,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: BEN, BİZİMLE, BENCE, BANA, BİZİ, BİZE, BENİ, BİZ, BENİM, KENDİSİ</li>
+            <li>PRON: ben, bizimle, bence, bana, bizi, bize, kendisi, beni, biz, benim</li>
           </ul>
         </li>
       </ul>
@@ -7765,7 +8249,7 @@ udver: '2'
       <ul>
         <li>Prs
           <ul>
-            <li>PRON: O, Sen, bana, Benim, Onlar, Sana, benden, bizimle, senin</li>
+            <li>PRON: O, Sen, bana, Benim, Onlar, Sana, benden, bizimle, kendi, kendine</li>
           </ul>
         </li>
       </ul>
@@ -7779,7 +8263,7 @@ udver: '2'
       <ul>
         <li>Rcp
           <ul>
-            <li>PRON: birbirlerini, birbirinden, birbirine</li>
+            <li>PRON: birbirine, birbirlerine, birbirinden, birbirlerini, birbirimize, birbirimizi, birbirinin, Birbiri, birbirini, birbirinize</li>
           </ul>
         </li>
       </ul>
@@ -7788,7 +8272,7 @@ udver: '2'
       <ul>
         <li>Rcp
           <ul>
-            <li>PRON: birbirine, birbiriyle, birbirlerine, birbiri, birbirinden, birbirini, birbirlerini, birbirlerinin</li>
+            <li>PRON: birbirine, birbiriyle, birbiri, birbirlerine, birbirilerine, birbirinden, birbirini, birbirlerini, birbirlerinin</li>
           </ul>
         </li>
       </ul>
@@ -7836,7 +8320,7 @@ udver: '2'
       <ul>
         <li>Rcp
           <ul>
-            <li>PRON: BİRBİRİNE</li>
+            <li>PRON: birbirine</li>
           </ul>
         </li>
       </ul>
@@ -7908,8 +8392,8 @@ udver: '2'
       <ul>
         <li>Card
           <ul>
-            <li>ADJ: kaç, 1991'deki, 1992'deki, 1993'teki, 420'deki, altısındaki, sekizindeki</li>
-            <li>NUM: 7, on, 1, 27, 2, 6, 5, yirmi, bir, 12</li>
+            <li>ADJ: kaç</li>
+            <li>NUM: 7, on, 1, 2, 6, bir, yirmi, 27, 8, 5'ten</li>
           </ul>
         </li>
       </ul>
@@ -7927,7 +8411,7 @@ udver: '2'
       <ul>
         <li>Card
           <ul>
-            <li>ADJ: kaç, kaçan</li>
+            <li>ADJ: kaç</li>
             <li>NUM: iki, bir, beş, bin, üç, İki, on, 2, altı, sekiz</li>
           </ul>
         </li>
@@ -7955,8 +8439,8 @@ udver: '2'
       <ul>
         <li>Card
           <ul>
-            <li>ADJ: kaç, ikisi, beşlik, kaçtığı, milyarlık, 70'li, Altılı, Altımdaki, Birlik, Dörtlü</li>
-            <li>NUM: iki, bir, üç, beş, on, İki, dört, bin, altı, yirmi</li>
+            <li>ADJ: kaç, kaçtı, kaça, kaçlara, kaçsan, kaçtan, kaçı, kaçın</li>
+            <li>NUM: iki, bir, üç, beş, on, İki, dört, bin, altı, yüz</li>
           </ul>
         </li>
       </ul>
@@ -7968,8 +8452,8 @@ udver: '2'
       <ul>
         <li>Card
           <ul>
-            <li>ADJ: milyonluk, ikisi, 9'luk, kaç, 0.3'lük, 10'luk, 1980'li, 20'lik, 3'lük, 3/4'lük</li>
-            <li>NUM: milyon, milyar, iki, bir, 1, üç, 10, 30, 2, 3</li>
+            <li>ADJ: kaç</li>
+            <li>NUM: milyon, milyar, iki, bir, 1, 10, üç, 30, 2, 3</li>
           </ul>
         </li>
       </ul>
@@ -7978,8 +8462,8 @@ udver: '2'
       <ul>
         <li>Card
           <ul>
-            <li>ADJ: BEŞLİK, KAÇ</li>
-            <li>NUM: 5, 10, 3, 6, 1, 100, BİR, BEŞ, 2, 4</li>
+            <li>ADJ: kaç</li>
+            <li>NUM: 5, 10, 3, 6, 1, 100, bir, beş, 2, 4</li>
           </ul>
         </li>
       </ul>
@@ -8011,7 +8495,7 @@ udver: '2'
       <ul>
         <li>Dist
           <ul>
-            <li>ADJ: onar, birer</li>
+            <li>NUM: onar, birer</li>
           </ul>
         </li>
       </ul>
@@ -8038,7 +8522,7 @@ udver: '2'
       <ul>
         <li>Dist
           <ul>
-            <li>ADJ: birer, ikişer, beşer, onar, üçer, Yetmişer, biner</li>
+            <li>NUM: birer, ikişer, onar, üçer, beşer, Yetmişer</li>
           </ul>
         </li>
       </ul>
@@ -8050,7 +8534,7 @@ udver: '2'
       <ul>
         <li>Dist
           <ul>
-            <li>ADJ: birer</li>
+            <li>NUM: birer, üçer</li>
           </ul>
         </li>
       </ul>
@@ -8067,7 +8551,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>NUM: 19:00, 28., 5:55, 7:00, 8., birinci, yedinci</li>
+            <li>NUM: 18:00'den, 19:00, 28., 5:55, 7:00, 8., birinci, yedinci, 22:00'den, 8:38'de</li>
           </ul>
         </li>
       </ul>
@@ -8086,7 +8570,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>NUM: %</li>
+            <li>NUM: %, birincisi</li>
           </ul>
         </li>
       </ul>
@@ -8113,8 +8597,8 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>ADJ: kaçıncı, birincisi</li>
-            <li>NUM: birinci, üçüncü, ikinci, dördüncü, sekizinci, İkinci, 19., 21., Beşinci, Onuncu</li>
+            <li>ADJ: kaçıncı</li>
+            <li>NUM: birinci, ikinci, üçüncü, İkinci, dördüncü, sekizinci, birincisi, 19., 21., Beşinci</li>
           </ul>
         </li>
       </ul>
@@ -8132,8 +8616,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>ADJ: 9:30'daki, Üçüncüsü</li>
-            <li>NUM: %, üçüncü, ikinci, 3., dördüncü, birinci, İkinci, 13., 2., altıncı</li>
+            <li>NUM: %, üçüncü, 3., ikinci, dördüncü, birinci, 13., İkinci, 2., altıncı</li>
           </ul>
         </li>
       </ul>
@@ -8142,7 +8625,7 @@ udver: '2'
       <ul>
         <li>Ord
           <ul>
-            <li>NUM: 3., 05., 18., 4., 2., 22., İKİNCİ, 201622., 5., 2630.</li>
+            <li>NUM: 3., 05., 18., 4., 2., 22., ikinci, 201622., 5., 2630.</li>
           </ul>
         </li>
       </ul>
@@ -8295,7 +8778,7 @@ udver: '2'
       <ul>
         <li>Yes
           <ul>
-            <li>PRON: kendi, kendisi, kendini, kendilerini, kendine, kendisini, kendisinin, kendisine, kendilerine, kendileri</li>
+            <li>PRON: kendi, kendisi, kendini, kendilerini, kendine, kendisini, kendisine, kendisinin, kendilerine, kendileri</li>
           </ul>
         </li>
       </ul>
@@ -8304,7 +8787,7 @@ udver: '2'
       <ul>
         <li>Yes
           <ul>
-            <li>PRON: KENDİSİ, KENDİSİNE, KENDİMİZ, KENDİSİNİ, KENDİSİYLE, KENDİ, KENDİLERİ, KENDİSİNDEN, KENDİM, KENDİMİZİ</li>
+            <li>PRON: kendisi, kendisine, kendimiz, kendisini, kendisiyle, kendi, kendileri, kendisinden, kendim, kendimizi</li>
           </ul>
         </li>
       </ul>
@@ -8376,8 +8859,11 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>VERB-Conv: uçuşunuz</li>
-            <li>VERB-Fin: istiyorum, arıyorum, ilgileniyorum, ediyorum, ederim, gitmem, yaşıyorum, çalışıyorum, gidebilirim, giderim</li>
+            <li>ADJ: Üzgünüm</li>
+            <li>AUX: miyim, mıyım</li>
+            <li>NOUN: havayolunuz, ulaşımınız</li>
+            <li>PRON: bana, beni, benim</li>
+            <li>VERB-Fin: istiyorum, arıyorum, ilgileniyorum, ediyorum, ederim, yaşıyorum, gitmem, gidebilirim, giderim, çalışıyorum</li>
           </ul>
         </li>
       </ul>
@@ -8402,7 +8888,10 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>AUX-Fin: değilim</li>
+            <li>ADJ: Keyifsizdim, Zenginim, başarılıydım, duyarım, güzelim, heyecanlıydım, yorgundum</li>
+            <li>AUX: değilim, miydim</li>
+            <li>NOUN: karısıyım, yengenim, bizim, buradayız, hızlanalım, ihtiyacınız, kaybetmeyim</li>
+            <li>PRON: ben, bana, beni, biz, bizim, bize, benim, bizi, hepimizin, kendime</li>
             <li>VERB-Fin: ettim, oldum, aldım, ettik, kazandım, verdim, attım, dolaştım, kaldık, ederim</li>
           </ul>
         </li>
@@ -8435,12 +8924,12 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>AUX-Fin: değiliz, değilim, değildim, değildik</li>
-            <li>VERB: ettim, gördüm, oldum, aldım, başladım, ederim, buldum, bilmem, bakalım, bilmiyorum</li>
-            <li>VERB-Conv: bölüştük, kaçıştık</li>
-            <li>VERB-Fin: ettim, gördüm, oldum, aldım, başladım, ederim, buldum, bilmem, bakalım, bilmiyorum</li>
-            <li>VERB-Part: uyandım, uyanmışım, esirgediğiniz, ettiğiniz, gördüğünüz, istediğiniz, olduğunuz</li>
-            <li>VERB-Vnoun: beklemeliyiz, dokunmayım, gelmeyeyim, keşfedebilmekteyim, olmayayım, sevişmelerimiz</li>
+            <li>ADJ: bilirim, atıldım, fenayım, Gençtim, Silahsızdık, eminim, güzeldim, harabatiyim, harabiyim, karşıyayız</li>
+            <li>AUX: değilim, değiliz, miyim, mıyım, miydik, muyuz, değildim, miydim, mıydım, mıyız</li>
+            <li>NOUN: benim, içindeyiz, birimiz, bizim, borçluyum, gazeteciyim, hakkım, atiyim, babayım, borçluyuz</li>
+            <li>NUM: biriz</li>
+            <li>PRON: ben, bana, beni, benim, bizim, biz, bize, bizi, kendimi, kendime</li>
+            <li>VERB-Fin: ettim, gördüm, oldum, aldım, başladım, ederim, bilmem, buldum, bakalım, bilmiyorum</li>
           </ul>
         </li>
       </ul>
@@ -8463,11 +8952,11 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>AUX-Fin: değiliz, değilim, değildik, değildim</li>
-            <li>VERB: düşünüyorum, istiyoruz, sanmıyorum, sanırım, ediyoruz, yaptık, düşünüyoruz, bilmiyorum, düşündüm, ediyorum</li>
+            <li>ADJ: hazırız, eminim, iyiyim, iyiyiz, karşıyım, memnunuz, meşguldük, üzgünüm, Eminiz, açgözlüyüz</li>
+            <li>AUX: değiliz, değilim, değildik, değildim, mıydık, miyiz, muyuz</li>
+            <li>NOUN: içindeyiz, çözüm, Karanlıktayız, aşamasındayız, bahçemizdeydik, bardayım, dalındayım, durumdayız, eğilimindeydim, farkındayım</li>
+            <li>PRON: ben, biz, bizim, benim, bize, bana, hepimiz, bence, beni, bizi</li>
             <li>VERB-Fin: düşünüyorum, istiyoruz, sanmıyorum, sanırım, ediyoruz, yaptık, düşünüyoruz, bilmiyorum, düşündüm, ediyorum</li>
-            <li>VERB-Part: Gördüğünüz, Sunduğunuz, yaptığınız</li>
-            <li>VERB-Vnoun: almalıyız</li>
           </ul>
         </li>
       </ul>
@@ -8476,11 +8965,11 @@ udver: '2'
       <ul>
         <li>1
           <ul>
-            <li>AUX-Fin: DEĞİLİM, DEĞİLDİM, DEĞİLDİK</li>
-            <li>VERB: KALDIK, KALDIM, EDERİM, VERİYORUM, KALMADIM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, BEĞENDİM</li>
-            <li>VERB-Conv: GÖRÜŞTÜK</li>
-            <li>VERB-Fin: KALDIK, KALDIM, EDERİM, VERİYORUM, KALMADIM, İSTEMİYORUM, İSTİYORUM, VERİRİM, ETMEM, BEĞENDİM</li>
-            <li>VERB-Part: VERDİĞİNİZ</li>
+            <li>ADJ: memnunum, memnunuz, kararsızım, memnunduk, memnundum, çiftiydik, eminim, kızım, rahattık, zorundayım</li>
+            <li>AUX: değilim, değildim, değildik, miyim</li>
+            <li>NOUN: katıldım, halindeyiz, içerisindeyiz, toplantıdayım, arkadaşıyım, babasıyım, etkilendik, eşiyim, yurtdışındayım, almadım</li>
+            <li>PRON: ben, bizimle, bence, bana, bizi, bize, beni, biz, benim, bizim</li>
+            <li>VERB-Fin: kaldık, kaldım, ederim, veriyorum, kalmadım, istemiyorum, istiyorum, veririm, etmem, beğendim</li>
           </ul>
         </li>
       </ul>
@@ -8502,7 +8991,8 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>VERB-Fin: göster, listeleyin, gösterin, listele, bul, ver, verin, bulun, söyle, açıkla</li>
+            <li>AUX: misin, misiniz, musunuz, mısın</li>
+            <li>VERB-Fin: göster, listeleyin, gösterin, listele, bul, ver, verin, bulun, söyle, dönüş</li>
           </ul>
         </li>
       </ul>
@@ -8526,8 +9016,11 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>VERB-Fin: et, bırak, aç, değiştir, geç, göreceksin, al, dinle, gel, çabala</li>
-            <li>VERB-Vnoun: akmasın</li>
+            <li>ADJ: oturmuşsun</li>
+            <li>AUX: musun, misin</li>
+            <li>NOUN: acemisin, aktörüsün, gelmesin, girmesin, ısınsın</li>
+            <li>PRON: sen, senin, seni, siz, size, sizi, sana, senden, Sizler</li>
+            <li>VERB-Fin: et, bırak, aç, baksana, değiştir, geç, göreceksin, al, dinle, gel</li>
           </ul>
         </li>
       </ul>
@@ -8559,10 +9052,11 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>AUX-Fin: değilsin, değilsiniz</li>
-            <li>VERB: bak, vardır, gel, var, söyle, ol, bırak, bakın, ver, git</li>
-            <li>VERB-Fin: bak, vardır, gel, var, söyle, ol, bırak, bakın, ver, git</li>
-            <li>VERB-Vnoun: olmasın, baktırmasın, bozmasın, düzeltmelisin, düşmesin, kasavetlenmeyesin</li>
+            <li>ADJ: yoksun, asabisin, budalaymışsın, böylesiniz, büyüğümsün, bıçkınlaşma, denilen, dikseniz, duldun, enayileşme</li>
+            <li>AUX: misin, musun, mısın, mısınız, misiniz, musunuz, değilsin, değilsiniz, miydiniz</li>
+            <li>NOUN: adamsınız, etmesin, dinsin, milletvekilisiniz, çocuksun, Ağlasın, Nerelerdesiniz, Nimetsin, adamsanız, adamsın</li>
+            <li>PRON: sen, seni, sana, senin, size, siz, sizi, sizin, senden, kendinizi</li>
+            <li>VERB-Fin: bak, gel, vardır, söyle, ol, bırak, bakın, ver, var, git</li>
           </ul>
         </li>
       </ul>
@@ -8583,7 +9077,11 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>VERB-Fin: kıyasla, biliyorsun, dile, dönüş, et, al, git, bekleyin, diyebilirsiniz, düşünün</li>
+            <li>ADJ: Güzelisinizdir, haklısınız, olabilirsiniz, zorundasınız</li>
+            <li>AUX: musunuz, mısın, misin, misiniz, müydünüz, mısınız</li>
+            <li>NOUN: hızlandırın, atsın, değerlendirin, dinazorsun, durumdasın, niyetindeysen, oradasın, parçasıymışsınız, perakendeciyseniz, sözleşme</li>
+            <li>PRON: sen, sizin, size, senin, seni, Siz, seninle, sizi, kendinden, kendinizi</li>
+            <li>VERB-Fin: al, biliyorsun, et, kıyasla, dönüş, düşünün, git, bekleyin, diyebilirsiniz, edin</li>
           </ul>
         </li>
       </ul>
@@ -8592,7 +9090,10 @@ udver: '2'
       <ul>
         <li>2
           <ul>
-            <li>VERB-Fin: ARAMAYIN, GİDİN, SAĞOLUN, VAR, İSTİYORSANIZ, ANIL, CHECK, İLETİN, AL, ALINIZ</li>
+            <li>ADJ: şanslısınız</li>
+            <li>NOUN: aylan, Anlan, Hayrettin, yersiniz</li>
+            <li>PRON: size, sizi, sizlere, sizin, siz, Kendiniz, Seni, sizleri</li>
+            <li>VERB-Fin: aramayın, gidin, istiyorsanız, sağolun, var, check, Anıl, al, alınız, gitmeyin</li>
           </ul>
         </li>
       </ul>
@@ -8615,11 +9116,13 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>NOUN: uçuşları, uçuş, uçuşlar, günü, uçuşu, uçuşlarını, akşam, öğleden, dönüş, gidiş</li>
-            <li>VERB: nedir, nelerdir, uçuyor, kalkıyor, geliyor, gerekiyor, gidiyor, varıyor, söyleyebilir, alabilir</li>
-            <li>VERB-Conv: uçuşlardır</li>
-            <li>VERB-Fin: nedir, nelerdir, uçuyor, kalkıyor, geliyor, gerekiyor, gidiyor, varıyor, söyleyebilir, alabilir</li>
-            <li>VERB-Vnoun: demektir, kısaltmasıdır</li>
+            <li>ADJ: mevcuttur, vardır, mümkünse, nasıldır, müsaittir, uygundur</li>
+            <li>AUX: mı, mu, mü, mi</li>
+            <li>NOUN: havayoludur, kısaltmasıdır, uçuşlardır, uçaktır, dilimindedir, havayollarıdır, sınıftır, uçuştur, şehirdir</li>
+            <li>PRON: hangi, ne, hangisi, hangileri, bu, biri, neyin, bunu, neyi, bunların</li>
+            <li>VERB-Fin: uçuyor, kalkıyor, geliyor, gidiyor, gerekiyor, varıyor, söyleyebilir, gösterebilir, listeleyebilir, alabilir</li>
+            <li>VERB-Part: varışlı, çıkışlı, kalkmalı, konaklamalı, olmalı, varmalı</li>
+            <li>VERB-Vnoun: gidiş, dönüş, uçmak, gitmek, yapmak, görmek, almak, bulmak, etmek, bilmek</li>
           </ul>
         </li>
       </ul>
@@ -8651,11 +9154,14 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>AUX-Fin: değildi</li>
-            <li>NOUN: para, adam, çocuk, şey, gün, iş, şeyi, ay, işi, başına</li>
-            <li>VERB: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, gitti, çıktı</li>
+            <li>ADJ: yoktu, iyiydi, güzeldi, vardı, zengindi, hazırdı, kötüydü, varsa, Araplar, Başarısızdı</li>
+            <li>AUX: mı, mu, mi, değildi, mi?, muydu, mü, mı?</li>
+            <li>NOUN: yok, Sinirliydi, adammış, adlandı, biçimidir, borçlandırıyordu, deyimidir, dibeydi, dizdarlardı, düşüncedir</li>
+            <li>PRON: bu, onu, onun, ona, o, herkes, kendi, hepsini, kimse, biri</li>
+            <li>VERB-Conv: görmemişçesine, istercesine, savrulurcasına, yanmışçasına</li>
             <li>VERB-Fin: etti, verdi, aldı, oldu, yaptı, bıraktı, açtı, düştü, gitti, çıktı</li>
-            <li>VERB-Vnoun: sürümekti, yağlamaktı, yüzmekti</li>
+            <li>VERB-Part: Bakışlarındaki, çekişmeli</li>
+            <li>VERB-Vnoun: olanları, olduğu, almak, etmek, yapmak, etme, olduğunu, engellemek, gelene, olmadığını</li>
           </ul>
         </li>
       </ul>
@@ -8698,14 +9204,15 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>AUX: değil, değildir, değildi, değilim, değilse, değilmiş, değillerdi</li>
-            <li>AUX-Fin: değildir, değildi, değilse, değilmiş, değillerdi</li>
-            <li>NOUN: gün, zaman, adam, şey, arasında, kadın, çocuk, iş, su, olduğunu</li>
-            <li>VERB: vardı, oldu, geldi, başladı, olur, vardır, çıktı, etti, olsun, yoktu</li>
-            <li>VERB-Conv: görüştü, kaçıştı, aldatıştır, alışıdır, buruşmuş, değişmiş, direnişler, dönüştü, düşüşteydi, geçirişti</li>
-            <li>VERB-Fin: vardı, oldu, geldi, başladı, olur, vardır, çıktı, etti, olsun, yoktu</li>
-            <li>VERB-Part: olduğudur, çakıştığıdır, bulandı, dövüşeceklerdi, ettiğindeyse, geldiğidir, gelenlerindendir, getirenlerdendir, kuracaklarmış, olanlardı</li>
-            <li>VERB-Vnoun: demektir, demekti, olmasıdır, koymaktır, akdetmesiydi, aktarılmalıdır, almaktır, alınmalıdır, anlaşılmasıdır, açmalıdırlar</li>
+            <li>ADJ: vardı, vardır, yoktu, yoktur, varsa, lazımdır, varmış, doludur, lazımdı, öyleyse</li>
+            <li>AUX: mı, mi, değil, değildir, mu, değildi, değilim, mü, değilse, midir</li>
+            <li>NOUN: yok, adamdı, şeydi, yoktur, yoktu, içindeydi, kadındı, insanlardı, şeydir, doluydu</li>
+            <li>NUM: binmiş, biridir, 2'dir, bindir, birdir, biriydi</li>
+            <li>PRON: bu, o, onun, onu, kendi, ona, ne, kendini, kim, biri</li>
+            <li>VERB-Conv: istercesine, anımsarcasına, eğlenirlerken, görmüşcesine, verircesine, çevirirlerken, Yarışırcasına, boşanırcasına, dondurulmuşçasına, düşercesine</li>
+            <li>VERB-Fin: oldu, geldi, başladı, olur, çıktı, etti, olsun, vardı, dedi, eder</li>
+            <li>VERB-Part: bakışlı, sürmeli, Bakışlarındaki, Geçmeli, Yemeklik, aldatmamalı, bilmeli, bölmeli, büzmeli, dikişçi</li>
+            <li>VERB-Vnoun: olduğunu, olmak, etmek, olduğu, demek, etmeye, görmek, yapmak, almak, vermek</li>
           </ul>
         </li>
       </ul>
@@ -8731,14 +9238,15 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>AUX: değildir, değildi, değiller, değilim, değilse, değillerdi, değillerdir, değilmiş, değilsin</li>
-            <li>AUX-Fin: değildir, değildi, değilse, değillerdi, değillerdir, değilmiş</li>
-            <li>NOUN: bay, hisse, dolar, yıl, şirket, olduğunu, şekilde, satın, devam, gelir</li>
-            <li>VERB: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
-            <li>VERB-Conv: arayışındalar, dönüştü, değişti, düşüşündedir, oluştu, yükseliştedir</li>
+            <li>ADJ: vardı, vardır, yoktu, varsa, bağlıdır, yüksekti, tabidir, zordur, düşüktü, iyidir</li>
+            <li>AUX: değildir, değildi, mi, mı, mu, değiller, değilse, mıydı, değilim, değillerdi</li>
+            <li>NOUN: sahiptir, şirketidir, sahipti, dolardır, dolardı, birimidir, dolarıydı, seviyesindeydi, yardımcısıydı, firmasıdır</li>
+            <li>NUM: 100'dür, 'dir, 1/4'tür, 10'dur, 14.2'ydi, 15.50'dir, 178.5'ti, 2'dir, 215.3'tü, 362'dir</li>
+            <li>PRON: bu, kendi, onun, bunu, bunun, o, onlar, biri, buna, ne</li>
+            <li>VERB-Conv: alırlarken, değişmezken</li>
             <li>VERB-Fin: söyledi, dedi, ediyor, oldu, yükseldi, etti, diyor, düştü, kapandı, geldi</li>
-            <li>VERB-Part: olduğudur, alacağımızdır, bahsetmediğinizdir, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, etkilenenlerdi, ettiğidir, getirdiğiydi, kazananıydı</li>
-            <li>VERB-Vnoun: olmasıdır, danışmanlar, demektir, sağlamaktır, almaktır, bulmaktır, sözleşmeydi, Faturalandırmalar, almadır, almaktı</li>
+            <li>VERB-Part: inişli, çıkışlı, alınmasındaki, anlaşmasındaki, arttırmadaki, artırmalı, dönmesindeki, etmedeki, geliştirmeci, görüşlü</li>
+            <li>VERB-Vnoun: olduğunu, olmak, etmek, olacağını, olmadığını, alma, almak, yapmak, yapmayı, ettiğini</li>
           </ul>
         </li>
       </ul>
@@ -8747,12 +9255,14 @@ udver: '2'
       <ul>
         <li>3
           <ul>
-            <li>AUX: DEĞİLDİ, DEĞİLLERDİ, DEĞİLİM, DEĞİLLER, DEĞİLDİLER, DEĞİLDİR</li>
-            <li>AUX-Fin: DEĞİLDİ, DEĞİLLERDİ, DEĞİLDİLER, DEĞİLDİR</li>
-            <li>NOUN: HİZMET, BEY, PUAN, KONUMU, ÇEŞİT, TAVSİYE, TESİS, PERSONEL, OTEL, DENİZİ</li>
-            <li>VERB: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, TESİSTİ, İLGİLİYDİ, İLGİLENDİ, VARDI, KÖTÜYDÜ, AZDI</li>
-            <li>VERB-Fin: GÜZELDİ, İYİYDİ, GÖRÜŞÜLDÜ, YOKTU, TESİSTİ, İLGİLİYDİ, İLGİLENDİ, VARDI, KÖTÜYDÜ, AZDI</li>
-            <li>VERB-Vnoun: ORTALAMAYDI, KARŞILAMAYDI, DÜŞÜNMEMEKTEDİR</li>
+            <li>ADJ: güzeldi, iyiydi, yoktu, ilgiliydi, kötüydü, azdı, vardı, küçüktü, temizdi, yetersizdi</li>
+            <li>AUX: değildi, değillerdi, değilim, değiller, değildiler, değildir, miydi, mu</li>
+            <li>NOUN: tesisti, beydi, oteldi, hanımdı, odaydı, yüzlüydü, ilgililerdi, tatildi, gemiydi, ilgiliydi</li>
+            <li>NUM: dörtlüktü</li>
+            <li>PRON: hepsi, herkese, kendisi, onlar, herkes, hepsine, kendisine, Hepsinden, onun, kendisini</li>
+            <li>VERB-Fin: görüşüldü, ilgilendi, olabilirdi, vardı, olmadı, aradı, oldu, yaptırdı, ilgilendiler, geldi</li>
+            <li>VERB-Part: kullanışlı, kullanışsız</li>
+            <li>VERB-Vnoun: olması, yüzme, vermek, almak, olmak, Yeme, içme, katılmak, yapmak, bilgilendirilmek</li>
           </ul>
         </li>
       </ul>
@@ -8763,7 +9273,8 @@ udver: '2'
           <ul>
             <li>AUX: mi, idi, di, mı, olacak, miydi, mü, olmadı, olmalıydı, se</li>
             <li>AUX-Fin: durdu, idi</li>
-            <li>PRON: O, Bunun, Onlar, bunu, kendi, kendine, kinden, ondan</li>
+            <li>NOUN: kinden</li>
+            <li>PRON: O, Bunun, Onlar, bunu, kendi, kendine, ondan</li>
             <li>VERB: verdi, istiyor, aldı, gitti, okuyor, seviyor, uyudu, uyursa, bilmiyorlar, büyüdü</li>
             <li>VERB-Fin: anlatıyor, açıklanmış, gelecekti, gitti, götürdü, okumamış, seviyor, temizlememişti, temizlemiş, yapıyordu</li>
           </ul>
@@ -8773,7 +9284,14 @@ udver: '2'
   </tr>
   <tr>
     <td width="10%" valign="top">
-
+      <ul>
+        <li><a>Polite</a></li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>Polite</a></li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -8784,7 +9302,9 @@ udver: '2'
 
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li><a>Polite</a></li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -8792,7 +9312,9 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li><a>Polite</a></li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -8800,10 +9322,9 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
-    </td>
-    <td width="10%" valign="top">
-
+      <ul>
+        <li><a>Polite</a></li>
+      </ul>
     </td>
     <td width="10%" valign="top">
 
@@ -8811,13 +9332,25 @@ udver: '2'
   </tr>
   <tr>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Form
+          <ul>
+            <li>VERB-Fin: verilmektedir, sağlanmaktadır, gelmektedir, kullanmaktadır, sunmaktadır</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
 
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Form
+          <ul>
+            <li>VERB-Fin: dönüştürmekte, etmekteydi, olmaktadır, sömürmekte</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
 
@@ -8832,7 +9365,14 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Form
+          <ul>
+            <li>VERB-Conv: kaçmaktayken</li>
+            <li>VERB-Fin: etmekte, vermekte, yapmakta, anlatmakta, bildirilmekte, durmakta, edilmektedir, ediniz, etmektedir, geçmektedir</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -8845,10 +9385,24 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Form
+          <ul>
+            <li>NOUN: sınırlandırmamaktadır</li>
+            <li>VERB-Conv: sergilenmekteyken</li>
+            <li>VERB-Fin: bulunmaktadır, etmektedir, içermektedir, vermektedir, edilmektedir, yapmaktadır, almaktadır, desteklenmektedir, oluşturmaktadır, üretmektedir</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li>Form
+          <ul>
+            <li>VERB-Fin: etmekte, düşünmemektedir, gerekmekte, bulunmamaktadır, konmamaktadır, olmaktadır, verilmekte, yapılmaktadır</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
 
@@ -8987,8 +9541,10 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>NOUN: uçuşları, uçuşlarını, ücretlerini, ücretleri, uçuşlarınız, havayollarıyla, uçuşlarının, havayollarını, uçuşunuz, Havayolları'nın</li>
-            <li>VERB-Fin: hangileridir, havayollarıdır</li>
+            <li>NOUN: uçuşunuz, ücretlerini, ücretleri, uçuşlarınız, havayollarıyla, havayollarını, Havayolları'nın, fiyatlarını, Havayolları'nı, dersiniz</li>
+            <li>PRON: hangileri, hepsi, hepsini, çoğunu</li>
+            <li>VERB-Part: kullandıkları</li>
+            <li>VERB-Vnoun: uçacağınızı</li>
           </ul>
         </li>
       </ul>
@@ -9016,7 +9572,12 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>NOUN: Güveniniz, aramızda, İkimiz, Ailemizin, Alıcılarımız, Başkanları, Dilimizi, Gözümüzde, Kaybınızı, Kimseleri</li>
+            <li>ADJ: çürüklerini</li>
+            <li>NOUN: Güveniniz, aramızda, haklarını, Ailemizin, Alıcılarımız, Başkanları, Dilimizi, Geleneklerini, Gözümüzde, Hakkındakileri</li>
+            <li>NUM: İkimiz</li>
+            <li>PRON: herkes, hepsini, herkese, hepimizin, hepsi, herkesin, hepimizi, hepsine, herkesten, Birilerini</li>
+            <li>VERB-Part: söyledikleri, Beklemediğimiz, Olabilecekleri, Oturduğunuz, Sattıkları, Yediğiniz, aldığımız, başladığımız, geçtiğimiz, güvendiğimiz</li>
+            <li>VERB-Vnoun: Oturduğumuz, Söylediklerinizi, Söylediklerinizin, Yaptıkları, basmamız, bitirmemize, buluşacağımızı, görüşmediğimizden, konuştuklarında, kırmalarına</li>
           </ul>
         </li>
       </ul>
@@ -9055,10 +9616,13 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>NOUN: aramızda, gözlerini, aralarında, olduklarını, çocukları, eniştemiz, başımıza, ellerinde, evlerine, başkalarının</li>
-            <li>VERB-Fin: cepheleridir, gösterileridir, müzelerimizdedir, adamlarıydı, arkadaşlarıdır, birimleridir, davamızdır, dizdarlarıydı, gayretleridir, hareketimizmiş</li>
-            <li>VERB-Part: gelenlerindendir</li>
-            <li>VERB-Vnoun: istemeleriydi</li>
+            <li>ADJ: başkalarına, başkalarının, Diğerlerinin, Dostluğumuz, Karşımızda, Keyfimizce, açıklarında, ağırlarına, bakilerini, bildikleri</li>
+            <li>NOUN: aramızda, gözlerini, aralarında, eniştemiz, başımıza, çocukları, ellerinde, evimize, evlerine, hayatımız</li>
+            <li>NUM: İkimiz, Üçümüz, ikimiz, ikimizi, İkiniz, ikimize, yüzlerinin, İkimizde, İkimize, İkimizin</li>
+            <li>PRON: hepsi, herkes, hepsini, kendilerini, herkesin, bazıları, hepsinin, çoğu, kendileri, kendilerine</li>
+            <li>VERB-Fin: gelenlerindendir, istemeleriydi</li>
+            <li>VERB-Part: dedikleri, dediğimiz, gördüğümüz, gördüğünüz, olduğumuz, geldiğimiz, olduğunuz, sevdiğimiz, verdikleri, bindiğimiz</li>
+            <li>VERB-Vnoun: olduklarını, geldikleri, olduğumuz, olduğumuzu, dedikleri, ettikleri, oldukları, almamız, gideceklerini, almalarına</li>
           </ul>
         </li>
       </ul>
@@ -9082,11 +9646,13 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>NOUN: fiyatları, hisseleri, koşulları, yetkilileri, oranları, tahvilleri, hizmetleri, ihtiyacımız, kazançlarını, liderleri</li>
-            <li>PROPN: Doları'ydı, Doları, Doları'dır, Hizmetleri'ne</li>
-            <li>VERB-Fin: ayarlarındalar, bahçemizdeydik, bonolarıdır, bırakmalarıdır, direktörleridir, haplarıdır, kayıtlarıdır, ortaklıklarıdır, problemleriydi, rafineleriydi</li>
-            <li>VERB-Part: alacağımızdır, bahsetmediğinizdir, yapabileceğimizdir</li>
-            <li>VERB-Vnoun: kalmalarıdır, uyarmalarıdır, yönlendirememenizdir</li>
+            <li>ADJ: bacaksızları, diğerleri, güvenilirleridir, ortaklıklarıdır</li>
+            <li>NOUN: ihtiyacımız, tahminlerinin, düzeylerini, fiyatları, günümüzde, günümüzün, haklarını, telefonlarımıza, Görüşümüz, Yemeklerinizi</li>
+            <li>PRON: bazıları, hepsi, çoğu, herkes, kendilerini, çoğunu, hepimiz, birçoğu, çoğunun, hepsinin</li>
+            <li>PROPN: Devletleri'ne, Hizmetleri'ne</li>
+            <li>VERB-Fin: alacağımızdır, bahsetmediğinizdir, kalmalarıdır, yapabileceğimizdir, yönlendirememenizdir</li>
+            <li>VERB-Part: geçtiğimiz, aldıkları, istediğimiz, oldukları, olduğumuz, yaptığımız, Yaşadığımız, bilmeyebileceğimiz, bindiğimiz, bulunduğumuz</li>
+            <li>VERB-Vnoun: oldukları, almanız, kalanlarımız, olduğumuzu, verdiğinizde, vurmanız, yapmamız, Yapabileceğinizi, Yapacakları, akışımız</li>
           </ul>
         </li>
       </ul>
@@ -9095,8 +9661,11 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>NOUN: MİSAFİRİMİZ, ODAMIZ, YEMEKLERİNDEN, REHBERİMİZ, PERSONELLERİNDEN, TADIMIZA, PLANIMIZ, YEMEKLERİNİ, PERSONELLERİ, ACENTAMIZA</li>
-            <li>VERB-Fin: REHBERİMİZDİ, YANIMIZDAYDI</li>
+            <li>ADJ: hoşumuza, iyilerini, çiftlerine, başkalarına, yanımıza, yanımızda, yanımızdaydı</li>
+            <li>NOUN: Misafirimiz, odamız, yemeklerinden, rehberimiz, personellerinden, tadımıza, planımız, yemeklerini, personelleri, acentamıza</li>
+            <li>PRON: hepsi, herkese, herkes, hepsine, Hepsinden, kendimiz, Hepsini, bazıları, kendileri, kendimizi</li>
+            <li>VERB-Part: Verdiğimiz, Ödediğimiz, verdiğiniz, beklediğimiz, kaldığımız, geçirdiğimiz, olduğumuz, aldığımız, ettiğimiz, istediğimiz</li>
+            <li>VERB-Vnoun: gelişimiz, girmemizle, yaşamanızı, yaşayabileceğimizi, Beklediğimizden, dediğimizi, ettiğinizden, geçirmeniz, verdiğiniz, Beklediğimizin</li>
           </ul>
         </li>
       </ul>
@@ -9119,10 +9688,14 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>NOUN: uçuşları, günü, uçuşu, uçuşlarını, havayolları, ihtiyacım, arasında, sabahı, karayolu, arası</li>
-            <li>PROPN: F28'in, Dc'den, Havaaalanı'ndan, M80'in, S'in</li>
-            <li>VERB-Fin: havayoludur, hangisidir, kısaltmasıdır, dilimindedir, havayolunuz</li>
-            <li>VERB-Vnoun: kısaltmasıdır</li>
+            <li>ADJ: aktarmasızları, diğeri, diğerine, ucuzu</li>
+            <li>NOUN: uçuşları, günü, uçuşlarını, havayolları, ihtiyacım, arasında, sabahı, karayolu, arası, ulaşımı</li>
+            <li>NUM: 12'si, 27'sinde, 16'sı, 16'sında, 20'sinde, 733'ün, altısının, beşinde, dokuzu, ikisi</li>
+            <li>PRON: hangisi, biri, neyin, neyi, hangisinin</li>
+            <li>PROPN: F28'in, Dc'den, Havaaalanı'ndan, M80'in</li>
+            <li>VERB-Fin: kısaltmasıdır</li>
+            <li>VERB-Part: alabileceğim, kullandığı, verdiği, yapabileceğim, istediğim, bulabileceğim, olduğu, yaptığı, ayırtabileceğim, gidebileceğim</li>
+            <li>VERB-Vnoun: olduğunu, uçmam, bilmem, dönüşü, zamanlarını, gitmem, kullanıldığını, olmadığını, olmasını, verdiği</li>
           </ul>
         </li>
       </ul>
@@ -9153,8 +9726,12 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>NOUN: başına, parasını, işi, şeyi, altına, günü, üstüne, içinde, karşısında, olduğu</li>
-            <li>VERB-Fin: karısıyım, yengenim, acemisin, aktörüsün, biçimidir, deyimidir, yolundaydı</li>
+            <li>ADJ: karşısında, tamamı, tamamını, Başkalarına, diğerlerine, hoşuna, kirliliğine, kolayını, zorunda, Boşu</li>
+            <li>NOUN: başına, parasını, şeyi, altına, günü, işi, üstüne, içinde, Annesi, aklı</li>
+            <li>NUM: birincisi, Kırkı, altmışını, birine, ikisi, ikisini, ıcığını</li>
+            <li>PRON: kendi, kimse, biri, kendine, kimseye, birbirine, birbiriyle, kendime, kendini, kendisi</li>
+            <li>VERB-Part: aldığı, istediği, yaptığı, gördüğü, sevdiği, verdiği, Yaptığım, attığı, başladığı, bildiği</li>
+            <li>VERB-Vnoun: olduğu, olduğunu, olmadığını, yapacağını, İstediğini, girdiğimde, gördüklerini, istediklerini, olanları, olması</li>
           </ul>
         </li>
       </ul>
@@ -9198,14 +9775,15 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
+            <li>ADJ: karşısında, çoğu, zorunda, biri, birinde, birini, güzelim, azından, başkaları, güzeli</li>
             <li>AUX: değilim</li>
-            <li>NOUN: arasında, olduğunu, içinde, üstünde, üstüne, önünde, altında, başına, gözleri, başını</li>
-            <li>PROPN: Tanrı'm, Allah'ım, Ali'mi, Allah'ımı, Allah'ın, Anadolu'nun, Balıkpazarı'nda, Camii'nde, Dadaloğlu'm, Edirne'si</li>
-            <li>VERB: biridir, biriydi, içindeydi, içindeyiz, işidir, karasıydılar, olmasıdır, biriyim, edindi, erbabıdır</li>
-            <li>VERB-Conv: alışıdır, oluşumdur, verilişidir, yetişkindiler</li>
-            <li>VERB-Fin: biridir, biriydi, içindeydi, içindeyiz, işidir, karasıydılar, biriyim, edindi, erbabıdır, eseridir</li>
-            <li>VERB-Part: olduğudur, çakıştığıdır, ettiğindeyse, geldiğidir, pişireniydi</li>
-            <li>VERB-Vnoun: olmasıdır, akdetmesiydi, anlaşılmasıdır, bastırılmasıydı, benimsenmesidir, bulunmasıdır, büyütmesidir, kavuşmasıydı, konmasıdır, koyabilmesidir</li>
+            <li>NOUN: arasında, içinde, üstünde, üstüne, önünde, altında, başına, gözleri, başını, içine</li>
+            <li>NUM: birini, ikisi, üçü, biri, İkisi, birinde, birine, ikisini, dokuzu, Birincisi</li>
+            <li>PRON: kendi, kendini, biri, birbirine, kendisine, kendimi, kendine, kendisini, kimi, kimse</li>
+            <li>PROPN: Tanrı'm, Allah'ım, Ali'mi, Allah'ımı, Allah'ın, Balıkpazarı'nda, Camii'nde, Dadaloğlu'm, Edirne'si, Eminönü'nde</li>
+            <li>VERB-Fin: olmasıdır, olduğudur, çakıştığıdır, akdetmesiydi, alışıdır, anlaşılmasıdır, bastırılmasıydı, benimsenmesidir, bulunmasıdır, büyütmesidir</li>
+            <li>VERB-Part: olduğu, verdiği, aldığı, geldiği, yaptığı, çıkardığı, bulunduğu, bıraktığı, ettiği, gördüğü</li>
+            <li>VERB-Vnoun: olduğunu, olduğu, olduğuna, olmadığını, olduğundan, olması, geldiği, ettiği, ettiğini, olmasını</li>
           </ul>
         </li>
       </ul>
@@ -9232,14 +9810,15 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
+            <li>ADJ: azından, diğerleri, fazlasını, çoğu, karşıtı, fazlası, karşısında, açığı, diğeri, genelinde</li>
             <li>AUX: değilim, değilsin</li>
-            <li>NOUN: olduğunu, arasında, konusunda, senedi, günü, başına, ayında, tarafından, endeksi, doları</li>
-            <li>PROPN: IBM'in, CEO'su, Corp.'un, Inc.'ın, Lynch'in, onu, Bridge'in, Bronx'u, Colgate'in, OPEC'in</li>
-            <li>VERB: şirketidir, biridir, birimidir, seviyesindeydi, firmasıdır, olmasıdır, yardımcısıydı, başkanıdır, biriydi, eğilimindedir</li>
-            <li>VERB-Conv: arayışındalar, düşüşündedir</li>
-            <li>VERB-Fin: şirketidir, biridir, birimidir, seviyesindeydi, firmasıdır, yardımcısıydı, başkanıdır, biriydi, eğilimindedir, üzerindeydi</li>
-            <li>VERB-Part: olduğudur, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, ettiğidir, getirdiğiydi, kazananıydı, olabileceğidir, olacağıdır, olanıdır</li>
-            <li>VERB-Vnoun: olmasıdır, danışmanlar, alınmasıydı, anlamasıdır, azalmasıdır, açıklanmasıydı, birleşmesiydi, bozulmasıdır, düşmesiydi, düşünmemesiydi</li>
+            <li>NOUN: günü, senedi, arasında, konusunda, başına, ayında, doları, fiyatları, endeksi, hisseleri</li>
+            <li>NUM: ikisi, üçü, birinden, ikisini, İkisi, 10'u, IMA, biri, milyonu, 10'una</li>
+            <li>PRON: kendi, biri, kimse, kendisi, kendini, hiçbiri, kendine, kendisini, birbirine, kendisine</li>
+            <li>PROPN: IBM'in, CEO'su, Corp.'un, Inc.'ın, Bronx'u, OPEC'in, AGIP'in, Amityvilles'inin, Avrupası'nda, Ağustos'unda</li>
+            <li>VERB-Fin: olmasıdır, olduğudur, acımazlığıdır, alınmasıydı, anlamasıdır, azalmasıdır, açıklanmasıydı, bozulmasıdır, dolaşacağıdır, dönüştürülebileceğidir</li>
+            <li>VERB-Part: olduğu, yaptığı, verdiği, ettiği, olmadığı, aldığı, olacağı, gösterdiği, çalıştığı, düştüğü</li>
+            <li>VERB-Vnoun: olduğunu, olacağını, olmadığını, ettiğini, gerektiğini, olduğu, olması, olduğuna, edeceğini, olabileceğini</li>
           </ul>
         </li>
       </ul>
@@ -9248,10 +9827,13 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>AUX: DEĞİLİM</li>
-            <li>NOUN: KONUMU, KALİTESİ, YEMEKLERİ, PERSONELLERİ, DENİZİ, TEMİZLİĞİ, HAVUZU, OLMASI, KARŞILIĞINI, HİZMETİ</li>
-            <li>VERB: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, ÜZERİNDEYDİ, HALİNDEYİZ, YOLUNDAYDI, YORUMUDUR, ÜSTÜNDEYDİ</li>
-            <li>VERB-Fin: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, ÜZERİNDEYDİ, HALİNDEYİZ, YOLUNDAYDI, YORUMUDUR, ÜSTÜNDEYDİ</li>
+            <li>ADJ: hoşuma, memnunum, kararsızım, yetersizliği, çifti, iyisini, çiftlerine, fazlasını, genelinde, güzeli</li>
+            <li>AUX: değilim</li>
+            <li>NOUN: konumu, kalitesi, yemekleri, personelleri, denizi, temizliği, havuzu, karşılığını, hizmeti, faturam</li>
+            <li>NUM: İkisi</li>
+            <li>PRON: kendisi, kendisine, kendisini, biri, kendisiyle, kimse, kendi, kendisinden, birisi, kendim</li>
+            <li>VERB-Part: ödediğim, verdiğim, aldığım, olduğum, olduğu, beklediğim, kalmadığım, belirttiğim, yaşadığım, düşündüğüm</li>
+            <li>VERB-Vnoun: olması, planlamam, çalışmasına, açısından, olmadığını, olmasından, olduğunu, Beklediğimden, olmasına, çalışması</li>
           </ul>
         </li>
       </ul>
@@ -9263,7 +9845,7 @@ udver: '2'
             <li>ADJ: mavisi</li>
             <li>AUX-Part: olduğunu</li>
             <li>NOUN: annesini, Annesinin, arkadaşına, başkenti, kardeşi, kocasına, saçını, Anneannesi, Eşim, Hırkam</li>
-            <li>PRON: kendisine, kinden, kinin</li>
+            <li>PRON: kendisine</li>
             <li>VERB: Okuduklarını, gelebileceğini, okuması, yazdığını, ettiği, okumaması, okumasını, okuyacaklarını, olmaması, uyumasını</li>
             <li>VERB-Part: Okuduklarını, yazdığını, ettiği, okuyacaklarını, yaptığı, yağdığını</li>
             <li>VERB-Vnoun: okuması, okumaması, okumasını, olmaması, uyumasını, uyuyacağını, yapmasına</li>
@@ -9411,13 +9993,83 @@ udver: '2'
   </tr>
   <tr>
     <td width="10%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADJ
+              <ul>
+                <li>ADJ: herhangi, tek</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: Peki</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADP: yanı</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: Ne, Tabi, Öyle, bir, iki</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: ya, ne, hem</li>
+              </ul>
+            </li>
+            <li>DET
+              <ul>
+                <li>DET: bir, her, hiç</li>
+              </ul>
+            </li>
+            <li>INTJ
+              <ul>
+                <li>INTJ: sakın</li>
+              </ul>
+            </li>
+            <li>PRON
+              <ul>
+                <li>PRON: Bir</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADJ
+              <ul>
+                <li>ADJ: Belli</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: öyle, belki, sonra</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>DET: bir</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
       <ul>
@@ -9438,22 +10090,149 @@ udver: '2'
       </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADV
+              <ul>
+                <li>ADV: Yine</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: ya, hem, ve, ne</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="10%" valign="top">
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADJ
+              <ul>
+                <li>ADJ: herhangi, Bir, Eski, belli, birer, tek, ufak, vardı</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: yine, ne, belki, bir, hiç, şöyle, Hep, ilk, ille, karşı</li>
+                <li>DET: bu</li>
+                <li>NOUN: tel, üst, İş</li>
+                <li>NUM: bir</li>
+                <li>PRON: Bu, Bununla, biz, ne</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: ya</li>
+                <li>DET: bir</li>
+              </ul>
+            </li>
+            <li>PRON
+              <ul>
+                <li>PRON: şu</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
 
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADJ
+              <ul>
+                <li>ADJ: herhangi, tabii, Ufak, bir, genel, tam, Ek, geçici, gizli, uzun</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: yine, hemen, belki, en, Hiç, tam, tekrar, Ne, illa, ille</li>
+                <li>DET: bu, o, her, Bir</li>
+                <li>NOUN: yanı, Öte, Aksi, Eninde, Sözüm, arka, karşı</li>
+                <li>PRON: Bununla, Buna</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: Ve, ya</li>
+                <li>DET: bir</li>
+              </ul>
+            </li>
+            <li>INTJ
+              <ul>
+                <li>INTJ: yazık</li>
+              </ul>
+            </li>
+            <li>PRON
+              <ul>
+                <li>PRON: Buna</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>ADJ
+              <ul>
+                <li>ADJ: Herhangi, Bir, Ufak, iyi</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADV: hiç, Bundan</li>
+                <li>DET: Her</li>
+                <li>NOUN: Yeteri</li>
+                <li>PRON: Bu</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: Ya</li>
+              </ul>
+            </li>
+            <li>INTJ
+              <ul>
+                <li>INTJ: Eh</li>
+              </ul>
+            </li>
+            <li>PRON
+              <ul>
+                <li>PRON: Onlar</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="10%" valign="top">
-
-    </td>
-    <td width="10%" valign="top">
-
+      <ul>
+        <li><a>ExtPos</a>
+          <ul>
+            <li>CCONJ
+              <ul>
+                <li>CCONJ: ne</li>
+              </ul>
+            </li>
+            <li>PRON
+              <ul>
+                <li>PRON: kendi</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -9505,20 +10284,28 @@ udver: '2'
           <ul>
             <li>1
               <ul>
-                <li>NOUN: ihtiyacım, uçmam, bilmem, kiralamam, seçeneklerim, gitmem, yapmam, arkadaşım, dönmem, götürmem</li>
+                <li>NOUN: ihtiyacım, kiralamam, seçeneklerim, yapmam, götürmem, Uçuşumu, arkadaşım, ayrılmamdan, bilmem, gitmemi</li>
+                <li>VERB-Part: alabileceğim, yapabileceğim, istediğim, bulabileceğim, ayırtabileceğim, gidebileceğim, olduğum</li>
+                <li>VERB-Vnoun: uçmam, bilmem, gitmem, dönmem, bulabilirim, uçabilmemin</li>
               </ul>
             </li>
             <li>2
               <ul>
-                <li>NOUN: üzerinden, uçuşlarını, uçuşlarınız, uçuşların, uçuşunuz, yn, uçuşun, ücretini, ayarlamalarını, dersiniz</li>
-                <li>VERB-Fin: havayolunuz</li>
+                <li>NOUN: üzerinden, uçuşunuz, uçuşlarınız, yn, ücretini, dersiniz, havayollarını, uçuşlarınızın, uçuşunuzun, ücretlerini</li>
+                <li>NUM: 733'ün</li>
+                <li>PRON: neyin</li>
+                <li>VERB-Vnoun: ettiğini, olacağını, olduğunca, olduğunu, uçacağınızı, uçmanın, verilmediğini</li>
               </ul>
             </li>
             <li>3
               <ul>
-                <li>NOUN: uçuşları, günü, uçuşu, uçuşlarını, havayolları, arasında, sabahı, karayolu, arası, ulaşımı</li>
-                <li>VERB-Fin: havayoludur, hangileridir, hangisidir, kısaltmasıdır, dilimindedir, havayollarıdır</li>
-                <li>VERB-Vnoun: kısaltmasıdır</li>
+                <li>ADJ: aktarmasızları, diğeri, diğerine, ucuzu</li>
+                <li>NOUN: uçuşları, günü, uçuşlarını, havayolları, arasında, sabahı, karayolu, arası, ulaşımı, servisi</li>
+                <li>NUM: 12'si, 27'sinde, 16'sı, 16'sında, 20'sinde, altısının, beşinde, dokuzu, ikisi, sekizi</li>
+                <li>PRON: hangisi, hangileri, biri, neyi, hangisinin, hepsi, hepsini, çoğunu</li>
+                <li>VERB-Fin: kısaltmasıdır</li>
+                <li>VERB-Part: kullandığı, verdiği, olduğu, yaptığı, kullandıkları, uçtuğu</li>
+                <li>VERB-Vnoun: olduğunu, dönüşü, zamanlarını, kullanıldığını, olmadığını, olmasını, verdiği, olması, bağlandığını, edilmesini</li>
               </ul>
             </li>
           </ul>
@@ -9586,19 +10373,31 @@ udver: '2'
           <ul>
             <li>1
               <ul>
-                <li>NOUN: babam, annem, başım, abim, belim, girdiğimde, gözlerimi, Cildim, Saçlarımı, aram</li>
+                <li>ADJ: güzelim, karşıma, varımı</li>
+                <li>NOUN: babam, annem, başım, abim, belim, gözlerimi, Cildim, Saçlarımı, aram, aramızda</li>
+                <li>NUM: İkimiz</li>
+                <li>PRON: hepimizin, kendime, hepimizi, Hiçbirimizi, Kendimi, hepimiz, hepimize, kendimize</li>
+                <li>VERB-Part: Yaptığım, istediğim, Aldığım, Beklemediğimiz, Oynadığım, aldığımız, anlattığım, başladığımız, bıraktığım, durduğum</li>
+                <li>VERB-Vnoun: girdiğimde, gittiğimde, gördüğümde, Duyduklarımı, Gördüklerim, Oturduğumuz, Söylediklerimden, Söylediklerime, aldığımı, basmamız</li>
               </ul>
             </li>
             <li>2
               <ul>
+                <li>ADJ: elimdekini, güzellerini, hazırsın, ustalarının, ustanın</li>
                 <li>NOUN: Güveniniz, aklından, amcanın, ağzını, başına, dişinden, elindekini, gözünü, hatırında, suyun</li>
-                <li>VERB-Fin: yengenim</li>
+                <li>NUM: ıcığını</li>
+                <li>VERB-Part: istediğin, yaptığın, Aldığın, Oturduğunuz, Yediğiniz, sezdiğin</li>
+                <li>VERB-Vnoun: Söylediklerinizi, Söylediklerinizin, Yenildiğini, değiştirmen, meyletmene, oturacağına, yatman, çıkacağını, İstediğini</li>
               </ul>
             </li>
             <li>3
               <ul>
-                <li>NOUN: parasını, başına, işi, şeyi, altına, günü, üstüne, içinde, karşısında, olduğu</li>
-                <li>VERB-Fin: karısıyım, acemisin, aktörüsün, biçimidir, deyimidir, yolundaydı</li>
+                <li>ADJ: karşısında, tamamı, tamamını, Başkalarına, diğerlerine, hoşuna, kirliliğine, kolayını, zorunda, Boşu</li>
+                <li>NOUN: parasını, başına, şeyi, altına, günü, işi, üstüne, içinde, Annesi, aklı</li>
+                <li>NUM: birincisi, Kırkı, altmışını, birine, ikisi, ikisini</li>
+                <li>PRON: herkes, kendi, hepsini, kimse, biri, herkese, kendine, kimseye, birbirine, birbiriyle</li>
+                <li>VERB-Part: aldığı, istediği, yaptığı, gördüğü, sevdiği, verdiği, attığı, başladığı, bildiği, ettiği</li>
+                <li>VERB-Vnoun: olduğu, olduğunu, olmadığını, yapacağını, gördüklerini, istediklerini, olanları, olması, söylediklerini, yaptığını</li>
               </ul>
             </li>
           </ul>
@@ -9699,32 +10498,36 @@ udver: '2'
           <ul>
             <li>1
               <ul>
+                <li>ADJ: güzelim, gözlüm, cicim, isterikliğimde, karşıma, karşımda, küçüğüm, tuhafıma, Dostluğumuz, Karşımızda</li>
                 <li>AUX: değilim</li>
-                <li>NOUN: benim, babam, bizim, annem, canım, annemin, aramızda, başım, babamın, başımı</li>
-                <li>VERB: ezberimdeydi, ihtiyaçlarımızdır, müzelerimizdedir, Dedemler, amcamlar, annemdi, ağrımsın, bizimdi, büyüğümsün, davamızdır</li>
-                <li>VERB-Conv: oluşumdur</li>
-                <li>VERB-Fin: ezberimdeydi, ihtiyaçlarımızdır, müzelerimizdedir, annemdi, ağrımsın, bizimdi, büyüğümsün, davamızdır, düzümdür, düşmanımdır</li>
-                <li>VERB-Vnoun: sevişmelerimiz</li>
+                <li>NOUN: babam, benim, annem, bizim, canım, annemin, aramızda, başım, babamın, başımı</li>
+                <li>NUM: İkimiz, Üçümüz, ikimiz, ikimizi, ikimize, yüzüm, yüzüme, İkimizde, İkimize, İkimizin</li>
+                <li>PRON: kendimi, kendime, hepimiz, hepimizi, kendimize, birbirimize, kendim, kendimde, birbirimizi, Kimimiz</li>
+                <li>VERB-Fin: inanmışımdır, sevişmelerimiz</li>
+                <li>VERB-Part: ettiğim, aldığım, olduğum, sevdiğim, başladığım, kaldığım, verdiğim, bilmediğim, dediğim, dediğimiz</li>
+                <li>VERB-Vnoun: olduğumu, olduğumuz, olduğumuzu, bilmem, gördüğüm, almamız, duyduğum, ettiğimi, gitmem, karıştırdığımdan</li>
               </ul>
             </li>
             <li>2
               <ul>
-                <li>NOUN: üzerine, üzerinde, yüzünü, gözlerini, kadın, yüzüne, baştan, suyun, yüzünde, birinde</li>
-                <li>VERB: edindi, alınmış, edindim, efendiler, Boyanmış, Kadınınsa, biçimindedir, coğrafyacılarındandır, dokundu, düşündü</li>
-                <li>VERB-Conv: yetişkindiler</li>
-                <li>VERB-Fin: edindi, alınmış, edindim, efendiler, Boyanmış, Kadınınsa, biçimindedir, coğrafyacılarındandır, dokundu, düşündü</li>
-                <li>VERB-Part: ettiğindeyse</li>
-                <li>VERB-Vnoun: öğretmenler</li>
+                <li>ADJ: baştan, hissini, birinde, belini, birini, peşinden, Karşında, aklın, alsın, bazısının</li>
+                <li>NOUN: üzerine, üzerinde, yüzünü, yüzüne, gözlerini, kadın, uğruna, yüzünde, serin, suyun</li>
+                <li>NUM: birinde, birini, yüzünü, İkiniz, Onun, beşini, ikisini, ikisinin, yüzünde</li>
+                <li>PRON: kendinizi, neyin, Birbirinizin, hepiniz, hepinize, hepinizi, kendinde, kendini, kendinize, kimin</li>
+                <li>VERB-Fin: ettiğindeyse, çıkarsınlar, öğretmenler</li>
+                <li>VERB-Part: gördüğünüz, yaptığın, ettiğin, istediğin, olduğunuz, Bastığın, esirgediğiniz, gördüğün, söylediğin, yaptığınız</li>
+                <li>VERB-Vnoun: olabileceğini, olduğunu, dediklerini, gözlerine, istediğin, kalacaklarını, olduğuna, uyuyakaldığını, uğramanız, vermen</li>
               </ul>
             </li>
             <li>3
               <ul>
-                <li>NOUN: arasında, olduğunu, içinde, üstünde, üstüne, önünde, altında, başına, gözleri, başını</li>
-                <li>VERB: biridir, biriydi, içindeydi, içindeyiz, işidir, karasıydılar, olmasıdır, biriyim, erbabıdır, eseridir</li>
-                <li>VERB-Conv: alışıdır, verilişidir</li>
-                <li>VERB-Fin: biridir, biriydi, içindeydi, içindeyiz, işidir, karasıydılar, biriyim, erbabıdır, eseridir, ilkidir</li>
-                <li>VERB-Part: olduğudur, çakıştığıdır, geldiğidir, gelenlerindendir, pişireniydi</li>
-                <li>VERB-Vnoun: olmasıdır, akdetmesiydi, anlaşılmasıdır, bastırılmasıydı, benimsenmesidir, bulunmasıdır, büyütmesidir, istemeleriydi, kavuşmasıydı, konmasıdır</li>
+                <li>ADJ: karşısında, çoğu, zorunda, biri, başkalarının, azından, başkaları, başkalarına, güzeli, gençleri</li>
+                <li>NOUN: arasında, içinde, üstünde, üstüne, önünde, altında, başına, gözleri, başını, içine</li>
+                <li>NUM: birini, ikisi, üçü, biri, İkisi, birinde, birine, dokuzu, ikisini, Birincisi</li>
+                <li>PRON: kendi, kendini, biri, hepsi, birbirine, kendisine, herkes, kendine, kendisini, kimi</li>
+                <li>VERB-Fin: olmasıdır, olduğudur, çakıştığıdır, akdetmesiydi, alışıdır, anlaşılmasıdır, bastırılmasıydı, benimsenmesidir, bulunmasıdır, büyütmesidir</li>
+                <li>VERB-Part: olduğu, verdiği, aldığı, geldiği, yaptığı, çıkardığı, bulunduğu, bıraktığı, ettiği, gördüğü</li>
+                <li>VERB-Vnoun: olduğunu, olduğu, olduğuna, olduğundan, olmadığını, olması, geldiği, olduklarını, ettiği, olmasını</li>
               </ul>
             </li>
           </ul>
@@ -9775,29 +10578,37 @@ udver: '2'
           <ul>
             <li>1
               <ul>
+                <li>ADJ: eminim</li>
                 <li>AUX: değilim</li>
-                <li>NOUN: benim, bizim, satım, toplam, alım, devam, ihtiyacımız, olduğum, IMA, arkadaşım</li>
-                <li>VERB-Fin: bahçemizdeydik, kararımdı, yeteneğimizdir, üzerimizdeydi</li>
-                <li>VERB-Part: alacağımızdır, yapabileceğimizdir</li>
+                <li>NOUN: benim, bizim, ihtiyacımız, arkadaşım, günümüzde, günümüzün, sözüm, telefonlarımıza, Dudaklarımı, Görüşümüz</li>
+                <li>NUM: IMA</li>
+                <li>PRON: hepimiz, kendimi, kendim, hepimizin, çoğumuz, Birçoğumuz</li>
+                <li>VERB-Fin: alacağımızdır, yapabileceğimizdir</li>
+                <li>VERB-Part: geçtiğimiz, aldığım, istediğimiz, katıldığım, olduğumuz, sevdiğim, yaptığımız, Aradığım, Bildiğim, Okuduğum</li>
+                <li>VERB-Vnoun: olduğum, istediğimi, olduğumu, kalanlarımız, olduğumuzu, yapmamız, Sanırım, akışımız, alacağımızı, aldığımı</li>
               </ul>
             </li>
             <li>2
               <ul>
+                <li>ADJ: aksini, peşinden, tersine, Talini, alacaklıların, alındı, alışkanlıklarını, azından, açıkların, diğerlerinin</li>
                 <li>AUX: değilsin</li>
-                <li>NOUN: üzerinde, üzerinden, altında, tarafından, azından, satın, yılının, üzerine, içinde, süren</li>
-                <li>VERB-Fin: üzerindeydi, düşündü, üzerindedir, alındı, ayrılığındaydı, değerindedir, sürendir, üzerindeyim, üzerinedir, üzgünüm</li>
-                <li>VERB-Part: bahsetmediğinizdir</li>
-                <li>VERB-Vnoun: danışmanlar, gözetmenler, yönlendirememenizdir</li>
+                <li>NOUN: üzerinde, üzerinden, üzerine, altında, satın, üzerindeydi, tarafından, zamankinden, hikayen, içinde</li>
+                <li>NUM: 1988'dekinden, 32'ini, İkisinin</li>
+                <li>PRON: neyin, kendinden, kendinizi</li>
+                <li>VERB-Fin: bahsetmediğinizdir, yönlendirememenizdir</li>
+                <li>VERB-Part: destekleyebileceğin, istemediğin, olabileceğiniz, sevdiğiniz, yapabildiğiniz, yapacağınız, yazdığınız, ödeyebileceğiniz</li>
+                <li>VERB-Vnoun: almanız, olman, verdiğinizde, vurmanız, Yapabileceğinizi, alacağını, almanızı, araştırmalarının, artışın, ayrıldığını</li>
               </ul>
             </li>
             <li>3
               <ul>
-                <li>NOUN: olduğunu, arasında, konusunda, senedi, günü, başına, ayında, tarafından, hisseleri, endeksi</li>
-                <li>VERB: şirketidir, biridir, birimidir, seviyesindeydi, firmasıdır, olmasıdır, yardımcısıydı, başkanıdır, biriydi, eğilimindedir</li>
-                <li>VERB-Conv: arayışındalar, düşüşündedir</li>
-                <li>VERB-Fin: şirketidir, biridir, birimidir, seviyesindeydi, firmasıdır, yardımcısıydı, başkanıdır, biriydi, eğilimindedir, altındaydı</li>
-                <li>VERB-Part: olduğudur, dolaşacağıdır, dönüştürülebileceğidir, düşündüğüdür, ettiğidir, getirdiğiydi, kazananıydı, olabileceğidir, olacağıdır, olanıdır</li>
-                <li>VERB-Vnoun: olmasıdır, alınmasıydı, anlamasıdır, azalmasıdır, açıklanmasıydı, birleşmesiydi, bozulmasıdır, düşmesiydi, düşünmemesiydi, etmesidir</li>
+                <li>ADJ: azından, diğerleri, fazlasını, çoğu, karşıtı, fazlası, karşısında, açığı, diğeri, genelinde</li>
+                <li>NOUN: günü, senedi, arasında, konusunda, başına, ayında, fiyatları, doları, endeksi, hisseleri</li>
+                <li>NUM: ikisi, üçü, birinden, ikisini, İkisi, 10'u, biri, milyonu, 10'una, 10'unun</li>
+                <li>PRON: kendi, biri, bazıları, hepsi, kimse, kendisi, kendini, çoğu, herkes, hiçbiri</li>
+                <li>VERB-Fin: olmasıdır, olduğudur, acımazlığıdır, alınmasıydı, anlamasıdır, azalmasıdır, açıklanmasıydı, bozulmasıdır, dolaşacağıdır, dönüştürülebileceğidir</li>
+                <li>VERB-Part: olduğu, yaptığı, verdiği, ettiği, olmadığı, aldığı, olacağı, gösterdiği, çalıştığı, düştüğü</li>
+                <li>VERB-Vnoun: olduğunu, olacağını, olmadığını, ettiğini, gerektiğini, olduğu, olması, olduğuna, edeceğini, olabileceğini</li>
               </ul>
             </li>
           </ul>
@@ -9810,22 +10621,31 @@ udver: '2'
           <ul>
             <li>1
               <ul>
-                <li>AUX: DEĞİLİM</li>
-                <li>NOUN: FATURAM, MİSAFİRİMİZ, ODAMIZ, EŞİM, REHBERİMİZ, ODAM, ARKADAŞIM, TADIMIZA, HOŞUMA, ODAMDAN</li>
-                <li>VERB-Fin: REHBERİMİZDİ, ALMADIM, ARKADAŞIMDI, TAVSİYEMDİR, YANIMIZDAYDI</li>
+                <li>ADJ: hoşuma, memnunum, kararsızım, hoşumuza, beraberimde, yanımıza, yanımızda, yanımızdaydı</li>
+                <li>AUX: değilim</li>
+                <li>NOUN: faturam, Misafirimiz, odamız, eşim, rehberimiz, odam, arkadaşım, tadımıza, odamdan, planımız</li>
+                <li>PRON: kendimiz, kendim, kendimizi</li>
+                <li>VERB-Part: ödediğim, verdiğim, aldığım, olduğum, Verdiğimiz, beklediğim, kalmadığım, belirttiğim, yaşadığım, düşündüğüm</li>
+                <li>VERB-Vnoun: planlamam, Beklediğimden, alamadığımı, kalmadığım, kalmadığımdan, umduğumdan, aldığımı, gelişimiz, girmemizle, yaşayabileceğimizi</li>
               </ul>
             </li>
             <li>2
               <ul>
-                <li>NOUN: ÜZERİNDEN, YURTDIŞINDA, OTELİNİZDEN, TURAN, AN, KARŞIN, KUSURUNUZ, OTELİNİZİ, PARANIZIN, YAŞAMANIZI</li>
-                <li>VERB: ÜZERİNDEYDİ, YURTDIŞINDAYIM, ALTINDAYDI, İNSANDI, İNSANLAR</li>
-                <li>VERB-Fin: ÜZERİNDEYDİ, YURTDIŞINDAYIM, ALTINDAYDI, İNSANDI</li>
+                <li>ADJ: tarihinde, iyisini</li>
+                <li>NOUN: üzerinden, yurtdışında, üzerindeydi, Otelinizden, Otelinizi, an, kusurunuz, paranızın, turan, Kampanyalarınızdan</li>
+                <li>PRON: Kendiniz</li>
+                <li>VERB-Part: verdiğiniz, istediğiniz, yapacağınız, Gönderdiğiniz, aldığınız, bulabileceğiniz, bulamayacağınız, oturabileceğiniz, tadamayacağınız, yiyebileceğin</li>
+                <li>VERB-Vnoun: yaşamanızı, ettiğinizden, geçirmeniz, verdiğiniz, Netleştiğinde, anlamayacağınızın, araştırmanız, bulamadığın, bulmanız, bırakmamanızı</li>
               </ul>
             </li>
             <li>3
               <ul>
-                <li>NOUN: KONUMU, KALİTESİ, YEMEKLERİ, PERSONELLERİ, DENİZİ, TEMİZLİĞİ, HAVUZU, OLMASI, KARŞILIĞINI, HİZMETİ</li>
-                <li>VERB-Fin: ADINAYDI, ALTINDAYDI, BİRİYDİ, MERKEZİYDİ, OTELİYDİ, HALİNDEYİZ, YOLUNDAYDI, YORUMUDUR, ÜSTÜNDEYDİ, İÇERİSİNDEYİZ</li>
+                <li>ADJ: yetersizliği, çifti, çiftlerine, iyilerini, fazlasını, genelinde, güzeli, iyisini, yanı, yeteri</li>
+                <li>NOUN: konumu, kalitesi, yemekleri, personelleri, denizi, temizliği, havuzu, karşılığını, hizmeti, olanakları</li>
+                <li>NUM: İkisi</li>
+                <li>PRON: hepsi, herkese, kendisi, herkes, hepsine, kendisine, Hepsinden, kendisini, biri, Hepsini</li>
+                <li>VERB-Part: olduğu, bulunduğu, Aldığı, istediği, olmadığı, başladığı, ettiği, gideceği, seçtiği, yaşattığı</li>
+                <li>VERB-Vnoun: olması, çalışmasına, açısından, olmadığını, olmasından, olduğunu, olmasına, çalışması, düşünmediğini, geleni</li>
               </ul>
             </li>
           </ul>
@@ -9845,8 +10665,7 @@ udver: '2'
             </li>
             <li>2
               <ul>
-                <li>NOUN: arkadaşınla, Çocuğun</li>
-                <li>PRON: kinden</li>
+                <li>NOUN: arkadaşınla, kinden, Çocuğun</li>
                 <li>VERB: gelebileceğini, Okuduğunuzu</li>
                 <li>VERB-Part: Okuduğunuzu</li>
               </ul>
@@ -9856,7 +10675,7 @@ udver: '2'
                 <li>ADJ: mavisi</li>
                 <li>AUX-Part: olduğunu</li>
                 <li>NOUN: annesini, Annesinin, arkadaşına, başkenti, kardeşi, kocasına, saçını, zamanında, Anneannesi, akşamları</li>
-                <li>PRON: birbirlerini, kendisine, kinin</li>
+                <li>PRON: birbirlerini, kendisine</li>
                 <li>VERB-Part: Okuduklarını, yazdığını, ettiği, okuyacaklarını, yaptığı, yağdığını</li>
                 <li>VERB-Vnoun: okuması, okumaması, okumasını, olmaması, uyumasını, uyuyacağını, yapmasına</li>
               </ul>
@@ -9915,11 +10734,11 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADV: Bir, içinde</li>
+                <li>ADV: içinde</li>
                 <li>DET: bir</li>
-                <li>NOUN: uluslar, $', Blues, Hafta, an, firmalarında, kredisi, yurt, yüzyıl, Şirketi</li>
-                <li>NUM: %, 1/2, 10, 1987, 2117.1, 215.48, 2603.48, 2645.08, 2683.20, 498</li>
-                <li>PROPN: Provigo, A.B.D., Co, Co., Concerto, Corp, Denny's, EST, Japonya, Malezya</li>
+                <li>NOUN: $', uluslar, Blues, Hafta, an, firmalarında, kredisi, yurt, yüzyıl, Şirketi</li>
+                <li>NUM: %, 1987, 2117.1, 215.48, 2603.48, 2645.08, 2683.20, 498, 51, 527</li>
+                <li>PROPN: Provigo, A.B.D., Co, Co., Corp, Denny's, EST, Japonya, Malezya, Moody's</li>
               </ul>
             </li>
           </ul>
@@ -9932,11 +10751,12 @@ udver: '2'
           <ul>
             <li>Yes
               <ul>
-                <li>ADJ: GİTTİĞİMİZ</li>
-                <li>DET: HER</li>
-                <li>NOUN: HOTELDE, TEMMUZ, YEMEKLER, DERECE, ODA, RESTORAN, AN, ELEŞTİRİ, KAHVALTI, KARACA</li>
+                <li>ADJ: karaca</li>
+                <li>DET: Her</li>
+                <li>NOUN: Yemekler, hotelde, temmuz, Restoran, derece, oda, Kahvaltı, Sahil, Voucher, an</li>
                 <li>NUM: 11, 5, 50</li>
-                <li>PROPN: ETS, ALLAH, BODRUM, GÖKMEN, HİLTON, YUNANİSTAN</li>
+                <li>PROPN: Ets, Allah, Bodrum, Gökmen, Hilton, Yunanistan</li>
+                <li>VERB-Part: gittiğimiz</li>
               </ul>
             </li>
           </ul>
@@ -10099,15 +10919,14 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN-Nom (1)</li>
-            <li>VERB-Conv--NOUN-Nom (3)</li>
-            <li>VERB-Fin--NOUN-Acc (49)</li>
-            <li>VERB-Fin--NOUN-Gen (2)</li>
-            <li>VERB-Fin--NOUN-Nom (849)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(ilk) (1)</li>
-            <li>VERB-Fin--PRON (3)</li>
-            <li>VERB-Vnoun--NOUN-Acc (4)</li>
-            <li>VERB-Vnoun--NOUN-Nom (4)</li>
+            <li>VERB-Conv--NOUN-Nom (1)</li>
+            <li>VERB-Fin--NOUN-Acc (35)</li>
+            <li>VERB-Fin--NOUN-Nom (261)</li>
+            <li>VERB-Fin--PRON-Nom (3)</li>
+            <li>VERB-Part--NOUN-Nom (6)</li>
+            <li>VERB-Vnoun--NOUN-Acc (2)</li>
+            <li>VERB-Vnoun--NOUN-Gen (4)</li>
+            <li>VERB-Vnoun--NOUN-Nom (1)</li>
           </ul>
         </li>
       </ul>
@@ -10121,12 +10940,12 @@ udver: '2'
           <ul>
             <li>VERB--NOUN (2)</li>
             <li>VERB--NOUN-Abl (1)</li>
-            <li>VERB--NOUN-Acc (64)</li>
+            <li>VERB--NOUN-Acc (69)</li>
             <li>VERB--NOUN-Dat (7)</li>
             <li>VERB--NOUN-Gen (60)</li>
             <li>VERB--NOUN-Ins (3)</li>
             <li>VERB--NOUN-Loc (2)</li>
-            <li>VERB--NOUN-Nom (2004)</li>
+            <li>VERB--NOUN-Nom (2006)</li>
             <li>VERB--NOUN-Nom-ADP(dahil) (1)</li>
             <li>VERB--NOUN-Nom-ADP(dâhi) (1)</li>
             <li>VERB--NOUN-Nom-ADP(ile) (4)</li>
@@ -10137,26 +10956,26 @@ udver: '2'
             <li>VERB--PRON-Gen-ADP(kiler) (1)</li>
             <li>VERB--PRON-Ins (1)</li>
             <li>VERB--PRON-Loc-ADP(de) (1)</li>
-            <li>VERB--PRON-Nom (409)</li>
+            <li>VERB--PRON-Nom (408)</li>
             <li>VERB--PRON-Nom-ADP(kadar) (1)</li>
             <li>VERB-Conv--NOUN-Acc (7)</li>
             <li>VERB-Conv--NOUN-Gen (19)</li>
-            <li>VERB-Conv--NOUN-Nom (88)</li>
+            <li>VERB-Conv--NOUN-Nom (89)</li>
             <li>VERB-Conv--PRON-Acc (1)</li>
             <li>VERB-Conv--PRON-Gen (2)</li>
             <li>VERB-Conv--PRON-Nom (17)</li>
             <li>VERB-Part--NOUN-ADP('nin) (1)</li>
-            <li>VERB-Part--NOUN-Acc (45)</li>
+            <li>VERB-Part--NOUN-Acc (48)</li>
             <li>VERB-Part--NOUN-Dat (2)</li>
-            <li>VERB-Part--NOUN-Gen (447)</li>
+            <li>VERB-Part--NOUN-Gen (448)</li>
             <li>VERB-Part--NOUN-Ins (6)</li>
             <li>VERB-Part--NOUN-Loc (1)</li>
-            <li>VERB-Part--NOUN-Nom (668)</li>
+            <li>VERB-Part--NOUN-Nom (669)</li>
             <li>VERB-Part--NOUN-Nom-ADP(ile) (3)</li>
             <li>VERB-Part--PRON-Abl (1)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
             <li>VERB-Part--PRON-Gen (53)</li>
-            <li>VERB-Part--PRON-Nom (113)</li>
+            <li>VERB-Part--PRON-Nom (112)</li>
             <li>VERB-Vnoun--NOUN-Acc (9)</li>
             <li>VERB-Vnoun--NOUN-Dat (1)</li>
             <li>VERB-Vnoun--NOUN-Gen (216)</li>
@@ -10175,20 +10994,34 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
+            <li>VERB-Conv--NOUN-Acc (1)</li>
+            <li>VERB-Conv--NOUN-Loc (1)</li>
+            <li>VERB-Conv--NOUN-Nom (27)</li>
+            <li>VERB-Conv--PRON-Nom (7)</li>
+            <li>VERB-Fin--NOUN (3)</li>
             <li>VERB-Fin--NOUN-Abl-ADP(beri) (1)</li>
             <li>VERB-Fin--NOUN-Abl-ADP(ötürü) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (26)</li>
-            <li>VERB-Fin--NOUN-Dat (4)</li>
+            <li>VERB-Fin--NOUN-Acc (25)</li>
+            <li>VERB-Fin--NOUN-Dat (2)</li>
             <li>VERB-Fin--NOUN-Gen (3)</li>
             <li>VERB-Fin--NOUN-Loc (1)</li>
-            <li>VERB-Fin--NOUN-Nom (827)</li>
+            <li>VERB-Fin--NOUN-Nom (773)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(bile) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(da) (3)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(de) (3)</li>
-            <li>VERB-Fin--PRON (112)</li>
-            <li>VERB-Fin--PRON-ADP(da) (3)</li>
-            <li>VERB-Fin--PRON-ADP(de) (3)</li>
-            <li>VERB-Vnoun--PRON (1)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(de) (2)</li>
+            <li>VERB-Fin--PRON-Gen (1)</li>
+            <li>VERB-Fin--PRON-Nom (110)</li>
+            <li>VERB-Fin--PRON-Nom-ADP(da) (3)</li>
+            <li>VERB-Fin--PRON-Nom-ADP(de) (3)</li>
+            <li>VERB-Part--NOUN-Abl-ADP(beri) (1)</li>
+            <li>VERB-Part--NOUN-Acc (2)</li>
+            <li>VERB-Part--NOUN-Gen (7)</li>
+            <li>VERB-Part--NOUN-Nom (24)</li>
+            <li>VERB-Part--PRON-Gen (3)</li>
+            <li>VERB-Vnoun--NOUN-Gen (22)</li>
+            <li>VERB-Vnoun--NOUN-Nom (20)</li>
+            <li>VERB-Vnoun--PRON-Gen (5)</li>
+            <li>VERB-Vnoun--PRON-Nom (2)</li>
           </ul>
         </li>
       </ul>
@@ -10240,14 +11073,14 @@ udver: '2'
             <li>VERB--NOUN-Gen (6)</li>
             <li>VERB--NOUN-Ins (2)</li>
             <li>VERB--NOUN-Loc-ADP(ki) (2)</li>
-            <li>VERB--NOUN-Nom (1064)</li>
+            <li>VERB--NOUN-Nom (1065)</li>
             <li>VERB--NOUN-Nom-ADP(_) (2)</li>
             <li>VERB--NOUN-Nom-ADP(ile)-ADP(birlikte) (1)</li>
             <li>VERB--PRON-Acc (1)</li>
             <li>VERB--PRON-Gen (3)</li>
             <li>VERB--PRON-Gen-ADP(ki) (1)</li>
             <li>VERB--PRON-Ins (1)</li>
-            <li>VERB--PRON-Nom (306)</li>
+            <li>VERB--PRON-Nom (307)</li>
             <li>VERB--PRON-Nom-ADP(kadar) (1)</li>
             <li>VERB-Conv--NOUN-Abl (1)</li>
             <li>VERB-Conv--NOUN-Acc (4)</li>
@@ -10288,50 +11121,70 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--PRON-ADP(de) (1)</li>
-            <li>VERB-Conv--NOUN-Ins (1)</li>
-            <li>VERB-Conv--NOUN-Nom (16)</li>
-            <li>VERB-Fin--NOUN (2)</li>
+            <li>VERB-Conv--NOUN (2)</li>
+            <li>VERB-Conv--NOUN-Acc (6)</li>
+            <li>VERB-Conv--NOUN-Acc-ADP(bile) (1)</li>
+            <li>VERB-Conv--NOUN-Dat (1)</li>
+            <li>VERB-Conv--NOUN-Gen (7)</li>
+            <li>VERB-Conv--NOUN-Loc (2)</li>
+            <li>VERB-Conv--NOUN-Nom (248)</li>
+            <li>VERB-Conv--NOUN-Nom-ADP(da) (1)</li>
+            <li>VERB-Conv--PRON-Acc (1)</li>
+            <li>VERB-Conv--PRON-Gen (1)</li>
+            <li>VERB-Conv--PRON-Nom (42)</li>
+            <li>VERB-Fin--NOUN (52)</li>
             <li>VERB-Fin--NOUN-Abl (1)</li>
             <li>VERB-Fin--NOUN-Abl-ADP(fazla) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (177)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(bile) (1)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(de) (2)</li>
-            <li>VERB-Fin--NOUN-Dat (9)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(kadar) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (50)</li>
-            <li>VERB-Fin--NOUN-Ins (17)</li>
+            <li>VERB-Fin--NOUN-Acc (86)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(de) (1)</li>
+            <li>VERB-Fin--NOUN-Dat (5)</li>
+            <li>VERB-Fin--NOUN-Gen (34)</li>
+            <li>VERB-Fin--NOUN-Ins (12)</li>
             <li>VERB-Fin--NOUN-Loc (2)</li>
-            <li>VERB-Fin--NOUN-Nom (6283)</li>
+            <li>VERB-Fin--NOUN-Nom (5029)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(barmen) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(bile) (7)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(da) (13)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(bile) (5)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(da) (11)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(dahi) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(de) (18)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(falan) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(i) (2)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(de) (8)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(i) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(için) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(ki) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(kredi) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(üzere) (1)</li>
-            <li>VERB-Fin--PRON (1013)</li>
-            <li>VERB-Fin--PRON-ADP(bari) (1)</li>
-            <li>VERB-Fin--PRON-ADP(da) (6)</li>
-            <li>VERB-Fin--PRON-ADP(de) (24)</li>
-            <li>VERB-Fin--PRON-ADP(gibi) (1)</li>
-            <li>VERB-Fin--PRON-ADP(i) (1)</li>
-            <li>VERB-Fin--PRON-ADP(kadar) (2)</li>
-            <li>VERB-Fin--PRON-ADP(ki) (1)</li>
-            <li>VERB-Part--NOUN-Dat (1)</li>
-            <li>VERB-Part--NOUN-Gen (3)</li>
-            <li>VERB-Part--NOUN-Nom (7)</li>
-            <li>VERB-Part--PRON (2)</li>
-            <li>VERB-Part--PRON-ADP(da) (1)</li>
-            <li>VERB-Vnoun--NOUN-Acc (3)</li>
-            <li>VERB-Vnoun--NOUN-Gen (2)</li>
-            <li>VERB-Vnoun--NOUN-Nom (45)</li>
-            <li>VERB-Vnoun--NOUN-Nom-ADP(da) (1)</li>
-            <li>VERB-Vnoun--PRON (4)</li>
+            <li>VERB-Fin--PRON-Acc (5)</li>
+            <li>VERB-Fin--PRON-Acc-ADP(de) (1)</li>
+            <li>VERB-Fin--PRON-Dat (4)</li>
+            <li>VERB-Fin--PRON-Gen (6)</li>
+            <li>VERB-Fin--PRON-Gen-ADP(gibi) (1)</li>
+            <li>VERB-Fin--PRON-Nom (879)</li>
+            <li>VERB-Fin--PRON-Nom-ADP(bari) (1)</li>
+            <li>VERB-Fin--PRON-Nom-ADP(da) (7)</li>
+            <li>VERB-Fin--PRON-Nom-ADP(de) (19)</li>
+            <li>VERB-Fin--PRON-Nom-ADP(kadar) (2)</li>
+            <li>VERB-Part--NOUN (3)</li>
+            <li>VERB-Part--NOUN-Acc (9)</li>
+            <li>VERB-Part--NOUN-Dat (2)</li>
+            <li>VERB-Part--NOUN-Gen (97)</li>
+            <li>VERB-Part--NOUN-Ins (1)</li>
+            <li>VERB-Part--NOUN-Nom (328)</li>
+            <li>VERB-Part--NOUN-Nom-ADP(bil) (1)</li>
+            <li>VERB-Part--NOUN-Nom-ADP(da) (1)</li>
+            <li>VERB-Part--NOUN-Nom-ADP(tarafından) (1)</li>
+            <li>VERB-Part--PRON-Acc (2)</li>
+            <li>VERB-Part--PRON-Gen (19)</li>
+            <li>VERB-Part--PRON-Nom (28)</li>
+            <li>VERB-Part--PRON-Nom-ADP(ki) (1)</li>
+            <li>VERB-Vnoun--NOUN (6)</li>
+            <li>VERB-Vnoun--NOUN-Acc (6)</li>
+            <li>VERB-Vnoun--NOUN-Dat (1)</li>
+            <li>VERB-Vnoun--NOUN-Gen (265)</li>
+            <li>VERB-Vnoun--NOUN-Ins (3)</li>
+            <li>VERB-Vnoun--NOUN-Nom (252)</li>
+            <li>VERB-Vnoun--PRON-Acc (2)</li>
+            <li>VERB-Vnoun--PRON-Dat (1)</li>
+            <li>VERB-Vnoun--PRON-Gen (56)</li>
+            <li>VERB-Vnoun--PRON-Gen-ADP(de) (1)</li>
+            <li>VERB-Vnoun--PRON-Ins (1)</li>
+            <li>VERB-Vnoun--PRON-Nom (40)</li>
           </ul>
         </li>
       </ul>
@@ -10372,43 +11225,55 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN-Nom (12)</li>
-            <li>VERB--PRON (2)</li>
-            <li>VERB--PRON-ADP(da) (1)</li>
-            <li>VERB-Conv--NOUN-Acc (1)</li>
-            <li>VERB-Conv--NOUN-Loc (1)</li>
-            <li>VERB-Conv--NOUN-Nom (5)</li>
-            <li>VERB-Fin--NOUN (1)</li>
+            <li>VERB-Conv--NOUN-Acc (7)</li>
+            <li>VERB-Conv--NOUN-Dat (1)</li>
+            <li>VERB-Conv--NOUN-Gen (1)</li>
+            <li>VERB-Conv--NOUN-Nom (313)</li>
+            <li>VERB-Conv--NOUN-Nom-ADP(de) (1)</li>
+            <li>VERB-Conv--PRON-Gen (1)</li>
+            <li>VERB-Conv--PRON-Nom (8)</li>
+            <li>VERB-Fin--NOUN (17)</li>
             <li>VERB-Fin--NOUN-Abl (2)</li>
-            <li>VERB-Fin--NOUN-Abl-ADP(fazla) (2)</li>
-            <li>VERB-Fin--NOUN-Acc (379)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(da) (3)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(de) (2)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(i) (1)</li>
-            <li>VERB-Fin--NOUN-Dat (26)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(da) (1)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(yönelik) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (32)</li>
+            <li>VERB-Fin--NOUN-Acc (64)</li>
+            <li>VERB-Fin--NOUN-Dat (20)</li>
+            <li>VERB-Fin--NOUN-Gen (24)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(iç) (1)</li>
-            <li>VERB-Fin--NOUN-Loc (5)</li>
-            <li>VERB-Fin--NOUN-Nom (7228)</li>
+            <li>VERB-Fin--NOUN-Loc (3)</li>
+            <li>VERB-Fin--NOUN-Nom (6540)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(bile) (3)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(da) (40)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(de) (43)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(i) (8)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(is) (3)</li>
-            <li>VERB-Fin--PRON (578)</li>
-            <li>VERB-Fin--PRON-ADP(da) (4)</li>
-            <li>VERB-Fin--PRON-ADP(de) (5)</li>
-            <li>VERB-Fin--PRON-ADP(i) (3)</li>
-            <li>VERB-Part--NOUN-Nom (17)</li>
-            <li>VERB-Part--PRON (1)</li>
-            <li>VERB-Vnoun--NOUN-Acc (4)</li>
-            <li>VERB-Vnoun--NOUN-Gen (2)</li>
-            <li>VERB-Vnoun--NOUN-Nom (68)</li>
-            <li>VERB-Vnoun--NOUN-Nom-ADP(da) (1)</li>
-            <li>VERB-Vnoun--PRON (2)</li>
-            <li>VERB-Vnoun--PRON-ADP(de) (1)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(da) (39)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(de) (39)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(i) (9)</li>
+            <li>VERB-Fin--PRON-Dat (3)</li>
+            <li>VERB-Fin--PRON-Gen (2)</li>
+            <li>VERB-Fin--PRON-Nom (521)</li>
+            <li>VERB-Fin--PRON-Nom-ADP(da) (4)</li>
+            <li>VERB-Fin--PRON-Nom-ADP(de) (6)</li>
+            <li>VERB-Fin--PRON-Nom-ADP(i) (3)</li>
+            <li>VERB-Part--NOUN-Acc (12)</li>
+            <li>VERB-Part--NOUN-Dat (1)</li>
+            <li>VERB-Part--NOUN-Gen (132)</li>
+            <li>VERB-Part--NOUN-Loc (1)</li>
+            <li>VERB-Part--NOUN-Nom (237)</li>
+            <li>VERB-Part--NOUN-Nom-ADP(da) (1)</li>
+            <li>VERB-Part--PRON-Acc (2)</li>
+            <li>VERB-Part--PRON-Dat (1)</li>
+            <li>VERB-Part--PRON-Gen (12)</li>
+            <li>VERB-Part--PRON-Gen-ADP(de) (1)</li>
+            <li>VERB-Part--PRON-Nom (14)</li>
+            <li>VERB-Vnoun--NOUN-Acc (15)</li>
+            <li>VERB-Vnoun--NOUN-Dat (3)</li>
+            <li>VERB-Vnoun--NOUN-Gen (873)</li>
+            <li>VERB-Vnoun--NOUN-Gen-ADP(da) (1)</li>
+            <li>VERB-Vnoun--NOUN-Gen-ADP(de) (4)</li>
+            <li>VERB-Vnoun--NOUN-Nom (352)</li>
+            <li>VERB-Vnoun--NOUN-Nom-ADP(da) (4)</li>
+            <li>VERB-Vnoun--NOUN-Nom-ADP(de) (3)</li>
+            <li>VERB-Vnoun--NOUN-Nom-ADP(i) (1)</li>
+            <li>VERB-Vnoun--PRON-Acc (4)</li>
+            <li>VERB-Vnoun--PRON-Gen (78)</li>
+            <li>VERB-Vnoun--PRON-Nom (23)</li>
+            <li>VERB-Vnoun--PRON-Nom-ADP(de) (1)</li>
           </ul>
         </li>
       </ul>
@@ -10420,24 +11285,37 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN-Nom (1)</li>
+            <li>VERB-Conv--NOUN-Nom (9)</li>
+            <li>VERB-Conv--PRON-Nom (2)</li>
+            <li>VERB-Fin--NOUN (1)</li>
             <li>VERB-Fin--NOUN-Abl (4)</li>
-            <li>VERB-Fin--NOUN-Acc (593)</li>
-            <li>VERB-Fin--NOUN-Dat (6)</li>
-            <li>VERB-Fin--NOUN-Gen (2)</li>
+            <li>VERB-Fin--NOUN-Acc (28)</li>
+            <li>VERB-Fin--NOUN-Dat (3)</li>
+            <li>VERB-Fin--NOUN-Gen (1)</li>
             <li>VERB-Fin--NOUN-Ins (131)</li>
-            <li>VERB-Fin--NOUN-Nom (5793)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(da) (3)</li>
+            <li>VERB-Fin--NOUN-Nom (1047)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(dahi) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(de) (6)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(dekorasyon) (2)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(diye) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(ile) (332)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(ol) (6)</li>
-            <li>VERB-Fin--PRON (316)</li>
-            <li>VERB-Fin--PRON-ADP(da) (1)</li>
-            <li>VERB-Fin--PRON-ADP(de) (3)</li>
-            <li>VERB-Vnoun--NOUN-Nom (2)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(de) (2)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(ile) (203)</li>
+            <li>VERB-Fin--PRON-Dat (2)</li>
+            <li>VERB-Fin--PRON-Ins (2)</li>
+            <li>VERB-Fin--PRON-Nom (245)</li>
+            <li>VERB-Fin--PRON-Nom-ADP(da) (1)</li>
+            <li>VERB-Fin--PRON-Nom-ADP(de) (3)</li>
+            <li>VERB-Part--NOUN-Acc (2)</li>
+            <li>VERB-Part--NOUN-Gen (14)</li>
+            <li>VERB-Part--NOUN-Nom (54)</li>
+            <li>VERB-Part--PRON-Gen (2)</li>
+            <li>VERB-Part--PRON-Nom (12)</li>
+            <li>VERB-Vnoun--NOUN-ADP(ile) (1)</li>
+            <li>VERB-Vnoun--NOUN-Abl (1)</li>
+            <li>VERB-Vnoun--NOUN-Acc (7)</li>
+            <li>VERB-Vnoun--NOUN-Dat (2)</li>
+            <li>VERB-Vnoun--NOUN-Gen (37)</li>
+            <li>VERB-Vnoun--NOUN-Loc (2)</li>
+            <li>VERB-Vnoun--NOUN-Nom (72)</li>
+            <li>VERB-Vnoun--PRON-Gen (1)</li>
+            <li>VERB-Vnoun--PRON-Nom (2)</li>
           </ul>
         </li>
       </ul>
@@ -10468,13 +11346,21 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN-Acc (744)</li>
-            <li>VERB-Fin--NOUN-Dat (1)</li>
+            <li>VERB-Fin--NOUN (1)</li>
+            <li>VERB-Fin--NOUN-Acc (802)</li>
             <li>VERB-Fin--NOUN-Ins (1)</li>
-            <li>VERB-Fin--NOUN-Nom (1584)</li>
+            <li>VERB-Fin--NOUN-Nom (1416)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(ile) (2)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(için) (1)</li>
-            <li>VERB-Fin--PRON (11)</li>
+            <li>VERB-Fin--PRON-Acc (6)</li>
+            <li>VERB-Fin--PRON-Nom (5)</li>
+            <li>VERB-Part--NOUN-Acc (13)</li>
+            <li>VERB-Part--NOUN-Nom (67)</li>
+            <li>VERB-Part--PRON-Acc (2)</li>
+            <li>VERB-Vnoun--NOUN-Acc (75)</li>
+            <li>VERB-Vnoun--NOUN-Nom (106)</li>
+            <li>VERB-Vnoun--PRON-Acc (1)</li>
+            <li>VERB-Vnoun--PRON-Nom (1)</li>
           </ul>
         </li>
       </ul>
@@ -10486,44 +11372,44 @@ udver: '2'
             <li>VERB--NOUN (4)</li>
             <li>VERB--NOUN-ADP(yi) (1)</li>
             <li>VERB--NOUN-Abl (16)</li>
-            <li>VERB--NOUN-Acc (1837)</li>
+            <li>VERB--NOUN-Acc (1818)</li>
             <li>VERB--NOUN-Acc-ADP(filan) (1)</li>
             <li>VERB--NOUN-Acc-ADP(gibi) (1)</li>
             <li>VERB--NOUN-Acc-ADP(ile) (1)</li>
-            <li>VERB--NOUN-Dat (129)</li>
+            <li>VERB--NOUN-Dat (127)</li>
             <li>VERB--NOUN-Gen (2)</li>
-            <li>VERB--NOUN-Ins (19)</li>
-            <li>VERB--NOUN-Loc (10)</li>
-            <li>VERB--NOUN-Nom (300)</li>
+            <li>VERB--NOUN-Ins (18)</li>
+            <li>VERB--NOUN-Loc (8)</li>
+            <li>VERB--NOUN-Nom (295)</li>
             <li>VERB--NOUN-Nom-ADP(li) (1)</li>
             <li>VERB--PRON-Abl (1)</li>
-            <li>VERB--PRON-Acc (344)</li>
-            <li>VERB--PRON-Dat (17)</li>
+            <li>VERB--PRON-Acc (341)</li>
+            <li>VERB--PRON-Dat (15)</li>
             <li>VERB--PRON-Gen (1)</li>
-            <li>VERB--PRON-Ins (4)</li>
+            <li>VERB--PRON-Ins (3)</li>
             <li>VERB--PRON-Loc (1)</li>
-            <li>VERB--PRON-Nom (20)</li>
+            <li>VERB--PRON-Nom (19)</li>
             <li>VERB-Conv--NOUN (1)</li>
             <li>VERB-Conv--NOUN-Abl (6)</li>
-            <li>VERB-Conv--NOUN-Acc (287)</li>
-            <li>VERB-Conv--NOUN-Dat (15)</li>
+            <li>VERB-Conv--NOUN-Acc (284)</li>
+            <li>VERB-Conv--NOUN-Dat (12)</li>
             <li>VERB-Conv--NOUN-Ins (4)</li>
-            <li>VERB-Conv--NOUN-Nom (54)</li>
+            <li>VERB-Conv--NOUN-Nom (53)</li>
             <li>VERB-Conv--NOUN-Nom-ADP(ile) (1)</li>
-            <li>VERB-Conv--PRON-Acc (25)</li>
+            <li>VERB-Conv--PRON-Acc (24)</li>
             <li>VERB-Part--NOUN (3)</li>
             <li>VERB-Part--NOUN-ADP(ı) (1)</li>
-            <li>VERB-Part--NOUN-Abl (11)</li>
-            <li>VERB-Part--NOUN-Acc (1169)</li>
+            <li>VERB-Part--NOUN-Abl (10)</li>
+            <li>VERB-Part--NOUN-Acc (1164)</li>
             <li>VERB-Part--NOUN-Acc-ADP(dil) (1)</li>
             <li>VERB-Part--NOUN-Acc-ADP(diye) (1)</li>
             <li>VERB-Part--NOUN-Acc-ADP(diye)-ADP(diye)-ADP(diye)-ADP(diye)-ADP(diye) (1)</li>
             <li>VERB-Part--NOUN-Acc-ADP(ile) (4)</li>
             <li>VERB-Part--NOUN-Acc-ADP(Ü) (1)</li>
             <li>VERB-Part--NOUN-Acc-ADP(İ) (1)</li>
-            <li>VERB-Part--NOUN-Dat (57)</li>
-            <li>VERB-Part--NOUN-Gen (3)</li>
-            <li>VERB-Part--NOUN-Ins (15)</li>
+            <li>VERB-Part--NOUN-Dat (55)</li>
+            <li>VERB-Part--NOUN-Gen (2)</li>
+            <li>VERB-Part--NOUN-Ins (14)</li>
             <li>VERB-Part--NOUN-Loc (2)</li>
             <li>VERB-Part--NOUN-Nom (185)</li>
             <li>VERB-Part--NOUN-Nom-ADP(e) (1)</li>
@@ -10535,16 +11421,16 @@ udver: '2'
             <li>VERB-Part--PRON-Nom (6)</li>
             <li>VERB-Vnoun--NOUN (2)</li>
             <li>VERB-Vnoun--NOUN-Abl (5)</li>
-            <li>VERB-Vnoun--NOUN-Acc (510)</li>
+            <li>VERB-Vnoun--NOUN-Acc (511)</li>
             <li>VERB-Vnoun--NOUN-Acc-ADP(ile) (1)</li>
             <li>VERB-Vnoun--NOUN-Acc-ADP(ni) (1)</li>
             <li>VERB-Vnoun--NOUN-Dat (23)</li>
             <li>VERB-Vnoun--NOUN-Gen (3)</li>
             <li>VERB-Vnoun--NOUN-Ins (4)</li>
             <li>VERB-Vnoun--NOUN-Loc (2)</li>
-            <li>VERB-Vnoun--NOUN-Nom (87)</li>
+            <li>VERB-Vnoun--NOUN-Nom (86)</li>
             <li>VERB-Vnoun--NOUN-Nom-ADP(gibi) (1)</li>
-            <li>VERB-Vnoun--PRON-Acc (54)</li>
+            <li>VERB-Vnoun--PRON-Acc (55)</li>
             <li>VERB-Vnoun--PRON-Dat (2)</li>
             <li>VERB-Vnoun--PRON-Ins (2)</li>
             <li>VERB-Vnoun--PRON-Nom (2)</li>
@@ -10557,19 +11443,44 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN-Abl (17)</li>
-            <li>VERB-Fin--NOUN-Acc (592)</li>
+            <li>VERB-Conv--NOUN-Acc (44)</li>
+            <li>VERB-Conv--NOUN-Acc-ADP(da) (1)</li>
+            <li>VERB-Conv--NOUN-Dat (6)</li>
+            <li>VERB-Conv--NOUN-Nom (35)</li>
+            <li>VERB-Conv--PRON-Acc (13)</li>
+            <li>VERB-Conv--PRON-Dat (1)</li>
+            <li>VERB-Conv--PRON-Nom (1)</li>
+            <li>VERB-Fin--NOUN (1)</li>
+            <li>VERB-Fin--NOUN-Abl (15)</li>
+            <li>VERB-Fin--NOUN-Acc (618)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(da) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(dahi) (1)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(de) (2)</li>
-            <li>VERB-Fin--NOUN-Dat (66)</li>
-            <li>VERB-Fin--NOUN-Gen (2)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(de) (1)</li>
+            <li>VERB-Fin--NOUN-Dat (59)</li>
+            <li>VERB-Fin--NOUN-Gen (3)</li>
             <li>VERB-Fin--NOUN-Loc (2)</li>
-            <li>VERB-Fin--NOUN-Nom (367)</li>
+            <li>VERB-Fin--NOUN-Nom (282)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(de) (2)</li>
-            <li>VERB-Fin--PRON (112)</li>
-            <li>VERB-Fin--PRON-ADP(için) (1)</li>
-            <li>VERB-Vnoun--NOUN-Nom (1)</li>
+            <li>VERB-Fin--PRON-Abl (2)</li>
+            <li>VERB-Fin--PRON-Acc (89)</li>
+            <li>VERB-Fin--PRON-Dat (14)</li>
+            <li>VERB-Fin--PRON-Gen (1)</li>
+            <li>VERB-Fin--PRON-Gen-ADP(için) (1)</li>
+            <li>VERB-Fin--PRON-Ins (2)</li>
+            <li>VERB-Fin--PRON-Nom (3)</li>
+            <li>VERB-Part--NOUN-Abl (4)</li>
+            <li>VERB-Part--NOUN-Acc (13)</li>
+            <li>VERB-Part--NOUN-Dat (2)</li>
+            <li>VERB-Part--NOUN-Nom (13)</li>
+            <li>VERB-Part--PRON-Acc (2)</li>
+            <li>VERB-Vnoun--NOUN-Abl (1)</li>
+            <li>VERB-Vnoun--NOUN-Acc (57)</li>
+            <li>VERB-Vnoun--NOUN-Dat (5)</li>
+            <li>VERB-Vnoun--NOUN-Loc (2)</li>
+            <li>VERB-Vnoun--NOUN-Nom (36)</li>
+            <li>VERB-Vnoun--NOUN-Nom-ADP(bile) (1)</li>
+            <li>VERB-Vnoun--PRON-Acc (11)</li>
+            <li>VERB-Vnoun--PRON-Dat (2)</li>
           </ul>
         </li>
       </ul>
@@ -10605,7 +11516,7 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB--NOUN-Abl (8)</li>
-            <li>VERB--NOUN-Acc (578)</li>
+            <li>VERB--NOUN-Acc (573)</li>
             <li>VERB--NOUN-Dat (36)</li>
             <li>VERB--NOUN-Dat-ADP(_) (1)</li>
             <li>VERB--NOUN-Dat-ADP(dair) (2)</li>
@@ -10613,14 +11524,14 @@ udver: '2'
             <li>VERB--NOUN-Ins (5)</li>
             <li>VERB--NOUN-Loc (2)</li>
             <li>VERB--NOUN-Loc-ADP(ki) (1)</li>
-            <li>VERB--NOUN-Nom (489)</li>
+            <li>VERB--NOUN-Nom (483)</li>
             <li>VERB--NOUN-Nom-ADP(ci) (1)</li>
             <li>VERB--NOUN-Nom-ADP(ile) (1)</li>
             <li>VERB--NOUN-Nom-ADP(olarak) (1)</li>
             <li>VERB--PRON-Abl (2)</li>
             <li>VERB--PRON-Acc (213)</li>
             <li>VERB--PRON-Dat (7)</li>
-            <li>VERB--PRON-Nom (39)</li>
+            <li>VERB--PRON-Nom (38)</li>
             <li>VERB--PRON-Nom-ADP(siz) (1)</li>
             <li>VERB-Conv--NOUN-Acc (112)</li>
             <li>VERB-Conv--NOUN-Dat (3)</li>
@@ -10647,7 +11558,7 @@ udver: '2'
             <li>VERB-Vnoun--NOUN-Equ (1)</li>
             <li>VERB-Vnoun--NOUN-Gen (1)</li>
             <li>VERB-Vnoun--NOUN-Ins (2)</li>
-            <li>VERB-Vnoun--NOUN-Nom (112)</li>
+            <li>VERB-Vnoun--NOUN-Nom (109)</li>
             <li>VERB-Vnoun--NOUN-Nom-ADP(ile) (1)</li>
             <li>VERB-Vnoun--NOUN-Nom-ADP(siz)-ADP(_) (1)</li>
             <li>VERB-Vnoun--PRON-Abl (1)</li>
@@ -10663,23 +11574,35 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Conv--NOUN-Nom (1)</li>
-            <li>VERB-Fin--NOUN (1)</li>
-            <li>VERB-Fin--NOUN-Abl (106)</li>
-            <li>VERB-Fin--NOUN-Abl-ADP(sonra) (2)</li>
-            <li>VERB-Fin--NOUN-Acc (2497)</li>
+            <li>VERB-Conv--NOUN (1)</li>
+            <li>VERB-Conv--NOUN-Abl (16)</li>
+            <li>VERB-Conv--NOUN-Acc (468)</li>
+            <li>VERB-Conv--NOUN-Dat (32)</li>
+            <li>VERB-Conv--NOUN-Gen (1)</li>
+            <li>VERB-Conv--NOUN-Ins (4)</li>
+            <li>VERB-Conv--NOUN-Loc (4)</li>
+            <li>VERB-Conv--NOUN-Nom (408)</li>
+            <li>VERB-Conv--NOUN-Nom-ADP(da) (1)</li>
+            <li>VERB-Conv--NOUN-Nom-ADP(de) (1)</li>
+            <li>VERB-Conv--PRON-Acc (68)</li>
+            <li>VERB-Conv--PRON-Dat (4)</li>
+            <li>VERB-Conv--PRON-Gen (1)</li>
+            <li>VERB-Conv--PRON-Nom (2)</li>
+            <li>VERB-Fin--NOUN (28)</li>
+            <li>VERB-Fin--NOUN-ADP(de) (1)</li>
+            <li>VERB-Fin--NOUN-Abl (84)</li>
+            <li>VERB-Fin--NOUN-Acc (2415)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(bil) (1)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(bile) (3)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(da) (5)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(de) (7)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(da) (4)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(de) (5)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(ile) (1)</li>
-            <li>VERB-Fin--NOUN-Dat (312)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(bile) (1)</li>
+            <li>VERB-Fin--NOUN-Dat (250)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(doğru) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (21)</li>
-            <li>VERB-Fin--NOUN-Ins (39)</li>
-            <li>VERB-Fin--NOUN-Loc (36)</li>
-            <li>VERB-Fin--NOUN-Nom (3080)</li>
+            <li>VERB-Fin--NOUN-Gen (17)</li>
+            <li>VERB-Fin--NOUN-Ins (35)</li>
+            <li>VERB-Fin--NOUN-Loc (33)</li>
+            <li>VERB-Fin--NOUN-Nom (2714)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(bile) (3)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(boyunca) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(da) (1)</li>
@@ -10688,20 +11611,55 @@ udver: '2'
             <li>VERB-Fin--NOUN-Nom-ADP(diye) (5)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(gibi) (5)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(ile) (5)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(için) (4)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(için) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(kadar) (2)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(yapsat) (1)</li>
-            <li>VERB-Fin--PRON (613)</li>
-            <li>VERB-Fin--PRON-ADP(bile) (1)</li>
-            <li>VERB-Fin--PRON-ADP(da) (1)</li>
-            <li>VERB-Fin--PRON-ADP(de) (2)</li>
-            <li>VERB-Part--NOUN-Ins (1)</li>
-            <li>VERB-Part--NOUN-Nom (3)</li>
-            <li>VERB-Vnoun--NOUN-Acc (18)</li>
-            <li>VERB-Vnoun--NOUN-Dat (3)</li>
-            <li>VERB-Vnoun--NOUN-Gen (1)</li>
-            <li>VERB-Vnoun--NOUN-Nom (20)</li>
-            <li>VERB-Vnoun--PRON (2)</li>
+            <li>VERB-Fin--PRON-Abl (6)</li>
+            <li>VERB-Fin--PRON-Acc (527)</li>
+            <li>VERB-Fin--PRON-Acc-ADP(bile) (1)</li>
+            <li>VERB-Fin--PRON-Acc-ADP(da) (1)</li>
+            <li>VERB-Fin--PRON-Acc-ADP(de) (2)</li>
+            <li>VERB-Fin--PRON-Acc-ADP(kadar) (1)</li>
+            <li>VERB-Fin--PRON-Dat (25)</li>
+            <li>VERB-Fin--PRON-Gen (2)</li>
+            <li>VERB-Fin--PRON-Ins (4)</li>
+            <li>VERB-Fin--PRON-Loc (1)</li>
+            <li>VERB-Fin--PRON-Nom (47)</li>
+            <li>VERB-Part--NOUN (6)</li>
+            <li>VERB-Part--NOUN-Abl (10)</li>
+            <li>VERB-Part--NOUN-Acc (368)</li>
+            <li>VERB-Part--NOUN-Dat (33)</li>
+            <li>VERB-Part--NOUN-Dat-ADP(karşı) (1)</li>
+            <li>VERB-Part--NOUN-Gen (7)</li>
+            <li>VERB-Part--NOUN-Ins (6)</li>
+            <li>VERB-Part--NOUN-Loc (4)</li>
+            <li>VERB-Part--NOUN-Nom (459)</li>
+            <li>VERB-Part--NOUN-Nom-ADP(bile) (1)</li>
+            <li>VERB-Part--NOUN-Nom-ADP(diye) (1)</li>
+            <li>VERB-Part--NOUN-Nom-ADP(gibi) (2)</li>
+            <li>VERB-Part--NOUN-Nom-ADP(için) (1)</li>
+            <li>VERB-Part--PRON-Abl (1)</li>
+            <li>VERB-Part--PRON-Acc (65)</li>
+            <li>VERB-Part--PRON-Dat (3)</li>
+            <li>VERB-Part--PRON-Nom (2)</li>
+            <li>VERB-Vnoun--NOUN (13)</li>
+            <li>VERB-Vnoun--NOUN-Abl (26)</li>
+            <li>VERB-Vnoun--NOUN-Acc (626)</li>
+            <li>VERB-Vnoun--NOUN-Acc-ADP(bile) (1)</li>
+            <li>VERB-Vnoun--NOUN-Acc-ADP(da) (1)</li>
+            <li>VERB-Vnoun--NOUN-Acc-ADP(de) (1)</li>
+            <li>VERB-Vnoun--NOUN-Dat (54)</li>
+            <li>VERB-Vnoun--NOUN-Dat-ADP(kadar) (1)</li>
+            <li>VERB-Vnoun--NOUN-Gen (29)</li>
+            <li>VERB-Vnoun--NOUN-Ins (6)</li>
+            <li>VERB-Vnoun--NOUN-Loc (4)</li>
+            <li>VERB-Vnoun--NOUN-Nom (820)</li>
+            <li>VERB-Vnoun--NOUN-Nom-ADP(için) (1)</li>
+            <li>VERB-Vnoun--PRON-Abl (1)</li>
+            <li>VERB-Vnoun--PRON-Acc (146)</li>
+            <li>VERB-Vnoun--PRON-Dat (8)</li>
+            <li>VERB-Vnoun--PRON-Gen (2)</li>
+            <li>VERB-Vnoun--PRON-Nom (18)</li>
+            <li>VERB-Vnoun--PRON-Nom-ADP(kadar) (1)</li>
           </ul>
         </li>
       </ul>
@@ -10741,44 +11699,73 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN-Dat (1)</li>
-            <li>VERB--NOUN-Gen (1)</li>
-            <li>VERB-Conv--NOUN-Nom (2)</li>
-            <li>VERB-Fin--NOUN (1)</li>
-            <li>VERB-Fin--NOUN-Abl (100)</li>
-            <li>VERB-Fin--NOUN-Abl-ADP(fazla) (1)</li>
-            <li>VERB-Fin--NOUN-Acc (1828)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(da) (12)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(de) (13)</li>
-            <li>VERB-Fin--NOUN-Dat (478)</li>
+            <li>VERB-Conv--NOUN (1)</li>
+            <li>VERB-Conv--NOUN-Acc (89)</li>
+            <li>VERB-Conv--NOUN-Dat (16)</li>
+            <li>VERB-Conv--NOUN-Ins (1)</li>
+            <li>VERB-Conv--NOUN-Nom (117)</li>
+            <li>VERB-Conv--NOUN-Nom-ADP(üzerinde) (1)</li>
+            <li>VERB-Conv--PRON-Acc (11)</li>
+            <li>VERB-Conv--PRON-Dat (1)</li>
+            <li>VERB-Fin--NOUN (4)</li>
+            <li>VERB-Fin--NOUN-Abl (74)</li>
+            <li>VERB-Fin--NOUN-Acc (1630)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(da) (11)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(de) (9)</li>
+            <li>VERB-Fin--NOUN-Dat (334)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(de) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(karşı) (1)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(yakın) (1)</li>
-            <li>VERB-Fin--NOUN-Gen (13)</li>
-            <li>VERB-Fin--NOUN-Ins (28)</li>
-            <li>VERB-Fin--NOUN-Loc (32)</li>
-            <li>VERB-Fin--NOUN-Nom (1982)</li>
+            <li>VERB-Fin--NOUN-Gen (10)</li>
+            <li>VERB-Fin--NOUN-Ins (25)</li>
+            <li>VERB-Fin--NOUN-Loc (26)</li>
+            <li>VERB-Fin--NOUN-Nom (1824)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(alt) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(bile) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(da) (5)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(de) (2)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(gibi) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(ile) (11)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(ile) (8)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(için) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(kadar) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(tarafından) (1)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(üzerine) (2)</li>
-            <li>VERB-Fin--PRON (283)</li>
-            <li>VERB-Part--NOUN-Acc (1)</li>
-            <li>VERB-Part--NOUN-Nom (1)</li>
-            <li>VERB-Part--PRON (1)</li>
-            <li>VERB-Part--PRON-ADP(kadar) (1)</li>
-            <li>VERB-Vnoun--NOUN-Abl (1)</li>
-            <li>VERB-Vnoun--NOUN-Acc (15)</li>
-            <li>VERB-Vnoun--NOUN-Dat (2)</li>
-            <li>VERB-Vnoun--NOUN-Gen (1)</li>
-            <li>VERB-Vnoun--NOUN-Nom (19)</li>
-            <li>VERB-Vnoun--PRON (3)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(üzerine) (1)</li>
+            <li>VERB-Fin--PRON-Abl (4)</li>
+            <li>VERB-Fin--PRON-Acc (248)</li>
+            <li>VERB-Fin--PRON-Dat (26)</li>
+            <li>VERB-Fin--PRON-Nom (14)</li>
+            <li>VERB-Fin--PRON-Nom-ADP(kadar) (1)</li>
+            <li>VERB-Part--NOUN (2)</li>
+            <li>VERB-Part--NOUN-Abl (9)</li>
+            <li>VERB-Part--NOUN-Acc (184)</li>
+            <li>VERB-Part--NOUN-Acc-ADP(de) (1)</li>
+            <li>VERB-Part--NOUN-Dat (37)</li>
+            <li>VERB-Part--NOUN-Gen (3)</li>
+            <li>VERB-Part--NOUN-Ins (7)</li>
+            <li>VERB-Part--NOUN-Loc (3)</li>
+            <li>VERB-Part--NOUN-Nom (274)</li>
+            <li>VERB-Part--NOUN-Nom-ADP(da) (1)</li>
+            <li>VERB-Part--PRON-Acc (19)</li>
+            <li>VERB-Part--PRON-Dat (4)</li>
+            <li>VERB-Part--PRON-Nom (2)</li>
+            <li>VERB-Vnoun--NOUN-Abl (23)</li>
+            <li>VERB-Vnoun--NOUN-Acc (669)</li>
+            <li>VERB-Vnoun--NOUN-Acc-ADP(da) (1)</li>
+            <li>VERB-Vnoun--NOUN-Acc-ADP(de) (3)</li>
+            <li>VERB-Vnoun--NOUN-Acc-ADP(i) (1)</li>
+            <li>VERB-Vnoun--NOUN-Dat (140)</li>
+            <li>VERB-Vnoun--NOUN-Gen (16)</li>
+            <li>VERB-Vnoun--NOUN-Ins (14)</li>
+            <li>VERB-Vnoun--NOUN-Loc (5)</li>
+            <li>VERB-Vnoun--NOUN-Nom (704)</li>
+            <li>VERB-Vnoun--NOUN-Nom-ADP(da) (2)</li>
+            <li>VERB-Vnoun--NOUN-Nom-ADP(daha) (1)</li>
+            <li>VERB-Vnoun--NOUN-Nom-ADP(de) (2)</li>
+            <li>VERB-Vnoun--NOUN-Nom-ADP(hakkında) (1)</li>
+            <li>VERB-Vnoun--NOUN-Nom-ADP(ile) (6)</li>
+            <li>VERB-Vnoun--PRON-Acc (87)</li>
+            <li>VERB-Vnoun--PRON-Dat (13)</li>
+            <li>VERB-Vnoun--PRON-Gen (2)</li>
+            <li>VERB-Vnoun--PRON-Ins (2)</li>
+            <li>VERB-Vnoun--PRON-Nom (11)</li>
           </ul>
         </li>
       </ul>
@@ -10787,21 +11774,44 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN-Abl (474)</li>
-            <li>VERB-Fin--NOUN-Acc (575)</li>
-            <li>VERB-Fin--NOUN-Acc-ADP(da) (1)</li>
-            <li>VERB-Fin--NOUN-Dat (197)</li>
+            <li>VERB-Conv--NOUN (1)</li>
+            <li>VERB-Conv--NOUN-Abl (3)</li>
+            <li>VERB-Conv--NOUN-Acc (2)</li>
+            <li>VERB-Conv--NOUN-Ins (1)</li>
+            <li>VERB-Conv--NOUN-Nom (11)</li>
+            <li>VERB-Conv--NOUN-Nom-ADP(ile) (3)</li>
+            <li>VERB-Fin--NOUN (1)</li>
+            <li>VERB-Fin--NOUN-Abl (454)</li>
+            <li>VERB-Fin--NOUN-Acc (545)</li>
+            <li>VERB-Fin--NOUN-Acc-ADP(da) (2)</li>
+            <li>VERB-Fin--NOUN-Dat (140)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(da) (1)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(göre) (1)</li>
             <li>VERB-Fin--NOUN-Gen (6)</li>
-            <li>VERB-Fin--NOUN-Ins (14)</li>
-            <li>VERB-Fin--NOUN-Loc (9)</li>
-            <li>VERB-Fin--NOUN-Nom (783)</li>
+            <li>VERB-Fin--NOUN-Ins (12)</li>
+            <li>VERB-Fin--NOUN-Loc (6)</li>
+            <li>VERB-Fin--NOUN-Nom (707)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(hakkında) (3)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(ile) (10)</li>
-            <li>VERB-Fin--NOUN-Nom-ADP(ol) (1)</li>
-            <li>VERB-Fin--PRON (213)</li>
-            <li>VERB-Fin--PRON-ADP(ile) (3)</li>
+            <li>VERB-Fin--NOUN-Nom-ADP(ile) (9)</li>
+            <li>VERB-Fin--PRON-Abl (11)</li>
+            <li>VERB-Fin--PRON-Acc (84)</li>
+            <li>VERB-Fin--PRON-Dat (47)</li>
+            <li>VERB-Fin--PRON-Gen-ADP(ile) (3)</li>
+            <li>VERB-Fin--PRON-Ins (62)</li>
+            <li>VERB-Part--NOUN-Abl (12)</li>
+            <li>VERB-Part--NOUN-Acc (22)</li>
+            <li>VERB-Part--NOUN-Dat (7)</li>
+            <li>VERB-Part--NOUN-Ins (2)</li>
+            <li>VERB-Part--NOUN-Nom (19)</li>
+            <li>VERB-Part--PRON-Acc (2)</li>
+            <li>VERB-Part--PRON-Dat (1)</li>
+            <li>VERB-Part--PRON-Ins (1)</li>
+            <li>VERB-Vnoun--NOUN-Abl (33)</li>
+            <li>VERB-Vnoun--NOUN-Acc (45)</li>
+            <li>VERB-Vnoun--NOUN-Dat (28)</li>
+            <li>VERB-Vnoun--NOUN-Gen (1)</li>
+            <li>VERB-Vnoun--NOUN-Nom (75)</li>
+            <li>VERB-Vnoun--NOUN-Nom-ADP(kadar) (1)</li>
+            <li>VERB-Vnoun--PRON-Acc (3)</li>
           </ul>
         </li>
       </ul>
@@ -10815,9 +11825,9 @@ udver: '2'
             <li>VERB--PRON-Acc (1)</li>
             <li>VERB-Conv--NOUN-Acc (2)</li>
             <li>VERB-Conv--NOUN-Nom (2)</li>
-            <li>VERB-Fin--NOUN-Acc (4)</li>
+            <li>VERB-Fin--NOUN-Acc (5)</li>
             <li>VERB-Fin--NOUN-Nom (1)</li>
-            <li>VERB-Fin--PRON-Acc (2)</li>
+            <li>VERB-Fin--PRON-Acc (1)</li>
             <li>VERB-Vnoun--NOUN-Acc (1)</li>
             <li>VERB-Vnoun--NOUN-Nom (9)</li>
           </ul>
@@ -10830,7 +11840,7 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Fin--PRON (1)</li>
+            <li>VERB-Fin--PRON-Dat (1)</li>
           </ul>
         </li>
       </ul>
@@ -10863,7 +11873,6 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Fin--NOUN-Dat (1)</li>
           </ul>
         </li>
       </ul>
@@ -10905,18 +11914,27 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
+            <li>VERB-Conv--NOUN-Dat (41)</li>
+            <li>VERB-Conv--NOUN-Dat-ADP(doğru) (1)</li>
+            <li>VERB-Conv--NOUN-Nom (1)</li>
+            <li>VERB-Conv--PRON-Dat (4)</li>
             <li>VERB-Fin--NOUN-Acc (2)</li>
-            <li>VERB-Fin--NOUN-Dat (275)</li>
+            <li>VERB-Fin--NOUN-Dat (247)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(bile) (1)</li>
-            <li>VERB-Fin--NOUN-Dat-ADP(d) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(da) (1)</li>
+            <li>VERB-Fin--NOUN-Dat-ADP(de) (1)</li>
             <li>VERB-Fin--NOUN-Dat-ADP(karşı) (1)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
             <li>VERB-Fin--NOUN-Nom (15)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(diye) (1)</li>
-            <li>VERB-Fin--PRON (59)</li>
-            <li>VERB-Part--PRON (1)</li>
-            <li>VERB-Vnoun--NOUN-Dat (2)</li>
+            <li>VERB-Fin--PRON-Acc (1)</li>
+            <li>VERB-Fin--PRON-Dat (67)</li>
+            <li>VERB-Part--NOUN-Dat (26)</li>
+            <li>VERB-Part--NOUN-Nom (5)</li>
+            <li>VERB-Part--PRON-Dat (6)</li>
+            <li>VERB-Vnoun--NOUN-Dat (43)</li>
+            <li>VERB-Vnoun--NOUN-Nom (2)</li>
+            <li>VERB-Vnoun--PRON-Dat (10)</li>
           </ul>
         </li>
       </ul>
@@ -10938,8 +11956,12 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Fin--NOUN-Dat (17)</li>
+            <li>VERB-Fin--NOUN-Dat (12)</li>
             <li>VERB-Fin--NOUN-Nom (1)</li>
+            <li>VERB-Part--NOUN-Dat (1)</li>
+            <li>VERB-Part--PRON-Dat (1)</li>
+            <li>VERB-Vnoun--NOUN-Dat (3)</li>
+            <li>VERB-Vnoun--PRON-Dat (1)</li>
           </ul>
         </li>
       </ul>
@@ -11033,7 +12055,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 74 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: hisset kendimi, at kendini, ada kendini, hisset kendinizi, sev kendini, çek kendini, özgü kendine, ait kendinize, al kendimi, aldat kendisini, alıkoy kendini, anlat kendimi, anlat kendinizi, aş kendimizi, bak kendinize, benze kendine, bul kendimi, bul kendisini, bırak kendini, dinle kendimizi, dinle kendisini, doğrula kendini, edebiyatçı kendimi, ez kendini, feda kendisini, geliş kendini, gönder kendine, gönder kendisine, gör kendini, göster kendini, haberdar kendinizi, hayal kendilerini, hisset kendilerini, hiçle kendini, ifade kendini, ifade kendisini, ilan kendini, ilân kendisini, inan kendilerini, ispat kendilerini, ispatla kendini, izin kendisinden, içeri kendilerini, kabullen kendimi, kanıtladım kendimi, kap kendini, kazan kendini, konuş kendimle, koyver kendilerini, kurban kendisini</li>
+        <li>This corpus contains 72 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: hisset kendimi, at kendini, ada kendini, hisset kendinizi, sev kendini, çek kendini, özgü kendine, ait kendinize, al kendimi, aldat kendisini, alıkoy kendini, anlat kendimi, anlat kendinizi, aş kendimizi, bak kendinize, benze kendine, bul kendimi, bul kendisini, bırak kendini, dinle kendimizi, dinle kendisini, doğrula kendini, edebiyatçı kendimi, ez kendini, feda kendisini, geliş kendini, gönder kendine, gönder kendisine, gör kendini, göster kendini, haberdar kendinizi, hayal kendilerini, hisset kendilerini, hiçle kendini, ifade kendini, ifade kendisini, ilan kendini, ilân kendisini, inan kendilerini, ispat kendilerini, ispatla kendini, izin kendisinden, içeri kendilerini, kabullen kendimi, kanıtladım kendimi, kap kendini, kazan kendini, koyver kendilerini, kurban kendisini, kurtar kendimizi</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -11064,7 +12086,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 129 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: at kendini, et kendini, bul kendini, gör kendisini, sat kendini, topla kendini, gör kendini, göster kendini, san kendini, ver kendimi, at kendimi, ayır kendini, bul kendimi, büyüle kendisini, bırak kendini, bırak kendisini, et kendilerini, gör kendimizi, hisset kendini, koyuver kendimi, kurtar kendisini, tut kendimi, tut kendini, ver kendilerini, ver kendisini, öl kendini, adama kendini, al kendisini, alış kendimi, anla kendisine, anla kendisini, anlayabil kendisini, at kendinizi, at kendisini, ata kendilerini, ata kendinizi, avut kendimi, avut kendisini, açıkla kendilerini, aşağıla kendisini, bak kendime, benzet kendimi, besle kendisini, bitir kendimi, boğ kendini, bul kendinizi, bul kendisini, bırak kendilerini, bırak kendimi, ceza kendisini</li>
+        <li>This corpus contains 129 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: at kendini, et kendini, bul kendini, gör kendisini, sat kendini, topla kendini, gör kendini, göster kendini, san kendini, ver kendimi, at kendimi, at kendinizi, ayır kendini, bul kendimi, büyüle kendisini, bırak kendini, bırak kendisini, et kendilerini, gör kendimizi, hisset kendini, koyuver kendimi, kurtar kendisini, tut kendimi, tut kendini, ver kendilerini, ver kendisini, adama kendini, al kendisini, alış kendimi, anla kendisine, anla kendisini, anlayabil kendisini, at kendilerini, at kendisini, avut kendimi, avut kendisini, açıkla kendilerini, aşağıla kendisini, bak kendime, benzet kendimi, besle kendisini, bitir kendimi, boğ kendini, bul kendinizi, bul kendisini, bırak kendilerini, bırak kendimi, cezalandır kendisini, dağıt kendimi, dağıt kendini</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -11078,14 +12100,14 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 47 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: hisset kendimi, besle kendini, et kendilerini, et kendini, et kendisini, gör kendilerini, savun kendini, savun kendisini, ada kendilerini, ada kendimi, adlandır kendini, al kendilerini, an kendini, at kendini, ayarla kendisini, açıkla kendisini, aş kendilerini, bil kendi̇ni̇, biçim kendini, borçlu kendilerini, bul kendilerini, bul kendini, bul kendisini, diril kendini, dölle kendisini, ekle kendini, et kendisine, gör kendini, göster kendisini, hazırla kendilerini, hazırla kendini, hisset kendinizi, kanıtla kendimi, karart kendisi, katıl kendilerine, koru kendilerini, oluş kendilerini, sür kendini, tanımla kendisini, toparla kendini, ulaş kendisine, ver kendilerini, vur kendilerini, yapı kendisini, yarala kendini, çek kendilerini, şımar kendilerini</li>
+        <li>This corpus contains 48 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: hisset kendimi, besle kendini, et kendilerini, et kendini, et kendisini, gör kendilerini, savun kendini, savun kendisini, ada kendilerini, ada kendimi, adlandır kendini, al kendilerini, an kendini, at kendini, ayarla kendisini, açıkla kendisini, aş kendilerini, bil kendi̇ni̇, biçim kendini, borçlu kendilerini, bul kendilerini, bul kendini, bul kendisini, diril kendini, dölle kendisini, ekle kendini, et kendisine, gör kendini, göster kendisini, hazırla kendini, hazırlama kendilerini, hisset kendinizi, kanıtla kendimi, karart kendisi, katıl kendilerine, koru kendilerini, oluştur kendilerini, sür kendini, tanımla kendisini, toparla kendini, ulaş kendisine, ver kendilerini, vur kendilerini, yaklaş kendisine, yapılandırma kendisini, yarala kendini, çek kendilerini, şımar kendilerini</li>
       </ul>
     </td>
     <td width="10%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 8 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: gör kendi̇si̇ni̇, görüş kendi̇si̇yle, kal kendi̇si̇nden, ayır kendi̇leri̇ne, et kendi̇si̇ne, hatırla kendi̇si̇ni̇, hisset kendi̇mi̇zi̇, sev kendi̇si̇ni̇</li>
+        <li>This corpus contains 8 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: gör kendisini, görüş kendisiyle, kal kendisinden, ayır kendilerine, et kendisine, hatırla kendisini, hisset kendimizi, sev kendisini</li>
       </ul>
     </td>
     <td width="10%" valign="top">
@@ -11105,7 +12127,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 12 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>csubj:outer</a>, <a>dep:der</a>, <a>discourse:q</a>, <a>nmod:part</a>, <a>nmod:poss</a>, <a>nsubj:outer</a>, <a>obl:tmod</a></li>
+      <li>This corpus uses 14 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>cc:preconj</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>csubj:outer</a>, <a>dep:der</a>, <a>discourse:q</a>, <a>flat:name</a>, <a>nmod:part</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:outer</a>, <a>obl:tmod</a></li>
       <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
     </td>
@@ -11137,7 +12159,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus does not use relation subtypes.</li>
+      <li>This corpus uses 1 relation subtypes: <a>aux:q</a></li>
       <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>cop</a>, <a>goeswith</a></li>
       </ul>
     </td>

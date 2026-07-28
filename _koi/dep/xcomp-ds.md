@@ -22,4 +22,4 @@ punct(тшӧктіс-6, ,-5)
 xcomp:ds(тшӧктіс-6, онмӧссьыны-7)
 conj(ӧвтыштіс-2, тшӧктіс-6)
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:43 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:45 CEST -->

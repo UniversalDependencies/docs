@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v2.7 release.
 The following people have contributed to making this treebank part of UD: Mohammad Sadegh Rasooli, Pegah Safari, Amirsaeid Moloodi, Alireza Nourian.
 
 Repository: [UD_Persian-PerDT](https://github.com/UniversalDependencies/UD_Persian-PerDT)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_perdt217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_perdt218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -322,6 +322,30 @@ Thanks to Morteza Rezaei-Sharifabadi for helping with the copyright of this data
 
 <ul>
   <li><a>PronType</a></li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>DET: این, آن, همان, همین, چنین, ین, چنان, ان, هر, ابن</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Exc
+    <ul>
+      <li>DET: چه, عجب, چقدر</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>DET: چه, کدام, چند, کدامین, چگونه, چقدر, چنان</li>
+    </ul>
+  </li>
 </ul>
 
 <ul>

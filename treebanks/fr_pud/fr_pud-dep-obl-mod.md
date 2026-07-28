@@ -14,7 +14,7 @@ There are also 2 other language-specific subtypes of `obl`: <tt><a href="fr_pud-
 43 instances of `obl:mod` (53%) are right-to-left (child precedes parent).
 Average distance between parent and child is 5.14814814814815.
 
-The following 7 pairs of parts of speech are connected with `obl:mod`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (33; 41% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (21; 26% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (17; 21% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (4; 5% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `obl:mod`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (33; 41% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (25; 31% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (17; 21% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (4; 5% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -26,7 +26,7 @@ The following 7 pairs of parts of speech are connected with `obl:mod`: <tt><a hr
 1	Guitariste	guitariste	NOUN	NN	Gender=Masc|Number=Sing	6	nsubj	_	wordform=guitariste
 2	passionné	passionner	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	SpaceAfter=No
 3	,	,	PUNCT	,	_	4	punct	_	_
-4	il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	appos	_	_
+4	il	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	appos	_	_
 5	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	_
 6	participé	participer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	à	à	ADP	IN	_	9	case	_	_
@@ -41,33 +41,21 @@ The following 7 pairs of parts of speech are connected with `obl:mod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 16	bgColor:blue
-# visual-style 16	fgColor:white
-# visual-style 16 10 obl:mod	color:blue
-1	Il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl:subj	_	wordform=il
-2	s'	se	PRON	PRP	Person=3|PronType=Prs	3	obj	_	SpaceAfter=No
-3	agit	agir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	de	de	ADP	IN	_	7	case	_	_
-5	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	seule	seul	ADJ	JJ	Gender=Fem|Number=Sing	7	amod	_	_
-7	région	région	NOUN	NN	Gender=Fem|Number=Sing	3	obl	_	_
-8	d'	de	ADP	IN	_	9	case	_	SpaceAfter=No
-9	Alaska	Alaska	PROPN	NNP	Gender=Masc|Number=Sing	7	nmod	_	_
-10	où	où	PRON	WP	PronType=Rel	16	obl:mod	_	_
-11	la	le	DET	DT	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	température	température	NOUN	NN	Gender=Fem|Number=Sing	16	nsubj	_	_
-13	moyenne	moyen	ADJ	JJ	Gender=Fem|Number=Sing	12	amod	_	_
-14	de	de	ADP	IN	_	15	case	_	_
-15	jour	jour	NOUN	NN	Gender=Masc|Number=Sing	12	nmod	_	_
-16	dépasse	dépasser	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
-17	0	0	NUM	CD	_	18	nummod	_	SpaceAfter=No
-18	°	°	SYM	SYM	_	16	obj	_	SpaceAfter=No
-19	C	C	SYM	SYM	_	18	nmod	_	wordform=c
-20	en	en	ADP	IN	_	21	case	_	_
-21	hiver	hiver	NOUN	NN	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
-22	.	.	PUNCT	.	_	3	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 obl:mod	color:blue
+1	Elle	lui	PRON	PRP	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	wordform=elle
+2	contient	contenir	VERB	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	un	un	DET	DT	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+4	très	très	ADV	RB	_	5	advmod	_	_
+5	petit	petit	ADJ	JJ	Gender=Masc|Number=Sing	6	amod	_	_
+6	lagon	lagon	NOUN	NN	Gender=Masc|Number=Sing	2	obj	_	SpaceAfter=No
+7	,	,	PUNCT	,	_	9	punct	_	_
+8	aujourd'hui	aujourd'hui	ADV	RB	_	9	obl:mod	_	_
+9	desséché	dessécher	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	2	punct	_	_
 
 ~~~
 
@@ -78,7 +66,7 @@ The following 7 pairs of parts of speech are connected with `obl:mod`: <tt><a hr
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 12 obl:mod	color:blue
-1	Il	il	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	wordform=il
+1	Il	lui	PRON	PRP	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	wordform=il
 2	a	avoir	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:tense	_	_
 3	terminé	terminer	VERB	VBN	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	ses	son	DET	DTP$	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|Person[psor]=3|Poss=Yes|PronType=Prs	5	det	_	_

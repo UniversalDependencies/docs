@@ -59,7 +59,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 `ADJ` tokens may have the following values of `Voice`:
 
 * `Pass` (21; 100% of non-empty `Voice`): <em>fastspända, fixerad, fixerade, fokuserad, född, förfärad, förtöjda, förödmjukade, gjorda, höjd</em>
-* `EMPTY` (7134): <em>andra, själv, hela, samma, första, annat, många, enda, stor, flera</em>
+* `EMPTY` (7137): <em>andra, själv, hela, samma, första, annat, många, enda, stor, flera</em>
 
 `Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (20) occur only with one value of `Voice`.
 
@@ -67,10 +67,10 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="sv_lines-dep-aux.html">aux</a></tt>]--> AUX</tt> (2184; 89%),
-<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1729; 90%),
+<tt>VERB --[<tt><a href="sv_lines-dep-conj.html">conj</a></tt>]--> VERB</tt> (1730; 90%),
 <tt>VERB --[<tt><a href="sv_lines-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1020; 81%),
-<tt>VERB --[<tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (673; 79%),
-<tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (651; 84%),
+<tt>VERB --[<tt><a href="sv_lines-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (672; 79%),
+<tt>VERB --[<tt><a href="sv_lines-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (652; 84%),
 <tt>VERB --[<tt><a href="sv_lines-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (259; 88%),
 <tt>VERB --[<tt><a href="sv_lines-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (61; 91%),
 <tt>VERB --[<tt><a href="sv_lines-dep-advcl-relcl.html">advcl:relcl</a></tt>]--> VERB</tt> (17; 74%),

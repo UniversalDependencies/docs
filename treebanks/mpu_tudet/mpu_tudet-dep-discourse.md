@@ -51,11 +51,11 @@ The following 9 pairs of parts of speech are connected with `discourse`: <tt><a 
 # visual-style 1 4 discourse	color:blue
 1	etera	tet	VERB	_	Aspect=Imp|Person=3	0	root	_	_
 2	kupyen	Kupyen	NOUN	_	_	1	obl	_	_
-3	me	me	ADP	_	_	2	obl	_	_
+3	me	me	ADP	_	_	2	case	_	_
 4	tupot	tupot	VERB	_	_	1	discourse	_	_
 5	kurux	kurox	VERB	_	_	1	discourse	_	_
 6	pe	pe	NOUN	_	_	5	obl	_	_
-7	pe	pe	ADP	_	_	6	obl	_	_
+7	pe	pe	ADP	_	_	6	case	_	_
 
 ~~~
 

@@ -63,7 +63,7 @@ The following 2 pairs of parts of speech are connected with `nsubj:outer`: <tt><
 7	moc	moc	NOUN	subst:sg:acc:f	Case=Acc|Gender=Fem|Number=Sing	6	obj	6:obj	Translit=moc
 8	swoją	swój	DET	adj:sg:acc:f:pos	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	det:poss	7:det:poss	Translit=swoią
 9	z	z	ADP	prep:inst:nwok	AdpType=Prep|Variant=Short	10	case	10:case	Case=Ins|Translit=z
-10	Wszechmocnością	wszechmocność	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	6	obl:cmpr	6:obl:cmpr	Translit=Wszechmocnością
+10	Wszechmocnością	wszechmocność	NOUN	subst:sg:inst:f	Case=Ins|Gender=Fem|Number=Sing	6	obl:cmp	6:obl:cmp	Translit=Wszechmocnością
 11	jego	on	PRON	ppron3:sg:gen:m:ter:akc:npraep	Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	10	nmod:poss	10:nmod:poss	SpaceAfter=No|Translit=iego
 12	?	?	PUNCT	interp	PunctType=Qest	6	punct	6:punct	Translit=?
 

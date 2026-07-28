@@ -7,25 +7,22 @@ udver: '2'
 
 ### Definition
 
-A subordinating conjunction is a conjunction that links constructions
-by making one of them a constituent of the other. The subordinating
-conjunction typically marks the incorporated constituent which has the
-status of a (subordinate) clause.
+A subordinating conjunction is a conjunction that links constructions by making one of them a constituent of the other. The subordinating conjunction typically marks the incorporated constituent which has the status of a (subordinate) clause.
 
-We recognizing these two subclasses as subordinating conjunctions:
+We recognize two subclasses of subordinating conjunctions:
 
-* Complementizers like _որ, թե&nbsp;_ “that”
-* Adverbial clause introducers like _երբ&nbsp;_ “when”, _եթե միայն&nbsp;_ “if only”, _որպեսզի&nbsp;_ “in order”, _որովհետև&nbsp;_ “beacause”, or _նախքան&nbsp;_ “before” (when introducing a clause not a nominal)
+* complementizers such as _որ_/_or_ “that”, _թե_/_t’e_ “that, whether”
+* subordinators introducing adverbial clauses such as _երբ_/_erb_ “when”, _եթե միայն_/_et’e miayn_ “if only”, _որպեսզի_/_orpeszi_ “so that”, _որովհետև_/_orovhetew_ “because”, _նախքան_/_naxk’an_ “before” (when introducing a clause rather than a noun phrase).
 
-Note also, that in Armenian there are no Relativizers. 
+Note that in Armenian there are no dedicated relativizers.
 
-For _coordinating conjunctions,_ see [CCONJ]().
+For coordinating conjunctions, see [CCONJ]().
 
 ### Examples
 
-- _որ, թե&nbsp;_ “that”
-- _թեև, թեպետ&nbsp;_ “though”
-- _եթե&nbsp;_ “if”
-- _քան&nbsp;_ “than”
-- _ուստի&nbsp;_ “hence”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:19:55 CET -->
+- _որ_/_or_, _թե_/_t’e_ “that”
+- _թեև_/_t’eew_, _թեպետ_/_t’epet_ “though”
+- _եթե_/_et’e_ “if”
+- _քան_/_k’an_ “than”
+- _ուստի_/_owsti_ “hence”
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:38 CEST -->

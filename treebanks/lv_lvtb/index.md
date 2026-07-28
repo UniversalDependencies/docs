@@ -19,8 +19,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 The following people have contributed to making this treebank part of UD: Lauma Pretkalniņa, Laura Rituma, Gunta Nešpore-Bērzkalne, Baiba Saulīte, Artūrs Znotiņš, Normunds Grūzītis.
 
 Repository: [UD_Latvian-LVTB](https://github.com/UniversalDependencies/UD_Latvian-LVTB)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlv_lvtb217)<br />
-Download all treebanks: [UD 2.17](/#download)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udlv_lvtb218)<br />
+Download all treebanks: [UD 2.18](/#download)
 
 License: CC BY-SA 4.0
 
@@ -48,7 +48,7 @@ Latvian UD Treebank is based on Latvian Treebank ([LVTB](http://sintakse.korpuss
 
 
 
-Latvian UD Treebank v2.17 consists of 19'580 sentences (330'318 tokens), and it has been obtained by automatic conversion of both the morphological and the syntactic annotations of the original LVTB treebank. LVTB data contains manually verified syntactic annotation according to a hybrid dependency-constituency schema, as well as manually verified morphological tags and lemmas. LVTB is released in parallel with Latvian UD Treebank since v2.2 and features the same version numbers. The corresponding LVTB versions are listed [here](http://sintakse.korpuss.lv/versions.html). Key `LvtbNodeId` in Latvian UD Treebank CoNLL-U field `MISC` provides the mapping from Latvian UD Treebank to LVTB. Each LVTB version is superset of the corresponding Latvian UD Treebank version in terms of included sentences.
+Latvian UD Treebank v2.18 consists of 19'580 sentences (330'318 tokens), and it has been obtained by automatic conversion of both the morphological and the syntactic annotations of the original LVTB treebank. LVTB data contains manually verified syntactic annotation according to a hybrid dependency-constituency schema, as well as manually verified morphological tags and lemmas. LVTB is released in parallel with Latvian UD Treebank since v2.2 and features the same version numbers. The corresponding LVTB versions are listed [here](http://sintakse.korpuss.lv/versions.html). Key `LvtbNodeId` in Latvian UD Treebank CoNLL-U field `MISC` provides the mapping from Latvian UD Treebank to LVTB. Each LVTB version is superset of the corresponding Latvian UD Treebank version in terms of included sentences.
 
 ## Acknowledgments
 
@@ -100,7 +100,7 @@ This work was supported by European Regional Development Fund under the grant ag
 </ul>
 
 <ul>
-<li>This corpus contains 85 word types tagged as particles (PART): Ak, Da, Mjā, Nea, Nuja, Nūja, acīmredzot, ar, ar', ari, arī, arīdzan, atkal, ausīmdzirdot, diemžēl, diez, diezin, droši, fon, gan, i, ij, ik, it, itin, ja, jau, jel, jo, jā, ka, kaut, kur, kā, lai, laikam, ne, nebūt, nekā, nez, nezin, no, nu, nē, nūjā, par, pat, patiesi, patiešām, protams, proti, sak, sazin, ta, ta', tad, tak, taču, te, tiešam, tieši, tiešām, tik, tikai, tikpat, tikvien, tipa, to, tomēr, toties, tur, turklāt, tā, tāpat, tātad, vai, var, varbūt, vien, vienkārši, vienīgi, vis, viss, vēl, še</li>
+<li>This corpus contains 86 word types tagged as particles (PART): Ak, Da, Mjā, Nea, Nuja, Nūja, acīmredzot, ar, ar', ari, arī, arīdzan, atkal, ausīmdzirdot, diemžēl, diez, diezin, droši, fon, gan, i, ij, ik, it, itin, ja, jau, jel, jo, jā, ka, kaut, kur, kā, lai, laikam, ne, nebūt, nekā, nemaz, nez, nezin, no, nu, nē, nūjā, par, pat, patiesi, patiešām, protams, proti, sak, sazin, ta, ta', tad, tak, taču, te, tiešam, tieši, tiešām, tik, tikai, tikpat, tikvien, tipa, to, tomēr, toties, tur, turklāt, tā, tāpat, tātad, vai, var, varbūt, vien, vienkārši, vienīgi, vis, viss, vēl, še</li>
 </ul>
 
 <ul>
@@ -640,7 +640,7 @@ This work was supported by European Regional Development Fund under the grant ag
     <ul>
       <li>ADV: tad, tā, tik, tur, tagad, te, šeit</li>
       <li>DET: to, tas, tā, tās, šo, tam, šī, tie, šajā, šīs</li>
-      <li>PRON: Tām, iā, t, taac, tas, to, tos, šadā, šāda</li>
+      <li>PRON: Tām, iā, t, taac, tas, to, šadā, šāda</li>
     </ul>
   </li>
 </ul>
@@ -913,7 +913,7 @@ This work was supported by European Regional Development Fund under the grant ag
           <li>PART: ari, ar, ka, no, par, tiešam, var, viss, jā</li>
           <li>PRON: ka, viņu, Man, Viņš, VĪNI, esmu, iā, kura, kuram, kuru</li>
           <li>PROPN: Adamovičš, Aigars, Andresena, Darjus, Eotekls, Garsija, Gijām, Grūtups, Krāslava, Latvija</li>
-          <li>PUNCT: ., ,, '", ;</li>
+          <li>PUNCT: ,, ., '", ;</li>
           <li>SCONJ: līdz, ka, kad, kā, kāmēr, la</li>
           <li>SYM: .u, u.t.t</li>
           <li>VERB-Conv: spindzami</li>
@@ -952,20 +952,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Nom (2)</li>
       <li>VERB-Fin--NOUN (33)</li>
       <li>VERB-Fin--NOUN-ADP(bez) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (40)</li>
+      <li>VERB-Fin--NOUN-Acc (39)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(par) (1)</li>
-      <li>VERB-Fin--NOUN-Dat (226)</li>
+      <li>VERB-Fin--NOUN-Dat (227)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(ap) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(pa) (6)</li>
-      <li>VERB-Fin--NOUN-Gen (490)</li>
+      <li>VERB-Fin--NOUN-Gen (491)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(pie) (1)</li>
       <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (8470)</li>
+      <li>VERB-Fin--NOUN-Nom (8418)</li>
       <li>VERB-Fin--NOUN-Voc (2)</li>
       <li>VERB-Fin--PRON-Acc (5)</li>
-      <li>VERB-Fin--PRON-Dat (193)</li>
+      <li>VERB-Fin--PRON-Dat (194)</li>
       <li>VERB-Fin--PRON-Gen (23)</li>
-      <li>VERB-Fin--PRON-Nom (4214)</li>
+      <li>VERB-Fin--PRON-Nom (4208)</li>
       <li>VERB-Inf--NOUN-Acc (3)</li>
       <li>VERB-Inf--NOUN-Dat (12)</li>
       <li>VERB-Inf--NOUN-Nom (23)</li>
@@ -991,13 +991,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Nom (2)</li>
       <li>VERB-Conv--PRON-Acc (16)</li>
       <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-Acc (5576)</li>
+      <li>VERB-Fin--NOUN-Acc (5575)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(par) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (346)</li>
-      <li>VERB-Fin--PRON-Acc (868)</li>
+      <li>VERB-Fin--NOUN-Nom (397)</li>
+      <li>VERB-Fin--PRON-Acc (869)</li>
       <li>VERB-Fin--PRON-Acc-ADP(ar) (1)</li>
-      <li>VERB-Fin--PRON-Nom (36)</li>
-      <li>VERB-Inf--NOUN-Acc (2995)</li>
+      <li>VERB-Fin--PRON-Nom (39)</li>
+      <li>VERB-Inf--NOUN-Acc (2996)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(par) (1)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--NOUN-Nom (4)</li>
@@ -1058,19 +1058,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Dat (795)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(aiz) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(ap) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(ar) (228)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(ar) (229)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(bez) (5)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(līdz) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(līdzi) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(no) (63)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(pa) (6)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(par) (125)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(pie) (8)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(pie) (9)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(pret) (7)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(pretim) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(pretī) (1)</li>
       <li>VERB-Fin--NOUN-Dat-ADP(pēc) (8)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(uz) (61)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(uz) (62)</li>
       <li>VERB-Fin--NOUN-Gen (78)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(aiz) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(ap) (1)</li>
@@ -1084,7 +1084,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(uz) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(virs) (1)</li>
       <li>VERB-Fin--NOUN-Loc (9)</li>
-      <li>VERB-Fin--NOUN-Nom (59)</li>
+      <li>VERB-Fin--NOUN-Nom (61)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ap) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(ar) (3)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(pie) (1)</li>
@@ -1092,7 +1092,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Acc-ADP(par) (35)</li>
       <li>VERB-Fin--PRON-Acc-ADP(pret) (3)</li>
       <li>VERB-Fin--PRON-Acc-ADP(uz) (17)</li>
-      <li>VERB-Fin--PRON-Dat (375)</li>
+      <li>VERB-Fin--PRON-Dat (376)</li>
       <li>VERB-Fin--PRON-Dat-ADP(ar) (4)</li>
       <li>VERB-Fin--PRON-Dat-ADP(no) (1)</li>
       <li>VERB-Fin--PRON-Dat-ADP(par) (9)</li>
@@ -1104,12 +1104,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen-ADP(priekš) (2)</li>
       <li>VERB-Fin--PRON-Gen-ADP(pēc) (1)</li>
       <li>VERB-Fin--PRON-Loc (1)</li>
-      <li>VERB-Fin--PRON-Nom (7)</li>
+      <li>VERB-Fin--PRON-Nom (9)</li>
       <li>VERB-Inf--NOUN (20)</li>
       <li>VERB-Inf--NOUN-ADP(ar) (3)</li>
       <li>VERB-Inf--NOUN-ADP(pret) (2)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(ap) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(ar) (142)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(ar) (143)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(par) (113)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(pret) (6)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(pār) (1)</li>
@@ -1173,7 +1173,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Dat-ADP(par) (37)</li>
       <li>VERB-Part--NOUN-Dat-ADP(pie) (6)</li>
       <li>VERB-Part--NOUN-Dat-ADP(pēc) (2)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(uz) (18)</li>
+      <li>VERB-Part--NOUN-Dat-ADP(uz) (19)</li>
       <li>VERB-Part--NOUN-Gen (19)</li>
       <li>VERB-Part--NOUN-Gen-ADP(ar) (1)</li>
       <li>VERB-Part--NOUN-Gen-ADP(bez) (1)</li>
@@ -1190,7 +1190,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Acc-ADP(ar) (9)</li>
       <li>VERB-Part--PRON-Acc-ADP(par) (20)</li>
-      <li>VERB-Part--PRON-Dat (99)</li>
+      <li>VERB-Part--PRON-Dat (100)</li>
       <li>VERB-Part--PRON-Dat-ADP(ar) (1)</li>
       <li>VERB-Part--PRON-Dat-ADP(no) (1)</li>
       <li>VERB-Part--PRON-Dat-ADP(priekš) (1)</li>

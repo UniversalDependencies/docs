@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1880 nodes (2%) are attached to their parents as `det`.
+1903 nodes (2%) are attached to their parents as `det`.
 
-1873 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33191489361702.
+1886 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33000525486075.
 
-The following 15 pairs of parts of speech are connected with `det`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1642; 87% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (116; 6% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (56; 3% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (11; 1% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `det`: <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1674; 88% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (110; 6% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (59; 3% instances), <tt><a href="sd_isra-pos-DET.html">DET</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (14; 1% instances), <tt><a href="sd_isra-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (12; 1% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (10; 1% instances), <tt><a href="sd_isra-pos-NUM.html">NUM</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="sd_isra-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-AUX.html">AUX</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-PRON.html">PRON</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="sd_isra-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-ADP.html">ADP</a></tt>-<tt><a href="sd_isra-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-ADV.html">ADV</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sd_isra-pos-VERB.html">VERB</a></tt>-<tt><a href="sd_isra-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,7 +63,7 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 4	fgColor:white
 # visual-style 4 5 det	color:blue
 1	پنج	پنج	ADJ	JJC	Case=Nom|Number=Sing	2	amod	_	_
-2	اُهي	اُهي	PRON	PRD	Gender=Masc|Number=Plur	0	root	_	_
+2	اُهي	اُهو	DET	PRD	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	0	root	_	_
 3	۽	۽	CCONJ	CC	_	4	cc	_	_
 4	ٻه	ٻه	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	_
 5	هي	هي	DET	PRD	Case=Nom|Number=Sing|PronType=Dem	4	det	_	_

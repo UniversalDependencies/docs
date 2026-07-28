@@ -13,4 +13,4 @@ obl:lmod(tswa, phaposing)
 obl:lmod(left, room[locative])
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:27 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:34 CEST -->

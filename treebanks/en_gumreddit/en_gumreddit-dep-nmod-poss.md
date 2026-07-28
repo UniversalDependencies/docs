@@ -23,7 +23,7 @@ The following 7 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 nmod:poss	color:blue
-1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Discourse=ROOT:6:0|Entity=(5-person-acc:com-nnnnn-cf1-1-ana)|Lem=*LOWER*|Len=3|PDTB=Hypophora:Hypophora:_:_:1-23:24-31
+1	_	_	PRON	PRP	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	Bridge=3<5:other;set-member|Discourse=ROOT:6:0|Entity=(5-person-acc:inf-nnnnn-cf1-1-coref)|Lem=*LOWER*|Len=3|PDTB=Hypophora:Hypophora:_:_:1-23:24-31
 2	_	_	AUX	MD	VerbForm=Fin	3	aux	3:aux	Lem=_|Len=3
 3	_	_	VERB	VB	VerbForm=Inf	0	root	0:root	Lem=_|Len=6
 4	_	_	ADP	IN	_	7	case	7:case	Lem=_|Len=4

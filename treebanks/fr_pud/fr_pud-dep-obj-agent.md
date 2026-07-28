@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="fr_pud-dep-obj.html">obj</a></tt>.
 
-4 nodes (0%) are attached to their parents as `obj:agent`.
+3 nodes (0%) are attached to their parents as `obj:agent`.
 
-2 instances of `obj:agent` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.5.
+2 instances of `obj:agent` (67%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.33333333333333.
 
-The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (2; 50% instances).
+The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (2; 67% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (1; 33% instances).
 
 
 ~~~ conllu
@@ -48,7 +48,7 @@ The following 2 pairs of parts of speech are connected with `obj:agent`: <tt><a 
 2	est	être	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	ce	ce	PRON	PDEM	PronType=Dem	0	root	_	_
 4	qui	qui	PRON	WP	PronType=Rel	7	nsubj:caus	_	_
-5	nous	le	PRON	PRP	Number=Plur|Person=1|PronType=Prs	7	obj:agent	_	_
+5	nous	nous	PRON	PRP	Number=Plur|Person=1|PronType=Prs	7	obj:agent	_	_
 6	fait	faire	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:caus	_	_
 7	revenir	revenir	VERB	VB	VerbForm=Inf	3	acl:relcl	_	_
 8	encore	encore	ADV	RB	_	7	advmod	_	_

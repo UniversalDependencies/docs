@@ -76,7 +76,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 2 <tt><a href="eo_cairo-pos-DET.html">DET</a></tt> tokens (20% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="eo_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="eo_cairo-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="eo_cairo-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%), <tt><a href="eo_cairo-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (2; 100%).
 
 `DET` tokens may have the following values of `Case`:
 
@@ -86,8 +86,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>tiu</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
-  <tr><td><tt></tt></td><td></td><td><em>tiun</em></td></tr>
-  <tr><td><tt><tt><a href="eo_cairo-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>tiu</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>tiu</em></td><td><em>tiun</em></td></tr>
 </table>
 
 ### `VERB`

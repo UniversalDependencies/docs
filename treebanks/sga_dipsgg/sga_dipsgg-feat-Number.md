@@ -12,20 +12,20 @@ It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 254 tokens (61%) have a non-empty value of `Number`.
 205 types (73%) occur at least once with a non-empty value of `Number`.
 167 lemmas (80%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (108; 26% instances), <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (31; 7% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (28; 7% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (22; 5% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (20; 5% instances), <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (17; 4% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (15; 4% instances), <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> (12; 3% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (109; 26% instances), <tt><a href="sga_dipsgg-pos-DET.html">DET</a></tt> (31; 7% instances), <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (28; 7% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (22; 5% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (20; 5% instances), <tt><a href="sga_dipsgg-pos-AUX.html">AUX</a></tt> (17; 4% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (14; 3% instances), <tt><a href="sga_dipsgg-pos-ADP.html">ADP</a></tt> (12; 3% instances), <tt><a href="sga_dipsgg-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
-108 <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> tokens (92% of all `NOUN` tokens) have a non-empty value of `Number`.
+109 <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> tokens (92% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
 * `Dual` (1; 1% of non-empty `Number`): <em>rainn</em>
 * `Plur` (10; 9% of non-empty `Number`): <em>bachal, comroicniu, dindgnaib, doss, déainmmnichdechaib, fidbaidae, grec, laitnori, ṅén, ṡianach</em>
-* `Sing` (97; 90% of non-empty `Number`): <em>ᚉᚑᚉᚐᚏᚈ, dia, dias, ingen, ainm, airdircus, aite, aithne, anmmain, bendacht</em>
+* `Sing` (98; 90% of non-empty `Number`): <em>ᚉᚑᚉᚐᚏᚈ, dia, dias, ingen, ainm, airdircus, aite, aithne, anmmain, bendacht</em>
 * `EMPTY` (10): <em>accentus, animalis, femininum, nomen, pedo, sam, sona, vesíca, ᚃᚓᚏᚔᚐ, ᚆᚑᚇᚔᚓ</em>
 
-`Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (94) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `NOUN`. 100% lemmas (95) occur only with one value of `Number`.
 
 ### `DET`
 
@@ -117,14 +117,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `PROPN`
 
-15 <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> tokens (94% of all `PROPN` tokens) have a non-empty value of `Number`.
+14 <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> tokens (93% of all `PROPN` tokens) have a non-empty value of `Number`.
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Sing` (15; 100% of non-empty `Number`): <em>brigtae, choirbbre, dongus, donngvs, ferguso, finguine, lothlind, maddoc, mail, máel</em>
+* `Sing` (14; 100% of non-empty `Number`): <em>brigtae, choirbbre, dongus, donngvs, ferguso, finguine, lothlind, maddoc, máel, máelecán</em>
 * `EMPTY` (1): <em>isidorus</em>
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (14) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (13) occur only with one value of `Number`.
 
 ### `ADP`
 
@@ -159,7 +159,7 @@ The most frequent other feature values with which `SCONJ` and `Number` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="sga_dipsgg-dep-det.html">det</a></tt>]--> DET</tt> (25; 100%),
-<tt>NOUN --[<tt><a href="sga_dipsgg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (19; 70%),
+<tt>NOUN --[<tt><a href="sga_dipsgg-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (19; 68%),
 <tt>NOUN --[<tt><a href="sga_dipsgg-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (9; 100%),
 <tt>VERB --[<tt><a href="sga_dipsgg-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (9; 100%),
 <tt>VERB --[<tt><a href="sga_dipsgg-dep-obj.html">obj</a></tt>]--> NOUN</tt> (8; 100%),

@@ -15,4 +15,4 @@ obl:tmod(certified, 1994-15)
 ~~~
 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:31 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:37 CEST -->

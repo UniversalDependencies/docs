@@ -15,4 +15,4 @@ nsubj(ваны, лампась)
 
 ~~~
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:08 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:19 CEST -->

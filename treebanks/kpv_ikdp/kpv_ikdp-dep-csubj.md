@@ -70,7 +70,7 @@ The following 2 pairs of parts of speech are connected with `csubj`: <tt><a href
 11	сідз	сідз	ADV	Adv	_	13	mark	_	_
 12	и	и	PART	Pcle	_	13	advmod	_	OrigLang=ru
 13	смыло	смыть	VERB	V	Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	9	conj	_	Lang=ru
-14	всю	весь	DET	Det	Case=Acc|Number=Sing	15	det	_	Lang=ru
+14	всю	весь	DET	Det	Case=Acc|Number=Sing|PronType=Tot	15	det	_	Lang=ru
 15	деревню	деревня	NOUN	N	Case=Acc|Number=Sing	13	obj	_	Lang=ru|SpaceAfter=No
 16	.	.	PUNCT	CLB	_	15	punct	_	_
 

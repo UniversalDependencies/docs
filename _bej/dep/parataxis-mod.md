@@ -12,4 +12,4 @@ uː= mbʔaɖ han / waʤʤa -i gaw iː- kti =jeːt / toː= na / a- kan / hoːj a-
 text_en: Looking for a place where to take refuge from the rain, when I found the wrapped straw mats ( a straw tent) next to a rock, I sat down under the tent", he said.
 parataxis:mod(moːk, kan) ("take_shelter", "know")
 ~~~
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:35 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:40 CEST -->

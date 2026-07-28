@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `obl`: <tt><a href="apu_ufpa-dep-obl-lmod.html">obl:lmod</a></tt>, <tt><a href="apu_ufpa-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-38 nodes (4%) are attached to their parents as `obl`.
+44 nodes (4%) are attached to their parents as `obl`.
 
-19 instances of `obl` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.97368421052632.
+24 instances of `obl` (55%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.93181818181818.
 
-The following 3 pairs of parts of speech are connected with `obl`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (28; 74% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (9; 24% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-ADV.html">ADV</a></tt> (1; 3% instances).
+The following 3 pairs of parts of speech are connected with `obl`: <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-NOUN.html">NOUN</a></tt> (31; 70% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-PRON.html">PRON</a></tt> (11; 25% instances), <tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt>-<tt><a href="apu_ufpa-pos-VERB.html">VERB</a></tt> (2; 5% instances).
 
 
 ~~~ conllu
@@ -50,17 +50,18 @@ The following 3 pairs of parts of speech are connected with `obl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 obl	color:blue
-1	Ywasawaky	ywasawaky	ADV	Adv	AdvType=Tim	4	obl	_	_
-2	ywa	ywa	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	nsubj	_	_
-3	Kirama	Kirama	PROPN	N	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	2	appos	_	_
-4	kamary	kama	VERB	V	Mood=Ind|Number[obj]=Sing|Person[obj]=3|Tense=Past,Pres|VerbForm=Fin	0	root	_	_
-5	xamyna	xamyna	NOUN	_	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	4	obj	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 obl	color:blue
+1	Ypusatuku	ypusatuku	ADV	Adv	_	3	advmod	_	_
+2	xamyna	xamyna	NOUN	N	Case=Nom|Gender=Masc|Number=Sing|Possessed=No	3	obj	_	GTtags=Msc,Sg,NPossd,Nom
+3	itxirata	txirata	VERB	V	Gender[subj]=Masc|Mood=Ind|Number[subj]=Sing|Person[subj]=3|Tense=Past,Pres|VerbForm=Fin	0	root	_	GTtags=TV,ScSg3M,NFut
+4	kumyrype	kumyrype	NOUN	N	Case=Nom|Number=Sing	5	obj	_	GTtags=?
+5	ykukytinhi	kukyta	VERB	V	Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=3|Possessed=Yes|VerbForm=Vnoun	3	obl	_	GTtags=TV,Der,Der/NomAct,N,Msc,Sg,PxSg3M,Possd,Nom
+6	ĩkapane	ĩkapanhi	ADP	Po	AdpType=Post	5	case	_	GTtags=Po|SpaceAfter=No
+7	.	.	PUNCT	CLB	_	3	punct	_	GTtags=CLB
 
 ~~~
 

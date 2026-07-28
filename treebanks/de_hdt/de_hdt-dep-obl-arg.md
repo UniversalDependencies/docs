@@ -27,7 +27,7 @@ The following 21 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 3	Gerüchten	Gerücht	NOUN	NN	Case=Dat|Gender=Neut|Number=Plur	4	obl:arg	_	_
 4	liegt	liegen	VERB	VVFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	eine	ein	DET	ART	Case=Nom|Definite=Ind|Gender=Fem|Number=Sing|NumType=Card|PronType=Art	7	det	_	_
-6	unseriöse	unseriöse	ADJ	ADJA	Gender=Fem|Number=Sing	7	amod	_	_
+6	unseriöse	unseriöse	ADJ	ADJA	Case=Nom|Gender=Fem|Number=Sing	7	amod	_	_
 7	Recherche	Recherche	NOUN	NN	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
 8	zugrunde	zugrunde	ADP	PTKVZ	PartType=Vbp	4	compound:prt	_	_
 9	.	.	PUNCT	$.	PunctType=Peri	4	punct	_	_

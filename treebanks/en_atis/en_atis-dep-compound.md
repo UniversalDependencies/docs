@@ -65,7 +65,7 @@ The following 17 pairs of parts of speech are connected with `compound`: <tt><a 
 5	san	San	PROPN	_	Number=Sing	1	nmod	_	_
 6	francisco	Francisco	PROPN	_	Number=Sing	5	flat	_	_
 7	on	on	ADP	_	_	8	case	_	_
-8	january	January	NOUN	_	Number=Sing	1	obl:tmod	_	_
+8	january	January	NOUN	_	Number=Sing	1	obl:unmarked	_	_
 9	twenty	twenty	NUM	_	NumType=Card	10	compound	_	_
 10	first	one	ADJ	_	Degree=Pos|NumType=Ord	8	amod	_	_
 11	1992	1992	NUM	_	NumType=Card	8	nummod	_	_

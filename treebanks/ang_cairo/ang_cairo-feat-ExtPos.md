@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ang_cairo-pos-PRON.
 
 1 <tt><a href="ang_cairo-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Dat</tt> (1; 100%), <tt><a href="ang_cairo-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ang_cairo-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="ang_cairo-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%).
+The most frequent other feature values with which `PRON` and `ExtPos` co-occurred: <tt><a href="ang_cairo-feat-Case.html">Case</a></tt><tt>=Dat</tt> (1; 100%), <tt><a href="ang_cairo-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ang_cairo-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1; 100%), <tt><a href="ang_cairo-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="ang_cairo-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="ang_cairo-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1; 100%).
 
 `PRON` tokens may have the following values of `ExtPos`:
 

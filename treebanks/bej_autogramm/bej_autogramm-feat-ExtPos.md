@@ -28,7 +28,7 @@ The most frequent other feature values with which `PART` and `ExtPos` co-occurre
 
 12 <tt><a href="bej_autogramm-pos-SCONJ.html">SCONJ</a></tt> tokens (2% of all `SCONJ` tokens) have a non-empty value of `ExtPos`.
 
-The most frequent other feature values with which `SCONJ` and `ExtPos` co-occurred: <tt><a href="bej_autogramm-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (10; 83%), <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 58%).
+The most frequent other feature values with which `SCONJ` and `ExtPos` co-occurred: <tt><a href="bej_autogramm-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 58%).
 
 `SCONJ` tokens may have the following values of `ExtPos`:
 

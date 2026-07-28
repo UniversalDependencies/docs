@@ -24,8 +24,8 @@ The following 5 pairs of parts of speech are connected with `vocative`: <tt><a h
 # visual-style 2 1 vocative	color:blue
 1	Bobos	Bobo	NOUN	NN	Gender=Masc|Number=Plur	2	vocative	_	_
 2	hört	hören	VERB	VVIMP	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
-3	die	der	DET	ART	Case=Acc|Definite=Def|Number=Plur|PronType=Art	4	det	_	_
-4	Signale	Signal	NOUN	NN	Gender=Neut|Number=Plur	2	obj	_	_
+3	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
+4	Signale	Signal	NOUN	NN	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	_
 5	:	:	PUNCT	$.	PunctType=Peri	2	punct	_	_
 
 ~~~

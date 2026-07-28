@@ -10,9 +10,9 @@ This feature is language-specific.
 It occurs with 1 different values: `Yes`.
 
 431 tokens (0%) have a non-empty value of `Typo`.
-389 types (1%) occur at least once with a non-empty value of `Typo`.
+388 types (1%) occur at least once with a non-empty value of `Typo`.
 354 lemmas (2%) occur at least once with a non-empty value of `Typo`.
-The feature is used with 16 part-of-speech tags: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (156; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (102; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (29; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (29; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (26; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (13; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (7; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (2; 0% instances).
+The feature is used with 16 part-of-speech tags: <tt><a href="lv_lvtb-pos-NOUN.html">NOUN</a></tt> (156; 0% instances), <tt><a href="lv_lvtb-pos-VERB.html">VERB</a></tt> (102; 0% instances), <tt><a href="lv_lvtb-pos-ADV.html">ADV</a></tt> (29; 0% instances), <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> (28; 0% instances), <tt><a href="lv_lvtb-pos-ADJ.html">ADJ</a></tt> (26; 0% instances), <tt><a href="lv_lvtb-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="lv_lvtb-pos-PART.html">PART</a></tt> (14; 0% instances), <tt><a href="lv_lvtb-pos-SYM.html">SYM</a></tt> (13; 0% instances), <tt><a href="lv_lvtb-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="lv_lvtb-pos-ADP.html">ADP</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="lv_lvtb-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="lv_lvtb-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="lv_lvtb-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="lv_lvtb-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="lv_lvtb-pos-DET.html">DET</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -52,13 +52,13 @@ The most frequent other feature values with which `ADV` and `Typo` co-occurred: 
 
 ### `PRON`
 
-29 <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
+28 <tt><a href="lv_lvtb-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 62%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (17; 59%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16; 55%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18; 64%), <tt><a href="lv_lvtb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (16; 57%), <tt><a href="lv_lvtb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16; 57%).
 
 `PRON` tokens may have the following values of `Typo`:
 
-* `Yes` (29; 100% of non-empty `Typo`): <em>ka, viņu, Man, Viņš, VĪNI, esmu, iā, kura, kuram, kuru</em>
+* `Yes` (28; 100% of non-empty `Typo`): <em>ka, viņu, Man, Viņš, VĪNI, esmu, iā, kura, kuram, kuru</em>
 
 `Typo` seems to be **lexical feature** of `PRON`. 100% lemmas (16) occur only with one value of `Typo`.
 
@@ -122,11 +122,11 @@ The most frequent other feature values with which `SYM` and `Typo` co-occurred: 
 
 ### `PUNCT`
 
-7 <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Typo`.
+8 <tt><a href="lv_lvtb-pos-PUNCT.html">PUNCT</a></tt> tokens (0% of all `PUNCT` tokens) have a non-empty value of `Typo`.
 
 `PUNCT` tokens may have the following values of `Typo`:
 
-* `Yes` (7; 100% of non-empty `Typo`): <em>., ,, '", ;</em>
+* `Yes` (8; 100% of non-empty `Typo`): <em>,, ., '", ;</em>
 
 ### `CCONJ`
 

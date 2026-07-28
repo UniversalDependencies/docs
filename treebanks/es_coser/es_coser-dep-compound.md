@@ -23,14 +23,14 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 20	fgColor:white
 # visual-style 20 21 compound	color:blue
 1	Mira	mirar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	7	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	fc	PunctType=Comm	1	punct	_	_
+2	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
 3	mira	mirar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	advcl	_	_
 4	si	si	SCONJ	cs	_	7	mark	_	_
 5	los	él	PRON	pc1cp000	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	7	nsubj:pass	_	_
 6	hemos	haber	AUX	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
 7	hecho	hacer	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	viejos	viejo	ADJ	aq0mp0	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
-9	,	,	PUNCT	fc	PunctType=Comm	7	punct	_	_
+9	,	,	PUNCT	fc	PunctType=Comm	13	punct	_	_
 10	que	que	SCONJ	cs	_	13	obj	_	_
 11	yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
 12	ya	ya	ADV	rg	_	13	advmod	_	_
@@ -56,14 +56,14 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 # visual-style 20	fgColor:white
 # visual-style 20 22 compound	color:blue
 1	Mira	mirar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	7	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	fc	PunctType=Comm	1	punct	_	_
+2	,	,	PUNCT	fc	PunctType=Comm	3	punct	_	_
 3	mira	mirar	VERB	vmm02s0	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	advcl	_	_
 4	si	si	SCONJ	cs	_	7	mark	_	_
 5	los	él	PRON	pc1cp000	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	7	nsubj:pass	_	_
 6	hemos	haber	AUX	vmip1p0	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	7	aux:pass	_	_
 7	hecho	hacer	VERB	vmp00sm	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	viejos	viejo	ADJ	aq0mp0	Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
-9	,	,	PUNCT	fc	PunctType=Comm	7	punct	_	_
+9	,	,	PUNCT	fc	PunctType=Comm	13	punct	_	_
 10	que	que	SCONJ	cs	_	13	obj	_	_
 11	yo	yo	PRON	pp1csn00	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
 12	ya	ya	ADV	rg	_	13	advmod	_	_
@@ -93,7 +93,7 @@ The following 5 pairs of parts of speech are connected with `compound`: <tt><a h
 3	fiestas	fiesta	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	_	_
 4	patronales	patronal	ADJ	_	Number=Plur	3	amod	_	_
 5	en	en	ADP	_	_	6	case	_	_
-6	Rio	Rio	PROPN	_	_	3	obl	_	_
+6	Rio	Rio	PROPN	_	_	3	nmod	_	_
 7	de	de	ADP	_	_	8	case	_	_
 8	Oro	Oro	PROPN	_	_	6	flat	_	_
 9	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	11	punct	_	SpaceAfter=No

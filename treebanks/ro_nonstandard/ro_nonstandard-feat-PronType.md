@@ -11,13 +11,13 @@ It occurs with 9 different values: `Art`, `Dem`, `Emp`, `Ind`, `Int`, `Neg`, `Pr
 Some words have combined values of the feature; 1 combinations have been observed: `Int|Rel`.
 
 94017 tokens (16%) have a non-empty value of `PronType`.
-1292 types (4%) occur at least once with a non-empty value of `PronType`.
-242 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (64626; 11% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (23847; 4% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (5423; 1% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (121; 0% instances).
+1291 types (4%) occur at least once with a non-empty value of `PronType`.
+241 lemmas (2%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (64625; 11% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (23847; 4% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (5424; 1% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (121; 0% instances).
 
 ### `PRON`
 
-64626 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+64625 <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
 The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="ro_nonstandard-feat-Person.html">Person</a></tt><tt>=3</tt> (50288; 78%), <tt><a href="ro_nonstandard-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (37306; 58%).
 
@@ -28,7 +28,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 * `Ind` (4094; 6% of non-empty `PronType`): <em>toate, toți, unul, unii, alții, altul, mulți, una, cineva, tot</em>
 * `Int,Rel` (9162; 14% of non-empty `PronType`): <em>ce, carele, cine, carii, care, carea, ce-, căruia, cărora, cui</em>
 * `Neg` (771; 1% of non-empty `PronType`): <em>nime, nemică, nemic, nimic, nimeni, nimenea, nimică, nemurui, nimica, nemărui</em>
-* `Prs` (45999; 71% of non-empty `PronType`): <em>să, lui, el, -i, -l, s-, lor, ei, le, mă</em>
+* `Prs` (45998; 71% of non-empty `PronType`): <em>să, lui, el, -i, -l, s-, lor, ei, le, mă</em>
 * `EMPTY` (2): <em>ce, lui</em>
 
 <table>
@@ -77,15 +77,15 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 ### `ADV`
 
-5423 <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> tokens (16% of all `ADV` tokens) have a non-empty value of `PronType`.
+5424 <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> tokens (16% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5423; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (5424; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
 * `Ind` (651; 12% of non-empty `PronType`): <em>tot, cumva, atîta, mult, uneori, oarecum, oarecînd, Puţinel, cîndva, multu</em>
-* `Int,Rel` (4772; 88% of non-empty `PronType`): <em>cum, cînd, unde, când, cît, precum, cumu, cîte, cât, cîndu</em>
-* `EMPTY` (29173): <em>nu, mai, și, n-, numai, şi, încă, acolo, bine, atunce</em>
+* `Int,Rel` (4773; 88% of non-empty `PronType`): <em>cum, cînd, unde, când, cît, precum, cumu, cîte, cât, cîndu</em>
+* `EMPTY` (29172): <em>nu, mai, și, n-, numai, şi, încă, acolo, bine, atunce</em>
 
 <table>
   <tr><th>Paradigm <i>tot</i></th><th><tt>Int,Rel</tt></th><th><tt>Ind</tt></th></tr>
@@ -103,7 +103,7 @@ The most frequent other feature values with which `NUM` and `PronType` co-occurr
 `NUM` tokens may have the following values of `PronType`:
 
 * `Tot` (121; 100% of non-empty `PronType`): <em>amîndoi, amândoi, amîndoao, îmbe, amîndurora, tustrei, amîndouă, tuspatru, tusșapte, înbe</em>
-* `EMPTY` (5052): <em>trei, doi, 2, doao, cinci, patru, 3, întîiu, treia, 4</em>
+* `EMPTY` (5051): <em>trei, doi, 2, doao, cinci, patru, 3, întîiu, treia, 4</em>
 
 `PronType` seems to be **lexical feature** of `NUM`. 100% lemmas (13) occur only with one value of `PronType`.
 

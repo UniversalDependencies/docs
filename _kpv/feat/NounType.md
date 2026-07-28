@@ -11,4 +11,4 @@ udver: '2'
 
 * [kpv] _выв, ув, берд_ "_upper surface, what is below, what is next to_"
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:27 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->

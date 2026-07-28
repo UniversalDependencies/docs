@@ -43,7 +43,7 @@ The following 3 pairs of parts of speech are connected with `nmod:obj`: <tt><a h
 # visual-style 3	fgColor:white
 # visual-style 3 2 nmod:obj	color:blue
 1	Шондіыс	шонді	NOUN	N	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	nsubj	_	_
-2	нем	нем	PRON	Pron	Case=Nom|Number=Sing|Polarity=Neg	3	nmod:obj	_	_
+2	нем	нем	PRON	Pron	Case=Nom|Number=Sing|Polarity=Neg|PronType=Neg	3	nmod:obj	_	_
 3	жалиттӧг	жалитны	VERB	V	Derivation=VAbe|VerbForm=Conv	4	advcl	_	OrigLang=ru
 4	пӧжис	пӧжны	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	CLB	_	4	punct	_	_
@@ -65,7 +65,7 @@ The following 3 pairs of parts of speech are connected with `nmod:obj`: <tt><a h
 6	нин	нин	ADV	Adv	AdvType=Tim	11	advmod	_	GTtags=Sem/Time
 7	ылалӧм	ылавны	VERB	V	Tense=Past|VerbForm=Part	8	acl	_	GTtags=IV,Der,Der/ӧм,PastPtc
 8	синмӧн	син	NOUN	N	Case=Ins|Number=Sing	11	xcomp	_	GTtags=Sg,Ins
-9	стрӧитчысьясыслысь	стрӧитчыны	VERB	V	Case=Abl|Nomzr=Ag|Number=Plur|Number[psor]=Sing|Person[psor]=3	10	nmod:poss	_	GTtags=Refl,Der,Der/ысь,Der/NomAg,N,Pl,Abl|PxSg3
+9	стрӧитчысьясыслысь	стрӧитчыны	VERB	V	Case=Abl|Number=Plur|Number[psor]=Sing|Person[psor]=3|VerbForm=NomAg	10	nmod:poss	_	GTtags=Refl,Der,Der/ысь,Der/NomAg,N,Pl,Abl|PxSg3
 10	мойдӧмсӧ	мойдны	VERB	V	Clitic=So|Tense=Past|VerbForm=Vnoun	11	obj	_	GTtags=TV,Der,Der/ӧм,PastPtc,Clt/сӧ,?
 11	кывзы	кывзыны	VERB	V	Connegative=Yes	1	conj	_	GTtags=TV,ConNeg|SpaceAfter=No
 12	,	,	PUNCT	PUNCT	_	14	punct	_	_

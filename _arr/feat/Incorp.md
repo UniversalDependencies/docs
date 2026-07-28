@@ -25,4 +25,4 @@ in Tupinambá, to funcion as arguments of predicates or allow them to be referen
 
 * _<b>o-j-aoβok</b>&nbsp;_ “He tears his clothes”
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:20 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:58:57 CEST -->

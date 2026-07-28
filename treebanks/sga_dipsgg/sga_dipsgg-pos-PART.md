@@ -61,7 +61,7 @@ Examples: <em>fo, Do, a, at, fu, in, no, th</em>
 
 `PART` nodes are attached to their parents using 7 different relations: <tt><a href="sga_dipsgg-dep-compound-prt.html">compound:prt</a></tt> (12; 38% instances), <tt><a href="sga_dipsgg-dep-amod.html">amod</a></tt> (9; 28% instances), <tt><a href="sga_dipsgg-dep-case-voc.html">case:voc</a></tt> (5; 16% instances), <tt><a href="sga_dipsgg-dep-advmod.html">advmod</a></tt> (3; 9% instances), <tt><a href="sga_dipsgg-dep-mark.html">mark</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-dep-root.html">root</a></tt> (1; 3% instances)
 
-Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (16; 50% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (9; 28% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (1; 3% instances),  (1; 3% instances)
+Parents of `PART` nodes belong to 7 different parts of speech: <tt><a href="sga_dipsgg-pos-VERB.html">VERB</a></tt> (16; 50% instances), <tt><a href="sga_dipsgg-pos-NOUN.html">NOUN</a></tt> (10; 31% instances), <tt><a href="sga_dipsgg-pos-ADJ.html">ADJ</a></tt> (2; 6% instances), <tt><a href="sga_dipsgg-pos-PART.html">PART</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PRON.html">PRON</a></tt> (1; 3% instances), <tt><a href="sga_dipsgg-pos-PROPN.html">PROPN</a></tt> (1; 3% instances),  (1; 3% instances)
 
 22 (69%) `PART` nodes are leaves.
 

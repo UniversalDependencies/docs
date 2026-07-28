@@ -48,4 +48,4 @@ _ṿaykulu hashamayim ṿehaʼarets ṿekhal **tsevaʼam**_
 
 _And the sky and the land and all **their host** were completed._
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:22:10 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:20 CEST -->

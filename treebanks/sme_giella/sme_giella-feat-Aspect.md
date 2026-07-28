@@ -23,7 +23,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 `VERB` tokens may have the following values of `Aspect`:
 
 * `Perf` (483; 100% of non-empty `Aspect`): <em>oaidnán, ožžon, boahtán, leamaš, mannan, oahppan, čállán, bargan, dahkan, váldán</em>
-* `EMPTY` (3827): <em>lea, leat, lei, ledje, bođii, boahtá, manai, vuolgit, dieđe, lohká</em>
+* `EMPTY` (3826): <em>lea, leat, lei, ledje, bođii, boahtá, manai, vuolgit, dieđe, lohká</em>
 
 `Aspect` seems to be **lexical feature** of `VERB`. 100% lemmas (238) occur only with one value of `Aspect`.
 
@@ -36,7 +36,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Perf` (25; 100% of non-empty `Aspect`): <em>leamaš, beassan, berren, gártan, leamašan, sáhttán</em>
-* `EMPTY` (1969): <em>lea, leat, ii, lei, eai, ledje, galgá, lean, sáhttá, in</em>
+* `EMPTY` (1970): <em>lea, leat, ii, lei, eai, ledje, galgá, lean, sáhttá, in</em>
 
 ## Relations with Agreement in `Aspect`
 

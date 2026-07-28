@@ -30,4 +30,4 @@ _<b>chaidh</b> e sin a mhilleadh cho luath 's a thàinig e_
 11	e	e	PRON	Pp3sm	Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
 ~~~ 
 
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:21:20 CET -->
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:42 CEST -->

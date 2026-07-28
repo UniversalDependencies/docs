@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="en_gum-dep-csubj.html">csubj</a></tt>.
 There are also 1 other language-specific subtypes of `csubj`: <tt><a href="en_gum-dep-csubj-outer.html">csubj:outer</a></tt>.
 
-17 nodes (0%) are attached to their parents as `csubj:pass`.
+20 nodes (0%) are attached to their parents as `csubj:pass`.
 
-13 instances of `csubj:pass` (76%) are left-to-right (parent precedes child).
-Average distance between parent and child is 7.76470588235294.
+16 instances of `csubj:pass` (80%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.25.
 
-The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (14; 82% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 12% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 6% instances).
+The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-VERB.html">VERB</a></tt> (17; 85% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-NOUN.html">NOUN</a></tt> (2; 10% instances), <tt><a href="en_gum-pos-VERB.html">VERB</a></tt>-<tt><a href="en_gum-pos-ADJ.html">ADJ</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -64,19 +64,19 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 15	fiancé	fiancé	NOUN	NN	Number=Sing	4	csubj:pass	4:csubj:pass	SpaceAfter=No
 16	"	"	PUNCT	''	_	15	punct	15:punct	Entity=86)|XML=</q>
 17	at	at	ADP	IN	_	19	case	19:case	_
-18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	Entity=(112-time-acc:com-nnnnn-cf5-2-sgl
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	19:det	Bridge=51<112:comparison-time;entity-associative|Entity=(112-time-acc:inf-nnnnn-cf6-2-sgl
 19	time	time	NOUN	NN	Number=Sing	15	nmod	15:nmod:at	Entity=112)111)
 20	(	(	PUNCT	-LRB-	_	23	punct	23:punct	Discourse=context-background:89->88:0:ref-prs-703-705,714-_|SpaceAfter=No
 21	she	she	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	23	nsubj	23:nsubj	Entity=(66-person-giv:act-nnnnn-cf2-1-ana)
 22	ultimately	ultimately	ADV	RB	Degree=Pos	23	advmod	23:advmod	MSeg=ultimate-ly
 23	married	marry	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	parataxis	15:parataxis	MSeg=marri-ed
-24	someone	someone	PRON	NN	Number=Sing|PronType=Ind	23	obj	23:obj	Entity=(113-person-new-nnnnn-cf7-1-sgl|MSeg=some-one
+24	someone	someone	PRON	NN	Number=Sing|PronType=Ind	23	obj	23:obj	Bridge=103<113:comparison-relative|Entity=(113-person-acc:inf-nnnnn-cf5-1-sgl|MSeg=some-one
 25	else	else	ADV	RB	Degree=Pos	24	advmod	24:advmod	Entity=113)|SpaceAfter=No
 26	)	)	PUNCT	-RRB-	_	23	punct	23:punct	SpaceAfter=No
 27	,	,	PUNCT	,	_	34	punct	34:punct	_
 28	but	but	CCONJ	CC	_	34	cc	34:cc	Discourse=adversative-contrast_m:90->88:1:dm-but-721-_|PDTB=Explicit:Comparison.Contrast:but:721:694-720:722-731
 29	no	no	DET	DT	PronType=Neg	31	det	31:det	Negation=Yes
-30	clear	clear	ADJ	JJ	Degree=Pos	31	amod	31:amod	Entity=(114-abstract-new-nnnnn-cf6-2-sgl
+30	clear	clear	ADJ	JJ	Degree=Pos	31	amod	31:amod	Entity=(114-abstract-new-nnnnn-cf7-2-sgl
 31	evidence	evidence	NOUN	NN	Number=Sing	34	nsubj:pass	34:nsubj:pass	Entity=114)|MSeg=evid-ence
 32	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	aux	34:aux	MSeg=ha-s
 33	been	be	AUX	VBN	Tense=Past|VerbForm=Part	34	aux:pass	34:aux:pass	_

@@ -19,26 +19,23 @@ udver: '2'
 </tr>
 </table>
 
-Classification of named entities (token-based, no nesting of entities etc.)
-The feature applies mainly to the [PROPN]() tag;
-in multi-word foreign names, [adjectives](ADJ) may also have this feature
-(they preserve the `ADJ` tag but at the same time they would not exist in Armenian otherwise than in the named entity).
+Classification of named entities (token-based, no nesting of entities etc.). The feature applies mainly to the [PROPN]() tag; in multi-word foreign names, [adjectives](ADJ) may also have this feature (they preserve the `ADJ` tag, because they would not otherwise occur in Armenian outside the named entity).
 
 ### <a name="Geo">`Geo`</a>: geographical name
 
-Names of cities, countries, rivers, mountains etc.
+Names of cities, countries, rivers, mountains, etc.
 
 #### Examples
 
-* _<b>Երևան, ՀՀ, Եվրոպա, Գերմանիա, Վանա, Սևանա</b>&nbsp;_ “Yerevan, RA, Europe, Germany, of Van, of Sevan”
+* _Երևան_/_Erewan_ “Yerevan”, _ՀՀ_/_HH_ “RA”, _Եվրոպա_/_Evropa_ “Europe”, _Գերմանիա_/_Germania_ “Germany”, _Վանա_/_Vana_ “of Van”, _Սևանա_/_Sewana_ “of Sevan”
 
 ### <a name="Prs">`Prs`</a>: name of person
 
-This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name. We used this value for pseudonyms, nicknames, pen-names etc.
+This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name. This value is also used for pseudonyms, nicknames, pen names, etc.
 
 #### Examples
 
-* _<b>Նար-Դոս, Գամառ-Քատիպա, Քաչալ, Կոմիտաս</b>&nbsp;_ “Nar-Dos, Gamar-Katipa, Kachal (skinhead), Komitas”
+* _Նար-Դոս_/_Nar-Dos_ “Nar-Dos”, _Գամառ-Քատիպա_/_Gamaṙ-Kʼatipa_ “Gamar-Katipa”, _Քաչալ_/_Kʼačal_ “Kachal (skinhead)”, _Կոմիտաս_/_Komitas_ “Komitas”
 
 ### <a name="Giv">`Giv`</a>: given name of person
 
@@ -46,15 +43,15 @@ Given name (not family name). This is usually the first name.
 
 #### Examples
 
-* _<b>Արամ, Անահիտ, Հովհաննես</b>&nbsp;_ “Aram, Anahit, Hovhannes”
+* _Արամ_/_Aram_ “Aram”, _Անահիտ_/_Anahit_ “Anahit”, _Հովհաննես_/_Hovhannes_ “Hovhannes”
 
 ### <a name="Pat">`Pat`</a>: patronymic in a name of a person
 
-Patronymic (not given name and not family name). We used this value also for foreign (mostly Slavic or à la Slavic manner) patronymics.
+Patronymic (not given name and not family name). This value is also used for foreign (mostly Slavic or Slavic-style) patronymics.
 
 #### Examples
 
-* _<b>Սերոբի, Արամիչ, Անդրեևնա, Սերգեևիչ</b>&nbsp;_ “ٍSerobi, Aramich, Andreyevna, Sergeyevich”
+* _Սերոբի_/_Serobi_ “Serobi”, _Արամիչ_/_Aramič_ “Aramich”, _Անդրեևնա_/_Andreewna_ “Andreyevna”, _Սերգեևիչ_/_Sergeewič_ “Sergeyevich”
 
 ### <a name="Sur">`Sur`</a>: surname / family name of person
 
@@ -62,25 +59,25 @@ Family name (surname). This is usually the last name.
 
 #### Examples
 
-* _<b>Սարոյան, Տեր-Պետրոսյան, Գրիգորյան</b>&nbsp;_ “Saroyan, Ter-Petrosyan, Grigoryan”
+* _Սարոյան_/_Saroyan_ “Saroyan”, _Տեր-Պետրոսյան_/_Ter-Petrosyan_ “Ter-Petrosyan”, _Գրիգորյան_/_Grigoryan_ “Grigoryan”
 
 ### <a name="Com">`Com`</a>: company, organization, institution
 
 #### Examples
 
-* _<b>Սիմենս, ՄԱԿ, ԳԱԱ</b>&nbsp;_ “Siemens, UN, NAS”
+* _Սիմենս_/_Simens_ “Siemens”, _ՄԱԿ_/_MAK_ “UN”, _ԳԱԱ_/_GAA_ “NAS”
 
 ### <a name="Pro">`Pro`</a>: product
 
 #### Examples
 
-* _<b>Երազ, ԿամԱԶ, Չայկա, Մերսեդես</b>&nbsp;_ “Yeraz, Kamaz, Chaika, Mercedes”
+* _Երազ_/_Eraz_ “Yeraz”, _ԿամԱԶ_/_KamAZ_ “Kamaz”, _Չայկա_/_Čayka_ “Chaika”, _Մերսեդես_/_Mersedes_ “Mercedes”
 
 ### <a name="Oth">`Oth`</a>: other
 
-Names of stadiums, guerilla bases, events etc.
+Names of stadiums, guerrilla bases, events, etc.
 
 #### Examples
 
-* _<b>«Հրազդան», «Դինամո», «Զվարթնոց», Զատիկ</b>&nbsp;_ “Hrazdan, Dinamo, Zvartnots, Easter”
-<!-- Interlanguage links updated St 12. listopadu 2025, 09:20:25 CET -->
+* _«Հրազդան»_/_«Hrazdan»_ “Hrazdan”, _«Դինամո»_/_«Dinamo»_ “Dinamo”, _«Զվարթնոց»_/_«Zvartʼnocʼ»_ “Zvartnots”, _Զատիկ_/_Zatik_ “Easter”
+<!-- Interlanguage links updated Út 30. června 2026, 10:59:01 CEST -->

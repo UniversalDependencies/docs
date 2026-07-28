@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3054 nodes (11%) are attached to their parents as `root`.
+3113 nodes (11%) are attached to their parents as `root`.
 
-3054 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.99443352979699.
+3113 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.97847735303566.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> (1947; 64% instances), -<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (582; 19% instances), -<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (340; 11% instances), -<tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> (67; 2% instances), -<tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> (47; 2% instances), -<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (30; 1% instances), -<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (30; 1% instances), -<tt><a href="yi_yitb-pos-DET.html">DET</a></tt> (7; 0% instances), -<tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="yi_yitb-pos-VERB.html">VERB</a></tt> (2002; 64% instances), -<tt><a href="yi_yitb-pos-NOUN.html">NOUN</a></tt> (582; 19% instances), -<tt><a href="yi_yitb-pos-ADJ.html">ADJ</a></tt> (343; 11% instances), -<tt><a href="yi_yitb-pos-ADV.html">ADV</a></tt> (67; 2% instances), -<tt><a href="yi_yitb-pos-PROPN.html">PROPN</a></tt> (47; 2% instances), -<tt><a href="yi_yitb-pos-AUX.html">AUX</a></tt> (31; 1% instances), -<tt><a href="yi_yitb-pos-PRON.html">PRON</a></tt> (30; 1% instances), -<tt><a href="yi_yitb-pos-DET.html">DET</a></tt> (7; 0% instances), -<tt><a href="yi_yitb-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), -<tt><a href="yi_yitb-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu

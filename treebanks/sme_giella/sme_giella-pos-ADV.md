@@ -72,7 +72,7 @@ Examples: <em>de, gal, nu, dál, dušše, maid, maiddái, doppe, hui, juo</em>
 
 `ADV` nodes are attached to their parents using 4 different relations: <tt><a href="sme_giella-dep-advmod.html">advmod</a></tt> (2053; 98% instances), <tt><a href="sme_giella-dep-cc-preconj.html">cc:preconj</a></tt> (29; 1% instances), <tt><a href="sme_giella-dep-conj.html">conj</a></tt> (16; 1% instances), <tt><a href="sme_giella-dep-advcl.html">advcl</a></tt> (2; 0% instances)
 
-Parents of `ADV` nodes belong to 7 different parts of speech: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (1603; 76% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (177; 8% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (164; 8% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (63; 3% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (39; 2% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (38; 2% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (16; 1% instances)
+Parents of `ADV` nodes belong to 7 different parts of speech: <tt><a href="sme_giella-pos-VERB.html">VERB</a></tt> (1603; 76% instances), <tt><a href="sme_giella-pos-ADJ.html">ADJ</a></tt> (177; 8% instances), <tt><a href="sme_giella-pos-NOUN.html">NOUN</a></tt> (163; 8% instances), <tt><a href="sme_giella-pos-ADV.html">ADV</a></tt> (63; 3% instances), <tt><a href="sme_giella-pos-NUM.html">NUM</a></tt> (39; 2% instances), <tt><a href="sme_giella-pos-PRON.html">PRON</a></tt> (39; 2% instances), <tt><a href="sme_giella-pos-PROPN.html">PROPN</a></tt> (16; 1% instances)
 
 2000 (95%) `ADV` nodes are leaves.
 

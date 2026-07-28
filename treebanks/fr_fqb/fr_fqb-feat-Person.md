@@ -9,10 +9,10 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `1`, `2`, `3`.
 
-3247 tokens (14%) have a non-empty value of `Person`.
+3249 tokens (14%) have a non-empty value of `Person`.
 292 types (7%) occur at least once with a non-empty value of `Person`.
-165 lemmas (5%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1602; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (832; 3% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (813; 3% instances).
+168 lemmas (5%) occur at least once with a non-empty value of `Person`.
+The feature is used with 3 part-of-speech tags: <tt><a href="fr_fqb-pos-AUX.html">AUX</a></tt> (1602; 7% instances), <tt><a href="fr_fqb-pos-VERB.html">VERB</a></tt> (832; 3% instances), <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> (815; 3% instances).
 
 ### `AUX`
 
@@ -64,31 +64,23 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-813 <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> tokens (49% of all `PRON` tokens) have a non-empty value of `Person`.
+815 <tt><a href="fr_fqb-pos-PRON.html">PRON</a></tt> tokens (49% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (730; 90%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (577; 71%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (426; 52%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (732; 90%), <tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (577; 71%), <tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (428; 53%).
 
 `PRON` tokens may have the following values of `Person`:
 
 * `1` (146; 18% of non-empty `Person`): <em>-je, je, j', me, m', -moi, moi, nous</em>
 * `2` (23; 3% of non-empty `Person`): <em>vous, -vous</em>
-* `3` (644; 79% of non-empty `Person`): <em>-t-il, se, -il, -t-elle, -t-on, -elle, s', -ils, -on, y</em>
-* `EMPTY` (845): <em>qui, qu', -ce, que, quoi, laquelle, lequel, dont, cela, un</em>
+* `3` (646; 79% of non-empty `Person`): <em>-t-il, se, -il, -t-elle, -t-on, -elle, s', -ils, -on, y</em>
+* `EMPTY` (839): <em>qui, qu', -ce, que, quoi, laquelle, lequel, dont, cela, un</em>
 
-<table>
-  <tr><th>Paradigm <i>il</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>-t-il, -il, il</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>-ils</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>-t-elle, -elle, elle</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td></td><td><em>-elles, elles</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Ind</tt></tt></td><td></td><td></td><td><em>-t-on, -on, on</em></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>-je, je, j'</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_fqb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_fqb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>nous</em></td><td><em>vous, -vous</em></td><td></td></tr>
-</table>
+`Person` seems to be **lexical feature** of `PRON`. 100% lemmas (11) occur only with one value of `Person`.
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="fr_fqb-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (179; 56%),
-<tt>VERB --[<tt><a href="fr_fqb-dep-expl-comp.html">expl:comp</a></tt>]--> PRON</tt> (146; 83%).
+<tt>VERB --[<tt><a href="fr_fqb-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (114; 87%),
+<tt>VERB --[<tt><a href="fr_fqb-dep-expl-comp.html">expl:comp</a></tt>]--> PRON</tt> (26; 100%).
 
