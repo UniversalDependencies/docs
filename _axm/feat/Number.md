@@ -34,7 +34,7 @@ Pronouns that refer to a single person, animal, or thing are also marked with th
 * _<b>իմ</b>_/_im_ “my”
 * _<b>դու</b>_/_du_ “you”
 * _<b>քո</b>_/_k'o_ “your”
-* _<b>ինք</b>-/_ink'_ “he/she/it”
+* _<b>ինք</b>_/_ink'_ “he/she/it”
 * _<b>իւր(իր)</b>_/_iwr(ir)_ “his/her/its”
 
 Demonstrative pronouns referring to singular entities are marked with this feature, whereas demonstrative determiners are not, regardless of whether the modified noun is singular or plural (e.g. _<b>այս դեղս</b>_/_ays deġs_ “this medicine”; _<b>այս դեղերն</b>_/_ays deġern_ “these medicines” _<b>այդ երկիրն</b>_/_ayd erkirn_ “that country (medial)”, _<b>այդ պռկունքդ</b>_/_ayd pṙkownkʼd_ “those your lips”).
