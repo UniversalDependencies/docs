@@ -48,15 +48,15 @@ A plural noun denotes several persons, animals, or things.
 
 Pronouns that refer to several persons, animals or things are also marked with this feature.
 
-* _<b>մենք, ինքներս, մեր</b>_/_menkʼ, inkʼners, mer_ “we, ourselves, our”
-* _<b>դուք, ինքներդ, ձեր</b>_ “you, yourselves, your”
-* _<b>նրանք, ինքները, իրենց</b>_ “they, themselves, their”
+* _<b>մենք, մեր</b>_/_menkʼ, mer_ “we, our”
+* _<b>դուք, ձեր</b>_/_<b>dowkʼ, jer</b>_ “you, your”
+* _<b>անոնք, անոնց</b>_/_<b>anonkʼ, anoncʼ</b>_ “they, their”
 
-Demonstrative pronouns referring to plural entities, are marked with this feature, whereas demonstrative determiners are not, regardless of whether the modified noun is singular or plural (e.g. _<b>այս գիրքը/գրքերը</b>_/_ays girkʼë/grkʼerë_ “this book/books”; _<b>այդ գիրքը/գրքերը</b>_/_ayd girkʼë/grkʼerë_ “that book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_/_ayn girkʼë/grkʼerë_ “that book/books”).
+Demonstrative pronouns referring to plural entities, are marked with this feature, whereas demonstrative determiners are not, regardless of whether the modified noun is singular or plural (see above).
 
-* _<b>սրանք</b>_/_srankʼ_ “these”
-* _<b>դրանք</b>_/_drankʼ_ “those (medial)”
-* _<b>նրանք</b>_/_nrankʼ_ “those”
+* _<b>ասոնք</b>_/_asonkʼ_ “these”
+* _<b>ատոնք</b>_/_atonkʼ_ “those (medial)”
+* _<b>անոնք</b>_/_anonkʼ_ “those”
 
 ### <a name="Ptan">`Ptan`</a>: plurale tantum
 
@@ -66,7 +66,7 @@ Some geographical or biological/botanical names appear only in the plural form e
 
 * _<b>Ալպեր</b>_/_Alper_ “The Alps”
 * _<b>Ապալաչներ</b>_/_Apalačner_ “Appalachian Mountains”
-* _<b>կատվազգիներ</b>_/_katvazginer_ “Felidae”
+* _<b>տեղուանք</b>_/_katvazginer_ “places, areas”
 * _<b>վարդազգիներ</b>_/_vardazginer_ “Rosaceae”
 
 ### <a name="Assoc">`Assoc`</a>: associative plural
