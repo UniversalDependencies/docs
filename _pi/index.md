@@ -128,14 +128,6 @@ Since all the participles have VERB in UPOS, they cannot be used as amod. They a
 
 ## Treebanks
 
-There are [N](../treebanks/pi-comparison.html) Pali UD treebanks:
+There is one Pāli UD treebank:
 
-  * [Pali-A](../treebanks/pi_a/index.html)
-  * [Pali-B](../treebanks/pi_b/index.html)
-
----
-**Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and
-from the data in the latest release. Link to the respective `*-index.html` page in the `treebanks` folder, using the language code
-and the treebank code in the file name.
-
----
+  * [Pali-PaliCanon](https://github.com/UniversalDependencies/UD_Pali-PaliCanon)
