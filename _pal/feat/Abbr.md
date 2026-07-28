@@ -4,7 +4,7 @@ title: 'Abbr'
 shortdef: 'abbreviation'
 udver: '2'
 ---
-
+This feature takes the following values:
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
