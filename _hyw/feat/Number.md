@@ -16,7 +16,7 @@ udver: '2'
 </tr>
 </table>
 
-In Armenian, `Number` is a feature of [nouns](NOUN) and of parts of speech that agree with nouns, such as personal [pronouns](PRON) and [verbs](VERB). 
+In Western Armenian, `Number` is a feature of [nouns](NOUN) and of parts of speech that agree with nouns, such as personal [pronouns](PRON) and [verbs](VERB). 
 
 ### <a name="Sing">`Sing`</a>: singular number
 
@@ -26,18 +26,17 @@ A singular noun denotes one person, animal, or thing.
 
 * _<b>գիրք</b>_/_girkʼ_ “book”, _<b>լեռ</b>_/_leṙ_ “mountain”, _<b>խնձոր</b>_/_xnjor_ “apple”, _<b>գնացք</b>_/_gnacʼkʼ_ “train”
 
-Pronouns that refer to a single person, an animal or a thing are also marked with this feature.
+Pronouns that refer to a single person, animal or thing are also marked with this feature.
 
 * _<b>Ես, ինքս, իմ</b>_/<b>es, inkʼs, im</b> “I, myself, my”
-* _<b>դու, ինքդ, քո</b>_/_dow, inkʼd, kʼo_ “you, yourself, your”
-* _<b>նա, ինքը, իր</b>_/_na, inkʼë, ir_ “he, himself, his; she, herself, her; it, itself, its”
+* _<b>դու, ինքդ, քու</b>_/_dow, inkʼd, kʼow_ “you, yourself, your”
+* _<b>ան, ինքը, իր</b>_/_na, inkʼë, ir_ “he, himself, his; she, herself, her; it, itself, its”
 
-Demonstrative pronouns referring to singular entities are marked with this feature, whereas demonstrative determiners are not, regardless of whether the modified noun is singular or plural (e.g. _<b>այս գիրքը/գրքերը</b>_/_ays girkʼë/grkʼerë_ “this book/books”; _<b>այդ գիրքը/գրքերը</b>_/_ayd girkʼë/grkʼerë_ “that book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_/_ayn girkʼë/grkʼerë_ “that book/books”).
+Demonstrative pronouns referring to singular entities are marked with this feature, whereas demonstrative determiners are not, regardless of whether the modified noun is singular or plural (e.g. _<b>այս գիրքը/գիրքերը</b>_/_ays girkʼë/girkʼerë_ “this book/books”; _<b>այդ գիրքը/գիրքերը</b>_/_ayd girkʼë/girkʼerë_ “that book/books (medial)”, _<b>այն գիրքը/գիրքերը</b>_/_ayn girkʼë/girkʼerë_ “that book/books”).
 
-* _<b>սա</b>_/_sa_ “this”
-* _<b>դա</b>_/_da_ “that (medial)”
-* _<b>նա</b>_/_na_ “that”
-* _<b>այն</b>_/_ayn_ “that, it”
+* _<b>աս</b>_/_as_ “this”
+* _<b>ատ</b>_/_at_ “that (medial)”
+* _<b>ան</b>_/_an_ “that”
 
 ### <a name="Plur">`Plur`</a>: plural number
 
@@ -45,7 +44,7 @@ A plural noun denotes several persons, animals, or things.
 
 #### Examples:
 
-* _<b>գրքեր</b>_/_grkʼer_ “books”, _<b>լեռներ</b>_/_leṙner_ “mountains”, _<b>խնձորներ</b>_/_xnjorner_ “apples”, _<b>գնացքներ</b>_ “trains”
+* _<b>գիրքեր</b>_/_girkʼer_ “books”, _<b>լեռներ</b>_/_leṙner_ “mountains”, _<b>խնձորներ</b>_/_xnjorner_ “apples”, _<b>գնացքներ</b>_ “trains”
 
 Pronouns that refer to several persons, animals or things are also marked with this feature.
 
