@@ -1,11 +1,19 @@
 ---
 layout: feature
 title: 'AdvType'
-shortdef: '<shortdef>'
+shortdef: 'adverb type'
 udver: '2'
 ---
-
-This feature takes the following values: Deg, Loc, Man, Tim.
+This feature takes the following values:
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Deg">Deg</a></td>
+  <td><a href="#Loc">Loc</a></td>
+  <td><a href="#Man">Man</a></td>
+  <td><a href="#Tim">Tim</a></td>
+</tr>
+</table>
 
 ### <a name='Deg'>`Deg`: Degree
 Adverbs indicating the degree such as _was_ "more, often".
