@@ -26,7 +26,7 @@ A singular noun denotes one person, animal, or thing.
 
 * _<b>գիրք</b>_/_girkʼ_ “book”, _<b>լեռ</b>_/_leṙ_ “mountain”, _<b>խնձոր</b>_/_xnjor_ “apple”, _<b>գնացք</b>_/_gnacʼkʼ_ “train”
 
-Pronouns that refer to a single person, an animal or a thing are also marked with this feature.
+Pronouns that refer to a single person, animal or thing are also marked with this feature.
 
 * _<b>Ես, ինքս, իմ</b>_/<b>es, inkʼs, im</b> “I, myself, my”
 * _<b>դու, ինքդ, քո</b>_/_dow, inkʼd, kʼo_ “you, yourself, your”
