@@ -11,7 +11,7 @@ Punctuation marks are non-alphabetical characters and character groups used in m
 
 Punctuation is not taken to include logograms such as _$_, _%_, and _§_, which are instead tagged as [SYM]().
 
-Note that there is _internal punctuation_ (exclamation, emphasis, and question marks). Words containing internal punctuation are treated as multiword tokens, as in _ինչո՞ւ_ “why?”, which is split into two tokens: _<b>ինչու</b>_ and _<b>՞</b>_ (for more details see the [tokenization page](http://universaldependencies.org/hy/tokenization.html)).
+Note that in Armenian words can contain _“infixed” punctuation_ (exclamation, emphasis, and question marks). Words containing internal punctuation are treated as multiword tokens, as in _ինչո՞ւ_ “why?”, which is split into two tokens: _<b>ինչու</b>_ and _<b>՞</b>_ (for more details see the [tokenization page](http://universaldependencies.org/hy/tokenization.html)).
 
 ### Examples
 
