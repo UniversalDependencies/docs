@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'Animacy'
-shortdef: '<shortdef>'
+shortdef: 'animacy for nouns'
 udver: '2'
 ---
 This feature takes the following values:
