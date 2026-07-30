@@ -72,7 +72,7 @@ Some geographical or biological/botanical names appear only in the plural form e
 
 ### <a name="Assoc">`Assoc`</a>: associative plural
 
-In Armenian, some nouns, proper nouns and pronouns appear in the plural form that denote constructions like ‘X and other people associated with X’. These plural forms consist of a noun X (typically referring to humans, usually a person's name or a kin term) and one of the suffixes _<b>-ենք</b>_/_-enkʼ_, _<b>-անք</b>_/_-ankʼ_, _<b>-ոնք</b>_/_-onkʼ_, _<b>-ունք</b>_/_-ownkʼ_.
+In Armenian, some nouns, proper nouns and pronouns occur in plural forms denoting constructions like ‘X and other people associated with X’. These plural forms consist of a noun X (typically referring to humans, usually a person's name or a kin term) and one of the suffixes _<b>-ենք</b>_/_-enkʼ_, _<b>-անք</b>_/_-ankʼ_, _<b>-ոնք</b>_/_-onkʼ_, _<b>-ունք</b>_/_-ownkʼ_.
 
 As nominal syntactic subjects, associative plural forms are grammatically indefinite (even though they are known and concrete).
 
