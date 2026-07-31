@@ -17,7 +17,7 @@ Possessives may have two different numbers: that of the possessed object (number
 
 Note that in traditional Armenian grammars, in addition to the definite article, possessive, demonstrative and personal articles (suffixes) are distinguished. These articles distinguish whether the referent is near the speaker (proximal, first person), near the addressee (second person), or far from both (third person), and they also express possession.
 
-See also the related feature [Person[psor]]().
+See also the related feature [Person[psor]]() and [Deixis[psor]]().
 
 ### <a name="Sing">`Sing`</a>: singular possessor
 
