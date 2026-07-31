@@ -14,9 +14,11 @@ udver: '2'
 </tr>
 </table>
 
-`Person[psor]` is the possessor's person, marked for exmaple on [nouns](NOUN), [emphatic pronouns](PronType), [infinitives](VerbForm), or [adpositions](ADP). In possessive uses, such forms typically correspond to an English possessive determiner followed by a noun. We do not annotate possessive determiners with `Person[psor]`, as they are actually identical to personal pronouns in the genitive case.
+`Person[psor]` is the possessor's person, marked for exmaple on [nouns](NOUN), [emphatic pronouns](PronType), [infinitives](VerbForm), or [adpositions](ADP). In possessive uses, such forms typically correspond to an English possessive pronouns followed by a noun.
 
-Note that traditional Armenian grammars distinguish possessive, demonstrative, and personal articles (suffixes) in addition to the definite article. The same set of suffixes serves all three functions. Depending on the context, they may indicate that the referent is near the speaker (proximal, first person), near the addressee (second person), or distant from both (third person), or they may express possession by one of them. Consequently, the subscript `[psor]` does not always denote a possessor in this feature, as the same annotation is also used for person-indexing function of these suffixes. The person-indexing and possessive functions can only be distinguished from context.
+We do not annotate possessive determiners with `Person[psor]`, as they are actually identical to personal pronouns in the genitive case.
+
+Note that traditional Armenian grammars distinguish possessive, demonstrative, and personal articles (suffixes) in addition to the definite article. The same set of suffixes serves all three functions. Depending on the context, they may indicate that the referent is near the speaker (proximal, first person), near the addressee (second person), or distant from both (third person), or they may express possession by one of them. Consequently, the subscript `[psor]` does not always denote a possessor in this feature, as the same annotation is also used for the person-indexing function of these suffixes. The person-indexing and possessive functions can only be distinguished from context.
 
 See also the related features `Number[psor]` and `Deixis[psor]`.
 
