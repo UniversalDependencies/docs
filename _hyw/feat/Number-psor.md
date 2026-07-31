@@ -23,9 +23,9 @@ See also the related feature [Person[psor]]().
 
 #### Examples
 
-* _աչք<b>ս</b>_/_ačkʼ<b>s</b>_ “<b>my</b> eye” `Number[psor]=Sing|Number=Sing`
-* _աչքեր<b>ս</b>_/_ačkʼer<b>s</b>_ “<b>my</b> eyes” `Number[psor]=Sing|Number=Plur`
-* _ըլլալ<b>ս</b>_/_ëllal<b>s</b>_ “<b>my</b> being” `Number[psor]=Sing|Number=Coll`
+* _աչք<b>ս</b>_/_ačkʼ<b>s</b>_ “<b>my</b> eye” `Number=Sing|Number[psor]=Sing`
+* _աչքեր<b>ս</b>_/_ačkʼer<b>s</b>_ “<b>my</b> eyes” `Number=Plur|Number[psor]=Sing`
+* _ըլլալ<b>ս</b>_/_ëllal<b>s</b>_ “<b>my</b> being” `Number=Coll|Number[psor]=Sing`
 * _հետ<b>դ</b>_/_het<b>d</b>_ “with <b>you</b>” `Number[psor]=Sing`
 
 ### <a name="Plur">`Plur`</a>: plural possessor
@@ -34,6 +34,6 @@ See also the related feature [Person[psor]]().
 
 * _տուներ<b>նին</b>_/_towner<b>nin</b>_ “<b>their</b> houses” `Number[psor]=Plur|Number=Plur`
 * _աչքեր<b>նիս</b>_/_ačkʼer<b>nis</b>_ “<b>our</b> eyes” `Number[psor]=Plur|Number=Plur`
-* _ըլլալ<b>նուս</b> համար_/_ëllal<b>nows</b> hamar_ “for <b>our</b> being” `Number[psor]=Plur|Number=Coll`
+* _ըլլալ<b>նուս</b> համար_/_ëllal<b>nows</b> hamar_ “for <b>our</b> being” `Number[psor]=Plur`
 * _հետ<b>երնիս</b>_/_het<b>ernis</b>_ “with <b>us</b>” `Number[psor]=Plur`
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:06 CEST -->
