@@ -14,48 +14,44 @@ udver: '2'
 </tr>
 </table>
 
-`Person[psor]` is possessor's person, marked e.g. on [nouns](NOUN), [emphatic determiners](PronType), [infinitives](VerbForm), or [adpositions](ADP). These forms would be translated into English as possessive pronoun + noun.
+`Person[psor]` is the possessor's person, marked, e.g., on [nouns](NOUN), [emphatic pronouns](PronType), [infinitives](VerbForm), or [adpositions](ADP). In possessive uses, such forms typically correspond to an English possessive determiner followed by a noun.
+The `Person[psor]` feature captures the possessor's person. We do not annotate possessive determiners with `Person[psor]`, as they are actually identical to personal pronouns in the genitive case.
 
-The `Person[psor]` feature captures the possessor's person. We do not distinguish `Person[psor]` for possessive pronouns, as they are actually identical to personal pronouns in the genitive case.
+Note that traditional Armenian grammars distinguish possessive, demonstrative, and personal articles (suffixes) in addition to the definite article. These articles distinguish whether the referent is near the speaker (proximal, first person), near the addressee (second person), or far from both (third person), and they also express possession. Their function can only be determined from the context.
 
-Note that in traditional Armenian grammars besides the definite article, possessive, demonstrative and personal articles (suffixes) are distinguished. These make a distinction between the objects, that are near to the speaker (proximal, first person), near to the addressee (second person), and far from both (third person) or are possessed to them. We do not distinguish them as separate features.
-
-See also the relatived feature [Number[psor]]().
+See also the related features [Number[psor]]() and [Deixis[psor]]().
 
 ### <a name="1">`1`</a>: first person possessor
 
 #### Examples
 
-* _տուն<b>ս</b>_ “<b>my</b> house” `Person[psor]=1|Number[psor]=Sing|Number=Sing`
-* _տներ<b>ս</b>_ “<b>my</b> houses” `Person[psor]=1|Number[psor]=Sing|Number=Plur`
-* _գալ<b>ս</b>_ “<b>my</b> coming” `Person[psor]=1|Number[psor]=Sing|Number=Coll`
-* _քաղաք<b>ս</b>_ “<b>this</b> town” `Person[psor]=1|Number=Sing`
-* _օրեր<b>ս</b>_ “<b>in this</b> days” `Person[psor]=1|Number=Plur`
-* _(ես) ուսուցիչ<b>ս</b>_ “<b>I</b> the teacher” or “<b>my</b> teacher” `Person[psor]=1|Number=Sing` or `Person[psor]=1|Number[psor]=Sing|Number=Sing`
-* _ինք<b>ս</b>_ “<b>I myself</b>” `Person[psor]=1|Number[psor]=Sing|Number=Sing`
-* _հետ<b>ս</b>_ “with <b>me</b>” `Person[psor]=1|Number[psor]=Sing`
+* _տուն<b>ս</b>_/_town<b>s</b>_ “<b>my</b> house” `Number=Sing|Number[psor]=Sing|Person[psor]=1`
+* _տներ<b>ս</b>_/_tner<b>s</b>_ “<b>my</b> houses” `Number=Plur|Number[psor]=Sing|Person[psor]=1`
+* _գալ<b>ս</b>_/_gal<b>s</b>_ “<b>my</b> coming” `Number[psor]=Sing|Person[psor]=1`
+* _(ես) ուսուցիչ<b>ս</b>_/_(es) owsowcʼič<b>s</b>_ “<b>I</b> the teacher” or “<b>my</b> teacher” `Number=Sing|Person[psor]=1` or `Number=Sing|Number[psor]=Sing|Person[psor]=1`
+* _ինք<b>ս</b>_/_inkʼ<b>s</b>_ “<b>myself</b>” `Number=Sing|Number[psor]=Sing|Person[psor]=1`
+* _հետ<b>ս</b>_/_het<b>s</b>_ “with <b>me</b>” `Number[psor]=Sing|Person[psor]=1`
 
 ### <a name="2">`2`</a>: second person possessor
 
 #### Examples
 
-* _տուն<b>դ</b>_ “<b>your</b>.`Sing` house” `Person[psor]=2|Number[psor]=Sing|Number=Sing`
-* _տներ<b>դ</b>_ “<b>your</b>.`Sing` houses” `Person[psor]=2|Number[psor]=Sing|Number=Plur`
-* _գալ<b>դ</b>_ “<b>your</b>.`Sing` coming” `Person[psor]=2|Number[psor]=Sing|Number=Coll`
-* _(դու) ուսուցիչ<b>դ</b>_ “<b>You</b>.`Sing` the teacher” or “<b>your</b>.`Sing` teacher” `Person[psor]=2|Number=Sing` or `Person[psor]=2|Number[psor]=Sing|Number=Sing`
-* _ինք<b>դ</b>_ “<b>you</b>.`Sing` <b>yourself</b>” `Person[psor]=2|Number[psor]=Sing|Number=Sing`
-* _հետ<b>դ</b>_ “with <b>you</b>.`Sing`” `Person[psor]=2|Number[psor]=Sing`
+* _տուն<b>դ</b>_/_town<b>d</b>_ “<b>your</b> `Sing` house” `Number=Sing|Number[psor]=Sing|Person[psor]=2`
+* _տներ<b>դ</b>_/_tner<b>d</b>_ “<b>your</b> `Sing` houses” `Number=Plur|Number[psor]=Sing|Person[psor]=2`
+* _գալ<b>դ</b>_/_gal<b>d</b>_ “<b>your</b> `Sing` coming” `Number[psor]=Sing|Person[psor]=2`
+* _(դու) ուսուցիչ<b>դ</b>_/_(dow) owsowcʼič<b>d</b>_ “<b>You</b> `Sing` the teacher” or “<b>your</b> `Sing` teacher” `Number=Sing|Person[psor]=2` or `Number=Sing|Number[psor]=Sing|Person[psor]=2`
+* _ինք<b>դ</b>_/_inkʼ<b>d</b>_ “<b>you</b> `Sing` <b>yourself</b>” `Number=Sing|Number[psor]=Sing|Person[psor]=2`
+* _հետ<b>դ</b>_/_het<b>d</b>_ “with <b>you</b> `Sing`” `Number[psor]=Sing|Person[psor]=2`
 
 ### <a name="3">`3`</a>: third person possessor
 
 #### Examples
 
-* _տուն<b>ն(ը)</b>_ “<b>his/her/its</b> house” `Person[psor]=3|Number[psor]=Sing|Number=Sing` 
-* _տներ<b>ն(ը)</b>_ “<b>his/her/its</b> houses” `Person[psor]=3|Number[psor]=Sing|Number=Plur` 
-* _(նա) ուսուցիչ<b>ն(ը)</b>_ “<b>He/She</b> the teacher” or “<b>his/her/its</b> teacher” `Person[psor]=3|Number=Sing` or `Person[psor]=3|Number[psor]=Sing|Number=Sing`
-* _գալ<b>ն(ը)</b>_ “<b>his/her/its</b> coming” `Person[psor]=3|Number[psor]=Sing|Number=Coll`
-* _ինք<b>ն(ը)</b>_ “<b>he/she/it himself/herself/itself</b>” `Person[psor]=3|Number[psor]=Sing|Number=Sing`
-* _հետ<b>ն(ը)</b>_ “with <b>him/her/it</b>” `Person[psor]=3|Number[psor]=Sing`
+* _տուն<b>ն(ը)</b>_/_town<b>n(ë)</b>_ “<b>his/her/its</b> house” `Number=Sing|Number[psor]=Sing|Person[psor]=3` 
+* _տներ<b>ն(ը)</b>_/_tner<b>n(ë)</b>_ “<b>his/her/its</b> houses” `Number=Plur|Number[psor]=Sing|Person[psor]=3` 
+* _(նա) ուսուցիչ<b>ն(ը)</b>_/_(na) owsowcʼič<b>n(ë)</b>_ “<b>He/She</b> the teacher” or “<b>his/her/its</b> teacher” `Number=Sing|Person[psor]=3` or `Number=Sing|Person[psor]=3|Number[psor]=Sing`
+* _գալ<b>ն(ը)</b>_/_gal<b>n(ë)</b>_ “<b>his/her/its</b> coming” `Number[psor]=Sing|Person[psor]=3`
+* _հետ<b>ն(ը)</b>_/_het<b>n(ë)</b>_ “with <b>him/her/it</b>” `Number[psor]=Sing|Person[psor]=3`
 
-(Note that first three forms are ambiguous.)
+Note that the first two forms are ambiguous, since the morphemes _-ն_/_-n_ and _-ը_/_-ë_ are also definite articles, and their function can only be determined from the context (see above).
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:11 CEST -->
