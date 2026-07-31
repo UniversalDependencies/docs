@@ -32,8 +32,8 @@ See also the related feature [Person[psor]]().
 
 #### Examples
 
-* _տուներ<b>նին</b>_/_towner<b>nin</b>_ “<b>their</b> houses” `Number[psor]=Plur|Number=Plur`
-* _աչքեր<b>նիս</b>_/_ačkʼer<b>nis</b>_ “<b>our</b> eyes” `Number[psor]=Plur|Number=Plur`
+* _տուներ<b>նին</b>_/_towner<b>nin</b>_ “<b>their</b> houses” `Number=Plur|Number[psor]=Plur`
+* _աչքեր<b>նիս</b>_/_ačkʼer<b>nis</b>_ “<b>our</b> eyes” `Number=Plur|Number[psor]=Plur`
 * _ըլլալ<b>նուս</b> համար_/_ëllal<b>nows</b> hamar_ “for <b>our</b> being” `Number[psor]=Plur`
 * _հետ<b>երնիս</b>_/_het<b>ernis</b>_ “with <b>us</b>” `Number[psor]=Plur`
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:06 CEST -->
