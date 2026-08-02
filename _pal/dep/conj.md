@@ -36,6 +36,21 @@ cc(afsōsgarīh, ud-4)
 conj(gufsišn, afsōsgarīh)
 ~~~
 
+The following example shows that the three coordinated nouns are not in a flat structure as the attributes only dependent on the second and third member.
+
+- "If the mistress of the house and the sons and daughter of full and minor age are shareholders, ..."
+~~~ sdparse
+ka kadagbānūg ud pus ud duxt ī purnāy ud aburnāy hambāy hēnd \n if mistress_of_the_house and son and daughter EZ of_full_age and minor shareholder are
+det(purnāy, ī)
+cc(aburnāy, ud-9)
+conj(purnāy, aburnāy)
+amod(pus, purnāy)
+cc(duxt, ud-5)
+conj(pus, duxt)
+cc(pus, ud-3)
+conj(kadagbānūg, pus)
+~~~
+
 Middle Persian has a relatively low referential density and omission of identical parts in coordination is common. This does not pose a problem if coordination only affects two equal parts (e.g. two objects). However, it is also possible to coordinate pairs. In English, these may seem like two coordinated sentences with simple omission of identical parts, e.g. <br>'Peter gives a book to Mary and a voucher to John.' as short for 'Peter gives a book to Mary and (Peter gives) a voucher to John.'<br>In Middle Persian, the most common word order would be: 'Peter a book to Mary and a voucher to John gives.' Following the UD principle of linking `conjuncts` only to what precedes them would result in a verbless head clause 'Peter a book to Mary' as head of 'and a voucher to John gives.', which is not felicitous.
 
 - "A woman (is not allowed) not to take a husband and a man is not allowed not to take a wife." (omitted word in parantheses)
@@ -51,7 +66,7 @@ obj(kirdan-4, šōy)
 advmod(kirdan-4, nē-3)
 ~~~
 
-In the following example, the resumption of the subject by the enclitic pronoun might be motivated by a long relative clause following the priests (omitted in this example.
+In the following example, the resumption of the subject by the enclitic pronoun might be motivated by a long relative clause following the priests (omitted in this example).
 - "For I (killed) nine hundred priests over this riddle and I killed nine daughters of the Spitām family."
 ~~~ sdparse
 čē man abar ēn frašn nōsad mowmard u =m nō duxt ī spitāmān ōzad \n because I over this riddle nine_hundred priest and me nine daughter EZ Spitamid killed
