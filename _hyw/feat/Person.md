@@ -25,8 +25,8 @@ In singular, the first person refers just to the speaker / author. In plural, it
 
 #### Examples
 
-* _<b>անեմ</b>_/_anem_ “<b>I</b> do `Sub`”
-* _<b>անենք</b>_/_anenkʼ_ “<b>we</b> do `Sub`”
+* _<b>ընեմ</b>_/_ënem_ “<b>I</b> do `Sub`”
+* _<b>ընենք</b>_/_ënenkʼ_ “<b>we</b> do `Sub`”
 
 ### <a name="2">`2`</a>: second person
 
@@ -34,8 +34,8 @@ In singular, the second person refers to the addressee of the utterance / text. 
 
 #### Examples
  
-* _<b>անես</b>_/_anes_ “<b>you</b> `Sing` do `Sub`”
-* _<b>անեք</b>_/_anekʼ_ “<b>you</b> `Plur` do `Sub`”
+* _<b>ընես</b>_/_ënes_ “<b>you</b> `Sing` do `Sub`”
+* _<b>ընեք</b>_/_ënekʼ_ “<b>you</b> `Plur` do `Sub`”
 
 ### <a name="3">`3`</a>: third person
 
@@ -43,6 +43,6 @@ The third person refers to one or more persons that are neither speakers nor add
 
 #### Examples
 
-* _<b>անի</b>_/_ani_ “<b>he/she/it does</b> `Sub`”
-* _<b>անեն</b>_/_anen_ “<b>they</b> do `Sub`”
+* _<b>ընէ</b>_/_ënē_ “<b>he/she/it does</b> `Sub`”
+* _<b>ընեն</b>_/_ënen_ “<b>they</b> do `Sub`”
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:09 CEST -->
