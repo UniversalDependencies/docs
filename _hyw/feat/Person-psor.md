@@ -14,11 +14,11 @@ udver: '2'
 </tr>
 </table>
 
-`Person[psor]` is the possessor's person, marked for exmaple on [nouns](NOUN), [emphatic pronouns](PronType), [infinitives](VerbForm), or [adpositions](ADP). In possessive uses, such forms typically correspond to an English possessive pronouns followed by a noun.
+`Person[psor]` is the possessor's person, marked for example on [nouns](NOUN), [emphatic pronouns](PronType), [infinitives](VerbForm), or [adpositions](ADP). In possessive uses, such forms typically correspond to an English possessive pronoun followed by a noun.
 
 We do not annotate possessive determiners with `Person[psor]`, as they are actually identical to personal pronouns in the genitive case.
 
-Note that Western Armenian grammars distinguish possessive, demonstrative, and personal articles (suffixes) in addition to the definite article. The same set of suffixes serves all three functions. Depending on the context, they may indicate that the referent is near the speaker (proximal, first person), near the addressee (second person), or distant from both (third person), or they may express possession by one of them. Consequently, the subscript `[psor]` does not always denote a possessor in this feature, as the same annotation is also used for the person-indexing function of these suffixes. The person-indexing and possessive functions can only be distinguished from context.
+Note that Western Armenian grammars distinguish possessive, demonstrative, and personal articles (suffixes) in addition to the definite article. The same set of suffixes serves all three functions. Depending on the context, they may indicate that the referent is near the speaker (proximal, first person), near the addressee (second person), or distant from both (third person), or they may express possession by one of them. Consequently, the subscript `[psor]` does not always denote a possessor in this feature, as the same annotation is also used for the person-indexing function of these suffixes. The person-indexing and possessive uses can only be distinguished from context.
 
 See also the related features `Number[psor]` and `Deixis[psor]`.
 
@@ -29,7 +29,7 @@ See also the related features `Number[psor]` and `Deixis[psor]`.
 * _ձեռք<b>ս</b>_/_jeṙkʼ<b>s</b>_ “<b>my</b> hand” `Number=Sing|Number[psor]=Sing|Person[psor]=1`
 * _ձեռքեր<b>ս</b>_/_jeṙkʼer<b>s</b>_ “<b>my</b> hands” `Number=Plur|Number[psor]=Sing|Person[psor]=1`
 * _ըլլալ<b>ս</b>_/_ëllal<b>s</b>_ “<b>my</b> being” `Number[psor]=Sing|Person[psor]=1`
-* _մենք՝ հայեր<b>ս</b>_/_menkʼ, hayer<b>s</b>_ “<b>we</b>, the Armenians” Number=Plur|Person[psor]=1
+* _մենք՝ հայեր<b>ս</b>_/_menkʼ, hayer<b>s</b>_ “<b>we</b>, the Armenians” `Number=Plur|Person[psor]=1`
 * _ամենքնի<b>ս</b>_/_amenkʼni<b>s</b>_ “<b>we</b> all” or “<b>my</b> teacher” `Number[psor]=Plur|Person[psor]=1`
 * _քով<b>ս</b>_/_kʼov<b>s</b>_ “next to <b>me</b>, by <b>my</b> side” `Number[psor]=Sing|Person[psor]=1`
 
@@ -48,16 +48,12 @@ See also the related features `Number[psor]` and `Deixis[psor]`.
 
 #### Examples
 
-* _աչքերնի<b>ն</b>_/_ačkʼerni<b>n</b>_ “<b>their</b> eyes” `Number=Plur|Number[psor]=Plur|Person[psor]=3` 
-* _ձեռուընի<b>ն</b>_/_jeṙowëni<b>n</b>_ “<btheir</b> hands” `Number=Plur|Number[psor]=Sing|Person[psor]=3`
-* _ինքզինք<b>ը</b>_/_inkʼzinkʼ<b>ë</b>_ “he himself, she herself” `Number=Sing|Person[psor]=3` 
-* _(նա) ուսուցիչ<b>ն(ը)</b>_/_(na) owsowcʼič<b>n(ë)</b>_ “<b>he/she</b>, the teacher” or “<b>his/her/its</b> teacher” `Number=Sing|Person[psor]=3` or `Number=Sing|Number[psor]=Sing|Person[psor]=3`
-* _գալ<b>ն(ը)</b>_/_gal<b>n(ë)</b>_ “<b>his/her/its</b> coming” `Number[psor]=Sing|Person[psor]=3`
+* _ձեռուընի<b>ն</b>_/_jeṙowëni<b>n</b>_ “<b>their</b> hands” `Number=Plur|Number[psor]=Sing|Person[psor]=3`
+* _աչքերնի<b>ն</b>_/_ačkʼerni<b>n</b>_ “<b>their</b> eyes” `Number=Plur|Number[psor]=Plur|Person[psor]=3`
+* _ինքզինք<b>ը</b>_/_inkʼzinkʼ<b>ë</b>_ “he himself, she herself” `Number=Sing|Person[psor]=3`
+* _չգիտնալնուն_/_čgitnalnown_ “(because of) their not knowing” `Number[psor]=Plur|Person[psor]=3`
 * _քով<b>ն(ը)</b>_/_kʼov<b>n(ë)</b>_ “with <b>him/her/it</b>” `Number[psor]=Sing|Person[psor]=3`
-* _ձեռուընին_
-* _չգիտնալնուն_
-* _նոյնինքն_
-* 
+* _նոյնինք<b>ն</b>_/_noyninkʼ<b>n</b>_ “the very / himself / herself / itself” `Number=Sing|Person[psor]=3`
 
 Note that forms containing _-ն_/_-n_ or _-ը_/_-ë_ may be ambiguous, since these morphemes are also definite articles, and their function can only be determined from the context (see above).
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:11 CEST -->
