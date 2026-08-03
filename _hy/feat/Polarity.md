@@ -13,13 +13,13 @@ udver: '2'
 </tr>
 </table>
 
-In Armenian, negation is mostly expressed using the bound morpheme _չ-_; an independent negating particle (equivalent to English “not”) is rarely seen. Words that can take the negative morpheme are annotated for `polarity`.
+In Armenian, negation is mostly expressed using the bound morpheme _չ-_/_č-_. Words that can take the morpheme of negation have the feature `Polarity`.
 
 It applies to [verbs](VERB), [auxiliaries](AUX) and some [particles](PART). See also the related feature [Connegative]().
 
 Note that `Polarity=Neg` is not the same thing as [PronType]() =`Neg`. For pronouns and other pronominal parts of speech there is no such binary opposition as for verbs and auxiliaries. (There is no such thing as “affirmative pronoun”.)
 
-Note that in Armenian [adjectives](ADJ), sometimes also [adverbs](ADV) can be negated by adding the negating particle _ոչ_, denoting the complement of the original adjective or adverb: e.g. _պաշտոնական_ “official” vs. _ոչ պաշտոնական_/_oč paštonakan_ “unofficial” (lit: “not official (something)”).
+Note that in Armenian [adjectives](ADJ), sometimes also [adverbs](ADV) can be negated by adding the negating particle _ոչ_, expressing the negation of the original adjective or adverb։ e.g. _պաշտոնական_ “official” vs. _ոչ պաշտոնական_/_oč paštonakan_ “unofficial” (lit: “not official (something)”).
 
 A set of non-productive prefixes, _ան-_/_an-_, _ապ-_/_ap-_, _դժ-_/_dž-_, _տ-_/_t-_, _չ-_/_č-_ can be used for negating a lexicalized set of adjectives, e.g. _անբախտ_/_anbaxt_ “unlucky”, _ապաշնորհ_/_apašnorh_“dull”, _դժբախտ_/_džbaxt_ “unfortunate”, _տգեղ_/_tgeġ_ “ugly”, _չտես_/_čtes_ “covetous”. We do not mark adjectives for the `Polarity` feature.
 
