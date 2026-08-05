@@ -41,7 +41,7 @@ For the principles of transliteration of Pashto used in UD see the [Transliterat
 * Adjectives and adverbs derived from adjectives have often the same form. Their tagging as [ADJ]() or [ADV]() depends on the context.
 
 ### Features
-* The overview of all features used in Pashto can be found [here](feat-index.html).
+* The overview of all features used in Pashto can be found [here](feat/index.html).
 * There are three [VerbForm]() values used in Pashto: finite `Fin`, infinitive `Inf` and participle `Part`.
 * An important feature of Pashto verbs is [Aspect](), which strictly divides verb forms to imperfect `Imp` and perfecgt `Perf`.
 * The finite verb forms inflect for [Mood]() feature with indicative `Ind`, imperative `Imp`, subjunctive `Sub` and potential `Pot` values.
