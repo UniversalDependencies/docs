@@ -18,7 +18,7 @@ While many tagsets would have “possessive” as one of the various pronoun typ
 
 In Western Armenian, nouns with a pronominal genitive suffix are common, e.g. _Հալլաճեաններունը_/_Hallač̣eannerownë_ “that of Hallajians”, _մայրիկինը_/_mayrikinë_ “that of (the) mother”, _սեղանինը_/_seġaninë_ “that of the table”. For annotation purposes, such forms are split into two tokens: the noun and the pronominal genitive suffix (_-նը_/_në_). The suffix, rather than the noun, is annotated with Poss=Yes.
 
-Note that archaic genitive forms of nouns, such as _հայոց_/_hayocʼ_ “of the Armenians”, _վրաց_/_vracʼ_ “of the Georgians”, _Պարսից_/_Parsicʼ_ “of Persis”, _Վանա_ “of Van”, are not annotated with Poss=Yes.
+Note that archaic genitive forms of nouns, such as _հայոց_/_hayocʼ_ “of the Armenians”, _վրաց_/_vracʼ_ “of the Georgians”, _Պարսից_/_Parsicʼ_ “of Persia”, _Վանա_ “of Van”, are not annotated with `Poss=Yes`.
 
 ### <a name="Yes">`Yes`</a>: it is possessive
 
