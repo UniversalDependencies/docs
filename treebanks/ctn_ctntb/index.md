@@ -47,7 +47,7 @@ UD\_Chintang-CTNTB is a Universal Dependencies (UD) treebank for the Chintang la
 
 
 
-The UD\_Chintang-CTNTB treebank treebank contains **2k** sentences (a total of **15k** words) from the Kiranti language Chintang, spoken in eastern Nepal. All data are included in the training set.
+The UD\_Chintang-CTNTB treebank treebank contains **2k** sentences (a total of **15k** words) from the Kiranti language Chintang, spoken in eastern Nepal. All data are included in the `test` set.
 
 The sentences originate from the examples in the (currently unpublished) _A Grammar of Chintang: A Tibeto-Burman Language of Nepal_ by Robert Schikowski. Each example was converted from interlinear glossed text into CoNLL-U format using a custom conversion script. The syntactic relations were subsequently manually annotated according to the Universal Dependencies (UD) framework.
 
