@@ -22,22 +22,18 @@ udver: '2'
 </tr>
 </table>
 
-This feature typically applies to [pronouns](PRON),
-[determiners](DET) and pronominal [adverbs](ADV).
+This feature typically applies to [pronouns](PRON), [determiners](DET), and pronominal [adverbs](ADV).
 
 ### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
-See also the [Poss]() feature that distinguishes normal personal
-pronouns from possessives. Note that `Prs` also includes reflexive
-personal/possessive pronouns (e.g. _իրեն / իր&nbsp;_ see the
-[Reflex]() feature).
+See also the [Poss]() feature that distinguishes personal pronouns from possessives. Note that `Prs` also includes emphatic personal/possessive pronouns (e.g. _իր_/_ir_ “one's own”, _իրենց_/_irencʼ_ “their own”, see the[Reflex]() feature).
 
 #### Examples
 
-* _ես, դու, նա, մենք, դուք, նրանք&nbsp;_ “I, you, he/she/it, we, you, they”
-* _իմ, քո, նրա, մեր, ձեր, նրանց&nbsp;_ “my, your, his/her/its, our, your, their”
-* _ինձ, քեզ, իրեն, մեզ, ձեզ, իրենց&nbsp;_ “myself, yourself, oneself, ourselves, yourselves, themselves”
-* _իր, իրենց&nbsp;_ “one's own, their own”
+* _ես, դու, նա, մենք, դուք, նրանք_ “I, you, he/she/it, we, you, they”
+* _իմ, քո, նրա, մեր, ձեր, նրանց_ “my, your, his/her/its, our, your, their”
+* _ինձ, քեզ, իրեն, մեզ, ձեզ, իրենց_ “myself, yourself, oneself, ourselves, yourselves, themselves”
+* _իր, իրենց_ “one's own, their own”
 
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
 
@@ -45,13 +41,13 @@ Note that possessive interrogative determiners (_whose_) can be distinguished by
 
 #### Examples:
 
-* _ո՞վ, ովքե՞ր&nbsp;_ “who”, _ո՞ւմ&nbsp;_ “whose”
-* _ի՞նչ&nbsp;_ “what”, _ինչպիսի՞(ք)&nbsp;_ “what kind of”, _ինչքա՞ն&nbsp;_ “how many”, _ինչչա՞փ&nbsp;_ “how much”, _ինչպե՞ս&nbsp;_ “how”
-* _ո՞ր, որո՞նք&nbsp;_ “which”, _որպիսի՞(ք)&nbsp;_ “which kind of”, _որքա՞ն&nbsp;_ “how many”, _որչա՞փ&nbsp;_ “how much”, _ո՞րերորդ&nbsp;_ “what number” (ordinal quantifier)
-* _քանի՞&nbsp;_ “how many”, _քանի՞սը&nbsp;_ “how many”, _քանի՞երորդ&nbsp;_ “what number” (ordinal quantifier)
-* _որտե՞ղ&nbsp;_ “where”, _ո՞ւր&nbsp;_ “where to”
-* _ե՞րբ&nbsp;_ “when”
-* _ինչո՞ւ&nbsp;_ “why”
+* _ո՞վ, ովքե՞ր_ “who”, _ո՞ւմ_ “whose”
+* _ի՞նչ_ “what”, _ինչպիսի՞(ք)_ “what kind of”, _ինչքա՞ն_ “how many”, _ինչչա՞փ_ “how much”, _ինչպե՞ս_ “how”
+* _ո՞ր, որո՞նք_ “which”, _որպիսի՞(ք)_ “which kind of”, _որքա՞ն_ “how many”, _որչա՞փ_ “how much”, _ո՞րերորդ_ “what number” (ordinal quantifier)
+* _քանի՞_ “how many”, _քանի՞սը_ “how many”, _քանի՞երորդ_ “what number” (ordinal quantifier)
+* _որտե՞ղ_ “where”, _ո՞ւր_ “where to”
+* _ե՞րբ_ “when”
+* _ինչո՞ւ_ “why”
 
 ### <a name="Rel">`Rel`</a>: relative pronoun or determiner or adverb
 
@@ -59,7 +55,7 @@ All pronouns and determiners that mark the beginning of a [relative clause](acl:
 
 #### Examples:
 
-* _ո՞վ, ովքե՞ր&nbsp;_ “who”, _ո՞ւմ&nbsp;_ “whose”
+* _ո՞վ, ովքե՞ր_ “who”, _ո՞ւմ_ “whose”
 
 ### <a name="Exc">`Exc`</a>: exclamative determiner
 
@@ -90,19 +86,19 @@ See also the related features [Number[psor]]() and [Person[psor]]().
 
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner or adverb
 
-Note that Armenian make a distinction between proximal or first person (objects near to the speaker), medial or second person (objects near to the addressee), and distal or third person (objects far from both) demonstratives. We distinguish also a separate feature of [Distance]().
+Note that Armenian makes a distinction between proximal or first person (objects near to the speaker), medial or second person (objects near to the addressee), and distal or third person (objects far from both) demonstratives. We distinguish also a separate feature of [Distance]().
 
 #### Examples
 
-* _սա, դա, նա&nbsp;_ “this, that (medial), that”
-* _այս, այդ, այն&nbsp;_ “this, that (medial), that”
-* _սույն, նույն, միևնույն&nbsp;_ “this, same, same one”
-* _այսպիսի, այդպիսի, այնպիսի, նույնպիսի&nbsp;_ “such, such (medial), such (distal), same”
-* _այսպես, այդպես, այնպես, նույնպես&nbsp;_ “this way, that way (medial), that way, same way”
-* _այսքան, այդքան, այնքան&nbsp;_ “this many, that many, so many”
-* _այսչափ, այդչափ, այնչափ&nbsp;_ “this much, that much, so much”
-* _այստեղ, այդտեղ, այնտեղ&nbsp;_ “here, there (medial), there”
-* _մյուս&nbsp;_ “another”
+* _սա, դա, նա_ “this, that (medial), that”
+* _այս, այդ, այն_ “this, that (medial), that”
+* _սույն, նույն, միևնույն_ “this, same, same one”
+* _այսպիսի, այդպիսի, այնպիսի, նույնպիսի_ “such, such (medial), such (distal), same”
+* _այսպես, այդպես, այնպես, նույնպես_ “this way, that way (medial), that way, same way”
+* _այսքան, այդքան, այնքան_ “this many, that many, so many”
+* _այսչափ, այդչափ, այնչափ_ “this much, that much, so much”
+* _այստեղ, այդտեղ, այնտեղ_ “here, there (medial), there”
+* _մյուս_ “another”
 
 ### <a name="Emp">`Emp`</a>: emphatic pronoun or determiner
 
@@ -112,7 +108,7 @@ See also the [Number[psor]]() and [Person[psor]]() features for further details.
 
 #### Examples
 
-* _ինքը, ինքները / իրենք&nbsp;_ “(he) himself, (they) themselves” as in _Նախագահն <b>ինքը</b> եկավ դա տեսնելու։_ “President <b>himself</b> came to see it.”
+* _ինքը, ինքները / իրենք_ “(he) himself, (they) themselves” as in _Նախագահն <b>ինքը</b> եկավ դա տեսնելու։_ “President <b>himself</b> came to see it.”
 
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun or determiner
 
@@ -132,10 +128,10 @@ Negative pronominal words are distinguished from negating [particles](PART) and 
 
 #### Examples
 
-* _ոչ ոք&nbsp;_ “nobody”
-* _ոչինչ&nbsp;_ “nothing”
-* _ոչ մեկը&nbsp;_ “no one”
-* _ոչ մի&nbsp;_ “no”
+* _ոչ ոք_ “nobody”
+* _ոչինչ_ “nothing”
+* _ոչ մեկը_ “no one”
+* _ոչ մի_ “no”
 
 ### <a name="Ind">`Ind`</a>: indefinite pronoun, determiner or adverb
 
