@@ -30,9 +30,9 @@ See also the [Poss]() feature that distinguishes personal pronouns from possessi
 
 #### Examples
 
-* _ես, դու, նա, մենք, դուք, նրանք_ “I, you, he/she/it, we, you, they”
-* _իմ, քո, նրա, մեր, ձեր, նրանց_ “my, your, his/her/its, our, your, their”
-* _ինձ, քեզ, իրեն, մեզ, ձեզ, իրենց_ “myself, yourself, oneself, ourselves, yourselves, themselves”
+* _ես_/_es_ “I”, _դու_/_dow_ “you”, _նա_/_na_ “he/she/it”, _մենք_/_menk’_ “we”, _դուք_/_dowk’_ “you”, _նրանք_/_nrank’_ “they”
+* _իմ_/_im_ “my”, _քո_/_kʼo_ “your”, _նրա_/_nra_ “his/her/its”, _մեր_/_mer_ “our”, _ձեր__jer_ “your”, _նրանց_/_nrancʼ_ “their”
+* _ինձ_/_inj_ “me, myself”, _քեզ_/_kʼez_ “you, yourself”, _իրեն_/_iren_ “one, oneself”, _մեզ_/_mez_ “us, ourselves”, _ձեզ_/_jez_ “you, yourselves” , _իրենց_/_irencʼ_ “them, themselves”
 * _իր, իրենց_ “one's own, their own”
 
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
@@ -43,7 +43,7 @@ Note that possessive interrogative determiners (_whose_) can be distinguished by
 
 * _ո՞վ, ովքե՞ր_ “who”, _ո՞ւմ_ “whose”
 * _ի՞նչ_ “what”, _ինչպիսի՞(ք)_ “what kind of”, _ինչքա՞ն_ “how many”, _ինչչա՞փ_ “how much”, _ինչպե՞ս_ “how”
-* _ո՞ր, որո՞նք_ “which”, _որպիսի՞(ք)_ “which kind of”, _որքա՞ն_ “how many”, _որչա՞փ_ “how much”, _ո՞րերորդ_ “what number” (ordinal quantifier)
+* _ո՞ր, որո՞նք_ “which”, _որպիսի՞(ք)_ “what kind of”, _որքա՞ն_ “how many”, _որչա՞փ_ “how much”, _ո՞րերորդ_ “what number” (ordinal quantifier)
 * _քանի՞_ “how many”, _քանի՞սը_ “how many”, _քանի՞երորդ_ “what number” (ordinal quantifier)
 * _որտե՞ղ_ “where”, _ո՞ւր_ “where to”
 * _ե՞րբ_ “when”
