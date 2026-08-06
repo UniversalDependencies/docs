@@ -77,7 +77,9 @@ It serves as a lemma.
 It is used for subjects or objects except the cases described below for the oblique.
 It is used also for nominal parts of nominal predicates, non-prepositional nominal modifiers,
 temporal ranges and in several other cases.
+
 <!--
+tak ja uz fakt neviem, ako to spravit
 * Other occurrences of the direct and oblique case are generally accompanied by an adposition, altghough various exceptions of nominals in the bare direct and oblique case, that are not a core argument, may exist:
   * Temporal range (دوه ساعته خوب کوم _dwa **sâáta** xob kawë́m_ “I sleep for two hours”).
   * Nominal part of a light verb !!!
