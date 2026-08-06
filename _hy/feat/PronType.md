@@ -31,7 +31,7 @@ See also the [Poss]() feature that distinguishes personal pronouns from possessi
 #### Examples
 
 * _ես_/_es_ “I”, _դու_/_dow_ “you”, _նա_/_na_ “he/she/it”, _մենք_/_menk’_ “we”, _դուք_/_dowk’_ “you”, _նրանք_/_nrank’_ “they”
-* _իմ_/_im_ “my”, _քո_/_kʼo_ “your”, _նրա_/_nra_ “his/her/its”, _մեր_/_mer_ “our”, _ձեր__jer_ “your”, _նրանց_/_nrancʼ_ “their”
+* _իմ_/_im_ “my”, _քո_/_kʼo_ “your”, _նրա_/_nra_ “his/her/its”, _մեր_/_mer_ “our”, _ձեր_/_jer_ “your”, _նրանց_/_nrancʼ_ “their”
 * _ինձ_/_inj_ “me, myself”, _քեզ_/_kʼez_ “you, yourself”, _իրեն_/_iren_ “one, oneself”, _մեզ_/_mez_ “us, ourselves”, _ձեզ_/_jez_ “you, yourselves” , _իրենց_/_irencʼ_ “them, themselves”
 * _իր, իրենց_ “one's own, their own”
 
@@ -41,13 +41,12 @@ Note that possessive interrogative determiners (_whose_) can be distinguished by
 
 #### Examples:
 
-* _ո՞վ, ովքե՞ր_ “who”, _ո՞ւմ_ “whose”
-* _ի՞նչ_ “what”, _ինչպիսի՞(ք)_ “what kind of”, _ինչքա՞ն_ “how many”, _ինչչա՞փ_ “how much”, _ինչպե՞ս_ “how”
-* _ո՞ր, որո՞նք_ “which”, _որպիսի՞(ք)_ “what kind of”, _որքա՞ն_ “how many”, _որչա՞փ_ “how much”, _ո՞րերորդ_ “what number” (ordinal quantifier)
-* _քանի՞_ “how many”, _քանի՞սը_ “how many”, _քանի՞երորդ_ “what number” (ordinal quantifier)
-* _որտե՞ղ_ “where”, _ո՞ւր_ “where to”
-* _ե՞րբ_ “when”
-* _ինչո՞ւ_ “why”
+* _ո՞վ_/_o?v_, _ովքե՞ր_/_ovkʼe?r_ “who”, _ո՞ւմ_/_o?wm_ “whose”
+* _ի՞նչ_/_i?nč_ “what”, _ինչպիսի՞(ք)_/_inčpisi?(kʼ)_ “what kind of”, _ինչքա՞ն_/_inčkʼa?n_ “how many”, _ինչչա՞փ_/_inčča?pʼ_ “how much”, _ինչպե՞ս_/_inčpe?s_ “how”
+* _ո՞ր_/_o?r_, _որո՞նք_/_oro?nkʼ_ “which”, _որպիսի՞(ք)_/_orpisi?(kʼ)_ “what kind of”, _որքա՞ն_/_orkʼa?n_ “how many”, _որչա՞փ_/_orča?pʼ_ “how much”, _ո՞րերորդ_/_o?rerord_ “what number” (ordinal quantifier)
+* _քանի՞_/_kʼani?_ “how many”, _քանի՞սը_/_kʼani?së_ “how many”, _քանի՞երորդ_/_kʼani?erord_ “what number” (ordinal quantifier)
+* _որտե՞ղ_/_orte?ġ_ “where”, _ո՞ւր_/_o?wr_ “where to”
+* _ե՞րբ_/_e?rb_ “when” * _ինչո՞ւ_/_inčo?w_ “why”
 
 ### <a name="Rel">`Rel`</a>: relative pronoun or determiner or adverb
 
@@ -55,7 +54,10 @@ All pronouns and determiners that mark the beginning of a [relative clause](acl:
 
 #### Examples:
 
-* _ո՞վ, ովքե՞ր_ “who”, _ո՞ւմ_ “whose”
+* _ով_/_ov_ “who”
+* _որ_/_or_ “that, which”
+* _ինչ_/_inč_ “what”
+* _ուր_
 
 ### <a name="Exc">`Exc`</a>: exclamative determiner
 
@@ -64,14 +66,14 @@ the modified noun. In Armenian exclamative determiners are recruited from the se
 
 #### Examples:
 
-* _Ինչպիսի՜ անակնկալ։_ “What a surprise!”
-* _Այդքա՜ն գեղեցիկ։_ “So beautiful!”
+* _ի՜նչ բերք կստացվեր_/_i!nč berkʼ kstacʼver_ “what a harvest we would have had!”
+* _այնքա՜ն շատ_/_aynkʼa!n šat_ “so many/much!”
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
 #### Examples
 
-* _մեկմեկու (մեկմեկի), իրար (իրարու), միմյանց&nbsp;_ “one another, each other, each other”
+* _մեկմեկու (մեկմեկի)_/_mekmekow (mekmeki)_ “one another”, _իրար (իրարու)_/_irar (irarow)_ “each other”, _միմյանց_/_mimyancʼ_ “each other”
 
 ### <a name="Art">`Art`</a>: article
 
@@ -82,7 +84,7 @@ See also the related features [Number[psor]]() and [Person[psor]]().
 
 #### Examples
 
-* _մի&nbsp;_ “a/an”
+* * _մի_/_mi_ “a/an”
 
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner or adverb
 
@@ -90,15 +92,15 @@ Note that Armenian makes a distinction between proximal or first person (objects
 
 #### Examples
 
-* _սա, դա, նա_ “this, that (medial), that”
-* _այս, այդ, այն_ “this, that (medial), that”
-* _սույն, նույն, միևնույն_ “this, same, same one”
-* _այսպիսի, այդպիսի, այնպիսի, նույնպիսի_ “such, such (medial), such (distal), same”
-* _այսպես, այդպես, այնպես, նույնպես_ “this way, that way (medial), that way, same way”
-* _այսքան, այդքան, այնքան_ “this many, that many, so many”
-* _այսչափ, այդչափ, այնչափ_ “this much, that much, so much”
-* _այստեղ, այդտեղ, այնտեղ_ “here, there (medial), there”
-* _մյուս_ “another”
+* _սա_/_sa_ “this”, _-դա_/_da_ “that (medial)”, _նա_/_na_ “that”
+* _այս_/_ays_, _այդ_/_ayd_, _այն_/_ayn_ “this, that (medial), that”
+* _սույն_/_sowyn_ “this”, _նույն_/_nowyn_ “same”, _միևնույն_/_miewnowyn_ “same one”
+* _այսպիսի_/_ayspisi_ “such”, _այդպիսի_/_aydpisi_ “such (medial)”, _այնպիսի_/_aynpisi_ “such (distal)”, _նույնպիսի_/_nowynpisi_ “same”
+* _այսպես_/_ayspes_ “this way”, _այդպես_/_aydpes_ “that way (medial)”, _այնպես_/_aynpes_ “that way (distal)”, _նույնպես_/_nowynpes_ “same way”
+* _այսքան_/_ayskʼan_ “this many”, _այդքան_/_aydkʼan_ “that many”, _այնքան_/_aynkʼan_ “so many”
+* _այսչափ_/_aysčapʼ_ “this much”, _այդչափ_/_aydčapʼ_ “that much”, _այնչափ_/_aynčapʼ_ “so much”
+* _այստեղ_/_aysteġ_ “here”, _այդտեղ_/_aydteġ_ “there (medial)”, _այնտեղ_/_aynteġ_ “there”
+* _մյուս_/_myows_ “another”
 
 ### <a name="Emp">`Emp`</a>: emphatic pronoun or determiner
 
@@ -108,19 +110,19 @@ See also the [Number[psor]]() and [Person[psor]]() features for further details.
 
 #### Examples
 
-* _ինքը, ինքները / իրենք_ “(he) himself, (they) themselves” as in _Նախագահն <b>ինքը</b> եկավ դա տեսնելու։_ “President <b>himself</b> came to see it.”
+* _ինքը, ինքները / իրենք_/_inkʼë, inkʼnerë / irenkʼ_ “(he) himself, (they) themselves” as in _պապը <b>ինքն</b> է ընտրել_/_papë <b>inkʼn</b> ē ëntrel_ “grandfather chose it <b>himself</b>”
 
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun or determiner
 
 #### Examples
 
-* _ամեն(ը)&nbsp;_ “every, all (of things)”
-* _բոլոր(ը)&nbsp;_ “all (of people)”
-* _յուրաքանչյուր(ը)&nbsp;_ “each (one)”
-* _ողջ(ը) &nbsp;_ “whole”
-* _ամբողջ(ը)&nbsp;_ “all”
-* _համայն&nbsp;_ “all, whole”
-* _ամենայն&nbsp;_ “all, every”
+* _ամեն(ը)_/_amen(ë)_ “every, all (of things)”
+* _բոլոր(ը)_/_bolor(ë)_ “all (of people)”
+* _յուրաքանչյուր(ը)_/ _yowrakʼančyowr(ë)_ “each (one)”
+* _ողջ(ը)_/_oġǰ(ë)_ “whole”
+* _ամբողջ(ը)_/_amboġǰ(ë)_ “all”
+* _համայն_/_hamayn_ “all, whole”
+* _ամենայն_/_amenayn_ “all, every”
 
 ### <a name="Neg">`Neg`</a>: negative pronoun or determiner
 
@@ -128,21 +130,21 @@ Negative pronominal words are distinguished from negating [particles](PART) and 
 
 #### Examples
 
-* _ոչ ոք_ “nobody”
-* _ոչինչ_ “nothing”
-* _ոչ մեկը_ “no one”
-* _ոչ մի_ “no”
+* _ոչ ոք_/_oč okʼ_ “nobody”
+* _ոչինչ_/_očinč_ “nothing”
+* _ոչ մեկը_/_oč mekë_ “no one”
+* _ոչ մի_/_oč mi_ “no”
 
 ### <a name="Ind">`Ind`</a>: indefinite pronoun, determiner or adverb
 
 #### Examples
 
-* _ինչ-որ&nbsp;_ “some (of one thing)”, _ինչ-ինչ&nbsp;_ “some (of many thing)”
-* _մի քանի&nbsp;_ “several”, _մի քանիսը&nbsp;_ “several people”, _որոշ&nbsp;_ “definite”
-* _մեկը&nbsp;_ “one”, _մեկնումեկը&nbsp;_ “someone”, _մի&nbsp;_ “some, several”
-* _ոմն&nbsp;_ “someone”, _ոմանք&nbsp;_ “some people”
-* _ուրիշ&nbsp;_ “another”, _ուրիշը&nbsp;_ “another one”, _այլ&nbsp;_ “other”
-* _որևէ, որևիցե&nbsp;_ “one or another”
-* _այսինչ, այնինչ&nbsp;_ “this and that”
-* _երբևէ, երբևիցե&nbsp;_ “sometime”
+* _ինչ-որ_/_inč-or_ “some (of one thing)”, _ինչ-ինչ_/_inč-inč_ “some (of many thing)”
+* _մի քանի_/_mi kʼani_ “several”, _մի քանիսը_/_mi kʼanisë_ “several people”, _որոշ_/_oroš_ “definite”
+* _մեկը_/_mekë_ “one”, _մեկնումեկը_/_meknowmekë_ “someone”, _մի_/_mi_ “some, several”
+* _ոմն_/_omn_ “someone”, _ոմանք_/_omankʼ_ “some people”
+* _ուրիշ_/_owriš_ “another”, _ուրիշը_/_owrišë_ “another one”, _այլ_/_ayl_ “other”
+* _որևէ, որևիցե_/_orewē, orewicʼe_ “one or another”
+* _այսինչ, այնինչ_/_aysinč, ayninč_ “this and that”
+* _երբևէ, երբևիցե_/_erbewē, erbewicʼe_ “sometime”
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:14 CEST -->
