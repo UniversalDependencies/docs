@@ -57,12 +57,11 @@ All pronouns and determiners that mark the beginning of a [relative clause](acl:
 * _ով_/_ov_ “who”
 * _որ_/_or_ “that, which”
 * _ինչ_/_inč_ “what”
-* _ուր_
+* _ուր_/_owr_ “where”
 
 ### <a name="Exc">`Exc`</a>: exclamative determiner
 
-Exclamative pro-adjectives (determiners) express the speaker’s surprise towards
-the modified noun. In Armenian exclamative determiners are recruited from the set of interrogative or demonstrative determiners.
+Exclamative pro-adjectives (determiners) express the speaker’s surprise towards the modified noun. In Armenian, exclamative determiners are recruited from the set of interrogative or demonstrative determiners.
 
 #### Examples:
 
@@ -73,18 +72,17 @@ the modified noun. In Armenian exclamative determiners are recruited from the se
 
 #### Examples
 
-* _մեկմեկու (մեկմեկի)_/_mekmekow (mekmeki)_ “one another”, _իրար (իրարու)_/_irar (irarow)_ “each other”, _միմյանց_/_mimyancʼ_ “each other”
+* _մեկմեկու (մեկմեկի)_/_mekmekow (mekmeki)_ “one another” _իրար (իրարու)_/_irar (irarow)_ “each other”, _միմյանց_/_mimyancʼ_ “each other”
 
 ### <a name="Art">`Art`</a>: article
 
-Article is a special case of determiner that bears the feature of
-[definiteness](Definite). Note, that in Armenian `Def` value is marked directly on nouns.
+Article is a special case of determiner that bears the feature of [definiteness](Definite). Note that in Armenian `Def` value is marked directly on nouns.
 
 See also the related features [Number[psor]]() and [Person[psor]]().
 
 #### Examples
 
-* * _մի_/_mi_ “a/an”
+* _մի_/_mi_ “a/an”
 
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner or adverb
 
@@ -104,7 +102,7 @@ Note that Armenian makes a distinction between proximal or first person (objects
 
 ### <a name="Emp">`Emp`</a>: emphatic pronoun or determiner
 
-As emphatic pro-adjectives (determiners) emphasize the nominal they depend on. There are similarities with personal, demonstrative, reflexive and possessive pronouns / determiners.
+Emphatic pro-adjectives (determiners) emphasize the nominal they depend on. There are similarities with personal, demonstrative, reflexive and possessive pronouns / determiners.
 
 See also the [Number[psor]]() and [Person[psor]]() features for further details.
 
