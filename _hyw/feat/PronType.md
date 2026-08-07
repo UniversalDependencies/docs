@@ -31,8 +31,8 @@ See also the [Poss]() feature that distinguishes personal pronouns from possessi
 #### Examples
 
 * _ես_/_es_ “I”, _դուն_/_down_ “you”, _ան_/_an_ “he/she/it”, _մենք_/_menk’_ “we”, _դուք_/_dowk’_ “you”, _անոնք_/_anonk’_ “they”
-* _իմ_/_im_ “my”, _քո_/_kʼo_ “your”, _նրա_/_nra_ “his/her/its”, _մեր_/_mer_ “our”, _ձեր_/_jer_ “your”, _նրանց_/_nrancʼ_ “their”
-* _ինձ_/_inj_ “me, myself”, _քեզ_/_kʼez_ “you, yourself”,  _նրան_/_nran_ “him/her/it”, _իրեն_/_iren_ “one, oneself”, _մեզ_/_mez_ “us, ourselves”, _ձեզ_/_jez_ “you, yourselves”, _նրանց_/_nrancʼ_ “them”, _իրենց_/_irencʼ_ “them, themselves”
+* _իմ_/_im_ “my”, _քու_/_kʼo_ “your”, _անոր_/_nra_ “his/her/its”, _մեր_/_mer_ “our”, _ձեր_/_jer_ “your”, _անոնց_/_nrancʼ_ “their”
+* _ինծի_/_inj_ “me, myself”, _քեզի_/_kʼez_ “you, yourself”,  _անոր_/_nran_ “him/her/it”, _իրեն_/_iren_ “one, oneself”, _մեզի_/_mez_ “us, ourselves”, _ձեզի_/_jez_ “you, yourselves”, _անոնց_/_nrancʼ_ “them”, _իրենց_/_irencʼ_ “them, themselves”
 * _իր_/_ir_ “one's own”, _իրենց_/_irencʼ_ “their own”
 
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
@@ -41,11 +41,11 @@ Note that interrogative determiners can be used as exclamatives with exclamation
 
 #### Examples:
 
-* _ո՞վ_/_o?v_, _ովքե՞ր_/_ovkʼe?r_ “who?”, _ո՞ւմ_/_o?wm_ “whose?”
-* _ի՞նչ_/_i?nč_ “what?”, _ինչպիսի՞(ք)_/_inčpisi?(kʼ)_ “what kind of?”, _ինչքա՞ն_/_inčkʼa?n_ “how many?”, _ինչչա՞փ_/_inčča?pʼ_ “how much?”, _ինչպե՞ս_/_inčpe?s_ “how?”
-* _ո՞ր_/_o?r_, _որո՞նք_/_oro?nkʼ_ “which?”, _որպիսի՞(ք)_/_orpisi?(kʼ)_ “what kind of?”, _որքա՞ն_/_orkʼa?n_ “how many?”, _որչա՞փ_/_orča?pʼ_ “how much?”, _ո՞րերորդ_/_o?rerord_ “what number?” (ordinal quantifier)
+* _ո՞վ_/_o?v_, _որո՞նք_/_ovkʼe?r_ “who?”, _ո՞ւմ_/_o?wm_ “whose?”
+* _ի՞նչ_/_i?nč_ “what?”, _ինչպիսի՞(ք)_/_inčpisi?(kʼ)_ “what kind of?”, _ի՞նչքան_/_ia?nčkʼn_ “how many?”, _ի՞նչչափ_/_i?nččapʼ_ “how much?”, _ի՞նչպես_/_i?nčpes_ “how?”
+* _ո՞ր_/_o?r_, _որո՞նք_/_oro?nkʼ_ “which?”, _ո՞րպիսի(ք)_/_o?rpisi(kʼ)_ “what kind of?”, _ո՞րքան_/_o?rkʼan_ “how many?”, _ո՞րչափ_/_o?rčapʼ_ “how much?”
 * _քանի՞_/_kʼani?_ “how many?”, _քանի՞սը_/_kʼani?së_ “how many?”, _քանի՞երորդ_/_kʼani?erord_ “what number?” (ordinal quantifier)
-* _որտե՞ղ_/_orte?ġ_ “where?”, _ո՞ւր_/_o?wr_ “where to?”
+* _ո՞ւր_/_o?wr_ “where to?”
 * _ե՞րբ_/_e?rb_ “when?”
 * _ինչո՞ւ_/_inčo?w_ “why?”
 
@@ -58,7 +58,6 @@ All pronouns, determiners, and pronominal adverbs that mark the beginning of a [
 * _ով_/_ov_ “who”
 * _որ_/_or_ “that, which”
 * _ինչ_/_inč_ “what”
-* _որտեղ_/_orteġ_ “where”
 * _ուր_/_owr_ “where”
 * _երբ_/_erb_ “when”
 
@@ -75,7 +74,7 @@ Exclamative pronouns (determiners) express the speaker’s surprise or strong re
 
 #### Examples
 
-* _մեկմեկու (մեկմեկի)_/_mekmekow (mekmeki)_ “one another”, _իրար (իրարու)_/_irar (irarow)_ “each other”, _միմյանց_/_mimyancʼ_ “each other”
+* _մէկզմէկ_/_mēkzmēk_ “one another”, _իրար_/_irar (irarow)_ “each other”, _միմեանց_/_mimeancʼ_ “each other”
 
 ### <a name="Art">`Art`</a>: article
 
@@ -93,15 +92,15 @@ Note that Armenian distinguishes proximal (near the speaker), medial (near the a
 
 #### Examples
 
-* _սա_/_sa_ “this”, _դա_/_da_ “that (medial)”, _նա_/_na_ “that”
+* _սա_/_sa_ “this”, _ասիկա_/_asika_ “this”, _ատիկա_/_atika_ “that (medial)”, _անիկա_/_anika_ “that”
 * _այս_/_ays_, _այդ_/_ayd_, _այն_/_ayn_ “this, that (medial), that”
-* _սույն_/_sowyn_ “this”, _նույն_/_nowyn_ “same”, _միևնույն_/_miewnowyn_ “same one”
-* _այսպիսի_/_ayspisi_ “such”, _այդպիսի_/_aydpisi_ “such (medial)”, _այնպիսի_/_aynpisi_ “such (distal)”, _նույնպիսի_/_nowynpisi_ “same”
-* _այսպես_/_ayspes_ “this way”, _այդպես_/_aydpes_ “that way (medial)”, _այնպես_/_aynpes_ “that way (distal)”, _նույնպես_/_nowynpes_ “same way”
+* _սոյն_/_soyn_ “this”, _նոյն_/_noyn_ “same”, _միեւնոյն_/_miewnoyn_ “same one”
+* _այսպիսի_/_ayspisi_ “such”, _այդպիսի_/_aydpisi_ “such (medial)”, _այնպիսի_/_aynpisi_ “such (distal)”, _նոյնպիսի_/_noynpisi_ “same”
+* _այսպէս_/_ayspēs_ “this way”, _այդպէս_/_aydpēs_ “that way (medial)”, _այնպէս_/_aynpēs_ “that way (distal)”, _նոյնպէս_/_noynpēs_ “same way”
 * _այսքան_/_ayskʼan_ “this many”, _այդքան_/_aydkʼan_ “that many”, _այնքան_/_aynkʼan_ “so many”
 * _այսչափ_/_aysčapʼ_ “this much”, _այդչափ_/_aydčapʼ_ “that much”, _այնչափ_/_aynčapʼ_ “so much”
 * _այստեղ_/_aysteġ_ “here”, _այդտեղ_/_aydteġ_ “there (medial)”, _այնտեղ_/_aynteġ_ “there”
-* _մյուս_/_myows_ “another”
+* _միւս_/_miws_ “another”
 
 ### <a name="Emp">`Emp`</a>: emphatic pronoun or determiner
 
@@ -111,16 +110,17 @@ See also the [Number[psor]]() and [Person[psor]]() features for further details.
 
 #### Examples
 
-* _ինքը, ինքները / իրենք_/_inkʼë, inkʼnerë / irenkʼ_ “(he) himself, (they) themselves”, as in _պապը <b>ինքն</b> է ընտրել_/_papë <b>inkʼn</b> ē ëntrel_ “grandfather chose it <b>himself</b>”
+* _ինք_/_inkʼ_ “(he) himself, (they) themselves”
+* _ինքզինք_/_ink’zink’_ “(he) himself/(she) herself/(it) itself
 
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun or determiner
 
 #### Examples
 
-* _ամեն(ը)_/_amen(ë)_ “every, all (of things)”
+* _ամէն(ը)_/_amēn(ë)_ “every, all (of things)”
 * _բոլոր(ը)_/_bolor(ë)_ “all (of people)”
-* _յուրաքանչյուր(ը)_/ _yowrakʼančyowr(ë)_ “each (one)”
-* _ողջ(ը)_/_oġǰ(ë)_ “whole”
+* _իւրաքանչիւր(ը)_/ _iwrakʼančiwr(ë)_ “each (one)”
+* _ողջ_/_oġǰ(ë)_ “whole”
 * _ամբողջ(ը)_/_amboġǰ(ë)_ “all”
 * _համայն_/_hamayn_ “all, whole”
 * _ամենայն_/_amenayn_ “all, every”
@@ -133,19 +133,19 @@ Negative pronominal words are distinguished from negating [particles](PART) and 
 
 * _ոչ ոք_/_oč okʼ_ “nobody”
 * _ոչինչ_/_očinč_ “nothing”
-* _ոչ մեկը_/_oč mekë_ “no one”
-* _ոչ մի_/_oč mi_ “no”
+* _ոչ մէկ_/_oč mēk_ “no”
+* _ոչ մէկը_/_oč mēkë_ “no one”
 
 ### <a name="Ind">`Ind`</a>: indefinite pronoun, determiner or adverb
 
 #### Examples
 
-* _ինչ-որ_/_inč-or_ “some (of one thing)”, _ինչ-ինչ_/_inč-inč_ “some (of many things)”
-* _մի քանի_/_mi kʼani_ “several”, _մի քանիսը_/_mi kʼanisë_ “some of”, _որոշ_/_oroš_ “certain”
-* _մեկը_/_mekë_ “one”, _մեկնումեկը_/_meknowmekë_ “someone”, _մի_/_mi_ “some, several”
+* _ինչ-ինչ_/_inč-inč_ “some (of many things)”
+* _քանի մը_/_kʼani më_ “several”, _մէկ քանին_/_mēk kʼanin_ “some of”, _որոշ_/_oroš_ “certain”
+* _մէկը_/_mēkë_ “one”
 * _ոմն_/_omn_ “someone”, _ոմանք_/_omankʼ_ “some people”
 * _ուրիշ_/_owriš_ “another”, _ուրիշը_/_owrišë_ “another one”, _այլ_/_ayl_ “other”
-* _որևէ, որևիցե_/_orewē, orewicʼe_ “one or another”
+* _որեւէ, ոեւէ_/_orewē, oewē_ “one or another”
 * _այսինչ, այնինչ_/_aysinč, ayninč_ “this and that”
-* _երբևէ, երբևիցե_/_erbewē, erbewicʼe_ “sometime”
+* _երբեւէ_/_erbewē_ “sometime”
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:14 CEST -->
