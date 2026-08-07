@@ -41,13 +41,13 @@ Note that possessive interrogative determiners (_whose_) can be distinguished by
 
 #### Examples:
 
-* _ո՞վ_/_o?v_, _ովքե՞ր_/_ovkʼe?r_ “who”, _ո՞ւմ_/_o?wm_ “whose”
-* _ի՞նչ_/_i?nč_ “what”, _ինչպիսի՞(ք)_/_inčpisi?(kʼ)_ “what kind of”, _ինչքա՞ն_/_inčkʼa?n_ “how many”, _ինչչա՞փ_/_inčča?pʼ_ “how much”, _ինչպե՞ս_/_inčpe?s_ “how”
-* _ո՞ր_/_o?r_, _որո՞նք_/_oro?nkʼ_ “which”, _որպիսի՞(ք)_/_orpisi?(kʼ)_ “what kind of”, _որքա՞ն_/_orkʼa?n_ “how many”, _որչա՞փ_/_orča?pʼ_ “how much”, _ո՞րերորդ_/_o?rerord_ “what number” (ordinal quantifier)
-* _քանի՞_/_kʼani?_ “how many”, _քանի՞սը_/_kʼani?së_ “how many”, _քանի՞երորդ_/_kʼani?erord_ “what number” (ordinal quantifier)
-* _որտե՞ղ_/_orte?ġ_ “where”, _ո՞ւր_/_o?wr_ “where to”
-* _ե՞րբ_/_e?rb_ “when”
-* _ինչո՞ւ_/_inčo?w_ “why”
+* _ո՞վ_/_o?v_, _ովքե՞ր_/_ovkʼe?r_ “who?”, _ո՞ւմ_/_o?wm_ “whose?”
+* _ի՞նչ_/_i?nč_ “what?”, _ինչպիսի՞(ք)_/_inčpisi?(kʼ)_ “what kind of?”, _ինչքա՞ն_/_inčkʼa?n_ “how many?”, _ինչչա՞փ_/_inčča?pʼ_ “how much?”, _ինչպե՞ս_/_inčpe?s_ “how?”
+* _ո՞ր_/_o?r_, _որո՞նք_/_oro?nkʼ_ “which?”, _որպիսի՞(ք)_/_orpisi?(kʼ)_ “what kind of?”, _որքա՞ն_/_orkʼa?n_ “how many?”, _որչա՞փ_/_orča?pʼ_ “how much?”, _ո՞րերորդ_/_o?rerord_ “what number?” (ordinal quantifier)
+* _քանի՞_/_kʼani?_ “how many?”, _քանի՞սը_/_kʼani?së_ “how many?”, _քանի՞երորդ_/_kʼani?erord_ “what number?” (ordinal quantifier)
+* _որտե՞ղ_/_orte?ġ_ “where?”, _ո՞ւր_/_o?wr_ “where to?”
+* _ե՞րբ_/_e?rb_ “when?”
+* _ինչո՞ւ_/_inčo?w_ “why?”
 
 ### <a name="Rel">`Rel`</a>: relative pronoun or determiner or adverb
 
@@ -58,7 +58,9 @@ All pronouns, determiners, and pronominal adverbs that mark the beginning of a [
 * _ով_/_ov_ “who”
 * _որ_/_or_ “that, which”
 * _ինչ_/_inč_ “what”
+* _որտեղ_/_orteġ_ “where”
 * _ուր_/_owr_ “where”
+* _երբ_/_erb_ “when”
 
 ### <a name="Exc">`Exc`</a>: exclamative determiner
 
