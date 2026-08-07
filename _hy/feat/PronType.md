@@ -26,7 +26,7 @@ This feature typically applies to [pronouns](PRON), [determiners](DET), and pron
 
 ### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
-See also the [Poss]() feature that distinguishes personal pronouns from possessives. Note that `Prs` also includes emphatic personal/possessive pronouns (e.g. _իր_/_ir_ “one's own”, _իրենց_/_irencʼ_ “their own”, see the[Reflex]() feature).
+See also the [Poss]() feature that distinguishes personal pronouns from possessives. Note that `Prs` also includes emphatic personal/possessive pronouns (e.g. _իր_/_ir_ “one's own”, _իրենց_/_irencʼ_ “their own”, see also the [Reflex]() feature).
 
 #### Examples
 
@@ -37,7 +37,7 @@ See also the [Poss]() feature that distinguishes personal pronouns from possessi
 
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
 
-Note that possessive interrogative determiners (_whose_) can be distinguished by the [Poss]() feature. Interrogative determiners can be used as exclamatives with exclamation mark or stress.
+Note that interrogative determiners can be used as exclamatives with exclamation mark or stress (see below).
 
 #### Examples:
 
