@@ -32,8 +32,8 @@ See also the [Poss]() feature that distinguishes personal pronouns from possessi
 
 * _ես_/_es_ “I”, _դու_/_dow_ “you”, _նա_/_na_ “he/she/it”, _մենք_/_menk’_ “we”, _դուք_/_dowk’_ “you”, _նրանք_/_nrank’_ “they”
 * _իմ_/_im_ “my”, _քո_/_kʼo_ “your”, _նրա_/_nra_ “his/her/its”, _մեր_/_mer_ “our”, _ձեր_/_jer_ “your”, _նրանց_/_nrancʼ_ “their”
-* _ինձ_/_inj_ “me, myself”, _քեզ_/_kʼez_ “you, yourself”, _իրեն_/_iren_ “one, oneself”, _մեզ_/_mez_ “us, ourselves”, _ձեզ_/_jez_ “you, yourselves” , _իրենց_/_irencʼ_ “them, themselves”
-* _իր, իրենց_ “one's own, their own”
+* _ինձ_/_inj_ “me, myself”, _քեզ_/_kʼez_ “you, yourself”,  _նրան_/_nran_ “him/her/it”, _իրեն_/_iren_ “one, oneself”, _մեզ_/_mez_ “us, ourselves”, _ձեզ_/_jez_ “you, yourselves”, _նրանց_/_nrancʼ_ “them”, _իրենց_/_irencʼ_ “them, themselves”
+* _իր_/_ir_ “one's own”, _իրենց_/_irencʼ_ “their own”
 
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
 
@@ -46,11 +46,12 @@ Note that possessive interrogative determiners (_whose_) can be distinguished by
 * _ո՞ր_/_o?r_, _որո՞նք_/_oro?nkʼ_ “which”, _որպիսի՞(ք)_/_orpisi?(kʼ)_ “what kind of”, _որքա՞ն_/_orkʼa?n_ “how many”, _որչա՞փ_/_orča?pʼ_ “how much”, _ո՞րերորդ_/_o?rerord_ “what number” (ordinal quantifier)
 * _քանի՞_/_kʼani?_ “how many”, _քանի՞սը_/_kʼani?së_ “how many”, _քանի՞երորդ_/_kʼani?erord_ “what number” (ordinal quantifier)
 * _որտե՞ղ_/_orte?ġ_ “where”, _ո՞ւր_/_o?wr_ “where to”
-* _ե՞րբ_/_e?rb_ “when” * _ինչո՞ւ_/_inčo?w_ “why”
+* _ե՞րբ_/_e?rb_ “when”
+* _ինչո՞ւ_/_inčo?w_ “why”
 
 ### <a name="Rel">`Rel`</a>: relative pronoun or determiner or adverb
 
-All pronouns and determiners that mark the beginning of a [relative clause](acl:relcl) have this feature. Note that this class overlaps with interrogatives. There are no pronouns that are only relative.
+All pronouns, determiners, and pronominal adverbs that mark the beginning of a [relative clause](acl:relcl) have this feature. Note that this class overlaps with interrogatives. There are no pronouns that are only relative.
 
 #### Examples:
 
@@ -61,22 +62,22 @@ All pronouns and determiners that mark the beginning of a [relative clause](acl:
 
 ### <a name="Exc">`Exc`</a>: exclamative determiner
 
-Exclamative pro-adjectives (determiners) express the speaker’s surprise towards the modified noun. In Armenian, exclamative determiners are recruited from the set of interrogative or demonstrative determiners.
+Exclamative pronouns (determiners) express the speaker’s surprise or strong reaction with respect to the modified nominal. In Armenian, exclamative determiners are recruited from the set of interrogative or demonstrative determiners.
 
 #### Examples:
 
-* _ի՜նչ բերք կստացվեր_/_i!nč berkʼ kstacʼver_ “what a harvest we would have had!”
-* _այնքա՜ն շատ_/_aynkʼa!n šat_ “so many/much!”
+* _ի՜նչ բերք կստացվեր_/_i!nč berkʼ kstacʼver_ “what a harvest there would have been!”
+* _այնքա՜ն շատ_/_aynkʼa!n šat_ “so many / so much!”
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
 #### Examples
 
-* _մեկմեկու (մեկմեկի)_/_mekmekow (mekmeki)_ “one another” _իրար (իրարու)_/_irar (irarow)_ “each other”, _միմյանց_/_mimyancʼ_ “each other”
+* _մեկմեկու (մեկմեկի)_/_mekmekow (mekmeki)_ “one another”, _իրար (իրարու)_/_irar (irarow)_ “each other”, _միմյանց_/_mimyancʼ_ “each other”
 
 ### <a name="Art">`Art`</a>: article
 
-Article is a special case of determiner that bears the feature of [definiteness](Definite). Note that in Armenian `Def` value is marked directly on nouns.
+An article is a special type of determiner that bears the feature of [definiteness](Definite). Note that in Armenian, `Def` value is marked directly on nouns.
 
 See also the related features [Number[psor]]() and [Person[psor]]().
 
@@ -86,11 +87,11 @@ See also the related features [Number[psor]]() and [Person[psor]]().
 
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner or adverb
 
-Note that Armenian makes a distinction between proximal or first person (objects near to the speaker), medial or second person (objects near to the addressee), and distal or third person (objects far from both) demonstratives. We distinguish also a separate feature of [Distance]().
+Note that Armenian distinguishes proximal (near the speaker), medial (near the addressee), and distal (far from both) demonstratives. These distinctions are encoded using the feature [Deixis]().
 
 #### Examples
 
-* _սա_/_sa_ “this”, _-դա_/_da_ “that (medial)”, _նա_/_na_ “that”
+* _սա_/_sa_ “this”, _դա_/_da_ “that (medial)”, _նա_/_na_ “that”
 * _այս_/_ays_, _այդ_/_ayd_, _այն_/_ayn_ “this, that (medial), that”
 * _սույն_/_sowyn_ “this”, _նույն_/_nowyn_ “same”, _միևնույն_/_miewnowyn_ “same one”
 * _այսպիսի_/_ayspisi_ “such”, _այդպիսի_/_aydpisi_ “such (medial)”, _այնպիսի_/_aynpisi_ “such (distal)”, _նույնպիսի_/_nowynpisi_ “same”
@@ -102,13 +103,13 @@ Note that Armenian makes a distinction between proximal or first person (objects
 
 ### <a name="Emp">`Emp`</a>: emphatic pronoun or determiner
 
-Emphatic pro-adjectives (determiners) emphasize the nominal they depend on. There are similarities with personal, demonstrative, reflexive and possessive pronouns / determiners.
+Emphatic pronouns (determiners) emphasize the nominal they depend on. There are similarities with personal, demonstrative, emphatic and possessive pronouns / determiners.
 
 See also the [Number[psor]]() and [Person[psor]]() features for further details.
 
 #### Examples
 
-* _ինքը, ինքները / իրենք_/_inkʼë, inkʼnerë / irenkʼ_ “(he) himself, (they) themselves” as in _պապը <b>ինքն</b> է ընտրել_/_papë <b>inkʼn</b> ē ëntrel_ “grandfather chose it <b>himself</b>”
+* _ինքը, ինքները / իրենք_/_inkʼë, inkʼnerë / irenkʼ_ “(he) himself, (they) themselves”, as in _պապը <b>ինքն</b> է ընտրել_/_papë <b>inkʼn</b> ē ëntrel_ “grandfather chose it <b>himself</b>”
 
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun or determiner
 
@@ -124,7 +125,7 @@ See also the [Number[psor]]() and [Person[psor]]() features for further details.
 
 ### <a name="Neg">`Neg`</a>: negative pronoun or determiner
 
-Negative pronominal words are distinguished from negating [particles](PART) and from words that inflect for polarity (verbs.) Those words do not use `PronType=Neg`, they use `Polarity=Neg` instead. See [Polarity]() and [Connegative]() for further details.
+Negative pronominal words are distinguished from negating [particles](PART) and from words that inflect for polarity (verbs). Those words do not use `PronType=Neg`; they use `Polarity=Neg` instead. See [Polarity]() and [Connegative]() for further details.
 
 #### Examples
 
@@ -137,8 +138,8 @@ Negative pronominal words are distinguished from negating [particles](PART) and 
 
 #### Examples
 
-* _ինչ-որ_/_inč-or_ “some (of one thing)”, _ինչ-ինչ_/_inč-inč_ “some (of many thing)”
-* _մի քանի_/_mi kʼani_ “several”, _մի քանիսը_/_mi kʼanisë_ “several people”, _որոշ_/_oroš_ “definite”
+* _ինչ-որ_/_inč-or_ “some (of one thing)”, _ինչ-ինչ_/_inč-inč_ “some (of many things)”
+* _մի քանի_/_mi kʼani_ “several”, _մի քանիսը_/_mi kʼanisë_ “some of”, _որոշ_/_oroš_ “certain”
 * _մեկը_/_mekë_ “one”, _մեկնումեկը_/_meknowmekë_ “someone”, _մի_/_mi_ “some, several”
 * _ոմն_/_omn_ “someone”, _ոմանք_/_omankʼ_ “some people”
 * _ուրիշ_/_owriš_ “another”, _ուրիշը_/_owrišë_ “another one”, _այլ_/_ayl_ “other”
