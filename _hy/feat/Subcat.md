@@ -13,22 +13,22 @@ udver: '2'
 </tr>
 </table>
 
-Lexical feature of [verbs](Verb).
+Lexical feature of [verbs](VERB).
 
 ### <a name="Intr">`Intr`</a>: intransitive verb
 
-A verb that does not take arguments other than the subject.
+A verb that does not take core arguments other than the subject.
 
 #### Examples
 
-* _<b>գնալ</b> տուն_ “to <b>go</b> home”
+* _<b>գնալ</b> տուն_/_<b>gnal</b> town_ “to <b>go</b> home”
 
 ### <a name="Tran">`Tran`</a>: transitive verb
 
-A verb that takes a direct (nominative) object as argument (in addition to the subject).
-These verbs can be passivized, then the direct object becomes the subject.
+A verb that takes a direct object as argument (in addition to the subject).
+These verbs can be passivized, in which case the direct object becomes the subject.
 
 #### Examples
 
-* _<b>խմել</b> գինի_ “to <b>drink</b> wine”
+* _<b>խմել</b> գինի_/_<b>xmel</b> gini_ “to <b>drink</b> wine”
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->
