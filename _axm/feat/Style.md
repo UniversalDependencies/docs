@@ -44,7 +44,8 @@ may be a lexical feature (some words-lemmas are archaic, some are colloquial) or
 
 #### Examples
 
-Typical examples of expressive words in the Armenian data are diminutives:
+Typical examples of words with expressive or emotional coloring in Middle Armenian include diminutives and hypocoristic forms:
+
 
 * _ձայնիկ_/_jaynik_, _քաֆրիկ_/_k’afrik_, _պագիկ_/_pagik_
 
@@ -58,7 +59,9 @@ Typical examples of expressive words in the Armenian data are diminutives:
 
 ### <a name="Var">`Var`</a>: variant
 
+This value is used for variant forms of the same word.
+
 #### Examples
 
-* _դատւոր, դատուոր_/_datwor, datowor_, _թեպուր_, _թեփուր_/_t’epowr, _t’ep’owr_, _մգռա, մքռա_/_mgṙa, mk’ṙa_
+* _դատւոր, դատուոր_/_datwor, datowor_, _թեպուր, թեփուր_/_t’epowr, t’ep’owr_, _մգռա, մքռա_/_mgṙa, mk’ṙa_
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:19 CEST -->
