@@ -5,8 +5,7 @@ shortdef: 'reflexive'
 udver: '2'
 ---
 
-Boolean feature of [pronouns](PRON) or
-[determiners](DET). It tells whether the word is reflexive, i.e. refers to the subject of its clause.
+Boolean feature of [pronouns](PRON) or [determiners](DET). It tells whether the word is reflexive, i.e. refers to the subject of its clause.
 
 In Armenian, reflexive pronouns do not have various functions:
 
