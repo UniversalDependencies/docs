@@ -17,18 +17,18 @@ Lexical feature of [verbs](Verb).
 
 ### <a name="Intr">`Intr`</a>: intransitive verb
 
-A verb that does not take arguments other than the subject.
+A verb that does not take core arguments other than the subject.
 
 #### Examples
 
-* _Ինձ պարտ է <b>բարձրանալ</b> եւ <b>մեռանիլ</b> ի  փայտ խաչի/ Inj part ē barjranal ew meṙanil i  p’ayt xači_ “I must _ascend_ and _die_ on the wooden Cross”
+* _Ինձ պարտ է <b>բարձրանալ</b> եւ <b>մեռանիլ</b> ի  փայտ խաչի_/_Inj part ē barjranal ew meṙanil i  p’ayt xači_ “I must _ascend_ and _die_ on the wooden Cross”
 
 ### <a name="Tran">`Tran`</a>: transitive verb
 
-A verb that takes a direct (nominative) object as argument (in addition to the subject).
-These verbs can be passivized, then the direct object becomes the subject.
+A verb that takes a direct object as argument (in addition to the subject).
+These verbs can be passivized, in which case the direct object becomes the subject.
 
 #### Examples
 
-* _Եվ այլ <b>տուր</b> փշատի <b>փոխինդ</b>/Ev ayl towr p’šati p’oxind_ “And _give_ also oleaster _roasted flour_”
+* _Եվ այլ <b>տուր</b> փշատի <b>փոխինդ</b>_/_Ev ayl towr p’šati p’oxind_ “And _give_ also oleaster _roasted flour_”
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->
