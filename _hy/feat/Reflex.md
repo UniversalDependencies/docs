@@ -7,8 +7,6 @@ udver: '2'
 
 Boolean feature of [pronouns](PRON) or [determiners](DET). It tells whether the word is reflexive, i.e. refers to the subject of its clause.
 
-In Armenian, reflexive pronouns do not have various functions:
-
 Reflexive object of a verb means that the object is the same entity as the subject:
 
 - _Արմենն <b>իրեն</b> մեքենա է գնել։_/_Armenn <b>iren</b> mekʼena ē gnel._ “Armen bought <b>himself</b> a car.” vs.
