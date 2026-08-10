@@ -56,7 +56,7 @@ This may be a lexical feature (some words-lemmas are archaic, some are colloquia
 
 #### Examples
 
-Typical examples of expressive words in the Armenian data are diminutives:
+Typical examples of words with expressive or emotional coloring in the Armenian data include diminutives and hypocoristic forms:
 
 * _մուկիկ_/_mowkik_, _շունիկ_/_šownik_, _փիսիկ_/_pʼisik_, _Արմենչիկ_/_Armenčik_, _Աննուշկա_/_Annowška_, _ճստլոս_/_č̣stlos_
 
