@@ -46,7 +46,7 @@ may be a lexical feature (some words-lemmas are archaic, some are colloquial) or
 
 Typical examples of expressive words in the Armenian data are diminutives:
 
-* _ձայնիկ_/_jaynik, _քաֆրիկ_/_k’afrik_, _պագիկ_/_pagik_
+* _ձայնիկ_/_jaynik_, _քաֆրիկ_/_k’afrik_, _պագիկ_/_pagik_
 
 
 ### <a name="Vulg">`Vulg`</a>: vulgar
@@ -60,5 +60,5 @@ Typical examples of expressive words in the Armenian data are diminutives:
 
 #### Examples
 
-* _դատւոր,դատուոր_/_datwor, datowor_, _թեպուր_/_թեփուր_/_t’epowr, _t’ep’owr, _մգռա, մքռա_/_mgṙa, mk’ṙa_
+* _դատւոր, դատուոր_/_datwor, datowor_, _թեպուր_, _թեփուր_/_t’epowr, _t’ep’owr_, _մգռա, մքռա_/_mgṙa, mk’ṙa_
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:19 CEST -->
