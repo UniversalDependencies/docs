@@ -6,29 +6,26 @@ udver: '2'
 ---
 
 Boolean feature of [pronouns](PRON) or
-[determiners](DET). It tells whether the word is reflexive,
-i.e. refers to the subject of its clause.
+[determiners](DET). It tells whether the word is reflexive, i.e. refers to the subject of its clause.
 
 In Armenian, reflexive pronouns do not have various functions:
 
 Reflexive object of a verb means that the object is the same entity as the subject:
 
-- _Արմենն <b>իրեն</b> մեքենա է գնել։&nbsp;_ = “Armen bought <b>himself</b> a car.” vs.
-- _Արմենը նրան մեքենա է գնել։&nbsp;_ = “Armen bought him [someone else] a car.”
+- _Արմենն <b>իրեն</b> մեքենա է գնել։_/_Armenn <b>iren</b> mekʼena ē gnel._ “Armen bought <b>himself</b> a car.” vs.
+- _Արմենը նրան մեքենա է գնել։_/_Armenë nran mekʼena ē gnel._ “Armen bought him [someone else] a car.”
 
 Reflexive possessives indicate that the subject of the clause is the possessor:
 
-- _Արմենը վաճառել է <b>իր</b> մեքենան։&nbsp;_ “Armen sold <b>his</b> [own] car.”
-- _Արմենը վաճառել է նրա մեքենան։&nbsp;_ “Armen sold his [someone else's] car.”
+- _Արմենը վաճառել է <b>իր</b> մեքենան։_/_Armenë vač̣aṙel ē <b>ir</b> mekʼenan._ “Armen sold <b>his</b> [own] car.”
+- _Արմենը վաճառել է նրա մեքենան։_/_Armenë vač̣aṙel ē nra mekʼenan._ “Armen sold his [someone else's] car.”
 
 ### <a name="Yes">`Yes`</a>: it is reflexive
 
-Note that there is no `No` value. If the word is not reflexive, the
-`Reflex` feature will just not be mentioned in the `FEAT`
-column. (Which means that empty value has the `No` meaning.)
+Note that there is no `No` value. If the word is not reflexive, the `Reflex` feature will just not be mentioned in the `FEAT` column, which means that empty value has the `No` meaning.
 
 #### Examples
 
-* reflexive personal pronouns: _իր, իրեն, իրենց_ (occur in various cases but not in nominative and distinguish [Number]())
-* reflexive possessive determiners: _իր, իրենց_
+* reflexive personal pronouns: _իր_/_ir_ “his/her/its”, _իրեն_/_iren_ “himself/herself/itself”, _իրենց_/_irencʼ_“their, themselves” (occur in various cases but not in nominative and distinguish [Number]())
+* reflexive possessive determiners: _իր_/_ir_ “his/her/its own”, _իրենց_/_irencʼ_ “their own”
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:16 CEST -->
