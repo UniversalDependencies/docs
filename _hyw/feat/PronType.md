@@ -67,8 +67,8 @@ Exclamative pronouns (determiners) express the speaker’s surprise or strong re
 
 #### Examples:
 
-* _ի՜նչ բերք կստացվեր_/_i!nč berkʼ kstacʼver_ “what a harvest there would have been!”
-* _այնքա՜ն շատ_/_aynkʼa!n šat_ “so many / so much!”
+* _ի՜նչ անակնկալ_/_i!nč anaknkal_ “what a surprise!”
+* _որքա՜ն կարեւորութիւն_/_orkʼa!n kareworowtʼiwn_ “so much imprtance!”
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
