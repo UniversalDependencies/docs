@@ -69,7 +69,7 @@ Present-tense forms in the subjunctive, conditional, and necessitative moods may
 * _եմ_/_em_ “I am `Ind`”,
 * _կամ_/_kam_ “I am / exist `Ind`”,
 * _մտնում_/_mtnowm_ “I'd better enter `Sub`”,
-* _կու գնամ_/_kow gnam_ “I shall go `Cnd`”,
+* _կու գնամ_/_kow gnam_ “I shall go `Ind`, `Cnd`”,
 * _տի բերեմ_/_ti berem_ “I must/will bring `Nec`”,
 * _ունեմ_/_ownem_ “I have `Ind`”,
 * _գիտեմ_/_gitem_ “I know `Ind`”,
