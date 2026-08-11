@@ -12,12 +12,11 @@ udver: '2'
 </tr>
 </table>
 
-Indicates bad spelling, grammatical error etc. Does not say how the
-correct form looks like.
+Indicates bad spelling, grammatical error etc. Does not say how the correct form looks like.
 
 ### <a name="Yes">`Yes`</a>: it is typo
 
 #### Examples
 
-* _<b>զեխչ</b>_
+* _<b>զեխչ</b>_/_zexč_ (vs. _զեղչ_/_zeġč_) “discount”
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:21 CEST -->
