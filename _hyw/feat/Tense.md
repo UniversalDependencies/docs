@@ -24,7 +24,7 @@ Note that we are defining features that apply to a single word. If a tense is co
 
 In Western Armenian, actions that happen before and after a past or present event are constructed by combining the auxiliary _եմ_/_em_ “be” with perfect, resultative, and future participles.
 
-In periphrastic future constructions, future reference is encoded by the aspectual auxiliary _պիտի_/_piti_, which has prospective [aspect](Aspect) (`Aspect=Prosp`). The main verb receives `Tense=Pres` or `Tense=Imp`, respectively, in the subjunctive mood (e.g. _պիտի գայ_/_piti gay_ “he/she will come” or _պիտի գար_/_piti gar_ “he/she would come”).
+In periphrastic future constructions, future reference is encoded by the aspectual auxiliary _պիտի_/_piti_, which has prospective [aspect](Aspect) (`Aspect=Prosp`). The main verb is in the subjunctive mood and is annotated with `Tense=Pres` or `Tense=Imp`, depending on its morphological form (e.g. _պիտի գայ_/_piti gay_ “he/she will come” or _պիտի գար_/_piti gar_ “he/she would come”).
 
 Note that Western Armenian also has an elaborate system of parallel tense-aspect-mood forms, traditionally called “secondary compound tenses”, formed periphrastically with finite forms of the auxiliary _ըլլամ_/_ëllam_ and the resultative and future participles of the main verb. In these constructions, the auxiliary is annotated with `Tense=Pres` or `Tense=Imp`, while the participle carries the relevant aspectual feature, such as `Aspect=Perf` or `Aspect=Prosp`.
 
@@ -41,20 +41,21 @@ The past tense denotes actions that happened before a reference point. The refer
 
 Imperfect is a special case of the past tense. It denotes actions that are happening during some past moment. These actions might continue after the moment of speaking, but also might not, i.e. the evidence is not in the form itself, but it is in the context.
 
-Note that a limited set of verbs (_կամ_/_kam_, _գիտեմ_/_gitem_, _ունիմ_/_ownim_, _կրնամ_/_krnam_) form imperfect and present morphologically with unmarked vs. marked stems (traditionally called “Defective Verbs with Secondary Expanded Stems”). The difference between them is related also to [Mood]() and `Aspect` rather than `Tense`. The verbs with unmarked (“non-expanded”) stems will have `Tense=Imp` and `Tense=Pres` in indicative mood.
+Note that a limited set of verbs (_գիտեմ_/_gitem_, _ունիմ_/_ownim_, _կրնամ_/_krnam_) form imperfect and present morphologically with unmarked vs. marked stems (traditionally called “Defective Verbs with Secondary Expanded Stems”). The difference between them is related also to [Mood]() and `Aspect` rather than `Tense`. The verbs with unmarked (“non-expanded”) stems will have `Tense=Imp` and `Tense=Pres` in indicative mood.
 
 #### Examples
 
 * _էի_/_ēi_ “I was `Ind`”,
 * _կայի_/_kayi_ “I was / existed `Ind`”,
-* _<b>երթայի</b> տուն_/_<b>ertʼayi</b> town_ “<b>I wish I went</b> `Sub` home”,
-* _<b>վազեի</b> տուն_/_<b>vazei</b> town_ “<b>I wish I ran</b> `Sub` home”,
-* _ունեի_/_ownei_ “I had” `Ind`,
+* _<b>երթայի</b> տուն_/_<b>ertʼayi</b> town_ “(if) <b>I went</b> `Sub` home”,
+* _<b>վազէի</b> տուն_/_<b>vazēi</b> town_ “(if) <b>I ran</b> `Sub` home”,
+* _ունէի_/_ownēi_ “I had” `Ind`,
 * _գիտէի_/_gitēi_ “I knew” `Ind`,
 * _կրնայի_/_krnayi_ “I could” `Ind`,
-* _ունենայի_/_ownenayi_ “I wish I had `Sub`”,
-* _գիտնայի_/_gitenayi_ “I wish I knew `Sub`”,
-* _ըլլայի_/_ëllayi_ “I wish I were `Sub`”.
+* _ունենայի_/_ownenayi_ “(if) I had `Sub`”,
+* _գիտնայի_/_gitnayi_ “(if) I knew `Sub`”,
+* _կարենայի_/_karenayi_  “(if) I could `Sub`”,
+* _ըլլայի_/_ëllayi_ “(if) I was `Sub`”.
 
 ### <a name="Pres">`Pres`</a>: present tense
 
@@ -66,11 +67,12 @@ Present-tense forms in the subjunctive mood may have future reference. They are 
 
 * _եմ_/_em_ “I am `Ind`”,
 * _կամ_/_kam_ “I am / exist `Ind`”,
-* _<b>երթամ</b> տուն_/_<b>ertʼam</b> town_ “I'd better <b>go</b> `Sub` home”,
+* _<b>երթամ</b> տուն_/_<b>ertʼam</b> town_ “(if) <b>I go</b> `Sub` home”,
 * _ունիմ_/_ownim_ “I have `Ind`”,
 * _գիտեմ_/_gitem_ “I know `Ind`”,
-* _ունենամ_/_ownenam_ “(if) I have `Sub`”,
-* _գիտնամ_/_gitenam_ “(if) I know `Sub`”,
 * _կրնամ_/_krnam_ “I can `Ind`”,
+* _ունենամ_/_ownenam_ “(if) I have `Sub`”,
+* _գիտնամ_/_gitnam_ “(if) I know `Sub`”,
+* _կարենամ_/_karenam_ “(if) I can `Sub`”,
 * _ըլլամ_/_ëllam_ “I am / I will be `Sub`”.
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->
