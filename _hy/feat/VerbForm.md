@@ -16,46 +16,42 @@ udver: '2'
 </tr>
 </table>
 
-Even though the name of the feature seems to suggest that it is used
-exclusively with [verbs](VERB), it is not the case. The `Part` value can be used also with [nouns](NOUN) (nominalized subject or resultative participles), to separate them from other verb forms or other types of nouns. Note, that some [adjectives](ADJ) that fall in the gray zone between adjectives and participles are marked `Part` too.
-
 ### <a name="Fin">`Fin`</a>: finite verb
 
-Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this applies to conditional (also to [connegative](Connegative)), indicative, imperative and subjunctive forms.
+Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this applies to conditional (also to its [connegative](Connegative) form), indicative, imperative and subjunctive forms.
 
 #### Examples
 
-* _կգնամ, կգնաս, կգնա, կգնանք, կգնաք, կգնան_ &nbsp;“I will go, you will go, he/she/it will go, we will go, you will go, they will go”,
-* _գիտեմ, գիտես, գիտի, գիտենք, գիտեք, գիտեն_ &nbsp;“I know, you know, he/she/it knows, we know, you know, they know”,
-* _գնացի, գնացիր, գնաց, գնացինք, գնացիք, գնացին_ &nbsp;“I went, you went, he/she/it went, we went, you went, they went”,
-* _եմ, ես, է, ենք, եք, են_ &nbsp;“I am, you are, he/she/it is, we are, you are, they are”,
-* _գնա՛, գնացե՛ք_ &nbsp;“go” (imperative in different numbers),
-* _գնամ, գնաս, գնա, գնանք, գնաք, գնան_ &nbsp;“I go.`Sub`, you go.`Sub`, he/she/it go.`Sub`, we go.`Sub`, you go.`Sub`, they go.`Sub`”
+* _կգնամ_/_kgnam_ “I will go”, _կգնաս_/_kgnas_ “you will go”, _կգնա_/_kgna_ “he/she/it will go”, _կգնանք_/_kgnankʼ_ “we will go”, _կգնաք_/_kgnakʼ_ “you will go”, _կգնան_/_kgnan_ “they will go”,
+* _գիտեմ_/_gitem_ “I know”, _գիտես_/_gites_ “you know”, _գիտի_/_giti_ “he/she/it knows”, _գիտենք_/_gitenkʼ_ “we know”, _գիտեք_/_gitekʼ_ “you know”, _գիտեն_/_giten_ “they know”,
+* _գնացի_/_gnacʼi_ “I went”, _գնացիր_/_gnacʼir_ “you went”, _գնաց_/_gnacʼ_ “he/she/it went”, _գնացինք_/_gnacʼinkʼ_ “we went”, _գնացիք_/_gnacʼikʼ_ “you went”, _գնացին_/_gnacʼin_ “they went”,
+* _եմ_/_em_ “”, _ես_/_es_ “”, _է_/_ē_ “”, _ենք_/_enkʼ_ “”, _եք_/_ekʼ_ “”, _են_/_en_ “I am, you are, he/she/it is, we are, you are, they are”,
+* _գնա՛_/_gna՛_, _գնացե՛ք_/_gnacʼe՛kʼ_ “go!” (imperative in different numbers),
+* _գնամ_/_gnam_ “I go `Sub`”, _գնաս_/_gnas_ “you go `Sub`”, _գնա_/_gna_ “he/she/it go `Sub`”, _գնանք_/_gnankʼ_ “we go `Sub`”, _գնաք_/_gnakʼ_ “you go `Sub`”, _գնան_/_gnan_ “they go `Sub`”
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
-Infinitive is the citation form of verbs. In Armenian it has non-finite form. It is used with the auxiliary _տալ&nbsp;_ to form periphrastic causative voice, and it appears as the argument of other verbs.
+Infinitive is the citation form of verbs. In Armenian, the infinitive is a non-finite verb form. It is used with the auxiliary _տալ_/_tal_ to form periphrastic causative voice, and it can also function as an argument of other verbs.
 The infinitive shares properties of verbs and nouns. It inflects for [Case](), [Definite](), [Number](), [Number[psor]]() and [Person[psor]]().
 
 #### Examples
 
-* _<b>խմել</b> տվեցի_ &nbsp;“I made him <b>drink</b>”,
-* _կարող ես <b>գնալ</b>_ &nbsp;“you can <b>go</b>”,
-* _որոշեցի անմիջապես <b>չասել</b>_ &nbsp;“I decided <b>not to say</b> immediately”
-* _<b>սպանվելու</b> միտքը ծանր էր_ &nbsp;“lit: the thought <b>of to be killed</b> was hard”,
-* _սովոր էր մենակ <b>ծննդաբերելուն</b>_ &nbsp;“lit: she get used to <b>give birth</b> alone”,
-* _<b>մտնելուց</b> հետո_ &nbsp;“after <b>entering</b>”,
-* _մոտեցավ <b>վազելով</b>_ &nbsp;“lit: he came up <b>running</b>”,
-* _<b>ճառելում</b> նա հմուտ էր_ &nbsp;“lit: he was skillful <b>in telling speeches</b>”
+* _<b>կանչել</b> տվեց_/_<b>kančel</b> tvecʼ_ “He/She had [someone] <b>call</b> [someone]”,
+* _կարող ես <b>շարունակել</b>_/_karoġ es <b>šarownakel</b>_ “you can <b>continue</b>”,
+* _որոշեցի անմիջապես <b>չասել</b>_/_orošecʼi anmiǰapes <b>časel</b>_ “I decided <b>not to say</b> immediately”
+* _<b>ապաքինվելու</b> միջոց_/_<b>apakʼinvelow</b> miǰocʼ_ “lit: a means of <b>being healed</b>”,
+* _սովոր էր մենակ <b>ծննդաբերելուն</b>_/_sovor ēr menak <b>çnndaberelown</b>_ “lit: she was used to <b>giving birth</b> alone”,
+* _<b>մտնելուց</b> հետո_ “after <b>entering</b>”,
+* _<b>վազելով</b> եկավ_/_<b>vazelov</b> ekav_ “lit: he came <b>running</b>”,
+* _<b>ճառելում</b> նա հմուտ էր_/_<b>č̣aṙelowm</b> na hmowt ēr_ “lit: he was skilled <b>in delivering speeches</b>”
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
 Participle is a non-finite verb form that shares properties of verbs and adjectives. In Armenian it may be used to form complex tenses and can be also used purely adjectively.
 
-In Modern Armenian grammar, _converbs_ and _participals_ are destinguished. However, since the UD definition `Part` partially covers the use of converbs, we use the same 
-label for both. We use _converb_ only for the advercial participle (see bellow).  
+In Modern Armenian grammar, _converbs_ and _participles_ are distinguished. However, since the UD definition `Part` partially covers the use of converbs, we use the same label for both. We use _converb_ only for the adverbial participle (see below).  
 
-Note, that the so called _negative participle_ is used to form negated periphrastic conditional forms. We mark them [Connegative]().
+Note, that the so-called _negative participle_ is used to form negated periphrastic conditional forms. We mark them [Connegative]().
 
 Armenian has seven types of participles:
 
@@ -65,7 +61,7 @@ Armenian has seven types of participles:
 - The future-I participle is used to form the indicative mood in present prospective (future) or imperfect prospective (future-in-the-past) tense.
 - The future-II (state of prospective action) participle can be used only adjectively and can be negated.
 - The perfect participle is used to form the indicative mood in present perfect or imperfect-in-the-past (past perfect) tense.
-- The processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ, լալ, տալ_.
+- The processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ_/_gal_ “to come”, _լալ_/_lal_ “to cry”, _տալ_/_tal_ “to give”.
 
 Note that the processual (progressive), resultative and future-I participles can be used to form the secondary compound tenses (with the auxiliary _լինել_ in any tense or mood).
 
@@ -75,26 +71,23 @@ Participles will have [Aspect](), [Voice]() and [Subcat]().
 
 #### Examples
 
-* _քնած, գրած, ուղարկված, կանգնեցված_ &nbsp;“slept, written, sent, raised” (resultative participle, in different voices),
-* _գրող, մեռնող, տվող, եղող, բացվող_ &nbsp;“(smth.) writing, dying, giving, beeing, opening” (subject participle, in different voices),
-* _սիրում, խոսվում, բարձրացվում_ &nbsp;“love; smth. to be speaking about; beeing raised” (imperfective participle, in different voices),
-* _տեսնելու, լվացվելու, մեղմացվելու_ &nbsp;“for seeing, for washing, for beeing extenuated” (future-I participle, in different voices),
-* _կարդալիք, կառուցվելիք_ &nbsp;“(smth.) to be read, to be built” (future-II participle, in different voices),
-* _գնացել, խմել, դրել_ &nbsp;“have done, have drunk, have put” (perfect participle, in different voices),
-* _<b>գալիս</b> եմ/էի, <b>տալիս</b> եմ/էի, <b>լալիս</b> եմ/էի, <b>աշխատելիս</b> է եղել_ &nbsp;“I am/was <b>coming</b>, I am/was <b>giving</b>, I am/was <b>crying</b>, he has been <b>working</b>” (processual participle in different moods and tenses)
+* _քնած_/_kʼnaç_ “slept”, _գրած_/_graç_ “written”, _ուղարկված_/_owġarkvaç_ “sent”, _կանգնեցված_/_kangnecʼvaç_ “raised” (resultative participle, in different voices),
+* _գրող_/_groġ_ “(smth.) writing”, _մեռնող_/_meṙnoġ_ “dying”, _տվող_/_tvoġ_ “giving”, _եղող_/_eġoġ_ “beeing”, _բացվող_/_bacʼvoġ_ “opening” (subject participle, in different voices),
+* _սիրում_/_sirowm_ “love”, _խոսվում_/_xosvowm_ “(is) spoken about”, _բարձրացվում_/_barjracʼvowm_ “(is) beeing raised” (imperfective participle, in different voices),
+* _տեսնելու_/_tesnelow_ “for seeing”, _լվացվելու_/_lvacʼvelow_ “for washing”, _մեղմացվելու_/_meġmacʼvelow_ “for beeing extenuated” (future-I participle, in different voices),
+* _կարդալիք_/_kardalikʼ_ “(smth.) to be read”, _կառուցվելիք_/_kaṙowcʼvelikʼ_ “to be built” (future-II participle, in different voices),
+* _գնացել_/_gnacʼel_ “have gone”, _խմել_/_xmel_ “have drunk”, _դրել_/_drel_ “have put” (perfect participle, in different voices),
+* _<b>գալիս</b> եմ/էի_/_<b>galis</b> em/ēi_ “I am/was <b>coming</b>”, _<b>տալիս</b> եմ/էի_/_<b>talis</b> em/ēi_ “I am/was <b>giving</b>”, _<b>լալիս</b> եմ/էի_/_<b>lalis</b> em/ēi_ “I am/was <b>crying</b>”, _<b>աշխատելիս</b> է եղել_/_<b>ašxatelis</b> ē eġel_ “he has been <b>working</b>” (processual participle in different moods and tenses)
 
 ### <a name="Conv">`Conv`</a>: converb, adverbial participle
 
-The converb, also called adverbial participle or transgressive, is a non-finite
-verb form that shares properties of verbs and adverbs.
+The converb, also called adverbial participle or transgressive, is a non-finite verb form that shares properties of verbs and adverbs.
 
 Verbs form transgressive meaning “while doing”.
 
 #### Examples
 
-* _<b>վազելիս</b> ընկա_ &nbsp;“I fell <b>while running</b>”,
-* _<b>կարդալիս</b> ննջեց_ &nbsp;“he slept <b>while reading</b>”,
-* _<b>ուտելիս</b> շտապում է_ &nbsp;“he hurries <b>while eating</b>”
-
-
+* _պարտականությունները <b>կատարելիս</b>_ “<b>while carrying out</b> (one’s) duties”,
+* _գրախանութ <b>մտնելիս</b>_ “<b>when entering </b> a bookstore”,
+* _փողոցով <b> անցնելիս</b> չեմ խաչակնքվում_ “I don't cross myself <b>when walking</b> down the street”
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
