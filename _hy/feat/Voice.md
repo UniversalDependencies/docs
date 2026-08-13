@@ -17,8 +17,7 @@ udver: '2'
 </tr>
 </table>
 
-Voice is a feature of verbs that helps to map the traditional syntactic functions,
-such as subject and object, to semantic roles, such as agent and patient. See also the related feature [subcategorization](Subcat).
+Voice is a feature of verbs that helps to map the traditional syntactic functions, such as subject and object, to semantic roles, such as agent and patient. See also the related feature [subcategorization](Subcat).
 
 ### <a name="Act">`Act`</a>: active voice
 
@@ -27,63 +26,63 @@ Prototypically, the subject of the verb is the doer of the action (agent), the o
 By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, except for the cases when they are labeled `Voice=Pass`, `Voice=Mid` or `Voice=Cau` (see below).
 
 #### Examples
-* _Ես **ջարդում** եմ նրա օղիները_/_Es **ǰardowm** em nra òġinerë_ "I am **breaking** his vodka bottles."
-* _չէինք ցանկանում տղաներին **կորցնել**_/_čēink’ c’ankanowm tġanerin **korc’nel**_ "we didn't want to **lose** the boys."
-* _ճշմարտությունը հավերժ չես **թաքցնի**_/_č̣šmartowt’yownë haverž čes **t’ak’c’ni**_ "You can't **hide** the truth forever."
+* _Ես <b>ջարդում</b> եմ նրա օղիները_/_Es <b>ǰardowm</b> em nra òġinerë_ "I am <b>breaking</b> his vodka bottles."
+* _չէինք ցանկանում տղաներին <b>կորցնել</b>_/_čēink’ c’ankanowm tġanerin <b>korc’nel</b>_ "we didn't want to <b>lose</b> the boys."
+* _ճշմարտությունը հավերժ չես <b>թաքցնի</b>_/_č̣šmartowt’yownë haverž čes <b>t’ak’c’ni</b>_ "You can't <b>hide</b> the truth forever."
 
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
 The subject of the verb is affected by the action (patient). The doer (agent) is either a non-obligatory oblique phrase of the verb or not overtly expressed.
 
-The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive constructions. In this case, the verbs are marked with passive suffix  _-վ-_/_-v-_ (for exceptions see below).
+The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive constructions. In this case, the verbs are marked with the passive suffix _-վ-_/_-v-_ (for exceptions see below).
 
 #### Examples
 
-* _Ընկերության ներկայացուցչի վերաքննիչ բողոքները **մերժվել** են_/_Ënkerowt’yan nerkayac’owc’či verak’nnič boġok’nerë **meržvel** en_ "The company's representative's appeals have been **dismissed**.",
-* _վարկային պայմանագրերը **կնքվել** են_/_varkayin paymanagrerë **knk’vel** en_ "the loan agreements have been **concluded**",
-* _Դարավոր խոպան հողերը ջուր են ստացել, **ծածկվել** բամբակի ու բրնձի դաշտերով_/_Daravor xopan hoġerë ǰowr en stac’el, **çaçkvel** bambaki ow brnji dašterov_ "The centuries-old barren lands were irrigated and became **covered** with cotton and rice fields."
+* _Ընկերության ներկայացուցչի վերաքննիչ բողոքները <b>մերժվել</b> են_/_Ënkerowt’yan nerkayac’owc’či verak’nnič boġok’nerë <b>meržvel</b> en_ "The company's representative's appeals have been <b>dismissed</b>.",
+* _վարկային պայմանագրերը <b>կնքվել</b> են_/_varkayin paymanagrerë <b>knk’vel</b> en_ "the loan agreements have been <b>concluded</b>",
+* _Դարավոր խոպան հողերը ջուր են ստացել, <b>ծածկվել</b> բամբակի ու բրնձի դաշտերով_/_Daravor xopan hoġerë ǰowr en stac’el, <b>çaçkvel</b> bambaki ow brnji dašterov_ "The centuries-old barren lands were irrigated and became <b>covered</b> with cotton and rice fields."
 
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-Between active and passive. Needed also for the reflexive, traditionally called mediopassive (for reciprocal verbs see below); in this case, the verbs and their lemmas are marked with passive suffix  _-վ-_/_-v-_. 
+Between active and passive. It also covers reflexive uses, traditionally described as mediopassive (for reciprocal verbs, see below); in this case, the verbs and their lemmas are marked with the passive suffix _-վ-_/_-v-_. 
 
-Note, that there is a small set of middle voice verbs marked with passive suffix  _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, then the two verbs are represented by different lemmas (e.g. _վերաբերվել_.`Mid` “treat, be about”, but _վերաբերել_.`Act` “refer to”).
+Note that there is a small set of middle voice verbs marked with the passive suffix _-վ-_ (so-called passivized middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related unmarked counterpart, then the two verbs are represented by different lemmas (e.g. _վերաբերվել_ Mid` “treat, be about”, but _վերաբերել_ `Act` “refer to”).
 
 #### Examples
-* _**Վախենում** ենք ապրելուց:_/_**Vaxenowm** enk’ aprelowc’_ "We are **afraid** of living."
-* _սկսեց **հագնվել**_/_sksec’ **hagnvel**_ "he/she started **getting dressed**"
-* _**հարձակվել** են պահակների վրա_/_**harjakvel** en pahakneri vra_ "they **attacked** the guards"
-* _աշխատանքը մարդուն օգնում է **հաշտվել** սուրացող ժամանակի հետ_/_ašxatank’ë mardown ògnowm ē **haštvel** sowrac’oġ žamanaki het_ "Work helps a person come to terms with the swift passage of time"
+* _<b>Վախենում</b> ենք ապրելուց:_/_<b>Vaxenowm</b> enk’ aprelowc’._ "We are <b>afraid</b> of living."
+* _սկսեց <b>հագնվել</b>_/_sksec’ <b>hagnvel</b>_ "he/she started <b>getting dressed</b>"
+* _<b>հարձակվել</b> են պահակների վրա_/_<b>harjakvel</b> en pahakneri vra_ "they <b>attacked</b> the guards"
+* _աշխատանքը մարդուն օգնում է <b>հաշտվել</b> սուրացող ժամանակի հետ_/_ašxatank’ë mardown ògnowm ē <b>haštvel</b> sowrac’oġ žamanaki het_ "Work helps a person come to terms with the swift passage of time"
 
   
 ### <a name="Cau">`Cau`</a>: causative voice
 
-Note, that in Armenian the causative voice is a feature of verbs. In causative constructions the subject is the entity “causing” the action. It is generally translated into English as ‘cause/make/have/let/allow’ someone/something to perform action described by the main verb. 
+In Armenian, the causative voice is a feature of verbs. In causative constructions, the subject is the entity that causes another participant to perform the action denoted by the base verb. Causatives are generally translated into English using verbs _cause, make, have, let, allow_. 
 
-The causative is expressed by the suffix _-ցն-_. It is quite productive and can be used also for transitivisation of intransitive (middle voice) verbs. They will have `Voice=Act` (see above), not `Voice=Cau` (e.g. _**կորցնել**_/_korc’nel_ "lose", _**թաքցնել**_/_t’ak’c’nel_ "hide").
+Synthetic causatives are formed with the suffix _-ցն-_/_-cʼn-_. It is quite productive and can be used also for deriving a transitive verb from an intransitive or middle verb. In this case, the resulting verb is analyzed as active (Voice=Act) rather than causative (e.g. _կորցնել_/_korc’nel_ "lose", _թաքցնել_/_t’ak’c’nel_ "hide").
 
-In addition, the auxiliary _տալ_/_tal_ (in various tenses and moods) combines with infinitive of the content verb to form a causative construction. Only the auxiliary is annotated with `Voice=Cau`; the infinitive retains its own voice annotation.
+Armenian also has a periphrastic causative construction in which the auxiliary _տալ_/_tal_ (in various tenses and moods) combines with the infinitive of the content verb. Only the auxiliary is annotated with `Voice=Cau`; the infinitive retains its own voice annotation.
 
 #### Examples
 
-* _Սովորում են **սովորեցնելու**_ `Cau` _համար:_  /_Sovorowm en **sovorec’nelow** hamar_ “They learn in order to **teach**”,
-* _Ինքն էլ չուզեց **հիշեցնել**_ `Cau`:_  _Ink’n ēl čowzec’ **hišec’nel**._ “He/She didn't want to remind them either.”,
-* _**վազել**_ `Mid` _**տալ**_ `Cau` /_vazel tal_ “**make** someone **run**”,
-* _**հասկանալ**_ `Act` _**տալ**_ `Cau` /_**haskanal tal**_ “lit: **make** someone **understand**”,
-* _**հասկացնել**_ `Cau`/_**haskac’nel**_ “lit: **make** someone understand”,
-* _**հասկացնել**_ `Cau` _**տալ**_ `Cau` /_**haskac’nel tal**_ “lit: **make** someone **make** someone **understand**”.
+* _Սովորում են <b>սովորեցնելու</b>_ `Cau` _համար:_  /_Sovorowm en <b>sovorec’nelow<b> hamar_ “They learn in order to <b>teach</b>”,
+* _Ինքն էլ չուզեց <b>հիշեցնել</b>_ `Cau`:_  _Ink’n ēl čowzec’ <b>hišec’nel</b>._ “He/She didn't want to <b>remind</b> them either.”,
+* _<b>վազել</b>_ `Mid` _<b>տալ</b>_ `Cau` /_vazel tal_ <b>make</b> someone <b>run</b>”,
+* _<b>հասկանալ</b>_ `Act` _<b>տալ</b>_ `Cau` /_<b>haskanal tal</b>_ “lit: <b>make</b> someone <b>understand</b>”,
+* _<b>հասկացնել</b>_ `Cau`/_<b>haskac’nel</b>_ “lit: <b>make</b> someone <b>understand</b>”,
+* _<b>հասկացնել</b>_ `Cau` _<b>տալ</b>_ `Cau` /_<b>haskac’nel tal</b>_ “lit: <b>make</b> someone <b>make</b> someone <b>understand</b>”.
 
 
 ### <a name="CauPass">`CauPass`</a>: derived causative: passive forms
 
-The value `CauPass` is reserved for the passive forms of the causative verbs. Passives derived from transitive verbs using the productive suffix  _-վ-/-v-_ often function as mediopassive (intransitive) verbs. In such cases, the form with _-վ-/-v-_ constitutes a distinct lemma, e.g., _մաշել_/_mašel_ "to wear out (trans.)" - _մաշվել_/_mašvel_ "to wear out (intrans.)", _հարթել_/_hart’el_ "to smooth" - _հարթվել_/_hart’vel_ "to become smooth", _հալել_/_halel_ "to melt (trans.)" - _հալվել_/_halvel_ "to melt (intrans.)". Consequently, to express a true, agentive passive meaning for these verbs, the passive is formed from the corresponding causative verb.
+The value `CauPass` is reserved for the passive forms of the causative verbs. Passives derived from transitive verbs using the productive suffix  _-վ-/-v-_ often function as mediopassive (intransitive) verbs. In such cases, the form with _-վ-/-v-_ constitutes a distinct lemma, e.g., _մաշել_/_mašel_ “to wear out (trans.)” - _մաշվել_/_mašvel_ “to wear out (intrans.)”, _հարթել_/_hart’el_ “to smooth” - _հարթվել_/_hart’vel_ “to become smooth”, _հալել_/_halel_ “to melt (trans.)” - _հալվել_/_halvel_ “to melt (intrans.)”. Consequently, to express a true, agentive passive meaning for these verbs, the passive is formed from the corresponding causative verb.
 
 #### Examples
 
-*  _ջինսե տաբատները **մաշեցվում** են հատուկ մեթոդով_/_ǰinse tabatnerë mašec’vowm en hatowk met’odov_ "Denim pants **are distressed** using a special method."
-*  _Երևանին **հիշեցվել, հիշեցվում և դեռ հիշեցվելու** է, որ ինքը կստանա ավելին, եթե ավելին անի_/_Erewanin **hišec’vel, hišec’vowm ew deṙ hišec’velow** ē, or ink’ë kstana avelin, et’e avelin ani_/_Yerevan **has been reminded, is being reminded, and will continue to be reminded** that it will get more if it does more._
+*  _ջինսե տաբատները <b>մաշեցվում</b> են հատուկ մեթոդով_/_ǰinse tabatnerë <b>mašec’vowm</b> en hatowk met’odov_ “denim pants <b>are distressed</b> using a special method”
+*  _Երևանին <b>հիշեցվել, հիշեցվում և դեռ հիշեցվելու</b> է, որ ինքը կստանա ավելին, եթե ավելին անի_/_Erewanin <b>hišec’vel, hišec’vowm ew deṙ hišec’velow</b> ē, or ink’ë kstana avelin, et’e avelin ani_ “Yerevan <b>has been reminded, is being reminded, and will continue to be reminded</b> that it will get more if it does more”
 
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal voice
@@ -93,5 +92,5 @@ The reciprocal is expressed by the passive suffix _-վ-_/_-v-_ however, the verb
 
 #### Examples
 
-* _Պետրոսը և Մերին **գրկախառնվեցին**_/_Petrosë ew Merin **grkaxaṙnvec’in**_ “Peter and Mary **hugged each other**”.
+* _Պետրոսը և Մերին <b>գրկախառնվեցին</b>_/_Petrosë ew Merin <b>grkaxaṙnvec’in</b>_ “Peter and Mary <b>hugged each other</b>”.
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
