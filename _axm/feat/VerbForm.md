@@ -17,15 +17,15 @@ udver: '2'
 
 ### <a name="Fin">`Fin`</a>: finite verb
 
-Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this applies to conditional (also to [connegative](Connegative)), indicative, imperative and subjunctive forms.
+Rule of thumb: if it has non-empty [Mood](), it is finite. In Middle Armenian this applies to conditional (also to its [connegative](Connegative) form), indicative, imperative and subjunctive forms.
 
 #### Examples
 
-* _գիտեմ, գիտես, գիտէ, գիտեմք (գիտենք), գիտէք, գիտեն_ “I know, you know, he/she/it knows, we know, you know, they know”,
-* _մնացի, մնացեր, մնաց, մնացաք, մնացէք, մնացին_ “I stayed, you stayed, he/she/it stayed, we stayed, you stayed, they stayed”,
-* _եմ, ես, է, եմք, էք, են_ “I am, you are, he/she/it is, we are, you are, they are”,
-* _աղա՛, աղացե՛ք_ “grind” (imperative in different numbers),
-* _գրեմ, գրես, գրէ, գրեմք, գրէք, գրեն_ “I write.`Sub`, you write.`Sub`, he/she/it write.`Sub`, we write.`Sub`, you write.`Sub`, they write.`Sub`”
+* _գիտեմ_/_gitem_ “I know”, _գիտես_/_gites_ “you know”, _գիտէ_/_gitē_ “he/she/it knows”, _գիտեմք (գիտենք)_/_gitemkʼ (gitenkʼ)_ “we know”, _գիտէք_/_gitēkʼ_ “you know”, _գիտեն_/_giten_ “they know”,
+* _մնացի_/_mnacʼi_ “I stayed”, _մնացեր_/_mnacʼer_ “you stayed”, _մնաց_ “he/she/it stayed”, _մնացաք_/_mnacʼakʼ_ “we stayed”, _մնացէք_/_mnacʼēkʼ_ “you stayed”, _մնացին_/_mnacʼin_ “they stayed”,
+* _եմ_/_em_ “I am”, _ես_/_es_ “you are”, _է_/_ē_ “he/she/it is”, _եմք_/_emkʼ_ “we are”, _էք_/_ēkʼ_ “you are”, _են_/_en_ “they are”,
+* _աղա՛_/_aġa՛_, _աղացե՛ք_/_aġacʼe՛kʼ_ “grind!” (imperative in different numbers),
+* _գրեմ_/_grem_ “I write `Sub`”, _գրես_/_gres_ “you write `Sub`”, _գրէ_/_grē_ “he/she/it write `Sub`”, _գրեմք_/_gremkʼ_ “we write `Sub`”, _գրէք_/_grēkʼ_ “you write `Sub`”, _գրեն_/_gren_ “they write `Sub`”
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
