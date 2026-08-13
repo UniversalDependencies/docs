@@ -17,7 +17,7 @@ Middle Armenian verbs can take the following morphological forms:
 - Finite verb forms (imperative, subjunctive, and some indicative forms; periphrastic necessitative, conditional, and certain indicative forms; connegative forms),
 - Participles (resultative, perfect, and future participles are used to construct secondary compound tenses).
 
-Some participial forms (_verbal adjectives_) are tagged as verbs rather than adjectives ([ADJ]()). See below for examples.
+Some participial forms (_verbal adjectives_) are tagged as verbs ([VERB]()) rather than adjectives ([ADJ]()). See below for examples.
 
 ### Examples
 
