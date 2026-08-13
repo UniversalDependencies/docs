@@ -25,7 +25,7 @@ Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this appl
 * _կգնամ_/_kgnam_ “I will go”, _կգնաս_/_kgnas_ “you will go”, _կգնա_/_kgna_ “he/she/it will go”, _կգնանք_/_kgnankʼ_ “we will go”, _կգնաք_/_kgnakʼ_ “you will go”, _կգնան_/_kgnan_ “they will go”,
 * _գիտեմ_/_gitem_ “I know”, _գիտես_/_gites_ “you know”, _գիտի_/_giti_ “he/she/it knows”, _գիտենք_/_gitenkʼ_ “we know”, _գիտեք_/_gitekʼ_ “you know”, _գիտեն_/_giten_ “they know”,
 * _գնացի_/_gnacʼi_ “I went”, _գնացիր_/_gnacʼir_ “you went”, _գնաց_/_gnacʼ_ “he/she/it went”, _գնացինք_/_gnacʼinkʼ_ “we went”, _գնացիք_/_gnacʼikʼ_ “you went”, _գնացին_/_gnacʼin_ “they went”,
-* _եմ_/_em_ “”, _ես_/_es_ “”, _է_/_ē_ “”, _ենք_/_enkʼ_ “”, _եք_/_ekʼ_ “”, _են_/_en_ “I am, you are, he/she/it is, we are, you are, they are”,
+* _եմ_/_em_ “I am”, _ես_/_es_ “you are”, _է_/_ē_ “he/she/it is”, _ենք_/_enkʼ_ “we are”, _եք_/_ekʼ_ “you are”, _են_/_en_ “they are”,
 * _գնա՛_/_gna՛_, _գնացե՛ք_/_gnacʼe՛kʼ_ “go!” (imperative in different numbers),
 * _գնամ_/_gnam_ “I go `Sub`”, _գնաս_/_gnas_ “you go `Sub`”, _գնա_/_gna_ “he/she/it go `Sub`”, _գնանք_/_gnankʼ_ “we go `Sub`”, _գնաք_/_gnakʼ_ “you go `Sub`”, _գնան_/_gnan_ “they go `Sub`”
 
@@ -47,11 +47,11 @@ The infinitive shares properties of verbs and nouns. It inflects for [Case](), [
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
-Participle is a non-finite verb form that shares properties of verbs and adjectives. In Armenian it may be used to form complex tenses and can be also used purely adjectively.
+Participles are non-finite verb forms that share properties of verbs and adjectives. In Armenian, some participles may be used to form complex tenses and can also be used adjectively. Nevertheless, they are always annotated as [verb](VERB).
 
-In Modern Armenian grammar, _converbs_ and _participles_ are distinguished. However, since the UD definition `Part` partially covers the use of converbs, we use the same label for both. We use _converb_ only for the adverbial participle (see below).  
+In Modern Armenian grammar, _converbs_ and _participles_ are not distinguished. Since the UD definition `Part` partially covers the use of converbs, we use the same label for both. We use _converb_ only for the adverbial participle, e.g. _վազելիս_/_vazelis_ “while running”, _խաղալիս_/_xaġalis_ “while playing” (see below).  
 
-Note, that the so-called _negative participle_ is used to form negated periphrastic conditional forms. We mark them [Connegative]().
+Note that the so-called _negative participle_ is used to form negated periphrastic conditional forms. We mark them [Connegative]().
 
 Armenian has seven types of participles:
 
@@ -63,7 +63,7 @@ Armenian has seven types of participles:
 - The perfect participle is used to form the indicative mood in present perfect or imperfect-in-the-past (past perfect) tense.
 - The processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ_/_gal_ “to come”, _լալ_/_lal_ “to cry”, _տալ_/_tal_ “to give”.
 
-Note that the processual (progressive), resultative and future-I participles can be used to form the secondary compound tenses (with the auxiliary _լինել_ in any tense or mood).
+Note that the processual (progressive), resultative and future-I participles can be used to form the secondary compound tenses (with the auxiliary _լինել_/_linel_ in any tense or mood).
 
 Note also that resultative, subject and future-II participles, that fall in the gray zone between adjectives and participles and can be also used adjectively, are marked `Part` too.
 
@@ -81,13 +81,15 @@ Participles will have [Aspect](), [Voice]() and [Subcat]().
 
 ### <a name="Conv">`Conv`</a>: converb, adverbial participle
 
-The converb, also called adverbial participle or transgressive, is a non-finite verb form that shares properties of verbs and adverbs.
+The converb, also called the adverbial participle or transgressive, is a non-finite verb form that shares properties of verbs and adverbs. It typically expresses a meaning such as “while doing”. In Armenian, we use `VerbForm=Conv` only for the adverbial participle.
 
-Verbs form transgressive meaning “while doing”.
+In colloquial Armenian, the ablative and instrumental case forms of the infinitive can also be used in a converb-like function, e.g. _կողքիցդ <b>անցնելուց</b> գլխիդ բամփել էր_/_koġkʼicʼd ancʼnelowcʼ glxid bampʼel ēr_ “he had smacked you on the head as he walked past you (while passing by you)”, or _աչքերը <b>սրբելով</b> մոտենում էր_/_ačkʼerë srbelov motenowm ēr_ “he/she was approaching, wiping his/her eyes”. Since traditional Armenian grammar treats these forms as case-inflected infinitives rather than as distinct converb forms, we likewise analyze them as case forms of the infinitive (VerbForm=Inf). Their adverbial function is instead captured syntactically by the [advcl]() relation.
+
+Note that this does not apply to case forms of the infinitive used with adpositions. Such constructions are analyzed using the [obl]() relation, e.g. _լռելուց հետո ավելացրեց_/_lṙelowcʼ heto avelacʼrecʼ_ “After a pause (lit. after being silent), he/she added”.
 
 #### Examples
 
 * _պարտականությունները <b>կատարելիս</b>_ “<b>while carrying out</b> (one’s) duties”,
 * _գրախանութ <b>մտնելիս</b>_ “<b>when entering </b> a bookstore”,
-* _փողոցով <b> անցնելիս</b> չեմ խաչակնքվում_ “I don't cross myself <b>when walking</b> down the street”
+* _փողոցով <b>անցնելիս</b> չեմ խաչակնքվում_ “I don't cross myself <b>when walking</b> down the street”,
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
