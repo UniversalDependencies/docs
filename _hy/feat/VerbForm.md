@@ -10,7 +10,6 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Conv">Conv</a></td>
   <td><a href="#Fin">Fin</a></td>
-  <td><a href="#Gdv">Gdv</a></td>
   <td><a href="#Inf">Inf</a></td>
   <td><a href="#Part">Part</a></td>
 </tr>
