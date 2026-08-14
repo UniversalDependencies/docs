@@ -40,7 +40,7 @@ The infinitive shares properties of verbs and nouns. It inflects for [Case](), [
 * _որոշեցի անմիջապես <b>չասել</b>_/_orošecʼi anmiǰapes <b>časel</b>_ “I decided <b>not to say</b> immediately”
 * _<b>ապաքինվելու</b> միջոց_/_<b>apakʼinvelow</b> miǰocʼ_ “lit: a means of <b>being healed</b>”,
 * _սովոր էր մենակ <b>ծննդաբերելուն</b>_/_sovor ēr menak <b>çnndaberelown</b>_ “lit: she was used to <b>giving birth</b> alone”,
-* _<b>մտնելուց</b> հետո_ “after <b>entering</b>”,
+* _<b>մտնելուց</b> հետո_/_<b>mtnelowcʼ</b> heto_ “after <b>entering</b>”,
 * _<b>վազելով</b> եկավ_/_<b>vazelov</b> ekav_ “lit: he came <b>running</b>”,
 * _<b>ճառելում</b> նա հմուտ էր_/_<b>č̣aṙelowm</b> na hmowt ēr_ “lit: he was skilled <b>in delivering speeches</b>”
 
