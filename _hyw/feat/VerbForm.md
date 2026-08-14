@@ -40,8 +40,9 @@ The infinitive shares properties of verbs and nouns. It inflects for [Case](), [
 * _կ՚աղաչէ <b>չերթալ</b>_k՚aġačē <b>čertʼal</b>_ “he/she begs not to go”
 * _պիտի գայ <b>ընթրելու</b>_/_piti gay <b>ëntʼrelow</b>_ “he/she will come <b>to have dinner</b> / for dinner”,
 * _Գլուխ <b>քերելու</b> ժամանակ չունիմ_/_Glowx <b>kʼerelow</b> žamanak čownim_ “lit: she was used to <b>giving birth</b> alone”,
-* _<b>մտնելուց</b> հետո_ “after <b>entering</b>”,
-* _<b>վազելով</b> եկավ_/_<b>vazelov</b> ekav_ “lit: he came <b>running</b>”,
+* _<b>սորվելէ</b> ետք_/_<b>sorvelē</b> etkʼ_ “after <b>learning</b>”,
+* _<b>խօսելով</b> ժամանակ անցընել_/_<b>xòselov</b> žamanak ancʼënel_ “to spend time <b>talking</b>”,
+* _<b>քալելով</b> պիտի երթամ_/_<b>vazelov</b> ekav_ “lit: he came <b>running</b>”,
 * _<b>ճառելում</b> նա հմուտ էր_/_<b>č̣aṙelowm</b> na hmowt ēr_ “lit: he was skilled <b>in delivering speeches</b>”
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
