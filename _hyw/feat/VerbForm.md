@@ -43,11 +43,10 @@ The infinitive shares properties of verbs and nouns. It inflects for [Case](), [
 * _<b>սորվելէ</b> ետք_/_<b>sorvelē</b> etkʼ_ “after <b>learning</b>”,
 * _<b>խօսելով</b> ժամանակ անցընել_/_<b>xòselov</b> žamanak ancʼënel_ “to spend time <b>talking</b>”,
 * _<b>քալելով</b> պիտի երթամ_/_<b>vazelov</b> ekav_ “lit: he came <b>running</b>”,
-* _<b>ճառելում</b> նա հմուտ էր_/_<b>č̣aṙelowm</b> na hmowt ēr_ “lit: he was skilled <b>in delivering speeches</b>”
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
-Participles are non-finite verb forms that share properties of verbs and adjectives. In Armenian, some participles may be used to form complex tenses and can also be used adjectively. Nevertheless, they are always annotated as [verb](VERB).
+Participles are non-finite verb forms that share properties of verbs and adjectives. In Western Armenian, some participles may be used to form complex tenses and can also be used adjectively. Nevertheless, they are always annotated as [verb](VERB).
 
 In Modern Armenian grammar, _converbs_ and _participles_ are not distinguished. Since the UD definition `Part` partially covers the use of converbs, we use the same label for both. We use _converb_ only for the adverbial participle, e.g. _վազելիս_/_vazelis_ “while running”, _խաղալիս_/_xaġalis_ “while playing” (see below).  
 
