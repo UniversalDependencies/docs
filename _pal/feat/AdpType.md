@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: 'AdpType'
-shortdef: '<shortdef>'
+shortdef: 'adposition type'
 udver: '2'
 ---
 This feature takes the following values:
