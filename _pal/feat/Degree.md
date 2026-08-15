@@ -1,21 +1,30 @@
 ---
 layout: feature
 title: 'Degree'
-shortdef: '<shortdef>'
+shortdef: 'adjective degree'
 udver: '2'
 ---
 
-This feature takes the following values: Abs, Cmp, Sup.
+This feature takes the following values:
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Abs">Abs</a></td>
+  <td><a href="#Cmp">Cmp</a></td>
+  <td><a href="#Sup">Sup</a></td>
+</tr>
+</table>
 
 The positive is not marked and can be used for all degrees. It is not indicated in the annotation. Analytic marking of grades is possible, notably by means of _wēš_ "more".
 
-### <a name='Abs'>`Abs`: Absolute superlative / elative
+### <a name="Abs">`Abs`: Absolute superlative / elative
 A stylistic peculiarity is the combination of the comparative suffix and the superlative suffix forming an elative or absolute superlative, e.g. _frāz-dom-tar_ "even more advanced, single most advanced".
 
-### <a name='Cmp'>`Cmp`: Comparative
+### <a name="Cmp">`Cmp`: Comparative
 Comparative degree, which can also express superlative degree, e.g. _frāz-dar_ "further, more advanced". If used without comparison, it evokes the notion of 'to a higher degree than normal'.
 
-### <a name='Sup'>`Sup`: Superlative
+### <a name="Sup">`Sup`: Superlative
 Superlative degree, e.g. _frāz-dom_ "furthest, most advanced".
 
 #### Example

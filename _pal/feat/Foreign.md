@@ -1,13 +1,20 @@
 ---
 layout: feature
 title: 'Foreign'
-shortdef: '<shortdef>'
+shortdef: 'non-native elements'
 udver: '2'
 ---
 
-This feature takes the following values: Yes.
+This feature takes the following values:
 
-### <a name='Yes'>`Yes`: Foreign language
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Yes">Yes</a></td>
+</tr>
+</table>
+
+### <a name="Yes">`Yes`: Foreign language
 This tag is used for quotes of text in a foreign language, especially Avestan.
 
 The foreign word is not a loan word or a foreign name but a genuinely foreign word appearing inside native text.<br>

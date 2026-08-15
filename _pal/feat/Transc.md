@@ -1,13 +1,20 @@
 ---
 layout: feature
 title: 'Transc'
-shortdef: '<shortdef>'
+shortdef: 'transcendence in proper nouns'
 udver: '2'
 ---
 
-This feature takes the following values: Yes.
+This feature takes the following values:
 
-### <a name='Yes'>`Yes`: Transcendent
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Yes">Yes</a></td>
+</tr>
+</table>
+
+### <a name="Yes">`Yes`: Transcendent
 The feature "transcendent" has been set up to mark supernatural beings, places of the beyond, and to distinguish historical characters from eschatological ones.
 - _ohrmazd_ "(the god) Ohrmazd"
 - _wahišt_ "paradise"

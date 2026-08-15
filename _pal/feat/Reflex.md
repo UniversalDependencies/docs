@@ -1,13 +1,20 @@
 ---
 layout: feature
 title: 'Reflex'
-shortdef: '<shortdef>'
+shortdef: 'reflexive'
 udver: '2'
 ---
 
-This feature takes the following values: Yes.
+This feature takes the following values:
 
-### <a name='Yes'>`Yes`: Reflexive
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Yes">Yes</a></td>
+</tr>
+</table>
+
+### <a name="Yes">`Yes`: Reflexive
 There are few words that are inherently marked as reflexive. They are usually not marked for person or number and are co-referential with the topic (mostly the subject) of the clause.
 - _xwad_ and _xwēštan_, which are typically used as reflexive pronouns;
 - _xwēš_, which is typically used as a possessive pronoun that is co-referential with the topic of the clause.
