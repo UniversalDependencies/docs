@@ -18,7 +18,7 @@ The immediate anterior converb encodes an event which immediately precedes the e
 * _w-ak'-a-<b>rijal</b>_ : M-come:PFV-IRR-<b>IMM</b> "just after he came"
 
 
-### <a name="Prp">`Prp`</a>: purposive  
+### <a name="Purp">`Purp`</a>: purposive  
 
 #### Examples
 
@@ -54,7 +54,7 @@ The immediate anterior converb encodes an event which immediately precedes the e
 * _b-elč'-un-<b>ijadal</b>_ : N-read:PFV-AOR-<b>SMLT</b> "as soon as (s)he reads"
 
 
-### <a name="Ctrf">`Ctrf`</a>: counterfactual  
+### <a name="Cntf">`Cntf`</a>: counterfactual  
 
 #### Examples
 
