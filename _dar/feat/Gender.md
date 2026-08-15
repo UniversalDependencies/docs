@@ -43,6 +43,16 @@ An 'old' marker for feminine -r- is preserved to show agreement with nouns denot
 
 * _rasuj-s <b>madina</b> <b>d</b>-ig-uwe le-r_ : Rasul+OBL-DAT Madina(ABS) F1-love:IPF-CVB.IPFV AUX-F "Rasul loves _Madina_."
 
+
+### <a name="Neut">`Neut`</a>: neuter gender
+
+If a clause lacks an absolutive argument, as observed with some types of for- mally transitive verbs, gender agreement on the lexical verb appears as the de- fault singular neuter agreement marker b-. This is also observed with intransitive impersonal predicates.
+
+#### Examples
+
+* _doˤʜi ar-<b>b</b>-ik-ib_ : snow(ABS) PV-<b>N</b>-fall:PFV-AOR "The _snow_ fell."
+
+
 ### <a name="Hum">`Hum`</a>: human plural agreement class 
 
 #### Examples
