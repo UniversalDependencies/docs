@@ -101,13 +101,27 @@ A special vocative form only exists for two-syllable stems which denote humans. 
 
 IN ‘in a container’
 
+#### Examples  
+
+* _ħarši k'unk'ur-le-<b>ħe</b>-r le-r_ : soup pot-OBL-<b>IN</b>-NPL(ESS) be-NPL “The soup is <b>in the pot</b>.”
+
+
 ### <a name="Sup">`Sup`</a>: superessive    
 
 SUPER ‘on a surface’
 
+#### Examples  
+
+* _ustuj-<b>če</b>-b ʁadara le-b_ : table.OBL-<b>SUPER</b>-N(ESS) plate be-N “A plate is <b>on the table</b>.”
+
+
 ### <a name="Ade">`Ade`</a>: adessive  
 
-AD ‘near’
+AD ‘near’: The AD -šu- localization is used to express the fact that one object is located in close proximity to another object.  
+
+#### Examples  
+
+* _nuša ustuj-<b>šu</b>-b ka-b-iʔ-i-ra_ : we table.OBL-<b>AD</b>-HPL(ESS) PV-HPL-sit:PFV-AOR-EGO “We are sitting <b>near the table</b>.”
 
 
 ### <a name="Inb">`Inb`</a>: inter(essive)  
@@ -139,21 +153,46 @@ The Apud case is used to denote an area close to an object, in which the figure 
 
 ESS ‘no movement’
 
+#### Examples  
+
+* _nuša ustuj-šu-b ka-b-iʔ-i-ra_ : we table.OBL-AD-HPL(<b>ESS</b>) PV-HPL-sit:PFV-AOR-EGO “We are sitting <b>near the table</b>.”
+
+
 ### <a name="Lat">`Lat`</a>: lative  
 
 LAT ‘to the area denoted by the localization
+
+#### Examples  
+
+* _ħad hete ħunt'a-l qul-le-<b>šu</b> uˤq'-es gʷa_ : you.sg.DAT there(LAT) red-ATR house-PL-AD(<b>LAT</b>) M.go:PFV-INF ASRT “You should go there, <b>to the red houses</b>.”
+
 
 ### <a name="Ela">`Ela`</a>: elative    
 
 EL ‘away from the area denoted by the localization’
 
+#### Examples  
+
+* _dag it derbenti-ze-<b>la</b> w-ak'-i-le le-w_ : yesterday that Derbent-INTER-<b>EL</b> m-come:PFV-AOR-CVB AUX-M “Yesterday he came <b>from Derbent</b>.”
+
+
 ### <a name="Tra">`Tra`</a>: translative    
 
 TRANS ‘through the area denoted by the localization’
 
+#### Examples  
+
+* _škaf unza-le-ʡeʕ-<b>di</b> b-aʕq’-un_ : wardrobe door-OBL-APUD-<b>TRANS</b> N-go:PFV-AOR “The wardrobe went <b>through the door</b>.”  
+
+
 ### <a name="All">`All`</a>: directive (allative)    
 
 DIR ‘in the direction of the area denoted by the localization’
+
+#### Examples  
+
+* _ʡali šaˤ-<b>baˤʜ</b> uˤq'-es_ : Ali(ABS) village-<b>DIR</b> (M)go:PF-FUT “Ali will go <b>to the village</b>.”  
+
 
 
 ## Notes
@@ -164,6 +203,7 @@ Orientation cases `Inb` and `Apu` are language-specific.
 
 ## References
 
-* Chechuro, Ilya (2019). Nominal morphology of Mehweb. In Michael Daniel, Nina Dobrushina & Dmitry Ganenkov (eds.), The Mehweb language: Essays on phonology, morphology and syntax, 39–72. Berlin: Language Science Press. DOI:10.5281/zenodo.3402058 
+* Chechuro, Ilya (2019). Nominal morphology of Mehweb. In Michael Daniel, Nina Dobrushina & Dmitry Ganenkov (eds.), The Mehweb language: Essays on phonology, morphology and syntax, 39–72. Berlin: Language Science Press. DOI:10.5281/zenodo.3402058  
+* Moroz, George (2019). Phonology of Mehweb. In Michael Daniel, Nina Dobrushina & Dmitry Ganenkov (eds.), The Mehweb language: Essays on phonology, morphology and syntax, 17–37. Berlin: Language Science Press. DOI:10.5281/zenodo.3402056  
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->
