@@ -18,13 +18,13 @@ This feature takes the following values:
 
 The positive is not marked and can be used for all degrees. It is not indicated in the annotation. Analytic marking of grades is possible, notably by means of _wēš_ "more".
 
-### <a name="Abs">`Abs`: Absolute superlative / elative
+### <a name="Abs">`Abs`</a>: Absolute superlative / elative
 A stylistic peculiarity is the combination of the comparative suffix and the superlative suffix forming an elative or absolute superlative, e.g. _frāz-dom-tar_ "even more advanced, single most advanced".
 
-### <a name="Cmp">`Cmp`: Comparative
+### <a name="Cmp">`Cmp`</a>: Comparative
 Comparative degree, which can also express superlative degree, e.g. _frāz-dar_ "further, more advanced". If used without comparison, it evokes the notion of 'to a higher degree than normal'.
 
-### <a name="Sup">`Sup`: Superlative
+### <a name="Sup">`Sup`</a>: Superlative
 Superlative degree, e.g. _frāz-dom_ "furthest, most advanced".
 
 #### Example

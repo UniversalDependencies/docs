@@ -15,7 +15,7 @@ This feature takes the following values:
 </tr>
 </table>
 
-### <a name="Plur">`Plur`: Plural
+### <a name="Plur">`Plur`</a>: Plural
 The nominal plural form is always marked, most commonly by _-ān_ (historically the oblique plural). There are remnants of other Old Iranic declension classes: _-īn_, _-ūn_, but they are used interchangeably.<br>
 
 Some pronouns can take the nominal plural suffix, e.g. interrogative _kēān_ "who":
@@ -33,7 +33,7 @@ There is a new pronominal plural suffix _-(ē/i)šān_, which is probably derive
 
 Verb forms have special portmanteau suffix for person and number, e.g. _bar-ēd_ "carry.3sg" vs. _bar-ēnd_ "carry.3pl".
 
-### <a name="Sing">`Sing`: Singular
+### <a name="Sing">`Sing`</a>: Singular
 The singular is the unmarked category in Middle Persian. This form can also be used in plural context and for generic reference. As such, it is only annotated for explicit singular forms such as [personal pronouns](PRON) and [verb](VERB) forms but not for [nouns](NOUN), [adjectives](ADJ), and [demonstratives](PRON).
 
 

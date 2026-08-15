@@ -14,7 +14,7 @@ This feature takes the following values:
 </tr>
 </table>
 
-### <a name="Yes">`Yes`: Reflexive
+### <a name="Yes">`Yes`</a>: Reflexive
 There are few words that are inherently marked as reflexive. They are usually not marked for person or number and are co-referential with the topic (mostly the subject) of the clause.
 - _xwad_ and _xwēštan_, which are typically used as reflexive pronouns;
 - _xwēš_, which is typically used as a possessive pronoun that is co-referential with the topic of the clause.

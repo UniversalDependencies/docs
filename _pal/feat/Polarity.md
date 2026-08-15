@@ -14,7 +14,7 @@ This feature takes the following values:
 </tr>
 </table>
 
-### <a name="Neg">`Neg`: Negated
+### <a name="Neg">`Neg`</a>: Negated
 Only one word form is inherently marked as negative: _[nēst](VerbType)_ "is not" (an amalgamation of Old Persian _nai asti_).
 Polarity is not indicated for nominals (such as privative prefix _a(n)-_ or derivations with _abē_ "without, -less").
 

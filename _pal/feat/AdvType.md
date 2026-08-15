@@ -15,16 +15,16 @@ This feature takes the following values:
 </tr>
 </table>
 
-### <a name="Deg">`Deg`: Degree
+### <a name="Deg">`Deg`</a>: Degree
 Adverbs indicating the degree such as _was_ "more, often".
 
-### <a name="Loc">`Loc`: Location
+### <a name="Loc">`Loc`</a>: Location
 Adverbs indicating location such as _andar_ "in, inside, among", _awiš_ "thereto".
 
-### <a name="Man">`Man`: Manner
+### <a name="Man">`Man`</a>: Manner
 Adverbs indicating manner such as _dānāgīhā_ "wisely".
 
-### <a name="Tim">`Tim`: Time
+### <a name="Tim">`Tim`</a>: Time
 Adverbs indicating time such as _fradāg_ "tomorrow".
 
 #### Examples

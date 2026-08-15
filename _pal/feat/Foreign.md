@@ -14,7 +14,7 @@ This feature takes the following values:
 </tr>
 </table>
 
-### <a name="Yes">`Yes`: Foreign language
+### <a name="Yes">`Yes`</a>: Foreign language
 This tag is used for quotes of text in a foreign language, especially Avestan.
 
 The foreign word is not a loan word or a foreign name but a genuinely foreign word appearing inside native text.<br>

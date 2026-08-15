@@ -20,14 +20,14 @@ This feature takes the following values:
 
 Only finite verb forms of the so-called present stem are marked for mood. The members of an analytic formation are annotated individually (e.g. optative particle + verb in the indicative).
 
-### <a name="Imp">`Imp`: Imperative mood
+### <a name="Imp">`Imp`</a>: Imperative mood
 The imperative mood has two distinct forms for the 2nd person. An order to a 3rd person is expressed by means of the necessitative.<br>The imperative is negated by the prohibitive particle _ma_.
 
 |imperative|singular|plural|
 |---|---|---|
 |"go!"|_raw_|_rawēd_|
 
-### <a name="Ind">`Ind`: Indicative mood
+### <a name="Ind">`Ind`</a>: Indicative mood
 The indicative mood is the neutral form of a verb. It can occur in any modal context, but expresses factivity when contrasted with other moods.
 
 |indicative|singular|plural|
@@ -36,10 +36,10 @@ The indicative mood is the neutral form of a verb. It can occur in any modal con
 |2nd|_rawē(h)_|_rawēd_|
 |3rd|_rawēd_|_rawēnd_|
 
-### <a name="Nec">`Nec`: Necessitative mood
+### <a name="Nec">`Nec`</a>: Necessitative mood
 The necessitative uses the verbal noun in _-išn_ or the long infinitive. It is usually infinite, but the auxiliary verb "to be" can be used to mark verbal categories. The subject of a necessitative is always in oblique case (if formally available).
 
-### <a name="Opt">`Opt`: Optative mood
+### <a name="Opt">`Opt`</a>: Optative mood
 The optative mood expresses a wish. In combination with a past tense form, it expresses the irrealis. Not all forms are attested with certainty.
 
 |indicative|singular|plural|
@@ -48,7 +48,7 @@ The optative mood expresses a wish. In combination with a past tense form, it ex
 |2nd|_rawē(h)_ or _rawēš_|_rawēd_|
 |3rd|_rawē(h)_|_rawēnd_|
 
-### <a name="Sub">`Sub`: Subjunctive mood
+### <a name="Sub">`Sub`</a>: Subjunctive mood
 The subjunctive mood expresses a possibility.
 
 |indicative|singular|plural|

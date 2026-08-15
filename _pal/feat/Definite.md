@@ -15,10 +15,10 @@ This feature takes the following values:
 </tr>
 </table>
 
-### <a name="Ind">`Ind`: Indefinite
+### <a name="Ind">`Ind`</a>: Indefinite
 If the enclitic [numeral](NUM) _=ē(w)_ is not used to express "one" (vs. two, etc.), but any one representative, it's value is 'indefinite'.
 
-### <a name="Spec">`Spec`: Specific
+### <a name="Spec">`Spec`</a>: Specific
 If the enclitic numeral _=ē(w)_ is not used to express "one" (vs. two, etc.), but a specific representative, it's value is '[specific](DET)'. This is frequently attested for the antecedent of a relative clause.
 
 Note that enclitic _=ē(w)_ became at one point homophonous with the _ezāfe_ particle _ī_ so that scribes began to use them interchangeably.

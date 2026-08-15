@@ -14,7 +14,7 @@ This feature takes the following values:
 </tr>
 </table>
 
-### <a name="Yes">`Yes`: Transcendent
+### <a name="Yes">`Yes`</a>: Transcendent
 The feature "transcendent" has been set up to mark supernatural beings, places of the beyond, and to distinguish historical characters from eschatological ones.
 - _ohrmazd_ "(the god) Ohrmazd"
 - _wahišt_ "paradise"
