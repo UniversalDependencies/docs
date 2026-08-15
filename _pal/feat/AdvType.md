@@ -16,21 +16,29 @@ This feature takes the following values:
 </table>
 
 ### <a name="Deg">`Deg`</a>: Degree
-Adverbs indicating the degree such as _was_ "more, often".
+Adverbs indicating the degree.
+#### Examples:
+- _was_ "more, often".
+- _u =m <b>abēr</b> burzišnīg sahist_ "And it seemed **very** praiseworthy to me."
 
 ### <a name="Loc">`Loc`</a>: Location
-Adverbs indicating location such as _andar_ "in, inside, among", _awiš_ "thereto".
+Adverbs indicating location.
+#### Examples:
+- _andar_ "in, inside, among"
+- _awiš_ "thereto".
+- _u =mān <b>andar</b> čē abāyēd kirdan_ "And what shall we do **in it?**
 
 ### <a name="Man">`Man`</a>: Manner
-Adverbs indicating manner such as _dānāgīhā_ "wisely".
+Adverbs indicating manner.
+#### Examples:
+- _dānāgīhā_ "wisely".
+- _xwarišn nē <b>tanīhā</b> xward_ "not to eat food **alone**"
 
 ### <a name="Tim">`Tim`</a>: Time
-Adverbs indicating time such as _fradāg_ "tomorrow".
+Adverbs indicating time.
+#### Examples:
+- _fradāg_ "tomorrow".
+_ud andak āhōg ī xwēš be wirāstan <b>pas</b> āhōg kasān bē guftan_ "And (one) has to correct one's own smallest fault, **then** point the fault of others!"
 
-#### Examples
-* degree: _u =m <b>abēr</b> burzišnīg sahist_ "And it seemed **very** praiseworthy to me."
-* location: _u =mān <b>andar</b> čē abāyēd kirdan_ "And what shall we do **in it?**
-* manner: _xwarišn nē <b>tanīhā</b> xward_ "not to eat food **alone**"
-* time: _ud andak āhōg ī xwēš be wirāstan <b>pas</b> āhōg kasān bē guftan_ "And (one) has to correct one's own smallest fault, **then** point the fault of others!"
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:41 CEST -->
