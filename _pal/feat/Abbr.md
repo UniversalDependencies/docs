@@ -13,5 +13,5 @@ This feature takes the following values:
 </tr>
 </table>
 
-### <a name="Yes">`Yes`: Abbreviation
+### <a name="Yes">`Yes`</a>: Abbreviation
 Abbreviations are common in ceremonial texts where repetitive words are abbreviated and usually followed by a punctuation mark.
