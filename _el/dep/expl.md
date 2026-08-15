@@ -45,5 +45,15 @@ obl(βάφτισε, της)
 obj(βάφτισε, παιδί)
 ~~~
 
+This also applies when the coreferring core argument is dislocated rather than appearing in its canonical argument position. In such cases, the full NP is attached with the [dislocated]() relation, while the coreferential clitic is still assigned [expl](). For example, in *Αυτήν την ερώτηση δυσκολεύομαι να την απαντήσω* "This question, I find it difficult to answer", *Αυτήν την ερώτηση* is a dislocated object and the coreferential clitic *την* is analysed as `expl`. 
 
+~~~ sdparse
+Αυτήν την ερώτηση δυσκολεύομαι να την απαντήσω.
+det(ερώτηση, Αυτήν)
+det(ερώτηση, την-2)
+dislocated(δυσκολεύομαι, ερώτηση)
+xcomp(δυσκολεύομαι, απαντήσω)
+mark(απαντήσω, να)
+expl(απαντήσω, την-6)
+~~~
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:07 CEST -->
