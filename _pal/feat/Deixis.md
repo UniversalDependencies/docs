@@ -16,9 +16,15 @@ This feature takes the following values:
 </table>
 
 ### <a name="Prox">`Prox`</a>: Proximate
-Used for near deixis, e.g. _ēn_ "this" or _ēdar_ "here".
+Used for near deixis.
+#### Examples:
+- _ēn_ "this" 
+- _ēdar_ "here"
 
 ### <a name="Remt">`Remt`</a>: Remote / distal
-Used for far deixis, e.g. _ān_ "that" or _ānōh_ "there".
+Used for far deixis.
+#### Examples:
+- _ān_ "that"
+- _ānōh_ "there".
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:49 CEST -->
