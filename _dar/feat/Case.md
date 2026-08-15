@@ -6,9 +6,9 @@ udver: '2'
 ---
 
 Dargwa has three types of cases:
-* functional: Ergative, Absolutive(Nominative), Genitive, Dative, Comitative, Causal, Substitutive, Replicative;  
-* orientation markers: IN (Case=Ine) `in a container', INTER (Case=Inb) `in a substance' or `between multiple landmarks', SUPER (Case=Sup) `on a surface', AD (Case=Ade) `near', APUD (Case=Apu) `in the functional area of a landmark';  
-* localization markers: ESS(ive) (Case=Ess) `no movement', LAT(ive) (Case=Lat) `to the area denoted by the localization', EL(ative) (Case=Ela) `away from the area denoted by the localization', TRANS(lative) (Case=Tra) ‘through the area denoted by the localization’, DIR(ective)/allative (Case=All) `in the direction of the area denoted by the localization'.  
+* functional: Ergative, Absolutive(Nominative), Genitive, Dative, Comitative, Causal (UD: causative), Substitutive, Replicative (UD: equative), Vocative;  
+* orientation markers: IN (Case=Ine) ‘in a container’, INTER (Case=Inb) in a substance’ or ‘between multiple landmarks’, SUPER (Case=Sup) ‘on a surface’, AD (Case=Ade) ‘near’, APUD (Case=Apu) ‘in the functional area of a landmark’;  
+* localization markers: ESS(ive) (Case=Ess) ‘no movement’, LAT(ive) (Case=Lat) ‘to the area denoted by the localization’, EL(ative) (Case=Ela) ‘away from the area denoted by the localization’, TRANS(lative) (Case=Tra) ‘through the area denoted by the localization’, DIR(ective)/allative (Case=All) ‘in the direction of the area denoted by the localization’.  
 
 Locative markers are generally a combination of an orientation and a localization marker, so they are coded as e.g. _Case=Sup,Tra_ (movement through the the area localized on the surface of the landmark).  
 
@@ -23,7 +23,7 @@ In addition, these case forms can denote contact between the object and the land
 #### Examples
 
 * Case=Inb,Ess: _k’as ħark’wi-<b>ze</b>-b le-b_ : fish river-INTER-N(ESS) be-N “The fish is <b>in the river</b>.”
-* Case=Inb, Lat: _muħammadi-<b>ze<b>_ : Muhammad-inter(lat) “(to say smth.) to Muhammad”  
+* Case=Inb, Lat: _muħammadi-<b>ze</b>_ : Muhammad-inter(lat) “(to say smth.) to Muhammad”  
 
 ### <a name="Apu">`Apu`</a>: Apud case    
 
@@ -33,5 +33,82 @@ The Apud case is used to denote an area close to an object, in which the figure 
 
 * Case=Ess,Inb: _nuša ustuj-<b>ʡeʕ</b>-b ka-b-iʔ-i-ra_ : we table.OBL-<b>APUD</b>-HPL(ESS) PV-HPL-sit:PFV-AOR-1/2 “We are sitting <b>at the table</b>.”
 * Case=Inb,Tra: _škaf unza-le-<b>ʡeʕ</b>-di b-aʕq’-un_ : wardrobe door-OBL-APUD-TRANS N-go:PFV-AOR “The wardrobe went <b>through the door</b>.”  
+
+
+
+The following cases are not language specific:
+
+### <a name="Erg">`Erg`</a>: ergative  
+
+### <a name="Abs">`Abs`</a>: absolutive  
+
+### <a name="Gen">`Gen`</a>: genitive  
+
+### <a name="Dat">`Dat`</a>: dative  
+
+### <a name="Com">`Com`</a>: comitative  
+
+### <a name="Cau">`Cau`</a>: causal (causative / motivative / purposive)  
+  
+### <a name="Cns">`Cns`</a>: considerative / substitutive  
+
+### <a name="Equ">`Equ`</a>: replicative (equative)  
+
+The equative case means “X-like”, “similar to X”, “same as X”. It conveys the semantics of performing an action in the way similar to how someone or something else performs it, or in the way it is usually done. The form attaches to an irregular oblique stem.
+
+#### Examples
+
+* _dilaj-<b>sum</b> b-aq’-a_ : I.OBL-REPL N-do:PFV-IMP.TR “Do <b>as I</b> do.”  
+
+
+### <a name="Equ">`Voc`</a>: vocative  
+
+
+## Orientation  
+
+### <a name="Ine">`Ine`</a>: inessive   
+
+IN ‘in a container’
+
+### <a name="Sup">`Sup`</a>: superessive    
+
+SUPER ‘on a surface’
+
+### <a name="Ade">`Ade`</a>: adessive  
+
+AD ‘near’
+
+
+## Location and direction
+
+### <a name="Ess">`Ess`</a>: esssive   
+
+ESS ‘no movement’
+
+### <a name="Lat">`Lat`</a>: lative  
+
+LAT ‘to the area denoted by the localization
+
+### <a name="Ela">`Ela`</a>: elative    
+
+EL ‘away from the area denoted by the localization’
+
+### <a name="Tra">`Tra`</a>: translative    
+
+TRANS ‘through the area denoted by the localization’
+
+### <a name="All">`All`</a>: directive (allative)    
+
+DIR ‘in the direction of the area denoted by the localization’
+
+
+## Notes
+
+The Replicative case is equal to nominative (unmarked form) and is not tagged in the Mehweb treebank.  
+
+
+## References
+
+* Chechuro, Ilya (2019). Nominal morphology of Mehweb. In Michael Daniel, Nina Dobrushina & Dmitry Ganenkov (eds.), The Mehweb language: Essays on phonology, morphology and syntax, 39–72. Berlin: Language Science Press. DOI:10.5281/zenodo.3402058 
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:44 CEST -->
