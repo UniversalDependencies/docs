@@ -23,6 +23,7 @@ Only finite verb forms of the so-called present stem are marked for mood. The me
 ### <a name="Imp">`Imp`</a>: Imperative mood
 The imperative mood has two distinct forms for the 2nd person. An order to a 3rd person is expressed by means of the necessitative.<br>The imperative is negated by the prohibitive particle _ma_.
 
+#### Examples:
 |imperative|singular|plural|
 |---|---|---|
 |"go!"|_raw_|_rawēd_|
@@ -30,6 +31,7 @@ The imperative mood has two distinct forms for the 2nd person. An order to a 3rd
 ### <a name="Ind">`Ind`</a>: Indicative mood
 The indicative mood is the neutral form of a verb. It can occur in any modal context, but expresses factivity when contrasted with other moods.
 
+#### Examples:
 |indicative|singular|plural|
 |---|---|---|
 |1st|_rawam_|_rawēm_|
@@ -39,9 +41,13 @@ The indicative mood is the neutral form of a verb. It can occur in any modal con
 ### <a name="Nec">`Nec`</a>: Necessitative mood
 The necessitative uses the verbal noun in _-išn_ or the long infinitive. It is usually infinite, but the auxiliary verb "to be" can be used to mark verbal categories. The subject of a necessitative is always in oblique case (if formally available).
 
+#### Examples:
+- _ud dušmenān rāy pad čārag weh **nē guftan**_ "And as far as possible, one **should not speak** well of enemies!"
+
 ### <a name="Opt">`Opt`</a>: Optative mood
 The optative mood expresses a wish. In combination with a past tense form, it expresses the irrealis. Not all forms are attested with certainty.
 
+#### Examples:
 |indicative|singular|plural|
 |---|---|---|
 |1st|_rawēm_|_rawēm_|
@@ -51,6 +57,7 @@ The optative mood expresses a wish. In combination with a past tense form, it ex
 ### <a name="Sub">`Sub`</a>: Subjunctive mood
 The subjunctive mood expresses a possibility.
 
+#### Examples:
 |indicative|singular|plural|
 |---|---|---|
 |1st|_rawān_|_rawām_|

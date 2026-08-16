@@ -18,9 +18,15 @@ This feature takes the following values:
 There is no grammatical reflex of gender in Middle Persian with the exception of a few lexical calques from Avestan such as the neutral form _ašō_ vs. the feminine form _ašōnī_ "righteous".
 
 ### <a name="Fem">`Fem`</a>: Feminine sexus
-Common nouns and names that are known to refer to feminine beings have value 'feminine', such as _zan_ "woman, wife" or _anāhīd_ (divine being).
+Common nouns and names that are known to refer to feminine beings have value 'feminine'
+#### Examples:
+- _zan_ "woman, wife"
+- _anāhīd_ (divine being).
 
 ### <a name="Masc">`Masc`</a>: Masculine sexus
-Common nouns and names that are known to refer to masculine beings have value 'masculine', such as _brād_ "brother" or _srōš_ (divine being).
+Common nouns and names that are known to refer to masculine beings have value 'masculine'.
+#### Examples
+- _brād_ "brother" 
+- _srōš_ (divine being).
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:54 CEST -->
