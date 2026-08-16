@@ -7,7 +7,9 @@ udver: '2'
 
 The `expl` relation is used in UD Greek for cases of clitic doubling and in certain Multiword Expressions (MWE):
 
-1. \bf{Cases of clitic doubling}. As a rule of thumb, clitics are assigned the [expl]() dependency when a coreferring core argument of the verb (object, indirect object, ccomp) exists, otherwise clitics are assigned the core dependencies [obj]() and [iobj](). 
+1. Clitic doubling.
+
+As a rule of thumb, clitics are assigned the [expl]() dependency when a coreferring core argument of the verb (object, indirect object, ccomp) exists, otherwise clitics are assigned the core dependencies [obj]() and [iobj](). 
 
 ~~~ sdparse
 Της τον έδωσε της Καίτης τον αναπτήρα.
@@ -47,7 +49,7 @@ obl(βάφτισε, της)
 obj(βάφτισε, παιδί)
 ~~~
 
-This also applies when the coreferring core argument is dislocated rather than appearing in its canonical argument position. In such cases, the full NP is attached with the [dislocated]() relation, while the coreferential clitic is still assigned [expl](). For example, in *Αυτήν την ερώτηση δυσκολεύομαι να την απαντήσω* "This question, I find it difficult to answer", *Αυτήν την ερώτηση* is a dislocated object and the coreferential clitic *την* is analysed as `expl`. 
+An [exlp]() dependency is also used when the coreferring core argument is dislocated, i.e., it does not  appear close to the head on which it depends. In such cases, the head of the dislocated phrase depends with the [dislocated]() relation on a suitable head, while the coreferential clitic depends with the relation [expl]() on the head that requires the dislocated phrase as an argument. For example, in *Αυτήν την ερώτηση δυσκολεύομαι να την απαντήσω* "This question, I find it difficult to answer", *Αυτήν την ερώτηση* is a dislocated direct object and the coreferential clitic *την* is assigned the relation [expl](). 
 
 ~~~ sdparse
 Αυτήν την ερώτηση δυσκολεύομαι να την απαντήσω.
@@ -58,4 +60,19 @@ xcomp(δυσκολεύομαι, απαντήσω)
 mark(απαντήσω, να)
 expl(απαντήσω, την-6)
 ~~~
+
+2. MWEs
+
+There are many Modern Greek verbal MWE (VMWE) where a clitic with no reference at all is a lexicalised word, i.e., a necessary constituent of the MWE. In the example below *Κι εγώ την άκουσα, μέθυσαν τα γραπτά μου.* 'And I it heard, got-drunk my writings' "Αnd I was tripping, even my writings got drunk." the clitic  *την*, which is assigned the relation [expl](), is necessary to obtain the meaning of the VMWE, which is "I am tripping" and not the compositional meaning, which is "I heard her". 
+
+~~~ sdparse
+Κι εγώ την άκουσα, μέθυσαν τα γραπτά μου.
+expl(άκουσα, την-3)
+nsubj((άκουσα, εγώ-2)
+parataxis((άκουσα, μέθυσαν-6)
+~~~
+
+
+
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:07 CEST -->
