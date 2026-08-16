@@ -16,4 +16,4 @@ This feature takes the following values:
 ### <a name="Yes">`Yes`</a>: Abbreviation
 Abbreviations are common in ceremonial texts where repetitive words are abbreviated and usually followed by a punctuation mark.
 #### Examples:
-- _yazamaide_ 'the name of a litany'
+- _yazamaide_ "the name of a litany"

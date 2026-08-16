@@ -21,22 +21,36 @@ This feature takes the following values: Geo, Giv, Oth, Pat, Prs.
 Nations, Organisation, Product, and Surname have not been used yet, but might be applied if fitting. However, designation of people are taken as [common nouns](NOUN).
 
 ### <a name="Geo">`Geo`</a>: Geographical name
-For geographical names, e.g. _pārs_ "Persia"
+Geographical names.
+
+#### Examples:
+- _pārs_ "Persia"
 
 ### <a name="Giv">`Giv`</a>: Given name
-For given names, e.g. _mihrēn_. This value is also used for supernatural beings.
+Given names. This value is also used for supernatural beings.
+
+#### Examples:
+- _mihrēn_
 
 ### <a name="Oth">`Oth`</a>: Other types of name
-Used for all other type of names, e.g.
+Used for all other type of names.
+
+#### Examples:
 - game _nēwardaxšīr_ "Backgammon"
 - month _ādur_ (9th month of the Zoroastrian year)
 - ritual _gētōxrīd_
 - text _hadōxt_
 
 ### <a name="Pat">`Pat`</a>: Patronymic name
-For a patronym, e.g. _dādfarroxān_ "(son of) Dādfarrox".
+Patronyms.
+
+#### Examples:
+- _dādfarroxān_ "(son of) Dādfarrox".
 
 ### <a name="Prs">`Prs`</a>: Person's name
 Personal name is only used if one cannot decide whether a name is a given name or a patronym.
+
+#### Examples:
+- _hanǰamanīyān ī narān ud mādagān yazam ud **amahrspandān** kē nar =iz mādag =iz awēšān weh hēnd_ "I worship the pantheon of the male and female. **Amahraspandān** of whom both the male and female are the best."
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:01 CEST -->
