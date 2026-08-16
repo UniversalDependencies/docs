@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'Verbform'
+title: 'VerbForm'
 shortdef: 'verbal form'
 udver: '2'
 ---
