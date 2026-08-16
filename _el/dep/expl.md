@@ -5,7 +5,7 @@ shortdef: 'expletive'
 udver: '2'
 ---
 
-The `expl` relation is used in UD Greek for cases of clitic doubling and in certain Multiword Expressions (MWE):
+The `expl` relation is used in UD Greek for cases of clitic doubling and in certain Verbal Multiword Expressions (VMWE):
 
 1. Clitic doubling.
 
@@ -61,9 +61,9 @@ mark(απαντήσω, να)
 expl(απαντήσω, την-6)
 ~~~
 
-2. MWEs
+2. VMWE
 
-There are many Modern Greek verbal MWE (VMWE) where a clitic with no reference at all is a lexicalised word, i.e., a necessary constituent of the MWE. In the example below *Κι εγώ την άκουσα, μέθυσαν τα γραπτά μου.* 'And I it heard, got-drunk my writings' "Αnd I was tripping, even my writings got drunk." the clitic  *την*, which is assigned the relation [expl](), is necessary to obtain the meaning of the VMWE, which is "I am tripping" and not the compositional meaning, which is "I heard her". 
+There are many Modern Greek VMWE where a clitic with no reference at all is a lexicalised word, i.e., a necessary constituent of the MWE. In the example below *Κι εγώ την άκουσα, μέθυσαν τα γραπτά μου.* 'And I it heard, got-drunk my writings' "Αnd I was tripping, even my writings got drunk." the clitic  *την*, which is assigned the relation [expl](), is necessary to obtain the meaning of the VMWE, which is "I am tripping" and not the compositional meaning, which is "I heard her". 
 
 ~~~ sdparse
 Κι εγώ την άκουσα, μέθυσαν τα γραπτά μου.
@@ -71,8 +71,6 @@ expl(άκουσα, την-3)
 nsubj((άκουσα, εγώ-2)
 parataxis((άκουσα, μέθυσαν-6)
 ~~~
-
-
 
 
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:07 CEST -->
