@@ -63,7 +63,7 @@ expl(απαντήσω, την-6)
 
 2. VMWE
 
-There are many Modern Greek VMWE where a clitic with no reference at all is a lexicalised word, i.e., a necessary constituent of the MWE. In the example below *Κι εγώ την άκουσα, μέθυσαν τα γραπτά μου.* 'And I it heard, got-drunk my writings' "Αnd I was tripping, even my writings got drunk." the clitic  *την*, which is assigned the relation [expl](), is necessary to obtain the meaning of the VMWE, which is "I am tripping" and not the compositional meaning, which is "I heard her". 
+There are many Modern Greek VMWE where a clitic with no reference at all is a lexicalised word, i.e., a necessary constituent of the MWE. In the example below *Κι εγώ την άκουσα, μέθυσαν τα γραπτά μου.* 'And I it heard, got-drunk my writings' "Αnd I was tripping, even my writings got drunk." the clitic  *την*, which is assigned the relation [expl](), is necessary to obtain the meaning of the VMWE, which is "I am tripping" (notice that the structure is ambiguous and the compositional meaning "I heard her" is also possible here.)
 
 ~~~ sdparse
 Κι εγώ την άκουσα, μέθυσαν τα γραπτά μου.
