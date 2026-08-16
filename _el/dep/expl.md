@@ -5,7 +5,9 @@ shortdef: 'expletive'
 udver: '2'
 ---
 
-The `expl` relation is used in UD Greek for cases of clitic doubling. As a rule of thumb, clitics are assigned the [expl]() dependency when a coreferring core argument of the verb (object, indirect object, ccomp) exists, otherwise clitics are assigned the core dependencies [obj]() and [iobj](). 
+The `expl` relation is used in UD Greek for cases of clitic doubling and in certain Multiword Expressions (MWE):
+
+1. \bf{Cases of clitic doubling}. As a rule of thumb, clitics are assigned the [expl]() dependency when a coreferring core argument of the verb (object, indirect object, ccomp) exists, otherwise clitics are assigned the core dependencies [obj]() and [iobj](). 
 
 ~~~ sdparse
 Της τον έδωσε της Καίτης τον αναπτήρα.
