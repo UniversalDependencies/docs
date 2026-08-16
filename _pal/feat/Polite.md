@@ -18,18 +18,23 @@ Politeness is expressed in lexical and grammatical ways in Middle Persian. It is
 </table>
 
 ### <a name="Elev">`Elev`</a>: Elevated
-The addressee can be referred to as *xwadāy* 'lord' with 2nd person reference.
+#### Examples:
+- *xwadāy* "lord" with 2.SG reference.
 
 ### <a name="Form">`Form`</a>: Formal
 The 1pl. can be used as a *pluralis majestatis*. In case of the enclitic pronouns, the archaic form *=n* (instead of regularised *=mān*) is used as a *pluralis majestatis* only.
 
-The 2pl. can be used instead of a 2sg.
+The 2pl. can be used instead of a 2sg. The 3pl. can be used instead of a 3sg.
+
+#### Examples:
 - *ud az nūn frāz āgāhīh rōšntar <b>framāyād</b> nibišt* "and from now on, **please** (lit.: you.PL deign to) write the information more clearly"
 
-The 3pl. can be used instead of a 3sg.
+
 
 ### <a name="Humb">`Humb`</a>: Humbling
-Speakers can refer to themselves as *bandag* 'servant' with 1st person reference.
+#### Examples:
+- *bandag* "servant" with 1.SG reference.
 
-### <a name="Infm">`Infm`</a>: Informal
-An informal expression has not been identified yet.
+### <a name="Infm">`Infm`</a>: Informals
+#### Examples
+- none yet
