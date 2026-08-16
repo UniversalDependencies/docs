@@ -23,6 +23,8 @@ Stylistic features are facultatively added if the context makes it possible to i
 
 ### <a name="Arch">`Arch`</a>: Archaic/obsolete
 Some words show variants, but it is not certain whether they are archaic.
+#### Examples:
+- none yet
 
 ### <a name="Coll">`Coll`</a>: Colloquial
 It appears that scribes change the style of language when they write dialogues, but this has not been investigated yet.
@@ -41,7 +43,7 @@ In order to formulate a polite request, the verb _framūdan_ "to order" is used 
 - _čē=m andar ašmāh kām kunišn man āgāhēnīd <b>framāyēd</b> pad yazdān kām_ "**Please** inform (me) by the will of the gods what I am supposed to do according to your wish!"
 
 ### <a name="Rare">`Rare`</a>: Rare variant of a word
-The feature rare will be used for a rare variant of a word.
+This feature will be used for a rare variant of a word.
 #### Examples:
 - none yet
 
