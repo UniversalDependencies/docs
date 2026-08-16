@@ -84,7 +84,11 @@ The word _ī_, which is also used as a [linker](det) for attributes to their hea
 - _būd **kū** gumēzagīh dēn andar gēhān bē raft_ "**Where** there was mixing, the Dēn went out into the world."
 
 ### <a name="Tot">`Tot`</a>: Total pronoun
-Total pronouns are _harw_ "every", _hamāg_ and _(har)wisp_ "all".
+Total pronouns.
+#### Examples
+- _harw_ "every"
+- _hamāg_, and
+- _(har)wisp_ "all"
 
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:14 CEST -->
