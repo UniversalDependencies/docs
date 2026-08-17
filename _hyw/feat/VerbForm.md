@@ -59,7 +59,7 @@ Western Armenian has six types of participles:
 
 Note that the resultative and future-I participles can be used to form the secondary compound tenses (with the auxiliary _ըլլալ_/_ëllal_ in any tense or mood).
 
-Note also that resultative, subject and future-II participles that fall in the gray zone between adjectives and participles and can also be used adjectively, are marked `Part` too.
+Note also that resultative, subject, and future-II participles that fall in the gray zone between adjectives and participles and can also be used adjectively, are marked `Part` too.
 
 Participles will have [Aspect](), [Voice]() and [Subcat]().
 
@@ -70,6 +70,6 @@ Participles will have [Aspect](), [Voice]() and [Subcat]().
 * _տեսնելու_/_tesnelow_ “(for) seeing”, _հանելու_/_hanelow_ “(for) removing”, _վերացուելու_/_veracʼowelow_ “(for) being eliminated” _անցնելու_/_ancʼnelow_ “(for) passing” (future-I participle, in different voices),
 * _գալիք_/_galikʼ_ “coming”, _գիտնալիք_/_gitnalikʼ_ “(smth.) to be known”, _գտնուելիք_/_gtnowelikʼ_ “to be found” (future-II participle, in different voices),
 * _գացեր_/_gacʼer_ “have gone”, _կերեր_/_kerer_ “have eaten”, _դրեր_/_drer_ “have put” (perfect participle, in different voices),
-* _պատասխաներ_/_patasxaner_ “(do, does, did not) answer”, _փոխուիր_/_pʼoxowir_ “(do, does, did not) change”, _գար_/_gar_ “(do, does, did not) come”
+* _պատասխաներ_/_patasxaner_ “answer (connegative)”, _փոխուիր_/_pʼoxowir_ “change (connegative)”, _գար_/_gar_ “come (connegative)”
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
