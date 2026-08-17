@@ -70,7 +70,7 @@ Participles will have [Aspect](), [Voice]() and [Subcat]().
 * _արթնցած_/_artʼncʼaç_ “woken up”, _գրած_/_graç_ “written”, _ուղարկուած_/_owġarkowaç_ “sent”, _ներկայացուած_/_nerkayacʼowaç_ “presented” (resultative participle, in different voices),
 * _գրող_/_groġ_ “(smth.) writing”, _հասնող_/_hasnoġ_ “reaching”, _տուող_/_towoġ_ “giving”, _եղող_/_eġoġ_ “beeing”, _բացուող_/_bacʼowoġ_ “opening” (subject participle, in different voices),
 * _տեսնելու_/_tesnelow_ “(for) seeing”, _հանելու_/_hanelow_ “(for) removing”, _վերացուելու_/_veracʼowelow_ “(for) being eliminated” _անցնելու_/_ancʼnelow_ “(for)passing” (future-I participle, in different voices),
-* _կարդալիք_/_kardalikʼ_ “(smth.) to be read”, _կառուցվելիք_/_kaṙowcʼvelikʼ_ “to be built” (future-II participle, in different voices),
+* _գալիք_/_galikʼ_ “coming”, _կարդալիք_/_kardalikʼ_ “(smth.) to be read”, _կառուցվելիք_/_kaṙowcʼvelikʼ_ “to be built” (future-II participle, in different voices),
 * _գնացել_/_gnacʼel_ “have gone”, _խմել_/_xmel_ “have drunk”, _դրել_/_drel_ “have put” (perfect participle, in different voices),
 * _<b>գալիս</b> եմ/էի_/_<b>galis</b> em/ēi_ “I am/was <b>coming</b>”, _<b>տալիս</b> եմ/էի_/_<b>talis</b> em/ēi_ “I am/was <b>giving</b>”, _<b>լալիս</b> եմ/էի_/_<b>lalis</b> em/ēi_ “I am/was <b>crying</b>”, _<b>աշխատելիս</b> է եղել_/_<b>ašxatelis</b> ē eġel_ “he has been <b>working</b>” (processual participle in different moods and tenses)
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
