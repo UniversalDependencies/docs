@@ -13,9 +13,8 @@ udver: '2'
 </tr>
 </table>
 
-In Middle Armenian, animacy is a lexical feature of [nouns](NOUN) and some [pronouns](PRON). Since release 2.3 we distinguish two values: `Hum` and `Nhum`.
+In Middle Armenian, animacy is a lexical feature of [nouns](NOUN).
 
-See also the related feature of [Definite]().
 
 ### <a name="Hum">`Hum`</a>: human
 
