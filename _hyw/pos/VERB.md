@@ -15,7 +15,7 @@ Western Armenian verbs can take the following morphological forms:
 
 - Infinitive (this is the citation form that shares properties of verbs and nouns),
 - Finite verb forms (indicative, imperative, and subjunctive forms; necessitative forms are constructed periphrastically; connegative forms),
-- Participles (including resultative, future, and perfect participles, which are used to construct compound or secondary compound tense and mood forms),
+- Participles (including resultative and future-I participles, which are used to construct compound or secondary compound tense and mood forms),
 
 Some participial forms (_verbal adjectives_) are tagged as verbs rather than adjectives ([ADJ]()). See below for examples.
 
