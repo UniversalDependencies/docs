@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-In Armenian, animacy is a lexical feature of [nouns](NOUN) and some [pronouns](PRON). Since release 2.3, we distinguish two values: `Hum` and `Nhum`.
+In Armenian, animacy is a lexical feature of [nouns](NOUN). Since release 2.3, we distinguish two values: `Hum` and `Nhum`.
 
 See also the related feature of [Definite]().
 
