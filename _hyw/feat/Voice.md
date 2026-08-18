@@ -47,9 +47,9 @@ The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-Between active and passive. It also covers reflexive uses, traditionally described as mediopassive (for reciprocal verbs, see below); in this case, the verbs and their lemmas are marked with the passive suffix _-վ-_/_-v-_. 
+Between active and passive. It also covers reflexive uses, traditionally described as mediopassive (for reciprocal verbs, see below); in this case, the verbs and their lemmas are marked with the passive suffix _-ու-_/_-ow-_. 
 
-Note that there is a small set of middle voice verbs marked with the passive suffix _-վ-_ (so-called passivized middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related unmarked counterpart, then the two verbs are represented by different lemmas (e.g. _վերաբերվել_ Mid` “treat, be about”, but _վերաբերել_ `Act` “refer to”).
+Note that there is a small set of middle voice verbs marked with the passive suffix _-ու-_ (so-called passivized middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related unmarked counterpart, then the two verbs are represented by different lemmas (e.g. _վերաբերվել_ Mid` “treat, be about”, but _վերաբերել_ `Act` “refer to”).
 
 #### Examples
 * _ինքնիրեն կը <b>խորհրդածէր</b>_/_inkʼniren kë <b>xorhrdaçēr</b>_ “he/she was <b>thinking</b> to himself/herself”
@@ -59,7 +59,7 @@ Note that there is a small set of middle voice verbs marked with the passive suf
   
 ### <a name="Cau">`Cau`</a>: causative voice
 
-In Armenian, the causative voice is a feature of verbs. In causative constructions, the subject is the entity that causes another participant to perform the action denoted by the base verb. Causatives are generally translated into English using verbs _cause, make, have, let, allow_.
+In Western Armenian, the causative voice is a feature of verbs. In causative constructions, the subject is the entity that causes another participant to perform the action denoted by the base verb. Causatives are generally translated into English using verbs _cause, make, have, let, allow_.
 
 Synthetic causatives are formed with the suffix _-ցն-_/_-cʼn-_. It is quite productive and can be used also for deriving a transitive verb from an intransitive or middle verb. In this case, the resulting verb is analyzed as active (Voice=Act) rather than causative (e.g. _կորցնել_/_korc’nel_ “lose”, _թաքցնել_/_t’ak’c’nel_ “hide”).
 
@@ -67,9 +67,9 @@ Armenian also has a periphrastic causative construction in which the auxiliary _
 
 #### Examples
 
-* _Սովորում են <b>սովորեցնելու</b>_ `Cau` _համար:_  /_Sovorowm en <b>sovorec’nelow<b> hamar_ “They learn in order to <b>teach</b>”,
-* _Ինքն էլ չուզեց <b>հիշեցնել</b>_ `Cau`:_  _Ink’n ēl čowzec’ <b>hišec’nel</b>._ “He/She didn't want to <b>remind</b> them either.”,
-* _<b>վազել</b>_ `Mid` _<b>տալ</b>_ `Cau` /_vazel tal_ <b>make</b> someone <b>run</b>”,
+* _պիտի կարենամ <b>կարդացնել</b>_/_piti karenam <b>kardacʼnel</b>_ “I will be able to make (someone) read”,
+* _ընել <b>տուեր</b> է_/_ënel <b>tower</b> ē_ “he/she has had it done”,
+* _կը <b>յիշեցնէ</b> մեզի_/ _kë <b>yišecʼnē</b> mezi_ “it reminds us”,
 * _<b>հասկանալ</b>_ `Act` _<b>տալ</b>_ `Cau` /_<b>haskanal tal</b>_ “lit: <b>make</b> someone <b>understand</b>”,
 * _<b>հասկացնել</b>_ `Cau`/_<b>haskac’nel</b>_ “lit: <b>make</b> someone <b>understand</b>”,
 * _<b>հասկացնել</b>_ `Cau` _<b>տալ</b>_ `Cau` /_<b>haskac’nel tal</b>_ “lit: <b>make</b> someone <b>make</b> someone <b>understand</b>”.
