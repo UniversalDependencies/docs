@@ -77,7 +77,7 @@ Armenian also has a periphrastic causative construction in which the auxiliary _
 
 ### <a name="CauPass">`CauPass`</a>: derived causative: passive forms
 
-The value `CauPass` is reserved for the passive forms of the causative verbs. Passives derived from transitive verbs using the productive suffix  _-վ-/-v-_ often function as mediopassive (intransitive) verbs. In such cases, the form with _-վ-/-v-_ constitutes a distinct lemma, e.g., _մաշել_/_mašel_ “to wear out (trans.)” - _մաշվել_/_mašvel_ “to wear out (intrans.)”, _հարթել_/_hart’el_ “to smooth” - _հարթվել_/_hart’vel_ “to become smooth”, _հալել_/_halel_ “to melt (trans.)” - _հալվել_/_halvel_ “to melt (intrans.)”. Consequently, to express a true, agentive passive meaning for these verbs, the passive is formed from the corresponding causative verb.
+The value `CauPass` is reserved for the passive forms of causative verbs. Passives derived from transitive verbs using the productive suffix _-վ-/-v-_ often function as mediopassive (intransitive) verbs. In such cases, the form with _-վ-/-v-_ constitutes a distinct lemma, e.g., _մաշել_/_mašel_ “to wear out (trans.)” - _մաշվել_/_mašvel_ “to wear out (intrans.)”, _հարթել_/_hart’el_ “to smooth” - _հարթվել_/_hart’vel_ “to become smooth”, _հալել_/_halel_ “to melt (trans.)” - _հալվել_/_halvel_ “to melt (intrans.)”. Consequently, to express a true, agentive passive meaning for these verbs, the passive is formed from the corresponding causative verb.
 
 #### Examples
 
@@ -88,7 +88,7 @@ The value `CauPass` is reserved for the passive forms of the causative verbs. Pa
 ### <a name="Rcp">`Rcp`</a>: reciprocal voice
 
 A reciprocal verb describes an event in which two agents (or groups of agents) perform the same action upon each other.
-The reciprocal is expressed by the passive suffix _-վ-_/_-v-_ however, the verb roots that can become reciprocal are limited.
+The reciprocal is expressed by the passive suffix _-վ-_/_-v-_. However, the set of verb roots that can form reciprocals is limited.
 
 #### Examples
 
