@@ -5,7 +5,7 @@ shortdef: 'relative clause modifier'
 udver: '2'
 ---
 
-A relative clause modifier of an noun is a relative clause modifying the noun. The relation points from the noun that is modified to the head of the relative clause.
+A relative clause modifier of a noun is a relative clause that modifies the noun. The relation points from the noun that is modified to the head of the relative clause.
 
 ~~~ sdparse
 Տեսա նրան , ով սիրում է քեզ ։ \n I saw the man , who loves you .
