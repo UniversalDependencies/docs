@@ -28,15 +28,15 @@ By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, ex
 #### Examples
 
 * _խօզըն ջօհար ե՞րբ <b>ճանչէ</b>_/_xòzën ǰòhar erb <b>č̣ančē</b>_ “When does a pig ever <b>recognize</b> a jewel?”,
-* _գարի լուացած <b>ցամաքեցուր</b>_/_gari lowac’aç <b>c’amak’ec’owr</b>_ “<b>Dry</b> the washed barley” (but, _Գարին <b>ցամքեցաւ</b>_`Mid` “The barley <b>dried up</b> `Mid`”),
+* _գարի լուացած <b>ցամաքեցուր</b>_/_gari lowac’aç <b>c’amak’ec’owr</b>_ “<b>Dry</b> the washed barley” (but, _Գարին <b>ցամքեցաւ</b>_ `Mid` “The barley <b>dried up</b> `Mid`”),
 * _զբիբսն <b>զօրացուցանէ</b>_/_zbibsn <b>zòrac’owc’anē</b>_ “(it) <b>strengthens</b> the pupils” (but, _յաղթէ զթագաւորն եւ <b>զօրանայ</b>_ `Mid` “He defeats the king and <b>grows strong</b> `Mid`”).
   
 ### <a name="Pass">`Pass`</a>: passive voice
 
 The subject of the verb is affected by the action (patient). The doer (agent) is either a non-obligatory oblique phrase of the verb or not overtly expressed.
 
-The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive constructions. In this case, the verbs are marked with passive infix _-ու- (-ւ-, -վ-)/-ow- (-w-, -v-)_ (for exceptions see below).
-Note that in Middle Armenian the passive meaning may sometimes lack a distinct morphological marker (particularly in the resultative participle), as in Classical Armenian. In such cases, passivity is inferred from the verb’s valency and syntactic context, including the presence of an oblique agent when overtly expressed.
+The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive constructions. In this case, the verbs are marked with the passive suffix _-ու- (-ւ-, -վ-)/-ow- (-w-, -v-)_ (for exceptions see below).
+Note that in Middle Armenian, the passive meaning may sometimes lack a distinct morphological marker (particularly in the resultative participle), as in Classical Armenian. In such cases, passivity is inferred from the verb’s valency and syntactic context, including the presence of an oblique agent when overtly expressed.
 
 #### Examples
 
@@ -47,7 +47,7 @@ Note that in Middle Armenian the passive meaning may sometimes lack a distinct m
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-The middle voice is situated between active and passive. It is also used for the reflexive verbs, traditionally called mediopassive (for reciprocal verbs see below); in this case, the verbs are marked with passive infix _-ու- (-ւ-, -վ-)/-ow- (-w-, -v-)_ and will have the feature [reflexive](Reflex).
+The middle voice is situated between active and passive. It is also used for the reflexive verbs, traditionally called mediopassive (for reciprocal verbs see below); in this case, the verbs are marked with the passive suffix _-ու- (-ւ-, -վ-)/-ow- (-w-, -v-)_.
 
 #### Examples
 
@@ -58,9 +58,9 @@ The middle voice is situated between active and passive. It is also used for the
 
 ### <a name="Cau">`Cau`</a>: causative voice
 
-Note that in Middle Armenian causative voice is a feature of verbs. In causative constructions, the subject is the entity that “causes” the action. It is generally translated into English as ‘cause/make/have/let/allow’ someone to perform action described by the main verb. 
+In Middle Armenian, causative voice is a feature of verbs. In causative constructions, the subject is the entity that “causes” the action. It is generally translated into English as ‘cause/make/have/let/allow’ someone to perform the action described by the base verb. 
 
-The causative in Middle Armenian is expressed either by the Classical Armenian infix _-ուցան-_/_-owc’an-_ or by its phonologically altered new variant _-ցըն- (-ցն-)_/_-c’ën- (-cn-)_. These markers are quite productive and may also derive transitive verbs from intransitive (middle-voice) verbs. Such verbs are tagged `Voice=Act`, not `Voice=Cau`, as they function as ordinary lexical transitive verbs rather than as causative constructions (e.g. _սատակեցուցանել_/_satakec’owc’anel_ “kill, annihilate” (from _սատկիլ_/_satkil_ “to die”) , _շողցնել_/_šoġc’nel_ “to make shine” (from _շողալ_/_šoġal_ “to shine”)).
+The causative in Middle Armenian is expressed either by the Classical Armenian suffix _-ուցան-_/_-owc’an-_ or by its phonologically altered newer variant _-ցըն- (-ցն-)_/_-c’ën- (-c’n-)_. These markers are quite productive and may also derive transitive verbs from intransitive (middle-voice) verbs. Such verbs are tagged `Voice=Act`, not `Voice=Cau`, as they function as ordinary lexical transitive verbs rather than as causative constructions (e.g. _սատակեցուցանել_/_satakec’owc’anel_ “to kill, to annihilate” (from _սատկիլ_/_satkil_ “to die”), _շողցնել_/_šoġc’nel_ “to heat, to warm” (from _շողնալ_/_šoġnal_ “to get warm”)).
 
 In addition, the auxiliary _տալ_/_tal_ (in various tenses and moods) combines with the infinitive of the content verb to form a causative construction. Only the auxiliary is annotated with `Voice=Cau`; the infinitive retains its own voice annotation.
 
@@ -68,12 +68,12 @@ In addition, the auxiliary _տալ_/_tal_ (in various tenses and moods) combines
 
 * _Եւ թէ <b>ուտեցնես</b>_ `Cau` _այլ օգտէ_/_Ew t’ē <b>owtec’nes</b> ayl ògtē_ “And if you <b>make (him/her) eat</b>, it will be even more beneficial”,
 * _զկաթն կու <b>պակսեցնէ</b>_ `Act`/_zkat’n kow <b>paksec’nē</b>_ “It <b>reduces</b> the milk”,
-* _զմեղապարտսն մէն <b>տայ</b> սպաննել_/_zmeġapartsn mēn <b>tay</b> spannel_ “He only <b>has</b> the criminals killed”.
+* _զմեղապարտսն մէն <b>տայ</b>_ `Cau` _սպաննել_ `Act`/_zmeġapartsn mēn <b>tay</b> spannel_ “He only <b>has</b> the criminals killed”.
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal voice
 
 A reciprocal verb describes an event in which two agents (or groups of agents) perform the same action upon each other.
-The reciprocal is expressed by the passive infix _-ու- (-ւ-, -վ-)/-ow- (-w-, -v-)_. However, the set of verb roots that can form reciprocals is limited.
+The reciprocal is expressed by the passive suffix _-ու- (-ւ-, -վ-)/-ow- (-w-, -v-)_. However, the set of verb roots that can form reciprocals is limited.
 
 #### Examples
 
