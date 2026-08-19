@@ -29,7 +29,7 @@ These look roughly like relative clauses, but do not have any omitted role in th
 These are also analyzed as `acl`.
 
 ~~~ sdparse
-Բանն այն է , որ նա չի գալու ։ \n The_fact it is , that he will-not came . 
+Բանն այն է , որ նա չի գալու ։ \n The_fact it is , that he will-not come . 
 acl(այն, գալու)
 acl(it, came)
 ~~~
