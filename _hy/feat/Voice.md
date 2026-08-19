@@ -46,7 +46,7 @@ The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-Between active and passive. It also covers reflexive uses, traditionally described as mediopassive (for reciprocal verbs, see below); in this case, the verbs and their lemmas are marked with the passive suffix _-վ-_/_-v-_. 
+The middle voice is situated between active and passive. It also covers reflexive uses, traditionally described as mediopassive (for reciprocal verbs, see below); in this case, the verbs and their lemmas are marked with the passive suffix _-վ-_/_-v-_. 
 
 Note that there is a small set of middle voice verbs marked with the passive suffix _-վ-_ (so-called passivized middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related unmarked counterpart, then the two verbs are represented by different lemmas (e.g. _վերաբերվել_ Mid` “treat, be about”, but _վերաբերել_ `Act` “refer to”).
 
