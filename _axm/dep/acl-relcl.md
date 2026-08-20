@@ -28,7 +28,7 @@ A relative clause modifier of an noun is a relative clause modifying the noun. T
 # visual-style 5 12 acl:relcl color:blue
 1	հայնց	հայնց	DET	_	PronType=Dem	2	det	_	_
 2	մարդիք	մարդ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Plur	3	nsubj	_	_
-3	լինին	լինիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0 root	_	_
+3	լինին	լինիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
 4-5 յայլազգեացն	_	_	_	_	_	_	_	SpaceAfter=No
 4	յ	ի	ADP	_	AdpType=Prep	5	case	_	_
 5	այլազգեացն	այլազգի	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	3	obl	_	_
