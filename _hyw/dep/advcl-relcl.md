@@ -5,7 +5,7 @@ shortdef: 'relative clause modifier of the clause'
 udver: '2'
 ---
 
-The `advcl:relcl` relation is used for indicating relative clauses (with the relative adverbial pronouns) modifying the head of the superordinate clause. These clauses are finite.
+The `advcl:relcl` relation applies to a relative clause that modifies a clause (as opposed to typical relative clauses, which are adnominal and use [acl:relcl]()).
 
 ~~~ conllu
 # visual-style 1 6 advcl:relcl color:blue
@@ -17,6 +17,6 @@ The `advcl:relcl` relation is used for indicating relative clauses (with the rel
 6	եկաւ	գալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	1	advcl:relcl	_	Translit=ekaw|LTranslit=gal
 7	մեկնելու	մեկնիլ	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	6	advcl	_	Translit=meknelow|LTranslit=meknil|SpaceAfter=No
 8	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
-
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:32 CEST -->
