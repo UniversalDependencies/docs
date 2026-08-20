@@ -38,8 +38,7 @@ These are also analyzed as `acl`.
 
 ~~~ conllu
 # visual-style 4 8 acl color:blue
-Բանն այն է , որ նա չի գալու ։ \n The_fact it is , that he will-not come . 
-acl(այն, գալու)
-acl(it, came)
+
+
 ~~~
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:25 CEST -->
