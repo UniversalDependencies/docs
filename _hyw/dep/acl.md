@@ -28,17 +28,29 @@ Note that in Western Armenian relative clauses get assigned a specific relation 
 14	։	։	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
 ~~~
 
+~~~ conllu
+# visual-style 3 2 acl color:blue
+1	վաղուց	վաղուց	ADV	_	_	2	advmod	_	Translit=vaġowc’|LTranslit=vaġowc’
+2	սպասուած	սպասուիլ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	3	acl	_	Translit=spasowaç|LTranslit=spasowil
+3	լուր	լուր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=lowr|LTranslit=lowr
+4	մըն	մը	DET	_	PronType=Art	3	det	_	Translit=mën|LTranslit=më
+5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
+~~~
+
+~~~ conllu
+# visual-style 1 6 acl color:blue
+1	Կոչ	կոչ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	nsubj	_	Translit=Koč|LTranslit=koč
+2	կար	կամ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	0	root	_	Translit=kar|LTranslit=kam
+3	յստակ	յստակ	ADJ	_	Degree=Pos	1	amod	_	Translit=ystak|LTranslit=ystak|SpaceAfter=No
+4	՝	՝	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
+5	իրերը	իր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	6	obj	_	Translit=irerë|LTranslit=ir
+6	կոչելու	կոչել	VERB	_	Case=Dat|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	1	acl	_	Translit=kočelow|LTranslit=kočel
+7	իրենց	իրենց	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Emp	8	det:poss	_	Translit=irenc’|LTranslit=irenc’
+8	անուններով	անուն	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Plur	6	obl	_	Translit=anownnerov|LTranslit=anown
+~~~
+
+
 This relation is no longer used for optional depictives: [advcl]() should be used instead.
 See [xcomp]() for further discussion.
 
-
-Western Armenian also allows finite clausal complements for nouns with a subset of pronouns like *այն* or *նրանում*.
-These look roughly like relative clauses, but do not have any omitted role in the dependent clause.
-These are also analyzed as `acl`.
-
-~~~ conllu
-# visual-style 4 8 acl color:blue
-
-
-~~~
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:25 CEST -->
