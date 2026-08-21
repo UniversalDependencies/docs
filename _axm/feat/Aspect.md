@@ -28,8 +28,8 @@ The action took, takes, or will take place over a period of time, without specif
 
 #### Examples
 
-* _կու <b>գրեմ</b>_/_kow grem_ “I write / am writing”,
-* _կու <b>գրէի</b>_/_kow grēi_ “I was writing”
+* _<b>կու</b> գրեմ_/_kow grem_ “I write / am writing”,
+* _<b>կու</b> գրէի_/_kow grēi_ “I was writing”
 * _սիրտս է <b>դողալիս</b>_/_sirts ē doġalis_ “My heart is trembling”
 
 
