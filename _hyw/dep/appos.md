@@ -27,16 +27,18 @@ An appositional modifier of a noun is a nominal immediately following the first 
 4	Յակոբ	Յակոբ	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	2	appos	_	Translit=Yakob|LTranslit=Yakob|SpaceAfter=No
 ~~~
 
+There is a slight deviation from the [universal](u-dep/appos) standard in case of more than one appositive nominal. Instead of attaching them all to the first noun, all the appositive modifiers are put together in coordination, then attached as `appos` to the modified noun. This is done regardless whether the appositives are joined by a coordinating conjunction or just a comma.
+
 ~~~ conllu
-# visual-style 4 1 appos color:blue
-# visual-style 5 4 conj color:blue
-1	Երկուքն	երկուք	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Coll	18	nsubj	_	Translit=Erkowk’n|LTranslit=erkowk’
-2	ալ	ալ	ADV	_	_	1	advmod:emph	_	Translit=al|LTranslit=al|SpaceAfter=No
-3	,	,	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,
-4	ամուսին	ամուսին	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	1	appos	_	Translit=amowsin|LTranslit=amowsin
-5	կին	կին	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	4	conj	_	Translit=kin|LTranslit=kin|SpaceAfter=No
+# visual-style 3 1 appos color:blue
+# visual-style 6 3 conj color:blue
+1	Հոն	հոն	ADV	_	Deixis=Remt|PronType=Dem	12	advmod	_	Translit=Hon|LTranslit=hon|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	Translit=,|LTranslit=,
+3	լոյսերուն	լոյս	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	1	appos	_	Translit=loyserown|LTranslit=loys
+4	մէջ	մէջ	ADP	_	AdpType=Post	3	case	_	Translit=mēǰ|LTranslit=mēǰ|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
+6	դրամարկղին	դրամարկղ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	3	conj	_	Translit=dramarkġin|LTranslit=dramarkġ
+7	առջեւ	առջեւ	ADP	_	AdpType=Post	6	case	_	Translit=aṙǰew|LTranslit=aṙǰew
 ~~~
-
-
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:39 CEST -->
