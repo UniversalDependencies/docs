@@ -33,7 +33,7 @@ Note that the subordinating conjunction should not be confused with relative pro
 These fill a valency slot in the frame of the subordinate predicate, and are labeled according to their role in the frame, they are not `mark`:
 
 ~~~ conllu
-# visual-style 6 4 advmod color:blue
+# visual-style 13 9 advmod color:blue
 1	եւ	եւ	CCONJ	_	_	13	cc	_	_
 2	այս	այս	DET	_	Deixis=Prox|PronType=Dem	3	det	_	_
 3	օձս	օձ	NOUN	_	Animacy=Nhum|Case=Nom|Deixis[psor]=Prox|Number=Sing	6	nsubj	_	_
