@@ -5,11 +5,7 @@ shortdef: 'appositional modifier'
 udver: '2'
 ---
 
-An appositional modifier of a noun is a nominal immediately following
-the first noun that serves to define or modify that noun. It includes
-parenthesized examples, as well as defining abbreviations in one of
-these structures.
-
+An appositional modifier of a noun is a nominal immediately following the first noun that serves to define or modify that noun. It includes parenthesized examples, as well as defining abbreviations in one of these structures.
 
 ~~~ sdparse
 Պապը ՝ հայոց արքան , թագավորել է 4-րդ դարում ։ \n Pap , Armenian king , ruled in the 4th century .
@@ -25,10 +21,7 @@ appos(կոնգրես, ՀԱԿ)
 appos(Congress, ANC)
 ~~~
 
-There is a slight deviation from the [universal](u-dep/appos) standard in case of more than one appositive nominal.
-Instead of attaching them all to the first noun, all the appositive modifiers are put together in coordination,
-then attached as `appos` to the modified noun.
-This is done regardless whether the appositives are joined by a coordinating conjunction or just a comma.
+There is a slight deviation from the [universal](u-dep/appos) standard in case of more than one appositive nominal. Instead of attaching them all to the first noun, all the appositive modifiers are put together in coordination, then attached as `appos` to the modified noun. This is done regardless whether the appositives are joined by a coordinating conjunction or just a comma.
 
 ~~~ sdparse
 Միքայելը ՝ իմ եղբայրն ու Դավիթի զարմիկը , եկավ ։ \n Michael , my brother and David's cousin , arrived .
@@ -40,7 +33,7 @@ cc(զարմիկը, ու)
 cc(cousin, and)
 ~~~
 
-In the rare cases we mark the appositive nominal as modifying the prevoious one (chained apposition):
+In the rare cases we mark the appositive nominal as modifying the previous one (chained apposition):
 
 ~~~ sdparse
 Միքայելը ՝ իմ եղբայրը ՝ Դավիթի զարմիկը , կգա վաղը ։ \n Michael , my brother , David's cousin , will-arrive tomorrow .
