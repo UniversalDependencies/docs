@@ -5,7 +5,7 @@ shortdef: 'adverbial clause modifier'
 udver: '2'
 ---
 
-An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose clause, etc. The dependent must be clausal (or else it is an [advmod]()) and the dependent is the main predicate of the clause.
+An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.) as a modifier, not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose clause, etc. The dependent must be clausal (or else it is an [advmod]()) and the dependent is the main predicate of the clause.
 
 ~~~ conllu
 # visual-style 6 12 advcl color:blue
@@ -31,7 +31,7 @@ An adverbial clause modifier is a clause which modifies a verb or other predicat
 4	ժպտեցաւ	ժպտիլ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Translit=žptec’aw|LTranslit=žptil
 5	ու	ու	CCONJ	_	_	6	cc	_	Translit=ow|LTranslit=ow
 6	անցաւ	անցնիլ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	Translit=anc’aw|LTranslit=anc’nil
-7	աշխատանքին	աշխատանք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	6	obj	_	Translit=ašxatank’in|LTranslit=ašxatank’|SpaceAfter=No
+7	աշխատանքին	աշխատանք	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	6	iobj	_	Translit=ašxatank’in|LTranslit=ašxatank’|SpaceAfter=No
 8	։	։	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
 ~~~
 
@@ -47,6 +47,6 @@ This relation is also used for optional depictive adjectives, where the adjectiv
 4	ժպտէին	ժպտել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	0	root	_	Translit=žptēin|LTranslit=žptel
 ~~~
 
-*երջանիկ*/*erǰanik* “happy” describes the persons smiling, not the manner of smiling—but is still taken to modify the verb.
+*երջանիկ*/*erǰanik* “happy” describes those who are smiling, not the manner of smiling—but is still taken to modify the verb.
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:28 CEST -->
