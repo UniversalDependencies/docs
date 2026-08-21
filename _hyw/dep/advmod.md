@@ -5,11 +5,11 @@ shortdef: 'adverbial modifier'
 udver: '2'
 ---
 
-An adverbial modifier of a word is a (non-clausal) [adverb](ADV) or adverbial phrase that serves to modify predicate or a modifier word.
+An adverbial modifier of a word is a (non-clausal) [adverb](ADV) or adverbial phrase that serves to modify a predicate or a modifier word.
 
-Note that in the Armenian grammatical tradition, the term _adverbial modifier_ covers constituents that function like adverbs regardless whether they are realized by adverbs, adpositional phrases, or nouns in particular morphological [cases](Case). We differentiate adverbials realized as adverbs (`advmod`) and adverbials realized by noun phrases or adpositional phrases ([obl]()).
+Note that in the Western Armenian grammatical tradition, the term _adverbial modifier_ covers constituents that function like adverbs regardless of whether they are realized by adverbs, adpositional phrases, or nouns in particular morphological [cases](Case). We differentiate adverbials realized as adverbs (`advmod`) and adverbials realized by noun phrases or adpositional phrases ([obl]()).
 
-A limited set of adverbs can also modify nominals. The [advmod:emph]() relation has to be used in such cases.
+A limited set of adverbs can also modify nominals. When such an adverb functions as an emphatic modifier of a nominal, the [advmod:emph]() relation is used.
 
 ~~~ conllu
 # visual-style 5 3 advmod color:blue
@@ -21,14 +21,10 @@ A limited set of adverbs can also modify nominals. The [advmod:emph]() relation 
 ~~~
 
 ~~~ conllu
-# visual-style 1 3 advmod color:blue
-1	Մէյ	մէկ	NUM	_	Echo=Ech|NumForm=Word|NumType=Card	6	obl	_	Translit=Mēy|LTranslit=mēk
-2	մըն	մը	DET	_	PronType=Art	1	det	_	Translit=mën|LTranslit=më
-3	ալ	ալ	ADV	_	_	1	advmod	_	Translit=al|LTranslit=al
-4	առտուն	առտու	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	6	obl	_	Translit=aṙtown|LTranslit=aṙtow
-5	կանուխ	կանուխ	ADV	_	_	4	advmod:emph	_	Translit=kanowx|LTranslit=kanowx
-6	եկաւ	գալ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Translit=ekaw|LTranslit=gal
-7	տղան	տղայ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	6	nsubj	_	Translit=tġan|LTranslit=tġay|SpaceAfter=No
-8	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+# visual-style 2 1 advmod color:blue
+1	Ալ	ալ	ADV	_	_	2	advmod	_	Translit=Al|LTranslit=al
+2	հասկցած	հասկնալ	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Tran|VerbForm=Part|Voice=Act	0	root	_	Translit=haskc’aç|LTranslit=hasknal
+3	էի	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Imp|VerbForm=Fin	2	aux	_	Translit=ēi|LTranslit=em|SpaceAfter=No
+~~~
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:33 CEST -->
