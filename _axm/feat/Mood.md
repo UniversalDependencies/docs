@@ -34,10 +34,10 @@ The negative forms of the present and imperfect tenses of the indicative (as wel
 * _տուն <b>ունիմ</b>_/_town ownim_ “<b>I have</b> a house”,
 * _բերդ <b>ունէին</b>_/_berd ownēin_ “<b>They had</b> a fortress”,
 * _<b>կապեցիր</b> բեռինք_/_kapec’ir beṙink’_ “<b>You tied</b> loads”,
-* _հոգւով <b>մեռած ենք</b>_/_hogwov meṙaç enk’_ “we <b>are</b> spiritually <b>dead</b>”,
-* _մեկ էլ ի նոցա միջին <b>էր մեռած</b>_/_mek ēl i noc’a miǰin ēr meṙaç_ “and one among them <b>was dead</b>”,
-* _Է՞ր <b>չես ի լալ</b>_/_Ēr čes i lal_ “Why <b>don't (won't) you cry</b>?”,
-* _Ես <b>չեմ ի տար</b> հանց պատասխան_/_Es čem i tar hanc’ patasxan_ “I don't (won't) give such an answer”.
+* _հոգւով մեռած <b>ենք</b>_/_hogwov meṙaç enk’_ “we <b>are</b> spiritually <b>dead</b>”,
+* _մեկ էլ ի նոցա միջին <b>էր</b> մեռած_/_mek ēl i noc’a miǰin ēr meṙaç_ “and one among them <b>was dead</b>”,
+* _Է՞ր <b>չես</b> ի լալ_/_Ēr čes i lal_ “Why <b>don't (won't) you cry</b>?”,
+* _Ես <b>չեմ</b> ի տար հանց պատասխան_/_Es čem i tar hanc’ patasxan_ “I don't (won't) give such an answer”.
 
 ### <a name="Imp">`Imp`</a>: imperative
 
