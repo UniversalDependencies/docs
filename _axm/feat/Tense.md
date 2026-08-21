@@ -36,8 +36,8 @@ The past tense denotes actions that happened before a reference point. The refer
 #### Examples
 
 * _Հայնչաք <b>խմեց</b>, որ <b>խումրեցաւ</b>_/_haynčak’ xmec’, or xowmrec’aw_ “he <b>drank</b>`Ind` so mauch that <b>got drunk</b> `Ind`”,
-* _եղայ_/_eġay_ “I was `Ind`”,
-* _կալաւ_/_kalaw_ “He/she had `Ind`”
+* _<b>եղայ</b>_/_eġay_ “I was `Ind`”,
+* _<b>կալաւ</b>_/_kalaw_ “He/she had `Ind`”
 
 ### <a name="Imp">`Imp`</a>: imperfect
 
