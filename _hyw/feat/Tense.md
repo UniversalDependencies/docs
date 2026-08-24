@@ -67,7 +67,7 @@ Present-tense forms in the subjunctive mood may have future reference. They are 
 
 * _եմ_/_em_ “I am `Ind`”,
 * _կամ_/_kam_ “I am / exist `Ind`”,
-* _<b>երթամ</b> տուն_/_<b>ertʼam</b> town_ “(if) <b>I go</b> `Sub` home”,
+* _երթամ տուն_/_ertʼam town_ “(if) <b>I go</b> `Sub` home”,
 * _ունիմ_/_ownim_ “I have `Ind`”,
 * _գիտեմ_/_gitem_ “I know `Ind`”,
 * _կրնամ_/_krnam_ “I can `Ind`”,
