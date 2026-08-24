@@ -9,14 +9,14 @@ udver: '2'
 
 ### Definition
 The auxiliary verb accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb.
-Western Armenian has the following auxiliary verbs: _եմ_/_em_ “be”, _ըլլամ_/_ëllam_  (_ըլլալ_/_ěllal_) “be repeatedly / habitually”,  _պիտի_/_piti_ or _պետք է_/_petkʿ ē_ “must/will”, _կը (կու, կ', կ-)/kë (kow, k', k-)_ “do”,  _կոր_/_kor_, _ունիմ_/_ownim_ “have”, _կամ_/_kam_ “exist”, _տալ_/_tal_ “cause / make someone perform action”.
+Western Armenian has the following auxiliary verbs: _եմ_/_em_ “be”, _ըլլամ_/_ëllam_  (_ըլլալ_/_ěllal_) “be repeatedly / habitually”,  _պիտի_/_piti_ or _պէտք է_/_pētkʼ ē_ “must/will”, _կը (կու, կ')/kë (kow, k')_ “do”,  _կոր_/_kor_, _ունիմ_/_ownim_ “have”, _կամ_/_kam_ “exist”, _տալ_/_tal_ “cause / make someone perform action”.
 
 The most commonly used auxiliary is _եմ/em_ with its conjugation paradigms in present and imperfect.
 
 Auxiliaries can be divided into:
 - tense auxiliaries, used to form compound tenses represented by _եմ/em_ and _էի/ēi_ “be”;
 - aspectual auxiliaries, used to form so-called “secondary compound tenses” represented by _ըլլամ_/_ëllam_, _կամ_/_kam_, _ունիմ_/_ownim_ “be repeatedly/habitually”, _պիտի/piti_ “to be necessary, useful”, and _կոր_/_kor_, (occurs after the indicative form consisting of _կը_/_kë_ and a finite (subjunctive) verb and marks progressive aspect, indicating that the situation is ongoing at the reference time);
-- mood auxiliaries, used to form periphrastic indicative mood by _կը (կու, կ', կ-)/kë (kow, k', k-)_ “do”;
+- mood auxiliaries, used to form periphrastic indicative mood by _կը (կու, կ')/kë (kow, k')_ “do”;
 - voice auxiliary, used to form periphrastic causative represented by _տալ_/_tal_ “cause / make someone perform action”.
 
 ### Examples
