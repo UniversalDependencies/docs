@@ -42,4 +42,14 @@ Note that in Western Armenian, the auxiliary verb _տալ_/_tal_ used to constru
 8	՞	՞	PUNCT	_	_	7	punct	_	Translit=?|LTranslit=?
 ~~~
 
+~~~ conllu
+# visual-style 2 3 aux color:blue
+1	Որոշումը	որոշում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	nsubj:pass	_	Translit=Orošowmë|LTranslit=orošowm
+2	առնուած	առնել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	Translit=aṙnowaç|LTranslit=aṙnel
+3	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	2	aux	_	Translit=ē|LTranslit=em
+4	երկու	երկու	NUM	_	NumForm=Word|NumType=Card	6	nummod	_	Translit=erkow|LTranslit=erkow
+5	երրորդ	երրորդ	ADJ	_	NumForm=Word|NumType=Ord	4	flat:frac	_	Translit=errord|LTranslit=errord
+6	մեծամասնութեամբ	մեծամասնութիւն	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Coll	2	obl	_	Translit=meçamasnowt’eamb|LTranslit=meçamasnowt’iwn
+~~~
+
 
