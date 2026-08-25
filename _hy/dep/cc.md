@@ -7,10 +7,8 @@ udver: '2'
 
 For more on coordination, see the [conj]() relation.
 
-A `cc` is the relation between a conjunct and
-the [coordinating conjunction](CCONJ) that precedes it.
-(Note: different dependency grammars have different treatments of coordination.
-We take the first conjunct as the head of the coordination.)
+A `cc` is the relation between a conjunct and the [coordinating conjunction](CCONJ) that precedes it.
+(Note that different dependency grammars have different treatments of coordination. We take the first conjunct as the head of the coordination.)
 
 ~~~ sdparse
 Նա ծեր ու իմաստուն մարդ է ։ \n He is old and wise man .
@@ -20,10 +18,7 @@ cc(իմաստուն, ու)
 cc(wise, and)
 ~~~
 
-A coordinating conjunction may also appear at the beginning of a
-sentence. This is also called a `cc`, and it depends on the root
-predicate of the sentence.
-(In fact there is a coordination that spans multiple sentences. We cannot attach a word to the first conjunct because it is in another sentence. Thus we attach it to the first conjunct available in the current sentence: its main predicate.)
+A coordinating conjunction may also occur at the beginning of a sentence, linking it to the preceding discourse. In such cases, it is also attached with the `cc` relation and depends on the root predicate of the sentence. Since dependencies cannot cross sentence boundaries, the conjunction cannot be attached to a conjunct in the preceding sentence and is therefore attached to the main predicate of the current sentence.
 
 ~~~ sdparse
 Ու հետո մենք գնացինք ։ \n And then we left .
