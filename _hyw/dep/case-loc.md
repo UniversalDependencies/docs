@@ -5,11 +5,9 @@ shortdef: 'postpositional localizer'
 udver: '2'
 ---
 
-We treat a closed set of postpositions (traditionally known as “improper adpositions”) as localizers. (See [ADP]() for a list of localizers.)
+We treat a closed set of postpositions (traditionally known as “improper adpositions”) as localizers. See [ADP]() for a list of localizers.
 
-The head of the localizer is the noun or the main verb of the clause preceding it. Localizers are always tagged `ADP`.
-When it follows a noun, it receives the `case:loc` relation label. But if it follows a verb and acts as an adverbial,
-it receives the [obl]() relation (but retains the tag `ADP`).
+A localizer is attached either to the noun it follows or directly to the main verb of the clause. Localizers are always tagged `ADP`. When a localizer follows a noun and functions as its adposition, it is attached to the noun with the `case:loc` relation. When it occurs independently as an adverbial modifier of a verb, it is attached directly to the predicate with the [obl]() relation, while retaining the `ADP` tag. 
 
 ~~~ conllu
 # visual-style 4 5 case:loc color:blue
@@ -23,7 +21,6 @@ it receives the [obl]() relation (but retains the tag `ADP`).
 8	վազէր	վազել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Imp|VerbForm=Fin|Voice=Mid	0	root	_	Translit=vazēr|LTranslit=vazel
 9	դարվեր	դարվեր	ADV	_	_	8	advmod	_	Translit=darver|LTranslit=darver|SpaceAfter=No
 10	:	:	PUNCT	_	Foreign=Yes	8	punct	_	Translit=.|LTranslit=.
-
 ~~~
 
 ~~~ conllu
@@ -36,6 +33,23 @@ it receives the [obl]() relation (but retains the tag `ADP`).
 5	դաշտերու	դաշտ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	1	nmod:npmod	_	Translit=dašterow|LTranslit=dašt
 6	մէջէն	մէջ	ADP	_	AdpType=Post|Case=Abl|Definite=Def	5	case:loc	_	Translit=mēǰēn|LTranslit=mēǰ|SpaceAfter=No
 7	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+~~~
 
+~~~ conllu
+# visual-style 13 14 obl color:blue
+1	Թեթեւ	թեթեւ	ADJ	_	Degree=Pos	2	amod	_	Translit=T’et’ew|LTranslit=t’et’ew
+2	կարմրութիւն	կարմրութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	nsubj	_	Translit=karmrowt’iwn|LTranslit=karmrowt’iwn
+3	մը	մը	DET	_	PronType=Art	2	det	_	Translit=më|LTranslit=më
+4	գունաւորեց	գունաւորել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=gownaworec’|LTranslit=gownaworel
+5	տիկնոջ	տիկին	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Sing	6	nmod:poss	_	Translit=tiknoǰ|LTranslit=tikin
+6	այտերը	այտ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	4	obj	_	Translit=ayterë|LTranslit=ayt|SpaceAfter=No
+7	.	.	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.
+8	ըմբոստ	ըմբոստ	ADJ	_	Degree=Pos	9	amod	_	Translit=ëmbost|LTranslit=ëmbost
+9	շարժումով	շարժում	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	13	obl	_	Translit=šaržowmov|LTranslit=šaržowm
+10	մը	մը	DET	_	PronType=Art	9	det	_	Translit=më|LTranslit=më
+11	շալը	շալ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	13	obj	_	Translit=šalë|LTranslit=šal
+12	բոլորովին	բոլորովին	ADV	_	_	13	advmod:emph	_	Translit=bolorovin|LTranslit=bolorovin
+13	նետեց	նետել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	Translit=netec’|LTranslit=netel
+14	վրայէն	վրայ	ADP	_	AdpType=Post|Case=Abl|Definite=Def	13	obl	_	Translit=vrayēn|LTranslit=vray
 ~~~
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:45 CEST -->
