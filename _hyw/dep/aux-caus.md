@@ -5,9 +5,9 @@ shortdef: 'causative auxiliary'
 udver: '2'
 ---
 
-The `aux:caus` relation links the infinitive verb (i.e. the governor) and the finite causative [AUX]() _տալ_ “to make” in a causative construction.
-The syntactical subject of the sentence (i.e. the causer) receives a [nsubj:caus]() link.
-The initial agent of the action described by the sentence is demoted and will be anotated with an [iobj:agent]() relation.
+The `aux:caus` relation links the infinitive verb (i.e. the governor) to the finite causative [AUX]() _տալ_ “to make” in a periphrastic causative construction.
+The syntactical subject of the sentence (i.e. the causer) is attached to the infinitive with the [nsubj:caus]() relation.
+The initial agent of the action described by the sentence is demoted and annotated with the [iobj:agent]() relation.
 
 ~~~ conllu
 # visual-style 6 7 aux:caus color:blue
@@ -21,8 +21,17 @@ The initial agent of the action described by the sentence is demoted and will be
 8	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	Translit=ē|LTranslit=em
 9	Կովկասէն	Կովկաս	PROPN	_	Animacy=Nhum|Case=Abl|Definite=Def|NameType=Geo|Number=Sing	6	obl	_	Translit=Kovkasēn|LTranslit=Kovkas|SpaceAfter=No
 10	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
-
 ~~~
 
+~~~ conllu
+# visual-style 3 5 aux:caus color:blue
+# visual-style 3 6 iobj:agent color:blue
+1	Ամէն	ամէն	DET	_	ExtPos=DET|PronType=Tot	2	det	_	Translit=Amēn|LTranslit=amēn
+2	գործ	գործ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	3	obj	_	Translit=gorç|LTranslit=gorç
+3	ընել	ընել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	0	root	_	Translit=ënel|LTranslit=ënel
+4	կու	կը	AUX	_	Aspect=Imp|Mood=Ind	3	aux	_	Translit=kow|LTranslit=kë
+5	տան	տալ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Cau	3	aux:caus	_	Translit=tan|LTranslit=tal
+6	խեղճին	խեղճ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	3	iobj:agent	_	Translit=xeġč̣in|LTranslit=xeġč̣|SpaceAfter=No
 For more details see [specific-syntax](http://universaldependencies.org/hyw/overview/specific-syntax.html).
+~~~
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:40 CEST -->
