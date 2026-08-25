@@ -5,50 +5,35 @@ shortdef: 'postpositional localizer'
 udver: '2'
 ---
 
-We treat a closed set of postpositions (traditionally known as “improper adpositions”) as localizers. (See [ADP]() for a list of localizers.)
+We treat a closed set of postpositions (traditionally known as “improper adpositions”) as localizers. See [ADP]() for a list of localizers.
 
-The head of the localizer is the noun or the main verb of the clause preceding it. Localizers are always tagged `ADP`. When it follows a noun, it receives the `case:loc` relation label. But if it follows a verb and acts as an adverbial, it receives the [obl]() relation (but retains the tag `ADP`).
+A localizer is attached either to the noun it follows or directly to the main verb of the clause. Localizers are always tagged `ADP`. When a localizer follows a noun and functions as its adposition, it is attached to the noun with the `case:loc` relation. When it occurs independently as an adverbial modifier of a verb, it is attached directly to the predicate with the [obl]() relation, while retaining the `ADP` tag. 
 
-~~~ sdparse
-Վերցրեց/VERB[Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act] գիրքը/NOUN[Animacy=Inan|Case=Nom|Definite=Def|Number=Sing] սեղանի/NOUN[Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing] վրայից/ADP[AdpType=Post|Case=Abl] ։/PUNCT \n He-took the-book from-on the-table .
-obj(Վերցրեց, գիրքը)
-obj(He-took, the-book)
-obl(Վերցրեց, սեղանի)
-obl(He-took, the-table)
-case:loc(սեղանի, վրայից)
-case:loc(the-table, from-on)
-punct(Վերցրեց, ։)
-punct(He-took, .)
+~~~ conllu
+# visual-style 6 7 case:loc color:blue
+1	Գնում	գնալ	VERB	_	Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=Gnowm|LTranslit=gnal
+2	էին	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	1	aux	_	Translit=ēin|LTranslit=em
+3	նրանք	նրանք	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	1	nsubj	_	Translit=nrank’|LTranslit=nrank’
+4	իրիկնադեմի	իրիկնադեմ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Coll	6	nmod:poss	_	Translit=iriknademi|LTranslit=iriknadem
+5	երկարած	երկարել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid	6	acl	_	Translit=erkaraç|LTranslit=erkarel
+6	ստվերների	ստվեր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Plur	1	obl	_	Translit=stverneri|LTranslit=stver
+7	միջով	մեջ	ADP	_	AdpType=Post|Case=Ins	6	case:loc	_	Translit=miǰov|LTranslit=meǰ|SpaceAfter=No
 ~~~
 
-~~~ sdparse
-Ճանապարհն/NOUN[Animacy=Inan|Case=Nom|Definite=Def|Number=Sing] անցնում/VERB[Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid] էր/AUX[Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin] դաշտերի/NOUN[Animacy=Inan|Case=Dat|Definite=Ind|Number=Plur] միջով/ADP[AdpType=Post|Case=Ins] ։/PUNCT \n The-road passed through the-fields .
-nsubj(անցնում, Ճանապարհն)
-nsubj(passed, The-road)
-aux(անցնում, էր)
-obl(անցնում, դաշտերի)
-obl(passed, the-fields)
-case:loc(դաշտերի, միջով)
-case:loc(the-fields, through)
-punct(անցնում, ։)
-punct(passed, .)
+~~~ conllu
+# visual-style 9 11 obl color:blue
+1	Մի	մի	DET	_	PronType=Art	3	det	_	Translit=Mi|LTranslit=mi
+2	հարյուր	հարյուր	NUM	_	NumForm=Word|NumType=Card	3	nummod	_	Translit=haryowr|LTranslit=haryowr
+3	անգամ	անգամ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	obl	_	Translit=angam|LTranslit=angam
+4	մահը	մահ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	5	nsubj	_	Translit=mahë|LTranslit=mah
+5	ժպտացել	ժպտալ	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	0	root	_	Translit=žptac’el|LTranslit=žptal
+6	ու	ու	CCONJ	_	_	9	cc	_	Translit=ow|LTranslit=ow
+7	աչքով	աչք	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	8	compound:lvc	_	Translit=ačk’ov|LTranslit=ačk’
+8	անելով	անել	VERB	_	Case=Ins|Definite=Ind|Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	9	advcl	_	Translit=anelov|LTranslit=anel
+9	անցել	անցնել	VERB	_	Aspect=Perf|Subcat=Intr|VerbForm=Part|Voice=Mid	5	conj	_	Translit=anc’el|LTranslit=anc’nel
+10	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	9	aux	_	Translit=ēr|LTranslit=em
+11	կողքից	կողք	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Sing	9	obl	_	Translit=koġk’ic’|LTranslit=koġk’|SpaceAfter=No
+12	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 ~~~
 
-~~~ sdparse
-գինետան/NOUN[Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing] մոտով/ADP[AdpType=Post|Case=Ins] \n by the-tavern
-case:loc(գինետան, մոտով)
-case:loc(the-tavern, by)
-~~~
-
-~~~ sdparse
-Մոտովս/ADP[AdpType=Post|Case=Ins|Number[psor]=Sing|Person[psor]=1] անցան/VERB[Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid] երկու/NUM[NumForm=Word|NumType=Card] սիլուետներ/NOUN[Animacy=Inan|Case=Nom|Definite=Ind|Number=Plur] ։/PUNCT \n Two silhouettes passed by-me .
-nsubj(անցան, սիլուետներ)
-obl(անցան, Մոտովս)
-nummod(սիլուետներ, երկու)
-punct(անցան, ։)
-nsubj(passed, silhouettes)
-obl(passed, by-me)
-nummod(silhouettes, Two)
-punct(passed, .)
-~~~
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:45 CEST -->
