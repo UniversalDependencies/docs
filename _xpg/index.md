@@ -56,7 +56,7 @@ VERB is inflected for mood, number, person, tense, VerbForm and voice. The moods
 
 Standard deprels are used.
 
-Subjects are easily identified as nominatives. Direct objects are in the accusative. Indirect objects are mostly in the dative: there is only 1 attestation of the genitive used as an indirect object (TM931700|2|4).
+Subjects are easily identified as nominatives. Direct objects are in the accusative. Indirect objects are mostly in the dative: there is only 1 attestation of the genitive used as an indirect object (TM931700-2-4).
 
 There is only 1 copula attested (_ituv_), which is also the only AUX (see above).
 
