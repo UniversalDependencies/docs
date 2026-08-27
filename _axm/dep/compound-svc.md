@@ -5,7 +5,7 @@ shortdef: 'serial compound verb'
 udver: '2'
 ---
 
-`compound:svc` marks compound verb constructs, in non-nominal complex predicates. In Middle Armenian the both verbs typically are finite, the finite verb that controls the argument structure is the head. These verbs are also often the semantic heads of the clause.
+The `compound:svc` relation is used for serial verb constructions in non-nominal complex predicates. In Middle Armenian, both verbs are typically finite. The verb that controls the argument structure of the construction is treated as the head; it is also often the semantic head of the clause.
 
 ~~~ conllu
 # visual-style 1 2 compound:svc color:blue
