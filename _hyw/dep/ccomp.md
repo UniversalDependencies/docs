@@ -32,23 +32,19 @@ A clausal complement of a verb or adjective is a dependent clause which is a cor
 Such clausal complements may be finite or nonfinite. However, if the subject of the clausal complement is controlled (that is, must be the same as the higher subject or object, with no other possible interpretation) the appropriate relation is [xcomp]().
 
 ~~~ conllu
-# visual-style 10 9 ccomp color:blue
-1	Օր	օր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	5	obl	_	Translit=Òr|LTranslit=òr
-2	մը	մը	DET	_	PronType=Art	1	det	_	Translit=më|LTranslit=më
-3	տղուն	տղայ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Sing	4	nmod:poss	_	Translit=tġown|LTranslit=tġay
-4	մէկը	մէկ	PRON	_	Case=Nom|Definite=Def|PronType=Ind	5	nsubj	_	Translit=mēkë|LTranslit=mēk
-5	կապուեցաւ	կապուիլ	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Translit=kapowec’aw|LTranslit=kapowil
-6	անոր	ան	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	obl	_	Translit=anor|LTranslit=an
-7	ու	ու	CCONJ	_	_	10	cc	_	Translit=ow|LTranslit=ow
-8	հետը	հետ	ADP	_	AdpType=Post|Person[psor]=3	9	obl	_	Translit=hetë|LTranslit=het
-9	ամուսնանալ	ամուսնանալ	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	10	ccomp	_	Translit=amowsnanal|LTranslit=amowsnanal
-10	առաջարկեց	առաջարկել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	Translit=aṙaǰarkec’|LTranslit=aṙaǰarkel|SpaceAfter=No
-11	.	.	PUNCT	_	_	19	punct	_	Translit=.|LTranslit=.
+# visual-style 4 6 ccomp color:blue
+1	հոս	հոս	ADV	_	Deixis=Prox|PronType=Dem	2	advmod	_	Translit=hos|LTranslit=hos
+2	ըլլալ	ըլլալ	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	4	csubj	_	Translit=ëllal|LTranslit=ëllal
+3	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	4	aux	_	Translit=kë|LTranslit=kë
+4	նշանակէ	նշանակել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=nšanakē|LTranslit=nšanakel
+5	մաս	մաս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	6	compound:lvc	_	Translit=mas|LTranslit=mas
+6	կազմել	կազմել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	4	ccomp	_	Translit=kazmel|LTranslit=kazmel
+7	քու	քու	DET	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	8	det:poss	_	Translit=k’ow|LTranslit=k’ow
+8	միջավայրիդ	միջավայր	NOUN	_	Animacy=Nhum|Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=2	6	obj	_	Translit=miǰavayrid|LTranslit=miǰavayr
 ~~~
 
-
 ~~~ conllu
-# visual-style 10 9 ccomp color:blue
+# visual-style 3 5 ccomp color:blue
 1	յիմարապահներուն	յիմարապահ	NOUN	_	Animacy=Hum|Case=Dat|Definite=Def|Number=Plur	3	iobj	_	Translit=yimarapahnerown|LTranslit=yimarapah
 2	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	30	aux	_	Translit=kë|LTranslit=kë
 3	պատուիրէին	պատուիրել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	25	conj	_	Translit=patowirēin|LTranslit=patowirel
@@ -59,6 +55,6 @@ Such clausal complements may be finite or nonfinite. However, if the subject of 
 8	»	»	PUNCT	_	_	5	punct	_	Translit=»|LTranslit=»
 ~~~
 
-The key difference here is that, while it is possible to interpret the first sentence to mean that the boss will not be doing any digging, in the second sentence it is clear that the subject of **digging** can only be **we**. This is what distinguishes `ccomp` and `xcomp`.
+The key difference here is that, while the subject of the infinitive _կազմել_/_kazmel_ “to constitute, form part of” cannot be unambiguously identified with an argument of the higher predicate, in the second sentence the subject of _սատկեցնել_/_satkecʼnel_ can only be _յիմարապահներուն_/_yimarapahnerown_. This is what distinguishes ccomp and xcomp.
 
 Note that in constructions such as _բանն այն է, որ…_/_bann ayn ē, or…_ “the fact is that…”, the complement clause introduced by _որ_/_or_ is analyzed as [acl]() rather than `ccomp`. More generally, `ccomp` is not used with nominal heads, since nominals do not normally take core arguments.
