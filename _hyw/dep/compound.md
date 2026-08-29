@@ -37,6 +37,17 @@ The `compound` relation is one of three relations for multiword expressions (MWE
 ~~~
 
 ~~~ conllu
+# visual-style	5	6	compound	color:blue
+1	Զինուորական	զինուորական	ADJ	_	_	2	amod	_	Translit=Zinoworakan|LTranslit=zinoworakan
+2	քայլերգ	քայլերգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=k’aylerg|LTranslit=k’aylerg
+3	եւ	եւ	CCONJ	_	_	7	cc	_	Translit=ew|LTranslit=ew
+4	ահա	ահա	PART	_	_	7	discourse	_	Translit=aha|LTranslit=aha
+5	կարմիր	կարմիր	ADJ	_	Degree=Pos	7	nmod:poss	_	Translit=karmir|LTranslit=karmir
+6	բանակայիններու	բանակային	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	5	compound	_	Translit=banakayinnerow|LTranslit=banakayin
+7	երթը	երթ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	conj	_	Translit=ert’ë|LTranslit=ert’|SpaceAfter=No
+8	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+
+~~~ conllu
 # visual-style	4	5	compound	color:blue
 1	Յայտնի	յայտնի	ADJ	_	Degree=Pos	0	root	_	Translit=Yaytni|LTranslit=yaytni
 2	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	1	cop	_	Translit=ēr|LTranslit=em
@@ -50,17 +61,6 @@ The `compound` relation is one of three relations for multiword expressions (MWE
 10	էր	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Imp|VerbForm=Fin	8	cop	_	Translit=ēr|LTranslit=em|SpaceAfter=No
 11	:	:	PUNCT	_	Foreign=Yes	1	punct	_	Translit=.|LTranslit=.
 ~~~
-
-~~~ conllu
-# visual-style	5	6	compound	color:blue
-1	Զինուորական	զինուորական	ADJ	_	_	2	amod	_	Translit=Zinoworakan|LTranslit=zinoworakan
-2	քայլերգ	քայլերգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=k’aylerg|LTranslit=k’aylerg
-3	եւ	եւ	CCONJ	_	_	7	cc	_	Translit=ew|LTranslit=ew
-4	ահա	ահա	PART	_	_	7	discourse	_	Translit=aha|LTranslit=aha
-5	կարմիր	կարմիր	ADJ	_	Degree=Pos	7	nmod:poss	_	Translit=karmir|LTranslit=karmir
-6	բանակայիններու	բանակային	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	5	compound	_	Translit=banakayinnerow|LTranslit=banakayin
-7	երթը	երթ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	conj	_	Translit=ert’ë|LTranslit=ert’|SpaceAfter=No
-8	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 `compound` in Western Armenian is used also for serial verbs (with the subtype [compound:svc]()), for light verbs (with the subtype [compound:lvc]()).
 
