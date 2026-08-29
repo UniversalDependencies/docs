@@ -80,14 +80,16 @@ The following particles get the `PART` `UPOS`:
   * When used as "apparently" it should also get the `discourse` relation.
   * Note that "*kira*" is not a particle but a `VERB` if it is the imperative 2nd sg or the reflexive aorist 1st sg of *kirati*.
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
 
 ### Features
 
-Some forms in Pāli are ambiguous. For example, a feminine noun of the `-ā` class with a `-āya` suffix might be Singular Instrumental, Ablative, Genitive, Dative, or Locative! When `Case` can be inferred from context, feel free to mark just the semantically correct case.  If multiple parses are reasonable in a given context, list all the semantically plausible values in alphabetical order, separated by commas (e.g. if you have an *-āya* noun, and all but instrumental are reasonable parses, mark it `Case=Abl,Dat,Gen,Loc|Gender=Fem|Number=Sing`).
+Some forms in Pāli are ambiguous. For example, a feminine noun of the `-ā` class with a `-āya` suffix might be Singular Instrumental, Ablative, Genitive, Dative, or Locative! When `Case` can be inferred from context, feel free to mark only the semantically correct case.  If multiple parses are reasonable in a given context, list all the plausible values in alphabetical order, separated by commas (e.g. if you have an *-āya* noun, and all but instrumental are reasonable parses, mark it `Case=Abl,Dat,Gen,Loc|Gender=Fem|Number=Sing`).
+
+#### Nouns
+
+Nouns in Pāli have `Case`, `Gender`, and `Number`.
+
+If a genitive form is used in a dative sense, you can mark `Case=Gen` because we prefer syntactic over semantic readings when they conflict. Do, however, use the `Case=Dat` annotation for true datives. For example, in the sentence "*Uyyānabhūmiṃ gacchāma subhūmidassanāyāti*," *dassanāya* here is morphologically dative ("for seeing") and so should get `Case=Dat`.
 
 #### Verbs
 
@@ -95,7 +97,7 @@ All verb forms in Pāli should get the `VERB` `UPOS`.
 
 ##### Finite Verbs
 
-Should have the `VerbForm=Fin` along with `Mood`, `Tense`, `Person`, `Number`, and `Voice`.
+Finite verbs should have the `VerbForm=Fin` along with `Mood`, `Tense`, `Person`, `Number`, and `Voice`.
 
 ##### Absolutives
 
@@ -103,28 +105,22 @@ Absolutives (sometimes called "gerunds") formed in Pāli with *-tvā* / *-ya* ge
 
 ##### Infinitives
 
-Infinitives in Pāli end in *-tuṃ*, have the `VerbForm=Inf` and are typically `xcomp`.
+Infinitives in Pāli end in *-tuṃ*. They are noted with `VerbForm=Inf` and are typically `xcomp`.
 
 ##### Participles
 
-Participles have the following `FEATS`: 
+Participles in Pāli are `VERB`s with the following `FEATS`: 
 * `VerbForm=Part`
-* `Voice=Act` or `Voice=Pass`
-* Full nominal agreement features (Case, Gender, Number)
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
+* `Voice=Act` or `Voice=Pass` as appropriate
+* Full nominal agreement features (`Case`, `Gender`, `Number`)
 
 ## Syntax
 
-Since all the participles have VERB in UPOS, they cannot be used as amod. They are either `acl` if they modify a noun or `advcl` if they modify a verb or a clause.  
+Since all the participles have `VERB` as their `UPOS`, they cannot be used as `amod`. They are either `acl` if they modify a noun or `advcl` if they modify a verb or a clause. 
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
+We have two subtypes of the `obl` relation:
+* [obl:agent]()
+* [obl:goal]()
 
 ## Treebanks
 

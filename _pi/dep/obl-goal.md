@@ -7,6 +7,8 @@ udver: '2'
 
 Used for a noun expressing the target or the direction of a movement.
 
+Note that datives of purpose get simply `obl` and **not** `obl:goal`.
+
 ~~~ sdparse
 bodhisatto mātukucchiṃ okkami \n Bodisattva mother's-womb descended-into
 
