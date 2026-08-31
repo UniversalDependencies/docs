@@ -25,7 +25,7 @@ det(nāpāduxšāyīhā, ān-13)
 det(nāpāduxšāyīhā,ī)
 obl(dād, nāpāduxšāyīhā)
 advmod(dād, nē)
-
+~~~
 
 
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:05 CEST -->
