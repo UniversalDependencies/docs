@@ -49,8 +49,7 @@ cc(գնաց, և)
 cc(went, and)
 ~~~
 
-Coordination may be _asyndetic,_ which means that the coordinating conjunction is omitted.
-Commas or other punctuation symbols will delimit the conjuncts in the typical case.
+Coordination may be _asyndetic,_ which means that the coordinating conjunction is omitted. In such cases, conjuncts are typically delimited by commas or other punctuation marks.
 
 ~~~ sdparse
 Եկա , տեսա , հաղթեցի ։ \n Veni , vidi , vici .
