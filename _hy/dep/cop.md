@@ -5,9 +5,9 @@ shortdef: 'copula'
 udver: '2'
 ---
 
-A copula is the relation between a nominal predicate _(ստորոգելի)_ and the copular verb _<b>եմ</b>_ “to be”. The verbs _դառնալ_/_daṙnal_ “to become”, _թվալ_/_tʼval_ “to seem”, _երևալ_/_ereval_ “to seem”, _ձևանալ_/_jevanal_ “to pretend”, _մնալ_/_mnal_ “to stay”, _հաշվել_/_hašowel_ “to consider” etc., despite being counted among copular verbs by some authors (_վերադրառու բայեր, ստորոգելիական վերադիր_), are not analyzed as `cop`.
+A copula is the relation between a nominal predicate _(ստորոգելի)_ and the copular verb _<b>եմ</b>_ “to be”. The verbs _դառնալ_/_daṙnal_ “to become”, _թվալ_/_tʼval_ “to seem”, _երևալ_/_ereval_ “to appear”, _ձևանալ_/_jevanal_ “to pretend”, _մնալ_/_mnal_ “to stay”, _հաշվել_/_hašowel_ “to consider” etc., despite being counted among copular verbs by some authors (_վերադրառու բայեր, ստորոգելիական վերադիր_), are not analyzed as `cop`.
 
-We normally take a copula as a dependent of its complement (the nominal predicate).
+We normally take a copula as a dependent of its complement, i.e. the nominal predicate.
 The nominal predicate is usually a [noun](NOUN), a [pronoun](PRON), an [adjective](ADJ), an [adverb](ADV), or an <a href="../feat/VerbForm.html#inf-infinitive">infinitive</a>.
 
 ~~~ sdparse
