@@ -5,12 +5,9 @@ shortdef: 'copula'
 udver: '2'
 ---
 
-A copula is the relation between the nominal predicate and the copular verbs _<b>եմ</b>/_em_, “to be”. The verbs _դառնալ, թվալ, երևալ, ձևանալ, մնալ, հաշվել_ etc. “to become”, despite being counted among copular verbs by some authors (_վերադրառու բայեր, ստորոգելիական վերադիր_),
-are not analyzed as `cop`.
-
+A copula is the relation between the nominal predicate and the copular verbs _<b>եմ</b>/_em_, “to be”.
 We normally take a copula as a dependent of its complement (the nominal predicate).
-The nominal predicate is usually a [noun](NOUN), a [pronoun](PRON), an [adjective](ADJ), an [adverb](ADV),
-or a [numeral](NUM).
+The nominal predicate is usually a [noun](NOUN), a [pronoun](PRON), an [adjective](ADJ), an [adverb](ADV), or a [numeral](NUM).
 
 ~~~ conllu
 # visual-style 5 3 cop color:blue
