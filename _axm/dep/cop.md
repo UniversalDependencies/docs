@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 A copula is the relation between the nominal predicate and the copular verbs _<b>եմ</b>/_em_, “to be”.
-We normally take a copula as a dependent of its complement (the nominal predicate).
+We normally take a copula as a dependent of its complement, i.e. the nominal predicate.
 The nominal predicate is usually a [noun](NOUN), a [pronoun](PRON), an [adjective](ADJ), an [adverb](ADV), or a [numeral](NUM).
 
 ~~~ conllu
