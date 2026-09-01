@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'advmod:lmod'
-shortdef: '<shortdef>'
+shortdef: 'locative adverbial'
 udver: '2'
 ---
 

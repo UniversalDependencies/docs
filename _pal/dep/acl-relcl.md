@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'acl:relcl'
-shortdef: '<shortdef>'
+shortdef: 'relative clause'
 udver: '2'
 ---
 

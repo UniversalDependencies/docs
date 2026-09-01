@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'amod'
-shortdef: '<shortdef>'
+shortdef: 'adjectival modifier'
 udver: '2'
 ---
 

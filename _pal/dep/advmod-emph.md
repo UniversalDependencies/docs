@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'advmod:emph'
-shortdef: '<shortdef>'
+shortdef: 'emphatic adverbial'
 udver: '2'
 ---
 

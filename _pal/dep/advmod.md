@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'advmod'
-shortdef: '<shortdef>'
+shortdef: 'adverbial'
 udver: '2'
 ---
 

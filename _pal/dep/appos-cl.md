@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'appos:cl'
-shortdef: '<shortdef>'
+shortdef: 'appositional clause'
 udver: '2'
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'advcl'
-shortdef: '<shortdef>'
+shortdef: 'adverbial clause'
 udver: '2'
 ---
 

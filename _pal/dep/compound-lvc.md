@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'compound:lvc'
-shortdef: '<shortdef>'
+shortdef: 'light verb construction'
 udver: '2'
 ---
 

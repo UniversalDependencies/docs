@@ -1,7 +1,7 @@
 ---
 layout: relation
-title: '<title>'
-shortdef: '<shortdef>'
+title: 'acl:cleft'
+shortdef: 'relative clause in cleft sentences'
 udver: '2'
 ---
 

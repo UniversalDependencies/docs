@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'compound'
-shortdef: '<shortdef>'
+shortdef: 'compound'
 udver: '2'
 ---
 

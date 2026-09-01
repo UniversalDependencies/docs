@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'case'
-shortdef: '<shortdef>'
+shortdef: 'case marker'
 udver: '2'
 ---
 

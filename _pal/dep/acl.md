@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'acl'
-shortdef: '<shortdef>'
+shortdef: 'attributive clause'
 udver: '2'
 ---
 

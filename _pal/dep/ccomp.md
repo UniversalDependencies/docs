@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'ccomp'
-shortdef: '<shortdef>'
+shortdef: 'clausal complement'
 udver: '2'
 ---
 

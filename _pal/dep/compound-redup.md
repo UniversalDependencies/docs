@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'compound:redup'
-shortdef: '<shortdef>'
+shortdef: 'reduplication'
 udver: '2'
 ---
 

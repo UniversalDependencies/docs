@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'cc:preconj'
-shortdef: '<shortdef>'
+shortdef: 'preconjuction marker'
 udver: '2'
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'advmod:tmod'
-shortdef: '<shortdef>'
+shortdef: 'temporal adverbial'
 udver: '2'
 ---
 

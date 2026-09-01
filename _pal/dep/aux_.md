@@ -1,7 +1,7 @@
 ---
 layout: relation
-title: '<title>'
-shortdef: '<shortdef>'
+title: 'aux'
+shortdef: 'auxiliary verb'
 udver: '2'
 ---
 

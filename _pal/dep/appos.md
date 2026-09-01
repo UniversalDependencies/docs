@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'appos'
-shortdef: '<shortdef>'
+shortdef: 'apposition'
 udver: '2'
 ---
 
