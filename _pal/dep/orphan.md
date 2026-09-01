@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'orphan'
-shortdef: '<shortdef>'
+shortdef: 'orphan'
 udver: '2'
 ---
 

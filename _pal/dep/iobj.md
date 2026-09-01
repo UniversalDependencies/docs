@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'iobj'
-shortdef: '<shortdef>'
+shortdef: 'indirect object'
 udver: '2'
 ---
 

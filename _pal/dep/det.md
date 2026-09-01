@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'det'
-shortdef: '<shortdef>'
+shortdef: 'determiner'
 udver: '2'
 ---
 

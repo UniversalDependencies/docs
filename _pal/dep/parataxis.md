@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'parataxis'
-shortdef: '<shortdef>'
+shortdef: 'parataxis'
 udver: '2'
 ---
 

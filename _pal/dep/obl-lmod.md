@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'obl:lmod'
-shortdef: '<shortdef>'
+shortdef: 'obliaue spatial modifier'
 udver: '2'
 ---
 

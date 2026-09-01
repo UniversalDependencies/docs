@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'conj'
-shortdef: '<shortdef>'
+shortdef: 'conjunct'
 udver: '2'
 ---
 

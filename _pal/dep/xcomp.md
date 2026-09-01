@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'xcomp'
-shortdef: '<shortdef>'
+shortdef: 'open clausal complement'
 udver: '2'
 ---
 

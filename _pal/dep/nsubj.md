@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'nsubj'
-shortdef: '<shortdef>'
+shortdef: 'nominal subject'
 udver: '2'
 ---
 

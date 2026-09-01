@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'dislocated:topic'
-shortdef: '<shortdef>'
+shortdef: 'dislocated topic'
 udver: '2'
 ---
 

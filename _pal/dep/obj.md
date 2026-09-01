@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'obj'
-shortdef: '<shortdef>'
+shortdef: 'object'
 udver: '2'
 ---
 

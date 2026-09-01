@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'obl:tmod'
-shortdef: '<shortdef>'
+shortdef: 'oblique temporal modifier'
 udver: '2'
 ---
 

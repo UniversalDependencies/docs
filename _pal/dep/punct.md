@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'punct'
-shortdef: '<shortdef>'
+shortdef: 'punctuation'
 udver: '2'
 ---
 

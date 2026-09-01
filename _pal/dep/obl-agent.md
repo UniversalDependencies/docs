@@ -1,7 +1,7 @@
 ---
 layout: relation
-title: '<title>'
-shortdef: '<shortdef>'
+title: 'obl:agent'
+shortdef: 'oblique agent'
 udver: '2'
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'reparandum:res'
-shortdef: '<shortdef>'
+shortdef: 'reparandum'
 udver: '2'
 ---
 

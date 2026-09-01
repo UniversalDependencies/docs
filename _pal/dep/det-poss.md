@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: '<title>'
-shortdef: '<shortdef>'
+shortdef: 'possessive determiner'
 udver: '2'
 ---
 

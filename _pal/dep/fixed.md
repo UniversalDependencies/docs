@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'fixed'
-shortdef: '<shortdef>'
+shortdef: 'fixed expression'
 udver: '2'
 ---
 

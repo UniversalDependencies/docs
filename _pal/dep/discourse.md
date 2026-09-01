@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'discourse'
-shortdef: '<shortdef>'
+shortdef: 'discourse'
 udver: '2'
 ---
 

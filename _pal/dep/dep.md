@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'dep'
-shortdef: '<shortdef>'
+shortdef: 'unspecified dependency'
 udver: '2'
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'dislocated'
-shortdef: '<shortdef>'
+shortdef: 'dislocated (deprecated)'
 udver: '2'
 ---
 

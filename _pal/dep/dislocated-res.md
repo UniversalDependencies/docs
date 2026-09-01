@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'dislocated:res'
-shortdef: '<shortdef>'
+shortdef: 'dislocation'
 udver: '2'
 ---
 

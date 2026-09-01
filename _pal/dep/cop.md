@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'cop'
-shortdef: '<shortdef>'
+shortdef: 'copula'
 udver: '2'
 ---
 

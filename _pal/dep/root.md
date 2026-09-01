@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'root'
-shortdef: '<shortdef>'
+shortdef: 'root'
 udver: '2'
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'nummod'
-shortdef: '<shortdef>'
+shortdef: 'numeral'
 udver: '2'
 ---
 

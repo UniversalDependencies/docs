@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'mark'
-shortdef: '<shortdef>'
+shortdef: 'subordinator'
 udver: '2'
 ---
 

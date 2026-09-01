@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'nsubj:pass'
-shortdef: '<shortdef>'
+shortdef: 'passive subject'
 udver: '2'
 ---
 
