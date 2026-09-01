@@ -16,8 +16,8 @@ dep:alt(skorigował, a-9)
 punct(a-9, (-8)
 punct(a-9, )-10)
 dep:alt(corrected.MASC, FEM)
-punct(FEM, (-25)
-punct(FEM, )-27)
+punct(FEM, (-26)
+punct(FEM, )-28)
 ~~~
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:59 CEST -->
