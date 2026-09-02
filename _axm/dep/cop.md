@@ -41,7 +41,4 @@ The nominal predicate is usually a [noun](NOUN), a [pronoun](PRON), an [adjectiv
 5	աղէկ	աղէկ	ADV	_	_	0	root	_	_
 6	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	_
 
-The nominal predicate may also be expressed using a prepositional phrase, in which the nominal part is the head of the clause.
-
-
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:55 CEST -->
