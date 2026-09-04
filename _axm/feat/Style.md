@@ -14,6 +14,7 @@ udver: '2'
   <td><a href="#Var">Var</a></td>
   <td><a href="#Vrnc">Vrnc</a></td>
   <td><a href="#Vulg">Vulg</a></td>
+  <td><a href="#Xcl">Xcl</a></td>
 </tr>
 </table>
 
@@ -64,4 +65,15 @@ This value is used for variant forms of the same word.
 #### Examples
 
 * _դատւոր, դատուոր_/_datwor, datowor_, _թեպուր, թեփուր_/_t’epowr, t’ep’owr_, _մգռա, մքռա_/_mgṙa, mk’ṙa_
+
+
+### <a name="Xcl">`Xcl`</a>: Classical Armenian
+
+This value is used for words that exhibit Classical Armenian grammatical morphology but whose lemmas are not attested in Classical Armenian.
+
+#### Examples
+
+* _իրաւունք <b>այնէ</b>_/_irawownkʼ <b>aynē</b>_ “to deliver a verdict”
+
+The verb _այնել_/_aynel_ “to do” is not attested in Classical Armenian, but the form այնէ exhibits Classical Armenian morphology.
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:19 CEST -->
