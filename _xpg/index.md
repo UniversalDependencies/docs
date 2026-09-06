@@ -36,9 +36,9 @@ Phrygian has only 1 AUX (_ituv_), which is also the only copula (see below). It 
 DET is used when the token agrees with and is dependent on a head noun. PRON is used when the token stands on its own.
 
 There are 3 VerbForms:
-* Finite verb forms (Fin), tagged VERB of AUX;
-* Infinitives (Inf), tagged VERB of AUX, though unattested;
-* Participles (Part), tagged VERB of AUX.
+* Finite verb forms (Fin), tagged VERB or AUX;
+* Infinitives (Inf), tagged VERB or AUX, though unattested;
+* Participles (Part), tagged VERB or AUX.
 
 ---
 
