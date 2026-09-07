@@ -7,7 +7,7 @@ udver: '2'
 
 A dependency is labeled as `dep` when a more precise dependency relation between two words cannot be determined. This may be because of a weird grammatical construction, a limitation in software, a parser error, or because of an unresolved long distance dependency.
 
-Note that we also use this relation to link the inflectional bound morphemes that are separated due to tokenization to the _main_ part of the word (usually the last word of phrases or sentences used as names or after abbreviations).
+Note that we also use this relation to attach inflectional bound morphemes that are separated from their host by tokenization to the main part of the expression. This typically occurs with case endings or articles attached to phrases or sentences used as names, as well as to abbreviations and numerals.
 
 ~~~ sdparse
 «/PUNCT Երկիր/NOUN[Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing] Նաիրի/PROPN[Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing] »/PUNCT —/PUNCT ից/NOUN[Animacy=Nhum|Case=Abl|Definite=Ind|Hyph=Yes|Number=Sing] \n “ Yerkir Nairi ” - from
