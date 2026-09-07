@@ -5,11 +5,11 @@ shortdef: 'determiner'
 udver: '2'
 ---
 
-The relation determiner (`det`) holds between a nominal head and its [determiner](DET).
-This relation is used for pronominal adjectival modifiers of noun phrases; the `det` modifier has the POS tag `DET` and vice versa.
+The `det` relation holds between a nominal head and its [determiner](DET).
+This relation is used for pronominal adjectival modifiers of noun phrases; such modifiers have the POS tag`DET`.
 Non-pronominal adjectives are tagged [ADJ]() and the relation is labeled [amod]().
 
-Note, that possessive determiners like _իմ&nbsp;_ “my” is currently given the POS tag `DET` and the relation [det:poss]().
+Note that possessive determiners like _իմ_/_im_ “my” are tagged `DET` and attached with the [det:poss]() relation.
 
 ~~~ sdparse
 Մի արահետ գտանք ։ \n A path we-found . 
@@ -29,7 +29,7 @@ det(գիրքն, Որ)
 det(book, Which)
 ~~~
 
-Pronominal quantifiers are also tagged `DET` and their relation to their head is a `det` relation.
+Pronominal quantifiers are also tagged `DET` and attached to their nominal head with the `det` relation.
 
 ~~~ sdparse
 Քանի ՞ հոգի է ֆուտբոլ խաղացել ։ \n How-many men played football ?
