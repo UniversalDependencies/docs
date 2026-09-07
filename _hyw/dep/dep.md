@@ -5,7 +5,7 @@ shortdef: 'unspecified dependency'
 udver: '2'
 ---
 
-A dependency is labeled as `dep` when a more precise dependency relation between two words cannot be determined. This may be because of a weird grammatical construction, a limitation in software, a parser error, or because of an unresolved long distance dependency.
+A dependency is labeled as `dep` when a more precise dependency relation between two words cannot be determined. This may be because of a weird grammatical construction, a limitation in software, a parser error, or because of an unresolved long-distance dependency.
 
 ~~~ conllu
 # visual-style 3 4 dep color:blue
@@ -16,9 +16,9 @@ A dependency is labeled as `dep` when a more precise dependency relation between
 5	սրբազաններու	սրբազան	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Plur	7	nmod:poss	_	Translit=srbazannerow|LTranslit=srbazan
 6	ընտրութեան	ընտրութիւն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	7	nmod:npmod	_	Translit=ëntrowt’ean|LTranslit=ëntrowt’iwn
 7	մասնակցումը	մասնակցում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Coll	2	obj	_	Translit=masnakc’owmë|LTranslit=masnakc’owm
+~~~
 
-
-Note that we also use this relation to link the inflectional bound morphemes that are separated due to tokenization to the _main_ part of the word (usually the last word of phrases or sentences used as names or after abbreviations).
+Note that we also use this relation to attach inflectional bound morphemes that are separated from their host due to tokenization to the main part of the expression. This typically occurs with case endings or articles attached to phrases or sentences used as names, as well as to abbreviations and numerals.
 
 ~~~ conllu
 # visual-style 2 4 dep color:blue
@@ -39,10 +39,15 @@ Note that we also use this relation to link the inflectional bound morphemes tha
 ~~~
 
 ~~~ conllu
-# visual-style 1 3 dep color:blue
-1	1969	1969	NUM	_	NumForm=Digit|NumType=Card	15	obl	_	Translit=1969|LTranslit=1969|SpaceAfter=No
-2	-	-	PUNCT	_	_	3	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-3	էն	ը	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Def|Hyph=Yes|Number=Sing	1	dep	_	Translit=ēn|LTranslit=ë
+# visual-style 1 2 dep color:blue
+1	2000	2000	NUM	_	NumForm=Digit|NumType=Card	6	obl	_	Translit=2000|LTranslit=2000|SpaceAfter=No
+2	էն	ը	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Def|Hyph=Yes|Number=Sing	1	dep	_	Translit=ēn|LTranslit=ë
+3	ի	ի	ADP	_	AdpType=Prep|ExtPos=ADP	1	case	_	Translit=i|LTranslit=i
+4	վեր	վեր	ADV	_	_	3	fixed	_	Translit=ver|LTranslit=ver
+5	կը	կը	AUX	_	Aspect=Imp|Mood=Ind	6	aux	_	Translit=kë|LTranslit=kë
+6	բնակիմ	բնակիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=bnakim|LTranslit=bnakil
+7	Սամաթիա	Սամաթիա	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	6	obl	_	Translit=Samat’ia|LTranslit=Samat’ia|SpaceAfter=No
+8	։	։	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
 ~~~
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:58 CEST -->
