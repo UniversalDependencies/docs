@@ -5,11 +5,9 @@ shortdef: 'clausal subject'
 udver: '2'
 ---
 
-A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. The governor of this relation might
-not always be a verb: when the verb is a copular verb, the root of the clause is the complement of the copular verb. The dependent is
-the main lexical verb or other predicate of the subject clause.
+A clausal subject is a clausal syntactic subject of a clause, i.e., the subject is itself a clause. The governor of this relation might not always be a verb: when the clause contains a copula, the root of the clause is the complement of the copula rather than the copular verb itself. The dependent is the main lexical verb or other predicate of the subject clause.
 
-For the clausal subject of a passive verb or verb group the subtype [csubj:pass]() is used.
+For the clausal subject of a passive verb or verb group, the subtype [csubj:pass]() is used.
 
 ~~~ conllu
 # visual-style 2 5 csubj color:blue
