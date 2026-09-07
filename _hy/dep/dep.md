@@ -28,8 +28,8 @@ punct(ին, —)
 dep(թ, ին)
 punct(in, -)
 dep(year, in)
-
 ~~~
 
 For more details see the [tokenization page](http://universaldependencies.org/hy/tokenization.html).
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:58 CEST -->
