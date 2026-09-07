@@ -5,11 +5,19 @@ shortdef: 'discourse element'
 udver: '2'
 ---
 
-This is used for [interjections](INTJ) and other discourse [particles](PART) and elements, which are not clearly linked to the structure of the sentence, except in an expressive way.
+The `discourse` relation is used for [interjections](INTJ) and other discourse [particles](PART) and elements, which are not clearly linked to the structure of the sentence, except in an expressive way.
 
-We also use `discourse` for list enumerators (e.g. *1.*, *1)*, *[1]*, *1.4*, *II*, *ա)*, *ա.*, *ԺԳ* marking an item in a sequence). (Bullets, by contrast, are considered [punctuation](hy-pos/PUNCT) and attach as [punct]().)
+We also use `discourse` for list enumerators (e.g. *1.*, *1)*, *[1]*, *1.4*, *II*, *ա)*, *ա.*, *ԺԳ* marking an item in a sequence). Bullets, by contrast, are considered [punctuation](hy-pos/PUNCT) and attach as [punct]().
 
 These discourse elements are attached to the head of the most relevant nearby unit, often a clause.
+
+~~~ conllu
+# visual-style 3 1 discourse color:blue
+1	Վայ	վայ	INTJ	_	_	3	discourse	_	Translit=Vay|LTranslit=vay|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	Translit=,|LTranslit=,
+3	ձագուկ	ձագուկ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing|Style=Expr	0	root	_	Translit=jagowk|LTranslit=jagowk|SpaceAfter=No
+4	...	...	PUNCT	_	_	3	punct	_	Translit=...|LTranslit=...
+~~~
 
 ~~~ conllu
 # visual-style 7 1 discourse color:blue
@@ -42,3 +50,17 @@ These discourse elements are attached to the head of the most relevant nearby un
 14	։	։	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.
 ~~~
 
+~~~ conllu
+# visual-style 4 1 discourse color:blue
+1	բ	բ	NUM	_	NumForm=Armenian|NumType=Card	4	discourse	_	Translit=b|LTranslit=b|SpaceAfter=No
+2	)	)	PUNCT	_	_	1	punct	_	Translit=)|LTranslit=)
+3	Մեզ	մենք	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	obl	_	Translit=Mez|LTranslit=menk’
+4	անհրաժեշտ	անհրաժեշտ	ADJ	_	Degree=Pos	0	root	_	Translit=anhražešt|LTranslit=anhražešt
+5	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	Translit=ē|LTranslit=em
+6	պատասխանել	պատասխանել	VERB	_	Polarity=Pos|Subcat=Intr|VerbForm=Inf|Voice=Mid	4	csubj	_	Translit=patasxanel|LTranslit=patasxanel
+7	հետեւեալ	հետեւեալ	ADJ	_	_	8	amod	_	Translit=heteweal|LTranslit=heteweal
+8	հարցումներուն	հարցում	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	6	obj	_	Translit=harc’owmnerown|LTranslit=harc’owm|SpaceAfter=No
+9	.	.	PUNCT	_	_	17	punct	_	Translit=.|LTranslit=.
+~~~
+
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:03 CEST -->
