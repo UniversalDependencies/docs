@@ -17,7 +17,7 @@ A relative clause modifier of an noun is a relative clause modifying the noun. T
 5	,	,	PUNCT	_	_	8	punct	_	_
 6-7	զոր	_	_	_	_	_	_	_	_
 6	զ	զ	ADP	_	AdpType=Prep	7	case	_	_
-7	որ	որ	PRON	_	Case=Acc|Definite=Ind|Number=Sing|PronType=Rel	8	obj	_	_
+7	որ	որ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Rel	8	obj	_	_
 8	արկ	արկանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
 9	վասն	վասն	ADP	_	_	10	case	_	_
 10	սագուցն	սագ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	8	obl	_	SpaceAfter=No
