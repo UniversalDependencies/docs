@@ -26,6 +26,6 @@ See discussion of [Predicate Clauses](../overview/complex-syntax.html#predicate-
 12	ու	ու	CCONJ	_	_	13	cc	_	Translit=ow|LTranslit=ow
 13	վերջ	վերջ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	11	conj	_	Translit=verǰ|LTranslit=verǰ|SpaceAfter=No
 14	։	։	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
-
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:25 CEST -->
