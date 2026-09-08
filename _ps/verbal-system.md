@@ -363,7 +363,7 @@ Overview of UPOS tags and `VerbForm` feature values
 </table>
 
 Example verb ليدل _lidë́l_ conjugated in all forms:
-<img src="pashto_lidel.png" alt="Conjugation example" width="1000">
+<img src="verbal_system.png" alt="Conjugation example" width="1000">
 
 ## Irregular verbs
 
