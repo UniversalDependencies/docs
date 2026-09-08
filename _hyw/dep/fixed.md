@@ -9,6 +9,8 @@ The `fixed` relation is one of the three relations for multiword expressions (MW
 
 Note that these expressions do not have any internal syntactic structure (except from a historical perspective) and that the structural annotation is in principle arbitrary. The leftmost word is the head and all the other words are attached as its `fixed` modifiers.
 
+The [ExtPos]() feature should be specified on the first word of the fixed expression to indicate the UPOS that the expression would have were it a single word. This indicates what external dependency relations the expression is compatible with.
+
 ~~~ conllu
 # visual-style 1 2 fixed color:blue
 # visual-style 1 3 fixed color:blue
