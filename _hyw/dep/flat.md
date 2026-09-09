@@ -5,7 +5,7 @@ shortdef: 'flat'
 udver: '2'
 ---
 
-The `flat` relation is used to combine the elements of an expression where none of the immediate components can be identified as the sole head using standard substitution tests.
+The `flat` relation is used to combine the elements of an expression in which none of the immediate components can be identified as the sole head using standard substitution tests.
 This includes both cases where more than one component passes the head test, and cases where no component does.
 Note also that the `flat` relation is appropriate in such cases only when no more specific relation applies. For example, in coordination structures annotated with the [conj]() relation, any of the conjuncts can usually replace the whole.
 
@@ -32,13 +32,15 @@ The components of a flat expression may have their own dependents, including nes
 
 ~~~ conllu
 # visual-style 1 2 flat color:blue
+# visual-style 1 3 flat color:blue
+# visual-style 1 4 flat color:blue
 1	երէկ	երէկ	ADV	_	_	0	root	_	Translit=erēk|LTranslit=erēk
-12	չէ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	1	flat	_	Translit=čē|LTranslit=em
-13	առջի	առջի	ADJ	_	NumForm=Word|NumType=Ord|Style=Vrnc	1	flat	_	Translit=aṙǰi|LTranslit=aṙǰi
-14	օր	օր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	flat	_	Translit=òr|LTranslit=òr|SpaceAfter=No
+2	չէ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	1	flat	_	Translit=čē|LTranslit=em
+3	առջի	առջի	ADJ	_	NumForm=Word|NumType=Ord|Style=Vrnc	1	flat	_	Translit=aṙǰi|LTranslit=aṙǰi
+4	օր	օր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	flat	_	Translit=òr|LTranslit=òr|SpaceAfter=No
 ~~~
 
-The `flat` relation is also used for numerals and numerical expressions that lack phrasal structure. The most left numeral is the head, the other numerals are attached as its modifiers. Note, that for numerical (spacial and time) distributions and ranges the [flat:dist]() and [flat:range]() relations are used.
+The `flat` relation is also used for numerals, and for numerical and mathematical expressions that lack an internal syntactic structure. The leftmost numeral is the head, and the other numerals are attached to it as modifiers. Note that for numerical (spatial and temporal) distributions and ranges the [flat:dist]() and [flat:range]() relations are used.
 
 ~~~ conllu
 # visual-style 1 2 flat color:blue
@@ -52,7 +54,7 @@ The `flat` relation is also used for numerals and numerical expressions that lac
 5	4	4	NUM	_	NumForm=Digit|NumType=Card	1	flat	_	Translit=4|LTranslit=4|SpaceAfter=No
 ~~~
 
-Date expressions which have a very clear syntactic structure, as in _the 21th of September of 1991 year_, should be annotated with regular dependency relations. In other cases, they have a flat structure with no clearly discernible head, as in _18 December 2015_, in which case the `flat` relation should be used. 
+Date expressions which have a clear syntactic structure should be annotated with regular dependency relations. In other cases, when they have a flat structure with no clearly discernible head, the `flat` relation should be used. 
 
 ~~~ conllu
 # visual-style 4 3 nmod:poss color:blue
