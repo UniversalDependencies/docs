@@ -40,6 +40,8 @@ The components of a flat expression may have their own dependents, including nes
 4	օր	օր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	flat	_	Translit=òr|LTranslit=òr|SpaceAfter=No
 ~~~
 
+In Eastern and Western Armenian, personal names are annotated using a head-initial structure, in which the first name is the head and all subsequent components of the name, such as middle and last names, are attached to it with the flat:name relation.
+
 The `flat` relation is also used for numerals, and for numerical and mathematical expressions that lack an internal syntactic structure. The leftmost numeral is the head, and the other numerals are attached to it as modifiers. Note that for numerical (spatial and temporal) distributions and ranges the [flat:dist]() and [flat:range]() relations are used.
 
 ~~~ conllu
