@@ -17,8 +17,7 @@ Note also that the `flat` relation is appropriate in such cases only when no mor
 4	Էջմիածին	Էջմիածին	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	2	flat	_	Translit=Ēǰmiaçin|LTranslit=Ēǰmiaçin
 ~~~
 
-Flat expressions are annotated with a flat structure, where all subsequent components in the expression are attached to the first one using the `flat` label. The assumption is that in these expressions, the `flat` relations
-are not syntactic head-modifier relations, and that the structural annotation is in principle arbitrary.
+Flat expressions are annotated with a flat structure, where all subsequent components in the expression are attached to the first one using the `flat` label. The assumption is that in these expressions, the `flat` relations are not syntactic head-modifier relations, and that the structural annotation is in principle arbitrary.
 The components of a flat expression may have their own dependents, including nested flat structures.
 
 ~~~ conllu
@@ -40,7 +39,7 @@ The components of a flat expression may have their own dependents, including nes
 4	օր	օր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	flat	_	Translit=òr|LTranslit=òr|SpaceAfter=No
 ~~~
 
-In Eastern and Western Armenian, personal names are annotated using a head-initial structure, in which the first name is the head and all subsequent components of the name, such as middle and last names, are attached to it with the flat:name relation.
+In Western Armenian, personal names are annotated using a head-initial structure, in which the first name is the head and all subsequent components of the name, such as middle and last names, are attached to it with the flat:name relation.Note that titles, honorifics, regnal numbers, and epithets that are treated as part of a personal name are also attached to the first name using the `flat:name` relation (see also [nmod]() and [apposition](appos)).
 
 The `flat` relation is also used for numerals, and for numerical and mathematical expressions that lack an internal syntactic structure. The leftmost numeral is the head, and the other numerals are attached to it as modifiers. Note that for numerical (spatial and temporal) distributions and ranges the [flat:dist]() and [flat:range]() relations are used.
 
@@ -56,7 +55,7 @@ The `flat` relation is also used for numerals, and for numerical and mathematica
 5	4	4	NUM	_	NumForm=Digit|NumType=Card	1	flat	_	Translit=4|LTranslit=4|SpaceAfter=No
 ~~~
 
-Date expressions which have a clear syntactic structure should be annotated with regular dependency relations. In other cases, when they have a flat structure with no clearly discernible head, the `flat` relation should be used. 
+Date expressions that have a clear syntactic structure should be annotated with regular dependency relations. In other cases, when they have a flat structure with no clearly discernible head, the `flat` relation should be used. 
 
 ~~~ conllu
 # visual-style 4 3 nmod:poss color:blue
