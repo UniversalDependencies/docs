@@ -21,8 +21,7 @@ mark(arrive, as-soon-as)
 ~~~
 
 Note that the subordinating conjunction should not be confused with relative pronouns and adverbs.
-These fill a valency slot in the frame of the subordinate predicate,
-and are labeled according to their role in the frame, they are not `mark`:
+These fill a valency slot in the frame of the subordinate predicate, and are labeled according to their role in the frame, they are not `mark`:
 
 ~~~ sdparse
 Տեղյակ պահեք, հենց գումարը փոխանցվի մեր հաշվի ։ \n Inform, when money is-traferred to-our account .
