@@ -7,13 +7,13 @@ udver: '2'
 
 The `nmod` relation is used for nominal dependents of another noun or noun phrase. We use the following language-specific subtypes:
 
-* `nmod`: noun modifier functionally corresponds to an attribute,
-* [nmod:poss](): noun modifier functionally corresponds to possessive complement,
-* [nmod:npmod](): noun phrase as nominal modifier.
+* `nmod`: a noun modifier that functionally corresponds to an attribute,
+* [nmod:poss](): a noun modifier that functionally corresponds to a possessive complement,
+* [nmod:npmod](): a noun phrase functioning as a nominal modifier.
 
 In Armenian `nmod` is used:
 
-* for noun-noun modification with an attributive or associative relations between them: `nmod` nouns attached to nouns are usually in the nominative [Case]() and precede the modified noun. There are alternations in ablative or instrumental cases.
+* for noun-noun modification with an attributive or associative relation between them: `nmod` nouns attached to nouns are usually in the nominative [Case]() and precede the modified noun. There are alternations in ablative or instrumental cases.
 
 ~~~ sdparse
 քամի/NOUN[Case=Nom] եղանակ \n wind weather
@@ -63,7 +63,7 @@ nmod(girl, gold)
 case(gold, like)
 ~~~
 
-Note, that so-called “bare noun compounds” (e.g. _թղթակից անդամ&nbsp;_ “corresponding member”) are marked using the [compound]() relation.
+Note, that so-called “bare noun compounds” (e.g. _թղթակից անդամ_ “corresponding member”) are marked using the [compound]() relation.
 
 * for an explicative attribute of a noun or for noun modifier specifying the whole-part relation: a typical example is a title/profession attached to a name of a person. The relation is similar to the [flat]() relation that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
 
