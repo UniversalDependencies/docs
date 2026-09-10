@@ -9,7 +9,23 @@ The `flat` relation is used to combine the elements of an expression in which no
 This includes both cases where more than one component passes the head test, and cases where no component does.
 Note also that the `flat` relation is appropriate in such cases only when no more specific relation applies. For example, in coordination structures annotated with the [conj]() relation, any of the conjuncts can usually replace the whole.
 
-For phrasal or clausal names the usual relations are used (e.g. multi-word names of places, organizations etc. _Երևանի պետական համալսարան, Պարսից ծով, Խաղաղ օվկիանոս, Ալանաց դշխուհի_).
+For phrasal or clausal names, the usual relations are used (e.g. multiword names of places, organizations, etc., such as _Երևանի պետական համալսարան, Պարսից ծով, Խաղաղ օվկիանոս, Ալանաց դշխուհի_).
+
+~~~ sdparse
+Երևանի պետական համալսարան \n Yerevan State University
+amod(համալսարան, պետական)
+amod(University, State)
+nmod:poss(համալսարան, Երևանի)
+nmod:poss(University, Yerevan)
+~~~
+
+~~~ sdparse
+Պարսից/ADJ[Poss=Yes] ծոց/NOUN \n Persian Gulf
+amod(ծոց, Պարսից)
+amod(Gulf, Persian)
+~~~
+
+In Eastern Armenian, personal names are annotated using a head-initial structure, in which the first name is the head and all subsequent components of the name, such as middle and last names, are attached to it with the `flat:name` relation. 
 
 ~~~ sdparse
 Նախագահ Լևոն Տեր - Պետրոսյանը երեկ այցելել է Երևանի պետական համալսարան ։ \n President Levon Ter - Petrosyan yesterday visited Yerevan State University .
@@ -31,13 +47,7 @@ flat:name(Նյու, Յորք)
 flat:name(New, York)
 ~~~
 
-~~~ sdparse
-Պարսից/ADJ[Poss=Yes] ծոց/NOUN \n Persian Gulf
-amod(ծոց, Պարսից)
-amod(Gulf, Persian)
-~~~
-
-In Eastern Armenian, personal names are annotated using a head-initial structure, in which the first name is the head and all subsequent components of the name, such as middle and last names, are attached to it with the flat:name relation. Note that the titles/honorifics, when immediately following the first noun, are also analyzed using the `flat:name` relation. They are treated as a part of the names: (see also [nmod]() and [apposition](appos)): 
+Note that titles, honorifics, regnal numbers, and epithets that are treated as part of a personal name are also attached to the first name using the `flat:name` relation (see also [nmod]() and [apposition](appos)): 
 
 ~~~ sdparse
 Խոսրով Գ Կոտակ \n Khosrov III the-Small
@@ -48,9 +58,9 @@ flat:name(Khosrov, III)
 ~~~
 
 ~~~ sdparse
-Արշակ թագավորը \n King Arshak 
+Արշակ թագավորը \n Arshak the-King 
 flat:name(Արշակ, թագավորը)
-flat:name(King, Arshak)
+flat:name(Arshak, the-King)
 ~~~
 
 ~~~ sdparse
@@ -71,19 +81,21 @@ flat:name(Մարկոս, աղան)
 flat:name(Markos, Agha)
 ~~~
 
-Flat expressions are annotated with a flat structure, where all subsequent components in the expression are attached to the first one using the `flat` label. The assumption is that in these expressions, the `flat` relations are not syntactic head-modifier relations, and that the structural annotation is in principle arbitrary.
+Flat expressions are annotated with a flat structure, in which all subsequent components in the expression are attached to the first one using the `flat` label. The assumption is that in these expressions, the `flat` relations are not syntactic head-modifier relations, and that the structural annotation is in principle arbitrary.
 The components of a flat expression may have their own dependents, including nested flat structures.
 
 ~~~ sdparse
-375009, Երևան 9, ԱՎ. ԻՍԱՀԱԿՅԱՆ ՓՈՂՈՑ № 28։
-flat(375009, Երևան)
-flat(Երևան, 9)
-flat(375009, №)
+Երևան, Անտարես, 2019 \n Yerevan , Antares , 2019
+flat(Երևան, Անտարես)
+flat(Yerevan, Antares)
+flat(Երևան, 2019)
+flat(Yerevan, 2019)
+~~~
 
-The `flat` relation is also used for numerals, and for numerical and mathematical expressions that lack an internal syntactic structure. The leftmost numeral is the head, and the other numerals are attached to it as modifiers. Note that for numerical (spatial and temporal) distributions and ranges the [flat:dist]() and [flat:range]() relations are used.
+The `flat` relation is also used for numerals and for numerical and mathematical expressions that lack an internal syntactic structure. The leftmost numeral is the head, and the other numerals are attached to it as modifiers. Note that for numerical (spatial and temporal) distributions and ranges, the [flat:dist]() and [flat:range]() relations are used.
 
 ~~~ sdparse
-Սա առավելագույնը հարյուր հիսունհինգ հազար դրամ կարժենա ։ \n It will cost at-most hundred fifty-five thousand drams .
+Սա առավելագույնը հարյուր հիսունհինգ հազար դրամ կարժենա ։ \n It will cost at most one hundred and fifty-five thousand drams .
 nummod(դրամ, հարյուր)
 nummod(drams, hundred)
 flat(հարյուր, հիսունհինգ-4)
@@ -92,15 +104,15 @@ flat(հարյուր, հազար-5)
 flat(hundred, thousand)
 ~~~
 
-Date expressions which have a clear syntactic structure should be annotated with regular dependency relations. In other cases, when they have a flat structure with no clearly discernible head, the `flat` relation should be used.
+Date expressions that have a clear syntactic structure should be annotated with regular dependency relations. In other cases, when they have a flat structure with no clearly discernible head, the `flat` relation should be used.
 
 ~~~ sdparse
-1991 թ . սեպտեմբերի 21-ին \n on-the-21th of-September of-year 1991
+1991 թ . սեպտեմբերի 21-ին \n on-the-21st of-September of-year 1991
 nmod:poss(21-ին, սեպտեմբերի)
 nmod:poss(սեպտեմբերի, թ)
 punct(թ, .)
 nummod(թ, 1991-1)
-nmod:poss(on-the-21th, of-September)
+nmod:poss(on-the-21st, of-September)
 nmod:poss(of-September, of-year)
 nummod(of-year, 1991-10)
 ~~~
