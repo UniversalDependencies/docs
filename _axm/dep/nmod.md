@@ -7,9 +7,9 @@ udver: '2'
 
 The `nmod` relation is used for nominal dependents of another noun or noun phrase. We use the following language-specific subtypes:
 
-* `nmod`: noun modifier functionally corresponds to an attribute,
-* [nmod:poss](): noun modifier functionally corresponds to possessive complement,
-* [nmod:npmod](): noun phrase as nominal modifier.
+* `nmod`: a noun modifier that functionally corresponds to an attribute,
+* [nmod:poss](): a noun modifier that functionally corresponds to a possessive complement,
+* [nmod:npmod](): a noun phrase functioning as a nominal modifier.
 
 In Middle Armenian `nmod` is used:
 
