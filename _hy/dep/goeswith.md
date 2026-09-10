@@ -35,6 +35,6 @@ Note also that only the last word part may be annotated with `SpaceAfter=No`.
 10	մ	_	X	_	_	4	goeswith	_	Translit=m
 11	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	Translit=ē|LTranslit=em|SpaceAfter=No
 12	.	.	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
-
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:12 CEST -->
