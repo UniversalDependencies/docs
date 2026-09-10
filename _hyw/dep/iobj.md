@@ -19,7 +19,6 @@ The prototypical example is the recipient of ditransitive verbs of exchange:
 7	:	:	PUNCT	_	Foreign=Yes	4	punct	_	Translit=.|LTranslit=.
 ~~~
 
-
 If there is just one object, it should likely be [obj]() unless it is morphosyntactically more similar to clear cases of [iobj](). This is an amended policy as described [on the changes page](https://universaldependencies.org/changes.html#sole-iobj).
 For example, _բացատրել_/_bacʼatrel_ “to explain” may occur with [obj](), [iobj](), or both:
 
@@ -31,7 +30,7 @@ For example, _բացատրել_/_bacʼatrel_ “to explain” may occur with [ob
 4	իր	իր	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Emp|Reflex=Yes	5	det:poss	_	Translit=ir|LTranslit=ir
 5	կացութիւնը	կացութիւն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	3	obj	_	Translit=kac’owt’iwnë|LTranslit=kac’owt’iwn|SpaceAfter=No
 6	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
-
+~~~
 
 ~~~ conllu
 # visual-style 6 5 obj color:blue
@@ -62,7 +61,6 @@ When there is a [clausal complement](ccomp), then it is regarded as a “clausal
 10	այս	այս	DET	_	Deixis=Prox|PronType=Dem	11	det	_	Translit=ays|LTranslit=ays
 11	օրերուն	օր	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Plur	8	obl	_	Translit=òrerown|LTranslit=òr|
 ~~~
-
 
 If there are two or more objects, one of them should be [obj]() and the others should be `iobj`. In such cases it is necessary to decide what is the most directly affected object _(patient)._
 
