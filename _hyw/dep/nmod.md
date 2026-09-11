@@ -13,7 +13,7 @@ The `nmod` relation is used for nominal dependents of another noun or noun phras
 
 In Western Armenian `nmod` is used:
 
-* for noun-noun modification with an attributive or associative relations between them: `nmod` nouns attached to nouns are usually in the nominative [Case]() and precede the modified noun. There are alternations in ablative or instrumental cases.
+* for noun-noun modification involving an attributive or associative relation between the nouns: nominal dependents attached with `nmod` are usually in the nominative [Case]() and precede the modified noun. Alternations in the ablative or instrumental case also occur.
 
 ~~~ conllu
 # visual-style 3 2 nmod color:blue
@@ -32,7 +32,7 @@ In Western Armenian `nmod` is used:
 5	մը	մը	DET	_	PronType=Art	4	det	_	Translit=më|LTranslit=më|SpaceAfter=No
 ~~~
 
-Standard `nmod` relation is used even when things are being counted in groups (with “massifiers”):
+The standard `nmod` relation is used even when things are being counted in groups (with “massifiers”):
 
 ~~~ conllu
 # visual-style 3 1 nmod color:blue
@@ -49,7 +49,7 @@ Standard `nmod` relation is used even when things are being counted in groups (w
 4	մը	մը	DET	_	PronType=Art	3	det	_	Translit=më|LTranslit=më
 ~~~
 
-The `nmod` relation is further specified by the [case]() relation (associative modfication).
+An `nmod` dependent may itself be modified by a case-marking element attached with the [case]() relation (associative modification).
 
 ~~~ conllu
 # visual-style 3 1 nmod color:blue
@@ -58,8 +58,8 @@ The `nmod` relation is further specified by the [case]() relation (associative m
 3	վայրեր	վայր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Plur	0	root	_	Translit=vayrer|LTranslit=vayr
 ~~~
 
-* for an explicative attribute of a noun or for noun modifier specifying the whole-part relation: a typical example is a title/profession attached to a name of a person. The relation is similar to the [flat]() relation that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
-
+* for an explicative attribute of a noun or for a noun modifier specifying a whole-part relation. A typical example is a title or profession attached to the name of a person. This contrasts with titles, honorifics, regnal numbers, and epithets that follow the personal name and are treated as part of it. These are attached with [flat:name]().
+  
 ~~~ conllu
 # visual-style 2 1 nmod color:blue
 1	Տոքթոր	տոքթոր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	2	nmod	_	Translit=Tok’t’or|LTranslit=tok’t’or
@@ -76,8 +76,7 @@ The `nmod` relation is further specified by the [case]() relation (associative m
 5	Արիսեան	Արիսեան	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Sur|Number=Sing	4	flat:name	_	Translit=Arisean|LTranslit=Arisean
 ~~~
 
-Note that the same thing can be also expressed using an [apposition](appos).
-In the case of apposition, the title follows the modified name and is separated by a punctuation symbol:
+A nominal expression identifying or further specifying another nominal may instead be attached using the [appos]() relation, particularly when it follows the modified nominal and is set off by punctuation.
 
 ~~~ conllu
 # visual-style 3 5 appos color:blue
