@@ -55,8 +55,21 @@ This is in accord with the UD guidelines.
 
 ## Dates
 
-Dates are annotated as follows: if present, the day is the head, the month is _nmod:poss_ and the year is _nummod_:
+Dates are annotated as follows: if in the following order, the day is the head, the month and the year are _flat_:
 
+~~~ conllu
+# visual-style 1 3 obl color:blue
+# visual-style 3 4 flat color:blue
+# visual-style 3 5 flat color:blue
+1	Հիմնուած	հիմնել	VERB	_	Aspect=Perf|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass	0	root	_	Translit=Himnowaç|LTranslit=himnel
+2	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	aux	_	Translit=ē|LTranslit=em
+3	1	1	NUM	_	NumForm=Digit|NumType=Card	1	obl	_	Translit=1|LTranslit=1
+4	Ապրիլ	Ապրիլ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	3	flat	_	Translit=April|LTranslit=April
+5	2019	2019	NUM	_	NumForm=Digit|NumType=Card	3	flat	_	Translit=2019|LTranslit=2019|SpaceAfter=No
+6	-	-	PUNCT	_	_	7	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
+7	ին	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Hyph=Yes|Number=Sing	5	dep	_	Translit=in|LTranslit=ë|SpaceAfter=No
+8	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
+~~~
 
 ## Numbered objects
 
