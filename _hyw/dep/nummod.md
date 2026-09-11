@@ -36,7 +36,7 @@ A numeric modifier of a noun is any [number](u-pos/NUM) phrase that serves to mo
 8	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 ~~~
 
-Note that indefinite quantifiers such as _մը_/_më_ “a (one)”, _քանի մը_/_kʼani më_ “another” are tagged [DET]() rather than [NUM](). Therefore their relation to the quantified noun is not `nummod` but [det]():
+Note that indefinite quantifiers such as _մը_/_më_ “a, one”, _քանի մը_/_kʼani më_ “a few, several” are tagged [DET]() rather than [NUM](). Therefore their relation to the quantified noun is [det]() rather than `nummod`:
 
 ~~~ conllu
 # visual-style 3 1 det color:blue
@@ -49,13 +49,27 @@ Note that indefinite quantifiers such as _մը_/_më_ “a (one)”, _քանի �
 ## Additional remarks
 
 Note that two numeral words are joined using the [flat]() relation.
-Also note that intensifiers are attached to the head of the phrase and not to the number.
+Also note that intensifiers are attached to the number.
 This is in accord with the UD guidelines.
 
+~~~ conllu
+# visual-style 1 2 flat color:blue
+1	3	3	NUM	_	NumForm=Digit|NumType=Card	2	nummod	_	Translit=3|LTranslit=3
+2	հազար	հազար	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	flat	_	Translit=hazar|LTranslit=hazar
+3	աշակերտութեան	աշակերտութիւն	NOUN	_	Animacy=Hum|Case=Dat|Definite=Ind|Number=Coll	0	root	_	Translit=ašakertowt’ean|LTranslit=ašakertowt’iwn
+4	համար	համար	ADP	_	AdpType=Post	3	case	_	Translit=hamar|LTranslit=hamar
+~~~
+
+~~~ conllu
+# visual-style 2 1 advmod color:blue
+1	շուրջ	շուրջ	ADV	_	_	2	advmod	_	Translit=šowrǰ|LTranslit=šowrǰ
+2	չորս	չորս	NUM	_	NumForm=Word|NumType=Card	3	nummod	_	Translit=čors|LTranslit=čors
+3	ժամ	ժամ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	Translit=žam|LTranslit=žam
+~~~
 
 ## Dates
 
-Dates are annotated as follows: if in the following order, the day is the head, the month and the year are _flat_:
+Dates in the day–month–year order are annotated with the day as the head, while the month and year are attached to it with the `flat` relation:
 
 ~~~ conllu
 # visual-style 1 3 obl color:blue
@@ -66,12 +80,9 @@ Dates are annotated as follows: if in the following order, the day is the head, 
 3	1	1	NUM	_	NumForm=Digit|NumType=Card	1	obl	_	Translit=1|LTranslit=1
 4	Ապրիլ	Ապրիլ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	3	flat	_	Translit=April|LTranslit=April
 5	2019	2019	NUM	_	NumForm=Digit|NumType=Card	3	flat	_	Translit=2019|LTranslit=2019|SpaceAfter=No
-6	-	-	PUNCT	_	_	7	punct	_	Translit=-|LTranslit=-|SpaceAfter=No
-7	ին	ը	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Hyph=Yes|Number=Sing	5	dep	_	Translit=in|LTranslit=ë|SpaceAfter=No
-8	։	։	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 ~~~
 
 ## Numbered objects
 
-House number in address is attached as `nmod` to the name of the street:
+In addresses, a house number is attached to the street name with the `nmod` relation.
 
