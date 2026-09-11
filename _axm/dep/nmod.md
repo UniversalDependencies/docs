@@ -11,10 +11,7 @@ The `nmod` relation is used for nominal dependents of another noun or noun phras
 * [nmod:poss](): a noun modifier that functionally corresponds to a possessive complement,
 * [nmod:npmod](): a noun phrase functioning as a nominal modifier.
 
-In Middle Armenian `nmod` is used:
-
-* for noun-noun modification with an attributive or associative relations between them: `nmod` nouns attached to nouns are usually in the nominative [Case]() and may precede
-or follow the modified noun. 
+In Middle Armenian `nmod` is used for noun-noun modification with an attributive or associative relations between them: `nmod` nouns attached to nouns are usually in the nominative [Case]() and may precede or follow the modified noun. 
 
 ~~~ conllu
 # visual-style 2 1 nmod color:blue
@@ -22,7 +19,7 @@ or follow the modified noun.
 2	ծառ	ծառ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
 ~~~
 
-The `nmod` relation is further specified by the [case]() relation (associative modfication).
+An `nmod` dependent may itself be modified by a case-marking element attached with the [case]() relation (associative modification).
 
 ~~~ conllu
 # visual-style 2 1 nmod color:blue
@@ -31,5 +28,5 @@ The `nmod` relation is further specified by the [case]() relation (associative m
 3	նման	նման	ADP	_	AdpType=Post	2	case	_	_
 ~~~
 
-Note, that so-called “bare noun compounds” (e.g. _թղթակից անդամ_ “corresponding member”) are marked using the [compound]() relation.
+Note that so-called “bare noun compounds” are marked using the [compound]() relation.
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:16 CEST -->
