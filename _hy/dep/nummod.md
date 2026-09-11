@@ -38,6 +38,13 @@ fixed(some, many)
 
 ## Additional remarks
 
+
+Note that the two numeral words in the above example are joined using the [flat]() relation.
+Also note that the [intensifier](advmod:emph) _ևս_ is attached to the head of the phrase _(դրամ)_ and not to the number.
+This is in accord with the UD guidelines.
+Similarly there may be other nodes (such as punctuation) that are attached to the head of the phrase
+and they are related to the whole phrase rather than directly to the head noun:
+
 ~~~ sdparse
 50 միլիոն դրամ \n 50 million dram
 nummod(դրամ, 50-1)
@@ -65,13 +72,6 @@ nummod(drams, 50-7)
 flat(50-7, thousand)
 advmod:emph(drams, at-most)
 ~~~
-
-Note that the two numeral words in the above example are joined using the [flat]() relation.
-Also note that the [intensifier](advmod:emph) _ևս_ is attached to the head of the phrase _(դրամ)_ and not to the number.
-This is in accord with the UD guidelines.
-
-Similarly there may be other nodes (such as punctuation) that are attached to the head of the phrase
-and they are related to the whole phrase rather than directly to the head noun:
 
 ~~~ sdparse
 ( 9 օր ) \n ( 9 days )
