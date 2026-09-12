@@ -35,10 +35,10 @@ Ablative example:
 6	Մոդիանոյի	Մոդիանո	PROPN	_	Animacy=Hum|Case=Dat|Definite=Ind|NameType=Sur|Number=Sing	5	flat:name	_	Translit=Modianoyi|LTranslit=Modiano
 7	գրքերից	գիրք	NOUN	_	Animacy=Nhum|Case=Abl|Definite=Ind|Number=Plur	3	obl	_	Translit=grk’eric’|LTranslit=girk’
 8	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
-
 ~~~
+
 ##
-IIf there is just one object, it should likely be [obj]() unless it is morphosyntactically more similar to clear cases of [iobj](). This is an amended policy as described [on the changes page](https://universaldependencies.org/changes.html#sole-iobj).
+If there is just one object, it should likely be [obj]() unless it is morphosyntactically more similar to clear cases of [iobj](). This is an amended policy as described [on the changes page](https://universaldependencies.org/changes.html#sole-iobj).
 If there are two or more objects, one of them should be `obj` and the others should be [iobj](). In such cases it is necessary to decide what is the most
 directly affected object _(patient)._ When there is a [clausal complement](ccomp), then it is regarded as a “clausal direct object” and an object nominal will be an `iobj`.
 
