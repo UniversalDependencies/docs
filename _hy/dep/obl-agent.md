@@ -36,4 +36,5 @@ The relation `obl:agent` is used for agents of passive verbs. They are mainly ex
 14	մեծամասնությամբ	մեծամասնություն	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Coll	6	obl:agent	_	Translit=meçamasnowt’yamb|LTranslit=meçamasnowt’yown|SpaceAfter=No
 15	:	:	PUNCT	_	Foreign=Yes	6	punct	_	Translit=.|LTranslit=.
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:31 CEST -->
