@@ -5,9 +5,8 @@ shortdef: 'agentive object'
 udver: '2'
 ---
 
-In a causative construction, the `obj:agent` relation attaches the content verb to his agent, when the latter is the syntactic object of the sentence
-(this initial agent has been demoted and became the object of the causative construction).
-For example, in the following sentence, _իրաւունք_ and _արդարութիւն_ are the semantic agents of the causative construction _իշխել տալ_/_išxel tal_ 'to allow to reign' (_իրաւունքն ու արդարութիւնը իշխեցին_/_irawownk’n ow ardarowt’iwnë išxec’in_ 'Right and justice reigned.').
+In a causative construction, the `obj:agent` relation attaches the content verb to the agent of the action it denotes when this agent is realized as the syntactic object of the causative construction (this initial agent agent is demoted and becomes the object of the causative construction).
+For example, in the following sentence, _իրաւունք_ and _արդարութիւն_ are the semantic agents of the infinitive _իշխել_/_išxel_ “to reign” in the causative construction _իշխել տալ_/_išxel tal_ 'to allow to reign' (_իրաւունքն ու արդարութիւնը իշխեցին_/_irawownk’n ow ardarowt’iwnë išxec’in_ 'Right and justice reigned.').
 Note that synthetic causatives derived from middle verbs are treated as regular active verbs rather than causative verbs; therefore, the `obj:agent` relation is not used with them.
 
 ~~~ conllu
@@ -24,5 +23,6 @@ Note that synthetic causatives derived from middle verbs are treated as regular 
 10	մէջ	մէջ	ADP	_	AdpType=Post	9	case	_	Translit=mēǰ|LTranslit=mēǰ|SpaceAfter=No
 ~~~
 
-The infinitive verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation.
+When overtly expressed, the syntactic subject of the causative construction (i.e. the causer) is attached to the infinitive with the [nsubj:caus]() relation.
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:28 CEST -->
