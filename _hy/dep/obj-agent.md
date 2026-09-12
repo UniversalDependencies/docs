@@ -4,10 +4,8 @@ title: 'obj:agent'
 shortdef: 'agentive object'
 udver: '2'
 ---
-
-In a causative construction, the `obj:agent` relation attaches the content verb to his agent, when the latter is the syntactic object of the sentence
-(this initial agent has been demoted and became the object of the causative construction).
-For example, in the following sentence, _աշակերտին_/_ašakertin_ 'the student(Dat)' is the semantic agent of the analytical causative verb _մտնել տվեց_/_mtnel tvec’_ “caused to enter” (_Աշակերտը մտավ։_/_Ašakertë mtav._ 'The student entered').
+In a causative construction, the `obj:agent` relation attaches the content verb to the agent of the action it denotes when this agent is realized as the syntactic object of the causative construction (this initial agent is demoted and becomes the object of the causative construction).
+For example, in the following sentence, _աշակերտին_/_ašakertin_ “the student(Dat)” is the semantic agent of the infinitive _մտնել_/_mtnel_ “to enter” in the causative construction _մտնել տվեց_/_mtnel tvec’_ “caused to enter” (_Աշակերտը մտավ։_/_Ašakertë mtav._ “The student entered”).
 This nominal phrase can be pronominalized as follows: _Ուսուցիչը մտնել տվեց նրան դասարան_. The use of the pronoun _նրան_ clearly shows that _աշակերտին_ is the syntactical object of the sentence.
 Note that synthetic causatives derived from middle verbs (_մտցրեց_/_mtc’rec’_) are treated as regular active verbs rather than causative verbs; therefore, the `obj:agent` relation is not used with them.
 
