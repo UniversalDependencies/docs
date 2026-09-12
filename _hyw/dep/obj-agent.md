@@ -5,8 +5,8 @@ shortdef: 'agentive object'
 udver: '2'
 ---
 
-In a causative construction, the `obj:agent` relation attaches the content verb to the agent of the action it denotes when this agent is realized as the syntactic object of the causative construction (this initial agent agent is demoted and becomes the object of the causative construction).
-For example, in the following sentence, _իրաւունք_ and _արդարութիւն_ are the semantic agents of the infinitive _իշխել_/_išxel_ “to reign” in the causative construction _իշխել տալ_/_išxel tal_ 'to allow to reign' (_իրաւունքն ու արդարութիւնը իշխեցին_/_irawownk’n ow ardarowt’iwnë išxec’in_ 'Right and justice reigned.').
+In a causative construction, the `obj:agent` relation attaches the content verb to the agent of the action it denotes when this agent is realized as the syntactic object of the causative construction (this initial agent is demoted and becomes the object of the causative construction).
+For example, in the following sentence, _իրաւունք_/_irawownkʼ_ “right” and _արդարութիւն_/_ardarowtʼiwn_ “justice” are the semantic agents of the infinitive _իշխել_/_išxel_ “to reign” in the causative construction _իշխել տալ_/_išxel tal_ “to allow to reign” (_իրաւունքն ու արդարութիւնը իշխեցին_/_irawownk’n ow ardarowt’iwnë išxec’in_ “right and justice reigned”).
 Note that synthetic causatives derived from middle verbs are treated as regular active verbs rather than causative verbs; therefore, the `obj:agent` relation is not used with them.
 
 ~~~ conllu
