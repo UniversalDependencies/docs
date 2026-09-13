@@ -5,11 +5,11 @@ shortdef: 'oblique nominal'
 udver: '2'
 ---
 
-The `obl` relation is used for a nominal (noun, pronoun, noun phrase) functioning as a non-core (oblique) argument or adjunct. This means that it functionally corresponds to an adverbial attaching to a verb, adjective or other adverb.
+The `obl` relation is used for a nominal (noun, pronoun, noun phrase) functioning as a non-core (oblique) argument or adjunct. This means that it functionally corresponds to an adverbial modifying a verb, adjective or another adverb.
 
 The `obl` relation can be further specified by the case. In conjunction with the [case]() relation, it provides a uniform analysis for:
 
-* variant forms with case:
+* oblique nominals with case-marking adpositions:
 
 ~~~ conllu
 # visual-style 1 6 obl color:blue
@@ -20,10 +20,10 @@ The `obl` relation can be further specified by the case. In conjunction with the
 5	մեր	մենք	DET	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	det:poss	_	Translit=mer|LTranslit=menk’
 6	գեղին	գեղ	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Def|Number=Sing	1	obl	_	Translit=geġin|LTranslit=geġ
 7	մէջ	մէջ	ADP	_	AdpType=Post	6	case	_	Translit=mēǰ|LTranslit=mēǰ|SpaceAfter=No
-8	.	.	PUNCT	_	_	13	punct	_	Translit=.|LTranslit=.
+8	.	.	PUNCT	_	_	1	punct	_	Translit=.|LTranslit=.
 ~~~
 
-* Nominative, dative, ablative, and instrumental alternations where the prepositional construction gets a similar analysis to the bare noun phrase:
+* nominative, dative, ablative, and instrumental alternations in which an adpositional construction receives the same type of analysis as the corresponding bare noun phrase:
 
 ~~~ conllu
 # visual-style 5 4 obl color:blue
@@ -68,8 +68,8 @@ The `obl` relation can be further specified by the case. In conjunction with the
 8	մը	մը	DET	_	PronType=Art	7	det	_	Translit=më|LTranslit=më
 ~~~
 
-* `obl` is also used for temporal and locational nominal modifiers as bare nominals or something syntactically a noun phrase in a sentence:
-
+* `obl` is also used for temporal and locational modifiers realized as bare nominals or other noun phrases:
+  
 ~~~ conllu
 # visual-style 4 2 obl color:blue
 1	Ամէն	ամէն	DET	_	ExtPos=DET|PronType=Tot	2	det	_	Translit=Amēn|LTranslit=amēn
@@ -88,4 +88,6 @@ The `obl` relation can be further specified by the case. In conjunction with the
 
 Note that we treat a closed set of postpositions (traditionally known as “improper adpositions”) as localizers (see [ADP]() for a list of localizers.) The head of the localizer is the noun or the main verb of the clause preceding it. When it follows a noun, it receives the [case:loc]() relation label. Although a few localizers have further grammaticalized into adverbials denoting spatial concepts, localizers with the adverbial function are still tagged as `ADP`, but are labeled with additional features and with the dependency relation `obl`.
 
-We use [obl:agent]() for the agent of a passive verbs. Note, that the `obl` relation is used for the oblique arguments instead of [obj]() (i.e., prepositional objects, in Armenian grammar traditionally called _adpositional indirect objects_.)
+We use [obl:agent]() for the agent of a passive verb. Note that the `obl` relation is used for oblique arguments instead of [obj]() (including prepositional objects, traditionally called _adpositional indirect objects_ in Western Armenian grammar).
+
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:30 CEST -->
