@@ -23,15 +23,9 @@ parataxis(գնացել, ասաց)
 parataxis(left, said)
 ~~~
 
-There are paraphrases that convey essentially the same meaning but
-with a different syntactic structure. When the reported speech is embedded in a subordinate clause (with or 
-without an overt complementizer _որ_ “that”), the subordinate clause is a [ccomp]() of the speech verb. When the
-reported speech follows the speech verb and is separated by a colon, the reported speech forms a main clause
-that attaches to the preceding main clause with a [parataxis]() relation, hence with the speech verb as its head.
-However, when the speech verb occurs as a medial or final parenthetical, the relation is reversed and the speech
-verb is treated as a [parataxis]() of the reported speech. 
-This analysis is not uncontroversial but follows many authorities, such as Huddleston and Pullum (2002),
-_The Cambridge Grammar of the English Language_ (see chapter 11, section 9).
+There are paraphrases that convey essentially the same meaning but with a different syntactic structure. When the reported speech is embedded in a subordinate clause (with or without an overt complementizer _որ_ “that”), the subordinate clause is a [ccomp]() of the speech verb. When the reported speech follows the speech verb and is separated by a colon, the reported speech forms a main clause that attaches to the preceding main clause with a [parataxis]() relation, hence with the speech verb as its head.
+However, when the speech verb occurs as a medial or final parenthetical, the relation is reversed and the speech verb is treated as a [parataxis]() of the reported speech. 
+This analysis is not uncontroversial but follows many authorities, such as Huddleston and Pullum (2002), _The Cambridge Grammar of the English Language_ (see chapter 11, section 9).
 
 ~~~ sdparse
 Ծերունին ասաց , որ տղան գնացել է վաղ առավոտյան ։ \n The-old-man said , that the-guy has left early in-the-morning.
