@@ -80,14 +80,4 @@ Some geographical or biological/botanical names appear only in the plural form e
 * _<b>երանք</b>_/_erank’_ “loins”
 * _<b>մեղանք</b>_/_meġank’_ “wickedness”
 
-  
-### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
-
-Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. Although in Armenian they are able to form plural, in practice the plural form means “several sorts of” or “several packages of”. We mark these forms as `Plur`.
-
-#### Examples:
-
-* _<b>դահութիւն</b>_/_dahowt’iwn_ “old age”
-* _<b>խիփ</b>_/_xip’_ “shame, reverence”
-* _<b>պօղպատ</b>_/_pòġpat_ “steel”
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:04 CEST -->
