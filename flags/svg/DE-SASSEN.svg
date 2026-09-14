@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Ebene_1" data-name="Ebene 1" viewBox="0 0 3000 2000">
+  <rect width="3000" height="2000" fill="#fff"></rect>
+  <polygon points="0 1000 0 0 3000 1000 0 1000" fill="#c00"></polygon>
+  <polygon points="0 1000 0 2000 3000 2000 3000 1000 0 2000 0 1000" fill="#c00"></polygon>
+</svg>
