@@ -4,13 +4,13 @@ title:  'Low Saxon UD'
 udver: '2'
 ---
 
-# UD for Low Saxon <span class="flagspan"><img class="flag" src="../../flags/svg/DE-HANNOVER.svg" /></span>
+# UD for Low Saxon <span class="flagspan"><img class="flag" src="../../flags/svg/DE-SASSEN.svg" /></span>
 
 ## Introduction
 
 A part of this documentation is copied from the current German documentation [UD for German](https://universaldependencies.org/de/index.html), which can mostly be applied to Low Saxon as well.
 
-Since there is no official interregional spelling for Low Saxon, the examples provided here are given in the interregional spelling used e.g. by the Dutch Low Saxon Wikipedia (_Nysassiske Skryvwyse_, described in more detail here: https://skryvwyse.eu/ (only in Low Saxon)) and lemma forms are given in both the _Nysassiske Skryvwyse_ and normalised Middle Low Saxon following the _Mittelniederdeutsches Handwörterbuch_ by Agathe Lasch et al. 
+Since there is no official interregional spelling for Low Saxon, the examples provided here are given in the interregional spelling used e.g. by the Dutch Low Saxon Wikipedia (_Nysassiske Skryvwyse_, described in more detail here: https://skryvwyse.eu/ (only in Low Saxon)) and lemma forms are given in both the _Nysassiske Skryvwyse_ and normalised Middle Low Saxon following the _Mittelniederdeutsches Handwörterbuch_ by Agathe Lasch et al.
 
 ## Tokenization and Word Segmentation
 
@@ -47,7 +47,7 @@ Since there is no official interregional spelling for Low Saxon, the examples pr
 ### Features
 #### Nominal Features
 
-* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of two or three values: `Masc`, `Fem` or `Neut`. Most dialects preserve three genders, while in some, `Masc` and `Fem` have merged. 
+* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of two or three values: `Masc`, `Fem` or `Neut`. Most dialects preserve three genders, while in some, `Masc` and `Fem` have merged.
   * The following parts of speech inflect for `Gender` because they must agree with nouns: [ADJ](), [DET](),
     [VERB](), [AUX](). For verbs (including auxiliaries), only participles can inflect for gender. Finite verbs don't.
 * The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
@@ -69,10 +69,10 @@ Since there is no official interregional spelling for Low Saxon, the examples pr
   * In the subjunctive mood, the tense feature is used to distinguish _konjunktiv I_ (`Pres`) and _konjunktiv II_ (`Past`).
   * Imperative forms do not have the `Tense` feature.
   * The `Tense` feature is also used to distinguish present and past participles (_singen(d)_ “singing” vs. _sungen_ “sung”).
-* In the plural, verbs do not commonly distinguish person and consequently are only tagged for `Plur`. Some dialects may show occasional exceptions to this rule in particular verbs (maybe due to influence from German or Dutch?), in which case the person should be tagged. 
+* In the plural, verbs do not commonly distinguish person and consequently are only tagged for `Plur`. Some dialects may show occasional exceptions to this rule in particular verbs (maybe due to influence from German or Dutch?), in which case the person should be tagged.
 * The features [Aspect]() and [Voice]() are not used in Low Saxon because
   both the perfect aspect and the passive voice are expressed periphrastically.
-  
+
 
 #### Pronouns, Determiners, Quantifiers
 
@@ -88,7 +88,7 @@ Since there is no official interregional spelling for Low Saxon, the examples pr
   * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
 * The [Polite]() feature distinguishes informal second-person pronouns (_du_/_dû¹_, _jy_/_gî²_, `Polite=Infm`)
   from the formal _Jy_/_gî²_ and _See_/_sê²_ (`Polite=Form`).
-  The formal pronoun _Jy_/_gî²_ is phonologically equivalent in all its case forms to the second-person plural _Jy_/_gî²_, 
+  The formal pronoun _Jy_/_gî²_ is phonologically equivalent in all its case forms to the second-person plural _Jy_/_gî²_,
   and the formal pronoun _See_/_sê²_ is phonologically equivalent in part of its case forms to the third-person plural _see_/_sê²_,
   but they are distinguished in orthography by the capital letters _J_ and _S_.
   We tag the formal pronoun _See_/_sê²_ as second person (because this is its meaning) and we do not tag formal pronouns for number (because they are used both
@@ -109,8 +109,8 @@ Since there is no official interregional spelling for Low Saxon, the examples pr
   * If a verb is to serve as the subject, it becomes a verbal noun
     (its form resembles the infinitive, or especially in older variants of the language the present participle, but it gets the neuter singular nominative article),
     thus it is labeled `nsubj`.
-* Objects defined in the Low Saxon grammar may be bare noun phrases in accusative, and in dialects which have preserved the dative-accusative distinction, a dative object is possible as well. Bare genitive phrases do not generally occur as objects in the modern language anymore. 
-  Prepositional phrases in accusative (or also dative, in some dialects) can function as objects as well. 
+* Objects defined in the Low Saxon grammar may be bare noun phrases in accusative, and in dialects which have preserved the dative-accusative distinction, a dative object is possible as well. Bare genitive phrases do not generally occur as objects in the modern language anymore.
+  Prepositional phrases in accusative (or also dative, in some dialects) can function as objects as well.
   For the purpose of UD the objects are divided to core objects, labeled [obj]() or [iobj](),
   and oblique objects, labeled [obl:arg]().
   * Bare accusative (and dative) objects are considered core.
