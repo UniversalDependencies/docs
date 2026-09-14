@@ -72,6 +72,13 @@ For further discussion of the reported speech, see [ccomp]().
 
 We have used the parataxis relation to connect the parts of a news article byline. 
 
+~~~ conllu
+# visual-style 1 3 parataxis color:blue
+1 Երեւան	Երեւան	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	0	root	_	Translit=Erewan|LTranslit=Erewan
+2 (	(	PUNCT	_	_	3	punct	_	Translit=(|LTranslit=(|SpaceAfter=No
+3 Արմենպրես	Արմենպրես	PROPN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Com|Number=Sing	1	parataxis	_	Translit=Armenpres|LTranslit=Armenpres|SpaceAfter=No
+4 )	)	PUNCT	_	_	3	punct	_	Translit=)|LTranslit=)
+~~~
 
 ### Interjected clauses
 
@@ -99,6 +106,8 @@ Single word or phrase interjections are analyzed as [discourse](), but when a wh
 
 We also use the parataxis relation for tag questions such as _այնպէս չէ՞_/_aynpēs čē?_ “isn't it?”
 
+~~~ conllu
+# visual-style 7 9 parataxis color:blue
 1	քանի	քանի	DET	_	ExtPos=DET|PronType=Int	3	det	_	Translit=k’ani|LTranslit=k’ani
 2	մը	մը	DET	_	PronType=Art	1	fixed	_	Translit=më|LTranslit=më
 3	միլիոն	միլիոն	NUM	_	NumForm=Word|NumType=Card	4	nummod	_	Translit=milion|LTranslit=milion
@@ -114,5 +123,3 @@ We also use the parataxis relation for tag questions such as _այնպէս չէ�
 ~~~
 
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:38 CEST -->
-
-
