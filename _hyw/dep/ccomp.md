@@ -65,15 +65,28 @@ Note that in constructions such as _բանն այն է, որ…_/_bann ayn ē, o
 With a speech verb like _ասել_/_asel_ “say”, the content of reported speech is considered to be part of the verb's valency. It therefore attaches as [ccomp]()—not only when integrated within the clause as an indirect quotation (_said that..._), but also when set off as a direct quotation, even with inverted order:
 
 ~~~ conllu
-# visual-style
-
+# visual-style 8 4 ccomp color:blue
+1	—	—	PUNCT	_	_	4	punct	_	Translit=—|LTranslit=—
+2-3	Ի՞նչ	_	_	_	_	_	_	_	Translit=I?nč
+2	Ինչ	ինչ	PRON	_	Case=Nom|Definite=Ind|Number=Sing|PronType=Int	4	obj	_	Translit=Inč|LTranslit=inč
+3	՞	՞	PUNCT	_	_	2	punct	_	Translit=?|LTranslit=?
+4	ունիս	ունիմ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	Translit=ownis|LTranslit=ownim
+5	հոս	հոս	ADV	_	Deixis=Prox|PronType=Dem	4	advmod	_	Translit=hos|LTranslit=hos|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,|SpaceAfter=No
+7	—	—	PUNCT	_	_	8	punct	_	Translit=—|LTranslit=—
+8	գոչեցի	գոչել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Intr|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Translit=gočec’i|LTranslit=gočel
 ~~~
 
 Quoted content is considered to be [ccomp]() even if it is a sentence fragment:
 
 ~~~ conllu
-# visual-style
-
+# visual-style 
+1	—	—	PUNCT	_	_	2	punct	_	Translit=—|LTranslit=—
+2	Կարգադրեցի	կարգադրել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=Kargadrec’i|LTranslit=kargadrel|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,|SpaceAfter=No
+4	—	—	PUNCT	_	_	5	punct	_	Translit=—|LTranslit=—
+5	պատասխանեց	պատասխանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	Translit=patasxanec’|LTranslit=patasxanel|SpaceAfter=No
+6	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 ~~~
 
 If the speech verb interrupts the reported speech content, [parataxis]() is used instead. The speech verb attaches to the root of the reported speech
@@ -82,3 +95,4 @@ If the speech verb interrupts the reported speech content, [parataxis]() is used
 # visual-style
 
 ~~~
+
