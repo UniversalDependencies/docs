@@ -6,20 +6,20 @@ udver: '2'
 ---
 
 The `orphan` relation is used to provide a satisfactory treatment of certain instances of
-[ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis) where simple promotion would result in unnatural and misleading dependency relation (in the case of gapping and stripping, where a predicational or verbal head gets elided).
+[ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis) where simple promotion would result in an unnatural and misleading dependency relation (in the case of gapping and stripping, where a predicational or verbal head is elided).
 
 ~~~ conllu
 # visual-style 7 8 orphan color:blue
-1	Մեր	մենք	DET	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	det:poss	_	Translit=Mer|LTranslit=menk’
-2	շրթները	շուրթ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	3	nsubj	_	Translit=šrt’nerë|LTranslit=šowrt’
-3	մաքուր	մաքուր	ADJ	_	Degree=Pos	0	root	_	Translit=mak’owr|LTranslit=mak’owr
-4	են	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	Translit=en|LTranslit=em
-5	ու	ու	CCONJ	_	_	7	cc	_	Translit=ow|LTranslit=ow
-6	մեր	մենք	DET	_	Case=Gen|Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	det:poss	_	Translit=mer|LTranslit=menk’
-7	թաթիկները	թաթիկ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur|Style=Expr	3	conj	_	Translit=t’at’iknerë|LTranslit=t’at’ik
-8	անմեղ	անմեղ	ADJ	_	Degree=Pos	7	orphan	_	Translit=anmeġ|LTranslit=anmeġ|SpaceAfter=No
-9	։	։	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.
+1	ես	ես	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Translit=es|LTranslit=es
+2	հաւաքեցի	հաւաքել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=hawak’ec’i|LTranslit=hawak’el
+3	մէկ	մէկ	NUM	_	NumForm=Word|NumType=Card	4	nummod	_	Translit=mēk|LTranslit=mēk
+4	ձայն	ձայն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	obj	_	Translit=jayn|LTranslit=jayn|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	Translit=,|LTranslit=,
+6	կինս	կին	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	2	conj	_	Translit=kins|LTranslit=kin
+7	երեք	երեք	NUM	_	NumForm=Word|NumType=Card	8	nummod	_	Translit=erek’|LTranslit=erek’
+8	ձայն	ձայն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	6	orphan	_	Translit=jayn|LTranslit=jayn
 ~~~
 
-In this example...
+In this example, the subject _կինս_/_kins_ “my wife” is promoted to the head position in the second conjunct. Attaching the object _ձայն_/_jayn_ “vote” to the subject is necessary to preserve the integrity of the clause, but using the standard relation [obj]() would be misleading because _ձայն_ “vote” is not the object of _կինս_ “my wife”. Therefore, the `orphan` relation is used to indicate that this is a non-standard attachment.
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:38 CEST -->
