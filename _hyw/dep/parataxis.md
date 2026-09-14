@@ -74,10 +74,10 @@ We have used the parataxis relation to connect the parts of a news article bylin
 
 ~~~ conllu
 # visual-style 1 3 parataxis color:blue
-1 Երեւան	Երեւան	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	0	root	_	Translit=Erewan|LTranslit=Erewan
-2 (	(	PUNCT	_	_	3	punct	_	Translit=(|LTranslit=(|SpaceAfter=No
-3 Արմենպրես	Արմենպրես	PROPN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Com|Number=Sing	1	parataxis	_	Translit=Armenpres|LTranslit=Armenpres|SpaceAfter=No
-4 )	)	PUNCT	_	_	3	punct	_	Translit=)|LTranslit=)
+1	Երեւան	Երեւան	PROPN	_	Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing	0	root	_	Translit=Erewan|LTranslit=Erewan
+2	(	(	PUNCT	_	_	3	punct	_	Translit=(|LTranslit=(|SpaceAfter=No
+3	Արմենպրես	Արմենպրես	PROPN	_	Abbr=Yes|Animacy=Nhum|Case=Nom|Definite=Ind|NameType=Com|Number=Sing	1	parataxis	_	Translit=Armenpres|LTranslit=Armenpres|SpaceAfter=No
+4	)	)	PUNCT	_	_	3	punct	_	Translit=)|LTranslit=)
 ~~~
 
 ### Interjected clauses
