@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 The `orphan` relation is used to provide a satisfactory treatment of certain instances of
-[ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis) where simple promotion would result in unnatural and misleading dependency relation (in the case of gapping and stripping, where a predicational or verbal head gets elided).
+[ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis) where simple promotion would result in an unnatural and misleading dependency relation (in the case of gapping and stripping, where a predicational or verbal head is elided).
 
 ~~~ sdparse
 Դավիթը սուրճ խմեց , իսկ Մերին ՝ թեյ ։ \n David drank coffee and Mary - tea .
