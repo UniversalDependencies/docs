@@ -8,10 +8,8 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Cnd">Cnd</a></td>
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
-  <td><a href="#Nec">Nec</a></td>
   <td><a href="#Sub">Sub</a></td>
 </tr>
 </table>
@@ -50,26 +48,6 @@ The speaker uses the imperative to order or ask the addressee to do the action o
 * _<b>կատարէ՛</b> զգործքդ_/_<b>katarē՛</b> zgorçkʼd_ “do your work!”,
 * _<b>խմէ՛ք</b>_/_<b>xmē՛kʼ</b>_ “drink!” (plural).
 
-### <a name="Cnd">`Cnd`</a>: conditional
-
-The conditional mood is used to express actions performed under certain conditions or hypothetically, but it may also express an action that is certain to occur.
-In Middle Armenian it combines with two different tenses (present and imperfect).
-
-Note that in Middle Armenian the present and imperfect tenses of the conditional mood have the same forms as the present and imperfect tenses of the indicative mood․ They cannot be distinguished without context.
-
-The negation of the conditional mood is formed periphrastically using the special form of the main verb (traditionally called _negative participle_) and the negated auxiliary _չեմ_ “not to be”. It may also be formed with the infinitive with or without the preposition _ի_, as in the indicative mood. 
-The main verb is marked as [Connegative](). 
-
-#### Examples
-
-* _<b>կու երթանք</b>_/_<b>kow ertʼankʼ</b>_ “we <b>will</b> go/we <b>go</b>”,
-* _<b>կելանեմ</b>_/_<b>kelanem</b>_ “<b>I will come out/I come out</b>”,
-* _<b>կոյ մտանեմ</b>_/_<b>koy mtanem</b>_ “<b>I will enter/I enter</b>”,
-* _Որդունքն <b>չեն</b> ինձ <b>ողորմիլ</b>_/_Ordownkʼn <b>čen</b> inj <b>oġormil</b>_ “The sons will not (do not) pity me”,
-* _նայ <b>չէր</b> կրկին <b>յետս դառնալ</b>_/_nay čēr krkin yets daṙnal_ “He would not come back again”,
-* _նա <b>չի այրիր</b>_/_na či ayrir_ “he/she <b>will not burn/does not burn</b>”.
-
-
 ### <a name="Sub">`Sub`</a>: subjunctive / conjunctive / optative
 
 The subjunctive mood is used primarily in subordinate clauses, typically for actions that are subjective or otherwise uncertain.
@@ -81,22 +59,6 @@ In some contexts the mood also expresses the desire that the action happens; it 
 * _<b>լուսանայր</b>_/_lowsanayr_ “(I wish) it would dawn”,
 * _<b>տուն մտնուի</b>_/_town mtnowi_ “(I would like) to enter the house”.
 
-### <a name="Nec">`Nec`</a>: necessitative
+Note that in Middle Armenian, conditional and necessitative meanings are expressed by means of the corresponding auxiliary verbs. For more information, see [AUX]().
 
-The necessitative mood expresses necessity and corresponds to the modal verbs “must, should, have to”.
-
-Middle Armenian has present and imperfect necessitative, both formed periphrastically using the mood particle _<b>պիտի</b>/piti_ or its reduced forms _<b>պիտ/pit, տի</b>/ti_. The content verb expresses person, number, tense, aspect, voice and is in subjunctive mood (present/imperfect tense forms of indicative mood in Classical Armenian).
-
-The mood particle _<b>պիտի</b>_/_piti_ is historically the present tense of the verb _<b>պիտիմ</b>_/_pitim_ (`Ind`, `Sing`, `Person=3`) “to be necessary, useful”. It expresses compulsory, obligative necessity.
-
-The content verb is not marked as necessitative because it can also be used in present or imperfect subjunctive.
-
-Note that the mood particle is viewed as [AUX]() and can inflect for [Polarity]() (e.g. _<b>չ</b>պիտի_/_čpiti_). It will have `Mood=Nec`. 
-
-#### Examples
-
-* _<b>պիտի</b> եփի_/_piti ep’i_ “it <b>must</b> be cooked”,
-* _<b>պիտի</b> հեռանաս_/_piti heṙanas_ “(you) <b>have</b> to go away”,
-* _<b>տի</b> բերէր_/_ti berēr_ “(he/she/it) <b>had</b> to bring”
-* _երդմանն <b>չպիտի</b> աւտալ_/_erdmann čpiti awtal_ one must not believe the oath.
   <!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->
