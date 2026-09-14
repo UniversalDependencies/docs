@@ -11,7 +11,7 @@ The parataxis relation (from Greek for “place side by side”) is a relation b
 
 ### Side-by-side sentences ("run-on sentences")
 
-The parataxis relation is used for a pair of what could have been standalone sentences, but which are being treated together as a single sentence. This may happen because sentence segmentation of the sentence was done primarily following the presence of sentence-final punctuation, and these clauses are joined by punctuation such as a colon or comma, or not delimited by punctuation at all.
+The parataxis relation is used for a pair of what could have been standalone sentences, but which are being treated together as a single sentence. This may happen because sentence segmentation of the sentence was done primarily following the presence of sentence-final punctuation, and these clauses are joined by punctuation such as a colon or comma, or not delimited by punctuation at all. Note that in Western Armnian, two coordinate clauses in a sentence can be separated with Armenian colon “.”. We do not use the [conj]() relation, but [parataxis]() to connect these clauses, if they are rather independent from each other semantically.
 
 ~~~ conllu
 # visual-style 6 1 parataxis color:blue
@@ -95,11 +95,24 @@ Single word or phrase interjections are analyzed as [discourse](), but when a wh
 14	։	։	PUNCT	_	_	10	punct	_	Translit=.|LTranslit=.
 ~~~
 
-### Tag questions 
+### Tag questions
 
-We also use the parataxis relation for tag questions such as _isn't it?_
+We also use the parataxis relation for tag questions such as _այնպէս չէ՞_/_aynpēs čē?_ “isn't it?”
 
-Note that in Armnian two coordinate clauses in a sentence can be separated with Armenian colon “.”. We do not use the [conj]() relation, but [parataxis]() to connect these clauses, if they are rather independent from each other semantically.
+1	քանի	քանի	DET	_	ExtPos=DET|PronType=Int	3	det	_	Translit=k’ani|LTranslit=k’ani
+2	մը	մը	DET	_	PronType=Art	1	fixed	_	Translit=më|LTranslit=më
+3	միլիոն	միլիոն	NUM	_	NumForm=Word|NumType=Card	4	nummod	_	Translit=milion|LTranslit=milion
+4	զոհ	զոհ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	7	obj	_	Translit=zoh|LTranslit=zoh
+5	աւելի	աւելի	ADV	_	Degree=Cmp	4	advmod:emph	_	Translit=aweli|LTranslit=aweli
+6	պիտի	պիտի	AUX	_	Aspect=Prosp|Mood=Ind|Polarity=Pos	58	aux	_	Translit=piti|LTranslit=piti
+7	ունենար	ունենալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	Translit=ownenar|LTranslit=ownenal|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	Translit=,|LTranslit=,
+9	այնպէս	այնպէս	ADV	_	Deixis=Remt|PronType=Dem	7	parataxis	_	Translit=aynpēs|LTranslit=aynpēs
+10-11	չէ՞	_	_	_	_	_	_	_	Translit=čē?|SpaceAfter=No
+10	չէ	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	9	cop	_	Translit=čē|LTranslit=em
+11	՞	՞	PUNCT	_	_	10	punct	_	Translit=?|LTranslit=?
+~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:38 CEST -->
 
 
