@@ -6,8 +6,7 @@ udver: '2'
 ---
 
 The `orphan` relation is used to provide a satisfactory treatment of certain instances of
-[ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis) where simple promotion would result in unnatural and misleading dependency relation (in the case of gapping and stripping, where a predicational or verbal
-head gets elided).
+[ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis) where simple promotion would result in an unnatural and misleading dependency relation (in the case of gapping and stripping, where a predicational or verbal head is elided).
 
 ~~~ conllu
 # visual-style 11 14 orphan color:blue
@@ -27,8 +26,6 @@ head gets elided).
 14	դժնիկ	դժնիկ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	11	orphan	_	_
 ~~~
 
-In this example, the subject _հոտն_ “odor” is promoted to the head position in the second conjunct. Attaching the predicate (without copula) _դժնիկ_ “buckthorn” to the
-subject is necessary to preserve the integrity of the clause, but using the standard relation [nsubj]() would be misleading because _դժնիկ_ “buckthorn” can't be the 
-predicate of _հոտն_ “odor” without the copula. Therefore, the `orphan` relation is used to indicate that this is a non-standard attachment. By contrast, the coordinating 
-conjunction _եւ_ “and” performs essentially the same function as in the non-elliptical case and therefore retains its normal relation [cc]().
+In this example, the subject _հոտն_/_hotn_ “odor” is promoted to the head position in the second conjunct. Attaching the predicate (without copula) _դժնիկ_/_džnik_ “buckthorn” to the subject is necessary to preserve the integrity of the clause, but using the standard relation [nsubj]() would be misleading because _դժնիկ_ “buckthorn” can't be the predicate of _հոտն_ “odor” without the copula. Therefore, the `orphan` relation is used to indicate that this is a non-standard attachment. By contrast, the coordinating conjunction _եւ_ “and” performs essentially the same function as in the non-elliptical case and therefore retains its normal relation [cc]().
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:37 CEST -->
