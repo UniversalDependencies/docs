@@ -82,17 +82,28 @@ Quoted content is considered to be [ccomp]() even if it is a sentence fragment:
 ~~~ conllu
 # visual-style 5 2 ccomp color:blue
 1	—	—	PUNCT	_	_	2	punct	_	Translit=—|LTranslit=—
-2	Հայրդ	հայր	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	5	ccomp	_	Translit=Hayrd|LTranslit=hayr|SpaceAfter=No
+2	Կարգադրեցի	կարգադրել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	Translit=Kargadrec’i|LTranslit=kargadrel|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,|SpaceAfter=No
 4	—	—	PUNCT	_	_	5	punct	_	Translit=—|LTranslit=—
-5	ըսին	ըսել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=ësin|LTranslit=ësel
-6	իրեն	ինք	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Emp	5	obj	_	Translit=iren|LTranslit=ink’
+5	պատասխանեց	պատասխանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=patasxanec’|LTranslit=patasxanel|SpaceAfter=No
+6	։	։	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
 ~~~
 
 If the speech verb interrupts the reported speech content, [parataxis]() is used instead. The speech verb attaches to the root of the reported speech
 
 ~~~ conllu
-# visual-style
-
+# visual-style 2 4 parataxis color:blue
+1	—	—	PUNCT	_	_	2	punct	_	Translit=—|LTranslit=—
+2	Չուշանայ	ուշանալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	Translit=Čowšanay|LTranslit=owšanal|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	Translit=,|LTranslit=,
+4	աւելցուց	աւելցնել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	Translit=awelc’owc’|LTranslit=awelc’nel|SpaceAfter=No
+5	,	,	PUNCT	_	_	8	punct	_	Translit=,|LTranslit=,
+6	պարզապէս	պարզապէս	ADV	_	_	8	advmod:emph	_	Translit=parzapēs|LTranslit=parzapēs
+7	փոքր	փոքր	ADJ	_	Degree=Pos	8	amod	_	Translit=p’ok’r|LTranslit=p’ok’r
+8	ուշացում	ուշացում	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	conj	_	Translit=owšac’owm|LTranslit=owšac’owm
+9	մըն	մը	DET	_	PronType=Art	8	det	_	Translit=mën|LTranslit=më
+10	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	Translit=ē|LTranslit=em|SpaceAfter=No
+11	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 ~~~
 
+<!-- Interlanguage links updated Út 30. června 2026, 11:00:44 CEST -->
