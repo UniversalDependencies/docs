@@ -58,3 +58,27 @@ Such clausal complements may be finite or nonfinite. However, if the subject of 
 The key difference here is that, while the subject of the infinitive _կազմել_/_kazmel_ “to constitute, form part of” cannot be unambiguously identified with an argument of the higher predicate, in the second sentence the subject of _սատկեցնել_/_satkecʼnel_ can only be _յիմարապահներուն_/_yimarapahnerown_. This is what distinguishes ccomp and xcomp.
 
 Note that in constructions such as _բանն այն է, որ…_/_bann ayn ē, or…_ “the fact is that…”, the complement clause introduced by _որ_/_or_ is analyzed as [acl]() rather than `ccomp`. More generally, `ccomp` is not used with nominal heads, since nominals do not normally take core arguments.
+
+
+### Reported Speech
+
+With a speech verb like _ասել_/_asel_ “say”, the content of reported speech is considered to be part of the verb's valency. It therefore attaches as [ccomp]()—not only when integrated within the clause as an indirect quotation (_said that..._), but also when set off as a direct quotation, even with inverted order:
+
+~~~ conllu
+# visual-style
+
+~~~
+
+Quoted content is considered to be [ccomp]() even if it is a sentence fragment:
+
+~~~ conllu
+# visual-style
+
+~~~
+
+If the speech verb interrupts the reported speech content, [parataxis]() is used instead. The speech verb attaches to the root of the reported speech
+
+~~~ conllu
+# visual-style
+
+~~~
