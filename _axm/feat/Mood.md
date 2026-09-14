@@ -59,6 +59,6 @@ In some contexts the mood also expresses the desire that the action happens; it 
 * _<b>լուսանայր</b>_/_lowsanayr_ “(I wish) it would dawn”,
 * _<b>տուն մտնուի</b>_/_town mtnowi_ “(I would like) to enter the house”.
 
-Note that in Middle Armenian, conditional and necessitative meanings are expressed by means of the corresponding auxiliary verbs. For more information, see [AUX]().
+Note that in Middle Armenian, conditional and necessitative meanings are expressed by means of the corresponding auxiliary verbs. For more details, see [AUX]().
 
   <!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->
