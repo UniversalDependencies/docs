@@ -80,13 +80,13 @@ With a speech verb like _ասել_/_asel_ “say”, the content of reported spe
 Quoted content is considered to be [ccomp]() even if it is a sentence fragment:
 
 ~~~ conllu
-# visual-style 
+# visual-style 5 2 ccomp color:blue
 1	—	—	PUNCT	_	_	2	punct	_	Translit=—|LTranslit=—
-2	Կարգադրեցի	կարգադրել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=Kargadrec’i|LTranslit=kargadrel|SpaceAfter=No
+2	Հայրդ	հայր	NOUN	_	Animacy=Hum|Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=2	5	ccomp	_	Translit=Hayrd|LTranslit=hayr|SpaceAfter=No
 3	,	,	PUNCT	_	_	5	punct	_	Translit=,|LTranslit=,|SpaceAfter=No
 4	—	—	PUNCT	_	_	5	punct	_	Translit=—|LTranslit=—
-5	պատասխանեց	պատասխանել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	Translit=patasxanec’|LTranslit=patasxanel|SpaceAfter=No
-6	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
+5	ըսին	ըսել	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Translit=ësin|LTranslit=ësel
+6	իրեն	ինք	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Emp	5	obj	_	Translit=iren|LTranslit=ink’
 ~~~
 
 If the speech verb interrupts the reported speech content, [parataxis]() is used instead. The speech verb attaches to the root of the reported speech
