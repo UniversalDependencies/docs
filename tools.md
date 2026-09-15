@@ -26,6 +26,7 @@ You may also want to announce your tool in the
     * [WebAnno](#webanno)
     * [DgAnnotator](#dgannotator)
     * [UD Annotatrix](#ud-annotatrix)
+    * [UD Enhanced Graph Visualiser](#ud-enhanced-graph-visualiser)
     * [Tred](#tred)
     * [ArboratorGrew](#arboratorgrew)
     * [LightTag](#lighttag)
@@ -50,6 +51,7 @@ You may also want to announce your tool in the
     * [UDAPI](#udapi)
     * [UDon2](#udon2)
     * [ACoLi CoNLL Libraries](#acoli-conll-libraries)
+    * [EUD Annotation for Portuguese](#eud-annotation-for-portuguese)
   * Visualization tools
     * [Deptreeviz](#deptreeviz)
     * [CoNLL-U viewer](#conll-u-viewer)
@@ -135,6 +137,19 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 * License: GPL-3.0 (open source)
 * Homepage: <https://github.com/jonorthwash/ud-annotatrix>
 * References:  Tyers, F. M., Sheyanova, M. and Washington, J. N. (2018) "UD Annotatrix: An annotation tool for Universal Dependencies". Proceedings of the 16th Conference on Treebanks and Linguistic Theories
+
+
+#### UD Enhanced Graph Visualiser
+
+<img style="float:right" src="http://universaldependencies.org/img/eud-graph-visualiser.png">
+**UD Enhanced Graph Visualiser** ia a browser-based tool designed to visualize and edit syntactic graphs within the Universal Dependencies framework, supporting both basic dependency trees and Enhanced Universal Dependencies (EUD) graphs. The tool is hosted online as an open-source client-side application requiring no dedicated backend, relying solely on HTML and JavaScript. The tool accepts individual sentences or complete corpora in the CoNLL-U format, which can be provided via file upload or plain-text input. For customization and workflow management, annotations can be edited directly as free text or within a tabular interface, reducing the risk of modifying incorrect CoNLL-U columns. In terms of visualization, users can highlight specific tokens, isolate basic or enhanced dependencies, and contrast both representations simultaneously using distinct edge colors. This tool is a fork from an early version of <a href="https://github.com/jonorthwash/jonorthwash.github.io" target="_blank">UD Annotatrix</a>.
+
+* Category: manual annotation tool
+* Platform: Any
+* Implementation: JavaScript
+* License: GPL-3.0 (open source)
+* Homepage: <https://souelvis.dev/enhanced-graph-visualiser/visualise.html>
+* References: Elvis de Souza
 
 
 #### Tred
@@ -466,6 +481,17 @@ None of these operations are limited to CoNLL-U, but CoNLL-U and CoNLL-U Plus ar
 * License: Apache License
 * Homepage: https://github.com/acoli-repo/conll
 * References: [Chiarcos and Schenk (2018)](https://aclanthology.org/L18-1090/)
+
+#### EUD Annotation for Portuguese
+
+It is a specialized web-based pipeline for producing Enhanced Universal Dependencies (EUD) annotations in Portuguese. Users can either provide pre-parsed CoNLL-U files containing basic UD annotations or input raw text directly, selecting an underlying model provided via the UDPipe API to generate the initial syntactic layer. The tool is accessible through a web interface and can also be deployed locally using the provided Dockerfile following the repository documentation. EUD annotation is driven by Portuguese-specific conversion rules adapted from the universal rule set originally developed for the EUD parsing shared task using Grew, a graph rewriting tool ([Guillaume and Perrier, 2021](https://aclanthology.org/2021.iwpt-1.18/)). Other set of rules can be used instead of the Portuguese ones.
+
+* Category: online tool for EUD annotation, library, shell
+* Platform: Web-browser / any OS that runs Docker
+* Implementation: Python, JavaScript
+* License: MIT license
+* Homepage: https://eud-portugues.souelvis.dev/
+* References: [De Souza et al., 2024](https://aclanthology.org/2024.stil-1.3.pdf)
 
 ### Visualization tools
 
