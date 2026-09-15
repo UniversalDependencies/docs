@@ -7,7 +7,7 @@ udver: '2'
 
 ### Definition
 
-Particles are function words that must be associated with another word or phrase to impart meaning and that do not satisfy definitions of other universal parts of speech (e.g.  [adpositions](ADP), [coordinating conjunctions](CCONJ), [subordinating conjunctions](SCONJ) or [auxiliary verbs](AUX)). Particles may encode grammatical categories such as negation, mood, tense etc. Particles are not inflected.
+Particles are function words that must be associated with another word or phrase to impart meaning and that do not satisfy definitions of other universal parts of speech (e.g.  [adpositions](ADP), [coordinating conjunctions](CCONJ), [subordinating conjunctions](SCONJ) or [auxiliary verbs](AUX)). Particles may encode grammatical categories such as negation, mood, tense, etc. Particles are not inflected.
  
 Note that particles like _այո(այոյ)/ayo, հա(ha)_ “yes”, _ոչ/oč, չէ/čē_ “no”, etc. when used as response words (feedback particles) are considered interjections under the UD standard.
 
@@ -19,7 +19,10 @@ Note that particles like _այո(այոյ)/ayo, հա(ha)_ “yes”, _ոչ/oč, 
 - Dubitative particle: _ախիր_/_axir_ “after all”, _բալքի (բալքիմ, բալքամ)_/_balk’i (balk’im, balk’am)_ “perhaps”, _կարծես_/_karçes_ “apparently”, _կարծեմ թէ_/_karçem t’ē_ “it seems”, _ասես թէ_/_ases t’ē_ “seemingly”, _թերեւս_/_t’erews_ “probably”
 - Emphatic particle: _մանաւանդ_/_manawand_ “particularly”, _իսկ_/_isk_ “just”
 - Limiting particle: _պարի_/_pari_ “if only”, _լոկ (լուկ, լօք)_/_lok (lowk, lòk’)_ “merely”, _միայն_/_miayn_ “only”, _տեյի_/_teyi_ “saying”
-- Negative particle: _իսկի_/_iski_ “at all”
+- Negative particle: _իսկի_/_iski_ “at all”, _ոչ_/_oč_ “not”, _չի_/_či_, _չ_/_č_ “not”
 - Wish particle: _քեշկէ_/_k’eškē_ “I wish”
-- Volitional particle: _ապա_/_apa_ “now then”, _հալա_/_hala, թող/t’oġ_ “as yet”
+- Volitional particle: _ապա_/_apa_ “now then”, _հալա_/_hala_, _թող_/_t’oġ_ “as yet”
+
+Note that the particle _չ-_/_č-_ “not” is tokenized separately from the verb in the indicative mood, with _ոչ_/_oč_ “not” as its lemma. In the subjunctive mood, however, it remains attached to the verb and is not tokenized separately; instead, negation is represented morphologically on the verb by the feature `Polarity=Neg`.
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:37 CEST -->
