@@ -7,15 +7,9 @@ udver: '2'
 
 An adverbial modifier of a word is a (non-clausal) [adverb](ADV) or adverbial phrase that serves to modify a predicate or a modifier word.
 
-Note that in the Armenian grammatical tradition, the term _adverbial modifier_ covers constituents that function like adverbs regardless of whether they are realized by adverbs, adpositional phrases, or nouns in particular morphological [cases](Case). We differentiate adverbials realized as adverbs (`advmod`) and adverbials realized by noun phrases or adpositional phrases ([obl]()).
+Note that in the Armenian grammatical tradition, the term _adverbial modifier_ covers constituents that function like adverbs regardless of whether they are realized by adverbs, adpositional phrases, or nouns in particular morphological [cases](Case). We distinguish adverbials realized by adverbs (`advmod`) and adverbials realized by noun phrases or adpositional phrases ([obl]()).
 
-We use the `advmod` relation for the particles _չի_/_či_ (_չ-_/_č-_) and _ոչ_/_oč_ that are used to negate verbs in the (older forms of the) present and imperfect indicative and subjunctive (they share the same form). Although these particles may function as verbal negators in a way similar to negative auxiliaries, we do not analyze them as auxiliaries, since they do not have a conjugation paradigm, and annotate them as `PART`.
-
-~~~ sdparse
-այլ փոքր \n smaller (lit. more small)
-advmod(փոքր, այլ)
-advmod(small, more)
-~~~
+We use the `advmod` relation for the particles _չի_/_či_ (_չ-_/_č-_) and _ոչ_/_oč_ that are used (attached or separately) to negate verbs in the (older forms of the) present and imperfect indicative and subjunctive (they share the same form). Although these particles may function as verbal negators in a way similar to negative auxiliaries, we do not analyze them as auxiliaries, since they do not have a conjugation paradigm and annotate them as `PART`rather than `AUX`.
 
 ~~~ conllu
 # visual-style 3 2 advmod color:blue
