@@ -73,7 +73,7 @@ Demonstrative pronouns referring to plural entities are marked with this feature
 
 ### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
 
-Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. In Middle Armenian, the `Coll` number is used only with paired body parts and similar entities. Although these forms end in the Classical Armenian plural marker _-ք_/_-k’_, they refer collectively to all members of the natural set denoted by the noun, rather than expressing ordinary plural number. The ordinary plural of such nouns is often formed with a different plural marker, such as _-վի_/_-vi_, _-նի_/_-ni_, etc. In such cases, their lemma is given without the collective ending _-ք_/_-k’_, and the form is annotated as plural (`Number=Plur`).
+Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. In Middle Armenian, the `Coll` number is used only with paired body parts and similar entities (primarily with monosyllabic nouns). Although these forms end in the Classical Armenian plural marker _-ք_/_-k’_, they refer collectively to all members of the natural set denoted by the noun, rather than expressing ordinary plural number. The ordinary plural of such nouns is often formed with a different plural marker, such as _-վի_/_-vi_, _-նի_/_-ni_, etc. In such cases, their lemma is given without the collective ending _-ք_/_-k’_, and the form is annotated as plural (`Number=Plur`).
 
 #### Examples:
 
