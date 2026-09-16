@@ -5,14 +5,17 @@ shortdef: 'punctuation'
 udver: '2'
 ---
 
-This relation is used for any piece of punctuation in a clause.
-See
+This relation is used for any piece of punctuation in a clause.  Note that symbols are not punctuation and cannot be attached via the `punct` relation (see [SYM]()).
 
-~~~ sdparse
-Տուն գնա ՛ ։ \n Go home !
-punct(գնա, ՛)
-punct(Go, !)
-punct(գնա, ։)
+~~~ conllu
+# visual-style 2 1 punct color:blue
+# visual-style 2 3 punct color:blue
+# visual-style 2 4 punct color:blue
+1	–	–	PUNCT	_	_	2	punct	_	Translit=–|LTranslit=–
+2-3	Եկո՛ւր	_	_	_	_	_	_	_	Translit=Eko՛wr|SpaceAfter=No
+2	Եկուր	գալ	VERB	_	Aspect=Prosp|Mood=Imp|Number=Sing|Person=2|Subcat=Intr|VerbForm=Fin|Voice=Mid	0	root	_	Translit=Ekowr|LTranslit=gal
+3	՛	՛	PUNCT	_	_	2	punct	_	Translit=՛|LTranslit=՛
+4	…	…	PUNCT	_	_	2	punct	_	Translit=…|LTranslit=…
 ~~~
 
 Tokens with the relation `punct` always attach to content words (except in cases of ellipsis) and can never have dependents.
