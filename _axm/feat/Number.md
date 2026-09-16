@@ -70,6 +70,19 @@ Pronouns that refer to several persons, animals or things are also marked with t
 
 Demonstrative pronouns referring to plural entities are marked with this feature, whereas demonstrative determiners are not, regardless of whether the modified noun is singular or plural (see above).
 
+
+### <a name="Coll">`Coll`</a>: collective / mass / singulare tantum
+
+Collective or mass or singulare tantum is a special case of singular. It applies to words that use grammatical singular to describe sets of objects, i.e. semantic plural. In Middle Armenian, the `Coll` number is used only with paired body parts and similar entities. Although these forms end in the Classical Armenian plural marker _-ք_/_-k’_, they refer collectively to all members of the natural set denoted by the noun, rather than expressing ordinary plural number. The ordinary plural of such nouns is often formed with a different plural marker, such as _-վի_/_-vi_, _-նի_/_-ni_, etc. In such cases, their lemma is given without the collective ending _-ք_/_-k’_, and the form is annotated as plural (`Number=Plur`).
+
+#### Examples:
+
+* _<b>ոտք</b>_/_otkʼ_ “legs”
+* _<b>աչք</b>_/_ačkʼ_ “eyes”
+* _<b>քովք</b>_/_kʼovkʼ_ “sides, ribs”
+* _<b>պինչք</b>_/_pinčkʼ_ “nostrils”
+
+
 ### <a name="Ptan">`Ptan`</a>: plurale tantum
 
 Some geographical or biological/botanical names appear only in the plural form even though they denote one thing (semantic singular). These [proper nouns](PROPN) are marked as `Ptan` (plurale tantum). Grammatically they behave like singulars, so `Ptan` is obviously the back-off value here.
