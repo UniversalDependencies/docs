@@ -21,7 +21,7 @@ A verb that does not take core arguments other than the subject.
 
 #### Examples
 
-* _<b>վազել/b>_/_<b>vazel/b>_ “to <b>run</b>”
+* _<b>վազել</b>_/_<b>vazel</b>_ “to <b>run</b>”
 
 ### <a name="Tran">`Tran`</a>: transitive verb
 
@@ -30,5 +30,5 @@ These verbs can be passivized, in which case the direct object becomes the subje
 
 #### Examples
 
-* _<b>խմել</b> գինի_/_<b>xmel</b> gini_ “to <b>drink</b> wine”
+* _<b>գիտնալ</b> հասցէն_/_<b>gitnal</b> hascʼēn_ “to <b>know</b> the address”
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:20 CEST -->
