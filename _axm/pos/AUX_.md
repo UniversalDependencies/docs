@@ -9,7 +9,7 @@ udver: '2'
 
 ### Definition
 The auxiliary verb accompanies the lexical verb of a verb phrase and expresses grammatical distinctions not carried by the lexical verb.
-Middle Armenian has the following auxiliary verbs: _եմ_/_em_ “be”, _լինիմ (լինալ)_/_linim (linal)_ “be repeatedly / habitually”, _ունիմ_/_ownim_ “have”, _կամ_/_kam_ “exist”, _պիտի (պիտ, տի)_/_piti (pit, ti)_ “must/will”, _կու (կոյ, կ-)_/_kow (koy, k-)_ “do/will”. The most commonly used auxiliary is _եմ_/_em_ with its conjugation paradigms in present and imperfect.
+Middle Armenian has the following auxiliary verbs: _եմ_/_em_ “be”, _լինիմ_/_linim (linal)_ “be repeatedly / habitually”, _ունիմ_/_ownim_ “have”, _կամ_/_kam_ “exist”, _կու (կոյ, կ-)_/_kow (koy, k-)_ “do/will”, _պիտի (պիտ, տի)_/_piti (pit, ti)_ “must/will”, _կամել_/_kamel_ “have to”, _տալ_/_tal_ “cause / make someone perform action”. 
 
 The particles _չի_/_či_ (_չ-_/_č-_) and _ոչ_/_oč_ are used to negate verbs in the (older forms of the) present and imperfect indicative and subjunctive, which share the same form (e.g. _Յեկեղեցին <b>ոչ</b> երեւայ_/_Yekeġec’in <b>oč</b> ereway_ “The church <b>is not</b> seen”; _<b>Չի</b> դառնաս հեղ մի յիս հայես. <b>Չի</b> գիտե՞ս քո պլպուլն եմ ես_/_<b>Či</b> daṙnas heġ mi yis hayes. <b>Či</b> gites k’o plpowln em es?_ “You <b>do not</b> turn to look at me even once; <b>Don't</b> you know that I am your nightingale?”; _Եւ այս ցեղս զստածումն եւ զբժշկութիւնն <b>չ</b>ընդունի բնաւ_/_Ew ays c’eġs zstaçowmn ew zbžškowt’iwnn <b>č</b>ëndowni bnaw_ “And this type (of ailment) <b>does-not</b>-admit any treatment or cure at all”). Although these particles may function as verbal negators in a way similar to negative auxiliaries, we do not analyze them as auxiliaries, since they do not have a conjugation paradigm, and annotate them as `PART`. This analysis distinguishes them from the negated forms of the auxiliaries _եմ_/_em_ and _էի_/_ēi_, which are genuine auxiliaries inflected for [Polarity]() by means of the bound negative morpheme _չ-_/_č-_.
 
@@ -18,7 +18,7 @@ Note that, apart from _լինիմ_/_linim_, there is also the form _լինամ_/
 Auxiliaries can be divided into:
 - tense auxiliaries, used to form compound tenses represented by _եմ_/_em_ and _էի_/_ēi_ “be”;
 - aspectual auxiliaries, used to form the so-called “secondary compound tenses” represented by _լինիմ_/_linim_ “be repeatedly / habitually”, _կամ_/_kam_ “exist”, and _ունիմ_/_ownim_ “have”,
-- mood auxiliaries, used to form periphrastic indicative / conditional mood by _կու (կոյ, կ-)_/_kow (koy, k-)_ “do/will”, and necessitative mood by _պիտի (պիտ, տի)_/_piti (pit, ti)_ “to be necessary, useful”, or by forms of the (modal) verb _կամել_/_kamel_ “have to/must”;
+- mood auxiliaries, used to form periphrastic indicative / conditional mood by _կու (կոյ, կ-)_/_kow (koy, k-)_ “do/will”, and necessitative mood by _պիտի (պիտ, տի)_/_piti (pit, ti)_ “to be necessary, useful”, or by forms of the verb _կամել_/_kamel_ “have to”;
 - voice auxiliary, used to form the periphrastic causative represented by _տալ_/_tal_ “cause / make someone perform action”,
 
 ### Examples
