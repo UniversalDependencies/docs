@@ -9,22 +9,38 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * In general, words are delimited by whitespace characters. Description of exceptions follows.
-* According to typographical rules, a punctuation mark is attached to a neighbouring (usually following) word. Punctuation marks are usually tokenised as separate tokens (words), unless they are considered an integral part of the lemma (as in _2-րդ_ “2nd”, _44-օրեայ_ “44-day”, or _85-ամեայ_ “85th anniversary”) or are used to express inflection (as in _96-ի_ “of 96.Dat”, _1956-ին_ “in 1956.Dat”). On the other hand, hyphenated compounds such as _ռուսա-սուրիական_ “Russian-Syrian” or abbreviations such as _թ._ “year” are treated as separate tokens.
+* According to typographical rules, punctuation marks written next to a neighbouring word are normally tokenized as separate syntactic words.
+* Hyphenated compounds and abbreviations, as well as numerical expressions are split into separate tokens, e.g. _ռուսա-սուրիական_ “Russian-Syrian”, _թ._/_tʼ._ “year”, _2-րդ_/_2-rd_ “2nd”, _44-օրեայ_/_44-oreay_ “44-day”, or _85-ամեայ_ “85 years old”, _96-ի_ “of 96.Dat”, _1956-ին_ “in 1956.Dat”.
 * A whitespace separating digits in a large number is not treated as a word separator. For example, _1 000 000_ (“1,000,000” by English rules) is one token. (However, such tokens do not occur in Western Armenian treebanks as of release 2.8.)
-* There are two classes of “orthographic words” (sequences of letters without spaces inside) that are split into several syntactic tokens.
-  * The most prominent type is so-called “infixed punctuation”, i.e. words containing question, exclamation, emphasis and Armenian abbreviation marks, as in _ինչպէ՞ս = ինչպէս + ՞_ “How?”, are treated as multi-word tokens and segmented to individual syntactic words.
-  * Orthographic words of the other class consist of a indicative or negative particles _կ՚_ and _չ՚_ (followed by a vocal and treated as auxiliaries), as in _կ՚այցելեմ = կ՚ + այցելեմ_ “(I am) visiting” and _չ՚ուզեր = չի + ուզեր_ “(He/She) does not want”.
+* There are two classes of “orthographic words” (sequences of letters without spaces inside) that are split into several syntactic tokens:
+  * Words containing infixed Armenian punctuation are represented as multi-word tokens. For example, ինչպէ՞ս is segmented as ինչպէս + ՞ “how?”.
+  * Orthographic words consisting of the indicative auxiliary _կ՚_/_k՚_ or the negative auxiliary _չ՚_/_č՚՚_ followed by a vowel-initial verb are also represented as multi-word tokens, e.g.  _կ՚այցելեմ = կ՚ + այցելեմ_/_k՚aycʼelem_ “(I am) visiting” and _չ՚ուզեր = չի + ուզեր_/_č՚owzer_ “(He/She) does not want”.
+* Email addresses, URLs, and social media handles are treated as single tokens.
 * For more details, see [tokenization](tokenization.html).
 
 ## Morphology
 
 ### Tags
 
-This is an overview only. For more detailed discussion and examples, see the list of [Armenian POS tags](pos/index.html)
-and [Armenian features](feat/index.html).
+This is an overview only. For more detailed discussion and examples, see the list of [Western Armenian POS tags](pos/index.html) and [Western Armenian features](feat/index.html).
 
 * Western Armenian uses all 17 universal POS categories, including particles ([PART]()).
-* The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives (the traditional grammar does not define determiners, but distinguishes pronominal modifiers). The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase. Pronominal quantifiers (which the traditional grammar includes in pronouns) are [DET]() as well.
+* The tag [DET]() is used for articles and pronominal words that modify a noun phrase, including possessive, demonstrative, interrogative, relative, indefinite, total, and negative determiners (the traditional grammar does not define determiners, but distinguishes pronominal modifiers). Pronominal quantifiers (which the traditional grammar includes in pronouns) such as _քանի մը_/_kʼani më_ “several” and _բոլոր_/_bolor_ “all” are `DET` as well.
+* Independent possessive forms such as _իմս_/_ims_ “mine”, _քուկդ_/_kʼowkd_ “yours”, _անորը_/_anorë_ “his/hers”, are personal pronouns with `Poss=Yes`; possessive determiners such as _իմ_/_im_ “my”, _քու_/_kʼow_ “your”, _անոր_/_anor_ “his/her”, _մեր_/_mer_ “our”, _ձեր_/_jer_ “your”, and _անոնց_/_anoncʼ_ “their” are `DET`.
+* The tag [PRON]() is reserved for pronouns functioning as the head of a noun phrase. Thus _աս_/_as_ “this” is `PRON` in _Աս ասանկ չ՚ըլլար_/_As asank č՚ëllar_ “This won't work like this”, but `DET` when it modifies a noun, as in _աս տեղէն կ՚սպասէին ճանբորդել_/_as teġēn k՚spasēin č̣anbordel_ “They were expecting to set off from here”.
+* The main Western Armenian auxiliaries include:
+ * forms of եմ “be”, used as the copula and in compound tenses;
+ * կը and its variants կ՚, կու, which form the present and imperfect indicative with a finite lexical verb;
+ * պիտի and its variants պիտ, տի, as well as the expression պէտք է, which form prospective and modal constructions;
+ * ըլլալ “be”, ունիմ “have”, and կամ “exist” in secondary compound constructions;
+ * postverbal կոր, which marks progressive aspect;
+ * տալ “give”, used as the auxiliary of periphrastic causatives.
+
+* The aorist and the present and imperfect subjunctive forms of ըլլալ (եղաւ, ըլլայ, ըլլար) are analyzed as lexical VERB when they occur with nominal predicates, and as AUX only when they combine with participles. In compound forms containing both եմ and ըլլալ with a nominal predicate, եմ is AUX and ըլլալ is the lexical VERB.
+
+* Western Armenian distinguishes three values of VerbForm: finite verb (Fin), infinitive (Inf), and participle (Part). Case-marked infinitives retain VerbForm=Inf even when they have an adverbial, converb-like function.
+
+* Participles used in compound tenses or adjectivally are normally tagged VERB; their syntactic function is expressed by the dependency relation.
 
 ### Nominal Features
 
