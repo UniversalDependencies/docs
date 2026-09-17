@@ -18,7 +18,7 @@ Note that, apart from _լինիմ_/_linim_, there is also the form _լինամ_/
 Auxiliaries can be divided into:
 - tense auxiliaries, used to form compound tenses represented by _եմ_/_em_ and _էի_/_ēi_ “be”;
 - aspectual auxiliaries, used to form the so-called “secondary compound tenses” represented by _լինիմ_/_linim_ “be repeatedly / habitually”, _կամ_/_kam_ “exist”, and _ունիմ_/_ownim_ “have”,
-- mood auxiliaries, used to form periphrastic indicative / conditional mood by _կու (կոյ, կ-)_/_kow (koy, k-)_ “do/will”, and necessitative mood by _պիտի (պիտ, տի)_/_piti (pit, ti)_ “to be necessary, useful”,
+- mood auxiliaries, used to form periphrastic indicative / conditional mood by _կու (կոյ, կ-)_/_kow (koy, k-)_ “do/will”, and necessitative mood by _պիտի (պիտ, տի)_/_piti (pit, ti)_ “to be necessary, useful”, or by forms of the (modal) verb _կամել_/_kamel_ “have to/must”;
 - voice auxiliary, used to form the periphrastic causative represented by _տալ_/_tal_ “cause / make someone perform action”,
 
 ### Examples
