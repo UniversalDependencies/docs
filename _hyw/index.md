@@ -13,9 +13,9 @@ udver: '2'
  * A hyphenated compound is split into separate tokens, as in _առասպելա-բանաստեղծական_/_aṙaspela-banasteġçakan_ “fabulo-poetic”, or into five tokens (three words and two hyphens), as in _ռուսա-իրանա-սուրիական_/_ṙowsa-irana-sowriakan_ “Russian-Iranian-Syrian”. Compounds written without a hyphen, such as _պաղեստինեւիսրայէլեան_/_paġestinewisrayēlean_ “Israeli-Palestinian” are not split.
  * Inflectional bound morphemes attached to quoted names, phrases, numerals, or abbreviations with or without an hyphen are segmented as separate tokens. Thus «Ցեղին սիրտը»էն “from ‘The Heart of the Tribe’” is segmented as { «, Ցեղին, սիրտը, », էն }, _2020 թ.-ին_ “in the year 2020” as { 2020, թ, ., -, ին}  and _1968էն_ “from 1968” as {1968, էն}. 
  * Numerical expressions with derivational endings, as well as adjectives and other forms containing digits, are split into separate tokens, e.g. _2-րդ_/_2-rd_ “2nd”, _44-օրեայ_/_44-oreay_ “44-day”, or _85-ամեայ_ “85 years old”. The preceding lexical token is the head, and the segmented inflectional element is attached to it with the dep relation.
- * Time expressions and dates such as 19:45, 20.05.2000, and 20/05/2000 are split at the punctuation marks.
+ * Time expressions and dates such as _19:45_, _20.05.2000_, and _20/05/2000_ are split at the punctuation marks.
  *  Symbols occurring before or after numerical expressions are tokenized separately, e.g. _$ + 250_ and _4,81 + %_.
- *  Decimal numbers such as 2.1 and 2,1 are single tokens.
+ *  Decimal numbers such as _2.1_ and _2,1_ are single tokens.
  * A whitespace separating digits in a large number is not treated as a word separator. For example, _1 000 000_ (“1,000,000” by English rules) is one token. (However, such tokens do not occur in Western Armenian treebanks as of release 2.8.)
 * There are several classes of “orthographic words” (sequences of letters without spaces inside) that are split into several syntactic tokens:
  * Words containing infixed Armenian punctuation are represented as multi-word tokens. For example, ինչպէ՞ս is segmented as ինչպէս + ՞ “how?”.
