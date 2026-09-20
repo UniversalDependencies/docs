@@ -8,13 +8,18 @@ udver: '2'
 
 ## Tokenization and Word Segmentation
 
-* In general, words are delimited by whitespace characters. Description of exceptions follows.
-* According to typographical rules, punctuation marks written next to a neighbouring word are normally tokenized as separate syntactic words.
-* Hyphenated compounds and abbreviations, as well as numerical expressions are split into separate tokens, e.g. _ռուսա-սուրիական_ “Russian-Syrian”, _թ._/_tʼ._ “year”, _2-րդ_/_2-rd_ “2nd”, _44-օրեայ_/_44-oreay_ “44-day”, or _85-ամեայ_ “85 years old”, _96-ի_ “of 96.Dat”, _1956-ին_ “in 1956.Dat”.
-* A whitespace separating digits in a large number is not treated as a word separator. For example, _1 000 000_ (“1,000,000” by English rules) is one token. (However, such tokens do not occur in Western Armenian treebanks as of release 2.8.)
-* There are two classes of “orthographic words” (sequences of letters without spaces inside) that are split into several syntactic tokens:
-  * Words containing infixed Armenian punctuation are represented as multi-word tokens. For example, ինչպէ՞ս is segmented as ինչպէս + ՞ “how?”.
-  * Orthographic words consisting of the indicative auxiliary _կ՚_/_k՚_ or the negative auxiliary _չ՚_/_č՚՚_ followed by a vowel-initial verb are also represented as multi-word tokens, e.g.  _կ՚այցելեմ = կ՚ + այցելեմ_/_k՚aycʼelem_ “(I am) visiting” and _չ՚ուզեր = չի + ուզեր_/_č՚owzer_ “(He/She) does not want”.
+* In general, words are delimited by whitespace. Description of exceptions follows.
+ * According to typographical rules, punctuation marks written next to a neighbouring word are normally tokenized as separate syntactic words.
+ * A hyphenated compound is split into separate tokens, as in _առասպելա-բանաստեղծական_/_aṙaspela-banasteġçakan_ “fabulo-poetic”, or into five tokens (three words and two hyphens), as in _ռուսա-իրանա-սուրիական_/_ṙowsa-irana-sowriakan_ “Russian-Iranian-Syrian”. Compounds written without a hyphen, such as _պաղեստինեւիսրայէլեան_/_paġestinewisrayēlean_ “Israeli-Palestinian” are not split.
+ * Inflectional bound morphemes attached to quoted names, phrases, numerals, or abbreviations with or without an hyphen are segmented as separate tokens. Thus «Ցեղին սիրտը»էն “from ‘The Heart of the Tribe’” is segmented as { «, Ցեղին, սիրտը, », էն }, _2020 թ.-ին_ “in the year 2020” as { 2020, թ, ., -, ին}  and _1968էն_ “from 1968” as {1968, էն}. 
+ * Numerical expressions with derivational endings, as well as adjectives and other forms containing digits, are split into separate tokens, e.g. _2-րդ_/_2-rd_ “2nd”, _44-օրեայ_/_44-oreay_ “44-day”, or _85-ամեայ_ “85 years old”. The preceding lexical token is the head, and the segmented inflectional element is attached to it with the dep relation.
+ * Time expressions and dates such as 19:45, 20.05.2000, and 20/05/2000 are split at the punctuation marks.
+ *  Symbols occurring before or after numerical expressions are tokenized separately, e.g. _$ + 250_ and _4,81 + %_.
+ *  Decimal numbers such as 2.1 and 2,1 are single tokens.
+ * A whitespace separating digits in a large number is not treated as a word separator. For example, _1 000 000_ (“1,000,000” by English rules) is one token. (However, such tokens do not occur in Western Armenian treebanks as of release 2.8.)
+* There are several classes of “orthographic words” (sequences of letters without spaces inside) that are split into several syntactic tokens:
+ * Words containing infixed Armenian punctuation are represented as multi-word tokens. For example, ինչպէ՞ս is segmented as ինչպէս + ՞ “how?”.
+ * Orthographic words consisting of the indicative auxiliary _կ՚_/_k՚_ or the negative auxiliary _չ՚_/_č՚՚_ followed by a vowel-initial verb are also represented as multi-word tokens, e.g.  _կ՚այցելեմ = կ՚ + այցելեմ_/_k՚aycʼelem_ “(I am) visiting” and _չ՚ուզեր = չի + ուզեր_/_č՚owzer_ “(He/She) does not want”.
 * Email addresses, URLs, and social media handles are treated as single tokens.
 * For more details, see [tokenization](tokenization.html).
 
@@ -26,10 +31,10 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 * Western Armenian uses all 17 universal POS categories, including particles ([PART]()).
 * The tag [DET]() is used for articles and pronominal words that modify a noun phrase, including possessive, demonstrative, interrogative, relative, indefinite, total, and negative determiners (the traditional grammar does not define determiners, but distinguishes pronominal modifiers). Pronominal quantifiers (which the traditional grammar includes in pronouns) such as _քանի մը_/_kʼani më_ “several” and _բոլոր_/_bolor_ “all” are `DET` as well.
-* Independent possessive forms such as _իմս_/_ims_ “mine”, _քուկդ_/_kʼowkd_ “yours”, _անորը_/_anorë_ “his/hers”, are personal pronouns with `Poss=Yes`; possessive determiners such as _իմ_/_im_ “my”, _քու_/_kʼow_ “your”, _անոր_/_anor_ “his/her”, _մեր_/_mer_ “our”, _ձեր_/_jer_ “your”, and _անոնց_/_anoncʼ_ “their” are `DET`.
+* Independent possessive forms such as _իմս_/_ims_ “mine”, _քուկդ_/_kʼowkd_ “yours”, _անորը_/_anorë_ “his/hers” etc., are personal pronouns with `Poss=Yes`; possessive determiners such as _իմ_/_im_ “my”, _քու_/_kʼow_ “your”, _անոր_/_anor_ “his/her”, _մեր_/_mer_ “our”, _ձեր_/_jer_ “your”, and _անոնց_/_anoncʼ_ “their” are `DET`.
 * The tag [PRON]() is reserved for pronouns functioning as the head of a noun phrase. Thus _աս_/_as_ “this” is `PRON` in _Աս ասանկ չ՚ըլլար_/_As asank č՚ëllar_ “This won't work like this”, but `DET` when it modifies a noun, as in _աս տեղէն կ՚սպասէին ճանբորդել_/_as teġēn k՚spasēin č̣anbordel_ “They were expecting to set off from here”.
 * The main Western Armenian auxiliaries include:
- * forms of եմ “be”, used as the copula and in compound tenses;
+ * forms of _եմ_/_em_ “be”, used as the copula and in compound tenses;
  * կը and its variants կ՚, կու, which form the present and imperfect indicative with a finite lexical verb;
  * պիտի and its variants պիտ, տի, as well as the expression պէտք է, which form prospective and modal constructions;
  * ըլլալ “be”, ունիմ “have”, and կամ “exist” in secondary compound constructions;
