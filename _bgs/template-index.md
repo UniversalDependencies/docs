@@ -9,7 +9,7 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * Words are generally delimited by whitespace but with exceptions:
-* Compound words and full reduplications that are separated by a hyphen are tokenized as multi-word tokens if each word can be taken as a separate semantic expression forming a whole (e.g. mitángnga-tángnga). The initial reduplication is tagged as `compound:redup`'.
+* Compound words and full reduplications that are separated by a hyphen are tokenized as multi-word tokens if each word can be taken as a separate semantic expression forming a whole (e.g. mitángnga-tángnga). The initial reduplication is tagged as `compound:redup`.
   * Contractions are tokenized independently whenever possible (e.g. *ke'd* into *ke* + *'d*).
   * Words with spaces do not regularly occur in Tagabawa.
 
