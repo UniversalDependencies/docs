@@ -44,7 +44,7 @@ voice of Austronesian languages. <!-- which is labeled PFOC in UniMorph -->
 
 #### Examples
 
-* [ceb] _<b>Gikaon</b> ni Pedro ang mangga._ “Pedro <b>ate</b> the manggo.”
+* [bgs] _<b>Igtawar</b> ni Maria to bata._ “Maria <b>called</b> the child.”
 
 ### <a name="Lfoc">`Lfoc`</a>: location-focus voice
 
