@@ -33,7 +33,7 @@ actor-focus voice of Austronesian languages. <!-- which is labeled AGFOC in UniM
 
 #### Examples
 
-* [ceb] _Si Pedro <b>mokaon</b> ug mangga ._ “Pedro <b>will eat</b> mangoes.”
+* [bgs] _<b>Igambak</b> to asa duton ka bintana._ “The dog <b>jumped</b> out the window.”
 
 ### <a name="Pass">`Pass`</a>: passive or patient-focus voice
 
@@ -62,5 +62,5 @@ doer and the undergoer/theme are coded as objects.
 
 #### Examples
 
-* [ceb] _<b>Ipasa</b> ni Pedro ang asin sa bisita._ “Pedro <b>will pass</b> the salt to the guest.”
+* [bgs] _Sam, abrihi no to bintana!._ “Sam, <b>open</b> the door!”
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
