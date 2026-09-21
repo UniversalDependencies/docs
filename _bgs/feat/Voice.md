@@ -62,5 +62,5 @@ doer and the undergoer/theme are coded as objects.
 
 #### Examples
 
-* [bgs] _Sam, abrihi no to bintana!._ “Sam, <b>open</b> the door!”
+* [bgs] _Sam, <b>abrihi</b> no to bintana!._ “Sam, <b>open</b> the door!”
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:23 CEST -->
