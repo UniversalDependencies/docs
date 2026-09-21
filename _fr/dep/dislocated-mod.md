@@ -9,7 +9,7 @@ The `dislocated:mod` relation is used between a dislocated modifier and its head
 
 ~~~ sdparse
 et puis les lycées , maintenant , les livres sont gratuits . \n And then the high schools, now, textbooks are free.
-dislocated:mod(gratuis, lycées)
+dislocated:mod(gratuits, lycées)
 ~~~
 
 
