@@ -18,5 +18,5 @@ But more complex phrases can also be used as a question tag:
 
 ~~~ sdparse
 mais elle avait beaucoup peur de beaucoup de trucs, tu t'en souviens ? \n but she was really scared of a lot of things—do you remember that?
-discourse:filler(avait,souviens)
+discourse:tag(avait,souviens)
 ~~~
