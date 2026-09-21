@@ -22,8 +22,8 @@ udver: '2'
 * Similar to other Philippine-type languages, Tagabawa has nominal markers that function both as prepositions and articles. Calling these as markers is probably the safest classification instead of prepositions, articles or determiners, as the markers can function all of them. To parallel other Philippine language treebanks, they are labeled as ([ADP](https://universaldependencies.org/u/pos/all.html#al-u-pos/ADP)). These markers are: 
   * The topic nominative/absolutive marker
   * The non-topic genitive/ergative marker
-  * The non-core oblique/dative marker that
-  * 
+  * The non-core oblique/dative marker
+    
 ### Nominal Features
 
 * Plurality is signaled, if explicitly stated, by the function word *mga*, hence *mga* expresses the `Number=Plur` feature and does not need for nouns ([NOUN](https://universaldependencies.org/u/pos/all.html#al-u-pos/NOUN)) and proper nouns ([PROPN](https://universaldependencies.org/u/pos/all.html#al-u-pos/PROPN)) to have `Number=Plur`. However, some affixations on nouns show number, and are not preceded with a *mga* marker. In such occurences, the noun then has a `Number=Plur`.
