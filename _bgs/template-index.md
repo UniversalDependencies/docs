@@ -83,6 +83,5 @@ There are [N](../treebanks/bgs-comparison.html) Tagabawa UD treebanks:
 
 ## References
 * DuBois, Carl & DuBois, Lauretta (1991). Tagabawa Grammar Essentials. Summer Institute of Linguistics.
-* DuBois, Carl & DuBois, Lauretta (2005). Tagabawa Texts. Studies in Philippine Languages & Cultures. Vol 14. Summer Institute of Linguistics.
-* DuBois, Carl (2025). The Focus System and Participant Roles of Tagabawa. Summer Insitute of Linguistics.
 * Marfa, Geoffrey & Cooke, Mary Jane (2023). “Gemo Ni”: A Grammar Note on Tagabawa Verbs. In Journal of Social Work and Science Education. Vol 4 (2). Page 373-384. E-ISSN 2723-6919, P-ISSN 2746-0827
+* Nikolaus P. Himmelmann (2005). Typological characteristics. In Alexander Adelaar and Nikolaus P. Himmelmann (eds.): The Austronesian Languages of Asia and Madagascar. Routledge, London and New York.
