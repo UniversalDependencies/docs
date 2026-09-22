@@ -6,6 +6,9 @@ udver: '2'
 
 # UD Events
 
+## 2027
+  * [10th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw27/) at [SyntaxFest in Prague](https://syntaxfest.github.io/syntaxfest27/)
+
 ## 2026
   * [9th Workshop on Universal Dependencies (UDW)](https://universaldependencies.org/udw26/)
 
