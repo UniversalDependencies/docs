@@ -17,7 +17,7 @@ Auxiliaries can be divided into:
 - tense auxiliaries, used to form compound tenses represented by _եմ/em_ and _էի/ēi_ “be”;
 - aspectual auxiliaries, used to form so-called “secondary compound tenses” represented by _ըլլամ_/_ëllam_, _կամ_/_kam_, _ունիմ_/_ownim_ “be repeatedly/habitually”, _պիտի/piti_ “to be necessary, useful”, and _կոր_/_kor_, (occurs after the indicative form consisting of _կը_/_kë_ and a finite (subjunctive) verb and marks progressive aspect, indicating that the situation is ongoing at the reference time);
 - mood auxiliaries, used to form periphrastic indicative mood by _կը (կու, կ')/kë (kow, k')_ “do”;
-- voice auxiliary, used to form periphrastic causative represented by _տալ_/_tal_ “cause / make someone perform action”.
+- voice auxiliary, used to form periphrastic causative represented by _տալ_/_tal_ “cause / make someone perform an action”.
 
 ### Examples
 
