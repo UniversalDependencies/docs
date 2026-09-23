@@ -35,22 +35,54 @@ This is an overview only. For more detailed discussion and examples, see the lis
 * The tag [PRON]() is reserved for pronouns functioning as the head of a noun phrase. Thus _աս_/_as_ “this” is `PRON` in _Աս ասանկ չ՚ըլլար_/_As asank č՚ëllar_ “This won't work like this”, but `DET` when it modifies a noun, as in _աս տեղէն կ՚սպասէին ճանբորդել_/_as teġēn k՚spasēin č̣anbordel_ “They were expecting to set off from here”.
 * The main Western Armenian auxiliaries include:
  * forms of _եմ_/_em_ “be”, used as the copula and in compound tenses;
- * կը and its variants կ՚, կու, which form the present and imperfect indicative with a finite lexical verb;
- * պիտի and its variants պիտ, տի, as well as the expression պէտք է, which form prospective and modal constructions;
- * ըլլալ “be”, ունիմ “have”, and կամ “exist” in secondary compound constructions;
- * postverbal կոր, which marks progressive aspect;
- * տալ “give”, used as the auxiliary of periphrastic causatives.
+ * _կը_/_kë_ and its variants _կ՚_/_k՚_, _կու_/_kow_, which form the present and imperfect indicative with a finite lexical verb;
+ * _պիտի_/_piti_, which marks progressive aspect;
+ * _ըլլամ_/_ëllam_ (_ըլլալ_/_ěllal_) “be”, _ունիմ_/_ownim_ “have”, and _կամ_/_kam_ “exist” in secondary compound constructions;
+ * postverbal _կոր_/_kor_, which occurs after the indicative form consisting of _կը_/_kë_ and a finite (subjunctive) verb and marks progressive aspect, indicating that the situation is ongoing at the reference time;
+ * _տալ_/_tal_ “cause / make someone perform an action”, used as the auxiliary of periphrastic causatives.
 
-* The aorist and the present and imperfect subjunctive forms of ըլլալ (եղաւ, ըլլայ, ըլլար) are analyzed as lexical VERB when they occur with nominal predicates, and as AUX only when they combine with participles. In compound forms containing both եմ and ըլլալ with a nominal predicate, եմ is AUX and ըլլալ is the lexical VERB.
+* The aorist and the present and imperfect subjunctive forms of _ըլլալ_/_ěllal_ (_եղաւ_/_eġaw_, _ըլլայ_/_ëllay_, _ըլլար_/_ëllar_) are analyzed as lexical [VERB]() when they occur with nominal predicates, and as [AUX]()` only when they combine with participles. In compound forms containing both _եմ_/_em_ and _ըլլալ_/_ěllal_ with a nominal predicate, _եմ_/_em_ is `AUX` and _ըլլալ_/_ěllal_ is the lexical [VERB]().
 
-* Western Armenian distinguishes three values of VerbForm: finite verb (Fin), infinitive (Inf), and participle (Part). Case-marked infinitives retain VerbForm=Inf even when they have an adverbial, converb-like function.
+* Western Armenian distinguishes three values of VerbForm:
+  * Infinitive `Inf`, tagged [VERB]() or [AUX]().
+  * Finite verb `Fin`, tagged [VERB]() or [AUX]().
+  * Participle `Part`, tagged [VERB]() or [AUX]().
+    
+Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, converb-like function.
 
-* Participles used in compound tenses or adjectivally are normally tagged VERB; their syntactic function is expressed by the dependency relation.
+* Participles used in compound tenses or adjectivally are normally tagged [VERB](); their syntactic function is expressed by the dependency relation.
 
 ### Nominal Features
 
+* Nominal words ([NOUN](), [PROPN](), and relevant [PRON]() forms) are annotated with [Animacy](), mainly `Hum` or `Nhum`.
+* The main values of Number are `Sing` and `Plur`. The lexical values `Coll` and `Assoc` are used where appropriate.
+* [Case]() has seven values in the Western Armenian documentation: `Nom`, `Gen`, `Dat`, `Acc`, `Abl`, `Ins`, and `Loc`.
+  * Nouns do not morphologically distinguish nominative and accusative; direct objects normally have nominative form. `Acc` is used where a pronominal paradigm makes the distinction relevant.
+  * For nouns, the genitive-dative distinction is closely connected with definiteness. Possessive personal pronouns distinguish the genitive separately.
+  * [Case]() is also an inflectional feature of the closed class of postpositional localizers (ADP), e.g. forms based on _մէջ_/_mēǰ_, _վրայ_/_vray_, _տակ_/_tak_, _մօտ_/_mòt_, _ետեւ_/_etew_, and _առջեւ_/_aṙǰew_.
+* [Definite]() has the values `Def` and `Ind` and is used with nominal categories and nominalized verb forms where appropriate.
+* [Degree]() applies to adjectives ([ADJ]()) and some adverbs ([ADV]()). Its values include `Pos`, `Cmp`, `Sup`, and `Abs`.
+
 ### Verbal Features
 
+* [Subcat]() distinguishes intransitive (`Intr`) and transitive (`Tran`) verbs.
+* [Aspect]() has the values `Dur`, `Imp`, `Iter`, `Perf`, `Prog`, and `Prosp`.
+  * The auxiliary _կը_/_kë_ is annotated with `Aspect=Imp`; _պիտի_/_piti_ is annotated with `Aspect=Prosp`; postverbal _կոր_/_kor_ marks `Aspect=Prog`.
+  * Participles and other verb forms receive the aspect value appropriate to their morphological form.
+* Finite verbs have one of three [Mood]() values: `Ind`, `Imp`, or `Sub`.
+  * The present and imperfect indicative are formed analytically with _կը_/_kë_ (_կ՚_/_k՚_, _կու_/_kow_) plus a present or imperfect subjunctive form of the lexical verb.
+
+Prospective forms are built with պիտի or պէտք է plus a subjunctive form.
+
+Tense has the values Pres, Imp, and Past. The present and imperfect values used with subjunctive forms are formal morphological labels and may have future or hypothetical interpretations in context.
+
+Voice distinguishes Act, Mid, Pass, Rcp, Cau, and CauPass.
+
+Synthetic causatives in -ցն- are annotated Voice=Cau when they retain a transparent causative analysis. Lexicalized transitive verbs derived from middle verbs are treated as active.
+
+In periphrastic causatives, only the auxiliary տալ receives Voice=Cau; the infinitive retains its own voice value.
+
+CauPass is reserved for passive forms of causative verbs.
 ### Polarity
 
 ### Pronouns, Determiners, Quantifiers
