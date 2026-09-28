@@ -122,6 +122,15 @@ We have two subtypes of the `obl` relation:
 * [obl:agent]()
 * [obl:goal]()
 
+We have a number of unique deprels for our compound subtypes.
+See the [compound]() doc pages for details on those.
+
+Pāli conjunctions `vā` ("or") and `ca` ("and") are `cc` (coordinating conjunctions) pointing to the previous entry in the list.
+
+When a name is followed by their job (title, etc), the name is the main noun and the occupation (etc) is an `appos`.  For example, in the genitive clause “vipassissa bodhisattassa…”  *bodhisattassa* is an `appos` pointing back to `vipassissa` which acts as the main noun.
+Note that this is different from Pāli compounds, where the last token of the compound is its root.
+
+
 ## Treebanks
 
 There is one Pāli UD treebank:
