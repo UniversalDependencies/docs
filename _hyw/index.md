@@ -70,19 +70,15 @@ Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, 
   * The auxiliary _կը_/_kë_ is annotated with `Aspect=Imp`; _պիտի_/_piti_ is annotated with `Aspect=Prosp`; postverbal _կոր_/_kor_ marks `Aspect=Prog`.
   * Participles and other verb forms receive the aspect value appropriate to their morphological form.
 * Finite verbs have one of three [Mood]() values: `Ind`, `Imp`, or `Sub`.
-  * The present and imperfect indicative are formed analytically with _կը_/_kë_ (_կ՚_/_k՚_, _կու_/_kow_) plus a present or imperfect subjunctive form of the lexical verb.
+  * The present and imperfect indicative are formed analytically with the auxiliary _կը_/_kë_ (_կ՚_/_k՚_, _կու_/_kow_) plus a present or imperfect subjunctive form of the lexical verb.
+  * Prospective forms are built with _պիտի_/_piti_ or _պէտք է_/_pētkʼ ē_ plus a a present or imperfect subjunctive form.
+* Tense has the values `Pres`, `Imp`, and `Past`. The present and imperfect values used with subjunctive forms are formal morphological labels and may have future or hypothetical interpretations in context.
+* Voice distinguishes `Act`, `Mid`, `Pass`, `Rcp`, `Cau`, and `CauPass`.
+  * Synthetic causatives in _-ցն-_/_-cʼn-_ are annotated `Voice=Cau` when they retain a transparent causative analysis. Lexicalized transitive verbs derived from middle verbs with the same infix are treated as active.
+  * In periphrastic causatives, only the auxiliary _տալ_/_tal_ receives `Voice=Cau`; the infinitive retains its own voice value.
+  * CauPass is reserved for passive forms of causative verbs.
 
-Prospective forms are built with պիտի or պէտք է plus a subjunctive form.
-
-Tense has the values Pres, Imp, and Past. The present and imperfect values used with subjunctive forms are formal morphological labels and may have future or hypothetical interpretations in context.
-
-Voice distinguishes Act, Mid, Pass, Rcp, Cau, and CauPass.
-
-Synthetic causatives in -ցն- are annotated Voice=Cau when they retain a transparent causative analysis. Lexicalized transitive verbs derived from middle verbs are treated as active.
-
-In periphrastic causatives, only the auxiliary տալ receives Voice=Cau; the infinitive retains its own voice value.
-
-CauPass is reserved for passive forms of causative verbs.
+  
 ### Polarity
 
 ### Pronouns, Determiners, Quantifiers
