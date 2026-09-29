@@ -14,8 +14,8 @@ udver: '2'
 
 Boolean feature of verbs ([VERB]() and [AUX]()) marking a word as being in the connegative form.
 
-In Middle Armenian, negated verbs in the indicative and conditional moods have the same form and are built with the negative auxiliary verb (*չեմ*) in the present or imperfect tense and the main verb, which typically appears in the connegative form (infinitive ending with _-լ/-l_ or _-ր/-r_ with or without the preposition _ի/i_) traditionally called _negative participle_.
-Negative imperative (prohibitive) mood is expressed by a verb in the infinitive (ending with _-լ/-l_ or _-ր/-r_) or in the present tense (2nd person, subjanctive mood) together with the negative particle _մի/mi_ “not”. There is also a rarely used old form of prohibitive imperative, which is formed with a verb in Classical Armenian present tense and the negative particle _մի/mi_ (e.g. _մի՛ տաս/mi tas_ “don't give!”). It expresses a meaning similar to that of a negated verb in the subjunctive mood, roughly “You'd better not give.”
+In Middle Armenian, negated verbs in the indicative and conditional moods have the same form and are built with the negative auxiliary verb (*չեմ*) in the present or imperfect tense and the main verb, which typically appears in the connegative form (infinitive ending in _-լ/-l_ or the form ending in _-ր/-r_ with or without the preposition _ի/i_) traditionally called _negative participle_.
+Negative imperative (prohibitive) mood is expressed by a negative participle (verb ending with _-լ/-l_ or _-ր/-r_) or in the present tense (2nd person, subjunctive mood) together with the negative particle _մի/mi_ “not” (e.g. _մի՛ տալ_/_mi tal_; _մի՛ տար_/_mi tar_; _մի՛ տաս/mi tas_ “don't give!”). It expresses a meaning similar to that of a negated verb in the subjunctive mood, roughly “You'd better not give.” 
 
 Note that there is no `No` value. If the word is not connegative, the `Connegative` feature will not appear.
 
@@ -29,6 +29,6 @@ Note that there is no `No` value. If the word is not connegative, the `Connegati
 * _չէի, չէիր, չէր, չէաք, չէիք, չէին <b>տալ (տար)</b>/čēi, čēir, čēr, čēak’, čēik’, čēin tal (tar)_ “I, you, he/she/it, we, you, they did not/would not <b>give</b>”
 * _մի՛ <b>բարկանալ</b>/mi barkanal_ “don't get angry!”
 * _մի՛ <b>փոխեր</b>/mi p’oxer_ “don't change!” (sing.)
+* _մի՛ <b>արգելես</b>/mi argeles_ “don't forbid!” (sing.)
 * _մի՛ <b>ծախէք</b>/mi çaxēk’_ “don't sell!” (pl.)
-* _մի՛ <b>արգելես</b>/mi argeles_ “don't forbid!”
 <!-- Interlanguage links updated Út 30. června 2026, 10:58:47 CEST -->
