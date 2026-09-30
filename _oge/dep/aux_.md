@@ -3,6 +3,9 @@ udver: '2'
 layout: relation
 title: 'aux'
 shortdef: 'auxiliary'
+# The filename "aux" is not allowed on Windows, so we redirect instead
+# (see https://github.com/UniversalDependencies/docs/issues/20)
+redirect_from: "oge/dep/aux.html"
 ---
 
 An `aux` (auxiliary) of a clause is a function word associated (a verb) with a verbal predicate. In Georgian such kinds of constructions are generally discussed as part of composite predicates. E.g. 
