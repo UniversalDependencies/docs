@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Sub">Sub</a></td>
+  <td><a href="#Cnd">Sub</a></td>
 </tr>
 </table>
 
@@ -36,6 +37,17 @@ The negative forms of the present and imperfect tenses of the indicative (as wel
 * _մեկ էլ ի նոցա միջին <b>էր</b> մեռած_/_mek ēl i noc’a miǰin ēr meṙaç_ “and one among them <b>was dead</b>”,
 * _Է՞ր <b>չես</b> ի լալ_/_Ēr čes i lal_ “Why <b>don't (won't) you cry</b>?”,
 * _Ես <b>չեմ</b> ի տար հանց պատասխան_/_Es čem i tar hanc’ patasxan_ “I don't (won't) give such an answer”.
+
+### <a name="Cnd">`Cnd`</a>: conditional
+
+The conditional mood is used to express actions that would have taken place under some circumstances but they actually did not / do not happen. In Middle Armenian, it combines with two different tenses (present and imperfect).
+
+The negation of conditional mood is formed periphrastically using the special form of main verb (traditionally called _negative participle_) and negated auxiliary _չեմ_ “not to be”. The main verb is marked as [Connegative]().
+
+#### Examples
+* _դու անդ մի՛ գար, թէ չէ յայնմանէ կելանեմ_/_dow and mi՛ gar, tʼē čē yaynmanē kelanem_ “”
+* _մի՛ խաւսիր ի մէջ դրախտին թէ չէ' կոյ հանեն_/_mi՛ xawsir i mēǰ draxtin tʼē čē' koy hanen_ “”
+  
 
 ### <a name="Imp">`Imp`</a>: imperative
 
