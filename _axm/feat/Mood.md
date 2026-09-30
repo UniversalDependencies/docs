@@ -21,7 +21,7 @@ Mood is a feature that expresses modality and subclassifies finite verb forms. S
 
 The indicative can be considered the default mood. A verb in the indicative merely states that something happens, has happened or will happen, without adding any attitude of the speaker.
 The imperfect tense of the indicative mood exhibits several patterns of formation. Note that in Middle Armenian the present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_ have the same forms as the present and imperfect tenses of the conditional mood (see below). They cannot be distinguished without context.
-The negative forms of the present and imperfect tenses of the indicative (as well as the conditional) mood exhibit variation in their formation. Besides the bound negative morpheme չ-/č-, negation may also be expressed by a construction consisting of a negative auxiliary followed by a verb in the infinitive, with or without the preposition ի/i.
+The negative forms of the present and imperfect tenses of the indicative (as well as the conditional) mood exhibit variation in their formation. Besides the bound negative morpheme չ-/č-, negation may also be expressed by a construction consisting of a negative auxiliary followed by a verb in the infinitive, with or without the preposition _ի_/_i_.
 
 #### Examples
 
@@ -40,13 +40,13 @@ The negative forms of the present and imperfect tenses of the indicative (as wel
 
 ### <a name="Cnd">`Cnd`</a>: conditional
 
-The conditional mood is used to express actions that would have taken place under some circumstances but they actually did not / do not happen. In Middle Armenian, it combines with two different tenses (present and imperfect).
+The conditional mood is used to express actions that would have taken place under some circumstances but they actually did not / do not happen. In Middle Armenian, it combines with two different tenses (present and imperfect).Note that in Middle Armenian the present and imperfect tenses of the conditional mood that are formed with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_ have the same forms as the present and imperfect tenses of the indicative mood (see above).
 
 The negation of conditional mood is formed periphrastically using the special form of main verb (traditionally called _negative participle_) and negated auxiliary _չեմ_ “not to be”. The main verb is marked as [Connegative]().
 
 #### Examples
-* _դու անդ մի՛ գար, թէ չէ յայնմանէ կելանեմ_/_dow and mi՛ gar, tʼē čē yaynmanē kelanem_ “”
-* _մի՛ խաւսիր ի մէջ դրախտին թէ չէ' կոյ հանեն_/_mi՛ xawsir i mēǰ draxtin tʼē čē' koy hanen_ “”
+* _դու անդ մի՛ գար, թէ չէ յայնմանէ կելանեմ_/_dow and mi՛ gar, tʼē čē yaynmanē kelanem_ “do not come over there, lest I come out of that”
+* _մի՛ խաւսիր ի մէջ դրախտին թէ չէ' կոյ հանեն_/_mi՛ xawsir i mēǰ draxtin tʼē čē' koy hanen_ “Do not speak inside the paradise, lest they throw you out”
   
 
 ### <a name="Imp">`Imp`</a>: imperative
