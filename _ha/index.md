@@ -6,12 +6,9 @@ udver: '2'
 
 # UD for Hausa <span class="flagspan"><img class="flag" src="../../flags/svg/NG.svg" /></span>
 
-The Hausa language is represented by three treebanks: Northern Autogramm, for the Ader dialect of Niger Republic (Northern Hausa), Southern Autogramm, for the Zaria dialect of Nigeria (Southern Hausa), and Western Autogramm, for the Gobir dialect (Tibiri, Niger Republic). They are different from the Kano variety, generally accepted as Standard Hausa. The Ader (Northern) Hausa, together with the Sokoto variety, is a more archaic version of Standard Hausa, where some phonological rules have not applied. The Gobir (Western) Hausa spoken in the Niger Republic is a transitional dialect beween Standard (Kano) and Sokoto (Ader) Hausas. The Zaria (Southern) Hausa, on the other hand, is a "modern" version of the language where the 3-way opposition (masculine / feminine / plural) has been abandoned in the noun system, and only the plurality feature is maintained, while the feminine gender is kept in the pronominal and TAM system. 
+The Hausa language is represented by four treebanks: Northern Autogramm, for the Ader dialect of Niger Republic (Northern Hausa), Southern Autogramm, for the Zaria dialect of Nigeria (Southern Hausa), Western Autogramm, for the Gobir dialect (Tibiri, Niger Republic), and Eastern Autogramm for the standard, Kano dialect of Nigeria (Eastern Hausa). The Ader (Northern) Hausa, together with the Sokoto variety, is a more archaic version of Standard Hausa, where some phonological rules have not applied. The Gobir (Western) Hausa spoken in the Niger Republic is a transitional dialect beween Standard (Kano) and Sokoto (Ader) Hausas. The Zaria (Southern) Hausa, on the other hand, is a "modern" version of the language where the 3-way opposition (masculine / feminine / plural) has been abandoned in the noun system, and only the plurality feature is maintained, while the feminine gender is kept in the pronominal and TAM system. 
 
 In Hausa, the TAM system is marked by pre-verbal Auxiliaries that combine `Tense`, `Aspect`, `Mood`, and subject agreement in `Person`, `Number` and `Gender`. These Auxiliaries can vary noticeably from one dialect to another. For example, the backgrounded progressive aspect in marked by /__kà__/ in Ader and Gobir and /__kèː__/ in Zaria, while the same /__kà__/ marks the backgrounded perfect in Zaria.
-
-Due to the difficulty of selecting a single lemma to account for these dialectal variation, we have chosen to postpone the lemmatisation of auxiliaries until a solution is found to organise related treebanks of a same language. 
-
 
 
 ## Tokenization and Word Segmentation
@@ -30,12 +27,12 @@ This is an overview only. For more detailed discussion and examples, see the lis
 * The language specific tagset is the original annotation made from the extended version of the Leipzig Glossing Rules. (Available [here](https://corpafroas.huma-num.fr/glosses.html)).
 * The UD tagset is based on a conversion from the previous annotation to UPOS.
 * Zaar uses 16 of the universal tags (with the exception of SYM, which is not relevant for oral data)
-  * As in other African languages (e.g. Wolof, Zaar), the verbal inflections in Hausa are gathered in a single `AUX` that precedes the `VERB`, and expresses various combinations of `Tense` (2 values: Future and Predictive), `Aspect` (4 values : Progressive, Perfect, Aorist and Iterative) and `Polarity` (Negative). 
+  * As in other African languages (e.g. Wolof, Zaar), the verbal inflections in Hausa are gathered in a single `AUX` that precedes the `VERB`, and expresses various combinations of `Tense` (2 values: Future and Predictive), `Aspect` (4 values : Progressive, Perfect, Aorist and Iterative) and `Polarity` (Negative). 
 
 
 ### Features
 
-* 2 language specific values associated with the Zaar `AUX` have been added to the scheme: 
+* 2 language specific values associated with the Hausa `AUX` have been added to the scheme: 
   * 1 for `Tense` (`Pred` = Predictive Future),
   * 1 for `Aspect` feature (`Aor` = Aorist)
 
@@ -49,8 +46,10 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 ## Treebanks
 
-There are [3](../treebanks/ha-comparison.html) Hausa UD treebanks:
+There are [4](../treebanks/ha-comparison.html) Hausa UD treebanks:
 
   * [Hausa-NorthernAutogramm](../treebanks/ha_northernautogramm/index.html)
   * [Hausa-WesternAutogramm](../treebanks/ha_westernautogramm/index.html)
   * [Hausa-SouthernAutogramm](../treebanks/ha_southernautogramm/index.html)
+  * [Hausa-EasternAutogramm](../treebanks/ha_easternautogramm/index.html)
+
