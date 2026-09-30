@@ -26,7 +26,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 * The language specific tagset is the original annotation made from the extended version of the Leipzig Glossing Rules. (Available [here](https://corpafroas.huma-num.fr/glosses.html)).
 * The UD tagset is based on a conversion from the previous annotation to UPOS.
-* Zaar uses 16 of the universal tags (with the exception of SYM, which is not relevant for oral data)
+* Hausa uses 16 of the universal tags (with the exception of SYM, which is not relevant for oral data)
   * As in other African languages (e.g. Wolof, Zaar), the verbal inflections in Hausa are gathered in a single `AUX` that precedes the `VERB`, and expresses various combinations of `Tense` (2 values: Future and Predictive), `Aspect` (4 values : Progressive, Perfect, Aorist and Iterative) and `Polarity` (Negative). 
 
 
@@ -51,5 +51,4 @@ There are [4](../treebanks/ha-comparison.html) Hausa UD treebanks:
   * [Hausa-NorthernAutogramm](../treebanks/ha_northernautogramm/index.html)
   * [Hausa-WesternAutogramm](../treebanks/ha_westernautogramm/index.html)
   * [Hausa-SouthernAutogramm](../treebanks/ha_southernautogramm/index.html)
-  * [Hausa-EasternAutogramm](../treebanks/ha_easternautogramm/index.html)
-
+  * [Hausa-EasternAutogramm]( https://github.com/UniversalDependencies/docs/blob/pages-source/treebanks/ha_easternautogramm/index.html)
