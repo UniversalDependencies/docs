@@ -11,7 +11,7 @@ udver: '2'
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Sub">Sub</a></td>
-  <td><a href="#Cnd">Sub</a></td>
+  <td><a href="#Cnd">Cnd</a></td>
 </tr>
 </table>
 
