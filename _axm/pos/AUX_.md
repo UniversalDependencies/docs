@@ -46,15 +46,13 @@ Auxiliaries can be divided into:
  
 - Indicative / conditional mood. The auxiliary _կու (կոյ, կ-)_/_kow (koy, k-)_ “do/will” is combined with the older present and imperfect forms (present/imperfect subjunctive) of lexical verb to form the present and imperfect indicative and conditional forms, which share the same form.
    * _Քաղցր խօսքով <b>կու ծիծաղիս</b>_/_K’aġc’r xòsk’ov <b>kow çiçaġis</b>_ “With sweet speech, you <b>smile</b> / you <b>are smiling</b> / you <b>will smile</b>”,
-   * _<b>կ</b>խմէր_/_<b>k</b>xmēr_ “He <b>used to drink</b> / He <b>was drinking</b> / he <b>would drink</b>”,
-   * _<b>տի</b> բերէր_/_<b>ti</b> berēr_ “he <b>was going to</b> bring / he <b>should have</b> brought”.
-
+   * _<b>կ</b>խմէր_/_<b>k</b>xmēr_ “He <b>used to drink</b> / He <b>was drinking</b> / he <b>would drink</b>”.
   
 - Necessitative mood. The auxiliary _պիտի (պիտ, տի)_/_piti (pit, ti)_ “to be necessary, useful” is combined with a finite subjunctive form of lexical verb. The auxiliary expresses necessitative mood.
   * _Զիմ գըլուխս ու զարիւնըս վարձ <b>պիտի տամ</b>_/_Zim gëlowxs ow zariwnës varj <b>piti</b> tam_ “I <b>must</b> give my head and my blood as the price”,
-  * _գիշերս ինչ <b>տի</b> լինայ_/_gišers inč <b>ti</b> linay_ “What <b>will</b> happen tonight?”
-  * _<b>տի</b> բերէր_/_<b>ti</b> berēr_ “he/she <b>was going to</b> bring / he <b>should</b> bring”.
-  * _հիւանդութիւնն երկար <b>կամի</b> քաշել_/_hiwandowtʼiwnn erkar <b>kami</b> kʼašel_ “The illness tends to last for a long time”
+  * _գիշերս ինչ <b>տի</b> լինայ_/_gišers inč <b>ti</b> linay_ “What <b>will</b> happen tonight?”,
+  * _<b>տի</b> բերէր_/_<b>ti</b> berēr_ “he/she <b>was going to</b> bring / he <b>should</b> bring”,
+  * _հիւանդութիւնն երկար <b>կամի</b> քաշել_/_hiwandowtʼiwnn erkar <b>kami</b> kʼašel_ “The illness tends to last for a long time”.
 
 Since the analysis of finite forms of the verb _լինիլ_/_linil_ “be” as either auxiliary or lexical verbs is ambiguous, we adopt the following principle: the aorist and the present and imperfect indicative (subjunctive) forms of the verb _լինիլ_/_linil_ ( _լինալ_/_linal_) are analyzed as lexical verbs whenever they occur with nominal predicates (nouns, adjectives, etc.), and as auxiliaries only when they combine with participles.
 Note that in Middle Armenian copulas are also tagged `AUX` and the definition of copular clauses has been extended to location-existentials. Only non-copular existential uses of _լինիլ_/_linil_ are tagged `VERB`.
