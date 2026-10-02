@@ -1,4 +1,14 @@
+---
+layout: relation
+title: 'xcomp'
+shortdef: 'open clausal complement'
+udver: '2'
+---
 
+An open clausal complement (`xcomp`) of a verb or an adjective is a predicative or clausal complement without its own subject. The reference of the subject is necessarily
+determined by an argument external to the `xcomp` (normally by the subject of the next higher clause). This is often referred to as *obligatory control*. 
+These complements are always non-finite, and they are complements (arguments of the higher verb or adjective) rather than adjuncts/modifiers, such as a purpose clause.
+The name `xcomp` is borrowed from Lexical-Functional Grammar.
 
 ~~~ conllu
 # visual style 2 3 xcomp color:blue
