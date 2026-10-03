@@ -15,7 +15,7 @@ udver: '2'
 
 ### <a name="Clf">`Clf`</a>: classifier
 
-Thai classifiers are generally used to express the quantities and characteristics of a head noun.
+Thai, an isolating language, does not add an inflectional suffix to a noun to indicate quantity, but uses the construction of a classifier noun. 
 
 #### Examples
 
