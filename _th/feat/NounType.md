@@ -13,11 +13,19 @@ udver: '2'
 </tr>
 </table>
 
+### <a name="Clf">`Clf`</a>: classifier
+
+Chinese classifiers between cardinal numbers and nouns, or between determiners and nouns.
+
+#### Examples
+
+* 三<b>項</b>工程 / _sān <b>xiàng</b> gōngchéng_ “three projects”
+
 ### <a name="Nmlz">`Nmlz`</a>: nominalization
 
 In Thai, two nouns can also be used to nominalize a verb or a verb clause whose verb is action or stative/adjectival as well as a relative clause.
 
-การ /kaːn/ is a noun which basically means "work" or "a thing to be done". The noun is placed before an action verb to nominalize the verb or the verb clause semantically. 
+การ /kaːn/ is a noun which basically means "work" or "a thing to be done". The noun is placed before an action verb to nominalize the verb or the verb clause semantically.
 
 ความ /khwaːm/ is a noun which basically means "conditions" or "manners". The noun is placed before a stative or adjectival verb to nominalize the verb or the verb clause semantically.
 
