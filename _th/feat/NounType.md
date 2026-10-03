@@ -8,7 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Nmlz">Nmlz</a></td>
+  <td><a href="#Clf">Clf</a></td>
   <td><a href="#Nmlz">Nmlz</a></td>
 </tr>
 </table>
