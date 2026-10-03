@@ -61,6 +61,6 @@ dislocated(run, that)
 nsubj(วิ่ง, เรา)
 nsubj(wîŋ, raw) 
 nsubj(run, we) 
-~~~ sdparse
+~~~ 
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->
