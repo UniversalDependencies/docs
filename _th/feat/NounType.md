@@ -15,7 +15,8 @@ udver: '2'
 
 ### <a name="Clf">`Clf`</a>: classifier
 
-Thai, an isolating language, does not add an inflectional suffix to a noun to indicate quantity, but uses the construction of a classifier noun. 
+Thai, an isolating language, does not add an inflectional suffix to a noun to indicate quantity, but uses the construction of a classifier. The construction is placed after a head noun to express such the grammatical meaning as well as the characteristics of the head noun.
+
 
 #### Examples
 
