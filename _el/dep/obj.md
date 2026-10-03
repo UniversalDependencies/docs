@@ -12,7 +12,7 @@ The direct object of a verb is the noun phrase that denotes the entity acted upo
 obj(ενημέρωσε, σώμα)
 ~~~
 
-However, some verbs take objects in genitive:
+However, some verbs admit objects in the genitive case:
 
 ~~~ sdparse
 Η Αντιγόνη μοιάζει της Αρετής.Gen
