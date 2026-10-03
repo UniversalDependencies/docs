@@ -33,18 +33,10 @@ They can also be placed before a relative clause to nominalize the clause semant
 
 #### Examples
 
-```
-# text = การขายบ้านทำให้เขามีเงิน
-# tokenised_text = การ ขาย บ้าน ทำให้ เขา มี เงิน
-# text_en = Selling (his) house brought him some money.
-1	การ	การ	NOUN	_	NounType=Nmlz	4	nsubj	_	SpaceAfter=No|Gloss=a thing to be done|Translit=kaːn
-2	ขาย	ขาย	VERB	_	_	1	acl	_	SpaceAfter=No|Gloss=sell|Translit=khǎːj
-3	บ้าน	บ้าน	NOUN	_	_	2	obj	_	SpaceAfter=No|Gloss=house|Translit=bâːn
-4	ทำให้	ทำให้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=make|Translit=tham-hâj
-5	เขา	เขา	PRON	_	Person=3|PronType=Prs	4	obj	_	SpaceAfter=No|Gloss=he|Translit=khǎw
-6	มี	มี	VERB	_	_	4	xcomp	_	SpaceAfter=No|Gloss=have|Translit=miː
-7	เงิน	เงิน	NOUN	_	_	6	obl:arg	_	Gloss=money|Translit=ŋɤn
-```
+~~~ sdparse
+การ/NOUN ขาย/VERB บ้าน/NOUN ทำให้/VERB เขา/PRON มี/VERB เงิน/NOUN \n kaːn khǎːj bâːn tham-hâj khǎw miː ŋɤn \n work sell house make he have money
+acl(การ, ขาย)  
+~~~
 
 ```
 # text = เขามีความมั่นใจในการทำงาน
