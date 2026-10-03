@@ -34,22 +34,19 @@ They can also be placed before a relative clause to nominalize the clause semant
 #### Examples
 
 ~~~ sdparse
-การ/NOUN ขาย/VERB บ้าน/NOUN ทำให้/VERB เขา/PRON มี/VERB เงิน/NOUN \n kaːn khǎːj bâːn tham-hâj khǎw miː ŋɤn \n work sell house make he have money
-acl(การ, ขาย)  
+การ/NOUN ขาย/VERB บ้าน/NOUN ทำให้/VERB เขา/PRON มี/VERB เงิน/NOUN \n kaːn khǎːj bâːn tham-hâj khǎw miː ŋɤn \n a-thing-to-be-done sell house make he have money
+acl(การ, ขาย)
+acl(kaːn, khǎːj)
+acl(a-thing-to-be-done, sell)    
 ~~~
 
-```
-# text = เขามีความมั่นใจในการทำงาน
-# tokenised_text = เขา มี ความ มั่นใจ ใน การ ทำงาน
-# text_en = He is confident in his work.
-1	เขา	เขา	PRON	_	Person=3|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=he|Translit=khǎw
-2	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=miː
-3	ความ	ความ	NOUN	_	NounType=Nmlz	2	obl:arg	_	SpaceAfter=No|Gloss=condition|Translit=khwaːm
-4	มั่นใจ	มั่นใจ	VERB	_	_	3	acl	_	SpaceAfter=No|Gloss=be confident|Translit=mân-caj
-5	ใน	ใน	ADP	_	_	6	case	_	SpaceAfter=No|Gloss=in|Translit=naj
-6	การ	การ	NOUN	_	NounType=Nmlz	3	nmod	_	SpaceAfter=No|Gloss=a thing to be done|Translit=kaːn
-7	ทำงาน	ทำงาน	VERB	_	_	6	acl	_	Gloss=work|Translit=tham-ŋaːn
-```
+~~~ sdparse
+เขา/PRON มี/VERB ความ/NOUN มั่นใจ/VERB ใน/ADP การ/NOUN ทำงาน/VERB \n khǎw miː khwaːm mân-caj naj kaːn tham-ŋaːn \n he have condition be-confident in a-thing-to-be-done work    
+acl(ความ, มั่นใจ)
+acl(khwaːm, mân-caj)  
+acl(การ, ทำงาน)
+acl(kaːn, tham-ŋaːn)  
+~~~
 
 ```
 # text = การที่เราวิ่งอย่างสม่ำเสมอทำให้ร่างกายแข็งแรง
