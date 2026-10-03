@@ -30,6 +30,10 @@ udver: '2'
   * Necessitative ต้อง _tɔ̂ːŋ_ “must”.
   * Potential ได้ _dạî_ “can”.
 
+### Features
+
+* There is one Thai-specific feature, [NounType](/th/feat/NounType.html).
+
 ## Syntax
 
 ### Core Arguments, Oblique Arguments and Adjuncts
