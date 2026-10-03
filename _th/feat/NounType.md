@@ -51,5 +51,18 @@ They can also be placed before a relative clause to nominalize the clause semant
 7	ทำงาน	ทำงาน	VERB	_	_	6	acl	_	Gloss=work|Translit=tham-ŋaːn
 ~~~
 
-
+~~~ sdparse
+# text = การที่เราวิ่งอย่างสม่ำเสมอทำให้ร่างกายแข็งแรง
+# tokenised_text = การ ที่ เรา วิ่ง อย่าง สม่ำเสมอ ทำให้ ร่างกาย แข็งแรง
+# text_en = Running regularly keeps us healthy and strong.
+1	การ	การ	NOUN	_	NounType=Nmlz	7	nsubj	_	SpaceAfter=No|Gloss=a thing to be done|Translit=kaːn
+2	ที่	ที่	PRON	_	PronType=Rel	4	dislocated	_	SpaceAfter=No|Gloss=that(REL)|Translit=thîː
+3	เรา	เรา	PRON	_	Person=1|PronType=Prs	4	nsubj	_	SpaceAfter=No|Gloss=we|Translit=raw
+4	วิ่ง	วิ่ง	VERB	_	_	1	acl:relcl	_	SpaceAfter=No|Gloss=run|Translit=wîŋ
+5	อย่าง	อย่าง	NOUN	_	_	4	obl	_	SpaceAfter=No|Gloss=way|Translit=jàːŋ
+6	สม่ำเสมอ	สม่ำเสมอ	VERB	_	_	5	acl	_	SpaceAfter=No|Gloss=be regular|Translit=sà-màm-sà-mɤ̌ː
+7	ทำให้	ทำให้	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=make|Translit=tham-hâj
+8	ร่างกาย	ร่างกาย	NOUN	_	_	7	obj	_	SpaceAfter=No|Gloss=body|Translit=râːŋ-kaːj
+9	แข็งแรง	แข็งแรง	VERB	_	_	7	xcomp	_	Gloss=be strong|Translit=khɛ̌ːŋ-rɛːŋ
+~~~
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->
