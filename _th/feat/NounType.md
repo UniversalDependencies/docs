@@ -15,7 +15,7 @@ udver: '2'
 
 ### <a name="Nmlz">`Nmlz`</a>: nominalization
 
-In Thai, two nouns are mainly used to nominalize a verb clause whose verb is action or stative/adjectival as well as a relative clause.
+In Thai, two nouns can also be used to nominalize a verb or a verb clause whose verb is action or stative/adjectival as well as a relative clause.
 
 การ /kaːn/ is a noun which basically means "work" or "a thing to be done". The noun is placed before an action verb to nominalize the verb or the verb clause semantically. 
 
@@ -36,6 +36,19 @@ They can also be placed before a relative clause to nominalize the clause semant
 5	เขา	เขา	PRON	_	Person=3|PronType=Prs	4	obj	_	SpaceAfter=No|Gloss=he|Translit=khǎw
 6	มี	มี	VERB	_	_	4	xcomp	_	SpaceAfter=No|Gloss=have|Translit=miː
 7	เงิน	เงิน	NOUN	_	_	6	obl:arg	_	Gloss=money|Translit=ŋɤn
+~~~
+
+~~~ sdparse
+# text = เขามีความมั่นใจในการทำงาน
+# tokenised_text = เขา มี ความ มั่นใจ ใน การ ทำงาน
+# text_en = He is confident in his work.
+1	เขา	เขา	PRON	_	Person=3|PronType=Prs	2	nsubj	_	SpaceAfter=No|Gloss=he|Translit=khǎw
+2	มี	มี	VERB	_	_	0	root	_	SpaceAfter=No|Gloss=have|Translit=miː
+3	ความ	ความ	NOUN	_	NounType=Nmlz	2	obl:arg	_	SpaceAfter=No|Gloss=condition|Translit=khwaːm
+4	มั่นใจ	มั่นใจ	VERB	_	_	3	acl	_	SpaceAfter=No|Gloss=be confident|Translit=mân-caj
+5	ใน	ใน	ADP	_	_	6	case	_	SpaceAfter=No|Gloss=in|Translit=naj
+6	การ	การ	NOUN	_	NounType=Nmlz	3	nmod	_	SpaceAfter=No|Gloss=a thing to be done|Translit=kaːn
+7	ทำงาน	ทำงาน	VERB	_	_	6	acl	_	Gloss=work|Translit=tham-ŋaːn
 ~~~
 
 
