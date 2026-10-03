@@ -15,15 +15,15 @@ udver: '2'
 
 ### <a name="Clf">`Clf`</a>: classifier
 
-Chinese classifiers between cardinal numbers and nouns, or between determiners and nouns.
+Thai classifiers are generally used to express the quantities and characteristics of a head noun.
 
 #### Examples
 
-* 三<b>項</b>工程 / _sān <b>xiàng</b> gōngchéng_ “three projects”
+* 
 
 ### <a name="Nmlz">`Nmlz`</a>: nominalization
 
-In Thai, two nouns can also be used to nominalize a verb or a verb clause whose verb is action or stative/adjectival as well as a relative clause.
+In Thai, two nouns can also be used to nominalize a verb or a verb clause whose verb is action or stative/adjectival.
 
 การ /kaːn/ is a noun which basically means "work" or "a thing to be done". The noun is placed before an action verb to nominalize the verb or the verb clause semantically.
 
