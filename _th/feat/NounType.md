@@ -36,11 +36,11 @@ clf(three, CLF)
 
 "three people"
 ~~~ sdparse
-คน/NOUN สาม/NUM คน1/NOUN \n khon sǎːm khon1 \n person three CLF
+คน/NOUN สาม/NUM คน-clf/NOUN \n khon sǎːm khon-clf \n person three CLF
 nummod(คน, สาม)
-clf(สาม, คน1) 
+clf(สาม, คน-clf) 
 nummod(khon, sǎːm)
-clf(sǎːm, khon1) 
+clf(sǎːm, khon-clf) 
 nummod(person, three)
 clf(three, CLF)
 ~~~
