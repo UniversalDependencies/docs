@@ -54,7 +54,7 @@ acl(a-thing-to-be-done, work)
 
 ~~~ sdparse
 การ/NOUN ที่/PRON เรา/PRON วิ่ง/VERB อย่าง/NOUN สม่ำเสมอ/VERB ทำให้/VERB ร่างกาย/NOUN แข็งแรง/VERB \n kaːn thîː raw wîŋ jàːŋ sà-màm-sà-mɤ̌ː tham-hâj râːŋ-kaːj khɛ̌ːŋ-rɛːŋ \n a-thing-to-be-done that we run make body be-strong
-acl:relcl(การ, วิิ่ง)
+acl:relcl(การ, วิิ่ง) 
 acl:relcl(kaːn, wîŋ) 
 acl:relcl(a-thing-to-be-done, run) 
 dislocated(วิ่ง, ที่)
