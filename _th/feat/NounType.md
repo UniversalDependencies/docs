@@ -46,6 +46,7 @@ clf(three, CLF)
 ~~~
 
 To indicate sequence, the numeral is usually placed after a noun ที่ /thîː/ which means "position". This noun can sometimes be omitted, so the numeral is placed after the classifier noun.
+
 "the third cat"
 ~~~ sdparse
 แมว/NOUN ตัว/NOUN ที่/NOUN สาม/NUM \n mɛːw tua thîː sǎːm \n cat CLF position three
