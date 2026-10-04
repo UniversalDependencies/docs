@@ -97,6 +97,7 @@ They can also be placed before a relative clause to nominalize the clause semant
 
 #### Examples
 
+"Selling (his) house brought him some money."
 ~~~ sdparse
 การ/NOUN ขาย/VERB บ้าน/NOUN ทำให้/VERB เขา/PRON มี/VERB เงิน/NOUN \n kaːn khǎːj bâːn tham-hâj khǎw miː ŋɤn \n a-thing-to-be-done sell house make he have money
 acl(การ, ขาย)
@@ -104,6 +105,7 @@ acl(kaːn, khǎːj)
 acl(a-thing-to-be-done, sell)    
 ~~~
 
+"He is confident in his work."
 ~~~ sdparse
 เขา/PRON มี/VERB ความ/NOUN มั่นใจ/VERB ใน/ADP การ/NOUN ทำงาน/VERB \n khǎw miː khwaːm mân-caj naj kaːn tham-ŋaːn \n he have condition be-confident in a-thing-to-be-done work    
 acl(ความ, มั่นใจ)
@@ -114,6 +116,7 @@ acl(kaːn, tham-ŋaːn)
 acl(a-thing-to-be-done, work)  
 ~~~
 
+"Running regularly keeps us healthy and strong."
 ~~~ sdparse
 การ/NOUN ที่/PRON เรา/PRON วิ่ง/VERB อย่าง/NOUN สม่ำเสมอ/VERB ทำให้/VERB ร่างกาย/NOUN แข็งแรง/VERB \n kaːn thîː raw wîŋ jàːŋ sà-màm-sà-mɤ̌ː tham-hâj râːŋ-kaːj khɛ̌ːŋ-rɛːŋ \n a-thing-to-be-done that we run make body be-strong
 acl:relcl(การ, วิ่ง) 
