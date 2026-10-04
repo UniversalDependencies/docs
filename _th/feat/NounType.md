@@ -72,6 +72,19 @@ clf(cat, CLF)
 nmod(CLF, three)
 ~~~
 
+When a head noun and a classifier noun are the same word, the head noun is usually omitted, especially for being placed next to each other, to avoid repetition.
+
+"the third person"
+~~~ sdparse
+คน-clf/NOUN ที่/NOUN สาม/NUM \n khon-clf thîː sǎːm \n CLF position three 
+nmod(คน-clf, ที่)
+nmod(ที่, สาม) 
+nmod(khon-clf, thîː)
+nmod(thîː, sǎːm) 
+nmod(CLF, position)
+nmod(position, three)
+~~~
+
 ### <a name="Nmlz">`Nmlz`</a>: nominalization
 
 Two Thai nouns can be used to nominalize a verb or a verb clause whose head verb is action or stative/adjectival.
