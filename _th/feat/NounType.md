@@ -34,6 +34,17 @@ nummod(cat, three)
 clf(three, CLF)
 ~~~
 
+"three people"
+~~~ sdparse
+คน/NOUN สาม/NUM คน/NOUN \n khon sǎːm khon \n person three CLF
+nummod(คน, สาม)
+clf(สาม, คน) 
+nummod(khon, sǎːm)
+clf(sǎːm, khon) 
+nummod(person, three)
+clf(three, CLF)
+~~~
+
 ### <a name="Nmlz">`Nmlz`</a>: nominalization
 
 Two Thai nouns can be used to nominalize a verb or a verb clause whose head verb is action or stative/adjectival.
