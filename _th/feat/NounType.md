@@ -19,9 +19,19 @@ Thai, an isolating language, does not add inflectional suffixes to nouns to indi
 
 The classifier construction is composed of a classifier and a modifier. Because Thai is a head-initial language that uses postmodification, this construction is typically placed after the head noun to convey this grammatical number as well as the characteristics of the head noun."
 
+As mentioned, inflectional suffixes are not required in the language; therefore, no distinction is made between cardinal and ordinal numerals, unlike in some other languages. Instead, the placement of the numeral relative to the classifier noun indicates quantity or sequence.
+
 #### Examples
 
-* 
+~~~ sdparse
+แมว/NOUN สาม/NUM ตัว/NOUN \n mɛːw sǎːm tua \n cat three CLF
+nummod(แมว, สาม)
+clf(สาม, ตัว) 
+nummod(mɛːw, sǎːm)
+clf(sǎːm, tua) 
+nummod(cat, three)
+clf(three, CLF)
+~~~
 
 ### <a name="Nmlz">`Nmlz`</a>: nominalization
 
