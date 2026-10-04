@@ -61,6 +61,17 @@ nmod(CLF, position)
 nmod(position, three) 
 ~~~
 
+"the third cat"
+~~~ sdparse
+แมว/NOUN ตัว/NOUN สาม/NUM \n mɛːw tua sǎːm \n cat CLF three
+clf(แมว, ตัว)
+nmod(ตัว, สาม)
+clf(mɛːw, tua)
+nmod(tua, sǎːm)
+clf(cat, CLF)
+nmod(CLF, three)
+~~~
+
 ### <a name="Nmlz">`Nmlz`</a>: nominalization
 
 Two Thai nouns can be used to nominalize a verb or a verb clause whose head verb is action or stative/adjectival.
