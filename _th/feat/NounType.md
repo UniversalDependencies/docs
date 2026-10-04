@@ -23,6 +23,8 @@ As mentioned, inflectional suffixes are not required in the language; therefore,
 
 #### Examples
 
+To indicate quantity, the numeral is usually placed before a classifier noun. 
+
 "three cats"
 ~~~ sdparse
 แมว/NOUN สาม/NUM ตัว/NOUN \n mɛːw sǎːm tua \n cat three CLF
