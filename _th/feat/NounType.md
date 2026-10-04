@@ -23,6 +23,7 @@ As mentioned, inflectional suffixes are not required in the language; therefore,
 
 #### Examples
 
+"three cats"
 ~~~ sdparse
 แมว/NOUN สาม/NUM ตัว/NOUN \n mɛːw sǎːm tua \n cat three CLF
 nummod(แมว, สาม)
