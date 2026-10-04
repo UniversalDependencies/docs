@@ -15,8 +15,9 @@ udver: '2'
 
 ### <a name="Clf">`Clf`</a>: classifier
 
-Thai, an isolating language, does not add an inflectional suffix to a noun to indicate quantity, but uses the construction of a classifier. The construction is placed after a head noun to express such the grammatical meaning as well as the characteristics of the head noun.
+Thai, an isolating language, does not add inflectional suffixes to nouns to indicate quantity; instead, it uses a classifier construction. Several common nouns can serve as classifiers for other nouns, as well as for themselves. That is, while some nouns require a specific classifier, others use themselves as their own classifier. Therefore, a classifier is functionally a noun because it shares the same distribution as other nouns and behaves almost exactly like them.
 
+The classifier construction is composed of a classifier and a modifier. Because Thai is a head-initial language that uses postmodification, this construction is typically placed after the head noun to convey this grammatical number as well as the characteristics of the head noun."
 
 #### Examples
 
@@ -24,7 +25,7 @@ Thai, an isolating language, does not add an inflectional suffix to a noun to in
 
 ### <a name="Nmlz">`Nmlz`</a>: nominalization
 
-In Thai, two nouns can also be used to nominalize a verb or a verb clause whose verb is action or stative/adjectival.
+Two Thai nouns can be used to nominalize a verb or a verb clause whose head verb is action or stative/adjectival.
 
 การ /kaːn/ is a noun which basically means "work" or "a thing to be done". The noun is placed before an action verb to nominalize the verb or the verb clause semantically.
 
