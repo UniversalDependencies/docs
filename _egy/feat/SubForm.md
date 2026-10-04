@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#AbstRel">AbstRel</a></td>
   <td><a href="#Pred">Pred</a></td>
   <td><a href="#RelForm">RelForm</a></td>
+  <td><a href="#No">No</a></td>
 </tr>
 </table>
 
@@ -71,5 +72,12 @@ Wolfgang Schenkel, 2012. Tübinger Einführung in die klassisch-ägyptische Spra
 
 * TBA
 * _<b>ꞽwi̯</b>_ “come, return”
+
+### <a name="No">`No`</a>: verb form
+
+#### Example
+
+* TBA
+
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:19 CEST -->
