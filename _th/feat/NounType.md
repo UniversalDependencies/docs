@@ -36,13 +36,28 @@ clf(three, CLF)
 
 "three people"
 ~~~ sdparse
-คน/NOUN สาม/NUM คน/NOUN \n khon sǎːm khon \n person three CLF
+คน/NOUN สาม/NUM คน1/NOUN \n khon sǎːm khon1 \n person three CLF
 nummod(คน, สาม)
-clf(สาม, คน) 
+clf(สาม, คน1) 
 nummod(khon, sǎːm)
-clf(sǎːm, khon) 
+clf(sǎːm, khon1) 
 nummod(person, three)
 clf(three, CLF)
+~~~
+
+To indicate sequence, the numeral is usually placed after a noun ที่ /thîː/ which means "position". This noun can sometimes be omitted, so the numeral is placed after the classifier noun.
+"the third cat"
+~~~ sdparse
+แมว/NOUN ตัว/NOUN ที่/NOUN สาม/NUM \n mɛːw tua thîː sǎːm \n cat CLF position three
+clf(แมว, ตัว)
+nmod(ตัว, ที่)
+nmod(ที่, สาม) 
+clf(mɛːw, tua)
+nmod(tua, thîː)
+nmod(thîː, sǎːm) 
+clf(cat, CLF)
+nmod(CLF, position)
+nmod(position, three) 
 ~~~
 
 ### <a name="Nmlz">`Nmlz`</a>: nominalization
