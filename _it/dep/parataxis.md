@@ -33,9 +33,14 @@ to resort to an extensive use of parataxis, and of different flavours for differ
 * [parataxis:appos](parataxis-appos) is used for appositive sentences 
 * [parataxis:discourse](parataxis-discourse) is used for semantically-void sentences used as discourse markers 
 * [parataxis:hashtag](parataxis-hashtag) is used for hashtags that are not syntactically integrated into the sentence 
-* [parataxis:insert](parataxis-insert) is used for parenthetical clauses that cannot be considered independent from the governing predicate 
+* [parataxis:insert](parataxis-insert) is used for parenthetical clauses that cannot be considered independent from the governing predicate (in PoSTWITA), and for inserted reporting or comment clauses such as *dicono* or *sai* (in KIParla)
 * [parataxis:nsubj](parataxis-nsubj) is used for paratactic sentences with an implicit nsubj role with respect to the governing predicate 
 * [parataxis:obj](parataxis-obj) is used for paratactic sentences with an implicit obj role with respect to the governing predicate
+
+The following specializations are used in KIParla, a corpus of spoken Italian (see also parataxis:insert above):
+
+* [parataxis:parenth](parataxis-parenth) is used for parenthetical clauses inserted in another clause
+* [parataxis:restart](parataxis-restart) is used when the speaker abandons a construction and restarts it
 
 
 
