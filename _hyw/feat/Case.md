@@ -13,7 +13,6 @@ udver: '2'
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Gen">Gen</a></td>
   <td><a href="#Ins">Ins</a></td>
-  <td><a href="#Loc">Loc</a></td>
   <td><a href="#Nom">Nom</a></td>
 </tr>
 </table>
