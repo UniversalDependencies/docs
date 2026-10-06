@@ -4,9 +4,9 @@ title:  'Pali UD'
 udver: '2'
 ---
 
-# UD for Pali <span class="flagspan"><img class="flag" src="../../flags/svg/IN.svg" /></span>
+# UD for Pali <span class="flagspan"><img class="flag" src="../../flags/svg/BUDDHISM.svg" /></span>
 
-Pāli is an Indo-Aryan language, widely studied as the liturgical language of Theravāda Buddhism.
+Pāli is an Indo-Aryan language, widely studied as the liturgical and scriptural language of Theravāda Buddhism.
 
 ## Orthography
 
