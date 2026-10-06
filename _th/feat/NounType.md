@@ -37,47 +37,19 @@ The modifier placed after the classifier can be of any type, except a quantifier
 
 ### <a name="Nmlz">`Nmlz`</a>: nominalization
 
-Two Thai nouns can be used to nominalize a verb or a verb clause whose head verb is action or stative/adjectival.
+Two Thai nouns—<b>การ</b> kaːn (meaning 'work' or 'a thing to be done') and <b>ความ</b> khwaːm (meaning 'conditions' or 'abstract concepts')—are common nouns which typically behave and function like any other common nouns. They can also serve to nominalize certain clause types, most notably verbal clauses headed by either action or stative/adjectival verbs.
 
-การ /kaːn/ is a noun which basically means "work" or "a thing to be done". The noun is placed before an action verb to nominalize the verb or the verb clause semantically.
+To nominalize the clause semantically, each of them follow a particular pattern.
 
-ความ /khwaːm/ is a noun which basically means "conditions" or "manners". The noun is placed before a stative or adjectival verb to nominalize the verb or the verb clause semantically.
-
-They can also be placed before a relative clause to nominalize the clause semantically as well.
+* <b>การ</b> kaːn "work" + Action Verb
+* <b>การ</b> kaːn "work" + Relative Clause
+* <b>ความ</b> khwaːm "conditions" + Stative / Adjectival Verb
+* <b>ความ</b> khwaːm "conditions" + Relative Clause
 
 #### Examples
 
-"Selling (his) house brought him some money."
-~~~ sdparse
-การ/NOUN ขาย/VERB บ้าน/NOUN ทำให้/VERB เขา/PRON มี/VERB เงิน/NOUN \n kaːn khǎːj bâːn tham-hâj khǎw miː ŋɤn \n a-thing-to-be-done sell house make he have money
-acl(การ, ขาย)
-acl(kaːn, khǎːj)
-acl(a-thing-to-be-done, sell)    
-~~~
-
-"He is confident in his work."
-~~~ sdparse
-เขา/PRON มี/VERB ความ/NOUN มั่นใจ/VERB ใน/ADP การ/NOUN ทำงาน/VERB \n khǎw miː khwaːm mân-caj naj kaːn tham-ŋaːn \n he have condition be-confident in a-thing-to-be-done work    
-acl(ความ, มั่นใจ)
-acl(khwaːm, mân-caj)
-acl(condition, be-confident)    
-acl(การ, ทำงาน)
-acl(kaːn, tham-ŋaːn)
-acl(a-thing-to-be-done, work)  
-~~~
-
-"Running regularly keeps us healthy and strong."
-~~~ sdparse
-การ/NOUN ที่/PRON เรา/PRON วิ่ง/VERB อย่าง/NOUN สม่ำเสมอ/VERB ทำให้/VERB ร่างกาย/NOUN แข็งแรง/VERB \n kaːn thîː raw wîŋ jàːŋ sà-màm-sà-mɤ̌ː tham-hâj râːŋ-kaːj khɛ̌ːŋ-rɛːŋ \n a-thing-to-be-done that we run make body be-strong
-acl:relcl(การ, วิ่ง) 
-acl:relcl(kaːn, wîŋ) 
-acl:relcl(a-thing-to-be-done, run) 
-dislocated(วิ่ง, ที่)
-dislocated(wîŋ, thîː) 
-dislocated(run, that)  
-nsubj(วิ่ง, เรา)
-nsubj(wîŋ, raw) 
-nsubj(run, we) 
-~~~ 
+* <b>การ</b>ขายบ้านทำให้เขามีเงิน / <b>kaːn</b> khǎːj bâːn tham-hâj khǎw miː ŋɤn “Selling (his) house brought him some money.”
+* เขามี<b>ความ</b>มั่นใจใน<b>การ</b>ทำงาน / khǎw miː <b>khwaːm</b> mân-caj naj <b>kaːn</b> tham-ŋaːn "He is confident in his work."
+* <b>การ</b>ที่เราวิ่งอย่างสม่ำเสมอทำให้ร่างกายแข็งแรง / <b>kaːn</b> thîː raw wîŋ jàːŋ sà-màm-sà-mɤ̌ː tham-hâj râːŋ-kaːj khɛ̌ːŋ-rɛːŋ "Running regularly keeps us healthy and strong."
 
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:03 CEST -->
