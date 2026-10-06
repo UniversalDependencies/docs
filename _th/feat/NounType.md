@@ -37,9 +37,9 @@ The modifier placed after the classifier can be of any type, except a quantifier
 
 ### <a name="Nmlz">`Nmlz`</a>: nominalization
 
-Two Thai nouns—<b>การ</b> kaːn (meaning 'work' or 'a thing to be done') and <b>ความ</b> khwaːm (meaning 'conditions' or 'abstract concepts')—are common nouns which typically behave and function like any other common nouns. They can also serve to nominalize certain clause types, most notably verbal clauses headed by either action or stative/adjectival verbs.
+Two Thai nouns—<b>การ</b> kaːn (meaning 'work' or 'a thing to be done') and <b>ความ</b> khwaːm (meaning 'conditions' or 'abstract concepts')—are common nouns that typically behave and function like any other nouns. They can also serve to nominalize certain clause types, most notably verbal clauses headed by either action or stative/adjectival verbs.
 
-To nominalize the clause semantically, each of them follow a particular pattern.
+To nominalize a clause semantically, each of them follows a particular pattern.
 
 * <b>การ</b> kaːn "work" + Action Verb
 * <b>การ</b> kaːn "work" + Relative Clause
