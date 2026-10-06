@@ -13,13 +13,13 @@ udver: '2'
 </tr>
 </table>
 
+Thai, an isolating language, does not use inflectional suffixes to words; instead, it relies on syntactic distribution and word co-occurrence to indicate grammatical information and functions. In addition, it is a head-initial language that uses postmodification, so noun modifiers are typically placed after the head noun. 
+
+This feature applies to Thai nouns, several of which can serve as classifiers in specific constructions, and two of which can serve to nominalize verb clauses as well as other clause types. 
+
 ### <a name="Clf">`Clf`</a>: classifier
 
-Thai, an isolating language, does not add inflectional suffixes to nouns to indicate quantity; instead, it uses a classifier construction. Several common nouns can serve as classifiers for other nouns, as well as for themselves. That is, while some nouns require a specific classifier, others use themselves as their own classifier. Therefore, a classifier is functionally a noun because it shares the same distribution as other nouns and behaves almost exactly like them.
-
-The classifier construction is composed of a classifier and a modifier. Because Thai is a head-initial language that uses postmodification, this construction is typically placed after the head noun to convey this grammatical number as well as the characteristics of the head noun.
-
-As mentioned, inflectional suffixes are not required in the language; therefore, no distinction is made between cardinal and ordinal numerals, unlike in some other languages. Instead, the placement of the numeral relative to the classifier noun indicates quantity or sequence.
+Classifiers are derived from a variety of common nouns; therefore, they are functionally nouns, sharing the same distribution as other nouns and behaving almost exactly like them. They are thus tagged `NOUN`. 
 
 #### Examples
 
