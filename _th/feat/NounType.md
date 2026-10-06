@@ -29,69 +29,11 @@ The modifier placed after the classifier can be of any type, except a quantifier
 
 #### Examples
 
-To indicate quantity, the numeral is usually placed before a classifier noun. 
-
-"three cats"
-~~~ sdparse
-แมว/NOUN สาม/NUM ตัว/NOUN \n mɛːw sǎːm tua \n cat three CLF
-nummod(แมว, สาม)
-clf(สาม, ตัว) 
-nummod(mɛːw, sǎːm)
-clf(sǎːm, tua) 
-nummod(cat, three)
-clf(three, CLF)
-~~~
-
-"three people"
-~~~ sdparse
-คน/NOUN สาม/NUM คน-clf/NOUN \n khon sǎːm khon-clf \n person three CLF
-nummod(คน, สาม)
-clf(สาม, คน-clf) 
-nummod(khon, sǎːm)
-clf(sǎːm, khon-clf) 
-nummod(person, three)
-clf(three, CLF)
-~~~
-
-To indicate sequence, the numeral is usually placed after a noun ที่ /thîː/ which means "position". This noun can sometimes be omitted, so the numeral is placed after the classifier noun.
-
-"the third cat"
-~~~ sdparse
-แมว/NOUN ตัว/NOUN ที่/NOUN สาม/NUM \n mɛːw tua thîː sǎːm \n cat CLF position three
-clf(แมว, ตัว)
-nmod(ตัว, ที่)
-nmod(ที่, สาม) 
-clf(mɛːw, tua)
-nmod(tua, thîː)
-nmod(thîː, sǎːm) 
-clf(cat, CLF)
-nmod(CLF, position)
-nmod(position, three) 
-~~~
-
-"the third cat"
-~~~ sdparse
-แมว/NOUN ตัว/NOUN สาม/NUM \n mɛːw tua sǎːm \n cat CLF three
-clf(แมว, ตัว)
-nmod(ตัว, สาม)
-clf(mɛːw, tua)
-nmod(tua, sǎːm)
-clf(cat, CLF)
-nmod(CLF, three)
-~~~
-
-When a head noun and a classifier noun are the same word, the head noun is usually omitted, especially for being placed next to each other, to avoid repetition.
-
-"the third person"
-~~~ sdparse
-คน-clf/NOUN ที่/NOUN สาม/NUM \n khon-clf thîː sǎːm \n CLF position three 
-nmod(คน-clf, ที่)
-nmod(ที่, สาม) 
-nmod(khon-clf, thîː)
-nmod(thîː, sǎːm) 
-nmod(CLF, position)
-nmod(position, three)
-~~~
+* แมวสาม<b>ตัว</b> / mɛːw sǎːm <b>tua</b> “three cats”
+* แมวหลาย<b>ตัว</b> / mɛːw lǎːj <b>tua</b> “several cats”
+* คนสาม<b>คน</b> / khon sǎːm <b>khon</b> “three people”
+* แมว<b>ตัว</b>ใหญ่ / mɛːw <b>tua</b> jàj “big cats”
+* คน<b>คน</b>นี้ / khon <b>khon</b> níː "this person"
 
 ### <a name="Nmlz">`Nmlz`</a>: nominalization
 
