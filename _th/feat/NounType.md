@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-Thai, an isolating language, does not use inflectional suffixes to words; instead, it relies on syntactic distribution and word co-occurrence to indicate grammatical information and functions. In addition, it is a head-initial language that uses postmodification, so noun modifiers are typically placed after the head noun. 
+Thai, an isolating language, does not use inflectional suffixes; instead, it relies on syntactic distribution and word co-occurrence to indicate grammatical information and functions. In addition, it is a head-initial language that uses postmodification, so noun modifiers are typically placed after the head noun. 
 
 This feature applies to Thai nouns, several of which can serve as classifiers in specific constructions, and two of which can serve to nominalize verb clauses as well as other clause types. 
 
