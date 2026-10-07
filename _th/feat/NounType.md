@@ -19,10 +19,9 @@ This feature applies to Thai nouns, several of which can serve as classifiers in
 
 ### <a name="Clf">`Clf`</a>: classifier
 
-Classifiers are derived from a variety of common nouns; therefore, they are functionally nouns, sharing the same distribution as other nouns and behaving almost exactly like them. They are thus tagged `NOUN`. They are typically used to convey grammatical number as well as the inherent characteristics of the head noun. Their construction follows two primary patterns:
+Classifiers are derived from a variety of common nouns; therefore, they are functionally nouns, sharing the same distribution and behaving almost exactly like them. They are thus tagged `NOUN`. They are typically used to convey grammatical number as well as the inherent characteristics of the head noun. When they are not accompanied by numerals or quantifiers, they themselves imply a singular meaning (i.e., 'one'). Their construction follows two primary patterns:
 
 * Head Noun + Numeral / Quantifier + Classifier
-
 * Head Noun + Classifier + Modifier
 
 The modifier placed after the classifier can be of any type, except a quantifier. Some nouns require a specific classifier, while others serve as their own classifier. These distributional patterns and specific lexical requirements allow us to distinguish a classifier noun from a common noun.
@@ -32,19 +31,20 @@ The modifier placed after the classifier can be of any type, except a quantifier
 * แมวสาม<b>ตัว</b> / mɛːw sǎːm <b>tua</b> “three cats”
 * แมวหลาย<b>ตัว</b> / mɛːw lǎːj <b>tua</b> “several cats”
 * คนสาม<b>คน</b> / khon sǎːm <b>khon</b> “three people”
-* แมว<b>ตัว</b>ใหญ่ / mɛːw <b>tua</b> jàj “big cats”
+* จาน<b>ใบ</b>สีขาว / caːn <b>baj</b> sǐː khǎːw “a white plate”
+* แมว<b>ตัว</b>ใหญ่ / mɛːw <b>tua</b> jàj “a big cat”
 * คน<b>คน</b>นี้ / khon <b>khon</b> níː "this person"
 
 ### <a name="Nmlz">`Nmlz`</a>: nominalization
 
-Two Thai nouns—<b>การ</b> kaːn (meaning 'work' or 'a thing to be done') and <b>ความ</b> khwaːm (meaning 'conditions' or 'abstract concepts')—are common nouns that typically behave and function like any other nouns. They can also serve to nominalize certain clause types, most notably verbal clauses headed by either action or stative/adjectival verbs.
+Two Thai nouns—<b>การ</b> *kaːn* (meaning 'work' or 'a thing to be done') and <b>ความ</b> *khwaːm* (meaning 'conditions' or 'abstract concepts')—are common nouns that typically behave and function like any other noun. However, they can also serve to nominalize certain clause types, most notably verbal clauses headed by either action or stative/adjectival verbs. When nominalizing these clauses, they are tagged `NOUN`as well.
 
 To nominalize a clause semantically, each of them follows a particular pattern.
 
-* <b>การ</b> kaːn "work" + Action Verb
-* <b>การ</b> kaːn "work" + Relative Clause
-* <b>ความ</b> khwaːm "conditions" + Stative / Adjectival Verb
-* <b>ความ</b> khwaːm "conditions" + Relative Clause
+* <b>การ</b> *kaːn* "work" + Action Verb
+* <b>การ</b> *kaːn* "work" + Relative Clause
+* <b>ความ</b> *khwaːm* "conditions" + Stative / Adjectival Verb
+* <b>ความ</b> *khwaːm* "conditions" + Relative Clause
 
 #### Examples
 
