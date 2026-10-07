@@ -19,7 +19,7 @@ This feature applies to Thai nouns, several of which can serve as classifiers in
 
 ### <a name="Clf">`Clf`</a>: classifier
 
-Classifiers are derived from a variety of common nouns; therefore, they are functionally nouns, sharing the same distribution and behaving almost exactly like them. They are thus tagged `NOUN`. They are typically used to convey grammatical number as well as the inherent characteristics of the head noun. When they are not accompanied by numerals or quantifiers, they themselves imply a singular meaning (i.e., 'one'). Their construction follows two primary patterns:
+Classifiers are derived from a variety of common nouns; therefore, they are functionally nouns, sharing the same distribution and behaving almost exactly like them. They are thus tagged `NOUN`. They are typically used to convey grammatical number as well as the inherent characteristics of the head noun. When they are not accompanied by numerals or quantifiers, they themselves imply a singular meaning (i.e., 'one' or 'a'). Their construction follows two primary patterns:
 
 * Head Noun + Numeral / Quantifier + Classifier
 * Head Noun + Classifier + Modifier
