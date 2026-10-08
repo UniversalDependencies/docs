@@ -81,7 +81,37 @@ Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, 
   
 ### Polarity
 
+* [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()).
+* The bound negative morpheme _չ-_/_č-_ is represented in the morphological analysis of the negated verb or auxiliary. When orthography requires a split, as in _չ՚ուզեր_/_č՚owzer_, the resulting syntactic tokens (_չ՚_/_č՚_ and _ուզեր_/_owzer_) are annotated separately.
+ * The prohibitive marker _մի՛_/_mi_ is tagged ([PART]()) and receives `Mood=Imp|Polarity=Neg`.
+ * Independent _ոչ_/_oč_ is normally ([PART]()) with `Polarity=Neg`. 
+ * The `Polarity` feature is not used with negative pronouns. The `PronType=Neg` feature is used there instead.
+ * Connegative forms occurring in analytical negation receive ՝Connegative=Yes՝ rather than ՝Polarity=Neg՝.
+
 ### Pronouns, Determiners, Quantifiers
+
+* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
+* [NumType]() is used with numerals ([NUM]()) and with relevant adjectives ([ADJ]()) and adverbs ([ADV]()).
+* The [Poss]() feature marks possessive personal determiners (e.g. _իմ_ “my”),
+  possessive interrogative, relative pronouns (e.g. _որու_ “whose”), and other forms with an encoded possessive meaning.
+  
+  and possessive adjectives (e.g. _հայոց_ “armenian, armenians’, refer to armenians”).
+* The [Reflex]() feature marks reflexive pronouns _(ինձ, քեզ, իրեն, մեզ, ձեզ, իրենց)_ and determiners _(իր, իրենց)_.
+  In Armenian it is always used together with `PronType=Emp` or `PronType=Prs`.
+* [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
+  With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
+  Person is not marked on other types of pronouns and on nouns, although they can almost always be interpreted as the 3rd person.
+  * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
+* The [Polite]() feature distinguishes informal second-person pronouns (_դու, դուք,_ `Polite=Infm`)
+  from the formal _Դուք_ (`Polite=Form`).
+  The formal pronoun is phonologically equivalent in all its case forms to the second-person plural _դուք_
+  but it is distinguished in orthography by the capital letter _Դ._
+  We tag it as second person (because that is its meaning) and we tag also its number (it is used for singular addressees) despite the fact that it combines with second-person plural verbs.
+  The parser must learn that `Number=Sing|Person=2|Polite=Form` subject attaches to `Number=Plur|Person=2` verbs,
+  while `Number=Sing|Person=2|Polite=Infm` subject attaches to `Number=Sing|Person=2` verbs.
+* There are three [layered features](../../u/overview/feat-layers.html), [Person[psor]](), [Number[psor]]() and [Deixis[psor]]().
+  They appear with nouns, gerundives, certain pronouns and adpositions and encode the lexical person/number of the possessor or the position of an entity relative to either the speaker or the hearer. The extra layer is needed to distinguish these lexical features from the inflectional person and number that mark agreement with the modified (possessed) noun.
+
 
 ### Other Features
 
