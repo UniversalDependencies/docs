@@ -23,9 +23,9 @@ While we strip out punctuation in our `# text` rows, we do recommend using any p
 
 * Words are generally delimited by spaces.
 * Compounds are split and sandhi undone as it is the custom in Sanskritic linguistics.
-* Compounds receive token ranges (e.g. `10-12`) and should get the appropriate [compound]() relation subtype.
-* Sandhi should be marked with a `SpaceAfter=No` in the earlier token's `MISC` and should not get a range id.
-* Multi-word tokens are generally not used. Parts of a multi-word name (e.g. "Saccaka Nigaṇṭhāputta") should get the [flat:name]() dependency relation.
+* Compounds receive multiword token ranges (e.g. `10-12`) and should get the appropriate [compound]() relation subtype. Only proper Pāli compounds get MWTs. We treat attached particles (like "-ti" and "-pi") as sandhi and not as a MWT.
+* Sandhi should be marked with a `SpaceAfter=No` in the earlier token's `MISC` and do not get a range id.
+* Multitoken words (e.g. words with spaces inside them) are generally not used. Parts of a multitoken name (e.g. "Saccaka Nigaṇṭhāputta") should get the [flat:name]() dependency relation.
 
 ## Morphology
 
@@ -83,7 +83,7 @@ The following particles get the `PART` `UPOS`:
 
 ### Features
 
-Some forms in Pāli are ambiguous. For example, a feminine noun of the `-ā` class with a `-āya` suffix might be Singular Instrumental, Ablative, Genitive, Dative, or Locative! When `Case` can be inferred from context, feel free to mark only the semantically correct case.  If multiple parses are reasonable in a given context, list all the plausible values in alphabetical order, separated by commas (e.g. if you have an *-āya* noun, and all but instrumental are reasonable parses, mark it `Case=Abl,Dat,Gen,Loc|Gender=Fem|Number=Sing`).
+Some forms in Pāli are ambiguous. For example, a feminine noun of the `-ā` class with a `-āya` suffix might be Singular Instrumental, Ablative, Genitive, Dative, or Locative! When `Case` can be inferred from context, feel free to mark only the semantically correct case.  If multiple parses are reasonable in a given context, list the plausible values in alphabetical order, separated by commas (e.g. if you have an *-āya* noun, and all but instrumental are reasonable parses, mark it `Case=Abl,Dat,Gen,Loc|Gender=Fem|Number=Sing`, though such cases should be exceedingly rare).
 
 #### Nouns
 
@@ -121,6 +121,8 @@ Since all the participles have `VERB` as their `UPOS`, they cannot be used as `a
 We have two subtypes of the `obl` relation:
 * [obl:agent]()
 * [obl:goal]()
+
+We do not (at the moment) use enhanced dependency graphs, so DEPS should always be `_`.
 
 We have a number of unique deprels for our compound subtypes.
 See the [compound]() doc pages for details on those.
