@@ -81,7 +81,7 @@ Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, 
   
 ### Polarity
 
-* [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()).
+* [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to [VERB]() and [AUX]().
 * The bound negative morpheme _չ-_/_č-_ is represented in the morphological analysis of the negated verb or auxiliary. When orthography requires a split, as in _չ՚ուզեր_/_č՚owzer_, the resulting syntactic tokens (_չ՚_/_č՚_ and _ուզեր_/_owzer_) are annotated separately.
  * The prohibitive marker _մի՛_/_mi_ is tagged ([PART]()) and receives `Mood=Imp|Polarity=Neg`.
  * Independent _ոչ_/_oč_ is normally ([PART]()) with `Polarity=Neg`. 
@@ -92,12 +92,10 @@ Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, 
 
 * [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
 * [NumType]() is used with numerals ([NUM]()) and with relevant adjectives ([ADJ]()) and adverbs ([ADV]()).
-* The [Poss]() feature marks possessive personal determiners (e.g. _իմ_ “my”),
-  possessive interrogative, relative pronouns (e.g. _որու_ “whose”), and other forms with an encoded possessive meaning.
-  
-  and possessive adjectives (e.g. _հայոց_ “armenian, armenians’, refer to armenians”).
-* The [Reflex]() feature marks reflexive pronouns _(ինձ, քեզ, իրեն, մեզ, ձեզ, իրենց)_ and determiners _(իր, իրենց)_.
-  In Armenian it is always used together with `PronType=Emp` or `PronType=Prs`.
+* The [Poss]() feature marks possessive personal determiners (e.g. _իմ_/_im_ “my”),
+  possessive interrogative, relative pronouns (e.g. _որու_/_orow_ “whose”), and other forms with an encoded possessive meaning.
+ * The [Reflex]() feature marks reflexive pronouns and determiners such as _ինքզինք_/_inkʼzinkʼ_ “he themself/she herself/it itsekf”, _իր_/_ir_ “his, her, its”, _իրենց_/_irencʼ_ “them”.
+ 
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can almost always be interpreted as the 3rd person.
