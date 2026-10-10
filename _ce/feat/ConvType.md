@@ -47,7 +47,7 @@ It typically occurs in subordinate temporal clauses.
   3SG.ERG 3SG.DEM.ABS say-**CVBtemp**<br>
   'when she said it…'
 
-### <a name="CVBafter">`CVBafter`</a>: converb 'after'
+### <a name="CVBafter">`CVBafter`</a>: converb "after"
 
 Converbs with the suffix _-chol_ occur in combination with the adverb _t'aehwa_ 'afterward'.
 
