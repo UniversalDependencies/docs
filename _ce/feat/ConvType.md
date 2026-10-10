@@ -70,7 +70,7 @@ This converb occurs in chained constructions only.
   forest.LAT go.**CVBimm** good two stick J-bring.IMP<br>
   '**Go** to the forest, bring two good sticks.'
 
-### <a name="CVBas">`CVBwhen`</a>: converb 'as soon as'
+### <a name="CVBas">`CVBwhen`</a>: converb "as soon as"
 
 Converbs composed of the perfective stem and the suffix _ -(n)iahw_ occur in adverbial clauses with the reading 'as soon as'.
 
@@ -78,7 +78,7 @@ Converbs composed of the perfective stem and the suffix _ -(n)iahw_ occur in adv
 
 * _xaej<b>niahw</b>_ 'as soon as (she) knew'
 
-### <a name="CVBbefore">`CVBbefore`</a>: converb 'before'
+### <a name="CVBbefore">`CVBbefore`</a>: converb "before"
 
 Converbs carrying the suffix _-jahw_ occur in adverbial clauses with the reading 'before'.
 
@@ -88,7 +88,7 @@ Converbs carrying the suffix _-jahw_ occur in adverbial clauses with the reading
   much time j-**pass.CVBbefore**<br>
   'soon (lit. before much time passed)'
 
-### <a name="CVBuntil">`CVBuntil`</a>: converb 'until'
+### <a name="CVBuntil">`CVBuntil`</a>: converb "until"
 
 Converbs with the suffix _-alc_ (on the infinitive stem) occur in adverbial clauses with the reading 'until'.
 
