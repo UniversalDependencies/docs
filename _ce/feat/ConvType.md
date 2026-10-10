@@ -70,7 +70,7 @@ This converb occurs in chained constructions only.
   forest.LAT go.**CVBimm** good two stick J-bring.IMP<br>
   '**Go** to the forest, bring two good sticks.'
 
-### <a name="CVBas">`CVBwhen`</a>: converb "as soon as"
+### <a name="CVBas">`CVBas`</a>: converb "as soon as"
 
 Converbs composed of the perfective stem and the suffix _ -(n)iahw_ occur in adverbial clauses with the reading 'as soon as'.
 
