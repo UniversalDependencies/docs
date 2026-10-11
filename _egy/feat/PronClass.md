@@ -11,10 +11,11 @@ udver: '2'
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Dep">Dep</a></td>
   <td><a href="#Suffix">Suffix</a></td>
+   <td><a href="#Procl">Procl</a></td>
 </tr>
 </table>
 
-Three different classes of personal pronouns are used in Earlier Egyptian: independent pronouns, dependent pronouns and suffix pronouns.
+Three different classes of personal pronouns are used in Earlier Egyptian: independent pronouns, dependent pronouns and suffix pronouns. Proclitic pronouns are also used in Late Egyptian and Demotic.
 
 ### <a name="Ind">`Ind`</a>: Independent Pronouns
 
@@ -35,6 +36,14 @@ Dependent pronouns are used as subjects in adjectival sentences and as objects i
 ### <a name="Suffix">`Suffix`</a>: Suffix Pronouns
 
 Suffix pronouns are added to the end of words.
+
+#### Examples
+
+* TBA
+
+### <a name="Procl">`Procl`</a>: Proclitic Pronouns
+
+Proclitic pronouns are used in adverbial sentences and in the Present I.
 
 #### Examples
 
