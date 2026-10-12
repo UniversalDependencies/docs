@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Sub">Sub</a></td>
   <td><a href="#Cnd">Cnd</a></td>
+  <td><a href="#Nec">Nec</a></td>
 </tr>
 </table>
 
@@ -72,5 +73,20 @@ In some contexts the mood also expresses the desire that the action happens; it 
 * _<b>տուն մտնուի</b>_/_town mtnowi_ “(I would like) to enter the house”.
 
 Note that in Middle Armenian, conditional and necessitative meanings are expressed by means of the corresponding auxiliary verbs. For more details, see [AUX]().
+
+### <a name="Nec">`Nec`</a>: necessitative
+
+The necessitative mood expresses necessity and corresponds to the modal verbs “must, should, have to”.
+
+Middle Armenian has present and imperfect necessitative forms, both formed periphrastically using the mood particle **_պիտի_**/**_piti_** (_պիտ, տի_/_pit, ti_) or the impersonal predicative **_պետք է_**/**_petkʼ ē_**. The content verb expresses person, number, tense, aspect, voice and is in subjunctive mood.
+
+The mood particle _պիտի_/_piti_ is historically the present tense of the verb _պիտիմ_/_pitim_ (`Ind`, `Sing`, `Person=3`) “to be necessary, useful”. The impersonal predicative _պետք է_ “lit: is needed” accompanied by subjunctive finite form of verbs is used as a variant of mood particle. This expresses compulsory, obligative necessity.
+
+The content verb is not marked as necessitative because it can also be used in present or imperfect subjunctive.
+
+Note, that the mood particles are viewed as [AUX]() and can inflect for [Polarity]() (e.g. _**չ**պիտի_, _**չ**պետք է_). They will have `Mood=Nec`. 
+
+#### Examples
+* _պիտի որ ելնէ յ իրմէ զէդ կորեկի հատեր_/_piti or elnē y irmē zēd koreki hater_ “grains like millet should come out from it”
 
   <!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->
