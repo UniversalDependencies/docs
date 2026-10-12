@@ -21,12 +21,14 @@ Note, that the titles/honorifics, when immediately following the first noun, are
 # visual-style 1 2 flat:name color:blue
 1	Մխիթար	Մխիթար	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
 2	Հերացի	Հերացի	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Prs|Number=Sing	1	flat:name	_	_
+
 ~~~
 
 ~~~ conllu
 # visual-style 1 2 flat:name color:blue
 1	Հեթում	Հեթում	PROPN	_	Animacy=Hum|Case=Nom|Definite=Ind|NameType=Giv|Number=Sing	0	root	_	_
 2	արքայ	արքայ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	1	flat:name	_	_
+
 ~~~
 
 
@@ -38,6 +40,7 @@ The `flat` relation is also used for numerals and numerical expressions that lac
 # visual-style 1 2 flat color:blue
 1	հարոյր	հարոյր	NUM	_	NumForm=Word|NumType=Card	0	root	_	_
 2	տասնուիաւթն	տասնուիաւթն	NUM	_	NumForm=Word|NumType=Card	1	flat	_	_
+
 ~~~
 
 This relation is also used for synonymic or antonymic coordinative compounds. These are analytical constructions where two distinct words combine to form a single semantic unit with a collective or intensified meaning.
@@ -47,6 +50,7 @@ This relation is also used for synonymic or antonymic coordinative compounds. Th
 1	ահ	ահ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
 2	ու	ու	CCONJ	_	_	3	cc	_	_
 3	դող	դող	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	1	flat	_	_
+
 ~~~
 
 ~~~ conllu
@@ -54,6 +58,7 @@ This relation is also used for synonymic or antonymic coordinative compounds. Th
 1	չար	չար	ADJ	_	Degree=Pos	0	root	_	_
 2	ու	ու	CCONJ	_	_	3	cc	_	_
 3	բարի	բարի	ADJ	_	Degree=Pos	1	flat	_	_
+
 ~~~
 
 Date expressions which have a very clear syntactic structure, should be annotated with regular dependency relations. In
