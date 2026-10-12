@@ -24,6 +24,7 @@ Middle Armenian uses `flat:range` for numerical, spacial and time ranges.
 13	ինչուր	ինչուր	SCONJ	_	_	14	mark	_	_
 14	աջողնայ	աջողնալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	6	advcl	_	SpaceAfter=No
 15	։	։	PUNCT	_	_	6	punct	_	_
+
 ~~~
 
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:11 CEST -->
