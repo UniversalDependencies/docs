@@ -87,6 +87,6 @@ The content verb is not marked as necessitative because it can also be used in p
 Note, that the mood particles are viewed as [AUX]() and can inflect for [Polarity]() (e.g. _**չ**պիտի_, _**չ**պետք է_). They will have `Mood=Nec`. 
 
 #### Examples
-* _պիտի որ ելնէ յ իրմէ զէդ կորեկի հատեր_/_piti or elnē y irmē zēd koreki hater_ “grains like millet should come out from it”
+* _<b>պիտի</b> որ ելնէ յ իրմէ զէդ կորեկի հատեր_/_<b>piti</b> or elnē y irmē zēd koreki hater_ “grains like millet should come out from it”
 
   <!-- Interlanguage links updated Út 30. června 2026, 10:59:00 CEST -->
