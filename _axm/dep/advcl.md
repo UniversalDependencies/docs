@@ -68,4 +68,5 @@ In Middle Armenian, constructions introduced by the coordinating conjunction _ո
 15	։	։	PUNCT	_	_	2	punct	_	Translit=.|LTranslit=.
 
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:27 CEST -->
