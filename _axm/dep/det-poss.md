@@ -13,6 +13,7 @@ Whenever there is a possessive determiner, `det:poss` should be used instead of 
 2	թոյնքն	թոյն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	3	nsubj	_	_
 3	տաք	տաք	ADJ	_	Degree=Pos	0	root	_	_
 4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	_
+
 ~~~
 
 ~~~ conllu
@@ -26,5 +27,7 @@ Whenever there is a possessive determiner, `det:poss` should be used instead of 
 5	զ	զ	ADP	_	AdpType=Prep	7	case	_	_
 6	իր	իր	DET	_	Case=Acc|Number=Sing|Person=3|PronType=Poss	7	det:poss	_	_
 7	տունն	տուն	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing	3	conj	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:02 CEST -->
