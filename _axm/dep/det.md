@@ -23,12 +23,14 @@ Note, that possessive determiners like _իր_ “his” is currently given the P
 7	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	8	nsubj	_	_
 8	ասի	ասիլ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	acl:relcl	_	_
 9	ատօրօս	ատօրօս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	8	xcomp	_	_
+
 ~~~
 
 ~~~ conllu
 # visual-style 2 1 det color:blue
 1	այլ	այլ	DET	_	PronType=Ind	2	det	_	_
 2	դատաւորքն	դատաւոր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	0	root	_	_
+
 ~~~
 
 Pronominal quantifiers are also tagged DET and their relation to their head is a det relation.
@@ -38,7 +40,9 @@ Pronominal quantifiers are also tagged DET and their relation to their head is a
 1	քանի	քանի	DET	_	PronType=Exc	2	det	_	_
 2	տարով	տարի	NOUN	_	Animacy=Nhum|Case=Ins|Definite=Ind|Number=Sing	0	root	_	_
 3	յառաջ	յառաջ	ADV	_	Style=Arch	2	case	_	_
+
 ~~~
 
 See [nummod]() for a broader discussion of the various situations with quantifiers.
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:01 CEST -->
