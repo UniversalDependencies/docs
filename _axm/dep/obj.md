@@ -5,8 +5,7 @@ shortdef: 'direct object'
 udver: '2'
 ---
 
-The direct object of a verb is the noun that denotes the entity acted upon. In Middle Armenian the direct object most often is in the [accusative case](Case) that usually
-has the proclitic particle _զ_/_z_, but also shares the form of nominative.
+The direct object of a verb is the noun that denotes the entity acted upon. In Middle Armenian the direct object most often is in the [accusative case](Case) that usually has the proclitic particle _զ_/_z_, but also shares the form of nominative.
 
 ~~~ conllu
 # visual-style 6 4 obj color:blue
@@ -21,6 +20,7 @@ has the proclitic particle _զ_/_z_, but also shares the form of nominative.
 8	նշանն	նշան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	9	nsubj	_	_
 9	այս	այս	PRON	_	Deixis=Prox|PronType=Dem	0	root	_	_
 10	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	_
+
 ~~~
 
 ~~~ conllu
@@ -52,12 +52,13 @@ has the proclitic particle _զ_/_z_, but also shares the form of nominative.
 22	գինն	գին	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing	23	obj	_	_
 23	վճարէ	վճարել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	18	conj	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	34	punct	_	_
+
 ~~~
 
 ##
 If there is just one object, it should likely be [obj]() unless it is morphosyntactically more similar to clear cases of [iobj](). This is an amended policy as described [on the changes page](https://universaldependencies.org/changes.html#sole-iobj).
-If there are two or more objects, one of them should be `obj` and the others should be [iobj](). In such cases it is necessary to decide what is the most
-directly affected object _(patient)._ When there is a [clausal complement](ccomp), then it is regarded as a “clausal direct object” and an object nominal will be an `iobj`.
+If there are two or more objects, one of them should be `obj` and the others should be [iobj](). In such cases it is necessary to decide what is the most directly affected object _(patient)._ When there is a [clausal complement](ccomp), then it is regarded as a “clausal direct object” and an object nominal will be an `iobj`.
 
 There is more discussion of constructions with multiple objects on the page for [iobj]().
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:27 CEST -->
