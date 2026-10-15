@@ -22,7 +22,7 @@ udver: '2'
 
 ### Tags
 
-*Sardinian uses all 17 universal tags
+Sardinian uses all 17 universal tags
 * The only word tagged as PART is *nanca* (lit. "(they) say that")
 * The AUX tag is used for the following cases:
 	* copular verb *èssere* ("to be")
