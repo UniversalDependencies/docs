@@ -17,7 +17,6 @@ udver: '2'
   <td><a href="#Neg">Neg</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Exc">Exc</a></td>
-  <td><a href="#Predet">Predet</a></td>
   <td><a href="#Ord">Ord</a></td>
 </tr>
 </table>
@@ -83,9 +82,11 @@ Note: Demonstrative adverbs such as _qui_ "here" and _là_ "there", _ora_ "now" 
 
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun, determiner or adverb
 
+`PronType=Tot` is used for universal quantifiers, mainly _tutto_ (_tutti, tutta, tutte_) "all" and also _entrambi_ and _ambedue_ "both". In practice it is a determiner (`DET`) that precedes the definite article or demonstrative, and it is attached as `det:predet`.
+
 #### Examples
 
-`PronType=Tot` is used for universal quantifiers, mainly *tutto* (*tutti, tutta, tutte*) and also *entrambi* and *ambedue* ("both"). In practice it is a determiner (`DET`) that precedes the definite article or demonstrative, and it is attached as `det:predet`.
+* _<b>Tutti</b> i retroscena_ "All the backstories", _in <b>tutti</b> questi tentativi_ "in all these attempts", _<b>Entrambe</b> le categorie_ "Both categories"
 
 ~~~ conllu
 # sent_id = isst_tanl-3590
