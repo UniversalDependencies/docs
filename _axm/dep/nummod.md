@@ -11,6 +11,7 @@ A numeric modifier of a noun is any [number](NUM) phrase that serves to modify t
 # visual-style 2 1 nummod color:blue
 1	երեք	երեք	NUM	_	NumForm=Word|NumType=Card	2	nummod	_	_
 2	հետ	հետ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
+
 ~~~
 
 ~~~ conllu
@@ -19,6 +20,7 @@ A numeric modifier of a noun is any [number](NUM) phrase that serves to modify t
 2	.	.	PUNCT	_	_	1	punct	_	_
 3	դեկան	դեկան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	4	nmod	_	_
 4	պերպեռատ	պերպեռատ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
+
 ~~~
 
 Note that indefinite quantifiers such as _մի_/_mi_ “a (one)”, _մի այլ_/_mi ayl_ “another” are tagged [DET]() rather than [NUM](). Therefore their relation to the quantified noun is not `nummod` but [det]():
@@ -29,6 +31,7 @@ Note that indefinite quantifiers such as _մի_/_mi_ “a (one)”, _մի այլ
 1	ազգ	ազգ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	0	root	_	_
 2	մի	մի	DET	_	PronType=Art	1	det	_	_
 3	այլ	այլ	DET	_	PronType=Ind	1	det	_	_
+
 ~~~
 
 ## Additional remarks
@@ -41,10 +44,10 @@ This is in accord with the UD guidelines.
 # visual-style 1 2 flat color:blue
 1	հարոյր	հարոյր	NUM	_	NumForm=Word|NumType=Card	0	root	_	_
 2	տասնուիաւթն	տասնուիաւթն	NUM	_	NumForm=Word|NumType=Card	1	flat	_	_
+
 ~~~
 
-Similarly there may be other nodes (such as punctuation) that are attached to the head of the phrase
-and they are related to the whole phrase rather than directly to the head noun:
+Similarly there may be other nodes (such as punctuation) that are attached to the head of the phrase and they are related to the whole phrase rather than directly to the head noun:
 
 ~~~ conllu
 # visual-style 8 1 punct color:blue
@@ -59,9 +62,11 @@ and they are related to the whole phrase rather than directly to the head noun:
 7	/	/	PUNCT	_	_	6	punct	_	_
 8	աւուրն	աւուր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	SpaceAfter=No
 9	)	)	PUNCT	_	_	8	punct	_	_
+
 ~~~
 
 ## Dates
 
 Dates are annotated as follows: if present, the day is the head, the month is _nmod:poss_ and the year is _nummod_:
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:26 CEST -->
