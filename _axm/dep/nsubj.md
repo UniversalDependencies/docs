@@ -15,6 +15,7 @@ The governor of the `nsubj` relation might not always be a verb: when the verb i
 # visual-style 2 1 nsubj color:blue
 1	ստամոքն	ստամոք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	2	nsubj	_	_
 2	ցաւէ	ցաւել	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+
 ~~~
 
 ~~~ conllu
@@ -22,6 +23,7 @@ The governor of the `nsubj` relation might not always be a verb: when the verb i
 1	այսոր	այս	PRON	_	Case=Dat|Deixis=Prox|Number=Sing|PronType=Dem	3	nsubj	_	_
 2	ուժ	ուժ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	3	obj	_	_
 3	չուննայ	ուննալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+
 ~~~
 
 ~~~ conllu
@@ -30,5 +32,7 @@ The governor of the `nsubj` relation might not always be a verb: when the verb i
 2	թոյնքն	թոյն	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	3	nsubj	_	_
 3	տաք	տաք	ADJ	_	Degree=Pos	0	root	_	_
 4	է	եմ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:22 CEST -->
