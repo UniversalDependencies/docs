@@ -27,6 +27,7 @@ The `mark` is a dependent of the subordinate clause head.
 14	աչսն	աչք	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Plur	15	obj	_	_
 15	հանէ	հանել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	15	punct	_	_
+
 ~~~
 
 Note that the subordinating conjunction should not be confused with relative pronouns and adverbs.
@@ -48,5 +49,7 @@ These fill a valency slot in the frame of the subordinate predicate, and are lab
 11	գլուխն	զգլուխ	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing	13	nsubj	_	_
 12	բարձր	բարձր	ADJ	_	_	13	advcl	_	_
 13	կենայ	կենալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:14 CEST -->
