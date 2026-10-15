@@ -29,7 +29,7 @@ This feature typically applies to [pronouns](u-pos/PRON),
 ### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
 See also the [Poss]() feature that distinguishes normal personal
-pronouns from possessives and the [Clitic]() feature that tells 
+pronouns from possessives and the [Clitic]() feature that tells
 whether the pronoun is a clitic. Note that `Prs` also includes reflexive
 personal/possessive pronouns (see the [Reflex]() feature).
 
@@ -85,7 +85,43 @@ Note: Demonstrative adverbs such as _qui_ "here" and _là_ "there", _ora_ "now" 
 
 #### Examples
 
-We are not using `PronType=Tot`.
+`PronType=Tot` is used for universal quantifiers, mainly *tutto* (*tutti, tutta, tutte*) and also *entrambi* and *ambedue* ("both"). In practice it is a determiner (`DET`) that precedes the definite article or demonstrative, and it is attached as `det:predet`.
+
+~~~ conllu
+# sent_id = isst_tanl-3590
+# text = Ecco tutti i retroscena.
+1	Ecco	ecco	ADV	B	_	4	advmod	4:advmod	_
+2	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	4	det:predet	4:det:predet	_
+3	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	4:det	_
+4	retroscena	retroscena	NOUN	S	Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
+5	.	.	PUNCT	FS	_	4	punct	4:punct	_
+~~~
+
+~~~ conllu
+# sent_id = 5_WIKIBalzac-11
+# text = fallì in tutti questi tentativi.
+1	fallì	fallire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
+2	in	in	ADP	E	_	5	case	5:case	_
+3	tutti	tutto	DET	T	Gender=Masc|Number=Plur|PronType=Tot	5	det:predet	5:det:predet	_
+4	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	5	det	5:det	_
+5	tentativi	tentativo	NOUN	S	Gender=Masc|Number=Plur	1	obl	1:obl:in	SpaceAfter=No
+6	.	.	PUNCT	FS	_	1	punct	1:punct	_
+~~~
+
+~~~ conllu
+# sent_id = tut-11
+# text = Entrambe le categorie di limiti presentano dei requisiti comuni:
+1	Entrambe	entrambi	DET	T	Gender=Fem|Number=Plur|PronType=Tot	3	det:predet	3:det:predet	_
+2	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	3:det	_
+3	categorie	categoria	NOUN	S	Gender=Fem|Number=Plur	6	nsubj	6:nsubj	_
+4	di	di	ADP	E	_	5	case	5:case	_
+5	limiti	limite	NOUN	S	Gender=Masc|Number=Plur	3	nmod	3:nmod:di	_
+6	presentano	presentare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+7	dei	dei	DET	RI	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	8	det	8:det	_
+8	requisiti	requisito	NOUN	S	Gender=Masc|Number=Plur	6	obj	6:obj	_
+9	comuni	comune	ADJ	A	Number=Plur	8	amod	8:amod	SpaceAfter=No
+10	:	:	PUNCT	FC	_	6	punct	6:punct	_
+~~~
 
 ### <a name="Neg">`Neg`</a>: negative pronoun, determiner or adverb
 
@@ -105,16 +141,6 @@ We distinguish only negative adverbs such as: _non_, _nemmeno_, _neppure_.
 #### Examples
 
 * _che_ disastro "what a disaster", _che_ catastrofe "what a catastrophe"
-
-### <a name="Predet">`Predet`</a>: predeterminer. This value is language specific.
-
-It is always used along with _det:predet_ dependency relations.
-
-#### Examples
-
-* _tutta_ la giornata "all day"
-* _tutti_ gli esseri umani "all human beings"
-* _entrambi_ i prigionieri "both prisoners"
 
 ### <a name="Ord">`Ord`</a>: ordinal pronouns. This value is language specific.
 
