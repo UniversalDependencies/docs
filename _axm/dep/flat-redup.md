@@ -22,6 +22,7 @@ Reduplication is a common process especially for [adverbs](ADV) and [adjectives]
 9	մէջն	մէջ|մէջն	ADP	_	AdpType=Post	7	fixed	_	_
 10	զրուցեց	զրուցել	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	SpaceAfter=No
 11	։	։	PUNCT	_	_	5	punct	_	_
+
 ~~~
 
 ~~~ conllu
@@ -33,6 +34,7 @@ Reduplication is a common process especially for [adverbs](ADV) and [adjectives]
 5	որ	որ	SCONJ	_	_	6	mark	_	_
 6	ուտէ	ուտել	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	SpaceAfter=No
 7	։	։	PUNCT	_	_	3	punct	_	_
+
 ~~~
 
 ~~~ conllu
@@ -47,5 +49,7 @@ Reduplication is a common process especially for [adverbs](ADV) and [adjectives]
 7	դեղին	դեղին	ADJ	_	Degree=Pos	8	xcomp	_	_
 8	դառնայ	դառնալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
 9	։	։	PUNCT	_	_	8	punct	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:11 CEST -->
