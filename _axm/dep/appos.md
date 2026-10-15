@@ -5,10 +5,7 @@ shortdef: 'appositional modifier'
 udver: '2'
 ---
 
-An appositional modifier of a noun is a nominal immediately following
-the first noun that serves to define or modify that noun. It includes
-parenthesized examples, as well as defining abbreviations in one of
-these structures.
+An appositional modifier of a noun is a nominal immediately following the first noun that serves to define or modify that noun. It includes parenthesized examples, as well as defining abbreviations in one of these structures.
 
 ~~~ conllu
 # visual-style 2 5 appos color:blue
@@ -19,5 +16,7 @@ these structures.
 5	3	3	NUM	_	NumForm=Digit|NumType=Card	2	appos	_	SpaceAfter=No
 6	/	/	PUNCT	_	_	5	punct	_	_
 7	աւուրն	աւուր	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	0	root	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:39 CEST -->
