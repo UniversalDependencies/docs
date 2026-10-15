@@ -16,6 +16,7 @@ We use the `advmod` relation for the particles _չի_/_či_ (_չ-_/_č-_) and _�
 1	թող	թողնուլ	VERB	_	Aspect=Prosp|ExtPos=PART|Mood=Imp|Number=Sing|Person=2|Subcat=Tran|VerbForm=Fin|Voice=Act	3	discourse	_	_
 2	աւրինաւոր	աւրինաւոր	ADV	_	Style=Var	3	advmod	_	_
 3	ամուսնանայ	ամուսնանալ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+
 ~~~
 
 ~~~ conllu
@@ -25,12 +26,14 @@ We use the `advmod` relation for the particles _չի_/_či_ (_չ-_/_č-_) and _�
 3	ուր	ուր	ADV	_	PronType=Rel	5	advmod	_	_
 4	թագաւորն	թագաւոր	NOUN	_	Animacy=Hum|Case=Nom|Definite=Def|Number=Sing	5	nsubj	_	_
 5	ուրդի	ուրդիլ	VERB	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	acl:relcl	_	SpaceAfter=No
+
 ~~~
 
 ~~~ conllu
 # visual-style 6 3 advcl:relcl color:blue
 1	չ	ոչ	PART	_	Polarity=Neg	2	advmod	_	_
 2	կարէ	կարենալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
+
 ~~~
 
 We use a special label, [advmod:emph]() for adverbial modifiers that are used for emphasis.
