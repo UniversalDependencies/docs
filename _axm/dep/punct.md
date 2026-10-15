@@ -18,6 +18,7 @@ This relation is used for any punctuation sign in a clause.
 7	որ	որ	PRON	_	Case=Nom|Number=Sing|PronType=Rel	8	nsubj	_	_
 8	ասի	ասիլ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	2	acl:relcl	_	_
 9	ատօրօս	ատօրօս	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	8	xcomp	_	_
+
 ~~~
 
 Tokens with the relation `punct` always attach to content words (except in cases of ellipsis) and can never have dependents.
@@ -52,5 +53,7 @@ Instead, we use the following principles:
 17	մարդ	մարդ	NOUN	_	Animacy=Hum|Case=Nom|Definite=Ind|Number=Sing	18	obj	_	_
 18	սպաննել	սպաննել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	15	csubj	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	15	punct	_	_
- ~~~
+
+~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:42 CEST -->
