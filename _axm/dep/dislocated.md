@@ -9,8 +9,7 @@ The `dislocated` relation is used for elements that have been displaced from its
 
 However, this relation is also used generally for topic elements that otherwise do not fulfill any core grammatical relation of a sentence. These elements may be separated off with a comma intonation.
 
-The dislocated elements attach to the same governor as the dependent that they double for. Right dislocated elements are frequent in
-spoken languages.
+The dislocated elements attach to the same governor as the dependent that they double for. Right dislocated elements are frequent in spoken languages.
 
 ~~~ conllu
 # visual-style 13 3 dislocated color:blue
@@ -32,5 +31,7 @@ spoken languages.
 14	զ	զ	ADP	_	AdpType=Prep	16	case	_	_
 15	իրենց	իր	DET	_	Case=Acc|Number=Plur|Person=3|PronType=Poss	16	det:poss	_	_
 16	զաւդվածքն	զաւդված	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing|Style=Var	13	obj	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:05 CEST -->
