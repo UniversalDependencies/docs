@@ -15,6 +15,7 @@ We treat coordination asymmetrically. The head of the relation is the first conj
 3	եւ	եւ	CCONJ	_	_	5	cc	_	_
 4	նռան	նուռ|նուռն	NOUN	_	Animacy=Nhum|Case=Dat|Definite=Ind|Number=Sing	5	nmod:poss	_	_
 5	ծաղիկ	ծաղիկ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	2	conj	_	_
+
 ~~~
 
 ~~~ conllu
@@ -44,6 +45,7 @@ We treat coordination asymmetrically. The head of the relation is the first conj
 20	կամ	կամ	CCONJ	_	_	20	cc	_	_
 21	այսպիսիքն	այսպիսի	PRON	_	Case=Nom|Definite=Def|Deixis=Prox|PronType=Dem	15	conj	_	SpaceAfter=No
 22	։	։	PUNCT	_	_	4	punct	_	_
+
 ~~~
 
 Coordinate clauses are treated the same way as coordination of other constituent types:
@@ -68,7 +70,9 @@ Coordinate clauses are treated the same way as coordination of other constituent
 12	ի	ի	ADP	_	AdpType=Prep	13	case	_	_
 13	գինն	գին	NOUN	_	Animacy=Nhum|Case=Acc|Definite=Def|Number=Sing	14	obl	_	_
 14	տան	տալ	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Style=Arch|Subcat=Tran|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	SpaceAfter=No
+
 ~~~
 
 See [universal/conj](u-dep/conj) for more details on various coordination-related issues.
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:53 CEST -->
