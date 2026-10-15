@@ -20,6 +20,7 @@ We take the first conjunct as the head of the coordination.)
 4	եւ	եւ	CCONJ	_	_	5	cc	_	_
 5	պատուիրանքն	պատուիրան	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Plur	1	conj	_	_
 6	տեառն	տեառ	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Def|Number=Sing	5	nmod:npmod	_	_
+
 ~~~
 
 A coordinating conjunction may also appear at the beginning of a sentence. This is also called a `cc`, and it depends on the root predicate of the sentence.
@@ -35,5 +36,7 @@ A coordinating conjunction may also appear at the beginning of a sentence. This 
 6	՝	՝	PUNCT	_	_	7	punct	_	_
 7	մեռնի	մեռնիլ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Style=Arch|Subcat=Intr|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	7	punct	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:45 CEST -->
