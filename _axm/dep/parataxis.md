@@ -5,11 +5,8 @@ shortdef: 'parataxis'
 udver: '2'
 ---
 
-The parataxis relation (from Greek for “place side by side”) is a relation between a word (often the main predicate of a sentence) and other elements, such as a sentential
-parenthetical or a clause after a “.” (Armenian colon) or a “—”, placed side by side without any explicit coordination, subordination, or argument relation with the head word.
-Parataxis is a discourse-like equivalent of coordination, and so usually obeys an iconic ordering. Hence it is normal for the first part of a sentence to be the head and the
-second part to be the parataxis dependent, regardless of the headedness properties of the language. But things do get more complicated, such as cases of parentheticals,
-which appear medially.
+The parataxis relation (from Greek for “place side by side”) is a relation between a word (often the main predicate of a sentence) and other elements, such as a sentential parenthetical or a clause after a “.” (Armenian colon) or a “—”, placed side by side without any explicit coordination, subordination, or argument relation with the head word.
+Parataxis is a discourse-like equivalent of coordination, and so usually obeys an iconic ordering. Hence it is normal for the first part of a sentence to be the head and the second part to be the parataxis dependent, regardless of the headedness properties of the language. But things do get more complicated, such as cases of parentheticals, which appear medially.
 
 ~~~ conllu
 # visual-style 9 14 advcl:relcl color:blue
@@ -34,5 +31,7 @@ which appear medially.
 17	եւ	եւ	CCONJ	_	_	18	cc	_	_
 18	տուգանք	տուգանք	NOUN	_	Animacy=Nhum|Case=Nom|Definite=Ind|Number=Sing	14	conj	_	SpaceAfter=No
 19	։	։	PUNCT	_	_	9	punct	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 11:00:38 CEST -->
