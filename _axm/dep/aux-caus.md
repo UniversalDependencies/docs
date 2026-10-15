@@ -18,5 +18,7 @@ The initial agent of the action described by the sentence is demoted and will be
 5	եւ	եւ	CCONJ	_	_	7	cc	_	_
 6	չտայ	տալ	AUX	_	Aspect=Prosp|Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Cau	7	aux:caus	_	_
 7	սպաննել	սպաննել	VERB	_	Polarity=Pos|Subcat=Tran|VerbForm=Inf|Voice=Act	4	conj	_	_
+
 ~~~
+
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:40 CEST -->
