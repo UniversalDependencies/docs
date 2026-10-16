@@ -90,30 +90,32 @@ Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, 
 
 ### Pronouns, Determiners, Quantifiers
 
-* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
+* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and pronominal adverbs ([ADV]()).
 * [NumType]() is used with numerals ([NUM]()) and with relevant adjectives ([ADJ]()) and adverbs ([ADV]()).
 * The [Poss]() feature marks possessive personal determiners (e.g. _իմ_/_im_ “my”),
   possessive interrogative, relative pronouns (e.g. _որու_/_orow_ “whose”), and other forms with an encoded possessive meaning.
- * The [Reflex]() feature marks reflexive pronouns and determiners such as _ինքզինք_/_inkʼzinkʼ_ “he themself/she herself/it itsekf”, _իր_/_ir_ “his, her, its”, _իրենց_/_irencʼ_ “them”.
- 
-* [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
-  With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
-  Person is not marked on other types of pronouns and on nouns, although they can almost always be interpreted as the 3rd person.
-  * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
-* The [Polite]() feature distinguishes informal second-person pronouns (_դու, դուք,_ `Polite=Infm`)
-  from the formal _Դուք_ (`Polite=Form`).
-  The formal pronoun is phonologically equivalent in all its case forms to the second-person plural _դուք_
-  but it is distinguished in orthography by the capital letter _Դ._
-  We tag it as second person (because that is its meaning) and we tag also its number (it is used for singular addressees) despite the fact that it combines with second-person plural verbs.
-  The parser must learn that `Number=Sing|Person=2|Polite=Form` subject attaches to `Number=Plur|Person=2` verbs,
-  while `Number=Sing|Person=2|Polite=Infm` subject attaches to `Number=Sing|Person=2` verbs.
-* There are three [layered features](../../u/overview/feat-layers.html), [Person[psor]](), [Number[psor]]() and [Deixis[psor]]().
-  They appear with nouns, gerundives, certain pronouns and adpositions and encode the lexical person/number of the possessor or the position of an entity relative to either the speaker or the hearer. The extra layer is needed to distinguish these lexical features from the inflectional person and number that mark agreement with the modified (possessed) noun.
+* The [Reflex]() feature marks reflexive pronouns and determiners such as _ինքզինք_/_inkʼzinkʼ_ “he themself/she herself/it itself”, _իր_/_ir_ “his, her, its”, _իրենց_/_irencʼ_ “them”, together with the appropriate `PronType` value.
+* [Person]() is a lexical feature of personal pronouns, possessive determiners, and finite verbs and auxiliaries. With possessive determiners, it identifies the possessor.
+* The [layered features](../../u/overview/feat-layers.html) [Person[psor]](), [Number[psor]]() and [Deixis[psor]]() encode the person, number, or deixis associated with possessive and article-like suffixes, separately from the inflectional features of the word itself. They appear with nouns, infinitives, certain pronouns and adpositions and encode the lexical person/number of the possessor or the position of an entity relative to either the speaker or the hearer. The extra layer is needed to distinguish these lexical features from the inflectional person and number that mark agreement with the modified (possessed) noun.
 
 
 ### Other Features
 
-* The following universal features are not used in Armenian: [Gender](), [Evident]().
+* Western Armenian also uses the following language-specific or less widely used features:
+- `Abbr`
+- `AdpType`
+- `Deixis`
+- `Echo`
+- `ExtPos`
+- `Foreign`
+- `Hyph`
+- `LangId`
+- `NameType`
+- `NumForm`
+- `Style`
+- `Typo`
+* The value `Style=Arch` is used for archaic forms that belong to an older grammatical pattern but occur in Western Armenian texts.
+* The universal features [Gender]() and [Evident]() are not used in Western Armenian.
 
 ## Syntax
 
