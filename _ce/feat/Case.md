@@ -24,7 +24,7 @@ Attributive forms, however, distinguish between the absolutive and the oblique c
 
 ### <a name="Abs">`Abs`</a>: absolutive
 
-`Absolutive` is assigned on the semantic subject of an intransitive verb and on the direct object of the transitive verb.
+The absolutive is assigned on the semantic subject of an intransitive verb and on the direct object of the transitive verb.
 
 
 #### Examples
@@ -35,7 +35,7 @@ Attributive forms, however, distinguish between the absolutive and the oblique c
 
 ### <a name="Erg">`Erg`</a>: ergative
 
-`Ergative` marks the semantic subject of transitive verbs.
+The ergative marks the semantic subject of transitive verbs.
 
 #### Examples
 
@@ -45,7 +45,7 @@ Attributive forms, however, distinguish between the absolutive and the oblique c
 
 ### <a name="Dat">`Dat`</a>: dative
 
-`Dative` marks the subject of experiencial verbs such as _deeza_ 'love, need', _xaza_ 'hear', _ga_ 'see', etc.
+The dative marks the subject of experiencial verbs such as _deeza_ 'love, need', _xaza_ 'hear', _ga_ 'see', etc.
 It also marks the indirect object of verbs of contact and physical transfer.
 
 #### Examples
@@ -56,7 +56,7 @@ It also marks the indirect object of verbs of contact and physical transfer.
 
 ### <a name="Gen">`Gen`</a>: genitive
 
-`Genitive` marks the possessor in the possessive construction.
+The genitive marks the possessor in the possessive construction.
 
 #### Examples
 
@@ -67,7 +67,7 @@ It also marks the indirect object of verbs of contact and physical transfer.
 
 ### <a name="Ins">`Ins`</a>: instrumental
 
-`Instrumental` marks nominal phrases that have instrumental or comitative readings.  
+The instrumental marks nominal phrases that have instrumental or comitative readings.  
 
 #### Examples
 
@@ -77,7 +77,7 @@ It also marks the indirect object of verbs of contact and physical transfer.
 
 ### <a name="Cmp">`Cmp`</a>: comparative
 
-`Comparative` is used exclusively in the comparative construction, where it forms an equivalent of _than-_clause in English. 
+The comparative is used exclusively in the comparative construction, where it forms an equivalent of _than-_clause in English. 
 
 #### Examples
 
@@ -87,7 +87,7 @@ It also marks the indirect object of verbs of contact and physical transfer.
 
 ### <a name="Loc">`Loc`</a>: locative
 
-`Locative` marks non-core arguments that denote a location.
+The locative marks non-core arguments that denote a location.
 
 #### Examples
 
@@ -97,7 +97,7 @@ It also marks the indirect object of verbs of contact and physical transfer.
 
 ### <a name="Lat">`Lat`</a>: lative
 
-`Lative` marks a variety of non-core arguments, including source and goal.
+The lative marks a variety of non-core arguments, including source and goal.
 
 #### Examples
 
@@ -107,7 +107,7 @@ It also marks the indirect object of verbs of contact and physical transfer.
 
 ### <a name="All">`All`</a>: allative
 
-`Allative` marks the causee in causative constructions; it also marks the indirect objects of verbs of saying.
+The allative marks the causee in causative constructions; it also marks the indirect objects of verbs of saying.
 
 #### Examples
 
@@ -117,7 +117,7 @@ It also marks the indirect object of verbs of contact and physical transfer.
 
 ### <a name="Abl">`Abl`</a>: ablative
 
-`Ablative` marks non-core arguments such as the source or direction.
+The ablative marks non-core arguments such as the source or direction.
 
 #### Examples
 
@@ -125,9 +125,10 @@ It also marks the indirect object of verbs of contact and physical transfer.
   Islam.ABS 3SG.GEN.REFL town-**ABL** away-V-go-PRF<br>
   'Islam left his town.'
 
-### <a name="Obl">`Obl`</a>: oblique
+### <a name="Acc">`Acc`</a>: oblique/accusative
 
-`Oblique` marks all non-absolutive attributives, including attributive uses of adjectives and nominalized verbal forms.
+The oblique marks all non-absolutive attributives, including attributive uses of adjectives and nominalized verbal forms.
+Following the UD convention, the value `Acc` is used to mark the oblique case.
 
 #### Examples
 
