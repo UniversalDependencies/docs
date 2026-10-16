@@ -196,27 +196,24 @@ There is just one Western Armenian UD treebank.
 
 ### Polarity
 
-* [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()) that can be negated using the bound morpheme _չ-_.
-  * Occasionally _ոչ_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`. The `Polarity=Neg` feature is also used with necessitative mood particles _(չ)պիտի, (չ)պետք է_ .
-  * Negating nouns are usually limited to those derived from verbs _(չունեցողի, չգրվածները)_.
-  * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners.
-    The `PronType=Neg` feature is used there instead.
-  * The `Polarity=Neg` feature is not used with negated conditional mood, the `Connegative=Yes` feature is used there instead.
+* [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()) that can be negated using the bound morpheme _չ-_/_č-_. When orthography requires a split, as in _չ՚ուզեր_/_č՚owzer_ “doesn't want”, the resulting syntactic tokens are annotated separately.
+* Occasionally _ոչ_/_oč-_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`.
+* The prohibitive marker _մի՛_/_mi'_ is tagged PART and receives `Mood=Imp|Polarity=Neg`.
+* The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners. The `PronType=Neg` feature is used there instead.
+* Connegative forms occurring in analytical negation receive Connegative =Yes rather than ՝Polarity=Neg՝.
 
 ### Pronouns, Determiners, Quantifiers
 
-* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
-* [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()) and adverbs ([ADV]()).
-* The [Poss]() feature marks possessive personal determiners (e.g. _իմ_ “my”),
-  possessive interrogative, relative determiners (e.g. _ում, որի_ “whose”),
-  possessive nouns (e.g. _հայրիկինը_ “father's”)
+* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and pronominal adverbs ([ADV]()).
+* [NumType]() is used with numerals ([NUM]()), and with relevant adjectives ([ADJ]()) and adverbs ([ADV]()).
+* The [Poss]() feature marks possessive personal determiners (e.g. _իմ_/_im_ “my”), possessive interrogative, relative determiners (e.g. _ում_/_owm_, _որի_/_ori_ “whose”), possessive nouns (e.g. _հայրիկինը_/_hayrikinë_ “father's”)
   and possessive adjectives (e.g. _հայոց_ “armenian, armenians’, refer to armenians”).
 * The [Reflex]() feature marks reflexive pronouns _(ինձ, քեզ, իրեն, մեզ, ձեզ, իրենց)_ and determiners _(իր, իրենց)_.
   In Armenian it is always used together with `PronType=Emp` or `PronType=Prs`.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can almost always be interpreted as the 3rd person.
-  * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
+* As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
 * The [Polite]() feature distinguishes informal second-person pronouns (_դու, դուք,_ `Polite=Infm`)
   from the formal _Դուք_ (`Polite=Form`).
   The formal pronoun is phonologically equivalent in all its case forms to the second-person plural _դուք_
