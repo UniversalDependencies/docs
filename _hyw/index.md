@@ -119,19 +119,74 @@ Case-marked infinitives retain `VerbForm=Inf` even when they have an adverbial, 
 
 ## Syntax
 
+This is an overview only. For more detailed discussion and examples, see the list of [Western Armenian relations](dep/index.html), as well as Western Armenian-specific examples in the individual relation pages.
+
 ### Core Arguments, Oblique Arguments and Adjuncts
 
+* A nominal subject ([nsubj]()) is normally a bare noun phrase in the nominative case.
+  * An infinitival clause functioning as the subject is labeled [csubj](). A case-marked infinitive functioning as a nominal is analyzed according to its syntactic function.
+  * Subjects of passive clauses are labeled [nsubj:pass]() or [csubj:pass]().
+  * The causer in a periphrastic causative construction is labeled [nsubj:caus]().
+  * A nominal subject of a copular clause whose predicate is itself a clause is labeled [nsubj:outer]().
+  * A clausal subject of a copular clause whose predicate is itself a clause is labeled [csubj:outer]().
+* Core nominal objects are labeled [obj]() or [iobj]().
+  * A direct object is normally a bare noun phrase in the nominative form.
+  * A single dative argument selected by the verb may also be a core object.
+  * If a verb takes two core objects, the non-nominative object, usually a dative recipient or experiencer, is labeled [iobj]().
+  * Infinitival complements of modal and control predicates are normally labeled [xcomp](); finite complements are labeled [ccomp]().
+* Non-core dependents are labeled [obl](). They include temporal and locative noun phrases, adpositional phrases, and case-marked nominals expressing such roles as means, manner, direction, source, beneficiary, or location.
+* Adpositions attach to their nominal complement with [case](). Inflected postpositional localizers attach with [case:loc](); when a localizer occurs independently, it attaches to the predicate as [obl]() while retaining the [ADP]() tag.
+* In passive clauses, an overt demoted agent is labeled [obl:agent](). It may be expressed by an instrumental noun phrase or an adpositional phrase with _կողմէ_/_koġmē_ “by”.
+* In periphrastic causatives:
+  * _տալ_/_tal_ is attached to the infinitive with [aux:caus]();
+  * a dative demoted agent is labeled [iobj:agent]();
+  * a nominative-form agent realized as the syntactic object of the causative construction is labeled [obj:agent]().
+  
 ### Non-verbal Clauses
+
+* Forms of _եմ_/_em_ “be” are tagged [AUX]() and attach to the non-verbal predicate with [cop](). The predicate is the head of the clause.
+* The copular analysis is used with equational, attributive, locative, possessive, and benefactive predicates. Under the UD v2 guidelines, prepositional and postpositional phrases expressing location are also treated as predicates.
+* Verbs such as _դառնալ_/_daṙnal_ “become”, _թուալ_/_tʼowal_ “seem”, _երեւալ_/_erewal_ “appear”, and _մնալ_/_mnal_ “remain” are lexical verbs, not copulas.
+* The relevant forms of _ըլլալ_/_ëllal_ “be” are lexical [VERB]() with nominal predicates. They are [AUX]() only in compound constructions with participles.
+* Purely existential _կամ_/_kam_ “exist” is the head of its clause and is tagged [VERB](). In secondary compound constructions, existential _կամ_/_kam_ “exist” and _ունիմ_/_ownim_ “have”  may function as auxiliaries and receive [aux:ex]().
 
 ### Relations Overview
 
+The following relation subtypes are documented for Western Armenian:
+* [acl:relcl]() for relative clauses modifying nominals
+* [advcl:relcl]() for relative clauses functioning as adverbial clause modifiers
+* [advmod:emph]() for emphatic or focusing adverbial modifiers
+* [aux:caus]() for the causative auxiliary _տալ_
+* [aux:ex]() for existential auxiliaries in secondary compound constructions
+* [case:loc]() for inflected postpositional localizers
+* [compound:lvc]() for light-verb constructions
+* [compound:svc]() for serial-verb constructions
+* [csubj:outer]() for outer clausal subjects
+* [csubj:pass]() for clausal subjects of passive predicates
+* [det:poss]() for possessive determiners
+* [flat:dist]() for distributive numeric expressions
+* [flat:frac]() for fractions
+* [flat:name]() for names
+* [flat:range]() for numeric ranges
+* [flat:redup]() for reduplicating constructions
+* [iobj:agent]() for dative agents in causative constructions
+* [nmod:npmod]() for noun-phrase modifiers
+* [nmod:poss]() for possessive nominal modifiers
+* [nsubj:caus]() for causers in causative constructions
+* [nsubj:outer]() for outer nominal subjects
+* [nsubj:pass]() for nominal subjects of passive predicates
+* [obj:agent]() for object-like agents in causative constructions
+* [obl:agent]() for agents in passive constructions
+
+The relation [clf]() is not used in Western Armenian.
+
 ## Treebanks
 
-There is just one Western Armenian UD treebank.
+There is one Western Armenian UD treebank:
 
-  * [Western_Armenian-ArmTDP](../treebanks/hyw_armtdp/index.html)
+* [Western_Armenian-ArmTDP](../treebanks/hyw_armtdp/index.html)
 
-
+The treebank contains 6,644 sentences and approximately 122,000 tokens from blog, fiction, news, nonfiction, reviews, social, spoken, web, and wiki texts. The lemmas, UPOS tags, morphological features, and dependency relations have been manually verified.
 
 ------------------------------------------------------------------
 
