@@ -11,6 +11,6 @@ We then use the `dep:conj` relation to get around this technical issue which goe
 
 ~~~ sdparse
 toʔ nãeri nãer proheri nunca pãskertVi =na // text_en: " They went to look for him, they never found him, it is said"
-dep:conj(pãskertVi, proheri) ("take_out", "look_for")
+dep:conj(pãskertVi, proheri)
 ~~~
 <!-- Interlanguage links updated Út 30. června 2026, 10:59:59 CEST -->
