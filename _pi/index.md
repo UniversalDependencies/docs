@@ -6,7 +6,7 @@ udver: '2'
 
 # UD for Pali <span class="flagspan"><img class="flag" src="../../flags/svg/BUDDHISM.svg" /></span>
 
-Pāli is an Indo-Aryan language, widely studied as the liturgical and scriptural language of Theravāda Buddhism.
+Pāli is an Indo-Aryan language, widely studied as the scriptural and liturgical language of Theravāda Buddhism.
 
 ## Orthography
 
@@ -31,8 +31,15 @@ While we strip out punctuation in our `# text` rows, we do recommend using any p
 
 ### Lemmatization
 
+We generally follow the lemmatization found in the Pāli Text Society's dictionaries: The *Pali-English Dictionary* and *A Dictionary of Pāli*.
+
+#### Verb Lemmas
+
 The `LEMMA` for all verb forms is the 3rd-person singular present indicative of the underlying verb.
 For example, the past participle *gata* "gone" gets the `LEMMA` *gacchati*.
+
+Forms of the verb *hoti* (*honti*, *ahosi*, etc) always get the lemma `bhavati`.
+Forms of the verb *atthi* (*amhi*, *atthu*, *santi*, etc), get the lemma `atthi`.
 
 #### Noun Lemmas
 
@@ -43,6 +50,7 @@ For personal pronouns, collapse the cases down to the nominative. For example, *
 For demonstrative pronouns, collapse the cases, gender, and number to the nominative, singular, neuter form:
 
 * Use *tad* for all *ta-* forms: *sā*, *sa*, *taṃ*, *tena*, etc.
+* Use *etad* for all *eta-* forms: *eso*, *etassa*, *esā*, etc.
 * Use *yad* for all *ya-* forms: *yo*, *yā*, *yaṃ*, *yamhi*, etc.
 * Use *idaṃ* for its various forms: *ayaṃ*, *imaṃ*, *imāni*, *imehi*, *anena*, etc.
 
