@@ -38,6 +38,9 @@ We generally follow the lemmatization found in the Pāli Text Society's dictiona
 The `LEMMA` for all verb forms is the 3rd-person singular present indicative of the underlying verb.
 For example, the past participle *gata* "gone" gets the `LEMMA` *gacchati*.
 
+We give the active (simplex) form for causatives but give the passive form as the lemma for passive verbs.
+For example, for the passive verb *nirujjhanti*, the lemma should be `nirujjhati` but for the causative verb *desemi*, the active lemma `disati` should be given.
+
 Forms of the verb *hoti* (*honti*, *ahosi*, etc) always get the lemma `bhavati`.
 Forms of the verb *atthi* (*amhi*, *atthu*, *santi*, etc), get the lemma `atthi`.
 
