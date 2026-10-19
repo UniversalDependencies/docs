@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Pali UD'
+title:  'Pāli UD'
 udver: '2'
 ---
 
-# UD for Pali <span class="flagspan"><img class="flag" src="../../flags/svg/BUDDHISM.svg" /></span>
+# UD for Pāli <span class="flagspan"><img class="flag" src="../../flags/svg/BUDDHISM.svg" /></span>
 
 Pāli is an Indo-Aryan language, widely studied as the scriptural and liturgical language of Theravāda Buddhism.
 
@@ -145,8 +145,8 @@ See the [compound]() doc pages for details on those.
 
 Pāli conjunctions `vā` ("or") and `ca` ("and") are `cc` (coordinating conjunctions) pointing to the previous entry in the list.
 
-When a name is followed by their job (title, etc), the name is the main noun and the occupation (etc) is an `appos`.  For example, in the genitive clause “vipassissa bodhisattassa…”  *bodhisattassa* is an `appos` pointing back to `vipassissa` which acts as the main noun.
-Note that this is different from Pāli compounds, where the last token of the compound is its root.
+When a name is followed by their job (title, etc), the name is the main noun and the occupation (etc) is an `appos`.  For example, in the genitive clause “*vipassissa bodhisattassa*”  *bodhisattassa* is an `appos` pointing back to `vipassissa` which acts as the main noun.
+Note that this is different from Pāli compounds, where the last token of the compound is its head.
 
 
 ## Treebanks
