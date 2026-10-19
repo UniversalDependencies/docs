@@ -125,6 +125,11 @@ Participles in Pāli are `VERB`s with the following `FEATS`:
 * `Voice=Act` or `Voice=Pass` as appropriate
 * Full nominal agreement features (`Case`, `Gender`, `Number`)
 
+##### Injunctives
+
+In Pāli, the injunctive (prohibitive) mood is formed with "*mā*" + the verb in aorist form (with or without augment). Here, we annotate the verb as simply aorist (`Mood=Ind|Tense=Past`) and we mark the injunctive by adding to the *mā* particle `Mood=Imp|Polarity=Neg`.
+We do not use the Sanskrit jussive (`Mood=Jus`).
+
 ## Syntax
 
 Since all the participles have `VERB` as their `UPOS`, they cannot be used as `amod`. They are either `acl` if they modify a noun or `advcl` if they modify a verb or a clause. 
