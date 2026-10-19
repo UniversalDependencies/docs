@@ -9,21 +9,19 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * Words are generally delimited by whitespace or punctuation.
-* According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words); this holds even for abbreviations such as *թվ.* “year” (two tokens).
-* Numerical expressions (including dates, expressions with hyphen and Middle Armenian case endings) are treated as single words and may contain punctuation or whitespace: ... “”.
+* According to typographical rules, many punctuation marks are attached to a neighboring word. We always tokenize them as separate tokens (words); this holds even for abbreviations such as *թու.* “year” (two tokens).
 * Words, containing internal punctuation (e.g. question, exclamation, emphasis and Middle Armenian abbreviation marks, contracted forms with an apostrophe), as in *ինչո՞ւ = ինչու + ՞* “why?”, *'ւ = ու/եւ*, *թ' = թէ* are treated as multi-word tokens and segmented to individual syntactic words. For more details, see [tokenization](tokenization.html).
 
 ## Morphology
 
 ### Tags
 
-This is an overview only. For more detailed discussion and examples, see the list of [Middle Armenian POS tags](pos/index.html)
-and [Middle Armenian features](feat/index.html).
+This is an overview only. For more detailed discussion and examples, see the list of [Middle Armenian POS tags](pos/index.html) and [Middle Armenian features](feat/index.html).
 
-* Middle Armenian uses all 17 universal POS categories, including particles ([PART]()).
-* The tag [DET]() is used for articles and pronominal words used with a determiner function (pro-adjectives), including possessives (the traditional grammar does not define determiners, but distinguishes pronominal modifiers). The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase. Pronominal quantifiers (which the traditional grammar includes in pronouns) are [DET]() as well.
-
-* Middle Armenian has several auxiliary verbs ([AUX]()) (_եմ_/_em_ “to be”, _լինիմ_/_linim_ “be, become”, _ունիմ_/_ownim_ “have”, _կամ_/_kam_ “exist”, _պիտի_/_piti_ “must/will”) and particles that function like auxiliaries (_կու_/_kow_ “will”, negative auxiliaries _չի_  (_չ-_) “do(es) not” and _ոչ_/_oč_ “do(es) not”).
+* Middle Armenian uses the 17 universal POS categories.
+* [PRON]() is used for pronouns functioning as nominal heads, while pronominal modifiers of nouns are generally tagged [DET](). Traditional grammatical classifications do not always make this distinction.
+* Middle Armenian has prepositions, postpositions, and ambipositional adpositions ([ADP]()). 
+* Middle Armenian has several auxiliary verbs ([AUX]()) (_եմ_/_em_, _լինիմ_/_linim_ “be”, _ունիմ_/_ownim_ “have”, _կամ_/_kam_ “exist”) and mood auxiliaries (_կու_/_kow_ “will”, _պիտի_/_piti_ “must/will”, _կամել_/_kamel_ “intend, should be”).
   The auxiliary _եմ_/_em_ is used in the following constructions:
   * The copula with non-verbal predicates.
   * Periphrastic tenses:
@@ -32,23 +30,15 @@ and [Middle Armenian features](feat/index.html).
     - present and imperfect perfect (present form of _եմ_ + perfect participle of the main verb; imperfect form of _եմ_ + perfect participle of the main verb)
     - present and imperfect future (present form of _եմ_ + future participle of the main verb; imperfect form of _եմ_ + future participle of the main verb),
     - periphrastic negated present and imperfect tenses of indicative and conditional moods (share the same form) (negated present or imperfect form of _եմ_ + connegative form of the main verb),
-  * Periphrastic “secondary compound tenses” (any form of _լինիլ_/_linil_, including periphrastic forms, + resultative and perfect participles of the main verb).
-  * Periphrastic causative (any form of _տալ_, including periphrastic forms, + infinitve of the main verb).
-* In other words, _եմ, լինել_ and _տալ_ are the only lemmas that occur with the [AUX]() tag (Exception: finite existentials _կամ_ and _ունեմ_ in combination with resultative participle).
-  Note, that _եմ_ and _լինել_ may also occur as normal [VERB]() if they are used in purely existential sentences
-  (i.e. they don't indicate location because if they do, then _եմ_ and _լինել_ will be treated as copula).
-* Verbs with modal meaning are not considered to be auxiliaries in Armenian.
-* There are five main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
+  * Periphrastic “secondary compound tenses” (any form of _լինիմ_/_linim_ + resultative and perfect participles of the main verb). Note, that the aorist and the present and imperfect indicative (subjunctive) forms of the verb _լինիլ_/_linil_ (_լինալ_/_linal_) are analyzed as lexical verbs whenever they occur with nominal predicates (nouns, adjectives, etc.), and as auxiliaries only when they combine with participles.
+  * Periphrastic causative (any form of _տալ_/_tal_ + infinitive of the main verb).
+* In other words, _եմ, լինիմ_ and _տալ_ are the only lemmas that occur with the [AUX]() tag (Exception: finite existentials _կամ_ and _ունեմ_ in combination with resultative participle).
+* Verbs with modal meaning are not considered to be auxiliaries in Middle Armenian.
+* There are three main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
   * Finite verb `Fin`, tagged [VERB]() or [AUX]().
   * Participle `Part`, tagged [VERB]() or [AUX]() (in so-called “secondary compound tenses”).
-  * Converb `Conv`, tagged [VERB]() or [AUX]().
-  * Gerundive `Gdv`, tagged [VERB]() or [AUX]().
-  * Verbal noun `Vnoun`, tagged [NOUN]().
-* Though the resultative, subject and future-I participles can be used adjectivally and can be negated they are generally tagged [VERB](). The only exception is future-II participles, they are tagged [ADJ]().
-
-* Periphrastic present tense (_կու_ + present subjanctive of the main verb)
-
+  
 ### Nominal Features
 
 * Nominal words ([NOUN](), [PROPN]() and some of [PRON]()) have an inherent [Animacy]() feature with one of three values: `Hum`, `Nhum`. Note that this may be changed in future. Nominal words could be treated as having inherent `Hum`, `Nhum` and further would be subclassified by the layered `Animacy[gram]` values `Anim` vs. `Inan`.
