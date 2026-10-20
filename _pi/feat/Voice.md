@@ -36,7 +36,7 @@ In Pāli, the middle voice is traditionally called *attanopada* ("a word for one
 
 - _<b>Jāyate</b>_ “He is born”
 - _So <b>jiyyetha</b>_ "He may, himself, grow old."
-- _Pecca so <b>labhate</b> sukhaṁ_ "After death, he, <b>obtains for himself</b> happiness."
+- _Pecca so <b>labhate</b> sukhaṁ_ "After death, he <b>obtains for himself</b> happiness."
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
@@ -45,7 +45,7 @@ The passive voice indicates that the subject of the verb is affected by the acti
 #### Examples
 
 - _Cittaṃ <b>vimucci</b>_ "The mind <b>was freed</b>."
-- _Odano <b>paccati</b>_ “The rice <b>is cooking</b>.” (Passive *-cya-* → *-cca-* lets us know that the rice is _being_ cooked, not doing the cooking!)
+- _Odano <b>paccati</b>_ “The rice <b>is cooking</b>.” (Passive *-cya-* = *-cca-* lets us know that the rice is being cooked, not doing the cooking!)
 
 ### <a name="Cau">`Cau`</a>: causative voice
 
@@ -53,8 +53,8 @@ The causative voice is used to mean that the subject of the sentence _caused_ so
 
 #### Examples
 
+- _Sapathañca maṁ <b>kāresi</b>_ "She <b>made</b> me <b>swear</b> an oath."
 - _Te Vipassī Bhagavā dhammiyā kathāya <b>sandassesi</b>_ "The Blessed One Vipassī <b>caused</b> them <b>to see accordingly</b> by speaking about the Dhamma."
-- _Sapathañca maṁ <b>kāresi</b>_ "[She] <b>made</b> me <b>swear</b> an oath."
 
 ### <a name="CauCau">`CauCau`</a>: double causative voice
 
