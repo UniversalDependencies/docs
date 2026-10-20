@@ -18,7 +18,7 @@ udver: '2'
 
 This is an overview only. For more detailed discussion and examples, see the list of [Middle Armenian POS tags](pos/index.html) and [Middle Armenian features](feat/index.html).
 
-* Middle Armenian uses the 17 universal POS categories.
+* Middle Armenian uses the 17 universal part-of-speech tags.
 * [PRON]() is used for pronouns functioning as nominal heads, while pronominal modifiers of nouns are generally tagged [DET](). Traditional grammatical classifications do not always make this distinction.
 * Middle Armenian has prepositions, postpositions, and ambipositional adpositions ([ADP]()). 
 * Middle Armenian has several auxiliary verbs ([AUX]()) (_եմ_/_em_, _լինիմ_/_linim_ “be”, _ունիմ_/_ownim_ “have”, _կամ_/_kam_ “exist”) and mood auxiliaries (_կու_/_kow_ “will”, _պիտի_/_piti_ “must/will”, _կամել_/_kamel_ “intend, should be”).
