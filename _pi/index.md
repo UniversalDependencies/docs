@@ -39,7 +39,7 @@ The `LEMMA` for all verb forms is the 3rd-person singular present indicative of 
 For example, the past participle *gata* "gone" gets the `LEMMA` *gacchati*.
 
 We give the active (simplex) form for causatives but give the passive form as the lemma for passive verbs.
-For example, for the passive verb *nirujjhanti*, the lemma should be `nirujjhati` but for the causative verb *desemi*, the active lemma `disati` should be given.
+For example, for the passive verb *nirujjhanti*, the lemma should be `nirujjhati` but for the causative verb *desemi*, the active lemma `disati` should be given. For a double causative verb like *yojāpetvā*, the ultimate simplex (e.g. `yuñjati`) should be used as the LEMMA.
 
 Forms of the verb *hoti* (*honti*, *ahosi*, etc) always get the lemma `bhavati`.
 Forms of the verb *atthi* (*amhi*, *atthu*, *santi*, etc), get the lemma `atthi`.
@@ -110,7 +110,7 @@ All verb forms in Pāli should get the `VERB` `UPOS`.
 
 Finite verbs should have the `VerbForm=Fin` along with `Mood`, `Tense`, `Person`, `Number`, and `Voice`.
 
-UD Pāli supports the custom, double causative (`Voice=CauCau`) voice. See [Voice]() for details.
+UD Pāli supports the custom, double causative (`Voice=CauCau`) voice. See [Voice](feat/Voice.html) for details.
 
 ##### Absolutives
 

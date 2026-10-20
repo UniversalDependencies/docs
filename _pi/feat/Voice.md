@@ -27,6 +27,7 @@ In Pāli, the active voice is traditionally called *parassapada* ("a word for an
 - _Dāso odanaṃ <b>pacati</b>_ “The servant <b>cooks</b> the rice.”
 - _Tassa etad <b>ahosi</b>_ "This <b>occurred</b> to him."
 - _Na vatthaṁ ratanaṁ <b>makkheti</b>_ "The cloth doesn't <b>smear</b> the jewel."
+- _Buddho loke <b>udapādi</b>_ "A Buddha <b>arose</b> in the world."
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
