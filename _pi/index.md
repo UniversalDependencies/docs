@@ -110,6 +110,8 @@ All verb forms in Pāli should get the `VERB` `UPOS`.
 
 Finite verbs should have the `VerbForm=Fin` along with `Mood`, `Tense`, `Person`, `Number`, and `Voice`.
 
+UD Pāli supports the custom, double causative (`Voice=CauCau`) voice. See [Voice](feat/Voice) for details.
+
 ##### Absolutives
 
 Absolutives (sometimes called "gerunds") formed in Pāli with *-tvā* / *-ya* get the `VerbForm=Conv` feature and are attached to the main verb via `advcl`.
