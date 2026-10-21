@@ -72,7 +72,7 @@ This converb occurs in chained constructions only.
 
 ### <a name="As">`As`</a>: converb "as soon as"
 
-Converbs composed of the perfective stem and the suffix _ -(n)iahw_ occur in adverbial clauses with the reading 'as soon as'.
+Converbs composed of the perfective stem and the suffix _-(n)iahw_ occur in adverbial clauses with the reading 'as soon as'.
 
 #### Examples
 
