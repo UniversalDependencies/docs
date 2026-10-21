@@ -12,7 +12,7 @@ Komen et al. (2021: 324-325) describe a system of five Chechen genders:
 
 | Gender | Singular | Plural | Notes |
 |------|--------|--------|--------|
-| 1st/2nd person | V/J | D | V for male, J for female; agreement with pronouns only | 
+| 1st/2nd person | V/J | D (agreement with pronouns only) | V for male, J for female | 
 | Human | V/J | B | V for male, J for female | 
 | Various | B | B | Minority of B gender |
 | Various | D | D | Minority of D gender |
