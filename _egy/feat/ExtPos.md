@@ -91,9 +91,9 @@ Multiword adpositions occur in many languages. Often they are grammaticalized pr
 
 ### <a name="PART">`PART`</a>: particle-like expression
 
-#### Example:
+#### Example
 
-* [egy] _<b>bn-p</b>_ negative compound particle in Demotic (_bn_ = [PART())
+* [egy] _<b>bn-p</b>_ negative compound particle in Demotic (_bn_ = [PART]())
 
 ### <a name="PRON">`PRON`</a>: pronoun-like expression
 
