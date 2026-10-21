@@ -16,8 +16,8 @@ It can either occur in chained clauses to express sequential events, or in compl
 
 #### Examples
 
-* _hinc shaa q'an-j-<b>iella</b>, dwa-eqqi-<b>na</b>…_<br>
-  now 3SG.REFL old-J-get.**CVBant** away-drive-**CVBant**<br>
+* _hinc so q'an-j-<b>iella</b>, dwa-eqqi-<b>na</b>…_<br>
+  now 1SG.ABS old-J-get.**CVBant** away-drive-**CVBant**<br>
   'Now I've got old, he abandoned me…'
 
 ### <a name="Sim">`Sim`</a>: simultaneous converb
