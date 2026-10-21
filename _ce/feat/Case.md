@@ -29,9 +29,9 @@ The absolutive is assigned on the semantic subject of intransitive verbs and on 
 
 #### Examples
 
-* _byjsa j-aal-j-alla_<br>
-  night.**ABS** J-get-J-finish.PRF<br>
-  'The night came.'
+* _byjsa j-alla_<br>
+  night.**ABS** J-pass.PRF<br>
+  'The night passed.'
 
 ### <a name="Erg">`Erg`</a>: ergative
 
