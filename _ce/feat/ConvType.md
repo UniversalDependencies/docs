@@ -28,8 +28,8 @@ In addition, it is used in complex temporal-aspectual constructions with the pro
 
 #### Examples
 
-* _cwacca cho b-oqq-<b>ush</b>, xalla hwa='a=j-aesta-na_<br>
-  one.by.one hair B-take-***CVBsim***  hard here=CCONJ=J-untie-PRF<br>
+* _cwacca cho b-oqq-<b>ush</b>, xalla hwa='a=j-aesta-na…_<br>
+  one.by.one hair B-take-***CVBsim***  hard here=CCONJ=J-untie-CVBant<br>
   '**Pulling** hair one by one, she united them with difficulty.'
 
 * _v-oeda-<b>sh</b> xilla v-oqqa stag_<br>
