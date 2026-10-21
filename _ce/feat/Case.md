@@ -81,9 +81,9 @@ The comparative is used exclusively in the comparative construction, where it fo
 
 #### Examples
 
-* _hwan jow<b>-al</b>_<br>
-  2SG.GEN jow-**CMP**<br>
-  '**than** your girl'
+* _san k'ant hwan jow<b>-al</b> liaq-ox v-u_<br>
+  1.SG.GEN boy.ABS 2SG.GEN jow-**CMP** tall-**CMP** V-be<br> 
+  'My son is taller **than** your girl.'
 
 ### <a name="Loc">`Loc`</a>: locative
 
