@@ -11,7 +11,7 @@ The values below list the converbs found in the treebank, other forms are attest
 
 ### <a name="Ant">`Ant`</a>: anterior converb
 
-An anterior converb is formed by adding the suffix _-na_ (or _-la_ following _-l_) to the perfective stem.
+An anterior converb is formed by adding the suffix _-(a)na_ (or _-la_ following _-l_) to the perfective stem.
 It can either occur in chained clauses to express sequential events, or in complex temporal-aspectual constructions.
 
 #### Examples
