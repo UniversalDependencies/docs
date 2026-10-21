@@ -77,7 +77,7 @@ The instrumental marks nominal phrases that have instrumental or comitative read
 
 ### <a name="Cmp">`Cmp`</a>: comparative
 
-The comparative is used exclusively in the comparative construction, where it forms an equivalent of a _than-_clause in English. 
+The comparative is used exclusively in the comparative construction, where it forms an equivalent of a _than-_ clause in English. 
 
 #### Examples
 
