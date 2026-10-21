@@ -76,7 +76,9 @@ Converbs composed of the perfective stem and the suffix _-(n)iahw_ occur in adve
 
 #### Examples
 
-* _xaej<b>niahw</b>_ 'as soon as (she) knew'
+* _ma=xae-j-<b>niahw</b>_<br>
+  EMPH=know-J-CVBas<br>
+  'as soon as she knew'
 
 ### <a name="Before">`Before`</a>: converb "before"
 
