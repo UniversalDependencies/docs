@@ -24,7 +24,7 @@ Attributive forms, however, distinguish between the absolutive and the oblique c
 
 ### <a name="Abs">`Abs`</a>: absolutive
 
-The absolutive is assigned on the semantic subject of an intransitive verb and on the direct object of the transitive verb.
+The absolutive is assigned on the semantic subject of an intransitive verb and on the direct object of a transitive verb.
 
 
 #### Examples
