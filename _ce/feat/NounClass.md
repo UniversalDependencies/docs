@@ -57,7 +57,7 @@ It is marked with the prefix _b-_.
 
 #### Examples
 
-* _<b>b</b>axch_ "when they went"
+* _<b>b</b>axcha_ "when they went"
 
 
 ## References
