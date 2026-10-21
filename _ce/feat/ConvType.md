@@ -33,7 +33,7 @@ In addition, it is used in complex temporal-aspectual constructions with the pro
   '**Pulling** hair one by one, she united them with difficulty.'
 
 * _v-oeda-<b>sh</b> xilla v-oqqa stag_<br>
-  V-go-CVBsim be.PRF V-old man<br>
+  V-go-**CVBsim** be.PRF V-old man<br>
   'the old man was **walking**'
   
 ### <a name="Temp">`Temp`</a>: temporal converb
@@ -53,9 +53,9 @@ Converbs with the suffix _-chol_ occur in combination with the adverb _t'aehwa_ 
 
 #### Examples
 
-* _geenajal<b>chol</b> t'ehwa_<br> 
-   far-J-get.**CVBafter** after<br>
-  'after she got away'
+* _geena-j-al-<b>chol</b> t'ehwa…_<br> 
+   far-J-get-**CVBafter** afterward<br>
+  'after she got away…'
 
 
 ### <a name="Imm">`Imm`</a>: immediate converb
