@@ -14,5 +14,5 @@ The value is applied to a third-person reflexive pronoun when it functions logop
 
 #### Examples
 
-* _lielosh ju <b>shie<\b>_ "(He) treated <b>me<\b> like that" (`Log`=`Yes` on _shie_, which is identical in form with the third person reflexive pronoun.)
+* _lielosh ju <b>shie</b>_ "(He) treated <b>me</b> like that" (`Log`=`Yes` on _shie_, which is identical in form with the third person reflexive pronoun.)
 
