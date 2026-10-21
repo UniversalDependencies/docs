@@ -37,7 +37,7 @@ The J-class marks agreement with constituents denoting singular human female ref
 
 #### Examples
 
-*_<b>j</b>edda_ "(she) ran away"
+* _<b>j</b>edda_ "(she) ran away"
 
 
 ### <a name="Dclass">`Dclass`</a>: D-class
