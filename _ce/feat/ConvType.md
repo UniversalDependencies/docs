@@ -77,7 +77,7 @@ Converbs composed of the perfective stem and the suffix _-(n)iahw_ occur in adve
 #### Examples
 
 * _ma=xae-j-<b>niahw</b>_<br>
-  EMPH=know-J-CVBas<br>
+  EMPH=know-J-**CVBas**<br>
   'as soon as she knew'
 
 ### <a name="Before">`Before`</a>: converb "before"
@@ -86,8 +86,8 @@ Converbs carrying the suffix _-jahw_ occur in adverbial clauses with the reading
 
 #### Examples
 
-* _duq xan <b>jalljahw</b>_<br>
-  much time j-**pass.CVBbefore**<br>
+* _duq xan j-all-<b>jahw</b>_<br>
+  much time j-pass-**CVBbefore**<br>
   'soon (lit. before much time passed)'
 
 ### <a name="Until">`Until`</a>: converb "until"
