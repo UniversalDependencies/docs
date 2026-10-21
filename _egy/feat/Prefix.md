@@ -21,7 +21,7 @@ Some verb forms are written with an i҆ prefix (also called prothetic) in Old Eg
 
 * _tꜣ pf <b>ꞽ:šm(.w)</b> Wni҆ś ꞽm ⸗f_ “That land in which Unas walks (...)” (lit. land-m.sg dem:m.sg walk:rel.pres-m.sg Unas-kn in: prep =3sg.m)
 
-* ### <a name="Na">`Na`</a>: Adjective verbs
+### <a name="Na">`Na`</a>: Adjective verbs
 
 In Demotic, most adjective verbs are formed using the prefix nꜣ to express a śč̣m ⸗f verb form.
 
