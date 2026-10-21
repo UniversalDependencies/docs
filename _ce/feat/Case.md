@@ -24,7 +24,7 @@ Attributive forms, however, distinguish between the absolutive and the oblique c
 
 ### <a name="Abs">`Abs`</a>: absolutive
 
-The absolutive is assigned on the semantic subject of an intransitive verb and on the direct object of a transitive verb.
+The absolutive is assigned on the semantic subject of intransitive verbs and on the direct object of transitive verbs.
 
 
 #### Examples
@@ -45,7 +45,7 @@ The ergative marks the semantic subject of transitive verbs.
 
 ### <a name="Dat">`Dat`</a>: dative
 
-The dative marks the subject of experiencial verbs such as _deeza_ 'love, need', _xaza_ 'hear', _ga_ 'see', etc.
+The dative marks the subject of psych verbs such as _deeza_ 'love, need', _xaza_ 'hear', _ga_ 'see', etc.
 It also marks the indirect object of verbs of contact and physical transfer.
 
 #### Examples
@@ -77,7 +77,7 @@ The instrumental marks nominal phrases that have instrumental or comitative read
 
 ### <a name="Cmp">`Cmp`</a>: comparative
 
-The comparative is used exclusively in the comparative construction, where it forms an equivalent of _than-_clause in English. 
+The comparative is used exclusively in the comparative construction, where it forms an equivalent of a _than-_clause in English. 
 
 #### Examples
 
@@ -107,7 +107,7 @@ The lative marks a variety of non-core arguments, including source and goal.
 
 ### <a name="All">`All`</a>: allative
 
-The allative marks the causee in causative constructions; it also marks the indirect objects of verbs of saying.
+The allative marks the causee in causative constructions; it also marks the addressee of verbs of saying.
 
 #### Examples
 
@@ -117,7 +117,7 @@ The allative marks the causee in causative constructions; it also marks the indi
 
 ### <a name="Abl">`Abl`</a>: ablative
 
-The ablative marks non-core arguments such as the source or direction.
+The ablative marks non-core arguments such as source or direction.
 
 #### Examples
 
@@ -127,7 +127,7 @@ The ablative marks non-core arguments such as the source or direction.
 
 ### <a name="Acc">`Acc`</a>: oblique/accusative
 
-The oblique marks all non-absolutive attributives, including attributive uses of adjectives and nominalized verbal forms.
+The oblique marks all non-absolutive uses of attributive adjectives and nominalized verbal forms.
 Following the UD convention, the value `Acc` is used to mark the oblique case.
 
 #### Examples
