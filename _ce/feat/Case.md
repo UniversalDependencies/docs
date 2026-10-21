@@ -71,7 +71,7 @@ The instrumental marks nominal phrases that have instrumental or comitative read
 
 #### Examples
 
-* _Hara doexka san koch-<b>aca</b> dooghu._<br>
+* _Hara doexka san koch-<b>aca</b> d-ooghu._<br>
   DEM belt.ABS 1SG.GEN dress-**INS** D-come<br>
   'This belt goes well **with** my dress.'  
 
