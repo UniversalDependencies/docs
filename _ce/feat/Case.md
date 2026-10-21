@@ -111,6 +111,10 @@ The allative marks the causee in causative constructions; it also marks the addr
 
 #### Examples
 
+* _V-oqqa-chu stag-as Islam-<b>ie</b> kniiga  j-esh-ijt-ina_<br>
+  V-old-OBL man-ERG Islam-**ALL** book.ABS J-read-CAUS-PRF<br>
+  'The old man made Islam read the book.'
+
 * _V-oqqa-chu stag-<b>ie</b> xaettana…_<br>
   V-old-OBL man-**ALL** ask-PRF<br>
   '(They) asked the old man…'
