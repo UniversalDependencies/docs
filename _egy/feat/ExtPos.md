@@ -39,7 +39,7 @@ lexical one, `ExtPos` may be used to signal it.
 
 `ExtPos` is strongly recommended for fixed functional multiword expressions (the head node has one
 or more children attached via the [fixed]() relation). These should normally lead to `ExtPos` values
-`ADP`, `ADV`, `AUX`, `CCONJ`, `DET`, `PART` `PRON`, `SCONJ` (the `fixed` relation should not be used for compounds
+`ADP`, `ADV`, `AUX`, `CCONJ`, `DET`, `PART`, `PRON`, `SCONJ` (the `fixed` relation should not be used for compounds
 that work like content words). However, `ExtPos` is occasionally useful in other situations, too:
 for example, when a multiword expression acts as a proper noun (although its parts behave like other
 words) or as an interjection.
