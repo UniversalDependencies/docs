@@ -61,7 +61,7 @@ The genitive marks the possessor in the possessive construction.
 #### Examples
 
 * _Islam-<b>an</b> mashien j-u._<br>
-  <br>Islam-**GEN** car.ABS J-be<br>
+  Islam-**GEN** car.ABS J-be<br>
   'Islam has a car.'
 
 
