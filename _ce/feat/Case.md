@@ -45,7 +45,7 @@ The ergative marks the semantic subject of transitive verbs.
 
 ### <a name="Dat">`Dat`</a>: dative
 
-The dative marks the subject of psych verbs such as _deeza_ 'love, need', _xaza_ 'hear', _ga_ 'see', etc.
+The dative marks the semantic subject of psych verbs such as _deeza_ 'love, need', _xaza_ 'hear', _ga_ 'see', etc.
 It also marks the indirect object of verbs of contact and physical transfer.
 
 #### Examples
