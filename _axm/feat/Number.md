@@ -82,7 +82,7 @@ Collective or mass or singulare tantum is a special case of singular. It applies
 
 ### <a name="Ptan">`Ptan`</a>: plurale tantum
 
-In Middle Armenian, the `Ptan` number is used with paired body parts and similar entities. These forms end in the Classical Armenian plural marker _-ք_/_-k’_, and refer to all members of the natural set denoted by the noun, rather than expressing ordinary plural number. The ordinary plural of such nouns is often formed with a different plural marker, such as _-վի_/_-vi_, _-նի_/_-ni_, etc. In such cases, their lemma is given without the ending _-ք_/_-k’_, and the form is annotated as plural (`Number=Plur`). 
+In Middle Armenian, the `Ptan` number is used with paired body parts and similar entities, but is not limited to these categories. These forms end in the Classical Armenian plural marker _-ք_/_-k’_, and refer to all members of the natural set denoted by the noun, rather than expressing ordinary plural number. The ordinary plural of such nouns is often formed with a different plural marker, such as _-վի_/_-vi_, _-նի_/_-ni_, etc. In such cases, their lemma is given without the ending _-ք_/_-k’_, and the form is annotated as plural (`Number=Plur`). 
 Some geographical or biological/botanical names appear only in the plural form even though they denote one thing (semantic singular). These nouns are also marked as `Ptan` (plurale tantum). Grammatically they behave like singulars.
 
 #### Examples
