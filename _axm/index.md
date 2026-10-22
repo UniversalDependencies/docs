@@ -59,7 +59,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 * Verbs in indicative mood always have one of three values of [Tense](): mainly `Past` and for auxilaries and some content verbs `Pres` or `Imp`.
   * Imperative and necessitative forms do not have the `Tense` feature (note that imperfect and present necessitatives are distinguished analytically).
   * Subjunctve and conditional forms have one of the `Tense=Imp` or `Tense=Pres` features, which are formally imperfect or present, but semantically future.
-  * There are five values of the [Voice]() feature: `Act`, `Cau`, `Mid`, `Pass`, `Rcp`. Active and causative verbs have `Subcate=Tran`, the other three `Subcate=Intr`.
+* There are five values of the [Voice]() feature: `Act`, `Cau`, `Mid`, `Pass`, `Rcp`. Active and causative verbs have `Subcate=Tran`, the other three `Subcate=Intr`.
 
 ### Polarity ...
 
