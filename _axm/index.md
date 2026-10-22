@@ -20,7 +20,7 @@ This is an overview only. For more detailed discussion and examples, see the lis
 
 * Middle Armenian uses the 17 universal part-of-speech tags.
 * [PRON]() is used for pronouns functioning as nominal heads, while pronominal modifiers of nouns are generally tagged [DET](). Traditional grammatical classifications do not always make this distinction.
-* Middle Armenian has prepositions, postpositions, and ambipositional adpositions ([ADP]()). 
+* Middle Armenian has prepositions, postpositions, and ambipositional adpositions ([ADP]()). Some multiword expressions have an external syntactic category represented by `ExtPos`, while their component words retain their own UPOS tags.
 * Middle Armenian has several auxiliary verbs ([AUX]()) (_եմ_/_em_, _լինիմ_/_linim_ “be”, _ունիմ_/_ownim_ “have”, _կամ_/_kam_ “exist”) and mood auxiliaries (_կու_/_kow_ “will”, _պիտի_/_piti_ “must/will”, _կամել_/_kamel_ “intend, should be”).
   The auxiliary _եմ_/_em_ is used in the following constructions:
   * The copula with non-verbal predicates.
@@ -30,10 +30,9 @@ This is an overview only. For more detailed discussion and examples, see the lis
     - present and imperfect perfect (present form of _եմ_ + perfect participle of the main verb; imperfect form of _եմ_ + perfect participle of the main verb)
     - present and imperfect future (present form of _եմ_ + future participle of the main verb; imperfect form of _եմ_ + future participle of the main verb),
     - periphrastic negated present and imperfect tenses of indicative and conditional moods (share the same form) (negated present or imperfect form of _եմ_ + connegative form of the main verb),
-  * Periphrastic “secondary compound tenses” (any form of _լինիմ_/_linim_ + resultative and perfect participles of the main verb). Note, that the aorist and the present and imperfect indicative (subjunctive) forms of the verb _լինիլ_/_linil_ (_լինալ_/_linal_) are analyzed as lexical verbs whenever they occur with nominal predicates (nouns, adjectives, etc.), and as auxiliaries only when they combine with participles.
-  * Periphrastic causative (any form of _տալ_/_tal_ + infinitive of the main verb).
-* In other words, _եմ, լինիմ_ and _տալ_ are the only lemmas that occur with the [AUX]() tag (Exception: finite existentials _կամ_ and _ունեմ_ in combination with resultative participle).
-* Verbs with modal meaning are not considered to be auxiliaries in Middle Armenian.
+* Periphrastic “secondary compound tenses” are formed with any form of _լինիմ_/_linim_ + resultative and perfect participles of the main verb). Note, that the aorist and the present and imperfect indicative (subjunctive) forms of the verb _լինիլ_/_linil_ (_լինալ_/_linal_) are analyzed as lexical verbs whenever they occur with nominal predicates (nouns, adjectives, etc.), and as auxiliaries only when they combine with participles.
+* Periphrastic causative is formed with any form of _տալ_/_tal_ + infinitive of the main verb).
+* Durative aspect is expressed with the finite forms of the existentials _ունիմ_/_ownim_ “have”, _կամ_/_kam_ “exist”  in combination with resultative, perfect and past participles of the lexical verb.
 * There are three main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
   * Finite verb `Fin`, tagged [VERB]() or [AUX]().
@@ -41,35 +40,28 @@ This is an overview only. For more detailed discussion and examples, see the lis
   
 ### Nominal Features
 
-* Nominal words ([NOUN](), [PROPN]() and some of [PRON]()) have an inherent [Animacy]() feature with one of three values: `Hum`, `Nhum`. Note that this may be changed in future. Nominal words could be treated as having inherent `Hum`, `Nhum` and further would be subclassified by the layered `Animacy[gram]` values `Anim` vs. `Inan`.
-* The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
-  [NOUN](), [PROPN](), [PRON](), [VERB](), [AUX]() (finite).
-  * Selected nouns are plurale tantum (`Ptan`) or singulare tantum (`Coll`). These two values are lexical, and cannot be used with
-    the agreeing verbs. They also never occur with pronouns. `Coll` occurs with gerundives.
-  * There is a language-specific value `Assoc` (associative plural). This is also lexical and occurs with `NOUN` and `PROPN`. Some of pronouns (_մերոնք, ձերոնք, իմոնք, քոնոնք_) are also associative.
-* [Case]() has 6 possible values: `Nom`, `Gen`, `Dat`, `Abl`, `Ins`, `Loc`.
-  It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [DET](), and gerundives. Note, that `Gen` occurs only with pronouns and determiners.
-  * The `Case` feature also occurs with some of adpositions, subclassified as “localizers” ([ADP]()). It is an inflectional feature here.
-* The two main values of the [Definite]() feature are `Def` and `Ind`. The following parts of speech inflect for definitness:
-  [NOUN](), [PROPN](), [PRON](). With gerundives, resultative and subject participles the feature sometimes encodes the lexical person of the possessor, although they can be almost interpreted as the 3rd person. We mark them as `Def` (see the layered features below).
-* [Degree]() applies to adjectives ([ADJ]()) and some adverbs ([ADV]()) and has one of four possible values: `Pos`, `Cmp`, `Sup`, `Abs`.
+* The main [Number]() values are `Sing` and `Plur`. The following parts of speech inflect for number: [NOUN](), [PROPN](), [PRON](), [VERB](), [AUX]() (finite).
+  * Selected nouns are plurale tantum (`Ptan`): they have a morphologically plural form but refer to a single entity or a natural set of entities, such as paired body parts and similar items.
+ * [Case]() has 6 possible values: `Nom`, `Acc`, `Gen`, `Dat`, `Abl`, `Ins`. It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [DET](), and inflected infinitives. Note, that `Gen` occurs only with pronouns and determiners.
+* The two main values of the [Definite]() feature are `Def` and `Ind`. The following parts of speech inflect for definitness: [NOUN](), [PROPN](), [PRON](). Infinitives also receive the definiteness feature.
+* [Degree]() applies to adjectives ([ADJ]()) and some adverbs ([ADV]()) and has one of three possible values: `Pos`, `Cmp`, `Sup`.
+* [NameType]() is used to distinguish types of named entities.
 
 ### Verbal Features
 
-* Verbs have a lexical [Subcat](), either intransitive (`Intr`) or transitive (`Tran`).
+* [VerbForm]() distinguishes the major finite and non-finite verbal forms; [Mood](), [Tense](), [Aspect](), and [Voice]() describe their relevant grammatical categories.
+* [Subcat]() distinguishes transitive (`Tran`) and intransitive (`Intr`) verbal lexemes.
 * Verbs have one of six values of [Aspect](): `Dur`, `Imp`, `Iter`, `Perf`, `Prog` or `Prosp`.
-  * Note, that in Armenian iterative is considered as a lexical feature of verbs, thus they have morphologically related not iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
-  * The `Aspect` feature should be also used with the corresponding deverbatives, if they have the `VerbForm` feature.
-* Finite verbs always have one of five values of [Mood](): `Cnd`, `Imp`, `Ind`, `Nec` of `Sub`.
-  * The necessitative mood is only used with necessitative particle _պիտի_ or the impersonal predicative _պետք է_. The subjuncitve finite form of the main verb, that is needed to form a periphrastic necessitative, is not marked with this feature.
-  * The negated conditional mood is only used with indicative auxiliaries _(եմ, էի)_. The connegative of the main verb, that is needed to form a periphrastic negated conditional, is also marked with this feature.
+  * Note, that in Middle Armenian iterative is considered as a lexical feature of verbs, thus they have morphologically related not iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
+* Finite verbs always have one of five values of [Mood](): `Cnd`, `Imp`, `Ind`, `Nec` or `Sub`.
+  * The necessitative mood is used only with the necessitative particle _պիտի_ or the impersonal predicative _պետք է_. The subjunctive finite form of the main verb, that is needed to form a periphrastic necessitative, is not marked with this feature.
+* The present and imperfect tenses of the indicative mood that are formed with the auxiliary _կու (կ, կոյ)_/_kow (k, koy)_ have the same forms as the present and imperfect tenses of the conditional mood. They cannot be distinguished without context. The negative forms of the present and imperfect tenses of the indicative (as well as the conditional) mood exhibit variation in their formation. Besides the bound negative morpheme չ-/č-, the negation of indicative and conditional moods is formed periphrastically using the special form of main verb (traditionally called _negative participle_) and negated auxiliary _չեմ_ “not to be”. The main verb is marked as [Connegative]().
 * Verbs in indicative mood always have one of three values of [Tense](): mainly `Past` and for auxilaries and some content verbs `Pres` or `Imp`.
-  * Imperative and necessitative forms do not have the `Tense` feature (note that imperfect and present necessitatives are distinguished
-    analytically).
+  * Imperative and necessitative forms do not have the `Tense` feature (note that imperfect and present necessitatives are distinguished analytically).
   * Subjunctve and conditional forms have one of the `Tense=Imp` or `Tense=Pres` features, which are formally imperfect or present, but semantically future.
   * There are five values of the [Voice]() feature: `Act`, `Cau`, `Mid`, `Pass`, `Rcp`. Active and causative verbs have `Subcate=Tran`, the other three `Subcate=Intr`.
 
-### Polarity
+### Polarity ...
 
 * [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()) that can be negated using the bound morpheme _չ-_.
   * Occasionally _ոչ_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`. The `Polarity=Neg` feature is also used with necessitative mood particles _(չ)պիտի, (չ)պետք է_ .
