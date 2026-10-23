@@ -35,7 +35,7 @@ Both items are inflected for grammatical agreement, tense, and have finite, part
 * Nouns, adjectives, determiners, and numerals up to 'five' inflect for [Case]() and [Number]().
  
     * Nouns and personal pronouns have extensive case paradigms: `Nom`, `Gen`, `Dat`, `Erg`, `Ins`, `Loc` (nouns only), `All`, `Abl`, `Ins`, `Lat`, and `Cmp`.
-	* Adjectives and determiners make a `Nom` nominative / `Acc` accusative (oblique) distinction.
+	* Attributive uses of adjectives and determiners make an absolutive / oblique distinction (the latter is annotated as `Acc` following the UD convention).
 * There are two language-specific nominal features: [Log]{} and [NounClass]().
 * Personal pronouns have a feature [Log](), applied for uses of third person reflexive forms in direct speech to refer to the reported speaker.
 
