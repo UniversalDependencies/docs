@@ -50,7 +50,7 @@ Both items are inflected for grammatical agreement, tense, and have finite, part
 ## Syntax
 
 * Chechen has ergative-absolutive alignment, ergative is marked, while absolutive is unmarked. 
-Ergative-marked arguments are syntactic subjects of transitive verbs. Absolutive arguments are syntactic subjects of intransitive verbs and are syntactic objects of transitive verbs. 
+Ergative-marked arguments are semantic subjects of transitive verbs. Absolutive arguments are semantic subjects of intransitive verbs and are semantic objects of transitive verbs. 
 Predicates agree with the absoultive argument; the case of the argument, the agreement pattern, and the valence of the predicate are used to distinguish between the subject and the object argument.
 
 * The main copula construction in Chechen uses a form of the copula _d.u_. 
