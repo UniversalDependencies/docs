@@ -53,7 +53,7 @@ Both items are inflected for grammatical agreement, tense, and have finite, part
 Ergative-marked arguments are semantic subjects of transitive verbs. Absolutive arguments are semantic subjects of intransitive verbs and are semantic objects of transitive verbs. 
 Predicates agree with the absoultive argument; the case of the argument, the agreement pattern, and the valence of the predicate are used to distinguish between the subject and the object argument.
 
-* The main copula construction in Chechen uses a form of the copula _d.u_. 
+* The main copula construction in Chechen uses a form of the copula _du_. 
 In finite clauses, the copula is inflected for subject agreement, tense, and aspect (as relevant).
 
 ~~~ conllu
