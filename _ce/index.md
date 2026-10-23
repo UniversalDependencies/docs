@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  '<Chechen> UD'
+title:  'Chechen UD'
 udver: '2'
 ---
 
