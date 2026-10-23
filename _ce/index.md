@@ -23,7 +23,7 @@ udver: '2'
 
 * Chechen-MottDT uses 16 tags, with the exception of [SYM]().
 * The tag [PART]() is applied to the proclitic _ma_, the enclitic _q_, and the quotatives _boox_ and _baax_
-* The tag [AUX]() is applied to two lexemes: _d.u_, which functions as a copula, and _xülu_, which serves as an auxiliary in complex temporal-aspectual constructions. 
+* The tag [AUX]() is applied to two lexemes: _du_, which functions as a copula in non-verbal predication, and _xülu_, which serves as an auxiliary in complex temporal-aspectual constructions. 
 Both items are inflected for grammatical agreement, tense, and have finite, participle, and free relative forms. 
 In addition, the tag [AUX]() is applied to the lexical root _wa_ 'stay' when used as an auxiliary in complex temporal-aspectual constructions to contribute imperfective reading.
 * The tag [DET]() is applied to pronominal items used attributively. One exception is possessive pronouns, which are all tagged as [PRON](). 
