@@ -585,6 +585,8 @@ collections:
     output: true
   hac:
     output: true
+  ae:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
