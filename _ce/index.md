@@ -54,23 +54,8 @@ Ergative-marked arguments are semantic subjects of transitive verbs. Absolutive 
 Predicates agree with the absoultive argument; the case of the argument, the agreement pattern, and the valence of the predicate are used to distinguish between the subject and the object argument.
 
 * The main copula construction in Chechen uses a form of the copula _du_. 
-In finite clauses, the copula is inflected for subject agreement, tense, and aspect (as relevant).
 
-~~~ conllu
-
-1	so	so	PRON	_	Case=Abs|Number=Sing|Person=1	5	nsubj
-2-3	juq	_	_	_	_	_	_
-2	ju	d.u	ADV	_	NounClass=Jclass|Tense=Pres	5	cop
-3	q	q	PART	_	_	2	advmod:emph
-4	hwa	hwa	PRON	_	Case=Gen|Number=Sing|Person=2	5	nmod
-5	jow	jow	NOUN	_	Case=Abs	15	root
-
-so      ju       =q   hwa     jow
-1SG.ABS J-be.PRS EMPH 2SG.GEN girl
-"I am your daughter."
-~~~
-
-* There two language-specific relations: [advmod:emph](), [ccomp:reported](), and [obj:caus]().
+* There two language-specific relations: [advmod:emph]() and [ccomp:reported]().
 
 * The subtype relations used are as follows:
 
@@ -78,8 +63,6 @@ so      ju       =q   hwa     jow
     * [advmod:emph]()
     * [ccomp:reported]()
     * [compound:redup]()
-    * [nmod:poss]()
-    * [obj:caus]()
 
 
 ## Treebanks
