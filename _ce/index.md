@@ -67,6 +67,6 @@ Predicates agree with the absoultive argument; the case of the argument, the agr
 
 ## Treebanks
 
-There is [one](../treebanks/ce-comparison.html) Chechen UD treebank:
+There is one Chechen UD treebank:
 
   * [Chechen-MottDT](../treebanks/ce_mottdt/index.html)
