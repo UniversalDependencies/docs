@@ -31,8 +31,12 @@ While we strip out punctuation in our `# text` rows, we do recommend using any p
 
 ### Part of Speech Tags
 
-Participles are tagged as `VERB`s and not `ADJ`s or `ADV`s.
+Participles are tagged as `VERB`s.
 This means that they cannot get the `amod` dependency relation when used to modify a noun, so we use `acl` instead to attach it to its target noun.
+
+Sometimes in Pāli, a word derived from a participle has taken on a new meaning beyond its root verb.
+Nouns like *buddha* ("the Buddha", from *bujjhati*, "knows"), *carita* ("behavior", from *carati*, "walks"), *khādanīya* ("non-staple food", from *khādati*, "chews"), etc or adjectives like *anāgata* ("future", from *āgacchati*, "comes"), etc should be tagged as `NOUN` or `ADJ` as appropriate and not as `VERB` despite the etymological connection.
+Participles that are used in the same sense as their underlying verb, are just `VERB`s, even if they are syntactically close to being used as adjectives or nouns.
 
 Because Pāli is originally an oral language, we are stripping out symbols and punctuation, meaning we do not use the `SYM` or `PUNCT` tags.
 
