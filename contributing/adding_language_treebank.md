@@ -41,7 +41,7 @@ acronym to the release task force when you ask for the repository.
 Such things can and should be described and credit given inside the README.md file. The sole purpose of the
 treebank id is to distinguish it from other treebanks in the same language. An abbreviation of your project may
 be sometimes useful to make the code memorable; but the full name of the project is not a good candidate for
-a treebank id unless it is very short. Remember that on various occassions people present lists or tables of
+a treebank id unless it is very short. Remember that on various occasions people present lists or tables of
 treebanks and formatting them becomes difficult if some treebanks have much longer ids than others; and the
 results are ugly.
 
