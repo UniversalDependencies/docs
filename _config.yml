@@ -587,6 +587,8 @@ collections:
     output: true
   ae:
     output: true
+  kdn:
+    output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
