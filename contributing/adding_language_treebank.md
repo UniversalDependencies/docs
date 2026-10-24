@@ -37,7 +37,7 @@ it should be short. It can contain uppercase and lowercase English letters (the 
 it cannot contain additional underscores, hyphens or other special characters. Tell your preferred treebank
 acronym to the release task force when you ask for the repository.
 
-**Note:** The purpose of the treebank id is **not** to highlight your project id, book title or anything else!
+**Note:** The purpose of the treebank id is **not** to highlight your project name, book title or anything else!
 Such things can and should be described and credit given inside the README.md file. The sole purpose of the
 treebank id is to distinguish it from other treebanks in the same language. An abbreviation of your project may
 be sometimes useful to make the code memorable; but the full name of the project is not a good candidate for
