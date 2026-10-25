@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'conj:reform'
-shortdef: 'oblique modifier'
+shortdef: 'reformulation'
 udver: '2'
 ---
 
