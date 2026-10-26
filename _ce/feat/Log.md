@@ -15,6 +15,6 @@ The value is applied to a third-person reflexive pronoun when it functions logop
 #### Examples
 
 * _"Lielo-sh j-u <b>shie</b>", aell._<br>
-  treat-CVBsim J-AUX **3SG.REFL.LOG** say.PRF<br>
+  treat-CVBsim J-AUX **3SG.REFL** say.PRF<br>
   "(He) treated **me** like that," (he) said. (`Log`=`Yes` on _shie_, which is identical in form with the third person reflexive pronoun.)
 
