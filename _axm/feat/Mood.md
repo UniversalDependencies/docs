@@ -71,7 +71,7 @@ In some contexts the mood also expresses the desire that the action happens; it 
 
 #### Examples
 
-* _Եւ զայս գիրքս շինեցաք, զի որք <b>կարդան</b>` հեշտութեամբ <b>յիմանան</b>:_/_Ew zays girk’s šinec’ak’ zi ork’ kardan heštowt’eamb yimanan_ “And we composed this book so that those who read it may understand it with ease.”
+* _Եւ զայս գիրքս շինեցաք, զի որք <b>կարդան</b> հեշտութեամբ <b>յիմանան</b>:_/_Ew zays girk’s šinec’ak’ zi ork’ kardan heštowt’eamb yimanan_ “And we composed this book so that those who read it may understand it with ease.”
 * _<b>լուսանայր</b>_/_lowsanayr_ “(I wish) it would dawn”,
 * _<b>տուն մտնուի</b>_/_town mtnowi_ “(I would like) to enter the house”.
 
