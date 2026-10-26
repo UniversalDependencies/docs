@@ -30,7 +30,7 @@ shiena        t'aehw d-oogh-ush    oarca     ma   d-u      shaa     j-ie
 2	hwra	hara	PRON	_	PronType=Dem	6	nsubj
 3-4	juq	_	_	_	_	_	_
 3	ju	d.u	AUX	_	NounClass=Jclass|Tense=Pres	6	cop
-4	q	q	PART	_	_	6	mark
+4	q	q	PART	_	_	6	advmod:emph
 5	dik	dika	ADJ	_	_	6	amod
 6	hum	huma	NOUN	_	Case=Abs	0	root
 7	t'e	t'e	ADP	_	AdpType=Post	8	advmod
