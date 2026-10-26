@@ -73,7 +73,7 @@ Interrogative pronouns are used when asking questions.
 * _<b>im</b> mascul fá femen_ “<b>is it</b> a masculine or feminine (noun)?”
 * _<b>in</b> mesorsa_ “<b>will</b> I judge?”
 
-### <a name="Ind">`Neg`</a>: negative
+### <a name="Neg">`Neg`</a>: negative
 
 Old Irish has negative pronouns, _nach_, "nothing".
 
@@ -106,7 +106,7 @@ The copula in Old Irish has relative forms and can inflect for person and number
 * _<b>as</b>mmé moínur_ “<b>that it is</b> I alone”
 * _na<b>mba</b> olcc amenma frimm_ “that his feeling <b>may be</b> not bad towards me”
 
-### <a name="Ind">`Tot`</a>: indefinite
+### <a name="Tot">`Tot`</a>: indefinite
 
 Old Irish has total (collective) pronouns, _cach_, "all/everyone".
 

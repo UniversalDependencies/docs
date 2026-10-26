@@ -15,21 +15,17 @@ Both definite and indefinite forms of prepositions exist in accordance with whet
 
 Prepositions which form a close compound with a following article are definite. This, however, only applies to close compounds with the article. Prepositions which precede the article without forming a close compound remain indefinite. Similarly, prepositions which precede determiners other than the article, even definite determiners like _<b>cach</b>_ "every/all", remain indefinite themselves.
 
-Determiners other than the article, such as _<b>cach</b>_ "every/all", are definite.
-
 #### Examples
 
 * _anas olcc <b>la</b>sin brathir_ "that which is evil <b>to</b> the brother"
 * _na scarad <b>fri</b>sinfer_ "let her not part <b>from</b> the man"
 * _<b>fo</b>nóenchummi_ "<b>in</b> the one form"
-* _bíid <b>cach</b>ae ar alailiu_ "<b>each</b> of them is for another"
-* _isairdircc í<b>cach</b>thír_ "it is well known in <b>every</b> country"
 
 ### <a name="Ind">`Ind`</a>: indefinite
 
 Prepositions, including conjugated prepositions, which are not followed by an article, or which do not form a close compound with a following article, are indefinite.
 
-Prepositions which precede determiners other than the article, even definite determiners such as _<b>cach</b>_ "every/all", remain indefinite themselves.
+Prepositions which precede determiners other than the article, such as _<b>cach</b>_ "every/all", remain indefinite themselves.
 
 #### Examples
 
