@@ -7,17 +7,17 @@ udver: '2'
 
 Chechen has a rich paradigm of cases marked on nouns, pronouns, numerals, determiners, and nominalized verbal forms.
 
-| Case | Singular | Plural | 
+| Case | Singular | Plural |
 |------|--------|--------|
-| Absolutive | Ø | _-ash, -ij, -i_ | 
-| Ergative | _-(as), -uo_ | _-sh-a_ | 
-| Genitive | _-(a)n_ | _-in_ | 
-| Dative | _-na, -n_ | _-ash-na_ | 
-| Instrumental | _-(a)ca_ | _-ash-ca_ | 
-| Locative | _-(a)hw_ | _-ash-ahw, -kahw_ | 
-| Lative | _-(a)x_ | _-iax, -ix_ | 
-| Ablative | _-gara_ | _-ash-kara_ | 
-| Allative | _-(a)ga, -ie_ | _-ash-ka_ | 
+| Absolutive | Ø | _-ash, -ij, -i_ |
+| Ergative | _-(as), -uo_ | _-sh-a_ |
+| Genitive | _-(a)n_ | _-in_ |
+| Dative | _-na, -n_ | _-ash-na_ |
+| Instrumental | _-(a)ca_ | _-ash-ca_ |
+| Locative | _-(a)hw_ | _-ash-ahw, -kahw_ |
+| Lative | _-(a)x_ | _-iax, -ix_ |
+| Ablative | _-gara_ | _-ash-kara_ |
+| Allative | _-(a)ga, -ie_ | _-ash-ka_ |
 | Comparative | _-(a)l_ | _-ial, -il_ |
 
 Attributive forms (e.g. adjectives and demonstrative pronouns) distinguish between the absolutive and the oblique cases only (the latter is marked with the suffix _-chu_).
@@ -40,7 +40,7 @@ The ergative marks the semantic subject of transitive verbs (the A argument) wit
 #### Examples
 
 * _zha.Ø lar-d-oora aas_<br>
-  sheep.ABS watch-D-make.IMPF 1SG.**ERG**<br> 
+  sheep.ABS watch-D-make.IMPF 1SG.**ERG**<br>
   'I used to watch sheep.'
 
 ### <a name="Dat">`Dat`</a>: dative
@@ -82,7 +82,7 @@ The comparative is used exclusively to mark the standard of comparison in the co
 #### Examples
 
 * _san k'ant hwan jow<b>-al</b> liaq-ox v-u_<br>
-  1.SG.GEN boy.ABS 2SG.GEN girl-**CMP** tall-**CMP** V-be<br> 
+  1.SG.GEN boy.ABS 2SG.GEN girl-**CMP** tall-**CMP** V-be<br>
   'My son is taller **than** your girl.'
 
 ### <a name="Loc">`Loc`</a>: locative
@@ -111,7 +111,7 @@ The allative marks the causee in causative constructions. It also marks the addr
 
 #### Examples
 
-* _V-oqqa-chu stag-as Islam-<b>ie</b> kniiga  j-esh-ijt-ina_<br>
+* _V-oqqa-chu stag-as Islam-<b>ie</b> kniiga j-esh-ijt-ina_<br>
   V-old-OBL man-ERG Islam-**ALL** book.ABS J-read-CAUS-PRF<br>
   'The old man made Islam read the book.'
 
