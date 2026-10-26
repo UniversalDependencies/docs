@@ -64,11 +64,8 @@ This is an overview only. For more detailed discussion and examples, see the lis
 ### Polarity ...
 
 * [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()) that can be negated using the bound morpheme _չ-_.
-  * Occasionally _ոչ_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`. The `Polarity=Neg` feature is also used with necessitative mood particles _(չ)պիտի, (չ)պետք է_ .
-  * Negating nouns are usually limited to those derived from verbs _(չունեցողի, չգրվածները)_.
-  * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners.
-    The `PronType=Neg` feature is used there instead.
-  * The `Polarity=Neg` feature is not used with negated conditional mood, the `Connegative=Yes` feature is used there instead.
+* Occasionally _ոչ_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`. The `Polarity=Neg` feature is also used with the necessitative mood particle _(չ)պիտի_/_(č)piti_, and the prohibitive imperative particle _մի_/_mi_ .
+* The `Polarity=Neg` feature is not used with negated conditional mood, the `Connegative=Yes` feature is used there instead.
 
 ### Pronouns, Determiners, Quantifiers
 
