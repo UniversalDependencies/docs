@@ -53,7 +53,7 @@ Old Irish has emphasising particles, however, as they inflect for person and num
 
 ### <a name="Ind">`Ind`</a>: indefinite
 
-Old Irish has a specific independent pronoun, _nech_/_ní_, "someone/something", and several other independent pronominals.
+Old Irish has a specific indefinite pronoun, _nech_/_ní_, "someone/something", and several other independent pronominals.
 
 #### Examples
 
@@ -72,6 +72,15 @@ Interrogative pronouns are used when asking questions.
 * _<b>Caní</b> románda_ “<b>is it not</b> Roman?”
 * _<b>im</b> mascul fá femen_ “<b>is it</b> a masculine or feminine (noun)?”
 * _<b>in</b> mesorsa_ “<b>will</b> I judge?”
+
+### <a name="Ind">`Neg`</a>: negative
+
+Old Irish has negative pronouns, _nach_, "nothing".
+
+#### Examples
+
+* _níepur <b>na</b> haill_ “I say nothing more”
+* _ni airecar <b>na</b> ail_ “nothing else is found”
 
 ### <a name="Prs">`Prs`</a>: personal
 
@@ -96,6 +105,15 @@ The copula in Old Irish has relative forms and can inflect for person and number
 
 * _<b>as</b>mmé moínur_ “<b>that it is</b> I alone”
 * _na<b>mba</b> olcc amenma frimm_ “that his feeling <b>may be</b> not bad towards me”
+
+### <a name="Ind">`Tot`</a>: indefinite
+
+Old Irish has total (collective) pronouns, _cach_, "all/everyone".
+
+#### Examples
+
+* _hi<b>cach</b> ceniul fis ⁊ ecni_ “in every kind of knowledge and wisdom”
+* _athitol re <b>cach</b> libur_ “its title before every book”
 
 ### <a name="Void">`Void`</a>: void pronoun
 
