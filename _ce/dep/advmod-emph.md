@@ -13,13 +13,13 @@ Chechen has several particles with emphatic functions. These include the preverb
 2	t'aehw	t'aehw	ADV	_	_	1	case
 3	dooghush	d.aaxka	VERB	_	ConvType=Sim|NounClass=Dclass|VerbForm=Conv	0	root
 4	oarca	oarca	NOUN	_	Case=Abs	3	nsubj
-5	ma	ma	PART	_	_	6	advmod:emph
+5	ma	ma	PART	_	_	3	advmod:emph
 6	du	d.u	AUX	_	NounClass=Dclass|Tense=Pres	3	aux
 7	shaa	shaa	PRON	_	Number=Sing|Person=3|PronType=Prs|Reflex=Yes	8	obj
-8	jie	d.ie	VERB	_	NounClass=Jclass|VerbForm=Inf	3	advcl 
+8	jie	d.ie	VERB	_	NounClass=Jclass|VerbForm=Inf	3	advcl
 
-shiena           t'aehw d-oogh-ush    oarca     ma   d-u      shaa     j-ie
-3SG.REFL.DAT.LOG after  D-come-CVBsim guardians EMPH D-be.PRS 3SG.REFL J-kill.INF
+shiena        t'aehw d-oogh-ush    oarca     ma   d-u      shaa     j-ie
+3SG.REFL.DAT  after  D-come-CVBsim guardians EMPH D-be.PRS 3SG.REFL J-kill.INF
 "The guardians are following me, to kill me."
 ~~~
 
